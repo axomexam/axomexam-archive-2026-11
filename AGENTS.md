@@ -1119,3 +1119,52 @@ already-committed tree therefore reports ~1,200 "changed" pages that are just
 that difference. If a fix does not change page markup, do **not** re-run the
 twin/keyword/SEO chain to "refresh" it — revert `*.html` and only re-run
 `scripts/stamp-assets.js` so the `api.js?v=` hash matches the rebuilt bundle.
+## Session record — Nov 2026 RRB NTPC GA article panels (23 topics) + Ancient History verification
+
+What was done, so the next agent does not redo or undo it:
+
+- **Completed the 23 RRB NTPC General Awareness long-form article panels.**
+  The source files live in `tools/rrb-ntpc-ga-articles/<section>/<topic>.js`
+  (untracked tool data, one module per leaf page). Each module exports
+  `h2`, `p.{en,as}` (paragraph array), `list.{en,as}` (key-fact bullets) and
+  `faqs` (5 bilingual Q&A). `tools/rrb-ntpc.ga-extra.js` renders them into a
+  `<section class="section axo-extra-content" data-axo-extra="1">` block
+  appended after `</main>` on the matching `exams/rrb-ntpc/general-awareness/
+  <section>/<topic>/index.html`, and `tools/rrb-ntpc.ga-extra-check.js`
+  reports per-file word counts.
+- **Quality gate:** `node tools/rrb-ntpc.ga-extra-check.js` must end with
+  `articles failing the 1300-word floor (either language): 0; missing: 0`.
+  Both the English and the Assamese prose must reach ~1300 words; a file that
+  reports `LOW` is topped up by extending the Assamese paragraphs (the EN side
+  is usually already long enough).
+- **Six current-affairs articles were authored in this session**:
+  `appointments-obituaries`, `awards-books-indexes`,
+  `government-schemes-initiatives`, `science-tech-environment` and `sports`
+  (plus `national-international-news` finished earlier). All 23 topics now
+  report `OK`.
+- **Assamese twins rebuilt** with `node tools/build-as-twins.js --prefix
+  exams/rrb-ntpc/general-awareness` (31 pages: 23 leaves + 8 group/hub pages).
+  Do **not** run the tool without `--prefix`: a bare run rewrites ~1208
+  unrelated `/as/` pages (mostly a title-suffix normalisation) and pollutes
+  the diff. Use `--check` first to see drift, then `--prefix` to write only
+  what you touched.
+- **Ancient History (the user's URL) was already complete.** The 360 bilingual
+  MCQs live in `data/exams/rrb-ntpc/general-awareness/history/ancient-history/`
+  (`question-001.json` … `question-360.json`, listed in `index.json`), added in
+  commit `a6b9d608` with two later dedup passes (`ec366128`, `5421514c`).
+  Nothing needed to be added; it was verified only.
+- **Verification run on the Ancient History bank:**
+  - Answer keys spread over A/B/C/D (91/90/90/89); `balance-answer-keys.js
+    --check` reports **0** skewed topics under `general-awareness`.
+  - Fuzzy dedup (`rapidfuzz.fuzz.ratio >= 90`, case/punctuation-folded, EN and
+    AS, stems *and* explanations, against all 80,804 text rows across `data/`)
+    reports **0** near-duplicate pairs. An earlier session had already reworded
+    the 13 items the first pass found.
+  - `seo-audit.js` stays at dup titles/descriptions 0, thin 0, title>60 0,
+    desc>160 0, sitemap alt miss 0.
+- **A note on the dedup tooling.** The repo has no checked-in fuzzy dedup
+  script; `tools/` holds only `dedupe-as-twins.js` (Assamese twin URLs) and
+  `fix-duplicate-bilingual-text.js`. The fuzzy check above was run ad hoc with
+  Python `rapidfuzz` (installed in the sandbox), token-prefiltered so it
+  finishes in seconds; a plain `difflib` pass over all pairs is too slow
+  (~80k rows) and will time out.
