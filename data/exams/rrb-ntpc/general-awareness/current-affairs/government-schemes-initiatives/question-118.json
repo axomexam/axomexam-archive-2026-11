@@ -1,0 +1,32 @@
+[
+  {
+    "id": "government-schemes-initiatives-118",
+    "q": {
+      "en": "The 'UPI' digital payment system was developed by which organisation?",
+      "as": "'ইউপিআই' ডিজিটেল পেমেন্ট ব্যৱস্থা কোন সংস্থাই বিকশিত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Reserve Bank of India",
+        "as": "ভাৰতীয় ৰিজাৰ্ভ বেংক"
+      },
+      {
+        "en": "National Payments Corporation of India",
+        "as": "ভাৰতীয় ৰাষ্ট্ৰীয় পেমেন্ট নিগম"
+      },
+      {
+        "en": "SEBI",
+        "as": "ছেবি"
+      },
+      {
+        "en": "NITI Aayog",
+        "as": "নীতি আয়োগ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Unified Payments Interface (UPI) was developed by the National Payments Corporation of India (NPCI).",
+      "as": "ইউনিফাইড পেমেন্টছ ইণ্টাৰফেচ (ইউপিআই) ভাৰতীয় ৰাষ্ট্ৰীয় পেমেন্ট নিগম (এনপিচিআই) য়ে বিকশিত কৰিছিল।"
+    }
+  }
+]

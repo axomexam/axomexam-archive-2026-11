@@ -1,0 +1,32 @@
+[
+  {
+    "id": "government-schemes-initiatives-134",
+    "q": {
+      "en": "The 'PM-WANI' framework is related to the expansion of which service?",
+      "as": "'পিএম-ৱানী' আঁচালিখন কোন সেৱাৰ বিস্তাৰৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Digital payments",
+        "as": "ডিজিটেল পেমেন্ট"
+      },
+      {
+        "en": "Telemedicine",
+        "as": "টেলিমেডিচিন"
+      },
+      {
+        "en": "Cable TV",
+        "as": "কেবল টিভি"
+      },
+      {
+        "en": "Public Wi-Fi",
+        "as": "ৰাজহুৱা ৱাই-ফাই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "PM-WANI (Prime Minister's Wi-Fi Access Network Interface) promotes public Wi-Fi networks across India.",
+      "as": "পিএম-ৱানী (প্ৰধানমন্ত্ৰীৰ ৱাই-ফাই এক্সেছ নেটৱৰ্ক ইণ্টাৰফেচ) ভাৰতজুৰি ৰাজহুৱা ৱাই-ফাই নেটৱৰ্ক প্ৰসাৰ কৰে।"
+    }
+  }
+]

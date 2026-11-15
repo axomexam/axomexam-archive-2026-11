@@ -1,0 +1,32 @@
+[
+  {
+    "id": "government-schemes-initiatives-123",
+    "q": {
+      "en": "The 'DIKSHA' platform, an initiative in the education sector, stands for what purpose?",
+      "as": "'দীক্ষা' মঞ্চ, শিক্ষা খণ্ডৰ এটা পদক্ষেপ, কি উদ্দেশ্যৰ বাবে?"
+    },
+    "options": [
+      {
+        "en": "Digital payment system",
+        "as": "ডিজিটেল পেমেন্ট ব্যৱস্থা"
+      },
+      {
+        "en": "Rural employment scheme",
+        "as": "গ্ৰাম্য নিয়োগ আঁচনি"
+      },
+      {
+        "en": "Health insurance scheme",
+        "as": "স্বাস্থ্য বীমা আঁচনি"
+      },
+      {
+        "en": "Digital infrastructure for teachers' learning",
+        "as": "শিক্ষকৰ শিকাৰ বাবে ডিজিটেল আন্তঃগাঁথনি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "DIKSHA (Digital Infrastructure for Knowledge Sharing) is a national platform for school education providing e-content for teachers and students.",
+      "as": "দীক্ষা (ডিজিটেল ইনফ্ৰাষ্ট্ৰাকচাৰ ফৰ ন'লেজ শ্বেয়াৰিং) বিদ্যালয় শিক্ষাৰ এটা ৰাষ্ট্ৰীয় মঞ্চ যিয়ে শিক্ষক আৰু শিক্ষাৰ্থীৰ বাবে ই-বিষয়বস্তু প্ৰদান কৰে।"
+    }
+  }
+]

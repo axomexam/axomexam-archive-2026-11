@@ -620,3 +620,36 @@ What was done, so the next agent does not redo or undo it:
 - **`data/counts.json` is deliberately unchanged.** The book is still
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
+
+## Session record — Nov 2026 RRB NTPC Government Schemes & Initiatives question bank (161 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a bilingual Government Schemes & Initiatives bank to the RRB NTPC book
+  at `data/exams/rrb-ntpc/general-awareness/current-affairs/government-schemes-initiatives/`:
+  `question-002.json` … `question-161.json` (160 new files) on top of the
+  existing `question-001.json`, for **161 questions** in the topic. Each file
+  holds one MCQ in the repo's shape — `id`, `q.{en,as}`, four
+  `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 161 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content.** Questions are written for RRB NTPC difficulty and cover the Union
+  Budget 2025-26 announcements (PM Dhan-Dhaanya Krishi Yojana, Makhana Board,
+  National Manufacturing Mission, Nuclear Energy Mission, Gyan Bharatam Mission,
+  BharatTradeNet, SWAMIH Fund 2) and major central schemes across agriculture,
+  health, education, women and child welfare, employment, financial inclusion,
+  infrastructure, energy and digital governance. Per the user's standing rule,
+  current-affairs content stays within roughly the last 12 months.
+- **Answer keys** are spread over A/B/C/D — across all 161 questions the slots
+  hold 41/40/40/40, using the same deterministic sequence
+  `tools/balance-answer-keys.js` uses; `--book rrb-ntpc --topic
+  general-awareness/current-affairs/government-schemes-initiatives --check`
+  reports 0 skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive, English and Assamese) against all other
+  question text already in `data/`; the colliding items were reworded so the
+  bank shares no stem or explanation with the existing ADRE grade-3/4 schemes
+  banks, the economy banks or the content pages.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.

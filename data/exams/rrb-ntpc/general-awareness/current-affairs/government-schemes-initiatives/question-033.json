@@ -1,0 +1,32 @@
+[
+  {
+    "id": "government-schemes-initiatives-033",
+    "q": {
+      "en": "Which ministry implements the 'PM Surya Ghar: Muft Bijli Yojana'?",
+      "as": "'পিএম সূৰ্য ঘৰ: মুফত বিদ্যুৎ আঁচনি' কোন মন্ত্ৰালয়ে ৰূপায়ণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Ministry of Power",
+        "as": "শক্তি মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of New and Renewable Energy",
+        "as": "নৱ আৰু নৱীকৰণযোগ্য শক্তি মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Rural Development",
+        "as": "গ্ৰাম্য উন্নয়ন মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Environment",
+        "as": "পৰিৱেশ মন্ত্ৰালয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The PM Surya Ghar: Muft Bijli Yojana is implemented by the Ministry of New and Renewable Energy to provide rooftop solar power to households.",
+      "as": "পিএম সূৰ্য ঘৰ: মুফত বিদ্যুৎ আঁচনি নৱ আৰু নৱীকৰণযোগ্য শক্তি মন্ত্ৰালয়ে গৃহস্থক চালিৰ ছ'লাৰ শক্তি প্ৰদানৰ বাবে ৰূপায়ণ কৰে।"
+    }
+  }
+]

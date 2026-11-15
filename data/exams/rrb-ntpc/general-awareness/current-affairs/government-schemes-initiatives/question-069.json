@@ -1,0 +1,32 @@
+[
+  {
+    "id": "government-schemes-initiatives-069",
+    "q": {
+      "en": "The 'Pradhan Mantri Fasal Bima Yojana' provides insurance cover against which risk?",
+      "as": "'প্ৰধানমন্ত্ৰী ফছল বীমা আঁচনি'ই কোন বিপদৰ বিৰুদ্ধে বীমা সুৰক্ষা প্ৰদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "Vehicle accidents",
+        "as": "বাহন দুৰ্ঘটনা"
+      },
+      {
+        "en": "House fire",
+        "as": "ঘৰৰ জুই"
+      },
+      {
+        "en": "Crop loss due to natural calamities",
+        "as": "প্ৰাকৃতিক দুৰ্যোগত শস্যৰ ক্ষতি"
+      },
+      {
+        "en": "Health emergencies",
+        "as": "স্বাস্থ্য জৰুৰী অৱস্থা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "PMFBY provides comprehensive risk insurance from pre-sowing to post-harvest losses to farmers due to natural calamities and pests.",
+      "as": "পিএমএফবিৱাই প্ৰাকৃতিক দুৰ্যোগ আৰু পোক-পতংগৰ বাবে কৃষকৰ সিঁচাৰ আগৰপৰা চপোৱাৰ পিছলৈ লোকচানৰ সৰ্বাংগীন বিপদ বীমা প্ৰদান কৰে।"
+    }
+  }
+]

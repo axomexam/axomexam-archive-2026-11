@@ -1,0 +1,32 @@
+[
+  {
+    "id": "government-schemes-initiatives-043",
+    "q": {
+      "en": "The 'PM-KUSUM' scheme is associated with which sector?",
+      "as": "'পিএম-কুছুম' আঁচনি কোন খণ্ডৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Rural housing",
+        "as": "গ্ৰাম্য আৱাস"
+      },
+      {
+        "en": "Fisheries",
+        "as": "মীনপালন"
+      },
+      {
+        "en": "Solar energy for farmers",
+        "as": "কৃষকৰ বাবে ছ'লাৰ শক্তি"
+      },
+      {
+        "en": "Handloom",
+        "as": "তাঁত-বস্ত্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "PM-KUSUM promotes the use of solar pumps and solarisation of grid-connected agricultural pumps to provide energy security to farmers.",
+      "as": "পিএম-কুছুমে কৃষকক শক্তি সুৰক্ষা দিবলৈ ছ'লাৰ পাম্প আৰু গ্ৰিড-সংযুক্ত কৃষি পাম্পৰ ছ'লাৰীকৰণৰ প্ৰসাৰ কৰে।"
+    }
+  }
+]

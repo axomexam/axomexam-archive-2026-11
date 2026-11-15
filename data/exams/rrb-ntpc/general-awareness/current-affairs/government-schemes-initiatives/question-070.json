@@ -1,0 +1,32 @@
+[
+  {
+    "id": "government-schemes-initiatives-070",
+    "q": {
+      "en": "The 'e-NAM' platform is meant for online trading of which products?",
+      "as": "'ই-নাম' মঞ্চ কোন সামগ্ৰীৰ অনলাইন বাণিজ্যৰ বাবে?"
+    },
+    "options": [
+      {
+        "en": "Electronic goods",
+        "as": "বৈদ্যুতিন সামগ্ৰী"
+      },
+      {
+        "en": "Handicrafts",
+        "as": "হস্তশিল্প"
+      },
+      {
+        "en": "Agricultural produce",
+        "as": "কৃষি সামগ্ৰী"
+      },
+      {
+        "en": "Textiles",
+        "as": "বস্ত্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "e-NAM (National Agriculture Market) is an online trading portal for agricultural commodities, integrating mandis across states.",
+      "as": "ই-নাম (ৰাষ্ট্ৰীয় কৃষি বজাৰ) কৃষি সামগ্ৰীৰ অনলাইন বাণিজ্য প'ৰ্টেল, যিয়ে ৰাজ্যসমূহৰ মণ্ডিসমূহ একত্ৰিত কৰে।"
+    }
+  }
+]

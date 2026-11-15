@@ -1,0 +1,32 @@
+[
+  {
+    "id": "government-schemes-initiatives-050",
+    "q": {
+      "en": "The 'e-Shram' portal, launched by the Ministry of Labour and Employment, maintains a database of which workers?",
+      "as": "শ্ৰম আৰু নিয়োগ মন্ত্ৰালয়ে আৰম্ভ কৰা 'ই-শ্ৰম' প'ৰ্টেলটোৱে কোন শ্ৰমিকৰ তথ্যভঁৰাল ৰাখে?"
+    },
+    "options": [
+      {
+        "en": "Government employees",
+        "as": "চৰকাৰী কৰ্মচাৰী"
+      },
+      {
+        "en": "Corporate executives",
+        "as": "নিগমৰ বিষয়া"
+      },
+      {
+        "en": "Bank officers",
+        "as": "বেংক বিষয়া"
+      },
+      {
+        "en": "Unorganised sector workers",
+        "as": "অসংগঠিত খণ্ডৰ শ্ৰমিক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The e-Shram portal creates a national database of unorganised workers such as construction labourers, migrant workers and gig workers.",
+      "as": "ই-শ্ৰম প'ৰ্টেলে নিৰ্মাণ শ্ৰমিক, প্ৰবাসী শ্ৰমিক আৰু গিগ শ্ৰমিকৰ দৰে অসংগঠিত শ্ৰমিকৰ ৰাষ্ট্ৰীয় তথ্যভঁৰাল সৃষ্টি কৰে।"
+    }
+  }
+]
