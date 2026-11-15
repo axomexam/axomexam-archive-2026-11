@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-139",
+    "q": {
+      "en": "Compounds with the same molecular formula but different structures are called:",
+      "as": "একে আণৱিক সংকেত কিন্তু ভিন্ন গঠন থকা যৌগবোৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Polymers",
+        "as": "পলিমাৰ"
+      },
+      {
+        "en": "Allotropes",
+        "as": "ৰূপ"
+      },
+      {
+        "en": "Isotopes",
+        "as": "আইছ'ট'প"
+      },
+      {
+        "en": "Isomers",
+        "as": "আইছ'মাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Isomers share a molecular formula but differ in arrangement, giving different properties.",
+      "as": "আইছ'মাৰৰ আণৱিক সংকেত একে কিন্তু বিন্যাস বেলেগ, যাৰ ফলত ধৰ্মও বেলেগ।"
+    }
+  }
+]

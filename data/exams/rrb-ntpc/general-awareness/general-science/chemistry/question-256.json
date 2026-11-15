@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-256",
+    "q": {
+      "en": "Which compound is chemically known as vitamin C?",
+      "as": "কোন যৌগক ৰাসায়নিকভাৱে ভিটামিন C বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Ascorbic acid",
+        "as": "এছকৰবিক এচিড"
+      },
+      {
+        "en": "Citric acid",
+        "as": "ছিট্ৰিক এচিড"
+      },
+      {
+        "en": "Riboflavin",
+        "as": "ৰাইব'ফ্লেভিন"
+      },
+      {
+        "en": "Thiamine",
+        "as": "থায়ামিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vitamin C is ascorbic acid, found in citrus fruits.",
+      "as": "ভিটামিন C হ'ল এছকৰবিক এচিড, টেঙা ফলত পোৱা যায়।"
+    }
+  }
+]

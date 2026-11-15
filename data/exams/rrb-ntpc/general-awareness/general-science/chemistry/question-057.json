@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-057",
+    "q": {
+      "en": "The valency of aluminium is:",
+      "as": "এলুমিনিয়ামৰ যোজ্যতা কিমান?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Aluminium loses three electrons to form Al³⁺, so its valency is 3.",
+      "as": "এলুমিনিয়ামে তিনিটা ইলেক্ট্ৰন হেৰুৱাই Al³⁺ গঠন কৰে, গতিকে ইয়াৰ যোজ্যতা ৩।"
+    }
+  }
+]

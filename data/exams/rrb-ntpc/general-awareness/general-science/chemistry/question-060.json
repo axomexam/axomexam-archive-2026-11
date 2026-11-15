@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-060",
+    "q": {
+      "en": "A substance that turns red litmus paper blue is:",
+      "as": "যি পদাৰ্থই ৰঙা লিটমাছ কাগজ নীলা কৰে সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "An acid",
+        "as": "এচিড"
+      },
+      {
+        "en": "A salt",
+        "as": "নিমখ"
+      },
+      {
+        "en": "A base",
+        "as": "ক্ষাৰক"
+      },
+      {
+        "en": "An oxide",
+        "as": "অক্সাইড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bases are bitter, soapy to touch, and turn red litmus blue.",
+      "as": "ক্ষাৰক তিতা, স্পৰ্শত চাবোনৰ দৰে, আৰু ৰঙা লিটমাছ নীলা কৰে।"
+    }
+  }
+]

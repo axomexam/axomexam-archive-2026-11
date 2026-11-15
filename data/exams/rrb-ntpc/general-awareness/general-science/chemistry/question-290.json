@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-290",
+    "q": {
+      "en": "The process of adding chlorine to water to make it safe for drinking is called:",
+      "as": "পানী খোৱাৰ উপযোগী কৰিবলৈ তাত ক্ল'ৰিন যোগ কৰা প্ৰক্ৰিয়াটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Chlorination",
+        "as": "ক্ল'ৰিনীকৰণ"
+      },
+      {
+        "en": "Filtration",
+        "as": "ছেকনী"
+      },
+      {
+        "en": "Distillation",
+        "as": "পাতন"
+      },
+      {
+        "en": "Sedimentation",
+        "as": "অৱক্ষেপণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chlorination kills disease-causing microbes, making water safe to drink.",
+      "as": "ক্ল'ৰিনীকৰণে ৰোগ সৃষ্টি কৰা অণুজীৱ মাৰি পানী খোৱাৰ উপযোগী কৰে।"
+    }
+  }
+]

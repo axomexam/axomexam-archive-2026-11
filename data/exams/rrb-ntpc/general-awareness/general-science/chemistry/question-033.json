@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-033",
+    "q": {
+      "en": "The horizontal rows of the modern periodic table are called:",
+      "as": "আধুনিক পৰ্যায় সাৰণীৰ অনুভূমিক শাৰীবোৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Groups",
+        "as": "শ্ৰেণী"
+      },
+      {
+        "en": "Periods",
+        "as": "পৰ্যায়"
+      },
+      {
+        "en": "Families",
+        "as": "পৰিয়াল"
+      },
+      {
+        "en": "Blocks",
+        "as": "খণ্ড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The seven horizontal rows are called periods.",
+      "as": "সাতটা অনুভূমিক শাৰীক পৰ্যায় বোলা হয়।"
+    }
+  }
+]

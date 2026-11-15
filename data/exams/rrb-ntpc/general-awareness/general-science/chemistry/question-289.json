@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-289",
+    "q": {
+      "en": "Hard water does not lather easily with soap because of dissolved salts of:",
+      "as": "কঠিন পানীয়ে চাবোনৰ সৈতে সহজে ফেন নকৰে কিয়নো তাত দ্ৰৱীভূত নিমখ থাকে:"
+    },
+    "options": [
+      {
+        "en": "Sodium and potassium",
+        "as": "ছ'ডিয়াম আৰু পটাছিয়াম"
+      },
+      {
+        "en": "Iron and copper",
+        "as": "লো আৰু তাম"
+      },
+      {
+        "en": "Zinc and lead",
+        "as": "জিংক আৰু সীহ"
+      },
+      {
+        "en": "Calcium and magnesium",
+        "as": "কেলছিয়াম আৰু মেগনেছিয়াম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Calcium and magnesium ions react with soap to form an insoluble scum.",
+      "as": "কেলছিয়াম আৰু মেগনেছিয়াম আয়নে চাবোনৰ সৈতে বিক্ৰিয়া কৰি অদ্ৰৱনীয় মল গঠন কৰে।"
+    }
+  }
+]

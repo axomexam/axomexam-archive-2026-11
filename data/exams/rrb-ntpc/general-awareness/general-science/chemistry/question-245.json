@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-245",
+    "q": {
+      "en": "The main component of biogas is:",
+      "as": "বায়'গেছৰ মূল উপাদানটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Hydrogen sulphide",
+        "as": "হাইড্ৰ'জেন ছালফাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Biogas is mainly methane, produced by the anaerobic digestion of organic waste.",
+      "as": "বায়'গেছ মূলতঃ মিথেন, জৈৱ আৱৰ্জনাৰ অৱাত গাঁজনৰ পৰা উৎপন্ন।"
+    }
+  }
+]

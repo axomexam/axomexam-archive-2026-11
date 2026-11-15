@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-314",
+    "q": {
+      "en": "Souring of milk is an example of a:",
+      "as": "গাখীৰ টেঙা হোৱাটো কিয়ৰ উদাহৰণ?"
+    },
+    "options": [
+      {
+        "en": "Physical change",
+        "as": "ভৌতিক পৰিৱৰ্তন"
+      },
+      {
+        "en": "Change of state",
+        "as": "অৱস্থাৰ পৰিৱৰ্তন"
+      },
+      {
+        "en": "Chemical change",
+        "as": "ৰাসায়নিক পৰিৱৰ্তন"
+      },
+      {
+        "en": "Reversible change",
+        "as": "প্ৰতিবৰ্তী পৰিৱৰ্তন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bacteria convert lactose into lactic acid, a new substance, so it is a chemical change.",
+      "as": "বেক্টেৰিয়াই লেক্ট'জক লেক্টিক এচিডলৈ ৰূপান্তৰ কৰে, এটা নতুন পদাৰ্থ, গতিকে ই ৰাসায়নিক পৰিৱৰ্তন।"
+    }
+  }
+]

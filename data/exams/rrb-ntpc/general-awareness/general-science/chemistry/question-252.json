@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-252",
+    "q": {
+      "en": "The reagent used to test for the presence of glucose is:",
+      "as": "গ্লুক'জৰ উপস্থিতি পৰীক্ষা কৰিবলৈ ব্যৱহৃত অভিকৰ্মীটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Iodine solution",
+        "as": "আয়'ডিন দ্ৰৱ"
+      },
+      {
+        "en": "Lime water",
+        "as": "চূণপানী"
+      },
+      {
+        "en": "Benedict's solution",
+        "as": "বেনেডিক্টৰ দ্ৰৱ"
+      },
+      {
+        "en": "Litmus solution",
+        "as": "লিটমাছ দ্ৰৱ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Benedict's solution turns brick-red with reducing sugars such as glucose.",
+      "as": "বেনেডিক্টৰ দ্ৰৱে গ্লুক'জৰ দৰে বিজাৰক শৰ্কৰাৰ সৈতে ইটাৰঙী হয়।"
+    }
+  }
+]

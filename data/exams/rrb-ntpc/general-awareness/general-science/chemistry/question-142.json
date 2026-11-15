@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-142",
+    "q": {
+      "en": "The process of making soap from oil or fat and an alkali is called:",
+      "as": "তেল বা চৰ্বি আৰু এটা ক্ষাৰকৰ পৰা চাবোন বনোৱা প্ৰক্ৰিয়াটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Saponification",
+        "as": "চাবোনীকৰণ"
+      },
+      {
+        "en": "Fermentation",
+        "as": "গাঁজন"
+      },
+      {
+        "en": "Esterification",
+        "as": "এষ্টাৰীকৰণ"
+      },
+      {
+        "en": "Polymerisation",
+        "as": "পলিমাৰীকৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Saponification is the hydrolysis of a fat or oil with an alkali to give soap.",
+      "as": "চাবোনীকৰণ হ'ল ক্ষাৰকৰ সৈতে চৰ্বি বা তেলৰ জলবিশ্লেষণ, যাৰ ফলত চাবোন পোৱা যায়।"
+    }
+  }
+]

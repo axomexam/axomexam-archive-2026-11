@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-054",
+    "q": {
+      "en": "The formula of slaked lime is:",
+      "as": "পানী-চূণৰ (স্লেকড লাইম) সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "CaO",
+        "as": "CaO"
+      },
+      {
+        "en": "CaCO₃",
+        "as": "CaCO₃"
+      },
+      {
+        "en": "CaCl₂",
+        "as": "CaCl₂"
+      },
+      {
+        "en": "Ca(OH)₂",
+        "as": "Ca(OH)₂"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Slaked lime is calcium hydroxide, Ca(OH)₂, formed when quicklime reacts with water.",
+      "as": "পানী-চূণ হ'ল কেলছিয়াম হাইড্ৰ'ক্সাইড, Ca(OH)₂, চূণে পানীৰ সৈতে বিক্ৰিয়া কৰি গঠন হয়।"
+    }
+  }
+]

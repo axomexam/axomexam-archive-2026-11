@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-186",
+    "q": {
+      "en": "The chemical formula of common chalk is:",
+      "as": "সাধাৰণ চকাৰ ৰাসায়নিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "CaCO₃",
+        "as": "CaCO₃"
+      },
+      {
+        "en": "CaO",
+        "as": "CaO"
+      },
+      {
+        "en": "Ca(OH)₂",
+        "as": "Ca(OH)₂"
+      },
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chalk, like limestone and marble, is mainly calcium carbonate, CaCO₃.",
+      "as": "চকা, চূণশিল আৰু মাৰ্বলৰ দৰে, মূলতঃ কেলছিয়াম কাৰ্বনেট, CaCO₃।"
+    }
+  }
+]

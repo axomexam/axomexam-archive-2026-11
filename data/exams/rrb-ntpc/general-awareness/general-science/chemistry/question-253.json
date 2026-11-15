@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-253",
+    "q": {
+      "en": "The main source of energy for the human body is provided by:",
+      "as": "মানৱ শৰীৰৰ বাবে শক্তিৰ প্ৰধান উৎস যোগান ধৰে কিয়ৰ দ্বাৰা?"
+    },
+    "options": [
+      {
+        "en": "Carbohydrates",
+        "as": "কাৰ্ব'হাইড্ৰেট"
+      },
+      {
+        "en": "Vitamins",
+        "as": "ভিটামিন"
+      },
+      {
+        "en": "Minerals",
+        "as": "খনিজ"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Carbohydrates are the body's main energy source, providing about 4 kcal per gram.",
+      "as": "কাৰ্ব'হাইড্ৰেট শৰীৰৰ প্ৰধান শক্তি উৎস, প্ৰতি গ্ৰামত প্ৰায় ৪ kcal দিয়ে।"
+    }
+  }
+]

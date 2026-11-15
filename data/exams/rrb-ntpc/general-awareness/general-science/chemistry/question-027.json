@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-027",
+    "q": {
+      "en": "The valency of carbon is:",
+      "as": "কাৰ্বনৰ যোজ্যতা কিমান?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Carbon has four valence electrons, giving it a valency of 4.",
+      "as": "কাৰ্বনৰ চাৰিটা যোজ্য ইলেক্ট্ৰন থাকে, গতিকে ইয়াৰ যোজ্যতা ৪।"
+    }
+  }
+]

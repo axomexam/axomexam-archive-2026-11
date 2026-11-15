@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-022",
+    "q": {
+      "en": "The molecular formula of sulphuric acid is:",
+      "as": "ছালফিউৰিক এচিডৰ আণৱিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "H₂SO₄",
+        "as": "H₂SO₄"
+      },
+      {
+        "en": "HSO₄",
+        "as": "HSO₄"
+      },
+      {
+        "en": "H₂SO₃",
+        "as": "H₂SO₃"
+      },
+      {
+        "en": "H₂S",
+        "as": "H₂S"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sulphuric acid contains two hydrogen, one sulphur and four oxygen atoms.",
+      "as": "ছালফিউৰিক এচিডত দুটা হাইড্ৰ'জেন, এটা ছালফাৰ আৰু চাৰিটা অক্সিজেন পৰমাণু থাকে।"
+    }
+  }
+]

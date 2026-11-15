@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-058",
+    "q": {
+      "en": "The number of electrons that an atom of chlorine needs to complete its outermost shell is:",
+      "as": "ক্ল'ৰিন পৰমাণু এটাই নিজৰ বাহিৰতম কক্ষ সম্পূৰ্ণ কৰিবলৈ কিমান ইলেক্ট্ৰন প্ৰয়োজন?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Chlorine has seven valence electrons, so it needs one more to complete the octet.",
+      "as": "ক্ল'ৰিনত সাতটা যোজ্য ইলেক্ট্ৰন আছে, গতিকে অষ্টক সম্পূৰ্ণ কৰিবলৈ এটা আৰু প্ৰয়োজন।"
+    }
+  }
+]

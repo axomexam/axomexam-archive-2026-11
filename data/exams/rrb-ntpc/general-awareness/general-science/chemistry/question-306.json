@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-306",
+    "q": {
+      "en": "The chemical formula of phosphoric acid is:",
+      "as": "ফছফৰিক এচিডৰ ৰাসায়নিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "H₃PO₃",
+        "as": "H₃PO₃"
+      },
+      {
+        "en": "HPO₄",
+        "as": "HPO₄"
+      },
+      {
+        "en": "H₃PO₄",
+        "as": "H₃PO₄"
+      },
+      {
+        "en": "P₂O₅",
+        "as": "P₂O₅"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Phosphoric acid is H₃PO₄, used in fertilisers and soft drinks.",
+      "as": "ফছফৰিক এচিড হ'ল H₃PO₄, সাৰ আৰু কোমল পানীয়ত ব্যৱহৃত।"
+    }
+  }
+]

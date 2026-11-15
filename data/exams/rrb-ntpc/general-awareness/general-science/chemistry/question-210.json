@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-210",
+    "q": {
+      "en": "The chemical name of dry ice is:",
+      "as": "শুকান বৰফৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Solid water",
+        "as": "কঠিন পানী"
+      },
+      {
+        "en": "Solid ammonia",
+        "as": "কঠিন এম'নিয়া"
+      },
+      {
+        "en": "Solid carbon dioxide",
+        "as": "কঠিন কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Solid nitrogen",
+        "as": "কঠিন নাইট্ৰ'জেন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Dry ice is solid carbon dioxide, which sublimes without melting.",
+      "as": "শুকান বৰফ হ'ল কঠিন কাৰ্বন ডাইঅক্সাইড, যি গলি নগৈ পোনপটীয়াকৈ বাষ্প হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-283",
+    "q": {
+      "en": "The gas that extinguishes a burning splint is:",
+      "as": "যি গেছে জ্বলন্ত কাঠি নুমাই দিয়ে সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰ'জেন"
+      },
+      {
+        "en": "Air",
+        "as": "বায়ু"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Carbon dioxide does not support combustion and is used in fire extinguishers.",
+      "as": "কাৰ্বন ডাইঅক্সাইডে দহনত সহায় নকৰে আৰু অগ্নিনিৰ্বাপক যন্ত্ৰত ব্যৱহৃত হয়।"
+    }
+  }
+]

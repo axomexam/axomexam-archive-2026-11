@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-203",
+    "q": {
+      "en": "The chemical name of common saltpetre is:",
+      "as": "সাধাৰণ ছাল্টপিটাৰৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sodium nitrate",
+        "as": "ছ'ডিয়াম নাইট্ৰেট"
+      },
+      {
+        "en": "Ammonium nitrate",
+        "as": "এম'নিয়াম নাইট্ৰেট"
+      },
+      {
+        "en": "Calcium nitrate",
+        "as": "কেলছিয়াম নাইট্ৰেট"
+      },
+      {
+        "en": "Potassium nitrate",
+        "as": "পটাছিয়াম নাইট্ৰেট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Saltpetre is potassium nitrate, KNO₃, used in gunpowder and fertilisers.",
+      "as": "ছাল্টপিটাৰ হ'ল পটাছিয়াম নাইট্ৰেট, KNO₃, বাৰুদ আৰু সাৰত ব্যৱহৃত।"
+    }
+  }
+]

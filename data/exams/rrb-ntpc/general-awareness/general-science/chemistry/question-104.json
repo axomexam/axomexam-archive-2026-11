@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-104",
+    "q": {
+      "en": "Stainless steel is an alloy of iron with chromium and:",
+      "as": "ষ্টেইনলেছ ষ্টীল লো, ক্ৰ'মিয়াম আৰু কিয়ৰ এটা সংকৰ?"
+    },
+    "options": [
+      {
+        "en": "Nickel",
+        "as": "নিকেল"
+      },
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Zinc",
+        "as": "জিংক"
+      },
+      {
+        "en": "Lead",
+        "as": "সীহ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Stainless steel contains chromium and nickel, which resist rusting.",
+      "as": "ষ্টেইনলেছ ষ্টীলত ক্ৰ'মিয়াম আৰু নিকেল থাকে, যি মামৰ ধৰাৰ পৰা ৰক্ষা কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-029",
+    "q": {
+      "en": "The number of elements in the modern periodic table is:",
+      "as": "আধুনিক পৰ্যায় সাৰণীত মৌলৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "92",
+        "as": "৯২"
+      },
+      {
+        "en": "118",
+        "as": "১১৮"
+      },
+      {
+        "en": "109",
+        "as": "১০৯"
+      },
+      {
+        "en": "100",
+        "as": "১০০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The modern periodic table has 118 elements arranged by increasing atomic number.",
+      "as": "আধুনিক পৰ্যায় সাৰণীত বৰ্ধমান পাৰমাণৱিক সংখ্যা অনুসৰি ১১৮ টা মৌল সজোৱা আছে।"
+    }
+  }
+]

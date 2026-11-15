@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-167",
+    "q": {
+      "en": "A catalyst is a substance that:",
+      "as": "অনুঘটক হ'ল এনে এটা পদাৰ্থ যি:"
+    },
+    "options": [
+      {
+        "en": "Slows down a reaction",
+        "as": "বিক্ৰিয়া লেহেম কৰে"
+      },
+      {
+        "en": "Is consumed in the reaction",
+        "as": "বিক্ৰিয়াত নিঃশেষ হয়"
+      },
+      {
+        "en": "Speeds up a reaction without being consumed",
+        "as": "নিজে নিঃশেষ নহৈ বিক্ৰিয়া দ্ৰুত কৰে"
+      },
+      {
+        "en": "Stops a reaction",
+        "as": "বিক্ৰিয়া বন্ধ কৰে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A catalyst changes the rate of a reaction but is recovered unchanged at the end.",
+      "as": "অনুঘটকে বিক্ৰিয়াৰ হাৰ সলনি কৰে কিন্তু শেষত অপৰিৱৰ্তিতভাৱে ঘূৰি পোৱা যায়।"
+    }
+  }
+]

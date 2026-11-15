@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-257",
+    "q": {
+      "en": "The deficiency of vitamin C causes:",
+      "as": "ভিটামিন C ৰ অভাৱে কিয় সৃষ্টি কৰে?"
+    },
+    "options": [
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "Night blindness",
+        "as": "নিশি-অন্ধতা"
+      },
+      {
+        "en": "Scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "Beri-beri",
+        "as": "বেৰি-বেৰি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Lack of vitamin C causes scurvy, with bleeding gums and slow healing.",
+      "as": "ভিটামিন C ৰ অভাৱে স্কাৰ্ভি কৰে, যাৰ ফলত দাঁতৰ মঙহৰ পৰা তেজ ওলায় আৰু ঘা লেহেমে শুকায়।"
+    }
+  }
+]

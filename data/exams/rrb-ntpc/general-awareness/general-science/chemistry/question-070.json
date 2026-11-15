@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-070",
+    "q": {
+      "en": "The gas released when dilute hydrochloric acid is added to limestone is:",
+      "as": "পাতল হাইড্ৰ'ক্ল'ৰিক এচিড চূণশিলত যোগ কৰিলে মুক্ত হোৱা গেছটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰ'জেন"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Sulphur dioxide",
+        "as": "ছালফাৰ ডাইঅক্সাইড"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Calcium carbonate reacts with HCl to release carbon dioxide, which turns limewater milky.",
+      "as": "কেলছিয়াম কাৰ্বনেটে HCl ৰ সৈতে বিক্ৰিয়া কৰি কাৰ্বন ডাইঅক্সাইড মুক্ত কৰে, যি চূণপানী ঘোলা কৰে।"
+    }
+  }
+]

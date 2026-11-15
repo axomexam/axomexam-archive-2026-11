@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-012",
+    "q": {
+      "en": "Which symbol represents the metal iron?",
+      "as": "কোন সংকেতই লো ধাতুক সূচায়?"
+    },
+    "options": [
+      {
+        "en": "Ir",
+        "as": "Ir"
+      },
+      {
+        "en": "In",
+        "as": "In"
+      },
+      {
+        "en": "I",
+        "as": "I"
+      },
+      {
+        "en": "Fe",
+        "as": "Fe"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Iron takes its symbol Fe from its Latin name ferrum.",
+      "as": "লোৱে ইয়াৰ লেটিন নাম ferrum ৰ পৰা Fe সংকেত লয়।"
+    }
+  }
+]

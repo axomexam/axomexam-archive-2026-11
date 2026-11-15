@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-191",
+    "q": {
+      "en": "The main gas responsible for the greenhouse effect and global warming is:",
+      "as": "গ্ৰীণহাউছ প্ৰভাৱ আৰু গোলকীয় উষ্ণতা বৃদ্ধিৰ বাবে দায়ী প্ৰধান গেছটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      },
+      {
+        "en": "Helium",
+        "as": "হিলিয়াম"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Carbon dioxide traps heat in the atmosphere and drives global warming.",
+      "as": "কাৰ্বন ডাইঅক্সাইডে বায়ুমণ্ডলত তাপ ৰাখে আৰু গোলকীয় উষ্ণতা বৃদ্ধি কৰে।"
+    }
+  }
+]

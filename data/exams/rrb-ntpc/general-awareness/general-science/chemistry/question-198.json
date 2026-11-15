@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-198",
+    "q": {
+      "en": "The process of removing dissolved salts from sea water to make it drinkable is called:",
+      "as": "সমুদ্ৰৰ পানীৰ পৰা দ্ৰৱীভূত নিমখ আঁতৰাই খোৱাৰ উপযোগী কৰা প্ৰক্ৰিয়াটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Distillation only",
+        "as": "কেৱল পাতন"
+      },
+      {
+        "en": "Filtration",
+        "as": "ছেকনী"
+      },
+      {
+        "en": "Desalination",
+        "as": "লৱণমুক্তীকৰণ"
+      },
+      {
+        "en": "Chlorination",
+        "as": "ক্ল'ৰিনীকৰণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Desalination removes salts from sea water, often by distillation or reverse osmosis.",
+      "as": "লৱণমুক্তীকৰণে সমুদ্ৰৰ পানীৰ পৰা নিমখ আঁতৰায়, প্ৰায়ে পাতন বা বিপৰীত অভিস্ৰৱণৰ দ্বাৰা।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-273",
+    "q": {
+      "en": "Water is best described as a:",
+      "as": "পানীক আটাইতকৈ ভালদৰে বৰ্ণনা কৰিব পাৰি এটা:"
+    },
+    "options": [
+      {
+        "en": "Mixture",
+        "as": "মিশ্ৰণ"
+      },
+      {
+        "en": "Compound",
+        "as": "যৌগ"
+      },
+      {
+        "en": "Element",
+        "as": "মৌল"
+      },
+      {
+        "en": "Alloy",
+        "as": "সংকৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Water is a compound of hydrogen and oxygen in a fixed 2:1 ratio.",
+      "as": "পানী হাইড্ৰ'জেন আৰু অক্সিজেনৰ এটা যৌগ, নিৰ্দিষ্ট ২:১ অনুপাতত।"
+    }
+  }
+]

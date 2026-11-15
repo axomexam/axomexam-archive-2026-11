@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-300",
+    "q": {
+      "en": "The element with the symbol Sn is:",
+      "as": "Sn সংকেত থকা মৌলটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sodium",
+        "as": "ছ'ডিয়াম"
+      },
+      {
+        "en": "Sulphur",
+        "as": "গন্ধক"
+      },
+      {
+        "en": "Silicon",
+        "as": "ছিলিকন"
+      },
+      {
+        "en": "Tin",
+        "as": "টিন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sn is the symbol for tin, from its Latin name stannum.",
+      "as": "Sn হ'ল টিনৰ সংকেত, ইয়াৰ লেটিন নাম stannum ৰ পৰা।"
+    }
+  }
+]

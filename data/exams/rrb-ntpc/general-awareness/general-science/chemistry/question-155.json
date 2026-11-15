@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-155",
+    "q": {
+      "en": "The number of atoms present in one molecule of sulphuric acid is:",
+      "as": "ছালফিউৰিক এচিডৰ এটা অণুত থকা পৰমাণুৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "H₂SO₄ has 2 hydrogen + 1 sulphur + 4 oxygen = 7 atoms.",
+      "as": "H₂SO₄ ত ২ হাইড্ৰ'জেন + ১ ছালফাৰ + ৪ অক্সিজেন = ৭ পৰমাণু।"
+    }
+  }
+]

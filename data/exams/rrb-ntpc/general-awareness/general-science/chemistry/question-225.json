@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-225",
+    "q": {
+      "en": "The polymer used for making electrical switches and handles of utensils is:",
+      "as": "বিদ্যুৎ চুইচ আৰু পাত্ৰৰ হেণ্ডেল বনাবলৈ ব্যৱহৃত পলিমাৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Polythene",
+        "as": "পলিথিন"
+      },
+      {
+        "en": "Bakelite",
+        "as": "বেকেলাইট"
+      },
+      {
+        "en": "Nylon",
+        "as": "নাইলন"
+      },
+      {
+        "en": "Teflon",
+        "as": "টেফলন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bakelite is a thermosetting plastic, a poor conductor and heat resistant.",
+      "as": "বেকেলাইট এটা তাপস্থাপনী প্লাষ্টিক, দুৰ্বল পৰিবাহী আৰু তাপ সহনশীল।"
+    }
+  }
+]

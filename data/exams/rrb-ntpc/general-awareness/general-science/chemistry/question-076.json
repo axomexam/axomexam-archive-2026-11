@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-076",
+    "q": {
+      "en": "The acid present in the stomach that helps in digestion is:",
+      "as": "পেটত থকা, হজমত সহায় কৰা এচিডটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sulphuric acid",
+        "as": "ছালফিউৰিক এচিড"
+      },
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      },
+      {
+        "en": "Hydrochloric acid",
+        "as": "হাইড্ৰ'ক্ল'ৰিক এচিড"
+      },
+      {
+        "en": "Nitric acid",
+        "as": "নাইট্ৰিক এচিড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Gastric juice contains hydrochloric acid, which aids digestion.",
+      "as": "গেষ্ট্ৰিক ৰসত হাইড্ৰ'ক্ল'ৰিক এচিড থাকে, যি হজমত সহায় কৰে।"
+    }
+  }
+]

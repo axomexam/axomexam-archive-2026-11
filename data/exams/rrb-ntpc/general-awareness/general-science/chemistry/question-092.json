@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-092",
+    "q": {
+      "en": "Which non-metal exists as a liquid at ordinary room temperature?",
+      "as": "কোন অধাতুটো সাধাৰণ কোঠৰ উষ্ণতাত তৰল হিচাপে থাকে?"
+    },
+    "options": [
+      {
+        "en": "Iodine",
+        "as": "আয়'ডিন"
+      },
+      {
+        "en": "Sulphur",
+        "as": "গন্ধক"
+      },
+      {
+        "en": "Phosphorus",
+        "as": "ফছফৰাছ"
+      },
+      {
+        "en": "Bromine",
+        "as": "ব্ৰ'মিন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bromine is the only non-metal that is liquid at room temperature.",
+      "as": "ব্ৰ'মিন হ'ল একমাত্ৰ অধাতু যি কোঠৰ উষ্ণতাত তৰল।"
+    }
+  }
+]

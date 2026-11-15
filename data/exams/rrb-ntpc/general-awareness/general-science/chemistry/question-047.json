@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-047",
+    "q": {
+      "en": "Metals are good conductors of electricity because they have:",
+      "as": "ধাতুবোৰ বিদ্যুৎৰ ভাল পৰিবাহী কিয়নো তাত থাকে:"
+    },
+    "options": [
+      {
+        "en": "Free protons",
+        "as": "মুক্ত প্ৰ'টন"
+      },
+      {
+        "en": "Tightly bound electrons",
+        "as": "দৃঢ়ভাৱে বদ্ধ ইলেক্ট্ৰন"
+      },
+      {
+        "en": "No electrons",
+        "as": "ইলেক্ট্ৰন নাথাকে"
+      },
+      {
+        "en": "Free electrons",
+        "as": "মুক্ত ইলেক্ট্ৰন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Delocalised free electrons carry current through a metal.",
+      "as": "অৱস্থানমুক্ত মুক্ত ইলেক্ট্ৰনে ধাতুৰ মাজেৰে প্ৰৱাহ কঢ়িয়ায়।"
+    }
+  }
+]

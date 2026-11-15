@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-081",
+    "q": {
+      "en": "The chemical name of baking soda is:",
+      "as": "বেকিং ছ'ডাৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sodium carbonate",
+        "as": "ছ'ডিয়াম কাৰ্বনেট"
+      },
+      {
+        "en": "Sodium bicarbonate",
+        "as": "ছ'ডিয়াম বাইকাৰ্বনেট"
+      },
+      {
+        "en": "Sodium chloride",
+        "as": "ছ'ডিয়াম ক্ল'ৰাইড"
+      },
+      {
+        "en": "Sodium hydroxide",
+        "as": "ছ'ডিয়াম হাইড্ৰ'ক্সাইড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Baking soda is sodium bicarbonate, NaHCO₃.",
+      "as": "বেকিং ছ'ডা হ'ল ছ'ডিয়াম বাইকাৰ্বনেট, NaHCO₃।"
+    }
+  }
+]

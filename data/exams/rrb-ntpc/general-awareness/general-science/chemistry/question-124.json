@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-124",
+    "q": {
+      "en": "The simplest hydrocarbon is:",
+      "as": "আটাইতকৈ সৰল হাইড্ৰ'কাৰ্বনটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Ethane",
+        "as": "ইথেন"
+      },
+      {
+        "en": "Methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "Propane",
+        "as": "প্ৰ'পেন"
+      },
+      {
+        "en": "Ethene",
+        "as": "ইথিন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Methane, CH₄, has one carbon atom and is the simplest hydrocarbon.",
+      "as": "মিথেন, CH₄, এটা কাৰ্বন পৰমাণুৰে গঠিত আৰু ই আটাইতকৈ সৰল হাইড্ৰ'কাৰ্বন।"
+    }
+  }
+]

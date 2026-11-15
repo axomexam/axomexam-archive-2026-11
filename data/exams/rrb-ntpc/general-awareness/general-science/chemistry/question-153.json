@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-153",
+    "q": {
+      "en": "A chemical equation is balanced to satisfy the law of conservation of:",
+      "as": "ৰাসায়নিক সমীকৰণ এটা ভাৰসাম্য ৰখা হয় কিয়ৰ সংৰক্ষণ সূত্ৰ সন্তুষ্ট কৰিবলৈ?"
+    },
+    "options": [
+      {
+        "en": "Energy",
+        "as": "শক্তি"
+      },
+      {
+        "en": "Momentum",
+        "as": "ভৰবেগ"
+      },
+      {
+        "en": "Mass",
+        "as": "ভৰ"
+      },
+      {
+        "en": "Charge",
+        "as": "আধান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Balancing keeps the number of atoms of each element equal on both sides, conserving mass.",
+      "as": "ভাৰসাম্য ৰাখিলে দুয়ো পক্ষত প্ৰতিটো মৌলৰ পৰমাণুৰ সংখ্যা সমান থাকে, ভৰ সংৰক্ষিত হয়।"
+    }
+  }
+]

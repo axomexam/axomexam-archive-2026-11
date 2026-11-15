@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-263",
+    "q": {
+      "en": "The mineral needed for the formation of strong bones and teeth is:",
+      "as": "দৃঢ় হাড় আৰু দাঁত গঠনৰ বাবে প্ৰয়োজনীয় খনিজটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Calcium",
+        "as": "কেলছিয়াম"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Iodine",
+        "as": "আয়'ডিন"
+      },
+      {
+        "en": "Sodium",
+        "as": "ছ'ডিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Calcium, with phosphorus, forms the hard structure of bones and teeth.",
+      "as": "কেলছিয়াম, ফছফৰাছৰ সৈতে, হাড় আৰু দাঁতৰ কঠিন গঠন গঢ়ে।"
+    }
+  }
+]

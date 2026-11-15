@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-088",
+    "q": {
+      "en": "Which of the following salts is used as a fertiliser?",
+      "as": "তলৰ কোনটো নিমখ সাৰ হিচাপে ব্যৱহৃত হয়?"
+    },
+    "options": [
+      {
+        "en": "Sodium chloride",
+        "as": "ছ'ডিয়াম ক্ল'ৰাইড"
+      },
+      {
+        "en": "Ammonium sulphate",
+        "as": "এম'নিয়াম ছালফেট"
+      },
+      {
+        "en": "Calcium carbonate",
+        "as": "কেলছিয়াম কাৰ্বনেট"
+      },
+      {
+        "en": "Sodium bicarbonate",
+        "as": "ছ'ডিয়াম বাইকাৰ্বনেট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ammonium sulphate supplies nitrogen and is used as a fertiliser.",
+      "as": "এম'নিয়াম ছালফেটে নাইট্ৰ'জেন যোগায় আৰু সাৰ হিচাপে ব্যৱহৃত হয়।"
+    }
+  }
+]

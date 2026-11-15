@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-020",
+    "q": {
+      "en": "The molecular formula of ammonia is:",
+      "as": "এম'নিয়াৰ আণৱিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "NH₂",
+        "as": "NH₂"
+      },
+      {
+        "en": "NH₄",
+        "as": "NH₄"
+      },
+      {
+        "en": "N₂H",
+        "as": "N₂H"
+      },
+      {
+        "en": "NH₃",
+        "as": "NH₃"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ammonia has one nitrogen atom bonded to three hydrogen atoms.",
+      "as": "এম'নিয়াত এটা নাইট্ৰ'জেন পৰমাণু তিনিটা হাইড্ৰ'জেন পৰমাণুৰ সৈতে বান্ধ খাই থাকে।"
+    }
+  }
+]

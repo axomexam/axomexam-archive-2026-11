@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-039",
+    "q": {
+      "en": "Which of these metals reacts most vigorously with water?",
+      "as": "এইবোৰৰ কোন ধাতুটোৱে পানীৰ সৈতে আটাইতকৈ প্ৰচণ্ডভাৱে বিক্ৰিয়া কৰে?"
+    },
+    "options": [
+      {
+        "en": "Potassium",
+        "as": "পটাছিয়াম"
+      },
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      },
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Silver",
+        "as": "ৰূপ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Potassium reacts vigorously with water, being high in the reactivity series.",
+      "as": "পটাছিয়ামে পানীৰ সৈতে প্ৰচণ্ডভাৱে বিক্ৰিয়া কৰে, কাৰণ ই সক্ৰিয়তা শ্ৰেণীত ওপৰত।"
+    }
+  }
+]

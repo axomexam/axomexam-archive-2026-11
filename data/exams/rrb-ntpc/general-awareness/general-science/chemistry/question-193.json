@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-193",
+    "q": {
+      "en": "The main gases responsible for acid rain are oxides of sulphur and:",
+      "as": "এচিড বৰষুণৰ বাবে দায়ী প্ৰধান গেছবোৰ ছালফাৰৰ অক্সাইড আৰু কিয়ৰ অক্সাইড?"
+    },
+    "options": [
+      {
+        "en": "Carbon",
+        "as": "কাৰ্বন"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      },
+      {
+        "en": "Chlorine",
+        "as": "ক্ল'ৰিন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sulphur dioxide and nitrogen oxides dissolve in rain to form acids.",
+      "as": "ছালফাৰ ডাইঅক্সাইড আৰু নাইট্ৰ'জেনৰ অক্সাইড বৰষুণত দ্ৰৱীভূত হৈ এচিড গঠন কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-173",
+    "q": {
+      "en": "How many particles are contained in one mole of a substance?",
+      "as": "পদাৰ্থ এটাৰ এটা ম'লত কিমান কণা থাকে?"
+    },
+    "options": [
+      {
+        "en": "6.022 × 10²⁰",
+        "as": "৬.০২২ × ১০²০"
+      },
+      {
+        "en": "3.14 × 10²³",
+        "as": "৩.১৪ × ১০²৩"
+      },
+      {
+        "en": "6.022 × 10²³",
+        "as": "৬.০২২ × ১০²৩"
+      },
+      {
+        "en": "9.8 × 10²³",
+        "as": "৯.৮ × ১০²৩"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "One mole contains 6.022 × 10²³ particles, known as Avogadro's number.",
+      "as": "এটা ম'লত ৬.০২২ × ১০²৩ টা কণা থাকে, যাক এভ'গাড্ৰ'ৰ সংখ্যা বোলা হয়।"
+    }
+  }
+]

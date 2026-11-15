@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-159",
+    "q": {
+      "en": "An exchange of ions between two compounds in solution is a:",
+      "as": "দ্ৰৱত দুটা যৌগৰ মাজত আয়নৰ বিনিময় হোৱা বিক্ৰিয়াটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Displacement reaction",
+        "as": "প্ৰতিস্থাপন বিক্ৰিয়া"
+      },
+      {
+        "en": "Double displacement reaction",
+        "as": "দ্বি-প্ৰতিস্থাপন বিক্ৰিয়া"
+      },
+      {
+        "en": "Combination reaction",
+        "as": "সংযোগ বিক্ৰিয়া"
+      },
+      {
+        "en": "Decomposition reaction",
+        "as": "বিয়োজন বিক্ৰিয়া"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "In a double displacement reaction, two compounds exchange their ions.",
+      "as": "দ্বি-প্ৰতিস্থাপন বিক্ৰিয়াত দুটা যৌগে নিজৰ আয়ন বিনিময় কৰে।"
+    }
+  }
+]

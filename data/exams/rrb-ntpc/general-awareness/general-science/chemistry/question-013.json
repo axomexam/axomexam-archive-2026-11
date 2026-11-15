@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-013",
+    "q": {
+      "en": "Which symbol stands for the metal gold?",
+      "as": "কোন সংকেতই সোণ ধাতুৰ বাবে থাকে?"
+    },
+    "options": [
+      {
+        "en": "Go",
+        "as": "Go"
+      },
+      {
+        "en": "Gd",
+        "as": "Gd"
+      },
+      {
+        "en": "Ag",
+        "as": "Ag"
+      },
+      {
+        "en": "Au",
+        "as": "Au"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Gold takes its symbol Au from its Latin name aurum.",
+      "as": "সোণে ইয়াৰ লেটিন নাম aurum ৰ পৰা Au সংকেত লয়।"
+    }
+  }
+]

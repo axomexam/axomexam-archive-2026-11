@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-169",
+    "q": {
+      "en": "The reaction between hydrogen and oxygen to form water is an example of:",
+      "as": "পানী গঠন কৰিবলৈ হাইড্ৰ'জেন আৰু অক্সিজেনৰ মাজৰ বিক্ৰিয়াটো কিয়ৰ উদাহৰণ?"
+    },
+    "options": [
+      {
+        "en": "Decomposition reaction",
+        "as": "বিয়োজন বিক্ৰিয়া"
+      },
+      {
+        "en": "Displacement reaction",
+        "as": "প্ৰতিস্থাপন বিক্ৰিয়া"
+      },
+      {
+        "en": "Combination reaction",
+        "as": "সংযোগ বিক্ৰিয়া"
+      },
+      {
+        "en": "Double displacement",
+        "as": "দ্বি-প্ৰতিস্থাপন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Two elements combine to form a single compound, so it is a combination reaction.",
+      "as": "দুটা মৌল লগ লাগি এটা যৌগ গঠন কৰে, গতিকে ই এটা সংযোগ বিক্ৰিয়া।"
+    }
+  }
+]

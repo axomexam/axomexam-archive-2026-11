@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-305",
+    "q": {
+      "en": "The chemical formula of nitric acid is:",
+      "as": "নাইট্ৰিক এচিডৰ ৰাসায়নিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "HNO₂",
+        "as": "HNO₂"
+      },
+      {
+        "en": "HNO₃",
+        "as": "HNO₃"
+      },
+      {
+        "en": "NH₃",
+        "as": "NH₃"
+      },
+      {
+        "en": "H₂SO₄",
+        "as": "H₂SO₄"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Nitric acid is HNO₃, a strong acid used in fertilisers and explosives.",
+      "as": "নাইট্ৰিক এচিড হ'ল HNO₃, এটা প্ৰবল এচিড, সাৰ আৰু বিস্ফোৰকত ব্যৱহৃত।"
+    }
+  }
+]

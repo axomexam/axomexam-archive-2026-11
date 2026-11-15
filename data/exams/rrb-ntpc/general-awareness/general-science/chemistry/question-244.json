@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-244",
+    "q": {
+      "en": "The gas that is the main product of the incomplete combustion of fuels and is poisonous is:",
+      "as": "ইন্ধনৰ অপূৰ্ণ দহনৰ প্ৰধান উৎপাদ আৰু বিষাক্ত গেছটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Carbon monoxide",
+        "as": "কাৰ্বন মন'ক্সাইড"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Carbon monoxide binds haemoglobin and prevents oxygen transport, so it is poisonous.",
+      "as": "কাৰ্বন মন'ক্সাইড হিম'গ্লবিনৰ সৈতে বান্ধ খাই অক্সিজেন পৰিবহনত বাধা দিয়ে, গতিকে ই বিষাক্ত।"
+    }
+  }
+]

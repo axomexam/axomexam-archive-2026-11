@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-174",
+    "q": {
+      "en": "The number of particles in one mole of a substance is called:",
+      "as": "পদাৰ্থ এটাৰ এটা ম'লত থকা কণাৰ সংখ্যাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Avogadro's number",
+        "as": "এভ'গাড্ৰ'ৰ সংখ্যা"
+      },
+      {
+        "en": "Planck's number",
+        "as": "প্লাংকৰ সংখ্যা"
+      },
+      {
+        "en": "Boltzmann number",
+        "as": "বল্টজমেন সংখ্যা"
+      },
+      {
+        "en": "Rydberg number",
+        "as": "ৰিডবাৰ্গ সংখ্যা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Avogadro's number, 6.022 × 10²³, is the count of particles in one mole.",
+      "as": "এভ'গাড্ৰ'ৰ সংখ্যা, ৬.০২২ × ১০²৩, এটা ম'লত থকা কণাৰ সংখ্যা।"
+    }
+  }
+]

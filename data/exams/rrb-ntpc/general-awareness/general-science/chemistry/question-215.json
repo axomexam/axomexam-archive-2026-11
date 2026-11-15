@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-215",
+    "q": {
+      "en": "The chemical name of royal water (aqua regia) is a mixture of nitric acid and:",
+      "as": "ৰাজপানী (একুৱা ৰেজিয়া) নাইট্ৰিক এচিড আৰু কিয়ৰ এটা মিশ্ৰণ?"
+    },
+    "options": [
+      {
+        "en": "Sulphuric acid",
+        "as": "ছালফিউৰিক এচিড"
+      },
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      },
+      {
+        "en": "Hydrochloric acid",
+        "as": "হাইড্ৰ'ক্ল'ৰিক এচিড"
+      },
+      {
+        "en": "Carbonic acid",
+        "as": "কাৰ্বনিক এচিড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Aqua regia is a 1:3 mixture of nitric acid and hydrochloric acid that dissolves gold.",
+      "as": "একুৱা ৰেজিয়া নাইট্ৰিক এচিড আৰু হাইড্ৰ'ক্ল'ৰিক এচিডৰ ১:৩ মিশ্ৰণ, যি সোণ দ্ৰৱীভূত কৰে।"
+    }
+  }
+]

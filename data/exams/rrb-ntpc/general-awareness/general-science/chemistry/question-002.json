@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-002",
+    "q": {
+      "en": "The smallest particle of an element that can take part in a chemical reaction is the:",
+      "as": "মৌল এটাৰ আটাইতকৈ সৰু কণা যি ৰাসায়নিক বিক্ৰিয়াত অংশ ল'ব পাৰে সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Atom",
+        "as": "পৰমাণু"
+      },
+      {
+        "en": "Molecule",
+        "as": "অণু"
+      },
+      {
+        "en": "Ion",
+        "as": "আয়ন"
+      },
+      {
+        "en": "Electron",
+        "as": "ইলেক্ট্ৰন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An atom is the smallest particle of an element that retains its chemical identity in reactions.",
+      "as": "পৰমাণু হ'ল মৌল এটাৰ আটাইতকৈ সৰু কণা যি বিক্ৰিয়াত ৰাসায়নিক পৰিচয় ৰাখে।"
+    }
+  }
+]

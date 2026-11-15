@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-162",
+    "q": {
+      "en": "The process of respiration in living beings is:",
+      "as": "জীৱজগতত শ্বসন প্ৰক্ৰিয়াটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Exothermic",
+        "as": "তাপমুক্তিকৰ"
+      },
+      {
+        "en": "Endothermic",
+        "as": "তাপশোষক"
+      },
+      {
+        "en": "Neutral",
+        "as": "প্ৰশম"
+      },
+      {
+        "en": "Reversible",
+        "as": "প্ৰতিবৰ্তী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Respiration releases energy and heat, so it is an exothermic process.",
+      "as": "শ্বসনে শক্তি আৰু তাপ মুক্ত কৰে, গতিকে ই এটা তাপমুক্তিকৰ প্ৰক্ৰিয়া।"
+    }
+  }
+]

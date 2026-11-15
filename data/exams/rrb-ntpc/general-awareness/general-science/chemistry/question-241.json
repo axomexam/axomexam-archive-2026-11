@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-241",
+    "q": {
+      "en": "The essential element supplied by urea fertiliser to plants is:",
+      "as": "ইউৰিয়া সাৰে উদ্ভিদক যোগান ধৰা অপৰিহাৰ্য মৌলটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Phosphorus",
+        "as": "ফছফৰাছ"
+      },
+      {
+        "en": "Potassium",
+        "as": "পটাছিয়াম"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      },
+      {
+        "en": "Calcium",
+        "as": "কেলছিয়াম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Urea is a nitrogen-rich fertiliser that promotes leafy growth.",
+      "as": "ইউৰিয়া নাইট্ৰ'জেনেৰে ভৰপূৰ সাৰ, যি পাতৰ বৃদ্ধি বঢ়ায়।"
+    }
+  }
+]

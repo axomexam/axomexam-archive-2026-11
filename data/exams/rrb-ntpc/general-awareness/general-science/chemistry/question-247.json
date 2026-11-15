@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-247",
+    "q": {
+      "en": "The chemical name of the common sweetener present in sugar is:",
+      "as": "চেনিত থকা সাধাৰণ মিঠা পদাৰ্থৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Glucose",
+        "as": "গ্লুক'জ"
+      },
+      {
+        "en": "Sucrose",
+        "as": "ছুক্ৰ'জ"
+      },
+      {
+        "en": "Fructose",
+        "as": "ফ্ৰুক্ট'জ"
+      },
+      {
+        "en": "Lactose",
+        "as": "লেক্ট'জ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Table sugar is sucrose, a disaccharide of glucose and fructose.",
+      "as": "খোৱা চেনি হ'ল ছুক্ৰ'জ, গ্লুক'জ আৰু ফ্ৰুক্ট'জৰ এটা দ্বিশৰ্কৰা।"
+    }
+  }
+]

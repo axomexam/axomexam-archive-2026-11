@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-015",
+    "q": {
+      "en": "The chemical symbol of copper is:",
+      "as": "তামৰ ৰাসায়নিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Co",
+        "as": "Co"
+      },
+      {
+        "en": "Cp",
+        "as": "Cp"
+      },
+      {
+        "en": "Cr",
+        "as": "Cr"
+      },
+      {
+        "en": "Cu",
+        "as": "Cu"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Copper takes its symbol Cu from its Latin name cuprum.",
+      "as": "তামে ইয়াৰ লেটিন নাম cuprum ৰ পৰা Cu সংকেত লয়।"
+    }
+  }
+]

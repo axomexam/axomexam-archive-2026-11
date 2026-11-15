@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-258",
+    "q": {
+      "en": "The deficiency of vitamin A causes:",
+      "as": "ভিটামিন A ৰ অভাৱে কিয় সৃষ্টি কৰে?"
+    },
+    "options": [
+      {
+        "en": "Scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "Anaemia",
+        "as": "ৰক্তহীনতা"
+      },
+      {
+        "en": "Night blindness",
+        "as": "নিশি-অন্ধতা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Vitamin A is needed for vision, and its lack causes night blindness.",
+      "as": "ভিটামিন A দৃষ্টিৰ বাবে প্ৰয়োজন, ইয়াৰ অভাৱে নিশি-অন্ধতা কৰে।"
+    }
+  }
+]

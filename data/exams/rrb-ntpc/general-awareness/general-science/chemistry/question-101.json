@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-101",
+    "q": {
+      "en": "What is the alloy made of copper and zinc known as?",
+      "as": "তাম আৰু জিংকৰে গঠিত সংকৰটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Brass",
+        "as": "পিতল"
+      },
+      {
+        "en": "Bronze",
+        "as": "ব্ৰঞ্জ"
+      },
+      {
+        "en": "Steel",
+        "as": "ইস্পাত"
+      },
+      {
+        "en": "Solder",
+        "as": "চোল্ডাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The alloy brass contains copper together with zinc.",
+      "as": "পিতল সংকৰটোত তামৰ লগত জিংক থাকে।"
+    }
+  }
+]

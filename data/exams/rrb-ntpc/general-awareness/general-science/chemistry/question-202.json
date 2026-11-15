@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-202",
+    "q": {
+      "en": "The chemical name of common vinegar is:",
+      "as": "সাধাৰণ ভিনেগাৰৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Citric acid",
+        "as": "ছিট্ৰিক এচিড"
+      },
+      {
+        "en": "Lactic acid",
+        "as": "লেক্টিক এচিড"
+      },
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      },
+      {
+        "en": "Formic acid",
+        "as": "ফৰ্মিক এচিড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Vinegar is a dilute solution of acetic acid, about 5–8%.",
+      "as": "ভিনেগাৰ এচিটিক এচিডৰ এটা পাতল দ্ৰৱ, প্ৰায় ৫–৮%।"
+    }
+  }
+]

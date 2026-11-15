@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-176",
+    "q": {
+      "en": "The molar mass of carbon dioxide (CO₂) is:",
+      "as": "কাৰ্বন ডাইঅক্সাইডৰ (CO₂) ম'লাৰ ভৰ কিমান?"
+    },
+    "options": [
+      {
+        "en": "44 g/mol",
+        "as": "৪৪ গ্ৰা./ম'ল"
+      },
+      {
+        "en": "28 g/mol",
+        "as": "২৮ গ্ৰা./ম'ল"
+      },
+      {
+        "en": "32 g/mol",
+        "as": "৩২ গ্ৰা./ম'ল"
+      },
+      {
+        "en": "12 g/mol",
+        "as": "১২ গ্ৰা./ম'ল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "One carbon (12) plus two oxygen (32) give 44 g/mol.",
+      "as": "এটা কাৰ্বন (১২) আৰু দুটা অক্সিজেন (৩২) যোগ দিলে ৪৪ গ্ৰা./ম'ল।"
+    }
+  }
+]

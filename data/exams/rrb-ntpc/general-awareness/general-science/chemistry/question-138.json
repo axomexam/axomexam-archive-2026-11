@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-138",
+    "q": {
+      "en": "Ethanoic acid is the chemical name of:",
+      "as": "ইথানইক এচিড কিয়ৰ ৰাসায়নিক নাম?"
+    },
+    "options": [
+      {
+        "en": "Citric acid",
+        "as": "ছিট্ৰিক এচিড"
+      },
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      },
+      {
+        "en": "Formic acid",
+        "as": "ফৰ্মিক এচিড"
+      },
+      {
+        "en": "Lactic acid",
+        "as": "লেক্টিক এচিড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ethanoic acid is commonly called acetic acid, the acid in vinegar.",
+      "as": "ইথানইক এচিডক সাধাৰণতে এচিটিক এচিড বোলা হয়, যি ভিনেগাৰত থকা এচিড।"
+    }
+  }
+]

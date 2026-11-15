@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-093",
+    "q": {
+      "en": "Which of the following non-metals is a good conductor of electricity?",
+      "as": "তলৰ কোনটো অধাতু বিদ্যুৎৰ ভাল পৰিবাহী?"
+    },
+    "options": [
+      {
+        "en": "Sulphur",
+        "as": "গন্ধক"
+      },
+      {
+        "en": "Phosphorus",
+        "as": "ফছফৰাছ"
+      },
+      {
+        "en": "Graphite",
+        "as": "গ্ৰেফাইট"
+      },
+      {
+        "en": "Iodine",
+        "as": "আয়'ডিন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Graphite, a form of carbon, has free electrons and conducts electricity.",
+      "as": "গ্ৰেফাইট, কাৰ্বনৰ এটা ৰূপ, তাত মুক্ত ইলেক্ট্ৰন থাকে আৰু ই বিদ্যুৎ পৰিবহন কৰে।"
+    }
+  }
+]

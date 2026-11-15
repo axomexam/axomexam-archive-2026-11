@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-240",
+    "q": {
+      "en": "The group of atoms that makes one end of a soap molecule water-loving is:",
+      "as": "চাবোনৰ অণু এটাৰ এটা মূৰ পানী-প্ৰেমী কৰা পৰমাণু গোটটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "The hydrocarbon tail",
+        "as": "হাইড্ৰ'কাৰ্বন নেজ"
+      },
+      {
+        "en": "The metal atom",
+        "as": "ধাতু পৰমাণু"
+      },
+      {
+        "en": "The hydroxyl group",
+        "as": "হাইড্ৰ'ক্সিল গোট"
+      },
+      {
+        "en": "The ionic head",
+        "as": "আয়নীয় মূৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The ionic head is hydrophilic, while the hydrocarbon tail is hydrophobic.",
+      "as": "আয়নীয় মূৰ হাইড্ৰ'ফিলিক, আনহাতে হাইড্ৰ'কাৰ্বন নেজ হাইড্ৰ'ফ'বিক।"
+    }
+  }
+]

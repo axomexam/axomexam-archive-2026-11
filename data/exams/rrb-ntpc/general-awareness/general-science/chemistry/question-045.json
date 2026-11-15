@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-045",
+    "q": {
+      "en": "The ion formed by a sodium atom has a charge of:",
+      "as": "ছ'ডিয়াম পৰমাণুৱে গঠন কৰা আয়নটোৰ আধান কিমান?"
+    },
+    "options": [
+      {
+        "en": "−1",
+        "as": "−১"
+      },
+      {
+        "en": "+1",
+        "as": "+১"
+      },
+      {
+        "en": "+2",
+        "as": "+২"
+      },
+      {
+        "en": "0",
+        "as": "০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Sodium loses one electron to form a Na⁺ ion with a single positive charge.",
+      "as": "ছ'ডিয়ামে এটা ইলেক্ট্ৰন হেৰুৱাই এটা ধনাত্মক আধানযুক্ত Na⁺ আয়ন গঠন কৰে।"
+    }
+  }
+]

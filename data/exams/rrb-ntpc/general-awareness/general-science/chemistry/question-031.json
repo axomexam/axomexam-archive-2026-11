@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-031",
+    "q": {
+      "en": "In the modern periodic table, elements are arranged in order of increasing:",
+      "as": "আধুনিক পৰ্যায় সাৰণীত মৌলবোৰ কিয়ৰ বৰ্ধমান ক্ৰমত সজোৱা হয়?"
+    },
+    "options": [
+      {
+        "en": "Atomic mass",
+        "as": "পাৰমাণৱিক ভৰ"
+      },
+      {
+        "en": "Density",
+        "as": "ঘনত্ব"
+      },
+      {
+        "en": "Melting point",
+        "as": "গলনাংক"
+      },
+      {
+        "en": "Atomic number",
+        "as": "পাৰমাণৱিক সংখ্যা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Moseley showed atomic number is the correct basis, so modern tables use Z.",
+      "as": "ম'জ্‌লিয়ে দেখুৱাইছিল পাৰমাণৱিক সংখ্যাই সঠিক ভিত্তি, গতিকে আধুনিক সাৰণীয়ে Z ব্যৱহাৰ কৰে।"
+    }
+  }
+]

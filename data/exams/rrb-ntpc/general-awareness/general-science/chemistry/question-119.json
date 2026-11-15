@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-119",
+    "q": {
+      "en": "The allotrope of carbon that is a good conductor of electricity is:",
+      "as": "কাৰ্বনৰ যি ৰূপ বিদ্যুৎৰ ভাল পৰিবাহী সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Diamond",
+        "as": "হীৰা"
+      },
+      {
+        "en": "Graphite",
+        "as": "গ্ৰেফাইট"
+      },
+      {
+        "en": "Fullerene",
+        "as": "ফুলেৰিন"
+      },
+      {
+        "en": "Charcoal",
+        "as": "কয়লা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Graphite conducts electricity because each carbon is bonded to only three others, leaving free electrons.",
+      "as": "গ্ৰেফাইটে বিদ্যুৎ পৰিবহন কৰে কাৰণ প্ৰতিটো কাৰ্বন কেৱল তিনিটা আনৰ সৈতে বান্ধ খাই থাকে, মুক্ত ইলেক্ট্ৰন এৰি থৈ।"
+    }
+  }
+]

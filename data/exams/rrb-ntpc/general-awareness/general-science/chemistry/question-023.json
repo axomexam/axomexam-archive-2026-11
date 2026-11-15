@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-023",
+    "q": {
+      "en": "The molecular formula of hydrochloric acid is:",
+      "as": "হাইড্ৰ'ক্ল'ৰিক এচিডৰ আণৱিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "H₂Cl",
+        "as": "H₂Cl"
+      },
+      {
+        "en": "HClO",
+        "as": "HClO"
+      },
+      {
+        "en": "ClH₂",
+        "as": "ClH₂"
+      },
+      {
+        "en": "HCl",
+        "as": "HCl"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Hydrochloric acid is a solution of hydrogen chloride, formula HCl.",
+      "as": "হাইড্ৰ'ক্ল'ৰিক এচিড হাইড্ৰ'জেন ক্ল'ৰাইডৰ দ্ৰৱ, সংকেত HCl।"
+    }
+  }
+]

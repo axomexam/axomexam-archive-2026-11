@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-046",
+    "q": {
+      "en": "The ion formed by a chlorine atom has a charge of:",
+      "as": "ক্ল'ৰিন পৰমাণুৱে গঠন কৰা আয়নটোৰ আধান কিমান?"
+    },
+    "options": [
+      {
+        "en": "+1",
+        "as": "+১"
+      },
+      {
+        "en": "−1",
+        "as": "−১"
+      },
+      {
+        "en": "−2",
+        "as": "−২"
+      },
+      {
+        "en": "0",
+        "as": "০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Chlorine gains one electron to form a Cl⁻ ion with a single negative charge.",
+      "as": "ক্ল'ৰিনে এটা ইলেক্ট্ৰন লাভ কৰি এটা ঋণাত্মক আধানযুক্ত Cl⁻ আয়ন গঠন কৰে।"
+    }
+  }
+]

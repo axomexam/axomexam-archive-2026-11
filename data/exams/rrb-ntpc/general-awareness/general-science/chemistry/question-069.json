@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-069",
+    "q": {
+      "en": "Acids react with metal carbonates to release:",
+      "as": "এচিডে ধাতু কাৰ্বনেটৰ সৈতে বিক্ৰিয়া কৰি কিয় মুক্ত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰ'জেন"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Metal carbonate + acid gives a salt, water and carbon dioxide gas.",
+      "as": "ধাতু কাৰ্বনেট + এচিডে নিমখ, পানী আৰু কাৰ্বন ডাইঅক্সাইড গেছ দিয়ে।"
+    }
+  }
+]

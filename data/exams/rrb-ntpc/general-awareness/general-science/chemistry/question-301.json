@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-301",
+    "q": {
+      "en": "The element with the symbol W is:",
+      "as": "W সংকেত থকা মৌলটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Tin",
+        "as": "টিন"
+      },
+      {
+        "en": "Zinc",
+        "as": "জিংক"
+      },
+      {
+        "en": "Tungsten",
+        "as": "টাংষ্টেন"
+      },
+      {
+        "en": "Lead",
+        "as": "সীহ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "W is the symbol for tungsten, from its German name wolfram.",
+      "as": "W হ'ল টাংষ্টেনৰ সংকেত, ইয়াৰ জাৰ্মান নাম wolfram ৰ পৰা।"
+    }
+  }
+]

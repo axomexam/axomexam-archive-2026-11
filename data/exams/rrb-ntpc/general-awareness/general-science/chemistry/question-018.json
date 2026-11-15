@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-018",
+    "q": {
+      "en": "The molecular formula of water is:",
+      "as": "পানীৰ আণৱিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "HO₂",
+        "as": "HO₂"
+      },
+      {
+        "en": "H₂O",
+        "as": "H₂O"
+      },
+      {
+        "en": "H₂O₂",
+        "as": "H₂O₂"
+      },
+      {
+        "en": "OH",
+        "as": "OH"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A water molecule has two hydrogen atoms bonded to one oxygen atom.",
+      "as": "পানীৰ এটা অণুত এটা অক্সিজেন পৰমাণুৰ সৈতে দুটা হাইড্ৰ'জেন পৰমাণু বান্ধ খাই থাকে।"
+    }
+  }
+]

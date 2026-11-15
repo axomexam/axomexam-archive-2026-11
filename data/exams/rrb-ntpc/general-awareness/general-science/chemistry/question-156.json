@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-156",
+    "q": {
+      "en": "A reaction in which a single reactant breaks down into two or more products is:",
+      "as": "যি বিক্ৰিয়াত এটা বিক্ৰিয়ক দুটা বা অধিক উৎপাদত বিভক্ত হয় সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Combination reaction",
+        "as": "সংযোগ বিক্ৰিয়া"
+      },
+      {
+        "en": "Displacement reaction",
+        "as": "প্ৰতিস্থাপন বিক্ৰিয়া"
+      },
+      {
+        "en": "Double displacement reaction",
+        "as": "দ্বি-প্ৰতিস্থাপন বিক্ৰিয়া"
+      },
+      {
+        "en": "Decomposition reaction",
+        "as": "বিয়োজন বিক্ৰিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In a decomposition reaction, one substance splits into simpler substances.",
+      "as": "বিয়োজন বিক্ৰিয়াত এটা পদাৰ্থ সৰল পদাৰ্থলৈ বিভক্ত হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-017",
+    "q": {
+      "en": "The Latin name of sodium, from which its symbol Na is taken, is:",
+      "as": "ছ'ডিয়ামৰ লেটিন নাম, যাৰ পৰা ইয়াৰ সংকেত Na লোৱা হয়, সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Natron",
+        "as": "Natron"
+      },
+      {
+        "en": "Natrium",
+        "as": "Natrium"
+      },
+      {
+        "en": "Sodium",
+        "as": "Sodium"
+      },
+      {
+        "en": "Nitrum",
+        "as": "Nitrum"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The symbol Na comes from natrium, the Latin name for sodium.",
+      "as": "Na সংকেত natrium ৰ পৰা আহে, যি ছ'ডিয়ামৰ লেটিন নাম।"
+    }
+  }
+]

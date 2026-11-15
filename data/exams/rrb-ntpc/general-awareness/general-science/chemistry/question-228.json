@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-228",
+    "q": {
+      "en": "Nylon is a polymer used for making:",
+      "as": "নাইলন এটা পলিমাৰ, ই কিয় বনাবলৈ ব্যৱহৃত হয়?"
+    },
+    "options": [
+      {
+        "en": "Non-stick pans",
+        "as": "অ-ঠিকাই লগা পেন"
+      },
+      {
+        "en": "Ropes and fabrics",
+        "as": "ৰছী আৰু কাপোৰ"
+      },
+      {
+        "en": "Electrical switches",
+        "as": "বিদ্যুৎ চুইচ"
+      },
+      {
+        "en": "Tyre tubes only",
+        "as": "কেৱল টায়াৰ টিউব"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Nylon is strong and elastic, so it is used in ropes, fabrics and bristles.",
+      "as": "নাইলন সবল আৰু স্থিতিস্থাপক, গতিকে ৰছী, কাপোৰ আৰু ব্ৰাছে ব্যৱহৃত।"
+    }
+  }
+]

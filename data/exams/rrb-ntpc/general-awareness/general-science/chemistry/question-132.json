@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-132",
+    "q": {
+      "en": "The functional group present in ketones is:",
+      "as": "কিট'নত থকা ফলনমূলক গোটটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "−CHO",
+        "as": "−CHO"
+      },
+      {
+        "en": "−COOH",
+        "as": "−COOH"
+      },
+      {
+        "en": "−CO−",
+        "as": "−CO−"
+      },
+      {
+        "en": "−OH",
+        "as": "−OH"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Ketones contain a carbonyl group, −CO−, between two carbon atoms.",
+      "as": "কিট'নত দুটা কাৰ্বন পৰমাণুৰ মাজত কাৰ্বনিল গোট, −CO−, থাকে।"
+    }
+  }
+]

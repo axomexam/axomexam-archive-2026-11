@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-154",
+    "q": {
+      "en": "The number of atoms in one molecule of oxygen gas (O₂) is:",
+      "as": "অক্সিজেন গেছৰ এটা অণুত (O₂) পৰমাণুৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Oxygen gas is diatomic, with two oxygen atoms per molecule.",
+      "as": "অক্সিজেন গেছ দ্বিপাৰমাণৱিক, প্ৰতি অণুত দুটা অক্সিজেন পৰমাণু।"
+    }
+  }
+]

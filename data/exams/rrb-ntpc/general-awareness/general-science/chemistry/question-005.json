@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-005",
+    "q": {
+      "en": "A mixture whose composition is not uniform throughout is called:",
+      "as": "যি মিশ্ৰণৰ গঠন সকলো ঠাইতে একে নহয় তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Sand and water",
+        "as": "বালি আৰু পানী"
+      },
+      {
+        "en": "Sugar solution",
+        "as": "চেনিৰ দ্ৰৱ"
+      },
+      {
+        "en": "Air",
+        "as": "বায়ু"
+      },
+      {
+        "en": "Brass",
+        "as": "পিতল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sand and water do not mix uniformly, so the mixture is heterogeneous.",
+      "as": "বালি আৰু পানী সুষমভাৱে নিমিলে, গতিকে মিশ্ৰণটো অসমসত্ব।"
+    }
+  }
+]

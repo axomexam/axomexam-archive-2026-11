@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-102",
+    "q": {
+      "en": "An alloy of copper and tin is called:",
+      "as": "তাম আৰু টিনৰ সংকৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Bronze",
+        "as": "ব্ৰঞ্জ"
+      },
+      {
+        "en": "Brass",
+        "as": "পিতল"
+      },
+      {
+        "en": "Steel",
+        "as": "ইস্পাত"
+      },
+      {
+        "en": "Duralumin",
+        "as": "ডিউৰালুমিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bronze is an alloy of copper and tin, used since ancient times.",
+      "as": "ব্ৰঞ্জ তাম আৰু টিনৰ এটা সংকৰ, প্ৰাচীন কালৰ পৰা ব্যৱহৃত।"
+    }
+  }
+]

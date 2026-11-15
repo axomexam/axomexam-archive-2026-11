@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-200",
+    "q": {
+      "en": "Chlorine is added to drinking water to:",
+      "as": "খোৱা পানীত ক্ল'ৰিন যোগ কৰা হয় কিয়ৰ বাবে?"
+    },
+    "options": [
+      {
+        "en": "Improve taste",
+        "as": "সোৱাদ উন্নত কৰিবলৈ"
+      },
+      {
+        "en": "Remove hardness",
+        "as": "কঠিনতা আঁতৰাবলৈ"
+      },
+      {
+        "en": "Add minerals",
+        "as": "খনিজ যোগ কৰিবলৈ"
+      },
+      {
+        "en": "Kill germs",
+        "as": "কীটাণু মাৰিবলৈ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Chlorination disinfects water by killing disease-causing microorganisms.",
+      "as": "ক্ল'ৰিনীকৰণে ৰোগ সৃষ্টি কৰা অণুজীৱ মাৰি পানী নিৰ্জৰ্মীকৰণ কৰে।"
+    }
+  }
+]

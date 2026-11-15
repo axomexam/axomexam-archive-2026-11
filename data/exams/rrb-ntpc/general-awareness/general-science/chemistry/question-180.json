@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-180",
+    "q": {
+      "en": "The substance that speeds up a reaction but remains chemically unchanged is called a:",
+      "as": "যি পদাৰ্থই বিক্ৰিয়া দ্ৰুত কৰে কিন্তু ৰাসায়নিকভাৱে অপৰিৱৰ্তিত থাকে তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Reactant",
+        "as": "বিক্ৰিয়ক"
+      },
+      {
+        "en": "Product",
+        "as": "উৎপাদ"
+      },
+      {
+        "en": "Catalyst",
+        "as": "অনুঘটক"
+      },
+      {
+        "en": "Inhibitor",
+        "as": "প্ৰতিৰোধক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A catalyst provides an easier path for the reaction and is not used up.",
+      "as": "অনুঘটকে বিক্ৰিয়াৰ বাবে এটা সহজ পথ দিয়ে আৰু নিজে ক্ষয় নহয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-168",
+    "q": {
+      "en": "In the reaction Zn + CuSO₄ → ZnSO₄ + Cu, zinc acts as a:",
+      "as": "Zn + CuSO₄ → ZnSO₄ + Cu বিক্ৰিয়াত জিংকে কিয় হিচাপে কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Reducing agent",
+        "as": "বিজাৰক"
+      },
+      {
+        "en": "Oxidising agent",
+        "as": "জাৰক"
+      },
+      {
+        "en": "Catalyst",
+        "as": "অনুঘটক"
+      },
+      {
+        "en": "Spectator ion",
+        "as": "দৰ্শক আয়ন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Zinc displaces copper and is itself oxidised, so it acts as a reducing agent.",
+      "as": "জিংকে তামক প্ৰতিস্থাপন কৰে আৰু নিজে জাৰিত হয়, গতিকে ই বিজাৰক হিচাপে কাম কৰে।"
+    }
+  }
+]

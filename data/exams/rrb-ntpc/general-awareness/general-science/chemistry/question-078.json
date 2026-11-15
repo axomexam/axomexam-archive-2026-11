@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-078",
+    "q": {
+      "en": "The acid present in ant stings and nettle leaves is:",
+      "as": "পৰুৱা আৰু চোৰাত পাতৰ দংশনত থকা এচিডটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Formic acid",
+        "as": "ফৰ্মিক এচিড"
+      },
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      },
+      {
+        "en": "Citric acid",
+        "as": "ছিট্ৰিক এচিড"
+      },
+      {
+        "en": "Lactic acid",
+        "as": "লেক্টিক এচিড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ant stings contain formic acid, which causes irritation.",
+      "as": "পৰুৱাৰ দংশনত ফৰ্মিক এচিড থাকে, যি জ্বলা-পোৰা কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-255",
+    "q": {
+      "en": "The nutrient that is mainly needed for body growth and repair is:",
+      "as": "শৰীৰৰ বৃদ্ধি আৰু মেৰামতিৰ বাবে মূলতঃ প্ৰয়োজনীয় পুষ্টিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Fat",
+        "as": "চৰ্বি"
+      },
+      {
+        "en": "Carbohydrate",
+        "as": "কাৰ্ব'হাইড্ৰেট"
+      },
+      {
+        "en": "Protein",
+        "as": "প্ৰ'টিন"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Proteins are made of amino acids and build and repair body tissues.",
+      "as": "প্ৰ'টিন এমিন' এচিডৰে গঠিত আৰু শৰীৰৰ কলা গঢ়ে আৰু মেৰামতি কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-205",
+    "q": {
+      "en": "The chemical name of blue vitriol is:",
+      "as": "নীলা টুটিয়াৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Copper sulphate",
+        "as": "ক'পাৰ ছালফেট"
+      },
+      {
+        "en": "Ferrous sulphate",
+        "as": "ফেৰাছ ছালফেট"
+      },
+      {
+        "en": "Zinc sulphate",
+        "as": "জিংক ছালফেট"
+      },
+      {
+        "en": "Copper chloride",
+        "as": "ক'পাৰ ক্ল'ৰাইড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Blue vitriol is copper sulphate pentahydrate, CuSO₄·5H₂O.",
+      "as": "নীলা টুটিয়া হ'ল ক'পাৰ ছালফেট পেণ্টাহাইড্ৰেট, CuSO₄·5H₂O।"
+    }
+  }
+]

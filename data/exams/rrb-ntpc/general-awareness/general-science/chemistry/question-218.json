@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-218",
+    "q": {
+      "en": "The calorific value of a fuel is the heat produced when:",
+      "as": "ইন্ধন এটাৰ কেলৰি মান হ'ল উৎপন্ন হোৱা তাপ যেতিয়া:"
+    },
+    "options": [
+      {
+        "en": "It is heated slowly",
+        "as": "ই লাহে লাহে গৰম কৰা হয়"
+      },
+      {
+        "en": "It is cooled",
+        "as": "ই ঠাণ্ডা কৰা হয়"
+      },
+      {
+        "en": "It is mixed with water",
+        "as": "ই পানীৰ সৈতে মিলোৱা হয়"
+      },
+      {
+        "en": "One unit mass of it is burnt completely",
+        "as": "ইয়াৰ একক ভৰ সম্পূৰ্ণৰূপে জ্বলোৱা হয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Calorific value is the energy released per unit mass on complete combustion.",
+      "as": "কেলৰি মান হ'ল সম্পূৰ্ণ দহনত প্ৰতি একক ভৰত মুক্ত হোৱা শক্তি।"
+    }
+  }
+]

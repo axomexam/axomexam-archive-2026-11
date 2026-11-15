@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-106",
+    "q": {
+      "en": "The chemical name of rust is:",
+      "as": "মামৰৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Iron carbonate",
+        "as": "আয়ৰন কাৰ্বনেট"
+      },
+      {
+        "en": "Hydrated iron(III) oxide",
+        "as": "জলযুক্ত আয়ৰন(III) অক্সাইড"
+      },
+      {
+        "en": "Iron sulphate",
+        "as": "আয়ৰন ছালফেট"
+      },
+      {
+        "en": "Iron chloride",
+        "as": "আয়ৰন ক্ল'ৰাইড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rust is hydrated iron(III) oxide, roughly Fe₂O₃·xH₂O.",
+      "as": "মামৰ হ'ল জলযুক্ত আয়ৰন(III) অক্সাইড, প্ৰায় Fe₂O₃·xH₂O।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-114",
+    "q": {
+      "en": "Heating a sulphide ore strongly in a plentiful supply of air is known as:",
+      "as": "বায়ুৰ প্ৰচুৰ যোগানত ছালফাইড আকৰিক তীব্ৰভাৱে গৰম কৰাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Calcination",
+        "as": "ভস্মীকৰণ"
+      },
+      {
+        "en": "Roasting",
+        "as": "ভজা"
+      },
+      {
+        "en": "Smelting",
+        "as": "গলন"
+      },
+      {
+        "en": "Annealing",
+        "as": "টেম্পাৰিং"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Roasting heats a sulphide ore in air, converting it to an oxide.",
+      "as": "ভজাই ছালফাইড আকৰিক বায়ুত গৰম কৰি অক্সাইডলৈ ৰূপান্তৰ কৰে।"
+    }
+  }
+]

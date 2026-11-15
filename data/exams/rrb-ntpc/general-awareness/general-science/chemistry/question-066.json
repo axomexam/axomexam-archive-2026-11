@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-066",
+    "q": {
+      "en": "Acids react with metals to produce hydrogen gas and a:",
+      "as": "এচিডে ধাতুৰ সৈতে বিক্ৰিয়া কৰি হাইড্ৰ'জেন গেছ আৰু কিয় উৎপন্ন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Base",
+        "as": "ক্ষাৰক"
+      },
+      {
+        "en": "Oxide",
+        "as": "অক্সাইড"
+      },
+      {
+        "en": "Hydroxide",
+        "as": "হাইড্ৰ'ক্সাইড"
+      },
+      {
+        "en": "Salt",
+        "as": "নিমখ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Acid + metal gives a salt and hydrogen gas, e.g. Zn + HCl.",
+      "as": "এচিড + ধাতুৱে নিমখ আৰু হাইড্ৰ'জেন গেছ দিয়ে, যেনে Zn + HCl।"
+    }
+  }
+]

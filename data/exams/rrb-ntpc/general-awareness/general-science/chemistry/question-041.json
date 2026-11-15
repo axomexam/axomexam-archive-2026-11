@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-041",
+    "q": {
+      "en": "A bond formed by the sharing of electrons between atoms is a:",
+      "as": "পৰমাণুবোৰৰ মাজত ইলেক্ট্ৰন ভাগ-বতৰা কৰি গঠিত বান্ধটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Covalent bond",
+        "as": "সমযোজী বান্ধ"
+      },
+      {
+        "en": "Ionic bond",
+        "as": "আয়নীয় বান্ধ"
+      },
+      {
+        "en": "Metallic bond",
+        "as": "ধাতৱীয় বান্ধ"
+      },
+      {
+        "en": "Coordinate bond",
+        "as": "সমন্বয় বান্ধ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A covalent bond results from the sharing of electron pairs between atoms.",
+      "as": "পৰমাণুবোৰৰ মাজত ইলেক্ট্ৰন যোৰ ভাগ-বতৰা কৰি সমযোজী বান্ধ গঠন হয়।"
+    }
+  }
+]

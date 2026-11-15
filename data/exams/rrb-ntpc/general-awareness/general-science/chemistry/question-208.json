@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-208",
+    "q": {
+      "en": "The chemical name of alum used for water purification is:",
+      "as": "পানী শোধনত ব্যৱহৃত ফিটকিৰীৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sodium chloride",
+        "as": "ছ'ডিয়াম ক্ল'ৰাইড"
+      },
+      {
+        "en": "Calcium sulphate",
+        "as": "কেলছিয়াম ছালফেট"
+      },
+      {
+        "en": "Potassium aluminium sulphate",
+        "as": "পটাছিয়াম এলুমিনিয়াম ছালফেট"
+      },
+      {
+        "en": "Aluminium chloride",
+        "as": "এলুমিনিয়াম ক্ল'ৰাইড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Common alum is potassium aluminium sulphate, used to clarify muddy water.",
+      "as": "সাধাৰণ ফিটকিৰী হ'ল পটাছিয়াম এলুমিনিয়াম ছালফেট, ঘোলা পানী পৰিষ্কাৰ কৰিবলৈ ব্যৱহৃত।"
+    }
+  }
+]

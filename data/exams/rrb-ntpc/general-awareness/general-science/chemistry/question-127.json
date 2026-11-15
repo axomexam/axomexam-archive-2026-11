@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-127",
+    "q": {
+      "en": "Which general formula correctly represents the alkane family?",
+      "as": "কোন সাধাৰণ সংকেতই এলকেন শ্ৰেণীক সঠিকভাৱে প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "CₙH₂ₙ",
+        "as": "CₙH₂ₙ"
+      },
+      {
+        "en": "CₙH₂ₙ₋₂",
+        "as": "CₙH₂ₙ₋₂"
+      },
+      {
+        "en": "CₙH₂ₙ₊₂",
+        "as": "CₙH₂ₙ₊₂"
+      },
+      {
+        "en": "CₙHₙ",
+        "as": "CₙHₙ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Alkanes are saturated and follow the general formula CₙH₂ₙ₊₂.",
+      "as": "এলকেনসম্পৃক্ত আৰু ই সাধাৰণ সংকেত CₙH₂ₙ₊₂ অনুসৰণ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-151",
+    "q": {
+      "en": "Coal, petroleum and natural gas are called:",
+      "as": "কয়লা, পেট্ৰ'লিয়াম আৰু প্ৰাকৃতিক গেছক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Biofuels",
+        "as": "জৈৱ ইন্ধন"
+      },
+      {
+        "en": "Renewable fuels",
+        "as": "নৱীকৰণযোগ্য ইন্ধন"
+      },
+      {
+        "en": "Nuclear fuels",
+        "as": "পাৰমাণৱিক ইন্ধন"
+      },
+      {
+        "en": "Fossil fuels",
+        "as": "জীৱাশ্ম ইন্ধন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "They are fossil fuels, formed from buried organic matter over millions of years.",
+      "as": "এইবোৰ জীৱাশ্ম ইন্ধন, লাখ লাখ বছৰ ধৰি পোত যোৱা জৈৱ পদাৰ্থৰ পৰা গঠিত।"
+    }
+  }
+]

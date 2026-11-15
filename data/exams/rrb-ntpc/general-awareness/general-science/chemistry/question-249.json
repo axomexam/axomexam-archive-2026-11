@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-249",
+    "q": {
+      "en": "Which carbohydrate acts as the energy reserve in the human body?",
+      "as": "কোন কাৰ্ব'হাইড্ৰেটে মানৱ শৰীৰত শক্তি ভাণ্ডাৰ হিচাপে কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Starch",
+        "as": "ষ্টাৰ্চ"
+      },
+      {
+        "en": "Cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "Glycogen",
+        "as": "গ্লাইক'জেন"
+      },
+      {
+        "en": "Sucrose",
+        "as": "ছুক্ৰ'জ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Humans store carbohydrate as glycogen in the liver and muscles.",
+      "as": "মানুহে কাৰ্ব'হাইড্ৰেট গ্লাইক'জেন হিচাপে যকৃত আৰু পেশীত সাঁচি ৰাখে।"
+    }
+  }
+]

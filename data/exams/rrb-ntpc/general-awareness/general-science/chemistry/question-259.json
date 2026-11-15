@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-259",
+    "q": {
+      "en": "The deficiency of vitamin D causes:",
+      "as": "ভিটামিন D ৰ অভাৱে কিয় সৃষ্টি কৰে?"
+    },
+    "options": [
+      {
+        "en": "Scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "Beri-beri",
+        "as": "বেৰি-বেৰি"
+      },
+      {
+        "en": "Night blindness",
+        "as": "নিশি-অন্ধতা"
+      },
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Vitamin D helps calcium absorption; its lack causes soft, weak bones (rickets).",
+      "as": "ভিটামিন D য়ে কেলছিয়াম শোষণত সহায় কৰে; ইয়াৰ অভাৱে নৰম, দুৰ্বল হাড় (ৰিকেটছ) কৰে।"
+    }
+  }
+]

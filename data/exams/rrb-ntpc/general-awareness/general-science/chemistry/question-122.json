@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-122",
+    "q": {
+      "en": "The number of covalent bonds that a carbon atom can form is:",
+      "as": "কাৰ্বন পৰমাণু এটাই গঠন কৰিব পৰা সমযোজী বান্ধৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Carbon has four valence electrons, so it forms four covalent bonds.",
+      "as": "কাৰ্বনত চাৰিটা যোজ্য ইলেক্ট্ৰন থাকে, গতিকে ই চাৰিটা সমযোজী বান্ধ গঠন কৰে।"
+    }
+  }
+]

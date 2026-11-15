@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-010",
+    "q": {
+      "en": "Isotopes of an element differ in the number of:",
+      "as": "মৌল এটাৰ আইছ'ট'পবোৰ কিয়ৰ সংখ্যাত বেলেগ?"
+    },
+    "options": [
+      {
+        "en": "Protons",
+        "as": "প্ৰ'টন"
+      },
+      {
+        "en": "Electrons",
+        "as": "ইলেক্ট্ৰন"
+      },
+      {
+        "en": "Orbitals",
+        "as": "কক্ষক"
+      },
+      {
+        "en": "Neutrons",
+        "as": "নিউট্ৰন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Isotopes have the same number of protons but different numbers of neutrons.",
+      "as": "আইছ'ট'পবোৰত প্ৰ'টনৰ সংখ্যা একে কিন্তু নিউট্ৰনৰ সংখ্যা বেলেগ।"
+    }
+  }
+]

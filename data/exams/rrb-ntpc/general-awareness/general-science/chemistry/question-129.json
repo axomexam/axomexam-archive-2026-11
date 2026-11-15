@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-129",
+    "q": {
+      "en": "Which group of atoms characterises an alcohol?",
+      "as": "কোন পৰমাণু গোটে এলক'হলক চিহ্নিত কৰে?"
+    },
+    "options": [
+      {
+        "en": "−OH",
+        "as": "−OH"
+      },
+      {
+        "en": "−COOH",
+        "as": "−COOH"
+      },
+      {
+        "en": "−CHO",
+        "as": "−CHO"
+      },
+      {
+        "en": "−CO−",
+        "as": "−CO−"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Alcohols contain the hydroxyl (−OH) group.",
+      "as": "এলক'হলত হাইড্ৰ'ক্সিল (−OH) গোট থাকে।"
+    }
+  }
+]

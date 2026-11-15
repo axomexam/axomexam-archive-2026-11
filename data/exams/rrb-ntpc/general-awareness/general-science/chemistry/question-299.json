@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-299",
+    "q": {
+      "en": "The element with the symbol Ag is:",
+      "as": "Ag সংকেত থকা মৌলটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Silver",
+        "as": "ৰূপ"
+      },
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      },
+      {
+        "en": "Argon",
+        "as": "আৰ্গন"
+      },
+      {
+        "en": "Aluminium",
+        "as": "এলুমিনিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ag is the symbol for silver, from its Latin name argentum.",
+      "as": "Ag হ'ল ৰূপৰ সংকেত, ইয়াৰ লেটিন নাম argentum ৰ পৰা।"
+    }
+  }
+]

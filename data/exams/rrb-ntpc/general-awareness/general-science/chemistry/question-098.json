@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-098",
+    "q": {
+      "en": "The ore from which iron is mainly extracted is:",
+      "as": "যি আকৰিকৰ পৰা মূলতঃ লো উলিওৱা হয় সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Bauxite",
+        "as": "বক্সাইট"
+      },
+      {
+        "en": "Galena",
+        "as": "গেলেনা"
+      },
+      {
+        "en": "Haematite",
+        "as": "হিমাটাইট"
+      },
+      {
+        "en": "Cinnabar",
+        "as": "ছিনাবাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Haematite, Fe₂O₃, is the most important ore of iron.",
+      "as": "হিমাটাইট, Fe₂O₃, লোৰ আটাইতকৈ গুৰুত্বপূৰ্ণ আকৰিক।"
+    }
+  }
+]

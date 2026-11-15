@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-264",
+    "q": {
+      "en": "The separation of a mixture of sand and water is best done by:",
+      "as": "বালি আৰু পানীৰ মিশ্ৰণ পৃথক কৰা আটাইতকৈ ভাল উপায়টো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Distillation",
+        "as": "পাতন"
+      },
+      {
+        "en": "Filtration",
+        "as": "ছেকনী"
+      },
+      {
+        "en": "Sublimation",
+        "as": "উৰ্ধ্বপাতন"
+      },
+      {
+        "en": "Evaporation only",
+        "as": "কেৱল বাষ্পীভৱন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Filtration separates an insoluble solid from a liquid using filter paper.",
+      "as": "ছেকনীয়ে ছেকনী কাগজ ব্যৱহাৰ কৰি অদ্ৰৱনীয় কঠিনক তৰলৰ পৰা পৃথক কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-192",
+    "q": {
+      "en": "The pH of acid rain is generally:",
+      "as": "এচিড বৰষুণৰ pH সাধাৰণতে কিমান?"
+    },
+    "options": [
+      {
+        "en": "Exactly 7",
+        "as": "ঠিক ৭"
+      },
+      {
+        "en": "More than 8",
+        "as": "৮ তকৈ বেছি"
+      },
+      {
+        "en": "Equal to 7.4",
+        "as": "৭.৪ ৰ সমান"
+      },
+      {
+        "en": "Less than 5.6",
+        "as": "৫.৬ তকৈ কম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Acid rain has a pH below 5.6 because of dissolved oxides of sulphur and nitrogen.",
+      "as": "দ্ৰৱীভূত ছালফাৰ আৰু নাইট্ৰ'জেনৰ অক্সাইডৰ বাবে এচিড বৰষুণৰ pH ৫.৬ তকৈ কম।"
+    }
+  }
+]

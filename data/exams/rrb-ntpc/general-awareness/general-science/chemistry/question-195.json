@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-195",
+    "q": {
+      "en": "The compound used to remove permanent hardness of water is:",
+      "as": "পানীৰ স্থায়ী কঠিনতা আঁতৰাবলৈ ব্যৱহৃত যৌগটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sodium chloride",
+        "as": "ছ'ডিয়াম ক্ল'ৰাইড"
+      },
+      {
+        "en": "Sodium carbonate",
+        "as": "ছ'ডিয়াম কাৰ্বনেট"
+      },
+      {
+        "en": "Calcium sulphate",
+        "as": "কেলছিয়াম ছালফেট"
+      },
+      {
+        "en": "Magnesium sulphate",
+        "as": "মেগনেছিয়াম ছালফেট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Sodium carbonate precipitates the calcium and magnesium ions that cause hardness.",
+      "as": "ছ'ডিয়াম কাৰ্বনেটে কঠিনতা সৃষ্টি কৰা কেলছিয়াম আৰু মেগনেছিয়াম আয়নক অৱক্ষেপিত কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-254",
+    "q": {
+      "en": "The nutrient class that provides the most energy per gram is:",
+      "as": "প্ৰতি গ্ৰামত আটাইতকৈ বেছি শক্তি যোগান ধৰা পুষ্টি শ্ৰেণীটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Carbohydrates",
+        "as": "কাৰ্ব'হাইড্ৰেট"
+      },
+      {
+        "en": "Proteins",
+        "as": "প্ৰ'টিন"
+      },
+      {
+        "en": "Vitamins",
+        "as": "ভিটামিন"
+      },
+      {
+        "en": "Fats",
+        "as": "চৰ্বি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Fats give about 9 kcal per gram, more than carbohydrates or proteins.",
+      "as": "চৰ্বিয়ে প্ৰতি গ্ৰামত প্ৰায় ৯ kcal দিয়ে, কাৰ্ব'হাইড্ৰেট বা প্ৰ'টিনতকৈ বেছি।"
+    }
+  }
+]

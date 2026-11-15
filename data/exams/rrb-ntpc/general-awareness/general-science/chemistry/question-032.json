@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-032",
+    "q": {
+      "en": "The modern periodic table has how many groups?",
+      "as": "আধুনিক পৰ্যায় সাৰণীত কিমানটা শ্ৰেণী আছে?"
+    },
+    "options": [
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "18",
+        "as": "১৮"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "16",
+        "as": "১৬"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Arranged as 18 vertical columns, the modern periodic table names these columns groups.",
+      "as": "আধুনিক পৰ্যায় সাৰণীক ১৮ টা উলম্ব শাৰীত সজোৱা আছে, এই শাৰীবোৰক শ্ৰেণী বোলা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-137",
+    "q": {
+      "en": "The functional group −COOH makes a compound:",
+      "as": "−COOH ফলনমূলক গোটে যৌগ এটাক কিয় কৰে?"
+    },
+    "options": [
+      {
+        "en": "Basic",
+        "as": "ক্ষাৰকীয়"
+      },
+      {
+        "en": "Acidic",
+        "as": "এচিডীয়"
+      },
+      {
+        "en": "Neutral",
+        "as": "প্ৰশম"
+      },
+      {
+        "en": "Inert",
+        "as": "নিষ্ক্ৰিয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The carboxyl group releases H⁺ ions, so the compound behaves as an acid.",
+      "as": "কাৰ্বক্সিল গোটে H⁺ আয়ন এৰি দিয়ে, গতিকে যৌগটোৱে এচিড হিচাপে ব্যৱহাৰ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-179",
+    "q": {
+      "en": "The number of water molecules of crystallisation in blue vitriol (CuSO₄·xH₂O) is:",
+      "as": "নীলা টুটিয়া (CuSO₄·xH₂O) ত স্ফটিকীকৰণৰ পানীৰ অণুৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Blue vitriol is copper sulphate pentahydrate, CuSO₄·5H₂O.",
+      "as": "নীলা টুটিয়া হ'ল ক'পাৰ ছালফেট পেণ্টাহাইড্ৰেট, CuSO₄·5H₂O।"
+    }
+  }
+]

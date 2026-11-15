@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-014",
+    "q": {
+      "en": "The chemical symbol of mercury is:",
+      "as": "পাৰদৰ ৰাসায়নিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Me",
+        "as": "Me"
+      },
+      {
+        "en": "Mr",
+        "as": "Mr"
+      },
+      {
+        "en": "Hg",
+        "as": "Hg"
+      },
+      {
+        "en": "Mg",
+        "as": "Mg"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mercury takes its symbol Hg from its Latin name hydrargyrum.",
+      "as": "পাৰদে ইয়াৰ লেটিন নাম hydrargyrum ৰ পৰা Hg সংকেত লয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-144",
+    "q": {
+      "en": "Which hydrocarbon forms the largest part of natural gas?",
+      "as": "কোন হাইড্ৰ'কাৰ্বনে প্ৰাকৃতিক গেছৰ আটাইতকৈ বেছি অংশ গঠন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "Ethane",
+        "as": "ইথেন"
+      },
+      {
+        "en": "Propane",
+        "as": "প্ৰ'পেন"
+      },
+      {
+        "en": "Butane",
+        "as": "বিউটেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Natural gas is mostly methane, with small amounts of other hydrocarbons.",
+      "as": "প্ৰাকৃতিক গেছ মূলতঃ মিথেন, লগত অলপ অন্য হাইড্ৰ'কাৰ্বন।"
+    }
+  }
+]

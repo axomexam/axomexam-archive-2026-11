@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-214",
+    "q": {
+      "en": "The chemical name of aqua fortis is:",
+      "as": "একুৱা ফৰ্টিছৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Hydrochloric acid",
+        "as": "হাইড্ৰ'ক্ল'ৰিক এচিড"
+      },
+      {
+        "en": "Nitric acid",
+        "as": "নাইট্ৰিক এচিড"
+      },
+      {
+        "en": "Sulphuric acid",
+        "as": "ছালফিউৰিক এচিড"
+      },
+      {
+        "en": "Phosphoric acid",
+        "as": "ফছফৰিক এচিড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Aqua fortis is an old name for nitric acid, HNO₃.",
+      "as": "একুৱা ফৰ্টিছ নাইট্ৰিক এচিড, HNO₃ ৰ এটা পুৰণি নাম।"
+    }
+  }
+]

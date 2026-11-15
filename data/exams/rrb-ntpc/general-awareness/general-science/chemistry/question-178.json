@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-178",
+    "q": {
+      "en": "The chemical formula of common washing soda crystals includes how many water molecules?",
+      "as": "সাধাৰণ ৱাছিং ছ'ডা স্ফটিকৰ ৰাসায়নিক সংকেতত কিমান পানীৰ অণু থাকে?"
+    },
+    "options": [
+      {
+        "en": "5",
+        "as": "৫"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Washing soda is Na₂CO₃·10H₂O, with ten molecules of water of crystallisation.",
+      "as": "ৱাছিং ছ'ডা হ'ল Na₂CO₃·10H₂O, য'ত দহটা স্ফটিকীকৰণৰ পানীৰ অণু থাকে।"
+    }
+  }
+]

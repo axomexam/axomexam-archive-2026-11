@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-165",
+    "q": {
+      "en": "The chemical reaction in which a substance loses oxygen is called:",
+      "as": "যি ৰাসায়নিক বিক্ৰিয়াত পদাৰ্থ এটাই অক্সিজেন হেৰুৱায় তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Oxidation",
+        "as": "জাৰণ"
+      },
+      {
+        "en": "Combustion",
+        "as": "দহন"
+      },
+      {
+        "en": "Corrosion",
+        "as": "ক্ষয়"
+      },
+      {
+        "en": "Reduction",
+        "as": "বিজাৰণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Reduction is the loss of oxygen or gain of electrons or hydrogen.",
+      "as": "বিজাৰণ হ'ল অক্সিজেন হেৰুওৱা, বা ইলেক্ট্ৰন বা হাইড্ৰ'জেন লাভ।"
+    }
+  }
+]

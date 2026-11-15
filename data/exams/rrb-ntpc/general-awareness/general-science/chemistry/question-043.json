@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-043",
+    "q": {
+      "en": "Which of the following is a covalent compound?",
+      "as": "তলৰ কোনটো সমযোজী যৌগ?"
+    },
+    "options": [
+      {
+        "en": "Sodium chloride",
+        "as": "ছ'ডিয়াম ক্ল'ৰাইড"
+      },
+      {
+        "en": "Potassium bromide",
+        "as": "পটাছিয়াম ব্ৰ'মাইড"
+      },
+      {
+        "en": "Methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "Magnesium oxide",
+        "as": "মেগনেছিয়াম অক্সাইড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Methane has carbon and hydrogen sharing electrons, so it is covalent.",
+      "as": "মিথেনত কাৰ্বন আৰু হাইড্ৰ'জেনে ইলেক্ট্ৰন ভাগ-বতৰা কৰে, গতিকে ই সমযোজী।"
+    }
+  }
+]

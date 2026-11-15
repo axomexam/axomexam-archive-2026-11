@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-097",
+    "q": {
+      "en": "The ore from which aluminium is extracted is:",
+      "as": "যি আকৰিকৰ পৰা এলুমিনিয়াম উলিওৱা হয় সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Bauxite",
+        "as": "বক্সাইট"
+      },
+      {
+        "en": "Haematite",
+        "as": "হিমাটাইট"
+      },
+      {
+        "en": "Cinnabar",
+        "as": "ছিনাবাৰ"
+      },
+      {
+        "en": "Galena",
+        "as": "গেলেনা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Aluminium is obtained chiefly from the ore called bauxite.",
+      "as": "এলুমিনিয়াম মূলতঃ বক্সাইট নামৰ আকৰিকৰ পৰা পোৱা যায়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-272",
+    "q": {
+      "en": "Air is best described as a:",
+      "as": "বায়ুক আটাইতকৈ ভালদৰে বৰ্ণনা কৰিব পাৰি এটা:"
+    },
+    "options": [
+      {
+        "en": "Compound",
+        "as": "যৌগ"
+      },
+      {
+        "en": "Pure element",
+        "as": "শুদ্ধ মৌল"
+      },
+      {
+        "en": "Single gas",
+        "as": "এটা গেছ"
+      },
+      {
+        "en": "Mixture of gases",
+        "as": "গেছৰ মিশ্ৰণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Air is a mixture of nitrogen, oxygen, carbon dioxide, water vapour and other gases.",
+      "as": "বায়ু নাইট্ৰ'জেন, অক্সিজেন, কাৰ্বন ডাইঅক্সাইড, জলীয় বাষ্প আৰু অন্য গেছৰ মিশ্ৰণ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-232",
+    "q": {
+      "en": "The medicine that kills or stops the growth of disease-causing bacteria is:",
+      "as": "ৰোগ সৃষ্টি কৰা বেক্টেৰিয়া মাৰি বা ইয়াৰ বৃদ্ধি ৰখা ঔষধটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Analgesic",
+        "as": "বেদনানাশক"
+      },
+      {
+        "en": "Antacid",
+        "as": "এণ্টাএচিড"
+      },
+      {
+        "en": "Antibiotic",
+        "as": "এণ্টিবায়'টিক"
+      },
+      {
+        "en": "Antiseptic",
+        "as": "এণ্টিছেপ্টিক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Antibiotics such as penicillin act against bacteria.",
+      "as": "পেনিচিলিনৰ দৰে এণ্টিবায়'টিকে বেক্টেৰিয়াৰ বিৰুদ্ধে কাম কৰে।"
+    }
+  }
+]

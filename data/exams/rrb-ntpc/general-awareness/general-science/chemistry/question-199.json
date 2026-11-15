@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-199",
+    "q": {
+      "en": "The gas dissolved in soft drinks that gives them fizz is:",
+      "as": "কোমল পানীয়ত দ্ৰৱীভূত থকা, ফেন সৃষ্টি কৰা গেছটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰ'জেন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Carbon dioxide is dissolved under pressure and escapes as bubbles on opening.",
+      "as": "কাৰ্বন ডাইঅক্সাইড চাপত দ্ৰৱীভূত কৰা হয় আৰু খুলিলে বুৰবুৰণি হিচাপে ওলায়।"
+    }
+  }
+]

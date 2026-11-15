@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-135",
+    "q": {
+      "en": "The compound commonly known as wood spirit is:",
+      "as": "সাধাৰণতে কাঠৰ স্পিৰিট নামেৰে জনাজাত যৌগটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Methanol",
+        "as": "মিথানল"
+      },
+      {
+        "en": "Ethanol",
+        "as": "ইথানল"
+      },
+      {
+        "en": "Acetone",
+        "as": "এচিট'ন"
+      },
+      {
+        "en": "Benzene",
+        "as": "বেঞ্জিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Methanol is called wood spirit as it was once obtained by distilling wood.",
+      "as": "মিথানলক কাঠৰ স্পিৰিট বোলা হয় কাৰণ ই আগতে কাঠ পাতন কৰি পোৱা গৈছিল।"
+    }
+  }
+]

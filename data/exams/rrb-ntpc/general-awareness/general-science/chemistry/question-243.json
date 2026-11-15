@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-243",
+    "q": {
+      "en": "Excess use of chemical fertilisers can cause:",
+      "as": "ৰাসায়নিক সাৰৰ অতিৰিক্ত ব্যৱহাৰে কিয় সৃষ্টি কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Air purification",
+        "as": "বায়ু শোধন"
+      },
+      {
+        "en": "Soil enrichment only",
+        "as": "কেৱল মাটি সমৃদ্ধি"
+      },
+      {
+        "en": "Water pollution",
+        "as": "জল প্ৰদূষণ"
+      },
+      {
+        "en": "Rain formation",
+        "as": "বৰষুণ সৃষ্টি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Run-off of fertilisers pollutes water bodies and causes algal blooms.",
+      "as": "সাৰৰ প্ৰবাহে জলাশয় প্ৰদূষিত কৰে আৰু শেলাইৰ বিস্ফোৰণ ঘটায়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-251",
+    "q": {
+      "en": "The test used to detect starch is the:",
+      "as": "ষ্টাৰ্চ ধৰা পেলাবলৈ ব্যৱহৃত পৰীক্ষাটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Litmus test",
+        "as": "লিটমাছ পৰীক্ষা"
+      },
+      {
+        "en": "Iodine test",
+        "as": "আয়'ডিন পৰীক্ষা"
+      },
+      {
+        "en": "Benedict's test",
+        "as": "বেনেডিক্ট পৰীক্ষা"
+      },
+      {
+        "en": "Flame test",
+        "as": "শিখা পৰীক্ষা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Starch gives a blue-black colour with iodine solution.",
+      "as": "ষ্টাৰ্চে আয়'ডিন দ্ৰৱৰ সৈতে নীলা-ক'লা ৰং দিয়ে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-236",
+    "q": {
+      "en": "The substance used to reduce the acidity of the stomach is an:",
+      "as": "পেটৰ এচিডীয়তা কমাবলৈ ব্যৱহৃত পদাৰ্থটো হ'ল এটা:"
+    },
+    "options": [
+      {
+        "en": "Antacid",
+        "as": "এণ্টাএচিড"
+      },
+      {
+        "en": "Antibiotic",
+        "as": "এণ্টিবায়'টিক"
+      },
+      {
+        "en": "Antiseptic",
+        "as": "এণ্টিছেপ্টিক"
+      },
+      {
+        "en": "Analgesic",
+        "as": "বেদনানাশক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Antacids such as milk of magnesia neutralise excess stomach acid.",
+      "as": "মিল্ক অৱ মেগনেছিয়াৰ দৰে এণ্টাএচিডে পেটৰ অতিৰিক্ত এচিড প্ৰশম কৰে।"
+    }
+  }
+]

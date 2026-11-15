@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-239",
+    "q": {
+      "en": "The process of cleaning clothes using soap or detergent is called:",
+      "as": "চাবোন বা ডিটাৰ্জেণ্ট ব্যৱহাৰ কৰি কাপোৰ ধোৱা প্ৰক্ৰিয়াটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Fermentation",
+        "as": "গাঁজন"
+      },
+      {
+        "en": "Neutralisation",
+        "as": "প্ৰশমন"
+      },
+      {
+        "en": "Sublimation",
+        "as": "উৰ্ধ্বপাতন"
+      },
+      {
+        "en": "Cleansing action",
+        "as": "পৰিষ্কাৰক ক্ৰিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The cleansing action of soap removes grease by forming micelles around oil droplets.",
+      "as": "চাবোনৰ পৰিষ্কাৰক ক্ৰিয়াই তেলৰ টোপালৰ চাৰিওফালে মাইচেল গঠন কৰি ময় আঁতৰায়।"
+    }
+  }
+]

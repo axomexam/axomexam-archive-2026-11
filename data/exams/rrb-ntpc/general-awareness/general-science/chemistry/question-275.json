@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-275",
+    "q": {
+      "en": "The process in which a solid changes directly into vapour on heating is called:",
+      "as": "গৰম কৰিলে কঠিন পোনপটীয়াকৈ বাষ্পলৈ পৰিৱৰ্তন হোৱা প্ৰক্ৰিয়াটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Evaporation",
+        "as": "বাষ্পীভৱন"
+      },
+      {
+        "en": "Melting",
+        "as": "গলন"
+      },
+      {
+        "en": "Sublimation",
+        "as": "উৰ্ধ্বপাতন"
+      },
+      {
+        "en": "Condensation",
+        "as": "ঘনীভৱন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sublimation occurs in solids such as camphor, iodine and dry ice.",
+      "as": "উৰ্ধ্বপাতন কৰ্পূৰ, আয়'ডিন আৰু শুকান বৰফৰ দৰে কঠিনত ঘটে।"
+    }
+  }
+]

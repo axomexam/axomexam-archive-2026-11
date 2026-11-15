@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-230",
+    "q": {
+      "en": "The main raw material used for making rayon is:",
+      "as": "ৰেয়ন বনাবলৈ ব্যৱহৃত মূল কেঁচা সামগ্ৰীটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "Coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "Cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "Limestone",
+        "as": "চূণশিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rayon is regenerated cellulose obtained from wood pulp.",
+      "as": "ৰেয়ন কাঠৰ মণ্ডৰ পৰা পোৱা পুনৰ্জীৱিত চেলুল'জ।"
+    }
+  }
+]

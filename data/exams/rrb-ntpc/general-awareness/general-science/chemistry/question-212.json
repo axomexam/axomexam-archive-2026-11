@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-212",
+    "q": {
+      "en": "The chemical name of muriatic acid is:",
+      "as": "মিউৰিয়েটিক এচিডৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Hydrochloric acid",
+        "as": "হাইড্ৰ'ক্ল'ৰিক এচিড"
+      },
+      {
+        "en": "Sulphuric acid",
+        "as": "ছালফিউৰিক এচিড"
+      },
+      {
+        "en": "Nitric acid",
+        "as": "নাইট্ৰিক এচিড"
+      },
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Muriatic acid is an old name for hydrochloric acid, HCl.",
+      "as": "মিউৰিয়েটিক এচিড হাইড্ৰ'ক্ল'ৰিক এচিড, HCl ৰ এটা পুৰণি নাম।"
+    }
+  }
+]

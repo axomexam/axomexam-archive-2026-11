@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-125",
+    "q": {
+      "en": "A hydrocarbon in which carbon atoms are joined by single bonds only is called:",
+      "as": "যি হাইড্ৰ'কাৰ্বনত কাৰ্বন পৰমাণুবোৰ কেৱল এক বান্ধেৰে সংযুক্ত তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Unsaturated",
+        "as": "অসম্পৃক্ত"
+      },
+      {
+        "en": "Saturated",
+        "as": "সম্পৃক্ত"
+      },
+      {
+        "en": "Aromatic",
+        "as": "সুগন্ধি"
+      },
+      {
+        "en": "Cyclic",
+        "as": "চক্ৰীয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Saturated hydrocarbons such as alkanes have only single carbon-carbon bonds.",
+      "as": "সম্পৃক্ত হাইড্ৰ'কাৰ্বন যেনে এলকেনত কেৱল এক কাৰ্বন-কাৰ্বন বান্ধ থাকে।"
+    }
+  }
+]

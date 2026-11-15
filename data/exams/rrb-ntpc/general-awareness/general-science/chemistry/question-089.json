@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-089",
+    "q": {
+      "en": "The most abundant metal in the earth's crust is:",
+      "as": "পৃথিৱীৰ ভূত্বকত আটাইতকৈ বেছি পোৱা ধাতুটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Zinc",
+        "as": "জিংক"
+      },
+      {
+        "en": "Aluminium",
+        "as": "এলুমিনিয়াম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Aluminium is the most abundant metal, and the third most abundant element, in the crust.",
+      "as": "এলুমিনিয়াম ভূত্বকত আটাইতকৈ বেছি পোৱা ধাতু, আৰু তৃতীয় আটাইতকৈ বেছি পোৱা মৌল।"
+    }
+  }
+]

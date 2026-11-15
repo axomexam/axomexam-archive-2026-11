@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-064",
+    "q": {
+      "en": "The pH of a strong acid like hydrochloric acid is about:",
+      "as": "প্ৰবল এচিড, যেনে হাইড্ৰ'ক্ল'ৰিক এচিডৰ pH প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "14",
+        "as": "১৪"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A strong acid such as HCl has a very low pH, around 1.",
+      "as": "প্ৰবল এচিড যেনে HCl ৰ pH অতি কম, প্ৰায় ১।"
+    }
+  }
+]

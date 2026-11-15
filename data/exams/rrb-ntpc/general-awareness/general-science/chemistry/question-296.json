@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-296",
+    "q": {
+      "en": "The element with the symbol Mg is:",
+      "as": "Mg সংকেত থকা মৌলটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Manganese",
+        "as": "মেংগানিজ"
+      },
+      {
+        "en": "Molybdenum",
+        "as": "মলিবডেনাম"
+      },
+      {
+        "en": "Magnesium",
+        "as": "মেগনেছিয়াম"
+      },
+      {
+        "en": "Mercury",
+        "as": "পাৰদ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mg is the symbol for magnesium, a light structural metal.",
+      "as": "Mg হ'ল মেগনেছিয়ামৰ সংকেত, এটা পাতল গাঁথনিগত ধাতু।"
+    }
+  }
+]

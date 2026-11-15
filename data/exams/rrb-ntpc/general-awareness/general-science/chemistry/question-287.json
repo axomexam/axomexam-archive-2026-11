@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-287",
+    "q": {
+      "en": "In the laboratory, acids should always be diluted by adding:",
+      "as": "পৰীক্ষাগাৰত এচিড সদায় কিয় যোগ কৰি পাতল কৰিব লাগে?"
+    },
+    "options": [
+      {
+        "en": "Water to acid quickly",
+        "as": "পানী দ্ৰুতগতিত এচিডলৈ"
+      },
+      {
+        "en": "Both together",
+        "as": "দুয়ো একেলগে"
+      },
+      {
+        "en": "Acid to water slowly",
+        "as": "এচিড লাহে লাহে পানীলৈ"
+      },
+      {
+        "en": "Acid to acid",
+        "as": "এচিড এচিডলৈ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Adding acid to water slowly prevents dangerous splashing from the heat released.",
+      "as": "এচিড লাহে লাহে পানীত যোগ কৰিলে মুক্ত হোৱা তাপৰ পৰা বিপদজনক ছটিয়নি ৰোধ হয়।"
+    }
+  }
+]

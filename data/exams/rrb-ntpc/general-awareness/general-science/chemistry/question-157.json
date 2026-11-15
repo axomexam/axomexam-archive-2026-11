@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-157",
+    "q": {
+      "en": "A reaction in which two or more substances combine to form a single product is:",
+      "as": "যি বিক্ৰিয়াত দুটা বা অধিক পদাৰ্থ লগ লাগি এটা উৎপাদ গঠন কৰে সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Decomposition reaction",
+        "as": "বিয়োজন বিক্ৰিয়া"
+      },
+      {
+        "en": "Displacement reaction",
+        "as": "প্ৰতিস্থাপন বিক্ৰিয়া"
+      },
+      {
+        "en": "Neutralisation",
+        "as": "প্ৰশমন"
+      },
+      {
+        "en": "Combination reaction",
+        "as": "সংযোগ বিক্ৰিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In a combination reaction, simpler substances join into one product.",
+      "as": "সংযোগ বিক্ৰিয়াত সৰল পদাৰ্থবোৰ লগ লাগি এটা উৎপাদ গঠন কৰে।"
+    }
+  }
+]

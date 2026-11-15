@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-036",
+    "q": {
+      "en": "Group 18 elements of the periodic table are called:",
+      "as": "পৰ্যায় সাৰণীৰ শ্ৰেণী ১৮ ৰ মৌলবোৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Halogens",
+        "as": "হেল'জেন"
+      },
+      {
+        "en": "Alkali metals",
+        "as": "ক্ষাৰ ধাতু"
+      },
+      {
+        "en": "Noble gases",
+        "as": "নিষ্ক্ৰিয় গেছ"
+      },
+      {
+        "en": "Lanthanides",
+        "as": "লেণ্থানাইড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Group 18 elements such as helium and neon are the noble gases.",
+      "as": "শ্ৰেণী ১৮ ৰ মৌল যেনে হিলিয়াম আৰু নিয়ন নিষ্ক্ৰিয় গেছ।"
+    }
+  }
+]

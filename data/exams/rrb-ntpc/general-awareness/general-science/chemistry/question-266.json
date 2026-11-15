@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-266",
+    "q": {
+      "en": "A mixture of two miscible liquids with different boiling points is separated by:",
+      "as": "ভিন্ন উতলাংকৰ দুটা মিশ্ৰণীয় তৰলৰ মিশ্ৰণ পৃথক কৰা হয় কিয়ৰ দ্বাৰা?"
+    },
+    "options": [
+      {
+        "en": "Filtration",
+        "as": "ছেকনী"
+      },
+      {
+        "en": "Decantation",
+        "as": "ঢালি দিয়া"
+      },
+      {
+        "en": "Centrifugation",
+        "as": "কেন্দ্ৰীভৱন"
+      },
+      {
+        "en": "Fractional distillation",
+        "as": "ভগ্নাংশ পাতন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Fractional distillation separates miscible liquids by their differing boiling points.",
+      "as": "ভগ্নাংশ পাতনে ভিন্ন উতলাংক অনুসৰি মিশ্ৰণীয় তৰল পৃথক কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-237",
+    "q": {
+      "en": "A detergent works well even in hard water because it does not form:",
+      "as": "ডিটাৰ্জেণ্ট কঠিন পানীতো ভালদৰে কাম কৰে কিয়নো ই কিয় গঠন নকৰে?"
+    },
+    "options": [
+      {
+        "en": "Soap lather",
+        "as": "চাবোনৰ ফেন"
+      },
+      {
+        "en": "Insoluble scum with calcium and magnesium ions",
+        "as": "কেলছিয়াম আৰু মেগনেছিয়াম আয়নৰ সৈতে অদ্ৰৱনীয় মল"
+      },
+      {
+        "en": "Acid",
+        "as": "এচিড"
+      },
+      {
+        "en": "Precipitate with water",
+        "as": "পানীৰ সৈতে অৱক্ষেপ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Detergents are ammonium or sulphonate salts that do not form scum with hard water ions.",
+      "as": "ডিটাৰ্জেণ্ট এম'নিয়াম বা ছালফ'নেট নিমখ, যি কঠিন পানীৰ আয়নৰ সৈতে মল গঠন নকৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-028",
+    "q": {
+      "en": "The first element in the periodic table is:",
+      "as": "পৰ্যায় সাৰণীত প্ৰথম মৌলটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Helium",
+        "as": "হিলিয়াম"
+      },
+      {
+        "en": "Lithium",
+        "as": "লিথিয়াম"
+      },
+      {
+        "en": "Carbon",
+        "as": "কাৰ্বন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰ'জেন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Hydrogen, with atomic number 1, is the first element.",
+      "as": "হাইড্ৰ'জেন, পাৰমাণৱিক সংখ্যা ১, প্ৰথম মৌল।"
+    }
+  }
+]

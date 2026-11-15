@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-011",
+    "q": {
+      "en": "The chemical symbol of potassium is:",
+      "as": "পটাছিয়ামৰ ৰাসায়নিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "K",
+        "as": "K"
+      },
+      {
+        "en": "P",
+        "as": "P"
+      },
+      {
+        "en": "Po",
+        "as": "Po"
+      },
+      {
+        "en": "Pt",
+        "as": "Pt"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Potassium takes its symbol K from its Latin name kalium.",
+      "as": "পটাছিয়ামে ইয়াৰ লেটিন নাম kalium ৰ পৰা K সংকেত লয়।"
+    }
+  }
+]

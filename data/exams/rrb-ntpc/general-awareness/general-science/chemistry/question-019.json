@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-019",
+    "q": {
+      "en": "The molecular formula of carbon dioxide is:",
+      "as": "কাৰ্বন ডাইঅক্সাইডৰ আণৱিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "CO",
+        "as": "CO"
+      },
+      {
+        "en": "C₂O",
+        "as": "C₂O"
+      },
+      {
+        "en": "CO₃",
+        "as": "CO₃"
+      },
+      {
+        "en": "CO₂",
+        "as": "CO₂"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Carbon dioxide has one carbon atom and two oxygen atoms.",
+      "as": "কাৰ্বন ডাইঅক্সাইডত এটা কাৰ্বন আৰু দুটা অক্সিজেন পৰমাণু থাকে।"
+    }
+  }
+]

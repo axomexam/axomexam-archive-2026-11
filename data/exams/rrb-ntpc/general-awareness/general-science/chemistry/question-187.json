@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-187",
+    "q": {
+      "en": "Which gas makes up the largest share of the air around us?",
+      "as": "কোন গেছে আমাৰ চাৰিওফালৰ বায়ুৰ আটাইতকৈ বেছি অংশ গঠন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Argon",
+        "as": "আৰ্গন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "About 78% of the atmosphere by volume is composed of nitrogen gas.",
+      "as": "আয়তনৰ হিচাপত বায়ুমণ্ডলৰ প্ৰায় ৭৮% নাইট্ৰ'জেন গেছেৰে গঠিত।"
+    }
+  }
+]

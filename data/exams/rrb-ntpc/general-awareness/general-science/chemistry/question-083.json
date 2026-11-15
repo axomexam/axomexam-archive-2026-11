@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-083",
+    "q": {
+      "en": "The chemical name of baking powder's main acidic component, cream of tartar, is:",
+      "as": "বেকিং পাউডাৰৰ মূল এচিডীয় উপাদান, ক্ৰীম অৱ টাৰ্টাৰৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sodium bicarbonate",
+        "as": "ছ'ডিয়াম বাইকাৰ্বনেট"
+      },
+      {
+        "en": "Calcium carbonate",
+        "as": "কেলছিয়াম কাৰ্বনেট"
+      },
+      {
+        "en": "Potassium hydrogen tartrate",
+        "as": "পটাছিয়াম হাইড্ৰ'জেন টাৰ্টাৰেট"
+      },
+      {
+        "en": "Potassium nitrate",
+        "as": "পটাছিয়াম নাইট্ৰেট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Cream of tartar is potassium hydrogen tartrate, used with baking soda.",
+      "as": "ক্ৰীম অৱ টাৰ্টাৰ হ'ল পটাছিয়াম হাইড্ৰ'জেন টাৰ্টাৰেট, বেকিং ছ'ডাৰ সৈতে ব্যৱহৃত।"
+    }
+  }
+]

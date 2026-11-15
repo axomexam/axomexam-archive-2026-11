@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-163",
+    "q": {
+      "en": "The process of photosynthesis in plants is:",
+      "as": "উদ্ভিদত সালোকসংশ্লেষণ প্ৰক্ৰিয়াটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Exothermic",
+        "as": "তাপমুক্তিকৰ"
+      },
+      {
+        "en": "Endothermic",
+        "as": "তাপশোষক"
+      },
+      {
+        "en": "Neutral",
+        "as": "প্ৰশম"
+      },
+      {
+        "en": "Irreversible only",
+        "as": "কেৱল অপ্ৰতিবৰ্তী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Photosynthesis absorbs light energy, so it is an endothermic process.",
+      "as": "সালোকসংশ্লেষণে পোহৰ শক্তি শোষণ কৰে, গতিকে ই এটা তাপশোষক প্ৰক্ৰিয়া।"
+    }
+  }
+]

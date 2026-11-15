@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-221",
+    "q": {
+      "en": "The chief product obtained by the fractional distillation of petroleum used as fuel in vehicles is:",
+      "as": "বাহনত ইন্ধন হিচাপে ব্যৱহৃত, পেট্ৰ'লিয়ামৰ ভগ্নাংশ পাতনৰ পৰা পোৱা প্ৰধান উৎপাদটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Coal tar",
+        "as": "কয়লা টাৰ"
+      },
+      {
+        "en": "Bitumen",
+        "as": "বিটুমেন"
+      },
+      {
+        "en": "Petrol",
+        "as": "পেট্ৰ'ল"
+      },
+      {
+        "en": "Paraffin wax",
+        "as": "পেৰাফিন মম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Petrol (gasoline) is the light fraction used as fuel in cars.",
+      "as": "পেট্ৰ'ল (গেছ'লিন) হ'ল পাতল ভগ্নাংশ, গাড়ীত ইন্ধন হিচাপে ব্যৱহৃত।"
+    }
+  }
+]

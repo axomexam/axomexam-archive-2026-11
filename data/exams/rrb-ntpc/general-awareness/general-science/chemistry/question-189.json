@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-189",
+    "q": {
+      "en": "The gas essential for the combustion of fuels is:",
+      "as": "ইন্ধনৰ দহনৰ বাবে অপৰিহাৰ্য গেছটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰ'জেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Oxygen supports combustion; fuels need it to burn.",
+      "as": "অক্সিজেনে দহনত সহায় কৰে; ইন্ধন জ্বলিবলৈ ইয়াৰ প্ৰয়োজন।"
+    }
+  }
+]

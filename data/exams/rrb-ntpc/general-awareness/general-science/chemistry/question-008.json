@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-008",
+    "q": {
+      "en": "How many protons does an atom of carbon contain?",
+      "as": "কাৰ্বনৰ এটা পৰমাণুত কিমান প্ৰ'টন থাকে?"
+    },
+    "options": [
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "14",
+        "as": "১৪"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Carbon has 6 protons, so its atomic number is 6.",
+      "as": "কাৰ্বনত ৬ টা প্ৰ'টন আছে, গতিকে ইয়াৰ পাৰমাণৱিক সংখ্যা ৬।"
+    }
+  }
+]

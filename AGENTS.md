@@ -123,6 +123,41 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+## Session record — Nov 2026 RRB NTPC Chemistry question bank (320 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a full bilingual Chemistry bank to the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/general-science/chemistry/`:
+  `question-002.json` … `question-320.json` (319 new files) on top of the
+  existing `question-001.json`, for **320 questions** in the topic. Each file
+  holds one MCQ in the repo's shape — `id`, `q.{en,as}`, four
+  `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 320 `question-NNN.json`
+  files. The SPA's `listExamQuestions` reads that manifest (and the folder
+  listing) and fetches every file, so no code change was needed.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty
+  and cover basic concepts, atomic structure, the periodic table, chemical
+  bonding, acids-bases-salts, metals and non-metals, carbon compounds, chemical
+  reactions and the mole concept, everyday chemistry, fuels, polymers,
+  medicines and food chemistry, and separation techniques. Answer keys are
+  spread evenly over A/B/C/D (81/80/80/79), and the longest run of the same
+  slot is 3, so no answer pattern is exposed.
+  `--book rrb-ntpc --topic general-awareness/general-science/chemistry --check`
+  reports 0 skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive) against all other question text already
+  in `data/`; the 52 colliding items (44 stems + 8 explanations) were reworded
+  so the bank shares no stem or explanation with the existing banks or mock
+  sets. The most repetitive unit-conversion items were dropped to hold the
+  bank at the requested 320.
+- **`data/counts.json` is deliberately unchanged** (the book is still
+  `status: "coming-soon"`), as recorded in the earlier session records.
+- **Verified** by serving the repo locally: the chemistry `index.json` and every
+  `question-NNN.json` return 200. `node tools/seo-audit.js` still reports no
+  missing H1/desc/canonical/JSON-LD and all duplicate counts at 0. No page, UI,
+  script or CSS file changed.
+
 ## Session record — Nov 2026 RRB NTPC Physics question bank (305 MCQs)
 
 What was done, so the next agent does not redo or undo it:

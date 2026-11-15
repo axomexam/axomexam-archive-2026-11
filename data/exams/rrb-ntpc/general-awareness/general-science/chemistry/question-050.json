@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-050",
+    "q": {
+      "en": "The formula of common table salt is:",
+      "as": "সাধাৰণ খোৱা নিমখৰ সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      },
+      {
+        "en": "KCl",
+        "as": "KCl"
+      },
+      {
+        "en": "CaCl₂",
+        "as": "CaCl₂"
+      },
+      {
+        "en": "Na₂CO₃",
+        "as": "Na₂CO₃"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Common salt is sodium chloride, formula NaCl.",
+      "as": "খোৱা নিমখ ছ'ডিয়াম ক্ল'ৰাইড, সংকেত NaCl।"
+    }
+  }
+]

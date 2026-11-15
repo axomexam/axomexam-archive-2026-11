@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-166",
+    "q": {
+      "en": "A reaction in which oxidation and reduction occur together is called a:",
+      "as": "যি বিক্ৰিয়াত জাৰণ আৰু বিজাৰণ একেলগে ঘটে তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Redox reaction",
+        "as": "ৰিডক্স বিক্ৰিয়া"
+      },
+      {
+        "en": "Neutralisation",
+        "as": "প্ৰশমন"
+      },
+      {
+        "en": "Precipitation",
+        "as": "অৱক্ষেপণ"
+      },
+      {
+        "en": "Polymerisation",
+        "as": "পলিমাৰীকৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In a redox reaction one substance is oxidised while another is reduced.",
+      "as": "ৰিডক্স বিক্ৰিয়াত এটা পদাৰ্থ জাৰিত হয় আনহাতে আন এটা বিজাৰিত হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-207",
+    "q": {
+      "en": "The chemical name of caustic potash is:",
+      "as": "কষ্টিক পটাছৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Potassium carbonate",
+        "as": "পটাছিয়াম কাৰ্বনেট"
+      },
+      {
+        "en": "Potassium nitrate",
+        "as": "পটাছিয়াম নাইট্ৰেট"
+      },
+      {
+        "en": "Potassium chloride",
+        "as": "পটাছিয়াম ক্ল'ৰাইড"
+      },
+      {
+        "en": "Potassium hydroxide",
+        "as": "পটাছিয়াম হাইড্ৰ'ক্সাইড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Caustic potash is potassium hydroxide, KOH.",
+      "as": "কষ্টিক পটাছ হ'ল পটাছিয়াম হাইড্ৰ'ক্সাইড, KOH।"
+    }
+  }
+]

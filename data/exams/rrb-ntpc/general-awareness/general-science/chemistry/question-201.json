@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-201",
+    "q": {
+      "en": "The chemical name of bleaching powder's active ingredient is:",
+      "as": "ব্লিচিং পাউডাৰৰ সক্ৰিয় উপাদানৰ ৰাসায়নিক নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Calcium chloride",
+        "as": "কেলছিয়াম ক্ল'ৰাইড"
+      },
+      {
+        "en": "Calcium hypochlorite",
+        "as": "কেলছিয়াম হাইপ'ক্ল'ৰাইট"
+      },
+      {
+        "en": "Calcium oxide",
+        "as": "কেলছিয়াম অক্সাইড"
+      },
+      {
+        "en": "Sodium hypochlorite",
+        "as": "ছ'ডিয়াম হাইপ'ক্ল'ৰাইট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bleaching powder contains calcium hypochlorite, which releases chlorine for bleaching.",
+      "as": "ব্লিচিং পাউডাৰত কেলছিয়াম হাইপ'ক্ল'ৰাইট থাকে, যি ব্লিচিঙৰ বাবে ক্ল'ৰিন মুক্ত কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-110",
+    "q": {
+      "en": "The metal used in electrical wiring is usually:",
+      "as": "বিদ্যুৎ তাৰত সাধাৰণতে ব্যৱহৃত ধাতুটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Lead",
+        "as": "সীহ"
+      },
+      {
+        "en": "Mercury",
+        "as": "পাৰদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Copper is an excellent conductor of electricity and is ductile, so it is used in wiring.",
+      "as": "তাম বিদ্যুৎৰ উৎকৃষ্ট পৰিবাহী আৰু নমনীয়, গতিকে তাৰত ব্যৱহাৰ হয়।"
+    }
+  }
+]

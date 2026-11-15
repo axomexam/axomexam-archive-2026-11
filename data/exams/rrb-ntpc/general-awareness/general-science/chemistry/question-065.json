@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-065",
+    "q": {
+      "en": "The pH of a strong base like sodium hydroxide is about:",
+      "as": "প্ৰবল ক্ষাৰক, যেনে ছ'ডিয়াম হাইড্ৰ'ক্সাইডৰ pH প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      },
+      {
+        "en": "13",
+        "as": "১৩"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A strong base such as NaOH has a high pH, around 13.",
+      "as": "প্ৰবল ক্ষাৰক যেনে NaOH ৰ pH বেছি, প্ৰায় ১৩।"
+    }
+  }
+]

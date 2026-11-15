@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-297",
+    "q": {
+      "en": "The element with the symbol Cl is:",
+      "as": "Cl সংকেত থকা মৌলটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Chromium",
+        "as": "ক্ৰ'মিয়াম"
+      },
+      {
+        "en": "Calcium",
+        "as": "কেলছিয়াম"
+      },
+      {
+        "en": "Chlorine",
+        "as": "ক্ল'ৰিন"
+      },
+      {
+        "en": "Cobalt",
+        "as": "ক'বল্ট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Cl is the symbol for chlorine, a halogen gas.",
+      "as": "Cl হ'ল ক্ল'ৰিনৰ সংকেত, এটা হেল'জেন গেছ।"
+    }
+  }
+]

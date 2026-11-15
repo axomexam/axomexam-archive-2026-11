@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-062",
+    "q": {
+      "en": "A solution with pH less than 7 is:",
+      "as": "যি দ্ৰৱৰ pH ৭ তকৈ কম সেয়া:"
+    },
+    "options": [
+      {
+        "en": "Basic",
+        "as": "ক্ষাৰকীয়"
+      },
+      {
+        "en": "Neutral",
+        "as": "প্ৰশম"
+      },
+      {
+        "en": "Acidic",
+        "as": "এচিডীয়"
+      },
+      {
+        "en": "Amphoteric",
+        "as": "উভয়ধৰ্মী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A pH below 7 indicates acidity; the lower the pH, the stronger the acid.",
+      "as": "pH ৭ তকৈ কম হ'লে এচিডীয়তা সূচায়; pH যিমান কম, এচিড সিমান প্ৰবল।"
+    }
+  }
+]

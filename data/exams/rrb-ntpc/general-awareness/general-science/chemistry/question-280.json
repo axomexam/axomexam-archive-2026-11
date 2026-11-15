@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-280",
+    "q": {
+      "en": "The gas used in the manufacture of ammonia by the Haber process is nitrogen and:",
+      "as": "হেবাৰ পদ্ধতিৰে এম'নিয়া নিৰ্মাণত ব্যৱহৃত গেছবোৰ হ'ল নাইট্ৰ'জেন আৰু:"
+    },
+    "options": [
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰ'জেন"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Chlorine",
+        "as": "ক্ল'ৰিন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In the Haber process, nitrogen and hydrogen combine over a catalyst to give ammonia.",
+      "as": "হেবাৰ পদ্ধতিত নাইট্ৰ'জেন আৰু হাইড্ৰ'জেন এটা অনুঘটকৰ ওপৰত মিলি এম'নিয়া দিয়ে।"
+    }
+  }
+]

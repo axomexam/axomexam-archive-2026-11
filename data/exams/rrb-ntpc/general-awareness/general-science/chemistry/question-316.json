@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-316",
+    "q": {
+      "en": "The scientist who proposed the law of conservation of mass was:",
+      "as": "ভৰ সংৰক্ষণৰ সূত্ৰ আগবঢ়োৱা বিজ্ঞানীজন আছিল:"
+    },
+    "options": [
+      {
+        "en": "Antoine Lavoisier",
+        "as": "এণ্টন লেভ'ছিয়াৰ"
+      },
+      {
+        "en": "John Dalton",
+        "as": "জন ডাল্টন"
+      },
+      {
+        "en": "Dmitri Mendeleev",
+        "as": "দিমিত্ৰি মেণ্ডেলিভ"
+      },
+      {
+        "en": "Joseph Proust",
+        "as": "জ'ছেফ প্ৰাউষ্ট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lavoisier established the law of conservation of mass in chemical reactions.",
+      "as": "লেভ'ছিয়াৰে ৰাসায়নিক বিক্ৰিয়াত ভৰ সংৰক্ষণৰ সূত্ৰ প্ৰতিষ্ঠা কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-009",
+    "q": {
+      "en": "The number of electrons in a neutral atom of oxygen (Z = 8) is:",
+      "as": "অক্সিজেনৰ এটা প্ৰশম পৰমাণুত (Z = ৮) ইলেক্ট্ৰনৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "16",
+        "as": "১৬"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A neutral atom has equal numbers of protons and electrons, so oxygen has 8 electrons.",
+      "as": "এটা প্ৰশম পৰমাণুত প্ৰ'টন আৰু ইলেক্ট্ৰনৰ সংখ্যা সমান, গতিকে অক্সিজেনত ৮ টা ইলেক্ট্ৰন।"
+    }
+  }
+]

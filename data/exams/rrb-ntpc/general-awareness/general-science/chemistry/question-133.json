@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-133",
+    "q": {
+      "en": "The IUPAC name of the simplest alcohol is:",
+      "as": "আটাইতকৈ সৰল এলক'হলৰ IUPAC নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Methanol",
+        "as": "মিথানল"
+      },
+      {
+        "en": "Ethanol",
+        "as": "ইথানল"
+      },
+      {
+        "en": "Propanol",
+        "as": "প্ৰ'পানল"
+      },
+      {
+        "en": "Butanol",
+        "as": "বিউটানল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Methanol, CH₃OH, is the simplest alcohol.",
+      "as": "মিথানল, CH₃OH, আটাইতকৈ সৰল এলক'হল।"
+    }
+  }
+]

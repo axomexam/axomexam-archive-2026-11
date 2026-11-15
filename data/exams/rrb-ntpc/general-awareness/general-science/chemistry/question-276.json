@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-276",
+    "q": {
+      "en": "The gas that is used in balloons because it is lighter than air is:",
+      "as": "বতাহতকৈ পাতল হোৱাৰ বাবে বেলুনত ব্যৱহৃত গেছটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Helium",
+        "as": "হিলিয়াম"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Helium is lighter than air and non-flammable, so it is safe for balloons.",
+      "as": "হিলিয়াম বতাহতকৈ পাতল আৰু জ্বলনশীল নহয়, গতিকে বেলুনৰ বাবে নিৰাপদ।"
+    }
+  }
+]

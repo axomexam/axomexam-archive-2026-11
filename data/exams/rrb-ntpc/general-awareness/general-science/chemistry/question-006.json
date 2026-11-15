@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-006",
+    "q": {
+      "en": "The number of protons in an atom is given by its:",
+      "as": "পৰমাণু এটাৰ প্ৰ'টনৰ সংখ্যা কিয়ৰ দ্বাৰা দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Mass number",
+        "as": "ভৰ সংখ্যা"
+      },
+      {
+        "en": "Atomic number",
+        "as": "পাৰমাণৱিক সংখ্যা"
+      },
+      {
+        "en": "Valency",
+        "as": "যোজ্যতা"
+      },
+      {
+        "en": "Atomic mass",
+        "as": "পাৰমাণৱিক ভৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Atomic number Z equals the number of protons, which identifies the element.",
+      "as": "পাৰমাণৱিক সংখ্যা Z প্ৰ'টনৰ সংখ্যাৰ সমান, যি মৌলটো চিনাক্ত কৰে।"
+    }
+  }
+]

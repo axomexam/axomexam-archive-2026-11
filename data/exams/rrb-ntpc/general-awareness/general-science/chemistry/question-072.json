@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-072",
+    "q": {
+      "en": "Which of these acids ionises completely in water?",
+      "as": "এইবোৰৰ কোন এচিডটো পানীত সম্পূৰ্ণৰূপে আয়নিত হয়?"
+    },
+    "options": [
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      },
+      {
+        "en": "Carbonic acid",
+        "as": "কাৰ্বনিক এচিড"
+      },
+      {
+        "en": "Citric acid",
+        "as": "ছিট্ৰিক এচিড"
+      },
+      {
+        "en": "Hydrochloric acid",
+        "as": "হাইড্ৰ'ক্ল'ৰিক এচিড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Hydrochloric acid ionises completely in water, so it is a strong acid.",
+      "as": "হাইড্ৰ'ক্ল'ৰিক এচিড পানীত সম্পূৰ্ণৰূপে আয়নিত হয়, গতিকে ই প্ৰবল এচিড।"
+    }
+  }
+]

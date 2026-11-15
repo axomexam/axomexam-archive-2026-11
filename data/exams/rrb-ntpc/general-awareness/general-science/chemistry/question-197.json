@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-197",
+    "q": {
+      "en": "Permanent hardness of water is caused mainly by:",
+      "as": "পানীৰ স্থায়ী কঠিনতা মূলতঃ কিয়ৰ বাবে হয়?"
+    },
+    "options": [
+      {
+        "en": "Sodium chloride",
+        "as": "ছ'ডিয়াম ক্ল'ৰাইড"
+      },
+      {
+        "en": "Calcium bicarbonate",
+        "as": "কেলছিয়াম বাইকাৰ্বনেট"
+      },
+      {
+        "en": "Dissolved oxygen",
+        "as": "দ্ৰৱীভূত অক্সিজেন"
+      },
+      {
+        "en": "Sulphates and chlorides of calcium and magnesium",
+        "as": "কেলছিয়াম আৰু মেগনেছিয়ামৰ ছালফেট আৰু ক্ল'ৰাইড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sulphates and chlorides of calcium and magnesium cause hardness that boiling cannot remove.",
+      "as": "কেলছিয়াম আৰু মেগনেছিয়ামৰ ছালফেট আৰু ক্ল'ৰাইডে এনে কঠিনতা কৰে যি উতলাই আঁতৰাব নোৱাৰি।"
+    }
+  }
+]

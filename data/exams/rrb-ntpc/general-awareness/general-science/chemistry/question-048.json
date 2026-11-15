@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-048",
+    "q": {
+      "en": "Which of these elements shows properties of both metals and non-metals?",
+      "as": "এইবোৰৰ কোন মৌলে ধাতু আৰু অধাতু দুয়োৰে ধৰ্ম দেখুৱায়?"
+    },
+    "options": [
+      {
+        "en": "Sodium",
+        "as": "ছ'ডিয়াম"
+      },
+      {
+        "en": "Sulphur",
+        "as": "গন্ধক"
+      },
+      {
+        "en": "Silicon",
+        "as": "ছিলিকন"
+      },
+      {
+        "en": "Chlorine",
+        "as": "ক্ল'ৰিন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Silicon shows properties of both metals and non-metals, so it is a metalloid.",
+      "as": "ছিলিকনে ধাতু আৰু অধাতু দুয়োৰে ধৰ্ম দেখুৱায়, গতিকে ই এটা উপধাতু।"
+    }
+  }
+]

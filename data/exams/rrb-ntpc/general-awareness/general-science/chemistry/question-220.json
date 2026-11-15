@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-220",
+    "q": {
+      "en": "The type of coal with the highest carbon content is:",
+      "as": "আটাইতকৈ বেছি কাৰ্বন থকা কয়লাৰ প্ৰকাৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lignite",
+        "as": "লিগনাইট"
+      },
+      {
+        "en": "Anthracite",
+        "as": "এনথ্ৰাচাইট"
+      },
+      {
+        "en": "Peat",
+        "as": "পিট"
+      },
+      {
+        "en": "Bituminous",
+        "as": "বিটুমিনাছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Anthracite is the hardest coal and has the highest carbon content.",
+      "as": "এনথ্ৰাচাইট আটাইতকৈ কঠিন কয়লা আৰু ইয়াৰ কাৰ্বনৰ পৰিমাণ আটাইতকৈ বেছি।"
+    }
+  }
+]

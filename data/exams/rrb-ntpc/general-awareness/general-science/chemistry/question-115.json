@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-115",
+    "q": {
+      "en": "The reduction of a metal oxide to the metal using a more reactive metal is called:",
+      "as": "অধিক সক্ৰিয় ধাতু ব্যৱহাৰ কৰি ধাতু অক্সাইডক ধাতুলৈ বিজাৰণ কৰাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Electrolysis",
+        "as": "বিদ্যুৎ-বিশ্লেষণ"
+      },
+      {
+        "en": "Roasting",
+        "as": "ভজা"
+      },
+      {
+        "en": "Galvanisation",
+        "as": "গেলভানাইজেশ্যন"
+      },
+      {
+        "en": "Thermite reaction",
+        "as": "থাৰ্মাইট বিক্ৰিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The thermite reaction uses aluminium powder to reduce iron oxide, producing molten iron.",
+      "as": "থাৰ্মাইট বিক্ৰিয়াই এলুমিনিয়াম গুড়ি ব্যৱহাৰ কৰি আয়ৰন অক্সাইড বিজাৰিত কৰে, গলিত লো উৎপন্ন হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-302",
+    "q": {
+      "en": "The chemical formula of ozone is:",
+      "as": "অ'জ'নৰ ৰাসায়নিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "O₂",
+        "as": "O₂"
+      },
+      {
+        "en": "O₃",
+        "as": "O₃"
+      },
+      {
+        "en": "CO₂",
+        "as": "CO₂"
+      },
+      {
+        "en": "O",
+        "as": "O"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ozone is a triatomic form of oxygen with the formula O₃.",
+      "as": "অ'জ'ন অক্সিজেনৰ এটা ত্ৰিপাৰমাণৱিক ৰূপ, সংকেত O₃।"
+    }
+  }
+]

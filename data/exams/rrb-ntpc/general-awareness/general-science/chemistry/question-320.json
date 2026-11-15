@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-320",
+    "q": {
+      "en": "The modern periodic law was given by:",
+      "as": "আধুনিক পৰ্যায় সূত্ৰ কেৱে দিছিল?"
+    },
+    "options": [
+      {
+        "en": "Henry Moseley",
+        "as": "হেনৰী ম'জ্‌লি"
+      },
+      {
+        "en": "Dmitri Mendeleev",
+        "as": "দিমিত্ৰি মেণ্ডেলিভ"
+      },
+      {
+        "en": "John Dalton",
+        "as": "জন ডাল্টন"
+      },
+      {
+        "en": "Antoine Lavoisier",
+        "as": "এণ্টন লেভ'ছিয়াৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Moseley showed atomic number, not atomic mass, is the proper basis for the periodic table.",
+      "as": "ম'জ্‌লিয়ে দেখুৱাইছিল পাৰমাণৱিক সংখ্যা, পাৰমাণৱিক ভৰ নহয়, পৰ্যায় সাৰণীৰ সঠিক ভিত্তি।"
+    }
+  }
+]

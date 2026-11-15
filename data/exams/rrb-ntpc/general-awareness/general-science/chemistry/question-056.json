@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-056",
+    "q": {
+      "en": "The formula of common bleaching powder is often written as:",
+      "as": "সাধাৰণ ব্লিচিং পাউডাৰৰ সংকেত প্ৰায়ে লিখা হয়:"
+    },
+    "options": [
+      {
+        "en": "Ca(OCl)Cl",
+        "as": "Ca(OCl)Cl"
+      },
+      {
+        "en": "CaCl₂",
+        "as": "CaCl₂"
+      },
+      {
+        "en": "CaO",
+        "as": "CaO"
+      },
+      {
+        "en": "CaCO₃",
+        "as": "CaCO₃"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bleaching powder is calcium hypochlorite, roughly Ca(OCl)Cl.",
+      "as": "ব্লিচিং পাউডাৰ হ'ল কেলছিয়াম হাইপ'ক্ল'ৰাইট, প্ৰায় Ca(OCl)Cl।"
+    }
+  }
+]

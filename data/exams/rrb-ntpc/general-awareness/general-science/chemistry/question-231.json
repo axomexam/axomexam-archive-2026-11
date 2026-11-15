@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-231",
+    "q": {
+      "en": "The medicine used to reduce pain is called:",
+      "as": "বিষ কমাবলৈ ব্যৱহৃত ঔষধক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Antibiotic",
+        "as": "এণ্টিবায়'টিক"
+      },
+      {
+        "en": "Antiseptic",
+        "as": "এণ্টিছেপ্টিক"
+      },
+      {
+        "en": "Analgesic",
+        "as": "বেদনানাশক"
+      },
+      {
+        "en": "Antacid",
+        "as": "এণ্টাএচিড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Analgesics such as aspirin relieve pain without causing loss of consciousness.",
+      "as": "এছপিৰিনৰ দৰে বেদনানাশকে অচেতন নকৰাকৈ বিষ কমায়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-067",
+    "q": {
+      "en": "Acids react with bases to form a salt and:",
+      "as": "এচিডে ক্ষাৰকৰ সৈতে বিক্ৰিয়া কৰি নিমখ আৰু কিয় গঠন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰ'জেন"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Neutralisation gives a salt and water, as in acid + base reactions.",
+      "as": "প্ৰশমনত নিমখ আৰু পানী পোৱা যায়, যেনে এচিড + ক্ষাৰক বিক্ৰিয়াত।"
+    }
+  }
+]

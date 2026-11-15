@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-053",
+    "q": {
+      "en": "The formula of washing soda is:",
+      "as": "ৱাছিং ছ'ডাৰ সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "NaHCO₃",
+        "as": "NaHCO₃"
+      },
+      {
+        "en": "NaOH",
+        "as": "NaOH"
+      },
+      {
+        "en": "Na₂CO₃·10H₂O",
+        "as": "Na₂CO₃·10H₂O"
+      },
+      {
+        "en": "Na₂SO₄",
+        "as": "Na₂SO₄"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Washing soda is hydrated sodium carbonate, Na₂CO₃·10H₂O.",
+      "as": "ৱাছিং ছ'ডা হ'ল জলযুক্ত ছ'ডিয়াম কাৰ্বনেট, Na₂CO₃·10H₂O।"
+    }
+  }
+]
