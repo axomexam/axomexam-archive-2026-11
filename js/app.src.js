@@ -4928,12 +4928,49 @@
 
   /* Free Exam Books readiness is kept separate from exam.status on purpose:
      exam.status also gates the exam-wise mock tests and the hero question
-     total, so flipping it would take those down too. Only these three books
-     are shown as ready in the /exams/ listing; every other book shows
+     total, so flipping it would take those down too. Only these books are
+     shown as ready in the /exams/ listing; every other book shows
      "Coming Soon" while its content stays unpublished. */
-  const EXAM_BOOKS_READY = ["assam-police", "adre-grade-3", "adre-grade-4"];
+  const EXAM_BOOKS_READY = ["assam-police", "rrb-ntpc", "adre-grade-3", "adre-grade-4"];
   function examBookIsReady(exam) {
     return !!(exam && EXAM_BOOKS_READY.indexOf(exam.id) !== -1 && (exam.sections || []).length);
+  }
+
+  /* Books whose cover and card are live (the card reads "Read Now") but whose
+     question banks are still being uploaded. Opening one shows a short
+     "content is being prepared" popup instead of an empty book. */
+  const EXAM_BOOKS_PREPARING = ["rrb-ntpc"];
+  function examBookIsPreparing(exam) {
+    return !!(exam && EXAM_BOOKS_PREPARING.indexOf(exam.id) !== -1);
+  }
+
+  /* The "content is being prepared" popup. Shown once per book per page load
+     so moving between the book's sections does not nag the reader. */
+  const examPreparingPopupSeen = {};
+  function showExamPreparingPopup(exam) {
+    if (!exam || examPreparingPopupSeen[exam.id]) return;
+    examPreparingPopupSeen[exam.id] = true;
+
+    const existing = $("#exam-preparing-modal");
+    if (existing) existing.remove();
+
+    const modal = document.createElement("div");
+    modal.id = "exam-preparing-modal";
+    modal.className = "read-modal";
+    modal.innerHTML = `
+      <div class="read-modal-backdrop"></div>
+      <div class="read-modal-box confirm-modal-box" role="dialog" aria-modal="true">
+        <h3 style="font-size:1.12rem; margin-bottom:9px;">${escapeHtml(t("exams.preparingTitle"))}</h3>
+        <p style="color:var(--ink-soft); font-size:.9rem; margin-bottom:18px; line-height:1.55;">${escapeHtml(t("exams.preparingMsg"))}</p>
+        <div style="display:flex; gap:10px; justify-content:center;">
+          <button class="btn btn-primary" id="exam-preparing-ok" style="flex:1;">${escapeHtml(t("exams.preparingOk"))}</button>
+        </div>
+      </div>`;
+    document.body.appendChild(modal);
+
+    const close = () => modal.remove();
+    $("#exam-preparing-ok", modal).addEventListener("click", close);
+    $(".read-modal-backdrop", modal).addEventListener("click", close);
   }
 
   /* Display name for the exam books. Only the Assam Police Constable book
@@ -5644,6 +5681,7 @@
     observeReveals();
     hydrateExamCardCounts(main, exam);
     hydrateExamBookTotal(main, exam);
+    if (examBookIsPreparing(exam)) showExamPreparingPopup(exam);
   }
 
   /* Options list for an exam question — same 4-option view as the practice section. */
@@ -5809,6 +5847,8 @@
       return;
     }
 
+    if (examBookIsPreparing(exam)) showExamPreparingPopup(exam);
+
     if (!exam || !sec) {
       main.innerHTML = `
         <div class="page-head" style="text-align:center; max-width:720px; margin:0 auto; padding:40px 16px; box-sizing:border-box;">
@@ -5947,6 +5987,8 @@
       return;
     }
 
+    if (examBookIsPreparing(exam)) showExamPreparingPopup(exam);
+
     if (!exam || !sec || !sub) {
       main.innerHTML = `
         <div class="page-head" style="text-align:center; max-width:720px; margin:0 auto; padding:40px 16px; box-sizing:border-box;">
@@ -6068,6 +6110,8 @@
       main.innerHTML = examBookComingSoonHTML(exam);
       return;
     }
+
+    if (examBookIsPreparing(exam)) showExamPreparingPopup(exam);
 
     if (!exam || !sec || !sub || !child) {
       main.innerHTML = `
