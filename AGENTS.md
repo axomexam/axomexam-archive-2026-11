@@ -92,6 +92,24 @@ they outrank any cleanup, refactor or "nice to have" an agent might want to do.
   every hit until the count is 0. Do not drop a fact that a book genuinely
   needs; phrase it differently instead. This is a standing rule: do not
   re-introduce near-duplicate stems or explanations in any future bank.
+- **Every question-answer page also carries its own 1300+ word study
+  article.** A page that publishes an MCQ bank is not "done" when the
+  questions are in. It must also carry a topic-relevant long-form article
+  panel — an `h2`, overview prose, a key-facts list and a short FAQ — in
+  **both** English and Assamese, and **each** language must reach **1300
+  words minimum**. The article is written for that topic (exam-relevant,
+  high-quality, covering the syllabus around the questions — not template
+  filler and not a restatement of the MCQs), and it must not reuse another
+  page's prose. This is a standing rule: it applies to **any new
+  question-answer page in any book**, not only RRB NTPC.
+  - RRB NTPC source files: `tools/rrb-ntpc-ga-articles/<group>/<leaf>.js`,
+    each exporting `{ h2, p: { en, as }, list: { en, as }, faqs }`.
+  - Render with `node tools/rrb-ntpc.ga-extra.js`; gate with
+    `node tools/rrb-ntpc.ga-extra-check.js`, which must end
+    `articles failing the 1300-word floor (either language): 0; missing: 0`.
+  - The panel lives in the `axo-extra-content` block placed **after
+    `</main>`** (outside `<main id="app">`) so Googlebot reads it with JS
+    off, and `tools/build-as-twins.js` copies it into the `/as/` twin.
 - **Verify before shipping.** Run `node tools/seo-audit.js` and confirm
   `thin (<300w): 0`, `missing H1/desc/canonical/JSON-LD: 0`, and the duplicate
   counts above, then check the live URLs return 200 after the Pages build.
