@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-202",
+    "q": {
+      "en": "The atomic number of an element equals the number of:",
+      "as": "মৌল এটাৰ পাৰমাণৱিক সংখ্যা কিয়ৰ সংখ্যাৰ সমান?"
+    },
+    "options": [
+      {
+        "en": "Neutrons in the nucleus",
+        "as": "নিউক্লিয়াছত নিউট্ৰনৰ"
+      },
+      {
+        "en": "Nucleons",
+        "as": "নিউক্লিয়নৰ"
+      },
+      {
+        "en": "Electron shells",
+        "as": "ইলেক্ট্ৰন কক্ষৰ"
+      },
+      {
+        "en": "Protons in the nucleus",
+        "as": "নিউক্লিয়াছত প্ৰ'টনৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Atomic number Z is the number of protons, which equals the electrons in a neutral atom.",
+      "as": "পাৰমাণৱিক সংখ্যা Z হ'ল প্ৰ'টনৰ সংখ্যা, যি এটা প্ৰশম পৰমাণুত ইলেক্ট্ৰনৰ সংখ্যাৰ সমান।"
+    }
+  }
+]

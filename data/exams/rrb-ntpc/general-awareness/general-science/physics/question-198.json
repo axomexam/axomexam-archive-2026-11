@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-198",
+    "q": {
+      "en": "Eddy currents are used in:",
+      "as": "এডি প্ৰৱাহ কিয়ত ব্যৱহৃত হয়?"
+    },
+    "options": [
+      {
+        "en": "Induction furnace",
+        "as": "আৱেশ ভাটি"
+      },
+      {
+        "en": "Electric bulb",
+        "as": "বিদ্যুৎ বাল্ব"
+      },
+      {
+        "en": "Fuse",
+        "as": "ফিউজ"
+      },
+      {
+        "en": "Galvanometer",
+        "as": "গেলভান'মিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Eddy currents heat metals and are used in induction furnaces and braking.",
+      "as": "এডি প্ৰৱাহে ধাতু গৰম কৰে আৰু আৱেশ ভাটি আৰু ব্ৰেকিঙত ব্যৱহৃত হয়।"
+    }
+  }
+]

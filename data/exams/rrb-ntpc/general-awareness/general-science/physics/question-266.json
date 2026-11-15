@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-266",
+    "q": {
+      "en": "The cooling of water in an earthen pot in summer is due to:",
+      "as": "গ্ৰীষ্মত মাটিৰ কলহত পানী ঠাণ্ডা হোৱাৰ কাৰণ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Conduction through clay",
+        "as": "মাটিৰ মাজেৰে পৰিবহণ"
+      },
+      {
+        "en": "Radiation",
+        "as": "বিকিৰণ"
+      },
+      {
+        "en": "Convection inside",
+        "as": "ভিতৰত পৰিচলন"
+      },
+      {
+        "en": "Evaporation through tiny pores",
+        "as": "সূক্ষ্ম ছিদ্ৰৰ মাজেৰে বাষ্পীভৱন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Water seeps through the pores and evaporates, taking latent heat and cooling the rest.",
+      "as": "পানী ছিদ্ৰৰ মাজেৰে ওলাই বাষ্পীভূত হয়, লীন তাপ লৈ বাকীখিনি শীতল কৰে।"
+    }
+  }
+]

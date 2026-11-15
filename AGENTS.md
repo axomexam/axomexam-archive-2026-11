@@ -123,6 +123,38 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+## Session record — Nov 2026 RRB NTPC Physics question bank (305 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a full bilingual Physics bank to the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/general-science/physics/`:
+  `question-002.json` … `question-305.json` (304 new files) on top of the
+  existing `question-001.json`, for **305 questions** in the topic. Each file
+  holds one MCQ in the repo's shape — `id`, `q.{en,as}`, four
+  `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 305 `question-NNN.json`
+  files. The SPA's `listExamQuestions` reads that manifest (and the folder
+  listing) and fetches every file, so no code change was needed.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty
+  and cover units and measurement, motion and laws of motion, work, energy and
+  power, gravitation, heat and thermodynamics, properties of matter, waves and
+  sound, light and optics, electricity and magnetism, modern physics, and
+  applied physics. Answer keys are spread evenly over A/B/C/D (77/76/76/76),
+  and the longest run of the same slot is 3, so no answer pattern is exposed.
+  `--book rrb-ntpc --topic general-awareness/general-science/physics --check`
+  reports 0 skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive) against all other question text already
+  in `data/`; the 44 colliding items were reworded so the bank shares no stem
+  or explanation with the existing banks or mock sets.
+- **`data/counts.json` is deliberately unchanged** (the book is still
+  `status: "coming-soon"`), as recorded in the Biology session record above.
+- **Verified** by serving the repo locally: the physics `index.json` and every
+  `question-NNN.json` return 200. `node tools/seo-audit.js` still reports
+  `thin (<300w): 0`, no missing H1/desc/canonical/JSON-LD and all duplicate
+  counts at 0. No page, UI, script or CSS file changed.
+
 ## Session record — Nov 2026 RRB NTPC Biology question bank (310 MCQs)
 
 What was done, so the next agent does not redo or undo it:

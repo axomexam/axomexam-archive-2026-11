@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-151",
+    "q": {
+      "en": "An ammeter is always connected in a circuit in:",
+      "as": "এমিটাৰ সদায় পৰিপথত কিয় সংযুক্ত কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Series",
+        "as": "শ্ৰেণীত"
+      },
+      {
+        "en": "Parallel",
+        "as": "সমান্তৰালত"
+      },
+      {
+        "en": "Series with the voltmeter",
+        "as": "ভল্টমিটাৰৰ সৈতে শ্ৰেণীত"
+      },
+      {
+        "en": "Across the battery only",
+        "as": "কেৱল বেটেৰীৰ আড়াআড়ি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An ammeter is placed in series so that the whole current passes through it.",
+      "as": "এমিটাৰ শ্ৰেণীত ৰখা হয় যাতে সম্পূৰ্ণ প্ৰৱাহ ইয়াৰ মাজেৰে যায়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-192",
+    "q": {
+      "en": "The device that stores electric charge is a:",
+      "as": "বিদ্যুৎ আধান সাঁচি ৰখা সঁজুলিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Resistor",
+        "as": "ৰোধক"
+      },
+      {
+        "en": "Inductor",
+        "as": "আৱেশক"
+      },
+      {
+        "en": "Diode",
+        "as": "ডায়'ড"
+      },
+      {
+        "en": "Capacitor",
+        "as": "ধাৰক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A capacitor stores charge; its capacitance is measured in farads.",
+      "as": "ধাৰকে আধান সাঁচি ৰাখে; ইয়াৰ ধাৰকত্ব ফাৰাডত জোখা হয়।"
+    }
+  }
+]

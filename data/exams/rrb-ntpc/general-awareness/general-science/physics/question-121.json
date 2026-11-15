@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-121",
+    "q": {
+      "en": "The image formed by a convex lens when the object is beyond 2F is:",
+      "as": "বস্তু 2F ৰ বাহিৰত থাকিলে উত্তল লেন্সে গঠন কৰা প্ৰতিবিম্বটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Real, inverted and diminished",
+        "as": "প্ৰকৃত, ওলোটা আৰু সৰু"
+      },
+      {
+        "en": "Virtual, erect and magnified",
+        "as": "অপ্ৰকৃত, সোজা আৰু বিবৰ্ধিত"
+      },
+      {
+        "en": "Real, erect and magnified",
+        "as": "প্ৰকৃত, সোজা আৰু বিবৰ্ধিত"
+      },
+      {
+        "en": "Virtual, inverted and same size",
+        "as": "অপ্ৰকৃত, ওলোটা আৰু একে আকাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An object beyond 2F gives a real, inverted, diminished image between F and 2F.",
+      "as": "2F ৰ বাহিৰৰ বস্তুৱে F আৰু 2F ৰ মাজত প্ৰকৃত, ওলোটা, সৰু প্ৰতিবিম্ব দিয়ে।"
+    }
+  }
+]

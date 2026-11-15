@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-146",
+    "q": {
+      "en": "The resistance of a conductor is directly proportional to its:",
+      "as": "পৰিবাহী এটাৰ ৰোধ ইয়াৰ কিয়ৰ সমানুপাতিক?"
+    },
+    "options": [
+      {
+        "en": "Area of cross-section",
+        "as": "প্ৰস্থচ্ছেদৰ কালি"
+      },
+      {
+        "en": "Temperature coefficient",
+        "as": "উষ্ণতা গুণাংক"
+      },
+      {
+        "en": "Length",
+        "as": "দৈৰ্ঘ্য"
+      },
+      {
+        "en": "Volume",
+        "as": "আয়তন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "R = ρL/A, so resistance rises with length and falls with area.",
+      "as": "R = ρL/A, গতিকে ৰোধ দৈৰ্ঘ্যৰ সৈতে বাঢ়ে আৰু কালিৰ সৈতে কমে।"
+    }
+  }
+]

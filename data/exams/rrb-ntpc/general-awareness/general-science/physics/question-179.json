@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-179",
+    "q": {
+      "en": "Fleming's left-hand rule gives the direction of:",
+      "as": "ফ্লেমিঙৰ বাওঁ-হাতৰ নিয়মে কিয়ৰ দিশ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Induced current",
+        "as": "আৱিষ্ট প্ৰৱাহ"
+      },
+      {
+        "en": "Magnetic field only",
+        "as": "কেৱল চুম্বক ক্ষেত্ৰ"
+      },
+      {
+        "en": "Force on a current-carrying conductor in a magnetic field",
+        "as": "চুম্বক ক্ষেত্ৰত প্ৰৱাহবাহী পৰিবাহীৰ ওপৰত বল"
+      },
+      {
+        "en": "Electric charge",
+        "as": "বিদ্যুৎ আধান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The left-hand rule relates the force, magnetic field and current directions in a motor.",
+      "as": "বাওঁ-হাতৰ নিয়মে মটৰত বল, চুম্বক ক্ষেত্ৰ আৰু প্ৰৱাহৰ দিশৰ সম্পৰ্ক দিয়ে।"
+    }
+  }
+]

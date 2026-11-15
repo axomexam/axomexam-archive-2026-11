@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-024",
+    "q": {
+      "en": "The smallest measurement that an ordinary metre scale can read is:",
+      "as": "সাধাৰণ মিটাৰ স্কেল এডালে পঢ়িব পৰা আটাইতকৈ সৰু মাপটো কিমান?"
+    },
+    "options": [
+      {
+        "en": "1 cm",
+        "as": "১ ছে.মি."
+      },
+      {
+        "en": "0.1 mm",
+        "as": "০.১ মি.মি."
+      },
+      {
+        "en": "1 m",
+        "as": "১ মি."
+      },
+      {
+        "en": "1 mm",
+        "as": "১ মি.মি."
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Its markings are one millimetre apart, so the least count of a metre scale is 1 mm.",
+      "as": "ইয়াৰ চিহ্নবোৰ এটা মিলিমিটাৰ আঁতৰত, গতিকে মিটাৰ স্কেল এডালৰ ন্যূনতম ঘাত ১ মি.মি.।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-006",
+    "q": {
+      "en": "In terms of mass, length and time, the dimensions of force are:",
+      "as": "ভৰ, দৈৰ্ঘ্য আৰু সময়ৰ হিচাপত বলৰ মাত্ৰা হ'ল:"
+    },
+    "options": [
+      {
+        "en": "[M L² T⁻²]",
+        "as": "[M L² T⁻²]"
+      },
+      {
+        "en": "[M L⁻¹ T⁻²]",
+        "as": "[M L⁻¹ T⁻²]"
+      },
+      {
+        "en": "[M L T⁻²]",
+        "as": "[M L T⁻²]"
+      },
+      {
+        "en": "[M L T⁻¹]",
+        "as": "[M L T⁻¹]"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Force = mass × acceleration, so its dimensions are [M L T⁻²].",
+      "as": "বল = ভৰ × ত্বৰণ, গতিকে ইয়াৰ মাত্ৰা [M L T⁻²]।"
+    }
+  }
+]

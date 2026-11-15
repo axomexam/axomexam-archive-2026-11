@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-164",
+    "q": {
+      "en": "A freely suspended bar magnet always comes to rest pointing:",
+      "as": "মুক্তভাৱে ওলমাই ৰখা দণ্ড চুম্বক এডাল সদায় কিয়ৰ দিশে ৰয়?"
+    },
+    "options": [
+      {
+        "en": "East-west",
+        "as": "পূব-পশ্চিম"
+      },
+      {
+        "en": "North-south",
+        "as": "উত্তৰ-দক্ষিণ"
+      },
+      {
+        "en": "North-east",
+        "as": "উত্তৰ-পূব"
+      },
+      {
+        "en": "South-west",
+        "as": "দক্ষিণ-পশ্চিম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "It aligns with the earth's magnetic field, pointing roughly north-south.",
+      "as": "ই পৃথিৱীৰ চুম্বক ক্ষেত্ৰৰ সৈতে মিলি প্ৰায় উত্তৰ-দক্ষিণে থাকে।"
+    }
+  }
+]

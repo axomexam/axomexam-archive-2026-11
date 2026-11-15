@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-217",
+    "q": {
+      "en": "The energy source of the sun is:",
+      "as": "সূৰ্যৰ শক্তিৰ উৎসটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Nuclear fission",
+        "as": "পাৰমাণৱিক ফিছন"
+      },
+      {
+        "en": "Nuclear fusion",
+        "as": "পাৰমাণৱিক ফিউজন"
+      },
+      {
+        "en": "Chemical burning",
+        "as": "ৰাসায়নিক দহন"
+      },
+      {
+        "en": "Gravitational collapse only",
+        "as": "কেৱল মাধ্যাকৰ্ষণ সংকোচন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The sun fuses hydrogen into helium in its core, releasing enormous energy.",
+      "as": "সূৰ্যই ইয়াৰ কেন্দ্ৰত হাইড্ৰ'জেনক হিলিয়ামলৈ ফিউজ কৰি বিশাল শক্তি মুক্ত কৰে।"
+    }
+  }
+]

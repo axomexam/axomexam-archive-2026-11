@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-303",
+    "q": {
+      "en": "The moon takes about how many days to complete one revolution around the earth?",
+      "as": "চন্দ্ৰৰ পৃথিৱীৰ চাৰিওফালে এটা প্ৰদক্ষিণ সম্পূৰ্ণ কৰিবলৈ প্ৰায় কিমান দিন লাগে?"
+    },
+    "options": [
+      {
+        "en": "About 7 days",
+        "as": "প্ৰায় ৭ দিন"
+      },
+      {
+        "en": "About 27 days",
+        "as": "প্ৰায় ২৭ দিন"
+      },
+      {
+        "en": "About 365 days",
+        "as": "প্ৰায় ৩৬৫ দিন"
+      },
+      {
+        "en": "About 100 days",
+        "as": "প্ৰায় ১০০ দিন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The moon's sidereal period is about 27.3 days.",
+      "as": "চন্দ্ৰৰ নক্ষত্ৰীয় পৰ্যায়কাল প্ৰায় ২৭.৩ দিন।"
+    }
+  }
+]

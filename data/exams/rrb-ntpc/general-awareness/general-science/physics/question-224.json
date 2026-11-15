@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-224",
+    "q": {
+      "en": "The neutron was discovered by:",
+      "as": "নিউট্ৰন কেৱে আৱিষ্কাৰ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "J. J. Thomson",
+        "as": "জে. জে. টমছন"
+      },
+      {
+        "en": "Ernest Rutherford",
+        "as": "আৰ্ণেষ্ট ৰাডাৰফ'ৰ্ড"
+      },
+      {
+        "en": "Marie Curie",
+        "as": "মেৰী কুৰি"
+      },
+      {
+        "en": "James Chadwick",
+        "as": "জেমছ চেডউইক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Chadwick discovered the neutron in 1932, a neutral nucleon.",
+      "as": "চেডউইকে ১৯৩২ চনত নিউট্ৰন আৱিষ্কাৰ কৰিছিল, এটা প্ৰশম নিউক্লিয়ন।"
+    }
+  }
+]

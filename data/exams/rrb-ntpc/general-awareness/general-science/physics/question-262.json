@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-262",
+    "q": {
+      "en": "The safety belt in a car protects a passenger by using the principle of:",
+      "as": "গাড়ীৰ ছীটবেল্টে কিয় নীতিত যাত্ৰী এজনক ৰক্ষা কৰে?"
+    },
+    "options": [
+      {
+        "en": "Gravitation",
+        "as": "মাধ্যাকৰ্ষণ"
+      },
+      {
+        "en": "Buoyancy",
+        "as": "উত্থাপন"
+      },
+      {
+        "en": "Inertia",
+        "as": "জড়তা"
+      },
+      {
+        "en": "Friction only",
+        "as": "কেৱল ঘৰ্ষণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "On sudden braking the body tends to move forward; the belt opposes this inertia.",
+      "as": "হঠাতে ব্ৰেক লগালে শৰীৰ আগলৈ যাব খোজে; বেল্টে এই জড়তাৰ বিৰোধিতা কৰে।"
+    }
+  }
+]

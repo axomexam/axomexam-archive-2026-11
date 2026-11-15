@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-019",
+    "q": {
+      "en": "A quantity that requires both magnitude and direction is:",
+      "as": "যি ৰাশিৰ মান আৰু দিশ দুয়ো লাগে সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Distance",
+        "as": "দূৰত্ব"
+      },
+      {
+        "en": "Displacement",
+        "as": "সৰণ"
+      },
+      {
+        "en": "Mass",
+        "as": "ভৰ"
+      },
+      {
+        "en": "Time",
+        "as": "সময়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Displacement has both magnitude and direction, so it is a vector.",
+      "as": "সৰণৰ মান আৰু দিশ দুয়ো থাকে, গতিকে ই সদিশ ৰাশি।"
+    }
+  }
+]

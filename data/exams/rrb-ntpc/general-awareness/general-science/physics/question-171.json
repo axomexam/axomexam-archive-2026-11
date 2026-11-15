@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-171",
+    "q": {
+      "en": "The device that uses a magnetic needle to find direction is a:",
+      "as": "দিশ নিৰ্ণয় কৰিবলৈ চুম্বকীয় কাঁটা ব্যৱহাৰ কৰা সঁজুলিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Ammeter",
+        "as": "এমিটাৰ"
+      },
+      {
+        "en": "Seismograph",
+        "as": "ভূমিকম্পলেখী"
+      },
+      {
+        "en": "Odometer",
+        "as": "অ'ড'মিটাৰ"
+      },
+      {
+        "en": "Compass",
+        "as": "কম্পাছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A magnetic compass needle always points roughly north-south.",
+      "as": "চুম্বকীয় কম্পাছৰ কাঁটাই সদায় প্ৰায় উত্তৰ-দক্ষিণে দেখুৱায়।"
+    }
+  }
+]

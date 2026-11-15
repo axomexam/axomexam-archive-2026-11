@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-012",
+    "q": {
+      "en": "The rate of change of velocity of a body is called its:",
+      "as": "বস্তু এটাৰ বেগৰ পৰিৱৰ্তনৰ হাৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Acceleration",
+        "as": "ত্বৰণ"
+      },
+      {
+        "en": "Speed",
+        "as": "দ্ৰুতি"
+      },
+      {
+        "en": "Momentum",
+        "as": "ভৰবেগ"
+      },
+      {
+        "en": "Displacement",
+        "as": "সৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Acceleration is the change of velocity per unit time; its SI unit is m/s².",
+      "as": "ত্বৰণ হ'ল প্ৰতি একক সময়ত বেগৰ পৰিৱৰ্তন; ইয়াৰ SI একক m/s²।"
+    }
+  }
+]

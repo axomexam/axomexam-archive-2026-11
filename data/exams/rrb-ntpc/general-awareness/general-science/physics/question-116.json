@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-116",
+    "q": {
+      "en": "In the visible spectrum, the colour with the longest wavelength is:",
+      "as": "দৃশ্যমান বৰ্ণালীত আটাইতকৈ বেছি তৰংগদৈৰ্ঘ্যৰ ৰংটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Violet",
+        "as": "বেঙুনীয়া"
+      },
+      {
+        "en": "Green",
+        "as": "সেউজীয়া"
+      },
+      {
+        "en": "Blue",
+        "as": "নীলা"
+      },
+      {
+        "en": "Red",
+        "as": "ৰঙা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Red has the longest wavelength; violet the shortest, in visible light.",
+      "as": "দৃশ্যমান পোহৰত ৰঙাৰ তৰংগদৈৰ্ঘ্য আটাইতকৈ বেছি; বেঙুনীয়াৰ আটাইতকৈ কম।"
+    }
+  }
+]

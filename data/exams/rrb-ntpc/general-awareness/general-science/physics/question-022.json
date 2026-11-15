@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-022",
+    "q": {
+      "en": "The distance travelled by a body in a given time is shown by the area under its:",
+      "as": "বস্তু এটাই নিৰ্দিষ্ট সময়ত যোৱা দূৰত্ব তাৰ কি লেখৰ তলৰ কালিয়ে দেখুৱায়?"
+    },
+    "options": [
+      {
+        "en": "Displacement-time graph",
+        "as": "সৰণ-সময় লেখ"
+      },
+      {
+        "en": "Acceleration-time graph",
+        "as": "ত্বৰণ-সময় লেখ"
+      },
+      {
+        "en": "Speed-time graph",
+        "as": "দ্ৰুতি-সময় লেখ"
+      },
+      {
+        "en": "Force-time graph",
+        "as": "বল-সময় লেখ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The area under a speed-time graph equals the distance travelled.",
+      "as": "দ্ৰুতি-সময় লেখৰ তলৰ কালি যোৱা দূৰত্বৰ সমান।"
+    }
+  }
+]

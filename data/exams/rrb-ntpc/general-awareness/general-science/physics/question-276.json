@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-276",
+    "q": {
+      "en": "One parsec is approximately equal to:",
+      "as": "এক পাৰ্চেক প্ৰায় কিমানৰ সমান?"
+    },
+    "options": [
+      {
+        "en": "3.26 light years",
+        "as": "৩.২৬ পোহৰ বৰ্ষ"
+      },
+      {
+        "en": "1 light year",
+        "as": "১ পোহৰ বৰ্ষ"
+      },
+      {
+        "en": "10 light years",
+        "as": "১০ পোহৰ বৰ্ষ"
+      },
+      {
+        "en": "0.1 light year",
+        "as": "০.১ পোহৰ বৰ্ষ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "1 parsec ≈ 3.26 light years, a unit used for stellar distances.",
+      "as": "১ পাৰ্চেক ≈ ৩.২৬ পোহৰ বৰ্ষ, তৰাৰ দূৰত্বৰ বাবে ব্যৱহৃত একক।"
+    }
+  }
+]

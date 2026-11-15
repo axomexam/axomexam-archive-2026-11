@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-057",
+    "q": {
+      "en": "The mode of heat transfer that carries solar energy across space to the earth is:",
+      "as": "শূন্যতাৰ মাজেৰে সৌৰ শক্তি পৃথিৱীলৈ কঢ়িয়াই অনা তাপ স্থানান্তৰৰ পদ্ধতিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Conduction",
+        "as": "পৰিবহণ"
+      },
+      {
+        "en": "Convection",
+        "as": "পৰিচলন"
+      },
+      {
+        "en": "Diffusion",
+        "as": "বিস্তাৰ"
+      },
+      {
+        "en": "Radiation",
+        "as": "বিকিৰণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Radiation needs no medium; the sun's heat crosses the vacuum of space as electromagnetic waves.",
+      "as": "বিকিৰণৰ মাধ্যৰ প্ৰয়োজন নাই; সূৰ্যৰ তাপ শূন্যতাৰ মাজেৰে বিদ্যুৎ-চুম্বকীয় তৰংগৰূপে আহে।"
+    }
+  }
+]

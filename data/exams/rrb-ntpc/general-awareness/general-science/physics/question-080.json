@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-080",
+    "q": {
+      "en": "A wave in which the particles of the medium vibrate along the direction of the wave is called a:",
+      "as": "যি তৰংগত মাধ্যৰ কণাবোৰ তৰংগৰ দিশেৰে কম্পিত হয় তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Longitudinal wave",
+        "as": "অনুদৈৰ্ঘ্য তৰংগ"
+      },
+      {
+        "en": "Transverse wave",
+        "as": "অনুপ্ৰস্থ তৰংগ"
+      },
+      {
+        "en": "Stationary wave",
+        "as": "স্থিৰ তৰংগ"
+      },
+      {
+        "en": "Electromagnetic wave",
+        "as": "বিদ্যুৎ-চুম্বকীয় তৰংগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In a longitudinal wave, like sound, particle vibration is parallel to wave travel.",
+      "as": "অনুদৈৰ্ঘ্য তৰংগত, যেনে শব্দত, কণাৰ কম্পন তৰংগৰ গতিৰ সমান্তৰাল।"
+    }
+  }
+]

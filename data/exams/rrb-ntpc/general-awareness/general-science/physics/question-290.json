@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-290",
+    "q": {
+      "en": "A body executing simple harmonic motion has maximum velocity at its:",
+      "as": "সৰল স্পন্দন গতি কৰা বস্তু এটাৰ বেগ সৰ্বাধিক ক'ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Mean position",
+        "as": "গড় অৱস্থানত"
+      },
+      {
+        "en": "Extreme position",
+        "as": "প্ৰান্ত অৱস্থানত"
+      },
+      {
+        "en": "Midway point only",
+        "as": "কেৱল মাজ বিন্দুত"
+      },
+      {
+        "en": "Nowhere",
+        "as": "ক'তো নহয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Velocity is maximum at the mean position and zero at the extremes.",
+      "as": "গড় অৱস্থানত বেগ সৰ্বাধিক আৰু প্ৰান্তত শূন্য।"
+    }
+  }
+]

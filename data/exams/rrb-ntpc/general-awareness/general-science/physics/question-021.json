@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-021",
+    "q": {
+      "en": "A car moving at 20 m/s is brought to rest in 4 s. Its retardation is:",
+      "as": "২০ মি./ছে. বেগেৰে গৈ থকা এখন গাড়ী ৪ ছেকেণ্ডত ৰখাই দিয়া হয়। ইয়াৰ মন্দন কিমান?"
+    },
+    "options": [
+      {
+        "en": "80 m/s²",
+        "as": "৮০ মি./ছে.²"
+      },
+      {
+        "en": "4 m/s²",
+        "as": "৪ মি./ছে.²"
+      },
+      {
+        "en": "0.2 m/s²",
+        "as": "০.২ মি./ছে.²"
+      },
+      {
+        "en": "5 m/s²",
+        "as": "৫ মি./ছে.²"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Retardation = change in velocity / time = 20 / 4 = 5 m/s².",
+      "as": "মন্দন = বেগৰ পৰিৱৰ্তন / সময় = ২০ / ৪ = ৫ মি./ছে.²।"
+    }
+  }
+]

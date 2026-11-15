@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-170",
+    "q": {
+      "en": "The unit of magnetic field strength (flux density) is the:",
+      "as": "চুম্বক ক্ষেত্ৰৰ শক্তি (ফ্লাক্স ঘনত্ব) ৰ এককটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Weber",
+        "as": "ৱেবাৰ"
+      },
+      {
+        "en": "Henry",
+        "as": "হেনৰী"
+      },
+      {
+        "en": "Tesla",
+        "as": "টেছলা"
+      },
+      {
+        "en": "Farad",
+        "as": "ফাৰাড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Flux density B is measured in tesla (T); 1 T = 1 Wb/m².",
+      "as": "ফ্লাক্স ঘনত্ব B টেছলা (T) ত জোখা হয়; ১ T = ১ Wb/m²।"
+    }
+  }
+]

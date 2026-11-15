@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-173",
+    "q": {
+      "en": "Electromagnetic induction was discovered by:",
+      "as": "বিদ্যুৎ-চুম্বকীয় আৱেশ কেৱে আৱিষ্কাৰ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Hans Christian Oersted",
+        "as": "হান্স খ্ৰীষ্টিয়ান এৰ্ষ্টেড"
+      },
+      {
+        "en": "Michael Faraday",
+        "as": "মাইকেল ফেৰাডে"
+      },
+      {
+        "en": "Georg Ohm",
+        "as": "জৰ্জ ওম"
+      },
+      {
+        "en": "James Watt",
+        "as": "জেমছ ৱাট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Faraday showed in 1831 that a changing magnetic field induces an EMF in a coil.",
+      "as": "ফেৰাডেয়ে ১৮৩১ চনত দেখুৱাইছিল যে পৰিৱৰ্তনশীল চুম্বক ক্ষেত্ৰই কুণ্ডলীত EMF আৱিষ্ট কৰে।"
+    }
+  }
+]

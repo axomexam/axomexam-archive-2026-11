@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-070",
+    "q": {
+      "en": "The second law of thermodynamics introduces the concept of:",
+      "as": "তাপগতিৰ দ্বিতীয় সূত্ৰই কিয়ৰ ধাৰণা আগবঢ়ায়?"
+    },
+    "options": [
+      {
+        "en": "Enthalpy",
+        "as": "এন্থালপি"
+      },
+      {
+        "en": "Internal energy",
+        "as": "অন্তৰ্গত শক্তি"
+      },
+      {
+        "en": "Entropy",
+        "as": "এণ্ট্ৰপি"
+      },
+      {
+        "en": "Heat capacity",
+        "as": "তাপ ধাৰকত্ব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "It states that the entropy of an isolated system never decreases.",
+      "as": "ই কয় যে এটা পৰিবেষ্টিত তন্ত্ৰৰ এণ্ট্ৰপি কেতিয়াও কমি নাযায়।"
+    }
+  }
+]

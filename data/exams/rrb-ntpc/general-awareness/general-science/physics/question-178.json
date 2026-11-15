@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-178",
+    "q": {
+      "en": "The transmission of electric power over long distances is done at:",
+      "as": "দীৰ্ঘ দূৰত্বলৈ বিদ্যুৎ শক্তি প্ৰেৰণ কৰা হয় কিমানত?"
+    },
+    "options": [
+      {
+        "en": "Low voltage",
+        "as": "নিম্ন ভল্টেজত"
+      },
+      {
+        "en": "Zero voltage",
+        "as": "শূন্য ভল্টেজত"
+      },
+      {
+        "en": "Constant current",
+        "as": "স্থিৰ প্ৰৱাহত"
+      },
+      {
+        "en": "High voltage",
+        "as": "উচ্চ ভল্টেজত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "High voltage reduces current and hence I²R loss in the transmission lines.",
+      "as": "উচ্চ ভল্টেজে প্ৰৱাহ কমায় আৰু সেয়ে প্ৰেৰণ ৰেখাত I²R ক্ষতি কমে।"
+    }
+  }
+]

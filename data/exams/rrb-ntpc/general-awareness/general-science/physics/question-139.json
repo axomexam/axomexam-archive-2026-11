@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-139",
+    "q": {
+      "en": "Like charges and unlike charges:",
+      "as": "একে ধৰণৰ আধান আৰু বেলেগ ধৰণৰ আধান:"
+    },
+    "options": [
+      {
+        "en": "Attract and repel respectively",
+        "as": "যথাক্ৰমে আকৰ্ষণ আৰু বিকৰ্ষণ কৰে"
+      },
+      {
+        "en": "Repel and attract respectively",
+        "as": "যথাক্ৰমে বিকৰ্ষণ আৰু আকৰ্ষণ কৰে"
+      },
+      {
+        "en": "Both attract",
+        "as": "দুয়ো আকৰ্ষণ কৰে"
+      },
+      {
+        "en": "Both repel",
+        "as": "দুয়ো বিকৰ্ষণ কৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Like charges repel each other; unlike charges attract each other.",
+      "as": "একে ধৰণৰ আধানে পৰস্পৰক বিকৰ্ষণ কৰে; বেলেগ ধৰণৰ আধানে আকৰ্ষণ কৰে।"
+    }
+  }
+]

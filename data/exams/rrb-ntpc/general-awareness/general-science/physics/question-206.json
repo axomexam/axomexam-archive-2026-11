@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-206",
+    "q": {
+      "en": "The photoelectric effect provides evidence for the:",
+      "as": "আলোক-বিদ্যুৎ প্ৰভাৱে কিয়ৰ প্ৰমাণ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Particle nature of light",
+        "as": "পোহৰৰ কণিকা ধৰ্ম"
+      },
+      {
+        "en": "Wave nature of light",
+        "as": "পোহৰৰ তৰংগ ধৰ্ম"
+      },
+      {
+        "en": "Dual nature of matter",
+        "as": "পদাৰ্থৰ দ্বৈত ধৰ্ম"
+      },
+      {
+        "en": "Reflection of light",
+        "as": "পোহৰৰ প্ৰতিফলন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Light behaves as particles (photons) when it ejects electrons from a metal.",
+      "as": "পোহৰে ধাতুৰ পৰা ইলেক্ট্ৰন উলিয়াই দিওঁতে কণিকা (ফ'টন) হিচাপে ব্যৱহাৰ কৰে।"
+    }
+  }
+]

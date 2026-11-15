@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-073",
+    "q": {
+      "en": "The pressure exerted by a liquid at a depth depends on the:",
+      "as": "গভীৰতাত তৰল এটাই প্ৰয়োগ কৰা চাপ কিয়ৰ ওপৰত নিৰ্ভৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Shape of the vessel",
+        "as": "পাত্ৰৰ আকাৰ"
+      },
+      {
+        "en": "Volume of liquid",
+        "as": "তৰলৰ আয়তন"
+      },
+      {
+        "en": "Area of the base",
+        "as": "ভূমিৰ কালি"
+      },
+      {
+        "en": "Depth and density of the liquid",
+        "as": "গভীৰতা আৰু তৰলৰ ঘনত্ব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Liquid pressure = hρg, so it depends on depth, density and gravity.",
+      "as": "তৰলৰ চাপ = hρg, গতিকে গভীৰতা, ঘনত্ব আৰু মাধ্যাকৰ্ষণৰ ওপৰত নিৰ্ভৰ কৰে।"
+    }
+  }
+]

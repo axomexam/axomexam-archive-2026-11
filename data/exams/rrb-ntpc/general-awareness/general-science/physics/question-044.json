@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-044",
+    "q": {
+      "en": "The energy stored in a stretched spring is:",
+      "as": "টনা স্প্ৰিং এডালত সাঁচি ৰখা শক্তিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Kinetic energy",
+        "as": "গতিশক্তি"
+      },
+      {
+        "en": "Chemical energy",
+        "as": "ৰাসায়নিক শক্তি"
+      },
+      {
+        "en": "Elastic potential energy",
+        "as": "স্থিতিস্থাপক স্থিতিশক্তি"
+      },
+      {
+        "en": "Heat energy",
+        "as": "তাপ শক্তি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A stretched or compressed spring stores elastic potential energy.",
+      "as": "টনা বা চেপা স্প্ৰিং এডালে স্থিতিস্থাপক স্থিতিশক্তি সাঁচি ৰাখে।"
+    }
+  }
+]

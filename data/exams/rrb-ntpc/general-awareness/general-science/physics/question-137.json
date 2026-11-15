@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-137",
+    "q": {
+      "en": "A periscope works on the principle of:",
+      "as": "পেৰিস্কোপ কিয়ৰ নীতিত কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Refraction of light",
+        "as": "পোহৰৰ প্ৰতিসৰণ"
+      },
+      {
+        "en": "Reflection of light",
+        "as": "পোহৰৰ প্ৰতিফলন"
+      },
+      {
+        "en": "Dispersion of light",
+        "as": "পোহৰৰ বিচ্ছুৰণ"
+      },
+      {
+        "en": "Diffraction of light",
+        "as": "পোহৰৰ বিবৰ্তন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Two mirrors set at 45° reflect light, letting a viewer see over an obstacle.",
+      "as": "৪৫° ত ৰখা দুটা দাপোণে পোহৰ প্ৰতিফলিত কৰি বাধাৰ ওপৰত চাবলৈ দিয়ে।"
+    }
+  }
+]

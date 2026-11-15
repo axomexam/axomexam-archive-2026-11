@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-268",
+    "q": {
+      "en": "A pressure cooker cooks food faster because:",
+      "as": "প্ৰেছাৰ কুকাৰে খাদ্য সোনকালে ৰান্ধে কিয়নো:"
+    },
+    "options": [
+      {
+        "en": "It adds heat directly",
+        "as": "ই পোনপটীয়াকৈ তাপ যোগ কৰে"
+      },
+      {
+        "en": "It lowers the boiling point",
+        "as": "ই উতলাংক কমায়"
+      },
+      {
+        "en": "It removes water",
+        "as": "ই পানী আঁতৰায়"
+      },
+      {
+        "en": "Higher pressure raises the boiling point of water",
+        "as": "বেছি চাপে পানীৰ উতলাংক বঢ়ায়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Inside a sealed cooker the pressure and hence the boiling point rise, cooking food sooner.",
+      "as": "বন্ধ কুকাৰৰ ভিতৰত চাপ আৰু সেয়ে উতলাংক বাঢ়ে, যাৰ ফলত খাদ্য সোনকালে ৰান্ধে।"
+    }
+  }
+]

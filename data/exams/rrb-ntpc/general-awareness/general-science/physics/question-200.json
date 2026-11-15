@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-200",
+    "q": {
+      "en": "Which particles are packed together inside the nucleus of an atom?",
+      "as": "পৰমাণু এটাৰ নিউক্লিয়াছত কোন কণাবোৰ একেলগে থাকে?"
+    },
+    "options": [
+      {
+        "en": "Only protons",
+        "as": "কেৱল প্ৰ'টন"
+      },
+      {
+        "en": "Only electrons",
+        "as": "কেৱল ইলেক্ট্ৰন"
+      },
+      {
+        "en": "Electrons and protons",
+        "as": "ইলেক্ট্ৰন আৰু প্ৰ'টন"
+      },
+      {
+        "en": "Protons and neutrons",
+        "as": "প্ৰ'টন আৰু নিউট্ৰন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The nucleus holds protons and neutrons, together called nucleons.",
+      "as": "নিউক্লিয়াছত প্ৰ'টন আৰু নিউট্ৰন থাকে, যিবোৰক একেলগে নিউক্লিয়ন বোলা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-141",
+    "q": {
+      "en": "The electric current is the rate of flow of:",
+      "as": "বিদ্যুৎ প্ৰৱাহ হ'ল কিয়ৰ প্ৰবাহৰ হাৰ?"
+    },
+    "options": [
+      {
+        "en": "Electrons only in all cases",
+        "as": "সকলো ক্ষেত্ৰত কেৱল ইলেক্ট্ৰন"
+      },
+      {
+        "en": "Electric charge",
+        "as": "বিদ্যুৎ আধান"
+      },
+      {
+        "en": "Heat",
+        "as": "তাপ"
+      },
+      {
+        "en": "Voltage",
+        "as": "ভল্টেজ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Current I = Q/t, the charge flowing per unit time, measured in amperes.",
+      "as": "প্ৰৱাহ I = Q/t, অৰ্থাৎ প্ৰতি একক সময়ত প্ৰবাহিত আধান, এম্পিয়াৰত জোখা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-291",
+    "q": {
+      "en": "Wavelength is measured in the SI unit called the:",
+      "as": "তৰংগদৈৰ্ঘ্য জোখা হয় যি SI এককত সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Metre",
+        "as": "মিটাৰ"
+      },
+      {
+        "en": "Hertz",
+        "as": "হাৰ্টজ"
+      },
+      {
+        "en": "Second",
+        "as": "ছেকেণ্ড"
+      },
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Wavelength is a length, measured in metres.",
+      "as": "তৰংগদৈৰ্ঘ্য এটা দৈৰ্ঘ্য, মিটাৰত জোখা হয়।"
+    }
+  }
+]

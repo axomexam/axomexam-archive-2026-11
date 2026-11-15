@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-071",
+    "q": {
+      "en": "A device that converts heat energy into mechanical work is called a:",
+      "as": "তাপ শক্তিক যান্ত্ৰিক কাৰ্যলৈ ৰূপান্তৰ কৰা সঁজুলিটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Refrigerator",
+        "as": "ৰে'ফ্ৰিজাৰেটৰ"
+      },
+      {
+        "en": "Generator",
+        "as": "জেনেৰেটৰ"
+      },
+      {
+        "en": "Motor",
+        "as": "মটৰ"
+      },
+      {
+        "en": "Heat engine",
+        "as": "তাপ ইঞ্জিন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A heat engine takes heat from a source and converts part of it into work.",
+      "as": "তাপ ইঞ্জিনে উৎসৰ পৰা তাপ লৈ ইয়াৰ এটা অংশ কাৰ্যলৈ ৰূপান্তৰ কৰে।"
+    }
+  }
+]

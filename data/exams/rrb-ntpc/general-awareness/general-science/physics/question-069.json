@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-069",
+    "q": {
+      "en": "The first law of thermodynamics is a statement of the conservation of:",
+      "as": "তাপগতিৰ প্ৰথম সূত্ৰ কিয়ৰ সংৰক্ষণৰ বিবৃতি?"
+    },
+    "options": [
+      {
+        "en": "Mass",
+        "as": "ভৰ"
+      },
+      {
+        "en": "Momentum",
+        "as": "ভৰবেগ"
+      },
+      {
+        "en": "Energy",
+        "as": "শক্তি"
+      },
+      {
+        "en": "Charge",
+        "as": "আধান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "It states that the heat supplied equals the change in internal energy plus work done.",
+      "as": "ই কয় যে যোগান ধৰা তাপ অন্তৰ্গত শক্তিৰ পৰিৱৰ্তন আৰু কৰা কাৰ্যৰ যোগফলৰ সমান।"
+    }
+  }
+]

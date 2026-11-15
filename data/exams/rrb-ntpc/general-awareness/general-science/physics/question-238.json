@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-238",
+    "q": {
+      "en": "The instrument used by doctors to listen to the heartbeat is a:",
+      "as": "ডাক্তৰে হৃদস্পন্দন শুনিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sphygmomanometer",
+        "as": "স্ফিগ্‌ম'মেন'মিটাৰ"
+      },
+      {
+        "en": "Endoscope",
+        "as": "এণ্ড'স্কোপ"
+      },
+      {
+        "en": "Stethoscope",
+        "as": "ষ্টেথ'স্কোপ"
+      },
+      {
+        "en": "Otoscope",
+        "as": "অ'ট'স্কোপ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A stethoscope carries body sounds, such as the heartbeat, to the doctor's ears.",
+      "as": "ষ্টেথ'স্কোপে হৃদস্পন্দনৰ দৰে শৰীৰৰ শব্দ ডাক্তৰৰ কাণলৈ লৈ যায়।"
+    }
+  }
+]

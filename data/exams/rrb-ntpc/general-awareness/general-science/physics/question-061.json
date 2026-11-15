@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-061",
+    "q": {
+      "en": "The temperature at which pure ice melts is:",
+      "as": "শুদ্ধ বৰফ কিমান উষ্ণতাত গলি যায়?"
+    },
+    "options": [
+      {
+        "en": "100 °C",
+        "as": "১০০ °C"
+      },
+      {
+        "en": "4 °C",
+        "as": "৪ °C"
+      },
+      {
+        "en": "−10 °C",
+        "as": "−১০ °C"
+      },
+      {
+        "en": "0 °C",
+        "as": "০ °C"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ice melts at 0 °C at standard atmospheric pressure.",
+      "as": "প্ৰামাণিক বায়ুমণ্ডলীয় চাপত বৰফ ০ °C ত গলে।"
+    }
+  }
+]

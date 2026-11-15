@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-028",
+    "q": {
+      "en": "Which of these statements is Newton's third law of motion?",
+      "as": "এইবোৰৰ কোনটো বিবৃতি নিউটনৰ গতিৰ তৃতীয় সূত্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Force equals mass times acceleration",
+        "as": "বল ভৰ আৰু ত্বৰণৰ গুণফলৰ সমান"
+      },
+      {
+        "en": "Every action has an equal and opposite reaction",
+        "as": "প্ৰতিটো ক্ৰিয়াৰ সমান আৰু বিপৰীত প্ৰতিক্ৰিয়া থাকে"
+      },
+      {
+        "en": "A body remains at rest forever",
+        "as": "বস্তু চিৰকাল স্থিৰ থাকে"
+      },
+      {
+        "en": "Momentum is always zero",
+        "as": "ভৰবেগ সদায় শূন্য"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "For every action there is an equal and opposite reaction acting on a different body.",
+      "as": "প্ৰতিটো ক্ৰিয়াৰ বাবে অন্য এটা বস্তুত সমান আৰু বিপৰীত প্ৰতিক্ৰিয়া থাকে।"
+    }
+  }
+]

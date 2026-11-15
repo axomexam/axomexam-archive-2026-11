@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-275",
+    "q": {
+      "en": "One astronomical unit (AU) is the average distance between the:",
+      "as": "এক জ্যোতিৰ্বিজ্ঞান একক (AU) হ'ল কিয়ৰ মাজৰ গড় দূৰত্ব?"
+    },
+    "options": [
+      {
+        "en": "Earth and the moon",
+        "as": "পৃথিৱী আৰু চন্দ্ৰ"
+      },
+      {
+        "en": "Sun and the nearest star",
+        "as": "সূৰ্য আৰু নিকটতম তৰা"
+      },
+      {
+        "en": "Two planets",
+        "as": "দুটা গ্ৰহ"
+      },
+      {
+        "en": "Earth and the sun",
+        "as": "পৃথিৱী আৰু সূৰ্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "1 AU ≈ 1.5 × 10¹¹ m, the mean earth-sun distance.",
+      "as": "১ AU ≈ ১.৫ × ১০¹১ মি., পৃথিৱী-সূৰ্যৰ গড় দূৰত্ব।"
+    }
+  }
+]

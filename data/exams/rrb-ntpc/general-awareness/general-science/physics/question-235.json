@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-235",
+    "q": {
+      "en": "The device that measures the distance travelled by a vehicle is an:",
+      "as": "বাহন এখনে যোৱা দূৰত্ব জোখা যন্ত্ৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Odometer",
+        "as": "অ'ড'মিটাৰ"
+      },
+      {
+        "en": "Speedometer",
+        "as": "স্পিড'মিটাৰ"
+      },
+      {
+        "en": "Barometer",
+        "as": "বেৰ'মিটাৰ"
+      },
+      {
+        "en": "Altimeter",
+        "as": "এলটিমিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An odometer records the total distance covered by a vehicle.",
+      "as": "অ'ড'মিটাৰে বাহনে কৰা মুঠ দূৰত্ব ৰেকৰ্ড কৰে।"
+    }
+  }
+]

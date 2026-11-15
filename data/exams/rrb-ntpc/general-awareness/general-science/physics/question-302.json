@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-302",
+    "q": {
+      "en": "The time taken by light to travel from the sun to the earth is about:",
+      "as": "সূৰ্যৰ পৰা পৃথিৱীলৈ পোহৰ যাবলৈ লগা সময় প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "1 second",
+        "as": "১ ছেকেণ্ড"
+      },
+      {
+        "en": "1 hour",
+        "as": "১ ঘণ্টা"
+      },
+      {
+        "en": "8 minutes 20 seconds",
+        "as": "৮ মিনিট ২০ ছেকেণ্ড"
+      },
+      {
+        "en": "1 day",
+        "as": "১ দিন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sunlight takes about 500 seconds, i.e. 8 minutes 20 seconds, to reach the earth.",
+      "as": "সূৰ্যৰ পোহৰে প্ৰায় ৫০০ ছেকেণ্ড, অৰ্থাৎ ৮ মিনিট ২০ ছেকেণ্ড, লয় পৃথিৱীলৈ আহিবলৈ।"
+    }
+  }
+]

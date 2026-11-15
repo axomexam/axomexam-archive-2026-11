@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-183",
+    "q": {
+      "en": "The value of AC voltage that gives the same heating as an equal DC voltage is the:",
+      "as": "যি AC ভল্টেজে সমান DC ভল্টেজৰ দৰে একে তাপ দিয়ে সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Peak value",
+        "as": "শিখৰ মান"
+      },
+      {
+        "en": "Average value",
+        "as": "গড় মান"
+      },
+      {
+        "en": "RMS value",
+        "as": "RMS মান"
+      },
+      {
+        "en": "Instantaneous value",
+        "as": "তাৎক্ষণিক মান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The RMS (root-mean-square) value is the effective value of an alternating quantity.",
+      "as": "RMS (বৰ্গমূল গড় বৰ্গ) মান হ'ল পৰিবৰ্তী ৰাশিৰ কাৰ্যকৰী মান।"
+    }
+  }
+]

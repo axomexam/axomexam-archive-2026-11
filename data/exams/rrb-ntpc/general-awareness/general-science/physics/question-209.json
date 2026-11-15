@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-209",
+    "q": {
+      "en": "The value of Planck's constant is about:",
+      "as": "প্লাংক ধ্ৰুৱকৰ মান প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "6.63 × 10⁻³⁴ J·s",
+        "as": "৬.৬৩ × ১০⁻³⁴ J·s"
+      },
+      {
+        "en": "6.63 × 10⁻²⁴ J·s",
+        "as": "৬.৬৩ × ১০⁻²⁴ J·s"
+      },
+      {
+        "en": "3 × 10⁸ J·s",
+        "as": "৩ × ১০⁸ J·s"
+      },
+      {
+        "en": "9.8 J·s",
+        "as": "৯.৮ J·s"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Planck's constant h = 6.63 × 10⁻³⁴ J·s, a fundamental constant of quantum physics.",
+      "as": "প্লাংক ধ্ৰুৱক h = ৬.৬৩ × ১০⁻³⁴ J·s, কোৱাণ্টাম পদাৰ্থবিজ্ঞানৰ এটা মৌলিক ধ্ৰুৱক।"
+    }
+  }
+]

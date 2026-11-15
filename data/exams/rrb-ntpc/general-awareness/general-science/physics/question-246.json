@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-246",
+    "q": {
+      "en": "The rate of doing work is called:",
+      "as": "কাৰ্য কৰাৰ হাৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Energy",
+        "as": "শক্তি"
+      },
+      {
+        "en": "Force",
+        "as": "বল"
+      },
+      {
+        "en": "Power",
+        "as": "ক্ষমতা"
+      },
+      {
+        "en": "Momentum",
+        "as": "ভৰবেগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Power = work / time, measured in watts.",
+      "as": "ক্ষমতা = কাৰ্য / সময়, ৱাটত জোখা হয়।"
+    }
+  }
+]

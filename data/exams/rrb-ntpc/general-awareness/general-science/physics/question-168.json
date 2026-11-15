@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-168",
+    "q": {
+      "en": "Magnetic field lines outside a bar magnet run:",
+      "as": "দণ্ড চুম্বক এটাৰ বাহিৰত চুম্বক ক্ষেত্ৰ ৰেখাবোৰ যায়:"
+    },
+    "options": [
+      {
+        "en": "From south to north pole",
+        "as": "দক্ষিণ মেৰুৰ পৰা উত্তৰ মেৰুলৈ"
+      },
+      {
+        "en": "From north to south pole",
+        "as": "উত্তৰ মেৰুৰ পৰা দক্ষিণ মেৰুলৈ"
+      },
+      {
+        "en": "From east to west",
+        "as": "পূবৰ পৰা পশ্চিমলৈ"
+      },
+      {
+        "en": "In circles around the magnet",
+        "as": "চুম্বকৰ চাৰিওফালে বৃত্তত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Outside the magnet, field lines go from the north pole to the south pole.",
+      "as": "চুম্বকৰ বাহিৰত ক্ষেত্ৰ ৰেখা উত্তৰ মেৰুৰ পৰা দক্ষিণ মেৰুলৈ যায়।"
+    }
+  }
+]

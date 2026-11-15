@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-232",
+    "q": {
+      "en": "In a nuclear power plant, the energy released in fission is finally used to drive a:",
+      "as": "পাৰমাণৱিক শক্তি কেন্দ্ৰত ফিছনত মুক্ত শক্তি শেষত কিয় চলাবলৈ ব্যৱহৃত হয়?"
+    },
+    "options": [
+      {
+        "en": "Solar panel",
+        "as": "ছ'লাৰ পেনেল"
+      },
+      {
+        "en": "Battery",
+        "as": "বেটেৰী"
+      },
+      {
+        "en": "Generator coil directly",
+        "as": "পোনপটীয়াকৈ জেনেৰেটৰ কুণ্ডলী"
+      },
+      {
+        "en": "Steam turbine",
+        "as": "ভাপ টাৰ্বাইন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Fission heat makes steam, which spins a turbine coupled to a generator.",
+      "as": "ফিছনৰ তাপে ভাপ বনায়, যি জেনেৰেটৰৰ সৈতে সংযুক্ত টাৰ্বাইন ঘূৰায়।"
+    }
+  }
+]

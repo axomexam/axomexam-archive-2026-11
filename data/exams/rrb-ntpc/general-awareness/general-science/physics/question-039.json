@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-039",
+    "q": {
+      "en": "One joule of work is done when a force of one newton moves a body through:",
+      "as": "এক নিউটন বলে বস্তু এটাক কিমান দূৰত্বত লৈ গ'লে এক জুল কাৰ্য হয়?"
+    },
+    "options": [
+      {
+        "en": "One centimetre",
+        "as": "এক ছেণ্টিমিটাৰ"
+      },
+      {
+        "en": "One metre",
+        "as": "এক মিটাৰ"
+      },
+      {
+        "en": "One kilometre",
+        "as": "এক কিলোমিটাৰ"
+      },
+      {
+        "en": "One millimetre",
+        "as": "এক মিলিমিটাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "1 joule = 1 newton × 1 metre, with the force along the displacement.",
+      "as": "১ জুল = ১ নিউটন × ১ মিটাৰ, বল সৰণৰ দিশেৰে থাকিলে।"
+    }
+  }
+]

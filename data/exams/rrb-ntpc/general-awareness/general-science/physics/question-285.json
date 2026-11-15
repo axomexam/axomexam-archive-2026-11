@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-285",
+    "q": {
+      "en": "The mass of one litre of water is about:",
+      "as": "এক লিটাৰ পানীৰ ভৰ প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "1 kg",
+        "as": "১ কি.গ্ৰা."
+      },
+      {
+        "en": "10 kg",
+        "as": "১০ কি.গ্ৰা."
+      },
+      {
+        "en": "100 g",
+        "as": "১০০ গ্ৰা."
+      },
+      {
+        "en": "0.1 kg",
+        "as": "০.১ কি.গ্ৰা."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Since the density of water is 1 g/cm³, one litre (1000 cm³) has a mass of about 1 kg.",
+      "as": "পানীৰ ঘনত্ব ১ গ্ৰা./ছে.মি.³ হোৱাৰ বাবে এক লিটাৰ (১০০০ ছে.মি.³) ৰ ভৰ প্ৰায় ১ কি.গ্ৰা.।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-058",
+    "q": {
+      "en": "A material that allows heat to pass through it easily is called a:",
+      "as": "যি পদাৰ্থৰ মাজেৰে তাপ সহজে যাব পাৰে তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Insulator",
+        "as": "অপৰিবাহী"
+      },
+      {
+        "en": "Radiator",
+        "as": "ৰেডিয়েটৰ"
+      },
+      {
+        "en": "Conductor",
+        "as": "পৰিবাহী"
+      },
+      {
+        "en": "Reflector",
+        "as": "প্ৰতিফলক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Metals are good conductors of heat; materials like wood and air are insulators.",
+      "as": "ধাতু তাপৰ ভাল পৰিবাহী; কাঠ আৰু বায়ুৰ দৰে পদাৰ্থ অপৰিবাহী।"
+    }
+  }
+]

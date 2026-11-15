@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-254",
+    "q": {
+      "en": "The upward force that helps an aircraft fly is called:",
+      "as": "বিমান এখন উৰিবলৈ সহায় কৰা ওপৰমুখী বলটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Drag",
+        "as": "ড্ৰেগ"
+      },
+      {
+        "en": "Weight",
+        "as": "ওজন"
+      },
+      {
+        "en": "Tension",
+        "as": "টান"
+      },
+      {
+        "en": "Lift",
+        "as": "লিফ্ট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Lift, produced mainly by the wings, opposes the weight of the aircraft.",
+      "as": "লিফ্ট, মূলতঃ ডেউকাই সৃষ্টি কৰা, বিমানৰ ওজনৰ বিপৰীতে ক্ৰিয়া কৰে।"
+    }
+  }
+]

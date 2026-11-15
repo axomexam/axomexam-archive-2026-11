@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-260",
+    "q": {
+      "en": "Aeroplanes are streamlined to reduce:",
+      "as": "বিমানবোৰ মসৃণ কৰা হয় কিয় কমাবলৈ?"
+    },
+    "options": [
+      {
+        "en": "Weight",
+        "as": "ওজন"
+      },
+      {
+        "en": "Thrust",
+        "as": "থ্ৰাষ্ট"
+      },
+      {
+        "en": "Fluid friction (drag)",
+        "as": "তৰল ঘৰ্ষণ (ড্ৰেগ)"
+      },
+      {
+        "en": "Lift",
+        "as": "লিফ্ট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A streamlined shape reduces drag from the air, allowing higher speeds.",
+      "as": "মসৃণ আকাৰে বায়ুৰ ড্ৰেগ কমায়, যাৰ ফলত বেছি গতি পোৱা যায়।"
+    }
+  }
+]

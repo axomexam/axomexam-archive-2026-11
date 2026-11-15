@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-059",
+    "q": {
+      "en": "Which of these materials conducts heat most readily?",
+      "as": "এইবোৰৰ কোন পদাৰ্থই তাপ আটাইতকৈ সহজে পৰিবহন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Wood",
+        "as": "কাঠ"
+      },
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Rubber",
+        "as": "ৰবৰ"
+      },
+      {
+        "en": "Plastic",
+        "as": "প্লাষ্টিক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Copper, being a metal with free electrons, conducts heat well.",
+      "as": "তাম এটা ধাতু, মুক্ত ইলেক্ট্ৰন থকাৰ বাবে তাপ ভালদৰে পৰিবহন কৰে।"
+    }
+  }
+]

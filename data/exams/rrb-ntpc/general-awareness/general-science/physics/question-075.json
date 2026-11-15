@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-075",
+    "q": {
+      "en": "Archimedes' principle states that the buoyant force equals the weight of the:",
+      "as": "আৰ্কিমিডিছৰ সূত্ৰই কয় যে উত্থাপন বল কিয়ৰ ওজনৰ সমান?"
+    },
+    "options": [
+      {
+        "en": "Fluid displaced by the body",
+        "as": "বস্তুৱে অপসাৰণ কৰা তৰলৰ"
+      },
+      {
+        "en": "Body immersed",
+        "as": "ডুবাই ৰখা বস্তুৰ"
+      },
+      {
+        "en": "Fluid in the vessel",
+        "as": "পাত্ৰৰ তৰলৰ"
+      },
+      {
+        "en": "Air above the fluid",
+        "as": "তৰলৰ ওপৰৰ বায়ুৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The upthrust equals the weight of the fluid displaced by the immersed body.",
+      "as": "উত্থাপন বল ডুবাই ৰখা বস্তুৱে অপসাৰণ কৰা তৰলৰ ওজনৰ সমান।"
+    }
+  }
+]

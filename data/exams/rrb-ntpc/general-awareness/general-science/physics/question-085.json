@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-085",
+    "q": {
+      "en": "The speed of sound in air at room temperature is about:",
+      "as": "কোঠৰ উষ্ণতাত বায়ুত শব্দৰ দ্ৰুতি প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "3 × 10⁸ m/s",
+        "as": "৩ × ১০⁸ মি./ছে."
+      },
+      {
+        "en": "1000 m/s",
+        "as": "১০০০ মি./ছে."
+      },
+      {
+        "en": "30 m/s",
+        "as": "৩০ মি./ছে."
+      },
+      {
+        "en": "343 m/s",
+        "as": "৩৪৩ মি./ছে."
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sound travels at about 343 m/s in air at 20 °C, much slower than light.",
+      "as": "২০ °C ত বায়ুত শব্দ প্ৰায় ৩৪৩ মি./ছে. গতিত যায়, পোহৰতকৈ বহু লেহেম।"
+    }
+  }
+]

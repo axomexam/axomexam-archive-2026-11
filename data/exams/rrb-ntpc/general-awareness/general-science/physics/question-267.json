@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-267",
+    "q": {
+      "en": "We wear white clothes in summer because white:",
+      "as": "গ্ৰীষ্মত আমি বগা কাপোৰ পিন্ধো কিয়নো বগাই:"
+    },
+    "options": [
+      {
+        "en": "Absorbs most light",
+        "as": "অধিকাংশ পোহৰ শোষণ কৰে"
+      },
+      {
+        "en": "Conducts heat",
+        "as": "তাপ পৰিবহন কৰে"
+      },
+      {
+        "en": "Reflects most of the incident light",
+        "as": "অধিকাংশ পতিত পোহৰ প্ৰতিফলিত কৰে"
+      },
+      {
+        "en": "Radiates heat",
+        "as": "তাপ বিকিৰণ কৰে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "White surfaces reflect sunlight, so white clothes keep the body cooler.",
+      "as": "বগা পৃষ্ঠই সূৰ্যৰ পোহৰ প্ৰতিফলিত কৰে, গতিকে বগা কাপোৰে শৰীৰ ঠাণ্ডা ৰাখে।"
+    }
+  }
+]

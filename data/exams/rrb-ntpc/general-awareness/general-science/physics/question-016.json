@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-016",
+    "q": {
+      "en": "The acceleration due to gravity near the earth's surface is about:",
+      "as": "পৃথিৱীৰ পৃষ্ঠৰ ওচৰত মাধ্যাকৰ্ষণ ত্বৰণ প্ৰায়:"
+    },
+    "options": [
+      {
+        "en": "9.8 m/s²",
+        "as": "৯.৮ মি./ছে.²"
+      },
+      {
+        "en": "6.7 m/s²",
+        "as": "৬.৭ মি./ছে.²"
+      },
+      {
+        "en": "3.8 m/s²",
+        "as": "৩.৮ মি./ছে.²"
+      },
+      {
+        "en": "1.6 m/s²",
+        "as": "১.৬ মি./ছে.²"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "On earth g is about 9.8 m/s²; on the moon it is about 1.6 m/s².",
+      "as": "পৃথিৱীত g প্ৰায় ৯.৮ মি./ছে.²; চন্দ্ৰত ই প্ৰায় ১.৬ মি./ছে.²।"
+    }
+  }
+]

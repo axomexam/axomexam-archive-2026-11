@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-062",
+    "q": {
+      "en": "The heat required to raise the temperature of 1 kg of a substance by 1 K is its:",
+      "as": "কোনো পদাৰ্থৰ ১ কি.গ্ৰা.ৰ উষ্ণতা ১ K বঢ়াবলৈ প্ৰয়োজনীয় তাপক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Latent heat",
+        "as": "লীন তাপ"
+      },
+      {
+        "en": "Thermal conductivity",
+        "as": "তাপ পৰিবাহিতা"
+      },
+      {
+        "en": "Specific heat capacity",
+        "as": "বিশিষ্ট তাপ ধাৰকত্ব"
+      },
+      {
+        "en": "Entropy",
+        "as": "এণ্ট্ৰপি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Specific heat capacity is the heat per unit mass per unit rise in temperature.",
+      "as": "বিশিষ্ট তাপ ধাৰকত্ব হ'ল প্ৰতি একক ভৰৰ প্ৰতি একক উষ্ণতা বৃদ্ধিত প্ৰয়োজনীয় তাপ।"
+    }
+  }
+]

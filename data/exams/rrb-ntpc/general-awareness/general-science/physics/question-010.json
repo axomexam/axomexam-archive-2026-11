@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-010",
+    "q": {
+      "en": "The number of vibrations per second is measured in:",
+      "as": "প্ৰতি ছেকেণ্ডত কম্পনৰ সংখ্যা জোখা হয় কিয়ত?"
+    },
+    "options": [
+      {
+        "en": "Second",
+        "as": "ছেকেণ্ড"
+      },
+      {
+        "en": "Hertz",
+        "as": "হাৰ্টজ"
+      },
+      {
+        "en": "Metre",
+        "as": "মিটাৰ"
+      },
+      {
+        "en": "Decibel",
+        "as": "ডেচিবেল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Frequency is measured in hertz (Hz); one hertz equals one cycle per second.",
+      "as": "কম্পনাংক হাৰ্টজ (Hz) ত জোখা হয়; এক হাৰ্টজ মানে প্ৰতি ছেকেণ্ডত এক চক্ৰ।"
+    }
+  }
+]

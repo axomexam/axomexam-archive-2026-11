@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-053",
+    "q": {
+      "en": "The instrument used to measure temperature is a:",
+      "as": "উষ্ণতা জোখা যন্ত্ৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Thermometer",
+        "as": "থাৰ্ম'মিটাৰ"
+      },
+      {
+        "en": "Barometer",
+        "as": "বেৰ'মিটাৰ"
+      },
+      {
+        "en": "Hygrometer",
+        "as": "হাইগ্ৰ'মিটাৰ"
+      },
+      {
+        "en": "Manometer",
+        "as": "মেন'মিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A thermometer measures temperature using the expansion of a liquid or another property.",
+      "as": "থাৰ্ম'মিটাৰে তৰলৰ প্ৰসাৰণ বা অন্য ধৰ্ম ব্যৱহাৰ কৰি উষ্ণতা জোখে।"
+    }
+  }
+]

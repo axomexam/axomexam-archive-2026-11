@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-154",
+    "q": {
+      "en": "The heating effect of electric current is used in:",
+      "as": "বিদ্যুৎ প্ৰৱাহৰ তাপীয় ফল কিয়ত ব্যৱহৃত হয়?"
+    },
+    "options": [
+      {
+        "en": "Electric motor",
+        "as": "বিদ্যুৎ মটৰ"
+      },
+      {
+        "en": "Electric iron",
+        "as": "বিদ্যুৎ ইস্ত্ৰি"
+      },
+      {
+        "en": "Generator",
+        "as": "জেনেৰেটৰ"
+      },
+      {
+        "en": "Transformer",
+        "as": "ট্ৰান্সফৰ্মাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Heating appliances such as irons, heaters and toasters use the heating effect.",
+      "as": "ইস্ত্ৰি, হিটাৰ আৰু ট'ষ্টাৰৰ দৰে সঁজুলিয়ে তাপীয় ফল ব্যৱহাৰ কৰে।"
+    }
+  }
+]

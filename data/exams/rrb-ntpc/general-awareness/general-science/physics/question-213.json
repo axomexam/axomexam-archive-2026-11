@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-213",
+    "q": {
+      "en": "Control rods in a nuclear reactor are made of:",
+      "as": "পাৰমাণৱিক ৰিয়েক্টৰত নিয়ন্ত্ৰণ দণ্ড কিয়ৰ পৰা বনোৱা হয়?"
+    },
+    "options": [
+      {
+        "en": "Uranium",
+        "as": "ইউৰেনিয়াম"
+      },
+      {
+        "en": "Graphite",
+        "as": "গ্ৰেফাইট"
+      },
+      {
+        "en": "Boron or cadmium",
+        "as": "ব'ৰন বা কেডমিয়াম"
+      },
+      {
+        "en": "Heavy water",
+        "as": "গধুৰ পানী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Boron and cadmium absorb neutrons and so control the rate of fission.",
+      "as": "ব'ৰন আৰু কেডমিয়ামে নিউট্ৰন শোষণ কৰি ফিছনৰ হাৰ নিয়ন্ত্ৰণ কৰে।"
+    }
+  }
+]

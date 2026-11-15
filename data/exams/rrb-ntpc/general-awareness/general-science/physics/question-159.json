@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-159",
+    "q": {
+      "en": "The device that converts mechanical energy into electrical energy is a:",
+      "as": "যান্ত্ৰিক শক্তিক বিদ্যুৎ শক্তিলৈ ৰূপান্তৰ কৰা সঁজুলিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Electric generator",
+        "as": "বিদ্যুৎ জেনেৰেটৰ"
+      },
+      {
+        "en": "Electric motor",
+        "as": "বিদ্যুৎ মটৰ"
+      },
+      {
+        "en": "Transformer",
+        "as": "ট্ৰান্সফৰ্মাৰ"
+      },
+      {
+        "en": "Battery",
+        "as": "বেটেৰী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A generator uses electromagnetic induction to produce current when a coil rotates.",
+      "as": "জেনেৰেটৰে কুণ্ডলী ঘূৰালে বিদ্যুৎ-চুম্বকীয় আৱেশ ব্যৱহাৰ কৰি প্ৰৱাহ উৎপন্ন কৰে।"
+    }
+  }
+]

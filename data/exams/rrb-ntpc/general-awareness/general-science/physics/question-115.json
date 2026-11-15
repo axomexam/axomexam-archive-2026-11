@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-115",
+    "q": {
+      "en": "The splitting of white light by a prism produces a band of colours called a:",
+      "as": "প্ৰিজমে বগা পোহৰ বিভাজন কৰিলে যি ৰঙৰ পটি পোৱা যায় তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Spectrum",
+        "as": "বৰ্ণালী"
+      },
+      {
+        "en": "Rainbow",
+        "as": "ৰামধেনু"
+      },
+      {
+        "en": "Mirage",
+        "as": "মৰীচিকা"
+      },
+      {
+        "en": "Halo",
+        "as": "হেল'"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The spectrum has seven colours: violet, indigo, blue, green, yellow, orange and red.",
+      "as": "বৰ্ণালীত সাত ৰং থাকে: বেঙুনীয়া, নীলা, নীল, সেউজীয়া, হালধীয়া, কমলা আৰু ৰঙা।"
+    }
+  }
+]

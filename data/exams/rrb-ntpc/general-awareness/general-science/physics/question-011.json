@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-011",
+    "q": {
+      "en": "The rate of change of displacement of a body is called its:",
+      "as": "বস্তু এটাৰ সৰণৰ পৰিৱৰ্তনৰ হাৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Speed",
+        "as": "দ্ৰুতি"
+      },
+      {
+        "en": "Acceleration",
+        "as": "ত্বৰণ"
+      },
+      {
+        "en": "Momentum",
+        "as": "ভৰবেগ"
+      },
+      {
+        "en": "Velocity",
+        "as": "বেগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Velocity is the rate of change of displacement and is a vector quantity.",
+      "as": "বেগ হ'ল সৰণৰ পৰিৱৰ্তনৰ হাৰ আৰু ই এটা সদিশ ৰাশি।"
+    }
+  }
+]

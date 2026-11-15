@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-054",
+    "q": {
+      "en": "The normal temperature of the human body is about:",
+      "as": "মানৱ শৰীৰৰ স্বাভাৱিক উষ্ণতা প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "27 °C",
+        "as": "২৭ °C"
+      },
+      {
+        "en": "47 °C",
+        "as": "৪৭ °C"
+      },
+      {
+        "en": "32 °C",
+        "as": "৩২ °C"
+      },
+      {
+        "en": "37 °C",
+        "as": "৩৭ °C"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Normal body temperature is about 37 °C (98.6 °F).",
+      "as": "শৰীৰৰ স্বাভাৱিক উষ্ণতা প্ৰায় ৩৭ °C (৯৮.৬ °F)।"
+    }
+  }
+]

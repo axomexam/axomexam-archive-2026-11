@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-149",
+    "q": {
+      "en": "Two 6 Ω resistors are connected in parallel. The equivalent resistance is:",
+      "as": "দুটা ৬ Ω ৰোধ সমান্তৰালভাৱে সংযুক্ত। সমতুল্য ৰোধ কিমান?"
+    },
+    "options": [
+      {
+        "en": "12 Ω",
+        "as": "১২ Ω"
+      },
+      {
+        "en": "3 Ω",
+        "as": "৩ Ω"
+      },
+      {
+        "en": "6 Ω",
+        "as": "৬ Ω"
+      },
+      {
+        "en": "1.5 Ω",
+        "as": "১.৫ Ω"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "For two equal resistors in parallel, R = R₁/2 = 6/2 = 3 Ω.",
+      "as": "সমান্তৰালত দুটা সমান ৰোধৰ বাবে, R = R₁/২ = ৬/২ = ৩ Ω।"
+    }
+  }
+]

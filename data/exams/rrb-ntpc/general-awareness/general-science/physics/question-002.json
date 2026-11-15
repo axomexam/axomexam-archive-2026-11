@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-002",
+    "q": {
+      "en": "The SI unit of mass is:",
+      "as": "ভৰৰ SI একক হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Gram",
+        "as": "গ্ৰাম"
+      },
+      {
+        "en": "Kilogram",
+        "as": "কিলোগ্ৰাম"
+      },
+      {
+        "en": "Pound",
+        "as": "পাউণ্ড"
+      },
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mass is measured in kilograms (kg), one of the seven SI base units.",
+      "as": "ভৰ কিলোগ্ৰাম (kg) ত জোখা হয়, যি সাতটা SI মূল এককৰ এটা।"
+    }
+  }
+]

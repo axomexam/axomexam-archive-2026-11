@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-088",
+    "q": {
+      "en": "Sound waves with frequency below 20 Hz are called:",
+      "as": "২০ Hz ৰ তলৰ কম্পনাংকৰ শব্দ তৰংগক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Infrasonic",
+        "as": "অৱশ্ৰৱণ"
+      },
+      {
+        "en": "Ultrasonic",
+        "as": "অতিশ্ৰৱণ"
+      },
+      {
+        "en": "Audible",
+        "as": "শ্ৰৱণযোগ্য"
+      },
+      {
+        "en": "Harmonic",
+        "as": "সুৰশ্ৰুতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Infrasonic waves are below the audible range and may be produced by earthquakes.",
+      "as": "অৱশ্ৰৱণ তৰংগ শ্ৰৱণ পৰিসৰৰ তলত আৰু ভূমিকম্পই ইয়াক সৃষ্টি কৰিব পাৰে।"
+    }
+  }
+]

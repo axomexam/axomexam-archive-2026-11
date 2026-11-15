@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-188",
+    "q": {
+      "en": "Which of these materials behaves as a semiconductor?",
+      "as": "এইবোৰৰ কোন পদাৰ্থই অৰ্ধপৰিবাহী হিচাপে ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Silicon",
+        "as": "ছিলিকন"
+      },
+      {
+        "en": "Rubber",
+        "as": "ৰবৰ"
+      },
+      {
+        "en": "Mica",
+        "as": "অভ্ৰক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Silicon and germanium are common semiconductors used in electronic devices.",
+      "as": "ছিলিকন আৰু জাৰ্মেনিয়াম ইলেক্ট্ৰনিক সঁজুলিত ব্যৱহৃত সাধাৰণ অৰ্ধপৰিবাহী।"
+    }
+  }
+]

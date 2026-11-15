@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-174",
+    "q": {
+      "en": "The phenomenon of producing an electric current by a changing magnetic field is called:",
+      "as": "পৰিৱৰ্তনশীল চুম্বক ক্ষেত্ৰৰ দ্বাৰা বিদ্যুৎ প্ৰৱাহ উৎপন্ন কৰাৰ পৰিঘটনাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Electromagnetic induction",
+        "as": "বিদ্যুৎ-চুম্বকীয় আৱেশ"
+      },
+      {
+        "en": "Electrolysis",
+        "as": "বিদ্যুৎ-বিশ্লেষণ"
+      },
+      {
+        "en": "Thermionic emission",
+        "as": "তাপ-ইলেক্ট্ৰন নিঃসৰণ"
+      },
+      {
+        "en": "Photoelectric effect",
+        "as": "আলোক-বিদ্যুৎ প্ৰভাৱ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Electromagnetic induction is the basis of generators and transformers.",
+      "as": "বিদ্যুৎ-চুম্বকীয় আৱেশেই জেনেৰেটৰ আৰু ট্ৰান্সফৰ্মাৰৰ ভিত্তি।"
+    }
+  }
+]

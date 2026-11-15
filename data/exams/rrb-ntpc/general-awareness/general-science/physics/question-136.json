@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-136",
+    "q": {
+      "en": "The persistence of vision is used in:",
+      "as": "দৃষ্টিৰ স্থায়িত্ব কিয়ত ব্যৱহৃত হয়?"
+    },
+    "options": [
+      {
+        "en": "Stethoscope",
+        "as": "ষ্টেথ'স্কোপ"
+      },
+      {
+        "en": "Periscope",
+        "as": "পেৰিস্কোপ"
+      },
+      {
+        "en": "Cinema",
+        "as": "চিনেমা"
+      },
+      {
+        "en": "Telescope",
+        "as": "দূৰবীক্ষণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "An image lasts about 1/16 s on the retina, so rapidly shown frames appear as motion in cinema.",
+      "as": "ৰেটিনাত প্ৰতিবিম্ব প্ৰায় ১/১৬ ছেকেণ্ড থাকে, সেয়ে দ্ৰুতগতিত দেখুওৱা ফ্ৰেম চিনেমাত গতি যেন লাগে।"
+    }
+  }
+]

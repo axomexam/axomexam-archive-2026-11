@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-052",
+    "q": {
+      "en": "Heat energy is measured in the SI unit called the:",
+      "as": "তাপ শক্তি জোখা হয় যি SI এককত সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Calorie",
+        "as": "কেলৰি"
+      },
+      {
+        "en": "Kelvin",
+        "as": "কেলভিন"
+      },
+      {
+        "en": "Joule",
+        "as": "জুল"
+      },
+      {
+        "en": "Watt",
+        "as": "ৱাট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Heat is a form of energy measured in joules; 1 calorie = 4.18 joules.",
+      "as": "তাপ হ'ল শক্তিৰ এটা ৰূপ, জুলত জোখা হয়; ১ কেলৰি = ৪.১৮ জুল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-007",
+    "q": {
+      "en": "The dimensional formula of work is:",
+      "as": "কাৰ্যৰ মাত্ৰিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "[M L T⁻²]",
+        "as": "[M L T⁻²]"
+      },
+      {
+        "en": "[M L² T⁻¹]",
+        "as": "[M L² T⁻¹]"
+      },
+      {
+        "en": "[M L² T⁻²]",
+        "as": "[M L² T⁻²]"
+      },
+      {
+        "en": "[M L T⁻¹]",
+        "as": "[M L T⁻¹]"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Work = force × distance, giving [M L² T⁻²], the same as energy.",
+      "as": "কাৰ্য = বল × দূৰত্ব, যাৰ পৰা [M L² T⁻²] পোৱা যায়, যি শক্তিৰ দৰে একে।"
+    }
+  }
+]

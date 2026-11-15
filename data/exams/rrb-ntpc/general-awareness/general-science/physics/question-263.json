@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-263",
+    "q": {
+      "en": "A cricketer moves his hands backward while catching a ball to:",
+      "as": "ক্ৰিকেটাৰে বল ধৰোঁতে হাত পিছলৈ টানে কিয়নো:"
+    },
+    "options": [
+      {
+        "en": "Increase the force",
+        "as": "বল বঢ়োৱা"
+      },
+      {
+        "en": "Reduce the momentum to zero instantly",
+        "as": "ভৰবেগ তৎক্ষণাৎ শূন্য কৰা"
+      },
+      {
+        "en": "Increase the time of impact and reduce the force",
+        "as": "প্ৰভাৱৰ সময় বঢ়াই বল কমোৱা"
+      },
+      {
+        "en": "Increase the mass",
+        "as": "ভৰ বঢ়োৱা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Increasing the stopping time reduces the force felt, by the impulse-momentum relation.",
+      "as": "ৰখাৰ সময় বঢ়ালে অনুভৱ কৰা বল কমে, আৱেগ-ভৰবেগ সম্পৰ্ক অনুসৰি।"
+    }
+  }
+]

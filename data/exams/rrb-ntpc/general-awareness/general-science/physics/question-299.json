@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-299",
+    "q": {
+      "en": "A scalar quantity multiplied by a vector quantity always gives a:",
+      "as": "এটা অদিশ ৰাশিক এটা সদিশ ৰাশিৰে গুণ কৰিলে সদায় পোৱা যায় এটা:"
+    },
+    "options": [
+      {
+        "en": "Vector quantity",
+        "as": "সদিশ ৰাশি"
+      },
+      {
+        "en": "Scalar quantity",
+        "as": "অদিশ ৰাশি"
+      },
+      {
+        "en": "Tensor",
+        "as": "টেন্‌ছৰ"
+      },
+      {
+        "en": "Complex number",
+        "as": "জটিল সংখ্যা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Multiplying a vector by a scalar changes its magnitude, and may reverse its direction if negative.",
+      "as": "সদিশ ৰাশিক অদিশেৰে গুণ কৰিলে ইয়াৰ মান সলনি হয়, আৰু ঋণাত্মক হ'লে দিশ উলটি যাব পাৰে।"
+    }
+  }
+]

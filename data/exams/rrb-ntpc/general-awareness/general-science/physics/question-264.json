@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-264",
+    "q": {
+      "en": "The recoil of a gun when fired is explained by:",
+      "as": "বন্দুক চলালে হোৱা পিছুৱনি কিয়ৰ দ্বাৰা ব্যাখ্যা কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Conservation of energy",
+        "as": "শক্তি সংৰক্ষণ"
+      },
+      {
+        "en": "Ohm's law",
+        "as": "ওমৰ সূত্ৰ"
+      },
+      {
+        "en": "Conservation of momentum",
+        "as": "ভৰবেগ সংৰক্ষণ"
+      },
+      {
+        "en": "Hooke's law",
+        "as": "হুকৰ সূত্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The forward momentum of the bullet equals the backward momentum of the gun.",
+      "as": "গুলীৰ আগলৈ ভৰবেগ বন্দুকৰ পিছলৈ ভৰবেগৰ সমান।"
+    }
+  }
+]

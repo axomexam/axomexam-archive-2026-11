@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-077",
+    "q": {
+      "en": "An object floats in water when its density is:",
+      "as": "বস্তু এটাৰ ঘনত্ব কিমান হ'লে পানীত ওপঙে?"
+    },
+    "options": [
+      {
+        "en": "Less than that of water",
+        "as": "পানীৰ ঘনত্বতকৈ কম"
+      },
+      {
+        "en": "Greater than that of water",
+        "as": "পানীৰ ঘনত্বতকৈ বেছি"
+      },
+      {
+        "en": "Equal to zero",
+        "as": "শূন্যৰ সমান"
+      },
+      {
+        "en": "Infinite",
+        "as": "অসীম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A body floats when its average density is less than the density of the liquid.",
+      "as": "বস্তু এটাৰ গড় ঘনত্ব তৰলৰ ঘনত্বতকৈ কম হ'লে ই ওপঙে।"
+    }
+  }
+]

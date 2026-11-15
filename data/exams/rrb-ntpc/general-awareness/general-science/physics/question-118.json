@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-118",
+    "q": {
+      "en": "A rainbow is formed by the of sunlight by water droplets:",
+      "as": "সূৰ্যৰ পোহৰ পানীৰ টোপালৰ দ্বাৰা কিয়ৰ ফলত ৰামধেনু গঠন হয়?"
+    },
+    "options": [
+      {
+        "en": "Refraction and dispersion",
+        "as": "প্ৰতিসৰণ আৰু বিচ্ছুৰণ"
+      },
+      {
+        "en": "Reflection only",
+        "as": "কেৱল প্ৰতিফলন"
+      },
+      {
+        "en": "Diffraction",
+        "as": "বিবৰ্তন"
+      },
+      {
+        "en": "Absorption",
+        "as": "শোষণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Raindrops refract, disperse and internally reflect sunlight to form a rainbow.",
+      "as": "বৰষুণৰ টোপালে সূৰ্যৰ পোহৰ প্ৰতিসৰিত, বিচ্ছুৰিত আৰু অন্তঃপ্ৰতিফলিত কৰি ৰামধেনু গঠন কৰে।"
+    }
+  }
+]

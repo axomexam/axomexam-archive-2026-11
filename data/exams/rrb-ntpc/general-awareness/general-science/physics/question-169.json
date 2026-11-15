@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-169",
+    "q": {
+      "en": "The strength of the magnetic field due to a straight current-carrying conductor is given by:",
+      "as": "পোন প্ৰৱাহবাহী পৰিবাহী এটাৰ বাবে চুম্বক ক্ষেত্ৰৰ শক্তি কিয়ৰ দ্বাৰা দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "B = μ₀I",
+        "as": "B = μ₀I"
+      },
+      {
+        "en": "B = I/μ₀r",
+        "as": "B = I/μ₀r"
+      },
+      {
+        "en": "B = μ₀I/2πr",
+        "as": "B = μ₀I/২πr"
+      },
+      {
+        "en": "B = 2πI/r",
+        "as": "B = ২πI/r"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Ampère's law gives B = μ₀I/2πr at a distance r from a long straight wire.",
+      "as": "এম্পিয়াৰৰ সূত্ৰই এডাল দীঘল পোন তাঁৰৰ পৰা r দূৰত্বত B = μ₀I/২πr দিয়ে।"
+    }
+  }
+]

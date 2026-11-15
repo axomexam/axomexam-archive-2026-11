@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-250",
+    "q": {
+      "en": "A pulley is used mainly to:",
+      "as": "কপিকল মূলতঃ কিয় ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Increase weight",
+        "as": "ওজন বঢ়াবলৈ"
+      },
+      {
+        "en": "Store energy",
+        "as": "শক্তি সাঁচিবলৈ"
+      },
+      {
+        "en": "Change the direction of force and reduce effort",
+        "as": "বলৰ দিশ সলনি কৰিবলৈ আৰু কাৰ্য কমাবলৈ"
+      },
+      {
+        "en": "Measure force",
+        "as": "বল জোখিবলৈ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A pulley changes the direction of effort; a block-and-tackle also reduces it.",
+      "as": "কপিকলে কাৰ্যৰ দিশ সলনি কৰে; ব্লক-এণ্ড-টেকলেই কাৰ্যও কমায়।"
+    }
+  }
+]

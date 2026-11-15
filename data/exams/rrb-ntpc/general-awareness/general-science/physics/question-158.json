@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-158",
+    "q": {
+      "en": "The device that converts electrical energy into mechanical energy is a:",
+      "as": "বিদ্যুৎ শক্তিক যান্ত্ৰিক শক্তিলৈ ৰূপান্তৰ কৰা সঁজুলিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Electric motor",
+        "as": "বিদ্যুৎ মটৰ"
+      },
+      {
+        "en": "Electric generator",
+        "as": "বিদ্যুৎ জেনেৰেটৰ"
+      },
+      {
+        "en": "Transformer",
+        "as": "ট্ৰান্সফৰ্মাৰ"
+      },
+      {
+        "en": "Rectifier",
+        "as": "ৰেক্টিফায়াৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A motor uses the force on a current-carrying coil in a magnetic field to turn.",
+      "as": "মটৰে চুম্বক ক্ষেত্ৰত প্ৰৱাহবাহী কুণ্ডলীৰ ওপৰত বল ব্যৱহাৰ কৰি ঘূৰে।"
+    }
+  }
+]

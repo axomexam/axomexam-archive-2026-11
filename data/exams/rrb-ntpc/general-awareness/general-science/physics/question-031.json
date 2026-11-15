@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-031",
+    "q": {
+      "en": "The SI unit of momentum is:",
+      "as": "ভৰবেগৰ SI একক হ'ল:"
+    },
+    "options": [
+      {
+        "en": "kg·m/s",
+        "as": "কি.গ্ৰা.·মি./ছে."
+      },
+      {
+        "en": "kg·m/s²",
+        "as": "কি.গ্ৰা.·মি./ছে.²"
+      },
+      {
+        "en": "N·m",
+        "as": "N·মি."
+      },
+      {
+        "en": "kg/m³",
+        "as": "কি.গ্ৰা./মি.³"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Momentum = mass × velocity, so its SI unit is kg·m/s (or N·s).",
+      "as": "ভৰবেগ = ভৰ × বেগ, গতিকে SI একক kg·m/s (বা N·s)।"
+    }
+  }
+]

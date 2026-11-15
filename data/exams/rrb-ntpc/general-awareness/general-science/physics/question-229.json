@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-229",
+    "q": {
+      "en": "Gamma rays are:",
+      "as": "গামা ৰশ্মি হ'ল:"
+    },
+    "options": [
+      {
+        "en": "A stream of electrons",
+        "as": "ইলেক্ট্ৰনৰ প্ৰবাহ"
+      },
+      {
+        "en": "High-energy electromagnetic radiation",
+        "as": "উচ্চ-শক্তিৰ বিদ্যুৎ-চুম্বকীয় বিকিৰণ"
+      },
+      {
+        "en": "A stream of helium nuclei",
+        "as": "হিলিয়াম নিউক্লিয়াছৰ প্ৰবাহ"
+      },
+      {
+        "en": "Sound waves",
+        "as": "শব্দ তৰংগ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gamma rays are very short wavelength electromagnetic radiation with no charge.",
+      "as": "গামা ৰশ্মি অতি চুটি তৰংগদৈৰ্ঘ্যৰ বিদ্যুৎ-চুম্বকীয় বিকিৰণ, আধান নাই।"
+    }
+  }
+]

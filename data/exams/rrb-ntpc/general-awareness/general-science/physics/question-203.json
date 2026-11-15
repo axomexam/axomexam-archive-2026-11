@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-203",
+    "q": {
+      "en": "The mass number of an atom is the total number of:",
+      "as": "পৰমাণু এটাৰ ভৰ সংখ্যা হ'ল মুঠ কিয়ৰ সংখ্যা?"
+    },
+    "options": [
+      {
+        "en": "Protons and electrons",
+        "as": "প্ৰ'টন আৰু ইলেক্ট্ৰন"
+      },
+      {
+        "en": "Electrons and neutrons",
+        "as": "ইলেক্ট্ৰন আৰু নিউট্ৰন"
+      },
+      {
+        "en": "Protons and neutrons",
+        "as": "প্ৰ'টন আৰু নিউট্ৰন"
+      },
+      {
+        "en": "Only electrons",
+        "as": "কেৱল ইলেক্ট্ৰন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mass number A = protons + neutrons; it is nearly the atomic mass in u.",
+      "as": "ভৰ সংখ্যা A = প্ৰ'টন + নিউট্ৰন; ই প্ৰায় u ত পাৰমাণৱিক ভৰ।"
+    }
+  }
+]

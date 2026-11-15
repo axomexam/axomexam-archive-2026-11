@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-251",
+    "q": {
+      "en": "An inclined plane is used to:",
+      "as": "এখন নত হৈ থকা সমতল কিয়ৰ বাবে ব্যৱহৃত হয়?"
+    },
+    "options": [
+      {
+        "en": "Increase the load",
+        "as": "ভাৰ বঢ়োৱা"
+      },
+      {
+        "en": "Raise a load with less effort",
+        "as": "কম কাৰ্যৰে ভাৰ তোলা"
+      },
+      {
+        "en": "Store water",
+        "as": "পানী সাঁচোৱা"
+      },
+      {
+        "en": "Reduce weight",
+        "as": "ওজন কমোৱা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A ramp lets a heavy load be raised with a smaller force over a longer distance.",
+      "as": "এখন ঢালে গধুৰ ভাৰ কম বলেৰে বেছি দূৰত্বত তোলাৰ সুবিধা দিয়ে।"
+    }
+  }
+]

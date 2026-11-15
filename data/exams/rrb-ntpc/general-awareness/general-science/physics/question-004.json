@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-004",
+    "q": {
+      "en": "The number of base units in the SI system is:",
+      "as": "SI পদ্ধতিত মূল এককৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "Seven",
+        "as": "সাত"
+      },
+      {
+        "en": "Five",
+        "as": "পাঁচ"
+      },
+      {
+        "en": "Six",
+        "as": "ছয়"
+      },
+      {
+        "en": "Nine",
+        "as": "ন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The SI has seven base units: metre, kilogram, second, ampere, kelvin, mole and candela.",
+      "as": "SI ত সাতটা মূল একক আছে: মিটাৰ, কিলোগ্ৰাম, ছেকেণ্ড, এম্পিয়াৰ, কেলভিন, ম'ল আৰু কেন্দেলা।"
+    }
+  }
+]

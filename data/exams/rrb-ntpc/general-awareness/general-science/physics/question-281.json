@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-281",
+    "q": {
+      "en": "The prefix 'kilo' represents a factor of:",
+      "as": "উপসৰ্গ 'কিল' য়ে কিমান গুণক সূচায়?"
+    },
+    "options": [
+      {
+        "en": "10³",
+        "as": "১০³"
+      },
+      {
+        "en": "10²",
+        "as": "১০²"
+      },
+      {
+        "en": "10⁶",
+        "as": "১০⁶"
+      },
+      {
+        "en": "10⁻³",
+        "as": "১০⁻৩"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kilo means 10³; a kilometre is one thousand metres.",
+      "as": "কিল মানে ১০³; এক কিল'মিটাৰ এহেজাৰ মিটাৰ।"
+    }
+  }
+]

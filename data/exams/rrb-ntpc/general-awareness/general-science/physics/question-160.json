@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-160",
+    "q": {
+      "en": "An electric bulb is filled with:",
+      "as": "বিদ্যুৎ বাল্ব এটা কিয়ৰ দ্বাৰা ভৰোৱা হয়?"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰ'জেন"
+      },
+      {
+        "en": "Air",
+        "as": "বায়ু"
+      },
+      {
+        "en": "Inert gas like argon",
+        "as": "আৰ্গনৰ দৰে নিষ্ক্ৰিয় গেছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "An inert gas prevents the hot filament from oxidising and burning out.",
+      "as": "নিষ্ক্ৰিয় গেছে গৰম ফিলামেণ্টক জাৰিত হৈ পুৰি নাযাবলৈ ৰক্ষা কৰে।"
+    }
+  }
+]

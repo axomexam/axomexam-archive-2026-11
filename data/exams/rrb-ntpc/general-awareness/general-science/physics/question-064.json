@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-064",
+    "q": {
+      "en": "The heat energy absorbed when 1 kg of ice melts at 0 °C is called the:",
+      "as": "০ °C ত ১ কি.গ্ৰা. বৰফ গলোঁতে শোষণ কৰা তাপ শক্তিক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Latent heat of vaporisation",
+        "as": "বাষ্পীভৱনৰ লীন তাপ"
+      },
+      {
+        "en": "Specific heat",
+        "as": "বিশিষ্ট তাপ"
+      },
+      {
+        "en": "Latent heat of fusion",
+        "as": "গলনৰ লীন তাপ"
+      },
+      {
+        "en": "Heat capacity",
+        "as": "তাপ ধাৰকত্ব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Latent heat of fusion is absorbed at constant temperature during melting.",
+      "as": "গলনৰ লীন তাপ স্থিৰ উষ্ণতাত গলোঁতে শোষিত হয়।"
+    }
+  }
+]

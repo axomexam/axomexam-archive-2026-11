@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-237",
+    "q": {
+      "en": "The device used to measure blood pressure is a:",
+      "as": "ৰক্তচাপ জোখা যন্ত্ৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Stethoscope",
+        "as": "ষ্টেথ'স্কোপ"
+      },
+      {
+        "en": "Thermometer",
+        "as": "থাৰ্ম'মিটাৰ"
+      },
+      {
+        "en": "Hygrometer",
+        "as": "হাইগ্ৰ'মিটাৰ"
+      },
+      {
+        "en": "Sphygmomanometer",
+        "as": "স্ফিগ্‌ম'মেন'মিটাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A sphygmomanometer measures blood pressure, usually with a cuff and gauge.",
+      "as": "স্ফিগ্‌ম'মেন'মিটাৰে ৰক্তচাপ জোখে, প্ৰায়ে কাফ আৰু গেজৰ সহায়ত।"
+    }
+  }
+]

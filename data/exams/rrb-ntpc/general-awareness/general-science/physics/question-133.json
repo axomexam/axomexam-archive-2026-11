@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-133",
+    "q": {
+      "en": "The mirror formula relating object distance u, image distance v and focal length f is:",
+      "as": "বস্তু দূৰত্ব u, প্ৰতিবিম্ব দূৰত্ব v আৰু ফ'কাছ দৈৰ্ঘ্য f ৰ সম্পৰ্ক ৰখা দাপোণ সূত্ৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "1/v + 1/u = 1/f",
+        "as": "১/v + ১/u = ১/f"
+      },
+      {
+        "en": "1/v − 1/u = 1/f",
+        "as": "১/v − ১/u = ১/f"
+      },
+      {
+        "en": "v + u = f",
+        "as": "v + u = f"
+      },
+      {
+        "en": "v × u = f",
+        "as": "v × u = f"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "For mirrors, 1/v + 1/u = 1/f, with proper sign conventions.",
+      "as": "দাপোণৰ বাবে, ১/v + ১/u = ১/f, চিহ্নৰ নিয়ম মানি।"
+    }
+  }
+]

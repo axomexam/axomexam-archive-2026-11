@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-252",
+    "q": {
+      "en": "The efficiency of a machine is the ratio of:",
+      "as": "যন্ত্ৰ এটাৰ কাৰ্যদক্ষতা হ'ল কিয়ৰ অনুপাত?"
+    },
+    "options": [
+      {
+        "en": "Load to effort",
+        "as": "ভাৰৰ কাৰ্যলৈ"
+      },
+      {
+        "en": "Output work to input work",
+        "as": "আউটপুট কাৰ্যৰ ইনপুট কাৰ্যলৈ"
+      },
+      {
+        "en": "Input to output",
+        "as": "ইনপুটৰ আউটপুটলৈ"
+      },
+      {
+        "en": "Power to work",
+        "as": "ক্ষমতাৰ কাৰ্যলৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Efficiency = useful output work / input work, often given as a percentage.",
+      "as": "কাৰ্যদক্ষতা = কাৰ্যকৰী আউটপুট কাৰ্য / ইনপুট কাৰ্য, প্ৰায়ে শতাংশত দিয়া হয়।"
+    }
+  }
+]

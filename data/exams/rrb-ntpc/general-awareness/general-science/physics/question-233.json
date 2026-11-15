@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-233",
+    "q": {
+      "en": "The device used to measure atmospheric humidity is a:",
+      "as": "বায়ুমণ্ডলীয় আৰ্দ্ৰতা জোখা যন্ত্ৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Barometer",
+        "as": "বেৰ'মিটাৰ"
+      },
+      {
+        "en": "Hygrometer",
+        "as": "হাইগ্ৰ'মিটাৰ"
+      },
+      {
+        "en": "Thermometer",
+        "as": "থাৰ্ম'মিটাৰ"
+      },
+      {
+        "en": "Anemometer",
+        "as": "এনিম'মিটাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A hygrometer measures the moisture content, or humidity, of the air.",
+      "as": "হাইগ্ৰ'মিটাৰে বায়ুৰ আৰ্দ্ৰতা জোখে।"
+    }
+  }
+]

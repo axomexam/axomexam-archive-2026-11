@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-089",
+    "q": {
+      "en": "The unit of loudness of sound is:",
+      "as": "শব্দৰ প্ৰাবল্যৰ একক হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Hertz",
+        "as": "হাৰ্টজ"
+      },
+      {
+        "en": "Metre",
+        "as": "মিটাৰ"
+      },
+      {
+        "en": "Watt",
+        "as": "ৱাট"
+      },
+      {
+        "en": "Decibel",
+        "as": "ডেচিবেল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Loudness is measured in decibels (dB); normal conversation is about 60 dB.",
+      "as": "প্ৰাবল্য ডেচিবেল (dB) ত জোখা হয়; সাধাৰণ কথা-বতৰা প্ৰায় ৬০ dB।"
+    }
+  }
+]

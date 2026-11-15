@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-025",
+    "q": {
+      "en": "A physical quantity that is completely described by its magnitude alone is called a:",
+      "as": "কেৱল মানৰ দ্বাৰা সম্পূৰ্ণৰূপে বৰ্ণনা কৰা ভৌতিক ৰাশিক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Vector",
+        "as": "সদিশ ৰাশি"
+      },
+      {
+        "en": "Tensor",
+        "as": "টেন্‌ছৰ"
+      },
+      {
+        "en": "Scalar",
+        "as": "অদিশ ৰাশি"
+      },
+      {
+        "en": "Resultant",
+        "as": "লব্ধি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A scalar quantity needs only a magnitude; a vector also needs a direction.",
+      "as": "অদিশ ৰাশিৰ কেৱল মান প্ৰয়োজন; সদিশ ৰাশিৰ দিশও লাগে।"
+    }
+  }
+]

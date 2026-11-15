@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-288",
+    "q": {
+      "en": "The weight of a body at the centre of the earth would be:",
+      "as": "পৃথিৱীৰ কেন্দ্ৰত বস্তু এটাৰ ওজন কিমান হ'ব?"
+    },
+    "options": [
+      {
+        "en": "Maximum",
+        "as": "সৰ্বাধিক"
+      },
+      {
+        "en": "Same as at the surface",
+        "as": "পৃষ্ঠৰ দৰে একে"
+      },
+      {
+        "en": "Infinite",
+        "as": "অসীম"
+      },
+      {
+        "en": "Zero",
+        "as": "শূন্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "At the centre the gravitational pull from all sides cancels, so weight is zero.",
+      "as": "কেন্দ্ৰত সকলো দিশৰ পৰা মাধ্যাকৰ্ষণ টান বাতিল হয়, গতিকে ওজন শূন্য।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-161",
+    "q": {
+      "en": "The filament of an electric bulb is usually made of:",
+      "as": "বিদ্যুৎ বাল্বৰ ফিলামেণ্ট সাধাৰণতে কিয়ৰ পৰা বনোৱা হয়?"
+    },
+    "options": [
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Aluminium",
+        "as": "এলুমিনিয়াম"
+      },
+      {
+        "en": "Tungsten",
+        "as": "টাংষ্টেন"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tungsten has a very high melting point (about 3400 °C) and glows white-hot.",
+      "as": "টাংষ্টেনৰ গলনাংক অতি বেছি (প্ৰায় ৩৪০০ °C) আৰু ই বগা-গৰম হৈ জিলিকি উঠে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-114",
+    "q": {
+      "en": "When white light separates into its seven colours, the phenomenon is known as:",
+      "as": "বগা পোহৰ সাত ৰঙত বিভাজিত হ'লে সেই পৰিঘটনাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Dispersion",
+        "as": "বিচ্ছুৰণ"
+      },
+      {
+        "en": "Reflection",
+        "as": "প্ৰতিফলন"
+      },
+      {
+        "en": "Diffraction",
+        "as": "বিবৰ্তন"
+      },
+      {
+        "en": "Polarisation",
+        "as": "ধ্ৰুৱণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A prism disperses white light into a spectrum of seven colours.",
+      "as": "প্ৰিজমে বগা পোহৰ সাত ৰঙৰ বৰ্ণালীত বিচ্ছুৰিত কৰে।"
+    }
+  }
+]

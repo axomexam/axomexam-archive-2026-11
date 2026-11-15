@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-119",
+    "q": {
+      "en": "Which three colours are regarded as the primary colours of light?",
+      "as": "কোন তিনিটা ৰঙক পোহৰৰ প্ৰাথমিক ৰং বুলি ধৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Red, yellow and blue",
+        "as": "ৰঙা, হালধীয়া আৰু নীলা"
+      },
+      {
+        "en": "Red, green and blue",
+        "as": "ৰঙা, সেউজীয়া আৰু নীলা"
+      },
+      {
+        "en": "Red, green and yellow",
+        "as": "ৰঙা, সেউজীয়া আৰু হালধীয়া"
+      },
+      {
+        "en": "Cyan, magenta and yellow",
+        "as": "চায়ান, মেজেণ্টা আৰু হালধীয়া"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mixing red, green and blue light in different amounts gives all other colours.",
+      "as": "ৰঙা, সেউজীয়া আৰু নীলা পোহৰ ভিন ভিন পৰিমাণত মিলাই আন আটাইবোৰ ৰং পোৱা যায়।"
+    }
+  }
+]

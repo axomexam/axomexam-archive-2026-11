@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-113",
+    "q": {
+      "en": "The mirror used by a dentist to see a magnified image of teeth is:",
+      "as": "দাঁতৰ বিবৰ্ধিত প্ৰতিবিম্ব চাবলৈ দন্ত চিকিৎসকে ব্যৱহাৰ কৰা দাপোণটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Convex mirror",
+        "as": "উত্তল দাপোণ"
+      },
+      {
+        "en": "Plane mirror",
+        "as": "সমতল দাপোণ"
+      },
+      {
+        "en": "Parabolic mirror",
+        "as": "পেৰাবলিক দাপোণ"
+      },
+      {
+        "en": "Concave mirror",
+        "as": "অৱতল দাপোণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A concave mirror forms an enlarged, erect virtual image when the object is close to it.",
+      "as": "বস্তু ওচৰত থাকিলে অৱতল দাপোণে বিবৰ্ধিত, সোজা অপ্ৰকৃত প্ৰতিবিম্ব গঠন কৰে।"
+    }
+  }
+]

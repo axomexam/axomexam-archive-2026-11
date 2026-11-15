@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-100",
+    "q": {
+      "en": "The relation between wave speed v, frequency f and wavelength λ is:",
+      "as": "তৰংগ দ্ৰুতি v, কম্পনাংক f আৰু তৰংগদৈৰ্ঘ্য λ ৰ মাজৰ সম্পৰ্কটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "v = f/λ",
+        "as": "v = f/λ"
+      },
+      {
+        "en": "v = fλ",
+        "as": "v = fλ"
+      },
+      {
+        "en": "v = λ/f",
+        "as": "v = λ/f"
+      },
+      {
+        "en": "v = f + λ",
+        "as": "v = f + λ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Wave speed equals frequency times wavelength, v = fλ.",
+      "as": "তৰংগ দ্ৰুতি কম্পনাংক আৰু তৰংগদৈৰ্ঘ্যৰ গুণফল, v = fλ।"
+    }
+  }
+]

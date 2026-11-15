@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-034",
+    "q": {
+      "en": "In which direction does the force of friction act?",
+      "as": "ঘৰ্ষণ বল কোন দিশত ক্ৰিয়া কৰে?"
+    },
+    "options": [
+      {
+        "en": "Along the direction of motion",
+        "as": "গতিৰ দিশেৰে"
+      },
+      {
+        "en": "Opposite to the direction of motion",
+        "as": "গতিৰ দিশৰ বিপৰীত"
+      },
+      {
+        "en": "Upward",
+        "as": "ওপৰলৈ"
+      },
+      {
+        "en": "Perpendicular to motion",
+        "as": "গতিৰ লম্বভাৱে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Friction opposes relative motion, so it acts opposite to the direction of motion.",
+      "as": "ঘৰ্ষণে আপেক্ষিক গতিৰ বিৰোধিতা কৰে, গতিকে গতিৰ দিশৰ বিপৰীতে ক্ৰিয়া কৰে।"
+    }
+  }
+]

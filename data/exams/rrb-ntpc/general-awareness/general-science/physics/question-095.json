@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-095",
+    "q": {
+      "en": "The minimum distance from a wall needed to hear a distinct echo in air is about:",
+      "as": "বায়ুত স্পষ্ট প্ৰতিধ্বনি শুনিবলৈ বেৰৰ পৰা ন্যূনতম দূৰত্ব প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "7 m",
+        "as": "৭ মি."
+      },
+      {
+        "en": "34 m",
+        "as": "৩৪ মি."
+      },
+      {
+        "en": "17 m",
+        "as": "১৭ মি."
+      },
+      {
+        "en": "1 m",
+        "as": "১ মি."
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "As the sensation persists about 0.1 s, the wall must be about 17 m away.",
+      "as": "অনুভূতি প্ৰায় ০.১ ছেকেণ্ড থাকে, গতিকে বেৰ প্ৰায় ১৭ মি. দূৰত থাকিব লাগে।"
+    }
+  }
+]

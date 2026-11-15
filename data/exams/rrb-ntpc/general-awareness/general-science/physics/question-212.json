@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-212",
+    "q": {
+      "en": "In a nuclear reactor, heavy water is used as a:",
+      "as": "পাৰমাণৱিক ৰিয়েক্টৰত গধুৰ পানী ব্যৱহাৰ কৰা হয় কিয় হিচাপে?"
+    },
+    "options": [
+      {
+        "en": "Fuel",
+        "as": "ইন্ধন"
+      },
+      {
+        "en": "Control rod",
+        "as": "নিয়ন্ত্ৰণ দণ্ড"
+      },
+      {
+        "en": "Coolant only",
+        "as": "কেৱল শীতলক"
+      },
+      {
+        "en": "Moderator",
+        "as": "মডাৰেটৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Heavy water (D₂O) is a common moderator in nuclear reactors.",
+      "as": "গধুৰ পানী (D₂O) পাৰমাণৱিক ৰিয়েক্টৰত এটা সাধাৰণ মডাৰেটৰ।"
+    }
+  }
+]

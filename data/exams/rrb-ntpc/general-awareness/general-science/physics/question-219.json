@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-219",
+    "q": {
+      "en": "The energy released in a nuclear reaction is related to mass defect by:",
+      "as": "পাৰমাণৱিক প্ৰতিক্ৰিয়াত মুক্ত শক্তি ভৰ ত্ৰুটিৰ সৈতে সম্পৰ্কিত কিয়ৰ দ্বাৰা?"
+    },
+    "options": [
+      {
+        "en": "E = mv²",
+        "as": "E = mv²"
+      },
+      {
+        "en": "E = ½mv²",
+        "as": "E = ½mv²"
+      },
+      {
+        "en": "E = mgh",
+        "as": "E = mgh"
+      },
+      {
+        "en": "E = mc²",
+        "as": "E = mc²"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Einstein's mass-energy relation E = mc² gives the energy from the mass defect.",
+      "as": "আইনষ্টাইনৰ ভৰ-শক্তি সম্পৰ্ক E = mc² য়ে ভৰ ত্ৰুটিৰ পৰা শক্তি দিয়ে।"
+    }
+  }
+]

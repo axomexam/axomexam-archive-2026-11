@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-144",
+    "q": {
+      "en": "Electrical resistance is measured in the SI unit known as the:",
+      "as": "বিদ্যুৎ ৰোধ জোখা হয় যি SI এককত সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Volt",
+        "as": "ভল্ট"
+      },
+      {
+        "en": "Ohm",
+        "as": "ওম"
+      },
+      {
+        "en": "Ampere",
+        "as": "এম্পিয়াৰ"
+      },
+      {
+        "en": "Watt",
+        "as": "ৱাট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Resistance is measured in ohms (Ω); 1 Ω = 1 V/A.",
+      "as": "ৰোধ ওম (Ω) ত জোখা হয়; ১ Ω = ১ V/A।"
+    }
+  }
+]

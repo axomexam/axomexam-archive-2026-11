@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-099",
+    "q": {
+      "en": "An example of a natural transverse wave is:",
+      "as": "প্ৰাকৃতিক অনুপ্ৰস্থ তৰংগৰ এটা উদাহৰণ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sound in air",
+        "as": "বায়ুত শব্দ"
+      },
+      {
+        "en": "Compression in a spring",
+        "as": "স্প্ৰিঙত সংকোচন"
+      },
+      {
+        "en": "Ultrasound",
+        "as": "আল্ট্ৰাছাউণ্ড"
+      },
+      {
+        "en": "Light",
+        "as": "পোহৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Light is a transverse wave; sound in air is longitudinal.",
+      "as": "পোহৰ অনুপ্ৰস্থ তৰংগ; বায়ুত শব্দ অনুদৈৰ্ঘ্য।"
+    }
+  }
+]

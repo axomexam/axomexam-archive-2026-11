@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-286",
+    "q": {
+      "en": "The force that keeps the planets in orbit around the sun is:",
+      "as": "গ্ৰহবোৰক সূৰ্যৰ চাৰিওফালে কক্ষপথত ৰখা বলটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Magnetic force",
+        "as": "চুম্বক বল"
+      },
+      {
+        "en": "Electric force",
+        "as": "বিদ্যুৎ বল"
+      },
+      {
+        "en": "Gravitational force",
+        "as": "মাধ্যাকৰ্ষণ বল"
+      },
+      {
+        "en": "Nuclear force",
+        "as": "নিউক্লীয় বল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The sun's gravitational pull provides the centripetal force for planetary orbits.",
+      "as": "সূৰ্যৰ মাধ্যাকৰ্ষণ টানে গ্ৰহৰ কক্ষপথৰ বাবে কেন্দ্ৰাভিমুখী বল যোগায়।"
+    }
+  }
+]

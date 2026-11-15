@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-191",
+    "q": {
+      "en": "Superconductors are materials whose resistance becomes zero below a certain:",
+      "as": "অতি পৰিবাহী হ'ল এনে পদাৰ্থ যাৰ ৰোধ এটা নিৰ্দিষ্ট কিয়ৰ তলত শূন্য হয়?"
+    },
+    "options": [
+      {
+        "en": "Critical temperature",
+        "as": "সংকট উষ্ণতা"
+      },
+      {
+        "en": "Critical pressure",
+        "as": "সংকট চাপ"
+      },
+      {
+        "en": "Melting point",
+        "as": "গলনাংক"
+      },
+      {
+        "en": "Boiling point",
+        "as": "উতলাংক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Below the critical temperature a superconductor offers no resistance to current.",
+      "as": "সংকট উষ্ণতাৰ তলত অতি পৰিবাহীয়ে প্ৰৱাহলৈ কোনো ৰোধ নিদিয়ে।"
+    }
+  }
+]

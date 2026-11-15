@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-197",
+    "q": {
+      "en": "The unit of inductance is the:",
+      "as": "আৱেশৰ এককটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Farad",
+        "as": "ফাৰাড"
+      },
+      {
+        "en": "Weber",
+        "as": "ৱেবাৰ"
+      },
+      {
+        "en": "Henry",
+        "as": "হেনৰী"
+      },
+      {
+        "en": "Tesla",
+        "as": "টেছলা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Inductance is measured in henrys (H).",
+      "as": "আৱেশ হেনৰী (H) ত জোখা হয়।"
+    }
+  }
+]

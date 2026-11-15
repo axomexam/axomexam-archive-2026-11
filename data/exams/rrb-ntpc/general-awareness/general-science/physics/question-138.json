@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-138",
+    "q": {
+      "en": "Electric charge is measured in the SI unit called the:",
+      "as": "বিদ্যুৎ আধান জোখা হয় যি SI এককত সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Ampere",
+        "as": "এম্পিয়াৰ"
+      },
+      {
+        "en": "Volt",
+        "as": "ভল্ট"
+      },
+      {
+        "en": "Coulomb",
+        "as": "কুলম্ব"
+      },
+      {
+        "en": "Ohm",
+        "as": "ওম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Charge is measured in coulombs (C); one electron carries 1.6 × 10⁻¹⁹ C.",
+      "as": "আধান কুলম্ব (C) ত জোখা হয়; এটা ইলেক্ট্ৰনত ১.৬ × ১০⁻¹⁹ C আধান থাকে।"
+    }
+  }
+]

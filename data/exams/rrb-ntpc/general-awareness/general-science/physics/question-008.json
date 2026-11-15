@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-008",
+    "q": {
+      "en": "The dimensional formula of pressure is:",
+      "as": "চাপৰ মাত্ৰিক সংকেত হ'ল:"
+    },
+    "options": [
+      {
+        "en": "[M L⁻¹ T⁻²]",
+        "as": "[M L⁻¹ T⁻²]"
+      },
+      {
+        "en": "[M L T⁻²]",
+        "as": "[M L T⁻²]"
+      },
+      {
+        "en": "[M L² T⁻²]",
+        "as": "[M L² T⁻²]"
+      },
+      {
+        "en": "[M L⁻³]",
+        "as": "[M L⁻³]"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pressure = force / area, so the dimensions are [M L⁻¹ T⁻²].",
+      "as": "চাপ = বল / কালি, গতিকে মাত্ৰা [M L⁻¹ T⁻²]।"
+    }
+  }
+]

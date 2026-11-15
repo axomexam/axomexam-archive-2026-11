@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-134",
+    "q": {
+      "en": "The splitting of light into polarised components is called:",
+      "as": "পোহৰ ধ্ৰুৱিত উপাদানত বিভাজিত হোৱাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Dispersion",
+        "as": "বিচ্ছুৰণ"
+      },
+      {
+        "en": "Diffraction",
+        "as": "বিবৰ্তন"
+      },
+      {
+        "en": "Polarisation",
+        "as": "ধ্ৰুৱণ"
+      },
+      {
+        "en": "Interference",
+        "as": "ব্যতিকৰণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Polarisation restricts the vibration of light to a single plane.",
+      "as": "ধ্ৰুৱণে পোহৰৰ কম্পন এটা সমতলত সীমাবদ্ধ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-015",
+    "q": {
+      "en": "If a body moves with a constant velocity, the value of its acceleration is:",
+      "as": "বস্তু এটাই স্থিৰ বেগেৰে গ'লে ইয়াৰ ত্বৰণৰ মান কিমান হয়?"
+    },
+    "options": [
+      {
+        "en": "Zero",
+        "as": "শূন্য"
+      },
+      {
+        "en": "Constant but non-zero",
+        "as": "স্থিৰ কিন্তু অশূন্য"
+      },
+      {
+        "en": "Increasing",
+        "as": "বৰ্ধমান"
+      },
+      {
+        "en": "Decreasing",
+        "as": "হ্ৰাসমান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Uniform velocity means no change in velocity, so the acceleration is zero.",
+      "as": "সুষম বেগ মানে বেগত কোনো পৰিৱৰ্তন নাই, গতিকে ত্বৰণ শূন্য।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-248",
+    "q": {
+      "en": "The mechanical advantage of a machine is the ratio of:",
+      "as": "যন্ত্ৰ এটাৰ যান্ত্ৰিক লাভ হ'ল কিয়ৰ অনুপাত?"
+    },
+    "options": [
+      {
+        "en": "Effort to load",
+        "as": "কাৰ্যৰ ভাৰলৈ"
+      },
+      {
+        "en": "Work input to output",
+        "as": "কাৰ্য ইনপুটৰ আউটপুটলৈ"
+      },
+      {
+        "en": "Load to effort",
+        "as": "ভাৰৰ কাৰ্যলৈ"
+      },
+      {
+        "en": "Power to time",
+        "as": "ক্ষমতাৰ সময়লৈ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mechanical advantage = load / effort, and is a pure number.",
+      "as": "যান্ত্ৰিক লাভ = ভাৰ / কাৰ্য, আৰু ই এটা বিশুদ্ধ সংখ্যা।"
+    }
+  }
+]

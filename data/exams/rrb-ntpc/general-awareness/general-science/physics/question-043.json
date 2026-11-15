@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-043",
+    "q": {
+      "en": "When the speed of a body is doubled, its kinetic energy becomes:",
+      "as": "বস্তু এটাৰ দ্ৰুতি দুগুণ কৰিলে ইয়াৰ গতিশক্তি কিমান হয়?"
+    },
+    "options": [
+      {
+        "en": "Four times",
+        "as": "চাৰিগুণ"
+      },
+      {
+        "en": "Two times",
+        "as": "দুগুণ"
+      },
+      {
+        "en": "Half",
+        "as": "আধা"
+      },
+      {
+        "en": "Eight times",
+        "as": "আঠগুণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "KE ∝ v², so doubling the speed makes the kinetic energy four times.",
+      "as": "গতিশক্তি ∝ v², গতিকে দ্ৰুতি দুগুণ কৰিলে গতিশক্তি চাৰিগুণ হয়।"
+    }
+  }
+]

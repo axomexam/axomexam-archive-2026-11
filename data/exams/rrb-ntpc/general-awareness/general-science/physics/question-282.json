@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-282",
+    "q": {
+      "en": "The number of metres in one kilometre is:",
+      "as": "এক কিল'মিটাৰত কিমান মিটাৰ থাকে?"
+    },
+    "options": [
+      {
+        "en": "1000",
+        "as": "১০০০"
+      },
+      {
+        "en": "100",
+        "as": "১০০"
+      },
+      {
+        "en": "10000",
+        "as": "১০০০০"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "1 km = 1000 m, a standard SI conversion.",
+      "as": "১ কি.মি. = ১০০০ মি., এটা প্ৰামাণিক SI ৰূপান্তৰ।"
+    }
+  }
+]

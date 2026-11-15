@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-280",
+    "q": {
+      "en": "The prefix 'micro' represents a factor of:",
+      "as": "উপসৰ্গ 'মাইক্ৰ' য়ে কিমান গুণক সূচায়?"
+    },
+    "options": [
+      {
+        "en": "10⁻⁹",
+        "as": "১০⁻৯"
+      },
+      {
+        "en": "10⁻³",
+        "as": "১০⁻৩"
+      },
+      {
+        "en": "10⁻⁶",
+        "as": "১০⁻৬"
+      },
+      {
+        "en": "10⁻¹²",
+        "as": "১০⁻১২"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Micro means 10⁻⁶; a micrometre is one millionth of a metre.",
+      "as": "মাইক্ৰ মানে ১০⁻৬; এক মাইক্ৰ'মিটাৰ এটা মিটাৰৰ দহ লাখ ভাগৰ এভাগ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-143",
+    "q": {
+      "en": "Ohm's law states that at constant temperature, the current through a conductor is:",
+      "as": "ওমৰ সূত্ৰই কয় যে স্থিৰ উষ্ণতাত পৰিবাহী এটাৰ মাজেৰে প্ৰৱাহ:"
+    },
+    "options": [
+      {
+        "en": "Inversely proportional to the potential difference",
+        "as": "বিভৱ ভেদৰ ব্যাস্তানুপাতিক"
+      },
+      {
+        "en": "Independent of potential difference",
+        "as": "বিভৱ ভেদৰ পৰা স্বতন্ত্ৰ"
+      },
+      {
+        "en": "Proportional to the square of potential difference",
+        "as": "বিভৱ ভেদৰ বৰ্গৰ সমানুপাতিক"
+      },
+      {
+        "en": "Directly proportional to the potential difference",
+        "as": "বিভৱ ভেদৰ সমানুপাতিক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ohm's law gives V = IR, so current is proportional to potential difference.",
+      "as": "ওমৰ সূত্ৰই V = IR দিয়ে, গতিকে প্ৰৱাহ বিভৱ ভেদৰ সমানুপাতিক।"
+    }
+  }
+]

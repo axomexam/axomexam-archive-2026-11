@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-142",
+    "q": {
+      "en": "The conventional direction of electric current is:",
+      "as": "বিদ্যুৎ প্ৰৱাহৰ প্ৰচলিত দিশটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "From negative to positive terminal",
+        "as": "ঋণাত্মকৰ পৰা ধনাত্মক টাৰ্মিনেললৈ"
+      },
+      {
+        "en": "Along the electrons",
+        "as": "ইলেক্ট্ৰনৰ দিশেৰে"
+      },
+      {
+        "en": "From positive to negative terminal",
+        "as": "ধনাত্মকৰ পৰা ঋণাত্মক টাৰ্মিনেললৈ"
+      },
+      {
+        "en": "Random",
+        "as": "অনিয়মিত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Conventionally, current flows from + to −, opposite to the electron flow.",
+      "as": "প্ৰচলিতভাৱে, প্ৰৱাহ + ৰ পৰা − লৈ যায়, ইলেক্ট্ৰনৰ প্ৰবাহৰ বিপৰীত।"
+    }
+  }
+]

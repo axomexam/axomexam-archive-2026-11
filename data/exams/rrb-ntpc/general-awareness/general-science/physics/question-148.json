@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-148",
+    "q": {
+      "en": "Resistances are connected in parallel. The equivalent resistance is:",
+      "as": "ৰোধবোৰ সমান্তৰালভাৱে সংযুক্ত কৰা হ'ল। সমতুল্য ৰোধ কিমান?"
+    },
+    "options": [
+      {
+        "en": "Less than the smallest resistance",
+        "as": "আটাইতকৈ সৰু ৰোধতকৈ কম"
+      },
+      {
+        "en": "The sum of the resistances",
+        "as": "ৰোধবোৰৰ যোগফল"
+      },
+      {
+        "en": "Greater than the largest",
+        "as": "আটাইতকৈ ডাঙৰতকৈ বেছি"
+      },
+      {
+        "en": "Equal to the largest resistance",
+        "as": "আটাইতকৈ ডাঙৰ ৰোধৰ সমান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In parallel, 1/R = 1/R₁ + 1/R₂ + …, so R is smaller than any single one.",
+      "as": "সমান্তৰালত, ১/R = ১/R₁ + ১/R₂ + … , গতিকে R যিকোনো এটাৰ পৰা সৰু।"
+    }
+  }
+]

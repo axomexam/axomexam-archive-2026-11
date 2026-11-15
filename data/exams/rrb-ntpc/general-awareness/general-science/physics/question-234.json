@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-234",
+    "q": {
+      "en": "The device used to measure wind speed is a:",
+      "as": "বায়ুৰ বেগ জোখা যন্ত্ৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Hygrometer",
+        "as": "হাইগ্ৰ'মিটাৰ"
+      },
+      {
+        "en": "Barometer",
+        "as": "বেৰ'মিটাৰ"
+      },
+      {
+        "en": "Anemometer",
+        "as": "এনিম'মিটাৰ"
+      },
+      {
+        "en": "Odometer",
+        "as": "অ'ড'মিটাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "An anemometer measures wind speed, often with rotating cups.",
+      "as": "এনিম'মিটাৰে বায়ুৰ বেগ জোখে, প্ৰায়ে ঘূৰ্ণনশীল কাপৰ সহায়ত।"
+    }
+  }
+]

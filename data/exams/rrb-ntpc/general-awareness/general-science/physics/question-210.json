@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-210",
+    "q": {
+      "en": "The phenomenon showing that electrons can behave as waves is:",
+      "as": "ইলেক্ট্ৰনবোৰে তৰংগ হিচাপে ব্যৱহাৰ কৰিব পাৰে দেখুওৱা পৰিঘটনাটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Photoelectric effect",
+        "as": "আলোক-বিদ্যুৎ প্ৰভাৱ"
+      },
+      {
+        "en": "Electron diffraction",
+        "as": "ইলেক্ট্ৰন বিবৰ্তন"
+      },
+      {
+        "en": "Thermionic emission",
+        "as": "তাপ-ইলেক্ট্ৰন নিঃসৰণ"
+      },
+      {
+        "en": "Electrolysis",
+        "as": "বিদ্যুৎ-বিশ্লেষণ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Davisson and Germer showed electron diffraction, confirming de Broglie waves.",
+      "as": "ডেভিছন আৰু জাৰ্মাৰে ইলেক্ট্ৰন বিবৰ্তন দেখুৱাই ডি ব্ৰগলি তৰংগ নিশ্চিত কৰিছিল।"
+    }
+  }
+]

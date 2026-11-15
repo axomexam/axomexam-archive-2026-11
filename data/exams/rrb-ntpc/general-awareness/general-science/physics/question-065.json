@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-065",
+    "q": {
+      "en": "During the melting of ice, the temperature of the mixture:",
+      "as": "বৰফ গলি থকা সময়ত মিশ্ৰণটোৰ উষ্ণতা:"
+    },
+    "options": [
+      {
+        "en": "Remains constant at 0 °C",
+        "as": "০ °C ত স্থিৰ থাকে"
+      },
+      {
+        "en": "Rises steadily",
+        "as": "ক্ৰমাগতভাৱে বাঢ়ে"
+      },
+      {
+        "en": "Falls steadily",
+        "as": "ক্ৰমাগতভাৱে কমে"
+      },
+      {
+        "en": "Rises then falls",
+        "as": "বাঢ়ে তাৰ পিছত কমে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The absorbed latent heat changes the state, not the temperature, so it stays at 0 °C.",
+      "as": "শোষিত লীন তাপে অৱস্থা সলনি কৰে, উষ্ণতা নহয়, গতিকে ই ০ °C ত থাকে।"
+    }
+  }
+]

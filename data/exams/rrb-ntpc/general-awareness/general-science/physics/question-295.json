@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-295",
+    "q": {
+      "en": "A vernier callipers is used to measure:",
+      "as": "ভাৰ্নিয়াৰ কেলিপাৰ্ছ কিয় জোখিবলৈ ব্যৱহৃত হয়?"
+    },
+    "options": [
+      {
+        "en": "Only temperature",
+        "as": "কেৱল উষ্ণতা"
+      },
+      {
+        "en": "Length, diameter and depth accurately",
+        "as": "দৈৰ্ঘ্য, ব্যাস আৰু গভীৰতা নিখুঁতভাৱে"
+      },
+      {
+        "en": "Only pressure",
+        "as": "কেৱল চাপ"
+      },
+      {
+        "en": "Only mass",
+        "as": "কেৱল ভৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A vernier callipers gives accurate measurements of internal and external dimensions.",
+      "as": "ভাৰ্নিয়াৰ কেলিপাৰ্ছে আভ্যন্তৰীণ আৰু বাহ্যিক মাপ নিখুঁতভাৱে দিয়ে।"
+    }
+  }
+]

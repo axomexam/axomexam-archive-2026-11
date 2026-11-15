@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-125",
+    "q": {
+      "en": "The splitting of light into its components due to tiny particles in a medium is called:",
+      "as": "মাধ্যৰ সূক্ষ্ম কণাৰ বাবে পোহৰ উপাদানত বিভাজিত হোৱাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Refraction",
+        "as": "প্ৰতিসৰণ"
+      },
+      {
+        "en": "Reflection",
+        "as": "প্ৰতিফলন"
+      },
+      {
+        "en": "Scattering",
+        "as": "বিক্ষেপণ"
+      },
+      {
+        "en": "Polarisation",
+        "as": "ধ্ৰুৱণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Scattering by air molecules makes the sky appear blue.",
+      "as": "বায়ুৰ অণুৰ বিক্ষেপণে আকাশক নীলা দেখুৱায়।"
+    }
+  }
+]

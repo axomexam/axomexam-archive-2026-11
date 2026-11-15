@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-060",
+    "q": {
+      "en": "The temperature at which water boils at normal atmospheric pressure is:",
+      "as": "সাধাৰণ বায়ুমণ্ডলীয় চাপত পানী কিমান উষ্ণতাত উতলি উঠে?"
+    },
+    "options": [
+      {
+        "en": "0 °C",
+        "as": "০ °C"
+      },
+      {
+        "en": "50 °C",
+        "as": "৫০ °C"
+      },
+      {
+        "en": "212 °C",
+        "as": "২১২ °C"
+      },
+      {
+        "en": "100 °C",
+        "as": "১০০ °C"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "At 1 atm, water boils at 100 °C (212 °F).",
+      "as": "১ atm ত পানী ১০০ °C (২১২ °F) ত উতলে।"
+    }
+  }
+]

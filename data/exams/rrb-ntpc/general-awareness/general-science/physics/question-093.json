@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-093",
+    "q": {
+      "en": "How high or low a sound appears to be is decided by its:",
+      "as": "শব্দ এটা কিমান তীক্ষ্ণ বা গভীৰ যেন লাগে সেয়া নিৰ্ধাৰণ কৰে ইয়াৰ:"
+    },
+    "options": [
+      {
+        "en": "Amplitude",
+        "as": "বিস্তাৰ"
+      },
+      {
+        "en": "Frequency",
+        "as": "কম্পনাংক"
+      },
+      {
+        "en": "Wavelength",
+        "as": "তৰংগদৈৰ্ঘ্য"
+      },
+      {
+        "en": "Speed",
+        "as": "দ্ৰুতি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A higher frequency gives a higher pitch; amplitude gives loudness.",
+      "as": "কম্পনাংক বেছি হ'লে তীক্ষ্ণতা বেছি; বিস্তাৰে প্ৰাবল্য দিয়ে।"
+    }
+  }
+]

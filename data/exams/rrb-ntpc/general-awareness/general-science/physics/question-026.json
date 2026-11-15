@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-026",
+    "q": {
+      "en": "If a body starts from rest and moves with uniform acceleration 2 m/s², its speed after 5 s is:",
+      "as": "বস্তু এটাই স্থিৰ অৱস্থাৰ পৰা ২ মি./ছে.² সুষম ত্বৰণেৰে গ'লে ৫ ছেকেণ্ডৰ পিছত ইয়াৰ দ্ৰুতি কিমান?"
+    },
+    "options": [
+      {
+        "en": "10 m/s",
+        "as": "১০ মি./ছে."
+      },
+      {
+        "en": "5 m/s",
+        "as": "৫ মি./ছে."
+      },
+      {
+        "en": "2.5 m/s",
+        "as": "২.৫ মি./ছে."
+      },
+      {
+        "en": "7 m/s",
+        "as": "৭ মি./ছে."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "v = u + at = 0 + 2 × 5 = 10 m/s.",
+      "as": "v = u + at = ০ + ২ × ৫ = ১০ মি./ছে.।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-180",
+    "q": {
+      "en": "Fleming's right-hand rule gives the direction of:",
+      "as": "ফ্লেমিঙৰ সোঁ-হাতৰ নিয়মে কিয়ৰ দিশ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Force on a conductor",
+        "as": "পৰিবাহীৰ ওপৰত বল"
+      },
+      {
+        "en": "Induced current",
+        "as": "আৱিষ্ট প্ৰৱাহ"
+      },
+      {
+        "en": "Magnetic flux",
+        "as": "চুম্বকীয় ফ্লাক্স"
+      },
+      {
+        "en": "Resistance",
+        "as": "ৰোধ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The right-hand rule relates the induced current, field and motion in a generator.",
+      "as": "সোঁ-হাতৰ নিয়মে জেনেৰেটৰত আৱিষ্ট প্ৰৱাহ, ক্ষেত্ৰ আৰু গতিৰ সম্পৰ্ক দিয়ে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-123",
+    "q": {
+      "en": "A person suffering from short-sightedness (myopia) uses spectacles with:",
+      "as": "নিকট-দৃষ্টি (মায়'পিয়া) ৰোগীয়ে ব্যৱহাৰ কৰা চশমাত থাকে:"
+    },
+    "options": [
+      {
+        "en": "Concave lens",
+        "as": "অৱতল লেন্স"
+      },
+      {
+        "en": "Convex lens",
+        "as": "উত্তল লেন্স"
+      },
+      {
+        "en": "Cylindrical lens",
+        "as": "চিলিণ্ড্ৰীয় লেন্স"
+      },
+      {
+        "en": "Bifocal lens",
+        "as": "দ্বি-ফ'কাল লেন্স"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Myopia is corrected by a concave lens, which diverges light before it reaches the eye.",
+      "as": "মায়'পিয়া অৱতল লেন্সেৰে শুধৰোৱা হয়, যি চকুত পৰাৰ আগতে পোহৰ অপসাৰিত কৰে।"
+    }
+  }
+]

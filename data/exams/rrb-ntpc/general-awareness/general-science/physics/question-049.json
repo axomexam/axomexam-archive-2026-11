@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-049",
+    "q": {
+      "en": "The universal law of gravitation was given by:",
+      "as": "মাধ্যাকৰ্ষণৰ সাৰ্বজনীন সূত্ৰ কেৱে দিছিল?"
+    },
+    "options": [
+      {
+        "en": "Galileo Galilei",
+        "as": "গেলিলিঅ' গেলিলি"
+      },
+      {
+        "en": "Isaac Newton",
+        "as": "আইজাক নিউটন"
+      },
+      {
+        "en": "Albert Einstein",
+        "as": "আলবাৰ্ট আইনষ্টাইন"
+      },
+      {
+        "en": "Johannes Kepler",
+        "as": "জ'হানেছ কেপলাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Newton stated that every pair of masses attracts with a force ∝ m₁m₂/r².",
+      "as": "নিউটনে কৈছিল যে প্ৰতিটো ভৰৰ যোৰে m₁m₂/r² ৰ সমানুপাতিক বলেৰে পৰস্পৰক আকৰ্ষণ কৰে।"
+    }
+  }
+]

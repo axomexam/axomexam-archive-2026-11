@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-293",
+    "q": {
+      "en": "The bending of a wave around the edges of an obstacle is more noticeable when the obstacle is:",
+      "as": "বাধা এটাৰ কাষৰ চাৰিওফালে তৰংগৰ বেঁকা হোৱা বেছি স্পষ্ট হয় যেতিয়া বাধাটো:"
+    },
+    "options": [
+      {
+        "en": "Very large",
+        "as": "অতি ডাঙৰ"
+      },
+      {
+        "en": "Very far",
+        "as": "অতি দূৰত"
+      },
+      {
+        "en": "Comparable to the wavelength",
+        "as": "তৰংগদৈৰ্ঘ্যৰ সৈতে তুলনীয়"
+      },
+      {
+        "en": "Transparent",
+        "as": "পাৰদৰ্শী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Diffraction is pronounced when the obstacle or slit size is comparable to the wavelength.",
+      "as": "বাধা বা ফাঁটৰ আকাৰ তৰংগদৈৰ্ঘ্যৰ সৈতে তুলনীয় হ'লে বিবৰ্তন স্পষ্ট হয়।"
+    }
+  }
+]

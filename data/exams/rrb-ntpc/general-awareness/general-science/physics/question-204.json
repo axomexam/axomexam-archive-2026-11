@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-204",
+    "q": {
+      "en": "Isotopes of an element have the same number of:",
+      "as": "মৌল এটাৰ আইছ'ট'পবোৰত একে সংখ্যা থাকে কিয়ৰ?"
+    },
+    "options": [
+      {
+        "en": "Protons but different neutrons",
+        "as": "প্ৰ'টন কিন্তু ভিন্ন নিউট্ৰন"
+      },
+      {
+        "en": "Neutrons but different protons",
+        "as": "নিউট্ৰন কিন্তু ভিন্ন প্ৰ'টন"
+      },
+      {
+        "en": "Electrons and neutrons",
+        "as": "ইলেক্ট্ৰন আৰু নিউট্ৰন"
+      },
+      {
+        "en": "Nucleons",
+        "as": "নিউক্লিয়ন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Isotopes share the atomic number but differ in mass number.",
+      "as": "আইছ'ট'পবোৰৰ পাৰমাণৱিক সংখ্যা একে কিন্তু ভৰ সংখ্যা ভিন্ন।"
+    }
+  }
+]

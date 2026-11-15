@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-104",
+    "q": {
+      "en": "Light travels in a straight line in a homogeneous medium. This is called:",
+      "as": "সুষম মাধ্যত পোহৰ সৰলৰেখাত গতি কৰে। ইয়াক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Rectilinear propagation of light",
+        "as": "পোহৰৰ সৰলৰৈখিক গতি"
+      },
+      {
+        "en": "Refraction of light",
+        "as": "পোহৰৰ প্ৰতিসৰণ"
+      },
+      {
+        "en": "Reflection of light",
+        "as": "পোহৰৰ প্ৰতিফলন"
+      },
+      {
+        "en": "Dispersion of light",
+        "as": "পোহৰৰ বিচ্ছুৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Light travels in straight lines, which is why shadows have sharp edges.",
+      "as": "পোহৰ সৰলৰেখাত যায়, সেয়ে ছাঁৰ কাষ চোকা হয়।"
+    }
+  }
+]

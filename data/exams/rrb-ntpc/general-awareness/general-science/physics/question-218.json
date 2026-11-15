@@ -1,0 +1,32 @@
+[
+  {
+    "id": "physics-218",
+    "q": {
+      "en": "The unit used to measure the mass of an atom is the:",
+      "as": "পৰমাণু এটাৰ ভৰ জোখা এককটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Kilogram",
+        "as": "কিলোগ্ৰাম"
+      },
+      {
+        "en": "Mole",
+        "as": "ম'ল"
+      },
+      {
+        "en": "Atomic mass unit",
+        "as": "পাৰমাণৱিক ভৰ একক"
+      },
+      {
+        "en": "Dalton per litre",
+        "as": "ডাল্টন প্ৰতি লিটাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The atomic mass unit (u) is about 1.66 × 10⁻²⁷ kg.",
+      "as": "পাৰমাণৱিক ভৰ একক (u) প্ৰায় ১.৬৬ × ১০⁻²৭ কি.গ্ৰা.।"
+    }
+  }
+]
