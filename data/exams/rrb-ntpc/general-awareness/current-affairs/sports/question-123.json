@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-123",
+    "q": {
+      "en": "Mirabai Chanu set a new Commonwealth Championship record in the women's 48 kg category in 2025 with a total lift of how much?",
+      "as": "মীৰাবাই চানুৱে ২০২৫ চনত মহিলাৰ ৪৮ কিলোগ্ৰাম শ্ৰেণীত কিমান মুঠ উত্তোলনৰ সৈতে নতুন কমনৱেলথ চেম্পিয়নশ্বিপ অভিলেখ স্থাপন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "185 kg",
+        "as": "১৮৫ কিলোগ্ৰাম"
+      },
+      {
+        "en": "201 kg",
+        "as": "২০১ কিলোগ্ৰাম"
+      },
+      {
+        "en": "176 kg",
+        "as": "১৭৬ কিলোগ্ৰাম"
+      },
+      {
+        "en": "193 kg",
+        "as": "১৯৩ কিলোগ্ৰাম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Mirabai Chanu lifted a record 193 kg (84 kg snatch, 109 kg clean and jerk) at the 2025 Commonwealth Weightlifting Championships.",
+      "as": "মীৰাবাই চানুৱে ২০২৫ কমনৱেলথ ভাৰোত্তোলন চেম্পিয়নশ্বিপত অভিলেখ ১৯৩ কিলোগ্ৰাম (৮৪ কিলোগ্ৰাম স্নেট, ১০৯ কিলোগ্ৰাম ক্লিন এণ্ড জাৰ্ক) উত্তোলন কৰিছিল।"
+    }
+  }
+]

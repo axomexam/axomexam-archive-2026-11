@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-140",
+    "q": {
+      "en": "How many medals did India win at the 2026 Commonwealth Games?",
+      "as": "২০২৬ কমনৱেলথ গেমছত ভাৰতে কিমান পদক জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "39",
+        "as": "৩৯"
+      },
+      {
+        "en": "61",
+        "as": "৬১"
+      },
+      {
+        "en": "26",
+        "as": "২৬"
+      },
+      {
+        "en": "45",
+        "as": "৪৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "India won 39 medals (13 gold, 17 silver, 9 bronze) at the 2026 Commonwealth Games in Glasgow.",
+      "as": "ভাৰতে গ্লাছগোত অনুষ্ঠিত ২০২৬ কমনৱেলথ গেমছত ৩৯ টা পদক (১৩ স্বৰ্ণ, ১৭ ৰূপ, ৯ ব্ৰঞ্জ) জিকিছিল।"
+    }
+  }
+]

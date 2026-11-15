@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-028",
+    "q": {
+      "en": "Which team won the Women's Premier League 2026 title?",
+      "as": "মহিলা প্ৰিমিয়াৰ লীগ ২০২৬ ৰ খিতাপ কোন দলে জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "Delhi Capitals",
+        "as": "দিল্লী কেপিটেলছ"
+      },
+      {
+        "en": "Mumbai Indians",
+        "as": "মুম্বাই ইণ্ডিয়ানছ"
+      },
+      {
+        "en": "Gujarat Giants",
+        "as": "গুজৰাট জায়েণ্টছ"
+      },
+      {
+        "en": "Royal Challengers Bengaluru",
+        "as": "ৰয়েল চেলেঞ্জাৰ্ছ বেংগালুৰু"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Royal Challengers Bengaluru won their second Women's Premier League title in 2026.",
+      "as": "ৰয়েল চেলেঞ্জাৰ্ছ বেংগালুৰুৱে ২০২৬ চনত তেওঁলোকৰ দ্বিতীয় মহিলা প্ৰিমিয়াৰ লীগ খিতাপ জিকিছিল।"
+    }
+  }
+]

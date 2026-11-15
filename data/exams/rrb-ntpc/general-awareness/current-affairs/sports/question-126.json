@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-126",
+    "q": {
+      "en": "At the 2025 World Archery Championships, India won its first-ever gold in which event?",
+      "as": "২০২৫ বিশ্ব ধনুৰ্বিদ্যা চেম্পিয়নশ্বিপত ভাৰতে কোন ইভেণ্টত তেওঁলোকৰ প্ৰথম স্বৰ্ণ জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "Women's recurve team",
+        "as": "মহিলা ৰিকাৰ্ভ দল"
+      },
+      {
+        "en": "Men's recurve individual",
+        "as": "পুৰুষ ৰিকাৰ্ভ একক"
+      },
+      {
+        "en": "Men's compound team",
+        "as": "পুৰুষ কম্পাউণ্ড দল"
+      },
+      {
+        "en": "Women's compound individual",
+        "as": "মহিলা কম্পাউণ্ড একক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "India won their first-ever World Archery Championships gold in the men's compound team event in 2025.",
+      "as": "ভাৰতে ২০২৫ চনত পুৰুষ কম্পাউণ্ড দল ইভেণ্টত তেওঁলোকৰ প্ৰথম বিশ্ব ধনুৰ্বিদ্যা চেম্পিয়নশ্বিপ স্বৰ্ণ জিকিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-129",
+    "q": {
+      "en": "Which team won the inaugural Rugby Premier League 2025 title?",
+      "as": "প্ৰথম ৰাগবী প্ৰিমিয়াৰ লীগ ২০২৫ ৰ খিতাপ কোন দলে জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "Chennai Bulls",
+        "as": "চেন্নাই বুলছ"
+      },
+      {
+        "en": "Delhi Redz",
+        "as": "দিল্লী ৰেডজ"
+      },
+      {
+        "en": "Mumbai Chargers",
+        "as": "মুম্বাই চাৰ্জাৰ্ছ"
+      },
+      {
+        "en": "Bengaluru Blasters",
+        "as": "বেংগালুৰু ব্লাষ্টাৰ্ছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chennai Bulls defeated Delhi Redz 41-0 to win the inaugural Rugby Premier League title in 2025.",
+      "as": "চেন্নাই বুলছে দিল্লী ৰেডজক ৪১-০ ত পৰাস্ত কৰি ২০২৫ চনত প্ৰথম ৰাগবী প্ৰিমিয়াৰ লীগ খিতাপ জিকিছিল।"
+    }
+  }
+]

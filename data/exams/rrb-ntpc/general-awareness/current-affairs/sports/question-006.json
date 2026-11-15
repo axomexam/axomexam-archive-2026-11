@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-006",
+    "q": {
+      "en": "The opening match of the ICC Women's Cricket World Cup 2025 was played at which Indian city?",
+      "as": "আইচিচি মহিলা ক্ৰিকেট বিশ্বকাপ ২০২৫ ৰ উদ্বোধনী খেল ভাৰতৰ কোনখন চহৰত অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Indore",
+        "as": "ইন্দোৰ"
+      },
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Visakhapatnam",
+        "as": "বিশাখাপট্টনম"
+      },
+      {
+        "en": "Navi Mumbai",
+        "as": "নৱী মুম্বাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The tournament opener between India and Sri Lanka was played at the Assam Cricket Association Stadium in Guwahati.",
+      "as": "ভাৰত আৰু শ্ৰীলংকাৰ মাজত উদ্বোধনী খেলখন গুৱাহাটীৰ অসম ক্ৰিকেট সন্থাৰ ষ্টেডিয়ামত অনুষ্ঠিত হৈছিল।"
+    }
+  }
+]

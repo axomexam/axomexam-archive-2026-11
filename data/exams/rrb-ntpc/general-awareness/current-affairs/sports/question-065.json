@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-065",
+    "q": {
+      "en": "Which country won the UEFA Women's Euro 2025 football title?",
+      "as": "উয়েফা মহিলা ইউৰ' ২০২৫ ফুটবল খিতাপ কোনখনে জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "Spain",
+        "as": "স্পেইন"
+      },
+      {
+        "en": "England",
+        "as": "ইংলেণ্ড"
+      },
+      {
+        "en": "Germany",
+        "as": "জাৰ্মানী"
+      },
+      {
+        "en": "France",
+        "as": "ফ্ৰান্স"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "England successfully defended the UEFA Women's Euro title by beating Spain in the 2025 final in Switzerland.",
+      "as": "ইংলেণ্ডে ছুইজাৰলেণ্ডত ২০২৫ ৰ ফাইনেলত স্পেইনক পৰাস্ত কৰি উয়েফা মহিলা ইউৰ' খিতাপ সফলতাৰে ৰক্ষা কৰিছিল।"
+    }
+  }
+]

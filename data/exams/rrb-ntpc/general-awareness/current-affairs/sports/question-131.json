@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-131",
+    "q": {
+      "en": "Which team won the Indian Street Premier League 2026 title?",
+      "as": "ইণ্ডিয়ান ষ্ট্ৰীট প্ৰিমিয়াৰ লীগ ২০২৬ ৰ খিতাপ কোন দলে জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "Tiigers of Kolkata",
+        "as": "টাইগাৰ্ছ অৱ কলকাতা"
+      },
+      {
+        "en": "Mumbai Marines",
+        "as": "মুম্বাই মেৰিনছ"
+      },
+      {
+        "en": "Delhi Dhurandhars",
+        "as": "দিল্লী ধুৰন্ধৰ্ছ"
+      },
+      {
+        "en": "Chennai Singams",
+        "as": "চেন্নাই ছিংগামছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Chennai Singams defeated Tiigers of Kolkata to win the Indian Street Premier League 2026 title.",
+      "as": "চেন্নাই ছিংগামছে টাইগাৰ্ছ অৱ কলকাতাক পৰাস্ত কৰি ইণ্ডিয়ান ষ্ট্ৰীট প্ৰিমিয়াৰ লীগ ২০২৬ ৰ খিতাপ জিকিছিল।"
+    }
+  }
+]

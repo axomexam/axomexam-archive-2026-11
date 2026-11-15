@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-117",
+    "q": {
+      "en": "Which team won the UEFA Champions League 2024-25 title?",
+      "as": "উয়েফা চেম্পিয়নছ লীগ ২০২৪-২৫ ৰ খিতাপ কোন দলে জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "Inter Milan",
+        "as": "ইণ্টাৰ মিলান"
+      },
+      {
+        "en": "Arsenal",
+        "as": "আৰ্চেনেল"
+      },
+      {
+        "en": "Paris Saint-Germain",
+        "as": "পেৰিছ ছেইণ্ট-জাৰ্মেইন"
+      },
+      {
+        "en": "Barcelona",
+        "as": "বাৰ্চিলোনা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Paris Saint-Germain won their maiden UEFA Champions League title in the 2024-25 season.",
+      "as": "পেৰিছ ছেইণ্ট-জাৰ্মেইনে ২০২৪-২৫ শিতানত তেওঁলোকৰ প্ৰথম উয়েফা চেম্পিয়নছ লীগ খিতাপ জিকিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-157",
+    "q": {
+      "en": "How many medal events were contested at the 2026 Winter Olympics?",
+      "as": "২০২৬ শীতকালীন অলিম্পিকত কিমানটা পদক ইভেণ্ট অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "109",
+        "as": "১০৯"
+      },
+      {
+        "en": "128",
+        "as": "১২৮"
+      },
+      {
+        "en": "116",
+        "as": "১১৬"
+      },
+      {
+        "en": "99",
+        "as": "৯৯"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The 2026 Winter Olympics featured 116 medal events across 16 disciplines, seven more than at Beijing 2022.",
+      "as": "২০২৬ শীতকালীন অলিম্পিকত ১৬ টা শিতানত ১১৬ টা পদক ইভেণ্ট আছিল, বেইজিং ২০২২ তকৈ সাতটা বেছি।"
+    }
+  }
+]

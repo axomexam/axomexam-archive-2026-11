@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-062",
+    "q": {
+      "en": "Spain won the 2026 FIFA World Cup title for which time in its history?",
+      "as": "স্পেইনে ইতিহাসত কিমানবাৰ ফিফা বিশ্বকাপ খিতাপ জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "Argentina",
+        "as": "আৰ্জেণ্টিনা"
+      },
+      {
+        "en": "Spain",
+        "as": "স্পেইন"
+      },
+      {
+        "en": "France",
+        "as": "ফ্ৰান্স"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Spain won the 2026 FIFA World Cup for the second time, in the final held on 19 July 2026.",
+      "as": "স্পেইনে ২০২৬ চনৰ ১৯ জুলাইত অনুষ্ঠিত ফাইনেলত দ্বিতীয়বাৰৰ বাবে ফিফা বিশ্বকাপ জিকিছিল।"
+    }
+  }
+]

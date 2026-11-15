@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-144",
+    "q": {
+      "en": "How many gold medals did India win at the 2026 Asian Games?",
+      "as": "২০২৬ এছিয়ান গেমছত ভাৰতে কিমান স্বৰ্ণ পদক জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "13",
+        "as": "১৩"
+      },
+      {
+        "en": "30",
+        "as": "৩০"
+      },
+      {
+        "en": "27",
+        "as": "২৭"
+      },
+      {
+        "en": "21",
+        "as": "২১"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "India won 21 gold medals at the 2026 Asian Games.",
+      "as": "ভাৰতে ২০২৬ এছিয়ান গেমছত ২১ টা স্বৰ্ণ পদক জিকিছিল।"
+    }
+  }
+]

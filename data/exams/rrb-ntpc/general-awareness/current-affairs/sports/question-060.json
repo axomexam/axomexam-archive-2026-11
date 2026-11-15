@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-060",
+    "q": {
+      "en": "Which country hosted the expanded 2025 FIFA Club World Cup?",
+      "as": "সম্প্ৰসাৰিত ২০২৫ ফিফা ক্লাব বিশ্বকাপ কোনখনে আয়োজন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Qatar",
+        "as": "কাটাৰ"
+      },
+      {
+        "en": "Morocco",
+        "as": "মৰক্কো"
+      },
+      {
+        "en": "United States",
+        "as": "যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The 2025 FIFA Club World Cup, the first with 32 teams, was held in the United States from 14 June to 13 July 2025.",
+      "as": "২০২৫ ফিফা ক্লাব বিশ্বকাপ, ৩২ দলৰ সৈতে প্ৰথমখন, ২০২৫ চনৰ ১৪ জুনৰপৰা ১৩ জুলাইলৈ যুক্তৰাষ্ট্ৰত অনুষ্ঠিত হৈছিল।"
+    }
+  }
+]

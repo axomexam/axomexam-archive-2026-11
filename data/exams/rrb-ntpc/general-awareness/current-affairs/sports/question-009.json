@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-009",
+    "q": {
+      "en": "Which team did Royal Challengers Bengaluru defeat to win their maiden IPL title in 2025?",
+      "as": "ৰয়েল চেলেঞ্জাৰ্ছ বেংগালুৰুৱে ২০২৫ চনত তেওঁলোকৰ প্ৰথম আইপিএল খিতাপ জিকিবলৈ কোন দলক পৰাস্ত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Punjab Kings",
+        "as": "পাঞ্জাব কিংছ"
+      },
+      {
+        "en": "Royal Challengers Bengaluru",
+        "as": "ৰয়েল চেলেঞ্জাৰ্ছ বেংগালুৰু"
+      },
+      {
+        "en": "Kolkata Knight Riders",
+        "as": "কলকাতা নাইট ৰাইডাৰ্ছ"
+      },
+      {
+        "en": "Mumbai Indians",
+        "as": "মুম্বাই ইণ্ডিয়ানছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Royal Challengers Bengaluru defeated Punjab Kings by 6 runs in the final to win their maiden IPL title in 2025.",
+      "as": "ৰয়েল চেলেঞ্জাৰ্ছ বেংগালুৰুৱে ফাইনেলত পাঞ্জাব কিংছক ৬ ৰানত পৰাস্ত কৰি ২০২৫ চনত তেওঁলোকৰ প্ৰথম আইপিএল খিতাপ জিকিছিল।"
+    }
+  }
+]

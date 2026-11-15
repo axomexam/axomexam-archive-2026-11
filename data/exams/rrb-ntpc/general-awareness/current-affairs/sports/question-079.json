@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-079",
+    "q": {
+      "en": "Which country topped the medal table at the 2025 World Athletics Championships?",
+      "as": "২০২৫ চনৰ বিশ্ব এথলেটিকছ চেম্পিয়নশ্বিপৰ পদক তালিকাত কোনখন দেশ শীৰ্ষত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Kenya",
+        "as": "কেনিয়া"
+      },
+      {
+        "en": "Jamaica",
+        "as": "জামাইকা"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      },
+      {
+        "en": "United States",
+        "as": "যুক্তৰাষ্ট্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The United States topped the medal table at the 2025 World Athletics Championships in Tokyo.",
+      "as": "যুক্তৰাষ্ট্ৰই টকিঅ'ত অনুষ্ঠিত ২০২৫ বিশ্ব এথলেটিকছ চেম্পিয়নশ্বিপৰ পদক তালিকাত শীৰ্ষত আছিল।"
+    }
+  }
+]

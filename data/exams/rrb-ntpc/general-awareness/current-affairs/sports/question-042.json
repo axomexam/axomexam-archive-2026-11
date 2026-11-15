@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-042",
+    "q": {
+      "en": "Which country topped the medal table at the 2026 Winter Paralympics?",
+      "as": "২০২৬ চনৰ শীতকালীন পেৰালিম্পিকৰ পদক তালিকাত কোনখন দেশ শীৰ্ষত আছিল?"
+    },
+    "options": [
+      {
+        "en": "United States",
+        "as": "যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "Italy",
+        "as": "ইটালী"
+      },
+      {
+        "en": "Norway",
+        "as": "নৰৱে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "China topped the 2026 Winter Paralympics medal table for the second successive time, with 15 golds and 44 medals.",
+      "as": "চীনে দ্বিতীয়বাৰ ক্ৰমাগতভাৱে ২০২৬ শীতকালীন পেৰালিম্পিকৰ পদক তালিকাত শীৰ্ষত আছিল, ১৫ স্বৰ্ণ আৰু ৪৪ পদকৰ সৈতে।"
+    }
+  }
+]

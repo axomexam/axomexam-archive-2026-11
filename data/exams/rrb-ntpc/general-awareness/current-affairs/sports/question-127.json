@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-127",
+    "q": {
+      "en": "The 2025 Asian Table Tennis Championships, hosted by India, were held in which city?",
+      "as": "ভাৰতে আয়োজন কৰা ২০২৫ এছিয়ান টেবুল টেনিছ চেম্পিয়নশ্বিপ কোনখন চহৰত অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      },
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Indore",
+        "as": "ইন্দোৰ"
+      },
+      {
+        "en": "Bhubaneswar",
+        "as": "ভুৱনেশ্বৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "India hosted the 2025 Asian Table Tennis Championships in Bhubaneswar, Odisha.",
+      "as": "ভাৰতে ওড়িশাৰ ভুৱনেশ্বৰত ২০২৫ এছিয়ান টেবুল টেনিস চেম্পিয়নশ্বিপ আয়োজন কৰিছিল।"
+    }
+  }
+]

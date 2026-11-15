@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-010",
+    "q": {
+      "en": "In IPL 2025, which Gujarat Titans batsman won the Orange Cap with 759 runs?",
+      "as": "আইপিএল ২০২৫ ত কোনজন গুজৰাট টাইটানছৰ বেটছমেনে ৭৫৯ ৰানৰ সৈতে অৰেঞ্জ কেপ জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "Virat Kohli",
+        "as": "বিৰাট ক'হলি"
+      },
+      {
+        "en": "Shubman Gill",
+        "as": "শুভমান গিল"
+      },
+      {
+        "en": "Sai Sudharsan",
+        "as": "সাই সুধৰ্শন"
+      },
+      {
+        "en": "Ruturaj Gaikwad",
+        "as": "ৰুতুৰাজ গায়কোৱাড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sai Sudharsan of Gujarat Titans scored 759 runs to win the Orange Cap in IPL 2025.",
+      "as": "গুজৰাট টাইটানছৰ সাই সুধৰ্শনে ৭৫৯ ৰান কৰি আইপিএল ২০২৫ ত অৰেঞ্জ কেপ জিকিছিল।"
+    }
+  }
+]

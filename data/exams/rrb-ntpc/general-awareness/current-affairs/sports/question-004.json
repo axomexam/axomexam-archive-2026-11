@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-004",
+    "q": {
+      "en": "Which team made its debut appearance in the ICC Champions Trophy 2025?",
+      "as": "কোন দলে আইচিচি চেম্পিয়নছ ট্ৰফি ২০২৫ ত প্ৰথমবাৰৰ বাবে অংশগ্ৰহণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Nepal",
+        "as": "নেপাল"
+      },
+      {
+        "en": "Scotland",
+        "as": "স্কটলেণ্ড"
+      },
+      {
+        "en": "Afghanistan",
+        "as": "আফগানিস্তান"
+      },
+      {
+        "en": "Zimbabwe",
+        "as": "জিম্বাবুৱে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Afghanistan made its debut in the ICC Champions Trophy in the 2025 edition.",
+      "as": "আফগানিস্তানে ২০২৫ সংস্কৰণত আইচিচি চেম্পিয়নছ ট্ৰফিত প্ৰথমবাৰৰ বাবে অংশগ্ৰহণ কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-125",
+    "q": {
+      "en": "Where were the 2025 World Archery Championships held?",
+      "as": "২০২৫ বিশ্ব ধনুৰ্বিদ্যা চেম্পিয়নশ্বিপ ক'ত অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Yankton, USA",
+        "as": "য়াংকটন, আমেৰিকা"
+      },
+      {
+        "en": "Berlin, Germany",
+        "as": "বাৰ্লিন, জাৰ্মানী"
+      },
+      {
+        "en": "Medellín, Colombia",
+        "as": "মেডেলিন, কলম্বিয়া"
+      },
+      {
+        "en": "Gwangju, South Korea",
+        "as": "গ্ৱাংজু, দক্ষিণ কোৰিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The 2025 World Archery Championships were held in Gwangju, South Korea, where India won its first-ever men's compound team gold.",
+      "as": "২০২৫ বিশ্ব ধনুৰ্বিদ্যা চেম্পিয়নশ্বিপ দক্ষিণ কোৰিয়াৰ গ্ৱাংজুত অনুষ্ঠিত হৈছিল, য'ত ভাৰতে তেওঁলোকৰ প্ৰথম পুৰুষ কম্পাউণ্ড দল স্বৰ্ণ জিকিছিল।"
+    }
+  }
+]

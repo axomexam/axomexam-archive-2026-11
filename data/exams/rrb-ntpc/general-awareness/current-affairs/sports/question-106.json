@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-106",
+    "q": {
+      "en": "The Ballon d'Or award, presented annually to the best footballer, is given by which publication?",
+      "as": "বছৰি শ্ৰেষ্ঠ ফুটবলাৰক দিয়া বলন ডি'অৰ বঁটা কোনটো প্ৰকাশনে প্ৰদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "FIFA",
+        "as": "ফিফা"
+      },
+      {
+        "en": "UEFA",
+        "as": "উয়েফা"
+      },
+      {
+        "en": "France Football",
+        "as": "ফ্ৰান্স ফুটবল"
+      },
+      {
+        "en": "L'Équipe",
+        "as": "ল'ইকুইপ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ballon d'Or has been presented by the French magazine France Football since 1956.",
+      "as": "বলন ডি'অৰ ফ্ৰান্সৰ আলোচনী ফ্ৰান্স ফুটবলে ১৯৫৬ চনৰপৰা প্ৰদান কৰি আহিছে।"
+    }
+  }
+]

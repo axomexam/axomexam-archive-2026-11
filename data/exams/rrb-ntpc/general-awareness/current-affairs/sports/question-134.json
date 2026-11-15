@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-134",
+    "q": {
+      "en": "Where were the 2026 Asian Beach Games held?",
+      "as": "২০২৬ এছিয়ান বিচ গেমছ ক'ত অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Bali, Indonesia",
+        "as": "বালি, ইণ্ডোনেছিয়া"
+      },
+      {
+        "en": "Da Nang, Vietnam",
+        "as": "ডা নাং, ভিয়েটনাম"
+      },
+      {
+        "en": "Phuket, Thailand",
+        "as": "ফুকেট, থাইলেণ্ড"
+      },
+      {
+        "en": "Sanya, China",
+        "as": "ছানয়া, চীন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The 2026 Asian Beach Games were held in Sanya, China, where India won six medals.",
+      "as": "২০২৬ এছিয়ান বিচ গেমছ চীনৰ ছানয়াত অনুষ্ঠিত হৈছিল, য'ত ভাৰতে ছয়টা পদক জিকিছিল।"
+    }
+  }
+]

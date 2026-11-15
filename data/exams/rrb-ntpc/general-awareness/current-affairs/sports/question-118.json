@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-118",
+    "q": {
+      "en": "Where were the 2025 World Aquatics Championships held?",
+      "as": "২০২৫ চনৰ বিশ্ব জলজ ক্ৰীড়া চেম্পিয়নশ্বিপ ক'ত অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Fukuoka, Japan",
+        "as": "ফুকুৱ'কা, জাপান"
+      },
+      {
+        "en": "Singapore",
+        "as": "ছিংগাপুৰ"
+      },
+      {
+        "en": "Budapest, Hungary",
+        "as": "বুডাপেষ্ট, হাংগেৰী"
+      },
+      {
+        "en": "Doha, Qatar",
+        "as": "দোহা, কাটাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The 2025 World Aquatics Championships were held in Singapore from 11 July to 3 August 2025.",
+      "as": "২০২৫ বিশ্ব জলজ ক্ৰীড়া চেম্পিয়নশ্বিপ ২০২৫ চনৰ ১১ জুলাইৰপৰা ৩ আগষ্টলৈ ছিংগাপুৰত অনুষ্ঠিত হৈছিল।"
+    }
+  }
+]

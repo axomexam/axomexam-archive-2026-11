@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-036",
+    "q": {
+      "en": "Which country topped the medal table at the 2026 Winter Olympics?",
+      "as": "২০২৬ চনৰ শীতকালীন অলিম্পিকৰ পদক তালিকাত কোনখন দেশ শীৰ্ষত আছিল?"
+    },
+    "options": [
+      {
+        "en": "United States",
+        "as": "যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Norway",
+        "as": "নৰৱে"
+      },
+      {
+        "en": "Italy",
+        "as": "ইটালী"
+      },
+      {
+        "en": "Germany",
+        "as": "জাৰ্মানী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Norway topped the 2026 Winter Olympics medal table for the fourth successive time, with 18 golds and 41 medals overall.",
+      "as": "নৰৱে চতুৰ্থবাৰ ক্ৰমাগতভাৱে ২০২৬ শীতকালীন অলিম্পিকৰ পদক তালিকাত শীৰ্ষত আছিল, ১৮ স্বৰ্ণ আৰু মুঠ ৪১ পদকৰ সৈতে।"
+    }
+  }
+]

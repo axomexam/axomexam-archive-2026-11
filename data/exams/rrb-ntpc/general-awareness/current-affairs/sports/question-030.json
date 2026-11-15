@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-030",
+    "q": {
+      "en": "Which team won its maiden Vijay Hazare Trophy title in 2026?",
+      "as": "২০২৬ চনত কোন দলে তেওঁলোকৰ প্ৰথম বিজয় হাজাৰে ট্ৰফি খিতাপ জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "Vidarbha",
+        "as": "বিদৰ্ভ"
+      },
+      {
+        "en": "Saurashtra",
+        "as": "সৌৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Delhi",
+        "as": "দিল্লী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vidarbha defeated Saurashtra by 38 runs to win their maiden Vijay Hazare Trophy title.",
+      "as": "বিদৰ্ভই সৌৰাষ্ট্ৰক ৩৮ ৰানত পৰাস্ত কৰি তেওঁলোকৰ প্ৰথম বিজয় হাজাৰে ট্ৰফি খিতাপ জিকিছিল।"
+    }
+  }
+]

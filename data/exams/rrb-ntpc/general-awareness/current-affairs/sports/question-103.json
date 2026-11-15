@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-103",
+    "q": {
+      "en": "How many Grands Prix were held in the 2025 Formula One World Championship?",
+      "as": "২০২৫ চনৰ ফৰ্মুলা ৱান বিশ্ব চেম্পিয়নশ্বিপত কিমানখন গ্ৰেণ্ড প্ৰি অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "24",
+        "as": "২৪"
+      },
+      {
+        "en": "22",
+        "as": "২২"
+      },
+      {
+        "en": "20",
+        "as": "২০"
+      },
+      {
+        "en": "23",
+        "as": "২৩"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The 2025 Formula One season was contested over 24 Grands Prix around the world.",
+      "as": "২০২৫ ফৰ্মুলা ৱান শিতান বিশ্বজুৰি ২৪ খন গ্ৰেণ্ড প্ৰিত অনুষ্ঠিত হৈছিল।"
+    }
+  }
+]

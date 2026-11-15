@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-026",
+    "q": {
+      "en": "Which team won the ICC Men's Under-19 Cricket World Cup 2026?",
+      "as": "আইচিচি পুৰুষ অনুৰ্দ্ধ-১৯ ক্ৰিকেট বিশ্বকাপ ২০২৬ কোন দলে জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "England",
+        "as": "ইংলেণ্ড"
+      },
+      {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Pakistan",
+        "as": "পাকিস্তান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "India defeated England by 100 runs to win their sixth ICC Men's Under-19 World Cup title.",
+      "as": "ভাৰতে ইংলেণ্ডক ১০০ ৰানত পৰাস্ত কৰি তেওঁলোকৰ ষষ্ঠ আইচিচি পুৰুষ অনুৰ্দ্ধ-১৯ বিশ্বকাপ খিতাপ জিকিছিল।"
+    }
+  }
+]

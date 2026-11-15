@@ -677,3 +677,39 @@ What was done, so the next agent does not redo or undo it:
 - **`data/counts.json` is deliberately unchanged.** The book is still
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
+
+## Session record — Nov 2026 RRB NTPC Sports question bank (161 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a bilingual Sports bank to the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/current-affairs/sports/`:
+  `question-002.json` … `question-161.json` (160 new files) on top of the
+  existing `question-001.json`, for **161 questions** in the topic. Each file
+  holds one MCQ in the repo's shape — `id`, `q.{en,as}`, four
+  `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 161 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content.** Questions are written for RRB NTPC difficulty and cover 2025-26
+  sports: the ICC Champions Trophy 2025, the ICC Women's Cricket World Cup 2025
+  (hosted by India), IPL 2025, the 2025-26 Asia Cup, the 2025 World Test
+  Championship final, the 2026 Men's T20 World Cup, the 2026 Winter Olympics
+  (Milano Cortina), the 2026 Winter Paralympics, the 2026 Commonwealth Games
+  (Glasgow), the 2026 Asian Games and Asian Para Games (Aichi-Nagoya), the 2026
+  Summer Youth Olympics (Dakar), the Kho Kho World Cup 2025, the 2025 FIFA Club
+  World Cup, the 2026 FIFA World Cup, tennis Grand Slams 2025, Formula One 2025,
+  and Indian achievements across badminton, chess, athletics, hockey, wrestling
+  and shooting. Per the user's standing rule, content stays within roughly the
+  last 12 months.
+- **Answer keys** are spread over A/B/C/D — across all 161 questions the slots
+  hold 41/40/40/40, using the same deterministic sequence
+  `tools/balance-answer-keys.js` uses; `--book rrb-ntpc --topic
+  general-awareness/current-affairs/sports --check` reports 0 skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive, English and Assamese) against all other
+  question text already in `data/`; the colliding items were reworded so the
+  bank shares no stem or explanation with the existing 2024-focused sports
+  banks, the national-international-news bank, or the content pages.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-017",
+    "q": {
+      "en": "Which team did South Africa defeat in the ICC World Test Championship final 2025?",
+      "as": "আইচিচি বিশ্ব টেষ্ট চেম্পিয়নশ্বিপ ফাইনেল ২০২৫ ত দক্ষিণ আফ্ৰিকাই কোন দলক পৰাস্ত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
+      },
+      {
+        "en": "England",
+        "as": "ইংলেণ্ড"
+      },
+      {
+        "en": "New Zealand",
+        "as": "নিউজিলেণ্ড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "South Africa beat Australia in the 2025 World Test Championship final held at Lord's, London.",
+      "as": "দক্ষিণ আফ্ৰিকাই লণ্ডনৰ লৰ্ডছত অনুষ্ঠিত ২০২৫ বিশ্ব টেষ্ট চেম্পিয়নশ্বিপ ফাইনেলত অষ্ট্ৰেলিয়াক পৰাস্ত কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-120",
+    "q": {
+      "en": "Where were the 2025 World Games for non-Olympic sports held?",
+      "as": "অলিম্পিক বহিৰ্ভূত ক্ৰীড়াৰ ২০২৫ বিশ্ব ক্ৰীড়া সমাৰোহ ক'ত অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Chengdu, China",
+        "as": "ছেংডু, চীন"
+      },
+      {
+        "en": "Birmingham, USA",
+        "as": "বাৰ্মিংহাম, আমেৰিকা"
+      },
+      {
+        "en": "Wrocław, Poland",
+        "as": "ৱ্ৰ'ক্লাভ, প'লেণ্ড"
+      },
+      {
+        "en": "Cali, Colombia",
+        "as": "কালি, কলম্বিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The 2025 World Games were held in Chengdu, China, where India won three medals.",
+      "as": "২০২৫ বিশ্ব ক্ৰীড়া সমাৰোহ চীনৰ ছেংডুত অনুষ্ঠিত হৈছিল, য'ত ভাৰতে তিনিটা পদক জিকিছিল।"
+    }
+  }
+]

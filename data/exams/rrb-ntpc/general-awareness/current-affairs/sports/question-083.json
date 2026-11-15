@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-083",
+    "q": {
+      "en": "Which team did India defeat in the final to win the 2025 Men's Hockey Asia Cup?",
+      "as": "২০২৫ পুৰুষ হকী এছিয়া কাপ জিকিবলৈ ভাৰতে ফাইনেলত কোন দলক পৰাস্ত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Malaysia",
+        "as": "মালয়েছিয়া"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "South Korea",
+        "as": "দক্ষিণ কোৰিয়া"
+      },
+      {
+        "en": "Pakistan",
+        "as": "পাকিস্তান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "India defeated South Korea in the final to win their fourth Men's Hockey Asia Cup title.",
+      "as": "ভাৰতে ফাইনেলত দক্ষিণ কোৰিয়াক পৰাস্ত কৰি তেওঁলোকৰ চতুৰ্থ পুৰুষ হকী এছিয়া কাপ খিতাপ জিকিছিল।"
+    }
+  }
+]

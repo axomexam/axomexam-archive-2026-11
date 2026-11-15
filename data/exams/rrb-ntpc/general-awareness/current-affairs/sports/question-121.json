@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-121",
+    "q": {
+      "en": "Where were the 2025 Summer Deaflympics held?",
+      "as": "২০২৫ গ্ৰীষ্মকালীন ডেফলিম্পিক ক'ত অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "São Paulo",
+        "as": "ছাও পাওল'"
+      },
+      {
+        "en": "Samsun",
+        "as": "ছামছুন"
+      },
+      {
+        "en": "Caxias do Sul",
+        "as": "কাক্সিয়াছ ডু ছুল"
+      },
+      {
+        "en": "Tokyo",
+        "as": "টকিঅ'"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The 2025 Summer Deaflympics were held in Tokyo, Japan.",
+      "as": "২০২৫ গ্ৰীষ্মকালীন ডেফলিম্পিক জাপানৰ টকিঅ'ত অনুষ্ঠিত হৈছিল।"
+    }
+  }
+]

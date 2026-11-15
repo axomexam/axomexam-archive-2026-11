@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sports-029",
+    "q": {
+      "en": "Which team won its maiden Ranji Trophy title in 2026?",
+      "as": "২০২৬ চনত কোন দলে তেওঁলোকৰ প্ৰথম ৰঞ্জি ট্ৰফি খিতাপ জিকিছিল?"
+    },
+    "options": [
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Jammu and Kashmir",
+        "as": "জম্মু আৰু কাশ্মীৰ"
+      },
+      {
+        "en": "Vidarbha",
+        "as": "বিদৰ্ভ"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Jammu and Kashmir defeated Karnataka to win their maiden Ranji Trophy title in 2026.",
+      "as": "জম্মু আৰু কাশ্মীৰে কৰ্ণাটকক পৰাস্ত কৰি ২০২৬ চনত তেওঁলোকৰ প্ৰথম ৰঞ্জি ট্ৰফি খিতাপ জিকিছিল।"
+    }
+  }
+]
