@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-080",
+    "q": {
+      "en": "Which colour-based nickname does the city of Jodhpur carry?",
+      "as": "কোন ৰঙ-ভিত্তিক ডাকনাম জোধপুৰৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Jaipur",
+        "as": "জয়পুৰ"
+      },
+      {
+        "en": "Jodhpur",
+        "as": "জোধপুৰ"
+      },
+      {
+        "en": "Jaisalmer",
+        "as": "জয়ছালমেৰ"
+      },
+      {
+        "en": "Bikaner",
+        "as": "বিকানেৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Jodhpur is known as the Blue City.",
+      "as": "জোধপুৰক নীলা চহৰ বুলি জনা যায়।"
+    }
+  }
+]

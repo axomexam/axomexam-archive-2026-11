@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-152",
+    "q": {
+      "en": "Who wrote 'Anandamath', which contains the song Vande Mataram?",
+      "as": "'আনন্দমঠ' কোনে লিখিছিল, যাৰ ভিতৰত বন্দে মাতৰম গীত আছে?"
+    },
+    "options": [
+      {
+        "en": "Rabindranath Tagore",
+        "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ"
+      },
+      {
+        "en": "Premchand",
+        "as": "প্ৰেমচন্দ"
+      },
+      {
+        "en": "Saratchandra Chatterjee",
+        "as": "শৰৎচন্দ্ৰ চট্টোপাধ্যায়"
+      },
+      {
+        "en": "Bankim Chandra Chatterjee",
+        "as": "বঙ্কিম চন্দ্ৰ চট্টোপাধ্যায়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Anandamath was written by Bankim Chandra Chatterjee.",
+      "as": "আনন্দমঠ বঙ্কিম চন্দ্ৰ চট্টোপাধ্যায়ে লিখিছিল।"
+    }
+  }
+]

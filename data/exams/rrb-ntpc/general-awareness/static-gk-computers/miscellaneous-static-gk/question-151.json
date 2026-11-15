@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-151",
+    "q": {
+      "en": "Who is the author of the novel 'Godan'?",
+      "as": "উপন্যাস 'গোদান' ৰ লেখক কোন?"
+    },
+    "options": [
+      {
+        "en": "Rabindranath Tagore",
+        "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ"
+      },
+      {
+        "en": "Premchand",
+        "as": "প্ৰেমচন্দ"
+      },
+      {
+        "en": "Bankim Chandra Chatterjee",
+        "as": "বঙ্কিম চন্দ্ৰ চট্টোপাধ্যায়"
+      },
+      {
+        "en": "Mulk Raj Anand",
+        "as": "মুল্ক ৰাজ আনন্দ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Godan was written by Premchand.",
+      "as": "গোদান প্ৰেমচন্দে লিখিছিল।"
+    }
+  }
+]

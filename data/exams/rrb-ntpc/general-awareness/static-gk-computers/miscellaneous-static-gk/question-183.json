@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-183",
+    "q": {
+      "en": "Who wrote 'Meghdoot', a famous Sanskrit poem?",
+      "as": "বিখ্যাত সংস্কৃত কবিতা 'মেঘদূত' কোনে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Bharavi",
+        "as": "ভাৰবি"
+      },
+      {
+        "en": "Banabhatta",
+        "as": "বাণভট্ট"
+      },
+      {
+        "en": "Kalidasa",
+        "as": "কালিদাস"
+      },
+      {
+        "en": "Jayadeva",
+        "as": "জয়দেৱ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Meghdoot was written by Kalidasa.",
+      "as": "মেঘদূত কালিদাসে লিখিছিল।"
+    }
+  }
+]

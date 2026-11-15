@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-100",
+    "q": {
+      "en": "The International Monetary Fund has its headquarters in which city?",
+      "as": "আন্তৰ্জাতিক মুদ্ৰা নিধিৰ কেন্দ্ৰীয় কাৰ্যালয় কোন চহৰত আছে?"
+    },
+    "options": [
+      {
+        "en": "Washington, D.C.",
+        "as": "ৱাশিংটন, ডি.চি."
+      },
+      {
+        "en": "New York",
+        "as": "নিউ য়ৰ্ক"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "London",
+        "as": "লণ্ডন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The International Monetary Fund is headquartered in Washington, D.C.",
+      "as": "আন্তৰ্জাতিক মুদ্ৰা নিধিৰ মুখ্য কাৰ্যালয়টো ৱাশিংটন, ডি.চি.ত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-099",
+    "q": {
+      "en": "In which city does the World Health Organization have its headquarters?",
+      "as": "বিশ্ব স্বাস্থ্য সংস্থাৰ কেন্দ্ৰীয় কাৰ্যালয় কোন চহৰত আছে?"
+    },
+    "options": [
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "New York",
+        "as": "নিউ য়ৰ্ক"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Rome",
+        "as": "ৰোম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The World Health Organization has its headquarters in Geneva.",
+      "as": "বিশ্ব স্বাস্থ্য সংস্থাৰ মুখ্য কাৰ্যালয়ৰ স্থান জেনেভা।"
+    }
+  }
+]

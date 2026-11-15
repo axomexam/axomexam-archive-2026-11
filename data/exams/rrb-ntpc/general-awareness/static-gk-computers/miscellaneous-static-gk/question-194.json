@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-194",
+    "q": {
+      "en": "Who wrote the book 'The Jungle Book'?",
+      "as": "'দ্য জংগল বুক' কিতাপখন কোনে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "R. K. Narayan",
+        "as": "আৰ. কে. নাৰায়ণ"
+      },
+      {
+        "en": "Rudyard Kipling",
+        "as": "ৰাডয়াৰ্ড কিপলিং"
+      },
+      {
+        "en": "Mark Twain",
+        "as": "মাৰ্ক টোৱেইন"
+      },
+      {
+        "en": "Charles Dickens",
+        "as": "চাৰ্লছ ডিকেন্স"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Jungle Book was written by Rudyard Kipling.",
+      "as": "দ্য জংগল বুক ৰাডয়াৰ্ড কিপলিঙে লিখিছিল।"
+    }
+  }
+]

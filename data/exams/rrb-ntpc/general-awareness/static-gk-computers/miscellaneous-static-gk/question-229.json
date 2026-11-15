@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-229",
+    "q": {
+      "en": "At what temperature does water boil at sea level?",
+      "as": "সমুদ্ৰপৃষ্ঠত পানী কিমান ডিগ্ৰীত উতলে?"
+    },
+    "options": [
+      {
+        "en": "90 degrees Celsius",
+        "as": "৯০ ডিগ্ৰী ছেলছিয়াছ"
+      },
+      {
+        "en": "100 degrees Celsius",
+        "as": "১০০ ডিগ্ৰী ছেলছিয়াছ"
+      },
+      {
+        "en": "110 degrees Celsius",
+        "as": "১১০ ডিগ্ৰী ছেলছিয়াছ"
+      },
+      {
+        "en": "80 degrees Celsius",
+        "as": "৮০ ডিগ্ৰী ছেলছিয়াছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "At sea level water boils at 100 degrees Celsius.",
+      "as": "১০০ ডিগ্ৰী ছেলছিয়াছ উষ্ণতাত পানী উতলে (সমুদ্ৰপৃষ্ঠত)।"
+    }
+  }
+]

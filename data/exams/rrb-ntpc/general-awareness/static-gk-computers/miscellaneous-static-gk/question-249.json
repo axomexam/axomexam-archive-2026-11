@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-249",
+    "q": {
+      "en": "What pH reading does pure water show?",
+      "as": "শুদ্ধ পানীয়ে কিমান pH মান দেখুৱায়?"
+    },
+    "options": [
+      {
+        "en": "0",
+        "as": "০"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "14",
+        "as": "১৪"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Pure water shows a neutral pH reading of 7.",
+      "as": "শুদ্ধ পানীয়ে ৭ ৰ নিৰপেক্ষ pH মান দেখুৱায়।"
+    }
+  }
+]

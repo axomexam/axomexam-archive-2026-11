@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-056",
+    "q": {
+      "en": "Name the largest desert on Earth.",
+      "as": "পৃথিৱীৰ আটাইতকৈ ডাঙৰ মৰুভূমিৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Thar",
+        "as": "থাৰ"
+      },
+      {
+        "en": "Sahara",
+        "as": "ছাহাৰা"
+      },
+      {
+        "en": "Gobi",
+        "as": "গোবি"
+      },
+      {
+        "en": "Kalahari",
+        "as": "কালাহাৰী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The largest hot desert is the Sahara.",
+      "as": "আটাইতকৈ ডাঙৰ উষ্ণ মৰুভূমি হ'ল ছাহাৰা।"
+    }
+  }
+]

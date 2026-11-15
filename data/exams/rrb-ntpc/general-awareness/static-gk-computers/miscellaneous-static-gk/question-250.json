@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-250",
+    "q": {
+      "en": "Which is the lightest element in the periodic table?",
+      "as": "পিৰিয়ডিক টেবুলৰ আটাইতকৈ পাতল মৌল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰ'জেন"
+      },
+      {
+        "en": "Helium",
+        "as": "হিলিয়াম"
+      },
+      {
+        "en": "Lithium",
+        "as": "লিথিয়াম"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hydrogen is the lightest element in the periodic table.",
+      "as": "হাইড্ৰ'জেন পিৰিয়ডিক টেবুলৰ আটাইতকৈ পাতল মৌল।"
+    }
+  }
+]

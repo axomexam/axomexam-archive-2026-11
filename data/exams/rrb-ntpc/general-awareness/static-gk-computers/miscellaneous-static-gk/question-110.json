@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-110",
+    "q": {
+      "en": "The Securities and Exchange Board of India is headquartered in which city?",
+      "as": "ভাৰতীয় ছিকিউৰিটিজ এণ্ড এক্সচেঞ্জ ব'ৰ্ডৰ মুখ্য কাৰ্যালয় কোন চহৰত?"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Ahmedabad",
+        "as": "আহমেদাবাদ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "SEBI is headquartered in Mumbai.",
+      "as": "মুম্বাই হ'ল ছেবিৰ মুখ্য কাৰ্যালয়ৰ স্থান।"
+    }
+  }
+]

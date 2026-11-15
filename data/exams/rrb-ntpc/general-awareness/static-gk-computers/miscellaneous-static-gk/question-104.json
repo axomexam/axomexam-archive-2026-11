@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-104",
+    "q": {
+      "en": "Where is the World Trade Organization's headquarters situated?",
+      "as": "বিশ্ব বাণিজ্য সংস্থাৰ মুখ্য কাৰ্যালয় কোন চহৰত?"
+    },
+    "options": [
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "New York",
+        "as": "নিউ য়ৰ্ক"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Brussels",
+        "as": "ব্ৰাছেলছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The World Trade Organization is headquartered in Geneva.",
+      "as": "জেনেভাত আছে বিশ্ব বাণিজ্য সংস্থাৰ মুখ্য কাৰ্যালয়।"
+    }
+  }
+]

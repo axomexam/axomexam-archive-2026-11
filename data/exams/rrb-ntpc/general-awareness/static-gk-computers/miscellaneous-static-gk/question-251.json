@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-251",
+    "q": {
+      "en": "Name the metal found in the greatest quantity in the crust of the Earth.",
+      "as": "পৃথিৱীৰ ভূত্বকত আটাইতকৈ বেছি পৰিমাণে থকা ধাতুৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Aluminium",
+        "as": "এলুমিনিয়াম"
+      },
+      {
+        "en": "Zinc",
+        "as": "জিংক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Aluminium is the metal found in the greatest quantity in the Earth's crust.",
+      "as": "এলুমিনিয়াম পৃথিৱীৰ ভূত্বকত আটাইতকৈ বেছি পৰিমাণে থকা ধাতু।"
+    }
+  }
+]

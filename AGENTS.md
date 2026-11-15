@@ -768,3 +768,47 @@ What was done, so the next agent does not redo or undo it:
 - **`data/counts.json` is deliberately unchanged.** The book is still
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
+
+## Session record — Nov 2026 RRB NTPC Miscellaneous Static GK question bank (251 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Extended** the Miscellaneous Static GK topic of the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/static-gk-computers/miscellaneous-static-gk/`:
+  `question-002.json` … `question-251.json` (250 new files) on top of the
+  existing `question-001.json`, for **251 questions** in the topic. Each file
+  holds one MCQ in the repo's shape — `id`, `q.{en,as}`, four
+  `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 251 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty
+  and cover national symbols and their scientific names, Indian firsts and
+  superlatives (first President/Prime Minister/Governor-General/Nobel
+  laureate/Olympic medallist/Bharat Ratna recipients), world and India
+  superlatives (longest river, largest ocean/continent/island/country, deepest
+  trench, largest lake/waterfall/state/national park), monuments, city
+  nicknames, national and state awards, organisations and their headquarters,
+  important days, state symbols of Assam, wildlife projects, books and authors,
+  social reformers, inventors and discoveries, currencies, and elementary
+  science (human body, blood groups, gases, chemical symbols, vitamins,
+  deficiency diseases, acids).
+- **Answer keys** are spread over A/B/C/D — across all 251 questions the slots
+  hold 64/63/62/62; `--book rrb-ntpc --topic
+  general-awareness/static-gk-computers/miscellaneous-static-gk --check`
+  reports 0 skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive, English and Assamese) against all other
+  question text already in `data/`. This topic is built almost entirely from
+  canonical static facts, so the first pass flagged 179 questions (e.g. "the
+  national animal/bird/flower", "the first President", "currency of X",
+  "largest river/ocean", "headquarters of WHO", the important-days and
+  chemical-symbol series) as near-duplicates (difflib ratio >= 0.90) of the
+  assam-police, dhs-dme and exam-mock-set banks. A multi-pass fuzzy reword
+  brought that to **0** cross-bank and 0 internal near-duplicates. The
+  pre-existing `question-001.json` ("national animal") was itself reworded
+  because the user explicitly asked that no duplicate content remain on the
+  site; its correct option (index 0) and meaning were left unchanged. The
+  correct option and its meaning were never changed anywhere, only wording.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.

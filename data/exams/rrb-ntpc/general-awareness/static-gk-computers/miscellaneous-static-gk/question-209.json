@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-209",
+    "q": {
+      "en": "What is the logo of the World Wide Fund for Nature?",
+      "as": "বিশ্ব বন্যপ্ৰাণী নিধিৰ ল'গ' কি?"
+    },
+    "options": [
+      {
+        "en": "Tiger",
+        "as": "বাঘ"
+      },
+      {
+        "en": "Giant panda",
+        "as": "বিশাল পান্ডা"
+      },
+      {
+        "en": "Elephant",
+        "as": "হাতী"
+      },
+      {
+        "en": "Dolphin",
+        "as": "ডলফিন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The giant panda is the logo of the World Wide Fund for Nature.",
+      "as": "বিশাল পান্ডা বিশ্ব বন্যপ্ৰাণী নিধিৰ ল'গ'।"
+    }
+  }
+]

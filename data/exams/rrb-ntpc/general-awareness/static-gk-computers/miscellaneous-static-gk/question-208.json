@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-208",
+    "q": {
+      "en": "Where is the headquarters of the World Wide Fund for Nature (WWF) located?",
+      "as": "বিশ্ব বন্যপ্ৰাণী নিধিৰ (WWF) মুখ্য কাৰ্যালয় ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Geneva, Switzerland",
+        "as": "জেনেভা, ছুইজাৰলেণ্ড"
+      },
+      {
+        "en": "Gland, Switzerland",
+        "as": "গ্লাণ্ড, ছুইজাৰলেণ্ড"
+      },
+      {
+        "en": "New York, USA",
+        "as": "নিউ য়ৰ্ক, আমেৰিকা"
+      },
+      {
+        "en": "London, UK",
+        "as": "লণ্ডন, যুক্তৰাজ্য"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The World Wide Fund for Nature is headquartered at Gland in Switzerland.",
+      "as": "বিশ্ব বন্যপ্ৰাণী নিধিৰ মুখ্য কাৰ্যালয় ছুইজাৰলেণ্ডৰ গ্লাণ্ডত অৱস্থিত।"
+    }
+  }
+]

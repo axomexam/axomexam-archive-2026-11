@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-013",
+    "q": {
+      "en": "Name the composer of the anthem 'Jana Gana Mana'.",
+      "as": "'জন গণ মন' সংগীতৰ ৰচয়িতাৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Bankim Chandra Chatterjee",
+        "as": "বঙ্কিম চন্দ্ৰ চট্টোপাধ্যায়"
+      },
+      {
+        "en": "Rabindranath Tagore",
+        "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ"
+      },
+      {
+        "en": "Muhammad Iqbal",
+        "as": "মহম্মদ ইকবাল"
+      },
+      {
+        "en": "Sarojini Naidu",
+        "as": "সৰোজিনী নাইডু"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rabindranath Tagore composed Jana Gana Mana.",
+      "as": "ৰবীন্দ্ৰনাথ ঠাকুৰে জন গণ মন ৰচনা কৰিছিল।"
+    }
+  }
+]

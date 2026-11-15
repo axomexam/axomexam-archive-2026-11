@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-241",
+    "q": {
+      "en": "A shortage of which vitamin in the diet brings on night blindness?",
+      "as": "কোন ভিটামিনৰ অভাৱত ৰাতিকণা হয়?"
+    },
+    "options": [
+      {
+        "en": "Scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "Anaemia",
+        "as": "ৰক্তহীনতা"
+      },
+      {
+        "en": "Night blindness",
+        "as": "ৰাতিকণা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A shortage of Vitamin A in the diet brings on night blindness.",
+      "as": "খাদ্যত ভিটামিন এৰ অভাৱত ৰাতিকণা হয়।"
+    }
+  }
+]

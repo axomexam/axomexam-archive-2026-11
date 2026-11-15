@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-192",
+    "q": {
+      "en": "Who wrote 'Train to Pakistan'?",
+      "as": "'ট্ৰেইন টু পাকিস্তান' কোনে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "R. K. Narayan",
+        "as": "আৰ. কে. নাৰায়ণ"
+      },
+      {
+        "en": "Khushwant Singh",
+        "as": "খুশৱন্ত সিং"
+      },
+      {
+        "en": "Mulk Raj Anand",
+        "as": "মুল্ক ৰাজ আনন্দ"
+      },
+      {
+        "en": "Vikram Seth",
+        "as": "বিক্ৰম শেঠ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Train to Pakistan was written by Khushwant Singh.",
+      "as": "ট্ৰেইন টু পাকিস্তান খুশৱন্ত সিঙে লিখিছিল।"
+    }
+  }
+]

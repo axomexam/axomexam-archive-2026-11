@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-106",
+    "q": {
+      "en": "SAARC has its headquarters in which city?",
+      "as": "ছাৰ্কৰ মুখ্য কাৰ্যালয় কোন চহৰত?"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Dhaka",
+        "as": "ঢাকা"
+      },
+      {
+        "en": "Kathmandu",
+        "as": "কাঠমাণ্ডু"
+      },
+      {
+        "en": "Colombo",
+        "as": "কলম্বো"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "SAARC has its headquarters in Kathmandu, Nepal.",
+      "as": "ছাৰ্কৰ মুখ্য কাৰ্যালয় নেপালৰ কাঠমাণ্ডুত অৱস্থিত।"
+    }
+  }
+]

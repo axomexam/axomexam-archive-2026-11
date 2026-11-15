@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-227",
+    "q": {
+      "en": "Name the chemical formula of the salt used in everyday cooking.",
+      "as": "দৈনন্দিন ৰান্ধনীত ব্যৱহৃত লোণৰ ৰাসায়নিক সূত্ৰৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "KCl",
+        "as": "KCl"
+      },
+      {
+        "en": "CaCO3",
+        "as": "CaCO3"
+      },
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      },
+      {
+        "en": "NaOH",
+        "as": "NaOH"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Common table salt is sodium chloride, with the formula NaCl.",
+      "as": "খোৱা লোণ হ'ল ছডিয়াম ক্ল'ৰাইড, সূত্ৰ NaCl।"
+    }
+  }
+]

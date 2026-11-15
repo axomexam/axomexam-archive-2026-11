@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-050",
+    "q": {
+      "en": "Who was the first Indian woman to go to space aboard a US shuttle?",
+      "as": "আমেৰিকান শ্বাটলত মহাকাশলৈ যোৱা প্ৰথম ভাৰতীয় মহিলা কোন আছিল?"
+    },
+    "options": [
+      {
+        "en": "Sunita Williams",
+        "as": "ছুনিতা উইলিয়ামছ"
+      },
+      {
+        "en": "Bachendri Pal",
+        "as": "বচেন্দ্ৰী পাল"
+      },
+      {
+        "en": "Kalpana Chawla",
+        "as": "কল্পনা চাওলা"
+      },
+      {
+        "en": "Sarla Thakral",
+        "as": "সৰলা ঠাকৰাল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kalpana Chawla flew aboard the Space Shuttle Columbia in 1997.",
+      "as": "কল্পনা চাওলা ১৯৯৭ চনত স্পেছ শ্বাটল কলম্বিয়াত উৰা মাৰিছিল।"
+    }
+  }
+]

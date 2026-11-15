@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-240",
+    "q": {
+      "en": "Deficiency of which vitamin brings on rickets?",
+      "as": "কোন ভিটামিনৰ অভাৱত ৰিকেটছ হয়?"
+    },
+    "options": [
+      {
+        "en": "Scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "Beri-beri",
+        "as": "বেৰি-বেৰি"
+      },
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "Goitre",
+        "as": "গলগণ্ড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A shortage of Vitamin D in the diet brings on rickets in children.",
+      "as": "খাদ্যত ভিটামিন ডিৰ অভাৱত শিশুৰ ৰিকেটছ হয়।"
+    }
+  }
+]

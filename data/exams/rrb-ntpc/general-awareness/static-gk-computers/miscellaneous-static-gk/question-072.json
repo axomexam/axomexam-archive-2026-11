@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-072",
+    "q": {
+      "en": "Name the biggest national park in India.",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ ৰাষ্ট্ৰীয় উদ্যানখনৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Kanha National Park",
+        "as": "কানহা ৰাষ্ট্ৰীয় উদ্যান"
+      },
+      {
+        "en": "Bandipur National Park",
+        "as": "বন্দীপুৰ ৰাষ্ট্ৰীয় উদ্যান"
+      },
+      {
+        "en": "Hemis National Park",
+        "as": "হেমিছ ৰাষ্ট্ৰীয় উদ্যান"
+      },
+      {
+        "en": "Ranthambore National Park",
+        "as": "ৰণথম্বোৰ ৰাষ্ট্ৰীয় উদ্যান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Hemis National Park in Ladakh is India's biggest national park.",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ ৰাষ্ট্ৰীয় উদ্যানখন লাডাখৰ হেমিছত আছে।"
+    }
+  }
+]

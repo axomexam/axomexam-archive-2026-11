@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-168",
+    "q": {
+      "en": "Name the inventor of the telephone.",
+      "as": "টেলিফোনৰ আৱিষ্কাৰকৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Alexander Graham Bell",
+        "as": "আলেকজেণ্ডাৰ গ্ৰাহাম বেল"
+      },
+      {
+        "en": "Thomas Edison",
+        "as": "থমাছ এডিছন"
+      },
+      {
+        "en": "Guglielmo Marconi",
+        "as": "গুলিয়েলমো মাৰ্ক'নি"
+      },
+      {
+        "en": "Nikola Tesla",
+        "as": "নিক'লা টেছলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Alexander Graham Bell is the inventor of the telephone.",
+      "as": "আলেকজেণ্ডাৰ গ্ৰাহাম বেলক টেলিফোনৰ আৱিষ্কাৰক হিচাপে জনা যায়।"
+    }
+  }
+]

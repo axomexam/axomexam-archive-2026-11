@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-145",
+    "q": {
+      "en": "Name the author of the book 'Discovery of India'.",
+      "as": "'ডিস্কভাৰী অৱ ইণ্ডিয়া' কিতাপখন কাৰ লেখা?"
+    },
+    "options": [
+      {
+        "en": "Mahatma Gandhi",
+        "as": "মহাত্মা গান্ধী"
+      },
+      {
+        "en": "S. Radhakrishnan",
+        "as": "এছ. ৰাধাকৃষ্ণণ"
+      },
+      {
+        "en": "Jawaharlal Nehru",
+        "as": "জৱাহৰলাল নেহৰু"
+      },
+      {
+        "en": "Rabindranath Tagore",
+        "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Discovery of India was written by Jawaharlal Nehru.",
+      "as": "ডিস্কভাৰী অৱ ইণ্ডিয়া জৱাহৰলাল নেহৰুৱে লিখিছিল।"
+    }
+  }
+]

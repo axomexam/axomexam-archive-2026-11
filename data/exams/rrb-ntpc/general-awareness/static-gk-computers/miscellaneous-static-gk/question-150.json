@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-150",
+    "q": {
+      "en": "Who wrote the national song collection 'Gitanjali'?",
+      "as": "ৰাষ্ট্ৰীয় গীতৰ সংকলন 'গীতাঞ্জলি' কোনে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Bankim Chandra Chatterjee",
+        "as": "বঙ্কিম চন্দ্ৰ চট্টোপাধ্যায়"
+      },
+      {
+        "en": "Sarojini Naidu",
+        "as": "সৰোজিনী নাইডু"
+      },
+      {
+        "en": "Rabindranath Tagore",
+        "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ"
+      },
+      {
+        "en": "Premchand",
+        "as": "প্ৰেমচন্দ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Gitanjali was written by Rabindranath Tagore.",
+      "as": "গীতাঞ্জলি ৰবীন্দ্ৰনাথ ঠাকুৰে লিখিছিল।"
+    }
+  }
+]

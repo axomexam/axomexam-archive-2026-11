@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-111",
+    "q": {
+      "en": "Where is the headquarters of the Food and Agriculture Organization located?",
+      "as": "খাদ্য আৰু কৃষি সংস্থাৰ মুখ্য কাৰ্যালয় ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Rome",
+        "as": "ৰোম"
+      },
+      {
+        "en": "New York",
+        "as": "নিউ য়ৰ্ক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Food and Agriculture Organization is headquartered in Rome, Italy.",
+      "as": "খাদ্য আৰু কৃষি সংস্থাৰ মুখ্য কাৰ্যালয় ইটালীৰ ৰোমত অৱস্থিত।"
+    }
+  }
+]

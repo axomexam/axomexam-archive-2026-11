@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-053",
+    "q": {
+      "en": "Name the continent that covers the largest area.",
+      "as": "আটাইতকৈ বেছি কালি আগুৰি থকা মহাদেশখনৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Africa",
+        "as": "আফ্ৰিকা"
+      },
+      {
+        "en": "Asia",
+        "as": "এছিয়া"
+      },
+      {
+        "en": "Europe",
+        "as": "ইউৰোপ"
+      },
+      {
+        "en": "North America",
+        "as": "উত্তৰ আমেৰিকা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Asia is the largest continent by both area and population.",
+      "as": "কালি আৰু জনসংখ্যা দুয়োটা দিশৰ পৰা এছিয়া আটাইতকৈ ডাঙৰ মহাদেশ।"
+    }
+  }
+]

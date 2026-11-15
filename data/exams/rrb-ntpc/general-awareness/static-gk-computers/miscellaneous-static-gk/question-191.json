@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-191",
+    "q": {
+      "en": "Who wrote the novel 'Malgudi Days'?",
+      "as": "উপন্যাস 'মালগুডি ডেজ' কোনে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Mulk Raj Anand",
+        "as": "মুল্ক ৰাজ আনন্দ"
+      },
+      {
+        "en": "Raja Rao",
+        "as": "ৰাজা ৰাও"
+      },
+      {
+        "en": "Khushwant Singh",
+        "as": "খুশৱন্ত সিং"
+      },
+      {
+        "en": "R. K. Narayan",
+        "as": "আৰ. কে. নাৰায়ণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Malgudi Days was written by R. K. Narayan.",
+      "as": "মালগুডি ডেজ আৰ. কে. নাৰায়ণে লিখিছিল।"
+    }
+  }
+]

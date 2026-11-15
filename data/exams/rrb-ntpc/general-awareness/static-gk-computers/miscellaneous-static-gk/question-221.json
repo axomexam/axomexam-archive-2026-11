@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-221",
+    "q": {
+      "en": "Name the gas found in the greatest quantity in the air around the Earth.",
+      "as": "পৃথিৱীৰ চাৰিওফালৰ বায়ুত আটাইতকৈ বেছি পৰিমাণে থকা গেছৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাই-অক্সাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      },
+      {
+        "en": "Argon",
+        "as": "আৰ্গন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Nitrogen accounts for roughly 78 per cent of the air around the Earth.",
+      "as": "পৃথিৱীৰ চাৰিওফালৰ বায়ুৰ প্ৰায় ৭৮ শতাংশ নাইট্ৰ'জেন।"
+    }
+  }
+]

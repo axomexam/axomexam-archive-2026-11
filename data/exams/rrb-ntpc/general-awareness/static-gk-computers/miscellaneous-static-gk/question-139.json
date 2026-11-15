@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-139",
+    "q": {
+      "en": "The national bird of India, the peacock, belongs to which family?",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰীয় পক্ষী ময়ূৰ কোন পৰিয়ালৰ?"
+    },
+    "options": [
+      {
+        "en": "Parrot",
+        "as": "ভাটৌ জাতীয়"
+      },
+      {
+        "en": "Crow",
+        "as": "কাউৰী জাতীয়"
+      },
+      {
+        "en": "Pheasant",
+        "as": "মুৰ্গী জাতীয়"
+      },
+      {
+        "en": "Eagle",
+        "as": "ঈগল জাতীয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Indian peafowl belongs to the pheasant family.",
+      "as": "ভাৰতীয় ময়ূৰ মুৰ্গী জাতীয় পৰিয়ালৰ।"
+    }
+  }
+]

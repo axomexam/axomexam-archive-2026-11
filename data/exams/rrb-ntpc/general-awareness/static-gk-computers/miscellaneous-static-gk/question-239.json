@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-239",
+    "q": {
+      "en": "Deficiency of which vitamin brings on scurvy?",
+      "as": "খাদ্যত কোন ভিটামিনৰ অভাৱত স্কাৰ্ভি হয়?"
+    },
+    "options": [
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "Scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "Anaemia",
+        "as": "ৰক্তহীনতা"
+      },
+      {
+        "en": "Night blindness",
+        "as": "ৰাতিকণা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A shortage of Vitamin C in the diet brings on scurvy.",
+      "as": "খাদ্যত ভিটামিন চিৰ অভাৱত স্কাৰ্ভি হয়।"
+    }
+  }
+]

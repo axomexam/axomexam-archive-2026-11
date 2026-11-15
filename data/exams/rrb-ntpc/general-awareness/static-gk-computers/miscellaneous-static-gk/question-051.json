@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-051",
+    "q": {
+      "en": "Name the world's longest river.",
+      "as": "বিশ্বৰ আটাইতকৈ দীঘল নদীখনৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Amazon",
+        "as": "আমাজন"
+      },
+      {
+        "en": "Yangtze",
+        "as": "ইয়াংচি"
+      },
+      {
+        "en": "Nile",
+        "as": "নীল"
+      },
+      {
+        "en": "Mississippi",
+        "as": "মিছিছিপি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The longest river on Earth is the Nile.",
+      "as": "পৃথিৱীৰ আটাইতকৈ দীঘল নদী হ'ল নীল।"
+    }
+  }
+]

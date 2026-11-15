@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-237",
+    "q": {
+      "en": "Which deficiency causes goitre?",
+      "as": "কোন অৱস্থাৰ অভাৱত গলগণ্ড ৰোগ হয়?"
+    },
+    "options": [
+      {
+        "en": "Iodine",
+        "as": "আয়'ডিন"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Calcium",
+        "as": "কেলচিয়াম"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন চি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Deficiency of iodine causes goitre.",
+      "as": "আয়'ডিনৰ অভাৱত গলগণ্ড ৰোগ হয়।"
+    }
+  }
+]

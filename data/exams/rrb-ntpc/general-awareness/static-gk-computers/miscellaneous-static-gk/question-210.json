@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-210",
+    "q": {
+      "en": "Where is the headquarters of the International Red Cross located?",
+      "as": "আন্তৰ্জাতিক ৰেড ক্ৰছৰ মুখ্য কাৰ্যালয় ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "New York",
+        "as": "নিউ য়ৰ্ক"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Vienna",
+        "as": "ভিয়েনা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The International Committee of the Red Cross is headquartered in Geneva.",
+      "as": "আন্তৰ্জাতিক ৰেড ক্ৰছ কমিটিৰ মুখ্য কাৰ্যালয় জেনেভাত অৱস্থিত।"
+    }
+  }
+]

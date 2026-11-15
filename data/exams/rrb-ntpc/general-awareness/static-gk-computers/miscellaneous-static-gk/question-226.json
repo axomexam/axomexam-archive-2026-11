@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-226",
+    "q": {
+      "en": "What is the periodic-table symbol for sodium?",
+      "as": "ছডিয়ামৰ বাবে ব্যৱহৃত ৰাসায়নিক সংকেতৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "S",
+        "as": "S"
+      },
+      {
+        "en": "So",
+        "as": "So"
+      },
+      {
+        "en": "Sn",
+        "as": "Sn"
+      },
+      {
+        "en": "Na",
+        "as": "Na"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The chemical symbol for sodium is Na, from the Latin natrium.",
+      "as": "ছডিয়ামৰ ৰাসায়নিক সংকেত Na, লেটিন natrium ৰ পৰা।"
+    }
+  }
+]

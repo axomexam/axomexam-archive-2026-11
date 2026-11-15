@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-128",
+    "q": {
+      "en": "On what date is World Water Day marked?",
+      "as": "কোন দিনা বিশ্ব জল দিৱস পালন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "8 March",
+        "as": "৮ মাৰ্চ"
+      },
+      {
+        "en": "5 June",
+        "as": "৫ জুন"
+      },
+      {
+        "en": "1 April",
+        "as": "১ এপ্ৰিল"
+      },
+      {
+        "en": "22 March",
+        "as": "২২ মাৰ্চ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The date fixed for World Water Day is 22 March.",
+      "as": "বিশ্ব জল দিৱসৰ নিৰ্ধাৰিত তাৰিখ ২২ মাৰ্চ।"
+    }
+  }
+]

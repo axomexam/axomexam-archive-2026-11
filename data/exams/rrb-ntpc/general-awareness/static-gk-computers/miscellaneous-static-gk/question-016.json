@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-016",
+    "q": {
+      "en": "Which is the national calendar of India?",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰীয় পঞ্জিকা কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Vikram Samvat",
+        "as": "বিক্ৰম সংবৎ"
+      },
+      {
+        "en": "Gregorian calendar",
+        "as": "গ্ৰেগৰিয়ান পঞ্জিকা"
+      },
+      {
+        "en": "Saka calendar",
+        "as": "শক পঞ্জিকা"
+      },
+      {
+        "en": "Hijri calendar",
+        "as": "হিজৰী পঞ্জিকা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Saka calendar is the national calendar of India.",
+      "as": "শক পঞ্জিকা ভাৰতৰ ৰাষ্ট্ৰীয় পঞ্জিকা।"
+    }
+  }
+]

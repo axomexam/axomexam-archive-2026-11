@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-087",
+    "q": {
+      "en": "Name the city that serves as the capital of Assam.",
+      "as": "অসমৰ ৰাজধানী হিচাপে কাৰ্য কৰা চহৰখনৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Shillong",
+        "as": "শ্বিলং"
+      },
+      {
+        "en": "Dispur",
+        "as": "দিছপুৰ"
+      },
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Assam's capital is Dispur, which lies within Guwahati.",
+      "as": "অসমৰ ৰাজধানী দিছপুৰ, যি গুৱাহাটীৰ ভিতৰত অৱস্থিত।"
+    }
+  }
+]

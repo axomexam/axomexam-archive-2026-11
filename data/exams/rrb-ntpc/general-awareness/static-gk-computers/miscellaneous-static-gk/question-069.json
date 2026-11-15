@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-069",
+    "q": {
+      "en": "Which Indian state is bounded by the longest stretch of coastline?",
+      "as": "কোন ভাৰতীয় ৰাজ্যখনৰ সীমাত আটাইতকৈ দীঘল উপকূলৰেখা আছে?"
+    },
+    "options": [
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Among Indian states, Gujarat has the longest stretch of coastline.",
+      "as": "ভাৰতীয় ৰাজ্যসমূহৰ ভিতৰত দীঘলতম উপকূলৰেখা গুজৰাটৰ।"
+    }
+  }
+]

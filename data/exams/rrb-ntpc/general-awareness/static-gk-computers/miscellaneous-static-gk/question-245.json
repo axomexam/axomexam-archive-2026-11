@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-245",
+    "q": {
+      "en": "Name the acid that gives lemon its sour taste.",
+      "as": "নেমুৰ টেঙা সোৱাদৰ কাৰণ কোন এচিড?"
+    },
+    "options": [
+      {
+        "en": "Citric acid",
+        "as": "চিট্ৰিক এচিড"
+      },
+      {
+        "en": "Acetic acid",
+        "as": "এচেটিক এচিড"
+      },
+      {
+        "en": "Lactic acid",
+        "as": "লেক্টিক এচিড"
+      },
+      {
+        "en": "Sulphuric acid",
+        "as": "ছালফিউৰিক এচিড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Citric acid is present in lemons and other citrus fruits.",
+      "as": "নেমু আৰু আন চিট্ৰাছ ফলত চিট্ৰিক এচিড থাকে।"
+    }
+  }
+]

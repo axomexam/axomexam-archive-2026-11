@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-238",
+    "q": {
+      "en": "A shortage of which nutrient in the diet brings on anaemia?",
+      "as": "খাদ্যত কোন পুষ্টিৰ অভাৱত ৰক্তহীনতা হয়?"
+    },
+    "options": [
+      {
+        "en": "Scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "Beri-beri",
+        "as": "বেৰি-বেৰি"
+      },
+      {
+        "en": "Anaemia",
+        "as": "ৰক্তহীনতা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A shortage of iron in the diet brings on anaemia.",
+      "as": "খাদ্যত লোৰ অভাৱত ৰক্তহীনতা হয়।"
+    }
+  }
+]

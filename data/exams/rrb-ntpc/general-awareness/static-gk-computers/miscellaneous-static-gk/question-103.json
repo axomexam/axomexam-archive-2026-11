@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-103",
+    "q": {
+      "en": "The International Court of Justice sits in which city?",
+      "as": "আন্তৰ্জাতিক ন্যায়ালয় কোন চহৰত আছে?"
+    },
+    "options": [
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "The Hague",
+        "as": "দ্য হেগ"
+      },
+      {
+        "en": "New York",
+        "as": "নিউ য়ৰ্ক"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The International Court of Justice sits at The Hague in the Netherlands.",
+      "as": "আন্তৰ্জাতিক ন্যায়ালয় নেডাৰলেণ্ডৰ দ্য হেগত অৱস্থিত।"
+    }
+  }
+]

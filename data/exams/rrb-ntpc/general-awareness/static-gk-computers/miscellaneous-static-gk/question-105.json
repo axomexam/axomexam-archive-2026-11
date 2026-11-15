@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miscellaneous-static-gk-105",
+    "q": {
+      "en": "Where is the headquarters of the International Olympic Committee located?",
+      "as": "আন্তৰ্জাতিক অলিম্পিক কমিটিৰ মুখ্য কাৰ্যালয় কোন চহৰত?"
+    },
+    "options": [
+      {
+        "en": "Lausanne",
+        "as": "ল'জেন"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Rome",
+        "as": "ৰোম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The International Olympic Committee has its headquarters in Lausanne.",
+      "as": "আন্তৰ্জাতিক অলিম্পিক কমিটিৰ মুখ্য কাৰ্যালয় ল'জেনত আছে।"
+    }
+  }
+]
