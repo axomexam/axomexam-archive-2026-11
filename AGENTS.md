@@ -52,7 +52,19 @@ they outrank any cleanup, refactor or "nice to have" an agent might want to do.
 - **No ad code on the Assamese (`/as/`) pages.** Assamese is not a supported
   AdSense language. `tools/build-as-twins.js` strips the loader; never add it
   back to a `/as/` page. Only indexable English content pages carry the loader
-  (see the loader policy below).
+  (see the loader policy below). The Google Analytics tag (below) is a
+  separate thing and **does** go on every page, `/as/` included.
+- **Every published page carries the Google Analytics tag — `/as/` too.**
+  The site's GA4 measurement ID is `G-PBPXK2Q799`, in the `gtag.js` snippet
+  at the top of `<head>` (marker `googletagmanager.com/gtag/js`). This is
+  **analytics, not ads**, so unlike the AdSense loader it belongs on the
+  Assamese pages as well. A new page (any book, any language) is not done
+  until it carries the tag: `node scripts/inject-ga.js .` injects it into
+  every HTML file that lacks it and is idempotent (re-running reports
+  `Injected: 0`). The only pages that legitimately lack it are the "This page
+  has moved" redirect stubs, and even those should carry it so a redirect hit
+  is still counted. After adding pages, run the injector and confirm
+  `Injected: 0` / `Already present` equals the file count.
 - **Every page gets its own accurate, topic-wise SEO head.** Title,
   description, canonical, hreflang and JSON-LD must describe *that* page's
   actual topic, in the reader's language, with no clamping (`…`), no template
