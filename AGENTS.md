@@ -66,6 +66,13 @@ they outrank any cleanup, refactor or "nice to have" an agent might want to do.
 - **No broken hreflang.** Every `hreflang="as"` target must exist, and the
   pair must be reciprocal. `tools/seo-audit.js` reports a miss as
   `sitemap alt miss`; it must stay at 0.
+- **Answer keys must stay random.** In every MCQ bank the correct option must
+  be spread over A/B/C/D — never a run of one slot and never all answers in the
+  same position. A new bank is authored with the answer wherever it belongs,
+  then the options are shuffled so the key is balanced; the option that was
+  correct stays the same option, only its position changes. Check with
+  `node tools/balance-answer-keys.js --book <book> --topic <topic> --check`,
+  which must report 0 skewed topics (no slot holding >=50% of a topic's keys).
 - **Verify before shipping.** Run `node tools/seo-audit.js` and confirm
   `thin (<300w): 0`, `missing H1/desc/canonical/JSON-LD: 0`, and the duplicate
   counts above, then check the live URLs return 200 after the Pages build.
@@ -133,9 +140,11 @@ What was done, so the next agent does not redo or undo it:
   and cover cell biology, human body systems, plant biology, reproduction and
   genetics, ecology and environment, classification, nutrition and
   biomolecules, and general biology. Answer keys are spread evenly over
-  A/B/C/D (78/77/77/77) with the same deterministic sequence
-  `tools/balance-answer-keys.js` uses; `--book rrb-ntpc --topic
-  general-awareness/general-science/biology --check` reports 0 skewed topics.
+  A/B/C/D — across all 310 questions the slots hold 79/77/77/77, the longest
+  run of one slot is 5, and no slot exceeds 25.5% — using the same
+  deterministic sequence `tools/balance-answer-keys.js` uses; `--book rrb-ntpc
+  --topic general-awareness/general-science/biology --check` reports 0 skewed
+  topics.
 - **No duplicated content.** Every stem and every explanation was compared
   (case- and punctuation-insensitive) against all other question text already
   in `data/`; the 43 colliding items were reworded so the bank shares no stem
