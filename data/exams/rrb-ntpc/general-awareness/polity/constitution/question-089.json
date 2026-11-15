@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-089",
+    "q": {
+      "en": "The freedom of the press in India is derived from:",
+      "as": "ভাৰতত সংবাদপত্ৰৰ স্বাধীনতা কিয়ৰ পৰা উদ্ভৱ হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Right to life",
+        "as": "জীৱনৰ অধিকাৰ"
+      },
+      {
+        "en": "Freedom of speech and expression",
+        "as": "বাক আৰু প্ৰকাশৰ স্বাধীনতা"
+      },
+      {
+        "en": "Right to equality",
+        "as": "সমতাৰ অধিকাৰ"
+      },
+      {
+        "en": "Right to property",
+        "as": "সম্পত্তিৰ অধিকাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Under Article 19(1)(a), press freedom forms part of the freedom of speech and expression.",
+      "as": "সংবাদপত্ৰৰ স্বাধীনতা অনুচ্ছেদ ১৯(১)(ক) ৰ অধীনত বাক আৰু প্ৰকাশৰ স্বাধীনতাৰ অংশ।"
+    }
+  }
+]

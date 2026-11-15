@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-316",
+    "q": {
+      "en": "Parliament consists of the President and:",
+      "as": "সংসদ ৰাষ্ট্ৰপতি আৰু কিয়ৰে গঠিত?"
+    },
+    "options": [
+      {
+        "en": "One House",
+        "as": "এটা সদন"
+      },
+      {
+        "en": "Three Houses",
+        "as": "তিনিটা সদন"
+      },
+      {
+        "en": "Two Houses",
+        "as": "দুটা সদন"
+      },
+      {
+        "en": "Four Houses",
+        "as": "চাৰিটা সদন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Parliament consists of the President and the two Houses.",
+      "as": "সংসদ ৰাষ্ট্ৰপতি আৰু দুটা সদনৰে গঠিত।"
+    }
+  }
+]

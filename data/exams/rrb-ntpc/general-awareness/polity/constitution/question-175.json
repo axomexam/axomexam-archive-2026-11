@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-175",
+    "q": {
+      "en": "Parliament has the power to regulate the right of citizenship under:",
+      "as": "সংসদৰ নাগৰিকত্বৰ অধিকাৰ নিয়ন্ত্ৰণৰ ক্ষমতা ক'ত আছে?"
+    },
+    "options": [
+      {
+        "en": "Article 11",
+        "as": "অনুচ্ছেদ ১১"
+      },
+      {
+        "en": "Article 5",
+        "as": "অনুচ্ছেদ ৫"
+      },
+      {
+        "en": "Article 9",
+        "as": "অনুচ্ছেদ ৯"
+      },
+      {
+        "en": "Article 10",
+        "as": "অনুচ্ছেদ ১০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Parliament may regulate citizenship by law under Article 11.",
+      "as": "অনুচ্ছেদ ১১ এ সংসদক আইনৰ দ্বাৰা নাগৰিকত্ব নিয়ন্ত্ৰণৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

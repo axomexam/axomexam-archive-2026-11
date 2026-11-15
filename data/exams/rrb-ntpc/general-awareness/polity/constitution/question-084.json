@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-084",
+    "q": {
+      "en": "The freedom of speech and expression is guaranteed under:",
+      "as": "বাক আৰু প্ৰকাশৰ স্বাধীনতা ক'ত নিশ্চিত কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 19(1)(a)",
+        "as": "অনুচ্ছেদ ১৯(১)(ক)"
+      },
+      {
+        "en": "Article 19(1)(b)",
+        "as": "অনুচ্ছেদ ১৯(১)(খ)"
+      },
+      {
+        "en": "Article 21",
+        "as": "অনুচ্ছেদ ২১"
+      },
+      {
+        "en": "Article 14",
+        "as": "অনুচ্ছেদ ১৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Freedom of speech and expression is guaranteed by Article 19(1)(a).",
+      "as": "অনুচ্ছেদ ১৯(১)(ক) এ বাক আৰু প্ৰকাশৰ স্বাধীনতা নিশ্চিত কৰে।"
+    }
+  }
+]

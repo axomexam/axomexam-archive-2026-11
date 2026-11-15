@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-321",
+    "q": {
+      "en": "The maximum strength of a State Legislative Assembly is fixed at:",
+      "as": "ৰাজ্যৰ বিধানসভাৰ সৰ্বোচ্চ সদস্য সংখ্যা কিমান নিৰ্ধাৰিত?"
+    },
+    "options": [
+      {
+        "en": "250",
+        "as": "২৫০"
+      },
+      {
+        "en": "552",
+        "as": "৫৫২"
+      },
+      {
+        "en": "400",
+        "as": "৪০০"
+      },
+      {
+        "en": "500",
+        "as": "৫০০"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A State Legislative Assembly can have a maximum of 500 members.",
+      "as": "ৰাজ্যৰ বিধানসভাত সৰ্বোচ্চ ৫০০ জন সদস্য থাকিব পাৰে।"
+    }
+  }
+]

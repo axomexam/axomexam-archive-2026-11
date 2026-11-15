@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-101",
+    "q": {
+      "en": "Which practice does Article 23 of the Constitution forbid?",
+      "as": "সংবিধানৰ অনুচ্ছেদ ২৩ এ কিক নিষিদ্ধ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Untouchability",
+        "as": "অস্পৃশ্যতা"
+      },
+      {
+        "en": "Traffic in human beings and forced labour",
+        "as": "মানৱ পাচাৰ আৰু বলপূৰ্বক শ্ৰম"
+      },
+      {
+        "en": "Titles",
+        "as": "উপাধি"
+      },
+      {
+        "en": "Discrimination",
+        "as": "বৈষম্য"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 23 prohibits traffic in human beings, begar and other forms of forced labour.",
+      "as": "অনুচ্ছেদ ২৩ এ মানৱ পাচাৰ, বেগাৰ আৰু অন্য বলপূৰ্বক শ্ৰম নিষিদ্ধ কৰে।"
+    }
+  }
+]

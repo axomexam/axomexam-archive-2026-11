@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-032",
+    "q": {
+      "en": "The Constituent Assembly of India was constituted on the basis of the:",
+      "as": "ভাৰতৰ সংবিধান সভা কিয়ৰ ভিত্তিত গঠন কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Mountbatten Plan",
+        "as": "মাউণ্টবেটেন প্লেন"
+      },
+      {
+        "en": "Cripps Mission",
+        "as": "ক্ৰিপছ মিছন"
+      },
+      {
+        "en": "Cabinet Mission Plan",
+        "as": "কেবিনেট মিছন প্লেন"
+      },
+      {
+        "en": "Simon Commission",
+        "as": "চাইমন আয়োগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Constituent Assembly was set up under the Cabinet Mission Plan of 1946.",
+      "as": "১৯৪৬ চনৰ কেবিনেট মিছন প্লেনৰ অধীনত সংবিধান সভা গঠন কৰা হৈছিল।"
+    }
+  }
+]

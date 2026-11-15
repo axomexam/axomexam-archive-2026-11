@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-324",
+    "q": {
+      "en": "The Chief Election Commissioner may be removed:",
+      "as": "প্ৰধান নিৰ্বাচন আয়ুক্তক পদৰ পৰা আঁতৰাব পাৰি:"
+    },
+    "options": [
+      {
+        "en": "In the same manner as a Supreme Court judge",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়ৰ বিচাৰকৰ দৰে একে ধৰণে"
+      },
+      {
+        "en": "By the President at will",
+        "as": "ৰাষ্ট্ৰপতিৰ ইচ্ছামতে"
+      },
+      {
+        "en": "By Parliament by simple majority",
+        "as": "সংসদৰ সৰল সংখ্যাগৰিষ্ঠতাৰ দ্বাৰা"
+      },
+      {
+        "en": "By the Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰীৰ দ্বাৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Chief Election Commissioner can be removed only like a Supreme Court judge.",
+      "as": "প্ৰধান নিৰ্বাচন আয়ুক্তক কেৱল সৰ্বোচ্চ ন্যায়ালয়ৰ বিচাৰকৰ দৰে আঁতৰাব পাৰি।"
+    }
+  }
+]

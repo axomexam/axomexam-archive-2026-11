@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-267",
+    "q": {
+      "en": "The maximum strength of the Lok Sabha as per the Constitution is:",
+      "as": "সংবিধান অনুসৰি লোকসভাৰ সৰ্বোচ্চ সদস্য সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "545",
+        "as": "৫৪৫"
+      },
+      {
+        "en": "552",
+        "as": "৫৫২"
+      },
+      {
+        "en": "500",
+        "as": "৫০০"
+      },
+      {
+        "en": "600",
+        "as": "৬০০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Constitution provides for a maximum of 552 members in the Lok Sabha.",
+      "as": "সংবিধানে লোকসভাত সৰ্বোচ্চ ৫৫২ জন সদস্যৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-110",
+    "q": {
+      "en": "Article 30 of the Constitution gives minorities the right to establish and administer:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ৩০ এ সংখ্যালঘুক কিক প্ৰতিষ্ঠা আৰু পৰিচালনা কৰাৰ অধিকাৰ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Religious places",
+        "as": "ধৰ্মস্থান"
+      },
+      {
+        "en": "Businesses",
+        "as": "ব্যৱসায়"
+      },
+      {
+        "en": "Political parties",
+        "as": "ৰাজনৈতিক দল"
+      },
+      {
+        "en": "Educational institutions",
+        "as": "শিক্ষানুষ্ঠান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Minorities may establish and administer educational institutions under Article 30.",
+      "as": "অনুচ্ছেদ ৩০ এ সংখ্যালঘুক শিক্ষানুষ্ঠান প্ৰতিষ্ঠা আৰু পৰিচালনাৰ অধিকাৰ দিয়ে।"
+    }
+  }
+]

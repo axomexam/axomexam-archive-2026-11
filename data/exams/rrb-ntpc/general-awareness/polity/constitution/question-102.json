@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-102",
+    "q": {
+      "en": "Article 24 of the Constitution prohibits the employment of children below the age of:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ২৪ এ কিমান বছৰৰ তলৰ শিশুৰ নিয়োগ নিষিদ্ধ কৰে?"
+    },
+    "options": [
+      {
+        "en": "16 years",
+        "as": "১৬ বছৰ"
+      },
+      {
+        "en": "14 years",
+        "as": "১৪ বছৰ"
+      },
+      {
+        "en": "12 years",
+        "as": "১২ বছৰ"
+      },
+      {
+        "en": "18 years",
+        "as": "১৮ বছৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 24 prohibits employment of children below 14 in factories, mines and hazardous work.",
+      "as": "অনুচ্ছেদ ২৪ এ কাৰখানা, খনি আৰু বিপজ্জনক কামত ১৪ ৰ তলৰ শিশুৰ নিয়োগ নিষিদ্ধ কৰে।"
+    }
+  }
+]

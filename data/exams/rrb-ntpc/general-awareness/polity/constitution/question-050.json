@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-050",
+    "q": {
+      "en": "The Preamble secures equality of status and of:",
+      "as": "প্ৰস্তাৱনাই মৰ্যাদাৰ আৰু কিয়ৰ সমতা প্ৰদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "Income",
+        "as": "আয়"
+      },
+      {
+        "en": "Property",
+        "as": "সম্পত্তি"
+      },
+      {
+        "en": "Opportunity",
+        "as": "সুযোগ"
+      },
+      {
+        "en": "Education only",
+        "as": "কেৱল শিক্ষা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Preamble promises equality of status and of opportunity.",
+      "as": "প্ৰস্তাৱনাই মৰ্যাদা আৰু সুযোগৰ সমতাৰ প্ৰতিশ্ৰুতি দিয়ে।"
+    }
+  }
+]

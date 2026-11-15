@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-093",
+    "q": {
+      "en": "Protection against ex-post-facto law is provided under:",
+      "as": "পূৰ্ববৰ্তী আইনৰ বিৰুদ্ধে সুৰক্ষা ক'ত প্ৰদান কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 20(1)",
+        "as": "অনুচ্ছেদ ২০(১)"
+      },
+      {
+        "en": "Article 20(2)",
+        "as": "অনুচ্ছেদ ২০(২)"
+      },
+      {
+        "en": "Article 20(3)",
+        "as": "অনুচ্ছেদ ২০(৩)"
+      },
+      {
+        "en": "Article 21",
+        "as": "অনুচ্ছেদ ২১"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Article 20(1) protects against conviction under a law made after the act.",
+      "as": "অনুচ্ছেদ ২০(১) এ কাৰ্যৰ পিছত প্ৰণীত আইনৰ অধীনত দণ্ডাজ্ঞাৰ বিৰুদ্ধে সুৰক্ষা দিয়ে।"
+    }
+  }
+]

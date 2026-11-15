@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-265",
+    "q": {
+      "en": "The Prime Minister of India is appointed by the:",
+      "as": "ভাৰতৰ প্ৰধানমন্ত্ৰী কিয়ৰ দ্বাৰা নিযুক্ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "Chief Justice",
+        "as": "প্ৰধান ন্যায়াধীশ"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The President appoints the Prime Minister under Article 75.",
+      "as": "ৰাষ্ট্ৰপতিয়ে অনুচ্ছেদ ৭৫ ৰ অধীনত প্ৰধানমন্ত্ৰী নিযুক্ত কৰে।"
+    }
+  }
+]

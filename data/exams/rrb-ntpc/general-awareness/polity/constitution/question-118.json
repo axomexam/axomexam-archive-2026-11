@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-118",
+    "q": {
+      "en": "The Fundamental Rights can be suspended during a National Emergency under:",
+      "as": "ৰাষ্ট্ৰীয় আপদকালত ক'ত মৌলিক অধিকাৰ স্থগিত ৰখা যায়?"
+    },
+    "options": [
+      {
+        "en": "Article 32",
+        "as": "অনুচ্ছেদ ৩২"
+      },
+      {
+        "en": "Article 359",
+        "as": "অনুচ্ছেদ ৩৫৯"
+      },
+      {
+        "en": "Article 21",
+        "as": "অনুচ্ছেদ ২১"
+      },
+      {
+        "en": "Article 14",
+        "as": "অনুচ্ছেদ ১৪"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 359 empowers the President to suspend the enforcement of Fundamental Rights during an emergency.",
+      "as": "অনুচ্ছেদ ৩৫৯ এ ৰাষ্ট্ৰপতিক আপদকালত মৌলিক অধিকাৰ বলবৎ কৰা স্থগিত ৰখাৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

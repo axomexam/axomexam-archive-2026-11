@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-071",
+    "q": {
+      "en": "The number of Fundamental Rights guaranteed by the Indian Constitution at present is:",
+      "as": "বৰ্তমান ভাৰতীয় সংবিধানে কিমানটা মৌলিক অধিকাৰ নিশ্চিত কৰে?"
+    },
+    "options": [
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Six Fundamental Rights exist at present.",
+      "as": "বৰ্তমান ছয়টা মৌলিক অধিকাৰ আছে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-313",
+    "q": {
+      "en": "A joint sitting of both Houses of Parliament can be summoned to resolve a deadlock on a:",
+      "as": "কিয়ৰ ওপৰত গতানুগতিকতা ভাঙিবলৈ সংসদৰ দুয়োটা সদনৰ যুগ্ম অধিবেশন আহ্বান কৰিব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Money bill",
+        "as": "ধন বিল"
+      },
+      {
+        "en": "Constitution amendment bill",
+        "as": "সংবিধান সংশোধন বিল"
+      },
+      {
+        "en": "Ordinary bill",
+        "as": "সাধাৰণ বিল"
+      },
+      {
+        "en": "Financial bill",
+        "as": "বিত্তীয় বিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A joint sitting may be held to resolve a deadlock over an ordinary bill.",
+      "as": "সাধাৰণ বিলৰ ওপৰত গতানুগতিকতা ভাঙিবলৈ যুগ্ম অধিবেশন অনুষ্ঠিত কৰিব পাৰি।"
+    }
+  }
+]

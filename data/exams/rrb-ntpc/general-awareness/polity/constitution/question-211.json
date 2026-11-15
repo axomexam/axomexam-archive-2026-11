@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-211",
+    "q": {
+      "en": "The basic structure doctrine means Parliament cannot amend the Constitution to destroy its:",
+      "as": "মৌলিক গঠন মতবাদৰ অৰ্থ হ'ল সংসদে সংবিধানৰ কিক ধ্বংস কৰিবলৈ সংশোধন কৰিব নোৱাৰে?"
+    },
+    "options": [
+      {
+        "en": "Any Article",
+        "as": "যিকোনো অনুচ্ছেদ"
+      },
+      {
+        "en": "Any Schedule",
+        "as": "যিকোনো অনুসূচী"
+      },
+      {
+        "en": "Basic structure or essential features",
+        "as": "মৌলিক গঠন বা অত্যাৱশ্যকীয় বৈশিষ্ট্য"
+      },
+      {
+        "en": "The Preamble only",
+        "as": "কেৱল প্ৰস্তাৱনা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Parliament cannot amend the basic structure or essential features of the Constitution.",
+      "as": "সংসদে সংবিধানৰ মৌলিক গঠন বা অত্যাৱশ্যকীয় বৈশিষ্ট্য সংশোধন কৰিব নোৱাৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-315",
+    "q": {
+      "en": "The office of the Deputy Chairman belongs to the:",
+      "as": "উপাধ্যক্ষৰ পদটো কিয়ৰ অন্তৰ্গত?"
+    },
+    "options": [
+      {
+        "en": "Lok Sabha",
+        "as": "লোকসভা"
+      },
+      {
+        "en": "Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়"
+      },
+      {
+        "en": "Rajya Sabha",
+        "as": "ৰাজ্যসভা"
+      },
+      {
+        "en": "Election Commission",
+        "as": "নিৰ্বাচন আয়োগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Rajya Sabha has a Deputy Chairman.",
+      "as": "ৰাজ্যসভাৰ এজন উপাধ্যক্ষ আছে।"
+    }
+  }
+]

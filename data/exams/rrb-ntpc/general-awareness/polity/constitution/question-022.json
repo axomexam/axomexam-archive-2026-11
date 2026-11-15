@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-022",
+    "q": {
+      "en": "Who calligraphed the original Constitution of India?",
+      "as": "ভাৰতৰ সংবিধান হাতেৰে লিখিছিল:"
+    },
+    "options": [
+      {
+        "en": "Nandalal Bose",
+        "as": "নন্দলাল বসু"
+      },
+      {
+        "en": "Shantiniketan artists",
+        "as": "শান্তিনিকেতনৰ শিল্পী"
+      },
+      {
+        "en": "Prem Behari Narain Raizada",
+        "as": "প্ৰেম বিহাৰী নৰেন ৰায়জাদা"
+      },
+      {
+        "en": "B. R. Ambedkar",
+        "as": "বি. আৰ. আম্বেদকাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Prem Behari Narain Raizada calligraphed the Constitution.",
+      "as": "প্ৰেম বিহাৰী নৰেন ৰায়জাদাই সংবিধান কেলিগ্ৰাফ কৰিছিল।"
+    }
+  }
+]

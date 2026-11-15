@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-026",
+    "q": {
+      "en": "The Constituent Assembly acted as the first Parliament of India until:",
+      "as": "সংবিধান সভাই ভাৰতৰ প্ৰথম সংসদ হিচাপে কেতিয়ালৈকে কাম কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "1950",
+        "as": "১৯৫০"
+      },
+      {
+        "en": "1952",
+        "as": "১৯৫২"
+      },
+      {
+        "en": "1949",
+        "as": "১৯৪৯"
+      },
+      {
+        "en": "1947",
+        "as": "১৯৪৭"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "It functioned as the provisional Parliament until the first general election in 1952.",
+      "as": "১৯৫২ চনৰ প্ৰথম সাধাৰণ নিৰ্বাচনলৈকে ই অস্থায়ী সংসদ হিচাপে কাম কৰিছিল।"
+    }
+  }
+]

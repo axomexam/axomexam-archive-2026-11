@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-056",
+    "q": {
+      "en": "The Constitution of India has been described as:",
+      "as": "ভাৰতৰ সংবিধানক কি হিচাপে বৰ্ণনা কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Purely federal",
+        "as": "পূৰ্ণ সংঘীয়"
+      },
+      {
+        "en": "Purely unitary",
+        "as": "পূৰ্ণ এককেন্দ্ৰিক"
+      },
+      {
+        "en": "Quasi-federal",
+        "as": "আধা-সংঘীয়"
+      },
+      {
+        "en": "Confederal",
+        "as": "সংঘাত্মক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "India is described as quasi-federal, with federal and unitary features.",
+      "as": "ভাৰতক আধা-সংঘীয় বুলি বৰ্ণনা কৰা হয়, সংঘীয় আৰু এককেন্দ্ৰিক দুয়োটা বৈশিষ্ট্য আছে।"
+    }
+  }
+]

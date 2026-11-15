@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-124",
+    "q": {
+      "en": "Article 35 of the Constitution provides that laws to give effect to Fundamental Rights shall be made by:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ৩৫ এ প্ৰদান কৰে যে মৌলিক অধিকাৰ বলবৎ কৰাৰ আইন কিয়ৰ দ্বাৰা প্ৰণয়ন কৰা হ'ব?"
+    },
+    "options": [
+      {
+        "en": "State legislatures",
+        "as": "ৰাজ্য বিধানমণ্ডল"
+      },
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "The President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Local bodies",
+        "as": "স্থানীয় সংস্থা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 35 says only Parliament can make laws to give effect to certain Fundamental Rights.",
+      "as": "অনুচ্ছেদ ৩৫ এ কয় যে কিছুমান মৌলিক অধিকাৰ বলবৎ কৰাৰ আইন কেৱল সংসদে প্ৰণয়ন কৰিব পাৰে।"
+    }
+  }
+]

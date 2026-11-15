@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-238",
+    "q": {
+      "en": "The Constitution of India replaced the Government of India Act of:",
+      "as": "ভাৰতৰ সংবিধানে কিমান চনৰ ভাৰত শাসন আইন প্ৰতিস্থাপন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "1919",
+        "as": "১৯১৯"
+      },
+      {
+        "en": "1909",
+        "as": "১৯০৯"
+      },
+      {
+        "en": "1935",
+        "as": "১৯৩৫"
+      },
+      {
+        "en": "1947",
+        "as": "১৯৪৭"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Constitution replaced the Government of India Act, 1935.",
+      "as": "সংবিধানে ১৯৩৫ চনৰ ভাৰত শাসন আইন প্ৰতিস্থাপন কৰিছিল।"
+    }
+  }
+]

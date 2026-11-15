@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-009",
+    "q": {
+      "en": "Dr. B. R. Ambedkar is popularly known as the:",
+      "as": "ড° বি. আৰ. আম্বেদকাৰক জনপ্ৰিয়ভাৱে কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Father of the Nation",
+        "as": "ৰাষ্ট্ৰপিতৃ"
+      },
+      {
+        "en": "Iron Man of India",
+        "as": "ভাৰতৰ লৌহ মানৱ"
+      },
+      {
+        "en": "Father of the Indian Constitution",
+        "as": "ভাৰতীয় সংবিধানৰ পিতৃ"
+      },
+      {
+        "en": "Architect of Modern India",
+        "as": "আধুনিক ভাৰতৰ স্থপতি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Ambedkar is called the Father of the Indian Constitution.",
+      "as": "আম্বেদকাৰক ভাৰতীয় সংবিধানৰ পিতৃ বোলা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-270",
+    "q": {
+      "en": "The minimum age to become a member of the Lok Sabha is:",
+      "as": "লোকসভাৰ সদস্য হ'বলৈ ন্যূনতম বয়স কিমান?"
+    },
+    "options": [
+      {
+        "en": "25 years",
+        "as": "২৫ বছৰ"
+      },
+      {
+        "en": "30 years",
+        "as": "৩০ বছৰ"
+      },
+      {
+        "en": "21 years",
+        "as": "২১ বছৰ"
+      },
+      {
+        "en": "35 years",
+        "as": "৩৫ বছৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A person must be at least 25 years old to be a Lok Sabha member.",
+      "as": "লোকসভাৰ সদস্য হ'বলৈ এজন ব্যক্তিৰ বয়স কমেও ২৫ বছৰ হ'ব লাগে।"
+    }
+  }
+]

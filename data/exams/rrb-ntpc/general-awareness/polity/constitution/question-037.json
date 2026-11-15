@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-037",
+    "q": {
+      "en": "The present Constitution of India contains how many Articles?",
+      "as": "বৰ্তমান ভাৰতৰ সংবিধানত কিমানটা অনুচ্ছেদ আছে?"
+    },
+    "options": [
+      {
+        "en": "395",
+        "as": "৩৯৫"
+      },
+      {
+        "en": "About 470",
+        "as": "প্ৰায় ৪৭০"
+      },
+      {
+        "en": "448",
+        "as": "৪৪৮"
+      },
+      {
+        "en": "500",
+        "as": "৫০০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Constitution now has about 470 Articles in 25 Parts.",
+      "as": "সংবিধানত এতিয়া ২৫ টা অংশত প্ৰায় ৪৭০ টা অনুচ্ছেদ আছে।"
+    }
+  }
+]

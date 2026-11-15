@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-195",
+    "q": {
+      "en": "Which amendment conferred constitutional status on the Panchayati Raj system?",
+      "as": "পঞ্চায়তী ৰাজ ব্যৱস্থাক কোনটো সংশোধনীৰ দ্বাৰা সাংবিধানিক মৰ্যাদা দিয়া হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "74th Amendment",
+        "as": "৭৪ সংখ্যক সংশোধনী"
+      },
+      {
+        "en": "73rd Amendment",
+        "as": "৭৩ সংখ্যক সংশোধনী"
+      },
+      {
+        "en": "42nd Amendment",
+        "as": "৪২ সংখ্যক সংশোধনী"
+      },
+      {
+        "en": "44th Amendment",
+        "as": "৪৪ সংখ্যক সংশোধনী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The 73rd Amendment of 1992 gave constitutional status to Panchayati Raj.",
+      "as": "১৯৯২ চনৰ ৭৩ সংখ্যক সংশোধনীয়ে পঞ্চায়তী ৰাজক সাংবিধানিক মৰ্যাদা দিছিল।"
+    }
+  }
+]

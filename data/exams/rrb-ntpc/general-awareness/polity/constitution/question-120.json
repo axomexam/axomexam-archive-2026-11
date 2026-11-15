@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-120",
+    "q": {
+      "en": "The Fundamental Rights are not absolute and are subject to:",
+      "as": "মৌলিক অধিকাৰবোৰ নিখুঁত নহয় আৰু কিয়ৰ অধীন?"
+    },
+    "options": [
+      {
+        "en": "Reasonable restrictions",
+        "as": "যুক্তিসঙ্গত নিষেধাজ্ঞা"
+      },
+      {
+        "en": "No restrictions",
+        "as": "কোনো নিষেধাজ্ঞা নাই"
+      },
+      {
+        "en": "State discretion only",
+        "as": "কেৱল ৰাষ্ট্ৰৰ বিবেচনা"
+      },
+      {
+        "en": "Party decisions",
+        "as": "দলৰ সিদ্ধান্ত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fundamental Rights are subject to reasonable restrictions for the public good.",
+      "as": "মৌলিক অধিকাৰ ৰাজহুৱা হিতৰ বাবে যুক্তিসঙ্গত নিষেধাজ্ঞাৰ অধীন।"
+    }
+  }
+]

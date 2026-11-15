@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-184",
+    "q": {
+      "en": "The Fundamental Duties serve to remind citizens that rights and duties are:",
+      "as": "মৌলিক কৰ্তব্যবোৰে নাগৰিকক মনত পেলাই দিয়ে যে অধিকাৰ আৰু কৰ্তব্য:"
+    },
+    "options": [
+      {
+        "en": "Complementary",
+        "as": "পৰিপূৰক"
+      },
+      {
+        "en": "Separate",
+        "as": "পৃথক"
+      },
+      {
+        "en": "Opposite",
+        "as": "বিপৰীত"
+      },
+      {
+        "en": "Unrelated",
+        "as": "অসম্পৰ্কিত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rights and duties are complementary to each other.",
+      "as": "অধিকাৰ আৰু কৰ্তব্য পৰস্পৰ পৰিপূৰক।"
+    }
+  }
+]

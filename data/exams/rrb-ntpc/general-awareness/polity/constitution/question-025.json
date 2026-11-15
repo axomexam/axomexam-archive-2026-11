@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-025",
+    "q": {
+      "en": "26 January was chosen as the date of commencement of the Constitution because:",
+      "as": "২৬ জানুৱাৰীক সংবিধান বলবৎ হোৱাৰ তাৰিখ হিচাপে বাছনি কৰা হৈছিল কাৰণ:"
+    },
+    "options": [
+      {
+        "en": "It was Nehru's birthday",
+        "as": "এইটো নেহৰুৰ জন্মদিন আছিল"
+      },
+      {
+        "en": "It was the date of Purna Swaraj in 1930",
+        "as": "এইটো ১৯৩০ চনত পূৰ্ণ স্বৰাজৰ তাৰিখ আছিল"
+      },
+      {
+        "en": "It was a Sunday",
+        "as": "এইটো দেওবাৰ আছিল"
+      },
+      {
+        "en": "It was the day of Independence",
+        "as": "এইটো স্বাধীনতাৰ দিন আছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "On 26 January 1930 the Indian National Congress had declared Purna Swaraj.",
+      "as": "১৯৩০ চনৰ ২৬ জানুৱাৰীত ভাৰতীয় জাতীয় কংগ্ৰেছে পূৰ্ণ স্বৰাজ ঘোষণা কৰিছিল।"
+    }
+  }
+]

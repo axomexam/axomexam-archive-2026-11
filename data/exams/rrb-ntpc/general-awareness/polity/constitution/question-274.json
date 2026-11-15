@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-274",
+    "q": {
+      "en": "The normal term of office of a State Governor is:",
+      "as": "ৰাজ্যৰ ৰাজ্যপালৰ স্বাভাৱিক কাৰ্যকাল কিমান?"
+    },
+    "options": [
+      {
+        "en": "6 years",
+        "as": "৬ বছৰ"
+      },
+      {
+        "en": "4 years",
+        "as": "৪ বছৰ"
+      },
+      {
+        "en": "3 years",
+        "as": "৩ বছৰ"
+      },
+      {
+        "en": "5 years",
+        "as": "৫ বছৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A Governor is normally appointed for five years.",
+      "as": "ৰাজ্যপাল সাধাৰণতে পাঁচ বছৰৰ বাবে নিযুক্ত হয়।"
+    }
+  }
+]

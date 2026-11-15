@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-297",
+    "q": {
+      "en": "A national emergency can be proclaimed by the President under:",
+      "as": "ৰাষ্ট্ৰপতিয়ে ক'ত ৰাষ্ট্ৰীয় আপদকাল ঘোষণা কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 356",
+        "as": "অনুচ্ছেদ ৩৫৬"
+      },
+      {
+        "en": "Article 352",
+        "as": "অনুচ্ছেদ ৩৫২"
+      },
+      {
+        "en": "Article 360",
+        "as": "অনুচ্ছেদ ৩৬০"
+      },
+      {
+        "en": "Article 353",
+        "as": "অনুচ্ছেদ ৩৫৩"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A national emergency is provided for by Article 352.",
+      "as": "অনুচ্ছেদ ৩৫২ এ ৰাষ্ট্ৰীয় আপদকালৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

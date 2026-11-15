@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-065",
+    "q": {
+      "en": "The Constitution of India is federal in form but unitary in:",
+      "as": "ভাৰতৰ সংবিধান ৰূপত সংঘীয় কিন্তু কিয়ত এককেন্দ্ৰিক?"
+    },
+    "options": [
+      {
+        "en": "Spirit",
+        "as": "আত্মাত"
+      },
+      {
+        "en": "Name only",
+        "as": "কেৱল নামত"
+      },
+      {
+        "en": "Language",
+        "as": "ভাষাত"
+      },
+      {
+        "en": "Currency",
+        "as": "মুদ্ৰাত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "It is federal in form but unitary in spirit, as during emergencies.",
+      "as": "এইটো ৰূপত সংঘীয় কিন্তু আত্মাত এককেন্দ্ৰিক, যেনে আপদকালত।"
+    }
+  }
+]

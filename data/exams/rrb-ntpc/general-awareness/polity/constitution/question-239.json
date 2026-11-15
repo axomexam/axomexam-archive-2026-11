@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-239",
+    "q": {
+      "en": "The Constitution of India declares the State to be secular, meaning there is:",
+      "as": "ভাৰতৰ সংবিধানে ৰাষ্ট্ৰক ধৰ্মনিৰপেক্ষ বুলি ঘোষণা কৰে, অৰ্থাৎ আছে:"
+    },
+    "options": [
+      {
+        "en": "One state religion",
+        "as": "এটা ৰাজ্যিক ধৰ্ম"
+      },
+      {
+        "en": "Two state religions",
+        "as": "দুটা ৰাজ্যিক ধৰ্ম"
+      },
+      {
+        "en": "Religion above law",
+        "as": "আইনৰ ওপৰত ধৰ্ম"
+      },
+      {
+        "en": "No state religion",
+        "as": "ৰাজ্যিক ধৰ্ম নাই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "India has no state religion and treats all religions equally.",
+      "as": "ভাৰতৰ কোনো ৰাজ্যিক ধৰ্ম নাই আৰু সকলো ধৰ্মক সমানে ব্যৱহাৰ কৰে।"
+    }
+  }
+]

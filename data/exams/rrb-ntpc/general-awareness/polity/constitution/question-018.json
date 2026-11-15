@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-018",
+    "q": {
+      "en": "The emergency provisions of the Indian Constitution were borrowed from:",
+      "as": "ভাৰতীয় সংবিধানৰ আপদকালীন ব্যৱস্থাবোৰ কিয়ৰ পৰা ধাৰ লোৱা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Ireland",
+        "as": "আয়াৰলেণ্ড"
+      },
+      {
+        "en": "Germany",
+        "as": "জাৰ্মানি"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Weimar Constitution of Germany inspired the emergency provisions.",
+      "as": "আপদকালীন ব্যৱস্থাবোৰ জাৰ্মানীৰ ৱেইমাৰ সংবিধানৰ পৰা ধাৰ লোৱা হৈছিল।"
+    }
+  }
+]

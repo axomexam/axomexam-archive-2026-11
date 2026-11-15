@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-126",
+    "q": {
+      "en": "The Fundamental Rights are enforceable in the courts of law, unlike the:",
+      "as": "মৌলিক অধিকাৰ আদালতত বলবৎযোগ্য, কিয়ৰ বিপৰীতে?"
+    },
+    "options": [
+      {
+        "en": "Directive Principles",
+        "as": "নিৰ্দেশক নীতিবোৰ"
+      },
+      {
+        "en": "Fundamental Duties",
+        "as": "মৌলিক কৰ্তব্য"
+      },
+      {
+        "en": "Schedules",
+        "as": "অনুসূচী"
+      },
+      {
+        "en": "Preamble",
+        "as": "প্ৰস্তাৱনা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fundamental Rights are justiciable while Directive Principles are not directly enforceable.",
+      "as": "মৌলিক অধিকাৰ বিচাৰযোগ্য কিন্তু নিৰ্দেশক নীতিবোৰ পোনপটীয়াকৈ বলবৎযোগ্য নহয়।"
+    }
+  }
+]

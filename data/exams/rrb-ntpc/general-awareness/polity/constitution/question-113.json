@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-113",
+    "q": {
+      "en": "The writ of habeas corpus is issued to:",
+      "as": "হেবিয়াছ কৰ্পাছ ৰিট কিক কৰিবলৈ জাৰি কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Command performance of a duty",
+        "as": "কৰ্তব্য পালনৰ আদেশ দিবলৈ"
+      },
+      {
+        "en": "Quash an order",
+        "as": "এটা আদেশ বাতিল কৰিবলৈ"
+      },
+      {
+        "en": "Produce a detained person before the court",
+        "as": "আটক কৰা ব্যক্তিক আদালতৰ আগত হাজিৰ কৰিবলৈ"
+      },
+      {
+        "en": "Question authority to hold office",
+        "as": "পদত থকাৰ কৰ্তৃত্ব প্ৰশ্ন কৰিবলৈ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Habeas corpus is issued to bring a detained person before the court.",
+      "as": "আটক কৰা ব্যক্তিক আদালতৰ আগত আনিবলৈ হেবিয়াছ কৰ্পাছ জাৰি কৰা হয়।"
+    }
+  }
+]

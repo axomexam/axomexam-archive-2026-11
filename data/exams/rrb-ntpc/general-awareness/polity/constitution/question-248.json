@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-248",
+    "q": {
+      "en": "The Constitution of India is considered a living document because it:",
+      "as": "ভাৰতৰ সংবিধানক জীৱন্ত দস্তাবেজ বুলি গণ্য কৰা হয় কাৰণ ই:"
+    },
+    "options": [
+      {
+        "en": "Cannot be amended",
+        "as": "সংশোধন কৰিব নোৱাৰি"
+      },
+      {
+        "en": "Can be amended to meet changing needs",
+        "as": "পৰিৱৰ্তিত প্ৰয়োজন পূৰণৰ বাবে সংশোধন কৰিব পাৰি"
+      },
+      {
+        "en": "Is written only once",
+        "as": "কেৱল এবাৰ লিখা"
+      },
+      {
+        "en": "Is enforced only in war",
+        "as": "কেৱল যুদ্ধত বলবৎ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Constitution can be amended and interpreted to meet changing needs.",
+      "as": "পৰিৱৰ্তিত প্ৰয়োজন পূৰণৰ বাবে সংবিধান সংশোধন আৰু ব্যাখ্যা কৰিব পাৰি।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-062",
+    "q": {
+      "en": "The Constitution of India provides for:",
+      "as": "ভাৰতৰ সংবিধানে কিয়ৰ ব্যৱস্থা কৰিছে?"
+    },
+    "options": [
+      {
+        "en": "Single citizenship",
+        "as": "একক নাগৰিকত্ব"
+      },
+      {
+        "en": "Dual citizenship",
+        "as": "দ্বৈত নাগৰিকত্ব"
+      },
+      {
+        "en": "No citizenship",
+        "as": "নাগৰিকত্ব নাই"
+      },
+      {
+        "en": "Optional citizenship",
+        "as": "ঐচ্ছিক নাগৰিকত্ব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "India provides for single citizenship for the whole country.",
+      "as": "ভাৰতে সমগ্ৰ দেশৰ বাবে একক নাগৰিকত্বৰ ব্যৱস্থা কৰিছে।"
+    }
+  }
+]

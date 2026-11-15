@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-171",
+    "q": {
+      "en": "The Fundamental Duties are:",
+      "as": "মৌলিক কৰ্তব্যবোৰ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Justiciable",
+        "as": "বিচাৰযোগ্য"
+      },
+      {
+        "en": "Enforceable by courts",
+        "as": "আদালতৰ দ্বাৰা বলবৎযোগ্য"
+      },
+      {
+        "en": "Fundamental Rights",
+        "as": "মৌলিক অধিকাৰ"
+      },
+      {
+        "en": "Non-justiciable",
+        "as": "বিচাৰ-অযোগ্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Fundamental Duties are not directly enforceable in courts.",
+      "as": "মৌলিক কৰ্তব্যবোৰ আদালতত পোনপটীয়াকৈ বলবৎযোগ্য নহয়।"
+    }
+  }
+]

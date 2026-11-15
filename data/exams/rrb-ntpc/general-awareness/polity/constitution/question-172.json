@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-172",
+    "q": {
+      "en": "Citizenship of India is dealt with in which Part of the Constitution?",
+      "as": "ভাৰতৰ নাগৰিকত্ব সংবিধানৰ কোনটো অংশত আলোচনা কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Part III",
+        "as": "তৃতীয় অংশ"
+      },
+      {
+        "en": "Part II",
+        "as": "দ্বিতীয় অংশ"
+      },
+      {
+        "en": "Part I",
+        "as": "প্ৰথম অংশ"
+      },
+      {
+        "en": "Part IV",
+        "as": "চতুৰ্থ অংশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Part II, Articles 5 to 11, deals with citizenship.",
+      "as": "নাগৰিকত্ব দ্বিতীয় অংশ, অনুচ্ছেদ ৫ ৰ পৰা ১১ ত আলোচনা কৰা হৈছে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-011",
+    "q": {
+      "en": "The total number of members of the Constituent Assembly of India was about:",
+      "as": "ভাৰতৰ সংবিধান সভাৰ সদস্যৰ মুঠ সংখ্যা প্ৰায় কিমান আছিল?"
+    },
+    "options": [
+      {
+        "en": "299",
+        "as": "২৯৯"
+      },
+      {
+        "en": "389",
+        "as": "৩৮৯"
+      },
+      {
+        "en": "500",
+        "as": "৫০০"
+      },
+      {
+        "en": "250",
+        "as": "২৫০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Constituent Assembly had about 389 members.",
+      "as": "সংবিধান সভাত প্ৰায় ৩৮৯ জন সদস্য আছিল।"
+    }
+  }
+]

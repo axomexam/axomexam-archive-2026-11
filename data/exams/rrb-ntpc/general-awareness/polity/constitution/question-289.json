@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-289",
+    "q": {
+      "en": "The power of the Governor to grant pardon is provided under:",
+      "as": "ৰাজ্যপালৰ ক্ষমা প্ৰদানৰ ক্ষমতা ক'ত প্ৰদান কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 72",
+        "as": "অনুচ্ছেদ ৭২"
+      },
+      {
+        "en": "Article 164",
+        "as": "অনুচ্ছেদ ১৬৪"
+      },
+      {
+        "en": "Article 163",
+        "as": "অনুচ্ছেদ ১৬৩"
+      },
+      {
+        "en": "Article 161",
+        "as": "অনুচ্ছেদ ১৬১"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Article 161 gives the Governor the power to grant pardons.",
+      "as": "অনুচ্ছেদ ১৬১ এ ৰাজ্যপালক ক্ষমা প্ৰদানৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

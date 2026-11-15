@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-015",
+    "q": {
+      "en": "The Constitution of India borrowed the concept of the parliamentary system from:",
+      "as": "ভাৰতৰ সংবিধানে সংসদীয় ব্যৱস্থাৰ ধাৰণাটো কিয়ৰ পৰা ধাৰ লৈছিল?"
+    },
+    "options": [
+      {
+        "en": "United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Ireland",
+        "as": "আয়াৰলেণ্ড"
+      },
+      {
+        "en": "United Kingdom",
+        "as": "যুক্তৰাজ্য"
+      },
+      {
+        "en": "Canada",
+        "as": "কানাডা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The parliamentary system was borrowed from the United Kingdom.",
+      "as": "সংসদীয় ব্যৱস্থা যুক্তৰাজ্যৰ পৰা ধাৰ লোৱা হৈছিল।"
+    }
+  }
+]

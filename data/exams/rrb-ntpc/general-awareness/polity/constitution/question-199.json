@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-199",
+    "q": {
+      "en": "The Ninth Schedule of the Constitution contains:",
+      "as": "সংবিধানৰ নৱম অনুসূচীত কিক আছে?"
+    },
+    "options": [
+      {
+        "en": "Languages",
+        "as": "ভাষা"
+      },
+      {
+        "en": "Tribal areas",
+        "as": "জনজাতীয় অঞ্চল"
+      },
+      {
+        "en": "Laws that cannot be challenged on grounds of Fundamental Rights",
+        "as": "মৌলিক অধিকাৰৰ আধাৰত প্ৰত্যাহ্বান জনোৱা নোযোৱা আইন"
+      },
+      {
+        "en": "Municipalities",
+        "as": "পৌৰসভা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ninth Schedule contains laws protected from challenge under Fundamental Rights.",
+      "as": "নৱম অনুসূচীত মৌলিক অধিকাৰৰ অধীনত প্ৰত্যাহ্বানৰ পৰা সুৰক্ষিত আইন আছে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-273",
+    "q": {
+      "en": "A State Governor serves at the pleasure of the:",
+      "as": "ৰাজ্যৰ ৰাজ্যপাল কিয়ৰ ইচ্ছালৈকে পদত থাকে?"
+    },
+    "options": [
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Chief Minister",
+        "as": "মুখ্যমন্ত্ৰী"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A Governor serves at the pleasure of the President.",
+      "as": "ৰাজ্যপাল ৰাষ্ট্ৰপতিৰ ইচ্ছালৈকে পদত থাকে।"
+    }
+  }
+]

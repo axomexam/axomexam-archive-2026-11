@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-263",
+    "q": {
+      "en": "By virtue of office, the Vice-President chairs the:",
+      "as": "ভাৰতৰ উপ-ৰাষ্ট্ৰপতি কিয়ৰ পদাধিকাৰী অধ্যক্ষ?"
+    },
+    "options": [
+      {
+        "en": "Rajya Sabha",
+        "as": "ৰাজ্যসভা"
+      },
+      {
+        "en": "Lok Sabha",
+        "as": "লোকসভা"
+      },
+      {
+        "en": "Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়"
+      },
+      {
+        "en": "Election Commission",
+        "as": "নিৰ্বাচন আয়োগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "As ex-officio Chairman, the Vice-President heads the Rajya Sabha.",
+      "as": "উপ-ৰাষ্ট্ৰপতি ৰাজ্যসভাৰ পদাধিকাৰী অধ্যক্ষ।"
+    }
+  }
+]

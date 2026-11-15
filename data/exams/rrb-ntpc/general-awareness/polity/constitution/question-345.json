@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-345",
+    "q": {
+      "en": "The functions of the Public Service Commission are laid down under:",
+      "as": "লোকসেৱা আয়োগৰ কাৰ্য ক'ত নিৰ্ধাৰিত?"
+    },
+    "options": [
+      {
+        "en": "Article 315",
+        "as": "অনুচ্ছেদ ৩১৫"
+      },
+      {
+        "en": "Article 321",
+        "as": "অনুচ্ছেদ ৩২১"
+      },
+      {
+        "en": "Article 320",
+        "as": "অনুচ্ছেদ ৩২০"
+      },
+      {
+        "en": "Article 322",
+        "as": "অনুচ্ছেদ ৩২২"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 320 lays down the functions of the Public Service Commissions.",
+      "as": "অনুচ্ছেদ ৩২০ এ লোকসেৱা আয়োগৰ কাৰ্য নিৰ্ধাৰণ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-280",
+    "q": {
+      "en": "The judges of the Supreme Court are appointed by the:",
+      "as": "সৰ্বোচ্চ ন্যায়ালয়ৰ বিচাৰকসকল কিয়ৰ দ্বাৰা নিযুক্ত হয়?"
+    },
+    "options": [
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "Chief Justice alone",
+        "as": "কেৱল প্ৰধান ন্যায়াধীশ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The President appoints Supreme Court judges after consultation with the Chief Justice and others.",
+      "as": "প্ৰধান ন্যায়াধীশ আৰু আনৰ সৈতে পৰামৰ্শৰ পিছত ৰাষ্ট্ৰপতিয়ে সৰ্বোচ্চ ন্যায়ালয়ৰ বিচাৰক নিযুক্ত কৰে।"
+    }
+  }
+]

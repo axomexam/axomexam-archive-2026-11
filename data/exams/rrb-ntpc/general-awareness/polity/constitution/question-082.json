@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-082",
+    "q": {
+      "en": "Article 18 of the Constitution abolishes:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ১৮ এ কিক বিলুপ্ত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Untouchability",
+        "as": "অস্পৃশ্যতা"
+      },
+      {
+        "en": "Titles",
+        "as": "উপাধি"
+      },
+      {
+        "en": "Titles and untouchability",
+        "as": "উপাধি আৰু অস্পৃশ্যতা"
+      },
+      {
+        "en": "Child marriage",
+        "as": "শিশু বিবাহ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 18 ends titles, keeping only military and academic distinctions.",
+      "as": "অনুচ্ছেদ ১৮ এ সামৰিক আৰু শিক্ষামূলক বাদে উপাধি বিলুপ্ত কৰে।"
+    }
+  }
+]

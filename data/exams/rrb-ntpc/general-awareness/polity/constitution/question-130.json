@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-130",
+    "q": {
+      "en": "The right to equality is guaranteed under Articles:",
+      "as": "সমতাৰ অধিকাৰ কিয় অনুচ্ছেদৰ অধীনত নিশ্চিত কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "14 to 18",
+        "as": "১৪ ৰ পৰা ১৮"
+      },
+      {
+        "en": "19 to 22",
+        "as": "১৯ ৰ পৰা ২২"
+      },
+      {
+        "en": "23 and 24",
+        "as": "২৩ আৰু ২৪"
+      },
+      {
+        "en": "25 to 28",
+        "as": "২৫ ৰ পৰা ২৮"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Articles 14 to 18 contain the right to equality.",
+      "as": "অনুচ্ছেদ ১৪ ৰ পৰা ১৮ ত সমতাৰ অধিকাৰ আছে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-269",
+    "q": {
+      "en": "Rajya Sabha members serve for a term of:",
+      "as": "ৰাজ্যসভাৰ সদস্যবোৰ কিমান বছৰৰ কাৰ্যকালৰ বাবে নিৰ্বাচিত হয়?"
+    },
+    "options": [
+      {
+        "en": "5 years",
+        "as": "৫ বছৰ"
+      },
+      {
+        "en": "6 years",
+        "as": "৬ বছৰ"
+      },
+      {
+        "en": "4 years",
+        "as": "৪ বছৰ"
+      },
+      {
+        "en": "7 years",
+        "as": "৭ বছৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rajya Sabha members serve six-year terms, with one-third retiring every two years.",
+      "as": "ৰাজ্যসভাৰ সদস্যসকলে ছয় বছৰ কাৰ্যকাল পালন কৰে, প্ৰতি দুবছৰত এক তৃতীয়াংশ অৱসৰ লয়।"
+    }
+  }
+]

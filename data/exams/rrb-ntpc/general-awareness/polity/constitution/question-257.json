@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-257",
+    "q": {
+      "en": "Article 10 of the Constitution provides that every person who is a citizen:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ১০ এ প্ৰদান কৰে যে প্ৰতিজন নাগৰিক:"
+    },
+    "options": [
+      {
+        "en": "Loses citizenship",
+        "as": "নাগৰিকত্ব হেৰুৱায়"
+      },
+      {
+        "en": "Becomes a foreigner",
+        "as": "বিদেশী হয়"
+      },
+      {
+        "en": "Continues to be a citizen subject to law",
+        "as": "আইনৰ অধীনত নাগৰিক হৈ থাকে"
+      },
+      {
+        "en": "Gets dual citizenship",
+        "as": "দ্বৈত নাগৰিকত্ব পায়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 10 says citizenship continues subject to the provisions of any law made by Parliament.",
+      "as": "অনুচ্ছেদ ১০ এ কয় যে সংসদৰ আইনৰ বিধানৰ অধীনত নাগৰিকত্ব অব্যাহত থাকে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-275",
+    "q": {
+      "en": "The Chief Minister of a State is chosen by the:",
+      "as": "ৰাজ্যৰ মুখ্যমন্ত্ৰী কিয়ৰ দ্বাৰা নিযুক্ত হয়?"
+    },
+    "options": [
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Chief Justice",
+        "as": "প্ৰধান ন্যায়াধীশ"
+      },
+      {
+        "en": "Governor",
+        "as": "ৰাজ্যপাল"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "It is the Governor who appoints the Chief Minister.",
+      "as": "ৰাজ্যপালে মুখ্যমন্ত্ৰী নিযুক্ত কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-049",
+    "q": {
+      "en": "The Preamble secures liberty of thought, expression, belief, faith and:",
+      "as": "প্ৰস্তাৱনাই চিন্তা, প্ৰকাশ, বিশ্বাস, ধৰ্ম আৰু কিয়ৰ স্বাধীনতা প্ৰদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "Trade",
+        "as": "বাণিজ্য"
+      },
+      {
+        "en": "Property",
+        "as": "সম্পত্তি"
+      },
+      {
+        "en": "Worship",
+        "as": "উপাসনা"
+      },
+      {
+        "en": "Travel",
+        "as": "ভ্ৰমণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Liberty of thought, expression, belief, faith and worship is secured by the Preamble.",
+      "as": "প্ৰস্তাৱনাই চিন্তা, প্ৰকাশ, বিশ্বাস, ধৰ্ম আৰু উপাসনাৰ স্বাধীনতা প্ৰদান কৰে।"
+    }
+  }
+]

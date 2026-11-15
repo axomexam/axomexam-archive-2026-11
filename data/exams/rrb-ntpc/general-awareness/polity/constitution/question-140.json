@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-140",
+    "q": {
+      "en": "The Directive Principle for the organisation of village panchayats is under:",
+      "as": "গাঁও পঞ্চায়ত সংগঠনৰ নিৰ্দেশক নীতি ক'ত আছে?"
+    },
+    "options": [
+      {
+        "en": "Article 44",
+        "as": "অনুচ্ছেদ ৪৪"
+      },
+      {
+        "en": "Article 39",
+        "as": "অনুচ্ছেদ ৩৯"
+      },
+      {
+        "en": "Article 47",
+        "as": "অনুচ্ছেদ ৪৭"
+      },
+      {
+        "en": "Article 40",
+        "as": "অনুচ্ছেদ ৪০"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Organisation of village panchayats is directed by Article 40.",
+      "as": "অনুচ্ছেদ ৪০ এ ৰাষ্ট্ৰক গাঁও পঞ্চায়ত সংগঠিত কৰিবলৈ নিৰ্দেশ দিয়ে।"
+    }
+  }
+]

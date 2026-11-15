@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-010",
+    "q": {
+      "en": "The temporary President who presided over the first sitting of the Constituent Assembly was:",
+      "as": "সংবিধান সভাৰ প্ৰথম অধিবেশনত সভাপতিত্ব কৰা অস্থায়ী সভাপতি আছিল:"
+    },
+    "options": [
+      {
+        "en": "Dr. Rajendra Prasad",
+        "as": "ড° ৰাজেন্দ্ৰ প্ৰসাদ"
+      },
+      {
+        "en": "Dr. Ambedkar",
+        "as": "ড° আম্বেদকাৰ"
+      },
+      {
+        "en": "Dr. Sachchidananda Sinha",
+        "as": "ড° সচ্চিদানন্দ সিনহা"
+      },
+      {
+        "en": "Nehru",
+        "as": "নেহৰু"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Dr. Sachchidananda Sinha was the temporary President.",
+      "as": "ড° সচ্চিদানন্দ সিনহা অস্থায়ী সভাপতি আছিল।"
+    }
+  }
+]

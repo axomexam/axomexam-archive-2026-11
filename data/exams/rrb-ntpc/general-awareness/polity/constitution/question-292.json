@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-292",
+    "q": {
+      "en": "A money bill may be introduced only in the:",
+      "as": "ধন বিল কেৱল ক'ত উত্থাপন কৰিব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Rajya Sabha",
+        "as": "ৰাজ্যসভা"
+      },
+      {
+        "en": "Either House",
+        "as": "যিকোনো সদন"
+      },
+      {
+        "en": "Joint sitting",
+        "as": "যুগ্ম অধিবেশন"
+      },
+      {
+        "en": "Lok Sabha",
+        "as": "লোকসভা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Introduction of a money bill is possible only in the Lok Sabha.",
+      "as": "ধন বিল কেৱল লোকসভাত উত্থাপন কৰিব পাৰি।"
+    }
+  }
+]

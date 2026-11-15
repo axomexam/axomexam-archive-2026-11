@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-128",
+    "q": {
+      "en": "The right to freedom of religion is guaranteed under Articles:",
+      "as": "ধৰ্মৰ স্বাধীনতাৰ অধিকাৰ কিয় অনুচ্ছেদৰ অধীনত নিশ্চিত কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "19 to 22",
+        "as": "১৯ ৰ পৰা ২২"
+      },
+      {
+        "en": "23 and 24",
+        "as": "২৩ আৰু ২৪"
+      },
+      {
+        "en": "29 and 30",
+        "as": "২৯ আৰু ৩০"
+      },
+      {
+        "en": "25 to 28",
+        "as": "২৫ ৰ পৰা ২৮"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Articles 25 to 28 contain the right to freedom of religion.",
+      "as": "অনুচ্ছেদ ২৫ ৰ পৰা ২৮ ত ধৰ্মৰ স্বাধীনতাৰ অধিকাৰ আছে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-309",
+    "q": {
+      "en": "The oath of office to the President of India is administered by the:",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰপতিক শপত গ্ৰহণ কৰোৱা হয় কিয়ৰ দ্বাৰা?"
+    },
+    "options": [
+      {
+        "en": "Vice-President",
+        "as": "উপ-ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "Chief Justice of India",
+        "as": "ভাৰতৰ প্ৰধান ন্যায়াধীশ"
+      },
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The oath to the President is administered by the Chief Justice of India.",
+      "as": "ভাৰতৰ প্ৰধান ন্যায়াধীশে ৰাষ্ট্ৰপতিক শপত গ্ৰহণ কৰায়।"
+    }
+  }
+]

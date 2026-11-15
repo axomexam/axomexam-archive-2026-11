@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-240",
+    "q": {
+      "en": "The Constitution of India provides for equality of opportunity in public employment under:",
+      "as": "ভাৰতৰ সংবিধানে ক'ত চৰকাৰী নিয়োগত সুযোগৰ সমতাৰ ব্যৱস্থা কৰিছে?"
+    },
+    "options": [
+      {
+        "en": "Article 14",
+        "as": "অনুচ্ছেদ ১৪"
+      },
+      {
+        "en": "Article 15",
+        "as": "অনুচ্ছেদ ১৫"
+      },
+      {
+        "en": "Article 17",
+        "as": "অনুচ্ছেদ ১৭"
+      },
+      {
+        "en": "Article 16",
+        "as": "অনুচ্ছেদ ১৬"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Equality of opportunity in public employment comes from Article 16.",
+      "as": "অনুচ্ছেদ ১৬ এ চৰকাৰী নিয়োগত সুযোগৰ সমতাৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

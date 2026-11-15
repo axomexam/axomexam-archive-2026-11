@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-225",
+    "q": {
+      "en": "The Election Commission of India is established under:",
+      "as": "ভাৰতৰ নিৰ্বাচন আয়োগ ক'ত প্ৰতিষ্ঠিত হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 315",
+        "as": "অনুচ্ছেদ ৩১৫"
+      },
+      {
+        "en": "Article 148",
+        "as": "অনুচ্ছেদ ১৪৮"
+      },
+      {
+        "en": "Article 324",
+        "as": "অনুচ্ছেদ ৩২৪"
+      },
+      {
+        "en": "Article 280",
+        "as": "অনুচ্ছেদ ২৮০"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Superintendence of elections by the Election Commission is provided by Article 324.",
+      "as": "অনুচ্ছেদ ৩২৪ এ নিৰ্বাচন আয়োগৰ দ্বাৰা নিৰ্বাচনৰ পৰিচালনাৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

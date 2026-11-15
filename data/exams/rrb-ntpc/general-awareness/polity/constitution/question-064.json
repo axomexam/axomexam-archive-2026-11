@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-064",
+    "q": {
+      "en": "The Constitution of India provides for an independent judiciary to ensure:",
+      "as": "ভাৰতৰ সংবিধানে স্বতন্ত্ৰ ন্যায়পালিকাৰ ব্যৱস্থা কিক নিশ্চিত কৰিবলৈ কৰিছে?"
+    },
+    "options": [
+      {
+        "en": "Rule of majority",
+        "as": "সংখ্যাগৰিষ্ঠৰ শাসন"
+      },
+      {
+        "en": "Rule of party",
+        "as": "দলৰ শাসন"
+      },
+      {
+        "en": "Rule of law",
+        "as": "আইনৰ শাসন"
+      },
+      {
+        "en": "Rule of officials",
+        "as": "কৰ্মচাৰীৰ শাসন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "An independent judiciary upholds the rule of law.",
+      "as": "স্বতন্ত্ৰ ন্যায়পালিকাই আইনৰ শাসন ৰক্ষা কৰে।"
+    }
+  }
+]

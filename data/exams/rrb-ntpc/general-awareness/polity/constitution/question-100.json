@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-100",
+    "q": {
+      "en": "Under Article 22, a person arrested must be produced before a magistrate within:",
+      "as": "অনুচ্ছেদ ২২ ৰ অধীনত গ্ৰেপ্তাৰ হোৱা ব্যক্তিক কিমান সময়ৰ ভিতৰত মেজিষ্ট্ৰেটৰ আগত হাজিৰ কৰিব লাগে?"
+    },
+    "options": [
+      {
+        "en": "48 hours",
+        "as": "৪৮ ঘণ্টা"
+      },
+      {
+        "en": "24 hours",
+        "as": "২৪ ঘণ্টা"
+      },
+      {
+        "en": "72 hours",
+        "as": "৭২ ঘণ্টা"
+      },
+      {
+        "en": "12 hours",
+        "as": "১২ ঘণ্টা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "An arrested person must be produced before a magistrate within 24 hours.",
+      "as": "গ্ৰেপ্তাৰ হোৱা ব্যক্তিক ২৪ ঘণ্টাৰ ভিতৰত মেজিষ্ট্ৰেটৰ আগত হাজিৰ কৰিব লাগে।"
+    }
+  }
+]

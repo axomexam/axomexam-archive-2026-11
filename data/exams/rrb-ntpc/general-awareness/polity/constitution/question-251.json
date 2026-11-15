@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-251",
+    "q": {
+      "en": "New States can be formed or existing States altered by Parliament under:",
+      "as": "সংসদে ক'ত নতুন ৰাজ্য গঠন বা বিদ্যমান ৰাজ্য পৰিৱৰ্তন কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 3",
+        "as": "অনুচ্ছেদ ৩"
+      },
+      {
+        "en": "Article 1",
+        "as": "অনুচ্ছেদ ১"
+      },
+      {
+        "en": "Article 2",
+        "as": "অনুচ্ছেদ ২"
+      },
+      {
+        "en": "Article 4",
+        "as": "অনুচ্ছেদ ৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Article 3 empowers Parliament to form new States and alter boundaries.",
+      "as": "অনুচ্ছেদ ৩ এ সংসদক নতুন ৰাজ্য গঠন আৰু সীমা পৰিৱৰ্তনৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

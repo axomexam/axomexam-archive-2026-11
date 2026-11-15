@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-317",
+    "q": {
+      "en": "The Union Legislature is known as:",
+      "as": "সংঘৰ বিধানমণ্ডল কিক বুলি জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "Assembly",
+        "as": "সভা"
+      },
+      {
+        "en": "Council",
+        "as": "পৰিষদ"
+      },
+      {
+        "en": "Congress",
+        "as": "কংগ্ৰেছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Union Legislature is called Parliament.",
+      "as": "সংঘৰ বিধানমণ্ডলক সংসদ বোলা হয়।"
+    }
+  }
+]

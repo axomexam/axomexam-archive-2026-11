@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-231",
+    "q": {
+      "en": "The Comptroller and Auditor General of India is a:",
+      "as": "ভাৰতৰ নিয়ন্ত্ৰক আৰু মহা-লেখা পৰীক্ষক হ'ল এজন:"
+    },
+    "options": [
+      {
+        "en": "Statutory officer",
+        "as": "বিধিবদ্ধ কৰ্তাব্যক্তি"
+      },
+      {
+        "en": "Judicial officer",
+        "as": "ন্যায়িক কৰ্তাব্যক্তি"
+      },
+      {
+        "en": "Constitutional officer",
+        "as": "সাংবিধানিক কৰ্তাব্যক্তি"
+      },
+      {
+        "en": "Elected officer",
+        "as": "নিৰ্বাচিত কৰ্তাব্যক্তি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The CAG is a constitutional officer under Article 148.",
+      "as": "CAG অনুচ্ছেদ ১৪৮ ৰ অধীনত এজন সাংবিধানিক কৰ্তাব্যক্তি।"
+    }
+  }
+]

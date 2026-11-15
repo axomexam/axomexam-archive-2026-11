@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-208",
+    "q": {
+      "en": "The Fourth Schedule of the Constitution deals with:",
+      "as": "সংবিধানৰ চতুৰ্থ অনুসূচীয়ে কিক লৈ কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Languages",
+        "as": "ভাষা"
+      },
+      {
+        "en": "Allocation of seats in the Rajya Sabha",
+        "as": "ৰাজ্যসভাত আসন আবণ্টন"
+      },
+      {
+        "en": "Oaths",
+        "as": "শপত"
+      },
+      {
+        "en": "Tribal areas",
+        "as": "জনজাতীয় অঞ্চল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Fourth Schedule allocates seats to States and Union Territories in the Rajya Sabha.",
+      "as": "চতুৰ্থ অনুসূচীয়ে ৰাজ্যসভাত ৰাজ্য আৰু কেন্দ্ৰীয় শাসিত অঞ্চলক আসন আবণ্টন কৰে।"
+    }
+  }
+]

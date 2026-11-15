@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-040",
+    "q": {
+      "en": "The Preamble to the Constitution of India begins with the words:",
+      "as": "ভাৰতৰ সংবিধানৰ প্ৰস্তাৱনা কি শব্দৰে আৰম্ভ হয়?"
+    },
+    "options": [
+      {
+        "en": "We, the Citizens of India",
+        "as": "আমি, ভাৰতৰ নাগৰিক"
+      },
+      {
+        "en": "We, the People of India",
+        "as": "আমি, ভাৰতৰ জনগণ"
+      },
+      {
+        "en": "We, the States of India",
+        "as": "আমি, ভাৰতৰ ৰাজ্য"
+      },
+      {
+        "en": "We, the Parliament of India",
+        "as": "আমি, ভাৰতৰ সংসদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Preamble begins with 'We, the People of India'.",
+      "as": "প্ৰস্তাৱনা 'আমি, ভাৰতৰ জনগণ' শব্দৰে আৰম্ভ হয়।"
+    }
+  }
+]

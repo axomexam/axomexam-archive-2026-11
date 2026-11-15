@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-224",
+    "q": {
+      "en": "The Union Public Service Commission is established under:",
+      "as": "সংঘ লোকসেৱা আয়োগ ক'ত প্ৰতিষ্ঠিত হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 324",
+        "as": "অনুচ্ছেদ ৩২৪"
+      },
+      {
+        "en": "Article 315",
+        "as": "অনুচ্ছেদ ৩১৫"
+      },
+      {
+        "en": "Article 148",
+        "as": "অনুচ্ছেদ ১৪৮"
+      },
+      {
+        "en": "Article 280",
+        "as": "অনুচ্ছেদ ২৮০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 315 provides for the Union and State Public Service Commissions.",
+      "as": "অনুচ্ছেদ ৩১৫ এ সংঘ আৰু ৰাজ্য লোকসেৱা আয়োগৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-303",
+    "q": {
+      "en": "National emergency has been declared in India how many times so far?",
+      "as": "ভাৰতত এতিয়ালৈকে কিমানবাৰ ৰাষ্ট্ৰীয় আপদকাল ঘোষণা কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Once",
+        "as": "এবাৰ"
+      },
+      {
+        "en": "Three times",
+        "as": "তিনিবাৰ"
+      },
+      {
+        "en": "Twice",
+        "as": "দুবাৰ"
+      },
+      {
+        "en": "Never",
+        "as": "কেতিয়াও নহয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "National emergency has been declared three times: 1962, 1971 and 1975.",
+      "as": "ৰাষ্ট্ৰীয় আপদকাল তিনিবাৰ ঘোষণা কৰা হৈছে: ১৯৬২, ১৯৭১ আৰু ১৯৭৫।"
+    }
+  }
+]

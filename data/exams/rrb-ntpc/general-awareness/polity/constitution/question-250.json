@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-250",
+    "q": {
+      "en": "The territory of India under Article 1 includes:",
+      "as": "অনুচ্ছেদ ১ ৰ অধীনত ভাৰতৰ ভূখণ্ডত অন্তৰ্ভুক্ত:"
+    },
+    "options": [
+      {
+        "en": "Only States",
+        "as": "কেৱল ৰাজ্য"
+      },
+      {
+        "en": "Only Union Territories",
+        "as": "কেৱল কেন্দ্ৰীয় শাসিত অঞ্চল"
+      },
+      {
+        "en": "Only mainland",
+        "as": "কেৱল মূল ভূখণ্ড"
+      },
+      {
+        "en": "States, Union Territories and acquired territories",
+        "as": "ৰাজ্য, কেন্দ্ৰীয় শাসিত অঞ্চল আৰু অৰ্জিত ভূখণ্ড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The territory of India includes States, Union Territories and any acquired territory.",
+      "as": "ভাৰতৰ ভূখণ্ডত ৰাজ্য, কেন্দ্ৰীয় শাসিত অঞ্চল আৰু যিকোনো অৰ্জিত ভূখণ্ড অন্তৰ্ভুক্ত।"
+    }
+  }
+]

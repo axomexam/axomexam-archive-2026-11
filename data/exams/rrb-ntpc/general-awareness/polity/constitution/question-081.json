@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-081",
+    "q": {
+      "en": "Article 17 of the Constitution abolishes:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ১৭ এ কিক বিলুপ্ত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Titles",
+        "as": "উপাধি"
+      },
+      {
+        "en": "Bonded labour",
+        "as": "বন্ধা শ্ৰম"
+      },
+      {
+        "en": "Child labour",
+        "as": "শিশু শ্ৰম"
+      },
+      {
+        "en": "Untouchability",
+        "as": "অস্পৃশ্যতা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Untouchability is abolished and its practice forbidden by Article 17.",
+      "as": "অনুচ্ছেদ ১৭ এ অস্পৃশ্যতা বিলুপ্ত কৰে আৰু যিকোনো ৰূপত ইয়াৰ প্ৰচলন নিষিদ্ধ কৰে।"
+    }
+  }
+]

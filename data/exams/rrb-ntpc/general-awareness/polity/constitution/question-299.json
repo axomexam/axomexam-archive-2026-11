@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-299",
+    "q": {
+      "en": "A financial emergency can be proclaimed by the President under:",
+      "as": "ৰাষ্ট্ৰপতিয়ে ক'ত বিত্তীয় আপদকাল ঘোষণা কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 352",
+        "as": "অনুচ্ছেদ ৩৫২"
+      },
+      {
+        "en": "Article 360",
+        "as": "অনুচ্ছেদ ৩৬০"
+      },
+      {
+        "en": "Article 356",
+        "as": "অনুচ্ছেদ ৩৫৬"
+      },
+      {
+        "en": "Article 361",
+        "as": "অনুচ্ছেদ ৩৬১"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A financial emergency is provided for by Article 360.",
+      "as": "অনুচ্ছেদ ৩৬০ এ বিত্তীয় আপদকালৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

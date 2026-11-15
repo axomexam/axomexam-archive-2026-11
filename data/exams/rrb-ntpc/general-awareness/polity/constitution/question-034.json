@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-034",
+    "q": {
+      "en": "The Constitution of India is the longest written constitution of any:",
+      "as": "ভাৰতৰ সংবিধান যিকোনো কিয়ৰ আটাইতকৈ দীঘল লিখিত সংবিধান?"
+    },
+    "options": [
+      {
+        "en": "Republic only",
+        "as": "কেৱল প্ৰজাতন্ত্ৰ"
+      },
+      {
+        "en": "Sovereign country",
+        "as": "সাৰ্বভৌম দেশ"
+      },
+      {
+        "en": "Federation only",
+        "as": "কেৱল সংঘ"
+      },
+      {
+        "en": "Democracy only",
+        "as": "কেৱল গণতন্ত্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "It is the longest written constitution of any sovereign country.",
+      "as": "এইটো যিকোনো সাৰ্বভৌম দেশৰ আটাইতকৈ দীঘল লিখিত সংবিধান।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-233",
+    "q": {
+      "en": "The Comptroller and Auditor General can be removed from office:",
+      "as": "নিয়ন্ত্ৰক আৰু মহা-লেখা পৰীক্ষকক পদৰ পৰা আঁতৰাব পাৰি:"
+    },
+    "options": [
+      {
+        "en": "By the President at will",
+        "as": "ৰাষ্ট্ৰপতিৰ ইচ্ছামতে"
+      },
+      {
+        "en": "By the Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰীৰ দ্বাৰা"
+      },
+      {
+        "en": "In the same manner as a Supreme Court judge",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়ৰ বিচাৰকৰ দৰে একে ধৰণে"
+      },
+      {
+        "en": "By Parliament by simple majority",
+        "as": "সংসদৰ সৰল সংখ্যাগৰিষ্ঠতাৰ দ্বাৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The CAG can be removed only like a judge of the Supreme Court.",
+      "as": "CAG ক কেৱল সৰ্বোচ্চ ন্যায়ালয়ৰ বিচাৰকৰ দৰে আঁতৰাব পাৰি।"
+    }
+  }
+]

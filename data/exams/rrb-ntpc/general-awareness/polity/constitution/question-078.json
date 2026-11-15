@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-078",
+    "q": {
+      "en": "Article 14 of the Constitution guarantees:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ১৪ এ কিক নিশ্চিত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Freedom of speech",
+        "as": "বাক স্বাধীনতা"
+      },
+      {
+        "en": "Right to life",
+        "as": "জীৱনৰ অধিকাৰ"
+      },
+      {
+        "en": "Right to education",
+        "as": "শিক্ষাৰ অধিকাৰ"
+      },
+      {
+        "en": "Equality before law",
+        "as": "আইনৰ আগত সমতা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Equality before the law and equal protection of laws is guaranteed by Article 14.",
+      "as": "অনুচ্ছেদ ১৪ এ আইনৰ আগত সমতা আৰু আইনৰ সমান সুৰক্ষা নিশ্চিত কৰে।"
+    }
+  }
+]

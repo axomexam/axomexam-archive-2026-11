@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-076",
+    "q": {
+      "en": "Article 13 of the Constitution deals with:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ১৩ এ কিক লৈ কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Right to equality",
+        "as": "সমতাৰ অধিকাৰ"
+      },
+      {
+        "en": "Right to freedom",
+        "as": "স্বাধীনতাৰ অধিকাৰ"
+      },
+      {
+        "en": "Laws inconsistent with Fundamental Rights",
+        "as": "মৌলিক অধিকাৰৰ সৈতে অসঙ্গত আইন"
+      },
+      {
+        "en": "Right to constitutional remedies",
+        "as": "সাংবিধানিক প্ৰতিকাৰৰ অধিকাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 13 declares laws inconsistent with Fundamental Rights void.",
+      "as": "অনুচ্ছেদ ১৩ এ মৌলিক অধিকাৰৰ সৈতে অসঙ্গত আইন বাতিল বুলি ঘোষণা কৰে।"
+    }
+  }
+]

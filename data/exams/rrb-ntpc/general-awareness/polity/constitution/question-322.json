@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-322",
+    "q": {
+      "en": "The maximum strength of a State Legislative Council is fixed at:",
+      "as": "ৰাজ্যৰ বিধানপৰিষদৰ সৰ্বোচ্চ সদস্য সংখ্যা কিমান নিৰ্ধাৰিত?"
+    },
+    "options": [
+      {
+        "en": "Half of the Assembly's strength",
+        "as": "বিধানসভাৰ শক্তিৰ আধা"
+      },
+      {
+        "en": "250",
+        "as": "২৫০"
+      },
+      {
+        "en": "One-third of the Assembly's strength",
+        "as": "বিধানসভাৰ শক্তিৰ এক তৃতীয়াংশ"
+      },
+      {
+        "en": "100",
+        "as": "১০০"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A Legislative Council cannot have more than one-third of the Assembly's strength.",
+      "as": "বিধানপৰিষদত বিধানসভাৰ শক্তিৰ এক তৃতীয়াংশতকৈ বেছি সদস্য থাকিব নোৱাৰে।"
+    }
+  }
+]

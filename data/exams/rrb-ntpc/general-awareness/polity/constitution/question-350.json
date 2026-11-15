@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-350",
+    "q": {
+      "en": "The Constitution of India came into force on 26 January 1950, and this day is celebrated as:",
+      "as": "ভাৰতৰ সংবিধান ২৬ জানুৱাৰী ১৯৫০ ত বলবৎ হৈছিল, আৰু এই দিনটো কিয় হিচাপে পালন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Independence Day",
+        "as": "স্বাধীনতা দিৱস"
+      },
+      {
+        "en": "Constitution Day",
+        "as": "সংবিধান দিৱস"
+      },
+      {
+        "en": "Unity Day",
+        "as": "ঐক্য দিৱস"
+      },
+      {
+        "en": "Republic Day",
+        "as": "প্ৰজাতন্ত্ৰ দিৱস"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Republic Day is celebrated on 26 January.",
+      "as": "২৬ জানুৱাৰী প্ৰজাতন্ত্ৰ দিৱস হিচাপে পালন কৰা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-099",
+    "q": {
+      "en": "Article 22 of the Constitution provides safeguards against:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ২২ এ কিয়ৰ বিৰুদ্ধে সুৰক্ষা প্ৰদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "Taxation",
+        "as": "কৰ"
+      },
+      {
+        "en": "Search",
+        "as": "তালাচী"
+      },
+      {
+        "en": "Trial",
+        "as": "বিচাৰ"
+      },
+      {
+        "en": "Arrest and detention",
+        "as": "গ্ৰেপ্তাৰ আৰু আটক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Article 22 provides safeguards against arbitrary arrest and detention.",
+      "as": "অনুচ্ছেদ ২২ এ স্বেচ্ছাচাৰী গ্ৰেপ্তাৰ আৰু আটকৰ বিৰুদ্ধে সুৰক্ষা প্ৰদান কৰে।"
+    }
+  }
+]

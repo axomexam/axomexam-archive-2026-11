@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-020",
+    "q": {
+      "en": "The concept of the procedure for amendment of the Constitution was borrowed from:",
+      "as": "সংবিধান সংশোধনৰ প্ৰক্ৰিয়াৰ ধাৰণাটো কিয়ৰ পৰা ধাৰ লোৱা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Ireland",
+        "as": "আয়াৰলেণ্ড"
+      },
+      {
+        "en": "South Africa",
+        "as": "দক্ষিণ আফ্ৰিকা"
+      },
+      {
+        "en": "United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Canada",
+        "as": "কানাডা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "South Africa's Constitution inspired the amendment procedure.",
+      "as": "সংশোধন প্ৰক্ৰিয়া দক্ষিণ আফ্ৰিকাৰ পৰা ধাৰ লোৱা হৈছিল।"
+    }
+  }
+]

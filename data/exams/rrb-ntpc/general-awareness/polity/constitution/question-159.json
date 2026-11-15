@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-159",
+    "q": {
+      "en": "At present, how many Fundamental Duties are there in the Constitution?",
+      "as": "বৰ্তমান সংবিধানত কিমানটা মৌলিক কৰ্তব্য আছে?"
+    },
+    "options": [
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "11",
+        "as": "১১"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "9",
+        "as": "৯"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Eleven Fundamental Duties exist at present.",
+      "as": "বৰ্তমান এঘাৰটা মৌলিক কৰ্তব্য আছে।"
+    }
+  }
+]

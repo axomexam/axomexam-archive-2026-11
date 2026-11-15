@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-243",
+    "q": {
+      "en": "The Mandal Commission was related to:",
+      "as": "মণ্ডল আয়োগ কিয়ৰ সৈতে সম্পৰ্কিত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Panchayati Raj",
+        "as": "পঞ্চায়তী ৰাজ"
+      },
+      {
+        "en": "Reservation for socially and educationally backward classes",
+        "as": "সামাজিক আৰু শিক্ষাগতভাৱে পিছপৰা শ্ৰেণীৰ বাবে সংৰক্ষণ"
+      },
+      {
+        "en": "Centre-State relations",
+        "as": "কেন্দ্ৰ-ৰাজ্য সম্পৰ্ক"
+      },
+      {
+        "en": "Electoral reforms",
+        "as": "নিৰ্বাচনী সংস্কাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Mandal Commission dealt with reservation for backward classes.",
+      "as": "মণ্ডল আয়োগে পিছপৰা শ্ৰেণীৰ বাবে সংৰক্ষণ লৈ কাম কৰিছিল।"
+    }
+  }
+]

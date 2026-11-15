@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-123",
+    "q": {
+      "en": "Article 34 of the Constitution deals with restrictions on Fundamental Rights while:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ৩৪ এ কেতিয়া মৌলিক অধিকাৰৰ ওপৰত নিষেধাজ্ঞা লৈ কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Martial law is in force",
+        "as": "মাৰ্চিয়েল আইন বলবৎ থাকিলে"
+      },
+      {
+        "en": "An election is held",
+        "as": "নিৰ্বাচন হ'লে"
+      },
+      {
+        "en": "A budget is passed",
+        "as": "বাজেট পাছ হ'লে"
+      },
+      {
+        "en": "A census is taken",
+        "as": "জনগণনা হ'লে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Article 34 allows restriction of Fundamental Rights while martial law is in force in an area.",
+      "as": "অনুচ্ছেদ ৩৪ এ কোনো অঞ্চলত মাৰ্চিয়েল আইন বলবৎ থাকিলে মৌলিক অধিকাৰ সীমিত কৰিবলৈ দিয়ে।"
+    }
+  }
+]

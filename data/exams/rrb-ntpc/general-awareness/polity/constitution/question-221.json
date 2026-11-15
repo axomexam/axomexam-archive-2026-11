@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-221",
+    "q": {
+      "en": "The Comptroller and Auditor General of India is appointed by the:",
+      "as": "ভাৰতৰ নিয়ন্ত্ৰক আৰু মহা-লেখা পৰীক্ষক কিয়ৰ দ্বাৰা নিযুক্ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "Chief Justice",
+        "as": "প্ৰধান ন্যায়াধীশ"
+      },
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The President appoints the CAG.",
+      "as": "CAG ৰাষ্ট্ৰপতিৰ দ্বাৰা নিযুক্ত হয়।"
+    }
+  }
+]

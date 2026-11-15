@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-230",
+    "q": {
+      "en": "The Central Vigilance Commission is a:",
+      "as": "কেন্দ্ৰীয় সতৰ্কতা আয়োগ হ'ল এটা:"
+    },
+    "options": [
+      {
+        "en": "Constitutional body",
+        "as": "সাংবিধানিক সংস্থা"
+      },
+      {
+        "en": "Judicial body",
+        "as": "ন্যায়িক সংস্থা"
+      },
+      {
+        "en": "Election body",
+        "as": "নিৰ্বাচনী সংস্থা"
+      },
+      {
+        "en": "Statutory body",
+        "as": "বিধিবদ্ধ সংস্থা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The CVC is a statutory body.",
+      "as": "CVC এটা বিধিবদ্ধ সংস্থা।"
+    }
+  }
+]

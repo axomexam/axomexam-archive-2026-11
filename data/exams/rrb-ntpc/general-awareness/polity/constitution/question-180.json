@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-180",
+    "q": {
+      "en": "Overseas Citizenship of India (OCI) is a form of:",
+      "as": "ভাৰতৰ বিদেশী নাগৰিকত্ব (OCI) হ'ল এটা ৰূপ:"
+    },
+    "options": [
+      {
+        "en": "Dual citizenship",
+        "as": "দ্বৈত নাগরিকত্ব"
+      },
+      {
+        "en": "Full citizenship",
+        "as": "পূৰ্ণ নাগৰিকত্ব"
+      },
+      {
+        "en": "Long-term visa status",
+        "as": "দীৰ্ঘম্যাদী ভিছা স্থিতি"
+      },
+      {
+        "en": "Permanent residency only",
+        "as": "কেৱল স্থায়ী বাসস্থান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "OCI is a long-term visa status, not dual citizenship.",
+      "as": "OCI এটা দীৰ্ঘম্যাদী ভিছা স্থিতি, দ্বৈত নাগৰিকত্ব নহয়।"
+    }
+  }
+]

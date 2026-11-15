@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-198",
+    "q": {
+      "en": "The anti-defection law was added to the Constitution by which amendment?",
+      "as": "দলত্যাগ-বিৰোধী আইন কোনটো সংশোধনীৰ দ্বাৰা সংবিধানত যোগ কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "42nd Amendment",
+        "as": "৪২ সংখ্যক সংশোধনী"
+      },
+      {
+        "en": "44th Amendment",
+        "as": "৪৪ সংখ্যক সংশোধনী"
+      },
+      {
+        "en": "52nd Amendment",
+        "as": "৫২ সংখ্যক সংশোধনী"
+      },
+      {
+        "en": "61st Amendment",
+        "as": "৬১ সংখ্যক সংশোধনী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The 52nd Amendment of 1985 added the anti-defection law.",
+      "as": "১৯৮৫ চনৰ ৫২ সংখ্যক সংশোধনীয়ে দলত্যাগ-বিৰোধী আইন যোগ কৰিছিল।"
+    }
+  }
+]

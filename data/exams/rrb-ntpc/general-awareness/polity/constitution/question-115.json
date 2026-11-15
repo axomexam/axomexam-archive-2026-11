@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-115",
+    "q": {
+      "en": "The writ of quo warranto is issued to:",
+      "as": "কুৱ' ৱাৰেণ্ট' ৰিট কিক কৰিবলৈ জাৰি কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Release a detained person",
+        "as": "আটক কৰা ব্যক্তি এৰি দিবলৈ"
+      },
+      {
+        "en": "Compel a duty",
+        "as": "কৰ্তব্য পালন কৰিবলৈ বাধ্য কৰিবলৈ"
+      },
+      {
+        "en": "Question a person's authority to hold a public office",
+        "as": "ৰাজহুৱা পদত থকাৰ কৰ্তৃত্ব প্ৰশ্ন কৰিবলৈ"
+      },
+      {
+        "en": "Transfer a case",
+        "as": "গোচৰ স্থানান্তৰ কৰিবলৈ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Quo warranto questions the legality of a person's claim to a public office.",
+      "as": "কুৱ' ৱাৰেণ্ট'এ ৰাজহুৱা পদত ব্যক্তিৰ দাবীৰ বৈধতা প্ৰশ্ন কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-182",
+    "q": {
+      "en": "The Constitution of India deals with the acquisition and termination of citizenship in Articles:",
+      "as": "ভাৰতৰ সংবিধানে নাগৰিকত্ব অৰ্জন আৰু সমাপ্তি কিয় অনুচ্ছেদত আলোচনা কৰে?"
+    },
+    "options": [
+      {
+        "en": "12 to 35",
+        "as": "১২ ৰ পৰা ৩৫"
+      },
+      {
+        "en": "36 to 51",
+        "as": "৩৬ ৰ পৰা ৫১"
+      },
+      {
+        "en": "1 to 4",
+        "as": "১ ৰ পৰা ৪"
+      },
+      {
+        "en": "5 to 11",
+        "as": "৫ ৰ পৰা ১১"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Articles 5 to 11 deal with citizenship.",
+      "as": "অনুচ্ছেদ ৫ ৰ পৰা ১১ ত নাগৰিকত্ব লৈ আলোচনা কৰা হৈছে।"
+    }
+  }
+]

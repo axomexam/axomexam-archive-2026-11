@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-135",
+    "q": {
+      "en": "The Directive Principles aim to establish a:",
+      "as": "নিৰ্দেশক নীতিবোৰে কিক প্ৰতিষ্ঠা কৰাৰ লক্ষ্য ৰাখে?"
+    },
+    "options": [
+      {
+        "en": "Police state",
+        "as": "আৰক্ষী ৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Welfare state",
+        "as": "কল্যাণ ৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Socialist state only",
+        "as": "কেৱল সমাজবাদী ৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Capitalist state",
+        "as": "পুঁজিবাদী ৰাষ্ট্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Directive Principles aim at establishing a welfare state.",
+      "as": "নিৰ্দেশক নীতিবোৰে কল্যাণ ৰাষ্ট্ৰ প্ৰতিষ্ঠাৰ লক্ষ্য ৰাখে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-132",
+    "q": {
+      "en": "Which of the following is NOT a Fundamental Right in the Indian Constitution today?",
+      "as": "তলৰ কোনটো আজি ভাৰতীয় সংবিধানত মৌলিক অধিকাৰ নহয়?"
+    },
+    "options": [
+      {
+        "en": "Right to equality",
+        "as": "সমতাৰ অধিকাৰ"
+      },
+      {
+        "en": "Right to freedom",
+        "as": "স্বাধীনতাৰ অধিকাৰ"
+      },
+      {
+        "en": "Right to constitutional remedies",
+        "as": "সাংবিধানিক প্ৰতিকাৰৰ অধিকাৰ"
+      },
+      {
+        "en": "Right to property",
+        "as": "সম্পত্তিৰ অধিকাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The right to property ceased to be a Fundamental Right after the 44th Amendment.",
+      "as": "৪৪ সংখ্যক সংশোধনীৰ পিছত সম্পত্তিৰ অধিকাৰ মৌলিক অধিকাৰ নহয়।"
+    }
+  }
+]

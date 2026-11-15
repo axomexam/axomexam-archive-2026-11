@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-006",
+    "q": {
+      "en": "26 November is celebrated in India as:",
+      "as": "ভাৰতত ২৬ নৱেম্বৰ কিয় হিচাপে পালন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Independence Day",
+        "as": "স্বাধীনতা দিৱস"
+      },
+      {
+        "en": "Constitution Day",
+        "as": "সংবিধান দিৱস"
+      },
+      {
+        "en": "Republic Day",
+        "as": "প্ৰজাতন্ত্ৰ দিৱস"
+      },
+      {
+        "en": "National Unity Day",
+        "as": "ৰাষ্ট্ৰীয় ঐক্য দিৱস"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "26 November is observed as Constitution Day.",
+      "as": "২৬ নৱেম্বৰ সংবিধান দিৱস হিচাপে পালন কৰা হয়।"
+    }
+  }
+]

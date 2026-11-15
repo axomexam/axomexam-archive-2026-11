@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-255",
+    "q": {
+      "en": "Article 5 of the Constitution deals with citizenship of persons who:",
+      "as": "সংবিধানৰ অনুচ্ছেদ ৫ এ কিয়ৰ নাগৰিকত্ব লৈ কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Migrated from Pakistan",
+        "as": "পাকিস্তানৰ পৰা প্ৰব্ৰজন কৰা"
+      },
+      {
+        "en": "Returned from abroad",
+        "as": "বিদেশৰ পৰা ঘূৰি অহা"
+      },
+      {
+        "en": "Were born after 1950",
+        "as": "১৯৫০ ৰ পিছত জন্মগ্ৰহণ কৰা"
+      },
+      {
+        "en": "Domiciled in India at commencement",
+        "as": "আৰম্ভণিতে ভাৰতত বসবাস কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Article 5 dealt with citizenship of those domiciled in India at commencement.",
+      "as": "অনুচ্ছেদ ৫ এ আৰম্ভণিতে ভাৰতত বসবাস কৰা লোকৰ নাগৰিকত্ব লৈ কাম কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-325",
+    "q": {
+      "en": "The Finance Commission is constituted every:",
+      "as": "বিত্ত আয়োগ কিমান বছৰৰ মূৰে মূৰে গঠন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "3 years",
+        "as": "৩ বছৰ"
+      },
+      {
+        "en": "5 years",
+        "as": "৫ বছৰ"
+      },
+      {
+        "en": "6 years",
+        "as": "৬ বছৰ"
+      },
+      {
+        "en": "10 years",
+        "as": "১০ বছৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A Finance Commission is constituted every five years under Article 280.",
+      "as": "অনুচ্ছেদ ২৮০ ৰ অধীনত প্ৰতি পাঁচ বছৰৰ মূৰে মূৰে বিত্ত আয়োগ গঠন কৰা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-027",
+    "q": {
+      "en": "The Constituent Assembly of India had how many committees in total?",
+      "as": "ভাৰতৰ সংবিধান সভাত মুঠতে কিমানখন সমিতি আছিল?"
+    },
+    "options": [
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "20",
+        "as": "২০"
+      },
+      {
+        "en": "13",
+        "as": "১৩"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Constituent Assembly set up 13 major committees.",
+      "as": "সংবিধান সভাই ১৩ খন প্ৰধান সমিতি গঠন কৰিছিল।"
+    }
+  }
+]

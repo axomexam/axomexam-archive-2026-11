@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-219",
+    "q": {
+      "en": "Who can initiate an amendment to the Constitution?",
+      "as": "সংবিধানৰ সংশোধন কিয়ৰ দ্বাৰা আৰম্ভ কৰিব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Only the Lok Sabha",
+        "as": "কেৱল লোকসভা"
+      },
+      {
+        "en": "Either House of Parliament",
+        "as": "সংসদৰ যিকোনো সদন"
+      },
+      {
+        "en": "Only the President",
+        "as": "কেৱল ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Only State legislatures",
+        "as": "কেৱল ৰাজ্য বিধানমণ্ডল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A Constitution amendment bill can be introduced in either House of Parliament.",
+      "as": "সংবিধান সংশোধন বিল সংসদৰ যিকোনো সদনত উত্থাপন কৰিব পাৰি।"
+    }
+  }
+]

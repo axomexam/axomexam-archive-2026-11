@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-261",
+    "q": {
+      "en": "Removal of the President of India is done through:",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰপতিক কিয়ৰ দ্বাৰা পদৰ পৰা আঁতৰাব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "A no-confidence motion",
+        "as": "অবিশ্বাস প্ৰস্তাৱ"
+      },
+      {
+        "en": "A censure motion",
+        "as": "নিন্দা প্ৰস্তাৱ"
+      },
+      {
+        "en": "Impeachment for violation of the Constitution",
+        "as": "সংবিধান উলংঘাৰ বাবে অভিশংসন"
+      },
+      {
+        "en": "The Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Impeachment for violation of the Constitution is the way to remove the President.",
+      "as": "সংবিধান উলংঘাৰ বাবে অভিশংসনৰ দ্বাৰা ৰাষ্ট্ৰপতিক আঁতৰাব পাৰি।"
+    }
+  }
+]

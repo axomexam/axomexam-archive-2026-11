@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-003",
+    "q": {
+      "en": "The Constituent Assembly of India was constituted in the year:",
+      "as": "ভাৰতৰ সংবিধান সভা কিমান চনত গঠন কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "1946",
+        "as": "১৯৪৬"
+      },
+      {
+        "en": "1947",
+        "as": "১৯৪৭"
+      },
+      {
+        "en": "1949",
+        "as": "১৯৪৯"
+      },
+      {
+        "en": "1950",
+        "as": "১৯৫০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Cabinet Mission Plan of 1946 led to the constitution of the Constituent Assembly.",
+      "as": "কেবিনেট মিছন প্লেনৰ অধীনত ১৯৪৬ চনত সংবিধান সভা গঠন কৰা হৈছিল।"
+    }
+  }
+]

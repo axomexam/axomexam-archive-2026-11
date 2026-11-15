@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-013",
+    "q": {
+      "en": "The Constituent Assembly adopted the national flag on:",
+      "as": "সংবিধান সভাই ৰাষ্ট্ৰীয় পতাকা গ্ৰহণ কৰিছিল:"
+    },
+    "options": [
+      {
+        "en": "15 August 1947",
+        "as": "১৫ আগষ্ট ১৯৪৭"
+      },
+      {
+        "en": "26 January 1950",
+        "as": "২৬ জানুৱাৰী ১৯৫০"
+      },
+      {
+        "en": "26 November 1949",
+        "as": "২৬ নৱেম্বৰ ১৯৪৯"
+      },
+      {
+        "en": "22 July 1947",
+        "as": "২২ জুলাই ১৯৪৭"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "India adopted its national flag on 22 July 1947.",
+      "as": "ৰাষ্ট্ৰীয় পতাকা ২২ জুলাই ১৯৪৭ ত গ্ৰহণ কৰা হৈছিল।"
+    }
+  }
+]

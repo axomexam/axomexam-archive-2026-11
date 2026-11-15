@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-247",
+    "q": {
+      "en": "The Constitution of India provides for the right to information as part of:",
+      "as": "ভাৰতৰ সংবিধানে তথ্যৰ অধিকাৰ কিয়ৰ অংশ হিচাপে প্ৰদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "Right to life",
+        "as": "জীৱনৰ অধিকাৰ"
+      },
+      {
+        "en": "Right to equality",
+        "as": "সমতাৰ অধিকাৰ"
+      },
+      {
+        "en": "Right to property",
+        "as": "সম্পত্তিৰ অধিকাৰ"
+      },
+      {
+        "en": "Freedom of speech and expression",
+        "as": "বাক আৰু প্ৰকাশৰ স্বাধীনতা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The right to information flows from the freedom of speech and expression under Article 19(1)(a).",
+      "as": "তথ্যৰ অধিকাৰ অনুচ্ছেদ ১৯(১)(ক) ৰ অধীনত বাক আৰু প্ৰকাশৰ স্বাধীনতাৰ পৰা ওলায়।"
+    }
+  }
+]

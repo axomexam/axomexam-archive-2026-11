@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-314",
+    "q": {
+      "en": "The Chairman of the Rajya Sabha is the:",
+      "as": "ৰাজ্যসভাৰ অধ্যক্ষ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "President of India",
+        "as": "ভাৰতৰ ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "Vice-President of India",
+        "as": "ভাৰতৰ উপ-ৰাষ্ট্ৰপতি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Rajya Sabha is headed by the Vice-President as its ex-officio Chairman.",
+      "as": "ভাৰতৰ উপ-ৰাষ্ট্ৰপতি ৰাজ্যসভাৰ পদাধিকাৰী অধ্যক্ষ।"
+    }
+  }
+]

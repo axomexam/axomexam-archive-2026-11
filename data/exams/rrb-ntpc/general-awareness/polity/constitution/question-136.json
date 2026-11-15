@@ -1,0 +1,32 @@
+[
+  {
+    "id": "constitution-136",
+    "q": {
+      "en": "The Directive Principles are classified into how many categories on the basis of their ideals?",
+      "as": "নিৰ্দেশক নীতিবোৰ ইয়াৰ আদৰ্শৰ ভিত্তিত কিমান শ্ৰেণীত বিভক্ত?"
+    },
+    "options": [
+      {
+        "en": "Two",
+        "as": "দুই"
+      },
+      {
+        "en": "Four",
+        "as": "চাৰি"
+      },
+      {
+        "en": "Three",
+        "as": "তিনি"
+      },
+      {
+        "en": "Five",
+        "as": "পাঁচ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "They are grouped into socialistic, Gandhian and liberal-intellectual principles.",
+      "as": "ইহঁত সমাজবাদী, গান্ধীবাদী আৰু উদাৰ-বৌদ্ধিক নীতিত বিভক্ত।"
+    }
+  }
+]
