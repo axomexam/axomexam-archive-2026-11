@@ -224,6 +224,61 @@ What was done, so the next agent does not redo or undo it:
 - **`data/counts.json` is deliberately unchanged.** The book is still
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
+
+## Session record — Nov 2026 RRB NTPC book published (pages, twins, SEO)
+
+The RRB NTPC book was flipped from `coming-soon` to `available` and given real
+static pages, so every deep link now resolves without booting the SPA.
+
+- **Pages.** `tools/build-rrb-ntpc-pages.js` writes the crawler-facing HTML for
+  the whole book (hub, section, group, leaf and syllabus pages) through the
+  shared `tools/lib/exam-book-pages.js`, reading the committed banks from
+  `data/exams/rrb-ntpc/...` and never writing into `data/`
+  (`noDataWrites: true`). The tool also registers the new URLs in the sitemap.
+  Result: 87 topics, 6,060 questions, 92 EN pages.
+- **Assamese twins.** `tools/build-as-twins.js --prefix exams/rrb-ntpc` writes
+  the `/as/` twins. Re-run it after any tool that rewrites `<title>`/`<h1>`,
+  or the twin head drifts out of sync with its English page.
+- **Status flip.** `"coming-soon"` → `"available"` in
+  `tools/rrb-ntpc.structure.js`, `data/exams/rrb-ntpc.json` and
+  `data/exams/index.json`; the SPA "content being prepared" popup was disabled
+  in `js/app.src.js`.
+- **Counts and hero.** `tools/build-question-counts.js` added the rrb keys to
+  `data/counts.json` (this also stops `hydrateExamCardCounts` from falling back
+  to a live GitHub API fetch of 6,060 files), and
+  `tools/sync-home-hero-count.js` moved the hero to 66,813 questions / 717
+  topics / 21 PDFs.
+- **Thin stub leaves → noindex.** 66 of the 87 leaf topics still hold only a
+  single sample question, so their pages were genuinely thin. Rather than pad
+  them with prose, `tools/seo-indexing-fix.js` now derives the stub-leaf list
+  from `data/counts.json` (leaf key with `<= 5` questions, i.e. no child key
+  under it) and sets those routes — plus their `/as/` twins — to
+  `noindex, follow`, and drops them from the sitemap. A topic leaves the set
+  automatically once its bank is filled and the counts are rebuilt; the hub and
+  section pages stay indexable. This took the audit from 66 thin pages to 0.
+- **Titles.** `tools/apply-keyword-map.js` gained `--only-prefix <path>` so the
+  keyword map can be applied to just this book's pages. Applying it to
+  `exams/rrb-ntpc/` fixed the 9 over-length titles the shared builder emits
+  (the builder's `"<topic> - <section> - <exam> | axomexam"` pattern runs past
+  60 chars on long topic names). Audit after: thin 0, title >60 0, desc >160 0,
+  dup titles/H1/descriptions 0.
+- **Asset restamp.** Because `js/app.src.js` changed, the order is
+  `node scripts/minify-assets.js` then `node scripts/stamp-assets.js` (the
+  latter refreshes the `?v=` hashes on every page and in `sw.js`; it is
+  idempotent — a second run reports 0 drift).
+- **Build order matters.** `tools/build-rrb-ntpc-pages.js` regenerates the leaf
+  pages from scratch, so it wipes the keyword-map titles, the enriched hub prose
+  and the `noindex` flag. Whenever it is re-run, follow it with, in order:
+  `tools/enrich-thin-pages.js` → `tools/apply-keyword-map.js --only-prefix
+  exams/rrb-ntpc/` → `tools/build-as-twins.js --prefix exams/rrb-ntpc` →
+  `tools/seo-indexing-fix.js`. That full chain is idempotent (a second run
+  produces byte-identical output). Running the builder last silently reverts
+  thin pages to 70 and titles to 50 over-length, which is what the audit caught.
+- **Not touched.** No question file, `index.json` or bank was modified; the
+  biology bank was re-verified only (310 questions, A/B/C/D =
+  25.5/25.2/24.2/25.2%, longest run 3, no verbatim or fuzzy reuse anywhere in
+  `data/`).
+
 ## Session record — Nov 2026 RRB NTPC Biology bank compliance fix (310 MCQs)
 
 The 310-question biology bank at

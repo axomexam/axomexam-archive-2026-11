@@ -51,6 +51,38 @@ const NOINDEX = new Set([
   "/topic/english/grammar-vocab/tenses/",
 ]);
 
+/* Exam-book topics that are published as stubs only: their leaf page holds a
+   single sample question, so the page has no unique content to rank and Google
+   reads it as thin. Derived from data/counts.json, so a topic drops out of
+   this set automatically once its bank is filled in and the counts rebuilt.
+   The hub and section pages stay indexable; only the stub leaves are held. */
+const STUB_MAX_QUESTIONS = 5;
+function collectStubLeaves() {
+  let counts = null;
+  try {
+    counts = JSON.parse(
+      fs.readFileSync(path.join(ROOT, "data", "counts.json"), "utf8")
+    ).examSectionCounts;
+  } catch (e) {
+    return [];
+  }
+  if (!counts) return [];
+  const keys = Object.keys(counts);
+  return keys
+    .filter((k) => {
+      if (counts[k] > STUB_MAX_QUESTIONS) return false;
+      /* Leaf only: no other key sits underneath this one. */
+      return !keys.some((o) => o !== k && o.startsWith(k + "/"));
+    })
+    .map((k) => "/exams/" + k + "/");
+}
+/* Both the English stub and its /as/ twin are held back, so Google never sees
+   an indexable Assamese duplicate of a noindexed page. */
+for (const route of collectStubLeaves()) {
+  NOINDEX.add(route);
+  NOINDEX.add("/as" + route);
+}
+
 /* -------------------- route discovery -------------------- */
 
 function collectRoutes() {

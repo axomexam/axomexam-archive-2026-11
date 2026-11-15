@@ -28,6 +28,10 @@ function makeExamBookTools(opts) {
   const DRY = !!opts.DRY;
   const DATE = opts.DATE;
   const chromeLeaf = opts.chromeLeaf;
+  /* When a book's data/ tree is hand-authored (the RRB NTPC banks are one
+     question per file), buildBook must build only the HTML pages and leave
+     every data/ file alone. */
+  const noDataWrites = !!opts.noDataWrites;
   const affiliationNote = opts.affiliationNote ||
     "axomexam.in is an independent study platform and is not affiliated with the recruiting authority or the Government of Assam. Verify all details from the official notification.";
 
@@ -47,6 +51,9 @@ function makeExamBookTools(opts) {
   }
 
   function write(rel, content) {
+    /* A hand-authored data/ tree (one question per file, hundreds of them)
+       must never be rewritten by the page builder. */
+    if (noDataWrites && /^data\//.test(rel)) { skipped++; return; }
     const abs = path.join(ROOT, rel);
     const next = content.endsWith("\n") ? content : content + "\n";
     let prev = null;

@@ -23,6 +23,8 @@
  * Usage:
  *   node tools/apply-keyword-map.js --check   # report drift, write nothing
  *   node tools/apply-keyword-map.js           # apply
+ *   node tools/apply-keyword-map.js --only-prefix exams/rrb-ntpc/
+ *                                             # apply to matching paths only
  */
 
 const fs = require("fs");
@@ -31,6 +33,11 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const KMAP = path.join(ROOT, "keyword-map.csv");
 const CHECK = process.argv.includes("--check");
+const prefIdx = process.argv.indexOf("--only-prefix");
+const ONLY_PREFIX =
+  prefIdx >= 0 && process.argv[prefIdx + 1]
+    ? process.argv[prefIdx + 1].replace(/^\/+/, "")
+    : null;
 
 function readCsv(p) {
   const text = fs.readFileSync(p, "utf8").replace(/\r\n/g, "\n");
@@ -114,6 +121,7 @@ let changed = 0, skipped = 0;
 const changedPaths = [];
 
 for (const r of rows) {
+  if (ONLY_PREFIX && !r.path.startsWith(ONLY_PREFIX)) continue;
   if (!r.suggested_title && !r.suggested_meta) { skipped++; continue; }
   const abs = path.join(ROOT, r.path);
   if (!fs.existsSync(abs)) continue;

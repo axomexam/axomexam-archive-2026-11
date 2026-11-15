@@ -4938,8 +4938,10 @@
 
   /* Books whose cover and card are live (the card reads "Read Now") but whose
      question banks are still being uploaded. Opening one shows a short
-     "content is being prepared" popup instead of an empty book. */
-  const EXAM_BOOKS_PREPARING = ["rrb-ntpc"];
+     "content is being prepared" popup instead of an empty book.
+     Empty today: every book listed as ready ships its banks, so the popup is
+     dormant. Keep the mechanism for the next book that launches early. */
+  const EXAM_BOOKS_PREPARING = [];
   function examBookIsPreparing(exam) {
     return !!(exam && EXAM_BOOKS_PREPARING.indexOf(exam.id) !== -1);
   }

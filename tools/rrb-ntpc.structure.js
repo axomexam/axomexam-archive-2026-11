@@ -12,10 +12,10 @@
    no runtime change, and it mirrors the folder layout of
    data/exams/adre-grade-3 so every maintenance tool keeps working.
 
-   The book is deliberately registered with status "coming-soon": the
-   tree (sections and topics) is published now so the owner can keep
-   dropping question files, while the /exams/ listing keeps showing the
-   "Coming Soon" chip until the book is flipped to "available".
+   The book is registered with status "available": its banks now carry
+   thousands of bilingual MCQs, so the /exams/ listing shows "Read Now"
+   and the static pages under exams/rrb-ntpc/ (written by
+   tools/build-rrb-ntpc-pages.js) serve every deep link directly.
 
    The sample question banks live in tools/rrb-ntpc.questions.js.
    ============================================================ */
@@ -43,7 +43,7 @@ const EXAM = {
   },
   color: "#0ea5e9",
   icon: "NTPC",
-  status: "coming-soon",
+  status: "available",
   sections: [
     {
       id: "syllabus",
