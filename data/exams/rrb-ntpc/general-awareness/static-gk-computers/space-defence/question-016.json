@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-016",
+    "q": {
+      "en": "What important discovery is Chandrayaan-1 credited with?",
+      "as": "চন্দ্ৰযান-১ ক কোন গুৰুত্বপূৰ্ণ আৱিষ্কাৰৰ কৃতিত্ব দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Rings around Saturn",
+        "as": "শনিৰ চাৰিওফালে বলয়"
+      },
+      {
+        "en": "A new planet",
+        "as": "এটা নতুন গ্ৰহ"
+      },
+      {
+        "en": "Presence of water molecules on the Moon",
+        "as": "চন্দ্ৰত পানীৰ অণুৰ উপস্থিতি"
+      },
+      {
+        "en": "Life on Mars",
+        "as": "মঙ্গল গ্ৰহত জীৱন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Chandrayaan-1's Moon Impact Probe confirmed the presence of water molecules on the lunar surface.",
+      "as": "চন্দ্ৰযান-১ ৰ মুন ইম্পেক্ট প্ৰ'বে চন্দ্ৰপৃষ্ঠত পানীৰ অণুৰ উপস্থিতি নিশ্চিত কৰিছিল।"
+    }
+  }
+]

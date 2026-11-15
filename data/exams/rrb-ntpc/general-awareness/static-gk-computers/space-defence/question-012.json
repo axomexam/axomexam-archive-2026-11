@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-012",
+    "q": {
+      "en": "Which ISRO rocket is popularly known as the 'workhorse' of India's space programme?",
+      "as": "কোন ISRO ৰকেটক ভাৰতৰ মহাকাশ কাৰ্যসূচীৰ 'ৱাৰ্কহৰ্ছ' বুলি জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "GSLV",
+        "as": "জিএছএলভি"
+      },
+      {
+        "en": "SLV-3",
+        "as": "এছএলভি-৩"
+      },
+      {
+        "en": "PSLV",
+        "as": "পিএছএলভি"
+      },
+      {
+        "en": "SSLV",
+        "as": "এছএছএলভি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The PSLV is nicknamed the workhorse of ISRO because of its many reliable launches.",
+      "as": "অসংখ্য নিৰ্ভৰযোগ্য উৎক্ষেপণৰ বাবে পিএছএলভিক ISRO ৰ ৱাৰ্কহৰ্ছ বুলি ডাকনাম দিয়া হৈছে।"
+    }
+  }
+]

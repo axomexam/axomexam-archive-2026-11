@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-250",
+    "q": {
+      "en": "The Defence Research and Development Organisation's 'Prithvi' missile has how many variants?",
+      "as": "প্ৰতিৰক্ষা গৱেষণা আৰু উন্নয়ন সংস্থাৰ 'পৃথ্বী' ক্ষেপণাস্ত্ৰৰ কিমানটা সংস্কৰণ আছে?"
+    },
+    "options": [
+      {
+        "en": "Three",
+        "as": "তিনিটা"
+      },
+      {
+        "en": "Two",
+        "as": "দুটা"
+      },
+      {
+        "en": "Four",
+        "as": "চাৰিটা"
+      },
+      {
+        "en": "Five",
+        "as": "পাঁচটা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Prithvi missile has three variants for the Army, Air Force and Navy.",
+      "as": "পৃথ্বী ক্ষেপণাস্ত্ৰৰ সেনা, বায়ুসেনা আৰু নৌসেনাৰ বাবে তিনিটা সংস্কৰণ আছে।"
+    }
+  }
+]

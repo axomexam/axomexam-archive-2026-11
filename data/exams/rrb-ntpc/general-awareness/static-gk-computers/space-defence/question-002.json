@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-002",
+    "q": {
+      "en": "What does the abbreviation ISRO stand for?",
+      "as": "ISRO ৰ পূৰ্ণ ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "Indian Space Research Organisation",
+        "as": "ইণ্ডিয়ান স্পেছ ৰিচাৰ্চ অৰ্গেনাইজেচন"
+      },
+      {
+        "en": "International Space Research Office",
+        "as": "ইণ্টাৰনেশ্যনেল স্পেছ ৰিচাৰ্চ অফিচ"
+      },
+      {
+        "en": "Indian Scientific Research Organisation",
+        "as": "ইণ্ডিয়ান ছায়েণ্টিফিক ৰিচাৰ্চ অৰ্গেনাইজেচন"
+      },
+      {
+        "en": "Indian Satellite Research Office",
+        "as": "ইণ্ডিয়ান ছেটেলাইট ৰিচাৰ্চ অফিচ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "ISRO stands for the Indian Space Research Organisation, India's national space agency.",
+      "as": "ISRO ৰ পূৰ্ণ ৰূপ ইণ্ডিয়ান স্পেছ ৰিচাৰ্চ অৰ্গেনাইজেচন, ভাৰতৰ ৰাষ্ট্ৰীয় মহাকাশ সংস্থা।"
+    }
+  }
+]

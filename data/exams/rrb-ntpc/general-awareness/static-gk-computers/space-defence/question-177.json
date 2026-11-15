@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-177",
+    "q": {
+      "en": "Which is India's first dedicated multi-wavelength space observatory?",
+      "as": "ভাৰতৰ প্ৰথম নিবেদিত বহু-তৰংগদৈৰ্ঘ্য মহাকাশ পৰ্যবেক্ষণাগাৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "XPoSat",
+        "as": "XPoSat"
+      },
+      {
+        "en": "AstroSat",
+        "as": "এষ্ট্ৰ'ছেট"
+      },
+      {
+        "en": "Aditya-L1",
+        "as": "আদিত্য-এল১"
+      },
+      {
+        "en": "Chandrayaan-2",
+        "as": "চন্দ্ৰযান-২"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "AstroSat observes the universe simultaneously across several wavelengths of light.",
+      "as": "এষ্ট্ৰ'ছেটে পোহৰৰ কেইবাটাও তৰংগদৈৰ্ঘ্যত একেসময়তে বিশ্বব্ৰহ্মাণ্ড পৰ্যবেক্ষণ কৰে।"
+    }
+  }
+]

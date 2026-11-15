@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-189",
+    "q": {
+      "en": "Which satellite is used by India for secure naval communication?",
+      "as": "ভাৰতৰ সুৰক্ষিত নৌ যোগাযোগৰ বাবে কোন উপগ্ৰহ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "INSAT-3D",
+        "as": "ইনছেট-৩ডি"
+      },
+      {
+        "en": "GSAT-7",
+        "as": "জিএছএট-৭"
+      },
+      {
+        "en": "Cartosat-2",
+        "as": "কাৰ্ট'ছেট-২"
+      },
+      {
+        "en": "Oceansat-2",
+        "as": "অ'চেনছেট-২"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "GSAT-7 is a dedicated secure communication satellite for the Indian Navy.",
+      "as": "জিএছএট-৭ ভাৰতীয় নৌসেনাৰ বাবে এক নিবেদিত সুৰক্ষিত যোগাযোগ উপগ্ৰহ।"
+    }
+  }
+]

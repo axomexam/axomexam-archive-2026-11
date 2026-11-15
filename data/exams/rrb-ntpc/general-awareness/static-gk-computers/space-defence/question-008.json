@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-008",
+    "q": {
+      "en": "Which Indian holds the record of being the first from the country in space?",
+      "as": "মহাকাশত ভাৰতৰ প্ৰথম ব্যক্তি হোৱাৰ ৰেকৰ্ড কোন ভাৰতীয়ৰ?"
+    },
+    "options": [
+      {
+        "en": "Kalpana Chawla",
+        "as": "কল্পনা চাওলা"
+      },
+      {
+        "en": "Ravish Malhotra",
+        "as": "ৰবিশ মালহোত্ৰা"
+      },
+      {
+        "en": "Rakesh Sharma",
+        "as": "ৰাকেশ শৰ্মা"
+      },
+      {
+        "en": "Sunita Williams",
+        "as": "ছুনিতা উইলিয়ামছ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rakesh Sharma flew on the Soviet Soyuz T-11 in 1984, becoming the first Indian in space.",
+      "as": "ৰাকেশ শৰ্মাই ১৯৮৪ চনত ছোভিয়েট ছয়ুজ টি-১১ ত উৰা মাৰি মহাকাশত প্ৰথম ভাৰতীয় হৈছিল।"
+    }
+  }
+]

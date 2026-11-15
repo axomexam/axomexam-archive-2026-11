@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-151",
+    "q": {
+      "en": "What is the natural satellite of the Earth called?",
+      "as": "পৃথিৱীৰ প্ৰাকৃতিক উপগ্ৰহক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Titan",
+        "as": "টাইটান"
+      },
+      {
+        "en": "The Moon",
+        "as": "চন্দ্ৰ"
+      },
+      {
+        "en": "Phobos",
+        "as": "ফ'বছ"
+      },
+      {
+        "en": "Europa",
+        "as": "ইউৰ'পা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Moon is the only natural satellite of the Earth.",
+      "as": "চন্দ্ৰ পৃথিৱীৰ একমাত্ৰ প্ৰাকৃতিক উপগ্ৰহ।"
+    }
+  }
+]

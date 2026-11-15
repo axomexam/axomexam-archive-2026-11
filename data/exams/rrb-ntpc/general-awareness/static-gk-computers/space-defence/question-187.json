@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-187",
+    "q": {
+      "en": "Which Indian private company built the Vikram-S rocket?",
+      "as": "কোন ভাৰতীয় ব্যক্তিগত কোম্পানীয়ে বিক্ৰম-এছ ৰকেট নিৰ্মাণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Agnikul Cosmos",
+        "as": "অগ্নিকুল কছমছ"
+      },
+      {
+        "en": "Pixxel",
+        "as": "পিক্সেল"
+      },
+      {
+        "en": "Skyroot Aerospace",
+        "as": "স্কাইৰুট এৰ'স্পেছ"
+      },
+      {
+        "en": "Dhruva Space",
+        "as": "ধ্ৰুৱ স্পেছ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Vikram-S, India's first privately built rocket, was made by Skyroot Aerospace.",
+      "as": "ভাৰতৰ প্ৰথম ব্যক্তিগতভাৱে নিৰ্মিত ৰকেট বিক্ৰম-এছ স্কাইৰুট এৰ'স্পেছে নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

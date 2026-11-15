@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-027",
+    "q": {
+      "en": "AstroSat is India's first dedicated mission in which field?",
+      "as": "এষ্ট্ৰ'ছেট ভাৰতৰ কোন ক্ষেত্ৰত প্ৰথম নিবেদিত অভিযান?"
+    },
+    "options": [
+      {
+        "en": "Meteorology",
+        "as": "বতৰ বিজ্ঞান"
+      },
+      {
+        "en": "Communication",
+        "as": "যোগাযোগ"
+      },
+      {
+        "en": "Navigation",
+        "as": "দিশ নিৰ্ণয়"
+      },
+      {
+        "en": "Multi-wavelength space astronomy",
+        "as": "বহু-তৰংগদৈৰ্ঘ্য মহাকাশ জ্যোতিৰ্বিজ্ঞান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "AstroSat carries several payloads that observe the cosmos in different wavelengths at once.",
+      "as": "এষ্ট্ৰ'ছেটে একেসময়তে বিভিন্ন তৰংগদৈৰ্ঘ্যত মহাবিশ্ব পৰ্যবেক্ষণ কৰিবলৈ কেইবাটাও পে'ল'ড কঢ়িয়াই নিয়ে।"
+    }
+  }
+]

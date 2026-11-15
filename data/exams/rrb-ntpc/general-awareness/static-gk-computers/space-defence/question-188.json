@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-188",
+    "q": {
+      "en": "Agnikul Cosmos is known for developing which type of rocket engine?",
+      "as": "অগ্নিকুল কছমছ কি ধৰণৰ ৰকেট ইঞ্জিন বিকশিত কৰাৰ বাবে জনাজাত?"
+    },
+    "options": [
+      {
+        "en": "A single-piece 3D-printed engine",
+        "as": "এক-খণ্ড ৩ডি-প্ৰিন্টেড ইঞ্জিন"
+      },
+      {
+        "en": "A nuclear engine",
+        "as": "এটা পাৰমাণৱিক ইঞ্জিন"
+      },
+      {
+        "en": "A cryogenic engine",
+        "as": "এটা ক্ৰায়'জেনিক ইঞ্জিন"
+      },
+      {
+        "en": "A solid booster",
+        "as": "এটা কঠিন বুষ্টাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Agnikul Cosmos developed a single-piece 3D-printed rocket engine.",
+      "as": "অগ্নিকুল কছমছে এক-খণ্ড ৩ডি-প্ৰিন্টেড ৰকেট ইঞ্জিন বিকশিত কৰিছিল।"
+    }
+  }
+]

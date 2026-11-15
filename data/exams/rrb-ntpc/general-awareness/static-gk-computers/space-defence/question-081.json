@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-081",
+    "q": {
+      "en": "Which missile is India's submarine-launched ballistic missile?",
+      "as": "কোন ক্ষেপণাস্ত্ৰ ভাৰতৰ ডুবুজাহাজ-উৎক্ষেপিত বেলিষ্টিক ক্ষেপণাস্ত্ৰ?"
+    },
+    "options": [
+      {
+        "en": "BrahMos",
+        "as": "ব্ৰহ্মস"
+      },
+      {
+        "en": "Akash",
+        "as": "আকাশ"
+      },
+      {
+        "en": "Pinaka",
+        "as": "পিনাক"
+      },
+      {
+        "en": "K-15 Sagarika",
+        "as": "কে-১৫ সাগৰিকা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "K-15 Sagarika is India's submarine-launched ballistic missile.",
+      "as": "কে-১৫ সাগৰিকা ভাৰতৰ ডুবুজাহাজ-উৎক্ষেপিত বেলিষ্টিক ক্ষেপণাস্ত্ৰ।"
+    }
+  }
+]

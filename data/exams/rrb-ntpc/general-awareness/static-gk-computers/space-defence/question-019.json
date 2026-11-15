@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-019",
+    "q": {
+      "en": "Which launch vehicle carried the Mars Orbiter Mission?",
+      "as": "কোন উৎক্ষেপণ যানে মঙ্গল অৰবিটাৰ মিছন কঢ়িয়াই নিছিল?"
+    },
+    "options": [
+      {
+        "en": "GSLV-D5",
+        "as": "জিএছএলভি-ডি৫"
+      },
+      {
+        "en": "LVM3-M1",
+        "as": "এলভিএম৩-এম১"
+      },
+      {
+        "en": "PSLV-C25",
+        "as": "পিএছএলভি-চি২৫"
+      },
+      {
+        "en": "SLV-3",
+        "as": "এছএলভি-৩"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Mars Orbiter Mission was launched aboard PSLV-C25.",
+      "as": "মঙ্গল অৰবিটাৰ মিছন পিএছএলভি-চি২৫ ত উৎক্ষেপণ কৰা হৈছিল।"
+    }
+  }
+]

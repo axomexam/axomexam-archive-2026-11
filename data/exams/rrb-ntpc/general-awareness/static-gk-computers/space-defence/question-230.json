@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-230",
+    "q": {
+      "en": "Visakhapatnam is the headquarters of which naval command?",
+      "as": "বিশাখাপট্টনম কোন নৌ কমাণ্ডৰ মুখ্য কাৰ্যালয়?"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Kochi",
+        "as": "কোচি"
+      },
+      {
+        "en": "Visakhapatnam",
+        "as": "বিশাখাপট্টনম"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Eastern Naval Command has its headquarters at Visakhapatnam in Andhra Pradesh.",
+      "as": "পূব নৌ কমাণ্ডৰ মুখ্য কাৰ্যালয় অন্ধ্ৰ প্ৰদেশৰ বিশাখাপট্টনমত অৱস্থিত।"
+    }
+  }
+]

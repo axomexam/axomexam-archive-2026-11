@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-022",
+    "q": {
+      "en": "What was the name of the rover carried by Chandrayaan-3?",
+      "as": "চন্দ্ৰযান-৩ এ কঢ়িয়াই নিয়া ৰ'ভাৰৰ নাম কি আছিল?"
+    },
+    "options": [
+      {
+        "en": "Vikram",
+        "as": "বিক্ৰম"
+      },
+      {
+        "en": "Pragyan",
+        "as": "প্ৰজ্ঞান"
+      },
+      {
+        "en": "Rohini",
+        "as": "ৰোহিণী"
+      },
+      {
+        "en": "Bhaskara",
+        "as": "ভাস্কৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Chandrayaan-3 rover was named Pragyan, meaning wisdom.",
+      "as": "চন্দ্ৰযান-৩ ৰ ৰ'ভাৰৰ নাম প্ৰজ্ঞান ৰখা হৈছিল, যাৰ অৰ্থ প্ৰজ্ঞা।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-186",
+    "q": {
+      "en": "What is the name of ISRO's reusable launch vehicle technology demonstrator?",
+      "as": "ISRO ৰ পুনৰ্ব্যৱহাৰযোগ্য উৎক্ষেপণ যান প্ৰযুক্তি প্ৰদৰ্শকৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "SSLV",
+        "as": "এছএছএলভি"
+      },
+      {
+        "en": "LVM3",
+        "as": "এলভিএম৩"
+      },
+      {
+        "en": "PSLV",
+        "as": "পিএছএলভি"
+      },
+      {
+        "en": "RLV-TD",
+        "as": "আৰএলভি-টিডি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "RLV-TD is ISRO's Reusable Launch Vehicle Technology Demonstrator.",
+      "as": "আৰএলভি-টিডি ISRO ৰ পুনৰ্ব্যৱহাৰযোগ্য উৎক্ষেপণ যান প্ৰযুক্তি প্ৰদৰ্শক।"
+    }
+  }
+]

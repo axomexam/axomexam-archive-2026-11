@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-089",
+    "q": {
+      "en": "Which body is responsible for India's nuclear weapons programme?",
+      "as": "ভাৰতৰ পাৰমাণৱিক অস্ত্ৰ কাৰ্যসূচীৰ বাবে কোনটো সংস্থা দায়বদ্ধ?"
+    },
+    "options": [
+      {
+        "en": "ISRO",
+        "as": "ISRO"
+      },
+      {
+        "en": "Department of Atomic Energy",
+        "as": "পাৰমাণৱিক শক্তি বিভাগ"
+      },
+      {
+        "en": "DRDO alone",
+        "as": "কেৱল DRDO"
+      },
+      {
+        "en": "HAL",
+        "as": "HAL"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "India's nuclear weapons programme is managed by the Department of Atomic Energy with DRDO.",
+      "as": "ভাৰতৰ পাৰমাণৱিক অস্ত্ৰ কাৰ্যসূচী DRDO ৰ সৈতে পাৰমাণৱিক শক্তি বিভাগে পৰিচালনা কৰে।"
+    }
+  }
+]

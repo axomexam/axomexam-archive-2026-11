@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-164",
+    "q": {
+      "en": "JAXA is the space agency of which country?",
+      "as": "JAXA কোন দেশৰ মহাকাশ সংস্থা?"
+    },
+    "options": [
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "South Korea",
+        "as": "দক্ষিণ কোৰিয়া"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      },
+      {
+        "en": "Germany",
+        "as": "জাৰ্মানী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "JAXA is the Japan Aerospace Exploration Agency.",
+      "as": "JAXA জাপান এৰ'স্পেছ এক্সপ্ল'ৰেচন এজেঞ্চি।"
+    }
+  }
+]

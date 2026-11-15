@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-009",
+    "q": {
+      "en": "What was India's first indigenous satellite launch vehicle called?",
+      "as": "ভাৰতৰ প্ৰথম দেশীয় উপগ্ৰহ উৎক্ষেপণ যানৰ নাম কি আছিল?"
+    },
+    "options": [
+      {
+        "en": "PSLV",
+        "as": "পিএছএলভি"
+      },
+      {
+        "en": "GSLV",
+        "as": "জিএছএলভি"
+      },
+      {
+        "en": "ASLV",
+        "as": "এএছএলভি"
+      },
+      {
+        "en": "SLV-3",
+        "as": "এছএলভি-৩"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "SLV-3 was India's first indigenous satellite launch vehicle.",
+      "as": "এছএলভি-৩ ভাৰতৰ প্ৰথম দেশীয় উপগ্ৰহ উৎক্ষেপণ যান আছিল।"
+    }
+  }
+]

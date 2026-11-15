@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-231",
+    "q": {
+      "en": "Which naval command is based at Mumbai?",
+      "as": "কোন নৌ কমাণ্ড মুম্বাইত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Karwar",
+        "as": "কাৰৱাৰ"
+      },
+      {
+        "en": "Goa",
+        "as": "গোৱা"
+      },
+      {
+        "en": "Kochi",
+        "as": "কোচি"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Western Naval Command operates from Mumbai.",
+      "as": "পশ্চিম নৌ কমাণ্ড মুম্বাইৰ পৰা কাৰ্য কৰে।"
+    }
+  }
+]

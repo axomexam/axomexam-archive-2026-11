@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-047",
+    "q": {
+      "en": "What is the name of ISRO's small satellite launch vehicle?",
+      "as": "ISRO ৰ সৰু উপগ্ৰহ উৎক্ষেপণ যানৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "PSLV",
+        "as": "পিএছএলভি"
+      },
+      {
+        "en": "SSLV",
+        "as": "এছএছএলভি"
+      },
+      {
+        "en": "GSLV",
+        "as": "জিএছএলভি"
+      },
+      {
+        "en": "SLV-3",
+        "as": "এছএলভি-৩"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "SSLV stands for Small Satellite Launch Vehicle, designed for small payloads.",
+      "as": "এছএছএলভি ৰ পূৰ্ণ ৰূপ স্মল ছেটেলাইট লঞ্চ ভেহিকল, সৰু পে'ল'ডৰ বাবে ডিজাইন কৰা।"
+    }
+  }
+]

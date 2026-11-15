@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-165",
+    "q": {
+      "en": "Which country's space agency is CNSA?",
+      "as": "CNSA কোন দেশৰ মহাকাশ সংস্থা?"
+    },
+    "options": [
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      },
+      {
+        "en": "Russia",
+        "as": "ৰাছিয়া"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "CNSA is the China National Space Administration.",
+      "as": "CNSA চীন ৰাষ্ট্ৰীয় মহাকাশ প্ৰশাসন।"
+    }
+  }
+]

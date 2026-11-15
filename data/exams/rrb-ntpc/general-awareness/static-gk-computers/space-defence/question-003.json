@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-003",
+    "q": {
+      "en": "ISRO came into existence in which year?",
+      "as": "ISRO কোন বছৰত অস্তিত্বলৈ আহিছিল?"
+    },
+    "options": [
+      {
+        "en": "1962",
+        "as": "১৯৬২"
+      },
+      {
+        "en": "1972",
+        "as": "১৯৭২"
+      },
+      {
+        "en": "1969",
+        "as": "১৯৬৯"
+      },
+      {
+        "en": "1975",
+        "as": "১৯৭৫"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "ISRO was created on 15 August 1969.",
+      "as": "ISRO ১৯৬৯ চনৰ ১৫ আগষ্টত সৃষ্টি কৰা হৈছিল।"
+    }
+  }
+]

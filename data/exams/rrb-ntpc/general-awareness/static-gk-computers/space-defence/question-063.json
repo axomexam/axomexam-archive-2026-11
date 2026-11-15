@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-063",
+    "q": {
+      "en": "Which country is the largest arms importer in the world in recent years?",
+      "as": "শেহতীয়া বছৰবোৰত বিশ্বৰ আটাইতকৈ ডাঙৰ অস্ত্ৰ আমদানিকাৰী দেশ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Saudi Arabia",
+        "as": "ছৌদি আৰব"
+      },
+      {
+        "en": "Egypt",
+        "as": "ইজিপ্ত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "India has been the world's largest arms importer for several years.",
+      "as": "ভাৰত কেইবাবছৰ ধৰি বিশ্বৰ আটাইতকৈ ডাঙৰ অস্ত্ৰ আমদানিকাৰী দেশ।"
+    }
+  }
+]

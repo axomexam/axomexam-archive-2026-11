@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-175",
+    "q": {
+      "en": "Cartosat satellites of ISRO are mainly used for which purpose?",
+      "as": "ISRO ৰ কাৰ্ট'ছেট উপগ্ৰহসমূহ মূলতঃ কি কামত ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Communication",
+        "as": "যোগাযোগ"
+      },
+      {
+        "en": "Weather forecasting",
+        "as": "বতৰৰ আগজাননী"
+      },
+      {
+        "en": "Astronomy",
+        "as": "জ্যোতিৰ্বিজ্ঞান"
+      },
+      {
+        "en": "Earth observation and mapping",
+        "as": "পৃথিৱী পৰ্যবেক্ষণ আৰু মানচিত্ৰণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Cartosat satellites are dedicated to earth observation and cartography.",
+      "as": "কাৰ্ট'ছেট উপগ্ৰহসমূহ পৃথিৱী পৰ্যবেক্ষণ আৰু মানচিত্ৰণৰ বাবে নিবেদিত।"
+    }
+  }
+]

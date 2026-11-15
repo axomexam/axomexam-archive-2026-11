@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-034",
+    "q": {
+      "en": "The INSAT series of satellites is mainly used for which purpose?",
+      "as": "ইনছেট শ্ৰেণীৰ উপগ্ৰহসমূহ মূলতঃ কি কামত ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Only navigation",
+        "as": "কেৱল দিশ নিৰ্ণয়"
+      },
+      {
+        "en": "Communication and broadcasting",
+        "as": "যোগাযোগ আৰু সম্প্ৰচাৰ"
+      },
+      {
+        "en": "Only defence",
+        "as": "কেৱল প্ৰতিৰক্ষা"
+      },
+      {
+        "en": "Only astronomy",
+        "as": "কেৱল জ্যোতিৰ্বিজ্ঞান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "INSAT satellites provide telecommunication, broadcasting and meteorological services.",
+      "as": "ইনছেট উপগ্ৰহসমূহে দূৰসংযোগ, সম্প্ৰচাৰ আৰু বতৰ বিজ্ঞানৰ সেৱা প্ৰদান কৰে।"
+    }
+  }
+]

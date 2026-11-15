@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-004",
+    "q": {
+      "en": "ISRO's headquarters is located in which city?",
+      "as": "ISRO ৰ মুখ্য কাৰ্যালয় কোন চহৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Bengaluru",
+        "as": "বেংগালুৰু"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Hyderabad",
+        "as": "হাইদৰাবাদ"
+      },
+      {
+        "en": "Thiruvananthapuram",
+        "as": "তিৰুৱনন্তপুৰম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "ISRO's headquarters is in Bengaluru, Karnataka.",
+      "as": "ISRO ৰ মুখ্য কাৰ্যালয় কৰ্ণাটকৰ বেংগালুৰুত অৱস্থিত।"
+    }
+  }
+]

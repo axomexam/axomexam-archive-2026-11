@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-191",
+    "q": {
+      "en": "The 'Trishul' missile developed by India is which type of missile?",
+      "as": "ভাৰতে বিকশিত কৰা 'ত্ৰিশূল' ক্ষেপণাস্ত্ৰ কি ধৰণৰ ক্ষেপণাস্ত্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Intercontinental ballistic missile",
+        "as": "আন্তঃমহাদেশীয় বেলিষ্টিক ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Anti-tank missile",
+        "as": "বিমান-বিধ্বংসী ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Cruise missile",
+        "as": "ক্ৰুজ ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Short-range surface-to-air missile",
+        "as": "চুটি পৰিসৰৰ ভূ-পৰা-বায়ু ক্ষেপণাস্ত্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Trishul was a short-range surface-to-air missile developed by DRDO.",
+      "as": "ত্ৰিশূল DRDO য়ে বিকশিত কৰা এক চুটি পৰিসৰৰ ভূ-পৰা-বায়ু ক্ষেপণাস্ত্ৰ আছিল।"
+    }
+  }
+]

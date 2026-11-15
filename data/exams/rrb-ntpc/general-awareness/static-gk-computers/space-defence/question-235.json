@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-235",
+    "q": {
+      "en": "Which army command has its headquarters at Jaipur?",
+      "as": "কোন সেনা কমাণ্ডৰ মুখ্য কাৰ্যালয় জয়পুৰত?"
+    },
+    "options": [
+      {
+        "en": "Jaipur",
+        "as": "জয়পুৰ"
+      },
+      {
+        "en": "Jodhpur",
+        "as": "জোধপুৰ"
+      },
+      {
+        "en": "Bhopal",
+        "as": "ভোপাল"
+      },
+      {
+        "en": "Pune",
+        "as": "পুনে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The South Western Command of the Indian Army is at Jaipur.",
+      "as": "ভাৰতীয় সেনাৰ দক্ষিণ-পশ্চিম কমাণ্ড জয়পুৰত অৱস্থিত।"
+    }
+  }
+]

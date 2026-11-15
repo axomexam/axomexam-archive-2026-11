@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-021",
+    "q": {
+      "en": "What was the name of the lander of the Chandrayaan-3 mission?",
+      "as": "চন্দ্ৰযান-৩ অভিযানৰ লেণ্ডাৰৰ নাম কি আছিল?"
+    },
+    "options": [
+      {
+        "en": "Pragyan",
+        "as": "প্ৰজ্ঞান"
+      },
+      {
+        "en": "Chandra",
+        "as": "চন্দ্ৰ"
+      },
+      {
+        "en": "Sarabhai",
+        "as": "সাৰাভাই"
+      },
+      {
+        "en": "Vikram",
+        "as": "বিক্ৰম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Chandrayaan-3's lander was named Vikram, after Vikram Sarabhai.",
+      "as": "চন্দ্ৰযান-৩ ৰ লেণ্ডাৰৰ নাম বিক্ৰম সাৰাভাইৰ নামেৰে বিক্ৰম ৰখা হৈছিল।"
+    }
+  }
+]

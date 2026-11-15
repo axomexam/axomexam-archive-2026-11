@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-163",
+    "q": {
+      "en": "Which organisation is abbreviated as ESA?",
+      "as": "কোন সংস্থাক ESA সংক্ষেপে কোৱা হয়?"
+    },
+    "options": [
+      {
+        "en": "Eurasian Space Agency",
+        "as": "ইউৰেশীয় মহাকাশ সংস্থা"
+      },
+      {
+        "en": "European Space Agency",
+        "as": "ইউৰোপীয় মহাকাশ সংস্থা"
+      },
+      {
+        "en": "European Satellite Association",
+        "as": "ইউৰোপীয় উপগ্ৰহ সন্থা"
+      },
+      {
+        "en": "Eastern Space Agency",
+        "as": "পূব মহাকাশ সংস্থা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "ESA is the abbreviation of the European Space Agency.",
+      "as": "ESA ইউৰোপীয় মহাকাশ সংস্থাৰ সংক্ষিপ্ত ৰূপ।"
+    }
+  }
+]

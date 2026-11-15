@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-029",
+    "q": {
+      "en": "Where is ISRO's main spaceport, the Satish Dhawan Space Centre, located?",
+      "as": "ISRO ৰ মূল মহাকাশ বন্দৰ সতীশ ধৱন মহাকাশ কেন্দ্ৰ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Thumba",
+        "as": "থুম্বা"
+      },
+      {
+        "en": "Sriharikota",
+        "as": "শ্ৰীহৰিকোটা"
+      },
+      {
+        "en": "Bengaluru",
+        "as": "বেংগালুৰু"
+      },
+      {
+        "en": "Chandipur",
+        "as": "চন্দিপুৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Satish Dhawan Space Centre is at Sriharikota in Andhra Pradesh.",
+      "as": "সতীশ ধৱন মহাকাশ কেন্দ্ৰ অন্ধ্ৰ প্ৰদেশৰ শ্ৰীহৰিকোটাত অৱস্থিত।"
+    }
+  }
+]

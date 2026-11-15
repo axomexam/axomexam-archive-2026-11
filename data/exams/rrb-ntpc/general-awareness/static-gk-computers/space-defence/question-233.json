@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-233",
+    "q": {
+      "en": "Which army command is headquartered at Kolkata?",
+      "as": "কোন সেনা কমাণ্ডৰ মুখ্য কাৰ্যালয় কলকাতাত?"
+    },
+    "options": [
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Lucknow",
+        "as": "লক্ষ্ণৌ"
+      },
+      {
+        "en": "Pune",
+        "as": "পুনে"
+      },
+      {
+        "en": "Jaipur",
+        "as": "জয়পুৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Eastern Command of the Indian Army is at Kolkata.",
+      "as": "ভাৰতীয় সেনাৰ পূব কমাণ্ড কলকাতাত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-139",
+    "q": {
+      "en": "'Astra' is which class of missile developed by DRDO?",
+      "as": "'অস্ত্ৰ' DRDO য়ে বিকশিত কৰা কোন শ্ৰেণীৰ ক্ষেপণাস্ত্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Surface-to-air missile",
+        "as": "ভূ-পৰা-বায়ু ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Anti-tank missile",
+        "as": "বিমান-বিধ্বংসী ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Beyond-visual-range air-to-air missile",
+        "as": "দৃষ্টিৰ বাহিৰৰ বায়ু-পৰা-বায়ু ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Cruise missile",
+        "as": "ক্ৰুজ ক্ষেপণাস্ত্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Astra is a beyond-visual-range air-to-air missile built by DRDO.",
+      "as": "অস্ত্ৰ DRDO য়ে নিৰ্মিত দৃষ্টিৰ বাহিৰৰ বায়ু-পৰা-বায়ু ক্ষেপণাস্ত্ৰ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-174",
+    "q": {
+      "en": "The Oceansat series of ISRO satellites is used for what purpose?",
+      "as": "ISRO ৰ অ'চেনছেট শৃংখলাৰ উপগ্ৰহসমূহ কি কামত ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Television broadcasting",
+        "as": "দূৰদৰ্শন সম্প্ৰচাৰ"
+      },
+      {
+        "en": "Studying oceans and marine resources",
+        "as": "সাগৰ আৰু সাগৰীয় সম্পদ অধ্যয়ন"
+      },
+      {
+        "en": "Navigation",
+        "as": "দিশ নিৰ্ণয়"
+      },
+      {
+        "en": "Military surveillance only",
+        "as": "কেৱল সামৰিক নজৰদাৰি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Oceansat satellites study ocean colour, sea surface temperature and marine resources.",
+      "as": "অ'চেনছেট উপগ্ৰহসমূহে সাগৰৰ ৰং, সাগৰপৃষ্ঠৰ উষ্ণতা আৰু সাগৰীয় সম্পদ অধ্যয়ন কৰে।"
+    }
+  }
+]

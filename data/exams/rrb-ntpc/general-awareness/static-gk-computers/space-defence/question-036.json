@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-036",
+    "q": {
+      "en": "NavIC is also known by which other name?",
+      "as": "NavIC ক আন কি নামেৰেও জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "GAGAN",
+        "as": "গগন"
+      },
+      {
+        "en": "IRNSS",
+        "as": "আইআৰএনএছএছ"
+      },
+      {
+        "en": "INSAT",
+        "as": "ইনছেট"
+      },
+      {
+        "en": "GSAT",
+        "as": "জিএছএট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "NavIC is also known as IRNSS, the Indian Regional Navigation Satellite System.",
+      "as": "NavIC ক আইআৰএনএছএছ, ভাৰতীয় আঞ্চলিক দিশ নিৰ্ণয় উপগ্ৰহ প্ৰণালী হিচাপেও জনা যায়।"
+    }
+  }
+]

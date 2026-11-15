@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-113",
+    "q": {
+      "en": "The Kargil War between India and Pakistan took place in which year?",
+      "as": "ভাৰত আৰু পাকিস্তানৰ মাজত কাৰ্গিল যুদ্ধ কোন বছৰত সংঘটিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "1971",
+        "as": "১৯৭১"
+      },
+      {
+        "en": "1965",
+        "as": "১৯৬৫"
+      },
+      {
+        "en": "1984",
+        "as": "১৯৮৪"
+      },
+      {
+        "en": "1999",
+        "as": "১৯৯৯"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Kargil War was fought in 1999.",
+      "as": "কাৰ্গিল যুদ্ধ ১৯৯৯ চনত লগা হৈছিল।"
+    }
+  }
+]

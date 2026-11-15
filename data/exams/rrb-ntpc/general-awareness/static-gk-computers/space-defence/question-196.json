@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-196",
+    "q": {
+      "en": "Which Indian missile series is named after the Earth?",
+      "as": "কোন ভাৰতীয় ক্ষেপণাস্ত্ৰ শৃংখলাৰ নাম পৃথিৱীৰ পৰা লোৱা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Agni",
+        "as": "অগ্নি"
+      },
+      {
+        "en": "Nag",
+        "as": "নাগ"
+      },
+      {
+        "en": "Akash",
+        "as": "আকাশ"
+      },
+      {
+        "en": "Prithvi",
+        "as": "পৃথ্বী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Prithvi missiles are named after Prithvi, the Earth.",
+      "as": "পৃথ্বী ক্ষেপণাস্ত্ৰসমূহ পৃথিৱী অৰ্থাৎ পৃথ্বীৰ নামেৰে নামাকৰণ কৰা হৈছে।"
+    }
+  }
+]

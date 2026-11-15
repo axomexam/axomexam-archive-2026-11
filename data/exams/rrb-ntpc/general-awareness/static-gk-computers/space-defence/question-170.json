@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-170",
+    "q": {
+      "en": "The Chandrayaan-1 mission carried which instrument to detect water on the Moon?",
+      "as": "চন্দ্ৰযান-১ অভিযানে চন্দ্ৰত পানী চিনাক্ত কৰিবলৈ কোন যন্ত্ৰ কঢ়িয়াই নিছিল?"
+    },
+    "options": [
+      {
+        "en": "Moon Impact Probe",
+        "as": "মুন ইম্পেক্ট প্ৰ'ব"
+      },
+      {
+        "en": "Pragyan rover",
+        "as": "প্ৰজ্ঞান ৰ'ভাৰ"
+      },
+      {
+        "en": "Vikram lander",
+        "as": "বিক্ৰম লেণ্ডাৰ"
+      },
+      {
+        "en": "Aditya payload",
+        "as": "আদিত্য পে'ল'ড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Moon Impact Probe of Chandrayaan-1 helped confirm water molecules on the Moon.",
+      "as": "চন্দ্ৰযান-১ ৰ মুন ইম্পেক্ট প্ৰ'বে চন্দ্ৰত পানীৰ অণু নিশ্চিত কৰিবলৈ সহায় কৰিছিল।"
+    }
+  }
+]

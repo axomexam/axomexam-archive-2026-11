@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-152",
+    "q": {
+      "en": "The abundant water on its surface earned which planet the nickname 'Blue Planet'?",
+      "as": "পৃষ্ঠৰ প্ৰচুৰ পানীৰ বাবে কোন গ্ৰহে 'নীলা গ্ৰহ' ডাকনাম পাইছে?"
+    },
+    "options": [
+      {
+        "en": "Neptune",
+        "as": "নেপচুন"
+      },
+      {
+        "en": "Uranus",
+        "as": "ইউৰেনাছ"
+      },
+      {
+        "en": "Venus",
+        "as": "শুক্ৰ"
+      },
+      {
+        "en": "Earth",
+        "as": "পৃথিৱী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Earth's vast oceans make it appear blue, so it is nicknamed the Blue Planet.",
+      "as": "পৃথিৱীৰ বিশাল মহাসাগৰে ইয়াক নীলা দেখুৱায়, সেয়ে ইয়াক নীলা গ্ৰহ ডাকনাম দিয়া হৈছে।"
+    }
+  }
+]

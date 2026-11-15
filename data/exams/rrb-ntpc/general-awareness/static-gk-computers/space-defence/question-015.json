@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-015",
+    "q": {
+      "en": "In which year did Chandrayaan-1 lift off?",
+      "as": "চন্দ্ৰযান-১ কোন বছৰত উৰণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "2007",
+        "as": "২০০৭"
+      },
+      {
+        "en": "2010",
+        "as": "২০১০"
+      },
+      {
+        "en": "2013",
+        "as": "২০১৩"
+      },
+      {
+        "en": "2008",
+        "as": "২০০৮"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Chandrayaan-1 lifted off in October 2008.",
+      "as": "চন্দ্ৰযান-১ ২০০৮ চনৰ অক্টোবৰত উৰণ কৰিছিল।"
+    }
+  }
+]

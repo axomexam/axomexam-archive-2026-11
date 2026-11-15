@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-226",
+    "q": {
+      "en": "The 'Shaurya Chakra' is awarded for what type of bravery?",
+      "as": "'শৌৰ্য চক্ৰ' কি ধৰণৰ বীৰত্বৰ বাবে প্ৰদান কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Long service in the army",
+        "as": "সেনাত দীৰ্ঘ সেৱা"
+      },
+      {
+        "en": "Excellence in academics",
+        "as": "শিক্ষাত উৎকৰ্ষ"
+      },
+      {
+        "en": "Bravery in sports",
+        "as": "ক্ৰীড়াত বীৰত্ব"
+      },
+      {
+        "en": "Gallantry otherwise than in the face of the enemy",
+        "as": "শত্ৰুৰ সন্মুখত নহয় বীৰত্ব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Unlike the Vir Chakra, the Shaurya Chakra honours gallantry away from the battlefield.",
+      "as": "বীৰ চক্ৰৰ দৰে নহয়, শৌৰ্য চক্ৰই ৰণক্ষেত্ৰৰ বাহিৰত বীৰত্বক সন্মান কৰে।"
+    }
+  }
+]

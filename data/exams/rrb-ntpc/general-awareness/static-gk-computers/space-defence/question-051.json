@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-051",
+    "q": {
+      "en": "What is the full form of the term 'cryogenic' in rocketry?",
+      "as": "ৰকেট বিজ্ঞানত 'ক্ৰায়'জেনিক' শব্দৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "Related to very high pressure",
+        "as": "অতি উচ্চ চাপৰ সৈতে সম্পৰ্কিত"
+      },
+      {
+        "en": "Related to electricity",
+        "as": "বিদ্যুৎৰ সৈতে সম্পৰ্কিত"
+      },
+      {
+        "en": "Related to very low temperatures",
+        "as": "অতি কম উষ্ণতাৰ সৈতে সম্পৰ্কিত"
+      },
+      {
+        "en": "Related to sound",
+        "as": "শব্দৰ সৈতে সম্পৰ্কিত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Cryogenic refers to fuels stored at extremely low temperatures.",
+      "as": "ক্ৰায়'জেনিকে অতি কম উষ্ণতাত সংৰক্ষিত ইন্ধনক বুজায়।"
+    }
+  }
+]

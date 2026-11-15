@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-192",
+    "q": {
+      "en": "The 'Dhanush' missile of India is which type of weapon?",
+      "as": "ভাৰতৰ 'ধনু' ক্ষেপণাস্ত্ৰ কি ধৰণৰ অস্ত্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Air-to-air missile",
+        "as": "বায়ু-পৰা-বায়ু ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Ship-launched ballistic missile",
+        "as": "জাহাজ-উৎক্ষেপিত বেলিষ্টিক ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Anti-tank missile",
+        "as": "বিমান-বিধ্বংসী ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Submarine-launched cruise missile",
+        "as": "ডুবুজাহাজ-উৎক্ষেপিত ক্ৰুজ ক্ষেপণাস্ত্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Dhanush is a naval variant of the Prithvi missile launched from ships.",
+      "as": "ধনু জাহাজৰ পৰা উৎক্ষেপণ কৰা পৃথ্বী ক্ষেপণাস্ত্ৰৰ এক নৌ সংস্কৰণ।"
+    }
+  }
+]

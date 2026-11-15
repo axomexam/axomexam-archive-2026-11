@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-052",
+    "q": {
+      "en": "A geostationary satellite appears fixed over a point on Earth because it orbits at what altitude?",
+      "as": "ভূস্থিতিক উপগ্ৰহে পৃথিৱীৰ এটা বিন্দুৰ ওপৰত স্থিৰ দেখা যায় কাৰণ ই কি উচ্চতাত ঘূৰে?"
+    },
+    "options": [
+      {
+        "en": "About 100 km above the equator",
+        "as": "বিষুৱৰেখাৰ প্ৰায় ১০০ কিমি ওপৰত"
+      },
+      {
+        "en": "About 500 km above the pole",
+        "as": "মেৰুৰ প্ৰায় ৫০০ কিমি ওপৰত"
+      },
+      {
+        "en": "About 5,000 km above the equator",
+        "as": "বিষুৱৰেখাৰ প্ৰায় ৫,০০০ কিমি ওপৰত"
+      },
+      {
+        "en": "About 36,000 km above the equator",
+        "as": "বিষুৱৰেখাৰ প্ৰায় ৩৬,০০০ কিমি ওপৰত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A geostationary satellite orbits about 35,786 km above the equator, matching Earth's rotation.",
+      "as": "ভূস্থিতিক উপগ্ৰহে বিষুৱৰেখাৰ প্ৰায় ৩৫,৭৮৬ কিমি ওপৰত ঘূৰে, পৃথিৱীৰ ঘূৰ্ণনৰ সৈতে মিলাই।"
+    }
+  }
+]

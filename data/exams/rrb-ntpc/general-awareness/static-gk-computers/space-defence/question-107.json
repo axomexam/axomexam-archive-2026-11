@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-107",
+    "q": {
+      "en": "The National Defence Academy is located in which state?",
+      "as": "ৰাষ্ট্ৰীয় প্ৰতিৰক্ষা একাডেমী কোন ৰাজ্যত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Uttarakhand",
+        "as": "উত্তৰাখণ্ড"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The National Defence Academy is at Khadakwasla near Pune in Maharashtra.",
+      "as": "ৰাষ্ট্ৰীয় প্ৰতিৰক্ষা একাডেমী মহাৰাষ্ট্ৰৰ পুনেৰ ওচৰৰ খদকৱাছলাত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-109",
+    "q": {
+      "en": "India observes Army Day every year on which date?",
+      "as": "ভাৰতে প্ৰতি বছৰে কোন তাৰিখে সেনা দিৱস পালন কৰে?"
+    },
+    "options": [
+      {
+        "en": "8 October",
+        "as": "৮ অক্টোবৰ"
+      },
+      {
+        "en": "4 December",
+        "as": "৪ ডিচেম্বৰ"
+      },
+      {
+        "en": "15 January",
+        "as": "১৫ জানুৱাৰী"
+      },
+      {
+        "en": "26 January",
+        "as": "২৬ জানুৱাৰী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Army Day is observed across India on 15 January.",
+      "as": "সমগ্ৰ ভাৰতত ১৫ জানুৱাৰীত সেনা দিৱস পালন কৰা হয়।"
+    }
+  }
+]

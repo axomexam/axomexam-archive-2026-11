@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-100",
+    "q": {
+      "en": "What is the topmost rank in the Indian Army's hierarchy?",
+      "as": "ভাৰতীয় সেনাৰ শ্ৰেণীবিন্যাসত সৰ্বোচ্চ পদ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Field Marshal",
+        "as": "ফিল্ড মাৰ্শাল"
+      },
+      {
+        "en": "General",
+        "as": "জেনেৰেল"
+      },
+      {
+        "en": "Lieutenant General",
+        "as": "লেফটেনেণ্ট জেনেৰেল"
+      },
+      {
+        "en": "Major General",
+        "as": "মেজৰ জেনেৰেল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Field Marshal is the five-star rank at the top of the Indian Army.",
+      "as": "ফিল্ড মাৰ্শাল ভাৰতীয় সেনাৰ শীৰ্ষত থকা পাঁচ-তৰা পদ।"
+    }
+  }
+]

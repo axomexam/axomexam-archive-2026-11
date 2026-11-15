@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-038",
+    "q": {
+      "en": "GAGAN, developed by ISRO, is used for which purpose?",
+      "as": "ISRO য়ে বিকশিত কৰা গগন কি কামত ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Weather forecasting",
+        "as": "বতৰৰ আগজাননী"
+      },
+      {
+        "en": "Television broadcasting",
+        "as": "দূৰদৰ্শন সম্প্ৰচাৰ"
+      },
+      {
+        "en": "Deep space study",
+        "as": "গভীৰ মহাকাশ অধ্যয়ন"
+      },
+      {
+        "en": "Augmenting GPS for aviation",
+        "as": "উড্ডয়নৰ বাবে জিপিএছ শক্তিশালী কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "GAGAN (GPS Aided GEO Augmented Navigation) improves GPS accuracy for aviation over India.",
+      "as": "গগন (জিপিএছ এইডেড জিঅ' অ'গমেণ্টেড নেভিগেচন) য়ে ভাৰতৰ ওপৰত উড্ডয়নৰ বাবে জিপিএছৰ নিৰ্ভুলতা উন্নত কৰে।"
+    }
+  }
+]

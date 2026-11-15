@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-142",
+    "q": {
+      "en": "Which Indian system provides a secure, encrypted communication network for the armed forces?",
+      "as": "কোন ভাৰতীয় প্ৰণালীয়ে সশস্ত্ৰ বাহিনীৰ বাবে সুৰক্ষিত, এনক্ৰিপ্টেড যোগাযোগ নেটৱৰ্ক প্ৰদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "NavIC",
+        "as": "NavIC"
+      },
+      {
+        "en": "GAGAN",
+        "as": "গগন"
+      },
+      {
+        "en": "Army Static Switched Communication Network",
+        "as": "আৰ্মী ষ্টেটিক ছুইচড কমিউনিকেচন নেটৱৰ্ক"
+      },
+      {
+        "en": "Bhuvan",
+        "as": "ভূৱন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Army Static Switched Communication Network (ASCON) provides secure military communication.",
+      "as": "আৰ্মী ষ্টেটিক ছুইচড কমিউনিকেচন নেটৱৰ্ক (ASCON) য়ে সুৰক্ষিত সামৰিক যোগাযোগ প্ৰদান কৰে।"
+    }
+  }
+]

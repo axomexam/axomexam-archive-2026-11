@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-132",
+    "q": {
+      "en": "Which agency is India's external intelligence organisation?",
+      "as": "কোনটো সংস্থা ভাৰতৰ বাহ্যিক গোয়েন্দা সংস্থা?"
+    },
+    "options": [
+      {
+        "en": "Intelligence Bureau",
+        "as": "ইণ্টেলিজেন্স ব্যুৰ'"
+      },
+      {
+        "en": "CBI",
+        "as": "চিবিআই"
+      },
+      {
+        "en": "NIA",
+        "as": "এনআইএ"
+      },
+      {
+        "en": "Research and Analysis Wing",
+        "as": "ৰিচাৰ্চ এণ্ড এনালাইছিছ ৱিং"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Research and Analysis Wing (R&AW) is India's external intelligence agency.",
+      "as": "ৰিচাৰ্চ এণ্ড এনালাইছিছ ৱিং (R&AW) ভাৰতৰ বাহ্যিক গোয়েন্দা সংস্থা।"
+    }
+  }
+]

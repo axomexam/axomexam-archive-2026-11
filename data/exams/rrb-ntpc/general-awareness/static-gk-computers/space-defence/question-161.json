@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-161",
+    "q": {
+      "en": "The Hubble Space Telescope was launched by which space agency?",
+      "as": "হাবল মহাকাশ দূৰবীক্ষণ কোন মহাকাশ সংস্থাই উৎক্ষেপণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "NASA",
+        "as": "NASA"
+      },
+      {
+        "en": "ESA",
+        "as": "ESA"
+      },
+      {
+        "en": "ISRO",
+        "as": "ISRO"
+      },
+      {
+        "en": "Roscosmos",
+        "as": "ৰ'স্কছমছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Hubble Space Telescope was launched by NASA in 1990.",
+      "as": "হাবল মহাকাশ দূৰবীক্ষণ NASA য়ে ১৯৯০ চনত উৎক্ষেপণ কৰিছিল।"
+    }
+  }
+]

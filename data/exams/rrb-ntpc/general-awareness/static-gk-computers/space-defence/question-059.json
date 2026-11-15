@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-059",
+    "q": {
+      "en": "In which city is DRDO headquartered?",
+      "as": "DRDO ৰ মুখ্য কাৰ্যালয় কোন চহৰত?"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Bengaluru",
+        "as": "বেংগালুৰু"
+      },
+      {
+        "en": "Hyderabad",
+        "as": "হাইদৰাবাদ"
+      },
+      {
+        "en": "Pune",
+        "as": "পুনে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "DRDO is headquartered in New Delhi.",
+      "as": "DRDO ৰ মুখ্য কাৰ্যালয় নতুন দিল্লীত অৱস্থিত।"
+    }
+  }
+]

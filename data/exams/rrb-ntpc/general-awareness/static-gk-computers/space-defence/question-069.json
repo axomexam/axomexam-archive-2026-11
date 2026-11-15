@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-069",
+    "q": {
+      "en": "The Prithvi missile is which type of missile?",
+      "as": "পৃথ্বী ক্ষেপণাস্ত্ৰ কি ধৰণৰ ক্ষেপণাস্ত্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Cruise missile",
+        "as": "ক্ৰুজ ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Air-to-air missile",
+        "as": "বায়ু-পৰা-বায়ু ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Anti-tank missile",
+        "as": "বিমান-বিধ্বংসী ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Short-range ballistic missile",
+        "as": "চুটি পৰিসৰৰ বেলিষ্টিক ক্ষেপণাস্ত্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Prithvi is a short-range surface-to-surface ballistic missile.",
+      "as": "পৃথ্বী এটা চুটি পৰিসৰৰ ভূ-পৰা-ভূ ক্ষেপণাস্ত্ৰ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-182",
+    "q": {
+      "en": "The Gaganyaan crew module is designed to carry how many astronauts?",
+      "as": "গগনযান ক্ৰু মডিউল কিমানজন মহাকাশচাৰী কঢ়িয়াবলৈ ডিজাইন কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "One",
+        "as": "এজন"
+      },
+      {
+        "en": "Two",
+        "as": "দুজন"
+      },
+      {
+        "en": "Three",
+        "as": "তিনিজন"
+      },
+      {
+        "en": "Five",
+        "as": "পাঁচজন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Gaganyaan crew module is designed to carry three astronauts.",
+      "as": "গগনযান ক্ৰু মডিউল তিনিজন মহাকাশচাৰী কঢ়িয়াবলৈ ডিজাইন কৰা হৈছে।"
+    }
+  }
+]

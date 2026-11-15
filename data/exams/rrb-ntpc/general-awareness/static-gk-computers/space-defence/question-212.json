@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-212",
+    "q": {
+      "en": "Which organisation is responsible for the procurement of defence equipment in India?",
+      "as": "ভাৰতত প্ৰতিৰক্ষা সঁজুলি ক্ৰয়ৰ বাবে কোনটো সংস্থা দায়বদ্ধ?"
+    },
+    "options": [
+      {
+        "en": "Ministry of Defence",
+        "as": "প্ৰতিৰক্ষা মন্ত্ৰালয়"
+      },
+      {
+        "en": "ISRO",
+        "as": "ISRO"
+      },
+      {
+        "en": "DRDO",
+        "as": "DRDO"
+      },
+      {
+        "en": "HAL",
+        "as": "HAL"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Ministry of Defence is responsible for defence procurement in India.",
+      "as": "প্ৰতিৰক্ষা মন্ত্ৰালয় ভাৰতত প্ৰতিৰক্ষা ক্ৰয়ৰ বাবে দায়বদ্ধ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-200",
+    "q": {
+      "en": "The 'Nag' missile is named after which creature?",
+      "as": "'নাগ' ক্ষেপণাস্ত্ৰৰ নাম কোন জীৱৰ পৰা লোৱা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Eagle",
+        "as": "ঈগল"
+      },
+      {
+        "en": "Lion",
+        "as": "সিংহ"
+      },
+      {
+        "en": "Horse",
+        "as": "ঘোঁৰা"
+      },
+      {
+        "en": "Cobra snake",
+        "as": "কোব্ৰা সাপ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Nag missile is named after the cobra.",
+      "as": "নাগ ক্ষেপণাস্ত্ৰৰ নাম কোব্ৰা সাপৰ পৰা লোৱা হৈছে।"
+    }
+  }
+]

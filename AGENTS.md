@@ -142,6 +142,45 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+## Session record — Nov 2026 RRB NTPC Space & Defence question bank (251 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Extended** the Space & Defence topic of the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/static-gk-computers/space-defence/`:
+  `question-002.json` … `question-251.json` (250 new files) on top of the
+  existing `question-001.json`, for **251 questions** in the topic. Each file
+  holds one MCQ in the repo's shape — `id`, `q.{en,as}`, four
+  `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 251 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty
+  and cover ISRO and its centres, launch vehicles (SLV/ASLV/PSLV/GSLV/LVM3/
+  SSLV), Indian satellites and missions (Aryabhata, Rohini, INSAT, GSAT,
+  Cartosat, Oceansat, Chandrayaan, Mangalyaan, Aditya-L1, AstroSat, XPoSat,
+  Gaganyaan, NavIC, GAGAN), world space agencies and firsts, Indian armed
+  forces, ranks, commands, academies, service days, gallantry awards, joint
+  exercises, missiles (Agni, Prithvi, BrahMos, Akash, Nag, Trishul, Pinaka,
+  Astra, Prahaar, K-series), defence PSUs, and India's defence exports.
+  Answer keys are spread over A/B/C/D — across all 251 questions the slots
+  hold 64/63/62/62; `--book rrb-ntpc --topic
+  general-awareness/static-gk-computers/space-defence --check` reports 0
+  skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive, English and Assamese) against all other
+  question text already in `data/`; a fuzzy pass (`difflib.SequenceMatcher`,
+  ratio >= 0.90) then reworded 56 items (e.g. "which planet is known as the
+  red planet" and the "largest/closest/hottest planet" items against the
+  assam-police / dhs-dme banks, "supreme commander of the Indian Armed Forces"
+  and the service-day items, the Param Vir / Shaurya / Kirti Chakra
+  explanations against the awards banks, and the templated parallel stems for
+  the naval/army commands inside this bank). The bank now reports **0**
+  near-duplicates cross-bank and 0 internally. The correct option and its
+  meaning were never changed, only the wording.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.
+
 ## Session record — Nov 2026 RRB NTPC National & International News bank (151 MCQs)
 
 What was done, so the next agent does not redo or undo it:

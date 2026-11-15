@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-145",
+    "q": {
+      "en": "The Shivalik class of the Indian Navy consists of which type of ships?",
+      "as": "ভাৰতীয় নৌসেনাৰ শিৱালিক শ্ৰেণীত কি ধৰণৰ জাহাজ থাকে?"
+    },
+    "options": [
+      {
+        "en": "Aircraft carriers",
+        "as": "বিমানবাহী জাহাজ"
+      },
+      {
+        "en": "Submarines",
+        "as": "ডুবুজাহাজ"
+      },
+      {
+        "en": "Stealth frigates",
+        "as": "ষ্টেল্থ ফ্ৰিগেট"
+      },
+      {
+        "en": "Mine sweepers",
+        "as": "মাইন ছুইপাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Shivalik class consists of stealth frigates.",
+      "as": "শিৱালিক শ্ৰেণীত ষ্টেল্থ ফ্ৰিগেট থাকে।"
+    }
+  }
+]

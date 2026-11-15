@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-092",
+    "q": {
+      "en": "India's tri-service commands include which body for space operations?",
+      "as": "ভাৰতৰ ত্ৰি-সেৱা কমাণ্ডসমূহত মহাকাশ কাৰ্যৰ বাবে কোনটো সংস্থা আছে?"
+    },
+    "options": [
+      {
+        "en": "BARC",
+        "as": "BARC"
+      },
+      {
+        "en": "CSIR",
+        "as": "চিএছআইআৰ"
+      },
+      {
+        "en": "Defence Space Agency",
+        "as": "প্ৰতিৰক্ষা মহাকাশ সংস্থা"
+      },
+      {
+        "en": "NTRO",
+        "as": "এনটিআৰঅ'"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Defence Space Agency is India's tri-service body for space operations.",
+      "as": "প্ৰতিৰক্ষা মহাকাশ সংস্থা মহাকাশ কাৰ্যৰ বাবে ভাৰতৰ ত্ৰি-সেৱা সংস্থা।"
+    }
+  }
+]

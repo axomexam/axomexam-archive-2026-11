@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-194",
+    "q": {
+      "en": "Which Indian missile is named after a mythological weapon of Lord Shiva?",
+      "as": "কোন ভাৰতীয় ক্ষেপণাস্ত্ৰৰ নাম শিৱৰ পৌৰাণিক অস্ত্ৰৰ পৰা লোৱা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Agni",
+        "as": "অগ্নি"
+      },
+      {
+        "en": "Trishul",
+        "as": "ত্ৰিশূল"
+      },
+      {
+        "en": "Nag",
+        "as": "নাগ"
+      },
+      {
+        "en": "Astra",
+        "as": "অস্ত্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Trishul is named after the trident of Lord Shiva.",
+      "as": "ত্ৰিশূল শিৱৰ ত্ৰিশূলৰ নামেৰে নামাকৰণ কৰা হৈছে।"
+    }
+  }
+]

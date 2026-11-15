@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-147",
+    "q": {
+      "en": "Among the planets orbiting the Sun, which one is the biggest?",
+      "as": "সূৰ্য্যৰ চাৰিওফালে ঘূৰা গ্ৰহসমূহৰ ভিতৰত আটাইতকৈ ডাঙৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Saturn",
+        "as": "শনি"
+      },
+      {
+        "en": "Jupiter",
+        "as": "বৃহস্পতি"
+      },
+      {
+        "en": "Neptune",
+        "as": "নেপচুন"
+      },
+      {
+        "en": "Earth",
+        "as": "পৃথিৱী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Jupiter is the biggest of all the planets that orbit the Sun.",
+      "as": "সূৰ্য্যৰ চাৰিওফালে ঘূৰা গ্ৰহসমূহৰ ভিতৰত বৃহস্পতি আটাইতকৈ ডাঙৰ।"
+    }
+  }
+]

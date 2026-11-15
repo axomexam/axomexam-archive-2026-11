@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-146",
+    "q": {
+      "en": "Mars is known by which popular nickname?",
+      "as": "মঙ্গল গ্ৰহক কোন জনপ্ৰিয় ডাকনামেৰে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Venus",
+        "as": "শুক্ৰ"
+      },
+      {
+        "en": "Jupiter",
+        "as": "বৃহস্পতি"
+      },
+      {
+        "en": "Mars",
+        "as": "মঙ্গল"
+      },
+      {
+        "en": "Mercury",
+        "as": "বুধ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mars is called the Red Planet because of the iron oxide covering its surface.",
+      "as": "পৃষ্ঠত লো-অক্সাইড থকাৰ বাবে মঙ্গলক ৰঙা গ্ৰহ বোলা হয়।"
+    }
+  }
+]

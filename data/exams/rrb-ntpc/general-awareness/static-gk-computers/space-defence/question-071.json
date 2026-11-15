@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-071",
+    "q": {
+      "en": "The Nag missile developed by DRDO is which type of weapon?",
+      "as": "DRDO য়ে বিকশিত কৰা নাগ ক্ষেপণাস্ত্ৰ কি ধৰণৰ অস্ত্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Anti-tank guided missile",
+        "as": "বিমান-বিধ্বংসী পথপ্ৰদৰ্শিত ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Surface-to-air missile",
+        "as": "ভূ-পৰা-বায়ু ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Cruise missile",
+        "as": "ক্ৰুজ ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Ballistic missile",
+        "as": "বেলিষ্টিক ক্ষেপণাস্ত্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Nag is an anti-tank guided missile developed by DRDO.",
+      "as": "নাগ DRDO য়ে বিকশিত কৰা এটা বিমান-বিধ্বংসী পথপ্ৰদৰ্শিত ক্ষেপণাস্ত্ৰ।"
+    }
+  }
+]

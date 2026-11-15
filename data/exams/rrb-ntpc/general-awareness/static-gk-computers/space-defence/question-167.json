@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-167",
+    "q": {
+      "en": "Tiangong is China's what?",
+      "as": "থিয়ানগং চীনৰ কি?"
+    },
+    "options": [
+      {
+        "en": "Rocket",
+        "as": "ৰকেট"
+      },
+      {
+        "en": "Space station",
+        "as": "মহাকাশ ষ্টেচন"
+      },
+      {
+        "en": "Rover",
+        "as": "ৰ'ভাৰ"
+      },
+      {
+        "en": "Satellite launcher",
+        "as": "উপগ্ৰহ উৎক্ষেপক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Tiangong is China's space station.",
+      "as": "থিয়ানগং চীনৰ মহাকাশ ষ্টেচন।"
+    }
+  }
+]

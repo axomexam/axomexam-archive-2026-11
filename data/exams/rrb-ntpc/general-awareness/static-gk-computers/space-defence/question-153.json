@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-153",
+    "q": {
+      "en": "Extremely high surface temperature makes which planet the hottest?",
+      "as": "অতি উচ্চ পৃষ্ঠৰ উষ্ণতাই কোন গ্ৰহক আটাইতকৈ উষ্ণ কৰি তুলিছে?"
+    },
+    "options": [
+      {
+        "en": "Mercury",
+        "as": "বুধ"
+      },
+      {
+        "en": "Mars",
+        "as": "মঙ্গল"
+      },
+      {
+        "en": "Jupiter",
+        "as": "বৃহস্পতি"
+      },
+      {
+        "en": "Venus",
+        "as": "শুক্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Venus has the highest surface temperature among the planets.",
+      "as": "গ্ৰহসমূহৰ ভিতৰত শুক্ৰৰ পৃষ্ঠৰ উষ্ণতা আটাইতকৈ বেছি।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-133",
+    "q": {
+      "en": "The Intelligence Bureau of India mainly handles which type of intelligence?",
+      "as": "ভাৰতৰ ইণ্টেলিজেন্স ব্যুৰ'য়ে মূলতঃ কি ধৰণৰ গোয়েন্দা তথ্য পৰিচালনা কৰে?"
+    },
+    "options": [
+      {
+        "en": "External intelligence",
+        "as": "বাহ্যিক গোয়েন্দা"
+      },
+      {
+        "en": "Military intelligence",
+        "as": "সামৰিক গোয়েন্দা"
+      },
+      {
+        "en": "Financial intelligence",
+        "as": "বিত্তীয় গোয়েন্দা"
+      },
+      {
+        "en": "Internal intelligence",
+        "as": "আভ্যন্তৰীণ গোয়েন্দা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Intelligence Bureau handles India's internal intelligence and counter-intelligence.",
+      "as": "ইণ্টেলিজেন্স ব্যুৰ'য়ে ভাৰতৰ আভ্যন্তৰীণ গোয়েন্দা আৰু প্ৰতি-গোয়েন্দা পৰিচালনা কৰে।"
+    }
+  }
+]

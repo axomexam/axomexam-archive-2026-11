@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-229",
+    "q": {
+      "en": "Mazagon Dock Shipbuilders, a key Indian naval shipyard, is located in which city?",
+      "as": "মাজাগাঁও ডক শ্বিপবিল্ডাৰ্ছ, এক গুৰুত্বপূৰ্ণ ভাৰতীয় নৌ ডকইয়াৰ্ড, কোন চহৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Kochi",
+        "as": "কোচি"
+      },
+      {
+        "en": "Visakhapatnam",
+        "as": "বিশাখাপট্টনম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mazagon Dock Shipbuilders is located in Mumbai.",
+      "as": "মাজাগাঁও ডক শ্বিপবিল্ডাৰ্ছ মুম্বাইত অৱস্থিত।"
+    }
+  }
+]

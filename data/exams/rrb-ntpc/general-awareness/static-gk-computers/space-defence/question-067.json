@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-067",
+    "q": {
+      "en": "BrahMos is named after rivers from which two countries?",
+      "as": "ব্ৰহ্মসৰ নাম কোন দুখন দেশৰ নদীৰ পৰা লোৱা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "India and China",
+        "as": "ভাৰত আৰু চীন"
+      },
+      {
+        "en": "India and Nepal",
+        "as": "ভাৰত আৰু নেপাল"
+      },
+      {
+        "en": "India and Russia",
+        "as": "ভাৰত আৰু ৰাছিয়া"
+      },
+      {
+        "en": "India and Bangladesh",
+        "as": "ভাৰত আৰু বাংলাদেশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "BrahMos is named after the Brahmaputra of India and the Moskva of Russia.",
+      "as": "ব্ৰহ্মসৰ নাম ভাৰতৰ ব্ৰহ্মপুত্ৰ আৰু ৰাছিয়াৰ মস্কভা নদীৰ পৰা লোৱা হৈছে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-162",
+    "q": {
+      "en": "Which agency is the space agency of the United States?",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰৰ মহাকাশ সংস্থা কোনটো?"
+    },
+    "options": [
+      {
+        "en": "ESA",
+        "as": "ESA"
+      },
+      {
+        "en": "NASA",
+        "as": "NASA"
+      },
+      {
+        "en": "ISRO",
+        "as": "ISRO"
+      },
+      {
+        "en": "JAXA",
+        "as": "JAXA"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "NASA is the National Aeronautics and Space Administration of the United States.",
+      "as": "NASA আমেৰিকা যুক্তৰাষ্ট্ৰৰ নেশ্যনেল এৰ'নটিক্স এণ্ড স্পেছ এডমিনিষ্ট্ৰেচন।"
+    }
+  }
+]

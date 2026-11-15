@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-013",
+    "q": {
+      "en": "Which phrase does the abbreviation GSLV represent?",
+      "as": "GSLV সংক্ষিপ্ত ৰূপে কোন বাক্যাংশ সূচায়?"
+    },
+    "options": [
+      {
+        "en": "General Space Launch Vehicle",
+        "as": "জেনেৰেল স্পেছ লঞ্চ ভেহিকল"
+      },
+      {
+        "en": "Geosynchronous Satellite Launch Vehicle",
+        "as": "জিঅ'ছিনক্ৰনাছ ছেটেলাইট লঞ্চ ভেহিকল"
+      },
+      {
+        "en": "Geostationary Space Logistics Vehicle",
+        "as": "জিঅ'ষ্টেচনেৰী স্পেছ লজিষ্টিকছ ভেহিকল"
+      },
+      {
+        "en": "Global Satellite Launch Vehicle",
+        "as": "গ্ল'বেল ছেটেলাইট লঞ্চ ভেহিকল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "GSLV represents Geosynchronous Satellite Launch Vehicle.",
+      "as": "GSLV য়ে জিঅ'ছিনক্ৰনাছ ছেটেলাইট লঞ্চ ভেহিকল সূচায়।"
+    }
+  }
+]

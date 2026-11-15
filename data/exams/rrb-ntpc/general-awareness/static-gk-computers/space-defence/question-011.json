@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-011",
+    "q": {
+      "en": "PSLV, the rocket nicknamed ISRO's workhorse, expands to what?",
+      "as": "ISRO ৰ ৱাৰ্কহৰ্ছ ডাকনামৰ ৰকেট PSLV ৰ পূৰ্ণ ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "Primary Space Launch Vehicle",
+        "as": "প্ৰাইমেৰী স্পেছ লঞ্চ ভেহিকল"
+      },
+      {
+        "en": "Polar Satellite Launch Vehicle",
+        "as": "প'লাৰ ছেটেলাইট লঞ্চ ভেহিকল"
+      },
+      {
+        "en": "Polar Space Logistics Vehicle",
+        "as": "প'লাৰ স্পেছ লজিষ্টিকছ ভেহিকল"
+      },
+      {
+        "en": "Planetary Satellite Launch Vehicle",
+        "as": "প্লেনেটেৰী ছেটেলাইট লঞ্চ ভেহিকল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "PSLV expands to Polar Satellite Launch Vehicle.",
+      "as": "PSLV ৰ পূৰ্ণ ৰূপ প'লাৰ ছেটেলাইট লঞ্চ ভেহিকল।"
+    }
+  }
+]

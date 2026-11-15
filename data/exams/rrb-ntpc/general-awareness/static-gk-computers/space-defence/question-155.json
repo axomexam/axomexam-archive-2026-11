@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-155",
+    "q": {
+      "en": "What is a galaxy?",
+      "as": "ছায়াপথ কি?"
+    },
+    "options": [
+      {
+        "en": "A single star",
+        "as": "এটা অকলশৰীয়া তৰা"
+      },
+      {
+        "en": "A planet with rings",
+        "as": "বলয়যুক্ত এটা গ্ৰহ"
+      },
+      {
+        "en": "A type of rocket",
+        "as": "এক ধৰণৰ ৰকেট"
+      },
+      {
+        "en": "A huge system of stars, gas and dust",
+        "as": "তৰা, গেছ আৰু ধূলিৰ এক বিশাল প্ৰণালী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A galaxy is a huge gravitationally bound collection of stars, gas and dust.",
+      "as": "ছায়াপথ হ'ল তৰা, গেছ আৰু ধূলিৰ এক বিশাল মাধ্যাকৰ্ষণ-বদ্ধ সংগ্ৰহ।"
+    }
+  }
+]

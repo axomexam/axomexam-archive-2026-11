@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-227",
+    "q": {
+      "en": "The 'Vir Chakra' is which type of Indian military award?",
+      "as": "'বীৰ চক্ৰ' কি ধৰণৰ ভাৰতীয় সামৰিক বঁটা?"
+    },
+    "options": [
+      {
+        "en": "Peacetime gallantry award",
+        "as": "শান্তিকালীন বীৰত্ব বঁটা"
+      },
+      {
+        "en": "Long service medal",
+        "as": "দীৰ্ঘ সেৱা পদক"
+      },
+      {
+        "en": "Wartime gallantry award",
+        "as": "যুদ্ধকালীন বীৰত্ব বঁটা"
+      },
+      {
+        "en": "Distinguished service award",
+        "as": "বিশিষ্ট সেৱা বঁটা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Vir Chakra is a wartime gallantry award, third in the order of wartime decorations.",
+      "as": "বীৰ চক্ৰ এটা যুদ্ধকালীন বীৰত্ব বঁটা, যুদ্ধকালীন সন্মানৰ ক্ৰমত তৃতীয়।"
+    }
+  }
+]

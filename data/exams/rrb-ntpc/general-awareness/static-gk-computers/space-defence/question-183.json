@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-183",
+    "q": {
+      "en": "What is the name of the test flight planned before Gaganyaan's crewed mission?",
+      "as": "গগনযানৰ মানৱবাহী অভিযানৰ আগতে পৰিকল্পনা কৰা পৰীক্ষা উৰণৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Vyom-1",
+        "as": "ব্যোম-১"
+      },
+      {
+        "en": "Test-1",
+        "as": "পৰীক্ষা-১"
+      },
+      {
+        "en": "Gaganyaan-1",
+        "as": "গগনযান-১"
+      },
+      {
+        "en": "Orbit-1",
+        "as": "অৰবিট-১"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Gaganyaan-1 is the uncrewed test flight planned before the crewed mission.",
+      "as": "গগনযান-১ মানৱবাহী অভিযানৰ আগতে পৰিকল্পনা কৰা ন-মানৱবিহীন পৰীক্ষা উৰণ।"
+    }
+  }
+]

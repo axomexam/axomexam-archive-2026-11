@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-173",
+    "q": {
+      "en": "What does SAR stand for in satellite technology?",
+      "as": "উপগ্ৰহ প্ৰযুক্তিত SAR ৰ পূৰ্ণ ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "Satellite Assisted Radio",
+        "as": "ছেটেলাইট এছিষ্টেড ৰেডিঅ'"
+      },
+      {
+        "en": "Synthetic Aperture Radar",
+        "as": "ছিন্থেটিক এপাৰ্চাৰ ৰাডাৰ"
+      },
+      {
+        "en": "Solar Array Reflector",
+        "as": "ছ'লাৰ এৰে ৰিফ্লেক্টৰ"
+      },
+      {
+        "en": "Space Antenna Receiver",
+        "as": "স্পেছ এণ্টেনা ৰিচিভাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "SAR stands for Synthetic Aperture Radar.",
+      "as": "SAR ৰ পূৰ্ণ ৰূপ ছিন্থেটিক এপাৰচাৰ ৰাডাৰ।"
+    }
+  }
+]

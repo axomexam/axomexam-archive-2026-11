@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-088",
+    "q": {
+      "en": "What does MIRV stand for in missile technology?",
+      "as": "ক্ষেপণাস্ত্ৰ প্ৰযুক্তিত MIRV ৰ পূৰ্ণ ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "Multi Integrated Rocket Vehicle",
+        "as": "মাল্টি ইন্টিগ্ৰেটেড ৰকেট ভেহিকল"
+      },
+      {
+        "en": "Missile Interceptor Re-entry Vehicle",
+        "as": "মিছাইল ইণ্টাৰচেপ্টৰ ৰি-এণ্ট্ৰি ভেহিকল"
+      },
+      {
+        "en": "Multiple Independently targetable Re-entry Vehicle",
+        "as": "মাল্টিপল ইণ্ডিপেণ্ডেণ্টলি টাৰ্গেটেবল ৰি-এণ্ট্ৰি ভেহিকল"
+      },
+      {
+        "en": "Main Interceptor Rocket Vehicle",
+        "as": "মেইন ইণ্টাৰচেপ্টৰ ৰকেট ভেহিকল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "MIRV denotes a missile that carries several warheads, each able to strike a different target.",
+      "as": "MIRV য়ে এনে ক্ষেপণাস্ত্ৰ সূচায় যিয়ে কেইবাটাও ৱাৰহেড কঢ়িয়ায়, প্ৰতিটোৱে বেলেগ লক্ষ্যত আঘাত কৰিব পাৰে।"
+    }
+  }
+]

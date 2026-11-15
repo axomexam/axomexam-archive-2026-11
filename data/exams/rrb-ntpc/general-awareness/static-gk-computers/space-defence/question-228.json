@@ -1,0 +1,32 @@
+[
+  {
+    "id": "space-defence-228",
+    "q": {
+      "en": "What is the name of India's first indigenous aircraft carrier's shipyard?",
+      "as": "ভাৰতৰ প্ৰথম দেশীয় বিমানবাহী জাহাজ নিৰ্মাণ কৰা ডকইয়াৰ্ডৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Mazagon Dock",
+        "as": "মাজাগাঁও ডক"
+      },
+      {
+        "en": "Garden Reach Shipbuilders",
+        "as": "গাৰ্ডেন ৰিচ শ্বিপবিল্ডাৰ্ছ"
+      },
+      {
+        "en": "Hindustan Shipyard",
+        "as": "হিন্দুস্তান শ্বিপয়াৰ্ড"
+      },
+      {
+        "en": "Cochin Shipyard",
+        "as": "কচিন শ্বিপয়াৰ্ড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "INS Vikrant was built at Cochin Shipyard Limited in Kerala.",
+      "as": "আইএনএছ বিক্ৰান্ত কেৰালাৰ কচিন শ্বিপয়াৰ্ড লিমিটেডত নিৰ্মাণ কৰা হৈছিল।"
+    }
+  }
+]
