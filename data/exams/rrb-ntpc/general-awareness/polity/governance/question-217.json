@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-217",
+    "q": {
+      "en": "A member of Parliament must take an oath or affirmation before taking his seat, as provided in the:",
+      "as": "সংসদ সদস্যই আসন গ্ৰহণৰ আগতে ক'ত থকা মতে শপত বা প্ৰতিশ্ৰুতি ল'ব লাগে?"
+    },
+    "options": [
+      {
+        "en": "Second Schedule",
+        "as": "দ্বিতীয় অনুসূচী"
+      },
+      {
+        "en": "Fourth Schedule",
+        "as": "চতুৰ্থ অনুসূচী"
+      },
+      {
+        "en": "First Schedule",
+        "as": "প্ৰথম অনুসূচী"
+      },
+      {
+        "en": "Third Schedule",
+        "as": "তৃতীয় অনুসূচী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The form of oath for MPs is given in the Third Schedule.",
+      "as": "সংসদ সদস্যৰ শপতৰ ৰূপ তৃতীয় অনুসূচীত দিয়া হৈছে।"
+    }
+  }
+]

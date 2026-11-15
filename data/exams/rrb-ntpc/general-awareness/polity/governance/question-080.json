@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-080",
+    "q": {
+      "en": "The Vice-President of India holds office for a term of:",
+      "as": "ভাৰতৰ উপ-ৰাষ্ট্ৰপতি কিমান বছৰৰ কাৰ্যকালৰ বাবে পদত থাকে?"
+    },
+    "options": [
+      {
+        "en": "6 years",
+        "as": "৬ বছৰ"
+      },
+      {
+        "en": "4 years",
+        "as": "৪ বছৰ"
+      },
+      {
+        "en": "5 years",
+        "as": "৫ বছৰ"
+      },
+      {
+        "en": "3 years",
+        "as": "৩ বছৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A Vice-President serves a term of five years.",
+      "as": "উপ-ৰাষ্ট্ৰপতি পাঁচ বছৰ পদত থাকে।"
+    }
+  }
+]

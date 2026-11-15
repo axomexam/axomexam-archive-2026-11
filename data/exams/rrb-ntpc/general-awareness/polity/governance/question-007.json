@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-007",
+    "q": {
+      "en": "In the election of the President, the value of the vote of a Member of Parliament is:",
+      "as": "ৰাষ্ট্ৰপতিৰ নিৰ্বাচনত এজন সংসদ সদস্যৰ ভোটৰ মূল্য কিমান?"
+    },
+    "options": [
+      {
+        "en": "The total value of votes of all State legislators divided by the total elected MPs",
+        "as": "সকলো ৰাজ্য বিধায়কৰ মুঠ ভোটৰ মূল্যক মুঠ নিৰ্বাচিত সংসদ সদস্যই ভাগ কৰি"
+      },
+      {
+        "en": "Fixed at 1000",
+        "as": "১০০০ ৰ নিৰ্ধাৰিত"
+      },
+      {
+        "en": "Fixed at 1",
+        "as": "১ ৰ নিৰ্ধাৰিত"
+      },
+      {
+        "en": "Equal to one",
+        "as": "একৰ সমান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An MP's vote value is the total value of all MLA votes divided by the total number of elected MPs.",
+      "as": "এজন সংসদ সদস্যৰ ভোটৰ মূল্য হ'ল সকলো বিধায়কৰ ভোটৰ মুঠ মূল্যক মুঠ নিৰ্বাচিত সংসদ সদস্য সংখ্যাৰে ভাগ কৰি পোৱা মান।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-303",
+    "q": {
+      "en": "The Constitution of India divides legislative powers between the Union and the States through:",
+      "as": "ভাৰতৰ সংবিধানে সংঘ আৰু ৰাজ্যৰ মাজত বিধায়কী ক্ষমতা কিয়ৰ জৰিয়তে ভাগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Three lists in the Seventh Schedule",
+        "as": "সপ্তম অনুসূচীৰ তিনিটা তালিকা"
+      },
+      {
+        "en": "Two lists",
+        "as": "দুটা তালিকা"
+      },
+      {
+        "en": "One list",
+        "as": "এটা তালিকা"
+      },
+      {
+        "en": "Four lists",
+        "as": "চাৰিটা তালিকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Union, State and Concurrent Lists sit in the Seventh Schedule.",
+      "as": "সপ্তম অনুসূচীত সংঘ, ৰাজ্য আৰু যুগ্ম তালিকা আছে।"
+    }
+  }
+]

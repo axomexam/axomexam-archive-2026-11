@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-128",
+    "q": {
+      "en": "The Chief Minister of a State is normally the leader of the majority party in the:",
+      "as": "ৰাজ্যৰ মুখ্যমন্ত্ৰী সাধাৰণতে কিয়ত সংখ্যাগৰিষ্ঠ দলৰ নেতা?"
+    },
+    "options": [
+      {
+        "en": "Legislative Council",
+        "as": "বিধানপৰিষদ"
+      },
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "Rajya Sabha",
+        "as": "ৰাজ্যসভা"
+      },
+      {
+        "en": "Legislative Assembly",
+        "as": "বিধানসভা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Chief Minister is normally the leader of the majority party in the Legislative Assembly.",
+      "as": "মুখ্যমন্ত্ৰী সাধাৰণতে বিধানসভাৰ সংখ্যাগৰিষ্ঠ দলৰ নেতা।"
+    }
+  }
+]

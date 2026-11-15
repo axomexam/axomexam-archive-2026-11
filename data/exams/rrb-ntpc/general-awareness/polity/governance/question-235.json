@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-235",
+    "q": {
+      "en": "The Chief Justice of India is appointed by the President and is normally the:",
+      "as": "ভাৰতৰ প্ৰধান ন্যায়াধীশ ৰাষ্ট্ৰপতিৰ দ্বাৰা নিযুক্ত হয় আৰু সাধাৰণতে:"
+    },
+    "options": [
+      {
+        "en": "Senior-most High Court judge",
+        "as": "উচ্চ ন্যায়ালয়ৰ জ্যেষ্ঠতম বিচাৰক"
+      },
+      {
+        "en": "Senior-most lawyer",
+        "as": "জ্যেষ্ঠতম অধিবক্তা"
+      },
+      {
+        "en": "Senior-most judge of the Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়ৰ জ্যেষ্ঠতম বিচাৰক"
+      },
+      {
+        "en": "Attorney General",
+        "as": "এটৰ্নি জেনেৰেল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "By convention the senior-most judge of the Supreme Court is appointed Chief Justice of India.",
+      "as": "প্ৰথা অনুসৰি সৰ্বোচ্চ ন্যায়ালয়ৰ জ্যেষ্ঠতম বিচাৰকক ভাৰতৰ প্ৰধান ন্যায়াধীশ নিযুক্ত কৰা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-181",
+    "q": {
+      "en": "A member of Parliament does not incur liability for anything said or any vote given in Parliament under:",
+      "as": "সংসদ সদস্যই সংসদত কোৱা কোনো কথা বা দিয়া ভোটৰ বাবে ক'ত দায়বদ্ধ নহয়?"
+    },
+    "options": [
+      {
+        "en": "Article 106",
+        "as": "অনুচ্ছেদ ১০৬"
+      },
+      {
+        "en": "Article 105",
+        "as": "অনুচ্ছেদ ১০৫"
+      },
+      {
+        "en": "Article 107",
+        "as": "অনুচ্ছেদ ১০৭"
+      },
+      {
+        "en": "Article 108",
+        "as": "অনুচ্ছেদ ১০৮"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 105 provides freedom of speech in Parliament and immunity from court proceedings.",
+      "as": "অনুচ্ছেদ ১০৫ এ সংসদত বাক স্বাধীনতা আৰু আদালতৰ কাৰ্যবাহী পৰা সুৰক্ষা প্ৰদান কৰে।"
+    }
+  }
+]

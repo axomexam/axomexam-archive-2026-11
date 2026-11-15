@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-316",
+    "q": {
+      "en": "Grants-in-aid to States in need of assistance are provided under:",
+      "as": "সহায়ৰ প্ৰয়োজন থকা ৰাজ্যক অনুদান ক'ত প্ৰদান কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Article 275",
+        "as": "অনুচ্ছেদ ২৭৫"
+      },
+      {
+        "en": "Article 280",
+        "as": "অনুচ্ছেদ ২৮০"
+      },
+      {
+        "en": "Article 266",
+        "as": "অনুচ্ছেদ ২৬৬"
+      },
+      {
+        "en": "Article 292",
+        "as": "অনুচ্ছেদ ২৯২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Article 275 provides for grants-in-aid to States from the Consolidated Fund of India.",
+      "as": "অনুচ্ছেদ ২৭৫ এ ভাৰতৰ সংহত নিধিৰ পৰা ৰাজ্যক অনুদান প্ৰদানৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

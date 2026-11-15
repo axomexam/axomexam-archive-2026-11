@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-063",
+    "q": {
+      "en": "The President may require the Council of Ministers to reconsider its advice, but must act on the advice:",
+      "as": "ৰাষ্ট্ৰপতিয়ে মন্ত্ৰীপৰিষদক পৰামৰ্শ পুনৰ্বিবেচনা কৰিবলৈ ক'ব পাৰে, কিন্তু পুনৰ্বিবেচনাৰ পিছত কিয় অনুসৰি কাম কৰিব লাগে?"
+    },
+    "options": [
+      {
+        "en": "Of the Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়ৰ"
+      },
+      {
+        "en": "Of Parliament",
+        "as": "সংসদৰ"
+      },
+      {
+        "en": "Tendered after such reconsideration",
+        "as": "এনে পুনৰ্বিবেচনাৰ পিছত দিয়া পৰামৰ্শ"
+      },
+      {
+        "en": "Of the Speaker",
+        "as": "অধ্যক্ষৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "After reconsideration, the President must act on the advice tendered.",
+      "as": "পুনৰ্বিবেচনাৰ পিছত ৰাষ্ট্ৰপতিয়ে দিয়া পৰামৰ্শ অনুসৰি কাম কৰিব লাগে।"
+    }
+  }
+]

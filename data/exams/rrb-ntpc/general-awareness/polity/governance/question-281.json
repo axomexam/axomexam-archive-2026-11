@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-281",
+    "q": {
+      "en": "The Supreme Court has held that the right to a speedy trial is part of:",
+      "as": "সৰ্বোচ্চ ন্যায়ালয়ে ৰায় দিছে যে দ্ৰুত বিচাৰৰ অধিকাৰ কিয়ৰ অংশ?"
+    },
+    "options": [
+      {
+        "en": "Article 14",
+        "as": "অনুচ্ছেদ ১৪"
+      },
+      {
+        "en": "Article 19",
+        "as": "অনুচ্ছেদ ১৯"
+      },
+      {
+        "en": "Article 22",
+        "as": "অনুচ্ছেদ ২২"
+      },
+      {
+        "en": "Article 21",
+        "as": "অনুচ্ছেদ ২১"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The right to a speedy trial is part of the right to life under Article 21.",
+      "as": "দ্ৰুত বিচাৰৰ অধিকাৰ অনুচ্ছেদ ২১ ৰ অধীনত জীৱনৰ অধিকাৰৰ অংশ।"
+    }
+  }
+]

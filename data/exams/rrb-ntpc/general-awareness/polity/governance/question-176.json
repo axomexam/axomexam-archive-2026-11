@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-176",
+    "q": {
+      "en": "The Estimates Committee of Parliament examines the:",
+      "as": "সংসদৰ আনুমানিক ব্যয় সমিতিয়ে কিক পৰীক্ষা কৰে?"
+    },
+    "options": [
+      {
+        "en": "Tax laws",
+        "as": "কৰ আইন"
+      },
+      {
+        "en": "Estimates of expenditure",
+        "as": "ব্যয়ৰ আনুমানিকতা"
+      },
+      {
+        "en": "Foreign policy",
+        "as": "বিদেশ নীতি"
+      },
+      {
+        "en": "Judicial appointments",
+        "as": "ন্যায়িক নিয়োগ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Estimates Committee examines the estimates of expenditure.",
+      "as": "আনুমানিক ব্যয় সমিতিয়ে ব্যয়ৰ আনুমানিকতা পৰীক্ষা কৰে।"
+    }
+  }
+]

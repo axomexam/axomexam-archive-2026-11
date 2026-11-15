@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-005",
+    "q": {
+      "en": "Which body elects the President of India?",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰপতি কিয়ৰে গঠিত নিৰ্বাচক মণ্ডলৰ দ্বাৰা নিৰ্বাচিত হয়?"
+    },
+    "options": [
+      {
+        "en": "All members of Parliament",
+        "as": "সংসদৰ সকলো সদস্য"
+      },
+      {
+        "en": "All State legislators",
+        "as": "ৰাজ্যৰ সকলো বিধায়ক"
+      },
+      {
+        "en": "All citizens",
+        "as": "সকলো নাগৰিক"
+      },
+      {
+        "en": "Elected members of Parliament and elected members of State Assemblies",
+        "as": "সংসদৰ নিৰ্বাচিত সদস্য আৰু ৰাজ্য বিধানসভাৰ নিৰ্বাচিত সদস্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The electoral college has elected MPs and elected members of State Legislative Assemblies.",
+      "as": "নিৰ্বাচক মণ্ডলত নিৰ্বাচিত সংসদ সদস্য আৰু ৰাজ্য বিধানসভাৰ নিৰ্বাচিত সদস্য থাকে।"
+    }
+  }
+]

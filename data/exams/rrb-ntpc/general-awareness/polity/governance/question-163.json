@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-163",
+    "q": {
+      "en": "Votes on account are provided under:",
+      "as": "লেখা-জোখাৰ ভোট ক'ত প্ৰদান কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Article 115",
+        "as": "অনুচ্ছেদ ১১৫"
+      },
+      {
+        "en": "Article 114",
+        "as": "অনুচ্ছেদ ১১৪"
+      },
+      {
+        "en": "Article 113",
+        "as": "অনুচ্ছেদ ১১৩"
+      },
+      {
+        "en": "Article 116",
+        "as": "অনুচ্ছেদ ১১৬"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Article 116 provides for votes on account, votes of credit and exceptional grants.",
+      "as": "অনুচ্ছেদ ১১৬ এ লেখা-জোখাৰ ভোট, ঋণৰ ভোট আৰু ব্যতিক্ৰমী অনুদানৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-155",
+    "q": {
+      "en": "A money bill is defined under:",
+      "as": "ধন বিল ক'ত সংজ্ঞায়িত কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 109",
+        "as": "অনুচ্ছেদ ১০৯"
+      },
+      {
+        "en": "Article 112",
+        "as": "অনুচ্ছেদ ১১২"
+      },
+      {
+        "en": "Article 113",
+        "as": "অনুচ্ছেদ ১১৩"
+      },
+      {
+        "en": "Article 110",
+        "as": "অনুচ্ছেদ ১১০"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A money bill is defined by Article 110.",
+      "as": "অনুচ্ছেদ ১১০ এ ধন বিল সংজ্ঞায়িত কৰে।"
+    }
+  }
+]

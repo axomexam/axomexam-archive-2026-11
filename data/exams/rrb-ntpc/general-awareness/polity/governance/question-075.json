@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-075",
+    "q": {
+      "en": "The President may grant pardon to a person convicted under a State law if the sentence is:",
+      "as": "ৰাজ্যৰ আইনৰ অধীনত দণ্ডিত ব্যক্তিক ৰাষ্ট্ৰপতি ক্ষমা কৰিব পাৰে যদি দণ্ড হয়:"
+    },
+    "options": [
+      {
+        "en": "A fine only",
+        "as": "কেৱল জৰিমনা"
+      },
+      {
+        "en": "A death sentence",
+        "as": "মৃত্যুদণ্ড"
+      },
+      {
+        "en": "Simple imprisonment",
+        "as": "সাধাৰণ কাৰাদণ্ড"
+      },
+      {
+        "en": "Any sentence",
+        "as": "যিকোনো দণ্ড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The President can pardon a death sentence even if the conviction is under a State law.",
+      "as": "ৰাজ্যৰ আইনৰ অধীনত দণ্ডিত হলেও মৃত্যুদণ্ড ৰাষ্ট্ৰপতিয়ে ক্ষমা কৰিব পাৰে।"
+    }
+  }
+]

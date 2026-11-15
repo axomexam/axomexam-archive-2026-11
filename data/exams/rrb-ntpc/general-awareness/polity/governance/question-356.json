@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-356",
+    "q": {
+      "en": "The Governor of a State has the power to nominate members to the State Legislative Council, if any, from among persons having special knowledge in:",
+      "as": "ৰাজ্যৰ ৰাজ্যপালে, যদি থাকে, ৰাজ্য বিধানপৰিষদলৈ কিয়ত বিশেষ জ্ঞান থকা লোকৰ পৰা সদস্য মনোনীত কৰাৰ ক্ষমতা ৰাখে?"
+    },
+    "options": [
+      {
+        "en": "Only law",
+        "as": "কেৱল আইন"
+      },
+      {
+        "en": "Only medicine",
+        "as": "কেৱল চিকিৎসা"
+      },
+      {
+        "en": "Literature, science, art, co-operative movement and social service",
+        "as": "সাহিত্য, বিজ্ঞান, কলা, সমবায় আন্দোলন আৰু সমাজসেৱা"
+      },
+      {
+        "en": "Only engineering",
+        "as": "কেৱল অভিযান্ত্ৰিকী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Governor nominates members with special knowledge in literature, science, art, co-operative movement and social service.",
+      "as": "ৰাজ্যপালে সাহিত্য, বিজ্ঞান, কলা, সমবায় আন্দোলন আৰু সমাজসেৱাত বিশেষ জ্ঞান থকা সদস্য মনোনীত কৰে।"
+    }
+  }
+]

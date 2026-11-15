@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-349",
+    "q": {
+      "en": "The Governor may reserve certain bills for the consideration of the:",
+      "as": "ৰাজ্যপালে কিছুমান বিল কিয়ৰ বিবেচনাৰ বাবে সংৰক্ষিত ৰাখিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Governor may reserve a bill for the consideration of the President under Article 200.",
+      "as": "ৰাজ্যপালে অনুচ্ছেদ ২০০ ৰ অধীনত বিল ৰাষ্ট্ৰপতিৰ বিবেচনাৰ বাবে সংৰক্ষিত ৰাখিব পাৰে।"
+    }
+  }
+]

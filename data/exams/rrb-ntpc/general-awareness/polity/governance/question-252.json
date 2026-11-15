@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-252",
+    "q": {
+      "en": "The High Courts in India are established under:",
+      "as": "ভাৰতত উচ্চ ন্যায়ালয়বোৰ ক'ত প্ৰতিষ্ঠিত হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 124",
+        "as": "অনুচ্ছেদ ১২৪"
+      },
+      {
+        "en": "Article 214",
+        "as": "অনুচ্ছেদ ২১৪"
+      },
+      {
+        "en": "Article 226",
+        "as": "অনুচ্ছেদ ২২৬"
+      },
+      {
+        "en": "Article 227",
+        "as": "অনুচ্ছেদ ২২৭"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Each State has a High Court by virtue of Article 214.",
+      "as": "অনুচ্ছেদ ২১৪ এ প্ৰতিখন ৰাজ্যৰ বাবে এটা উচ্চ ন্যায়ালয়ৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

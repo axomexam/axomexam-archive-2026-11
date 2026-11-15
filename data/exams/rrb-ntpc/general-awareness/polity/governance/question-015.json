@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-015",
+    "q": {
+      "en": "For impeachment of the President, the resolution must be passed by a majority of:",
+      "as": "ৰাষ্ট্ৰপতিৰ অভিশংসনৰ বাবে প্ৰস্তাৱ কিমান সংখ্যাগৰিষ্ঠতাৰে পাছ কৰিব লাগে?"
+    },
+    "options": [
+      {
+        "en": "Two-thirds of the total membership of the House",
+        "as": "সদনৰ মুঠ সদস্যৰ দু-তৃতীয়াংশ"
+      },
+      {
+        "en": "Simple majority",
+        "as": "সৰল সংখ্যাগৰিষ্ঠতা"
+      },
+      {
+        "en": "Three-fourths of members present",
+        "as": "উপস্থিত সদস্যৰ তিনি-চতুৰ্থাংশ"
+      },
+      {
+        "en": "Half of members present",
+        "as": "উপস্থিত সদস্যৰ আধা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The impeachment resolution needs a two-thirds majority of the total membership of the House.",
+      "as": "অভিশংসন প্ৰস্তাৱৰ বাবে সদনৰ মুঠ সদস্যৰ দু-তৃতীয়াংশ সংখ্যাগৰিষ্ঠতা লাগে।"
+    }
+  }
+]

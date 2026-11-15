@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-170",
+    "q": {
+      "en": "The quorum for a meeting of either House of Parliament is:",
+      "as": "সংসদৰ যিকোনো সদনৰ বৈঠকৰ কোৰাম কিমান?"
+    },
+    "options": [
+      {
+        "en": "One-fifth of the members",
+        "as": "সদস্যৰ এক পঞ্চমাংশ"
+      },
+      {
+        "en": "One-tenth of the total number of members",
+        "as": "মুঠ সদস্যৰ এক দশমাংশ"
+      },
+      {
+        "en": "One-third of the members",
+        "as": "সদস্যৰ এক তৃতীয়াংশ"
+      },
+      {
+        "en": "Half of the members",
+        "as": "সদস্যৰ আধা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The quorum for either House is one-tenth of the total number of members.",
+      "as": "যিকোনো সদনৰ কোৰাম হ'ল মুঠ সদস্যৰ এক দশমাংশ।"
+    }
+  }
+]

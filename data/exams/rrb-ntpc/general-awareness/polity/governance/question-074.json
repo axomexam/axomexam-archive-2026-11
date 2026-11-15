@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-074",
+    "q": {
+      "en": "The President's annual address to Parliament is prepared by the:",
+      "as": "সংসদত ৰাষ্ট্ৰপতিৰ বাৰ্ষিক ভাষণ কিয়ৰ দ্বাৰা প্ৰস্তুত কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "Council of Ministers",
+        "as": "মন্ত্ৰীপৰিষদ"
+      },
+      {
+        "en": "Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়"
+      },
+      {
+        "en": "Vice-President",
+        "as": "উপ-ৰাষ্ট্ৰপতি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The President's address is prepared by the Council of Ministers.",
+      "as": "ৰাষ্ট্ৰপতিৰ ভাষণ মন্ত্ৰীপৰিষদে প্ৰস্তুত কৰে।"
+    }
+  }
+]

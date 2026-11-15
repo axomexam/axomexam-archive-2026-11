@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-160",
+    "q": {
+      "en": "Demands for grants are made under:",
+      "as": "অনুদানৰ দাবী ক'ত উত্থাপন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Article 112",
+        "as": "অনুচ্ছেদ ১১২"
+      },
+      {
+        "en": "Article 114",
+        "as": "অনুচ্ছেদ ১১৪"
+      },
+      {
+        "en": "Article 110",
+        "as": "অনুচ্ছেদ ১১০"
+      },
+      {
+        "en": "Article 113",
+        "as": "অনুচ্ছেদ ১১৩"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Article 113 deals with demands for grants.",
+      "as": "অনুচ্ছেদ ১১৩ এ অনুদানৰ দাবী লৈ কাম কৰে।"
+    }
+  }
+]

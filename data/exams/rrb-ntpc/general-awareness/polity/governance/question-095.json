@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-095",
+    "q": {
+      "en": "The advice of the Council of Ministers is tendered to the President through the:",
+      "as": "মন্ত্ৰীপৰিষদৰ পৰামৰ্শ কিয়ৰ জৰিয়তে ৰাষ্ট্ৰপতিৰ আগত দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "Cabinet Secretary",
+        "as": "কেবিনেট সচিব"
+      },
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "Vice-President",
+        "as": "উপ-ৰাষ্ট্ৰপতি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Advice is tendered to the President through the Prime Minister.",
+      "as": "পৰামৰ্শ প্ৰধানমন্ত্ৰীৰ জৰিয়তে ৰাষ্ট্ৰপতিৰ আগত দিয়া হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-096",
+    "q": {
+      "en": "The Prime Minister communicates to the President all decisions of the Council of Ministers relating to the administration of the affairs of the Union under:",
+      "as": "সংঘৰ পৰিক্ৰমা পৰিচালনাৰ সৈতে সম্পৰ্কিত মন্ত্ৰীপৰিষদৰ সকলো সিদ্ধান্ত প্ৰধানমন্ত্ৰীয়ে ক'ত ৰাষ্ট্ৰপতিক জনায়?"
+    },
+    "options": [
+      {
+        "en": "Article 74",
+        "as": "অনুচ্ছেদ ৭৪"
+      },
+      {
+        "en": "Article 75",
+        "as": "অনুচ্ছেদ ৭৫"
+      },
+      {
+        "en": "Article 78",
+        "as": "অনুচ্ছেদ ৭৮"
+      },
+      {
+        "en": "Article 53",
+        "as": "অনুচ্ছেদ ৫৩"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 78 makes it the duty of the Prime Minister to communicate decisions to the President.",
+      "as": "অনুচ্ছেদ ৭৮ এ সিদ্ধান্ত ৰাষ্ট্ৰপতিক জনোৱাৰ কৰ্তব্য প্ৰধানমন্ত্ৰীৰ কৰে।"
+    }
+  }
+]

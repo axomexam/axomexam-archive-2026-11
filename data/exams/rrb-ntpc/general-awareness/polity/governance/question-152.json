@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-152",
+    "q": {
+      "en": "The Rajya Sabha is chaired by the:",
+      "as": "ৰাজ্যসভাৰ অধ্যক্ষ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Vice-President of India",
+        "as": "ভাৰতৰ উপ-ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "President of India",
+        "as": "ভাৰতৰ ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Vice-President chairs the Rajya Sabha as its ex-officio Chairman.",
+      "as": "ভাৰতৰ উপ-ৰাষ্ট্ৰপতি ৰাজ্যসভাৰ পদাধিকাৰী অধ্যক্ষ।"
+    }
+  }
+]

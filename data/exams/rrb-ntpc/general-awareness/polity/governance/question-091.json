@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-091",
+    "q": {
+      "en": "The total number of Ministers in the Council of Ministers shall not exceed what per cent of the total strength of the Lok Sabha?",
+      "as": "মন্ত্ৰীপৰিষদৰ মুঠ মন্ত্ৰীৰ সংখ্যা লোকসভাৰ মুঠ শক্তিৰ কিমান শতাংশতকৈ বেছি হ'ব নালাগে?"
+    },
+    "options": [
+      {
+        "en": "10 per cent",
+        "as": "১০ শতাংশ"
+      },
+      {
+        "en": "20 per cent",
+        "as": "২০ শতাংশ"
+      },
+      {
+        "en": "12 per cent",
+        "as": "১২ শতাংশ"
+      },
+      {
+        "en": "15 per cent",
+        "as": "১৫ শতাংশ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The 91st Amendment capped the Council of Ministers at 15 per cent of Lok Sabha strength.",
+      "as": "৯১ সংখ্যক সংশোধনীয়ে মন্ত্ৰীপৰিষদক লোকসভাৰ শক্তিৰ ১৫ শতাংশত সীমাবদ্ধ কৰিছিল।"
+    }
+  }
+]

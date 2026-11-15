@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-059",
+    "q": {
+      "en": "The term of office of the President is dealt with under:",
+      "as": "ৰাষ্ট্ৰপতিৰ কাৰ্যকাল ক'ত আলোচনা কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 54",
+        "as": "অনুচ্ছেদ ৫৪"
+      },
+      {
+        "en": "Article 56",
+        "as": "অনুচ্ছেদ ৫৬"
+      },
+      {
+        "en": "Article 58",
+        "as": "অনুচ্ছেদ ৫৮"
+      },
+      {
+        "en": "Article 60",
+        "as": "অনুচ্ছেদ ৬০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 56 lays down the term of office of the President.",
+      "as": "অনুচ্ছেদ ৫৬ এ ৰাষ্ট্ৰপতিৰ কাৰ্যকাল নিৰ্ধাৰণ কৰে।"
+    }
+  }
+]

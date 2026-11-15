@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-050",
+    "q": {
+      "en": "A proclamation of financial emergency must be approved by Parliament within:",
+      "as": "বিত্তীয় আপদকালৰ ঘোষণাপত্ৰ সংসদে কিমান সময়ৰ ভিতৰত অনুমোদন কৰিব লাগে?"
+    },
+    "options": [
+      {
+        "en": "One month",
+        "as": "এক মাহ"
+      },
+      {
+        "en": "Six months",
+        "as": "ছয় মাহ"
+      },
+      {
+        "en": "Two months",
+        "as": "দুই মাহ"
+      },
+      {
+        "en": "Three months",
+        "as": "তিনি মাহ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A financial emergency must be approved by both Houses within two months.",
+      "as": "বিত্তীয় আপদকাল দুয়োটা সদনে দুই মাহৰ ভিতৰত অনুমোদন কৰিব লাগে।"
+    }
+  }
+]

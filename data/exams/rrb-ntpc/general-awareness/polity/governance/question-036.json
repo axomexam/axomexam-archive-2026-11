@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-036",
+    "q": {
+      "en": "The President appoints the Attorney General of India under:",
+      "as": "ৰাষ্ট্ৰপতিয়ে ভাৰতৰ এটৰ্নি জেনেৰেল ক'ত নিযুক্ত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 165",
+        "as": "অনুচ্ছেদ ১৬৫"
+      },
+      {
+        "en": "Article 76",
+        "as": "অনুচ্ছেদ ৭৬"
+      },
+      {
+        "en": "Article 148",
+        "as": "অনুচ্ছেদ ১৪৮"
+      },
+      {
+        "en": "Article 124",
+        "as": "অনুচ্ছেদ ১২৪"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 76 provides for the appointment of the Attorney General by the President.",
+      "as": "অনুচ্ছেদ ৭৬ এ ৰাষ্ট্ৰপতিৰ দ্বাৰা এটৰ্নি জেনেৰেল নিয়োগৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

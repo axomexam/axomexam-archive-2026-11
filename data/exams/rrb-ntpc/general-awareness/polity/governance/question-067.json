@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-067",
+    "q": {
+      "en": "The President of India is elected by an electoral college that does NOT include:",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰপতি এনে এটা নিৰ্বাচক মণ্ডলৰ দ্বাৰা নিৰ্বাচিত হয় য'ত অন্তৰ্ভুক্ত নাই:"
+    },
+    "options": [
+      {
+        "en": "Elected members of Parliament",
+        "as": "সংসদৰ নিৰ্বাচিত সদস্য"
+      },
+      {
+        "en": "Elected members of State Assemblies",
+        "as": "ৰাজ্য বিধানসভাৰ নিৰ্বাচিত সদস্য"
+      },
+      {
+        "en": "Nominated members of Parliament",
+        "as": "সংসদৰ মনোনীত সদস্য"
+      },
+      {
+        "en": "Elected members of Union Territory legislatures",
+        "as": "কেন্দ্ৰীয় শাসিত অঞ্চল বিধানমণ্ডলৰ নিৰ্বাচিত সদস্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Nominated members of Parliament and nominated members of Assemblies do not vote in the presidential election.",
+      "as": "সংসদৰ মনোনীত সদস্য আৰু বিধানসভাৰ মনোনীত সদস্যই ৰাষ্ট্ৰপতি নিৰ্বাচনত ভোট দিয়ে নহয়।"
+    }
+  }
+]

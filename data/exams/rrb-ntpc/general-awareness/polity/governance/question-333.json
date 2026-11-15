@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-333",
+    "q": {
+      "en": "President's rule was first imposed in India in the State of:",
+      "as": "ভাৰতত প্ৰথমে কিয় ৰাজ্যত ৰাষ্ট্ৰপতি শাসন আৰোপ কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Punjab in 1951",
+        "as": "১৯৫১ চনত পঞ্জাব"
+      },
+      {
+        "en": "Kerala in 1959",
+        "as": "১৯৫৯ চনত কেৰালা"
+      },
+      {
+        "en": "Bihar in 1968",
+        "as": "১৯৬৮ চনত বিহাৰ"
+      },
+      {
+        "en": "West Bengal in 1968",
+        "as": "১৯৬৮ চনত পশ্চিম বংগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The first use of President's rule was in Punjab in 1951.",
+      "as": "প্ৰথমে ১৯৫১ চনত পঞ্জাবত ৰাষ্ট্ৰপতি শাসন আৰোপ কৰা হৈছিল।"
+    }
+  }
+]

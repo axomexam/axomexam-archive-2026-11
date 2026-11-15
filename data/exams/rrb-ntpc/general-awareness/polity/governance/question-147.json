@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-147",
+    "q": {
+      "en": "The resignation of the Speaker of the Lok Sabha is submitted to the:",
+      "as": "লোকসভাৰ অধ্যক্ষই তেওঁৰ পদত্যাগ কিয়ৰ ওচৰত দাখিল কৰে?"
+    },
+    "options": [
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "Vice-President",
+        "as": "উপ-ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Deputy Speaker",
+        "as": "উপাধ্যক্ষ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A Speaker's resignation goes to the Deputy Speaker.",
+      "as": "অধ্যক্ষই তেওঁৰ পদত্যাগ উপাধ্যক্ষৰ ওচৰত দাখিল কৰে।"
+    }
+  }
+]

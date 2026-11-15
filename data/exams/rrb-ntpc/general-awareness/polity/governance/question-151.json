@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-151",
+    "q": {
+      "en": "The Deputy Speaker of the Lok Sabha is elected by the:",
+      "as": "লোকসভাৰ উপাধ্যক্ষ কিয়ৰ দ্বাৰা নিৰ্বাচিত হয়?"
+    },
+    "options": [
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "All MPs",
+        "as": "সকলো সংসদ সদস্য"
+      },
+      {
+        "en": "Members of the Lok Sabha",
+        "as": "লোকসভাৰ সদস্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Deputy Speaker is elected by the members of the Lok Sabha.",
+      "as": "উপাধ্যক্ষ লোকসভাৰ সদস্যসকলৰ দ্বাৰা নিৰ্বাচিত হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-332",
+    "q": {
+      "en": "President's rule in a State can be extended beyond one year only if:",
+      "as": "ৰাজ্যত ৰাষ্ট্ৰপতি শাসন এক বছৰৰ বাহিৰেও বঢ়াব পাৰি কেৱল যদি:"
+    },
+    "options": [
+      {
+        "en": "The Governor recommends it",
+        "as": "ৰাজ্যপালে সুপাৰিশ কৰে"
+      },
+      {
+        "en": "A national emergency is in operation and the Election Commission certifies that elections cannot be held",
+        "as": "ৰাষ্ট্ৰীয় আপদকাল চলি থাকে আৰু নিৰ্বাচন আয়োগে নিৰ্বাচন অনুষ্ঠিত কৰিব নোৱাৰি বুলি প্ৰমাণপত্ৰ দিয়ে"
+      },
+      {
+        "en": "The Chief Minister agrees",
+        "as": "মুখ্যমন্ত্ৰীয়ে সন্মতি দিয়ে"
+      },
+      {
+        "en": "The Supreme Court permits it",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়ে অনুমতি দিয়ে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Extension beyond one year requires a national emergency in force and an Election Commission certificate.",
+      "as": "এক বছৰৰ বাহিৰেও বঢ়াবলৈ ৰাষ্ট্ৰীয় আপদকাল বলবৎ থকা আৰু নিৰ্বাচন আয়োগৰ প্ৰমাণপত্ৰ লাগে।"
+    }
+  }
+]

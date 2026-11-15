@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-161",
+    "q": {
+      "en": "Appropriation bills are dealt with under:",
+      "as": "বিনিয়োগ বিল ক'ত আলোচনা কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Article 113",
+        "as": "অনুচ্ছেদ ১১৩"
+      },
+      {
+        "en": "Article 112",
+        "as": "অনুচ্ছেদ ১১২"
+      },
+      {
+        "en": "Article 114",
+        "as": "অনুচ্ছেদ ১১৪"
+      },
+      {
+        "en": "Article 110",
+        "as": "অনুচ্ছেদ ১১০"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 114 provides for appropriation bills.",
+      "as": "অনুচ্ছেদ ১১৪ এ বিনিয়োগ বিলৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

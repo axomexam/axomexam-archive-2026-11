@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-230",
+    "q": {
+      "en": "The Supreme Court of India is established under:",
+      "as": "ভাৰতৰ সৰ্বোচ্চ ন্যায়ালয় ক'ত প্ৰতিষ্ঠিত হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 214",
+        "as": "অনুচ্ছেদ ২১৪"
+      },
+      {
+        "en": "Article 124",
+        "as": "অনুচ্ছেদ ১২৪"
+      },
+      {
+        "en": "Article 32",
+        "as": "অনুচ্ছেদ ৩২"
+      },
+      {
+        "en": "Article 226",
+        "as": "অনুচ্ছেদ ২২৬"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Supreme Court is established by Article 124.",
+      "as": "অনুচ্ছেদ ১২৪ এ সৰ্বোচ্চ ন্যায়ালয় প্ৰতিষ্ঠাৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

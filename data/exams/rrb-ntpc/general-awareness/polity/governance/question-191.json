@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-191",
+    "q": {
+      "en": "Subjects of national importance such as defence and foreign affairs are in the:",
+      "as": "প্ৰতিৰক্ষা আৰু বিদেশ পৰিক্ৰমাৰ দৰে ৰাষ্ট্ৰীয় গুৰুত্বৰ বিষয় ক'ত আছে?"
+    },
+    "options": [
+      {
+        "en": "State List",
+        "as": "ৰাজ্য তালিকা"
+      },
+      {
+        "en": "Union List",
+        "as": "সংঘ তালিকা"
+      },
+      {
+        "en": "Concurrent List",
+        "as": "যুগ্ম তালিকা"
+      },
+      {
+        "en": "Residuary",
+        "as": "অৱশিষ্ট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Defence, foreign affairs and currency are in the Union List.",
+      "as": "প্ৰতিৰক্ষা, বিদেশ পৰিক্ৰমা আৰু মুদ্ৰা সংঘ তালিকাত আছে।"
+    }
+  }
+]

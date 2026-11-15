@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-013",
+    "q": {
+      "en": "The President of India can be removed from office for violation of the Constitution by the process of:",
+      "as": "সংবিধান উলংঘাৰ বাবে ভাৰতৰ ৰাষ্ট্ৰপতিক কোনটো প্ৰক্ৰিয়াৰ দ্বাৰা পদৰ পৰা আঁতৰাব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "No-confidence motion",
+        "as": "অবিশ্বাস প্ৰস্তাৱ"
+      },
+      {
+        "en": "Impeachment",
+        "as": "অভিশংসন"
+      },
+      {
+        "en": "Censure motion",
+        "as": "নিন্দা প্ৰস্তাৱ"
+      },
+      {
+        "en": "Adjournment motion",
+        "as": "স্থগন প্ৰস্তাৱ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The President can be removed by impeachment under Article 61.",
+      "as": "অনুচ্ছেদ ৬১ ৰ অধীনত অভিশংসনৰ দ্বাৰা ৰাষ্ট্ৰপতিক আঁতৰাব পাৰি।"
+    }
+  }
+]

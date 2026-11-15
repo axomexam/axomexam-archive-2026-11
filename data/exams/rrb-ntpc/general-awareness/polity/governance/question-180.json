@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-180",
+    "q": {
+      "en": "The Committee on Privileges of Parliament deals with:",
+      "as": "সংসদৰ বিশেষাধিকাৰ সমিতিয়ে কিয়ৰ সৈতে কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Breach of privilege of members",
+        "as": "সদস্যৰ বিশেষাধিকাৰ ভংগ"
+      },
+      {
+        "en": "Budget scrutiny",
+        "as": "বাজেট পৰীক্ষা"
+      },
+      {
+        "en": "Tax reform",
+        "as": "কৰ সংস্কাৰ"
+      },
+      {
+        "en": "Foreign policy",
+        "as": "বিদেশ নীতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Committee on Privileges examines questions of breach of privilege.",
+      "as": "বিশেষাধিকাৰ সমিতিয়ে বিশেষাধিকাৰ ভংগৰ প্ৰশ্ন পৰীক্ষা কৰে।"
+    }
+  }
+]

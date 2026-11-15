@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-219",
+    "q": {
+      "en": "The Speaker of the Lok Sabha ranks in the order of precedence:",
+      "as": "লোকসভাৰ অধ্যক্ষ কিয় ক্ৰমত স্থান পায়?"
+    },
+    "options": [
+      {
+        "en": "Very high, after the President, Vice-President and Prime Minister",
+        "as": "ৰাষ্ট্ৰপতি, উপ-ৰাষ্ট্ৰপতি আৰু প্ৰধানমন্ত্ৰীৰ পিছত অতি উচ্চ"
+      },
+      {
+        "en": "Below all ministers",
+        "as": "সকলো মন্ত্ৰীৰ তলত"
+      },
+      {
+        "en": "Below judges",
+        "as": "বিচাৰকৰ তলত"
+      },
+      {
+        "en": "Below governors",
+        "as": "ৰাজ্যপালৰ তলত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Speaker holds a very high rank in the order of precedence.",
+      "as": "অধ্যক্ষই ক্ৰমৰ তালিকাত অতি উচ্চ স্থান পায়।"
+    }
+  }
+]

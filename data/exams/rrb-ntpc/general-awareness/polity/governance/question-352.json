@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-352",
+    "q": {
+      "en": "The Governor of a State is appointed by the President for a term of five years but holds office during the pleasure of the:",
+      "as": "ৰাজ্যৰ ৰাজ্যপাল ৰাষ্ট্ৰপতিৰ দ্বাৰা পাঁচ বছৰৰ বাবে নিযুক্ত হয় কিন্তু কিয়ৰ ইচ্ছালৈকে পদত থাকে?"
+    },
+    "options": [
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Chief Minister",
+        "as": "মুখ্যমন্ত্ৰী"
+      },
+      {
+        "en": "Chief Justice",
+        "as": "প্ৰধান ন্যায়াধীশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A Governor holds office during the pleasure of the President.",
+      "as": "ৰাজ্যপাল ৰাষ্ট্ৰপতিৰ ইচ্ছালৈকে পদত থাকে।"
+    }
+  }
+]

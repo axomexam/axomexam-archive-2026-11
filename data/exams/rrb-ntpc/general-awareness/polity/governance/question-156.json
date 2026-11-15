@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-156",
+    "q": {
+      "en": "The Speaker of the Lok Sabha certifies whether a bill is a money bill under:",
+      "as": "লোকসভাৰ অধ্যক্ষই ক'ত বিল ধন বিল হয় নে নহয় প্ৰমাণিত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 109",
+        "as": "অনুচ্ছেদ ১০৯"
+      },
+      {
+        "en": "Article 108",
+        "as": "অনুচ্ছেদ ১০৮"
+      },
+      {
+        "en": "Article 110",
+        "as": "অনুচ্ছেদ ১১০"
+      },
+      {
+        "en": "Article 111",
+        "as": "অনুচ্ছেদ ১১১"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Speaker's certificate under Article 110 decides whether a bill is a money bill.",
+      "as": "অনুচ্ছেদ ১১০ ৰ অধীনত অধ্যক্ষৰ প্ৰমাণপত্ৰই বিল ধন বিল হয় নে নহয় নিৰ্ণয় কৰে।"
+    }
+  }
+]

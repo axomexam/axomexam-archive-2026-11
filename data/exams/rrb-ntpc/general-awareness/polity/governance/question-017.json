@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-017",
+    "q": {
+      "en": "The oath to the President is given by the:",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰপতিক শপত গ্ৰহণ কৰোৱা হয় কিয়ৰ দ্বাৰা?"
+    },
+    "options": [
+      {
+        "en": "Vice-President",
+        "as": "উপ-ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Speaker of the Lok Sabha",
+        "as": "লোকসভাৰ অধ্যক্ষ"
+      },
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "Chief Justice of India",
+        "as": "ভাৰতৰ প্ৰধান ন্যায়াধীশ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The oath to the President is given by the Chief Justice of India.",
+      "as": "ভাৰতৰ প্ৰধান ন্যায়াধীশে ৰাষ্ট্ৰপতিক শপত গ্ৰহণ কৰায়।"
+    }
+  }
+]

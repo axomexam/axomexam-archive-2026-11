@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-311",
+    "q": {
+      "en": "Taxes on income other than agricultural income are levied by the:",
+      "as": "কৃষি আয়ৰ বাহিৰে আয়ৰ ওপৰত কৰ কিয়ৰ দ্বাৰা আৰোপ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "States",
+        "as": "ৰাজ্য"
+      },
+      {
+        "en": "Union",
+        "as": "সংঘ"
+      },
+      {
+        "en": "Local bodies",
+        "as": "স্থানীয় সংস্থা"
+      },
+      {
+        "en": "Both Union and States",
+        "as": "সংঘ আৰু ৰাজ্য দুয়োটা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Income tax, other than on agricultural income, is levied by the Union.",
+      "as": "কৃষি আয়ৰ বাহিৰে আয় কৰ সংঘই আৰোপ কৰে।"
+    }
+  }
+]

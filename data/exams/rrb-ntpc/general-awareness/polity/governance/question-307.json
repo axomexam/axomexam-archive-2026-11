@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-307",
+    "q": {
+      "en": "If a State fails to comply with a direction of the Union, the President may hold that the State government cannot be carried on under:",
+      "as": "ৰাজ্যই সংঘৰ নিৰ্দেশ পালন কৰিবলৈ ব্যৰ্থ হ'লে ৰাষ্ট্ৰপতিয়ে ক'ত ৰাজ্য চৰকাৰ চলাব নোৱাৰি বুলি ধৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 355",
+        "as": "অনুচ্ছেদ ৩৫৫"
+      },
+      {
+        "en": "Article 356",
+        "as": "অনুচ্ছেদ ৩৫৬"
+      },
+      {
+        "en": "Article 365",
+        "as": "অনুচ্ছেদ ৩৬৫"
+      },
+      {
+        "en": "Article 353",
+        "as": "অনুচ্ছেদ ৩৫৩"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 365 provides that failure to comply with Union directions may attract Article 356.",
+      "as": "অনুচ্ছেদ ৩৬৫ এ প্ৰদান কৰে যে সংঘৰ নিৰ্দেশ পালন কৰিবলৈ ব্যৰ্থ হ'লে অনুচ্ছেদ ৩৫৬ প্ৰযোজ্য হ'ব পাৰে।"
+    }
+  }
+]

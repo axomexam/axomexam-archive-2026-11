@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-289",
+    "q": {
+      "en": "The Supreme Court may withdraw a case from a High Court and decide it itself under:",
+      "as": "সৰ্বোচ্চ ন্যায়ালয়ে ক'ত উচ্চ ন্যায়ালয়ৰ পৰা গোচৰ আঁতৰাই নিজে নিষ্পত্তি কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 139A",
+        "as": "অনুচ্ছেদ ১৩৯ক"
+      },
+      {
+        "en": "Article 136",
+        "as": "অনুচ্ছেদ ১৩৬"
+      },
+      {
+        "en": "Article 142",
+        "as": "অনুচ্ছেদ ১৪২"
+      },
+      {
+        "en": "Article 143",
+        "as": "অনুচ্ছেদ ১৪৩"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Article 139A allows the Supreme Court to withdraw and decide such cases.",
+      "as": "অনুচ্ছেদ ১৩৯ক এ সৰ্বোচ্চ ন্যায়ালয়ক এনে গোচৰ আঁতৰাই নিষ্পত্তি কৰিবলৈ দিয়ে।"
+    }
+  }
+]

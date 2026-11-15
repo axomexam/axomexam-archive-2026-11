@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-188",
+    "q": {
+      "en": "Parliament can legislate to implement international treaties under:",
+      "as": "সংসদে ক'ত আন্তৰ্জাতিক চুক্তি ৰূপায়ণৰ বাবে আইন প্ৰণয়ন কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 252",
+        "as": "অনুচ্ছেদ ২৫২"
+      },
+      {
+        "en": "Article 250",
+        "as": "অনুচ্ছেদ ২৫০"
+      },
+      {
+        "en": "Article 249",
+        "as": "অনুচ্ছেদ ২৪৯"
+      },
+      {
+        "en": "Article 253",
+        "as": "অনুচ্ছেদ ২৫৩"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Article 253 empowers Parliament to legislate to implement international agreements.",
+      "as": "অনুচ্ছেদ ২৫৩ এ সংসদক আন্তৰ্জাতিক চুক্তি ৰূপায়ণৰ আইন প্ৰণয়নৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

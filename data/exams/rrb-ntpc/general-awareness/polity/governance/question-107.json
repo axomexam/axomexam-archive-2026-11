@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-107",
+    "q": {
+      "en": "The Prime Minister's term is not fixed; he holds office during the pleasure of the:",
+      "as": "প্ৰধানমন্ত্ৰীৰ কাৰ্যকাল নিৰ্ধাৰিত নহয়; তেওঁ কিয়ৰ ইচ্ছালৈকে পদত থাকে?"
+    },
+    "options": [
+      {
+        "en": "President, so long as he enjoys the confidence of the Lok Sabha",
+        "as": "ৰাষ্ট্ৰপতি, যেতিয়ালৈকে তেওঁ লোকসভাৰ আস্থা লাভ কৰে"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "Chief Justice",
+        "as": "প্ৰধান ন্যায়াধীশ"
+      },
+      {
+        "en": "Vice-President",
+        "as": "উপ-ৰাষ্ট্ৰপতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Prime Minister holds office during the President's pleasure while retaining Lok Sabha confidence.",
+      "as": "প্ৰধানমন্ত্ৰীয়ে লোকসভাৰ আস্থা থাকিলৈকে ৰাষ্ট্ৰপতিৰ ইচ্ছালৈকে পদত থাকে।"
+    }
+  }
+]

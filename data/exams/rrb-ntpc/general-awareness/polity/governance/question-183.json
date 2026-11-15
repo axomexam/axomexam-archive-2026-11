@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-183",
+    "q": {
+      "en": "A bill other than a money bill may be introduced in:",
+      "as": "ধন বিলৰ বাহিৰে অন্য বিল ক'ত উত্থাপন কৰিব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Only the Lok Sabha",
+        "as": "কেৱল লোকসভা"
+      },
+      {
+        "en": "Only the Rajya Sabha",
+        "as": "কেৱল ৰাজ্যসভা"
+      },
+      {
+        "en": "Either House of Parliament",
+        "as": "সংসদৰ যিকোনো সদন"
+      },
+      {
+        "en": "A joint sitting",
+        "as": "যুগ্ম অধিবেশন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "An ordinary bill may be introduced in either House.",
+      "as": "সাধাৰণ বিল যিকোনো সদনত উত্থাপন কৰিব পাৰি।"
+    }
+  }
+]

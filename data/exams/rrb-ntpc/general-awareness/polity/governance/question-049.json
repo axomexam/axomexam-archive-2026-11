@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-049",
+    "q": {
+      "en": "The President can proclaim a financial emergency under Article 360 if the financial stability of India is:",
+      "as": "ভাৰতৰ বিত্তীয় স্থিৰতা কিয় হ'লে ৰাষ্ট্ৰপতি অনুচ্ছেদ ৩৬০ ৰ অধীনত বিত্তীয় আপদকাল ঘোষণা কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Improved",
+        "as": "উন্নত"
+      },
+      {
+        "en": "Stable",
+        "as": "স্থিৰ"
+      },
+      {
+        "en": "Balanced",
+        "as": "ভাৰসাম্যপূৰ্ণ"
+      },
+      {
+        "en": "Threatened",
+        "as": "ভাবুকিৰ সন্মুখীন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A financial emergency may be declared if the financial stability or credit of India is threatened.",
+      "as": "ভাৰতৰ বিত্তীয় স্থিৰতা বা ঋণৰ ওপৰত ভাবুকি থাকিলে বিত্তীয় আপদকাল ঘোষণা কৰিব পাৰি।"
+    }
+  }
+]

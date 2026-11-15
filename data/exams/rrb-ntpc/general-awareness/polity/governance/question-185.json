@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-185",
+    "q": {
+      "en": "The Parliament can legislate on a State List subject under:",
+      "as": "সংসদে ক'ত ৰাজ্য তালিকাৰ বিষয়ত আইন প্ৰণয়ন কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 250 only",
+        "as": "কেৱল অনুচ্ছেদ ২৫০"
+      },
+      {
+        "en": "Article 252 only",
+        "as": "কেৱল অনুচ্ছেদ ২৫২"
+      },
+      {
+        "en": "Article 249 on a Rajya Sabha resolution",
+        "as": "ৰাজ্যসভাৰ প্ৰস্তাৱত অনুচ্ছেদ ২৪৯"
+      },
+      {
+        "en": "Article 253 only",
+        "as": "কেৱল অনুচ্ছেদ ২৫৩"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Under Article 249 Parliament may legislate on a State List subject if the Rajya Sabha so resolves.",
+      "as": "অনুচ্ছেদ ২৪৯ ৰ অধীনত ৰাজ্যসভাই প্ৰস্তাৱ কৰিলে সংসদে ৰাজ্য তালিকাৰ বিষয়ত আইন প্ৰণয়ন কৰিব পাৰে।"
+    }
+  }
+]

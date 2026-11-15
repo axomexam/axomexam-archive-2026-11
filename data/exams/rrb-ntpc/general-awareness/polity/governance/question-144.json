@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-144",
+    "q": {
+      "en": "The term of the Lok Sabha, unless dissolved earlier, is:",
+      "as": "আগতেই ভংগ নহ'লে লোকসভাৰ কাৰ্যকাল কিমান?"
+    },
+    "options": [
+      {
+        "en": "Five years",
+        "as": "পাঁচ বছৰ"
+      },
+      {
+        "en": "Six years",
+        "as": "ছয় বছৰ"
+      },
+      {
+        "en": "Four years",
+        "as": "চাৰি বছৰ"
+      },
+      {
+        "en": "Three years",
+        "as": "তিনি বছৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Lok Sabha has a normal term of five years.",
+      "as": "লোকসভাৰ স্বাভাৱিক কাৰ্যকাল পাঁচ বছৰ।"
+    }
+  }
+]

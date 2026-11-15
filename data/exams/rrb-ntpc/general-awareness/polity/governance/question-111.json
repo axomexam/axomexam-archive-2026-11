@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-111",
+    "q": {
+      "en": "The Prime Minister's office is the highest executive office and the Prime Minister is described as the:",
+      "as": "প্ৰধানমন্ত্ৰীৰ কাৰ্যালয় সৰ্বোচ্চ কাৰ্যবাহী কাৰ্যালয় আৰু প্ৰধানমন্ত্ৰীক কিক বৰ্ণনা কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Head of the State",
+        "as": "ৰাষ্ট্ৰৰ মুৰব্বী"
+      },
+      {
+        "en": "Head of the judiciary",
+        "as": "ন্যায়পালিকাৰ মুৰব্বী"
+      },
+      {
+        "en": "Head of the army",
+        "as": "সেনাৰ মুৰব্বী"
+      },
+      {
+        "en": "Head of the government",
+        "as": "চৰকাৰৰ মুৰব্বী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Prime Minister is the head of the government, while the President is the head of the State.",
+      "as": "প্ৰধানমন্ত্ৰী চৰকাৰৰ মুৰব্বী, আনহাতে ৰাষ্ট্ৰপতি ৰাষ্ট্ৰৰ মুৰব্বী।"
+    }
+  }
+]

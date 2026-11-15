@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-299",
+    "q": {
+      "en": "The Supreme Court is the final court of appeal and its decisions are binding on all courts because of:",
+      "as": "সৰ্বোচ্চ ন্যায়ালয় চূড়ান্ত আপীল আদালত আৰু ইয়াৰ সিদ্ধান্ত সকলো আদালতৰ ওপৰত বাধ্যতামূলক কাৰণ:"
+    },
+    "options": [
+      {
+        "en": "Article 142",
+        "as": "অনুচ্ছেদ ১৪২"
+      },
+      {
+        "en": "Article 144",
+        "as": "অনুচ্ছেদ ১৪৪"
+      },
+      {
+        "en": "Article 141",
+        "as": "অনুচ্ছেদ ১৪১"
+      },
+      {
+        "en": "Article 129",
+        "as": "অনুচ্ছেদ ১২৯"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 141 makes the law declared by the Supreme Court binding on all courts.",
+      "as": "অনুচ্ছেদ ১৪১ এ সৰ্বোচ্চ ন্যায়ালয়ে ঘোষণা কৰা আইন সকলো আদালতৰ ওপৰত বাধ্যতামূলক কৰে।"
+    }
+  }
+]

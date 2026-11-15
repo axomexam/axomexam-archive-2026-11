@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-285",
+    "q": {
+      "en": "The Chief Justice of India is administered the oath of office by the:",
+      "as": "ভাৰতৰ প্ৰধান ন্যায়াধীশক শপত গ্ৰহণ কৰোৱা হয় কিয়ৰ দ্বাৰা?"
+    },
+    "options": [
+      {
+        "en": "Vice-President",
+        "as": "উপ-ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "Senior-most judge",
+        "as": "জ্যেষ্ঠতম বিচাৰক"
+      },
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The President administers the oath to the Chief Justice of India.",
+      "as": "ৰাষ্ট্ৰপতিয়ে ভাৰতৰ প্ৰধান ন্যায়াধীশক শপত গ্ৰহণ কৰায়।"
+    }
+  }
+]

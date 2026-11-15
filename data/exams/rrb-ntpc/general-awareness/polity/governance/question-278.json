@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-278",
+    "q": {
+      "en": "The writ of quo warranto is issued to question a person's:",
+      "as": "কুৱ' ৱাৰেণ্ট' ৰিট কিয়ক প্ৰশ্ন কৰিবলৈ জাৰি কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Detention",
+        "as": "আটক"
+      },
+      {
+        "en": "Duty",
+        "as": "কৰ্তব্য"
+      },
+      {
+        "en": "Authority to hold a public office",
+        "as": "ৰাজহুৱা পদত থকাৰ কৰ্তৃত্ব"
+      },
+      {
+        "en": "Jurisdiction",
+        "as": "অধিকাৰক্ষেত্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Quo warranto questions a person's authority to hold a public office.",
+      "as": "কুৱ' ৱাৰেণ্ট'এ ৰাজহুৱা পদত ব্যক্তিৰ কৰ্তৃত্ব প্ৰশ্ন কৰে।"
+    }
+  }
+]

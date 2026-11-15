@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-116",
+    "q": {
+      "en": "The Prime Minister may advise the President to dissolve the Lok Sabha when the Council of Ministers:",
+      "as": "মন্ত্ৰীপৰিষদে কিয় হ'লে প্ৰধানমন্ত্ৰীয়ে ৰাষ্ট্ৰপতিক লোকসভা ভংগ কৰিবলৈ পৰামৰ্শ দিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Has full majority",
+        "as": "সম্পূৰ্ণ সংখ্যাগৰিষ্ঠতা আছে"
+      },
+      {
+        "en": "Is newly formed",
+        "as": "নতুনকৈ গঠিত"
+      },
+      {
+        "en": "Has lost its majority",
+        "as": "সংখ্যাগৰিষ্ঠতা হেৰুৱাইছে"
+      },
+      {
+        "en": "Passes a budget",
+        "as": "বাজেট পাছ কৰে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Prime Minister may advise dissolution when the Council of Ministers has lost its majority.",
+      "as": "মন্ত্ৰীপৰিষদে সংখ্যাগৰিষ্ঠতা হেৰুৱালে প্ৰধানমন্ত্ৰীয়ে ভংগৰ পৰামৰ্শ দিব পাৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-350",
+    "q": {
+      "en": "The Governor may recommend the imposition of President's rule in a State by reporting a failure of constitutional machinery under:",
+      "as": "ৰাজ্যপালে ক'ত সাংবিধানিক যন্ত্ৰৰ ব্যৰ্থতাৰ প্ৰতিবেদন দি ৰাজ্যত ৰাষ্ট্ৰপতি শাসন আৰোপৰ সুপাৰিশ কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 355",
+        "as": "অনুচ্ছেদ ৩৫৫"
+      },
+      {
+        "en": "Article 356",
+        "as": "অনুচ্ছেদ ৩৫৬"
+      },
+      {
+        "en": "Article 365",
+        "as": "অনুচ্ছেদ ৩৬৫"
+      },
+      {
+        "en": "Article 357",
+        "as": "অনুচ্ছেদ ৩৫৭"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Under Article 356 the Governor may report a failure of constitutional machinery.",
+      "as": "অনুচ্ছেদ ৩৫৬ ৰ অধীনত ৰাজ্যপালে সাংবিধানিক যন্ত্ৰৰ ব্যৰ্থতাৰ প্ৰতিবেদন দিব পাৰে।"
+    }
+  }
+]

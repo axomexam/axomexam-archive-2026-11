@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-245",
+    "q": {
+      "en": "An appeal lies to the Supreme Court in a civil matter under:",
+      "as": "অসামৰিক বিষয়ত সৰ্বোচ্চ ন্যায়ালয়ত আপীল ক'ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Article 132",
+        "as": "অনুচ্ছেদ ১৩২"
+      },
+      {
+        "en": "Article 134",
+        "as": "অনুচ্ছেদ ১৩৪"
+      },
+      {
+        "en": "Article 133",
+        "as": "অনুচ্ছেদ ১৩৩"
+      },
+      {
+        "en": "Article 136",
+        "as": "অনুচ্ছেদ ১৩৬"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 133 provides for appeals in civil matters.",
+      "as": "অনুচ্ছেদ ১৩৩ এ অসামৰিক বিষয়ত আপীলৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-345",
+    "q": {
+      "en": "The three-tier Panchayati Raj system consists of village, intermediate and:",
+      "as": "ত্ৰিস্তৰীয় পঞ্চায়তী ৰাজ ব্যৱস্থাত গাঁও, মধ্যৱৰ্তী আৰু কিয়ৰ থাকে?"
+    },
+    "options": [
+      {
+        "en": "District level",
+        "as": "জিলা স্তৰ"
+      },
+      {
+        "en": "State level",
+        "as": "ৰাজ্য স্তৰ"
+      },
+      {
+        "en": "Block level only",
+        "as": "কেৱল ব্লক স্তৰ"
+      },
+      {
+        "en": "National level",
+        "as": "ৰাষ্ট্ৰীয় স্তৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The three tiers are village, intermediate (block) and district levels.",
+      "as": "তিনিটা স্তৰ হ'ল গাঁও, মধ্যৱৰ্তী (ব্লক) আৰু জিলা স্তৰ।"
+    }
+  }
+]

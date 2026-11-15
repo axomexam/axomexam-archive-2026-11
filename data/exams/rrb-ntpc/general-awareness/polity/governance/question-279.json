@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-279",
+    "q": {
+      "en": "The writ of certiorari is issued to quash an order of a:",
+      "as": "চাৰ্টিওৰাৰি ৰিট কিয়ৰ আদেশ বাতিল কৰিবলৈ জাৰি কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "High Court",
+        "as": "উচ্চ ন্যায়ালয়"
+      },
+      {
+        "en": "Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়"
+      },
+      {
+        "en": "Legislature",
+        "as": "বিধানমণ্ডল"
+      },
+      {
+        "en": "Lower court or tribunal",
+        "as": "নিম্ন আদালত বা ট্ৰাইবুনেল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Certiorari quashes an order already passed by a lower court or tribunal.",
+      "as": "চাৰ্টিওৰাৰিয়ে নিম্ন আদালত বা ট্ৰাইবুনেলে ইতিমধ্যে দিয়া আদেশ বাতিল কৰে।"
+    }
+  }
+]

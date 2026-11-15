@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-202",
+    "q": {
+      "en": "A no-confidence motion can be moved in the Lok Sabha only if it is supported by at least:",
+      "as": "লোকসভাত অবিশ্বাস প্ৰস্তাৱ কিমানজন সদস্যৰ সমৰ্থন থাকিলেহে উত্থাপন কৰিব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "50 members",
+        "as": "৫০ জন সদস্য"
+      },
+      {
+        "en": "100 members",
+        "as": "১০০ জন সদস্য"
+      },
+      {
+        "en": "25 members",
+        "as": "২৫ জন সদস্য"
+      },
+      {
+        "en": "10 members",
+        "as": "১০ জন সদস্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A no-confidence motion requires the support of at least 50 members to be admitted.",
+      "as": "অবিশ্বাস প্ৰস্তাৱ গ্ৰহণ কৰিবলৈ কমেও ৫০ জন সদস্যৰ সমৰ্থন লাগে।"
+    }
+  }
+]

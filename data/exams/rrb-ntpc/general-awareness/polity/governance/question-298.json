@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-298",
+    "q": {
+      "en": "The Supreme Court can enforce the Fundamental Rights by issuing:",
+      "as": "সৰ্বোচ্চ ন্যায়ালয়ে কিক জাৰি কৰি মৌলিক অধিকাৰ বলবৎ কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Ordinances",
+        "as": "অধ্যাদেশ"
+      },
+      {
+        "en": "Notifications",
+        "as": "জাননী"
+      },
+      {
+        "en": "Circulars",
+        "as": "পৰিপত্ৰ"
+      },
+      {
+        "en": "Writs",
+        "as": "ৰিট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Under Article 32 the Supreme Court can issue writs to enforce Fundamental Rights.",
+      "as": "অনুচ্ছেদ ৩২ ৰ অধীনত সৰ্বোচ্চ ন্যায়ালয়ে মৌলিক অধিকাৰ বলবৎ কৰিবলৈ ৰিট জাৰি কৰিব পাৰে।"
+    }
+  }
+]

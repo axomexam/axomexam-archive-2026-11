@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-165",
+    "q": {
+      "en": "The Contingency Fund of India is at the disposal of the:",
+      "as": "ভাৰতৰ আকস্মিক ব্যয় নিধি কিয়ৰ হাতত ৰখা হয়?"
+    },
+    "options": [
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Finance Minister",
+        "as": "বিত্ত মন্ত্ৰী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The President has the Contingency Fund at his disposal.",
+      "as": "আকস্মিক ব্যয় নিধি ৰাষ্ট্ৰপতিৰ হাতত ৰখা হয়।"
+    }
+  }
+]

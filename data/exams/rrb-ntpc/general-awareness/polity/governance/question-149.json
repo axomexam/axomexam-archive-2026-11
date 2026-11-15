@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-149",
+    "q": {
+      "en": "The Speaker of the Lok Sabha has a casting vote in case of a:",
+      "as": "লোকসভাৰ অধ্যক্ষৰ কিয়ৰ ক্ষেত্ৰত নিৰ্ণায়ক ভোট থাকে?"
+    },
+    "options": [
+      {
+        "en": "Division",
+        "as": "বিভাজন"
+      },
+      {
+        "en": "Tie",
+        "as": "সমান ভোট"
+      },
+      {
+        "en": "Quorum",
+        "as": "কোৰাম"
+      },
+      {
+        "en": "Adjournment",
+        "as": "স্থগন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Speaker exercises a casting vote in the event of a tie.",
+      "as": "সমান ভোট হ'লে অধ্যক্ষই নিৰ্ণায়ক ভোট প্ৰয়োগ কৰে।"
+    }
+  }
+]

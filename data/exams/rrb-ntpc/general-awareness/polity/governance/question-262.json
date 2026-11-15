@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-262",
+    "q": {
+      "en": "The doctrine that the Constitution is supreme and all laws must conform to it is called:",
+      "as": "সংবিধান সৰ্বোচ্চ আৰু সকলো আইন ইয়াৰ অনুৰূপ হ'ব লাগে এই মতবাদটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Parliamentary sovereignty",
+        "as": "সংসদৰ সাৰ্বভৌমত্ব"
+      },
+      {
+        "en": "Judicial supremacy",
+        "as": "ন্যায়িক শ্ৰেষ্ঠত্ব"
+      },
+      {
+        "en": "Supremacy of the Constitution",
+        "as": "সংবিধানৰ শ্ৰেষ্ঠত্ব"
+      },
+      {
+        "en": "Federal supremacy",
+        "as": "সংঘীয় শ্ৰেষ্ঠত্ব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The supremacy of the Constitution means all laws and actions must conform to it.",
+      "as": "সংবিধানৰ শ্ৰেষ্ঠত্বৰ অৰ্থ হ'ল সকলো আইন আৰু কাৰ্য ইয়াৰ অনুৰূপ হ'ব লাগে।"
+    }
+  }
+]

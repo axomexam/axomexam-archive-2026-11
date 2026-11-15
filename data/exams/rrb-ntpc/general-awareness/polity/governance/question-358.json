@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-358",
+    "q": {
+      "en": "The Governor may summon and prorogue the State Legislature under:",
+      "as": "ৰাজ্যপালে ক'ত ৰাজ্য বিধানমণ্ডল আহ্বান আৰু স্থগিত ৰাখিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 175",
+        "as": "অনুচ্ছেদ ১৭৫"
+      },
+      {
+        "en": "Article 176",
+        "as": "অনুচ্ছেদ ১৭৬"
+      },
+      {
+        "en": "Article 174",
+        "as": "অনুচ্ছেদ ১৭৪"
+      },
+      {
+        "en": "Article 173",
+        "as": "অনুচ্ছেদ ১৭৩"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 174 empowers the Governor to summon and prorogue the State Legislature.",
+      "as": "অনুচ্ছেদ ১৭৪ এ ৰাজ্যপালক ৰাজ্য বিধানমণ্ডল আহ্বান আৰু স্থগিত ৰখাৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

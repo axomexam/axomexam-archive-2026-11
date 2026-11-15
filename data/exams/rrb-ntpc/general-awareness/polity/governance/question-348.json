@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-348",
+    "q": {
+      "en": "The Governor of a State may dissolve the State Legislative Assembly on the advice of the:",
+      "as": "ৰাজ্যৰ ৰাজ্যপালে কিয়ৰ পৰামৰ্শত ৰাজ্য বিধানসভা ভংগ কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Chief Minister",
+        "as": "মুখ্যমন্ত্ৰী"
+      },
+      {
+        "en": "Chief Justice",
+        "as": "প্ৰধান ন্যায়াধীশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Governor dissolves the Assembly on the advice of the Chief Minister.",
+      "as": "ৰাজ্যপালে মুখ্যমন্ত্ৰীৰ পৰামৰ্শত বিধানসভা ভংগ কৰে।"
+    }
+  }
+]

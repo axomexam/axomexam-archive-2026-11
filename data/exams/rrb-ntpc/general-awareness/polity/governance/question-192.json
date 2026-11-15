@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-192",
+    "q": {
+      "en": "Subjects such as police, public health and agriculture are in the:",
+      "as": "আৰক্ষী, ৰাজহুৱা স্বাস্থ্য আৰু কৃষিৰ দৰে বিষয় ক'ত আছে?"
+    },
+    "options": [
+      {
+        "en": "Union List",
+        "as": "সংঘ তালিকা"
+      },
+      {
+        "en": "Concurrent List",
+        "as": "যুগ্ম তালিকা"
+      },
+      {
+        "en": "Residuary",
+        "as": "অৱশিষ্ট"
+      },
+      {
+        "en": "State List",
+        "as": "ৰাজ্য তালিকা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Police, public health and agriculture are in the State List.",
+      "as": "আৰক্ষী, ৰাজহুৱা স্বাস্থ্য আৰু কৃষি ৰাজ্য তালিকাত আছে।"
+    }
+  }
+]

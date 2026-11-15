@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-120",
+    "q": {
+      "en": "The Council of Ministers advises the President on the exercise of the President's functions except where the Constitution requires the President to act in his:",
+      "as": "মন্ত্ৰীপৰিষদে ৰাষ্ট্ৰপতিৰ কাৰ্য প্ৰয়োগত পৰামৰ্শ দিয়ে, কিন্তু সংবিধানে ৰাষ্ট্ৰপতিক কিয়ত কাম কৰিবলৈ নিৰ্দেশ দিয়া ক্ষেত্ৰত বাদে?"
+    },
+    "options": [
+      {
+        "en": "Absence",
+        "as": "অনুপস্থিতি"
+      },
+      {
+        "en": "Discretion",
+        "as": "বিবেচনা"
+      },
+      {
+        "en": "Illness",
+        "as": "অসুস্থতা"
+      },
+      {
+        "en": "Vacation",
+        "as": "অৱকাশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The President acts in his own discretion in certain matters, such as appointing a Prime Minister in a hung House.",
+      "as": "কিছুমান ক্ষেত্ৰত, যেনে ওলমা সদনত প্ৰধানমন্ত্ৰী নিয়োগ, ৰাষ্ট্ৰপতিয়ে নিজৰ বিবেচনাত কাম কৰে।"
+    }
+  }
+]

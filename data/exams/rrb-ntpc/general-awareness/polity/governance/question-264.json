@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-264",
+    "q": {
+      "en": "The subordinate courts in a district function under the control of the:",
+      "as": "এখন জিলাৰ অধীনস্থ আদালতবোৰ কিয়ৰ নিয়ন্ত্ৰণত কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়"
+      },
+      {
+        "en": "High Court",
+        "as": "উচ্চ ন্যায়ালয়"
+      },
+      {
+        "en": "Governor",
+        "as": "ৰাজ্যপাল"
+      },
+      {
+        "en": "Chief Minister",
+        "as": "মুখ্যমন্ত্ৰী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Subordinate courts function under the superintendence of the High Court.",
+      "as": "অধীনস্থ আদালতবোৰ উচ্চ ন্যায়ালয়ৰ তত্বাৱধানত কাম কৰে।"
+    }
+  }
+]

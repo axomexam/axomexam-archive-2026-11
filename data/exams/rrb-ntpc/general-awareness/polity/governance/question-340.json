@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-340",
+    "q": {
+      "en": "The 74th Amendment inserted which Part in the Constitution?",
+      "as": "৭৪ সংখ্যক সংশোধনীয়ে সংবিধানত কোনটো অংশ সন্নিবিষ্ট কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Part IX",
+        "as": "নৱম অংশ"
+      },
+      {
+        "en": "Part X",
+        "as": "দশম অংশ"
+      },
+      {
+        "en": "Part IXA",
+        "as": "নৱম-ক অংশ"
+      },
+      {
+        "en": "Part XI",
+        "as": "একাদশ অংশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The 74th Amendment inserted Part IXA on Municipalities.",
+      "as": "৭৪ সংখ্যক সংশোধনীয়ে পৌৰসভা লৈ নৱম-ক অংশ সন্নিবিষ্ট কৰিছিল।"
+    }
+  }
+]

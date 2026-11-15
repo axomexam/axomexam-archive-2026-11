@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-268",
+    "q": {
+      "en": "The salary and allowances of a Supreme Court judge are charged on the:",
+      "as": "সৰ্বোচ্চ ন্যায়ালয়ৰ বিচাৰকৰ দৰমহা আৰু ভাটা কিয়ৰ ওপৰত ভাৰাক্ৰান্ত?"
+    },
+    "options": [
+      {
+        "en": "Contingency Fund of India",
+        "as": "ভাৰতৰ আকস্মিক ব্যয় নিধি"
+      },
+      {
+        "en": "Public Account of India",
+        "as": "ভাৰতৰ ৰাজহুৱা হিচাপ"
+      },
+      {
+        "en": "State Fund",
+        "as": "ৰাজ্যৰ নিধি"
+      },
+      {
+        "en": "Consolidated Fund of India",
+        "as": "ভাৰতৰ সংহত নিধি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The emoluments of Supreme Court judges are charged on the Consolidated Fund of India.",
+      "as": "সৰ্বোচ্চ ন্যায়ালয়ৰ বিচাৰকৰ বেতন-ভাটা ভাৰতৰ সংহত নিধিৰ ওপৰত ভাৰাক্ৰান্ত।"
+    }
+  }
+]

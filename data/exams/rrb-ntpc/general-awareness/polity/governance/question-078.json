@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-078",
+    "q": {
+      "en": "The Vice-President of India is elected by the members of:",
+      "as": "ভাৰতৰ উপ-ৰাষ্ট্ৰপতি কিয়ৰ সদস্যসকলে নিৰ্বাচিত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Only the Rajya Sabha",
+        "as": "কেৱল ৰাজ্যসভা"
+      },
+      {
+        "en": "Only the Lok Sabha",
+        "as": "কেৱল লোকসভা"
+      },
+      {
+        "en": "Both Houses of Parliament",
+        "as": "সংসদৰ দুয়োটা সদন"
+      },
+      {
+        "en": "State Assemblies",
+        "as": "ৰাজ্য বিধানসভা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Members of both Houses of Parliament elect the Vice-President.",
+      "as": "উপ-ৰাষ্ট্ৰপতি সংসদৰ দুয়োটা সদনৰ সদস্যসকলে নিৰ্বাচিত কৰে।"
+    }
+  }
+]

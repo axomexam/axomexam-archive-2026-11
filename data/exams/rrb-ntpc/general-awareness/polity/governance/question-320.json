@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-320",
+    "q": {
+      "en": "Parliament may by law provide that neither the Supreme Court nor any other court shall exercise jurisdiction in inter-State river water disputes under:",
+      "as": "সংসদে আইনৰ দ্বাৰা ক'ত প্ৰদান কৰিব পাৰে যে আন্তঃৰাজ্যিক নদী পানী বিবাদত সৰ্বোচ্চ ন্যায়ালয় বা অন্য কোনো আদালতে অধিকাৰক্ষেত্ৰ প্ৰয়োগ নকৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 263",
+        "as": "অনুচ্ছেদ ২৬৩"
+      },
+      {
+        "en": "Article 131",
+        "as": "অনুচ্ছেদ ১৩১"
+      },
+      {
+        "en": "Article 262",
+        "as": "অনুচ্ছেদ ২৬২"
+      },
+      {
+        "en": "Article 246",
+        "as": "অনুচ্ছেদ ২৪৬"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 262 allows Parliament to exclude the jurisdiction of courts in such disputes.",
+      "as": "অনুচ্ছেদ ২৬২ এ সংসদক এনে বিবাদত আদালতৰ অধিকাৰক্ষেত্ৰ বাদ দিবলৈ দিয়ে।"
+    }
+  }
+]

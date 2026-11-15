@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-102",
+    "q": {
+      "en": "The Prime Minister is a member of the:",
+      "as": "প্ৰধানমন্ত্ৰী কিয়ৰ সদস্য?"
+    },
+    "options": [
+      {
+        "en": "Only the Rajya Sabha",
+        "as": "কেৱল ৰাজ্যসভা"
+      },
+      {
+        "en": "Only the Lok Sabha",
+        "as": "কেৱল লোকসভা"
+      },
+      {
+        "en": "Neither House",
+        "as": "কোনো সদন নহয়"
+      },
+      {
+        "en": "Either House of Parliament",
+        "as": "সংসদৰ যিকোনো সদন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Prime Minister may be a member of either House of Parliament.",
+      "as": "প্ৰধানমন্ত্ৰী সংসদৰ যিকোনো সদনৰ সদস্য হ'ব পাৰে।"
+    }
+  }
+]

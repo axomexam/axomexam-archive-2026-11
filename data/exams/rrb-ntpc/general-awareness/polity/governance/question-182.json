@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-182",
+    "q": {
+      "en": "The salaries and allowances of members of Parliament are determined by:",
+      "as": "সংসদ সদস্যৰ দৰমহা আৰু ভাটা কিয়ৰ দ্বাৰা নিৰ্ধাৰণ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "The President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "The Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "Parliament by law",
+        "as": "সংসদে আইনৰ দ্বাৰা"
+      },
+      {
+        "en": "The Election Commission",
+        "as": "নিৰ্বাচন আয়োগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 106 provides that Parliament determines members' salaries and allowances.",
+      "as": "অনুচ্ছেদ ১০৬ এ প্ৰদান কৰে যে সংসদে সদস্যৰ দৰমহা আৰু ভাটা নিৰ্ধাৰণ কৰে।"
+    }
+  }
+]

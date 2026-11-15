@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-168",
+    "q": {
+      "en": "The maximum gap between two sessions of Parliament shall not exceed:",
+      "as": "সংসদৰ দুটা অধিবেশনৰ মাজত সৰ্বোচ্চ ব্যৱধান কিমানতকৈ বেছি হ'ব নালাগে?"
+    },
+    "options": [
+      {
+        "en": "Three months",
+        "as": "তিনি মাহ"
+      },
+      {
+        "en": "One year",
+        "as": "এক বছৰ"
+      },
+      {
+        "en": "Six months",
+        "as": "ছয় মাহ"
+      },
+      {
+        "en": "Four months",
+        "as": "চাৰি মাহ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The gap between sessions is capped at six months by Article 85.",
+      "as": "অনুচ্ছেদ ৮৫ ৰ অধীনত অধিবেশনৰ মাজৰ ব্যৱধান ছয় মাহতকৈ বেছি হ'ব নোৱাৰে।"
+    }
+  }
+]

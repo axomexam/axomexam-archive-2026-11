@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-319",
+    "q": {
+      "en": "Disputes relating to the waters of inter-State rivers are dealt with under:",
+      "as": "আন্তঃৰাজ্যিক নদীৰ পানী সম্পৰ্কিত বিবাদ ক'ত আলোচনা কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 263",
+        "as": "অনুচ্ছেদ ২৬৩"
+      },
+      {
+        "en": "Article 262",
+        "as": "অনুচ্ছেদ ২৬২"
+      },
+      {
+        "en": "Article 246",
+        "as": "অনুচ্ছেদ ২৪৬"
+      },
+      {
+        "en": "Article 248",
+        "as": "অনুচ্ছেদ ২৪৮"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 262 provides for the adjudication of inter-State river water disputes.",
+      "as": "অনুচ্ছেদ ২৬২ এ আন্তঃৰাজ্যিক নদী পানী বিবাদৰ নিষ্পত্তিৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

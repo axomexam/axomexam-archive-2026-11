@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-068",
+    "q": {
+      "en": "The President of India is the head of the State and represents the nation in:",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰপতি ৰাষ্ট্ৰৰ মুৰব্বী আৰু কিয়ত ৰাষ্ট্ৰক প্ৰতিনিধিত্ব কৰে?"
+    },
+    "options": [
+      {
+        "en": "State assemblies",
+        "as": "ৰাজ্য বিধানসভাত"
+      },
+      {
+        "en": "Local bodies",
+        "as": "স্থানীয় সংস্থাত"
+      },
+      {
+        "en": "International affairs",
+        "as": "আন্তৰ্জাতিক পৰিক্ৰমাত"
+      },
+      {
+        "en": "District courts",
+        "as": "জিলা আদালতত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The President represents the nation in international affairs.",
+      "as": "ৰাষ্ট্ৰপতি আন্তৰ্জাতিক পৰিক্ৰমাত ৰাষ্ট্ৰক প্ৰতিনিধিত্ব কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-313",
+    "q": {
+      "en": "The distribution of tax revenues between the Union and the States is recommended by the:",
+      "as": "সংঘ আৰু ৰাজ্যৰ মাজত কৰ ৰাজহ বিতৰণৰ সুপাৰিশ কিয়ৰ দ্বাৰা দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Planning Commission",
+        "as": "পৰিকল্পনা আয়োগ"
+      },
+      {
+        "en": "Election Commission",
+        "as": "নিৰ্বাচন আয়োগ"
+      },
+      {
+        "en": "UPSC",
+        "as": "সংঘ লোকসেৱা আয়োগ"
+      },
+      {
+        "en": "Finance Commission",
+        "as": "বিত্ত আয়োগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Finance Commission recommends the distribution of tax revenues.",
+      "as": "বিত্ত আয়োগে কৰ ৰাজহ বিতৰণৰ সুপাৰিশ দিয়ে।"
+    }
+  }
+]

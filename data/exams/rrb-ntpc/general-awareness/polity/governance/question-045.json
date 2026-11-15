@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-045",
+    "q": {
+      "en": "The President of India is elected indirectly because India has a:",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰপতি পৰোক্ষভাৱে নিৰ্বাচিত হয় কাৰণ ভাৰতত আছে:"
+    },
+    "options": [
+      {
+        "en": "Presidential system",
+        "as": "ৰাষ্ট্ৰপতীয় ব্যৱস্থা"
+      },
+      {
+        "en": "Military rule",
+        "as": "সামৰিক শাসন"
+      },
+      {
+        "en": "Monarchy",
+        "as": "ৰাজতন্ত্ৰ"
+      },
+      {
+        "en": "Parliamentary system of government",
+        "as": "সংসদীয় চৰকাৰ ব্যৱস্থা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In a parliamentary system the President is a nominal head elected indirectly.",
+      "as": "সংসদীয় ব্যৱস্থাত ৰাষ্ট্ৰপতি এজন নামমাত্ৰ মুৰব্বী যি পৰোক্ষভাৱে নিৰ্বাচিত হয়।"
+    }
+  }
+]

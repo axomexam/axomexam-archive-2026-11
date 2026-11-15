@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-276",
+    "q": {
+      "en": "The Supreme Court can issue a writ of habeas corpus to:",
+      "as": "সৰ্বোচ্চ ন্যায়ালয় হেবিয়াছ কৰ্পাছ ৰিট কিক কৰিবলৈ জাৰি কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Compel a duty",
+        "as": "কৰ্তব্য পালন কৰিবলৈ বাধ্য কৰিবলৈ"
+      },
+      {
+        "en": "Quash an order",
+        "as": "আদেশ বাতিল কৰিবলৈ"
+      },
+      {
+        "en": "Release a person unlawfully detained",
+        "as": "অবৈধভাৱে আটক কৰা ব্যক্তিক এৰি দিবলৈ"
+      },
+      {
+        "en": "Prevent a court from acting",
+        "as": "আদালতক কাম কৰাৰ পৰা বিৰত ৰাখিবলৈ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Habeas corpus is issued to produce and release a person unlawfully detained.",
+      "as": "হেবিয়াছ কৰ্পাছ অবৈধভাৱে আটক কৰা ব্যক্তিক হাজিৰ কৰাই এৰি দিবলৈ জাৰি কৰা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-213",
+    "q": {
+      "en": "The Public Accounts Committee of Parliament consists of members from:",
+      "as": "সংসদৰ ৰাজহুৱা হিচাপ সমিতিত কিয়ৰ সদস্য থাকে?"
+    },
+    "options": [
+      {
+        "en": "Only the Lok Sabha",
+        "as": "কেৱল লোকসভা"
+      },
+      {
+        "en": "Only the Rajya Sabha",
+        "as": "কেৱল ৰাজ্যসভা"
+      },
+      {
+        "en": "Both Houses",
+        "as": "দুয়োটা সদন"
+      },
+      {
+        "en": "State legislatures",
+        "as": "ৰাজ্য বিধানমণ্ডল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Public Accounts Committee has members from both Houses.",
+      "as": "ৰাজহুৱা হিচাপ সমিতিত দুয়োটা সদনৰ সদস্য থাকে।"
+    }
+  }
+]

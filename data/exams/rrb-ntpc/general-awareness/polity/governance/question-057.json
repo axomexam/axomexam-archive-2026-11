@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-057",
+    "q": {
+      "en": "There shall be a President of India, states:",
+      "as": "ভাৰতৰ এজন ৰাষ্ট্ৰপতি থাকিব, এনে ক'ত কোৱা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 53",
+        "as": "অনুচ্ছেদ ৫৩"
+      },
+      {
+        "en": "Article 54",
+        "as": "অনুচ্ছেদ ৫৪"
+      },
+      {
+        "en": "Article 52",
+        "as": "অনুচ্ছেদ ৫২"
+      },
+      {
+        "en": "Article 55",
+        "as": "অনুচ্ছেদ ৫৫"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 52 says there shall be a President of India.",
+      "as": "অনুচ্ছেদ ৫২ এ কয় যে ভাৰতৰ এজন ৰাষ্ট্ৰপতি থাকিব।"
+    }
+  }
+]

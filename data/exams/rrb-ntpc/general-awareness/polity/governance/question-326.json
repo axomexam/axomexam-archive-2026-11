@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-326",
+    "q": {
+      "en": "Once approved, a national emergency continues for six months and may be extended:",
+      "as": "অনুমোদনৰ পিছত ৰাষ্ট্ৰীয় আপদকাল ছয় মাহ চলি থাকে আৰু ইয়াক বঢ়াব পাৰি:"
+    },
+    "options": [
+      {
+        "en": "Indefinitely with approval every six months",
+        "as": "প্ৰতি ছয় মাহত অনুমোদনৰ সৈতে অনিৰ্দিষ্টকাললৈ"
+      },
+      {
+        "en": "Only once",
+        "as": "কেৱল এবাৰ"
+      },
+      {
+        "en": "For a maximum of one year",
+        "as": "সৰ্বাধিক এক বছৰলৈ"
+      },
+      {
+        "en": "For two years only",
+        "as": "কেৱল দুই বছৰলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A national emergency may be extended indefinitely with parliamentary approval every six months.",
+      "as": "প্ৰতি ছয় মাহত সংসদীয় অনুমোদনৰ সৈতে ৰাষ্ট্ৰীয় আপদকাল অনিৰ্দিষ্টকাললৈ বঢ়াব পাৰি।"
+    }
+  }
+]

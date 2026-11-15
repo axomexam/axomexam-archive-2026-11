@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-072",
+    "q": {
+      "en": "The President specifies the Scheduled Tribes for a State under:",
+      "as": "ৰাষ্ট্ৰপতি কোনো ৰাজ্যৰ বাবে অনুসূচিত জনজাতি ক'ত নিৰ্দিষ্ট কৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 341",
+        "as": "অনুচ্ছেদ ৩৪১"
+      },
+      {
+        "en": "Article 244",
+        "as": "অনুচ্ছেদ ২৪৪"
+      },
+      {
+        "en": "Article 342",
+        "as": "অনুচ্ছেদ ৩৪২"
+      },
+      {
+        "en": "Article 338A",
+        "as": "অনুচ্ছেদ ৩৩৮ক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 342 empowers the President to specify Scheduled Tribes.",
+      "as": "অনুচ্ছেদ ৩৪২ এ ৰাষ্ট্ৰপতিক অনুসূচিত জনজাতি নিৰ্দিষ্ট কৰাৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

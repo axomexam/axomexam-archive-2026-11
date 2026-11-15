@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-130",
+    "q": {
+      "en": "The Chief Minister advises the Governor on the appointment of:",
+      "as": "মুখ্যমন্ত্ৰীয়ে ৰাজ্যপালক কিয়ৰ নিয়োগত পৰামৰ্শ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Judges of the High Court",
+        "as": "উচ্চ ন্যায়ালয়ৰ বিচাৰক"
+      },
+      {
+        "en": "Ministers and the Advocate General",
+        "as": "মন্ত্ৰী আৰু এডভোকেট জেনেৰেল"
+      },
+      {
+        "en": "The Chief Justice",
+        "as": "প্ৰধান ন্যায়াধীশ"
+      },
+      {
+        "en": "Election Commissioners",
+        "as": "নিৰ্বাচন আয়ুক্ত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Chief Minister advises the Governor on appointing ministers and the Advocate General.",
+      "as": "মুখ্যমন্ত্ৰীয়ে মন্ত্ৰী আৰু এডভোকেট জেনেৰেল নিয়োগত ৰাজ্যপালক পৰামৰ্শ দিয়ে।"
+    }
+  }
+]

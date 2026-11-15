@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-210",
+    "q": {
+      "en": "Question Hour in Parliament is meant for:",
+      "as": "সংসদত প্ৰশ্নকাল কিক কৰিবলৈ বন্দৱস্ত কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Passing bills",
+        "as": "বিল পাছ কৰাৰ বাবে"
+      },
+      {
+        "en": "Members to ask questions of ministers",
+        "as": "সদস্যসকলে মন্ত্ৰীসকলক প্ৰশ্ন সোধাৰ বাবে"
+      },
+      {
+        "en": "Budget discussion",
+        "as": "বাজেট আলোচনাৰ বাবে"
+      },
+      {
+        "en": "Judicial review",
+        "as": "ন্যায়িক পৰ্যালোচনাৰ বাবে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Question Hour allows members to question ministers on the administration.",
+      "as": "প্ৰশ্নকালে সদস্যসকলক মন্ত্ৰীসকলক প্ৰশাসন লৈ প্ৰশ্ন সোধাৰ সুযোগ দিয়ে।"
+    }
+  }
+]

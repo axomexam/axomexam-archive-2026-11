@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-127",
+    "q": {
+      "en": "The Chief Minister is appointed by the Governor and other ministers on the advice of the:",
+      "as": "মুখ্যমন্ত্ৰী ৰাজ্যপালৰ দ্বাৰা নিযুক্ত হয় আৰু অন্য মন্ত্ৰী কিয়ৰ পৰামৰ্শত নিযুক্ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Governor",
+        "as": "ৰাজ্যপাল"
+      },
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Chief Minister",
+        "as": "মুখ্যমন্ত্ৰী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Governor appoints other ministers on the advice of the Chief Minister.",
+      "as": "ৰাজ্যপালে মুখ্যমন্ত্ৰীৰ পৰামৰ্শত অন্য মন্ত্ৰী নিযুক্ত কৰে।"
+    }
+  }
+]

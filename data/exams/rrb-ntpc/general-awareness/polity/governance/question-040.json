@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-040",
+    "q": {
+      "en": "The President has the power to summon and prorogue the Houses of Parliament under:",
+      "as": "ৰাষ্ট্ৰপতিৰ সংসদৰ সদন আহ্বান আৰু স্থগিত ৰখাৰ ক্ষমতা ক'ত আছে?"
+    },
+    "options": [
+      {
+        "en": "Article 86",
+        "as": "অনুচ্ছেদ ৮৬"
+      },
+      {
+        "en": "Article 87",
+        "as": "অনুচ্ছেদ ৮৭"
+      },
+      {
+        "en": "Article 85",
+        "as": "অনুচ্ছেদ ৮৫"
+      },
+      {
+        "en": "Article 88",
+        "as": "অনুচ্ছেদ ৮৮"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 85 empowers the President to summon and prorogue Parliament and to dissolve the Lok Sabha.",
+      "as": "অনুচ্ছেদ ৮৫ এ ৰাষ্ট্ৰপতিক সংসদ আহ্বান আৰু স্থগিত ৰখাৰ আৰু লোকসভা ভংগ কৰাৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-105",
+    "q": {
+      "en": "The Prime Minister chairs the:",
+      "as": "প্ৰধানমন্ত্ৰী কিয়ৰ অধ্যক্ষ?"
+    },
+    "options": [
+      {
+        "en": "Planning/NITI Aayog and other key bodies",
+        "as": "পৰিকল্পনা/NITI আয়োগ আৰু অন্য গুৰুত্বপূৰ্ণ সংস্থা"
+      },
+      {
+        "en": "Election Commission",
+        "as": "নিৰ্বাচন আয়োগ"
+      },
+      {
+        "en": "Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়"
+      },
+      {
+        "en": "Finance Commission",
+        "as": "বিত্ত আয়োগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Prime Minister chairs NITI Aayog and several other key bodies.",
+      "as": "প্ৰধানমন্ত্ৰী NITI আয়োগ আৰু অন্য কেইবাটাও গুৰুত্বপূৰ্ণ সংস্থাৰ অধ্যক্ষ।"
+    }
+  }
+]

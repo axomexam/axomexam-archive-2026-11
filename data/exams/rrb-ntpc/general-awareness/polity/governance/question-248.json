@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-248",
+    "q": {
+      "en": "The advisory jurisdiction of the Supreme Court under Article 143 may be exercised on a reference made by the:",
+      "as": "অনুচ্ছেদ ১৪৩ ৰ অধীনত সৰ্বোচ্চ ন্যায়ালয়ৰ পৰামৰ্শমূলক অধিকাৰক্ষেত্ৰ কিয়ৰ দ্বাৰা কৰা প্ৰেৰণত প্ৰয়োগ কৰিব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "Attorney General",
+        "as": "এটৰ্নি জেনেৰেল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The President may refer a question of law or fact to the Supreme Court under Article 143.",
+      "as": "ৰাষ্ট্ৰপতিয়ে অনুচ্ছেদ ১৪৩ ৰ অধীনত আইন বা তথ্যৰ প্ৰশ্ন সৰ্বোচ্চ ন্যায়ালয়লৈ প্ৰেৰণ কৰিব পাৰে।"
+    }
+  }
+]

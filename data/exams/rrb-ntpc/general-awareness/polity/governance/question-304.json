@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-304",
+    "q": {
+      "en": "Residuary powers of legislation are vested in Parliament under:",
+      "as": "অৱশিষ্ট আইন প্ৰণয়নৰ ক্ষমতা ক'ত সংসদৰ হাতত ন্যস্ত?"
+    },
+    "options": [
+      {
+        "en": "Article 246",
+        "as": "অনুচ্ছেদ ২৪৬"
+      },
+      {
+        "en": "Article 249",
+        "as": "অনুচ্ছেদ ২৪৯"
+      },
+      {
+        "en": "Article 248",
+        "as": "অনুচ্ছেদ ২৪৮"
+      },
+      {
+        "en": "Article 250",
+        "as": "অনুচ্ছেদ ২৫০"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 248 vests residuary legislative powers in Parliament.",
+      "as": "অনুচ্ছেদ ২৪৮ এ অৱশিষ্ট বিধায়কী ক্ষমতা সংসদৰ হাতত ন্যস্ত কৰে।"
+    }
+  }
+]

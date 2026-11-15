@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-200",
+    "q": {
+      "en": "The Lok Sabha can be dissolved by the:",
+      "as": "লোকসভা কিয়ৰ দ্বাৰা ভংগ কৰিব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Speaker",
+        "as": "অধ্যক্ষ"
+      },
+      {
+        "en": "President on the advice of the Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰীৰ পৰামৰ্শত ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Parliament by resolution",
+        "as": "সংসদে প্ৰস্তাৱৰ দ্বাৰা"
+      },
+      {
+        "en": "Chief Justice",
+        "as": "প্ৰধান ন্যায়াধীশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The President dissolves the Lok Sabha on the advice of the Council of Ministers.",
+      "as": "ৰাষ্ট্ৰপতিয়ে মন্ত্ৰীপৰিষদৰ পৰামৰ্শত লোকসভা ভংগ কৰে।"
+    }
+  }
+]

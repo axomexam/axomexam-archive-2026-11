@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-112",
+    "q": {
+      "en": "A vote of no confidence against the Council of Ministers can be moved in the:",
+      "as": "মন্ত্ৰীপৰিষদৰ বিৰুদ্ধে অবিশ্বাস প্ৰস্তাৱ ক'ত উত্থাপন কৰিব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Rajya Sabha",
+        "as": "ৰাজ্যসভা"
+      },
+      {
+        "en": "Either House",
+        "as": "যিকোনো সদন"
+      },
+      {
+        "en": "Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়"
+      },
+      {
+        "en": "Lok Sabha",
+        "as": "লোকসভা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Only the Lok Sabha can entertain a no-confidence motion.",
+      "as": "অবিশ্বাস প্ৰস্তাৱ কেৱল লোকসভাত উত্থাপন কৰিব পাৰি।"
+    }
+  }
+]

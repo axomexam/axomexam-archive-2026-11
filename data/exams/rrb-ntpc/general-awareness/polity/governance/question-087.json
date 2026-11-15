@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-087",
+    "q": {
+      "en": "The appointment of the Prime Minister is made by the:",
+      "as": "ভাৰতৰ প্ৰধানমন্ত্ৰী কিয়ৰ দ্বাৰা নিযুক্ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "President",
+        "as": "ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "Lok Sabha",
+        "as": "লোকসভা"
+      },
+      {
+        "en": "Chief Justice",
+        "as": "প্ৰধান ন্যায়াধীশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 75 gives the President the power to appoint the Prime Minister.",
+      "as": "ৰাষ্ট্ৰপতিয়ে অনুচ্ছেদ ৭৫ ৰ অধীনত প্ৰধানমন্ত্ৰী নিযুক্ত কৰে।"
+    }
+  }
+]

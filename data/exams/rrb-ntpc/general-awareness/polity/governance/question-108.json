@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-108",
+    "q": {
+      "en": "The Prime Minister recommends to the President the appointment of the:",
+      "as": "প্ৰধানমন্ত্ৰীয়ে ৰাষ্ট্ৰপতিক কিয়ৰ নিয়োগৰ পৰামৰ্শ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Judges of the Supreme Court only",
+        "as": "কেৱল সৰ্বোচ্চ ন্যায়ালয়ৰ বিচাৰক"
+      },
+      {
+        "en": "Members of the Election Commission only",
+        "as": "কেৱল নিৰ্বাচন আয়োগৰ সদস্য"
+      },
+      {
+        "en": "Governors only",
+        "as": "কেৱল ৰাজ্যপাল"
+      },
+      {
+        "en": "Other Ministers and key officials",
+        "as": "অন্য মন্ত্ৰী আৰু গুৰুত্বপূৰ্ণ বিষয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Prime Minister advises the President on the appointment of other ministers and key officials.",
+      "as": "প্ৰধানমন্ত্ৰীয়ে অন্য মন্ত্ৰী আৰু গুৰুত্বপূৰ্ণ বিষয়া নিয়োগত ৰাষ্ট্ৰপতিক পৰামৰ্শ দিয়ে।"
+    }
+  }
+]

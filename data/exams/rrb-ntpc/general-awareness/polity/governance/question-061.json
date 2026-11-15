@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-061",
+    "q": {
+      "en": "The procedure for impeachment of the President is given in:",
+      "as": "ৰাষ্ট্ৰপতিৰ অভিশংসনৰ প্ৰক্ৰিয়া ক'ত দিয়া হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 56",
+        "as": "অনুচ্ছেদ ৫৬"
+      },
+      {
+        "en": "Article 61",
+        "as": "অনুচ্ছেদ ৬১"
+      },
+      {
+        "en": "Article 58",
+        "as": "অনুচ্ছেদ ৫৮"
+      },
+      {
+        "en": "Article 72",
+        "as": "অনুচ্ছেদ ৭২"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Article 61 lays down the procedure for impeachment of the President.",
+      "as": "অনুচ্ছেদ ৬১ এ ৰাষ্ট্ৰপতিৰ অভিশংসনৰ প্ৰক্ৰিয়া দাঙি ধৰে।"
+    }
+  }
+]

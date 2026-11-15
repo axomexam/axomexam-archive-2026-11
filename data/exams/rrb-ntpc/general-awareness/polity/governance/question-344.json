@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-344",
+    "q": {
+      "en": "The State Finance Commission examines the finances of:",
+      "as": "ৰাজ্য বিত্ত আয়োগে কিয়ৰ বিত্তীয় অৱস্থা পুনৰীক্ষণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "The State government",
+        "as": "ৰাজ্য চৰকাৰ"
+      },
+      {
+        "en": "The Union",
+        "as": "সংঘ"
+      },
+      {
+        "en": "Panchayats and Municipalities",
+        "as": "পঞ্চায়ত আৰু পৌৰসভা"
+      },
+      {
+        "en": "Local courts",
+        "as": "স্থানীয় আদালত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Finances of Panchayats and Municipalities are reviewed by the State Finance Commission.",
+      "as": "ৰাজ্য বিত্ত আয়োগে পঞ্চায়ত আৰু পৌৰসভাৰ বিত্ত পুনৰীক্ষণ কৰে।"
+    }
+  }
+]

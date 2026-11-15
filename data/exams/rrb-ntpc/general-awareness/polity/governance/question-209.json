@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-209",
+    "q": {
+      "en": "The three sessions of Parliament in a year are generally the budget, monsoon and:",
+      "as": "এক বছৰত সংসদৰ তিনিটা অধিবেশন সাধাৰণতে বাজেট, বৰ্ষাকালীন আৰু:"
+    },
+    "options": [
+      {
+        "en": "Summer session",
+        "as": "গ্ৰীষ্মকালীন অধিবেশন"
+      },
+      {
+        "en": "Autumn session",
+        "as": "শৰৎকালীন অধিবেশন"
+      },
+      {
+        "en": "Spring session",
+        "as": "বসন্তকালীন অধিবেশন"
+      },
+      {
+        "en": "Winter session",
+        "as": "শীতকালীন অধিবেশন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Parliament normally meets in three sessions: budget, monsoon and winter.",
+      "as": "সংসদ সাধাৰণতে তিনিটা অধিবেশনত বহে: বাজেট, বৰ্ষাকালীন আৰু শীতকালীন।"
+    }
+  }
+]

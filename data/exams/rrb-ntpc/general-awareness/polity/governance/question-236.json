@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-236",
+    "q": {
+      "en": "A judge of the Supreme Court can be removed by the President on the ground of proved misbehaviour or incapacity after a resolution of Parliament passed by:",
+      "as": "প্ৰমাণিত অসদাচৰণ বা অক্ষমতাৰ বাবে সৰ্বোচ্চ ন্যায়ালয়ৰ বিচাৰকক আঁতৰাবলৈ সংসদৰ কিমান সংখ্যাগৰিষ্ঠতাৰ প্ৰস্তাৱ লাগে?"
+    },
+    "options": [
+      {
+        "en": "A simple majority",
+        "as": "সৰল সংখ্যাগৰিষ্ঠতা"
+      },
+      {
+        "en": "A two-thirds majority of members present",
+        "as": "উপস্থিত সদস্যৰ দু-তৃতীয়াংশ"
+      },
+      {
+        "en": "A three-fourths majority",
+        "as": "তিনি-চতুৰ্থাংশ সংখ্যাগৰিষ্ঠতা"
+      },
+      {
+        "en": "A special majority",
+        "as": "বিশেষ সংখ্যাগৰিষ্ঠতা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Removal requires a resolution passed by each House by a special majority.",
+      "as": "অপসাৰণৰ বাবে প্ৰতিখন সদনে বিশেষ সংখ্যাগৰিষ্ঠতাৰে প্ৰস্তাৱ পাছ কৰিব লাগে।"
+    }
+  }
+]

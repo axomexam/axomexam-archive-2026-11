@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-300",
+    "q": {
+      "en": "Judges of the Supreme Court and High Courts hold office during good behaviour and can be removed only by:",
+      "as": "সৰ্বোচ্চ ন্যায়ালয় আৰু উচ্চ ন্যায়ালয়ৰ বিচাৰকসকলে সদাচৰণৰ সময়লৈকে পদত থাকে আৰু কেৱল কিয়ৰ দ্বাৰা আঁতৰাব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "The President at will",
+        "as": "ৰাষ্ট্ৰপতিৰ ইচ্ছামতে"
+      },
+      {
+        "en": "A simple majority of Parliament",
+        "as": "সংসদৰ সৰল সংখ্যাগৰিষ্ঠতা"
+      },
+      {
+        "en": "The Chief Justice",
+        "as": "প্ৰধান ন্যায়াধীশ"
+      },
+      {
+        "en": "A special majority of Parliament on proved misbehaviour",
+        "as": "প্ৰমাণিত অসদাচৰণত সংসদৰ বিশেষ সংখ্যাগৰিষ্ঠতা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Judges can be removed only by a special majority of Parliament on proved misbehaviour or incapacity.",
+      "as": "বিচাৰকক কেৱল প্ৰমাণিত অসদাচৰণ বা অক্ষমতাৰ বাবে সংসদৰ বিশেষ সংখ্যাগৰিষ্ঠতাৰ দ্বাৰা আঁতৰাব পাৰি।"
+    }
+  }
+]

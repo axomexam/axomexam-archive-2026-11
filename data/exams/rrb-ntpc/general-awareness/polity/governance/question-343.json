@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-343",
+    "q": {
+      "en": "Panchayat elections are held under the supervision of the:",
+      "as": "পঞ্চায়তৰ নিৰ্বাচন কিয়ৰ দ্বাৰা অনুষ্ঠিত হয়?"
+    },
+    "options": [
+      {
+        "en": "Election Commission of India",
+        "as": "ভাৰতৰ নিৰ্বাচন আয়োগ"
+      },
+      {
+        "en": "Governor",
+        "as": "ৰাজ্যপাল"
+      },
+      {
+        "en": "State Election Commission",
+        "as": "ৰাজ্য নিৰ্বাচন আয়োগ"
+      },
+      {
+        "en": "Chief Minister",
+        "as": "মুখ্যমন্ত্ৰী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Panchayat polls are held by the State Election Commission.",
+      "as": "পঞ্চায়তৰ নিৰ্বাচন ৰাজ্য নিৰ্বাচন আয়োগে অনুষ্ঠিত কৰে।"
+    }
+  }
+]

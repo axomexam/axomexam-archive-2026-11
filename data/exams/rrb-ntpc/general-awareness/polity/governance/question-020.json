@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-020",
+    "q": {
+      "en": "The power of the President to suspend, remit or commute a sentence is provided under:",
+      "as": "ৰাষ্ট্ৰপতিৰ দণ্ড স্থগিত, লাঘৱ বা পৰিৱৰ্তনৰ ক্ষমতা ক'ত প্ৰদান কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 161",
+        "as": "অনুচ্ছেদ ১৬১"
+      },
+      {
+        "en": "Article 74",
+        "as": "অনুচ্ছেদ ৭৪"
+      },
+      {
+        "en": "Article 72",
+        "as": "অনুচ্ছেদ ৭২"
+      },
+      {
+        "en": "Article 78",
+        "as": "অনুচ্ছেদ ৭৮"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 72 provides the President's power to grant pardons and remit sentences.",
+      "as": "অনুচ্ছেদ ৭২ এ ৰাষ্ট্ৰপতিৰ ক্ষমা প্ৰদান আৰু দণ্ড লাঘৱৰ ক্ষমতা প্ৰদান কৰে।"
+    }
+  }
+]

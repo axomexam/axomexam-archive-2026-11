@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-177",
+    "q": {
+      "en": "The Committee on Public Undertakings of Parliament examines the working of:",
+      "as": "সংসদৰ ৰাজহুৱা সংস্থা সমিতিয়ে কিয়ৰ কাৰ্য পৰীক্ষা কৰে?"
+    },
+    "options": [
+      {
+        "en": "Public sector undertakings",
+        "as": "ৰাজহুৱা খণ্ডৰ সংস্থা"
+      },
+      {
+        "en": "Private companies",
+        "as": "ব্যক্তিগত কোম্পানী"
+      },
+      {
+        "en": "Foreign firms",
+        "as": "বিদেশী প্ৰতিষ্ঠান"
+      },
+      {
+        "en": "Local bodies",
+        "as": "স্থানীয় সংস্থা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Committee on Public Undertakings examines public sector undertakings.",
+      "as": "ৰাজহুৱা সংস্থা সমিতিয়ে ৰাজহুৱা খণ্ডৰ সংস্থা পৰীক্ষা কৰে।"
+    }
+  }
+]

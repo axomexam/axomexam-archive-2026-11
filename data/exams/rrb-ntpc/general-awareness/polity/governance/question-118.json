@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-118",
+    "q": {
+      "en": "The Council of Ministers is responsible for the formulation of:",
+      "as": "মন্ত্ৰীপৰিষদ কিক প্ৰণয়নৰ বাবে দায়বদ্ধ?"
+    },
+    "options": [
+      {
+        "en": "Judicial verdicts",
+        "as": "ন্যায়িক ৰায়"
+      },
+      {
+        "en": "Government policies",
+        "as": "চৰকাৰী নীতি"
+      },
+      {
+        "en": "Election results",
+        "as": "নিৰ্বাচনৰ ফলাফল"
+      },
+      {
+        "en": "Constitutional amendments only",
+        "as": "কেৱল সংবিধান সংশোধন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Council of Ministers formulates and implements government policy.",
+      "as": "মন্ত্ৰীপৰিষদে চৰকাৰী নীতি প্ৰণয়ন আৰু ৰূপায়ণ কৰে।"
+    }
+  }
+]

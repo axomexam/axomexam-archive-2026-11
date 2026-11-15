@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-148",
+    "q": {
+      "en": "The Speaker of the Lok Sabha can be removed by a resolution passed by a majority of:",
+      "as": "লোকসভাৰ অধ্যক্ষক কিমান সংখ্যাগৰিষ্ঠতাৰ প্ৰস্তাৱৰ দ্বাৰা আঁতৰাব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "All the then members of the House",
+        "as": "সদনৰ তেতিয়াৰ সকলো সদস্য"
+      },
+      {
+        "en": "Two-thirds of members present",
+        "as": "উপস্থিত সদস্যৰ দু-তৃতীয়াংশ"
+      },
+      {
+        "en": "Three-fourths of members present",
+        "as": "উপস্থিত সদস্যৰ তিনি-চতুৰ্থাংশ"
+      },
+      {
+        "en": "Half of members present",
+        "as": "উপস্থিত সদস্যৰ আধা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Speaker can be removed by a resolution passed by a majority of all the then members of the House.",
+      "as": "সদনৰ তেতিয়াৰ সকলো সদস্যৰ সংখ্যাগৰিষ্ঠতাৰ প্ৰস্তাৱৰ দ্বাৰা অধ্যক্ষক আঁতৰাব পাৰি।"
+    }
+  }
+]

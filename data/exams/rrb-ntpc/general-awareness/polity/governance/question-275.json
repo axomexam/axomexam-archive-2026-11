@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-275",
+    "q": {
+      "en": "The law and procedure applicable to a High Court are governed by:",
+      "as": "উচ্চ ন্যায়ালয়ত প্ৰযোজ্য আইন আৰু প্ৰক্ৰিয়া কিয়ৰ দ্বাৰা পৰিচালিত হয়?"
+    },
+    "options": [
+      {
+        "en": "Only the Constitution",
+        "as": "কেৱল সংবিধান"
+      },
+      {
+        "en": "Letters Patent and the Constitution",
+        "as": "লেটাৰ্ছ পেটেণ্ট আৰু সংবিধান"
+      },
+      {
+        "en": "Only the Civil Procedure Code",
+        "as": "কেৱল অসামৰিক প্ৰক্ৰিয়া সংহিতা"
+      },
+      {
+        "en": "Only the High Court Rules",
+        "as": "কেৱল উচ্চ ন্যায়ালয়ৰ নিয়ম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The jurisdiction of older High Courts is governed by their Letters Patent and the Constitution.",
+      "as": "পুৰণি উচ্চ ন্যায়ালয়ৰ অধিকাৰক্ষেত্ৰ ইয়াৰ লেটাৰ্ছ পেটেণ্ট আৰু সংবিধানৰ দ্বাৰা পৰিচালিত হয়।"
+    }
+  }
+]

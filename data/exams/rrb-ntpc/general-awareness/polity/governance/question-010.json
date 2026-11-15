@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-010",
+    "q": {
+      "en": "To be eligible for election as President, a person must be qualified for election as a member of the:",
+      "as": "ৰাষ্ট্ৰপতি হিচাপে নিৰ্বাচনৰ বাবে যোগ্য হ'বলৈ এজন ব্যক্তিয়ে কিয়ৰ সদস্য হিচাপে নিৰ্বাচনৰ বাবে যোগ্য হ'ব লাগে?"
+    },
+    "options": [
+      {
+        "en": "Council of States",
+        "as": "ৰাজ্যৰ পৰিষদ"
+      },
+      {
+        "en": "House of the People",
+        "as": "জনতাৰ সদন"
+      },
+      {
+        "en": "State Assembly",
+        "as": "ৰাজ্য বিধানসভা"
+      },
+      {
+        "en": "Local body",
+        "as": "স্থানীয় সংস্থা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A presidential candidate must be qualified to be a member of the Lok Sabha.",
+      "as": "ৰাষ্ট্ৰপতিৰ প্ৰাৰ্থী লোকসভাৰ সদস্য হ'বলৈ যোগ্য হ'ব লাগে।"
+    }
+  }
+]

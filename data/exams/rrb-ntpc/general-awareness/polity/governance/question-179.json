@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-179",
+    "q": {
+      "en": "The Committee on Petitions of Parliament deals with:",
+      "as": "সংসদৰ আবেদন সমিতিয়ে কিয়ৰ সৈতে কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Tax assessments",
+        "as": "কৰ মূল্যায়ন"
+      },
+      {
+        "en": "Foreign treaties",
+        "as": "বিদেশী চুক্তি"
+      },
+      {
+        "en": "Judicial review",
+        "as": "ন্যায়িক পৰ্যালোচনা"
+      },
+      {
+        "en": "Petitions from citizens",
+        "as": "নাগৰিকৰ আবেদন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Committee on Petitions deals with petitions from citizens.",
+      "as": "আবেদন সমিতিয়ে নাগৰিকৰ আবেদনৰ সৈতে কাম কৰে।"
+    }
+  }
+]

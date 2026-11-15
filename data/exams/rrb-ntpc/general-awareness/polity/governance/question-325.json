@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-325",
+    "q": {
+      "en": "A proclamation of national emergency must be approved by both Houses of Parliament within:",
+      "as": "ৰাষ্ট্ৰীয় আপদকালৰ ঘোষণাপত্ৰ সংসদৰ দুয়োটা সদনে কিমান সময়ৰ ভিতৰত অনুমোদন কৰিব লাগে?"
+    },
+    "options": [
+      {
+        "en": "Two months",
+        "as": "দুই মাহ"
+      },
+      {
+        "en": "Six months",
+        "as": "ছয় মাহ"
+      },
+      {
+        "en": "One month",
+        "as": "এক মাহ"
+      },
+      {
+        "en": "Fifteen days",
+        "as": "পোন্ধৰ দিন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A national emergency proclamation must be approved within one month.",
+      "as": "ৰাষ্ট্ৰীয় আপদকালৰ ঘোষণাপত্ৰ এক মাহৰ ভিতৰত অনুমোদন কৰিব লাগে।"
+    }
+  }
+]

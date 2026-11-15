@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-259",
+    "q": {
+      "en": "The Supreme Court is the guardian of the:",
+      "as": "সৰ্বোচ্চ ন্যায়ালয় কিয়ৰ ৰক্ষক?"
+    },
+    "options": [
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "Executive",
+        "as": "কাৰ্যবাহী"
+      },
+      {
+        "en": "States",
+        "as": "ৰাজ্য"
+      },
+      {
+        "en": "Constitution",
+        "as": "সংবিধান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Supreme Court is the guardian and final interpreter of the Constitution.",
+      "as": "সৰ্বোচ্চ ন্যায়ালয় সংবিধানৰ ৰক্ষক আৰু চূড়ান্ত ব্যাখ্যাকাৰী।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-100",
+    "q": {
+      "en": "The Union Council of Ministers is collectively responsible to the Lok Sabha, meaning it must:",
+      "as": "সংঘৰ মন্ত্ৰীপৰিষদ লোকসভাৰ প্ৰতি সমূহীয়াভাৱে দায়বদ্ধ, অৰ্থাৎ ই:"
+    },
+    "options": [
+      {
+        "en": "Obey the Rajya Sabha",
+        "as": "ৰাজ্যসভা মানি চলিব লাগে"
+      },
+      {
+        "en": "Follow the Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয় অনুসৰণ কৰিব লাগে"
+      },
+      {
+        "en": "Consult the President always",
+        "as": "সদায় ৰাষ্ট্ৰপতিৰ সৈতে পৰামৰ্শ কৰিব লাগে"
+      },
+      {
+        "en": "Retain the confidence of the majority",
+        "as": "সংখ্যাগৰিষ্ঠতাৰ আস্থা ৰাখিব লাগে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Council of Ministers must retain the confidence of the majority in the Lok Sabha.",
+      "as": "মন্ত্ৰীপৰিষদে লোকসভাৰ সংখ্যাগৰিষ্ঠতাৰ আস্থা ৰাখিব লাগে।"
+    }
+  }
+]

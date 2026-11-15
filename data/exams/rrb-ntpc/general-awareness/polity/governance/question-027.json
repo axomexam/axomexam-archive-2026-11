@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-027",
+    "q": {
+      "en": "The President may nominate how many members to the Rajya Sabha?",
+      "as": "ৰাষ্ট্ৰপতিয়ে ৰাজ্যসভালৈ কিমানজন সদস্য মনোনীত কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "15",
+        "as": "১৫"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The President nominates 12 members to the Rajya Sabha for their contribution to literature, science, art and social service.",
+      "as": "ৰাষ্ট্ৰপতিয়ে সাহিত্য, বিজ্ঞান, কলা আৰু সমাজসেৱাত অৱদানৰ বাবে ৰাজ্যসভালৈ ১২ জন সদস্য মনোনীত কৰে।"
+    }
+  }
+]

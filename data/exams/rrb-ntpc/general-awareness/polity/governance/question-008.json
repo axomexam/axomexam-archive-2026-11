@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-008",
+    "q": {
+      "en": "The value of the vote of a Member of a State Legislative Assembly depends on the:",
+      "as": "ৰাজ্য বিধানসভাৰ এজন সদস্যৰ ভোটৰ মূল্য কিয়ৰ ওপৰত নিৰ্ভৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Area of the State",
+        "as": "ৰাজ্যৰ মাটিকালি"
+      },
+      {
+        "en": "Number of districts",
+        "as": "জিলাৰ সংখ্যা"
+      },
+      {
+        "en": "Number of MPs from the State",
+        "as": "ৰাজ্যৰ পৰা সংসদ সদস্যৰ সংখ্যা"
+      },
+      {
+        "en": "Population of the State",
+        "as": "ৰাজ্যৰ জনসংখ্যা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The MLA vote value is based on the population of the State.",
+      "as": "বিধায়কৰ ভোটৰ মূল্য ৰাজ্যৰ জনসংখ্যাৰ ওপৰত আধাৰিত।"
+    }
+  }
+]

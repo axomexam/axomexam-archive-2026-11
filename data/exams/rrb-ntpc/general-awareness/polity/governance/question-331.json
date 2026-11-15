@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-331",
+    "q": {
+      "en": "President's rule must be approved by Parliament within:",
+      "as": "ৰাষ্ট্ৰপতি শাসন সংসদে কিমান সময়ৰ ভিতৰত অনুমোদন কৰিব লাগে?"
+    },
+    "options": [
+      {
+        "en": "One month",
+        "as": "এক মাহ"
+      },
+      {
+        "en": "Six months",
+        "as": "ছয় মাহ"
+      },
+      {
+        "en": "Two months",
+        "as": "দুই মাহ"
+      },
+      {
+        "en": "Three months",
+        "as": "তিনি মাহ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "President's rule must be approved by both Houses within two months.",
+      "as": "ৰাষ্ট্ৰপতি শাসন দুয়োটা সদনে দুই মাহৰ ভিতৰত অনুমোদন কৰিব লাগে।"
+    }
+  }
+]

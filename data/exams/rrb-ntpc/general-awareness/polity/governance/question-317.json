@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-317",
+    "q": {
+      "en": "The Inter-State Council may be established by the President under:",
+      "as": "ৰাষ্ট্ৰপতি ক'ত আন্তঃৰাজ্যিক পৰিষদ গঠন কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 262",
+        "as": "অনুচ্ছেদ ২৬২"
+      },
+      {
+        "en": "Article 280",
+        "as": "অনুচ্ছেদ ২৮০"
+      },
+      {
+        "en": "Article 263",
+        "as": "অনুচ্ছেদ ২৬৩"
+      },
+      {
+        "en": "Article 275",
+        "as": "অনুচ্ছেদ ২৭৫"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 263 empowers the President to establish an Inter-State Council.",
+      "as": "অনুচ্ছেদ ২৬৩ এ ৰাষ্ট্ৰপতিক আন্তঃৰাজ্যিক পৰিষদ গঠনৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

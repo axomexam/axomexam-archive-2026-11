@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-138",
+    "q": {
+      "en": "The maximum strength of the Rajya Sabha as provided in the Constitution is:",
+      "as": "সংবিধানত থকা মতে ৰাজ্যসভাৰ সৰ্বোচ্চ সদস্য সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "238",
+        "as": "২৩৮"
+      },
+      {
+        "en": "250",
+        "as": "২৫০"
+      },
+      {
+        "en": "245",
+        "as": "২৪৫"
+      },
+      {
+        "en": "300",
+        "as": "৩০০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Rajya Sabha can have a maximum of 250 members.",
+      "as": "ৰাজ্যসভাত সৰ্বোচ্চ ২৫০ জন সদস্য থাকিব পাৰে।"
+    }
+  }
+]

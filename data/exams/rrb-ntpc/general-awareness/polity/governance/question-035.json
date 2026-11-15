@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-035",
+    "q": {
+      "en": "The President appoints the Comptroller and Auditor General of India under:",
+      "as": "ৰাষ্ট্ৰপতিয়ে ভাৰতৰ নিয়ন্ত্ৰক আৰু মহা-লেখা পৰীক্ষক ক'ত নিযুক্ত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 76",
+        "as": "অনুচ্ছেদ ৭৬"
+      },
+      {
+        "en": "Article 315",
+        "as": "অনুচ্ছেদ ৩১৫"
+      },
+      {
+        "en": "Article 148",
+        "as": "অনুচ্ছেদ ১৪৮"
+      },
+      {
+        "en": "Article 324",
+        "as": "অনুচ্ছেদ ৩২৪"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 148 provides for the appointment of the CAG by the President.",
+      "as": "অনুচ্ছেদ ১৪৮ এ ৰাষ্ট্ৰপতিৰ দ্বাৰা CAG নিয়োগৰ ব্যৱস্থা কৰে।"
+    }
+  }
+]

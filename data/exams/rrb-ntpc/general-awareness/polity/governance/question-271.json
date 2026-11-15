@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-271",
+    "q": {
+      "en": "The Supreme Court may appoint an ad hoc judge under:",
+      "as": "সৰ্বোচ্চ ন্যায়ালয় ক'ত এজন তদৰ্থ বিচাৰক নিযুক্ত কৰিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Article 128",
+        "as": "অনুচ্ছেদ ১২৮"
+      },
+      {
+        "en": "Article 124",
+        "as": "অনুচ্ছেদ ১২৪"
+      },
+      {
+        "en": "Article 126",
+        "as": "অনুচ্ছেদ ১২৬"
+      },
+      {
+        "en": "Article 127",
+        "as": "অনুচ্ছেদ ১২৭"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Article 127 allows the appointment of an ad hoc judge of the Supreme Court.",
+      "as": "অনুচ্ছেদ ১২৭ এ সৰ্বোচ্চ ন্যায়ালয়ৰ এজন তদৰ্থ বিচাৰক নিয়োগৰ অনুমতি দিয়ে।"
+    }
+  }
+]

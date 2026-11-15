@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-135",
+    "q": {
+      "en": "The two Houses of Parliament are the:",
+      "as": "সংসদৰ দুটা সদন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lok Sabha and Vidhan Sabha",
+        "as": "লোকসভা আৰু বিধানসভা"
+      },
+      {
+        "en": "Rajya Sabha and Vidhan Parishad",
+        "as": "ৰাজ্যসভা আৰু বিধানপৰিষদ"
+      },
+      {
+        "en": "Council and Assembly",
+        "as": "পৰিষদ আৰু সভা"
+      },
+      {
+        "en": "Rajya Sabha and Lok Sabha",
+        "as": "ৰাজ্যসভা আৰু লোকসভা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The two Houses are the Rajya Sabha (Council of States) and the Lok Sabha (House of the People).",
+      "as": "দুটা সদন হ'ল ৰাজ্যসভা (ৰাজ্যৰ পৰিষদ) আৰু লোকসভা (জনতাৰ সদন)।"
+    }
+  }
+]

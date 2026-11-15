@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-070",
+    "q": {
+      "en": "The President's power to declare an area as a Scheduled Area is provided under:",
+      "as": "ৰাষ্ট্ৰপতিৰ কোনো অঞ্চলক অনুসূচিত অঞ্চল ঘোষণা কৰাৰ ক্ষমতা ক'ত প্ৰদান কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Article 342",
+        "as": "অনুচ্ছেদ ৩৪২"
+      },
+      {
+        "en": "Article 341",
+        "as": "অনুচ্ছেদ ৩৪১"
+      },
+      {
+        "en": "Article 338",
+        "as": "অনুচ্ছেদ ৩৩৮"
+      },
+      {
+        "en": "Article 244",
+        "as": "অনুচ্ছেদ ২৪৪"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Article 244 and the Fifth Schedule empower the President to declare Scheduled Areas.",
+      "as": "অনুচ্ছেদ ২৪৪ আৰু পঞ্চম অনুসূচীয়ে ৰাষ্ট্ৰপতিক অনুসূচিত অঞ্চল ঘোষণা কৰাৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

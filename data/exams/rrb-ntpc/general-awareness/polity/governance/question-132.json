@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-132",
+    "q": {
+      "en": "The Council of Ministers in a State aids and advises the Governor except where the Governor acts in his:",
+      "as": "ৰাজ্যৰ মন্ত্ৰীপৰিষদে ৰাজ্যপালক সহায় আৰু পৰামৰ্শ দিয়ে, কিন্তু ৰাজ্যপালে কিয়ত কাম কৰা ক্ষেত্ৰত বাদে?"
+    },
+    "options": [
+      {
+        "en": "Discretion",
+        "as": "বিবেচনা"
+      },
+      {
+        "en": "Absence",
+        "as": "অনুপস্থিতি"
+      },
+      {
+        "en": "Illness",
+        "as": "অসুস্থতা"
+      },
+      {
+        "en": "Vacation",
+        "as": "অৱকাশ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Governor acts in his discretion in certain matters as provided in Article 163.",
+      "as": "অনুচ্ছেদ ১৬৩ ত থকা মতে ৰাজ্যপালে কিছুমান ক্ষেত্ৰত নিজৰ বিবেচনাত কাম কৰে।"
+    }
+  }
+]

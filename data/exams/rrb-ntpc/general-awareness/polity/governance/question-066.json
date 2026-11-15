@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-066",
+    "q": {
+      "en": "The President's office is not subject to a motion of no confidence because the President is:",
+      "as": "ৰাষ্ট্ৰপতিৰ পদ অবিশ্বাস প্ৰস্তাৱৰ অধীন নহয় কাৰণ ৰাষ্ট্ৰপতি:"
+    },
+    "options": [
+      {
+        "en": "Elected directly",
+        "as": "পোনপটীয়াকৈ নিৰ্বাচিত"
+      },
+      {
+        "en": "Not responsible to Parliament for his acts",
+        "as": "তেওঁৰ কাৰ্যৰ বাবে সংসদৰ প্ৰতি দায়বদ্ধ নহয়"
+      },
+      {
+        "en": "A member of Parliament",
+        "as": "সংসদৰ সদস্য"
+      },
+      {
+        "en": "Appointed by the Supreme Court",
+        "as": "সৰ্বোচ্চ ন্যায়ালয়ৰ দ্বাৰা নিযুক্ত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The President is not responsible to Parliament for the exercise of his powers.",
+      "as": "ৰাষ্ট্ৰপতি তেওঁৰ ক্ষমতা প্ৰয়োগৰ বাবে সংসদৰ প্ৰতি দায়বদ্ধ নহয়।"
+    }
+  }
+]

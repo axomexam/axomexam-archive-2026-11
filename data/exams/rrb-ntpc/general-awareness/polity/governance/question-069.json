@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-069",
+    "q": {
+      "en": "The President has the power to appoint a commission to investigate the conditions of:",
+      "as": "ৰাষ্ট্ৰপতিৰ কিক অৱস্থা তদন্তৰ বাবে আয়োগ নিয়োগৰ ক্ষমতা আছে?"
+    },
+    "options": [
+      {
+        "en": "Union territories",
+        "as": "কেন্দ্ৰীয় শাসিত অঞ্চল"
+      },
+      {
+        "en": "Public sector units",
+        "as": "ৰাজহুৱা খণ্ডৰ সংস্থা"
+      },
+      {
+        "en": "Foreign companies",
+        "as": "বিদেশী কোম্পানী"
+      },
+      {
+        "en": "Backward classes",
+        "as": "পিছপৰা শ্ৰেণী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Article 340 empowers the President to appoint a commission for backward classes.",
+      "as": "অনুচ্ছেদ ৩৪০ এ ৰাষ্ট্ৰপতিক পিছপৰা শ্ৰেণীৰ বাবে আয়োগ নিয়োগৰ ক্ষমতা দিয়ে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "governance-215",
+    "q": {
+      "en": "The Committee on Public Undertakings of Parliament has members from:",
+      "as": "সংসদৰ ৰাজহুৱা সংস্থা সমিতিত কিয়ৰ সদস্য থাকে?"
+    },
+    "options": [
+      {
+        "en": "Only the Lok Sabha",
+        "as": "কেৱল লোকসভা"
+      },
+      {
+        "en": "Only the Rajya Sabha",
+        "as": "কেৱল ৰাজ্যসভা"
+      },
+      {
+        "en": "Both Houses",
+        "as": "দুয়োটা সদন"
+      },
+      {
+        "en": "Neither House",
+        "as": "কোনো সদন নহয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Committee on Public Undertakings has members from both Houses.",
+      "as": "ৰাজহুৱা সংস্থা সমিতিত দুয়োটা সদনৰ সদস্য থাকে।"
+    }
+  }
+]
