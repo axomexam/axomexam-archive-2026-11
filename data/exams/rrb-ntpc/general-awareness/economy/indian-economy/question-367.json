@@ -2,31 +2,31 @@
   {
     "id": "indian-economy-367",
     "q": {
-      "en": "Which is the largest state in India by population?",
-      "as": "জনসংখ্যাৰ ভিত্তিত ভাৰতৰ আটাইতকৈ ডাঙৰ ৰাজ্য কোন?"
+      "en": "What is the full form of 'MSP' in Indian agriculture?",
+      "as": "ভাৰতীয় কৃষিত 'এমএছপি'ৰ সম্পূৰ্ণ ৰূপ কি?"
     },
     "options": [
       {
-        "en": "Uttar Pradesh",
-        "as": "উত্তৰ প্ৰদেশ"
+        "en": "Minimum Support Price",
+        "as": "ন্যূনতম সমৰ্থন মূল্য"
       },
       {
-        "en": "Maharashtra",
-        "as": "মহাৰাষ্ট্ৰ"
+        "en": "Maximum Selling Price",
+        "as": "সৰ্বাধিক বিক্ৰয় মূল্য"
       },
       {
-        "en": "Bihar",
-        "as": "বিহাৰ"
+        "en": "Market Support Price",
+        "as": "বজাৰ সমৰ্থন মূল্য"
       },
       {
-        "en": "West Bengal",
-        "as": "পশ্চিম বংগ"
+        "en": "Minimum Sale Price",
+        "as": "ন্যূনতম বিক্ৰয় মূল্য"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "By number of people, Uttar Pradesh is the biggest Indian state.",
-      "as": "লোকৰ সংখ্যাৰ হিচাপত, উত্তৰ প্ৰদেশ ভাৰতৰ আটাইতকৈ ডাঙৰ ৰাজ্য।"
+      "en": "MSP stands for Minimum Support Price, announced to protect farmers from price falls.",
+      "as": "এমএছপি মানে ন্যূনতম সমৰ্থন মূল্য, কৃষকসকলক মূল্য পতনৰ পৰা ৰক্ষা কৰিবলৈ ঘোষণা কৰা হয়।"
     }
   }
 ]

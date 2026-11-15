@@ -2,31 +2,31 @@
   {
     "id": "indian-economy-144",
     "q": {
-      "en": "Which body recommends the distribution of taxes between the centre and the states?",
-      "as": "কেন্দ্ৰ আৰু ৰাজ্যৰ মাজত কৰ বিতৰণৰ পৰামৰ্শ কোন সংস্থাই দিয়ে?"
+      "en": "Which authority decides the rates of the Goods and Services Tax in India?",
+      "as": "ভাৰতত সামগ্ৰী আৰু সেৱা কৰৰ হাৰ কোন প্ৰাধিকৰণে নিৰ্ধাৰণ কৰে?"
     },
     "options": [
       {
-        "en": "The Planning Commission",
-        "as": "পৰিকল্পনা আয়োগ"
+        "en": "The Finance Commission",
+        "as": "বিত্ত আয়োগ"
+      },
+      {
+        "en": "The Reserve Bank of India",
+        "as": "ভাৰতীয় ৰিজাৰ্ভ বেংক"
       },
       {
         "en": "The NITI Aayog",
         "as": "নীতি আয়োগ"
       },
       {
-        "en": "The Reserve Bank",
-        "as": "ৰিজাৰ্ভ বেংক"
-      },
-      {
-        "en": "The Finance Commission",
-        "as": "বিত্ত আয়োগ"
+        "en": "The GST Council",
+        "as": "জিএছটি পৰিষদ"
       }
     ],
     "correct": 3,
     "explanation": {
-      "en": "It is the Finance Commission that advises on the vertical and horizontal sharing of tax proceeds.",
-      "as": "বিত্ত আয়োগেই কৰ প্ৰাপ্তিৰ উলম্ব আৰু আনুভূমিক ভাগ-বতৰাৰ পৰামৰ্শ দিয়ে।"
+      "en": "The GST Council, chaired by the Union Finance Minister, decides GST rates.",
+      "as": "সংঘৰ বিত্ত মন্ত্ৰীৰ অধ্যক্ষতাত জিএছটি পৰিষদে জিএছটি হাৰ নিৰ্ধাৰণ কৰে।"
     }
   }
 ]

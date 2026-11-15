@@ -2,8 +2,8 @@
   {
     "id": "assam-economy-052",
     "q": {
-      "en": "Which is the largest city and commercial hub of Assam?",
-      "as": "অসমৰ আটাইতকৈ ডাঙৰ নগৰ আৰু বাণিজ্যিক কেন্দ্ৰ কোন?"
+      "en": "Which is the main administrative and legislative capital city of Assam?",
+      "as": "অসমৰ প্ৰধান প্ৰশাসনিক আৰু বিধানিক ৰাজধানী নগৰ কোন?"
     },
     "options": [
       {
@@ -11,8 +11,8 @@
         "as": "ডিব্ৰুগড়"
       },
       {
-        "en": "Guwahati",
-        "as": "গুৱাহাটী"
+        "en": "Dispur",
+        "as": "দিছপুৰ"
       },
       {
         "en": "Silchar",
@@ -25,8 +25,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Guwahati is the largest city and the main commercial hub of Assam.",
-      "as": "গুৱাহাটী অসমৰ আটাইতকৈ ডাঙৰ নগৰ আৰু প্ৰধান বাণিজ্যিক কেন্দ্ৰ।"
+      "en": "Dispur, a part of Guwahati, is the administrative and legislative capital of Assam.",
+      "as": "দিছপুৰ, গুৱাহাটীৰ এটা অংশ, অসমৰ প্ৰশাসনিক আৰু বিধানিক ৰাজধানী।"
     }
   }
 ]

@@ -2,31 +2,31 @@
   {
     "id": "modern-history-100",
     "q": {
-      "en": "Where was the first session of the Indian National Congress held in 1885?",
-      "as": "১৮৮৫ চনত ভাৰতীয় জাতীয় কংগ্ৰেছৰ প্ৰথম অধিৱেশন ক'ত অনুষ্ঠিত হৈছিল?"
+      "en": "Which of the following was the venue of the first session of the Indian National Congress in December 1885?",
+      "as": "তলৰ কোনটো ১৮৮৫ চনৰ ডিচেম্বৰত ভাৰতীয় জাতীয় কংগ্ৰেছৰ প্ৰথম অধিৱেশনৰ স্থান আছিল?"
     },
     "options": [
       {
-        "en": "Calcutta",
-        "as": "কলিকতা"
+        "en": "Town Hall, Calcutta",
+        "as": "টাউন হল, কলিকতা"
       },
       {
-        "en": "Madras",
-        "as": "মাদ্ৰাজ"
+        "en": "Annie Besant Hall, Madras",
+        "as": "এনি বেছাণ্ট হল, মাদ্ৰাজ"
       },
       {
-        "en": "Bombay",
-        "as": "বম্বে"
+        "en": "Gokuldas Tejpal Sanskrit College, Bombay",
+        "as": "গোকুলদাস তেজপাল সংস্কৃত মহাবিদ্যালয়, বম্বে"
       },
       {
-        "en": "Allahabad",
-        "as": "এলাহাবাদ"
+        "en": "Alfred Park, Allahabad",
+        "as": "আলফ্ৰেড পাৰ্ক, এলাহাবাদ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "The first session of the Indian National Congress was held at Bombay in December 1885.",
-      "as": "ভাৰতীয় জাতীয় কংগ্ৰেছৰ প্ৰথম অধিৱেশন ১৮৮৫ চনৰ ডিচেম্বৰত বম্বেত অনুষ্ঠিত হৈছিল।"
+      "en": "The first Congress session was held at the Gokuldas Tejpal Sanskrit College in Bombay.",
+      "as": "প্ৰথম কংগ্ৰেছ অধিৱেশন বম্বেৰ গোকুলদাস তেজপাল সংস্কৃত মহাবিদ্যালয়ত অনুষ্ঠিত হৈছিল।"
     }
   }
 ]

@@ -2,8 +2,8 @@
   {
     "id": "indian-economy-235",
     "q": {
-      "en": "Which is the longest railway platform in India?",
-      "as": "ভাৰতৰ আটাইতকৈ দীঘল ৰে'লৱে প্লেটফৰ্ম কোন?"
+      "en": "Which is the longest railway station name in India?",
+      "as": "ভাৰতত আটাইতকৈ দীঘল নামৰ ৰে'লৱে ষ্টেচন কোন?"
     },
     "options": [
       {
@@ -15,18 +15,18 @@
         "as": "গোৰখপুৰ"
       },
       {
-        "en": "Kollam",
-        "as": "কোল্লাম"
-      },
-      {
         "en": "Hubballi",
         "as": "হুব্বালী"
+      },
+      {
+        "en": "Venkatanarasimharajuvaripeta",
+        "as": "ৱেংকটনাৰসিংহৰাজুৱৰিপেটা"
       }
     ],
     "correct": 3,
     "explanation": {
-      "en": "The Hubballi railway station in Karnataka has the longest railway platform in India.",
-      "as": "কৰ্ণাটকৰ হুব্বালী ৰে'লৱে ষ্টেচনত ভাৰতৰ আটাইতকৈ দীঘল ৰে'লৱে প্লেটফৰ্ম আছে।"
+      "en": "Venkatanarasimharajuvaripeta in Andhra Pradesh has one of the longest railway station names in India.",
+      "as": "অন্ধ্ৰ প্ৰদেশৰ ৱেংকটনাৰসিংহৰাজুৱৰিপেটা ভাৰতত আটাইতকৈ দীঘল নামৰ ৰে'লৱে ষ্টেচনসমূহৰ এটা।"
     }
   }
 ]

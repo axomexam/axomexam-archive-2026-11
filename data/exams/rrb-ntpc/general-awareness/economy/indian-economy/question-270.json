@@ -2,31 +2,31 @@
   {
     "id": "indian-economy-270",
     "q": {
-      "en": "Which state has the highest population in India?",
-      "as": "ভাৰতত আটাইতকৈ বেছি জনসংখ্যা কোন ৰাজ্যৰ?"
+      "en": "Which state of India has the largest area under forest cover?",
+      "as": "ভাৰতৰ কোন ৰাজ্যত বনাঞ্চলৰ অধীনত আটাইতকৈ বেছি এলেকা আছে?"
     },
     "options": [
       {
-        "en": "Uttar Pradesh",
-        "as": "উত্তৰ প্ৰদেশ"
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
       },
       {
-        "en": "Maharashtra",
-        "as": "মহাৰাষ্ট্ৰ"
+        "en": "Arunachal Pradesh",
+        "as": "অৰুণাচল প্ৰদেশ"
       },
       {
-        "en": "Bihar",
-        "as": "বিহাৰ"
+        "en": "Chhattisgarh",
+        "as": "ছত্তীশগড়"
       },
       {
-        "en": "West Bengal",
-        "as": "পশ্চিম বংগ"
+        "en": "Odisha",
+        "as": "ওড়িশা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Uttar Pradesh has the highest population among Indian states.",
-      "as": "ভাৰতীয় ৰাজ্যসমূহৰ ভিতৰত উত্তৰ প্ৰদেশৰ জনসংখ্যা আটাইতকৈ বেছি।"
+      "en": "Madhya Pradesh has the largest area under forest cover among Indian states.",
+      "as": "ভাৰতীয় ৰাজ্যসমূহৰ ভিতৰত মধ্য প্ৰদেশত বনাঞ্চলৰ অধীনত আটাইতকৈ বেছি এলেকা আছে।"
     }
   }
 ]

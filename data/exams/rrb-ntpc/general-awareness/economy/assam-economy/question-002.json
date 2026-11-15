@@ -2,31 +2,31 @@
   {
     "id": "assam-economy-002",
     "q": {
-      "en": "Which is the largest tea-producing state in India?",
-      "as": "ভাৰতত চাহ উৎপাদন কৰা আটাইতকৈ ডাঙৰ ৰাজ্য কোন?"
+      "en": "Which city of Assam hosts the Tocklai Tea Research Institute?",
+      "as": "অসমৰ কোনখন নগৰত টকলাই চাহ গৱেষণা প্ৰতিষ্ঠান আছে?"
     },
     "options": [
       {
-        "en": "West Bengal",
-        "as": "পশ্চিম বংগ"
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
       },
       {
-        "en": "Assam",
-        "as": "অসম"
+        "en": "Jorhat",
+        "as": "যোৰহাট"
       },
       {
-        "en": "Tamil Nadu",
-        "as": "তামিলনাডু"
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
       },
       {
-        "en": "Kerala",
-        "as": "কেৰালা"
+        "en": "Tezpur",
+        "as": "তেজপুৰ"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "Assam produces more than half of India's tea and is the largest tea-producing state.",
-      "as": "অসমে ভাৰতৰ আধাতকৈ অধিক চাহ উৎপাদন কৰে আৰু আটাইতকৈ ডাঙৰ চাহ উৎপাদনকাৰী ৰাজ্য।"
+      "en": "Tocklai, in Jorhat district, is where the Tocklai Tea Research Association carries out tea research.",
+      "as": "যোৰহাট জিলাৰ টকলাইত টকলাই চাহ গৱেষণা সংস্থাই চাহ গৱেষণা চলায়।"
     }
   }
 ]

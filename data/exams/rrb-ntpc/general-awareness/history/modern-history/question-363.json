@@ -2,31 +2,31 @@
   {
     "id": "modern-history-363",
     "q": {
-      "en": "Which railway line was the first to be opened in India in 1853?",
-      "as": "ভাৰতত ১৮৫৩ চনত কোন ৰে'লপথ প্ৰথমে মুকলি কৰা হৈছিল?"
+      "en": "Which Governor General introduced the Permanent Settlement in Bengal?",
+      "as": "বংগত কোন গৱৰ্ণৰ জেনেৰেলে স্থায়ী বন্দোবস্ত প্ৰৱৰ্তন কৰিছিল?"
     },
     "options": [
       {
-        "en": "Calcutta to Delhi",
-        "as": "কলিকতাৰ পৰা দিল্লী"
+        "en": "Lord Wellesley",
+        "as": "লৰ্ড ৱেলেছলি"
       },
       {
-        "en": "Madras to Bangalore",
-        "as": "মাদ্ৰাজৰ পৰা বাংগালুৰু"
+        "en": "Lord Dalhousie",
+        "as": "লৰ্ড ডালহাউছি"
       },
       {
-        "en": "Delhi to Lahore",
-        "as": "দিল্লীৰ পৰা লাহোৰ"
+        "en": "Warren Hastings",
+        "as": "ৱাৰেন হেষ্টিংছ"
       },
       {
-        "en": "Bombay to Thane",
-        "as": "বম্বেৰ পৰা থানে"
+        "en": "Lord Cornwallis",
+        "as": "লৰ্ড কৰ্নৱালিছ"
       }
     ],
     "correct": 3,
     "explanation": {
-      "en": "The first railway line in India, from Bombay to Thane, was opened in 1853.",
-      "as": "ভাৰতত প্ৰথম ৰে'লপথ, বম্বেৰ পৰা থানেলৈ, ১৮৫৩ চনত মুকলি কৰা হৈছিল।"
+      "en": "The Permanent Settlement of 1793 fixed land revenue with zamindars in Bengal under Cornwallis.",
+      "as": "১৭৯৩ চনৰ স্থায়ী বন্দোবস্তই কৰ্নৱালিছৰ অধীনত বংগত জমিদাৰৰ সৈতে ভূমি ৰাজহ নিৰ্ধাৰণ কৰিছিল।"
     }
   }
 ]

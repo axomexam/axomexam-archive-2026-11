@@ -2,31 +2,31 @@
   {
     "id": "indian-economy-171",
     "q": {
-      "en": "Which is the largest producer of milk in India?",
-      "as": "ভাৰতত গাখীৰৰ আটাইতকৈ বেছি উৎপাদনকাৰী ৰাজ্য কোন?"
+      "en": "Which animal is the main source of milk in India?",
+      "as": "ভাৰতত গাখীৰৰ প্ৰধান উৎস কোন প্ৰাণী?"
     },
     "options": [
       {
-        "en": "Punjab",
-        "as": "পঞ্জাৱ"
+        "en": "The goat",
+        "as": "ছাগলী"
       },
       {
-        "en": "Rajasthan",
-        "as": "ৰাজস্থান"
+        "en": "The buffalo only",
+        "as": "কেৱল ম'হ"
       },
       {
-        "en": "Gujarat",
-        "as": "গুজৰাট"
+        "en": "The sheep",
+        "as": "ভেড়া"
       },
       {
-        "en": "Uttar Pradesh",
-        "as": "উত্তৰ প্ৰদেশ"
+        "en": "The cow",
+        "as": "গৰু"
       }
     ],
     "correct": 3,
     "explanation": {
-      "en": "Uttar Pradesh is the largest milk-producing state in India.",
-      "as": "উত্তৰ প্ৰদেশ ভাৰতত গাখীৰ উৎপাদন কৰা আটাইতকৈ ডাঙৰ ৰাজ্য।"
+      "en": "Cattle, especially cows and buffaloes, are the main source of milk in India.",
+      "as": "গৰু-ম'হ, বিশেষকৈ গৰু আৰু ম'হ, ভাৰতত গাখীৰৰ প্ৰধান উৎস।"
     }
   }
 ]
