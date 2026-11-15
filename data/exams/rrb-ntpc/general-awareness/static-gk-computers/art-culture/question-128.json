@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-128",
+    "q": {
+      "en": "The 'Teentaal' and 'Jhaptaal' are:",
+      "as": "'তীন্তাল' আৰু 'ঝপতাল' হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Ragas",
+        "as": "ৰাগ"
+      },
+      {
+        "en": "Instruments",
+        "as": "বাদ্য"
+      },
+      {
+        "en": "Dance forms",
+        "as": "নৃত্য ৰূপ"
+      },
+      {
+        "en": "Talas",
+        "as": "তাল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Teentaal and Jhaptaal are talas.",
+      "as": "তীন্তাল আৰু ঝপতাল তাল।"
+    }
+  }
+]

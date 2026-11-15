@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-004",
+    "q": {
+      "en": "Mohiniyattam, a graceful solo dance performed by women, belongs to:",
+      "as": "মহিলাসকলে পৰিৱেশন কৰা ললিত একক নৃত্য মোহিনীঅট্টম কিয় ৰাজ্যৰ:"
+    },
+    "options": [
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mohiniyattam is the classical dance of Kerala.",
+      "as": "মোহিনীঅট্টম কেৰালাৰ শাস্ত্ৰীয় নৃত্য।"
+    }
+  }
+]

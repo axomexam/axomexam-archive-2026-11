@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-204",
+    "q": {
+      "en": "The Sanchi Stupa is associated with:",
+      "as": "সাঁচী স্তূপ কিয়ৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Buddhism",
+        "as": "বৌদ্ধ ধৰ্ম"
+      },
+      {
+        "en": "Jainism",
+        "as": "জৈন ধৰ্ম"
+      },
+      {
+        "en": "Hinduism",
+        "as": "হিন্দু ধৰ্ম"
+      },
+      {
+        "en": "Sikhism",
+        "as": "শিখ ধৰ্ম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Sanchi Stupa is a Buddhist monument.",
+      "as": "সাঁচী স্তূপ এটা বৌদ্ধ স্মৃতিসৌধ।"
+    }
+  }
+]

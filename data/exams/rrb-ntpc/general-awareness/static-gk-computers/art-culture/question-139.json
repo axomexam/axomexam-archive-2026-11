@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-139",
+    "q": {
+      "en": "Rabindra Sangeet was composed by:",
+      "as": "ৰবীন্দ্ৰ সংগীত কিয় ৰচনা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Kazi Nazrul Islam",
+        "as": "কাজী নজৰুল ইছলামে"
+      },
+      {
+        "en": "Bankim Chandra Chatterjee",
+        "as": "বঙ্কিম চন্দ্ৰ চট্টোপাধ্যায়ে"
+      },
+      {
+        "en": "Rabindranath Tagore",
+        "as": "ৰবীন্দ্ৰনাথ ঠাকুৰে"
+      },
+      {
+        "en": "Sarat Chandra",
+        "as": "শৰৎ চন্দ্ৰই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rabindra Sangeet was composed by Rabindranath Tagore.",
+      "as": "ৰবীন্দ্ৰ সংগীত ৰবীন্দ্ৰনাথ ঠাকুৰে ৰচনা কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-157",
+    "q": {
+      "en": "The 'Basant' raga is associated with the:",
+      "as": "'বসন্ত' ৰাগ কিয়ৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Monsoon",
+        "as": "বৰ্ষাকাল"
+      },
+      {
+        "en": "Winter",
+        "as": "শীতকাল"
+      },
+      {
+        "en": "Autumn",
+        "as": "শৰৎকাল"
+      },
+      {
+        "en": "Spring season",
+        "as": "বসন্তকাল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Raga Basant is associated with the spring season.",
+      "as": "বসন্ত ৰাগ বসন্তকালৰ সৈতে জড়িত।"
+    }
+  }
+]

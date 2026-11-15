@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-094",
+    "q": {
+      "en": "The 'gharana' system in Hindustani music refers to a:",
+      "as": "হিন্দুস্তানী সংগীতত 'ঘৰানা' ব্যৱস্থাই কিক বুজায়?"
+    },
+    "options": [
+      {
+        "en": "A raga",
+        "as": "এটা ৰাগ"
+      },
+      {
+        "en": "School or style of music",
+        "as": "সংগীতৰ বিদ্যালয় বা শৈলী"
+      },
+      {
+        "en": "An instrument",
+        "as": "এটা বাদ্য"
+      },
+      {
+        "en": "A tala",
+        "as": "এটা তাল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A gharana is a school or stylistic tradition of music.",
+      "as": "ঘৰানা হ'ল সংগীতৰ বিদ্যালয় বা শৈলীগত পৰম্পৰা।"
+    }
+  }
+]

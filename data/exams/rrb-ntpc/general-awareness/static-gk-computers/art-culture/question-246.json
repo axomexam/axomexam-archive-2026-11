@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-246",
+    "q": {
+      "en": "The 'Phad' painting is a traditional scroll painting of:",
+      "as": "'ফদ' চিত্ৰকলা কিয় ৰাজ্যৰ পৰম্পৰাগত স্ক্ৰ'ল চিত্ৰকলা?"
+    },
+    "options": [
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
+      },
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাব"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Phad painting is a traditional scroll painting of Rajasthan.",
+      "as": "ফদ চিত্ৰকলা ৰাজস্থানৰ পৰম্পৰাগত স্ক্ৰ'ল চিত্ৰকলা।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-023",
+    "q": {
+      "en": "Therukoothu, a street theatre form, is associated with:",
+      "as": "পথ নাট্য ৰূপ তেৰুকুট্টু কিয় ৰাজ্যৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Therukoothu is a street theatre form of Tamil Nadu.",
+      "as": "তেৰুকুট্টু তামিলনাডুৰ পথ নাট্য ৰূপ।"
+    }
+  }
+]

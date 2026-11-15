@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-385",
+    "q": {
+      "en": "The 'National Museum' of India is located in:",
+      "as": "ভাৰতৰ 'ৰাষ্ট্ৰীয় সংগ্ৰহালয়' ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Varanasi",
+        "as": "বাৰাণসী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The National Museum is in New Delhi.",
+      "as": "ৰাষ্ট্ৰীয় সংগ্ৰহালয় নতুন দিল্লীত অৱস্থিত।"
+    }
+  }
+]

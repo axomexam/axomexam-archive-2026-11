@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-243",
+    "q": {
+      "en": "The 'Warli' painting is a tribal art form of:",
+      "as": "'ৱাৰলী' চিত্ৰকলা কিয় ৰাজ্যৰ জনজাতীয় কলা ৰূপ?"
+    },
+    "options": [
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Warli painting is a tribal art form of Maharashtra.",
+      "as": "ৱাৰলী চিত্ৰকলা মহাৰাষ্ট্ৰৰ জনজাতীয় কলা ৰূপ।"
+    }
+  }
+]

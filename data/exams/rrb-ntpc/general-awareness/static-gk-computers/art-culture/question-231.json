@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-231",
+    "q": {
+      "en": "The Mughal emperor who built Fatehpur Sikri was:",
+      "as": "ফতেহপুৰ চিক্ৰি কিয় মোগল সম্ৰাটে নিৰ্মাণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "ঔৰংজেৱ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Fatehpur Sikri was built by Akbar.",
+      "as": "ফতেহপুৰ চিক্ৰি আকবৰে নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

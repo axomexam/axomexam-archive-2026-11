@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-247",
+    "q": {
+      "en": "The 'Tanjore' painting, known for its gold leaf work, belongs to:",
+      "as": "সোণৰ পাতৰ কামৰ বাবে জনাজাত 'তাঞ্জোৰ' চিত্ৰকলা কিয় ৰাজ্যৰ?"
+    },
+    "options": [
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Tanjore painting belongs to Tamil Nadu.",
+      "as": "তাঞ্জোৰ চিত্ৰকলা তামিলনাডুৰ।"
+    }
+  }
+]

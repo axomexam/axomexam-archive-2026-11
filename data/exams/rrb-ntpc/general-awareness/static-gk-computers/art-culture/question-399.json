@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-399",
+    "q": {
+      "en": "The Sangeet Natak Akademi is headquartered in:",
+      "as": "সংগীত নাটক একাডেমীৰ মুখ্য কাৰ্যালয় ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Sangeet Natak Akademi is headquartered in New Delhi.",
+      "as": "সংগীত নাটক একাডেমীৰ মুখ্য কাৰ্যালয় নতুন দিল্লীত অৱস্থিত।"
+    }
+  }
+]

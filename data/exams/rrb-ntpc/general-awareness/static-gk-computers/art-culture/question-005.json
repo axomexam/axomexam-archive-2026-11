@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-005",
+    "q": {
+      "en": "Kuchipudi, a classical dance form with its own style of dance-drama, originated in:",
+      "as": "নিজস্ব নৃত্য-নাট্য শৈলী থকা শাস্ত্ৰীয় নৃত্য কুচিপুড়ি কিয় ৰাজ্যত উৎপত্তি হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kuchipudi originated in Andhra Pradesh.",
+      "as": "কুচিপুড়ি অন্ধ্ৰ প্ৰদেশত উৎপত্তি হৈছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-236",
+    "q": {
+      "en": "The famous 'Kangra' paintings belong to the:",
+      "as": "বিখ্যাত 'কাংড়া' চিত্ৰ কিয় বিদ্যালয়ৰ?"
+    },
+    "options": [
+      {
+        "en": "Rajput school",
+        "as": "ৰাজপুত বিদ্যালয়"
+      },
+      {
+        "en": "Pahari school",
+        "as": "পাহাৰী বিদ্যালয়"
+      },
+      {
+        "en": "Mughal school",
+        "as": "মোগল বিদ্যালয়"
+      },
+      {
+        "en": "Company school",
+        "as": "কোম্পানী বিদ্যালয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Kangra paintings belong to the Pahari school.",
+      "as": "কাংড়া চিত্ৰ পাহাৰী বিদ্যালয়ৰ।"
+    }
+  }
+]

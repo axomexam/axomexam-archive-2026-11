@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-326",
+    "q": {
+      "en": "The 'Baisakhi' festival is celebrated mainly in:",
+      "as": "'বৈশাখী' উৎসৱ মূলতঃ ক'ত পালন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Haryana",
+        "as": "হাৰিয়ানা"
+      },
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Punjab is the main region for Baisakhi celebrations.",
+      "as": "বৈশাখী মূলতঃ পঞ্জাবত পালন কৰা হয়।"
+    }
+  }
+]

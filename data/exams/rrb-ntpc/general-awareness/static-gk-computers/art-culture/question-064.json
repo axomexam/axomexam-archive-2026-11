@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-064",
+    "q": {
+      "en": "The 'Rasa Leela' is a theme central to which classical dance?",
+      "as": "'ৰাস লীলা' কোনটো শাস্ত্ৰীয় নৃত্যৰ কেন্দ্ৰীয় বিষয়?"
+    },
+    "options": [
+      {
+        "en": "Kathak",
+        "as": "কথক"
+      },
+      {
+        "en": "Bharatanatyam",
+        "as": "ভৰতনাট্যম"
+      },
+      {
+        "en": "Manipuri",
+        "as": "মণিপুৰী"
+      },
+      {
+        "en": "Kuchipudi",
+        "as": "কুচিপুড়ি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rasa Leela is central to Manipuri dance.",
+      "as": "ৰাস লীলা মণিপুৰী নৃত্যৰ কেন্দ্ৰীয় বিষয়।"
+    }
+  }
+]

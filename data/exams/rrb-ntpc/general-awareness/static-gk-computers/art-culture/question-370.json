@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-370",
+    "q": {
+      "en": "The 'Bidri' metalwork tradition is associated with:",
+      "as": "'বিদ্ৰী' ধাতুৰ কাম পৰম্পৰা কিয় নগৰৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Hyderabad",
+        "as": "হাইদৰাবাদ"
+      },
+      {
+        "en": "Bidar",
+        "as": "বিদৰ"
+      },
+      {
+        "en": "Mysore",
+        "as": "মহীশূৰ"
+      },
+      {
+        "en": "Aurangabad",
+        "as": "ঔৰংগাবাদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bidri metalwork is associated with Bidar in Karnataka.",
+      "as": "বিদ্ৰী ধাতুৰ কাম কৰ্ণাটকৰ বিদৰৰ সৈতে জড়িত।"
+    }
+  }
+]

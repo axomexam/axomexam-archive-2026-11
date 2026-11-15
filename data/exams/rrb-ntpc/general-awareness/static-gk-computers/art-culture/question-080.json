@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-080",
+    "q": {
+      "en": "The 'Ojapali' is a traditional performance art of:",
+      "as": "'ওজাপালি' কিয় ৰাজ্যৰ পৰম্পৰাগত পৰিৱেশন কলা?"
+    },
+    "options": [
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Manipur",
+        "as": "মণিপুৰ"
+      },
+      {
+        "en": "Bengal",
+        "as": "বংগ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ojapali is a traditional narrative performance art of Assam.",
+      "as": "ওজাপালি অসমৰ পৰম্পৰাগত আখ্যানমূলক পৰিৱেশন কলা।"
+    }
+  }
+]

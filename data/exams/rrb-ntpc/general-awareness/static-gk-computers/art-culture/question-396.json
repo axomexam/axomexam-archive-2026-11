@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-396",
+    "q": {
+      "en": "The Qutub Minar is built mainly of:",
+      "as": "কুতুব মিনাৰ মূলতঃ কিয়ৰে নিৰ্মিত?"
+    },
+    "options": [
+      {
+        "en": "White marble",
+        "as": "বগা মাৰ্বল"
+      },
+      {
+        "en": "Granite",
+        "as": "গ্ৰেনাইট"
+      },
+      {
+        "en": "Brick",
+        "as": "ইটা"
+      },
+      {
+        "en": "Red sandstone",
+        "as": "ৰঙা বেলেপাথৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Qutub Minar is built mainly of red sandstone.",
+      "as": "কুতুব মিনাৰ মূলতঃ ৰঙা বেলেপাথৰেৰে নিৰ্মিত।"
+    }
+  }
+]

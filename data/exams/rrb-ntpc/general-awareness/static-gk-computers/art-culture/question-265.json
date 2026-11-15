@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-265",
+    "q": {
+      "en": "The 'Barabar' caves, the oldest rock-cut caves in India, are located in:",
+      "as": "ভাৰতৰ আটাইতকৈ পুৰণি শিলা-কটা গুহা 'বৰাবৰ' ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Barabar caves are in Bihar and date to the Mauryan period.",
+      "as": "বৰাবৰ গুহা বিহাৰত অৱস্থিত আৰু মৌৰ্য যুগৰ।"
+    }
+  }
+]

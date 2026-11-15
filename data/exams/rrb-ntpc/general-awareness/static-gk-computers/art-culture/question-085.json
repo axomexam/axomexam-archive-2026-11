@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-085",
+    "q": {
+      "en": "The 'raga' in Indian classical music refers to:",
+      "as": "ভাৰতীয় শাস্ত্ৰীয় সংগীতত 'ৰাগ'ই কিক বুজায়?"
+    },
+    "options": [
+      {
+        "en": "A rhythmic cycle",
+        "as": "তালৰ চক্ৰ"
+      },
+      {
+        "en": "A musical instrument",
+        "as": "বাদ্য"
+      },
+      {
+        "en": "A dance form",
+        "as": "নৃত্য ৰূপ"
+      },
+      {
+        "en": "A melodic framework",
+        "as": "সুৰৰ কাঠামো"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A raga is a melodic framework for improvisation.",
+      "as": "ৰাগ হ'ল সুৰৰ কাঠামো।"
+    }
+  }
+]

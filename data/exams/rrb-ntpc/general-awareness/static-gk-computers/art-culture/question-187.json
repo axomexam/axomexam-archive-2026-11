@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-187",
+    "q": {
+      "en": "The Khajuraho temples are located in the State of:",
+      "as": "খজুৰাহো মন্দিৰবোৰ কিয় ৰাজ্যত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
+      },
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Khajuraho temples are in Madhya Pradesh.",
+      "as": "খজুৰাহো মন্দিৰবোৰ মধ্য প্ৰদেশত অৱস্থিত।"
+    }
+  }
+]

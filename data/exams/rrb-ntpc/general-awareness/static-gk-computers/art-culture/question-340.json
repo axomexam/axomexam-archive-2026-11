@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-340",
+    "q": {
+      "en": "The 'Pongal' festival is dedicated to:",
+      "as": "'পোংগল' উৎসৱ কিলৈ সমৰ্পিত?"
+    },
+    "options": [
+      {
+        "en": "Lord Shiva",
+        "as": "ভগৱান শিৱ"
+      },
+      {
+        "en": "The Sun God",
+        "as": "সূৰ্য দেৱতা"
+      },
+      {
+        "en": "Lord Vishnu",
+        "as": "ভগৱান বিষ্ণু"
+      },
+      {
+        "en": "Goddess Lakshmi",
+        "as": "দেৱী লক্ষ্মী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Pongal is a harvest festival dedicated to the Sun God.",
+      "as": "পোংগল সূৰ্য দেৱতালৈ সমৰ্পিত শস্য চপোৱা উৎসৱ।"
+    }
+  }
+]

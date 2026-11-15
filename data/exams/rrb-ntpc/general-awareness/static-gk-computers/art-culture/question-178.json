@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-178",
+    "q": {
+      "en": "The Ellora caves are located in the State of:",
+      "as": "এলোৰা গুহাবোৰ কিয় ৰাজ্যত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      },
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ellora caves are in Maharashtra.",
+      "as": "এলোৰা গুহাবোৰ মহাৰাষ্ট্ৰত অৱস্থিত।"
+    }
+  }
+]

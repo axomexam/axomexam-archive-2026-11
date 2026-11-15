@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-259",
+    "q": {
+      "en": "The 'Stupa' is a Buddhist architectural form that contains:",
+      "as": "'স্তূপ' এটা বৌদ্ধ স্থাপত্য ৰূপ য'ত থাকে:"
+    },
+    "options": [
+      {
+        "en": "Idols only",
+        "as": "কেৱল মূৰ্তি"
+      },
+      {
+        "en": "Books",
+        "as": "কিতাপ"
+      },
+      {
+        "en": "Paintings only",
+        "as": "কেৱল চিত্ৰ"
+      },
+      {
+        "en": "Relics",
+        "as": "অৱশেষ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A stupa contains relics, often of the Buddha.",
+      "as": "স্তূপত অৱশেষ, প্ৰায়ে বুদ্ধৰ, থাকে।"
+    }
+  }
+]

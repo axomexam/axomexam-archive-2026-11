@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-024",
+    "q": {
+      "en": "Bhavai, a folk theatre form of Gujarat, is performed with:",
+      "as": "গুজৰাটৰ লোক নাট্য ৰূপ ভৱাই কিয়ৰ সৈতে পৰিৱেশন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Music, dance and dialogue",
+        "as": "সংগীত, নৃত্য আৰু সংলাপ"
+      },
+      {
+        "en": "Only music",
+        "as": "কেৱল সংগীত"
+      },
+      {
+        "en": "Only dance",
+        "as": "কেৱল নৃত্য"
+      },
+      {
+        "en": "Only puppets",
+        "as": "কেৱল পুতলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bhavai combines music, dance and dialogue.",
+      "as": "ভৱাইত সংগীত, নৃত্য আৰু সংলাপ একত্ৰিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-322",
+    "q": {
+      "en": "The 'Durga Puja' festival is celebrated mainly in:",
+      "as": "'দুৰ্গা পূজা' উৎসৱ মূলতঃ ক'ত পালন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      },
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাব"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Durga Puja is celebrated mainly in West Bengal.",
+      "as": "দুৰ্গা পূজা মূলতঃ পশ্চিম বংগত পালন কৰা হয়।"
+    }
+  }
+]

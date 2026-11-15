@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-251",
+    "q": {
+      "en": "The 'Gond' painting is a tribal art form associated with:",
+      "as": "'গোণ্ড' চিত্ৰকলা কিয় ৰাজ্যৰ সৈতে জড়িত জনজাতীয় কলা ৰূপ?"
+    },
+    "options": [
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Gond painting is a tribal art of Madhya Pradesh.",
+      "as": "গোণ্ড চিত্ৰকলা মধ্য প্ৰদেশৰ জনজাতীয় কলা।"
+    }
+  }
+]

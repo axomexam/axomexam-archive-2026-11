@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-377",
+    "q": {
+      "en": "The 'Padma Shri' is awarded by the:",
+      "as": "'পদ্মশ্ৰী' কিয়ৰ দ্বাৰা প্ৰদান কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Prime Minister",
+        "as": "প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "Parliament",
+        "as": "সংসদ"
+      },
+      {
+        "en": "Governor",
+        "as": "ৰাজ্যপাল"
+      },
+      {
+        "en": "President of India",
+        "as": "ভাৰতৰ ৰাষ্ট্ৰপতি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Padma awards are conferred by the President of India.",
+      "as": "পদ্ম বঁটা ভাৰতৰ ৰাষ্ট্ৰপতিয়ে প্ৰদান কৰে।"
+    }
+  }
+]

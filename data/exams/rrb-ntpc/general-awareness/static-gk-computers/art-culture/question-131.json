@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-131",
+    "q": {
+      "en": "'Ektaal' has how many beats?",
+      "as": "'একতাল'ত কিমান মাত্ৰা থাকে?"
+    },
+    "options": [
+      {
+        "en": "16",
+        "as": "১৬"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "14",
+        "as": "১৪"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Ektaal is a 12-beat cycle.",
+      "as": "একতাল ১২ মাত্ৰাৰ চক্ৰ।"
+    }
+  }
+]

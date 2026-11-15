@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-303",
+    "q": {
+      "en": "The 'Bahai House of Worship' in Delhi is popularly known as the:",
+      "as": "দিল্লীৰ 'বাহাই উপাসনালয়' জনপ্ৰিয়ভাৱে কিক বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Golden Temple",
+        "as": "স্বৰ্ণ মন্দিৰ"
+      },
+      {
+        "en": "Lotus Temple",
+        "as": "পদুম মন্দিৰ"
+      },
+      {
+        "en": "Sun Temple",
+        "as": "সূৰ্য মন্দিৰ"
+      },
+      {
+        "en": "Shore Temple",
+        "as": "কিনাৰ মন্দিৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Bahai House of Worship in Delhi is known as the Lotus Temple.",
+      "as": "দিল্লীৰ বাহাই উপাসনালয়ক পদুম মন্দিৰ বোলা হয়।"
+    }
+  }
+]

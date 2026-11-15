@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-012",
+    "q": {
+      "en": "The classical dance form that is a dance-drama traditionally performed by men in Kerala is:",
+      "as": "পৰম্পৰাগতভাৱে কেৰালাৰ পুৰুষসকলে পৰিৱেশন কৰা নৃত্য-নাট্য হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mohiniyattam",
+        "as": "মোহিনীঅট্টম"
+      },
+      {
+        "en": "Kuchipudi",
+        "as": "কুচিপুড়ি"
+      },
+      {
+        "en": "Odissi",
+        "as": "ওড়িছী"
+      },
+      {
+        "en": "Kathakali",
+        "as": "কথাকলি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Kathakali is traditionally performed by men in Kerala.",
+      "as": "কথাকলি পৰম্পৰাগতভাৱে কেৰালাৰ পুৰুষসকলে পৰিৱেশন কৰে।"
+    }
+  }
+]

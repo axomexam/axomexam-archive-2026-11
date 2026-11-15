@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-180",
+    "q": {
+      "en": "The Ellora caves are known for the coexistence of Buddhist, Hindu and:",
+      "as": "এলোৰা গুহাবোৰ বৌদ্ধ, হিন্দু আৰু কিয় সহাৱস্থানৰ বাবে জনাজাত?"
+    },
+    "options": [
+      {
+        "en": "Christian caves",
+        "as": "খ্ৰীষ্টান গুহা"
+      },
+      {
+        "en": "Sikh caves",
+        "as": "শিখ গুহা"
+      },
+      {
+        "en": "Parsi caves",
+        "as": "পাৰ্চী গুহা"
+      },
+      {
+        "en": "Jain caves",
+        "as": "জৈন গুহা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ellora has Buddhist, Hindu and Jain caves together.",
+      "as": "এলোৰাত বৌদ্ধ, হিন্দু আৰু জৈন গুহা একেলগে আছে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-305",
+    "q": {
+      "en": "The 'Ellora' caves are located near the city of:",
+      "as": "'এলোৰা' গুহাবোৰ কিয় নগৰৰ ওচৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Aurangabad",
+        "as": "ঔৰংগাবাদ"
+      },
+      {
+        "en": "Pune",
+        "as": "পুণে"
+      },
+      {
+        "en": "Nashik",
+        "as": "নাশিক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Ellora caves are near Aurangabad in Maharashtra.",
+      "as": "এলোৰা গুহাবোৰ মহাৰাষ্ট্ৰৰ ঔৰংগাবাদৰ ওচৰত অৱস্থিত।"
+    }
+  }
+]

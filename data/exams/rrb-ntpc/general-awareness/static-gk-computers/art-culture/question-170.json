@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-170",
+    "q": {
+      "en": "Tyagaraja composed his songs mainly in praise of:",
+      "as": "ত্যাগৰাজে তেওঁৰ গীত মূলতঃ কিয় প্ৰশংসাত ৰচনা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Lord Krishna",
+        "as": "ভগৱান কৃষ্ণ"
+      },
+      {
+        "en": "Lord Shiva",
+        "as": "ভগৱান শিৱ"
+      },
+      {
+        "en": "Lord Rama",
+        "as": "ভগৱান ৰাম"
+      },
+      {
+        "en": "Goddess Durga",
+        "as": "দেৱী দুৰ্গা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tyagaraja's compositions are mainly in praise of Lord Rama.",
+      "as": "ত্যাগৰাজৰ ৰচনা মূলতঃ ভগৱান ৰামৰ প্ৰশংসাত।"
+    }
+  }
+]

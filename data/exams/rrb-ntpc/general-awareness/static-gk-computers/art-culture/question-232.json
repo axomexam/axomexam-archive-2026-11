@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-232",
+    "q": {
+      "en": "The 'Gol Gumbaz', known for its whispering gallery, is located at:",
+      "as": "ফুচফুচনি গেলেৰীৰ বাবে জনাজাত 'গোল গুম্বজ' ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Hyderabad",
+        "as": "হাইদৰাবাদ"
+      },
+      {
+        "en": "Agra",
+        "as": "আগ্ৰা"
+      },
+      {
+        "en": "Delhi",
+        "as": "দিল্লী"
+      },
+      {
+        "en": "Bijapur",
+        "as": "বিজাপুৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Gol Gumbaz is at Bijapur in Karnataka.",
+      "as": "গোল গুম্বজ কৰ্ণাটকৰ বিজাপুৰত অৱস্থিত।"
+    }
+  }
+]

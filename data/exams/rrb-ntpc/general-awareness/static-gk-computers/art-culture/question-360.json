@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-360",
+    "q": {
+      "en": "The 'Bhagalpur' silk, known as tussar silk, is associated with:",
+      "as": "'ভাগলপুৰ' পাট, যাৰ নাম তছৰ পাট, কিয় ৰাজ্যৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      },
+      {
+        "en": "Bengal",
+        "as": "বংগ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bhagalpur in Bihar is famous for tussar silk.",
+      "as": "বিহাৰৰ ভাগলপুৰ তছৰ পাটৰ বাবে বিখ্যাত।"
+    }
+  }
+]

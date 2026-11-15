@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-208",
+    "q": {
+      "en": "The Mahabodhi temple at Bodh Gaya is associated with Buddha's:",
+      "as": "বোধ গয়াৰ মহাবোধি মন্দিৰ বুদ্ধৰ কিয় সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Enlightenment",
+        "as": "জ্ঞান লাভ"
+      },
+      {
+        "en": "Birth",
+        "as": "জন্ম"
+      },
+      {
+        "en": "First sermon",
+        "as": "প্ৰথম ধৰ্মদেশনা"
+      },
+      {
+        "en": "Death",
+        "as": "মৃত্যু"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bodh Gaya is where the Buddha attained enlightenment.",
+      "as": "বুদ্ধই বোধ গয়াত জ্ঞান লাভ কৰিছিল।"
+    }
+  }
+]

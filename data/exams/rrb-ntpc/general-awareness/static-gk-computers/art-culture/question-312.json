@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-312",
+    "q": {
+      "en": "The 'Bihu' festival is the most important festival of:",
+      "as": "'বিহু' উৎসৱ কিয় ৰাজ্যৰ আটাইতকৈ গুৰুত্বপূৰ্ণ উৎসৱ?"
+    },
+    "options": [
+      {
+        "en": "Manipur",
+        "as": "মণিপুৰ"
+      },
+      {
+        "en": "Nagaland",
+        "as": "নাগালেণ্ড"
+      },
+      {
+        "en": "Tripura",
+        "as": "ত্ৰিপুৰা"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bihu is the most important festival of Assam.",
+      "as": "বিহু অসমৰ আটাইতকৈ গুৰুত্বপূৰ্ণ উৎসৱ।"
+    }
+  }
+]

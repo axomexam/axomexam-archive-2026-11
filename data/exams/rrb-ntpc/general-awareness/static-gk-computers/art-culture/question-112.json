@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-112",
+    "q": {
+      "en": "Ustad Bade Ghulam Ali Khan was a renowned exponent of:",
+      "as": "ওস্তাদ বড়ে গুলাম আলী খান কিয় বিখ্যাত শিল্পী আছিল?"
+    },
+    "options": [
+      {
+        "en": "Carnatic vocal music",
+        "as": "কৰ্ণাটকী কণ্ঠ সংগীত"
+      },
+      {
+        "en": "Sitar",
+        "as": "সেতাৰ"
+      },
+      {
+        "en": "Hindustani vocal music",
+        "as": "হিন্দুস্তানী কণ্ঠ সংগীত"
+      },
+      {
+        "en": "Tabla",
+        "as": "তবলা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bade Ghulam Ali Khan was a renowned Hindustani vocalist.",
+      "as": "বড়ে গুলাম আলী খান এজন বিখ্যাত হিন্দুস্তানী গায়ক আছিল।"
+    }
+  }
+]

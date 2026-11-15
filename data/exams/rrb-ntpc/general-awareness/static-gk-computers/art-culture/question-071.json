@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-071",
+    "q": {
+      "en": "The famous 'Sattriya' dance tradition of Assam was developed in the:",
+      "as": "অসমৰ বিখ্যাত 'সত্ৰীয়া' নৃত্য পৰম্পৰা ক'ত বিকশিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Royal courts",
+        "as": "ৰাজদৰবাৰত"
+      },
+      {
+        "en": "Vaishnava sattras",
+        "as": "বৈষ্ণৱ সত্ৰবোৰত"
+      },
+      {
+        "en": "Buddhist monasteries",
+        "as": "বৌদ্ধ মঠত"
+      },
+      {
+        "en": "Village fairs",
+        "as": "গাঁৱৰ মেলাত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Sattriya was developed in the Vaishnava sattras of Assam.",
+      "as": "সত্ৰীয়া অসমৰ বৈষ্ণৱ সত্ৰবোৰত বিকশিত হৈছিল।"
+    }
+  }
+]

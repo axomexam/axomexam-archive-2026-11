@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-052",
+    "q": {
+      "en": "Pandit Birju Maharaj was a legendary exponent of:",
+      "as": "পণ্ডিত বিৰজু মহাৰাজ কিয় নৃত্যৰ কিংবদন্তী শিল্পী আছিল?"
+    },
+    "options": [
+      {
+        "en": "Bharatanatyam",
+        "as": "ভৰতনাট্যম"
+      },
+      {
+        "en": "Kathak",
+        "as": "কথক"
+      },
+      {
+        "en": "Kathakali",
+        "as": "কথাকলি"
+      },
+      {
+        "en": "Odissi",
+        "as": "ওড়িছী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Birju Maharaj was a legendary Kathak dancer of the Lucknow gharana.",
+      "as": "বিৰজু মহাৰাজ লখনৌ ঘৰানাৰ কিংবদন্তী কথক নৃত্যশিল্পী আছিল।"
+    }
+  }
+]

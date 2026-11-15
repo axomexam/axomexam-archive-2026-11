@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-371",
+    "q": {
+      "en": "The 'Moradabad' handicraft tradition is famous for:",
+      "as": "'মোৰাদাবাদ' হস্তশিল্প পৰম্পৰা কিয়ৰ বাবে বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "Silk",
+        "as": "পাট"
+      },
+      {
+        "en": "Brassware",
+        "as": "পিতলৰ সামগ্ৰী"
+      },
+      {
+        "en": "Pottery",
+        "as": "কুম্ভকাৰ"
+      },
+      {
+        "en": "Wood carving",
+        "as": "কাঠ খোদাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Moradabad in Uttar Pradesh is famous for brassware.",
+      "as": "উত্তৰ প্ৰদেশৰ মোৰাদাবাদ পিতলৰ সামগ্ৰীৰ বাবে বিখ্যাত।"
+    }
+  }
+]

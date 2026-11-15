@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-007",
+    "q": {
+      "en": "Kathak, the only classical dance of North India, derives its name from the word:",
+      "as": "উত্তৰ ভাৰতৰ একমাত্ৰ শাস্ত্ৰীয় নৃত্য কথকৰ নাম কিয় শব্দৰ পৰা আহিছে?"
+    },
+    "options": [
+      {
+        "en": "Nritya, meaning dance",
+        "as": "নৃত্য"
+      },
+      {
+        "en": "Raga, meaning melody",
+        "as": "ৰাগ"
+      },
+      {
+        "en": "Katha, meaning story",
+        "as": "কথা, অৰ্থাৎ কাহিনী"
+      },
+      {
+        "en": "Tala, meaning rhythm",
+        "as": "তাল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kathak comes from 'katha', meaning a story, as kathakars were storytellers.",
+      "as": "কথকে 'কথা' শব্দৰ পৰা আহিছে, কাৰণ কথকৰসকল কাহিনীকাৰ আছিল।"
+    }
+  }
+]

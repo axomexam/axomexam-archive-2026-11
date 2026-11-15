@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-222",
+    "q": {
+      "en": "The Mughal emperor who built the Taj Mahal was:",
+      "as": "তাজমহল কিয় মোগল সম্ৰাটে নিৰ্মাণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "ঔৰংজেৱ"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Taj Mahal was erected by Shah Jahan.",
+      "as": "তাজমহল শাহজাহানে নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

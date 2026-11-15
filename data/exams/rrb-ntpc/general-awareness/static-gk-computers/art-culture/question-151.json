@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-151",
+    "q": {
+      "en": "The 'Dhrupad' style is associated with the 'Dagar' family of:",
+      "as": "'ধ্ৰুপদ' শৈলী কিয় ঘৰানাৰ 'দাগৰ' পৰিয়ালৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Hindustani music",
+        "as": "হিন্দুস্তানী সংগীত"
+      },
+      {
+        "en": "Carnatic music",
+        "as": "কৰ্ণাটকী সংগীত"
+      },
+      {
+        "en": "Folk music",
+        "as": "লোক সংগীত"
+      },
+      {
+        "en": "Sufi music",
+        "as": "চুফী সংগীত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Dagar family is a celebrated lineage of dhrupad singers in Hindustani music.",
+      "as": "দাগৰ পৰিয়াল হিন্দুস্তানী সংগীতত ধ্ৰুপদ গায়কৰ এটা প্ৰসিদ্ধ বংশ।"
+    }
+  }
+]

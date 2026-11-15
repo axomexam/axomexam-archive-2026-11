@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-082",
+    "q": {
+      "en": "The two main systems of Indian classical music are Hindustani and:",
+      "as": "ভাৰতীয় শাস্ত্ৰীয় সংগীতৰ দুটা মুখ্য পদ্ধতি হ'ল হিন্দুস্তানী আৰু:"
+    },
+    "options": [
+      {
+        "en": "Folk",
+        "as": "লোক"
+      },
+      {
+        "en": "Sufi",
+        "as": "চুফী"
+      },
+      {
+        "en": "Devotional",
+        "as": "ভক্তিমূলক"
+      },
+      {
+        "en": "Carnatic",
+        "as": "কৰ্ণাটকী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The two systems are Hindustani and Carnatic music.",
+      "as": "দুটা পদ্ধতি হ'ল হিন্দুস্তানী আৰু কৰ্ণাটকী সংগীত।"
+    }
+  }
+]

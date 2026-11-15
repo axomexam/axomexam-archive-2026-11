@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-317",
+    "q": {
+      "en": "The 'Ambubachi Mela' is held at the temple of:",
+      "as": "'অম্বুবাচী মেলা' কিয় মন্দিৰত অনুষ্ঠিত হয়?"
+    },
+    "options": [
+      {
+        "en": "Jagannath",
+        "as": "জগন্নাথ"
+      },
+      {
+        "en": "Tirupati",
+        "as": "তিৰুপতি"
+      },
+      {
+        "en": "Kamakhya",
+        "as": "কামাখ্যা"
+      },
+      {
+        "en": "Kashi",
+        "as": "কাশী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Assam's Kamakhya temple hosts the Ambubachi Mela.",
+      "as": "অম্বুবাচী মেলা অসমৰ কামাখ্যা মন্দিৰত অনুষ্ঠিত হয়।"
+    }
+  }
+]

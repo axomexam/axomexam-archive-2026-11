@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-255",
+    "q": {
+      "en": "The 'Nataraja' statue depicts Lord Shiva as the:",
+      "as": "'নটৰাজ' মূৰ্তিয়ে ভগৱান শিৱক কিয় ৰূপত চিত্ৰিত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Yogi",
+        "as": "যোগী"
+      },
+      {
+        "en": "Destroyer",
+        "as": "ধ্বংসকাৰী"
+      },
+      {
+        "en": "Cosmic dancer",
+        "as": "ব্ৰহ্মাণ্ডৰ নৰ্তক"
+      },
+      {
+        "en": "Family man",
+        "as": "পৰিয়ালৰ মানুহ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Nataraja depicts Shiva as the cosmic dancer.",
+      "as": "নটৰাজে শিৱক ব্ৰহ্মাণ্ডৰ নৰ্তক ৰূপত চিত্ৰিত কৰে।"
+    }
+  }
+]

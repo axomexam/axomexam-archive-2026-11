@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-039",
+    "q": {
+      "en": "The folk dance 'Bidesiya' is associated with:",
+      "as": "লোক নৃত্য 'বিদেশিয়া' কিয় ৰাজ্যৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
+      },
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bidesiya is a folk dance of Bihar.",
+      "as": "বিদেশিয়া বিহাৰৰ লোক নৃত্য।"
+    }
+  }
+]

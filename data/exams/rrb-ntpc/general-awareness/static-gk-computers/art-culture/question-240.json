@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-240",
+    "q": {
+      "en": "Amrita Sher-Gil was a renowned Indian:",
+      "as": "অমৃতা শেৰগিল এগৰাকী বিখ্যাত ভাৰতীয়:"
+    },
+    "options": [
+      {
+        "en": "Singer",
+        "as": "গায়িকা"
+      },
+      {
+        "en": "Dancer",
+        "as": "নৃত্যশিল্পী"
+      },
+      {
+        "en": "Writer",
+        "as": "লেখিকা"
+      },
+      {
+        "en": "Painter",
+        "as": "চিত্ৰশিল্পী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Amrita Sher-Gil was a renowned painter.",
+      "as": "অমৃতা শেৰগিল এগৰাকী বিখ্যাত চিত্ৰশিল্পী আছিল।"
+    }
+  }
+]

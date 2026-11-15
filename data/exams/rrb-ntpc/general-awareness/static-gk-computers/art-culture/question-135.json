@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-135",
+    "q": {
+      "en": "The 'Todi' and 'Bhairavi' are ragas generally performed in the:",
+      "as": "'তোড়ী' আৰু 'ভৈৰৱী' ৰাগ সাধাৰণতে কিয় সময়ত পৰিৱেশন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Midnight",
+        "as": "মাজৰাতি"
+      },
+      {
+        "en": "Afternoon",
+        "as": "আবেলি"
+      },
+      {
+        "en": "Morning",
+        "as": "ৰাতিপুৱা"
+      },
+      {
+        "en": "Evening",
+        "as": "সন্ধিয়া"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Todi and Bhairavi are morning ragas.",
+      "as": "তোড়ী আৰু ভৈৰৱী ৰাতিপুৱাৰ ৰাগ।"
+    }
+  }
+]

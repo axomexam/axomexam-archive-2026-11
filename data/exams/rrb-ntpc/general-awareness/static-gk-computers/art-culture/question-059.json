@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-059",
+    "q": {
+      "en": "Kuchipudi is traditionally performed as a:",
+      "as": "কুচিপুড়ি পৰম্পৰাগতভাৱে কিয় হিচাপে পৰিৱেশন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Solo dance by women only",
+        "as": "কেৱল মহিলাৰ একক নৃত্য"
+      },
+      {
+        "en": "Masked dance",
+        "as": "মুখাৱলী নৃত্য"
+      },
+      {
+        "en": "Martial art",
+        "as": "মাৰ্চাল আৰ্ট"
+      },
+      {
+        "en": "Dance-drama by a group",
+        "as": "দলীয় নৃত্য-নাট্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Kuchipudi is traditionally performed as a dance-drama by a group of men.",
+      "as": "কুচিপুড়ি পৰম্পৰাগতভাৱে পুৰুষৰ দলে নৃত্য-নাট্য হিচাপে পৰিৱেশন কৰে।"
+    }
+  }
+]

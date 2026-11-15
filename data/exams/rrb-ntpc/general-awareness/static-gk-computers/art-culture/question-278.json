@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-278",
+    "q": {
+      "en": "The 'Humayun's Tomb' in Delhi was built by:",
+      "as": "দিল্লীৰ 'হুমায়ুনৰ সমাধি' কিয় নিৰ্মাণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Empress Bega Begum",
+        "as": "সম্ৰাজ্ঞী বেগা বেগম"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Humayun's Tomb was built by Empress Bega Begum.",
+      "as": "হুমায়ুনৰ সমাধি সম্ৰাজ্ঞী বেগা বেগমে নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

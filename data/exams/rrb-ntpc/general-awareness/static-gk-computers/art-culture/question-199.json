@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-199",
+    "q": {
+      "en": "The Badami cave temples were built by the:",
+      "as": "বদামী গুহা মন্দিৰবোৰ কিয় দ্বাৰা নিৰ্মিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Pallava dynasty",
+        "as": "পল্লৱ ৰাজবংশ"
+      },
+      {
+        "en": "Rashtrakuta dynasty",
+        "as": "ৰাষ্ট্ৰকূট ৰাজবংশ"
+      },
+      {
+        "en": "Hoysala dynasty",
+        "as": "হোয়চল ৰাজবংশ"
+      },
+      {
+        "en": "Chalukya dynasty",
+        "as": "চালুক্য ৰাজবংশ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Badami cave temples were built by the Chalukyas.",
+      "as": "বদামী গুহা মন্দিৰবোৰ চালুক্যসকলে নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

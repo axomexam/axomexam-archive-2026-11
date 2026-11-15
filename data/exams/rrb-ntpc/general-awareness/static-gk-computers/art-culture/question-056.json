@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-056",
+    "q": {
+      "en": "The Jaipur gharana of Kathak is known for its:",
+      "as": "কথকৰ জয়পুৰ ঘৰানা কিয়ৰ বাবে জনাজাত?"
+    },
+    "options": [
+      {
+        "en": "Expressions only",
+        "as": "কেৱল ভাব প্ৰকাশ"
+      },
+      {
+        "en": "Pure dance and footwork",
+        "as": "বিশুদ্ধ নৃত্য আৰু পদচালনা"
+      },
+      {
+        "en": "Masked performances",
+        "as": "মুখাৱলী পৰিৱেশন"
+      },
+      {
+        "en": "Devotional songs",
+        "as": "ভক্তিমূলক গীত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Jaipur gharana is known for pure dance and footwork.",
+      "as": "জয়পুৰ ঘৰানা বিশুদ্ধ নৃত্য আৰু পদচালনাৰ বাবে জনাজাত।"
+    }
+  }
+]

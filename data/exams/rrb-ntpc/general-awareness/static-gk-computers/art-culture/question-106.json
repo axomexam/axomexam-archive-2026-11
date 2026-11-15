@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-106",
+    "q": {
+      "en": "Ustad Amjad Ali Khan is a renowned exponent of the:",
+      "as": "ওস্তাদ আমজাদ আলী খান কিয় বিখ্যাত শিল্পী?"
+    },
+    "options": [
+      {
+        "en": "Sitar",
+        "as": "সেতাৰ"
+      },
+      {
+        "en": "Sarod and Sarangi",
+        "as": "চাৰোদ আৰু চাৰেংগী"
+      },
+      {
+        "en": "Sarod",
+        "as": "চাৰোদ"
+      },
+      {
+        "en": "Veena",
+        "as": "বীণা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Amjad Ali Khan is a renowned sarod player.",
+      "as": "আমজাদ আলী খান এজন বিখ্যাত চাৰোদবাদক।"
+    }
+  }
+]

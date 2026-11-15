@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-045",
+    "q": {
+      "en": "The 'Pepa', an instrument made from a buffalo horn, is used in:",
+      "as": "ম'হৰ শিংৰ পৰা নিৰ্মিত বাদ্য 'পেঁপা' ক'ত ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Kathakali",
+        "as": "কথাকলি"
+      },
+      {
+        "en": "Chhau",
+        "as": "ছৌ"
+      },
+      {
+        "en": "Bihu of Assam",
+        "as": "অসমৰ বিহু"
+      },
+      {
+        "en": "Tamasha",
+        "as": "তমাশা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The pepa is used in Bihu performances of Assam.",
+      "as": "পেঁপা অসমৰ বিহু পৰিৱেশনত ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

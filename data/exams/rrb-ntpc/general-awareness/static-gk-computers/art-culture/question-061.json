@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-061",
+    "q": {
+      "en": "The 'Arangetram' in Bharatanatyam refers to the:",
+      "as": "ভৰতনাট্যমত 'অৰংগেট্ৰম'ই কিক বুজায়?"
+    },
+    "options": [
+      {
+        "en": "Final performance",
+        "as": "শেষ পৰিৱেশন"
+      },
+      {
+        "en": "Temple ritual",
+        "as": "মন্দিৰৰ আচাৰ"
+      },
+      {
+        "en": "Dance competition",
+        "as": "নৃত্য প্ৰতিযোগিতা"
+      },
+      {
+        "en": "First public performance of a dancer",
+        "as": "নৃত্যশিল্পীৰ প্ৰথম ৰাজহুৱা পৰিৱেশন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Arangetram is the maiden public performance of a Bharatanatyam dancer.",
+      "as": "অৰংগেট্ৰম হ'ল ভৰতনাট্যম নৃত্যশিল্পীৰ প্ৰথম ৰাজহুৱা পৰিৱেশন।"
+    }
+  }
+]

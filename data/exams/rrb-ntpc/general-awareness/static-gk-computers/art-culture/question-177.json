@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-177",
+    "q": {
+      "en": "The Ajanta caves are located in the State of:",
+      "as": "অজন্তা গুহাবোৰ কিয় ৰাজ্যত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Ajanta caves are in Maharashtra.",
+      "as": "অজন্তা গুহাবোৰ মহাৰাষ্ট্ৰত অৱস্থিত।"
+    }
+  }
+]

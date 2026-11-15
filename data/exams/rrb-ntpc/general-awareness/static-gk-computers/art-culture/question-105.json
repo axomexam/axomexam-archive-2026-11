@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-105",
+    "q": {
+      "en": "Pandit Ravi Shankar was a world-famous exponent of the:",
+      "as": "পণ্ডিত ৰবি শংকৰ কিয় বিশ্ববিখ্যাত শিল্পী আছিল?"
+    },
+    "options": [
+      {
+        "en": "Sitar",
+        "as": "সেতাৰ"
+      },
+      {
+        "en": "Sarod",
+        "as": "চাৰোদ"
+      },
+      {
+        "en": "Sarangi",
+        "as": "চাৰেংগী"
+      },
+      {
+        "en": "Tabla",
+        "as": "তবলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ravi Shankar was a world-famous sitar player.",
+      "as": "ৰবি শংকৰ এজন বিশ্ববিখ্যাত সেতাৰবাদক আছিল।"
+    }
+  }
+]

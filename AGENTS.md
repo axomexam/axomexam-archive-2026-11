@@ -135,6 +135,41 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+## Session record — Nov 2026 RRB NTPC Art & Culture bank (400 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a bilingual bank to the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/static-gk-computers/art-culture/`:
+  `question-002.json` … `question-400.json` (399 new files) beside the existing
+  `question-001.json`, giving the subcategory **400 questions**. Each file holds
+  one MCQ in the repo's shape — `id`, `q.{en,as}`, four `options[{en,as}]`,
+  `correct`, `explanation.{en,as}`.
+- **Topic resolution.** `static-gk-computers` is a topic with five
+  subcategories, so the SPA reads the subcategory folder;
+  `art-culture/index.json` now lists all 400 files. The topic-level
+  `static-gk-computers/index.json` keeps `files: []` on purpose, exactly like
+  `geography/index.json` and `polity/index.json`.
+- **Content.** RRB NTPC (CBT-1 & CBT-2) level, covering the eight classical
+  dances and dance-drama, folk dances of the States, Indian music (Hindustani,
+  Carnatic, ragas, talas, instruments, gharanas), painting schools and folk
+  painting, cave art, temple architecture and sculpture, monuments, festivals,
+  handicrafts and textiles, and art institutions and awards. Answer keys are
+  spread over A/B/C/D (101/100/100/99) and the longest run of one slot is 3.
+  `--book rrb-ntpc --topic general-awareness/static-gk-computers/art-culture
+  --check` reports 0 skewed topics.
+- **No duplicated content.** Every stem and explanation was compared (case- and
+  punctuation-insensitive) against the 46,643 stems already in `data/`, which
+  includes the constitution and governance banks added in the same session. The
+  21 colliding items were reworded, so this bank shares no stem or explanation
+  with any existing bank or mock set.
+- **`data/counts.json` is deliberately unchanged** (the book is still
+  `status: "coming-soon"`), as recorded in the earlier session records.
+- **Verified** by serving the repo locally: the subcategory `index.json` and
+  every `question-NNN.json` return 200. `node tools/seo-audit.js` still reports
+  no missing H1/desc/canonical/JSON-LD and all duplicate counts at 0. No page,
+  UI, script or CSS file changed.
+
 ## Session record — Nov 2026 RRB NTPC Union & State Governance bank (360 MCQs)
 
 What was done, so the next agent does not redo or undo it:

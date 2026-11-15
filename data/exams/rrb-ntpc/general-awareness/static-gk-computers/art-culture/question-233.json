@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-233",
+    "q": {
+      "en": "The miniature painting tradition flourished in India under the:",
+      "as": "ভাৰতত ক্ষুদ্ৰ চিত্ৰকলা পৰম্পৰা কিয় শাসনত বিকশিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Mauryas",
+        "as": "মৌৰ্য"
+      },
+      {
+        "en": "Guptas",
+        "as": "গুপ্ত"
+      },
+      {
+        "en": "Mughals",
+        "as": "মোগল"
+      },
+      {
+        "en": "Cholas",
+        "as": "চোল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Miniature painting flourished under the Mughals.",
+      "as": "ক্ষুদ্ৰ চিত্ৰকলা মোগলসকলৰ শাসনত বিকশিত হৈছিল।"
+    }
+  }
+]

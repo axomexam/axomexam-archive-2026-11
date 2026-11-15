@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-010",
+    "q": {
+      "en": "Sattriya, recognised as a classical dance in 2000, originated in:",
+      "as": "২০০০ চনত শাস্ত্ৰীয় নৃত্য হিচাপে স্বীকৃতি পোৱা সত্ৰীয়া কিয় ৰাজ্যত উৎপত্তি হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Manipur",
+        "as": "মণিপুৰ"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Bengal",
+        "as": "বংগ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Sattriya originated in the sattras of Assam.",
+      "as": "সত্ৰীয়া অসমৰ সত্ৰবোৰত উৎপত্তি হৈছিল।"
+    }
+  }
+]

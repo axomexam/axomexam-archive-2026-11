@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-359",
+    "q": {
+      "en": "The 'Banarasi' silk saree is traditionally produced in:",
+      "as": "'বনাৰসী' পাট শাৰী পৰম্পৰাগতভাৱে ক'ত উৎপাদন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Kanchipuram",
+        "as": "কাঞ্চীপুৰম"
+      },
+      {
+        "en": "Mysore",
+        "as": "মহীশূৰ"
+      },
+      {
+        "en": "Bhagalpur",
+        "as": "ভাগলপুৰ"
+      },
+      {
+        "en": "Varanasi",
+        "as": "বাৰাণসী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Banarasi silk sarees are produced in Varanasi, Uttar Pradesh.",
+      "as": "বনাৰসী পাট শাৰী উত্তৰ প্ৰদেশৰ বাৰাণসীত উৎপাদন কৰা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-306",
+    "q": {
+      "en": "The 'Ajanta' caves are located near the city of:",
+      "as": "'অজন্তা' গুহাবোৰ কিয় নগৰৰ ওচৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Pune",
+        "as": "পুণে"
+      },
+      {
+        "en": "Aurangabad",
+        "as": "ঔৰংগাবাদ"
+      },
+      {
+        "en": "Nagpur",
+        "as": "নাগপুৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ajanta caves are near Aurangabad in Maharashtra.",
+      "as": "অজন্তা গুহাবোৰ মহাৰাষ্ট্ৰৰ ঔৰংগাবাদৰ ওচৰত অৱস্থিত।"
+    }
+  }
+]

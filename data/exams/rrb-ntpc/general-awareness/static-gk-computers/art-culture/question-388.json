@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-388",
+    "q": {
+      "en": "The 'Nrityagram' dance village is located in:",
+      "as": "'নৃত্যাগ্ৰাম' নৃত্য গাঁও ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Nrityagram is located near Bengaluru in Karnataka.",
+      "as": "নৃত্যাগ্ৰাম কৰ্ণাটকৰ বেংগালুৰুৰ ওচৰত অৱস্থিত।"
+    }
+  }
+]

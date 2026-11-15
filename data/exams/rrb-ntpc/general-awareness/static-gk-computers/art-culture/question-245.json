@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-245",
+    "q": {
+      "en": "The 'Pattachitra' painting tradition is associated with:",
+      "as": "'পট্টচিত্ৰ' চিত্ৰকলা পৰম্পৰা কিয় ৰাজ্যৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Bengal",
+        "as": "বংগ"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Pattachitra is a traditional painting of Odisha.",
+      "as": "পট্টচিত্ৰ ওড়িশাৰ পৰম্পৰাগত চিত্ৰকলা।"
+    }
+  }
+]

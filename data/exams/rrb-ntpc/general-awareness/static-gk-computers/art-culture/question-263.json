@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-263",
+    "q": {
+      "en": "The 'Karla' caves are located in the State of:",
+      "as": "'কাৰ্লা' গুহাবোৰ কিয় ৰাজ্যত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      },
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Karla caves are in Maharashtra.",
+      "as": "কাৰ্লা গুহাবোৰ মহাৰাষ্ট্ৰত অৱস্থিত।"
+    }
+  }
+]

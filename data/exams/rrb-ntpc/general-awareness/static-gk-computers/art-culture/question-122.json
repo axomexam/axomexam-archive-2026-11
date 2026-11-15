@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-122",
+    "q": {
+      "en": "The 'Sitar' typically has how many strings?",
+      "as": "'সেতাৰ'ত সাধাৰণতে কিমানটা তাঁৰ থাকে?"
+    },
+    "options": [
+      {
+        "en": "Two strings",
+        "as": "দুটা তাঁৰ"
+      },
+      {
+        "en": "Twenty strings",
+        "as": "বিশটা তাঁৰ"
+      },
+      {
+        "en": "Six to seven main strings",
+        "as": "ছয়ৰপৰা সাতটা মুখ্য তাঁৰ"
+      },
+      {
+        "en": "Three strings",
+        "as": "তিনিটা তাঁৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A sitar usually has six or seven main playing strings.",
+      "as": "সেতাৰত সাধাৰণতে ছয় বা সাতটা মুখ্য তাঁৰ থাকে।"
+    }
+  }
+]

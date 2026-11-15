@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-049",
+    "q": {
+      "en": "Bharatanatyam was earlier known as:",
+      "as": "ভৰতনাট্যমক আগতে কি বুলি জনা গৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Sadir",
+        "as": "সাদিৰ"
+      },
+      {
+        "en": "Koothu",
+        "as": "কুট্টু"
+      },
+      {
+        "en": "Chinnamelam",
+        "as": "চিন্নমেলাম"
+      },
+      {
+        "en": "Dasiattam",
+        "as": "দাসীআট্টম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bharatanatyam was earlier known as Dasiattam and Sadir.",
+      "as": "ভৰতনাট্যমক আগতে দাসীআট্টম আৰু সাদিৰ বুলি জনা গৈছিল।"
+    }
+  }
+]

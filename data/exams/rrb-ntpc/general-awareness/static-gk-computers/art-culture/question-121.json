@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-121",
+    "q": {
+      "en": "The 'Tanpura' is used in Indian classical music to provide a:",
+      "as": "ভাৰতীয় শাস্ত্ৰীয় সংগীতত 'তানপুৰা' কিক প্ৰদান কৰিবলৈ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Rhythm",
+        "as": "তাল"
+      },
+      {
+        "en": "Drone or background pitch",
+        "as": "ড্ৰ'ন বা পৃষ্ঠভূমিৰ সুৰ"
+      },
+      {
+        "en": "Melody",
+        "as": "সুৰ"
+      },
+      {
+        "en": "Harmony",
+        "as": "সমসুৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The tanpura provides a continuous drone in the background.",
+      "as": "তানপুৰাই পৃষ্ঠভূমিত অবিৰত ড্ৰ'ন প্ৰদান কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-142",
+    "q": {
+      "en": "Borgeet was composed by Srimanta Sankardeva and:",
+      "as": "বৰগীত শ্ৰীমন্ত শংকৰদেৱ আৰু কিয় ৰচনা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Chaitanya",
+        "as": "চৈতন্যই"
+      },
+      {
+        "en": "Narottam Das",
+        "as": "নৰোত্তম দাসে"
+      },
+      {
+        "en": "Madhavdeva",
+        "as": "মাধৱদেৱে"
+      },
+      {
+        "en": "Gopala",
+        "as": "গোপালে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sankardeva and Madhavdeva are the composers of Borgeet.",
+      "as": "বৰগীত শংকৰদেৱ আৰু মাধৱদেৱে ৰচনা কৰিছিল।"
+    }
+  }
+]

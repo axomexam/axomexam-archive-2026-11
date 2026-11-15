@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-313",
+    "q": {
+      "en": "The 'Bohag Bihu' of Assam is celebrated in the month of:",
+      "as": "অসমৰ 'ব'হাগ বিহু' কিয় মাহত পালন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "January",
+        "as": "জানুৱাৰী"
+      },
+      {
+        "en": "October",
+        "as": "অক্টোবৰ"
+      },
+      {
+        "en": "April",
+        "as": "এপ্ৰিল"
+      },
+      {
+        "en": "July",
+        "as": "জুলাই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bohag Bihu falls in April and welcomes the Assamese New Year.",
+      "as": "ব'হাগ বিহু এপ্ৰিলত পালন কৰা হয় আৰু অসমীয়া নৱবৰ্ষৰ সূচনা কৰে।"
+    }
+  }
+]

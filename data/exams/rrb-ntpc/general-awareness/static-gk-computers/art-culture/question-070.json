@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-070",
+    "q": {
+      "en": "The dance form 'Mohiniyattam' is traditionally a:",
+      "as": "নৃত্য ৰূপ 'মোহিনীঅট্টম' পৰম্পৰাগতভাৱে এটা:"
+    },
+    "options": [
+      {
+        "en": "Group dance by men",
+        "as": "পুৰুষৰ দলীয় নৃত্য"
+      },
+      {
+        "en": "Masked dance",
+        "as": "মুখাৱলী নৃত্য"
+      },
+      {
+        "en": "Martial art",
+        "as": "মাৰ্চাল আৰ্ট"
+      },
+      {
+        "en": "Solo dance performed by women",
+        "as": "মহিলাসকলে পৰিৱেশন কৰা একক নৃত্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Mohiniyattam is traditionally a solo dance performed by women.",
+      "as": "মোহিনীঅট্টম পৰম্পৰাগতভাৱে মহিলাসকলে পৰিৱেশন কৰা একক নৃত্য।"
+    }
+  }
+]

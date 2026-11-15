@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-169",
+    "q": {
+      "en": "Surdas was a great devotional poet and singer associated with:",
+      "as": "সূৰদাস কিয় সৈতে জড়িত এজন মহান ভক্তিমূলক কবি আৰু গায়ক আছিল?"
+    },
+    "options": [
+      {
+        "en": "Shiva bhakti",
+        "as": "শিৱ ভক্তি"
+      },
+      {
+        "en": "Rama bhakti",
+        "as": "ৰাম ভক্তি"
+      },
+      {
+        "en": "Krishna bhakti",
+        "as": "কৃষ্ণ ভক্তি"
+      },
+      {
+        "en": "Devi bhakti",
+        "as": "দেৱী ভক্তি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Surdas was a devotee of Krishna and composed the Sur Sagar.",
+      "as": "সূৰদাস কৃষ্ণৰ ভক্ত আছিল আৰু সূৰ সাগৰ ৰচনা কৰিছিল।"
+    }
+  }
+]

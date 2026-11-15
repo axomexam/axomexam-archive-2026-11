@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-290",
+    "q": {
+      "en": "The 'Pattadakal' group of monuments is famous for its:",
+      "as": "'পট্টদকল' স্মৃতিসৌধ সমূহ কিয়ৰ বাবে বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "Buddhist stupas",
+        "as": "বৌদ্ধ স্তূপ"
+      },
+      {
+        "en": "Chalukyan temple architecture",
+        "as": "চালুক্য মন্দিৰ স্থাপত্য"
+      },
+      {
+        "en": "Mughal gardens",
+        "as": "মোগল উদ্যান"
+      },
+      {
+        "en": "Rock edicts",
+        "as": "শিলালিপি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Pattadakal is famous for its Chalukyan temple architecture.",
+      "as": "পট্টদকল ইয়াৰ চালুক্য মন্দিৰ স্থাপত্যৰ বাবে বিখ্যাত।"
+    }
+  }
+]

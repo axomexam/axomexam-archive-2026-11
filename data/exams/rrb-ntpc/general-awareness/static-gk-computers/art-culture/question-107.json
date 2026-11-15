@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-107",
+    "q": {
+      "en": "Ustad Bismillah Khan was a legendary exponent of the:",
+      "as": "ওস্তাদ বিছমিল্লাহ খান কিয় কিংবদন্তী শিল্পী আছিল?"
+    },
+    "options": [
+      {
+        "en": "Sitar",
+        "as": "সেতাৰ"
+      },
+      {
+        "en": "Flute",
+        "as": "বাঁহী"
+      },
+      {
+        "en": "Sarod",
+        "as": "চাৰোদ"
+      },
+      {
+        "en": "Shehnai",
+        "as": "চেহনাই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bismillah Khan was a legendary shehnai player.",
+      "as": "বিছমিল্লাহ খান এজন কিংবদন্তী চেহনাইবাদক আছিল।"
+    }
+  }
+]

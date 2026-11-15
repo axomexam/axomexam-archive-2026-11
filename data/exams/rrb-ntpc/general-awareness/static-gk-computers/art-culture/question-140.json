@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-140",
+    "q": {
+      "en": "Nazrul Geeti is associated with the works of:",
+      "as": "নজৰুল গীতি কিয়ৰ কৰ্মৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Rabindranath Tagore",
+        "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ"
+      },
+      {
+        "en": "Atul Prasad",
+        "as": "অতুল প্ৰসাদ"
+      },
+      {
+        "en": "Dwijendralal",
+        "as": "দ্বিজেন্দ্ৰলাল"
+      },
+      {
+        "en": "Kazi Nazrul Islam",
+        "as": "কাজী নজৰুল ইছলাম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Nazrul Geeti refers to songs by Kazi Nazrul Islam.",
+      "as": "নজৰুল গীতি কাজী নজৰুল ইছলামৰ গীত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-224",
+    "q": {
+      "en": "The Red Fort at Delhi was built by:",
+      "as": "দিল্লীৰ লাল কিল্লা কিয় নিৰ্মাণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Babur",
+        "as": "বাবৰ"
+      },
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Humayun",
+        "as": "হুমায়ুন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Red Fort at Delhi was built by Shah Jahan.",
+      "as": "দিল্লীৰ লাল কিল্লা শাহজাহানে নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-114",
+    "q": {
+      "en": "The 'Pakhawaj' is a percussion instrument associated with:",
+      "as": "'পখাৱজ' কিয় সংগীতৰ সৈতে জড়িত তালবাদ্য?"
+    },
+    "options": [
+      {
+        "en": "Dhrupad in Hindustani music",
+        "as": "হিন্দুস্তানী সংগীতৰ ধ্ৰুপদ"
+      },
+      {
+        "en": "Carnatic music",
+        "as": "কৰ্ণাটকী সংগীত"
+      },
+      {
+        "en": "Folk music",
+        "as": "লোক সংগীত"
+      },
+      {
+        "en": "Sufi music",
+        "as": "চুফী সংগীত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pakhawaj accompanies dhrupad in Hindustani music.",
+      "as": "পখাৱজে হিন্দুস্তানী সংগীতৰ ধ্ৰুপদত সংগত কৰে।"
+    }
+  }
+]

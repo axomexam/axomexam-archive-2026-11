@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-192",
+    "q": {
+      "en": "The Meenakshi temple, famous for its towering gopurams, is located at:",
+      "as": "ওখ গোপুৰমৰ বাবে বিখ্যাত মীনাক্ষী মন্দিৰ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Thanjavur",
+        "as": "তাঞ্জাবুৰ"
+      },
+      {
+        "en": "Mysore",
+        "as": "মহীশূৰ"
+      },
+      {
+        "en": "Hampi",
+        "as": "হাম্পি"
+      },
+      {
+        "en": "Madurai",
+        "as": "মাদুৰাই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Meenakshi temple is at Madurai in Tamil Nadu.",
+      "as": "মীনাক্ষী মন্দিৰ তামিলনাডুৰ মাদুৰাইত অৱস্থিত।"
+    }
+  }
+]

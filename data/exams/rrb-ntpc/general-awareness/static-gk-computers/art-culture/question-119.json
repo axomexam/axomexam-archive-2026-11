@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-119",
+    "q": {
+      "en": "The 'Nagaswaram' is a wind instrument associated with:",
+      "as": "'নাগস্বৰম' কিয় সংগীতৰ সৈতে জড়িত বতাহৰ বাদ্য?"
+    },
+    "options": [
+      {
+        "en": "Hindustani music",
+        "as": "হিন্দুস্তানী সংগীত"
+      },
+      {
+        "en": "Carnatic music",
+        "as": "কৰ্ণাটকী সংগীত"
+      },
+      {
+        "en": "Western music",
+        "as": "পাশ্চাত্য সংগীত"
+      },
+      {
+        "en": "Folk music only",
+        "as": "কেৱল লোক সংগীত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The nagaswaram is a wind instrument of Carnatic music.",
+      "as": "নাগস্বৰম কৰ্ণাটকী সংগীতৰ বতাহৰ বাদ্য।"
+    }
+  }
+]

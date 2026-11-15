@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-205",
+    "q": {
+      "en": "The Lion Capital of Ashoka, adopted as the national emblem, is at:",
+      "as": "ৰাষ্ট্ৰীয় প্ৰতীক হিচাপে গৃহীত অশোকৰ সিংহ-শীৰ্ষ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Sanchi",
+        "as": "সাঁচী"
+      },
+      {
+        "en": "Bodh Gaya",
+        "as": "বোধ গয়া"
+      },
+      {
+        "en": "Sarnath",
+        "as": "সাৰনাথ"
+      },
+      {
+        "en": "Kushinagar",
+        "as": "কুশীনগৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Lion Capital of Ashoka is at Sarnath.",
+      "as": "অশোকৰ সিংহ-শীৰ্ষ সাৰনাথত অৱস্থিত।"
+    }
+  }
+]

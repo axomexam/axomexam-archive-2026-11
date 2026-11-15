@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-365",
+    "q": {
+      "en": "The 'Phulkari' embroidery tradition is associated with:",
+      "as": "'ফুলকাৰী' কাঢ়ন পৰম্পৰা কিয় ৰাজ্যৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাব"
+      },
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Haryana",
+        "as": "হাৰিয়ানা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Phulkari embroidery is associated with Punjab.",
+      "as": "ফুলকাৰী কাঢ়ন পঞ্জাবৰ সৈতে জড়িত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-330",
+    "q": {
+      "en": "The 'Hemis' festival is celebrated at the Hemis monastery in:",
+      "as": "'হেমিছ' উৎসৱ হেমিছ মঠত ক'ত পালন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Sikkim",
+        "as": "ছিক্কিম"
+      },
+      {
+        "en": "Arunachal Pradesh",
+        "as": "অৰুণাচল প্ৰদেশ"
+      },
+      {
+        "en": "Himachal Pradesh",
+        "as": "হিমাচল প্ৰদেশ"
+      },
+      {
+        "en": "Ladakh",
+        "as": "লাডাখ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Hemis festival is celebrated in Ladakh.",
+      "as": "হেমিছ উৎসৱ লাডাখত পালন কৰা হয়।"
+    }
+  }
+]

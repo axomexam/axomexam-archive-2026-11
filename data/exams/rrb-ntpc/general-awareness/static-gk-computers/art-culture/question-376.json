@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-376",
+    "q": {
+      "en": "The 'Lalit Kala Akademi' is India's national academy for:",
+      "as": "'ললিত কলা একাডেমী' ভাৰতৰ কিয় ৰাষ্ট্ৰীয় একাডেমী?"
+    },
+    "options": [
+      {
+        "en": "Performing arts",
+        "as": "পৰিবেশন কলা"
+      },
+      {
+        "en": "Literature",
+        "as": "সাহিত্য"
+      },
+      {
+        "en": "Visual arts",
+        "as": "দৃশ্য কলা"
+      },
+      {
+        "en": "Music",
+        "as": "সংগীত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Visual arts are promoted by the national academy called the Lalit Kala Akademi.",
+      "as": "ললিত কলা একাডেমী দৃশ্য কলাৰ ৰাষ্ট্ৰীয় একাডেমী।"
+    }
+  }
+]

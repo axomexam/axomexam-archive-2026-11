@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-341",
+    "q": {
+      "en": "The 'Bihu' dance is performed during the Bihu festival of:",
+      "as": "'বিহু' নৃত্য কিয় ৰাজ্যৰ বিহু উৎসৱত পৰিৱেশন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Manipur",
+        "as": "মণিপুৰ"
+      },
+      {
+        "en": "Nagaland",
+        "as": "নাগালেণ্ড"
+      },
+      {
+        "en": "Meghalaya",
+        "as": "মেঘালয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Bihu dance is performed during the Bihu festival of Assam.",
+      "as": "বিহু নৃত্য অসমৰ বিহু উৎসৱত পৰিৱেশন কৰা হয়।"
+    }
+  }
+]

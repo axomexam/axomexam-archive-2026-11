@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-201",
+    "q": {
+      "en": "The Chennakesava temple at Belur was built by the:",
+      "as": "বেলুৰৰ চেন্নকেশৱ মন্দিৰ কিয় দ্বাৰা নিৰ্মিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Chola dynasty",
+        "as": "চোল ৰাজবংশ"
+      },
+      {
+        "en": "Chalukya dynasty",
+        "as": "চালুক্য ৰাজবংশ"
+      },
+      {
+        "en": "Pandya dynasty",
+        "as": "পাণ্ড্য ৰাজবংশ"
+      },
+      {
+        "en": "Hoysala dynasty",
+        "as": "হোয়চল ৰাজবংশ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Chennakesava temple at Belur was built by the Hoysalas.",
+      "as": "বেলুৰৰ চেন্নকেশৱ মন্দিৰ হোয়চলসকলে নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-008",
+    "q": {
+      "en": "Kathak, which flourished in the courts of the Mughals, is mainly associated with:",
+      "as": "মোগল দৰবাৰত বিকশিত কথক মূলতঃ কিয়ৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
+      },
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kathak is chiefly associated with Uttar Pradesh.",
+      "as": "কথক মূলতঃ উত্তৰ প্ৰদেশৰ সৈতে জড়িত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-189",
+    "q": {
+      "en": "The 'Black Pagoda' is another name for the temple at:",
+      "as": "'কৃষ্ণ পেগোডা' ক'ত থকা মন্দিৰৰ আন এটা নাম?"
+    },
+    "options": [
+      {
+        "en": "Puri",
+        "as": "পুৰী"
+      },
+      {
+        "en": "Bhubaneswar",
+        "as": "ভুৱনেশ্বৰ"
+      },
+      {
+        "en": "Konark",
+        "as": "কোণাৰ্ক"
+      },
+      {
+        "en": "Cuttack",
+        "as": "কটক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Konark Sun Temple was called the Black Pagoda by European sailors.",
+      "as": "ইউৰোপীয় নাৱিকসকলে কোণাৰ্ক সূৰ্য মন্দিৰক কৃষ্ণ পেগোডা বুলিছিল।"
+    }
+  }
+]

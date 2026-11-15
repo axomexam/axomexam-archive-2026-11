@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-156",
+    "q": {
+      "en": "The 'Miyan ki Malhar' raga is associated with the:",
+      "as": "'মিয়াঁ কি মলহাৰ' ৰাগ কিয়ৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Winter",
+        "as": "শীতকাল"
+      },
+      {
+        "en": "Monsoon",
+        "as": "বৰ্ষাকাল"
+      },
+      {
+        "en": "Summer",
+        "as": "গ্ৰীষ্মকাল"
+      },
+      {
+        "en": "Autumn",
+        "as": "শৰৎকাল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Miyan ki Malhar is a monsoon raga.",
+      "as": "মিয়াঁ কি মলহাৰ বৰ্ষাকালৰ ৰাগ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-104",
+    "q": {
+      "en": "The 'Sitar' is a stringed instrument mainly used in:",
+      "as": "'সেতাৰ' কিয় সংগীতত মূলতঃ ব্যৱহৃত তাঁৰযুক্ত বাদ্য?"
+    },
+    "options": [
+      {
+        "en": "Carnatic music",
+        "as": "কৰ্ণাটকী সংগীত"
+      },
+      {
+        "en": "Hindustani music",
+        "as": "হিন্দুস্তানী সংগীত"
+      },
+      {
+        "en": "Folk music",
+        "as": "লোক সংগীত"
+      },
+      {
+        "en": "Western music",
+        "as": "পাশ্চাত্য সংগীত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The sitar is mainly used in Hindustani music.",
+      "as": "সেতাৰ মূলতঃ হিন্দুস্তানী সংগীতত ব্যৱহৃত হয়।"
+    }
+  }
+]

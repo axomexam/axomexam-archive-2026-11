@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-257",
+    "q": {
+      "en": "The 'Mathura' school of sculpture is known for its:",
+      "as": "'মথুৰা' ভাস্কৰ্য বিদ্যালয় কিয়ৰ বাবে জনাজাত?"
+    },
+    "options": [
+      {
+        "en": "Greek influence",
+        "as": "গ্ৰীক প্ৰভাৱ"
+      },
+      {
+        "en": "Indigenous Indian style",
+        "as": "স্বদেশী ভাৰতীয় শৈলী"
+      },
+      {
+        "en": "Persian influence",
+        "as": "পাৰ্চী প্ৰভাৱ"
+      },
+      {
+        "en": "Chinese influence",
+        "as": "চীনা প্ৰভাৱ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Mathura school is known for its indigenous Indian style.",
+      "as": "মথুৰা বিদ্যালয় ইয়াৰ স্বদেশী ভাৰতীয় শৈলীৰ বাবে জনাজাত।"
+    }
+  }
+]

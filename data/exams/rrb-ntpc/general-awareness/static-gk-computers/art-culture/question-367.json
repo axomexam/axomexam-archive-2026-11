@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-367",
+    "q": {
+      "en": "The 'Chikankari' embroidery tradition is associated with:",
+      "as": "'চিকনকাৰী' কাঢ়ন পৰম্পৰা কিয় নগৰৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Jaipur",
+        "as": "জয়পুৰ"
+      },
+      {
+        "en": "Lucknow",
+        "as": "লখনৌ"
+      },
+      {
+        "en": "Hyderabad",
+        "as": "হাইদৰাবাদ"
+      },
+      {
+        "en": "Bhopal",
+        "as": "ভোপাল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Chikankari embroidery is associated with Lucknow.",
+      "as": "চিকনকাৰী কাঢ়ন লখনৌৰ সৈতে জড়িত।"
+    }
+  }
+]

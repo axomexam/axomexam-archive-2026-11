@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-390",
+    "q": {
+      "en": "The Bihu festival is associated with the State of:",
+      "as": "বিহু উৎসৱ কিয় ৰাজ্যৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bihu is the chief festival of Assam.",
+      "as": "বিহু অসমৰ প্ৰধান উৎসৱ।"
+    }
+  }
+]

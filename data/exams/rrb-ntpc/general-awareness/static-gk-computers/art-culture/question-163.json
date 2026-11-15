@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-163",
+    "q": {
+      "en": "The 'Tansen Samaroh' is a famous music festival held in:",
+      "as": "'তানসেন সন্মেলন' ক'ত অনুষ্ঠিত হোৱা বিখ্যাত সংগীত মহোৎসৱ?"
+    },
+    "options": [
+      {
+        "en": "Lucknow",
+        "as": "লখনৌ"
+      },
+      {
+        "en": "Jaipur",
+        "as": "জয়পুৰ"
+      },
+      {
+        "en": "Gwalior",
+        "as": "গোৱালিয়ৰ"
+      },
+      {
+        "en": "Varanasi",
+        "as": "বাৰাণসী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Tansen Samaroh is held in Gwalior.",
+      "as": "তানসেন সন্মেলন গোৱালিয়ৰত অনুষ্ঠিত হয়।"
+    }
+  }
+]

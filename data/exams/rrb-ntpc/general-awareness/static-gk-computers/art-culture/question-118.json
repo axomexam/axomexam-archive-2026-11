@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-118",
+    "q": {
+      "en": "The 'Shehnai' is a wind instrument traditionally played at:",
+      "as": "'চেহনাই' কিয় উপলক্ষত পৰম্পৰাগতভাৱে বজোৱা বতাহৰ বাদ্য?"
+    },
+    "options": [
+      {
+        "en": "Auspicious ceremonies",
+        "as": "মঙ্গলময় অনুষ্ঠান"
+      },
+      {
+        "en": "Funerals",
+        "as": "মৃত্যুৰ অনুষ্ঠান"
+      },
+      {
+        "en": "Sports events",
+        "as": "ক্ৰীড়া অনুষ্ঠান"
+      },
+      {
+        "en": "War",
+        "as": "যুদ্ধ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The shehnai is played at auspicious ceremonies.",
+      "as": "চেহনাই মঙ্গলময় অনুষ্ঠানত বজোৱা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-287",
+    "q": {
+      "en": "The 'Western Ghats' is a UNESCO World Heritage Site that runs along the:",
+      "as": "'পশ্চিম ঘাট' ইউনেস্ক' বিশ্ব ঐতিহ্য স্থান কিয় দিশত বিস্তৃত?"
+    },
+    "options": [
+      {
+        "en": "Western coast of India",
+        "as": "ভাৰতৰ পশ্চিম উপকূল"
+      },
+      {
+        "en": "Eastern coast of India",
+        "as": "ভাৰতৰ পূব উপকূল"
+      },
+      {
+        "en": "Northern plains",
+        "as": "উত্তৰ সমভূমি"
+      },
+      {
+        "en": "Deccan plateau only",
+        "as": "কেৱল দাক্ষিণাত্য মালভূমি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Western Ghats run along the western coast of India.",
+      "as": "পশ্চিম ঘাট ভাৰতৰ পশ্চিম উপকূলত বিস্তৃত।"
+    }
+  }
+]

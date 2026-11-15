@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-229",
+    "q": {
+      "en": "The Gateway of India stands in:",
+      "as": "ইণ্ডিয়া গেট ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Delhi",
+        "as": "দিল্লী"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Goa",
+        "as": "গোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Gateway of India is in Mumbai.",
+      "as": "ইণ্ডিয়া গেট মুম্বাইত অৱস্থিত।"
+    }
+  }
+]

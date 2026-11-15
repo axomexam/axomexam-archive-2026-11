@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-062",
+    "q": {
+      "en": "Odissi dance is characterised by the 'tribhangi' posture, which involves:",
+      "as": "ওড়িছী নৃত্য 'ত্ৰিভঙ্গী' ভঙ্গিমাৰ দ্বাৰা বৈশিষ্ট্যপূৰ্ণ, য'ত আছে:"
+    },
+    "options": [
+      {
+        "en": "Two bends",
+        "as": "দুটা বেঁকা"
+      },
+      {
+        "en": "Three bends of the body",
+        "as": "শৰীৰৰ তিনিটা বেঁকা"
+      },
+      {
+        "en": "Straight posture",
+        "as": "সোজা ভঙ্গিমা"
+      },
+      {
+        "en": "Seated posture",
+        "as": "বহা ভঙ্গিমা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Tribhangi involves bending the body at three places.",
+      "as": "ত্ৰিভঙ্গীত শৰীৰ তিনিটা ঠাইত বেঁকা কৰা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-295",
+    "q": {
+      "en": "The 'Mahabalipuram' is also known as:",
+      "as": "'মহাবলীপুৰম'ক আৰু কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Madurai",
+        "as": "মাদুৰাই"
+      },
+      {
+        "en": "Kanchipuram",
+        "as": "কাঞ্চীপুৰম"
+      },
+      {
+        "en": "Mamallapuram",
+        "as": "মামল্লপুৰম"
+      },
+      {
+        "en": "Thanjavur",
+        "as": "তাঞ্জাবুৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mahabalipuram is also known as Mamallapuram.",
+      "as": "মহাবলীপুৰমক মামল্লপুৰমও বোলা হয়।"
+    }
+  }
+]

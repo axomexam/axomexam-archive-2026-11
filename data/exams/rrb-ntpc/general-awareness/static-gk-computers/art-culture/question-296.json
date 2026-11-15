@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-296",
+    "q": {
+      "en": "The 'Pancha Rathas' at Mahabalipuram are examples of:",
+      "as": "মহাবলীপুৰমৰ 'পঞ্চ ৰথ' কিয়ৰ উদাহৰণ?"
+    },
+    "options": [
+      {
+        "en": "Brick architecture",
+        "as": "ইটাৰ স্থাপত্য"
+      },
+      {
+        "en": "Marble architecture",
+        "as": "মাৰ্বল স্থাপত্য"
+      },
+      {
+        "en": "Monolithic rock-cut architecture",
+        "as": "একশিলা শিলা-কটা স্থাপত্য"
+      },
+      {
+        "en": "Wooden architecture",
+        "as": "কাঠৰ স্থাপত্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Pancha Rathas are monolithic rock-cut structures.",
+      "as": "পঞ্চ ৰথ একশিলা শিলা-কটা গঠন।"
+    }
+  }
+]

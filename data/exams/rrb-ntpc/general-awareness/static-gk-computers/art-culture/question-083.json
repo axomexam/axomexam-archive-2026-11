@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-083",
+    "q": {
+      "en": "Hindustani classical music is mainly prevalent in:",
+      "as": "হিন্দুস্তানী শাস্ত্ৰীয় সংগীত মূলতঃ ক'ত প্ৰচলিত?"
+    },
+    "options": [
+      {
+        "en": "North India",
+        "as": "উত্তৰ ভাৰত"
+      },
+      {
+        "en": "South India",
+        "as": "দক্ষিণ ভাৰত"
+      },
+      {
+        "en": "North-East India",
+        "as": "উত্তৰ-পূব ভাৰত"
+      },
+      {
+        "en": "Western India only",
+        "as": "কেৱল পশ্চিম ভাৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hindustani music is prevalent in North India.",
+      "as": "হিন্দুস্তানী সংগীত উত্তৰ ভাৰতত প্ৰচলিত।"
+    }
+  }
+]

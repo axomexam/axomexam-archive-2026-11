@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-383",
+    "q": {
+      "en": "The 'Salar Jung Museum', known for its art collection, is located in:",
+      "as": "কলা সংগ্ৰহৰ বাবে জনাজাত 'ছালাৰ জং সংগ্ৰহালয়' ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Hyderabad",
+        "as": "হাইদৰাবাদ"
+      },
+      {
+        "en": "Mysore",
+        "as": "মহীশূৰ"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      },
+      {
+        "en": "Bangalore",
+        "as": "বাংগালুৰু"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Salar Jung Museum is in Hyderabad.",
+      "as": "ছালাৰ জং সংগ্ৰহালয় হাইদৰাবাদত অৱস্থিত।"
+    }
+  }
+]

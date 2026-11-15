@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-041",
+    "q": {
+      "en": "Rouf, a folk dance performed by women, is associated with:",
+      "as": "মহিলাসকলে পৰিৱেশন কৰা লোক নৃত্য ৰৌফ কিয় ৰাজ্যৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাব"
+      },
+      {
+        "en": "Himachal Pradesh",
+        "as": "হিমাচল প্ৰদেশ"
+      },
+      {
+        "en": "Uttarakhand",
+        "as": "উত্তৰাখণ্ড"
+      },
+      {
+        "en": "Jammu and Kashmir",
+        "as": "জম্মু-কাশ্মীৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Rouf is a folk dance of Jammu and Kashmir.",
+      "as": "ৰৌফ জম্মু-কাশ্মীৰৰ লোক নৃত্য।"
+    }
+  }
+]

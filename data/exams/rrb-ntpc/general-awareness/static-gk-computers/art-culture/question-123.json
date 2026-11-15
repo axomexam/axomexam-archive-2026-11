@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-123",
+    "q": {
+      "en": "The 'Tabla' consists of two drums, the smaller called the:",
+      "as": "'তবলা'ত দুটা ঢোল থাকে, সৰুটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Dayan",
+        "as": "দায়াঁ"
+      },
+      {
+        "en": "Bayan",
+        "as": "বায়াঁ"
+      },
+      {
+        "en": "Dholak",
+        "as": "ঢোলক"
+      },
+      {
+        "en": "Mridang",
+        "as": "মৃদংগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The smaller right-hand drum is the dayan and the larger is the bayan.",
+      "as": "সৰু সোঁহতীয়া ঢোলটো দায়াঁ আৰু ডাঙৰটো বায়াঁ।"
+    }
+  }
+]

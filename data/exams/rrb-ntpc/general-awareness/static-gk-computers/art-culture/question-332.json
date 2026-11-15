@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-332",
+    "q": {
+      "en": "The 'Hornbill Festival' is also known as the:",
+      "as": "'হৰ্ণবিল উৎসৱ'ক আৰু কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Festival of Lights",
+        "as": "পোহৰৰ উৎসৱ"
+      },
+      {
+        "en": "Festival of Colours",
+        "as": "ৰঙৰ উৎসৱ"
+      },
+      {
+        "en": "Festival of Festivals",
+        "as": "উৎসৱৰ উৎসৱ"
+      },
+      {
+        "en": "Harvest Festival",
+        "as": "শস্য চপোৱা উৎসৱ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Hornbill Festival is known as the Festival of Festivals.",
+      "as": "হৰ্ণবিল উৎসৱক উৎসৱৰ উৎসৱ বোলা হয়।"
+    }
+  }
+]

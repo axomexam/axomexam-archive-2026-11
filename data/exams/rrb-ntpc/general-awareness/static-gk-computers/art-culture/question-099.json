@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-099",
+    "q": {
+      "en": "The 'Thumri' is a light classical form of:",
+      "as": "'ঠুমৰী' কিয় লঘু শাস্ত্ৰীয় ৰূপ?"
+    },
+    "options": [
+      {
+        "en": "Carnatic music",
+        "as": "কৰ্ণাটকী সংগীত"
+      },
+      {
+        "en": "Folk music",
+        "as": "লোক সংগীত"
+      },
+      {
+        "en": "Devotional music",
+        "as": "ভক্তিমূলক সংগীত"
+      },
+      {
+        "en": "Hindustani music",
+        "as": "হিন্দুস্তানী সংগীত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Thumri is a light classical form of Hindustani music.",
+      "as": "ঠুমৰী হিন্দুস্তানী সংগীতৰ লঘু শাস্ত্ৰীয় ৰূপ।"
+    }
+  }
+]

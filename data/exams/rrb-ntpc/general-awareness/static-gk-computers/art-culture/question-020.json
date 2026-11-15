@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-020",
+    "q": {
+      "en": "Koodiyattam, a traditional Sanskrit theatre form of Kerala, is performed mainly in:",
+      "as": "কেৰালাৰ পৰম্পৰাগত সংস্কৃত নাট্য ৰূপ কুডিয়াট্টম মূলতঃ ক'ত পৰিৱেশন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Royal courts",
+        "as": "ৰাজদৰবাৰত"
+      },
+      {
+        "en": "Village squares",
+        "as": "গাঁৱৰ চ'কত"
+      },
+      {
+        "en": "Temples",
+        "as": "মন্দিৰত"
+      },
+      {
+        "en": "Market places",
+        "as": "বজাৰত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Koodiyattam is performed mainly in temples.",
+      "as": "কুডিয়াট্টম মূলতঃ মন্দিৰত পৰিৱেশন কৰা হয়।"
+    }
+  }
+]

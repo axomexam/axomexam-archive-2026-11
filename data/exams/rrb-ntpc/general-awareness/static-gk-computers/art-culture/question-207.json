@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-207",
+    "q": {
+      "en": "The Mahabodhi temple is located at:",
+      "as": "মহাবোধি মন্দিৰ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Sarnath",
+        "as": "সাৰনাথ"
+      },
+      {
+        "en": "Sanchi",
+        "as": "সাঁচী"
+      },
+      {
+        "en": "Bodh Gaya",
+        "as": "বোধ গয়া"
+      },
+      {
+        "en": "Kushinagar",
+        "as": "কুশীনগৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Mahabodhi temple is at Bodh Gaya in Bihar.",
+      "as": "মহাবোধি মন্দিৰ বিহাৰৰ বোধ গয়াত অৱস্থিত।"
+    }
+  }
+]

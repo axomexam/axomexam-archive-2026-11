@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-343",
+    "q": {
+      "en": "The 'Maha Shivaratri' festival is dedicated to:",
+      "as": "'মহা শিৱৰাত্ৰি' উৎসৱ কিলৈ সমৰ্পিত?"
+    },
+    "options": [
+      {
+        "en": "Lord Vishnu",
+        "as": "ভগৱান বিষ্ণু"
+      },
+      {
+        "en": "Lord Rama",
+        "as": "ভগৱান ৰাম"
+      },
+      {
+        "en": "Lord Krishna",
+        "as": "ভগৱান কৃষ্ণ"
+      },
+      {
+        "en": "Lord Shiva",
+        "as": "ভগৱান শিৱ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Maha Shivaratri is dedicated to Lord Shiva.",
+      "as": "মহা শিৱৰাত্ৰি ভগৱান শিৱলৈ সমৰ্পিত।"
+    }
+  }
+]

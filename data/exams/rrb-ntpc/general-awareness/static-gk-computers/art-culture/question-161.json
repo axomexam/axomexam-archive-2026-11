@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-161",
+    "q": {
+      "en": "The 'Saptak' in Indian music refers to a:",
+      "as": "ভাৰতীয় সংগীতত 'সপ্তক'ই কিক বুজায়?"
+    },
+    "options": [
+      {
+        "en": "Seven talas",
+        "as": "সাতটা তাল"
+      },
+      {
+        "en": "Seven ragas",
+        "as": "সাতটা ৰাগ"
+      },
+      {
+        "en": "Seven instruments",
+        "as": "সাতটা বাদ্য"
+      },
+      {
+        "en": "Range of seven notes or an octave",
+        "as": "সাতটা স্বৰৰ পৰিসৰ বা এটা সপ্তক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A saptak is a group of seven notes, or an octave.",
+      "as": "সপ্তক হ'ল সাতটা স্বৰৰ গোট বা এটা অষ্টক।"
+    }
+  }
+]

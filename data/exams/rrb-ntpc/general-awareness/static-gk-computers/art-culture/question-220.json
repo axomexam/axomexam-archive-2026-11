@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-220",
+    "q": {
+      "en": "The 'Great Bath' was found at the Indus Valley site of:",
+      "as": "'মহান স্নানাগাৰ' সিন্ধু উপত্যকাৰ কিয় স্থানত পোৱা গৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Harappa",
+        "as": "হৰপ্পা"
+      },
+      {
+        "en": "Lothal",
+        "as": "লোথাল"
+      },
+      {
+        "en": "Mohenjo-daro",
+        "as": "মহেঞ্জোদাৰো"
+      },
+      {
+        "en": "Kalibangan",
+        "as": "কালিবঙ্গন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mohenjo-daro yielded the Great Bath.",
+      "as": "মহান স্নানাগাৰ মহেঞ্জোদাৰোত পোৱা গৈছিল।"
+    }
+  }
+]

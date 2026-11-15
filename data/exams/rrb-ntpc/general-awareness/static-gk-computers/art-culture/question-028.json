@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-028",
+    "q": {
+      "en": "Garba, a popular folk dance performed during Navratri, belongs to:",
+      "as": "নৱৰাত্ৰিত পৰিৱেশন কৰা জনপ্ৰিয় লোক নৃত্য গৰবা কিয় ৰাজ্যৰ:"
+    },
+    "options": [
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Garba is a folk dance of Gujarat.",
+      "as": "গৰবা গুজৰাটৰ লোক নৃত্য।"
+    }
+  }
+]

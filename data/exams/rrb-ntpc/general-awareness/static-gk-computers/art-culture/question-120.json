@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-120",
+    "q": {
+      "en": "The 'Ghatam' is a percussion instrument made of:",
+      "as": "'ঘটম' কিয়ৰে নিৰ্মিত তালবাদ্য?"
+    },
+    "options": [
+      {
+        "en": "Clay",
+        "as": "মাটি"
+      },
+      {
+        "en": "Wood",
+        "as": "কাঠ"
+      },
+      {
+        "en": "Metal",
+        "as": "ধাতু"
+      },
+      {
+        "en": "Leather",
+        "as": "চামৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ghatam is a clay pot percussion instrument of Carnatic music.",
+      "as": "ঘটম কৰ্ণাটকী সংগীতৰ মাটিৰ কলহেৰে নিৰ্মিত তালবাদ্য।"
+    }
+  }
+]

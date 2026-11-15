@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-211",
+    "q": {
+      "en": "The 'Gopuram' is a characteristic feature of temples in:",
+      "as": "'গোপুৰম' কিয় অঞ্চলৰ মন্দিৰৰ বৈশিষ্ট্যপূৰ্ণ অংগ?"
+    },
+    "options": [
+      {
+        "en": "North India",
+        "as": "উত্তৰ ভাৰত"
+      },
+      {
+        "en": "East India",
+        "as": "পূব ভাৰত"
+      },
+      {
+        "en": "West India",
+        "as": "পশ্চিম ভাৰত"
+      },
+      {
+        "en": "South India",
+        "as": "দক্ষিণ ভাৰত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Gopurams are monumental gateways typical of South Indian temples.",
+      "as": "গোপুৰম দক্ষিণ ভাৰতীয় মন্দিৰৰ বৈশিষ্ট্যপূৰ্ণ বিশাল দ্বাৰপথ।"
+    }
+  }
+]

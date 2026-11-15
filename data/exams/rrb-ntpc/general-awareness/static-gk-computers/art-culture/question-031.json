@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-031",
+    "q": {
+      "en": "Bihu, the most important folk dance of Assam, is performed during the:",
+      "as": "অসমৰ আটাইতকৈ গুৰুত্বপূৰ্ণ লোক নৃত্য বিহু কেতিয়া পৰিৱেশন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Holi",
+        "as": "হোলী"
+      },
+      {
+        "en": "Diwali",
+        "as": "দীপাৱলী"
+      },
+      {
+        "en": "Bihu festival",
+        "as": "বিহু উৎসৱ"
+      },
+      {
+        "en": "Pongal",
+        "as": "পোংগল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bihu dance is performed during the Bihu festival of Assam.",
+      "as": "বিহু নৃত্য অসমৰ বিহু উৎসৱত পৰিৱেশন কৰা হয়।"
+    }
+  }
+]

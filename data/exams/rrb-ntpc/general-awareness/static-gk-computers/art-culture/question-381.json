@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-381",
+    "q": {
+      "en": "The 'National School of Drama' is located in:",
+      "as": "'ৰাষ্ট্ৰীয় নাট্য বিদ্যালয়' ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The National School of Drama is in New Delhi.",
+      "as": "ৰাষ্ট্ৰীয় নাট্য বিদ্যালয় নতুন দিল্লীত অৱস্থিত।"
+    }
+  }
+]

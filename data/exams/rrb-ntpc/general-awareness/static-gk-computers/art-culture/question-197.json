@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-197",
+    "q": {
+      "en": "The Vitthala temple with its stone chariot is located at:",
+      "as": "শিলৰ ৰথসহ বিত্তল মন্দিৰ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Badami",
+        "as": "বদামী"
+      },
+      {
+        "en": "Pattadakal",
+        "as": "পট্টদকল"
+      },
+      {
+        "en": "Belur",
+        "as": "বেলুৰ"
+      },
+      {
+        "en": "Hampi",
+        "as": "হাম্পি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Vitthala temple with its stone chariot is at Hampi.",
+      "as": "শিলৰ ৰথসহ বিত্তল মন্দিৰ হাম্পিত অৱস্থিত।"
+    }
+  }
+]

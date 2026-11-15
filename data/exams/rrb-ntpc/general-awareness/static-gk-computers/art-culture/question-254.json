@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-254",
+    "q": {
+      "en": "The 'Didarganj Yakshi' is a famous sculpture from the:",
+      "as": "'দিদাৰগঞ্জ যক্ষী' কিয় যুগৰ বিখ্যাত ভাস্কৰ্য?"
+    },
+    "options": [
+      {
+        "en": "Gupta period",
+        "as": "গুপ্ত যুগ"
+      },
+      {
+        "en": "Chola period",
+        "as": "চোল যুগ"
+      },
+      {
+        "en": "Mughal period",
+        "as": "মোগল যুগ"
+      },
+      {
+        "en": "Maurya period",
+        "as": "মৌৰ্য যুগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Didarganj Yakshi is a famous Mauryan sculpture.",
+      "as": "দিদারগঞ্জ যক্ষী এটা বিখ্যাত মৌৰ্য ভাস্কৰ্য।"
+    }
+  }
+]

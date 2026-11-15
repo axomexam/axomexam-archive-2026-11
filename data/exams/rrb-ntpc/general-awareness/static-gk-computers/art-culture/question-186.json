@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-186",
+    "q": {
+      "en": "The Khajuraho temples were built by the:",
+      "as": "খজুৰাহো মন্দিৰবোৰ কিয় দ্বাৰা নিৰ্মিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Pallava dynasty",
+        "as": "পল্লৱ ৰাজবংশ"
+      },
+      {
+        "en": "Chandela dynasty",
+        "as": "চণ্ডেল ৰাজবংশ"
+      },
+      {
+        "en": "Chola dynasty",
+        "as": "চোল ৰাজবংশ"
+      },
+      {
+        "en": "Solanki dynasty",
+        "as": "সোলাংকি ৰাজবংশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Chandelas built the Khajuraho temples.",
+      "as": "খজুৰাহো মন্দিৰবোৰ চণ্ডেল ৰাজবংশই নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

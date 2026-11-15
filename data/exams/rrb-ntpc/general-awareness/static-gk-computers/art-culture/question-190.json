@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-190",
+    "q": {
+      "en": "In which town does the Jagannath temple stand?",
+      "as": "জগন্নাথ মন্দিৰ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Konark",
+        "as": "কোণাৰ্ক"
+      },
+      {
+        "en": "Puri",
+        "as": "পুৰী"
+      },
+      {
+        "en": "Bhubaneswar",
+        "as": "ভুৱনেশ্বৰ"
+      },
+      {
+        "en": "Cuttack",
+        "as": "কটক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Jagannath temple is at Puri in Odisha.",
+      "as": "জগন্নাথ মন্দিৰ ওড়িশাৰ পুৰীত অৱস্থিত।"
+    }
+  }
+]

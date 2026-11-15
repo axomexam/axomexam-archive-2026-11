@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-384",
+    "q": {
+      "en": "The 'Indian Museum', the oldest museum in India, is located in:",
+      "as": "ভাৰতৰ আটাইতকৈ পুৰণি সংগ্ৰহালয় 'ইণ্ডিয়ান মিউজিয়াম' ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Delhi",
+        "as": "দিল্লী"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Indian Museum is in Kolkata.",
+      "as": "ইণ্ডিয়ান মিউজিয়াম কলকাতাত অৱস্থিত।"
+    }
+  }
+]

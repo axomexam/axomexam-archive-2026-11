@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-003",
+    "q": {
+      "en": "Kathakali, known for its elaborate make-up and costumes, is the classical dance-drama of:",
+      "as": "বিস্তৃত সাজ-পাৰ আৰু সাজসজ্জাৰ বাবে জনাজাত কথাকলি কিয় ৰাজ্যৰ শাস্ত্ৰীয় নৃত্য-নাট্য?"
+    },
+    "options": [
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Manipur",
+        "as": "মণিপুৰ"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Kathakali is the dance-drama of Kerala.",
+      "as": "কথাকলি কেৰালাৰ নৃত্য-নাট্য।"
+    }
+  }
+]

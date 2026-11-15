@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-032",
+    "q": {
+      "en": "Sattriya dance is performed mainly in:",
+      "as": "সত্ৰীয়া নৃত্য মূলতঃ ক'ত পৰিৱেশন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Royal courts",
+        "as": "ৰাজদৰবাৰত"
+      },
+      {
+        "en": "Sattras or monasteries of Assam",
+        "as": "অসমৰ সত্ৰ বা মঠত"
+      },
+      {
+        "en": "Village markets",
+        "as": "গাঁৱৰ বজাৰত"
+      },
+      {
+        "en": "Temples of Kerala",
+        "as": "কেৰালাৰ মন্দিৰত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Sattriya is performed mainly in the sattras of Assam.",
+      "as": "সত্ৰীয়া মূলতঃ অসমৰ সত্ৰবোৰত পৰিৱেশন কৰা হয়।"
+    }
+  }
+]

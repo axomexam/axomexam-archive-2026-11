@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-002",
+    "q": {
+      "en": "Bharatanatyam, the oldest classical dance form of India, belongs to:",
+      "as": "ভাৰতৰ আটাইতকৈ পুৰণি শাস্ত্ৰীয় নৃত্য ভৰতনাট্যম কিয় ৰাজ্যৰ:"
+    },
+    "options": [
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bharatanatyam is the classical dance of Tamil Nadu.",
+      "as": "ভৰতনাট্যম তামিলনাডুৰ শাস্ত্ৰীয় নৃত্য।"
+    }
+  }
+]

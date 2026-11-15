@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-345",
+    "q": {
+      "en": "The 'Rama Navami' festival celebrates the birth of:",
+      "as": "'ৰাম নৱমী' উৎসৱ কিয় জন্ম উদযাপন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Lord Krishna",
+        "as": "ভগৱান কৃষ্ণ"
+      },
+      {
+        "en": "Lord Shiva",
+        "as": "ভগৱান শিৱ"
+      },
+      {
+        "en": "Lord Rama",
+        "as": "ভগৱান ৰাম"
+      },
+      {
+        "en": "Lord Hanuman",
+        "as": "ভগৱান হনুমান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rama Navami celebrates the birth of Lord Rama.",
+      "as": "ৰাম নৱমীয়ে ভগৱান ৰামৰ জন্ম উদযাপন কৰে।"
+    }
+  }
+]

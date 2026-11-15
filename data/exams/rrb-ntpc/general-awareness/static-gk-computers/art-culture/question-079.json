@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-079",
+    "q": {
+      "en": "The 'Bihu' dance of Assam is performed by dancers who move in:",
+      "as": "অসমৰ 'বিহু' নৃত্যত নৃত্যশিল্পীসকলে কিয় ধৰণে গতি কৰে?"
+    },
+    "options": [
+      {
+        "en": "Straight lines only",
+        "as": "কেৱল সোজা ৰেখাত"
+      },
+      {
+        "en": "Single file",
+        "as": "এক শাৰীত"
+      },
+      {
+        "en": "Randomly",
+        "as": "এলাগেধাৰাকৈ"
+      },
+      {
+        "en": "Rows or circles",
+        "as": "শাৰী বা বৃত্তত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bihu dancers perform in rows or circles.",
+      "as": "বিহু নৃত্যশিল্পীসকলে শাৰী বা বৃত্তত পৰিৱেশন কৰে।"
+    }
+  }
+]

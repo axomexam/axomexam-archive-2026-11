@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-318",
+    "q": {
+      "en": "The Kamakhya temple stands in:",
+      "as": "'কামাখ্যা মন্দিৰ' ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Dispur",
+        "as": "দিছপুৰ"
+      },
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাট"
+      },
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Kamakhya temple is in Guwahati, Assam.",
+      "as": "কামাখ্যা মন্দিৰ অসমৰ গুৱাহাটীত অৱস্থিত।"
+    }
+  }
+]

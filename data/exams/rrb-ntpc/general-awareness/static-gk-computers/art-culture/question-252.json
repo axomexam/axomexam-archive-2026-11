@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-252",
+    "q": {
+      "en": "The 'Chola' bronze sculptures are famous for images of:",
+      "as": "'চোল' ব্ৰঞ্জৰ ভাস্কৰ্য কিয় প্ৰতিমাৰ বাবে বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "Lord Vishnu",
+        "as": "ভগৱান বিষ্ণু"
+      },
+      {
+        "en": "Lord Buddha",
+        "as": "ভগৱান বুদ্ধ"
+      },
+      {
+        "en": "Lord Mahavira",
+        "as": "ভগৱান মহাবীৰ"
+      },
+      {
+        "en": "Lord Shiva as Nataraja",
+        "as": "নটৰাজ ৰূপত ভগৱান শিৱ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Chola bronzes are famous for images of Shiva as Nataraja.",
+      "as": "চোল ব্ৰঞ্জৰ ভাস্কৰ্য নটৰাজ ৰূপত শিৱৰ প্ৰতিমাৰ বাবে বিখ্যাত।"
+    }
+  }
+]

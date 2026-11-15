@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-196",
+    "q": {
+      "en": "Hampi was the capital of the:",
+      "as": "হাম্পি কিয় সাম্ৰাজ্যৰ ৰাজধানী আছিল?"
+    },
+    "options": [
+      {
+        "en": "Maurya empire",
+        "as": "মৌৰ্য সাম্ৰাজ্য"
+      },
+      {
+        "en": "Vijayanagara empire",
+        "as": "বিজয়নগৰ সাম্ৰাজ্য"
+      },
+      {
+        "en": "Mughal empire",
+        "as": "মোগল সাম্ৰাজ্য"
+      },
+      {
+        "en": "Maratha empire",
+        "as": "মাৰাঠা সাম্ৰাজ্য"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Hampi was the capital of the Vijayanagara empire.",
+      "as": "হাম্পি বিজয়নগৰ সাম্ৰাজ্যৰ ৰাজধানী আছিল।"
+    }
+  }
+]

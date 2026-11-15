@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-184",
+    "q": {
+      "en": "The Mahabalipuram monuments were built by the:",
+      "as": "মহাবলীপুৰমৰ স্মৃতিসৌধবোৰ কিয় দ্বাৰা নিৰ্মিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Chola dynasty",
+        "as": "চোল ৰাজবংশ"
+      },
+      {
+        "en": "Pallava dynasty",
+        "as": "পল্লৱ ৰাজবংশ"
+      },
+      {
+        "en": "Maurya dynasty",
+        "as": "মৌৰ্য ৰাজবংশ"
+      },
+      {
+        "en": "Gupta dynasty",
+        "as": "গুপ্ত ৰাজবংশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Pallavas are credited with the Mahabalipuram monuments.",
+      "as": "মহাবলীপুৰমৰ স্মৃতিসৌধবোৰ পল্লৱসকলে নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

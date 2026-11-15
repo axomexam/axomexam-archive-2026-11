@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-168",
+    "q": {
+      "en": "Meera Bai's devotional songs are dedicated to:",
+      "as": "মীৰা বাঈৰ ভক্তিমূলক গীত কিলৈ সমৰ্পিত?"
+    },
+    "options": [
+      {
+        "en": "Shiva",
+        "as": "শিৱ"
+      },
+      {
+        "en": "Rama",
+        "as": "ৰাম"
+      },
+      {
+        "en": "Durga",
+        "as": "দুৰ্গা"
+      },
+      {
+        "en": "Krishna",
+        "as": "কৃষ্ণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Meera Bai's songs are dedicated to Lord Krishna.",
+      "as": "মীৰা বাঈৰ গীত ভগৱান কৃষ্ণলৈ সমৰ্পিত।"
+    }
+  }
+]

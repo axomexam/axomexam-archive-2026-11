@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-244",
+    "q": {
+      "en": "The 'Kalamkari' painting tradition is associated with:",
+      "as": "'কলমকাৰী' চিত্ৰকলা পৰম্পৰা কিয় ৰাজ্যৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Kalamkari is a traditional art of Andhra Pradesh.",
+      "as": "কলমকাৰী অন্ধ্ৰ প্ৰদেশৰ পৰম্পৰাগত কলা।"
+    }
+  }
+]

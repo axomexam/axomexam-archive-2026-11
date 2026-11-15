@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-348",
+    "q": {
+      "en": "The 'Vishwakarma Puja' is dedicated to the god of:",
+      "as": "'বিশ্বকৰ্মা পূজা' কিয় দেৱতালৈ সমৰ্পিত?"
+    },
+    "options": [
+      {
+        "en": "Wealth",
+        "as": "সম্পদ"
+      },
+      {
+        "en": "Architecture and crafts",
+        "as": "স্থাপত্য আৰু শিল্প"
+      },
+      {
+        "en": "Learning",
+        "as": "শিক্ষা"
+      },
+      {
+        "en": "War",
+        "as": "যুদ্ধ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vishwakarma Puja is dedicated to the divine architect Vishwakarma.",
+      "as": "বিশ্বকৰ্মা পূজা দেৱ স্থপতি বিশ্বকৰ্মালৈ সমৰ্পিত।"
+    }
+  }
+]

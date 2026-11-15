@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-350",
+    "q": {
+      "en": "The 'Chhath Puja' involves offerings to the setting and rising:",
+      "as": "'ছট পূজা'ত অস্তমিত আৰু উদয় হোৱা কিলৈ নৈবেদ্য দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Moon",
+        "as": "চন্দ্ৰ"
+      },
+      {
+        "en": "Stars",
+        "as": "তাৰা"
+      },
+      {
+        "en": "Sun",
+        "as": "সূৰ্য"
+      },
+      {
+        "en": "Fire",
+        "as": "জুই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Chhath Puja involves offerings to the setting and rising Sun.",
+      "as": "ছট পূজাত অস্তমিত আৰু উদয় হোৱা সূৰ্যলৈ নৈবেদ্য দিয়া হয়।"
+    }
+  }
+]

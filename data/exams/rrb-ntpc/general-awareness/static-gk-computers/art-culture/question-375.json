@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-375",
+    "q": {
+      "en": "The 'Sahitya Akademi Award' is given for excellence in:",
+      "as": "'সাহিত্য একাডেমী বঁটা' কিয়ত উৎকৃষ্টতাৰ বাবে দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Performing arts",
+        "as": "পৰিবেশন কলা"
+      },
+      {
+        "en": "Painting",
+        "as": "চিত্ৰকলা"
+      },
+      {
+        "en": "Literature",
+        "as": "সাহিত্য"
+      },
+      {
+        "en": "Music",
+        "as": "সংগীত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Sahitya Akademi Award is given for excellence in literature.",
+      "as": "সাহিত্য একাডেমী বঁটা সাহিত্যত উৎকৃষ্টতাৰ বাবে দিয়া হয়।"
+    }
+  }
+]

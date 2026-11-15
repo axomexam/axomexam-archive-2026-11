@@ -1,0 +1,32 @@
+[
+  {
+    "id": "art-culture-198",
+    "q": {
+      "en": "The cave temples of Badami, Aihole and Pattadakal are located in:",
+      "as": "বদামী, আইহ'লে আৰু পট্টদকলৰ গুহা মন্দিৰ কিয় ৰাজ্যত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Badami, Aihole and Pattadakal are in Karnataka.",
+      "as": "বদামী, আইহ'লে আৰু পট্টদকল কৰ্ণাটকত অৱস্থিত।"
+    }
+  }
+]
