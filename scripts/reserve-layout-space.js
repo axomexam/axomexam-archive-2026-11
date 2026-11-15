@@ -34,6 +34,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const { stripAdsense } = require("../tools/lib/strip-adsense");
 
 const SKIP_DIRS = new Set([".git", "node_modules", ".github", ".monkeycode-tmp-files"]);
 
@@ -78,7 +79,16 @@ function walk(dir, files) {
   return files;
 }
 
-function update(html) {
+function update(html, isAs) {
+  if (isAs) {
+    /* Assamese pages carry no AdSense (unsupported language). Run the shared
+       stripper so the /as/ output matches tools/build-as-twins.js exactly:
+       it removes the ad reservations from the layout-reserve block while
+       keeping the .main-nav rules, and is a no-op once the page is clean. */
+    const out = stripAdsense(html);
+    return { html: out, result: out === html ? "clean-as" : "updated" };
+  }
+
   const stripped = html.replace(NEW_BLOCK, "").replace(OLD_BLOCK, "");
   const hadBlock = stripped !== html;
 
@@ -99,12 +109,13 @@ function main() {
     : process.cwd();
   const files = walk(root, []);
 
-  const counts = { injected: 0, updated: 0, nohead: 0 };
+  const counts = { injected: 0, updated: 0, nohead: 0, "clean-as": 0 };
   const skipped = [];
 
   for (const file of files) {
     const before = fs.readFileSync(file, "utf8");
-    const { html, result } = update(before);
+    const isAs = path.relative(root, file).split(path.sep)[0] === "as";
+    const { html, result } = update(before, isAs);
     if (result === "nohead") {
       counts.nohead++;
       skipped.push(path.relative(root, file));
@@ -116,6 +127,7 @@ function main() {
 
   console.log(`Injected: ${counts.injected}`);
   console.log(`Updated: ${counts.updated}`);
+  console.log(`Clean (/as/): ${counts["clean-as"]}`);
   console.log(`Skipped (no <head>): ${counts.nohead}${skipped.length ? " " + skipped.join(", ") : ""}`);
   console.log(`Total pages: ${files.length}`);
 }

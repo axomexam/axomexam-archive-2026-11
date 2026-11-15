@@ -38,6 +38,10 @@ function walk(dir, files) {
 }
 
 function inject(file) {
+  /* Assamese pages never carry AdSense (unsupported language; see
+     tools/lib/strip-adsense.js), so the injector must not stamp them. */
+  if (path.relative(process.cwd(), file).split(path.sep)[0] === "as") return "skip-as";
+
   const html = fs.readFileSync(file, "utf8");
   if (html.includes(MARKER)) return "already";
 
@@ -55,7 +59,7 @@ const root = process.argv[2] && !process.argv[2].startsWith("--")
   : process.cwd();
 const files = walk(root, []);
 
-const counts = { injected: 0, already: 0, "would-inject": 0, nohead: 0 };
+const counts = { injected: 0, already: 0, "would-inject": 0, nohead: 0, "skip-as": 0 };
 const nohead = [];
 for (const file of files) {
   const r = inject(file);
@@ -67,6 +71,7 @@ console.log(`AdSense meta injector${CHECK ? " (check)" : ""}`);
 console.log(`  pages scanned     : ${files.length}`);
 console.log(`  injected          : ${counts.injected + counts["would-inject"]}`);
 console.log(`  already present   : ${counts.already}`);
+console.log(`  skipped (/as/)    : ${counts["skip-as"]}`);
 if (nohead.length) {
   console.log(`  no <head> tag     : ${nohead.length}`);
   for (const f of nohead) console.log(`    - ${path.relative(root, f)}`);

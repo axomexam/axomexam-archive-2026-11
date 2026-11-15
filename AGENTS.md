@@ -49,11 +49,34 @@ they outrank any cleanup, refactor or "nice to have" an agent might want to do.
 - **Never change the UI.** Markup, CSS classes, layout, spacing and the
   client-side render path stay as they are. A content or SEO fix must be
   invisible to a reader looking at the page.
+- **Every page opens with exactly one `<!DOCTYPE html>` / `<html lang="…">`.**
+  The exam-book builders borrow another book's page as "chrome": they copy its
+  head and re-emit the doctype themselves. `chrome()` in
+  `tools/lib/exam-book-pages.js` and `tools/build-adre-grade-3.js` must
+  therefore slice the borrowed head from `<head>`, **not** from byte 0 — taking
+  the whole prefix duplicated the doctype and `<html>` line once per book that
+  borrowed a leaf from another book (RRB NTPC reached three). If a page ever
+  shows a repeated leading doctype, fix the slice and run
+  `node tools/fix-duplicate-doctype.js` (idempotent) to repair the tree; it
+  keeps the first `<html lang>` so the `/as/` twins stay `lang="as"`.
 - **No ad code on the Assamese (`/as/`) pages.** Assamese is not a supported
-  AdSense language. `tools/build-as-twins.js` strips the loader; never add it
-  back to a `/as/` page. Only indexable English content pages carry the loader
-  (see the loader policy below). The Google Analytics tag (below) is a
-  separate thing and **does** go on every page, `/as/` included.
+  AdSense language, and Google's publisher policies forbid ad code on a page
+  whose content is primarily in an unsupported language. The `/as/` twin must
+  carry **no** AdSense trace, not just the loader: the
+  `google-adsense-account` ownership meta, the `pagead2.googlesyndication.com`
+  `dns-prefetch`, the `<!-- Google AdSense Script -->` comment, the
+  `adsbygoogle.js` loader, and the `ins.adsbygoogle` / `.google-auto-placed`
+  rules inside `<style id="axo-layout-reserve">` all come off. The `.main-nav`
+  rules in that same style block are **not** ads (they reserve the JS-built
+  desktop nav) and stay, so the Assamese page keeps its twin's layout-shift
+  behaviour. `tools/lib/strip-adsense.js` is the single source of truth for
+  this; `tools/build-as-twins.js` calls it on every rebuild, so a twin can
+  never re-acquire the footprint, and `scripts/inject-adsense-meta.js` skips
+  `/as/`. To clean the committed tree after changing the rule, run
+  `node tools/strip-adsense-from-as.js` (idempotent; a clean tree reports
+  `changed: 0`). Only indexable English content pages carry the loader. The
+  Google Analytics tag (below) is a separate thing and **does** go on every
+  page, `/as/` included.
 - **Every published page carries the Google Analytics tag — `/as/` too.**
   The site's GA4 measurement ID is `G-PBPXK2Q799`, in the `gtag.js` snippet
   at the top of `<head>` (marker `googletagmanager.com/gtag/js`). This is

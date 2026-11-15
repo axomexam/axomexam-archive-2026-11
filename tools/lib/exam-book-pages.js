@@ -78,7 +78,11 @@ function makeExamBookTools(opts) {
     const footerStart = leaf.indexOf("<!-- ===== Footer ===== -->");
     const guard = leaf.indexOf('<script data-axo-guard="1">');
     return {
-      head: leaf.slice(0, headEnd),
+      /* Slice from `<head>`, not from byte 0: the leaf starts with
+         `<!DOCTYPE html><html …>`, and pageShell() emits those itself, so
+         taking the whole prefix duplicated the doctype and <html> line once
+         per book that borrowed a leaf from another book. */
+      head: leaf.slice(leaf.indexOf("<head>"), headEnd),
       bodyOpenToMain: leaf.slice(bodyStart, leaf.indexOf('<main id="app"')),
       footer: leaf.slice(footerStart),
       guardScript: guard >= 0 ? leaf.slice(guard, leaf.indexOf("</script>", guard) + 9) : "",

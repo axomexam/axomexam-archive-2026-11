@@ -43,6 +43,7 @@ const path = require("path");
 const { createTranslator } = require("./lib/as-hub-strings");
 const { createPageDescTranslator, pageDescSpan } = require("./lib/as-page-desc");
 const { EXAM_BOOK_NAMES } = require("./lib/exam-book-names");
+const { stripAdsense } = require("./lib/strip-adsense");
 
 const ROOT = process.cwd();
 const BASE = "https://axomexam.in";
@@ -749,12 +750,12 @@ function buildTwin(enHTML, rel, head) {
   /* AdSense serves no ads for Assamese, which it does not list as a supported
      language, and Google's publisher policies forbid ad code on pages whose
      content is primarily in an unsupported language. The /as/ twin is
-     Assamese-primary, so drop the loader it inherited from the English page.
-     The English page keeps its own copy. */
-  out = out.replace(
-    /[ \t]*<script async src="https:\/\/pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js\?client=ca-pub-[0-9]+" crossorigin="anonymous"><\/script>\n/,
-    ""
-  );
+     Assamese-primary, so strip every AdSense trace it inherited from the
+     English page — the ownership meta, the googlesyndication dns-prefetch,
+     the AdSense comment, the loader, and the ad reservations in the
+     layout-reserve style (the .main-nav rules in that block are kept; they
+     are not ads). The English page keeps its own copy. */
+  out = stripAdsense(out);
 
   /* Assamese H1 */
   out = out.replace(/(<h1[^>]*>)[\s\S]*?(<\/h1>)/, `$1${escAttr(head.h1)}$2`);
