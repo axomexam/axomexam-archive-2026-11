@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-230",
+    "q": {
+      "en": "The main greenhouse gas responsible for global warming is:",
+      "as": "গোলকীয় উষ্ণতা বৃদ্ধিৰ বাবে দায়ী মূল সেউজ গৃহ গেছটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "By absorbing outgoing infrared radiation, carbon dioxide holds heat in the air and contributes most to global warming.",
+      "as": "কাৰ্বন ডাইঅক্সাইডে বায়ুমণ্ডলত তাপ আৱদ্ধ কৰে আৰু ই মূল সেউজ গৃহ গেছ।"
+    }
+  }
+]

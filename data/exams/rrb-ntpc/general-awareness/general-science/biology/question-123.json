@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-123",
+    "q": {
+      "en": "The causative agent of malaria is:",
+      "as": "মেলেৰিয়াৰ কাৰক হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Vibrio cholerae",
+        "as": "ভিব্ৰিঅ' কলেৰা"
+      },
+      {
+        "en": "Mycobacterium",
+        "as": "মাইক'বেক্টেৰিয়াম"
+      },
+      {
+        "en": "Plasmodium",
+        "as": "প্লাজম'ডিয়াম"
+      },
+      {
+        "en": "Wuchereria",
+        "as": "ৱুছেৰেৰিয়া"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Malaria is caused by the protozoan Plasmodium, transmitted by the female Anopheles mosquito.",
+      "as": "মেলেৰিয়া প্ৰ'ট'জ'ৱান প্লাজম'ডিয়ামে কৰে, যি এন'ফেলিছ মাইকী মহে সংক্ৰমিত কৰে।"
+    }
+  }
+]

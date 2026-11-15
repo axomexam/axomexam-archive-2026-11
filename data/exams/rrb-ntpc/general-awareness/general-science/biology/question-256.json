@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-256",
+    "q": {
+      "en": "Which of the following is a parasitic plant?",
+      "as": "তলৰ কোনটো পৰজীৱী উদ্ভিদ?"
+    },
+    "options": [
+      {
+        "en": "Rose",
+        "as": "গোলাপ"
+      },
+      {
+        "en": "Mango",
+        "as": "আম"
+      },
+      {
+        "en": "Cuscuta",
+        "as": "অকাশীলতা"
+      },
+      {
+        "en": "Neem",
+        "as": "নিম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Cuscuta or dodder is a leafless parasite that draws food from the host plant.",
+      "as": "অকাশীলতা পত্ৰহীন পৰজীৱী যি পোষক উদ্ভিদৰ পৰা খাদ্য লয়।"
+    }
+  }
+]

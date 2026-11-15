@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-291",
+    "q": {
+      "en": "The father of medicine is:",
+      "as": "চিকিৎসা বিজ্ঞানৰ জনক কোন?"
+    },
+    "options": [
+      {
+        "en": "Aristotle",
+        "as": "এৰিষ্ট'টল"
+      },
+      {
+        "en": "Galen",
+        "as": "গেলেন"
+      },
+      {
+        "en": "Hippocrates",
+        "as": "হিপ'ক্ৰেটিছ"
+      },
+      {
+        "en": "Charles Darwin",
+        "as": "চাৰ্লছ ডাৰউইন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Hippocrates, the ancient Greek physician, is called the father of medicine.",
+      "as": "প্ৰাচীন গ্ৰীক চিকিৎসক হিপ'ক্ৰেটিছক চিকিৎসা বিজ্ঞানৰ জনক বোলা হয়।"
+    }
+  }
+]

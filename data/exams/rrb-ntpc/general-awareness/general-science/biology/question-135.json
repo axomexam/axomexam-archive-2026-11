@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-135",
+    "q": {
+      "en": "In photosynthesis, plants absorb which gas from the air?",
+      "as": "সালোকসংশ্লেষণত উদ্ভিদে বায়ুৰ পৰা কোন গেছ শোষণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Plants take in carbon dioxide through stomata and release oxygen.",
+      "as": "উদ্ভিদে ৰন্ধ্ৰৰ জৰিয়তে কাৰ্বন ডাইঅক্সাইড লয় আৰু অক্সিজেন এৰি দিয়ে।"
+    }
+  }
+]

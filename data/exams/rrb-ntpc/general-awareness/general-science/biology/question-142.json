@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-142",
+    "q": {
+      "en": "The reproductive part of a flowering plant is the:",
+      "as": "ফুল ফুলা উদ্ভিদৰ প্ৰজনন অংগটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Leaf",
+        "as": "পাত"
+      },
+      {
+        "en": "Stem",
+        "as": "কাণ্ড"
+      },
+      {
+        "en": "Root",
+        "as": "শিপা"
+      },
+      {
+        "en": "Flower",
+        "as": "ফুল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The flower contains the male and female reproductive organs of the plant.",
+      "as": "ফুলত উদ্ভিদৰ পুং আৰু স্ত্ৰী প্ৰজনন অংগ থাকে।"
+    }
+  }
+]

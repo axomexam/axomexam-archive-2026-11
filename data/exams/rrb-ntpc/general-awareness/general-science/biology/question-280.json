@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-280",
+    "q": {
+      "en": "Kwashiorkor in children is caused by the deficiency of:",
+      "as": "শিশুৰ কুৱাছিঅ'ৰকৰ কিয়ৰ অভাৱত হয়?"
+    },
+    "options": [
+      {
+        "en": "Protein",
+        "as": "প্ৰ'টিন"
+      },
+      {
+        "en": "Iron",
+        "as": "লোণ"
+      },
+      {
+        "en": "Iodine",
+        "as": "আয়'ডিন"
+      },
+      {
+        "en": "Calcium",
+        "as": "কেলচিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kwashiorkor results from severe protein deficiency in the diet.",
+      "as": "কুৱাছিঅ'ৰকৰ খাদ্যত তীব্ৰ প্ৰ'টিন অভাৱৰ পৰা হয়।"
+    }
+  }
+]

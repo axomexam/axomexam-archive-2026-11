@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-053",
+    "q": {
+      "en": "Cell plate formation is characteristic of cell division in:",
+      "as": "কোষ প্লেট গঠন কিয় কোষ বিভাজনৰ বৈশিষ্ট্য?"
+    },
+    "options": [
+      {
+        "en": "Animal cells",
+        "as": "প্ৰাণী কোষ"
+      },
+      {
+        "en": "Bacterial cells",
+        "as": "বেক্টেৰিয়াৰ কোষ"
+      },
+      {
+        "en": "Plant cells",
+        "as": "উদ্ভিদ কোষ"
+      },
+      {
+        "en": "Viral cells",
+        "as": "ভাইৰাছ কোষ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Plant cells divide by forming a cell plate; animal cells form a cleavage furrow.",
+      "as": "উদ্ভিদ কোষে কোষ প্লেট গঠন কৰি বিভাজিত হয়; প্ৰাণী কোষে ক্লিভেজ খাঁজ গঠন কৰে।"
+    }
+  }
+]

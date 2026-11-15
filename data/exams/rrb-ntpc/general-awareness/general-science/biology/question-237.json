@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-237",
+    "q": {
+      "en": "Which of these wastes can be broken down by microorganisms?",
+      "as": "এইবোৰৰ কোনটো আৱৰ্জনা অণুজীৱই ভাঙিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Vegetable peels",
+        "as": "পাচলিৰ বাকলি"
+      },
+      {
+        "en": "Plastic bags",
+        "as": "প্লাষ্টিকৰ মোনা"
+      },
+      {
+        "en": "Glass bottles",
+        "as": "কাচৰ বটল"
+      },
+      {
+        "en": "Aluminium cans",
+        "as": "এলুমিনিয়ামৰ কেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vegetable peels are decomposed by microorganisms; plastics, glass and aluminium are not easily degraded.",
+      "as": "পাচলিৰ বাকলি অণুজীৱে বিয়োজন কৰে; প্লাষ্টিক, কাচ আৰু এলুমিনিয়াম সহজে নষ্ট নহয়।"
+    }
+  }
+]

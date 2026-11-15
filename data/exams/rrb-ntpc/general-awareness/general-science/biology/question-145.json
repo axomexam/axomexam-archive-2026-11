@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-145",
+    "q": {
+      "en": "The transfer of pollen grains from anther to stigma is called:",
+      "as": "পৰাগধানীৰ পৰা কলংকলৈ পৰাগ ৰেণু যোৱাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Fertilisation",
+        "as": "নিষেচন"
+      },
+      {
+        "en": "Pollination",
+        "as": "পৰাগযোগ"
+      },
+      {
+        "en": "Germination",
+        "as": "অংকুৰণ"
+      },
+      {
+        "en": "Transpiration",
+        "as": "বাষ্পীভৱন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Pollination is the transfer of pollen to the stigma, followed by fertilisation.",
+      "as": "পৰাগযোগ হ'ল কলংকলৈ পৰাগ যোৱা, যাৰ পিছত নিষেচন হয়।"
+    }
+  }
+]

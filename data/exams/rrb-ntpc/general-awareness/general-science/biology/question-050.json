@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-050",
+    "q": {
+      "en": "The instrument used to study cells is:",
+      "as": "কোষ অধ্যয়ন কৰিবলৈ ব্যৱহৃত যন্ত্ৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Microscope",
+        "as": "অণুবীক্ষণ যন্ত্ৰ"
+      },
+      {
+        "en": "Telescope",
+        "as": "দূৰবীক্ষণ যন্ত্ৰ"
+      },
+      {
+        "en": "Periscope",
+        "as": "পেৰিস্ক'প"
+      },
+      {
+        "en": "Stethoscope",
+        "as": "ষ্টেথ'স্ক'প"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cells are too small to be seen by the naked eye and are studied with a microscope.",
+      "as": "কোষবোৰ খালী চকুৰে দেখা নাযায়, অণুবীক্ষণ যন্ত্ৰৰে অধ্যয়ন কৰা হয়।"
+    }
+  }
+]

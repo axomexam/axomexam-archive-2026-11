@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-037",
+    "q": {
+      "en": "The idea that new cells arise from pre-existing cells was proposed by:",
+      "as": "নতুন কোষ আগৰ পৰা থকা কোষৰ পৰা হয়, এই ধাৰণাটো কোনে প্ৰস্তাৱ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Schwann",
+        "as": "শ্বান"
+      },
+      {
+        "en": "Hooke",
+        "as": "হুক"
+      },
+      {
+        "en": "Rudolf Virchow",
+        "as": "ৰুডলফ ভিৰ্চ'"
+      },
+      {
+        "en": "Pasteur",
+        "as": "পাস্তুৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Virchow (1855) added Omnis cellula e cellula to the cell theory.",
+      "as": "ভিৰ্চ'য়ে (১৮৫৫) কোষ তত্ত্বত Omnis cellula e cellula যোগ কৰিছিল।"
+    }
+  }
+]

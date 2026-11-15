@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-021",
+    "q": {
+      "en": "Chromosomes are made up of:",
+      "as": "ক্ৰ'ম'জ'ম কিৰে গঠিত?"
+    },
+    "options": [
+      {
+        "en": "Only RNA",
+        "as": "কেৱল RNA"
+      },
+      {
+        "en": "DNA and proteins",
+        "as": "DNA আৰু প্ৰ'টিন"
+      },
+      {
+        "en": "Only lipids",
+        "as": "কেৱল লিপিড"
+      },
+      {
+        "en": "Carbohydrates and fats",
+        "as": "শৰ্কৰা আৰু চৰ্বি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Chromosomes are formed of DNA wound around histone proteins.",
+      "as": "ক্ৰ'ম'জ'ম হিষ্টন প্ৰ'টিনৰ চাৰিওফালে মেৰ খোৱা DNA ৰে গঠিত।"
+    }
+  }
+]

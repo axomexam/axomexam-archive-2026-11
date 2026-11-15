@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-243",
+    "q": {
+      "en": "Yeast belongs to the kingdom:",
+      "as": "ঈষ্ট কিয় ৰাজ্যৰ অন্তৰ্গত?"
+    },
+    "options": [
+      {
+        "en": "Fungi",
+        "as": "ফাংগাই"
+      },
+      {
+        "en": "Monera",
+        "as": "ম'নেৰা"
+      },
+      {
+        "en": "Plantae",
+        "as": "প্লাণ্টাই"
+      },
+      {
+        "en": "Animalia",
+        "as": "এনিমেলিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Yeast is a unicellular fungus used in baking and fermentation.",
+      "as": "ঈষ্ট এককোষী ভেঁকুৰ যি পিঠা বনোৱা আৰু গাঁজনত ব্যৱহাৰ হয়।"
+    }
+  }
+]

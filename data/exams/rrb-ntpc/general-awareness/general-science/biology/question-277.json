@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-277",
+    "q": {
+      "en": "The building blocks of carbohydrates are:",
+      "as": "শৰ্কৰাৰ গঠন এককবোৰ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Amino acids",
+        "as": "এমিন' এচিড"
+      },
+      {
+        "en": "Fatty acids",
+        "as": "ফেটি এচিড"
+      },
+      {
+        "en": "Simple sugars",
+        "as": "সৰল চেনি"
+      },
+      {
+        "en": "Glycerol",
+        "as": "গ্লিচেৰ'ল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Complex carbohydrates are built from simple sugar units such as glucose.",
+      "as": "জটিল শৰ্কৰা গ্লুক'জৰ দৰে সৰল চেনি এককৰে গঠিত।"
+    }
+  }
+]

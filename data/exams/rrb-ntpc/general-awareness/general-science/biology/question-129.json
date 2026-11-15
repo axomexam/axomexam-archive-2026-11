@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-129",
+    "q": {
+      "en": "The clotting of blood in the human body requires the presence of which vitamin?",
+      "as": "মানৱ শৰীৰত ৰক্ত জমাট বন্ধাৰ বাবে কোন ভিটামিন প্ৰয়োজন?"
+    },
+    "options": [
+      {
+        "en": "Vitamin K",
+        "as": "ভিটামিন K"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin D",
+        "as": "ভিটামিন D"
+      },
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন A"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vitamin K is needed by the liver to make clotting factors like prothrombin.",
+      "as": "জমাট কাৰক যেনে প্ৰথ্ৰম্বিন তৈয়াৰ কৰিবলৈ যকৃতক ভিটামিন K প্ৰয়োজন।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-239",
+    "q": {
+      "en": "World Environment Day is celebrated every year on which date?",
+      "as": "বিশ্ব পৰিৱেশ দিৱস প্ৰতি বছৰে কোন তাৰিখে পালন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "22 April",
+        "as": "২২ এপ্ৰিল"
+      },
+      {
+        "en": "16 September",
+        "as": "১৬ ছেপ্তেম্বৰ"
+      },
+      {
+        "en": "5 June",
+        "as": "৫ জুন"
+      },
+      {
+        "en": "1 December",
+        "as": "১ ডিচেম্বৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Since 1974 the United Nations has marked World Environment Day on 5 June to promote environmental awareness.",
+      "as": "বিশ্ব পৰিৱেশ দিৱস প্ৰতি বছৰে ৫ জুনত পালন কৰা হয়।"
+    }
+  }
+]

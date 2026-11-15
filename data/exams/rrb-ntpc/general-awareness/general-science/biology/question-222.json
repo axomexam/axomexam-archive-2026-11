@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-222",
+    "q": {
+      "en": "Organisms that prepare their own food are called:",
+      "as": "নিজে খাদ্য প্ৰস্তুত কৰা জীৱবোৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Heterotrophs",
+        "as": "পৰভোজী"
+      },
+      {
+        "en": "Saprophytes",
+        "as": "মৃতভোজী"
+      },
+      {
+        "en": "Parasites",
+        "as": "পৰজীৱী"
+      },
+      {
+        "en": "Autotrophs",
+        "as": "স্বভোজী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Autotrophs such as green plants make their own food by photosynthesis.",
+      "as": "সেউজীয়া উদ্ভিদৰ দৰে স্বভোজীয়ে সালোকসংশ্লেষণৰ জৰিয়তে নিজে খাদ্য বনায়।"
+    }
+  }
+]

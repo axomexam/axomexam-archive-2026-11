@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-114",
+    "q": {
+      "en": "Which organ produces red blood cells in an adult?",
+      "as": "প্ৰাপ্তবয়স্কত কোন অংগই ৰঙা ৰক্তকোষ উৎপাদন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Spleen",
+        "as": "প্লীহা"
+      },
+      {
+        "en": "Bone marrow",
+        "as": "অস্থি মজ্জা"
+      },
+      {
+        "en": "Kidney",
+        "as": "বৃক্ক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Red bone marrow produces red blood cells in adults.",
+      "as": "প্ৰাপ্তবয়স্কত ৰঙা অস্থি মজ্জাই ৰঙা ৰক্তকোষ উৎপাদন কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-303",
+    "q": {
+      "en": "The respiratory organ of a fish is the:",
+      "as": "মাছৰ শ্বসন অংগটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Gill",
+        "as": "ফুলকা"
+      },
+      {
+        "en": "Lung",
+        "as": "হাওঁফাওঁ"
+      },
+      {
+        "en": "Skin",
+        "as": "ছাল"
+      },
+      {
+        "en": "Trachea",
+        "as": "শ্বাসনলী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fish breathe dissolved oxygen in water through gills.",
+      "as": "মাছে ফুলকাৰ জৰিয়তে পানীত দ্ৰৱীভূত অক্সিজেন শ্বাস লয়।"
+    }
+  }
+]

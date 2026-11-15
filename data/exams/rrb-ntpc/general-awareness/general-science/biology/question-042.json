@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-042",
+    "q": {
+      "en": "Which of the following is the site of lipid and steroid synthesis?",
+      "as": "তলৰ কোনটো লিপিড আৰু ষ্টেৰয়ড সংশ্লেষণৰ স্থান?"
+    },
+    "options": [
+      {
+        "en": "Rough endoplasmic reticulum",
+        "as": "খহটা এণ্ড'প্লাজমিক ৰেটিকুলাম"
+      },
+      {
+        "en": "Smooth endoplasmic reticulum",
+        "as": "মসৃণ এণ্ড'প্লাজমিক ৰেটিকুলাম"
+      },
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
+      },
+      {
+        "en": "Lysosome",
+        "as": "লাইচ'জ'ম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Smooth ER, lacking ribosomes, synthesises lipids and steroids.",
+      "as": "ৰাইব'জ'ম নথকা মসৃণ ER এ লিপিড আৰু ষ্টেৰয়ড সংশ্লেষণ কৰে।"
+    }
+  }
+]

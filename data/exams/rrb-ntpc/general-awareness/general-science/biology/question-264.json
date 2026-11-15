@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-264",
+    "q": {
+      "en": "The main nutrient present in rice is:",
+      "as": "ধানত থকা মূল পুষ্টি উপাদানটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Protein",
+        "as": "প্ৰ'টিন"
+      },
+      {
+        "en": "Carbohydrate",
+        "as": "শৰ্কৰা"
+      },
+      {
+        "en": "Fat",
+        "as": "চৰ্বি"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rice is mainly a source of carbohydrate in the form of starch.",
+      "as": "ধান মূলতঃ ষ্টাৰ্চ ৰূপত শৰ্কৰাৰ উৎস।"
+    }
+  }
+]

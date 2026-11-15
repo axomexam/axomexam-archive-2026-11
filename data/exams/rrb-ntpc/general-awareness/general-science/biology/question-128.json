@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-128",
+    "q": {
+      "en": "Deficiency of which vitamin causes beri-beri?",
+      "as": "কোন ভিটামিনৰ অভাৱে বেৰিবেৰি কৰে?"
+    },
+    "options": [
+      {
+        "en": "Vitamin B1",
+        "as": "ভিটামিন B1"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন A"
+      },
+      {
+        "en": "Vitamin K",
+        "as": "ভিটামিন K"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Deficiency of vitamin B1 (thiamine) causes beri-beri, affecting nerves and muscles.",
+      "as": "ভিটামিন B1 (থায়ামিন) ৰ অভাৱে স্নায়ু আৰু পেশীক প্ৰভাৱিত কৰা বেৰিবেৰি কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-299",
+    "q": {
+      "en": "Ornithology is the branch of zoology that deals with the study of:",
+      "as": "অৰ্নিথ'লজি প্ৰাণীবিজ্ঞানৰ কোনটো অধ্যয়নৰ শাখা?"
+    },
+    "options": [
+      {
+        "en": "Ornithology",
+        "as": "পক্ষীবিজ্ঞান"
+      },
+      {
+        "en": "Entomology",
+        "as": "কীটবিজ্ঞান"
+      },
+      {
+        "en": "Ichthyology",
+        "as": "মৎস্যবিজ্ঞান"
+      },
+      {
+        "en": "Herpetology",
+        "as": "সৰীসৃপবিজ্ঞান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ornithology is the branch of zoology that studies birds.",
+      "as": "পক্ষীবিজ্ঞান প্ৰাণীবিজ্ঞানৰ শাখা যি চৰাই অধ্যয়ন কৰে।"
+    }
+  }
+]

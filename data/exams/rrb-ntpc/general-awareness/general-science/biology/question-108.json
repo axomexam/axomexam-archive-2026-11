@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-108",
+    "q": {
+      "en": "Which hormone is called the 'fight or flight' hormone?",
+      "as": "কোন হৰম'নক 'যুঁজ বা পলায়ন' হৰম'ন বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Insulin",
+        "as": "ইনচুলিন"
+      },
+      {
+        "en": "Thyroxine",
+        "as": "থাইৰ'ক্সিন"
+      },
+      {
+        "en": "Adrenaline",
+        "as": "এড্ৰিনেলিন"
+      },
+      {
+        "en": "Oestrogen",
+        "as": "ইষ্ট্ৰ'জেন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Adrenaline increases heartbeat and prepares the body to face or escape danger.",
+      "as": "এড্ৰিনেলিনে হৃদস্পন্দন বঢ়ায় আৰু বিপদৰ সন্মুখীন বা পলায়নৰ বাবে শৰীৰ সাজু কৰে।"
+    }
+  }
+]

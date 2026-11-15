@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-197",
+    "q": {
+      "en": "The structure in the cell that carries genes is the:",
+      "as": "কোষত জিন বহন কৰা গঠনটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Ribosome",
+        "as": "ৰাইব'জ'ম"
+      },
+      {
+        "en": "Chromosome",
+        "as": "ক্ৰ'ম'জ'ম"
+      },
+      {
+        "en": "Lysosome",
+        "as": "লাইচ'জ'ম"
+      },
+      {
+        "en": "Cell membrane",
+        "as": "কোষ আৱৰণ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Genes are located on chromosomes within the nucleus.",
+      "as": "জিন নিউক্লিয়াছৰ ভিতৰত ক্ৰ'ম'জ'মত অৱস্থিত।"
+    }
+  }
+]

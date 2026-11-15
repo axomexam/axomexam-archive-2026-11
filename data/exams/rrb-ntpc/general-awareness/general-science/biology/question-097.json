@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-097",
+    "q": {
+      "en": "Thinking, memory and intelligence are functions of which region of the brain?",
+      "as": "চিন্তা, স্মৃতি আৰু বুদ্ধি মগজুৰ কোন অঞ্চলৰ কাৰ্য?"
+    },
+    "options": [
+      {
+        "en": "Cerebellum",
+        "as": "চেৰিবেলাম"
+      },
+      {
+        "en": "Medulla",
+        "as": "মেডুলা"
+      },
+      {
+        "en": "Pons",
+        "as": "পন্স"
+      },
+      {
+        "en": "Cerebrum",
+        "as": "চেৰিব্ৰাম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The cerebrum is the largest part and is the seat of intelligence, memory and thought.",
+      "as": "চেৰিব্ৰাম আটাইতকৈ ডাঙৰ অংশ আৰু ই বুদ্ধি, স্মৃতি আৰু চিন্তাৰ কেন্দ্ৰ।"
+    }
+  }
+]

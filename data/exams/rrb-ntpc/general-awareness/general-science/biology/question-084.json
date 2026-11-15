@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-084",
+    "q": {
+      "en": "The normal rate of breathing in a healthy adult at rest is about:",
+      "as": "বিশ্ৰামত সুস্থ প্ৰাপ্তবয়স্কৰ স্বাভাৱিক শ্বাস-প্ৰশ্বাসৰ হাৰ প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "15-18 per minute",
+        "as": "প্ৰতি মিনিটত ১৫-১৮"
+      },
+      {
+        "en": "40-45 per minute",
+        "as": "প্ৰতি মিনিটত ৪০-৪৫"
+      },
+      {
+        "en": "5-8 per minute",
+        "as": "প্ৰতি মিনিটত ৫-৮"
+      },
+      {
+        "en": "60 per minute",
+        "as": "প্ৰতি মিনিটত ৬০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A resting adult breathes about 15 to 18 times per minute.",
+      "as": "বিশ্ৰামত থকা প্ৰাপ্তবয়স্কই প্ৰতি মিনিটত প্ৰায় ১৫ ৰ পৰা ১৮ বাৰ শ্বাস লয়।"
+    }
+  }
+]

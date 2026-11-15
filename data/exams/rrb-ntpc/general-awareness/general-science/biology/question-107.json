@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-107",
+    "q": {
+      "en": "Which gland is called the 'emergency gland' of the body?",
+      "as": "কোন গ্ৰন্থিক শৰীৰৰ 'আপদকালীন গ্ৰন্থি' বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Thyroid gland",
+        "as": "থাইৰয়ড গ্ৰন্থি"
+      },
+      {
+        "en": "Pituitary gland",
+        "as": "পিটুইটাৰী গ্ৰন্থি"
+      },
+      {
+        "en": "Adrenal gland",
+        "as": "এড্ৰিনেল গ্ৰন্থি"
+      },
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The adrenal glands secrete adrenaline during stress or emergency, hence the name.",
+      "as": "এড্ৰিনেল গ্ৰন্থিয়ে চাপ বা আপদকালত এড্ৰিনেলিন নিঃসৰণ কৰে, সেয়ে এই নাম।"
+    }
+  }
+]

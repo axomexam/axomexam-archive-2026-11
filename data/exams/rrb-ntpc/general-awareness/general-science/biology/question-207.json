@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-207",
+    "q": {
+      "en": "The theory of inheritance of acquired characters was proposed by:",
+      "as": "অৰ্জিত বৈশিষ্ট্যৰ বংশগতি তত্ত্ব কোনে প্ৰস্তাৱ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Darwin",
+        "as": "ডাৰউইন"
+      },
+      {
+        "en": "Lamarck",
+        "as": "লামাৰ্ক"
+      },
+      {
+        "en": "Mendel",
+        "as": "মেণ্ডেল"
+      },
+      {
+        "en": "Weismann",
+        "as": "ৱাইছমেন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Lamarck proposed that characters acquired during a lifetime can be inherited.",
+      "as": "লামাৰ্কে প্ৰস্তাৱ কৰিছিল যে জীৱনকালত অৰ্জিত বৈশিষ্ট্য উত্তৰাধিকাৰ হ'ব পাৰে।"
+    }
+  }
+]

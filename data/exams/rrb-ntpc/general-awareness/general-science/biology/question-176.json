@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-176",
+    "q": {
+      "en": "The process of fusion of male and female gametes is called:",
+      "as": "পুং আৰু স্ত্ৰী গেমেটৰ মিলন প্ৰক্ৰিয়াটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Pollination",
+        "as": "পৰাগযোগ"
+      },
+      {
+        "en": "Fertilisation",
+        "as": "নিষেচন"
+      },
+      {
+        "en": "Germination",
+        "as": "অংকুৰণ"
+      },
+      {
+        "en": "Ovulation",
+        "as": "ডিম্বস্ফোটন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Fertilisation is the fusion of sperm and ovum to form a zygote.",
+      "as": "নিষেচন হ'ল শুক্ৰাণু আৰু ডিম্বাণু মিলি জাইগ'ট গঠন কৰা।"
+    }
+  }
+]

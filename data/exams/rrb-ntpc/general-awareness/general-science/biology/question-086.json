@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-086",
+    "q": {
+      "en": "The enzyme present in human saliva is:",
+      "as": "মানৱ লালত থকা উৎসেচকটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Pepsin",
+        "as": "পেপছিন"
+      },
+      {
+        "en": "Trypsin",
+        "as": "ট্ৰিপছিন"
+      },
+      {
+        "en": "Salivary amylase",
+        "as": "লাল এমাইলেজ"
+      },
+      {
+        "en": "Lipase",
+        "as": "লাইপেজ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Salivary amylase begins the digestion of starch into simpler sugars in the mouth.",
+      "as": "লাল এমাইলেজে মুখত ষ্টাৰ্চৰ পৰা সৰল চেনি হোৱা পাচন আৰম্ভ কৰে।"
+    }
+  }
+]

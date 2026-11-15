@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-137",
+    "q": {
+      "en": "Tiny pores on the surface of leaves through which gases are exchanged are called:",
+      "as": "পাতৰ পৃষ্ঠত গেছৰ বিনিময় হোৱা সৰু ৰন্ধ্ৰবোৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Lenticels",
+        "as": "লেণ্টিছেল"
+      },
+      {
+        "en": "Xylem",
+        "as": "জাইলেম"
+      },
+      {
+        "en": "Phloem",
+        "as": "ফ্ল'এম"
+      },
+      {
+        "en": "Stomata",
+        "as": "ষ্ট'মাটা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Stomata allow exchange of gases and loss of water vapour from leaves.",
+      "as": "ষ্ট'মাটাই গেছৰ বিনিময় আৰু পাতৰ পৰা জলীয় বাষ্প ওলোৱাত সহায় কৰে।"
+    }
+  }
+]

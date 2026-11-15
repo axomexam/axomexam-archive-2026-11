@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-138",
+    "q": {
+      "en": "Water and dissolved minerals are transported in a plant through:",
+      "as": "উদ্ভিদত পানী আৰু দ্ৰৱীভূত খনিজ পদাৰ্থ কোনে পৰিবহণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Phloem",
+        "as": "ফ্ল'এম"
+      },
+      {
+        "en": "Cambium",
+        "as": "কেম্বিয়াম"
+      },
+      {
+        "en": "Cortex",
+        "as": "কৰ্টেক্স"
+      },
+      {
+        "en": "Xylem",
+        "as": "জাইলেম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Xylem conducts water and minerals upward from roots to leaves.",
+      "as": "জাইলেমে শিপাৰ পৰা পাতলৈ পানী আৰু খনিজ পদাৰ্থ ওপৰলৈ পৰিবহণ কৰে।"
+    }
+  }
+]

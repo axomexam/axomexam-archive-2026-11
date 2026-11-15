@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-158",
+    "q": {
+      "en": "Water is transported upward in tall trees mainly because of:",
+      "as": "ওখ গছত পানী ওপৰলৈ যোৱাৰ মূল কাৰণ কি?"
+    },
+    "options": [
+      {
+        "en": "Root pressure only",
+        "as": "কেৱল শিপাৰ চাপ"
+      },
+      {
+        "en": "Gravity",
+        "as": "মাধ্যাকৰ্ষণ"
+      },
+      {
+        "en": "Capillarity only",
+        "as": "কেৱল কেশিকৰ্ষণ"
+      },
+      {
+        "en": "Transpiration pull",
+        "as": "বাষ্পীভৱনৰ টান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Transpiration from leaves creates a pull that draws water up through the xylem.",
+      "as": "পাতৰ বাষ্পীভৱনে এটা টান সৃষ্টি কৰে যি জাইলেমৰ মাজেৰে পানী ওপৰলৈ টানে।"
+    }
+  }
+]

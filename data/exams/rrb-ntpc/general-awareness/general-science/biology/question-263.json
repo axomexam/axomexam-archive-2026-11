@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-263",
+    "q": {
+      "en": "For a protein-rich diet, which of these foods should be preferred?",
+      "as": "প্ৰ'টিনযুক্ত খাদ্যৰ বাবে এইবোৰৰ কোনটো খাদ্য বাছনি কৰা উচিত?"
+    },
+    "options": [
+      {
+        "en": "Rice",
+        "as": "ধান"
+      },
+      {
+        "en": "Sugar",
+        "as": "চেনি"
+      },
+      {
+        "en": "Butter",
+        "as": "মাখন"
+      },
+      {
+        "en": "Pulses",
+        "as": "ডাইল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Pulses are rich in protein; rice and sugar are carbohydrates and butter is fat.",
+      "as": "ডাইল প্ৰ'টিনত সমৃদ্ধ; ধান আৰু চেনি শৰ্কৰা আৰু মাখন চৰ্বি।"
+    }
+  }
+]

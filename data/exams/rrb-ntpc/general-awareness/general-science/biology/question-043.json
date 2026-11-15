@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-043",
+    "q": {
+      "en": "The function of the Golgi apparatus is to:",
+      "as": "গলজি যন্ত্ৰৰ কাৰ্য কি?"
+    },
+    "options": [
+      {
+        "en": "Synthesise ATP",
+        "as": "ATP সংশ্লেষণ কৰা"
+      },
+      {
+        "en": "Modify, package and secrete proteins",
+        "as": "প্ৰ'টিন পৰিৱৰ্তন, পেকিং আৰু নিঃসৰণ কৰা"
+      },
+      {
+        "en": "Digest worn-out organelles",
+        "as": "জীৰ্ণ অংগাণু হজম কৰা"
+      },
+      {
+        "en": "Store water",
+        "as": "পানী সাঁচি ৰখা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Golgi complex modifies and packages proteins and lipids for secretion.",
+      "as": "গলজি কমপ্লেক্সে প্ৰ'টিন আৰু লিপিড পৰিৱৰ্তন কৰি নিঃসৰণৰ বাবে পেকিং কৰে।"
+    }
+  }
+]

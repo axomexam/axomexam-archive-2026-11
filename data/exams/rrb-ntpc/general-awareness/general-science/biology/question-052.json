@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-052",
+    "q": {
+      "en": "Which part of the cell is selectively permeable?",
+      "as": "কোষৰ কোনটো অংশ নিৰ্বাচিতভাৱে ভেদ্য?"
+    },
+    "options": [
+      {
+        "en": "Cell wall",
+        "as": "কোষবেৰ"
+      },
+      {
+        "en": "Cell membrane",
+        "as": "কোষ আৱৰণ"
+      },
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
+      },
+      {
+        "en": "Vacuole",
+        "as": "ৰিক্তস্থান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The plasma membrane allows only certain substances to pass through.",
+      "as": "প্লাজমা আৱৰণে কেৱল কিছুমান নিৰ্দিষ্ট পদাৰ্থক পাৰ হ'বলৈ দিয়ে।"
+    }
+  }
+]

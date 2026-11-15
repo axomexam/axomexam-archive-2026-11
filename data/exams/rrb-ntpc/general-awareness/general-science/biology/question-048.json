@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-048",
+    "q": {
+      "en": "The outer covering of a plant cell wall that acts as a cementing layer is:",
+      "as": "উদ্ভিদ কোষবেৰৰ বাহিৰৰ আৱৰণ যিয়ে সংযোগকাৰী স্তৰ হিচাপে কাম কৰে সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Plasma membrane",
+        "as": "প্লাজমা আৱৰণ"
+      },
+      {
+        "en": "Tonoplast",
+        "as": "ট'ন'প্লাষ্ট"
+      },
+      {
+        "en": "Cuticle",
+        "as": "কিউটিকল"
+      },
+      {
+        "en": "Middle lamella",
+        "as": "মধ্যম প্লেট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The middle lamella of calcium pectate cements adjacent plant cells together.",
+      "as": "কেলচিয়াম পেক্টেটৰ মধ্যম প্লেটে ওচৰা-ওচৰি উদ্ভিদ কোষবোৰক লগ লগাই ৰাখে।"
+    }
+  }
+]

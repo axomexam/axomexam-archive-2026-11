@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-307",
+    "q": {
+      "en": "Which of the following is an example of an amphibian?",
+      "as": "তলৰ কোনটো উভচৰ প্ৰাণীৰ উদাহৰণ?"
+    },
+    "options": [
+      {
+        "en": "Snake",
+        "as": "সাপ"
+      },
+      {
+        "en": "Fish",
+        "as": "মাছ"
+      },
+      {
+        "en": "Frog",
+        "as": "ভেকুলী"
+      },
+      {
+        "en": "Lizard",
+        "as": "জেঠী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Frogs live both in water and on land and are amphibians.",
+      "as": "ভেকুলীয়ে পানী আৰু মাটি দুয়োতে বাস কৰে আৰু সেয়া উভচৰ।"
+    }
+  }
+]

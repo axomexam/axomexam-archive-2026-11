@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-015",
+    "q": {
+      "en": "Which structure gives a plant cell its fixed, rigid shape?",
+      "as": "কোনটো গঠনে উদ্ভিদ কোষক স্থিৰ, কঠিন আকৃতি দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Cell membrane",
+        "as": "কোষ আৱৰণ"
+      },
+      {
+        "en": "Vacuole",
+        "as": "ৰিক্তস্থান"
+      },
+      {
+        "en": "Cytoplasm",
+        "as": "চাইট'প্লাজম"
+      },
+      {
+        "en": "Cell wall",
+        "as": "কোষবেৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The rigid cellulose cell wall gives plant cells a definite shape and protects them.",
+      "as": "কঠিন চেলুল'জ কোষবেৰে উদ্ভিদ কোষক নিৰ্দিষ্ট আকৃতি দিয়ে আৰু সুৰক্ষা কৰে।"
+    }
+  }
+]

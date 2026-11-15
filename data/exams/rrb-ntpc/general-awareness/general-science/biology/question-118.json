@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-118",
+    "q": {
+      "en": "The study of the human body and its parts is called:",
+      "as": "মানৱ শৰীৰ আৰু ইয়াৰ অংশৰ অধ্যয়নক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Physiology",
+        "as": "শৰীৰতত্ত্ব"
+      },
+      {
+        "en": "Pathology",
+        "as": "ৰোগবিজ্ঞান"
+      },
+      {
+        "en": "Anatomy",
+        "as": "শৰীৰবিদ্যা"
+      },
+      {
+        "en": "Cytology",
+        "as": "কোষবিজ্ঞান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Anatomy deals with the structure of the body; physiology deals with its functions.",
+      "as": "শৰীৰবিদ্যাই শৰীৰৰ গঠন অধ্যয়ন কৰে; শৰীৰতত্ত্বই কাৰ্য অধ্যয়ন কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-193",
+    "q": {
+      "en": "Mendel carried out his experiments on inheritance using:",
+      "as": "মেণ্ডেলে বংশগতিৰ পৰীক্ষা কিয়ৰ ওপৰত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Pea plants",
+        "as": "মটৰমাহ গছ"
+      },
+      {
+        "en": "Fruit flies",
+        "as": "ফল মাখি"
+      },
+      {
+        "en": "Maize",
+        "as": "মাকৈ"
+      },
+      {
+        "en": "Bacteria",
+        "as": "বেক্টেৰিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mendel chose the garden pea, Pisum sativum, for its clear contrasting traits.",
+      "as": "মেণ্ডেলে স্পষ্ট বিপৰীত বৈশিষ্ট্যৰ বাবে বাগানৰ মটৰমাহ, Pisum sativum, বাছনি কৰিছিল।"
+    }
+  }
+]

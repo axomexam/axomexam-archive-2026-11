@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-098",
+    "q": {
+      "en": "The number of nerve pairs that arise directly from the human brain is:",
+      "as": "মানৱ মগজুৰ পৰা পোনপটীয়াকৈ ওলোৱা স্নায়ু যোৰৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "31",
+        "as": "৩১"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Humans have 12 pairs of cranial nerves and 31 pairs of spinal nerves.",
+      "as": "মানুহৰ ১২ যোৰ কৰ'টিক স্নায়ু আৰু ৩১ যোৰ সুষুম্না স্নায়ু থাকে।"
+    }
+  }
+]

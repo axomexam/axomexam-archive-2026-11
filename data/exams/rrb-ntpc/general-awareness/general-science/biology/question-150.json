@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-150",
+    "q": {
+      "en": "Which plant hormone promotes cell division and growth?",
+      "as": "কোন উদ্ভিদ হৰম'নে কোষ বিভাজন আৰু বৃদ্ধি বঢ়ায়?"
+    },
+    "options": [
+      {
+        "en": "Abscisic acid",
+        "as": "এবছিচিক এচিড"
+      },
+      {
+        "en": "Ethylene",
+        "as": "ইথাইলিন"
+      },
+      {
+        "en": "None of these",
+        "as": "এইবোৰৰ এটাও নহয়"
+      },
+      {
+        "en": "Auxin",
+        "as": "অক্সিন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Auxin promotes cell elongation and division and is used in rooting cuttings.",
+      "as": "অক্সিনে কোষ দীঘল আৰু বিভাজন বঢ়ায় আৰু কাটিং শিপাবলৈ ব্যৱহাৰ হয়।"
+    }
+  }
+]

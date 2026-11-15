@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-281",
+    "q": {
+      "en": "The deficiency of both protein and calories in children causes:",
+      "as": "শিশুৰ প্ৰ'টিন আৰু কেলৰি দুয়োটাৰ অভাৱে কিয় কৰে?"
+    },
+    "options": [
+      {
+        "en": "Scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "Marasmus",
+        "as": "মাৰাছমাছ"
+      },
+      {
+        "en": "Goitre",
+        "as": "গলগণ্ড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Marasmus is caused by a severe deficiency of both energy and protein.",
+      "as": "মাৰাছমাছ শক্তি আৰু প্ৰ'টিন দুয়োটাৰ তীব্ৰ অভাৱৰ পৰা হয়।"
+    }
+  }
+]

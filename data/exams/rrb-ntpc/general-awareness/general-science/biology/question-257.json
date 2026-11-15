@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-257",
+    "q": {
+      "en": "Which organism causes the disease malaria in humans?",
+      "as": "কোন জীৱই মানুহত মেলেৰিয়া ৰোগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Trypanosoma",
+        "as": "ট্ৰাইপেন'ছ'মা"
+      },
+      {
+        "en": "Entamoeba",
+        "as": "এণ্টেমিবা"
+      },
+      {
+        "en": "Leishmania",
+        "as": "লেইশমেনিয়া"
+      },
+      {
+        "en": "Plasmodium",
+        "as": "প্লাজম'ডিয়াম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The protozoan Plasmodium is transmitted by the female Anopheles mosquito.",
+      "as": "প্ৰ'ট'জ'ৱান প্লাজম'ডিয়াম এন'ফেলিছ মাইকী মহৰ দ্বাৰা সংক্ৰমিত হয়।"
+    }
+  }
+]

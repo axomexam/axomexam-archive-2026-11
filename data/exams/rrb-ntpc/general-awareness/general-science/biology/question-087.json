@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-087",
+    "q": {
+      "en": "Which enzyme digests protein in the stomach?",
+      "as": "পেটত প্ৰ'টিন হজম কৰা উৎসেচকটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Amylase",
+        "as": "এমাইলেজ"
+      },
+      {
+        "en": "Lipase",
+        "as": "লাইপেজ"
+      },
+      {
+        "en": "Pepsin",
+        "as": "পেপছিন"
+      },
+      {
+        "en": "Trypsin",
+        "as": "ট্ৰিপছিন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Pepsin, active in the acidic stomach, digests proteins into peptides.",
+      "as": "এচিডীয় পেটত সক্ৰিয় পেপছিনে প্ৰ'টিনক পেপ্টাইডলৈ হজম কৰে।"
+    }
+  }
+]

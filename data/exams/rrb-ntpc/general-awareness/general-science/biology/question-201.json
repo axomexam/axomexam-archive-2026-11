@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-201",
+    "q": {
+      "en": "The theory of evolution by natural selection was proposed by:",
+      "as": "প্ৰাকৃতিক নিৰ্বাচনৰ দ্বাৰা বিবৰ্তনৰ তত্ত্ব কোনে প্ৰস্তাৱ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Gregor Mendel",
+        "as": "গ্ৰেগৰ মেণ্ডেল"
+      },
+      {
+        "en": "Charles Darwin",
+        "as": "চাৰ্লছ ডাৰউইন"
+      },
+      {
+        "en": "Lamarck",
+        "as": "লামাৰ্ক"
+      },
+      {
+        "en": "Hugo de Vries",
+        "as": "হিউগ' ডি ভ্ৰিছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Darwin explained evolution as descent with modification through natural selection.",
+      "as": "ডাৰউইনে বিবৰ্তনক প্ৰাকৃতিক নিৰ্বাচনৰ জৰিয়তে পৰিৱৰ্তনৰ সৈতে বংশধৰ বুলি ব্যাখ্যা কৰিছিল।"
+    }
+  }
+]

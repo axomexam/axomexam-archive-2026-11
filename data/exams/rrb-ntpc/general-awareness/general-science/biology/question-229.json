@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-229",
+    "q": {
+      "en": "The layer of the atmosphere that contains the ozone layer is the:",
+      "as": "বায়ুমণ্ডলৰ কোন স্তৰত অ'জ'ন স্তৰ থাকে?"
+    },
+    "options": [
+      {
+        "en": "Stratosphere",
+        "as": "ষ্ট্ৰেট'স্ফিয়াৰ"
+      },
+      {
+        "en": "Troposphere",
+        "as": "ট্ৰ'প'স্ফিয়াৰ"
+      },
+      {
+        "en": "Mesosphere",
+        "as": "মেছ'স্ফিয়াৰ"
+      },
+      {
+        "en": "Thermosphere",
+        "as": "থাৰ্ম'স্ফিয়াৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ozone layer lies in the stratosphere and absorbs harmful ultraviolet rays.",
+      "as": "অ'জ'ন স্তৰ ষ্ট্ৰেট'স্ফিয়াৰত থাকে আৰু ক্ষতিকাৰক অতিবেঙুনীয় ৰশ্মি শোষণ কৰে।"
+    }
+  }
+]

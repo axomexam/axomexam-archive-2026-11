@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-119",
+    "q": {
+      "en": "Which system of the body consists of the heart and blood vessels?",
+      "as": "শৰীৰৰ কোন তন্ত্ৰত হৃদয় আৰু ৰক্তনলী থাকে?"
+    },
+    "options": [
+      {
+        "en": "Respiratory system",
+        "as": "শ্বসন তন্ত্ৰ"
+      },
+      {
+        "en": "Circulatory system",
+        "as": "ৰক্ত সংবহন তন্ত্ৰ"
+      },
+      {
+        "en": "Nervous system",
+        "as": "স্নায়ু তন্ত্ৰ"
+      },
+      {
+        "en": "Digestive system",
+        "as": "পাচন তন্ত্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The circulatory system, with the heart and blood vessels, transports blood around the body.",
+      "as": "হৃদয় আৰু ৰক্তনলীৰে গঠিত ৰক্ত সংবহন তন্ত্ৰই শৰীৰত ৰক্ত পৰিবহণ কৰে।"
+    }
+  }
+]

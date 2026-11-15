@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-131",
+    "q": {
+      "en": "Anaemia is caused by the deficiency of:",
+      "as": "ৰক্তহীনতা কিয়ৰ অভাৱত হয়?"
+    },
+    "options": [
+      {
+        "en": "Iodine",
+        "as": "আয়'ডিন"
+      },
+      {
+        "en": "Iron",
+        "as": "লোণ"
+      },
+      {
+        "en": "Calcium",
+        "as": "কেলচিয়াম"
+      },
+      {
+        "en": "Sodium",
+        "as": "ছ'ডিয়াম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Iron deficiency reduces haemoglobin, causing anaemia.",
+      "as": "লোণৰ অভাৱে হিম'গ্ল'বিন কমাই ৰক্তহীনতা কৰে।"
+    }
+  }
+]

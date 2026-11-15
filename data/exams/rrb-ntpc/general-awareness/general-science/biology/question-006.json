@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-006",
+    "q": {
+      "en": "Which organelle is called the suicidal bag of the cell?",
+      "as": "কোণটো অংগাণুক কোষৰ আত্মহত্যা থলী বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Ribosome",
+        "as": "ৰাইব'জ'ম"
+      },
+      {
+        "en": "Lysosome",
+        "as": "লাইচ'জ'ম"
+      },
+      {
+        "en": "Peroxisome",
+        "as": "পেৰ'ক্সিজ'ম"
+      },
+      {
+        "en": "Centrosome",
+        "as": "চেণ্ট্ৰ'জ'ম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Lysosomes contain digestive enzymes; if they burst, they digest the cell itself.",
+      "as": "লাইচ'জ'মত পাচক উৎসেচক থাকে; ই ফাটি গ'লে কোষক নিজেই হজম কৰে।"
+    }
+  }
+]

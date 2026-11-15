@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-041",
+    "q": {
+      "en": "Cell organelles that contain their own DNA are:",
+      "as": "নিজৰ DNA থকা কোষ অংগাণুবোৰ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Ribosome and lysosome",
+        "as": "ৰাইব'জ'ম আৰু লাইচ'জ'ম"
+      },
+      {
+        "en": "Nucleus and Golgi",
+        "as": "নিউক্লিয়াছ আৰু গলজি"
+      },
+      {
+        "en": "Vacuole and centriole",
+        "as": "ৰিক্তস্থান আৰু চেণ্ট্ৰিঅ'ল"
+      },
+      {
+        "en": "Mitochondria and chloroplast",
+        "as": "মাইটোকণ্ড্ৰিয়া আৰু ক্ল'ৰ'প্লাষ্ট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Mitochondria and chloroplasts have their own circular DNA and ribosomes.",
+      "as": "মাইটোকণ্ড্ৰিয়া আৰু ক্ল'ৰ'প্লাষ্টৰ নিজৰ বৃত্তাকাৰ DNA আৰু ৰাইব'জ'ম থাকে।"
+    }
+  }
+]

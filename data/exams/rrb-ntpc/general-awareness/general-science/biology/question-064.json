@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-064",
+    "q": {
+      "en": "How many pairs of ribs are present in the human body?",
+      "as": "মানৱ শৰীৰত কিমান যোৰ পাঁজৰ থাকে?"
+    },
+    "options": [
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "14",
+        "as": "১৪"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Humans have 12 pairs of ribs; the last two pairs are called floating ribs.",
+      "as": "মানুহৰ ১২ যোৰ পাঁজৰ থাকে; শেষৰ দুযোৰক ভাঁহি ফুৰা পাঁজৰ বোলা হয়।"
+    }
+  }
+]

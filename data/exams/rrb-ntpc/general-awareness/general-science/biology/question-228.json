@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-228",
+    "q": {
+      "en": "The main source of energy for the ecosystem is:",
+      "as": "পৰিৱেশ তন্ত্ৰৰ বাবে শক্তিৰ মূল উৎস কি?"
+    },
+    "options": [
+      {
+        "en": "Solar energy",
+        "as": "সৌৰশক্তি"
+      },
+      {
+        "en": "Wind energy",
+        "as": "বায়ুশক্তি"
+      },
+      {
+        "en": "Tidal energy",
+        "as": "জোৱাৰ-ভাটাৰ শক্তি"
+      },
+      {
+        "en": "Geothermal energy",
+        "as": "ভূ-তাপীয় শক্তি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sunlight is the primary energy source that drives photosynthesis in an ecosystem.",
+      "as": "সূৰ্যৰ পোহৰ প্ৰাথমিক শক্তি উৎস যি পৰিৱেশ তন্ত্ৰত সালোকসংশ্লেষণ চলায়।"
+    }
+  }
+]

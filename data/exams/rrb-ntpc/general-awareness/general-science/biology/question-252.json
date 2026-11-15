@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-252",
+    "q": {
+      "en": "Which microorganism is used to make curd from milk?",
+      "as": "গাখীৰৰ পৰা দৈ বনাবলৈ কোন অণুজীৱ ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Yeast",
+        "as": "ঈষ্ট"
+      },
+      {
+        "en": "Lactobacillus",
+        "as": "লেক্ট'বেচিলাছ"
+      },
+      {
+        "en": "Rhizobium",
+        "as": "ৰাইজ'বিয়াম"
+      },
+      {
+        "en": "Plasmodium",
+        "as": "প্লাজম'ডিয়াম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Lactobacillus bacteria convert milk sugar into lactic acid, forming curd.",
+      "as": "লেক্ট'বেচিলাছে গাখীৰৰ চেনিক লেক্টিক এচিডলৈ ৰূপান্তৰ কৰি দৈ বনায়।"
+    }
+  }
+]

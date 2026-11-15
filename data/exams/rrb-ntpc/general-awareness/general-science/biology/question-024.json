@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-024",
+    "q": {
+      "en": "Mitosis is chiefly responsible for:",
+      "as": "মাইট'ছিছ মুখ্যতঃ কিৰ বাবে দায়ী?"
+    },
+    "options": [
+      {
+        "en": "Formation of gametes",
+        "as": "গেমেট গঠন"
+      },
+      {
+        "en": "Production of variation",
+        "as": "ভিন্নতা সৃষ্টি"
+      },
+      {
+        "en": "Reduction in chromosome number",
+        "as": "ক্ৰ'ম'জ'ম সংখ্যা হ্ৰাস"
+      },
+      {
+        "en": "Growth and repair of body tissues",
+        "as": "শৰীৰৰ কলাৰ বৃদ্ধি আৰু মেৰামতি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Mitosis produces identical diploid cells for growth, repair and replacement.",
+      "as": "মাইট'ছিছে বৃদ্ধি, মেৰামতি আৰু প্ৰতিস্থাপনৰ বাবে অভিন্ন দ্বিগুণিতক কোষ উৎপন্ন কৰে।"
+    }
+  }
+]

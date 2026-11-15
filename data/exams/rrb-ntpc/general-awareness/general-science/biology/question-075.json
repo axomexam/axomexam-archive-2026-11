@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-075",
+    "q": {
+      "en": "The hormone thyroxine is secreted by the:",
+      "as": "থাইৰ'ক্সিন হৰম'ন কত নিঃসৃত হয়?"
+    },
+    "options": [
+      {
+        "en": "Thyroid gland",
+        "as": "থাইৰয়ড গ্ৰন্থি"
+      },
+      {
+        "en": "Pituitary gland",
+        "as": "পিটুইটাৰী গ্ৰন্থি"
+      },
+      {
+        "en": "Adrenal gland",
+        "as": "এড্ৰিনেল গ্ৰন্থি"
+      },
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The thyroid gland secretes thyroxine, which regulates the rate of metabolism.",
+      "as": "থাইৰয়ড গ্ৰন্থিয়ে থাইৰ'ক্সিন নিঃসৰণ কৰে, যিয়ে বিপাকৰ হাৰ নিয়ন্ত্ৰণ কৰে।"
+    }
+  }
+]

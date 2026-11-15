@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-287",
+    "q": {
+      "en": "The scientist who discovered the circulation of blood was:",
+      "as": "ৰক্ত সংবহন আৱিষ্কাৰ কৰা বিজ্ঞানীজন আছিল:"
+    },
+    "options": [
+      {
+        "en": "William Harvey",
+        "as": "ৱিলিয়াম হাৰ্ভে"
+      },
+      {
+        "en": "Robert Hooke",
+        "as": "ৰবাৰ্ট হুক"
+      },
+      {
+        "en": "Louis Pasteur",
+        "as": "লুই পাস্তুৰ"
+      },
+      {
+        "en": "Alexander Fleming",
+        "as": "এলেকজেণ্ডাৰ ফ্লেমিং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "William Harvey described the circulation of blood pumped by the heart.",
+      "as": "ৱিলিয়াম হাৰ্ভেই হৃদয়ে পম্প কৰা ৰক্ত সংবহন বৰ্ণনা কৰিছিল।"
+    }
+  }
+]

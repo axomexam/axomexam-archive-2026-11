@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-027",
+    "q": {
+      "en": "DNA replication takes place during:",
+      "as": "DNA প্ৰতিলিপন কেতিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "S phase of interphase",
+        "as": "আন্তৰ্পৰ্যায়ৰ S পৰ্যায়"
+      },
+      {
+        "en": "Prophase",
+        "as": "প্ৰ'ফেজ"
+      },
+      {
+        "en": "Anaphase",
+        "as": "এনাফেজ"
+      },
+      {
+        "en": "Telophase",
+        "as": "টেল'ফেজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "DNA duplicates in the synthesis (S) phase before the cell divides.",
+      "as": "কোষ বিভাজনৰ আগতে সংশ্লেষণ (S) পৰ্যায়ত DNA নকল হয়।"
+    }
+  }
+]

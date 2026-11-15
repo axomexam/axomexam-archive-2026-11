@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-096",
+    "q": {
+      "en": "Which part of the brain controls heartbeat, breathing and blood pressure?",
+      "as": "মগজুৰ কোন অংশই হৃদস্পন্দন, শ্বাস-প্ৰশ্বাস আৰু ৰক্তচাপ নিয়ন্ত্ৰণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Cerebrum",
+        "as": "চেৰিব্ৰাম"
+      },
+      {
+        "en": "Medulla oblongata",
+        "as": "মেডুলা অবলংগাটা"
+      },
+      {
+        "en": "Cerebellum",
+        "as": "চেৰিবেলাম"
+      },
+      {
+        "en": "Corpus callosum",
+        "as": "কৰ্পাছ কল'চাম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The medulla oblongata controls involuntary vital functions like heartbeat and breathing.",
+      "as": "মেডুলা অবলংগাটাই হৃদস্পন্দন আৰু শ্বাস-প্ৰশ্বাসৰ দৰে অনৈচ্ছিক কাৰ্য নিয়ন্ত্ৰণ কৰে।"
+    }
+  }
+]

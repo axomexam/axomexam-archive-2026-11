@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-144",
+    "q": {
+      "en": "The female reproductive part of a flower is the:",
+      "as": "ফুলৰ স্ত্ৰী প্ৰজনন অংগটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Stamen",
+        "as": "পুংকেশৰ"
+      },
+      {
+        "en": "Carpel",
+        "as": "গৰ্ভকেশৰ"
+      },
+      {
+        "en": "Petal",
+        "as": "পাহি"
+      },
+      {
+        "en": "Receptacle",
+        "as": "পুষ্পাধাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The carpel consists of the stigma, style and ovary containing ovules.",
+      "as": "গৰ্ভকেশৰত কলংক, গৰ্ভদণ্ড আৰু ডিম্বাশয় থাকে য'ত ডিম্ব থাকে।"
+    }
+  }
+]

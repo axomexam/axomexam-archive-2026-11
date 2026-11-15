@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-132",
+    "q": {
+      "en": "Which is the largest organ of the digestive system?",
+      "as": "পাচন তন্ত্ৰৰ আটাইতকৈ ডাঙৰ অংগটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Stomach",
+        "as": "পেট"
+      },
+      {
+        "en": "Small intestine",
+        "as": "ক্ষুদ্ৰান্ত্ৰ"
+      },
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The liver is the largest gland and organ of the digestive system.",
+      "as": "যকৃত পাচন তন্ত্ৰৰ আটাইতকৈ ডাঙৰ গ্ৰন্থি আৰু অংগ।"
+    }
+  }
+]

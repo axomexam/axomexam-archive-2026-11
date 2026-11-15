@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-019",
+    "q": {
+      "en": "Which of the following lacks a cell wall?",
+      "as": "তলৰ কোনটোত কোষবেৰ নাথাকে?"
+    },
+    "options": [
+      {
+        "en": "Onion peel cell",
+        "as": "পিয়াঁজৰ বাকলিৰ কোষ"
+      },
+      {
+        "en": "Bacterial cell",
+        "as": "বেক্টেৰিয়াৰ কোষ"
+      },
+      {
+        "en": "Human liver cell",
+        "as": "মানৱ যকৃতৰ কোষ"
+      },
+      {
+        "en": "Fungal cell",
+        "as": "ভেঁকুৰৰ কোষ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Animal cells have no cell wall; plant, fungal and bacterial cells do.",
+      "as": "প্ৰাণী কোষত কোষবেৰ নাথাকে; উদ্ভিদ, ভেঁকুৰ আৰু বেক্টেৰিয়াৰ কোষত থাকে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-202",
+    "q": {
+      "en": "The book 'On the Origin of Species' was written by:",
+      "as": "'On the Origin of Species' কিতাপখন কোনে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Gregor Mendel",
+        "as": "গ্ৰেগৰ মেণ্ডেল"
+      },
+      {
+        "en": "Louis Pasteur",
+        "as": "লুই পাস্তুৰ"
+      },
+      {
+        "en": "Robert Koch",
+        "as": "ৰবাৰ্ট ক'ক"
+      },
+      {
+        "en": "Charles Darwin",
+        "as": "চাৰ্লছ ডাৰউইন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Darwin published On the Origin of Species in 1859.",
+      "as": "ডাৰউইনে ১৮৫৯ চনত On the Origin of Species প্ৰকাশ কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-232",
+    "q": {
+      "en": "The process of accumulation of harmful chemicals in the food chain is called:",
+      "as": "খাদ্য শৃংখলাত ক্ষতিকাৰক ৰাসায়নিক পদাৰ্থ জমা হোৱা প্ৰক্ৰিয়াটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Eutrophication",
+        "as": "ইউট্ৰ'ফিকেছন"
+      },
+      {
+        "en": "Biomagnification",
+        "as": "জৈৱ-বিবৰ্ধন"
+      },
+      {
+        "en": "Photosynthesis",
+        "as": "সালোকসংশ্লেষণ"
+      },
+      {
+        "en": "Nitrogen fixation",
+        "as": "নাইট্ৰজেন সংবন্ধন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Toxins that are not excreted build up in body tissues and grow more concentrated at each higher step of a food chain.",
+      "as": "জৈৱ-বিবৰ্ধন হ'ল ওপৰৰ ট্ৰফিক স্তৰত বিষাক্ত পদাৰ্থৰ ঘনত্ব বাঢ়ি যোৱা।"
+    }
+  }
+]

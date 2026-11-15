@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-077",
+    "q": {
+      "en": "Scurvy, marked by bleeding gums, results from the lack of which vitamin?",
+      "as": "গমৰ পৰা তেজ ওলোৱা স্কাৰ্ভি কিয় ভিটামিনৰ অভাৱত হয়?"
+    },
+    "options": [
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin D",
+        "as": "ভিটামিন D"
+      },
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন A"
+      },
+      {
+        "en": "Vitamin K",
+        "as": "ভিটামিন K"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vitamin C (ascorbic acid) deficiency causes scurvy with bleeding gums.",
+      "as": "ভিটামিন C (এছকৰবিক এচিড) ৰ অভাৱে গম ফুলি তেজ ওলোৱা স্কাৰ্ভি কৰে।"
+    }
+  }
+]

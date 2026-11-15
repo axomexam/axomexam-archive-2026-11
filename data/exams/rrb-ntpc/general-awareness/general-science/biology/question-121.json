@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-121",
+    "q": {
+      "en": "Which organ of the human body is most affected by alcohol consumption?",
+      "as": "মদ্যপানত মানৱ শৰীৰৰ কোন অংগ আটাইতকৈ ক্ষতিগ্ৰস্ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Heart",
+        "as": "হৃদয়"
+      },
+      {
+        "en": "Lung",
+        "as": "হাওঁফাওঁ"
+      },
+      {
+        "en": "Kidney",
+        "as": "বৃক্ক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The liver metabolises alcohol, so it is the organ most damaged by excess drinking.",
+      "as": "যকৃতই মদ বিপাক কৰে, সেয়ে অত্যধিক মদ্যপানত ই আটাইতকৈ ক্ষতিগ্ৰস্ত হয়।"
+    }
+  }
+]

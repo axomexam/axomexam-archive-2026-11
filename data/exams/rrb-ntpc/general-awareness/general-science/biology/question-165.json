@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-165",
+    "q": {
+      "en": "Which of the following is an insectivorous plant?",
+      "as": "তলৰ কোনটো পতংগভোজী উদ্ভিদ?"
+    },
+    "options": [
+      {
+        "en": "Sunflower",
+        "as": "সূৰ্যমুখী"
+      },
+      {
+        "en": "Lotus",
+        "as": "পদুম"
+      },
+      {
+        "en": "Banyan",
+        "as": "বৰগছ"
+      },
+      {
+        "en": "Pitcher plant",
+        "as": "পিচাৰ প্লেণ্ট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The pitcher plant traps insects to get nitrogen in nitrogen-poor soils.",
+      "as": "পিচাৰ প্লেণ্টে নাইট্ৰজেন-দৰিদ্ৰ মাটিত নাইট্ৰজেন পাবলৈ পতংগ ধৰে।"
+    }
+  }
+]

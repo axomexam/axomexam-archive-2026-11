@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-184",
+    "q": {
+      "en": "The type of reproduction that involves only one parent is called:",
+      "as": "কেৱল এজন পিতৃ-মাতৃ জড়িত হোৱা প্ৰজনন প্ৰকাৰটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Sexual reproduction",
+        "as": "যৌন প্ৰজনন"
+      },
+      {
+        "en": "Cross fertilisation",
+        "as": "পৰ-নিষেচন"
+      },
+      {
+        "en": "Asexual reproduction",
+        "as": "অযৌন প্ৰজনন"
+      },
+      {
+        "en": "Self fertilisation",
+        "as": "আত্ম-নিষেচন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "In asexual reproduction a single parent produces genetically identical offspring.",
+      "as": "অযৌন প্ৰজননত এজন পিতৃ-মাতৃয়ে বংশগতিভাৱে অভিন্ন সন্তান উৎপন্ন কৰে।"
+    }
+  }
+]

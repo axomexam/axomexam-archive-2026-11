@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-136",
+    "q": {
+      "en": "The green pigment essential for photosynthesis is:",
+      "as": "সালোকসংশ্লেষণৰ বাবে অপৰিহাৰ্য সেউজীয়া বৰ্ণকটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Haemoglobin",
+        "as": "হিম'গ্ল'বিন"
+      },
+      {
+        "en": "Chlorophyll",
+        "as": "ক্ল'ৰ'ফিল"
+      },
+      {
+        "en": "Melanin",
+        "as": "মেলানিন"
+      },
+      {
+        "en": "Carotene",
+        "as": "কেৰ'টিন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Chlorophyll absorbs light energy and drives the reactions of photosynthesis.",
+      "as": "ক্ল'ৰ'ফিলে পোহৰ শক্তি শোষণ কৰি সালোকসংশ্লেষণৰ বিক্ৰিয়া চলায়।"
+    }
+  }
+]

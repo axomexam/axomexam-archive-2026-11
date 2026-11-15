@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-169",
+    "q": {
+      "en": "The number of cotyledons in a pea seed is:",
+      "as": "মটৰমাহৰ গুটিত বীজপত্ৰৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Pea is a dicotyledon with two cotyledons; rice and wheat have one.",
+      "as": "মটৰমাহ এটা দ্বিবীজপত্ৰী য'ত দুটা বীজপত্ৰ থাকে; ধান আৰু গমত এটা থাকে।"
+    }
+  }
+]

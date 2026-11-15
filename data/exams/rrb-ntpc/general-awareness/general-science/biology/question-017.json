@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-017",
+    "q": {
+      "en": "The scientist who first observed and named 'cells' was:",
+      "as": "প্ৰথমে 'কোষ' পৰ্যবেক্ষণ কৰি নাম দিয়া বিজ্ঞানীজন আছিল:"
+    },
+    "options": [
+      {
+        "en": "Robert Brown",
+        "as": "ৰবাৰ্ট ব্ৰাউন"
+      },
+      {
+        "en": "Purkinje",
+        "as": "পুৰ্কিনজে"
+      },
+      {
+        "en": "Schwann",
+        "as": "শ্বান"
+      },
+      {
+        "en": "Robert Hooke",
+        "as": "ৰবাৰ্ট হুক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Robert Hooke (1665) observed cork under a microscope and coined the term 'cell'.",
+      "as": "ৰবাৰ্ট হুকে (১৬৬৫) অণুবীক্ষণত কৰ্ক পৰ্যবেক্ষণ কৰি 'কোষ' শব্দটো ব্যৱহাৰ কৰিছিল।"
+    }
+  }
+]

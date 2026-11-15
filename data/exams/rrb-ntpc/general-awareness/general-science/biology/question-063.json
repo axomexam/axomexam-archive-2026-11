@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-063",
+    "q": {
+      "en": "The smallest bone in the human body is present in the:",
+      "as": "মানৱ শৰীৰৰ আটাইতকৈ সৰু হাড়টো কত থাকে?"
+    },
+    "options": [
+      {
+        "en": "Nose",
+        "as": "নাক"
+      },
+      {
+        "en": "Ear",
+        "as": "কাণ"
+      },
+      {
+        "en": "Finger",
+        "as": "আঙুলি"
+      },
+      {
+        "en": "Toe",
+        "as": "ভৰিৰ আঙুলি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The stapes, in the middle ear, is the smallest bone in the human body.",
+      "as": "মধ্য কাণত থকা ষ্টেপিছ মানৱ শৰীৰৰ আটাইতকৈ সৰু হাড়।"
+    }
+  }
+]

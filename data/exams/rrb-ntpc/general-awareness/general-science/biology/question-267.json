@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-267",
+    "q": {
+      "en": "The vitamin whose chemical name is ascorbic acid is:",
+      "as": "যি ভিটামিনৰ ৰাসায়নিক নাম এছকৰবিক এচিড সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Vitamin D",
+        "as": "ভিটামিন D"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন A"
+      },
+      {
+        "en": "Vitamin K",
+        "as": "ভিটামিন K"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vitamin C is chemically ascorbic acid, found in citrus fruits and amla.",
+      "as": "ভিটামিন C ৰাসায়নিকভাৱে এছকৰবিক এচিড, যি কমলা-নেমু আৰু আমলাত পোৱা যায়।"
+    }
+  }
+]

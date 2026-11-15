@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-149",
+    "q": {
+      "en": "The bacterium that fixes nitrogen in the root nodules of legumes is:",
+      "as": "ডাইল উদ্ভিদৰ শিপাৰ গাঁঠিত নাইট্ৰজেন সংবন্ধন কৰা বেক্টেৰিয়াটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "E. coli",
+        "as": "ই. ক'লাই"
+      },
+      {
+        "en": "Lactobacillus",
+        "as": "লেক্ট'বেচিলাছ"
+      },
+      {
+        "en": "Rhizobium",
+        "as": "ৰাইজ'বিয়াম"
+      },
+      {
+        "en": "Clostridium",
+        "as": "ক্ল'ষ্ট্ৰিডিয়াম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rhizobium lives symbiotically in legume root nodules and converts nitrogen into usable forms.",
+      "as": "ৰাইজ'বিয়ামে ডাইলৰ শিপাৰ গাঁঠিত মিলাপ্ৰীতিৰে থাকে আৰু নাইট্ৰজেনক ব্যৱহাৰযোগ্য ৰূপলৈ ৰূপান্তৰ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-002",
+    "q": {
+      "en": "Who proposed the cell theory along with Theodor Schwann?",
+      "as": "থিঅ'ডৰ শ্বানৰ লগত কোনে কোষ তত্ত্ব প্ৰস্তাৱ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Robert Hooke",
+        "as": "ৰবাৰ্ট হুক"
+      },
+      {
+        "en": "Louis Pasteur",
+        "as": "লুই পাস্তুৰ"
+      },
+      {
+        "en": "Anton van Leeuwenhoek",
+        "as": "এণ্টন ভান লিউৱেনহুক"
+      },
+      {
+        "en": "Matthias Schleiden",
+        "as": "মেথিয়াছ শ্লাইডেন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Schleiden (1838, plants) and Schwann (1839, animals) together proposed that all organisms are made of cells.",
+      "as": "শ্লাইডেন (১৮৩৮, উদ্ভিদ) আৰু শ্বান (১৮৩৯, প্ৰাণী) একেলগে প্ৰস্তাৱ কৰিছিল যে সকলো জীৱ কোষেৰে গঠিত।"
+    }
+  }
+]

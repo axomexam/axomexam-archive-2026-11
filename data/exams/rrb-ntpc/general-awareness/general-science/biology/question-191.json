@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-191",
+    "q": {
+      "en": "The science that deals with heredity and variation is:",
+      "as": "বংশগতি আৰু ভিন্নতাৰ সৈতে জড়িত বিজ্ঞানটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Ecology",
+        "as": "পৰিৱেশবিজ্ঞান"
+      },
+      {
+        "en": "Genetics",
+        "as": "বংশগতিবিজ্ঞান"
+      },
+      {
+        "en": "Anatomy",
+        "as": "শৰীৰবিদ্যা"
+      },
+      {
+        "en": "Physiology",
+        "as": "শৰীৰতত্ত্ব"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Genetics studies how characters are transmitted from parents to offspring.",
+      "as": "বংশগতিবিজ্ঞানে পিতৃ-মাতৃৰ পৰা সন্তানলৈ বৈশিষ্ট্য কেনেকৈ যায় অধ্যয়ন কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-212",
+    "q": {
+      "en": "The alternative forms of a gene are called:",
+      "as": "জিনৰ বিকল্প ৰূপবোৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Genomes",
+        "as": "জিন'ম"
+      },
+      {
+        "en": "Chromatids",
+        "as": "ক্ৰ'মেটিড"
+      },
+      {
+        "en": "Codons",
+        "as": "ক'ডন"
+      },
+      {
+        "en": "Alleles",
+        "as": "এলিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Alleles are alternative forms of a gene that control contrasting traits.",
+      "as": "এলিল হ'ল জিনৰ বিকল্প ৰূপ যিয়ে বিপৰীত বৈশিষ্ট্য নিয়ন্ত্ৰণ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-168",
+    "q": {
+      "en": "Which of the following plants has a tap root system?",
+      "as": "তলৰ কোনটো উদ্ভিদৰ মূল প্ৰধান শিপা তন্ত্ৰ আছে?"
+    },
+    "options": [
+      {
+        "en": "Grass",
+        "as": "ঘাঁহ"
+      },
+      {
+        "en": "Rice",
+        "as": "ধান"
+      },
+      {
+        "en": "Wheat",
+        "as": "গম"
+      },
+      {
+        "en": "Mustard",
+        "as": "সৰিয়হ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Mustard is a dicot with a tap root; rice, wheat and grass are monocots with fibrous roots.",
+      "as": "সৰিয়হ এটা দ্বিবীজপত্ৰী উদ্ভিদ যাৰ মূল প্ৰধান শিপা থাকে; ধান, গম আৰু ঘাঁহ তন্তু-শিপা থকা একবীজপত্ৰী।"
+    }
+  }
+]

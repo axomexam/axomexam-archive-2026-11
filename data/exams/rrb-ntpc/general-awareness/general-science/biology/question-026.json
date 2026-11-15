@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-026",
+    "q": {
+      "en": "Sister chromatids separate and move to opposite poles in:",
+      "as": "ভগ্নী ক্ৰ'মেটিডবোৰ পৃথক হৈ বিপৰীত মেৰুত গৈ কিয় পৰ্যায়ত?"
+    },
+    "options": [
+      {
+        "en": "Prophase",
+        "as": "প্ৰ'ফেজ"
+      },
+      {
+        "en": "Metaphase",
+        "as": "মেটাফেজ"
+      },
+      {
+        "en": "Interphase",
+        "as": "আন্তৰ্পৰ্যায়"
+      },
+      {
+        "en": "Anaphase",
+        "as": "এনাফেজ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In anaphase the centromeres split and chromatids move to opposite poles.",
+      "as": "এনাফেজত চেণ্ট্ৰ'মিয়াৰ ফাটি ক্ৰ'মেটিডবোৰ বিপৰীত মেৰুলৈ যায়।"
+    }
+  }
+]

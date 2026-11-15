@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-025",
+    "q": {
+      "en": "During which phase of mitosis do chromosomes line up at the equator of the cell?",
+      "as": "মাইট'ছিছৰ কোন পৰ্যায়ত ক্ৰ'ম'জ'মবোৰ কোষৰ মাজভাগত শাৰী পাতি থাকে?"
+    },
+    "options": [
+      {
+        "en": "Metaphase",
+        "as": "মেটাফেজ"
+      },
+      {
+        "en": "Prophase",
+        "as": "প্ৰ'ফেজ"
+      },
+      {
+        "en": "Anaphase",
+        "as": "এনাফেজ"
+      },
+      {
+        "en": "Telophase",
+        "as": "টেল'ফেজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In metaphase chromosomes align at the metaphase plate or equator.",
+      "as": "মেটাফেজত ক্ৰ'ম'জ'মবোৰ মেটাফেজ ফলক বা বিষুৱৰেখাত শাৰী পাতি থাকে।"
+    }
+  }
+]

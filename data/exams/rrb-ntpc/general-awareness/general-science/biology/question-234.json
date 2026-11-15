@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-234",
+    "q": {
+      "en": "Which of these energy sources is naturally replenished and never runs out?",
+      "as": "এইবোৰৰ কোনটো শক্তি উৎস প্ৰাকৃতিকভাৱে পুনৰ ভৰ্তি হয় আৰু কেতিয়াও শেষ নহয়?"
+    },
+    "options": [
+      {
+        "en": "Coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "Petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "Solar energy",
+        "as": "সৌৰশক্তি"
+      },
+      {
+        "en": "Natural gas",
+        "as": "প্ৰাকৃতিক গেছ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Solar energy is renewable and inexhaustible, unlike fossil fuels.",
+      "as": "সৌৰশক্তি নবীকৰণযোগ্য আৰু অক্ষয়, জীৱাশ্ম ইন্ধনৰ দৰে নহয়।"
+    }
+  }
+]

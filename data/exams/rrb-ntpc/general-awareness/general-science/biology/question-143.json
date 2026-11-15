@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-143",
+    "q": {
+      "en": "The male reproductive part of a flower is the:",
+      "as": "ফুলৰ পুং প্ৰজনন অংগটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Stamen",
+        "as": "পুংকেশৰ"
+      },
+      {
+        "en": "Carpel",
+        "as": "গৰ্ভকেশৰ"
+      },
+      {
+        "en": "Petal",
+        "as": "পাহি"
+      },
+      {
+        "en": "Sepal",
+        "as": "বৃতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The stamen, made of anther and filament, produces pollen grains.",
+      "as": "পৰাগধানী আৰু পৰাগতন্তুৰে গঠিত পুংকেশৰে পৰাগ ৰেণু উৎপন্ন কৰে।"
+    }
+  }
+]

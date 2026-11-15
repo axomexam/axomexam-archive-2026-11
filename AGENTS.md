@@ -116,6 +116,39 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+## Session record — Nov 2026 RRB NTPC Biology question bank (310 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a full bilingual Biology bank to the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/general-science/biology/`:
+  `question-002.json` … `question-310.json` (309 new files) on top of the
+  existing `question-001.json`, for **310 questions** in the topic. Each file
+  holds one MCQ in the repo's shape — `id`, `q.{en,as}`, four
+  `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 310 `question-NNN.json`
+  files. The SPA's `listExamQuestions` reads that manifest (and the folder
+  listing) and fetches every file, so no code change was needed.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty
+  and cover cell biology, human body systems, plant biology, reproduction and
+  genetics, ecology and environment, classification, nutrition and
+  biomolecules, and general biology. Answer keys are spread evenly over
+  A/B/C/D (78/77/77/77) with the same deterministic sequence
+  `tools/balance-answer-keys.js` uses; `--book rrb-ntpc --topic
+  general-awareness/general-science/biology --check` reports 0 skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive) against all other question text already
+  in `data/`; the 43 colliding items were reworded so the bank shares no stem
+  or explanation with the existing banks or mock sets.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it; a re-run only moves `generatedAt`, which was reverted. Do not "fix" the
+  missing count.
+- **Verified** by serving the repo locally: the biology `index.json` and every
+  `question-NNN.json` return 200. `node tools/seo-audit.js` still reports
+  `thin (<300w): 0`, no missing H1/desc/canonical/JSON-LD and all duplicate
+  counts at 0. No page, UI, script or CSS file changed.
+
 ## Session record — Nov 2026 RRB NTPC exam book (Coming Soon)
 
 - **Added** the Railway RRB NTPC (CBT-1 & CBT-2) exam book to `Your Exams`,

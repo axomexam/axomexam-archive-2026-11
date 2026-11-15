@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-288",
+    "q": {
+      "en": "The scientist who discovered the smallpox vaccine was:",
+      "as": "গুটিবসন্তৰ ভেকচিন আৱিষ্কাৰ কৰা বিজ্ঞানীজন আছিল:"
+    },
+    "options": [
+      {
+        "en": "Edward Jenner",
+        "as": "এডৱাৰ্ড জেনাৰ"
+      },
+      {
+        "en": "Louis Pasteur",
+        "as": "লুই পাস্তুৰ"
+      },
+      {
+        "en": "Robert Koch",
+        "as": "ৰবাৰ্ট ক'ক"
+      },
+      {
+        "en": "Alexander Fleming",
+        "as": "এলেকজেণ্ডাৰ ফ্লেমিং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Edward Jenner developed the first smallpox vaccine in 1796.",
+      "as": "এডৱাৰ্ড জেনাৰে ১৭৯৬ চনত প্ৰথম গুটিবসন্ত ভেকচিন বিকশিত কৰিছিল।"
+    }
+  }
+]

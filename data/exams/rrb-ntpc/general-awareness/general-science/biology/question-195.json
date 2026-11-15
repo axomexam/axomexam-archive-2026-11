@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-195",
+    "q": {
+      "en": "The number of pairs of chromosomes in a human cell is:",
+      "as": "মানৱ কোষত ক্ৰ'ম'জ'মৰ যোৰৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "46",
+        "as": "৪৬"
+      },
+      {
+        "en": "22",
+        "as": "২২"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
+      },
+      {
+        "en": "23",
+        "as": "২৩"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Humans have 23 pairs of chromosomes, of which one pair determines sex.",
+      "as": "মানুহৰ ২৩ যোৰ ক্ৰ'ম'জ'ম থাকে, ইয়াৰ এযোৰে লিংগ নিৰ্ণয় কৰে।"
+    }
+  }
+]

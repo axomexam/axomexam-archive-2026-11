@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-073",
+    "q": {
+      "en": "Deficiency of insulin in the body causes:",
+      "as": "শৰীৰত ইনচুলিনৰ অভাৱে কিয় ৰোগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Diabetes mellitus",
+        "as": "ডায়েবেটিছ মেলিটাছ"
+      },
+      {
+        "en": "Anaemia",
+        "as": "ৰক্তহীনতা"
+      },
+      {
+        "en": "Scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lack of insulin leads to high blood sugar, called diabetes mellitus.",
+      "as": "ইনচুলিনৰ অভাৱে ৰক্তত চেনি বঢ়ায়, ইয়াক ডায়েবেটিছ মেলিটাছ বোলে।"
+    }
+  }
+]

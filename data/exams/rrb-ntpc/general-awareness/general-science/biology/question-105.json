@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-105",
+    "q": {
+      "en": "The smallest muscle in the human body is found in the:",
+      "as": "মানৱ শৰীৰৰ আটাইতকৈ সৰু পেশীটো কত থাকে?"
+    },
+    "options": [
+      {
+        "en": "Eye",
+        "as": "চকু"
+      },
+      {
+        "en": "Nose",
+        "as": "নাক"
+      },
+      {
+        "en": "Thumb",
+        "as": "বুঢ়া আঙুলি"
+      },
+      {
+        "en": "Middle ear",
+        "as": "মধ্য কাণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The stapedius muscle in the middle ear is the smallest muscle in the body.",
+      "as": "মধ্য কাণৰ ষ্টেপিডিয়াছ পেশী শৰীৰৰ আটাইতকৈ সৰু পেশী।"
+    }
+  }
+]

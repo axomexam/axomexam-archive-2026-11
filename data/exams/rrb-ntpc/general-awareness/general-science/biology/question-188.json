@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-188",
+    "q": {
+      "en": "Which of the following reproduces by spore formation?",
+      "as": "তলৰ কোনটো বীজ ৰেণু গঠনৰ দ্বাৰা প্ৰজনন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Amoeba",
+        "as": "এমিবা"
+      },
+      {
+        "en": "Hydra",
+        "as": "হাইড্ৰা"
+      },
+      {
+        "en": "Rhizopus",
+        "as": "ৰাইজ'পাছ"
+      },
+      {
+        "en": "Planaria",
+        "as": "প্লানেৰিয়া"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rhizopus, a bread mould, produces spores in a sporangium for reproduction.",
+      "as": "পাউৰুটিত হোৱা ৰাইজ'পাছে প্ৰজননৰ বাবে স্প'ৰাঞ্জিয়ামত বীজ ৰেণু উৎপাদন কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-210",
+    "q": {
+      "en": "In a monohybrid cross between pure tall and pure dwarf pea plants, the F1 generation is:",
+      "as": "শুদ্ধ ওখ আৰু শুদ্ধ চুটি মটৰমাহ গছৰ ম'ন'হাইব্ৰিড সংকৰণত F1 প্ৰজন্ম কিয় হয়?"
+    },
+    "options": [
+      {
+        "en": "All dwarf",
+        "as": "সকলো চুটি"
+      },
+      {
+        "en": "Half tall, half dwarf",
+        "as": "আধা ওখ, আধা চুটি"
+      },
+      {
+        "en": "All tall",
+        "as": "সকলো ওখ"
+      },
+      {
+        "en": "Three tall, one dwarf",
+        "as": "তিনিটা ওখ, এটা চুটি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tallness is dominant, so all F1 plants are tall; dwarfness reappears in F2.",
+      "as": "ওখতা প্ৰকাশী, সেয়ে F1 ৰ সকলো গছ ওখ; চুটি ভাব F2 ত পুনৰ দেখা যায়।"
+    }
+  }
+]

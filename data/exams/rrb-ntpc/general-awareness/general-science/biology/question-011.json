@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-011",
+    "q": {
+      "en": "Which organelle helps in the formation of the spindle fibres during cell division?",
+      "as": "কোষ বিভাজনৰ সময়ত টাকু আঁহ গঠনত কোনটো অংগাণুৱে সহায় কৰে?"
+    },
+    "options": [
+      {
+        "en": "Centrosome",
+        "as": "চেণ্ট্ৰ'জ'ম"
+      },
+      {
+        "en": "Lysosome",
+        "as": "লাইচ'জ'ম"
+      },
+      {
+        "en": "Ribosome",
+        "as": "ৰাইব'জ'ম"
+      },
+      {
+        "en": "Vacuole",
+        "as": "ৰিক্তস্থান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The centrosome contains centrioles that form the spindle apparatus.",
+      "as": "চেণ্ট্ৰ'জ'মত চেণ্ট্ৰিঅ'ল থাকে যিয়ে টাকু যন্ত্ৰ গঠন কৰে।"
+    }
+  }
+]

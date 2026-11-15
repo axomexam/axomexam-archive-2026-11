@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-036",
+    "q": {
+      "en": "Which scientist discovered the nucleus in a cell?",
+      "as": "কোন বিজ্ঞানীয়ে কোষত নিউক্লিয়াছ আৱিষ্কাৰ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Robert Hooke",
+        "as": "ৰবাৰ্ট হুক"
+      },
+      {
+        "en": "Schleiden",
+        "as": "শ্লাইডেন"
+      },
+      {
+        "en": "Robert Brown",
+        "as": "ৰবাৰ্ট ব্ৰাউন"
+      },
+      {
+        "en": "Virchow",
+        "as": "ভিৰ্চ'"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "In 1831 Robert Brown noticed a dense body inside orchid cells, which came to be known as the nucleus.",
+      "as": "ৰবাৰ্ট ব্ৰাউনে ১৮৩১ চনত নিউক্লিয়াছ আৱিষ্কাৰ কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-295",
+    "q": {
+      "en": "Which of the following animals is a mammal?",
+      "as": "তলৰ কোনটো প্ৰাণী স্তন্যপায়ী?"
+    },
+    "options": [
+      {
+        "en": "Shark",
+        "as": "শাৰ্ক"
+      },
+      {
+        "en": "Crocodile",
+        "as": "ঘঁৰিয়াল"
+      },
+      {
+        "en": "Penguin",
+        "as": "পেংগুইন"
+      },
+      {
+        "en": "Whale",
+        "as": "তিমি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The whale is a mammal that lives in water, breathes air and suckles its young.",
+      "as": "তিমি পানীত বাস কৰা স্তন্যপায়ী, যি বায়ু শ্বাস লয় আৰু পোৱালিক গাখীৰ খুৱায়।"
+    }
+  }
+]

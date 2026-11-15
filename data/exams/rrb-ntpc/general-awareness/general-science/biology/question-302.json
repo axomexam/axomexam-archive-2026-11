@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-302",
+    "q": {
+      "en": "Which of the following is a warm-blooded animal?",
+      "as": "তলৰ কোনটো উষ্ণ ৰক্তৰ প্ৰাণী?"
+    },
+    "options": [
+      {
+        "en": "Fish",
+        "as": "মাছ"
+      },
+      {
+        "en": "Frog",
+        "as": "ভেকুলী"
+      },
+      {
+        "en": "Lizard",
+        "as": "জেঠী"
+      },
+      {
+        "en": "Bird",
+        "as": "চৰাই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Birds and mammals are warm-blooded and maintain a constant body temperature.",
+      "as": "চৰাই আৰু স্তন্যপায়ী উষ্ণ ৰক্তৰ আৰু শৰীৰৰ উষ্ণতা স্থিৰ ৰাখে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-067",
+    "q": {
+      "en": "The normal systolic blood pressure of a healthy adult is about:",
+      "as": "সুস্থ প্ৰাপ্তবয়স্কৰ স্বাভাৱিক চিষ্টলিক ৰক্তচাপ প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "80 mm Hg",
+        "as": "৮০ মিমি Hg"
+      },
+      {
+        "en": "120 mm Hg",
+        "as": "১২০ মিমি Hg"
+      },
+      {
+        "en": "200 mm Hg",
+        "as": "২০০ মিমি Hg"
+      },
+      {
+        "en": "60 mm Hg",
+        "as": "৬০ মিমি Hg"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Normal blood pressure is about 120/80 mm Hg, where 120 is systolic.",
+      "as": "স্বাভাৱিক ৰক্তচাপ প্ৰায় ১২০/৮০ মিমি Hg, য'ত ১২০ চিষ্টলিক।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-044",
+    "q": {
+      "en": "Which of the following cells does NOT contain a nucleus?",
+      "as": "তলৰ কোনটো কোষত নিউক্লিয়াছ নাথাকে?"
+    },
+    "options": [
+      {
+        "en": "Nerve cell",
+        "as": "স্নায়ুকোষ"
+      },
+      {
+        "en": "Mature mammalian red blood cell",
+        "as": "পৰিপক্ব স্তন্যপায়ী ৰঙা ৰক্তকোষ"
+      },
+      {
+        "en": "Liver cell",
+        "as": "যকৃতৰ কোষ"
+      },
+      {
+        "en": "White blood cell",
+        "as": "শ্বেত ৰক্তকোষ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mature mammalian RBCs lose their nucleus to carry more haemoglobin.",
+      "as": "পৰিপক্ব স্তন্যপায়ী RBC এ অধিক হিম'গ্ল'বিন বহন কৰিবলৈ নিউক্লিয়াছ হেৰুৱায়।"
+    }
+  }
+]

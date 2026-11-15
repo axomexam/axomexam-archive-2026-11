@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-305",
+    "q": {
+      "en": "The hard outer covering of an insect is made of:",
+      "as": "পতংগৰ কঠিন বাহিৰৰ আৱৰণ কিৰে গঠিত?"
+    },
+    "options": [
+      {
+        "en": "Chitin",
+        "as": "কাইটিন"
+      },
+      {
+        "en": "Cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "Calcium carbonate",
+        "as": "কেলচিয়াম কাৰ্বনেট"
+      },
+      {
+        "en": "Keratin",
+        "as": "কেৰাটিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The insect exoskeleton is made of chitin, a tough polysaccharide.",
+      "as": "পতংগৰ বাহ্যিক কংকাল কাইটিনৰে গঠিত, এটা কঠিন পলিছেকাৰাইড।"
+    }
+  }
+]

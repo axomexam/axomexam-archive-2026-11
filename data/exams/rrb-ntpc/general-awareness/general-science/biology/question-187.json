@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-187",
+    "q": {
+      "en": "Which plant reproduces by vegetative propagation through leaves?",
+      "as": "কোন উদ্ভিদে পাতৰ জৰিয়তে অংগজ প্ৰজনন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Bryophyllum",
+        "as": "ব্ৰায়'ফাইলাম"
+      },
+      {
+        "en": "Potato",
+        "as": "আলু"
+      },
+      {
+        "en": "Onion",
+        "as": "পিয়াঁজ"
+      },
+      {
+        "en": "Ginger",
+        "as": "আদা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bryophyllum develops buds on the margins of its leaves that grow into new plants.",
+      "as": "ব্ৰায়'ফাইলামৰ পাতৰ কিনাৰাত মুকুল ওলায় যি নতুন উদ্ভিদ হৈ বাঢ়ে।"
+    }
+  }
+]

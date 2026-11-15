@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-093",
+    "q": {
+      "en": "The microscopic filtering unit that makes up each kidney is the:",
+      "as": "প্ৰতিটো বৃক্ক গঠন কৰা সূক্ষ্ম ছাননি এককটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Nephron",
+        "as": "নেফ্ৰন"
+      },
+      {
+        "en": "Neuron",
+        "as": "স্নায়ুকোষ"
+      },
+      {
+        "en": "Alveolus",
+        "as": "ফুলকোষ"
+      },
+      {
+        "en": "Villus",
+        "as": "ভিলাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Each kidney has about a million nephrons, the basic filtering units.",
+      "as": "প্ৰতিটো বৃক্কত প্ৰায় এনিযুত নেফ্ৰন থাকে, যিবোৰ মূল ছাননি একক।"
+    }
+  }
+]

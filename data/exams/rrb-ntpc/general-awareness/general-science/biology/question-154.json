@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-154",
+    "q": {
+      "en": "Plants whose seeds are not enclosed within a fruit belong to the group called:",
+      "as": "যিবোৰ উদ্ভিদৰ গুটি ফলৰ ভিতৰত বন্ধ নাথাকে সেয়া কোন গোটৰ অন্তৰ্গত?"
+    },
+    "options": [
+      {
+        "en": "Angiosperms",
+        "as": "এনজিঅ'স্পাৰ্ম"
+      },
+      {
+        "en": "Gymnosperms",
+        "as": "জিমন'স্পাৰ্ম"
+      },
+      {
+        "en": "Bryophytes",
+        "as": "ব্ৰায়'ফাইট"
+      },
+      {
+        "en": "Pteridophytes",
+        "as": "টেৰিড'ফাইট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gymnosperms such as pines bear seeds not enclosed in a fruit, hence naked seeds.",
+      "as": "পাইনৰ দৰে জিমন'স্পাৰ্মৰ গুটি ফলৰ ভিতৰত বন্ধ নাথাকে, সেয়ে নগ্ন গুটি।"
+    }
+  }
+]

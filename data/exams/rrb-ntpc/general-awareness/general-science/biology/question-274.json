@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-274",
+    "q": {
+      "en": "Which of the following is a source of vitamin C?",
+      "as": "তলৰ কোনটো ভিটামিন C ৰ উৎস?"
+    },
+    "options": [
+      {
+        "en": "Rice",
+        "as": "ধান"
+      },
+      {
+        "en": "Amla",
+        "as": "আমলা"
+      },
+      {
+        "en": "Butter",
+        "as": "মাখন"
+      },
+      {
+        "en": "Milk",
+        "as": "গাখীৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Amla and citrus fruits such as oranges and lemons are rich in vitamin C.",
+      "as": "আমলা আৰু কমলা-নেমুৰ দৰে টেঙা ফল ভিটামিন C ত সমৃদ্ধ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-057",
+    "q": {
+      "en": "Which of the following is the smallest cell?",
+      "as": "তলৰ কোনটো আটাইতকৈ সৰু কোষ?"
+    },
+    "options": [
+      {
+        "en": "Amoeba",
+        "as": "এমিবা"
+      },
+      {
+        "en": "Mycoplasma",
+        "as": "মাইক'প্লাজমা"
+      },
+      {
+        "en": "Yeast",
+        "as": "ঈষ্ট"
+      },
+      {
+        "en": "Nerve cell",
+        "as": "স্নায়ুকোষ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mycoplasma is the smallest living cell, about 0.1 micrometre in size.",
+      "as": "মাইক'প্লাজমা আটাইতকৈ সৰু জীৱন্ত কোষ, প্ৰায় ০.১ মাইক্ৰ'মিটাৰ আকাৰৰ।"
+    }
+  }
+]

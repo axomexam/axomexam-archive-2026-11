@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-166",
+    "q": {
+      "en": "The tree with the largest canopy and spreading prop roots is the:",
+      "as": "আটাইতকৈ ডাঙৰ চালি আৰু বিস্তৃত বায়বীয় শিপা থকা গছটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Pine",
+        "as": "পাইন"
+      },
+      {
+        "en": "Banyan",
+        "as": "বৰগছ"
+      },
+      {
+        "en": "Cactus",
+        "as": "কেক্টাছ"
+      },
+      {
+        "en": "Teak",
+        "as": "শাল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The banyan sends down aerial roots that become prop roots, giving it a huge spread.",
+      "as": "বৰগছে বায়বীয় শিপা তললৈ পঠিয়াই ঠাৰি শিপা কৰে, যাৰ ফলত ই বহুত বিস্তৃত হয়।"
+    }
+  }
+]

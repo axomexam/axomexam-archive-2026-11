@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-040",
+    "q": {
+      "en": "Which of these is the longest cell in the human body?",
+      "as": "মানৱ শৰীৰৰ আটাইতকৈ দীঘল কোষটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Muscle cell",
+        "as": "পেশী কোষ"
+      },
+      {
+        "en": "Ovum",
+        "as": "ডিম্বাণু"
+      },
+      {
+        "en": "Nerve cell",
+        "as": "স্নায়ুকোষ"
+      },
+      {
+        "en": "White blood cell",
+        "as": "শ্বেত ৰক্তকোষ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A motor neuron can be up to a metre long, making it the longest human cell.",
+      "as": "এটা চলন স্নায়ুকোষ প্ৰায় এমিটাৰ পৰ্যন্ত দীঘল হ'ব পাৰে, সেয়ে ই আটাইতকৈ দীঘল মানৱ কোষ।"
+    }
+  }
+]

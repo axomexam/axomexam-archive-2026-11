@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-173",
+    "q": {
+      "en": "Which of these crops is grown mainly for sale rather than for direct food use?",
+      "as": "এইবোৰৰ কোনটো শস্য পোনপটীয়া খাদ্যৰ বাবে নহয়, মূলতঃ বিক্ৰীৰ বাবে খেতি কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Rice",
+        "as": "ধান"
+      },
+      {
+        "en": "Cotton",
+        "as": "কপাহ"
+      },
+      {
+        "en": "Wheat",
+        "as": "গম"
+      },
+      {
+        "en": "Maize",
+        "as": "মাকৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cotton is a cash crop grown for sale; rice, wheat and maize are food crops.",
+      "as": "কপাহ বিক্ৰীৰ বাবে খেতি কৰা নগদ শস্য; ধান, গম আৰু মাকৈ খাদ্য শস্য।"
+    }
+  }
+]

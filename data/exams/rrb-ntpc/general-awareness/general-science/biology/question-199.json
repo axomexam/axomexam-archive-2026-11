@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-199",
+    "q": {
+      "en": "The double helix model of DNA was proposed by:",
+      "as": "DNA ৰ দ্বি-হেলিক্স আৰ্হি কোনে প্ৰস্তাৱ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Watson and Crick",
+        "as": "ৱাটছন আৰু ক্ৰিক"
+      },
+      {
+        "en": "Mendel and Darwin",
+        "as": "মেণ্ডেল আৰু ডাৰউইন"
+      },
+      {
+        "en": "Hooke and Brown",
+        "as": "হুক আৰু ব্ৰাউন"
+      },
+      {
+        "en": "Pasteur and Koch",
+        "as": "পাস্তুৰ আৰু ক'ক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "James Watson and Francis Crick proposed the double helix structure of DNA in 1953.",
+      "as": "জেমছ ৱাটছন আৰু ফ্ৰান্সিছ ক্ৰিকে ১৯৫৩ চনত DNA ৰ দ্বি-হেলিক্স গঠন প্ৰস্তাৱ কৰিছিল।"
+    }
+  }
+]

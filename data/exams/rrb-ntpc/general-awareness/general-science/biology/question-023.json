@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-023",
+    "q": {
+      "en": "Which type of cell division produces gametes?",
+      "as": "কোন প্ৰকাৰৰ কোষ বিভাজনে গেমেট উৎপন্ন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Mitosis",
+        "as": "মাইট'ছিছ"
+      },
+      {
+        "en": "Amitosis",
+        "as": "অ্যামাইট'ছিছ"
+      },
+      {
+        "en": "Binary fission",
+        "as": "দ্বি-বিভাজন"
+      },
+      {
+        "en": "Meiosis",
+        "as": "মিঅ'ছিছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Meiosis is a reduction division that halves the chromosome number, forming gametes.",
+      "as": "মিঅ'ছিছ এটা হ্ৰাসকাৰী বিভাজন যিয়ে ক্ৰ'ম'জ'ম সংখ্যা আধা কৰি গেমেট তৈয়াৰ কৰে।"
+    }
+  }
+]

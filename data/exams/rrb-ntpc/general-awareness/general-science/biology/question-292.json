@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-292",
+    "q": {
+      "en": "Which of the following is the smallest unit of a biological classification?",
+      "as": "তলৰ কোনটো জৈৱ শ্ৰেণীবিভাজনৰ আটাইতকৈ সৰু একক?"
+    },
+    "options": [
+      {
+        "en": "Species",
+        "as": "প্ৰজাতি"
+      },
+      {
+        "en": "Genus",
+        "as": "গণ"
+      },
+      {
+        "en": "Family",
+        "as": "পৰিয়াল"
+      },
+      {
+        "en": "Order",
+        "as": "বৰ্গ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Species is the lowest and most basic taxon in biological classification.",
+      "as": "প্ৰজাতি জৈৱ শ্ৰেণীবিভাজনৰ আটাইতকৈ তলৰ আৰু মৌলিক টেক্সন।"
+    }
+  }
+]

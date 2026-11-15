@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-242",
+    "q": {
+      "en": "Which kingdom includes bacteria?",
+      "as": "কোন ৰাজ্যত বেক্টেৰিয়া সোমায়?"
+    },
+    "options": [
+      {
+        "en": "Protista",
+        "as": "প্ৰ'টিষ্টা"
+      },
+      {
+        "en": "Fungi",
+        "as": "ফাংগাই"
+      },
+      {
+        "en": "Monera",
+        "as": "ম'নেৰা"
+      },
+      {
+        "en": "Plantae",
+        "as": "প্লাণ্টাই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Monera includes prokaryotic organisms such as bacteria and cyanobacteria.",
+      "as": "ম'নেৰাত বেক্টেৰিয়া আৰু চায়ান'বেক্টেৰিয়াৰ দৰে প্ৰ'কেৰিয়'টিক জীৱ সোমায়।"
+    }
+  }
+]

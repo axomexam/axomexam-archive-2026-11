@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-179",
+    "q": {
+      "en": "The female gamete in humans is called:",
+      "as": "মানুহত স্ত্ৰী গেমেটক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Sperm",
+        "as": "শুক্ৰাণু"
+      },
+      {
+        "en": "Zygote",
+        "as": "জাইগ'ট"
+      },
+      {
+        "en": "Ovum",
+        "as": "ডিম্বাণু"
+      },
+      {
+        "en": "Placenta",
+        "as": "প্লেচেণ্টা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The ovum, released from the ovary, is the female gamete.",
+      "as": "ডিম্বাশয়ৰ পৰা মুক্ত হোৱা ডিম্বাণু স্ত্ৰী গেমেট।"
+    }
+  }
+]

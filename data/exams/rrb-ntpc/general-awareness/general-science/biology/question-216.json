@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-216",
+    "q": {
+      "en": "Down syndrome in humans is caused by:",
+      "as": "মানুহত ডাউন ছিনড্ৰ'ম কিয়ৰ দ্বাৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "An extra copy of chromosome 21",
+        "as": "২১ নম্বৰ ক্ৰ'ম'জ'মৰ এটা অতিৰিক্ত প্ৰতিলিপি"
+      },
+      {
+        "en": "Missing chromosome 21",
+        "as": "২১ নম্বৰ ক্ৰ'ম'জ'ম অনুপস্থিত"
+      },
+      {
+        "en": "Extra Y chromosome",
+        "as": "অতিৰিক্ত Y ক্ৰ'ম'জ'ম"
+      },
+      {
+        "en": "Missing X chromosome",
+        "as": "X ক্ৰ'ম'জ'ম অনুপস্থিত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Down syndrome, or trisomy 21, results from an additional copy of chromosome 21.",
+      "as": "ডাউন ছিনড্ৰ'ম, বা ট্ৰাইছ'মি ২১, ২১ নম্বৰ ক্ৰ'ম'জ'মৰ এটা অতিৰিক্ত প্ৰতিলিপিৰ পৰা হয়।"
+    }
+  }
+]

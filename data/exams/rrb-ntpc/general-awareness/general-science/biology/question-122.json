@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-122",
+    "q": {
+      "en": "Which part of the human body is affected by poliomyelitis?",
+      "as": "পলিঅ'মাইলাইটিছত মানৱ শৰীৰৰ কোন অংশ ক্ষতিগ্ৰস্ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Nervous system",
+        "as": "স্নায়ু তন্ত্ৰ"
+      },
+      {
+        "en": "Digestive system",
+        "as": "পাচন তন্ত্ৰ"
+      },
+      {
+        "en": "Circulatory system",
+        "as": "ৰক্ত সংবহন তন্ত্ৰ"
+      },
+      {
+        "en": "Skeletal system",
+        "as": "কংকাল তন্ত্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Polio virus attacks motor neurons in the spinal cord, causing paralysis.",
+      "as": "পলিঅ' ভাইৰাছে সুষুম্নাকাণ্ডৰ চলন স্নায়ুকোষ আক্ৰমণ কৰি পক্ষাঘাত কৰে।"
+    }
+  }
+]

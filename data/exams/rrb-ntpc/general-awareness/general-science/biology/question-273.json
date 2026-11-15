@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-273",
+    "q": {
+      "en": "The deficiency of which vitamin causes pernicious anaemia?",
+      "as": "কোন ভিটামিনৰ অভাৱে পাৰনিচিয়াছ ৰক্তহীনতা কৰে?"
+    },
+    "options": [
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin B12",
+        "as": "ভিটামিন B12"
+      },
+      {
+        "en": "Vitamin K",
+        "as": "ভিটামিন K"
+      },
+      {
+        "en": "Vitamin D",
+        "as": "ভিটামিন D"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vitamin B12 is needed for red blood cell formation; its lack causes pernicious anaemia.",
+      "as": "ভিটামিন B12 ৰঙা ৰক্তকোষ গঠনৰ বাবে প্ৰয়োজন; ইয়াৰ অভাৱে পাৰনিচিয়াছ ৰক্তহীনতা কৰে।"
+    }
+  }
+]

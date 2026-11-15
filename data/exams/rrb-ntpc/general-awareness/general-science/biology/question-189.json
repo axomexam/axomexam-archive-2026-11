@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-189",
+    "q": {
+      "en": "Regeneration is well marked in:",
+      "as": "পুনৰ্জীৱন কিয় জীৱত ভালদৰে দেখা যায়?"
+    },
+    "options": [
+      {
+        "en": "Human",
+        "as": "মানুহ"
+      },
+      {
+        "en": "Frog",
+        "as": "ভেকুলী"
+      },
+      {
+        "en": "Fish",
+        "as": "মাছ"
+      },
+      {
+        "en": "Planaria",
+        "as": "প্লানেৰিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Planaria can regenerate a whole new body from a cut piece.",
+      "as": "প্লানেৰিয়া এটা কটা টুকুৰাৰ পৰা গোটেই নতুন শৰীৰ পুনৰ্জীৱন দিব পাৰে।"
+    }
+  }
+]

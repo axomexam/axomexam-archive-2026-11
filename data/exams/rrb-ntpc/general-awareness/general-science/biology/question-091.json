@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-091",
+    "q": {
+      "en": "The longest part of the human alimentary canal is the:",
+      "as": "মানৱ পাচন নলীৰ আটাইতকৈ দীঘল অংশটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Small intestine",
+        "as": "ক্ষুদ্ৰান্ত্ৰ"
+      },
+      {
+        "en": "Large intestine",
+        "as": "বৃহদান্ত্ৰ"
+      },
+      {
+        "en": "Stomach",
+        "as": "পেট"
+      },
+      {
+        "en": "Rectum",
+        "as": "মলাশয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The small intestine is about 6-7 metres long, the longest part of the canal.",
+      "as": "ক্ষুদ্ৰান্ত্ৰ প্ৰায় ৬-৭ মিটাৰ দীঘল, পাচন নলীৰ আটাইতকৈ দীঘল অংশ।"
+    }
+  }
+]

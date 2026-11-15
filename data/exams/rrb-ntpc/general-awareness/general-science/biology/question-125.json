@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-125",
+    "q": {
+      "en": "Which of these diseases is caused by a viral pathogen?",
+      "as": "এইবোৰৰ কোনটো ৰোগ ভাইৰাছজনিত ৰোগজীৱাণুৱে কৰে?"
+    },
+    "options": [
+      {
+        "en": "Tuberculosis",
+        "as": "ক্ষয়ৰোগ"
+      },
+      {
+        "en": "Measles",
+        "as": "মাতৃকা (মিজলছ)"
+      },
+      {
+        "en": "Cholera",
+        "as": "কলেৰা"
+      },
+      {
+        "en": "Typhoid",
+        "as": "টাইফইড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Measles is a viral disease; TB, cholera and typhoid are bacterial.",
+      "as": "মাতৃকা ভাইৰাছজনিত ৰোগ; ক্ষয়ৰোগ, কলেৰা আৰু টাইফইড বেক্টেৰিয়াজনিত।"
+    }
+  }
+]

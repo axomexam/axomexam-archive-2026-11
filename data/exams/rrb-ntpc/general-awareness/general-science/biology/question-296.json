@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-296",
+    "q": {
+      "en": "Which of the following is an egg-laying mammal?",
+      "as": "তলৰ কোনটো কণী পাৰা স্তন্যপায়ী?"
+    },
+    "options": [
+      {
+        "en": "Bat",
+        "as": "বাদুলি"
+      },
+      {
+        "en": "Platypus",
+        "as": "প্লেটিপাছ"
+      },
+      {
+        "en": "Kangaroo",
+        "as": "কেংগেৰু"
+      },
+      {
+        "en": "Dolphin",
+        "as": "ডলফিন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The duck-billed platypus is an egg-laying mammal found in Australia.",
+      "as": "হাঁহ-ঠোঁট প্লেটিপাছ অষ্ট্ৰেলিয়াত পোৱা কণী পাৰা স্তন্যপায়ী।"
+    }
+  }
+]

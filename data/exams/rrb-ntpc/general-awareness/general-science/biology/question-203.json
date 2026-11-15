@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-203",
+    "q": {
+      "en": "The study of fossils provides evidence for:",
+      "as": "জীৱাশ্মৰ অধ্যয়নে কিয়ৰ প্ৰমাণ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Photosynthesis",
+        "as": "সালোকসংশ্লেষণ"
+      },
+      {
+        "en": "Respiration",
+        "as": "শ্বসন"
+      },
+      {
+        "en": "Evolution",
+        "as": "বিবৰ্তন"
+      },
+      {
+        "en": "Digestion",
+        "as": "পাচন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Fossils show the forms of past organisms and support the theory of evolution.",
+      "as": "জীৱাশ্মই অতীতৰ জীৱৰ ৰূপ দেখুৱায় আৰু বিবৰ্তন তত্ত্বক সমৰ্থন কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-060",
+    "q": {
+      "en": "The hardest substance in the human body is:",
+      "as": "মানৱ শৰীৰৰ আটাইতকৈ কঠিন পদাৰ্থটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Bone",
+        "as": "হাড়"
+      },
+      {
+        "en": "Cartilage",
+        "as": "উপাস্থি"
+      },
+      {
+        "en": "Nail",
+        "as": "নখ"
+      },
+      {
+        "en": "Enamel of teeth",
+        "as": "দাঁতৰ এনামেল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Tooth enamel, made of calcium salts, is the hardest substance in the human body.",
+      "as": "কেলচিয়াম লৱণেৰে গঠিত দাঁতৰ এনামেল মানৱ শৰীৰৰ আটাইতকৈ কঠিন পদাৰ্থ।"
+    }
+  }
+]

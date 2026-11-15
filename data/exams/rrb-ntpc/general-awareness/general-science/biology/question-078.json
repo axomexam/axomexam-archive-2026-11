@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-078",
+    "q": {
+      "en": "Which vitamin is produced in the human skin in the presence of sunlight?",
+      "as": "সূৰ্যৰ পোহৰত মানৱ ছালত কোন ভিটামিন উৎপন্ন হয়?"
+    },
+    "options": [
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন A"
+      },
+      {
+        "en": "Vitamin B12",
+        "as": "ভিটামিন B12"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin D",
+        "as": "ভিটামিন D"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ultraviolet light helps the skin synthesise vitamin D, needed for calcium absorption.",
+      "as": "অতিবেঙুনীয় ৰশ্মিয়ে ছালত ভিটামিন D সংশ্লেষণত সহায় কৰে, যি কেলচিয়াম শোষণৰ বাবে প্ৰয়োজন।"
+    }
+  }
+]

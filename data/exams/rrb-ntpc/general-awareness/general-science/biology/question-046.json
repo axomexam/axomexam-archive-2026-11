@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-046",
+    "q": {
+      "en": "The process by which a cell divides to form two identical daughter cells is:",
+      "as": "কোষ এটা বিভক্ত হৈ দুটা অভিন্ন কন্যা কোষ গঠন কৰা প্ৰক্ৰিয়াটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Meiosis",
+        "as": "মিঅ'ছিছ"
+      },
+      {
+        "en": "Fertilisation",
+        "as": "নিষেচন"
+      },
+      {
+        "en": "Budding",
+        "as": "কলি সৃষ্টি"
+      },
+      {
+        "en": "Mitosis",
+        "as": "মাইট'ছিছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "By mitosis one parent cell gives rise to two daughter cells that carry the same chromosome set as the parent.",
+      "as": "মাইট'ছিছে দুটা বংশগতিভাৱে অভিন্ন কন্যা কোষ উৎপন্ন কৰে।"
+    }
+  }
+]

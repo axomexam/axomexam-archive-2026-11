@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-147",
+    "q": {
+      "en": "Which of these is a modified stem?",
+      "as": "তলৰ কোনটো পৰিৱৰ্তিত কাণ্ড?"
+    },
+    "options": [
+      {
+        "en": "Carrot",
+        "as": "গাজৰ"
+      },
+      {
+        "en": "Radish",
+        "as": "মূলা"
+      },
+      {
+        "en": "Sweet potato",
+        "as": "মিঠা আলু"
+      },
+      {
+        "en": "Potato",
+        "as": "আলু"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Potato is an underground stem tuber with eyes or buds; carrot and radish are roots.",
+      "as": "আলু চকু বা মুকুল থকা ভূগৰ্ভস্থ কাণ্ড-কন্দ; গাজৰ আৰু মূলা শিপা।"
+    }
+  }
+]

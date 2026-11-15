@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-101",
+    "q": {
+      "en": "The image on the retina of the human eye is:",
+      "as": "মানৱ চকুৰ ৰেটিনাত প্ৰতিবিম্বটো কিয় ধৰণৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Virtual and erect",
+        "as": "অৱাস্তৱ আৰু সোজা"
+      },
+      {
+        "en": "Real and erect",
+        "as": "প্ৰকৃত আৰু সোজা"
+      },
+      {
+        "en": "Real and inverted",
+        "as": "প্ৰকৃত আৰু ওলোটা"
+      },
+      {
+        "en": "Virtual and inverted",
+        "as": "অৱাস্তৱ আৰু ওলোটা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The eye lens forms a real, inverted image on the retina; the brain interprets it as erect.",
+      "as": "চকুৰ লেন্সে ৰেটিনাত প্ৰকৃত, ওলোটা প্ৰতিবিম্ব গঠন কৰে; মগজুৱে ইয়াক সোজা বুলি বুজে।"
+    }
+  }
+]

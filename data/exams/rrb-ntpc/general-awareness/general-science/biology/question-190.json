@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-190",
+    "q": {
+      "en": "The part of the flower that develops into a fruit is the:",
+      "as": "ফুলৰ কোন অংশ ফললৈ পৰিণত হয়?"
+    },
+    "options": [
+      {
+        "en": "Ovary",
+        "as": "ডিম্বাশয়"
+      },
+      {
+        "en": "Ovule",
+        "as": "ডিম্ব"
+      },
+      {
+        "en": "Anther",
+        "as": "পৰাগধানী"
+      },
+      {
+        "en": "Stigma",
+        "as": "কলংক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "After fertilisation, the ovary develops into the fruit and ovules into seeds.",
+      "as": "নিষেচনৰ পিছত ডিম্বাশয় ফল হয় আৰু ডিম্ব গুটি হয়।"
+    }
+  }
+]

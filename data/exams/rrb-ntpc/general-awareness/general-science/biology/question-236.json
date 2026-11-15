@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-236",
+    "q": {
+      "en": "Project Tiger was launched in India in the year:",
+      "as": "ভাৰতত প্ৰজেক্ট টাইগাৰ কিমান চনত আৰম্ভ কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "1983",
+        "as": "১৯৮৩"
+      },
+      {
+        "en": "1963",
+        "as": "১৯৬৩"
+      },
+      {
+        "en": "1993",
+        "as": "১৯৯৩"
+      },
+      {
+        "en": "1973",
+        "as": "১৯৭৩"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Project Tiger was started in 1973 to conserve the tiger population.",
+      "as": "বাঘৰ সংখ্যা সংৰক্ষণৰ বাবে ১৯৭৩ চনত প্ৰজেক্ট টাইগাৰ আৰম্ভ কৰা হৈছিল।"
+    }
+  }
+]

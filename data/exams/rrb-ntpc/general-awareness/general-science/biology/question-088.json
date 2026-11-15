@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-088",
+    "q": {
+      "en": "Which organ is both the largest gland and the largest internal organ of the human body?",
+      "as": "মানৱ শৰীৰৰ আটাইতকৈ ডাঙৰ গ্ৰন্থি আৰু আটাইতকৈ ডাঙৰ অন্তৰংগ অংগটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Thyroid",
+        "as": "থাইৰয়ড"
+      },
+      {
+        "en": "Salivary gland",
+        "as": "লাল গ্ৰন্থি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The liver is the largest gland; it secretes bile and performs many metabolic functions.",
+      "as": "যকৃত আটাইতকৈ ডাঙৰ গ্ৰন্থি; ই পিত্ত নিঃসৰণ কৰে আৰু বহু বিপাকীয় কাম কৰে।"
+    }
+  }
+]

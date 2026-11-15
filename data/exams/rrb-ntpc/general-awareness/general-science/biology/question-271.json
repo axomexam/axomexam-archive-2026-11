@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-271",
+    "q": {
+      "en": "Which of these vitamins dissolves in fat and is stored in the body?",
+      "as": "এইবোৰৰ কোন ভিটামিন চৰ্বিত দ্ৰৱীভূত হয় আৰু শৰীৰত সাঁচি ৰখা হয়?"
+    },
+    "options": [
+      {
+        "en": "Vitamin B1",
+        "as": "ভিটামিন B1"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin B12",
+        "as": "ভিটামিন B12"
+      },
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন A"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Vitamins A, D, E and K are fat-soluble; B-complex and C are water-soluble.",
+      "as": "ভিটামিন A, D, E আৰু K চৰ্বি-দ্ৰৱণীয়; B-কমপ্লেক্স আৰু C পানী-দ্ৰৱণীয়।"
+    }
+  }
+]

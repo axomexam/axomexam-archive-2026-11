@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-220",
+    "q": {
+      "en": "The natural surroundings in which a particular organism lives is known as its:",
+      "as": "এটা নিৰ্দিষ্ট জীৱই বাস কৰা প্ৰাকৃতিক পৰিৱেশক তাৰ কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Niche",
+        "as": "নিচ"
+      },
+      {
+        "en": "Ecosystem",
+        "as": "পৰিৱেশ তন্ত্ৰ"
+      },
+      {
+        "en": "Habitat",
+        "as": "আৱাসস্থল"
+      },
+      {
+        "en": "Biome",
+        "as": "বায়'ম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A habitat is the natural environment in which an organism lives.",
+      "as": "আৱাসস্থল হ'ল জীৱ এটাই বাস কৰা প্ৰাকৃতিক পৰিৱেশ।"
+    }
+  }
+]

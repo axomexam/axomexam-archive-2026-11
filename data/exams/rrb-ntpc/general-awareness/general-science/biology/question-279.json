@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-279",
+    "q": {
+      "en": "Which nutrient is called the protective food?",
+      "as": "কোন পুষ্টি উপাদানক ৰক্ষামূলক খাদ্য বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Carbohydrates",
+        "as": "শৰ্কৰা"
+      },
+      {
+        "en": "Fats",
+        "as": "চৰ্বি"
+      },
+      {
+        "en": "Vitamins and minerals",
+        "as": "ভিটামিন আৰু খনিজ"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Vitamins and minerals protect the body from disease, so they are protective foods.",
+      "as": "ভিটামিন আৰু খনিজে শৰীৰক ৰোগৰ পৰা ৰক্ষা কৰে, সেয়ে সেয়া ৰক্ষামূলক খাদ্য।"
+    }
+  }
+]

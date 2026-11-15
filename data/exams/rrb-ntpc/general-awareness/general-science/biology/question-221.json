@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-221",
+    "q": {
+      "en": "All the living organisms of an area together with their physical environment form a(n):",
+      "as": "এখন অঞ্চলৰ সকলো জীৱ আৰু সিহঁতৰ ভৌতিক পৰিৱেশে মিলি কি গঠন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Population",
+        "as": "জনসংখ্যা"
+      },
+      {
+        "en": "Ecosystem",
+        "as": "পৰিৱেশ তন্ত্ৰ"
+      },
+      {
+        "en": "Community",
+        "as": "সম্প্ৰদায়"
+      },
+      {
+        "en": "Habitat",
+        "as": "আৱাসস্থল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "An ecosystem includes the biotic community and the abiotic environment interacting together.",
+      "as": "পৰিৱেশ তন্ত্ৰত জৈৱ সম্প্ৰদায় আৰু অজৈৱ পৰিৱেশে একেলগে ক্ৰিয়া কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-079",
+    "q": {
+      "en": "A person unable to see properly in dim light is most likely deficient in which vitamin?",
+      "as": "ক্ষীণ পোহৰত ভালদৰে দেখিব নোৱাৰা লোকৰ কিয় ভিটামিনৰ অভাৱ সম্ভৱ?"
+    },
+    "options": [
+      {
+        "en": "Scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "Night blindness",
+        "as": "নিশা অন্ধতা"
+      },
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "Beri-beri",
+        "as": "বেৰিবেৰি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vitamin A is needed to make rhodopsin; its lack impairs vision in dim light.",
+      "as": "ভিটামিন A ৰড'পছিন তৈয়াৰ কৰিবলৈ প্ৰয়োজন; ইয়াৰ অভাৱে ক্ষীণ পোহৰত দৃষ্টি দুৰ্বল কৰে।"
+    }
+  }
+]

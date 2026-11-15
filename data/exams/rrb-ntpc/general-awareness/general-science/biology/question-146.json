@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-146",
+    "q": {
+      "en": "Which of these is a fruit?",
+      "as": "তলৰ কোনটো ফল?"
+    },
+    "options": [
+      {
+        "en": "Potato",
+        "as": "আলু"
+      },
+      {
+        "en": "Tomato",
+        "as": "বিলাহী"
+      },
+      {
+        "en": "Carrot",
+        "as": "গাজৰ"
+      },
+      {
+        "en": "Onion",
+        "as": "পিয়াঁজ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Tomato is a true fruit that develops from the ovary; potato is a modified stem.",
+      "as": "বিলাহী ডিম্বাশয়ৰ পৰা হোৱা সঁচা ফল; আলু পৰিৱৰ্তিত কাণ্ড।"
+    }
+  }
+]

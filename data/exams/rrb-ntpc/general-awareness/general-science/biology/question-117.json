@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-117",
+    "q": {
+      "en": "Which is the only organ in the human body that can regenerate itself?",
+      "as": "মানৱ শৰীৰৰ কোনটো অংগই নিজকে পুনৰ্জন্ম দিব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Heart",
+        "as": "হৃদয়"
+      },
+      {
+        "en": "Kidney",
+        "as": "বৃক্ক"
+      },
+      {
+        "en": "Lung",
+        "as": "হাওঁফাওঁ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The liver can regenerate a large part of its tissue after injury or partial removal.",
+      "as": "যকৃতে আঘাত বা অংশিক অপসাৰণৰ পিছত নিজৰ বহু অংশ পুনৰ্জন্ম দিব পাৰে।"
+    }
+  }
+]

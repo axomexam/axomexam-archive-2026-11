@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-192",
+    "q": {
+      "en": "The scientist known as the father of genetics is:",
+      "as": "বংশগতিবিজ্ঞানৰ জনক বুলি জনা বিজ্ঞানীজন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Gregor Mendel",
+        "as": "গ্ৰেগৰ মেণ্ডেল"
+      },
+      {
+        "en": "Charles Darwin",
+        "as": "চাৰ্লছ ডাৰউইন"
+      },
+      {
+        "en": "Louis Pasteur",
+        "as": "লুই পাস্তুৰ"
+      },
+      {
+        "en": "Robert Hooke",
+        "as": "ৰবাৰ্ট হুক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mendel worked on pea plants and gave the laws of inheritance.",
+      "as": "মেণ্ডেলে মটৰমাহৰ ওপৰত কাম কৰি বংশগতিৰ সূত্ৰ দিছিল।"
+    }
+  }
+]

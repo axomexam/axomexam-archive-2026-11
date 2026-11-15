@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-070",
+    "q": {
+      "en": "Which pigment gives red colour to blood?",
+      "as": "কোন বৰ্ণকে ৰক্তক ৰঙা ৰং দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Chlorophyll",
+        "as": "ক্ল'ৰ'ফিল"
+      },
+      {
+        "en": "Melanin",
+        "as": "মেলানিন"
+      },
+      {
+        "en": "Haemoglobin",
+        "as": "হিম'গ্ল'বিন"
+      },
+      {
+        "en": "Carotene",
+        "as": "কেৰ'টিন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Haemoglobin, an iron-containing protein in red blood cells, gives blood its red colour.",
+      "as": "ৰঙা ৰক্তকোষত থকা লোণযুক্ত প্ৰ'টিন হিম'গ্ল'বিনে ৰক্তক ৰঙা ৰং দিয়ে।"
+    }
+  }
+]

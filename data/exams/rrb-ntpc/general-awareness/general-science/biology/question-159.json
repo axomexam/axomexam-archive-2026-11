@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-159",
+    "q": {
+      "en": "Which part of a plant is mainly responsible for photosynthesis?",
+      "as": "উদ্ভিদৰ কোন অংশই মূলতঃ সালোকসংশ্লেষণৰ বাবে দায়ী?"
+    },
+    "options": [
+      {
+        "en": "Leaf",
+        "as": "পাত"
+      },
+      {
+        "en": "Root",
+        "as": "শিপা"
+      },
+      {
+        "en": "Flower",
+        "as": "ফুল"
+      },
+      {
+        "en": "Seed",
+        "as": "গুটি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Leaves are the main photosynthetic organs, with chlorophyll and stomata.",
+      "as": "পাত মূল সালোকসংশ্লেষণ অংগ, য'ত ক্ল'ৰ'ফিল আৰু ষ্ট'মাটা থাকে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-261",
+    "q": {
+      "en": "The organisms that live at the bottom of a water body are called:",
+      "as": "জলাশয়ৰ তলি অংশত বাস কৰা জীৱবোৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Plankton",
+        "as": "প্লাংকটন"
+      },
+      {
+        "en": "Benthos",
+        "as": "বেন্থ'ছ"
+      },
+      {
+        "en": "Nekton",
+        "as": "নেক্টন"
+      },
+      {
+        "en": "Neuston",
+        "as": "নিউষ্টন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Benthos are organisms that live on or near the bottom of a water body.",
+      "as": "বেন্থ'ছ হ'ল জলাশয়ৰ তলিৰ ওপৰত বা ওচৰত বাস কৰা জীৱ।"
+    }
+  }
+]

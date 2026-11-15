@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-009",
+    "q": {
+      "en": "Chlorophyll, the pigment that traps sunlight, is present in:",
+      "as": "সূৰ্যৰ পোহৰ ধৰি ৰখা বৰ্ণক ক্ল'ৰ'ফিল কোথাত থাকে?"
+    },
+    "options": [
+      {
+        "en": "Chloroplast",
+        "as": "ক্ল'ৰ'প্লাষ্ট"
+      },
+      {
+        "en": "Mitochondria",
+        "as": "মাইটোকণ্ড্ৰিয়া"
+      },
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
+      },
+      {
+        "en": "Golgi body",
+        "as": "গলজি বডি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chlorophyll is located in the thylakoid membranes inside chloroplasts.",
+      "as": "ক্ল'ৰ'ফিল ক্ল'ৰ'প্লাষ্টৰ ভিতৰৰ থাইলাকয়ড আৱৰণত অৱস্থিত।"
+    }
+  }
+]

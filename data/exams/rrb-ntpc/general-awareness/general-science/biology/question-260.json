@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-260",
+    "q": {
+      "en": "Which of the following is used as a biofertiliser?",
+      "as": "তলৰ কোনটো জৈৱ সাৰ হিচাপে ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Urea",
+        "as": "ইউৰিয়া"
+      },
+      {
+        "en": "DAP",
+        "as": "DAP"
+      },
+      {
+        "en": "Ammonium sulphate",
+        "as": "এম'নিয়াম ছালফেট"
+      },
+      {
+        "en": "Rhizobium",
+        "as": "ৰাইজ'বিয়াম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Rhizobium in legume root nodules fixes nitrogen and enriches the soil naturally.",
+      "as": "ডাইলৰ শিপাৰ গাঁঠিত ৰাইজ'বিয়ামে নাইট্ৰজেন সংবন্ধন কৰি মাটি প্ৰাকৃতিকভাৱে সমৃদ্ধ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-082",
+    "q": {
+      "en": "The exchange of gases in the human lungs takes place in the:",
+      "as": "মানৱ হাওঁফাওঁত গেছৰ বিনিময় কত হয়?"
+    },
+    "options": [
+      {
+        "en": "Bronchi",
+        "as": "শ্বাসনলী"
+      },
+      {
+        "en": "Alveoli",
+        "as": "ফুলকোষ"
+      },
+      {
+        "en": "Trachea",
+        "as": "শ্বাসনলী নলী"
+      },
+      {
+        "en": "Pleura",
+        "as": "প্লুৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Alveoli are tiny air sacs where oxygen enters the blood and carbon dioxide leaves it.",
+      "as": "ফুলকোষবোৰ সৰু বায়ু থলী য'ত অক্সিজেন ৰক্তত সোমায় আৰু কাৰ্বন ডাইঅক্সাইড ওলায়।"
+    }
+  }
+]

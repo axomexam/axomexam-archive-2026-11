@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-215",
+    "q": {
+      "en": "Which of the following is a genetically inherited disorder?",
+      "as": "তলৰ কোনটো বংশগতিভাৱে উত্তৰাধিকাৰ হোৱা বিকাৰ?"
+    },
+    "options": [
+      {
+        "en": "Colour blindness",
+        "as": "বৰ্ণ অন্ধতা"
+      },
+      {
+        "en": "Malaria",
+        "as": "মেলেৰিয়া"
+      },
+      {
+        "en": "Typhoid",
+        "as": "টাইফইড"
+      },
+      {
+        "en": "Tetanus",
+        "as": "ধনুৰ্বাত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Colour blindness is a sex-linked recessive disorder passed through the X chromosome.",
+      "as": "বৰ্ণ অন্ধতা X ক্ৰ'ম'জ'মৰ মাজেৰে যোৱা যৌন-সংযুক্ত অপ্ৰকাশী বিকাৰ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-069",
+    "q": {
+      "en": "The universal blood recipient group is:",
+      "as": "সৰ্বজনীন ৰক্তগ্ৰাহক গ্ৰুপটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "O negative",
+        "as": "O নেগেটিভ"
+      },
+      {
+        "en": "A negative",
+        "as": "A নেগেটিভ"
+      },
+      {
+        "en": "B positive",
+        "as": "B পজিটিভ"
+      },
+      {
+        "en": "AB positive",
+        "as": "AB পজিটিভ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "People with AB positive blood can receive blood from any group.",
+      "as": "AB পজিটিভ ৰক্ত থকা লোকে যিকোনো গ্ৰুপৰ ৰক্ত গ্ৰহণ কৰিব পাৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-126",
+    "q": {
+      "en": "Which disease is caused by a bacterium?",
+      "as": "কোন ৰোগ বেক্টেৰিয়াই কৰে?"
+    },
+    "options": [
+      {
+        "en": "Polio",
+        "as": "পলিঅ'"
+      },
+      {
+        "en": "Rabies",
+        "as": "জলাতংক"
+      },
+      {
+        "en": "Measles",
+        "as": "মাতৃকা"
+      },
+      {
+        "en": "Tuberculosis",
+        "as": "ক্ষয়ৰোগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Tuberculosis is caused by Mycobacterium tuberculosis; polio, rabies and measles are viral.",
+      "as": "ক্ষয়ৰোগ মাইক'বেক্টেৰিয়াম টিউবেৰকুল'ছিছে কৰে; পলিঅ', জলাতংক আৰু মাতৃকা ভাইৰাছজনিত।"
+    }
+  }
+]

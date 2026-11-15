@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-103",
+    "q": {
+      "en": "The defect of vision in old age, in which near objects become blurred, is:",
+      "as": "বৃদ্ধ বয়সত ওচৰৰ বস্তু অস্পষ্ট হোৱা দৃষ্টিৰ ত্ৰুটিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Myopia",
+        "as": "মায়'পিয়া"
+      },
+      {
+        "en": "Colour blindness",
+        "as": "বৰ্ণ অন্ধতা"
+      },
+      {
+        "en": "Night blindness",
+        "as": "নিশা অন্ধতা"
+      },
+      {
+        "en": "Presbyopia",
+        "as": "প্ৰেছবায়'পিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Presbyopia is age-related loss of the eye's ability to focus on near objects.",
+      "as": "প্ৰেছবায়'পিয়া হ'ল বয়সৰ লগে লগে ওচৰৰ বস্তুত মনোযোগ দিয়াৰ ক্ষমতা হেৰুওৱা।"
+    }
+  }
+]

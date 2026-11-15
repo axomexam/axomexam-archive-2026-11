@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-156",
+    "q": {
+      "en": "The small green leaf-like structures that protect the flower bud are:",
+      "as": "ফুলৰ কলি সুৰক্ষা কৰা সৰু সেউজীয়া পাতৰ দৰে গঠনবোৰ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Petals",
+        "as": "পাহি"
+      },
+      {
+        "en": "Stamens",
+        "as": "পুংকেশৰ"
+      },
+      {
+        "en": "Sepals",
+        "as": "বৃতি"
+      },
+      {
+        "en": "Carpels",
+        "as": "গৰ্ভকেশৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sepals form the calyx and protect the flower bud before it opens.",
+      "as": "বৃতিয়ে বৃত্যংশ গঠন কৰে আৰু ফুল ফুলাৰ আগতে কলি সুৰক্ষা কৰে।"
+    }
+  }
+]

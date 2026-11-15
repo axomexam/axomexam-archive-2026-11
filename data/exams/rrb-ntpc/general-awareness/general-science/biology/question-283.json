@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-283",
+    "q": {
+      "en": "The pH of the human stomach is:",
+      "as": "মানৱ পেটৰ pH কিমান?"
+    },
+    "options": [
+      {
+        "en": "About 1.5 to 2",
+        "as": "প্ৰায় ১.৫ ৰ পৰা ২"
+      },
+      {
+        "en": "About 7",
+        "as": "প্ৰায় ৭"
+      },
+      {
+        "en": "About 9",
+        "as": "প্ৰায় ৯"
+      },
+      {
+        "en": "About 5",
+        "as": "প্ৰায় ৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The stomach secretes hydrochloric acid, giving a strongly acidic pH of about 1.5 to 2.",
+      "as": "পেটে হাইড্ৰ'ক্ল'ৰিক এচিড নিঃসৰণ কৰে, যাৰ pH প্ৰায় ১.৫ ৰ পৰা ২, অতি এচিডীয়।"
+    }
+  }
+]

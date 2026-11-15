@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-235",
+    "q": {
+      "en": "The wildlife sanctuary famous for the one-horned rhinoceros is:",
+      "as": "এশিঙীয়া গঁড়ৰ বাবে বিখ্যাত বন্যপ্ৰাণী অভয়াৰণ্যখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Gir National Park",
+        "as": "গীৰ ৰাষ্ট্ৰীয় উদ্যান"
+      },
+      {
+        "en": "Corbett National Park",
+        "as": "কৰ্বেট ৰাষ্ট্ৰীয় উদ্যান"
+      },
+      {
+        "en": "Bandipur National Park",
+        "as": "বন্দীপুৰ ৰাষ্ট্ৰীয় উদ্যান"
+      },
+      {
+        "en": "Kaziranga National Park",
+        "as": "কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Kaziranga in Assam is famous for the Indian one-horned rhinoceros.",
+      "as": "অসমৰ কাজিৰঙা ভাৰতীয় এশিঙীয়া গঁড়ৰ বাবে বিখ্যাত।"
+    }
+  }
+]

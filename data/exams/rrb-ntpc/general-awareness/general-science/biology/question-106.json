@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-106",
+    "q": {
+      "en": "Which of the following is the largest organ of the human body?",
+      "as": "তলৰ কোনটো মানৱ শৰীৰৰ আটাইতকৈ ডাঙৰ অংগ?"
+    },
+    "options": [
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Lung",
+        "as": "হাওঁফাওঁ"
+      },
+      {
+        "en": "Brain",
+        "as": "মগজু"
+      },
+      {
+        "en": "Skin",
+        "as": "ছাল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The skin is the largest organ, covering and protecting the whole body.",
+      "as": "ছাল আটাইতকৈ ডাঙৰ অংগ, যিয়ে গোটেই শৰীৰ ঢাকি ৰক্ষা কৰে।"
+    }
+  }
+]

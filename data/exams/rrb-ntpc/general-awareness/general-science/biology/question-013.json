@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-013",
+    "q": {
+      "en": "Which part of the cell is called the 'brain of the cell'?",
+      "as": "কোষৰ কোনটো অংশক 'কোষৰ মগজু' বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Mitochondria",
+        "as": "মাইটোকণ্ড্ৰিয়া"
+      },
+      {
+        "en": "Ribosome",
+        "as": "ৰাইব'জ'ম"
+      },
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
+      },
+      {
+        "en": "Cytoplasm",
+        "as": "চাইট'প্লাজম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The nucleus stores genetic information and controls cell functions, hence the brain of the cell.",
+      "as": "নিউক্লিয়াছে বংশগতিৰ তথ্য সাঁচি কোষৰ কাৰ্য নিয়ন্ত্ৰণ কৰে, সেয়ে ইয়াক কোষৰ মগজু বোলে।"
+    }
+  }
+]

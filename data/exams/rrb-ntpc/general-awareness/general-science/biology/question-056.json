@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-056",
+    "q": {
+      "en": "Which of the following organelles is bounded by a single membrane?",
+      "as": "তলৰ কোনটো অংগাণু এটা আৱৰণেৰে বেষ্টিত?"
+    },
+    "options": [
+      {
+        "en": "Mitochondria",
+        "as": "মাইটোকণ্ড্ৰিয়া"
+      },
+      {
+        "en": "Chloroplast",
+        "as": "ক্ল'ৰ'প্লাষ্ট"
+      },
+      {
+        "en": "Lysosome",
+        "as": "লাইচ'জ'ম"
+      },
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Lysosomes, vacuoles and Golgi bodies have single membranes; mitochondria, chloroplasts and the nucleus have double membranes.",
+      "as": "লাইচ'জ'ম, ৰিক্তস্থান আৰু গলজি বডিত এটা আৱৰণ থাকে; মাইটোকণ্ড্ৰিয়া, ক্ল'ৰ'প্লাষ্ট আৰু নিউক্লিয়াছত দুটা আৱৰণ থাকে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-218",
+    "q": {
+      "en": "The number of chromosomes in a human sperm is:",
+      "as": "মানৱ শুক্ৰাণুত ক্ৰ'ম'জ'মৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "46",
+        "as": "৪৬"
+      },
+      {
+        "en": "44",
+        "as": "৪৪"
+      },
+      {
+        "en": "23",
+        "as": "২৩"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A sperm is haploid and carries 23 chromosomes, including either X or Y.",
+      "as": "শুক্ৰাণু হেপ্লয়ড আৰু ইয়াত ২৩ টা ক্ৰ'ম'জ'ম থাকে, X বা Y যিকোনো এটা ধৰি।"
+    }
+  }
+]

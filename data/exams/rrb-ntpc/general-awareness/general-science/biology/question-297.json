@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-297",
+    "q": {
+      "en": "Which of these animals cannot regulate its own body temperature?",
+      "as": "এইবোৰৰ কোনটো প্ৰাণীয়ে নিজৰ শৰীৰৰ উষ্ণতা নিয়ন্ত্ৰণ কৰিব নোৱাৰে?"
+    },
+    "options": [
+      {
+        "en": "Cow",
+        "as": "গৰু"
+      },
+      {
+        "en": "Human",
+        "as": "মানুহ"
+      },
+      {
+        "en": "Snake",
+        "as": "সাপ"
+      },
+      {
+        "en": "Whale",
+        "as": "তিমি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Snakes are cold-blooded or poikilothermic; their body temperature changes with the surroundings.",
+      "as": "সাপ শীতল ৰক্তৰ বা পইকিল'থাৰ্মিক; ইয়াৰ শৰীৰৰ উষ্ণতা পৰিৱেশৰ লগে সলনি হয়।"
+    }
+  }
+]

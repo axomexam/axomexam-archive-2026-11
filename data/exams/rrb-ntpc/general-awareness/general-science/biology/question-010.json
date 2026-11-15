@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-010",
+    "q": {
+      "en": "The fluid present inside the nucleus is called:",
+      "as": "নিউক্লিয়াছৰ ভিতৰত থকা তৰলখিনিক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Cytoplasm",
+        "as": "চাইট'প্লাজম"
+      },
+      {
+        "en": "Protoplasm",
+        "as": "প্ৰ'ট'প্লাজম"
+      },
+      {
+        "en": "Matrix",
+        "as": "মেট্ৰিক্স"
+      },
+      {
+        "en": "Nucleoplasm",
+        "as": "নিউক্লিঅ'প্লাজম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Nucleoplasm is the gel-like substance inside the nuclear membrane that holds chromatin and nucleolus.",
+      "as": "নিউক্লিঅ'প্লাজম হ'ল নিউক্লিয় আৱৰণৰ ভিতৰৰ জেলী পদাৰ্থ য'ত ক্ৰ'মেটিন আৰু নিউক্লিঅ'লাছ থাকে।"
+    }
+  }
+]

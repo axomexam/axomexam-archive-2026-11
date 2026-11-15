@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-174",
+    "q": {
+      "en": "The scientific study of plants is called:",
+      "as": "উদ্ভিদৰ বৈজ্ঞানিক অধ্যয়নক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Zoology",
+        "as": "প্ৰাণীবিজ্ঞান"
+      },
+      {
+        "en": "Botany",
+        "as": "উদ্ভিদবিজ্ঞান"
+      },
+      {
+        "en": "Ecology",
+        "as": "পৰিৱেশবিজ্ঞান"
+      },
+      {
+        "en": "Genetics",
+        "as": "বংশগতিবিজ্ঞান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Botany is the branch of biology that studies plants.",
+      "as": "উদ্ভিদবিজ্ঞান জীৱবিজ্ঞানৰ শাখা যিয়ে উদ্ভিদ অধ্যয়ন কৰে।"
+    }
+  }
+]

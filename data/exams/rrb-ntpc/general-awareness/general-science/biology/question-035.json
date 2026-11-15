@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-035",
+    "q": {
+      "en": "The movement of water molecules through a semi-permeable membrane is called:",
+      "as": "অৰ্ধভেদ্য আৱৰণৰ মাজেৰে পানীৰ অণুৰ গতিক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Diffusion",
+        "as": "প্ৰসাৰণ"
+      },
+      {
+        "en": "Active transport",
+        "as": "সক্ৰিয় পৰিবহণ"
+      },
+      {
+        "en": "Plasmolysis",
+        "as": "প্লাজম'লাইছিছ"
+      },
+      {
+        "en": "Osmosis",
+        "as": "অভিস্ৰৱণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Osmosis is the movement of water from a region of higher to lower water potential through a semi-permeable membrane.",
+      "as": "অভিস্ৰৱণ হ'ল অৰ্ধভেদ্য আৱৰণৰ মাজেৰে অধিক পানী বিভৱৰ পৰা কম পানী বিভৱলৈ পানীৰ গতি।"
+    }
+  }
+]

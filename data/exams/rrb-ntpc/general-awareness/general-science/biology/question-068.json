@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-068",
+    "q": {
+      "en": "The universal blood donor group is:",
+      "as": "সৰ্বজনীন ৰক্তদাতা গ্ৰুপটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "AB positive",
+        "as": "AB পজিটিভ"
+      },
+      {
+        "en": "O negative",
+        "as": "O নেগেটিভ"
+      },
+      {
+        "en": "A positive",
+        "as": "A পজিটিভ"
+      },
+      {
+        "en": "B negative",
+        "as": "B নেগেটিভ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "O negative blood can be given to any blood group, so it is the universal donor.",
+      "as": "O নেগেটিভ ৰক্ত যিকোনো গ্ৰুপক দিব পাৰি, সেয়ে ই সৰ্বজনীন দাতা।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-265",
+    "q": {
+      "en": "Gram for gram, which of these nutrients yields the most energy?",
+      "as": "গ্ৰামৰ হিচাপত, এইবোৰৰ কোন পুষ্টি উপাদানে সৰ্বাধিক শক্তি দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Carbohydrate",
+        "as": "শৰ্কৰা"
+      },
+      {
+        "en": "Protein",
+        "as": "প্ৰ'টিন"
+      },
+      {
+        "en": "Fat",
+        "as": "চৰ্বি"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Fat gives about 9 kcal per gram, more than carbohydrate or protein.",
+      "as": "চৰ্বিয়ে প্ৰতি গ্ৰামত প্ৰায় ৯ কিল' কেলৰি দিয়ে, শৰ্কৰা বা প্ৰ'টিনতকৈ অধিক।"
+    }
+  }
+]

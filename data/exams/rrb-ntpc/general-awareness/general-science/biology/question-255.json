@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-255",
+    "q": {
+      "en": "Which of the following is a saprophytic organism?",
+      "as": "তলৰ কোনটো মৃতভোজী জীৱ?"
+    },
+    "options": [
+      {
+        "en": "Cuscuta",
+        "as": "অকাশীলতা"
+      },
+      {
+        "en": "Mushroom",
+        "as": "মিঠা খুম্ভী"
+      },
+      {
+        "en": "Tapeworm",
+        "as": "ফিতাকৃমি"
+      },
+      {
+        "en": "Lice",
+        "as": "উকুন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mushrooms are saprophytes that feed on dead and decaying matter.",
+      "as": "মিঠা খুম্ভী মৃতভোজী যি মৃত আৰু পচি যোৱা পদাৰ্থ খায়।"
+    }
+  }
+]

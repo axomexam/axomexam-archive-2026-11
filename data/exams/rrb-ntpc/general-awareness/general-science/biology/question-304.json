@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-304",
+    "q": {
+      "en": "Which of the following is a unicellular organism with a nucleus?",
+      "as": "তলৰ কোনটো নিউক্লিয়াছ থকা এককোষী জীৱ?"
+    },
+    "options": [
+      {
+        "en": "Bacterium",
+        "as": "বেক্টেৰিয়া"
+      },
+      {
+        "en": "Virus",
+        "as": "ভাইৰাছ"
+      },
+      {
+        "en": "Cyanobacteria",
+        "as": "চায়ান'বেক্টেৰিয়া"
+      },
+      {
+        "en": "Paramecium",
+        "as": "পেৰামেছিয়াম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Paramecium is a unicellular eukaryote with a distinct nucleus.",
+      "as": "পেৰামেছিয়াম এটা সুকীয়া নিউক্লিয়াছ থকা এককোষী ইউকেৰিয়'ট।"
+    }
+  }
+]

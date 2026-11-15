@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-286",
+    "q": {
+      "en": "The sourness of curd is caused by which acid?",
+      "as": "দৈৰ টেঙা ভাব কিয় এচিডৰ বাবে হয়?"
+    },
+    "options": [
+      {
+        "en": "Citric acid",
+        "as": "ছাইট্ৰিক এচিড"
+      },
+      {
+        "en": "Lactic acid",
+        "as": "লেক্টিক এচিড"
+      },
+      {
+        "en": "Acetic acid",
+        "as": "এছেটিক এচিড"
+      },
+      {
+        "en": "Oxalic acid",
+        "as": "অক্সেলিক এচিড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Lactic acid formed by bacterial fermentation gives curd its sour taste.",
+      "as": "বেক্টেৰিয়াৰ গাঁজনত হোৱা লেক্টিক এচিডে দৈক টেঙা সোৱাদ দিয়ে।"
+    }
+  }
+]

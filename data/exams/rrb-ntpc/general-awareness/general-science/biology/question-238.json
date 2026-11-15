@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-238",
+    "q": {
+      "en": "The largest source of fresh water on earth is:",
+      "as": "পৃথিৱীৰ মিঠা পানীৰ আটাইতকৈ ডাঙৰ উৎস কি?"
+    },
+    "options": [
+      {
+        "en": "Rivers",
+        "as": "নদী"
+      },
+      {
+        "en": "Lakes",
+        "as": "হ্ৰদ"
+      },
+      {
+        "en": "Groundwater",
+        "as": "ভূগৰ্ভস্থ পানী"
+      },
+      {
+        "en": "Glaciers and ice caps",
+        "as": "হিমবাহ আৰু বৰফৰ আৱৰণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Most of the earth's fresh water is locked in glaciers and polar ice caps.",
+      "as": "পৃথিৱীৰ বেছিভাগ মিঠা পানী হিমবাহ আৰু মেৰুৰ বৰফত আৱদ্ধ।"
+    }
+  }
+]

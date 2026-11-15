@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biology-110",
+    "q": {
+      "en": "Which blood cells help in blood clotting?",
+      "as": "কোন ৰক্তকোষে ৰক্ত জমাট বন্ধাত সহায় কৰে?"
+    },
+    "options": [
+      {
+        "en": "Platelets",
+        "as": "অণুচক্ৰিকা"
+      },
+      {
+        "en": "Red blood cells",
+        "as": "ৰঙা ৰক্তকোষ"
+      },
+      {
+        "en": "White blood cells",
+        "as": "শ্বেত ৰক্তকোষ"
+      },
+      {
+        "en": "Plasma",
+        "as": "প্লাজমা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Platelets or thrombocytes release factors that help in clotting blood.",
+      "as": "অণুচক্ৰিকা বা থ্ৰম্ব'চাইটে ৰক্ত জমাট বন্ধাত সহায় কৰা কাৰক নিঃসৰণ কৰে।"
+    }
+  }
+]
