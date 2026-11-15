@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-100",
+    "q": {
+      "en": "Veteran playback singer Suman Kalyanpur passed away in May 2026. She was known for songs in which film industry?",
+      "as": "বৰেণ্য প্লেবেক গায়িকা সুমন কল্যাণপুৰে ২০২৬ চনৰ মে' মাহত দেহত্যাগ কৰিছিল। তেওঁ কোন চলচ্চিত্ৰ জগতৰ গীতৰ বাবে পৰিচিত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Tamil cinema",
+        "as": "তামিল চলচ্চিত্ৰ"
+      },
+      {
+        "en": "Hindi cinema",
+        "as": "হিন্দী চলচ্চিত্ৰ"
+      },
+      {
+        "en": "Bengali cinema",
+        "as": "বঙালী চলচ্চিত্ৰ"
+      },
+      {
+        "en": "Marathi cinema",
+        "as": "মাৰাঠী চলচ্চিত্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Suman Kalyanpur, a noted Hindi film playback singer, died in May 2026.",
+      "as": "বিখ্যাত হিন্দী চলচ্চিত্ৰ প্লেবেক গায়িকা সুমন কল্যাণপুৰে ২০২৬ চনৰ মে' মাহত দেহত্যাগ কৰিছিল।"
+    }
+  }
+]

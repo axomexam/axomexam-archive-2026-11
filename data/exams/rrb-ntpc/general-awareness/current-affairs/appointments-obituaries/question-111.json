@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-111",
+    "q": {
+      "en": "Former Chief of the Army Staff Vishwa Nath Sharma, who passed away in July 2026, served in which period?",
+      "as": "২০২৬ চনৰ জুলাই মাহত দেহত্যাগ কৰা সেনাৰ প্ৰাক্তন সেনাধ্যক্ষ বিশ্ব নাথ শৰ্মা কোন সময়ত কাৰ্যনিৰ্বাহ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "1975-1978",
+        "as": "১৯৭৫-১৯৭৮"
+      },
+      {
+        "en": "1995-1998",
+        "as": "১৯৯৫-১৯৯৮"
+      },
+      {
+        "en": "2001-2004",
+        "as": "২০০১-২০০৪"
+      },
+      {
+        "en": "1988-1990",
+        "as": "১৯৮৮-১৯৯০"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "General Vishwa Nath Sharma was Chief of the Army Staff from 1988 to 1990 and died in July 2026.",
+      "as": "জেনেৰেল বিশ্ব নাথ শৰ্মা ১৯৮৮ চনৰপৰা ১৯৯০ চনলৈ সেনাধ্যক্ষ আছিল আৰু ২০২৬ চনৰ জুলাই মাহত দেহত্যাগ কৰিছিল।"
+    }
+  }
+]

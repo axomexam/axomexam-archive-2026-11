@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-002",
+    "q": {
+      "en": "Who took charge as the Chief of the Army Staff of the Indian Army in June 2026?",
+      "as": "২০২৬ চনৰ জুন মাহত ভাৰতীয় সেনাৰ সেনাধ্যক্ষ হিচাপে কোনে কাৰ্যভাৰ গ্ৰহণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "General Upendra Dwivedi",
+        "as": "জেনেৰেল উপেন্দ্ৰ দ্বিবেদী"
+      },
+      {
+        "en": "General Manoj Pande",
+        "as": "জেনেৰেল মনোজ পাণ্ডে"
+      },
+      {
+        "en": "General Dhiraj Seth",
+        "as": "জেনেৰেল ধীৰাজ সেঠ"
+      },
+      {
+        "en": "General M. M. Naravane",
+        "as": "জেনেৰেল এম. এম. নাৰৱানে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "General Dhiraj Seth took charge as the Chief of the Army Staff in June 2026.",
+      "as": "জেনেৰেল ধীৰাজ সেঠে ২০২৬ চনৰ জুন মাহত সেনাধ্যক্ষ হিচাপে কাৰ্যভাৰ গ্ৰহণ কৰিছিল।"
+    }
+  }
+]

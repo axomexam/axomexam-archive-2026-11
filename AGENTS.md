@@ -587,3 +587,36 @@ What was done, so the next agent does not redo or undo it:
 - **`data/counts.json` is deliberately unchanged.** The book is still
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
+
+## Session record — Nov 2026 RRB NTPC Appointments & Obituaries question bank (161 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a bilingual Appointments & Obituaries bank to the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/current-affairs/appointments-obituaries/`:
+  `question-002.json` … `question-161.json` (160 new files) on top of the
+  existing `question-001.json`, for **161 questions** in the topic. Each file
+  holds one MCQ in the repo's shape — `id`, `q.{en,as}`, four
+  `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 161 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content rule — nothing older than one year.** The user's standing rule is
+  that current-affairs content must stay within roughly the last 12 months, so
+  every item here is anchored to events between **November 2025 and November
+  2026** (Indian and world appointments, elections, resignations, and the deaths
+  of notable personalities). Older appointments are only used in their
+  "who holds this post today" form.
+- **Answer keys** are spread over A/B/C/D — across all 161 questions the slots
+  hold 41/40/40/40, using the same deterministic sequence
+  `tools/balance-answer-keys.js` uses; `--book rrb-ntpc --topic
+  general-awareness/current-affairs/appointments-obituaries --check` reports 0
+  skewed topics. (The tool only audits multi-question files, so this bank was
+  balanced with the same sequence applied across the whole topic.)
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive, English and Assamese) against all other
+  question text already in `data/`; the colliding items were reworded so the
+  bank shares no stem or explanation with the existing appointments,
+  obituaries, awards, books-authors or national-international-news banks.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.

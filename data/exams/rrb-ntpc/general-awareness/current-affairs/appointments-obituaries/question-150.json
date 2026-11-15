@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-150",
+    "q": {
+      "en": "Kuchipudi, a classical dance form associated with a recently deceased dancer, originated in which state?",
+      "as": "শেহতীয়াকৈ দেহত্যাগ কৰা এগৰাকী নৃত্যশিল্পীৰ সৈতে জড়িত শাস্ত্ৰীয় নৃত্য কুচিপুড়ি কোনখন ৰাজ্যত উৎপত্তি হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kuchipudi is a classical dance form that originated in Andhra Pradesh.",
+      "as": "কুচিপুড়ি অন্ধ্ৰ প্ৰদেশত উৎপত্তি হোৱা এটা শাস্ত্ৰীয় নৃত্যৰূপ।"
+    }
+  }
+]

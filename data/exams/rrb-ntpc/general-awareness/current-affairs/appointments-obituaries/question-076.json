@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-076",
+    "q": {
+      "en": "Claude Cohen-Tannoudji, who passed away in October 2026, was a Nobel laureate in which subject?",
+      "as": "২০২৬ চনৰ অক্টোবৰ মাহত যিয়ে দেহত্যাগ কৰিছিল, সেই ক্লড কোহেন-টানৌদজি কোন বিষয়ৰ নোবেল বিজয়ী আছিল?"
+    },
+    "options": [
+      {
+        "en": "Chemistry",
+        "as": "ৰসায়ন বিজ্ঞান"
+      },
+      {
+        "en": "Physics",
+        "as": "পদাৰ্থ বিজ্ঞান"
+      },
+      {
+        "en": "Medicine",
+        "as": "চিকিৎসা বিজ্ঞান"
+      },
+      {
+        "en": "Economics",
+        "as": "অৰ্থনীতি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Claude Cohen-Tannoudji, the French physicist and Nobel laureate (1997), died in October 2026.",
+      "as": "ফ্ৰান্সৰ পদাৰ্থবিদ আৰু নোবেল বিজয়ী (১৯৯৭) ক্লড কোহেন-টানৌদজি ২০২৬ চনৰ অক্টোবৰ মাহত দেহত্যাগ কৰিছিল।"
+    }
+  }
+]

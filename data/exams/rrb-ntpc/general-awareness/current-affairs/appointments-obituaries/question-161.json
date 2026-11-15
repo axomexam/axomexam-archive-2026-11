@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-161",
+    "q": {
+      "en": "Who currently holds the post of Attorney General for India?",
+      "as": "বৰ্তমান ভাৰতৰ এটৰ্নী জেনেৰেল পদত কোন আছে?"
+    },
+    "options": [
+      {
+        "en": "K. K. Venugopal",
+        "as": "কে. কে. বেঙ্কটুগোপাল"
+      },
+      {
+        "en": "Mukul Rohatgi",
+        "as": "মুকুল ৰোহটগী"
+      },
+      {
+        "en": "R. Venkataramani",
+        "as": "আৰ. বেঙ্কটৰমনী"
+      },
+      {
+        "en": "Goolam Vahanvati",
+        "as": "গুলাম ৱাহানৱতী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "R. Venkataramani is serving as the Attorney General for India.",
+      "as": "আৰ. বেঙ্কটৰমনী ভাৰতৰ এটৰ্নী জেনেৰেল হিচাপে কাৰ্যনিৰ্বাহ কৰি আছে।"
+    }
+  }
+]

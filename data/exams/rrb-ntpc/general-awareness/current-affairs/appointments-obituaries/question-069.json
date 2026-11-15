@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-069",
+    "q": {
+      "en": "Yasuo Fukuda, who passed away in October 2026, was a former Prime Minister of which country?",
+      "as": "২০২৬ চনৰ অক্টোবৰ মাহত যিয়ে দেহত্যাগ কৰিছিল, সেই য়াচুও ফুকুডা কোনখন দেশৰ প্ৰাক্তন প্ৰধানমন্ত্ৰী আছিল?"
+    },
+    "options": [
+      {
+        "en": "South Korea",
+        "as": "দক্ষিণ কোৰিয়া"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      },
+      {
+        "en": "Taiwan",
+        "as": "টাইৱান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Yasuo Fukuda, Prime Minister of Japan from 2007 to 2008, died in October 2026.",
+      "as": "২০০৭ চনৰপৰা ২০০৮ চনলৈ জাপানৰ প্ৰধানমন্ত্ৰী য়াচুও ফুকুডা ২০২৬ চনৰ অক্টোবৰ মাহত দেহত্যাগ কৰিছিল।"
+    }
+  }
+]

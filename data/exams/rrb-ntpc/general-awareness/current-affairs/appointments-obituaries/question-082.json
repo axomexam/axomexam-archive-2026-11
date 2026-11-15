@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-082",
+    "q": {
+      "en": "Mario Adorf, who passed away in April 2026, was a veteran actor from which country?",
+      "as": "২০২৬ চনৰ এপ্ৰিল মাহত যিয়ে দেহত্যাগ কৰিছিল, সেই মাৰিঅ' এডৰ্ফ কোনখন দেশৰ বৰেণ্য অভিনেতা আছিল?"
+    },
+    "options": [
+      {
+        "en": "France",
+        "as": "ফ্ৰান্স"
+      },
+      {
+        "en": "Italy",
+        "as": "ইটালী"
+      },
+      {
+        "en": "Austria",
+        "as": "অষ্ট্ৰিয়া"
+      },
+      {
+        "en": "Germany",
+        "as": "জাৰ্মানী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "German actor Mario Adorf, known for 'The Tin Drum', died in April 2026.",
+      "as": "'দা টিন ড্ৰাম'ৰ বাবে জনাজাত জাৰ্মান অভিনেতা মাৰিঅ' এডৰ্ফ ২০২৬ চনৰ এপ্ৰিল মাহত দেহত্যাগ কৰিছিল।"
+    }
+  }
+]

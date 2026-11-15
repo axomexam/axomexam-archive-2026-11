@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-007",
+    "q": {
+      "en": "Name the leader who replaced Nitish Kumar as Bihar's Chief Minister.",
+      "as": "নীতিশ কুমাৰৰ ঠাইত বিহাৰৰ মুখ্যমন্ত্ৰী হোৱা নেতাজনৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Tejashwi Yadav",
+        "as": "তেজস্বী যাদৱ"
+      },
+      {
+        "en": "Sushil Kumar Modi",
+        "as": "সুশীল কুমাৰ মোদী"
+      },
+      {
+        "en": "Jitan Ram Manjhi",
+        "as": "জীতন ৰাম মাঝি"
+      },
+      {
+        "en": "Samrat Choudhary",
+        "as": "সম্ৰাট চৌধুৰী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Samrat Choudhary replaced Nitish Kumar as Bihar's Chief Minister.",
+      "as": "সম্ৰাট চৌধুৰীয়ে নীতিশ কুমাৰৰ ঠাইত বিহাৰৰ মুখ্যমন্ত্ৰী হৈছিল।"
+    }
+  }
+]

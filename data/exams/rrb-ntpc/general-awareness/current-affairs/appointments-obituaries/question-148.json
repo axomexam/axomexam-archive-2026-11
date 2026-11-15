@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-148",
+    "q": {
+      "en": "Which type of current-affairs news covers the appointment of a new Chief Minister or Governor?",
+      "as": "কোন ধৰণৰ বৰ্তমান ঘটনাৰ বাতৰিয়ে নতুন মুখ্যমন্ত্ৰী বা ৰাজ্যপালৰ নিযুক্তি সামৰি লয়?"
+    },
+    "options": [
+      {
+        "en": "Obituaries",
+        "as": "শোকসংবাদ"
+      },
+      {
+        "en": "Awards & Honours",
+        "as": "বঁটা আৰু সন্মান"
+      },
+      {
+        "en": "Sports",
+        "as": "ক্ৰীড়া"
+      },
+      {
+        "en": "Appointments & Resignations",
+        "as": "নিযুক্তি আৰু পদত্যাগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The appointment or resignation of key officials is classified under the Appointments & Resignations category.",
+      "as": "গুৰুত্বপূৰ্ণ বিষয়াৰ নিযুক্তি বা পদত্যাগ নিযুক্তি আৰু পদত্যাগ শ্ৰেণীত শ্ৰেণীবদ্ধ কৰা হয়।"
+    }
+  }
+]

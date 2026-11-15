@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-089",
+    "q": {
+      "en": "Davey Lopes, who passed away in April 2026, was a star player of which sport?",
+      "as": "২০২৬ চনৰ এপ্ৰিল মাহত যিয়ে দেহত্যাগ কৰিছিল, সেই ডেভি ল'পছ কোন খেলৰ তাৰকা খেলুৱৈ আছিল?"
+    },
+    "options": [
+      {
+        "en": "American football",
+        "as": "আমেৰিকান ফুটবল"
+      },
+      {
+        "en": "Basketball",
+        "as": "বাস্কেটবল"
+      },
+      {
+        "en": "Baseball",
+        "as": "বেছবল"
+      },
+      {
+        "en": "Ice hockey",
+        "as": "আইচ হকী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "American baseball player and manager Davey Lopes, a World Series champion, died in April 2026.",
+      "as": "বিশ্ব ছিৰিজ চেম্পিয়ন আমেৰিকান বেছবল খেলুৱৈ আৰু প্ৰশিক্ষক ডেভি ল'পছ ২০২৬ চনৰ এপ্ৰিল মাহত দেহত্যাগ কৰিছিল।"
+    }
+  }
+]

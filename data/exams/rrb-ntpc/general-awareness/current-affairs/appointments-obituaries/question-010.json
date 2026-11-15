@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-010",
+    "q": {
+      "en": "Who is the Chief Minister of Delhi?",
+      "as": "দিল্লীৰ মুখ্যমন্ত্ৰী কোন?"
+    },
+    "options": [
+      {
+        "en": "Atishi",
+        "as": "আতিশী"
+      },
+      {
+        "en": "Arvind Kejriwal",
+        "as": "অৰবিন্দ কেজৰিৱাল"
+      },
+      {
+        "en": "Rekha Gupta",
+        "as": "ৰেখা গুপ্তা"
+      },
+      {
+        "en": "Sushma Swaraj",
+        "as": "সুষ্মা স্বৰাজ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rekha Gupta is serving as the Chief Minister of Delhi.",
+      "as": "ৰেখা গুপ্তা দিল্লীৰ মুখ্যমন্ত্ৰী হিচাপে কাৰ্যনিৰ্বাহ কৰি আছে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "appointments-obituaries-004",
+    "q": {
+      "en": "Who was elected the National President of the Bharatiya Janata Party in January 2026?",
+      "as": "২০২৬ চনৰ জানুৱাৰী মাহত ভাৰতীয় জনতা পাৰ্টিৰ ৰাষ্ট্ৰীয় সভাপতি হিচাপে কোন নিৰ্বাচিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "J. P. Nadda",
+        "as": "জে. পি. নাড্ডা"
+      },
+      {
+        "en": "Amit Shah",
+        "as": "অমিত শ্বাহ"
+      },
+      {
+        "en": "Nitin Nabin",
+        "as": "নিতিন নবীন"
+      },
+      {
+        "en": "B. L. Santhosh",
+        "as": "বি. এল. সন্তোষ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Nitin Nabin was elected as the National President of the BJP on 19 January 2026.",
+      "as": "নিতিন নবীন ২০২৬ চনৰ ১৯ জানুৱাৰীত বিজেপিৰ ৰাষ্ট্ৰীয় সভাপতি হিচাপে নিৰ্বাচিত হৈছিল।"
+    }
+  }
+]
