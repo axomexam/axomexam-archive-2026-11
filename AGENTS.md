@@ -1072,3 +1072,49 @@ files. Those were reverted with `git checkout` and the only kept diff is
 under `exams/rrb-ntpc`, `as/exams/rrb-ntpc`, `keyword-map.csv`, `sitemap.xml`
 and the two tool files. If you touch the shared lib, verify other books with
 `git status --porcelain` afterwards, not with a fake check flag.
+
+## Session record — Nov 2026 RRB NTPC content-load fix (consolidate question files)
+
+**Symptom.** RRB NTPC topic pages sometimes rendered with no questions.
+
+**Root cause.** RRB NTPC was the only book stored as **one file per question**
+(`question-001.json` … `question-430.json`). Every other book uses the
+"one topic = one file" layout (`PRIMARY = "question-001.json"`). Two effects:
+
+1. A single topic page fetched 300–430 files at runtime (biology = 311 requests,
+   modern-history = 431).
+2. `listExamQuestions()` asked the **GitHub Contents API first**, which is rate
+   limited to **60 requests/hour** for anonymous callers. After a couple of page
+   views it returned `403`, the loader fell through with `questions=[]`, and the
+   page rendered blank.
+
+**Fix.**
+1. New tool `tools/consolidate-exam-question-files.js` merges each multi-file
+   topic into `question-001.json`, deletes the redundant files and rewrites
+   `index.json`'s `files` array. Question order is preserved, so the rendered
+   pages are unchanged (verified byte-identical against the 23 previous
+   multi-file topics). Result: 24 topics merged, 6,328 files removed, 6,396
+   questions kept.
+2. `js/api.src.js` now prefers the folder's `index.json` manifest (one
+   same-origin request). The GitHub Contents API stays as the fallback, and is
+   still used first when `CONFIG.USE_REMOTE` is on.
+3. `tools/build-rrb-ntpc.js` gained a `readBankSize(rel)` guard: the seeder never
+   shrinks a bank that has grown past its seed sample, so re-running it cannot
+   wipe the real questions.
+
+A topic now loads in 2 requests (manifest + one bank) instead of 311.
+
+**Rule going forward — one topic, one file.** Do not add `question-002.json`,
+`question-003.json`, … to any topic. Append to the topic's existing
+`question-001.json` and make sure `index.json`'s `files` array still lists it.
+If a topic ever has more than one `question-*.json`, run
+`node tools/consolidate-exam-question-files.js --book <id>` (add `--check` to
+report without writing).
+
+**Gotcha — `build-as-twins.js` is not idempotent against committed pages.**
+Pages that are `noindex` are deliberately left out of `twinSet`, so their
+`/as/` twin links are not rewritten. Re-running the twin builder over an
+already-committed tree therefore reports ~1,200 "changed" pages that are just
+that difference. If a fix does not change page markup, do **not** re-run the
+twin/keyword/SEO chain to "refresh" it — revert `*.html` and only re-run
+`scripts/stamp-assets.js` so the `api.js?v=` hash matches the rebuilt bundle.
