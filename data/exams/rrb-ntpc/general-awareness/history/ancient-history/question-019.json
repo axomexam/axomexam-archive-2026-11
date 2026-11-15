@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-019",
+    "q": {
+      "en": "The Chalcolithic age is characterised by the use of which metal along with stone?",
+      "as": "তাম্ৰ-প্ৰস্তৰ যুগ কোন ধাতুৰ শিলৰ লগত ব্যৱহাৰৰ দ্বাৰা চিহ্নিত?"
+    },
+    "options": [
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Tin",
+        "as": "টিন"
+      },
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Chalcolithic (copper-stone) age is named after the first use of copper tools together with stone.",
+      "as": "তাম্ৰ-প্ৰস্তৰ যুগৰ নাম শিলৰ লগতে তামৰ সঁজুলিৰ প্ৰথম ব্যৱহাৰৰ পৰা আহিছে।"
+    }
+  }
+]

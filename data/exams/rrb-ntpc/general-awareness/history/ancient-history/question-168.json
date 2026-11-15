@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-168",
+    "q": {
+      "en": "Which of the following is part of the Buddhist Eightfold Path?",
+      "as": "তলৰ কোনটো বৌদ্ধ অষ্টাঙ্গিক মাৰ্গৰ অংশ?"
+    },
+    "options": [
+      {
+        "en": "Animal sacrifice",
+        "as": "পশু বলি"
+      },
+      {
+        "en": "Caste duty",
+        "as": "বৰ্ণ কৰ্তব্য"
+      },
+      {
+        "en": "Idol worship",
+        "as": "মূৰ্তি পূজা"
+      },
+      {
+        "en": "Right conduct",
+        "as": "সৎ আচৰণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Right view, right resolve, right speech, right conduct and the rest make up the Eightfold Path.",
+      "as": "সৎ দৃষ্টি, সৎ সংকল্প, সৎ বাক্য, সৎ আচৰণ আদি লগ হৈ অষ্টাঙ্গিক মাৰ্গ গঠন কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-331",
+    "q": {
+      "en": "The famous cave paintings of Ajanta belong mainly to which period, though begun earlier?",
+      "as": "অজন্তাৰ বিখ্যাত গুহা-চিত্ৰ মূলত কোন কালৰ, যদিও ইয়াৰ আৰম্ভণি আগতে হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "The Mughal period",
+        "as": "মোগল কাল"
+      },
+      {
+        "en": "The Gupta period",
+        "as": "গুপ্ত কাল"
+      },
+      {
+        "en": "The British period",
+        "as": "ব্ৰিটিছ কাল"
+      },
+      {
+        "en": "The Maurya period",
+        "as": "মৌৰ্য কাল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Most of the Ajanta cave paintings were executed during the Gupta and post-Gupta periods, depicting Buddhist themes.",
+      "as": "অজন্তাৰ বেছিভাগ গুহা-চিত্ৰ গুপ্ত আৰু গুপ্ত-উত্তৰ কালত অঁকা হৈছিল, বৌদ্ধ বিষয়বস্তু চিত্ৰিত কৰি।"
+    }
+  }
+]

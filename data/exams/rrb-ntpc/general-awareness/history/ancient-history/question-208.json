@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-208",
+    "q": {
+      "en": "The Haryankas of Magadha were replaced by rulers of which next dynasty?",
+      "as": "মগধৰ হৰ্যঙ্কসকলক কোন পৰৱৰ্তী বংশৰ শাসকে প্ৰতিষ্ঠাপিত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Nanda",
+        "as": "নন্দ"
+      },
+      {
+        "en": "Maurya",
+        "as": "মৌৰ্য"
+      },
+      {
+        "en": "Gupta",
+        "as": "গুপ্ত"
+      },
+      {
+        "en": "Shishunaga",
+        "as": "শিশুনাগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Shishunaga dynasty succeeded the Haryankas and ruled Magadha before the Nandas.",
+      "as": "শিশুনাগ বংশ হৰ্যঙ্কসকলৰ পিছত আহিছিল আৰু নন্দসকলৰ আগতে মগধ শাসন কৰিছিল।"
+    }
+  }
+]

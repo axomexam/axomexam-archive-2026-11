@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-360",
+    "q": {
+      "en": "Who wrote the 'Thirukkural', a classic Tamil work on ethics?",
+      "as": "'তিরুক্কুৰল', নীতি-শিক্ষাৰ এটা ধ্ৰুপদী তামিল কৰ্ম, কোনে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Ilango Adigal",
+        "as": "ইলংগো অডিগল"
+      },
+      {
+        "en": "Thiruvalluvar",
+        "as": "তিরুৱল্লুৱৰ"
+      },
+      {
+        "en": "Sattanar",
+        "as": "সত্তনাৰ"
+      },
+      {
+        "en": "Kambar",
+        "as": "কম্বৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Thiruvalluvar is the author of the Thirukkural, a collection of couplets on ethics, polity and love.",
+      "as": "তিরুৱল্লুৱৰ তিরুক্কুৰলৰ লেখক, নীতি, ৰাজনীতি আৰু প্ৰেমৰ দ্বিপদী শ্লোকৰ এটা সংকলন।"
+    }
+  }
+]

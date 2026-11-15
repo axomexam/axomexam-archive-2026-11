@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-172",
+    "q": {
+      "en": "The 'Vinaya Pitaka' of the Buddhist canon deals with which subject?",
+      "as": "বৌদ্ধ ধৰ্মগ্ৰন্থৰ 'বিনয় পিটক' কোন বিষয়ৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Philosophy",
+        "as": "দৰ্শন"
+      },
+      {
+        "en": "Monastic discipline",
+        "as": "সন্ন্যাসীৰ শৃংখলা"
+      },
+      {
+        "en": "Stories of the Buddha",
+        "as": "বুদ্ধৰ কাহিনী"
+      },
+      {
+        "en": "Hymns",
+        "as": "স্তৱ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Vinaya Pitaka lays down the rules of monastic discipline for the Sangha.",
+      "as": "বিনয় পিটকাই সংঘৰ বাবে সন্ন্যাসীৰ শৃংখলাৰ নিয়ম নিৰ্ধাৰণ কৰে।"
+    }
+  }
+]

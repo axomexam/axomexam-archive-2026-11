@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-272",
+    "q": {
+      "en": "Which of the following was a source of revenue in the Mauryan empire?",
+      "as": "তলৰ কোনটো মৌৰ্য সাম্ৰাজ্যত ৰাজহৰ এটা উৎস আছিল?"
+    },
+    "options": [
+      {
+        "en": "Income tax on salaries",
+        "as": "দৰমহাৰ ওপৰত আয় কৰ"
+      },
+      {
+        "en": "Land tax",
+        "as": "ভূমি কৰ"
+      },
+      {
+        "en": "Corporate tax",
+        "as": "কৰ্পোৰেট কৰ"
+      },
+      {
+        "en": "Customs on imports only",
+        "as": "কেৱল আমদানিৰ শুল্ক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Land revenue (bhaga) was the chief source of income, along with taxes on trade, forests, mines and irrigation.",
+      "as": "ভূমি ৰাজহ (ভাগ) আয়ৰ প্ৰধান উৎস আছিল, লগতে বাণিজ্য, বন, খনি আৰু জলসিঞ্চনৰ ওপৰত কৰ।"
+    }
+  }
+]

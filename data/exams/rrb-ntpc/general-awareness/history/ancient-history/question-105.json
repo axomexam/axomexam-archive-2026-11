@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-105",
+    "q": {
+      "en": "Which of the following is a Vedic text on phonetics, one of the six Vedangas?",
+      "as": "তলৰ কোনটো ছয় বেদাঙ্গৰ এটা ধ্বনিতত্ত্বৰ বৈদিক গ্ৰন্থ?"
+    },
+    "options": [
+      {
+        "en": "Kalpa",
+        "as": "কল্প"
+      },
+      {
+        "en": "Vyakarana",
+        "as": "ব্যাকৰণ"
+      },
+      {
+        "en": "Jyotisha",
+        "as": "জ্যোতিষ"
+      },
+      {
+        "en": "Siksha",
+        "as": "শিক্ষা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Siksha, the Vedanga of phonetics, deals with the correct pronunciation and accent of Vedic recitation.",
+      "as": "শিক্ষা, ধ্বনিতত্ত্বৰ বেদাঙ্গ, বৈদিক পাঠৰ শুদ্ধ উচ্চাৰণ আৰু স্বৰৰ সৈতে জড়িত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-035",
+    "q": {
+      "en": "Which of the following was NOT a feature of Harappan town planning?",
+      "as": "তলৰ কোনটো হৰপ্পা নগৰ পৰিকল্পনাৰ বৈশিষ্ট্য নাছিল?"
+    },
+    "options": [
+      {
+        "en": "Grid-pattern streets",
+        "as": "জালাকাৰ ৰাজপথ"
+      },
+      {
+        "en": "Stone-paved royal highways",
+        "as": "শিল-বিছনা ৰাজপথ"
+      },
+      {
+        "en": "Covered drainage",
+        "as": "আৱৰি থকা নৰ্দমা"
+      },
+      {
+        "en": "Use of baked bricks",
+        "as": "পকা ইটাৰ ব্যৱহাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Harappan cities had grid streets, covered drains and standard baked bricks, but no stone-paved royal highways.",
+      "as": "হৰপ্পা নগৰত জালাকাৰ ৰাজপথ, আৱৰি থকা নৰ্দমা আৰু মানক পকা ইটা আছিল, কিন্তু শিল-বিছনা ৰাজপথ নাছিল।"
+    }
+  }
+]

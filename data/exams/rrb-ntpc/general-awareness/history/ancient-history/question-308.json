@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-308",
+    "q": {
+      "en": "Which language became prominent in inscriptions and literature during the Satavahana period?",
+      "as": "সাতৱাহন কালত শিলালিপি আৰু সাহিত্যত কোন ভাষা প্ৰধান হৈ পৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Latin",
+        "as": "লেটিন"
+      },
+      {
+        "en": "Arabic",
+        "as": "আৰবি"
+      },
+      {
+        "en": "Prakrit",
+        "as": "প্ৰাকৃত"
+      },
+      {
+        "en": "Persian",
+        "as": "পাৰ্চী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Satavahanas patronised Prakrit, though Sanskrit also grew in importance in their inscriptions.",
+      "as": "সাতৱাহনসকলে প্ৰাকৃতক পৃষ্ঠপোষকতা কৰিছিল, যদিও তেওঁলোকৰ শিলালিপিত সংস্কৃতৰো গুৰুত্ব বাঢ়িছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-250",
+    "q": {
+      "en": "Ashokan inscriptions found in the north-west are written in which script?",
+      "as": "উত্তৰ-পশ্চিমত পোৱা অশোকৰ শিলালিপি কোন লিপিত লিখা?"
+    },
+    "options": [
+      {
+        "en": "Brahmi",
+        "as": "ব্ৰাহ্মী"
+      },
+      {
+        "en": "Grantha",
+        "as": "গ্ৰন্থ"
+      },
+      {
+        "en": "Nagari",
+        "as": "নাগৰী"
+      },
+      {
+        "en": "Kharosthi",
+        "as": "খৰোষ্ঠী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The north-western inscriptions of Ashoka are written in Kharosthi, used in the Gandhara region.",
+      "as": "অশোকৰ উত্তৰ-পশ্চিমৰ শিলালিপি খৰোষ্ঠীত লিখা, যি গান্ধাৰ অঞ্চলত ব্যৱহৃত হৈছিল।"
+    }
+  }
+]

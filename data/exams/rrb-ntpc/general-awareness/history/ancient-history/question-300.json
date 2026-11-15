@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-300",
+    "q": {
+      "en": "Which Roman writer described the trade between the Roman empire and India?",
+      "as": "কোন ৰোমান লেখকে ৰোমান সাম্ৰাজ্য আৰু ভাৰতৰ মাজৰ বাণিজ্য বৰ্ণনা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Herodotus",
+        "as": "হেৰ'ড'টাছ"
+      },
+      {
+        "en": "Thucydides",
+        "as": "থুকিডিডেছ"
+      },
+      {
+        "en": "Livy",
+        "as": "লিভি"
+      },
+      {
+        "en": "Pliny the Elder",
+        "as": "প্লিনি দ্য এল্ডাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Pliny the Elder complained that Rome was losing gold to India for its luxury goods such as pepper and silk.",
+      "as": "প্লিনি দ্য এল্ডাৰে অভিযোগ কৰিছিল যে ৰোমে মৰিচ আৰু ৰেচমৰ দৰে বিলাসী সামগ্ৰীৰ বাবে ভাৰতলৈ সোণ হেৰুৱাইছিল।"
+    }
+  }
+]

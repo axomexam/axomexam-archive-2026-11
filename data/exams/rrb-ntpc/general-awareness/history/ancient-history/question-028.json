@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-028",
+    "q": {
+      "en": "The Harappan site of Kalibangan is located on the bank of which river?",
+      "as": "হৰপ্পা স্থান কালীবংগন কোন নদীৰ পাৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Indus",
+        "as": "সিন্ধু"
+      },
+      {
+        "en": "Ravi",
+        "as": "ৰৱি"
+      },
+      {
+        "en": "Ghaggar",
+        "as": "ঘগ্গৰ"
+      },
+      {
+        "en": "Narmada",
+        "as": "নৰ্মদা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kalibangan in Rajasthan lies on the dry bed of the Ghaggar (ancient Saraswati) river.",
+      "as": "ৰাজস্থানৰ কালীবংগন ঘগ্গৰ (প্ৰাচীন সৰস্বতী) নদীৰ শুকান বিছনাত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-073",
+    "q": {
+      "en": "Which Veda is chiefly associated with medicine, charms and popular beliefs?",
+      "as": "কোনখন বেদ মূলত চিকিৎসা, মন্ত্ৰ আৰু লোকবিশ্বাসৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Rigveda",
+        "as": "ঋগ্বেদ"
+      },
+      {
+        "en": "Samaveda",
+        "as": "সামবেদ"
+      },
+      {
+        "en": "Atharvaveda",
+        "as": "অথৰ্ববেদ"
+      },
+      {
+        "en": "Yajurveda",
+        "as": "যজুৰ্বেদ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Atharvaveda contains spells, charms and healing knowledge, and reflects popular religious practice.",
+      "as": "অথৰ্ববেদত মন্ত্ৰ, কৰ্ম আৰু চিকিৎসা-জ্ঞান আছে, আৰু ই লোকধৰ্মীয় প্ৰথা প্ৰতিফলিত কৰে।"
+    }
+  }
+]

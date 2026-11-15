@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-321",
+    "q": {
+      "en": "The 'Meghaduta', a celebrated Sanskrit poem, was written by which poet?",
+      "as": "'মেঘদূত', এটা প্ৰখ্যাত সংস্কৃত কবিতা, কোন কবিয়ে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Harisena",
+        "as": "হৰিষেণ"
+      },
+      {
+        "en": "Kalidasa",
+        "as": "কালিদাস"
+      },
+      {
+        "en": "Vishakhadatta",
+        "as": "বিশাখদত্ত"
+      },
+      {
+        "en": "Bana",
+        "as": "বাণ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Meghaduta, or 'cloud messenger', is a lyrical poem by Kalidasa set in the Gupta age.",
+      "as": "মেঘদূত, বা 'মেঘ-দূত', গুপ্ত যুগত ৰচিত কালিদাসৰ এটা গীতিময় কবিতা।"
+    }
+  }
+]

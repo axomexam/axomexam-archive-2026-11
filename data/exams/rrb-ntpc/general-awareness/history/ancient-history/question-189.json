@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-189",
+    "q": {
+      "en": "Which famous physician was a contemporary of the Buddha and served the early Buddhist order?",
+      "as": "কোন বিখ্যাত চিকিৎসক বুদ্ধৰ সমকালীন আছিল আৰু প্ৰাৰম্ভিক বৌদ্ধ সংঘৰ সেৱা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Charaka",
+        "as": "চৰক"
+      },
+      {
+        "en": "Sushruta",
+        "as": "সুশ্ৰুত"
+      },
+      {
+        "en": "Jivaka",
+        "as": "জীৱক"
+      },
+      {
+        "en": "Nagarjuna",
+        "as": "নাগাৰ্জুন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jivaka, the physician, was a contemporary of the Buddha and is remembered for treating the Buddha and the Sangha.",
+      "as": "জীৱক, চিকিৎসক, বুদ্ধৰ সমকালীন আছিল আৰু বুদ্ধ আৰু সংঘৰ চিকিৎসাৰ বাবে স্মৰণীয়।"
+    }
+  }
+]

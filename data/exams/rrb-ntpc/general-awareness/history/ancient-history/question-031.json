@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-031",
+    "q": {
+      "en": "Which Harappan site is known for a bead-making workshop?",
+      "as": "কোন হৰপ্পা স্থান মণি-নিৰ্মাণ কৰ্মশালাৰ বাবে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Kalibangan",
+        "as": "কালীবংগন"
+      },
+      {
+        "en": "Banawali",
+        "as": "বনৱালি"
+      },
+      {
+        "en": "Chanhu-daro",
+        "as": "চানহু-দাৰো"
+      },
+      {
+        "en": "Surkotada",
+        "as": "সুৰকোটদা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Chanhu-daro in Sindh was a centre for manufacturing beads and other craft goods.",
+      "as": "সিন্ধুৰ চানহু-দাৰো মণি আৰু অন্য শিল্প-সামগ্ৰী নিৰ্মাণৰ এটা কেন্দ্ৰ আছিল।"
+    }
+  }
+]

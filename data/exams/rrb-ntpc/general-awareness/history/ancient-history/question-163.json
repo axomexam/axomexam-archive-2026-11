@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-163",
+    "q": {
+      "en": "Buddha's first sermon at Sarnath is known by which name?",
+      "as": "সাৰনাথত বুদ্ধৰ প্ৰথম ধৰ্মোপদেশ কোন নামেৰে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Mahaparinirvana",
+        "as": "মহাপৰিনিৰ্বাণ"
+      },
+      {
+        "en": "Mahabhinishkramana",
+        "as": "মহাভিনিষ্ক্ৰমণ"
+      },
+      {
+        "en": "Dhammachakka-pavattana",
+        "as": "ধম্মচক্কপ্পৱত্তন"
+      },
+      {
+        "en": "Sambodhi",
+        "as": "সম্বোধি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The first sermon is called the Dhammachakka-pavattana, meaning the turning of the wheel of law.",
+      "as": "প্ৰথম ধৰ্মোপদেশক ধম্মচক্কপ্পৱত্তন বোলা হয়, যাৰ অৰ্থ ধৰ্মচক্ৰ প্ৰৱৰ্তন।"
+    }
+  }
+]

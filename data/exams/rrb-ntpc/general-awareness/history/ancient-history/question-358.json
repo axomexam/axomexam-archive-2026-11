@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-358",
+    "q": {
+      "en": "The Sangam age of South India is associated with which language?",
+      "as": "দক্ষিণ ভাৰতৰ সংগম যুগ কোন ভাষাৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Sanskrit",
+        "as": "সংস্কৃত"
+      },
+      {
+        "en": "Pali",
+        "as": "পালি"
+      },
+      {
+        "en": "Tamil",
+        "as": "তামিল"
+      },
+      {
+        "en": "Prakrit",
+        "as": "প্ৰাকৃত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Sangam age produced a rich body of Tamil literature, the earliest in the language.",
+      "as": "সংগম যুগে তামিল ভাষাৰ এটা সমৃদ্ধ সাহিত্য সৃষ্টি কৰিছিল, যি ভাষাটোৰ আটাইতকৈ প্ৰাচীন।"
+    }
+  }
+]

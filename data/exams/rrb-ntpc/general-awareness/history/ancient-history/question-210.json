@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-210",
+    "q": {
+      "en": "The Shishunaga rulers of Magadha were followed by which dynasty?",
+      "as": "মগধৰ শিশুনাগ শাসকসকলৰ পিছত কোন বংশ আহিছিল?"
+    },
+    "options": [
+      {
+        "en": "Maurya",
+        "as": "মৌৰ্য"
+      },
+      {
+        "en": "Haryanka",
+        "as": "হৰ্যঙ্ক"
+      },
+      {
+        "en": "Nanda",
+        "as": "নন্দ"
+      },
+      {
+        "en": "Shunga",
+        "as": "শুঙ্গ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Nanda dynasty, founded by Mahapadma Nanda, succeeded the Shishunagas.",
+      "as": "মহাপদ্ম নন্দৰ দ্বাৰা প্ৰতিষ্ঠিত নন্দ বংশ শিশুনাগসকলৰ পিছত আহিছিল।"
+    }
+  }
+]

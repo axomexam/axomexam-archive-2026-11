@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-162",
+    "q": {
+      "en": "At which place did Buddha deliver his first sermon?",
+      "as": "বুদ্ধে ক'ত তেওঁৰ প্ৰথম ধৰ্মোপদেশ দিছিল?"
+    },
+    "options": [
+      {
+        "en": "Bodh Gaya",
+        "as": "বোধ গয়া"
+      },
+      {
+        "en": "Kushinagar",
+        "as": "কুশীনগৰ"
+      },
+      {
+        "en": "Rajgriha",
+        "as": "ৰাজগৃহ"
+      },
+      {
+        "en": "Sarnath",
+        "as": "সাৰনাথ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Buddha delivered his first sermon, the Dhammachakka-pavattana, at Sarnath near Varanasi.",
+      "as": "বুদ্ধে তেওঁৰ প্ৰথম ধৰ্মোপদেশ, ধম্মচক্কপ্পৱত্তন, বাৰাণসীৰ ওচৰৰ সাৰনাথত দিছিল।"
+    }
+  }
+]

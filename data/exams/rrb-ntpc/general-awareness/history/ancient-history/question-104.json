@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-104",
+    "q": {
+      "en": "The famous 'Gayatri Mantra' is dedicated to which deity?",
+      "as": "বিখ্যাত 'গায়ত্ৰী মন্ত্ৰ' কোন দেৱতাৰ প্ৰতি উৎসৰ্গিত?"
+    },
+    "options": [
+      {
+        "en": "Indra",
+        "as": "ইন্দ্ৰ"
+      },
+      {
+        "en": "Agni",
+        "as": "অগ্নি"
+      },
+      {
+        "en": "Savitri (the Sun)",
+        "as": "সবিত্ৰী (সূৰ্য)"
+      },
+      {
+        "en": "Varuna",
+        "as": "বৰুণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Gayatri Mantra, composed by Vishvamitra, is addressed to Savitri, a form of the Sun god.",
+      "as": "বিশ্বামিত্ৰই ৰচনা কৰা গায়ত্ৰী মন্ত্ৰ সবিত্ৰী, সূৰ্য দেৱতাৰ এটা ৰূপ,ৰ প্ৰতি সম্বোধন কৰা হয়।"
+    }
+  }
+]

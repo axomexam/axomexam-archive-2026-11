@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-249",
+    "q": {
+      "en": "Ashoka's inscriptions are the main source of Mauryan history. In which script are most of them written?",
+      "as": "অশোকৰ শিলালিপি মৌৰ্য ইতিহাসৰ প্ৰধান উৎস। ইয়াৰ বেছিভাগ কোন লিপিত লিখা?"
+    },
+    "options": [
+      {
+        "en": "Kharosthi",
+        "as": "খৰোষ্ঠী"
+      },
+      {
+        "en": "Devanagari",
+        "as": "দেৱনাগৰী"
+      },
+      {
+        "en": "Tamil",
+        "as": "তামিল"
+      },
+      {
+        "en": "Brahmi",
+        "as": "ব্ৰাহ্মী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Most Ashokan inscriptions are in Brahmi, while those in the north-west are in Kharosthi and some in Greek and Aramaic.",
+      "as": "বেছিভাগ অশোকৰ শিলালিপি ব্ৰাহ্মীত, আনহাতে উত্তৰ-পশ্চিমৰ কিছুমান খৰোষ্ঠীত আৰু কিছুমান গ্ৰীক আৰু আৰামাইকত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-301",
+    "q": {
+      "en": "Which of the following coins were issued in large numbers by the Satavahanas?",
+      "as": "তলৰ কোনটো মুদ্ৰা সাতৱাহনসকলে বিপুল সংখ্যাত জাৰি কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Paper currency",
+        "as": "কাগজৰ মুদ্ৰা"
+      },
+      {
+        "en": "Gold dinars",
+        "as": "সোণৰ দিনাৰ"
+      },
+      {
+        "en": "Lead and potin coins",
+        "as": "সীহ আৰু পটিন মুদ্ৰা"
+      },
+      {
+        "en": "Silver dollars",
+        "as": "ৰূপৰ ডলাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Satavahanas issued coins mainly in lead, potin and copper, often bearing the names of rulers.",
+      "as": "সাতৱাহনসকলে মূলত সীহ, পটিন আৰু তামত মুদ্ৰা জাৰি কৰিছিল, প্ৰায়ে শাসকসকলৰ নাম থকা।"
+    }
+  }
+]

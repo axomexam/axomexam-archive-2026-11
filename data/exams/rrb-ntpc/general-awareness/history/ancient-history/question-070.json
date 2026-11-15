@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-070",
+    "q": {
+      "en": "Which of the four Vedas is the oldest?",
+      "as": "চাৰিখন বেদৰ ভিতৰত আটাইতকৈ প্ৰাচীন কোনখন?"
+    },
+    "options": [
+      {
+        "en": "Samaveda",
+        "as": "সামবেদ"
+      },
+      {
+        "en": "Rigveda",
+        "as": "ঋগ্বেদ"
+      },
+      {
+        "en": "Yajurveda",
+        "as": "যজুৰ্বেদ"
+      },
+      {
+        "en": "Atharvaveda",
+        "as": "অথৰ্ববেদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Rigveda is the earliest of the four Vedas, a collection of hymns addressed to various gods.",
+      "as": "ঋগ্বেদ চাৰিখন বেদৰ আটাইতকৈ প্ৰাচীন, বিভিন্ন দেৱতাৰ প্ৰতি সম্বোধন কৰা স্তৱৰ সংকলন।"
+    }
+  }
+]

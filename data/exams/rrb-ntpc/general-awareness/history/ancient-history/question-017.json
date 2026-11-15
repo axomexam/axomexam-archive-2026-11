@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-017",
+    "q": {
+      "en": "The transition from hunting-gathering to farming first occurred in which age?",
+      "as": "চিকাৰ-সংগ্ৰহৰ পৰা কৃষিলৈ পৰিৱৰ্তন প্ৰথমে কোন যুগত ঘটিছিল?"
+    },
+    "options": [
+      {
+        "en": "Neolithic",
+        "as": "নৱ প্ৰস্তৰ যুগ"
+      },
+      {
+        "en": "Palaeolithic",
+        "as": "প্ৰাচীন প্ৰস্তৰ যুগ"
+      },
+      {
+        "en": "Mesolithic",
+        "as": "মধ্য প্ৰস্তৰ যুগ"
+      },
+      {
+        "en": "Chalcolithic",
+        "as": "তাম্ৰ-প্ৰস্তৰ যুগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Neolithic age marked the beginning of settled farming, animal domestication and pottery-making.",
+      "as": "নৱ প্ৰস্তৰ যুগে স্থায়ী কৃষি, পশুপালন আৰু মাটিৰ পাত্ৰ নিৰ্মাণৰ আৰম্ভণি চিহ্নিত কৰিছিল।"
+    }
+  }
+]

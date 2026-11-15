@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-231",
+    "q": {
+      "en": "Which animal, available in the forests of Magadha, was a major military asset?",
+      "as": "মগধৰ বনত উপলব্ধ কোন জন্তু এটা প্ৰধান সামৰিক সম্পদ আছিল?"
+    },
+    "options": [
+      {
+        "en": "The camel",
+        "as": "উট"
+      },
+      {
+        "en": "The elephant",
+        "as": "হাতী"
+      },
+      {
+        "en": "The horse",
+        "as": "ঘোঁৰা"
+      },
+      {
+        "en": "The donkey",
+        "as": "গাধ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Elephants, abundant in the Magadha forests, formed a decisive part of its army.",
+      "as": "মগধৰ বনত প্ৰচুৰ হাতীয়ে ইয়াৰ সেনাৰ এটা নিৰ্ণায়ক অংশ গঠন কৰিছিল।"
+    }
+  }
+]

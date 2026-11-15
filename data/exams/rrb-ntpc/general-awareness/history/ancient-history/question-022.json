@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-022",
+    "q": {
+      "en": "Which of these is the correct chronological order of India's prehistoric ages?",
+      "as": "ভাৰতৰ প্ৰাগৈতিহাসিক যুগসমূহৰ শুদ্ধ কালানুক্ৰমিক ক্ৰম কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Neolithic, Palaeolithic, Mesolithic",
+        "as": "নৱ প্ৰস্তৰ, প্ৰাচীন প্ৰস্তৰ, মধ্য প্ৰস্তৰ"
+      },
+      {
+        "en": "Mesolithic, Neolithic, Palaeolithic",
+        "as": "মধ্য প্ৰস্তৰ, নৱ প্ৰস্তৰ, প্ৰাচীন প্ৰস্তৰ"
+      },
+      {
+        "en": "Palaeolithic, Mesolithic, Neolithic",
+        "as": "প্ৰাচীন প্ৰস্তৰ, মধ্য প্ৰস্তৰ, নৱ প্ৰস্তৰ"
+      },
+      {
+        "en": "Palaeolithic, Neolithic, Mesolithic",
+        "as": "প্ৰাচীন প্ৰস্তৰ, নৱ প্ৰস্তৰ, মধ্য প্ৰস্তৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Stone Age in India runs from the Palaeolithic through the Mesolithic to the Neolithic, followed by the Chalcolithic.",
+      "as": "ভাৰতত প্ৰস্তৰ যুগ প্ৰাচীন প্ৰস্তৰৰ পৰা মধ্য প্ৰস্তৰ হৈ নৱ প্ৰস্তৰলৈকে চলে, তাৰ পিছত তাম্ৰ-প্ৰস্তৰ যুগ।"
+    }
+  }
+]

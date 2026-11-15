@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-155",
+    "q": {
+      "en": "The birthplace of Gautama Buddha lies in which present-day country?",
+      "as": "গৌতম বুদ্ধৰ জন্মস্থান বৰ্তমান কোন দেশত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Bhutan",
+        "as": "ভূটান"
+      },
+      {
+        "en": "Nepal",
+        "as": "নেপাল"
+      },
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Buddha was born at Lumbini, which lies in present-day Nepal, close to the Indian border.",
+      "as": "বুদ্ধ লুম্বিনীত জন্মগ্ৰহণ কৰিছিল, যি বৰ্তমান নেপালত, ভাৰতৰ সীমাৰ ওচৰত অৱস্থিত।"
+    }
+  }
+]

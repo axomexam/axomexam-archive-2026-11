@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-161",
+    "q": {
+      "en": "Buddha attained enlightenment under which tree?",
+      "as": "বুদ্ধে কোন গছৰ তলত জ্ঞান লাভ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Banyan tree",
+        "as": "বৰ গছ"
+      },
+      {
+        "en": "Sal tree",
+        "as": "শাল গছ"
+      },
+      {
+        "en": "Mango tree",
+        "as": "আম গছ"
+      },
+      {
+        "en": "Pipal (Bodhi) tree",
+        "as": "পিপল (বোধি) গছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Buddha attained enlightenment under a pipal tree at Bodh Gaya, which became known as the Bodhi tree.",
+      "as": "বুদ্ধে বোধ গয়াত এজোপা পিপল গছৰ তলত জ্ঞান লাভ কৰিছিল, যি বোধি গছ নামেৰে জনাজাত হৈছিল।"
+    }
+  }
+]

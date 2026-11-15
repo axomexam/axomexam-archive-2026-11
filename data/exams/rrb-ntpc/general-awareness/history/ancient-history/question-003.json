@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-003",
+    "q": {
+      "en": "Which material was chiefly used to make tools in the Lower Palaeolithic period in India?",
+      "as": "ভাৰতত নিম্ন প্ৰাচীন প্ৰস্তৰ যুগত সঁজুলি বনাবলৈ মূলত কোন পদাৰ্থ ব্যৱহাৰ কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Bronze",
+        "as": "ব্ৰঞ্জ"
+      },
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Quartzite",
+        "as": "কোৱাৰ্টজাইট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Lower Palaeolithic tools in India were mostly made of quartzite, a hard local stone used for hand-axes and cleavers.",
+      "as": "ভাৰতত নিম্ন প্ৰাচীন প্ৰস্তৰ যুগৰ সঁজুলি বেছিভাগ কোৱাৰ্টজাইটৰ পৰা বনোৱা হৈছিল, যি হাত-কুঠাৰ আৰু ছুৰীৰ বাবে ব্যৱহৃত কঠিন স্থানীয় শিল।"
+    }
+  }
+]

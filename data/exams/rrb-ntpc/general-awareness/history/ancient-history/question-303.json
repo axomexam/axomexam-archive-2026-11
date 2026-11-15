@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-303",
+    "q": {
+      "en": "Which of the following dynasties succeeded the Satavahanas in the Deccan?",
+      "as": "দাক্ষিণাত্যত সাতৱাহনসকলৰ পিছত কোন বংশ আহিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Guptas",
+        "as": "গুপ্ত"
+      },
+      {
+        "en": "The Palas",
+        "as": "পাল"
+      },
+      {
+        "en": "The Vakatakas",
+        "as": "বাকাটক"
+      },
+      {
+        "en": "The Cholas",
+        "as": "চোল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Vakatakas and the Ikshvakus succeeded the Satavahanas in the Deccan after their decline.",
+      "as": "সাতৱাহনসকলৰ পতনৰ পিছত দাক্ষিণাত্যত বাকাটক আৰু ইক্ষ্বাকুসকলে উত্তৰাধিকাৰী হৈছিল।"
+    }
+  }
+]

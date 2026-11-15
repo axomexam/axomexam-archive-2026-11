@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-175",
+    "q": {
+      "en": "The Buddhist text 'Jatakas' deal with which of the following?",
+      "as": "বৌদ্ধ গ্ৰন্থ 'জাতক' তলৰ কোনটোৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Monastic rules",
+        "as": "সন্ন্যাসীৰ নিয়ম"
+      },
+      {
+        "en": "Astronomy",
+        "as": "জ্যোতিৰ্বিজ্ঞান"
+      },
+      {
+        "en": "Stories of the Buddha's previous births",
+        "as": "বুদ্ধৰ পূৰ্বজন্মৰ কাহিনী"
+      },
+      {
+        "en": "Grammar",
+        "as": "ব্যাকৰণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Jatakas are tales of the Buddha's previous births, illustrating moral lessons through animal and human stories.",
+      "as": "জাতকসমূহ বুদ্ধৰ পূৰ্বজন্মৰ কাহিনী, যিয়ে জন্তু আৰু মানৱ কাহিনীৰ জৰিয়তে নৈতিক শিক্ষা দিয়ে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-055",
+    "q": {
+      "en": "The Harappan port of Lothal was connected by a channel to which river?",
+      "as": "হৰপ্পা বন্দৰ লোথাল কোন নদীৰ সৈতে এটা খালৰ দ্বাৰা সংযুক্ত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Indus",
+        "as": "সিন্ধু"
+      },
+      {
+        "en": "Sabarmati",
+        "as": "ছাবৰমতী"
+      },
+      {
+        "en": "Ghaggar",
+        "as": "ঘগ্গৰ"
+      },
+      {
+        "en": "Narmada",
+        "as": "নৰ্মদা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Lothal's dock was linked to the Sabarmati river, giving access to the Gulf of Khambhat and the sea.",
+      "as": "লোথালৰ নৌবন্দৰ ছাবৰমতী নদীৰ সৈতে সংযুক্ত আছিল, যি খাম্ভাট উপসাগৰ আৰু সাগৰলৈ প্ৰৱেশ দিছিল।"
+    }
+  }
+]

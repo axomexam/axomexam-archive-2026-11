@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-143",
+    "q": {
+      "en": "The sacred texts of the Jains are known by which name?",
+      "as": "জৈনসকলৰ পবিত্ৰ গ্ৰন্থসমূহক কোন নামেৰে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Tripitaka",
+        "as": "ত্ৰিপিটক"
+      },
+      {
+        "en": "Vedas",
+        "as": "বেদ"
+      },
+      {
+        "en": "Agamas",
+        "as": "আগম"
+      },
+      {
+        "en": "Puranas",
+        "as": "পুৰাণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Jain canon is called the Agamas or the twelve Angas, preserved in the Ardhamagadhi tradition.",
+      "as": "জৈন ধৰ্মগ্ৰন্থক আগম বা বাৰটা অঙ্গ বোলা হয়, অৰ্ধমাগধী পৰম্পৰাত সংৰক্ষিত।"
+    }
+  }
+]

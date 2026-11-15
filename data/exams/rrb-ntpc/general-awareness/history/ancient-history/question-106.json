@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-106",
+    "q": {
+      "en": "The Vedanga 'Jyotisha' is concerned with which subject?",
+      "as": "বেদাঙ্গ 'জ্যোতিষ' কোন বিষয়ৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Grammar",
+        "as": "ব্যাকৰণ"
+      },
+      {
+        "en": "Medicine",
+        "as": "চিকিৎসা"
+      },
+      {
+        "en": "Astronomy and the calendar",
+        "as": "জ্যোতিৰ্বিজ্ঞান আৰু পঞ্জিকা"
+      },
+      {
+        "en": "Archery",
+        "as": "ধনুবিদ্যা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jyotisha, the Vedanga of astronomy, dealt with the timing of sacrifices through the study of the stars and seasons.",
+      "as": "জ্যোতিষ, জ্যোতিৰ্বিজ্ঞানৰ বেদাঙ্গ, তৰা আৰু ঋতুৰ অধ্যয়নৰ জৰিয়তে যজ্ঞৰ সময় নিৰ্ধাৰণৰ সৈতে জড়িত আছিল।"
+    }
+  }
+]

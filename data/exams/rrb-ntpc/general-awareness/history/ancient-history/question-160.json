@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-160",
+    "q": {
+      "en": "Buddha left home in search of truth at what age?",
+      "as": "বুদ্ধে কিমান বয়সত সত্যৰ সন্ধানত ঘৰ এৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Nineteen",
+        "as": "ঊনৈশ"
+      },
+      {
+        "en": "Thirty-five",
+        "as": "পঁয়ত্ৰিশ"
+      },
+      {
+        "en": "Twenty-nine",
+        "as": "ঊনত্ৰিশ"
+      },
+      {
+        "en": "Forty",
+        "as": "চল্লিশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Buddha left his palace at the age of twenty-nine, an event known as the Great Renunciation (Mahabhinishkramana).",
+      "as": "বুদ্ধে ঊনত্ৰিশ বছৰ বয়সত তেওঁৰ ৰাজপ্ৰাসাদ এৰিছিল, যি ঘটনাক মহাভিনিষ্ক্ৰমণ বোলা হয়।"
+    }
+  }
+]

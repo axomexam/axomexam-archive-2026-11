@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-103",
+    "q": {
+      "en": "Into how many mandalas (books) is the Rigveda arranged?",
+      "as": "ঋগ্বেদ কেইটা মণ্ডলত (পুথি) সজ্জিত হৈ আছে?"
+    },
+    "options": [
+      {
+        "en": "Five",
+        "as": "পাঁচটা"
+      },
+      {
+        "en": "Ten",
+        "as": "দহটা"
+      },
+      {
+        "en": "Twelve",
+        "as": "বাৰটা"
+      },
+      {
+        "en": "Eighteen",
+        "as": "আঠাইশটা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Rigveda has ten mandalas, of which the second to the seventh are the oldest family books.",
+      "as": "ঋগ্বেদত দহটা মণ্ডল আছে, যাৰ দ্বিতীয়ৰ পৰা সপ্তমলৈকে আটাইতকৈ প্ৰাচীন পাৰিবাৰিক পুথি।"
+    }
+  }
+]

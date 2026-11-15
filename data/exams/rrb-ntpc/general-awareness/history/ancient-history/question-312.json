@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-312",
+    "q": {
+      "en": "Which of the following languages was used by Kanishka in his inscriptions in the north-west?",
+      "as": "উত্তৰ-পশ্চিমত কণিষ্কে তেওঁৰ শিলালিপিত তলৰ কোন ভাষা ব্যৱহাৰ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Tamil",
+        "as": "তামিল"
+      },
+      {
+        "en": "Greek and Prakrit",
+        "as": "গ্ৰীক আৰু প্ৰাকৃত"
+      },
+      {
+        "en": "Arabic",
+        "as": "আৰবি"
+      },
+      {
+        "en": "Latin only",
+        "as": "কেৱল লেটিন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Kanishka's inscriptions use Greek and Prakrit, reflecting the mixed culture of his empire.",
+      "as": "কণিষ্কৰ শিলালিপিয়ে গ্ৰীক আৰু প্ৰাকৃত ব্যৱহাৰ কৰে, যি তেওঁৰ সাম্ৰাজ্যৰ মিশ্ৰ সংস্কৃতি প্ৰতিফলিত কৰে।"
+    }
+  }
+]

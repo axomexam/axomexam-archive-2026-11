@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-220",
+    "q": {
+      "en": "Which was the capital of the Vajji confederacy?",
+      "as": "বজ্জি সংঘৰ ৰাজধানী কোনটো আছিল?"
+    },
+    "options": [
+      {
+        "en": "Rajgriha",
+        "as": "ৰাজগৃহ"
+      },
+      {
+        "en": "Vaishali",
+        "as": "বৈশালী"
+      },
+      {
+        "en": "Pataliputra",
+        "as": "পাটলিপুত্ৰ"
+      },
+      {
+        "en": "Shravasti",
+        "as": "শ্ৰাৱস্তী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vaishali was the capital of the Vajji republic and one of the earliest republics in the world.",
+      "as": "বৈশালী বজ্জি গণৰাজ্যৰ ৰাজধানী আছিল আৰু বিশ্বৰ আটাইতকৈ প্ৰাচীন গণৰাজ্যৰ এটা আছিল।"
+    }
+  }
+]

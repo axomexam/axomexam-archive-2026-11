@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ancient-history-010",
+    "q": {
+      "en": "Microliths, tiny stone tools, are the characteristic feature of which age in India?",
+      "as": "মাইক্ৰ'লিথ, অতি সৰু শিলৰ সঁজুলি, ভাৰতত কোন যুগৰ বৈশিষ্ট্যপূৰ্ণ লক্ষণ?"
+    },
+    "options": [
+      {
+        "en": "Palaeolithic",
+        "as": "প্ৰাচীন প্ৰস্তৰ যুগ"
+      },
+      {
+        "en": "Neolithic",
+        "as": "নৱ প্ৰস্তৰ যুগ"
+      },
+      {
+        "en": "Mesolithic",
+        "as": "মধ্য প্ৰস্তৰ যুগ"
+      },
+      {
+        "en": "Iron Age",
+        "as": "লৌহ যুগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Microliths — small blades and geometric pieces — are the hallmark of the Mesolithic age in India.",
+      "as": "মাইক্ৰ'লিথ — সৰু ফলি আৰু জ্যামিতিক টুকুৰা — ভাৰতত মধ্য প্ৰস্তৰ যুগৰ প্ৰধান চিহ্ন।"
+    }
+  }
+]
