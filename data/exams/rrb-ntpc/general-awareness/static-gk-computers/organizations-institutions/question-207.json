@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-207",
+    "q": {
+      "en": "The National Payments Corporation of India was incorporated in the year:",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰীয় পেমেণ্ট কৰ্পৰেশ্যন পঞ্জীভুক্ত হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "2005",
+        "as": "২০০৫"
+      },
+      {
+        "en": "2012",
+        "as": "২০১২"
+      },
+      {
+        "en": "2016",
+        "as": "২০১৬"
+      },
+      {
+        "en": "2008",
+        "as": "২০০৮"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "NPCI, which runs UPI and RuPay, was incorporated in 2008.",
+      "as": "ইউ পি আই আৰু ৰুপে' পৰিচালনা কৰা এন পি চি আই ২০০৮ চনত পঞ্জীভুক্ত হৈছিল।"
+    }
+  }
+]

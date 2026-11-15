@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-190",
+    "q": {
+      "en": "The State Bank of India was originally established as the:",
+      "as": "ষ্টেট বেংক অৱ ইণ্ডিয়া মূলতঃ কি হিচাপে প্ৰতিষ্ঠা হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "Bank of Bombay",
+        "as": "বেংক অৱ বম্বে"
+      },
+      {
+        "en": "Bank of Calcutta",
+        "as": "বেংক অৱ কলকাতা"
+      },
+      {
+        "en": "Bank of Madras",
+        "as": "বেংক অৱ মাদ্ৰাজ"
+      },
+      {
+        "en": "Imperial Bank",
+        "as": "ইম্পিৰিয়েল বেংক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Bank of Calcutta, founded in 1806, later became the State Bank of India.",
+      "as": "১৮০৬ চনত প্ৰতিষ্ঠিত বেংক অৱ কলকাতা পিছত ষ্টেট বেংক অৱ ইণ্ডিয়া হয়।"
+    }
+  }
+]

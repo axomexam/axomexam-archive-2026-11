@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-053",
+    "q": {
+      "en": "The Insurance Regulatory and Development Authority of India is headquartered at:",
+      "as": "ভাৰতীয় বীমা নিয়ন্ত্ৰণ আৰু উন্নয়ন সংস্থাৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Hyderabad",
+        "as": "হাইদৰাবাদ"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "IRDAI has functioned from Hyderabad since it was constituted in 1999.",
+      "as": "১৯৯৯ চনত গঠন হোৱাৰে পৰা আই আৰ ডি এ আই হাইদৰাবাদৰ পৰা কাম কৰি আছে।"
+    }
+  }
+]

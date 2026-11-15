@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-043",
+    "q": {
+      "en": "The International Olympic Committee is headquartered at:",
+      "as": "আন্তৰ্জাতিক অলিম্পিক কমিটিৰ কাৰ্যালয় কোন নগৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Lausanne",
+        "as": "লুচান"
+      },
+      {
+        "en": "Rome",
+        "as": "ৰোম"
+      },
+      {
+        "en": "Athens",
+        "as": "এথেন্স"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The IOC has been based at Lausanne in Switzerland since 1915.",
+      "as": "আই অ' চি ১৯১৫ চনৰ পৰা ছুইজাৰলেণ্ডৰ লুচানত অৱস্থিত।"
+    }
+  }
+]

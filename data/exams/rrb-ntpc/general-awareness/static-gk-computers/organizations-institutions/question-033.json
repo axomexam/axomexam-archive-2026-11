@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-033",
+    "q": {
+      "en": "The headquarters of the Organisation for Economic Co-operation and Development is at:",
+      "as": "অৰ্গেনাইজেশ্যন ফৰ ইকনমিক ক'অ'পাৰেশ্যন এণ্ড ডেভেলপমেণ্টৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Brussels",
+        "as": "ব্ৰাছেলছ"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Vienna",
+        "as": "ভিয়েনা"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The OECD has been headquartered in Paris, France, since 1961.",
+      "as": "ও ই চি ডি ১৯৬১ চনৰ পৰা ফ্ৰান্সৰ পেৰিছত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-101",
+    "q": {
+      "en": "The Centre for Cellular and Molecular Biology is situated at:",
+      "as": "কোষ আৰু আণৱিক জীৱবিজ্ঞান কেন্দ্ৰ অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Hyderabad",
+        "as": "হাইদৰাবাদ"
+      },
+      {
+        "en": "Pune",
+        "as": "পুনে"
+      },
+      {
+        "en": "Bengaluru",
+        "as": "বেংগালুৰু"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The CCMB, a CSIR institute, is located in Hyderabad, Telangana.",
+      "as": "ছি এছ আই আৰ প্ৰতিষ্ঠান চি চি এম বি তেলেংগানাৰ হাইদৰাবাদত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-079",
+    "q": {
+      "en": "The headquarters of the Life Insurance Corporation of India is at:",
+      "as": "ভাৰতীয় জীৱন বীমা নিগমৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Pune",
+        "as": "পুনে"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "LIC was established in 1956 and has its central office in Mumbai.",
+      "as": "এল আই চি ১৯৫৬ চনত প্ৰতিষ্ঠা হয় আৰু ইয়াৰ কেন্দ্ৰীয় কাৰ্যালয় মুম্বাইত।"
+    }
+  }
+]

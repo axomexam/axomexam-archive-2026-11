@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-136",
+    "q": {
+      "en": "Which city hosts the headquarters of the International Solar Alliance?",
+      "as": "আন্তৰ্জাতিক সৌৰ সন্থাৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Gurugram",
+        "as": "গুৰুগ্ৰাম"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Abu Dhabi",
+        "as": "আবু ধাবি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The International Solar Alliance has its headquarters at Gurugram in Haryana, India.",
+      "as": "আন্তৰ্জাতিক সৌৰ সন্থাৰ মুখ্য কাৰ্যালয় ভাৰতৰ হাৰিয়ানাৰ গুৰুগ্ৰামত।"
+    }
+  }
+]

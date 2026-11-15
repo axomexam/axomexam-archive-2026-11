@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-200",
+    "q": {
+      "en": "The Bharat Heavy Electricals Limited was established in the year:",
+      "as": "ভাৰত হেভি ইলেক্ট্ৰিকেলছ লিমিটেড প্ৰতিষ্ঠা হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "1950",
+        "as": "১৯৫০"
+      },
+      {
+        "en": "1964",
+        "as": "১৯৬৪"
+      },
+      {
+        "en": "1956",
+        "as": "১৯৫৬"
+      },
+      {
+        "en": "1970",
+        "as": "১৯৭০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "BHEL was incorporated in 1964 and is headquartered in New Delhi.",
+      "as": "বি এইচ ই এল ১৯৬৪ চনত পঞ্জীভুক্ত হয় আৰু ইয়াৰ মুখ্য কাৰ্যালয় নতুন দিল্লীত।"
+    }
+  }
+]

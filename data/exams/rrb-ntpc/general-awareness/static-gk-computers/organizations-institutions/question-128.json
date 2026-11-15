@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-128",
+    "q": {
+      "en": "The world football governing body FIFA is headquartered at:",
+      "as": "বিশ্ব ফুটবল নিয়ন্ত্ৰণ সংস্থা ফিফাৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Rome",
+        "as": "ৰোম"
+      },
+      {
+        "en": "Madrid",
+        "as": "মাদ্ৰিদ"
+      },
+      {
+        "en": "Zurich",
+        "as": "জুৰিখ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "FIFA, founded in 1904, has its headquarters in Zurich, Switzerland.",
+      "as": "১৯০৪ চনত প্ৰতিষ্ঠিত ফিফাৰ মুখ্য কাৰ্যালয় ছুইজাৰলেণ্ডৰ জুৰিখত।"
+    }
+  }
+]

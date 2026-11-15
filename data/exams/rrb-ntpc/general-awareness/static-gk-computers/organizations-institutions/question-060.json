@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-060",
+    "q": {
+      "en": "The Defence Research and Development Organisation works under the:",
+      "as": "প্ৰতিৰক্ষা গৱেষণা আৰু উন্নয়ন সংস্থাই কাম কৰে:"
+    },
+    "options": [
+      {
+        "en": "Ministry of Home Affairs",
+        "as": "গৃহ মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Science and Technology",
+        "as": "বিজ্ঞান আৰু প্ৰযুক্তি মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Defence",
+        "as": "প্ৰতিৰক্ষা মন্ত্ৰালয়"
+      },
+      {
+        "en": "Cabinet Secretariat",
+        "as": "মন্ত্ৰীসভা সচিবালয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "DRDO, formed in 1958, functions under the Ministry of Defence.",
+      "as": "১৯৫৮ চনত গঠিত ডি আৰ ডি অ'য়ে প্ৰতিৰক্ষা মন্ত্ৰালয়ৰ অধীনত কাম কৰে।"
+    }
+  }
+]

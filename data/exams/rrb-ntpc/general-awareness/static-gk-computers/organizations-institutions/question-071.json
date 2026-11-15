@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-071",
+    "q": {
+      "en": "How often is the Finance Commission of India set up?",
+      "as": "ভাৰতৰ বিত্ত আয়োগৰ গঠন কিমান বছৰৰ ব্যৱধানত হয়?"
+    },
+    "options": [
+      {
+        "en": "Every year",
+        "as": "প্ৰতি বছৰে"
+      },
+      {
+        "en": "Every five years",
+        "as": "প্ৰতি পাঁচ বছৰে"
+      },
+      {
+        "en": "Every three years",
+        "as": "প্ৰতি তিনি বছৰে"
+      },
+      {
+        "en": "Every ten years",
+        "as": "প্ৰতি দহ বছৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Finance Commission is set up every five years under Article 280 to share taxes between the Centre and states.",
+      "as": "কেন্দ্ৰ আৰু ৰাজ্যৰ মাজত কৰ বিতৰণৰ বাবে ২৮০ অনুচ্ছেদৰ অধীনত প্ৰতি পাঁচ বছৰে বিত্ত আয়োগ গঠন কৰা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-090",
+    "q": {
+      "en": "The Satish Dhawan Space Centre, India's spaceport, is situated at:",
+      "as": "ভাৰতৰ মহাকাশ বন্দৰ সতীশ ধৱন মহাকাশ কেন্দ্ৰ অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Thumba",
+        "as": "থুম্বা"
+      },
+      {
+        "en": "Balasore",
+        "as": "বালাচোৰ"
+      },
+      {
+        "en": "Sriharikota",
+        "as": "শ্ৰীহৰিকোটা"
+      },
+      {
+        "en": "Chandipur",
+        "as": "চণ্ডীপুৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Satish Dhawan Space Centre at Sriharikota in Andhra Pradesh is India's launch site.",
+      "as": "অন্ধ্ৰ প্ৰদেশৰ শ্ৰীহৰিকোটাৰ সতীশ ধৱন মহাকাশ কেন্দ্ৰ ভাৰতৰ উৎক্ষেপণ স্থলী।"
+    }
+  }
+]

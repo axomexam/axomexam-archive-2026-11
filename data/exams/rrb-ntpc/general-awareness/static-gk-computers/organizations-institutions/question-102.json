@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-102",
+    "q": {
+      "en": "The Indian Institute of Tropical Meteorology is based at:",
+      "as": "ভাৰতীয় গ্ৰীষ্মমণ্ডলীয় বতৰ বিজ্ঞান প্ৰতিষ্ঠান অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Bengaluru",
+        "as": "বেংগালুৰু"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Pune",
+        "as": "পুনে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The IITM, which researches the monsoon, is located at Pune in Maharashtra.",
+      "as": "মৌচুমীৰ গৱেষণা কৰা আই আই টি এম মহাৰাষ্ট্ৰৰ পুনেত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-087",
+    "q": {
+      "en": "The Indian Council of Medical Research has its headquarters at:",
+      "as": "ভাৰতীয় চিকিৎসা গৱেষণা পৰিষদৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "ICMR, founded in 1911, is headquartered in New Delhi.",
+      "as": "১৯১১ চনত প্ৰতিষ্ঠিত আই চি এম আৰ নতুন দিল্লীত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-010",
+    "q": {
+      "en": "The International Monetary Fund was set up as a result of the conference held at:",
+      "as": "আন্তৰ্জাতিক মুদ্ৰা নিধি কোনখন সন্মিলনৰ ফলত গঠিত হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "Bretton Woods",
+        "as": "ব্ৰেটন ৱুডছ"
+      },
+      {
+        "en": "Yalta",
+        "as": "য়াল্টা"
+      },
+      {
+        "en": "Potsdam",
+        "as": "পটছডাম"
+      },
+      {
+        "en": "Dumbarton Oaks",
+        "as": "ডাম্বাৰ্টন ওকছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The IMF was created at the 1944 Bretton Woods conference in the United States.",
+      "as": "আই এম এফ ১৯৪৪ চনত আমেৰিকাৰ ব্ৰেটন ৱুডছ সন্মিলনত গঠিত হৈছিল।"
+    }
+  }
+]

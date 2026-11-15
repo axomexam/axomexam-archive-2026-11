@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-133",
+    "q": {
+      "en": "The secretariat of the United Nations Framework Convention on Climate Change is located at:",
+      "as": "ৰাষ্ট্ৰসংঘৰ জলবায়ু পৰিৱৰ্তন আন্তঃৰাষ্ট্ৰীয় সন্মিলনৰ ছচিবৰীয়ালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "New York",
+        "as": "নিউয়ৰ্ক"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Bonn",
+        "as": "বন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The UNFCCC secretariat has been based in Bonn, Germany, since 1996.",
+      "as": "ইউ এন এফ চি চি চিৰ ছচিবৰীয়ালয় ১৯৯৬ চনৰ পৰা জাৰ্মানীৰ বনত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-017",
+    "q": {
+      "en": "The International Court of Justice sits at:",
+      "as": "আন্তৰ্জাতিক ন্যায়ালয় কোন চহৰত থিতাপি লৈছে?"
+    },
+    "options": [
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "The Hague",
+        "as": "দ্য হেগ"
+      },
+      {
+        "en": "New York",
+        "as": "নিউয়ৰ্ক"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The ICJ, the principal judicial organ of the UN, sits at The Hague in the Netherlands.",
+      "as": "ৰাষ্ট্ৰসংঘৰ প্ৰধান ন্যায়িক অংগ আই চি জে নেডাৰলেণ্ডৰ দ্য হেগত অৱস্থিত।"
+    }
+  }
+]

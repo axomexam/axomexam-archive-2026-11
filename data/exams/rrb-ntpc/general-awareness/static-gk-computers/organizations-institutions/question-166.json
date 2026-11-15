@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-166",
+    "q": {
+      "en": "The National Disaster Response Force functions under the:",
+      "as": "ৰাষ্ট্ৰীয় দুৰ্যোগ সঁহাৰি বাহিনীয়ে কাম কৰে:"
+    },
+    "options": [
+      {
+        "en": "Ministry of Defence",
+        "as": "প্ৰতিৰক্ষা মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Health",
+        "as": "স্বাস্থ্য মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Home Affairs",
+        "as": "গৃহ মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Rural Development",
+        "as": "গ্ৰাম্য উন্নয়ন মন্ত্ৰালয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The NDRF, created in 2006, works under the Ministry of Home Affairs.",
+      "as": "২০০৬ চনত গঠিত এন ডি আৰ এফ গৃহ মন্ত্ৰালয়ৰ অধীনত কাম কৰে।"
+    }
+  }
+]

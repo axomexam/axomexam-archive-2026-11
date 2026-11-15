@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-011",
+    "q": {
+      "en": "The World Bank has its head office in which city?",
+      "as": "বিশ্ব বেংকৰ কাৰ্যালয় কোন নগৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "New York",
+        "as": "নিউয়ৰ্ক"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Washington DC",
+        "as": "ৱাশ্বিংটন ডি চি"
+      },
+      {
+        "en": "Manila",
+        "as": "মেনিলা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Both the World Bank and the IMF have their headquarters in Washington DC.",
+      "as": "বিশ্ব বেংক আৰু আই এম এফ দুয়োখনৰে মুখ্য কাৰ্যালয় ৱাশ্বিংটন ডি চিত।"
+    }
+  }
+]

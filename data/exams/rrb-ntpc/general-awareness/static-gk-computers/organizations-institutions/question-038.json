@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-038",
+    "q": {
+      "en": "The World Economic Forum holds its annual meeting at:",
+      "as": "ৱৰ্ল্ড ইকনমিক ফ'ৰামে বছৰেকীয়া সন্মিলন অনুষ্ঠিত কৰে:"
+    },
+    "options": [
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Zurich",
+        "as": "জুৰিখ"
+      },
+      {
+        "en": "Davos",
+        "as": "ডাভ'ছ"
+      },
+      {
+        "en": "Basel",
+        "as": "বাছেল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The WEF, based in Geneva, holds its well-known annual meeting in Davos, Switzerland.",
+      "as": "জেনেভাত থকা ডব্লিউ ই এফে ইয়াৰ বিখ্যাত বছৰেকীয়া সন্মিলন ছুইজাৰলেণ্ডৰ ডাভ'ছত কৰে।"
+    }
+  }
+]

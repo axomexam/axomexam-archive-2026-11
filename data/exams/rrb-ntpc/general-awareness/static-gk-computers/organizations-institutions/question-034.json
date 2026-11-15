@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-034",
+    "q": {
+      "en": "The International Criminal Police Organization is headquartered at:",
+      "as": "আন্তৰ্জাতিক অপৰাধ আৰক্ষী সংস্থাৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Brussels",
+        "as": "ব্ৰাছেলছ"
+      },
+      {
+        "en": "Lyon",
+        "as": "লিয়ন"
+      },
+      {
+        "en": "The Hague",
+        "as": "দ্য হেগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Interpol has had its headquarters in Lyon, France, since 1989.",
+      "as": "ইণ্টাৰপল ১৯৮৯ চনৰ পৰা ফ্ৰান্সৰ লিয়নত অৱস্থিত।"
+    }
+  }
+]

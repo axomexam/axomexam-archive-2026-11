@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-208",
+    "q": {
+      "en": "The Unique Identification Authority of India was established in the year:",
+      "as": "ভাৰতৰ অনন্য পৰিচয় প্ৰাধিকৰণ প্ৰতিষ্ঠা হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "2005",
+        "as": "২০০৫"
+      },
+      {
+        "en": "2012",
+        "as": "২০১২"
+      },
+      {
+        "en": "2009",
+        "as": "২০০৯"
+      },
+      {
+        "en": "2015",
+        "as": "২০১৫"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The UIDAI was set up in 2009 to issue the Aadhaar number.",
+      "as": "আধাৰ নম্বৰ প্ৰদানৰ বাবে ইউ আই ডি এ আই ২০০৯ চনত গঠিত হৈছিল।"
+    }
+  }
+]

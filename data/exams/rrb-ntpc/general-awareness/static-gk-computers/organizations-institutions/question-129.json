@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-129",
+    "q": {
+      "en": "The International Fund for Agricultural Development is a specialised agency based at:",
+      "as": "কৃষি উন্নয়নৰ আন্তৰ্জাতিক নিধি এটা বিশেষ সংস্থা, অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "New York",
+        "as": "নিউয়ৰ্ক"
+      },
+      {
+        "en": "Rome",
+        "as": "ৰোম"
+      },
+      {
+        "en": "Vienna",
+        "as": "ভিয়েনা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The IFAD, set up in 1977, is headquartered in Rome, Italy.",
+      "as": "১৯৭৭ চনত গঠিত আই এফ এ ডি ইটালীৰ ৰোমত অৱস্থিত।"
+    }
+  }
+]

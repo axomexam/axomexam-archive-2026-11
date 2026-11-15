@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-070",
+    "q": {
+      "en": "The Union Public Service Commission was created in the year:",
+      "as": "সংঘ লোক সেৱা আয়োগ গঠিত হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "1935",
+        "as": "১৯৩৫"
+      },
+      {
+        "en": "1926",
+        "as": "১৯২৬"
+      },
+      {
+        "en": "1947",
+        "as": "১৯৪৭"
+      },
+      {
+        "en": "1950",
+        "as": "১৯৫০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The UPSC traces its origin to the Public Service Commission set up in 1926.",
+      "as": "ইউ পি এছ চিৰ উৎপত্তি ১৯২৬ চনত গঠিত লোক সেৱা আয়োগত।"
+    }
+  }
+]

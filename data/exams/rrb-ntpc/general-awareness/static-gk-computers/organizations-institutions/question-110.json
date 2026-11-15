@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-110",
+    "q": {
+      "en": "The Montreal Protocol is concerned with the protection of:",
+      "as": "মণ্ট্ৰিয়েল প্ৰট'ক'ল কি সুৰক্ষাৰ সৈতে সম্পৰ্কিত:"
+    },
+    "options": [
+      {
+        "en": "Rainforests",
+        "as": "বৰ্ষাৰণ্য"
+      },
+      {
+        "en": "Wetlands",
+        "as": "জলাহ"
+      },
+      {
+        "en": "The ozone layer",
+        "as": "অ'জন স্তৰ"
+      },
+      {
+        "en": "Coral reefs",
+        "as": "প্ৰবাল প্ৰাচীৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Montreal Protocol of 1987 aims to phase out substances that deplete the ozone layer.",
+      "as": "১৯৮৭ চনৰ মণ্ট্ৰিয়েল প্ৰট'ক'লৰ লক্ষ্য অ'জন স্তৰ ক্ষয় কৰা পদাৰ্থ নিষ্কাশন কৰা।"
+    }
+  }
+]

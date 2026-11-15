@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-189",
+    "q": {
+      "en": "ভাৰতত প্ৰথম কোনটো বেংক আৰম্ভ হৈছিল?",
+      "as": "ভাৰতৰ ভূখণ্ডত প্ৰথম কোনটো বেংক আৰম্ভ হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Bank of Hindustan",
+        "as": "বেংক অৱ হিন্দুস্তান"
+      },
+      {
+        "en": "State Bank of India",
+        "as": "ষ্টেট বেংক অৱ ইণ্ডিয়া"
+      },
+      {
+        "en": "Punjab National Bank",
+        "as": "পাঞ্জাব নেশ্যনেল বেংক"
+      },
+      {
+        "en": "Allahabad Bank",
+        "as": "এলাহাবাদ বেংক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Bank of Hindustan, set up in 1770, was the first bank established in India.",
+      "as": "১৭৭০ চনত গঠিত বেংক অৱ হিন্দুস্তান ভাৰতত প্ৰতিষ্ঠিত প্ৰথম বেংক আছিল।"
+    }
+  }
+]

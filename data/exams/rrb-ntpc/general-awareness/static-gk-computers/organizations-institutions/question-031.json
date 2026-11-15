@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-031",
+    "q": {
+      "en": "The Shanghai Cooperation Organisation was established in:",
+      "as": "ছাংহাই ক'অ'পাৰেশ্যন অৰ্গেনাইজেশ্যন প্ৰতিষ্ঠা হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "1996",
+        "as": "১৯৯৬"
+      },
+      {
+        "en": "2005",
+        "as": "২০০৫"
+      },
+      {
+        "en": "2010",
+        "as": "২০১০"
+      },
+      {
+        "en": "2001",
+        "as": "২০০১"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The SCO was formed at Shanghai in 2001 and its secretariat is in Beijing.",
+      "as": "এছ চি অ' ২০০১ চনত ছাংহাইত গঠিত হয় আৰু ইয়াৰ ছচিবৰীয়ালয় বেইজিঙত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-156",
+    "q": {
+      "en": "Which date is set aside for International Women's Day?",
+      "as": "আন্তৰ্জাতিক নাৰী দিৱস কোন তাৰিখটোত পৰে?"
+    },
+    "options": [
+      {
+        "en": "8 February",
+        "as": "৮ ফেব্ৰুৱাৰী"
+      },
+      {
+        "en": "8 April",
+        "as": "৮ এপ্ৰিল"
+      },
+      {
+        "en": "8 May",
+        "as": "৮ মে'"
+      },
+      {
+        "en": "8 March",
+        "as": "৮ মাৰ্চ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "International Women's Day has been observed on 8 March since 1911.",
+      "as": "আন্তৰ্জাতিক নাৰী দিৱস ১৯১১ চনৰ পৰা ৮ মাৰ্চত পালন কৰা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-161",
+    "q": {
+      "en": "The Central Vigilance Commission was set up in the year:",
+      "as": "কেন্দ্ৰীয় সতৰ্কতা আয়োগ গঠিত হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "1960",
+        "as": "১৯৬০"
+      },
+      {
+        "en": "1968",
+        "as": "১৯৬৮"
+      },
+      {
+        "en": "1972",
+        "as": "১৯৭২"
+      },
+      {
+        "en": "1964",
+        "as": "১৯৬৪"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The CVC was set up in 1964 on the recommendation of the Santhanam Committee.",
+      "as": "সন্থানম কমিটিৰ পৰামৰ্শত চি ভি চি ১৯৬৪ চনত গঠিত হৈছিল।"
+    }
+  }
+]

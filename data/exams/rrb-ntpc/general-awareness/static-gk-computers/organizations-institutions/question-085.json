@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-085",
+    "q": {
+      "en": "The Indian Statistical Institute has its headquarters at:",
+      "as": "ভাৰতীয় পৰিসংখ্যা প্ৰতিষ্ঠানৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The ISI, founded in 1931 by P C Mahalanobis, is headquartered in Kolkata.",
+      "as": "পি চি মহালানবিচে ১৯৩১ চনত প্ৰতিষ্ঠা কৰা আই এছ আই কলকাতাত অৱস্থিত।"
+    }
+  }
+]

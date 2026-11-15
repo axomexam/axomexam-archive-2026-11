@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-021",
+    "q": {
+      "en": "The secretariat of the Commonwealth of Nations is located in:",
+      "as": "ৰাষ্ট্ৰমণ্ডলৰ ছচিবৰীয়ালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "London",
+        "as": "লণ্ডন"
+      },
+      {
+        "en": "Ottawa",
+        "as": "অটৱা"
+      },
+      {
+        "en": "Canberra",
+        "as": "কেনবেৰা"
+      },
+      {
+        "en": "Wellington",
+        "as": "ৱেলিংটন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Commonwealth Secretariat has functioned from London since 1965.",
+      "as": "ৰাষ্ট্ৰমণ্ডলৰ ছচিবৰীয়ালয়ে ১৯৬৫ চনৰ পৰা লণ্ডনৰ পৰা কাম কৰি আছে।"
+    }
+  }
+]

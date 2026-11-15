@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-029",
+    "q": {
+      "en": "The European Union has its main institutions located at:",
+      "as": "ইউৰোপীয় সংঘৰ প্ৰধান প্ৰতিষ্ঠানসমূহ অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Brussels",
+        "as": "ব্ৰাছেলছ"
+      },
+      {
+        "en": "Berlin",
+        "as": "বাৰ্লিন"
+      },
+      {
+        "en": "Rome",
+        "as": "ৰোম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Brussels hosts the European Commission and the Council of the EU.",
+      "as": "ব্ৰাছেলছত ইউৰোপীয় আয়োগ আৰু ইউৰোপীয় সংঘৰ পৰিষদ অৱস্থিত।"
+    }
+  }
+]

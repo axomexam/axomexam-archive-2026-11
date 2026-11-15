@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-109",
+    "q": {
+      "en": "In which year was the climate accord at Paris adopted?",
+      "as": "জলবায়ু পৰিৱৰ্তনৰ পেৰিছ চুক্তি গৃহীত হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "2012",
+        "as": "২০১২"
+      },
+      {
+        "en": "2017",
+        "as": "২০১৭"
+      },
+      {
+        "en": "2019",
+        "as": "২০১৯"
+      },
+      {
+        "en": "2015",
+        "as": "২০১৫"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Paris Agreement was adopted in 2015 at the COP21 conference.",
+      "as": "পেৰিছ চুক্তি ২০১৫ চনত ক'প-২১ সন্মিলনত গৃহীত হৈছিল।"
+    }
+  }
+]

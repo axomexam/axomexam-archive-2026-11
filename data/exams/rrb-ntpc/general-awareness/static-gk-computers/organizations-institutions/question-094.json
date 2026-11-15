@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-094",
+    "q": {
+      "en": "The National Archives of India is located at:",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰীয় অভিলেখাগাৰ অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Hyderabad",
+        "as": "হাইদৰাবাদ"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The National Archives of India, founded in 1891, is housed in New Delhi.",
+      "as": "১৮৯১ চনত প্ৰতিষ্ঠিত ভাৰতৰ ৰাষ্ট্ৰীয় অভিলেখাগাৰ নতুন দিল্লীত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-077",
+    "q": {
+      "en": "The National Aluminium Company has its registered office at:",
+      "as": "ৰাষ্ট্ৰীয় এলুমিনিয়াম কোম্পানীৰ পঞ্জীভুক্ত কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Koraput",
+        "as": "কোৰাপুট"
+      },
+      {
+        "en": "Rourkela",
+        "as": "ৰাউৰকেলা"
+      },
+      {
+        "en": "Cuttack",
+        "as": "কটক"
+      },
+      {
+        "en": "Bhubaneswar",
+        "as": "ভুৱনেশ্বৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "NALCO, a Navratna company, has its registered office at Bhubaneswar in Odisha.",
+      "as": "নৱৰত্ন কোম্পানী নালক'ৰ পঞ্জীভুক্ত কাৰ্যালয় ওড়িশাৰ ভুৱনেশ্বৰত।"
+    }
+  }
+]

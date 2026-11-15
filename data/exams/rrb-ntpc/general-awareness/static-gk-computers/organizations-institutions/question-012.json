@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-012",
+    "q": {
+      "en": "The World Trade Organization came into being in:",
+      "as": "বিশ্ব বাণিজ্য সংস্থাৰ আত্মপ্ৰকাশ ঘটিছিল:"
+    },
+    "options": [
+      {
+        "en": "1948",
+        "as": "১৯৪৮"
+      },
+      {
+        "en": "1995",
+        "as": "১৯৯৫"
+      },
+      {
+        "en": "1986",
+        "as": "১৯৮৬"
+      },
+      {
+        "en": "2001",
+        "as": "২০০১"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The WTO replaced GATT on 1 January 1995 and is headquartered at Geneva.",
+      "as": "ডব্লিউ টি অ'য়ে ১ জানুৱাৰী ১৯৯৫ত গেটৰ স্থান লয় আৰু ইয়াৰ মুখ্য কাৰ্যালয় জেনেভাত।"
+    }
+  }
+]

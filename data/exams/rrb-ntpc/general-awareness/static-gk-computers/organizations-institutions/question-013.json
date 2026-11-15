@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-013",
+    "q": {
+      "en": "The Food and Agriculture Organization of the United Nations is based in:",
+      "as": "ৰাষ্ট্ৰসংঘৰ খাদ্য আৰু কৃষি সংস্থাৰ কেন্দ্ৰস্থল:"
+    },
+    "options": [
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Rome",
+        "as": "ৰোম"
+      },
+      {
+        "en": "Vienna",
+        "as": "ভিয়েনা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The FAO, established in 1945, has its headquarters in Rome, Italy.",
+      "as": "১৯৪৫ চনত স্থাপিত এফ এ অ'ৰ মুখ্য কাৰ্যালয় ইটালীৰ ৰোমত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-019",
+    "q": {
+      "en": "The number of permanent members of the UN Security Council is:",
+      "as": "ৰাষ্ট্ৰসংঘৰ নিৰাপত্তা পৰিষদৰ স্থায়ী সদস্যৰ সংখ্যা:"
+    },
+    "options": [
+      {
+        "en": "Seven",
+        "as": "সাত"
+      },
+      {
+        "en": "Five",
+        "as": "পাঁচ"
+      },
+      {
+        "en": "Ten",
+        "as": "দহ"
+      },
+      {
+        "en": "Fifteen",
+        "as": "পোন্ধৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The five permanent members are the USA, UK, France, Russia and China, each holding a veto.",
+      "as": "পাঁচখন স্থায়ী সদস্য হ'ল আমেৰিকা, ব্ৰিটেইন, ফ্ৰান্স, ৰাছিয়া আৰু চীন, প্ৰত্যেকৰে ভেট' ক্ষমতা আছে।"
+    }
+  }
+]

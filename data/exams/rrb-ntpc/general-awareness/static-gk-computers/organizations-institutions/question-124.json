@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-124",
+    "q": {
+      "en": "Greenpeace, the environmental activist organisation, was founded at:",
+      "as": "পৰিৱেশ কৰ্মী সংস্থা গ্ৰীণপিছ প্ৰতিষ্ঠা হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "Vancouver",
+        "as": "ভেনকুভাৰ"
+      },
+      {
+        "en": "Amsterdam",
+        "as": "এমষ্টাৰডাম"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Stockholm",
+        "as": "ষ্টকহোম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Greenpeace was founded at Vancouver, Canada, in 1971.",
+      "as": "গ্ৰীণপিছ ১৯৭১ চনত কানাডাৰ ভেনকুভাৰত প্ৰতিষ্ঠা হৈছিল।"
+    }
+  }
+]

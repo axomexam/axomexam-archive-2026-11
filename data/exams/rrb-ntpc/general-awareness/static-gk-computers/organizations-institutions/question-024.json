@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-024",
+    "q": {
+      "en": "The Association of Southeast Asian Nations was set up in the year:",
+      "as": "ছাউথ ইষ্ট এছিয়ান নেশ্যনছ সংস্থা গঠিত হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "1961",
+        "as": "১৯৬১"
+      },
+      {
+        "en": "1967",
+        "as": "১৯৬৭"
+      },
+      {
+        "en": "1971",
+        "as": "১৯৭১"
+      },
+      {
+        "en": "1976",
+        "as": "১৯৭৬"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "ASEAN was founded at Bangkok on 8 August 1967 and has its secretariat at Jakarta.",
+      "as": "আছিয়ান ১৯৬৭ চনৰ ৮ আগষ্টত বেংককত গঠিত হয় আৰু ইয়াৰ ছচিবৰীয়ালয় জাকাৰ্তাত।"
+    }
+  }
+]

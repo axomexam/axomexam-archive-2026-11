@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-118",
+    "q": {
+      "en": "Which agency brings out the Human Development Index each year?",
+      "as": "কোন সংস্থাই প্ৰতি বছৰে মানৱ উন্নয়ন সূচকাংক উলিয়ায়?"
+    },
+    "options": [
+      {
+        "en": "UNDP",
+        "as": "ইউ এন ডি পি"
+      },
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "IMF",
+        "as": "আই এম এফ"
+      },
+      {
+        "en": "WHO",
+        "as": "ডব্লিউ এইচ অ'"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The UNDP has published the Human Development Index in its Human Development Report since 1990.",
+      "as": "ইউ এন ডি পিয়ে ১৯৯০ চনৰ পৰা মানৱ উন্নয়ন প্ৰতিবেদনত মানৱ উন্নয়ন সূচকাংক প্ৰকাশ কৰে।"
+    }
+  }
+]

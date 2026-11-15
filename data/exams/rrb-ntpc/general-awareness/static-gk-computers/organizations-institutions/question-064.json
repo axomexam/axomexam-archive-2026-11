@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-064",
+    "q": {
+      "en": "The Indian Council of Agricultural Research functions under the:",
+      "as": "ভাৰতীয় কৃষি গৱেষণা পৰিষদে কাম কৰে:"
+    },
+    "options": [
+      {
+        "en": "Ministry of Rural Development",
+        "as": "গ্ৰাম্য উন্নয়ন মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Food Processing",
+        "as": "খাদ্য প্ৰক্ৰিয়াকৰণ মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Environment",
+        "as": "পৰিৱেশ মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Agriculture and Farmers Welfare",
+        "as": "কৃষি আৰু কৃষক কল্যাণ মন্ত্ৰালয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "ICAR, set up in 1929, is an autonomous body under the Ministry of Agriculture and Farmers Welfare.",
+      "as": "১৯২৯ চনত গঠিত আই চি এ আৰ কৃষি আৰু কৃষক কল্যাণ মন্ত্ৰালয়ৰ অধীনৰ স্বায়ত্তশাসিত সংস্থা।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-030",
+    "q": {
+      "en": "The secretariat of the African Union is situated at:",
+      "as": "আফ্ৰিকান ইউনিয়নৰ ছচিবৰীয়ালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Cairo",
+        "as": "কাইৰ'"
+      },
+      {
+        "en": "Nairobi",
+        "as": "নাইৰ'বি"
+      },
+      {
+        "en": "Johannesburg",
+        "as": "জোহান্সবাৰ্গ"
+      },
+      {
+        "en": "Addis Ababa",
+        "as": "আডিছ আবাবা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The African Union, launched in 2002, is headquartered at Addis Ababa in Ethiopia.",
+      "as": "২০০২ চনত আৰম্ভ হোৱা আফ্ৰিকান ইউনিয়নৰ মুখ্য কাৰ্যালয় ইথিঅ'পিয়াৰ আডিছ আবাবাত।"
+    }
+  }
+]

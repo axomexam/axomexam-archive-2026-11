@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-202",
+    "q": {
+      "en": "The headquarters of the Oil and Natural Gas Corporation is located at:",
+      "as": "তেল আৰু প্ৰাকৃতিক গেছ নিগমৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Dehradun",
+        "as": "দেৰাদুন"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Ahmedabad",
+        "as": "আহমেদাবাদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "ONGC moved its headquarters to Dehradun in Uttarakhand.",
+      "as": "অ' এন জি চিয়ে ইয়াৰ মুখ্য কাৰ্যালয় উত্তৰাখণ্ডৰ দেৰাদুনলৈ স্থানান্তৰিত কৰিছে।"
+    }
+  }
+]

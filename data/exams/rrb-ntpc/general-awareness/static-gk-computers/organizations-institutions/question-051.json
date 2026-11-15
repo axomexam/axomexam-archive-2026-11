@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-051",
+    "q": {
+      "en": "Where is the central office of the Reserve Bank of India?",
+      "as": "ভাৰতীয় ৰিজাৰ্ভ বেংকৰ কেন্দ্ৰীয় কাৰ্যালয় ক'ত?"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The RBI's central office moved from Kolkata to Mumbai in 1937.",
+      "as": "আৰ বি আইৰ কেন্দ্ৰীয় কাৰ্যালয় ১৯৩৭ চনত কলকাতাৰ পৰা মুম্বাইলৈ স্থানান্তৰিত হয়।"
+    }
+  }
+]

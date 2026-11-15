@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-142",
+    "q": {
+      "en": "The United Nations Office at Nairobi serves as the headquarters of:",
+      "as": "নাইৰ'বিত থকা ৰাষ্ট্ৰসংঘৰ কাৰ্যালয়ে কাৰ মুখ্য কাৰ্যালয় হিচাপে কাম কৰে:"
+    },
+    "options": [
+      {
+        "en": "WHO and UNICEF",
+        "as": "ডব্লিউ এইচ অ' আৰু ইউনিচেফ"
+      },
+      {
+        "en": "IMF and World Bank",
+        "as": "আই এম এফ আৰু বিশ্ব বেংক"
+      },
+      {
+        "en": "UNESCO and FAO",
+        "as": "ইউনেস্ক' আৰু এফ এ অ'"
+      },
+      {
+        "en": "UNEP and UN-Habitat",
+        "as": "ইউ এন ই পি আৰু ইউ এন-হেবিটেট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The UN Office at Nairobi houses both UNEP and UN-Habitat.",
+      "as": "নাইৰ'বিত থকা ৰাষ্ট্ৰসংঘৰ কাৰ্যালয়ে ইউ এন ই পি আৰু ইউ এন-হেবিটেট দুয়োটা ধাৰণ কৰে।"
+    }
+  }
+]

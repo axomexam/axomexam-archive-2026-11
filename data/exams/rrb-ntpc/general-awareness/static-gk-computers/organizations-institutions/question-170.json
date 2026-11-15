@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-170",
+    "q": {
+      "en": "The Indo-Tibetan Border Police was raised in the year:",
+      "as": "ভাৰত-তিব্বত সীমান্ত আৰক্ষী গঠন কৰা হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "1959",
+        "as": "১৯৫৯"
+      },
+      {
+        "en": "1962",
+        "as": "১৯৬২"
+      },
+      {
+        "en": "1965",
+        "as": "১৯৬৫"
+      },
+      {
+        "en": "1968",
+        "as": "১৯৬৮"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The ITBP was raised in October 1962 to guard the border with Tibet.",
+      "as": "তিব্বতৰ সৈতে সীমান্ত ৰক্ষাৰ বাবে আই টি বি পি ১৯৬২ চনৰ অক্টোবৰত গঠন কৰা হৈছিল।"
+    }
+  }
+]

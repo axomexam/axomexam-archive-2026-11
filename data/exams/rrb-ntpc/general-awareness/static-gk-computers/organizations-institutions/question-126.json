@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-126",
+    "q": {
+      "en": "In which city is the headquarters of the International Hockey Federation situated?",
+      "as": "আন্তৰ্জাতিক হকী সংঘৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Brussels",
+        "as": "ব্ৰাছেলছ"
+      },
+      {
+        "en": "Lausanne",
+        "as": "লুচান"
+      },
+      {
+        "en": "London",
+        "as": "লণ্ডন"
+      },
+      {
+        "en": "The Hague",
+        "as": "দ্য হেগ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The FIH, the world governing body for hockey, is based in Lausanne, Switzerland.",
+      "as": "হকীৰ বিশ্ব নিয়ন্ত্ৰণ সংস্থা এফ আই এইছ ছুইজাৰলেণ্ডৰ লুচানত অৱস্থিত।"
+    }
+  }
+]

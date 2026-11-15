@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-069",
+    "q": {
+      "en": "In which year was the Election Commission of India set up?",
+      "as": "ভাৰতৰ নিৰ্বাচন আয়োগ প্ৰতিষ্ঠা হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "1947",
+        "as": "১৯৪৭"
+      },
+      {
+        "en": "1951",
+        "as": "১৯৫১"
+      },
+      {
+        "en": "1952",
+        "as": "১৯৫২"
+      },
+      {
+        "en": "1950",
+        "as": "১৯৫০"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Election Commission was set up on 25 January 1950, a day before India became a republic.",
+      "as": "নিৰ্বাচন আয়োগ ২৫ জানুৱাৰী ১৯৫০ত গঠিত হয়, ভাৰত গণৰাজ্য হোৱাৰ এদিন আগতে।"
+    }
+  }
+]

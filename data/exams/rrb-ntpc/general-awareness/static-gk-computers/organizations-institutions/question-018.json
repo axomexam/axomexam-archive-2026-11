@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-018",
+    "q": {
+      "en": "The number of judges in the International Court of Justice is:",
+      "as": "আন্তৰ্জাতিক ন্যায়ালয়ৰ ন্যায়াধীশৰ সংখ্যা:"
+    },
+    "options": [
+      {
+        "en": "Ten",
+        "as": "দহজন"
+      },
+      {
+        "en": "Twenty",
+        "as": "বিশজন"
+      },
+      {
+        "en": "Twenty-five",
+        "as": "পঁচিশজন"
+      },
+      {
+        "en": "Fifteen",
+        "as": "পোন্ধৰজন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The ICJ has 15 judges elected for nine-year terms by the UN General Assembly and Security Council.",
+      "as": "আই চি জেত ৰাষ্ট্ৰসংঘৰ সাধাৰণ পৰিষদ আৰু নিৰাপত্তা পৰিষদে ন বছৰৰ বাবে নিৰ্বাচিত ১৫জন ন্যায়াধীশ থাকে।"
+    }
+  }
+]

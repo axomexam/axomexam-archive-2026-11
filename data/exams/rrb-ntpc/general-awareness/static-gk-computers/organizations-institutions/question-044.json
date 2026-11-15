@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-044",
+    "q": {
+      "en": "The International Maritime Organization, a UN agency, works from:",
+      "as": "ৰাষ্ট্ৰসংঘৰ সংস্থা আন্তৰ্জাতিক সাগৰীয় সংস্থাই কাম কৰে:"
+    },
+    "options": [
+      {
+        "en": "London",
+        "as": "লণ্ডন"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Rotterdam",
+        "as": "ৰটাৰডেম"
+      },
+      {
+        "en": "Hamburg",
+        "as": "হামবাৰ্গ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The IMO, responsible for shipping safety, is headquartered in London.",
+      "as": "জাহাজ চলাচলৰ নিৰাপত্তাৰ বাবে দায়বদ্ধ আই এম অ'ৰ মুখ্য কাৰ্যালয় লণ্ডনত।"
+    }
+  }
+]

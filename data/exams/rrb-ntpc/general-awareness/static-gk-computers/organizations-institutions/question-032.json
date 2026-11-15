@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-032",
+    "q": {
+      "en": "The Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation has its secretariat at:",
+      "as": "বে অৱ বেংগল ইনিচিয়েটিভ ফৰ মাল্টি-ছেক্টৰেল টেকনিকেল এণ্ড ইকনমিক ক'অ'পাৰেশ্যনৰ ছচিবৰীয়ালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Bangkok",
+        "as": "বেংকক"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Dhaka",
+        "as": "ঢাকা"
+      },
+      {
+        "en": "Yangon",
+        "as": "য়াংগুন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "BIMSTEC, formed in 1997, is headquartered in Dhaka, Bangladesh.",
+      "as": "১৯৯৭ চনত গঠিত বিমষ্টেকৰ মুখ্য কাৰ্যালয় বাংলাদেশৰ ঢাকাত।"
+    }
+  }
+]

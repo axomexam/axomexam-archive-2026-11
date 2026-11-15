@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-096",
+    "q": {
+      "en": "The Zoological Survey of India has its headquarters at:",
+      "as": "ভাৰতৰ প্ৰাণী জৰীপ সংস্থাৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Pune",
+        "as": "পুনে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The ZSI, established in 1916, is headquartered in Kolkata.",
+      "as": "১৯১৬ চনত প্ৰতিষ্ঠিত জেড এছ আই কলকাতাত অৱস্থিত।"
+    }
+  }
+]

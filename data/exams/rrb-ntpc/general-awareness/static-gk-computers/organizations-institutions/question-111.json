@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-111",
+    "q": {
+      "en": "The Ramsar Convention deals with the conservation of:",
+      "as": "ৰামছাৰ সন্মিলন কি সংৰক্ষণৰ সৈতে জড়িত:"
+    },
+    "options": [
+      {
+        "en": "Deserts",
+        "as": "মৰুভূমি"
+      },
+      {
+        "en": "Glaciers",
+        "as": "হিমবাহ"
+      },
+      {
+        "en": "Mountains",
+        "as": "পৰ্বত"
+      },
+      {
+        "en": "Wetlands",
+        "as": "জলাহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Ramsar Convention of 1971 protects wetlands of international importance.",
+      "as": "১৯৭১ চনৰ ৰামছাৰ সন্মিলনে আন্তৰ্জাতিক গুৰুত্বৰ জলাহ সংৰক্ষণ কৰে।"
+    }
+  }
+]

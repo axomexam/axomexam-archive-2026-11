@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-045",
+    "q": {
+      "en": "The International Civil Aviation Organization is headquartered at:",
+      "as": "আন্তৰ্জাতিক অসামৰিক বিমান চলাচল সংস্থাৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "New York",
+        "as": "নিউয়ৰ্ক"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Montreal",
+        "as": "মন্ট্ৰিয়েল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The ICAO, set up in 1944, has its headquarters in Montreal, Canada.",
+      "as": "১৯৪৪ চনত গঠিত আই চি এ অ'ৰ মুখ্য কাৰ্যালয় কানাডাৰ মন্ট্ৰিয়েলত।"
+    }
+  }
+]

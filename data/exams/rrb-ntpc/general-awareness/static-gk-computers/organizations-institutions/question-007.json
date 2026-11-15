@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-007",
+    "q": {
+      "en": "The United Nations Educational, Scientific and Cultural Organization has its seat in:",
+      "as": "ৰাষ্ট্ৰসংঘৰ শিক্ষা, বিজ্ঞান আৰু সংস্কৃতি সংস্থাৰ কেন্দ্ৰস্থল:"
+    },
+    "options": [
+      {
+        "en": "Rome",
+        "as": "ৰোম"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Vienna",
+        "as": "ভিয়েনা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "UNESCO has been based in Paris since it was founded in 1945.",
+      "as": "১৯৪৫ চনত স্থাপিত হোৱাৰে পৰা ইউনেস্ক' পেৰিছত অৱস্থিত।"
+    }
+  }
+]

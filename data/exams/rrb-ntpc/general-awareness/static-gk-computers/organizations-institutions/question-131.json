@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-131",
+    "q": {
+      "en": "The International Organization for Migration has its headquarters at:",
+      "as": "আন্তৰ্জাতিক প্ৰব্ৰজনন সংস্থাৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "New York",
+        "as": "নিউয়ৰ্ক"
+      },
+      {
+        "en": "Berlin",
+        "as": "বাৰ্লিন"
+      },
+      {
+        "en": "Brussels",
+        "as": "ব্ৰাছেলছ"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The IOM, established in 1951, has been headquartered in Geneva, Switzerland.",
+      "as": "১৯৫১ চনত প্ৰতিষ্ঠিত আই অ' এম ছুইজাৰলেণ্ডৰ জেনেভাত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-199",
+    "q": {
+      "en": "The Steel Authority of India is headquartered at:",
+      "as": "ভাৰত ইস্পাত কৰ্তৃপক্ষৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Bhilai",
+        "as": "ভিলাই"
+      },
+      {
+        "en": "Rourkela",
+        "as": "ৰাউৰকেলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "SAIL, the country's largest steel producer, is headquartered in New Delhi.",
+      "as": "দেশৰ বৃহত্তম ইস্পাত উৎপাদক চেইল নতুন দিল্লীত অৱস্থিত।"
+    }
+  }
+]

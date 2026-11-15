@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-182",
+    "q": {
+      "en": "The Employees' State Insurance Corporation works under the:",
+      "as": "কৰ্মচাৰী ৰাজ্য বীমা নিগমে কাম কৰে:"
+    },
+    "options": [
+      {
+        "en": "Ministry of Labour and Employment",
+        "as": "শ্ৰম আৰু নিয়োগ মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Finance",
+        "as": "বিত্ত মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Health",
+        "as": "স্বাস্থ্য মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Social Justice",
+        "as": "সমাজ ন্যায় মন্ত্ৰালয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ESIC functions under the Ministry of Labour and Employment.",
+      "as": "ই এছ আই চি শ্ৰম আৰু নিয়োগ মন্ত্ৰালয়ৰ অধীনত কাম কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-023",
+    "q": {
+      "en": "The permanent secretariat of SAARC is situated at:",
+      "as": "ছাৰ্কৰ স্থায়ী ছচিবৰীয়ালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Dhaka",
+        "as": "ঢাকা"
+      },
+      {
+        "en": "Kathmandu",
+        "as": "কাঠমাণ্ডু"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Colombo",
+        "as": "কলম্বো"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "SAARC's secretariat has been in Kathmandu, Nepal, since 1987.",
+      "as": "ছাৰ্কৰ ছচিবৰীয়ালয় ১৯৮৭ চনৰ পৰা নেপালৰ কাঠমাণ্ডুত অৱস্থিত।"
+    }
+  }
+]

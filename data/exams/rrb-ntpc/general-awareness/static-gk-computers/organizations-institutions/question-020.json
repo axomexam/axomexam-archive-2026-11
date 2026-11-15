@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-020",
+    "q": {
+      "en": "The Non-Aligned Movement was founded at a summit held in:",
+      "as": "নন-এলাইন্দ মুভমেণ্ট কোনখন শিখৰ সন্মিলনত প্ৰতিষ্ঠা হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "Belgrade",
+        "as": "বেলগ্ৰেড"
+      },
+      {
+        "en": "Cairo",
+        "as": "কাইৰ'"
+      },
+      {
+        "en": "Bandung",
+        "as": "বান্দুং"
+      },
+      {
+        "en": "Havana",
+        "as": "হাভানা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "NAM held its first summit at Belgrade in 1961 with leaders like Nehru, Nasser and Tito.",
+      "as": "নামে ১৯৬১ চনত বেলগ্ৰেডত প্ৰথম শিখৰ সন্মিলন কৰিছিল, নেহৰু, নাছেৰ আৰু টিট'ৰ দৰে নেতাৰ সৈতে।"
+    }
+  }
+]

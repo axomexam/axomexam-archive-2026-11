@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-037",
+    "q": {
+      "en": "The headquarters of the International Committee of the Red Cross is at:",
+      "as": "আন্তৰ্জাতিক ৰেড ক্ৰছ কমিটিৰ মুখ্য কাৰ্যালয় অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "Vienna",
+        "as": "ভিয়েনা"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "The Hague",
+        "as": "দ্য হেগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The ICRC has worked from Geneva, Switzerland, since it was founded in 1863.",
+      "as": "১৮৬৩ চনত প্ৰতিষ্ঠাৰে পৰা আই চি আৰ চিয়ে ছুইজাৰলেণ্ডৰ জেনেভাৰ পৰা কাম কৰি আছে।"
+    }
+  }
+]

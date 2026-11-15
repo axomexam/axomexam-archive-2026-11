@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-004",
+    "q": {
+      "en": "The number of official languages of the United Nations is:",
+      "as": "ৰাষ্ট্ৰসংঘৰ চৰকাৰী ভাষাৰ সংখ্যা:"
+    },
+    "options": [
+      {
+        "en": "Four",
+        "as": "চাৰিটা"
+      },
+      {
+        "en": "Five",
+        "as": "পাঁচটা"
+      },
+      {
+        "en": "Six",
+        "as": "ছয়টা"
+      },
+      {
+        "en": "Eight",
+        "as": "আঠটা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The six UN official languages are Arabic, Chinese, English, French, Russian and Spanish.",
+      "as": "ৰাষ্ট্ৰসংঘৰ ছয়টা চৰকাৰী ভাষা হ'ল আৰবী, চীনা, ইংৰাজী, ফৰাচী, ৰাছিয়ান আৰু স্পেনিছ।"
+    }
+  }
+]

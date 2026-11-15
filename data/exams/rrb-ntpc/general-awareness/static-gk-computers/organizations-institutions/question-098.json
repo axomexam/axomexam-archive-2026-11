@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-098",
+    "q": {
+      "en": "The India Meteorological Department was established in:",
+      "as": "ভাৰতৰ বতৰ বিজ্ঞান বিভাগ প্ৰতিষ্ঠা হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "1865",
+        "as": "১৮৬৫"
+      },
+      {
+        "en": "1885",
+        "as": "১৮৮৫"
+      },
+      {
+        "en": "1875",
+        "as": "১৮৭৫"
+      },
+      {
+        "en": "1905",
+        "as": "১৯০৫"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The IMD was set up in 1875 and is headquartered in New Delhi.",
+      "as": "আই এম ডি ১৮৭৫ চনত গঠিত হয় আৰু ইয়াৰ মুখ্য কাৰ্যালয় নতুন দিল্লীত।"
+    }
+  }
+]

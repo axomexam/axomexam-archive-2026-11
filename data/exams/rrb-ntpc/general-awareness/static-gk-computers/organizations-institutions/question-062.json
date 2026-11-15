@@ -1,0 +1,32 @@
+[
+  {
+    "id": "organizations-institutions-062",
+    "q": {
+      "en": "The Atomic Energy Commission of India was set up in the year:",
+      "as": "ভাৰতৰ পাৰমাণৱিক শক্তি আয়োগ গঠিত হৈছিল:"
+    },
+    "options": [
+      {
+        "en": "1954",
+        "as": "১৯৫৪"
+      },
+      {
+        "en": "1948",
+        "as": "১৯৪৮"
+      },
+      {
+        "en": "1957",
+        "as": "১৯৫৭"
+      },
+      {
+        "en": "1962",
+        "as": "১৯৬২"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Atomic Energy Commission was established in 1948 with Homi Bhabha as its first chairman.",
+      "as": "পাৰমাণৱিক শক্তি আয়োগ ১৯৪৮ চনত হোমি ভাভাক প্ৰথম অধ্যক্ষ কৰি গঠিত হয়।"
+    }
+  }
+]
