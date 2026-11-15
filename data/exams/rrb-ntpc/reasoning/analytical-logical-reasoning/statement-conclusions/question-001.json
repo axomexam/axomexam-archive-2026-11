@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "Conclusion follows",
-        "as": "সিদ্ধান্ত সত্য"
+        "en": "None",
+        "as": "একো নহয়"
       },
       {
-        "en": "Conclusion does not follow",
-        "as": "সিদ্ধান্ত অসত্য"
+        "en": "Conclusion follows",
+        "as": "সিদ্ধান্ত সত্য"
       },
       {
         "en": "Cannot be determined",
         "as": "নিৰ্ণয় কৰিব নোৱাৰি"
       },
       {
-        "en": "None",
-        "as": "একো নহয়"
+        "en": "Conclusion does not follow",
+        "as": "সিদ্ধান্ত অসত্য"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "If all students are honest, then at least some honest persons are students.",
       "as": "সকলো ছাত্ৰ সৎ হ'লে অন্ততঃ কিছু সৎ ব্যক্তি ছাত্ৰ।"

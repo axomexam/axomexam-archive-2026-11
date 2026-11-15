@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "180°",
-        "as": "১৮০°"
+        "en": "90°",
+        "as": "৯০°"
       },
       {
         "en": "360°",
         "as": "৩৬০°"
       },
       {
-        "en": "90°",
-        "as": "৯০°"
-      },
-      {
         "en": "270°",
         "as": "২৭০°"
+      },
+      {
+        "en": "180°",
+        "as": "১৮০°"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The three interior angles of any triangle always add up to 180°.",
       "as": "যিকোনো ত্ৰিভুজৰ তিনিটা অন্তঃকোণৰ যোগফল সদায় ১৮০°।"

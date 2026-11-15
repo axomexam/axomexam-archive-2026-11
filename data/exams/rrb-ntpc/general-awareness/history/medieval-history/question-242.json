@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "The mosque at Medina",
-        "as": "মদীনাৰ মছজিদ"
+        "en": "The mosque at Mecca",
+        "as": "মক্কাৰ মছজিদ"
       },
       {
         "en": "The Alhambra",
         "as": "আলহাম্ব্ৰা"
       },
       {
-        "en": "The mosque at Mecca",
-        "as": "মক্কাৰ মছজিদ"
+        "en": "The mosque at Medina",
+        "as": "মদীনাৰ মছজিদ"
       },
       {
         "en": "The Blue Mosque",
         "as": "নীলা মছজিদ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "The Jami Masjid at Fatehpur Sikri was designed on the pattern of the mosque at Mecca.",
       "as": "ফতেহপুৰ ছিক্ৰীৰ জামী মছজিদ মক্কাৰ মছজিদৰ আৰ্হিত ডিজাইন কৰা হৈছিল।"

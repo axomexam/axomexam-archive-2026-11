@@ -7,6 +7,10 @@
     },
     "options": [
       {
+        "en": "q",
+        "as": "q"
+      },
+      {
         "en": "d",
         "as": "d"
       },
@@ -15,15 +19,11 @@
         "as": "p"
       },
       {
-        "en": "q",
-        "as": "q"
-      },
-      {
         "en": "b",
         "as": "b"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "A vertical mirror reverses left and right, turning 'b' into 'd'.",
       "as": "উলম্ব দাপোণে বাওঁ-সোঁ ওলোটা কৰে, 'b' ক 'd' কৰে।"

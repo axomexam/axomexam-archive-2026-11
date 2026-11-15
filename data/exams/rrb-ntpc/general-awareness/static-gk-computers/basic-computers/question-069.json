@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "Working with spreadsheets and calculations",
-        "as": "স্প্ৰেডশ্বীট আৰু গণনা কৰা"
-      },
-      {
         "en": "Editing photographs",
         "as": "ফটোগ্ৰাফ সম্পাদনা কৰা"
+      },
+      {
+        "en": "Working with spreadsheets and calculations",
+        "as": "স্প্ৰেডশ্বীট আৰু গণনা কৰা"
       },
       {
         "en": "Sending emails",
@@ -23,7 +23,7 @@
         "as": "ইণ্টাৰনেট ব্ৰাউজ কৰা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Microsoft Excel is mainly used for working with spreadsheets and calculations.",
       "as": "মাইক্ৰ'ছফ্ট এক্সেল মূলতঃ স্প্ৰেডশ্বীট আৰু গণনা কৰাৰ বাবে ব্যৱহাৰ কৰা হয়।"

@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "8",
-        "as": "৮"
-      },
-      {
         "en": "4",
         "as": "৪"
+      },
+      {
+        "en": "8",
+        "as": "৮"
       },
       {
         "en": "6",
@@ -23,7 +23,7 @@
         "as": "১২"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Both diagonals divide the square into 4 small triangles plus 4 larger ones = 8.",
       "as": "দুয়ো কৰ্ণই বৰ্গটোক ৪ টা সৰু আৰু ৪ টা ডাঙৰ ত্ৰিভুজত ভাগ কৰে = ৮।"

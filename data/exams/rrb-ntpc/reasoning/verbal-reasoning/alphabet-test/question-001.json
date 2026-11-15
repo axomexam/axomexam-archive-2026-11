@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "16",
-        "as": "১৬"
+        "en": "18",
+        "as": "১৮"
       },
       {
-        "en": "15",
-        "as": "১৫"
+        "en": "16",
+        "as": "১৬"
       },
       {
         "en": "17",
         "as": "১৭"
       },
       {
-        "en": "18",
-        "as": "১৮"
+        "en": "15",
+        "as": "১৫"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "5th from left is E, 5th from right is V; letters between E and V are 16.",
       "as": "বাওঁফালৰ পৰা ৫ম E, সোঁফালৰ পৰা ৫ম V; E আৰু V ৰ মাজত ১৬ টা আখৰ।"

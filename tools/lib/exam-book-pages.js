@@ -379,6 +379,50 @@ ${cards}
       write(`exams/${EXAM.id}/${sec.id}/index.html`, pageShell({ head, mainHTML, extraHTML: editorialBlock(EXAM, sec.title, sec.id) + "\n" }));
     }
 
+    /* group pages — a nested sub-category (a group with its own children)
+       gets a hub listing the leaf topics inside it. Leaf breadcrumbs link
+       here, so without these the breadcrumb 404s. */
+    for (const sec of EXAM.sections) {
+      if (sec.type === "syllabus") continue;
+      for (const group of sec.subcategories || []) {
+        const children = Array.isArray(group.subcategories) ? group.subcategories : [];
+        if (!children.length) continue;
+        const route = `${examPath}/${sec.id}/${group.id}`;
+        const canonical = `${BASE}${route}/`;
+        const total = children.reduce((a, c) => a + (BANK_COUNT[`${EXAM.id}:${c.id}`] || 0), 0);
+        const title = `${lang(group.title, "en")} - ${lang(sec.title, "en")} - ${lang(EXAM.title, "en")} | axomexam`;
+        const desc = `${lang(group.title, "en")} - ${lang(sec.title, "en")} practice for ${lang(EXAM.title, "en")}: ${children.length} topics, ${total} bilingual questions with answers and explanations.`;
+        const crumbs = [
+          ...crumbsRoot,
+          { name: lang(EXAM.title, "en"), url: examCanonical },
+          { name: lang(sec.title, "en"), url: `${BASE}${examPath}/${sec.id}/` },
+          { name: lang(group.title, "en") },
+        ];
+        const head = pageHead({
+          title, desc, canonical, themeColor: sec.color,
+          imageAlt: `axomexam - ${lang(group.title, "en")}`, cover: EXAM.cover,
+          jsonld: jsonld({ canonical, title, desc, crumbs, cover: EXAM.cover, teaches: lang(sec.title, "en") }),
+        });
+        const cards = children.map((c) => `        <a class="sub-card reveal" data-exam-subcats href="${route}/${c.id}/" style="display:block; margin:10px 0; padding:14px 16px; border:1px solid var(--border,#e2e8f0); border-radius:14px; text-decoration:none;"><b style="color:var(--ink,#0f172a);">${esc(lang(c.title, "en"))}</b><span style="display:block; color:var(--ink-muted,#64748b); font-size:0.86rem;">${esc(lang(c.title, "as"))}</span></a>`).join("\n");
+        const mainHTML = `    <div class="page-head">
+      ${breadcrumbHTML(crumbs)}
+      <h1>${esc(lang(group.title, "en"))}</h1>
+      <p class="page-desc">${esc(lang(group.title, "as"))} &bull; ${esc(lang(sec.title, "en"))} &bull; ${esc(lang(EXAM.title, "en"))}</p>
+    </div>
+
+    <section class="section" style="padding-bottom:46px;">
+      <div style="margin-top:18px;"><a class="btn btn-outline btn-sm" href="${examPath}/${sec.id}/">Back to ${esc(lang(sec.title, "en"))}</a></div>
+    </section>
+    <section class="section" data-exam-subcats style="padding-bottom:40px;">
+      <h2 style="margin:0 0 6px;">Sub-categories</h2>
+      <div class="sub-grid">
+${cards}
+      </div>
+    </section>`;
+        write(`exams/${EXAM.id}/${sec.id}/${group.id}/index.html`, pageShell({ head, mainHTML, extraHTML: editorialBlock(EXAM, group.title, sec.id) + "\n" }));
+      }
+    }
+
     /* leaf pages */
     for (const item of leaves) {
       const parts = [item.sec.id, ...(item.group ? [item.group.id] : []), item.leaf.id];
@@ -582,6 +626,11 @@ hand-editing the JSON here.
       const urls = [
         `${examPath}/`,
         ...EXAM.sections.map((s) => `${examPath}/${s.id}/`),
+        ...EXAM.sections.flatMap((s) =>
+          (s.subcategories || [])
+            .filter((sub) => Array.isArray(sub.subcategories) && sub.subcategories.length)
+            .map((sub) => `${examPath}/${s.id}/${sub.id}/`)
+        ),
         ...leavesByExam[EXAM.id].map((l) => `${examPath}/${[l.sec.id, ...(l.group ? [l.group.id] : []), l.leaf.id].join("/")}/`),
       ];
       for (const u of urls) {

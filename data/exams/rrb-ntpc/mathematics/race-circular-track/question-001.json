@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "24 minutes",
-        "as": "২৪ মিনিট"
-      },
-      {
         "en": "20 minutes",
         "as": "২০ মিনিট"
+      },
+      {
+        "en": "24 minutes",
+        "as": "২৪ মিনিট"
       },
       {
         "en": "48 minutes",
@@ -23,7 +23,7 @@
         "as": "৯৬ মিনিট"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "They meet at the start after LCM(8, 12) = 24 minutes.",
       "as": "তেওঁলোকে ল.সা.গু.(৮, ১২) = ২৪ মিনিটৰ পিছত আৰম্ভণিত লগ পাব।"

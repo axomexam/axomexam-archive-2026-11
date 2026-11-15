@@ -433,7 +433,8 @@ function examGrowth(kind, exam, sec, sub) {
       .map((x) => [`/exams/${exam.id}/${sec.id}/${x.id}/`, lang(x.title, "en"), sectionQuestionCount(exam.id, sec.id + "/" + x.id)]);
     parts.push(
       siblingListHTML(siblings, `Other topic groups in ${lang(sec.title, "en")}`),
-      `        <p style="margin-top:14px;">${esc(lang(sub.title, "en"))} is one group inside ${esc(lang(sec.title, "en"))}. Finishing the groups in order keeps the syllabus coverage even, and the question counts above show where the weight of the section lies.</p>\n`
+      `        <p style="margin-top:14px;">${esc(lang(sub.title, "en"))} is one group inside ${esc(lang(sec.title, "en"))}. Finishing the groups in order keeps the syllabus coverage even, and the question counts above show where the weight of the section lies.</p>\n` +
+      `        <p>Each topic in this group opens as its own page of bilingual questions, so you can revise one subject at a time and still see how the group fits the wider paper. Read the explanation after every answer, note the facts you missed, and come back to the same page a few days later for a quick revision pass before the examination.</p>\n`
     );
   }
   return parts.join("");

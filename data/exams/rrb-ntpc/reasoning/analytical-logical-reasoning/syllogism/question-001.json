@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "Some roses may fade quickly",
-        "as": "কিছু গোলাপ সোনকালে শুকাই যাব পাৰে"
+        "en": "No rose fades",
+        "as": "কোনো গোলাপ নুশুকায়"
       },
       {
         "en": "All roses fade quickly",
         "as": "সকলো গোলাপ সোনকালে শুকায়"
       },
       {
-        "en": "No rose fades",
-        "as": "কোনো গোলাপ নুশুকায়"
-      },
-      {
         "en": "All flowers are roses",
         "as": "সকলো ফুল গোলাপ"
+      },
+      {
+        "en": "Some roses may fade quickly",
+        "as": "কিছু গোলাপ সোনকালে শুকাই যাব পাৰে"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Some roses may fade quickly is the only conclusion that possibly follows.",
       "as": "কিছু গোলাপ সোনকালে শুকাই যাব পাৰে — এইটোৱে সম্ভৱপৰ সিদ্ধান্ত।"

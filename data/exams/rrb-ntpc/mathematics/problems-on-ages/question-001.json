@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "30 years",
-        "as": "৩০ বছৰ"
+        "en": "45 years",
+        "as": "৪৫ বছৰ"
       },
       {
-        "en": "25 years",
-        "as": "২৫ বছৰ"
+        "en": "30 years",
+        "as": "৩০ বছৰ"
       },
       {
         "en": "35 years",
         "as": "৩৫ বছৰ"
       },
       {
-        "en": "45 years",
-        "as": "৪৫ বছৰ"
+        "en": "25 years",
+        "as": "২৫ বছৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Father's age = 2 × 15 = 30 years.",
       "as": "পিতৃৰ বয়স = ২ × ১৫ = ৩০ বছৰ।"

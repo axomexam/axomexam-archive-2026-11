@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "Jagannath temple at Puri",
-        "as": "পুৰীৰ জগন্নাথ মন্দিৰ"
-      },
-      {
         "en": "Konark Sun temple",
         "as": "কোণাৰ্ক সূৰ্য মন্দিৰ"
+      },
+      {
+        "en": "Jagannath temple at Puri",
+        "as": "পুৰীৰ জগন্নাথ মন্দিৰ"
       },
       {
         "en": "Lingaraja temple",
@@ -23,7 +23,7 @@
         "as": "বৃহদীশ্বৰ মন্দিৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The Jagannath temple at Puri was called the White Pagoda by European sailors.",
       "as": "পুৰীৰ জগন্নাথ মন্দিৰক ইউৰোপীয় নাৱিকে শ্বেত পেগোডা বুলিছিল।"

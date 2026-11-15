@@ -7,8 +7,8 @@
     },
     "options": [
       {
-        "en": "A hidden figure inside the main figure",
-        "as": "মূল চিত্ৰৰ ভিতৰত লুকাই থকা চিত্ৰ"
+        "en": "The number of colours",
+        "as": "ৰঙৰ সংখ্যা"
       },
       {
         "en": "The area of the figure",
@@ -19,11 +19,11 @@
         "as": "চিত্ৰৰ ৰং"
       },
       {
-        "en": "The number of colours",
-        "as": "ৰঙৰ সংখ্যা"
+        "en": "A hidden figure inside the main figure",
+        "as": "মূল চিত্ৰৰ ভিতৰত লুকাই থকা চিত্ৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "In embedded figures you identify a smaller shape hidden within the given figure.",
       "as": "সংযোজিত চিত্ৰত দিয়া চিত্ৰৰ ভিতৰত লুকাই থকা সৰু আকৃতিটো চিনাক্ত কৰা হয়।"

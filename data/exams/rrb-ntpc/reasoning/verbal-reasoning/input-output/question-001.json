@@ -7,6 +7,10 @@
     },
     "options": [
       {
+        "en": "Add 6",
+        "as": "৬ যোগ কৰা"
+      },
+      {
         "en": "Square the number",
         "as": "সংখ্যাটোৰ বৰ্গ কৰা"
       },
@@ -15,15 +19,11 @@
         "as": "৩ ৰে পূৰণ কৰা"
       },
       {
-        "en": "Add 6",
-        "as": "৬ যোগ কৰা"
-      },
-      {
         "en": "Double the number",
         "as": "সংখ্যাটো দুগুণ কৰা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "3²=9, 6²=36, 9²=81, so the rule is to square the input.",
       "as": "৩²=৯, ৬²=৩৬, ৯²=৮১, গতিকে নিয়মটো হ'ল ইনপুটৰ বৰ্গ কৰা।"

@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "Dhaka",
-        "as": "ঢাকা"
-      },
-      {
         "en": "Kannauj",
         "as": "কনৌজ"
+      },
+      {
+        "en": "Dhaka",
+        "as": "ঢাকা"
       },
       {
         "en": "Bidar",
@@ -23,7 +23,7 @@
         "as": "জৌনপুৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Dhaka in Bengal was famous for its fine muslin, prized across Asia and Europe.",
       "as": "বংগৰ ঢাকা ইয়াৰ সূক্ষ্ম মছলিনৰ বাবে বিখ্যাত আছিল, এছিয়া আৰু ইউৰোপজুৰি মূল্যৱান।"

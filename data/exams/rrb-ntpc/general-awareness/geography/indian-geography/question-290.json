@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "Madhya Pradesh",
-        "as": "মধ্য প্ৰদেশ"
-      },
-      {
         "en": "Maharashtra",
         "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
       },
       {
         "en": "Rajasthan",
@@ -23,7 +23,7 @@
         "as": "উত্তৰ প্ৰদেশ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Bandhavgarh National Park in Madhya Pradesh has a high tiger population.",
       "as": "মধ্য প্ৰদেশৰ বান্ধৱগড় ৰাষ্ট্ৰীয় উদ্যানত বাঘৰ জনসংখ্যা বেছি।"

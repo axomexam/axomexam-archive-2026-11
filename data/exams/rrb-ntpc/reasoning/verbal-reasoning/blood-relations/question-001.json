@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "Brother",
-        "as": "ভাই"
+        "en": "Uncle",
+        "as": "খুৰা"
       },
       {
         "en": "Father",
         "as": "পিতৃ"
       },
       {
-        "en": "Uncle",
-        "as": "খুৰা"
-      },
-      {
         "en": "Cousin",
         "as": "খুৰা-পুত্ৰ"
+      },
+      {
+        "en": "Brother",
+        "as": "ভাই"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The son of her mother is her brother.",
       "as": "তাইৰ মাকৰ পুত্ৰ হ'ল তাইৰ ভাই।"

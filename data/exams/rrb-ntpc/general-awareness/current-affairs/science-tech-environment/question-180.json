@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "Acid rain",
-        "as": "অম্ল বৰষুণ"
-      },
-      {
         "en": "Acid fog",
         "as": "অম্ল কুঁৱলী"
+      },
+      {
+        "en": "Acid rain",
+        "as": "অম্ল বৰষুণ"
       },
       {
         "en": "Smog",
@@ -23,7 +23,7 @@
         "as": "শিলাবৃষ্টি"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Acid rain is rain with acidic pollutants such as sulphur dioxide.",
       "as": "অম্ল বৰষুণ হ'ল ছালফাৰ ডাই-অক্সাইডৰ দৰে অম্লীয় দূষকযুক্ত বৰষুণ।"

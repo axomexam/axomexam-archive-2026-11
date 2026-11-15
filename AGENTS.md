@@ -1030,3 +1030,45 @@ What was done, so the next agent does not redo or undo it:
 - **`data/counts.json` is deliberately unchanged.** The book is still
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
+
+---
+
+## Session record — Nov 2026 RRB NTPC group-level hub pages (404 fix)
+
+**Symptom.** The URL the owner shared,
+`/exams/rrb-ntpc/general-awareness/general-science/`, returned **404**.
+Every group-level directory under `exams/rrb-ntpc/*/*/` was missing its
+`index.html` (history, geography, polity, economy, static-gk-computers,
+current-affairs, and the three reasoning groups).
+
+**Root cause.** `buildBook()` in `tools/lib/exam-book-pages.js` writes the
+exam hub, each section page, and each leaf page, but **never writes the
+intermediate group page** for a nested sub-category. The leaf-page
+breadcrumbs link to that group URL, so the breadcrumb itself 404'd.
+`tools/build-adre-grade-3.js` has its own copy of the group-page loop, which
+is why ADRE was fine and every book driven by the shared lib (RRB NTPC,
+Assam Police SI, DHS/DME) was not.
+
+**Fix.**
+1. Added the group-page loop to the shared `buildBook()` (same markup as the
+   ADRE copy: hub title, breadcrumb, "Sub-categories" card grid, back link,
+   editorial block). It runs after the section loop and before the leaf loop.
+2. `updateSitemap()` now also emits the group URLs, so a group page is in the
+   sitemap and the audit's alt-drift check stays at 0.
+3. `keyword-map.csv`: added the 10 new group rows (minimal diff, rrb only).
+4. `tools/enrich-thin-pages.js`: the `sub` growth paragraph was one sentence
+   short — three groups (general-science 287w, economy/geography 297w) landed
+   just under the 300-word thin threshold. Added one page-specific sentence.
+
+**Verify.** All 10 group pages exist (EN + AS twin), 0 broken internal links
+under `exams/rrb-ntpc/`, thin 0, title>60 0, desc>160 0, dup 0. Chain is
+idempotent (two consecutive runs → EN/AS/sitemap diffs empty).
+
+**Gotcha — builders are not dry-run by default.** `build-assam-police-si.js`
+and `build-dhs-dme.js` take `--dry-run`, **not** `--check`; passing an
+unknown flag makes them write. Running them to "check" my shared-lib change
+silently rewrote ~90 unrelated assam-police-si / dhs-dme pages and question
+files. Those were reverted with `git checkout` and the only kept diff is
+under `exams/rrb-ntpc`, `as/exams/rrb-ntpc`, `keyword-map.csv`, `sitemap.xml`
+and the two tool files. If you touch the shared lib, verify other books with
+`git status --porcelain` afterwards, not with a fake check flag.

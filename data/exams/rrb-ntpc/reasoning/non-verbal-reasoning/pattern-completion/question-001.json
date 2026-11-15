@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "Filled in from the given options",
-        "as": "দিয়া বিকল্পৰ পৰা ভৰোৱা হয়"
-      },
-      {
         "en": "Left blank",
         "as": "খালী এৰা হয়"
+      },
+      {
+        "en": "Coloured",
+        "as": "ৰঙ কৰা হয়"
       },
       {
         "en": "Rotated",
         "as": "ঘূৰোৱা হয়"
       },
       {
-        "en": "Coloured",
-        "as": "ৰঙ কৰা হয়"
+        "en": "Filled in from the given options",
+        "as": "দিয়া বিকল্পৰ পৰা ভৰোৱা হয়"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Pattern completion asks you to choose the option that finishes the design.",
       "as": "আৰ্হি সম্পূৰ্ণ কৰাত নক্সাটো সম্পূৰ্ণ কৰা বিকল্পটো বাছনি কৰিব লাগে।"

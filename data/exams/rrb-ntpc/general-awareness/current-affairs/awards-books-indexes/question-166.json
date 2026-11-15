@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "United Nations",
-        "as": "ৰাষ্ট্ৰসংঘ"
+        "en": "ITU",
+        "as": "আই টি ইউ"
       },
       {
         "en": "World Bank",
         "as": "বিশ্ব বেংক"
       },
       {
-        "en": "ITU",
-        "as": "আই টি ইউ"
+        "en": "United Nations",
+        "as": "ৰাষ্ট্ৰসংঘ"
       },
       {
         "en": "OECD",
         "as": "অ' ই চি ডি"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The E-Government Development Index is published by the United Nations.",
       "as": "ই-গভাৰ্নমেণ্ট ডেভেলপমেণ্ট ইনডেক্স ৰাষ্ট্ৰসংঘই প্ৰকাশ কৰে।"

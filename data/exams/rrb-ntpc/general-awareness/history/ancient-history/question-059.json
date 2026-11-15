@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "Decimal system",
-        "as": "দশমিক পদ্ধতি"
-      },
-      {
         "en": "Binary system (1, 2, 4, 8…)",
         "as": "দ্বি-আধাৰ পদ্ধতি (১, ২, ৪, ৮…)"
+      },
+      {
+        "en": "Decimal system",
+        "as": "দশমিক পদ্ধতি"
       },
       {
         "en": "Roman numerals",
@@ -23,7 +23,7 @@
         "as": "কোনো ওজন নাছিল"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "en": "Harappan weights generally followed a binary system in the lower denominations and a decimal one for larger weights.",
       "as": "হৰপ্পা ওজনে সাধাৰণতে সৰু এককত দ্বি-আধাৰ পদ্ধতি আৰু ডাঙৰ ওজনত দশমিক পদ্ধতি অনুসৰণ কৰিছিল।"

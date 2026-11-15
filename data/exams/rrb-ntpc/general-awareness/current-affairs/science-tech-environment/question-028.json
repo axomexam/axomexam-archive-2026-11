@@ -7,8 +7,8 @@
     },
     "options": [
       {
-        "en": "Saturn",
-        "as": "শনি"
+        "en": "Jupiter",
+        "as": "বৃহস্পতি"
       },
       {
         "en": "Neptune",
@@ -19,11 +19,11 @@
         "as": "পৃথিৱী"
       },
       {
-        "en": "Jupiter",
-        "as": "বৃহস্পতি"
+        "en": "Saturn",
+        "as": "শনি"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "en": "The biggest planet of the solar system is Jupiter.",
       "as": "সৌৰজগতৰ ভিতৰত আটাইতকৈ ডাঙৰটো গ্ৰহ হৈছে বৃহস্পতি।"

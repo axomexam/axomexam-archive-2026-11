@@ -7,10 +7,6 @@
     },
     "options": [
       {
-        "en": "UVFTEBZ",
-        "as": "UVFTEBZ"
-      },
-      {
         "en": "UVFTEAY",
         "as": "UVFTEAY"
       },
@@ -19,11 +15,15 @@
         "as": "SVFTEBZ"
       },
       {
+        "en": "UVFTEBZ",
+        "as": "UVFTEBZ"
+      },
+      {
         "en": "UVFTFBZ",
         "as": "UVFTFBZ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Each letter is shifted one step forward in the alphabet.",
       "as": "প্ৰতিটো আখৰ বৰ্ণমালাত এখোজ আগুৱাই যায়।"

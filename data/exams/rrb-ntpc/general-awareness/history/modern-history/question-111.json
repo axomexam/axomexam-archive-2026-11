@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "Swaraj is my birthright and I shall have it",
-        "as": "স্বৰাজ মোৰ জন্মগত অধিকাৰ আৰু মই ইয়াক লাভ কৰিম"
-      },
-      {
         "en": "Jai Hind",
         "as": "জয় হিন্দ"
+      },
+      {
+        "en": "Swaraj is my birthright and I shall have it",
+        "as": "স্বৰাজ মোৰ জন্মগত অধিকাৰ আৰু মই ইয়াক লাভ কৰিম"
       },
       {
         "en": "Inquilab Zindabad",
@@ -23,7 +23,7 @@
         "as": "কৰ অথবা মৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Tilak declared, 'Swaraj is my birthright and I shall have it'.",
       "as": "টিলকে ঘোষণা কৰিছিল, 'স্বৰাজ মোৰ জন্মগত অধিকাৰ আৰু মই ইয়াক লাভ কৰিম'।"

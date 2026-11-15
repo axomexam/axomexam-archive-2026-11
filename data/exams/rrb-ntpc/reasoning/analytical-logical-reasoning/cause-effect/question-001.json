@@ -7,6 +7,10 @@
     },
     "options": [
       {
+        "en": "Both independent",
+        "as": "দুয়ো স্বতন্ত্ৰ"
+      },
+      {
         "en": "I is the cause and II the effect",
         "as": "I কাৰণ আৰু II ফল"
       },
@@ -15,15 +19,11 @@
         "as": "II কাৰণ আৰু I ফল"
       },
       {
-        "en": "Both independent",
-        "as": "দুয়ো স্বতন্ত্ৰ"
-      },
-      {
         "en": "None",
         "as": "একো নহয়"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Heavy rain caused the match to be cancelled.",
       "as": "প্ৰবল বৰষুণৰ বাবেই খেলখন বাতিল হৈছিল।"

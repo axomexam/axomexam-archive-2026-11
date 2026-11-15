@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "Guwahati",
-        "as": "গুৱাহাটী"
+        "en": "Dispur",
+        "as": "দিছপুৰ"
       },
       {
         "en": "Shillong",
         "as": "শ্বিলং"
       },
       {
-        "en": "Dispur",
-        "as": "দিছপুৰ"
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
       },
       {
         "en": "Jorhat",
         "as": "যোৰহাট"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "Assam's capital is Dispur, which lies within Guwahati.",
       "as": "অসমৰ ৰাজধানী দিছপুৰ, যি গুৱাহাটীৰ ভিতৰত অৱস্থিত।"

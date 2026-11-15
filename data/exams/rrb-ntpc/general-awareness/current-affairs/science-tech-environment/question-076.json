@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "Solar panel",
-        "as": "সৌৰ পেনেল"
-      },
-      {
         "en": "Wind turbine",
         "as": "বায়ু টাৰ্বাইন"
+      },
+      {
+        "en": "Solar panel",
+        "as": "সৌৰ পেনেল"
       },
       {
         "en": "Generator",
@@ -23,7 +23,7 @@
         "as": "টাৰ্বাইন পাম্প"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "en": "A wind turbine converts wind energy into electricity.",
       "as": "বায়ু টাৰ্বাইনে বায়ু শক্তি বিদ্যুতলৈ ৰূপান্তৰ কৰে।"

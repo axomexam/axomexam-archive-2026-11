@@ -7,10 +7,6 @@
     },
     "options": [
       {
-        "en": "School",
-        "as": "বিদ্যালয়"
-      },
-      {
         "en": "Book",
         "as": "কিতাপ"
       },
@@ -19,11 +15,15 @@
         "as": "ছাত্ৰ"
       },
       {
+        "en": "School",
+        "as": "বিদ্যালয়"
+      },
+      {
         "en": "Class",
         "as": "শ্ৰেণী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "A doctor works in a hospital, so a teacher works in a school.",
       "as": "ডাক্তৰে চিকিৎসালয়ত কাম কৰে, গতিকে শিক্ষকে বিদ্যালয়ত কাম কৰে।"

@@ -7,10 +7,6 @@
     },
     "options": [
       {
-        "en": "Course follows",
-        "as": "কাৰ্যপন্থা গ্ৰহণযোগ্য"
-      },
-      {
         "en": "Course does not follow",
         "as": "কাৰ্যপন্থা গ্ৰহণযোগ্য নহয়"
       },
@@ -19,11 +15,15 @@
         "as": "ক'ব নোৱাৰি"
       },
       {
+        "en": "Course follows",
+        "as": "কাৰ্যপন্থা গ্ৰহণযোগ্য"
+      },
+      {
         "en": "None",
         "as": "একো নহয়"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Improving generation and distribution directly addresses the problem.",
       "as": "উৎপাদন আৰু বিতৰণ উন্নত কৰিলে সমস্যাটোৰ পোনপটীয়া সমাধান হয়।"

@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "24",
-        "as": "২৪"
+        "en": "48",
+        "as": "৪৮"
       },
       {
         "en": "120",
         "as": "১২০"
       },
       {
-        "en": "48",
-        "as": "৪৮"
-      },
-      {
         "en": "60",
         "as": "৬০"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "A is fixed at one end; the other four can be arranged in 4! = 24 ways.",
       "as": "A এটা মূৰত স্থিৰ; বাকী চাৰিজনক ৪! = ২৪ ধৰণে সজাব পাৰি।"
