@@ -391,11 +391,18 @@ const API = (() => {
       }
     };
 
-    /* Discover from the public GitHub Contents API first so newly uploaded
-       question files appear automatically; the folder's index.json manifest
-       is the offline / local-preview fallback. */
-    files = await loadFromApi();
-    if (!files.length) files = await loadFromManifest();
+    /* Prefer the folder's index.json manifest: it is a same-origin fetch and
+       lists every question file, so one topic costs a single request. The
+       GitHub Contents API is only the discovery path when the site is built to
+       read straight from GitHub (USE_REMOTE) or when no manifest is present —
+       it is rate limited to 60 requests an hour for anonymous callers. */
+    if (CONFIG.USE_REMOTE) {
+      files = await loadFromApi();
+      if (!files.length) files = await loadFromManifest();
+    } else {
+      files = await loadFromManifest();
+      if (!files.length) files = await loadFromApi();
+    }
 
     files.sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: "base" }));
 

@@ -58,6 +58,16 @@ function writeJSON(rel, obj) {
   write(rel, JSON.stringify(obj, null, 2));
 }
 
+/* How many questions the topic's primary bank currently holds (0 when absent). */
+function readBankSize(rel) {
+  try {
+    const data = JSON.parse(fs.readFileSync(path.join(ROOT, rel, PRIMARY), "utf8"));
+    return Array.isArray(data) ? data.length : 0;
+  } catch (e) {
+    return 0;
+  }
+}
+
 /* JSON in the style of data/exams/index.json: objects whose values are all
    short strings collapse onto one line, deeper structures stay expanded. */
 function compactJSON(value, indent) {
@@ -155,6 +165,11 @@ for (const item of leaves) {
   const rel = ["data", "exams", EXAM.id, ...leafParts(item)].join("/");
   const sample = QUESTIONS[item.leaf.id];
   const bank = sample ? [{ id: `${item.leaf.id}-001`, ...sample }] : [];
+  /* The seed bank is one sample per topic, but the live banks now hold the
+     whole set (hundreds of questions). Never shrink a bank that has grown
+     past the sample, or re-running this seeder would wipe the real questions. */
+  const existing = readBankSize(rel);
+  if (existing > bank.length) continue;
   writeJSON(`${rel}/${PRIMARY}`, bank);
   writeJSON(`${rel}/index.json`, { subcategory: item.leaf.id, files: [PRIMARY] });
 }
