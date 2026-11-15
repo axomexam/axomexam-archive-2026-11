@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-228",
+    "q": {
+      "en": "Which reformer wrote 'Satyarth Prakash'?",
+      "as": "কোন সংস্কাৰকে 'সত্যাৰ্থ প্ৰকাশ' লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Raja Ram Mohan Roy",
+        "as": "ৰাজা ৰামমোহন ৰায়"
+      },
+      {
+        "en": "Swami Vivekananda",
+        "as": "স্বামী বিবেকানন্দ"
+      },
+      {
+        "en": "Dayanand Saraswati",
+        "as": "দয়ানন্দ সৰস্বতী"
+      },
+      {
+        "en": "Ishwar Chandra Vidyasagar",
+        "as": "ঈশ্বৰচন্দ্ৰ বিদ্যাসাগৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Dayanand Saraswati wrote Satyarth Prakash, an influential work of the Arya Samaj.",
+      "as": "দয়ানন্দ সৰস্বতীয়ে সত্যাৰ্থ প্ৰকাশ লিখিছিল, আৰ্য সমাজৰ এটা প্ৰভাৱশালী কৰ্ম।"
+    }
+  }
+]

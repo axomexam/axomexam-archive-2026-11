@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-318",
+    "q": {
+      "en": "Which Viceroy organised the Simla Conference of 1945?",
+      "as": "কোন ভাইচৰয়ে ১৯৪৫ চনৰ ছিমলা সন্মিলন আয়োজন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Lord Linlithgow",
+        "as": "লৰ্ড লিনলিথগৌ"
+      },
+      {
+        "en": "Lord Mountbatten",
+        "as": "লৰ্ড মাউণ্টবেটেন"
+      },
+      {
+        "en": "Lord Irwin",
+        "as": "লৰ্ড ইৰৱিন"
+      },
+      {
+        "en": "Lord Wavell",
+        "as": "লৰ্ড ৱেভেল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Lord Wavell organised the Simla Conference in 1945 to discuss constitutional progress.",
+      "as": "লৰ্ড ৱেভেলে সাংবিধানিক অগ্ৰগতি আলোচনাৰ বাবে ১৯৪৫ চনত ছিমলা সন্মিলন আয়োজন কৰিছিল।"
+    }
+  }
+]

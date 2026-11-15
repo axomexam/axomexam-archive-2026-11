@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-378",
+    "q": {
+      "en": "Which Indian leader wrote 'Gita Rahasya' while in prison?",
+      "as": "কাৰাগাৰত থকাৰ সময়ত কোন ভাৰতীয় নেতাই 'গীতা ৰহস্য' লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Mahatma Gandhi",
+        "as": "মহাত্মা গান্ধী"
+      },
+      {
+        "en": "Jawaharlal Nehru",
+        "as": "জৱাহৰলাল নেহৰু"
+      },
+      {
+        "en": "Bal Gangadhar Tilak",
+        "as": "বাল গংগাধৰ টিলক"
+      },
+      {
+        "en": "Aurobindo Ghosh",
+        "as": "অৰবিন্দ ঘোষ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bal Gangadhar Tilak wrote the Gita Rahasya during his imprisonment in Mandalay.",
+      "as": "বাল গংগাধৰ টিলকে মান্দালয়ত তেওঁৰ কাৰাবাসৰ সময়ত গীতা ৰহস্য লিখিছিল।"
+    }
+  }
+]

@@ -293,6 +293,38 @@ What was done, so the next agent does not redo or undo it:
   `thin (<300w): 0`, no missing H1/desc/canonical/JSON-LD and all duplicate
   counts at 0. No page, UI, script or CSS file changed.
 
+## Session record — Nov 2026 RRB NTPC Modern History question bank (430 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a full bilingual Modern History bank to the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/history/modern-history/`:
+  `question-002.json` … `question-430.json` (429 new files) beside the existing
+  `question-001.json`, giving the topic **430 questions**. Each file holds one
+  MCQ in the repo's shape — `id`, `q.{en,as}`, four `options[{en,as}]`,
+  `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 430 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty
+  and cover the advent of the Europeans and British expansion, the revolt of
+  1857, the rise of nationalism and the Congress, the Moderates and Extremists,
+  the Swadeshi movement, the Gandhian mass movements (Non-Cooperation, Civil
+  Disobedience, Quit India), revolutionary nationalism, the Round Table
+  Conferences and the Acts of 1909/1919/1935, the socio-religious reform
+  movements, peasant and tribal movements, the press and education, the
+  Governor Generals and Viceroys, partition and integration, and modern Indian
+  science and industry (with a set of Assam-linked items).
+  Answer keys are spread over A/B/C/D — across all 430 questions the slots hold
+  109/107/107/107; `--book rrb-ntpc --topic
+  general-awareness/history/modern-history --check` reports 0 skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive, English and Assamese) against all other
+  question text already in `data/`; the colliding items were reworded so the
+  bank shares no stem or explanation with the existing banks or mock sets.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.
+
 ## Session record — Nov 2026 RRB NTPC Medieval History question bank (400 MCQs)
 
 What was done, so the next agent does not redo or undo it:

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-229",
+    "q": {
+      "en": "Which reformer wrote 'Gitanjali' and won the Nobel Prize in Literature?",
+      "as": "কোন সংস্কাৰকে 'গীতাঞ্জলি' লিখি সাহিত্যৰ ন'বেল বঁটা লাভ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Bankim Chandra Chatterjee",
+        "as": "বঙ্কিম চন্দ্ৰ চট্টোপাধ্যায়"
+      },
+      {
+        "en": "Sarojini Naidu",
+        "as": "সৰোজিনী নাইডু"
+      },
+      {
+        "en": "Rabindranath Tagore",
+        "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ"
+      },
+      {
+        "en": "Munshi Premchand",
+        "as": "মুন্সি প্ৰেমচন্দ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for Gitanjali.",
+      "as": "ৰবীন্দ্ৰনাথ ঠাকুৰে ১৯১৩ চনত গীতাঞ্জলিৰ বাবে সাহিত্যৰ ন'বেল বঁটা লাভ কৰিছিল।"
+    }
+  }
+]

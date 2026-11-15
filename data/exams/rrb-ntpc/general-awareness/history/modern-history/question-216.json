@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-216",
+    "q": {
+      "en": "Which reformer founded the Aligarh movement for Muslim education?",
+      "as": "মুছলমান শিক্ষাৰ বাবে আলিগড় আন্দোলন কোন সংস্কাৰকে প্ৰতিষ্ঠা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Muhammad Ali Jinnah",
+        "as": "মহম্মদ আলী জিন্না"
+      },
+      {
+        "en": "Abul Kalam Azad",
+        "as": "আবুল কালাম আজাদ"
+      },
+      {
+        "en": "Sir Syed Ahmed Khan",
+        "as": "ছাৰ চৈয়দ আহমদ খান"
+      },
+      {
+        "en": "Badruddin Tyabji",
+        "as": "বদৰুদ্দিন ত্যাবজী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sir Syed Ahmed Khan founded the Muhammadan Anglo-Oriental College at Aligarh in 1875.",
+      "as": "ছাৰ চৈয়দ আহমদ খানে ১৮৭৫ চনত আলিগড়ত মহম্মডান এংল'-ওৰিয়েণ্টেল কলেজ প্ৰতিষ্ঠা কৰিছিল।"
+    }
+  }
+]

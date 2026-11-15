@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-116",
+    "q": {
+      "en": "Which Viceroy announced the Partition of Bengal in 1905?",
+      "as": "কোন ভাইচৰয়ে ১৯০৫ চনত বংগ বিভাজন ঘোষণা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Lord Minto",
+        "as": "লৰ্ড মিণ্টো"
+      },
+      {
+        "en": "Lord Ripon",
+        "as": "লৰ্ড ৰিপন"
+      },
+      {
+        "en": "Lord Curzon",
+        "as": "লৰ্ড কাৰ্জন"
+      },
+      {
+        "en": "Lord Hardinge",
+        "as": "লৰ্ড হাৰ্ডিং"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Lord Curzon announced the Partition of Bengal in 1905, which triggered widespread protest.",
+      "as": "লৰ্ড কাৰ্জনে ১৯০৫ চনত বংগ বিভাজন ঘোষণা কৰিছিল, যাৰ ফলত ব্যাপক প্ৰতিবাদ হৈছিল।"
+    }
+  }
+]

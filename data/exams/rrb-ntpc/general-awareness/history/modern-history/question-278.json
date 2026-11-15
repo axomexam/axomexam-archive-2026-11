@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-278",
+    "q": {
+      "en": "Which party was founded in 1925 as the Communist Party of India?",
+      "as": "১৯২৫ চনত কোন দল ভাৰতীয় কমিউনিষ্ট পাৰ্টি হিচাপে প্ৰতিষ্ঠা কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "The Congress Socialist Party",
+        "as": "কংগ্ৰেছ সমাজবাদী দল"
+      },
+      {
+        "en": "The Forward Bloc",
+        "as": "ফৰৱাৰ্ড ব্লক"
+      },
+      {
+        "en": "The Hindustan Socialist Republican Association",
+        "as": "হিন্দুস্থান ছ'চিয়েলিষ্ট ৰিপাব্লিকান এছ'চিয়েচন"
+      },
+      {
+        "en": "The Communist Party of India",
+        "as": "ভাৰতীয় কমিউনিষ্ট পাৰ্টি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Communist Party of India was founded in 1925 at Kanpur.",
+      "as": "ভাৰতীয় কমিউনিষ্ট পাৰ্টি ১৯২৫ চনত কানপুৰত প্ৰতিষ্ঠা কৰা হৈছিল।"
+    }
+  }
+]

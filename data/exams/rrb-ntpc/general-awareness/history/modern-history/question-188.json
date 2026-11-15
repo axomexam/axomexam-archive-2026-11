@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-188",
+    "q": {
+      "en": "Which Irish Home Rule movement inspired the Indian Home Rule League?",
+      "as": "কোন আইৰিছ হোমৰুল আন্দোলনে ভাৰতীয় হোমৰুল লীগক অনুপ্ৰাণিত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The American Revolution",
+        "as": "আমেৰিকান বিপ্লৱ"
+      },
+      {
+        "en": "The French Revolution",
+        "as": "ফৰাচী বিপ্লৱ"
+      },
+      {
+        "en": "The Russian Revolution",
+        "as": "ৰাছিয়ান বিপ্লৱ"
+      },
+      {
+        "en": "The Irish Home Rule movement",
+        "as": "আইৰিছ হোমৰুল আন্দোলন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Home Rule League was inspired by the Irish Home Rule movement for self-government.",
+      "as": "হোমৰুল লীগ স্ব-শাসনৰ বাবে আইৰিছ হোমৰুল আন্দোলনৰ দ্বাৰা অনুপ্ৰাণিত হৈছিল।"
+    }
+  }
+]

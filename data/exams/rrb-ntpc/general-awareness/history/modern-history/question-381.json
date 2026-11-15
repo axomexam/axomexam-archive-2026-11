@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-381",
+    "q": {
+      "en": "Which leader founded the Theosophical Society with headquarters in India?",
+      "as": "ভাৰতত সদৰ কৰি কোন নেতাই থিঅ'ছফিকেল ছ'চাইটি প্ৰতিষ্ঠাত সহায় কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Dayanand Saraswati",
+        "as": "দয়ানন্দ সৰস্বতী"
+      },
+      {
+        "en": "Swami Vivekananda",
+        "as": "স্বামী বিবেকানন্দ"
+      },
+      {
+        "en": "Annie Besant",
+        "as": "এনি বেছাণ্ট"
+      },
+      {
+        "en": "Raja Ram Mohan Roy",
+        "as": "ৰাজা ৰামমোহন ৰায়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Annie Besant led the Theosophical Society, whose headquarters was at Adyar, near Madras.",
+      "as": "এনি বেছাণ্টে থিঅ'ছফিকেল ছ'চাইটিৰ নেতৃত্ব দিছিল, যাৰ সদৰ মাদ্ৰাজৰ ওচৰৰ আডয়াৰত আছিল।"
+    }
+  }
+]

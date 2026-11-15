@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-100",
+    "q": {
+      "en": "Where was the first session of the Indian National Congress held in 1885?",
+      "as": "১৮৮৫ চনত ভাৰতীয় জাতীয় কংগ্ৰেছৰ প্ৰথম অধিৱেশন ক'ত অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Calcutta",
+        "as": "কলিকতা"
+      },
+      {
+        "en": "Madras",
+        "as": "মাদ্ৰাজ"
+      },
+      {
+        "en": "Bombay",
+        "as": "বম্বে"
+      },
+      {
+        "en": "Allahabad",
+        "as": "এলাহাবাদ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The first session of the Indian National Congress was held at Bombay in December 1885.",
+      "as": "ভাৰতীয় জাতীয় কংগ্ৰেছৰ প্ৰথম অধিৱেশন ১৮৮৫ চনৰ ডিচেম্বৰত বম্বেত অনুষ্ঠিত হৈছিল।"
+    }
+  }
+]

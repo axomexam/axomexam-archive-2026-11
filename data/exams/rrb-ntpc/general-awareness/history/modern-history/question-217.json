@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-217",
+    "q": {
+      "en": "Which college founded by Sir Syed Ahmed Khan became a university in 1920?",
+      "as": "ছাৰ চৈত আহমদ খানে প্ৰতিষ্ঠা কৰা কোনখন কলেজ ১৯২০ চনত বিশ্ববিদ্যালয় হৈ পৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Aligarh Muslim University",
+        "as": "আলিগড় মুছলিম বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "Banaras Hindu University",
+        "as": "বনাৰস হিন্দু বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "Jamia Millia Islamia",
+        "as": "জামিয়া মিলিয়া ইছলামিয়া"
+      },
+      {
+        "en": "Osmania University",
+        "as": "উছমানিয়া বিশ্ববিদ্যালয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Muhammadan Anglo-Oriental College at Aligarh became the Aligarh Muslim University in 1920.",
+      "as": "আলিগড়ৰ মহম্মডান এংল'-ওৰিয়েণ্টেল কলেজ ১৯২০ চনত আলিগড় মুছলিম বিশ্ববিদ্যালয় হৈ পৰিছিল।"
+    }
+  }
+]

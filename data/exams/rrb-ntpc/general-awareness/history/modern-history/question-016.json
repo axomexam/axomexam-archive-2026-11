@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-016",
+    "q": {
+      "en": "Which system of revenue collection was introduced by Warren Hastings in Bengal?",
+      "as": "ৱাৰেন হেষ্টিংছে বংগত কোন ৰাজহ সংগ্ৰহ পদ্ধতি প্ৰৱৰ্তন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Permanent Settlement",
+        "as": "স্থায়ী বন্দোবস্ত"
+      },
+      {
+        "en": "The Mahalwari system",
+        "as": "মহলৱাৰী পদ্ধতি"
+      },
+      {
+        "en": "The Tinkathia system",
+        "as": "তিনকাঠিয়া পদ্ধতি"
+      },
+      {
+        "en": "The Ryotwari system",
+        "as": "ৰৈয়তৱাৰী পদ্ধতি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Permanent Settlement was introduced by Lord Cornwallis in 1793, not by Warren Hastings.",
+      "as": "স্থায়ী বন্দোবস্ত ১৭৯৩ চনত লৰ্ড কৰ্নৱালিছে প্ৰৱৰ্তন কৰিছিল, ৱাৰেন হেষ্টিংছে নহয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-060",
+    "q": {
+      "en": "Who led the Revolt of 1857 at Bareilly?",
+      "as": "বেৰেলীত ১৮৫৭ চনৰ বিদ্ৰোহৰ নেতৃত্ব কোনে দিছিল?"
+    },
+    "options": [
+      {
+        "en": "Nana Saheb",
+        "as": "নানা ছাহেব"
+      },
+      {
+        "en": "Rani Lakshmibai",
+        "as": "ৰাণী লক্ষ্মীবাঈ"
+      },
+      {
+        "en": "Kunwar Singh",
+        "as": "কুঁৱৰ সিং"
+      },
+      {
+        "en": "Khan Bahadur Khan",
+        "as": "খান বাহাদুৰ খান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Khan Bahadur Khan, a descendant of Rohilla chiefs, led the revolt at Bareilly.",
+      "as": "খান বাহাদুৰ খান, ৰোহিলা সৰদাৰসকলৰ বংশধৰ, বেৰেলীত বিদ্ৰোহৰ নেতৃত্ব দিছিল।"
+    }
+  }
+]

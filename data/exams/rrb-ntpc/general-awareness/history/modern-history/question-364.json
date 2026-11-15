@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-364",
+    "q": {
+      "en": "Which modern industry was introduced in India by the British in the nineteenth century?",
+      "as": "ঊনবিংশ শতিকাত ব্ৰিটিছে ভাৰতত কোন আধুনিক উদ্যোগ প্ৰৱৰ্তন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The computer industry",
+        "as": "কম্পিউটাৰ উদ্যোগ"
+      },
+      {
+        "en": "The automobile industry",
+        "as": "অট'ম'বাইল উদ্যোগ"
+      },
+      {
+        "en": "The aviation industry",
+        "as": "বিমান উদ্যোগ"
+      },
+      {
+        "en": "The cotton textile industry",
+        "as": "কপাহী বস্ত্ৰ উদ্যোগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The cotton textile industry, along with jute and tea, was developed in India in the nineteenth century.",
+      "as": "কপাহী বস্ত্ৰ উদ্যোগ, পাট আৰু চাহৰ সৈতে, ঊনবিংশ শতিকাত ভাৰতত বিকশিত হৈছিল।"
+    }
+  }
+]

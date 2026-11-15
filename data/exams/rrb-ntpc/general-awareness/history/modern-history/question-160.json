@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-160",
+    "q": {
+      "en": "Which viceroy announced the transfer of the capital from Calcutta to Delhi in 1911?",
+      "as": "কোন ভাইচৰয়ে ১৯১১ চনত ৰাজধানী কলিকতাৰ পৰা দিল্লীলৈ স্থানান্তৰ ঘোষণা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Lord Curzon",
+        "as": "লৰ্ড কাৰ্জন"
+      },
+      {
+        "en": "Lord Minto",
+        "as": "লৰ্ড মিণ্টো"
+      },
+      {
+        "en": "Lord Hardinge",
+        "as": "লৰ্ড হাৰ্ডিং"
+      },
+      {
+        "en": "Lord Reading",
+        "as": "লৰ্ড ৰিডিং"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Lord Hardinge announced the shifting of the capital to Delhi and the annulment of the partition of Bengal in 1911.",
+      "as": "লৰ্ড হাৰ্ডিঙে ১৯১১ চনত ৰাজধানী দিল্লীলৈ স্থানান্তৰ আৰু বংগ বিভাজন বাতিলৰ ঘোষণা কৰিছিল।"
+    }
+  }
+]

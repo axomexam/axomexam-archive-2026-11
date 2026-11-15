@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-002",
+    "q": {
+      "en": "Which European power first reached India by discovering the sea route in 1498?",
+      "as": "১৪৯৮ চনত সাগৰীয় পথ আৱিষ্কাৰ কৰি কোন ইউৰোপীয় শক্তিয়ে প্ৰথমে ভাৰতত উপনীত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "England",
+        "as": "ইংলেণ্ড"
+      },
+      {
+        "en": "France",
+        "as": "ফ্ৰান্স"
+      },
+      {
+        "en": "Netherlands",
+        "as": "নেডাৰলেণ্ড"
+      },
+      {
+        "en": "Portugal",
+        "as": "পৰ্তুগাল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Vasco da Gama of Portugal reached Calicut in 1498, opening the sea route from Europe to India.",
+      "as": "পৰ্তুগালৰ ভাস্কো দা গামা ১৪৯৮ চনত কালিকটত উপনীত হৈ ইউৰোপৰ পৰা ভাৰতলৈ সাগৰীয় পথ মুকলি কৰিছিল।"
+    }
+  }
+]

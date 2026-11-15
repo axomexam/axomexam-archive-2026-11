@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-102",
+    "q": {
+      "en": "Which woman became the first to preside over a session of the Indian National Congress?",
+      "as": "কোনগৰাকী মহিলা ভাৰতীয় জাতীয় কংগ্ৰেছৰ এটা অধিৱেশনত সভাপতিত্ব কৰা প্ৰথমগৰাকী হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Sarojini Naidu",
+        "as": "সৰোজিনী নাইডু"
+      },
+      {
+        "en": "Vijaya Lakshmi Pandit",
+        "as": "বিজয়া লক্ষ্মী পণ্ডিত"
+      },
+      {
+        "en": "Annie Besant",
+        "as": "এনি বেছাণ্ট"
+      },
+      {
+        "en": "Kamala Nehru",
+        "as": "কমলা নেহৰু"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Annie Besant was the first woman president of the Congress, presiding in 1917.",
+      "as": "এনি বেছাণ্ট কংগ্ৰেছৰ প্ৰথম মহিলা সভাপতি আছিল, ১৯১৭ চনত সভাপতিত্ব কৰি।"
+    }
+  }
+]

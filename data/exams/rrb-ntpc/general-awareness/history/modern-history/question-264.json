@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-264",
+    "q": {
+      "en": "Which country was created as a separate homeland for Muslims in 1947?",
+      "as": "১৯৪৭ চনত মুছলমানসকলৰ বাবে পৃথক মাতৃভূমি হিচাপে কোন দেশ সৃষ্টি হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Bangladesh",
+        "as": "বাংলাদেশ"
+      },
+      {
+        "en": "Afghanistan",
+        "as": "আফগানিস্তান"
+      },
+      {
+        "en": "Nepal",
+        "as": "নেপাল"
+      },
+      {
+        "en": "Pakistan",
+        "as": "পাকিস্তান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Pakistan was created in August 1947 as a separate homeland for Muslims following partition.",
+      "as": "বিভাজনৰ পিছত ১৯৪৭ চনৰ আগষ্টত মুছলমানসকলৰ বাবে পৃথক মাতৃভূমি হিচাপে পাকিস্তান সৃষ্টি হৈছিল।"
+    }
+  }
+]

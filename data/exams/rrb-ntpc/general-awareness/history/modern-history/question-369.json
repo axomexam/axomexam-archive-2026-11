@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-369",
+    "q": {
+      "en": "Which Indian mathematician is known for his work on infinite series?",
+      "as": "অসীম শ্ৰেণীৰ ওপৰত তেওঁৰ কৰ্মৰ বাবে কোন ভাৰতীয় গণিতজ্ঞ জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Aryabhata",
+        "as": "আৰ্যভট্ট"
+      },
+      {
+        "en": "Bhaskara",
+        "as": "ভাস্কৰ"
+      },
+      {
+        "en": "Srinivasa Ramanujan",
+        "as": "শ্ৰীনিবাস ৰামানুজন"
+      },
+      {
+        "en": "Brahmagupta",
+        "as": "ব্ৰহ্মগুপ্ত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Srinivasa Ramanujan made remarkable contributions to mathematical analysis and number theory.",
+      "as": "শ্ৰীনিবাস ৰামানুজনৰ গাণিতিক বিশ্লেষণ আৰু সংখ্যা তত্ত্বলৈ উল্লেখনীয় অৱদান আছিল।"
+    }
+  }
+]

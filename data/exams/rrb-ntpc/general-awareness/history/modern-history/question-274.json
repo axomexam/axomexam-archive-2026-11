@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-274",
+    "q": {
+      "en": "Which revolutionary wrote the book 'The Indian War of Independence'?",
+      "as": "কোন বিপ্লৱীয়ে 'The Indian War of Independence' গ্ৰন্থখন লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Bhagat Singh",
+        "as": "ভগত সিং"
+      },
+      {
+        "en": "Ram Prasad Bismil",
+        "as": "ৰাম প্ৰসাদ বিছমিল"
+      },
+      {
+        "en": "V. D. Savarkar",
+        "as": "ভি. ডি. সাৱৰকাৰ"
+      },
+      {
+        "en": "Subhas Chandra Bose",
+        "as": "সুভাষ চন্দ্ৰ বসু"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "V. D. Savarkar wrote 'The Indian War of Independence', describing the revolt of 1857.",
+      "as": "ভি. ডি. সাৱৰকাৰে 'The Indian War of Independence' লিখিছিল, ১৮৫৭ চনৰ বিদ্ৰোহ বৰ্ণনা কৰি।"
+    }
+  }
+]

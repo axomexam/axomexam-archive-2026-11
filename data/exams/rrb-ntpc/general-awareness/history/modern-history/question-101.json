@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-101",
+    "q": {
+      "en": "Which leader became the first Muslim to preside over the Indian National Congress?",
+      "as": "ভাৰতীয় জাতীয় কংগ্ৰেছৰ সভাপতিত্ব কৰা প্ৰথম মুছলমান নেতা কোন আছিল?"
+    },
+    "options": [
+      {
+        "en": "W. C. Bonnerjee",
+        "as": "ডব্লিউ. চি. বেনাৰ্জী"
+      },
+      {
+        "en": "Badruddin Tyabji",
+        "as": "বদৰুদ্দিন ত্যাবজী"
+      },
+      {
+        "en": "A. O. Hume",
+        "as": "এ. অ'. হিউম"
+      },
+      {
+        "en": "Dadabhai Naoroji",
+        "as": "দাদাভাই নৌৰজী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Badruddin Tyabji was the first Muslim president of the Congress, presiding in 1887.",
+      "as": "বদৰুদ্দিন ত্যাবজী কংগ্ৰেছৰ প্ৰথম মুছলমান সভাপতি আছিল, ১৮৮৭ চনত সভাপতিত্ব কৰি।"
+    }
+  }
+]

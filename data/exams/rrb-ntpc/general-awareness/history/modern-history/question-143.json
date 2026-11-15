@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-143",
+    "q": {
+      "en": "Which movement was withdrawn by Gandhi after the Chauri Chaura incident of 1922?",
+      "as": "১৯২২ চনৰ চৌৰী চৌৰা ঘটনাৰ পিছত গান্ধীয়ে কোন আন্দোলন প্ৰত্যাহাৰ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Civil Disobedience movement",
+        "as": "আইন অমান্য আন্দোলন"
+      },
+      {
+        "en": "The Non-Cooperation movement",
+        "as": "অসহযোগ আন্দোলন"
+      },
+      {
+        "en": "The Quit India movement",
+        "as": "ভাৰত ত্যাগ আন্দোলন"
+      },
+      {
+        "en": "The Khilafat movement",
+        "as": "খিলাফত আন্দোলন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gandhi withdrew the Non-Cooperation movement after violence at Chauri Chaura in 1922.",
+      "as": "১৯২২ চনত চৌৰী চৌৰাত হিংসাৰ পিছত গান্ধীয়ে অসহযোগ আন্দোলন প্ৰত্যাহাৰ কৰিছিল।"
+    }
+  }
+]

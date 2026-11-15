@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-117",
+    "q": {
+      "en": "In which year was Bengal partitioned by Lord Curzon?",
+      "as": "কোন বছৰত লৰ্ড কাৰ্জনে বংগ বিভাজন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "1906",
+        "as": "১৯০৬"
+      },
+      {
+        "en": "1911",
+        "as": "১৯১১"
+      },
+      {
+        "en": "1919",
+        "as": "১৯১৯"
+      },
+      {
+        "en": "1905",
+        "as": "১৯০৫"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bengal was partitioned in 1905, but the decision was annulled in 1911.",
+      "as": "১৯০৫ চনত বংগ বিভাজিত হৈছিল, কিন্তু ১৯১১ চনত এই সিদ্ধান্ত বাতিল কৰা হৈছিল।"
+    }
+  }
+]

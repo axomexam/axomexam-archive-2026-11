@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-139",
+    "q": {
+      "en": "Which title did Rabindranath Tagore renounce in protest against the Jallianwala Bagh massacre?",
+      "as": "জালিয়ানৱালাবাগ হত্যাকাণ্ডৰ প্ৰতিবাদত ৰবীন্দ্ৰনাথ ঠাকুৰে কোন উপাধি ত্যাগ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Bharat Ratna",
+        "as": "ভাৰত ৰত্ন"
+      },
+      {
+        "en": "Knighthood",
+        "as": "নাইট উপাধি"
+      },
+      {
+        "en": "Nobel Prize",
+        "as": "ন'বেল বঁটা"
+      },
+      {
+        "en": "Doctorate",
+        "as": "ডক্টৰেট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Tagore renounced his knighthood in 1919 in protest against the Jallianwala Bagh massacre.",
+      "as": "ঠাকুৰে ১৯১৯ চনত জালিয়ানৱালাবাগ হত্যাকাণ্ডৰ প্ৰতিবাদত তেওঁৰ নাইট উপাধি ত্যাগ কৰিছিল।"
+    }
+  }
+]

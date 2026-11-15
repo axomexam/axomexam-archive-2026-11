@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-407",
+    "q": {
+      "en": "Which Governor General is associated with the Permanent Settlement and the Cornwallis Code?",
+      "as": "স্থায়ী বন্দোবস্ত আৰু কৰ্নৱালিছ সংহিতাৰ সৈতে কোন গৱৰ্ণৰ জেনেৰেল জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Lord Wellesley",
+        "as": "লৰ্ড ৱেলেছলি"
+      },
+      {
+        "en": "Lord Dalhousie",
+        "as": "লৰ্ড ডালহাউছি"
+      },
+      {
+        "en": "Lord Ripon",
+        "as": "লৰ্ড ৰিপন"
+      },
+      {
+        "en": "Lord Cornwallis",
+        "as": "লৰ্ড কৰ্নৱালিছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Lord Cornwallis introduced the Permanent Settlement and reformed the civil and police administration.",
+      "as": "লৰ্ড কৰ্নৱালিছে স্থায়ী বন্দোবস্ত প্ৰৱৰ্তন কৰিছিল আৰু অসামৰিক আৰু আৰক্ষী প্ৰশাসন সংস্কাৰ কৰিছিল।"
+    }
+  }
+]

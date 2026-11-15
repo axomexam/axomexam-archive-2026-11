@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-003",
+    "q": {
+      "en": "Vasco da Gama reached the Indian coast at which place?",
+      "as": "ভাস্কো দা গামা ভাৰতৰ উপকূলত কোন স্থানত উপনীত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Calicut",
+        "as": "কালিকট"
+      },
+      {
+        "en": "Goa",
+        "as": "গোৱা"
+      },
+      {
+        "en": "Surat",
+        "as": "সুৰাট"
+      },
+      {
+        "en": "Bombay",
+        "as": "বম্বে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vasco da Gama landed at Calicut on the Malabar coast in 1498.",
+      "as": "ভাস্কো দা গামা ১৪৯৮ চনত মালাবাৰ উপকূলৰ কালিকটত উপনীত হৈছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-031",
+    "q": {
+      "en": "Which report of 1854 laid the foundation of a modern education system in India?",
+      "as": "১৮৫৪ চনৰ কোন প্ৰতিবেদনে ভাৰতত আধুনিক শিক্ষা পদ্ধতিৰ ভিত্তি স্থাপন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Hunter Commission",
+        "as": "হাণ্টাৰ আয়োগ"
+      },
+      {
+        "en": "Wood's Despatch",
+        "as": "ৱুডৰ ডিচপেচ"
+      },
+      {
+        "en": "Sadler Commission",
+        "as": "ছেডলাৰ আয়োগ"
+      },
+      {
+        "en": "Macaulay Minutes",
+        "as": "মেকলেৰ মিনিট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Wood's Despatch of 1854 outlined a comprehensive plan for education in India.",
+      "as": "১৮৫৪ চনৰ ৱুডৰ ডিচপেচে ভাৰতত শিক্ষাৰ বাবে এটা বিস্তৃত পৰিকল্পনা ৰচনা কৰিছিল।"
+    }
+  }
+]

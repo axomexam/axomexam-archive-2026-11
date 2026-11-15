@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-050",
+    "q": {
+      "en": "On which date did the Revolt of 1857 begin at Meerut?",
+      "as": "১৮৫৭ চনৰ বিদ্ৰোহ মিৰাটত কোন তাৰিখে আৰম্ভ হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "29 March 1857",
+        "as": "২৯ মাৰ্চ ১৮৫৭"
+      },
+      {
+        "en": "10 May 1857",
+        "as": "১০ মে' ১৮৫৭"
+      },
+      {
+        "en": "8 April 1857",
+        "as": "৮ এপ্ৰিল ১৮৫৭"
+      },
+      {
+        "en": "15 August 1857",
+        "as": "১৫ আগষ্ট ১৮৫৭"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The revolt broke out at Meerut on 10 May 1857 and soon spread across northern India.",
+      "as": "বিদ্ৰোহ ১৮৫৭ চনৰ ১০ মে'ত মিৰাটত আৰম্ভ হৈ সোনকালেই উত্তৰ ভাৰতজুৰি বিয়পি পৰিছিল।"
+    }
+  }
+]

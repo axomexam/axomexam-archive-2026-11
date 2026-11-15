@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-062",
+    "q": {
+      "en": "Who was the British commander who suppressed the Revolt of 1857 at Delhi?",
+      "as": "দিল্লীত ১৮৫৭ চনৰ বিদ্ৰোহ দমন কৰা ব্ৰিটিছ সেনানায়ক কোন আছিল?"
+    },
+    "options": [
+      {
+        "en": "Henry Lawrence",
+        "as": "হেনৰী লৰেন্স"
+      },
+      {
+        "en": "Colin Campbell",
+        "as": "কলিন কেম্পবেল"
+      },
+      {
+        "en": "Hugh Rose",
+        "as": "হিউ ৰোজ"
+      },
+      {
+        "en": "John Nicholson",
+        "as": "জন নিকলছন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "John Nicholson was a key British officer in the recapture of Delhi in 1857.",
+      "as": "জন নিকলছন ১৮৫৭ চনত দিল্লী পুনৰ দখল কৰাত এজন মূল ব্ৰিটিছ বিষয়া আছিল।"
+    }
+  }
+]

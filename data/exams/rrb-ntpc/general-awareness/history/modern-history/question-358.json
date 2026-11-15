@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-358",
+    "q": {
+      "en": "Which Act of 1858 ended the rule of the East India Company in India?",
+      "as": "কোন ১৮৫৮ চনৰ আইনে ভাৰতত ইষ্ট ইণ্ডিয়া কোম্পানীৰ শাসন অন্ত পেলাইছিল?"
+    },
+    "options": [
+      {
+        "en": "The Regulating Act",
+        "as": "ৰেগুলেটিং আইন"
+      },
+      {
+        "en": "The Charter Act",
+        "as": "চাৰ্টাৰ আইন"
+      },
+      {
+        "en": "The Government of India Act 1858",
+        "as": "১৮৫৮ চনৰ ভাৰত শাসন আইন"
+      },
+      {
+        "en": "The Pitt's India Act",
+        "as": "পিটছ ইণ্ডিয়া আইন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Government of India Act 1858 transferred power from the Company to the British Crown.",
+      "as": "১৮৫৮ চনৰ ভাৰত শাসন আইনে কোম্পানীৰ পৰা ব্ৰিটিছ মুকুটলৈ ক্ষমতা হস্তান্তৰ কৰিছিল।"
+    }
+  }
+]

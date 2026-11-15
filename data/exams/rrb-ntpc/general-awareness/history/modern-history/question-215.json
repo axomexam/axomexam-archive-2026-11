@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-215",
+    "q": {
+      "en": "Which university was founded by Pandit Madan Mohan Malaviya in 1916?",
+      "as": "পণ্ডিত মদন মোহন মালৱীয়ে ১৯১৬ চনত কোন বিশ্ববিদ্যালয় প্ৰতিষ্ঠা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Aligarh Muslim University",
+        "as": "আলিগড় মুছলিম বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "University of Calcutta",
+        "as": "কলিকতা বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "University of Madras",
+        "as": "মাদ্ৰাজ বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "Banaras Hindu University",
+        "as": "বনাৰস হিন্দু বিশ্ববিদ্যালয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Madan Mohan Malaviya founded the Banaras Hindu University in 1916.",
+      "as": "মদন মোহন মালৱীয়ে ১৯১৬ চনত বনাৰস হিন্দু বিশ্ববিদ্যালয় প্ৰতিষ্ঠা কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-374",
+    "q": {
+      "en": "Which Indian leader wrote 'The Economic History of India'?",
+      "as": "কোন ভাৰতীয় নেতাই 'The Economic History of India' লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Dadabhai Naoroji",
+        "as": "দাদাভাই নৌৰজী"
+      },
+      {
+        "en": "R. C. Dutt",
+        "as": "আৰ. চি. দত্ত"
+      },
+      {
+        "en": "Mahatma Gandhi",
+        "as": "মহাত্মা গান্ধী"
+      },
+      {
+        "en": "Jawaharlal Nehru",
+        "as": "জৱাহৰলাল নেহৰু"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "R. C. Dutt wrote 'The Economic History of India', criticising British economic policies.",
+      "as": "আৰ. চি. দত্তই 'The Economic History of India' লিখিছিল, ব্ৰিটিছ অৰ্থনৈতিক নীতিৰ সমালোচনা কৰি।"
+    }
+  }
+]

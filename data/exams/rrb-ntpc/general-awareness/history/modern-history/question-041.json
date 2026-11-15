@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-041",
+    "q": {
+      "en": "Which was the first British presidency in India?",
+      "as": "ভাৰতত প্ৰথম ব্ৰিটিছ প্ৰেচিডেন্সি কোনখন আছিল?"
+    },
+    "options": [
+      {
+        "en": "Bengal",
+        "as": "বংগ"
+      },
+      {
+        "en": "Bombay",
+        "as": "বম্বে"
+      },
+      {
+        "en": "Madras",
+        "as": "মাদ্ৰাজ"
+      },
+      {
+        "en": "Surat",
+        "as": "সুৰাট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Madras was the first British presidency, established in 1652, followed by Bombay and Bengal.",
+      "as": "মাদ্ৰাজ প্ৰথম ব্ৰিটিছ প্ৰেচিডেন্সি আছিল, ১৬৫২ চনত প্ৰতিষ্ঠিত, তাৰ পিছত বম্বে আৰু বংগ আহিছিল।"
+    }
+  }
+]

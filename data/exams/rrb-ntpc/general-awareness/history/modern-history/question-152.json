@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-152",
+    "q": {
+      "en": "Which movement was launched by Gandhi in August 1942?",
+      "as": "গান্ধীয়ে ১৯৪২ চনৰ আগষ্টত কোন আন্দোলন আৰম্ভ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Civil Disobedience movement",
+        "as": "আইন অমান্য আন্দোলন"
+      },
+      {
+        "en": "The Quit India movement",
+        "as": "ভাৰত ত্যাগ আন্দোলন"
+      },
+      {
+        "en": "The Non-Cooperation movement",
+        "as": "অসহযোগ আন্দোলন"
+      },
+      {
+        "en": "The Swadeshi movement",
+        "as": "স্বদেশী আন্দোলন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gandhi launched the Quit India movement in August 1942 demanding an end to British rule.",
+      "as": "গান্ধীয়ে ১৯৪২ চনৰ আগষ্টত ব্ৰিটিছ শাসনৰ অন্তৰ দাবী জনাই ভাৰত ত্যাগ আন্দোলন আৰম্ভ কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-120",
+    "q": {
+      "en": "Which song was composed by Rabindranath Tagore during the anti-partition movement?",
+      "as": "বিভাজন বিৰোধী আন্দোলনৰ সময়ত ৰবীন্দ্ৰনাথ ঠাকুৰে কোন গীত ৰচনা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Amar Sonar Bangla",
+        "as": "আমাৰ সোণাৰ বাংগলা"
+      },
+      {
+        "en": "Vande Mataram",
+        "as": "বন্দে মাতৰম"
+      },
+      {
+        "en": "Jana Gana Mana",
+        "as": "জন গণ মন"
+      },
+      {
+        "en": "Sare Jahan Se Achha",
+        "as": "সাৰে জাহাঁ ছে আচ্ছা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tagore composed 'Amar Sonar Bangla', later the national anthem of Bangladesh, during the movement.",
+      "as": "ঠাকুৰে আন্দোলনৰ সময়ত 'আমাৰ সোণাৰ বাংগলা' ৰচনা কৰিছিল, যি পিছত বাংলাদেশৰ জাতীয় সংগীত হৈছিল।"
+    }
+  }
+]

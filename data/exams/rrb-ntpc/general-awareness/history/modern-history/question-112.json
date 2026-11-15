@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-112",
+    "q": {
+      "en": "Which leader is called 'Lokmanya'?",
+      "as": "কোন নেতাক 'লোকমান্য' বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Gopal Krishna Gokhale",
+        "as": "গোপাল কৃষ্ণ গোখলে"
+      },
+      {
+        "en": "Lala Lajpat Rai",
+        "as": "লালা লাজপত ৰায়"
+      },
+      {
+        "en": "Bal Gangadhar Tilak",
+        "as": "বাল গংগাধৰ টিলক"
+      },
+      {
+        "en": "Bipin Chandra Pal",
+        "as": "বিপিন চন্দ্ৰ পাল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bal Gangadhar Tilak is popularly known as Lokmanya, honoured by the people.",
+      "as": "বাল গংগাধৰ টিলকক জনসাধাৰণৰ দ্বাৰা সন্মানিত লোকমান্য হিচাপে জনপ্ৰিয়ভাৱে জনা যায়।"
+    }
+  }
+]

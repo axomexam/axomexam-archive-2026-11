@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-122",
+    "q": {
+      "en": "Which organisation was founded in 1906 at Dacca as a Muslim political body?",
+      "as": "১৯০৬ চনত ঢাকাত এটা মুছলমান ৰাজনৈতিক সংস্থা হিচাপে কোন সংগঠন প্ৰতিষ্ঠা কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "The Indian National Congress",
+        "as": "ভাৰতীয় জাতীয় কংগ্ৰেছ"
+      },
+      {
+        "en": "The Muslim League",
+        "as": "মুছলিম লীগ"
+      },
+      {
+        "en": "The Hindu Mahasabha",
+        "as": "হিন্দু মহাসভা"
+      },
+      {
+        "en": "The Servants of India Society",
+        "as": "ছাৰ্ভেণ্টছ অৱ ইণ্ডিয়া ছ'চাইটি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "It was at Dacca in 1906 that the All-India Muslim League was brought into being.",
+      "as": "১৯০৬ চনত ঢাকাতে অল-ইণ্ডিয়া মুছলিম লীগ অস্তিত্বলৈ অনা হৈছিল।"
+    }
+  }
+]

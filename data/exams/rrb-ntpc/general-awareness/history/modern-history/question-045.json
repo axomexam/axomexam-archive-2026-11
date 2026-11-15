@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-045",
+    "q": {
+      "en": "Which Act of 1784 established a Board of Control over the East India Company?",
+      "as": "১৭৮৪ চনৰ কোন আইনে ইষ্ট ইণ্ডিয়া কোম্পানীৰ ওপৰত এটা নিয়ন্ত্ৰণ ব'ৰ্ড স্থাপন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Regulating Act",
+        "as": "ৰেগুলেটিং আইন"
+      },
+      {
+        "en": "Pitt's India Act",
+        "as": "পিটছ ইণ্ডিয়া আইন"
+      },
+      {
+        "en": "The Charter Act of 1813",
+        "as": "১৮১৩ চনৰ চাৰ্টাৰ আইন"
+      },
+      {
+        "en": "The Charter Act of 1833",
+        "as": "১৮৩৩ চনৰ চাৰ্টাৰ আইন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Pitt's India Act of 1784 created a Board of Control to supervise the political affairs of the Company.",
+      "as": "১৭৮৪ চনৰ পিটছ ইণ্ডিয়া আইনে কোম্পানীৰ ৰাজনৈতিক কাম-কাজৰ নিৰীক্ষণৰ বাবে এটা নিয়ন্ত্ৰণ ব'ৰ্ড সৃষ্টি কৰিছিল।"
+    }
+  }
+]

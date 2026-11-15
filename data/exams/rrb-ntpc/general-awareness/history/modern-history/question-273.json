@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-273",
+    "q": {
+      "en": "Which Portuguese territory was liberated by India in 1961?",
+      "as": "১৯৬১ চনত ভাৰতে কোন পৰ্তুগীজ অঞ্চল মুক্ত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Pondicherry",
+        "as": "পণ্ডিচেৰী"
+      },
+      {
+        "en": "Goa",
+        "as": "গোৱা"
+      },
+      {
+        "en": "Daman only",
+        "as": "কেৱল দমন"
+      },
+      {
+        "en": "Diu only",
+        "as": "কেৱল দিউ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "India liberated Goa from Portuguese rule in 1961 through Operation Vijay.",
+      "as": "ভাৰতে ১৯৬১ চনত অপাৰেশ্যন বিজয়ৰ জৰিয়তে গোৱাক পৰ্তুগীজ শাসনৰ পৰা মুক্ত কৰিছিল।"
+    }
+  }
+]

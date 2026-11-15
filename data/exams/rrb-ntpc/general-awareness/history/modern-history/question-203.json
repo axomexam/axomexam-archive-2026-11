@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-203",
+    "q": {
+      "en": "Which reformer founded the Arya Samaj in 1875?",
+      "as": "কোন সংস্কাৰকে ১৮৭৫ চনত আৰ্য সমাজ প্ৰতিষ্ঠা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Raja Ram Mohan Roy",
+        "as": "ৰাজা ৰামমোহন ৰায়"
+      },
+      {
+        "en": "Swami Vivekananda",
+        "as": "স্বামী বিবেকানন্দ"
+      },
+      {
+        "en": "Dayanand Saraswati",
+        "as": "দয়ানন্দ সৰস্বতী"
+      },
+      {
+        "en": "Annie Besant",
+        "as": "এনি বেছাণ্ট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Swami Dayanand Saraswati founded the Arya Samaj in 1875, calling for a return to the Vedas.",
+      "as": "স্বামী দয়ানন্দ সৰস্বতীয়ে ১৮৭৫ চনত আৰ্য সমাজ প্ৰতিষ্ঠা কৰিছিল, বেদলৈ উভতি যোৱাৰ আহ্বান জনাই।"
+    }
+  }
+]

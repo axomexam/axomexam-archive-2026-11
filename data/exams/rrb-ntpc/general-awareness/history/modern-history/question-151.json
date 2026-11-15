@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-151",
+    "q": {
+      "en": "How many miles did the Dandi March cover?",
+      "as": "ডাণ্ডি যাত্ৰাই কিমান মাইল অতিক্ৰম কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "About 100 miles",
+        "as": "প্ৰায় ১০০ মাইল"
+      },
+      {
+        "en": "About 240 miles",
+        "as": "প্ৰায় ২৪০ মাইল"
+      },
+      {
+        "en": "About 500 miles",
+        "as": "প্ৰায় ৫০০ মাইল"
+      },
+      {
+        "en": "About 50 miles",
+        "as": "প্ৰায় ৫০ মাইল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Dandi March covered about 240 miles from Sabarmati to Dandi in 24 days.",
+      "as": "ডাণ্ডি যাত্ৰাই সাবৰমতীৰ পৰা ডাণ্ডিলৈ ২৪ দিনত প্ৰায় ২৪০ মাইল অতিক্ৰম কৰিছিল।"
+    }
+  }
+]

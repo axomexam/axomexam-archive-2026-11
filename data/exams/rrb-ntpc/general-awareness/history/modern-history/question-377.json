@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-377",
+    "q": {
+      "en": "Which Indian leader wrote 'Hind Swaraj'?",
+      "as": "কোন ভাৰতীয় নেতাই 'হিন্দ স্বৰাজ' লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Jawaharlal Nehru",
+        "as": "জৱাহৰলাল নেহৰু"
+      },
+      {
+        "en": "Subhas Chandra Bose",
+        "as": "সুভাষ চন্দ্ৰ বসু"
+      },
+      {
+        "en": "Mahatma Gandhi",
+        "as": "মহাত্মা গান্ধী"
+      },
+      {
+        "en": "Abul Kalam Azad",
+        "as": "আবুল কালাম আজাদ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mahatma Gandhi wrote Hind Swaraj in 1909, outlining his ideas on Indian self-rule.",
+      "as": "মহাত্মা গান্ধীয়ে ১৯০৯ চনত হিন্দ স্বৰাজ লিখিছিল, ভাৰতীয় স্ব-শাসনৰ ওপৰত তেওঁৰ ধাৰণা বৰ্ণনা কৰি।"
+    }
+  }
+]

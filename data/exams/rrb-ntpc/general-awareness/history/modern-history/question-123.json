@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-123",
+    "q": {
+      "en": "Which Act of 1909 introduced separate electorates for Muslims?",
+      "as": "১৯০৯ চনৰ কোন আইনে মুছলমানসকলৰ বাবে পৃথক নিৰ্বাচন ক্ষেত্ৰ প্ৰৱৰ্তন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Montagu-Chelmsford Reforms",
+        "as": "মণ্টাগু-চেমছফৰ্ড সংস্কাৰ"
+      },
+      {
+        "en": "The Government of India Act 1919",
+        "as": "১৯১৯ চনৰ ভাৰত শাসন আইন"
+      },
+      {
+        "en": "The Morley-Minto Reforms",
+        "as": "মৰ্লে-মিণ্টো সংস্কাৰ"
+      },
+      {
+        "en": "The Government of India Act 1935",
+        "as": "১৯৩৫ চনৰ ভাৰত শাসন আইন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Indian Councils Act of 1909, known as the Morley-Minto Reforms, introduced separate electorates.",
+      "as": "১৯০৯ চনৰ ভাৰতীয় পৰিষদ আইন, মৰ্লে-মিণ্টো সংস্কাৰ নামেৰে জনাজাত, পৃথক নিৰ্বাচন ক্ষেত্ৰ প্ৰৱৰ্তন কৰিছিল।"
+    }
+  }
+]

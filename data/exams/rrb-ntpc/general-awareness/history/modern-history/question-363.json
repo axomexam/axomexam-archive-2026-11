@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-363",
+    "q": {
+      "en": "Which railway line was the first to be opened in India in 1853?",
+      "as": "ভাৰতত ১৮৫৩ চনত কোন ৰে'লপথ প্ৰথমে মুকলি কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Calcutta to Delhi",
+        "as": "কলিকতাৰ পৰা দিল্লী"
+      },
+      {
+        "en": "Madras to Bangalore",
+        "as": "মাদ্ৰাজৰ পৰা বাংগালুৰু"
+      },
+      {
+        "en": "Delhi to Lahore",
+        "as": "দিল্লীৰ পৰা লাহোৰ"
+      },
+      {
+        "en": "Bombay to Thane",
+        "as": "বম্বেৰ পৰা থানে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The first railway line in India, from Bombay to Thane, was opened in 1853.",
+      "as": "ভাৰতত প্ৰথম ৰে'লপথ, বম্বেৰ পৰা থানেলৈ, ১৮৫৩ চনত মুকলি কৰা হৈছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-007",
+    "q": {
+      "en": "Which Mughal emperor granted the English East India Company a farman for trade in 1613?",
+      "as": "কোন মোগল সম্ৰাটে ১৬১৩ চনত ইংৰাজ ইষ্ট ইণ্ডিয়া কোম্পানীক বাণিজ্যৰ ফৰমান দিছিল?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "আওৰংজেব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jahangir granted a farman in 1613 allowing the English to trade at Surat.",
+      "as": "জাহাংগীৰে ১৬১৩ চনত এটা ফৰমান দি ইংৰাজসকলক সুৰাটত বাণিজ্য কৰিবলৈ অনুমতি দিছিল।"
+    }
+  }
+]

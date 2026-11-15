@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-376",
+    "q": {
+      "en": "Which Indian leader wrote 'Discovery of India'?",
+      "as": "কোন ভাৰতীয় নেতাই 'Discovery of India' লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Mahatma Gandhi",
+        "as": "মহাত্মা গান্ধী"
+      },
+      {
+        "en": "Jawaharlal Nehru",
+        "as": "জৱাহৰলাল নেহৰু"
+      },
+      {
+        "en": "Abul Kalam Azad",
+        "as": "আবুল কালাম আজাদ"
+      },
+      {
+        "en": "Sardar Patel",
+        "as": "সৰদাৰ পেটেল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Jawaharlal Nehru wrote 'The Discovery of India' while imprisoned at Ahmednagar Fort.",
+      "as": "জৱাহৰলাল নেহৰুৱে আহমদনগৰ দুৰ্গত বন্দী থকাৰ সময়ত 'The Discovery of India' লিখিছিল।"
+    }
+  }
+]

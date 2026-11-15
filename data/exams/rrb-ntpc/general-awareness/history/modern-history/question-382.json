@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-382",
+    "q": {
+      "en": "Which leader was the first Indian woman to become president of the Congress?",
+      "as": "কংগ্ৰেছৰ সভাপতি হোৱা প্ৰথম ভাৰতীয় মহিলা কোন আছিল?"
+    },
+    "options": [
+      {
+        "en": "Annie Besant",
+        "as": "এনি বেছাণ্ট"
+      },
+      {
+        "en": "Vijaya Lakshmi Pandit",
+        "as": "বিজয়া লক্ষ্মী পণ্ডিত"
+      },
+      {
+        "en": "Kamala Nehru",
+        "as": "কমলা নেহৰু"
+      },
+      {
+        "en": "Sarojini Naidu",
+        "as": "সৰোজিনী নাইডু"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sarojini Naidu was the first Indian woman president of the Congress, presiding in 1925.",
+      "as": "সৰোজিনী নাইডু কংগ্ৰেছৰ প্ৰথম ভাৰতীয় মহিলা সভাপতি আছিল, ১৯২৫ চনত সভাপতিত্ব কৰি।"
+    }
+  }
+]

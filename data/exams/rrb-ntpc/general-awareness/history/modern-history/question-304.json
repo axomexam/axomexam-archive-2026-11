@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-304",
+    "q": {
+      "en": "Who was the Viceroy associated with the Morley-Minto Reforms?",
+      "as": "মৰ্লে-মিণ্টো সংস্কাৰৰ সৈতে কোন ভাইচৰয় জড়িত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Lord Curzon",
+        "as": "লৰ্ড কাৰ্জন"
+      },
+      {
+        "en": "Lord Minto",
+        "as": "লৰ্ড মিণ্টো"
+      },
+      {
+        "en": "Lord Hardinge",
+        "as": "লৰ্ড হাৰ্ডিং"
+      },
+      {
+        "en": "Lord Ripon",
+        "as": "লৰ্ড ৰিপন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Lord Minto, with Secretary of State Morley, gave his name to the reforms of 1909.",
+      "as": "লৰ্ড মিণ্টো, ৰাজ্য সচিব মৰ্লেৰ সৈতে, ১৯০৯ চনৰ সংস্কাৰলৈ তেওঁৰ নাম দিছিল।"
+    }
+  }
+]

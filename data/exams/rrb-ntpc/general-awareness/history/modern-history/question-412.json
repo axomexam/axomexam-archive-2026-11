@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-412",
+    "q": {
+      "en": "Which Governor General is associated with the opening of the first railway line in India?",
+      "as": "ভাৰতত প্ৰথম ৰে'লপথ মুকলিৰ সৈতে কোন গৱৰ্ণৰ জেনেৰেল জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Lord Ripon",
+        "as": "লৰ্ড ৰিপন"
+      },
+      {
+        "en": "Lord Curzon",
+        "as": "লৰ্ড কাৰ্জন"
+      },
+      {
+        "en": "Lord Dalhousie",
+        "as": "লৰ্ড ডালহাউছি"
+      },
+      {
+        "en": "Lord Canning",
+        "as": "লৰ্ড কেনিং"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The first railway line was opened in 1853 during Lord Dalhousie's tenure.",
+      "as": "প্ৰথম ৰে'লপথ ১৮৫৩ চনত লৰ্ড ডালহাউছিৰ কাৰ্যকালত মুকলি কৰা হৈছিল।"
+    }
+  }
+]

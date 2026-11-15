@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-245",
+    "q": {
+      "en": "Which university was founded by Dhondo Keshav Karve for women?",
+      "as": "ধোণ্ডো কেশৱ কৰ্ৱে মহিলাৰ বাবে কোন বিশ্ববিদ্যালয় প্ৰতিষ্ঠা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Banaras Hindu University",
+        "as": "বনাৰস হিন্দু বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "Aligarh Muslim University",
+        "as": "আলিগড় মুছলিম বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "SNDT Women's University",
+        "as": "এছএনডিটি মহিলা বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "University of Delhi",
+        "as": "দিল্লী বিশ্ববিদ্যালয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Dhondo Keshav Karve founded the SNDT Women's University, the first women's university in India.",
+      "as": "ধোণ্ডো কেশৱ কৰ্ৱে এছএনডিটি মহিলা বিশ্ববিদ্যালয় প্ৰতিষ্ঠা কৰিছিল, ভাৰতৰ প্ৰথম মহিলা বিশ্ববিদ্যালয়।"
+    }
+  }
+]

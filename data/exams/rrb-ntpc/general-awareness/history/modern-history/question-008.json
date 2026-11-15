@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-008",
+    "q": {
+      "en": "Which English company was formed in 1600 by a royal charter of Queen Elizabeth I?",
+      "as": "ৰাণী এলিজাবেথ প্ৰথমৰ ৰাজকীয় সনদেৰে ১৬০০ চনত কোন ইংৰাজ কোম্পানী গঠন হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "The East India Company",
+        "as": "ইষ্ট ইণ্ডিয়া কোম্পানী"
+      },
+      {
+        "en": "The Levant Company",
+        "as": "লেভাণ্ট কোম্পানী"
+      },
+      {
+        "en": "The Virginia Company",
+        "as": "ভাৰ্জিনিয়া কোম্পানী"
+      },
+      {
+        "en": "The Royal African Company",
+        "as": "ৰয়েল আফ্ৰিকান কোম্পানী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Queen Elizabeth I granted a charter in 1600 creating the English East India Company.",
+      "as": "ৰাণী এলিজাবেথ প্ৰথমে ১৬০০ চনত এটা সনদ দি ইংৰাজ ইষ্ট ইণ্ডিয়া কোম্পানী সৃষ্টি কৰিছিল।"
+    }
+  }
+]

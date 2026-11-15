@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-040",
+    "q": {
+      "en": "Which governor general abolished the system of double government in Bengal in 1772?",
+      "as": "কোন গৱৰ্ণৰ জেনেৰেলে ১৭৭২ চনত বংগত দ্বৈত শাসন প্ৰথা বিলুপ্ত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Lord Cornwallis",
+        "as": "লৰ্ড কৰ্নৱালিছ"
+      },
+      {
+        "en": "Lord Wellesley",
+        "as": "লৰ্ড ৱেলেছলি"
+      },
+      {
+        "en": "Lord Dalhousie",
+        "as": "লৰ্ড ডালহাউছি"
+      },
+      {
+        "en": "Warren Hastings",
+        "as": "ৱাৰেন হেষ্টিংছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Warren Hastings abolished the dual government of Bengal in 1772 and brought the treasury to Calcutta.",
+      "as": "ৱাৰেন হেষ্টিংছে ১৭৭২ চনত বংগৰ দ্বৈত শাসন বিলুপ্ত কৰি ভঁৰাল কলিকতালৈ আনিছিল।"
+    }
+  }
+]

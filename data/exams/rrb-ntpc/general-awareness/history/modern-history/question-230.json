@@ -1,0 +1,32 @@
+[
+  {
+    "id": "modern-history-230",
+    "q": {
+      "en": "Who was the first Indian to be honoured with a Nobel Prize?",
+      "as": "ন'বেল বঁটাৰে সন্মানিত প্ৰথম ভাৰতীয় কোন আছিল?"
+    },
+    "options": [
+      {
+        "en": "C. V. Raman",
+        "as": "চি. ভি. ৰমন"
+      },
+      {
+        "en": "Mother Teresa",
+        "as": "মাদাৰ টেৰেছা"
+      },
+      {
+        "en": "Amartya Sen",
+        "as": "অমৰ্ত্য সেন"
+      },
+      {
+        "en": "Rabindranath Tagore",
+        "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Rabindranath Tagore was the first Indian to win a Nobel Prize, in Literature in 1913.",
+      "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ ১৯১৩ চনত সাহিত্যত ন'বেল বঁটা লাভ কৰা প্ৰথম ভাৰতীয় আছিল।"
+    }
+  }
+]
