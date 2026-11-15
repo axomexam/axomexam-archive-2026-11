@@ -73,18 +73,25 @@ they outrank any cleanup, refactor or "nice to have" an agent might want to do.
   correct stays the same option, only its position changes. Check with
   `node tools/balance-answer-keys.js --book <book> --topic <topic> --check`,
   which must report 0 skewed topics (no slot holding >=50% of a topic's keys).
-- **Deduplicate by meaning, not just exact text.** A new MCQ bank must not
-  repeat a question that already exists anywhere in `data/`. An exact string
-  match is not enough: the repo already holds ~95k stems and explanations, so
-  the same fact is often asked with slightly different wording (e.g. a new
-  "In which year was the Food Corporation of India established?" against an
-  existing "In which year was the Food Corporation of India (FCI)
-  established?"). Before committing a bank, run a fuzzy check of every new
-  stem and explanation (English and Assamese, case- and punctuation-folded)
-  against all other question text in `data/` — `difflib.SequenceMatcher` with
-  a ~0.90 ratio is a good threshold — and reword or replace every hit. When a
-  reworded fact still collides (the obvious facts are already used up), pick a
-  genuinely different fact rather than paraphrasing. Aim for 0 hits.
+- **Deduplicate by meaning, not just exact text — and never repeat wording.**
+  The same fact is often needed in more than one book: an exam-specific bank
+  (say RRB NTPC) and a state or general-knowledge bank may both legitimately
+  need "the capital of Assam" or "the first oil well in Asia". Having that fact
+  in two books is allowed — but writing it the same way twice is not, because
+  the site then carries duplicate content. So whenever a question is reused
+  across books, reword (ghuma-phirake) the stem, the options and the
+  explanation so each instance reads differently; a reader must never meet two
+  identical questions. An exact string match is not enough to check this: the
+  repo already holds ~95k stems and explanations, so the same fact is often
+  asked with slightly different wording (e.g. a new "In which year was the Food
+  Corporation of India established?" against an existing "In which year was the
+  Food Corporation of India (FCI) established?"). Before committing a bank, run
+  a fuzzy check of every new stem and explanation (English and Assamese, case-
+  and punctuation-folded) against all other question text in `data/` —
+  `difflib.SequenceMatcher` with a ~0.90 ratio is a good threshold — and reword
+  every hit until the count is 0. Do not drop a fact that a book genuinely
+  needs; phrase it differently instead. This is a standing rule: do not
+  re-introduce near-duplicate stems or explanations in any future bank.
 - **Verify before shipping.** Run `node tools/seo-audit.js` and confirm
   `thin (<300w): 0`, `missing H1/desc/canonical/JSON-LD: 0`, and the duplicate
   counts above, then check the live URLs return 200 after the Pages build.
