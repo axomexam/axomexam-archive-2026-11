@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-278",
+    "q": {
+      "en": "What is the sex ratio in India?",
+      "as": "ভাৰতত লিংগ অনুপাত কি?"
+    },
+    "options": [
+      {
+        "en": "The number of males per thousand females",
+        "as": "প্ৰতি হাজাৰ মহিলাত পুৰুষৰ সংখ্যা"
+      },
+      {
+        "en": "The number of females per thousand males",
+        "as": "প্ৰতি হাজাৰ পুৰুষত মহিলাৰ সংখ্যা"
+      },
+      {
+        "en": "The number of children per family",
+        "as": "প্ৰতি পৰিয়ালত সন্তানৰ সংখ্যা"
+      },
+      {
+        "en": "The number of workers per household",
+        "as": "প্ৰতি পৰিয়ালত কৰ্মীৰ সংখ্যা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The sex ratio is the number of females per thousand males in the population.",
+      "as": "লিংগ অনুপাত হ'ল জনসংখ্যাত প্ৰতি হাজাৰ পুৰুষত মহিলাৰ সংখ্যা।"
+    }
+  }
+]

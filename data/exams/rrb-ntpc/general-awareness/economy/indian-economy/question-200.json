@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-200",
+    "q": {
+      "en": "Which type of agriculture involves the growing of crops and rearing of animals together?",
+      "as": "কোন প্ৰকাৰৰ কৃষিত শস্য উৎপাদন আৰু পশুপালন একেলগে কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Plantation farming",
+        "as": "উদ্যান কৃষি"
+      },
+      {
+        "en": "Mixed farming",
+        "as": "মিশ্ৰ কৃষি"
+      },
+      {
+        "en": "Subsistence farming",
+        "as": "জীৱিকা কৃষি"
+      },
+      {
+        "en": "Dry farming",
+        "as": "শুকান কৃষি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mixed farming combines crop cultivation with livestock rearing.",
+      "as": "মিশ্ৰ কৃষিয়ে শস্য খেতিৰ সৈতে পশুধন পালন সংযুক্ত কৰে।"
+    }
+  }
+]

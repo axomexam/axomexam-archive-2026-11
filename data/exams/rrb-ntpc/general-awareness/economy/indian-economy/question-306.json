@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-306",
+    "q": {
+      "en": "What is the balance of trade?",
+      "as": "বাণিজ্যৰ ভাৰসাম্য কি?"
+    },
+    "options": [
+      {
+        "en": "The difference between income and expenditure",
+        "as": "আয় আৰু ব্যয়ৰ মাজৰ পাৰ্থক্য"
+      },
+      {
+        "en": "The difference between savings and investment",
+        "as": "সঞ্চয় আৰু বিনিয়োগৰ মাজৰ পাৰ্থক্য"
+      },
+      {
+        "en": "The difference between revenue and capital receipts",
+        "as": "ৰাজহ আৰু মূলধন প্ৰাপ্তিৰ মাজৰ পাৰ্থক্য"
+      },
+      {
+        "en": "The difference between a country's exports and imports of goods",
+        "as": "এখন দেশৰ সামগ্ৰীৰ ৰপ্তানি আৰু আমদানিৰ মাজৰ পাৰ্থক্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The balance of trade is the difference between the value of a country's goods exports and imports.",
+      "as": "বাণিজ্যৰ ভাৰসাম্য হ'ল এখন দেশৰ সামগ্ৰী ৰপ্তানি আৰু আমদানিৰ মূল্যৰ মাজৰ পাৰ্থক্য।"
+    }
+  }
+]

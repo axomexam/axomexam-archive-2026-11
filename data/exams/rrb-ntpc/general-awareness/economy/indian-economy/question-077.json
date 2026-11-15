@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-077",
+    "q": {
+      "en": "Which type of planning provides only broad guidelines and relies on market incentives?",
+      "as": "কোন প্ৰকাৰৰ পৰিকল্পনাই কেৱল প্ৰশস্ত পথনিৰ্দেশনা দিয়ে আৰু বজাৰ উৎসাহৰ ওপৰত নিৰ্ভৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Imperative planning",
+        "as": "আদেশমূলক পৰিকল্পনা"
+      },
+      {
+        "en": "Command planning",
+        "as": "আদেশ পৰিকল্পনা"
+      },
+      {
+        "en": "Centralised planning",
+        "as": "কেন্দ্ৰীভূত পৰিকল্পনা"
+      },
+      {
+        "en": "Indicative planning",
+        "as": "নিৰ্দেশমূলক পৰিকল্পনা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Indicative planning, used in India after liberalisation, sets targets and leaves implementation to markets.",
+      "as": "উদাৰীকৰণৰ পিছত ভাৰতত ব্যৱহৃত নিৰ্দেশমূলক পৰিকল্পনাই লক্ষ্য নিৰ্ধাৰণ কৰে আৰু ৰূপায়ণ বজাৰৰ হাতত এৰি দিয়ে।"
+    }
+  }
+]

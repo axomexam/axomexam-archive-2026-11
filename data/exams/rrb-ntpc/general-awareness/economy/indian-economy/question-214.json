@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-214",
+    "q": {
+      "en": "Which industry is known as a 'sunrise industry' in India?",
+      "as": "ভাৰতত কোন উদ্যোগক 'সূৰ্যোদয় উদ্যোগ' হিচাপে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The jute industry",
+        "as": "পাট উদ্যোগ"
+      },
+      {
+        "en": "The information technology industry",
+        "as": "তথ্য প্ৰযুক্তি উদ্যোগ"
+      },
+      {
+        "en": "The sugar industry",
+        "as": "চেনি উদ্যোগ"
+      },
+      {
+        "en": "The cement industry",
+        "as": "চিমেণ্ট উদ্যোগ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The information technology and software industry is called a sunrise industry for its rapid growth.",
+      "as": "তথ্য প্ৰযুক্তি আৰু চফ্টৱেৰ উদ্যোগক ইয়াৰ দ্ৰুত বৃদ্ধিৰ বাবে সূৰ্যোদয় উদ্যোগ বোলা হয়।"
+    }
+  }
+]

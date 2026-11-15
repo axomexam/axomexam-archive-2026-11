@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-307",
+    "q": {
+      "en": "What does the current account of the balance of payments include?",
+      "as": "লেনদেনৰ ভাৰসাম্যৰ চলিত একাউণ্টত কি অন্তৰ্ভুক্ত?"
+    },
+    "options": [
+      {
+        "en": "Trade in goods and services, and transfers",
+        "as": "সামগ্ৰী আৰু সেৱাৰ বাণিজ্য, আৰু হস্তান্তৰ"
+      },
+      {
+        "en": "Only foreign direct investment",
+        "as": "কেৱল বিদেশী প্ৰত্যক্ষ বিনিয়োগ"
+      },
+      {
+        "en": "Only portfolio investment",
+        "as": "কেৱল পৰ্টফলিঅ' বিনিয়োগ"
+      },
+      {
+        "en": "Only external borrowing",
+        "as": "কেৱল বৈদেশিক ঋণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The current account covers trade in goods and services, income and unilateral transfers.",
+      "as": "চলিত একাউণ্টে সামগ্ৰী আৰু সেৱাৰ বাণিজ্য, আয় আৰু একপক্ষীয় হস্তান্তৰ সামৰে।"
+    }
+  }
+]

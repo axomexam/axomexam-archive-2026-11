@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-150",
+    "q": {
+      "en": "Which bill is passed to give effect to the tax proposals in the budget?",
+      "as": "বাজেটৰ কৰ প্ৰস্তাৱসমূহ কাৰ্যকৰী কৰিবলৈ কোন বিধেয়ক গৃহীত কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "The Finance Bill",
+        "as": "বিত্ত বিধেয়ক"
+      },
+      {
+        "en": "The Appropriation Bill",
+        "as": "বিনিয়োগ বিধেয়ক"
+      },
+      {
+        "en": "The Money Bill",
+        "as": "ধন বিধেয়ক"
+      },
+      {
+        "en": "The Constitution Amendment Bill",
+        "as": "সংবিধান সংশোধনী বিধেয়ক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Finance Bill contains the tax proposals and is passed to give them legal effect.",
+      "as": "বিত্ত বিধেয়কত কৰ প্ৰস্তাৱসমূহ থাকে আৰু সিহঁতক আইনী কাৰ্যকৰিতা দিবলৈ গৃহীত কৰা হয়।"
+    }
+  }
+]

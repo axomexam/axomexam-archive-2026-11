@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-337",
+    "q": {
+      "en": "Which policy restricts imports to protect domestic industries?",
+      "as": "কোন নীতিয়ে ঘৰুৱা উদ্যোগ ৰক্ষাৰ বাবে আমদানি সীমিত কৰে?"
+    },
+    "options": [
+      {
+        "en": "The free trade policy",
+        "as": "মুক্ত বাণিজ্য নীতি"
+      },
+      {
+        "en": "The liberalisation policy",
+        "as": "উদাৰীকৰণ নীতি"
+      },
+      {
+        "en": "The globalisation policy",
+        "as": "জগতীকৰণ নীতি"
+      },
+      {
+        "en": "The protectionist policy",
+        "as": "সংৰক্ষণবাদী নীতি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Protectionism restricts imports through tariffs and quotas to shield domestic industries.",
+      "as": "সংৰক্ষণবাদে ঘৰুৱা উদ্যোগ ৰক্ষা কৰিবলৈ শুল্ক আৰু কোটাৰ জৰিয়তে আমদানি সীমিত কৰে।"
+    }
+  }
+]

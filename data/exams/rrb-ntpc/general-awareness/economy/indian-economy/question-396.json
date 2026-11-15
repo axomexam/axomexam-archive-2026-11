@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-396",
+    "q": {
+      "en": "What is the main objective of the government's fiscal policy?",
+      "as": "চৰকাৰৰ বিত্ত নীতিৰ প্ৰধান উদ্দেশ্য কি?"
+    },
+    "options": [
+      {
+        "en": "To issue currency notes",
+        "as": "মুদ্ৰা নোট জাৰি কৰা"
+      },
+      {
+        "en": "To fix interest rates",
+        "as": "সুত হাৰ নিৰ্ধাৰণ কৰা"
+      },
+      {
+        "en": "To manage taxation and public spending to influence the economy",
+        "as": "অৰ্থনীতিক প্ৰভাৱিত কৰিবলৈ কৰ আৰু ৰাজহুৱা ব্যয় পৰিচালনা কৰা"
+      },
+      {
+        "en": "To regulate stock markets",
+        "as": "শ্বেয়াৰ বজাৰ নিয়ন্ত্ৰণ কৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Fiscal policy uses taxation and government spending to influence economic activity.",
+      "as": "বিত্ত নীতিয়ে অৰ্থনৈতিক কাৰ্য্যকলাপ প্ৰভাৱিত কৰিবলৈ কৰ আৰু চৰকাৰী ব্যয় ব্যৱহাৰ কৰে।"
+    }
+  }
+]

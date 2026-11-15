@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-068",
+    "q": {
+      "en": "Which body approves India's Five Year Plans?",
+      "as": "ভাৰতৰ পঞ্চবাৰ্ষিক পৰিকল্পনা কোন সংস্থাই অনুমোদন কৰে?"
+    },
+    "options": [
+      {
+        "en": "The Finance Commission",
+        "as": "বিত্ত আয়োগ"
+      },
+      {
+        "en": "The Planning Commission",
+        "as": "পৰিকল্পনা আয়োগ"
+      },
+      {
+        "en": "The Reserve Bank",
+        "as": "ৰিজাৰ্ভ বেংক"
+      },
+      {
+        "en": "The National Development Council",
+        "as": "ৰাষ্ট্ৰীয় উন্নয়ন পৰিষদ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The National Development Council, chaired by the Prime Minister, gave final approval to the Plans.",
+      "as": "প্ৰধানমন্ত্ৰীৰ অধ্যক্ষতাত ৰাষ্ট্ৰীয় উন্নয়ন পৰিষদে পৰিকল্পনাসমূহক চূড়ান্ত অনুমোদন দিছিল।"
+    }
+  }
+]

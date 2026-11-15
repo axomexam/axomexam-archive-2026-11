@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-121",
+    "q": {
+      "en": "Which Article of the Indian Constitution deals with the Annual Financial Statement or budget?",
+      "as": "ভাৰতীয় সংবিধানৰ কোন অনুচ্ছেদে বাৰ্ষিক বিত্তীয় বিবৃতি বা বাজেটৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Article 110",
+        "as": "অনুচ্ছেদ ১১০"
+      },
+      {
+        "en": "Article 266",
+        "as": "অনুচ্ছেদ ২৬৬"
+      },
+      {
+        "en": "Article 112",
+        "as": "অনুচ্ছেদ ১১২"
+      },
+      {
+        "en": "Article 280",
+        "as": "অনুচ্ছেদ ২৮০"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Article 112 of the Constitution provides for the Annual Financial Statement, popularly called the budget.",
+      "as": "সংবিধানৰ অনুচ্ছেদ ১১২ই বাৰ্ষিক বিত্তীয় বিবৃতিৰ ব্যৱস্থা কৰে, জনপ্ৰিয়ভাৱে বাজেট বুলি কোৱা হয়।"
+    }
+  }
+]

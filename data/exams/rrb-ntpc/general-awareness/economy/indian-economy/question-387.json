@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-387",
+    "q": {
+      "en": "Which organisation regulates the pension sector in India?",
+      "as": "ভাৰতত পেন্সন খণ্ড কোন সংস্থাই নিয়ন্ত্ৰণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "The RBI",
+        "as": "আৰ.বি.আই."
+      },
+      {
+        "en": "The SEBI",
+        "as": "ছেবি"
+      },
+      {
+        "en": "The Pension Fund Regulatory and Development Authority",
+        "as": "পেন্সন নিধি নিয়ন্ত্ৰণ আৰু উন্নয়ন প্ৰাধিকৰণ"
+      },
+      {
+        "en": "The IRDAI",
+        "as": "আইআৰডিএআই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "PFRDA regulates and develops the pension sector in India, including the National Pension System.",
+      "as": "পিএফআৰডিএই ভাৰতত পেন্সন খণ্ড নিয়ন্ত্ৰণ আৰু বিকশিত কৰে, ৰাষ্ট্ৰীয় পেন্সন প্ৰণালীকে ধৰি।"
+    }
+  }
+]

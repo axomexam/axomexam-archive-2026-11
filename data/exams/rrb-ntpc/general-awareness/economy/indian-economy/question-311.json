@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-311",
+    "q": {
+      "en": "What is meant by devaluation of a currency?",
+      "as": "মুদ্ৰাৰ অৱমূল্যায়নই কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "A rise in the currency's value",
+        "as": "মুদ্ৰাৰ মূল্যৰ বৃদ্ধি"
+      },
+      {
+        "en": "A change in interest rates",
+        "as": "সুত হাৰত পৰিৱৰ্তন"
+      },
+      {
+        "en": "A change in the money supply",
+        "as": "ধন যোগানত পৰিৱৰ্তন"
+      },
+      {
+        "en": "A deliberate lowering of the currency's value by the government",
+        "as": "চৰকাৰে মুদ্ৰাৰ মূল্য ইচ্ছাকৃতভাৱে কম কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Devaluation is a deliberate reduction in the value of a currency relative to other currencies.",
+      "as": "অৱমূল্যায়ন হ'ল অন্য মুদ্ৰাৰ তুলনাত এটা মুদ্ৰাৰ মূল্য ইচ্ছাকৃতভাৱে হ্ৰাস কৰা।"
+    }
+  }
+]

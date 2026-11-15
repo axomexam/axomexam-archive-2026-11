@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-310",
+    "q": {
+      "en": "Which currency is mainly used as a global reserve currency?",
+      "as": "কোন মুদ্ৰা মূলত বিশ্ব সংৰক্ষিত মুদ্ৰা হিচাপে ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "The Indian rupee",
+        "as": "ভাৰতীয় ৰুপী"
+      },
+      {
+        "en": "The US dollar",
+        "as": "আমেৰিকান ডলাৰ"
+      },
+      {
+        "en": "The Japanese yen",
+        "as": "জাপানী য়েন"
+      },
+      {
+        "en": "The Chinese yuan",
+        "as": "চীনা য়ুৱান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The US dollar is the most widely held global reserve currency.",
+      "as": "আমেৰিকান ডলাৰ আটাইতকৈ বেছি ৰখা বিশ্ব সংৰক্ষিত মুদ্ৰা।"
+    }
+  }
+]

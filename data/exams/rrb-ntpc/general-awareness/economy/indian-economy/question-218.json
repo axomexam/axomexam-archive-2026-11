@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-218",
+    "q": {
+      "en": "Which organisation is the largest oil and gas producer in India?",
+      "as": "ভাৰতত আটাইতকৈ ডাঙৰ তেল আৰু গেছ উৎপাদক সংস্থা কোন?"
+    },
+    "options": [
+      {
+        "en": "The Indian Oil Corporation",
+        "as": "ভাৰতীয় তেল নিগম"
+      },
+      {
+        "en": "The Oil and Natural Gas Corporation",
+        "as": "তেল আৰু প্ৰাকৃতিক গেছ নিগম"
+      },
+      {
+        "en": "The Bharat Petroleum",
+        "as": "ভাৰত পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "The Hindustan Petroleum",
+        "as": "হিন্দুস্তান পেট্ৰ'লিয়াম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Oil and Natural Gas Corporation is India's largest oil and gas exploration and production company.",
+      "as": "তেল আৰু প্ৰাকৃতিক গেছ নিগম ভাৰতৰ আটাইতকৈ ডাঙৰ তেল আৰু গেছ অন্বেষণ আৰু উৎপাদন কোম্পানী।"
+    }
+  }
+]

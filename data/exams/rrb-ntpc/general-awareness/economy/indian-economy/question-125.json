@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-125",
+    "q": {
+      "en": "Which deficit measures the gap between revenue expenditure and revenue receipts?",
+      "as": "কোন ঘাটিয়ে ৰাজহ ব্যয় আৰু ৰাজহ প্ৰাপ্তিৰ মাজৰ ব্যৱধান জোখে?"
+    },
+    "options": [
+      {
+        "en": "The excess of total expenditure over total receipts",
+        "as": "মুঠ ৰাজহৰ ওপৰত মুঠ ব্যয়ৰ অধিক্য"
+      },
+      {
+        "en": "The excess of capital expenditure over capital receipts",
+        "as": "মূলধন প্ৰাপ্তিৰ ওপৰত মূলধন ব্যয়ৰ অধিক্য"
+      },
+      {
+        "en": "The excess of exports over imports",
+        "as": "আমদানিৰ ওপৰত ৰপ্তানিৰ অধিক্য"
+      },
+      {
+        "en": "The excess of revenue expenditure over revenue receipts",
+        "as": "ৰাজহ প্ৰাপ্তিৰ ওপৰত ৰাজহ ব্যয়ৰ অধিক্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Revenue deficit is the excess of revenue expenditure over revenue receipts, indicating dissaving.",
+      "as": "ৰাজহ ঘাটি হ'ল ৰাজহ প্ৰাপ্তিৰ ওপৰত ৰাজহ ব্যয়ৰ অধিক্য, অপসঞ্চয় সূচাই।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-040",
+    "q": {
+      "en": "Which term describes a situation where a large part of the workforce is underemployed?",
+      "as": "কোন শব্দই এনে পৰিস্থিতি বৰ্ণনা কৰে য'ত শ্ৰমশক্তিৰ এটা বৃহৎ অংশ অলপ নিয়োজিত?"
+    },
+    "options": [
+      {
+        "en": "Cyclical unemployment",
+        "as": "চক্ৰীয় বেকাৰত্ব"
+      },
+      {
+        "en": "Structural unemployment",
+        "as": "গাঁথনিগত বেকাৰত্ব"
+      },
+      {
+        "en": "Disguised unemployment",
+        "as": "প্ৰচ্ছন্ন বেকাৰত্ব"
+      },
+      {
+        "en": "Frictional unemployment",
+        "as": "ঘৰ্ষণমূলক বেকাৰত্ব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Disguised unemployment occurs when more people work on a job than are actually needed, common in Indian agriculture.",
+      "as": "প্ৰচ্ছন্ন বেকাৰত্ব তেতিয়া ঘটে যেতিয়া এটা কামত প্ৰকৃততে প্ৰয়োজনীয়তকৈ অধিক লোকে কাম কৰে, ভাৰতীয় কৃষিত সাধাৰণ।"
+    }
+  }
+]

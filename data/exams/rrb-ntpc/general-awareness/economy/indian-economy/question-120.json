@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-120",
+    "q": {
+      "en": "Which document presents the government's estimated receipts and expenditure for a financial year?",
+      "as": "কোন নথিয়ে এটা বিত্তীয় বছৰৰ বাবে চৰকাৰৰ অনুমিত ৰাজহ আৰু ব্যয় উপস্থাপন কৰে?"
+    },
+    "options": [
+      {
+        "en": "The Economic Survey",
+        "as": "অৰ্থনৈতিক সমীক্ষা"
+      },
+      {
+        "en": "The Finance Bill",
+        "as": "বিত্ত বিধেয়ক"
+      },
+      {
+        "en": "The Monetary Policy Report",
+        "as": "মুদ্ৰা নীতি প্ৰতিবেদন"
+      },
+      {
+        "en": "The Union Budget",
+        "as": "সংঘ বাজেট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Union Budget presents the government's estimated receipts and expenditure for the coming financial year.",
+      "as": "সংঘ বাজেটে আগন্তুক বিত্তীয় বছৰৰ বাবে চৰকাৰৰ অনুমিত ৰাজহ আৰু ব্যয় উপস্থাপন কৰে।"
+    }
+  }
+]

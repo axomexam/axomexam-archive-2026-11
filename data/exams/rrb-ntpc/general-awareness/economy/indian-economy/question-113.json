@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-113",
+    "q": {
+      "en": "What is the main objective of the RBI's monetary policy?",
+      "as": "আৰ.বি.আই.ৰ মুদ্ৰা নীতিৰ প্ৰধান উদ্দেশ্য কি?"
+    },
+    "options": [
+      {
+        "en": "To collect taxes for the government",
+        "as": "চৰকাৰৰ বাবে কৰ সংগ্ৰহ কৰা"
+      },
+      {
+        "en": "To maintain price stability and ensure adequate credit",
+        "as": "মূল্য স্থিৰতা ৰক্ষা কৰা আৰু পৰ্যাপ্ত ঋণ সুনিশ্চিত কৰা"
+      },
+      {
+        "en": "To run public sector banks",
+        "as": "ৰাজহুৱা খণ্ডৰ বেংক চলোৱা"
+      },
+      {
+        "en": "To print currency notes only",
+        "as": "কেৱল মুদ্ৰা নোট ছপা কৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The RBI's monetary policy aims at price stability while ensuring adequate credit to productive sectors.",
+      "as": "আৰ.বি.আই.ৰ মুদ্ৰা নীতিয়ে উৎপাদনশীল খণ্ডলৈ পৰ্যাপ্ত ঋণ সুনিশ্চিত কৰি মূল্য স্থিৰতাৰ লক্ষ্য ৰাখে।"
+    }
+  }
+]

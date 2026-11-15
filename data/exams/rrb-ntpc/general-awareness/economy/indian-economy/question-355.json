@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-355",
+    "q": {
+      "en": "What is meant by the term 'recession' in an economy?",
+      "as": "এখন অৰ্থনীতিত 'মন্দা' শব্দটোৱে কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "A rise in economic growth",
+        "as": "অৰ্থনৈতিক বৃদ্ধিৰ উত্থান"
+      },
+      {
+        "en": "A significant decline in economic activity over a period",
+        "as": "এটা সময়ত অৰ্থনৈতিক কাৰ্য্যকলাপৰ উল্লেখযোগ্য হ্ৰাস"
+      },
+      {
+        "en": "A rise in employment",
+        "as": "নিয়োগৰ উত্থান"
+      },
+      {
+        "en": "A fall in prices only",
+        "as": "কেৱল মূল্যৰ হ্ৰাস"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A recession is a significant decline in economic activity lasting more than a few months.",
+      "as": "মন্দা হ'ল কেইমাহতকৈ বেছি সময় ধৰি চলা অৰ্থনৈতিক কাৰ্য্যকলাপৰ উল্লেখযোগ্য হ্ৰাস।"
+    }
+  }
+]

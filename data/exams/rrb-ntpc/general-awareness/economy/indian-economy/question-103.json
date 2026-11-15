@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-103",
+    "q": {
+      "en": "Which rate is the rate at which the RBI lends long-term funds to banks?",
+      "as": "কোন হাৰ হ'ল সেই হাৰ যি হাৰত আৰ.বি.আই.য়ে বেংকসমূহক দীৰ্ঘম্যাদী ধন ধাৰ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "The repo rate",
+        "as": "ৰেপ' হাৰ"
+      },
+      {
+        "en": "The bank rate",
+        "as": "বেংক হাৰ"
+      },
+      {
+        "en": "The reverse repo rate",
+        "as": "ৰিভাৰ্ছ ৰেপ' হাৰ"
+      },
+      {
+        "en": "The MSF rate",
+        "as": "এমএছএফ হাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The bank rate is the rate at which the RBI lends long-term funds to banks without collateral.",
+      "as": "বেংক হাৰ হ'ল সেই হাৰ যি হাৰত আৰ.বি.আই.য়ে জামানত অবিহনে বেংকসমূহক দীৰ্ঘম্যাদী ধন ধাৰ দিয়ে।"
+    }
+  }
+]

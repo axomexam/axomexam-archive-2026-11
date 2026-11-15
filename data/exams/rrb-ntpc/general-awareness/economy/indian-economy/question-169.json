@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-169",
+    "q": {
+      "en": "Natural rubber in India is produced mainly in which state?",
+      "as": "ভাৰতত প্ৰাকৃতিক ৰবৰ মূলত কোন ৰাজ্যত উৎপাদন হয়?"
+    },
+    "options": [
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Kerala leads the Indian states in the production of natural rubber.",
+      "as": "কেৰালা প্ৰাকৃতিক ৰবৰ উৎপাদনত ভাৰতীয় ৰাজ্যসমূহৰ আগত।"
+    }
+  }
+]

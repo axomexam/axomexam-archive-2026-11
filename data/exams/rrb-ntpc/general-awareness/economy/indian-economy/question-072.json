@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-072",
+    "q": {
+      "en": "Which index of the NITI Aayog measures the ease of living in Indian cities?",
+      "as": "নীতি আয়োগৰ কোন সূচকে ভাৰতীয় নগৰসমূহত জীৱন যাত্ৰাৰ সহজতা জোখে?"
+    },
+    "options": [
+      {
+        "en": "The Health Index",
+        "as": "স্বাস্থ্য সূচক"
+      },
+      {
+        "en": "The SDG India Index",
+        "as": "এছডিজি ইণ্ডিয়া সূচক"
+      },
+      {
+        "en": "The Ease of Living Index",
+        "as": "জীৱন যাত্ৰাৰ সহজতা সূচক"
+      },
+      {
+        "en": "The School Education Quality Index",
+        "as": "বিদ্যালয় শিক্ষাৰ গুণমান সূচক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ease of Living Index ranks Indian cities on the quality of life they offer.",
+      "as": "জীৱন যাত্ৰাৰ সহজতা সূচকে ভাৰতীয় নগৰসমূহক তেওঁলোকে আগবঢ়োৱা জীৱনৰ মানদণ্ডত স্থান দিয়ে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-203",
+    "q": {
+      "en": "Which is the apex body for agricultural research in India?",
+      "as": "ভাৰতত কৃষি গৱেষণাৰ শীৰ্ষ সংস্থা কোন?"
+    },
+    "options": [
+      {
+        "en": "The NABARD",
+        "as": "নাবাৰ্ড"
+      },
+      {
+        "en": "The Indian Council of Agricultural Research",
+        "as": "ভাৰতীয় কৃষি গৱেষণা পৰিষদ"
+      },
+      {
+        "en": "The Food Corporation of India",
+        "as": "ভাৰতৰ খাদ্য নিগম"
+      },
+      {
+        "en": "The Reserve Bank",
+        "as": "ৰিজাৰ্ভ বেংক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Indian Council of Agricultural Research coordinates agricultural research and education.",
+      "as": "ভাৰতীয় কৃষি গৱেষণা পৰিষদে কৃষি গৱেষণা আৰু শিক্ষা সমন্বয় কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-299",
+    "q": {
+      "en": "Which indicator measures the number of children born per woman?",
+      "as": "কোন সূচকে প্ৰতি মহিলাত জন্মগ্ৰহণ কৰা শিশুৰ সংখ্যা জোখে?"
+    },
+    "options": [
+      {
+        "en": "Infant mortality rate",
+        "as": "শিশু মৃত্যু হাৰ"
+      },
+      {
+        "en": "Literacy rate",
+        "as": "সাক্ষৰতা হাৰ"
+      },
+      {
+        "en": "Total fertility rate",
+        "as": "মুঠ উৰ্বৰতা হাৰ"
+      },
+      {
+        "en": "Sex ratio",
+        "as": "লিংগ অনুপাত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The total fertility rate measures the average number of children born to a woman in her lifetime.",
+      "as": "মুঠ উৰ্বৰতা হাৰে এগৰাকী মহিলাৰ জীৱনকালত জন্মগ্ৰহণ কৰা শিশুৰ গড় সংখ্যা জোখে।"
+    }
+  }
+]

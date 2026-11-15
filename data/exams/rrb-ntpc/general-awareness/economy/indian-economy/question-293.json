@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-293",
+    "q": {
+      "en": "Which scheme aims to provide electricity to all households?",
+      "as": "কোন আঁচনিয়ে সকলো পৰিয়ালক বিদ্যুৎ যোগান ধৰাৰ লক্ষ্য ৰাখে?"
+    },
+    "options": [
+      {
+        "en": "The Jan Dhan Yojana",
+        "as": "জন ধন যোজনা"
+      },
+      {
+        "en": "The Mudra Yojana",
+        "as": "মুদ্ৰা যোজনা"
+      },
+      {
+        "en": "The Awas Yojana",
+        "as": "আৱাস যোজনা"
+      },
+      {
+        "en": "The Saubhagya scheme",
+        "as": "সৌভাগ্য আঁচনি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Saubhagya scheme aims to provide electricity connections to all households.",
+      "as": "সৌভাগ্য আঁচনিয়ে সকলো পৰিয়ালক বিদ্যুৎ সংযোগ প্ৰদানৰ লক্ষ্য ৰাখে।"
+    }
+  }
+]

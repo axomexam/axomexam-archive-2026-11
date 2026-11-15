@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-141",
+    "q": {
+      "en": "Which tax is levied on imports into India?",
+      "as": "ভাৰতলৈ আমদানিৰ ওপৰত কোন কৰ লগা হয়?"
+    },
+    "options": [
+      {
+        "en": "Excise duty",
+        "as": "আবকাৰী কৰ"
+      },
+      {
+        "en": "Customs duty",
+        "as": "শুল্ক কৰ"
+      },
+      {
+        "en": "Income tax",
+        "as": "আয় কৰ"
+      },
+      {
+        "en": "Wealth tax",
+        "as": "সম্পত্তি কৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Customs duty is levied on goods imported into or exported from India.",
+      "as": "শুল্ক কৰ ভাৰতলৈ আমদানি বা ভাৰতৰ পৰা ৰপ্তানি হোৱা সামগ্ৰীৰ ওপৰত লগা হয়।"
+    }
+  }
+]

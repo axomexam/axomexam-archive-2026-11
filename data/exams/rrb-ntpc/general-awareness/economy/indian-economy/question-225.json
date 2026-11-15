@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-225",
+    "q": {
+      "en": "Which state is the largest producer of coal in India?",
+      "as": "ভাৰতত কয়লাৰ আটাইতকৈ বেছি উৎপাদনকাৰী ৰাজ্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Chhattisgarh",
+        "as": "ছত্তীশগড়"
+      },
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Chhattisgarh, followed by Jharkhand and Odisha, is among the largest coal-producing states.",
+      "as": "ছত্তীশগড়, তাৰ পিছত ঝাৰখণ্ড আৰু ওড়িশা, আটাইতকৈ বেছি কয়লা উৎপাদনকাৰী ৰাজ্যসমূহৰ ভিতৰত।"
+    }
+  }
+]

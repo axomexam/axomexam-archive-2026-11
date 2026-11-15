@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-402",
+    "q": {
+      "en": "Which term refers to the goods and services produced within a country in a year?",
+      "as": "কোন শব্দই এটা বছৰত এখন দেশৰ ভিতৰত উৎপাদিত সামগ্ৰী আৰু সেৱাক বুজায়?"
+    },
+    "options": [
+      {
+        "en": "National product",
+        "as": "ৰাষ্ট্ৰীয় উৎপাদন"
+      },
+      {
+        "en": "Net product",
+        "as": "নিট উৎপাদন"
+      },
+      {
+        "en": "Gross output",
+        "as": "মুঠ উৎপাদন"
+      },
+      {
+        "en": "Domestic product",
+        "as": "ঘৰুৱা উৎপাদন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Domestic product measures output produced within a country's borders, regardless of ownership.",
+      "as": "ঘৰুৱা উৎপাদনে এটা দেশৰ সীমাৰ ভিতৰত উৎপাদিত উৎপাদন জোখে, মালিকীস্বত্ব নিৰ্বিশেষে।"
+    }
+  }
+]

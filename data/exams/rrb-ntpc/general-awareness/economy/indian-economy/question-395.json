@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-395",
+    "q": {
+      "en": "Which term describes a fall in the rate of inflation?",
+      "as": "কোন শব্দই মুদ্ৰাস্ফীতিৰ হাৰৰ হ্ৰাস বৰ্ণনা কৰে?"
+    },
+    "options": [
+      {
+        "en": "Deflation",
+        "as": "অপস্ফীতি"
+      },
+      {
+        "en": "Hyperinflation",
+        "as": "অতিমুদ্ৰাস্ফীতি"
+      },
+      {
+        "en": "Disinflation",
+        "as": "মুদ্ৰাস্ফীতি হ্ৰাস"
+      },
+      {
+        "en": "Stagflation",
+        "as": "মন্দাস্ফীতি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Disinflation is a reduction in the rate of inflation, though prices still rise.",
+      "as": "মুদ্ৰাস্ফীতি হ্ৰাস হ'ল মুদ্ৰাস্ফীতিৰ হাৰৰ এটা হ্ৰাস, যদিও মূল্য এতিয়াও বাঢ়ে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-271",
+    "q": {
+      "en": "Which is the most populous country in the world?",
+      "as": "বিশ্বৰ আটাইতকৈ জনবহুল দেশ কোন?"
+    },
+    "options": [
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "The United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "India has become the most populous country in the world, ahead of China.",
+      "as": "ভাৰতে চীনৰ আগত ওলাই বিশ্বৰ আটাইতকৈ জনবহুল দেশ হৈ পৰিছে।"
+    }
+  }
+]

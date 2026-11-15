@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-283",
+    "q": {
+      "en": "Which type of unemployment arises from a mismatch of skills and jobs?",
+      "as": "কোন প্ৰকাৰৰ বেকাৰত্ব দক্ষতা আৰু কামৰ অসঙ্গতিৰ পৰা উদ্ভৱ হয়?"
+    },
+    "options": [
+      {
+        "en": "Structural unemployment",
+        "as": "গাঁথনিগত বেকাৰত্ব"
+      },
+      {
+        "en": "Cyclical unemployment",
+        "as": "চক্ৰীয় বেকাৰত্ব"
+      },
+      {
+        "en": "Frictional unemployment",
+        "as": "ঘৰ্ষণমূলক বেকাৰত্ব"
+      },
+      {
+        "en": "Seasonal unemployment",
+        "as": "ঋতুভিত্তিক বেকাৰত্ব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Structural unemployment occurs when the skills of workers do not match the available jobs.",
+      "as": "গাঁথনিগত বেকাৰত্ব তেতিয়া ঘটে যেতিয়া শ্ৰমিকৰ দক্ষতা উপলব্ধ কামৰ সৈতে নিমিলে।"
+    }
+  }
+]

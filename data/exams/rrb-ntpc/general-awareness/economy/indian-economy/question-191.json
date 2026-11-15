@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-191",
+    "q": {
+      "en": "Which type of farming is practised on large estates growing a single crop for export?",
+      "as": "কোন প্ৰকাৰৰ কৃষি ৰপ্তানিৰ বাবে এটা শস্য উৎপাদন কৰা ডাঙৰ জমিত কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Subsistence farming",
+        "as": "জীৱিকা কৃষি"
+      },
+      {
+        "en": "Intensive farming",
+        "as": "নিবিড় কৃষি"
+      },
+      {
+        "en": "Dry farming",
+        "as": "শুকান কৃষি"
+      },
+      {
+        "en": "Plantation farming",
+        "as": "উদ্যান কৃষি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Plantation farming grows a single crop such as tea or rubber on large estates, mainly for export.",
+      "as": "উদ্যান কৃষিয়ে চাহ বা ৰবৰৰ দৰে এটা শস্য ডাঙৰ জমিত উৎপাদন কৰে, মূলত ৰপ্তানিৰ বাবে।"
+    }
+  }
+]

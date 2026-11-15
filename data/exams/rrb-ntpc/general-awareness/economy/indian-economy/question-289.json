@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-289",
+    "q": {
+      "en": "Which type of poverty is measured in terms of income and consumption?",
+      "as": "কোন প্ৰকাৰৰ দৰিদ্ৰতা আয় আৰু ভোগৰ হিচাপত জোখা হয়?"
+    },
+    "options": [
+      {
+        "en": "Relative poverty",
+        "as": "সাপেক্ষ দৰিদ্ৰতা"
+      },
+      {
+        "en": "Absolute poverty",
+        "as": "পৰম দৰিদ্ৰতা"
+      },
+      {
+        "en": "Subjective poverty",
+        "as": "আত্মপৰায়ণ দৰিদ্ৰতা"
+      },
+      {
+        "en": "Cyclical poverty",
+        "as": "চক্ৰীয় দৰিদ্ৰতা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Absolute poverty is measured against a fixed minimum standard of income or consumption.",
+      "as": "পৰম দৰিদ্ৰতা আয় বা ভোগৰ এটা নিৰ্দিষ্ট ন্যূনতম মানদণ্ডৰ বিপৰীতে জোখা হয়।"
+    }
+  }
+]

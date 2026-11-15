@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-302",
+    "q": {
+      "en": "Literacy in India is the highest in which state?",
+      "as": "ভাৰতত সাক্ষৰতা কোন ৰাজ্যত আটাইতকৈ বেছি?"
+    },
+    "options": [
+      {
+        "en": "Mizoram",
+        "as": "মিজোৰাম"
+      },
+      {
+        "en": "Goa",
+        "as": "গোৱা"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Tripura",
+        "as": "ত্ৰিপুৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kerala has the highest literacy rate among Indian states, followed by Mizoram.",
+      "as": "ভাৰতীয় ৰাজ্যসমূহৰ ভিতৰত কেৰালাৰ সাক্ষৰতা হাৰ আটাইতকৈ বেছি, তাৰ পিছত মিজোৰাম।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-006",
+    "q": {
+      "en": "What is Net National Product at factor cost also known as?",
+      "as": "কাৰক ব্যয়ত নিট ৰাষ্ট্ৰীয় উৎপাদনক কি বুলিও জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "National income",
+        "as": "ৰাষ্ট্ৰীয় আয়"
+      },
+      {
+        "en": "Personal income",
+        "as": "ব্যক্তিগত আয়"
+      },
+      {
+        "en": "Disposable income",
+        "as": "ব্যয়যোগ্য আয়"
+      },
+      {
+        "en": "Per capita income",
+        "as": "মুঠ ঘৰুৱা উৎপাদন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Net National Product at factor cost is called national income, the sum of all factor incomes earned by residents.",
+      "as": "কাৰক ব্যয়ত নিট ৰাষ্ট্ৰীয় উৎপাদনক ৰাষ্ট্ৰীয় আয় বোলা হয়, বাসিন্দাসকলে অৰ্জন কৰা সকলো কাৰক আয়ৰ যোগফল।"
+    }
+  }
+]

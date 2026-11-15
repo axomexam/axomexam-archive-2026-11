@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-390",
+    "q": {
+      "en": "What is meant by the term 'bear' in the stock market?",
+      "as": "শ্বেয়াৰ বজাৰত 'বেৰ' শব্দটোৱে কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "An investor who expects prices to rise",
+        "as": "এজন বিনিয়োগকাৰী যি মূল্য বৃদ্ধিৰ আশা কৰে"
+      },
+      {
+        "en": "A type of derivative",
+        "as": "এক প্ৰকাৰৰ ডেৰিভেটিভ"
+      },
+      {
+        "en": "A type of mutual fund",
+        "as": "এক প্ৰকাৰৰ মিউচুৱেল ফাণ্ড"
+      },
+      {
+        "en": "An investor who expects prices to fall",
+        "as": "এজন বিনিয়োগকাৰী যি মূল্য হ্ৰাসৰ আশা কৰে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A bear is an investor who expects the market or prices to fall.",
+      "as": "বেৰ এজন বিনিয়োগকাৰী যি বজাৰ বা মূল্য হ্ৰাসৰ আশা কৰে।"
+    }
+  }
+]

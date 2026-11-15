@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-377",
+    "q": {
+      "en": "Which is the apex body for the development of small-scale industries in India?",
+      "as": "ভাৰতত ক্ষুদ্ৰ উদ্যোগৰ বিকাশৰ শীৰ্ষ সংস্থা কোন?"
+    },
+    "options": [
+      {
+        "en": "The NABARD",
+        "as": "নাবাৰ্ড"
+      },
+      {
+        "en": "The Small Industries Development Bank of India",
+        "as": "ভাৰতৰ ক্ষুদ্ৰ উদ্যোগ উন্নয়ন বেংক"
+      },
+      {
+        "en": "The RBI",
+        "as": "আৰ.বি.আই."
+      },
+      {
+        "en": "The SIDBI only",
+        "as": "কেৱল ছিডবি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "SIDBI is the principal financial institution for the promotion and development of small industries.",
+      "as": "ছিডবি ক্ষুদ্ৰ উদ্যোগৰ প্ৰচাৰ আৰু বিকাশৰ প্ৰধান বিত্তীয় প্ৰতিষ্ঠান।"
+    }
+  }
+]

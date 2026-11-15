@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-161",
+    "q": {
+      "en": "Which crop is the most important commercial crop of India?",
+      "as": "ভাৰতৰ আটাইতকৈ গুৰুত্বপূৰ্ণ বাণিজ্যিক শস্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Rice",
+        "as": "ধান"
+      },
+      {
+        "en": "Cotton",
+        "as": "কপাহ"
+      },
+      {
+        "en": "Wheat",
+        "as": "ঘেঁহু"
+      },
+      {
+        "en": "Barley",
+        "as": "বাৰ্লি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cotton is a leading commercial crop, providing raw material for the textile industry.",
+      "as": "কপাহ এটা প্ৰধান বাণিজ্যিক শস্য, বস্ত্ৰ উদ্যোগৰ বাবে কেঁচা সামগ্ৰী যোগান ধৰি।"
+    }
+  }
+]

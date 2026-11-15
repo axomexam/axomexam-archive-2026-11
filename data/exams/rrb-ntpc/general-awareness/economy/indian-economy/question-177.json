@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-177",
+    "q": {
+      "en": "Which organisation is the apex body for dairy development in India?",
+      "as": "ভাৰতত গাখীৰ উন্নয়নৰ শীৰ্ষ সংস্থা কোন?"
+    },
+    "options": [
+      {
+        "en": "The NABARD",
+        "as": "নাবাৰ্ড"
+      },
+      {
+        "en": "The Food Corporation of India",
+        "as": "ভাৰতৰ খাদ্য নিগম"
+      },
+      {
+        "en": "The National Dairy Development Board",
+        "as": "ৰাষ্ট্ৰীয় গাখীৰ উন্নয়ন ব'ৰ্ড"
+      },
+      {
+        "en": "The Agricultural Prices Commission",
+        "as": "কৃষি মূল্য আয়োগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The National Dairy Development Board, set up in 1965, is the apex body for dairy development.",
+      "as": "ৰাষ্ট্ৰীয় গাখীৰ উন্নয়ন ব'ৰ্ড, ১৯৬৫ চনত গঠিত, গাখীৰ উন্নয়নৰ শীৰ্ষ সংস্থা।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-303",
+    "q": {
+      "en": "Which state has the lowest literacy rate in India?",
+      "as": "ভাৰতত আটাইতকৈ কম সাক্ষৰতা হাৰ কোন ৰাজ্যৰ?"
+    },
+    "options": [
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      },
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bihar has one of the lowest literacy rates among Indian states.",
+      "as": "ভাৰতীয় ৰাজ্যসমূহৰ ভিতৰত বিহাৰৰ সাক্ষৰতা হাৰ আটাইতকৈ কমসমূহৰ এটা।"
+    }
+  }
+]

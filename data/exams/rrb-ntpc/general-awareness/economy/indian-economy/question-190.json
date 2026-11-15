@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-190",
+    "q": {
+      "en": "Which type of farming is practised on small plots using simple tools in India?",
+      "as": "ভাৰতত সৰু ঠাইত সৰল সঁজুলি ব্যৱহাৰ কৰি কোন প্ৰকাৰৰ কৃষি কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Subsistence farming",
+        "as": "জীৱিকা কৃষি"
+      },
+      {
+        "en": "Commercial farming",
+        "as": "বাণিজ্যিক কৃষি"
+      },
+      {
+        "en": "Plantation farming",
+        "as": "উদ্যান কৃষি"
+      },
+      {
+        "en": "Shifting farming",
+        "as": "বান্ধ কৃষি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Subsistence farming is practised on small plots mainly to feed the farmer's family.",
+      "as": "জীৱিকা কৃষি সৰু ঠাইত মূলত কৃষকৰ পৰিয়ালক খুৱাবলৈ কৰা হয়।"
+    }
+  }
+]

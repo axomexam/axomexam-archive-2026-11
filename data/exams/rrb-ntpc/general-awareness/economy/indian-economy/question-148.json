@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-148",
+    "q": {
+      "en": "Which term refers to the government's plan of revenue and expenditure?",
+      "as": "কোন শব্দই চৰকাৰৰ ৰাজহ আৰু ব্যয়ৰ পৰিকল্পনাক বুজায়?"
+    },
+    "options": [
+      {
+        "en": "The economic survey",
+        "as": "অৰ্থনৈতিক সমীক্ষা"
+      },
+      {
+        "en": "The budget",
+        "as": "বাজেট"
+      },
+      {
+        "en": "The census",
+        "as": "জনগণনা"
+      },
+      {
+        "en": "The plan document",
+        "as": "পৰিকল্পনা নথি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The budget is the government's annual statement of estimated receipts and expenditure.",
+      "as": "বাজেট হ'ল চৰকাৰৰ অনুমিত প্ৰাপ্তি আৰু ব্যয়ৰ বাৰ্ষিক বিবৃতি।"
+    }
+  }
+]

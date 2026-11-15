@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-155",
+    "q": {
+      "en": "What is meant by 'subsidy' in public finance?",
+      "as": "ৰাজহুৱা বিত্তত 'ৰাজসাহায্য'ই কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "A tax collected from consumers",
+        "as": "ভোক্তাৰ পৰা সংগ্ৰহ কৰা এটা কৰ"
+      },
+      {
+        "en": "A payment by government to reduce the cost of goods or services",
+        "as": "সামগ্ৰী বা সেৱাৰ ব্যয় কমাবলৈ চৰকাৰে কৰা এটা পৰিশোধ"
+      },
+      {
+        "en": "A loan given to farmers",
+        "as": "কৃষকক দিয়া এটা ঋণ"
+      },
+      {
+        "en": "A grant to foreign countries",
+        "as": "বিদেশী দেশক দিয়া এটা অনুদান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A subsidy is a government payment that lowers the price of a good or service for consumers or producers.",
+      "as": "ৰাজসাহায্য হ'ল এটা চৰকাৰী পৰিশোধ যি ভোক্তা বা উৎপাদকৰ বাবে সামগ্ৰী বা সেৱাৰ মূল্য কমায়।"
+    }
+  }
+]

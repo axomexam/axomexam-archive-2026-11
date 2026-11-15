@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-234",
+    "q": {
+      "en": "Which national waterway runs along the Brahmaputra in Assam?",
+      "as": "কোন ৰাষ্ট্ৰীয় জলপথ অসমত ব্ৰহ্মপুত্ৰৰ কাষেৰে যায়?"
+    },
+    "options": [
+      {
+        "en": "National Waterway 1",
+        "as": "ৰাষ্ট্ৰীয় জলপথ ১"
+      },
+      {
+        "en": "National Waterway 2",
+        "as": "ৰাষ্ট্ৰীয় জলপথ ২"
+      },
+      {
+        "en": "National Waterway 3",
+        "as": "ৰাষ্ট্ৰীয় জলপথ ৩"
+      },
+      {
+        "en": "National Waterway 4",
+        "as": "ৰাষ্ট্ৰীয় জলপথ ৪"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "National Waterway 2 runs along the Brahmaputra from Sadiya to Dhubri in Assam.",
+      "as": "ৰাষ্ট্ৰীয় জলপথ ২ অসমত সাধিয়াৰ পৰা ধুবৰীলৈ ব্ৰহ্মপুত্ৰৰ কাষেৰে যায়।"
+    }
+  }
+]

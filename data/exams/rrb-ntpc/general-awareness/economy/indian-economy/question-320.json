@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-320",
+    "q": {
+      "en": "Which institution is known as the 'soft loan window' of the World Bank?",
+      "as": "কোন প্ৰতিষ্ঠানক বিশ্ব বেংকৰ 'কোমল ঋণ দুৱাৰ' হিচাপে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The International Development Association",
+        "as": "আন্তৰ্জাতিক উন্নয়ন সংস্থা"
+      },
+      {
+        "en": "The International Finance Corporation",
+        "as": "আন্তৰ্জাতিক বিত্ত নিগম"
+      },
+      {
+        "en": "The IMF",
+        "as": "আইএমএফ"
+      },
+      {
+        "en": "The WTO",
+        "as": "ডব্লিউটিঅ'"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The International Development Association provides concessional loans to the poorest countries.",
+      "as": "আন্তৰ্জাতিক উন্নয়ন সংস্থাই আটাইতকৈ দৰিদ্ৰ দেশসমূহক ৰেহাই ঋণ প্ৰদান কৰে।"
+    }
+  }
+]

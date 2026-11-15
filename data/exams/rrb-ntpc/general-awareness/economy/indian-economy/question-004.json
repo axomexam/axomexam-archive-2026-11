@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-004",
+    "q": {
+      "en": "What is Gross Domestic Product at market prices?",
+      "as": "বজাৰ মূল্যত মুঠ ঘৰুৱা উৎপাদন কি?"
+    },
+    "options": [
+      {
+        "en": "The total money supply in an economy",
+        "as": "এখন অৰ্থনীতিৰ মুঠ ধন যোগান"
+      },
+      {
+        "en": "The total exports of a country",
+        "as": "এখন দেশৰ মুঠ ৰপ্তানি"
+      },
+      {
+        "en": "The market value of all final goods and services produced within a country in a year",
+        "as": "এখন দেশত এটা বছৰত উৎপাদিত সকলো চূড়ান্ত সামগ্ৰী আৰু সেৱাৰ বজাৰ মূল্য"
+      },
+      {
+        "en": "The total savings of households",
+        "as": "পৰিয়ালৰ মুঠ সঞ্চয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "GDP at market prices is the market value of all final goods and services produced within a country in a year.",
+      "as": "বজাৰ মূল্যত জিডিপি হ'ল এটা বছৰত এখন দেশত উৎপাদিত সকলো চূড়ান্ত সামগ্ৰী আৰু সেৱাৰ বজাৰ মূল্য।"
+    }
+  }
+]

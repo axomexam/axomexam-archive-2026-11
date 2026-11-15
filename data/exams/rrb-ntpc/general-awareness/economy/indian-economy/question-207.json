@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-207",
+    "q": {
+      "en": "Which city is known as the 'Ruhr of India' for its iron and steel industry?",
+      "as": "ইয়াৰ লোহা আৰু ইস্পাত উদ্যোগৰ বাবে কোনখন নগৰক 'ভাৰতৰ ৰুৰ' হিচাপে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Bhilai",
+        "as": "ভিলাই"
+      },
+      {
+        "en": "Jamshedpur",
+        "as": "জামশেদপুৰ"
+      },
+      {
+        "en": "Rourkela",
+        "as": "ৰৌৰকেলা"
+      },
+      {
+        "en": "Durgapur",
+        "as": "দুৰ্গাপুৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Jamshedpur, home to Tata Steel, is called the Ruhr of India.",
+      "as": "টাটা ষ্টিলৰ ঘৰ জামশেদপুৰক ভাৰতৰ ৰুৰ বোলা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-379",
+    "q": {
+      "en": "Which public sector bank in India is the biggest by business?",
+      "as": "ব্যৱসায়ৰ ভিত্তিত ভাৰতৰ কোন ৰাজহুৱা খণ্ডৰ বেংক আটাইতকৈ ডাঙৰ?"
+    },
+    "options": [
+      {
+        "en": "The Punjab National Bank",
+        "as": "পঞ্জাৱ নেশ্যনেল বেংক"
+      },
+      {
+        "en": "The Bank of Baroda",
+        "as": "বেংক অৱ বৰোদা"
+      },
+      {
+        "en": "The State Bank of India",
+        "as": "ষ্টেট বেংক অৱ ইণ্ডিয়া"
+      },
+      {
+        "en": "The Canara Bank",
+        "as": "কানাড়া বেংক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The State Bank of India is the largest public sector bank in India.",
+      "as": "ষ্টেট বেংক অৱ ইণ্ডিয়া ভাৰতৰ আটাইতকৈ ডাঙৰ ৰাজহুৱা খণ্ডৰ বেংক।"
+    }
+  }
+]

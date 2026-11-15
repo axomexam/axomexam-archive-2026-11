@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-322",
+    "q": {
+      "en": "Which organisation publishes the Global Competitiveness Report?",
+      "as": "বিশ্ব প্ৰতিযোগিতা প্ৰতিবেদন কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "The World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "The IMF",
+        "as": "আইএমএফ"
+      },
+      {
+        "en": "The World Economic Forum",
+        "as": "বিশ্ব অৰ্থনৈতিক মঞ্চ"
+      },
+      {
+        "en": "The WTO",
+        "as": "ডব্লিউটিঅ'"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The World Economic Forum publishes the Global Competitiveness Report.",
+      "as": "বিশ্ব অৰ্থনৈতিক মঞ্চই বিশ্ব প্ৰতিযোগিতা প্ৰতিবেদন প্ৰকাশ কৰে।"
+    }
+  }
+]

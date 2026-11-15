@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-044",
+    "q": {
+      "en": "Who was the first Chairman of the Planning Commission of India?",
+      "as": "ভাৰতৰ পৰিকল্পনা আয়োগৰ প্ৰথম অধ্যক্ষ কোন আছিল?"
+    },
+    "options": [
+      {
+        "en": "Jawaharlal Nehru",
+        "as": "জৱাহৰলাল নেহৰু"
+      },
+      {
+        "en": "Sardar Patel",
+        "as": "সৰদাৰ পেটেল"
+      },
+      {
+        "en": "Rajendra Prasad",
+        "as": "ৰাজেন্দ্ৰ প্ৰসাদ"
+      },
+      {
+        "en": "Gulzarilal Nanda",
+        "as": "গুলজাৰীলাল নন্দা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Prime Minister is the ex-officio Chairman of the Planning Commission; Nehru was the first.",
+      "as": "প্ৰধানমন্ত্ৰী পৰিকল্পনা আয়োগৰ পদাধিকাৰী অধ্যক্ষ; নেহৰু প্ৰথমজন আছিল।"
+    }
+  }
+]

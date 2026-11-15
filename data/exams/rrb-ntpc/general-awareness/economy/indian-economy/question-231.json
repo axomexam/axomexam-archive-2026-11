@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-231",
+    "q": {
+      "en": "Which is the deepest landlocked port of India?",
+      "as": "ভাৰতৰ আটাইতকৈ গভীৰ স্থলবেষ্টিত বন্দৰ কোন?"
+    },
+    "options": [
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      },
+      {
+        "en": "Visakhapatnam",
+        "as": "বিশাখাপট্টনম"
+      },
+      {
+        "en": "Kochi",
+        "as": "কচি"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলিকতা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Visakhapatnam is a deep, landlocked port on the east coast, serving as a major naval base.",
+      "as": "বিশাখাপট্টনম পূব উপকূলৰ এটা গভীৰ, স্থলবেষ্টিত বন্দৰ, এটা প্ৰধান নৌ ঘাটি হিচাপে কাৰ্য্য কৰি।"
+    }
+  }
+]

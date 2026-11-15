@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-331",
+    "q": {
+      "en": "Which country is the largest source of remittances to India?",
+      "as": "ভাৰতলৈ প্ৰেৰিত ধনৰ আটাইতকৈ ডাঙৰ উৎস দেশ কোন?"
+    },
+    "options": [
+      {
+        "en": "The United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Saudi Arabia",
+        "as": "ছৌদি আৰব"
+      },
+      {
+        "en": "The United Kingdom",
+        "as": "যুক্তৰাজ্য"
+      },
+      {
+        "en": "The United Arab Emirates",
+        "as": "সংযুক্ত আৰব আমিৰাত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The United Arab Emirates and other Gulf countries are the largest sources of remittances to India.",
+      "as": "সংযুক্ত আৰব আমিৰাত আৰু অন্য উপসাগৰীয় দেশসমূহ ভাৰতলৈ প্ৰেৰিত ধনৰ আটাইতকৈ ডাঙৰ উৎস।"
+    }
+  }
+]

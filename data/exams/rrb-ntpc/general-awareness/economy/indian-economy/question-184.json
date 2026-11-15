@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-184",
+    "q": {
+      "en": "Which body recommends the Minimum Support Price in India?",
+      "as": "ভাৰতত ন্যূনতম সমৰ্থন মূল্যৰ পৰামৰ্শ কোন সংস্থাই দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "The NABARD",
+        "as": "নাবাৰ্ড"
+      },
+      {
+        "en": "The Commission for Agricultural Costs and Prices",
+        "as": "কৃষি ব্যয় আৰু মূল্য আয়োগ"
+      },
+      {
+        "en": "The Food Corporation of India",
+        "as": "ভাৰতৰ খাদ্য নিগম"
+      },
+      {
+        "en": "The Reserve Bank",
+        "as": "ৰিজাৰ্ভ বেংক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Commission for Agricultural Costs and Prices recommends minimum support prices to the government.",
+      "as": "কৃষি ব্যয় আৰু মূল্য আয়োগে চৰকাৰক ন্যূনতম সমৰ্থন মূল্যৰ পৰামৰ্শ দিয়ে।"
+    }
+  }
+]

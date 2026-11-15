@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-188",
+    "q": {
+      "en": "How many days of employment does MGNREGA guarantee to a rural household in a year?",
+      "as": "নৰেগাই এটা বছৰত এটা গ্ৰাম্য পৰিয়ালক কিমান দিনৰ নিয়োগৰ নিশ্চয়তা দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Fifty days",
+        "as": "পঞ্চাশ দিন"
+      },
+      {
+        "en": "One hundred days",
+        "as": "এশ দিন"
+      },
+      {
+        "en": "Two hundred days",
+        "as": "দুশ দিন"
+      },
+      {
+        "en": "Seventy days",
+        "as": "সত্তৰ দিন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "MGNREGA guarantees one hundred days of wage employment in a financial year to rural households.",
+      "as": "নৰেগাই এটা বিত্তীয় বছৰত গ্ৰাম্য পৰিয়ালক এশ দিনৰ শ্ৰম-নিয়োগৰ নিশ্চয়তা দিয়ে।"
+    }
+  }
+]

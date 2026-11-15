@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-099",
+    "q": {
+      "en": "Which rate is the rate at which the RBI lends short-term funds to commercial banks?",
+      "as": "কোন হাৰ হ'ল সেই হাৰ যি হাৰত আৰ.বি.আই.য়ে বাণিজ্যিক বেংকসমূহক স্বল্পম্যাদী ধন ধাৰ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "The reverse repo rate",
+        "as": "ৰিভাৰ্ছ ৰেপ' হাৰ"
+      },
+      {
+        "en": "The repo rate",
+        "as": "ৰেপ' হাৰ"
+      },
+      {
+        "en": "The bank rate",
+        "as": "বেংক হাৰ"
+      },
+      {
+        "en": "The CRR",
+        "as": "চিআৰআৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The repo rate is the rate at which the RBI lends short-term funds to banks against securities.",
+      "as": "ৰেপ' হাৰ হ'ল সেই হাৰ যি হাৰত আৰ.বি.আই.য়ে জামানতৰ বিপৰীতে বেংকসমূহক স্বল্পম্যাদী ধন ধাৰ দিয়ে।"
+    }
+  }
+]

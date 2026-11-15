@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-336",
+    "q": {
+      "en": "What is meant by a quota in international trade?",
+      "as": "আন্তৰ্জাতিক বাণিজ্যত কোটাৰ দ্বাৰা কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "A tax on imported goods",
+        "as": "আমদানি কৰা সামগ্ৰীৰ ওপৰত এটা কৰ"
+      },
+      {
+        "en": "A limit on the quantity of goods that can be imported",
+        "as": "আমদানি কৰিব পৰা সামগ্ৰীৰ পৰিমাণৰ এটা সীমা"
+      },
+      {
+        "en": "A subsidy to exporters",
+        "as": "ৰপ্তানিকাৰীসকলক এটা ৰাজসাহায্য"
+      },
+      {
+        "en": "A ban on exports",
+        "as": "ৰপ্তানিৰ ওপৰত এটা নিষেধাজ্ঞা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A quota sets a physical limit on the quantity of a good that may be imported or exported.",
+      "as": "কোটাই আমদানি বা ৰপ্তানি কৰিব পৰা সামগ্ৰীৰ পৰিমাণত এটা ভৌতিক সীমা নিৰ্ধাৰণ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-204",
+    "q": {
+      "en": "Which industry was the first to be developed in India during the industrial revolution era?",
+      "as": "ঔদ্যোগিক বিপ্লৱৰ যুগত ভাৰতত প্ৰথমে কোন উদ্যোগ বিকশিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "The iron and steel industry",
+        "as": "লোহা আৰু ইস্পাত উদ্যোগ"
+      },
+      {
+        "en": "The automobile industry",
+        "as": "অট'ম'বাইল উদ্যোগ"
+      },
+      {
+        "en": "The cotton textile industry",
+        "as": "কপাহী বস্ত্ৰ উদ্যোগ"
+      },
+      {
+        "en": "The software industry",
+        "as": "চফ্টৱেৰ উদ্যোগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The cotton textile industry was the first modern industry to develop in India.",
+      "as": "কপাহী বস্ত্ৰ উদ্যোগ ভাৰতত বিকশিত হোৱা প্ৰথম আধুনিক উদ্যোগ আছিল।"
+    }
+  }
+]

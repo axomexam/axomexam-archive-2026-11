@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-167",
+    "q": {
+      "en": "Which state tops India in tea production?",
+      "as": "কোন ৰাজ্য চাহ উৎপাদনত ভাৰতৰ শীৰ্ষত?"
+    },
+    "options": [
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Assam is the largest producer of tea in India, followed by West Bengal.",
+      "as": "অসম ভাৰতত চাহৰ আটাইতকৈ বেছি উৎপাদনকাৰী ৰাজ্য, তাৰ পিছত পশ্চিম বংগ।"
+    }
+  }
+]

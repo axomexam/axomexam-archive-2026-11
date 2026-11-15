@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-338",
+    "q": {
+      "en": "Which policy removes barriers to trade between countries?",
+      "as": "কোন নীতিয়ে দেশসমূহৰ মাজত বাণিজ্যৰ প্ৰতিবন্ধক আঁতৰায়?"
+    },
+    "options": [
+      {
+        "en": "The protectionist policy",
+        "as": "সংৰক্ষণবাদী নীতি"
+      },
+      {
+        "en": "The free trade policy",
+        "as": "মুক্ত বাণিজ্য নীতি"
+      },
+      {
+        "en": "The quota policy",
+        "as": "কোটা নীতি"
+      },
+      {
+        "en": "The tariff policy",
+        "as": "শুল্ক নীতি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Free trade policy removes tariffs and quotas to allow goods and services to move freely.",
+      "as": "মুক্ত বাণিজ্য নীতিয়ে সামগ্ৰী আৰু সেৱা মুক্তভাৱে চলাচল কৰিবলৈ শুল্ক আৰু কোটা আঁতৰায়।"
+    }
+  }
+]

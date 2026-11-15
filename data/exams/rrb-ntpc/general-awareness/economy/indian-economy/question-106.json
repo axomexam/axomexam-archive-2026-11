@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-106",
+    "q": {
+      "en": "What is meant by the 'bank rate' in India?",
+      "as": "ভাৰতত 'বেংক হাৰ'ই কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "The rate at which the RBI lends long-term funds to banks",
+        "as": "আৰ.বি.আই.য়ে বেংকসমূহক দীৰ্ঘম্যাদী ধন ধাৰ দিয়া হাৰ"
+      },
+      {
+        "en": "The interest paid on savings accounts",
+        "as": "সঞ্চয় একাউণ্টত দিয়া সুত"
+      },
+      {
+        "en": "The rate of income tax",
+        "as": "আয় কৰৰ হাৰ"
+      },
+      {
+        "en": "The rate of exchange",
+        "as": "বিনিময় হাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The bank rate is the RBI's long-term lending rate to commercial banks, a reference rate.",
+      "as": "বেংক হাৰ আৰ.বি.আই.ৰ বাণিজ্যিক বেংকসমূহলৈ দীৰ্ঘম্যাদী ঋণৰ হাৰ, এটা উল্লেখ হাৰ।"
+    }
+  }
+]

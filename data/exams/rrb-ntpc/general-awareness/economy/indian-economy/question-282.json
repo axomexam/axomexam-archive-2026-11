@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-282",
+    "q": {
+      "en": "What is meant by 'workforce participation rate'?",
+      "as": "'শ্ৰমশক্তি অংশগ্ৰহণ হাৰ'ই কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "The share of population in schools",
+        "as": "বিদ্যালয়ত থকা জনসংখ্যাৰ অংশ"
+      },
+      {
+        "en": "The share of population that is retired",
+        "as": "অৱসৰপ্ৰাপ্ত জনসংখ্যাৰ অংশ"
+      },
+      {
+        "en": "The share of population that is employed or seeking work",
+        "as": "নিয়োজিত বা কাম বিচৰা জনসংখ্যাৰ অংশ"
+      },
+      {
+        "en": "The share of population that is illiterate",
+        "as": "নিৰক্ষৰ জনসংখ্যাৰ অংশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The workforce participation rate is the share of the population that is working or seeking work.",
+      "as": "শ্ৰমশক্তি অংশগ্ৰহণ হাৰ হ'ল কাম কৰি থকা বা কাম বিচৰা জনসংখ্যাৰ অংশ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-131",
+    "q": {
+      "en": "Income tax, which is paid by the person on whom it is levied, belongs to which category?",
+      "as": "আয় কৰ, যি যি ব্যক্তিৰ ওপৰত লগা হয় তেওঁৱেই দিয়ে, কোন শ্ৰেণীৰ?"
+    },
+    "options": [
+      {
+        "en": "Goods and Services Tax",
+        "as": "সামগ্ৰী আৰু সেৱা কৰ"
+      },
+      {
+        "en": "Customs duty",
+        "as": "শুল্ক কৰ"
+      },
+      {
+        "en": "Excise duty",
+        "as": "আবকাৰী কৰ"
+      },
+      {
+        "en": "Income tax",
+        "as": "আয় কৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Income tax is a direct tax, paid by the person on whom it is levied.",
+      "as": "আয় কৰ এটা প্ৰত্যক্ষ কৰ, যাক যি ব্যক্তিৰ ওপৰত লগা হয় তেওঁৱেই দিয়ে।"
+    }
+  }
+]

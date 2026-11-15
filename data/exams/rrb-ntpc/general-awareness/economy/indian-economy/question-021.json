@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-021",
+    "q": {
+      "en": "Which term refers to the process of transferring public sector undertakings to private ownership?",
+      "as": "কোন শব্দই ৰাজহুৱা খণ্ডৰ প্ৰতিষ্ঠানসমূহক ব্যক্তিগত মালিকীস্বত্বলৈ হস্তান্তৰৰ প্ৰক্ৰিয়াক বুজায়?"
+    },
+    "options": [
+      {
+        "en": "Nationalisation",
+        "as": "ৰাষ্ট্ৰীয়কৰণ"
+      },
+      {
+        "en": "Liberalisation",
+        "as": "উদাৰীকৰণ"
+      },
+      {
+        "en": "Disinvestment",
+        "as": "বিনিয়োগ হ্ৰাস"
+      },
+      {
+        "en": "Globalisation",
+        "as": "জগতীকৰণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Disinvestment refers to the sale of government equity in public sector undertakings.",
+      "as": "বিনিয়োগ হ্ৰাসে ৰাজহুৱা খণ্ডৰ প্ৰতিষ্ঠানত চৰকাৰী ইকুইটিৰ বিক্ৰীক বুজায়।"
+    }
+  }
+]

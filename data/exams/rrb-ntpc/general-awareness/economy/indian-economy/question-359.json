@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-359",
+    "q": {
+      "en": "Which index measures retail inflation in India?",
+      "as": "ভাৰতত খুচুৰা মুদ্ৰাস্ফীতি কোন সূচকে জোখে?"
+    },
+    "options": [
+      {
+        "en": "The Wholesale Price Index",
+        "as": "পাইকাৰী মূল্য সূচক"
+      },
+      {
+        "en": "The Consumer Price Index",
+        "as": "ভোক্তা মূল্য সূচক"
+      },
+      {
+        "en": "The Industrial Production Index",
+        "as": "উদ্যোগ উৎপাদন সূচক"
+      },
+      {
+        "en": "The Sensex",
+        "as": "ছেনছেক্স"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Consumer Price Index measures retail inflation by tracking prices of a basket of consumer goods.",
+      "as": "ভোক্তা মূল্য সূচকে ভোক্তা সামগ্ৰীৰ এটা টোপোলাৰ মূল্য অনুসৰণ কৰি খুচুৰা মুদ্ৰাস্ফীতি জোখে।"
+    }
+  }
+]

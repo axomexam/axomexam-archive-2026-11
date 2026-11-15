@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-030",
+    "q": {
+      "en": "Which international institution provided loans to India during the 1991 crisis?",
+      "as": "১৯৯১ চনৰ সংকটত কোন আন্তৰ্জাতিক প্ৰতিষ্ঠানে ভাৰতক ঋণ প্ৰদান কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The International Monetary Fund",
+        "as": "আন্তৰ্জাতিক মুদ্ৰা নিধি"
+      },
+      {
+        "en": "The World Trade Organization",
+        "as": "বিশ্ব বাণিজ্য সংস্থা"
+      },
+      {
+        "en": "The Asian Development Bank",
+        "as": "এছিয়ান ডেভেলপমেণ্ট বেংক"
+      },
+      {
+        "en": "The BRICS Bank",
+        "as": "ব্ৰিকছ বেংক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The IMF provided loans to India in 1991 on the condition of structural reforms.",
+      "as": "আইএমএফে ১৯৯১ চনত গাঁথনিগত সংস্কাৰৰ চৰ্তত ভাৰতক ঋণ প্ৰদান কৰিছিল।"
+    }
+  }
+]

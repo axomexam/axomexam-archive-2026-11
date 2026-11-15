@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-226",
+    "q": {
+      "en": "Which state is the largest producer of crude oil in India?",
+      "as": "ভাৰতত অশোধিত তেলৰ আটাইতকৈ বেছি উৎপাদনকাৰী ৰাজ্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rajasthan, with the Mangala field, and offshore fields lead crude oil production in India.",
+      "as": "মংগলা ক্ষেত্ৰসহ ৰাজস্থান, আৰু সাগৰীয় ক্ষেত্ৰসমূহে ভাৰতত অশোধিত তেল উৎপাদনত আগত।"
+    }
+  }
+]

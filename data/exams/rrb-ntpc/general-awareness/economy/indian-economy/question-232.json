@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-232",
+    "q": {
+      "en": "Which port is located on the Malabar coast?",
+      "as": "কোন বন্দৰ মালাবাৰ উপকূলত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Kochi",
+        "as": "কচি"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      },
+      {
+        "en": "Paradip",
+        "as": "পাৰাদ্বীপ"
+      },
+      {
+        "en": "Haldia",
+        "as": "হলদিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kochi is a major port on the Malabar coast of Kerala.",
+      "as": "কচি কেৰালাৰ মালাবাৰ উপকূলৰ এটা প্ৰধান বন্দৰ।"
+    }
+  }
+]

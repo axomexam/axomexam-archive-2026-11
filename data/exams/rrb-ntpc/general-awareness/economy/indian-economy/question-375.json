@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-375",
+    "q": {
+      "en": "Which of the following is a capital receipt for the government?",
+      "as": "তলৰ কোনটো চৰকাৰৰ বাবে এটা মূলধন প্ৰাপ্তি?"
+    },
+    "options": [
+      {
+        "en": "Income tax",
+        "as": "আয় কৰ"
+      },
+      {
+        "en": "GST",
+        "as": "জিএছটি"
+      },
+      {
+        "en": "Borrowings",
+        "as": "ধাৰ লোৱা"
+      },
+      {
+        "en": "Fees",
+        "as": "মাচুল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Capital receipts include borrowings and recoveries of loans, which create liabilities or reduce assets.",
+      "as": "মূলধন প্ৰাপ্তিত ধাৰ লোৱা আৰু ঋণ উদ্ধাৰ অন্তৰ্ভুক্ত, যি দায় সৃষ্টি কৰে বা সম্পত্তি কমায়।"
+    }
+  }
+]

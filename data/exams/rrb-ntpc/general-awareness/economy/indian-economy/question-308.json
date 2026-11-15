@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-308",
+    "q": {
+      "en": "What does the capital account of the balance of payments include?",
+      "as": "লেনদেনৰ ভাৰসাম্যৰ মূলধন একাউণ্টত কি অন্তৰ্ভুক্ত?"
+    },
+    "options": [
+      {
+        "en": "Only exports of goods",
+        "as": "কেৱল সামগ্ৰীৰ ৰপ্তানি"
+      },
+      {
+        "en": "Only imports of services",
+        "as": "কেৱল সেৱাৰ আমদানি"
+      },
+      {
+        "en": "Only remittances",
+        "as": "কেৱল প্ৰেৰিত ধন"
+      },
+      {
+        "en": "Foreign investment, loans and other capital flows",
+        "as": "বিদেশী বিনিয়োগ, ঋণ আৰু অন্য মূলধন প্ৰবাহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The capital account records foreign investment, loans and other capital transactions.",
+      "as": "মূলধন একাউণ্টে বিদেশী বিনিয়োগ, ঋণ আৰু অন্য মূলধন লেনদেন লিপিবদ্ধ কৰে।"
+    }
+  }
+]

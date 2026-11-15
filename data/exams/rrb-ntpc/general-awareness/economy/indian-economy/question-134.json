@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-134",
+    "q": {
+      "en": "Which type of GST is levied on transactions within a state?",
+      "as": "কোন প্ৰকাৰৰ জিএছটি এটা ৰাজ্যৰ ভিতৰত লেনদেনৰ ওপৰত লগা হয়?"
+    },
+    "options": [
+      {
+        "en": "Integrated GST",
+        "as": "সংহত জিএছটি"
+      },
+      {
+        "en": "State GST and Central GST",
+        "as": "ৰাজ্য জিএছটি আৰু কেন্দ্ৰীয় জিএছটি"
+      },
+      {
+        "en": "Union Territory GST",
+        "as": "কেন্দ্ৰীয় শাসিত অঞ্চল জিএছটি"
+      },
+      {
+        "en": "Customs duty",
+        "as": "শুল্ক কৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Intra-state transactions attract both Central GST and State GST.",
+      "as": "ৰাজ্যৰ ভিতৰৰ লেনদেনত কেন্দ্ৰীয় জিএছটি আৰু ৰাজ্য জিএছটি দুয়োটা লগে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-215",
+    "q": {
+      "en": "The software industry has given which city the name of the Silicon Valley of India?",
+      "as": "চফ্টৱেৰ উদ্যোগে কোনখন নগৰক ভাৰতৰ চিলিকন ভেলী নাম দিছে?"
+    },
+    "options": [
+      {
+        "en": "Hyderabad",
+        "as": "হায়দৰাবাদ"
+      },
+      {
+        "en": "Pune",
+        "as": "পুনা"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      },
+      {
+        "en": "Bengaluru",
+        "as": "বাংগালুৰু"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bengaluru is called the Silicon Valley of India for its information technology industry.",
+      "as": "বাংগালুৰুক ইয়াৰ তথ্য প্ৰযুক্তি উদ্যোগৰ বাবে ভাৰতৰ চিলিকন ভেলী বোলা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-373",
+    "q": {
+      "en": "Which is the largest source of tax revenue for the Union Government?",
+      "as": "সংঘ চৰকাৰৰ বাবে কৰ ৰাজহৰ আটাইতকৈ ডাঙৰ উৎস কোন?"
+    },
+    "options": [
+      {
+        "en": "Income tax",
+        "as": "আয় কৰ"
+      },
+      {
+        "en": "Customs duty",
+        "as": "শুল্ক কৰ"
+      },
+      {
+        "en": "Excise duty",
+        "as": "আবকাৰী কৰ"
+      },
+      {
+        "en": "Goods and Services Tax",
+        "as": "সামগ্ৰী আৰু সেৱা কৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Goods and Services Tax is a major source of indirect tax revenue for the Union Government.",
+      "as": "সামগ্ৰী আৰু সেৱা কৰ সংঘ চৰকাৰৰ বাবে পৰোক্ষ কৰ ৰাজহৰ এটা প্ৰধান উৎস।"
+    }
+  }
+]

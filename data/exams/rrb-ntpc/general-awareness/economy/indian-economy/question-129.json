@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-129",
+    "q": {
+      "en": "Which type of tax is levied directly on the income or wealth of a person?",
+      "as": "কোন প্ৰকাৰৰ কৰ এজন ব্যক্তিৰ আয় বা সম্পত্তিৰ ওপৰত প্ৰত্যক্ষভাৱে লগা হয়?"
+    },
+    "options": [
+      {
+        "en": "An indirect tax",
+        "as": "এটা পৰোক্ষ কৰ"
+      },
+      {
+        "en": "A customs duty",
+        "as": "এটা শুল্ক কৰ"
+      },
+      {
+        "en": "An excise duty",
+        "as": "এটা আবকাৰী কৰ"
+      },
+      {
+        "en": "A direct tax",
+        "as": "এটা প্ৰত্যক্ষ কৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Direct taxes such as income tax are levied on a person's income or wealth and paid directly.",
+      "as": "প্ৰত্যক্ষ কৰ, যেনে আয় কৰ, এজন ব্যক্তিৰ আয় বা সম্পত্তিৰ ওপৰত লগা হয় আৰু প্ৰত্যক্ষভাৱে দিয়া হয়।"
+    }
+  }
+]

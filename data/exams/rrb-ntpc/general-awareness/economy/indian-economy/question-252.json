@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-252",
+    "q": {
+      "en": "In economics, the abbreviation FDI stands for which term?",
+      "as": "অৰ্থনীতিত, এফডিআই সংক্ষিপ্ত ৰূপে কোন শব্দ বুজায়?"
+    },
+    "options": [
+      {
+        "en": "Foreign Development Index",
+        "as": "বিদেশী উন্নয়ন সূচক"
+      },
+      {
+        "en": "Foreign Debt Instrument",
+        "as": "বিদেশী ঋণ উপকৰণ"
+      },
+      {
+        "en": "Foreign Direct Investment",
+        "as": "বিদেশী প্ৰত্যক্ষ বিনিয়োগ"
+      },
+      {
+        "en": "Fixed Deposit Interest",
+        "as": "স্থায়ী জমাৰ সুত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "FDI stands for Foreign Direct Investment, long-term investment by foreign entities in a country.",
+      "as": "এফডিআইএ বিদেশী প্ৰত্যক্ষ বিনিয়োগ বুজায়, বিদেশী সত্তাই এখন দেশত কৰা দীৰ্ঘম্যাদী বিনিয়োগ।"
+    }
+  }
+]

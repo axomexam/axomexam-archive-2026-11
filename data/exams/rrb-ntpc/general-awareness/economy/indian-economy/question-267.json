@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-267",
+    "q": {
+      "en": "Which organisation publishes the World Development Report?",
+      "as": "বিশ্ব উন্নয়ন প্ৰতিবেদন কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "The International Monetary Fund",
+        "as": "আন্তৰ্জাতিক মুদ্ৰা নিধি"
+      },
+      {
+        "en": "The United Nations",
+        "as": "ৰাষ্ট্ৰসংঘ"
+      },
+      {
+        "en": "The WTO",
+        "as": "ডব্লিউটিঅ'"
+      },
+      {
+        "en": "The World Bank",
+        "as": "বিশ্ব বেংক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The World Bank publishes the World Development Report on global development issues.",
+      "as": "বিশ্ব বেংকে বিশ্বব্যাপী উন্নয়ন বিষয়ৰ ওপৰত বিশ্ব উন্নয়ন প্ৰতিবেদন প্ৰকাশ কৰে।"
+    }
+  }
+]

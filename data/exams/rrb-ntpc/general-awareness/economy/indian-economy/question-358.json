@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-358",
+    "q": {
+      "en": "Which type of inflation is measured by the Wholesale Price Index?",
+      "as": "কোন প্ৰকাৰৰ মুদ্ৰাস্ফীতি পাইকাৰী মূল্য সূচকে জোখে?"
+    },
+    "options": [
+      {
+        "en": "Retail price inflation",
+        "as": "খুচুৰা মূল্য মুদ্ৰাস্ফীতি"
+      },
+      {
+        "en": "Wholesale price inflation",
+        "as": "পাইকাৰী মূল্য মুদ্ৰাস্ফীতি"
+      },
+      {
+        "en": "Consumer inflation",
+        "as": "ভোক্তা মুদ্ৰাস্ফীতি"
+      },
+      {
+        "en": "Food inflation only",
+        "as": "কেৱল খাদ্য মুদ্ৰাস্ফীতি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Wholesale Price Index measures inflation at the wholesale or producer level.",
+      "as": "পাইকাৰী মূল্য সূচকে পাইকাৰী বা উৎপাদক স্তৰত মুদ্ৰাস্ফীতি জোখে।"
+    }
+  }
+]

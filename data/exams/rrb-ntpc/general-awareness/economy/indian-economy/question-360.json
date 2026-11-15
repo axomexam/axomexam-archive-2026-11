@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-360",
+    "q": {
+      "en": "Which organisation computes the Consumer Price Index in India?",
+      "as": "ভাৰতত ভোক্তা মূল্য সূচক কোন সংস্থাই গণনা কৰে?"
+    },
+    "options": [
+      {
+        "en": "The Reserve Bank of India",
+        "as": "ভাৰতীয় ৰিজাৰ্ভ বেংক"
+      },
+      {
+        "en": "The Ministry of Finance",
+        "as": "বিত্ত মন্ত্ৰালয়"
+      },
+      {
+        "en": "The NITI Aayog",
+        "as": "নীতি আয়োগ"
+      },
+      {
+        "en": "The National Statistical Office",
+        "as": "ৰাষ্ট্ৰীয় পৰিসংখ্যা কাৰ্যালয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The National Statistical Office computes the Consumer Price Index for India.",
+      "as": "ৰাষ্ট্ৰীয় পৰিসংখ্যা কাৰ্যালয়ে ভাৰতৰ বাবে ভোক্তা মূল্য সূচক গণনা কৰে।"
+    }
+  }
+]

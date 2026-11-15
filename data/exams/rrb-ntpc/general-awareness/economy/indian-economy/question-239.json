@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-239",
+    "q": {
+      "en": "Which is the largest public sector undertaking in India by revenue?",
+      "as": "ৰাজহৰ ভিত্তিত ভাৰতৰ আটাইতকৈ ডাঙৰ ৰাজহুৱা খণ্ডৰ উদ্যোগ কোন?"
+    },
+    "options": [
+      {
+        "en": "The ONGC",
+        "as": "অ'এনজিচি"
+      },
+      {
+        "en": "Indian Railways",
+        "as": "ভাৰতীয় ৰে'লৱে"
+      },
+      {
+        "en": "The Indian Oil Corporation",
+        "as": "ভাৰতীয় তেল নিগম"
+      },
+      {
+        "en": "The SBI",
+        "as": "এছবিআই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Indian Railways is among the largest public sector employers and enterprises in India.",
+      "as": "ভাৰতীয় ৰে'লৱে ভাৰতৰ আটাইতকৈ ডাঙৰ ৰাজহুৱা খণ্ডৰ নিয়োগকৰ্তা আৰু উদ্যোগসমূহৰ ভিতৰত।"
+    }
+  }
+]

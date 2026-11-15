@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-108",
+    "q": {
+      "en": "Which type of account is mainly used by businesses for frequent transactions?",
+      "as": "কোন প্ৰকাৰৰ একাউণ্ট মূলত ব্যৱসায়ে ঘনাই লেনদেনৰ বাবে ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "A savings account",
+        "as": "এটা সঞ্চয় একাউণ্ট"
+      },
+      {
+        "en": "A recurring deposit",
+        "as": "এটা আৱৰ্তী জমা"
+      },
+      {
+        "en": "A current account",
+        "as": "এটা চলিত একাউণ্ট"
+      },
+      {
+        "en": "A fixed deposit",
+        "as": "এটা স্থায়ী জমা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A current account is used by businesses and usually pays no interest but allows many transactions.",
+      "as": "এটা চলিত একাউণ্ট ব্যৱসায়ে ব্যৱহাৰ কৰে আৰু সাধাৰণতে সুত নিদিয়ে কিন্তু বহু লেনদেনৰ অনুমতি দিয়ে।"
+    }
+  }
+]

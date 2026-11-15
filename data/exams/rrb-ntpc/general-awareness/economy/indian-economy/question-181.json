@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-181",
+    "q": {
+      "en": "Which institution is responsible for procuring foodgrains for the public distribution system?",
+      "as": "ৰাজহুৱা বিতৰণ ব্যৱস্থাৰ বাবে খাদ্যশস্য ক্ৰয়ৰ বাবে কোন প্ৰতিষ্ঠান দায়বদ্ধ?"
+    },
+    "options": [
+      {
+        "en": "The NABARD",
+        "as": "নাবাৰ্ড"
+      },
+      {
+        "en": "The Food Corporation of India",
+        "as": "ভাৰতৰ খাদ্য নিগম"
+      },
+      {
+        "en": "The RBI",
+        "as": "আৰ.বি.আই."
+      },
+      {
+        "en": "The NITI Aayog",
+        "as": "নীতি আয়োগ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Food Corporation of India procures, stores and distributes foodgrains for the public distribution system.",
+      "as": "ভাৰতৰ খাদ্য নিগমে ৰাজহুৱা বিতৰণ ব্যৱস্থাৰ বাবে খাদ্যশস্য ক্ৰয়, ভঁৰাল আৰু বিতৰণ কৰে।"
+    }
+  }
+]

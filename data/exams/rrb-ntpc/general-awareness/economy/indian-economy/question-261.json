@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-261",
+    "q": {
+      "en": "What is the Multidimensional Poverty Index used to measure?",
+      "as": "বহুমাত্ৰিক দৰিদ্ৰতা সূচক কি জোখাৰ বাবে ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Only income poverty",
+        "as": "কেৱল আয়ৰ দৰিদ্ৰতা"
+      },
+      {
+        "en": "Only food poverty",
+        "as": "কেৱল খাদ্যৰ দৰিদ্ৰতা"
+      },
+      {
+        "en": "Poverty in terms of health, education and living standards",
+        "as": "স্বাস্থ্য, শিক্ষা আৰু জীৱনযাত্ৰাৰ মানদণ্ডৰ দিশত দৰিদ্ৰতা"
+      },
+      {
+        "en": "Only employment",
+        "as": "কেৱল নিয়োগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Multidimensional Poverty Index captures deprivations in health, education and living standards.",
+      "as": "বহুমাত্ৰিক দৰিদ্ৰতা সূচকে স্বাস্থ্য, শিক্ষা আৰু জীৱনযাত্ৰাৰ মানদণ্ডত বঞ্চনা ধৰি লয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-010",
+    "q": {
+      "en": "What is the base year of the current series of national accounts in India?",
+      "as": "ভাৰতত ৰাষ্ট্ৰীয় হিচাপৰ বৰ্তমান শৃংখলাৰ ভিত্তি বছৰ কি?"
+    },
+    "options": [
+      {
+        "en": "2004-05",
+        "as": "২০০৪-০৫"
+      },
+      {
+        "en": "1999-2000",
+        "as": "১৯৯৯-২০০০"
+      },
+      {
+        "en": "2011-12",
+        "as": "২০১১-১২"
+      },
+      {
+        "en": "2014-15",
+        "as": "২০১৪-১৫"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The current national accounts series uses 2011-12 as the base year.",
+      "as": "বৰ্তমান ৰাষ্ট্ৰীয় হিচাপ শৃংখলাই ২০১১-১২ ক ভিত্তি বছৰ হিচাপে ব্যৱহাৰ কৰে।"
+    }
+  }
+]

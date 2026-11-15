@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-119",
+    "q": {
+      "en": "Which type of unemployment is common in Indian agriculture?",
+      "as": "ভাৰতীয় কৃষিত কোন প্ৰকাৰৰ বেকাৰত্ব সাধাৰণ?"
+    },
+    "options": [
+      {
+        "en": "Cyclical unemployment",
+        "as": "চক্ৰীয় বেকাৰত্ব"
+      },
+      {
+        "en": "Frictional unemployment",
+        "as": "ঘৰ্ষণমূলক বেকাৰত্ব"
+      },
+      {
+        "en": "Disguised unemployment",
+        "as": "প্ৰচ্ছন্ন বেকাৰত্ব"
+      },
+      {
+        "en": "Structural unemployment",
+        "as": "গাঁথনিগত বেকাৰত্ব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Disguised unemployment is widespread in Indian agriculture, where more workers are engaged than needed.",
+      "as": "প্ৰচ্ছন্ন বেকাৰত্ব ভাৰতীয় কৃষিত ব্যাপক, য'ত প্ৰয়োজনতকৈ অধিক শ্ৰমিক নিয়োজিত থাকে।"
+    }
+  }
+]

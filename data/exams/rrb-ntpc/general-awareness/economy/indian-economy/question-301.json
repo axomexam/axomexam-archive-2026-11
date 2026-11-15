@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-301",
+    "q": {
+      "en": "Which state has the highest Human Development Index among Indian states?",
+      "as": "ভাৰতীয় ৰাজ্যসমূহৰ ভিতৰত কোন ৰাজ্যৰ মানৱ উন্নয়ন সূচক আটাইতকৈ বেছি?"
+    },
+    "options": [
+      {
+        "en": "Goa",
+        "as": "গোৱা"
+      },
+      {
+        "en": "Delhi",
+        "as": "দিল্লী"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kerala consistently ranks highest among Indian states on the Human Development Index.",
+      "as": "কেৰালা মানৱ উন্নয়ন সূচকত ভাৰতীয় ৰাজ্যসমূহৰ ভিতৰত ধাৰাবাহিকভাৱে শীৰ্ষত থাকে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-352",
+    "q": {
+      "en": "Which sector of the Indian economy is known as the 'service sector'?",
+      "as": "ভাৰতীয় অৰ্থনীতিৰ কোন খণ্ডক 'সেৱা খণ্ড' হিচাপে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The tertiary sector",
+        "as": "তৃতীয় খণ্ড"
+      },
+      {
+        "en": "The primary sector",
+        "as": "প্ৰাথমিক খণ্ড"
+      },
+      {
+        "en": "The secondary sector",
+        "as": "দ্বিতীয় খণ্ড"
+      },
+      {
+        "en": "The public sector",
+        "as": "ৰাজহুৱা খণ্ড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The tertiary sector, comprising services, is also called the service sector.",
+      "as": "সেৱাৰে গঠিত তৃতীয় খণ্ডক সেৱা খণ্ড বুলিও কোৱা হয়।"
+    }
+  }
+]

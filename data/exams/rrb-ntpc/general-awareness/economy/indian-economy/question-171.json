@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-171",
+    "q": {
+      "en": "Which is the largest producer of milk in India?",
+      "as": "ভাৰতত গাখীৰৰ আটাইতকৈ বেছি উৎপাদনকাৰী ৰাজ্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাৱ"
+      },
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Uttar Pradesh is the largest milk-producing state in India.",
+      "as": "উত্তৰ প্ৰদেশ ভাৰতত গাখীৰ উৎপাদন কৰা আটাইতকৈ ডাঙৰ ৰাজ্য।"
+    }
+  }
+]

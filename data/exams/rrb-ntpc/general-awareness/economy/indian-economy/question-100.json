@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-100",
+    "q": {
+      "en": "Which rate is the rate at which the RBI absorbs liquidity from commercial banks?",
+      "as": "কোন হাৰ হ'ল সেই হাৰ যি হাৰত আৰ.বি.আই.য়ে বাণিজ্যিক বেংকসমূহৰ পৰা তৰলতা শোষণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "The reverse repo rate",
+        "as": "ৰিভাৰ্ছ ৰেপ' হাৰ"
+      },
+      {
+        "en": "The repo rate",
+        "as": "ৰেপ' হাৰ"
+      },
+      {
+        "en": "The bank rate",
+        "as": "বেংক হাৰ"
+      },
+      {
+        "en": "The SLR",
+        "as": "এছএলআৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The reverse repo rate is the rate at which the RBI absorbs liquidity from banks.",
+      "as": "ৰিভাৰ্ছ ৰেপ' হাৰ হ'ল সেই হাৰ যি হাৰত আৰ.বি.আই.য়ে বেংকসমূহৰ পৰা তৰলতা শোষণ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-333",
+    "q": {
+      "en": "What is meant by a trade surplus?",
+      "as": "বাণিজ্য উদ্বৃত্তই কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "Imports exceed exports",
+        "as": "আমদানিয়ে ৰপ্তানিক অতিক্ৰম কৰে"
+      },
+      {
+        "en": "Exports exceed imports",
+        "as": "ৰপ্তানিয়ে আমদানিক অতিক্ৰম কৰে"
+      },
+      {
+        "en": "Exports equal imports",
+        "as": "ৰপ্তানি আমদানিৰ সমান"
+      },
+      {
+        "en": "There is no trade",
+        "as": "কোনো বাণিজ্য নাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A trade surplus occurs when the value of a country's exports is greater than its imports.",
+      "as": "বাণিজ্য উদ্বৃত্ত তেতিয়া হয় যেতিয়া এখন দেশৰ ৰপ্তানিৰ মূল্য ইয়াৰ আমদানিতকৈ বেছি হয়।"
+    }
+  }
+]

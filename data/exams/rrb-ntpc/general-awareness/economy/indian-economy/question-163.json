@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-163",
+    "q": {
+      "en": "Jute output in India is the highest in which state?",
+      "as": "ভাৰতত পাট উৎপাদন কোন ৰাজ্যত আটাইতকৈ বেছি?"
+    },
+    "options": [
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In terms of jute output, West Bengal stands first among the Indian states.",
+      "as": "পাট উৎপাদনৰ ক্ষেত্ৰত পশ্চিম বংগ ভাৰতীয় ৰাজ্যসমূহৰ ভিতৰত প্ৰথম।"
+    }
+  }
+]

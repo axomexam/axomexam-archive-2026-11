@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-042",
+    "q": {
+      "en": "Which body was set up in 1950 to plan India's economic development?",
+      "as": "ভাৰতৰ অৰ্থনৈতিক উন্নয়নৰ পৰিকল্পনা কৰিবলৈ ১৯৫০ চনত কোন সংস্থা গঠন কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "The Finance Commission",
+        "as": "বিত্ত আয়োগ"
+      },
+      {
+        "en": "The NITI Aayog",
+        "as": "নীতি আয়োগ"
+      },
+      {
+        "en": "The National Development Council",
+        "as": "ৰাষ্ট্ৰীয় উন্নয়ন পৰিষদ"
+      },
+      {
+        "en": "The Planning Commission",
+        "as": "পৰিকল্পনা আয়োগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Planning Commission was set up in 1950 to formulate India's Five Year Plans.",
+      "as": "পৰিকল্পনা আয়োগ ১৯৫০ চনত ভাৰতৰ পঞ্চবাৰ্ষিক পৰিকল্পনা ৰচনা কৰিবলৈ গঠন কৰা হৈছিল।"
+    }
+  }
+]

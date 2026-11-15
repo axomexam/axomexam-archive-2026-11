@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-153",
+    "q": {
+      "en": "Which fund is used for unforeseen expenditure without prior parliamentary approval?",
+      "as": "পূৰ্বৰ সংসদীয় অনুমোদন অবিহনে অগতানুগতিক ব্যয়ৰ বাবে কোন নিধি ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "The Consolidated Fund of India",
+        "as": "ভাৰতৰ সংহত নিধি"
+      },
+      {
+        "en": "The Contingency Fund of India",
+        "as": "ভাৰতৰ আপদকালীন নিধি"
+      },
+      {
+        "en": "The Public Account",
+        "as": "ৰাজহুৱা একাউণ্ট"
+      },
+      {
+        "en": "The Development Fund",
+        "as": "উন্নয়ন নিধি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Contingency Fund of India, at the disposal of the President, meets unforeseen expenditure.",
+      "as": "ভাৰতৰ আপদকালীন নিধি, ৰাষ্ট্ৰপতিৰ হাতত থকা, অগতানুগতিক ব্যয় মেটায়।"
+    }
+  }
+]

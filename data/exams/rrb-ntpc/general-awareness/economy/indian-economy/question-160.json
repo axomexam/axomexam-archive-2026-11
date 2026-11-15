@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-160",
+    "q": {
+      "en": "Which is the main food crop grown in the rabi season in India?",
+      "as": "ভাৰতত ৰবি ঋতুত উৎপাদিত প্ৰধান খাদ্য শস্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Rice",
+        "as": "ধান"
+      },
+      {
+        "en": "Wheat",
+        "as": "ঘেঁহু"
+      },
+      {
+        "en": "Jute",
+        "as": "পাট"
+      },
+      {
+        "en": "Cotton",
+        "as": "কপাহ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Wheat is the main rabi crop, sown in winter and harvested in spring.",
+      "as": "ঘেঁহু প্ৰধান ৰবি শস্য, শীতকালত সিঁচি বসন্তকালত চপোৱা হয়।"
+    }
+  }
+]

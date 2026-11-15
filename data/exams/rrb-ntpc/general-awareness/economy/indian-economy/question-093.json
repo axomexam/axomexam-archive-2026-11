@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-093",
+    "q": {
+      "en": "How many banks were nationalised in India in 1980?",
+      "as": "১৯৮০ চনত ভাৰতত কেইটা বেংক ৰাষ্ট্ৰীয়কৰণ কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Fourteen",
+        "as": "চৈধ্য"
+      },
+      {
+        "en": "Six",
+        "as": "ছয়"
+      },
+      {
+        "en": "Eight",
+        "as": "আঠ"
+      },
+      {
+        "en": "Ten",
+        "as": "দহ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Six more commercial banks were nationalised in 1980, taking the total to twenty.",
+      "as": "১৯৮০ চনত আৰু ছয়টা বাণিজ্যিক বেংক ৰাষ্ট্ৰীয়কৰণ কৰা হৈছিল, মুঠ বিশটা কৰি।"
+    }
+  }
+]

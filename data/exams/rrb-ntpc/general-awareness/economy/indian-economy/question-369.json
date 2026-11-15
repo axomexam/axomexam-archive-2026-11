@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-369",
+    "q": {
+      "en": "What is the main aim of the government's disinvestment policy?",
+      "as": "চৰকাৰৰ বিনিয়োগ হ্ৰাস নীতিৰ প্ৰধান লক্ষ্য কি?"
+    },
+    "options": [
+      {
+        "en": "To nationalise private firms",
+        "as": "ব্যক্তিগত প্ৰতিষ্ঠান ৰাষ্ট্ৰীয়কৰণ কৰা"
+      },
+      {
+        "en": "To increase subsidies",
+        "as": "ৰাজসাহায্য বৃদ্ধি কৰা"
+      },
+      {
+        "en": "To fix prices",
+        "as": "মূল্য নিৰ্ধাৰণ কৰা"
+      },
+      {
+        "en": "To reduce the government's stake in public sector units",
+        "as": "ৰাজহুৱা খণ্ডৰ প্ৰতিষ্ঠানত চৰকাৰৰ অংশ হ্ৰাস কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Disinvestment reduces the government's equity stake in public sector undertakings to raise resources.",
+      "as": "বিনিয়োগ হ্ৰাসে সম্পদ সংগ্ৰহৰ বাবে ৰাজহুৱা খণ্ডৰ প্ৰতিষ্ঠানত চৰকাৰৰ ইকুইটি অংশ হ্ৰাস কৰে।"
+    }
+  }
+]

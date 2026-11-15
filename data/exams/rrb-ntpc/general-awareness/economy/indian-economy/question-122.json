@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-122",
+    "q": {
+      "en": "Which type of budget is presented when estimated expenditure exceeds estimated receipts?",
+      "as": "অনুমিত ব্যয়ে অনুমিত ৰাজহ অতিক্ৰম কৰিলে কোন প্ৰকাৰৰ বাজেট উপস্থাপন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "A deficit budget",
+        "as": "এটা ঘাটি বাজেট"
+      },
+      {
+        "en": "A surplus budget",
+        "as": "এটা উদ্বৃত্ত বাজেট"
+      },
+      {
+        "en": "A balanced budget",
+        "as": "এটা ভাৰসাম্যপূৰ্ণ বাজেট"
+      },
+      {
+        "en": "A zero budget",
+        "as": "এটা শূন্য বাজেট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A deficit budget arises when the government's estimated expenditure is greater than its estimated receipts.",
+      "as": "এটা ঘাটি বাজেট তেতিয়া হয় যেতিয়া চৰকাৰৰ অনুমিত ব্যয় ইয়াৰ অনুমিত ৰাজহতকৈ বেছি হয়।"
+    }
+  }
+]

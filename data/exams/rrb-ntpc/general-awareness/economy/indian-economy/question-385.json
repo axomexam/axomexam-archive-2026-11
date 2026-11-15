@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-385",
+    "q": {
+      "en": "Which term refers to the market for long-term funds?",
+      "as": "কোন শব্দই দীৰ্ঘম্যাদী ধনৰ বজাৰক বুজায়?"
+    },
+    "options": [
+      {
+        "en": "The money market",
+        "as": "ধন বজাৰ"
+      },
+      {
+        "en": "The capital market",
+        "as": "মূলধন বজাৰ"
+      },
+      {
+        "en": "The foreign exchange market",
+        "as": "বৈদেশিক মুদ্ৰা বজাৰ"
+      },
+      {
+        "en": "The commodity market",
+        "as": "সামগ্ৰী বজাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The capital market deals in long-term funds through shares, debentures and bonds.",
+      "as": "মূলধন বজাৰে অংশ, ঋণপত্ৰ আৰু বণ্ডৰ জৰিয়তে দীৰ্ঘম্যাদী ধনত লেনদেন কৰে।"
+    }
+  }
+]

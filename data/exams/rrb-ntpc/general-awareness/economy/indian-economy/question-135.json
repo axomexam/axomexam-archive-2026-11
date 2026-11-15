@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-135",
+    "q": {
+      "en": "Which type of GST is levied on inter-state transactions and imports?",
+      "as": "কোন প্ৰকাৰৰ জিএছটি আন্তঃৰাজ্যিক লেনদেন আৰু আমদানিৰ ওপৰত লগা হয়?"
+    },
+    "options": [
+      {
+        "en": "State GST",
+        "as": "ৰাজ্য জিএছটি"
+      },
+      {
+        "en": "Integrated GST",
+        "as": "সংহত জিএছটি"
+      },
+      {
+        "en": "Central GST",
+        "as": "কেন্দ্ৰীয় জিএছটি"
+      },
+      {
+        "en": "Union Territory GST",
+        "as": "কেন্দ্ৰীয় শাসিত অঞ্চল জিএছটি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Integrated GST is levied on inter-state supplies and imports, collected by the centre.",
+      "as": "সংহত জিএছটি আন্তঃৰাজ্যিক যোগান আৰু আমদানিৰ ওপৰত লগা হয়, কেন্দ্ৰই সংগ্ৰহ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-156",
+    "q": {
+      "en": "Which of the following is a type of subsidy given in India?",
+      "as": "তলৰ কোনটো ভাৰতত দিয়া এটা প্ৰকাৰৰ ৰাজসাহায্য?"
+    },
+    "options": [
+      {
+        "en": "Income tax",
+        "as": "আয় কৰ"
+      },
+      {
+        "en": "GST",
+        "as": "জিএছটি"
+      },
+      {
+        "en": "Customs duty",
+        "as": "শুল্ক কৰ"
+      },
+      {
+        "en": "Food subsidy",
+        "as": "খাদ্য ৰাজসাহায্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "India provides subsidies such as food, fertiliser and fuel subsidies to support consumers and farmers.",
+      "as": "ভাৰতে ভোক্তা আৰু কৃষকসকলক সমৰ্থন কৰিবলৈ খাদ্য, সাৰ আৰু ইন্ধন ৰাজসাহায্যৰ দৰে ৰাজসাহায্য প্ৰদান কৰে।"
+    }
+  }
+]

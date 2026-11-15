@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-041",
+    "q": {
+      "en": "Which of the following is a public good?",
+      "as": "তলৰ কোনটো এটা ৰাজহুৱা সামগ্ৰী?"
+    },
+    "options": [
+      {
+        "en": "National defence",
+        "as": "ৰাষ্ট্ৰীয় প্ৰতিৰক্ষা"
+      },
+      {
+        "en": "A private car",
+        "as": "এখন ব্যক্তিগত গাড়ী"
+      },
+      {
+        "en": "A mobile phone",
+        "as": "এটা মোবাইল ফোন"
+      },
+      {
+        "en": "A restaurant meal",
+        "as": "ৰেস্তোৰাঁৰ খাদ্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Public goods such as national defence are non-rival and non-excludable and are usually provided by the state.",
+      "as": "ৰাষ্ট্ৰীয় প্ৰতিৰক্ষাৰ দৰে ৰাজহুৱা সামগ্ৰী অ-প্ৰতিদ্বন্দ্বী আৰু অ-বহিষ্কাৰযোগ্য আৰু সাধাৰণতে ৰাজ্যই যোগান ধৰে।"
+    }
+  }
+]

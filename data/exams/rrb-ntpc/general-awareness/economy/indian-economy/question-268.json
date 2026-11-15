@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-268",
+    "q": {
+      "en": "Which is the largest source of employment in India?",
+      "as": "ভাৰতত নিয়োগৰ আটাইতকৈ ডাঙৰ উৎস কোন?"
+    },
+    "options": [
+      {
+        "en": "Manufacturing",
+        "as": "উৎপাদন"
+      },
+      {
+        "en": "Information technology",
+        "as": "তথ্য প্ৰযুক্তি"
+      },
+      {
+        "en": "Agriculture and allied activities",
+        "as": "কৃষি আৰু সংশ্লিষ্ট কাৰ্য্যকলাপ"
+      },
+      {
+        "en": "Mining",
+        "as": "খনন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Agriculture and allied activities remain the largest source of employment in India.",
+      "as": "কৃষি আৰু সংশ্লিষ্ট কাৰ্য্যকলাপ ভাৰতত নিয়োগৰ আটাইতকৈ ডাঙৰ উৎস হৈ আছে।"
+    }
+  }
+]

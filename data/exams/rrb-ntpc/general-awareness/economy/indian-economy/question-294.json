@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-294",
+    "q": {
+      "en": "Which scheme aims to provide clean cooking fuel to poor households?",
+      "as": "কোন আঁচনিয়ে দৰিদ্ৰ পৰিয়ালক পৰিষ্কাৰ ৰন্ধন ইন্ধন প্ৰদানৰ লক্ষ্য ৰাখে?"
+    },
+    "options": [
+      {
+        "en": "The Jan Dhan Yojana",
+        "as": "জন ধন যোজনা"
+      },
+      {
+        "en": "The Mudra Yojana",
+        "as": "মুদ্ৰা যোজনা"
+      },
+      {
+        "en": "The Awas Yojana",
+        "as": "আৱাস যোজনা"
+      },
+      {
+        "en": "The Pradhan Mantri Ujjwala Yojana",
+        "as": "প্ৰধানমন্ত্ৰী উজ্জ্বলা যোজনা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Pradhan Mantri Ujjwala Yojana provides LPG connections to women from poor households.",
+      "as": "প্ৰধানমন্ত্ৰী উজ্জ্বলা যোজনাই দৰিদ্ৰ পৰিয়ালৰ মহিলাসকলক এলপিজি সংযোগ প্ৰদান কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-105",
+    "q": {
+      "en": "What is meant by the Cash Reserve Ratio in monetary policy?",
+      "as": "মুদ্ৰা নীতিত নগদ সংৰক্ষিত অনুপাতই কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "The share of profits paid as tax",
+        "as": "কৰ হিচাপে দিয়া লাভৰ অংশ"
+      },
+      {
+        "en": "The share of loans given to farmers",
+        "as": "কৃষকক দিয়া ঋণৰ অংশ"
+      },
+      {
+        "en": "The share of deposits banks must keep as cash with the RBI",
+        "as": "জমাৰ সেই অংশ যি বেংকসমূহে আৰ.বি.আই.ৰ ওচৰত নগদ হিচাপে ৰাখিব লাগে"
+      },
+      {
+        "en": "The share of foreign exchange held",
+        "as": "ৰখা বৈদেশিক মুদ্ৰাৰ অংশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The CRR is a share of deposits that banks must hold as cash with the RBI, affecting liquidity.",
+      "as": "চিআৰআৰ হ'ল জমাৰ এটা অংশ যি বেংকসমূহে আৰ.বি.আই.ৰ ওচৰত নগদ হিচাপে ৰাখিব লাগে, তৰলতাক প্ৰভাৱিত কৰি।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-005",
+    "q": {
+      "en": "What does Gross National Product (GNP) include that GDP does not?",
+      "as": "মুঠ ৰাষ্ট্ৰীয় উৎপাদন (জিএনপি)ত জিডিপিত নথকা কি অন্তৰ্ভুক্ত?"
+    },
+    "options": [
+      {
+        "en": "Only indirect taxes",
+        "as": "কেৱল পৰোক্ষ কৰ"
+      },
+      {
+        "en": "Only depreciation",
+        "as": "কেৱল অৱক্ষয়"
+      },
+      {
+        "en": "Net factor income from abroad",
+        "as": "বিদেশৰ পৰা নিট কাৰক আয়"
+      },
+      {
+        "en": "Only subsidies",
+        "as": "কেৱল ৰাজসাহায্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "GNP equals GDP plus net factor income from abroad, capturing income earned by residents overseas.",
+      "as": "জিএনপি হ'ল জিডিপি যোগ বিদেশৰ পৰা নিট কাৰক আয়, বিদেশত বাসিন্দাসকলে অৰ্জন কৰা আয় ধৰি লৈ।"
+    }
+  }
+]

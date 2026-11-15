@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-329",
+    "q": {
+      "en": "Which bank provides long-term infrastructure finance in Asia?",
+      "as": "এছিয়াত দীৰ্ঘম্যাদী আন্তঃগাঁথনি বিত্ত কোন বেংকে যোগান ধৰে?"
+    },
+    "options": [
+      {
+        "en": "The World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "The IMF",
+        "as": "আইএমএফ"
+      },
+      {
+        "en": "The New Development Bank",
+        "as": "নতুন উন্নয়ন বেংক"
+      },
+      {
+        "en": "The Asian Development Bank",
+        "as": "এছিয়ান ডেভেলপমেণ্ট বেংক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Asian Development Bank, headquartered in Manila, finances infrastructure and development in Asia.",
+      "as": "এছিয়ান ডেভেলপমেণ্ট বেংক, মেনিলাত সদৰ, এছিয়াত আন্তঃগাঁথনি আৰু উন্নয়নত বিত্ত যোগান ধৰে।"
+    }
+  }
+]

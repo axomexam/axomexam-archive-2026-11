@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-319",
+    "q": {
+      "en": "Where is the headquarters of the International Monetary Fund?",
+      "as": "আন্তৰ্জাতিক মুদ্ৰা নিধিৰ সদৰ ক'ত?"
+    },
+    "options": [
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "New York",
+        "as": "নিউয়ৰ্ক"
+      },
+      {
+        "en": "Washington",
+        "as": "ৱাশিংটন"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The headquarters of the IMF is in Washington, D.C.",
+      "as": "আইএমএফৰ সদৰ ৱাশিংটন ডি.চি.ত।"
+    }
+  }
+]

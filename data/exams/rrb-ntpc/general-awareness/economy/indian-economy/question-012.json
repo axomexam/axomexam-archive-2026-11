@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-012",
+    "q": {
+      "en": "What is the difference between nominal GDP and real GDP called?",
+      "as": "নামমাত্ৰ জিডিপি আৰু প্ৰকৃত জিডিপিৰ মাজৰ পাৰ্থক্যক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "The inflation premium",
+        "as": "মুদ্ৰাস্ফীতি প্ৰিমিয়াম"
+      },
+      {
+        "en": "The multiplier",
+        "as": "গুণক"
+      },
+      {
+        "en": "The GDP deflator",
+        "as": "জিডিপি ডিফ্লেটৰ"
+      },
+      {
+        "en": "The accelerator",
+        "as": "ত্বৰক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The GDP deflator, or the ratio of nominal to real GDP, measures the general price level.",
+      "as": "জিডিপি ডিফ্লেটৰ, বা নামমাত্ৰ আৰু প্ৰকৃত জিডিপিৰ অনুপাত, সাধাৰণ মূল্য স্তৰ জোখে।"
+    }
+  }
+]

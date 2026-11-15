@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-245",
+    "q": {
+      "en": "Which sector is known as the backbone of the Indian economy?",
+      "as": "কোন খণ্ডক ভাৰতীয় অৰ্থনীতিৰ মেৰুদণ্ড হিচাপে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Information technology",
+        "as": "তথ্য প্ৰযুক্তি"
+      },
+      {
+        "en": "Agriculture",
+        "as": "কৃষি"
+      },
+      {
+        "en": "Steel",
+        "as": "ইস্পাত"
+      },
+      {
+        "en": "Banking",
+        "as": "বেংকিং"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Agriculture is often called the backbone of the Indian economy for its employment and output role.",
+      "as": "কৃষিক প্ৰায়ে ইয়াৰ নিয়োগ আৰু উৎপাদন ভূমিকাৰ বাবে ভাৰতীয় অৰ্থনীতিৰ মেৰুদণ্ড বোলা হয়।"
+    }
+  }
+]

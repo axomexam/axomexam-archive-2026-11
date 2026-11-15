@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-304",
+    "q": {
+      "en": "Which is the largest slum in India?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ বস্তি কোন?"
+    },
+    "options": [
+      {
+        "en": "Dharavi in Mumbai",
+        "as": "মুম্বাইৰ ধাৰাৱী"
+      },
+      {
+        "en": "Seelampur in Delhi",
+        "as": "দিল্লীৰ ছীলামপুৰ"
+      },
+      {
+        "en": "Basanti in Kolkata",
+        "as": "কলিকতাৰ বাসন্তী"
+      },
+      {
+        "en": "Yerawada in Pune",
+        "as": "পুনাৰ য়েৰৱাডা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dharavi in Mumbai is one of the largest slums in India and Asia.",
+      "as": "মুম্বাইৰ ধাৰাৱী ভাৰত আৰু এছিয়াৰ আটাইতকৈ ডাঙৰ বস্তিসমূহৰ এটা।"
+    }
+  }
+]

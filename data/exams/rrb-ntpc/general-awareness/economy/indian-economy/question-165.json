@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-165",
+    "q": {
+      "en": "Which Indian state grows the most rice?",
+      "as": "কোন ভাৰতীয় ৰাজ্যই আটাইতকৈ বেছি ধান উৎপাদন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাৱ"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "West Bengal leads all Indian states in the production of rice.",
+      "as": "পশ্চিম বংগ ধান উৎপাদনত সকলো ভাৰতীয় ৰাজ্যৰ আগত।"
+    }
+  }
+]

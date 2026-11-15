@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-154",
+    "q": {
+      "en": "Which is the highest decision-making body for the GST in India?",
+      "as": "ভাৰতত জিএছটিৰ বাবে সৰ্বোচ্চ সিদ্ধান্ত গ্ৰহণকাৰী সংস্থা কোন?"
+    },
+    "options": [
+      {
+        "en": "The Finance Commission",
+        "as": "বিত্ত আয়োগ"
+      },
+      {
+        "en": "The NITI Aayog",
+        "as": "নীতি আয়োগ"
+      },
+      {
+        "en": "The GST Council",
+        "as": "জিএছটি পৰিষদ"
+      },
+      {
+        "en": "The Reserve Bank",
+        "as": "ৰিজাৰ্ভ বেংক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The GST Council is the apex body for decisions on GST, with representation from the centre and states.",
+      "as": "জিএছটি পৰিষদ জিএছটিৰ সিদ্ধান্তৰ শীৰ্ষ সংস্থা, কেন্দ্ৰ আৰু ৰাজ্যৰ প্ৰতিনিধিত্বৰ সৈতে।"
+    }
+  }
+]

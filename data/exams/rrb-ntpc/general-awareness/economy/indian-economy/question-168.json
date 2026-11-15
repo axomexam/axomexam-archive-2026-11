@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-168",
+    "q": {
+      "en": "Coffee production in India is dominated by which state?",
+      "as": "ভাৰতত কফি উৎপাদনত কোন ৰাজ্যৰ আধিপত্য?"
+    },
+    "options": [
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰ প্ৰদেশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Karnataka contributes the largest share of India's coffee output.",
+      "as": "কৰ্ণাটকে ভাৰতৰ কফি উৎপাদনৰ আটাইতকৈ বৃহৎ অংশ যোগায়।"
+    }
+  }
+]

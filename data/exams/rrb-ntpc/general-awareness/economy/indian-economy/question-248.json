@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-248",
+    "q": {
+      "en": "Which is the largest import item of India?",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ আমদানি সামগ্ৰী কোন?"
+    },
+    "options": [
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      },
+      {
+        "en": "Machinery",
+        "as": "যন্ত্ৰপাতি"
+      },
+      {
+        "en": "Crude petroleum",
+        "as": "অশোধিত পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "Fertilisers",
+        "as": "সাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Crude petroleum is India's largest import item by value.",
+      "as": "মূল্যৰ ভিত্তিত অশোধিত পেট্ৰ'লিয়াম ভাৰতৰ আটাইতকৈ ডাঙৰ আমদানি সামগ্ৰী।"
+    }
+  }
+]

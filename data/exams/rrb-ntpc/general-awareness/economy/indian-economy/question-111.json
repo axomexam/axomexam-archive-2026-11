@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-111",
+    "q": {
+      "en": "Which scheme launched in 2014 aimed at financial inclusion through bank accounts?",
+      "as": "২০১৪ চনত আৰম্ভ কৰা কোন আঁচনিয়ে বেংক একাউণ্টৰ জৰিয়তে বিত্তীয় অন্তৰ্ভুক্তিৰ লক্ষ্য ৰাখিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Mudra Yojana",
+        "as": "মুদ্ৰা যোজনা"
+      },
+      {
+        "en": "The Pradhan Mantri Jan Dhan Yojana",
+        "as": "প্ৰধানমন্ত্ৰী জন ধন যোজনা"
+      },
+      {
+        "en": "The Atal Pension Yojana",
+        "as": "অটল পেন্সন যোজনা"
+      },
+      {
+        "en": "The Sukanya Samriddhi Yojana",
+        "as": "সুকন্যা সমৃদ্ধি যোজনা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Pradhan Mantri Jan Dhan Yojana was launched in 2014 to open bank accounts for the unbanked.",
+      "as": "প্ৰধানমন্ত্ৰী জন ধন যোজনা ২০১৪ চনত বেংক একাউণ্ট নথকা লোকৰ বাবে একাউণ্ট খোলাৰ বাবে আৰম্ভ কৰা হৈছিল।"
+    }
+  }
+]

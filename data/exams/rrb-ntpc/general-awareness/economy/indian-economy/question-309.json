@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-309",
+    "q": {
+      "en": "What are foreign exchange reserves?",
+      "as": "বৈদেশিক মুদ্ৰা ভঁৰাল কি?"
+    },
+    "options": [
+      {
+        "en": "Assets held by the central bank in foreign currencies",
+        "as": "কেন্দ্ৰীয় বেংকে বিদেশী মুদ্ৰাত ৰখা সম্পত্তি"
+      },
+      {
+        "en": "Gold held by households",
+        "as": "পৰিয়ালে ৰখা সোণ"
+      },
+      {
+        "en": "Loans given to foreign countries",
+        "as": "বিদেশী দেশক দিয়া ঋণ"
+      },
+      {
+        "en": "Taxes collected on trade",
+        "as": "বাণিজ্যৰ ওপৰত সংগ্ৰহ কৰা কৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Foreign exchange reserves are assets held by the RBI, including foreign currency, gold and SDRs.",
+      "as": "বৈদেশিক মুদ্ৰা ভঁৰাল হ'ল আৰ.বি.আই.ৰ ৰখা সম্পত্তি, বিদেশী মুদ্ৰা, সোণ আৰু এছডিআৰকে ধৰি।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-223",
+    "q": {
+      "en": "Most of India's electricity is generated from which source?",
+      "as": "ভাৰতৰ অধিকাংশ বিদ্যুৎ কোন উৎসৰ পৰা উৎপাদন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Hydroelectric power",
+        "as": "জলবিদ্যুৎ"
+      },
+      {
+        "en": "Nuclear power",
+        "as": "পাৰমাণৱিক বিদ্যুৎ"
+      },
+      {
+        "en": "Wind power",
+        "as": "বায়ু বিদ্যুৎ"
+      },
+      {
+        "en": "Coal-based thermal power",
+        "as": "কয়লাভিত্তিক তাপ বিদ্যুৎ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Coal-based thermal power accounts for the largest share of electricity generation in India.",
+      "as": "কয়লাভিত্তিক তাপ বিদ্যুৎ ভাৰতত বিদ্যুৎ উৎপাদনৰ আটাইতকৈ বৃহৎ অংশ যোগায়।"
+    }
+  }
+]

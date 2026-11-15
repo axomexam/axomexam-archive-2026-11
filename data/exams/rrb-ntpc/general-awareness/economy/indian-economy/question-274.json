@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-274",
+    "q": {
+      "en": "Which was the first census conducted in India in 1872 under British rule?",
+      "as": "ব্ৰিটিছ শাসনত ১৮৭২ চনত ভাৰতত কৰা প্ৰথম জনগণনা কোনটো আছিল?"
+    },
+    "options": [
+      {
+        "en": "The 1881 census",
+        "as": "১৮৮১ চনৰ জনগণনা"
+      },
+      {
+        "en": "The 1901 census",
+        "as": "১৯০১ চনৰ জনগণনা"
+      },
+      {
+        "en": "The first non-synchronous census",
+        "as": "প্ৰথম অসামকক্ষিক জনগণনা"
+      },
+      {
+        "en": "The 1921 census",
+        "as": "১৯২১ চনৰ জনগণনা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The first census in India was conducted in 1872, though it was not synchronous across the country.",
+      "as": "ভাৰতত প্ৰথম জনগণনা ১৮৭২ চনত কৰা হৈছিল, যদিও ই দেশজুৰি সামকক্ষিক নাছিল।"
+    }
+  }
+]

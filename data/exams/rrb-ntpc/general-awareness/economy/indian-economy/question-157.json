@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-157",
+    "q": {
+      "en": "Which type of deficit shows the government's borrowing requirement?",
+      "as": "কোন প্ৰকাৰৰ ঘাটিয়ে চৰকাৰৰ ধাৰ লোৱাৰ প্ৰয়োজন দেখুৱায়?"
+    },
+    "options": [
+      {
+        "en": "Revenue deficit",
+        "as": "ৰাজহ ঘাটি"
+      },
+      {
+        "en": "Primary deficit",
+        "as": "প্ৰাথমিক ঘাটি"
+      },
+      {
+        "en": "Fiscal deficit",
+        "as": "বিত্তীয় ঘাটি"
+      },
+      {
+        "en": "Trade deficit",
+        "as": "বাণিজ্য ঘাটি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The fiscal deficit indicates the total borrowing requirement of the government.",
+      "as": "বিত্তীয় ঘাটিয়ে চৰকাৰৰ মুঠ ধাৰ লোৱাৰ প্ৰয়োজন সূচায়।"
+    }
+  }
+]

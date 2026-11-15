@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-090",
+    "q": {
+      "en": "Which three presidency banks were merged in 1921 to form the Imperial Bank of India?",
+      "as": "১৯২১ চনত কোন তিনিটা প্ৰেচিডেন্সি বেংক একত্ৰিত কৰি ইম্পেৰিয়েল বেংক অৱ ইণ্ডিয়া গঠন কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Bengal, Delhi and Madras banks",
+        "as": "বেংগল, দিল্লী আৰু মাদ্ৰাজ বেংক"
+      },
+      {
+        "en": "Bombay, Punjab and Madras banks",
+        "as": "বম্বে, পঞ্জাৱ আৰু মাদ্ৰাজ বেংক"
+      },
+      {
+        "en": "Bengal, Bombay and Punjab banks",
+        "as": "বেংগল, বম্বে আৰু পঞ্জাৱ বেংক"
+      },
+      {
+        "en": "Bengal, Bombay and Madras banks",
+        "as": "বেংগল, বম্বে আৰু মাদ্ৰাজ বেংক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Bank of Bengal, Bank of Bombay and Bank of Madras merged in 1921 to form the Imperial Bank of India.",
+      "as": "বেংক অৱ বেংগল, বেংক অৱ বম্বে আৰু বেংক অৱ মাদ্ৰাজ ১৯২১ চনত একত্ৰিত হৈ ইম্পেৰিয়েল বেংক অৱ ইণ্ডিয়া গঠন কৰিছিল।"
+    }
+  }
+]

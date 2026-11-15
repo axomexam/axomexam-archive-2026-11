@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-130",
+    "q": {
+      "en": "Which type of tax is levied on goods and services and passed on to the consumer?",
+      "as": "কোন প্ৰকাৰৰ কৰ সামগ্ৰী আৰু সেৱাৰ ওপৰত লগা হয় আৰু ভোক্তালৈ পাৰ কৰি দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "A direct tax",
+        "as": "এটা প্ৰত্যক্ষ কৰ"
+      },
+      {
+        "en": "An income tax",
+        "as": "এটা আয় কৰ"
+      },
+      {
+        "en": "An indirect tax",
+        "as": "এটা পৰোক্ষ কৰ"
+      },
+      {
+        "en": "A wealth tax",
+        "as": "এটা সম্পত্তি কৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Indirect taxes such as GST are levied on goods and services and ultimately borne by consumers.",
+      "as": "পৰোক্ষ কৰ, যেনে জিএছটি, সামগ্ৰী আৰু সেৱাৰ ওপৰত লগা হয় আৰু শেষত ভোক্তাই বহন কৰে।"
+    }
+  }
+]

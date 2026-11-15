@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-economy-367",
+    "q": {
+      "en": "Which is the largest state in India by population?",
+      "as": "জনসংখ্যাৰ ভিত্তিত ভাৰতৰ আটাইতকৈ ডাঙৰ ৰাজ্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
+      },
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      },
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "By number of people, Uttar Pradesh is the biggest Indian state.",
+      "as": "লোকৰ সংখ্যাৰ হিচাপত, উত্তৰ প্ৰদেশ ভাৰতৰ আটাইতকৈ ডাঙৰ ৰাজ্য।"
+    }
+  }
+]
