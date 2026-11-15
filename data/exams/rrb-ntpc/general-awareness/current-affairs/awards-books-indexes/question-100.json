@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-100",
+    "q": {
+      "en": "Which Assamese personality is known as the 'Bard of the Brahmaputra'?",
+      "as": "কোন অসমীয়া ব্যক্তিত্বক 'ব্ৰহ্মপুত্ৰৰ বৰ্ধ' বুলি জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Bhupen Hazarika",
+        "as": "ভূপেন হাজৰিকা"
+      },
+      {
+        "en": "Jyoti Prasad Agarwala",
+        "as": "জ্যোতি প্ৰসাদ আগৰৱালা"
+      },
+      {
+        "en": "Lakshminath Bezbaroa",
+        "as": "লক্ষ্মীনাথ বেজবৰুৱা"
+      },
+      {
+        "en": "Bishnu Prasad Rabha",
+        "as": "বিষ্ণু প্ৰসাদ ৰাভা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The title Bard of the Brahmaputra belongs to Bhupen Hazarika.",
+      "as": "ভূপেন হাজৰিকাক ব্ৰহ্মপুত্ৰৰ বৰ্ধ বুলি জনা যায়।"
+    }
+  }
+]

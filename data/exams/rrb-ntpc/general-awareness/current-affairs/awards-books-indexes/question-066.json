@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-066",
+    "q": {
+      "en": "Which of these is the autobiography of Jawaharlal Nehru?",
+      "as": "তলৰ কোনখন জৱাহৰলাল নেহৰুৰ আত্মজীৱনী?"
+    },
+    "options": [
+      {
+        "en": "India Wins Freedom",
+        "as": "ইণ্ডিয়া ৱিনছ ফ্ৰিডম"
+      },
+      {
+        "en": "The Story of My Life",
+        "as": "দ্য ষ্ট'ৰী অৱ মাই লাইফ"
+      },
+      {
+        "en": "Arunima",
+        "as": "অৰুণিমা"
+      },
+      {
+        "en": "An Autobiography",
+        "as": "এন অটোবায়োগ্ৰাফী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'An Autobiography' (also known as 'Toward Freedom') is the autobiography of Jawaharlal Nehru.",
+      "as": "'এন অটোবায়োগ্ৰাফী' (তাৰ্দশ্য 'টৱাৰ্ড ফ্ৰিডম') জৱাহৰলাল নেহৰুৰ আত্মজীৱনী।"
+    }
+  }
+]

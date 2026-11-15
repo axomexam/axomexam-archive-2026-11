@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-129",
+    "q": {
+      "en": "Which two institutions publish the Environmental Performance Index?",
+      "as": "পৰিৱেশ প্ৰদৰ্শন সূচক কোন দুটা প্ৰতিষ্ঠানে প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Harvard and MIT",
+        "as": "হাৰ্ভাৰ্ড আৰু এম আই টি"
+      },
+      {
+        "en": "Oxford and Cambridge",
+        "as": "অক্সফৰ্ড আৰু কেম্ব্ৰিজ"
+      },
+      {
+        "en": "Stanford and Princeton",
+        "as": "ষ্টেনফৰ্ড আৰু প্ৰিন্সটন"
+      },
+      {
+        "en": "Yale and Columbia University",
+        "as": "য়েল আৰু কলম্বিয়া বিশ্ববিদ্যালয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Environmental Performance Index is published by Yale and Columbia University.",
+      "as": "পৰিৱেশ প্ৰদৰ্শন সূচক য়েল আৰু কলম্বিয়া বিশ্ববিদ্যালয়ে প্ৰকাশ কৰে।"
+    }
+  }
+]

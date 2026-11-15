@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-049",
+    "q": {
+      "en": "Excellence in which area earns the Sahitya Akademi Award?",
+      "as": "সাহিত্য একাডেমী বঁটা কোন ক্ষেত্ৰত উৎকৰ্ষৰ বাবে দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Music",
+        "as": "সংগীত"
+      },
+      {
+        "en": "Literature",
+        "as": "সাহিত্য"
+      },
+      {
+        "en": "Dance",
+        "as": "নৃত্য"
+      },
+      {
+        "en": "Painting",
+        "as": "চিত্ৰকলা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Sahitya Akademi Award recognises excellence in literature.",
+      "as": "সাহিত্য একাডেমী বঁটা সাহিত্যত উৎকৰ্ষৰ বাবে প্ৰদান কৰা হয়।"
+    }
+  }
+]

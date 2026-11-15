@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-096",
+    "q": {
+      "en": "The Assamese writer Rongbong Terang belongs to which community's literature?",
+      "as": "অসমীয়া লেখক ৰংবং তেৰাং কোন জনগোষ্ঠীৰ সাহিত্যৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Bodo",
+        "as": "বড়ো"
+      },
+      {
+        "en": "Mishing",
+        "as": "মিচিং"
+      },
+      {
+        "en": "Karbi",
+        "as": "কাৰ্বি"
+      },
+      {
+        "en": "Rabha",
+        "as": "ৰাভা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rongbong Terang is associated with Karbi literature.",
+      "as": "ৰংবং তেৰাং কাৰ্বি সাহিত্যৰ সৈতে জড়িত।"
+    }
+  }
+]

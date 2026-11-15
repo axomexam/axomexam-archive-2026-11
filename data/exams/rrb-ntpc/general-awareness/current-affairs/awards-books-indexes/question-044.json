@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-044",
+    "q": {
+      "en": "The Abel Prize honours work in which subject?",
+      "as": "আবেল বঁটা কোন শাখাত দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Literature",
+        "as": "সাহিত্য"
+      },
+      {
+        "en": "Peace",
+        "as": "শান্তি"
+      },
+      {
+        "en": "Economics",
+        "as": "অৰ্থনীতি"
+      },
+      {
+        "en": "Mathematics",
+        "as": "গণিত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Abel Prize is associated with mathematics.",
+      "as": "আবেল বঁটা গণিতৰ সৈতে জড়িত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-133",
+    "q": {
+      "en": "The Global Competitiveness Report is brought out by which organisation?",
+      "as": "গ্ল'বেল কম্পিটিটিভনেছ ৰিপৰ্ট কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "IMF",
+        "as": "আই এম এফ"
+      },
+      {
+        "en": "OECD",
+        "as": "অ' ই চি ডি"
+      },
+      {
+        "en": "World Economic Forum",
+        "as": "বিশ্ব অৰ্থনৈতিক মঞ্চ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Global Competitiveness Report is published by the World Economic Forum.",
+      "as": "গ্ল'বেল কম্পিটিটিভনেছ ৰিপৰ্ট বিশ্ব অৰ্থনৈতিক মঞ্চই প্ৰকাশ কৰে।"
+    }
+  }
+]

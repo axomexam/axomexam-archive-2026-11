@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-163",
+    "q": {
+      "en": "Which organisation publishes the Global Wealth Report?",
+      "as": "গ্ল'বেল ৱেলথ ৰিপৰ্ট কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "IMF",
+        "as": "আই এম এফ"
+      },
+      {
+        "en": "OECD",
+        "as": "অ' ই চি ডি"
+      },
+      {
+        "en": "UBS",
+        "as": "ইউ বি এছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Global Wealth Report is published by UBS.",
+      "as": "গ্ল'বেল ৱেলথ ৰিপৰ্ট ইউ বি এছে প্ৰকাশ কৰে।"
+    }
+  }
+]

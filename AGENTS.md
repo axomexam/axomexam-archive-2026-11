@@ -862,3 +862,61 @@ What was done, so the next agent does not redo or undo it:
 - **`data/counts.json` is deliberately unchanged.** The book is still
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
+
+## Session record — Nov 2026 RRB NTPC Awards, Books & Indexes question bank (171 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Extended** the Awards, Books & Indexes topic of the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/current-affairs/awards-books-indexes/`:
+  `question-002.json` … `question-171.json` (170 new files) on top of the
+  existing `question-001.json` ("highest civilian award of India"), for **171
+  questions** in the topic. Each file holds one MCQ in the repo's shape — `id`,
+  `q.{en,as}`, four `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 171 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty and
+  cover: civilian awards (Bharat Ratna, Padma Vibhushan / Bhushan / Shri, their
+  order of precedence and announcing month, conferring authority, first
+  recipients), gallantry awards (Param Vir Chakra, Ashoka Chakra, Maha Vir
+  Chakra, Vir Chakra, Kirti Chakra, Shaurya Chakra — wartime and peacetime
+  order), sports awards (Major Dhyan Chand Khel Ratna and its old name, Arjuna,
+  Dronacharya, Dhyan Chand Award, National Sports Day), cinema and other awards
+  (Dadasaheb Phalke, Swarna Kamal, National Film Awards, Ramon Magsaysay,
+  Right Livelihood / Alternative Nobel, Goldman / Green Nobel, Pulitzer,
+  Booker, Grammy, Oscar, Fields Medal, Abel Prize, Shanti Swarup Bhatnagar,
+  Sangeet Natak / Lalit Kala / Sahitya Akademi, Jnanpith and Saraswati Samman),
+  books and authors (national song and anthem, 'Wings of Fire', 'The Discovery
+  of India', 'My Experiments with Truth', 'India Wins Freedom', Arthashastra,
+  Indica, Mahabharata / Ramayana / Bhagavad Gita, Kalidasa, Tulsidas, the
+  Assamese novel tradition — Bhanumati, Manomati, Miri Jiyori, Iyaruingam,
+  Mrityunjay, Burhi Aair Sadhu, Homen Borgohain, Mamoni Raisom Goswami, the
+  Rupkonwar / Kalaguru / Sahityarathi titles), and the indexes and reports
+  (Human Development Index, Global Hunger Index, Ease of Doing Business, Global
+  Innovation Index, Global Gender Gap, Environmental Performance, Corruption
+  Perceptions, Global Peace, World Happiness, Global Competitiveness, World
+  Press Freedom, Global Terrorism, Climate Change Performance, Multidimensional
+  Poverty, Global Slavery, Henley Passport, plus the Indian indexes — Ease of
+  Living, SDG India, Swachh Survekshan, Export Preparedness, India Justice,
+  India State of Forest, Economic Survey, Good Governance — each paired with
+  the organisation that publishes it).
+- **Answer keys** are spread over A/B/C/D — across all 171 questions the slots
+  hold 44/43/42/42; `--book rrb-ntpc --topic
+  general-awareness/current-affairs/awards-books-indexes --check` reports 0
+  skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive, English and Assamese) against all other
+  question text already in `data/`. The first pass flagged 176 fields across 77
+  questions as near-duplicates (difflib ratio >= 0.90) — heavily against the
+  adre-grade-3/4 awards-honours banks, the assam-police sports-awards bank and
+  the current-affairs awards-honours/books-authors banks, which already ask the
+  same "highest civilian award / Jnanpith year / which field is X given in"
+  stems. A generic-transform reworder cleared most, and handcrafted rewrites
+  cleared the rest, bringing **cross-bank to 0**. A second pass cleared the
+  internal self-collisions (the parallel "which organisation brings out the
+  Global X Index" and "in which year was the X award instituted" series) to
+  **0** internally. The correct option and its meaning were never changed
+  anywhere, only wording.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.

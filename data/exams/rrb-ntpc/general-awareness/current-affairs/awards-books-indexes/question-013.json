@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-013",
+    "q": {
+      "en": "Which wartime gallantry award ranks second after the Param Vir Chakra?",
+      "as": "পৰম বীৰ চক্ৰৰ পিছত দ্বিতীয় স্থানৰ যুদ্ধকালীন বীৰত্ব সন্মান কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Vir Chakra",
+        "as": "বীৰ চক্ৰ"
+      },
+      {
+        "en": "Kirti Chakra",
+        "as": "কীৰ্তি চক্ৰ"
+      },
+      {
+        "en": "Maha Vir Chakra",
+        "as": "মহা বীৰ চক্ৰ"
+      },
+      {
+        "en": "Ashoka Chakra",
+        "as": "অশোক চক্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Maha Vir Chakra ranks second among wartime gallantry awards, after the Param Vir Chakra.",
+      "as": "পৰম বীৰ চক্ৰৰ পিছত মহা বীৰ চক্ৰ যুদ্ধকালীন বীৰত্ব সন্মানৰ ভিতৰত দ্বিতীয় স্থান পায়।"
+    }
+  }
+]

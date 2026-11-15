@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-008",
+    "q": {
+      "en": "When was the Bharat Ratna instituted?",
+      "as": "ভাৰত ৰত্ন কিমান চনত আৰম্ভ কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "1950",
+        "as": "১৯৫০"
+      },
+      {
+        "en": "1947",
+        "as": "১৯৪৭"
+      },
+      {
+        "en": "1954",
+        "as": "১৯৫৪"
+      },
+      {
+        "en": "1961",
+        "as": "১৯৬১"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Bharat Ratna came into existence in 1954.",
+      "as": "ভাৰত ৰত্ন ১৯৫৪ চনত আৰম্ভ কৰা হৈছিল।"
+    }
+  }
+]

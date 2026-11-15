@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-157",
+    "q": {
+      "en": "Which organisation publishes the Quality of Living City Ranking?",
+      "as": "কোৱালিটি অৱ লিভিং চিটি ৰেংকিং কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Economist Intelligence Unit",
+        "as": "ইক'নমিষ্ট ইণ্টেলিজেন্স ইউনিট"
+      },
+      {
+        "en": "Mercer",
+        "as": "মাৰ্চাৰ"
+      },
+      {
+        "en": "UNDP",
+        "as": "ইউ এন ডি পি"
+      },
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Quality of Living City Ranking is published by Mercer.",
+      "as": "কোৱালিটি অৱ লিভিং চিটি ৰেংকিং মাৰ্চাৰে প্ৰকাশ কৰে।"
+    }
+  }
+]

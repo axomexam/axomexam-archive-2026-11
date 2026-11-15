@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-086",
+    "q": {
+      "en": "Mamoni Raisom Goswami was given the Jnanpith Award for which novel?",
+      "as": "মামণি ৰয়ছম গোস্বামীক কোন উপন্যাসৰ বাবে জ্ঞানপীঠ বঁটা দিয়া হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Mrityunjay",
+        "as": "মৃত্যুঞ্জয়"
+      },
+      {
+        "en": "Iyaruingam",
+        "as": "ইয়াৰুইংগম"
+      },
+      {
+        "en": "Dontal Hatir Une Khowa Howdah",
+        "as": "দঁতাল হাতীৰ উনে খোৱা হাওদা"
+      },
+      {
+        "en": "Manomati",
+        "as": "মনোমতী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mamoni Raisom Goswami received the Jnanpith Award for 'Dontal Hatir Une Khowa Howdah'.",
+      "as": "'দঁতাল হাতীৰ উনে খোৱা হাওদা' ৰ বাবে জ্ঞানপীঠ বঁটা মামণি ৰয়ছম গোস্বামীক দিয়া হৈছিল।"
+    }
+  }
+]

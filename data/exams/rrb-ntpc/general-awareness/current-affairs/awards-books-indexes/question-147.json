@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-147",
+    "q": {
+      "en": "Which body prepares the SDG India Index?",
+      "as": "এছ ডি জি ইণ্ডিয়া ইনডেক্স কোন সংস্থাই প্ৰস্তুত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Ministry of Statistics",
+        "as": "পৰিসংখ্যা মন্ত্ৰালয়"
+      },
+      {
+        "en": "RBI",
+        "as": "আৰ বি আই"
+      },
+      {
+        "en": "NITI Aayog",
+        "as": "নীতি আয়োগ"
+      },
+      {
+        "en": "Ministry of Home Affairs",
+        "as": "গৃহ মন্ত্ৰালয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The SDG India Index is prepared by NITI Aayog.",
+      "as": "এছ ডি জি ইণ্ডিয়া ইনডেক্স নীতি আয়োগে প্ৰস্তুত কৰে।"
+    }
+  }
+]

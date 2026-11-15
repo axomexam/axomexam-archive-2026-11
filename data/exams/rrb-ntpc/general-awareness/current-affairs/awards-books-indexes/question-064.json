@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-064",
+    "q": {
+      "en": "'The Discovery of India' was authored by whom?",
+      "as": "'দ্য ডিস্কভাৰী অৱ ইণ্ডিয়া' কোনে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Jawaharlal Nehru",
+        "as": "জৱাহৰলাল নেহৰু"
+      },
+      {
+        "en": "Mahatma Gandhi",
+        "as": "মহাত্মা গান্ধী"
+      },
+      {
+        "en": "Sardar Patel",
+        "as": "সৰ্দাৰ পেটেল"
+      },
+      {
+        "en": "B.R. Ambedkar",
+        "as": "বি.আৰ. আম্বেদকাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'The Discovery of India' came from the pen of Jawaharlal Nehru.",
+      "as": "'দ্য ডিস্কভাৰী অৱ ইণ্ডিয়া' জৱাহৰলাল নেহৰুৱে ৰচনা কৰিছিল।"
+    }
+  }
+]

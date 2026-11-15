@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-091",
+    "q": {
+      "en": "Who is the author of the Assamese novel 'Pita Putra'?",
+      "as": "অসমীয়া উপন্যাস 'পিতা পুত্ৰ' ৰ লেখক কোন?"
+    },
+    "options": [
+      {
+        "en": "Homen Borgohain",
+        "as": "হোমেন বৰগোহাঞি"
+      },
+      {
+        "en": "Birendra Kumar Bhattacharya",
+        "as": "বীৰেন্দ্ৰ কুমাৰ ভট্টাচাৰ্য"
+      },
+      {
+        "en": "Syed Abdul Malik",
+        "as": "চৈয়দ আব্দুল মালিক"
+      },
+      {
+        "en": "Rajen Tarafdar",
+        "as": "ৰাজেন তাৰাফদাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Homen Borgohain is the author of the Assamese novel 'Pita Putra'.",
+      "as": "হোমেন বৰগোহাঞি অসমীয়া উপন্যাস 'পিতা পুত্ৰ' ৰ লেখক।"
+    }
+  }
+]

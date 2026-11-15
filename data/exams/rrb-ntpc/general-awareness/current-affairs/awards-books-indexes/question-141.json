@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-141",
+    "q": {
+      "en": "Which organisation publishes the Living Planet Report?",
+      "as": "লিভিং প্লেনেট ৰিপৰ্ট কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "UNEP",
+        "as": "ইউ এন ই পি"
+      },
+      {
+        "en": "Greenpeace",
+        "as": "গ্ৰীণপিছ"
+      },
+      {
+        "en": "WWF",
+        "as": "ডব্লিউ ডব্লিউ এফ"
+      },
+      {
+        "en": "IUCN",
+        "as": "আই ইউ চি এন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Living Planet Report is published by the WWF.",
+      "as": "লিভিং প্লেনেট ৰিপৰ্ট ডব্লিউ ডব্লিউ এফে প্ৰকাশ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-131",
+    "q": {
+      "en": "Which organisation brings out the Global Peace Index?",
+      "as": "গ্ল'বেল পিছ ইনডেক্স কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Institute for Economics and Peace",
+        "as": "ইনষ্টিটিউট ফৰ ইক'নমিকছ এণ্ড পিছ"
+      },
+      {
+        "en": "United Nations",
+        "as": "ৰাষ্ট্ৰসংঘ"
+      },
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "NATO",
+        "as": "নেট'"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Global Peace Index comes from the Institute for Economics and Peace.",
+      "as": "গ্ল'বেল পিছ ইনডেক্স ইনষ্টিটিউট ফৰ ইক'নমিকছ এণ্ড পিছৰ পৰা আহে।"
+    }
+  }
+]

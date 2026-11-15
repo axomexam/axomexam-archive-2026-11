@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-012",
+    "q": {
+      "en": "What is the highest gallantry award of India given for bravery in peacetime?",
+      "as": "শান্তিকালীন সাহসৰ বাবে দিয়া ভাৰতৰ সৰ্বোচ্চ বীৰত্ব সন্মান কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Ashoka Chakra",
+        "as": "অশোক চক্ৰ"
+      },
+      {
+        "en": "Param Vir Chakra",
+        "as": "পৰম বীৰ চক্ৰ"
+      },
+      {
+        "en": "Maha Vir Chakra",
+        "as": "মহা বীৰ চক্ৰ"
+      },
+      {
+        "en": "Shaurya Chakra",
+        "as": "শৌৰ্য চক্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Ashoka Chakra is the highest gallantry award given for bravery in peacetime.",
+      "as": "অশোক চক্ৰ শান্তিকালীন সাহসৰ বাবে দিয়া সৰ্বোচ্চ বীৰত্ব সন্মান।"
+    }
+  }
+]

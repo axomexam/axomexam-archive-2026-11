@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-155",
+    "q": {
+      "en": "Which organisation publishes the Global Firepower Index of military strength?",
+      "as": "সামৰিক শক্তিৰ গ্ল'বেল ফায়াৰপাৱাৰ ইনডেক্স কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "SIPRI",
+        "as": "ছিপ্ৰি"
+      },
+      {
+        "en": "Global Firepower",
+        "as": "গ্ল'বেল ফায়াৰপাৱাৰ"
+      },
+      {
+        "en": "United Nations",
+        "as": "ৰাষ্ট্ৰসংঘ"
+      },
+      {
+        "en": "NATO",
+        "as": "নেট'"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Global Firepower Index is published by Global Firepower.",
+      "as": "গ্ল'বেল ফায়াৰপাৱাৰ ইনডেক্স গ্ল'বেল ফায়াৰপাৱাৰে প্ৰকাশ কৰে।"
+    }
+  }
+]

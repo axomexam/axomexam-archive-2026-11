@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-074",
+    "q": {
+      "en": "'Gitanjali', which won the Nobel Prize, is a work of which author?",
+      "as": "নোবেল বঁটা জয় কৰা 'গীতাঞ্জলি' কোন লেখকৰ কৃতি?"
+    },
+    "options": [
+      {
+        "en": "Sarojini Naidu",
+        "as": "সৰোজিনী নাইডু"
+      },
+      {
+        "en": "Rabindranath Tagore",
+        "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ"
+      },
+      {
+        "en": "Sri Aurobindo",
+        "as": "শ্ৰী অৰবিন্দ"
+      },
+      {
+        "en": "Bankim Chandra Chatterjee",
+        "as": "বঙ্কিম চন্দ্ৰ চট্টোপাধ্যায়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Gitanjali' is a collection of poems by Rabindranath Tagore.",
+      "as": "'গীতাঞ্জলি' ৰবীন্দ্ৰনাথ ঠাকুৰৰ কবিতাৰ সংকলন।"
+    }
+  }
+]

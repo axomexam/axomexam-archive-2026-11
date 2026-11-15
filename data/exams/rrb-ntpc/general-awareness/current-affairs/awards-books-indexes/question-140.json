@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-140",
+    "q": {
+      "en": "Which agency publishes the Emissions Gap Report?",
+      "as": "এমিছনছ গেপ ৰিপৰ্ট কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "IPCC",
+        "as": "আই পি চি চি"
+      },
+      {
+        "en": "WMO",
+        "as": "ডব্লিউ এম অ'"
+      },
+      {
+        "en": "IEA",
+        "as": "আই ই এ"
+      },
+      {
+        "en": "UNEP",
+        "as": "ইউ এন ই পি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Emissions Gap Report is published by UNEP.",
+      "as": "এমিছনছ গেপ ৰিপৰ্ট ইউ এন ই পি য়ে প্ৰকাশ কৰে।"
+    }
+  }
+]

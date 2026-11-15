@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-029",
+    "q": {
+      "en": "Name the highest award in Indian cinema?",
+      "as": "ভাৰতীয় চলচ্চিত্ৰ জগতৰ আটাইতকৈ ওখ সন্মান কি?"
+    },
+    "options": [
+      {
+        "en": "Dadasaheb Phalke Award",
+        "as": "দাদাচাহেব ফাল্কে বঁটা"
+      },
+      {
+        "en": "Filmfare Award",
+        "as": "ফিল্মফেয়াৰ বঁটা"
+      },
+      {
+        "en": "National Film Award for Best Actor",
+        "as": "শ্ৰেষ্ঠ অভিনেতাৰ ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটা"
+      },
+      {
+        "en": "Swarna Kamal",
+        "as": "স্বৰ্ণ কমল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Indian cinema's topmost award is the Dadasaheb Phalke Award.",
+      "as": "দাদাচাহেব ফাল্কে বঁটা হৈছে ভাৰতীয় চলচ্চিত্ৰৰ আটাইতকৈ ওখ সন্মান।"
+    }
+  }
+]

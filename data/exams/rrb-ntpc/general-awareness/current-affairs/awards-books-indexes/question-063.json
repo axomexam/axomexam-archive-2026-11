@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-063",
+    "q": {
+      "en": "'Wings of Fire' is the autobiography of which Indian personality?",
+      "as": "'ৱিংছ অৱ ফায়াৰ' কোন ভাৰতীয় ব্যক্তিত্বৰ আত্মজীৱনী?"
+    },
+    "options": [
+      {
+        "en": "Vikram Sarabhai",
+        "as": "বিক্ৰম সাৰাভাই"
+      },
+      {
+        "en": "Homi Bhabha",
+        "as": "হোমি ভাবা"
+      },
+      {
+        "en": "A.P.J. Abdul Kalam",
+        "as": "এ.পি.জে. আব্দুল কালাম"
+      },
+      {
+        "en": "C.V. Raman",
+        "as": "চি.ভি. ৰমন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A.P.J. Abdul Kalam told his own life story in 'Wings of Fire'.",
+      "as": "এ.পি.জে. আব্দুল কালামে 'ৱিংছ অৱ ফায়াৰ' ত নিজৰ জীৱন কাহিনী লিখিছে।"
+    }
+  }
+]

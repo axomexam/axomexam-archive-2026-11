@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-156",
+    "q": {
+      "en": "Which body releases the Global Liveability Index?",
+      "as": "গ্ল'বেল লিভেবিলিটি ইনডেক্স কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Mercer",
+        "as": "মাৰ্চাৰ"
+      },
+      {
+        "en": "Economist Intelligence Unit",
+        "as": "ইক'নমিষ্ট ইণ্টেলিজেন্স ইউনিট"
+      },
+      {
+        "en": "UNDP",
+        "as": "ইউ এন ডি পি"
+      },
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Global Liveability Index is published by the Economist Intelligence Unit.",
+      "as": "গ্ল'বেল লিভেবিলিটি ইনডেক্স ইক'নমিষ্ট ইণ্টেলিজেন্স ইউনিটে প্ৰকাশ কৰে।"
+    }
+  }
+]

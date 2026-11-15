@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-154",
+    "q": {
+      "en": "Which organisation publishes the World Competitiveness Ranking?",
+      "as": "ৱৰ্ল্ড কম্পিটিটিভনেছ ৰেংকিং কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "WEF",
+        "as": "ডব্লিউ ই এফ"
+      },
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "IMD",
+        "as": "আই এম ডি"
+      },
+      {
+        "en": "OECD",
+        "as": "অ' ই চি ডি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The World Competitiveness Ranking is published by IMD.",
+      "as": "ৱৰ্ল্ড কম্পিটিটিভনেছ ৰেংকিং আই এম ডিয়ে প্ৰকাশ কৰে।"
+    }
+  }
+]

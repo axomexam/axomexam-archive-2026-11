@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-080",
+    "q": {
+      "en": "The Assamese novel 'Manomati' is set against which historical backdrop?",
+      "as": "অসমীয়া উপন্যাস 'মনোমতী' কোন ঐতিহাসিক পটভূমিত ৰচিত?"
+    },
+    "options": [
+      {
+        "en": "The Sepoy Mutiny",
+        "as": "চিপাহী বিদ্ৰোহ"
+      },
+      {
+        "en": "The Burmese invasion of Assam",
+        "as": "অসমলৈ বৰ্মীজ আক্ৰমণ"
+      },
+      {
+        "en": "The Battle of Plassey",
+        "as": "পলাশীৰ যুদ্ধ"
+      },
+      {
+        "en": "The Mughal conquest of Delhi",
+        "as": "দিল্লীৰ মোগল বিজয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Manomati' is set against the Burmese invasion of Assam.",
+      "as": "'মনোমতী' অসমলৈ বৰ্মীজ আক্ৰমণৰ পটভূমিত ৰচিত।"
+    }
+  }
+]

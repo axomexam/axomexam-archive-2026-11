@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-032",
+    "q": {
+      "en": "Which personality received the Dadasaheb Phalke Award first?",
+      "as": "দাদাচাহেব ফাল্কে বঁটাৰ প্ৰথম প্ৰাপক কোন?"
+    },
+    "options": [
+      {
+        "en": "Devika Rani",
+        "as": "দেৱিকা ৰাণী"
+      },
+      {
+        "en": "Prithviraj Kapoor",
+        "as": "পৃথ্বীৰাজ কাপুৰ"
+      },
+      {
+        "en": "Satyajit Ray",
+        "as": "সত্যজিৎ ৰায়"
+      },
+      {
+        "en": "Dilip Kumar",
+        "as": "দিলীপ কুমাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Dadasaheb Phalke Award went first, in 1969, to Devika Rani.",
+      "as": "১৯৬৯ চনত দাদাচাহেব ফাল্কে বঁটা প্ৰথমে দেৱিকা ৰাণীয়ে লাভ কৰিছিল।"
+    }
+  }
+]

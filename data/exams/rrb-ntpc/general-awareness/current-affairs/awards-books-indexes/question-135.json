@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-135",
+    "q": {
+      "en": "Which organisation publishes the Global Terrorism Index?",
+      "as": "গ্ল'বেল টেৰ'ৰিজম ইনডেক্স কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Institute for Economics and Peace",
+        "as": "ইনষ্টিটিউট ফৰ ইক'নমিকছ এণ্ড পিছ"
+      },
+      {
+        "en": "Interpol",
+        "as": "ইণ্টাৰপ'ল"
+      },
+      {
+        "en": "United Nations",
+        "as": "ৰাষ্ট্ৰসংঘ"
+      },
+      {
+        "en": "NATO",
+        "as": "নেট'"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Institute for Economics and Peace compiles the Global Terrorism Index.",
+      "as": "গ্ল'বেল টে'ৰৰিজম ইনডেক্স ইনষ্টিটিউট ফৰ ইক'নমিকছ এণ্ড পিছে সংকলন কৰে।"
+    }
+  }
+]

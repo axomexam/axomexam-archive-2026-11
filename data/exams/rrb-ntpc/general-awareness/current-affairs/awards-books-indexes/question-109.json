@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-109",
+    "q": {
+      "en": "The book 'Asamiya Bhasa Aru Sahitya' was written by which scholar?",
+      "as": "'অসমীয়া ভাষা আৰু সাহিত্য' গ্ৰন্থখন কোন পণ্ডিতে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Lakshminath Bezbaroa",
+        "as": "লক্ষ্মীনাথ বেজবৰুৱা"
+      },
+      {
+        "en": "Hemchandra Goswami",
+        "as": "হেমচন্দ্ৰ গোস্বামী"
+      },
+      {
+        "en": "Banikanta Kakati",
+        "as": "বাণীকান্ত কাকতি"
+      },
+      {
+        "en": "Satyanath Bora",
+        "as": "সত্যনাথ বৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Asamiya Bhasa Aru Sahitya' was written by the scholar Hemchandra Goswami.",
+      "as": "'অসমীয়া ভাষা আৰু সাহিত্য' পণ্ডিত হেমচন্দ্ৰ গোস্বামীয়ে লিখিছিল।"
+    }
+  }
+]

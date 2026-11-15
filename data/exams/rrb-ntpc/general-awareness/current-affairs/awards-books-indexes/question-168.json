@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-168",
+    "q": {
+      "en": "Which organisation publishes the Gender Inequality Index?",
+      "as": "জেণ্ডাৰ ইনইকুৱালিটি ইনডেক্স কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "UN Women",
+        "as": "ইউ এন ৱুমেন"
+      },
+      {
+        "en": "UNDP",
+        "as": "ইউ এন ডি পি"
+      },
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "WEF",
+        "as": "ডব্লিউ ই এফ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Gender Inequality Index is published by UNDP.",
+      "as": "জেণ্ডাৰ ইনইকুৱালিটি ইনডেক্স ইউ এন ডি পি য়ে প্ৰকাশ কৰে।"
+    }
+  }
+]

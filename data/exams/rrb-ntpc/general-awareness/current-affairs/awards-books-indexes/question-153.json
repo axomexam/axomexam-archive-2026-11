@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-153",
+    "q": {
+      "en": "Which body publishes the Good Governance Index in India?",
+      "as": "ভাৰতত গুড গভাৰ্নেন্স ইনডেক্স কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "NITI Aayog",
+        "as": "নীতি আয়োগ"
+      },
+      {
+        "en": "Ministry of Home Affairs",
+        "as": "গৃহ মন্ত্ৰালয়"
+      },
+      {
+        "en": "RBI",
+        "as": "আৰ বি আই"
+      },
+      {
+        "en": "Department of Administrative Reforms and Public Grievances",
+        "as": "প্ৰশাসনিক সংস্কাৰ আৰু ৰাজহুৱা অভিযোগ বিভাগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Good Governance Index is published by the Department of Administrative Reforms and Public Grievances.",
+      "as": "গুড গভাৰ্নেন্স ইনডেক্স প্ৰশাসনিক সংস্কাৰ আৰু ৰাজহুৱা অভিযোগ বিভাগে প্ৰকাশ কৰে।"
+    }
+  }
+]

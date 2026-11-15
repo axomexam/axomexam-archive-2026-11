@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-058",
+    "q": {
+      "en": "Which national award recognises unsung heroes who selflessly serve society in India?",
+      "as": "ভাৰতত নিস্বাৰ্থভাৱে সমাজসেৱা কৰা অখ্যাত নায়কসকলক কোন ৰাষ্ট্ৰীয় বঁটাই সন্মান জনায়?"
+    },
+    "options": [
+      {
+        "en": "National Bravery Award",
+        "as": "ৰাষ্ট্ৰীয় সাহসিকতা বঁটা"
+      },
+      {
+        "en": "Gallantry Awards",
+        "as": "বীৰত্ব বঁটা"
+      },
+      {
+        "en": "Vigyan Puraskar",
+        "as": "বিজ্ঞান পুৰস্কাৰ"
+      },
+      {
+        "en": "Padma Awards",
+        "as": "পদ্ম সন্মান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Padma Awards recognise unsung heroes who selflessly serve society.",
+      "as": "পদ্ম সন্মানে নিস্বাৰ্থভাৱে সমাজসেৱা কৰা অখ্যাত নায়কসকলক সন্মান জনায়।"
+    }
+  }
+]

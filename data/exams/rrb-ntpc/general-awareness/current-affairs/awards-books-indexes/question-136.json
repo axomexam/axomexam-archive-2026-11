@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-136",
+    "q": {
+      "en": "Which organisation publishes the Climate Change Performance Index?",
+      "as": "জলবায়ু পৰিৱৰ্তন প্ৰদৰ্শন সূচক কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "UNEP",
+        "as": "ইউ এন ই পি"
+      },
+      {
+        "en": "Germanwatch",
+        "as": "জাৰ্মানৱাচ"
+      },
+      {
+        "en": "WWF",
+        "as": "ডব্লিউ ডব্লিউ এফ"
+      },
+      {
+        "en": "IPCC",
+        "as": "আই পি চি চি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Climate Change Performance Index is published by Germanwatch.",
+      "as": "জলবায়ু পৰিৱৰ্তন প্ৰদৰ্শন সূচক জাৰ্মানৱাচে প্ৰকাশ কৰে।"
+    }
+  }
+]

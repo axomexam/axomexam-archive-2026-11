@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-120",
+    "q": {
+      "en": "The play 'Mudrarakshasa' was written by which author?",
+      "as": "নাট 'মুদ্ৰাৰাক্ষস' কোন লেখকে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Kalidasa",
+        "as": "কালিদাস"
+      },
+      {
+        "en": "Vishakhadatta",
+        "as": "বিশাখদত্ত"
+      },
+      {
+        "en": "Bhavabhuti",
+        "as": "ভৱভূতি"
+      },
+      {
+        "en": "Banabhatta",
+        "as": "বাণভট্ট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Mudrarakshasa' was written by Vishakhadatta.",
+      "as": "'মুদ্ৰাৰাক্ষস' বিশাখদত্তই লিখিছিল।"
+    }
+  }
+]

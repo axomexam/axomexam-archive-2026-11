@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-150",
+    "q": {
+      "en": "Which body publishes the India Justice Report?",
+      "as": "ইণ্ডিয়া জাষ্টিছ ৰিপৰ্ট কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Supreme Court of India",
+        "as": "ভাৰতৰ উচ্চতম ন্যায়ালয়"
+      },
+      {
+        "en": "Ministry of Law and Justice",
+        "as": "আইন আৰু ন্যায় মন্ত্ৰালয়"
+      },
+      {
+        "en": "Tata Trusts",
+        "as": "টাটা ট্ৰাষ্টছ"
+      },
+      {
+        "en": "NITI Aayog",
+        "as": "নীতি আয়োগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The India Justice Report is published by Tata Trusts.",
+      "as": "ইণ্ডিয়া জাষ্টিছ ৰিপৰ্ট টাটা ট্ৰাষ্টছে প্ৰকাশ কৰে।"
+    }
+  }
+]

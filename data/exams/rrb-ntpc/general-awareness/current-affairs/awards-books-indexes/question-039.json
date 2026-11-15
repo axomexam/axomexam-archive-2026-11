@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-039",
+    "q": {
+      "en": "The Pulitzer Prize belongs to which field?",
+      "as": "পুলিৎজাৰ বঁটা কাক প্ৰদান কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Cinema",
+        "as": "চলচ্চিত্ৰ"
+      },
+      {
+        "en": "Mathematics",
+        "as": "গণিত"
+      },
+      {
+        "en": "Journalism",
+        "as": "সাংবাদিকতা"
+      },
+      {
+        "en": "Music",
+        "as": "সংগীত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Pulitzer Prize is associated with journalism and the arts.",
+      "as": "পুলিৎজাৰ বঁটা সাংবাদিকতা আৰু কলাৰ সৈতে জড়িত।"
+    }
+  }
+]

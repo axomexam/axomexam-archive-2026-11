@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-132",
+    "q": {
+      "en": "The World Happiness Report is released by which body?",
+      "as": "ৱৰ্ল্ড হেপিনেছ ৰিপৰ্ট কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "WHO",
+        "as": "ডব্লিউ এইচ অ'"
+      },
+      {
+        "en": "UNDP",
+        "as": "ইউ এন ডি পি"
+      },
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "UN Sustainable Development Solutions Network",
+        "as": "ৰাষ্ট্ৰসংঘৰ বহনক্ষম উন্নয়ন সমাধান নেটৱৰ্ক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The World Happiness Report is published by the UN Sustainable Development Solutions Network.",
+      "as": "ৱৰ্ল্ড হেপিনেছ ৰিপৰ্ট ৰাষ্ট্ৰসংঘৰ বহনক্ষম উন্নয়ন সমাধান নেটৱৰ্কই প্ৰকাশ কৰে।"
+    }
+  }
+]

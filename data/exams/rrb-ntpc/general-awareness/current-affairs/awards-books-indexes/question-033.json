@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-033",
+    "q": {
+      "en": "Name the award that is known as the 'Asian Nobel Prize'?",
+      "as": "এছিয়াৰ নোবেল বঁটা বুলি চিনাক্ত কৰা হয় কোনটোক?"
+    },
+    "options": [
+      {
+        "en": "Booker Prize",
+        "as": "বুকাৰ বঁটা"
+      },
+      {
+        "en": "Pulitzer Prize",
+        "as": "পুলিৎজাৰ বঁটা"
+      },
+      {
+        "en": "Ramon Magsaysay Award",
+        "as": "ৰেমন মেগছেছে বঁটা"
+      },
+      {
+        "en": "Abel Prize",
+        "as": "আবেল বঁটা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ramon Magsaysay Award is popularly known as the Asian Nobel Prize.",
+      "as": "ৰেমন মেগছেছে বঁটাক জনপ্ৰিয়ভাৱে এছিয়াৰ নোবেল বঁটা বুলি জনা যায়।"
+    }
+  }
+]

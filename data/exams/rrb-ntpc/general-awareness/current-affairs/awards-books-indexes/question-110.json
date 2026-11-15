@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-110",
+    "q": {
+      "en": "Who wrote the Assamese grammar 'Asamiya Byakaran' that helped standardise modern Assamese?",
+      "as": "আধুনিক অসমীয়াক মান্য কৰিবলৈ সহায় কৰা অসমীয়া ব্যাকৰণ 'অসমীয়া ব্যাকৰণ' কোনে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Hemchandra Goswami",
+        "as": "হেমচন্দ্ৰ গোস্বামী"
+      },
+      {
+        "en": "Satyanath Bora",
+        "as": "সত্যনাথ বৰা"
+      },
+      {
+        "en": "Banikanta Kakati",
+        "as": "বাণীকান্ত কাকতি"
+      },
+      {
+        "en": "Hemchandra Barua",
+        "as": "হেমচন্দ্ৰ বৰুৱা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Hemchandra Barua wrote the Assamese grammar 'Asamiya Byakaran'.",
+      "as": "হেমচন্দ্ৰ বৰুৱাই অসমীয়া ব্যাকৰণ 'অসমীয়া ব্যাকৰণ' লিখিছিল।"
+    }
+  }
+]

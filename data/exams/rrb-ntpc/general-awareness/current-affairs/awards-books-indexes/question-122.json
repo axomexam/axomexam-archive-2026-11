@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-122",
+    "q": {
+      "en": "The Sanskrit play 'Mrichchhakatika' was written by which author?",
+      "as": "সংস্কৃত নাট 'মৃচ্ছকটিক' কোন লেখকে ৰচনা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Kalidasa",
+        "as": "কালিদাস"
+      },
+      {
+        "en": "Bhavabhuti",
+        "as": "ভৱভূতি"
+      },
+      {
+        "en": "Bhasa",
+        "as": "ভাস"
+      },
+      {
+        "en": "Sudraka",
+        "as": "শূদ্ৰক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'Mrichchhakatika' was written by Sudraka.",
+      "as": "'মৃচ্ছকটিক' শূদ্ৰকে লিখিছিল।"
+    }
+  }
+]

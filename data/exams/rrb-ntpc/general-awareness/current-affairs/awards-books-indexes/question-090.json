@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-090",
+    "q": {
+      "en": "Which Assamese litterateur received the Jnanpith Award in 2000?",
+      "as": "২০০০ চনৰ জ্ঞানপীঠ বঁটা কোন অসমীয়া সাহিত্যিকলৈ গৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Birendra Kumar Bhattacharya",
+        "as": "বীৰেন্দ্ৰ কুমাৰ ভট্টাচাৰ্য"
+      },
+      {
+        "en": "Homen Borgohain",
+        "as": "হোমেন বৰগোহাঞি"
+      },
+      {
+        "en": "Saurav Kumar Chaliha",
+        "as": "সৌৰভ কুমাৰ চলিহা"
+      },
+      {
+        "en": "Mamoni Raisom Goswami",
+        "as": "মামণি ৰয়ছম গোস্বামী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In 2000 the Jnanpith Award went to Mamoni Raisom Goswami.",
+      "as": "২০০০ চনত জ্ঞানপীঠ বঁটা মামণি ৰয়ছম গোস্বামীক দিয়া হৈছিল।"
+    }
+  }
+]

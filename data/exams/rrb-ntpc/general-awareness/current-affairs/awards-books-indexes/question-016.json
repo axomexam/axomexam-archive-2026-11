@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-016",
+    "q": {
+      "en": "Which peacetime gallantry honour ranks third in India?",
+      "as": "শান্তিকালীন বীৰত্ব সন্মানৰ ভিতৰত ভাৰতৰ তৃতীয়টো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Kirti Chakra",
+        "as": "কীৰ্তি চক্ৰ"
+      },
+      {
+        "en": "Vir Chakra",
+        "as": "বীৰ চক্ৰ"
+      },
+      {
+        "en": "Param Vir Chakra",
+        "as": "পৰম বীৰ চক্ৰ"
+      },
+      {
+        "en": "Shaurya Chakra",
+        "as": "শৌৰ্য চক্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "India's peacetime gallantry honours place the Shaurya Chakra third.",
+      "as": "শৌৰ্য চক্ৰ ভাৰতবৰ্ষৰ তৃতীয় সৰ্বোচ্চ শান্তিকালীন বীৰত্ব সন্মান।"
+    }
+  }
+]

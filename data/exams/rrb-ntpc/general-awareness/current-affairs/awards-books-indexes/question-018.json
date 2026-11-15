@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-018",
+    "q": {
+      "en": "Name the highest sporting honour of India?",
+      "as": "ভাৰতবৰ্ষৰ সৰ্বোচ্চ ক্ৰীড়া সন্মান কি?"
+    },
+    "options": [
+      {
+        "en": "Arjuna Award",
+        "as": "অৰ্জুন বঁটা"
+      },
+      {
+        "en": "Dronacharya Award",
+        "as": "দ্ৰোণাচাৰ্য বঁটা"
+      },
+      {
+        "en": "Dhyan Chand Award",
+        "as": "ধ্যানচান্দ বঁটা"
+      },
+      {
+        "en": "Major Dhyan Chand Khel Ratna",
+        "as": "মেজৰ ধ্যানচান্দ খেল ৰত্ন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "India's topmost sporting honour is the Major Dhyan Chand Khel Ratna.",
+      "as": "মেজৰ ধ্যানচান্দ খেল ৰত্ন হৈছে ভাৰতৰ আটাইতকৈ ওখ ক্ৰীড়া সন্মান।"
+    }
+  }
+]

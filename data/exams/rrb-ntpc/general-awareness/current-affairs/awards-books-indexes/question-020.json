@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-020",
+    "q": {
+      "en": "Which epic supplies the name for the Arjuna Award?",
+      "as": "অৰ্জুন বঁটা কোন মহাকাব্যৰ এজন চৰিত্ৰৰ নামেৰে নামকৰণ কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "Mahabharata",
+        "as": "মহাভাৰত"
+      },
+      {
+        "en": "Ramayana",
+        "as": "ৰামায়ণ"
+      },
+      {
+        "en": "Bhagavata",
+        "as": "ভাগৱত"
+      },
+      {
+        "en": "Rigveda",
+        "as": "ঋগ্বেদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Arjuna Award is named after Arjuna of the Mahabharata.",
+      "as": "অৰ্জুন বঁটা মহাভাৰতৰ অৰ্জুনৰ নামেৰে নামকৰণ কৰা হৈছে।"
+    }
+  }
+]

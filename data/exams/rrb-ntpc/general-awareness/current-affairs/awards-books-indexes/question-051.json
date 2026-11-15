@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-051",
+    "q": {
+      "en": "Excellence in which area earns the Jnanpith Award?",
+      "as": "জ্ঞানপীঠ বঁটা কোন ক্ষেত্ৰত উৎকৰ্ষৰ বাবে দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Literature",
+        "as": "সাহিত্য"
+      },
+      {
+        "en": "Cinema",
+        "as": "চলচ্চিত্ৰ"
+      },
+      {
+        "en": "Science",
+        "as": "বিজ্ঞান"
+      },
+      {
+        "en": "Journalism",
+        "as": "সাংবাদিকতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Jnanpith Award is given for excellence in literature.",
+      "as": "জ্ঞানপীঠ বঁটা সাহিত্যত উৎকৰ্ষৰ বাবে প্ৰদান কৰা হয়।"
+    }
+  }
+]

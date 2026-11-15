@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-160",
+    "q": {
+      "en": "Which body releases the Global Food Security Index?",
+      "as": "গ্ল'বেল ফুড চিকিউৰিটি ইনডেক্স কোনে প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "FAO",
+        "as": "এফ এ অ'"
+      },
+      {
+        "en": "Economist Impact",
+        "as": "ইক'নমিষ্ট ইম্পেক্ট"
+      },
+      {
+        "en": "WFP",
+        "as": "ডব্লিউ এফ পি"
+      },
+      {
+        "en": "IFPRI",
+        "as": "আই এফ পি আৰ আই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Global Food Security Index is published by Economist Impact.",
+      "as": "গ্ল'বেল ফুড চিকিউৰিটি ইনডেক্স ইক'নমিষ্ট ইম্পেক্টে প্ৰকাশ কৰে।"
+    }
+  }
+]

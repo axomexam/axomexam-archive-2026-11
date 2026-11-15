@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-060",
+    "q": {
+      "en": "'Vande Mataram' was originally a part of which novel?",
+      "as": "'বন্দে মাতৰম' মূলতঃ কোনখন উপন্যাসৰ অংশ আছিল?"
+    },
+    "options": [
+      {
+        "en": "Durgeshnandini",
+        "as": "দুৰ্গেশনন্দিনী"
+      },
+      {
+        "en": "Anandamath",
+        "as": "আনন্দমঠ"
+      },
+      {
+        "en": "Kapalkundala",
+        "as": "কপালকুণ্ডলা"
+      },
+      {
+        "en": "Mrinalini",
+        "as": "মৃণালিনী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Vande Mataram' originally appeared in Bankim Chandra Chatterjee's novel 'Anandamath'.",
+      "as": "'বন্দে মাতৰম' মূলতঃ বঙ্কিম চন্দ্ৰ চট্টোপাধ্যায়ৰ উপন্যাস 'আনন্দমঠ' ত প্ৰকাশ পাইছিল।"
+    }
+  }
+]

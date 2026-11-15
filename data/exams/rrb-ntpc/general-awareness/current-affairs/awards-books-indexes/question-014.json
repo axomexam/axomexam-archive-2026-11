@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-014",
+    "q": {
+      "en": "Which wartime gallantry honour stands third in India's order?",
+      "as": "ভাৰতৰ যুদ্ধকালীন বীৰত্ব সন্মানৰ ভিতৰত তৃতীয় স্থানত কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Maha Vir Chakra",
+        "as": "মহা বীৰ চক্ৰ"
+      },
+      {
+        "en": "Shaurya Chakra",
+        "as": "শৌৰ্য চক্ৰ"
+      },
+      {
+        "en": "Vir Chakra",
+        "as": "বীৰ চক্ৰ"
+      },
+      {
+        "en": "Ashoka Chakra",
+        "as": "অশোক চক্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Vir Chakra is the third-highest wartime gallantry award in India.",
+      "as": "বীৰ চক্ৰ ভাৰতৰ তৃতীয় সৰ্বোচ্চ যুদ্ধকালীন বীৰত্ব সন্মান।"
+    }
+  }
+]

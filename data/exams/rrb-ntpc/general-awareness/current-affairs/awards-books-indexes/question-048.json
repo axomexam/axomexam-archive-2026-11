@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-048",
+    "q": {
+      "en": "The Lalit Kala Akademi belongs to which field?",
+      "as": "ললিত কলা একাডেমী কোন ক্ষেত্ৰৰ লগত সম্পৰ্কিত?"
+    },
+    "options": [
+      {
+        "en": "Performing arts",
+        "as": "পৰিবেশন কলা"
+      },
+      {
+        "en": "Literature",
+        "as": "সাহিত্য"
+      },
+      {
+        "en": "Music",
+        "as": "সংগীত"
+      },
+      {
+        "en": "Visual arts",
+        "as": "দৃশ্য কলা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Lalit Kala Akademi is associated with the visual arts.",
+      "as": "ললিত কলা একাডেমী দৃশ্য কলাৰ সৈতে জড়িত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-023",
+    "q": {
+      "en": "For which field is the Arjuna Award meant to honour excellence?",
+      "as": "অৰ্জুন বঁটা কোন ক্ষেত্ৰত উৎকৰ্ষৰ বাবে দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Cinema",
+        "as": "চলচ্চিত্ৰ"
+      },
+      {
+        "en": "Sports",
+        "as": "ক্ৰীড়া"
+      },
+      {
+        "en": "Literature",
+        "as": "সাহিত্য"
+      },
+      {
+        "en": "Science",
+        "as": "বিজ্ঞান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Outstanding sporting achievement earns the Arjuna Award.",
+      "as": "অৰ্জুন বঁটা ক্ৰীড়াত উল্লেখযোগ্য সাফল্যৰ বাবে দিয়া হয়।"
+    }
+  }
+]

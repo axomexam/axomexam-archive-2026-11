@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-146",
+    "q": {
+      "en": "Which body publishes the Ease of Living Index in India?",
+      "as": "ভাৰতত ইজ অৱ লিভিং ইনডেক্স কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "NITI Aayog",
+        "as": "নীতি আয়োগ"
+      },
+      {
+        "en": "Ministry of Finance",
+        "as": "বিত্ত মন্ত্ৰালয়"
+      },
+      {
+        "en": "RBI",
+        "as": "আৰ বি আই"
+      },
+      {
+        "en": "Ministry of Housing and Urban Affairs",
+        "as": "আবাসন আৰু নগৰ পৰিক্ৰমা মন্ত্ৰালয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Ease of Living Index is published by the Ministry of Housing and Urban Affairs.",
+      "as": "ইজ অৱ লিভিং ইনডেক্স আবাসন আৰু নগৰ পৰিক্ৰমা মন্ত্ৰালয়ে প্ৰকাশ কৰে।"
+    }
+  }
+]

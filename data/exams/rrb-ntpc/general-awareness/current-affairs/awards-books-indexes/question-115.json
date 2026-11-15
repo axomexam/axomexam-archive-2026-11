@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-115",
+    "q": {
+      "en": "The 'Bhagavad Gita' forms a part of which epic?",
+      "as": "'ভগৱদ্গীতা' কোন মহাকাব্যৰ অংশ?"
+    },
+    "options": [
+      {
+        "en": "Ramayana",
+        "as": "ৰামায়ণ"
+      },
+      {
+        "en": "Vedas",
+        "as": "বেদ"
+      },
+      {
+        "en": "Puranas",
+        "as": "পুৰাণ"
+      },
+      {
+        "en": "Mahabharata",
+        "as": "মহাভাৰত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Within the 'Mahabharata' lies the 'Bhagavad Gita'.",
+      "as": "'ভগৱদ্গীতা' 'মহাভাৰত' ৰ অংশ।"
+    }
+  }
+]

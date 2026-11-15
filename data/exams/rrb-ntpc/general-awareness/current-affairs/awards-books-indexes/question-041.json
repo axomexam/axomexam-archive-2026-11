@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-041",
+    "q": {
+      "en": "The Grammy Award belongs to which field?",
+      "as": "গ্ৰেমী বঁটা কোন ক্ষেত্ৰৰ লগত সম্পৰ্কিত?"
+    },
+    "options": [
+      {
+        "en": "Cinema",
+        "as": "চলচ্চিত্ৰ"
+      },
+      {
+        "en": "Television",
+        "as": "দূৰদৰ্শন"
+      },
+      {
+        "en": "Literature",
+        "as": "সাহিত্য"
+      },
+      {
+        "en": "Music",
+        "as": "সংগীত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Grammy Award is associated with music.",
+      "as": "গ্ৰেমী বঁটা সংগীতৰ সৈতে জড়িত।"
+    }
+  }
+]

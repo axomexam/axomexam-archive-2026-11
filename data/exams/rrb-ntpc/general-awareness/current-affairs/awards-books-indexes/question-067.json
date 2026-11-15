@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-067",
+    "q": {
+      "en": "'India Wins Freedom' was written by which freedom fighter?",
+      "as": "'ইণ্ডিয়া ৱিনছ ফ্ৰিডম' কোন স্বাধীনতা সংগ্ৰামীয়ে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Jawaharlal Nehru",
+        "as": "জৱাহৰলাল নেহৰু"
+      },
+      {
+        "en": "Sardar Patel",
+        "as": "সৰ্দাৰ পেটেল"
+      },
+      {
+        "en": "C. Rajagopalachari",
+        "as": "চি. ৰাজাগোপালাচাৰী"
+      },
+      {
+        "en": "Maulana Abul Kalam Azad",
+        "as": "মৌলানা আবুল কালাম আজাদ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'India Wins Freedom' was written by Maulana Abul Kalam Azad.",
+      "as": "'ইণ্ডিয়া ৱিনছ ফ্ৰিডম' মৌলানা আবুল কালাম আজাদে লিখিছিল।"
+    }
+  }
+]

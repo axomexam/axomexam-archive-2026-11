@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-149",
+    "q": {
+      "en": "Which body publishes the Export Preparedness Index of Indian states?",
+      "as": "ভাৰতীয় ৰাজ্যবোৰৰ ৰপ্তানি প্ৰস্তুতি সূচক কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Ministry of Commerce",
+        "as": "বাণিজ্য মন্ত্ৰালয়"
+      },
+      {
+        "en": "RBI",
+        "as": "আৰ বি আই"
+      },
+      {
+        "en": "SEBI",
+        "as": "এছ ই বি আই"
+      },
+      {
+        "en": "NITI Aayog",
+        "as": "নীতি আয়োগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Export Preparedness Index is published by NITI Aayog.",
+      "as": "ৰপ্তানি প্ৰস্তুতি সূচক নীতি আয়োগে প্ৰকাশ কৰে।"
+    }
+  }
+]

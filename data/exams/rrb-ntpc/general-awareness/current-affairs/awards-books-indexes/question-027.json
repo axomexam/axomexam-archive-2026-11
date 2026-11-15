@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-027",
+    "q": {
+      "en": "Which award is given for the best feature film at the National Film Awards?",
+      "as": "ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটাত শ্ৰেষ্ঠ কাহিনী ছবিৰ বাবে কোন বঁটা দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Swarna Kamal",
+        "as": "স্বৰ্ণ কমল"
+      },
+      {
+        "en": "Rajat Kamal",
+        "as": "ৰজত কমল"
+      },
+      {
+        "en": "Golden Peacock",
+        "as": "গ'ল্ডেন পিকক"
+      },
+      {
+        "en": "Silver Bear",
+        "as": "ছিলভাৰ বিয়েৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Swarna Kamal (Golden Lotus) is awarded for the best feature film at the National Film Awards.",
+      "as": "ৰাষ্ট্ৰীয় চলচ্চিত্ৰ বঁটাত শ্ৰেষ্ঠ কাহিনী ছবিৰ বাবে স্বৰ্ণ কমল দিয়া হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-077",
+    "q": {
+      "en": "The Assamese novel 'Mrityunjay' was written by whom?",
+      "as": "অসমীয়া উপন্যাস 'মৃত্যুঞ্জয়' কোন ব্যক্তিয়ে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Homen Borgohain",
+        "as": "হোমেন বৰগোহাঞি"
+      },
+      {
+        "en": "Syed Abdul Malik",
+        "as": "চৈয়দ আব্দুল মালিক"
+      },
+      {
+        "en": "Rajen Tarafdar",
+        "as": "ৰাজেন তাৰাফদাৰ"
+      },
+      {
+        "en": "Birendra Kumar Bhattacharya",
+        "as": "বীৰেন্দ্ৰ কুমাৰ ভট্টাচাৰ্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Assamese novel 'Mrityunjay' was written by Birendra Kumar Bhattacharya.",
+      "as": "অসমীয়া উপন্যাস 'মৃত্যুঞ্জয়' বীৰেন্দ্ৰ কুমাৰ ভট্টাচাৰ্যই লিখিছিল।"
+    }
+  }
+]

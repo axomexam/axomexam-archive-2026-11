@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-004",
+    "q": {
+      "en": "Which Padma Award ranks second in the order of precedence?",
+      "as": "পদ্ম সন্মানৰ ভিতৰত কোনটোৱে ক্ৰম অনুসৰি দ্বিতীয় স্থান পায়?"
+    },
+    "options": [
+      {
+        "en": "Padma Bhushan",
+        "as": "পদ্ম ভূষণ"
+      },
+      {
+        "en": "Padma Vibhushan",
+        "as": "পদ্ম বিভূষণ"
+      },
+      {
+        "en": "Padma Shri",
+        "as": "পদ্ম শ্ৰী"
+      },
+      {
+        "en": "Bharat Ratna",
+        "as": "ভাৰত ৰত্ন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "India's second-highest civilian honour goes to the Padma Vibhushan.",
+      "as": "ভাৰতৰ দ্বিতীয় সৰ্বোচ্চ অসামৰিক সন্মানটো পদ্ম বিভূষণ।"
+    }
+  }
+]

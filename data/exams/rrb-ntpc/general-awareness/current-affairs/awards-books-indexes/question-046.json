@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-046",
+    "q": {
+      "en": "Which organisation confers the Shanti Swarup Bhatnagar Prize?",
+      "as": "শান্তি স্বৰূপ ভাটনগৰ বঁটা কোন সংস্থাই প্ৰদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "ICMR",
+        "as": "আই চি এম আৰ"
+      },
+      {
+        "en": "CSIR",
+        "as": "চি এছ আই আৰ"
+      },
+      {
+        "en": "ISRO",
+        "as": "ইছৰো"
+      },
+      {
+        "en": "UGC",
+        "as": "ইউ জি চি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Shanti Swarup Bhatnagar Prize is conferred by CSIR.",
+      "as": "শান্তি স্বৰূপ ভাটনগৰ বঁটা চি এছ আই আৰে প্ৰদান কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-075",
+    "q": {
+      "en": "'Gitanjali' is a collection of what?",
+      "as": "'গীতাঞ্জলি' কিৰ সংকলন?"
+    },
+    "options": [
+      {
+        "en": "Short stories",
+        "as": "চুটি গল্প"
+      },
+      {
+        "en": "Poems",
+        "as": "কবিতা"
+      },
+      {
+        "en": "Essays",
+        "as": "প্ৰবন্ধ"
+      },
+      {
+        "en": "Plays",
+        "as": "নাটক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Gitanjali' is a collection of poems.",
+      "as": "'গীতাঞ্জলি' কবিতাৰ সংকলন।"
+    }
+  }
+]

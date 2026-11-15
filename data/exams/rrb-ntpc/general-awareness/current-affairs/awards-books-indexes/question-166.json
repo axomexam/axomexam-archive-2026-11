@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-166",
+    "q": {
+      "en": "Which organisation publishes the E-Government Development Index?",
+      "as": "ই-গভাৰ্নমেণ্ট ডেভেলপমেণ্ট ইনডেক্স কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "United Nations",
+        "as": "ৰাষ্ট্ৰসংঘ"
+      },
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "ITU",
+        "as": "আই টি ইউ"
+      },
+      {
+        "en": "OECD",
+        "as": "অ' ই চি ডি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The E-Government Development Index is published by the United Nations.",
+      "as": "ই-গভাৰ্নমেণ্ট ডেভেলপমেণ্ট ইনডেক্স ৰাষ্ট্ৰসংঘই প্ৰকাশ কৰে।"
+    }
+  }
+]

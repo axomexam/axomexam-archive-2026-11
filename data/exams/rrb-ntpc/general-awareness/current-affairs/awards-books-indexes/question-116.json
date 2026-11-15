@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-116",
+    "q": {
+      "en": "'Ramcharitmanas' was written by which poet?",
+      "as": "'ৰামচৰিতমানস' কোন কবিয়ে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Valmiki",
+        "as": "বাল্মীকি"
+      },
+      {
+        "en": "Kabir",
+        "as": "কবিৰ"
+      },
+      {
+        "en": "Tulsidas",
+        "as": "তুলসীদাস"
+      },
+      {
+        "en": "Surdas",
+        "as": "সুৰদাস"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Ramcharitmanas' came from the pen of Tulsidas.",
+      "as": "'ৰামচৰিতমানস' তুলসীদাসে ৰচনা কৰিছিল।"
+    }
+  }
+]

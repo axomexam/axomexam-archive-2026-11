@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-002",
+    "q": {
+      "en": "What is the highest civilian honour of India?",
+      "as": "ভাৰতৰ অসামৰিক সন্মানসমূহৰ ভিতৰত আটাইতকৈ ওখ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Padma Vibhushan",
+        "as": "পদ্ম বিভূষণ"
+      },
+      {
+        "en": "Padma Bhushan",
+        "as": "পদ্ম ভূষণ"
+      },
+      {
+        "en": "Bharat Ratna",
+        "as": "ভাৰত ৰত্ন"
+      },
+      {
+        "en": "Padma Shri",
+        "as": "পদ্ম শ্ৰী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Bharat Ratna stands as India's topmost civilian honour.",
+      "as": "ভাৰত ৰত্ন ভাৰতৰ অসামৰিক সন্মানসমূহৰ ভিতৰত আটাইতকৈ ওখ।"
+    }
+  }
+]

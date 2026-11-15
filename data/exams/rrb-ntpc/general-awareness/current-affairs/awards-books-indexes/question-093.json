@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-093",
+    "q": {
+      "en": "The Assamese writer Syed Abdul Malik is associated with which novel?",
+      "as": "অসমীয়া লেখক চৈয়দ আব্দুল মালিক কোন উপন্যাসৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Mrityunjay",
+        "as": "মৃত্যুঞ্জয়"
+      },
+      {
+        "en": "Aghari Atmar Kahini",
+        "as": "আঘৰি আত্মাৰ কাহিনী"
+      },
+      {
+        "en": "Manomati",
+        "as": "মনোমতী"
+      },
+      {
+        "en": "Iyaruingam",
+        "as": "ইয়াৰুইংগম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Syed Abdul Malik is associated with the novel 'Aghari Atmar Kahini'.",
+      "as": "চৈয়দ আব্দুল মালিক 'আঘৰি আত্মাৰ কাহিনী' উপন্যাসৰ সৈতে জড়িত।"
+    }
+  }
+]

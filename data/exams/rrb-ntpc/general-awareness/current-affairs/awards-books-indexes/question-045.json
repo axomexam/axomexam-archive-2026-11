@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-045",
+    "q": {
+      "en": "The Shanti Swarup Bhatnagar Prize recognises which field?",
+      "as": "শান্তি স্বৰূপ ভাটনগৰ বঁটা কোন ক্ষেত্ৰত দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Literature",
+        "as": "সাহিত্য"
+      },
+      {
+        "en": "Science",
+        "as": "বিজ্ঞান"
+      },
+      {
+        "en": "Sports",
+        "as": "ক্ৰীড়া"
+      },
+      {
+        "en": "Cinema",
+        "as": "চলচ্চিত্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Shanti Swarup Bhatnagar Prize is given for excellence in science.",
+      "as": "শান্তি স্বৰূপ ভাটনগৰ বঁটা বিজ্ঞানত উৎকৰ্ষৰ বাবে দিয়া হয়।"
+    }
+  }
+]

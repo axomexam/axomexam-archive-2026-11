@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-114",
+    "q": {
+      "en": "The 'Mahabharata' has how many parvas (books)?",
+      "as": "'মহাভাৰত' ৰ কিমানখন পৰ্ব (গ্ৰন্থ) আছে?"
+    },
+    "options": [
+      {
+        "en": "Twelve",
+        "as": "বাৰ"
+      },
+      {
+        "en": "Eighteen",
+        "as": "আঠৰ"
+      },
+      {
+        "en": "Twenty-four",
+        "as": "চৌবিশ"
+      },
+      {
+        "en": "Ten",
+        "as": "দহ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The 'Mahabharata' has eighteen parvas.",
+      "as": "'মহাভাৰত' ৰ আঠৰখন পৰ্ব আছে।"
+    }
+  }
+]

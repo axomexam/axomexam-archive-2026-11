@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-069",
+    "q": {
+      "en": "The book 'Indica' was written by which ancient visitor to India?",
+      "as": "'ইণ্ডিকা' গ্ৰন্থখন ভাৰতলৈ অহা কোন প্ৰাচীন পৰিৱ্ৰাজকে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Fa-Hien",
+        "as": "ফাহিয়ান"
+      },
+      {
+        "en": "Hiuen Tsang",
+        "as": "হিউয়েন ছাং"
+      },
+      {
+        "en": "Al-Biruni",
+        "as": "আল-বেৰুনী"
+      },
+      {
+        "en": "Megasthenes",
+        "as": "মেগাস্থিনিছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'Indica' was written by the Greek ambassador Megasthenes.",
+      "as": "'ইণ্ডিকা' গ্ৰীক ৰাষ্ট্ৰদূত মেগাস্থিনিছে লিখিছিল।"
+    }
+  }
+]

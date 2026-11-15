@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-070",
+    "q": {
+      "en": "Which ancient Indian text is a treatise on statecraft attributed to Chanakya?",
+      "as": "চাণক্যৰ সৈতে জড়িত ৰাজনীতিৰ প্ৰাচীন ভাৰতীয় গ্ৰন্থ কোনখন?"
+    },
+    "options": [
+      {
+        "en": "Manusmriti",
+        "as": "মনুস্মৃতি"
+      },
+      {
+        "en": "Arthashastra",
+        "as": "অৰ্থশাস্ত্ৰ"
+      },
+      {
+        "en": "Ramayana",
+        "as": "ৰামায়ণ"
+      },
+      {
+        "en": "Mahabharata",
+        "as": "মহাভাৰত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The 'Arthashastra', a treatise on statecraft, is attributed to Chanakya (Kautilya).",
+      "as": "ৰাজনীতিৰ গ্ৰন্থ 'অৰ্থশাস্ত্ৰ' চাণক্য (কৌটিল্য) লৈ আৰোপ কৰা হয়।"
+    }
+  }
+]

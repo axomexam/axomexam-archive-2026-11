@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-106",
+    "q": {
+      "en": "Who is the author of the Assamese novel 'Sesa Basanta'?",
+      "as": "অসমীয়া উপন্যাস 'শেষ বসন্ত' ৰ লেখক কোন?"
+    },
+    "options": [
+      {
+        "en": "Birendra Kumar Bhattacharya",
+        "as": "বীৰেন্দ্ৰ কুমাৰ ভট্টাচাৰ্য"
+      },
+      {
+        "en": "Homen Borgohain",
+        "as": "হোমেন বৰগোহাঞি"
+      },
+      {
+        "en": "Mamoni Raisom Goswami",
+        "as": "মামণি ৰয়ছম গোস্বামী"
+      },
+      {
+        "en": "Saurav Kumar Chaliha",
+        "as": "সৌৰভ কুমাৰ চলিহা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Homen Borgohain is the author of the Assamese novel 'Sesa Basanta'.",
+      "as": "হোমেন বৰগোহাঞি অসমীয়া উপন্যাস 'শেষ বসন্ত' ৰ লেখক।"
+    }
+  }
+]

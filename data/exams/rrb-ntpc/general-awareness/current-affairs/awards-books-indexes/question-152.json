@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-152",
+    "q": {
+      "en": "Which body presents the Economic Survey of India?",
+      "as": "ভাৰতৰ অৰ্থনৈতিক সৰ্বেক্ষণ কোন সংস্থাই উপস্থাপন কৰে?"
+    },
+    "options": [
+      {
+        "en": "NITI Aayog",
+        "as": "নীতি আয়োগ"
+      },
+      {
+        "en": "RBI",
+        "as": "আৰ বি আই"
+      },
+      {
+        "en": "Ministry of Finance",
+        "as": "বিত্ত মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Statistics",
+        "as": "পৰিসংখ্যা মন্ত্ৰালয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Economic Survey of India is presented by the Ministry of Finance.",
+      "as": "ভাৰতৰ অৰ্থনৈতিক সৰ্বেক্ষণ বিত্ত মন্ত্ৰালয়ে উপস্থাপন কৰে।"
+    }
+  }
+]

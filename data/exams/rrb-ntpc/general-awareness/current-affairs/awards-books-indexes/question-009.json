@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-009",
+    "q": {
+      "en": "Which authority confers the Bharat Ratna?",
+      "as": "ভাৰত ৰত্ন কোন ব্যক্তিয়ে প্ৰদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "The Prime Minister of India",
+        "as": "ভাৰতৰ প্ৰধানমন্ত্ৰী"
+      },
+      {
+        "en": "The Chief Justice of India",
+        "as": "ভাৰতৰ মুখ্য ন্যায়াধীশ"
+      },
+      {
+        "en": "The President of India",
+        "as": "ভাৰতৰ ৰাষ্ট্ৰপতি"
+      },
+      {
+        "en": "The Speaker of the Lok Sabha",
+        "as": "লোকসভাৰ অধ্যক্ষ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "It is the President of India who gives away the Bharat Ratna.",
+      "as": "ভাৰত ৰত্ন প্ৰদান কৰা হয় ৰাষ্ট্ৰপতিৰ দ্বাৰা।"
+    }
+  }
+]

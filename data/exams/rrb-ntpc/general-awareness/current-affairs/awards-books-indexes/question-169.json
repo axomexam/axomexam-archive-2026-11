@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-169",
+    "q": {
+      "en": "Which organisation publishes the Index of Economic Freedom?",
+      "as": "ইক'নমিক ফ্ৰিডমৰ সূচক কোন সংস্থাই প্ৰকাশ কৰে?"
+    },
+    "options": [
+      {
+        "en": "World Bank",
+        "as": "বিশ্ব বেংক"
+      },
+      {
+        "en": "WEF",
+        "as": "ডব্লিউ ই এফ"
+      },
+      {
+        "en": "Heritage Foundation",
+        "as": "হেৰিটেজ ফাউণ্ডেচন"
+      },
+      {
+        "en": "IMF",
+        "as": "আই এম এফ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Index of Economic Freedom is published by the Heritage Foundation.",
+      "as": "ইক'নমিক ফ্ৰিডমৰ সূচক হেৰিটেজ ফাউণ্ডেচনে প্ৰকাশ কৰে।"
+    }
+  }
+]

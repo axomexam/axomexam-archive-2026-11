@@ -1,0 +1,32 @@
+[
+  {
+    "id": "awards-books-indexes-148",
+    "q": {
+      "en": "Which body conducts the Swachh Survekshan cleanliness ranking of Indian cities?",
+      "as": "ভাৰতীয় চহৰবোৰৰ স্বচ্ছ সৰ্বেক্ষণ পৰিচ্ছন্নতা ৰেংকিং কোন সংস্থাই পৰিচালনা কৰে?"
+    },
+    "options": [
+      {
+        "en": "Ministry of Housing and Urban Affairs",
+        "as": "আবাসন আৰু নগৰ পৰিক্ৰমা মন্ত্ৰালয়"
+      },
+      {
+        "en": "NITI Aayog",
+        "as": "নীতি আয়োগ"
+      },
+      {
+        "en": "Ministry of Environment",
+        "as": "পৰিৱেশ মন্ত্ৰালয়"
+      },
+      {
+        "en": "Ministry of Health",
+        "as": "স্বাস্থ্য মন্ত্ৰালয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Swachh Survekshan is conducted by the Ministry of Housing and Urban Affairs.",
+      "as": "স্বচ্ছ সৰ্বেক্ষণ আবাসন আৰু নগৰ পৰিক্ৰমা মন্ত্ৰালয়ে পৰিচালনা কৰে।"
+    }
+  }
+]
