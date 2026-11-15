@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-371",
+    "q": {
+      "en": "Which medieval Indian religion built the 'Dilwara temples'?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় ধৰ্মই 'দিলৱাৰা মন্দিৰ' নিৰ্মাণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Buddhism",
+        "as": "বৌদ্ধ ধৰ্ম"
+      },
+      {
+        "en": "Shaivism",
+        "as": "শৈৱ ধৰ্ম"
+      },
+      {
+        "en": "Jainism",
+        "as": "জৈন ধৰ্ম"
+      },
+      {
+        "en": "Vaishnavism",
+        "as": "বৈষ্ণৱ ধৰ্ম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Dilwara temples at Mount Abu are celebrated Jain temples known for their marble carving.",
+      "as": "মাউণ্ট আবুত দিলৱাৰা মন্দিৰ ইয়াৰ মাৰ্বল খোদাইৰ বাবে বিখ্যাত জৈন মন্দিৰ।"
+    }
+  }
+]

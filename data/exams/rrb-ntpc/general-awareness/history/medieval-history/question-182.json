@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-182",
+    "q": {
+      "en": "Which Mughal emperor's reign saw the compilation of the 'Padshahnama'?",
+      "as": "কোন মোগল সম্ৰাটৰ ৰাজত্বকালত 'পাদশাহনামা' সংকলন কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      },
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "আওৰংজেব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Padshahnama, an official history of Shah Jahan's reign, was written by Abdul Hamid Lahori.",
+      "as": "পাদশাহনামা, শাহজাহানৰ ৰাজত্বকালৰ চৰকাৰী ইতিহাস, আব্দুল হামিদ লাহোৰীয়ে লিখিছিল।"
+    }
+  }
+]

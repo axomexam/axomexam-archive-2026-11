@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-037",
+    "q": {
+      "en": "Which dynasty succeeded the Tughlaqs in the Delhi Sultanate?",
+      "as": "দিল্লী চুলতানতত তুঘলকসকলৰ পিছত কোন বংশ আহিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Lodis",
+        "as": "লোদী"
+      },
+      {
+        "en": "The Khiljis",
+        "as": "খিলজী"
+      },
+      {
+        "en": "The Mughals",
+        "as": "মোগল"
+      },
+      {
+        "en": "The Sayyids",
+        "as": "চৈয়দ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Sayyid dynasty succeeded the Tughlaqs, followed by the Lodis in the fifteenth century.",
+      "as": "চৈয়দ বংশ তুঘলকসকলৰ পিছত আহিছিল, তাৰ পিছত পঞ্চদশ শতিকাত লোদীসকল আহিছিল।"
+    }
+  }
+]

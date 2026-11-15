@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-175",
+    "q": {
+      "en": "Which historian of the Delhi Sultanate wrote the 'Tarikh-i-Firoz Shahi'?",
+      "as": "দিল্লী চুলতানতৰ কোন ইতিহাসবিদে 'তাৰিখ-ই-ফিৰোজ শাহী' লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Amir Khusrau",
+        "as": "আমীৰ খুছৰু"
+      },
+      {
+        "en": "Ibn Battuta",
+        "as": "ইবন বতুতা"
+      },
+      {
+        "en": "Ziauddin Barani",
+        "as": "জিয়াউদ্দিন বৰণী"
+      },
+      {
+        "en": "Abul Fazl",
+        "as": "আবুল ফজল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Barani's Tarikh-i-Firoz Shahi traces the fortunes of the Delhi Sultanate from its early days to his own time.",
+      "as": "বৰণীৰ তাৰিখ-ই-ফিৰোজ শাহীয়ে দিল্লী চুলতানতৰ আৰম্ভণিৰ পৰা তেওঁৰ সময়লৈকে ইয়াৰ অৱস্থা অনুসৰণ কৰে।"
+    }
+  }
+]

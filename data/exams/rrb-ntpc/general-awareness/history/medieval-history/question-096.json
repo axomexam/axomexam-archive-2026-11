@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-096",
+    "q": {
+      "en": "Which philosopher propounded the Vishishtadvaita or qualified monism?",
+      "as": "কোন দাৰ্শনিকে বিশিষ্টাদ্বৈত বা সগুণ অদ্বৈতবাদ প্ৰতিপাদন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Shankara",
+        "as": "শঙ্কৰ"
+      },
+      {
+        "en": "Madhva",
+        "as": "মধ্ব"
+      },
+      {
+        "en": "Ramanuja",
+        "as": "ৰামানুজ"
+      },
+      {
+        "en": "Nimbarka",
+        "as": "নিম্বাৰ্ক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Ramanuja propounded Vishishtadvaita, which holds that the soul is distinct yet one with God.",
+      "as": "ৰামানুজে বিশিষ্টাদ্বৈত প্ৰতিপাদন কৰিছিল, যাৰ মতে আত্মা ঈশ্বৰৰ পৰা পৃথক তথাপি তেওঁৰ সৈতে এক।"
+    }
+  }
+]

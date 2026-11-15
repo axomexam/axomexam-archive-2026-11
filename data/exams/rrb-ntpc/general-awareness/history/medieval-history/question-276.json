@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-276",
+    "q": {
+      "en": "The 'Mehrangarh Fort' is located in which city?",
+      "as": "'মেহৰানগড় দুৰ্গ' কোনখন নগৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Jaipur",
+        "as": "জয়পুৰ"
+      },
+      {
+        "en": "Udaipur",
+        "as": "উদয়পুৰ"
+      },
+      {
+        "en": "Jodhpur",
+        "as": "যোধপুৰ"
+      },
+      {
+        "en": "Bikaner",
+        "as": "বিকানেৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Mehrangarh Fort at Jodhpur was built by Rao Jodha of the Rathore clan.",
+      "as": "যোধপুৰৰ মেহৰানগড় দুৰ্গ ৰাথোৰ গোষ্ঠীৰ ৰাও যোধাই নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

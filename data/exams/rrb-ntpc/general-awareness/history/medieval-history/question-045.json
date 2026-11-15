@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-045",
+    "q": {
+      "en": "Babur was a descendant of which two conquerors?",
+      "as": "বাবৰ কোন দুজন বিজেতাৰ বংশধৰ আছিল?"
+    },
+    "options": [
+      {
+        "en": "Timur and Genghis Khan",
+        "as": "তৈমূৰ আৰু চেঙ্গিজ খান"
+      },
+      {
+        "en": "Alexander and Cyrus",
+        "as": "আলেকজেণ্ডাৰ আৰু চাইৰাছ"
+      },
+      {
+        "en": "Nadir Shah and Timur",
+        "as": "নাদিৰ শাহ আৰু তৈমূৰ"
+      },
+      {
+        "en": "Mahmud and Ghori",
+        "as": "মহম্মদ আৰু ঘোৰী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Babur was descended from Timur on his father's side and from Genghis Khan on his mother's side.",
+      "as": "বাবৰ পিতৃৰ ফালৰ পৰা তৈমূৰৰ আৰু মাতৃৰ ফালৰ পৰা চেঙ্গিজ খানৰ বংশধৰ আছিল।"
+    }
+  }
+]

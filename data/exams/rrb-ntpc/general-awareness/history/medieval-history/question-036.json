@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-036",
+    "q": {
+      "en": "The invasion of Timur into India took place during the reign of which Sultan?",
+      "as": "ভাৰতলৈ তৈমূৰৰ আক্ৰমণ কোন চুলতানৰ ৰাজত্বকালত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Alauddin Khalji",
+        "as": "আলাউদ্দিন খিলজী"
+      },
+      {
+        "en": "Balban",
+        "as": "বলবন"
+      },
+      {
+        "en": "Iltutmish",
+        "as": "ইলতুৎমিশ"
+      },
+      {
+        "en": "Nasir-ud-din Mahmud Tughlaq",
+        "as": "নাছিৰউদ্দিন মহমুদ তুঘলক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Timur invaded India in 1398 during the reign of Nasir-ud-din Mahmud Tughlaq and sacked Delhi.",
+      "as": "তৈমূৰে ১৩৯৮ চনত নাছিৰউদ্দিন মহমুদ তুঘলকৰ ৰাজত্বকালত ভাৰতত আক্ৰমণ কৰি দিল্লী লুণ্ঠন কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-307",
+    "q": {
+      "en": "Which Mughal emperor was the patron of the historian Abdul Hamid Lahori?",
+      "as": "কোন মোগল সম্ৰাট ইতিহাসবিদ আব্দুল হামিদ লাহোৰীৰ পৃষ্ঠপোষক আছিল?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      },
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "আওৰংজেব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Abdul Hamid Lahori wrote the Padshahnama under the patronage of Shah Jahan.",
+      "as": "আব্দুল হামিদ লাহোৰীয়ে শাহজাহানৰ পৃষ্ঠপোষকতাত পাদশাহনামা লিখিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-128",
+    "q": {
+      "en": "Which regional kingdom of western India was ruled by the Solanki dynasty in the medieval period?",
+      "as": "মধ্য যুগত পশ্চিম ভাৰতৰ কোন আঞ্চলিক ৰাজ্য চোলাংকী বংশৰ দ্বাৰা শাসিত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Malwa",
+        "as": "মালৱা"
+      },
+      {
+        "en": "Bengal",
+        "as": "বংগ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Solanki (Chalukya) dynasty ruled Gujarat and built famous temples such as those at Modhera.",
+      "as": "চোলাংকী (চালুক্য) বংশে গুজৰাট শাসন কৰিছিল আৰু মোডেৰাৰ দৰে বিখ্যাত মন্দিৰ নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

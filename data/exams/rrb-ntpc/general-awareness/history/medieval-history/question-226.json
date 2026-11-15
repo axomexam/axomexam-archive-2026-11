@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-226",
+    "q": {
+      "en": "Which English sea captain's voyage laid the foundation of English trade in India?",
+      "as": "কোন ইংৰাজ সমুদ্ৰ-কাপ্তেইনৰ ভ্ৰমণে ভাৰতত ইংৰাজ বাণিজ্যৰ ভিত্তি স্থাপন কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Vasco da Gama",
+        "as": "ভাস্কো দা গামা"
+      },
+      {
+        "en": "Captain Hawkins",
+        "as": "কাপ্তেইন হকিন্স"
+      },
+      {
+        "en": "Albuquerque",
+        "as": "আলবুকাৰ্ক"
+      },
+      {
+        "en": "Colbert",
+        "as": "কোলবেৰ্ট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Captain Hawkins visited the court of Jahangir and obtained permission for English trade in India.",
+      "as": "কাপ্তেইন হকিন্সে জাহাংগীৰৰ ৰাজদৰবাৰ ভ্ৰমণ কৰি ভাৰতত ইংৰাজ বাণিজ্যৰ অনুমতি লাভ কৰিছিল।"
+    }
+  }
+]

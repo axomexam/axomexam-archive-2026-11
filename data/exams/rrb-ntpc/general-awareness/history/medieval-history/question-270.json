@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-270",
+    "q": {
+      "en": "The 'Stone Chariot' is a famous monument at which medieval site?",
+      "as": "'শিলৰ ৰথ' কোন মধ্য যুগীয় স্থানৰ এটা বিখ্যাত স্মৃতিসৌধ?"
+    },
+    "options": [
+      {
+        "en": "Khajuraho",
+        "as": "খজুৰাহো"
+      },
+      {
+        "en": "Konark",
+        "as": "কোণাৰ্ক"
+      },
+      {
+        "en": "Hampi",
+        "as": "হাম্পি"
+      },
+      {
+        "en": "Mahabalipuram",
+        "as": "মহাবলীপুৰম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Stone Chariot at Hampi is a celebrated monument of the Vijayanagara period.",
+      "as": "হাম্পিৰ শিলৰ ৰথ বিজয়নগৰ কালৰ এটা প্ৰসিদ্ধ স্মৃতিসৌধ।"
+    }
+  }
+]

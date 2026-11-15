@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-308",
+    "q": {
+      "en": "Which medieval Indian poet composed the 'Ramcharitmanas' in the Awadhi dialect?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় কবিয়ে অৱধী উপভাষাত 'ৰামচৰিতমানস' ৰচনা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Surdas",
+        "as": "সূৰদাস"
+      },
+      {
+        "en": "Kabir",
+        "as": "কবিৰ"
+      },
+      {
+        "en": "Jayasi",
+        "as": "জায়সী"
+      },
+      {
+        "en": "Tulsidas",
+        "as": "তুলসীদাস"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Tulsidas composed the Ramcharitmanas in Awadhi, a retelling of the Ramayana.",
+      "as": "তুলসীদাসে অৱধীত ৰামচৰিতমানস ৰচনা কৰিছিল, ৰামায়ণৰ এক পুনৰ্বৰ্ণনা।"
+    }
+  }
+]

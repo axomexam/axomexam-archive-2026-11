@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-077",
+    "q": {
+      "en": "Which Mughal ruler was known for his 'chain of justice' at Agra?",
+      "as": "কোন মোগল শাসক আগ্ৰাত তেওঁৰ 'ন্যায়ৰ শিকলি'ৰ বাবে জনাজাত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      },
+      {
+        "en": "Babur",
+        "as": "বাবৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jahangir set up a chain of justice at Agra so that anyone seeking justice could ring it and appeal to the emperor.",
+      "as": "জাহাংগীৰে আগ্ৰাত এটা ন্যায়ৰ শিকলি স্থাপন কৰিছিল যাতে ন্যায় বিচৰা যিকোনো লোকে ইয়াক বজাই সম্ৰাটৰ ওচৰত আপীল কৰিব পাৰে।"
+    }
+  }
+]

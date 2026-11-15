@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-104",
+    "q": {
+      "en": "Which Sikh Guru founded the Sikh religion and was its first Guru?",
+      "as": "কোন শিখ গুৰুৱে শিখ ধৰ্ম প্ৰতিষ্ঠা কৰিছিল আৰু প্ৰথম গুৰু আছিল?"
+    },
+    "options": [
+      {
+        "en": "Guru Angad",
+        "as": "গুৰু অংগদ"
+      },
+      {
+        "en": "Guru Gobind Singh",
+        "as": "গুৰু গোবিন্দ সিং"
+      },
+      {
+        "en": "Guru Arjan",
+        "as": "গুৰু অৰ্জুন"
+      },
+      {
+        "en": "Guru Nanak",
+        "as": "গুৰু নানক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Guru Nanak founded Sikhism in the fifteenth century and was its first Guru.",
+      "as": "গুৰু নানকে পঞ্চদশ শতিকাত শিখ ধৰ্ম প্ৰতিষ্ঠা কৰিছিল আৰু ইয়াৰ প্ৰথম গুৰু আছিল।"
+    }
+  }
+]

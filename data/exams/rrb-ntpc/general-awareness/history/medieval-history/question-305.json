@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-305",
+    "q": {
+      "en": "Which medieval Indian ruler wrote the 'Tuzuk-i-Jahangiri'?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় শাসকে 'তুজুক-ই-জাহাংগীৰী' লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Abul Fazl",
+        "as": "আবুল ফজল"
+      },
+      {
+        "en": "Badauni",
+        "as": "বদাউনী"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      },
+      {
+        "en": "Lahori",
+        "as": "লাহোৰী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jahangir wrote his own memoirs, the Tuzuk-i-Jahangiri, in Persian.",
+      "as": "জাহাংগীৰে নিজৰ স্মৃতিগ্ৰন্থ তুজুক-ই-জাহাংগীৰী পাৰ্চীত লিখিছিল।"
+    }
+  }
+]

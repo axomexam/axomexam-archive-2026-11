@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-051",
+    "q": {
+      "en": "Where did Humayun take refuge after being defeated by Sher Shah Suri?",
+      "as": "শেৰ শাহ ছুৰীৰ দ্বাৰা পৰাস্ত হোৱাৰ পিছত হুমায়ুনে ক'ত আশ্ৰয় লৈছিল?"
+    },
+    "options": [
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "Arabia",
+        "as": "আৰব"
+      },
+      {
+        "en": "Bengal",
+        "as": "বংগ"
+      },
+      {
+        "en": "Persia",
+        "as": "পাৰস্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Humayun took refuge at the court of the Safavid Shah of Persia, who later helped him recover his throne.",
+      "as": "হুমায়ুনে পাৰস্যৰ ছাফাভী শাহৰ ৰাজদৰবাৰত আশ্ৰয় লৈছিল, যিয়ে পিছত তেওঁক সিংহাসন ঘূৰাই পাবলৈ সহায় কৰিছিল।"
+    }
+  }
+]

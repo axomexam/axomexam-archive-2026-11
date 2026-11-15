@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-213",
+    "q": {
+      "en": "Which Mughal emperor granted the East India Company the Diwani of Bengal in 1765?",
+      "as": "কোন মোগল সম্ৰাটে ১৭৬৫ চনত ইষ্ট ইণ্ডিয়া কোম্পানীক বংগৰ দিৱানী প্ৰদান কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Aurangzeb",
+        "as": "আওৰংজেব"
+      },
+      {
+        "en": "Bahadur Shah I",
+        "as": "প্ৰথম বাহাদুৰ শাহ"
+      },
+      {
+        "en": "Akbar II",
+        "as": "দ্বিতীয় আকবৰ"
+      },
+      {
+        "en": "Shah Alam II",
+        "as": "দ্বিতীয় শাহ আলম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Shah Alam II granted the Diwani of Bengal to the East India Company after the Battle of Buxar.",
+      "as": "বক্সাৰৰ যুদ্ধৰ পিছত দ্বিতীয় শাহ আলমে ইষ্ট ইণ্ডিয়া কোম্পানীক বংগৰ দিৱানী প্ৰদান কৰিছিল।"
+    }
+  }
+]

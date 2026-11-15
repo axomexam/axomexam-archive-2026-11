@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-369",
+    "q": {
+      "en": "Which medieval Indian kingdom is known for the 'Modhera Sun temple'?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় ৰাজ্য 'মোডেৰা সূৰ্য মন্দিৰ'ৰ বাবে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The Chola kingdom",
+        "as": "চোল ৰাজ্য"
+      },
+      {
+        "en": "The Solanki kingdom",
+        "as": "চোলাংকী ৰাজ্য"
+      },
+      {
+        "en": "The Pala kingdom",
+        "as": "পাল ৰাজ্য"
+      },
+      {
+        "en": "The Pandya kingdom",
+        "as": "পাণ্ড্য ৰাজ্য"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Sun temple at Modhera in Gujarat was built by the Solanki dynasty.",
+      "as": "গুজৰাটৰ মোডেৰাৰ সূৰ্য মন্দিৰ চোলাংকী বংশই নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

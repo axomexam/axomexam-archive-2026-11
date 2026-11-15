@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-304",
+    "q": {
+      "en": "Which Mughal emperor is credited with the construction of the 'Shalimar Bagh' at Lahore?",
+      "as": "লাহোৰত 'ছালিমাৰ বাগ' নিৰ্মাণৰ কৃতিত্ব কোন মোগল সম্ৰাটক দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Babur",
+        "as": "বাবৰ"
+      },
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "আওৰংজেব"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Shah Jahan laid out the Shalimar Bagh at Lahore, one of the finest Mughal gardens.",
+      "as": "শাহজাহানে লাহোৰত ছালিমাৰ বাগ সজাইছিল, আটাইতকৈ উত্তম মোগল উদ্যানবোৰৰ এটা।"
+    }
+  }
+]

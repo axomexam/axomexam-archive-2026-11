@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-067",
+    "q": {
+      "en": "Which city did Akbar build as his new capital in 1571?",
+      "as": "আকবৰে ১৫৭১ চনত কোনখন নগৰ তেওঁৰ নতুন ৰাজধানী হিচাপে নিৰ্মাণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Agra",
+        "as": "আগ্ৰা"
+      },
+      {
+        "en": "Lahore",
+        "as": "লাহোৰ"
+      },
+      {
+        "en": "Delhi",
+        "as": "দিল্লী"
+      },
+      {
+        "en": "Fatehpur Sikri",
+        "as": "ফতেহপুৰ ছিক্ৰী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Akbar built Fatehpur Sikri as his new capital, though it was abandoned later because of water scarcity.",
+      "as": "আকবৰে ফতেহপুৰ ছিক্ৰী তেওঁৰ নতুন ৰাজধানী হিচাপে নিৰ্মাণ কৰিছিল, যদিও পানীৰ অভাৱত পিছত ইয়াক এৰি দিয়া হৈছিল।"
+    }
+  }
+]

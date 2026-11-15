@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-172",
+    "q": {
+      "en": "Which medieval chronicle written in Kashmir describes its history?",
+      "as": "কাশ্মীৰত লিখিত কোন মধ্য যুগীয় বৃত্তান্তে ইয়াৰ ইতিহাস বৰ্ণনা কৰে?"
+    },
+    "options": [
+      {
+        "en": "Akbarnama",
+        "as": "আকবৰনামা"
+      },
+      {
+        "en": "Baburnama",
+        "as": "বাবৰনামা"
+      },
+      {
+        "en": "Tuzuk-i-Jahangiri",
+        "as": "তুজুক-ই-জাহাংগীৰী"
+      },
+      {
+        "en": "Rajatarangini",
+        "as": "ৰাজতৰংগিনী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Rajatarangini by Kalhana is a famous chronicle of the kings of Kashmir.",
+      "as": "কলহণৰ ৰাজতৰংগিনী কাশ্মীৰৰ ৰজাসকলৰ এটা বিখ্যাত বৃত্তান্ত।"
+    }
+  }
+]

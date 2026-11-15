@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-005",
+    "q": {
+      "en": "Which Pala ruler of Bengal was a great patron of Buddhism and built the Vikramashila monastery?",
+      "as": "বংগৰ কোন পাল শাসক বৌদ্ধ ধৰ্মৰ মহান পৃষ্ঠপোষক আছিল আৰু বিক্ৰমশীলা বিহাৰ নিৰ্মাণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Gopala",
+        "as": "গোপাল"
+      },
+      {
+        "en": "Devapala",
+        "as": "দেৱপাল"
+      },
+      {
+        "en": "Dharmapala",
+        "as": "ধৰ্মপাল"
+      },
+      {
+        "en": "Mahipala",
+        "as": "মহীপাল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Dharmapala, the Pala ruler, was a great patron of Buddhism and founded the Vikramashila monastery.",
+      "as": "ধৰ্মপাল, পাল শাসক, বৌদ্ধ ধৰ্মৰ মহান পৃষ্ঠপোষক আছিল আৰু বিক্ৰমশীলা বিহাৰ প্ৰতিষ্ঠা কৰিছিল।"
+    }
+  }
+]

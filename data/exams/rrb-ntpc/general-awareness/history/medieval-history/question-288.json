@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-288",
+    "q": {
+      "en": "Which medieval Indian text is a chronicle of the Delhi Sultanate written by Amir Khusrau?",
+      "as": "দিল্লী চুলতানতৰ বৃত্তান্ত হিচাপে আমীৰ খুছৰুৱে লিখা কোন মধ্য যুগীয় ভাৰতীয় গ্ৰন্থ?"
+    },
+    "options": [
+      {
+        "en": "Rajatarangini",
+        "as": "ৰাজতৰংগিনী"
+      },
+      {
+        "en": "Ain-i-Akbari",
+        "as": "আইন-ই-আকবৰী"
+      },
+      {
+        "en": "Khazain-ul-Futuh",
+        "as": "খাজাইন-উল-ফুতুহ"
+      },
+      {
+        "en": "Humayunnama",
+        "as": "হুমায়ুননামা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Amir Khusrau wrote the Khazain-ul-Futuh, describing the conquests of Alauddin Khalji.",
+      "as": "আমীৰ খুছৰুৱে খাজাইন-উল-ফুতুহ লিখিছিল, আলাউদ্দিন খিলজীৰ বিজয়সমূহ বৰ্ণনা কৰি।"
+    }
+  }
+]

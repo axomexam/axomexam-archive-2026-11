@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-227",
+    "q": {
+      "en": "Which Mughal emperor granted the English East India Company the right to trade in Bengal?",
+      "as": "কোন মোগল সম্ৰাটে ইংৰাজ ইষ্ট ইণ্ডিয়া কোম্পানীক বংগত বাণিজ্যৰ অধিকাৰ প্ৰদান কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "আওৰংজেব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jahangir granted the English East India Company permission to trade, including in Bengal.",
+      "as": "জাহাংগীৰে ইংৰাজ ইষ্ট ইণ্ডিয়া কোম্পানীক বংগকে ধৰি বাণিজ্যৰ অনুমতি প্ৰদান কৰিছিল।"
+    }
+  }
+]

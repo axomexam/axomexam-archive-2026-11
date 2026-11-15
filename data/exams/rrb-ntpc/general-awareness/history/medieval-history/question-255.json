@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-255",
+    "q": {
+      "en": "Which ruler of Gwalior is credited with the 'Gwalior gharana' of music?",
+      "as": "গোৱালিয়ৰৰ কোন শাসকক সংগীতৰ 'গোৱালিয়ৰ ঘৰানা'ৰ কৃতিত্ব দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Tansen",
+        "as": "তানসেন"
+      },
+      {
+        "en": "Rana Sanga",
+        "as": "ৰাণা সংগা"
+      },
+      {
+        "en": "Raja Man Singh Tomar",
+        "as": "ৰাজা মান সিং তোমৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Gwalior gharana of Hindustani music traces its roots to the court of Raja Man Singh Tomar.",
+      "as": "হিন্দুস্থানী সংগীতৰ গোৱালিয়ৰ ঘৰানাই ৰাজা মান সিং তোমৰৰ ৰাজদৰবাৰলৈ ইয়াৰ শিপা উলিয়াই লয়।"
+    }
+  }
+]

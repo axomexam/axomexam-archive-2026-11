@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-298",
+    "q": {
+      "en": "In which language was the Rajatarangini written?",
+      "as": "ৰাজতৰংগিনী কোন ভাষাত লিখা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Persian",
+        "as": "পাৰ্চী"
+      },
+      {
+        "en": "Arabic",
+        "as": "আৰবি"
+      },
+      {
+        "en": "Sanskrit",
+        "as": "সংস্কৃত"
+      },
+      {
+        "en": "Prakrit",
+        "as": "প্ৰাকৃত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kalhana wrote the Rajatarangini in Sanskrit verse.",
+      "as": "কলহণে ৰাজতৰংগিনী সংস্কৃত পদ্যত লিখিছিল।"
+    }
+  }
+]

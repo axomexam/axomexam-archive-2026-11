@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-264",
+    "q": {
+      "en": "The 'Sun temple at Konark' belongs to which style of architecture?",
+      "as": "'কোণাৰ্কৰ সূৰ্য মন্দিৰ' কোন স্থাপত্য শৈলীৰ?"
+    },
+    "options": [
+      {
+        "en": "Dravidian style",
+        "as": "দ্ৰাবিড় শৈলী"
+      },
+      {
+        "en": "Nagara style",
+        "as": "নাগৰ শৈলী"
+      },
+      {
+        "en": "Kalinga style",
+        "as": "কলিঙ্গ শৈলী"
+      },
+      {
+        "en": "Mughal style",
+        "as": "মোগল শৈলী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Sun temple at Konark is a masterpiece of the Kalinga style of Odishan architecture.",
+      "as": "কোণাৰ্কৰ সূৰ্য মন্দিৰ ওড়িশাৰ কলিঙ্গ শৈলীৰ এটা শ্ৰেষ্ঠ নিদৰ্শন।"
+    }
+  }
+]

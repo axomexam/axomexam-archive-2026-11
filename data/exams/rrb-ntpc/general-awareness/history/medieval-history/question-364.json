@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-364",
+    "q": {
+      "en": "Which medieval Indian kingdom is known for the 'Kailasa temple' at Ellora?",
+      "as": "ইল্লোৰাৰ 'কৈলাস মন্দিৰ'ৰ বাবে কোন মধ্য যুগীয় ভাৰতীয় ৰাজ্য জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The Pala kingdom",
+        "as": "পাল ৰাজ্য"
+      },
+      {
+        "en": "The Chola kingdom",
+        "as": "চোল ৰাজ্য"
+      },
+      {
+        "en": "The Rashtrakuta kingdom",
+        "as": "ৰাষ্ট্ৰকুট ৰাজ্য"
+      },
+      {
+        "en": "The Solanki kingdom",
+        "as": "চোলাংকী ৰাজ্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The rock-cut Kailasa temple at Ellora was built under the Rashtrakuta rulers.",
+      "as": "ইল্লোৰাৰ শিল-কটা কৈলাস মন্দিৰ ৰাষ্ট্ৰকুট শাসকসকলৰ অধীনত নিৰ্মাণ কৰা হৈছিল।"
+    }
+  }
+]

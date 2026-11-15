@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-161",
+    "q": {
+      "en": "Which metal was chiefly used for coinage in the Delhi Sultanate?",
+      "as": "দিল্লী চুলতানতত মুদ্ৰাৰ বাবে মূলত কোন ধাতু ব্যৱহাৰ কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Iron and lead",
+        "as": "লো আৰু সীহ"
+      },
+      {
+        "en": "Silver and copper",
+        "as": "ৰূপ আৰু তাম"
+      },
+      {
+        "en": "Gold only",
+        "as": "কেৱল সোণ"
+      },
+      {
+        "en": "Bronze only",
+        "as": "কেৱল ব্ৰঞ্জ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Delhi Sultanate issued coins mainly in silver and copper, with the silver tanka and copper jital.",
+      "as": "দিল্লী চুলতানতে মূলত ৰূপ আৰু তামেৰে মুদ্ৰা জাৰি কৰিছিল, ৰূপৰ টঙ্কা আৰু তামৰ জিতাল।"
+    }
+  }
+]

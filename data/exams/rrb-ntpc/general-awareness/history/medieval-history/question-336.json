@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-336",
+    "q": {
+      "en": "Which medieval Indian kingdom patronised the Sanskrit scholar Sayana?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় ৰাজ্যই সংস্কৃত পণ্ডিত সায়ণক পৃষ্ঠপোষকতা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Vijayanagara",
+        "as": "বিজয়নগৰ"
+      },
+      {
+        "en": "Bahmani",
+        "as": "বাহমনী"
+      },
+      {
+        "en": "Mughal",
+        "as": "মোগল"
+      },
+      {
+        "en": "Lodi",
+        "as": "লোদী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sayana, the great commentator on the Vedas, was patronised by the Vijayanagara rulers.",
+      "as": "সায়ণ, বেদৰ মহান ভাষ্যকাৰ, বিজয়নগৰ শাসকসকলৰ দ্বাৰা পৃষ্ঠপোষিত আছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-374",
+    "q": {
+      "en": "Which medieval Indian kingdom is known for the 'Mandu' monuments?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় ৰাজ্য 'মাণ্ডু' স্মৃতিসৌধৰ বাবে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The Bahmani Sultanate",
+        "as": "বাহমনী চুলতানত"
+      },
+      {
+        "en": "The Malwa Sultanate",
+        "as": "মালৱা চুলতানত"
+      },
+      {
+        "en": "The Bengal Sultanate",
+        "as": "বংগ চুলতানত"
+      },
+      {
+        "en": "The Gujarat Sultanate",
+        "as": "গুজৰাট চুলতানত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mandu was the capital of the Malwa Sultanate and has notable monuments such as the Jahaz Mahal.",
+      "as": "মাণ্ডু মালৱা চুলতানতৰ ৰাজধানী আছিল আৰু জাহাজ মহলৰ দৰে উল্লেখযোগ্য স্মৃতিসৌধ আছে।"
+    }
+  }
+]

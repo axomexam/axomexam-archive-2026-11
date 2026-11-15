@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-315",
+    "q": {
+      "en": "Which medieval Indian classical dance form developed in the courts of North India?",
+      "as": "উত্তৰ ভাৰতৰ ৰাজদৰবাৰত কোন মধ্য যুগীয় ভাৰতীয় শাস্ত্ৰীয় নৃত্য প্ৰকাৰ বিকশিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Bharatanatyam",
+        "as": "ভৰতনাট্যম"
+      },
+      {
+        "en": "Odissi",
+        "as": "ওড়িশী"
+      },
+      {
+        "en": "Kathak",
+        "as": "কথক"
+      },
+      {
+        "en": "Mohiniyattam",
+        "as": "মোহিনীয়াট্টম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kathak developed in the courts of North India and was patronised by both Mughal and Rajput rulers.",
+      "as": "কথক উত্তৰ ভাৰতৰ ৰাজদৰবাৰত বিকশিত হৈছিল আৰু মোগল আৰু ৰাজপুত শাসক উভয়ে পৃষ্ঠপোষকতা কৰিছিল।"
+    }
+  }
+]

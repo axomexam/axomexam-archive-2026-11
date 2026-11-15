@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-215",
+    "q": {
+      "en": "Which later Mughal emperor was a poet and is known by his pen name 'Zafar'?",
+      "as": "কোন পিছৰ মোগল সম্ৰাট এজন কবি আছিল আৰু তেওঁৰ ছদ্মনাম 'জফৰ'ৰে জনাজাত?"
+    },
+    "options": [
+      {
+        "en": "Shah Alam II",
+        "as": "দ্বিতীয় শাহ আলম"
+      },
+      {
+        "en": "Akbar II",
+        "as": "দ্বিতীয় আকবৰ"
+      },
+      {
+        "en": "Bahadur Shah I",
+        "as": "প্ৰথম বাহাদুৰ শাহ"
+      },
+      {
+        "en": "Bahadur Shah Zafar",
+        "as": "বাহাদুৰ শাহ জফৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bahadur Shah Zafar, the last Mughal emperor, was a noted Urdu poet with the pen name Zafar.",
+      "as": "বাহাদুৰ শাহ জফৰ, শেষ মোগল সম্ৰাট, জফৰ ছদ্মনামেৰে এজন বিখ্যাত উৰ্দু কবি আছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-047",
+    "q": {
+      "en": "Which famous autobiography did Babur write?",
+      "as": "বাবৰে কোন বিখ্যাত আত্মজীৱনী লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Akbarnama",
+        "as": "আকবৰনামা"
+      },
+      {
+        "en": "Baburnama",
+        "as": "বাবৰনামা"
+      },
+      {
+        "en": "Humayunnama",
+        "as": "হুমায়ুননামা"
+      },
+      {
+        "en": "Tuzuk-i-Jahangiri",
+        "as": "তুজুক-ই-জাহাংগীৰী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Babur wrote the Baburnama in Turkish, a frank autobiography describing his life and conquests.",
+      "as": "বাবৰে তুৰ্কীত বাবৰনামা লিখিছিল, তেওঁৰ জীৱন আৰু বিজয় বৰ্ণনা কৰা এটা স্পষ্ট আত্মজীৱনী।"
+    }
+  }
+]

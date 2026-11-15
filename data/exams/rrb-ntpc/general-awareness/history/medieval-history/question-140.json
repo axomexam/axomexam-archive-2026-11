@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-140",
+    "q": {
+      "en": "The 'iqta' system of the Delhi Sultanate was associated with which of the following?",
+      "as": "দিল্লী চুলতানতৰ 'ইকতা' পদ্ধতি তলৰ কোনটোৰ সৈতে জড়িত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Military conscription",
+        "as": "সামৰিক বাধ্যতামূলক নিযুক্তি"
+      },
+      {
+        "en": "Assignment of land revenue",
+        "as": "ভূমি ৰাজহৰ বন্দোবস্ত"
+      },
+      {
+        "en": "Trade regulation",
+        "as": "বাণিজ্য নিয়ন্ত্ৰণ"
+      },
+      {
+        "en": "Religious endowment",
+        "as": "ধৰ্মীয় অনুদান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Under the iqta system, land revenue was assigned to nobles and officers in lieu of salary.",
+      "as": "ইকতা পদ্ধতিৰ অধীনত দৰমহাৰ সলনি অভিজাত আৰু বিষয়াসকলক ভূমি ৰাজহ বন্দোবস্ত কৰা হৈছিল।"
+    }
+  }
+]

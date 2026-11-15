@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-090",
+    "q": {
+      "en": "Which of the following was a consequence of Aurangzeb's Deccan policy?",
+      "as": "তলৰ কোনটো আওৰংজেবৰ দাক্ষিণাত্য নীতিত এটা পৰিণতি আছিল?"
+    },
+    "options": [
+      {
+        "en": "It increased Mughal trade",
+        "as": "ই মোগল বাণিজ্য বৃদ্ধি কৰিছিল"
+      },
+      {
+        "en": "It ended all warfare",
+        "as": "ই সকলো যুদ্ধৰ অন্ত পেলাইছিল"
+      },
+      {
+        "en": "It drained the empire's treasury and strength",
+        "as": "ই সাম্ৰাজ্যৰ ভঁৰাল আৰু শক্তি ক্ষয় কৰিছিল"
+      },
+      {
+        "en": "It strengthened the navy",
+        "as": "ই নৌসেনা সবল কৰিছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Aurangzeb's long Deccan wars drained the treasury and weakened the Mughal empire.",
+      "as": "আওৰংজেবৰ দীঘলীয়া দাক্ষিণাত্য যুদ্ধই ভঁৰাল ক্ষয় কৰি মোগল সাম্ৰাজ্য দুৰ্বল কৰিছিল।"
+    }
+  }
+]

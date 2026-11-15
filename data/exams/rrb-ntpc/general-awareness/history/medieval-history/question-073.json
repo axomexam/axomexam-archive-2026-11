@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-073",
+    "q": {
+      "en": "The Mughal 'Mansabdari' system graded officers by which two numbers?",
+      "as": "মোগল 'মনচবদাৰী' পদ্ধতিয়ে বিষয়াসকলক কোন দুটা সংখ্যাৰ দ্বাৰা শ্ৰেণীবদ্ধ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Zamindar and Jagirdar",
+        "as": "জমিদাৰ আৰু জাগিৰদাৰ"
+      },
+      {
+        "en": "Amir and Sardar",
+        "as": "আমীৰ আৰু সৰদাৰ"
+      },
+      {
+        "en": "Subah and Sarkar",
+        "as": "ছুবা আৰু সৰকাৰ"
+      },
+      {
+        "en": "Zat and Sawar",
+        "as": "জাট আৰু চৱাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A mansabdar's rank was expressed by two numbers — zat (personal rank) and sawar (cavalry rank).",
+      "as": "মনচবদাৰৰ পদমৰ্যাদা দুটা সংখ্যাৰ দ্বাৰা প্ৰকাশ কৰা হৈছিল — জাট (ব্যক্তিগত পদমৰ্যাদা) আৰু চৱাৰ (অশ্বাৰোহী পদমৰ্যাদা)।"
+    }
+  }
+]

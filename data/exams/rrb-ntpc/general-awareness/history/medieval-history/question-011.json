@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-011",
+    "q": {
+      "en": "Who led the first major Turkish invasion of India in the early eleventh century?",
+      "as": "একাদশ শতিকাৰ আৰম্ভণিতে ভাৰতত প্ৰথম প্ৰধান তুৰ্কী আক্ৰমণ কোনে নেতৃত্ব দিছিল?"
+    },
+    "options": [
+      {
+        "en": "Muhammad Ghori",
+        "as": "মহম্মদ ঘোৰী"
+      },
+      {
+        "en": "Mahmud of Ghazni",
+        "as": "গজনীৰ মহম্মদ"
+      },
+      {
+        "en": "Babur",
+        "as": "বাবৰ"
+      },
+      {
+        "en": "Timur",
+        "as": "তৈমূৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mahmud of Ghazni invaded India seventeen times and attacked temples such as Somnath.",
+      "as": "গজনীৰ মহম্মদে সোতৰবাৰ ভাৰতত আক্ৰমণ কৰিছিল আৰু সোমনাথৰ দৰে মন্দিৰত হামলা কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-222",
+    "q": {
+      "en": "Which kingdom of South India was ruled by the Wodeyar dynasty?",
+      "as": "দক্ষিণ ভাৰতৰ কোন ৰাজ্য ৱোদেয়াৰ বংশৰ দ্বাৰা শাসিত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Hyderabad",
+        "as": "হায়দৰাবাদ"
+      },
+      {
+        "en": "Vijayanagara",
+        "as": "বিজয়নগৰ"
+      },
+      {
+        "en": "Mysore",
+        "as": "মহীশূৰ"
+      },
+      {
+        "en": "Bahmani",
+        "as": "বাহমনী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Wodeyar dynasty ruled Mysore, though actual power was held by Haidar Ali and Tipu Sultan for a time.",
+      "as": "ৱোদেয়াৰ বংশে মহীশূৰ শাসন কৰিছিল, যদিও কিছু সময়ৰ বাবে প্ৰকৃত ক্ষমতা হাইদৰ আলী আৰু টিপু চুলতানৰ হাতত আছিল।"
+    }
+  }
+]

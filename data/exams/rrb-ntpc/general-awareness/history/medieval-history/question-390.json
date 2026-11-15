@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-390",
+    "q": {
+      "en": "Which Mughal emperor's forces invaded Assam in the seventeenth century but were defeated?",
+      "as": "কোন মোগল সম্ৰাটৰ সেনাই সপ্তদশ শতিকাত অসম আক্ৰমণ কৰিছিল কিন্তু পৰাস্ত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "আওৰংজেব"
+      },
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Babur",
+        "as": "বাবৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mughal forces under Aurangzeb invaded Assam but were defeated by the Ahoms at Saraighat in 1671.",
+      "as": "আওৰংজেবৰ অধীনত মোগল সেনাই অসম আক্ৰমণ কৰিছিল কিন্তু ১৬৭১ চনত শৰাইঘাটত আহোমসকলে পৰাস্ত কৰিছিল।"
+    }
+  }
+]

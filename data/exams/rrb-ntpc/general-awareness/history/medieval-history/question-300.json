@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-300",
+    "q": {
+      "en": "Which medieval Indian scholar wrote the 'Chaitanya Charitamrita'?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় পণ্ডিতে 'চৈতন্য চৰিতামৃত' লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Vrindavan Das",
+        "as": "বৃন্দাবন দাস"
+      },
+      {
+        "en": "Vidyapati",
+        "as": "বিদ্যাপতি"
+      },
+      {
+        "en": "Krishnadasa Kaviraja",
+        "as": "কৃষ্ণদাস কবিৰাজ"
+      },
+      {
+        "en": "Jayadeva",
+        "as": "জয়দেৱ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Krishnadasa Kaviraja wrote the Chaitanya Charitamrita, a biography of Chaitanya Mahaprabhu.",
+      "as": "কৃষ্ণদাস কবিৰাজে চৈতন্য চৰিতামৃত লিখিছিল, চৈতন্য মহাপ্ৰভুৰ এটা জীৱনী।"
+    }
+  }
+]

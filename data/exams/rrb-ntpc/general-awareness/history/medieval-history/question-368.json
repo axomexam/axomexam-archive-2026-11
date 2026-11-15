@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-368",
+    "q": {
+      "en": "Which medieval Indian temple at Khajuraho is the largest and most famous?",
+      "as": "খজুৰাহোৰ কোন মধ্য যুগীয় ভাৰতীয় মন্দিৰ আটাইতকৈ ডাঙৰ আৰু বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "Kandariya Mahadeva temple",
+        "as": "কন্দৰীয়া মহাদেৱ মন্দিৰ"
+      },
+      {
+        "en": "Lakshmana temple",
+        "as": "লক্ষ্মণ মন্দিৰ"
+      },
+      {
+        "en": "Vishvanatha temple",
+        "as": "বিশ্বনাথ মন্দিৰ"
+      },
+      {
+        "en": "Parsvanatha temple",
+        "as": "পাৰ্শ্বনাথ মন্দিৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Kandariya Mahadeva temple is the largest and most ornate of the Khajuraho group.",
+      "as": "কন্দৰীয়া মহাদেৱ মন্দিৰ খজুৰাহো গোটৰ আটাইতকৈ ডাঙৰ আৰু অলংকৃত।"
+    }
+  }
+]

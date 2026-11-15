@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-279",
+    "q": {
+      "en": "Which medieval poet wrote the 'Padmavat' in Awadhi?",
+      "as": "কোন মধ্য যুগীয় কবিয়ে অৱধীত 'পদ্মাৱত' লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Tulsidas",
+        "as": "তুলসীদাস"
+      },
+      {
+        "en": "Surdas",
+        "as": "সূৰদাস"
+      },
+      {
+        "en": "Kabir",
+        "as": "কবিৰ"
+      },
+      {
+        "en": "Malik Muhammad Jayasi",
+        "as": "মালিক মহম্মদ জায়সী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Malik Muhammad Jayasi wrote the Padmavat in Awadhi, a famous Sufi romantic epic.",
+      "as": "মালিক মহম্মদ জায়সীয়ে অৱধীত পদ্মাৱত লিখিছিল, এটা বিখ্যাত ছুফী প্ৰেমমূলক মহাকাব্য।"
+    }
+  }
+]

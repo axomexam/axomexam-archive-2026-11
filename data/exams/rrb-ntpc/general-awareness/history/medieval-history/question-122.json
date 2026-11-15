@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-122",
+    "q": {
+      "en": "Which regional kingdom of medieval India was ruled by the Ahom dynasty?",
+      "as": "মধ্য যুগীয় ভাৰতৰ কোন আঞ্চলিক ৰাজ্য আহোম বংশৰ দ্বাৰা শাসিত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Bengal",
+        "as": "বংগ"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Malwa",
+        "as": "মালৱা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Ahom dynasty ruled Assam for about six centuries, from the thirteenth to the nineteenth.",
+      "as": "আহোম বংশে অসম প্ৰায় ছশ বছৰ শাসন কৰিছিল, ত্ৰয়োদশৰ পৰা ঊনবিংশ শতিকালৈ।"
+    }
+  }
+]

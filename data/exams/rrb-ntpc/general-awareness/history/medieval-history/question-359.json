@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-359",
+    "q": {
+      "en": "Which medieval Indian kingdom is known for the 'Brihadeeswara' temple's massive vimana?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় ৰাজ্য 'বৃহদীশ্বৰ' মন্দিৰৰ বিশাল বিমানৰ বাবে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The Pandya kingdom",
+        "as": "পাণ্ড্য ৰাজ্য"
+      },
+      {
+        "en": "The Chola kingdom",
+        "as": "চোল ৰাজ্য"
+      },
+      {
+        "en": "The Chera kingdom",
+        "as": "চেৰা ৰাজ্য"
+      },
+      {
+        "en": "The Pala kingdom",
+        "as": "পাল ৰাজ্য"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Brihadeeswara temple at Thanjavur has a towering vimana, a hallmark of Chola architecture.",
+      "as": "থাঞ্জাৱুৰৰ বৃহদীশ্বৰ মন্দিৰত এটা ওখ বিমান আছে, চোল স্থাপত্যৰ এটা বৈশিষ্ট্য।"
+    }
+  }
+]

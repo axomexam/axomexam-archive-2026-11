@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-097",
+    "q": {
+      "en": "Which philosopher is associated with the Dvaita or dualist school of Vedanta?",
+      "as": "কোন দাৰ্শনিক দ্বৈতবাদী বেদান্ত শাখাৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Ramanuja",
+        "as": "ৰামানুজ"
+      },
+      {
+        "en": "Shankara",
+        "as": "শঙ্কৰ"
+      },
+      {
+        "en": "Vallabha",
+        "as": "বল্লভ"
+      },
+      {
+        "en": "Madhva",
+        "as": "মধ্ব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Madhva founded the Dvaita school, which teaches a clear distinction between the soul and God.",
+      "as": "মধ্বই দ্বৈত শাখা প্ৰতিষ্ঠা কৰিছিল, যি আত্মা আৰু ঈশ্বৰৰ মাজত স্পষ্ট পাৰ্থক্য শিক্ষা দিয়ে।"
+    }
+  }
+]

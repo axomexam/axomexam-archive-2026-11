@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-042",
+    "q": {
+      "en": "What was the chief factor behind Babur's victory in the First Battle of Panipat?",
+      "as": "পানীপতৰ প্ৰথম যুদ্ধত বাবৰৰ বিজয়ৰ প্ৰধান কাৰণ কি আছিল?"
+    },
+    "options": [
+      {
+        "en": "Larger army",
+        "as": "বৃহত্তৰ সেনা"
+      },
+      {
+        "en": "Naval strength",
+        "as": "নৌ শক্তি"
+      },
+      {
+        "en": "Use of elephants",
+        "as": "হাতীৰ ব্যৱহাৰ"
+      },
+      {
+        "en": "Superior artillery and tactics",
+        "as": "উন্নত কামান আৰু কৌশল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Babur's effective use of field artillery and the tulughma tactic gave him victory over the larger Lodi army.",
+      "as": "বাবৰৰ ফলপ্ৰসূ কামান আৰু তুলুঘমা কৌশলে তেওঁক বৃহত্তৰ লোদী সেনাৰ ওপৰত বিজয় দিছিল।"
+    }
+  }
+]

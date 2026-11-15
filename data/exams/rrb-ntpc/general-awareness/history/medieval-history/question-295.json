@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-295",
+    "q": {
+      "en": "Which medieval Indian king is known for his work 'Sangeet Raj' on music?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় ৰজা সংগীতৰ ওপৰত তেওঁৰ 'সংগীত ৰাজ' কৰ্মৰ বাবে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Krishnadevaraya",
+        "as": "কৃষ্ণদেৱৰায়"
+      },
+      {
+        "en": "Man Singh Tomar",
+        "as": "মান সিং তোমৰ"
+      },
+      {
+        "en": "Rana Kumbha",
+        "as": "ৰাণা কুম্ভ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Rana Kumbha of Mewar wrote the Sangeet Raj, a treatise on music.",
+      "as": "মেৱাৰৰ ৰাণা কুম্ভে সংগীত ৰাজ লিখিছিল, সংগীতৰ এটা প্ৰবন্ধ।"
+    }
+  }
+]

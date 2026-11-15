@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-268",
+    "q": {
+      "en": "Which medieval Indian dynasty is known for the 'Dravidian' style of temple architecture?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় বংশ মন্দিৰ স্থাপত্যৰ 'দ্ৰাবিড়' শৈলীৰ বাবে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The Palas",
+        "as": "পালসকল"
+      },
+      {
+        "en": "The Cholas",
+        "as": "চোলসকল"
+      },
+      {
+        "en": "The Mughals",
+        "as": "মোগলসকল"
+      },
+      {
+        "en": "The Lodis",
+        "as": "লোদীসকল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Cholas were great builders in the Dravidian style, marked by tall vimanas and gopurams.",
+      "as": "চোলসকলে দ্ৰাবিড় শৈলীত মহান নিৰ্মাতা আছিল, ওখ বিমান আৰু গোপুৰমৰ দ্বাৰা চিহ্নিত।"
+    }
+  }
+]

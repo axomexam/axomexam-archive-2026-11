@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-345",
+    "q": {
+      "en": "Which medieval Indian ruler is credited with founding the 'Vikramashila' monastery?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় শাসকক 'বিক্ৰমশীলা' বিহাৰ প্ৰতিষ্ঠাৰ কৃতিত্ব দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Ashoka",
+        "as": "অশোক"
+      },
+      {
+        "en": "Harsha",
+        "as": "হৰ্ষ"
+      },
+      {
+        "en": "Dharmapala",
+        "as": "ধৰ্মপাল"
+      },
+      {
+        "en": "Kanishka",
+        "as": "কণিষ্ক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Dharmapala of the Pala dynasty founded the Vikramashila monastery in Bengal.",
+      "as": "পাল বংশৰ ধৰ্মপালে বংগত বিক্ৰমশীলা বিহাৰ প্ৰতিষ্ঠা কৰিছিল।"
+    }
+  }
+]

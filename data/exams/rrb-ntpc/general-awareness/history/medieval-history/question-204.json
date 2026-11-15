@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-204",
+    "q": {
+      "en": "Who founded the kingdom of Mysore and later resisted the British?",
+      "as": "মহীশূৰ ৰাজ্য কোনে প্ৰতিষ্ঠা কৰিছিল আৰু পিছত ব্ৰিটিছৰ প্ৰতিৰোধ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Tipu Sultan",
+        "as": "টিপু চুলতান"
+      },
+      {
+        "en": "Asaf Jah",
+        "as": "আছাফ জাহ"
+      },
+      {
+        "en": "Saadat Khan",
+        "as": "ছাদাত খান"
+      },
+      {
+        "en": "Haidar Ali",
+        "as": "হাইদৰ আলী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Haidar Ali rose to power in Mysore and resisted the British in the Anglo-Mysore Wars.",
+      "as": "হাইদৰ আলী মহীশূৰত ক্ষমতালৈ আহিছিল আৰু ইংৰাজ-মহীশূৰ যুদ্ধত ব্ৰিটিছৰ প্ৰতিৰোধ কৰিছিল।"
+    }
+  }
+]

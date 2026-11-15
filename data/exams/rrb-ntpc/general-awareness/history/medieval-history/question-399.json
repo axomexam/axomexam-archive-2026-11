@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-399",
+    "q": {
+      "en": "Which medieval Indian kingdom is known for the 'Barpeta' and 'Kamalabari' sattras in Assam?",
+      "as": "অসমত 'বৰপেটা' আৰু 'কমলাবৰী' সত্ৰৰ বাবে কোন মধ্য যুগীয় ভাৰতীয় ৰাজ্য জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The Koch kingdom",
+        "as": "কোচ ৰাজ্য"
+      },
+      {
+        "en": "The Mughal empire",
+        "as": "মোগল সাম্ৰাজ্য"
+      },
+      {
+        "en": "The Ahom kingdom",
+        "as": "আহোম ৰাজ্য"
+      },
+      {
+        "en": "The Chola kingdom",
+        "as": "চোল ৰাজ্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ahom kingdom patronised Vaishnava sattras such as Barpeta and Kamalabari in Assam.",
+      "as": "আহোম ৰাজ্যই অসমত বৰপেটা আৰু কমলাবৰীৰ দৰে বৈষ্ণৱ সত্ৰক পৃষ্ঠপোষকতা কৰিছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-065",
+    "q": {
+      "en": "Who wrote the 'Akbarnama' and the 'Ain-i-Akbari'?",
+      "as": "'আকবৰনামা' আৰু 'আইন-ই-আকবৰী' কোনে লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Badauni",
+        "as": "বদাউনী"
+      },
+      {
+        "en": "Abul Fazl",
+        "as": "আবুল ফজল"
+      },
+      {
+        "en": "Birbal",
+        "as": "বীৰবল"
+      },
+      {
+        "en": "Faizi",
+        "as": "ফৈজী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Abul Fazl wrote the Akbarnama, a history of Akbar's reign, and the Ain-i-Akbari, an administrative record.",
+      "as": "আবুল ফজলে আকবৰনামা, আকবৰৰ ৰাজত্বকালৰ ইতিহাস, আৰু আইন-ই-আকবৰী, এটা প্ৰশাসনিক অভিলেখ লিখিছিল।"
+    }
+  }
+]

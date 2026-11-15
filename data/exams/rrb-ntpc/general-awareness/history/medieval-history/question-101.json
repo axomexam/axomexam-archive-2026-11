@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-101",
+    "q": {
+      "en": "Which Bhakti poet is famous for his devotional songs about Krishna in the 'Sursagar'?",
+      "as": "কোন ভক্তি কবি 'সূৰসাগৰ'ত কৃষ্ণৰ বিষয়ে তেওঁৰ ভক্তিমূলক গীতৰ বাবে বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "Tulsidas",
+        "as": "তুলসীদাস"
+      },
+      {
+        "en": "Kabir",
+        "as": "কবিৰ"
+      },
+      {
+        "en": "Surdas",
+        "as": "সূৰদাস"
+      },
+      {
+        "en": "Raidas",
+        "as": "ৰৈদাস"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Surdas composed the Sursagar, a collection of devotional songs on the childhood and life of Krishna.",
+      "as": "সূৰদাসে সূৰসাগৰ ৰচনা কৰিছিল, কৃষ্ণৰ বাল্যকাল আৰু জীৱনৰ ওপৰত ভক্তিমূলক গীতৰ সংকলন।"
+    }
+  }
+]

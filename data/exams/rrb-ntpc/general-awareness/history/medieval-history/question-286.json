@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-286",
+    "q": {
+      "en": "Which medieval Assamese work was written by Madhavdeva, a follower of Sankardeva?",
+      "as": "শংকৰদেৱৰ অনুগামী মাধৱদেৱে কোন মধ্য যুগীয় অসমীয়া কৰ্ম লিখিছিল?"
+    },
+    "options": [
+      {
+        "en": "Nam Ghosha",
+        "as": "নাম ঘোষা"
+      },
+      {
+        "en": "Ramcharitmanas",
+        "as": "ৰামচৰিতমানস"
+      },
+      {
+        "en": "Padmavat",
+        "as": "পদ্মাৱত"
+      },
+      {
+        "en": "Baburnama",
+        "as": "বাবৰনামা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Madhavdeva wrote the Nam Ghosha, a collection of devotional verses central to Assamese Vaishnavism.",
+      "as": "মাধৱদেৱে নাম ঘোষা লিখিছিল, অসমীয়া বৈষ্ণৱ ধৰ্মৰ কেন্দ্ৰীয় ভক্তিমূলক শ্লোকৰ সংকলন।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-003",
+    "q": {
+      "en": "The Rajput dynasty that ruled Kannauj and claimed descent from the sun was which of the following?",
+      "as": "কনৌজ শাসন কৰা আৰু সূৰ্যবংশৰ বুলি দাবী কৰা ৰাজপুত বংশ তলৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Pala",
+        "as": "পাল"
+      },
+      {
+        "en": "Rashtrakuta",
+        "as": "ৰাষ্ট্ৰকুট"
+      },
+      {
+        "en": "Gurjara-Pratihara",
+        "as": "গুৰ্জৰ-প্ৰতিহাৰ"
+      },
+      {
+        "en": "Chalukya",
+        "as": "চালুক্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Gurjara-Pratiharas ruled Kannauj and were one of the three powers that fought for its control.",
+      "as": "গুৰ্জৰ-প্ৰতিহাৰসকলে কনৌজ শাসন কৰিছিল আৰু ইয়াৰ নিয়ন্ত্ৰণৰ বাবে যুঁজ দিয়া তিনিটা শক্তিৰ এটা আছিল।"
+    }
+  }
+]

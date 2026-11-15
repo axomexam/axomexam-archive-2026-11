@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-169",
+    "q": {
+      "en": "The Malwa Sultanate was founded by which dynasty?",
+      "as": "মালৱা চুলতানত কোন বংশই প্ৰতিষ্ঠা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "The Sayyids",
+        "as": "চৈয়দ"
+      },
+      {
+        "en": "The Lodis",
+        "as": "লোদী"
+      },
+      {
+        "en": "The Ghurid governors",
+        "as": "ঘোৰী গৱৰ্ণৰসকল"
+      },
+      {
+        "en": "The Mughals",
+        "as": "মোগল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Malwa Sultanate was founded by governors of the Delhi Sultanate in the early fifteenth century.",
+      "as": "মালৱা চুলতানত পঞ্চদশ শতিকাৰ আৰম্ভণিতে দিল্লী চুলতানতৰ গৱৰ্ণৰসকলে প্ৰতিষ্ঠা কৰিছিল।"
+    }
+  }
+]

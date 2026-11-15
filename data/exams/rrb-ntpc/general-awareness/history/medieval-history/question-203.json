@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-203",
+    "q": {
+      "en": "Who founded the state of Hyderabad in the Deccan?",
+      "as": "দাক্ষিণাত্যত হায়দৰাবাদ ৰাজ্য কোনে প্ৰতিষ্ঠা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Saadat Khan",
+        "as": "ছাদাত খান"
+      },
+      {
+        "en": "Haidar Ali",
+        "as": "হাইদৰ আলী"
+      },
+      {
+        "en": "Asaf Jah",
+        "as": "আছাফ জাহ"
+      },
+      {
+        "en": "Tipu Sultan",
+        "as": "টিপু চুলতান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Nizam-ul-Mulk Asaf Jah founded the autonomous state of Hyderabad in the Deccan.",
+      "as": "নিজাম-উল-মুল্ক আছাফ জাহে দাক্ষিণাত্যত স্বায়ত্তশাসিত হায়দৰাবাদ ৰাজ্য প্ৰতিষ্ঠা কৰিছিল।"
+    }
+  }
+]

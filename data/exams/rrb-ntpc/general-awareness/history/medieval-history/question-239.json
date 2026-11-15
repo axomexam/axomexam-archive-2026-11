@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-239",
+    "q": {
+      "en": "The Shalimar Garden at Srinagar was laid out by which Mughal emperor?",
+      "as": "শ্ৰীনগৰৰ ছালিমাৰ উদ্যান কোন মোগল সম্ৰাটে সজাইছিল?"
+    },
+    "options": [
+      {
+        "en": "Babur",
+        "as": "বাবৰ"
+      },
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "আওৰংজেব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jahangir laid out the Shalimar Garden at Srinagar in Kashmir.",
+      "as": "জাহাংগীৰে কাশ্মীৰৰ শ্ৰীনগৰত ছালিমাৰ উদ্যান সজাইছিল।"
+    }
+  }
+]

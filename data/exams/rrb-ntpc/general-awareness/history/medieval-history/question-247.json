@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-247",
+    "q": {
+      "en": "Which medieval Indian style of architecture is associated with the province of Bengal?",
+      "as": "মধ্য যুগীয় ভাৰতৰ কোন স্থাপত্য শৈলী বংগ প্ৰদেশৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "The Dravidian style",
+        "as": "দ্ৰাবিড় শৈলী"
+      },
+      {
+        "en": "The Nagara style",
+        "as": "নাগৰ শৈলী"
+      },
+      {
+        "en": "The Kalinga style",
+        "as": "কলিঙ্গ শৈলী"
+      },
+      {
+        "en": "The Bengal style with curved roofs",
+        "as": "বাঁকা চালযুক্ত বংগ শৈলী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bengal architecture is known for its curvilinear roofs (do-chala and char-chala) and terracotta decoration.",
+      "as": "বংগ স্থাপত্য ইয়াৰ বক্ৰৰেখীয় চাল (দু-চালা আৰু চাৰ-চালা) আৰু টেৰাকোটা অলংকৰণৰ বাবে জনা যায়।"
+    }
+  }
+]

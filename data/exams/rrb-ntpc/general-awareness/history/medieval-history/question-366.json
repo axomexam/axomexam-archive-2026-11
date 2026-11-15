@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-366",
+    "q": {
+      "en": "Which medieval Indian kingdom is known for the 'Dashavatara temple' at Deogarh?",
+      "as": "দেৱগড়ৰ 'দশাৱতাৰ মন্দিৰ'ৰ বাবে কোন মধ্য যুগীয় ভাৰতীয় ৰাজ্য জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The Gupta kingdom",
+        "as": "গুপ্ত ৰাজ্য"
+      },
+      {
+        "en": "The Mughal empire",
+        "as": "মোগল সাম্ৰাজ্য"
+      },
+      {
+        "en": "The Chola kingdom",
+        "as": "চোল ৰাজ্য"
+      },
+      {
+        "en": "The Pala kingdom",
+        "as": "পাল ৰাজ্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Dashavatara temple at Deogarh is a classic example of early Gupta temple architecture.",
+      "as": "দেৱগড়ৰ দশাৱতাৰ মন্দিৰ প্ৰাৰম্ভিক গুপ্ত মন্দিৰ স্থাপত্যৰ এটা ধ্ৰুপদী উদাহৰণ।"
+    }
+  }
+]

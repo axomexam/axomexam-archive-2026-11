@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-272",
+    "q": {
+      "en": "Which medieval Indian monument was built by Shah Jahan at Delhi on the pattern of a similar one at Agra?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় স্মৃতিসৌধ শাহজাহানে আগ্ৰাৰ একে ধৰণৰ এটাৰ আৰ্হিত দিল্লীত নিৰ্মাণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Red Fort",
+        "as": "ৰঙা দুৰ্গ"
+      },
+      {
+        "en": "Taj Mahal",
+        "as": "তাজমহল"
+      },
+      {
+        "en": "Jama Masjid",
+        "as": "জামা মছজিদ"
+      },
+      {
+        "en": "Humayun's Tomb",
+        "as": "হুমায়ুনৰ মাজাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Shah Jahan built the Red Fort at Delhi on the pattern of the Agra Fort.",
+      "as": "শাহজাহানে আগ্ৰা দুৰ্গৰ আৰ্হিত দিল্লীত ৰঙা দুৰ্গ নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

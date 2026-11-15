@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-083",
+    "q": {
+      "en": "Which Mughal emperor built the Jama Masjid at Delhi?",
+      "as": "কোন মোগল সম্ৰাটে দিল্লীত জামা মছজিদ নিৰ্মাণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      },
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "আওৰংজেব"
+      },
+      {
+        "en": "Babur",
+        "as": "বাবৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Shah Jahan built the Jama Masjid at Delhi, one of the largest mosques in India.",
+      "as": "শাহজাহানে দিল্লীত জামা মছজিদ নিৰ্মাণ কৰিছিল, ভাৰতৰ আটাইতকৈ ডাঙৰ মছজিদবোৰৰ এটা।"
+    }
+  }
+]

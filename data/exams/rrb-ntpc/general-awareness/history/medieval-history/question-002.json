@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-002",
+    "q": {
+      "en": "The early medieval period in India is generally taken to begin after the decline of which empire?",
+      "as": "ভাৰতত প্ৰাৰম্ভিক মধ্য যুগ সাধাৰণতে কোন সাম্ৰাজ্যৰ পতনৰ পিছত আৰম্ভ হোৱা বুলি ধৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "The Mauryan empire",
+        "as": "মৌৰ্য সাম্ৰাজ্য"
+      },
+      {
+        "en": "The Mughal empire",
+        "as": "মোগল সাম্ৰাজ্য"
+      },
+      {
+        "en": "The Gupta empire",
+        "as": "গুপ্ত সাম্ৰাজ্য"
+      },
+      {
+        "en": "The Chola empire",
+        "as": "চোল সাম্ৰাজ্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The early medieval period begins with the decline of the Gupta empire in the sixth century CE.",
+      "as": "প্ৰাৰম্ভিক মধ্য যুগ খ্ৰীষ্টীয় ষষ্ঠ শতিকাত গুপ্ত সাম্ৰাজ্যৰ পতনৰ সৈতে আৰম্ভ হয়।"
+    }
+  }
+]

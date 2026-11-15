@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-343",
+    "q": {
+      "en": "The famous Nalanda university flourished under which dynasty?",
+      "as": "বিখ্যাত নালন্দা বিশ্ববিদ্যালয় কোন বংশৰ অধীনত বিকশিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "The Mauryas",
+        "as": "মৌৰ্য"
+      },
+      {
+        "en": "The Guptas and later the Palas",
+        "as": "গুপ্ত আৰু পিছত পাল"
+      },
+      {
+        "en": "The Mughals",
+        "as": "মোগল"
+      },
+      {
+        "en": "The Cholas",
+        "as": "চোল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Nalanda university flourished under the Guptas and was later supported by the Palas of Bengal.",
+      "as": "নালন্দা বিশ্ববিদ্যালয় গুপ্তসকলৰ অধীনত বিকশিত হৈছিল আৰু পিছত বংগৰ পালসকলে ইয়াক সমৰ্থন কৰিছিল।"
+    }
+  }
+]

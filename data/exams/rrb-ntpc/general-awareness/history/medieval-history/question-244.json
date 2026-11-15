@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-244",
+    "q": {
+      "en": "The 'Baby Taj' or tomb of Itmad-ud-Daulah is located at which city?",
+      "as": "'বেবী তাজ' বা ইতিমাদ-উদ-দৌলাৰ মাজাৰ কোনখন নগৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Delhi",
+        "as": "দিল্লী"
+      },
+      {
+        "en": "Lahore",
+        "as": "লাহোৰ"
+      },
+      {
+        "en": "Agra",
+        "as": "আগ্ৰা"
+      },
+      {
+        "en": "Jaipur",
+        "as": "জয়পুৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The tomb of Itmad-ud-Daulah, often called the Baby Taj, is at Agra on the Yamuna.",
+      "as": "ইতিমাদ-উদ-দৌলাৰ মাজাৰ, প্ৰায়ে বেবী তাজ বুলি কোৱা, যমুনাৰ পাৰত আগ্ৰাত অৱস্থিত।"
+    }
+  }
+]

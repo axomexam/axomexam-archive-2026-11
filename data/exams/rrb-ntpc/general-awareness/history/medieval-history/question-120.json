@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-120",
+    "q": {
+      "en": "The whispering gallery for which the Gol Gumbaz is celebrated is found in which city?",
+      "as": "গোল গুম্বজ যি ফুচফুচনি গেলেৰীৰ বাবে প্ৰসিদ্ধ, সেয়া কোনখন নগৰত পোৱা যায়?"
+    },
+    "options": [
+      {
+        "en": "Golconda",
+        "as": "গোলকুণ্ডা"
+      },
+      {
+        "en": "Bijapur",
+        "as": "বিজাপুৰ"
+      },
+      {
+        "en": "Bidar",
+        "as": "বিদাৰ"
+      },
+      {
+        "en": "Ahmadnagar",
+        "as": "আহমদনগৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Gol Gumbaz at Bijapur is the mausoleum of Muhammad Adil Shah and has a famous whispering gallery.",
+      "as": "বিজাপুৰৰ গোল গুম্বজ মহম্মদ আদিল শাহৰ মাজাৰ আৰু ইয়াত এটা বিখ্যাত ফুচফুচনি গেলেৰী আছে।"
+    }
+  }
+]

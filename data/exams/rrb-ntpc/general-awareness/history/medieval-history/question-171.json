@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-171",
+    "q": {
+      "en": "The medieval kingdom of Kashmir was conquered by which Mughal emperor?",
+      "as": "কাশ্মীৰৰ মধ্য যুগীয় ৰাজ্য কোন মোগল সম্ৰাটে জয় কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Babur",
+        "as": "বাবৰ"
+      },
+      {
+        "en": "Humayun",
+        "as": "হুমায়ুন"
+      },
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Jahangir",
+        "as": "জাহাংগীৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Akbar annexed Kashmir in 1586, bringing the region under Mughal rule.",
+      "as": "আকবৰে ১৫৮৬ চনত কাশ্মীৰ সংযুক্ত কৰি অঞ্চলটো মোগল শাসনৰ অধীনলৈ আনিছিল।"
+    }
+  }
+]

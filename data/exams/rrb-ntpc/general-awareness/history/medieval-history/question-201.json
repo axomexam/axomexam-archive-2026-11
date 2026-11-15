@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-201",
+    "q": {
+      "en": "Which of the following was a major regional power in eighteenth-century India?",
+      "as": "তলৰ কোনটো অষ্টাদশ শতিকাৰ ভাৰতৰ এটা প্ৰধান আঞ্চলিক শক্তি আছিল?"
+    },
+    "options": [
+      {
+        "en": "The Mughal emperor",
+        "as": "মোগল সম্ৰাট"
+      },
+      {
+        "en": "The Delhi Sultanate",
+        "as": "দিল্লী চুলতানত"
+      },
+      {
+        "en": "The Nizam of Hyderabad",
+        "as": "হায়দৰাবাদৰ নিজাম"
+      },
+      {
+        "en": "The Vijayanagara empire",
+        "as": "বিজয়নগৰ সাম্ৰাজ্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Nizam of Hyderabad was one of the major regional powers that emerged as Mughal authority declined.",
+      "as": "হায়দৰাবাদৰ নিজাম মোগল কৰ্তৃত্ব ক্ষয় হোৱাৰ লগে লগে উদয় হোৱা প্ৰধান আঞ্চলিক শক্তিবোৰৰ এটা আছিল।"
+    }
+  }
+]

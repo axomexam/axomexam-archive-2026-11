@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-271",
+    "q": {
+      "en": "Which medieval Indian building is known as the 'Dream in Marble'?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় অট্টালিকা 'মাৰ্বলৰ সপোন' হিচাপে জনাজাত?"
+    },
+    "options": [
+      {
+        "en": "Red Fort",
+        "as": "ৰঙা দুৰ্গ"
+      },
+      {
+        "en": "Qutub Minar",
+        "as": "কুতুব মিনাৰ"
+      },
+      {
+        "en": "Taj Mahal",
+        "as": "তাজমহল"
+      },
+      {
+        "en": "Fatehpur Sikri",
+        "as": "ফতেহপুৰ ছিক্ৰী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Taj Mahal is often called a 'dream in marble' for its flawless white marble architecture.",
+      "as": "তাজমহলক প্ৰায়ে ইয়াৰ নিখুঁত বগা মাৰ্বল স্থাপত্যৰ বাবে 'মাৰ্বলৰ সপোন' বোলা হয়।"
+    }
+  }
+]

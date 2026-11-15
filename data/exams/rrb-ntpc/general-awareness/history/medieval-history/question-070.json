@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-070",
+    "q": {
+      "en": "Which Mughal ruler ended the jizya, the tax levied on non-Muslim subjects?",
+      "as": "কোন মোগল শাসকে অমুছলমান প্ৰজাৰ ওপৰত লগা জিজিয়া কৰৰ অন্ত পেলাইছিল?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "as": "আকবৰ"
+      },
+      {
+        "en": "Aurangzeb",
+        "as": "আওৰংজেব"
+      },
+      {
+        "en": "Babur",
+        "as": "বাবৰ"
+      },
+      {
+        "en": "Shah Jahan",
+        "as": "শাহজাহান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Akbar abolished the jizya, a tax on non-Muslims, as part of his policy of religious tolerance.",
+      "as": "আকবৰে ধৰ্মীয় সহনশীলতাৰ নীতিৰ অংশ হিচাপে অমুছলমানৰ ওপৰত লগা জিজিয়া কৰ বিলুপ্ত কৰিছিল।"
+    }
+  }
+]

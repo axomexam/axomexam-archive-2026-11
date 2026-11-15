@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-301",
+    "q": {
+      "en": "Which medieval Indian saint-poet is associated with the 'Varkari' tradition of Maharashtra?",
+      "as": "মহাৰাষ্ট্ৰৰ 'ৱাৰকাৰী' পৰম্পৰাৰ সৈতে কোন মধ্য যুগীয় ভাৰতীয় সন্ত-কবি জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Kabir and Raidas",
+        "as": "কবিৰ আৰু ৰৈদাস"
+      },
+      {
+        "en": "Tulsidas and Surdas",
+        "as": "তুলসীদাস আৰু সূৰদাস"
+      },
+      {
+        "en": "Chaitanya and Nityananda",
+        "as": "চৈতন্য আৰু নিত্যানন্দ"
+      },
+      {
+        "en": "Jnaneshwar and Tukaram",
+        "as": "জ্ঞানেশ্বৰ আৰু তুকাৰাম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Varkari tradition of Maharashtra, centred on Vithoba of Pandharpur, included Jnaneshwar and Tukaram.",
+      "as": "মহাৰাষ্ট্ৰৰ ৱাৰকাৰী পৰম্পৰা, পন্ধৰপুৰৰ বিঠোবাক কেন্দ্ৰ কৰি, জ্ঞানেশ্বৰ আৰু তুকাৰামক অন্তৰ্ভুক্ত কৰিছিল।"
+    }
+  }
+]

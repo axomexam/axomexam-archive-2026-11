@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-139",
+    "q": {
+      "en": "Which tax was levied on non-Muslims in the Delhi Sultanate?",
+      "as": "দিল্লী চুলতানতত অমুছলমানৰ ওপৰত কোন কৰ লগা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Kharaj",
+        "as": "খৰাজ"
+      },
+      {
+        "en": "Zakat",
+        "as": "জাকাত"
+      },
+      {
+        "en": "Khams",
+        "as": "খমছ"
+      },
+      {
+        "en": "Jizya",
+        "as": "জিজিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Jizya was a poll tax imposed on non-Muslim subjects in the Delhi Sultanate.",
+      "as": "জিজিয়া দিল্লী চুলতানতত অমুছলমান প্ৰজাৰ ওপৰত লগা এটা মাথা-কৰ আছিল।"
+    }
+  }
+]

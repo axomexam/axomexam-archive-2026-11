@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-282",
+    "q": {
+      "en": "Which medieval Bengali poet translated the Ramayana into Bengali?",
+      "as": "কোন মধ্য যুগীয় বঙালী কবিয়ে ৰামায়ণ বঙালীলৈ অনুবাদ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Chandidas",
+        "as": "চণ্ডীদাস"
+      },
+      {
+        "en": "Vidyapati",
+        "as": "বিদ্যাপতি"
+      },
+      {
+        "en": "Maladhar Basu",
+        "as": "মালাধৰ বসু"
+      },
+      {
+        "en": "Krittibas Ojha",
+        "as": "কৃত্তিবাস ওঝা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Krittibas Ojha translated the Ramayana into Bengali, a landmark of Bengali literature.",
+      "as": "কৃত্তিবাস ওঝাই ৰামায়ণ বঙালীলৈ অনুবাদ কৰিছিল, বঙালী সাহিত্যৰ এটা মাইলৰ খুঁটি।"
+    }
+  }
+]

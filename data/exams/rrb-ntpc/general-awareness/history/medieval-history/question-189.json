@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-189",
+    "q": {
+      "en": "The Maratha empire was divided into confederacies after which battle?",
+      "as": "কোন যুদ্ধৰ পিছত মাৰাঠা সাম্ৰাজ্য সংঘত বিভক্ত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Battle of Plassey",
+        "as": "পলাশীৰ যুদ্ধ"
+      },
+      {
+        "en": "Battle of Talikota",
+        "as": "তালিকোটৰ যুদ্ধ"
+      },
+      {
+        "en": "Third Battle of Panipat",
+        "as": "পানীপতৰ তৃতীয় যুদ্ধ"
+      },
+      {
+        "en": "Battle of Haldighati",
+        "as": "হলদীঘাটৰ যুদ্ধ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "After the Third Battle of Panipat in 1761, the Maratha empire broke into separate confederacies.",
+      "as": "১৭৬১ চনত পানীপতৰ তৃতীয় যুদ্ধৰ পিছত মাৰাঠা সাম্ৰাজ্য পৃথক সংঘত বিভক্ত হৈছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-147",
+    "q": {
+      "en": "Which city of the Delhi Sultanate was founded by Alauddin Khalji near Delhi?",
+      "as": "দিল্লী চুলতানতৰ কোনখন নগৰ আলাউদ্দিন খিলজীয়ে দিল্লীৰ ওচৰত প্ৰতিষ্ঠা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Jahanpanah",
+        "as": "জাহানপানাহ"
+      },
+      {
+        "en": "Tughlaqabad",
+        "as": "তুঘলকাবাদ"
+      },
+      {
+        "en": "Firozabad",
+        "as": "ফিৰোজাবাদ"
+      },
+      {
+        "en": "Siri",
+        "as": "ছিৰী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Alauddin Khalji founded the city of Siri near Delhi and built a fort there.",
+      "as": "আলাউদ্দিন খিলজীয়ে দিল্লীৰ ওচৰত ছিৰী নগৰ প্ৰতিষ্ঠা কৰিছিল আৰু তাত এটা দুৰ্গ নিৰ্মাণ কৰিছিল।"
+    }
+  }
+]

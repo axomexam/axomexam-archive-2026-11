@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-365",
+    "q": {
+      "en": "Which medieval Indian king is associated with the construction of the 'Ellora' cave temples?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় ৰজা 'ইল্লোৰা' গুহা মন্দিৰ নিৰ্মাণৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Ashoka",
+        "as": "অশোক"
+      },
+      {
+        "en": "Harsha",
+        "as": "হৰ্ষ"
+      },
+      {
+        "en": "Krishna I of the Rashtrakutas",
+        "as": "ৰাষ্ট্ৰকুটৰ কৃষ্ণ প্ৰথম"
+      },
+      {
+        "en": "Kanishka",
+        "as": "কণিষ্ক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Kailasa temple at Ellora is traditionally attributed to the Rashtrakuta king Krishna I.",
+      "as": "ইল্লোৰাৰ কৈলাস মন্দিৰ পৰম্পৰাগতভাৱে ৰাষ্ট্ৰকুট ৰজা কৃষ্ণ প্ৰথমলৈ আৰোপ কৰা হয়।"
+    }
+  }
+]

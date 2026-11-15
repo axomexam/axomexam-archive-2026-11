@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-337",
+    "q": {
+      "en": "The medieval period of Indian history is generally taken to end with which event?",
+      "as": "ভাৰতীয় ইতিহাসৰ মধ্য যুগ সাধাৰণতে কোন ঘটনাৰ সৈতে শেষ হোৱা বুলি ধৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "The death of Ashoka",
+        "as": "অশোকৰ মৃত্যু"
+      },
+      {
+        "en": "The fall of the Gupta empire",
+        "as": "গুপ্ত সাম্ৰাজ্যৰ পতন"
+      },
+      {
+        "en": "The decline of the Mughal empire and the rise of the British",
+        "as": "মোগল সাম্ৰাজ্যৰ পতন আৰু ব্ৰিটিছৰ উত্থান"
+      },
+      {
+        "en": "The invasion of Alexander",
+        "as": "আলেকজেণ্ডাৰৰ আক্ৰমণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The medieval period ends around the mid-eighteenth century with Mughal decline and the rise of British power.",
+      "as": "মধ্য যুগ প্ৰায় অষ্টাদশ শতিকাৰ মাজভাগত মোগল পতন আৰু ব্ৰিটিছ শক্তিৰ উত্থানৰ সৈতে শেষ হয়।"
+    }
+  }
+]

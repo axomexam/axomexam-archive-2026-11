@@ -1,0 +1,32 @@
+[
+  {
+    "id": "medieval-history-350",
+    "q": {
+      "en": "Which medieval Indian textile centre was famous for its muslin?",
+      "as": "কোন মধ্য যুগীয় ভাৰতীয় বস্ত্ৰ কেন্দ্ৰ ইয়াৰ মছলিনৰ বাবে বিখ্যাত আছিল?"
+    },
+    "options": [
+      {
+        "en": "Dhaka",
+        "as": "ঢাকা"
+      },
+      {
+        "en": "Kannauj",
+        "as": "কনৌজ"
+      },
+      {
+        "en": "Bidar",
+        "as": "বিদাৰ"
+      },
+      {
+        "en": "Jaunpur",
+        "as": "জৌনপুৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dhaka in Bengal was famous for its fine muslin, prized across Asia and Europe.",
+      "as": "বংগৰ ঢাকা ইয়াৰ সূক্ষ্ম মছলিনৰ বাবে বিখ্যাত আছিল, এছিয়া আৰু ইউৰোপজুৰি মূল্যৱান।"
+    }
+  }
+]
