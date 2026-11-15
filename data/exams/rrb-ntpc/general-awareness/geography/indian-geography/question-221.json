@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-221",
+    "q": {
+      "en": "The Brihadeeswarar Temple, a UNESCO World Heritage Site, is at:",
+      "as": "বৃহদীশ্বৰ মন্দিৰ, এটা ইউনেস্কো বিশ্ব ঐতিহ্য স্থল, ক'ত?"
+    },
+    "options": [
+      {
+        "en": "Madurai",
+        "as": "মাদুৰাই"
+      },
+      {
+        "en": "Mysuru",
+        "as": "মহীশূৰ"
+      },
+      {
+        "en": "Hampi",
+        "as": "হাম্পি"
+      },
+      {
+        "en": "Thanjavur",
+        "as": "তাঞ্জাৱুৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Brihadeeswarar Temple, built by Raja Raja Chola, is at Thanjavur.",
+      "as": "ৰাজাৰাজ চোলাই নিৰ্মাণ কৰা বৃহদীশ্বৰ মন্দিৰ তাঞ্জাৱুৰত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-128",
+    "q": {
+      "en": "The most important cereal crop of India in terms of area under cultivation is:",
+      "as": "খেতিৰ কালিৰ হিচাপত ভাৰতৰ আটাইতকৈ গুৰুত্বপূৰ্ণ দানাশস্য হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Wheat",
+        "as": "গম"
+      },
+      {
+        "en": "Rice",
+        "as": "ধান"
+      },
+      {
+        "en": "Maize",
+        "as": "মাকৈ"
+      },
+      {
+        "en": "Millet",
+        "as": "বাজৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rice occupies the largest cropped area in India.",
+      "as": "ধানে ভাৰতত আটাইতকৈ বেছি খেতি কালি আগত লয়।"
+    }
+  }
+]

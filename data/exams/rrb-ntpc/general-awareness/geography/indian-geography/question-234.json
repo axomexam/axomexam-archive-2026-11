@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-234",
+    "q": {
+      "en": "The Palani Hills, a popular hill station region, are located in:",
+      "as": "পালানি পাহাৰ, এটা জনপ্ৰিয় পাহাৰীয়া অঞ্চল, ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰপ্ৰদেশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Palani Hills, with Kodaikanal, are in Tamil Nadu.",
+      "as": "কোডাইকানালসহ পালানি পাহাৰ তামিলনাডুত অৱস্থিত।"
+    }
+  }
+]

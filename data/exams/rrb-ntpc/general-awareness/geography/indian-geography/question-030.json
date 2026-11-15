@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-030",
+    "q": {
+      "en": "The narrow coastal plain along the Arabian Sea in India is the:",
+      "as": "ভাৰতত আৰৱ সাগৰৰ কাষৰ সংকীৰ্ণ উপকূলীয় সমভূমিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Eastern Coastal Plain",
+        "as": "পূব উপকূলীয় সমভূমি"
+      },
+      {
+        "en": "Western Coastal Plain",
+        "as": "পশ্চিম উপকূলীয় সমভূমি"
+      },
+      {
+        "en": "Northern Plain",
+        "as": "উত্তৰ সমভূমি"
+      },
+      {
+        "en": "Terai",
+        "as": "তাৰাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Western Coastal Plain is narrow and lies between the Western Ghats and the Arabian Sea.",
+      "as": "পশ্চিম উপকূলীয় সমভূমি সংকীৰ্ণ আৰু পশ্চিম ঘাট আৰু আৰৱ সাগৰৰ মাজত অৱস্থিত।"
+    }
+  }
+]

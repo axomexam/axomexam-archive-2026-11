@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-188",
+    "q": {
+      "en": "The Andaman and Nicobar Islands are located in the:",
+      "as": "আন্দামান আৰু নিকোবৰ দ্বীপপুঞ্জ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Bay of Bengal",
+        "as": "বংগোপসাগৰ"
+      },
+      {
+        "en": "Arabian Sea",
+        "as": "আৰৱ সাগৰ"
+      },
+      {
+        "en": "Indian Ocean only",
+        "as": "কেৱল ভাৰত মহাসাগৰ"
+      },
+      {
+        "en": "Red Sea",
+        "as": "লোহিত সাগৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Andaman and Nicobar Islands lie in the Bay of Bengal.",
+      "as": "আন্দামান আৰু নিকোবৰ দ্বীপপুঞ্জ বংগোপসাগৰত অৱস্থিত।"
+    }
+  }
+]

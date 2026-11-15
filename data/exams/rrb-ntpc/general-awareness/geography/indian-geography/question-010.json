@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-010",
+    "q": {
+      "en": "The Aravalli range is mainly located in the state of:",
+      "as": "আৰৱল্লী শ্ৰেণী মূলতঃ কোন ৰাজ্যত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্যপ্ৰদেশ"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Haryana",
+        "as": "হাৰিয়ানা"
+      },
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Aravalli hills run through Rajasthan, with extensions into nearby states.",
+      "as": "আৰৱল্লী পাহাৰ ৰাজস্থানৰ মাজেৰে যায়, ওচৰৰ ৰাজ্যলৈও বিস্তৃত।"
+    }
+  }
+]

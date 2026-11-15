@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-289",
+    "q": {
+      "en": "The Great Himalayan National Park is located in:",
+      "as": "মহান হিমালয় ৰাষ্ট্ৰীয় উদ্যান ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Uttarakhand",
+        "as": "উত্তৰাখণ্ড"
+      },
+      {
+        "en": "Sikkim",
+        "as": "ছিক্কিম"
+      },
+      {
+        "en": "Himachal Pradesh",
+        "as": "হিমাচল প্ৰদেশ"
+      },
+      {
+        "en": "Arunachal Pradesh",
+        "as": "অৰুণাচল প্ৰদেশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Great Himalayan National Park is a World Heritage Site in Himachal Pradesh.",
+      "as": "মহান হিমালয় ৰাষ্ট্ৰীয় উদ্যান হিমাচল প্ৰদেশত এটা বিশ্ব ঐতিহ্য স্থল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-054",
+    "q": {
+      "en": "The river Godavari originates at:",
+      "as": "গোদাবৰী নদী ক'ত উৎপত্তি হয়?"
+    },
+    "options": [
+      {
+        "en": "Amarkantak",
+        "as": "অমৰকণ্টক"
+      },
+      {
+        "en": "Mahabaleshwar",
+        "as": "মহাবালেশ্বৰ"
+      },
+      {
+        "en": "Talakaveri",
+        "as": "তলকাবেৰী"
+      },
+      {
+        "en": "Trimbakeshwar",
+        "as": "ত্ৰ্যম্বকেশ্বৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Godavari rises at Trimbakeshwar near Nashik in Maharashtra.",
+      "as": "গোদাবৰী মহাৰাষ্ট্ৰৰ নাশিকৰ ওচৰত ত্ৰ্যম্বকেশ্বৰত ওলায়।"
+    }
+  }
+]

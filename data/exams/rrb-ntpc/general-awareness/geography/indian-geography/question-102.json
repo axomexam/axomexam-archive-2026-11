@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-102",
+    "q": {
+      "en": "The national tree of India is the:",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰীয় গছজোপা হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Peepal",
+        "as": "পিপল"
+      },
+      {
+        "en": "Neem",
+        "as": "নিম"
+      },
+      {
+        "en": "Mango",
+        "as": "আম"
+      },
+      {
+        "en": "Banyan",
+        "as": "বট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The banyan (Ficus benghalensis) is the national tree of India.",
+      "as": "বট (ফিকাছ বেংঘালেনছিছ) ভাৰতৰ ৰাষ্ট্ৰীয় গছ।"
+    }
+  }
+]

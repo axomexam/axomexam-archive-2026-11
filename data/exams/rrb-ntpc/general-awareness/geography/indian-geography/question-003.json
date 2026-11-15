@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-003",
+    "q": {
+      "en": "The highest mountain peak in the world, Mount Everest, is located in:",
+      "as": "বিশ্বৰ আটাইতকৈ ওখ পৰ্বত শিখৰ মাউণ্ট এভাৰেষ্ট অৱস্থিত:"
+    },
+    "options": [
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Bhutan",
+        "as": "ভুটান"
+      },
+      {
+        "en": "China only",
+        "as": "কেৱল চীন"
+      },
+      {
+        "en": "Nepal",
+        "as": "নেপাল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Mount Everest lies in Nepal on the border with the Tibet region of China.",
+      "as": "মাউণ্ট এভাৰেষ্ট নেপালত, চীনৰ তিব্বত অঞ্চলৰ সীমাত অৱস্থিত।"
+    }
+  }
+]

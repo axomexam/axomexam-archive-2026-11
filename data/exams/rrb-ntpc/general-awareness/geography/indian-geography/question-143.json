@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-143",
+    "q": {
+      "en": "The largest oil refinery in India is located at:",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ তেল শোধনাগাৰটো ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Digboi",
+        "as": "ডিগবৈ"
+      },
+      {
+        "en": "Mathura",
+        "as": "মথুৰা"
+      },
+      {
+        "en": "Barauni",
+        "as": "বৰাউনী"
+      },
+      {
+        "en": "Jamnagar",
+        "as": "জামনগৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Jamnagar refinery in Gujarat is the largest in India.",
+      "as": "গুজৰাটৰ জামনগৰ শোধনাগাৰ ভাৰতত আটাইতকৈ ডাঙৰ।"
+    }
+  }
+]

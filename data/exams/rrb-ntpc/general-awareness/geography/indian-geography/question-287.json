@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-287",
+    "q": {
+      "en": "The Corbett National Park is located in the state of:",
+      "as": "কৰবেট ৰাষ্ট্ৰীয় উদ্যান কোন ৰাজ্যত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
+      },
+      {
+        "en": "Uttarakhand",
+        "as": "উত্তৰাখণ্ড"
+      },
+      {
+        "en": "Himachal Pradesh",
+        "as": "হিমাচল প্ৰদেশ"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Jim Corbett National Park is in Uttarakhand.",
+      "as": "জিম কৰবেট ৰাষ্ট্ৰীয় উদ্যান উত্তৰাখণ্ডত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-019",
+    "q": {
+      "en": "The Deccan Plateau is mainly composed of:",
+      "as": "দাক্ষিণাত্য মালভূমি মূলতঃ কিয়ৰে গঠিত?"
+    },
+    "options": [
+      {
+        "en": "Sandstone",
+        "as": "বেলেপাথৰ"
+      },
+      {
+        "en": "Limestone",
+        "as": "চূণশিল"
+      },
+      {
+        "en": "Granite only",
+        "as": "কেৱল গ্ৰেনাইট"
+      },
+      {
+        "en": "Basaltic lava",
+        "as": "বেছাল্ট লাভা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Deccan Plateau was formed by volcanic basaltic lava flows.",
+      "as": "দাক্ষিণাত্য মালভূমি আগ্নেয়গিৰিৰ বেছাল্ট লাভাৰ প্ৰবাহেৰে গঠিত।"
+    }
+  }
+]

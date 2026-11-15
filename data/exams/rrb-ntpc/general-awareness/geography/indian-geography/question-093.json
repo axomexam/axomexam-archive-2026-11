@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-093",
+    "q": {
+      "en": "Red soil gets its colour from:",
+      "as": "ৰঙা মাটিয়ে ইয়াৰ ৰং কিয়ৰ পৰা পায়?"
+    },
+    "options": [
+      {
+        "en": "Humus",
+        "as": "হিউমাছ"
+      },
+      {
+        "en": "Lime",
+        "as": "চূণ"
+      },
+      {
+        "en": "Silica",
+        "as": "ছিলিকা"
+      },
+      {
+        "en": "Iron oxide",
+        "as": "আয়ৰন অক্সাইড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Red soil is red because of iron oxide present in it.",
+      "as": "ৰঙা মাটিত থকা আয়ৰন অক্সাইডৰ বাবে ই ৰঙা হয়।"
+    }
+  }
+]

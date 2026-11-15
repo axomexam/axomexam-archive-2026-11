@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-160",
+    "q": {
+      "en": "The headquarters of the Indian Railways is located at:",
+      "as": "ভাৰতীয় ৰে'লৱেৰ মুখ্য কাৰ্যালয় ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Indian Railways headquarters is the Rail Bhavan in New Delhi.",
+      "as": "ভাৰতীয় ৰে'লৱেৰ মুখ্য কাৰ্যালয় নতুন দিল্লীৰ ৰে'ল ভৱন।"
+    }
+  }
+]

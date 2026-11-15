@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-193",
+    "q": {
+      "en": "The Durand Line is the boundary between:",
+      "as": "ডুৰাণ্ড ৰেখা কিয়ৰ মাজৰ সীমা?"
+    },
+    "options": [
+      {
+        "en": "India and Pakistan",
+        "as": "ভাৰত আৰু পাকিস্তান"
+      },
+      {
+        "en": "India and China",
+        "as": "ভাৰত আৰু চীন"
+      },
+      {
+        "en": "Pakistan and Afghanistan",
+        "as": "পাকিস্তান আৰু আফগানিস্তান"
+      },
+      {
+        "en": "India and Nepal",
+        "as": "ভাৰত আৰু নেপাল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Durand Line is the border between Pakistan and Afghanistan.",
+      "as": "ডুৰাণ্ড ৰেখা পাকিস্তান আৰু আফগানিস্তানৰ মাজৰ সীমা।"
+    }
+  }
+]

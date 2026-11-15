@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-112",
+    "q": {
+      "en": "The hot weather season in India lasts from:",
+      "as": "ভাৰতত গৰম বতৰৰ ঋতুটো কিমানৰ পৰা কিমানলৈ থাকে?"
+    },
+    "options": [
+      {
+        "en": "June to September",
+        "as": "জুনৰ পৰা ছেপ্তেম্বৰ"
+      },
+      {
+        "en": "December to February",
+        "as": "ডিচেম্বৰৰ পৰা ফেব্ৰুৱাৰী"
+      },
+      {
+        "en": "October to November",
+        "as": "অক্টোবৰৰ পৰা নৱেম্বৰ"
+      },
+      {
+        "en": "March to May",
+        "as": "মাৰ্চৰ পৰা মে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The hot weather season covers March to May, before the monsoon arrives.",
+      "as": "গৰম বতৰৰ ঋতু মাৰ্চৰ পৰা মেলৈ, মৌচুমী অহাৰ আগতে।"
+    }
+  }
+]

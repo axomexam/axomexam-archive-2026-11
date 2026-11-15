@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-002",
+    "q": {
+      "en": "The highest mountain peak of India is:",
+      "as": "ভাৰতৰ আটাইতকৈ ওখ পৰ্বত শিখৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Kanchenjunga",
+        "as": "কাঞ্চনজঙ্ঘা"
+      },
+      {
+        "en": "Nanda Devi",
+        "as": "নন্দা দেৱী"
+      },
+      {
+        "en": "Mount Everest",
+        "as": "মাউণ্ট এভাৰেষ্ট"
+      },
+      {
+        "en": "Anamudi",
+        "as": "অনামুদি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kanchenjunga, in Sikkim, is the highest peak located within India.",
+      "as": "ছিক্কিমত থকা কাঞ্চনজঙ্ঘা ভাৰতৰ ভিতৰত অৱস্থিত আটাইতকৈ ওখ শিখৰ।"
+    }
+  }
+]

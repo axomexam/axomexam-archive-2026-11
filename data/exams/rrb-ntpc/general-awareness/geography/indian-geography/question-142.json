@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-142",
+    "q": {
+      "en": "The TISCO steel plant, India's first modern steel plant, is located at:",
+      "as": "ভাৰতৰ প্ৰথম আধুনিক ইস্পাত কাৰখানা টিছক' ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Bhilai",
+        "as": "ভিলাই"
+      },
+      {
+        "en": "Bokaro",
+        "as": "বোকাৰো"
+      },
+      {
+        "en": "Durgapur",
+        "as": "দুৰ্গাপুৰ"
+      },
+      {
+        "en": "Jamshedpur",
+        "as": "জামছেদপুৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "TISCO, founded by Jamsetji Tata, is at Jamshedpur in Jharkhand.",
+      "as": "জামছেদজী টাটাই প্ৰতিষ্ঠা কৰা টিছক' ঝাৰখণ্ডৰ জামছেদপুৰত।"
+    }
+  }
+]

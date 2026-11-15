@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-071",
+    "q": {
+      "en": "The river Ghaghara, a tributary of the Ganga, is also known as:",
+      "as": "গংগাৰ উপনদী ঘাঘৰাক আৰু কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Saryu only",
+        "as": "কেৱল সৰযু"
+      },
+      {
+        "en": "Karnali",
+        "as": "কৰ্ণালী"
+      },
+      {
+        "en": "Rapti only",
+        "as": "কেৱল ৰাপ্তী"
+      },
+      {
+        "en": "Gandak",
+        "as": "গণ্ডক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Ghaghara is known as the Karnali in Nepal.",
+      "as": "ঘাঘৰাক নেপালত কৰ্ণালী বোলা হয়।"
+    }
+  }
+]

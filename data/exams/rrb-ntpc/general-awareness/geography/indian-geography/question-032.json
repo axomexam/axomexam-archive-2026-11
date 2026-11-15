@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-032",
+    "q": {
+      "en": "The largest saltwater lake in India is:",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ লৱণ-জলীয় হ্ৰদটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Wular Lake",
+        "as": "ৱুলাৰ হ্ৰদ"
+      },
+      {
+        "en": "Sambhar Lake",
+        "as": "সম্বৰ হ্ৰদ"
+      },
+      {
+        "en": "Pulicat Lake",
+        "as": "পুলিকট হ্ৰদ"
+      },
+      {
+        "en": "Chilika Lake",
+        "as": "চিলিকা হ্ৰদ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Chilika, in Odisha, is the largest brackish-water lagoon in India.",
+      "as": "ওড়িশাৰ চিলিকা ভাৰতৰ আটাইতকৈ ডাঙৰ লৱণ-জলীয় লেগুন।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-053",
+    "q": {
+      "en": "The river Krishna originates near:",
+      "as": "কৃষ্ণা নদী ক'ৰ ওচৰত উৎপত্তি হয়?"
+    },
+    "options": [
+      {
+        "en": "Amarkantak",
+        "as": "অমৰকণ্টক"
+      },
+      {
+        "en": "Nashik",
+        "as": "নাশিক"
+      },
+      {
+        "en": "Talakaveri",
+        "as": "তলকাবেৰী"
+      },
+      {
+        "en": "Mahabaleshwar",
+        "as": "মহাবালেশ্বৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Krishna rises near Mahabaleshwar in the Western Ghats.",
+      "as": "কৃষ্ণা পশ্চিম ঘাটৰ মহাবালেশ্বৰৰ ওচৰত ওলায়।"
+    }
+  }
+]

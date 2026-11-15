@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-259",
+    "q": {
+      "en": "The point where a river meets the sea is called its:",
+      "as": "নদী এখনে সাগৰত লগ লগা বিন্দুটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Source",
+        "as": "উৎস"
+      },
+      {
+        "en": "Mouth",
+        "as": "মুখ"
+      },
+      {
+        "en": "Confluence",
+        "as": "সংগম"
+      },
+      {
+        "en": "Catchment",
+        "as": "অৱবাহিকা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A river's mouth is where it empties into a sea, lake or larger river.",
+      "as": "নদীৰ মুখ হ'ল য'ত ই সাগৰ, হ্ৰদ বা ডাঙৰ নদীত পৰে।"
+    }
+  }
+]

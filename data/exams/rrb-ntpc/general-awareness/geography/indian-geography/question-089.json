@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-089",
+    "q": {
+      "en": "The dry region on the leeward side of a mountain that receives little rain is called a:",
+      "as": "পৰ্বতৰ পিছফালে থকা, কম বৰষুণ পোৱা শুকান অঞ্চলটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Delta",
+        "as": "বদ্বীপ"
+      },
+      {
+        "en": "Estuary",
+        "as": "মোহনা"
+      },
+      {
+        "en": "Plateau",
+        "as": "মালভূমি"
+      },
+      {
+        "en": "Rain shadow area",
+        "as": "বৰষুণ ছাঁ অঞ্চল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The rain shadow area stays dry because the air has already lost its moisture.",
+      "as": "বৰষুণ ছাঁ অঞ্চল শুকান থাকে কাৰণ বতাহে ইতিমধ্যে ইয়াৰ আৰ্দ্ৰতা হেৰুৱাইছে।"
+    }
+  }
+]

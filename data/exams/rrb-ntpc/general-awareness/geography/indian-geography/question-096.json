@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-096",
+    "q": {
+      "en": "The forests found in regions with rainfall over 200 cm are:",
+      "as": "২০০ ছে.মি. তকৈ বেছি বৰষুণৰ অঞ্চলত পোৱা অৰণ্যবোৰ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Tropical deciduous forests",
+        "as": "ক্ৰান্তীয় পৰ্ণপাতী অৰণ্য"
+      },
+      {
+        "en": "Thorn forests",
+        "as": "কাঁইটীয়া অৰণ্য"
+      },
+      {
+        "en": "Mangrove forests",
+        "as": "মেনগ্ৰ'ভ অৰণ্য"
+      },
+      {
+        "en": "Tropical evergreen forests",
+        "as": "ক্ৰান্তীয় চিৰসেউজ অৰণ্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Tropical evergreen forests thrive in areas of very heavy rainfall.",
+      "as": "ক্ৰান্তীয় চিৰসেউজ অৰণ্য অতি বেছি বৰষুণৰ অঞ্চলত ভালদৰে বাঢ়ে।"
+    }
+  }
+]

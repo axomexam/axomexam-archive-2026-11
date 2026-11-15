@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-020",
+    "q": {
+      "en": "The black soil of the Deccan Plateau is also called:",
+      "as": "দাক্ষিণাত্য মালভূমিৰ ক'লা মাটিক আৰু কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Alluvial soil",
+        "as": "পলসুৱা মাটি"
+      },
+      {
+        "en": "Laterite soil",
+        "as": "লেটেৰাইট মাটি"
+      },
+      {
+        "en": "Red soil",
+        "as": "ৰঙা মাটি"
+      },
+      {
+        "en": "Regur soil",
+        "as": "ৰেগুৰ মাটি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Regur, or black cotton soil, is ideal for growing cotton.",
+      "as": "ৰেগুৰ, বা ক'লা কপাহী মাটি, কপাহ খেতিৰ বাবে আদৰ্শ।"
+    }
+  }
+]

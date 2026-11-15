@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-271",
+    "q": {
+      "en": "Which city serves as the capital of India?",
+      "as": "কোন নগৰে ভাৰতৰ ৰাজধানী হিচাপে কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The national capital, New Delhi, is the seat of the Government of India.",
+      "as": "ৰাষ্ট্ৰীয় ৰাজধানী নতুন দিল্লী ভাৰত চৰকাৰৰ আসন।"
+    }
+  }
+]

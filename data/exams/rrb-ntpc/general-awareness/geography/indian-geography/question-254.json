@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-254",
+    "q": {
+      "en": "The Himalayan rivers are mostly:",
+      "as": "হিমালয়ৰ নদীবোৰ মূলতঃ:"
+    },
+    "options": [
+      {
+        "en": "Perennial",
+        "as": "বৰ্ষজীৱী"
+      },
+      {
+        "en": "Seasonal",
+        "as": "ঋতুভিত্তিক"
+      },
+      {
+        "en": "Ephemeral",
+        "as": "ক্ষণস্থায়ী"
+      },
+      {
+        "en": "Underground",
+        "as": "ভূগৰ্ভস্থ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Himalayan rivers are perennial, fed by both rainfall and snowmelt.",
+      "as": "হিমালয়ৰ নদী বৰ্ষজীৱী, বৰষুণ আৰু বৰফ গলা পানী দুয়োৰে পৰা পুষ্ট।"
+    }
+  }
+]

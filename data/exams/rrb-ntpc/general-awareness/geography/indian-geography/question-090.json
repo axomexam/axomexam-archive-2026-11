@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-090",
+    "q": {
+      "en": "The soil that is most suitable for growing cotton is:",
+      "as": "কপাহ খেতিৰ বাবে আটাইতকৈ উপযুক্ত মাটিৰ প্ৰকাৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Laterite soil",
+        "as": "লেটেৰাইট মাটি"
+      },
+      {
+        "en": "Alluvial soil",
+        "as": "পলসুৱা মাটি"
+      },
+      {
+        "en": "Black soil",
+        "as": "ক'লা মাটি"
+      },
+      {
+        "en": "Desert soil",
+        "as": "মৰুভূমি মাটি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Black (regur) soil retains moisture well and is ideal for cotton.",
+      "as": "ক'লা (ৰেগুৰ) মাটিয়ে আৰ্দ্ৰতা ভালদৰে ৰাখে আৰু কপাহৰ বাবে আদৰ্শ।"
+    }
+  }
+]

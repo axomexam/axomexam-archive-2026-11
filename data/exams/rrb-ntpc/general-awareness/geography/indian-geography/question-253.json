@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-253",
+    "q": {
+      "en": "The Ganga plain is an example of a:",
+      "as": "গংগা সমভূমি কিয়ৰ এটা উদাহৰণ?"
+    },
+    "options": [
+      {
+        "en": "Erosional plain",
+        "as": "ক্ষয়ী সমভূমি"
+      },
+      {
+        "en": "Coastal plain",
+        "as": "উপকূলীয় সমভূমি"
+      },
+      {
+        "en": "Depositional plain",
+        "as": "সঞ্চয়ী সমভূমি"
+      },
+      {
+        "en": "Volcanic plain",
+        "as": "আগ্নেয় সমভূমি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ganga plain was formed by the deposition of alluvium by rivers.",
+      "as": "গংগা সমভূমি নদীয়ে পলস জমা কৰি গঠন কৰিছিল।"
+    }
+  }
+]

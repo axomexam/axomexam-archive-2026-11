@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-029",
+    "q": {
+      "en": "The coastal plain along the Bay of Bengal is called the:",
+      "as": "বংগোপসাগৰৰ কাষৰ উপকূলীয় সমভূমিক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Western Coastal Plain",
+        "as": "পশ্চিম উপকূলীয় সমভূমি"
+      },
+      {
+        "en": "Eastern Coastal Plain",
+        "as": "পূব উপকূলীয় সমভূমি"
+      },
+      {
+        "en": "Northern Plain",
+        "as": "উত্তৰ সমভূমি"
+      },
+      {
+        "en": "Deccan Plain",
+        "as": "দাক্ষিণাত্য সমভূমি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Eastern Coastal Plain lies between the Eastern Ghats and the Bay of Bengal.",
+      "as": "পূব উপকূলীয় সমভূমি পূব ঘাট আৰু বংগোপসাগৰৰ মাজত অৱস্থিত।"
+    }
+  }
+]

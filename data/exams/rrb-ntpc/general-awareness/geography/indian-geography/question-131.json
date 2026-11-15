@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-131",
+    "q": {
+      "en": "The mineral of which India has the largest reserves in the world is:",
+      "as": "বিশ্বত ভাৰতৰ আটাইতকৈ বেছি ভাণ্ডাৰ থকা খনিজটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      },
+      {
+        "en": "Petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "Mica",
+        "as": "অভ্ৰক"
+      },
+      {
+        "en": "Silver",
+        "as": "ৰূপ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "India has some of the world's largest deposits of mica.",
+      "as": "ভাৰতত বিশ্বৰ আটাইতকৈ বেছি অভ্ৰক ভাণ্ডাৰৰ কিছু আছে।"
+    }
+  }
+]

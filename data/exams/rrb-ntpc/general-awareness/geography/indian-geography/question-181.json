@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-181",
+    "q": {
+      "en": "The state with the highest literacy rate in India is:",
+      "as": "ভাৰতত আটাইতকৈ বেছি সাক্ষৰতাৰ হাৰ থকা ৰাজ্যখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mizoram",
+        "as": "মিজোৰাম"
+      },
+      {
+        "en": "Goa",
+        "as": "গোৱা"
+      },
+      {
+        "en": "Tripura",
+        "as": "ত্ৰিপুৰা"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Among Indian states, the highest literacy rate is in Kerala.",
+      "as": "ভাৰতীয় ৰাজ্যবোৰৰ ভিতৰত আটাইতকৈ বেছি সাক্ষৰতাৰ হাৰ কেৰালাত।"
+    }
+  }
+]

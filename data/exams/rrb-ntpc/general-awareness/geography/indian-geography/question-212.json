@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-212",
+    "q": {
+      "en": "The Blue City of India is:",
+      "as": "ভাৰতৰ নীলা নগৰীখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Jaipur",
+        "as": "জয়পুৰ"
+      },
+      {
+        "en": "Jodhpur",
+        "as": "যোধপুৰ"
+      },
+      {
+        "en": "Udaipur",
+        "as": "উদয়পুৰ"
+      },
+      {
+        "en": "Bikaner",
+        "as": "বিকানেৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Jodhpur in Rajasthan is known as the Blue City.",
+      "as": "ৰাজস্থানৰ যোধপুৰক নীলা নগৰী বুলি জনা যায়।"
+    }
+  }
+]

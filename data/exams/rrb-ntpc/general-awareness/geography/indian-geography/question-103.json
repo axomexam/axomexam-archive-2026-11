@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-103",
+    "q": {
+      "en": "The national flower of India is the:",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰীয় ফুলটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Rose",
+        "as": "গোলাপ"
+      },
+      {
+        "en": "Sunflower",
+        "as": "সূৰ্যমুখী"
+      },
+      {
+        "en": "Marigold",
+        "as": "গেণ্ডু"
+      },
+      {
+        "en": "Lotus",
+        "as": "পদুম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "India's national flower is the lotus.",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰীয় ফুল হ'ল পদুম।"
+    }
+  }
+]

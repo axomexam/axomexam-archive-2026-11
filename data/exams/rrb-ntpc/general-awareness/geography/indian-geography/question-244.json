@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-244",
+    "q": {
+      "en": "The Palk Strait lies between India and:",
+      "as": "পাল্ক জলডুৱাৰী ভাৰত আৰু কিয়ৰ মাজত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Maldives",
+        "as": "মালদ্বীপ"
+      },
+      {
+        "en": "Myanmar",
+        "as": "ম্যানমাৰ"
+      },
+      {
+        "en": "Bangladesh",
+        "as": "বাংলাদেশ"
+      },
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Palk Strait separates the southeastern coast of India from Sri Lanka.",
+      "as": "পাল্ক জলডুৱাৰীয়ে ভাৰতৰ দক্ষিণ-পূব উপকূলক শ্ৰীলংকাৰ পৰা পৃথক কৰে।"
+    }
+  }
+]

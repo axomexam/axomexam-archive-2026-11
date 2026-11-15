@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-069",
+    "q": {
+      "en": "The river that is a tributary of the Indus and flows through Kashmir Valley is:",
+      "as": "যি নদী সিন্ধুৰ উপনদী আৰু কাশ্মীৰ উপত্যকাৰ মাজেৰে বৈ যায় সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Ravi",
+        "as": "ৰাভী"
+      },
+      {
+        "en": "Beas",
+        "as": "বিয়াস"
+      },
+      {
+        "en": "Jhelum",
+        "as": "ঝেলাম"
+      },
+      {
+        "en": "Sutlej",
+        "as": "সতলুজ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Jhelum flows through the Kashmir Valley and joins the Chenab in Pakistan.",
+      "as": "ঝেলাম কাশ্মীৰ উপত্যকাৰ মাজেৰে বৈ পাকিস্তানত চেনাবত লগ লাগে।"
+    }
+  }
+]

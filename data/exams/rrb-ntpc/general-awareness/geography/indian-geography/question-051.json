@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-051",
+    "q": {
+      "en": "The Ganga and the Yamuna meet at:",
+      "as": "গংগা আৰু যমুনা ক'ত লগ লাগে?"
+    },
+    "options": [
+      {
+        "en": "Prayagraj",
+        "as": "প্ৰয়াগৰাজ"
+      },
+      {
+        "en": "Varanasi",
+        "as": "বাৰাণসী"
+      },
+      {
+        "en": "Haridwar",
+        "as": "হৰিদ্বাৰ"
+      },
+      {
+        "en": "Kanpur",
+        "as": "কানপুৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "They meet at Prayagraj (Allahabad), a site of the Kumbh Mela.",
+      "as": "তেওঁলোক প্ৰয়াগৰাজত (এলাহাবাদ) লগ লাগে, যি কুম্ভ মেলাৰ স্থান।"
+    }
+  }
+]

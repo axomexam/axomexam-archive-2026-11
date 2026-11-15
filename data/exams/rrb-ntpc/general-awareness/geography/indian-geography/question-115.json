@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-115",
+    "q": {
+      "en": "The crop that is the staple food of most Indians is:",
+      "as": "বেছিভাগ ভাৰতীয়ৰ প্ৰধান খাদ্য হোৱা শস্যটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Wheat",
+        "as": "গম"
+      },
+      {
+        "en": "Maize",
+        "as": "মাকৈ"
+      },
+      {
+        "en": "Barley",
+        "as": "যৱ"
+      },
+      {
+        "en": "Rice",
+        "as": "ধান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Rice is the staple food crop for a majority of India's population.",
+      "as": "ধান ভাৰতৰ অধিকাংশ জনসংখ্যাৰ প্ৰধান খাদ্য শস্য।"
+    }
+  }
+]

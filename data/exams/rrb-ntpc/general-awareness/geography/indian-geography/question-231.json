@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-231",
+    "q": {
+      "en": "The Bharatpur Bird Sanctuary, a famous bird sanctuary, is located in:",
+      "as": "ভৰতপুৰ চৰাই অভয়াৰণ্য, এটা বিখ্যাত চৰাই অভয়াৰণ্য, ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Haryana",
+        "as": "হাৰিয়ানা"
+      },
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Bharatpur Bird Sanctuary (Keoladeo) is a World Heritage Site in Rajasthan.",
+      "as": "ভৰতপুৰ চৰাই অভয়াৰণ্য (কেউলাদেও) ৰাজস্থানত এটা বিশ্ব ঐতিহ্য স্থল।"
+    }
+  }
+]

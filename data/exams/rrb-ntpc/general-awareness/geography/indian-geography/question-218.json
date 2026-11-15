@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-218",
+    "q": {
+      "en": "The Elephanta Caves are located near:",
+      "as": "এলিফেণ্টা গুহাবোৰ ক'ৰ ওচৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Goa",
+        "as": "গোৱা"
+      },
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Elephanta Caves are on an island near Mumbai harbour.",
+      "as": "এলিফেণ্টা গুহা মুম্বাই বন্দৰৰ ওচৰৰ এটা দ্বীপত অৱস্থিত।"
+    }
+  }
+]

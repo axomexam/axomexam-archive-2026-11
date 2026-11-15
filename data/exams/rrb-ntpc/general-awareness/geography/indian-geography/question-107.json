@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-107",
+    "q": {
+      "en": "The local name for the hot wind blowing in northern India in summer is:",
+      "as": "গ্ৰীষ্মত উত্তৰ ভাৰতত বৈ যোৱা গৰম বতাহৰ স্থানীয় নামটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Trade wind",
+        "as": "ব্যৱসায়ী বতাহ"
+      },
+      {
+        "en": "Chinook",
+        "as": "চিনুক"
+      },
+      {
+        "en": "Loo",
+        "as": "লু"
+      },
+      {
+        "en": "Fohn",
+        "as": "ফন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Loo is a hot, dry summer wind of the northern plains.",
+      "as": "লু উত্তৰ সমভূমিৰ এটা গৰম, শুকান গ্ৰীষ্মকালীন বতাহ।"
+    }
+  }
+]

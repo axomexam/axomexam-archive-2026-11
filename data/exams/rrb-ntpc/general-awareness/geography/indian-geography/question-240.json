@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-240",
+    "q": {
+      "en": "The Himalayan pass that connects India with China through Sikkim is:",
+      "as": "ছিক্কিমৰ মাজেৰে ভাৰতক চীনৰ সৈতে সংযোগ কৰা হিমালয়ৰ গিৰিপথটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Rohtang Pass",
+        "as": "ৰোটাং পাছ"
+      },
+      {
+        "en": "Nathu La",
+        "as": "নাথু লা"
+      },
+      {
+        "en": "Zoji La",
+        "as": "জোজি লা"
+      },
+      {
+        "en": "Shipki La",
+        "as": "শিপকি লা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Nathu La in Sikkim is an important trade pass between India and China.",
+      "as": "ছিক্কিমৰ নাথু লা ভাৰত আৰু চীনৰ মাজত এটা গুৰুত্বপূৰ্ণ বাণিজ্য গিৰিপথ।"
+    }
+  }
+]

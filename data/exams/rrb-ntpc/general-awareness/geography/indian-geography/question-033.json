@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-033",
+    "q": {
+      "en": "The largest freshwater lake in India is:",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ মিঠা পানীৰ হ্ৰদটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Chilika Lake",
+        "as": "চিলিকা হ্ৰদ"
+      },
+      {
+        "en": "Wular Lake",
+        "as": "ৱুলাৰ হ্ৰদ"
+      },
+      {
+        "en": "Sambhar Lake",
+        "as": "সম্বৰ হ্ৰদ"
+      },
+      {
+        "en": "Dal Lake",
+        "as": "ডাল হ্ৰদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The largest freshwater lake of India, Wular, lies in Jammu and Kashmir.",
+      "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ মিঠা পানীৰ হ্ৰদ ৱুলাৰ জম্মু-কাশ্মীৰত অৱস্থিত।"
+    }
+  }
+]

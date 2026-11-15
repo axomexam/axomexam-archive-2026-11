@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-245",
+    "q": {
+      "en": "The Ten Degree Channel separates:",
+      "as": "দহ ডিগ্ৰী জলডুৱাৰীয়ে কিয়ক পৃথক কৰে?"
+    },
+    "options": [
+      {
+        "en": "India and Sri Lanka",
+        "as": "ভাৰত আৰু শ্ৰীলংকা"
+      },
+      {
+        "en": "India and Maldives",
+        "as": "ভাৰত আৰু মালদ্বীপ"
+      },
+      {
+        "en": "Lakshadweep and Maldives",
+        "as": "লাক্ষাদ্বীপ আৰু মালদ্বীপ"
+      },
+      {
+        "en": "Andaman and Nicobar Islands",
+        "as": "আন্দামান আৰু নিকোবৰ দ্বীপপুঞ্জ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Ten Degree Channel separates the Andaman and Nicobar island groups.",
+      "as": "দহ ডিগ্ৰী জলডুৱাৰীয়ে আন্দামান আৰু নিকোবৰ দ্বীপপুঞ্জক পৃথক কৰে।"
+    }
+  }
+]

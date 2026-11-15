@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-137",
+    "q": {
+      "en": "The Bhilai Steel Plant is located in:",
+      "as": "ভিলাই ইস্পাত কাৰখানা ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      },
+      {
+        "en": "Chhattisgarh",
+        "as": "ছত্তীশগড়"
+      },
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Bhilai Steel Plant is in Chhattisgarh, set up with Soviet help.",
+      "as": "ভিলাই ইস্পাত কাৰখানা ছত্তীশগড়ত, ছোভিয়েট সহায়তাত স্থাপিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-052",
+    "q": {
+      "en": "The river Kaveri is also known as the:",
+      "as": "কাবেৰী নদীক আৰু কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Ganga of Karnataka",
+        "as": "কৰ্ণাটকৰ গংগা"
+      },
+      {
+        "en": "Dakshin Ganga",
+        "as": "দক্ষিণ গংগা"
+      },
+      {
+        "en": "Sorrow of Tamil Nadu",
+        "as": "তামিলনাডুৰ দুখ"
+      },
+      {
+        "en": "Sorrow of Bengal",
+        "as": "বংগৰ দুখ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Kaveri is called Dakshin Ganga for its importance in South India.",
+      "as": "দক্ষিণ ভাৰতত ইয়াৰ গুৰুত্বৰ বাবে কাবেৰীক দক্ষিণ গংগা বোলা হয়।"
+    }
+  }
+]

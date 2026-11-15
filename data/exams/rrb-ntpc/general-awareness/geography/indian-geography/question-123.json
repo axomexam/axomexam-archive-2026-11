@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-123",
+    "q": {
+      "en": "The Green Revolution in India boosted the output of:",
+      "as": "ভাৰতত সেউজ বিপ্লৱে কিয়ৰ উৎপাদন বঢ়াইছিল?"
+    },
+    "options": [
+      {
+        "en": "Milk production",
+        "as": "গাখীৰ উৎপাদন"
+      },
+      {
+        "en": "Fish production",
+        "as": "মাছ উৎপাদন"
+      },
+      {
+        "en": "Foodgrain production",
+        "as": "খাদ্যশস্য উৎপাদন"
+      },
+      {
+        "en": "Oilseed production",
+        "as": "তেলবীজ উৎপাদন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Green Revolution boosted wheat and rice output using high-yielding seeds.",
+      "as": "সেউজ বিপ্লৱে উচ্চ ফলনশীল গুটি ব্যৱহাৰ কৰি গম আৰু ধানৰ উৎপাদন বঢ়াইছিল।"
+    }
+  }
+]

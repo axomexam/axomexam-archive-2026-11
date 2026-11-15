@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-226",
+    "q": {
+      "en": "The Charminar is located in:",
+      "as": "চাৰমিনাৰ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Bengaluru",
+        "as": "বেংগালুৰু"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      },
+      {
+        "en": "Hyderabad",
+        "as": "হায়দৰাবাদ"
+      },
+      {
+        "en": "Mysuru",
+        "as": "মহীশূৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Charminar is a historic monument in Hyderabad, Telangana.",
+      "as": "চাৰমিনাৰ তেলেংগানাৰ হায়দৰাবাদত এটা ঐতিহাসিক স্মৃতিসৌধ।"
+    }
+  }
+]

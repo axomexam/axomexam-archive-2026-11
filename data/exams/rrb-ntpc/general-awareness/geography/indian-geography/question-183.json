@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-183",
+    "q": {
+      "en": "The Indian Standard Time is based on the longitude of:",
+      "as": "ভাৰতীয় প্ৰামাণিক সময় কিয়ৰ দ্ৰাঘিমাংশৰ ওপৰত আধাৰিত?"
+    },
+    "options": [
+      {
+        "en": "82.5° E",
+        "as": "৮২.৫° পূব"
+      },
+      {
+        "en": "90° E",
+        "as": "৯০° পূব"
+      },
+      {
+        "en": "75° E",
+        "as": "৭৫° পূব"
+      },
+      {
+        "en": "68.7° E",
+        "as": "৬৮.৭° পূব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "IST is based on 82.5° E longitude, passing through Mirzapur.",
+      "as": "আই এছ টি ৮২.৫° পূব দ্ৰাঘিমাংশৰ ওপৰত আধাৰিত, যি মিৰ্জাপুৰৰ মাজেৰে যায়।"
+    }
+  }
+]

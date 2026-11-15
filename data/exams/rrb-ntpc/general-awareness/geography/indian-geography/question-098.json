@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-098",
+    "q": {
+      "en": "The tropical thorn forests are found mainly in areas with rainfall:",
+      "as": "ক্ৰান্তীয় কাঁইটীয়া অৰণ্য মূলতঃ কিমান বৰষুণৰ অঞ্চলত পোৱা যায়?"
+    },
+    "options": [
+      {
+        "en": "Above 200 cm",
+        "as": "২০০ ছে.মি. তকৈ বেছি"
+      },
+      {
+        "en": "Less than 70 cm",
+        "as": "৭০ ছে.মি. তকৈ কম"
+      },
+      {
+        "en": "100 to 200 cm",
+        "as": "১০০ ৰ পৰা ২০০ ছে.মি."
+      },
+      {
+        "en": "Above 300 cm",
+        "as": "৩০০ ছে.মি. তকৈ বেছি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Thorn forests grow where rainfall is low, as in Rajasthan and Gujarat.",
+      "as": "কাঁইটীয়া অৰণ্য কম বৰষুণত বাঢ়ে, যেনে ৰাজস্থান আৰু গুজৰাটত।"
+    }
+  }
+]

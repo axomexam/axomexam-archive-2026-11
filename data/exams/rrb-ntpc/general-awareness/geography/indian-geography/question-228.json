@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-228",
+    "q": {
+      "en": "The Mahabodhi Temple, a UNESCO World Heritage Site, is located at:",
+      "as": "মহাবোধি মন্দিৰ, এটা ইউনেস্কো বিশ্ব ঐতিহ্য স্থল, ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Sarnath",
+        "as": "সাৰনাথ"
+      },
+      {
+        "en": "Sanchi",
+        "as": "সাঁচী"
+      },
+      {
+        "en": "Nalanda",
+        "as": "নালন্দা"
+      },
+      {
+        "en": "Bodh Gaya",
+        "as": "বোধগয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Mahabodhi Temple at Bodh Gaya in Bihar marks the Buddha's enlightenment.",
+      "as": "বিহাৰৰ বোধগয়াত মহাবোধি মন্দিৰে বুদ্ধৰ জ্ঞানলাভৰ স্থান চিহ্নিত কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-189",
+    "q": {
+      "en": "Lakshadweep islands are located in the:",
+      "as": "লাক্ষাদ্বীপ দ্বীপপুঞ্জ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Bay of Bengal",
+        "as": "বংগোপসাগৰ"
+      },
+      {
+        "en": "Indian Ocean only",
+        "as": "কেৱল ভাৰত মহাসাগৰ"
+      },
+      {
+        "en": "Persian Gulf",
+        "as": "পাৰ্ছিয়ান উপসাগৰ"
+      },
+      {
+        "en": "Arabian Sea",
+        "as": "আৰৱ সাগৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Lakshadweep is a group of islands in the Arabian Sea.",
+      "as": "লাক্ষাদ্বীপ আৰৱ সাগৰৰ দ্বীপপুঞ্জৰ এটা গোট।"
+    }
+  }
+]

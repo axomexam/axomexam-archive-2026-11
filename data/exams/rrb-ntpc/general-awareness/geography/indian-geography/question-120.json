@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-120",
+    "q": {
+      "en": "Tea cultivation in India is mainly concentrated in:",
+      "as": "ভাৰতত চাহ খেতি মূলতঃ ক'ত কেন্দ্ৰীভূত?"
+    },
+    "options": [
+      {
+        "en": "Punjab and Haryana",
+        "as": "পঞ্জাব আৰু হাৰিয়ানা"
+      },
+      {
+        "en": "Assam and West Bengal",
+        "as": "অসম আৰু পশ্চিম বংগ"
+      },
+      {
+        "en": "Gujarat and Rajasthan",
+        "as": "গুজৰাট আৰু ৰাজস্থান"
+      },
+      {
+        "en": "Kerala and Goa",
+        "as": "কেৰালা আৰু গোৱা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Assam and the Darjeeling region of West Bengal are major tea-growing areas.",
+      "as": "অসম আৰু পশ্চিম বংগৰ দাৰ্জিলিং অঞ্চল প্ৰধান চাহ খেতিৰ অঞ্চল।"
+    }
+  }
+]

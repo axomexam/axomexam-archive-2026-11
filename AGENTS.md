@@ -123,6 +123,41 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+## Session record — Nov 2026 RRB NTPC Indian Geography question bank (290 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a full bilingual Indian Geography bank to the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/geography/indian-geography/`:
+  `question-002.json` … `question-290.json` (289 new files) on top of the
+  existing `question-001.json`, for **290 questions** in the topic. Each file
+  holds one MCQ in the repo's shape — `id`, `q.{en,as}`, four
+  `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **Topic resolution.** The `geography` section has two subcategories
+  (`indian-geography`, `world-geography`), so the SPA fetches questions from the
+  subcategory folder, not the parent. `indian-geography/index.json` now lists
+  all 290 files. The parent `geography/index.json` keeps `files: []` on purpose —
+  it is not used when a section has subcategories.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty and
+  cover relief and mountains, rivers and drainage, climate and monsoon, soils and
+  natural vegetation, agriculture, minerals and energy, industries, transport,
+  population and states, waterfalls, national parks and wildlife, tourist places,
+  passes and straits, latitudes and the boundaries of India. Answer keys are
+  spread evenly over A/B/C/D (74/72/72/72) and the longest run of the same slot
+  is 3, so no answer pattern is exposed.
+  `--book rrb-ntpc --topic general-awareness/geography/indian-geography --check`
+  reports 0 skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive) against all other question text already in
+  `data/`; the 31 colliding items (10 stems + 21 explanations) were reworded so
+  the bank shares no stem or explanation with the existing banks or mock sets.
+- **`data/counts.json` is deliberately unchanged** (the book is still
+  `status: "coming-soon"`), as recorded in the earlier session records.
+- **Verified** by serving the repo locally: the topic `index.json` and every
+  `question-NNN.json` return 200. `node tools/seo-audit.js` still reports no
+  missing H1/desc/canonical/JSON-LD and all duplicate counts at 0. No page, UI,
+  script or CSS file changed.
+
 ## Session record — Nov 2026 RRB NTPC Chemistry question bank (320 MCQs)
 
 What was done, so the next agent does not redo or undo it:

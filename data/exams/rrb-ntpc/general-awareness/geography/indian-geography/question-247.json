@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-247",
+    "q": {
+      "en": "The latitude that divides India almost into two halves is the:",
+      "as": "ভাৰতক প্ৰায় দুটা সমান ভাগত বিভক্ত কৰা অক্ষৰেখাডাল হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Equator",
+        "as": "বিষুৱৰেখা"
+      },
+      {
+        "en": "Tropic of Cancer",
+        "as": "কৰ্কটক্ৰান্তি"
+      },
+      {
+        "en": "Tropic of Capricorn",
+        "as": "মকৰক্ৰান্তি"
+      },
+      {
+        "en": "Arctic Circle",
+        "as": "আৰ্কটিক বৃত্ত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "India is bisected by the Tropic of Cancer at 23.5° N.",
+      "as": "কৰ্কটক্ৰান্তি (২৩.৫° উত্তৰ)য়ে ভাৰতক মাজেৰে বিভক্ত কৰে।"
+    }
+  }
+]

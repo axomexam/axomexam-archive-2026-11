@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-227",
+    "q": {
+      "en": "The Sanchi Stupa is located in:",
+      "as": "সাঁচী স্তূপ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "as": "মধ্য প্ৰদেশ"
+      },
+      {
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
+      },
+      {
+        "en": "Maharashtra",
+        "as": "মহাৰাষ্ট্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Sanchi Stupa, a Buddhist monument, is in Madhya Pradesh.",
+      "as": "সাঁচী স্তূপ, এটা বৌদ্ধ স্মৃতিসৌধ, মধ্য প্ৰদেশত অৱস্থিত।"
+    }
+  }
+]

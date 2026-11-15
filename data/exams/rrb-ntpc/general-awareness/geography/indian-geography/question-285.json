@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-285",
+    "q": {
+      "en": "The Periyar National Park is located in:",
+      "as": "পেৰিয়াৰ ৰাষ্ট্ৰীয় উদ্যান ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Karnataka",
+        "as": "কৰ্ণাটক"
+      },
+      {
+        "en": "Goa",
+        "as": "গোৱা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Periyar National Park and Tiger Reserve is in Kerala.",
+      "as": "পেৰিয়াৰ ৰাষ্ট্ৰীয় উদ্যান আৰু টাইগাৰ ৰিজাৰ্ভ কেৰালাত অৱস্থিত।"
+    }
+  }
+]

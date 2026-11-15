@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-080",
+    "q": {
+      "en": "The southwest monsoon brings rainfall to most parts of India during:",
+      "as": "দক্ষিণ-পশ্চিম মৌচুমীয়ে কিমান সময়ত ভাৰতৰ বেছিভাগ অংশত বৰষুণ আনে?"
+    },
+    "options": [
+      {
+        "en": "December to February",
+        "as": "ডিচেম্বৰৰ পৰা ফেব্ৰুৱাৰী"
+      },
+      {
+        "en": "June to September",
+        "as": "জুনৰ পৰা ছেপ্তেম্বৰ"
+      },
+      {
+        "en": "March to May",
+        "as": "মাৰ্চৰ পৰা মে"
+      },
+      {
+        "en": "October to November",
+        "as": "অক্টোবৰৰ পৰা নৱেম্বৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The southwest monsoon rains arrive in June and continue until September.",
+      "as": "দক্ষিণ-পশ্চিম মৌচুমী বৰষুণ জুনত আৰম্ভ হৈ ছেপ্তেম্বৰলৈকে থাকে।"
+    }
+  }
+]

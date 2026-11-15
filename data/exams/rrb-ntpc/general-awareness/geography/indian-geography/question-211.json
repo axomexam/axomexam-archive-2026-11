@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-211",
+    "q": {
+      "en": "The Pink City of India is:",
+      "as": "ভাৰতৰ গোলাপী নগৰীখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Jodhpur",
+        "as": "যোধপুৰ"
+      },
+      {
+        "en": "Udaipur",
+        "as": "উদয়পুৰ"
+      },
+      {
+        "en": "Jaipur",
+        "as": "জয়পুৰ"
+      },
+      {
+        "en": "Agra",
+        "as": "আগ্ৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jaipur, the capital of Rajasthan, is called the Pink City.",
+      "as": "ৰাজস্থানৰ ৰাজধানী জয়পুৰক গোলাপী নগৰী বোলা হয়।"
+    }
+  }
+]

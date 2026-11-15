@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-087",
+    "q": {
+      "en": "The driest region of India is:",
+      "as": "ভাৰতৰ আটাইতকৈ শুকান অঞ্চলটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Deccan Plateau",
+        "as": "দাক্ষিণাত্য মালভূমি"
+      },
+      {
+        "en": "Ganga Plain",
+        "as": "গংগা সমভূমি"
+      },
+      {
+        "en": "Malabar Coast",
+        "as": "মালাবাৰ উপকূল"
+      },
+      {
+        "en": "Thar Desert of Rajasthan",
+        "as": "ৰাজস্থানৰ থাৰ মৰুভূমি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Western Rajasthan receives very little rainfall, making it the driest region.",
+      "as": "পশ্চিম ৰাজস্থানে অতি কম বৰষুণ পায়, সেয়ে ই আটাইতকৈ শুকান অঞ্চল।"
+    }
+  }
+]

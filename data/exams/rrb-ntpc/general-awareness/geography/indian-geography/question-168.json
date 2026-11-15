@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-168",
+    "q": {
+      "en": "The deepest port of India is:",
+      "as": "ভাৰতৰ আটাইতকৈ গভীৰ বন্দৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলকাতা"
+      },
+      {
+        "en": "Chennai",
+        "as": "চেন্নাই"
+      },
+      {
+        "en": "Marmagao",
+        "as": "মাৰ্মাগাঁও"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Marmagao (Mormugao) in Goa is India's deepest port.",
+      "as": "গোৱাৰ মাৰ্মাগাঁও (মৰমুগাঁও) ভাৰতৰ আটাইতকৈ গভীৰ বন্দৰ।"
+    }
+  }
+]

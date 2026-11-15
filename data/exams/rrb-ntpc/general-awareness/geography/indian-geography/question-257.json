@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-257",
+    "q": {
+      "en": "A stream that joins a larger river is called a:",
+      "as": "যি ধাৰা এডাল ডাঙৰ নদীত লগ লাগে তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Distributary",
+        "as": "শাখা নদী"
+      },
+      {
+        "en": "Estuary",
+        "as": "মোহনা"
+      },
+      {
+        "en": "Delta",
+        "as": "বদ্বীপ"
+      },
+      {
+        "en": "Tributary",
+        "as": "উপনদী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A tributary is a smaller stream that feeds into a larger river.",
+      "as": "উপনদী এটা সৰু ধাৰা যি ডাঙৰ নদীত যোগ দিয়ে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-013",
+    "q": {
+      "en": "The Satpura range runs parallel to the:",
+      "as": "সৎপুৰা শ্ৰেণী কিয়ৰ সমান্তৰালভাৱে বিস্তৃত?"
+    },
+    "options": [
+      {
+        "en": "Aravalli range",
+        "as": "আৰৱল্লী শ্ৰেণী"
+      },
+      {
+        "en": "Vindhya range",
+        "as": "বিন্ধ্য শ্ৰেণী"
+      },
+      {
+        "en": "Himalayas",
+        "as": "হিমালয়"
+      },
+      {
+        "en": "Western Ghats",
+        "as": "পশ্চিম ঘাট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Satpura range lies south of the Vindhyas and runs roughly parallel to them.",
+      "as": "সৎপুৰা শ্ৰেণী বিন্ধ্যৰ দক্ষিণে অৱস্থিত আৰু প্ৰায় ইয়াৰ সমান্তৰালভাৱে যায়।"
+    }
+  }
+]

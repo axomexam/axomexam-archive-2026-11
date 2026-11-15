@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-099",
+    "q": {
+      "en": "The mangrove forests of India are best developed in the:",
+      "as": "ভাৰতৰ মেনগ্ৰ'ভ অৰণ্য ক'ত আটাইতকৈ ভালদৰে বিকশিত?"
+    },
+    "options": [
+      {
+        "en": "Western Ghats",
+        "as": "পশ্চিম ঘাট"
+      },
+      {
+        "en": "Aravalli Hills",
+        "as": "আৰৱল্লী পাহাৰ"
+      },
+      {
+        "en": "Sundarbans",
+        "as": "সুন্দৰবন"
+      },
+      {
+        "en": "Thar Desert",
+        "as": "থাৰ মৰুভূমি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Sundarbans in the Ganga-Brahmaputra delta has the finest mangrove forests.",
+      "as": "গংগা-ব্ৰহ্মপুত্ৰ বদ্বীপৰ সুন্দৰবনত উৎকৃষ্ট মেনগ্ৰ'ভ অৰণ্য আছে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-147",
+    "q": {
+      "en": "The largest hydroelectric power station in India by installed capacity is:",
+      "as": "স্থাপিত ক্ষমতাৰ হিচাপত ভাৰতৰ আটাইতকৈ ডাঙৰ জলবিদ্যুৎ কেন্দ্ৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Bhakra Nangal",
+        "as": "ভাকৰা নাঙ্গল"
+      },
+      {
+        "en": "Tehri",
+        "as": "তেহৰী"
+      },
+      {
+        "en": "Hirakud",
+        "as": "হিৰাকুদ"
+      },
+      {
+        "en": "Nagarjuna Sagar",
+        "as": "নাগাৰ্জুন সাগৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Tehri hydroelectric complex in Uttarakhand has a very high installed capacity.",
+      "as": "উত্তৰাখণ্ডৰ তেহৰী জলবিদ্যুৎ প্ৰকল্পৰ স্থাপিত ক্ষমতা অতি বেছি।"
+    }
+  }
+]

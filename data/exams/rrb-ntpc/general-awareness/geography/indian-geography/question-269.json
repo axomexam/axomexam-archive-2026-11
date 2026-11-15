@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-269",
+    "q": {
+      "en": "The total number of states in India is:",
+      "as": "ভাৰতত মুঠ ৰাজ্যৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "29",
+        "as": "২৯"
+      },
+      {
+        "en": "27",
+        "as": "২৭"
+      },
+      {
+        "en": "30",
+        "as": "৩০"
+      },
+      {
+        "en": "28",
+        "as": "২৮"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Indian Union is made up of 28 states and 8 union territories.",
+      "as": "ভাৰত সংঘ ২৮ খন ৰাজ্য আৰু ৮ টা কেন্দ্ৰীয় শাসিত অঞ্চলেৰে গঠিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-129",
+    "q": {
+      "en": "Sugarcane is a crop that needs:",
+      "as": "কুঁহিয়াৰ এটা শস্য যাৰ প্ৰয়োজন:"
+    },
+    "options": [
+      {
+        "en": "Cold and dry climate",
+        "as": "ঠাণ্ডা আৰু শুকান জলবায়ু"
+      },
+      {
+        "en": "Very low rainfall",
+        "as": "অতি কম বৰষুণ"
+      },
+      {
+        "en": "Hot and humid climate",
+        "as": "গৰম আৰু আৰ্দ্ৰ জলবায়ু"
+      },
+      {
+        "en": "Sandy desert soil",
+        "as": "বালিময় মৰুভূমি মাটি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sugarcane thrives in a hot, humid climate with ample water.",
+      "as": "কুঁহিয়াৰ গৰম, আৰ্দ্ৰ জলবায়ুত প্ৰচুৰ পানীৰ সৈতে ভালদৰে বাঢ়ে।"
+    }
+  }
+]

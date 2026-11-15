@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-059",
+    "q": {
+      "en": "The Sardar Sarovar Dam is built on the river:",
+      "as": "সৰদাৰ সৰোবৰ বান্ধ কিয়ৰ ওপৰত নিৰ্মিত?"
+    },
+    "options": [
+      {
+        "en": "Narmada",
+        "as": "নৰ্মদা"
+      },
+      {
+        "en": "Tapi",
+        "as": "তাপ্তী"
+      },
+      {
+        "en": "Godavari",
+        "as": "গোদাবৰী"
+      },
+      {
+        "en": "Mahanadi",
+        "as": "মহানদী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Sardar Sarovar project is on the Narmada in Gujarat.",
+      "as": "সৰদাৰ সৰোবৰ প্ৰকল্প গুজৰাটত নৰ্মদা নদীৰ ওপৰত।"
+    }
+  }
+]

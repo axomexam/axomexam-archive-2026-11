@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-146",
+    "q": {
+      "en": "Bombay High is famous for:",
+      "as": "বম্বে হাই কিয়ৰ বাবে বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "Offshore petroleum",
+        "as": "উপকূলীয় পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "Coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "Iron ore",
+        "as": "লো আকৰিক"
+      },
+      {
+        "en": "Mica",
+        "as": "অভ্ৰক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bombay High is a major offshore oilfield off the coast of Maharashtra.",
+      "as": "বম্বে হাই মহাৰাষ্ট্ৰ উপকূলৰ এটা প্ৰধান উপকূলীয় তেলক্ষেত্ৰ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-141",
+    "q": {
+      "en": "The iron and steel plant set up with Soviet collaboration in India is at:",
+      "as": "ভাৰতত ছোভিয়েট সহযোগিতাত স্থাপিত লো আৰু ইস্পাত কাৰখানাটো ক'ত?"
+    },
+    "options": [
+      {
+        "en": "Rourkela",
+        "as": "ৰৌৰকেলা"
+      },
+      {
+        "en": "Durgapur",
+        "as": "দুৰ্গাপুৰ"
+      },
+      {
+        "en": "Bhilai",
+        "as": "ভিলাই"
+      },
+      {
+        "en": "Salem",
+        "as": "চালেম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bhilai in Chhattisgarh was established with Soviet collaboration.",
+      "as": "ছত্তীশগড়ৰ ভিলাই ছোভিয়েট সহযোগিতাত প্ৰতিষ্ঠিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-150",
+    "q": {
+      "en": "India's first atomic power station was set up at:",
+      "as": "ভাৰতৰ প্ৰথম পাৰমাণৱিক শক্তি কেন্দ্ৰ ক'ত স্থাপন কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Kalpakkam",
+        "as": "কল্পক্কম"
+      },
+      {
+        "en": "Narora",
+        "as": "নাৰোৰা"
+      },
+      {
+        "en": "Kudankulam",
+        "as": "কুডানকুলাম"
+      },
+      {
+        "en": "Tarapur",
+        "as": "তাৰাপুৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "India's first nuclear power station began operating at Tarapur in Maharashtra.",
+      "as": "ভাৰতৰ প্ৰথম পাৰমাণৱিক শক্তি কেন্দ্ৰ মহাৰাষ্ট্ৰৰ তাৰাপুৰত কাৰ্য আৰম্ভ কৰিছিল।"
+    }
+  }
+]

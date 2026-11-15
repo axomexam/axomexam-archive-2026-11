@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-074",
+    "q": {
+      "en": "The river Kaveri flows through the states of Karnataka and:",
+      "as": "কাবেৰী নদী কৰ্ণাটক আৰু কিয়ৰ মাজেৰে বৈ যায়?"
+    },
+    "options": [
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰপ্ৰদেশ"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Telangana",
+        "as": "তেলেংগানা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Kaveri flows through Karnataka and Tamil Nadu to the Bay of Bengal.",
+      "as": "কাবেৰী কৰ্ণাটক আৰু তামিলনাডুৰ মাজেৰে বৈ বংগোপসাগৰত পৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-280",
+    "q": {
+      "en": "The mangrove forest of Pichavaram is located in:",
+      "as": "পিচাৱৰম মেনগ্ৰ'ভ অৰণ্যখন ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Andhra Pradesh",
+        "as": "অন্ধ্ৰপ্ৰদেশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Pichavaram, one of the world's largest mangrove forests, is in Tamil Nadu.",
+      "as": "পিচাৱৰম, বিশ্বৰ আটাইতকৈ ডাঙৰ মেনগ্ৰ'ভ অৰণ্যবোৰৰ এটা, তামিলনাডুত অৱস্থিত।"
+    }
+  }
+]

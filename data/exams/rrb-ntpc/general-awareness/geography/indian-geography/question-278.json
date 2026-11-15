@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-278",
+    "q": {
+      "en": "The largest freshwater island in the world, Majuli, is located in:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ মিঠা পানীৰ দ্বীপ মাজুলী ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Majuli, in the Brahmaputra in Assam, is the largest river island in the world.",
+      "as": "অসমত ব্ৰহ্মপুত্ৰৰ মাজুলী বিশ্বৰ আটাইতকৈ ডাঙৰ নদী দ্বীপ।"
+    }
+  }
+]

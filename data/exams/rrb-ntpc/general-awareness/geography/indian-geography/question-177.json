@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-177",
+    "q": {
+      "en": "The smallest state of India by area is:",
+      "as": "কালিৰ হিচাপত ভাৰতৰ আটাইতকৈ সৰু ৰাজ্যখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sikkim",
+        "as": "ছিক্কিম"
+      },
+      {
+        "en": "Goa",
+        "as": "গোৱা"
+      },
+      {
+        "en": "Tripura",
+        "as": "ত্ৰিপুৰা"
+      },
+      {
+        "en": "Manipur",
+        "as": "মণিপুৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "By area, the smallest Indian state is Goa.",
+      "as": "কালিৰ হিচাপত ভাৰতৰ আটাইতকৈ সৰু ৰাজ্য হ'ল গোৱা।"
+    }
+  }
+]

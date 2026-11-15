@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-166",
+    "q": {
+      "en": "The port known as the 'Queen of the Arabian Sea' is:",
+      "as": "'আৰৱ সাগৰৰ ৰাণী' নামেৰে জনাজাত বন্দৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mumbai",
+        "as": "মুম্বাই"
+      },
+      {
+        "en": "Mangaluru",
+        "as": "মাংগালুৰু"
+      },
+      {
+        "en": "Kandla",
+        "as": "কাণ্ডলা"
+      },
+      {
+        "en": "Kochi",
+        "as": "কচি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Kochi in Kerala is called the Queen of the Arabian Sea.",
+      "as": "কেৰালাৰ কচিক আৰৱ সাগৰৰ ৰাণী বোলা হয়।"
+    }
+  }
+]

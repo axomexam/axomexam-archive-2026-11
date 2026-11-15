@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-023",
+    "q": {
+      "en": "The Chota Nagpur Plateau lies mainly in the state of:",
+      "as": "ছোট নাগপুৰ মালভূমি মূলতঃ কোন ৰাজ্যত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Chhattisgarh",
+        "as": "ছত্তীশগড়"
+      },
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      },
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The plateau spans Jharkhand and parts of neighbouring states.",
+      "as": "এই মালভূমি ঝাৰখণ্ড আৰু ওচৰৰ ৰাজ্যৰ কিছু অংশত বিস্তৃত।"
+    }
+  }
+]

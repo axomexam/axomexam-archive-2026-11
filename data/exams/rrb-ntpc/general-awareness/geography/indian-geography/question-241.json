@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-241",
+    "q": {
+      "en": "The Rohtang Pass is located in:",
+      "as": "ৰোটাং পাছ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Uttarakhand",
+        "as": "উত্তৰাখণ্ড"
+      },
+      {
+        "en": "Himachal Pradesh",
+        "as": "হিমাচল প্ৰদেশ"
+      },
+      {
+        "en": "Sikkim",
+        "as": "ছিক্কিম"
+      },
+      {
+        "en": "Ladakh",
+        "as": "লাদাখ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Rohtang Pass connects the Kullu valley with Lahaul and Spiti in Himachal Pradesh.",
+      "as": "ৰোটাং পাছে হিমাচল প্ৰদেশত কুল্লু উপত্যকাক লাহুল আৰু স্পিতিৰ সৈতে সংযোগ কৰে।"
+    }
+  }
+]

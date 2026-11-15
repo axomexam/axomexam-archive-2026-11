@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-072",
+    "q": {
+      "en": "The Chambal river is a tributary of the:",
+      "as": "চম্বল নদী কিয়ৰ উপনদী?"
+    },
+    "options": [
+      {
+        "en": "Ganga",
+        "as": "গংগা"
+      },
+      {
+        "en": "Narmada",
+        "as": "নৰ্মদা"
+      },
+      {
+        "en": "Son",
+        "as": "চোন"
+      },
+      {
+        "en": "Yamuna",
+        "as": "যমুনা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Chambal, famous for its ravines, is a tributary of the Yamuna.",
+      "as": "চম্বল, ইয়াৰ খাৱৈৰ বাবে বিখ্যাত, যমুনাৰ এটা উপনদী।"
+    }
+  }
+]

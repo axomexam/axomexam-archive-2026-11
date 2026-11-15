@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-152",
+    "q": {
+      "en": "Ahmedabad is often called the:",
+      "as": "আহমেদাবাদক প্ৰায়ে কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Silicon Valley of India",
+        "as": "ভাৰতৰ ছিলিকন ভেলী"
+      },
+      {
+        "en": "Pittsburgh of India",
+        "as": "ভাৰতৰ পিটচবাৰ্গ"
+      },
+      {
+        "en": "Detroit of India",
+        "as": "ভাৰতৰ ডেট্ৰয়েট"
+      },
+      {
+        "en": "Manchester of India",
+        "as": "ভাৰতৰ ম্যানচেষ্টাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ahmedabad is called the Manchester of India for its cotton textile industry.",
+      "as": "কপাহী বস্ত্ৰ উদ্যোগৰ বাবে আহমেদাবাদক ভাৰতৰ ম্যানচেষ্টাৰ বোলা হয়।"
+    }
+  }
+]

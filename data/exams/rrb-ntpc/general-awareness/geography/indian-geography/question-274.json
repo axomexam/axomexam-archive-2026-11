@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-274",
+    "q": {
+      "en": "The state known as the 'Land of Five Rivers' is:",
+      "as": "'পাঁচ নদীৰ দেশ' নামেৰে জনাজাত ৰাজ্যখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Haryana",
+        "as": "হাৰিয়ানা"
+      },
+      {
+        "en": "Uttar Pradesh",
+        "as": "উত্তৰ প্ৰদেশ"
+      },
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাব"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Punjab means the land of five rivers.",
+      "as": "পঞ্জাব মানে পাঁচ নদীৰ দেশ।"
+    }
+  }
+]

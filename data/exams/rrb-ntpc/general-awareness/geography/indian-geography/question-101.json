@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-101",
+    "q": {
+      "en": "The tree known as the 'flame of the forest' is:",
+      "as": "'অৰণ্যৰ শিখা' নামেৰে জনাজাত গছজোপা হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Teak",
+        "as": "চেগুন"
+      },
+      {
+        "en": "Palash",
+        "as": "পলাশ"
+      },
+      {
+        "en": "Sal",
+        "as": "শাল"
+      },
+      {
+        "en": "Banyan",
+        "as": "বট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The palash tree bears bright orange-red flowers, hence the name.",
+      "as": "পলাশ গছত উজ্জ্বল কমলা-ৰঙা ফুল ফুলে, সেয়ে এই নাম।"
+    }
+  }
+]

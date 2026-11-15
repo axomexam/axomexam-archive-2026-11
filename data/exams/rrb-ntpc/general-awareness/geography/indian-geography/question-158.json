@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-158",
+    "q": {
+      "en": "The longest railway platform in India is at:",
+      "as": "ভাৰতৰ আটাইতকৈ দীঘল ৰে'ল প্লেটফৰ্মটো ক'ত?"
+    },
+    "options": [
+      {
+        "en": "Kharagpur",
+        "as": "খৰগপুৰ"
+      },
+      {
+        "en": "Kanpur",
+        "as": "কানপুৰ"
+      },
+      {
+        "en": "Hubballi",
+        "as": "হুব্বাল্লী"
+      },
+      {
+        "en": "Gorakhpur",
+        "as": "গোৰখপুৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The railway platform at Hubballi in Karnataka is among the longest in the world.",
+      "as": "কৰ্ণাটকৰ হুব্বাল্লীৰ ৰে'ল প্লেটফৰ্ম বিশ্বৰ আটাইতকৈ দীঘলবোৰৰ এটা।"
+    }
+  }
+]

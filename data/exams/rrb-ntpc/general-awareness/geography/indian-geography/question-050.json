@@ -1,0 +1,32 @@
+[
+  {
+    "id": "indian-geography-050",
+    "q": {
+      "en": "The river Yamuna originates from the:",
+      "as": "যমুনা নদী কিয়ৰ পৰা উৎপত্তি হয়?"
+    },
+    "options": [
+      {
+        "en": "Gangotri Glacier",
+        "as": "গংগোত্ৰী হিমবাহ"
+      },
+      {
+        "en": "Siachen Glacier",
+        "as": "ছিয়াচেন হিমবাহ"
+      },
+      {
+        "en": "Milam Glacier",
+        "as": "মিলাম হিমবাহ"
+      },
+      {
+        "en": "Yamunotri Glacier",
+        "as": "যমুনোত্ৰী হিমবাহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Yamuna rises from the Yamunotri Glacier in Uttarakhand.",
+      "as": "যমুনা উত্তৰাখণ্ডৰ যমুনোত্ৰী হিমবাহৰ পৰা ওলায়।"
+    }
+  }
+]
