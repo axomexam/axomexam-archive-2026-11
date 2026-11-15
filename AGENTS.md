@@ -612,6 +612,22 @@ What was done, so the next agent does not redo or undo it:
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
 
+**Follow-up (Nov 2026) — fuzzy dedup pass.** The "no duplicated content" claim
+above held only for exact matches. A later fuzzy check
+(`difflib.SequenceMatcher`, ratio >= 0.90, English and Assamese, case- and
+punctuation-folded) found 13 near-duplicate stems against other `data/` banks
+and inside this bank: 8 cross-bank hits (e.g. "which of the four Vedas is the
+oldest" against `adre-grade-4/social-studies/indian-history`, "which river is
+most mentioned in the Rigveda" against `adre-grade-3/.../indian-history-ancient`
+and `adre-grade-4`, "which foreign dynasty ruled north-west India after the
+Mauryas", "last great Gupta ruler", "Mehrauli iron pillar", "Brihadeshwara
+temple") plus 5 pairs of templated parallel stems inside the bank (Vinaya/
+Abhidhamma Pitaka, women/Rajan in the Early Vedic period, Brahman/Atman,
+Bimbisara items). Those 13 items were reworded in place — the correct option
+and its meaning were never changed, only the wording — and the topic now
+reports **0** near-duplicates. Answer keys stayed balanced at 91/90/90/89.
+When adding to this bank, re-run a fuzzy check, not just an exact one.
+
 ## Session record — Nov 2026 RRB NTPC Appointments & Obituaries question bank (161 MCQs)
 
 What was done, so the next agent does not redo or undo it:
