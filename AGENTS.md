@@ -1093,8 +1093,9 @@ and the two tool files. If you touch the shared lib, verify other books with
    topic into `question-001.json`, deletes the redundant files and rewrites
    `index.json`'s `files` array. Question order is preserved, so the rendered
    pages are unchanged (verified byte-identical against the 23 previous
-   multi-file topics). Result: 24 topics merged, 6,328 files removed, 6,396
-   questions kept.
+   multi-file topics). Result: 23 RRB topics merged, 6,328 files removed, 6,351
+   questions kept (assam-police was deliberately left on its original layout,
+   since it was not affected by the load issue).
 2. `js/api.src.js` now prefers the folder's `index.json` manifest (one
    same-origin request). The GitHub Contents API stays as the fallback, and is
    still used first when `CONFIG.USE_REMOTE` is on.
