@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-032",
+    "q": {
+      "en": "The Earth completes one revolution around the Sun in about:",
+      "as": "পৃথিৱীয়ে সূৰ্যৰ চাৰিওফালে এটা পৰিভ্ৰমণ সম্পূৰ্ণ কৰিবলৈ প্ৰায় কিমান সময় লাগে?"
+    },
+    "options": [
+      {
+        "en": "360 days",
+        "as": "৩৬০ দিন"
+      },
+      {
+        "en": "365¼ days",
+        "as": "৩৬৫¼ দিন"
+      },
+      {
+        "en": "300 days",
+        "as": "৩০০ দিন"
+      },
+      {
+        "en": "24 hours",
+        "as": "২৪ ঘণ্টা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "One revolution takes about 365¼ days, the length of a year.",
+      "as": "এটা পৰিভ্ৰমণত প্ৰায় ৩৬৫¼ দিন লাগে, যি এটা বছৰৰ দৈৰ্ঘ্য।"
+    }
+  }
+]

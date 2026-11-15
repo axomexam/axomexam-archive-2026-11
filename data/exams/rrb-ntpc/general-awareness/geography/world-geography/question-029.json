@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-029",
+    "q": {
+      "en": "A celestial body with a bright tail, made of ice, dust and gas, is called a:",
+      "as": "বৰফ, ধূলি আৰু গেছেৰে গঠিত, উজ্জ্বল নেজ থকা মহাকাশীয় বস্তুটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Meteor",
+        "as": "উল্কা"
+      },
+      {
+        "en": "Comet",
+        "as": "ধূমকেতু"
+      },
+      {
+        "en": "Asteroid",
+        "as": "গ্ৰহাণু"
+      },
+      {
+        "en": "Nebula",
+        "as": "নীহাৰিকা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A comet develops a glowing tail as it approaches the Sun.",
+      "as": "ধূমকেতুৱে সূৰ্যৰ ওচৰ চাপিলে এটা জিলিকি থকা নেজ গঠন কৰে।"
+    }
+  }
+]

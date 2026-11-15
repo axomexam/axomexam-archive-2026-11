@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-245",
+    "q": {
+      "en": "The capital of Peru is:",
+      "as": "পেৰুৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lima",
+        "as": "লিমা"
+      },
+      {
+        "en": "Cusco",
+        "as": "কুস্ক'"
+      },
+      {
+        "en": "Arequipa",
+        "as": "আৰেকুইপা"
+      },
+      {
+        "en": "Quito",
+        "as": "কিট'"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lima is the capital of Peru.",
+      "as": "লিমা পেৰুৰ ৰাজধানী।"
+    }
+  }
+]

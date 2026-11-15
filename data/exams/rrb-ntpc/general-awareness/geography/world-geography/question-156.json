@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-156",
+    "q": {
+      "en": "In the northern hemisphere, cyclone winds blow in which direction?",
+      "as": "উত্তৰ গোলাৰ্ধত ঘূৰ্ণীবতাহৰ বতাহে কোন দিশত বৈ যায়?"
+    },
+    "options": [
+      {
+        "en": "Clockwise",
+        "as": "ঘড়ীৰ কাঁটাৰ দিশত"
+      },
+      {
+        "en": "Straight",
+        "as": "পোনে পোনে"
+      },
+      {
+        "en": "Northwards only",
+        "as": "কেৱল উত্তৰলৈ"
+      },
+      {
+        "en": "Anticlockwise",
+        "as": "ঘড়ীৰ কাঁটাৰ বিপৰীতে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Cyclones rotate anticlockwise in the northern hemisphere.",
+      "as": "উত্তৰ গোলাৰ্ধত ঘূৰ্ণীবতাহ ঘড়ীৰ কাঁটাৰ বিপৰীত দিশত ঘূৰে।"
+    }
+  }
+]

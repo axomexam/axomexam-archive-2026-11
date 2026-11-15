@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-181",
+    "q": {
+      "en": "The largest producer of tea in the world is:",
+      "as": "বিশ্বৰ চাহৰ আটাইতকৈ ডাঙৰ উৎপাদক হ'ল:"
+    },
+    "options": [
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Kenya",
+        "as": "কেনিয়া"
+      },
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "China is the largest tea producer in the world.",
+      "as": "চীন বিশ্বৰ আটাইতকৈ ডাঙৰ চাহ উৎপাদক।"
+    }
+  }
+]

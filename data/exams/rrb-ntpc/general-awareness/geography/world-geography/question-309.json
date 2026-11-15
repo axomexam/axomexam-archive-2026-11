@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-309",
+    "q": {
+      "en": "The saltiest large water body in the world is the:",
+      "as": "বিশ্বৰ আটাইতকৈ নিমখীয়া ডাঙৰ জলাশয়টো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Red Sea",
+        "as": "লোহিত সাগৰ"
+      },
+      {
+        "en": "Dead Sea",
+        "as": "মৃত সাগৰ"
+      },
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      },
+      {
+        "en": "Baltic Sea",
+        "as": "বাল্টিক সাগৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Dead Sea has an extremely high salt content.",
+      "as": "মৃত সাগৰত অতি উচ্চ নিমখৰ পৰিমাণ আছে।"
+    }
+  }
+]

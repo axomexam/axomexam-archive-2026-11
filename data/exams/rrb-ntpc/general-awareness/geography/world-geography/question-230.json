@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-230",
+    "q": {
+      "en": "Name the capital of the United Kingdom:",
+      "as": "যুক্তৰাজ্যৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Manchester",
+        "as": "ম্যানচেষ্টাৰ"
+      },
+      {
+        "en": "Edinburgh",
+        "as": "এডিনবৰা"
+      },
+      {
+        "en": "London",
+        "as": "লণ্ডন"
+      },
+      {
+        "en": "Birmingham",
+        "as": "বাৰ্মিংহাম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "London serves as the capital of the United Kingdom.",
+      "as": "লণ্ডন যুক্তৰাজ্যৰ ৰাজধানী।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-144",
+    "q": {
+      "en": "The instrument used to measure wind speed is a:",
+      "as": "বতাহৰ গতি জোখা যন্ত্ৰটো হ'ল এটা:"
+    },
+    "options": [
+      {
+        "en": "Anemometer",
+        "as": "এনিম'মিটাৰ"
+      },
+      {
+        "en": "Barometer",
+        "as": "বেৰ'মিটাৰ"
+      },
+      {
+        "en": "Hygrometer",
+        "as": "হাইগ্ৰ'মিটাৰ"
+      },
+      {
+        "en": "Rain gauge",
+        "as": "বৰষুণ জোখা যন্ত্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An anemometer measures wind speed.",
+      "as": "এনিম'মিটাৰে বতাহৰ গতি জোখে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-141",
+    "q": {
+      "en": "The percentage of oxygen in the Earth's atmosphere is about:",
+      "as": "পৃথিৱীৰ বায়ুমণ্ডলত অক্সিজেনৰ শতাংশ প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "78%",
+        "as": "৭৮%"
+      },
+      {
+        "en": "1%",
+        "as": "১%"
+      },
+      {
+        "en": "50%",
+        "as": "৫০%"
+      },
+      {
+        "en": "21%",
+        "as": "২১%"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Oxygen forms roughly 21% of the atmosphere by volume.",
+      "as": "আয়তনৰ হিচাপত অক্সিজেন বায়ুমণ্ডলৰ প্ৰায় ২১%।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-064",
+    "q": {
+      "en": "The largest freshwater lake in the world by area is:",
+      "as": "কালিৰ হিচাপত বিশ্বৰ আটাইতকৈ ডাঙৰ মিঠা পানীৰ হ্ৰদটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্ট'ৰিয়া হ্ৰদ"
+      },
+      {
+        "en": "Lake Baikal",
+        "as": "বৈকাল হ্ৰদ"
+      },
+      {
+        "en": "Lake Superior",
+        "as": "ছুপেৰিয়ৰ হ্ৰদ"
+      },
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Lake Superior is the largest freshwater lake by surface area.",
+      "as": "পৃষ্ঠ কালিৰ হিচাপত ছুপেৰিয়ৰ হ্ৰদ আটাইতকৈ ডাঙৰ মিঠা পানীৰ হ্ৰদ।"
+    }
+  }
+]

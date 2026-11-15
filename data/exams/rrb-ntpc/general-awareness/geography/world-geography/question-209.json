@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-209",
+    "q": {
+      "en": "The Downs grasslands, famous for sheep rearing, are located in:",
+      "as": "মেৰ পোৱালি পালনৰ বাবে বিখ্যাত ডাউনছ তৃণভূমি ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "New Zealand",
+        "as": "নিউজিলেণ্ড"
+      },
+      {
+        "en": "Argentina",
+        "as": "আৰ্জেণ্টিনা"
+      },
+      {
+        "en": "South Africa",
+        "as": "দক্ষিণ আফ্ৰিকা"
+      },
+      {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Downs in Australia are known for sheep and wool.",
+      "as": "অষ্ট্ৰেলিয়াৰ ডাউনছ মেৰ আৰু ঊণৰ বাবে জনাজাত।"
+    }
+  }
+]

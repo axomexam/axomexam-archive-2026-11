@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-275",
+    "q": {
+      "en": "The currency of the United Kingdom is the:",
+      "as": "যুক্তৰাজ্যৰ মুদ্ৰা হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Dollar",
+        "as": "ডলাৰ"
+      },
+      {
+        "en": "Euro",
+        "as": "ইউৰ'"
+      },
+      {
+        "en": "Pound sterling",
+        "as": "পাউণ্ড ষ্টাৰলিং"
+      },
+      {
+        "en": "Franc",
+        "as": "ফ্ৰাংক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The British currency is the pound sterling.",
+      "as": "ব্ৰিটিছ মুদ্ৰা পাউণ্ড ষ্টাৰলিং।"
+    }
+  }
+]

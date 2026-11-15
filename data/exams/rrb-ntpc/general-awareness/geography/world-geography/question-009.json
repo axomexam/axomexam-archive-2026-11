@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-009",
+    "q": {
+      "en": "The distance travelled by light in one year is called a:",
+      "as": "পোহৰে এবছৰত অতিক্ৰম কৰা দূৰত্বক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Parsec",
+        "as": "পাৰচেক"
+      },
+      {
+        "en": "Astronomical unit",
+        "as": "জ্যোতিৰ্বৈজ্ঞানিক একক"
+      },
+      {
+        "en": "Light year",
+        "as": "আলোকবৰ্ষ"
+      },
+      {
+        "en": "Nanometre",
+        "as": "নেন'মিটাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A light year is the distance light travels in one year, about 9.46 trillion km.",
+      "as": "আলোকবৰ্ষ হ'ল পোহৰে এবছৰত অতিক্ৰম কৰা দূৰত্ব, প্ৰায় ৯.৪৬ ট্ৰিলিয়ন কি.মি.।"
+    }
+  }
+]

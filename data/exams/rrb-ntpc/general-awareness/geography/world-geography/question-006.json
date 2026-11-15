@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-006",
+    "q": {
+      "en": "The galaxy in which our solar system is located is called the:",
+      "as": "আমাৰ সৌৰজগত অৱস্থিত তাৰকাপুঞ্জটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Andromeda",
+        "as": "এণ্ড্ৰ'মিডা"
+      },
+      {
+        "en": "Milky Way",
+        "as": "আকাশগংগা"
+      },
+      {
+        "en": "Whirlpool",
+        "as": "হুইৰলপুল"
+      },
+      {
+        "en": "Sombrero",
+        "as": "ছ'ম্ব্ৰেৰ'"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Our solar system lies in the Milky Way galaxy.",
+      "as": "আমাৰ সৌৰজগত আকাশগংগা তাৰকাপুঞ্জত অৱস্থিত।"
+    }
+  }
+]

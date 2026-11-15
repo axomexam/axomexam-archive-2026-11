@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-094",
+    "q": {
+      "en": "The biggest country in Africa by area is:",
+      "as": "কালিৰ হিচাপত আফ্ৰিকাৰ আটাইতকৈ ডাঙৰ দেশখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Egypt",
+        "as": "ইজিপ্ত"
+      },
+      {
+        "en": "Algeria",
+        "as": "আলজেৰিয়া"
+      },
+      {
+        "en": "Nigeria",
+        "as": "নাইজেৰিয়া"
+      },
+      {
+        "en": "Sudan",
+        "as": "ছুদান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "By area, Algeria is the biggest country in Africa.",
+      "as": "কালিৰ হিচাপত আলজেৰিয়া আফ্ৰিকাৰ আটাইতকৈ ডাঙৰ দেশ।"
+    }
+  }
+]

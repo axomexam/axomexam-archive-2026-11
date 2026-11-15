@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-314",
+    "q": {
+      "en": "A line on a map joining places of equal rainfall is an:",
+      "as": "মানচিত্ৰত সমান বৰষুণৰ ঠাইবোৰ সংযোগ কৰা ৰেখাডাল হ'ল এটা:"
+    },
+    "options": [
+      {
+        "en": "Isobar",
+        "as": "সমচাপ ৰেখা"
+      },
+      {
+        "en": "Isotherm",
+        "as": "সমোষ্ণ ৰেখা"
+      },
+      {
+        "en": "Isohyet",
+        "as": "সমবৰ্ষণ ৰেখা"
+      },
+      {
+        "en": "Contour",
+        "as": "সমোচ্চ ৰেখা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Isohyets join places receiving equal rainfall.",
+      "as": "সমবৰ্ষণ ৰেখাই সমান বৰষুণ পোৱা ঠাইবোৰ সংযোগ কৰে।"
+    }
+  }
+]

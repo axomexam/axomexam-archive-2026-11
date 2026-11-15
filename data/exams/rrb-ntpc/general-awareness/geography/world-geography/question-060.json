@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-060",
+    "q": {
+      "en": "The highest plateau in the world is the:",
+      "as": "বিশ্বৰ আটাইতকৈ ওখ মালভূমিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Deccan Plateau",
+        "as": "দাক্ষিণাত্য মালভূমি"
+      },
+      {
+        "en": "Brazilian Plateau",
+        "as": "ব্ৰাজিলীয় মালভূমি"
+      },
+      {
+        "en": "Tibetan Plateau",
+        "as": "তিব্বত মালভূমি"
+      },
+      {
+        "en": "Colorado Plateau",
+        "as": "কলোৰাড' মালভূমি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Tibetan Plateau, called the Roof of the World, is the highest plateau.",
+      "as": "তিব্বত মালভূমি, যাক পৃথিৱীৰ চাল বোলা হয়, আটাইতকৈ ওখ মালভূমি।"
+    }
+  }
+]

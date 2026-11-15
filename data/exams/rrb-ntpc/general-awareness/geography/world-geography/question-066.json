@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-066",
+    "q": {
+      "en": "The biggest lake on Earth, commonly called a sea, is the:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ হ্ৰদ, যাক প্ৰায়ে সাগৰ বোলা হয়, সেয়া হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lake Superior",
+        "as": "ছুপেৰিয়ৰ হ্ৰদ"
+      },
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্ট'ৰিয়া হ্ৰদ"
+      },
+      {
+        "en": "Aral Sea",
+        "as": "আৰাল সাগৰ"
+      },
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Caspian Sea is the biggest inland water body on Earth.",
+      "as": "কেছপিয়ান সাগৰ বিশ্বৰ আটাইতকৈ ডাঙৰ অন্তৰ্দেশীয় জলাশয়।"
+    }
+  }
+]

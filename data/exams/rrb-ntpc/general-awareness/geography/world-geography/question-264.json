@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-264",
+    "q": {
+      "en": "The capital city of Mexico is:",
+      "as": "মেক্সিক'ৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Guadalajara",
+        "as": "গুৱাডালাজাৰা"
+      },
+      {
+        "en": "Mexico City",
+        "as": "মেক্সিক' চিটি"
+      },
+      {
+        "en": "Monterrey",
+        "as": "মণ্টেৰে"
+      },
+      {
+        "en": "Cancun",
+        "as": "কানকুন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mexico City has Mexico as its capital.",
+      "as": "মেক্সিক' চিটি মেক্সিক'ৰ ৰাজধানী।"
+    }
+  }
+]

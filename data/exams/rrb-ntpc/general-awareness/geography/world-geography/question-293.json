@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-293",
+    "q": {
+      "en": "A piece of land surrounded by water on three sides is called a:",
+      "as": "তিনিফালে পানীৰে আগুৰা মাটিৰ টুকুৰাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Island",
+        "as": "দ্বীপ"
+      },
+      {
+        "en": "Isthmus",
+        "as": "সংকীৰ্ণস্থলী"
+      },
+      {
+        "en": "Gulf",
+        "as": "খালী"
+      },
+      {
+        "en": "Peninsula",
+        "as": "উপদ্বীপ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A peninsula is land surrounded by water on three sides.",
+      "as": "উপদ্বীপ তিনিফালে পানীৰে আগুৰা মাটি।"
+    }
+  }
+]

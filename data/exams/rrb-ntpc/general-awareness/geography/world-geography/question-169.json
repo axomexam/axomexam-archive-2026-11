@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-169",
+    "q": {
+      "en": "The wind that blows from the southwest towards India during summer is the:",
+      "as": "গ্ৰীষ্মত দক্ষিণ-পশ্চিমৰ পৰা ভাৰতলৈ বৈ যোৱা বতাহটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Northeast monsoon",
+        "as": "উত্তৰ-পূব মৌচুমী"
+      },
+      {
+        "en": "Trade wind",
+        "as": "ব্যৱসায়ী বতাহ"
+      },
+      {
+        "en": "Southwest monsoon",
+        "as": "দক্ষিণ-পশ্চিম মৌচুমী"
+      },
+      {
+        "en": "Westerlies",
+        "as": "পশ্চিমীয়া বতাহ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The southwest monsoon brings the main rainy season to India.",
+      "as": "দক্ষিণ-পশ্চিম মৌচুমীয়ে ভাৰতলৈ প্ৰধান বৰষুণৰ ঋতু আনে।"
+    }
+  }
+]

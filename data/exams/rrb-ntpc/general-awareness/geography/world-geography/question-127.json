@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-127",
+    "q": {
+      "en": "The largest island of Indonesia is:",
+      "as": "ইন্দোনেছিয়াৰ আটাইতকৈ ডাঙৰ দ্বীপটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sumatra",
+        "as": "ছুমাত্ৰা"
+      },
+      {
+        "en": "Java",
+        "as": "জাভা"
+      },
+      {
+        "en": "Borneo",
+        "as": "বৰ্ণিঅ'"
+      },
+      {
+        "en": "Sulawesi",
+        "as": "চুলাৱেচি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Borneo, shared with Malaysia and Brunei, is the largest island of Indonesia.",
+      "as": "মালয়েছিয়া আৰু ব্ৰুনাইৰ সৈতে ভাগ কৰা বৰ্ণিঅ' ইন্দোনেছিয়াৰ আটাইতকৈ ডাঙৰ দ্বীপ।"
+    }
+  }
+]

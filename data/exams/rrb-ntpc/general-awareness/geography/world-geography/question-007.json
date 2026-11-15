@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-007",
+    "q": {
+      "en": "The nearest star to the Earth is:",
+      "as": "পৃথিৱীৰ আটাইতকৈ ওচৰৰ তৰাটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Proxima Centauri",
+        "as": "প্ৰক্সিমা চেণ্টৰি"
+      },
+      {
+        "en": "The Sun",
+        "as": "সূৰ্য"
+      },
+      {
+        "en": "Sirius",
+        "as": "লুব্ধক"
+      },
+      {
+        "en": "Alpha Centauri",
+        "as": "আলফা চেণ্টৰি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Sun is the star nearest to the Earth.",
+      "as": "সূৰ্য পৃথিৱীৰ আটাইতকৈ ওচৰৰ তৰা।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-038",
+    "q": {
+      "en": "The Tropic of Capricorn is located at a latitude of about:",
+      "as": "মকৰক্ৰান্তি প্ৰায় কিমান অক্ষাংশত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "23.5° N",
+        "as": "২৩.৫° উত্তৰ"
+      },
+      {
+        "en": "66.5° S",
+        "as": "৬৬.৫° দক্ষিণ"
+      },
+      {
+        "en": "0°",
+        "as": "০°"
+      },
+      {
+        "en": "23.5° S",
+        "as": "২৩.৫° দক্ষিণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Tropic of Capricorn lies at about 23.5° S.",
+      "as": "মকৰক্ৰান্তি প্ৰায় ২৩.৫° দক্ষিণত অৱস্থিত।"
+    }
+  }
+]

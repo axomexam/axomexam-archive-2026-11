@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-022",
+    "q": {
+      "en": "The distance between the Earth and the Moon is about:",
+      "as": "পৃথিৱী আৰু চন্দ্ৰৰ মাজৰ দূৰত্ব প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "384,400 km",
+        "as": "৩,৮৪,৪০০ কি.মি."
+      },
+      {
+        "en": "150,000 km",
+        "as": "১,৫০,০০০ কি.মি."
+      },
+      {
+        "en": "1 million km",
+        "as": "১০ লাখ কি.মি."
+      },
+      {
+        "en": "50,000 km",
+        "as": "৫০,০০০ কি.মি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Moon is about 384,400 km from the Earth on average.",
+      "as": "চন্দ্ৰ পৃথিৱীৰ পৰা গড়ে প্ৰায় ৩,৮৪,৪০০ কি.মি. দূৰত।"
+    }
+  }
+]

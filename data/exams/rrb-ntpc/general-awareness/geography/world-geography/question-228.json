@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-228",
+    "q": {
+      "en": "The capital city of France is:",
+      "as": "ফ্ৰান্সৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lyon",
+        "as": "লিয়ঁ"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Marseille",
+        "as": "মাৰ্ছেই"
+      },
+      {
+        "en": "Nice",
+        "as": "নিচ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Paris has France as its capital.",
+      "as": "পেৰিছ ফ্ৰান্সৰ ৰাজধানী।"
+    }
+  }
+]

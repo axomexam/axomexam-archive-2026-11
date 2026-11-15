@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-059",
+    "q": {
+      "en": "The longest mountain range under the sea is the:",
+      "as": "সাগৰৰ তলত থকা আটাইতকৈ দীঘল পৰ্বত শ্ৰেণীটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Andes",
+        "as": "এণ্ডিজ"
+      },
+      {
+        "en": "Himalayas",
+        "as": "হিমালয়"
+      },
+      {
+        "en": "Mid-Atlantic Ridge",
+        "as": "মধ্য-আটলান্টিক শৈলশিৰা"
+      },
+      {
+        "en": "Alps",
+        "as": "আল্পছ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Mid-Atlantic Ridge is the longest underwater mountain range.",
+      "as": "মধ্য-আটলান্টিক শৈলশিৰা আটাইতকৈ দীঘল পানীৰ তলৰ পৰ্বত শ্ৰেণী।"
+    }
+  }
+]

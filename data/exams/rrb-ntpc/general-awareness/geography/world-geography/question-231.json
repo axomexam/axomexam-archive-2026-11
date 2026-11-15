@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-231",
+    "q": {
+      "en": "Which city serves as the capital of Nepal?",
+      "as": "নেপালৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Pokhara",
+        "as": "পোখাৰা"
+      },
+      {
+        "en": "Biratnagar",
+        "as": "বিৰাটনগৰ"
+      },
+      {
+        "en": "Kathmandu",
+        "as": "কাঠমাণ্ডু"
+      },
+      {
+        "en": "Lalitpur",
+        "as": "ললিতপুৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The seat of government of Kathmandu is Nepal.",
+      "as": "কাঠমাণ্ডু নেপালৰ ৰাজধানী।"
+    }
+  }
+]

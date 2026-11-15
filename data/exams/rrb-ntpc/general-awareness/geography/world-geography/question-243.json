@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-243",
+    "q": {
+      "en": "Which city is the capital of Nigeria?",
+      "as": "নাইজেৰিয়াৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lagos",
+        "as": "লাগোছ"
+      },
+      {
+        "en": "Kano",
+        "as": "কান'"
+      },
+      {
+        "en": "Abuja",
+        "as": "আবুজা"
+      },
+      {
+        "en": "Ibadan",
+        "as": "ইবাদান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Abuja is the capital of Nigeria, not Lagos.",
+      "as": "আবুজা নাইজেৰিয়াৰ ৰাজধানী, লাগোছ নহয়।"
+    }
+  }
+]

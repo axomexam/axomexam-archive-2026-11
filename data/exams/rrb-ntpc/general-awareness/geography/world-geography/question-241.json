@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-241",
+    "q": {
+      "en": "Name the capital of Israel:",
+      "as": "ইজৰাইলৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Tel Aviv",
+        "as": "টেল আভিভ"
+      },
+      {
+        "en": "Haifa",
+        "as": "হাইফা"
+      },
+      {
+        "en": "Jerusalem",
+        "as": "জেৰুছালেম"
+      },
+      {
+        "en": "Eilat",
+        "as": "ইলাট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jerusalem is regarded as the capital of Israel.",
+      "as": "জেৰুছালেমক ইজৰাইলৰ ৰাজধানী হিচাপে গণ্য কৰা হয়।"
+    }
+  }
+]

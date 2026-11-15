@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-214",
+    "q": {
+      "en": "The Tundra vegetation is found in:",
+      "as": "টুণ্ড্ৰা উদ্ভিদ ক'ত পোৱা যায়?"
+    },
+    "options": [
+      {
+        "en": "Equatorial regions",
+        "as": "বিষুৱীয় অঞ্চল"
+      },
+      {
+        "en": "Polar regions",
+        "as": "মেৰু অঞ্চল"
+      },
+      {
+        "en": "Deserts",
+        "as": "মৰুভূমি"
+      },
+      {
+        "en": "Tropical coasts",
+        "as": "ক্ৰান্তীয় উপকূল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Tundra vegetation grows in the very cold polar regions.",
+      "as": "টুণ্ড্ৰা উদ্ভিদ অতি ঠাণ্ডা মেৰু অঞ্চলত বাঢ়ে।"
+    }
+  }
+]

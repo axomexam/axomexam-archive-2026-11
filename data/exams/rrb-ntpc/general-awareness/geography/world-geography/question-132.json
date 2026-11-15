@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-132",
+    "q": {
+      "en": "The coloured lights seen in the night sky near the polar regions are called:",
+      "as": "মেৰু অঞ্চলৰ ওচৰত ৰাতিৰ আকাশত দেখা ৰঙীন পোহৰবোৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Rainbow",
+        "as": "ৰামধেনু"
+      },
+      {
+        "en": "Halo",
+        "as": "প্ৰভামণ্ডল"
+      },
+      {
+        "en": "Aurora",
+        "as": "অ'ৰ'ৰা"
+      },
+      {
+        "en": "Mirage",
+        "as": "মৰীচিকা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Auroras, called aurora borealis in the north, are caused by solar particles.",
+      "as": "অ'ৰ'ৰা, উত্তৰত অ'ৰ'ৰা ব'ৰিয়ালিছ নামেৰে জনাজাত, সৌৰ কণাৰ বাবে হয়।"
+    }
+  }
+]

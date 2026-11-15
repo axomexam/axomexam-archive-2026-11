@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-075",
+    "q": {
+      "en": "The sea that lies between Asia and Africa is the:",
+      "as": "এছিয়া আৰু আফ্ৰিকাৰ মাজত অৱস্থিত সাগৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mediterranean Sea",
+        "as": "ভূমধ্য সাগৰ"
+      },
+      {
+        "en": "Arabian Sea",
+        "as": "আৰৱ সাগৰ"
+      },
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      },
+      {
+        "en": "Red Sea",
+        "as": "লোহিত সাগৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Red Sea separates the Arabian Peninsula from Africa.",
+      "as": "লোহিত সাগৰে আৰৱ উপদ্বীপক আফ্ৰিকাৰ পৰা পৃথক কৰে।"
+    }
+  }
+]

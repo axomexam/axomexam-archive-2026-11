@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-305",
+    "q": {
+      "en": "The volcano that destroyed the city of Pompeii was:",
+      "as": "পম্পেই নগৰ ধ্বংস কৰা আগ্নেয়গিৰিটো আছিল:"
+    },
+    "options": [
+      {
+        "en": "Mount Etna",
+        "as": "মাউণ্ট এটনা"
+      },
+      {
+        "en": "Mount Vesuvius",
+        "as": "মাউণ্ট ভেছুভিয়াছ"
+      },
+      {
+        "en": "Krakatoa",
+        "as": "ক্ৰাকাটোৱা"
+      },
+      {
+        "en": "Mount Fuji",
+        "as": "মাউণ্ট ফুজি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mount Vesuvius erupted in AD 79 and buried Pompeii.",
+      "as": "মাউণ্ট ভেছুভিয়াছে খ্ৰীঃ ৭৯ চনত বিস্ফোৰণ ঘটি পম্পেইক সমাধিস্থ কৰিছিল।"
+    }
+  }
+]

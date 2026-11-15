@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-172",
+    "q": {
+      "en": "The winds blowing from the polar regions towards lower latitudes are the:",
+      "as": "মেৰু অঞ্চলৰ পৰা নিম্ন অক্ষাংশলৈ বৈ যোৱা বতাহবোৰ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Westerlies",
+        "as": "পশ্চিমীয়া বতাহ"
+      },
+      {
+        "en": "Polar easterlies",
+        "as": "মেৰু পূবীয়া বতাহ"
+      },
+      {
+        "en": "Trade winds",
+        "as": "ব্যৱসায়ী বতাহ"
+      },
+      {
+        "en": "Monsoon",
+        "as": "মৌচুমী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Polar easterlies blow from the polar highs towards lower latitudes.",
+      "as": "মেৰু পূবীয়া বতাহে মেৰু উচ্চ চাপৰ পৰা নিম্ন অক্ষাংশলৈ বৈ যায়।"
+    }
+  }
+]

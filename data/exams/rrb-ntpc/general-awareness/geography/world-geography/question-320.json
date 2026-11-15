@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-320",
+    "q": {
+      "en": "The world's highest navigable lake is:",
+      "as": "বিশ্বৰ আটাইতকৈ ওখ নৌচলাচলযোগ্য হ্ৰদটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lake Titicaca",
+        "as": "টিটিকাকা হ্ৰদ"
+      },
+      {
+        "en": "Lake Baikal",
+        "as": "বৈকাল হ্ৰদ"
+      },
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্ট'ৰিয়া হ্ৰদ"
+      },
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lake Titicaca in the Andes is the highest navigable lake in the world.",
+      "as": "এণ্ডিজৰ টিটিকাকা হ্ৰদ বিশ্বৰ আটাইতকৈ ওখ নৌচলাচলযোগ্য হ্ৰদ।"
+    }
+  }
+]

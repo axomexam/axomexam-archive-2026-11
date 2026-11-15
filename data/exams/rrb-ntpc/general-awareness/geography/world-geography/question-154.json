@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-154",
+    "q": {
+      "en": "The wind that blows from the sea towards the land during the day is called a:",
+      "as": "দিনত সাগৰৰ পৰা মাটিলৈ বৈ যোৱা বতাহক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Land breeze",
+        "as": "ভূমি বতাহ"
+      },
+      {
+        "en": "Sea breeze",
+        "as": "সাগৰীয় বতাহ"
+      },
+      {
+        "en": "Trade wind",
+        "as": "ব্যৱসায়ী বতাহ"
+      },
+      {
+        "en": "Loo",
+        "as": "লু"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A sea breeze blows from sea to land during the day.",
+      "as": "সাগৰীয় বতাহে দিনত সাগৰৰ পৰা মাটিলৈ বৈ যায়।"
+    }
+  }
+]

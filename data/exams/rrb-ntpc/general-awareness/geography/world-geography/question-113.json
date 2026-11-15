@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-113",
+    "q": {
+      "en": "The highest mountain peak of Europe is:",
+      "as": "ইউৰোপৰ আটাইতকৈ ওখ পৰ্বত শিখৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mont Blanc",
+        "as": "মণ্ট ব্লাং"
+      },
+      {
+        "en": "Matterhorn",
+        "as": "মেটাৰহৰ্ণ"
+      },
+      {
+        "en": "Mount Etna",
+        "as": "মাউণ্ট এটনা"
+      },
+      {
+        "en": "Mount Elbrus",
+        "as": "মাউণ্ট এলব্ৰাছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Mount Elbrus in the Caucasus is the highest peak in Europe.",
+      "as": "ককেছাছৰ মাউণ্ট এলব্ৰাছ ইউৰোপৰ আটাইতকৈ ওখ শিখৰ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-220",
+    "q": {
+      "en": "Which city is the capital of Turkey?",
+      "as": "টাৰ্কিৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Istanbul",
+        "as": "ইস্তানবুল"
+      },
+      {
+        "en": "Ankara",
+        "as": "আংকাৰা"
+      },
+      {
+        "en": "Izmir",
+        "as": "ইজমিৰ"
+      },
+      {
+        "en": "Bursa",
+        "as": "বুৰ্ছা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ankara is the capital of Turkey, not Istanbul.",
+      "as": "আংকাৰা টাৰ্কিৰ ৰাজধানী, ইস্তানবুল নহয়।"
+    }
+  }
+]

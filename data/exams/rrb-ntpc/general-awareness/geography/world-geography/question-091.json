@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-091",
+    "q": {
+      "en": "The most populous country on Earth is:",
+      "as": "বিশ্বত আটাইতকৈ বেছি জনসংখ্যা থকা দেশখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Indonesia",
+        "as": "ইন্দোনেছিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "India is the most populous country on Earth.",
+      "as": "ভাৰতত বিশ্বৰ আটাইতকৈ বেছি জনসংখ্যা আছে।"
+    }
+  }
+]

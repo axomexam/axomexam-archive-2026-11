@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-260",
+    "q": {
+      "en": "The capital of Finland is:",
+      "as": "ফিনলেণ্ডৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Helsinki",
+        "as": "হেলচিংকি"
+      },
+      {
+        "en": "Tampere",
+        "as": "টেম্পেৰে"
+      },
+      {
+        "en": "Turku",
+        "as": "টুৰ্কু"
+      },
+      {
+        "en": "Espoo",
+        "as": "এছপ'"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Helsinki is the capital of Finland.",
+      "as": "হেলচিংকি ফিনলেণ্ডৰ ৰাজধানী।"
+    }
+  }
+]

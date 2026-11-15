@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-180",
+    "q": {
+      "en": "The largest producer of coffee in the world is:",
+      "as": "বিশ্বৰ কফিৰ আটাইতকৈ ডাঙৰ উৎপাদক হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Colombia",
+        "as": "কলম্বিয়া"
+      },
+      {
+        "en": "Vietnam",
+        "as": "ভিয়েটনাম"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
+      },
+      {
+        "en": "Ethiopia",
+        "as": "ইথিঅ'পিয়া"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Brazil is the largest coffee producer in the world.",
+      "as": "ব্ৰাজিল বিশ্বৰ আটাইতকৈ ডাঙৰ কফি উৎপাদক।"
+    }
+  }
+]

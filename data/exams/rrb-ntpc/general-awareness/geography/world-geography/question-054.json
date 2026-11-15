@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-054",
+    "q": {
+      "en": "The river that carries the largest volume of water in the world is the:",
+      "as": "বিশ্বত আটাইতকৈ বেছি পানী বহন কৰা নদীখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Nile",
+        "as": "নীল"
+      },
+      {
+        "en": "Yangtze",
+        "as": "য়াংঝি"
+      },
+      {
+        "en": "Congo",
+        "as": "কংগো"
+      },
+      {
+        "en": "Amazon",
+        "as": "আমাজন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Amazon discharges the largest volume of water of any river.",
+      "as": "আমাজনে যিকোনো নদীতকৈ আটাইতকৈ বেছি পানী নিষ্কাশন কৰে।"
+    }
+  }
+]

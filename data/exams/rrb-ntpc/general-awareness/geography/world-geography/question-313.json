@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-313",
+    "q": {
+      "en": "A line on a map joining places of equal atmospheric pressure is an:",
+      "as": "মানচিত্ৰত সমান বায়ুমণ্ডলীয় চাপৰ ঠাইবোৰ সংযোগ কৰা ৰেখাডাল হ'ল এটা:"
+    },
+    "options": [
+      {
+        "en": "Isotherm",
+        "as": "সমোষ্ণ ৰেখা"
+      },
+      {
+        "en": "Isobar",
+        "as": "সমচাপ ৰেখা"
+      },
+      {
+        "en": "Contour",
+        "as": "সমোচ্চ ৰেখা"
+      },
+      {
+        "en": "Isohyet",
+        "as": "সমবৰ্ষণ ৰেখা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Isobars join places of equal atmospheric pressure.",
+      "as": "সমচাপ ৰেখাই সমান বায়ুমণ্ডলীয় চাপৰ ঠাইবোৰ সংযোগ কৰে।"
+    }
+  }
+]

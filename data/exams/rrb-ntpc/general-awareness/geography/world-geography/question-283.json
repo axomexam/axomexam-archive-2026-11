@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-283",
+    "q": {
+      "en": "The currency of Thailand is the:",
+      "as": "থাইলেণ্ডৰ মুদ্ৰা হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Baht",
+        "as": "বাহট"
+      },
+      {
+        "en": "Dong",
+        "as": "ডং"
+      },
+      {
+        "en": "Ringgit",
+        "as": "ৰিংগিট"
+      },
+      {
+        "en": "Peso",
+        "as": "পেছ'"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Thai currency is the baht.",
+      "as": "থাইলেণ্ডৰ মুদ্ৰা বাহট।"
+    }
+  }
+]

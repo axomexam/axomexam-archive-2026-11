@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-067",
+    "q": {
+      "en": "The largest sea in the world is the:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ সাগৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mediterranean Sea",
+        "as": "ভূমধ্য সাগৰ"
+      },
+      {
+        "en": "Caribbean Sea",
+        "as": "কেৰিবিয়ান সাগৰ"
+      },
+      {
+        "en": "Arabian Sea",
+        "as": "আৰৱ সাগৰ"
+      },
+      {
+        "en": "South China Sea",
+        "as": "দক্ষিণ চীন সাগৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The South China Sea is the largest sea in the world.",
+      "as": "দক্ষিণ চীন সাগৰ বিশ্বৰ আটাইতকৈ ডাঙৰ সাগৰ।"
+    }
+  }
+]

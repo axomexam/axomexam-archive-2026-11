@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-110",
+    "q": {
+      "en": "The largest lake of North America is:",
+      "as": "উত্তৰ আমেৰিকাৰ আটাইতকৈ ডাঙৰ হ্ৰদটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lake Michigan",
+        "as": "মিছিগান হ্ৰদ"
+      },
+      {
+        "en": "Lake Superior",
+        "as": "ছুপেৰিয়ৰ হ্ৰদ"
+      },
+      {
+        "en": "Great Salt Lake",
+        "as": "গ্ৰেট ছল্ট লেক"
+      },
+      {
+        "en": "Lake Huron",
+        "as": "হিউৰন হ্ৰদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Lake Superior is the largest of the Great Lakes of North America.",
+      "as": "ছুপেৰিয়ৰ হ্ৰদ উত্তৰ আমেৰিকাৰ মহান হ্ৰদবোৰৰ আটাইতকৈ ডাঙৰ।"
+    }
+  }
+]

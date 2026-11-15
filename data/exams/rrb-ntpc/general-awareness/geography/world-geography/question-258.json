@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-258",
+    "q": {
+      "en": "Name the capital of Sweden:",
+      "as": "ছুইডেনৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Gothenburg",
+        "as": "গথেনবাৰ্গ"
+      },
+      {
+        "en": "Malmo",
+        "as": "মালম'"
+      },
+      {
+        "en": "Uppsala",
+        "as": "উপছালা"
+      },
+      {
+        "en": "Stockholm",
+        "as": "ষ্টকহম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Stockholm serves as the capital of Sweden.",
+      "as": "ষ্টকহম ছুইডেনৰ ৰাজধানী।"
+    }
+  }
+]

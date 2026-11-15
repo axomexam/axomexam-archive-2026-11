@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-125",
+    "q": {
+      "en": "The largest island in the Mediterranean Sea is:",
+      "as": "ভূমধ্য সাগৰৰ আটাইতকৈ ডাঙৰ দ্বীপটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sardinia",
+        "as": "ছাৰ্ডিনিয়া"
+      },
+      {
+        "en": "Sicily",
+        "as": "ছিচিলি"
+      },
+      {
+        "en": "Cyprus",
+        "as": "ছাইপ্ৰাছ"
+      },
+      {
+        "en": "Crete",
+        "as": "ক্ৰীট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Sicily, belonging to Italy, is the largest island in the Mediterranean.",
+      "as": "ইটালীৰ ছিচিলি ভূমধ্য সাগৰৰ আটাইতকৈ ডাঙৰ দ্বীপ।"
+    }
+  }
+]

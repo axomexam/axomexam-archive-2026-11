@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-287",
+    "q": {
+      "en": "The scale commonly used to measure the magnitude of an earthquake is the:",
+      "as": "ভূমিকম্পৰ প্ৰাবল্য জোখা সাধাৰণতে ব্যৱহৃত মাপকাঠিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Beaufort scale",
+        "as": "বিউফৰ্ট মাপকাঠি"
+      },
+      {
+        "en": "Celsius scale",
+        "as": "চেলছিয়াছ মাপকাঠি"
+      },
+      {
+        "en": "Richter scale",
+        "as": "ৰিখটাৰ মাপকাঠি"
+      },
+      {
+        "en": "Fujita scale",
+        "as": "ফুজিটা মাপকাঠি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Richter scale measures earthquake magnitude.",
+      "as": "ৰিখটাৰ মাপকাঠিয়ে ভূমিকম্পৰ প্ৰাবল্য জোখে।"
+    }
+  }
+]

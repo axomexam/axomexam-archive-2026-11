@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-222",
+    "q": {
+      "en": "China has its capital at:",
+      "as": "চীনৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Shanghai",
+        "as": "ছাংহাই"
+      },
+      {
+        "en": "Guangzhou",
+        "as": "গুৱাংঝৌ"
+      },
+      {
+        "en": "Shenzhen",
+        "as": "শেনঝেন"
+      },
+      {
+        "en": "Beijing",
+        "as": "বেইজিং"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The capital city of Beijing is China.",
+      "as": "বেইজিং চীনৰ ৰাজধানী।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-105",
+    "q": {
+      "en": "The world's largest tropical rainforest, the Amazon rainforest, is mainly in:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ ক্ৰান্তীয় বৰষুণ বন আমাজন বৰষুণ বন মূলতঃ ক'ত?"
+    },
+    "options": [
+      {
+        "en": "Argentina",
+        "as": "আৰ্জেণ্টিনা"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
+      },
+      {
+        "en": "Mexico",
+        "as": "মেক্সিক'"
+      },
+      {
+        "en": "Colombia only",
+        "as": "কেৱল কলম্বিয়া"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Amazon rainforest lies mostly within Brazil.",
+      "as": "আমাজন বৰষুণ বনৰ বেছিভাগ অংশ ব্ৰাজিলৰ ভিতৰত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-250",
+    "q": {
+      "en": "The capital city of Vietnam is:",
+      "as": "ভিয়েটনামৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Hanoi",
+        "as": "হান'ই"
+      },
+      {
+        "en": "Ho Chi Minh City",
+        "as": "হ' চি মিন চিটি"
+      },
+      {
+        "en": "Da Nang",
+        "as": "ডা নাং"
+      },
+      {
+        "en": "Hue",
+        "as": "হুয়ে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hanoi has Vietnam as its capital.",
+      "as": "হান'ই ভিয়েটনামৰ ৰাজধানী।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-147",
+    "q": {
+      "en": "Temperature is measured with a:",
+      "as": "উষ্ণতা জোখা যন্ত্ৰটো হ'ল এটা:"
+    },
+    "options": [
+      {
+        "en": "Barometer",
+        "as": "বেৰ'মিটাৰ"
+      },
+      {
+        "en": "Thermometer",
+        "as": "থাৰ্ম'মিটাৰ"
+      },
+      {
+        "en": "Hygrometer",
+        "as": "হাইগ্ৰ'মিটাৰ"
+      },
+      {
+        "en": "Anemometer",
+        "as": "এনিম'মিটাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A thermometer is used for measuring temperature.",
+      "as": "থাৰ্ম'মিটাৰে উষ্ণতা জোখে।"
+    }
+  }
+]

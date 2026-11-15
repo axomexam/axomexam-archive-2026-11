@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-076",
+    "q": {
+      "en": "The Suez Canal connects the Mediterranean Sea with the:",
+      "as": "চুয়েজ খালে ভূমধ্য সাগৰক কিয়ৰ সৈতে সংযোগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Black Sea",
+        "as": "কৃষ্ণ সাগৰ"
+      },
+      {
+        "en": "Arabian Sea",
+        "as": "আৰৱ সাগৰ"
+      },
+      {
+        "en": "Red Sea",
+        "as": "লোহিত সাগৰ"
+      },
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Suez Canal links the Mediterranean Sea to the Red Sea.",
+      "as": "চুয়েজ খালে ভূমধ্য সাগৰক লোহিত সাগৰৰ সৈতে সংযোগ কৰে।"
+    }
+  }
+]

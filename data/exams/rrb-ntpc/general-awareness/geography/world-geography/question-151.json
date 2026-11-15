@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-151",
+    "q": {
+      "en": "The prevailing winds that blow from the west towards the poles in middle latitudes are the:",
+      "as": "মধ্য অক্ষাংশত পশ্চিমৰ পৰা মেৰুলৈ বৈ যোৱা প্ৰধান বতাহবোৰ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Trade winds",
+        "as": "ব্যৱসায়ী বতাহ"
+      },
+      {
+        "en": "Doldrums",
+        "as": "ডলড্ৰামছ"
+      },
+      {
+        "en": "Monsoon",
+        "as": "মৌচুমী"
+      },
+      {
+        "en": "Westerlies",
+        "as": "পশ্চিমীয়া বতাহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The westerlies blow from the subtropical highs towards the poles.",
+      "as": "পশ্চিমীয়া বতাহ উপক্ৰান্তীয় উচ্চ চাপৰ পৰা মেৰুলৈ বৈ যায়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-276",
+    "q": {
+      "en": "The currency of Japan is the:",
+      "as": "জাপানৰ মুদ্ৰা হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Yuan",
+        "as": "য়ুৱান"
+      },
+      {
+        "en": "Yen",
+        "as": "য়েন"
+      },
+      {
+        "en": "Won",
+        "as": "ৱন"
+      },
+      {
+        "en": "Baht",
+        "as": "বাহট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Japanese currency is the yen.",
+      "as": "জাপানৰ মুদ্ৰা য়েন।"
+    }
+  }
+]

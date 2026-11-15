@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-093",
+    "q": {
+      "en": "The biggest country in South America is:",
+      "as": "দক্ষিণ আমেৰিকাৰ আটাইতকৈ ডাঙৰ দেশখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Argentina",
+        "as": "আৰ্জেণ্টিনা"
+      },
+      {
+        "en": "Peru",
+        "as": "পেৰু"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
+      },
+      {
+        "en": "Colombia",
+        "as": "কলম্বিয়া"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Brazil is the biggest country in South America.",
+      "as": "ব্ৰাজিল দক্ষিণ আমেৰিকাৰ আটাইতকৈ ডাঙৰ দেশ।"
+    }
+  }
+]

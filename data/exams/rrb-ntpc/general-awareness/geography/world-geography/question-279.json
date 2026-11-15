@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-279",
+    "q": {
+      "en": "The currency of Russia is the:",
+      "as": "ৰাছিয়াৰ মুদ্ৰা হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Euro",
+        "as": "ইউৰ'"
+      },
+      {
+        "en": "Dollar",
+        "as": "ডলাৰ"
+      },
+      {
+        "en": "Tenge",
+        "as": "টেঞ্জে"
+      },
+      {
+        "en": "Ruble",
+        "as": "ৰুবল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Russian currency is the ruble.",
+      "as": "ৰাছিয়াৰ মুদ্ৰা ৰুবল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-226",
+    "q": {
+      "en": "Which city serves as the capital of Russia?",
+      "as": "ৰাছিয়াৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Saint Petersburg",
+        "as": "ছেইণ্ট পিটাৰ্ছবাৰ্গ"
+      },
+      {
+        "en": "Novosibirsk",
+        "as": "নভ'চিবিৰ্স্ক"
+      },
+      {
+        "en": "Moscow",
+        "as": "মস্কো"
+      },
+      {
+        "en": "Kazan",
+        "as": "কাজান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The seat of government of Moscow is Russia.",
+      "as": "মস্কো ৰাছিয়াৰ ৰাজধানী।"
+    }
+  }
+]

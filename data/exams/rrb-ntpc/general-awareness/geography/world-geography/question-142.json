@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-142",
+    "q": {
+      "en": "The gas that traps heat and causes the greenhouse effect is mainly:",
+      "as": "তাপ ধৰি ৰাখি গ্ৰীণহাউছ প্ৰভাৱ কৰা গেছটো মূলতঃ:"
+    },
+    "options": [
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰ'জেন"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Helium",
+        "as": "হিলিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Carbon dioxide is the chief greenhouse gas.",
+      "as": "কাৰ্বন ডাইঅক্সাইড প্ৰধান গ্ৰীণহাউছ গেছ।"
+    }
+  }
+]

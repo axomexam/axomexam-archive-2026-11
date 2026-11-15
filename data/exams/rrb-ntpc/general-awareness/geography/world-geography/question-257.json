@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-257",
+    "q": {
+      "en": "Poland has its capital at:",
+      "as": "পোলেণ্ডৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Krakow",
+        "as": "ক্ৰাক'"
+      },
+      {
+        "en": "Gdansk",
+        "as": "গডান্স্ক"
+      },
+      {
+        "en": "Warsaw",
+        "as": "ৱাৰ্ছ'"
+      },
+      {
+        "en": "Lodz",
+        "as": "লডজ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The capital city of Warsaw is Poland.",
+      "as": "ৱাৰ্ছ' পোলেণ্ডৰ ৰাজধানী।"
+    }
+  }
+]

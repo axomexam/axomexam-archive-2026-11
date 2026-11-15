@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-080",
+    "q": {
+      "en": "The Strait of Malacca lies between the Malay Peninsula and:",
+      "as": "মালাক্কা জলডুৱাৰী মালয় উপদ্বীপ আৰু কিয়ৰ মাজত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Java",
+        "as": "জাভা"
+      },
+      {
+        "en": "Sumatra",
+        "as": "ছুমাত্ৰা"
+      },
+      {
+        "en": "Borneo",
+        "as": "বৰ্ণিঅ'"
+      },
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Strait of Malacca lies between the Malay Peninsula and Sumatra.",
+      "as": "মালাক্কা জলডুৱাৰী মালয় উপদ্বীপ আৰু ছুমাত্ৰাৰ মাজত অৱস্থিত।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-251",
+    "q": {
+      "en": "South Korea has its capital at:",
+      "as": "দক্ষিণ কোৰিয়াৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Busan",
+        "as": "বুছান"
+      },
+      {
+        "en": "Seoul",
+        "as": "ছিউল"
+      },
+      {
+        "en": "Incheon",
+        "as": "ইনচন"
+      },
+      {
+        "en": "Daegu",
+        "as": "ডেগু"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The capital city of Seoul is South Korea.",
+      "as": "ছিউল দক্ষিণ কোৰিয়াৰ ৰাজধানী।"
+    }
+  }
+]

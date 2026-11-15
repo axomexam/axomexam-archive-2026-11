@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-282",
+    "q": {
+      "en": "The currency of Japan's neighbour South Korea is the:",
+      "as": "জাপানৰ চুবুৰীয়া দক্ষিণ কোৰিয়াৰ মুদ্ৰা হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Yen",
+        "as": "য়েন"
+      },
+      {
+        "en": "Won",
+        "as": "ৱন"
+      },
+      {
+        "en": "Yuan",
+        "as": "য়ুৱান"
+      },
+      {
+        "en": "Baht",
+        "as": "বাহট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The South Korean currency is the won.",
+      "as": "দক্ষিণ কোৰিয়াৰ মুদ্ৰা ৱন।"
+    }
+  }
+]

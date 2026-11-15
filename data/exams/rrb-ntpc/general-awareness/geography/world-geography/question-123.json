@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-123",
+    "q": {
+      "en": "The highest mountain peak of Antarctica is:",
+      "as": "এণ্টাৰ্কটিকাৰ আটাইতকৈ ওখ পৰ্বত শিখৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mount Erebus",
+        "as": "মাউণ্ট এৰেবাছ"
+      },
+      {
+        "en": "Mount Kirkpatrick",
+        "as": "মাউণ্ট কিৰ্কপেট্ৰিক"
+      },
+      {
+        "en": "Mount Sidley",
+        "as": "মাউণ্ট চিডলি"
+      },
+      {
+        "en": "Mount Vinson",
+        "as": "মাউণ্ট ভিনছন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Mount Vinson is the highest peak in Antarctica.",
+      "as": "মাউণ্ট ভিনছন এণ্টাৰ্কটিকাৰ আটাইতকৈ ওখ শিখৰ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-285",
+    "q": {
+      "en": "The instrument used to record earthquake waves is a:",
+      "as": "ভূমিকম্পৰ তৰংগ লিপিবদ্ধ কৰা যন্ত্ৰটো হ'ল এটা:"
+    },
+    "options": [
+      {
+        "en": "Seismograph",
+        "as": "ভূকম্পলেখী"
+      },
+      {
+        "en": "Barometer",
+        "as": "বেৰ'মিটাৰ"
+      },
+      {
+        "en": "Thermometer",
+        "as": "থাৰ্ম'মিটাৰ"
+      },
+      {
+        "en": "Anemometer",
+        "as": "এনিম'মিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A seismograph records the intensity and duration of earthquakes.",
+      "as": "ভূকম্পলেখীয়ে ভূমিকম্পৰ তীব্ৰতা আৰু সময় লিপিবদ্ধ কৰে।"
+    }
+  }
+]

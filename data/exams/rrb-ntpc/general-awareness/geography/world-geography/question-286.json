@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-286",
+    "q": {
+      "en": "The point on the Earth's surface directly above an earthquake's focus is the:",
+      "as": "ভূমিকম্পৰ কেন্দ্ৰৰ ঠিক ওপৰত পৃথিৱীৰ পৃষ্ঠত থকা বিন্দুটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Focus",
+        "as": "কেন্দ্ৰ"
+      },
+      {
+        "en": "Epicentre",
+        "as": "উপকেন্দ্ৰ"
+      },
+      {
+        "en": "Fault",
+        "as": "ভগ্ন"
+      },
+      {
+        "en": "Crater",
+        "as": "জ্বালামুখ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The epicentre is the surface point above the earthquake focus.",
+      "as": "উপকেন্দ্ৰ ভূমিকম্পৰ কেন্দ্ৰৰ ওপৰত থকা পৃষ্ঠ বিন্দু।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-081",
+    "q": {
+      "en": "The Strait of Hormuz connects the Persian Gulf with the:",
+      "as": "হৰমুজ জলডুৱাৰীয়ে পাৰ্ছিয়ান উপসাগৰক কিয়ৰ সৈতে সংযোগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Red Sea",
+        "as": "লোহিত সাগৰ"
+      },
+      {
+        "en": "Gulf of Oman",
+        "as": "ওমান উপসাগৰ"
+      },
+      {
+        "en": "Mediterranean Sea",
+        "as": "ভূমধ্য সাগৰ"
+      },
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Strait of Hormuz links the Persian Gulf to the Gulf of Oman.",
+      "as": "হৰমুজ জলডুৱাৰীয়ে পাৰ্ছিয়ান উপসাগৰক ওমান উপসাগৰৰ সৈতে সংযোগ কৰে।"
+    }
+  }
+]

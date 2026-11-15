@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-097",
+    "q": {
+      "en": "The longest river of Africa is the:",
+      "as": "আফ্ৰিকাৰ আটাইতকৈ দীঘল নদীখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Nile",
+        "as": "নীল"
+      },
+      {
+        "en": "Congo",
+        "as": "কংগো"
+      },
+      {
+        "en": "Niger",
+        "as": "নাইজাৰ"
+      },
+      {
+        "en": "Zambezi",
+        "as": "জাম্বেজি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Nile is the longest river in Africa.",
+      "as": "নীল আফ্ৰিকাৰ আটাইতকৈ দীঘল নদী।"
+    }
+  }
+]

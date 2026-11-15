@@ -123,6 +123,40 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+## Session record — Nov 2026 RRB NTPC World Geography question bank (320 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a full bilingual World Geography bank to the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/geography/world-geography/`:
+  `question-002.json` … `question-320.json` (319 new files) on top of the
+  existing `question-001.json`, for **320 questions** in the topic. Each file
+  holds one MCQ in the repo's shape — `id`, `q.{en,as}`, four
+  `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **Topic resolution.** `geography` has two subcategories, so the SPA reads the
+  subcategory folder. `world-geography/index.json` now lists all 320 files; the
+  parent `geography/index.json` keeps `files: []` on purpose.
+- **Content.** Questions target RRB NTPC (CBT-1 & CBT-2) difficulty and cover the
+  universe and solar system, the Earth's motions, latitudes and longitudes,
+  oceans, seas, straits and canals, ocean currents and tides, continents and
+  their extremes, atmosphere layers and instruments, winds, pressure and climate
+  zones, minerals, industries and crops, grasslands, countries, capitals and
+  currencies, and landforms and plate tectonics. Answer keys are spread over
+  A/B/C/D (81/80/80/79) and the longest run of one slot is 3.
+  `--book rrb-ntpc --topic general-awareness/geography/world-geography --check`
+  reports 0 skewed topics.
+- **No duplicated content.** Every stem and explanation was compared (case- and
+  punctuation-insensitive) against the 44,976 question stems already in `data/`.
+  The 68 colliding items were reworded — most of them the "capital of X" series,
+  which now uses five rotating phrasings, so the bank shares no stem or
+  explanation with any existing bank or mock set.
+- **`data/counts.json` is deliberately unchanged** (the book is still
+  `status: "coming-soon"`), as recorded in the earlier session records.
+- **Verified** by serving the repo locally: the topic `index.json` and every
+  `question-NNN.json` return 200. `node tools/seo-audit.js` still reports no
+  missing H1/desc/canonical/JSON-LD and all duplicate counts at 0. No page, UI,
+  script or CSS file changed.
+
 ## Session record — Nov 2026 RRB NTPC Indian Geography question bank (290 MCQs)
 
 What was done, so the next agent does not redo or undo it:

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-306",
+    "q": {
+      "en": "The largest desert of Asia is the:",
+      "as": "এছিয়াৰ আটাইতকৈ ডাঙৰ মৰুভূমিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Thar Desert",
+        "as": "থাৰ মৰুভূমি"
+      },
+      {
+        "en": "Arabian Desert",
+        "as": "আৰৱ মৰুভূমি"
+      },
+      {
+        "en": "Gobi Desert",
+        "as": "গ'বি মৰুভূমি"
+      },
+      {
+        "en": "Karakum Desert",
+        "as": "কাৰাকুম মৰুভূমি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Gobi Desert in Mongolia and China is the largest in Asia.",
+      "as": "মংগোলিয়া আৰু চীনৰ গ'বি মৰুভূমি এছিয়াৰ আটাইতকৈ ডাঙৰ।"
+    }
+  }
+]

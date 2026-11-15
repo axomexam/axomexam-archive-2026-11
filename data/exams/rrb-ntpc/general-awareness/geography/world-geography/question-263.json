@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-263",
+    "q": {
+      "en": "The capital city of New Zealand is:",
+      "as": "নিউজিলেণ্ডৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Wellington",
+        "as": "ৱেলিংটন"
+      },
+      {
+        "en": "Auckland",
+        "as": "অকলেণ্ড"
+      },
+      {
+        "en": "Christchurch",
+        "as": "ক্ৰাইষ্টচাৰ্চ"
+      },
+      {
+        "en": "Dunedin",
+        "as": "ডুনেডিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Wellington is the capital of New Zealand, not Auckland.",
+      "as": "ৱেলিংটন নিউজিলেণ্ডৰ ৰাজধানী, অকলেণ্ড নহয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-188",
+    "q": {
+      "en": "The largest producer of wool in the world is:",
+      "as": "বিশ্বৰ ঊণৰ আটাইতকৈ ডাঙৰ উৎপাদক হ'ল:"
+    },
+    "options": [
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
+      },
+      {
+        "en": "New Zealand",
+        "as": "নিউজিলেণ্ড"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Australia is a leading producer of fine wool.",
+      "as": "অষ্ট্ৰেলিয়া উন্নত মানৰ ঊণৰ এটা আগশাৰীৰ উৎপাদক।"
+    }
+  }
+]

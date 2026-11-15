@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-101",
+    "q": {
+      "en": "The Sahara Desert is located in:",
+      "as": "ছাহাৰা মৰুভূমি ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "North Africa",
+        "as": "উত্তৰ আফ্ৰিকা"
+      },
+      {
+        "en": "South Africa",
+        "as": "দক্ষিণ আফ্ৰিকা"
+      },
+      {
+        "en": "West Asia",
+        "as": "পশ্চিম এছিয়া"
+      },
+      {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Sahara covers much of North Africa.",
+      "as": "ছাহাৰাই উত্তৰ আফ্ৰিকাৰ বহু অংশ সামৰি লয়।"
+    }
+  }
+]

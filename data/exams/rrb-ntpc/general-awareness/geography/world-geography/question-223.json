@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-223",
+    "q": {
+      "en": "Name the capital of Egypt:",
+      "as": "ইজিপ্তৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Alexandria",
+        "as": "আলেকজেণ্ড্ৰিয়া"
+      },
+      {
+        "en": "Giza",
+        "as": "গিজা"
+      },
+      {
+        "en": "Cairo",
+        "as": "কাইৰ'"
+      },
+      {
+        "en": "Luxor",
+        "as": "লাক্সৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Cairo serves as the capital of Egypt.",
+      "as": "কাইৰ' ইজিপ্তৰ ৰাজধানী।"
+    }
+  }
+]

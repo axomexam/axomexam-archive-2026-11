@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-117",
+    "q": {
+      "en": "The highest mountain peak of Australia is:",
+      "as": "অষ্ট্ৰেলিয়াৰ আটাইতকৈ ওখ পৰ্বত শিখৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mount Kosciuszko",
+        "as": "মাউণ্ট ক'চিউস্ক'"
+      },
+      {
+        "en": "Mount Townsend",
+        "as": "মাউণ্ট টাউনছেণ্ড"
+      },
+      {
+        "en": "Mount Bogong",
+        "as": "মাউণ্ট বগং"
+      },
+      {
+        "en": "Uluru",
+        "as": "উলুৰু"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mount Kosciuszko is the highest peak on the Australian mainland.",
+      "as": "মাউণ্ট ক'চিউস্ক' অষ্ট্ৰেলিয়া মূল ভূখণ্ডৰ আটাইতকৈ ওখ শিখৰ।"
+    }
+  }
+]

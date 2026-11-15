@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-318",
+    "q": {
+      "en": "The world's largest river island, Majuli, is located in India in the state of:",
+      "as": "ভাৰতত অৱস্থিত বিশ্বৰ আটাইতকৈ ডাঙৰ নদী দ্বীপ মাজুলী কোন ৰাজ্যত?"
+    },
+    "options": [
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      },
+      {
+        "en": "Odisha",
+        "as": "ওড়িশা"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Majuli in the Brahmaputra river in Assam is a large river island.",
+      "as": "অসমৰ ব্ৰহ্মপুত্ৰ নদীৰ মাজুলী এটা ডাঙৰ নদী দ্বীপ।"
+    }
+  }
+]

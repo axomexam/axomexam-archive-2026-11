@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-310",
+    "q": {
+      "en": "The lowest point on the Earth's land surface is the shore of the:",
+      "as": "পৃথিৱীৰ ভূমি পৃষ্ঠৰ আটাইতকৈ নিম্ন বিন্দুটো কিয়ৰ পাৰ?"
+    },
+    "options": [
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      },
+      {
+        "en": "Dead Sea",
+        "as": "মৃত সাগৰ"
+      },
+      {
+        "en": "Lake Baikal",
+        "as": "বৈকাল হ্ৰদ"
+      },
+      {
+        "en": "Lake Eyre",
+        "as": "আয়াৰ হ্ৰদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The shore of the Dead Sea is the lowest exposed land on Earth.",
+      "as": "মৃত সাগৰৰ পাৰ পৃথিৱীৰ আটাইতকৈ নিম্ন উন্মোচিত ভূমি।"
+    }
+  }
+]

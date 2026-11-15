@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-167",
+    "q": {
+      "en": "The amount of water vapour present in the air is called:",
+      "as": "বায়ুত থকা জলীয় বাষ্পৰ পৰিমাণক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Pressure",
+        "as": "চাপ"
+      },
+      {
+        "en": "Temperature",
+        "as": "উষ্ণতা"
+      },
+      {
+        "en": "Humidity",
+        "as": "আৰ্দ্ৰতা"
+      },
+      {
+        "en": "Wind",
+        "as": "বতাহ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Humidity is the water vapour content of the air.",
+      "as": "আৰ্দ্ৰতা হ'ল বায়ুত থকা জলীয় বাষ্পৰ পৰিমাণ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-086",
+    "q": {
+      "en": "The cold current off the west coast of Africa that causes coastal fog is the:",
+      "as": "আফ্ৰিকাৰ পশ্চিম উপকূলৰ ওচৰত থকা, উপকূলীয় কুঁৱলী সৃষ্টি কৰা ঠাণ্ডা সোঁতটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Gulf Stream",
+        "as": "গাল্ফ স্ট্ৰিম"
+      },
+      {
+        "en": "Kuroshio Current",
+        "as": "কুৰ'ছিঅ' সোঁত"
+      },
+      {
+        "en": "Brazil Current",
+        "as": "ব্ৰাজিল সোঁত"
+      },
+      {
+        "en": "Benguela Current",
+        "as": "বেংগুৱেলা সোঁত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The cold Benguela Current flows along southwestern Africa.",
+      "as": "ঠাণ্ডা বেংগুৱেলা সোঁত দক্ষিণ-পশ্চিম আফ্ৰিকাৰ কাষেৰে বৈ যায়।"
+    }
+  }
+]

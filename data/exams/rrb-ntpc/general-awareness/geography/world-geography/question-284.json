@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-284",
+    "q": {
+      "en": "The 'Ring of Fire', known for earthquakes and volcanoes, surrounds the:",
+      "as": "ভূমিকম্প আৰু আগ্নেয়গিৰিৰ বাবে জনাজাত 'অগ্নি বলয়' কিয়ক আগুৰি আছে?"
+    },
+    "options": [
+      {
+        "en": "Atlantic Ocean",
+        "as": "আটলান্টিক মহাসাগৰ"
+      },
+      {
+        "en": "Indian Ocean",
+        "as": "ভাৰত মহাসাগৰ"
+      },
+      {
+        "en": "Pacific Ocean",
+        "as": "প্ৰশান্ত মহাসাগৰ"
+      },
+      {
+        "en": "Arctic Ocean",
+        "as": "উত্তৰ মহাসাগৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ring of Fire is a belt around the Pacific Ocean with many volcanoes.",
+      "as": "অগ্নি বলয় প্ৰশান্ত মহাসাগৰৰ চাৰিওফালে থকা, বহু আগ্নেয়গিৰি থকা এটা পটী।"
+    }
+  }
+]

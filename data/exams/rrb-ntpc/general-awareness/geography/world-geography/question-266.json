@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-266",
+    "q": {
+      "en": "Name the capital of Colombia:",
+      "as": "কলম্বিয়াৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Medellin",
+        "as": "মেডেলিন"
+      },
+      {
+        "en": "Cali",
+        "as": "কালি"
+      },
+      {
+        "en": "Cartagena",
+        "as": "কাৰ্টাজেনা"
+      },
+      {
+        "en": "Bogota",
+        "as": "বগ'টা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bogota serves as the capital of Colombia.",
+      "as": "বগ'টা কলম্বিয়াৰ ৰাজধানী।"
+    }
+  }
+]

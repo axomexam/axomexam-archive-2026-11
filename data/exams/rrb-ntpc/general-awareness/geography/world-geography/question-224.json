@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-224",
+    "q": {
+      "en": "The capital of South Africa (administrative) is:",
+      "as": "দক্ষিণ আফ্ৰিকাৰ (প্ৰশাসনিক) ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Pretoria",
+        "as": "প্ৰিট'ৰিয়া"
+      },
+      {
+        "en": "Cape Town",
+        "as": "কেপ টাউন"
+      },
+      {
+        "en": "Johannesburg",
+        "as": "জোহানেছবাৰ্গ"
+      },
+      {
+        "en": "Durban",
+        "as": "ডাৰবান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "South Africa has three capitals; Pretoria is the administrative capital.",
+      "as": "দক্ষিণ আফ্ৰিকাৰ তিনিটা ৰাজধানী আছে; প্ৰিট'ৰিয়া প্ৰশাসনিক ৰাজধানী।"
+    }
+  }
+]

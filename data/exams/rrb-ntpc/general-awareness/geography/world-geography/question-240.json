@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-240",
+    "q": {
+      "en": "Saudi Arabia has its capital at:",
+      "as": "চৌদি আৰৱৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Jeddah",
+        "as": "জেদ্দা"
+      },
+      {
+        "en": "Mecca",
+        "as": "মক্কা"
+      },
+      {
+        "en": "Medina",
+        "as": "মদিনা"
+      },
+      {
+        "en": "Riyadh",
+        "as": "ৰিয়াদ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The capital city of Riyadh is Saudi Arabia.",
+      "as": "ৰিয়াদ চৌদি আৰৱৰ ৰাজধানী।"
+    }
+  }
+]

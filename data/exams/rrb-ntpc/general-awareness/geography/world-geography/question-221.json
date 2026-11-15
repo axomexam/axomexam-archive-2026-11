@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-221",
+    "q": {
+      "en": "The capital city of Japan is:",
+      "as": "জাপানৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Osaka",
+        "as": "ওছাকা"
+      },
+      {
+        "en": "Kyoto",
+        "as": "কিয়'ট'"
+      },
+      {
+        "en": "Tokyo",
+        "as": "টকিঅ'"
+      },
+      {
+        "en": "Nagoya",
+        "as": "নাগয়া"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tokyo has Japan as its capital.",
+      "as": "টকিঅ' জাপানৰ ৰাজধানী।"
+    }
+  }
+]

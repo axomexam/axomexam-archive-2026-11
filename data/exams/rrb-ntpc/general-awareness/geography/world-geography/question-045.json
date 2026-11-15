@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-045",
+    "q": {
+      "en": "The deepest point of the ocean, Challenger Deep, lies in the:",
+      "as": "মহাসাগৰৰ আটাইতকৈ গভীৰ বিন্দু চেলেঞ্জাৰ ডিপ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Atlantic Ocean",
+        "as": "আটলান্টিক মহাসাগৰ"
+      },
+      {
+        "en": "Pacific Ocean",
+        "as": "প্ৰশান্ত মহাসাগৰ"
+      },
+      {
+        "en": "Indian Ocean",
+        "as": "ভাৰত মহাসাগৰ"
+      },
+      {
+        "en": "Arctic Ocean",
+        "as": "উত্তৰ মহাসাগৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Challenger Deep lies in the Mariana Trench of the Pacific Ocean.",
+      "as": "চেলেঞ্জাৰ ডিপ প্ৰশান্ত মহাসাগৰৰ মাৰিয়ানা খাৱৈত অৱস্থিত।"
+    }
+  }
+]

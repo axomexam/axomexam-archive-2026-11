@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-084",
+    "q": {
+      "en": "The warm ocean current off the east coast of Japan is the:",
+      "as": "জাপানৰ পূব উপকূলৰ ওচৰত থকা উষ্ণ সাগৰীয় সোঁতটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Gulf Stream",
+        "as": "গাল্ফ স্ট্ৰিম"
+      },
+      {
+        "en": "California Current",
+        "as": "কেলিফৰ্নিয়া সোঁত"
+      },
+      {
+        "en": "Benguela Current",
+        "as": "বেংগুৱেলা সোঁত"
+      },
+      {
+        "en": "Kuroshio Current",
+        "as": "কুৰ'ছিঅ' সোঁত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Kuroshio, or Japan Current, is a warm current in the North Pacific.",
+      "as": "কুৰ'ছিঅ', বা জাপান সোঁত, উত্তৰ প্ৰশান্ত মহাসাগৰৰ এটা উষ্ণ সোঁত।"
+    }
+  }
+]

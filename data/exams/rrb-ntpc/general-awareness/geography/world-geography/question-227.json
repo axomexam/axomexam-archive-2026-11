@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-227",
+    "q": {
+      "en": "Which city is the capital of Germany?",
+      "as": "জাৰ্মানিৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Munich",
+        "as": "মিউনিখ"
+      },
+      {
+        "en": "Hamburg",
+        "as": "হামবাৰ্গ"
+      },
+      {
+        "en": "Berlin",
+        "as": "বেৰ্লিন"
+      },
+      {
+        "en": "Frankfurt",
+        "as": "ফ্ৰাংকফৰ্ট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Berlin is the capital of Germany.",
+      "as": "বেৰ্লিন জাৰ্মানিৰ ৰাজধানী।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-273",
+    "q": {
+      "en": "The city known as the 'City of Lights' is:",
+      "as": "'পোহৰৰ নগৰী' নামেৰে জনাজাত নগৰখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "London",
+        "as": "লণ্ডন"
+      },
+      {
+        "en": "Paris",
+        "as": "পেৰিছ"
+      },
+      {
+        "en": "Las Vegas",
+        "as": "লাছ ভেগাছ"
+      },
+      {
+        "en": "New York",
+        "as": "নিউ ইয়ৰ্ক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Paris is called the City of Lights.",
+      "as": "পেৰিছক পোহৰৰ নগৰী বোলা হয়।"
+    }
+  }
+]

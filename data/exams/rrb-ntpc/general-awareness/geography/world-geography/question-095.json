@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-095",
+    "q": {
+      "en": "The country with the largest population in Africa is:",
+      "as": "আফ্ৰিকাত আটাইতকৈ বেছি জনসংখ্যা থকা দেশখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Egypt",
+        "as": "ইজিপ্ত"
+      },
+      {
+        "en": "Ethiopia",
+        "as": "ইথিঅ'পিয়া"
+      },
+      {
+        "en": "South Africa",
+        "as": "দক্ষিণ আফ্ৰিকা"
+      },
+      {
+        "en": "Nigeria",
+        "as": "নাইজেৰিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Nigeria has the largest population in Africa.",
+      "as": "নাইজেৰিয়াত আফ্ৰিকাৰ আটাইতকৈ বেছি জনসংখ্যা আছে।"
+    }
+  }
+]

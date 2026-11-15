@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-202",
+    "q": {
+      "en": "The country with the largest merchant shipping fleet among the following is:",
+      "as": "তলৰবোৰৰ ভিতৰত আটাইতকৈ ডাঙৰ বাণিজ্যিক জাহাজ বহৰ থকা দেশখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
+      },
+      {
+        "en": "Greece",
+        "as": "গ্ৰীচ"
+      },
+      {
+        "en": "Canada",
+        "as": "কানাডা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Greece has one of the largest merchant shipping fleets in the world.",
+      "as": "গ্ৰীচৰ বিশ্বৰ আটাইতকৈ ডাঙৰ বাণিজ্যিক জাহাজ বহৰ এটা আছে।"
+    }
+  }
+]

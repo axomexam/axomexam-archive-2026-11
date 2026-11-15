@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-137",
+    "q": {
+      "en": "Ozone is concentrated in which layer of the atmosphere?",
+      "as": "অ'জ'ন স্তৰ থকা বায়ুমণ্ডলৰ স্তৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Troposphere",
+        "as": "ট্ৰ'প'স্ফিয়াৰ"
+      },
+      {
+        "en": "Stratosphere",
+        "as": "ষ্ট্ৰেট'স্ফিয়াৰ"
+      },
+      {
+        "en": "Mesosphere",
+        "as": "মেছ'স্ফিয়াৰ"
+      },
+      {
+        "en": "Thermosphere",
+        "as": "থাৰ্ম'স্ফিয়াৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ozone is found in the stratosphere, where it absorbs ultraviolet rays.",
+      "as": "অ'জ'ন স্তৰ ষ্ট্ৰেট'স্ফিয়াৰত অৱস্থিত আৰু অতি-বেঙুনীয় ৰশ্মি শোষণ কৰে।"
+    }
+  }
+]

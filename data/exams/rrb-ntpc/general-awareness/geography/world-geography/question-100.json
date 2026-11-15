@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-100",
+    "q": {
+      "en": "The Great Rift Valley is mainly located in:",
+      "as": "মহান ভাগ-উপত্যকা মূলতঃ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Asia",
+        "as": "এছিয়া"
+      },
+      {
+        "en": "Europe",
+        "as": "ইউৰোপ"
+      },
+      {
+        "en": "South America",
+        "as": "দক্ষিণ আমেৰিকা"
+      },
+      {
+        "en": "Africa",
+        "as": "আফ্ৰিকা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Great Rift Valley runs through East Africa.",
+      "as": "মহান ভাগ-উপত্যকা পূব আফ্ৰিকাৰ মাজেৰে বিস্তৃত।"
+    }
+  }
+]

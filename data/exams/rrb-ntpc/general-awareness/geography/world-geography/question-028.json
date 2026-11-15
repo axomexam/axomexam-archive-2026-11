@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-028",
+    "q": {
+      "en": "A meteoroid that reaches the Earth's surface is called a:",
+      "as": "পৃথিৱীৰ পৃষ্ঠত উপনীত হোৱা উল্কাপিণ্ডক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Meteor",
+        "as": "উল্কা"
+      },
+      {
+        "en": "Asteroid",
+        "as": "গ্ৰহাণু"
+      },
+      {
+        "en": "Comet",
+        "as": "ধূমকেতু"
+      },
+      {
+        "en": "Meteorite",
+        "as": "উল্কাপিণ্ড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A meteorite is a meteoroid that survives its passage through the atmosphere.",
+      "as": "উল্কাপিণ্ড এটা উল্কা-বস্তু যি বায়ুমণ্ডলৰ মাজেৰে পাৰ হৈ ৰক্ষা পায়।"
+    }
+  }
+]

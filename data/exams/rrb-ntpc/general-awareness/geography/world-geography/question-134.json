@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-134",
+    "q": {
+      "en": "The Panama Canal is located in:",
+      "as": "পানামা খাল ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "South America",
+        "as": "দক্ষিণ আমেৰিকা"
+      },
+      {
+        "en": "Africa",
+        "as": "আফ্ৰিকা"
+      },
+      {
+        "en": "Asia",
+        "as": "এছিয়া"
+      },
+      {
+        "en": "Central America",
+        "as": "মধ্য আমেৰিকা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Panama Canal cuts across the Isthmus of Panama in Central America.",
+      "as": "পানামা খাল মধ্য আমেৰিকাৰ পানামা সংকীৰ্ণস্থলীৰ মাজেৰে যায়।"
+    }
+  }
+]

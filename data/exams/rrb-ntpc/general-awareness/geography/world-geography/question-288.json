@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-288",
+    "q": {
+      "en": "A crack in the Earth's crust along which movement occurs is called a:",
+      "as": "পৃথিৱীৰ ভূত্বকত থকা, যাৰ কাষেৰে গতি ঘটে, এনে ফাটটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Fold",
+        "as": "ভাঁজ"
+      },
+      {
+        "en": "Crater",
+        "as": "জ্বালামুখ"
+      },
+      {
+        "en": "Fault",
+        "as": "ভগ্ন"
+      },
+      {
+        "en": "Plateau",
+        "as": "মালভূমি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A fault is a fracture in the crust along which rocks move.",
+      "as": "ভগ্ন হ'ল ভূত্বকত থকা এটা ফাট, যাৰ কাষেৰে শিল গতি কৰে।"
+    }
+  }
+]

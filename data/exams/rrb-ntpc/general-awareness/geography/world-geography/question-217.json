@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-217",
+    "q": {
+      "en": "the United States of America has its capital at:",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Washington, D.C.",
+        "as": "ৱাশিংটন, ডি.চি."
+      },
+      {
+        "en": "New York",
+        "as": "নিউ ইয়ৰ্ক"
+      },
+      {
+        "en": "Chicago",
+        "as": "চিকাগ'"
+      },
+      {
+        "en": "Los Angeles",
+        "as": "লছ এঞ্জেলেছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Washington, D.C. is the capital of the USA.",
+      "as": "ৱাশিংটন, ডি.চি. আমেৰিকা যুক্তৰাষ্ট্ৰৰ ৰাজধানী।"
+    }
+  }
+]

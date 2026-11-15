@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-138",
+    "q": {
+      "en": "The layer of the atmosphere in which meteors burn up is the:",
+      "as": "যি বায়ুমণ্ডলীয় স্তৰত উল্কা পুৰি যায় সেইটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Troposphere",
+        "as": "ট্ৰ'প'স্ফিয়াৰ"
+      },
+      {
+        "en": "Mesosphere",
+        "as": "মেছ'স্ফিয়াৰ"
+      },
+      {
+        "en": "Stratosphere",
+        "as": "ষ্ট্ৰেট'স্ফিয়াৰ"
+      },
+      {
+        "en": "Thermosphere",
+        "as": "থাৰ্ম'স্ফিয়াৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Meteors usually burn up in the mesosphere.",
+      "as": "উল্কা সাধাৰণতে মেছ'স্ফিয়াৰত পুৰি যায়।"
+    }
+  }
+]

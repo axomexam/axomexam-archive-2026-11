@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-186",
+    "q": {
+      "en": "The largest producer of cotton in the world is:",
+      "as": "বিশ্বৰ কপাহৰ আটাইতকৈ ডাঙৰ উৎপাদক হ'ল:"
+    },
+    "options": [
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "China is the largest cotton producer in the world.",
+      "as": "চীন বিশ্বৰ আটাইতকৈ ডাঙৰ কপাহ উৎপাদক।"
+    }
+  }
+]

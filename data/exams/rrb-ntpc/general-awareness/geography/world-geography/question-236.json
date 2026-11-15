@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-236",
+    "q": {
+      "en": "Name the capital of Afghanistan:",
+      "as": "আফগানিস্তানৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Kabul",
+        "as": "কাবুল"
+      },
+      {
+        "en": "Kandahar",
+        "as": "কান্দাহাৰ"
+      },
+      {
+        "en": "Herat",
+        "as": "হেৰাত"
+      },
+      {
+        "en": "Mazar-i-Sharif",
+        "as": "মজাৰ-ই-শৰীফ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kabul serves as the capital of Afghanistan.",
+      "as": "কাবুল আফগানিস্তানৰ ৰাজধানী।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-003",
+    "q": {
+      "en": "The theory that explains the origin of the universe from a single hot, dense point is the:",
+      "as": "এটা একক গৰম, ঘন বিন্দুৰ পৰা বিশ্বব্ৰহ্মাণ্ডৰ উৎপত্তি ব্যাখ্যা কৰা তত্ত্বটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Big Bang theory",
+        "as": "বিগ বেং তত্ত্ব"
+      },
+      {
+        "en": "Steady state theory",
+        "as": "স্থিৰ অৱস্থা তত্ত্ব"
+      },
+      {
+        "en": "Nebular theory",
+        "as": "নীহাৰিকাৰ তত্ত্ব"
+      },
+      {
+        "en": "Pulsating theory",
+        "as": "স্পন্দনশীল তত্ত্ব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Big Bang theory holds that the universe began from an extremely hot, dense state.",
+      "as": "বিগ বেং তত্ত্বই কয় যে বিশ্বব্ৰহ্মাণ্ড অতি গৰম, ঘন অৱস্থাৰ পৰা আৰম্ভ হৈছিল।"
+    }
+  }
+]

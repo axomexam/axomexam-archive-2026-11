@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-281",
+    "q": {
+      "en": "The currency of Bangladesh is the:",
+      "as": "বাংলাদেশৰ মুদ্ৰা হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Rupee",
+        "as": "ৰুপী"
+      },
+      {
+        "en": "Ringgit",
+        "as": "ৰিংগিট"
+      },
+      {
+        "en": "Taka",
+        "as": "টকা"
+      },
+      {
+        "en": "Kyat",
+        "as": "ক্যাট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Bangladeshi currency is the taka.",
+      "as": "বাংলাদেশৰ মুদ্ৰা টকা।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-183",
+    "q": {
+      "en": "The largest producer of wheat in the world is:",
+      "as": "বিশ্বৰ গমৰ আটাইতকৈ ডাঙৰ উৎপাদক হ'ল:"
+    },
+    "options": [
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Russia",
+        "as": "ৰাছিয়া"
+      },
+      {
+        "en": "United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "China is the largest wheat producer in the world.",
+      "as": "চীন বিশ্বৰ আটাইতকৈ ডাঙৰ গম উৎপাদক।"
+    }
+  }
+]

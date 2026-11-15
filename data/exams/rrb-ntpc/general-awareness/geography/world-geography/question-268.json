@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-268",
+    "q": {
+      "en": "Which city is the capital of Ethiopia?",
+      "as": "ইথিঅ'পিয়াৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Dire Dawa",
+        "as": "ডিৰে ডাৱা"
+      },
+      {
+        "en": "Addis Ababa",
+        "as": "আডিছ আবাবা"
+      },
+      {
+        "en": "Gondar",
+        "as": "গণ্ডাৰ"
+      },
+      {
+        "en": "Mekelle",
+        "as": "মেকেলে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Addis Ababa is the capital of Ethiopia.",
+      "as": "আডিছ আবাবা ইথিঅ'পিয়াৰ ৰাজধানী।"
+    }
+  }
+]

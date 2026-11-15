@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-019",
+    "q": {
+      "en": "The number of planets in the solar system is:",
+      "as": "সৌৰজগতত গ্ৰহৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "9",
+        "as": "৯"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "There are eight planets; Pluto was reclassified as a dwarf planet in 2006.",
+      "as": "আঠটা গ্ৰহ আছে; ২০০৬ চনত প্লুট'ক বামন গ্ৰহ হিচাপে শ্ৰেণীবদ্ধ কৰা হৈছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-061",
+    "q": {
+      "en": "The largest plateau in the world is the:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ মালভূমিটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Deccan Plateau",
+        "as": "দাক্ষিণাত্য মালভূমি"
+      },
+      {
+        "en": "Antarctic Plateau",
+        "as": "এণ্টাৰ্কটিক মালভূমি"
+      },
+      {
+        "en": "Iranian Plateau",
+        "as": "ইৰানীয় মালভূমি"
+      },
+      {
+        "en": "Tibetan Plateau",
+        "as": "তিব্বত মালভূমি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Tibetan Plateau is also the largest plateau in the world.",
+      "as": "তিব্বত মালভূমি বিশ্বৰ আটাইতকৈ ডাঙৰ মালভূমিও।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-126",
+    "q": {
+      "en": "The largest island of Japan is:",
+      "as": "জাপানৰ আটাইতকৈ ডাঙৰ দ্বীপটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Hokkaido",
+        "as": "হক্কাইড'"
+      },
+      {
+        "en": "Kyushu",
+        "as": "কিউশু"
+      },
+      {
+        "en": "Honshu",
+        "as": "হনশু"
+      },
+      {
+        "en": "Shikoku",
+        "as": "শিক'কু"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Honshu is the largest and most populous island of Japan.",
+      "as": "হনশু জাপানৰ আটাইতকৈ ডাঙৰ আৰু জনবহুল দ্বীপ।"
+    }
+  }
+]

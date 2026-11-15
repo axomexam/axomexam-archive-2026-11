@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-262",
+    "q": {
+      "en": "The capital of Ireland is:",
+      "as": "আয়াৰলেণ্ডৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Cork",
+        "as": "কৰ্ক"
+      },
+      {
+        "en": "Dublin",
+        "as": "ডাবলিন"
+      },
+      {
+        "en": "Galway",
+        "as": "গলৱে"
+      },
+      {
+        "en": "Limerick",
+        "as": "লিমেৰিক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Dublin is the capital of Ireland.",
+      "as": "ডাবলিন আয়াৰলেণ্ডৰ ৰাজধানী।"
+    }
+  }
+]

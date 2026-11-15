@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-040",
+    "q": {
+      "en": "The International Date Line is located approximately along the longitude of:",
+      "as": "আন্তৰ্জাতিক তাৰিখ ৰেখা প্ৰায় কিমান দ্ৰাঘিমাংশত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "0°",
+        "as": "০°"
+      },
+      {
+        "en": "90° E",
+        "as": "৯০° পূব"
+      },
+      {
+        "en": "90° W",
+        "as": "৯০° পশ্চিম"
+      },
+      {
+        "en": "180°",
+        "as": "১৮০°"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The International Date Line roughly follows the 180° meridian.",
+      "as": "আন্তৰ্জাতিক তাৰিখ ৰেখা প্ৰায় ১৮০° মধ্যৰেখা অনুসৰণ কৰে।"
+    }
+  }
+]

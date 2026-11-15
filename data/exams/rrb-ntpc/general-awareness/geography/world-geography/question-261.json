@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-261",
+    "q": {
+      "en": "Which city is the capital of Denmark?",
+      "as": "ডেনমাৰ্কৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Aarhus",
+        "as": "আৰহাছ"
+      },
+      {
+        "en": "Odense",
+        "as": "ওডেন্সে"
+      },
+      {
+        "en": "Aalborg",
+        "as": "আলবৰ্গ"
+      },
+      {
+        "en": "Copenhagen",
+        "as": "কোপেনহেগেন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Copenhagen is the capital of Denmark.",
+      "as": "কোপেনহেগেন ডেনমাৰ্কৰ ৰাজধানী।"
+    }
+  }
+]

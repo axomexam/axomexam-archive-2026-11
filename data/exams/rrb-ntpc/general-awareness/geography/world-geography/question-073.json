@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-073",
+    "q": {
+      "en": "The largest coral reef system in the world is the:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ প্ৰৱাল প্ৰাচীৰ প্ৰণালীটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Maldives Reef",
+        "as": "মালদ্বীপ প্ৰাচীৰ"
+      },
+      {
+        "en": "Red Sea Coral Reef",
+        "as": "লোহিত সাগৰ প্ৰৱাল প্ৰাচীৰ"
+      },
+      {
+        "en": "Great Barrier Reef",
+        "as": "মহান বেৰিয়াৰ প্ৰাচীৰ"
+      },
+      {
+        "en": "Belize Barrier Reef",
+        "as": "বেলিজ বেৰিয়াৰ প্ৰাচীৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Great Barrier Reef lies off the coast of Queensland, Australia.",
+      "as": "মহান বেৰিয়াৰ প্ৰাচীৰ অষ্ট্ৰেলিয়াৰ কুইন্সলেণ্ড উপকূলৰ ওচৰত অৱস্থিত।"
+    }
+  }
+]

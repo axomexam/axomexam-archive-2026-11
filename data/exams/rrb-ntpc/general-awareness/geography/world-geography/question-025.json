@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-025",
+    "q": {
+      "en": "The planets Jupiter, Saturn, Uranus and Neptune are together called:",
+      "as": "বৃহস্পতি, শনি, ইউৰেনাছ আৰু নেপচুন গ্ৰহবোৰক একেলগে কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Terrestrial planets",
+        "as": "স্থলজ গ্ৰহ"
+      },
+      {
+        "en": "Jovian planets",
+        "as": "জোভিয়ান গ্ৰহ"
+      },
+      {
+        "en": "Dwarf planets",
+        "as": "বামন গ্ৰহ"
+      },
+      {
+        "en": "Inner planets",
+        "as": "ভিতৰৰ গ্ৰহ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Jovian, or giant, planets are largely made of gas and ice.",
+      "as": "জোভিয়ান, বা দানৱ, গ্ৰহবোৰ মূলতঃ গেছ আৰু বৰফেৰে গঠিত।"
+    }
+  }
+]

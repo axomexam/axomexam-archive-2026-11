@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-102",
+    "q": {
+      "en": "The Kalahari Desert is located in:",
+      "as": "কালাহাৰি মৰুভূমি ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Southern Africa",
+        "as": "দক্ষিণ আফ্ৰিকা"
+      },
+      {
+        "en": "North Africa",
+        "as": "উত্তৰ আফ্ৰিকা"
+      },
+      {
+        "en": "East Asia",
+        "as": "পূব এছিয়া"
+      },
+      {
+        "en": "South America",
+        "as": "দক্ষিণ আমেৰিকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Kalahari Desert lies in southern Africa, mainly in Botswana.",
+      "as": "কালাহাৰি মৰুভূমি দক্ষিণ আফ্ৰিকাত, মূলতঃ বৎচোৱানাত অৱস্থিত।"
+    }
+  }
+]

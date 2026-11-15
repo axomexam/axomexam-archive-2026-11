@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-008",
+    "q": {
+      "en": "The star nearest to the Earth after the Sun is:",
+      "as": "সূৰ্যৰ পিছত পৃথিৱীৰ আটাইতকৈ ওচৰৰ তৰাটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Sirius",
+        "as": "লুব্ধক"
+      },
+      {
+        "en": "Polaris",
+        "as": "ধ্ৰুৱতৰা"
+      },
+      {
+        "en": "Proxima Centauri",
+        "as": "প্ৰক্সিমা চেণ্টৰি"
+      },
+      {
+        "en": "Vega",
+        "as": "অভিজিৎ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Proxima Centauri, about 4.24 light years away, is the nearest star after the Sun.",
+      "as": "প্ৰক্সিমা চেণ্টৰি, প্ৰায় ৪.২৪ আলোকবৰ্ষ দূৰত, সূৰ্যৰ পিছত আটাইতকৈ ওচৰৰ তৰা।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-108",
+    "q": {
+      "en": "The highest mountain peak of North America is:",
+      "as": "উত্তৰ আমেৰিকাৰ আটাইতকৈ ওখ পৰ্বত শিখৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mount Logan",
+        "as": "মাউণ্ট লোগান"
+      },
+      {
+        "en": "Mount Whitney",
+        "as": "মাউণ্ট হুইটনি"
+      },
+      {
+        "en": "Mount Elbert",
+        "as": "মাউণ্ট এলবাৰ্ট"
+      },
+      {
+        "en": "Mount Denali",
+        "as": "মাউণ্ট ডেনালি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Denali (Mount McKinley) in Alaska is the highest peak in North America.",
+      "as": "আলাস্কাৰ ডেনালি (মাউণ্ট মেকিন্লি) উত্তৰ আমেৰিকাৰ আটাইতকৈ ওখ শিখৰ।"
+    }
+  }
+]

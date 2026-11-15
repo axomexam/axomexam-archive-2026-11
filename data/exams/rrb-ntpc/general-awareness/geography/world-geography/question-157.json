@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-157",
+    "q": {
+      "en": "The tropical cyclone known as a hurricane in the Atlantic is called a typhoon in the:",
+      "as": "আটলান্টিকত হাৰিকেন নামেৰে জনাজাত ক্ৰান্তীয় ঘূৰ্ণীবতাহক ক'ত টাইফুন বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Indian Ocean",
+        "as": "ভাৰত মহাসাগৰ"
+      },
+      {
+        "en": "Arctic Ocean",
+        "as": "উত্তৰ মহাসাগৰ"
+      },
+      {
+        "en": "South Atlantic",
+        "as": "দক্ষিণ আটলান্টিক"
+      },
+      {
+        "en": "Western Pacific",
+        "as": "পশ্চিম প্ৰশান্ত মহাসাগৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In the western Pacific, tropical cyclones are called typhoons.",
+      "as": "পশ্চিম প্ৰশান্ত মহাসাগৰত ক্ৰান্তীয় ঘূৰ্ণীবতাহক টাইফুন বোলা হয়।"
+    }
+  }
+]

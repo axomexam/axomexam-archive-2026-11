@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-168",
+    "q": {
+      "en": "The temperature at which air becomes saturated and water vapour condenses is the:",
+      "as": "যি উষ্ণতাত বায়ু সম্পৃক্ত হৈ জলীয় বাষ্প ঘনীভূত হয় তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Dew point",
+        "as": "শিশিৰ বিন্দু"
+      },
+      {
+        "en": "Boiling point",
+        "as": "উতলাংক"
+      },
+      {
+        "en": "Freezing point",
+        "as": "হিমাংক"
+      },
+      {
+        "en": "Melting point",
+        "as": "গলনাংক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The dew point is the temperature at which condensation begins.",
+      "as": "শিশিৰ বিন্দু হ'ল যি উষ্ণতাত ঘনীভৱন আৰম্ভ হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-238",
+    "q": {
+      "en": "Which city is the capital of Iran?",
+      "as": "ইৰানৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Tehran",
+        "as": "তেহৰাণ"
+      },
+      {
+        "en": "Isfahan",
+        "as": "ইছফাহান"
+      },
+      {
+        "en": "Shiraz",
+        "as": "শিৰাজ"
+      },
+      {
+        "en": "Tabriz",
+        "as": "তাব্ৰিজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tehran is the capital of Iran.",
+      "as": "তেহৰাণ ইৰানৰ ৰাজধানী।"
+    }
+  }
+]

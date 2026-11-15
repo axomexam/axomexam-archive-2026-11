@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-043",
+    "q": {
+      "en": "The smallest ocean of the world is the:",
+      "as": "বিশ্বৰ আটাইতকৈ সৰু মহাসাগৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Indian Ocean",
+        "as": "ভাৰত মহাসাগৰ"
+      },
+      {
+        "en": "Atlantic Ocean",
+        "as": "আটলান্টিক মহাসাগৰ"
+      },
+      {
+        "en": "Arctic Ocean",
+        "as": "উত্তৰ মহাসাগৰ"
+      },
+      {
+        "en": "Southern Ocean",
+        "as": "দক্ষিণ মহাসাগৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Arctic Ocean is the smallest of the world's oceans.",
+      "as": "উত্তৰ মহাসাগৰ বিশ্বৰ মহাসাগৰবোৰৰ ভিতৰত আটাইতকৈ সৰু।"
+    }
+  }
+]

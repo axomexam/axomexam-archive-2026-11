@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-256",
+    "q": {
+      "en": "The capital city of Greece is:",
+      "as": "গ্ৰীচৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Athens",
+        "as": "এথেন্স"
+      },
+      {
+        "en": "Thessaloniki",
+        "as": "থেচাল'নিকি"
+      },
+      {
+        "en": "Patras",
+        "as": "পাট্ৰাছ"
+      },
+      {
+        "en": "Heraklion",
+        "as": "হেৰাক্লিয়ন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Athens has Greece as its capital.",
+      "as": "এথেন্স গ্ৰীচৰ ৰাজধানী।"
+    }
+  }
+]

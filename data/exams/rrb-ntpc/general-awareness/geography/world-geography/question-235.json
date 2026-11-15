@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-235",
+    "q": {
+      "en": "Myanmar has its capital at:",
+      "as": "ম্যানমাৰৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Yangon",
+        "as": "য়াংগুন"
+      },
+      {
+        "en": "Naypyidaw",
+        "as": "নেপিড'"
+      },
+      {
+        "en": "Mandalay",
+        "as": "মাণ্ডালে"
+      },
+      {
+        "en": "Bago",
+        "as": "বাগ'"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The capital city of Naypyidaw is Myanmar.",
+      "as": "নেপিড' ম্যানমাৰৰ ৰাজধানী।"
+    }
+  }
+]

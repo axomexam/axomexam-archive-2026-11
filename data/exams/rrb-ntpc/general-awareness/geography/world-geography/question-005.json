@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-005",
+    "q": {
+      "en": "A huge system of stars, dust and gas bound by gravity is called a:",
+      "as": "মাধ্যাকৰ্ষণে বান্ধি ৰখা তৰা, ধূলি আৰু গেছৰ বিশাল প্ৰণালীক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Galaxy",
+        "as": "তাৰকাপুঞ্জ"
+      },
+      {
+        "en": "Constellation",
+        "as": "নক্ষত্ৰপুঞ্জ"
+      },
+      {
+        "en": "Nebula",
+        "as": "নীহাৰিকা"
+      },
+      {
+        "en": "Asteroid",
+        "as": "গ্ৰহাণু"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A galaxy is a vast gravitationally bound system of stars, gas and dust.",
+      "as": "তাৰকাপুঞ্জ হ'ল তৰা, গেছ আৰু ধূলিৰ এটা বিশাল মাধ্যাকৰ্ষণ-বদ্ধ প্ৰণালী।"
+    }
+  }
+]

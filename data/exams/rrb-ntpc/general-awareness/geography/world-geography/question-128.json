@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-128",
+    "q": {
+      "en": "The country that lies on both sides of the Equator and is called a 'coffee country' of South America is:",
+      "as": "বিষুৱৰেখাৰ দুয়োফালে অৱস্থিত আৰু দক্ষিণ আমেৰিকাৰ 'কফি দেশ' নামেৰে জনাজাত দেশখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Argentina",
+        "as": "আৰ্জেণ্টিনা"
+      },
+      {
+        "en": "Chile",
+        "as": "চিলি"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
+      },
+      {
+        "en": "Peru",
+        "as": "পেৰু"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Brazil lies across the Equator and is the world's largest coffee producer.",
+      "as": "ব্ৰাজিল বিষুৱৰেখাৰ দুয়োফালে অৱস্থিত আৰু বিশ্বৰ আটাইতকৈ ডাঙৰ কফি উৎপাদক।"
+    }
+  }
+]

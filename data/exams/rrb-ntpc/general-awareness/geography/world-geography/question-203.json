@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-203",
+    "q": {
+      "en": "The largest petroleum refinery in the world is located in:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ পেট্ৰ'লিয়াম শোধনাগাৰটো ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Saudi Arabia",
+        "as": "চৌদি আৰৱ"
+      },
+      {
+        "en": "Russia",
+        "as": "ৰাছিয়া"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Jamnagar refinery in India is the largest refining complex in the world.",
+      "as": "ভাৰতৰ জামনগৰ শোধনাগাৰ বিশ্বৰ আটাইতকৈ ডাঙৰ শোধন কমপ্লেক্স।"
+    }
+  }
+]

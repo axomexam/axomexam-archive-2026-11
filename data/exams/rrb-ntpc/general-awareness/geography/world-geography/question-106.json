@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-106",
+    "q": {
+      "en": "The Amazon rainforest is often called the:",
+      "as": "আমাজন বৰষুণ বনক প্ৰায়ে কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Roof of the World",
+        "as": "পৃথিৱীৰ চাল"
+      },
+      {
+        "en": "Lungs of the Earth",
+        "as": "পৃথিৱীৰ হাওঁফাওঁ"
+      },
+      {
+        "en": "Garden of Eden",
+        "as": "ইডেন উদ্যান"
+      },
+      {
+        "en": "Granary of the World",
+        "as": "পৃথিৱীৰ ভঁৰাল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Amazon rainforest is called the lungs of the Earth for producing oxygen.",
+      "as": "অক্সিজেন উৎপাদন কৰাৰ বাবে আমাজন বৰষুণ বনক পৃথিৱীৰ হাওঁফাওঁ বোলা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-098",
+    "q": {
+      "en": "The largest lake of Africa is:",
+      "as": "আফ্ৰিকাৰ আটাইতকৈ ডাঙৰ হ্ৰদটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lake Tanganyika",
+        "as": "টাংগানিকা হ্ৰদ"
+      },
+      {
+        "en": "Lake Malawi",
+        "as": "মালাৱী হ্ৰদ"
+      },
+      {
+        "en": "Lake Victoria",
+        "as": "ভিক্ট'ৰিয়া হ্ৰদ"
+      },
+      {
+        "en": "Lake Chad",
+        "as": "চাদ হ্ৰদ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Lake Victoria is the largest lake in Africa and a source of the Nile.",
+      "as": "ভিক্ট'ৰিয়া হ্ৰদ আফ্ৰিকাৰ আটাইতকৈ ডাঙৰ হ্ৰদ আৰু নীল নদীৰ এটা উৎস।"
+    }
+  }
+]

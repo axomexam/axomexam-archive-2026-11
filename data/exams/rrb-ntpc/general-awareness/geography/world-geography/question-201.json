@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-201",
+    "q": {
+      "en": "The largest rice-exporting country in the world is often:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ ধান ৰপ্তানিকাৰী দেশখন প্ৰায়ে:"
+    },
+    "options": [
+      {
+        "en": "Thailand",
+        "as": "থাইলেণ্ড"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Vietnam",
+        "as": "ভিয়েটনাম"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "India is a leading exporter of rice in the world.",
+      "as": "ভাৰত বিশ্বৰ এটা আগশাৰীৰ ধান ৰপ্তানিকাৰী।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-116",
+    "q": {
+      "en": "The Alps mountain range is located in:",
+      "as": "আল্পছ পৰ্বত শ্ৰেণী ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Asia",
+        "as": "এছিয়া"
+      },
+      {
+        "en": "Europe",
+        "as": "ইউৰোপ"
+      },
+      {
+        "en": "Africa",
+        "as": "আফ্ৰিকা"
+      },
+      {
+        "en": "South America",
+        "as": "দক্ষিণ আমেৰিকা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Alps extend across several countries of southern Europe.",
+      "as": "আল্পছে দক্ষিণ ইউৰোপৰ কেইবাখনো দেশত বিস্তৃত।"
+    }
+  }
+]

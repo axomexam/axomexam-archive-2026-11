@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-274",
+    "q": {
+      "en": "The currency of the United States is the:",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰৰ মুদ্ৰা হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Pound",
+        "as": "পাউণ্ড"
+      },
+      {
+        "en": "Euro",
+        "as": "ইউৰ'"
+      },
+      {
+        "en": "Yen",
+        "as": "য়েন"
+      },
+      {
+        "en": "Dollar",
+        "as": "ডলাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The US currency is the dollar.",
+      "as": "আমেৰিকা যুক্তৰাষ্ট্ৰৰ মুদ্ৰা ডলাৰ।"
+    }
+  }
+]

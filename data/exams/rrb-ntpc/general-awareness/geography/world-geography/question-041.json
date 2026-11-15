@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-041",
+    "q": {
+      "en": "The total number of standard time zones in the world is:",
+      "as": "বিশ্বত মুঠ প্ৰামাণিক সময় অঞ্চলৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "24",
+        "as": "২৪"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "36",
+        "as": "৩৬"
+      },
+      {
+        "en": "48",
+        "as": "৪৮"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The world is divided into 24 standard time zones of one hour each.",
+      "as": "বিশ্বক ২৪ টা প্ৰামাণিক সময় অঞ্চলত ভাগ কৰা হৈছে, প্ৰতিটো এক ঘণ্টাৰ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-136",
+    "q": {
+      "en": "The layer of the atmosphere closest to the Earth's surface is the:",
+      "as": "পৃথিৱীৰ পৃষ্ঠৰ আটাইতকৈ ওচৰৰ বায়ুমণ্ডলৰ স্তৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Stratosphere",
+        "as": "ষ্ট্ৰেট'স্ফিয়াৰ"
+      },
+      {
+        "en": "Mesosphere",
+        "as": "মেছ'স্ফিয়াৰ"
+      },
+      {
+        "en": "Thermosphere",
+        "as": "থাৰ্ম'স্ফিয়াৰ"
+      },
+      {
+        "en": "Troposphere",
+        "as": "ট্ৰ'প'স্ফিয়াৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The troposphere is where most weather occurs.",
+      "as": "ট্ৰ'প'স্ফিয়াৰত বেছিভাগ বতৰৰ পৰিঘটনা ঘটে।"
+    }
+  }
+]

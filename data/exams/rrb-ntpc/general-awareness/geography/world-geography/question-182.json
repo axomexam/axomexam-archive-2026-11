@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-182",
+    "q": {
+      "en": "The largest producer of rice in the world is:",
+      "as": "বিশ্বৰ ধানৰ আটাইতকৈ ডাঙৰ উৎপাদক হ'ল:"
+    },
+    "options": [
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "Indonesia",
+        "as": "ইন্দোনেছিয়া"
+      },
+      {
+        "en": "Bangladesh",
+        "as": "বাংলাদেশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "China is the largest rice producer in the world.",
+      "as": "চীন বিশ্বৰ আটাইতকৈ ডাঙৰ ধান উৎপাদক।"
+    }
+  }
+]

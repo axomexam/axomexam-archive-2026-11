@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-131",
+    "q": {
+      "en": "The phenomenon in which the Sun does not set for days in polar regions is called the:",
+      "as": "মেৰু অঞ্চলত কেইবাদিন ধৰি সূৰ্য অস্ত নোযোৱা পৰিঘটনাটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Aurora",
+        "as": "অ'ৰ'ৰা"
+      },
+      {
+        "en": "Midnight sun",
+        "as": "মধ্যৰাতিৰ সূৰ্য"
+      },
+      {
+        "en": "Solar eclipse",
+        "as": "সূৰ্যগ্ৰহণ"
+      },
+      {
+        "en": "Equinox",
+        "as": "বিষুব"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The midnight sun is seen in polar regions during summer.",
+      "as": "গ্ৰীষ্মকালত মেৰু অঞ্চলত মধ্যৰাতিৰ সূৰ্য দেখা যায়।"
+    }
+  }
+]

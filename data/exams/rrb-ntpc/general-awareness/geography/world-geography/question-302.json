@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-302",
+    "q": {
+      "en": "The process by which wind and water wear away rocks and soil is called:",
+      "as": "বতাহ আৰু পানীয়ে শিল আৰু মাটি ক্ষয় কৰা প্ৰক্ৰিয়াটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Deposition",
+        "as": "সঞ্চয়"
+      },
+      {
+        "en": "Erosion",
+        "as": "ক্ষয়"
+      },
+      {
+        "en": "Condensation",
+        "as": "ঘনীভৱন"
+      },
+      {
+        "en": "Evaporation",
+        "as": "বাষ্পীভৱন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Erosion is the wearing away and removal of land surface material.",
+      "as": "ক্ষয় হ'ল ভূমি পৃষ্ঠৰ পদাৰ্থ ক্ষয় হৈ আঁতৰি যোৱা।"
+    }
+  }
+]

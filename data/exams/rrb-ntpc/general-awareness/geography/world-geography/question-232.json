@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-232",
+    "q": {
+      "en": "Which city is the capital of Bhutan?",
+      "as": "ভুটানৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Paro",
+        "as": "পাৰ'"
+      },
+      {
+        "en": "Punakha",
+        "as": "পুনাখা"
+      },
+      {
+        "en": "Thimphu",
+        "as": "থিম্পু"
+      },
+      {
+        "en": "Phuentsholing",
+        "as": "ফুৱেণ্টশ'লিং"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Thimphu is the capital of Bhutan.",
+      "as": "থিম্পু ভুটানৰ ৰাজধানী।"
+    }
+  }
+]

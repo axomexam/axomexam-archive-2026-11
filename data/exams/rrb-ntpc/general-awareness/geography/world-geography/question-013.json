@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-013",
+    "q": {
+      "en": "The hottest planet of the solar system is:",
+      "as": "সৌৰজগতৰ আটাইতকৈ গৰম গ্ৰহটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mercury",
+        "as": "বুধ"
+      },
+      {
+        "en": "Mars",
+        "as": "মঙ্গল"
+      },
+      {
+        "en": "Jupiter",
+        "as": "বৃহস্পতি"
+      },
+      {
+        "en": "Venus",
+        "as": "শুক্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Venus is the hottest planet because of its thick carbon dioxide atmosphere.",
+      "as": "শুক্ৰৰ ঘন কাৰ্বন ডাইঅক্সাইড বায়ুমণ্ডলৰ বাবে ই আটাইতকৈ গৰম গ্ৰহ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-024",
+    "q": {
+      "en": "The planets orbiting inside the asteroid belt are known as the:",
+      "as": "সূৰ্য আৰু গ্ৰহাণু পটীৰ মাজত থকা গ্ৰহবোৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Outer planets",
+        "as": "বাহিৰৰ গ্ৰহ"
+      },
+      {
+        "en": "Dwarf planets",
+        "as": "বামন গ্ৰহ"
+      },
+      {
+        "en": "Gas giants",
+        "as": "গেছ দানৱ"
+      },
+      {
+        "en": "Inner planets",
+        "as": "ভিতৰৰ গ্ৰহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Mercury, Venus, Earth and Mars form the inner group of terrestrial planets.",
+      "as": "বুধ, শুক্ৰ, পৃথিৱী আৰু মঙ্গল হ'ল ভিতৰৰ, বা স্থলজ, গ্ৰহ।"
+    }
+  }
+]

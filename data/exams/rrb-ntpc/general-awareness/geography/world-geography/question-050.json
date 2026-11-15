@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-050",
+    "q": {
+      "en": "The coldest continent of the world is:",
+      "as": "বিশ্বৰ আটাইতকৈ ঠাণ্ডা মহাদেশটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Antarctica",
+        "as": "এণ্টাৰ্কটিকা"
+      },
+      {
+        "en": "Europe",
+        "as": "ইউৰোপ"
+      },
+      {
+        "en": "Asia",
+        "as": "এছিয়া"
+      },
+      {
+        "en": "North America",
+        "as": "উত্তৰ আমেৰিকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Antarctica is the coldest, windiest and driest continent.",
+      "as": "এণ্টাৰ্কটিকা আটাইতকৈ ঠাণ্ডা, ধুমুহাময় আৰু শুকান মহাদেশ।"
+    }
+  }
+]

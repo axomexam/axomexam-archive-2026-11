@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-004",
+    "q": {
+      "en": "The branch of science that studies stars, planets and galaxies is called:",
+      "as": "তৰা, গ্ৰহ আৰু তাৰকাপুঞ্জ অধ্যয়ন কৰা বিজ্ঞানৰ শাখাটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Geology",
+        "as": "ভূতত্ত্ব"
+      },
+      {
+        "en": "Ecology",
+        "as": "পৰিৱেশবিজ্ঞান"
+      },
+      {
+        "en": "Astronomy",
+        "as": "জ্যোতিৰ্বিজ্ঞান"
+      },
+      {
+        "en": "Biology",
+        "as": "জীৱবিজ্ঞান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Astronomy studies celestial objects such as stars, planets and galaxies.",
+      "as": "জ্যোতিৰ্বিজ্ঞানে তৰা, গ্ৰহ আৰু তাৰকাপুঞ্জৰ দৰে মহাকাশীয় বস্তু অধ্যয়ন কৰে।"
+    }
+  }
+]

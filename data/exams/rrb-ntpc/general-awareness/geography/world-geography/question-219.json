@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-219",
+    "q": {
+      "en": "Which city serves as the capital of Switzerland?",
+      "as": "ছুইজাৰলেণ্ডৰ ৰাজধানী হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Zurich",
+        "as": "জুৰিখ"
+      },
+      {
+        "en": "Bern",
+        "as": "বেৰ্ন"
+      },
+      {
+        "en": "Geneva",
+        "as": "জেনেভা"
+      },
+      {
+        "en": "Basel",
+        "as": "বাজেল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The seat of government of Bern is Switzerland.",
+      "as": "বেৰ্ন ছুইজাৰলেণ্ডৰ ৰাজধানী।"
+    }
+  }
+]

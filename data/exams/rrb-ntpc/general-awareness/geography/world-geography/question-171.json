@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-171",
+    "q": {
+      "en": "The normal atmospheric pressure at sea level is about:",
+      "as": "সমুদ্ৰপৃষ্ঠত স্বাভাৱিক বায়ুমণ্ডলীয় চাপ প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "760 millibars",
+        "as": "৭৬০ মিলিবাৰ"
+      },
+      {
+        "en": "1013 millibars",
+        "as": "১০১৩ মিলিবাৰ"
+      },
+      {
+        "en": "500 millibars",
+        "as": "৫০০ মিলিবাৰ"
+      },
+      {
+        "en": "1500 millibars",
+        "as": "১৫০০ মিলিবাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Standard sea-level pressure is about 1013 millibars or 760 mm of mercury.",
+      "as": "প্ৰামাণিক সমুদ্ৰপৃষ্ঠ চাপ প্ৰায় ১০১৩ মিলিবাৰ বা ৭৬০ মি.মি. পাৰদ।"
+    }
+  }
+]

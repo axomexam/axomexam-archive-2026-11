@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-071",
+    "q": {
+      "en": "The biggest island on Earth is:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ দ্বীপটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "New Guinea",
+        "as": "নিউ গিনি"
+      },
+      {
+        "en": "Borneo",
+        "as": "বৰ্ণিঅ'"
+      },
+      {
+        "en": "Madagascar",
+        "as": "মাদাগাস্কাৰ"
+      },
+      {
+        "en": "Greenland",
+        "as": "গ্ৰীনলেণ্ড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Greenland is the biggest island on Earth.",
+      "as": "গ্ৰীনলেণ্ড বিশ্বৰ আটাইতকৈ ডাঙৰ দ্বীপ।"
+    }
+  }
+]

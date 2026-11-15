@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-193",
+    "q": {
+      "en": "The largest steel-producing country in the world is:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ ইস্পাত উৎপাদক দেশখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "China is by far the largest steel producer in the world.",
+      "as": "চীন বহু পৰিমাণে বিশ্বৰ আটাইতকৈ ডাঙৰ ইস্পাত উৎপাদক।"
+    }
+  }
+]

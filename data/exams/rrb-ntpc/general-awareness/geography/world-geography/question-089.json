@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-089",
+    "q": {
+      "en": "The biggest country on Earth by area is:",
+      "as": "কালিৰ হিচাপত বিশ্বৰ আটাইতকৈ ডাঙৰ দেশখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Canada",
+        "as": "কানাডা"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      },
+      {
+        "en": "United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      },
+      {
+        "en": "Russia",
+        "as": "ৰাছিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "By area, Russia is the biggest country on Earth.",
+      "as": "কালিৰ হিচাপত ৰাছিয়া বিশ্বৰ আটাইতকৈ ডাঙৰ দেশ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-297",
+    "q": {
+      "en": "The largest delta in the world is the:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ দ্বীপমুখটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Nile delta",
+        "as": "নীল দ্বীপমুখ"
+      },
+      {
+        "en": "Mississippi delta",
+        "as": "মিছিছিপি দ্বীপমুখ"
+      },
+      {
+        "en": "Sundarbans delta",
+        "as": "সুন্দৰবন দ্বীপমুখ"
+      },
+      {
+        "en": "Mekong delta",
+        "as": "মেকং দ্বীপমুখ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Ganga-Brahmaputra delta, including the Sundarbans, is the largest.",
+      "as": "সুন্দৰবনকে ধৰি গংগা-ব্ৰহ্মপুত্ৰ দ্বীপমুখ আটাইতকৈ ডাঙৰ।"
+    }
+  }
+]

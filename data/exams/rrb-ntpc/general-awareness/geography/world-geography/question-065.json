@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-065",
+    "q": {
+      "en": "The deepest lake in the world is:",
+      "as": "বিশ্বৰ আটাইতকৈ গভীৰ হ্ৰদটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Lake Superior",
+        "as": "ছুপেৰিয়ৰ হ্ৰদ"
+      },
+      {
+        "en": "Lake Tanganyika",
+        "as": "টাংগানিকা হ্ৰদ"
+      },
+      {
+        "en": "Caspian Sea",
+        "as": "কেছপিয়ান সাগৰ"
+      },
+      {
+        "en": "Lake Baikal",
+        "as": "বৈকাল হ্ৰদ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Lake Baikal in Russia is the deepest and oldest freshwater lake.",
+      "as": "ৰাছিয়াৰ বৈকাল হ্ৰদ আটাইতকৈ গভীৰ আৰু পুৰণি মিঠা পানীৰ হ্ৰদ।"
+    }
+  }
+]

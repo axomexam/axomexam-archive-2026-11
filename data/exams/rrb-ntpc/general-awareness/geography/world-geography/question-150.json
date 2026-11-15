@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-150",
+    "q": {
+      "en": "The winds that blow from the subtropical high pressure towards the Equator are:",
+      "as": "উপক্ৰান্তীয় উচ্চ চাপৰ পৰা বিষুৱৰেখালৈ বৈ যোৱা বতাহবোৰ হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Westerlies",
+        "as": "পশ্চিমীয়া বতাহ"
+      },
+      {
+        "en": "Polar winds",
+        "as": "মেৰু বতাহ"
+      },
+      {
+        "en": "Trade winds",
+        "as": "ব্যৱসায়ী বতাহ"
+      },
+      {
+        "en": "Monsoon",
+        "as": "মৌচুমী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Trade winds blow from the subtropical highs towards the Equator.",
+      "as": "ব্যৱসায়ী বতাহ উপক্ৰান্তীয় উচ্চ চাপৰ পৰা বিষুৱৰেখালৈ বৈ যায়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-072",
+    "q": {
+      "en": "The largest archipelago in the world is:",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ দ্বীপপুঞ্জটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Philippines",
+        "as": "ফিলিপাইনছ"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      },
+      {
+        "en": "Maldives",
+        "as": "মালদ্বীপ"
+      },
+      {
+        "en": "Indonesia",
+        "as": "ইন্দোনেছিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Indonesia is the largest archipelago in the world.",
+      "as": "ইন্দোনেছিয়া বিশ্বৰ আটাইতকৈ ডাঙৰ দ্বীপপুঞ্জ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-111",
+    "q": {
+      "en": "The Grand Canyon is located in:",
+      "as": "গ্ৰেণ্ড কেঞিয়ন ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Canada",
+        "as": "কানাডা"
+      },
+      {
+        "en": "Mexico",
+        "as": "মেক্সিক'"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
+      },
+      {
+        "en": "United States",
+        "as": "আমেৰিকা যুক্তৰাষ্ট্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Grand Canyon, carved by the Colorado river, is in the United States.",
+      "as": "কলোৰাড' নদীয়ে খোদিত গ্ৰেণ্ড কেঞিয়ন আমেৰিকা যুক্তৰাষ্ট্ৰত অৱস্থিত।"
+    }
+  }
+]

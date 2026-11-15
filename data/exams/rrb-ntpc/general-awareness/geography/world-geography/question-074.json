@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-074",
+    "q": {
+      "en": "The sea that lies between Europe and Africa is the:",
+      "as": "ইউৰোপ আৰু আফ্ৰিকাৰ মাজত অৱস্থিত সাগৰটো হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Mediterranean Sea",
+        "as": "ভূমধ্য সাগৰ"
+      },
+      {
+        "en": "Red Sea",
+        "as": "লোহিত সাগৰ"
+      },
+      {
+        "en": "Black Sea",
+        "as": "কৃষ্ণ সাগৰ"
+      },
+      {
+        "en": "Baltic Sea",
+        "as": "বাল্টিক সাগৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Mediterranean Sea separates Europe from Africa.",
+      "as": "ভূমধ্য সাগৰে ইউৰোপক আফ্ৰিকাৰ পৰা পৃথক কৰে।"
+    }
+  }
+]

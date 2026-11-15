@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-296",
+    "q": {
+      "en": "The triangular land formed at the mouth of a river by deposited sediment is a:",
+      "as": "নদীৰ মুখত জমা পলসে গঠন কৰা ত্ৰিভুজীয় মাটিখিনিক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Estuary",
+        "as": "মোহনা"
+      },
+      {
+        "en": "Canyon",
+        "as": "গিৰিখাত"
+      },
+      {
+        "en": "Delta",
+        "as": "দ্বীপমুখ"
+      },
+      {
+        "en": "Lagoon",
+        "as": "লেগুন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A delta forms where a river deposits sediment at its mouth.",
+      "as": "নদীয়ে ইয়াৰ মুখত পলস জমা কৰিলে দ্বীপমুখ গঠন হয়।"
+    }
+  }
+]

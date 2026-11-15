@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-092",
+    "q": {
+      "en": "The country with the largest land border in the world, touching the most countries, is:",
+      "as": "বিশ্বত আটাইতকৈ বেছি দেশৰ সৈতে সীমা ভাগ কৰা দেশখন হ'ল:"
+    },
+    "options": [
+      {
+        "en": "Russia",
+        "as": "ৰাছিয়া"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
+      },
+      {
+        "en": "India",
+        "as": "ভাৰত"
+      },
+      {
+        "en": "China",
+        "as": "চীন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "China shares its land border with 14 countries, the most of any nation.",
+      "as": "চীনে ১৪ খন দেশৰ সৈতে স্থল সীমা ভাগ কৰে, যি যিকোনো দেশতকৈ বেছি।"
+    }
+  }
+]

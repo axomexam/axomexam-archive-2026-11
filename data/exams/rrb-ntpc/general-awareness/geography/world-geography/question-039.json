@@ -1,0 +1,32 @@
+[
+  {
+    "id": "world-geography-039",
+    "q": {
+      "en": "The longitude passing through Greenwich is called the:",
+      "as": "গ্ৰীণউইচৰ মাজেৰে যোৱা দ্ৰাঘিমাংশক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Prime Meridian",
+        "as": "মূল মধ্যৰেখা"
+      },
+      {
+        "en": "Equator",
+        "as": "বিষুৱৰেখা"
+      },
+      {
+        "en": "Tropic of Cancer",
+        "as": "কৰ্কটক্ৰান্তি"
+      },
+      {
+        "en": "Date Line",
+        "as": "তাৰিখ ৰেখা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Prime Meridian at 0° longitude passes through Greenwich, London.",
+      "as": "০° দ্ৰাঘিমাংশৰ মূল মধ্যৰেখা লণ্ডনৰ গ্ৰীণউইচৰ মাজেৰে যায়।"
+    }
+  }
+]
