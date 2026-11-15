@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-024",
+    "q": {
+      "en": "Where is the headquarters of Oil India Limited located?",
+      "as": "তেল ইণ্ডিয়া লিমিটেডৰ সদৰ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Duliajan",
+        "as": "ডুলিয়াজান"
+      },
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাট"
+      },
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Oil India Limited has its headquarters at Duliajan in Dibrugarh district of Assam.",
+      "as": "তেল ইণ্ডিয়া লিমিটেডৰ সদৰ অসমৰ ডিব্ৰুগড় জিলাৰ ডুলিয়াজানত।"
+    }
+  }
+]

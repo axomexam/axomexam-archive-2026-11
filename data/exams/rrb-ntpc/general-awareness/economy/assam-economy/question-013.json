@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-013",
+    "q": {
+      "en": "Which is an important commercial crop of Assam besides tea?",
+      "as": "চাহৰ উপৰিও অসমৰ এটা গুৰুত্বপূৰ্ণ বাণিজ্যিক শস্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Coffee",
+        "as": "কফি"
+      },
+      {
+        "en": "Rubber",
+        "as": "ৰবৰ"
+      },
+      {
+        "en": "Jute",
+        "as": "পাট"
+      },
+      {
+        "en": "Coconut",
+        "as": "নাৰিকল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jute is an important commercial crop of Assam, especially in the Barak valley and parts of lower Assam.",
+      "as": "পাট অসমৰ এটা গুৰুত্বপূৰ্ণ বাণিজ্যিক শস্য, বিশেষকৈ বৰাক উপত্যকা আৰু নামনি অসমৰ কিছুমান অংশত।"
+    }
+  }
+]

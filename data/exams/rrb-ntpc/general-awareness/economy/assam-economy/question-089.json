@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-089",
+    "q": {
+      "en": "Which cultural site of Assam is famous for its Vaishnavite monasteries?",
+      "as": "অসমৰ কোন সাংস্কৃতিক স্থান ইয়াৰ বৈষ্ণৱ মঠৰ বাবে বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "Sualkuchi",
+        "as": "সুৱালকুছি"
+      },
+      {
+        "en": "Majuli",
+        "as": "মাজুলী"
+      },
+      {
+        "en": "Tezpur",
+        "as": "তেজপুৰ"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Majuli is famous for its Sattras, the Vaishnavite monasteries founded in the tradition of Srimanta Sankardeva.",
+      "as": "মাজুলী ইয়াৰ সত্ৰসমূহৰ বাবে বিখ্যাত, শ্ৰীমন্ত শংকৰদেৱৰ পৰম্পৰাত প্ৰতিষ্ঠিত বৈষ্ণৱ মঠ।"
+    }
+  }
+]

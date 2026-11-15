@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-071",
+    "q": {
+      "en": "Which sector has emerged as a growing industry in Assam in recent years?",
+      "as": "শেহতীয়া বছৰবোৰত অসমত কোন খণ্ড এটা বৰ্ধমান উদ্যোগ হিচাপে ওলাই আহিছে?"
+    },
+    "options": [
+      {
+        "en": "Tourism",
+        "as": "পৰ্যটন"
+      },
+      {
+        "en": "Shipbuilding",
+        "as": "জাহাজ নিৰ্মাণ"
+      },
+      {
+        "en": "Aircraft manufacturing",
+        "as": "বিমান উৎপাদন"
+      },
+      {
+        "en": "Automobile manufacturing",
+        "as": "অট'ম'বাইল উৎপাদন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tourism, along with information technology and food processing, is a growing industry in Assam.",
+      "as": "পৰ্যটন, তথ্য প্ৰযুক্তি আৰু খাদ্য প্ৰক্ৰিয়াকৰণৰ সৈতে, অসমত এটা বৰ্ধমান উদ্যোগ।"
+    }
+  }
+]

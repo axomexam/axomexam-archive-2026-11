@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-094",
+    "q": {
+      "en": "Which border town of Assam is a major trade point with Bangladesh?",
+      "as": "অসমৰ কোন সীমান্ত চহৰ বাংলাদেশৰ সৈতে এটা প্ৰধান বাণিজ্য কেন্দ্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      },
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাট"
+      },
+      {
+        "en": "Tezpur",
+        "as": "তেজপুৰ"
+      },
+      {
+        "en": "Karimganj",
+        "as": "কৰিমগঞ্জ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Karimganj and other border towns serve as trade points between Assam and Bangladesh.",
+      "as": "কৰিমগঞ্জ আৰু অন্য সীমান্ত চহৰ অসম আৰু বাংলাদেশৰ মাজত বাণিজ্য কেন্দ্ৰ হিচাপে কাৰ্য্য কৰে।"
+    }
+  }
+]

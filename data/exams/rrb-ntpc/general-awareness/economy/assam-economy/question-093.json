@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-093",
+    "q": {
+      "en": "Which is the largest tea auction centre in the Barak valley?",
+      "as": "বৰাক উপত্যকাত আটাইতকৈ ডাঙৰ চাহ নিলাম কেন্দ্ৰ কোন?"
+    },
+    "options": [
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      },
+      {
+        "en": "Karimganj",
+        "as": "কৰিমগঞ্জ"
+      },
+      {
+        "en": "Hailakandi",
+        "as": "হাইলাকান্দি"
+      },
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Silchar has a tea auction centre serving the gardens of the Barak valley.",
+      "as": "শিলচৰত এটা চাহ নিলাম কেন্দ্ৰ আছে যি বৰাক উপত্যকাৰ বাগিচাসমূহক সেৱা আগবঢ়ায়।"
+    }
+  }
+]

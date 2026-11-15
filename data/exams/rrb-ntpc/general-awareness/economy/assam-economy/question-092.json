@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-092",
+    "q": {
+      "en": "Which is the largest city of the Barak valley in Assam?",
+      "as": "অসমৰ বৰাক উপত্যকাৰ আটাইতকৈ ডাঙৰ নগৰ কোন?"
+    },
+    "options": [
+      {
+        "en": "Karimganj",
+        "as": "কৰিমগঞ্জ"
+      },
+      {
+        "en": "Hailakandi",
+        "as": "হাইলাকান্দি"
+      },
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Silchar is the largest city and commercial centre of the Barak valley in Assam.",
+      "as": "শিলচৰ অসমৰ বৰাক উপত্যকাৰ আটাইতকৈ ডাঙৰ নগৰ আৰু বাণিজ্যিক কেন্দ্ৰ।"
+    }
+  }
+]

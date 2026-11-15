@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-053",
+    "q": {
+      "en": "Which city is the capital of Assam?",
+      "as": "অসমৰ ৰাজধানী কোনখন নগৰ?"
+    },
+    "options": [
+      {
+        "en": "Dispur",
+        "as": "দিছপুৰ"
+      },
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Assam's capital is Dispur, which forms part of the greater Guwahati area.",
+      "as": "অসমৰ ৰাজধানী দিছপুৰ, যি বৃহত্তৰ গুৱাহাটী অঞ্চলৰ অংশ।"
+    }
+  }
+]

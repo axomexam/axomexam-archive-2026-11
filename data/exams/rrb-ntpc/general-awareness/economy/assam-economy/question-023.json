@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-023",
+    "q": {
+      "en": "Which company is the largest oil and gas producer in Assam?",
+      "as": "অসমত আটাইতকৈ ডাঙৰ তেল আৰু গেছ উৎপাদক কোম্পানী কোন?"
+    },
+    "options": [
+      {
+        "en": "The Oil India Limited",
+        "as": "তেল ইণ্ডিয়া লিমিটেড"
+      },
+      {
+        "en": "The Indian Oil Corporation",
+        "as": "ভাৰতীয় তেল নিগম"
+      },
+      {
+        "en": "The GAIL",
+        "as": "গেইল"
+      },
+      {
+        "en": "The Oil and Natural Gas Corporation",
+        "as": "তেল আৰু প্ৰাকৃতিক গেছ নিগম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Oil India Limited, headquartered at Duliajan, and ONGC are the main producers of oil and gas in Assam.",
+      "as": "ডুলিয়াজানত সদৰ কৰি তেল ইণ্ডিয়া লিমিটেড আৰু অ'এনজিচি অসমত তেল আৰু গেছৰ প্ৰধান উৎপাদক।"
+    }
+  }
+]

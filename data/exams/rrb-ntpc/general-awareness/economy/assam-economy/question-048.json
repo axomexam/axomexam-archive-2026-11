@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-048",
+    "q": {
+      "en": "Which river causes the most severe erosion in Assam?",
+      "as": "কোন নদীয়ে অসমত আটাইতকৈ তীব্ৰ ভাঙন সৃষ্টি কৰে?"
+    },
+    "options": [
+      {
+        "en": "The Barak",
+        "as": "বৰাক"
+      },
+      {
+        "en": "The Brahmaputra",
+        "as": "ব্ৰহ্মপুত্ৰ"
+      },
+      {
+        "en": "The Subansiri",
+        "as": "সুবনশিৰি"
+      },
+      {
+        "en": "The Dhansiri",
+        "as": "ধনশিৰি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Brahmaputra causes the most severe riverbank erosion in Assam.",
+      "as": "ব্ৰহ্মপুত্ৰই অসমত আটাইতকৈ তীব্ৰ নদীভাঙন সৃষ্টি কৰে।"
+    }
+  }
+]

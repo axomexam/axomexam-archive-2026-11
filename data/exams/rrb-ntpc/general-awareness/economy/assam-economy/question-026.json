@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-026",
+    "q": {
+      "en": "Which coal field of Assam is well known?",
+      "as": "অসমৰ কোন কয়লা ক্ষেত্ৰ সুপৰিচিত?"
+    },
+    "options": [
+      {
+        "en": "The Bokaro coal field",
+        "as": "বোকাৰো কয়লা ক্ষেত্ৰ"
+      },
+      {
+        "en": "The Jharia coal field",
+        "as": "ঝাৰিয়া কয়লা ক্ষেত্ৰ"
+      },
+      {
+        "en": "The Makum coal field",
+        "as": "মাকুম কয়লা ক্ষেত্ৰ"
+      },
+      {
+        "en": "The Raniganj coal field",
+        "as": "ৰাণীগঞ্জ কয়লা ক্ষেত্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Makum coal field in Tinsukia district is a well-known coal field of Assam.",
+      "as": "তিনসুকিয়া জিলাৰ মাকুম কয়লা ক্ষেত্ৰ অসমৰ এটা সুপৰিচিত কয়লা ক্ষেত্ৰ।"
+    }
+  }
+]

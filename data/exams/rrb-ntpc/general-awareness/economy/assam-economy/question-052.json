@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-052",
+    "q": {
+      "en": "Which is the largest city and commercial hub of Assam?",
+      "as": "অসমৰ আটাইতকৈ ডাঙৰ নগৰ আৰু বাণিজ্যিক কেন্দ্ৰ কোন?"
+    },
+    "options": [
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      },
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      },
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Guwahati is the largest city and the main commercial hub of Assam.",
+      "as": "গুৱাহাটী অসমৰ আটাইতকৈ ডাঙৰ নগৰ আৰু প্ৰধান বাণিজ্যিক কেন্দ্ৰ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-017",
+    "q": {
+      "en": "Where was the first oil well drilled in Asia?",
+      "as": "এছিয়াত প্ৰথম তেলৰ কূপ ক'ত খনন কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Bombay High",
+        "as": "বম্বে হাই"
+      },
+      {
+        "en": "Digboi in Assam",
+        "as": "অসমৰ ডিগবৈ"
+      },
+      {
+        "en": "Ankleshwar in Gujarat",
+        "as": "গুজৰাটৰ আংক্লেশ্বৰ"
+      },
+      {
+        "en": "Naharkatiya",
+        "as": "নাহৰকটীয়া"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The first oil well in Asia was drilled at Digboi in Assam in 1866.",
+      "as": "এছিয়াৰ প্ৰথম তেলৰ কূপ ১৮৬৬ চনত অসমৰ ডিগবৈত খনন কৰা হৈছিল।"
+    }
+  }
+]

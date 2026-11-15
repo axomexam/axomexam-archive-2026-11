@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-032",
+    "q": {
+      "en": "Which silk variety is known as the 'golden silk' of Assam?",
+      "as": "কোন ৰেচমৰ জাতটো অসমৰ 'সোণালী ৰেচম' হিচাপে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Eri silk",
+        "as": "এৰী ৰেচম"
+      },
+      {
+        "en": "Tussar silk",
+        "as": "তছৰ ৰেচম"
+      },
+      {
+        "en": "Mulberry silk",
+        "as": "নুনী পাট ৰেচম"
+      },
+      {
+        "en": "Muga silk",
+        "as": "মুগা ৰেচম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Muga silk is called the golden silk of Assam for its natural golden colour and durability.",
+      "as": "মুগা ৰেচমক ইয়াৰ প্ৰাকৃতিক সোণালী ৰং আৰু টিকাকৰণৰ বাবে অসমৰ সোণালী ৰেচম বোলা হয়।"
+    }
+  }
+]

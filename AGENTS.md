@@ -329,6 +329,34 @@ What was done, so the next agent does not redo or undo it:
   `thin (<300w): 0`, no missing H1/desc/canonical/JSON-LD and all duplicate
   counts at 0. No page, UI, script or CSS file changed.
 
+## Session record — Nov 2026 RRB NTPC Assam Economy question bank (100 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a full bilingual Assam Economy bank to the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/economy/assam-economy/`:
+  `question-002.json` … `question-100.json` (99 new files) beside the existing
+  `question-001.json`, giving the topic **100 questions**. Each file holds one
+  MCQ in the repo's shape — `id`, `q.{en,as}`, four `options[{en,as}]`,
+  `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 100 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty and
+  focus on the Assam economy — tea and its industry, agriculture and Joha rice,
+  oil and natural gas, the refineries at Digboi, Guwahati, Numaligarh and
+  Bongaigaon, coal and minerals, silk (Muga and Eri), industry and
+  infrastructure, bridges and waterways, tourism, national parks and Bihu.
+  Answer keys are spread over A/B/C/D — across all 100 questions the slots hold
+  26/25/25/24; `--book rrb-ntpc --topic
+  general-awareness/economy/assam-economy --check` reports 0 skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive, English and Assamese) against all other
+  question text already in `data/`; the colliding items were reworded so the
+  bank shares no stem or explanation with the existing banks or mock sets.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.
+
 ## Session record — Nov 2026 RRB NTPC Indian Economy question bank (402 MCQs)
 
 What was done, so the next agent does not redo or undo it:

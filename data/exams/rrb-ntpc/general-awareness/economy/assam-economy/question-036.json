@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-036",
+    "q": {
+      "en": "Which is the main agricultural university of Assam?",
+      "as": "অসমৰ প্ৰধান কৃষি বিশ্ববিদ্যালয় কোন?"
+    },
+    "options": [
+      {
+        "en": "The Assam Agricultural University at Jorhat",
+        "as": "যোৰহাটৰ অসম কৃষি বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "The Gauhati University",
+        "as": "গুৱাহাটী বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "The Dibrugarh University",
+        "as": "ডিব্ৰুগড় বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "The Tezpur University",
+        "as": "তেজপুৰ বিশ্ববিদ্যালয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Assam Agricultural University at Jorhat is the main agricultural university of the state.",
+      "as": "যোৰহাটৰ অসম কৃষি বিশ্ববিদ্যালয় ৰাজ্যখনৰ প্ৰধান কৃষি বিশ্ববিদ্যালয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-041",
+    "q": {
+      "en": "Which is the main plantation crop of Assam besides tea?",
+      "as": "চাহৰ উপৰিও অসমৰ প্ৰধান বাগিচা শস্য কোন?"
+    },
+    "options": [
+      {
+        "en": "Coffee",
+        "as": "কফি"
+      },
+      {
+        "en": "Coconut",
+        "as": "নাৰিকল"
+      },
+      {
+        "en": "Rubber",
+        "as": "ৰবৰ"
+      },
+      {
+        "en": "Oil palm",
+        "as": "তেল তাল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rubber and oil palm are grown as plantation crops in parts of Assam.",
+      "as": "ৰবৰ আৰু তেল তাল অসমৰ কিছুমান অংশত বাগিচা শস্য হিচাপে খেতি কৰা হয়।"
+    }
+  }
+]

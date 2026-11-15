@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-079",
+    "q": {
+      "en": "Which temple of Assam is located on an island in the Brahmaputra?",
+      "as": "অসমৰ কোন মন্দিৰ ব্ৰহ্মপুত্ৰৰ এটা দ্বীপত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "The Kamakhya Temple",
+        "as": "কামাখ্যা মন্দিৰ"
+      },
+      {
+        "en": "The Madan Kamdev",
+        "as": "মদন কামদেৱ"
+      },
+      {
+        "en": "The Umananda Temple",
+        "as": "উমানন্দ মন্দিৰ"
+      },
+      {
+        "en": "The Navagraha Temple",
+        "as": "নৱগ্ৰহ মন্দিৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Umananda Temple is built on the small Peacock Island amid the Brahmaputra near Guwahati.",
+      "as": "উমানন্দ মন্দিৰ গুৱাহাটীৰ ওচৰত ব্ৰহ্মপুত্ৰৰ মাজত থকা সৰু ময়ূৰ দ্বীপত নিৰ্মিত।"
+    }
+  }
+]

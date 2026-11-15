@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-084",
+    "q": {
+      "en": "Which Bihu is associated with the harvest festival in January?",
+      "as": "কোন বিহু জানুৱাৰীৰ শস্য চপোৱা উৎসৱৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Bohag Bihu",
+        "as": "ব'হাগ বিহু"
+      },
+      {
+        "en": "Kati Bihu",
+        "as": "কাতি বিহু"
+      },
+      {
+        "en": "Magh Bihu",
+        "as": "মাঘ বিহু"
+      },
+      {
+        "en": "None of these",
+        "as": "এইবোৰৰ কোনোটো নহয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Magh Bihu, or Bhogali Bihu, is the harvest festival celebrated in mid-January.",
+      "as": "মাঘ বিহু, বা ভোগালী বিহু, জানুৱাৰীৰ মাজভাগত পালন কৰা শস্য চপোৱা উৎসৱ।"
+    }
+  }
+]

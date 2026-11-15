@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-011",
+    "q": {
+      "en": "Which variety of rice is famous in Assam?",
+      "as": "অসমত কোন ধানৰ জাত বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "Basmati rice",
+        "as": "বাছমতী ধান"
+      },
+      {
+        "en": "Ponni rice",
+        "as": "পোন্নী ধান"
+      },
+      {
+        "en": "Sona Masuri",
+        "as": "সোনা মচুৰি"
+      },
+      {
+        "en": "Joha rice",
+        "as": "জহা ধান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Joha rice of Assam is a fragrant variety known for its aroma and is a geographical indication product.",
+      "as": "অসমৰ জহা ধান এটা সুগন্ধি জাত, ইয়াৰ সুবাসৰ বাবে জনাজাত আৰু এটা ভৌগোলিক সূচক সামগ্ৰী।"
+    }
+  }
+]

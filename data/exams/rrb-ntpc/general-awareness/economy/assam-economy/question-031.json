@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-031",
+    "q": {
+      "en": "Which city of Assam is famous for Muga silk production?",
+      "as": "অসমৰ কোনখন নগৰ মুগা ৰেচম উৎপাদনৰ বাবে বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      },
+      {
+        "en": "Sualkuchi",
+        "as": "সুৱালকুছি"
+      },
+      {
+        "en": "Tezpur",
+        "as": "তেজপুৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sualkuchi, near Guwahati, is famous for the production of Muga and other silk fabrics.",
+      "as": "গুৱাহাটীৰ ওচৰৰ সুৱালকুছি মুগা আৰু অন্য ৰেচম বস্ত্ৰ উৎপাদনৰ বাবে বিখ্যাত।"
+    }
+  }
+]

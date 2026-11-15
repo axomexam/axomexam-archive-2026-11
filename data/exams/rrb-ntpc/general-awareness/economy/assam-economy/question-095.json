@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-095",
+    "q": {
+      "en": "Which town of Assam is known for its cement plant in Karbi Anglong?",
+      "as": "অসমৰ কোনখন চহৰ কাৰ্বি আংলঙত ইয়াৰ চিমেণ্ট কাৰখানাৰ বাবে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Diphu",
+        "as": "ডিফু"
+      },
+      {
+        "en": "Hamren",
+        "as": "হামৰেণ"
+      },
+      {
+        "en": "Bokajan",
+        "as": "বোকাজান"
+      },
+      {
+        "en": "Howraghat",
+        "as": "হাওৰাঘাট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bokajan in Karbi Anglong district is known for its cement plant.",
+      "as": "কাৰ্বি আংলং জিলাৰ বোকাজান ইয়াৰ চিমেণ্ট কাৰখানাৰ বাবে জনা যায়।"
+    }
+  }
+]

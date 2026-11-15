@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-060",
+    "q": {
+      "en": "Which is the largest airport of Assam?",
+      "as": "অসমৰ আটাইতকৈ ডাঙৰ বিমানবন্দৰ কোন?"
+    },
+    "options": [
+      {
+        "en": "The Dibrugarh Airport",
+        "as": "ডিব্ৰুগড় বিমানবন্দৰ"
+      },
+      {
+        "en": "The Silchar Airport",
+        "as": "শিলচৰ বিমানবন্দৰ"
+      },
+      {
+        "en": "The Lokpriya Gopinath Bordoloi International Airport",
+        "as": "লোকপ্ৰিয় গোপীনাথ বৰদলৈ আন্তৰ্জাতিক বিমানবন্দৰ"
+      },
+      {
+        "en": "The Jorhat Airport",
+        "as": "যোৰহাট বিমানবন্দৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Lokpriya Gopinath Bordoloi International Airport at Guwahati is the largest airport in Assam.",
+      "as": "গুৱাহাটীৰ লোকপ্ৰিয় গোপীনাথ বৰদলৈ আন্তৰ্জাতিক বিমানবন্দৰ অসমৰ আটাইতকৈ ডাঙৰ বিমানবন্দৰ।"
+    }
+  }
+]

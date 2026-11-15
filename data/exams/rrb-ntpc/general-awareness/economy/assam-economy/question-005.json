@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-005",
+    "q": {
+      "en": "Which organisation is the apex body for tea research in Assam?",
+      "as": "অসমত চাহ গৱেষণাৰ শীৰ্ষ সংস্থা কোন?"
+    },
+    "options": [
+      {
+        "en": "The Assam Agricultural University",
+        "as": "অসম কৃষি বিশ্ববিদ্যালয়"
+      },
+      {
+        "en": "The Tocklai Tea Research Institute",
+        "as": "টকলাই চাহ গৱেষণা প্ৰতিষ্ঠান"
+      },
+      {
+        "en": "The NABARD",
+        "as": "নাবাৰ্ড"
+      },
+      {
+        "en": "The Tea Board of India",
+        "as": "ভাৰতৰ চাহ ব'ৰ্ড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Tocklai Tea Research Institute at Jorhat is the oldest and largest tea research station in the world.",
+      "as": "যোৰহাটৰ টকলাই চাহ গৱেষণা প্ৰতিষ্ঠান বিশ্বৰ আটাইতকৈ পুৰণি আৰু ডাঙৰ চাহ গৱেষণা কেন্দ্ৰ।"
+    }
+  }
+]

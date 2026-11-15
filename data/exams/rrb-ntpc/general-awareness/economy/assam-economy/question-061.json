@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-061",
+    "q": {
+      "en": "Which is the main railway junction of Assam?",
+      "as": "অসমৰ প্ৰধান ৰে'ল সংযোগস্থল কোন?"
+    },
+    "options": [
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      },
+      {
+        "en": "Tinsukia",
+        "as": "তিনসুকিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Guwahati is the main railway junction of Assam, connecting the region to the rest of India.",
+      "as": "গুৱাহাটী অসমৰ প্ৰধান ৰে'ল সংযোগস্থল, অঞ্চলটোক ভাৰতৰ বাকী অংশৰ সৈতে সংযোগ কৰি।"
+    }
+  }
+]

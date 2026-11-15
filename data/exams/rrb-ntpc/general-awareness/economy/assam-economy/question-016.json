@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-016",
+    "q": {
+      "en": "Which is the most important natural resource of Assam?",
+      "as": "অসমৰ আটাইতকৈ গুৰুত্বপূৰ্ণ প্ৰাকৃতিক সম্পদ কোন?"
+    },
+    "options": [
+      {
+        "en": "Iron ore",
+        "as": "লৌহ আকরিক"
+      },
+      {
+        "en": "Coal only",
+        "as": "কেৱল কয়লা"
+      },
+      {
+        "en": "Bauxite",
+        "as": "বক্সাইট"
+      },
+      {
+        "en": "Petroleum and natural gas",
+        "as": "পেট্ৰ'লিয়াম আৰু প্ৰাকৃতিক গেছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Petroleum and natural gas are the most important mineral resources of Assam, along with coal and limestone.",
+      "as": "পেট্ৰ'লিয়াম আৰু প্ৰাকৃতিক গেছ অসমৰ আটাইতকৈ গুৰুত্বপূৰ্ণ খনিজ সম্পদ, কয়লা আৰু চূণশিলৰ সৈতে।"
+    }
+  }
+]

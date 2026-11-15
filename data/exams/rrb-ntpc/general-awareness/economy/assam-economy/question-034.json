@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-034",
+    "q": {
+      "en": "Which is the largest producer of Eri silk in India?",
+      "as": "ভাৰতত এৰী ৰেচমৰ আটাইতকৈ ডাঙৰ উৎপাদক কোন?"
+    },
+    "options": [
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Jharkhand",
+        "as": "ঝাৰখণ্ড"
+      },
+      {
+        "en": "Bihar",
+        "as": "বিহাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Assam is the largest producer of Eri silk in India, along with Muga silk.",
+      "as": "অসম ভাৰতত এৰী ৰেচমৰ আটাইতকৈ ডাঙৰ উৎপাদক, মুগা ৰেচমৰ সৈতে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-033",
+    "q": {
+      "en": "Which type of silk is produced in Assam and known as 'peace silk'?",
+      "as": "কোন প্ৰকাৰৰ ৰেচম অসমত উৎপাদিত হয় আৰু 'শান্তি ৰেচম' হিচাপে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Muga silk",
+        "as": "মুগা ৰেচম"
+      },
+      {
+        "en": "Eri silk",
+        "as": "এৰী ৰেচম"
+      },
+      {
+        "en": "Tussar silk",
+        "as": "তছৰ ৰেচম"
+      },
+      {
+        "en": "Mulberry silk",
+        "as": "নুনী পাট ৰেচম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Eri silk, produced in Assam, is called peace silk as the moth is not killed to obtain the fibre.",
+      "as": "অসমত উৎপাদিত এৰী ৰেচমক শান্তি ৰেচম বোলা হয় কাৰণ আঁহ পাবলৈ পোকটো মৰা নহয়।"
+    }
+  }
+]

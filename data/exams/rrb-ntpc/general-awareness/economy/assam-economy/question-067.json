@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-067",
+    "q": {
+      "en": "Which gas-based project of Assam produces fertiliser?",
+      "as": "অসমৰ কোন গেছ-ভিত্তিক প্ৰকল্পই সাৰ উৎপাদন কৰে?"
+    },
+    "options": [
+      {
+        "en": "The Sindri Fertilizer Plant",
+        "as": "সিন্দ্ৰী সাৰ কাৰখানা"
+      },
+      {
+        "en": "The Nangal Fertilizer Plant",
+        "as": "নাঙ্গাল সাৰ কাৰখানা"
+      },
+      {
+        "en": "The Trombay Fertilizer Plant",
+        "as": "ট্ৰম্বে সাৰ কাৰখানা"
+      },
+      {
+        "en": "The Brahmaputra Valley Fertilizer Corporation at Namrup",
+        "as": "নামৰূপৰ ব্ৰহ্মপুত্ৰ উপত্যকা সাৰ নিগম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Brahmaputra Valley Fertilizer Corporation at Namrup uses natural gas to make fertiliser.",
+      "as": "নামৰূপৰ ব্ৰহ্মপুত্ৰ উপত্যকা সাৰ নিগমে সাৰ বনাবলৈ প্ৰাকৃতিক গেছ ব্যৱহাৰ কৰে।"
+    }
+  }
+]

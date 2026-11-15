@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-014",
+    "q": {
+      "en": "Assam's agriculture depends mainly on which source of water?",
+      "as": "অসমৰ কৃষি মূলত পানীৰ কোন উৎসৰ ওপৰত নিৰ্ভৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Large dams",
+        "as": "ডাঙৰ বান্ধ"
+      },
+      {
+        "en": "Tube wells only",
+        "as": "কেৱল নলকূপ"
+      },
+      {
+        "en": "Rainfall and small canals",
+        "as": "বৰষুণ আৰু সৰু খাল"
+      },
+      {
+        "en": "Lakes",
+        "as": "হ্ৰদ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Assam depends mainly on rainfall, with supplementary irrigation from small canals and lift schemes.",
+      "as": "অসম মূলত বৰষুণৰ ওপৰত নিৰ্ভৰ কৰে, সৰু খাল আৰু লিফ্ট আঁচনিৰ পৰা পৰিপূৰক জলসিঞ্চনৰ সৈতে।"
+    }
+  }
+]

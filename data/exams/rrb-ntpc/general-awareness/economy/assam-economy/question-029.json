@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-029",
+    "q": {
+      "en": "Which is the second largest industry of Assam after tea?",
+      "as": "চাহৰ পিছত অসমৰ দ্বিতীয় আটাইতকৈ ডাঙৰ উদ্যোগ কোন?"
+    },
+    "options": [
+      {
+        "en": "Petroleum and natural gas",
+        "as": "পেট্ৰ'লিয়াম আৰু প্ৰাকৃতিক গেছ"
+      },
+      {
+        "en": "Jute",
+        "as": "পাট"
+      },
+      {
+        "en": "Sugar",
+        "as": "চেনি"
+      },
+      {
+        "en": "Cement",
+        "as": "চিমেণ্ট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The petroleum and natural gas industry is the second largest industry of Assam.",
+      "as": "পেট্ৰ'লিয়াম আৰু প্ৰাকৃতিক গেছ উদ্যোগ অসমৰ দ্বিতীয় আটাইতকৈ ডাঙৰ উদ্যোগ।"
+    }
+  }
+]

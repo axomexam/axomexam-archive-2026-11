@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-006",
+    "q": {
+      "en": "Where is the headquarters of the Tea Board of India located?",
+      "as": "ভাৰতৰ চাহ ব'ৰ্ডৰ সদৰ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাট"
+      },
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      },
+      {
+        "en": "Kolkata",
+        "as": "কলিকতা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Tea Board of India is headquartered in Kolkata and promotes the Indian tea industry.",
+      "as": "ভাৰতৰ চাহ ব'ৰ্ডৰ সদৰ কলিকতাত আৰু ই ভাৰতীয় চাহ উদ্যোগক প্ৰচাৰ কৰে।"
+    }
+  }
+]

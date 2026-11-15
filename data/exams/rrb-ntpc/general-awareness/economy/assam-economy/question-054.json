@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-054",
+    "q": {
+      "en": "Which is the largest river port of Assam?",
+      "as": "অসমৰ আটাইতকৈ ডাঙৰ নদী বন্দৰ কোন?"
+    },
+    "options": [
+      {
+        "en": "Dibrugarh Port",
+        "as": "ডিব্ৰুগড় বন্দৰ"
+      },
+      {
+        "en": "Silchar Port",
+        "as": "শিলচৰ বন্দৰ"
+      },
+      {
+        "en": "Pandu Port in Guwahati",
+        "as": "গুৱাহাটীৰ পাণ্ডু বন্দৰ"
+      },
+      {
+        "en": "Tezpur Port",
+        "as": "তেজপুৰ বন্দৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Pandu Port at Guwahati is the largest river port of Assam on the Brahmaputra.",
+      "as": "গুৱাহাটীৰ পাণ্ডু বন্দৰ ব্ৰহ্মপুত্ৰৰ ওপৰত অসমৰ আটাইতকৈ ডাঙৰ নদী বন্দৰ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-004",
+    "q": {
+      "en": "Which city of Assam is known as the 'Tea City of India'?",
+      "as": "অসমৰ কোনখন নগৰক 'ভাৰতৰ চাহ নগৰী' হিচাপে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      },
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      },
+      {
+        "en": "Tezpur",
+        "as": "তেজপুৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Dibrugarh is known as the Tea City of India because of its tea industry.",
+      "as": "ডিব্ৰুগড়ক ইয়াৰ চাহ উদ্যোগৰ বাবে ভাৰতৰ চাহ নগৰী বুলি জনা যায়।"
+    }
+  }
+]

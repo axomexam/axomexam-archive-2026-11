@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-002",
+    "q": {
+      "en": "Which is the largest tea-producing state in India?",
+      "as": "ভাৰতত চাহ উৎপাদন কৰা আটাইতকৈ ডাঙৰ ৰাজ্য কোন?"
+    },
+    "options": [
+      {
+        "en": "West Bengal",
+        "as": "পশ্চিম বংগ"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Tamil Nadu",
+        "as": "তামিলনাডু"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Assam produces more than half of India's tea and is the largest tea-producing state.",
+      "as": "অসমে ভাৰতৰ আধাতকৈ অধিক চাহ উৎপাদন কৰে আৰু আটাইতকৈ ডাঙৰ চাহ উৎপাদনকাৰী ৰাজ্য।"
+    }
+  }
+]

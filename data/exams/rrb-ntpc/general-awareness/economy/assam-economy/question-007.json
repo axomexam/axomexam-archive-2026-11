@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-007",
+    "q": {
+      "en": "Which is the largest producer of tea in Assam among the following districts?",
+      "as": "তলৰ জিলাসমূহৰ ভিতৰত অসমত চাহৰ আটাইতকৈ ডাঙৰ উৎপাদক কোন?"
+    },
+    "options": [
+      {
+        "en": "Sivasagar",
+        "as": "শিৱসাগৰ"
+      },
+      {
+        "en": "Cachar",
+        "as": "কাছাৰ"
+      },
+      {
+        "en": "Darrang",
+        "as": "দৰং"
+      },
+      {
+        "en": "Goalpara",
+        "as": "গোৱালপাৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sivasagar, along with Dibrugarh and Jorhat, is among the leading tea-producing districts of Assam.",
+      "as": "শিৱসাগৰ, ডিব্ৰুগড় আৰু যোৰহাটৰ সৈতে, অসমৰ আগশাৰীৰ চাহ উৎপাদনকাৰী জিলাসমূহৰ ভিতৰত।"
+    }
+  }
+]

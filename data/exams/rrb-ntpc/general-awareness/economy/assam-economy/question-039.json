@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-039",
+    "q": {
+      "en": "Which spice is grown in Assam and has a geographical indication tag?",
+      "as": "অসমত কোন মছলা খেতি কৰা হয় আৰু ইয়াৰ ভৌগোলিক সূচক টেগ আছে?"
+    },
+    "options": [
+      {
+        "en": "Black pepper",
+        "as": "ক'লা জালুক"
+      },
+      {
+        "en": "Cardamom",
+        "as": "এলাচ"
+      },
+      {
+        "en": "Clove",
+        "as": "লবং"
+      },
+      {
+        "en": "Assam Bhut Jolokia",
+        "as": "অসম ভূত জলকীয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bhut Jolokia, the ghost chilli of Assam, has a geographical indication tag and is among the hottest chillies.",
+      "as": "অসমৰ ভূত জলকীয়া, ভৌগোলিক সূচক টেগ আছে আৰু আটাইতকৈ জ্বলা জলকীয়াসমূহৰ ভিতৰত।"
+    }
+  }
+]

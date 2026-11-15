@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-100",
+    "q": {
+      "en": "Which is the main river transport route for trade in Assam?",
+      "as": "অসমত বাণিজ্যৰ বাবে প্ৰধান নদী পৰিবহন পথ কোন?"
+    },
+    "options": [
+      {
+        "en": "The Barak river only",
+        "as": "কেৱল বৰাক নদী"
+      },
+      {
+        "en": "The Dhansiri river",
+        "as": "ধনশিৰি নদী"
+      },
+      {
+        "en": "The Subansiri river",
+        "as": "সুবনশিৰি নদী"
+      },
+      {
+        "en": "The Brahmaputra river",
+        "as": "ব্ৰহ্মপুত্ৰ নদী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Brahmaputra is the main river transport route for goods and passengers in Assam.",
+      "as": "ব্ৰহ্মপুত্ৰ অসমত সামগ্ৰী আৰু যাত্ৰীৰ বাবে প্ৰধান নদী পৰিবহন পথ।"
+    }
+  }
+]

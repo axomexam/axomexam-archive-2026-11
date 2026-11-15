@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-037",
+    "q": {
+      "en": "Which crop is grown in Assam for its fibre used in making ropes and mats?",
+      "as": "অসমত কোন শস্য ইয়াৰ আঁহৰ বাবে খেতি কৰা হয় যি ৰচী আৰু মেট বনাবলৈ ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Cotton",
+        "as": "কপাহ"
+      },
+      {
+        "en": "Silk",
+        "as": "ৰেচম"
+      },
+      {
+        "en": "Jute",
+        "as": "পাট"
+      },
+      {
+        "en": "Wool",
+        "as": "উণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Jute and other fibre crops of Assam are used to make ropes, mats and bags.",
+      "as": "অসমৰ পাট আৰু অন্য আঁহ শস্য ৰচী, মেট আৰু মোনা বনাবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

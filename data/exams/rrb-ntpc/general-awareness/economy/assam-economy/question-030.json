@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-030",
+    "q": {
+      "en": "Which silk is produced in Assam and is famous worldwide?",
+      "as": "অসমত কোন ৰেচম উৎপাদিত হয় আৰু বিশ্বজুৰি বিখ্যাত?"
+    },
+    "options": [
+      {
+        "en": "Tussar silk",
+        "as": "তছৰ ৰেচম"
+      },
+      {
+        "en": "Mulberry silk",
+        "as": "নুনী পাট ৰেচম"
+      },
+      {
+        "en": "Muga silk",
+        "as": "মুগা ৰেচম"
+      },
+      {
+        "en": "Eri silk only",
+        "as": "কেৱল এৰী ৰেচম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Muga silk of Assam is a golden-coloured silk unique to the state and granted a geographical indication tag.",
+      "as": "অসমৰ মুগা ৰেচম এটা সোণালী ৰঙৰ ৰেচম যি ৰাজ্যখনৰ বাবে অনন্য আৰু ভৌগোলিক সূচক টেগ লাভ কৰিছে।"
+    }
+  }
+]

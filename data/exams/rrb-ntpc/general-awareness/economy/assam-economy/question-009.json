@@ -1,0 +1,32 @@
+[
+  {
+    "id": "assam-economy-009",
+    "q": {
+      "en": "Which valley of Assam is known for tea gardens in its southern part?",
+      "as": "অসমৰ কোন উপত্যকা ইয়াৰ দক্ষিণ অংশত চাহ বাগিচাৰ বাবে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "The Brahmaputra valley",
+        "as": "ব্ৰহ্মপুত্ৰ উপত্যকা"
+      },
+      {
+        "en": "The Dhansiri valley",
+        "as": "ধনশিৰি উপত্যকা"
+      },
+      {
+        "en": "The Barak valley",
+        "as": "বৰাক উপত্যকা"
+      },
+      {
+        "en": "The Kopili valley",
+        "as": "কপিলী উপত্যকা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Barak valley in southern Assam, centred on Silchar, has significant tea gardens.",
+      "as": "দক্ষিণ অসমৰ বৰাক উপত্যকা, শিলচৰক কেন্দ্ৰ কৰি, উল্লেখযোগ্য চাহ বাগিচা আছে।"
+    }
+  }
+]
