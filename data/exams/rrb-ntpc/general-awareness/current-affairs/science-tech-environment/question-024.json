@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-024",
+    "q": {
+      "en": "Which telescope is the largest single-aperture optical telescope on Earth?",
+      "as": "পৃথিৱীৰ আটাইতকৈ ডাঙৰ একক-এপাৰ্চাৰ অপটিকেল টেলিস্কোপ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Hubble Space Telescope",
+        "as": "হাবল মহাকাশ টেলিস্কোপ"
+      },
+      {
+        "en": "James Webb Space Telescope",
+        "as": "জেমছ ৱেব মহাকাশ টেলিস্কোপ"
+      },
+      {
+        "en": "Keck Observatory",
+        "as": "কেক পৰ্যবেক্ষণ কেন্দ্ৰ"
+      },
+      {
+        "en": "Gran Telescopio Canarias",
+        "as": "গ্ৰেন টেলিস্কোপিঅ' কানাৰিয়াছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Gran Telescopio Canarias is the largest single-aperture optical telescope on Earth.",
+      "as": "গ্ৰেন টেলিস্কোপিঅ' কানাৰিয়াছ পৃথিৱীৰ আটাইতকৈ ডাঙৰ একক-এপাৰ্চাৰ অপটিকেল টেলিস্কোপ।"
+    }
+  }
+]

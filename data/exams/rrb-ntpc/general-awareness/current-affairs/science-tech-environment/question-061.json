@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-061",
+    "q": {
+      "en": "Which fuel is used in India's nuclear power reactors?",
+      "as": "ভাৰতৰ পাৰমাণৱিক শক্তি ৰিয়েক্টৰত কোন ইন্ধন ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "Plutonium",
+        "as": "প্লুটনিয়াম"
+      },
+      {
+        "en": "Uranium",
+        "as": "ইউৰেনিয়াম"
+      },
+      {
+        "en": "Thorium",
+        "as": "থৰিয়াম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Uranium is the fuel used in India's nuclear power reactors.",
+      "as": "ইউৰেনিয়াম ভাৰতৰ পাৰমাণৱিক শক্তি ৰিয়েক্টৰত ব্যৱহৃত ইন্ধন।"
+    }
+  }
+]

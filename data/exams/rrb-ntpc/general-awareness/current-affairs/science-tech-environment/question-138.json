@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-138",
+    "q": {
+      "en": "Which pigment gives blood its red colour?",
+      "as": "ৰক্তৰ ৰঙা ৰঙৰ বাবে দায়ী ৰঞ্জকটো কি?"
+    },
+    "options": [
+      {
+        "en": "Chlorophyll",
+        "as": "ক্ল'ৰ'ফিল"
+      },
+      {
+        "en": "Melanin",
+        "as": "মেলানিন"
+      },
+      {
+        "en": "Keratin",
+        "as": "কেৰাটিন"
+      },
+      {
+        "en": "Haemoglobin",
+        "as": "হিম'গ্লবিন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Haemoglobin gives blood its red colour.",
+      "as": "হিম'গ্লবিনে ৰক্তক ৰঙা ৰং দিয়ে।"
+    }
+  }
+]

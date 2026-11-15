@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-088",
+    "q": {
+      "en": "What is the main greenhouse gas emitted by burning fossil fuels?",
+      "as": "জীৱাশ্ম ইন্ধন জ্বলোৱাৰ ফলত নিৰ্গত প্ৰধান গ্ৰীণহাউছ গেছ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাই-অক্সাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "Helium",
+        "as": "হিলিয়াম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Carbon dioxide is the main greenhouse gas emitted by burning fossil fuels.",
+      "as": "কাৰ্বন ডাই-অক্সাইড জীৱাশ্ম ইন্ধন জ্বলোৱাৰ ফলত নিৰ্গত প্ৰধান গ্ৰীণহাউছ গেছ।"
+    }
+  }
+]

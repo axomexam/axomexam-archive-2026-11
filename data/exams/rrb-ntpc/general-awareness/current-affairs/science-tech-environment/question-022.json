@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-022",
+    "q": {
+      "en": "What is a space observatory that studies X-rays from celestial objects called?",
+      "as": "মহাজাগতিক বস্তুৰ পৰা অহা এক্স-ৰে অধ্যয়ন কৰা মহাকাশ পৰ্যবেক্ষণ কেন্দ্ৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "X-ray telescope",
+        "as": "এক্স-ৰে টেলিস্কোপ"
+      },
+      {
+        "en": "Radio telescope",
+        "as": "ৰেডিঅ' টেলিস্কোপ"
+      },
+      {
+        "en": "Optical microscope",
+        "as": "অপটিকেল অণুবীক্ষণ"
+      },
+      {
+        "en": "Spectrometer",
+        "as": "স্পেক্ট্ৰমিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An X-ray telescope observes X-rays from celestial objects.",
+      "as": "এক্স-ৰে টেলিস্কোপে মহাজাগতিক বস্তুৰ পৰা অহা এক্স-ৰে পৰ্যবেক্ষণ কৰে।"
+    }
+  }
+]

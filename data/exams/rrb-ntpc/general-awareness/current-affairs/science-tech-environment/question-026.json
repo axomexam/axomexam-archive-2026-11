@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-026",
+    "q": {
+      "en": "What is a celestial body that orbits a planet called?",
+      "as": "গ্ৰহ এটাক প্ৰদক্ষিণ কৰা মহাজাগতিক বস্তুক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Star",
+        "as": "তৰা"
+      },
+      {
+        "en": "Comet",
+        "as": "ধূমকেতু"
+      },
+      {
+        "en": "Asteroid",
+        "as": "গ্ৰহাণু"
+      },
+      {
+        "en": "Natural satellite",
+        "as": "প্ৰাকৃতিক উপগ্ৰহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A natural satellite is a celestial body that orbits a planet.",
+      "as": "প্ৰাকৃতিক উপগ্ৰহ হ'ল গ্ৰহ এটাক প্ৰদক্ষিণ কৰা মহাজাগতিক বস্তু।"
+    }
+  }
+]

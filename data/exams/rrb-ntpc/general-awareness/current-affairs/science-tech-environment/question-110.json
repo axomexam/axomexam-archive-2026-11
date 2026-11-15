@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-110",
+    "q": {
+      "en": "What is the protocol used for secure browsing on the internet?",
+      "as": "ইণ্টাৰনেটত সুৰক্ষিত ব্ৰাউজিঙৰ বাবে ব্যৱহৃত প্ৰ'ট'কল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "FTP",
+        "as": "এফ টি পি"
+      },
+      {
+        "en": "SMTP",
+        "as": "এছ এম টি পি"
+      },
+      {
+        "en": "HTTP",
+        "as": "এইচ টি টি পি"
+      },
+      {
+        "en": "HTTPS",
+        "as": "এইচ টি টি পি এছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "HTTPS is the protocol used for secure browsing on the internet.",
+      "as": "এইচ টি টি পি এছ ইণ্টাৰনেটত সুৰক্ষিত ব্ৰাউজিঙৰ বাবে ব্যৱহৃত প্ৰ'ট'কল।"
+    }
+  }
+]

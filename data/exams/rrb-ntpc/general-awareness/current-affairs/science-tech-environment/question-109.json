@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-109",
+    "q": {
+      "en": "What does the 'W' in WWW stand for?",
+      "as": "ডব্লিউ ডব্লিউ ডব্লিউ ত 'ডব্লিউ' য়ে কি সূচায়?"
+    },
+    "options": [
+      {
+        "en": "Wireless",
+        "as": "ৱায়াৰলেছ"
+      },
+      {
+        "en": "Wide",
+        "as": "ৱাইড"
+      },
+      {
+        "en": "Work",
+        "as": "ৱৰ্ক"
+      },
+      {
+        "en": "Web",
+        "as": "ৱেব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In WWW, 'W' stands for Web, as in World Wide Web.",
+      "as": "ডব্লিউ ডব্লিউ ডব্লিউ ত 'ডব্লিউ' য়ে ৱেব সূচায়, অৰ্থাৎ ৱৰ্ল্ড ৱাইড ৱেব।"
+    }
+  }
+]

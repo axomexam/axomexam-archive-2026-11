@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-062",
+    "q": {
+      "en": "Which element is seen as India's long-term nuclear fuel resource?",
+      "as": "কোন মৌলক ভাৰতৰ দীৰ্ঘম্যাদী পাৰমাণৱিক ইন্ধন সম্পদ হিচাপে দেখা হয়?"
+    },
+    "options": [
+      {
+        "en": "Uranium",
+        "as": "ইউৰেনিয়াম"
+      },
+      {
+        "en": "Plutonium",
+        "as": "প্লুটনিয়াম"
+      },
+      {
+        "en": "Thorium",
+        "as": "থৰিয়াম"
+      },
+      {
+        "en": "Lithium",
+        "as": "লিথিয়াম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "India has large thorium reserves and sees it as a long-term nuclear fuel.",
+      "as": "ভাৰতত থৰিয়ামৰ বিশাল ভাণ্ডাৰ আছে আৰু ইয়াক দীৰ্ঘম্যাদী পাৰমাণৱিক ইন্ধন হিচাপে দেখা হয়।"
+    }
+  }
+]

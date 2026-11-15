@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-012",
+    "q": {
+      "en": "Which Chandrayaan mission first confirmed the presence of water molecules on the Moon?",
+      "as": "কোন চন্দ্ৰযান অভিযানে চন্দ্ৰত পানীৰ অণুৰ উপস্থিতি প্ৰথমে নিশ্চিত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Chandrayaan-2",
+        "as": "চন্দ্ৰযান-২"
+      },
+      {
+        "en": "Chandrayaan-3",
+        "as": "চন্দ্ৰযান-৩"
+      },
+      {
+        "en": "Chandrayaan-1",
+        "as": "চন্দ্ৰযান-১"
+      },
+      {
+        "en": "Mangalyaan",
+        "as": "মঙ্গলযান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Chandrayaan-1 confirmed water molecules on the lunar surface.",
+      "as": "চন্দ্ৰযান-১ এ চন্দ্ৰপৃষ্ঠত পানীৰ অণুৰ উপস্থিতি নিশ্চিত কৰিছিল।"
+    }
+  }
+]

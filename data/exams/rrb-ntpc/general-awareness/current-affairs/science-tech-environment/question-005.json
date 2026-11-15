@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-005",
+    "q": {
+      "en": "Which spaceport does ISRO use to launch its satellites?",
+      "as": "ইছৰোৱে নিজৰ উপগ্ৰহ উৎক্ষেপণৰ বাবে কোন মহাকাশ বন্দৰ ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Sriharikota",
+        "as": "শ্ৰীহৰিকোটা"
+      },
+      {
+        "en": "Thumba",
+        "as": "থুম্বা"
+      },
+      {
+        "en": "Kulasekarapattinam",
+        "as": "কুলচেকৰপট্টিনাম"
+      },
+      {
+        "en": "Chandipur",
+        "as": "চণ্ডীপুৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "ISRO launches from the Satish Dhawan Space Centre at Sriharikota.",
+      "as": "ইছৰোৱে শ্ৰীহৰিকোটাৰ সতীশ ধৱন মহাকাশ কেন্দ্ৰৰ পৰা উৎক্ষেপণ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-060",
+    "q": {
+      "en": "Which process powers the Sun and nuclear reactors?",
+      "as": "সূৰ্য আৰু পাৰমাণৱিক ৰিয়েক্টৰক কোন প্ৰক্ৰিয়াই শক্তি যোগায়?"
+    },
+    "options": [
+      {
+        "en": "Nuclear fusion in the Sun and fission in reactors",
+        "as": "সূৰ্যত পাৰমাণৱিক সংযোজন আৰু ৰিয়েক্টৰত বিভাজন"
+      },
+      {
+        "en": "Combustion",
+        "as": "দহন"
+      },
+      {
+        "en": "Electrolysis",
+        "as": "বিদ্যুৎ বিশ্লেষণ"
+      },
+      {
+        "en": "Distillation",
+        "as": "আসৱন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Sun is powered by nuclear fusion, while reactors use nuclear fission.",
+      "as": "সূৰ্য পাৰমাণৱিক সংযোজনৰ দ্বাৰা চলিত হয়, আনহাতে ৰিয়েক্টৰে পাৰমাণৱিক বিভাজন ব্যৱহাৰ কৰে।"
+    }
+  }
+]

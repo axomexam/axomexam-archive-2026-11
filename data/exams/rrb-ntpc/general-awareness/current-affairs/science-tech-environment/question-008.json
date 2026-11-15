@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-008",
+    "q": {
+      "en": "What was the name of India's first experimental satellite launch vehicle?",
+      "as": "ভাৰতৰ প্ৰথম পৰীক্ষামূলক উপগ্ৰহ উৎক্ষেপণ যানৰ নাম কি আছিল?"
+    },
+    "options": [
+      {
+        "en": "SLV-3",
+        "as": "এছ এল ভি-৩"
+      },
+      {
+        "en": "PSLV",
+        "as": "পি এছ এল ভি"
+      },
+      {
+        "en": "GSLV",
+        "as": "জি এছ এল ভি"
+      },
+      {
+        "en": "ASLV",
+        "as": "এ এছ এল ভি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "SLV-3 was India's first experimental satellite launch vehicle.",
+      "as": "এছ এল ভি-৩ ভাৰতৰ প্ৰথম পৰীক্ষামূলক উপগ্ৰহ উৎক্ষেপণ যান আছিল।"
+    }
+  }
+]

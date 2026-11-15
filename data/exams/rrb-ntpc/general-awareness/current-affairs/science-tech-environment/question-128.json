@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-128",
+    "q": {
+      "en": "Which molecule carries hereditary information in most living organisms?",
+      "as": "বেছিভাগ জীৱিত জীৱত কোন অণুৱে বংশগত তথ্য বহন কৰে?"
+    },
+    "options": [
+      {
+        "en": "RNA",
+        "as": "আৰ এন এ"
+      },
+      {
+        "en": "Protein",
+        "as": "প্ৰ'টিন"
+      },
+      {
+        "en": "DNA",
+        "as": "ডি এন এ"
+      },
+      {
+        "en": "Starch",
+        "as": "ষ্টাৰ্চ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "DNA carries hereditary information in most living organisms.",
+      "as": "ডি এন এ য়ে বেছিভাগ জীৱিত জীৱত বংশগত তথ্য বহন কৰে।"
+    }
+  }
+]

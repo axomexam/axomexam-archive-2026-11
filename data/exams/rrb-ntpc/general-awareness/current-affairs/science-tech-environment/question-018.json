@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-018",
+    "q": {
+      "en": "Aditya-L1 orbits which point in a halo path?",
+      "as": "আদিত্য-এল১ এ কোন বিন্দুক হেল' কক্ষপথত প্ৰদক্ষিণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Lagrange point L1",
+        "as": "লেগ্ৰাঞ্জ বিন্দু এল১"
+      },
+      {
+        "en": "Lagrange point L2",
+        "as": "লেগ্ৰাঞ্জ বিন্দু এল২"
+      },
+      {
+        "en": "The lunar south pole",
+        "as": "চন্দ্ৰৰ দক্ষিণ মেৰু"
+      },
+      {
+        "en": "Geostationary orbit",
+        "as": "ভূস্থিৰ কক্ষপথ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Aditya-L1 orbits the Sun-Earth Lagrange point L1.",
+      "as": "আদিত্য-এল১ সূৰ্য-পৃথিৱী লেগ্ৰাঞ্জ বিন্দু এল১ ক প্ৰদক্ষিণ কৰে।"
+    }
+  }
+]

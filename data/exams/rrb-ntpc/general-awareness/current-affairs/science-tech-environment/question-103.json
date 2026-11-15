@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-103",
+    "q": {
+      "en": "What is the practice of deceiving people online to steal information called?",
+      "as": "তথ্য চুৰি কৰিবলৈ অনলাইনত মানুহক প্ৰতাৰণা কৰাৰ অভ্যাসক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Streaming",
+        "as": "ষ্ট্ৰীমিং"
+      },
+      {
+        "en": "Hosting",
+        "as": "হোষ্টিং"
+      },
+      {
+        "en": "Phishing",
+        "as": "ফিচিং"
+      },
+      {
+        "en": "Caching",
+        "as": "কেচিং"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Phishing is the practice of deceiving people online to steal information.",
+      "as": "ফিচিং হ'ল তথ্য চুৰি কৰিবলৈ অনলাইনত মানুহক প্ৰতাৰণা কৰাৰ অভ্যাস।"
+    }
+  }
+]

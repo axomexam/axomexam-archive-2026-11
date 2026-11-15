@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-145",
+    "q": {
+      "en": "Name the vitamin the skin makes when exposed to sunlight.",
+      "as": "সূৰ্যৰ পোহৰত মানৱ ছালত কোন ভিটামিন উৎপাদন হয়?"
+    },
+    "options": [
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন এ"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন চি"
+      },
+      {
+        "en": "Vitamin K",
+        "as": "ভিটামিন কে"
+      },
+      {
+        "en": "Vitamin D",
+        "as": "ভিটামিন ডি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Exposure to sunlight makes the skin produce vitamin D.",
+      "as": "সূৰ্যৰ পোহৰত ছালত ভিটামিন ডি উৎপাদন হয়।"
+    }
+  }
+]

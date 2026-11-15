@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-130",
+    "q": {
+      "en": "What is the process by which plants make food using sunlight called?",
+      "as": "উদ্ভিদে সূৰ্যৰ পোহৰ ব্যৱহাৰ কৰি খাদ্য তৈয়াৰ কৰা প্ৰক্ৰিয়াক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Respiration",
+        "as": "শ্বসন"
+      },
+      {
+        "en": "Transpiration",
+        "as": "বাষ্পীভৱন"
+      },
+      {
+        "en": "Digestion",
+        "as": "পাচন"
+      },
+      {
+        "en": "Photosynthesis",
+        "as": "সালোকসংশ্লেষণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Photosynthesis is the process by which plants make food using sunlight.",
+      "as": "সালোকসংশ্লেষণ হ'ল সূৰ্যৰ পোহৰ ব্যৱহাৰ কৰি উদ্ভিদে খাদ্য তৈয়াৰ কৰা প্ৰক্ৰিয়া।"
+    }
+  }
+]

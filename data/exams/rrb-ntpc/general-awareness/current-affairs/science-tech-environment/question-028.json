@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-028",
+    "q": {
+      "en": "Which planet of the solar system is the biggest in size?",
+      "as": "সৌৰজগতৰ ভিতৰত আটাইতকৈ ডাঙৰটো গ্ৰহ কি?"
+    },
+    "options": [
+      {
+        "en": "Saturn",
+        "as": "শনি"
+      },
+      {
+        "en": "Neptune",
+        "as": "নেপচুন"
+      },
+      {
+        "en": "Earth",
+        "as": "পৃথিৱী"
+      },
+      {
+        "en": "Jupiter",
+        "as": "বৃহস্পতি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The biggest planet of the solar system is Jupiter.",
+      "as": "সৌৰজগতৰ ভিতৰত আটাইতকৈ ডাঙৰটো গ্ৰহ হৈছে বৃহস্পতি।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-034",
+    "q": {
+      "en": "What is a group of stars forming a recognisable pattern called?",
+      "as": "চিনাক্ত কৰিব পৰা আকৃতি গঠন কৰা তৰাৰ সমষ্টিক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Galaxy",
+        "as": "ছায়াপথ"
+      },
+      {
+        "en": "Nebula",
+        "as": "নীহাৰিকা"
+      },
+      {
+        "en": "Meteor shower",
+        "as": "উল্কাবৃষ্টি"
+      },
+      {
+        "en": "Constellation",
+        "as": "তাৰকামণ্ডল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A constellation is a group of stars forming a recognisable pattern.",
+      "as": "তাৰকামণ্ডল হ'ল চিনাক্ত কৰিব পৰা আকৃতি গঠন কৰা তৰাৰ সমষ্টি।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-182",
+    "q": {
+      "en": "What is the thinning of the ozone layer over Antarctica commonly called?",
+      "as": "এণ্টাৰ্কটিকাৰ ওপৰত অ'জন স্তৰৰ পাতল হোৱাক সাধাৰণতে কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Black hole",
+        "as": "ক'লা ছিদ্ৰ"
+      },
+      {
+        "en": "Warm hole",
+        "as": "উষ্ণ ছিদ্ৰ"
+      },
+      {
+        "en": "Sky hole",
+        "as": "আকাশ ছিদ্ৰ"
+      },
+      {
+        "en": "Ozone hole",
+        "as": "অ'জন ছিদ্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The thinning of the ozone layer over Antarctica is called the ozone hole.",
+      "as": "এণ্টাৰ্কটিকাৰ ওপৰত অ'জন স্তৰৰ পাতল হোৱাক অ'জন ছিদ্ৰ বোলা হয়।"
+    }
+  }
+]

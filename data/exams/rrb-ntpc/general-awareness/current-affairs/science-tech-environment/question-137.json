@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-137",
+    "q": {
+      "en": "The heart of a human being is divided into how many chambers?",
+      "as": "মানৱ হৃদয় কেইটা কোঠাত বিভক্ত হৈ থাকে?"
+    },
+    "options": [
+      {
+        "en": "Two",
+        "as": "দুইটা"
+      },
+      {
+        "en": "Three",
+        "as": "তিনিটা"
+      },
+      {
+        "en": "Five",
+        "as": "পাঁচটা"
+      },
+      {
+        "en": "Four",
+        "as": "চাৰিটা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The human heart is divided into four chambers.",
+      "as": "মানৱ হৃদয় চাৰিটা কোঠাত বিভক্ত।"
+    }
+  }
+]

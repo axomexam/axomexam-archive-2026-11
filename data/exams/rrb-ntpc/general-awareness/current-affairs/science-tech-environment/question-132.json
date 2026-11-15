@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-132",
+    "q": {
+      "en": "Which gas do plants release during photosynthesis?",
+      "as": "সালোকসংশ্লেষণৰ সময়ত উদ্ভিদে কোন গেছ নিৰ্গত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাই-অক্সাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Plants release oxygen during photosynthesis.",
+      "as": "উদ্ভিদে সালোকসংশ্লেষণৰ সময়ত অক্সিজেন নিৰ্গত কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-105",
+    "q": {
+      "en": "What is a software program that self-replicates and spreads across computers called?",
+      "as": "নিজে প্ৰতিলিপি হৈ কম্পিউটাৰত বিয়পি পৰা ছফ্টৱেৰ প্ৰগ্ৰামক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Browser",
+        "as": "ব্ৰাউজাৰ"
+      },
+      {
+        "en": "Worm",
+        "as": "ৱৰ্ম"
+      },
+      {
+        "en": "Compiler",
+        "as": "কম্পাইলাৰ"
+      },
+      {
+        "en": "Driver",
+        "as": "ড্ৰাইভাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A worm is a software program that self-replicates and spreads across computers.",
+      "as": "ৱৰ্ম হ'ল নিজে প্ৰতিলিপি হৈ কম্পিউটাৰত বিয়পি পৰা ছফ্টৱেৰ প্ৰগ্ৰাম।"
+    }
+  }
+]

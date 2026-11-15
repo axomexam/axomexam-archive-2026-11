@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-009",
+    "q": {
+      "en": "Which Indian rocket is nicknamed the 'Workhorse of ISRO'?",
+      "as": "কোন ভাৰতীয় ৰকেটক 'ইছৰোৰ কাম-ঘোঁৰা' বুলি উপনাম দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "GSLV",
+        "as": "জি এছ এল ভি"
+      },
+      {
+        "en": "LVM3",
+        "as": "এল ভি এম ৩"
+      },
+      {
+        "en": "PSLV",
+        "as": "পি এছ এল ভি"
+      },
+      {
+        "en": "SSLV",
+        "as": "এছ এছ এল ভি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Polar Satellite Launch Vehicle (PSLV) is nicknamed the Workhorse of ISRO.",
+      "as": "ধ্ৰুৱীয় উপগ্ৰহ উৎক্ষেপণ যান (পি এছ এল ভি) ক ইছৰোৰ কাম-ঘোঁৰা বুলি উপনাম দিয়া হয়।"
+    }
+  }
+]

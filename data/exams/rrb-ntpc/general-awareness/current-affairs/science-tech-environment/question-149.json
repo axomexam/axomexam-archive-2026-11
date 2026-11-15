@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-149",
+    "q": {
+      "en": "Iodine shortage brings on which disease?",
+      "as": "আয়'ডিনৰ অভাৱত কোন ৰোগত ভোগে?"
+    },
+    "options": [
+      {
+        "en": "Anaemia",
+        "as": "ৰক্তহীনতা"
+      },
+      {
+        "en": "Rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "Goitre",
+        "as": "গলগণ্ড"
+      },
+      {
+        "en": "Beri-beri",
+        "as": "বেৰি-বেৰি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A shortage of iodine brings on goitre.",
+      "as": "আয়'ডিনৰ অভাৱত গলগণ্ড ৰোগত ভোগে।"
+    }
+  }
+]

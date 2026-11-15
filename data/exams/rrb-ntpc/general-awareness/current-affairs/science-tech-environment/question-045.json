@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-045",
+    "q": {
+      "en": "Name the India's intercontinental-range ballistic missile?",
+      "as": "ভাৰতৰ আন্তঃমহাদেশীয় পৰিসৰৰ বেলিষ্টিক ক্ষেপণাস্ত্ৰ কোনটো হ'ব?"
+    },
+    "options": [
+      {
+        "en": "Prithvi",
+        "as": "পৃথিৱী"
+      },
+      {
+        "en": "Akash",
+        "as": "আকাশ"
+      },
+      {
+        "en": "Agni-V",
+        "as": "অগ্নি-৫"
+      },
+      {
+        "en": "Nag",
+        "as": "নাগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Agni-V belongs to India's intercontinental-range ballistic missile class.",
+      "as": "ভাৰতৰ আন্তঃমহাদেশীয় পৰিসৰৰ শ্ৰেণীত অগ্নি-৫ পৰে।"
+    }
+  }
+]

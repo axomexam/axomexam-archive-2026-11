@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-070",
+    "q": {
+      "en": "Which is India's indigenously developed fast breeder reactor located in Tamil Nadu?",
+      "as": "তামিলনাডুত অৱস্থিত ভাৰতৰ দেশজুৰি নিৰ্মিত দ্ৰুত প্ৰজনন ৰিয়েক্টৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Kudankulam-1",
+        "as": "কুডানকুলাম-১"
+      },
+      {
+        "en": "Tarapur-3",
+        "as": "টাৰাপুৰ-৩"
+      },
+      {
+        "en": "Narora-2",
+        "as": "নাৰোৰা-২"
+      },
+      {
+        "en": "PFBR Kalpakkam",
+        "as": "পি এফ বি আৰ কলপক্কম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Prototype Fast Breeder Reactor (PFBR) is at Kalpakkam in Tamil Nadu.",
+      "as": "প্ৰ'ট'টাইপ দ্ৰুত প্ৰজনন ৰিয়েক্টৰ (পি এফ বি আৰ) তামিলনাডুৰ কলপক্কমত অৱস্থিত।"
+    }
+  }
+]

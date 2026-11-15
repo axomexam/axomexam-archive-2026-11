@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-051",
+    "q": {
+      "en": "Which light combat aircraft has been developed by India?",
+      "as": "ভাৰতে কোন হালকা যুঁজাৰু বিমান বিকশিত কৰিছে?"
+    },
+    "options": [
+      {
+        "en": "Rafale",
+        "as": "ৰাফালে"
+      },
+      {
+        "en": "Tejas",
+        "as": "তেজস"
+      },
+      {
+        "en": "Mirage",
+        "as": "মিৰাজ"
+      },
+      {
+        "en": "Jaguar",
+        "as": "জাগুয়াৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Tejas is India's indigenous light combat aircraft.",
+      "as": "তেজস ভাৰতৰ দেশজুৰি নিৰ্মিত হালকা যুঁজাৰু বিমান।"
+    }
+  }
+]

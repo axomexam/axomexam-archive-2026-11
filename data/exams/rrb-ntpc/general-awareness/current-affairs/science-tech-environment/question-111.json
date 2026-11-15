@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-111",
+    "q": {
+      "en": "What does a Uniform Resource Locator (URL) identify?",
+      "as": "ইউনিফৰ্ম ৰিচ'ৰ্ছ ল'কেটৰ (ইউ আৰ এল) য়ে কি চিনাক্ত কৰে?"
+    },
+    "options": [
+      {
+        "en": "The speed of the internet",
+        "as": "ইণ্টাৰনেটৰ গতি"
+      },
+      {
+        "en": "The address of a resource on the web",
+        "as": "ৱেবত এটা সম্পদৰ ঠিকনা"
+      },
+      {
+        "en": "The size of a file",
+        "as": "ফাইলৰ আকাৰ"
+      },
+      {
+        "en": "The name of a computer",
+        "as": "কম্পিউটাৰৰ নাম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The web address of a resource is given by its URL.",
+      "as": "ইউ আৰ এল য়ে ৱেবত এটা সম্পদৰ ঠিকনা চিনাক্ত কৰে।"
+    }
+  }
+]

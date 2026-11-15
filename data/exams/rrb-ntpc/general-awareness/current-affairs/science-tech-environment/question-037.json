@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-037",
+    "q": {
+      "en": "Where is the Giant Metrewave Radio Telescope located?",
+      "as": "বৃহৎ মিটাৰৱেৱ ৰেডিঅ' টেলিস্কোপ ক'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Bengaluru",
+        "as": "বেংগালুৰু"
+      },
+      {
+        "en": "Pune",
+        "as": "পুনে"
+      },
+      {
+        "en": "Udaipur",
+        "as": "উদয়পুৰ"
+      },
+      {
+        "en": "Hyderabad",
+        "as": "হাইদৰাবাদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The GMRT is located near Pune in Maharashtra.",
+      "as": "জি এম আৰ টি মহাৰাষ্ট্ৰৰ পুনেৰ ওচৰত অৱস্থিত।"
+    }
+  }
+]

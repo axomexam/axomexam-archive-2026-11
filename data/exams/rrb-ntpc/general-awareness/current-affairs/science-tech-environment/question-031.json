@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-031",
+    "q": {
+      "en": "What is a celestial object made of ice and dust with a glowing tail called?",
+      "as": "বৰফ আৰু ধূলিৰে গঠিত জিলিকি থকা নেজযুক্ত মহাজাগতিক বস্তুক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Meteor",
+        "as": "উল্কা"
+      },
+      {
+        "en": "Asteroid",
+        "as": "গ্ৰহাণু"
+      },
+      {
+        "en": "Comet",
+        "as": "ধূমকেতু"
+      },
+      {
+        "en": "Satellite",
+        "as": "উপগ্ৰহ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A comet is an icy, dusty body that develops a glowing tail near the Sun.",
+      "as": "ধূমকেতু হ'ল সূৰ্যৰ ওচৰত জিলিকি থকা নেজ গঢ়া বৰফ-ধূলিময় বস্তু।"
+    }
+  }
+]

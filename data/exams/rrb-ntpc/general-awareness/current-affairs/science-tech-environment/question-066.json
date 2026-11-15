@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-066",
+    "q": {
+      "en": "Which Indian nuclear tests were conducted in 1998 at Pokhran?",
+      "as": "১৯৯৮ চনত পোখৰাণত ভাৰতৰ কোন পাৰমাণৱিক পৰীক্ষাসমূহ কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Smiling Buddha",
+        "as": "স্মাইলিং বুদ্ধ"
+      },
+      {
+        "en": "Operation Vijay",
+        "as": "অপাৰেচন বিজয়"
+      },
+      {
+        "en": "Operation Meghdoot",
+        "as": "অপাৰেচন মেঘদূত"
+      },
+      {
+        "en": "Operation Shakti",
+        "as": "অপাৰেচন শক্তি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The 1998 Pokhran tests were codenamed Operation Shakti.",
+      "as": "১৯৯৮ চনৰ পোখৰাণ পৰীক্ষাসমূহৰ সংকেত নাম আছিল অপাৰেচন শক্তি।"
+    }
+  }
+]

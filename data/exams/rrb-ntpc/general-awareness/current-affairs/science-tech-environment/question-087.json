@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-087",
+    "q": {
+      "en": "Which energy source is associated with tidal power?",
+      "as": "কোন শক্তি উৎস জোৱাৰ শক্তিৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Sunlight",
+        "as": "সূৰ্যৰ পোহৰ"
+      },
+      {
+        "en": "Wind",
+        "as": "বায়ু"
+      },
+      {
+        "en": "The rise and fall of sea levels",
+        "as": "সমুদ্ৰৰ জলপৃষ্ঠৰ উত্থান-পতন"
+      },
+      {
+        "en": "Volcanic heat",
+        "as": "আগ্নেয়গিৰিৰ তাপ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tidal power uses the rise and fall of sea levels.",
+      "as": "জোৱাৰ শক্তিয়ে সমুদ্ৰৰ জলপৃষ্ঠৰ উত্থান-পতন ব্যৱহাৰ কৰে।"
+    }
+  }
+]

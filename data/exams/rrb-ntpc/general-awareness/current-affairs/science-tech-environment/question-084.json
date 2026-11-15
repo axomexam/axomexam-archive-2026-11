@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-084",
+    "q": {
+      "en": "What is the by-product emitted by a hydrogen fuel cell?",
+      "as": "হাইড্ৰজেন ইন্ধন চেলে কি উপজাত নিৰ্গত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Water vapour",
+        "as": "জলীয় বাষ্প"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাই-অক্সাইড"
+      },
+      {
+        "en": "Sulphur dioxide",
+        "as": "ছালফাৰ ডাই-অক্সাইড"
+      },
+      {
+        "en": "Nitrogen oxide",
+        "as": "নাইট্ৰজেন অক্সাইড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A hydrogen fuel cell emits only water vapour as a by-product.",
+      "as": "হাইড্ৰজেন ইন্ধন চেলে কেৱল জলীয় বাষ্প উপজাত হিচাপে নিৰ্গত কৰে।"
+    }
+  }
+]

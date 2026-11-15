@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-048",
+    "q": {
+      "en": "What type of missile is BrahMos?",
+      "as": "ব্ৰহ্মস কি ধৰণৰ ক্ষেপণাস্ত্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Ballistic missile",
+        "as": "বেলিষ্টিক ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Supersonic cruise missile",
+        "as": "ছুপাৰচনিক ক্ৰুজ ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Anti-tank missile",
+        "as": "টেংক-বিৰোধী ক্ষেপণাস্ত্ৰ"
+      },
+      {
+        "en": "Surface-to-air missile",
+        "as": "ভূ-পৰা-বায়ু ক্ষেপণাস্ত্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "BrahMos is a supersonic cruise missile.",
+      "as": "ব্ৰহ্মস ছুপাৰচনিক ক্ৰুজ ক্ষেপণাস্ত্ৰ।"
+    }
+  }
+]

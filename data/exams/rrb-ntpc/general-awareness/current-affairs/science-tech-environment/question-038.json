@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-038",
+    "q": {
+      "en": "What is the study of celestial objects called?",
+      "as": "মহাজাগতিক বস্তুৰ অধ্যয়নক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Astrology",
+        "as": "জ্যোতিষশাস্ত্ৰ"
+      },
+      {
+        "en": "Geology",
+        "as": "ভূতত্ত্ব"
+      },
+      {
+        "en": "Meteorology",
+        "as": "বতৰ বিজ্ঞান"
+      },
+      {
+        "en": "Astronomy",
+        "as": "জ্যোতিৰ্বিজ্ঞান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Astronomy is the study of celestial objects.",
+      "as": "জ্যোতিৰ্বিজ্ঞান হ'ল মহাজাগতিক বস্তুৰ অধ্যয়ন।"
+    }
+  }
+]

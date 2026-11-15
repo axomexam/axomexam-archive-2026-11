@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-074",
+    "q": {
+      "en": "Which renewable energy source uses the force of flowing water?",
+      "as": "কোন নৱীকৰণযোগ্য শক্তি উৎসই বৈ যোৱা পানীৰ বল ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Solar energy",
+        "as": "সৌৰ শক্তি"
+      },
+      {
+        "en": "Hydroelectricity",
+        "as": "জলবিদ্যুৎ"
+      },
+      {
+        "en": "Geothermal energy",
+        "as": "ভূ-তাপীয় শক্তি"
+      },
+      {
+        "en": "Biomass energy",
+        "as": "জৈৱমাত্ৰা শক্তি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Hydroelectricity uses the force of flowing water.",
+      "as": "জলবিদ্যুৎ বৈ যোৱা পানীৰ বল ব্যৱহাৰ কৰে।"
+    }
+  }
+]

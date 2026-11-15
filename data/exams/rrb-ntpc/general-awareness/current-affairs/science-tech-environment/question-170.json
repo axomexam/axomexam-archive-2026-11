@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-170",
+    "q": {
+      "en": "What is a medicine that kills or stops the growth of bacteria called?",
+      "as": "বেক্টেৰিয়া ধ্বংস কৰা বা ইয়াৰ বৃদ্ধি ৰোধ কৰা ঔষধক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Antiseptic",
+        "as": "প্ৰতিৰোধক"
+      },
+      {
+        "en": "Vaccine",
+        "as": "টিকা"
+      },
+      {
+        "en": "Antibiotic",
+        "as": "প্ৰতিজৈৱিক"
+      },
+      {
+        "en": "Analgesic",
+        "as": "বেদনানাশক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "An antibiotic kills or stops the growth of bacteria.",
+      "as": "প্ৰতিজৈৱিকে বেক্টেৰিয়া ধ্বংস কৰে বা ইয়াৰ বৃদ্ধি ৰোধ কৰে।"
+    }
+  }
+]

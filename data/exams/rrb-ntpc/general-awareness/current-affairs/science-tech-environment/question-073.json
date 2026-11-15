@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-073",
+    "q": {
+      "en": "Which material is commonly used to make solar cells?",
+      "as": "সৌৰ চেল তৈয়াৰ কৰিবলৈ সাধাৰণতে কোন পদাৰ্থ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Silicon",
+        "as": "ছিলিকন"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Aluminium",
+        "as": "এলুমিনিয়াম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Silicon is commonly used to make solar cells.",
+      "as": "ছিলিকন সাধাৰণতে সৌৰ চেল তৈয়াৰ কৰিবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

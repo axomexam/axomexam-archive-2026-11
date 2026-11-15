@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-083",
+    "q": {
+      "en": "Which fuel is used in a hydrogen fuel cell to produce electricity?",
+      "as": "বিদ্যুৎ উৎপাদনৰ বাবে হাইড্ৰজেন ইন্ধন চেলত কোন ইন্ধন ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      },
+      {
+        "en": "Coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "Diesel",
+        "as": "ডিজেল"
+      },
+      {
+        "en": "Methane",
+        "as": "মিথেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hydrogen is used in a hydrogen fuel cell to produce electricity.",
+      "as": "বিদ্যুৎ উৎপাদনৰ বাবে হাইড্ৰজেন ইন্ধন চেলত হাইড্ৰজেন ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

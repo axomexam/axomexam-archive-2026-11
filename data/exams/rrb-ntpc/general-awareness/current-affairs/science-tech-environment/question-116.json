@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-116",
+    "q": {
+      "en": "Which part of a computer is often called its 'brain'?",
+      "as": "কম্পিউটাৰৰ কোন অংশক প্ৰায়ে ইয়াৰ 'মগজু' বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Monitor",
+        "as": "মনিটৰ"
+      },
+      {
+        "en": "CPU",
+        "as": "চি পি ইউ"
+      },
+      {
+        "en": "Keyboard",
+        "as": "কীবৰ্ড"
+      },
+      {
+        "en": "Mouse",
+        "as": "মাউছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The CPU is often called the brain of a computer.",
+      "as": "চি পি ইউ ক প্ৰায়ে কম্পিউটাৰৰ মগজু বোলা হয়।"
+    }
+  }
+]

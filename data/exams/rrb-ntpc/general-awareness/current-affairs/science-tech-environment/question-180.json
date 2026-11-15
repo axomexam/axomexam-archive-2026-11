@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-180",
+    "q": {
+      "en": "What is rain with acidic pollutants such as sulphur dioxide called?",
+      "as": "ছালফাৰ ডাই-অক্সাইডৰ দৰে অম্লীয় দূষকযুক্ত বৰষুণক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Acid rain",
+        "as": "অম্ল বৰষুণ"
+      },
+      {
+        "en": "Acid fog",
+        "as": "অম্ল কুঁৱলী"
+      },
+      {
+        "en": "Smog",
+        "as": "ধোঁৱা-কুঁৱলী"
+      },
+      {
+        "en": "Hail",
+        "as": "শিলাবৃষ্টি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Acid rain is rain with acidic pollutants such as sulphur dioxide.",
+      "as": "অম্ল বৰষুণ হ'ল ছালফাৰ ডাই-অক্সাইডৰ দৰে অম্লীয় দূষকযুক্ত বৰষুণ।"
+    }
+  }
+]

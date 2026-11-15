@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-140",
+    "q": {
+      "en": "What is the basic functional unit of the kidney called?",
+      "as": "বৃক্কৰ মৌলিক কাৰ্যকৰী এককক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Nephron",
+        "as": "নেফ্ৰন"
+      },
+      {
+        "en": "Neuron",
+        "as": "নিউৰন"
+      },
+      {
+        "en": "Alveolus",
+        "as": "এলভিঅ'লাছ"
+      },
+      {
+        "en": "Villus",
+        "as": "ভিলাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The kidney's fundamental working unit is the nephron.",
+      "as": "নেফ্ৰন হ'ল বৃক্কৰ মৌলিক কাৰ্যকৰী একক।"
+    }
+  }
+]

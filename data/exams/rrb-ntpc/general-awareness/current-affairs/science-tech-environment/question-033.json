@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-033",
+    "q": {
+      "en": "Which phenomenon is caused by the rotation of the Earth on its axis?",
+      "as": "পৃথিৱীয়ে নিজৰ অক্ষত ঘূৰ্ণনৰ ফলত কোন পৰিঘটনা ঘটে?"
+    },
+    "options": [
+      {
+        "en": "Day and night",
+        "as": "দিন আৰু ৰাতি"
+      },
+      {
+        "en": "Seasons",
+        "as": "ঋতু"
+      },
+      {
+        "en": "Solar eclipse",
+        "as": "সূৰ্যগ্ৰহণ"
+      },
+      {
+        "en": "Monsoons",
+        "as": "বৰষুণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The rotation of the Earth on its axis causes day and night.",
+      "as": "পৃথিৱীয়ে নিজৰ অক্ষত ঘূৰ্ণনৰ ফলত দিন আৰু ৰাতি হয়।"
+    }
+  }
+]

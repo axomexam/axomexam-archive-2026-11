@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-006",
+    "q": {
+      "en": "Which was India's first satellite?",
+      "as": "ভাৰতৰ প্ৰথম উপগ্ৰহ কোনটো আছিল?"
+    },
+    "options": [
+      {
+        "en": "Bhaskara",
+        "as": "ভাস্কৰ"
+      },
+      {
+        "en": "Rohini",
+        "as": "ৰোহিণী"
+      },
+      {
+        "en": "Aryabhata",
+        "as": "আৰ্যভট্ট"
+      },
+      {
+        "en": "INSAT-1A",
+        "as": "ইনছেট-১এ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Aryabhata, launched in 1975, was India's first satellite.",
+      "as": "১৯৭৫ চনত উৎক্ষেপিত আৰ্যভট্ট ভাৰতৰ প্ৰথম উপগ্ৰহ আছিল।"
+    }
+  }
+]

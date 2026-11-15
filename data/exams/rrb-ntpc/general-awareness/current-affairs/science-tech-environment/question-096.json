@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-096",
+    "q": {
+      "en": "What is a network of physical devices connected through the internet called?",
+      "as": "ইণ্টাৰনেটৰ জৰিয়তে সংযুক্ত ভৌতিক সঁজুলিৰ নেটৱৰ্কক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Internet of Things",
+        "as": "ইণ্টাৰনেট অৱ থিংছ"
+      },
+      {
+        "en": "Local Area Network",
+        "as": "স্থানীয় এলেকা নেটৱৰ্ক"
+      },
+      {
+        "en": "Cloud storage",
+        "as": "ক্লাউড ষ্ট'ৰেজ"
+      },
+      {
+        "en": "World Wide Web",
+        "as": "ৱৰ্ল্ড ৱাইড ৱেব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Internet of Things (IoT) is a network of physical devices connected through the internet.",
+      "as": "ইণ্টাৰনেট অৱ থিংছ (আই অ' টি) ইণ্টাৰনেটৰ জৰিয়তে সংযুক্ত ভৌতিক সঁজুলিৰ নেটৱৰ্ক।"
+    }
+  }
+]

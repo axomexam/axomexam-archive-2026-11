@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-101",
+    "q": {
+      "en": "What is a digital record of transactions maintained across many computers called?",
+      "as": "বহু কম্পিউটাৰত ৰক্ষণাবেক্ষণ কৰা লেনদেনৰ ডিজিটেল অভিলেখক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Spreadsheet",
+        "as": "স্প্ৰেডশ্বীট"
+      },
+      {
+        "en": "Database table",
+        "as": "ডাটাবেছ টেবুল"
+      },
+      {
+        "en": "Log file",
+        "as": "লগ ফাইল"
+      },
+      {
+        "en": "Blockchain",
+        "as": "ব্লকচেইন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A blockchain is a digital record of transactions maintained across many computers.",
+      "as": "ব্লকচেইন হ'ল বহু কম্পিউটাৰত ৰক্ষণাবেক্ষণ কৰা লেনদেনৰ ডিজিটেল অভিলেখ।"
+    }
+  }
+]

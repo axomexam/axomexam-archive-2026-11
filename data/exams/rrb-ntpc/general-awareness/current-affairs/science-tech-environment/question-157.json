@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-157",
+    "q": {
+      "en": "Which vaccine was developed by Edward Jenner?",
+      "as": "এডৱাৰ্ড জেনাৰে কোন টিকা বিকশিত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Polio vaccine",
+        "as": "পলিঅ' টিকা"
+      },
+      {
+        "en": "BCG vaccine",
+        "as": "বিচিজি টিকা"
+      },
+      {
+        "en": "Rabies vaccine",
+        "as": "জলাতঙ্কৰ টিকা"
+      },
+      {
+        "en": "Smallpox vaccine",
+        "as": "জলবসন্তৰ টিকা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Edward Jenner developed the smallpox vaccine.",
+      "as": "এডৱাৰ্ড জেনাৰে জলবসন্তৰ টিকা বিকশিত কৰিছিল।"
+    }
+  }
+]

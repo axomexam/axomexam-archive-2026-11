@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-107",
+    "q": {
+      "en": "What is the process of converting data into a coded form to protect it called?",
+      "as": "তথ্য সুৰক্ষিত কৰিবলৈ তথ্যক সংকেতিত ৰূপলৈ ৰূপান্তৰ কৰা প্ৰক্ৰিয়াক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Compression",
+        "as": "কম্প্ৰেছন"
+      },
+      {
+        "en": "Formatting",
+        "as": "ফৰ্মেটিং"
+      },
+      {
+        "en": "Defragmentation",
+        "as": "ডিফ্ৰেগমেণ্টেচন"
+      },
+      {
+        "en": "Encryption",
+        "as": "এনক্ৰিপশন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Encryption converts data into a coded form to protect it.",
+      "as": "এনক্ৰিপশনে তথ্য সুৰক্ষিত কৰিবলৈ তথ্যক সংকেতিত ৰূপলৈ ৰূপান্তৰ কৰে।"
+    }
+  }
+]

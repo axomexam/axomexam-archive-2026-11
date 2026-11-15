@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-120",
+    "q": {
+      "en": "Which Indian organisation operates the NavIC navigation system?",
+      "as": "কোন ভাৰতীয় সংস্থাই নাভিক নেভিগেশন ব্যৱস্থা পৰিচালনা কৰে?"
+    },
+    "options": [
+      {
+        "en": "DRDO",
+        "as": "ডি আৰ ডি অ'"
+      },
+      {
+        "en": "BARC",
+        "as": "বি এ আৰ চি"
+      },
+      {
+        "en": "ISRO",
+        "as": "ইছৰো"
+      },
+      {
+        "en": "CSIR",
+        "as": "চি এছ আই আৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "ISRO operates the NavIC navigation system.",
+      "as": "ইছৰোৱে নাভিক নেভিগেশন ব্যৱস্থা পৰিচালনা কৰে।"
+    }
+  }
+]

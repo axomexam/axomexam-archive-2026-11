@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-098",
+    "q": {
+      "en": "What is a quantum computer's basic unit of information called?",
+      "as": "কোৱাণ্টাম কম্পিউটাৰৰ তথ্যৰ মৌলিক এককক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Qubit",
+        "as": "কিউবিট"
+      },
+      {
+        "en": "Byte",
+        "as": "বাইট"
+      },
+      {
+        "en": "Pixel",
+        "as": "পিক্সেল"
+      },
+      {
+        "en": "Bit",
+        "as": "বিট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The basic unit of information in a quantum computer is the qubit.",
+      "as": "কোৱাণ্টাম কম্পিউটাৰত তথ্যৰ মৌলিক একক হ'ল কিউবিট।"
+    }
+  }
+]

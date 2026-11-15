@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-064",
+    "q": {
+      "en": "Which Indian reactor type aims to use thorium in its third stage?",
+      "as": "ভাৰতৰ কোন ৰিয়েক্টৰ প্ৰকাৰে তৃতীয় পৰ্যায়ত থৰিয়াম ব্যৱহাৰ কৰাৰ লক্ষ্য ৰাখিছে?"
+    },
+    "options": [
+      {
+        "en": "Fast breeder reactor",
+        "as": "দ্ৰুত প্ৰজনন ৰিয়েক্টৰ"
+      },
+      {
+        "en": "Pressurised water reactor",
+        "as": "চাপযুক্ত পানী ৰিয়েক্টৰ"
+      },
+      {
+        "en": "Boiling water reactor",
+        "as": "উতল পানী ৰিয়েক্টৰ"
+      },
+      {
+        "en": "Gas-cooled reactor",
+        "as": "গেছ-শীতল ৰিয়েক্টৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "India's three-stage nuclear programme aims to use thorium in the third stage, using fast breeder reactors.",
+      "as": "ভাৰতৰ তিনি-পৰ্যায়ৰ পাৰমাণৱিক কাৰ্যসূচীয়ে দ্ৰুত প্ৰজনন ৰিয়েক্টৰ ব্যৱহাৰ কৰি তৃতীয় পৰ্যায়ত থৰিয়াম ব্যৱহাৰৰ লক্ষ্য ৰাখিছে।"
+    }
+  }
+]

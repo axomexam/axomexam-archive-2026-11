@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-139",
+    "q": {
+      "en": "Which organ is mainly responsible for filtering waste from the blood?",
+      "as": "ৰক্তৰ পৰা আৱৰ্জনা পৰিশোধনৰ বাবে মূলতঃ কোন অংগ দায়ী?"
+    },
+    "options": [
+      {
+        "en": "Heart",
+        "as": "হৃদয়"
+      },
+      {
+        "en": "Kidney",
+        "as": "বৃক্ক"
+      },
+      {
+        "en": "Lungs",
+        "as": "হাওঁফাওঁ"
+      },
+      {
+        "en": "Stomach",
+        "as": "পেট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Waste is removed from the blood by the kidneys.",
+      "as": "বৃক্কই ৰক্তৰ পৰা আৱৰ্জনা পৰিশোধন কৰে।"
+    }
+  }
+]

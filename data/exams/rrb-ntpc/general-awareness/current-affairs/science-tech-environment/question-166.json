@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-166",
+    "q": {
+      "en": "What is a genetically modified crop?",
+      "as": "জিনীয়ভাৱে পৰিৱৰ্তিত শস্য কি?"
+    },
+    "options": [
+      {
+        "en": "A crop grown without water",
+        "as": "পানী নোহোৱাকৈ খেতি কৰা শস্য"
+      },
+      {
+        "en": "A crop grown in a greenhouse",
+        "as": "গ্ৰীণহাউছত খেতি কৰা শস্য"
+      },
+      {
+        "en": "A crop whose genes have been altered",
+        "as": "যিটো শস্যৰ জিন সলনি কৰা হৈছে"
+      },
+      {
+        "en": "A crop harvested by machine",
+        "as": "মেছিনেৰে চপোৱা শস্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A genetically modified crop is one whose genes have been altered.",
+      "as": "জিনীয়ভাৱে পৰিৱৰ্তিত শস্য হ'ল যিটো শস্যৰ জিন সলনি কৰা হৈছে।"
+    }
+  }
+]

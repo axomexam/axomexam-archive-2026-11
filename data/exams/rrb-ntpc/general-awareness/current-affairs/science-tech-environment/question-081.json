@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-081",
+    "q": {
+      "en": "What is the main component of compressed natural gas (CNG)?",
+      "as": "চাপযুক্ত প্ৰাকৃতিক গেছ (চি এন জি) ৰ প্ৰধান উপাদান কি?"
+    },
+    "options": [
+      {
+        "en": "Propane",
+        "as": "প্ৰ'পেন"
+      },
+      {
+        "en": "Butane",
+        "as": "বিউটেন"
+      },
+      {
+        "en": "Methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Methane is the main component of compressed natural gas.",
+      "as": "মিথেন চাপযুক্ত প্ৰাকৃতিক গেছৰ প্ৰধান উপাদান।"
+    }
+  }
+]

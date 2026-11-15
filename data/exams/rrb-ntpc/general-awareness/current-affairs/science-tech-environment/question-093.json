@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-093",
+    "q": {
+      "en": "What is a machine's ability to learn from data without explicit programming called?",
+      "as": "স্পষ্ট প্ৰগ্ৰামিং নোহোৱাকৈ তথ্যৰ পৰা শিকাৰ মেছিনৰ ক্ষমতাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Machine learning",
+        "as": "মেছিন লাৰ্নিং"
+      },
+      {
+        "en": "Cloud storage",
+        "as": "ক্লাউড ষ্ট'ৰেজ"
+      },
+      {
+        "en": "Cyber security",
+        "as": "চাইবাৰ সুৰক্ষা"
+      },
+      {
+        "en": "Networking",
+        "as": "নেটৱৰ্কিং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Machine learning is a machine's ability to learn from data without explicit programming.",
+      "as": "মেছিন লাৰ্নিং হ'ল স্পষ্ট প্ৰগ্ৰামিং নোহোৱাকৈ তথ্যৰ পৰা শিকাৰ মেছিনৰ ক্ষমতা।"
+    }
+  }
+]

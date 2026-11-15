@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-162",
+    "q": {
+      "en": "What is the technique of producing an identical copy of an organism called?",
+      "as": "জীৱ এটাৰ হুবহু প্ৰতিলিপি উৎপাদন কৰাৰ কৌশলক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Mutation",
+        "as": "পৰিৱৰ্তন"
+      },
+      {
+        "en": "Cloning",
+        "as": "ক্ল'নিং"
+      },
+      {
+        "en": "Hybridisation",
+        "as": "সংকৰণ"
+      },
+      {
+        "en": "Fermentation",
+        "as": "গাঁজন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cloning is the technique of producing an identical copy of an organism.",
+      "as": "ক্ল'নিং হ'ল জীৱ এটাৰ হুবহু প্ৰতিলিপি উৎপাদন কৰাৰ কৌশল।"
+    }
+  }
+]

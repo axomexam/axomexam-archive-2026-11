@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-007",
+    "q": {
+      "en": "Which was the first Indian satellite launched by an Indian rocket?",
+      "as": "ভাৰতীয় ৰকেটেৰে উৎক্ষেপিত প্ৰথম ভাৰতীয় উপগ্ৰহ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Aryabhata",
+        "as": "আৰ্যভট্ট"
+      },
+      {
+        "en": "Bhaskara",
+        "as": "ভাস্কৰ"
+      },
+      {
+        "en": "Apple",
+        "as": "এপল"
+      },
+      {
+        "en": "Rohini",
+        "as": "ৰোহিণী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Rohini was the first satellite placed in orbit by an Indian launch vehicle.",
+      "as": "ৰোহিণী আছিল ভাৰতীয় উৎক্ষেপণ যানেৰে কক্ষপথত স্থাপন কৰা প্ৰথম উপগ্ৰহ।"
+    }
+  }
+]

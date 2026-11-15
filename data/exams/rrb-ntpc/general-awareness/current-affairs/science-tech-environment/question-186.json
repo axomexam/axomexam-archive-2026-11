@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-186",
+    "q": {
+      "en": "Which gas is mainly released by the burning of fossil fuels in vehicles?",
+      "as": "যান-বাহনত জীৱাশ্ম ইন্ধন জ্বলোৱাৰ ফলত মূলতঃ কোন গেছ নিৰ্গত হয়?"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Carbon monoxide",
+        "as": "কাৰ্বন মন'ক্সাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "Helium",
+        "as": "হিলিয়াম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Carbon monoxide is mainly released by the burning of fossil fuels in vehicles.",
+      "as": "যান-বাহনত জীৱাশ্ম ইন্ধন জ্বলোৱাৰ ফলত মূলতঃ কাৰ্বন মন'ক্সাইড নিৰ্গত হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-091",
+    "q": {
+      "en": "Which type of power plant uses uranium as fuel?",
+      "as": "কোন ধৰণৰ শক্তি কেন্দ্ৰই ইউৰেনিয়াম ইন্ধন হিচাপে ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Nuclear power plant",
+        "as": "পাৰমাণৱিক শক্তি কেন্দ্ৰ"
+      },
+      {
+        "en": "Thermal power plant",
+        "as": "তাপ শক্তি কেন্দ্ৰ"
+      },
+      {
+        "en": "Hydro power plant",
+        "as": "জল শক্তি কেন্দ্ৰ"
+      },
+      {
+        "en": "Solar power plant",
+        "as": "সৌৰ শক্তি কেন্দ্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A nuclear power plant uses uranium as fuel.",
+      "as": "পাৰমাণৱিক শক্তি কেন্দ্ৰই ইউৰেনিয়াম ইন্ধন হিচাপে ব্যৱহাৰ কৰে।"
+    }
+  }
+]

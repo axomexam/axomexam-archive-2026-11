@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-019",
+    "q": {
+      "en": "What does the Lagrange point L1 offer a spacecraft like Aditya-L1?",
+      "as": "লেগ্ৰাঞ্জ বিন্দু এল১ এ আদিত্য-এল১ ৰ দৰে মহাকাশযানক কি সুবিধা দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "An uninterrupted view of the Sun",
+        "as": "সূৰ্যৰ অবিৰত দৃশ্য"
+      },
+      {
+        "en": "A landing site on the Moon",
+        "as": "চন্দ্ৰত অৱতৰণ স্থান"
+      },
+      {
+        "en": "A direct path to Mars",
+        "as": "মঙ্গললৈ পোনপটীয়া পথ"
+      },
+      {
+        "en": "Escape from Earth's gravity",
+        "as": "পৃথিৱীৰ মাধ্যাকৰ্ষণৰ পৰা মুক্তি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "At L1 a spacecraft gets an uninterrupted view of the Sun.",
+      "as": "এল১ ত মহাকাশযানে সূৰ্যৰ অবিৰত দৃশ্য লাভ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-053",
+    "q": {
+      "en": "Which is India's main battle tank developed indigenously?",
+      "as": "ভাৰতৰ দেশজুৰি নিৰ্মিত প্ৰধান যুদ্ধ টেংক কোনটো?"
+    },
+    "options": [
+      {
+        "en": "T-90",
+        "as": "টি-৯০"
+      },
+      {
+        "en": "T-72",
+        "as": "টি-৭২"
+      },
+      {
+        "en": "Vijayanta",
+        "as": "বিজয়ন্ত"
+      },
+      {
+        "en": "Arjun",
+        "as": "অৰ্জুন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Arjun holds the distinction of being India's home-built main battle tank.",
+      "as": "অৰ্জুন ভাৰতৰ দেশজুৰি নিৰ্মিত প্ৰধান যুদ্ধ টেংক।"
+    }
+  }
+]

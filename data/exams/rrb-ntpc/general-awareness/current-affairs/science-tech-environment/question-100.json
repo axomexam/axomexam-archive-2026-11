@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-100",
+    "q": {
+      "en": "Which technology uses blockchain as its foundation?",
+      "as": "কোন প্ৰযুক্তিয়ে ইয়াৰ ভিত্তি হিচাপে ব্লকচেইন ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Cryptocurrency",
+        "as": "ক্ৰিপ্ট'কাৰেন্সি"
+      },
+      {
+        "en": "Television",
+        "as": "দূৰদৰ্শন"
+      },
+      {
+        "en": "Radio",
+        "as": "ৰেডিঅ'"
+      },
+      {
+        "en": "Photography",
+        "as": "ফটোগ্ৰাফী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cryptocurrency uses blockchain as its foundation.",
+      "as": "ক্ৰিপ্ট'কাৰেন্সিয়ে ইয়াৰ ভিত্তি হিচাপে ব্লকচেইন ব্যৱহাৰ কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-102",
+    "q": {
+      "en": "What is the digital currency issued by a central bank called?",
+      "as": "কেন্দ্ৰীয় বেংকে জাৰি কৰা ডিজিটেল মুদ্ৰাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Cryptocurrency",
+        "as": "ক্ৰিপ্ট'কাৰেন্সি"
+      },
+      {
+        "en": "Bitcoin",
+        "as": "বিটকইন"
+      },
+      {
+        "en": "Central Bank Digital Currency",
+        "as": "কেন্দ্ৰীয় বেংক ডিজিটেল মুদ্ৰা"
+      },
+      {
+        "en": "Mobile wallet",
+        "as": "ম'বাইল ৱালেট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A Central Bank Digital Currency is digital money issued by a central bank.",
+      "as": "কেন্দ্ৰীয় বেংক ডিজিটেল মুদ্ৰা হ'ল কেন্দ্ৰীয় বেংকে জাৰি কৰা ডিজিটেল ধন।"
+    }
+  }
+]

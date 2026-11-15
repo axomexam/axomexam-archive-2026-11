@@ -920,3 +920,58 @@ What was done, so the next agent does not redo or undo it:
 - **`data/counts.json` is deliberately unchanged.** The book is still
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
+
+## Session record — Nov 2026 RRB NTPC Science, Tech & Environment question bank (186 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Extended** the Science, Tech & Environment topic of the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/current-affairs/science-tech-environment/`:
+  `question-002.json` … `question-186.json` (185 new files) on top of the
+  existing `question-001.json` ("which gas causes global warming"), for **186
+  questions** in the topic. Each file holds one MCQ in the repo's shape — `id`,
+  `q.{en,as}`, four `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 186 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty and
+  cover: space and astronomy (ISRO, Aryabhata, SLV-3, PSLV/GSLV/LVM3/SSLV,
+  Chandrayaan 1-3 and the Vikram lander / Pragyan rover, Mangalyaan, Aditya-L1
+  and the L1 point, Gaganyaan, the Bharatiya Antariksh Station, telescopes,
+  planets, comets and meteors, constellations, the Milky Way), defence and
+  nuclear technology (DRDO, the Prithvi / Agni / Akash / Nag / K-Sagarika
+  missile families, BrahMos and its name, INS Vikrant and Arihant, Tejas,
+  Prachand, Arjun, AMCA, AAD-PAD, NPCIL, BARC, Tarapur and Kudankulam, the
+  three-stage programme and thorium, the 1974 and 1998 tests), energy
+  (renewable and non-renewable sources, solar cells, wind and tidal and
+  geothermal power, biogas and CNG, hydrogen fuel cells), IT and emerging
+  technology (AI and machine learning, IoT, 5G, quantum computing and the
+  qubit, 3D printing, blockchain and CBDC, phishing, malware and worms,
+  firewalls, encryption, HTTPS and URLs, LAN/WAN, routers and modems, SSDs,
+  GPS and NavIC, binary, Param and Pratyush), health and biotechnology (the
+  cell, DNA, genetics, photosynthesis, xylem and phloem, the heart, kidneys and
+  nephrons, insulin, vitamins and their deficiency diseases, deficiency of iron
+  and iodine, blood groups, vaccines, penicillin, pasteurisation, cloning,
+  genetic engineering and Bt cotton, bioremediation), and environment and
+  climate (the ozone layer and its hole, the Montreal Protocol, the greenhouse
+  effect, global warming, acid rain, smog, eutrophication, and water and air
+  pollution).
+- **Answer keys** are spread over A/B/C/D — across all 186 questions the slots
+  hold 48/46/46/46; `--book rrb-ntpc --topic
+  general-awareness/current-affairs/science-tech-environment --check` reports 0
+  skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive, English and Assamese) against all other
+  question text already in `data/`. The first pass flagged 120 fields across 56
+  questions as near-duplicates (difflib ratio >= 0.90) — heavily against the
+  static `general-science/{physics,chemistry,biology}` banks, the dhs-dme
+  technical-science and exam-mock-set general-knowledge banks, and this book's
+  own `static-gk-computers/space-defence` and `basic-computers` banks, which
+  already ask the same Chandrayaan / missile / human-body / IT fundamentals
+  stems. A generic-transform reworder plus handcrafted rewrites brought
+  **cross-bank to 0**, and a second pass cleared the internal self-collisions
+  (the parallel "which of these is renewable" and "which disease is caused by a
+  virus" pairs) to **0** internally. The correct option and its meaning were
+  never changed anywhere, only wording.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.

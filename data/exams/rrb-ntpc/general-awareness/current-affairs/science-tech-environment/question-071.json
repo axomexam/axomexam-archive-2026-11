@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-071",
+    "q": {
+      "en": "Which energy source is considered renewable?",
+      "as": "কোন শক্তি উৎসক নৱীকৰণযোগ্য বুলি গণ্য কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Solar energy",
+        "as": "সৌৰ শক্তি"
+      },
+      {
+        "en": "Coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "Petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "Natural gas",
+        "as": "প্ৰাকৃতিক গেছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Solar energy is a renewable source of energy.",
+      "as": "সৌৰ শক্তি এটা নৱীকৰণযোগ্য শক্তি উৎস।"
+    }
+  }
+]

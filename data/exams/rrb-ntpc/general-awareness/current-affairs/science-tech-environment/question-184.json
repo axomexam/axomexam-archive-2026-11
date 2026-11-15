@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-184",
+    "q": {
+      "en": "What is the increase in nutrients in a water body causing excessive plant growth called?",
+      "as": "জলাশয়ত পুষ্টিৰ বৃদ্ধিৰ ফলত অত্যধিক উদ্ভিদ বৃদ্ধি হোৱাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Salinisation",
+        "as": "লৱণীকৰণ"
+      },
+      {
+        "en": "Eutrophication",
+        "as": "অতি পুষ্টিকৰণ"
+      },
+      {
+        "en": "Sedimentation",
+        "as": "অৱক্ষেপণ"
+      },
+      {
+        "en": "Evaporation",
+        "as": "বাষ্পীভৱন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Eutrophication is the increase in nutrients in a water body causing excessive plant growth.",
+      "as": "অতি পুষ্টিকৰণ হ'ল জলাশয়ত পুষ্টিৰ বৃদ্ধিৰ ফলত অত্যধিক উদ্ভিদ বৃদ্ধি।"
+    }
+  }
+]

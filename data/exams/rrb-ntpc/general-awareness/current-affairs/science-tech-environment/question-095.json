@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-095",
+    "q": {
+      "en": "What does the term 'cloud computing' refer to?",
+      "as": "'ক্লাউড কম্পিউটিং' শব্দটোৱে কি সূচায়?"
+    },
+    "options": [
+      {
+        "en": "Storing files on a personal hard disk",
+        "as": "ব্যক্তিগত হাৰ্ড ডিস্কত ফাইল সঞ্চয়"
+      },
+      {
+        "en": "Using computing services over the internet",
+        "as": "ইণ্টাৰনেটৰ জৰিয়তে কম্পিউটিং সেৱা ব্যৱহাৰ"
+      },
+      {
+        "en": "Computing in aircraft",
+        "as": "বিমানত কম্পিউটিং"
+      },
+      {
+        "en": "Weather forecasting",
+        "as": "বতৰৰ পূৰ্বানুমান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cloud computing means using computing services over the internet.",
+      "as": "ক্লাউড কম্পিউটিঙৰ অৰ্থ ইণ্টাৰনেটৰ জৰিয়তে কম্পিউটিং সেৱা ব্যৱহাৰ।"
+    }
+  }
+]

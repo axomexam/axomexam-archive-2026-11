@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-133",
+    "q": {
+      "en": "Which part of the plant carries water from the roots to the leaves?",
+      "as": "উদ্ভিদৰ কোন অংশই শিপাৰ পৰা পাতলৈ পানী কঢ়িয়াই নিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Phloem",
+        "as": "ফ্লয়েম"
+      },
+      {
+        "en": "Cambium",
+        "as": "কেম্বিয়াম"
+      },
+      {
+        "en": "Cortex",
+        "as": "কৰ্টেক্স"
+      },
+      {
+        "en": "Xylem",
+        "as": "জাইলেম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Xylem carries water from the roots to the leaves.",
+      "as": "জাইলেমে শিপাৰ পৰা পাতলৈ পানী কঢ়িয়াই নিয়ে।"
+    }
+  }
+]

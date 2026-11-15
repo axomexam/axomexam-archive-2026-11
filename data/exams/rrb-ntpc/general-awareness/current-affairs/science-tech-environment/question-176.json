@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-176",
+    "q": {
+      "en": "Which gas is the chief cause of the depletion of the ozone layer?",
+      "as": "অ'জন স্তৰ ক্ষয়ৰ বাবে প্ৰধানকৈ কোন গেছ দায়ী?"
+    },
+    "options": [
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাই-অক্সাইড"
+      },
+      {
+        "en": "Methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "Chlorofluorocarbons",
+        "as": "ক্ল'ৰ'ফ্লুৰ'কাৰ্বন"
+      },
+      {
+        "en": "Sulphur dioxide",
+        "as": "ছালফাৰ ডাই-অক্সাইড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Chlorofluorocarbons (CFCs) are mainly responsible for ozone layer depletion.",
+      "as": "ক্ল'ৰ'ফ্লুৰ'কাৰ্বন (চি এফ চি) অ'জন স্তৰ ক্ষয়ৰ বাবে মূলতঃ দায়ী।"
+    }
+  }
+]

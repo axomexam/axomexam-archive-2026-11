@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-078",
+    "q": {
+      "en": "What is biogas mainly composed of?",
+      "as": "বায়োগেছ মূলতঃ কিৰে গঠিত?"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Biogas is mainly composed of methane.",
+      "as": "বায়োগেছ মূলতঃ মিথেনেৰে গঠিত।"
+    }
+  }
+]

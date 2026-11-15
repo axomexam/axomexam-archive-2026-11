@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-043",
+    "q": {
+      "en": "Which Indian missile is an anti-tank guided missile?",
+      "as": "কোন ভাৰতীয় ক্ষেপণাস্ত্ৰই টেংক-বিৰোধী পথপ্ৰদৰ্শিত ক্ষেপণাস্ত্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Akash",
+        "as": "আকাশ"
+      },
+      {
+        "en": "Trishul",
+        "as": "ত্ৰিশূল"
+      },
+      {
+        "en": "Nag",
+        "as": "নাগ"
+      },
+      {
+        "en": "Prithvi",
+        "as": "পৃথিৱী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Nag is an anti-tank guided missile.",
+      "as": "নাগ টেংক-বিৰোধী পথপ্ৰদৰ্শিত ক্ষেপণাস্ত্ৰ।"
+    }
+  }
+]

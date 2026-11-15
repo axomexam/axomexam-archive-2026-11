@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-039",
+    "q": {
+      "en": "Which organisation develops India's defence technology and weapons?",
+      "as": "কোন সংস্থাই ভাৰতৰ প্ৰতিৰক্ষা প্ৰযুক্তি আৰু অস্ত্ৰ বিকশিত কৰে?"
+    },
+    "options": [
+      {
+        "en": "ISRO",
+        "as": "ইছৰো"
+      },
+      {
+        "en": "DRDO",
+        "as": "ডি আৰ ডি অ'"
+      },
+      {
+        "en": "HAL",
+        "as": "এইচ এ এল"
+      },
+      {
+        "en": "BARC",
+        "as": "বি এ আৰ চি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Defence Research and Development Organisation (DRDO) develops India's defence technology.",
+      "as": "প্ৰতিৰক্ষা গৱেষণা আৰু উন্নয়ন সংস্থা (ডি আৰ ডি অ') য়ে ভাৰতৰ প্ৰতিৰক্ষা প্ৰযুক্তি বিকশিত কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-049",
+    "q": {
+      "en": "What is the name of India's nuclear-capable submarine?",
+      "as": "ভাৰতৰ পাৰমাণৱিক-সক্ষম ছাবমেৰিনৰ নাম কি?"
+    },
+    "options": [
+      {
+        "en": "INS Vikrant",
+        "as": "আই এন এছ বিৰান্ত"
+      },
+      {
+        "en": "INS Arihant",
+        "as": "আই এন এছ অৰিহন্ত"
+      },
+      {
+        "en": "INS Kolkata",
+        "as": "আই এন এছ কলকাতা"
+      },
+      {
+        "en": "INS Chennai",
+        "as": "আই এন এছ চেন্নাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "INS Arihant is India's nuclear-capable submarine.",
+      "as": "আই এন এছ অৰিহন্ত ভাৰতৰ পাৰমাণৱিক-সক্ষম ছাবমেৰিন।"
+    }
+  }
+]

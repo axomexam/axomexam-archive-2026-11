@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-152",
+    "q": {
+      "en": "Our diet draws its main energy from which nutrient?",
+      "as": "আমাৰ আহাৰত শক্তিৰ প্ৰধান উৎস কোন পুষ্টিকৰ উপাদান?"
+    },
+    "options": [
+      {
+        "en": "Carbohydrate",
+        "as": "কাৰ্ব'হাইড্ৰেট"
+      },
+      {
+        "en": "Protein",
+        "as": "প্ৰ'টিন"
+      },
+      {
+        "en": "Vitamin",
+        "as": "ভিটামিন"
+      },
+      {
+        "en": "Mineral",
+        "as": "খনিজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Our diet draws its main energy from carbohydrates.",
+      "as": "কাৰ্ব'হাইড্ৰেট আমাৰ আহাৰত শক্তিৰ প্ৰধান উৎস।"
+    }
+  }
+]

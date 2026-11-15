@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-072",
+    "q": {
+      "en": "Which device converts sunlight directly into electricity?",
+      "as": "কোন সঁজুলিয়ে সূৰ্যৰ পোহৰ পোনপটীয়াকৈ বিদ্যুতলৈ ৰূপান্তৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Solar water heater",
+        "as": "সৌৰ পানী উষ্ণক"
+      },
+      {
+        "en": "Solar photovoltaic cell",
+        "as": "সৌৰ ফট'ভল্টেইক চেল"
+      },
+      {
+        "en": "Solar cooker",
+        "as": "সৌৰ ৰন্ধন সঁজুলি"
+      },
+      {
+        "en": "Wind turbine",
+        "as": "বায়ু টাৰ্বাইন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A solar photovoltaic cell converts sunlight directly into electricity.",
+      "as": "সৌৰ ফট'ভল্টেইক চেলে সূৰ্যৰ পোহৰ পোনপটীয়াকৈ বিদ্যুতলৈ ৰূপান্তৰ কৰে।"
+    }
+  }
+]

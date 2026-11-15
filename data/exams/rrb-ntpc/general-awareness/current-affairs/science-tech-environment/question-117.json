@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-117",
+    "q": {
+      "en": "Which storage device has no moving parts and uses flash memory?",
+      "as": "কোন সঞ্চয় সঁজুলিত চলন্ত অংশ নাই আৰু ফ্লেশ মেম'ৰী ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "HDD",
+        "as": "এইচ ডি ডি"
+      },
+      {
+        "en": "Floppy disk",
+        "as": "ফ্লপী ডিস্ক"
+      },
+      {
+        "en": "SSD",
+        "as": "এছ এছ ডি"
+      },
+      {
+        "en": "CD",
+        "as": "চি ডি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A solid-state drive (SSD) has no moving parts and uses flash memory.",
+      "as": "ছলিড-ষ্টেট ড্ৰাইভ (এছ এছ ডি) ত চলন্ত অংশ নাই আৰু ফ্লেশ মেম'ৰী ব্যৱহাৰ কৰে।"
+    }
+  }
+]

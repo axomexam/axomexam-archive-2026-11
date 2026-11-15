@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-011",
+    "q": {
+      "en": "Which Indian launch vehicle is designed mainly for small satellites?",
+      "as": "কোন ভাৰতীয় উৎক্ষেপণ যান মূলতঃ সৰু উপগ্ৰহৰ বাবে ডিজাইন কৰা হৈছে?"
+    },
+    "options": [
+      {
+        "en": "PSLV",
+        "as": "পি এছ এল ভি"
+      },
+      {
+        "en": "GSLV",
+        "as": "জি এছ এল ভি"
+      },
+      {
+        "en": "SSLV",
+        "as": "এছ এছ এল ভি"
+      },
+      {
+        "en": "LVM3",
+        "as": "এল ভি এম ৩"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Small Satellite Launch Vehicle (SSLV) is designed for small satellites.",
+      "as": "সৰু উপগ্ৰহ উৎক্ষেপণ যান (এছ এছ এল ভি) সৰু উপগ্ৰহৰ বাবে ডিজাইন কৰা হৈছে।"
+    }
+  }
+]

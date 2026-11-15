@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-156",
+    "q": {
+      "en": "Which mosquito transmits dengue?",
+      "as": "কোন মশাই ডেংগু সংক্ৰমণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Anopheles",
+        "as": "এনোফিলিছ"
+      },
+      {
+        "en": "Culex",
+        "as": "কিউলেক্স"
+      },
+      {
+        "en": "Mansonia",
+        "as": "মেনছ'নিয়া"
+      },
+      {
+        "en": "Aedes",
+        "as": "এডিছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Aedes mosquito transmits dengue.",
+      "as": "এডিছ মশাই ডেংগু সংক্ৰমণ কৰে।"
+    }
+  }
+]

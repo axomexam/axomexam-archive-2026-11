@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-163",
+    "q": {
+      "en": "What is the application of biological processes to make useful products called?",
+      "as": "উপযোগী সামগ্ৰী তৈয়াৰ কৰিবলৈ জৈৱিক প্ৰক্ৰিয়াৰ প্ৰয়োগক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Metallurgy",
+        "as": "ধাতুবিদ্যা"
+      },
+      {
+        "en": "Geology",
+        "as": "ভূতত্ত্ব"
+      },
+      {
+        "en": "Biotechnology",
+        "as": "জৈৱ প্ৰযুক্তি"
+      },
+      {
+        "en": "Astronomy",
+        "as": "জ্যোতিৰ্বিজ্ঞান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Biotechnology is the application of biological processes to make useful products.",
+      "as": "জৈৱ প্ৰযুক্তি হ'ল উপযোগী সামগ্ৰী তৈয়াৰ কৰিবলৈ জৈৱিক প্ৰক্ৰিয়াৰ প্ৰয়োগ।"
+    }
+  }
+]

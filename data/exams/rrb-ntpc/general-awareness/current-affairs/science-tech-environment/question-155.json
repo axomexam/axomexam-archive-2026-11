@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-155",
+    "q": {
+      "en": "Which mosquito transmits malaria?",
+      "as": "কোন মশাই মেলেৰিয়া সংক্ৰমণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Aedes",
+        "as": "এডিছ"
+      },
+      {
+        "en": "Culex",
+        "as": "কিউলেক্স"
+      },
+      {
+        "en": "Mansonia",
+        "as": "মেনছ'নিয়া"
+      },
+      {
+        "en": "Anopheles",
+        "as": "এনোফিলিছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Anopheles mosquito transmits malaria.",
+      "as": "এনোফিলিছ মশাই মেলেৰিয়া সংক্ৰমণ কৰে।"
+    }
+  }
+]

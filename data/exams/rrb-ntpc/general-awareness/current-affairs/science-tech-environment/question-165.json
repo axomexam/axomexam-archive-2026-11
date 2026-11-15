@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-165",
+    "q": {
+      "en": "Which technique is used to separate DNA fragments by size?",
+      "as": "আকাৰ অনুসৰি ডি এন এ খণ্ড পৃথক কৰিবলৈ কোন কৌশল ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Chromatography",
+        "as": "ক্ৰমাট'গ্ৰাফী"
+      },
+      {
+        "en": "Distillation",
+        "as": "আসৱন"
+      },
+      {
+        "en": "Gel electrophoresis",
+        "as": "জেল ইলেক্ট্ৰফ'ৰেছিছ"
+      },
+      {
+        "en": "Centrifugation",
+        "as": "ছেণ্ট্ৰিফিউগেচন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Gel electrophoresis separates DNA fragments by size.",
+      "as": "জেল ইলেক্ট্ৰ'ফ'ৰেছিছে আকাৰ অনুসৰি ডি এন এ খণ্ড পৃথক কৰে।"
+    }
+  }
+]

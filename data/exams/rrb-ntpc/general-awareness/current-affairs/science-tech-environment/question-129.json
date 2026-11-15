@@ -1,0 +1,32 @@
+[
+  {
+    "id": "science-tech-environment-129",
+    "q": {
+      "en": "Expand the abbreviation DNA.",
+      "as": "'ডি এন এ' য়ে কি সূচায়?"
+    },
+    "options": [
+      {
+        "en": "Dinucleic acid",
+        "as": "ডাইনিউক্লিক এছিড"
+      },
+      {
+        "en": "Deoxyribonucleic acid",
+        "as": "ডিঅক্সিৰাইব'নিউক্লিক এছিড"
+      },
+      {
+        "en": "Double nucleic atom",
+        "as": "দ্বৈত নিউক্লিক পৰমাণু"
+      },
+      {
+        "en": "Deoxyribose atom",
+        "as": "ডিঅক্সিৰাইব'ছ পৰমাণু"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The full form of DNA is deoxyribonucleic acid.",
+      "as": "ডি এন এ য়ে ডিঅক্সিৰাইব'নিউক্লিক এছিড সূচায়।"
+    }
+  }
+]
