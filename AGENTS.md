@@ -185,6 +185,30 @@ What was done, so the next agent does not redo or undo it:
 - **`data/counts.json` is deliberately unchanged.** The book is still
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
+## Session record — Nov 2026 RRB NTPC Biology bank compliance fix (310 MCQs)
+
+The 310-question biology bank at
+`data/exams/rrb-ntpc/general-awareness/general-science/biology/` was already
+present and live, but it failed two of the standing rules. Both are now fixed in
+place, with no change to the question count, the file set or `index.json`.
+
+- **Answer-key spread.** The longest run of one slot was 5 (C at questions
+  37–40 and 203–206). Options in `question-038.json` and `question-205.json`
+  were reordered so the run is now 3. Distribution is A/B/C/D = 79/78/75/78,
+  max 25.48%, and `--book rrb-ntpc --topic general-awareness/general-science/biology
+  --check` reports 0 skewed topics.
+- **Fuzzy duplicates.** A `difflib` check at ratio ≥ 0.90 against all other
+  question text in `data/` found 41 near-duplicate stems and explanations —
+  e.g. "Which organelle is known as the powerhouse of the cell?" and
+  "The full form of DNA is:". Each was reworded (English and Assamese together)
+  to ask the same fact in genuinely different words, or, where the fact itself
+  was already used elsewhere, replaced by a different fact. The bank now
+  reports 0 exact and 0 fuzzy duplicates.
+- **Assamese too.** The same fuzzy check was run on the Assamese text, since
+  the rule covers both languages. A further 25 Assamese stems and 38 Assamese
+  explanations across the Biology and Art & Culture banks were reworded.
+- Only the affected question files changed; no page, script, style,
+  `index.json` or count file was touched.
 
 ## Session record — Nov 2026 RRB NTPC Art & Culture bank (400 MCQs)
 

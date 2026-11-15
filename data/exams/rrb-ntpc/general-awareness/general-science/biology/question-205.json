@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "Wings of bird and butterfly",
-        "as": "চৰাই আৰু পখিলাৰ ডেউকা"
+        "en": "Eyes of octopus and human",
+        "as": "অক্ট'পাছ আৰু মানুহৰ চকু"
       },
       {
         "en": "Wings of bird and bat",
         "as": "চৰাই আৰু বাদুলিৰ ডেউকা"
       },
       {
-        "en": "Forelimbs of human and whale",
-        "as": "মানুহ আৰু তিমিৰ আগঠেং"
+        "en": "Wings of bird and butterfly",
+        "as": "চৰাই আৰু পখিলাৰ ডেউকা"
       },
       {
-        "en": "Eyes of octopus and human",
-        "as": "অক্ট'পাছ আৰু মানুহৰ চকু"
+        "en": "Forelimbs of human and whale",
+        "as": "মানুহ আৰু তিমিৰ আগঠেং"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "Forelimbs of humans and whales have the same basic structure but different functions, so they are homologous.",
       "as": "মানুহ আৰু তিমিৰ আগঠেঙৰ মূল গঠন একে কিন্তু কাৰ্য বেলেগ, সেয়ে সেয়া সমসংস্থ।"
