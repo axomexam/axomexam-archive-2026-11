@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-139",
+    "q": {
+      "en": "To obtain the minimum value in a range, which function is used?",
+      "as": "এমএছ এক্সেলত, পৰিসৰৰ আটাইতকৈ সৰু মান ঘূৰাই দিয়া ফলন কোনটো?"
+    },
+    "options": [
+      {
+        "en": "MAX",
+        "as": "MAX"
+      },
+      {
+        "en": "AVERAGE",
+        "as": "AVERAGE"
+      },
+      {
+        "en": "SUM",
+        "as": "SUM"
+      },
+      {
+        "en": "MIN",
+        "as": "MIN"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The MIN function returns the smallest value in a range.",
+      "as": "MIN ফলনে পৰিসৰৰ আটাইতকৈ সৰু মান ঘূৰাই দিয়ে।"
+    }
+  }
+]

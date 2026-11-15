@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-291",
+    "q": {
+      "en": "Which type of printer sprays tiny drops of ink onto the paper?",
+      "as": "কাগজৰ ওপৰত চিয়াঁহীৰ সৰু টোপাল ছটিয়াই দিয়া প্ৰিণ্টাৰ কোন ধৰণৰ?"
+    },
+    "options": [
+      {
+        "en": "Laser printer",
+        "as": "লেজাৰ প্ৰিণ্টাৰ"
+      },
+      {
+        "en": "Dot matrix printer",
+        "as": "ডট মেট্ৰিক্স প্ৰিণ্টাৰ"
+      },
+      {
+        "en": "Line printer",
+        "as": "লাইন প্ৰিণ্টাৰ"
+      },
+      {
+        "en": "Inkjet printer",
+        "as": "ইঙ্কজেট প্ৰিণ্টাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "An inkjet printer sprays tiny drops of ink onto the paper.",
+      "as": "ইঙ্কজেট প্ৰিণ্টাৰে কাগজৰ ওপৰত চিয়াঁহীৰ সৰু টোপাল ছটিয়াই দিয়ে।"
+    }
+  }
+]

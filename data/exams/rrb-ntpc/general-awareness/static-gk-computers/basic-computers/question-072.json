@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-072",
+    "q": {
+      "en": "Which of these is free, open-source office software?",
+      "as": "তলৰ কোনটো বিনামূলীয়া, মুক্ত-উৎস অফিচ ছফ্টৱেৰ?"
+    },
+    "options": [
+      {
+        "en": "MS Word",
+        "as": "এমএছ ৱৰ্ড"
+      },
+      {
+        "en": "MS Excel",
+        "as": "এমএছ এক্সেল"
+      },
+      {
+        "en": "LibreOffice",
+        "as": "লিব্ৰে অফিচ"
+      },
+      {
+        "en": "MS PowerPoint",
+        "as": "এমএছ পাওৱাৰপইণ্ট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "LibreOffice is a free, open-source office software suite.",
+      "as": "লিব্ৰে অফিচ এটা বিনামূলীয়া, মুক্ত-উৎস অফিচ ছফ্টৱেৰ সংকলন।"
+    }
+  }
+]

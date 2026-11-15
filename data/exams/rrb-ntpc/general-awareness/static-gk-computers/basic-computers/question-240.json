@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-240",
+    "q": {
+      "en": "What is the process of converting encrypted data back into its readable form called?",
+      "as": "এনক্ৰিপ্ট কৰা তথ্যক পুনৰ পাঠযোগ্য ৰূপলৈ ৰূপান্তৰ কৰাৰ প্ৰক্ৰিয়াক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Decryption",
+        "as": "ডিক্ৰিপচন"
+      },
+      {
+        "en": "Encryption",
+        "as": "এনক্ৰিপচন"
+      },
+      {
+        "en": "Compression",
+        "as": "কম্প্ৰেচন"
+      },
+      {
+        "en": "Scanning",
+        "as": "স্কেনিং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Converting encrypted data back into its readable form is called decryption.",
+      "as": "এনক্ৰিপ্ট কৰা তথ্যক পুনৰ পাঠযোগ্য ৰূপলৈ ৰূপান্তৰ কৰাক ডিক্ৰিপচন বোলা হয়।"
+    }
+  }
+]

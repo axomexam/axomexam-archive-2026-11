@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-231",
+    "q": {
+      "en": "What does cloud computing mean?",
+      "as": "ক্লাউড কম্পিউটিঙে কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "Using a computer without electricity",
+        "as": "বিদ্যুৎ অবিহনে কম্পিউটাৰ ব্যৱহাৰ কৰা"
+      },
+      {
+        "en": "Computing in cold weather",
+        "as": "ঠাণ্ডা বতৰত কম্পিউটিং"
+      },
+      {
+        "en": "Using computing services over the internet",
+        "as": "ইণ্টাৰনেটত কম্পিউটিং সেৱা ব্যৱহাৰ কৰা"
+      },
+      {
+        "en": "Computing without software",
+        "as": "ছফ্টৱেৰ অবিহনে কম্পিউটিং"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Cloud computing means using computing services such as storage and software over the internet.",
+      "as": "ক্লাউড কম্পিউটিং মানে ষ্ট'ৰেজ আৰু ছফ্টৱেৰৰ দৰে কম্পিউটিং সেৱা ইণ্টাৰনেটত ব্যৱহাৰ কৰা।"
+    }
+  }
+]

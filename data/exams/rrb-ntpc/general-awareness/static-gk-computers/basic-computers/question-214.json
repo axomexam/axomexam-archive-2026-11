@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-214",
+    "q": {
+      "en": "What is a file sent along with an email message called?",
+      "as": "ইমেইল বাৰ্তাৰ সৈতে পঠিওৱা ফাইলক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Attachment",
+        "as": "এটাচমেণ্ট"
+      },
+      {
+        "en": "Attachment link",
+        "as": "এটাচমেণ্ট লিংক"
+      },
+      {
+        "en": "Draft",
+        "as": "ড্ৰাফ্ট"
+      },
+      {
+        "en": "Signature",
+        "as": "চিগনেচাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A file sent along with an email message is called an attachment.",
+      "as": "ইমেইল বাৰ্তাৰ সৈতে পঠিওৱা ফাইলক এটাচমেণ্ট বোলা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-049",
+    "q": {
+      "en": "Which software manages the hardware and provides a platform for other programs to run?",
+      "as": "কোন ছফ্টৱেৰে হাৰ্ডৱেৰ পৰিচালনা কৰে আৰু আন প্ৰগ্ৰাম চলাবলৈ মঞ্চ আগবঢ়ায়?"
+    },
+    "options": [
+      {
+        "en": "Operating system",
+        "as": "অপাৰেটিং ছিষ্টেম"
+      },
+      {
+        "en": "Antivirus",
+        "as": "এণ্টিভাইৰাছ"
+      },
+      {
+        "en": "Utility program",
+        "as": "ইউটিলিটি প্ৰগ্ৰাম"
+      },
+      {
+        "en": "Device driver",
+        "as": "ডিভাইচ ড্ৰাইভাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The operating system manages hardware and provides a platform on which other programs run.",
+      "as": "অপাৰেটিং ছিষ্টেমে হাৰ্ডৱেৰ পৰিচালনা কৰে আৰু আন প্ৰগ্ৰাম চলা মঞ্চ আগবঢ়ায়।"
+    }
+  }
+]

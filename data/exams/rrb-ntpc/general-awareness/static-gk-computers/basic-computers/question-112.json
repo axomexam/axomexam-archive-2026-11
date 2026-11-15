@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-112",
+    "q": {
+      "en": "In MS Word, which shortcut pastes the copied text?",
+      "as": "এমএছ ৱৰ্ডত, কপি কৰা লিখা পে'ষ্ট কৰা শ্বৰ্টকাট কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + V",
+        "as": "Ctrl + V"
+      },
+      {
+        "en": "Ctrl + C",
+        "as": "Ctrl + C"
+      },
+      {
+        "en": "Ctrl + X",
+        "as": "Ctrl + X"
+      },
+      {
+        "en": "Ctrl + P",
+        "as": "Ctrl + P"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ctrl + V pastes the copied text.",
+      "as": "Ctrl + V য়ে কপি কৰা লিখা পে'ষ্ট কৰে।"
+    }
+  }
+]

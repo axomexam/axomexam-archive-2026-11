@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-205",
+    "q": {
+      "en": "The term email is short for which of the following?",
+      "as": "ইমেইল শব্দটো তলৰ কোনটোৰ চমু ৰূপ?"
+    },
+    "options": [
+      {
+        "en": "Express mail",
+        "as": "এক্সপ্ৰেছ মেইল"
+      },
+      {
+        "en": "Emergency mail",
+        "as": "ইমাৰ্জেন্সি মেইল"
+      },
+      {
+        "en": "External mail",
+        "as": "এক্সটাৰ্নেল মেইল"
+      },
+      {
+        "en": "Electronic mail",
+        "as": "ইলেক্ট্ৰনিক মেইল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The term email is short for electronic mail.",
+      "as": "ইমেইল শব্দটো ইলেক্ট্ৰনিক মেইলৰ চমু ৰূপ।"
+    }
+  }
+]

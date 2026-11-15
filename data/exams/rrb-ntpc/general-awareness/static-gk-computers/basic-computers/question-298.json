@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-298",
+    "q": {
+      "en": "Which memory is directly built into the CPU for holding very small amounts of data during processing?",
+      "as": "প্ৰক্ৰিয়াকৰণৰ সময়ত অতি কম পৰিমাণৰ তথ্য ৰাখিবলৈ CPU ত প্ৰত্যক্ষভাৱে নিৰ্মিত স্মৃতি কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Cache",
+        "as": "কেশ"
+      },
+      {
+        "en": "RAM",
+        "as": "RAM"
+      },
+      {
+        "en": "Register",
+        "as": "ৰেজিষ্টাৰ"
+      },
+      {
+        "en": "ROM",
+        "as": "ROM"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A register is memory built directly into the CPU for holding very small amounts of data during processing.",
+      "as": "ৰেজিষ্টাৰ CPU ত প্ৰত্যক্ষভাৱে নিৰ্মিত স্মৃতি যি প্ৰক্ৰিয়াকৰণৰ সময়ত অতি কম পৰিমাণৰ তথ্য ৰাখে।"
+    }
+  }
+]

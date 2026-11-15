@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-223",
+    "q": {
+      "en": "What is the use of the internet to deliver education and learning called?",
+      "as": "শিক্ষা আৰু শিকন প্ৰদান কৰিবলৈ ইণ্টাৰনেটৰ ব্যৱহাৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "E-commerce",
+        "as": "ই-কমাৰ্চ"
+      },
+      {
+        "en": "E-learning",
+        "as": "ই-লাৰ্নিং"
+      },
+      {
+        "en": "E-governance",
+        "as": "ই-গভাৰ্নেন্স"
+      },
+      {
+        "en": "E-banking",
+        "as": "ই-বেংকিং"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The use of the internet to deliver education and learning is called e-learning.",
+      "as": "শিক্ষা আৰু শিকন প্ৰদান কৰিবলৈ ইণ্টাৰনেটৰ ব্যৱহাৰক ই-লাৰ্নিং বোলা হয়।"
+    }
+  }
+]

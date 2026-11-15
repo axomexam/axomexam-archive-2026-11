@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-187",
+    "q": {
+      "en": "Which of these is a web browser?",
+      "as": "তলৰ কোনটো ছফ্টৱেৰ ৱেব পেজ চাবলৈ?"
+    },
+    "options": [
+      {
+        "en": "MS Excel",
+        "as": "এমএছ এক্সেল"
+      },
+      {
+        "en": "Google Chrome",
+        "as": "গুগল ক্ৰ'ম"
+      },
+      {
+        "en": "Photoshop",
+        "as": "ফট'শ্বপ"
+      },
+      {
+        "en": "VLC",
+        "as": "ভিএলচি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Google Chrome is a software used to view web pages.",
+      "as": "গুগল ক্ৰ'ম ৱেব পেজ চাবলৈ ব্যৱহৃত এটা ছফ্টৱেৰ।"
+    }
+  }
+]

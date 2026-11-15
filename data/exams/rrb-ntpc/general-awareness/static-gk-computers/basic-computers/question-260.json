@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-260",
+    "q": {
+      "en": "What is an organised collection of related data stored so that it can be easily accessed called?",
+      "as": "সহজে অভিগম কৰিব পৰাকৈ সংৰক্ষিত সম্পৰ্কিত তথ্যৰ সংগঠিত সংকলনক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Spreadsheet",
+        "as": "স্প্ৰেডশ্বীট"
+      },
+      {
+        "en": "Document",
+        "as": "ডকুমেণ্ট"
+      },
+      {
+        "en": "Folder",
+        "as": "ফল্ডাৰ"
+      },
+      {
+        "en": "Database",
+        "as": "ডাটাবেছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "An organised collection of related data stored so that it can be easily accessed is called a database.",
+      "as": "সহজে অভিগম কৰিব পৰাকৈ সংৰক্ষিত সম্পৰ্কিত তথ্যৰ সংগঠিত সংকলনক ডাটাবেছ বোলা হয়।"
+    }
+  }
+]

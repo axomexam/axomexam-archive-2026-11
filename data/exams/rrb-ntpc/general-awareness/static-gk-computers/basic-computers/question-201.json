@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-201",
+    "q": {
+      "en": "Which domain extension is generally used by government websites in India?",
+      "as": "ভাৰতত চৰকাৰী ৱেবছাইটে সাধাৰণতে কোন ডমেইন এক্সটেনচন ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": ".com",
+        "as": ".com"
+      },
+      {
+        "en": ".gov.in",
+        "as": ".gov.in"
+      },
+      {
+        "en": ".org",
+        "as": ".org"
+      },
+      {
+        "en": ".net",
+        "as": ".net"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": ".gov.in is generally used by government websites in India.",
+      "as": "ভাৰতত চৰকাৰী ৱেবছাইটে সাধাৰণতে .gov.in ব্যৱহাৰ কৰে।"
+    }
+  }
+]

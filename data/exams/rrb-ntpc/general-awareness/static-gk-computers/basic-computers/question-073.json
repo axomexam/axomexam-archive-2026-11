@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-073",
+    "q": {
+      "en": "Which of these is an image editing software?",
+      "as": "তলৰ কোনটো এটা ছবি সম্পাদনা ছফ্টৱেৰ?"
+    },
+    "options": [
+      {
+        "en": "MS Word",
+        "as": "এমএছ ৱৰ্ড"
+      },
+      {
+        "en": "MS Excel",
+        "as": "এমএছ এক্সেল"
+      },
+      {
+        "en": "Adobe Photoshop",
+        "as": "এড'বি ফট'শ্বপ"
+      },
+      {
+        "en": "Notepad",
+        "as": "নোটপেড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Adobe Photoshop is an image editing software.",
+      "as": "এড'বি ফট'শ্বপ এটা ছবি সম্পাদনা ছফ্টৱেৰ।"
+    }
+  }
+]

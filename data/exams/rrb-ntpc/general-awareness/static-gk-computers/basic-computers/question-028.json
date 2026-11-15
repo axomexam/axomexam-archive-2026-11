@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-028",
+    "q": {
+      "en": "Approximately how many megabytes make one gigabyte?",
+      "as": "প্ৰায় কিমান মেগাবাইটে এটা গিগাবাইট গঠন কৰে?"
+    },
+    "options": [
+      {
+        "en": "100",
+        "as": "১০০"
+      },
+      {
+        "en": "1024",
+        "as": "১০২৪"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "10000",
+        "as": "১০০০০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "One gigabyte is 1024 megabytes.",
+      "as": "এটা গিগাবাইট ১০২৪ মেগাবাইট।"
+    }
+  }
+]

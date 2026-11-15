@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-270",
+    "q": {
+      "en": "Which is a well-known open-source platform for machine learning?",
+      "as": "মেছিন লাৰ্নিঙৰ বাবে এটা সুপৰিচিত মুক্ত-উৎস মঞ্চ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "MS Word",
+        "as": "এমএছ ৱৰ্ড"
+      },
+      {
+        "en": "VLC",
+        "as": "ভিএলচি"
+      },
+      {
+        "en": "Paint",
+        "as": "পেইণ্ট"
+      },
+      {
+        "en": "TensorFlow",
+        "as": "টেনছৰফ্লো"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "TensorFlow is a well-known open-source platform for machine learning.",
+      "as": "টেনছৰফ্লো মেছিন লাৰ্নিঙৰ বাবে এটা সুপৰিচিত মুক্ত-উৎস মঞ্চ।"
+    }
+  }
+]

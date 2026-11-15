@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-225",
+    "q": {
+      "en": "What is the banking service that allows transactions over the internet called?",
+      "as": "ইণ্টাৰনেটত লেনদেন কৰিবলৈ দিয়া বেংকিং সেৱাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Internet banking",
+        "as": "ইণ্টাৰনেট বেংকিং"
+      },
+      {
+        "en": "Mobile banking",
+        "as": "ম'বাইল বেংকিং"
+      },
+      {
+        "en": "ATM banking",
+        "as": "এটিএম বেংকিং"
+      },
+      {
+        "en": "Branch banking",
+        "as": "ব্ৰাঞ্চ বেংকিং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The banking service that allows transactions over the internet is called internet banking.",
+      "as": "ইণ্টাৰনেটত লেনদেন কৰিবলৈ দিয়া বেংকিং সেৱাক ইণ্টাৰনেট বেংকিং বোলা হয়।"
+    }
+  }
+]

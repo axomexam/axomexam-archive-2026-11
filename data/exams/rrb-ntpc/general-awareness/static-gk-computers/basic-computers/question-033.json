@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-033",
+    "q": {
+      "en": "Which memory holds the instructions needed to start a computer and is non-volatile?",
+      "as": "কোন স্মৃতিয়ে কম্পিউটাৰ আৰম্ভ কৰিবলৈ প্ৰয়োজনীয় নিৰ্দেশনা ধৰি ৰাখে আৰু অনস্থায়ী?"
+    },
+    "options": [
+      {
+        "en": "RAM",
+        "as": "RAM"
+      },
+      {
+        "en": "ROM",
+        "as": "ROM"
+      },
+      {
+        "en": "Cache",
+        "as": "কেশ"
+      },
+      {
+        "en": "Register",
+        "as": "ৰেজিষ্টাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "ROM holds the start-up instructions and is non-volatile, retaining its contents without power.",
+      "as": "ROM য়ে আৰম্ভণিৰ নিৰ্দেশনা ধৰি ৰাখে আৰু অনস্থায়ী, বিদ্যুৎ অবিহনেও সমল ৰাখে।"
+    }
+  }
+]

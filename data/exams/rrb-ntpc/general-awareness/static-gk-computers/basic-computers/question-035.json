@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-035",
+    "q": {
+      "en": "Which high-speed memory sits between the CPU and main memory to speed up access?",
+      "as": "কম্পিউটাৰত অভিগম দ্ৰুত কৰিবলৈ CPU আৰু মূল স্মৃতিৰ মাজত কোন উচ্চ-গতিৰ স্মৃতি থাকে?"
+    },
+    "options": [
+      {
+        "en": "Cache memory",
+        "as": "কেশ স্মৃতি"
+      },
+      {
+        "en": "Virtual memory",
+        "as": "ভাৰ্চুয়েল স্মৃতি"
+      },
+      {
+        "en": "Secondary memory",
+        "as": "গৌণ স্মৃতি"
+      },
+      {
+        "en": "Flash memory",
+        "as": "ফ্লেশ স্মৃতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cache memory sits between the CPU and main memory to speed up data access.",
+      "as": "কেশ স্মৃতি CPU আৰু মূল স্মৃতিৰ মাজত থাকে তথ্য অভিগম দ্ৰুত কৰিবলৈ।"
+    }
+  }
+]

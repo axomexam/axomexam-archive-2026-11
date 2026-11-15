@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-194",
+    "q": {
+      "en": "FTP is the short form of which of the following?",
+      "as": "তলৰ কোনটো শব্দ FTP ৰ যোগেদি সূচিত হয়?"
+    },
+    "options": [
+      {
+        "en": "File Transfer Protocol",
+        "as": "ফাইল ট্ৰান্সফাৰ প্ৰ'ট'কল"
+      },
+      {
+        "en": "Fast Transfer Protocol",
+        "as": "ফাষ্ট ট্ৰান্সফাৰ প্ৰ'ট'কল"
+      },
+      {
+        "en": "File Transmission Program",
+        "as": "ফাইল ট্ৰান্সমিছন প্ৰগ্ৰাম"
+      },
+      {
+        "en": "Full Transfer Protocol",
+        "as": "ফুল ট্ৰান্সফাৰ প্ৰ'ট'কল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The letters FTP expand to File Transfer Protocol.",
+      "as": "FTP আখৰবোৰৰ সম্প্ৰসাৰণ হ'ল ফাইল ট্ৰান্সফাৰ প্ৰ'ট'কল।"
+    }
+  }
+]

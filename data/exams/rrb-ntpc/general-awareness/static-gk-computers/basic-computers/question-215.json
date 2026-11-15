@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-215",
+    "q": {
+      "en": "Which service provides free web-based email from Google?",
+      "as": "গুগলৰ পৰা বিনামূলীয়া ৱেব-ভিত্তিক ইমেইল আগবঢ়োৱা সেৱা কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Outlook",
+        "as": "আউটলুক"
+      },
+      {
+        "en": "Gmail",
+        "as": "জিমেইল"
+      },
+      {
+        "en": "Yahoo Mail",
+        "as": "য়াহু মেইল"
+      },
+      {
+        "en": "Rediffmail",
+        "as": "ৰেডিফমেইল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gmail is Google's free web-based email service.",
+      "as": "জিমেইল গুগলৰ বিনামূলীয়া ৱেব-ভিত্তিক ইমেইল সেৱা।"
+    }
+  }
+]

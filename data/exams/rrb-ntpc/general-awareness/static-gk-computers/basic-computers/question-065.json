@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-065",
+    "q": {
+      "en": "Which key combination is commonly used to open the Task Manager directly in Windows?",
+      "as": "উইণ্ড'জত টাস্ক মেনেজাৰ প্ৰত্যক্ষভাৱে খুলিবলৈ সাধাৰণতে কোন কি সংযোগ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + Shift + Esc",
+        "as": "Ctrl + Shift + Esc"
+      },
+      {
+        "en": "Ctrl + Alt + Del",
+        "as": "Ctrl + Alt + Del"
+      },
+      {
+        "en": "Alt + F4",
+        "as": "Alt + F4"
+      },
+      {
+        "en": "Ctrl + Esc",
+        "as": "Ctrl + Esc"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ctrl + Shift + Esc opens the Task Manager directly.",
+      "as": "Ctrl + Shift + Esc য়ে টাস্ক মেনেজাৰ প্ৰত্যক্ষভাৱে খোলে।"
+    }
+  }
+]

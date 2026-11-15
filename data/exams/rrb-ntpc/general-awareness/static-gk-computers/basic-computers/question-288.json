@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-288",
+    "q": {
+      "en": "Which small, handheld computer uses a touch screen as its main input device?",
+      "as": "মূল ইনপুট যন্ত্ৰ হিচাপে টাচ স্ক্ৰীণ ব্যৱহাৰ কৰা সৰু, হাতত ধৰিব পৰা কম্পিউটাৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Desktop",
+        "as": "ডেস্কটপ"
+      },
+      {
+        "en": "Tablet",
+        "as": "টেবলেট"
+      },
+      {
+        "en": "Mainframe",
+        "as": "মেইনফ্ৰেম"
+      },
+      {
+        "en": "Server",
+        "as": "চাৰ্ভাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A tablet is a small, handheld computer that uses a touch screen as its main input device.",
+      "as": "টেবলেট সৰু, হাতত ধৰিব পৰা কম্পিউটাৰ যি মূল ইনপুট যন্ত্ৰ হিচাপে টাচ স্ক্ৰীণ ব্যৱহাৰ কৰে।"
+    }
+  }
+]

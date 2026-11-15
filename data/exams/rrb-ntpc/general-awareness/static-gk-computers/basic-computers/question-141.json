@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-141",
+    "q": {
+      "en": "In MS Excel, which function returns only the current date?",
+      "as": "এমএছ এক্সেলত, কেৱল বৰ্তমান তাৰিখ ঘূৰাই দিয়া ফলন কোনটো?"
+    },
+    "options": [
+      {
+        "en": "TODAY()",
+        "as": "TODAY()"
+      },
+      {
+        "en": "NOW()",
+        "as": "NOW()"
+      },
+      {
+        "en": "DATE()",
+        "as": "DATE()"
+      },
+      {
+        "en": "DAY()",
+        "as": "DAY()"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The TODAY() function returns only the current date.",
+      "as": "কেৱল তাৰিখ পাবলৈ TODAY() ফলন ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

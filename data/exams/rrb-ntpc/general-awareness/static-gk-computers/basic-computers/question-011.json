@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-011",
+    "q": {
+      "en": "The fourth generation of computers is characterised by the use of which component?",
+      "as": "চতুৰ্থ প্ৰজন্মৰ কম্পিউটাৰ কোন উপাদানৰ ব্যৱহাৰৰ দ্বাৰা চিহ্নিত?"
+    },
+    "options": [
+      {
+        "en": "Vacuum tubes",
+        "as": "ভেকুৱাম টিউব"
+      },
+      {
+        "en": "Microprocessors",
+        "as": "মাইক্ৰ'প্ৰচেছৰ"
+      },
+      {
+        "en": "Transistors",
+        "as": "ট্ৰেনজিষ্টৰ"
+      },
+      {
+        "en": "Relays",
+        "as": "ৰিলে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Fourth-generation computers use microprocessors, which pack a whole CPU on a single chip.",
+      "as": "চতুৰ্থ প্ৰজন্মৰ কম্পিউটাৰে মাইক্ৰ'প্ৰচেছৰ ব্যৱহাৰ কৰে, যি এটা চিপত সম্পূৰ্ণ চিপিইউ সন্নিবিষ্ট কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-297",
+    "q": {
+      "en": "What is the number of bits processed by a CPU at one time called?",
+      "as": "CPU য়ে এবাৰত প্ৰক্ৰিয়া কৰা বিটৰ সংখ্যাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Word length",
+        "as": "ৱৰ্ড লেংথ"
+      },
+      {
+        "en": "Clock speed",
+        "as": "ক্লক স্পিড"
+      },
+      {
+        "en": "Bus width",
+        "as": "বাছ ৱিডথ"
+      },
+      {
+        "en": "Cache size",
+        "as": "কেশ চাইজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The number of bits processed by a CPU at one time is called its word length.",
+      "as": "CPU য়ে এবাৰত প্ৰক্ৰিয়া কৰা বিটৰ সংখ্যাক ইয়াৰ ৱৰ্ড লেংথ বোলা হয়।"
+    }
+  }
+]

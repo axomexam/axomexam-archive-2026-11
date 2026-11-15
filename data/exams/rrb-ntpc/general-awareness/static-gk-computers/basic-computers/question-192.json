@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-192",
+    "q": {
+      "en": "Which protocol is used to transfer web pages over the internet?",
+      "as": "ইণ্টাৰনেটত ৱেব পেজ স্থানান্তৰ কৰিবলৈ কোন প্ৰ'ট'কল ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "FTP",
+        "as": "FTP"
+      },
+      {
+        "en": "SMTP",
+        "as": "SMTP"
+      },
+      {
+        "en": "HTTP",
+        "as": "HTTP"
+      },
+      {
+        "en": "TCP",
+        "as": "TCP"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Web pages move across the internet using HTTP, the HyperText Transfer Protocol.",
+      "as": "ৱেব পেজে HTTP, অৰ্থাৎ হাইপাৰটেক্সট ট্ৰান্সফাৰ প্ৰ'ট'কল, ব্যৱহাৰ কৰি ইণ্টাৰনেটত গতি কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-059",
+    "q": {
+      "en": "Which bar, usually at the bottom of the screen, shows running programs and the clock?",
+      "as": "সাধাৰণতে পৰ্দাৰ তলত থকা, চলি থকা প্ৰগ্ৰাম আৰু ঘড়ী দেখুওৱা বাৰটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Title bar",
+        "as": "টাইটেল বাৰ"
+      },
+      {
+        "en": "Status bar",
+        "as": "ষ্টেটাছ বাৰ"
+      },
+      {
+        "en": "Taskbar",
+        "as": "টাস্কবাৰ"
+      },
+      {
+        "en": "Menu bar",
+        "as": "মেনু বাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The taskbar, usually at the bottom of the screen, shows running programs and the clock.",
+      "as": "টাস্কবাৰ, সাধাৰণতে পৰ্দাৰ তলত, চলি থকা প্ৰগ্ৰাম আৰু ঘড়ী দেখুৱায়।"
+    }
+  }
+]

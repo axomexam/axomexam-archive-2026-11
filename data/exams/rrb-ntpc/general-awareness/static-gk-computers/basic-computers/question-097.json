@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-097",
+    "q": {
+      "en": "Which file extension indicates an executable program file in Windows?",
+      "as": "উইণ্ড'জত কোন ফাইল এক্সটেনচনে চলনযোগ্য প্ৰগ্ৰাম ফাইল সূচায়?"
+    },
+    "options": [
+      {
+        "en": ".txt",
+        "as": ".txt"
+      },
+      {
+        "en": ".jpg",
+        "as": ".jpg"
+      },
+      {
+        "en": ".mp3",
+        "as": ".mp3"
+      },
+      {
+        "en": ".exe",
+        "as": ".exe"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The .exe extension indicates an executable program file in Windows.",
+      "as": ".exe এক্সটেনচনে উইণ্ড'জত চলনযোগ্য প্ৰগ্ৰাম ফাইল সূচায়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-111",
+    "q": {
+      "en": "In MS Word, selected text is cut with which shortcut?",
+      "as": "এমএছ ৱৰ্ডত লিখা কাট কৰিবলৈ কি সংযোগ?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + X",
+        "as": "Ctrl + X"
+      },
+      {
+        "en": "Ctrl + C",
+        "as": "Ctrl + C"
+      },
+      {
+        "en": "Ctrl + V",
+        "as": "Ctrl + V"
+      },
+      {
+        "en": "Ctrl + A",
+        "as": "Ctrl + A"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ctrl + X cuts the selected text.",
+      "as": "Ctrl + X য়ে বাছনি কৰা লিখা কাট কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-027",
+    "q": {
+      "en": "How many bytes are there in one kilobyte (KB), as commonly used?",
+      "as": "সাধাৰণতে ব্যৱহৃত হিচাপত এটা কিল'বাইট (KB) ত কিমান বাইট থাকে?"
+    },
+    "options": [
+      {
+        "en": "1000",
+        "as": "১০০০"
+      },
+      {
+        "en": "512",
+        "as": "৫১২"
+      },
+      {
+        "en": "1024",
+        "as": "১০২৪"
+      },
+      {
+        "en": "2048",
+        "as": "২০৪৮"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "One kilobyte is 1024 bytes in binary measurement.",
+      "as": "বাইনেৰী জোখত এটা কিল'বাইট ১০২৪ বাইট।"
+    }
+  }
+]

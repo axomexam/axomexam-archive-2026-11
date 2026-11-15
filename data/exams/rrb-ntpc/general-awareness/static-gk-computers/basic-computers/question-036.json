@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-036",
+    "q": {
+      "en": "Which type of RAM needs to be refreshed periodically to retain data?",
+      "as": "কোন ধৰণৰ RAM এ তথ্য ৰাখিবলৈ সময়ে সময়ে ৰিফ্ৰেছ কৰিব লাগে?"
+    },
+    "options": [
+      {
+        "en": "SRAM",
+        "as": "এছৰেম"
+      },
+      {
+        "en": "ROM",
+        "as": "ROM"
+      },
+      {
+        "en": "DRAM",
+        "as": "ডিৰেম"
+      },
+      {
+        "en": "PROM",
+        "as": "পিৰম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Dynamic RAM needs periodic refreshing, whereas static RAM does not.",
+      "as": "ডাইনামিক ৰেমক সময়ে সময়ে ৰিফ্ৰেছ কৰিব লাগে, যি স্থিৰ ৰেমত নালাগে।"
+    }
+  }
+]

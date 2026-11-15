@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-193",
+    "q": {
+      "en": "Which secure version of the web transfer protocol encrypts data between browser and server?",
+      "as": "ব্ৰাউজাৰ আৰু চাৰ্ভাৰৰ মাজত তথ্য এনক্ৰিপ্ট কৰা ৱেব স্থানান্তৰ প্ৰ'ট'কলৰ সুৰক্ষিত সংস্কৰণ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "HTTP",
+        "as": "HTTP"
+      },
+      {
+        "en": "FTP",
+        "as": "FTP"
+      },
+      {
+        "en": "HTTPS",
+        "as": "HTTPS"
+      },
+      {
+        "en": "Telnet",
+        "as": "টেলনেট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "HTTPS is the secure version of HTTP that encrypts data between browser and server.",
+      "as": "HTTPS হ'ল HTTP ৰ সুৰক্ষিত সংস্কৰণ যি ব্ৰাউজাৰ আৰু চাৰ্ভাৰৰ মাজত তথ্য এনক্ৰিপ্ট কৰে।"
+    }
+  }
+]

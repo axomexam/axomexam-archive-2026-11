@@ -812,3 +812,53 @@ What was done, so the next agent does not redo or undo it:
 - **`data/counts.json` is deliberately unchanged.** The book is still
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
+
+## Session record — Nov 2026 RRB NTPC Basics of Computers question bank (301 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Extended** the Basics of Computers topic of the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/static-gk-computers/basic-computers/`:
+  `question-002.json` … `question-301.json` (300 new files) on top of the
+  existing `question-001.json` ("which memory is volatile"), for **301
+  questions** in the topic. Each file holds one MCQ in the repo's shape —
+  `id`, `q.{en,as}`, four `options[{en,as}]`, `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 301 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content.** Questions are written for RRB NTPC (CBT-1 & CBT-2) difficulty
+  and cover the history of computing (abacus, Babbage, Ada Lovelace, ENIAC,
+  UNIVAC), the five generations, input/output/storage devices, the CPU and
+  its units, memory (RAM/ROM/cache/registers, units from bit to terabyte),
+  motherboards and power devices, software types (system vs application,
+  firmware, device drivers), operating systems and Windows tools, file
+  systems, folders and file extensions, MS Word, MS Excel, MS PowerPoint,
+  shortcut keys, networking (LAN/WAN/MAN/PAN, router/switch/hub/modem,
+  cables, Wi-Fi), the internet and web (WWW, URL, browser, search engine,
+  HTML, HTTP/HTTPS, FTP, IP, DNS, domains, ISP), email (CC/BCC, folders,
+  spam, attachments), e-services (e-commerce, e-learning, e-governance,
+  internet banking, social media, IoT, cloud), computer security (malware,
+  virus, worm, trojan, spyware, antivirus, firewall, encryption, phishing,
+  hacking, passwords, two-factor authentication), programming (algorithm,
+  machine/assembly/high-level languages, compiler, interpreter, assembler,
+  bug, debugging, FORTRAN, COBOL, Java, Python), databases (field, record,
+  primary key, DBMS, SQL), AI and machine learning, number systems
+  (binary/decimal/octal/hexadecimal) and computer types and peripherals.
+- **Answer keys** are spread over A/B/C/D — across all 301 questions the slots
+  hold 76/75/75/75; `--book rrb-ntpc --topic
+  general-awareness/static-gk-computers/basic-computers --check` reports 0
+  skewed topics.
+- **No duplicated content.** Every stem and every explanation was compared
+  (case- and punctuation-insensitive, English and Assamese) against all other
+  question text already in `data/`. The first pass flagged 61 fields across 42
+  questions as near-duplicates (difflib ratio >= 0.90) of the dhs-dme
+  computer-fundamentals/ms-office banks, the exam-mock-set computer banks and
+  this repo's own space-defence bank (mostly the "what does the abbreviation X
+  stand for" and "X stands for Y" templates). A reword pass brought that to
+  **0** cross-bank. A second pass cleared the 42 internal self-collisions
+  (the parallel Word/Excel shortcut, file-extension, header/footer, MAX/MIN,
+  number-system and abbreviation series). The bank now reports **0**
+  near-duplicates cross-bank and 0 internally. The correct option and its
+  meaning were never changed anywhere, only wording.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.

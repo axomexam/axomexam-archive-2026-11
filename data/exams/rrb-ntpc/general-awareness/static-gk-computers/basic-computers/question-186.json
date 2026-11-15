@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-186",
+    "q": {
+      "en": "Which software is used to access and view web pages?",
+      "as": "ৱেব পেজ অভিগম আৰু চাবলৈ কোন ছফ্টৱেৰ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Word processor",
+        "as": "ৱৰ্ড প্ৰচেছৰ"
+      },
+      {
+        "en": "Spreadsheet",
+        "as": "স্প্ৰেডশ্বীট"
+      },
+      {
+        "en": "Web browser",
+        "as": "ৱেব ব্ৰাউজাৰ"
+      },
+      {
+        "en": "Media player",
+        "as": "মিডিয়া প্লেয়াৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A web browser is used to access and view web pages.",
+      "as": "ৱেব ব্ৰাউজাৰ ৱেব পেজ অভিগম আৰু চাবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

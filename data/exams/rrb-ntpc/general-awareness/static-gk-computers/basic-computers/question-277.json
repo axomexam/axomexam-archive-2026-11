@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-277",
+    "q": {
+      "en": "How many digits does the octal number system use?",
+      "as": "অক্টেল পদ্ধতিত মুঠ কিমানটা অংক আছে?"
+    },
+    "options": [
+      {
+        "en": "Two",
+        "as": "দুই"
+      },
+      {
+        "en": "Eight",
+        "as": "আঠ"
+      },
+      {
+        "en": "Ten",
+        "as": "দহ"
+      },
+      {
+        "en": "Sixteen",
+        "as": "ষোল্ল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The octal number system uses eight digits, from 0 to 7.",
+      "as": "অক্টেল সংখ্যা পদ্ধতিত ০ ৰ পৰা ৭ লৈ আঠটা অংক ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

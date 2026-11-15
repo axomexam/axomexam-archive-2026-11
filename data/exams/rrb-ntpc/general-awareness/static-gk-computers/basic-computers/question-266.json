@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-266",
+    "q": {
+      "en": "Which of these gives the expansion of SQL?",
+      "as": "তলৰ কোনটোৱে SQL ৰ সম্প্ৰসাৰণ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Simple Query Language",
+        "as": "ছিম্পল কুৱেৰি লেংগুৱেজ"
+      },
+      {
+        "en": "Standard Query Logic",
+        "as": "ষ্টেণ্ডাৰ্ড কুৱেৰি লজিক"
+      },
+      {
+        "en": "Structured Query Language",
+        "as": "ষ্ট্ৰাকচাৰ্ড কুৱেৰি লেংগুৱেজ"
+      },
+      {
+        "en": "System Query Language",
+        "as": "চিষ্টেম কুৱেৰি লেংগুৱেজ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The letters SQL expand to Structured Query Language.",
+      "as": "SQL আখৰবোৰৰ সম্প্ৰসাৰণ হ'ল ষ্ট্ৰাকচাৰ্ড কুৱেৰি লেংগুৱেজ।"
+    }
+  }
+]

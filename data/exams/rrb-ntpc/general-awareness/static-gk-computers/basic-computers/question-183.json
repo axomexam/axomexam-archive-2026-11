@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-183",
+    "q": {
+      "en": "The World Wide Web was created by which of the following?",
+      "as": "ৱৰ্ল্ড ৱাইড ৱেব তলৰ কোনজনে সৃষ্টি কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Bill Gates",
+        "as": "বিল গেটছ"
+      },
+      {
+        "en": "Vint Cerf",
+        "as": "ভিণ্ট চাৰ্ফ"
+      },
+      {
+        "en": "Tim Berners-Lee",
+        "as": "টিম বাৰ্নাৰ্ছ-লী"
+      },
+      {
+        "en": "Steve Jobs",
+        "as": "ষ্টিভ জবছ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The World Wide Web was created by Tim Berners-Lee.",
+      "as": "ৱৰ্ল্ড ৱাইড ৱেব টিম বাৰ্নাৰ্ছ-লীয়ে সৃষ্টি কৰিছিল।"
+    }
+  }
+]

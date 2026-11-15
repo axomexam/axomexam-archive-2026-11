@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-145",
+    "q": {
+      "en": "In MS Excel, what is the default file extension of a workbook?",
+      "as": "এমএছ এক্সেলত, ৱৰ্কবুকৰ পূৰ্বনিৰ্ধাৰিত ফাইল এক্সটেনচন কি?"
+    },
+    "options": [
+      {
+        "en": ".xlsx",
+        "as": ".xlsx"
+      },
+      {
+        "en": ".docx",
+        "as": ".docx"
+      },
+      {
+        "en": ".pptx",
+        "as": ".pptx"
+      },
+      {
+        "en": ".csv",
+        "as": ".csv"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An MS Excel workbook is saved by default with the .xlsx extension.",
+      "as": "এমএছ এক্সেল ৱৰ্কবুক পূৰ্বনিৰ্ধাৰিতভাৱে .xlsx এক্সটেনচনেৰে সংৰক্ষিত হয়।"
+    }
+  }
+]

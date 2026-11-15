@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-163",
+    "q": {
+      "en": "Which bar in an MS Office application shows buttons for common commands such as Save and Undo?",
+      "as": "চেভ আৰু আনডুৰ দৰে সাধাৰণ কামাণ্ডৰ বুটাম দেখুওৱা এমএছ অফিচ এপ্লিকেচনৰ বাৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Quick Access Toolbar",
+        "as": "কুইক এক্সেছ টুলবাৰ"
+      },
+      {
+        "en": "Status bar",
+        "as": "ষ্টেটাছ বাৰ"
+      },
+      {
+        "en": "Title bar",
+        "as": "টাইটেল বাৰ"
+      },
+      {
+        "en": "Ribbon",
+        "as": "ৰিবন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Quick Access Toolbar shows buttons for common commands such as Save and Undo.",
+      "as": "কুইক এক্সেছ টুলবাৰে চেভ আৰু আনডুৰ দৰে সাধাৰণ কামাণ্ডৰ বুটাম দেখুৱায়।"
+    }
+  }
+]

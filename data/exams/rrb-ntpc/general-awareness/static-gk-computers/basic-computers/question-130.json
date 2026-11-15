@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-130",
+    "q": {
+      "en": "In a spreadsheet such as MS Excel, what is the intersection of a row and a column called?",
+      "as": "এমএছ এক্সেলৰ দৰে স্প্ৰেডশ্বীটত, শাৰী আৰু স্তম্ভৰ ছেদবিন্দুক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Cell",
+        "as": "চেল"
+      },
+      {
+        "en": "Range",
+        "as": "ৰেঞ্জ"
+      },
+      {
+        "en": "Workbook",
+        "as": "ৱৰ্কবুক"
+      },
+      {
+        "en": "Worksheet",
+        "as": "ৱৰ্কশ্বীট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The intersection of a row and a column in a spreadsheet is called a cell.",
+      "as": "স্প্ৰেডশ্বীটত শাৰী আৰু স্তম্ভৰ ছেদবিন্দুক চেল বোলা হয়।"
+    }
+  }
+]

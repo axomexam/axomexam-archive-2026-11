@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-276",
+    "q": {
+      "en": "The decimal number system is built on how many digits?",
+      "as": "দশমিক পদ্ধতিত মুঠ কিমানটা অংক আছে?"
+    },
+    "options": [
+      {
+        "en": "Ten",
+        "as": "দহ"
+      },
+      {
+        "en": "Two",
+        "as": "দুই"
+      },
+      {
+        "en": "Eight",
+        "as": "আঠ"
+      },
+      {
+        "en": "Sixteen",
+        "as": "ষোল্ল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The decimal number system uses ten digits, from 0 to 9.",
+      "as": "দশমিক সংখ্যা পদ্ধতিত ০ ৰ পৰা ৯ লৈ দহটা অংক ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

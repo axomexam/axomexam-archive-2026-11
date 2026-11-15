@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-018",
+    "q": {
+      "en": "Which output device is specially used to print large engineering drawings and maps?",
+      "as": "ডাঙৰ অভিযান্ত্ৰিক নক্সা আৰু মানচিত্ৰ ছপা কৰিবলৈ বিশেষভাৱে কোন আউটপুট যন্ত্ৰ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Laser printer",
+        "as": "লেজাৰ প্ৰিণ্টাৰ"
+      },
+      {
+        "en": "Dot matrix printer",
+        "as": "ডট মেট্ৰিক্স প্ৰিণ্টাৰ"
+      },
+      {
+        "en": "Plotter",
+        "as": "প্লটাৰ"
+      },
+      {
+        "en": "Inkjet printer",
+        "as": "ইঙ্কজেট প্ৰিণ্টাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A plotter is specially used to print large engineering drawings and maps.",
+      "as": "ডাঙৰ অভিযান্ত্ৰিক নক্সা আৰু মানচিত্ৰ ছপা কৰিবলৈ বিশেষভাৱে প্লটাৰ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

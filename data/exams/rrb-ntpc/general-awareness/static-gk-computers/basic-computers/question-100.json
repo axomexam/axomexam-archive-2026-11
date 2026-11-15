@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-100",
+    "q": {
+      "en": "What is a small file that points to another file or program and opens it when double-clicked called?",
+      "as": "আন এটা ফাইল বা প্ৰগ্ৰামলৈ সংকেত দিয়া আৰু ডাবল-ক্লিক কৰিলে খোলা সৰু ফাইলক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Subfolder",
+        "as": "ছাবফল্ডাৰ"
+      },
+      {
+        "en": "Shortcut",
+        "as": "শ্বৰ্টকাট"
+      },
+      {
+        "en": "Archive",
+        "as": "আৰ্কাইভ"
+      },
+      {
+        "en": "Backup",
+        "as": "বেকআপ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A shortcut is a small file that points to another file or program and opens it when double-clicked.",
+      "as": "শ্বৰ্টকাট এটা সৰু ফাইল যি আন এটা ফাইল বা প্ৰগ্ৰামলৈ সংকেত দিয়ে আৰু ডাবল-ক্লিক কৰিলে খোলে।"
+    }
+  }
+]

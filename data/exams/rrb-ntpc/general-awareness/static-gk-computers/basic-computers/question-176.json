@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-176",
+    "q": {
+      "en": "Which networking device is more intelligent than a hub and sends data only to the intended computer?",
+      "as": "হাবতকৈ বুদ্ধিমান আৰু কেৱল লক্ষ্য কম্পিউটাৰলৈ তথ্য পঠিওৱা নেটৱৰ্কিং যন্ত্ৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Switch",
+        "as": "স্বিচ"
+      },
+      {
+        "en": "Hub",
+        "as": "হাব"
+      },
+      {
+        "en": "Repeater",
+        "as": "ৰিপিটাৰ"
+      },
+      {
+        "en": "Modem",
+        "as": "মডেম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A switch is more intelligent than a hub and sends data only to the intended computer.",
+      "as": "স্বিচ হাবতকৈ বুদ্ধিমান আৰু কেৱল লক্ষ্য কম্পিউটাৰলৈ তথ্য পঠিয়ায়।"
+    }
+  }
+]

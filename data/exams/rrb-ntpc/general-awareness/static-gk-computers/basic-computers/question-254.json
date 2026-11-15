@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-254",
+    "q": {
+      "en": "What is an error in a program that causes it to behave incorrectly called?",
+      "as": "প্ৰগ্ৰাম এটা ভুলভাৱে চলোৱা ত্ৰুটিক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Bug",
+        "as": "বাগ"
+      },
+      {
+        "en": "Byte",
+        "as": "বাইট"
+      },
+      {
+        "en": "Bit",
+        "as": "বিট"
+      },
+      {
+        "en": "Boot",
+        "as": "বুট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An error in a program that causes incorrect behaviour is called a bug.",
+      "as": "প্ৰগ্ৰাম এটা ভুলভাৱে চলোৱা ত্ৰুটিক বাগ বোলা হয়।"
+    }
+  }
+]

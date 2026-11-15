@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-023",
+    "q": {
+      "en": "Which is the tiniest unit of data that a computer handles?",
+      "as": "কম্পিউটাৰে ব্যৱহাৰ কৰা তথ্যৰ আটাইতকৈ ক্ষুদ্ৰ এককটো কোন?"
+    },
+    "options": [
+      {
+        "en": "Byte",
+        "as": "বাইট"
+      },
+      {
+        "en": "Bit",
+        "as": "বিট"
+      },
+      {
+        "en": "Nibble",
+        "as": "নিবল"
+      },
+      {
+        "en": "Word",
+        "as": "ৱৰ্ড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The tiniest unit of data a computer handles is the bit.",
+      "as": "কম্পিউটাৰে ব্যৱহাৰ কৰা তথ্যৰ আটাইতকৈ ক্ষুদ্ৰ এককটো হ'ল বিট।"
+    }
+  }
+]

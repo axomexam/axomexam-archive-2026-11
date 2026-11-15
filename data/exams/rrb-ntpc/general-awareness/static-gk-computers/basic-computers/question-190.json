@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-190",
+    "q": {
+      "en": "What is the main use of HTML?",
+      "as": "HTML ৰ মূল ব্যৱহাৰ কি?"
+    },
+    "options": [
+      {
+        "en": "Editing images",
+        "as": "ছবি সম্পাদনা কৰিবলৈ"
+      },
+      {
+        "en": "Creating web pages",
+        "as": "ৱেব পেজ সৃষ্টি কৰিবলৈ"
+      },
+      {
+        "en": "Managing databases",
+        "as": "ডাটাবেছ পৰিচালনা কৰিবলৈ"
+      },
+      {
+        "en": "Playing music",
+        "as": "সংগীত চলাবলৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "HTML is mainly used for creating web pages.",
+      "as": "HTML মূলতঃ ৱেব পেজ সৃষ্টি কৰিবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

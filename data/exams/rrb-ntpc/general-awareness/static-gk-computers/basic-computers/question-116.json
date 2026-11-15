@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-116",
+    "q": {
+      "en": "In MS Word, which shortcut opens the Find dialog box?",
+      "as": "এমএছ ৱৰ্ডত, ফাইণ্ড ডায়েলগ বক্স খোলা শ্বৰ্টকাট কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + H",
+        "as": "Ctrl + H"
+      },
+      {
+        "en": "Ctrl + F",
+        "as": "Ctrl + F"
+      },
+      {
+        "en": "Ctrl + G",
+        "as": "Ctrl + G"
+      },
+      {
+        "en": "Ctrl + K",
+        "as": "Ctrl + K"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ctrl + F opens the Find dialog box.",
+      "as": "Ctrl + F য়ে ফাইণ্ড ডায়েলগ বক্স খোলে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-135",
+    "q": {
+      "en": "In MS Excel, which function adds up the numeric values in a range of cells?",
+      "as": "এমএছ এক্সেলত, চেলৰ পৰিসৰত থকা সংখ্যাসমূহ যোগ কৰা ফলন কোনটো?"
+    },
+    "options": [
+      {
+        "en": "AVERAGE",
+        "as": "AVERAGE"
+      },
+      {
+        "en": "SUM",
+        "as": "SUM"
+      },
+      {
+        "en": "COUNT",
+        "as": "COUNT"
+      },
+      {
+        "en": "MAX",
+        "as": "MAX"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The SUM function adds up the numeric values in a range of cells.",
+      "as": "SUM ফলনে চেলৰ পৰিসৰত থকা সংখ্যাসমূহ যোগ কৰে।"
+    }
+  }
+]

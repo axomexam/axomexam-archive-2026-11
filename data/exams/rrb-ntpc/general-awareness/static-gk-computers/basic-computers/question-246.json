@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-246",
+    "q": {
+      "en": "What is a security system that blocks unwanted network traffic based on set rules called?",
+      "as": "নিৰ্ধাৰিত নিয়মৰ আধাৰত অবাঞ্ছিত নেটৱৰ্ক ট্ৰেফিক অৱৰোধ কৰা সুৰক্ষা ব্যৱস্থাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Browser",
+        "as": "ব্ৰাউজাৰ"
+      },
+      {
+        "en": "Compiler",
+        "as": "কম্পাইলাৰ"
+      },
+      {
+        "en": "Router",
+        "as": "ৰাউটাৰ"
+      },
+      {
+        "en": "Firewall",
+        "as": "ফায়াৰৱাল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A security system that blocks unwanted network traffic based on set rules is called a firewall.",
+      "as": "নিৰ্ধাৰিত নিয়মৰ আধাৰত অবাঞ্ছিত নেটৱৰ্ক ট্ৰেফিক অৱৰোধ কৰা সুৰক্ষা ব্যৱস্থাক ফায়াৰৱাল বোলা হয়।"
+    }
+  }
+]

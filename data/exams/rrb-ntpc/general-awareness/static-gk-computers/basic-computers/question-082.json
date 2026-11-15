@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-082",
+    "q": {
+      "en": "Which feature allows more than one program to run at the same time on a computer?",
+      "as": "কোন বৈশিষ্ট্যই কম্পিউটাৰত একে সময়তে একাধিক প্ৰগ্ৰাম চলাবলৈ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Multitasking",
+        "as": "মাল্টিটাস্কিং"
+      },
+      {
+        "en": "Multiprogramming",
+        "as": "মাল্টিপ্ৰগ্ৰামিং"
+      },
+      {
+        "en": "Booting",
+        "as": "বুটিং"
+      },
+      {
+        "en": "Formatting",
+        "as": "ফৰ্মেটিং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Multitasking allows more than one program to run at the same time.",
+      "as": "মাল্টিটাস্কিঙে একে সময়তে একাধিক প্ৰগ্ৰাম চলাবলৈ দিয়ে।"
+    }
+  }
+]

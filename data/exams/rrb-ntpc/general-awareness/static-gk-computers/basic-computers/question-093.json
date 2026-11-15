@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-093",
+    "q": {
+      "en": "What does the file extension .txt usually indicate?",
+      "as": ".txt ফাইল এক্সটেনচনে সাধাৰণতে কি সূচায়?"
+    },
+    "options": [
+      {
+        "en": "An image file",
+        "as": "ছবি ফাইল"
+      },
+      {
+        "en": "A music file",
+        "as": "সংগীত ফাইল"
+      },
+      {
+        "en": "A program file",
+        "as": "প্ৰগ্ৰাম ফাইল"
+      },
+      {
+        "en": "A plain text file",
+        "as": "সাধাৰণ লিখা ফাইল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The .txt extension usually indicates a plain text file.",
+      "as": ".txt এক্সটেনচনে সাধাৰণতে সাধাৰণ লিখা ফাইল সূচায়।"
+    }
+  }
+]

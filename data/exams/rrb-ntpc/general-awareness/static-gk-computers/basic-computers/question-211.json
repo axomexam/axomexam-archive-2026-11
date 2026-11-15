@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-211",
+    "q": {
+      "en": "Which folder in an email client receives incoming messages?",
+      "as": "ইমেইল ক্লায়েণ্টৰ কোন ফল্ডাৰে অহা বাৰ্তা লাভ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Sent",
+        "as": "চেণ্ট"
+      },
+      {
+        "en": "Trash",
+        "as": "ট্ৰেছ"
+      },
+      {
+        "en": "Drafts",
+        "as": "ড্ৰাফ্টছ"
+      },
+      {
+        "en": "Inbox",
+        "as": "ইনবক্স"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Inbox folder receives incoming messages.",
+      "as": "ইনবক্স ফল্ডাৰে অহা বাৰ্তা লাভ কৰে।"
+    }
+  }
+]

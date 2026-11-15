@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-177",
+    "q": {
+      "en": "Which device strengthens a weakened signal so that it can travel a longer distance?",
+      "as": "দুৰ্বল হৈ পৰা সংকেত শক্তিশালী কৰি বেছি দূৰলৈ যাবলৈ দিয়া যন্ত্ৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Router",
+        "as": "ৰাউটাৰ"
+      },
+      {
+        "en": "Switch",
+        "as": "স্বিচ"
+      },
+      {
+        "en": "Bridge",
+        "as": "ব্ৰিজ"
+      },
+      {
+        "en": "Repeater",
+        "as": "ৰিপিটাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A repeater strengthens a weakened signal so that it can travel a longer distance.",
+      "as": "ৰিপিটাৰে দুৰ্বল হৈ পৰা সংকেত শক্তিশালী কৰি বেছি দূৰলৈ যাবলৈ দিয়ে।"
+    }
+  }
+]

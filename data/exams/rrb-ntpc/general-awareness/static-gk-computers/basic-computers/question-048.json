@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-048",
+    "q": {
+      "en": "Which of the following is system software?",
+      "as": "তলৰ কোনটো ছফ্টৱেৰ অপাৰেটিং ছিষ্টেমৰ পৰিসৰত পৰে?"
+    },
+    "options": [
+      {
+        "en": "Word processor",
+        "as": "ৱৰ্ড প্ৰচেছৰ"
+      },
+      {
+        "en": "Operating system",
+        "as": "অপাৰেটিং ছিষ্টেম"
+      },
+      {
+        "en": "Spreadsheet",
+        "as": "স্প্ৰেডশ্বীট"
+      },
+      {
+        "en": "Web browser",
+        "as": "ৱেব ব্ৰাউজাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "An operating system is system software, whereas word processors, spreadsheets and browsers are application software.",
+      "as": "অপাৰেটিং ছিষ্টেম চিষ্টেম ছফ্টৱেৰ, আনহাতে ৱৰ্ড প্ৰচেছৰ, স্প্ৰেডশ্বীট আৰু ব্ৰাউজাৰ এপ্লিকেচন ছফ্টৱেৰ।"
+    }
+  }
+]

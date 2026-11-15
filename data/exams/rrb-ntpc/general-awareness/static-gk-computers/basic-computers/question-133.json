@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-133",
+    "q": {
+      "en": "Which function returns the smallest number from a range?",
+      "as": "এমএছ এক্সেলত, শাৰীবোৰ কিৰে লেবেল কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Letters",
+        "as": "আখৰ"
+      },
+      {
+        "en": "Roman numerals",
+        "as": "ৰোমান সংখ্যা"
+      },
+      {
+        "en": "Numbers",
+        "as": "সংখ্যা"
+      },
+      {
+        "en": "Symbols",
+        "as": "সংকেত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rows in MS Excel are labelled with numbers such as 1, 2 and 3.",
+      "as": "এমএছ এক্সেলত শাৰীবোৰ ১, ২, ৩ আদি সংখ্যাৰে লেবেল কৰা হয়।"
+    }
+  }
+]

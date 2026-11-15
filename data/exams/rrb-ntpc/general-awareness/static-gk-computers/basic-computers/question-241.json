@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-241",
+    "q": {
+      "en": "Which type of attack tries to trick a user into revealing passwords by sending fake emails?",
+      "as": "কোন ধৰণৰ আক্ৰমণে ভুৱা ইমেইল পঠিয়াই ব্যৱহাৰকাৰীক পাছৱৰ্ড প্ৰকাশ কৰিবলৈ ভুলাই নিব বিচাৰে?"
+    },
+    "options": [
+      {
+        "en": "Spoofing",
+        "as": "স্পুফিং"
+      },
+      {
+        "en": "Hacking",
+        "as": "হেকিং"
+      },
+      {
+        "en": "Spamming",
+        "as": "স্পেমিং"
+      },
+      {
+        "en": "Phishing",
+        "as": "ফিছিং"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Phishing tries to trick a user into revealing passwords by sending fake emails.",
+      "as": "ফিছিঙে ভুৱা ইমেইল পঠিয়াই ব্যৱহাৰকাৰীক পাছৱৰ্ড প্ৰকাশ কৰিবলৈ ভুলাই নিব বিচাৰে।"
+    }
+  }
+]

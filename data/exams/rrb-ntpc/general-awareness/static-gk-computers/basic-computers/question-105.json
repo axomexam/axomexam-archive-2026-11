@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-105",
+    "q": {
+      "en": "In MS Word, which shortcut opens a new blank document?",
+      "as": "এমএছ ৱৰ্ডত, কোন শ্বৰ্টকাটে নতুন খালী নথিপত্ৰ খোলে?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + O",
+        "as": "Ctrl + O"
+      },
+      {
+        "en": "Ctrl + N",
+        "as": "Ctrl + N"
+      },
+      {
+        "en": "Ctrl + S",
+        "as": "Ctrl + S"
+      },
+      {
+        "en": "Ctrl + W",
+        "as": "Ctrl + W"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ctrl + N opens a new blank document in MS Word.",
+      "as": "এমএছ ৱৰ্ডত Ctrl + N য়ে নতুন খালী নথিপত্ৰ খোলে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-025",
+    "q": {
+      "en": "How many bits make up one byte?",
+      "as": "এটা বাইট কিমানটা বিটেৰে গঠিত?"
+    },
+    "options": [
+      {
+        "en": "Four",
+        "as": "চাৰি"
+      },
+      {
+        "en": "Sixteen",
+        "as": "ষোল্ল"
+      },
+      {
+        "en": "Eight",
+        "as": "আঠ"
+      },
+      {
+        "en": "Thirty-two",
+        "as": "বত্ৰিশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "One byte is made up of eight bits.",
+      "as": "এটা বাইট আঠটা বিটেৰে গঠিত।"
+    }
+  }
+]

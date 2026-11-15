@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-070",
+    "q": {
+      "en": "Microsoft PowerPoint is mainly used to create what?",
+      "as": "মাইক্ৰ'ছফ্ট পাওৱাৰপইণ্ট মূলতঃ কি সৃষ্টি কৰিবলৈ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Spreadsheets",
+        "as": "স্প্ৰেডশ্বীট"
+      },
+      {
+        "en": "Databases",
+        "as": "ডাটাবেছ"
+      },
+      {
+        "en": "Slide presentations",
+        "as": "স্লাইড প্ৰজেণ্টেচন"
+      },
+      {
+        "en": "Web pages",
+        "as": "ৱেব পেজ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Microsoft PowerPoint is mainly used to create slide presentations.",
+      "as": "মাইক্ৰ'ছফ্ট পাওৱাৰপইণ্ট মূলতঃ স্লাইড প্ৰজেণ্টেচন সৃষ্টি কৰিবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

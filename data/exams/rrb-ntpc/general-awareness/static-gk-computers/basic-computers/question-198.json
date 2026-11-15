@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-198",
+    "q": {
+      "en": "Which protocol translates a domain name into an IP address?",
+      "as": "কোন প্ৰ'ট'কলে এটা ডমেইন নামক IP এড্ৰেছলৈ ৰূপান্তৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "FTP",
+        "as": "FTP"
+      },
+      {
+        "en": "DNS",
+        "as": "DNS"
+      },
+      {
+        "en": "HTTP",
+        "as": "HTTP"
+      },
+      {
+        "en": "SMTP",
+        "as": "SMTP"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "DNS, or Domain Name System, translates a domain name into an IP address.",
+      "as": "DNS, অৰ্থাৎ ডমেইন নেম চিষ্টেম, এটা ডমেইন নামক IP এড্ৰেছলৈ ৰূপান্তৰ কৰে।"
+    }
+  }
+]

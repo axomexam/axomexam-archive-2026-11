@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-284",
+    "q": {
+      "en": "Which large computer is used by big organisations to process huge volumes of data for many users at once?",
+      "as": "বহু ব্যৱহাৰকাৰীৰ বাবে একে সময়তে বিশাল পৰিমাণৰ তথ্য প্ৰক্ৰিয়া কৰিবলৈ ডাঙৰ সংস্থাই ব্যৱহাৰ কৰা কম্পিউটাৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Laptop",
+        "as": "লেপটপ"
+      },
+      {
+        "en": "Tablet",
+        "as": "টেবলেট"
+      },
+      {
+        "en": "Smartphone",
+        "as": "স্মাৰ্টফোন"
+      },
+      {
+        "en": "Mainframe computer",
+        "as": "মেইনফ্ৰেম কম্পিউটাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A mainframe computer is used by big organisations to process huge volumes of data for many users at once.",
+      "as": "মেইনফ্ৰেম কম্পিউটাৰ ডাঙৰ সংস্থাই বহু ব্যৱহাৰকাৰীৰ বাবে একে সময়তে বিশাল পৰিমাণৰ তথ্য প্ৰক্ৰিয়া কৰিবলৈ ব্যৱহাৰ কৰে।"
+    }
+  }
+]

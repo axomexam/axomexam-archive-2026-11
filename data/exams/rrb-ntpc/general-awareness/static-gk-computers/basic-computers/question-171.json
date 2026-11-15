@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-171",
+    "q": {
+      "en": "Which network spans a city or a large campus?",
+      "as": "কোন নেটৱৰ্কে এটা চহৰ বা ডাঙৰ চৌহদ আগুৰে?"
+    },
+    "options": [
+      {
+        "en": "LAN",
+        "as": "LAN"
+      },
+      {
+        "en": "PAN",
+        "as": "PAN"
+      },
+      {
+        "en": "MAN",
+        "as": "MAN"
+      },
+      {
+        "en": "WAN",
+        "as": "WAN"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A MAN spans a city or a large campus.",
+      "as": "এটা MAN য়ে এটা চহৰ বা ডাঙৰ চৌহদ আগুৰে।"
+    }
+  }
+]

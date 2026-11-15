@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-119",
+    "q": {
+      "en": "In MS Word, left alignment is set with which shortcut?",
+      "as": "এমএছ ৱৰ্ডত, বাছনি কৰা অনুচ্ছেদ বাওঁফালে সংৰেখিত কৰা শ্বৰ্টকাট কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + E",
+        "as": "Ctrl + E"
+      },
+      {
+        "en": "Ctrl + L",
+        "as": "Ctrl + L"
+      },
+      {
+        "en": "Ctrl + R",
+        "as": "Ctrl + R"
+      },
+      {
+        "en": "Ctrl + J",
+        "as": "Ctrl + J"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ctrl + L sets left alignment for the chosen paragraph.",
+      "as": "Ctrl + L য়ে বাছনি কৰা অনুচ্ছেদ বাওঁফালে সংৰেখিত কৰে।"
+    }
+  }
+]

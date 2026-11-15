@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-282",
+    "q": {
+      "en": "Which computer is the largest, fastest and most expensive type, used for complex scientific work?",
+      "as": "জটিল বৈজ্ঞানিক কামত ব্যৱহৃত আটাইতকৈ ডাঙৰ, দ্ৰুত আৰু ব্যয়বহুল ধৰণৰ কম্পিউটাৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Microcomputer",
+        "as": "মাইক্ৰ'কম্পিউটাৰ"
+      },
+      {
+        "en": "Supercomputer",
+        "as": "ছুপাৰকম্পিউটাৰ"
+      },
+      {
+        "en": "Minicomputer",
+        "as": "মিনিকম্পিউটাৰ"
+      },
+      {
+        "en": "Laptop",
+        "as": "লেপটপ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A supercomputer is the largest, fastest and most expensive type of computer, used for complex scientific work.",
+      "as": "ছুপাৰকম্পিউটাৰ জটিল বৈজ্ঞানিক কামত ব্যৱহৃত আটাইতকৈ ডাঙৰ, দ্ৰুত আৰু ব্যয়বহুল ধৰণৰ কম্পিউটাৰ।"
+    }
+  }
+]

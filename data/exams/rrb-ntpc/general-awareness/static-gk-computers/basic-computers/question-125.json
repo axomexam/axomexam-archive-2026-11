@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-125",
+    "q": {
+      "en": "Where is the footer placed in a Word document?",
+      "as": "ৱৰ্ড নথিপত্ৰত, ফুটাৰ ক'ত দেখা যায়?"
+    },
+    "options": [
+      {
+        "en": "At the bottom of each page",
+        "as": "প্ৰতিটো পৃষ্ঠাৰ তলত"
+      },
+      {
+        "en": "At the top of each page",
+        "as": "প্ৰতিটো পৃষ্ঠাৰ ওপৰত"
+      },
+      {
+        "en": "In the margin",
+        "as": "মাৰ্জিনত"
+      },
+      {
+        "en": "In the title bar",
+        "as": "টাইটেল বাৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A footer appears at the bottom of each page in a Word document.",
+      "as": "ৱৰ্ড নথিপত্ৰত ফুটাৰ প্ৰতিটো পৃষ্ঠাৰ তলত দেখা যায়।"
+    }
+  }
+]

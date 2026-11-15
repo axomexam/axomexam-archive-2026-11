@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-137",
+    "q": {
+      "en": "In MS Excel, which function counts the numeric cells in a range?",
+      "as": "এমএছ এক্সেলত, পৰিসৰত থকা সংখ্যাযুক্ত চেল গণা ফলন কোনটো?"
+    },
+    "options": [
+      {
+        "en": "COUNT",
+        "as": "COUNT"
+      },
+      {
+        "en": "SUM",
+        "as": "SUM"
+      },
+      {
+        "en": "AVERAGE",
+        "as": "AVERAGE"
+      },
+      {
+        "en": "IF",
+        "as": "IF"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The COUNT function counts the numeric cells in a range.",
+      "as": "COUNT ফলনে পৰিসৰত থকা সংখ্যাযুক্ত চেল গণে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-098",
+    "q": {
+      "en": "A folder inside another folder is called a what?",
+      "as": "আন এটা ফল্ডাৰৰ ভিতৰত থকা ফল্ডাৰক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Subfolder",
+        "as": "ছাবফল্ডাৰ"
+      },
+      {
+        "en": "Shortcut",
+        "as": "শ্বৰ্টকাট"
+      },
+      {
+        "en": "Root folder",
+        "as": "ৰুট ফল্ডাৰ"
+      },
+      {
+        "en": "Archive",
+        "as": "আৰ্কাইভ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A folder inside another folder is called a subfolder.",
+      "as": "আন এটা ফল্ডাৰৰ ভিতৰত থকা ফল্ডাৰক ছাবফল্ডাৰ বোলা হয়।"
+    }
+  }
+]

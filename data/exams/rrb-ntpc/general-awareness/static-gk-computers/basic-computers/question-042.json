@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-042",
+    "q": {
+      "en": "Which device supplies power to all parts of a computer?",
+      "as": "কোন যন্ত্ৰই কম্পিউটাৰৰ সকলো অংশত শক্তি যোগান ধৰে?"
+    },
+    "options": [
+      {
+        "en": "UPS",
+        "as": "ইউপিএছ"
+      },
+      {
+        "en": "Modem",
+        "as": "মডেম"
+      },
+      {
+        "en": "SMPS",
+        "as": "এছএমপিএছ"
+      },
+      {
+        "en": "Adapter",
+        "as": "এডাপ্টাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The SMPS, or switched-mode power supply, supplies power to all parts of a computer.",
+      "as": "এছএমপিএছ, অৰ্থাৎ ছুইচড-ম'ড পাওৱাৰ চাপ্লাই, কম্পিউটাৰৰ সকলো অংশত শক্তি যোগান ধৰে।"
+    }
+  }
+]

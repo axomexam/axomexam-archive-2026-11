@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-175",
+    "q": {
+      "en": "Which networking device connects multiple computers in a LAN and sends data to all of them?",
+      "as": "কোন নেটৱৰ্কিং যন্ত্ৰই LAN ত একাধিক কম্পিউটাৰ সংযোগ কৰে আৰু সকলোলৈ তথ্য পঠিয়ায়?"
+    },
+    "options": [
+      {
+        "en": "Router",
+        "as": "ৰাউটাৰ"
+      },
+      {
+        "en": "Hub",
+        "as": "হাব"
+      },
+      {
+        "en": "Modem",
+        "as": "মডেম"
+      },
+      {
+        "en": "Gateway",
+        "as": "গেটৱে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A hub connects multiple computers in a LAN and sends data to all of them.",
+      "as": "হাবে LAN ত একাধিক কম্পিউটাৰ সংযোগ কৰে আৰু সকলোলৈ তথ্য পঠিয়ায়।"
+    }
+  }
+]

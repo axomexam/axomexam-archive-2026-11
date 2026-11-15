@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-255",
+    "q": {
+      "en": "What is the process of finding and fixing errors in a program called?",
+      "as": "প্ৰগ্ৰামত থকা ত্ৰুটি বিচাৰি শুধৰোৱাৰ প্ৰক্ৰিয়াক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Debugging",
+        "as": "ডিবাগিং"
+      },
+      {
+        "en": "Compiling",
+        "as": "কম্পাইলিং"
+      },
+      {
+        "en": "Formatting",
+        "as": "ফৰ্মেটিং"
+      },
+      {
+        "en": "Booting",
+        "as": "বুটিং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Finding and fixing errors in a program is called debugging.",
+      "as": "প্ৰগ্ৰামত থকা ত্ৰুটি বিচাৰি শুধৰোৱাক ডিবাগিং বোলা হয়।"
+    }
+  }
+]

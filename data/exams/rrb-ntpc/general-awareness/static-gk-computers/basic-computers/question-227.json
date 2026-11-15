@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-227",
+    "q": {
+      "en": "What is a message posted publicly on a social media platform called?",
+      "as": "ছ'চিয়েল মিডিয়া মঞ্চত ৰাজহুৱাভাৱে দিয়া বাৰ্তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Draft",
+        "as": "ড্ৰাফ্ট"
+      },
+      {
+        "en": "Post",
+        "as": "প'ষ্ট"
+      },
+      {
+        "en": "Cookie",
+        "as": "কুকি"
+      },
+      {
+        "en": "Cache",
+        "as": "কেশ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A message posted publicly on a social media platform is called a post.",
+      "as": "ছ'চিয়েল মিডিয়া মঞ্চত ৰাজহুৱাভাৱে দিয়া বাৰ্তাক প'ষ্ট বোলা হয়।"
+    }
+  }
+]

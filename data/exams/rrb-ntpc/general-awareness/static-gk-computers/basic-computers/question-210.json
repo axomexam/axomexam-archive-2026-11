@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-210",
+    "q": {
+      "en": "Which folder in an email client stores messages that have been sent?",
+      "as": "ইমেইল ক্লায়েণ্টৰ কোন ফল্ডাৰে পঠিওৱা বাৰ্তা সংৰক্ষণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Sent",
+        "as": "চেণ্ট"
+      },
+      {
+        "en": "Inbox",
+        "as": "ইনবক্স"
+      },
+      {
+        "en": "Drafts",
+        "as": "ড্ৰাফ্টছ"
+      },
+      {
+        "en": "Spam",
+        "as": "স্পেম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Sent folder stores messages that have been sent.",
+      "as": "চেণ্ট ফল্ডাৰে পঠিওৱা বাৰ্তা সংৰক্ষণ কৰে।"
+    }
+  }
+]

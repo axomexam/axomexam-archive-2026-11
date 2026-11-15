@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-154",
+    "q": {
+      "en": "In MS PowerPoint, what is the effect applied to individual objects on a slide, such as text flying in, called?",
+      "as": "এমএছ পাওৱাৰপইণ্টত, স্লাইডৰ ব্যক্তিগত বস্তুত প্ৰয়োগ কৰা প্ৰভাৱ, যেনে লিখা উৰি অহা, তাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Transition",
+        "as": "ট্ৰানজিচন"
+      },
+      {
+        "en": "Theme",
+        "as": "থীম"
+      },
+      {
+        "en": "Template",
+        "as": "টেম্পলেট"
+      },
+      {
+        "en": "Animation",
+        "as": "এনিমেচন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "An animation is an effect applied to individual objects on a slide.",
+      "as": "এনিমেচন হ'ল স্লাইডৰ ব্যক্তিগত বস্তুত প্ৰয়োগ কৰা প্ৰভাৱ।"
+    }
+  }
+]

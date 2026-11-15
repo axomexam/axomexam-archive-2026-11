@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-103",
+    "q": {
+      "en": "Which copy of data is kept so that it can be restored if the original is lost?",
+      "as": "মূল তথ্য হেৰাই গ'লে পুনৰুদ্ধাৰ কৰিব পৰাকৈ তথ্যৰ কোন প্ৰতিলিপি ৰখা হয়?"
+    },
+    "options": [
+      {
+        "en": "Backup",
+        "as": "বেকআপ"
+      },
+      {
+        "en": "Cookie",
+        "as": "কুকি"
+      },
+      {
+        "en": "Cache",
+        "as": "কেশ"
+      },
+      {
+        "en": "Log",
+        "as": "লগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A backup is a copy of data kept so that it can be restored if the original is lost.",
+      "as": "বেকআপ হ'ল তথ্যৰ প্ৰতিলিপি যি মূল হেৰাই গ'লে পুনৰুদ্ধাৰ কৰিব পাৰি।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-267",
+    "q": {
+      "en": "Which branch of computer science aims to make machines perform tasks that normally need human intelligence?",
+      "as": "কম্পিউটাৰ বিজ্ঞানৰ কোন শাখাই সাধাৰণতে মানৱ বুদ্ধিমত্তা প্ৰয়োজন হোৱা কাম মেছিনে কৰিব পৰাকৈ গঢ়ি তোলে?"
+    },
+    "options": [
+      {
+        "en": "Networking",
+        "as": "নেটৱৰ্কিং"
+      },
+      {
+        "en": "Data entry",
+        "as": "ডাটা এণ্ট্ৰি"
+      },
+      {
+        "en": "Formatting",
+        "as": "ফৰ্মেটিং"
+      },
+      {
+        "en": "Artificial intelligence",
+        "as": "কৃত্ৰিম বুদ্ধিমত্তা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Artificial intelligence aims to make machines perform tasks that normally need human intelligence.",
+      "as": "কৃত্ৰিম বুদ্ধিমত্তাই সাধাৰণতে মানৱ বুদ্ধিমত্তা প্ৰয়োজন হোৱা কাম মেছিনে কৰিব পৰাকৈ গঢ়ি তোলে।"
+    }
+  }
+]

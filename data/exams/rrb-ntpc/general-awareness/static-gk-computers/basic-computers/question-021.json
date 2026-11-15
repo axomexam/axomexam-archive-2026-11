@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-021",
+    "q": {
+      "en": "Which unit of the CPU carries out arithmetic and logical operations?",
+      "as": "CPU ৰ কোন একুয়ে পাটিগণিত আৰু যুক্তিমূলক কাৰ্য সম্পন্ন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Control Unit",
+        "as": "নিয়ন্ত্ৰণ একক"
+      },
+      {
+        "en": "Memory Unit",
+        "as": "স্মৃতি একক"
+      },
+      {
+        "en": "Input Unit",
+        "as": "ইনপুট একক"
+      },
+      {
+        "en": "Arithmetic Logic Unit",
+        "as": "পাটিগণিত যুক্তি একক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Arithmetic Logic Unit of the CPU carries out arithmetic and logical operations.",
+      "as": "CPU ৰ পাটিগণিত যুক্তি একুয়ে পাটিগণিত আৰু যুক্তিমূলক কাৰ্য সম্পন্ন কৰে।"
+    }
+  }
+]

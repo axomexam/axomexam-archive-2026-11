@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-224",
+    "q": {
+      "en": "What is the delivery of government services through the internet called?",
+      "as": "ইণ্টাৰনেটৰ জৰিয়তে চৰকাৰী সেৱা প্ৰদান কৰাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "E-commerce",
+        "as": "ই-কমাৰ্চ"
+      },
+      {
+        "en": "E-learning",
+        "as": "ই-লাৰ্নিং"
+      },
+      {
+        "en": "E-mail",
+        "as": "ই-মেইল"
+      },
+      {
+        "en": "E-governance",
+        "as": "ই-গভাৰ্নেন্স"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The delivery of government services through the internet is called e-governance.",
+      "as": "ইণ্টাৰনেটৰ জৰিয়তে চৰকাৰী সেৱা প্ৰদান কৰাক ই-গভাৰ্নেন্স বোলা হয়।"
+    }
+  }
+]

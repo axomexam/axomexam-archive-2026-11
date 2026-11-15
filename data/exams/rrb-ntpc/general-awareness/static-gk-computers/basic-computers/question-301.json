@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-301",
+    "q": {
+      "en": "Which port is commonly used to connect a monitor to a computer?",
+      "as": "মনিটৰ কম্পিউটাৰত সংযোগ কৰিবলৈ সাধাৰণতে কোন পৰ্ট ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "USB",
+        "as": "USB"
+      },
+      {
+        "en": "Ethernet",
+        "as": "ইথাৰনেট"
+      },
+      {
+        "en": "Audio jack",
+        "as": "অডিঅ' জেক"
+      },
+      {
+        "en": "HDMI",
+        "as": "HDMI"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "HDMI is a port commonly used to connect a monitor to a computer.",
+      "as": "HDMI মনিটৰ কম্পিউটাৰত সংযোগ কৰিবলৈ সাধাৰণতে ব্যৱহৃত এটা পৰ্ট।"
+    }
+  }
+]

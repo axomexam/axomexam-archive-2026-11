@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-053",
+    "q": {
+      "en": "Which company developed the Windows operating system?",
+      "as": "উইণ্ড'জ অপাৰেটিং ছিষ্টেম কোন কোম্পানীয়ে বিকশিত কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Apple",
+        "as": "এপল"
+      },
+      {
+        "en": "Microsoft",
+        "as": "মাইক্ৰ'ছফ্ট"
+      },
+      {
+        "en": "Google",
+        "as": "গুগল"
+      },
+      {
+        "en": "IBM",
+        "as": "আইবিএম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Microsoft developed the Windows operating system.",
+      "as": "মাইক্ৰ'ছফ্টে উইণ্ড'জ অপাৰেটিং ছিষ্টেম বিকশিত কৰিছিল।"
+    }
+  }
+]

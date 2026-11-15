@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-013",
+    "q": {
+      "en": "Which device converts data into a form the computer can process and feeds it in?",
+      "as": "কোন যন্ত্ৰই তথ্যক কম্পিউটাৰে প্ৰক্ৰিয়া কৰিব পৰা ৰূপলৈ ৰূপান্তৰ কৰি ইয়াত প্ৰৱেশ কৰায়?"
+    },
+    "options": [
+      {
+        "en": "Output device",
+        "as": "আউটপুট যন্ত্ৰ"
+      },
+      {
+        "en": "Storage device",
+        "as": "সংৰক্ষণ যন্ত্ৰ"
+      },
+      {
+        "en": "Processing device",
+        "as": "প্ৰক্ৰিয়াকৰণ যন্ত্ৰ"
+      },
+      {
+        "en": "Input device",
+        "as": "ইনপুট যন্ত্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "An input device converts data into a machine-readable form and feeds it into the computer.",
+      "as": "ইনপুট যন্ত্ৰই তথ্যক মেছিন-পাঠযোগ্য ৰূপলৈ ৰূপান্তৰ কৰি কম্পিউটাৰত প্ৰৱেশ কৰায়।"
+    }
+  }
+]

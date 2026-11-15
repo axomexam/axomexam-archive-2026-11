@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-238",
+    "q": {
+      "en": "What is a network security system that monitors and controls incoming and outgoing traffic called?",
+      "as": "অহা-যোৱা ট্ৰেফিক নিৰীক্ষণ আৰু নিয়ন্ত্ৰণ কৰা নেটৱৰ্ক সুৰক্ষা ব্যৱস্থাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Antivirus",
+        "as": "এণ্টিভাইৰাছ"
+      },
+      {
+        "en": "Router",
+        "as": "ৰাউটাৰ"
+      },
+      {
+        "en": "Switch",
+        "as": "স্বিচ"
+      },
+      {
+        "en": "Firewall",
+        "as": "ফায়াৰৱাল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A firewall is a network security system that monitors and controls incoming and outgoing traffic.",
+      "as": "ফায়াৰৱাল হ'ল অহা-যোৱা ট্ৰেফিক নিৰীক্ষণ আৰু নিয়ন্ত্ৰণ কৰা নেটৱৰ্ক সুৰক্ষা ব্যৱস্থা।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-251",
+    "q": {
+      "en": "Which program translates a high-level language program into machine code all at once?",
+      "as": "হাই-লেভেল ভাষাৰ প্ৰগ্ৰামক একেবাৰে মেছিন ক'ডলৈ অনুবাদ কৰা প্ৰগ্ৰাম কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Interpreter",
+        "as": "ইণ্টাৰপ্ৰিটাৰ"
+      },
+      {
+        "en": "Compiler",
+        "as": "কম্পাইলাৰ"
+      },
+      {
+        "en": "Assembler",
+        "as": "এছেম্বলাৰ"
+      },
+      {
+        "en": "Linker",
+        "as": "লিংকাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A compiler translates a high-level language program into machine code all at once.",
+      "as": "কম্পাইলাৰে হাই-লেভেল ভাষাৰ প্ৰগ্ৰামক একেবাৰে মেছিন ক'ডলৈ অনুবাদ কৰে।"
+    }
+  }
+]

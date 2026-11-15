@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-090",
+    "q": {
+      "en": "Which of these file systems is commonly used by Windows?",
+      "as": "তলৰ কোনটো ফাইল চিষ্টেম সাধাৰণতে উইণ্ড'জে ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "ext4",
+        "as": "এক্সট-৪"
+      },
+      {
+        "en": "NTFS",
+        "as": "এনটিএফএছ"
+      },
+      {
+        "en": "HFS+",
+        "as": "এইচএফএছ-প্লাছ"
+      },
+      {
+        "en": "ZFS",
+        "as": "জেডএফএছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "NTFS is the file system commonly used by modern Windows.",
+      "as": "এনটিএফএছ আধুনিক উইণ্ড'জে সাধাৰণতে ব্যৱহাৰ কৰা ফাইল চিষ্টেম।"
+    }
+  }
+]

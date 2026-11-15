@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-275",
+    "q": {
+      "en": "Which number system is used internally by digital computers?",
+      "as": "ডিজিটেল কম্পিউটাৰে অভ্যন্তৰীণভাৱে কোন সংখ্যা পদ্ধতি ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Binary",
+        "as": "বাইনেৰী"
+      },
+      {
+        "en": "Decimal",
+        "as": "দশমিক"
+      },
+      {
+        "en": "Octal",
+        "as": "অক্টেল"
+      },
+      {
+        "en": "Roman",
+        "as": "ৰোমান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Digital computers use the binary number system internally.",
+      "as": "ডিজিটেল কম্পিউটাৰে অভ্যন্তৰীণভাৱে বাইনেৰী সংখ্যা পদ্ধতি ব্যৱহাৰ কৰে।"
+    }
+  }
+]

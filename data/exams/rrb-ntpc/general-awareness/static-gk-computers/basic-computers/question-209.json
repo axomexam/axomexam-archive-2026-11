@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-209",
+    "q": {
+      "en": "What does the short form BCC mean in an email?",
+      "as": "ইমেইলত চমু ৰূপ BCC য়ে কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "Basic Carbon Copy",
+        "as": "বেচিক কাৰ্বন কপি"
+      },
+      {
+        "en": "Broad Carbon Copy",
+        "as": "ব্ৰড কাৰ্বন কপি"
+      },
+      {
+        "en": "Blind Carbon Copy",
+        "as": "ব্লাইণ্ড কাৰ্বন কপি"
+      },
+      {
+        "en": "Backup Carbon Copy",
+        "as": "বেকআপ কাৰ্বন কপি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "BCC stands for Blind Carbon Copy, which hides the recipients from one another.",
+      "as": "BCC য়ে ব্লাইণ্ড কাৰ্বন কপি বুজায়, যি প্ৰাপকসকলক এজনে আনজনৰ পৰা লুকুৱায়।"
+    }
+  }
+]

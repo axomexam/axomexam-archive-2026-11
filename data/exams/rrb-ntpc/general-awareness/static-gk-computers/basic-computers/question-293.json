@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-293",
+    "q": {
+      "en": "What is the smallest dot that can be displayed on a computer screen called?",
+      "as": "কম্পিউটাৰ পৰ্দাত দেখুৱাব পৰা আটাইতকৈ সৰু বিন্দুক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Byte",
+        "as": "বাইট"
+      },
+      {
+        "en": "Bit",
+        "as": "বিট"
+      },
+      {
+        "en": "Point",
+        "as": "পইণ্ট"
+      },
+      {
+        "en": "Pixel",
+        "as": "পিক্সেল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The smallest dot that can be displayed on a computer screen is called a pixel.",
+      "as": "কম্পিউটাৰ পৰ্দাত দেখুৱাব পৰা আটাইতকৈ সৰু বিন্দুক পিক্সেল বোলা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-173",
+    "q": {
+      "en": "Bluetooth is an example of which type of network?",
+      "as": "ব্লুটুথ কোন ধৰণৰ নেটৱৰ্কৰ উদাহৰণ?"
+    },
+    "options": [
+      {
+        "en": "LAN",
+        "as": "LAN"
+      },
+      {
+        "en": "WAN",
+        "as": "WAN"
+      },
+      {
+        "en": "PAN",
+        "as": "PAN"
+      },
+      {
+        "en": "MAN",
+        "as": "MAN"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bluetooth is an example of a personal area network (PAN).",
+      "as": "ব্লুটুথ এটা পাৰ্চনেল এৰিয়া নেটৱৰ্কৰ (PAN) উদাহৰণ।"
+    }
+  }
+]

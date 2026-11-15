@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-062",
+    "q": {
+      "en": "In Windows, where are deleted files temporarily kept before permanent removal?",
+      "as": "উইণ্ড'জত, স্থায়ীভাৱে মচাৰ আগতে মচা ফাইলবোৰ অস্থায়ীভাৱে ক'ত ৰখা হয়?"
+    },
+    "options": [
+      {
+        "en": "My Documents",
+        "as": "মাই ডকুমেণ্টছ"
+      },
+      {
+        "en": "Recycle Bin",
+        "as": "ৰিচাইকেল বিন"
+      },
+      {
+        "en": "Control Panel",
+        "as": "কন্ট্ৰ'ল পেনেল"
+      },
+      {
+        "en": "Task Manager",
+        "as": "টাস্ক মেনেজাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Deleted files are temporarily kept in the Recycle Bin before permanent removal.",
+      "as": "মচা ফাইলবোৰ স্থায়ীভাৱে মচাৰ আগতে ৰিচাইকেল বিনত অস্থায়ীভাৱে ৰখা হয়।"
+    }
+  }
+]

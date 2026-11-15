@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-222",
+    "q": {
+      "en": "What is the practice of buying and selling goods and services over the internet called?",
+      "as": "ইণ্টাৰনেটত সামগ্ৰী আৰু সেৱা ক্ৰয়-বিক্ৰয় কৰাৰ অভ্যাসক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "E-commerce",
+        "as": "ই-কমাৰ্চ"
+      },
+      {
+        "en": "E-learning",
+        "as": "ই-লাৰ্নিং"
+      },
+      {
+        "en": "E-governance",
+        "as": "ই-গভাৰ্নেন্স"
+      },
+      {
+        "en": "E-mail",
+        "as": "ই-মেইল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Buying and selling goods and services over the internet is called e-commerce.",
+      "as": "ইণ্টাৰনেটত সামগ্ৰী আৰু সেৱা ক্ৰয়-বিক্ৰয় কৰাক ই-কমাৰ্চ বোলা হয়।"
+    }
+  }
+]

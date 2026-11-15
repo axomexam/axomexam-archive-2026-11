@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-257",
+    "q": {
+      "en": "Which early high-level language was designed mainly for business data processing?",
+      "as": "মূলতঃ ব্যৱসায়িক তথ্য প্ৰক্ৰিয়াকৰণৰ বাবে ডিজাইন কৰা পুৰণি হাই-লেভেল ভাষা কোনটো?"
+    },
+    "options": [
+      {
+        "en": "FORTRAN",
+        "as": "ফৰ্ট্ৰান"
+      },
+      {
+        "en": "BASIC",
+        "as": "বেচিক"
+      },
+      {
+        "en": "Pascal",
+        "as": "পাস্কেল"
+      },
+      {
+        "en": "COBOL",
+        "as": "কবল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "COBOL was designed mainly for business data processing.",
+      "as": "কবল মূলতঃ ব্যৱসায়িক তথ্য প্ৰক্ৰিয়াকৰণৰ বাবে ডিজাইন কৰা হৈছিল।"
+    }
+  }
+]

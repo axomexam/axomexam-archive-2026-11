@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-113",
+    "q": {
+      "en": "In MS Word, which shortcut undoes the last action?",
+      "as": "এমএছ ৱৰ্ডত, শেহতীয়া কাৰ্য বাতিল কৰা শ্বৰ্টকাট কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + Y",
+        "as": "Ctrl + Y"
+      },
+      {
+        "en": "Ctrl + U",
+        "as": "Ctrl + U"
+      },
+      {
+        "en": "Ctrl + Z",
+        "as": "Ctrl + Z"
+      },
+      {
+        "en": "Ctrl + X",
+        "as": "Ctrl + X"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Pressing Ctrl + Z cancels the most recent action.",
+      "as": "Ctrl + Z হেঁচা দিলে শেহতীয়া কাৰ্য বাতিল হয়।"
+    }
+  }
+]

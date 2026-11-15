@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-031",
+    "q": {
+      "en": "In computer terminology, what is the full form of RAM?",
+      "as": "কম্পিউটাৰ পৰিভাষাত, RAM ৰ পূৰ্ণ ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "Random Access Memory",
+        "as": "ৰেনডম এক্সেছ মেম'ৰি"
+      },
+      {
+        "en": "Read Access Memory",
+        "as": "ৰিড এক্সেছ মেম'ৰি"
+      },
+      {
+        "en": "Rapid Access Memory",
+        "as": "ৰেপিড এক্সেছ মেম'ৰি"
+      },
+      {
+        "en": "Real Access Memory",
+        "as": "ৰিয়েল এক্সেছ মেম'ৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The letters RAM expand to Random Access Memory.",
+      "as": "RAM আখৰবোৰৰ সম্প্ৰসাৰণ হ'ল ৰেনডম এক্সেছ মেম'ৰি।"
+    }
+  }
+]

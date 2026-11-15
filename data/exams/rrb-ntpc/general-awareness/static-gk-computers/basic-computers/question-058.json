@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-058",
+    "q": {
+      "en": "In a graphical user interface, what is a small picture that represents a program or file called?",
+      "as": "গ্ৰাফিকেল ইউজাৰ ইণ্টাৰফেচত, প্ৰগ্ৰাম বা ফাইলক প্ৰতিনিধিত্ব কৰা সৰু ছবিখনক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Icon",
+        "as": "আইকন"
+      },
+      {
+        "en": "Cursor",
+        "as": "কাৰ্ছৰ"
+      },
+      {
+        "en": "Menu",
+        "as": "মেনু"
+      },
+      {
+        "en": "Taskbar",
+        "as": "টাস্কবাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A small picture that represents a program or file is called an icon.",
+      "as": "প্ৰগ্ৰাম বা ফাইলক প্ৰতিনিধিত্ব কৰা সৰু ছবিখনক আইকন বোলা হয়।"
+    }
+  }
+]

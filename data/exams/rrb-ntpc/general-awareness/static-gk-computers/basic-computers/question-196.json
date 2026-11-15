@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-196",
+    "q": {
+      "en": "What does the abbreviation IP stand for in IP address?",
+      "as": "IP এড্ৰেছত চমু ৰূপ IP য়ে কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "Internet Provider",
+        "as": "ইণ্টাৰনেট প্ৰ'ভাইডাৰ"
+      },
+      {
+        "en": "Internal Protocol",
+        "as": "ইণ্টাৰ্নেল প্ৰ'ট'কল"
+      },
+      {
+        "en": "Internet Protocol",
+        "as": "ইণ্টাৰনেট প্ৰ'ট'কল"
+      },
+      {
+        "en": "Internet Port",
+        "as": "ইণ্টাৰনেট পৰ্ট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "IP in IP address stands for Internet Protocol.",
+      "as": "IP এড্ৰেছত IP য়ে ইণ্টাৰনেট প্ৰ'ট'কল বুজায়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-087",
+    "q": {
+      "en": "Which temporary storage area holds recently used data so that it can be accessed faster later?",
+      "as": "কোন অস্থায়ী সংৰক্ষণ স্থানে শেহতীয়াকৈ ব্যৱহৃত তথ্য ৰাখে যাতে পিছত দ্ৰুত অভিগম কৰিব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Cookie",
+        "as": "কুকি"
+      },
+      {
+        "en": "Recycle Bin",
+        "as": "ৰিচাইকেল বিন"
+      },
+      {
+        "en": "Desktop",
+        "as": "ডেস্কটপ"
+      },
+      {
+        "en": "Cache",
+        "as": "কেশ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A cache holds recently used data so that it can be accessed faster later.",
+      "as": "কেশে শেহতীয়াকৈ ব্যৱহৃত তথ্য ৰাখে যাতে পিছত দ্ৰুত অভিগম কৰিব পাৰি।"
+    }
+  }
+]

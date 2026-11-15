@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-012",
+    "q": {
+      "en": "Fifth-generation computers are mainly associated with which field?",
+      "as": "পঞ্চম প্ৰজন্মৰ কম্পিউটাৰ মূলতঃ কোন ক্ষেত্ৰৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Vacuum tubes",
+        "as": "ভেকুৱাম টিউব"
+      },
+      {
+        "en": "Punch cards",
+        "as": "পাঞ্চ কাৰ্ড"
+      },
+      {
+        "en": "Magnetic drums",
+        "as": "চুম্বকীয় ড্ৰাম"
+      },
+      {
+        "en": "Artificial intelligence",
+        "as": "কৃত্ৰিম বুদ্ধিমত্তা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Fifth-generation computers are associated with artificial intelligence and parallel processing.",
+      "as": "পঞ্চম প্ৰজন্মৰ কম্পিউটাৰ কৃত্ৰিম বুদ্ধিমত্তা আৰু সমান্তৰাল প্ৰক্ৰিয়াকৰণৰ সৈতে জড়িত।"
+    }
+  }
+]

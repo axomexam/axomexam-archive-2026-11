@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-037",
+    "q": {
+      "en": "Which of these stores data permanently as secondary storage?",
+      "as": "তলৰ কোনটোৱে তথ্য স্থায়ীভাৱে গৌণ সংৰক্ষণ হিচাপে ৰাখে?"
+    },
+    "options": [
+      {
+        "en": "Hard disk",
+        "as": "হাৰ্ড ডিস্ক"
+      },
+      {
+        "en": "RAM",
+        "as": "RAM"
+      },
+      {
+        "en": "Cache",
+        "as": "কেশ"
+      },
+      {
+        "en": "Register",
+        "as": "ৰেজিষ্টাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A hard disk stores data permanently and acts as secondary storage.",
+      "as": "হাৰ্ড ডিস্কে তথ্য স্থায়ীভাৱে ৰাখে আৰু গৌণ সংৰক্ষণ হিচাপে কাৰ্য কৰে।"
+    }
+  }
+]

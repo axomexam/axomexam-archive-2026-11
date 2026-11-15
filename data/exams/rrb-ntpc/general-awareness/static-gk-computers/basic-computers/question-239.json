@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-239",
+    "q": {
+      "en": "What is the process of converting readable data into an unreadable form to protect it called?",
+      "as": "সুৰক্ষা দিবলৈ পাঠযোগ্য তথ্যক অপাঠ্য ৰূপলৈ ৰূপান্তৰ কৰাৰ প্ৰক্ৰিয়াক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Compression",
+        "as": "কম্প্ৰেচন"
+      },
+      {
+        "en": "Formatting",
+        "as": "ফৰ্মেটিং"
+      },
+      {
+        "en": "Encryption",
+        "as": "এনক্ৰিপচন"
+      },
+      {
+        "en": "Booting",
+        "as": "বুটিং"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Converting readable data into an unreadable form to protect it is called encryption.",
+      "as": "সুৰক্ষা দিবলৈ পাঠযোগ্য তথ্যক অপাঠ্য ৰূপলৈ ৰূপান্তৰ কৰাক এনক্ৰিপচন বোলা হয়।"
+    }
+  }
+]

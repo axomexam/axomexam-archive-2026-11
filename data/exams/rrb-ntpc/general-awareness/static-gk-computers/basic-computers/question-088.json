@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-088",
+    "q": {
+      "en": "Which utility rearranges the files on a hard disk so that they can be read faster?",
+      "as": "কোন সঁজুলিয়ে হাৰ্ড ডিস্কৰ ফাইলবোৰ পুনৰ সজাই যাতে দ্ৰুত পঢ়িব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Disk Cleanup",
+        "as": "ডিস্ক ক্লিনআপ"
+      },
+      {
+        "en": "Disk Format",
+        "as": "ডিস্ক ফৰ্মেট"
+      },
+      {
+        "en": "Disk Backup",
+        "as": "ডিস্ক বেকআপ"
+      },
+      {
+        "en": "Disk Defragmenter",
+        "as": "ডিস্ক ডিফ্ৰেগমেণ্টাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Disk Defragmenter rearranges files on a hard disk so that they can be read faster.",
+      "as": "ডিস্ক ডিফ্ৰেগমেণ্টাৰে হাৰ্ড ডিস্কৰ ফাইল পুনৰ সজায় যাতে দ্ৰুত পঢ়িব পাৰি।"
+    }
+  }
+]

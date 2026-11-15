@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-203",
+    "q": {
+      "en": "ISP is an abbreviation for which of the following?",
+      "as": "কোনটো শব্দ ISP হিচাপে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Internet System Provider",
+        "as": "ইণ্টাৰনেট চিষ্টেম প্ৰ'ভাইডাৰ"
+      },
+      {
+        "en": "Internet Service Provider",
+        "as": "ইণ্টাৰনেট চাৰ্ভিছ প্ৰ'ভাইডাৰ"
+      },
+      {
+        "en": "Internal Service Provider",
+        "as": "ইণ্টাৰ্নেল চাৰ্ভিছ প্ৰ'ভাইডাৰ"
+      },
+      {
+        "en": "Internet Software Provider",
+        "as": "ইণ্টাৰনেট ছফ্টৱেৰ প্ৰ'ভাইডাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The letters ISP expand to Internet Service Provider.",
+      "as": "ISP আখৰবোৰৰ সম্প্ৰসাৰণ হ'ল ইণ্টাৰনেট চাৰ্ভিছ প্ৰ'ভাইডাৰ।"
+    }
+  }
+]

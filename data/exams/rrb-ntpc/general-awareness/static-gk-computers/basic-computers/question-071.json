@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-071",
+    "q": {
+      "en": "Microsoft Access is a software for managing which of the following?",
+      "as": "মাইক্ৰ'ছফ্ট এক্সেছ তলৰ কোনটো পৰিচালনাৰ ছফ্টৱেৰ?"
+    },
+    "options": [
+      {
+        "en": "Presentations",
+        "as": "প্ৰজেণ্টেচন"
+      },
+      {
+        "en": "Databases",
+        "as": "ডাটাবেছ"
+      },
+      {
+        "en": "Images",
+        "as": "ছবি"
+      },
+      {
+        "en": "Music files",
+        "as": "সংগীত ফাইল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Microsoft Access is a database management software.",
+      "as": "মাইক্ৰ'ছফ্ট এক্সেছ এটা ডাটাবেছ পৰিচালনা ছফ্টৱেৰ।"
+    }
+  }
+]

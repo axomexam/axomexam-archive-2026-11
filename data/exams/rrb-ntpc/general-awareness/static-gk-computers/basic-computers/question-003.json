@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-003",
+    "q": {
+      "en": "Which English mathematician is honoured as the father of the computer?",
+      "as": "কোন ইংৰাজ গণিতজ্ঞক কম্পিউটাৰৰ পিতৃ হিচাপে সন্মান কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Charles Babbage",
+        "as": "চাৰ্লছ বেবেজ"
+      },
+      {
+        "en": "Alan Turing",
+        "as": "এলান টিউৰিং"
+      },
+      {
+        "en": "John Napier",
+        "as": "জন নেপিয়াৰ"
+      },
+      {
+        "en": "Blaise Pascal",
+        "as": "ব্লেইজ পাস্কেল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Analytical Engine designer Charles Babbage is honoured as the father of the computer.",
+      "as": "বিশ্লেষণী ইঞ্জিনৰ ডিজাইনাৰ চাৰ্লছ বেবেজক কম্পিউটাৰৰ পিতৃ হিচাপে সন্মান কৰা হয়।"
+    }
+  }
+]

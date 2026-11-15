@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-180",
+    "q": {
+      "en": "Which of these is a wireless communication technology?",
+      "as": "তলৰ কোনটো এটা তাৰবিহীন যোগাযোগ প্ৰযুক্তি?"
+    },
+    "options": [
+      {
+        "en": "Wi-Fi",
+        "as": "ৱাই-ফাই"
+      },
+      {
+        "en": "Ethernet",
+        "as": "ইথাৰনেট"
+      },
+      {
+        "en": "Optical fibre",
+        "as": "অপটিকেল ফাইবাৰ"
+      },
+      {
+        "en": "Coaxial cable",
+        "as": "ক'এক্সিয়েল কেবুল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Wi-Fi is a wireless communication technology.",
+      "as": "ৱাই-ফাই এটা তাৰবিহীন যোগাযোগ প্ৰযুক্তি।"
+    }
+  }
+]

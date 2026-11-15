@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-199",
+    "q": {
+      "en": "Which of these is the full form of the abbreviation DNS?",
+      "as": "তলৰ কোনটো DNS চমু ৰূপৰ পূৰ্ণ ৰূপ?"
+    },
+    "options": [
+      {
+        "en": "Digital Name Service",
+        "as": "ডিজিটেল নেম চাৰ্ভিছ"
+      },
+      {
+        "en": "Domain Name System",
+        "as": "ডমেইন নেম চিষ্টেম"
+      },
+      {
+        "en": "Data Name System",
+        "as": "ডাটা নেম চিষ্টেম"
+      },
+      {
+        "en": "Domain Network Service",
+        "as": "ডমেইন নেটৱৰ্ক চাৰ্ভিছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The letters DNS expand to Domain Name System.",
+      "as": "DNS আখৰবোৰৰ সম্প্ৰসাৰণ হ'ল ডমেইন নেম চিষ্টেম।"
+    }
+  }
+]

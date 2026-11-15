@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-017",
+    "q": {
+      "en": "Which output device produces a hard copy of a document?",
+      "as": "কোন আউটপুট যন্ত্ৰই নথিপত্ৰৰ হাৰ্ড কপি উৎপাদন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Monitor",
+        "as": "মনিটৰ"
+      },
+      {
+        "en": "Printer",
+        "as": "প্ৰিণ্টাৰ"
+      },
+      {
+        "en": "Plotter",
+        "as": "প্লটাৰ"
+      },
+      {
+        "en": "Projector",
+        "as": "প্ৰজেক্টৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A printer gives a permanent printed copy of a document.",
+      "as": "প্ৰিণ্টাৰে নথিপত্ৰৰ এটা স্থায়ী ছপা প্ৰতিলিপি দিয়ে।"
+    }
+  }
+]

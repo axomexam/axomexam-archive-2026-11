@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-016",
+    "q": {
+      "en": "A light pen and a joystick are examples of which kind of device?",
+      "as": "লাইট পেন আৰু জয়ষ্টিক কোন ধৰণৰ যন্ত্ৰৰ উদাহৰণ?"
+    },
+    "options": [
+      {
+        "en": "Output device",
+        "as": "আউটপুট যন্ত্ৰ"
+      },
+      {
+        "en": "Storage device",
+        "as": "সংৰক্ষণ যন্ত্ৰ"
+      },
+      {
+        "en": "Input device",
+        "as": "ইনপুট যন্ত্ৰ"
+      },
+      {
+        "en": "Memory device",
+        "as": "স্মৃতি যন্ত্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A light pen and a joystick are input devices.",
+      "as": "লাইট পেন আৰু জয়ষ্টিক ইনপুট যন্ত্ৰ।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-158",
+    "q": {
+      "en": "Which software suite includes the programs Word, Excel and PowerPoint?",
+      "as": "কোন ছফ্টৱেৰ সংকলনত ৱৰ্ড, এক্সেল আৰু পাওৱাৰপইণ্ট প্ৰগ্ৰাম অন্তৰ্ভুক্ত?"
+    },
+    "options": [
+      {
+        "en": "Adobe Creative Cloud",
+        "as": "এড'বি ক্ৰিয়েটিভ ক্লাউড"
+      },
+      {
+        "en": "Mozilla Firefox",
+        "as": "মোজিলা ফায়াৰফক্স"
+      },
+      {
+        "en": "Microsoft Office",
+        "as": "মাইক্ৰ'ছফ্ট অফিচ"
+      },
+      {
+        "en": "Google Chrome",
+        "as": "গুগল ক্ৰ'ম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Microsoft Office includes the programs Word, Excel and PowerPoint.",
+      "as": "মাইক্ৰ'ছফ্ট অফিচত ৱৰ্ড, এক্সেল আৰু পাওৱাৰপইণ্ট প্ৰগ্ৰাম অন্তৰ্ভুক্ত।"
+    }
+  }
+]

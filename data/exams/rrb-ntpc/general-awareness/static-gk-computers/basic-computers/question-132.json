@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-132",
+    "q": {
+      "en": "Which MS Excel function picks the highest value in a range?",
+      "as": "এমএছ এক্সেলত, স্তম্ভবোৰ কিৰে লেবেল কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Letters",
+        "as": "আখৰ"
+      },
+      {
+        "en": "Numbers",
+        "as": "সংখ্যা"
+      },
+      {
+        "en": "Roman numerals",
+        "as": "ৰোমান সংখ্যা"
+      },
+      {
+        "en": "Symbols",
+        "as": "সংকেত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Columns in MS Excel are labelled with letters such as A, B and C.",
+      "as": "এমএছ এক্সেলত স্তম্ভবোৰ A, B, C আদি আখৰেৰে লেবেল কৰা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-296",
+    "q": {
+      "en": "Which unit is commonly used to measure internet connection speed?",
+      "as": "ইণ্টাৰনেট সংযোগৰ গতি জুখিবলৈ সাধাৰণতে কোন একক ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Megabits per second",
+        "as": "প্ৰতি ছেকেণ্ডত মেগাবিট"
+      },
+      {
+        "en": "Megapixels",
+        "as": "মেগাপিক্সেল"
+      },
+      {
+        "en": "Gigahertz",
+        "as": "গিগাহাৰ্টজ"
+      },
+      {
+        "en": "Gigabytes",
+        "as": "গিগাবাইট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Internet connection speed is commonly measured in megabits per second.",
+      "as": "ইণ্টাৰনেট সংযোগৰ গতি সাধাৰণতে প্ৰতি ছেকেণ্ডত মেগাবিটত জোখা হয়।"
+    }
+  }
+]

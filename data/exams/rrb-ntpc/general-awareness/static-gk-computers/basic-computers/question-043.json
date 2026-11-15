@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-043",
+    "q": {
+      "en": "Which device provides backup power to a computer for a short time during a power failure?",
+      "as": "বিদ্যুৎ বিচ্ছিন্ন হ'লে কম্পিউটাৰক অলপ সময়ৰ বাবে বিকল্প শক্তি যোগান ধৰা যন্ত্ৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "SMPS",
+        "as": "এছএমপিএছ"
+      },
+      {
+        "en": "UPS",
+        "as": "ইউপিএছ"
+      },
+      {
+        "en": "CPU",
+        "as": "CPU"
+      },
+      {
+        "en": "GPU",
+        "as": "GPU"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A UPS, or uninterruptible power supply, gives backup power for a short time during a power failure.",
+      "as": "ইউপিএছ, অৰ্থাৎ নিৰৱচ্ছিন্ন শক্তি যোগান, বিদ্যুৎ বিচ্ছিন্ন হ'লে অলপ সময়ৰ বাবে বিকল্প শক্তি দিয়ে।"
+    }
+  }
+]

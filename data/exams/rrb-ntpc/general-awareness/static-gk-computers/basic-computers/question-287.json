@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-287",
+    "q": {
+      "en": "Which computer requests services or data from a server on a network?",
+      "as": "কোন কম্পিউটাৰে নেটৱৰ্কৰ চাৰ্ভাৰৰ পৰা সেৱা বা তথ্য অনুৰোধ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Server",
+        "as": "চাৰ্ভাৰ"
+      },
+      {
+        "en": "Client",
+        "as": "ক্লায়েণ্ট"
+      },
+      {
+        "en": "Router",
+        "as": "ৰাউটাৰ"
+      },
+      {
+        "en": "Hub",
+        "as": "হাব"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A client requests services or data from a server on a network.",
+      "as": "ক্লায়েণ্টে নেটৱৰ্কৰ চাৰ্ভাৰৰ পৰা সেৱা বা তথ্য অনুৰোধ কৰে।"
+    }
+  }
+]

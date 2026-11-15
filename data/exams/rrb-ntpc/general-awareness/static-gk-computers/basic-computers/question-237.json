@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-237",
+    "q": {
+      "en": "Which software is installed to detect and remove viruses and other malware?",
+      "as": "ভাইৰাছ আৰু আন মেলৱেৰ ধৰা পেলাব আৰু আঁতৰাবলৈ কোন ছফ্টৱেৰ ইনষ্টল কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Compiler",
+        "as": "কম্পাইলাৰ"
+      },
+      {
+        "en": "Antivirus",
+        "as": "এণ্টিভাইৰাছ"
+      },
+      {
+        "en": "Interpreter",
+        "as": "ইণ্টাৰপ্ৰিটাৰ"
+      },
+      {
+        "en": "Browser",
+        "as": "ব্ৰাউজাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Antivirus software is installed to detect and remove viruses and other malware.",
+      "as": "ভাইৰাছ আৰু আন মেলৱেৰ ধৰা পেলাব আৰু আঁতৰাবলৈ এণ্টিভাইৰাছ ছফ্টৱেৰ ইনষ্টল কৰা হয়।"
+    }
+  }
+]

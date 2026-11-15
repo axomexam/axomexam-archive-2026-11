@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-095",
+    "q": {
+      "en": "Which file extension is commonly used for audio files?",
+      "as": "অডিঅ' ফাইলৰ বাবে সাধাৰণতে কোন ফাইল এক্সটেনচন ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": ".mp3",
+        "as": ".mp3"
+      },
+      {
+        "en": ".jpg",
+        "as": ".jpg"
+      },
+      {
+        "en": ".docx",
+        "as": ".docx"
+      },
+      {
+        "en": ".pdf",
+        "as": ".pdf"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": ".mp3 is a common file extension for audio files.",
+      "as": ".mp3 অডিঅ' ফাইলৰ বাবে এক সাধাৰণ ফাইল এক্সটেনচন।"
+    }
+  }
+]

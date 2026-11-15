@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-056",
+    "q": {
+      "en": "Which of these is a command-line based operating system?",
+      "as": "তলৰ কোনটো এটা কামাণ্ড-লাইন ভিত্তিক অপাৰেটিং ছিষ্টেম?"
+    },
+    "options": [
+      {
+        "en": "MS-DOS",
+        "as": "এমএছ-ডছ"
+      },
+      {
+        "en": "Windows 10",
+        "as": "উইণ্ড'জ ১০"
+      },
+      {
+        "en": "macOS",
+        "as": "মেকঅ'এছ"
+      },
+      {
+        "en": "Ubuntu Desktop",
+        "as": "উবুন্টু ডেস্কটপ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "MS-DOS is a command-line based operating system.",
+      "as": "এমএছ-ডছ এটা কামাণ্ড-লাইন ভিত্তিক অপাৰেটিং ছিষ্টেম।"
+    }
+  }
+]

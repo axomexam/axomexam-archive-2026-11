@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-272",
+    "q": {
+      "en": "Which term describes very large and complex data sets that traditional tools cannot easily handle?",
+      "as": "পৰম্পৰাগত সঁজুলিয়ে সহজে পৰিচালনা কৰিব নোৱাৰা অতি ডাঙৰ আৰু জটিল তথ্য সংকলনক বৰ্ণনা কৰা শব্দ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Small data",
+        "as": "স্মল ডাটা"
+      },
+      {
+        "en": "Metadata",
+        "as": "মেটাডাটা"
+      },
+      {
+        "en": "Big data",
+        "as": "বিগ ডাটা"
+      },
+      {
+        "en": "Open data",
+        "as": "ওপেন ডাটা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Big data describes very large and complex data sets that traditional tools cannot easily handle.",
+      "as": "বিগ ডাটাই পৰম্পৰাগত সঁজুলিয়ে সহজে পৰিচালনা কৰিব নোৱাৰা অতি ডাঙৰ আৰু জটিল তথ্য সংকলনক বৰ্ণনা কৰে।"
+    }
+  }
+]

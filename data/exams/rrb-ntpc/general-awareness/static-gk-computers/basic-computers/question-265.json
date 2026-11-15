@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-265",
+    "q": {
+      "en": "Which language is mainly used to query and manage relational databases?",
+      "as": "সম্পৰ্কীয় ডাটাবেছ কুৱেৰি আৰু পৰিচালনা কৰিবলৈ মূলতঃ কোন ভাষা ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "HTML",
+        "as": "HTML"
+      },
+      {
+        "en": "COBOL",
+        "as": "কবল"
+      },
+      {
+        "en": "BASIC",
+        "as": "বেচিক"
+      },
+      {
+        "en": "SQL",
+        "as": "SQL"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "SQL, or Structured Query Language, is mainly used to query and manage relational databases.",
+      "as": "SQL, অৰ্থাৎ ষ্ট্ৰাকচাৰ্ড কুৱেৰি লেংগুৱেজ, সম্পৰ্কীয় ডাটাবেছ কুৱেৰি আৰু পৰিচালনা কৰিবলৈ মূলতঃ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

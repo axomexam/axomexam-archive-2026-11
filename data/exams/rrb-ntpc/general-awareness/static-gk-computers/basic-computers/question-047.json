@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-047",
+    "q": {
+      "en": "Which input device is used to feed printed text or images into a computer?",
+      "as": "ছপা লিখা বা ছবি কম্পিউটাৰত সুমুৱাবলৈ কোন ইনপুট যন্ত্ৰ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Plotter",
+        "as": "প্লটাৰ"
+      },
+      {
+        "en": "Projector",
+        "as": "প্ৰজেক্টৰ"
+      },
+      {
+        "en": "Speaker",
+        "as": "স্পীকাৰ"
+      },
+      {
+        "en": "Scanner",
+        "as": "স্কেনাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A scanner is an input device used to feed printed text or images into a computer.",
+      "as": "স্কেনাৰ এটা ইনপুট যন্ত্ৰ যি ছপা লিখা বা ছবি কম্পিউটাৰত সুমুৱাবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

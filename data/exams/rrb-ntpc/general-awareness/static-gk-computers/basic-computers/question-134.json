@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-134",
+    "q": {
+      "en": "In MS Excel, which symbol must every formula begin with?",
+      "as": "এমএছ এক্সেলত, প্ৰতিটো সূত্ৰ কি চিহ্নৰে আৰম্ভ হ'ব লাগে?"
+    },
+    "options": [
+      {
+        "en": "A plus sign (+)",
+        "as": "যোগ চিহ্ন (+)"
+      },
+      {
+        "en": "A hash (#)",
+        "as": "হেশ (#)"
+      },
+      {
+        "en": "An equals sign (=)",
+        "as": "সমতা চিহ্ন (=)"
+      },
+      {
+        "en": "An at sign (@)",
+        "as": "এট চিহ্ন (@)"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Every formula in MS Excel must begin with an equals sign (=).",
+      "as": "এমএছ এক্সেলত প্ৰতিটো সূত্ৰ সমতা চিহ্ন (=) ৰে আৰম্ভ হ'ব লাগে।"
+    }
+  }
+]

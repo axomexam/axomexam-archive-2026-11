@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-273",
+    "q": {
+      "en": "What is the practice of storing data on remote servers accessed over the internet called?",
+      "as": "ইণ্টাৰনেটত অভিগম কৰা দূৰৱৰ্তী চাৰ্ভাৰত তথ্য সংৰক্ষণ কৰাৰ অভ্যাসক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Local storage",
+        "as": "ল'কেল ষ্ট'ৰেজ"
+      },
+      {
+        "en": "Cloud storage",
+        "as": "ক্লাউড ষ্ট'ৰেজ"
+      },
+      {
+        "en": "Cache storage",
+        "as": "কেশ ষ্ট'ৰেজ"
+      },
+      {
+        "en": "Buffer storage",
+        "as": "বাফাৰ ষ্ট'ৰেজ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Storing data on remote servers accessed over the internet is called cloud storage.",
+      "as": "ইণ্টাৰনেটত অভিগম কৰা দূৰৱৰ্তী চাৰ্ভাৰত তথ্য সংৰক্ষণ কৰাক ক্লাউড ষ্ট'ৰেজ বোলা হয়।"
+    }
+  }
+]

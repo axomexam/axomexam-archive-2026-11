@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-208",
+    "q": {
+      "en": "In email, CC is the short form of which term?",
+      "as": "ইমেইলত CC কোনটো শব্দৰ চমু ৰূপ?"
+    },
+    "options": [
+      {
+        "en": "Common Copy",
+        "as": "কমন কপি"
+      },
+      {
+        "en": "Confidential Copy",
+        "as": "কনফিডেনচিয়েল কপি"
+      },
+      {
+        "en": "Carbon Copy",
+        "as": "কাৰ্বন কপি"
+      },
+      {
+        "en": "Certified Copy",
+        "as": "চাৰ্টিফাইড কপি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "CC stands for Carbon Copy, used to send a copy of an email to additional recipients.",
+      "as": "CC য়ে কাৰ্বন কপি বুজায়, অতিৰিক্ত প্ৰাপকলৈ ইমেইলৰ প্ৰতিলিপি পঠিওৱাত ব্যৱহৃত।"
+    }
+  }
+]

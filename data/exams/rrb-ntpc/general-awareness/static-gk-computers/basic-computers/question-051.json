@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-051",
+    "q": {
+      "en": "Which operating system is developed and distributed as free and open-source software?",
+      "as": "কোন অপাৰেটিং ছিষ্টেম বিনামূলীয়া আৰু মুক্ত-উৎস ছফ্টৱেৰ হিচাপে বিকশিত আৰু বিতৰণ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Windows",
+        "as": "উইণ্ড'জ"
+      },
+      {
+        "en": "macOS",
+        "as": "মেকঅ'এছ"
+      },
+      {
+        "en": "Linux",
+        "as": "লিনাক্স"
+      },
+      {
+        "en": "MS-DOS",
+        "as": "এমএছ-ডছ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Linux is developed and distributed as free and open-source software.",
+      "as": "লিনাক্স বিনামূলীয়া আৰু মুক্ত-উৎস ছফ্টৱেৰ হিচাপে বিকশিত আৰু বিতৰণ কৰা হয়।"
+    }
+  }
+]

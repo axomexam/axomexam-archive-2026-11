@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-142",
+    "q": {
+      "en": "In MS Excel, which feature is used to arrange data in ascending or descending order?",
+      "as": "এমএছ এক্সেলত, তথ্য ঊৰ্ধ্বগামী বা অধোগামী ক্ৰমত সজাবলৈ কোন বৈশিষ্ট্য ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Filter",
+        "as": "ফিল্টাৰ"
+      },
+      {
+        "en": "Merge",
+        "as": "মাৰ্জ"
+      },
+      {
+        "en": "Sort",
+        "as": "ছৰ্ট"
+      },
+      {
+        "en": "Freeze",
+        "as": "ফ্ৰীজ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Sort feature is used to arrange data in ascending or descending order.",
+      "as": "ছৰ্ট বৈশিষ্ট্যই তথ্য ঊৰ্ধ্বগামী বা অধোগামী ক্ৰমত সজাবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

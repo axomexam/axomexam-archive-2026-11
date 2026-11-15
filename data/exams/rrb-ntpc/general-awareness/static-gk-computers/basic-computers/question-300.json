@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-300",
+    "q": {
+      "en": "What is a socket on the computer into which a device is plugged to connect it called?",
+      "as": "যন্ত্ৰ এটা সংযোগ কৰিবলৈ কম্পিউটাৰত সুমুৱাই দিয়া ছকেটক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Bus",
+        "as": "বাছ"
+      },
+      {
+        "en": "Chip",
+        "as": "চিপ"
+      },
+      {
+        "en": "Port",
+        "as": "পৰ্ট"
+      },
+      {
+        "en": "Cache",
+        "as": "কেশ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A port is a socket on the computer into which a device is plugged to connect it.",
+      "as": "পৰ্ট হ'ল কম্পিউটাৰত থকা ছকেট য'ত যন্ত্ৰ এটা সংযোগ কৰিবলৈ সুমুৱাই দিয়া হয়।"
+    }
+  }
+]

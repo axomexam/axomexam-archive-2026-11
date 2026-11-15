@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-054",
+    "q": {
+      "en": "Which company develops the macOS operating system?",
+      "as": "মেকঅ'এছ অপাৰেটিং ছিষ্টেম কোন কোম্পানীয়ে বিকশিত কৰে?"
+    },
+    "options": [
+      {
+        "en": "Microsoft",
+        "as": "মাইক্ৰ'ছফ্ট"
+      },
+      {
+        "en": "Sun Microsystems",
+        "as": "ছান মাইক্ৰ'চিষ্টেমছ"
+      },
+      {
+        "en": "Apple",
+        "as": "এপল"
+      },
+      {
+        "en": "Red Hat",
+        "as": "ৰেড হেট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Apple develops the macOS operating system.",
+      "as": "এপলে মেকঅ'এছ অপাৰেটিং ছিষ্টেম বিকশিত কৰে।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-274",
+    "q": {
+      "en": "How many distinct digits does the binary system employ?",
+      "as": "বাইনেৰী পদ্ধতিত মুঠ কিমানটা অংক আছে?"
+    },
+    "options": [
+      {
+        "en": "Eight",
+        "as": "আঠ"
+      },
+      {
+        "en": "Ten",
+        "as": "দহ"
+      },
+      {
+        "en": "Sixteen",
+        "as": "ষোল্ল"
+      },
+      {
+        "en": "Two",
+        "as": "দুই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The binary number system uses two digits, 0 and 1.",
+      "as": "বাইনেৰী সংখ্যা পদ্ধতিত ০ আৰু ১ দুটা অংক ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

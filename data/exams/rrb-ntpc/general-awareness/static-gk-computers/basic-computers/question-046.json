@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-046",
+    "q": {
+      "en": "Which of these is a pointing device used to move the cursor on a screen?",
+      "as": "পৰ্দাত কাৰ্ছৰ লগাবলৈ ব্যৱহৃত তলৰ কোনটো এটা পইণ্টিং যন্ত্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Mouse",
+        "as": "মাউছ"
+      },
+      {
+        "en": "Keyboard",
+        "as": "কীবৰ্ড"
+      },
+      {
+        "en": "Printer",
+        "as": "প্ৰিণ্টাৰ"
+      },
+      {
+        "en": "Monitor",
+        "as": "মনিটৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A mouse is a pointing device used to move the cursor on a screen.",
+      "as": "মাউছ এটা পইণ্টিং যন্ত্ৰ যি পৰ্দাত কাৰ্ছৰ লগাবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

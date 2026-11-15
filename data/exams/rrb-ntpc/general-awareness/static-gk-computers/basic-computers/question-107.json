@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-107",
+    "q": {
+      "en": "Which key combination turns selected text bold in MS Word?",
+      "as": "এমএছ ৱৰ্ডত বাছনি কৰা লিখা ব'ল্ড কৰিবলৈ কোন কি সংযোগ?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + B",
+        "as": "Ctrl + B"
+      },
+      {
+        "en": "Ctrl + I",
+        "as": "Ctrl + I"
+      },
+      {
+        "en": "Ctrl + U",
+        "as": "Ctrl + U"
+      },
+      {
+        "en": "Ctrl + D",
+        "as": "Ctrl + D"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pressing Ctrl + B turns the selected text bold.",
+      "as": "Ctrl + B হেঁচা দিলে বাছনি কৰা লিখা ব'ল্ড হয়।"
+    }
+  }
+]

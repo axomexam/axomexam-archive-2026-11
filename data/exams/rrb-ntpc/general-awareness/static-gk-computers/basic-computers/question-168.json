@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-168",
+    "q": {
+      "en": "The letters WAN stand for which of the following?",
+      "as": "WAN আখৰবোৰে তলৰ কোনটো বুজায়?"
+    },
+    "options": [
+      {
+        "en": "Wireless Area Network",
+        "as": "ৱায়াৰলেছ এৰিয়া নেটৱৰ্ক"
+      },
+      {
+        "en": "World Area Network",
+        "as": "ৱৰ্ল্ড এৰিয়া নেটৱৰ্ক"
+      },
+      {
+        "en": "Wired Area Network",
+        "as": "ৱায়াৰ্ড এৰিয়া নেটৱৰ্ক"
+      },
+      {
+        "en": "Wide Area Network",
+        "as": "ৱাইড এৰিয়া নেটৱৰ্ক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The letters WAN expand to Wide Area Network.",
+      "as": "WAN আখৰবোৰৰ সম্প্ৰসাৰণ হ'ল ৱাইড এৰিয়া নেটৱৰ্ক।"
+    }
+  }
+]

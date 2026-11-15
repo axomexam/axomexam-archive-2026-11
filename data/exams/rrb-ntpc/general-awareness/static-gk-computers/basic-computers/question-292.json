@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-292",
+    "q": {
+      "en": "Which unit is used to measure the resolution of a monitor or printer?",
+      "as": "মনিটৰ বা প্ৰিণ্টাৰৰ ৰেজ'লিউচন জোখা একক কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Bits per second",
+        "as": "প্ৰতি ছেকেণ্ডত বিট"
+      },
+      {
+        "en": "Hertz",
+        "as": "হাৰ্টজ"
+      },
+      {
+        "en": "Bytes",
+        "as": "বাইট"
+      },
+      {
+        "en": "Pixels per inch",
+        "as": "প্ৰতি ইঞ্চিত পিক্সেল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The resolution of a monitor or printer is measured in pixels per inch.",
+      "as": "মনিটৰ বা প্ৰিণ্টাৰৰ ৰেজ'লিউচন প্ৰতি ইঞ্চিত পিক্সেলত জোখা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-114",
+    "q": {
+      "en": "In MS Word, which shortcut repeats or redoes an undone action?",
+      "as": "এমএছ ৱৰ্ডত, বাতিল কৰা কাৰ্য পুনৰ কৰা শ্বৰ্টকাট কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + Z",
+        "as": "Ctrl + Z"
+      },
+      {
+        "en": "Ctrl + Y",
+        "as": "Ctrl + Y"
+      },
+      {
+        "en": "Ctrl + R",
+        "as": "Ctrl + R"
+      },
+      {
+        "en": "Ctrl + D",
+        "as": "Ctrl + D"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ctrl + Y repeats or redoes an undone action.",
+      "as": "Ctrl + Y য়ে বাতিল কৰা কাৰ্য পুনৰ কৰে।"
+    }
+  }
+]

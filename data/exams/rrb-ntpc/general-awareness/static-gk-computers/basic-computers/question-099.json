@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-099",
+    "q": {
+      "en": "Which Windows file manager is used to browse and organise files and folders?",
+      "as": "ফাইল আৰু ফল্ডাৰ ব্ৰাউজ আৰু সজাবলৈ কোন উইণ্ড'জ ফাইল মেনেজাৰ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Control Panel",
+        "as": "কন্ট্ৰ'ল পেনেল"
+      },
+      {
+        "en": "Task Manager",
+        "as": "টাস্ক মেনেজাৰ"
+      },
+      {
+        "en": "Device Manager",
+        "as": "ডিভাইচ মেনেজাৰ"
+      },
+      {
+        "en": "File Explorer",
+        "as": "ফাইল এক্সপ্ল'ৰাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "File Explorer is used to browse and organise files and folders in Windows.",
+      "as": "ফাইল এক্সপ্ল'ৰাৰ উইণ্ড'জত ফাইল আৰু ফল্ডাৰ ব্ৰাউজ আৰু সজাবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

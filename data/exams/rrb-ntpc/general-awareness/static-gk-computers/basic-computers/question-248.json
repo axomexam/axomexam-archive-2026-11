@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-248",
+    "q": {
+      "en": "What is the language of 0s and 1s that a computer directly understands called?",
+      "as": "কম্পিউটাৰে প্ৰত্যক্ষভাৱে বুজা ০ আৰু ১ ৰ ভাষাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "High-level language",
+        "as": "হাই-লেভেল লেংগুৱেজ"
+      },
+      {
+        "en": "Machine language",
+        "as": "মেছিন লেংগুৱেজ"
+      },
+      {
+        "en": "Assembly language",
+        "as": "এছেম্বলি লেংগুৱেজ"
+      },
+      {
+        "en": "Natural language",
+        "as": "নেচাৰেল লেংগুৱেজ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The language of 0s and 1s that a computer directly understands is called machine language.",
+      "as": "কম্পিউটাৰে প্ৰত্যক্ষভাৱে বুজা ০ আৰু ১ ৰ ভাষাক মেছিন লেংগুৱেজ বোলা হয়।"
+    }
+  }
+]

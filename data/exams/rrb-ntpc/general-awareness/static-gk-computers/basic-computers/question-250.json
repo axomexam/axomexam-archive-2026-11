@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-250",
+    "q": {
+      "en": "Which type of language is easier for humans to read and write, such as C++ or Java?",
+      "as": "মানুহৰ বাবে পঢ়া আৰু লিখা সহজ, যেনে C++ বা Java, কোন ধৰণৰ ভাষা?"
+    },
+    "options": [
+      {
+        "en": "Machine language",
+        "as": "মেছিন লেংগুৱেজ"
+      },
+      {
+        "en": "High-level language",
+        "as": "হাই-লেভেল লেংগুৱেজ"
+      },
+      {
+        "en": "Assembly language",
+        "as": "এছেম্বলি লেংগুৱেজ"
+      },
+      {
+        "en": "Binary language",
+        "as": "বাইনেৰী লেংগুৱেজ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A high-level language such as C++ or Java is easier for humans to read and write.",
+      "as": "C++ বা Java ৰ দৰে হাই-লেভেল লেংগুৱেজ মানুহৰ বাবে পঢ়া আৰু লিখা সহজ।"
+    }
+  }
+]

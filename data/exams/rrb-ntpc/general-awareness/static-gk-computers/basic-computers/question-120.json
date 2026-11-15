@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-120",
+    "q": {
+      "en": "Which feature of a word processor automatically moves a word to the next line if it does not fit?",
+      "as": "শব্দ এটা নধৰিলে স্বয়ংক্ৰিয়ভাৱে পৰৱৰ্তী শাৰীলৈ লৈ যোৱা ৱৰ্ড প্ৰচেছৰৰ বৈশিষ্ট্য কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Word wrap",
+        "as": "ৱৰ্ড ৰেপ"
+      },
+      {
+        "en": "Word count",
+        "as": "ৱৰ্ড কাউণ্ট"
+      },
+      {
+        "en": "Mail merge",
+        "as": "মেইল মাৰ্জ"
+      },
+      {
+        "en": "Track changes",
+        "as": "ট্ৰেক চেঞ্জেছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Word wrap automatically moves a word to the next line if it does not fit.",
+      "as": "ৱৰ্ড ৱেপে শব্দ এটা নধৰিলে স্বয়ংক্ৰিয়ভাৱে পৰৱৰ্তী শাৰীলৈ লৈ যায়।"
+    }
+  }
+]

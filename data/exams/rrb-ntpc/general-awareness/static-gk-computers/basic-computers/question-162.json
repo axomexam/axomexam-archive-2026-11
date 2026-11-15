@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-162",
+    "q": {
+      "en": "In MS Word, which shortcut is used to save a document with a new name or location?",
+      "as": "এমএছ ৱৰ্ডত, নতুন নাম বা স্থানৰ সৈতে নথিপত্ৰ সংৰক্ষণ কৰিবলৈ কোন শ্বৰ্টকাট ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "F5",
+        "as": "F5"
+      },
+      {
+        "en": "F12",
+        "as": "F12"
+      },
+      {
+        "en": "F7",
+        "as": "F7"
+      },
+      {
+        "en": "F2",
+        "as": "F2"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "F12 opens the Save As dialog box in MS Word.",
+      "as": "এমএছ ৱৰ্ডত F12 য়ে চেভ এজ ডায়েলগ বক্স খোলে।"
+    }
+  }
+]

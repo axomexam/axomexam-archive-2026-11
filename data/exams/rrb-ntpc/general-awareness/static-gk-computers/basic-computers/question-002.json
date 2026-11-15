@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-002",
+    "q": {
+      "en": "Which calculating device, made of beads sliding on rods, is regarded as the earliest ancestor of the computer?",
+      "as": "দণ্ডত খচকা পুঁতিৰে গঠিত কোনটো গণনা যন্ত্ৰক কম্পিউটাৰৰ আটাইতকৈ পুৰণি পূৰ্বসূৰী বুলি গণ্য কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Slide rule",
+        "as": "স্লাইড ৰুল"
+      },
+      {
+        "en": "Abacus",
+        "as": "এবাকাছ"
+      },
+      {
+        "en": "Pascaline",
+        "as": "পাস্কেলাইন"
+      },
+      {
+        "en": "Napier's bones",
+        "as": "নেপিয়াৰ্ছ বোনছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The abacus is regarded as the earliest calculating aid and the ancestor of the computer.",
+      "as": "এবাকাছক আটাইতকৈ পুৰণি গণনা সহায়ক আৰু কম্পিউটাৰৰ পূৰ্বসূৰী হিচাপে গণ্য কৰা হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-081",
+    "q": {
+      "en": "Which Windows program lets a user type commands instead of clicking on icons?",
+      "as": "কোন উইণ্ড'জ প্ৰগ্ৰামে আইকনত ক্লিক কৰাৰ পৰিৱৰ্তে কামাণ্ড টাইপ কৰিবলৈ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "File Explorer",
+        "as": "ফাইল এক্সপ্ল'ৰাৰ"
+      },
+      {
+        "en": "Control Panel",
+        "as": "কন্ট্ৰ'ল পেনেল"
+      },
+      {
+        "en": "Paint",
+        "as": "পেইণ্ট"
+      },
+      {
+        "en": "Command Prompt",
+        "as": "কামাণ্ড প্ৰম্পট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Command Prompt lets a user type commands instead of clicking on icons.",
+      "as": "কামাণ্ড প্ৰম্পটে আইকনত ক্লিক কৰাৰ পৰিৱৰ্তে কামাণ্ড টাইপ কৰিবলৈ দিয়ে।"
+    }
+  }
+]

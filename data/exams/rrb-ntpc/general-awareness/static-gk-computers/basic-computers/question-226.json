@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-226",
+    "q": {
+      "en": "Which of these is a popular social networking website?",
+      "as": "তলৰ কোনটো এটা জনপ্ৰিয় ছ'চিয়েল নেটৱৰ্কিং ৱেবছাইট?"
+    },
+    "options": [
+      {
+        "en": "Wikipedia",
+        "as": "ৱিকিপিডিয়া"
+      },
+      {
+        "en": "Facebook",
+        "as": "ফেচবুক"
+      },
+      {
+        "en": "Gmail",
+        "as": "জিমেইল"
+      },
+      {
+        "en": "MS Word",
+        "as": "এমএছ ৱৰ্ড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Facebook is a popular social networking website.",
+      "as": "ফেচবুক এটা জনপ্ৰিয় ছ'চিয়েল নেটৱৰ্কিং ৱেবছাইট।"
+    }
+  }
+]

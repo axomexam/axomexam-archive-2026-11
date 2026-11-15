@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-182",
+    "q": {
+      "en": "WWW is the abbreviation of which term?",
+      "as": "WWW কোনটো শব্দৰ চমু ৰূপ?"
+    },
+    "options": [
+      {
+        "en": "World Wide Webnet",
+        "as": "ৱৰ্ল্ড ৱাইড ৱেবনেট"
+      },
+      {
+        "en": "World Wide Web",
+        "as": "ৱৰ্ল্ড ৱাইড ৱেব"
+      },
+      {
+        "en": "Wide World Web",
+        "as": "ৱাইড ৱৰ্ল্ড ৱেব"
+      },
+      {
+        "en": "World Web Wide",
+        "as": "ৱৰ্ল্ড ৱেব ৱাইড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The letters WWW expand to World Wide Web.",
+      "as": "WWW আখৰবোৰৰ সম্প্ৰসাৰণ হ'ল ৱৰ্ল্ড ৱাইড ৱেব।"
+    }
+  }
+]

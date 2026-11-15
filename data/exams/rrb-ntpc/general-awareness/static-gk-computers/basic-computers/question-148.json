@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-148",
+    "q": {
+      "en": "In MS PowerPoint, which shortcut inserts a new slide?",
+      "as": "এমএছ পাওৱাৰপইণ্টত, নতুন স্লাইড সুমুৱাবলৈ কোন শ্বৰ্টকাট?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + N",
+        "as": "Ctrl + N"
+      },
+      {
+        "en": "Ctrl + K",
+        "as": "Ctrl + K"
+      },
+      {
+        "en": "Ctrl + G",
+        "as": "Ctrl + G"
+      },
+      {
+        "en": "Ctrl + M",
+        "as": "Ctrl + M"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ctrl + M inserts a new slide in MS PowerPoint.",
+      "as": "এমএছ পাওৱাৰপইণ্টত Ctrl + M য়ে নতুন স্লাইড সুমুৱায়।"
+    }
+  }
+]

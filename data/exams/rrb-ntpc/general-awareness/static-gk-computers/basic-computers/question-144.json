@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-144",
+    "q": {
+      "en": "In MS Excel, what is a graphical representation of data using bars or lines called?",
+      "as": "এমএছ এক্সেলত, বাৰ বা ৰেখা ব্যৱহাৰ কৰি তথ্যৰ গ্ৰাফিকেল উপস্থাপনক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Table",
+        "as": "টেবুল"
+      },
+      {
+        "en": "Pivot",
+        "as": "পিভট"
+      },
+      {
+        "en": "Chart",
+        "as": "চাৰ্ট"
+      },
+      {
+        "en": "Macro",
+        "as": "মেক্ৰ'"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A chart is a graphical representation of data using bars or lines.",
+      "as": "চাৰ্ট হ'ল বাৰ বা ৰেখা ব্যৱহাৰ কৰি তথ্যৰ গ্ৰাফিকেল উপস্থাপন।"
+    }
+  }
+]

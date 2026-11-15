@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-164",
+    "q": {
+      "en": "In modern MS Office applications, the strip of tabs and commands at the top of the window is called the what?",
+      "as": "আধুনিক এমএছ অফিচ এপ্লিকেচনত, উইণ্ড'ৰ ওপৰত থকা টেব আৰু কামাণ্ডৰ পটিক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Toolbar",
+        "as": "টুলবাৰ"
+      },
+      {
+        "en": "Menu bar",
+        "as": "মেনু বাৰ"
+      },
+      {
+        "en": "Ribbon",
+        "as": "ৰিবন"
+      },
+      {
+        "en": "Status bar",
+        "as": "ষ্টেটাছ বাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The strip of tabs and commands at the top of modern MS Office applications is called the ribbon.",
+      "as": "আধুনিক এমএছ অফিচ এপ্লিকেচনত উইণ্ড'ৰ ওপৰত থকা টেব আৰু কামাণ্ডৰ পটিক ৰিবন বোলা হয়।"
+    }
+  }
+]

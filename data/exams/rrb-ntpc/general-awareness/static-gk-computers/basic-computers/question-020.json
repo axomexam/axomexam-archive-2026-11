@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-020",
+    "q": {
+      "en": "Expand the computer abbreviation CPU.",
+      "as": "কম্পিউটাৰৰ চমু ৰূপ CPU সম্প্ৰসাৰণ কৰিলে কি হয়?"
+    },
+    "options": [
+      {
+        "en": "Central Program Unit",
+        "as": "কেন্দ্ৰীয় প্ৰগ্ৰাম একক"
+      },
+      {
+        "en": "Computer Processing Unit",
+        "as": "কম্পিউটাৰ প্ৰক্ৰিয়াকৰণ একক"
+      },
+      {
+        "en": "Central Processing Unit",
+        "as": "কেন্দ্ৰীয় প্ৰক্ৰিয়াকৰণ একক"
+      },
+      {
+        "en": "Control Processing Unit",
+        "as": "নিয়ন্ত্ৰণ প্ৰক্ৰিয়াকৰণ একক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The letters CPU expand to Central Processing Unit.",
+      "as": "CPU আখৰবোৰৰ সম্প্ৰসাৰণ হ'ল চেণ্ট্ৰেল প্ৰচেছিং ইউনিট।"
+    }
+  }
+]

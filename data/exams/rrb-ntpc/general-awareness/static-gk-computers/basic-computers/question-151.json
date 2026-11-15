@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-151",
+    "q": {
+      "en": "In MS PowerPoint, which view shows thumbnails of all slides for easy reordering?",
+      "as": "এমএছ পাওৱাৰপইণ্টত, সহজে পুনৰ সজাবলৈ সকলো স্লাইডৰ থাম্বনেইল দেখুওৱা দৃশ্য কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Normal view",
+        "as": "সাধাৰণ দৃশ্য"
+      },
+      {
+        "en": "Notes Page view",
+        "as": "নোটছ পেজ দৃশ্য"
+      },
+      {
+        "en": "Slide Show view",
+        "as": "স্লাইড শ্ব' দৃশ্য"
+      },
+      {
+        "en": "Slide Sorter view",
+        "as": "স্লাইড ছৰ্টাৰ দৃশ্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Slide Sorter view shows thumbnails of all slides for easy reordering.",
+      "as": "স্লাইড ছৰ্টাৰ দৃশ্যই সহজে পুনৰ সজাবলৈ সকলো স্লাইডৰ থাম্বনেইল দেখুৱায়।"
+    }
+  }
+]

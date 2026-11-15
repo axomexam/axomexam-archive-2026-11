@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-091",
+    "q": {
+      "en": "Which file system is commonly used by Linux?",
+      "as": "লিনাক্সে সাধাৰণতে কোন ফাইল চিষ্টেম ব্যৱহাৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "NTFS",
+        "as": "এনটিএফএছ"
+      },
+      {
+        "en": "FAT32",
+        "as": "ফেট-৩২"
+      },
+      {
+        "en": "ext4",
+        "as": "এক্সট-৪"
+      },
+      {
+        "en": "exFAT",
+        "as": "এক্সএফএট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "ext4 is a file system commonly used by Linux.",
+      "as": "এক্সট-৪ লিনাক্সে সাধাৰণতে ব্যৱহাৰ কৰা ফাইল চিষ্টেম।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-200",
+    "q": {
+      "en": "Which is a very common domain name extension used by commercial organisations?",
+      "as": "বাণিজ্যিক সংস্থাই ব্যৱহাৰ কৰা এটা অতি সাধাৰণ ডমেইন নাম এক্সটেনচন কোনটো?"
+    },
+    "options": [
+      {
+        "en": ".gov",
+        "as": ".gov"
+      },
+      {
+        "en": ".com",
+        "as": ".com"
+      },
+      {
+        "en": ".edu",
+        "as": ".edu"
+      },
+      {
+        "en": ".mil",
+        "as": ".mil"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": ".com is a very common domain name extension used by commercial organisations.",
+      "as": ".com বাণিজ্যিক সংস্থাই ব্যৱহাৰ কৰা এটা অতি সাধাৰণ ডমেইন নাম এক্সটেনচন।"
+    }
+  }
+]

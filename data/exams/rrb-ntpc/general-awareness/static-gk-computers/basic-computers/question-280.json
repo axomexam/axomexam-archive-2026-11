@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-280",
+    "q": {
+      "en": "The binary number 1111 equals which decimal value?",
+      "as": "বাইনেৰী সংখ্যা পদ্ধতিত, ১১১১ ৰ দশমিক মান কি?"
+    },
+    "options": [
+      {
+        "en": "Eleven",
+        "as": "এঘাৰ"
+      },
+      {
+        "en": "Thirteen",
+        "as": "তেৰ"
+      },
+      {
+        "en": "Sixteen",
+        "as": "ষোল্ল"
+      },
+      {
+        "en": "Fifteen",
+        "as": "পোন্ধৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Decimal 15 is written as 1111 in binary.",
+      "as": "দশমিক ১৫ ক বাইনেৰীত ১১১১ হিচাপে লিখা হয়।"
+    }
+  }
+]

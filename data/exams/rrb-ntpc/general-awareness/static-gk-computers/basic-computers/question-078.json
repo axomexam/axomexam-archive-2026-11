@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-078",
+    "q": {
+      "en": "Which of these is a word processor included with Windows?",
+      "as": "উইণ্ড'জৰ সৈতে অন্তৰ্ভুক্ত তলৰ কোনটো এটা ৱৰ্ড প্ৰচেছৰ?"
+    },
+    "options": [
+      {
+        "en": "Paint",
+        "as": "পেইণ্ট"
+      },
+      {
+        "en": "WordPad",
+        "as": "ৱৰ্ডপেড"
+      },
+      {
+        "en": "Calculator",
+        "as": "কেলকুলেটৰ"
+      },
+      {
+        "en": "Media Player",
+        "as": "মিডিয়া প্লেয়াৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "WordPad is a basic word processor included with Windows.",
+      "as": "ৱৰ্ডপেড উইণ্ড'জৰ সৈতে অন্তৰ্ভুক্ত এটা মৌলিক ৱৰ্ড প্ৰচেছৰ।"
+    }
+  }
+]

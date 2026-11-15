@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-188",
+    "q": {
+      "en": "Which of these is a search engine?",
+      "as": "তলৰ কোনটো ৱেবত তথ্য বিচাৰি উলিয়াবলৈ?"
+    },
+    "options": [
+      {
+        "en": "Firefox",
+        "as": "ফায়াৰফক্স"
+      },
+      {
+        "en": "Chrome",
+        "as": "ক্ৰ'ম"
+      },
+      {
+        "en": "Edge",
+        "as": "এজ"
+      },
+      {
+        "en": "Google",
+        "as": "গুগল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Google is a search engine.",
+      "as": "গুগল এটা ছাৰ্চ ইঞ্জিন।"
+    }
+  }
+]

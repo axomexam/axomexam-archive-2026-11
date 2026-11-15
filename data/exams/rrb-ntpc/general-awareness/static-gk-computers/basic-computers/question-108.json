@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-108",
+    "q": {
+      "en": "In MS Word, selected text becomes italic with which shortcut?",
+      "as": "এমএছ ৱৰ্ডত বাছনি কৰা লিখা ইটালিক কৰিবলৈ কি ব্যৱহাৰ কৰিব?"
+    },
+    "options": [
+      {
+        "en": "Ctrl + B",
+        "as": "Ctrl + B"
+      },
+      {
+        "en": "Ctrl + I",
+        "as": "Ctrl + I"
+      },
+      {
+        "en": "Ctrl + U",
+        "as": "Ctrl + U"
+      },
+      {
+        "en": "Ctrl + E",
+        "as": "Ctrl + E"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ctrl + I makes the selected text italic.",
+      "as": "Ctrl + I য়ে বাছনি কৰা লিখা ইটালিক কৰে।"
+    }
+  }
+]

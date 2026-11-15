@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-122",
+    "q": {
+      "en": "Which MS Word feature checks the spelling of the typed text?",
+      "as": "টাইপ কৰা লিখাৰ বানান পৰীক্ষা কৰা এমএছ ৱৰ্ড বৈশিষ্ট্য কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Mail merge",
+        "as": "মেইল মাৰ্জ"
+      },
+      {
+        "en": "Spell check",
+        "as": "স্পেল চেক"
+      },
+      {
+        "en": "Word wrap",
+        "as": "ৱৰ্ড ৱেপ"
+      },
+      {
+        "en": "Thesaurus",
+        "as": "থেছ'ৰাছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The spell check feature checks the spelling of the typed text.",
+      "as": "স্পেল চেক বৈশিষ্ট্যই টাইপ কৰা লিখাৰ বানান পৰীক্ষা কৰে।"
+    }
+  }
+]

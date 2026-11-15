@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-067",
+    "q": {
+      "en": "Which software is mainly used for creating and editing text documents?",
+      "as": "লিখা নথিপত্ৰ সৃষ্টি আৰু সম্পাদনা কৰিবলৈ মূলতঃ কোন ছফ্টৱেৰ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Word processor",
+        "as": "ৱৰ্ড প্ৰচেছৰ"
+      },
+      {
+        "en": "Spreadsheet",
+        "as": "স্প্ৰেডশ্বীট"
+      },
+      {
+        "en": "Presentation software",
+        "as": "প্ৰজেণ্টেচন ছফ্টৱেৰ"
+      },
+      {
+        "en": "Image editor",
+        "as": "ইমেজ এডিটৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A word processor is mainly used for creating and editing text documents.",
+      "as": "ৱৰ্ড প্ৰচেছৰ মূলতঃ লিখা নথিপত্ৰ সৃষ্টি আৰু সম্পাদনা কৰিবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

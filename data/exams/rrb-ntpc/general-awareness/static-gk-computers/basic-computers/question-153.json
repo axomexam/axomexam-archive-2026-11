@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-153",
+    "q": {
+      "en": "In MS PowerPoint, what is the effect that controls how one slide changes to the next called?",
+      "as": "এমএছ পাওৱাৰপইণ্টত, এটা স্লাইড পৰৱৰ্তীটোলৈ কেনেকৈ সলনি হয় নিয়ন্ত্ৰণ কৰা প্ৰভাৱক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Animation",
+        "as": "এনিমেচন"
+      },
+      {
+        "en": "Theme",
+        "as": "থীম"
+      },
+      {
+        "en": "Layout",
+        "as": "লেআউট"
+      },
+      {
+        "en": "Transition",
+        "as": "ট্ৰানজিচন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A transition controls how one slide changes to the next.",
+      "as": "ট্ৰানজিচনে এটা স্লাইড পৰৱৰ্তীটোলৈ কেনেকৈ সলনি হয় নিয়ন্ত্ৰণ কৰে।"
+    }
+  }
+]

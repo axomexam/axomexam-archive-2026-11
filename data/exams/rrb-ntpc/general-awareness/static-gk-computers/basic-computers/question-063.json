@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-063",
+    "q": {
+      "en": "Which Windows tool is used to change system settings such as display and sound?",
+      "as": "ডিচপ্লে আৰু ছাউণ্ডৰ দৰে চিষ্টেম ছেটিংছ সলনি কৰিবলৈ কোন উইণ্ড'জ সঁজুলি ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "File Explorer",
+        "as": "ফাইল এক্সপ্ল'ৰাৰ"
+      },
+      {
+        "en": "Notepad",
+        "as": "নোটপেড"
+      },
+      {
+        "en": "Paint",
+        "as": "পেইণ্ট"
+      },
+      {
+        "en": "Control Panel",
+        "as": "কন্ট্ৰ'ল পেনেল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Control Panel is used to change system settings such as display and sound.",
+      "as": "কন্ট্ৰ'ল পেনেলে ডিচপ্লে আৰু ছাউণ্ডৰ দৰে চিষ্টেম ছেটিংছ সলনি কৰিবলৈ ব্যৱহাৰ কৰা হয়।"
+    }
+  }
+]

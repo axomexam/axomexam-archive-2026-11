@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-061",
+    "q": {
+      "en": "What is the area of the screen where icons, windows and the desktop background are shown called?",
+      "as": "আইকন, উইণ্ড' আৰু ডেস্কটপ পৃষ্ঠভূমি দেখুওৱা পৰ্দাৰ অংশটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Taskbar",
+        "as": "টাস্কবাৰ"
+      },
+      {
+        "en": "Desktop",
+        "as": "ডেস্কটপ"
+      },
+      {
+        "en": "Recycle Bin",
+        "as": "ৰিচাইকেল বিন"
+      },
+      {
+        "en": "Start menu",
+        "as": "ষ্টাৰ্ট মেনু"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The desktop is the area of the screen where icons, windows and the background are shown.",
+      "as": "ডেস্কটপ হ'ল পৰ্দাৰ অংশ য'ত আইকন, উইণ্ড' আৰু পৃষ্ঠভূমি দেখুওৱা হয়।"
+    }
+  }
+]

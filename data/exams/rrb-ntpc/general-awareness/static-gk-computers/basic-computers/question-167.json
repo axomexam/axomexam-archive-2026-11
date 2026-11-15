@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-167",
+    "q": {
+      "en": "Which of these gives the full form of LAN?",
+      "as": "তলৰ কোনটোৱে LAN ৰ পূৰ্ণ ৰূপ দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Large Area Network",
+        "as": "লাৰ্জ এৰিয়া নেটৱৰ্ক"
+      },
+      {
+        "en": "Long Area Network",
+        "as": "লং এৰিয়া নেটৱৰ্ক"
+      },
+      {
+        "en": "Linked Area Network",
+        "as": "লিংকড এৰিয়া নেটৱৰ্ক"
+      },
+      {
+        "en": "Local Area Network",
+        "as": "ল'কেল এৰিয়া নেটৱৰ্ক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The letters LAN expand to Local Area Network.",
+      "as": "LAN আখৰবোৰৰ সম্প্ৰসাৰণ হ'ল ল'কেল এৰিয়া নেটৱৰ্ক।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "basic-computers-004",
+    "q": {
+      "en": "Which mechanical machine designed by Charles Babbage is considered the first general-purpose computer concept?",
+      "as": "চাৰ্লছ বেবেজে ডিজাইন কৰা কোন যান্ত্ৰিক যন্ত্ৰটোক প্ৰথম সাধাৰণ-উদ্দেশ্য কম্পিউটাৰৰ ধাৰণা বুলি গণ্য কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Difference Engine",
+        "as": "পাৰ্থক্য ইঞ্জিন"
+      },
+      {
+        "en": "Tabulating Machine",
+        "as": "টেবুলেটিং মেচিন"
+      },
+      {
+        "en": "Analytical Engine",
+        "as": "বিশ্লেষণী ইঞ্জিন"
+      },
+      {
+        "en": "Pascaline",
+        "as": "পাস্কেলাইন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Analytical Engine, designed by Babbage, is considered the first general-purpose computer concept.",
+      "as": "বেবেজে ডিজাইন কৰা বিশ্লেষণী ইঞ্জিনক প্ৰথম সাধাৰণ-উদ্দেশ্য কম্পিউটাৰৰ ধাৰণা বুলি গণ্য কৰা হয়।"
+    }
+  }
+]
