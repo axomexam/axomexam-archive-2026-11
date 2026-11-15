@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-083",
+    "q": {
+      "en": "Which country won the 2026 Eurovision Song Contest, held in Vienna?",
+      "as": "ভিয়েনাত অনুষ্ঠিত ২০২৬ চনৰ ইউৰ'ভিজন গীত প্ৰতিযোগিতা কোনখন দেশে জয় কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Sweden",
+        "as": "ছুইডেন"
+      },
+      {
+        "en": "Ukraine",
+        "as": "ইউক্ৰেইন"
+      },
+      {
+        "en": "Italy",
+        "as": "ইটালী"
+      },
+      {
+        "en": "Bulgaria",
+        "as": "বুলগেৰিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bulgaria's contestant Dara won the Eurovision Song Contest 2026 with the song 'Bangaranga', Bulgaria's first win.",
+      "as": "বুলগেৰিয়াৰ প্ৰতিযোগী দাৰাই 'বাংগাৰাংগা' গীতৰ সৈতে ইউৰ'ভিজন গীত প্ৰতিযোগিতা ২০২৬ জয় কৰিছিল, যি বুলগেৰিয়াৰ প্ৰথম জয়।"
+    }
+  }
+]

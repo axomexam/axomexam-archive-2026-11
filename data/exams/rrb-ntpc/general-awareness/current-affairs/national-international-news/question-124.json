@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-124",
+    "q": {
+      "en": "A magnitude 7.8 earthquake killed 107 people in the Philippines in June 2026. The Philippines lies on which 'Ring'?",
+      "as": "২০২৬ চনৰ জুনত ৭.৮ মাত্ৰাৰ ভূমিকম্পই ফিলিপাইনছত ১০৭ জন লোক নিহত কৰিছিল। ফিলিপাইনছ কোনটো 'ৰিং'ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Atlantic Ring",
+        "as": "এটলাণ্টিক বলয়"
+      },
+      {
+        "en": "Indian Ocean Rim",
+        "as": "ভাৰত মহাসাগৰীয় কিনাৰা"
+      },
+      {
+        "en": "Mediterranean Belt",
+        "as": "ভূমধ্যসাগৰীয় পটি"
+      },
+      {
+        "en": "Pacific Ring of Fire",
+        "as": "প্ৰশান্ত মহাসাগৰীয় অগ্নি বলয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Philippines lies on the Pacific Ring of Fire, making it prone to strong earthquakes.",
+      "as": "ফিলিপাইনছ প্ৰশান্ত মহাসাগৰীয় অগ্নি বলয়ত অৱস্থিত, যাৰ বাবে ই শক্তিশালী ভূমিকম্পৰ প্ৰৱণ।"
+    }
+  }
+]

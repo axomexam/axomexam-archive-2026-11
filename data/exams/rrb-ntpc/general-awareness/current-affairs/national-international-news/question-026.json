@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-026",
+    "q": {
+      "en": "Which country became the 21st member of the eurozone on 1 January 2026?",
+      "as": "২০২৬ চনৰ ১ জানুৱাৰীত কোনখন দেশ ইউৰ'জ'নৰ ২১ সংখ্যক সদস্য হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Croatia",
+        "as": "ক্ৰ'ৱেচিয়া"
+      },
+      {
+        "en": "Romania",
+        "as": "ৰোমানিয়া"
+      },
+      {
+        "en": "Hungary",
+        "as": "হাংগেৰী"
+      },
+      {
+        "en": "Bulgaria",
+        "as": "বুলগেৰিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bulgaria adopted the euro on 1 January 2026, becoming the 21st eurozone member state.",
+      "as": "বুলগেৰিয়াই ২০২৬ চনৰ ১ জানুৱাৰীত ইউৰ' গ্ৰহণ কৰি ২১ সংখ্যক ইউৰ'জ'ন সদস্য ৰাষ্ট্ৰ হৈছিল।"
+    }
+  }
+]

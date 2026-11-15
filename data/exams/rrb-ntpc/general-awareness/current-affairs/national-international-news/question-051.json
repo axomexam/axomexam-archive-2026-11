@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-051",
+    "q": {
+      "en": "The 2026 Commonwealth Games were held in which city?",
+      "as": "২০২৬ চনৰ কমনৱেলথ গেমছ কোনখন চহৰত অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Birmingham",
+        "as": "বাৰ্মিংহাম"
+      },
+      {
+        "en": "Manchester",
+        "as": "মেনচেষ্টাৰ"
+      },
+      {
+        "en": "Glasgow",
+        "as": "গ্লাছগ'"
+      },
+      {
+        "en": "London",
+        "as": "লণ্ডন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The 2026 Commonwealth Games were held in Glasgow, Scotland, from 23 July to 2 August 2026.",
+      "as": "২০২৬ চনৰ কমনৱেলথ গেমছ ২০২৬ চনৰ ২৩ জুলাইৰপৰা ২ আগষ্টলৈ স্কটলেণ্ডৰ গ্লাছগ'ত অনুষ্ঠিত হৈছিল।"
+    }
+  }
+]

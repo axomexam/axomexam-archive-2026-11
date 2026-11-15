@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-048",
+    "q": {
+      "en": "Which country's Prime Minister Keir Starmer resigned in June 2026?",
+      "as": "২০২৬ চনৰ জুনত কোনখন দেশৰ প্ৰধানমন্ত্ৰী কিয়েৰ ষ্টাৰমাৰে পদত্যাগ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Australia",
+        "as": "অষ্ট্ৰেলিয়া"
+      },
+      {
+        "en": "Canada",
+        "as": "কানাডা"
+      },
+      {
+        "en": "New Zealand",
+        "as": "নিউজিলেণ্ড"
+      },
+      {
+        "en": "United Kingdom",
+        "as": "সংযুক্ত ৰাজ্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Keir Starmer announced his resignation as Prime Minister of the United Kingdom on 22 June 2026.",
+      "as": "কিয়েৰ ষ্টাৰমাৰে ২০২৬ চনৰ ২২ জুনত সংযুক্ত ৰাজ্যৰ প্ৰধানমন্ত্ৰীৰ পদৰপৰা পদত্যাগৰ ঘোষণা কৰিছিল।"
+    }
+  }
+]

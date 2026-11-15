@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-121",
+    "q": {
+      "en": "A rail disaster in Adamuz, Spain, in January 2026 killed 46 people. What caused it?",
+      "as": "২০২৬ চনৰ জানুৱাৰীত স্পেইনৰ আদামুজত হোৱা ৰে'ল দুৰ্যোগত ৪৬ জন লোক নিহত হৈছিল। ইয়াৰ কাৰণ কি আছিল?"
+    },
+    "options": [
+      {
+        "en": "A bridge collapsed",
+        "as": "এখন দলং ভাঙি পৰিছিল"
+      },
+      {
+        "en": "A tunnel flooded",
+        "as": "এটা সুৰংগ পানীৰে ভৰি পৰিছিল"
+      },
+      {
+        "en": "A signal failure",
+        "as": "এটা সংকেত বিজুতি"
+      },
+      {
+        "en": "Two trains derailed",
+        "as": "দুখন ৰে'ল লাইনচ্যুত হৈছিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Two trains derailed at Adamuz in southern Spain on 18 January 2026, killing 46 and injuring 292.",
+      "as": "২০২৬ চনৰ ১৮ জানুৱাৰীত দক্ষিণ স্পেইনৰ আদামুজত দুখন ৰে'ল লাইনচ্যুত হৈছিল, য'ত ৪৬ জন নিহত আৰু ২৯২ জন আহত হৈছিল।"
+    }
+  }
+]

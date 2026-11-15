@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-038",
+    "q": {
+      "en": "NASA's Artemis II mission, launched in April 2026, was the first crewed flight beyond low Earth orbit since which mission?",
+      "as": "২০২৬ চনৰ এপ্ৰিলত উৎক্ষেপণ কৰা নাছাৰ আৰ্টিমিছ-II অভিযান নিম্ন পৃথিৱী কক্ষপথৰ বাহিৰলৈ প্ৰথম মানৱবাহী উৰণ আছিল কেতিয়াৰ কোনটো অভিযানৰ পিছত?"
+    },
+    "options": [
+      {
+        "en": "Apollo 11",
+        "as": "এপ'ল' ১১"
+      },
+      {
+        "en": "Apollo 17",
+        "as": "এপ'ল' ১৭"
+      },
+      {
+        "en": "Skylab",
+        "as": "স্কাইলেব"
+      },
+      {
+        "en": "Space Shuttle",
+        "as": "স্পেচ শ্বাটল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Artemis II was the first crewed flight beyond low Earth orbit since Apollo 17 in 1972.",
+      "as": "আৰ্টিমিছ-II ১৯৭২ চনৰ এপ'ল' ১৭ৰ পিছত নিম্ন পৃথিৱী কক্ষপথৰ বাহিৰলৈ প্ৰথম মানৱবাহী উৰণ আছিল।"
+    }
+  }
+]

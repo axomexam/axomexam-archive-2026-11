@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-093",
+    "q": {
+      "en": "A magnitude 7.8 earthquake struck which country on 8 June 2026, the strongest there since 1976?",
+      "as": "২০২৬ চনৰ ৮ জুনত কোনখন দেশত ৭.৮ মাত্ৰাৰ ভূমিকম্প হৈছিল, যি ১৯৭৬ চনৰ পিছত সেই দেশত আটাইতকৈ শক্তিশালী আছিল?"
+    },
+    "options": [
+      {
+        "en": "Indonesia",
+        "as": "ইণ্ডোনেছিয়া"
+      },
+      {
+        "en": "Japan",
+        "as": "জাপান"
+      },
+      {
+        "en": "Papua New Guinea",
+        "as": "পাপুৱা নিউ গিনি"
+      },
+      {
+        "en": "Philippines",
+        "as": "ফিলিপাইনছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A magnitude 7.8 earthquake struck the Philippines on 8 June 2026, killing 107 people.",
+      "as": "২০২৬ চনৰ ৮ জুনত ফিলিপাইনছত ৭.৮ মাত্ৰাৰ ভূমিকম্প হৈছিল, য'ত ১০৭ জন লোক নিহত হৈছিল।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-133",
+    "q": {
+      "en": "In April 2026 the roof collapse of a school in Peshawar, Pakistan, killed 35 people. Peshawar is the capital of which province?",
+      "as": "২০২৬ চনৰ এপ্ৰিলত পাকিস্তানৰ পেশাৱৰত এখন বিদ্যালয়ৰ চালি ভাঙি ৩৫ জন লোক নিহত হৈছিল। পেশাৱৰ কোনখন প্ৰদেশৰ ৰাজধানী?"
+    },
+    "options": [
+      {
+        "en": "Punjab",
+        "as": "পঞ্জাৱ"
+      },
+      {
+        "en": "Khyber Pakhtunkhwa",
+        "as": "খাইবৰ পাখতুনখোৱা"
+      },
+      {
+        "en": "Sindh",
+        "as": "সিন্ধ"
+      },
+      {
+        "en": "Balochistan",
+        "as": "বেলুচিস্তান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Peshawar is the capital of Khyber Pakhtunkhwa province in Pakistan.",
+      "as": "পেশাৱৰ পাকিস্তানৰ খাইবৰ পাখতুনখোৱা প্ৰদেশৰ ৰাজধানী।"
+    }
+  }
+]

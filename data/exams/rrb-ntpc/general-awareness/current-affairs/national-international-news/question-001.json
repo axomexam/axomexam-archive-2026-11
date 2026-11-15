@@ -7,12 +7,12 @@
     },
     "options": [
       {
-        "en": "New Delhi",
-        "as": "নতুন দিল্লী"
-      },
-      {
         "en": "Mumbai",
         "as": "মুম্বাই"
+      },
+      {
+        "en": "New Delhi",
+        "as": "নতুন দিল্লী"
       },
       {
         "en": "Kolkata",
@@ -23,7 +23,7 @@
         "as": "চেন্নাই"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Bharat Mandapam, at Pragati Maidan, New Delhi, hosted the G20 Summit in 2023.",
       "as": "প্ৰগতি ময়দান, নতুন দিল্লীত অৱস্থিত ভাৰত মণ্ডপমে ২০২৩ চনৰ জি-২০ সন্মিলন আয়োজন কৰিছিল।"

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-036",
+    "q": {
+      "en": "Which country's Supreme Leader Ali Khamenei was assassinated in February 2026?",
+      "as": "২০২৬ চনৰ ফেব্ৰুৱাৰীত কোনখন দেশৰ সৰ্বোচ্চ নেতা আলী খামেনেই নিহত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Iraq",
+        "as": "ইৰাক"
+      },
+      {
+        "en": "Iran",
+        "as": "ইৰাণ"
+      },
+      {
+        "en": "Syria",
+        "as": "ছিৰিয়া"
+      },
+      {
+        "en": "Yemen",
+        "as": "য়েমেন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Iran's Supreme Leader Ali Khamenei was assassinated during the US and Israeli attacks on Iran in February 2026.",
+      "as": "ইৰাণৰ সৰ্বোচ্চ নেতা আলী খামেনেই ২০২৬ চনৰ ফেব্ৰুৱাৰীত ইৰাণৰ বিৰুদ্ধে আমেৰিকা আৰু ইজৰাইলৰ আক্ৰমণৰ সময়ত নিহত হৈছিল।"
+    }
+  }
+]

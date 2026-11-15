@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-046",
+    "q": {
+      "en": "Which country won the 2026 FIFA World Cup?",
+      "as": "২০২৬ চনৰ ফিফা বিশ্বকাপ কোনখন দেশে জয় কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Spain",
+        "as": "স্পেইন"
+      },
+      {
+        "en": "Argentina",
+        "as": "আৰ্জেণ্টিনা"
+      },
+      {
+        "en": "France",
+        "as": "ফ্ৰান্স"
+      },
+      {
+        "en": "Brazil",
+        "as": "ব্ৰাজিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Spain beat defending champions Argentina 1-0 in the 2026 FIFA World Cup final to win its second title.",
+      "as": "স্পেইনে ২০২৬ চনৰ ফিফা বিশ্বকাপৰ ফাইনেলত বৰ্তমান চেম্পিয়ন আৰ্জেণ্টিনাক ১-০ গ'লত পৰাজিত কৰি দ্বিতীয়বাৰ খিতাপ লাভ কৰিছিল।"
+    }
+  }
+]

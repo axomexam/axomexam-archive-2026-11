@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-137",
+    "q": {
+      "en": "Which company's CEO, Jensen Huang, resigned in November 2026 amid a spying scandal?",
+      "as": "কোনটো কোম্পানীৰ মুখ্য কাৰ্যবাহী বিষয়া জেনছেন হুৱাঙে ২০২৬ চনৰ নৱেম্বৰত গুপ্তচৰ কাণ্ডৰ মাজত পদত্যাগ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Intel",
+        "as": "ইণ্টেল"
+      },
+      {
+        "en": "AMD",
+        "as": "এএমডি"
+      },
+      {
+        "en": "Qualcomm",
+        "as": "কোৱালকম"
+      },
+      {
+        "en": "Nvidia",
+        "as": "এনভিডিয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Nvidia CEO Jensen Huang resigned on 12 November 2026 amid an alleged Chinese spying scandal.",
+      "as": "এনভিডিয়াৰ মুখ্য কাৰ্যবাহী বিষয়া জেনছেন হুৱাঙে ২০২৬ চনৰ ১২ নৱেম্বৰত চীনৰ গুপ্তচৰ কাণ্ডৰ অভিযোগৰ মাজত পদত্যাগ কৰিছিল।"
+    }
+  }
+]

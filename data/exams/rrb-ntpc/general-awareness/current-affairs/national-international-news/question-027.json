@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-027",
+    "q": {
+      "en": "In January 2026 the United States captured the president of which country?",
+      "as": "২০২৬ চনৰ জানুৱাৰীত আমেৰিকাই কোনখন দেশৰ ৰাষ্ট্ৰপতিক বন্দী কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Cuba",
+        "as": "কিউবা"
+      },
+      {
+        "en": "Venezuela",
+        "as": "ভেনিজুৱেলা"
+      },
+      {
+        "en": "Colombia",
+        "as": "কলম্বিয়া"
+      },
+      {
+        "en": "Nicaragua",
+        "as": "নিকাৰাগুৱা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "US airstrikes on 3 January 2026 led to the capture of Venezuelan president Nicolás Maduro.",
+      "as": "২০২৬ চনৰ ৩ জানুৱাৰীৰ আমেৰিকান বিমান আক্ৰমণে ভেনিজুৱেলাৰ ৰাষ্ট্ৰপতি নিকোলাছ মাডুৰোক বন্দী কৰাত লৈ যায়।"
+    }
+  }
+]

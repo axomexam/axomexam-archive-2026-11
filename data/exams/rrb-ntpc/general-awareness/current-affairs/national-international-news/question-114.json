@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-114",
+    "q": {
+      "en": "In November 2026 the United States Federal Aviation Administration conducted the largest ground stop since which event?",
+      "as": "২০২৬ চনৰ নৱেম্বৰত আমেৰিকাৰ সংযুক্ত ৰাজ্য বিমান চলাচল প্ৰশাসনে কোনটো ঘটনাৰ পিছত আটাইতকৈ ডাঙৰ স্থলীভৱন পৰিচালনা কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Hurricane Katrina",
+        "as": "হাৰিকেন কেট্ৰিনা"
+      },
+      {
+        "en": "the 2008 recession",
+        "as": "২০০৮ চনৰ মন্দা"
+      },
+      {
+        "en": "COVID-19",
+        "as": "ক'ভিড-১৯"
+      },
+      {
+        "en": "9/11",
+        "as": "৯/১১"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "On 13 November 2026 the FAA shut down US airspace in the largest ground stop since 9/11 due to a communications outage.",
+      "as": "২০২৬ চনৰ ১৩ নৱেম্বৰত যোগাযোগ বিঘ্নিৰ বাবে এফএএ-য়ে ৯/১১ৰ পিছত আটাইতকৈ ডাঙৰ স্থলীভৱনেৰে আমেৰিকাৰ আকাশসীমা বন্ধ কৰিছিল।"
+    }
+  }
+]

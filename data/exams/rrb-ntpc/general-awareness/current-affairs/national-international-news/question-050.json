@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-050",
+    "q": {
+      "en": "The 2026 NATO summit was held in which city?",
+      "as": "২০২৬ চনৰ নেট' শীৰ্ষ সন্মিলন কোনখন চহৰত অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Brussels",
+        "as": "ব্ৰাছেলছ"
+      },
+      {
+        "en": "Ankara",
+        "as": "আংকাৰা"
+      },
+      {
+        "en": "Madrid",
+        "as": "মাদ্ৰিদ"
+      },
+      {
+        "en": "Warsaw",
+        "as": "ৱাৰ্ছা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The 2026 NATO summit was held in Ankara, Turkey, on 7-8 July 2026.",
+      "as": "২০২৬ চনৰ নেট' শীৰ্ষ সন্মিলন ২০২৬ চনৰ ৭-৮ জুলাইত তুৰস্কৰ আংকাৰাত অনুষ্ঠিত হৈছিল।"
+    }
+  }
+]

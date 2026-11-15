@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-045",
+    "q": {
+      "en": "The 2026 FIFA World Cup was the first edition to feature how many teams?",
+      "as": "২০২৬ চনৰ ফিফা বিশ্বকাপ প্ৰথমবাৰৰ বাবে কিমানটা দলেৰে অনুষ্ঠিত হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "32",
+        "as": "৩২"
+      },
+      {
+        "en": "48",
+        "as": "৪৮"
+      },
+      {
+        "en": "40",
+        "as": "৪০"
+      },
+      {
+        "en": "64",
+        "as": "৬৪"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The 2026 FIFA World Cup was the first to include 48 teams, expanded from 32.",
+      "as": "২০২৬ চনৰ ফিফা বিশ্বকাপ ৩২ৰপৰা বৃদ্ধি কৰি ৪৮টা দল অন্তৰ্ভুক্ত কৰা প্ৰথম সংস্কৰণ আছিল।"
+    }
+  }
+]

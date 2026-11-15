@@ -142,6 +142,50 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+## Session record — Nov 2026 RRB NTPC National & International News bank (151 MCQs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Added** a bilingual National & International News (current-affairs) bank to
+  the RRB NTPC book at
+  `data/exams/rrb-ntpc/general-awareness/current-affairs/national-international-news/`:
+  `question-002.json` … `question-151.json` (150 new files) beside the existing
+  `question-001.json`, giving the topic **151 questions**. Each file holds one
+  MCQ in the repo's shape — `id`, `q.{en,as}`, four `options[{en,as}]`,
+  `correct`, `explanation.{en,as}`.
+- **`index.json`** in the same folder now lists all 151 `question-NNN.json`
+  files, so the SPA discovers them with no code change.
+- **Content.** Written for RRB NTPC (CBT-1 & CBT-2) difficulty and restricted to
+  **real news from roughly the last 12 months (Nov 2025 – Nov 2026)** — the
+  India–EU FTA (Jan 2026), the 2026 BRICS Summit in New Delhi, the AI Impact
+  Summit, the 2026 Winter Olympics (Milan–Cortina), the 2026 FIFA World Cup
+  (US–Canada–Mexico, won by Spain), the India–New Zealand FTA, the euro entry of
+  Bulgaria, the 2026 Iran war and the Islamabad Memorandum, the Artemis II lunar
+  flyby, the 2026 Nobel Prizes, the Bihar/West Bengal/Tamil Nadu/Assam 2026
+  state elections, the 2025 Bihar election, ISRO's CMS-03, the NEET leak and the
+  Anti Paper Leak Bill, and the year's major disasters and elections worldwide.
+  Answer keys are spread over A/B/C/D — across all 151 questions the slots hold
+  38/38/38/37; `--book rrb-ntpc --topic
+  general-awareness/current-affairs/national-international-news --check`
+  reports 0 skewed topics.
+- **Note on the balancer.** Because each file holds a *single* question, running
+  `tools/balance-answer-keys.js` on this topic drives every file to slot 0 (the
+  per-file deterministic sequence targets `0` for the first question), which
+  then reads as 100% skewed. The keys were therefore spread by a one-off script
+  that reuses the tool's own `balanceKeys` sequence but applies it across the
+  *whole topic* (one target per file in sorted order), moving the correct
+  option's text and updating `correct` without inventing an answer. Re-run the
+  same across-topic logic — not the per-file tool — if this bank is extended.
+- **No duplicated content.** Every stem and explanation (English and Assamese,
+  case- and punctuation-folded) was compared against all other question text in
+  `data/` with `difflib.SequenceMatcher` at a 0.90 ratio. One hit was found —
+  the UK Prime Minister question clashed with an ADRE Grade-4 item — and was
+  reworded ("Which politician took charge as the head of the UK government in
+  July 2026, succeeding Keir Starmer?"). The final count is 0 near-duplicates.
+- **`data/counts.json` is deliberately unchanged.** The book is still
+  `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
+  it. Do not "fix" the missing count.
+
 ## Session record — Nov 2026 RRB NTPC Art & Culture bank (400 MCQs)
 
 What was done, so the next agent does not redo or undo it:

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-149",
+    "q": {
+      "en": "In the 2026 West Bengal Legislative Assembly election, which party won a landslide majority?",
+      "as": "২০২৬ চনৰ পশ্চিম বংগ বিধানসভা নিৰ্বাচনত কোনটো দলে ভূমিধ্বস সংখ্যাগৰিষ্ঠতা লাভ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Trinamool Congress",
+        "as": "তৃণমূল কংগ্ৰেছ"
+      },
+      {
+        "en": "Communist Party of India (Marxist)",
+        "as": "ভাৰতৰ কমিউনিষ্ট পাৰ্টি (মাৰ্ক্সবাদী)"
+      },
+      {
+        "en": "Bharatiya Janata Party",
+        "as": "ভাৰতীয় জনতা পাৰ্টি"
+      },
+      {
+        "en": "Indian National Congress",
+        "as": "ভাৰতীয় জাতীয় কংগ্ৰেছ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The BJP won a landslide majority in the West Bengal Legislative Assembly election held in April 2026.",
+      "as": "২০২৬ চনৰ এপ্ৰিলত অনুষ্ঠিত পশ্চিম বংগ বিধানসভা নিৰ্বাচনত বিজেপিয়ে ভূমিধ্বস সংখ্যাগৰিষ্ঠতা লাভ কৰিছিল।"
+    }
+  }
+]

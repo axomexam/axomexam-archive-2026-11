@@ -1,0 +1,32 @@
+[
+  {
+    "id": "national-international-news-108",
+    "q": {
+      "en": "The 2026 Nobel Prize in Physiology or Medicine was awarded for discoveries concerning light-gated ion channels and which field?",
+      "as": "২০২৬ চনৰ শৰীৰতত্ত্ব বা চিকিৎসা বিজ্ঞানৰ ন'বেল বঁটা পোহৰ-নিয়ন্ত্ৰিত আয়ন চেনেল আৰু কোনটো ক্ষেত্ৰৰ আৱিষ্কাৰৰ বাবে প্ৰদান কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Gene editing",
+        "as": "জিন সম্পাদনা"
+      },
+      {
+        "en": "Immunology",
+        "as": "ৰোগ প্ৰতিৰোধ বিজ্ঞান"
+      },
+      {
+        "en": "Optogenetics",
+        "as": "অপ্ট'জেনেটিকছ"
+      },
+      {
+        "en": "Neurosurgery",
+        "as": "স্নায়ু শল্য চিকিৎসা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Karl Deisseroth, Peter Hegemann and Georg Nagel won the 2026 Nobel Prize in Medicine for optogenetics.",
+      "as": "কাৰ্ল ডাইছেৰথ, পিটাৰ হেগেমান আৰু জৰ্জ নাগেলে অপ্ট'জেনেটিকছৰ বাবে ২০২৬ চনৰ চিকিৎসা বিজ্ঞানৰ ন'বেল বঁটা লাভ কৰিছিল।"
+    }
+  }
+]
