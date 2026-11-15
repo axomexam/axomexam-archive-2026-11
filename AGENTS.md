@@ -73,6 +73,18 @@ they outrank any cleanup, refactor or "nice to have" an agent might want to do.
   correct stays the same option, only its position changes. Check with
   `node tools/balance-answer-keys.js --book <book> --topic <topic> --check`,
   which must report 0 skewed topics (no slot holding >=50% of a topic's keys).
+- **Deduplicate by meaning, not just exact text.** A new MCQ bank must not
+  repeat a question that already exists anywhere in `data/`. An exact string
+  match is not enough: the repo already holds ~95k stems and explanations, so
+  the same fact is often asked with slightly different wording (e.g. a new
+  "In which year was the Food Corporation of India established?" against an
+  existing "In which year was the Food Corporation of India (FCI)
+  established?"). Before committing a bank, run a fuzzy check of every new
+  stem and explanation (English and Assamese, case- and punctuation-folded)
+  against all other question text in `data/` — `difflib.SequenceMatcher` with
+  a ~0.90 ratio is a good threshold — and reword or replace every hit. When a
+  reworded fact still collides (the obvious facts are already used up), pick a
+  genuinely different fact rather than paraphrasing. Aim for 0 hits.
 - **Verify before shipping.** Run `node tools/seo-audit.js` and confirm
   `thin (<300w): 0`, `missing H1/desc/canonical/JSON-LD: 0`, and the duplicate
   counts above, then check the live URLs return 200 after the Pages build.
