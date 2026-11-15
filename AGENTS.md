@@ -1198,3 +1198,35 @@ What was done, so the next agent does not redo or undo it:
   Python `rapidfuzz` (installed in the sandbox), token-prefiltered so it
   finishes in seconds; a plain `difflib` pass over all pairs is too slow
   (~80k rows) and will time out.
+
+## Session record — Nov 2026 RRB NTPC exam-wise thumbnail
+
+**Symptom.** The RRB NTPC card in Exam-wise Mock Test showed a dark blue
+book-cover banner instead of a logo, unlike every other card.
+
+**Root cause.** `images/exams/rrb-ntpc-logo.webp` was the book-cover art
+(512×512, dark navy, text-heavy), added by `3256e6e9` alongside the cover.
+Every peer card is a clean centred emblem on white — `railway-logo.webp` is the
+red Indian Railways emblem — so RRB NTPC was the odd one out.
+
+**Fix.** Regenerated `images/exams/rrb-ntpc-logo.webp` with the same house
+treatment (the Indian Railways emblem, white square, 512×512 WebP) and updated
+its `logoAlt` in all three places that hold it: `data/exams/rrb-ntpc.json`,
+`data/exams/index.json`, `tools/rrb-ntpc.structure.js` (the source the builder
+re-emits from, so the change is idempotent).
+
+**Scope.** `exam.logo` is read only by the exam-wise hub card and the
+exam-wise hero (`js/app.src.js`). The `/exams` book listing uses `exam.cover`
+and is untouched. No HTML file hardcodes the logo — it is injected by JS — so
+no page needed editing and `scripts/stamp-assets.js` stayed at 0 drift.
+
+**Cache note.** Images are not versioned with `?v=`, but the service worker
+caches first-party assets stale-while-revalidate (`STATIC_RE` includes `webp`).
+The image is revalidated in the background on the next view, so no cache-bust
+is needed for the swap to appear.
+
+**Rule going forward — exam card thumbnails are logos, not covers.** A
+`<id>-logo.webp` must be a single centred emblem on a white square (see
+`railway-logo.webp`, `ssc-logo.webp`); book cover art belongs in
+`<id>-cover.webp`, which the `/exams` cards render. `tools/build-exam-logos.js`
+performs the trim/centre/512px treatment when raw art is dropped in `exam logo/`.

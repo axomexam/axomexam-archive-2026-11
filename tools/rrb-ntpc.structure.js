@@ -34,8 +34,8 @@ const EXAM = {
   cover: "/images/exams/rrb-ntpc-cover.webp",
   logo: "/images/exams/rrb-ntpc-logo.webp",
   logoAlt: {
-    en: "RRB NTPC book cover thumbnail",
-    as: "RRB NTPC কিতাপৰ বেটুপাতৰ থাম্বনেইল",
+    en: "Indian Railways logo",
+    as: "ভাৰতীয় ৰে'লৱে ল'গ'",
   },
   coverAlt: {
     en: "Indian Railways RRB NTPC Recruitment Exam — book front cover",
