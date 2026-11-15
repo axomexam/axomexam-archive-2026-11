@@ -484,6 +484,18 @@ What was done, so the next agent does not redo or undo it:
   `status: "coming-soon"`, so `tools/build-question-counts.js` counts none of
   it. Do not "fix" the missing count.
 
+**Follow-up (Nov 2026) — fuzzy dedup pass.** The original "no duplicated
+content" claim above held only for exact matches. A later fuzzy check
+(`difflib.SequenceMatcher`, ratio >= 0.90, English and Assamese, case- and
+punctuation-folded) found 15 near-duplicate stems/explanations against other
+`data/` banks (e.g. the Indus-Valley "metal NOT known" item against the mock
+`set-*.json`, "first Tirthankara" against `jainism-buddhism.json`, "founder of
+the Mauryan empire" against another `question-001.json`), plus 5 pairs of
+templated parallel stems inside this bank. Those 19 items were reworded in
+place — the correct option and its meaning were never changed, only the
+wording — and the topic now reports **0** near-duplicates. When adding to this
+bank, re-run a fuzzy check, not just an exact one.
+
 ## Session record — Nov 2026 RRB NTPC Modern History question bank (430 MCQs)
 
 What was done, so the next agent does not redo or undo it:
