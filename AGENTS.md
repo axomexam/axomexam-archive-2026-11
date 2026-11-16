@@ -1885,3 +1885,57 @@ What was done, so the next agent does not redo or undo it:
   sitemap alt miss 0); every bank validated for schema, 4 unique options,
   bilingual stems and explanations, unique ids; all four EN+AS pages show
   80 questions and the article panel, `noindex=0`.
+
+## Session — RRB NTPC Mathematics batch 7 (final maths topics: 26–28)
+
+- **The last three stub maths leaves are now full bilingual banks, 80 hard
+  MCQs each** in `data/exams/rrb-ntpc/mathematics/<topic>/question-001.json`:
+  - `mensuration-2d` — rectangle/square (area, perimeter, diagonal), triangle
+    (base-height, equilateral, isosceles, right, Heron with 13-14-15, 7-8-9,
+    10-10-12, 17-25-26, 20-21-29, 9-40-41), parallelogram, rhombus (diagonals,
+    side-from-diagonal, perimeter, ratio of diagonals), trapezium, circle
+    (area, circumference, diameter/radius reverses), semicircle, quadrant,
+    sector, arc, ring, inscribed/inscribed-in figures, side/area/perimeter
+    reverses, scaling (area ∝ side², percentage changes), paths/borders, cost
+    and tiling.
+  - `mensuration-3d` — cube (volume, surface area, diagonal, reverses), cuboid
+    (volume, total/lateral surface, base-area and height reverses), cylinder
+    (volume, curved/total surface, radius/height reverses), cone (volume, slant
+    height, curved/total surface, 3-4-5 and 5-12-13 slants), sphere and
+    hemisphere (volume, surface area, diameter reverses), scaling (volume ∝ r³,
+    surface ∝ r², cylinder r×2 h÷2), comparisons (cone:hemisphere:cylinder
+    1:2:3, cylinder:cone 3:1), largest sphere in a cube, cutting/melting counts,
+    capacity in litres, combined solids.
+  - `data-interpretation` — 13 data sets (shop sales, student marks, town
+    population, factory quarters, family expenditure and income/expenditure
+    tables, pie charts of expenditure, marks, state revenue and a student's
+    day, bar graphs of books and car sales, line graph of temperature, tree
+    plantation and class-strength tables, company production, batsman's runs)
+    with questions on total, average, maximum/minimum, range, percentage of
+    total, percentage change, ratio, central angle, actual value from a scale,
+    and value after a change.
+- **Answer keys balanced 20/20/20/20** over A/B/C/D for all three.
+- **Deduped against the whole corpus.** A fuzzy pass (`rapidfuzz`, ratio >= 95)
+  over every other `data/exams/**/question-*.json` bank (41,260 rows) found 2
+  exact cross-bank duplicates shared with DHS-DME grade-4 arithmetic (the
+  square diagonal of side 8, the cube volume of side 6); both stems were
+  reworded, so the final cross-bank exact-duplicate count is 0. Remaining >=95
+  hits are template-level (same figure family, different numbers).
+- **Article panels.** New sources
+  `tools/rrb-ntpc-ga-articles/mathematics/{mensuration-2d,mensuration-3d,data-interpretation}.js`
+  (EN 1873/1536/1509 words, AS 1501/1312/1348 words, 5 FAQs and a 10-item
+  key-facts list each); `rrb-ntpc.ga-extra-check.js` reports 0 failing the
+  1300-word floor.
+- **All 28 RRB NTPC Mathematics topics now carry a full 80-question bank**
+  (the 71/75-question earlier banks are pre-existing and untouched here).
+- **Build order** unchanged: counts → pages → ga-extra → enrich → keyword-map →
+  as-twins → seo-indexing-fix, idempotent (only `counts.json`'s `generatedAt`
+  moves). The exam hub now reports 9,710 questions.
+- **Revert unrelated drift before committing**, as before:
+  `git checkout -- as/exams/rrb-ntpc/general-awareness/`. Do not revert the
+  three target mathematics leaves.
+- **Verification:** `seo-audit.js` clean (1321 pages, sitemap 2546, thin 0,
+  missing H1/desc/canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0,
+  sitemap alt miss 0); every bank validated for schema, 4 unique options,
+  bilingual stems and explanations, unique ids; all three EN+AS pages show
+  80 questions and the article panel, `noindex=0`.
