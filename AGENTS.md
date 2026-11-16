@@ -145,6 +145,38 @@ they outrank any cleanup, refactor or "nice to have" an agent might want to do.
   - The panel lives in the `axo-extra-content` block placed **after
     `</main>`** (outside `<main id="app">`) so Googlebot reads it with JS
     off, and `tools/build-as-twins.js` copies it into the `/as/` twin.
+- **Maths and Reasoning banks must cover *every type* of a topic — never one
+  type repeated to reach a count.** When any Maths or Reasoning book, mock
+  test, exam bank or topic page is authored, each topic it contains must
+  exercise **all the question types that topic has**, not one type (or a
+  couple) repeated until the target number of questions is reached. Take
+  Number System: its types include basic terms, divisibility rules, place
+  value and face value, unit digit and cyclicity, remainders, factors and
+  multiples, number of zeros, and so on — a Number System set that only asks
+  "is X prime", or only HCF/LCM, is **not** done however many questions it
+  holds, because it leaves most of the topic's types untested. The same
+  applies to **every** Maths topic (percentage, ratio and proportion,
+  average, time-speed-distance, time and work, profit and loss,
+  simple/compound interest, mixture and alligation, algebra, geometry,
+  mensuration, trigonometry, …) and **every** Reasoning topic (number and
+  alphabet series, coding-decoding, blood relations, direction and distance,
+  order and ranking, syllogism, clock and calendar, non-verbal reasoning, …).
+  - **How to author a topic:** first enumerate that topic's types from its own
+    syllabus — the `h3` sub-sections on the topic page (e.g.
+    `topic/math/arithmetic/number-system/index.html`) and the topic's
+    deep-article in `data/deep-articles/` — then make sure the bank carries
+    questions for **each** listed type, spread evenly and without leaning on a
+    single type.
+  - **The requested count is a floor, not a licence.** A target like "20
+    questions" sets the minimum total, not permission to fill all 20 with one
+    type. If the count is too small to cover every type, cover every type
+    anyway and raise the count.
+  - **Where this bites:** the exam banks
+    (`data/exams/<exam>/<subject>/<topic>/question-NNN.json`), the subject mock
+    tests (`data/mock-test/<subject>/<group>/set-N.json`), the exam mock sets
+    (`data/exam-mock-sets/…`) and the `topic/math/**` / `topic/reasoning/**`
+    pages. This is a standing rule for any future Maths or Reasoning bank in
+    any book, in both English and Assamese.
 - **Verify before shipping.** Run `node tools/seo-audit.js` and confirm
   `thin (<300w): 0`, `missing H1/desc/canonical/JSON-LD: 0`, and the duplicate
   counts above, then check the live URLs return 200 after the Pages build.
