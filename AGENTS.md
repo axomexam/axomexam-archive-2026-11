@@ -1703,3 +1703,49 @@ What was done, so the next agent does not redo or undo it:
 - **Revert unrelated drift before committing**, as before:
   `git checkout -- as/exams/rrb-ntpc/general-awareness/` (the chain rewrites
   ~31 Assamese GA twin pages). Do not revert the four reasoning leaves.
+
+## Session record — Nov 2026 RRB NTPC Mathematics banks, batch 3 (Simple Interest, Compound Interest, Time & Work, Work & Wages)
+
+- **What changed.** Four more `data/exams/rrb-ntpc/mathematics/<topic>/question-001.json`
+  banks were expanded from a single sample row to **75** bilingual MCQs each, in the
+  same shape as the earlier mathematics banks: `simple-interest`,
+  `compound-interest`, `time-work`, `work-wages` (topics 14–17 in
+  `tools/rrb-ntpc.structure.js`). 74 new + the 1 sample row per topic.
+- **Difficulty at RRB NTPC CBT level, every type covered.** Simple interest:
+  direct P/R/T, time in months and in years-and-months, reverse principal and
+  rate, two amounts at two times, doubling/trebling/multiples, two-part sums at
+  two rates, ratio-of-interest comparisons, SI−CI difference, one-year rate
+  change. Compound interest: direct, half-yearly and quarterly compounding,
+  CI−SI for 2 and 3 years, reverse principal/rate, doubling-and-multiples in
+  time, single-year interest, population growth and machine depreciation, reverse
+  population. Time & work: together, one-leaves-early, two-leaves-early,
+  efficiency ratios, chain efficiencies, men-and-days inverse proportion,
+  A/B/C two-at-a-time, alternate days, three-person, partial work fractions.
+  Work & wages: wage-in-work-ratio, inverse-time shares, efficiency-ratio
+  shares, three-worker shares, share differences, equal-daily-wage day-ratio
+  case, contract amounts, and the "A works 1/4 then B finishes" split.
+- **Answer keys balanced** 19/19/19/18 over A/B/C/D for all four
+  (`balance-answer-keys.js --book rrb-ntpc --topic mathematics/<t>`).
+- **Deduped against the whole corpus.** A fuzzy pass (`rapidfuzz`, ratio ≥ 93)
+  over every other `data/exams/**/question-*.json` bank (39,941 rows) found only
+  template-level matches (same shape, different numbers) against the ADRE-Grade-3
+  `simple-compound-interest` and DHS-DME `arithmetic` banks; exact cross-bank
+  duplicates: 0. Several internally inconsistent rows (a 150-day day-count row,
+  a reinvestment row, a two-part sum with a mismatched rate, and a few
+  "standard numbers" hand-waves) were rewritten so every stem and explanation is
+  arithmetically exact.
+- **Article panels.** New sources
+  `tools/rrb-ntpc-ga-articles/mathematics/{simple-interest,compound-interest,time-work,work-wages}.js`
+  (EN 1587/1497/1356/1308 words, AS 1355/1313/1308/1380 words, 5 FAQs and a
+  10-item key-facts list each); `rrb-ntpc.ga-extra-check.js` reports 0 failing the
+  1300-word floor.
+- **Build order** unchanged: counts → pages → ga-extra → enrich → keyword-map →
+  as-twins → seo-indexing-fix, idempotent (only `counts.json`'s `generatedAt`
+  moves). The exam hub now reports 8,241 questions.
+- **Revert unrelated drift before committing**, as before:
+  `git checkout -- as/exams/rrb-ntpc/general-awareness/`. Do not revert the four
+  target mathematics leaves.
+- **Verification:** `seo-audit.js` clean (1321 pages, sitemap 2508, thin 0,
+  missing H1/desc/canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0,
+  sitemap alt miss 0); every bank validated for schema, 4 unique options,
+  bilingual stems and explanations, unique ids.
