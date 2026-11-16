@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:19:04.949Z",
+  "generatedAt": "2026-11-16T10:48:51.970Z",
   "topicCounts": {
     "gk/assam-literature/ancient-pre-vaishnavite-sec/charyapada-folk-songs": 37,
     "gk/assam-literature/ancient-pre-vaishnavite-sec/early-poets-translations": 37,
@@ -758,14 +758,14 @@
     "rrb-ntpc/reasoning/verbal-reasoning": 1141,
     "rrb-ntpc/reasoning/analytical-logical-reasoning/syllogism": 80,
     "rrb-ntpc/reasoning/analytical-logical-reasoning/venn-diagrams": 1,
-    "rrb-ntpc/reasoning/analytical-logical-reasoning/statement-conclusions": 1,
-    "rrb-ntpc/reasoning/analytical-logical-reasoning/statement-assumptions": 1,
-    "rrb-ntpc/reasoning/analytical-logical-reasoning/statement-arguments": 1,
+    "rrb-ntpc/reasoning/analytical-logical-reasoning/statement-conclusions": 80,
+    "rrb-ntpc/reasoning/analytical-logical-reasoning/statement-assumptions": 80,
+    "rrb-ntpc/reasoning/analytical-logical-reasoning/statement-arguments": 80,
     "rrb-ntpc/reasoning/analytical-logical-reasoning/statement-course-of-action": 1,
-    "rrb-ntpc/reasoning/analytical-logical-reasoning/cause-effect": 1,
+    "rrb-ntpc/reasoning/analytical-logical-reasoning/cause-effect": 80,
     "rrb-ntpc/reasoning/analytical-logical-reasoning/assertion-reason": 1,
     "rrb-ntpc/reasoning/analytical-logical-reasoning/decision-making-data-sufficiency": 1,
-    "rrb-ntpc/reasoning/analytical-logical-reasoning": 88,
+    "rrb-ntpc/reasoning/analytical-logical-reasoning": 404,
     "rrb-ntpc/reasoning/non-verbal-reasoning/counting-figures": 1,
     "rrb-ntpc/reasoning/non-verbal-reasoning/mirror-water-image": 1,
     "rrb-ntpc/reasoning/non-verbal-reasoning/paper-cutting-folding": 1,
@@ -774,9 +774,9 @@
     "rrb-ntpc/reasoning/non-verbal-reasoning/figure-series": 1,
     "rrb-ntpc/reasoning/non-verbal-reasoning/cube-dice": 1,
     "rrb-ntpc/reasoning/non-verbal-reasoning": 7,
-    "rrb-ntpc/reasoning": 1236
+    "rrb-ntpc/reasoning": 1552
   },
-  "examsTotal": 42188,
+  "examsTotal": 42504,
   "mockTotal": 4807,
   "topicsTotal": 717
 }
