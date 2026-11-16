@@ -1492,3 +1492,48 @@ What was done, so the next agent does not redo or undo it:
   stems and explanations against the whole `data/` corpus found 0 new
   cross-bank near-duplicates beyond the preserved samples and 0 internal
   near-duplicates.
+## Session record — Nov 2026 RRB NTPC Mathematics banks (Decimals & Fractions, Surds & Indices, Square Root & Cube Root)
+
+Continues the session above. The next three Mathematics leaves are now filled
+with full bilingual banks; the two hubs and the sitemap were regenerated and the
+change was pushed straight to `main` (no PR, per the user's instruction).
+
+- **Banks.** `decimals-fractions`, `surds-indices` and `square-cube-root` each
+  now hold 71 questions (70 new + the existing sample). Every type of the topic
+  is covered, not one shape repeated:
+  - Decimals & Fractions: fraction→decimal, decimal→fraction, comparing,
+    recurring decimals, decimal mul/div, fraction add/sub, fraction mul/div,
+    mixed/improper, complex fractions, LCM/HCF of fractions, rounding/place
+    value, word problems, percentage link, facts.
+  - Surds & Indices: basic terms (radicand/index/base), laws of indices,
+    negative and fractional exponents, surd simplification, surd +/−/×/÷,
+    rationalisation and conjugates, comparing surds, index equations.
+  - Square Root & Cube Root: square roots, cube roots, perfect-square/cube
+    identification, unit digits, prime-factorisation roots, make-a-perfect-square,
+    add-to-make-a-perfect-square, decimal/fraction roots, digit counts,
+    approximate irrational values.
+- **Answer keys balanced** 18/18/18/17 over A/B/C/D for all three; `--check`
+  reports 0 skewed topics for them.
+- **Stem wording varied** so the same pattern does not repeat verbatim; the
+  near-exact duplicates that remained (100% matches against older books) were
+  removed by rewording or replacing the offending rows. Cross-bank identical
+  rows: 0.
+- **Article panels.** New sources
+  `tools/rrb-ntpc-ga-articles/mathematics/{decimals-fractions,surds-indices,square-cube-root}.js`
+  (EN 1785/1782/1772 words, AS 1421/1302/1352 words, 5 FAQs each); the check
+  (`tools/rrb-ntpc.ga-extra-check.js`) reports 0 failing the 1300-word floor.
+- **Build order** unchanged from the previous session:
+  `build-question-counts.js` → `build-rrb-ntpc-pages.js` → `rrb-ntpc.ga-extra.js`
+  → `enrich-thin-pages.js` → `apply-keyword-map.js --only-prefix exams/rrb-ntpc/`
+  → `build-as-twins.js --prefix exams/rrb-ntpc` → `seo-indexing-fix.js`.
+  Idempotent: a second run leaves the 15 scoped files byte-identical.
+- **Scope.** The 15 files are: the 3 question JSONs, 4 EN pages (2 hubs + exam
+  hub + 3 leaves, counting the exam and math hubs once each), 4 `/as/` twins,
+  `data/counts.json`, `sitemap.xml`. The same out-of-scope GA/reasoning drift
+  the chain produces was reverted (see the previous session's "Revert unrelated
+  drift" note); do not revert the three target leaves, whose `noindex → index`
+  flip and sitemap re-entry are the intended result.
+- **Verification:** `seo-audit.js` clean (1321 pages, thin 0, missing H1/desc/
+  canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0, sitemap alt
+  miss 0). Every bank validated for schema, 4 unique options, bilingual stems
+  and explanations, unique ids.
