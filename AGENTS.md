@@ -1537,3 +1537,56 @@ change was pushed straight to `main` (no PR, per the user's instruction).
   canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0, sitemap alt
   miss 0). Every bank validated for schema, 4 unique options, bilingual stems
   and explanations, unique ids.
+
+## Session record — Nov 2026 RRB NTPC Mathematics banks (LCM & HCF, Percentage, Ratio & Proportion, Partnership)
+
+- **What changed.** Four more `data/exams/rrb-ntpc/mathematics/<topic>/question-001.json`
+  banks were expanded from a single sample row to 71 bilingual MCQs each, in the
+  same shape as the earlier mathematics banks (id `<topic>-NNN`, `q.en`/`q.as`,
+  four `options` with `en`/`as`, `correct` index, `explanation.en`/`.as`):
+  `lcm-hcf`, `percentage`, `ratio-proportion`, `partnership`. The order follows
+  the mathematics hub, so these are topics 6–9 after Number System, Simplification
+  & BODMAS, Decimals & Fractions, Surds & Indices and Square Root & Cube Root.
+- **Difficulty raised for a central exam.** Stems were written at RRB NTPC CBT
+  level rather than as one-step recalls: HCF/LCM of three or four numbers, the
+  HCF×LCM relation used in reverse, the least/greatest number with equal or given
+  remainders, bells/traffic-light/runner periodicities, HCF and LCM of fractions
+  and decimals, ratio-from-HCF/LCM and from sums/differences, chained and derived
+  ratios (duplicate, sub-duplicate, triplicate, compound), successive-change and
+  expenditure questions, election and pass-marks templates, successive discounts
+  with profit, and partnership with unequal periods, mid-year withdrawal/addition,
+  three partners and a working partner's salary.
+- **Type coverage is complete** for each topic (many distinct shapes per bank,
+  not one repeated template).
+- **Answer keys balanced** 18/18/18/17 over A/B/C/D for all four;
+  `tools/balance-answer-keys.js --book rrb-ntpc --topic mathematics/<t>` reports
+  the move and `--check` shows no skew.
+- **Deduped against the whole corpus.** A fuzzy pass (`rapidfuzz`, ratio ≥ 90)
+  over every other `data/exams/**/question-*.json` bank found the rows that
+  matched older books verbatim; those were reworded or replaced (e.g. the
+  2160/12 LCM row, the 12-15-20 remainder row, the 10%+20% discount row, the
+  −10%+10% net-change row, the 16&36 mean proportional, the 2A=3B=4C row).
+  Remaining exact matches are only the original single-sample rows (topic-001),
+  which are intentionally preserved.
+- **Article panels.** New sources
+  `tools/rrb-ntpc-ga-articles/mathematics/{lcm-hcf,percentage,ratio-proportion,partnership}.js`
+  (EN 1495/1636/1837/1630 words, AS 1348/1428/1432/1304 words, 5 FAQs and a
+  10-item key-facts list each); `tools/rrb-ntpc.ga-extra-check.js` reports 0
+  failing the 1300-word floor.
+- **Build order** unchanged: `build-question-counts.js` →
+  `build-rrb-ntpc-pages.js` → `rrb-ntpc.ga-extra.js` → `enrich-thin-pages.js` →
+  `apply-keyword-map.js --only-prefix exams/rrb-ntpc/` →
+  `build-as-twins.js --prefix exams/rrb-ntpc` → `seo-indexing-fix.js`. The exam
+  hub now reports 7,365 questions and the mathematics hub 662; only
+  `data/counts.json`'s `generatedAt` changes on a second run, so the chain is
+  idempotent for every scoped page.
+- **Scope.** 22 files: the 4 question JSONs, 4 article modules, 5 EN pages (exam
+  hub, math hub, 4 leaves — counted once each), 5 `/as/` twins, `data/counts.json`
+  and `sitemap.xml`. As in the previous session, the out-of-scope GA drift the
+  chain produces (invisible-character rewrites of `as/exams/rrb-ntpc/general-awareness/**`)
+  was reverted; do not revert the four target leaves, whose `noindex → index`
+  flip and sitemap re-entry are the intended result.
+- **Verification:** `seo-audit.js` clean (1321 pages, thin 0, missing H1/desc/
+  canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0, sitemap alt
+  miss 0); every bank validated for schema, 4 unique options, bilingual stems
+  and explanations, unique ids.
