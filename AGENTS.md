@@ -2051,6 +2051,19 @@ What was done, so the next agent does not redo or undo it:
   cross-topic duplicate count and the figure-collision count are both 0.
 - **Build order** unchanged: counts → pages → ga-extra → enrich → keyword-map →
   as-twins → seo-indexing-fix, idempotent (byte-stable on repeat).
+- **Gotcha — the counts manifest was left out of the batch-1 commit.** The
+  four banks landed in `08a01007`, but `data/counts.json` was not part of that
+  commit (nor of the `ef76a918` AGENTS.md follow-up), so it still read `1` per
+  filled topic and `7` for the group. Every surface that renders from
+  `counts.json` — the group page, the reasoning hub, the exam page and the
+  homepage hero — kept the stale numbers, and the four filled leaves stayed
+  `noindex` and out of the sitemap because `seo-indexing-fix.js` derives the
+  stub-leaf list from that same file. Fixed in `eb1ce758` by rebuilding the
+  chain (`sync-home-hero-count` + counts → pages → ga-extra → enrich →
+  keyword-map → as-twins → seo-indexing-fix → inject-ga → strip-adsense →
+  doctype). Lesson: **a bank commit is not done until `data/counts.json` is
+  regenerated and committed with it**, or the counts silently freeze at the
+  stub value everywhere.
 - **Branching.** This batch was rebased onto the then-current `main` and all
   build outputs regenerated on top, so the hub-count conflicts with the recent
   analytical-reasoning batches were avoided. Branched as
