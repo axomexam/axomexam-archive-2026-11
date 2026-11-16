@@ -1430,3 +1430,65 @@ What was done, so the next agent does not redo or undo it:
   sitemap alt drift/miss 0); fuzzy dedupe (ratio 0.90, EN + AS) of the new
   stems and explanations against the whole `data/` corpus found 0 cross-bank
   and 0 internal near-duplicates.
+
+## Session record — Nov 2026 RRB NTPC Reasoning banks (Number Series, Alphabet Series, Coding-Decoding)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Three more Reasoning leaf topics filled.** `number-series`,
+  `alphabet-series` and `coding-decoding` each now hold a 65-question bilingual
+  bank in `data/exams/rrb-ntpc/reasoning/verbal-reasoning/<leaf>/question-001.json`
+  (64 new questions plus the one pre-existing sample, preserved verbatim). The
+  other 27 reasoning leaves are still thin stubs (1 question, `noindex`).
+- **Every type of the topic, not one repeated shape.** Number Series covers
+  constant difference, growing (second-order) difference, multiplicative,
+  squares and cubes (plain and shifted), prime, Fibonacci and factorial series,
+  interleaved series, wrong-number series and missing-middle series. Alphabet
+  Series covers fixed-step single letters, interleaved letter runs, front-and-
+  back alternation, letter groups, alphanumeric series, position questions and
+  word-based rules. Coding-Decoding covers letter-position codes, fixed forward
+  and backward shifts, reversal and swapping, opposite (mirror) letters,
+  number-to-letter substitution, word-to-word substitution and combined
+  (reverse-then-shift) rules.
+- **Answer keys balanced** 17/16/16/16 over A/B/C/D, longest run 3 in every
+  bank; `balance-answer-keys.js --book rrb-ntpc --topic reasoning/verbal-reasoning/
+  <leaf>` reports 0 skewed topics.
+- **Article panels, same shared renderer.** No new tool: `tools/rrb-ntpc.ga-extra.js`
+  and `tools/rrb-ntpc.ga-extra-check.js` already cover the reasoning section.
+  New article sources sit beside the earlier two at
+  `tools/rrb-ntpc-ga-articles/verbal-reasoning/{number-series,alphabet-series,
+  coding-decoding}.js`, keyed `"verbal-reasoning/<leaf>"`. Article sizes:
+  number-series EN 1778 / AS 1402, alphabet-series EN 1754 / AS 1394,
+  coding-decoding EN 1678 / AS 1333, 5 FAQs each.
+- **Build order.** `tools/build-question-counts.js` → `build-rrb-ntpc-pages.js`
+  → `tools/rrb-ntpc.ga-extra.js` → `enrich-thin-pages.js` →
+  `apply-keyword-map.js --only-prefix exams/rrb-ntpc/` → `build-as-twins.js
+  --prefix exams/rrb-ntpc` → `seo-indexing-fix.js`. Idempotent (a second run
+  differs only in `data/counts.json`'s `generatedAt`). Counts move the three
+  keys 1 → 65, the verbal-reasoning group 144 → 336, the reasoning section
+  160 → 352; all three flip to `index, follow` and re-enter `sitemap.xml`.
+- **Templated wording is a dedup trap.** The banks were first drafted with
+  repeated stem openers ("Complete the series:", "Determine the next number:")
+  and repeated explanation formulas, which tripped the repository's fuzzy
+  near-duplicate rule (ratio 0.90) with 26 internal hits. Diversifying the
+  openers and explanation phrasings drove internal hits to 0. The only
+  remaining cross-bank hits (6) are the three preserved pre-existing sample
+  questions, which the bank must keep.
+- **Do NOT run `balance-answer-keys.js` without a `--book`/`--topic` filter.**
+  A bare invocation (even `--help`, which it ignores) rebalances *every*
+  hand-uploaded bank in the repo, including `data/exams/assam-police*`,
+  `dhs-dme*` and the RRB math stubs. Always pass `--book rrb-ntpc --topic
+  reasoning/verbal-reasoning/<leaf>`; if you slip, `git checkout -- data/`
+  restores everything except the banks you meant to touch.
+- **Revert unrelated drift before committing.** The chain rewrites ~31 Assamese
+  General-Awareness twin pages (pre-existing breadcrumb-URL fix, present on a
+  pristine checkout too). `git checkout -- as/exams/rrb-ntpc/general-awareness/`
+  keeps the diff to the three reasoning leaves. Do **not** revert those three
+  leaves: their `noindex → index` flip is the intended result.
+- **Verification:** `rrb-ntpc.ga-extra-check.js` ends
+  `articles failing the 1300-word floor (either language): 0; missing: 0`;
+  `seo-audit.js` clean (thin 0, title >60 0, desc >160 0, dup titles/H1/desc 0,
+  sitemap alt drift/miss 0); fuzzy dedupe (ratio 0.90, EN + AS) of the new
+  stems and explanations against the whole `data/` corpus found 0 new
+  cross-bank near-duplicates beyond the preserved samples and 0 internal
+  near-duplicates.
