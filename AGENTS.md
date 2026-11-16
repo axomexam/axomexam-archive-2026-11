@@ -2008,3 +2008,55 @@ What was done, so the next agent does not redo or undo it:
   sitemap alt miss 0); every bank validated for schema, 4 unique options,
   bilingual stems and explanations, unique ids; all three EN+AS pages show
   80 questions and the article panel, `noindex=0`.
+
+## Session — RRB NTPC Non-Verbal Reasoning batch 1 (topics 1–4)
+
+- **The first four Non-Verbal Reasoning leaves are now full bilingual
+  figure-based banks, 70 MCQs each**, in
+  `data/exams/rrb-ntpc/reasoning/non-verbal-reasoning/<topic>/question-001.json`:
+  - `counting-figures` — common-apex triangles (base in n parts → n(n+1)/2),
+    the horizontal-chord variant, grid squares (1²+…+n²), grid rectangles
+    (choose 2 vertical × 2 horizontal lines), diagonal quadrilaterals (square,
+    rectangle, rhombus, parallelogram → 8 triangles), line fans from a point,
+    polygon fans (k − 2), circles.
+  - `mirror-water-image` — letters, digits and line motifs under the vertical
+    (mirror) and horizontal (water) reflection, including the rotation trap.
+  - `paper-cutting-folding` — single and double folds; layer count → hole
+    count; reflection placement of every hole; cuts on a crease giving one hole.
+  - `embedded-figures` — composite H/V/`\` figures with a traceable sub-shape;
+    each distractor carries an edge in a direction the composite does not
+    contain, so embedded vs non-embedded is guaranteed by construction.
+- **Answers are computed, not typed.** `tools/gen-rrb-ntpc-non-verbal.js`
+  builds every figure and every option from its construction and derives the
+  answer from it; keys are balanced 18/17/17/18 over A/B/C/D (the shared
+  `tools/balance-answer-keys.js` refuses figure questions, so the generator
+  balances them). Every prompt figure and every option figure is checked
+  distinct (70 distinct prompt figures per topic).
+- **Figure rendering for RRB NTPC.** `tools/lib/exam-book-pages.js` now emits
+  the picture-option grid (`nv-fig-grid` → `nv-fig-item` → `nv-fig-key` →
+  `nv-fig-box`), matching the runtime `figureOptionsHTML()`; the prompt figure
+  renders in `<div class="nv-media">…</div>`. Before this batch the RRB NTPC
+  figure leaves were still text-option stubs, so this is the first real figure
+  render path for the book. All figures are inline SVG (stroke `#334155`), no
+  `<img>` URLs.
+- **Article panels.** New sources
+  `tools/rrb-ntpc-ga-articles/non-verbal-reasoning/{counting-figures,
+  mirror-water-image,paper-cutting-folding,embedded-figures}.js`
+  (EN 1397–1648 / AS 1310–1368 words, 5 FAQs and a 10-item key-facts list
+  each); `rrb-ntpc.ga-extra-check.js` reports 0 failing the 1300-word floor.
+  This is the first grouped Reasoning sub-group to carry article panels.
+- **Deduped against the whole corpus.** A fuzzy pass (`rapidfuzz`, ratio >= 90)
+  over the whole `data/` corpus (265,381 rows) left only same-section
+  boilerplate stems shared with other non-verbal banks (accepted norm); the
+  cross-topic duplicate count and the figure-collision count are both 0.
+- **Build order** unchanged: counts → pages → ga-extra → enrich → keyword-map →
+  as-twins → seo-indexing-fix, idempotent (byte-stable on repeat).
+- **Branching.** This batch was rebased onto the then-current `main` and all
+  build outputs regenerated on top, so the hub-count conflicts with the recent
+  analytical-reasoning batches were avoided. Branched as
+  `add-rrb-ntpc-non-verbal-reasoning`; PR #5.
+- **Verification:** `seo-audit.js` clean (1321 pages, indexable 1285, thin 0,
+  missing H1/desc/canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0,
+  sitemap alt miss 0); every bank validated for schema, 4 unique picture
+  options, bilingual stems and explanations, unique ids; all four EN+AS pages
+  show 70 questions, 70 `nv-media` figures and the article panel.
