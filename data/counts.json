@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T09:42:36.450Z",
+  "generatedAt": "2026-11-16T10:00:37.889Z",
   "topicCounts": {
     "gk/assam-literature/ancient-pre-vaishnavite-sec/charyapada-folk-songs": 37,
     "gk/assam-literature/ancient-pre-vaishnavite-sec/early-poets-translations": 37,
@@ -733,12 +733,12 @@
     "rrb-ntpc/mathematics/mensuration-2d": 1,
     "rrb-ntpc/mathematics/mensuration-3d": 1,
     "rrb-ntpc/mathematics/geometry": 80,
-    "rrb-ntpc/mathematics/coordinate-geometry": 1,
-    "rrb-ntpc/mathematics/trigonometry": 1,
-    "rrb-ntpc/mathematics/height-distance": 1,
-    "rrb-ntpc/mathematics/statistics": 1,
+    "rrb-ntpc/mathematics/coordinate-geometry": 80,
+    "rrb-ntpc/mathematics/trigonometry": 80,
+    "rrb-ntpc/mathematics/height-distance": 80,
+    "rrb-ntpc/mathematics/statistics": 80,
     "rrb-ntpc/mathematics/data-interpretation": 1,
-    "rrb-ntpc/mathematics": 1886,
+    "rrb-ntpc/mathematics": 2202,
     "rrb-ntpc/reasoning/verbal-reasoning/analogy": 65,
     "rrb-ntpc/reasoning/verbal-reasoning/classification-odd-one-out": 65,
     "rrb-ntpc/reasoning/verbal-reasoning/number-series": 65,
@@ -776,7 +776,7 @@
     "rrb-ntpc/reasoning/non-verbal-reasoning": 7,
     "rrb-ntpc/reasoning": 920
   },
-  "examsTotal": 41319,
-  "mockTotal": 4810,
+  "examsTotal": 41635,
+  "mockTotal": 4807,
   "topicsTotal": 717
 }

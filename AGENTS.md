@@ -1839,3 +1839,49 @@ What was done, so the next agent does not redo or undo it:
   sitemap alt miss 0); every bank validated for schema, 4 unique options,
   bilingual stems and explanations, unique ids; all four EN+AS pages show
   80 questions and the article panel, `noindex=0`.
+
+## Session — RRB NTPC Mathematics batch 6 (topics 22–25)
+
+- **Four new bilingual banks, 80 hard/difficult MCQs each**, in
+  `data/exams/rrb-ntpc/mathematics/<topic>/question-001.json`:
+  - `coordinate-geometry` — distance formula (origin, general, axis distances),
+    midpoint and section formula (1:1, 1:2, 1:3), slope (from two points, from
+    y = mx + c, horizontal/vertical), parallel and perpendicular slopes,
+    intercepts, quadrants and axis membership, area of triangles on the axes,
+    centroid, and collinearity.
+  - `trigonometry` — the six ratios, the standard values table, Pythagorean
+    identities, complementary-angle relations, ratio-from-ratio (3-4-5,
+    5-12-13, 8-15-17, 7-24-25), simplification, sum/difference of angles,
+    max/min of sin θ and cos θ, and value-at-an-angle.
+  - `height-distance` — angle of elevation and depression, tan θ = h/d at 30°,
+    45° and 60°, shadows, two-step observers (walking towards), two points on
+    the same side, ladders, kites, two poles, tree broken by wind, tower with a
+    flagstaff, and observer eye-height additions.
+  - `statistics` — mean (direct, reverse, total = mean × count), effect of
+    adding/multiplying/subtracting a constant, mean of symmetric series and
+    APs, median (odd/even, missing value), mode, range, combined means, and
+    removed/added value from two means.
+- **Answer keys balanced 20/20/20/20** over A/B/C/D for all four
+  (`balance-answer-keys.js --book rrb-ntpc --topic mathematics/<t>`).
+- **Deduped against the whole corpus.** A fuzzy pass (`rapidfuzz`, ratio >= 95)
+  over every other `data/exams/**/question-*.json` bank (41,121 rows) found 5
+  exact cross-bank duplicates shared with DHS-DME advanced-math (the x-axis
+  equation, a 3-4-5 triangle area, and the standard values of tan 45°, sin 90°
+  and cos 0°); all five stems were reworded or re-parameterised, so the final
+  cross-bank exact-duplicate count is 0. Remaining >=95 hits are template-level.
+- **Article panels.** New sources
+  `tools/rrb-ntpc-ga-articles/mathematics/{coordinate-geometry,trigonometry,height-distance,statistics}.js`
+  (EN 1414/1457/1493/1354 words, AS 1349/1392/1339/1301 words, 5 FAQs and a
+  10-item key-facts list each); `rrb-ntpc.ga-extra-check.js` reports 0 failing
+  the 1300-word floor.
+- **Build order** unchanged: counts → pages → ga-extra → enrich → keyword-map →
+  as-twins → seo-indexing-fix, idempotent (only `counts.json`'s `generatedAt`
+  moves). The exam hub now reports 9,473 questions.
+- **Revert unrelated drift before committing**, as before:
+  `git checkout -- as/exams/rrb-ntpc/general-awareness/`. Do not revert the four
+  target mathematics leaves.
+- **Verification:** `seo-audit.js` clean (1321 pages, sitemap 2540, thin 0,
+  missing H1/desc/canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0,
+  sitemap alt miss 0); every bank validated for schema, 4 unique options,
+  bilingual stems and explanations, unique ids; all four EN+AS pages show
+  80 questions and the article panel, `noindex=0`.
