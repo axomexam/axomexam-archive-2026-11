@@ -1590,3 +1590,70 @@ change was pushed straight to `main` (no PR, per the user's instruction).
   canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0, sitemap alt
   miss 0); every bank validated for schema, 4 unique options, bilingual stems
   and explanations, unique ids.
+## Session record — Nov 2026 RRB NTPC Reasoning banks (Alphabet Test, Blood Relations, Clock & Calendar, Direction & Distance)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Four more Reasoning leaf topics filled, at 72 questions each.** This
+  session's brief was "next 4, 72 nos, question level thoda hard". `alphabet-test`,
+  `blood-relations`, `clock-calendar` and `direction-distance` each now hold a
+  72-question bilingual bank in
+  `data/exams/rrb-ntpc/reasoning/verbal-reasoning/<leaf>/question-001.json`
+  (71 new questions plus the one pre-existing sample, preserved verbatim).
+  The other 49 reasoning leaves are still thin stubs (1 question, `noindex`).
+- **Every type of the topic, not one repeated shape, and set harder than the
+  earlier three banks.** Alphabet Test covers position-from-left/right,
+  letters-between, midpoint, rearranged alphabet (reverse, half-reversed,
+  halves-interchanged) and word-based rules. Blood Relations covers pointing
+  puzzles, coded-symbol relations, family-tree chains, in-law and
+  generation-counting, with multi-link (3–4 hop) chains. Clock & Calendar
+  covers clock angles at a time, time for a given angle, coincidence,
+  gain/loss clocks, mirror clocks, and calendar day-of-week, odd days, leap
+  years and after-n-days. Direction & Distance covers Pythagoras displacement,
+  final direction, shadow, multi-leg turns, shortest distance, person-to-person
+  relative position and compass rotation.
+- **Answer keys balanced** 18/18/18/18 over A/B/C/D, longest run 5 in every
+  bank; `balance-answer-keys.js --book rrb-ntpc --topic reasoning/verbal-reasoning/
+  <leaf>` reports 0 skewed topics.
+- **Article panels, same shared renderer.** No new tool: `tools/rrb-ntpc.ga-extra.js`
+  and `tools/rrb-ntpc.ga-extra-check.js` already cover the reasoning section.
+  New article sources sit at `tools/rrb-ntpc-ga-articles/verbal-reasoning/
+  {alphabet-test,blood-relations,clock-calendar,direction-distance}.js`, keyed
+  `"verbal-reasoning/<leaf>"`. Article sizes: alphabet-test EN 1776 / AS 1385,
+  blood-relations EN 1844 / AS 1416, clock-calendar EN 1895 / AS 1453,
+  direction-distance EN 1777 / AS 1392, 5 FAQs each. Keep EN and AS paragraph
+  counts equal (13/13 here); the word gate counts the article's paragraphs,
+  list and FAQ text together.
+- **Build order.** `tools/build-question-counts.js` → `build-rrb-ntpc-pages.js`
+  → `tools/rrb-ntpc.ga-extra.js` → `enrich-thin-pages.js` →
+  `apply-keyword-map.js --only-prefix exams/rrb-ntpc/` → `build-as-twins.js
+  --prefix exams/rrb-ntpc` → `seo-indexing-fix.js`. Idempotent (a second run
+  differs only in `data/counts.json`'s `generatedAt`). Counts move the four
+  keys 1 → 72 and all four flip to `index, follow` and re-enter `sitemap.xml`.
+- **Regenerating a bank resets its answer keys.** After any re-run of a Python
+  generator, re-run `balance-answer-keys.js` for that topic before rebuilding,
+  or the pages ship 71-of-72 "option A".
+- **Templated wording is a dedup trap, but the repo's own large banks are far
+  worse.** Rotate stem openers and explanation formulas per family (e.g. for
+  the clock-angle family, cycle "Find the angle …", "What is the angle …",
+  "Determine the angle …"). Even so, a fixed-template bank keeps ~100–175
+  internal hits at ratio 0.90 — this is normal here: the existing accepted
+  `adre-grade-3 …/synonyms` bank has 12,338 internal pairs and
+  `adre-grade-4 …/indian-history` has 111. There is no CI gate on this.
+  What matters is cross-bank: the new stems/explanations must not near-duplicate
+  text already in `data/`, apart from the preserved samples.
+- **Do NOT run `balance-answer-keys.js` without a `--book`/`--topic` filter.**
+  A bare invocation (even `--help`, which it ignores) rebalances *every*
+  hand-uploaded bank in the repo. Always pass `--book rrb-ntpc --topic
+  reasoning/verbal-reasoning/<leaf>`; if you slip, `git checkout -- data/`
+  restores everything except the banks you meant to touch.
+- **Revert unrelated drift before committing.** The chain rewrites ~31 Assamese
+  General-Awareness twin pages (pre-existing breadcrumb-URL fix, present on a
+  pristine checkout too). `git checkout -- as/exams/rrb-ntpc/general-awareness/`
+  keeps the diff to the four reasoning leaves. Do **not** revert those four
+  leaves: their `noindex → index` flip is the intended result.
+- **Verification:** `rrb-ntpc.ga-extra-check.js` ends
+  `articles failing the 1300-word floor (either language): 0; missing: 0`;
+  `seo-audit.js` clean (thin 0, title >60 0, desc >160 0, dup titles/H1/desc 0);
+  fuzzy dedupe (ratio 0.90, EN + AS) of the new stems and explanations against
+  the whole `data/` corpus.
