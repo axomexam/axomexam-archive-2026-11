@@ -1772,31 +1772,31 @@
   {
     "id": "statement-conclusions-060",
     "q": {
-      "en": "Statements: All mangoes are fruits. No fruits are food. Which of the following conclusions follows from the statements?",
-      "as": "বিবৃতি: সকলো আম ফল। কোনো ফল খাদ্য নহয়। তলৰ কোনটো সিদ্ধান্ত বিবৃতিবোৰৰ পৰা অনুসৰণ কৰে?"
+      "en": "Statements: All sparrows are birds. No birds are insects. Which of the following conclusions follows from the statements?",
+      "as": "বিবৃতি: সকলো চৰাই এক প্ৰকাৰ পক্ষী। কোনো পক্ষী পতংগ নহয়। তলৰ কোনটো সিদ্ধান্ত বিবৃতিবোৰৰ পৰা অনুসৰণ কৰে?"
     },
     "options": [
       {
-        "en": "All mangoes are food",
-        "as": "সকলো আম খাদ্য"
+        "en": "All sparrows are insects",
+        "as": "সকলো চৰাই পতংগ"
       },
       {
-        "en": "Some mangoes are not fruits",
-        "as": "কিছু আম ফল নহয়"
+        "en": "Some sparrows are not birds",
+        "as": "কিছু চৰাই পক্ষী নহয়"
       },
       {
-        "en": "No food are fruits",
-        "as": "কোনো খাদ্য ফল নহয়"
+        "en": "No insects are birds",
+        "as": "কোনো পতংগ পক্ষী নহয়"
       },
       {
-        "en": "All food are mangoes",
-        "as": "সকলো খাদ্য আম"
+        "en": "All insects are sparrows",
+        "as": "সকলো পতংগ চৰাই"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "Only “No food are fruits” holds in every model; each other option can be made false.",
-      "as": "কেৱল “কোনো খাদ্য ফল নহয়” প্ৰতিটো মডেলত সত্য; বাকী বিকল্প মিছা কৰিব পাৰি।"
+      "en": "Only “No insects are birds” holds in every model; each other option can be made false.",
+      "as": "কেৱল “কোনো পতংগ পক্ষী নহয়” প্ৰতিটো আৰ্হিত সত্য; আন বিকল্পবোৰ অসত্য কৰিব পাৰি।"
     }
   },
   {
@@ -1952,31 +1952,31 @@
   {
     "id": "statement-conclusions-066",
     "q": {
-      "en": "Statements: All poets are writers. Some writers are artists. Which of the following conclusions follows from the statements?",
-      "as": "বিবৃতি: সকলো কবি লেখক। কিছু লেখক শিল্পী। তলৰ কোনটো সিদ্ধান্ত বিবৃতিবোৰৰ পৰা অনুসৰণ কৰে?"
+      "en": "Statements: All singers are musicians. Some musicians are composers. Which of the following conclusions follows from the statements?",
+      "as": "বিবৃতি: সকলো গায়ক সংগীতজ্ঞ। কিছু সংগীতজ্ঞ ৰচয়িতা। তলৰ কোনটো সিদ্ধান্ত বিবৃতিবোৰৰ পৰা অনুসৰণ কৰে?"
     },
     "options": [
       {
-        "en": "Some artists are writers",
-        "as": "কিছু শিল্পী লেখক"
+        "en": "Some composers are musicians",
+        "as": "কিছু ৰচয়িতা সংগীতজ্ঞ"
       },
       {
-        "en": "All writers are poets",
-        "as": "সকলো লেখক কবি"
+        "en": "All musicians are singers",
+        "as": "সকলো সংগীতজ্ঞ গায়ক"
       },
       {
-        "en": "No poets are writers",
-        "as": "কোনো কবি লেখক নহয়"
+        "en": "No singers are musicians",
+        "as": "কোনো গায়ক সংগীতজ্ঞ নহয়"
       },
       {
-        "en": "Some artists are not writers",
-        "as": "কিছু শিল্পী লেখক নহয়"
+        "en": "Some composers are not musicians",
+        "as": "কিছু ৰচয়িতা সংগীতজ্ঞ নহয়"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Only “Some artists are writers” holds in every model; each other option can be made false.",
-      "as": "কেৱল “কিছু শিল্পী লেখক” প্ৰতিটো মডেলত সত্য; বাকী বিকল্প মিছা কৰিব পাৰি।"
+      "en": "Only “Some composers are musicians” holds in every model; each other option can be made false.",
+      "as": "কেৱল “কিছু ৰচয়িতা সংগীতজ্ঞ” প্ৰতিটো আৰ্হিত সত্য; আন বিকল্পবোৰ অসত্য কৰিব পাৰি।"
     }
   },
   {
@@ -2162,31 +2162,31 @@
   {
     "id": "statement-conclusions-073",
     "q": {
-      "en": "Statements: All engineers are graduates. Some workers are graduates. Which of the following conclusions follows from the statements?",
-      "as": "বিবৃতি: সকলো অভিযন্তা স্নাতক। কিছু কৰ্মী স্নাতক। তলৰ কোনটো সিদ্ধান্ত বিবৃতিবোৰৰ পৰা অনুসৰণ কৰে?"
+      "en": "Statements: All painters are artists. Some sculptors are artists. Which of the following conclusions follows from the statements?",
+      "as": "বিবৃতি: সকলো চিত্ৰশিল্পী শিল্পী। কিছু ভাস্কৰ্যশিল্পী শিল্পী। তলৰ কোনটো সিদ্ধান্ত বিবৃতিবোৰৰ পৰা অনুসৰণ কৰে?"
     },
     "options": [
       {
-        "en": "No engineers are workers",
-        "as": "কোনো অভিযন্তা কৰ্মী নহয়"
+        "en": "No painters are sculptors",
+        "as": "কোনো চিত্ৰশিল্পী ভাস্কৰ্যশিল্পী নহয়"
       },
       {
-        "en": "Some graduates are workers",
-        "as": "কিছু স্নাতক কৰ্মী"
+        "en": "Some artists are sculptors",
+        "as": "কিছু শিল্পী ভাস্কৰ্যশিল্পী"
       },
       {
-        "en": "Some graduates are not workers",
-        "as": "কিছু স্নাতক কৰ্মী নহয়"
+        "en": "Some artists are not sculptors",
+        "as": "কিছু শিল্পী ভাস্কৰ্যশিল্পী নহয়"
       },
       {
-        "en": "Some engineers are not workers",
-        "as": "কিছু অভিযন্তা কৰ্মী নহয়"
+        "en": "Some painters are not sculptors",
+        "as": "কিছু চিত্ৰশিল্পী ভাস্কৰ্যশিল্পী নহয়"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "Only “Some graduates are workers” holds in every model; each other option can be made false.",
-      "as": "কেৱল “কিছু স্নাতক কৰ্মী” প্ৰতিটো মডেলত সত্য; বাকী বিকল্প মিছা কৰিব পাৰি।"
+      "en": "Only “Some artists are sculptors” holds in every model; each other option can be made false.",
+      "as": "কেৱল “কিছু শিল্পী ভাস্কৰ্যশিল্পী” প্ৰতিটো আৰ্হিত সত্য; আন বিকল্পবোৰ অসত্য কৰিব পাৰি।"
     }
   },
   {

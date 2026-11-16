@@ -812,31 +812,31 @@
   {
     "id": "syllogism-028",
     "q": {
-      "en": "Statements: All pens are stationery. All stationery are objects. Which of the following is a possibility (can be true)?",
-      "as": "বিবৃতি: সকলো কলম লেখাসামগ্ৰী। সকলো লেখাসামগ্ৰী বস্তু। তলৰ কোনটো সম্ভৱ (সত্য হ'ব পাৰে)?"
+      "en": "Statements: All chairs are furniture. All furniture are wooden. Which of the following is a possibility (can be true)?",
+      "as": "বিবৃতি: সকলো চকী আচবাব। সকলো আচবাব কাঠৰ। তলৰ কোনটো সম্ভৱ (সত্য হ'ব পাৰে)?"
     },
     "options": [
       {
-        "en": "All objects are stationery",
-        "as": "সকলো বস্তু লেখাসামগ্ৰী"
+        "en": "All wooden things are furniture",
+        "as": "সকলো কাঠৰ বস্তু আচবাব"
       },
       {
-        "en": "No objects are stationery",
-        "as": "কোনো বস্তু লেখাসামগ্ৰী নহয়"
+        "en": "No wooden things are furniture",
+        "as": "কোনো কাঠৰ বস্তু আচবাব নহয়"
       },
       {
-        "en": "Some pens are not stationery",
-        "as": "কিছু কলম লেখাসামগ্ৰী নহয়"
+        "en": "Some chairs are not furniture",
+        "as": "কিছু চকী আচবাব নহয়"
       },
       {
-        "en": "No stationery are objects",
-        "as": "কোনো লেখাসামগ্ৰী বস্তু নহয়"
+        "en": "No furniture are wooden",
+        "as": "কোনো আচবাব কাঠৰ নহয়"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "“All objects are stationery” is consistent with the statements, while every other option is contradicted in all models.",
-      "as": "“সকলো বস্তু লেখাসামগ্ৰী” বিবৃতিসমূহৰ সৈতে সংগত, আনহাতে বাকী প্ৰতিটো বিকল্প প্ৰতিটো মডেলত বিৰোধ।"
+      "en": "“All wooden things are furniture” is consistent with the statements, while every other option is contradicted in all models.",
+      "as": "“সকলো কাঠৰ বস্তু আচবাব” বিবৃতিবোৰৰ সৈতে সংগত, আনহাতে আন প্ৰতিটো বিকল্প প্ৰতিটো আৰ্হিত খণ্ডিত।"
     }
   },
   {
@@ -932,31 +932,31 @@
   {
     "id": "syllogism-032",
     "q": {
-      "en": "Statements: No cars are vehicles. Some vehicles are machines. Therefore:",
-      "as": "বিবৃতি: কোনো গাড়ী যানবাহন নহয়। কিছু যানবাহন যন্ত্ৰ। গতিকে:"
+      "en": "Statements: No reptiles are mammals. Some mammals are aquatic. Therefore:",
+      "as": "বিবৃতি: কোনো সৰীসৃপ স্তন্যপায়ী নহয়। কিছু স্তন্যপায়ী জলজ। গতিকে:"
     },
     "options": [
       {
-        "en": "All vehicles are cars",
-        "as": "সকলো যানবাহন গাড়ী"
+        "en": "All mammals are reptiles",
+        "as": "সকলো স্তন্যপায়ী সৰীসৃপ"
       },
       {
-        "en": "Some vehicles are not cars",
-        "as": "কিছু যানবাহন গাড়ী নহয়"
+        "en": "Some mammals are not reptiles",
+        "as": "কিছু স্তন্যপায়ী সৰীসৃপ নহয়"
       },
       {
-        "en": "All cars are machines",
-        "as": "সকলো গাড়ী যন্ত্ৰ"
+        "en": "All reptiles are aquatic",
+        "as": "সকলো সৰীসৃপ জলজ"
       },
       {
-        "en": "All machines are cars",
-        "as": "সকলো যন্ত্ৰ গাড়ী"
+        "en": "All aquatic are reptiles",
+        "as": "সকলো জলজ সৰীসৃপ"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "Only “Some vehicles are not cars” holds in every model of the statements; each other option can be made false, so it does not follow.",
-      "as": "কেৱল “কিছু যানবাহন গাড়ী নহয়” বিবৃতিসমূহৰ প্ৰতিটো মডেলত সত্য; বাকী বিকল্প মিছা কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
+      "en": "Only “Some mammals are not reptiles” holds in every model of the statements; each other option can be made false, so it does not follow.",
+      "as": "কেৱল “কিছু স্তন্যপায়ী সৰীসৃপ নহয়” বিবৃতিবোৰৰ প্ৰতিটো আৰ্হিত সত্য; আন প্ৰতিটো বিকল্প অসত্য কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
     }
   },
   {
@@ -1052,31 +1052,31 @@
   {
     "id": "syllogism-036",
     "q": {
-      "en": "Statements: All cars are vehicles. No vehicles are machines. All machines are things. Therefore:",
-      "as": "বিবৃতি: সকলো গাড়ী যানবাহন। কোনো যানবাহন যন্ত্ৰ নহয়। সকলো যন্ত্ৰ বস্তু। গতিকে:"
+      "en": "Statements: All sparrows are birds. No birds are reptiles. All reptiles are cold-blooded. Therefore:",
+      "as": "বিবৃতি: সকলো চৰাই পক্ষী। কোনো পক্ষী সৰীসৃপ নহয়। সকলো সৰীসৃপ শীতলৰক্তী। গতিকে:"
     },
     "options": [
       {
-        "en": "No things are machines",
-        "as": "কোনো বস্তু যন্ত্ৰ নহয়"
+        "en": "No cold-blooded are reptiles",
+        "as": "কোনো শীতলৰক্তী সৰীসৃপ নহয়"
       },
       {
-        "en": "No vehicles are cars",
-        "as": "কোনো যানবাহন গাড়ী নহয়"
+        "en": "No birds are sparrows",
+        "as": "কোনো পক্ষী চৰাই নহয়"
       },
       {
-        "en": "Some vehicles are cars",
-        "as": "কিছু যানবাহন গাড়ী"
+        "en": "Some birds are sparrows",
+        "as": "কিছু পক্ষী চৰাই"
       },
       {
-        "en": "Some cars are not vehicles",
-        "as": "কিছু গাড়ী যানবাহন নহয়"
+        "en": "Some sparrows are not birds",
+        "as": "কিছু চৰাই পক্ষী নহয়"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "Only “Some vehicles are cars” holds in every model of the statements; each other option can be made false, so it does not follow.",
-      "as": "কেৱল “কিছু যানবাহন গাড়ী” বিবৃতিসমূহৰ প্ৰতিটো মডেলত সত্য; বাকী বিকল্প মিছা কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
+      "en": "Only “Some birds are sparrows” holds in every model of the statements; each other option can be made false, so it does not follow.",
+      "as": "কেৱল “কিছু পক্ষী চৰাই” বিবৃতিবোৰৰ প্ৰতিটো আৰ্হিত সত্য; আন প্ৰতিটো বিকল্প অসত্য কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
     }
   },
   {
@@ -1772,31 +1772,31 @@
   {
     "id": "syllogism-060",
     "q": {
-      "en": "Statements: All dogs are mammals. All mammals are animals. Therefore:",
-      "as": "বিবৃতি: সকলো কুকুৰ স্তন্যপায়ী। সকলো স্তন্যপায়ী প্ৰাণী। গতিকে:"
+      "en": "Statements: All tigers are carnivores. All carnivores are predators. Therefore:",
+      "as": "বিবৃতি: সকলো বাঘ মাংসভোজী। সকলো মাংসভোজী চিকাৰী। গতিকে:"
     },
     "options": [
       {
-        "en": "Some animals are not mammals",
-        "as": "কিছু প্ৰাণী স্তন্যপায়ী নহয়"
+        "en": "Some predators are not carnivores",
+        "as": "কিছু চিকাৰী মাংসভোজী নহয়"
       },
       {
-        "en": "No animals are mammals",
-        "as": "কোনো প্ৰাণী স্তন্যপায়ী নহয়"
+        "en": "No predators are carnivores",
+        "as": "কোনো চিকাৰী মাংসভোজী নহয়"
       },
       {
-        "en": "Some mammals are dogs",
-        "as": "কিছু স্তন্যপায়ী কুকুৰ"
+        "en": "Some carnivores are tigers",
+        "as": "কিছু মাংসভোজী বাঘ"
       },
       {
-        "en": "Some dogs are not mammals",
-        "as": "কিছু কুকুৰ স্তন্যপায়ী নহয়"
+        "en": "Some tigers are not carnivores",
+        "as": "কিছু বাঘ মাংসভোজী নহয়"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "Only “Some mammals are dogs” holds in every model of the statements; each other option can be made false, so it does not follow.",
-      "as": "কেৱল “কিছু স্তন্যপায়ী কুকুৰ” বিবৃতিসমূহৰ প্ৰতিটো মডেলত সত্য; বাকী বিকল্প মিছা কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
+      "en": "Only “Some carnivores are tigers” holds in every model of the statements; each other option can be made false, so it does not follow.",
+      "as": "কেৱল “কিছু মাংসভোজী বাঘ” বিবৃতিবোৰৰ প্ৰতিটো আৰ্হিত সত্য; আন প্ৰতিটো বিকল্প অসত্য কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
     }
   },
   {
@@ -1832,31 +1832,31 @@
   {
     "id": "syllogism-062",
     "q": {
-      "en": "Statements: All mangoes are fruits. All food are fruits. Therefore:",
-      "as": "বিবৃতি: সকলো আম ফল। সকলো খাদ্য ফল। গতিকে:"
+      "en": "Statements: All oaks are trees. All shrubs are trees. Therefore:",
+      "as": "বিবৃতি: সকলো ওক গছ। সকলো গুল্ম গছ। গতিকে:"
     },
     "options": [
       {
-        "en": "Some food are mangoes",
-        "as": "কিছু খাদ্য আম"
+        "en": "Some shrubs are oaks",
+        "as": "কিছু গুল্ম ওক"
       },
       {
-        "en": "No food are mangoes",
-        "as": "কোনো খাদ্য আম নহয়"
+        "en": "No shrubs are oaks",
+        "as": "কোনো গুল্ম ওক নহয়"
       },
       {
-        "en": "No fruits are mangoes",
-        "as": "কোনো ফল আম নহয়"
+        "en": "No trees are oaks",
+        "as": "কোনো গছ ওক নহয়"
       },
       {
-        "en": "Some food are fruits",
-        "as": "কিছু খাদ্য ফল"
+        "en": "Some shrubs are trees",
+        "as": "কিছু গুল্ম গছ"
       }
     ],
     "correct": 3,
     "explanation": {
-      "en": "Only “Some food are fruits” holds in every model of the statements; each other option can be made false, so it does not follow.",
-      "as": "কেৱল “কিছু খাদ্য ফল” বিবৃতিসমূহৰ প্ৰতিটো মডেলত সত্য; বাকী বিকল্প মিছা কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
+      "en": "Only “Some shrubs are trees” holds in every model of the statements; each other option can be made false, so it does not follow.",
+      "as": "কেৱল “কিছু গুল্ম গছ” বিবৃতিবোৰৰ প্ৰতিটো আৰ্হিত সত্য; আন প্ৰতিটো বিকল্প অসত্য কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
     }
   },
   {
@@ -1892,31 +1892,31 @@
   {
     "id": "syllogism-064",
     "q": {
-      "en": "Statements: Some mangoes are fruits. All fruits are food. Therefore:",
-      "as": "বিবৃতি: কিছু আম ফল। সকলো ফল খাদ্য। গতিকে:"
+      "en": "Statements: Some students are athletes. All athletes are fit. Therefore:",
+      "as": "বিবৃতি: কিছু ছাত্ৰ ক্ৰীড়াবিদ। সকলো ক্ৰীড়াবিদ সাজু। গতিকে:"
     },
     "options": [
       {
-        "en": "No food are mangoes",
-        "as": "কোনো খাদ্য আম নহয়"
+        "en": "No fit are students",
+        "as": "কোনো সাজু ছাত্ৰ নহয়"
       },
       {
-        "en": "Some fruits are mangoes",
-        "as": "কিছু ফল আম"
+        "en": "Some athletes are students",
+        "as": "কিছু ক্ৰীড়াবিদ ছাত্ৰ"
       },
       {
-        "en": "No mangoes are food",
-        "as": "কোনো আম খাদ্য নহয়"
+        "en": "No students are fit",
+        "as": "কোনো ছাত্ৰ সাজু নহয়"
       },
       {
-        "en": "Some fruits are not mangoes",
-        "as": "কিছু ফল আম নহয়"
+        "en": "Some athletes are not students",
+        "as": "কিছু ক্ৰীড়াবিদ ছাত্ৰ নহয়"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "Only “Some fruits are mangoes” holds in every model of the statements; each other option can be made false, so it does not follow.",
-      "as": "কেৱল “কিছু ফল আম” বিবৃতিসমূহৰ প্ৰতিটো মডেলত সত্য; বাকী বিকল্প মিছা কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
+      "en": "Only “Some athletes are students” holds in every model of the statements; each other option can be made false, so it does not follow.",
+      "as": "কেৱল “কিছু ক্ৰীড়াবিদ ছাত্ৰ” বিবৃতিবোৰৰ প্ৰতিটো আৰ্হিত সত্য; আন প্ৰতিটো বিকল্প অসত্য কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
     }
   },
   {
@@ -2042,31 +2042,31 @@
   {
     "id": "syllogism-069",
     "q": {
-      "en": "Statements: All roses are flowers. Some flowers are plants. Therefore:",
-      "as": "বিবৃতি: সকলো গোলাপ ফুল। কিছু ফুল উদ্ভিদ। গতিকে:"
+      "en": "Statements: All whales are mammals. Some mammals are carnivores. Therefore:",
+      "as": "বিবৃতি: সকলো তিমি স্তন্যপায়ী। কিছু স্তন্যপায়ী মাংসভোজী। গতিকে:"
     },
     "options": [
       {
-        "en": "Some roses are flowers",
-        "as": "কিছু গোলাপ ফুল"
+        "en": "Some whales are mammals",
+        "as": "কিছু তিমি স্তন্যপায়ী"
       },
       {
-        "en": "Some plants are not roses",
-        "as": "কিছু উদ্ভিদ গোলাপ নহয়"
+        "en": "Some carnivores are not whales",
+        "as": "কিছু মাংসভোজী তিমি নহয়"
       },
       {
-        "en": "Some flowers are not plants",
-        "as": "কিছু ফুল উদ্ভিদ নহয়"
+        "en": "Some mammals are not carnivores",
+        "as": "কিছু স্তন্যপায়ী মাংসভোজী নহয়"
       },
       {
-        "en": "All flowers are roses",
-        "as": "সকলো ফুল গোলাপ"
+        "en": "All mammals are whales",
+        "as": "সকলো স্তন্যপায়ী তিমি"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Only “Some roses are flowers” holds in every model of the statements; each other option can be made false, so it does not follow.",
-      "as": "কেৱল “কিছু গোলাপ ফুল” বিবৃতিসমূহৰ প্ৰতিটো মডেলত সত্য; বাকী বিকল্প মিছা কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
+      "en": "Only “Some whales are mammals” holds in every model of the statements; each other option can be made false, so it does not follow.",
+      "as": "কেৱল “কিছু তিমি স্তন্যপায়ী” বিবৃতিবোৰৰ প্ৰতিটো আৰ্হিত সত্য; আন প্ৰতিটো বিকল্প অসত্য কৰিব পাৰি, গতিকে অনুসৰণ নকৰে।"
     }
   },
   {

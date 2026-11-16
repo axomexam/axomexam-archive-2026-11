@@ -422,31 +422,31 @@
   {
     "id": "statement-arguments-015",
     "q": {
-      "en": "Statement: Should smoking be banned in all public places? Argument: Yes. It will raise the government's tax collection. The argument is:",
-      "as": "বিবৃতি: সকলো ৰাজহুৱা স্থানত ধূমপান নিষিদ্ধ কৰা উচিত নেকি? যুক্তি: হয়। ই চৰকাৰৰ কৰ সংগ্ৰহ বঢ়াব। যুক্তিটো হ'ল:"
+      "en": "Statement: Should private vehicles be barred from the city centre on weekdays? Argument: Yes. It will reduce the number of vehicles on the roads. The argument is:",
+      "as": "বিবৃতি: কাৰ্যদিনত চহৰৰ কেন্দ্ৰত ব্যক্তিগত যান-বাহন নিষিদ্ধ কৰা উচিত নেকি? যুক্তি: হয়। ই পথত যান-বাহনৰ সংখ্যা কমাব। যুক্তিটো হ'ল:"
     },
     "options": [
       {
-        "en": "It is a weak argument and not relevant to the statement",
-        "as": "ই দুৰ্বল যুক্তি আৰু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "en": "It is a strong argument",
+        "as": "যুক্তিটো সবল"
       },
       {
         "en": "It is a weak argument",
-        "as": "ই এটা দুৰ্বল যুক্তি"
+        "as": "যুক্তিটো দুৰ্বল"
+      },
+      {
+        "en": "It is a weak argument and not relevant to the statement",
+        "as": "যুক্তিটো দুৰ্বল আৰু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       },
       {
         "en": "It is a strong argument but not relevant to the statement",
-        "as": "ই সবল যুক্তি কিন্তু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
-      },
-      {
-        "en": "It is a strong argument",
-        "as": "ই এটা সবল যুক্তি"
+        "as": "যুক্তিটো সবল কিন্তু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The argument is best judged as “It is a weak argument” because it is relevant to the statement but trivial or emotional, not a sound reason.",
-      "as": "যুক্তিটোক “ই এটা দুৰ্বল যুক্তি” হিচাপে বিচাৰ কৰা হয় কাৰণ ই বিবৃতিৰ সৈতে প্ৰাসংগিক কিন্তু তুচ্ছ বা আৱেগিক, সুস্থ কাৰণ নহয়।"
+      "en": "The argument directly addresses the statement and rests on a verifiable fact, so it is strong.",
+      "as": "যুক্তিটোৱে বিবৃতিটোক পোনপটীয়াকৈ সম্বোধন কৰে আৰু এটা প্ৰমাণযোগ্য তথ্যৰ ওপৰত আধাৰিত, গতিকে ই সবল।"
     }
   },
   {
@@ -512,31 +512,31 @@
   {
     "id": "statement-arguments-018",
     "q": {
-      "en": "Statement: Should CCTV cameras be installed in all public buses? Arguments: I. No. Buses have wheels. II. No. It invades the privacy of ordinary passengers. Which of the arguments is strong?",
-      "as": "বিবৃতি: সকলো ৰাজহুৱা বাছত চিচিটিভি কেমেৰা লগোৱা উচিত নেকি? যুক্তি: I. নহয়। বাছৰ চকা আছে। II. নহয়। ই সাধাৰণ যাত্ৰীৰ গোপনীয়তাৰ ওপৰত হস্তক্ষেপ কৰে। কোনটো যুক্তি সবল?"
+      "en": "Statement: Should fees for government schools be waived entirely? Arguments: I. No. Free schooling would strain the state budget. II. Yes. Education is a public good. Which of the arguments is strong?",
+      "as": "বিবৃতি: চৰকাৰী বিদ্যালয়ৰ মাচুল সম্পূৰ্ণৰূপে ৰেহাই দিয়া উচিত নেকি? যুক্তি: I. নহয়। বিনামূলীয়া শিক্ষাই ৰাজ্যৰ বাজেটত হেঁচা পেলাব। II. হয়। শিক্ষা এটা ৰাজহুৱা কল্যাণ। কোনটো যুক্তি সবল?"
     },
     "options": [
-      {
-        "en": "Only argument II is strong",
-        "as": "কেৱল যুক্তি II সবল"
-      },
-      {
-        "en": "Neither argument I nor II is strong",
-        "as": "যুক্তি I আৰু II দুয়োটাই দুৰ্বল"
-      },
       {
         "en": "Only argument I is strong",
         "as": "কেৱল যুক্তি I সবল"
       },
       {
+        "en": "Neither argument I nor II is strong",
+        "as": "যুক্তি I আৰু II কোনোটোৱেই সবল নহয়"
+      },
+      {
         "en": "Both arguments I and II are strong",
-        "as": "যুক্তি I আৰু II দুয়োটাই সবল"
+        "as": "যুক্তি I আৰু II দুয়োটা সবল"
+      },
+      {
+        "en": "Only argument II is strong",
+        "as": "কেৱল যুক্তি II সবল"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
-      "en": "Argument I is weak and argument II is strong; a strong argument is directly relevant and based on fact, a weak one is trivial, emotional or unrelated.",
-      "as": "যুক্তি I দুৰ্বল আৰু যুক্তি II সবল; সবল যুক্তি প্ৰাসংগিক আৰু তথ্যভিত্তিক, দুৰ্বল যুক্তি তুচ্ছ, আৱেগিক বা অসম্পৰ্কিত।"
+      "en": "Argument I cites a factual fiscal limit and argument II rests on a valid principle, so both are strong.",
+      "as": "যুক্তি I এটা তথ্যভিত্তিক ৰাজকোষীয় সীমা দেখুৱায় আৰু যুক্তি II এটা বৈধ নীতিত আধাৰিত, গতিকে দুয়োটা সবল।"
     }
   },
   {
@@ -1052,31 +1052,31 @@
   {
     "id": "statement-arguments-036",
     "q": {
-      "en": "Statement: Should farmers be given a guaranteed minimum price for all crops? Arguments: I. No. Covering every crop is fiscally impossible and distorts the market. II. Yes. It protects farmers from sudden price crashes. Which of the arguments is strong?",
-      "as": "বিবৃতি: খেতিয়কসকলক সকলো শস্যৰ বাবে নিশ্চিত ন্যূনতম মূল্য দিয়া উচিত নেকি? যুক্তি: I. নহয়। প্ৰতিটো শস্য সামৰা ৰাজকোষৰ বাবে অসম্ভৱ আৰু বজাৰ বিকৃত কৰে। II. হয়। ই খেতিয়কসকলক হঠাৎ দাম ধ্বংসৰ পৰা ৰক্ষা কৰে। কোনটো যুক্তি সবল?"
+      "en": "Statement: Should a ban be placed on single-use plastic bags? Arguments: I. No. The alternatives are more expensive. II. Yes. Such bags choke drains and harm animals. Which of the arguments is strong?",
+      "as": "বিবৃতি: একবাৰে ব্যৱহাৰ কৰা প্লাষ্টিকৰ মোনাৰ ওপৰত নিষেধাজ্ঞা আৰোপ কৰা উচিত নেকি? যুক্তি: I. নহয়। বিকল্পবোৰ অধিক ব্যয়বহুল। II. হয়। এনে মোনাই নলা বন্ধ কৰে আৰু জীৱ-জন্তুৰ ক্ষতি কৰে। কোনটো যুক্তি সবল?"
     },
     "options": [
       {
-        "en": "Only argument II is strong",
-        "as": "কেৱল যুক্তি II সবল"
-      },
-      {
-        "en": "Neither argument I nor II is strong",
-        "as": "যুক্তি I আৰু II দুয়োটাই দুৰ্বল"
+        "en": "Only argument I is strong",
+        "as": "কেৱল যুক্তি I সবল"
       },
       {
         "en": "Both arguments I and II are strong",
-        "as": "যুক্তি I আৰু II দুয়োটাই সবল"
+        "as": "যুক্তি I আৰু II দুয়োটা সবল"
       },
       {
-        "en": "Only argument I is strong",
-        "as": "কেৱল যুক্তি I সবল"
+        "en": "Neither argument I nor II is strong",
+        "as": "যুক্তি I আৰু II কোনোটোৱেই সবল নহয়"
+      },
+      {
+        "en": "Only argument II is strong",
+        "as": "কেৱল যুক্তি II সবল"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "en": "Argument I is strong and argument II is strong; a strong argument is directly relevant and based on fact, a weak one is trivial, emotional or unrelated.",
-      "as": "যুক্তি I সবল আৰু যুক্তি II সবল; সবল যুক্তি প্ৰাসংগিক আৰু তথ্যভিত্তিক, দুৰ্বল যুক্তি তুচ্ছ, আৱেগিক বা অসম্পৰ্কিত।"
+      "en": "Argument I raises a real cost concern and argument II a real environmental harm, so both are strong.",
+      "as": "যুক্তি I এটা প্ৰকৃত ব্যয়জনিত চিন্তা আৰু যুক্তি II এটা প্ৰকৃত পৰিৱেশগত ক্ষতি দেখুৱায়, গতিকে দুয়োটা সবল।"
     }
   },
   {
@@ -1232,31 +1232,31 @@
   {
     "id": "statement-arguments-042",
     "q": {
-      "en": "Statement: Should the government subsidise electric vehicles heavily? Argument: No. The subsidy mainly benefits richer buyers who can afford cars. The argument is:",
-      "as": "বিবৃতি: চৰকাৰে বিদ্যুৎচালিত বাহনক ভৰপূৰ ৰাজসাহায্য দিয়া উচিত নেকি? যুক্তি: নহয়। ৰাজসাহায্যই প্ৰধানকৈ কাৰ কিনিব পৰা ধনী গ্ৰাহকসকলক লাভান্বিত কৰে। যুক্তিটো হ'ল:"
+      "en": "Statement: Should a new expressway be built through the forest? Argument: No. It will fragment wildlife habitats and drive away animals. The argument is:",
+      "as": "বিবৃতি: বননিৰ মাজেৰে এটা নতুন দ্ৰুতগামী পথ নিৰ্মাণ কৰা উচিত নেকি? যুক্তি: নহয়। ই বন্যপ্ৰাণীৰ বাসস্থান বিভক্ত কৰিব আৰু জীৱ-জন্তুক আঁতৰাই পেলাব। যুক্তিটো হ'ল:"
     },
     "options": [
       {
-        "en": "It is a strong argument but not relevant to the statement",
-        "as": "ই সবল যুক্তি কিন্তু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
-      },
-      {
         "en": "It is a strong argument",
-        "as": "ই এটা সবল যুক্তি"
-      },
-      {
-        "en": "It is a weak argument and not relevant to the statement",
-        "as": "ই দুৰ্বল যুক্তি আৰু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "as": "যুক্তিটো সবল"
       },
       {
         "en": "It is a weak argument",
-        "as": "ই এটা দুৰ্বল যুক্তি"
+        "as": "যুক্তিটো দুৰ্বল"
+      },
+      {
+        "en": "It is a strong argument but not relevant to the statement",
+        "as": "যুক্তিটো সবল কিন্তু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
+      },
+      {
+        "en": "It is a weak argument and not relevant to the statement",
+        "as": "যুক্তিটো দুৰ্বল আৰু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The argument is best judged as “It is a strong argument” because it is directly relevant to the statement and rests on a verifiable fact.",
-      "as": "যুক্তিটোক “ই এটা সবল যুক্তি” হিচাপে বিচাৰ কৰা হয় কাৰণ ই বিবৃতিৰ সৈতে পোনপটীয়াকৈ প্ৰাসংগিক আৰু এটা প্ৰমাণযোগ্য তথ্যৰ ওপৰত আধাৰিত।"
+      "en": "The argument is relevant and based on a demonstrable harm, so it is strong.",
+      "as": "যুক্তিটো প্ৰাসংগিক আৰু এটা প্ৰমাণযোগ্য ক্ষতিৰ ওপৰত আধাৰিত, গতিকে ই সবল।"
     }
   },
   {
@@ -1412,31 +1412,31 @@
   {
     "id": "statement-arguments-048",
     "q": {
-      "en": "Statement: Should the government subsidise electric vehicles heavily? Argument: Yes. Electric cars are silent. The argument is:",
-      "as": "বিবৃতি: চৰকাৰে বিদ্যুৎচালিত বাহনক ভৰপূৰ ৰাজসাহায্য দিয়া উচিত নেকি? যুক্তি: হয়। বিদ্যুৎচালিত কাৰ নীৰৱ। যুক্তিটো হ'ল:"
+      "en": "Statement: Should mobile phones be banned inside examination halls? Argument: Yes. Mobile phones are expensive to buy. The argument is:",
+      "as": "বিবৃতি: পৰীক্ষা হলৰ ভিতৰত ম'বাইল ফোন নিষিদ্ধ কৰা উচিত নেকি? যুক্তি: হয়। ম'বাইল ফোন কিনিবলৈ ব্যয়বহুল। যুক্তিটো হ'ল:"
     },
     "options": [
       {
+        "en": "It is a weak argument",
+        "as": "যুক্তিটো দুৰ্বল"
+      },
+      {
         "en": "It is a strong argument",
-        "as": "ই এটা সবল যুক্তি"
+        "as": "যুক্তিটো সবল"
       },
       {
         "en": "It is a strong argument but not relevant to the statement",
-        "as": "ই সবল যুক্তি কিন্তু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "as": "যুক্তিটো সবল কিন্তু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       },
       {
         "en": "It is a weak argument and not relevant to the statement",
-        "as": "ই দুৰ্বল যুক্তি আৰু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
-      },
-      {
-        "en": "It is a weak argument",
-        "as": "ই এটা দুৰ্বল যুক্তি"
+        "as": "যুক্তিটো দুৰ্বল আৰু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The argument is best judged as “It is a weak argument” because it is relevant to the statement but trivial or emotional, not a sound reason.",
-      "as": "যুক্তিটোক “ই এটা দুৰ্বল যুক্তি” হিচাপে বিচাৰ কৰা হয় কাৰণ ই বিবৃতিৰ সৈতে প্ৰাসংগিক কিন্তু তুচ্ছ বা আৱেগিক, সুস্থ কাৰণ নহয়।"
+      "en": "The price of a phone is irrelevant to banning it in exams, so the argument is weak.",
+      "as": "ফোনৰ দাম পৰীক্ষাত নিষিদ্ধ কৰাৰ সৈতে অবান্তৰ, গতিকে যুক্তিটো দুৰ্বল।"
     }
   },
   {
@@ -1502,31 +1502,31 @@
   {
     "id": "statement-arguments-051",
     "q": {
-      "en": "Statement: Should physical education be made compulsory in every school? Argument: Yes. Regular exercise improves fitness and concentration. The argument is:",
-      "as": "বিবৃতি: প্ৰতিখন বিদ্যালয়তে শাৰীৰিক শিক্ষা বাধ্যতামূলক কৰা উচিত নেকি? যুক্তি: হয়। নিয়মীয়া ব্যায়ামে সাজুতা আৰু মনোযোগ উন্নত কৰে। যুক্তিটো হ'ল:"
+      "en": "Statement: Should voting be made compulsory in national elections? Argument: Yes. It would raise voter turnout and make outcomes more representative. The argument is:",
+      "as": "বিবৃতি: ৰাষ্ট্ৰীয় নিৰ্বাচনত ভোটদান বাধ্যতামূলক কৰা উচিত নেকি? যুক্তি: হয়। ই ভোটাৰৰ উপস্থিতি বঢ়াব আৰু ফলাফল অধিক প্ৰতিনিধিত্বমূলক কৰিব। যুক্তিটো হ'ল:"
     },
     "options": [
       {
-        "en": "It is a weak argument",
-        "as": "ই এটা দুৰ্বল যুক্তি"
-      },
-      {
         "en": "It is a strong argument",
-        "as": "ই এটা সবল যুক্তি"
+        "as": "যুক্তিটো সবল"
       },
       {
         "en": "It is a weak argument and not relevant to the statement",
-        "as": "ই দুৰ্বল যুক্তি আৰু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "as": "যুক্তিটো দুৰ্বল আৰু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
+      },
+      {
+        "en": "It is a weak argument",
+        "as": "যুক্তিটো দুৰ্বল"
       },
       {
         "en": "It is a strong argument but not relevant to the statement",
-        "as": "ই সবল যুক্তি কিন্তু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "as": "যুক্তিটো সবল কিন্তু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "The argument is best judged as “It is a strong argument” because it is directly relevant to the statement and rests on a verifiable fact.",
-      "as": "যুক্তিটোক “ই এটা সবল যুক্তি” হিচাপে বিচাৰ কৰা হয় কাৰণ ই বিবৃতিৰ সৈতে পোনপটীয়াকৈ প্ৰাসংগিক আৰু এটা প্ৰমাণযোগ্য তথ্যৰ ওপৰত আধাৰিত।"
+      "en": "The argument is relevant and rests on a verifiable effect of compulsory voting, so it is strong.",
+      "as": "যুক্তিটো প্ৰাসংগিক আৰু বাধ্যতামূলক ভোটদানৰ এটা প্ৰমাণযোগ্য প্ৰভাৱৰ ওপৰত আধাৰিত, গতিকে ই সবল।"
     }
   },
   {
@@ -1832,31 +1832,31 @@
   {
     "id": "statement-arguments-062",
     "q": {
-      "en": "Statement: Should students be given free laptops in government colleges? Argument: Yes. It helps students access study material and online courses. The argument is:",
-      "as": "বিবৃতি: চৰকাৰী মহাবিদ্যালয়ৰ ছাত্ৰসকলক বিনামূলীয়া লেপটপ দিয়া উচিত নেকি? যুক্তি: হয়। ই ছাত্ৰসকলক পঢ়াৰ সামগ্ৰী আৰু অনলাইন পাঠ্যক্ৰম পাবলৈ সহায় কৰে। যুক্তিটো হ'ল:"
+      "en": "Statement: Should the retirement age in government service be raised? Argument: Yes. It would let experienced officers serve longer. The argument is:",
+      "as": "বিবৃতি: চৰকাৰী চাকৰিত অৱসৰৰ বয়স বঢ়োৱা উচিত নেকি? যুক্তি: হয়। ই অভিজ্ঞ বিষয়াসকলক অধিক দিন সেৱা কৰিবলৈ দিব। যুক্তিটো হ'ল:"
     },
     "options": [
       {
         "en": "It is a strong argument",
-        "as": "ই এটা সবল যুক্তি"
-      },
-      {
-        "en": "It is a weak argument and not relevant to the statement",
-        "as": "ই দুৰ্বল যুক্তি আৰু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
-      },
-      {
-        "en": "It is a strong argument but not relevant to the statement",
-        "as": "ই সবল যুক্তি কিন্তু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "as": "যুক্তিটো সবল"
       },
       {
         "en": "It is a weak argument",
-        "as": "ই এটা দুৰ্বল যুক্তি"
+        "as": "যুক্তিটো দুৰ্বল"
+      },
+      {
+        "en": "It is a strong argument but not relevant to the statement",
+        "as": "যুক্তিটো সবল কিন্তু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
+      },
+      {
+        "en": "It is a weak argument and not relevant to the statement",
+        "as": "যুক্তিটো দুৰ্বল আৰু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The argument is best judged as “It is a strong argument” because it is directly relevant to the statement and rests on a verifiable fact.",
-      "as": "যুক্তিটোক “ই এটা সবল যুক্তি” হিচাপে বিচাৰ কৰা হয় কাৰণ ই বিবৃতিৰ সৈতে পোনপটীয়াকৈ প্ৰাসংগিক আৰু এটা প্ৰমাণযোগ্য তথ্যৰ ওপৰত আধাৰিত।"
+      "en": "The argument is directly relevant and based on a real benefit, so it is strong.",
+      "as": "যুক্তিটো পোনপটীয়াকৈ প্ৰাসংগিক আৰু এটা প্ৰকৃত লাভৰ ওপৰত আধাৰিত, গতিকে ই সবল।"
     }
   },
   {
@@ -1982,31 +1982,31 @@
   {
     "id": "statement-arguments-067",
     "q": {
-      "en": "Statement: Should students be given free laptops in government colleges? Argument: Yes. It helps students access study material and online courses. The argument is:",
-      "as": "বিবৃতি: চৰকাৰী মহাবিদ্যালয়ৰ ছাত্ৰসকলক বিনামূলীয়া লেপটপ দিয়া উচিত নেকি? যুক্তি: হয়। ই ছাত্ৰসকলক পঢ়াৰ সামগ্ৰী আৰু অনলাইন পাঠ্যক্ৰম পাবলৈ সহায় কৰে। যুক্তিটো হ'ল:"
+      "en": "Statement: Should organ donation be made mandatory after death? Argument: Yes. It would greatly increase the supply of organs. The argument is:",
+      "as": "বিবৃতি: মৃত্যুৰ পিছত অংগদান বাধ্যতামূলক কৰা উচিত নেকি? যুক্তি: হয়। ই অংগৰ যোগান বহু পৰিমাণে বঢ়াব। যুক্তিটো হ'ল:"
     },
     "options": [
       {
-        "en": "It is a strong argument but not relevant to the statement",
-        "as": "ই সবল যুক্তি কিন্তু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "en": "It is a strong argument",
+        "as": "যুক্তিটো সবল"
       },
       {
         "en": "It is a weak argument",
-        "as": "ই এটা দুৰ্বল যুক্তি"
+        "as": "যুক্তিটো দুৰ্বল"
       },
       {
         "en": "It is a weak argument and not relevant to the statement",
-        "as": "ই দুৰ্বল যুক্তি আৰু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "as": "যুক্তিটো দুৰ্বল আৰু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       },
       {
-        "en": "It is a strong argument",
-        "as": "ই এটা সবল যুক্তি"
+        "en": "It is a strong argument but not relevant to the statement",
+        "as": "যুক্তিটো সবল কিন্তু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The argument is best judged as “It is a strong argument” because it is directly relevant to the statement and rests on a verifiable fact.",
-      "as": "যুক্তিটোক “ই এটা সবল যুক্তি” হিচাপে বিচাৰ কৰা হয় কাৰণ ই বিবৃতিৰ সৈতে পোনপটীয়াকৈ প্ৰাসংগিক আৰু এটা প্ৰমাণযোগ্য তথ্যৰ ওপৰত আধাৰিত।"
+      "en": "The argument is relevant and based on a verifiable consequence, so it is strong.",
+      "as": "যুক্তিটো প্ৰাসংগিক আৰু এটা প্ৰমাণযোগ্য পৰিণামৰ ওপৰত আধাৰিত, গতিকে ই সবল।"
     }
   },
   {
@@ -2042,31 +2042,31 @@
   {
     "id": "statement-arguments-069",
     "q": {
-      "en": "Statement: Should smoking be banned in all public places? Argument: Yes. It will raise the government's tax collection. The argument is:",
-      "as": "বিবৃতি: সকলো ৰাজহুৱা স্থানত ধূমপান নিষিদ্ধ কৰা উচিত নেকি? যুক্তি: হয়। ই চৰকাৰৰ কৰ সংগ্ৰহ বঢ়াব। যুক্তিটো হ'ল:"
+      "en": "Statement: Should junk food be banned in school canteens? Argument: Yes. It will promote healthier eating habits among children. The argument is:",
+      "as": "বিবৃতি: বিদ্যালয়ৰ কেণ্টিনত জাংক ফুড নিষিদ্ধ কৰা উচিত নেকি? যুক্তি: হয়। ই শিশুসকলৰ মাজত স্বাস্থ্যকৰ খাদ্যাভ্যাস গঢ়ি তুলিব। যুক্তিটো হ'ল:"
     },
     "options": [
       {
-        "en": "It is a weak argument",
-        "as": "ই এটা দুৰ্বল যুক্তি"
+        "en": "It is a strong argument",
+        "as": "যুক্তিটো সবল"
       },
       {
         "en": "It is a strong argument but not relevant to the statement",
-        "as": "ই সবল যুক্তি কিন্তু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
-      },
-      {
-        "en": "It is a strong argument",
-        "as": "ই এটা সবল যুক্তি"
+        "as": "যুক্তিটো সবল কিন্তু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       },
       {
         "en": "It is a weak argument and not relevant to the statement",
-        "as": "ই দুৰ্বল যুক্তি আৰু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "as": "যুক্তিটো দুৰ্বল আৰু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
+      },
+      {
+        "en": "It is a weak argument",
+        "as": "যুক্তিটো দুৰ্বল"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The argument is best judged as “It is a weak argument” because it is relevant to the statement but trivial or emotional, not a sound reason.",
-      "as": "যুক্তিটোক “ই এটা দুৰ্বল যুক্তি” হিচাপে বিচাৰ কৰা হয় কাৰণ ই বিবৃতিৰ সৈতে প্ৰাসংগিক কিন্তু তুচ্ছ বা আৱেগিক, সুস্থ কাৰণ নহয়।"
+      "en": "The argument is directly relevant to the statement and rests on a verifiable benefit, so it is strong.",
+      "as": "যুক্তিটো বিবৃতিটোৰ সৈতে পোনপটীয়াকৈ প্ৰাসংগিক আৰু এটা প্ৰমাণযোগ্য লাভৰ ওপৰত আধাৰিত, গতিকে ই সবল।"
     }
   },
   {
@@ -2162,31 +2162,31 @@
   {
     "id": "statement-arguments-073",
     "q": {
-      "en": "Statement: Should work from home be made a permanent option in offices? Argument: Yes. Homes are usually comfortable. The argument is:",
-      "as": "বিবৃতি: কাৰ্যালয়ত ঘৰৰ পৰা কাম কৰা স্থায়ী বিকল্প কৰা উচিত নেকি? যুক্তি: হয়। ঘৰ সাধাৰণতে আৰামদায়ক। যুক্তিটো হ'ল:"
+      "en": "Statement: Should the use of loudspeakers at religious events be restricted at night? Argument: Yes. Loud noise at night disturbs the sleep of residents. The argument is:",
+      "as": "বিবৃতি: ধৰ্মীয় অনুষ্ঠানত ৰাতি লাউডস্পীকাৰৰ ব্যৱহাৰ সীমিত কৰা উচিত নেকি? যুক্তি: হয়। ৰাতি উচ্চ শব্দে বাসিন্দাসকলৰ টোপনি বিঘ্নিত কৰে। যুক্তিটো হ'ল:"
     },
     "options": [
       {
-        "en": "It is a weak argument",
-        "as": "ই এটা দুৰ্বল যুক্তি"
-      },
-      {
         "en": "It is a strong argument",
-        "as": "ই এটা সবল যুক্তি"
+        "as": "যুক্তিটো সবল"
       },
       {
-        "en": "It is a strong argument but not relevant to the statement",
-        "as": "ই সবল যুক্তি কিন্তু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "en": "It is a weak argument",
+        "as": "যুক্তিটো দুৰ্বল"
       },
       {
         "en": "It is a weak argument and not relevant to the statement",
-        "as": "ই দুৰ্বল যুক্তি আৰু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "as": "যুক্তিটো দুৰ্বল আৰু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
+      },
+      {
+        "en": "It is a strong argument but not relevant to the statement",
+        "as": "যুক্তিটো সবল কিন্তু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The argument is best judged as “It is a weak argument” because it is relevant to the statement but trivial or emotional, not a sound reason.",
-      "as": "যুক্তিটোক “ই এটা দুৰ্বল যুক্তি” হিচাপে বিচাৰ কৰা হয় কাৰণ ই বিবৃতিৰ সৈতে প্ৰাসংগিক কিন্তু তুচ্ছ বা আৱেগিক, সুস্থ কাৰণ নহয়।"
+      "en": "The argument is relevant and based on a demonstrable public nuisance, so it is strong.",
+      "as": "যুক্তিটো প্ৰাসংগিক আৰু এটা প্ৰমাণযোগ্য ৰাজহুৱা উপদ্ৰৱৰ ওপৰত আধাৰিত, গতিকে ই সবল।"
     }
   },
   {
@@ -2312,61 +2312,61 @@
   {
     "id": "statement-arguments-078",
     "q": {
-      "en": "Statement: Should social media be banned for children below sixteen? Arguments: I. Yes. Early social media use is linked to anxiety and poor sleep. II. No. It is hard to enforce and may push children to use it secretly. Which of the arguments is strong?",
-      "as": "বিবৃতি: ষোল্ল বছৰৰ তলৰ শিশুৰ বাবে ছ'চিয়েল মিডিয়া নিষিদ্ধ কৰা উচিত নেকি? যুক্তি: I. হয়। সৰুতে ছ'চিয়েল মিডিয়া ব্যৱহাৰ উদ্বেগ আৰু কম টোপনিৰ সৈতে জড়িত। II. নহয়। ই বলৱৎ কৰা কঠিন আৰু শিশুক গোপনে ব্যৱহাৰলৈ ঠেলি দিব পাৰে। কোনটো যুক্তি সবল?"
+      "en": "Statement: Should plastic packaging be taxed to cut waste? Arguments: I. Yes. A tax discourages over-packaging and funds recycling. II. No. It raises prices for ordinary consumers. Which of the arguments is strong?",
+      "as": "বিবৃতি: আৱৰ্জনা কমাবলৈ প্লাষ্টিক পেকেজিঙৰ ওপৰত কৰ আৰোপ কৰা উচিত নেকি? যুক্তি: I. হয়। কৰে অতি-পেকেজিং নিৰুৎসাহিত কৰে আৰু পুনৰ্ব্যৱহাৰলৈ ধন যোগায়। II. নহয়। ই সাধাৰণ গ্ৰাহকৰ বাবে দাম বঢ়ায়। কোনটো যুক্তি সবল?"
     },
     "options": [
       {
-        "en": "Only argument II is strong",
-        "as": "কেৱল যুক্তি II সবল"
+        "en": "Both arguments I and II are strong",
+        "as": "যুক্তি I আৰু II দুয়োটা সবল"
       },
       {
         "en": "Neither argument I nor II is strong",
-        "as": "যুক্তি I আৰু II দুয়োটাই দুৰ্বল"
+        "as": "যুক্তি I আৰু II কোনোটোৱেই সবল নহয়"
       },
       {
         "en": "Only argument I is strong",
         "as": "কেৱল যুক্তি I সবল"
       },
       {
-        "en": "Both arguments I and II are strong",
-        "as": "যুক্তি I আৰু II দুয়োটাই সবল"
+        "en": "Only argument II is strong",
+        "as": "কেৱল যুক্তি II সবল"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "Argument I is strong and argument II is strong; a strong argument is directly relevant and based on fact, a weak one is trivial, emotional or unrelated.",
-      "as": "যুক্তি I সবল আৰু যুক্তি II সবল; সবল যুক্তি প্ৰাসংগিক আৰু তথ্যভিত্তিক, দুৰ্বল যুক্তি তুচ্ছ, আৱেগিক বা অসম্পৰ্কিত।"
+      "en": "Argument I cites a verifiable benefit and argument II a real cost to consumers, so both are strong.",
+      "as": "যুক্তি I এটা প্ৰমাণযোগ্য লাভ আৰু যুক্তি II গ্ৰাহকৰ এটা প্ৰকৃত ব্যয় দেখুৱায়, গতিকে দুয়োটা সবল।"
     }
   },
   {
     "id": "statement-arguments-079",
     "q": {
-      "en": "Statement: Should physical education be made compulsory in every school? Argument: Yes. Regular exercise improves fitness and concentration. The argument is:",
-      "as": "বিবৃতি: প্ৰতিখন বিদ্যালয়তে শাৰীৰিক শিক্ষা বাধ্যতামূলক কৰা উচিত নেকি? যুক্তি: হয়। নিয়মীয়া ব্যায়ামে সাজুতা আৰু মনোযোগ উন্নত কৰে। যুক্তিটো হ'ল:"
+      "en": "Statement: Should a cap be set on the number of private colleges? Argument: No. It would limit choice for students. The argument is:",
+      "as": "বিবৃতি: ব্যক্তিগত মহাবিদ্যালয়ৰ সংখ্যাৰ ওপৰত এটা সীমা নিৰ্ধাৰণ কৰা উচিত নেকি? যুক্তি: নহয়। ই ছাত্ৰসকলৰ বাবে বিকল্প সীমিত কৰিব। যুক্তিটো হ'ল:"
     },
     "options": [
       {
-        "en": "It is a strong argument but not relevant to the statement",
-        "as": "ই সবল যুক্তি কিন্তু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "en": "It is a strong argument",
+        "as": "যুক্তিটো সবল"
       },
       {
         "en": "It is a weak argument and not relevant to the statement",
-        "as": "ই দুৰ্বল যুক্তি আৰু বিবৃতিৰ সৈতে অপ্ৰাসংগিক"
+        "as": "যুক্তিটো দুৰ্বল আৰু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       },
       {
         "en": "It is a weak argument",
-        "as": "ই এটা দুৰ্বল যুক্তি"
+        "as": "যুক্তিটো দুৰ্বল"
       },
       {
-        "en": "It is a strong argument",
-        "as": "ই এটা সবল যুক্তি"
+        "en": "It is a strong argument but not relevant to the statement",
+        "as": "যুক্তিটো সবল কিন্তু বিবৃতিটোৰ সৈতে সম্পৰ্কহীন"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "en": "The argument is best judged as “It is a strong argument” because it is directly relevant to the statement and rests on a verifiable fact.",
-      "as": "যুক্তিটোক “ই এটা সবল যুক্তি” হিচাপে বিচাৰ কৰা হয় কাৰণ ই বিবৃতিৰ সৈতে পোনপটীয়াকৈ প্ৰাসংগিক আৰু এটা প্ৰমাণযোগ্য তথ্যৰ ওপৰত আধাৰিত।"
+      "en": "The argument is relevant and based on a verifiable effect on students, so it is strong.",
+      "as": "যুক্তিটো প্ৰাসংগিক আৰু ছাত্ৰসকলৰ ওপৰত এটা প্ৰমাণযোগ্য প্ৰভাৱৰ ওপৰত আধাৰিত, গতিকে ই সবল।"
     }
   },
   {

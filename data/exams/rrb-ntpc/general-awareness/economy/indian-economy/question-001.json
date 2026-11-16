@@ -11252,31 +11252,31 @@
   {
     "id": "indian-economy-376",
     "q": {
-      "en": "Which of the following is a revenue receipt for the government?",
-      "as": "তলৰ কোনটো চৰকাৰৰ বাবে এটা ৰাজহ প্ৰাপ্তি?"
+      "en": "Identify the item below that the government treats as a revenue receipt.",
+      "as": "তলৰ কোনটো বস্তু চৰকাৰে এটা ৰাজহ প্ৰাপ্তি হিচাপে গণ্য কৰে?"
     },
     "options": [
       {
-        "en": "Borrowings",
-        "as": "ধাৰ লোৱা"
+        "en": "Market borrowings",
+        "as": "বজাৰৰ ঋণ"
       },
       {
-        "en": "Recoveries of loans",
-        "as": "ঋণ উদ্ধাৰ"
+        "en": "Recovery of loans given",
+        "as": "দিয়া ঋণৰ আদায়"
       },
       {
-        "en": "Tax receipts",
-        "as": "কৰ প্ৰাপ্তি"
+        "en": "Receipts from taxes",
+        "as": "কৰৰ পৰা পোৱা প্ৰাপ্তি"
       },
       {
-        "en": "Disinvestment receipts",
-        "as": "বিনিয়োগ হ্ৰাস প্ৰাপ্তি"
+        "en": "Disinvestment proceeds",
+        "as": "বিনিয়োগ হ্ৰাসৰ পৰা পোৱা ধন"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "Revenue receipts such as taxes and fees do not create a liability or reduce an asset.",
-      "as": "কৰ আৰু মাচুলৰ দৰে ৰাজহ প্ৰাপ্তিয়ে দায় সৃষ্টি নকৰে বা সম্পত্তি কমাব নোৱাৰে।"
+      "en": "Taxes are revenue receipts: they create no liability and reduce no asset of the government.",
+      "as": "কৰবোৰ ৰাজহ প্ৰাপ্তি: ই কোনো দায় সৃষ্টি নকৰে আৰু চৰকাৰৰ কোনো সম্পত্তি হ্ৰাস নকৰে।"
     }
   },
   {

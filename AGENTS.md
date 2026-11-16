@@ -2138,3 +2138,50 @@ What was done, so the next agent does not redo or undo it:
   explanations, unique ids; all three EN+AS pages show 70 questions, 70
   `nv-media` figures, `index, follow` and the article panel. The RRB NTPC
   reasoning stub set is now empty.
+
+## Session record — Nov 2026 RRB NTPC final pre-ship audit (answer-key skew + duplicate stems)
+
+A full audit of the RRB NTPC book/site before shipping found two real defects
+and fixed both. Everything else was already clean.
+
+**Defect 1 — four mathematics topics had 100% option-A answer keys.**
+`balance-answer-keys.js --check` reported `coordinate-geometry`,
+`elementary-algebra`, `geometry` and `trigonometry` each `n=80` with
+`A/B/C/D = 80/0/0/0`. These are hand-committed banks, so the tool had never
+touched them (it only balances generator-backed banks at build time). Fixed by
+running `node tools/balance-answer-keys.js --book rrb-ntpc --topic
+mathematics/<topic>` on each; all four now read `20/20/20/20`. The tool rotates
+the option array in place, so the *correct option text* is preserved and only
+its position moves — verified for all 320 questions (0 mismatches, option sets
+unchanged). `balance-answer-keys.js --book rrb-ntpc --check` now reports 0
+skewed topics.
+
+**Defect 2 — 34 duplicate stems (exact), all pre-existing.** Introduced by the
+reasoning batches in commits `47414042` and `90dd98f4`, e.g.
+`cause-effect-001 == cause-effect-004`, `statement-arguments-011 == 015 == 069`,
+`indian-economy-375 == 376`. Per the standing "never repeat wording" rule each
+duplicate was reworded (English *and* Assamese together, same question type and
+same option logic, new scenario/wording), keeping `correct` pointing at the
+same option text. After the pass: 0 exact duplicate stems/options and 0
+cross-bank collisions against all of `data/` (EN and AS). The only remaining
+intra-bank duplicate stems are the 29 all-figure non-verbal items, which are
+the same shared template with different `fig` SVG — the accepted norm for figure
+questions.
+
+**Build + verification.** Ran the full documented chain
+(`build-question-counts.js` → `build-rrb-ntpc-pages.js` → `rrb-ntpc.ga-extra.js`
+→ `enrich-thin-pages.js` → `apply-keyword-map.js --only-prefix
+exams/rrb-ntpc/` → `build-as-twins.js --prefix exams/rrb-ntpc` →
+`seo-indexing-fix.js` → `scripts/inject-ga.js .` → `strip-adsense-from-as.js` →
+`fix-duplicate-doctype.js`). Diff is exactly the 10 affected topics (10 EN + 10
+AS pages + 10 banks + `data/counts.json`); a second full run is byte-identical
+except `counts.json`'s `generatedAt`. `seo-audit.js` stays clean (1321 pages,
+sitemap 2584, thin 0, missing H1/desc/canonical/JSON-LD 0, dup titles/H1/desc
+0, title/desc limits 0); `rrb-ntpc.ga-extra-check.js` reports 0 failing the
+1300-word floor. The four maths pages now render `20/20/20/20` answer letters.
+
+**Gotcha re-confirmed.** `build-rrb-ntpc-pages.js` writes *raw* head tags
+(no hreflang, plain title). Running it alone and committing overwrites the
+SEO-enriched pages — the later chain steps (`apply-keyword-map`,
+`build-as-twins`, `seo-indexing-fix`) restore the good markup. Always run the
+whole chain, never the page builder by itself.

@@ -7,10 +7,6 @@
     },
     "options": [
       {
-        "en": "180°",
-        "as": "১৮০°"
-      },
-      {
         "en": "360°",
         "as": "৩৬০°"
       },
@@ -19,11 +15,15 @@
         "as": "২৭০°"
       },
       {
+        "en": "180°",
+        "as": "১৮০°"
+      },
+      {
         "en": "90°",
         "as": "৯০°"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The three interior angles of any triangle always add up to 180°.",
       "as": "যিকোনো ত্ৰিভুজৰ তিনিটা অন্তঃকোণৰ যোগফল সদায় ১৮০°।"
@@ -37,10 +37,6 @@
     },
     "options": [
       {
-        "en": "60°",
-        "as": "৬০°"
-      },
-      {
         "en": "45°",
         "as": "৪৫°"
       },
@@ -51,9 +47,13 @@
       {
         "en": "30°",
         "as": "৩০°"
+      },
+      {
+        "en": "60°",
+        "as": "৬০°"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "180 ÷ 3 = 60°.",
       "as": "১৮০ ÷ ৩ = ৬০°।"
@@ -67,10 +67,6 @@
     },
     "options": [
       {
-        "en": "70°",
-        "as": "৭০°"
-      },
-      {
         "en": "60°",
         "as": "৬০°"
       },
@@ -79,11 +75,15 @@
         "as": "৮০°"
       },
       {
+        "en": "70°",
+        "as": "৭০°"
+      },
+      {
         "en": "90°",
         "as": "৯০°"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "180 − (50 + 60) = 70°.",
       "as": "১৮০ − (৫০ + ৬০) = ৭০°।"
@@ -97,10 +97,6 @@
     },
     "options": [
       {
-        "en": "the sum of the two interior opposite angles",
-        "as": "the sum of the two interior opposite angles"
-      },
-      {
         "en": "the difference of the two interior opposite angles",
         "as": "the difference of the two interior opposite angles"
       },
@@ -111,9 +107,13 @@
       {
         "en": "the third interior angle",
         "as": "the third interior angle"
+      },
+      {
+        "en": "the sum of the two interior opposite angles",
+        "as": "the sum of the two interior opposite angles"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The exterior angle of a triangle is the sum of the two interior opposite angles.",
       "as": "ত্ৰিভুজৰ বহিঃকোণ দুটা অন্তঃ বিপৰীত কোণৰ যোগফলৰ সমান।"
@@ -127,10 +127,6 @@
     },
     "options": [
       {
-        "en": "complementary",
-        "as": "complementary"
-      },
-      {
         "en": "supplementary",
         "as": "supplementary"
       },
@@ -139,11 +135,15 @@
         "as": "equal"
       },
       {
+        "en": "complementary",
+        "as": "complementary"
+      },
+      {
         "en": "obtuse",
         "as": "obtuse"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "In a right triangle the two acute angles add up to 90°, so they are complementary.",
       "as": "সমকোণী ত্ৰিভুজত দুটা সূক্ষ্মকোণ যোগ হৈ ৯০° হয়, গতিকে সিহঁত পূৰক।"
@@ -187,12 +187,12 @@
     },
     "options": [
       {
-        "en": "13 cm",
-        "as": "১৩ cm"
-      },
-      {
         "en": "17 cm",
         "as": "১৭ cm"
+      },
+      {
+        "en": "13 cm",
+        "as": "১৩ cm"
       },
       {
         "en": "15 cm",
@@ -203,7 +203,7 @@
         "as": "১১ cm"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "√(25 + 144) = √169 = 13 cm.",
       "as": "√(২৫ + ১৪৪) = √১৬৯ = ১৩ ছে.মি.।"
@@ -217,10 +217,6 @@
     },
     "options": [
       {
-        "en": "17 cm",
-        "as": "১৭ cm"
-      },
-      {
         "en": "23 cm",
         "as": "২৩ cm"
       },
@@ -229,11 +225,15 @@
         "as": "১৯ cm"
       },
       {
+        "en": "17 cm",
+        "as": "১৭ cm"
+      },
+      {
         "en": "21 cm",
         "as": "২১ cm"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "√(64 + 225) = √289 = 17 cm.",
       "as": "√(৬৪ + ২২৫) = √২৮৯ = ১৭ ছে.মি.।"
@@ -277,12 +277,12 @@
     },
     "options": [
       {
-        "en": "15 cm",
-        "as": "১৫ cm"
-      },
-      {
         "en": "21 cm",
         "as": "২১ cm"
+      },
+      {
+        "en": "15 cm",
+        "as": "১৫ cm"
       },
       {
         "en": "17 cm",
@@ -293,7 +293,7 @@
         "as": "১৩ cm"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "√(81 + 144) = √225 = 15 cm.",
       "as": "√(৮১ + ১৪৪) = √২২৫ = ১৫ ছে.মি.।"
@@ -307,10 +307,6 @@
     },
     "options": [
       {
-        "en": "30 cm²",
-        "as": "৩০ cm²"
-      },
-      {
         "en": "60 cm²",
         "as": "৬০ cm²"
       },
@@ -319,11 +315,15 @@
         "as": "১৬ cm²"
       },
       {
+        "en": "30 cm²",
+        "as": "৩০ cm²"
+      },
+      {
         "en": "20 cm²",
         "as": "২০ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Area = (1/2) × 10 × 6 = 30 cm².",
       "as": "কালি = (১/২) × ১০ × ৬ = ৩০ ছে.মি.²।"
@@ -367,12 +367,12 @@
     },
     "options": [
       {
-        "en": "9√3 cm²",
-        "as": "৯√৩ cm²"
-      },
-      {
         "en": "18 cm²",
         "as": "১৮ cm²"
+      },
+      {
+        "en": "9√3 cm²",
+        "as": "৯√৩ cm²"
       },
       {
         "en": "36√3 cm²",
@@ -383,7 +383,7 @@
         "as": "৬√৩ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Area = (√3/4) × 6² = (√3/4) × 36 = 9√3 cm².",
       "as": "কালি = (√৩/৪) × ৬² = (√৩/৪) × ৩৬ = ৯√৩ ছে.মি.²।"
@@ -427,10 +427,6 @@
     },
     "options": [
       {
-        "en": "16√3 cm²",
-        "as": "১৬√৩ cm²"
-      },
-      {
         "en": "32 cm²",
         "as": "৩২ cm²"
       },
@@ -441,9 +437,13 @@
       {
         "en": "8√3 cm²",
         "as": "৮√৩ cm²"
+      },
+      {
+        "en": "16√3 cm²",
+        "as": "১৬√৩ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "(√3/4) × 64 = 16√3 cm².",
       "as": "(√৩/৪) × ৬৪ = ১৬√৩ ছে.মি.²।"
@@ -457,12 +457,12 @@
     },
     "options": [
       {
-        "en": "360°",
-        "as": "৩৬০°"
-      },
-      {
         "en": "180°",
         "as": "১৮০°"
+      },
+      {
+        "en": "360°",
+        "as": "৩৬০°"
       },
       {
         "en": "540°",
@@ -473,7 +473,7 @@
         "as": "২৭০°"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The interior angles of a quadrilateral add up to 360°.",
       "as": "চতুৰ্ভুজৰ অন্তঃকোণবোৰ যোগ হৈ ৩৬০° হয়।"
@@ -517,10 +517,6 @@
     },
     "options": [
       {
-        "en": "108°",
-        "as": "১০৮°"
-      },
-      {
         "en": "120°",
         "as": "১২০°"
       },
@@ -531,9 +527,13 @@
       {
         "en": "135°",
         "as": "১৩৫°"
+      },
+      {
+        "en": "108°",
+        "as": "১০৮°"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "(5 − 2) × 180 ÷ 5 = 108°.",
       "as": "(৫ − ২) × ১৮০ ÷ ৫ = ১০৮°।"
@@ -547,10 +547,6 @@
     },
     "options": [
       {
-        "en": "135°",
-        "as": "১৩৫°"
-      },
-      {
         "en": "120°",
         "as": "১২০°"
       },
@@ -559,11 +555,15 @@
         "as": "১৪৪°"
       },
       {
+        "en": "135°",
+        "as": "১৩৫°"
+      },
+      {
         "en": "150°",
         "as": "১৫০°"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "(8 − 2) × 180 ÷ 8 = 135°.",
       "as": "(৮ − ২) × ১৮০ ÷ ৮ = ১৩৫°।"
@@ -577,10 +577,6 @@
     },
     "options": [
       {
-        "en": "60°",
-        "as": "৬০°"
-      },
-      {
         "en": "72°",
         "as": "৭২°"
       },
@@ -589,11 +585,15 @@
         "as": "৪৫°"
       },
       {
+        "en": "60°",
+        "as": "৬০°"
+      },
+      {
         "en": "30°",
         "as": "৩০°"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Each exterior angle = 360 ÷ 6 = 60°.",
       "as": "প্ৰতিটো বহিঃকোণ = ৩৬০ ÷ ৬ = ৬০°।"
@@ -607,10 +607,6 @@
     },
     "options": [
       {
-        "en": "72°",
-        "as": "৭২°"
-      },
-      {
         "en": "60°",
         "as": "৬০°"
       },
@@ -619,11 +615,15 @@
         "as": "১০৮°"
       },
       {
+        "en": "72°",
+        "as": "৭২°"
+      },
+      {
         "en": "90°",
         "as": "৯০°"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "360 ÷ 5 = 72°.",
       "as": "৩৬০ ÷ ৫ = ৭২°।"
@@ -637,12 +637,12 @@
     },
     "options": [
       {
-        "en": "8",
-        "as": "৮"
-      },
-      {
         "en": "6",
         "as": "৬"
+      },
+      {
+        "en": "8",
+        "as": "৮"
       },
       {
         "en": "10",
@@ -653,7 +653,7 @@
         "as": "১২"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Number of sides = 360 ÷ 45 = 8.",
       "as": "বাহুৰ সংখ্যা = ৩৬০ ÷ ৪৫ = ৮।"
@@ -667,10 +667,6 @@
     },
     "options": [
       {
-        "en": "9",
-        "as": "৯"
-      },
-      {
         "en": "8",
         "as": "৮"
       },
@@ -681,9 +677,13 @@
       {
         "en": "12",
         "as": "১২"
+      },
+      {
+        "en": "9",
+        "as": "৯"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "360 ÷ 40 = 9.",
       "as": "৩৬০ ÷ ৪০ = ৯।"
@@ -847,10 +847,6 @@
     },
     "options": [
       {
-        "en": "36 cm",
-        "as": "৩৬ cm"
-      },
-      {
         "en": "81 cm",
         "as": "৮১ cm"
       },
@@ -861,9 +857,13 @@
       {
         "en": "45 cm",
         "as": "৪৫ cm"
+      },
+      {
+        "en": "36 cm",
+        "as": "৩৬ cm"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Perimeter = 4 × 9 = 36 cm.",
       "as": "পৰিসীমা = ৪ × ৯ = ৩৬ ছে.মি.।"
@@ -877,12 +877,12 @@
     },
     "options": [
       {
-        "en": "144 cm²",
-        "as": "১৪৪ cm²"
-      },
-      {
         "en": "48 cm²",
         "as": "৪৮ cm²"
+      },
+      {
+        "en": "144 cm²",
+        "as": "১৪৪ cm²"
       },
       {
         "en": "24 cm²",
@@ -893,7 +893,7 @@
         "as": "১৬৯ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Area = 12² = 144 cm².",
       "as": "কালি = ১২² = ১৪৪ ছে.মি.²।"
@@ -907,12 +907,12 @@
     },
     "options": [
       {
-        "en": "6√2 cm",
-        "as": "৬√২ cm"
-      },
-      {
         "en": "12 cm",
         "as": "১২ cm"
+      },
+      {
+        "en": "6√2 cm",
+        "as": "৬√২ cm"
       },
       {
         "en": "3√2 cm",
@@ -923,7 +923,7 @@
         "as": "৬ cm"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Diagonal = side × √2 = 6√2 cm.",
       "as": "কৰ্ণ = বাহু × √২ = ৬√২ ছে.মি.।"
@@ -937,12 +937,12 @@
     },
     "options": [
       {
-        "en": "10√2 cm",
-        "as": "১০√২ cm"
-      },
-      {
         "en": "20 cm",
         "as": "২০ cm"
+      },
+      {
+        "en": "10√2 cm",
+        "as": "১০√২ cm"
       },
       {
         "en": "5√2 cm",
@@ -953,7 +953,7 @@
         "as": "১০ cm"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Diagonal = 10√2 cm.",
       "as": "কৰ্ণ = ১০√২ ছে.মি.।"
@@ -967,12 +967,12 @@
     },
     "options": [
       {
-        "en": "100 cm²",
-        "as": "১০০ cm²"
-      },
-      {
         "en": "160 cm²",
         "as": "১৬০ cm²"
+      },
+      {
+        "en": "100 cm²",
+        "as": "১০০ cm²"
       },
       {
         "en": "400 cm²",
@@ -983,7 +983,7 @@
         "as": "৮০ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Side = 40 ÷ 4 = 10 cm, so the area is 100 cm².",
       "as": "বাহু = ৪০ ÷ ৪ = ১০ ছে.মি., গতিকে কালি ১০০ ছে.মি.²।"
@@ -997,10 +997,6 @@
     },
     "options": [
       {
-        "en": "44 cm",
-        "as": "৪৪ cm"
-      },
-      {
         "en": "154 cm",
         "as": "১৫৪ cm"
       },
@@ -1011,9 +1007,13 @@
       {
         "en": "49 cm",
         "as": "৪৯ cm"
+      },
+      {
+        "en": "44 cm",
+        "as": "৪৪ cm"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Circumference = 2πr = 2 × (22/7) × 7 = 44 cm.",
       "as": "পৰিধি = 2πr = ২ × (২২/৭) × ৭ = ৪৪ ছে.মি.।"
@@ -1027,10 +1027,6 @@
     },
     "options": [
       {
-        "en": "88 cm",
-        "as": "৮৮ cm"
-      },
-      {
         "en": "44 cm",
         "as": "৪৪ cm"
       },
@@ -1041,9 +1037,13 @@
       {
         "en": "176 cm",
         "as": "১৭৬ cm"
+      },
+      {
+        "en": "88 cm",
+        "as": "৮৮ cm"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "2 × (22/7) × 14 = 88 cm.",
       "as": "২ × (২২/৭) × ১৪ = ৮৮ ছে.মি.।"
@@ -1057,10 +1057,6 @@
     },
     "options": [
       {
-        "en": "154 cm²",
-        "as": "১৫৪ cm²"
-      },
-      {
         "en": "44 cm²",
         "as": "৪৪ cm²"
       },
@@ -1069,11 +1065,15 @@
         "as": "৩০৮ cm²"
       },
       {
+        "en": "154 cm²",
+        "as": "১৫৪ cm²"
+      },
+      {
         "en": "77 cm²",
         "as": "৭৭ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Area = πr² = (22/7) × 49 = 154 cm².",
       "as": "কালি = πr² = (২২/৭) × ৪৯ = ১৫৪ ছে.মি.²।"
@@ -1087,12 +1087,12 @@
     },
     "options": [
       {
-        "en": "616 cm²",
-        "as": "৬১৬ cm²"
-      },
-      {
         "en": "308 cm²",
         "as": "৩০৮ cm²"
+      },
+      {
+        "en": "616 cm²",
+        "as": "৬১৬ cm²"
       },
       {
         "en": "88 cm²",
@@ -1103,7 +1103,7 @@
         "as": "১৫৪ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "(22/7) × 196 = 616 cm².",
       "as": "(২২/৭) × ১৯৬ = ৬১৬ ছে.মি.²।"
@@ -1117,10 +1117,6 @@
     },
     "options": [
       {
-        "en": "154 cm²",
-        "as": "১৫৪ cm²"
-      },
-      {
         "en": "616 cm²",
         "as": "৬১৬ cm²"
       },
@@ -1131,9 +1127,13 @@
       {
         "en": "308 cm²",
         "as": "৩০৮ cm²"
+      },
+      {
+        "en": "154 cm²",
+        "as": "১৫৪ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Radius = 7 cm, so the area is (22/7) × 49 = 154 cm².",
       "as": "ব্যাসাৰ্ধ = ৭ ছে.মি., গতিকে কালি (২২/৭) × ৪৯ = ১৫৪ ছে.মি.²।"
@@ -1147,12 +1147,12 @@
     },
     "options": [
       {
-        "en": "4 times",
-        "as": "৪ times"
-      },
-      {
         "en": "2 times",
         "as": "২ times"
+      },
+      {
+        "en": "4 times",
+        "as": "৪ times"
       },
       {
         "en": "8 times",
@@ -1163,7 +1163,7 @@
         "as": "unchanged"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Area is proportional to r², so doubling r multiplies the area by 4.",
       "as": "কালি r² ৰ সমানুপাতত, গতিকে r দুগুণ কৰিলে কালি ৪ গুণ হয়।"
@@ -1207,10 +1207,6 @@
     },
     "options": [
       {
-        "en": "84 cm²",
-        "as": "৮৪ cm²"
-      },
-      {
         "en": "42 cm²",
         "as": "৪২ cm²"
       },
@@ -1221,9 +1217,13 @@
       {
         "en": "168 cm²",
         "as": "১৬৮ cm²"
+      },
+      {
+        "en": "84 cm²",
+        "as": "৮৪ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Area = base × height = 12 × 7 = 84 cm².",
       "as": "কালি = ভূমি × উচ্চতা = ১২ × ৭ = ৮৪ ছে.মি.²।"
@@ -1237,12 +1237,12 @@
     },
     "options": [
       {
-        "en": "120 cm²",
-        "as": "১২০ cm²"
-      },
-      {
         "en": "60 cm²",
         "as": "৬০ cm²"
+      },
+      {
+        "en": "120 cm²",
+        "as": "১২০ cm²"
       },
       {
         "en": "23 cm²",
@@ -1253,7 +1253,7 @@
         "as": "২৪০ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "15 × 8 = 120 cm².",
       "as": "১৫ × ৮ = ১২০ ছে.মি.²।"
@@ -1297,10 +1297,6 @@
     },
     "options": [
       {
-        "en": "32 cm²",
-        "as": "৩২ cm²"
-      },
-      {
         "en": "64 cm²",
         "as": "৬৪ cm²"
       },
@@ -1309,11 +1305,15 @@
         "as": "১৬ cm²"
       },
       {
+        "en": "32 cm²",
+        "as": "৩২ cm²"
+      },
+      {
         "en": "40 cm²",
         "as": "৪০ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "(1/2) × (10 + 6) × 4 = 32 cm².",
       "as": "(১/২) × (১০ + ৬) × ৪ = ৩২ ছে.মি.²।"
@@ -1327,10 +1327,6 @@
     },
     "options": [
       {
-        "en": "40 cm²",
-        "as": "৪০ cm²"
-      },
-      {
         "en": "80 cm²",
         "as": "৮০ cm²"
       },
@@ -1341,9 +1337,13 @@
       {
         "en": "18 cm²",
         "as": "১৮ cm²"
+      },
+      {
+        "en": "40 cm²",
+        "as": "৪০ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Area = (1/2) × d₁ × d₂ = (1/2) × 10 × 8 = 40 cm².",
       "as": "কালি = (১/২) × d₁ × d₂ = (১/২) × ১০ × ৮ = ৪০ ছে.মি.²।"
@@ -1357,10 +1357,6 @@
     },
     "options": [
       {
-        "en": "96 cm²",
-        "as": "৯৬ cm²"
-      },
-      {
         "en": "192 cm²",
         "as": "১৯২ cm²"
       },
@@ -1369,11 +1365,15 @@
         "as": "৪৮ cm²"
       },
       {
+        "en": "96 cm²",
+        "as": "৯৬ cm²"
+      },
+      {
         "en": "28 cm²",
         "as": "২৮ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "(1/2) × 16 × 12 = 96 cm².",
       "as": "(১/২) × ১৬ × ১২ = ৯৬ ছে.মি.²।"
@@ -1417,10 +1417,6 @@
     },
     "options": [
       {
-        "en": "equal",
-        "as": "equal"
-      },
-      {
         "en": "supplementary",
         "as": "supplementary"
       },
@@ -1431,9 +1427,13 @@
       {
         "en": "unequal",
         "as": "unequal"
+      },
+      {
+        "en": "equal",
+        "as": "equal"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The opposite angles of a parallelogram are equal.",
       "as": "সমান্তৰালভুজৰ বিপৰীত কোণবোৰ সমান।"
@@ -1447,12 +1447,12 @@
     },
     "options": [
       {
-        "en": "supplementary",
-        "as": "supplementary"
-      },
-      {
         "en": "equal",
         "as": "equal"
+      },
+      {
+        "en": "supplementary",
+        "as": "supplementary"
       },
       {
         "en": "complementary",
@@ -1463,7 +1463,7 @@
         "as": "right angles"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Adjacent angles of a parallelogram add up to 180°, so they are supplementary.",
       "as": "সমান্তৰালভুজৰ সন্নিহিত কোণবোৰ যোগ হৈ ১৮০° হয়, গতিকে সিহঁত পৰিপূৰক।"
@@ -1507,10 +1507,6 @@
     },
     "options": [
       {
-        "en": "equal and bisect each other",
-        "as": "equal and bisect each other"
-      },
-      {
         "en": "perpendicular",
         "as": "perpendicular"
       },
@@ -1519,11 +1515,15 @@
         "as": "unequal"
       },
       {
+        "en": "equal and bisect each other",
+        "as": "equal and bisect each other"
+      },
+      {
         "en": "parallel",
         "as": "parallel"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The diagonals of a rectangle are equal and bisect each other.",
       "as": "আয়তৰ কৰ্ণবোৰ সমান আৰু ইজনে সিজনক সমদ্বিখণ্ডিত কৰে।"
@@ -1537,10 +1537,6 @@
     },
     "options": [
       {
-        "en": "perpendicular bisectors of each other",
-        "as": "perpendicular bisectors of each other"
-      },
-      {
         "en": "equal",
         "as": "equal"
       },
@@ -1551,9 +1547,13 @@
       {
         "en": "equal and perpendicular",
         "as": "equal and perpendicular"
+      },
+      {
+        "en": "perpendicular bisectors of each other",
+        "as": "perpendicular bisectors of each other"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The diagonals of a rhombus bisect each other at right angles.",
       "as": "ৰম্বছৰ কৰ্ণবোৰে ইজনে সিজনক সমকোণত সমদ্বিখণ্ডিত কৰে।"
@@ -1567,10 +1567,6 @@
     },
     "options": [
       {
-        "en": "360°",
-        "as": "৩৬০°"
-      },
-      {
         "en": "180°",
         "as": "১৮০°"
       },
@@ -1579,11 +1575,15 @@
         "as": "depends on the number of sides"
       },
       {
+        "en": "360°",
+        "as": "৩৬০°"
+      },
+      {
         "en": "540°",
         "as": "৫৪০°"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The exterior angles of any convex polygon always add up to 360°.",
       "as": "যিকোনো উত্তল বহুভুজৰ বহিঃকোণবোৰ সদায় যোগ হৈ ৩৬০° হয়।"
@@ -1597,10 +1597,6 @@
     },
     "options": [
       {
-        "en": "9",
-        "as": "৯"
-      },
-      {
         "en": "6",
         "as": "৬"
       },
@@ -1611,9 +1607,13 @@
       {
         "en": "15",
         "as": "১৫"
+      },
+      {
+        "en": "9",
+        "as": "৯"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Diagonals = n(n − 3)/2 = 6 × 3/2 = 9.",
       "as": "কৰ্ণ = n(n − ৩)/২ = ৬ × ৩/২ = ৯।"
@@ -1627,10 +1627,6 @@
     },
     "options": [
       {
-        "en": "5",
-        "as": "৫"
-      },
-      {
         "en": "10",
         "as": "১০"
       },
@@ -1641,9 +1637,13 @@
       {
         "en": "6",
         "as": "৬"
+      },
+      {
+        "en": "5",
+        "as": "৫"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "5 × 2/2 = 5.",
       "as": "৫ × ২/২ = ৫।"
@@ -1657,12 +1657,12 @@
     },
     "options": [
       {
-        "en": "20",
-        "as": "২০"
-      },
-      {
         "en": "16",
         "as": "১৬"
+      },
+      {
+        "en": "20",
+        "as": "২০"
       },
       {
         "en": "24",
@@ -1673,7 +1673,7 @@
         "as": "২৮"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "8 × 5/2 = 20.",
       "as": "৮ × ৫/২ = ২০।"
@@ -1687,10 +1687,6 @@
     },
     "options": [
       {
-        "en": "between 3 cm and 13 cm",
-        "as": "between ৩ cm and ১৩ cm"
-      },
-      {
         "en": "greater than 13 cm",
         "as": "greater than ১৩ cm"
       },
@@ -1699,11 +1695,15 @@
         "as": "less than ৩ cm"
       },
       {
+        "en": "between 3 cm and 13 cm",
+        "as": "between ৩ cm and ১৩ cm"
+      },
+      {
         "en": "exactly 3 cm",
         "as": "exactly ৩ cm"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The third side is greater than the difference (3) and less than the sum (13).",
       "as": "তৃতীয় বাহু পাৰ্থক্য (৩) তকৈ ডাঙৰ আৰু যোগফল (১৩) তকৈ সৰু।"
@@ -1717,10 +1717,6 @@
     },
     "options": [
       {
-        "en": "between 3 cm and 17 cm",
-        "as": "between ৩ cm and ১৭ cm"
-      },
-      {
         "en": "greater than 17 cm",
         "as": "greater than ১৭ cm"
       },
@@ -1729,11 +1725,15 @@
         "as": "less than ৩ cm"
       },
       {
+        "en": "between 3 cm and 17 cm",
+        "as": "between ৩ cm and ১৭ cm"
+      },
+      {
         "en": "exactly 3 cm",
         "as": "exactly ৩ cm"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "It lies between 10 − 7 = 3 and 10 + 7 = 17.",
       "as": "ই ১০ − ৭ = ৩ আৰু ১০ + ৭ = ১৭ ৰ মাজত থাকে।"
@@ -1747,10 +1747,6 @@
     },
     "options": [
       {
-        "en": "right-angled",
-        "as": "right-angled"
-      },
-      {
         "en": "equilateral",
         "as": "equilateral"
       },
@@ -1759,11 +1755,15 @@
         "as": "obtuse-angled"
       },
       {
+        "en": "right-angled",
+        "as": "right-angled"
+      },
+      {
         "en": "isosceles",
         "as": "isosceles"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "3² + 4² = 5², so by the converse of Pythagoras it is right-angled.",
       "as": "৩² + ৪² = ৫², গতিকে পাইথাগোৰাছৰ বিপৰীতৰ পৰা ই সমকোণী।"
@@ -1777,10 +1777,6 @@
     },
     "options": [
       {
-        "en": "right-angled",
-        "as": "right-angled"
-      },
-      {
         "en": "equilateral",
         "as": "equilateral"
       },
@@ -1789,11 +1785,15 @@
         "as": "obtuse-angled"
       },
       {
+        "en": "right-angled",
+        "as": "right-angled"
+      },
+      {
         "en": "acute-angled",
         "as": "acute-angled"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "5² + 12² = 13², so it is right-angled.",
       "as": "৫² + ১২² = ১৩², গতিকে ই সমকোণী।"
@@ -1807,10 +1807,6 @@
     },
     "options": [
       {
-        "en": "80°",
-        "as": "৮০°"
-      },
-      {
         "en": "60°",
         "as": "৬০°"
       },
@@ -1819,11 +1815,15 @@
         "as": "৯০°"
       },
       {
+        "en": "80°",
+        "as": "৮০°"
+      },
+      {
         "en": "70°",
         "as": "৭০°"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Sum of parts = 9, so the largest = (4/9) × 180 = 80°.",
       "as": "অংশবোৰৰ যোগফল = ৯, গতিকে ডাঙৰটো = (৪/৯) × ১৮০ = ৮০°।"
@@ -1837,10 +1837,6 @@
     },
     "options": [
       {
-        "en": "90°",
-        "as": "৯০°"
-      },
-      {
         "en": "60°",
         "as": "৬০°"
       },
@@ -1851,9 +1847,13 @@
       {
         "en": "80°",
         "as": "৮০°"
+      },
+      {
+        "en": "90°",
+        "as": "৯০°"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Sum of parts = 6, so the largest = (3/6) × 180 = 90°.",
       "as": "অংশবোৰৰ যোগফল = ৬, গতিকে ডাঙৰটো = (৩/৬) × ১৮০ = ৯০°।"
@@ -1867,12 +1867,12 @@
     },
     "options": [
       {
-        "en": "45°",
-        "as": "৪৫°"
-      },
-      {
         "en": "60°",
         "as": "৬০°"
+      },
+      {
+        "en": "45°",
+        "as": "৪৫°"
       },
       {
         "en": "50°",
@@ -1883,7 +1883,7 @@
         "as": "৩০°"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Sum of parts = 12, so the smallest = (3/12) × 180 = 45°.",
       "as": "অংশবোৰৰ যোগফল = ১২, গতিকে সৰুটো = (৩/১২) × ১৮০ = ৪৫°।"
@@ -1897,12 +1897,12 @@
     },
     "options": [
       {
-        "en": "27 cm³",
-        "as": "২৭ cm³"
-      },
-      {
         "en": "9 cm³",
         "as": "৯ cm³"
+      },
+      {
+        "en": "27 cm³",
+        "as": "২৭ cm³"
       },
       {
         "en": "18 cm³",
@@ -1913,7 +1913,7 @@
         "as": "৮১ cm³"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Volume = 3³ = 27 cm³.",
       "as": "আয়তন = ৩³ = ২৭ ছে.মি.³।"
@@ -1957,10 +1957,6 @@
     },
     "options": [
       {
-        "en": "60 cm³",
-        "as": "৬০ cm³"
-      },
-      {
         "en": "12 cm³",
         "as": "১২ cm³"
       },
@@ -1971,9 +1967,13 @@
       {
         "en": "120 cm³",
         "as": "১২০ cm³"
+      },
+      {
+        "en": "60 cm³",
+        "as": "৬০ cm³"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Volume = 5 × 4 × 3 = 60 cm³.",
       "as": "আয়তন = ৫ × ৪ × ৩ = ৬০ ছে.মি.³।"
@@ -1987,10 +1987,6 @@
     },
     "options": [
       {
-        "en": "25√3 cm²",
-        "as": "২৫√৩ cm²"
-      },
-      {
         "en": "50 cm²",
         "as": "৫০ cm²"
       },
@@ -1999,11 +1995,15 @@
         "as": "১০০√৩ cm²"
       },
       {
+        "en": "25√3 cm²",
+        "as": "২৫√৩ cm²"
+      },
+      {
         "en": "10√3 cm²",
         "as": "১০√৩ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "(√3/4) × 100 = 25√3 cm².",
       "as": "(√৩/৪) × ১০০ = ২৫√৩ ছে.মি.²।"
@@ -2077,10 +2077,6 @@
     },
     "options": [
       {
-        "en": "36 cm",
-        "as": "৩৬ cm"
-      },
-      {
         "en": "24 cm",
         "as": "২৪ cm"
       },
@@ -2091,9 +2087,13 @@
       {
         "en": "48 cm",
         "as": "৪৮ cm"
+      },
+      {
+        "en": "36 cm",
+        "as": "৩৬ cm"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Perimeter = 3 × 12 = 36 cm.",
       "as": "পৰিসীমা = ৩ × ১২ = ৩৬ ছে.মি.।"
@@ -2107,10 +2107,6 @@
     },
     "options": [
       {
-        "en": "8 cm",
-        "as": "৮ cm"
-      },
-      {
         "en": "6 cm",
         "as": "৬ cm"
       },
@@ -2121,9 +2117,13 @@
       {
         "en": "12 cm",
         "as": "১২ cm"
+      },
+      {
+        "en": "8 cm",
+        "as": "৮ cm"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Breadth = 96 ÷ 12 = 8 cm.",
       "as": "প্ৰস্থ = ৯৬ ÷ ১২ = ৮ ছে.মি.।"
@@ -2167,10 +2167,6 @@
     },
     "options": [
       {
-        "en": "7 cm",
-        "as": "৭ cm"
-      },
-      {
         "en": "14 cm",
         "as": "১৪ cm"
       },
@@ -2181,9 +2177,13 @@
       {
         "en": "22 cm",
         "as": "২২ cm"
+      },
+      {
+        "en": "7 cm",
+        "as": "৭ cm"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "2πr = 44, so r = 44 × 7 / (2 × 22) = 7 cm.",
       "as": "2πr = ৪৪, গতিকে r = ৪৪ × ৭ / (২ × ২২) = ৭ ছে.মি.।"
@@ -2197,12 +2197,12 @@
     },
     "options": [
       {
-        "en": "77 cm²",
-        "as": "৭৭ cm²"
-      },
-      {
         "en": "154 cm²",
         "as": "১৫৪ cm²"
+      },
+      {
+        "en": "77 cm²",
+        "as": "৭৭ cm²"
       },
       {
         "en": "38.5 cm²",
@@ -2213,7 +2213,7 @@
         "as": "৪৪ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Area = (1/2)πr² = (1/2) × (22/7) × 49 = 77 cm².",
       "as": "কালি = (১/২)πr² = (১/২) × (২২/৭) × ৪৯ = ৭৭ ছে.মি.²।"
@@ -2227,12 +2227,12 @@
     },
     "options": [
       {
-        "en": "154 cm²",
-        "as": "১৫৪ cm²"
-      },
-      {
         "en": "616 cm²",
         "as": "৬১৬ cm²"
+      },
+      {
+        "en": "154 cm²",
+        "as": "১৫৪ cm²"
       },
       {
         "en": "308 cm²",
@@ -2243,7 +2243,7 @@
         "as": "৭৭ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Area = (1/4)πr² = (1/4) × (22/7) × 196 = 154 cm².",
       "as": "কালি = (১/৪)πr² = (১/৪) × (২২/৭) × ১৯৬ = ১৫৪ ছে.মি.²।"
@@ -2317,12 +2317,12 @@
     },
     "options": [
       {
-        "en": "12",
-        "as": "১২"
-      },
-      {
         "en": "10",
         "as": "১০"
+      },
+      {
+        "en": "12",
+        "as": "১২"
       },
       {
         "en": "15",
@@ -2333,7 +2333,7 @@
         "as": "৮"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Exterior angle = 30°, so the number of sides = 360 ÷ 30 = 12.",
       "as": "বহিঃকোণ = ৩০°, গতিকে বাহুৰ সংখ্যা = ৩৬০ ÷ ৩০ = ১২।"
@@ -2347,10 +2347,6 @@
     },
     "options": [
       {
-        "en": "108 cm²",
-        "as": "১০৮ cm²"
-      },
-      {
         "en": "72 cm²",
         "as": "৭২ cm²"
       },
@@ -2359,11 +2355,15 @@
         "as": "৫৪ cm²"
       },
       {
+        "en": "108 cm²",
+        "as": "১০৮ cm²"
+      },
+      {
         "en": "144 cm²",
         "as": "১৪৪ cm²"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Surface area = 2(lb + bh + hl) = 2(24 + 12 + 18) = 108 cm².",
       "as": "পৃষ্ঠকালি = ২(lb + bh + hl) = ২(২৪ + ১২ + ১৮) = ১০৮ ছে.মি.²।"
@@ -2377,12 +2377,12 @@
     },
     "options": [
       {
-        "en": "64 cm³",
-        "as": "৬৪ cm³"
-      },
-      {
         "en": "96 cm³",
         "as": "৯৬ cm³"
+      },
+      {
+        "en": "64 cm³",
+        "as": "৬৪ cm³"
       },
       {
         "en": "36 cm³",
@@ -2393,7 +2393,7 @@
         "as": "২১৬ cm³"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "6a² = 96 gives a² = 16 and a = 4, so the volume is 64 cm³.",
       "as": "6a² = ৯৬ ৰ পৰা a² = ১৬ আৰু a = ৪, গতিকে আয়তন ৬৪ ছে.মি.³।"
