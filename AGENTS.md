@@ -177,6 +177,45 @@ they outrank any cleanup, refactor or "nice to have" an agent might want to do.
     (`data/exam-mock-sets/…`) and the `topic/math/**` / `topic/reasoning/**`
     pages. This is a standing rule for any future Maths or Reasoning bank in
     any book, in both English and Assamese.
+- **Non-Verbal Reasoning keeps the existing figure format — only the shapes
+  and images change.** Every Non-Verbal Reasoning question (figure series,
+  figure analogy, figure classification, figure matrix, mirror image, water
+  image, embedded figures, counting figures, pattern completion, paper folding
+  and cutting, rule detection, shape construction and grouping, cube and dice)
+  must be authored and rendered in **exactly the format already used on the
+  Assam Police Non-Verbal Reasoning pages** — the same markup, classes and
+  render path — with **each question carrying its own distinct shapes and
+  images**, never a copied or repeated figure. The reference is
+  <https://axomexam.in/exams/assam-police/logical-reasoning/non-verbal-reasoning>
+  and its leaf pages (e.g. `…/non-verbal-reasoning/figure-series/`); copy that
+  shape, not the content.
+  - **Question figure** goes in the item's `fig` field and renders inside
+    `<div class="nv-media">…</div>` (the prompt diagram: the series, matrix or
+    pattern to be read).
+  - **Answer options are picture choices**, each an object
+    `{ option: "A"|"B"|"C"|"D", fig: "<svg…>" }` (an optional `text` caption is
+    allowed). They render as a labelled grid
+    `<div class="nv-fig-grid">` → `<div class="nv-fig-item">` →
+    `<div class="nv-fig-key">(A)</div>` → `<div class="nv-fig-box">…</div>`,
+    with `.nv-fig-grid-compact` used inside the MCQ card. Do **not** fall back
+    to text-only options for a non-verbal question — that is not the format.
+  - **Figures are inline SVG** (`<svg viewBox=…>` with `polygon`, `line`,
+    `rect`, `circle`, `path` shapes), stroke `#334155`, no external image
+    files and no `<img>` URLs. An optional data table uses the `table` field
+    and the `nv-table-wrap` / `nv-table` classes.
+  - **Source of truth:** the question JSON lives in
+    `data/content/reasoning/<topic>.json` (`q: { en, as }`, `fig`, `options`,
+    `correct`, `explanation: { en, as }`) and is rendered by `js/app.src.js`
+    (`mediaBlock`, `figureOptions`, `figureOptionsHTML`) into `js/app.js`,
+    styled by `css/style.src.css` → `css/style.css` (the `nv-*` rules). Change
+    the content, not the format.
+  - **Every question must show different shapes/images.** Two questions in the
+    same bank (and across the site) must not reuse the same figure set; each
+    prompt figure and each option figure is drawn for that question's own
+    pattern, so a reader never meets the same picture twice. The figures must
+    also actually match the question and its correct answer, and the question
+    text and options stay bilingual (English and Assamese) like every other
+    question.
 - **Verify before shipping.** Run `node tools/seo-audit.js` and confirm
   `thin (<300w): 0`, `missing H1/desc/canonical/JSON-LD: 0`, and the duplicate
   counts above, then check the live URLs return 200 after the Pages build.
