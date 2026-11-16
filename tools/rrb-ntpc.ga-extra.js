@@ -40,7 +40,6 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const CHECK = process.argv.includes("--check");
 const EXAM_ID = "rrb-ntpc";
-const SECTION_ID = "general-awareness";
 
 /* Articles live one file per leaf under tools/rrb-ntpc-ga-articles/<group>/<leaf>.js,
    each exporting the note shape { h2, p, list, faqs }. Keyed "<group>/<leaf>". */
@@ -59,6 +58,11 @@ function loadArticles() {
 }
 
 const ARTICLES = loadArticles();
+
+/* Sections whose leaves carry long-form article panels. General Awareness is
+   grouped and keys its articles "<group>/<leaf>"; a flat section such as
+   Mathematics keys them "<section>/<leaf>". */
+const SECTION_IDS = ["general-awareness", "mathematics"];
 
 function esc(s) {
   return String(s == null ? "" : s)
@@ -101,39 +105,49 @@ ${panel("as", a)}
 
 const SECTION_RE = /[ \t]*<section class="section axo-extra-content"[\s\S]*?<\/section>\n?/;
 
+function applyPanel(rel, route, a) {
+  const abs = path.join(ROOT, rel);
+  if (!a || !fs.existsSync(abs)) return "missing";
+  const block = sectionHTML(route, a) + "\n";
+  const html = fs.readFileSync(abs, "utf8");
+
+  let out;
+  if (SECTION_RE.test(html)) {
+    out = html.replace(SECTION_RE, block);
+  } else {
+    /* Insert after </main>, before the editorial-credit section — the
+       position the other exam books use. */
+    const m = /<\/main>\n/.exec(html);
+    if (!m) return "missing";
+    out = html.slice(0, m.index + m[0].length) + block + html.slice(m.index + m[0].length);
+  }
+
+  if (out === html) return "skipped";
+  if (!CHECK) fs.writeFileSync(abs, out, "utf8");
+  return "written";
+}
+
 function main() {
   const { EXAM } = require("./rrb-ntpc.structure.js");
   const examPath = `exams/${EXAM_ID}`;
-  const sec = EXAM.sections.find((s) => s.id === SECTION_ID);
   let written = 0, skipped = 0, missing = 0;
 
-  for (const group of sec.subcategories || []) {
-    for (const leaf of group.subcategories || []) {
-      const key = `${group.id}/${leaf.id}`;
-      const rel = `${examPath}/${SECTION_ID}/${group.id}/${leaf.id}/index.html`;
-      const abs = path.join(ROOT, rel);
-      const a = ARTICLES[key];
-      if (!a) { missing++; continue; }
-      if (!fs.existsSync(abs)) { missing++; continue; }
-
-      const route = `/${examPath}/${SECTION_ID}/${group.id}/${leaf.id}`;
-      const block = sectionHTML(route, a) + "\n";
-      const html = fs.readFileSync(abs, "utf8");
-
-      let out;
-      if (SECTION_RE.test(html)) {
-        out = html.replace(SECTION_RE, block);
-      } else {
-        /* Insert after </main>, before the editorial-credit section — the
-           position the other exam books use. */
-        const m = /<\/main>\n/.exec(html);
-        if (!m) { missing++; continue; }
-        out = html.slice(0, m.index + m[0].length) + block + html.slice(m.index + m[0].length);
+  for (const sectionId of SECTION_IDS) {
+    const sec = EXAM.sections.find((s) => s.id === sectionId);
+    if (!sec) continue;
+    for (const group of sec.subcategories || []) {
+      const children = Array.isArray(group.subcategories) ? group.subcategories : [];
+      const leaves = children.length
+        ? children.map((l) => ({ key: `${group.id}/${l.id}`, parts: [group.id, l.id] }))
+        : [{ key: `${sectionId}/${group.id}`, parts: [group.id] }];
+      for (const leaf of leaves) {
+        const rel = `${examPath}/${sectionId}/${leaf.parts.join("/")}/index.html`;
+        const route = `/${examPath}/${sectionId}/${leaf.parts.join("/")}`;
+        const res = applyPanel(rel, route, ARTICLES[leaf.key]);
+        if (res === "written") written++;
+        else if (res === "skipped") skipped++;
+        else missing++;
       }
-
-      if (out === html) { skipped++; continue; }
-      if (!CHECK) fs.writeFileSync(abs, out, "utf8");
-      written++;
     }
   }
 
