@@ -1657,3 +1657,49 @@ What was done, so the next agent does not redo or undo it:
   `seo-audit.js` clean (thin 0, title >60 0, desc >160 0, dup titles/H1/desc 0);
   fuzzy dedupe (ratio 0.90, EN + AS) of the new stems and explanations against
   the whole `data/` corpus.
+
+## Session record — Nov 2026 RRB NTPC Reasoning banks (Inequality, Input-Output, Logical Sequence of Words, Mathematical Operations)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Four more Reasoning leaf topics filled, at 72 questions each.** The brief was
+  "next 4, same format, same condition, level hard". `inequality`,
+  `input-output`, `logical-sequence-words` and `mathematical-operations` each
+  now hold a 72-question bilingual bank in
+  `data/exams/rrb-ntpc/reasoning/verbal-reasoning/<leaf>/question-001.json`.
+  Every other reasoning leaf remains a thin stub (1 question, `noindex`).
+- **Every type of the topic, not one repeated shape.** Inequality covers direct
+  relation chains, coded-symbol inequalities, either-or conclusions, missing
+  symbol and "which conclusion follows" sets. Input-Output covers find-the-rule,
+  apply-the-rule, number-machine step output, word-machine step output,
+  which-step, mixed word/number machines, find-the-input, after-step-n,
+  even/odd split and prime split. Logical Sequence of Words covers process
+  order, growth order, dictionary order (incl. shared prefixes), ascending /
+  descending by number, order by a stated property, position-after-sorting and
+  odd-one-out. Mathematical Operations covers single substitution, BODMAS coded
+  expressions, missing sign, sign interchange, letter codes, sample-based rules,
+  two-statement checks and bracketed coded expressions.
+- **Answers are computed, not typed.** The generators simulate the machine /
+  evaluate the coded expression with exact `Fraction` arithmetic and reject any
+  candidate whose options are not four distinct strings. Step sequences drop
+  trailing no-op steps so each shown step really differs; interchange questions
+  are only emitted when exactly one sign-pair repairs the equation.
+- **Answer keys balanced** 18/18/18/18 over A/B/C/D in every bank, via
+  `balance-answer-keys.js --book rrb-ntpc --topic reasoning/verbal-reasoning/<leaf>`
+  (always with the filter — see the warning above).
+- **Article panels, same shared renderer.** No new tool: `tools/rrb-ntpc.ga-extra.js`
+  and `tools/rrb-ntpc.ga-extra-check.js` already cover the reasoning section.
+  New article sources sit at `tools/rrb-ntpc-ga-articles/verbal-reasoning/
+  {inequality,input-output,logical-sequence-words,mathematical-operations}.js`,
+  keyed `"verbal-reasoning/<leaf>"`, 5 FAQs each. Word gate counts paragraphs +
+  list + FAQ text together; keep EN and AS paragraph counts equal.
+- **Build order and verification unchanged** from the previous session record:
+  counts → pages → ga-extra → enrich → keyword-map → as-twins → seo-indexing-fix,
+  idempotent (only `counts.json`'s `generatedAt` moves). All four leaves go
+  1 → 72 questions, flip to `index, follow`, and re-enter `sitemap.xml`;
+  `rrb-ntpc.ga-extra-check.js` ends with 0 failing the 1300-word floor and 0
+  missing; `seo-audit.js` clean; cross-bank fuzzy dedupe (ratio 0.90, EN + AS)
+  over the whole `data/` corpus reports 0 hits for the four new banks.
+- **Revert unrelated drift before committing**, as before:
+  `git checkout -- as/exams/rrb-ntpc/general-awareness/` (the chain rewrites
+  ~31 Assamese GA twin pages). Do not revert the four reasoning leaves.
