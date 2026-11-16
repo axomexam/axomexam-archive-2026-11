@@ -175,26 +175,71 @@ function makeExamBookTools(opts) {
   }
 
   /* ---------------- question rendering ---------------- */
+
+  /* Figures are inline <svg> authored by the site owner, not end users. They
+     must stay raw HTML in the served page: the runtime does the same
+     (js/app.src.js sanitizeMedia), and escaping them would show the markup as
+     text. Strip the same active bits as a safety net. */
+  function media(s) {
+    if (typeof s !== "string") return "";
+    return s
+      .replace(/<\s*script[\s\S]*?<\s*\/\s*script\s*>/gi, "")
+      .replace(/<\s*script[\s\S]*$/gi, "")
+      .replace(/\son[a-z]+\s*=\s*"[^"]*"/gi, "")
+      .replace(/\son[a-z]+\s*=\s*'[^']*'/gi, "")
+      .replace(/\son[a-z]+\s*=\s*[^\s>]+/gi, "")
+      .replace(/javascript\s*:/gi, "");
+  }
+
   function normalize(q) {
-    const options = Array.isArray(q.options) ? q.options.map((o) => ({ en: lang(o, "en"), as: lang(o, "as") })) : [];
+    const options = Array.isArray(q.options)
+      ? q.options.map((o) => ({
+          en: lang(o, "en"),
+          as: lang(o, "as"),
+          fig: o && typeof o === "object" && typeof o.fig === "string" ? o.fig : "",
+          letter: o && typeof o === "object" && typeof o.option === "string" ? o.option : "",
+        }))
+      : [];
     const correct = Number.isInteger(q.correct) ? q.correct : -1;
     let aEn = "";
     let aAs = "";
     if (correct >= 0 && options[correct]) {
-      const letter = String.fromCharCode(65 + correct);
-      aEn = options[correct].en ? `${letter}) ${options[correct].en}` : `${letter})`;
-      aAs = options[correct].as ? `${letter}) ${options[correct].as}` : "";
+      const letter = options[correct].letter || String.fromCharCode(65 + correct);
+      if (options[correct].fig) {
+        aEn = `${letter})`;
+        aAs = "";
+      } else {
+        aEn = options[correct].en ? `${letter}) ${options[correct].en}` : `${letter})`;
+        aAs = options[correct].as ? `${letter}) ${options[correct].as}` : "";
+      }
     }
     return {
       q: { en: lang(q.q, "en"), as: lang(q.q, "as") },
       options,
       a: { en: aEn, as: aAs },
       ex: { en: lang(q.explanation, "en"), as: lang(q.explanation, "as") },
+      fig: typeof q.fig === "string" ? q.fig : "",
+      table: q.table || null,
     };
   }
 
+  /* Picture/shape choices become a labelled grid, matching the runtime
+     figureOptionsHTML(); a figure question without its figures is
+     meaningless, so the figures are part of the question, not a nicety. */
   function optionsHTML(q) {
     if (!q.options.length) return "";
+    if (q.options.some((o) => o.fig)) {
+      const items = q.options
+        .map((o, i) => {
+          const letter = o.letter || String.fromCharCode(65 + i);
+          const cap = o.en ? `<div class="nv-fig-cap">${esc(o.en)}</div>` : "";
+          return `<div class="nv-fig-item"><div class="nv-fig-key">(${esc(
+            letter
+          )})</div><div class="nv-fig-box">${o.fig ? media(o.fig) : esc(o.en)}</div>${cap}</div>`;
+        })
+        .join("");
+      return `<div class="nv-fig-grid nv-fig-grid-compact" style="margin-top:10px;">${items}</div>`;
+    }
     const opts = q.options
       .map((o, i) =>
         `<div lang="en" style="margin:2px 0;">(${String.fromCharCode(65 + i)}) ${esc(o.en)}${
@@ -210,6 +255,7 @@ function makeExamBookTools(opts) {
       `<div lang="en" style="font-weight:800; font-size:1.02rem; line-height:1.5; margin-bottom:6px;">Q${n}. ${esc(q.q.en)}</div>`,
     ];
     if (q.q.as) parts.push(`<div lang="as" style="color:#64748b; font-size:0.9rem; line-height:1.6; margin-bottom:8px;">${esc(q.q.as)}</div>`);
+    if (q.fig) parts.push(`<div class="nv-media">${media(q.fig)}</div>`);
     const opts = optionsHTML(q);
     if (opts) parts.push(opts);
     if (q.a.en) parts.push(`<div lang="en" style="margin-top:8px;"><strong>Answer:</strong> <span>${esc(q.a.en)}</span></div>`);
