@@ -1795,3 +1795,47 @@ What was done, so the next agent does not redo or undo it:
   sitemap alt miss 0); every bank validated for schema, 4 unique options,
   bilingual stems and explanations, unique ids; all four EN+AS pages show
   80 questions and the article panel, `noindex=0`.
+
+## Session — RRB NTPC Mathematics batch 5 (topics 18–21)
+
+- **Four new bilingual banks, 80 hard/difficult MCQs each**, in
+  `data/exams/rrb-ntpc/mathematics/<topic>/question-001.json`:
+  - `race-circular-track` — meet-at-start (LCM of lap times), same-direction and
+    opposite-direction meetings, repeated meetings, laps gained, race margins
+    (metres and seconds), starts and handicaps, chain of results (A>B>C), and
+    equal-length two-runner cases.
+  - `elementary-algebra` — linear equations (brackets, fractions), simultaneous
+    equations (elimination and direct x+y), the identities (a±b)², a²−b²,
+    a²+b², cubes, factorisation, exponents, HCF/LCM of expressions, and word
+    problems (numbers, ages, two-digit numbers).
+  - `quadratic-linear-equations` — roots by factorisation, sum/product of roots,
+    sum of squares and reciprocal sum, discriminant and nature of roots, equal
+    roots, forming the equation from roots, linear pairs, and ratio shortcuts.
+  - `geometry` — angle and triangle properties, Pythagoras and the common
+    triples, quadrilateral and regular-polygon formulas, number of diagonals,
+    circle properties (semicircle, tangent, chord), and the mensuration formulas
+    the paper usually pairs with geometry.
+- **Answer keys balanced 20/20/20/20** over A/B/C/D for all four
+  (`balance-answer-keys.js --book rrb-ntpc --topic mathematics/<t>`).
+- **Deduped against the whole corpus.** A fuzzy pass (`rapidfuzz`, ratio >= 95)
+  over every other `data/exams/**/question-*.json` bank (40,870 rows) found 4
+  exact cross-bank duplicates (one algebra identity, three elementary geometry
+  facts shared with DHS-DME and mensuration-3d); all four stems were reworded or
+  re-parameterised, so the final cross-bank exact-duplicate count is 0. The
+  remaining >=95 hits are template-level (same shape, different numbers).
+- **Article panels.** New sources
+  `tools/rrb-ntpc-ga-articles/mathematics/{race-circular-track,elementary-algebra,quadratic-linear-equations,geometry}.js`
+  (EN 1477/1481/1464/1496 words, AS 1539/1346/1301/1331 words, 5 FAQs and a
+  10-item key-facts list each); `rrb-ntpc.ga-extra-check.js` reports 0 failing
+  the 1300-word floor.
+- **Build order** unchanged: counts → pages → ga-extra → enrich → keyword-map →
+  as-twins → seo-indexing-fix, idempotent (only `counts.json`'s `generatedAt`
+  moves). The exam hub now reports 9,157 questions.
+- **Revert unrelated drift before committing**, as before:
+  `git checkout -- as/exams/rrb-ntpc/general-awareness/`. Do not revert the four
+  target mathematics leaves.
+- **Verification:** `seo-audit.js` clean (1321 pages, sitemap 2532, thin 0,
+  missing H1/desc/canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0,
+  sitemap alt miss 0); every bank validated for schema, 4 unique options,
+  bilingual stems and explanations, unique ids; all four EN+AS pages show
+  80 questions and the article panel, `noindex=0`.
