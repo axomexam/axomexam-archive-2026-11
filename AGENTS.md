@@ -2073,3 +2073,68 @@ What was done, so the next agent does not redo or undo it:
   sitemap alt miss 0); every bank validated for schema, 4 unique picture
   options, bilingual stems and explanations, unique ids; all four EN+AS pages
   show 70 questions, 70 `nv-media` figures and the article panel.
+
+## Session — RRB NTPC Non-Verbal Reasoning batch 2 (topics 5–7, final)
+
+- **The last three Non-Verbal Reasoning leaves are now full bilingual
+  figure-based banks, 70 MCQs each**, in
+  `data/exams/rrb-ntpc/reasoning/non-verbal-reasoning/<topic>/question-001.json`.
+  With batch 1, **all seven Non-Verbal Reasoning topics now carry a full
+  70-question bank**:
+  - `pattern-completion` — a grid of small tiles with one blank cell; the
+    missing tile follows the grid's repeating rule.
+  - `figure-series` — a five-cell series with a question mark; nine families
+    (growing polygon, growing dot count, turning arrow, growing circle,
+    growing line count, turning half-disc, turning triangle, growing star
+    points, shaded/unshaded alternation), each drawn across many variants.
+  - `cube-dice` — three forms: fold a net to a cube and name the face opposite
+    a marked one; read two die views sharing a face and name its opposite;
+    count the cubes in a stack (hidden cubes included).
+- **Answers are computed, not typed.** The three builders were added to
+  `tools/gen-rrb-ntpc-non-verbal.js` (same generator as batch 1):
+  - pattern-completion: the tile is the grid's rule applied at the blank cell.
+  - figure-series: the answer is term 4 of the family rule, distractors are
+    off-rule terms.
+  - cube-dice: the net is **folded by a real 3-D routine** (`foldNet`, a
+    BFS that assigns each cell an outward face normal) so opposite faces are
+    exact, not assumed; the die-opposite is the only number absent from the
+    union of the two views; the cube count is the sum of the column heights.
+  Keys balanced 18/17/17/18 over A/B/C/D for all three; every prompt figure and
+  every option figure is distinct (70 distinct prompt figures per topic).
+- **All seven topics use the picture-option grid** (`nv-fig-grid`) that batch 1
+  added to `tools/lib/exam-book-pages.js`; no further renderer change was
+  needed for this batch.
+- **Article panels.** New sources
+  `tools/rrb-ntpc-ga-articles/non-verbal-reasoning/{pattern-completion,
+  figure-series,cube-dice}.js` (EN 1382/1738/1883, AS 1328/1463/1430 words,
+  5 FAQs and a 10-item key-facts list each);
+  `rrb-ntpc.ga-extra-check.js` reports 0 failing the 1300-word floor.
+- **Deduped against the whole corpus.** Exact stem match over every other
+  `data/exams/**/question-*.json` bank found **0** cross-bank collisions. (The
+  14 intra-bank duplicate stems inside the new banks are the same shared
+  template with different figures, which is the accepted norm for figure
+  questions, as in batch 1.)
+- **Build chain.** Ran the **full** documented order —
+  `build-question-counts.js` (or `sync-home-hero-count.js` + counts) →
+  `build-rrb-ntpc-pages.js` → `rrb-ntpc.ga-extra.js` → `enrich-thin-pages.js` →
+  `apply-keyword-map.js --only-prefix exams/rrb-ntpc/` → `build-as-twins.js
+  --prefix exams/rrb-ntpc` → `seo-indexing-fix.js` → `scripts/inject-ga.js .` →
+  `strip-adsense-from-as.js` → `fix-duplicate-doctype.js`. Per the batch-1
+  gotcha above, **`data/counts.json` was regenerated and committed in the same
+  commit** (it now reads 70 for each of the three leaves and `index, follow`
+  for their pages). Idempotent: a second full run leaves the tree
+  byte-identical except `data/counts.json`'s `generatedAt` timestamp.
+- **Rebase.** While this batch was in progress, `origin/main` moved from
+  `ef76a918` to `9745936a` (an automated session regenerated the batch-1
+  counts/pages and fixed the missing-`counts.json` gotcha). This batch was
+  therefore re-applied **on top of `9745936a`** — only the generator, the three
+  new bank JSONs and the three article modules were taken from the local work;
+  every generated page/count/sitemap artifact was regenerated fresh on the new
+  base, so the earlier local commits were not replayed.
+- **Verification:** `seo-audit.js` clean (1321 pages, sitemap 2584, indexable
+  1292, thin 0, missing H1/desc/canonical/JSON-LD 0, title/desc limits 0,
+  dup titles/H1/desc 0, sitemap alt drift 0, sitemap alt miss 0); each bank
+  validated for schema, 4 unique picture options, bilingual stems and
+  explanations, unique ids; all three EN+AS pages show 70 questions, 70
+  `nv-media` figures, `index, follow` and the article panel. The RRB NTPC
+  reasoning stub set is now empty.
