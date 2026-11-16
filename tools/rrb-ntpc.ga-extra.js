@@ -4,8 +4,10 @@
 /*
  * tools/rrb-ntpc.ga-extra.js
  *
- * Gives every RRB NTPC General Awareness topic page the same long-form
- * bilingual study article the other exam books carry.
+ * Gives every RRB NTPC topic page that has a long-form article the same
+ * bilingual study panel the other exam books carry. Covers General Awareness
+ * and Reasoning (grouped sections, keyed "<group>/<leaf>") and Mathematics
+ * (flat section, keyed "<section>/<leaf>").
  *
  * Why this exists
  * ---------------
@@ -21,10 +23,10 @@
  * copies that block into the /as/ twin, and tools/fix-faq-schema-visibility.js
  * rebuilds the FAQPage node from its visible FAQ.
  *
- * The prose lives in tools/rrb-ntpc-ga-articles/*.js (one module per GA group).
- * This tool renders it into the page's extra-content block. It only writes the
- * General Awareness leaves of the RRB NTPC book; every other page is left
- * untouched.
+ * The prose lives in tools/rrb-ntpc-ga-articles/<group>/<leaf>.js (one module
+ * per topic). This tool renders it into the page's extra-content block. It
+ * only writes leaves of the RRB NTPC book that have an article module; every
+ * other page is left untouched.
  *
  * Idempotent: the block is replaced in place when it already exists, so a
  * second run produces byte-identical output.
@@ -62,7 +64,7 @@ const ARTICLES = loadArticles();
 /* Sections whose leaves carry long-form article panels. General Awareness is
    grouped and keys its articles "<group>/<leaf>"; a flat section such as
    Mathematics keys them "<section>/<leaf>". */
-const SECTION_IDS = ["general-awareness", "mathematics"];
+const SECTION_IDS = ["general-awareness", "mathematics", "reasoning"];
 
 function esc(s) {
   return String(s == null ? "" : s)

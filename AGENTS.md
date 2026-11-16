@@ -1346,7 +1346,8 @@ What was done, so the next agent does not redo or undo it:
   --book rrb-ntpc --topic mathematics/<leaf> --check` reports 0 skewed topics.
 - **Article panels for a flat section.** `tools/rrb-ntpc.ga-extra.js` and
   `tools/rrb-ntpc.ga-extra-check.js` now drive a list of sections
-  (`SECTION_IDS = ["general-awareness", "mathematics"]`) instead of a single
+  (`SECTION_IDS = ["general-awareness", "mathematics"]`, later extended with
+  `"reasoning"`) instead of a single
   `SECTION_ID`. A grouped section keys its articles `"<group>/<leaf>"`; a flat
   section keys them `"<section>/<leaf>"`. The check only requires an article for
   a leaf whose bank is no longer a thin stub (`> 5` questions), the same
@@ -1375,3 +1376,57 @@ What was done, so the next agent does not redo or undo it:
   fuzzy dedupe (ratio 0.90) of the new stems/explanations against the whole
   `data/` corpus found no new near-duplicate rows (the one 100% hit is the
   pre-existing sample question `number-system-001`, which the bank must keep).
+
+## Session record — Nov 2026 RRB NTPC Reasoning banks (Analogy, Classification / Odd One Out)
+
+What was done, so the next agent does not redo or undo it:
+
+- **First two Reasoning leaf topics filled.** `analogy` and
+  `classification-odd-one-out` each now hold a 65-question bilingual bank in
+  `data/exams/rrb-ntpc/reasoning/verbal-reasoning/<leaf>/question-001.json`
+  (64 new questions plus the one pre-existing sample, preserved). The other 30
+  reasoning leaves are still thin stubs (1 question, `noindex`).
+- **Every type of the topic, not one repeated shape.** Analogy covers number
+  (squares, cubes, ±1, fixed multiply/divide, roots), letter (position steps,
+  letter groups) and word relations (tool, young one, dwelling, sound,
+  instrument/quantity, profession/place, capital, product, festival/park,
+  synonym, antonym). Classification covers number (parity, prime, square, cube,
+  multiple, sequence), letter (vowels, steps, consecutive vs skipping pairs) and
+  word (living/non-living, birds/mammals, fruits/vegetables, metals, currencies,
+  sense organs, indoor/outdoor, state/city, carnivore/herbivore).
+- **Answer keys balanced** 17/16/16/16 over A/B/C/D, longest run 3;
+  `balance-answer-keys.js --book rrb-ntpc --topic reasoning/verbal-reasoning/
+  <leaf> --check` reports 0 skewed topics.
+- **No parallel tool.** The reasoning articles reuse the shared renderer rather
+  than adding a second one: `tools/rrb-ntpc.ga-extra.js` and
+  `tools/rrb-ntpc.ga-extra-check.js` gained `"reasoning"` in `SECTION_IDS`
+  (`["general-awareness", "mathematics", "reasoning"]`). Reasoning is a grouped
+  section, so its articles live at
+  `tools/rrb-ntpc-ga-articles/verbal-reasoning/<leaf>.js` and key as
+  `"verbal-reasoning/<leaf>"` — the same shape General Awareness already used.
+  Article sizes: analogy EN 2083 / AS 1684, classification EN 1924 / AS 1547,
+  5 FAQs each.
+- **Check gate is stub-aware for every section.** The 1300-word gate now skips
+  any leaf whose bank is still a thin stub (`<= 5` questions, the same
+  threshold `seo-indexing-fix.js` uses for `noindex`), reporting the count as
+  `leaves still on a stub bank`. This keeps the gate honest while reasoning and
+  mathematics are filled in topic by topic instead of failing on 60 stubs.
+- **Build order.** `tools/build-question-counts.js` → `build-rrb-ntpc-pages.js`
+  → `tools/rrb-ntpc.ga-extra.js` → `enrich-thin-pages.js` →
+  `apply-keyword-map.js --only-prefix exams/rrb-ntpc/` → `build-as-twins.js
+  --prefix exams/rrb-ntpc` → `seo-indexing-fix.js`. Idempotent (a second run
+  differs only in `data/counts.json`'s `generatedAt`). Both filled topics leave
+  the stub set, flip to `index, follow` and re-enter `sitemap.xml` (EN + `/as/`);
+  counts move the two keys 1 → 65, the reasoning section 32 → 160, exam total
+  38,717 → 38,845.
+- **Revert unrelated drift before committing.** The chain rewrites ~31 Assamese
+  General-Awareness twin pages (pre-existing breadcrumb-URL fix, present on a
+  pristine checkout too). `git checkout -- as/exams/rrb-ntpc/general-awareness/`
+  keeps the diff to the two reasoning leaves. Do **not** revert those two
+  leaves: their `noindex → index` flip is the intended result.
+- **Verification:** `rrb-ntpc.ga-extra-check.js` ends
+  `articles failing the 1300-word floor (either language): 0; missing: 0`;
+  `seo-audit.js` clean (thin 0, title >60 0, desc >160 0, dup titles/H1/desc 0,
+  sitemap alt drift/miss 0); fuzzy dedupe (ratio 0.90, EN + AS) of the new
+  stems and explanations against the whole `data/` corpus found 0 cross-bank
+  and 0 internal near-duplicates.
