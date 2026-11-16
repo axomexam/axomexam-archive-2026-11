@@ -1172,6 +1172,51 @@ already-committed tree therefore reports ~1,200 "changed" pages that are just
 that difference. If a fix does not change page markup, do **not** re-run the
 twin/keyword/SEO chain to "refresh" it — revert `*.html` and only re-run
 `scripts/stamp-assets.js` so the `api.js?v=` hash matches the rebuilt bundle.
+
+## Session record — Nov 2026 RRB NTPC Reasoning banks + reasoning article panels
+
+Two RRB NTPC Reasoning leaves were carried from a single seed question to a full
+65-question bilingual bank with a long-form article, so the reasoning pages now
+meet the same standards the GA pages already did.
+
+- **Banks (65 each, all sub-types).** `data/exams/rrb-ntpc/reasoning/
+  verbal-reasoning/analogy/question-001.json` and `.../classification-odd-one-out/
+  question-001.json`. One topic, one file — `index.json` still lists only
+  `question-001.json`. Analogy covers number, letter and word relations;
+  classification covers number, letter and word odd-one-out. Both are 65 items,
+  key spread A/B/C/D = 17/16/16/16, longest run 3, four distinct options each,
+  no blank stem or explanation.
+- **Dedup.** A fuzzy pass (`difflib.SequenceMatcher` at 0.90 on case- and
+  punctuation-folded text, English and Assamese) over the whole `data/` corpus
+  reports 0 cross-bank and 0 internal near-duplicates for these banks.
+- **Reasoning article renderer.** `tools/rrb-ntpc.reasoning-extra.js` mirrors
+  `tools/rrb-ntpc.ga-extra.js` for the reasoning section. It reads one module
+  per leaf from `tools/rrb-ntpc-reasoning-articles/<group>/<leaf>.js` (same
+  `{h2, p:{en,as}, list:{en,as}, faqs}` shape) and writes the
+  `section.axo-extra-content` block after `</main>`, replacing it in place on a
+  re-run (idempotent). Only the two leaves with modules get a panel; the other
+  30 reasoning leaves report as `missing article` and are skipped.
+- **Word-count gate widened.** `tools/rrb-ntpc.ga-extra-check.js` now checks
+  both article roots. GA leaves stay `required` (a missing module is a gate
+  failure); reasoning leaves are optional until authored, reported as
+  `articles not yet authored (no module)`. Current run ends
+  `articles failing the 1300-word floor (either language): 0; missing: 0`.
+  Analogy is en 2083 / as 1684; classification is en 1924 / as 1547.
+- **Build order used.** `build-question-counts.js` → `build-rrb-ntpc-pages.js`
+  → `enrich-thin-pages.js` → `apply-keyword-map.js --only-prefix
+  exams/rrb-ntpc/` → `rrb-ntpc.ga-extra.js` → `rrb-ntpc.reasoning-extra.js`
+  → `build-as-twins.js --prefix exams/rrb-ntpc` → `seo-indexing-fix.js`.
+  Two consecutive runs produced an identical changed-file set (idempotent).
+- **Effect.** Both leaves flip from `noindex, follow` to indexable, appear in
+  `sitemap.xml` (4 new URLs, EN + `/as/`), `data/counts.json` moves the two
+  keys 1 → 65 and the reasoning section 32 → 160, and the book hub/hero totals
+  follow. `tools/seo-audit.js` stays clean (thin 0, title/desc over-length 0,
+  dup titles/H1/descriptions 0, `sitemap alt drift`/`miss` 0).
+- **Left alone.** The 31 `as/exams/rrb-ntpc/general-awareness/**` twins that a
+  prefix twin run rewrites are pre-existing drift (the same set changes on a
+  pristine checkout), so they were reverted to keep this change scoped to the
+  reasoning leaves.
+
 ## Session record — Nov 2026 RRB NTPC GA article panels (23 topics) + Ancient History verification
 
 What was done, so the next agent does not redo or undo it:
