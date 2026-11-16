@@ -9557,6 +9557,11 @@
      language toggle through applyStaticI18n(). */
   const NOTIFICATIONS = [
     {
+      title: { en: "RRB NTPC full guide free book is live", as: "RRB NTPC সম্পূৰ্ণ গাইডৰ বিনামূলীয়া কিতাপ উপলব্ধ" },
+      desc: { en: "Mathematics, Reasoning and General Awareness — complete topic-wise questions with bilingual answers and explanations.", as: "গণিত, যুক্তি আৰু সাধাৰণ জ্ঞান — দ্বিভাষিক উত্তৰ আৰু ব্যাখ্যাৰ সৈতে সম্পূৰ্ণ বিষয়ভিত্তিক প্ৰশ্ন।" },
+      href: "/exams/rrb-ntpc/",
+    },
+    {
       title: { en: "Exam-wise free mock tests are live — test now", as: "পৰীক্ষা-ভিত্তিক বিনামূলীয়া মক টেষ্ট উপলব্ধ — এতিয়াই পৰীক্ষা দিয়ক" },
       desc: { en: "Full-paper timed mock tests for Assam Police, ADRE Grade III & IV and DHS & DME, with bilingual questions and instant scoring.", as: "অসম আৰক্ষী, ADRE তৃতীয় আৰু চতুৰ্থ শ্ৰেণী আৰু DHS আৰু DME-ৰ বাবে সম্পূৰ্ণ প্ৰশ্নকাকতৰ সময়বদ্ধ মক টেষ্ট, দ্বিভাষিক প্ৰশ্ন আৰু তৎক্ষণাত ফলাফলসহ।" },
       href: "/exam-wise-mock-test/",
