@@ -1,8 +1,8 @@
 "use strict";
 
 /* RRB NTPC Reasoning — Analogy (Number, Letter and Word based).
-   Rendered by tools/rrb-ntpc.ga-extra.js into the page's axo-extra-content
-   block (English panel + Assamese panel). */
+   Rendered by tools/rrb-ntpc.reasoning-extra.js into the page's
+   axo-extra-content block (English panel + Assamese panel). */
 
 module.exports = {
   h2: {

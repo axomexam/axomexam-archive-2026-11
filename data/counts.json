@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T13:20:02.720Z",
+  "generatedAt": "2026-11-16T06:47:29.331Z",
   "topicCounts": {
     "gk/assam-literature/ancient-pre-vaishnavite-sec/charyapada-folk-songs": 37,
     "gk/assam-literature/ancient-pre-vaishnavite-sec/early-poets-translations": 37,
@@ -739,8 +739,8 @@
     "rrb-ntpc/mathematics/statistics": 1,
     "rrb-ntpc/mathematics/data-interpretation": 1,
     "rrb-ntpc/mathematics": 32,
-    "rrb-ntpc/reasoning/verbal-reasoning/analogy": 1,
-    "rrb-ntpc/reasoning/verbal-reasoning/classification-odd-one-out": 1,
+    "rrb-ntpc/reasoning/verbal-reasoning/analogy": 65,
+    "rrb-ntpc/reasoning/verbal-reasoning/classification-odd-one-out": 65,
     "rrb-ntpc/reasoning/verbal-reasoning/number-series": 1,
     "rrb-ntpc/reasoning/verbal-reasoning/alphabet-series": 1,
     "rrb-ntpc/reasoning/verbal-reasoning/coding-decoding": 1,
@@ -755,7 +755,7 @@
     "rrb-ntpc/reasoning/verbal-reasoning/logical-sequence-words": 1,
     "rrb-ntpc/reasoning/verbal-reasoning/clock-calendar": 1,
     "rrb-ntpc/reasoning/verbal-reasoning/input-output": 1,
-    "rrb-ntpc/reasoning/verbal-reasoning": 16,
+    "rrb-ntpc/reasoning/verbal-reasoning": 144,
     "rrb-ntpc/reasoning/analytical-logical-reasoning/syllogism": 1,
     "rrb-ntpc/reasoning/analytical-logical-reasoning/venn-diagrams": 1,
     "rrb-ntpc/reasoning/analytical-logical-reasoning/statement-conclusions": 1,
@@ -774,9 +774,9 @@
     "rrb-ntpc/reasoning/non-verbal-reasoning/figure-series": 1,
     "rrb-ntpc/reasoning/non-verbal-reasoning/cube-dice": 1,
     "rrb-ntpc/reasoning/non-verbal-reasoning": 7,
-    "rrb-ntpc/reasoning": 32
+    "rrb-ntpc/reasoning": 160
   },
-  "examsTotal": 38577,
+  "examsTotal": 38705,
   "mockTotal": 4810,
   "topicsTotal": 717
 }
