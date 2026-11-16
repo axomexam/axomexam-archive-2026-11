@@ -266,6 +266,75 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+## Session record — Nov 2026 RRB NTPC Analytical Reasoning banks, batch 2 (4 topics × 80)
+
+Four more analytical-logical-reasoning leaf banks were filled from their
+one-question stubs to 80 bilingual MCQs each, each covering **every type** of
+its topic, with answer keys balanced and a 1300+ word article per language:
+
+- `assertion-reason` — both-true-explains, both-true-not-explains, A-true-R-false,
+  A-false-R-true, both-false, and single-assertion pick-the-reason. Types A–D
+  use the classic option set in its conventional order, so their correct
+  indices are fixed (0/1/2/3); type E and F carry their own option text and
+  supply the four extra keys each slot needs for a 20/20/20/20 spread.
+- `venn-diagrams` — pair relation, three-class arrangement, pick-the-pair for
+  separate / overlapping / contained, and statement-to-set-expression.
+- `statement-course-of-action` — two-course (only I / only II / both / neither),
+  single-course (suitable / unsuitable / suitable-but-not-sufficient), and
+  problem-with-four-courses.
+- `decision-making-data-sufficiency` — data sufficiency (I alone / II alone /
+  both / neither) and decision making (pick the most appropriate decision).
+
+Generator scripts live in `/tmp/rrb4/` (regenerable). Each emits
+`question-001.json` only (never `-002`) and removes stray higher-numbered
+files. Answer keys are balanced by rotating the whole option array so the
+correct option keeps its text and only its position changes; every bank ends
+at A/B/C/D = 20/20/20/20. All four banks use exactly 4 options per question and
+Assamese digits (০–৯) in Assamese text.
+
+- **Dedup gotcha — a shared stem template collides across books.** The first
+  Venn draft used "Which diagram best shows the relation between X and Y?",
+  which fuzzy-matched (r≈0.90–0.97) nine questions in
+  `data/exams/adre-grade-3/logical-reasoning/verbal-reasoning/venn-diagrams/`
+  because that book uses the same template. Rewording the RRB stem to "Two
+  classes are named, X and Y. Which circle arrangement correctly represents
+  how the first class relates to the second?" took the cross-book fuzzy count
+  from 9 to 0. Standing rule reminder: dedup is by meaning, not exact text, and
+  a shared template is enough to trip it — reword, never drop the fact.
+- **Assamese digit rule.** Assamese question and explanation text carries
+  Assamese numerals. A math expression such as `x = 10` typed in ASCII digits
+  slipped through once; the data-sufficiency generator now folds ASCII digits
+  to Assamese with `str.maketrans` before writing. Check: no ASCII digit in any
+  `q.as` / `explanation.as` / option `as`.
+- **Article panels** added at
+  `tools/rrb-ntpc-ga-articles/analytical-logical-reasoning/{assertion-reason,venn-diagrams,statement-course-of-action,decision-making-data-sufficiency}.js`.
+  Rendered word counts (EN / AS): assertion-reason 1672/1323, venn-diagrams
+  1464/1368, statement-course-of-action 1477/1335,
+  decision-making-data-sufficiency 1498/1326. All clear the 1300 floor.
+- **Build chain (idempotent).** `tools/build-question-counts.js` →
+  `tools/build-rrb-ntpc-pages.js` → `tools/rrb-ntpc.ga-extra.js` →
+  `tools/enrich-thin-pages.js` → `tools/apply-keyword-map.js --only-prefix
+  exams/rrb-ntpc/` → `tools/build-as-twins.js --prefix exams/rrb-ntpc` →
+  `tools/seo-indexing-fix.js` → `scripts/inject-ga.js .` →
+  `tools/strip-adsense-from-as.js` → `tools/fix-duplicate-doctype.js`. A second
+  run produced a byte-identical git tree (`git write-tree` equal before/after),
+  so the chain is idempotent. After the run: `rrb-ntpc.ga-extra-check.js` ends
+  `articles failing the 1300-word floor (either language): 0; missing: 0`, and
+  `seo-audit.js` reports 0 for thin / title>60 / desc>160 / dup titles / dup H1
+  / dup descriptions / sitemap alt drift / sitemap alt miss.
+- **Scope.** Only the four topic banks, their four article modules, and the
+  regenerated `data/counts.json`, RRB NTPC hub/group/leaf pages, `/as/` twins
+  and `sitemap.xml` changed. No other book or bank was touched. All four topics
+  left the stub set, flipped to `index, follow`, and re-entered the sitemap
+  (EN + `/as/`). Remaining RRB NTPC reasoning stubs are the seven
+  non-verbal-reasoning leaves, which keep the `nv-*` figure format and were not
+  part of this batch.
+- **Push.** `main` fast-forwarded to `b56051b6` (origin tip `90dd98f4` was an
+  ancestor). The default `GITHUB_TOKEN` identity lacks push rights on this repo;
+  the site owner's repo-scoped token was used, and the remote URL was reset to
+  the clean HTTPS form afterwards. GitHub Pages built the commit and all four
+  topics are live (EN + `/as/`, 200, 80-question badge, article panel present).
+
 ## Session record — Nov 2026 RRB NTPC Space & Defence question bank (251 MCQs)
 
 What was done, so the next agent does not redo or undo it:
