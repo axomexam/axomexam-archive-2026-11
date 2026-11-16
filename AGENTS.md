@@ -1749,3 +1749,49 @@ What was done, so the next agent does not redo or undo it:
   missing H1/desc/canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0,
   sitemap alt miss 0); every bank validated for schema, 4 unique options,
   bilingual stems and explanations, unique ids.
+
+## Session — RRB NTPC Mathematics batch 4 (topics 14–17 continuation)
+
+- **Four new bilingual banks, 80 hard/difficult MCQs each**, in
+  `data/exams/rrb-ntpc/mathematics/<topic>/question-001.json`:
+  - `pipes-cisterns` — two inlets, inlet+outlet, three pipes, leak/emptying,
+    pipe closed early, pipe opened late, alternate opening, A/B/C two-at-a-time,
+    fraction-full, never-fills and tank-empties cases.
+  - `time-speed-distance` — direct S/D/T, km/h ↔ m/s, average speed (equal
+    distance = harmonic, equal time = arithmetic, three distances), relative
+    speed (same/opposite), meeting and catching, mixed-mode travel with one
+    unknown, late/early margins, stoppage-per-hour, two-part journeys.
+  - `problems-on-trains` — pole crossing, platform/bridge crossing, speed/length
+    reverse cases, two trains (opposite and same direction, equal-length,
+    speed-finding from two crossing times), overtaking a walking man, pole +
+    platform two-equation families.
+  - `boats-streams` — downstream/upstream direct and reverse, still-water and
+    stream speed, time downstream/upstream, same-distance same-time equation,
+    round trips, ratio-of-times families, and the boat's-own-speed-constant
+    across two streams case.
+- **Answer keys balanced 20/20/20/20** over A/B/C/D for all four
+  (`balance-answer-keys.js --book rrb-ntpc --topic mathematics/<t>`).
+- **Deduped against the whole corpus.** A fuzzy pass (`rapidfuzz`, ratio >= 95)
+  over every other `data/exams/**/question-*.json` bank (40,518 rows) found
+  exact cross-bank duplicates: 0 and no >=95 match; internal >=97 pairs are all
+  template-level (same shape, different numbers), consistent with the batch-3
+  precedent. A few "standard numbers" hand-waves and two inconsistent
+  two-train/round-trip rows were rewritten so every stem and explanation is
+  arithmetically exact, and 2–3 redundant template repeats were dropped to land
+  exactly on 80 per topic.
+- **Article panels.** New sources
+  `tools/rrb-ntpc-ga-articles/mathematics/{pipes-cisterns,time-speed-distance,problems-on-trains,boats-streams}.js`
+  (EN 1507/1418/1342/1337 words, AS 1401/1364/1348/1415 words, 5 FAQs and a
+  10-item key-facts list each); `rrb-ntpc.ga-extra-check.js` reports 0 failing
+  the 1300-word floor.
+- **Build order** unchanged: counts → pages → ga-extra → enrich → keyword-map →
+  as-twins → seo-indexing-fix, idempotent (only `counts.json`'s `generatedAt`
+  moves). The exam hub now reports 8,841 questions.
+- **Revert unrelated drift before committing**, as before:
+  `git checkout -- as/exams/rrb-ntpc/general-awareness/`. Do not revert the four
+  target mathematics leaves.
+- **Verification:** `seo-audit.js` clean (1321 pages, sitemap 2524, thin 0,
+  missing H1/desc/canonical/JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0,
+  sitemap alt miss 0); every bank validated for schema, 4 unique options,
+  bilingual stems and explanations, unique ids; all four EN+AS pages show
+  80 questions and the article panel, `noindex=0`.
