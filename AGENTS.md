@@ -1324,3 +1324,54 @@ is needed for the swap to appear.
 `railway-logo.webp`, `ssc-logo.webp`); book cover art belongs in
 `<id>-cover.webp`, which the `/exams` cards render. `tools/build-exam-logos.js`
 performs the trim/centre/512px treatment when raw art is dropped in `exam logo/`.
+
+## Session record — Nov 2026 RRB NTPC Mathematics banks (Number System, Simplification & BODMAS)
+
+What was done, so the next agent does not redo or undo it:
+
+- **First two Mathematics leaf topics filled.** The RRB NTPC book's
+  `mathematics` section holds 32 flat leaf topics (no group level, unlike
+  General Awareness). `number-system` and `simplification-bodmas` now each hold
+  a 71-question bilingual bank in
+  `data/exams/rrb-ntpc/mathematics/<leaf>/question-001.json` (70 new questions
+  plus the one pre-existing sample, which was preserved). The remaining 30 math
+  leaves are still thin stubs (1 question, `noindex`).
+- **Every type of the topic, not one repeated shape.** Number System covers
+  primes/composites, twin primes, divisibility rules, HCF/LCM, place value,
+  perfect squares and cubes, fractions to decimals, series sums
+  (natural/odd/even/square/cube), remainders and unit digits. Simplification &
+  BODMAS covers order of operations, brackets, fraction chains, decimal
+  division, surds and indices, and percentage/ratio simplifications.
+- **Answer keys balanced** 18/18/18/17 over A/B/C/D; `balance-answer-keys.js
+  --book rrb-ntpc --topic mathematics/<leaf> --check` reports 0 skewed topics.
+- **Article panels for a flat section.** `tools/rrb-ntpc.ga-extra.js` and
+  `tools/rrb-ntpc.ga-extra-check.js` now drive a list of sections
+  (`SECTION_IDS = ["general-awareness", "mathematics"]`) instead of a single
+  `SECTION_ID`. A grouped section keys its articles `"<group>/<leaf>"`; a flat
+  section keys them `"<section>/<leaf>"`. The check only requires an article for
+  a leaf whose bank is no longer a thin stub (`> 5` questions), the same
+  threshold `seo-indexing-fix.js` uses for `noindex`. New article sources:
+  `tools/rrb-ntpc-ga-articles/mathematics/{number-system,simplification-bodmas}.js`
+  (EN 2034/1622 words, AS 1613/1351 words, 5 FAQs each).
+- **Build order matters (again).** After editing a bank run, in order:
+  `tools/build-question-counts.js` → `tools/build-rrb-ntpc-pages.js` →
+  `tools/rrb-ntpc.ga-extra.js` → `tools/enrich-thin-pages.js` →
+  `tools/apply-keyword-map.js --only-prefix exams/rrb-ntpc/` →
+  `tools/build-as-twins.js --prefix exams/rrb-ntpc` →
+  `tools/seo-indexing-fix.js`. The chain is idempotent (a second run differs
+  only in `data/counts.json`'s `generatedAt`). Both filled topics leave the
+  stub set, flip to `index, follow`, and re-enter `sitemap.xml` (EN + `/as/`).
+  Hub counts follow: Mathematics hub reads 172 questions across 32
+  sub-categories, exam hub 6,555.
+- **Revert unrelated drift before committing.** `build-rrb-ntpc-pages.js` +
+  the chain also rewrite ~31 Assamese General-Awareness twin pages (a
+  pre-existing breadcrumb-URL fix) and re-touch the math stub leaves. Those are
+  out of scope for a math content change — `git checkout -- as/exams/rrb-ntpc/
+  general-awareness` (and any other untouched groups) to keep the diff to
+  mathematics only. Do **not** revert the two target leaves: their
+  `noindex → index` flip is the intended result.
+- **Verification:** `seo-audit.js` clean (thin 0, missing H1/desc/canonical/
+  JSON-LD 0, title/desc limits 0, dup titles/H1/desc 0, sitemap alt miss 0);
+  fuzzy dedupe (ratio 0.90) of the new stems/explanations against the whole
+  `data/` corpus found no new near-duplicate rows (the one 100% hit is the
+  pre-existing sample question `number-system-001`, which the bank must keep).
