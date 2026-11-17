@@ -2576,3 +2576,49 @@ traffic this site has, and it will always read lower than reality.
 page_view therefore lands on `/` with a `?/` query before the cleaned URL is
 recorded, so a deep-linked visit can be attributed to the home page. The
 trailing-slash URLs (`/leaderboard/`) serve 200 directly and are unaffected.
+
+### Leaderboard name validation hardened against junk input (17 Nov 2026)
+
+**Problem.** The owner reported visitors submitting "ulta-pulta" names — random
+keyboard mashing and placeholder words. `validateName` only enforced 2–20
+characters, an allowed-character class, and a profanity substring list, so
+`asdfgh`, `qwerty`, `1234`, `test`, `aaaa`, `hello`, `admin` and `abcd` all
+reached the public board.
+
+**Fix.** `validateName` in `js/leaderboard.src.js` gained four new checks and
+two new rejection codes:
+
+- `noname` — no letter at all after stripping digits, spaces and underscores
+  (`1234`, `1 2 3`, `___`). The letter test uses `\p{L}\p{M}`, so an Assamese
+  or Devanagari name still passes; a Latin-only `[a-z]` test would have
+  rejected `ৰাহুল`.
+- `junk` — covers three shapes: a whole-word match against `JUNK_NAMES`
+  (`test`, `admin`, `hello`, `abcd`, …), a single repeated character (`aaaa`,
+  `zzzz`), a four-character run along a keyboard row or the alphabet in either
+  direction (`asdf`, `qwerty`, `fdsa`, `4321`), and five consonants in a row
+  (`zxcvbn`).
+
+`JUNK_NAMES` is matched against the flattened name with digits removed, so
+`Test`, `test_1` and `TEST 12` all land in one bucket. Two entries were
+deliberately left out: `nan` and `nil` are real names in India, and blocking
+them would cost more than the junk they filter.
+
+The mash checks run on `flat`, the ASCII-only projection of the name. For an
+Assamese or Devanagari name `flat` is empty, so they are skipped rather than
+misfiring — that is why the guard is `if (word)` and not an unconditional
+chain.
+
+**Messages.** `lb.name.junk` and `lb.name.noname` were added to both `en` and
+`as` dictionaries in `js/i18n.src.js` and mapped in the modal's error switch
+in `js/leaderboard-ui.src.js`. Dictionary parity is unchanged at 388 keys per
+language.
+
+**Verified end to end against the real minified bundles.** Driving the actual
+opt-in popup and name modal in jsdom: 13 junk inputs blocked with the right
+message, 8 real names saved (including `ৰাহুল`, `अनुज`, `Rahul Das 21`,
+`Amit_Kumar`), and the Assamese UI renders the Assamese strings. Unit coverage
+lives in the `lbname` suite (76 cases).
+
+**Known limit.** A dot or other punctuation is still rejected, because the
+security rules' character class excludes it; `B. K. Sharma` cannot be entered.
+That predates this change.

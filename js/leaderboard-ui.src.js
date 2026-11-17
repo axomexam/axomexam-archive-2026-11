@@ -186,6 +186,8 @@
         if (check.code === "short") showErr("lb.name.short", "Please enter at least 2 characters.");
         else if (check.code === "long") showErr("lb.name.long", "Please keep the name within 20 characters.");
         else if (check.code === "chars") showErr("lb.name.chars", "Only letters, numbers, spaces and underscore are allowed.");
+        else if (check.code === "junk") showErr("lb.name.junk", "Please enter your real name, not a random word.");
+        else if (check.code === "noname") showErr("lb.name.noname", "Please enter a name with at least one letter.");
         else showErr("lb.name.bad", "This name is not allowed. Please choose another.");
         input.focus();
         return;

@@ -210,6 +210,51 @@
     "randi", "bhadwa", "bhosdike", "loda", "lodu", "suar", "kutta",
   ];
 
+  /* Words people type to get past a required field. Matched whole, after
+     lowercasing and dropping spaces, underscores and digits, so "Test",
+     "test_1" and "TEST 12" all land here. */
+  const JUNK_NAMES = [
+    "test", "testing", "tester", "admin", "administrator", "user", "username",
+    "guest", "null", "undefined", "none", "name", "noname",
+    "anonymous", "unknown", "unknownuser", "asdf", "asdfasdf", "qwerty",
+    "abc", "abcd", "abcde", "abcabc", "xyz", "xxx", "yyy", "zzz", "aaa",
+    "bbb", "ccc", "temp", "demo", "sample", "dummy", "foo", "bar", "baz",
+    "lorem", "ipsum", "blah", "hello", "hi", "hey", "student", "candidate",
+  ];
+
+  /* Four characters straight off a keyboard row or the alphabet is a mash,
+     not a name. Checked both ways, so "asdf", "fdsa" and "4321" all hit. */
+  const KEY_ROWS = [
+    "qwertyuiop", "asdfghjkl", "zxcvbnm", "1234567890",
+    "abcdefghijklmnopqrstuvwxyz",
+  ];
+
+  function hasKeyRun(flat) {
+    return KEY_ROWS.some((row) => {
+      const rev = row.split("").reverse().join("");
+      for (let i = 0; i + 4 <= row.length; i++) {
+        if (flat.includes(row.slice(i, i + 4)) || flat.includes(rev.slice(i, i + 4))) return true;
+      }
+      return false;
+    });
+  }
+
+  /* Five consonants in a row ("asdfgh", "qwrtp") cannot start a real name
+     in any language that spells itself out. */
+  function hasConsonantRun(letters) {
+    let run = 0;
+    for (let i = 0; i < letters.length; i++) {
+      run = "aeiouy".includes(letters[i]) ? 0 : run + 1;
+      if (run >= 5) return true;
+    }
+    return false;
+  }
+
+  function allSameChar(s) {
+    for (let i = 1; i < s.length; i++) if (s[i] !== s[0]) return false;
+    return s.length > 1;
+  }
+
   function normalizeName(raw) {
     return String(raw == null ? "" : raw)
       .replace(/[\u200B-\u200D\uFEFF]/g, "")   /* zero-width chars */
@@ -231,6 +276,26 @@
     if (flat && BAD_WORDS.some((w) => flat.includes(w))) {
       return { ok: false, code: "bad", name };
     }
+
+    /* Must hold at least one letter. "1234" and "1 2 3" are not names.
+       Script-aware: \p{L} keeps "ৰাহুল" valid while rejecting digits-only. */
+    const lettersOnly = name.replace(/[^\p{L}\p{M}]/gu, "");
+    if (!lettersOnly) return { ok: false, code: "noname", name };
+
+    /* The mash checks below are Latin-only. `flat` drops every non-ASCII
+       character, so for an Assamese or Devanagari name it comes out empty
+       and these tests are skipped rather than misfiring. Digits may tag
+       onto a real name ("Rahul Das 21"); they cannot be the whole thing. */
+    const word = flat.replace(/[0-9]/g, "");
+    if (flat && !word) return { ok: false, code: "noname", name };
+
+    if (word) {
+      if (JUNK_NAMES.indexOf(word) !== -1) return { ok: false, code: "junk", name };
+      if (allSameChar(word)) return { ok: false, code: "junk", name };
+      if (hasKeyRun(flat)) return { ok: false, code: "junk", name };
+      if (hasConsonantRun(word)) return { ok: false, code: "junk", name };
+    }
+
     return { ok: true, name };
   }
 
