@@ -682,31 +682,74 @@ aapka personal Gmail bhi chalega.
 
 #### Step 1 — Firebase project banao
 
+> **Note:** Is step mein **left side koi menu nahi aayega** — ye normal hai.
+> Left menu project ban jaane ke **baad** dikhta hai. Yahan sirf ek wizard
+> chalega, usko follow karo.
+
 1. Kholo 👉 **https://console.firebase.google.com**
 2. Usi Google account se login karo
 3. **"Create a project"** / **"Add project"** par click karo
+   - Agar pehle se koi project hai, to **"Add project"** button upar dikhega
 4. Project ka naam likho: `axomexam` (kuch bhi likh sakte ho)
 5. **Google Analytics** poochega → **OFF kar do** (band kar do)
    - Kyun: aapki site par GA4 already laga hai (`G-PBPXK2Q799`). Yahan ON
      karne se duplicate ho jayega. **OFF hi rakho.**
 6. **"Create project"** → 1 minute wait → **"Continue"**
 
+Ab aap **Project Overview** page par pahunch jaoge. **Yahin se left menu
+dikhega.**
+
 #### Step 2 — Firestore database banao
 
-1. Left menu mein **"Build"** → **"Firestore Database"** par click karo
-2. **"Create database"** par click karo
-3. **Mode poochega** → **"Production mode"** chuno (Test mode nahi — wo 30 din
+> ⚠️ **Firebase apna UI baar-baar badalta hai.** Isliye Firestore dhundhne ke
+> **teen tarike** neeche diye hain. Jo kaam kare wahi use karo.
+
+**Pehle left menu kholo:**
+
+- Agar left menu dikh raha hai → theek hai, aage badho
+- Agar left menu **band / chhota** hai → upar-left corner mein **☰ (hamburger)**
+  icon par click karo, menu khul jayega
+- Agar phone par ho → menu icon tap karo, ya screen landscape karo
+
+**Firestore dhundhne ke 3 tarike (koi ek):**
+
+| Tarika | Kya karo |
+|---|---|
+| **A. "Build" category se** | Left menu mein **"Build"** par click karo → uske andar **"Firestore Database"** dikhega |
+| **B. Seedha naam se** | Left menu mein seedha **"Firestore Database"** likha dikhe — usi par click karo |
+| **C. Search se** ⭐ | Upar search bar mein type karo **`Firestore`** → result par click karo |
+
+> **"Build" kahan gaya?** Naye Firebase console mein kuch categories
+> ("Build", "Run", "Engage") **collapse** rehti hain. Unke aage **`>`** ya
+> **`v`** arrow hoga — us arrow par click karo to andar ki items khulengi.
+> Kuch accounts mein ye category hata kar items seedha list kar diye gaye
+> hain. Isliye **search (tarika C)** sabse pakka hai.
+
+**Firestore mil gaya? Ab:**
+
+1. **"Create database"** par click karo
+2. **Mode poochega** → **"Production mode"** chuno (Test mode nahi — wo 30 din
    mein expire ho jaata hai)
-4. **Location poochega** → **`asia-south1` (Mumbai)** chuno
+3. **Location poochega** → **`asia-south1` (Mumbai)** chuno
    - Kyun: aapke users India mein hain, isse speed tez milegi
    - ⚠️ Ye baad mein **badla nahi ja sakta**, isliye dhyan se chuno
-5. **"Enable"** → 1 minute wait
+4. **"Enable"** → 1 minute wait
+
+> **Firestore ke naam ke variants:** Kuch accounts mein "Firestore Database"
+> ki jagah **"Firestore"** ya **"Cloud Firestore"** likha hota hai. Teeno ek
+> hi cheez hain — jo bhi dikhe usi par click karo. (Ek aur cheez hoti hai
+> **"Realtime Database"** — wo **alag** hai, usko **na** chuno.)
 
 #### Step 3 — Web app register karo (config lene ke liye)
 
-1. Project ke **overview page** par jao (left menu mein ⚙️ ke upar project ka
-   naam hai)
-2. **`</>`** icon (Web) par click karo
+1. **Project Overview** page par jao — left menu mein sabse upar project ka
+   naam (`axomexam`) par click karo, ya left menu mein **"Project Overview"**
+   par click karo
+2. Wahan **`</>`** icon (Web) dikhega. Web app add karne ke 3 tarike:
+   - **Tarika A** ⭐ — Project Overview page par **`</>`** icon par click karo
+   - **Tarika B** — ⚙️ (gear) → **"Project settings"** → neeche **"Your apps"**
+     → **`</>`** icon par click karo
+   - **Tarika C** — Upar search bar mein `add app` type karo
 3. App ka nickname likho: `axomexam-web`
 4. **"Firebase Hosting"** ka checkbox **hata do** (hum GitHub Pages use karte hain)
 5. **"Register app"** par click karo
@@ -728,10 +771,18 @@ const firebaseConfig = {
 
 7. **"Continue to console"**
 
+> **Config baad mein phir se kahan milega?** ⚙️ **Project settings** →
+> neeche scroll karo → **"Your apps"** → **"SDK setup and configuration"**
+> → **"Config"** radio button. Wahan wahi block dobara dikhega. Isliye
+> bhejna bhool jao to chinta mat karo.
+
 #### Step 4 — Security rules lagao
 
-1. Firestore Database → **"Rules"** tab kholo
-2. Jo likha hai wo **poora delete** karo, aur ye paste karo:
+1. Firestore Database kholo (Step 2 ke teen tarike yaad karo — search sabse
+   pakka)
+2. **"Rules"** tab par click karo (upar **Data | Rules | Indexes | Usage**
+   mein se **Rules**)
+3. Jo likha hai wo **poora delete** karo, aur ye paste karo:
 
 ```
 rules_version = '2';
@@ -762,7 +813,7 @@ service cloud.firestore {
 }
 ```
 
-3. **"Publish"** par click karo
+4. **"Publish"** par click karo (button upar-right mein hai)
 
 **Ye rules kya karti hain:**
 - Sab log leaderboard **padh** sakte hain
