@@ -84,7 +84,24 @@
       return;
     }
 
+    /* No name of their own yet, so ask again after every mock test until
+       they type one. Skipping still puts the score on the board, under a
+       placeholder identity, and leaves `storedName()` empty. */
     askToJoin(scope, pct, done);
+  }
+
+  /* Skipping (or cancelling the name step) submits under a placeholder
+     name such as "Unknown user 4821" and then shows the result. The write
+     is best-effort: a failure must never hold up the score screen. */
+  function submitAnonymously(scope, pct, then) {
+    let settled = false;
+    const once = () => { if (settled) return; settled = true; then(); };
+    try {
+      LB.anonymousName()
+        .then((nick) => (nick ? LB.submitScore(scope, pct, nick) : null))
+        .catch(() => {})
+        .then(once, once);
+    } catch (e) { once(); }
   }
 
   function askToJoin(scope, pct, done) {
@@ -94,10 +111,9 @@
     box.innerHTML = `
       <div class="lb-modal-backdrop"></div>
       <div class="lb-modal-box" role="dialog" aria-modal="true" aria-labelledby="lb-join-title">
-        <button class="lb-close" type="button" aria-label="Close">✕</button>
         <div class="lb-modal-ico">🏆</div>
         <h3 id="lb-join-title">${esc(tx("lb.join.title", "Join the leaderboard?"))}</h3>
-        <p>${esc(tx("lb.join.body", "Your name will be shown on the leaderboard with your best score."))}</p>
+        <p>${esc(tx("lb.join.body", "Your name will be shown on the leaderboard with your best score. You can skip this — your mock test will still run normally."))}</p>
         <div class="lb-modal-actions">
           <button class="btn btn-outline" id="lb-join-skip" type="button">${esc(tx("lb.join.skip", "Skip"))}</button>
           <button class="btn btn-primary" id="lb-join-yes" type="button">${esc(tx("lb.join.yes", "Yes, add me"))}</button>
@@ -105,13 +121,20 @@
       </div>`;
     document.body.appendChild(box);
 
+    let finished = false;
     const close = () => box.remove();
-    const finish = () => { close(); done(); };
+    const finish = () => { if (finished) return; finished = true; close(); done(); };
 
-    box.querySelector(".lb-close").addEventListener("click", finish);
-    box.querySelector(".lb-modal-backdrop").addEventListener("click", finish);
-    el("lb-join-skip").addEventListener("click", finish);
+    /* The popup deliberately has no close button and no backdrop dismissal:
+       the visitor must choose Skip or Yes, so the choice is never made by a
+       stray tap on the dimmed background. */
+    el("lb-join-skip").addEventListener("click", () => {
+      if (finished) return;
+      close();
+      submitAnonymously(scope, pct, finish);
+    });
     el("lb-join-yes").addEventListener("click", () => {
+      if (finished) return;
       close();
       askName(scope, pct, done);
     });
@@ -124,7 +147,6 @@
     box.innerHTML = `
       <div class="lb-modal-backdrop"></div>
       <div class="lb-modal-box" role="dialog" aria-modal="true" aria-labelledby="lb-name-title">
-        <button class="lb-close" type="button" aria-label="Close">✕</button>
         <div class="lb-modal-ico">✍️</div>
         <h3 id="lb-name-title">${esc(tx("lb.name.title", "Enter your name"))}</h3>
         <p>${esc(tx("lb.name.body", "This name will appear on the leaderboard."))}</p>
@@ -144,10 +166,16 @@
     setTimeout(() => input.focus(), 30);
 
     let finished = false;
-    const finish = () => { if (finished) return; finished = true; box.remove(); done(); };
-    box.querySelector(".lb-close").addEventListener("click", finish);
-    box.querySelector(".lb-modal-backdrop").addEventListener("click", finish);
-    el("lb-name-cancel").addEventListener("click", finish);
+    const close = () => box.remove();
+    const finish = () => { if (finished) return; finished = true; close(); done(); };
+
+    /* No backdrop dismissal here either. Cancel means "no name after all",
+       which is the same outcome as Skip: an anonymous entry. */
+    el("lb-name-cancel").addEventListener("click", () => {
+      if (finished) return;
+      close();
+      submitAnonymously(scope, pct, finish);
+    });
 
     const showErr = (key, fallback) => { err.textContent = tx(key, fallback); };
 

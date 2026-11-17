@@ -2351,8 +2351,65 @@ console can remove.
 
 **Test suites.** `lbtest` (27) and `lblive2` (10) cover the core module,
 including live Firestore. `lblang` (8) loads the shipped i18n + UI files with a
-DOM shim and checks content-language rendering. `lbui` (25) drives the real
+DOM shim and checks content-language rendering. `lbui` (37) drives the real
 popup in jsdom: opt-in, skip, taken name, dead network, double click, close
-mid-flight, and the page under a dead network. `lbui` needs `jsdom` in
-`node_modules` (dev-only, never shipped) and is invoked as
-`node --unhandled-rejections=warn /tmp/lbui.mjs`.
+mid-flight, and the page under a dead network. `lbanon` (9) exercises
+`anonymousName()` against the real core with a stubbed fetch: placeholder
+shape, collision retry, persistence and the offline fallback. `lbflow` (15)
+runs the whole opt-in flow in jsdom with the real core module and only the
+network stubbed, so the writes are inspected without touching Firestore.
+`lbui` and `lbflow` need `jsdom` in `node_modules` (dev-only, never shipped).
+Run them from the repo root: `node /tmp/lbui.mjs`.
+
+**Never run `lbspace` / `lbspace2` for a quick check.** They call the live
+`reserveName` and `submitScore`, so each run leaves a public `lb_names` and
+`lb_scores` row behind. Client delete is blocked by the rules (403), so the
+leftovers can only be removed from the Firebase console. The offline suites
+above cover the same ground with a stubbed fetch. Two such rows
+(`rahul das`, `sita devi <n>`) were created on 17 Nov 2026 this way and are
+owed to the owner for console cleanup.
+
+## Session record — Nov 2026 Leaderboard opt-in popup hardening
+
+Three changes the owner asked for after using the popup on a real mock test.
+
+**1. The popup can no longer be dismissed by accident.** The join popup had a
+`✕` close button and a backdrop click handler, both wired to `finish`, so a
+stray tap on the dimmed background skipped the choice. Both handlers are gone
+from `askToJoin`; the visitor must press Skip or Yes. The name popup lost its
+backdrop handler and its `✕` too, for the same reason. The dead `.lb-close`
+rules came out of `css/style.src.css`. Both popups keep an idempotent
+`finished` guard so a double tap still calls `done` exactly once.
+
+**2. Skipping still puts the score on the board.** Skip used to call `done()`
+and write nothing. It now submits the score under a placeholder identity such
+as `Unknown user 4821`, so the board shows a row instead of nothing.
+`anonymousName()` in `js/leaderboard.src.js` reserves the placeholder through
+`reserveName` (retrying on a collision, up to six times) and falls back to the
+candidate anyway if the reservation cannot be reached, because the score
+write is best-effort and must never hold up the result screen.
+`submitAnonymously()` in the UI layer runs that chain and calls `done` from a
+`finally`-style guard whatever happens.
+
+**3. The popup keeps asking until a name is typed.** The placeholder lives in
+its own key, `axomexam-anon-name`, so `storedName()` (which reads
+`axomexam-name`) stays empty. `beforeFinalSubmit` therefore still shows the
+popup on the next mock test. Only `attemptSave` writing a real name fills
+`axomexam-name`, and that is what stops the asking. This is deliberate: the
+placeholder is an alias for the board, not a substitute for the visitor's own
+name.
+
+Cancel on the name step is now the same outcome as Skip (an anonymous entry),
+which keeps the guarantee that the result screen always appears.
+
+**Copy updated to match.** The FAQ and the "No account, no login" paragraph on
+both `leaderboard/index.html` and `as/leaderboard/index.html`, plus
+`lb.join.body` in `js/i18n.src.js` (EN and AS), now say that skipping still
+records the score under a placeholder name.
+
+**Verification.** 100 assertions pass across six suites: `lbtest` 27, `lbui`
+37, `lbflow` 15, `lbanon` 9, `lblang` 8, `lbguard` 4. The popup was also
+rendered in a real browser: only Skip and Yes are present, with no `✕`, and a
+backdrop click leaves it open. `lboffline3` fails on pristine code as well
+(`setTimeout is not defined` in its own shim), so it is not a regression from
+this change and was left alone.

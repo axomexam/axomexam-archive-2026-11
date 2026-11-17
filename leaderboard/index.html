@@ -69,7 +69,7 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Noto+Serif+Bengali:wght@500;600;700&family=Noto+Sans+Bengali:wght@400;500;600;700&display=swap" /></noscript>
 
   <!-- Fixed Absolute CSS Path -->
-  <link rel="stylesheet" href="/css/style.css?v=07e68eab" />
+  <link rel="stylesheet" href="/css/style.css?v=03d94ca9" />
 
   <!-- GitHub Pages / Netlify Clean URL Single Page App Redirection Handler -->
   <script>
@@ -216,7 +216,7 @@
         <h2 style="margin-top:0; color:var(--ink,#0f172a);">How the axomexam leaderboard works</h2>
         <p>The leaderboard shows the five best scores in each mock-test sub-category, followed by your own rank in that same sub-category. Every subject is ranked separately, so a strong score in Assam History is compared only with other Assam History attempts, not with Arithmetic or Grammar. This keeps the comparison fair: you always see how you stand among candidates practising the same topic.</p>
         <h3 style="color:var(--ink,#0f172a); margin-top:22px;">No account, no login</h3>
-        <p>There is no sign-up and no password. Before your final score is shown, a small popup asks whether you want to appear on the leaderboard. You can close it or choose Skip, and your mock test runs exactly as before. If you do join, you type a name and nothing else. No email address, no phone number and no social profile is collected.</p>
+        <p>There is no sign-up and no password. Before your final score is shown, a small popup asks whether you want to appear on the leaderboard. It stays until you choose Skip or Yes, so a stray tap cannot dismiss it. Either way your score still reaches the board: if you skip, or if you have not typed a name yet, your entry appears as a placeholder such as "Unknown user 4821". Typing a name replaces it and stops the popup from asking again. If you do join, you type a name and nothing else. No email address, no phone number and no social profile is collected.</p>
         <h3 style="color:var(--ink,#0f172a); margin-top:22px;">One name, one place</h3>
         <p>A name belongs to a single person. If the name you type has already been taken, you are asked to choose another, so two candidates never share an entry. Names accept letters in English, Assamese and Devanagari, along with numbers, spaces and the underscore, which means you can write your name the way you normally do.</p>
         <h3 style="color:var(--ink,#0f172a); margin-top:22px;">Your best score is what counts</h3>
@@ -226,9 +226,9 @@
         <h3 style="color:var(--ink,#0f172a); margin-top:22px;">Fair play</h3>
         <p>This is a practice ranking, not an official examination result. Scores are calculated in the browser, so the board is meant to motivate regular practice rather than certify a rank. Abusive names are filtered, entries cannot be deleted by other visitors, and the owner can remove any entry that breaks the rules.</p>
         <h3 style="color:var(--ink,#0f172a); margin-top:22px;">Frequently asked questions</h3>
-        <p><strong>Do I have to join?</strong> No. Skipping the popup has no effect on your mock test or your score.</p>
-        <p><strong>Can I change my name later?</strong> Yes. The next time you take a mock test, the popup will offer to save under a different name.</p>
-        <p><strong>Is my name visible to everyone?</strong> Only the name you type is shown, next to your best percentage in that sub-category. Nothing else about you is published.</p>
+        <p><strong>Do I have to join?</strong> No. Skipping never changes your mock test or your score. Your score still appears on the board, but under a placeholder name such as "Unknown user 4821" instead of your own.</p>
+        <p><strong>Can I change my name later?</strong> Yes. Until you type a name of your own, the popup asks again after every mock test, so you can add your name whenever you are ready.</p>
+        <p><strong>Is my name visible to everyone?</strong> Only the name you type is shown, next to your best percentage in that sub-category. If you skip, the board shows a placeholder name instead, and nothing else about you is published.</p>
         <p><strong>Which subjects have a leaderboard?</strong> General Knowledge, Mathematics, General Science, Reasoning Ability, General English and Computer Awareness, each with its own sub-categories — twenty-six in total.</p>
       </div>
     </section>
@@ -290,12 +290,12 @@
 
   <!-- Fixed Absolute JS Paths -->
   <script src="/js/config.js?v=114ec96d" defer></script>
-  <script src="/js/i18n.js?v=7a383f27" defer></script>
+  <script src="/js/i18n.js?v=c765a1bb" defer></script>
   <script src="/js/api.js?v=7b9cdfee" defer></script>
   <script src="/js/app.js?v=b39aba49" defer></script>
   <script src="/js/firebase-config.js" defer></script>
-  <script src="/js/leaderboard.js?v=fc1a4e42" defer></script>
-  <script src="/js/leaderboard-ui.js?v=c1d00bb8" defer></script>
+  <script src="/js/leaderboard.js?v=79185e17" defer></script>
+  <script src="/js/leaderboard-ui.js?v=1b1f04e6" defer></script>
   <script data-axo-guard="1">(function(){var s=document.querySelector('section[data-axo-extra="1"]');if(!s)return;var want=s.getAttribute('data-axo-path')||"/";function n(p){if(!p)return "/";if(p.length>1&&p.charAt(p.length-1)!=="/")p+="/";return p;}function u(){s.style.display=(n(location.pathname)===n(want))?"":"none";}window.addEventListener("popstate",u);var a=document.getElementById("app");if(a&&window.MutationObserver){new MutationObserver(u).observe(a,{childList:true});}u();})();</script>
 </body>
 </html>
