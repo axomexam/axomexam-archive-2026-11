@@ -669,6 +669,154 @@ compare karne ka data hi nahi hota. **Isko theek rakhne ka tarika:**
 
 Isse user ko pata rahega ki rank chahiye to naam dena padega.
 
+### Firebase setup — step by step (owner ke liye)
+
+Ye poora kaam **15-20 minute** ka hai. **Credit card nahi chahiye**, koi paisa
+nahi lagta. Neeche jo bhi likha hai wahi karo, order se.
+
+#### Step 0 — Google account
+
+Ek Google account chahiye (Gmail chalega). **Isi account par project banega**,
+matlab data aapka rahega. Agar alag account banana ho to bana lo — warna
+aapka personal Gmail bhi chalega.
+
+#### Step 1 — Firebase project banao
+
+1. Kholo 👉 **https://console.firebase.google.com**
+2. Usi Google account se login karo
+3. **"Create a project"** / **"Add project"** par click karo
+4. Project ka naam likho: `axomexam` (kuch bhi likh sakte ho)
+5. **Google Analytics** poochega → **OFF kar do** (band kar do)
+   - Kyun: aapki site par GA4 already laga hai (`G-PBPXK2Q799`). Yahan ON
+     karne se duplicate ho jayega. **OFF hi rakho.**
+6. **"Create project"** → 1 minute wait → **"Continue"**
+
+#### Step 2 — Firestore database banao
+
+1. Left menu mein **"Build"** → **"Firestore Database"** par click karo
+2. **"Create database"** par click karo
+3. **Mode poochega** → **"Production mode"** chuno (Test mode nahi — wo 30 din
+   mein expire ho jaata hai)
+4. **Location poochega** → **`asia-south1` (Mumbai)** chuno
+   - Kyun: aapke users India mein hain, isse speed tez milegi
+   - ⚠️ Ye baad mein **badla nahi ja sakta**, isliye dhyan se chuno
+5. **"Enable"** → 1 minute wait
+
+#### Step 3 — Web app register karo (config lene ke liye)
+
+1. Project ke **overview page** par jao (left menu mein ⚙️ ke upar project ka
+   naam hai)
+2. **`</>`** icon (Web) par click karo
+3. App ka nickname likho: `axomexam-web`
+4. **"Firebase Hosting"** ka checkbox **hata do** (hum GitHub Pages use karte hain)
+5. **"Register app"** par click karo
+6. Ab **`firebaseConfig`** naam ka code block dikhega, kuch aisa:
+
+```js
+const firebaseConfig = {
+  apiKey: "AIzaSy....................",
+  authDomain: "axomexam.firebaseapp.com",
+  projectId: "axomexam",
+  storageBucket: "axomexam.appspot.com",
+  messagingSenderId: "123456789012",
+  appId: "1:123456789012:web:abcdef1234567890"
+};
+```
+
+👉 **Ye pura block copy karke mujhe bhej do.** Bas yahi chahiye. (Ye keys
+**secret nahi** hain — public hain, isliye repo mein rakhna theek hai.)
+
+7. **"Continue to console"**
+
+#### Step 4 — Security rules lagao
+
+1. Firestore Database → **"Rules"** tab kholo
+2. Jo likha hai wo **poora delete** karo, aur ye paste karo:
+
+```
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Ek document per device (id = anonymous device id)
+    match /lb_scores/{deviceId} {
+      allow read: if true;
+
+      allow create, update: if
+        request.resource.data.keys().hasOnly(
+          ['name', 'score', 'total', 'exam', 'topic', 'ts']
+        )
+        && request.resource.data.name is string
+        && request.resource.data.name.size() >= 1
+        && request.resource.data.name.size() <= 20
+        && request.resource.data.score is int
+        && request.resource.data.score >= 0
+        && request.resource.data.total is int
+        && request.resource.data.total > 0
+        && request.resource.data.score <= request.resource.data.total
+        && request.resource.data.ts == request.time;
+
+      allow delete: if false;
+    }
+  }
+}
+```
+
+3. **"Publish"** par click karo
+
+**Ye rules kya karti hain:**
+- Sab log leaderboard **padh** sakte hain
+- Koi bhi likh sakta hai, par **sirf sahi shape ka data** (naam 20 character
+  se kam, score total se zyada nahi, time server ka)
+- Koi delete nahi kar sakta
+- Ye cheating ko **kam** karti hain (poora nahi rok sakti — isliye isko
+  "practice ranking" bolna hai)
+
+#### Step 5 — App Check (optional, par recommended)
+
+Ye bots ko rokta hai. Baad mein bhi kar sakte ho, pehle sab chal jaane do.
+
+1. Left menu → **"Build"** → **"App Check"**
+2. Web app ke liye **reCAPTCHA v3** chuno
+3. reCAPTCHA site key lo (Google se) aur daalo
+4. Enforce karo
+
+Filhaal **skip kar sakte ho**.
+
+---
+
+### Mujhe kya-kya chahiye (checklist)
+
+Aap ye 4 cheezein bhejo:
+
+| # | Kya chahiye | Kahan se milega |
+|---|---|---|
+| 1 | **`firebaseConfig` block** (6 values) | Step 3, point 6 |
+| 2 | **Naam asli ya nickname?** | Aapka decision |
+| 3 | **Leaderboard exam-wise ya ek?** | Aapka decision |
+| 4 | **Graph kis cheez ka?** | Aapka decision |
+
+Bas. Baaki sab main kar dunga (code, popup, leaderboard, rank, graph).
+
+### ⚠️ Ye cheezein mujhe NAHI bhejni (security)
+
+Ye **secret** hote hain — inhe kisi ko na do, chat mein na likho:
+
+- ❌ **Service account JSON** (private key wali file)
+- ❌ Koi bhi file jisme `"private_key"` likha ho
+- ❌ Database password / admin credentials
+- ❌ Firebase ke **"Project settings → Service accounts"** se koi key
+
+Sirf **Step 3 ka `firebaseConfig`** chahiye. Wo public hota hai — usse koi
+nuksan nahi ho sakta.
+
+### Kharcha kitna hoga?
+
+- Step 1-5 tak: **₹0**
+- Free (Spark) plan: **20,000 writes + 50,000 reads per din**
+- Card ki zaroorat **nahi** — to paisa apne aap **nahi** katega
+- Limit cross ho jaye to bas us din ka data ruk jayega, site chalti rahegi
+
 ### Rasta B shuru karne se pehle owner se ye poochna hai
 
 - Naam asli dikhana hai ya nickname? (recommend: nickname)
