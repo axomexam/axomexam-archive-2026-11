@@ -934,24 +934,33 @@ Filhaal **skip kar sakte ho**.
 | 0 | Google account | ✅ |
 | 1 | Firebase project banaya | ✅ |
 | 2 | Firestore database (Standard + default + asia-south1) | ✅ |
-| 3 | Web app register + `firebaseConfig` bheja | ⏳ **ab yahi karna hai** |
-| 4 | Security rules publish karo | `todo` |
+| 3 | Web app register + `firebaseConfig` bheja | ✅ **ho gaya** |
+| 4 | Security rules publish karo | ⏳ **ab yahi karna hai** |
 | 5 | App Check | `todo` (optional) |
 
-Step 3 ke baad agent ko **4 cheezein** chahiye (neeche checklist dekho).
+**Config aa gaya** aur `js/firebase-config.js` mein rakh diya gaya. Verify bhi
+ho gaya ki project + Firestore API reachable hain:
+
+- Project: `axomexam-leaderboard`
+- Database: `(default)` — free quota wala ✅
+- Abhi read `403 Missing or insufficient permissions` de raha hai — **ye
+  sahi hai**, kyunki rules abhi default (`allow read: if false`) hain.
+  Step 4 mein rules publish karne ke baad ye chalu ho jayega.
+
+Step 4 ke baad agent ko **3 jawab** chahiye (checklist dekho).
 
 ### Mujhe kya-kya chahiye (checklist)
 
-Aap ye 4 cheezein bhejo:
+Aap ye 3 cheezein bhejo (config aa gaya):
 
 | # | Kya chahiye | Kahan se milega |
 |---|---|---|
-| 1 | **`firebaseConfig` block** (6 values) | Step 3, point 6 |
+| 1 | ~~`firebaseConfig`~~ | ✅ **mil gaya** |
 | 2 | **Naam asli ya nickname?** | Aapka decision |
 | 3 | **Leaderboard exam-wise ya ek?** | Aapka decision |
 | 4 | **Graph kis cheez ka?** | Aapka decision |
 
-Bas. Baaki sab main kar dunga (code, popup, leaderboard, rank, graph).
+Baaki sab main kar dunga (code, popup, leaderboard, rank, graph).
 
 ### ⚠️ Ye cheezein mujhe NAHI bhejni (security)
 
