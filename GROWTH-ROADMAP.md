@@ -72,6 +72,10 @@ Push ke liye **`tools/safe-push.sh origin main`** use karo (force push kabhi nah
 | 10 | 17 missing pages banao | 1,931 sawaal pada hai | Medium | `todo` |
 | 11 | Daily current affairs | Roz ka sabse bada traffic | Regular | `todo` |
 | 12 | SEO fixes (audit se) | Google se zyada log | Medium | `todo` |
+| 13 | **Global leaderboard (backend chahiye)** | Social proof | Bada | `blocked` |
+
+Item 13 par `blocked` likha hai kyunki shuru karne se pehle owner ke 4 sawaalon
+ka jawab chahiye (neeche "Priority 5" dekho).
 
 ---
 
@@ -289,6 +293,112 @@ karte hain — exam sites ke liye ye daily traffic ka sabse bada source hai.
 `keyword-map.csv` (995 pages) mein ready target hai.
 
 **Fayda:** Google se zyada log. UI nahi badlegi, sirf meta.
+
+---
+
+## Priority 5 — Social leaderboard (sabko dikhe kaun kitna score kiya)
+
+Owner ne poocha: kya ek aisa dashboard ho jahan **har visitor** ko dikhe ki
+kaun top 5 mein hai, kis topic mein kaun aage hai, aur graph ke saath rank.
+
+### Seedha jawab
+
+Haan, ban sakta hai — **par abhi ke setup se nahi.** Iske liye ek **backend
+(database) chahiye**.
+
+### Kyun backend chahiye (verified)
+
+Site **GitHub Pages** par hai. Uska matlab:
+
+| Cheez | Situation |
+|---|---|
+| Server code chalane ki jagah | **Nahi** (pure static, koi serverless function nahi) |
+| Shared database | **Nahi** |
+| Login / user account | **Nahi** (site khud kehti hai "no login needed") |
+| Data save kahan hota hai | Sirf `localStorage` = **usi ek device** ke andar |
+| Repo | **Public** hai, so repo mein likhi file duniya dekh sakti hai |
+
+`localStorage` device ke andar hota hai. Uska matlab: A ke phone ka score B
+ke phone par **kabhi nahi pahunchega**. Leaderboard ke liye sabka score ek
+**common jagah** jaana chahiye — wahi backend hai.
+
+### Do raste
+
+**Rasta A — Local dashboard (backend nahi chahiye)**
+
+- Har user ko **apna** progress dikhe: kitne mock, average, best, topic-wise
+  kamzori, graph, apna improvement.
+- Kisi doosre se **comparison nahi**.
+- Aaj hi ban sakta hai. Zero cost. Zero privacy risk.
+- **Ye item 1 hai** (upar). Pehle yahi karo.
+
+**Rasta B — Global leaderboard (backend chahiye)**
+
+- Sabka score ek cloud database mein jaye (Firebase Firestore recommended —
+  static site ke saath kaam karta hai, free tier hai).
+- Har visitor ko dikhe: **Top 5**, **topic-wise rank**, **graph**, apna rank.
+- Neeche ke 4 warnings zaroor padho — ye sirf technical nahi, **legal** bhi hain.
+
+### Rasta B kaisa dikhega
+
+| Cheez | Kaise |
+|---|---|
+| Top 5 (overall) | Sabse zyada average% wale 5 log, naam/nickname ke saath |
+| Topic-wise rank | "Maths mein Rahul #1", "GK mein Priya #2" |
+| Graph | Har user ka score-over-time line chart |
+| Apna rank | "Aap #47 ho, top 5 se 12% peeche" |
+| Naya user | Bina naam ke bhi khel sakta hai; leaderboard join **opt-in** |
+
+### ⚠️ 4 badi warnings (ye ignore mat karo)
+
+**1. Naam dikhana = personal data (PII) — aur ye log bachche hain**
+
+Assam competitive exam aspirants mein **bahut se 18 se kam** honge. India ka
+**DPDP Act 2023** 18 se kam umar ke user ka data "child data" maanta hai aur
+uske liye **verifiable parental consent** maangta hai. Public leaderboard par
+minor ka naam dikhana = badi legal risk + Google policy risk (AdSense ke liye
+bhi).
+
+👉 **Solution:** asli naam ki jagah **nickname/handle** use karo, aur user
+khud choose kare ki join karna hai ya nahi. Ya sirf initials + district dikhao.
+
+**2. Cheating rokna mushkil hai**
+
+Site ka saara scoring browser mein hota hai. Koi bhi technical banda
+developer tools kholkar apna score **fake** kar sakta hai. Public leaderboard
+par fake top scorers aa jayenge aur **asli students ka bharosa toot jayega**.
+
+👉 **Solution:** leaderboard ko "practice ranking" bolo, "exam ranking" nahi.
+Ya server par score verify karo (kaam zyada).
+
+**3. "No login" wada tootega**
+
+Site 20+ jagah likhti hai: *"No account is needed… nothing to sign up for and
+no login."* Leaderboard ke liye identity chahiye, to ye wada badalna padega.
+
+👉 **Solution:** anonymous device-id se shuru karo (koi email/password nahi),
+user khud ek nickname de. Login optional rakho.
+
+**4. Free tier ki limit**
+
+Firebase Firestore free tier (approx): **50,000 reads/day, 20,000 writes/day,
+1 GiB storage**. Chhote scale par theek, par agar traffic tez badha to limit
+aur cost ka dhyan rakhna. (Live numbers deploy se pehle verify karo.)
+
+### Recommended plan
+
+1. **Pehle Rasta A** — apna progress dashboard + graph (item 1, 2, 3).
+   Isse user ko wapas aane ki wajah mil jaati hai, bina kisi risk ke.
+2. **Phir Rasta B** — agar social element chahiye, to **nickname-based,
+   opt-in** leaderboard banao, Firebase par. Privacy policy update karo
+   (DPDP + minors). Public repo mein koi personal data na likho.
+
+### Rasta B shuru karne se pehle owner se ye poochna hai
+
+- Naam asli dikhana hai ya nickname? (recommend: nickname)
+- Exam-wise leaderboard ya poore site ka ek?
+- Graph kis cheez ka: score-over-time, ya topic-wise accuracy?
+- Kitne din ka data rakhein (30 din / lifetime)?
 
 ---
 
