@@ -447,34 +447,76 @@ Dono dropdown **bilingual** honge (en + as), jaise baaki site hai.
    Sabse kamzor: Arithmetic (58%) — yahan practice karo
 ```
 
-### Nickname unique kaise hoga
+### Name box — ek hi box, asli naam ya nickname (dono chalega)
 
-- Nickname **unique** hoga (ek jaisa do user nahi)
-- User ne jo likha, agar wo already le liya gaya hai → **"Ye nickname le liya
-  gaya hai, doosra chuno"** dikhao
+Owner ne kaha: *"name box mein user apna naam ya nickname, dono mein se kuch
+bhi likh sakta hai."*
+
+**Design:** **Ek hi input box**. Usme user jo marzi likhe:
+
+```
+        ┌─────────────────────────────────────────┐
+        │  🏆  Leaderboard join karein?      [✕]  │
+        │                                         │
+        │  Apna naam ya nickname likhein.         │
+        │  Ye leaderboard par dikhega.            │
+        │                                         │
+        │  ┌───────────────────────────────────┐  │
+        │  │ Rahul Das                         │  │  ← asli naam
+        │  └───────────────────────────────────┘  │
+        │  ┌───────────────────────────────────┐  │
+        │  │ Rahul_99                          │  │  ← nickname
+        │  └───────────────────────────────────┘  │
+        │                                         │
+        │  [ Skip ]          [ Haan, join karo ]  │
+        └─────────────────────────────────────────┘
+```
+
+**Koi alag "naam" / "nickname" field nahi** — ek hi box, dono kaam karega.
+
+### Rules kya honge (simple)
+
+| Rule | Kyun |
+|---|---|
+| 2 se 20 character | Bahut chhota ya bahut lamba naam na ho |
+| Letters, numbers, space, `_` allowed | "Rahul Das" bhi, "Rahul_99" bhi |
+| Pehle-aakhir ke space hata dena | " Rahul " → "Rahul" |
+| **Assamese/Devanagari bhi allowed** | "ৰাহুল" ya "রাহুল" likh sake |
+| Gaali filter | Public page par gaali na dikhe |
+| **Unique** (chhote-bade ek hi) | `Rahul` = `rahul` = `RAHUL` |
+| Trim + double space hata do | "Rahul  Das" → "Rahul Das" |
+
+**Ek hi box ka fayda:** koi confusion nahi, koi extra step nahi. Jo apna naam
+dikhana chahta hai, wo naam likhe; jo chhupana chahta hai, wo nickname likhe.
+**Dono ko lagta hai unke paas choice hai.**
+
+### Nickname/naam unique kaise hoga
+
+- Naam **unique** hoga (ek jaisa do user nahi)
+- Agar already le liya gaya → **"Ye naam le liya gaya hai, doosra chuno"**
 - Chhote-bade akshar ek hi maane jayenge (`Rahul` = `rahul`)
-- Max **20 character**, sirf letters / numbers / `_` / space
+- Max **20 character**, letters / numbers / `_` / space / Assamese
 
-### Nickname reserve karna (free, backend par)
+### Naam reserve karna (free, backend par)
 
 Do choti collections:
 
 ```
-lb_nicknames/{nickname_lowercase}  →  { deviceId, createdAt }
+lb_nicknames/{name_lowercase}  →  { deviceId, createdAt }
 ```
 
-- Nickname lene se pehle check: is document mein **mera hi deviceId** hai?
-  - Haan → mera hi nickname hai, aage badho
+- Naam lene se pehle check: is document mein **mera hi deviceId** hai?
+  - Haan → mera hi naam hai, aage badho
   - Khaali / kisi aur ka → **"le liya gaya"** dikhao
-- **Atomic** rakhna zaroori hai (do log ek saath same nickname na le lein) —
+- **Atomic** rakhna zaroori hai (do log ek saath same naam na le lein) —
   Firestore transaction ya rules se handle hoga
 - Isse ek extra read/write lagta hai — total abhi bhi free limit ke andar
 
-### Anti-abuse (nickname ke saath)
+### Anti-abuse (naam ke saath)
 
 1. **Gaali filter** — abusive words block, warna public page par gaali dikhegi
 2. **Rate limit** — 20 leaderboard posts per din per device (mock test unlimited)
-3. **Duplicate device** — ek device ek nickname; device clear kare to naya
+3. **Duplicate device** — ek device ek naam; device clear kare to naya
 4. **Fake score** — "practice ranking" hi bolna hai, "official" nahi
 5. **Report/delete** — owner ke paas kisi bhi entry ko hatane ka tarika ho
    (Firebase console se manual chalega)
@@ -1022,7 +1064,8 @@ service cloud.firestore {
         && request.resource.data.name is string
         && request.resource.data.name.size() >= 2
         && request.resource.data.name.size() <= 20
-        && request.resource.data.name.matches('^[A-Za-z0-9_ ]+$')
+        /* letters (kisi bhi bhasha ke), numbers, space, underscore */
+        && request.resource.data.name.matches('^[\\p{L}\\p{N} _]+$')
         && request.resource.data.deviceId is string
         && request.resource.data.deviceId.size() >= 8
         && request.resource.data.scope is string
