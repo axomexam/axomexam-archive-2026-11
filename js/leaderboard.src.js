@@ -13,7 +13,13 @@
 
    Collections
      lb_scores/{deviceId}__{scopeKey}   best score per device per scope
-     lb_names/{nameLower}               name reservation (unique names)
+     lb_names/{nameLower}               name reservation, slot 1
+     lb_names/{nameLower}~2             name reservation, slot 2
+
+   Two candidates can genuinely share a name, so a name admits up to
+   NAME_SLOTS devices. Each slot is its own document, which keeps the
+   create-if-absent rule as the whole check and needs no rules change.
+   A "~" cannot appear in a display name, so slot ids never collide.
 
    Scope keys are the site's own sub-category ids ("gk/assam-history").
    Firestore document ids cannot contain "/", so the document id uses
@@ -29,6 +35,11 @@
   const LS_RATE = "axomexam-lb-rate";
   const DAILY_LIMIT = 20;
   const HISTORY_MAX = 300;
+
+  /* How many devices may share one display name. Two candidates can
+     genuinely have the same name, so one slot per name was too strict;
+     more than two turns the board into a squatting target. */
+  const NAME_SLOTS = 2;
 
   /* ---------- the 26 leaderboard scopes ---------- */
   /* Mirrors GROWTH-ROADMAP.md. Only sub-categories that have practice
@@ -339,9 +350,28 @@
     return { ok: res.ok, status: res.status, body: body };
   }
 
-  /* Reserve a name. Create fails if the document already exists, which
-     is exactly the uniqueness check we want; the second call then looks
-     at who holds it. */
+  /* Slot 1 keeps the bare lowercased name so existing reservations stay
+     valid; later slots get a "~n" suffix, which no display name can carry. */
+  function nameSlotId(lower, slot) {
+    return slot === 1 ? lower : lower + "~" + slot;
+  }
+
+  function nameSlotUrl(lower, slot) {
+    return apiBase() + "/lb_names/" + encodeURIComponent(nameSlotId(lower, slot)) + key();
+  }
+
+  async function nameSlotHolder(lower, slot) {
+    const res = await fetch(nameSlotUrl(lower, slot), { cache: "no-store" });
+    if (!res.ok) return null;
+    const doc = await res.json().catch(() => null);
+    return doc && doc.fields && doc.fields.deviceId ? doc.fields.deviceId.stringValue : null;
+  }
+
+  /* Reserve a name. A name admits up to NAME_SLOTS devices, so this walks
+     the slots: a slot already held by this device means success, a slot
+     held by someone else is skipped, and the first free slot is claimed
+     with a create-if-absent write. Running out of slots means the name is
+     full. */
   async function reserveName(name) {
     /* Normalise here, not only in the caller: otherwise "Rahul  Das" and
        "Rahul Das" would reserve two different document IDs and the same
@@ -349,36 +379,30 @@
     const lower = normalizeName(name).toLowerCase();
     const dev = deviceId();
 
-    /* Already mine? */
-    const own = await fetch(apiBase() + "/lb_names/" + encodeURIComponent(lower) + key(), { cache: "no-store" });
-    if (own.ok) {
-      const doc = await own.json().catch(() => null);
-      const holder = doc && doc.fields && doc.fields.deviceId && doc.fields.deviceId.stringValue;
+    for (let slot = 1; slot <= NAME_SLOTS; slot++) {
+      const holder = await nameSlotHolder(lower, slot);
       if (holder === dev) return { ok: true };
-      if (holder) return { ok: false, code: "taken" };
-    }
+      if (holder) continue;
 
-    const w = {
-      update: {
-        name: docRoot() + "/lb_names/" + lower,
-        fields: { deviceId: toValue(dev) },
-      },
-      currentDocument: { exists: false },
-      updateTransforms: [{ fieldPath: "createdAt", setToServerValue: "REQUEST_TIME" }],
-    };
-    const r = await commit([w]);
-    if (r.ok) return { ok: true };
-    if (r.status === 409 || r.status === 400 || r.status === 403) {
-      /* Lost the race, or the doc appeared meanwhile. */
-      const again = await fetch(apiBase() + "/lb_names/" + encodeURIComponent(lower) + key(), { cache: "no-store" });
-      if (again.ok) {
-        const doc = await again.json().catch(() => null);
-        const holder = doc && doc.fields && doc.fields.deviceId && doc.fields.deviceId.stringValue;
-        if (holder === dev) return { ok: true };
+      const w = {
+        update: {
+          name: docRoot() + "/lb_names/" + nameSlotId(lower, slot),
+          fields: { deviceId: toValue(dev) },
+        },
+        currentDocument: { exists: false },
+        updateTransforms: [{ fieldPath: "createdAt", setToServerValue: "REQUEST_TIME" }],
+      };
+      const r = await commit([w]);
+      if (r.ok) return { ok: true };
+      if (r.status === 409 || r.status === 400 || r.status === 403) {
+        /* Lost the race, or the slot filled meanwhile. Only claim this
+           slot if it turned out to be ours; otherwise try the next. */
+        if ((await nameSlotHolder(lower, slot)) === dev) return { ok: true };
+        continue;
       }
-      return { ok: false, code: "taken" };
+      return { ok: false, code: "error" };
     }
-    return { ok: false, code: "error" };
+    return { ok: false, code: "taken" };
   }
 
   async function readOwnScore(scope) {

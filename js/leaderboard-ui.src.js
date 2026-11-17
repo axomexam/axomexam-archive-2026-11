@@ -195,7 +195,7 @@
       try {
         const reserved = await LB.reserveName(check.name);
         if (!reserved.ok) {
-          showErr("lb.name.taken", "This name is already taken. Please choose another.");
+          showErr("lb.name.taken", "Two people are already using this name. Please add a middle name or initial.");
           return;
         }
 

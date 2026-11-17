@@ -2675,3 +2675,62 @@ carries the new name. Updated `/tmp/lbflow.mjs`, `/tmp/lbui.mjs` and
 **Known limit.** Renaming does not retroactively rewrite board rows. That is
 deliberate and matches what the owner asked for, but it does mean an old
 name can linger on a board until that visitor submits again.
+
+## Session record — Nov 2026 Leaderboard junk-data cleanup (owner-reported)
+
+**Symptom the owner reported.** "Rahul Das" appeared three times on the
+Assam History board. The real count was **13 rows**, all at exactly 55%.
+
+**Root cause — not a bug, test data plus an unbounded name rule.** Row id is
+`{deviceId}__{scope}`, so one browser = one row per scope, but nothing ties a
+display name to a single device. A test harness that reserved `"Rahul Das"`
+and submitted 55% from a dozen synthetic devices left a dozen rows, and
+`fetchTop` sorts only by `bestPct DESCENDING` with no tie-break, so the top-5
+slice showed three of them.
+
+**How the junk was identified.** Every `"Rahul Das"` row carried the same
+percentage (55) across twelve *distinct* devices — the signature of an
+automated loop, not of twelve real people. Cross-checked against `/tmp`
+harnesses that use the real API key: `lblive`, `lblive2`, `lbspace`,
+`lbspace2`. **Never run those against live Firestore again.** They leave
+public rows only the console can remove. Use `lbflow`/`lbui`/`lbname`
+instead — same coverage, stubbed fetch.
+
+**Cleanup performed (17 Nov 2026).** The owner temporarily published
+`allow delete: if true;` on both `lb_scores` and `lb_names`; the 13 junk
+documents (12 score rows + the `rahul das` reservation) were then deleted
+over the REST API and the owner restored `allow delete: if false;`. Client
+delete is 403 again, as intended.
+
+**Rules round-trip.** The exact two texts used are kept in
+`/tmp/lbbackup/rules/STEP1-cleanup-rules.txt` (delete `true`) and
+`STEP2-restore-rules.txt` (delete `false`). Both carry
+`rules_version = '2';` — without it the `\p{L}\p{M}` name regex stops
+working and Assamese names break.
+
+**Board after cleanup.** `lb_scores` 13 rows, `lb_names` 9 reservations, all
+genuine: `Puja Das` (3), `Prakash` (2), `Diya12133` (2), `Arohi banik`,
+`Rimjhim`, `Rupan Barman`, `Abhik`, `Kanai Roy`, `Ashik`. Assam History now
+reads `Prakash 84% / Puja Das 60% / Arohi banik 50%`.
+
+**Two people may share a name (owner request, 17 Nov 2026).** The owner
+pointed out that two candidates can genuinely have the same name, so one
+name per device was too strict. `lb_names` now admits `NAME_SLOTS = 2`
+devices per name: slot 1 keeps the bare lowercased id, slot 2 is
+`{name}~2`. `reserveName` walks the slots, returns success when a slot is
+already this device's, skips slots held by others, and claims the first
+free one with the same create-if-absent write. A third device gets
+`code: "taken"` and the popup asks for a middle name or initial.
+
+The slot suffix is `~` because `validateName` rejects `~` (only letters,
+marks, numbers, space and underscore pass), so a display name can never
+collide with a slot id. This needs **no rules change**: every slot is an
+ordinary create-if-absent document. Both `js/i18n.src.js` dictionaries and
+the leaderboard pages (EN and AS) carry the new wording.
+
+**Still open — a name may appear twice on one board.** That is now the
+intended maximum, not a bug, but `fetchTop` has no tie-break, so when two
+slot-holders share a score the top-5 slice still shows the same name twice
+and the order between equal percentages is arbitrary. Adding a secondary
+sort key would make that ordering deterministic; it does not change how
+many entries a name can hold.
