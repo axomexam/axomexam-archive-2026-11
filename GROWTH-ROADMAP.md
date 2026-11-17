@@ -345,8 +345,8 @@ ke phone par **kabhi nahi pahunchega**. Leaderboard ke liye sabka score ek
 
 | Sawaal | Decision |
 |---|---|
-| Naam | **Nickname** (asli naam nahi) |
-| Nickname | **Har user ka alag** — ek nickname sirf ek user ka |
+| Naam | **Sirf naam** — koi nickname concept nahi |
+| Naam | **Har user ka alag** — ek naam sirf ek user ka |
 | Leaderboard | **Topic-wise alag-alag** — taaki pata chale kis topic mein kaun aage hai |
 
 ### Leaderboard ke scopes — FINAL (26 sub-categories)
@@ -397,7 +397,7 @@ Baad mein add kiya ja sakta hai — data model wahi rahega, bas scope badlega.
 
 ```
 lb_scores/{deviceId}__{scope}   →   {
-    name:      "Rahul_99",        // unique nickname
+    name:      "Rahul Das",       // jo user ne likha
     deviceId:  "d_ab12…",         // anonymous, koi login nahi
     scope:     "gk/assam-history",// sub-category id (jaise mock-test path)
     bestPct:   85,                // us sub-category ka best %
@@ -447,19 +447,17 @@ Dono dropdown **bilingual** honge (en + as), jaise baaki site hai.
    Sabse kamzor: Arithmetic (58%) — yahan practice karo
 ```
 
-### Name box — ek box, ek naam, sirf ek hi dikhega
+### Naam box — ek box, ek naam
 
-Owner ne kaha: *"name box mein user apna naam ya nickname, dono mein se kuch
-bhi likh sakta hai"* — **aur** *"ek hi user ka naam aur nickname dono ek saath
-mat dikhao, accha nahi lagta."*
+Owner ne kaha: *"nickname chhodo, direct naam hi rakho, koi jhamela nahi."*
 
-**Isliye design aisa hai:**
+**Isliye design aisa hai — ek hi box, sirf "naam":**
 
 ```
         ┌─────────────────────────────────────────┐
         │  🏆  Leaderboard join karein?      [✕]  │
         │                                         │
-        │  Apna naam ya nickname likhein.         │
+        │  Apna naam likhein.                     │
         │  Ye leaderboard par dikhega.            │
         │                                         │
         │  ┌───────────────────────────────────┐  │
@@ -470,38 +468,15 @@ mat dikhao, accha nahi lagta."*
         └─────────────────────────────────────────┘
 ```
 
-User is ek box mein jo likhega, **wahi ek cheez** leaderboard par dikhegi:
+User jo likhega, **wahi** leaderboard par dikhega:
 
 | User ne likha | Leaderboard par |
 |---|---|
 | `Rahul Das` | **Rahul Das** ✅ |
-| `Rahul_99` | **Rahul_99** ✅ |
+| `Rahul` | **Rahul** ✅ |
 | `ৰাহুল` | **ৰাহুল** ✅ |
 
-### ⛔ Kya NAHI hoga (ye important hai)
-
-| ❌ Galat | ✅ Sahi |
-|---|---|
-| `Rahul Das (Rahul_99)` | `Rahul Das` |
-| Do box — ek naam, ek nickname | **Ek hi box** |
-| `Rahul Das` + neeche `@Rahul_99` | Sirf `Rahul Das` |
-| Ek user ke do naam leaderboard par | Ek user ka **ek hi naam** |
-
-**Rule: ek user = ek naam. Bas. Dono kabhi saath nahi.**
-
-### Technical: sirf ek field save hogi
-
-```
-lb_scores/{deviceId}__{scope}  →  {
-    name: "Rahul Das",   ← SIRF YEH EK NAAM FIELD
-    ...
-}
-```
-
-- Database mein **`name`** naam ka **ek hi field** hoga
-- Koi alag `nickname` ya `displayName` field **nahi**
-- Isliye dono ek saath dikhna **technically bhi possible nahi** hoga
-- Naam badalna ho to wahi ek field update hogi (purani hat jayegi)
+**Bas. Koi nickname nahi, koi do-box nahi, koi jhamela nahi.**
 
 ### Rules kya honge (simple)
 
@@ -515,7 +490,7 @@ lb_scores/{deviceId}__{scope}  →  {
 | **Unique** (chhote-bade ek hi) | `Rahul` = `rahul` = `RAHUL` |
 | Trim + double space hata do | "Rahul  Das" → "Rahul Das" |
 
-### Nickname/naam unique kaise hoga
+### Naam unique kaise hoga
 
 - Naam **unique** hoga (ek jaisa do user nahi)
 - Agar already le liya gaya → **"Ye naam le liya gaya hai, doosra chuno"**
@@ -524,10 +499,10 @@ lb_scores/{deviceId}__{scope}  →  {
 
 ### Naam reserve karna (free, backend par)
 
-Do choti collections:
+Ek choti collection:
 
 ```
-lb_nicknames/{name_lowercase}  →  { deviceId, createdAt }
+lb_names/{name_lowercase}  →  { deviceId, createdAt }
 ```
 
 - Naam lene se pehle check: is document mein **mera hi deviceId** hai?
@@ -556,8 +531,9 @@ uske liye **verifiable parental consent** maangta hai. Public leaderboard par
 minor ka naam dikhana = badi legal risk + Google policy risk (AdSense ke liye
 bhi).
 
-👉 **Solution:** asli naam ki jagah **nickname/handle** use karo, aur user
-khud choose kare ki join karna hai ya nahi. Ya sirf initials + district dikhao.
+👉 **Solution:** user **khud choose** kare ki join karna hai ya nahi, aur
+public page par sirf wo **naam** dikhe jo usne khud diya. Ya sirf initials +
+district dikhao.
 
 **2. Cheating rokna mushkil hai**
 
@@ -574,7 +550,7 @@ Site 20+ jagah likhti hai: *"No account is needed… nothing to sign up for and
 no login."* Leaderboard ke liye identity chahiye, to ye wada badalna padega.
 
 👉 **Solution:** anonymous device-id se shuru karo (koi email/password nahi),
-user khud ek nickname de. Login optional rakho.
+user sirf apna naam de. Login ki zaroorat nahi.
 
 **4. Free tier ki limit**
 
@@ -586,7 +562,7 @@ aur cost ka dhyan rakhna. (Live numbers deploy se pehle verify karo.)
 
 1. **Pehle Rasta A** — apna progress dashboard + graph (item 1, 2, 3).
    Isse user ko wapas aane ki wajah mil jaati hai, bina kisi risk ke.
-2. **Phir Rasta B** — agar social element chahiye, to **nickname-based,
+2. **Phir Rasta B** — agar social element chahiye, to **naam-based,
    opt-in** leaderboard banao, Firebase par. Privacy policy update karo
    (DPDP + minors). Public repo mein koi personal data na likho.
 
@@ -1106,13 +1082,13 @@ service cloud.firestore {
       allow delete: if false;
     }
 
-    /* Nickname reservation — ek nickname sirf ek device ka.
-       Document id = nickname (lowercase) */
-    match /lb_nicknames/{nick} {
+    /* Naam reservation — ek naam sirf ek device ka.
+       Document id = naam (lowercase) */
+    match /lb_names/{nick} {
       allow read: if true;
 
-      /* Sirf khaali document par naya nickname claim ho sakta hai,
-         ya apna hi purana nickname dobara likha ja sake */
+      /* Sirf khaali document par naya naam claim ho sakta hai,
+         ya apna hi purana naam dobara likha ja sake */
       allow create: if
         request.resource.data.keys().hasOnly(['deviceId','createdAt'])
         && request.resource.data.deviceId is string
@@ -1180,11 +1156,11 @@ Aap ye 3 cheezein bhejo (config aa gaya):
 | # | Kya chahiye | Kahan se milega |
 |---|---|---|
 | 1 | ~~`firebaseConfig`~~ | ✅ **mil gaya** |
-| 2 | **Naam asli ya nickname?** | Aapka decision |
-| 3 | **Leaderboard exam-wise ya ek?** | Aapka decision |
-| 4 | **Graph kis cheez ka?** | Aapka decision |
+| 2 | ~~Naam / nickname~~ | ✅ **sirf naam** (decide ho gaya) |
+| 3 | ~~Leaderboard exam-wise ya ek?~~ | ✅ **26 sub-categories** (decide ho gaya) |
+| 4 | ~~Graph kis cheez ka?~~ | ✅ **topic-wise accuracy** (decide ho gaya) |
 
-Baaki sab main kar dunga (code, popup, leaderboard, rank, graph).
+**Sab decide ho gaya.** Ab bas Step 4 (rules publish) baaki hai.
 
 ### ⚠️ Ye cheezein mujhe NAHI bhejni (security)
 
@@ -1209,9 +1185,9 @@ nuksan nahi ho sakta.
 
 | Sawaal | Decision |
 |---|---|
-| Naam asli ya nickname? | **Nickname** (asli naam nahi) |
-| Nickname unique? | **Haan — har user ka alag** |
-| Leaderboard exam-wise ya ek? | **Topic-wise alag-alag** |
+| Naam | **Sirf naam** — koi nickname nahi |
+| Naam unique? | **Haan — har user ka alag** |
+| Leaderboard exam-wise ya ek? | **26 sub-categories** (topic-wise) |
 | Graph kis cheez ka? | **Topic-wise accuracy** |
 | Data kitne din? | **Lifetime** (best score rakha jayega) |
 | Rate limit | **20 leaderboard posts/din** (mock test unlimited) |
@@ -1221,7 +1197,7 @@ nuksan nahi ho sakta.
 
 1. ✅ Step 1-3: Firebase project + Firestore + config — **ho gaya**
 2. ⏳ Step 4: Rules publish — **owner kar raha hai**
-3. Phir agent: popup + nickname + device-id + leaderboard + rank + graph
+3. Phir agent: popup + naam + device-id + leaderboard + rank + graph
 
 ### Build rules jo yaad rakhni hain
 
@@ -1230,7 +1206,7 @@ nuksan nahi ho sakta.
 - Build: `optimize-render-path.js` → `minify-assets.js` → `stamp-assets.js`
 - Push: `tools/safe-push.sh origin main` (force push kabhi nahi)
 - UI change nahi karni; content nahi khona; `/as/` par ads nahi
-- `localStorage` keys: `axomexam-device-id`, `axomexam-nickname`, `axomexam-mock-history`
+- `localStorage` keys: `axomexam-device-id`, `axomexam-name`, `axomexam-mock-history`
 
 ---
 
