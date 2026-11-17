@@ -229,7 +229,6 @@
 
   const page = {
     subject: null,
-    scope: null,
     requestId: 0,
   };
 
@@ -247,15 +246,33 @@
     return (LB.SUBS[subject] || []).map((r) => ({ id: r[0], en: r[1], as: r[2] }));
   }
 
+  function subLabel(sub, lang) {
+    return lang === "as" ? sub.as : sub.en;
+  }
+
+  /* One card per sub-category of the chosen subject, so every board is
+     visible at once instead of hiding behind a second dropdown. */
+  function boardCardHTML(sub, lang) {
+    return `
+      <div class="lb-subcard">
+        <div class="lb-subcard-head">
+          <h2>${esc(subLabel(sub, lang))}</h2>
+          <span class="lb-subcard-badge">${esc(tx("lb.top5", "Top 5"))}</span>
+        </div>
+        <div class="lb-subcard-body" id="lb-board-${esc(sub.id)}">
+          <div class="lb-skel">${esc(tx("lb.loading", "Loading leaderboard…"))}</div>
+        </div>
+      </div>`;
+  }
+
   function renderPage(container) {
     const lang = uiLang();
     const subject = page.subject || defaultSubject();
-    /* Remember the subject: the sub-category handler builds the next scope
-       from it, so leaving it null here produced a "null/<sub>" scope. */
+    /* Remember the subject: tab clicks and re-renders read it back, so it
+       must not be left null after the first paint. */
     page.subject = subject;
+    page.requestId++;
     const subs = subsOf(subject);
-    const scope = page.scope && subs.some((s) => s.id === scopeId(page.scope)) ? page.scope
-      : (subs[0] ? subject + "/" + subs[0].id : null);
 
     container.innerHTML = `
       <div class="page-head">
@@ -267,111 +284,100 @@
       </div>
 
       <section class="lb-wrap">
-        <div class="lb-picker">
-          <label class="lb-field">
-            <span>${esc(tx("lb.subject", "Subject"))}</span>
-            <select id="lb-subject-select">
-              ${LB.SUBJECTS.map((s) => `<option value="${esc(s.id)}"${s.id === subject ? " selected" : ""}>${esc(lang === "as" ? s.name.as : s.name.en)}</option>`).join("")}
-            </select>
-          </label>
-          <label class="lb-field">
-            <span>${esc(tx("lb.subcategory", "Sub-category"))}</span>
-            <select id="lb-sub-select">
-              ${subs.map((s) => `<option value="${esc(s.id)}"${scope && s.id === scopeId(scope) ? " selected" : ""}>${esc(lang === "as" ? s.as : s.en)}</option>`).join("")}
-            </select>
-          </label>
+        <div class="lb-tabs" id="lb-tabs" role="tablist" aria-label="${esc(tx("lb.subject", "Subject"))}">
+          ${LB.SUBJECTS.map((s) => `
+            <button type="button" role="tab" class="lb-tab${s.id === subject ? " active" : ""}"
+              data-subject="${esc(s.id)}" aria-selected="${s.id === subject ? "true" : "false"}">
+              ${esc(lang === "as" ? s.name.as : s.name.en)}
+            </button>`).join("")}
         </div>
 
-        <div class="lb-grid">
-          <div class="lb-card">
-            <div class="lb-card-head">
-              <h2>${esc(tx("lb.title", "Leaderboard"))}</h2>
-              <span class="lb-scope-name" id="lb-scope-name"></span>
-            </div>
-            <div id="lb-board" class="lb-board">
-              <div class="lb-skel">${esc(tx("lb.loading", "Loading leaderboard…"))}</div>
-            </div>
-          </div>
+        <div class="lb-boards" id="lb-boards">
+          ${subs.length
+            ? subs.map((sub) => boardCardHTML(sub, lang)).join("")
+            : `<div class="lb-empty">${esc(tx("lb.empty", "No scores here yet. Be the first to join!"))}</div>`}
+        </div>
 
-          <div class="lb-card lb-mycard">
-            <div class="lb-card-head"><h2>${esc(tx("lb.you", "Your rank"))}</h2></div>
-            <div id="lb-myrank" class="lb-myrank"><div class="lb-skel">${esc(tx("lb.loading", "Loading leaderboard…"))}</div></div>
+        <div class="lb-card lb-graphcard">
+          <div class="lb-card-head">
+            <h2>${esc(tx("lb.graphTitle", "Your accuracy by sub-category"))}</h2>
           </div>
-
-          <div class="lb-card lb-graphcard">
-            <div class="lb-card-head">
-              <h2>${esc(tx("lb.graphTitle", "Your accuracy by sub-category"))}</h2>
-            </div>
-            <div id="lb-graph" class="lb-graph"></div>
-          </div>
+          <div id="lb-graph" class="lb-graph"></div>
         </div>
       </section>`;
 
-    if (!scope) {
-      el("lb-board").innerHTML = `<div class="lb-empty">${esc(tx("lb.empty", "No scores here yet."))}</div>`;
-      el("lb-myrank").innerHTML = "";
-      return;
+    const tabs = el("lb-tabs");
+    if (tabs) {
+      Array.prototype.forEach.call(tabs.querySelectorAll(".lb-tab"), (btn) => {
+        btn.addEventListener("click", () => {
+          if (btn.dataset.subject === page.subject) return;
+          page.subject = btn.dataset.subject;
+          renderPage(container);
+        });
+      });
     }
 
-    el("lb-subject-select").addEventListener("change", (e) => {
-      page.subject = e.target.value;
-      page.scope = null;
-      renderPage(container);
-    });
-    el("lb-sub-select").addEventListener("change", (e) => {
-      page.scope = page.subject + "/" + e.target.value;
-      renderPage(container);
-    });
-
-    el("lb-scope-name").textContent = subjectName(subject, lang) + " • " + LB.subName(scope, lang);
-    loadBoard(scope, lang);
+    subs.forEach((sub) => loadCard(subject, sub, lang));
     renderGraph();
   }
 
-  function scopeId(scope) { return String(scope).split("/")[1]; }
-
-  async function loadBoard(scope, lang) {
-    const req = ++page.requestId;
-    const boardEl = el("lb-board");
-    const rankEl = el("lb-myrank");
+  /* A card's board plus, when the visitor has a row of their own, one
+     highlighted line under the top five. The rank comes free when the
+     visitor is already inside the five rows we fetched; otherwise it costs
+     two aggregation reads, so we only pay that when the local history says
+     this device actually attempted the scope. */
+  async function loadCard(subject, sub, lang) {
+    const scope = subject + "/" + sub.id;
+    const bodyEl = el("lb-board-" + sub.id);
+    if (!bodyEl) return;
+    const req = page.requestId;
 
     try {
       const top = await LB.fetchTop(scope, 5);
       if (req !== page.requestId) return;
+      if (!top.ok) { bodyEl.innerHTML = errorBlock(); return; }
 
-      if (!top.ok) {
-        boardEl.innerHTML = errorBlock();
-        rankEl.innerHTML = errorBlock();
-        return;
+      const dev = LB.deviceId();
+      const at = top.rows.findIndex((r) => r.deviceId && r.deviceId === dev);
+
+      /* Inside the five the highlighted row already says everything, so a
+         second "your rank" line would just repeat it. Only reach for the
+         two-read rank query when the visitor is outside the five we have. */
+      let ownHTML = "";
+      if (at < 0 && attemptedLocally(scope)) {
+        const mine = await LB.fetchMyRank(scope);
+        if (req !== page.requestId) return;
+        if (mine && mine.ok && mine.rank > 0) ownHTML = ownLine(mine.mine, mine.rank, mine.total, lang);
       }
 
-      boardEl.innerHTML = top.rows.length
-        ? top.rows.map((row, i) => rowHTML(row, i + 1, lang)).join("")
+      const rowsHTML = top.rows.length
+        ? top.rows.map((row, i) => rowHTML(row, i + 1, lang, row.deviceId === dev)).join("")
         : `<div class="lb-empty">${esc(tx("lb.empty", "No scores here yet. Be the first to join!"))}</div>`;
 
-      rankEl.innerHTML = `<div class="lb-skel">${esc(tx("lb.loading", "Loading…"))}</div>`;
-      const mine = await LB.fetchMyRank(scope);
-      if (req !== page.requestId) return;
-
-      if (!mine.ok) { rankEl.innerHTML = errorBlock(); return; }
-
-      if (mine.rank > 0) {
-        rankEl.innerHTML = `
-          <div class="lb-rank-big">
-            <span class="lb-rank-num">#${mine.rank}</span>
-            <span class="lb-rank-of">${esc(tx("lb.of", "of"))} ${mine.total != null ? mine.total : "?"} ${esc(tx("lb.entries", "entries"))}</span>
-          </div>
-          ${rowHTML(mine.mine, mine.rank, lang, true)}`;
-      } else {
-        rankEl.innerHTML = `
-          <p class="lb-none">${esc(tx("lb.notOnBoard", "You are not on this leaderboard yet."))}</p>
-          <a class="btn btn-primary" href="/mock-test">${esc(tx("lb.takeTest", "Take a mock test"))}</a>`;
-      }
+      bodyEl.innerHTML = rowsHTML + ownHTML;
     } catch (e) {
       if (req !== page.requestId) return;
-      boardEl.innerHTML = errorBlock();
-      rankEl.innerHTML = errorBlock();
+      bodyEl.innerHTML = errorBlock();
     }
+  }
+
+  function attemptedLocally(scope) {
+    try {
+      const best = LB.bestByScope();
+      return !!best && Object.prototype.hasOwnProperty.call(best, scope);
+    } catch (e) { return false; }
+  }
+
+  function ownLine(row, rank, total, lang) {
+    const medal = rank === 1 ? "🥇" : rank === 2 ? "🥈" : rank === 3 ? "🥉" : "";
+    return `
+      <div class="lb-myline">
+        <span class="lb-myline-tag">${esc(tx("lb.you", "Your rank"))}</span>
+        <span class="lb-myline-rank">${medal || "#" + rank}</span>
+        <span class="lb-myline-name">${esc(row.name)}</span>
+        <span class="lb-myline-score">${row.bestPct}%</span>
+        ${total != null ? `<span class="lb-myline-of">${esc(tx("lb.of", "of"))} ${total}</span>` : ""}
+      </div>`;
   }
 
   function errorBlock() {
