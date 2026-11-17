@@ -25,6 +25,7 @@
 
   const LS_DEVICE = "axomexam-device-id";
   const LS_NAME = "axomexam-name";
+  const LS_ANON = "axomexam-anon-name";
   const LS_HISTORY = "axomexam-mock-history";
   const LS_RATE = "axomexam-lb-rate";
   const DAILY_LIMIT = 20;
@@ -164,6 +165,37 @@
 
   function storeName(name) {
     try { localStorage.setItem(LS_NAME, name); } catch (e) { /* ignore */ }
+  }
+
+  /* A placeholder identity for visitors who skip the popup. It lives in its
+     own key so `storedName()` stays empty: the popup must keep asking until
+     the visitor types a name of their own. */
+  function storedAnonName() {
+    try { return localStorage.getItem(LS_ANON) || ""; } catch (e) { return ""; }
+  }
+
+  function storeAnonName(name) {
+    try { localStorage.setItem(LS_ANON, name); } catch (e) { /* ignore */ }
+  }
+
+  /* Reserve and return a placeholder name such as "Unknown user 4821".
+     Reserving keeps two devices from sharing one alias; a collision just
+     picks another number. If the reservation cannot be reached the
+     candidate is returned anyway, because the score still belongs on the
+     board and `submitScore` is best-effort. */
+  async function anonymousName() {
+    const existing = storedAnonName();
+    if (existing) return existing;
+
+    let candidate = "";
+    for (let i = 0; i < 6; i++) {
+      candidate = "Unknown user " + (1000 + Math.floor(Math.random() * 9000));
+      let res;
+      try { res = await reserveName(candidate); } catch (e) { break; }
+      if (res.ok) { storeAnonName(candidate); return candidate; }
+      if (res.code !== "taken") break;
+    }
+    return candidate;
   }
 
   /* ---------- name validation ---------- */
@@ -503,6 +535,7 @@
     deviceId: deviceId,
     storedName: storedName,
     storeName: storeName,
+    anonymousName: anonymousName,
     normalizeName: normalizeName,
     validateName: validateName,
     rateLeft: rateLeft,

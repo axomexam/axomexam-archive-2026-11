@@ -375,7 +375,7 @@ const I18N = {
     "lb.updated": "Updated",
 
     "lb.join.title": "Join the leaderboard?",
-    "lb.join.body": "Your name will be shown on the leaderboard with your best score. You can skip this — your mock test will still run normally.",
+    "lb.join.body": "Your name will be shown on the leaderboard with your best score. Skipping still saves your score, under a placeholder name such as \"Unknown user 4821\".",
     "lb.join.yes": "Yes, add me",
     "lb.join.skip": "Skip",
     "lb.name.title": "Enter your name",
@@ -765,7 +765,7 @@ const I18N = {
     "lb.updated": "আপডেট",
 
     "lb.join.title": "লিডাৰবৰ্ডত যোগ দিবনে?",
-    "lb.join.body": "আপোনাৰ নাম শ্ৰেষ্ঠ স্ক'ৰৰ সৈতে লিডাৰবৰ্ডত দেখুওৱা হ'ব। আপুনি এয়া এৰি দিব পাৰে — আপোনাৰ মক টেষ্ট সাধাৰণভাৱে চলিব।",
+    "lb.join.body": "আপোনাৰ নাম শ্ৰেষ্ঠ স্ক'ৰৰ সৈতে লিডাৰবৰ্ডত দেখুওৱা হ'ব। এৰি দিলেও আপোনাৰ স্ক'ৰ ছেভ হয়, \"Unknown user 4821\" দৰে এটা সাময়িক নামেৰে।",
     "lb.join.yes": "হয়, মোক যোগ কৰক",
     "lb.join.skip": "এৰি দিয়ক",
     "lb.name.title": "আপোনাৰ নাম লিখক",
