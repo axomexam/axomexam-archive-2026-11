@@ -2461,3 +2461,43 @@ Console if the board should be clean.
 
 **Suite totals after this fix:** lbtest 27, lbui 37, lblang 8, lbguard 4,
 lbanon 9, lbflow 15, lbswitch 8 = **108 pass, 0 fail**.
+
+## Session record — Nov 2026 Leaderboard: one card per sub-category
+
+**Report.** Owner: "General Knowledge kholne par sirf Assam History ka rank
+dikhta hai; doosre topic ka mock test doon to leaderboard par show nahi hota,
+kyunki by default system hi aisa hai." The data and the queries were fine — the
+page only ever showed one board at a time, behind a second dropdown, so a
+visitor had no way to reach the board their score was actually on.
+
+**Change.** `js/leaderboard-ui.src.js` renders the subject picker as tabs and,
+under it, one board card per sub-category of the chosen subject. The
+sub-category `<select>` is gone. Each card fetches its own top five and shows a
+highlighted row for this device; when the device is outside the five, one
+"Your rank" line is appended.
+
+**Read cost.** A card costs one `fetchTop`. The two aggregation reads behind
+`fetchMyRank` run only when the device is outside the top five *and* the local
+mock history contains that scope, so a subject page costs about one read per
+card instead of three. The rank line is suppressed when the device is already
+inside the five, because the highlighted row already shows it.
+
+**Also.** `lb.top5` added in both language blocks. New CSS:
+`.lb-tabs/.lb-tab/.lb-boards/.lb-subcard/.lb-myline` with dark-mode overrides.
+Removed the CSS orphaned by the dropdown: `.lb-picker`, `.lb-field`,
+`.lb-grid`, `.lb-scope-name`, `.lb-myrank`, `.lb-rank-big`, `.lb-rank-num`,
+`.lb-rank-of`, `.lb-none` (and their media-query/dark entries). The now-unused
+i18n keys `lb.subcategory`, `lb.notOnBoard` and `lb.takeTest` were left in
+place: they are two short strings each and the Assamese translations are worth
+keeping.
+
+**Verification.** New suite `lbcards` (32 assertions): card count per subject,
+per-card scope queries, own-row highlight, rank footer only for attempted
+scopes outside the five, tab switching, and per-card error state on a dead
+network. `lbswitch` was deleted — it tested the removed dropdown. Suite totals:
+lbtest 27, lbui 37, lblang 8, lbguard 4, lbanon 9, lbflow 15, lbcards 32 =
+**132 pass, 0 fail**.
+
+**Preview gotcha.** A jsdom/browser check needs a device id matching
+`/^d_[0-9a-f]{8,}$/`, or `deviceId()` silently replaces it and no row ever
+matches.
