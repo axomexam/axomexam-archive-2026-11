@@ -447,12 +447,13 @@ Dono dropdown **bilingual** honge (en + as), jaise baaki site hai.
    Sabse kamzor: Arithmetic (58%) — yahan practice karo
 ```
 
-### Name box — ek hi box, asli naam ya nickname (dono chalega)
+### Name box — ek box, ek naam, sirf ek hi dikhega
 
 Owner ne kaha: *"name box mein user apna naam ya nickname, dono mein se kuch
-bhi likh sakta hai."*
+bhi likh sakta hai"* — **aur** *"ek hi user ka naam aur nickname dono ek saath
+mat dikhao, accha nahi lagta."*
 
-**Design:** **Ek hi input box**. Usme user jo marzi likhe:
+**Isliye design aisa hai:**
 
 ```
         ┌─────────────────────────────────────────┐
@@ -462,17 +463,45 @@ bhi likh sakta hai."*
         │  Ye leaderboard par dikhega.            │
         │                                         │
         │  ┌───────────────────────────────────┐  │
-        │  │ Rahul Das                         │  │  ← asli naam
-        │  └───────────────────────────────────┘  │
-        │  ┌───────────────────────────────────┐  │
-        │  │ Rahul_99                          │  │  ← nickname
+        │  │                                   │  │  ← SIRF EK BOX
         │  └───────────────────────────────────┘  │
         │                                         │
         │  [ Skip ]          [ Haan, join karo ]  │
         └─────────────────────────────────────────┘
 ```
 
-**Koi alag "naam" / "nickname" field nahi** — ek hi box, dono kaam karega.
+User is ek box mein jo likhega, **wahi ek cheez** leaderboard par dikhegi:
+
+| User ne likha | Leaderboard par |
+|---|---|
+| `Rahul Das` | **Rahul Das** ✅ |
+| `Rahul_99` | **Rahul_99** ✅ |
+| `ৰাহুল` | **ৰাহুল** ✅ |
+
+### ⛔ Kya NAHI hoga (ye important hai)
+
+| ❌ Galat | ✅ Sahi |
+|---|---|
+| `Rahul Das (Rahul_99)` | `Rahul Das` |
+| Do box — ek naam, ek nickname | **Ek hi box** |
+| `Rahul Das` + neeche `@Rahul_99` | Sirf `Rahul Das` |
+| Ek user ke do naam leaderboard par | Ek user ka **ek hi naam** |
+
+**Rule: ek user = ek naam. Bas. Dono kabhi saath nahi.**
+
+### Technical: sirf ek field save hogi
+
+```
+lb_scores/{deviceId}__{scope}  →  {
+    name: "Rahul Das",   ← SIRF YEH EK NAAM FIELD
+    ...
+}
+```
+
+- Database mein **`name`** naam ka **ek hi field** hoga
+- Koi alag `nickname` ya `displayName` field **nahi**
+- Isliye dono ek saath dikhna **technically bhi possible nahi** hoga
+- Naam badalna ho to wahi ek field update hogi (purani hat jayegi)
 
 ### Rules kya honge (simple)
 
@@ -485,10 +514,6 @@ bhi likh sakta hai."*
 | Gaali filter | Public page par gaali na dikhe |
 | **Unique** (chhote-bade ek hi) | `Rahul` = `rahul` = `RAHUL` |
 | Trim + double space hata do | "Rahul  Das" → "Rahul Das" |
-
-**Ek hi box ka fayda:** koi confusion nahi, koi extra step nahi. Jo apna naam
-dikhana chahta hai, wo naam likhe; jo chhupana chahta hai, wo nickname likhe.
-**Dono ko lagta hai unke paas choice hai.**
 
 ### Nickname/naam unique kaise hoga
 
