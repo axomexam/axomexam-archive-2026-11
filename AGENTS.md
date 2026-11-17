@@ -2502,6 +2502,45 @@ lbtest 27, lbui 37, lblang 8, lbguard 4, lbanon 9, lbflow 15, lbcards 32 =
 `/^d_[0-9a-f]{8,}$/`, or `deviceId()` silently replaces it and no row ever
 matches.
 
+## Session record — Nov 2026 Leaderboard: 3-up tabs, deep links, scorecard shortcut
+
+**Report.** Three asks. (1) The subject tabs wrapped unevenly, so a long name
+like "Computer Awareness" made its button wider than the rest. (2) There was no
+way to link straight to one sub-category board. (3) The mock-test scorecard had
+no path to the visitor's own rank.
+
+**Change.**
+- `css/style.src.css` — `.lb-tabs` is now `display:grid;
+  grid-template-columns:repeat(3, minmax(0,1fr))`, so three tabs sit on each
+  row at exactly equal width whatever the label length. `.lb-tab` became a
+  centred flex box with `min-height:46px`, so heights match too. Font steps down
+  at 820px / 400px / 360px so the longest label still fits a 320px phone without
+  a mid-word break. Added `.lb-subcard-target` (blue ring) for the deep-linked
+  card.
+- `js/leaderboard-ui.src.js` — `queryParam()` reads the query string;
+  `boardCardHTML()` gives every card `id="lb-sub-<sub>"`; `renderPage()` applies
+  `?subject=` before painting and, for `?sub=`, rings the matching card and
+  scrolls it to centre. Picking a tab by hand calls `clearDeepLink()`
+  (`replaceState`), so the stale query does not re-apply. The scroll call is
+  guarded on `requestAnimationFrame`, which jsdom does not implement.
+- `js/app.src.js` — `leaderboardShortcutHref()` resolves the finished test's
+  `cat.id`/`subId` through `AXOLeaderboard.resolveScope` into
+  `?subject=…&sub=…`, falling back to the plain page. The scorecard's first
+  action is now `<a class="btn btn-accent">🏆 See My Leaderboard Rank</a>`.
+- `js/i18n.src.js` — `mock.result.leaderboard`, EN "See My Leaderboard Rank",
+  AS "মোৰ ৰেংক চাওক".
+
+**Verification.** New suites `lbshortcut` (19) and `lbscbtn` (22). Totals:
+lbtest 27, lbui 37, lblang 8, lbguard 4, lbanon 9, lbflow 15, lbcards 32,
+lbshortcut 19, lbscbtn 22 = **173 pass, 0 fail**. Live browser checks: a full
+mock test through the opt-in popup to the scorecard produced
+`href="/leaderboard/?subject=gk&sub=art-culture"`; that URL opened the General
+Knowledge tab with the Art & Culture card ringed; a hand tab click dropped the
+query; `/as/leaderboard/?subject=science&sub=physics` opened the Assamese
+Science tab. Tab geometry measured in iframes at 390/360/320/280px in both
+languages: 3 per row, one distinct width and one distinct height every time,
+no text overflow.
+
 ## Google Analytics audit — Nov 2026
 
 Question asked: "kya main Google Analytics se pura traffic dekh pa raha hoon?"

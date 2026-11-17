@@ -250,11 +250,24 @@
     return lang === "as" ? sub.as : sub.en;
   }
 
+  /* Query-string value, used to open the page on a specific subject tab
+     when the visitor arrives from a mock-test scorecard shortcut. */
+  function queryParam(name) {
+    try {
+      return new URLSearchParams(window.location.search).get(name) || "";
+    } catch (e) { return ""; }
+  }
+
+  function subjectFromQuery() {
+    const want = queryParam("subject");
+    return LB.SUBJECTS.some((s) => s.id === want) ? want : null;
+  }
+
   /* One card per sub-category of the chosen subject, so every board is
      visible at once instead of hiding behind a second dropdown. */
   function boardCardHTML(sub, lang) {
     return `
-      <div class="lb-subcard">
+      <div class="lb-subcard" id="lb-sub-${esc(sub.id)}">
         <div class="lb-subcard-head">
           <h2>${esc(subLabel(sub, lang))}</h2>
           <span class="lb-subcard-badge">${esc(tx("lb.top5", "Top 5"))}</span>
@@ -265,8 +278,17 @@
       </div>`;
   }
 
+  /* The scorecard shortcut carries ?subject=…&sub=…; once the visitor picks
+     a tab themselves the query is stale, so drop it. */
+  function clearDeepLink() {
+    if (!window.location.search) return;
+    try { window.history.replaceState(null, null, window.location.pathname); } catch (e) { /* ignore */ }
+  }
+
   function renderPage(container) {
     const lang = uiLang();
+    const fromQuery = subjectFromQuery();
+    if (fromQuery) page.subject = fromQuery;
     const subject = page.subject || defaultSubject();
     /* Remember the subject: tab clicks and re-renders read it back, so it
        must not be left null after the first paint. */
@@ -311,6 +333,7 @@
       Array.prototype.forEach.call(tabs.querySelectorAll(".lb-tab"), (btn) => {
         btn.addEventListener("click", () => {
           if (btn.dataset.subject === page.subject) return;
+          clearDeepLink();
           page.subject = btn.dataset.subject;
           renderPage(container);
         });
@@ -319,6 +342,19 @@
 
     subs.forEach((sub) => loadCard(subject, sub, lang));
     renderGraph();
+
+    /* Arrived from a scorecard shortcut: bring the matching sub-category
+       card into view so the visitor's own board is the first thing seen. */
+    const wantSub = queryParam("sub");
+    if (wantSub && subs.some((s) => s.id === wantSub)) {
+      const card = el("lb-sub-" + wantSub);
+      if (card) {
+        card.classList.add("lb-subcard-target");
+        const reveal = () => { try { card.scrollIntoView({ block: "center", behavior: "smooth" }); } catch (e) { /* ignore */ } };
+        if (typeof window.requestAnimationFrame === "function") window.requestAnimationFrame(reveal);
+        else reveal();
+      }
+    }
   }
 
   /* A card's board plus, when the visitor has a row of their own, one
