@@ -725,15 +725,75 @@ dikhega.**
 > Kuch accounts mein ye category hata kar items seedha list kar diye gaye
 > hain. Isliye **search (tarika C)** sabse pakka hai.
 
-**Firestore mil gaya? Ab:**
+**Firestore mil gaya? Ab database banao — ye 5 chhote step hain:**
 
-1. **"Create database"** par click karo
-2. **Mode poochega** → **"Production mode"** chuno (Test mode nahi — wo 30 din
-   mein expire ho jaata hai)
-3. **Location poochega** → **`asia-south1` (Mumbai)** chuno
-   - Kyun: aapke users India mein hain, isse speed tez milegi
-   - ⚠️ Ye baad mein **badla nahi ja sakta**, isliye dhyan se chuno
-4. **"Enable"** → 1 minute wait
+**2a. "Create database" par click karo**
+
+**2b. Edition poochega — ✅ `Standard edition` chuno**
+
+```
+   ┌──────────────────────────────────────────────┐
+   │  Choose an edition                           │
+   │                                              │
+   │  ◉ Standard edition            ← YE CHUNO ✅ │
+   │    Document database. Automatic indexes,     │
+   │    simple pricing, free tier.                │
+   │                                              │
+   │  ○ Enterprise edition                        │
+   │    Advanced query engine, MongoDB mode.      │
+   │    Manual indexes, per-KiB pricing.          │
+   └──────────────────────────────────────────────┘
+```
+
+**Kyun Standard?** Hamare leaderboard jaise simple kaam ke liye Standard
+**behtar aur sasta** hai:
+
+| Cheez | Standard ✅ | Enterprise |
+|---|---|---|
+| Free reads/din | 50,000 | 50,000 |
+| Free writes/din | 20,000 | 40,000 |
+| Index | **Automatic** (rank query ke liye zaroori) | **Manual** (khud banana padega) |
+| Price agar limit cross ho | **$0.03** /1 lakh reads | **$0.05** /10 lakh (per-KiB hisaab) |
+| Hamare liye | ✅ **Yahi chuno** | Overkill |
+
+Enterprise mein writes 2x milte hain, **par** har write 1 KiB chunks mein
+ginta hai aur index khud banane padte hain — hamare chhote kaam ke liye
+faaltu complication hai.
+
+**2c. Database ID poochega — ⚠️ KUCH MAT LIKHO**
+
+```
+   ┌──────────────────────────────────────────────┐
+   │  Database ID                                 │
+   │  ┌────────────────────────────────────────┐  │
+   │  │ (default)                              │  │ ← YAHI REHNE DO
+   │  └────────────────────────────────────────┘  │
+   └──────────────────────────────────────────────┘
+```
+
+> 🚨 **Ye sabse zaroori step hai!**
+>
+> Agar aap `(default)` ki jagah koi naam likhoge (jaise `axomexam-db`), to
+> wo **"named database"** ban jayega. Google ke docs kehte hain:
+> *"To create a named (non-default) database, you must enable billing."*
+> Matlab **card daalna padega** — aur free quota bhi nahi milega.
+>
+> **`(default)` ko waise hi chhodo. Kuch mat likho.**
+> Isse free quota milega aur card ki zaroorat nahi padegi.
+
+**2d. Location poochega — `asia-south1` (Mumbai) chuno**
+
+- Kyun: aapke users India mein hain, isse speed tez milegi
+- ⚠️ Ye baad mein **badla nahi ja sakta**, isliye dhyan se chuno
+- Agar `asia-south1` na dikhe to **`asia-south2` (Delhi)** ya
+  **`asia-southeast1` (Singapore)** chuno
+
+**2e. Security rules poochega — `Production mode` chuno**
+
+- Test mode **nahi** — wo 30 din mein expire ho jaata hai
+- (Rules hum Step 4 mein apne likhenge)
+
+**2f. "Enable" / "Create" par click karo** → 1 minute wait
 
 > **Firestore ke naam ke variants:** Kuch accounts mein "Firestore Database"
 > ki jagah **"Firestore"** ya **"Cloud Firestore"** likha hota hai. Teeno ek
@@ -827,7 +887,7 @@ service cloud.firestore {
 
 Ye bots ko rokta hai. Baad mein bhi kar sakte ho, pehle sab chal jaane do.
 
-1. Left menu → **"Build"** → **"App Check"**
+1. Left menu (ya search bar) → **"App Check"**
 2. Web app ke liye **reCAPTCHA v3** chuno
 3. reCAPTCHA site key lo (Google se) aur daalo
 4. Enforce karo
