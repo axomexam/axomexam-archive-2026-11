@@ -2185,3 +2185,124 @@ sitemap 2584, thin 0, missing H1/desc/canonical/JSON-LD 0, dup titles/H1/desc
 SEO-enriched pages — the later chain steps (`apply-keyword-map`,
 `build-as-twins`, `seo-indexing-fix`) restore the good markup. Always run the
 whole chain, never the page builder by itself.
+
+## Session record — Nov 2026 Social leaderboard (Firestore) + GA4 SPA check
+
+**What shipped.** A no-login social leaderboard: top-5 per mock-test
+sub-category plus the visitor's own rank. `js/leaderboard.src.js` (core:
+name reservation, score submit, top/rank reads, count aggregation),
+`js/leaderboard-ui.src.js` (closeable opt-in popup before the final mock
+submit + the `/leaderboard` page), CSS in `css/style.src.css`, a `/leaderboard`
+route and nav links in `js/app.src.js`, pages `leaderboard/index.html` and
+`as/leaderboard/index.html`, plus `sitemap.xml` and `sw.js` precache entries.
+Build config: `scripts/minify-assets.js` JS_ASSETS gained `leaderboard` and
+`leaderboard-ui`; `scripts/stamp-assets.js` ASSETS gained both built files.
+
+**Firestore shape.** Project `axomexam-leaderboard`, collection `lb_scores`
+(one doc per device per scope, id `{deviceId}__{scopeKey}`) and `lb_names`
+(one doc per lowercased name, id = the name). Public web config lives in
+`js/firebase-config.js` (public keys only — never a service-account key).
+
+**Four bugs found and fixed by the live end-to-end test.** Worth remembering,
+because each one only shows up against real Firestore:
+1. `reserveName` and `submitScore` took the raw name, so `"Rahul  Das"` and
+   `"Rahul Das"` reserved two different documents and the same display name
+   could appear twice. Both now run `normalizeName` themselves.
+2. The commit *body* URL-encoded the document id (`encodeURIComponent`) while
+   the GET path decoded it, so any name containing a space was written to one
+   document and looked up in another — re-reserving a spaced name wrongly
+   reported "taken". Commit bodies now use the raw id; only the GET path
+   encodes.
+3. Dark-mode CSS selected `body[data-theme="dark"]`, but the site sets
+   `data-theme` on `<html>`. Changed to `[data-theme="dark"]`.
+4. The static crawler article on the leaderboard pages sat *inside* `<main>`;
+   moved below `</main>` as `axo-extra-content`, matching the site convention.
+
+**Firestore rules gap — still open.** The published rules validate
+`name.matches('^[\p{L}\p{N} _]+$')`. Assamese and Devanagari vowel signs
+(matras) are combining marks (`\p{M}`), not letters, so a real Assamese name
+like `ৰাহুল` is rejected with 403 — the client accepts it and then the write
+fails. The rules must use `'^[\p{L}\p{M}\p{N} _]+$'` (updated in
+`GROWTH-ROADMAP.md`; the owner pastes rules in the Firebase console, so the
+change has to be re-published there). Confirmed live: latin name 200,
+`ৰাহুল` 403, `राहुल` 403.
+
+**GA4 answer (owner's question).** GA4 `G-PBPXK2Q799` is on all 2616 HTML
+pages, exactly one `gtag('config')` per page, and Google Analytics is
+reachable. The site is an SPA using `history.pushState`, and GA4's Enhanced
+Measurement sends a `page_view` on History API changes by itself — verified in
+a probe that captured the outgoing `/g/collect` hits: one page_view per
+`pushState` with the correct `dl` (document location). So in-place navigation
+*is* measured; no extra `gtag('event','page_view')` call is needed, and adding
+one would double-count. The mock-test back-guard re-pushes the *same* URL, so
+it does not add a duplicate view.
+
+**Verification.** Live suites all green: 27 module-logic assertions, 10
+cross-device assertions (name exclusivity, ordering, rank 0 when absent),
+6 spaced-name assertions after the fix. Local smoke test: every key route and
+asset 200. `seo-audit.js` clean (1322 pages, 0 thin, 0 missing H1/desc/
+canonical/JSON-LD, 0 dup titles/H1/desc, title/desc limits 0).
+
+**Cleanup owed to the owner.** The live testing left 14 `lb_scores` and 20
+`lb_names` documents in Firestore. Client delete is blocked by the rules
+(403), so they must be removed from the Firebase console (Firestore → Data).
+
+## Session record — Nov 2026 Leaderboard content-language fix (/as/ pages)
+
+**Bug.** The `/as/leaderboard/` page rendered its leaderboard copy in English
+even though the static shell, `<html lang>`, `<title>` and the crawler article
+were all Assamese. Cause: `js/leaderboard-ui.src.js` translated page copy with
+`AXOApp.t()` (interface language) and derived its language from
+`AXOApp.uiLang()`. Everywhere else the site renders page content with `tc()`
+(content language from the URL) and `localized()`, so `/as/...` pages show
+Assamese content while only the header chrome follows the EN/অসমীয়া toggle.
+The opt-in popup had the same defect on `/as/mock-test`.
+
+**Fix.**
+1. `js/app.src.js` — the `window.AXOApp` bridge now also exposes
+   `tc(key)` and `contentLang()` (`state.lang`), alongside the existing
+   `t`, `uiLang` and `mock`.
+2. `js/leaderboard-ui.src.js` — `tx()` prefers `app.tc` (falls back to
+   `app.t`), and `uiLang()` prefers `app.contentLang()` (falls back to
+   `app.uiLang()`). Because both feed every string on the page *and* in the
+   popup, one change covers both.
+3. The breadcrumb used a hardcoded `<a href="/">Home</a>`; it now uses
+   `tx("breadcrumb.home", "Home")`, matching the app convention.
+
+**Verified.** New suite `lblang` loads the *shipped* `js/i18n.js` +
+`js/leaderboard-ui.js` with a DOM shim: 8/8 assertions — Assamese popup copy
+on `/as/` (title, body, skip/yes), no English leakage, and the English page
+still renders English with no Assamese leakage. Existing suites still green
+(27/0 module logic, 10/0 live Firestore). Browser check of both
+`/leaderboard/` and `/as/leaderboard/` confirms the fix end to end. Asset
+versions restamped; `stamp-assets.js --check` reports 0 drift.
+
+**Left as-is.** Internal links on the leaderboard page (`href="/"`,
+`href="/mock-test"`) stay un-prefixed, matching the rest of the site — the app
+does not prefix internal links per language anywhere, so changing only the
+leaderboard would be inconsistent. The `t()`-based keys that remain
+(`lb.subject`, `lb.subcategory`) are intentional: the app's own pickers render
+subject names bilingually too.
+
+**Offline bug found while probing the real submit flow.** `askName()`'s
+`attemptSave` awaited `reserveName`/`submitScore` outside any `try`, and
+`js/leaderboard.src.js` *rejects* when `fetch` fails (it only returns
+`{ok:false}` for HTTP errors). So on a dropped connection the Save button
+stayed disabled forever, no message appeared, and the only way out was
+Cancel/✕ — which looked like the page had frozen. The reset now lives in a
+`finally`, a `catch` shows the existing `lb.name.err` copy, and `finish()` is
+one-shot so closing the popup while a request is still in flight cannot render
+the result screen twice. `loadBoard()` already handled the same case via its
+own `catch`.
+
+**Still owed to the owner (unchanged).** Delete the leftover test docs in the
+Firebase console, commit/deploy the leaderboard files, and paste the corrected
+Firestore rules (with `\p{M}`) into the console.
+
+**Test suites.** `lbtest` (27) and `lblive2` (10) cover the core module,
+including live Firestore. `lblang` (8) loads the shipped i18n + UI files with a
+DOM shim and checks content-language rendering. `lbui` (25) drives the real
+popup in jsdom: opt-in, skip, taken name, dead network, double click, close
+mid-flight, and the page under a dead network. `lbui` needs `jsdom` in
+`node_modules` (dev-only, never shipped) and is invoked as
+`node --unhandled-rejections=warn /tmp/lbui.mjs`.

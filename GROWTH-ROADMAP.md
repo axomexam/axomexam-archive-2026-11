@@ -1065,8 +1065,11 @@ service cloud.firestore {
         && request.resource.data.name is string
         && request.resource.data.name.size() >= 2
         && request.resource.data.name.size() <= 20
-        /* letters (kisi bhi bhasha ke), numbers, space, underscore */
-        && request.resource.data.name.matches('^[\\p{L}\\p{N} _]+$')
+        /* letters, combining marks, numbers, space, underscore.
+           \p{M} zaroori hai: Assamese/Devanagari ki matra (jaise "ৰাহুল")
+           ek combining mark hai, letter nahi. Sirf \p{L} rakho to
+           Assamese naam 403 ho jaata hai (17 Nov 2026 ko live pakda gaya). */
+        && request.resource.data.name.matches('^[\\p{L}\\p{M}\\p{N} _]+$')
         && request.resource.data.deviceId is string
         && request.resource.data.deviceId.size() >= 8
         && request.resource.data.scope is string

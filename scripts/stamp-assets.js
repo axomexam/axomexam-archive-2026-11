@@ -40,6 +40,8 @@ const ASSETS = [
   "js/i18n.js",
   "js/api.js",
   "js/app.js",
+  "js/leaderboard.js",
+  "js/leaderboard-ui.js",
 ];
 
 const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");

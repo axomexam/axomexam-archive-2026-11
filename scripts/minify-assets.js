@@ -42,7 +42,7 @@ const ROOT = process.argv[2] && !process.argv[2].startsWith("--")
 
 const CSS_IN = "css/style.src.css";
 const CSS_OUT = "css/style.css";
-const JS_ASSETS = ["config", "i18n", "api", "app"];
+const JS_ASSETS = ["config", "i18n", "api", "app", "leaderboard", "leaderboard-ui"];
 
 function resolveEsbuild() {
   if (process.env.ESBUILD_BIN) {
