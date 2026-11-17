@@ -1229,6 +1229,7 @@
     items.push(extraLink("/mock-test", t("nav.mock"), activePath));
     items.push(extraLink("/exams", t("nav.exams"), activePath));
     items.push(extraLink("/downloads", t("nav.downloads"), activePath));
+    items.push(extraLink("/leaderboard", t("nav.leaderboard"), activePath));
     items.push(moreDropdownHTML(rest, activePath));
     list.innerHTML = items.join("");
   }
@@ -1368,6 +1369,7 @@
       { href: "/ebooks", key: "nav.ebooks", color: "#f59e0b", svg: `<path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/>` },
       { href: "/exams", key: "nav.exams", color: "#8b5cf6", svg: `<path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/>` },
       { href: "/downloads", key: "nav.downloads", color: "#0d9488", svg: `<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5"/><path d="M12 15V3"/>` },
+      { href: "/leaderboard", key: "nav.leaderboard", color: "#f59e0b", svg: `<path d="M8 21h8"/><path d="M12 17v4"/><path d="M17 4h3v3a4 4 0 0 1-4 4"/><path d="M7 4H4v3a4 4 0 0 0 4 4"/><path d="M7 3h10v5a5 5 0 0 1-10 0z"/>` },
     ];
     const tileParts = tiles.map((it) => `
       <a class="m-tile ${isActive(it.href) ? "active" : ""}" href="${it.href}" style="--mc:${it.color}">
@@ -1883,6 +1885,10 @@
     if (segs[0] === "current-affairs") {
       if (segs[1]) return renderCurrentAffairsCategoryPage(main, segs[1]);
       return renderCurrentAffairsPage(main);
+    }
+    if (segs[0] === "leaderboard") {
+      if (window.AXOLeaderboardUI) return window.AXOLeaderboardUI.renderPage(main);
+      return render404(main);
     }
     if (segs[0] === "submit") return renderSubmitPage(main);
     if (segs[0] === "mock-test") {
@@ -6738,6 +6744,17 @@
     generateCaptcha();
   }
 
+  /* Hand the visitor to the leaderboard opt-in popup before the score is
+     shown. Falls back to calling straight through when the leaderboard
+     module is missing, so grading is never blocked. */
+  function axoLbSubmit(done) {
+    const ui = window.AXOLeaderboardUI;
+    if (ui && typeof ui.beforeFinalSubmit === "function") {
+      try { ui.beforeFinalSubmit(done); return; } catch (e) { /* fall through */ }
+    }
+    done();
+  }
+
   /* ================= MOCK TEST SYSTEM ================= */
   function getTopicsForMockFilter(cat, subId, secId, topicId) {
     const matched = [];
@@ -8162,7 +8179,7 @@
     const defaultCount = countOptions.includes(25) ? 25 : countOptions[countOptions.length - 1];
 
     state.mock = {
-      cat, pool: fullPool, configured: false, count: defaultCount,
+      cat, subId: sub.id, pool: fullPool, configured: false, count: defaultCount,
       testLang: cat.id === "english" ? "en" : "as",
       setInfo: { setNumber, title: loaded.title, subject: localized(sub.name) }
     };
@@ -8455,7 +8472,7 @@
       return;
     }
 
-    state.mock = { cat, pool, configured: false, count: 0, testLang: cat.id === "english" ? "en" : "as" };
+    state.mock = { cat, subId: subId || null, pool, configured: false, count: 0, testLang: cat.id === "english" ? "en" : "as" };
     const counts = [10, 20, 50, 100].filter((n) => n <= pool.length);
     if (!counts.includes(pool.length)) counts.push(pool.length);
 
@@ -8529,7 +8546,7 @@
   function renderMockQuiz() {
     const m = state.mock;
     const q = m.pool[m.idx];
-    if (!q) return renderMockResults();
+    if (!q) return axoLbSubmit(() => renderMockResults());
     /* Keep the floating WhatsApp tab out of the way while a test is running. */
     setWhatsappChatSuppressed(true);
     const main = $("#app");
@@ -8616,7 +8633,7 @@
 
     $("#quiz-next").addEventListener("click", () => {
       m.idx++;
-      if (m.idx >= m.pool.length) { stopMockTimer(); renderMockResults(); }
+      if (m.idx >= m.pool.length) { stopMockTimer(); axoLbSubmit(() => renderMockResults()); }
       else { renderMockQuiz(); }
     });
 
@@ -9347,6 +9364,18 @@
       }
     });
   }
+
+  /* Small read-only bridge for the leaderboard UI module. The app keeps
+     `state` and `t` private, so expose just what the popup and the
+     /leaderboard page need: translated strings, the interface language
+     and a snapshot of the mock test in progress. */
+  window.AXOApp = {
+    t: (key) => t(key),
+    tc: (key) => tc(key),
+    uiLang: () => state.uiLang,
+    contentLang: () => state.lang,
+    mock: () => state.mock,
+  };
 
   /* ================= Boot ================= */
   async function boot() {

@@ -1,0 +1,526 @@
+/* ============================================================
+   axomexam — leaderboard.js
+
+   Social leaderboard backed by Cloud Firestore, called over the
+   REST API so no SDK bundle is needed on a static GitHub Pages
+   site. The public web config is read from window.AXOMEXAM_FIREBASE_CONFIG
+   (js/firebase-config.js).
+
+   Privacy: no login, no email, no account. A random per-browser
+   device id is generated locally and never shown. The only piece
+   of personal data stored is the display name the visitor types,
+   and only if they opt in from the pre-submit popup.
+
+   Collections
+     lb_scores/{deviceId}__{scopeKey}   best score per device per scope
+     lb_names/{nameLower}               name reservation (unique names)
+
+   Scope keys are the site's own sub-category ids ("gk/assam-history").
+   Firestore document ids cannot contain "/", so the document id uses
+   the scope with "/" replaced by "-"; the `scope` field keeps the
+   original value.
+   ============================================================ */
+(function () {
+  "use strict";
+
+  const LS_DEVICE = "axomexam-device-id";
+  const LS_NAME = "axomexam-name";
+  const LS_HISTORY = "axomexam-mock-history";
+  const LS_RATE = "axomexam-lb-rate";
+  const DAILY_LIMIT = 20;
+  const HISTORY_MAX = 300;
+
+  /* ---------- the 26 leaderboard scopes ---------- */
+  /* Mirrors GROWTH-ROADMAP.md. Only sub-categories that have practice
+     sets appear here; the six "articles" sub-categories do not. */
+  const SUBJECTS = [
+    { id: "gk", name: { en: "General Knowledge", as: "সাধাৰণ জ্ঞান" } },
+    { id: "math", name: { en: "Mathematics", as: "গণিত" } },
+    { id: "science", name: { en: "General Science", as: "সাধাৰণ বিজ্ঞান" } },
+    { id: "reasoning", name: { en: "Reasoning Ability", as: "যুক্তি বিচাৰণ ক্ষমতা" } },
+    { id: "english", name: { en: "General English", as: "সাধাৰণ ইংৰাজী" } },
+    { id: "computer", name: { en: "Computer Awareness", as: "কম্পিউটাৰ সজাগতা" } },
+  ];
+
+  const SUBS = {
+    gk: [
+      ["assam-history", "Assam History", "অসমৰ ইতিহাস"],
+      ["indian-history", "Indian History", "ভাৰতীয় ইতিহাস"],
+      ["geography", "Geography", "ভূগোল"],
+      ["economics", "Economics", "অৰ্থনীতি"],
+      ["art-culture", "Art & Culture", "কলা আৰু সংস্কৃতি"],
+      ["assam-literature", "Assam Literature", "অসমীয়া সাহিত্য"],
+      ["polity", "Political Science", "ৰাজনীতি বিজ্ঞান"],
+    ],
+    math: [
+      ["arithmetic", "Arithmetic", "পাটিগণিত"],
+      ["advanced-math", "Advanced Math", "উচ্চ গণিত"],
+      ["statistics-and-data-interpretation", "Statistics & DI", "পৰিসংখ্যা আৰু তথ্য বিশ্লেষণ"],
+    ],
+    science: [
+      ["biology", "Biology", "জীৱ বিজ্ঞান"],
+      ["physics", "Physics", "পদাৰ্থ বিজ্ঞান"],
+      ["chemistry", "Chemistry", "ৰসায়ন বিজ্ঞান"],
+    ],
+    reasoning: [
+      ["verbal-reasoning", "Verbal Reasoning", "মৌখিক যুক্তি"],
+      ["analytical-critical-reasoning", "Analytical & Critical", "বিশ্লেষণাত্মক যুক্তি"],
+      ["non-verbal-reasoning", "Non-Verbal Reasoning", "অবাচ্য যুক্তি"],
+    ],
+    english: [
+      ["vocabulary", "Vocabulary", "শব্দভাণ্ডাৰ"],
+      ["grammar", "Grammar", "ব্যাকৰণ"],
+      ["parts-of-speech", "Parts of Speech", "পদ"],
+      ["sentence-structure", "Sentence Structure", "বাক্য গঠন"],
+    ],
+    computer: [
+      ["ms-office-suite", "MS Office Suite", "MS Office ছুট"],
+      ["networking-internet", "Networking & Internet", "নেটৱৰ্কিং আৰু ইন্টাৰনেট"],
+      ["cyber-security", "Cyber Security", "চাইবাৰ নিৰাপত্তা"],
+      ["software-os", "Software & OS", "চফ্টৱেৰ আৰু OS"],
+      ["fundamentals-hardware", "Fundamentals & Hardware", "মৌলিক ধাৰণা আৰু হাৰ্ডৱেৰ"],
+      ["dbms-number-shortcuts", "DBMS & Shortcuts", "DBMS আৰু চৰ্টকাট"],
+    ],
+  };
+
+  /* Mock-test sub ids that differ from the leaderboard scope ids. */
+  const SUB_ALIAS = {
+    "computer/comp-fundamentals": "computer/fundamentals-hardware",
+    "computer/ms-office": "computer/ms-office-suite",
+  };
+
+  function subName(scope, lang) {
+    const parts = String(scope).split("/");
+    const list = SUBS[parts[0]] || [];
+    const row = list.find((r) => r[0] === parts[1]);
+    if (!row) return parts[1] || "";
+    return lang === "as" ? row[2] : row[1];
+  }
+
+  /* Turn a mock-test (catId, subId) pair into a canonical leaderboard
+     scope, or null when the pair has no leaderboard. */
+  function resolveScope(catId, subId) {
+    if (!catId || !subId) return null;
+    const key = catId + "/" + subId;
+    const scope = SUB_ALIAS[key] || key;
+    const parts = scope.split("/");
+    const list = SUBS[parts[0]] || [];
+    return list.some((r) => r[0] === parts[1]) ? scope : null;
+  }
+
+  function scopeKey(scope) {
+    return String(scope).replace(/\//g, "-");
+  }
+
+  /* ---------- small helpers ---------- */
+
+  function config() {
+    return (typeof window !== "undefined" && window.AXOMEXAM_FIREBASE_CONFIG) || null;
+  }
+
+  function enabled() {
+    const c = config();
+    return !!(c && c.projectId && c.apiKey);
+  }
+
+  function apiBase() {
+    const c = config();
+    return "https://firestore.googleapis.com/v1/projects/" + c.projectId +
+      "/databases/(default)/documents";
+  }
+
+  function docRoot() {
+    const c = config();
+    return "projects/" + c.projectId + "/databases/(default)/documents";
+  }
+
+  function key() {
+    return "?key=" + encodeURIComponent(config().apiKey);
+  }
+
+  function randHex(n) {
+    const bytes = new Uint8Array(n / 2);
+    if (window.crypto && window.crypto.getRandomValues) {
+      window.crypto.getRandomValues(bytes);
+    } else {
+      for (let i = 0; i < bytes.length; i++) bytes[i] = Math.floor(Math.random() * 256);
+    }
+    return Array.from(bytes).map((b) => b.toString(16).padStart(2, "0")).join("");
+  }
+
+  function deviceId() {
+    let id = null;
+    try { id = localStorage.getItem(LS_DEVICE); } catch (e) { id = null; }
+    if (!id || !/^d_[0-9a-f]{8,}$/.test(id)) {
+      id = "d_" + randHex(24);
+      try { localStorage.setItem(LS_DEVICE, id); } catch (e) { /* private mode */ }
+    }
+    return id;
+  }
+
+  function storedName() {
+    try { return localStorage.getItem(LS_NAME) || ""; } catch (e) { return ""; }
+  }
+
+  function storeName(name) {
+    try { localStorage.setItem(LS_NAME, name); } catch (e) { /* ignore */ }
+  }
+
+  /* ---------- name validation ---------- */
+
+  /* Deliberately short. The goal is to keep the public board readable,
+     not to build a complete filter; the security rules enforce shape
+     and the owner can remove an entry from the console. */
+  const BAD_WORDS = [
+    "fuck", "shit", "bitch", "bastard", "asshole", "dick", "pussy", "rape",
+    "sex", "porn", "nude", "cock", "cunt", "whore", "slut", "madarchod",
+    "bhosdi", "chutiya", "chutiyaa", "gandu", "gaand", "harami", "kamina",
+    "randi", "bhadwa", "bhosdike", "loda", "lodu", "suar", "kutta",
+  ];
+
+  function normalizeName(raw) {
+    return String(raw == null ? "" : raw)
+      .replace(/[\u200B-\u200D\uFEFF]/g, "")   /* zero-width chars */
+      .replace(/[\u0000-\u001F\u007F]/g, "")   /* control chars */
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function validateName(raw) {
+    const name = normalizeName(raw);
+    if (name.length < 2) return { ok: false, code: "short", name };
+    if (name.length > 20) return { ok: false, code: "long", name };
+    /* Letters and combining marks in any script, digits, space, underscore.
+       The marks matter: an Assamese or Devanagari vowel sign is a combining
+       mark (\p{M}), not a letter, so a plain \p{L} class rejects a name like
+       "ৰাহুল". */
+    if (!/^[\p{L}\p{M}\p{N} _]+$/u.test(name)) return { ok: false, code: "chars", name };
+    const flat = name.toLowerCase().replace(/[^a-z0-9]/g, "");
+    if (flat && BAD_WORDS.some((w) => flat.includes(w))) {
+      return { ok: false, code: "bad", name };
+    }
+    return { ok: true, name };
+  }
+
+  /* ---------- rate limit (client side, best effort) ---------- */
+
+  function today() {
+    return new Date().toISOString().slice(0, 10);
+  }
+
+  function rateState() {
+    let st = null;
+    try { st = JSON.parse(localStorage.getItem(LS_RATE) || "null"); } catch (e) { st = null; }
+    if (!st || st.day !== today()) st = { day: today(), n: 0 };
+    return st;
+  }
+
+  function rateBump() {
+    const st = rateState();
+    st.n += 1;
+    try { localStorage.setItem(LS_RATE, JSON.stringify(st)); } catch (e) { /* ignore */ }
+    return st.n;
+  }
+
+  function rateLeft() {
+    return Math.max(0, DAILY_LIMIT - rateState().n);
+  }
+
+  /* ---------- mock history (powers the topic-wise graph) ---------- */
+
+  function readHistory() {
+    try { return JSON.parse(localStorage.getItem(LS_HISTORY) || "[]") || []; } catch (e) { return []; }
+  }
+
+  function recordAttempt(scope, pct) {
+    if (!scope || !Number.isFinite(pct)) return;
+    const list = readHistory();
+    list.push({ scope: scope, pct: Math.round(pct), ts: Date.now() });
+    while (list.length > HISTORY_MAX) list.shift();
+    try { localStorage.setItem(LS_HISTORY, JSON.stringify(list)); } catch (e) { /* ignore */ }
+  }
+
+  function bestByScope() {
+    const out = {};
+    readHistory().forEach((h) => {
+      if (!h || !h.scope) return;
+      if (!(h.scope in out) || h.pct > out[h.scope]) out[h.scope] = h.pct;
+    });
+    return out;
+  }
+
+  /* ---------- Firestore REST calls ---------- */
+
+  function toValue(v) {
+    if (typeof v === "number") return { integerValue: String(Math.round(v)) };
+    return { stringValue: String(v) };
+  }
+
+  function fromValue(v) {
+    if (!v) return undefined;
+    if ("integerValue" in v) return parseInt(v.integerValue, 10);
+    if ("doubleValue" in v) return Number(v.doubleValue);
+    if ("stringValue" in v) return v.stringValue;
+    return undefined;
+  }
+
+  async function commit(writes) {
+    const res = await fetch(apiBase() + ":commit" + key(), {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ writes: writes }),
+    });
+    const body = await res.json().catch(() => null);
+    return { ok: res.ok, status: res.status, body: body };
+  }
+
+  /* Reserve a name. Create fails if the document already exists, which
+     is exactly the uniqueness check we want; the second call then looks
+     at who holds it. */
+  async function reserveName(name) {
+    /* Normalise here, not only in the caller: otherwise "Rahul  Das" and
+       "Rahul Das" would reserve two different document IDs and the same
+       display name could appear twice. */
+    const lower = normalizeName(name).toLowerCase();
+    const dev = deviceId();
+
+    /* Already mine? */
+    const own = await fetch(apiBase() + "/lb_names/" + encodeURIComponent(lower) + key(), { cache: "no-store" });
+    if (own.ok) {
+      const doc = await own.json().catch(() => null);
+      const holder = doc && doc.fields && doc.fields.deviceId && doc.fields.deviceId.stringValue;
+      if (holder === dev) return { ok: true };
+      if (holder) return { ok: false, code: "taken" };
+    }
+
+    const w = {
+      update: {
+        name: docRoot() + "/lb_names/" + lower,
+        fields: { deviceId: toValue(dev) },
+      },
+      currentDocument: { exists: false },
+      updateTransforms: [{ fieldPath: "createdAt", setToServerValue: "REQUEST_TIME" }],
+    };
+    const r = await commit([w]);
+    if (r.ok) return { ok: true };
+    if (r.status === 409 || r.status === 400 || r.status === 403) {
+      /* Lost the race, or the doc appeared meanwhile. */
+      const again = await fetch(apiBase() + "/lb_names/" + encodeURIComponent(lower) + key(), { cache: "no-store" });
+      if (again.ok) {
+        const doc = await again.json().catch(() => null);
+        const holder = doc && doc.fields && doc.fields.deviceId && doc.fields.deviceId.stringValue;
+        if (holder === dev) return { ok: true };
+      }
+      return { ok: false, code: "taken" };
+    }
+    return { ok: false, code: "error" };
+  }
+
+  async function readOwnScore(scope) {
+    const id = deviceId() + "__" + scopeKey(scope);
+    const res = await fetch(apiBase() + "/lb_scores/" + encodeURIComponent(id) + key(), { cache: "no-store" });
+    if (!res.ok) return null;
+    const doc = await res.json().catch(() => null);
+    if (!doc || !doc.fields) return null;
+    return {
+      bestPct: fromValue(doc.fields.bestPct),
+      attempts: fromValue(doc.fields.attempts),
+      name: doc.fields.name && doc.fields.name.stringValue,
+    };
+  }
+
+  /* Save a result: keep the best percentage, bump the attempt count. */
+  async function submitScore(scope, pct, name) {
+    if (!enabled()) return { ok: false, code: "disabled" };
+    if (rateLeft() <= 0) return { ok: false, code: "rate" };
+
+    const dev = deviceId();
+    const id = dev + "__" + scopeKey(scope);
+    const prev = await readOwnScore(scope);
+    const best = Math.max(pct, prev && Number.isFinite(prev.bestPct) ? prev.bestPct : 0);
+    const attempts = (prev && prev.attempts ? prev.attempts : 0) + 1;
+
+    const fields = {
+      name: toValue(normalizeName(name)),
+      deviceId: toValue(dev),
+      scope: toValue(scope),
+      bestPct: toValue(best),
+      attempts: toValue(attempts),
+    };
+    const w = {
+      update: { name: docRoot() + "/lb_scores/" + id, fields: fields },
+      updateTransforms: [{ fieldPath: "updatedAt", setToServerValue: "REQUEST_TIME" }],
+    };
+    const r = await commit([w]);
+    if (!r.ok) return { ok: false, code: "error" };
+    rateBump();
+    return { ok: true, bestPct: best, attempts: attempts };
+  }
+
+  /* Top entries for one scope, best first. */
+  async function fetchTop(scope, limit) {
+    const q = {
+      structuredQuery: {
+        from: [{ collectionId: "lb_scores" }],
+        where: {
+          fieldFilter: {
+            field: { fieldPath: "scope" },
+            op: "EQUAL",
+            value: toValue(scope),
+          },
+        },
+        orderBy: [{ field: { fieldPath: "bestPct" }, direction: "DESCENDING" }],
+        limit: limit || 100,
+      },
+    };
+    const res = await fetch(apiBase() + ":runQuery" + key(), {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(q),
+    });
+    if (!res.ok) return { ok: false, status: res.status };
+    const rows = await res.json().catch(() => []);
+    const out = [];
+    (Array.isArray(rows) ? rows : []).forEach((row) => {
+      if (!row || !row.document) return;
+      const f = row.document.fields || {};
+      const id = row.document.name.split("/documents/").pop();
+      out.push({
+        id: id,
+        name: f.name ? f.name.stringValue : "",
+        bestPct: fromValue(f.bestPct),
+        attempts: fromValue(f.attempts),
+        deviceId: f.deviceId ? f.deviceId.stringValue : "",
+      });
+    });
+    return { ok: true, rows: out };
+  }
+
+  /* Total number of entries in one scope. A count aggregation is billed as
+     a single document read, however many entries exist, so this keeps the
+     free daily read quota intact as the board grows. */
+  async function countScope(scope) {
+    const body = {
+      structuredAggregationQuery: {
+        structuredQuery: {
+          from: [{ collectionId: "lb_scores" }],
+          where: {
+            fieldFilter: {
+              field: { fieldPath: "scope" },
+              op: "EQUAL",
+              value: toValue(scope),
+            },
+          },
+        },
+        aggregations: [{ alias: "c", count: {} }],
+      },
+    };
+    const res = await fetch(apiBase() + ":runAggregationQuery" + key(), {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+    if (!res.ok) return null;
+    const rows = await res.json().catch(() => null);
+    const first = Array.isArray(rows) ? rows[0] : rows;
+    const v = first && first.result && first.result.aggregateFields && first.result.aggregateFields.c;
+    return v ? fromValue(v) : null;
+  }
+
+  /* Rank of this device inside one scope. Entries come back ordered
+     best-first; the board is read in pages of RANK_PAGE until the device
+     is found or the board ends, so a small board costs one page and a
+     large one never downloads the whole collection. */
+  const RANK_PAGE = 300;
+  const RANK_MAX = 1200;
+
+  async function fetchMyRank(scope, limit) {
+    const dev = deviceId();
+    const cap = Math.min(limit || RANK_MAX, RANK_MAX);
+    let offset = 0;
+    let total = null;
+
+    while (offset < cap) {
+      const page = await fetchTopPage(scope, Math.min(RANK_PAGE, cap - offset), offset);
+      if (!page.ok) return page;
+      if (total === null) total = page.rows.length < RANK_PAGE ? offset + page.rows.length : null;
+      const idx = page.rows.findIndex((row) => row.deviceId === dev);
+      if (idx >= 0) {
+        const rank = offset + idx + 1;
+        if (total === null) total = await countScope(scope);
+        return { ok: true, rank: rank, total: total, mine: page.rows[idx] };
+      }
+      if (page.rows.length < RANK_PAGE) {
+        if (total === null) total = offset + page.rows.length;
+        return { ok: true, rank: 0, total: total, mine: null };
+      }
+      offset += RANK_PAGE;
+    }
+
+    return { ok: true, rank: 0, total: total, mine: null };
+  }
+
+  async function fetchTopPage(scope, limit, offset) {
+    const q = {
+      structuredQuery: {
+        from: [{ collectionId: "lb_scores" }],
+        where: {
+          fieldFilter: {
+            field: { fieldPath: "scope" },
+            op: "EQUAL",
+            value: toValue(scope),
+          },
+        },
+        orderBy: [{ field: { fieldPath: "bestPct" }, direction: "DESCENDING" }],
+        limit: limit,
+      },
+    };
+    if (offset) q.structuredQuery.offset = offset;
+    const res = await fetch(apiBase() + ":runQuery" + key(), {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(q),
+    });
+    if (!res.ok) return { ok: false, status: res.status };
+    const rows = await res.json().catch(() => []);
+    const out = [];
+    (Array.isArray(rows) ? rows : []).forEach((row) => {
+      if (!row || !row.document) return;
+      const f = row.document.fields || {};
+      out.push({
+        id: row.document.name.split("/documents/").pop(),
+        name: f.name ? f.name.stringValue : "",
+        bestPct: fromValue(f.bestPct),
+        attempts: fromValue(f.attempts),
+        deviceId: f.deviceId ? f.deviceId.stringValue : "",
+      });
+    });
+    return { ok: true, rows: out };
+  }
+
+  window.AXOLeaderboard = {
+    enabled: enabled,
+    deviceId: deviceId,
+    storedName: storedName,
+    storeName: storeName,
+    normalizeName: normalizeName,
+    validateName: validateName,
+    rateLeft: rateLeft,
+    DAILY_LIMIT: DAILY_LIMIT,
+    resolveScope: resolveScope,
+    scopeKey: scopeKey,
+    subName: subName,
+    SUBJECTS: SUBJECTS,
+    SUBS: SUBS,
+    recordAttempt: recordAttempt,
+    readHistory: readHistory,
+    bestByScope: bestByScope,
+    reserveName: reserveName,
+    readOwnScore: readOwnScore,
+    submitScore: submitScore,
+    fetchTop: fetchTop,
+    fetchTopPage: fetchTopPage,
+    countScope: countScope,
+    fetchMyRank: fetchMyRank,
+  };
+})();
