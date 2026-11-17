@@ -349,63 +349,74 @@ ke phone par **kabhi nahi pahunchega**. Leaderboard ke liye sabka score ek
 | Nickname | **Har user ka alag** — ek nickname sirf ek user ka |
 | Leaderboard | **Topic-wise alag-alag** — taaki pata chale kis topic mein kaun aage hai |
 
-### Leaderboard ke scopes (topic-wise)
+### Leaderboard ke scopes — FINAL (26 sub-categories)
 
-Site par do tarah ke "topic" hain, dono ka apna leaderboard hoga:
+Owner ne **Option 1** chuna: **sub-category level**, 32 nahi — **26**.
 
-**A. Exam-wise** (14 exams) — `exam-wise-mock-test/` se:
+**Kyun 26 aur 32 nahi:** `articles` ke 6 sub-categories (gk, math, science,
+english, reasoning, computer) **practice sets nahi hain** — wo study pages
+hain. `mock-test/` mein `articles` ka koi folder nahi hai. Isliye unka
+leaderboard nahi banega. **Sirf wahi sub-category jahan mock/practice set hai.**
 
-| Exam id | Naam |
-|---|---|
-| `adre-grade-3` | ADRE Grade III |
-| `adre-grade-4` | ADRE Grade IV |
-| `assam-police` | Assam Police |
-| `assam-police-si` | Assam Police SI |
-| `dhs-dme` | DHS / DME |
-| `dhs-dme-technical` | DHS / DME Technical |
-| `dhs-dme-grade-4` | DHS / DME Grade IV |
-| `guwahati-hc` | Gauhati High Court |
-| `apsc` | APSC |
-| `assam-tet` | Assam TET |
-| `ssc` | SSC |
-| `railway` | Railway |
+| # | Subject | Sub-category id | Naam (en) | Naam (as) | Qs |
+|---|---|---|---|---|---|
+| 1 | GK | `gk/assam-history` | Assam History | অসমৰ ইতিহাস | 2,775 |
+| 2 | GK | `gk/indian-history` | Indian History | ভাৰতীয় ইতিহাস | 2,531 |
+| 3 | GK | `gk/geography` | Geography | ভূগোল | 1,716 |
+| 4 | GK | `gk/economics` | Economics | অৰ্থনীতি | 1,190 |
+| 5 | GK | `gk/art-culture` | Art & Culture | কলা আৰু সংস্কৃতি | 784 |
+| 6 | GK | `gk/assam-literature` | Assam Literature | অসমীয়া সাহিত্য | 454 |
+| 7 | GK | `gk/polity` | Political Science | ৰাজনীতি বিজ্ঞান | 450 |
+| 8 | Maths | `math/arithmetic` | Arithmetic | পাটিগণিত | 766 |
+| 9 | Maths | `math/advanced-math` | Advanced Math | উচ্চ গণিত | 477 |
+| 10 | Maths | `math/statistics-and-data-interpretation` | Statistics & DI | পৰিসংখ্যা আৰু তথ্য বিশ্লেষণ | 106 |
+| 11 | Science | `science/biology` | Biology | জীৱ বিজ্ঞান | 2,405 |
+| 12 | Science | `science/physics` | Physics | পদাৰ্থ বিজ্ঞান | 2,000 |
+| 13 | Science | `science/chemistry` | Chemistry | ৰসায়ন বিজ্ঞান | 1,750 |
+| 14 | Reasoning | `reasoning/verbal-reasoning` | Verbal Reasoning | মৌখিক যুক্তি | 583 |
+| 15 | Reasoning | `reasoning/analytical-critical-reasoning` | Analytical & Critical | বিশ্লেষণাত্মক যুক্তি | 524 |
+| 16 | Reasoning | `reasoning/non-verbal-reasoning` | Non-Verbal Reasoning | অবাচ্য যুক্তি | 374 |
+| 17 | English | `english/vocabulary` | Vocabulary | শব্দভাণ্ডাৰ | 769 |
+| 18 | English | `english/grammar` | Grammar | ব্যাকৰণ | 321 |
+| 19 | English | `english/parts-of-speech` | Parts of Speech | পদ | 211 |
+| 20 | English | `english/sentence-structure` | Sentence Structure | বাক্য গঠন | 124 |
+| 21 | Computer | `computer/ms-office-suite` | MS Office Suite | MS Office ছুট | 99 |
+| 22 | Computer | `computer/networking-internet` | Networking & Internet | নেটৱৰ্কিং | 92 |
+| 23 | Computer | `computer/cyber-security` | Cyber Security | চাইবাৰ নিৰাপত্তা | 75 |
+| 24 | Computer | `computer/software-os` | Software & OS | চফ্টৱেৰ আৰু OS | 70 |
+| 25 | Computer | `computer/fundamentals-hardware` | Fundamentals & Hardware | মৌলিক ধাৰণা | 69 |
+| 26 | Computer | `computer/dbms-number-shortcuts` | DBMS & Shortcuts | DBMS | 68 |
 
-**B. Subject-wise** (7 subjects) — `category/` se:
+**Total: 26 leaderboards** — har ek mein 68 se 2,775 sawaal tak, isliye
+har leaderboard mein **kaafi log** honge (khaali nahi lagega).
 
-| Subject id | Naam |
-|---|---|
-| `gk` | General Knowledge |
-| `math` | Mathematics |
-| `science` | General Science |
-| `reasoning` | Reasoning Ability |
-| `english` | General English |
-| `computer` | Computer Awareness |
+**Exam-wise leaderboard:** abhi **nahi** (owner ne sirf sub-category chuna).
+Baad mein add kiya ja sakta hai — data model wahi rahega, bas scope badlega.
 
-**Data model (ek document per user per scope):**
+**Data model (ek document per device per sub-category):**
 
 ```
 lb_scores/{deviceId}__{scope}   →   {
-    name:     "Rahul",        // nickname, unique
-    deviceId: "d_ab12…",      // anonymous
-    scope:    "exam:adre-grade-3",   // ya "subject:math"
-    bestPct:  85,             // best % in this scope
-    attempts: 12,
+    name:      "Rahul_99",        // unique nickname
+    deviceId:  "d_ab12…",         // anonymous, koi login nahi
+    scope:     "gk/assam-history",// sub-category id (jaise mock-test path)
+    bestPct:   85,                // us sub-category ka best %
+    attempts:  12,
     updatedAt: <server time>
 }
 ```
 
-Ek user ka har topic mein alag document hoga — isliye "Maths mein Rahul #1,
-GK mein Priya #2" dikh sakta hai.
+`scope` field **wahi id** hai jo site already use karti hai
+(`mock-test/gk/assam-history`), isliye koi naya mapping nahi banana padega.
 
 ### Screen ka design
 
-**Top 5 + apna rank (jaise owner ne chaha):**
+**Subject → Sub-category chuno, phir leaderboard (jaise owner ne chaha):**
 
 ```
         ┌───────────────────────────────────────┐
-        │  🏆  Leaderboard — Mathematics         │
-        │      [ Exams ▾ ]  [ Subjects ▾ ]       │
-        │      Selected: Mathematics             │
+        │  🏆  Leaderboard                       │
+        │      [ GK ▾ ]  →  [ Assam History ▾ ]  │
         │                                       │
         │  1.  Rahul_99         ⭐ 92%           │
         │  2.  Priya_B          ⭐ 88%           │
@@ -420,18 +431,20 @@ GK mein Priya #2" dikh sakta hai.
         └───────────────────────────────────────┘
 ```
 
-**Graph (owner ne topic-wise maanga):**
+Dono dropdown **bilingual** honge (en + as), jaise baaki site hai.
+
+**Graph (topic-wise accuracy — 26 sub-categories):**
 
 ```
-   Topic-wise aapki accuracy
+   Aapki accuracy — sub-category wise
    ┌──────────────────────────────────────────┐
-   │ GK        ████████████████░░  82%        │
-   │ Maths     ███████████░░░░░░░  58%        │
-   │ Reasoning ██████████████░░░░  74%        │
-   │ English   █████████████████░  88%        │
-   │ Science   █████████████░░░░░  66%        │
+   │ Assam History  ████████████████░░  82%   │
+   │ Indian History ██████████████░░░░  74%   │
+   │ Arithmetic     ███████████░░░░░░░  58% ← │
+   │ Biology        █████████████████░  88%   │
+   │ Grammar        █████████████░░░░░  66%   │
    └──────────────────────────────────────────┘
-   Sabse kamzor: Maths (58%) — yahan practice karo
+   Sabse kamzor: Arithmetic (58%) — yahan practice karo
 ```
 
 ### Nickname unique kaise hoga
