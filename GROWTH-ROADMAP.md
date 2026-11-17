@@ -486,6 +486,121 @@ jaata. Leaderboard naam add karne par **privacy policy update karna zaroori
 hai** — likhna padega: kaunsa data liya, kyun, kitne din rakha, kaise delete
 karwayein. DPDP Act 2023 ke hisaab se.
 
+### Rate limit — owner ka decision
+
+**Owner ne kaha: 20 submissions per din per user.**
+
+⚠️ **Zaroori farq — ye limit sirf LEADERBOARD submission par hai, mock test
+par NAHI:**
+
+| Cheez | Limit |
+|---|---|
+| Mock test dena | **UNLIMITED** (site ka wada hai: "free and unlimited") |
+| Practice set attempt karna | **UNLIMITED** |
+| **Leaderboard par score bhejna** | **20 per din per device** |
+
+Ye farq rakhna **bahut zaroori** hai. Site 20+ jagah likhti hai:
+*"All sets are free and unlimited — you can reattempt any set as many times as
+you like."* Agar hum mock test par limit laga denge to ye wada toot jayega aur
+users chale jayenge.
+
+Isliye: **mock test unlimited rahega**, sirf **leaderboard post** 20/din se
+limited hoga. User 50 mock test de sakta hai — par din mein 20 baar leaderboard
+par naam nahi bhej sakta.
+
+### 📊 Kya Firebase free mein kaam karega? — Hisaab se jawab
+
+Haan, **shuruat ke liye kaafi hai.** Par limit ka pata hona chahiye.
+
+**Firebase Firestore Spark (free) plan ki limit:**
+
+| Cheez | Free limit |
+|---|---|
+| Document **writes** | **20,000 / din** |
+| Document **reads** | **50,000 / din** |
+| Document deletes | 20,000 / din |
+| Storage | 1 GiB |
+| Network | 10 GiB / mahina |
+| Credit card chahiye? | **Nahi** (Spark plan bina card ke) |
+
+**Writes ka hisaab (ye sabse tight limit hai):**
+
+```
+20,000 writes/din ÷ 20 submissions = 1,000 users/din (max rate par)
+```
+
+Par asli users 20 submission/din nahi karte. Maan lo average 3/din:
+```
+20,000 ÷ 3 ≈ 6,600 active users/din
+```
+
+**Reads ka hisaab:**
+```
+Leaderboard dekhne par ≈ 11 reads (top 5 + apna rank + topic ranks)
+50,000 ÷ 11 ≈ 4,500 leaderboard views/din
+```
+
+**Matlab:** free plan **~4,000-6,000 active users/din** tak sambhal lega.
+Shuruat ke liye ye kaafi hai. 2 saal mein 10x badhne par dhyan dena.
+
+### 💡 Writes 10-20x kam karne ka tarika (ye zaroor karo)
+
+Har submission par database write karna zaroori **nahi** hai. Do smart tarike:
+
+**Tarika 1 — Sirf best score likho**
+```
+Agar naya score purane best se kam hai → database write NAHI
+Agar zyada hai → tab hi write
+```
+Isse 20 writes/din ki jagah ~2-3 writes/din. **~7x zyada users free mein.**
+
+**Tarika 2 — Din mein ek baar summary likho**
+Har submission par nahi, din ke end mein ek document:
+```
+{ userId, date, bestScore, avgScore, attempts, topicScores }
+```
+**1 write/din per user → 20x zyada users free mein.**
+
+**Reads kam karne ke liye:** leaderboard ko `localStorage` mein 5-10 minute
+cache karo. Har page view par fresh read nahi hoga.
+
+In dono ke saath, free plan **50,000+ active users/din** tak chal sakta hai.
+
+### 💰 Agar free limit cross ho jaye to?
+
+Do baat:
+
+1. **Spark (free) plan par kuch tootega nahi** — bas us din ka data ruk
+   jayega. Paisa apne aap nahi katega (card hi nahi hai).
+2. **Blaze (pay-as-you-go)** par upgrade kar sakte ho — usme bhi free
+   allowance hai, aur uske baad **bahut sasta** hai:
+   - ~$0.06 per 1 lakh reads
+   - ~$0.18 per 1 lakh writes
+   - Matlab 10x traffic = mahine ke **kuch dollar**
+   - Blaze par **budget alert** lag sakta hai (jaise ₹100/mahina), limit par
+     notification aa jayega
+
+**Owner ki condition "koi paisa nahi bharna" ke hisaab se:**
+Spark plan se shuru karo (card bhi nahi chahiye). Jab limit aane lage, tab
+sochna. Tab tak site already chal rahi hogi.
+
+### 🆚 Alternative — Supabase (agar writes ki chinta ho)
+
+Agar writes ki limit tight lage, to **Supabase** better hai:
+
+| Cheez | Firebase Spark | Supabase Free |
+|---|---|---|
+| Writes | 20,000/din | **Unlimited API requests** |
+| Database | 1 GiB | 500 MB |
+| Bandwidth | 10 GiB/mahina | 5 GB/mahina |
+| Setup | Aasan (~15 min) | Thoda technical (SQL) |
+
+Supabase read/write par limit nahi lagata, sirf storage/bandwidth par. Isliye
+agar bahut submissions honge to Supabase zyada dega.
+
+**Mera suggestion:** Firebase se shuru karo (aasan hai). Agar limit aane lage,
+Supabase par shift kar sakte hain — code ka dhaancha wahi rahega.
+
 ### Rasta B shuru karne se pehle owner se ye poochna hai
 
 - Naam asli dikhana hai ya nickname? (recommend: nickname)
