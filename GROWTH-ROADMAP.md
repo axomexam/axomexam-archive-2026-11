@@ -602,6 +602,73 @@ agar bahut submissions honge to Supabase zyada dega.
 **Mera suggestion:** Firebase se shuru karo (aasan hai). Agar limit aane lage,
 Supabase par shift kar sakte hain — code ka dhaancha wahi rahega.
 
+### Apna rank kaise dikhega (owner ka sawaal)
+
+Owner ne poocha: *"top 5 hi dikhe, par submission ke baad mujhe apna rank bhi
+dikhe — logon ke muqable main kitne number par hoon?"*
+
+**Jawab: Haan, dikhega. Yahi leaderboard ka sabse zaroori hissa hai.**
+
+Design aisa hoga — top 5 upar, apna rank alag neeche:
+
+```
+        ┌───────────────────────────────────────┐
+        │  🏆  Leaderboard                       │
+        │                                       │
+        │  1.  Rahul Das        ⭐ 92%           │
+        │  2.  Priya Bora       ⭐ 88%           │
+        │  3.  Mukesh Khatm     ⭐ 85%           │
+        │  4.  Anjali Saikia    ⭐ 81%           │
+        │  5.  Bikash Nath      ⭐ 79%           │
+        │                                       │
+        │  ─────────────────────────────────    │
+        │  📍 Aapka rank: #47  (320 mein se)     │
+        │     Mukesh — 72%                      │
+        │  ─────────────────────────────────    │
+        └───────────────────────────────────────┘
+```
+
+- Top 5 **upar** dikhte hain (jaise owner ne kaha)
+- **"Aapka rank: #47 (320 mein se)"** — ye har user ko apna number dikhata hai
+- User ko pata chalta hai: kitne log usse aage hain, aur kitne peeche
+
+Ye **exactly wahi** hai jo Google Play, Duolingo, aur har game karta hai — top
+list upar, aur "your rank" alag line par. Isse user ko competition ka ehsaas
+hota hai, chahe wo top 5 mein na ho.
+
+### Rank kaise niklega (technical)
+
+Do tarike, dono kaam karte hain:
+
+**Tarika A — Count query (recommended, sasta)**
+```
+"Kitne users ka score mere se zyada hai?" → ginti + 1 = mera rank
+```
+Firestore mein `count()` query iske liye hai. Ye **1 read per 1,000 users**
+leta hai — matlab 10,000 users ki ginti = sirf **10 reads**. Bahut sasta.
+
+**Tarika B — Sab load karke client par ginti**
+Poori list download karke browser mein ginti. Aasan, par 10,000 users par
+**10,000 reads** = mehnga. Chhote scale (500 users tak) par theek.
+
+**Recommendation:** Tarika A. Rank hamesha sahi rahega aur cost bahut kam.
+
+### Ek zaroori baat — rank tabhi milega jab user join kare
+
+| User ne kya kiya | Rank dikhega? |
+|---|---|
+| Popup mein naam diya | ✅ Haan — leaderboard mein hai |
+| Popup close / Skip kiya | ❌ Nahi — wo list mein hi nahi hai |
+
+Agar user skip karta hai to uska score kisi ko nahi bheja jaata, to usko
+compare karne ka data hi nahi hota. **Isko theek rakhne ka tarika:**
+
+- Skip karne par bhi popup ke neeche chhota line dikhao:
+  *"Skip karne par aapka rank nahi dikhega. Naam dena chahenge?"*
+- Ya baad mein "Join leaderboard" ka button do, taaki wo baad mein join kar sake
+
+Isse user ko pata rahega ki rank chahiye to naam dena padega.
+
 ### Rasta B shuru karne se pehle owner se ye poochna hai
 
 - Naam asli dikhana hai ya nickname? (recommend: nickname)
