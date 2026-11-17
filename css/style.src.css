@@ -3302,11 +3302,16 @@ a.axo-email:hover { color: #1e3a8a; background: #dbeafe; text-decoration: none; 
 
 
 /* Subject tabs and the per-sub-category board grid. */
-.lb-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+/* Three equal tabs per row: a fixed grid keeps every button the same
+   width and height, however long the subject name is. */
+.lb-tabs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; margin-bottom: 18px; }
 .lb-tab {
-  padding: 9px 16px; border-radius: 999px; border: 1.5px solid var(--line, #e2e8f0);
+  display: flex; align-items: center; justify-content: center; text-align: center;
+  min-height: 46px; padding: 9px 10px; border-radius: 999px;
+  border: 1.5px solid var(--line, #e2e8f0);
   background: #fff; font-family: inherit; font-size: .9rem; font-weight: 700;
-  color: var(--ink-soft, #64748b); cursor: pointer; transition: all .16s ease;
+  line-height: 1.25; color: var(--ink-soft, #64748b); cursor: pointer;
+  transition: all .16s ease;
 }
 .lb-tab:hover { border-color: var(--primary, #2563eb); color: var(--primary, #2563eb); }
 .lb-tab.active { background: var(--primary, #2563eb); border-color: var(--primary, #2563eb); color: #fff; }
@@ -3316,6 +3321,11 @@ a.axo-email:hover { color: #1e3a8a; background: #dbeafe; text-decoration: none; 
 .lb-subcard {
   background: var(--bg, #fff); border: 1px solid var(--line, #e2e8f0);
   border-radius: 18px; padding: 16px; box-shadow: 0 8px 24px -14px rgba(15, 23, 42, .18);
+}
+/* The card the scorecard shortcut pointed at, so it reads as "yours". */
+.lb-subcard-target {
+  border-color: var(--primary, #2563eb);
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, .16), 0 8px 24px -14px rgba(15, 23, 42, .18);
 }
 .lb-subcard-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; margin-bottom: 10px; }
 .lb-subcard-head h2 { font-size: .98rem; margin: 0; }
@@ -3381,4 +3391,15 @@ a.axo-email:hover { color: #1e3a8a; background: #dbeafe; text-decoration: none; 
 
 @media (max-width: 820px) {
   .lb-bar-row { grid-template-columns: minmax(96px, 38%) 1fr 44px; }
+  /* Three columns still, but smaller text so the longest label
+     ("Computer Awareness") fits without breaking mid-word. */
+  .lb-tab { font-size: .8rem; padding: 8px 8px; min-height: 44px; }
+}
+@media (max-width: 400px) {
+  .lb-tab { font-size: .72rem; padding: 8px 6px; }
+}
+/* A 320px phone leaves ~272px inside the page gutter, i.e. ~85px a tab.
+   "Mathematics" is the longest single word, so the text steps down once more. */
+@media (max-width: 360px) {
+  .lb-tab { font-size: .64rem; padding: 7px 4px; }
 }

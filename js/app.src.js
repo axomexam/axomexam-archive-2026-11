@@ -8741,6 +8741,24 @@
     return `${String(Math.floor(s / 60)).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
   }
 
+  /* Where the scorecard's leaderboard shortcut points: the visitor's own
+     subject tab, and the exact sub-category card, when the leaderboard
+     knows that pair. Falls back to the plain page otherwise. */
+  function leaderboardShortcutHref(m) {
+    const base = isAssamesePath() ? "/as/leaderboard/" : "/leaderboard/";
+    try {
+      const lb = window.AXOLeaderboard;
+      if (lb && typeof lb.resolveScope === "function") {
+        const scope = lb.resolveScope(m.cat && m.cat.id, m.subId);
+        if (scope) {
+          const parts = scope.split("/");
+          return base + "?subject=" + encodeURIComponent(parts[0]) + "&sub=" + encodeURIComponent(parts[1]);
+        }
+      }
+    } catch (e) { /* fall through */ }
+    return base;
+  }
+
   function renderMockResults() {
     const m = state.mock;
     stopMockTimer();
@@ -8761,6 +8779,7 @@
     const timeTaken = m.elapsedSec;
     const pct = m.pool.length ? Math.round((correct / m.pool.length) * 100) : 0;
     const msgKey = pct >= 80 ? "mock.result.msgExcellent" : pct >= 55 ? "mock.result.msgGood" : pct >= 35 ? "mock.result.msgAverage" : "mock.result.msgPoor";
+    const lbHref = leaderboardShortcutHref(m);
     const R = 52.5, C = 2 * Math.PI * R;
     const offset = C * (1 - pct / 100);
 
@@ -8785,7 +8804,8 @@
             <div class="rstat"><b>${fmtTime(timeTaken)}</b><span>Total Time Taken</span></div>
           </div>
           <div class="result-actions">
-            <button class="btn btn-accent" id="mock-share-btn">${svgShareIcon()} ${t("mock.result.share")}</button>
+            <a class="btn btn-accent" href="${lbHref}">🏆 ${t("mock.result.leaderboard")}</a>
+            <button class="btn btn-outline" id="mock-share-btn">${svgShareIcon()} ${t("mock.result.share")}</button>
             <button class="btn btn-outline" id="mock-retry">${t("mock.result.retry")}</button>
             <a class="btn btn-outline" href="/mock-test">${t("mock.result.changeCat")}</a>
             <button class="btn btn-outline" id="mock-review-toggle">${t("mock.result.review")}</button>
