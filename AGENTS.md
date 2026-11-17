@@ -2501,3 +2501,39 @@ lbtest 27, lbui 37, lblang 8, lbguard 4, lbanon 9, lbflow 15, lbcards 32 =
 **Preview gotcha.** A jsdom/browser check needs a device id matching
 `/^d_[0-9a-f]{8,}$/`, or `deviceId()` silently replaces it and no row ever
 matches.
+
+## Google Analytics audit — Nov 2026
+
+Question asked: "kya main Google Analytics se pura traffic dekh pa raha hoon?"
+Short answer: yes, with two caveats worth knowing.
+
+**What is in place.** GA4 stream `G-PBPXK2Q799`, injected twice over, but never
+doubled: every one of the 2616 pages carries the inline `gtag.js` snippet in
+`<head>`, and `js/config.js` adds the same tag only when a page lacks it
+(`if (document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) return;`).
+`404.html` carries the tag too. A fetch of `/leaderboard/` shows exactly one
+`googletagmanager.com/gtag/js` script tag.
+
+**Caveat 1 — this is a single-page app.** `bindLinkInterception` in
+`js/app.src.js` swallows every internal `<a href="/...">` click and calls
+`navigateTo()`, which is `history.pushState` + re-render. `/topic/` links are
+exempted and do a real page load. GA4's Enhanced Measurement sends a
+`page_view` on `pushState`, `popState` and `replaceState` by default, which is
+what makes the SPA measurable at all. If that option is ever switched off in
+the property's Enhanced Measurement settings, every internal navigation
+disappears from the reports while the landing page view stays — the traffic
+would look like a fraction of reality. Worth confirming in the GA property
+before trusting the numbers.
+
+**Caveat 2 — GA is client-side, so it undercounts.** Ad blockers and
+privacy-focused browsers drop the tag silently, and on a mobile-first Assam
+audience that is not a small share. There are no server-side logs to compare
+against, because GitHub Pages does not expose them. GA is the only view of
+traffic this site has, and it will always read lower than reality.
+
+**Deep-link quirk.** A path with no static file (for example
+`/topic/gk/assam-history`) is served `404.html`, which redirects to
+`/?/<path>`, and the app then `replaceState`s the clean URL back. The first
+page_view therefore lands on `/` with a `?/` query before the cleaned URL is
+recorded, so a deep-linked visit can be attributed to the home page. The
+trailing-slash URLs (`/leaderboard/`) serve 200 directly and are unaffected.
