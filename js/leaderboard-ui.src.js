@@ -250,8 +250,11 @@
   function renderPage(container) {
     const lang = uiLang();
     const subject = page.subject || defaultSubject();
+    /* Remember the subject: the sub-category handler builds the next scope
+       from it, so leaving it null here produced a "null/<sub>" scope. */
+    page.subject = subject;
     const subs = subsOf(subject);
-    const scope = page.scope && subs.some((s) => s.id === scopeId(scope)) ? page.scope
+    const scope = page.scope && subs.some((s) => s.id === scopeId(page.scope)) ? page.scope
       : (subs[0] ? subject + "/" + subs[0].id : null);
 
     container.innerHTML = `

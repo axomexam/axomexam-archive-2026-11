@@ -2413,3 +2413,51 @@ rendered in a real browser: only Skip and Yes are present, with no `✕`, and a
 backdrop click leaves it open. `lboffline3` fails on pristine code as well
 (`setTimeout is not defined` in its own shim), so it is not a regression from
 this change and was left alone.
+
+## Session record — Nov 2026 Leaderboard sub-category switch fix (two bugs)
+
+**Report.** Owner: "Firebase mein data add ho raha hai but site ke leaderboard
+par show nahi hota hai." Diagnosis found the data and the queries were fine;
+the **page** was broken.
+
+**Root cause (two bugs, both in `js/leaderboard-ui.src.js`, both present since
+the first leaderboard commit `35e4dfb5`).**
+
+1. **TDZ self-reference in `renderPage`.** The scope line read
+   `subs.some((s) => s.id === scopeId(scope))` while `scope` was still being
+   initialised by that same statement. Any render that reached the
+   sub-category handler threw `ReferenceError: Cannot access 'a' before
+   initialization` (minified name) and the board never re-rendered.
+2. **`page.subject` was never persisted.** `renderPage` computed
+   `const subject = page.subject || defaultSubject()` but never wrote it back.
+   Only the subject `<select>` handler set `page.subject`, so on a fresh load
+   `page.subject` stayed `null` and the sub-category handler built
+   `null + "/" + e.target.value` → a `"null/art-culture"` scope. That scope
+   matches no document, so the board showed "No scores here yet".
+
+Together these meant: open `/leaderboard`, change **Sub-category** → the page
+crashed, and any score in any sub-category other than the default
+(gk/assam-history) could never be seen. This is exactly what the owner
+reported.
+
+**Fix.** Use `page.scope` in the `scopeId` check, and write the resolved
+subject back to `page.subject` before building `subs`.
+
+**Verification.** New suite `lbswitch` (8 assertions) drives the shipped
+`js/leaderboard-ui.js` in jsdom: initial board renders, changing Sub-category
+does not throw, the new scope is actually queried, the scope label updates,
+and changing Subject resets to that subject's first sub-category. Confirmed
+the **deployed** file still had the bug (reproduced against a fresh download of
+`https://axomexam.in/js/leaderboard-ui.js`) and that the rebuilt file does not.
+Live render against real Firestore now shows the right board and rank per
+scope, e.g. Art & Culture → `Kanai Roy 90%`, Math/Statistics → the
+`Unknown user` placeholder row.
+
+**Also recorded.** `lbspace.mjs` / `lbspace2.mjs` write to the **live**
+Firestore (they reserve real names). Do not run them. Earlier runs left two
+rows (`Rahul Das`, `Sita Devi <n>` under `gk/assam-history`) that the client
+cannot delete because the rules block DELETE; remove them from the Firebase
+Console if the board should be clean.
+
+**Suite totals after this fix:** lbtest 27, lbui 37, lblang 8, lbguard 4,
+lbanon 9, lbflow 15, lbswitch 8 = **108 pass, 0 fail**.
