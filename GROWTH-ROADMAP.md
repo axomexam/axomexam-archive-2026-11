@@ -341,13 +341,130 @@ ke phone par **kabhi nahi pahunchega**. Leaderboard ke liye sabka score ek
 
 ### Rasta B kaisa dikhega
 
-| Cheez | Kaise |
+**Owner ke final decisions (17 Nov 2026):**
+
+| Sawaal | Decision |
 |---|---|
-| Top 5 (overall) | Sabse zyada average% wale 5 log, naam/nickname ke saath |
-| Topic-wise rank | "Maths mein Rahul #1", "GK mein Priya #2" |
-| Graph | Har user ka score-over-time line chart |
-| Apna rank | "Aap #47 ho, top 5 se 12% peeche" |
-| Naya user | Bina naam ke bhi khel sakta hai; leaderboard join **opt-in** |
+| Naam | **Nickname** (asli naam nahi) |
+| Nickname | **Har user ka alag** — ek nickname sirf ek user ka |
+| Leaderboard | **Topic-wise alag-alag** — taaki pata chale kis topic mein kaun aage hai |
+
+### Leaderboard ke scopes (topic-wise)
+
+Site par do tarah ke "topic" hain, dono ka apna leaderboard hoga:
+
+**A. Exam-wise** (14 exams) — `exam-wise-mock-test/` se:
+
+| Exam id | Naam |
+|---|---|
+| `adre-grade-3` | ADRE Grade III |
+| `adre-grade-4` | ADRE Grade IV |
+| `assam-police` | Assam Police |
+| `assam-police-si` | Assam Police SI |
+| `dhs-dme` | DHS / DME |
+| `dhs-dme-technical` | DHS / DME Technical |
+| `dhs-dme-grade-4` | DHS / DME Grade IV |
+| `guwahati-hc` | Gauhati High Court |
+| `apsc` | APSC |
+| `assam-tet` | Assam TET |
+| `ssc` | SSC |
+| `railway` | Railway |
+
+**B. Subject-wise** (7 subjects) — `category/` se:
+
+| Subject id | Naam |
+|---|---|
+| `gk` | General Knowledge |
+| `math` | Mathematics |
+| `science` | General Science |
+| `reasoning` | Reasoning Ability |
+| `english` | General English |
+| `computer` | Computer Awareness |
+
+**Data model (ek document per user per scope):**
+
+```
+lb_scores/{deviceId}__{scope}   →   {
+    name:     "Rahul",        // nickname, unique
+    deviceId: "d_ab12…",      // anonymous
+    scope:    "exam:adre-grade-3",   // ya "subject:math"
+    bestPct:  85,             // best % in this scope
+    attempts: 12,
+    updatedAt: <server time>
+}
+```
+
+Ek user ka har topic mein alag document hoga — isliye "Maths mein Rahul #1,
+GK mein Priya #2" dikh sakta hai.
+
+### Screen ka design
+
+**Top 5 + apna rank (jaise owner ne chaha):**
+
+```
+        ┌───────────────────────────────────────┐
+        │  🏆  Leaderboard — Mathematics         │
+        │      [ Exams ▾ ]  [ Subjects ▾ ]       │
+        │      Selected: Mathematics             │
+        │                                       │
+        │  1.  Rahul_99         ⭐ 92%           │
+        │  2.  Priya_B          ⭐ 88%           │
+        │  3.  Mukesh_K         ⭐ 85%           │
+        │  4.  Anjali_S         ⭐ 81%           │
+        │  5.  Bikash_N         ⭐ 79%           │
+        │                                       │
+        │  ─────────────────────────────────    │
+        │  📍 Aapka rank: #47  (320 mein se)     │
+        │     Mukesh_K — 72%                    │
+        │  ─────────────────────────────────    │
+        └───────────────────────────────────────┘
+```
+
+**Graph (owner ne topic-wise maanga):**
+
+```
+   Topic-wise aapki accuracy
+   ┌──────────────────────────────────────────┐
+   │ GK        ████████████████░░  82%        │
+   │ Maths     ███████████░░░░░░░  58%        │
+   │ Reasoning ██████████████░░░░  74%        │
+   │ English   █████████████████░  88%        │
+   │ Science   █████████████░░░░░  66%        │
+   └──────────────────────────────────────────┘
+   Sabse kamzor: Maths (58%) — yahan practice karo
+```
+
+### Nickname unique kaise hoga
+
+- Nickname **unique** hoga (ek jaisa do user nahi)
+- User ne jo likha, agar wo already le liya gaya hai → **"Ye nickname le liya
+  gaya hai, doosra chuno"** dikhao
+- Chhote-bade akshar ek hi maane jayenge (`Rahul` = `rahul`)
+- Max **20 character**, sirf letters / numbers / `_` / space
+
+### Nickname reserve karna (free, backend par)
+
+Do choti collections:
+
+```
+lb_nicknames/{nickname_lowercase}  →  { deviceId, createdAt }
+```
+
+- Nickname lene se pehle check: is document mein **mera hi deviceId** hai?
+  - Haan → mera hi nickname hai, aage badho
+  - Khaali / kisi aur ka → **"le liya gaya"** dikhao
+- **Atomic** rakhna zaroori hai (do log ek saath same nickname na le lein) —
+  Firestore transaction ya rules se handle hoga
+- Isse ek extra read/write lagta hai — total abhi bhi free limit ke andar
+
+### Anti-abuse (nickname ke saath)
+
+1. **Gaali filter** — abusive words block, warna public page par gaali dikhegi
+2. **Rate limit** — 20 leaderboard posts per din per device (mock test unlimited)
+3. **Duplicate device** — ek device ek nickname; device clear kare to naya
+4. **Fake score** — "practice ranking" hi bolna hai, "official" nahi
+5. **Report/delete** — owner ke paas kisi bhi entry ko hatane ka tarika ho
+   (Firebase console se manual chalega)
 
 ### ⚠️ 4 badi warnings (ye ignore mat karo)
 
@@ -880,23 +997,49 @@ rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
 
-    // Ek document per device (id = anonymous device id)
-    match /lb_scores/{deviceId} {
+    /* Ek document per device per scope (exam ya subject).
+       Document id = deviceId + "__" + scope */
+    match /lb_scores/{docId} {
       allow read: if true;
 
       allow create, update: if
         request.resource.data.keys().hasOnly(
-          ['name', 'score', 'total', 'exam', 'topic', 'ts']
+          ['name','deviceId','scope','bestPct','attempts','updatedAt']
         )
         && request.resource.data.name is string
-        && request.resource.data.name.size() >= 1
+        && request.resource.data.name.size() >= 2
         && request.resource.data.name.size() <= 20
-        && request.resource.data.score is int
-        && request.resource.data.score >= 0
-        && request.resource.data.total is int
-        && request.resource.data.total > 0
-        && request.resource.data.score <= request.resource.data.total
-        && request.resource.data.ts == request.time;
+        && request.resource.data.name.matches('^[A-Za-z0-9_ ]+$')
+        && request.resource.data.deviceId is string
+        && request.resource.data.deviceId.size() >= 8
+        && request.resource.data.scope is string
+        && request.resource.data.bestPct is int
+        && request.resource.data.bestPct >= 0
+        && request.resource.data.bestPct <= 100
+        && request.resource.data.attempts is int
+        && request.resource.data.attempts > 0
+        && request.resource.data.updatedAt == request.time
+        /* device apna hi document likhe: docId ka pehla hissa deviceId ho */
+        && docId.split('__')[0] == request.resource.data.deviceId;
+
+      allow delete: if false;
+    }
+
+    /* Nickname reservation — ek nickname sirf ek device ka.
+       Document id = nickname (lowercase) */
+    match /lb_nicknames/{nick} {
+      allow read: if true;
+
+      /* Sirf khaali document par naya nickname claim ho sakta hai,
+         ya apna hi purana nickname dobara likha ja sake */
+      allow create: if
+        request.resource.data.keys().hasOnly(['deviceId','createdAt'])
+        && request.resource.data.deviceId is string
+        && request.resource.data.deviceId.size() >= 8
+        && request.resource.data.createdAt == request.time;
+
+      allow update: if
+        resource.data.deviceId == request.resource.data.deviceId;
 
       allow delete: if false;
     }
@@ -981,12 +1124,32 @@ nuksan nahi ho sakta.
 - Card ki zaroorat **nahi** — to paisa apne aap **nahi** katega
 - Limit cross ho jaye to bas us din ka data ruk jayega, site chalti rahegi
 
-### Rasta B shuru karne se pehle owner se ye poochna hai
+### Owner ke decisions (final — 17 Nov 2026)
 
-- Naam asli dikhana hai ya nickname? (recommend: nickname)
-- Exam-wise leaderboard ya poore site ka ek?
-- Graph kis cheez ka: score-over-time, ya topic-wise accuracy?
-- Kitne din ka data rakhein (30 din / lifetime)?
+| Sawaal | Decision |
+|---|---|
+| Naam asli ya nickname? | **Nickname** (asli naam nahi) |
+| Nickname unique? | **Haan — har user ka alag** |
+| Leaderboard exam-wise ya ek? | **Topic-wise alag-alag** |
+| Graph kis cheez ka? | **Topic-wise accuracy** |
+| Data kitne din? | **Lifetime** (best score rakha jayega) |
+| Rate limit | **20 leaderboard posts/din** (mock test unlimited) |
+| Backend | **Firebase Firestore, Standard edition, free plan** |
+
+### Ab kaam ka order (agent ke liye)
+
+1. ✅ Step 1-3: Firebase project + Firestore + config — **ho gaya**
+2. ⏳ Step 4: Rules publish — **owner kar raha hai**
+3. Phir agent: popup + nickname + device-id + leaderboard + rank + graph
+
+### Build rules jo yaad rakhni hain
+
+- Source edit karo: `js/app.src.js`, `js/i18n.src.js`, `js/config.src.js`
+- `js/firebase-config.js` **static** rahegi (minify/stamp list mein nahi daalni)
+- Build: `optimize-render-path.js` → `minify-assets.js` → `stamp-assets.js`
+- Push: `tools/safe-push.sh origin main` (force push kabhi nahi)
+- UI change nahi karni; content nahi khona; `/as/` par ads nahi
+- `localStorage` keys: `axomexam-device-id`, `axomexam-nickname`, `axomexam-mock-history`
 
 ---
 
