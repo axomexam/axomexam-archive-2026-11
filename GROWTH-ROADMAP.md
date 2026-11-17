@@ -475,8 +475,9 @@ Public leaderboard par user ka likha text aata hai, to ye 4 cheezein must hain:
 2. **Duplicate naam** — ek hi naam se koi bhi khel sakta hai; isko accept
    karo par "practice ranking" hi bolo, "official" nahi.
 3. **Fake score** — site ka scoring browser mein hota hai, to koi score badha
-   sakta hai. Minimum: daily submission limit (jaise 10/day) aur timestamp.
-   Poora fix chahiye to server par verify karna padega (kaam zyada).
+   sakta hai. Minimum: leaderboard post par 20/din limit (neeche "Rate limit"
+   dekho) aur timestamp. Poora fix chahiye to server par verify karna padega
+   (kaam zyada).
 4. **Rate limit** — ek device se bahut zyada submissions na ho.
 
 ### 📜 Privacy policy update (legal — must)
