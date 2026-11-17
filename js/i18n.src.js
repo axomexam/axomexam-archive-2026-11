@@ -377,7 +377,7 @@ const I18N = {
     "lb.updated": "Updated",
 
     "lb.join.title": "Join the leaderboard?",
-    "lb.join.body": "Your name will be shown on the leaderboard with your best score. Skipping still saves your score, under a placeholder name such as \"Unknown user 4821\".",
+    "lb.join.body": "Your name will be shown on the leaderboard with your best score. If you skip, your name and score are not saved anywhere.",
     "lb.join.yes": "Yes, add me",
     "lb.join.skip": "Skip",
     "lb.name.title": "Enter your name",
@@ -396,6 +396,11 @@ const I18N = {
     "lb.name.rate": "Daily leaderboard limit reached. Your mock test is unaffected.",
     "lb.name.saved": "Saved! You are on the leaderboard.",
     "lb.name.err": "Could not save right now. Please try again.",
+    "lb.profile.title": "Your profile",
+    "lb.profile.body": "Set the name shown on the leaderboard. Scores you already submitted keep their old name; your next mock test uses this one.",
+    "lb.profile.current": "Current name",
+    "lb.profile.save": "Save name",
+    "lb.profile.setName": "Set name",
   },
 
   as: {
@@ -771,7 +776,7 @@ const I18N = {
     "lb.updated": "আপডেট",
 
     "lb.join.title": "লিডাৰবৰ্ডত যোগ দিবনে?",
-    "lb.join.body": "আপোনাৰ নাম শ্ৰেষ্ঠ স্ক'ৰৰ সৈতে লিডাৰবৰ্ডত দেখুওৱা হ'ব। এৰি দিলেও আপোনাৰ স্ক'ৰ ছেভ হয়, \"Unknown user 4821\" দৰে এটা সাময়িক নামেৰে।",
+    "lb.join.body": "আপোনাৰ নাম শ্ৰেষ্ঠ স্ক'ৰৰ সৈতে লিডাৰবৰ্ডত দেখুওৱা হ'ব। এৰি দিলে আপোনাৰ নাম আৰু স্ক'ৰ ক'তো ছেভ নহয়।",
     "lb.join.yes": "হয়, মোক যোগ কৰক",
     "lb.join.skip": "এৰি দিয়ক",
     "lb.name.title": "আপোনাৰ নাম লিখক",
@@ -790,5 +795,10 @@ const I18N = {
     "lb.name.rate": "দৈনিক লিডাৰবৰ্ড সীমা শেষ। আপোনাৰ মক টেষ্টত কোনো প্ৰভাৱ নাই।",
     "lb.name.saved": "ছেভ হ'ল! আপুনি লিডাৰবৰ্ডত আছে।",
     "lb.name.err": "এই মুহূৰ্তত ছেভ কৰিব নোৱাৰি। পুনৰ চেষ্টা কৰক।",
+    "lb.profile.title": "আপোনাৰ প্ৰফাইল",
+    "lb.profile.body": "লিডাৰবৰ্ডত দেখুওৱা নামটো ঠিক কৰক। আগতে জমা দিয়া স্ক'ৰবোৰত পুৰণি নামটোয়ে থাকিব; আপোনাৰ পৰৱৰ্তী মক টেষ্টত এই নামটো ব্যৱহাৰ হ'ব।",
+    "lb.profile.current": "বৰ্তমানৰ নাম",
+    "lb.profile.save": "নাম ছেভ কৰক",
+    "lb.profile.setName": "নাম ঠিক কৰক",
   },
 };

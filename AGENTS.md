@@ -2622,3 +2622,56 @@ lives in the `lbname` suite (76 cases).
 **Known limit.** A dot or other punctuation is still rejected, because the
 security rules' character class excludes it; `B. K. Sharma` cannot be entered.
 That predates this change.
+
+### Leaderboard: skip stores nothing, plus a profile rename icon (17 Nov 2026)
+
+**Three changes the owner asked for.**
+
+1. **Skip means skip.** Choosing Skip in the pre-submit popup, or Cancel in
+   the name step, no longer writes anything: no `lb_scores` row and no
+   `lb_names` reservation. The board shows only visitors who typed a name.
+   The anonymous placeholder path (`anonymousName`, `LS_ANON`, the
+   `Unknown user NNNN` alias and `submitAnonymously`) was deleted from
+   `js/leaderboard.src.js` and `js/leaderboard-ui.src.js`, along with the
+   `axomexam-anon-name` key. A visitor who skips is asked again after the
+   next mock test, because nothing was stored to suppress the popup.
+
+2. **Profile icon.** `renderPage` in `js/leaderboard-ui.src.js` now paints a
+   profile button in the leaderboard page head (`.page-head-row`, top right),
+   labelled with the stored name or "Set name". It opens the same modal as
+   the join flow, so validation is identical and junk is rejected the same
+   way. In `profile` mode the modal reserves the name and stores it locally
+   but deliberately does not touch `lb_scores`: rows already on the board
+   keep the name they were submitted with, and the new name rides along from
+   the next mock test onward. The name-entry modal was extracted into one
+   `nameModal(opts)` shared by both flows instead of being duplicated.
+
+3. **Error text is red.** The rule was `.lb-name-err` (specificity 0,1,0)
+   while `.lb-modal-box p` (0,1,1) also matched the same element and won on
+   weight, repainting the message grey. The selector is now
+   `.lb-modal-box p.lb-name-err`, which out-specifies it. Verified by
+   `getComputedStyle` against the shipped stylesheet: `rgb(220, 38, 38)`
+   (`#dc2626`), weight 600.
+
+**Static page copy updated too.** `leaderboard/index.html` and
+`as/leaderboard/index.html` carry a hand-written "How the leaderboard works"
+panel that still described the placeholder behaviour. Four paragraphs in each
+language now say that skipping saves nothing and that the profile icon
+renames you for the next test. `grep "Unknown user"` across the repo is
+clean.
+
+**i18n.** Added `lb.profile.title`, `lb.profile.body`, `lb.profile.current`,
+`lb.profile.save`, `lb.profile.setName` and rewrote `lb.join.body` in both
+`en` and `as`. Parity holds at 393 keys per language.
+
+**Tests.** New `/tmp/lbprofile.mjs` (31 cases) drives the real minified
+bundles: skip and cancel write nothing, join writes and stores, the icon is
+present and labelled, profile rename changes the local name without
+rewriting a board row, profile rejects the same junk, and the next mock test
+carries the new name. Updated `/tmp/lbflow.mjs`, `/tmp/lbui.mjs` and
+`/tmp/lblive.mjs` for the new behaviour, and deleted the obsolete
+`/tmp/lbanon.mjs`. Full suite: 298 passing.
+
+**Known limit.** Renaming does not retroactively rewrite board rows. That is
+deliberate and matches what the owner asked for, but it does mean an old
+name can linger on a board until that visitor submits again.

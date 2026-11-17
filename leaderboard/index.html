@@ -69,7 +69,7 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Noto+Serif+Bengali:wght@500;600;700&family=Noto+Sans+Bengali:wght@400;500;600;700&display=swap" /></noscript>
 
   <!-- Fixed Absolute CSS Path -->
-  <link rel="stylesheet" href="/css/style.css?v=bce78509" />
+  <link rel="stylesheet" href="/css/style.css?v=5d65ea3c" />
 
   <!-- GitHub Pages / Netlify Clean URL Single Page App Redirection Handler -->
   <script>
@@ -216,7 +216,7 @@
         <h2 style="margin-top:0; color:var(--ink,#0f172a);">How the axomexam leaderboard works</h2>
         <p>The leaderboard shows the five best scores in each mock-test sub-category, followed by your own rank in that same sub-category. Every subject is ranked separately, so a strong score in Assam History is compared only with other Assam History attempts, not with Arithmetic or Grammar. This keeps the comparison fair: you always see how you stand among candidates practising the same topic.</p>
         <h3 style="color:var(--ink,#0f172a); margin-top:22px;">No account, no login</h3>
-        <p>There is no sign-up and no password. Before your final score is shown, a small popup asks whether you want to appear on the leaderboard. It stays until you choose Skip or Yes, so a stray tap cannot dismiss it. Either way your score still reaches the board: if you skip, or if you have not typed a name yet, your entry appears as a placeholder such as "Unknown user 4821". Typing a name replaces it and stops the popup from asking again. If you do join, you type a name and nothing else. No email address, no phone number and no social profile is collected.</p>
+        <p>There is no sign-up and no password. Before your final score is shown, a small popup asks whether you want to appear on the leaderboard. It stays until you choose Skip or Yes, so a stray tap cannot dismiss it. The leaderboard shows only the people who choose to join: if you skip, your name and your score are not saved on the board and not recorded anywhere. If you join, you type a name and nothing else. No email address, no phone number and no social profile is collected. You can change your name any time from the profile icon at the top of this page; the name you set applies from your next mock test onward.</p>
         <h3 style="color:var(--ink,#0f172a); margin-top:22px;">One name, one place</h3>
         <p>A name belongs to a single person. If the name you type has already been taken, you are asked to choose another, so two candidates never share an entry. Names accept letters in English, Assamese and Devanagari, along with numbers, spaces and the underscore, which means you can write your name the way you normally do.</p>
         <h3 style="color:var(--ink,#0f172a); margin-top:22px;">Your best score is what counts</h3>
@@ -226,9 +226,9 @@
         <h3 style="color:var(--ink,#0f172a); margin-top:22px;">Fair play</h3>
         <p>This is a practice ranking, not an official examination result. Scores are calculated in the browser, so the board is meant to motivate regular practice rather than certify a rank. Abusive names are filtered, entries cannot be deleted by other visitors, and the owner can remove any entry that breaks the rules.</p>
         <h3 style="color:var(--ink,#0f172a); margin-top:22px;">Frequently asked questions</h3>
-        <p><strong>Do I have to join?</strong> No. Skipping never changes your mock test or your score. Your score still appears on the board, but under a placeholder name such as "Unknown user 4821" instead of your own.</p>
-        <p><strong>Can I change my name later?</strong> Yes. Until you type a name of your own, the popup asks again after every mock test, so you can add your name whenever you are ready.</p>
-        <p><strong>Is my name visible to everyone?</strong> Only the name you type is shown, next to your best percentage in that sub-category. If you skip, the board shows a placeholder name instead, and nothing else about you is published.</p>
+        <p><strong>Do I have to join?</strong> No. Skipping never changes your mock test or your result screen. Your score is simply not saved to the leaderboard, and the board shows only those who chose to join.</p>
+        <p><strong>Can I change my name later?</strong> Yes. Tap the profile icon at the top right of this page and set a new name. Scores you already submitted keep the name they were submitted with; the new name appears on the board from your next mock test onward.</p>
+        <p><strong>Is my name visible to everyone?</strong> Only the name you type is shown, next to your best percentage in that sub-category. If you skip, nothing about you appears on the board at all.</p>
         <p><strong>Which subjects have a leaderboard?</strong> General Knowledge, Mathematics, General Science, Reasoning Ability, General English and Computer Awareness, each with its own sub-categories — twenty-six in total.</p>
       </div>
     </section>
@@ -290,12 +290,12 @@
 
   <!-- Fixed Absolute JS Paths -->
   <script src="/js/config.js?v=114ec96d" defer></script>
-  <script src="/js/i18n.js?v=e2b6be37" defer></script>
+  <script src="/js/i18n.js?v=a6e38425" defer></script>
   <script src="/js/api.js?v=7b9cdfee" defer></script>
   <script src="/js/app.js?v=c63d7dbf" defer></script>
   <script src="/js/firebase-config.js" defer></script>
-  <script src="/js/leaderboard.js?v=5eb793a3" defer></script>
-  <script src="/js/leaderboard-ui.js?v=485cfc4c" defer></script>
+  <script src="/js/leaderboard.js?v=156d118d" defer></script>
+  <script src="/js/leaderboard-ui.js?v=0742fddd" defer></script>
   <script data-axo-guard="1">(function(){var s=document.querySelector('section[data-axo-extra="1"]');if(!s)return;var want=s.getAttribute('data-axo-path')||"/";function n(p){if(!p)return "/";if(p.length>1&&p.charAt(p.length-1)!=="/")p+="/";return p;}function u(){s.style.display=(n(location.pathname)===n(want))?"":"none";}window.addEventListener("popstate",u);var a=document.getElementById("app");if(a&&window.MutationObserver){new MutationObserver(u).observe(a,{childList:true});}u();})();</script>
 </body>
 </html>

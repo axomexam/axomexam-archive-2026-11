@@ -3296,9 +3296,27 @@ a.axo-email:hover { color: #1e3a8a; background: #dbeafe; text-decoration: none; 
   font-size: 1rem; font-family: inherit; text-align: center;
 }
 .lb-name-input:focus { outline: none; border-color: var(--primary, #2563eb); box-shadow: 0 0 0 3px rgba(37, 99, 235, .12); }
-.lb-name-err { color: #dc2626; font-size: .82rem; min-height: 1.1em; margin: 0 0 12px; }
+/* Must out-specify `.lb-modal-box p`, which would otherwise repaint this
+   grey: the two rules have the same weight, so source order would decide. */
+.lb-modal-box p.lb-name-err { color: #dc2626; font-size: .82rem; min-height: 1.1em; margin: 0 0 12px; font-weight: 600; }
+.lb-modal-box p.lb-profile-current { color: var(--ink, #0f172a); font-size: .85rem; margin: 0 0 12px; }
+.lb-profile-current b { color: var(--primary, #2563eb); }
 
 .lb-wrap { max-width: 1080px; margin: 0 auto; padding: 0 4px 48px; }
+
+/* Leaderboard page head: title on the left, profile button pinned right. */
+.page-head-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.lb-profile-btn {
+  display: inline-flex; align-items: center; gap: 7px; flex-shrink: 0;
+  padding: 7px 14px 7px 11px; border-radius: 999px;
+  border: 1.5px solid var(--line, #e2e8f0); background: var(--bg-tint, #eef2ff);
+  color: var(--primary, #2563eb); font: inherit; font-size: .84rem; font-weight: 700;
+  cursor: pointer; max-width: 100%; transition: background .15s, border-color .15s;
+}
+.lb-profile-btn:hover { background: var(--primary, #2563eb); border-color: var(--primary, #2563eb); color: #fff; }
+.lb-profile-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 15ch; }
+[data-theme="dark"] .lb-profile-btn { background: #111827; color: #93c5fd; }
+[data-theme="dark"] .lb-profile-btn:hover { background: var(--primary, #2563eb); color: #fff; }
 
 
 /* Subject tabs and the per-sub-category board grid. */

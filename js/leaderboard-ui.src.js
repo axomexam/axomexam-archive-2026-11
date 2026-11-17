@@ -84,24 +84,9 @@
       return;
     }
 
-    /* No name of their own yet, so ask again after every mock test until
-       they type one. Skipping still puts the score on the board, under a
-       placeholder identity, and leaves `storedName()` empty. */
+    /* No name of their own yet, so ask. Skipping writes nothing at all:
+       no leaderboard row, no name reservation. */
     askToJoin(scope, pct, done);
-  }
-
-  /* Skipping (or cancelling the name step) submits under a placeholder
-     name such as "Unknown user 4821" and then shows the result. The write
-     is best-effort: a failure must never hold up the score screen. */
-  function submitAnonymously(scope, pct, then) {
-    let settled = false;
-    const once = () => { if (settled) return; settled = true; then(); };
-    try {
-      LB.anonymousName()
-        .then((nick) => (nick ? LB.submitScore(scope, pct, nick) : null))
-        .catch(() => {})
-        .then(once, once);
-    } catch (e) { once(); }
   }
 
   function askToJoin(scope, pct, done) {
@@ -113,7 +98,7 @@
       <div class="lb-modal-box" role="dialog" aria-modal="true" aria-labelledby="lb-join-title">
         <div class="lb-modal-ico">🏆</div>
         <h3 id="lb-join-title">${esc(tx("lb.join.title", "Join the leaderboard?"))}</h3>
-        <p>${esc(tx("lb.join.body", "Your name will be shown on the leaderboard with your best score. You can skip this — your mock test will still run normally."))}</p>
+        <p>${esc(tx("lb.join.body", "Your name will be shown on the leaderboard with your best score. If you skip, your name and score are not saved anywhere."))}</p>
         <div class="lb-modal-actions">
           <button class="btn btn-outline" id="lb-join-skip" type="button">${esc(tx("lb.join.skip", "Skip"))}</button>
           <button class="btn btn-primary" id="lb-join-yes" type="button">${esc(tx("lb.join.yes", "Yes, add me"))}</button>
@@ -130,8 +115,7 @@
        stray tap on the dimmed background. */
     el("lb-join-skip").addEventListener("click", () => {
       if (finished) return;
-      close();
-      submitAnonymously(scope, pct, finish);
+      finish();
     });
     el("lb-join-yes").addEventListener("click", () => {
       if (finished) return;
@@ -140,22 +124,30 @@
     });
   }
 
-  function askName(scope, pct, done) {
+  /* Shared name-entry modal. `mode` decides what a valid name does:
+     - "join"    — reserve the name, submit the score, remember the name.
+     - "profile" — reserve the name and remember it locally only. Existing
+                   board rows keep the name they were submitted with; the
+                   new name shows up from the next mock test onward.
+     Validation is identical in both modes, so junk is rejected either way. */
+  function nameModal(opts) {
+    const mode = opts.mode;
     const box = document.createElement("div");
     box.className = "lb-modal";
     box.id = "lb-name-modal";
     box.innerHTML = `
       <div class="lb-modal-backdrop"></div>
       <div class="lb-modal-box" role="dialog" aria-modal="true" aria-labelledby="lb-name-title">
-        <div class="lb-modal-ico">✍️</div>
-        <h3 id="lb-name-title">${esc(tx("lb.name.title", "Enter your name"))}</h3>
-        <p>${esc(tx("lb.name.body", "This name will appear on the leaderboard."))}</p>
+        <div class="lb-modal-ico">${mode === "profile" ? "👤" : "✍️"}</div>
+        <h3 id="lb-name-title">${esc(opts.title)}</h3>
+        <p>${esc(opts.body)}</p>
+        ${opts.current ? `<p class="lb-profile-current">${esc(tx("lb.profile.current", "Current name"))}: <b>${esc(opts.current)}</b></p>` : ""}
         <input class="lb-name-input" id="lb-name-input" type="text" maxlength="20"
                autocomplete="off" spellcheck="false" placeholder="${esc(tx("lb.name.ph", "Your name"))}">
         <p class="lb-name-err" id="lb-name-err" role="alert"></p>
         <div class="lb-modal-actions">
-          <button class="btn btn-outline" id="lb-name-cancel" type="button">${esc(tx("lb.name.cancel", "Cancel"))}</button>
-          <button class="btn btn-primary" id="lb-name-save" type="button">${esc(tx("lb.name.save", "Save and submit"))}</button>
+          <button class="btn btn-outline" id="lb-name-cancel" type="button">${esc(opts.cancelLabel)}</button>
+          <button class="btn btn-primary" id="lb-name-save" type="button">${esc(opts.saveLabel)}</button>
         </div>
       </div>`;
     document.body.appendChild(box);
@@ -167,14 +159,14 @@
 
     let finished = false;
     const close = () => box.remove();
-    const finish = () => { if (finished) return; finished = true; close(); done(); };
+    const finish = () => { if (finished) return; finished = true; close(); opts.done(); };
 
-    /* No backdrop dismissal here either. Cancel means "no name after all",
-       which is the same outcome as Skip: an anonymous entry. */
+    /* No backdrop dismissal: Cancel is the explicit way out, and it means
+       "no name after all" — which writes nothing. */
     el("lb-name-cancel").addEventListener("click", () => {
       if (finished) return;
       close();
-      submitAnonymously(scope, pct, finish);
+      finish();
     });
 
     const showErr = (key, fallback) => { err.textContent = tx(key, fallback); };
@@ -207,14 +199,17 @@
           return;
         }
 
-        const saved = await LB.submitScore(scope, pct, check.name);
-        if (saved.ok) {
-          LB.storeName(check.name);
-          finish();
-          return;
+        if (mode === "join") {
+          const saved = await LB.submitScore(opts.scope, opts.pct, check.name);
+          if (!saved.ok) {
+            if (saved.code === "rate") { showErr("lb.name.rate", "Daily leaderboard limit reached."); return; }
+            showErr("lb.name.err", "Could not save right now. Please try again.");
+            return;
+          }
         }
-        if (saved.code === "rate") { showErr("lb.name.rate", "Daily leaderboard limit reached."); return; }
-        showErr("lb.name.err", "Could not save right now. Please try again.");
+
+        LB.storeName(check.name);
+        finish();
       } catch (e) {
         showErr("lb.name.err", "Could not save right now. Please try again.");
       } finally {
@@ -225,6 +220,35 @@
 
     save.addEventListener("click", attemptSave);
     input.addEventListener("keydown", (e) => { if (e.key === "Enter") attemptSave(); });
+  }
+
+  function askName(scope, pct, done) {
+    nameModal({
+      mode: "join",
+      scope: scope,
+      pct: pct,
+      title: tx("lb.name.title", "Enter your name"),
+      body: tx("lb.name.body", "This name will appear on the leaderboard."),
+      saveLabel: tx("lb.name.save", "Save and submit"),
+      cancelLabel: tx("lb.name.cancel", "Cancel"),
+      done: done,
+    });
+  }
+
+  /* Profile popup, opened from the icon on the leaderboard page. Saving a
+     new name here does not rewrite rows already on the board — those keep
+     the name they were submitted with. The next mock test submitted under
+     the new name carries it onto the board. */
+  function openProfile(done) {
+    nameModal({
+      mode: "profile",
+      title: tx("lb.profile.title", "Your profile"),
+      body: tx("lb.profile.body", "Set the name shown on the leaderboard. Scores you already submitted keep their old name; your next mock test uses this one."),
+      current: LB.storedName(),
+      saveLabel: tx("lb.profile.save", "Save name"),
+      cancelLabel: tx("lb.name.cancel", "Cancel"),
+      done: done,
+    });
   }
 
   /* ---------- /leaderboard page ---------- */
@@ -303,7 +327,18 @@
         <nav class="breadcrumb">
           <a href="/">${esc(tx("breadcrumb.home", "Home"))}</a><span class="bc-sep">/</span><span>${esc(tx("lb.title", "Leaderboard"))}</span>
         </nav>
-        <h1>🏆 ${esc(tx("lb.title", "Leaderboard"))}</h1>
+        <div class="page-head-row">
+          <h1>🏆 ${esc(tx("lb.title", "Leaderboard"))}</h1>
+          <button class="lb-profile-btn" id="lb-profile-btn" type="button"
+                  aria-label="${esc(tx("lb.profile.title", "Your profile"))}"
+                  title="${esc(tx("lb.profile.title", "Your profile"))}">
+            <svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/>
+            </svg>
+            <span class="lb-profile-name">${esc(LB.storedName() || tx("lb.profile.setName", "Set name"))}</span>
+          </button>
+        </div>
         <p class="page-desc">${esc(tx("lb.sub", ""))}</p>
       </div>
 
@@ -329,6 +364,18 @@
           <div id="lb-graph" class="lb-graph"></div>
         </div>
       </section>`;
+
+    /* Profile icon: rename yourself. Rows already on the board keep their
+       old name; the next mock test submitted carries the new one. */
+    const profileBtn = el("lb-profile-btn");
+    if (profileBtn) {
+      profileBtn.addEventListener("click", () => {
+        openProfile(() => {
+          const label = profileBtn.querySelector(".lb-profile-name");
+          if (label) label.textContent = LB.storedName() || tx("lb.profile.setName", "Set name");
+        });
+      });
+    }
 
     const tabs = el("lb-tabs");
     if (tabs) {
