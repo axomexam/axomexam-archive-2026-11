@@ -802,18 +802,43 @@ faaltu complication hai.
 
 #### Step 3 — Web app register karo (config lene ke liye)
 
-1. **Project Overview** page par jao — left menu mein sabse upar project ka
-   naam (`axomexam`) par click karo, ya left menu mein **"Project Overview"**
-   par click karo
-2. Wahan **`</>`** icon (Web) dikhega. Web app add karne ke 3 tarike:
-   - **Tarika A** ⭐ — Project Overview page par **`</>`** icon par click karo
-   - **Tarika B** — ⚙️ (gear) → **"Project settings"** → neeche **"Your apps"**
-     → **`</>`** icon par click karo
-   - **Tarika C** — Upar search bar mein `add app` type karo
-3. App ka nickname likho: `axomexam-web`
-4. **"Firebase Hosting"** ka checkbox **hata do** (hum GitHub Pages use karte hain)
-5. **"Register app"** par click karo
-6. Ab **`firebaseConfig`** naam ka code block dikhega, kuch aisa:
+> **Yahan kaam kahan se shuru karna hai?** Left menu mein sabse upar **⚙️ gear**
+> ke neeche project ka naam (`axomexam`) likha hoga. Us par click karo — ya
+> left menu mein **"Project Overview"** dhundho. Yahi se Step 3 shuru hota hai.
+
+**3a. Web app ka icon dhundho**
+
+Project Overview page par ek chhota **`</>`** icon dikhega (Web platform ka
+icon). Ye dhundhne ke 3 tarike:
+
+| Tarika | Kya karo |
+|---|---|
+| **A. Overview page se** ⭐ | Overview page par neeche scroll karo → **"Get started by setting up a Web app"** → **`</>`** icon par click |
+| **B. Project settings se** | ⚙️ **Project settings** → neeche scroll → **"Your apps"** → **`</>`** icon |
+| **C. Search se** | Upar search bar mein `web app` type karo |
+
+> **Dikh nahi raha?** Overview page par thoda **neeche scroll** karo — Web
+> icon aksar "Add an app to get started" wale box ke andar hota hai.
+
+**3b. App ka nickname likho**
+
+```
+   ┌──────────────────────────────────────────────┐
+   │  App nickname                                │
+   │  ┌────────────────────────────────────────┐  │
+   │  │ axomexam-web                           │  │
+   │  └────────────────────────────────────────┘  │
+   └──────────────────────────────────────────────┘
+```
+
+**3c. ⚠️ "Also set up Firebase Hosting" ka checkbox — HATA DO**
+
+- Hum GitHub Pages use karte hain, Firebase Hosting nahi
+- Checkbox **tick na ho**, khaali chhodo
+
+**3d. "Register app" par click karo**
+
+**3e. Ab `firebaseConfig` code block dikhega — ye copy karo**
 
 ```js
 const firebaseConfig = {
@@ -829,12 +854,18 @@ const firebaseConfig = {
 👉 **Ye pura block copy karke mujhe bhej do.** Bas yahi chahiye. (Ye keys
 **secret nahi** hain — public hain, isliye repo mein rakhna theek hai.)
 
-7. **"Continue to console"**
+**3f. "Continue to console"** par click karo
 
 > **Config baad mein phir se kahan milega?** ⚙️ **Project settings** →
-> neeche scroll karo → **"Your apps"** → **"SDK setup and configuration"**
-> → **"Config"** radio button. Wahan wahi block dobara dikhega. Isliye
-> bhejna bhool jao to chinta mat karo.
+> neeche scroll karo → **"Your apps"** → apni web app ke saamne
+> **"SDK setup and configuration"** → **"Config"** radio button. Wahan wahi
+> block dobara dikhega. Isliye bhejna bhool jao to chinta mat karo.
+
+> **Nayi Firebase UI mein ye alag dikh sakta hai:** kuch accounts mein
+> `firebaseConfig` ki jagah **"npm"** ya **"CDN"** tab pehle khulta hai.
+> Tab ke saath-saath **"Config"** wala option bhi hoga — usi par click karo.
+> Jo bhi ho, aapko **6 values** chahiye: `apiKey`, `authDomain`, `projectId`,
+> `storageBucket`, `messagingSenderId`, `appId`.
 
 #### Step 4 — Security rules lagao
 
@@ -895,6 +926,19 @@ Ye bots ko rokta hai. Baad mein bhi kar sakte ho, pehle sab chal jaane do.
 Filhaal **skip kar sakte ho**.
 
 ---
+
+### Setup progress (owner tick kare)
+
+| Step | Kaam | Status |
+|---|---|---|
+| 0 | Google account | ✅ |
+| 1 | Firebase project banaya | ✅ |
+| 2 | Firestore database (Standard + default + asia-south1) | ✅ |
+| 3 | Web app register + `firebaseConfig` bheja | ⏳ **ab yahi karna hai** |
+| 4 | Security rules publish karo | `todo` |
+| 5 | App Check | `todo` (optional) |
+
+Step 3 ke baad agent ko **4 cheezein** chahiye (neeche checklist dekho).
 
 ### Mujhe kya-kya chahiye (checklist)
 
