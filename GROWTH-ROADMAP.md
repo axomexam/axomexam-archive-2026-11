@@ -1106,6 +1106,63 @@ service cloud.firestore {
 
 4. **"Publish"** par click karo (button upar-right mein hai)
 
+**✅ Rules verify ho gaye (17 Nov 2026).** Live test ke results:
+
+| Test | Result |
+|---|---|
+| Leaderboard padhna (public read) | ✅ 200 |
+| Valid score likhna | ✅ 200 |
+| Naam mein galat character (`Bad!!Name`) | ✅ 403 (block) |
+| `bestPct` = 150 | ✅ 403 (block) |
+| Dusre ka deviceId use karna | ✅ 403 (block) |
+| Koi bhi document delete karna | ✅ 403 (block) |
+| Top-5 query by scope | ⚠️ **index chahiye** (Step 4b) |
+
+#### Step 4b — Composite index banao (ek baar ka kaam)
+
+Leaderboard ka query `scope` se filter karke `bestPct` par sort karta hai.
+Standard edition mein iske liye ek **composite index** chahiye. Ek baar
+banao, phir hamesha chalega.
+
+**Sabse aasan tarika:** ye link browser mein kholo:
+
+```
+https://console.firebase.google.com/v1/r/project/axomexam-leaderboard/firestore/indexes?create_composite=ClZwcm9qZWN0cy9heG9tZXhhbS1sZWFkZXJib2FyZC9kYXRhYmFzZXMvKGRlZmF1bHQpL2NvbGxlY3Rpb25Hcm91cHMvbGJfc2NvcmVzL2luZGV4ZXMvXxABGgkKBXNjb3BlEAEaCwoHYmVzdFBjdBACGgwKCF9fbmFtZV9fEAI
+```
+
+Firebase khud fields bhar dega — bas **"Create index"** par click karo.
+
+**Ya manually:**
+
+1. Firestore Database → **Indexes** tab → **"Create index"**
+2. Collection ID: **`lb_scores`**
+3. Pehla field: **`scope`** → Ascending
+4. Doosra field: **`bestPct`** → **Descending**
+5. Query scope: **Collection**
+6. **Create** → 1-2 minute wait (status "Building" → "Enabled")
+
+> Index ban raha hai jab tak, leaderboard khaali dikhega — ye normal hai.
+
+#### Step 4c — Test documents hata do
+
+Rules verify karte waqt maine 3 test documents banaye (device `d_testdevice1234`).
+Ye hatane padenge, warna leaderboard par "TestUser" dikhega:
+
+```
+lb_scores/d_testdevice1234__gk-assam-history
+lb_scores/d_testdevice1234__gk~assam-history
+lb_scores/d_testdevice1234__math-arithmetic
+```
+
+**Kaise hatao:** Firestore → **Data** tab → `lb_scores` → teeno documents
+par **⋮ → Delete document**. (Rules ki wajah se client se delete nahi hota,
+isliye console se karna padega.)
+
+> **Doc ID ka rule (code ke liye):** Firestore doc ID mein `/` allowed nahi
+> hota, isliye code `gk/assam-history` ko **`gk-assam-history`** karke likhega
+> (bas `/` ko `-` se badalna). `scope` **field** mein pura `gk/assam-history`
+> hi rahega.
+
 **Ye rules kya karti hain:**
 - Sab log leaderboard **padh** sakte hain
 - Koi bhi likh sakta hai, par **sirf sahi shape ka data** (naam 20 character
