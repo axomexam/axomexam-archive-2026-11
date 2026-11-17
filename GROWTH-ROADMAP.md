@@ -393,6 +393,99 @@ aur cost ka dhyan rakhna. (Live numbers deploy se pehle verify karo.)
    opt-in** leaderboard banao, Firebase par. Privacy policy update karo
    (DPDP + minors). Public repo mein koi personal data na likho.
 
+### Owner ka UX plan (ye sahi hai — isi tarah banega)
+
+Owner ne decide kiya: **koi login/account nahi.** Mock test ke final submit se
+**pehle** ek chhota popup aayega:
+
+```
+        ┌─────────────────────────────────────────┐
+        │  🏆  Leaderboard join karein?      [✕]  │
+        │                                         │
+        │  Aapka naam leaderboard par dikhega.    │
+        │  Sirf naam chahiye — koi login nahi.    │
+        │                                         │
+        │  ┌───────────────────────────────────┐  │
+        │  │ Aapka naam likhein                │  │
+        │  └───────────────────────────────────┘  │
+        │                                         │
+        │  [ Skip ]          [ Haan, join karo ]  │
+        └─────────────────────────────────────────┘
+```
+
+- **[✕] / [Skip]** → popup band, submit normal chalu. Koi naam nahi maanga.
+- **[Haan, join karo]** → sirf naam poocha jaata hai.
+- Submit hone par naam **leaderboard par dikhta hai**.
+
+Ye opt-in + close-able + sirf-naam design **bilkul theek hai** — privacy ke
+hisaab se bhi sabse kam risk wala rasta. Login ki zaroorat nahi.
+
+### ⚠️ Par ek gap hai — popup akele kaafi nahi
+
+Ye samajhna zaroori hai:
+
+| Kaam | Backend chahiye? |
+|---|---|
+| Submit se pehle popup dikhana | ❌ Nahi — aaj ho sakta hai |
+| Close / Skip button | ❌ Nahi |
+| Naam ka input box | ❌ Nahi |
+| Naam `localStorage` mein save karna | ❌ Nahi |
+| **Naam doosre users ko dikhana** | ✅ **Haan — backend chahiye** |
+| **Top 5 list** | ✅ Haan |
+| **Topic-wise rank** | ✅ Haan |
+| **Sabka graph** | ✅ Haan |
+
+**Kyun:** popup + naam ka matlab hai "naam **liya** gaya". Leaderboard ka matlab
+hai "naam **sabko dikhaya** gaya". Ye do alag cheezein hain.
+
+Naam agar sirf `localStorage` mein rahega to wo **usi ek phone** mein rahega.
+Dusre user ko **kabhi nahi dikhega**. Leaderboard ke liye naam ek **common
+jagah** bhejna padega — wahi backend hai.
+
+**Analogy:** Popup = ek form jisme aap naam likhte ho. Backend = **postbox**
+jahan form daala jaata hai. Postbox nahi hoga to form aapki jeb mein hi rahega.
+
+### Backend ke options (koi ek chuno)
+
+| Option | Free tier | Setup | Kis ke liye |
+|---|---|---|---|
+| **Firebase Firestore** ⭐ | Haan (~50k reads/day) | ~15 min | Sabse aasan static site ke liye |
+| Supabase | Haan (500 MB) | ~20 min | Agar SQL pasand ho |
+| Cloudflare Workers + KV | Haan (1 lakh/day) | ~30 min | Technical banda chahiye |
+| Google Sheets + Apps Script | Haan | ~20 min | Bilkul simple, par slow |
+
+**Recommendation: Firebase Firestore.** GitHub Pages ke saath seedha chalta
+hai, free tier chhote scale ke liye kaafi hai, aur login ki zaroorat nahi.
+
+### Jo kaam owner ka hi hai (agent nahi kar sakta)
+
+- Firebase account banana (**owner ke naam par hona chahiye** — data unka hai)
+- Firebase project + Firestore database banana
+- Config keys (apiKey, projectId) site mein daalna — ye public keys hain,
+  secret nahi, isliye repo mein rakhna theek hai
+
+Agent baaki sab code likh sakta hai.
+
+### 🔒 Anti-abuse — ye zaroori hai (warna leaderboard kharab ho jayega)
+
+Public leaderboard par user ka likha text aata hai, to ye 4 cheezein must hain:
+
+1. **Naam filter** — gaali/abusive words block, max 20 characters, sirf
+   letters/numbers/space. Warna koi gaali likh dega.
+2. **Duplicate naam** — ek hi naam se koi bhi khel sakta hai; isko accept
+   karo par "practice ranking" hi bolo, "official" nahi.
+3. **Fake score** — site ka scoring browser mein hota hai, to koi score badha
+   sakta hai. Minimum: daily submission limit (jaise 10/day) aur timestamp.
+   Poora fix chahiye to server par verify karna padega (kaam zyada).
+4. **Rate limit** — ek device se bahut zyada submissions na ho.
+
+### 📜 Privacy policy update (legal — must)
+
+Abhi privacy policy kehti hai ki content ke liye koi personal data nahi liya
+jaata. Leaderboard naam add karne par **privacy policy update karna zaroori
+hai** — likhna padega: kaunsa data liya, kyun, kitne din rakha, kaise delete
+karwayein. DPDP Act 2023 ke hisaab se.
+
 ### Rasta B shuru karne se pehle owner se ye poochna hai
 
 - Naam asli dikhana hai ya nickname? (recommend: nickname)
