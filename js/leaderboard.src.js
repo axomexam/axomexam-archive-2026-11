@@ -326,6 +326,7 @@
       bestPct: fromValue(doc.fields.bestPct),
       attempts: fromValue(doc.fields.attempts),
       name: doc.fields.name && doc.fields.name.stringValue,
+      deviceId: doc.fields.deviceId && doc.fields.deviceId.stringValue,
     };
   }
 
@@ -427,75 +428,74 @@
     return v ? fromValue(v) : null;
   }
 
-  /* Rank of this device inside one scope. Entries come back ordered
-     best-first; the board is read in pages of RANK_PAGE until the device
-     is found or the board ends, so a small board costs one page and a
-     large one never downloads the whole collection. */
-  const RANK_PAGE = 300;
-  const RANK_MAX = 1200;
+  /* How many entries in one scope beat a given percentage. A count
+     aggregation costs a single read whatever the board size, so the rank
+     never has to download the documents it is ranking against.
 
-  async function fetchMyRank(scope, limit) {
-    const dev = deviceId();
-    const cap = Math.min(limit || RANK_MAX, RANK_MAX);
-    let offset = 0;
-    let total = null;
-
-    while (offset < cap) {
-      const page = await fetchTopPage(scope, Math.min(RANK_PAGE, cap - offset), offset);
-      if (!page.ok) return page;
-      if (total === null) total = page.rows.length < RANK_PAGE ? offset + page.rows.length : null;
-      const idx = page.rows.findIndex((row) => row.deviceId === dev);
-      if (idx >= 0) {
-        const rank = offset + idx + 1;
-        if (total === null) total = await countScope(scope);
-        return { ok: true, rank: rank, total: total, mine: page.rows[idx] };
-      }
-      if (page.rows.length < RANK_PAGE) {
-        if (total === null) total = offset + page.rows.length;
-        return { ok: true, rank: 0, total: total, mine: null };
-      }
-      offset += RANK_PAGE;
-    }
-
-    return { ok: true, rank: 0, total: total, mine: null };
-  }
-
-  async function fetchTopPage(scope, limit, offset) {
-    const q = {
-      structuredQuery: {
-        from: [{ collectionId: "lb_scores" }],
-        where: {
-          fieldFilter: {
-            field: { fieldPath: "scope" },
-            op: "EQUAL",
-            value: toValue(scope),
+     The orderBy is not cosmetic: Firestore only accepts the scope+bestPct
+     range filter when the query names the composite index's own sort
+     order (scope, bestPct DESC). Drop it and the query is rejected as
+     needing a new index, so it must stay. */
+  async function countAbove(scope, pct) {
+    const body = {
+      structuredAggregationQuery: {
+        structuredQuery: {
+          from: [{ collectionId: "lb_scores" }],
+          where: {
+            compositeFilter: {
+              op: "AND",
+              filters: [
+                {
+                  fieldFilter: {
+                    field: { fieldPath: "scope" },
+                    op: "EQUAL",
+                    value: toValue(scope),
+                  },
+                },
+                {
+                  fieldFilter: {
+                    field: { fieldPath: "bestPct" },
+                    op: "GREATER_THAN",
+                    value: toValue(pct),
+                  },
+                },
+              ],
+            },
           },
+          orderBy: [{ field: { fieldPath: "bestPct" }, direction: "DESCENDING" }],
         },
-        orderBy: [{ field: { fieldPath: "bestPct" }, direction: "DESCENDING" }],
-        limit: limit,
+        aggregations: [{ alias: "c", count: {} }],
       },
     };
-    if (offset) q.structuredQuery.offset = offset;
-    const res = await fetch(apiBase() + ":runQuery" + key(), {
+    const res = await fetch(apiBase() + ":runAggregationQuery" + key(), {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(q),
+      body: JSON.stringify(body),
     });
-    if (!res.ok) return { ok: false, status: res.status };
-    const rows = await res.json().catch(() => []);
-    const out = [];
-    (Array.isArray(rows) ? rows : []).forEach((row) => {
-      if (!row || !row.document) return;
-      const f = row.document.fields || {};
-      out.push({
-        id: row.document.name.split("/documents/").pop(),
-        name: f.name ? f.name.stringValue : "",
-        bestPct: fromValue(f.bestPct),
-        attempts: fromValue(f.attempts),
-        deviceId: f.deviceId ? f.deviceId.stringValue : "",
-      });
-    });
-    return { ok: true, rows: out };
+    if (!res.ok) return null;
+    const rows = await res.json().catch(() => null);
+    const first = Array.isArray(rows) ? rows[0] : rows;
+    const v = first && first.result && first.result.aggregateFields && first.result.aggregateFields.c;
+    return v ? fromValue(v) : null;
+  }
+
+  /* Rank of this device inside one scope, in three fixed reads: the
+     device's own score, how many entries beat it, and the scope total.
+     This used to page through the board 300 documents at a time until it
+     found the device, which charged a read for every document it skipped;
+     a 300-entry board cost ~306 reads per page view. Counting instead
+     keeps the cost flat as the board grows. */
+  async function fetchMyRank(scope) {
+    const mine = await readOwnScore(scope);
+    if (!mine || !Number.isFinite(mine.bestPct)) {
+      const total = await countScope(scope);
+      if (total === null) return { ok: false };
+      return { ok: true, rank: 0, total: total, mine: null };
+    }
+
+    const results = await Promise.all([countAbove(scope, mine.bestPct), countScope(scope)]);
+    if (results[0] === null || results[1] === null) return { ok: false };
+    return { ok: true, rank: results[0] + 1, total: results[1], mine: mine };
   }
 
   window.AXOLeaderboard = {
@@ -519,8 +519,8 @@
     readOwnScore: readOwnScore,
     submitScore: submitScore,
     fetchTop: fetchTop,
-    fetchTopPage: fetchTopPage,
     countScope: countScope,
+    countAbove: countAbove,
     fetchMyRank: fetchMyRank,
   };
 })();

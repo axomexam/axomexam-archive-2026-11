@@ -2295,9 +2295,59 @@ one-shot so closing the popup while a request is still in flight cannot render
 the result screen twice. `loadBoard()` already handled the same case via its
 own `catch`.
 
-**Still owed to the owner (unchanged).** Delete the leftover test docs in the
-Firebase console, commit/deploy the leaderboard files, and paste the corrected
-Firestore rules (with `\p{M}`) into the console.
+**Live as of 17 Nov 2026.** Merged to `main` via PR #6 (merge commit
+`e7a78dc0`), GitHub Pages built that commit, and `axomexam.in/leaderboard/`
+plus `/as/leaderboard/` return 200 with the board rendering real Firestore
+rows. The production rules already carry `\p{M}`: probing the live REST API
+with an Assamese name containing a matra (`ৰাহুল`) returns 200, while a second
+device reserving the same name returns 403, so both name exclusivity and
+Assamese input work in production. Client deletes of `lb_names` also return
+403, as the rules intend.
+
+**Test data cleared, then re-seeded once by an e2e run.** The owner deleted
+all 25 `lb_scores` and 34 `lb_names` in the console on 17 Nov 2026, and a live
+read confirmed both collections empty. Verifying that a fresh visitor could
+still join, however, created two more documents: name `Verify Bot 521697` and
+its score `d_28c57f8d104d8dfdc07d2e92__gk-assam-history` (100%, gk/assam-history).
+Client delete returns 403, so these two must be removed in the console. The
+lesson: probe the live backend with reads only. Any write leaves a public row
+on the board and only the owner can take it down.
+
+**The test documents are gone and the board is live with real data.** The
+owner cleared the console, and the first genuine visitor appeared: `Puja Das`
+holds 60% in `gk/assam-history` and 20% in `science/chemistry`. Those are real
+users, not fixtures; do not delete them. A read-only probe now confirms the
+live board renders `Puja Das 60%` on both `/leaderboard/` and `/as/leaderboard/`.
+
+**Rank lookup no longer pages the board (17 Nov 2026).** `fetchMyRank` used to
+read the scope in 300-document pages until it found the device, and Firestore
+bills a read for every document a query touches, so a 300-entry board cost
+~306 reads per page view (about 163 free page views a day). It now asks three
+targeted questions instead: the device's own score, how many entries beat it,
+and the scope total. Rank is `countAbove(pct) + 1`, which makes tied scores
+share a rank. Cost is a flat 8 reads per page view whatever the board size,
+so the free tier holds ~6,250 page views a day.
+
+Two details worth keeping:
+
+- `countAbove` sends `orderBy bestPct DESCENDING` on purpose. Firestore only
+  accepts the `scope` + `bestPct` range filter when the query names the
+  composite index's own sort order `(scope, bestPct DESC)`. Drop the orderBy
+  and every rank request fails with "The query requires an index", so the
+  deployed index must stay.
+- `fetchTopPage` was deleted. Once `fetchMyRank` stopped paging, nothing used
+  it; it was the only caller of the expensive read path.
+
+The projection below assumes `fetchTop(scope, 5)` for the visible board plus
+the rank lookup. Verify with `/tmp`-style read-only harnesses, never by
+writing to the live board: any `:commit` leaves a public row that only the
+console can remove.
+
+  entries | reads per page view (before -> after) | free page views/day
+       10 |                    16 -> 8               | 3,125 -> 6,250
+      100 |                   106 -> 8               |   471 -> 6,250
+      300 |                   306 -> 8               |   163 -> 6,250
+     1200 |                 1,206 -> 8               |    41 -> 6,250
 
 **Test suites.** `lbtest` (27) and `lblive2` (10) cover the core module,
 including live Firestore. `lblang` (8) loads the shipped i18n + UI files with a
