@@ -49,7 +49,8 @@ const OLD_BLOCK = /\n?[ \t]*<!--[^\n]*Reserve space for Google Auto Ads[^\n]*-->
  * Ad slots reserve the tallest common in-page Auto Ad size at each breakpoint
  * (300x250 / 336x280). The mobile slot is a little taller because mobile
  * creatives are mostly square-ish; desktop also serves wide banners.
- * Nav heights are the measured final heights at each desktop range.
+ * Nav heights are the measured final heights of the two-line desktop nav at
+ * each desktop range.
  */
 const SNIPPET = [
   '  <!-- Reserve space for Google Auto Ads and the JS-built desktop nav (prevents layout shift / CLS) -->',
@@ -60,8 +61,8 @@ const SNIPPET = [
   '      ins.adsbygoogle:not(.adsbygoogle-noablate):not([data-anchor-status]),',
   '      .google-auto-placed { min-height: 250px; }',
   '    }',
-  '    @media (min-width: 901px) and (max-width: 1100px) { .main-nav { min-height: 97px; } }',
-  '    @media (min-width: 1101px) { .main-nav { min-height: 54px; } }',
+  '    @media (min-width: 901px) and (max-width: 1240px) { .main-nav { min-height: 82px; } }',
+  '    @media (min-width: 1241px) { .main-nav { min-height: 95px; } }',
   '  </style>',
   '',
   '',

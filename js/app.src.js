@@ -1214,24 +1214,47 @@
       </div>`;
   }
 
+  /* Categories surfaced as quick-pick chips on the search page. */
   const FEATURED_IDS = ["gk", "science", "math", "history", "reasoning"];
+
+  /* The desktop nav renders on two centred lines. Line one carries the core
+     practice destinations, line two the remaining subjects and utility links.
+     A full-width break item forces the second line; flex-wrap keeps each line
+     centred on its own. */
+  const NAV_ROW1_CATS = ["gk", "math", "science", "reasoning"];
+  const NAV_ROW2_CATS = ["english", "computer"];
 
   function buildDesktopNav() {
     const list = $("#nav-list");
     if (!list) return;
     const activePath = currentPath();
-    const featured = state.categories.filter((c) => FEATURED_IDS.includes(c.id));
-    const rest = state.categories.filter((c) => !FEATURED_IDS.includes(c.id));
-    const items = [];
+    const catById = (id) => state.categories.find((c) => c.id === id);
+    const catLink = (id) => {
+      const c = catById(id);
+      return c ? navLinkHTML(c, activePath) : "";
+    };
 
-    items.push(extraLink("/", t("nav.home"), activePath));
-    featured.forEach((c) => items.push(navLinkHTML(c, activePath)));
-    items.push(extraLink("/mock-test", t("nav.mock"), activePath));
-    items.push(extraLink("/exams", t("nav.exams"), activePath));
-    items.push(extraLink("/downloads", t("nav.downloads"), activePath));
-    items.push(extraLink("/leaderboard", t("nav.leaderboard"), activePath));
-    items.push(moreDropdownHTML(rest, activePath));
-    list.innerHTML = items.join("");
+    const row1 = [
+      extraLink("/", t("nav.home"), activePath),
+      ...NAV_ROW1_CATS.map(catLink),
+      extraLink("/mock-test", t("nav.mock"), activePath),
+      extraLink("/exams", t("nav.exams"), activePath),
+      extraLink("/downloads", t("nav.downloads"), activePath),
+      extraLink("/leaderboard", t("nav.leaderboard"), activePath),
+    ];
+
+    const row2 = [
+      ...NAV_ROW2_CATS.map(catLink),
+      extraLink("/exam-wise-mock-test", t("nav.examMock"), activePath),
+      extraLink("/previous-year", t("nav.previousYear"), activePath),
+      extraLink("/contact", t("nav.contact"), activePath),
+      moreDropdownHTML(activePath),
+    ];
+
+    list.innerHTML =
+      row1.join("") +
+      '<li class="nav-break" aria-hidden="true"></li>' +
+      row2.join("");
   }
 
   function extraLink(href, label, activePath) {
@@ -1239,44 +1262,28 @@
     return `<li><a class="nav-link ${on ? "active" : ""}" href="${href}">${escapeHtml(label)}</a></li>`;
   }
 
-  function moreDropdownHTML(rest, activePath) {
+  function moreDropdownHTML(activePath) {
     const root = activePath.split("/")[0];
-    const isInside = rest.some((c) => c.id === root) || ["submit", "previous-year", "ebooks", "exams", "exam-wise-mock-test", "download-app", "contact", "about", "privacy", "privacy-policy", "terms", "disclaimer"].includes(root);
+    const isInside = ["ebooks", "download-app", "submit", "previous-year", "exams", "exam-wise-mock-test", "contact", "about", "privacy", "privacy-policy", "terms", "disclaimer", "articles"].includes(root);
 
-    const links = rest.map((c) => {
-      const on = root === c.id;
-      return `<a class="${on ? "active" : ""}" href="/category/${c.id}">${escapeHtml(navName(c.name))}</a>`;
-    });
-
-    /* E-Books and Your Exams sit directly below the Articles link inside "More ▸" */
-    const ebookOn = root === "ebooks";
-    const ebookLink = `
-      <a class="ebook-nav-link ${ebookOn ? "active" : ""}" href="/ebooks">
-        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg>
-        <span>${escapeHtml(t("nav.ebooks"))}</span>
-      </a>`;
-    const examsOn = root === "exams";
-    const examsLink = `
-      <a class="ebook-nav-link ${examsOn ? "active" : ""}" href="/exams">
-        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
-        <span>${escapeHtml(t("nav.exams"))}</span>
-      </a>`;
-    const examMockOn = root === "exam-wise-mock-test";
-    const examMockLink = `
-      <a class="ebook-nav-link ${examMockOn ? "active" : ""}" href="/exam-wise-mock-test">
-        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg>
-        <span>${escapeHtml(t("nav.examMock"))}</span>
-      </a>`;
-    const artPos = rest.findIndex((c) => c.id === "articles");
-    if (artPos !== -1) links.splice(artPos + 1, 0, ebookLink, examsLink, examMockLink);
-    else links.push(ebookLink, examsLink, examMockLink);
-
-    const catLinks = links.join("");
+    /* "More" holds the destinations that are not on the two nav lines: the
+       Articles category (with its sub-topics), Submit Q&A, E-Books and the
+       Android app download. */
+    const articles = state.categories.find((c) => c.id === "articles");
+    const articlesLink = articles ? `
+          <div class="has-drop">
+            <a class="${root === "articles" ? "active" : ""}" href="/category/articles">
+              <span>${escapeHtml(navName(articles.name))}</span><span class="d-caret"></span>
+            </a>
+            <div class="dropdown">
+              ${(articles.subcategories || articles.sections || []).map((sub) => `
+                <a href="/category/articles/${sub.id}"><span>${escapeHtml(navName(sub.name))}</span></a>`).join("")}
+            </div>
+          </div>` : "";
 
     const extraLinks = [
-      ["/previous-year", t("nav.previousYear")],
       ["/submit", t("nav.submit")],
-      ["/contact", t("nav.contact")],
+      ["/ebooks", t("nav.ebooks")],
       ["/download-app", t("nav.downloadApp")]
     ].map(([href, label]) => {
       const on = root === href.replace(/^\//, "");
@@ -1289,8 +1296,7 @@
           <span>${escapeHtml(t("nav.more"))}</span><span class="caret"></span>
         </a>
         <div class="dropdown">
-          ${catLinks ? `<div class="d-label">${escapeHtml(t("nav.categories"))}</div>${catLinks}` : ""}
-          <div class="d-label">${escapeHtml(t("mmenu.extra"))}</div>
+          ${articlesLink}
           ${extraLinks}
         </div>
       </li>`;

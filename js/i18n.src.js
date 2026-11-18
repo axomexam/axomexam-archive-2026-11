@@ -258,7 +258,7 @@ const I18N = {
     "nav.categories": "Categories",
     "nav.quickStart": "Quick Start",
     "nav.home": "Home",
-    "nav.previousYear": "Previous Year Questions",
+    "nav.previousYear": "Previous Year papers",
     "nav.articles": "Articles",
     "nav.ebooks": "E-Books",
     "nav.downloadApp": "Download App",

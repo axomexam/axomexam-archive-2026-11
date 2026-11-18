@@ -36,11 +36,17 @@ const OLD_AD_BLOCK =
 const RESERVE_BLOCK =
   /[ \t]*<!--[^\n]*Reserve space for Google Auto Ads[^\n]*-->\n[ \t]*<style id="axo-layout-reserve">[\s\S]*?<\/style>[ \t]*\n?/;
 
+/* The nav-only block an already-stripped Assamese page carries. Normalising it
+   to the current NAV_RESERVE_BLOCK keeps the reserved heights in step when the
+   desktop nav's own height changes. */
+const NAV_ONLY_BLOCK =
+  /[ \t]*<!--[^\n]*Reserve space for the JS-built desktop nav[^\n]*-->\n[ \t]*<style id="axo-layout-reserve">[\s\S]*?<\/style>[ \t]*\n?/;
+
 const NAV_RESERVE_BLOCK = [
   "  <!-- Reserve space for the JS-built desktop nav (prevents layout shift / CLS) -->",
   '  <style id="axo-layout-reserve">',
-  "    @media (min-width: 901px) and (max-width: 1100px) { .main-nav { min-height: 97px; } }",
-  "    @media (min-width: 1101px) { .main-nav { min-height: 54px; } }",
+  "    @media (min-width: 901px) and (max-width: 1240px) { .main-nav { min-height: 82px; } }",
+  "    @media (min-width: 1241px) { .main-nav { min-height: 95px; } }",
   "  </style>",
   "",
 ].join("\n");
@@ -52,7 +58,11 @@ function stripAdsense(html) {
   out = out.replace(DNSPREFETCH, "");
   out = out.replace(COMMENT, "");
   out = out.replace(OLD_AD_BLOCK, "");
-  out = out.replace(RESERVE_BLOCK, NAV_RESERVE_BLOCK);
+  if (RESERVE_BLOCK.test(out)) {
+    out = out.replace(RESERVE_BLOCK, NAV_RESERVE_BLOCK);
+  } else {
+    out = out.replace(NAV_ONLY_BLOCK, NAV_RESERVE_BLOCK);
+  }
   return out;
 }
 
