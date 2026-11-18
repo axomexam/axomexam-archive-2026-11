@@ -1264,7 +1264,11 @@
 
   function moreDropdownHTML(activePath) {
     const root = activePath.split("/")[0];
-    const isInside = ["ebooks", "download-app", "submit", "previous-year", "exams", "exam-wise-mock-test", "contact", "about", "privacy", "privacy-policy", "terms", "disclaimer", "articles"].includes(root);
+    /* Only the destinations that actually live in this dropdown: Articles,
+       Submit Q&A, E-Books and Download App. Anything else (Contact Us,
+       Previous Year papers, Your Exams, Exam-wise Mock Test) has its own nav
+       item, so highlighting "More" for those would light two items at once. */
+    const isInside = ["ebooks", "download-app", "submit", "articles"].includes(root);
 
     /* "More" holds the destinations that are not on the two nav lines: the
        Articles category (with its sub-topics), Submit Q&A, E-Books and the
