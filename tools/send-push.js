@@ -71,6 +71,28 @@ function pickItem(items, id) {
   return found;
 }
 
+
+/* A 201 from the push service means FCM accepted the message, not that a
+   phone displayed it. Printing the device behind each row is how a dead,
+   emulated or never-installed subscription is told apart from a real one. */
+function reportSubscribers(subs) {
+  console.log("Subscribers: " + subs.length);
+  const now = Date.now();
+  for (const sub of subs) {
+    const age = sub.created ? Math.floor((now - sub.created) / 86400000) + "d" : "?";
+    let host = "?";
+    try { host = new URL(sub.endpoint).host; } catch (e) { host = "?"; }
+    console.log(
+      "  " + sub.id.slice(0, 8) +
+      "  lang=" + sub.lang +
+      "  at=" + (sub.created ? new Date(sub.created).toISOString() : "?") +
+      "  tz=" + (sub.tz || "?") +
+      "  push=" + host +
+      "  ua=" + (sub.ua || "?")
+    );
+  }
+}
+
 /* ---------- Google auth ---------- */
 
 function base64url(buf) {
@@ -163,6 +185,10 @@ async function listSubscribers(token, projectId) {
         endpoint: endpoint,
         keys: { p256dh: p256dh, auth: auth },
         lang: (f.lang && f.lang.stringValue) || "en",
+        /* Metadata only, for the dry-run report. */
+        ua: (f.ua && f.ua.stringValue) || "",
+        tz: (f.tz && f.tz.stringValue) || "",
+        created: Number((f.created && f.created.integerValue) || 0),
       });
     }
     pageToken = body.nextPageToken || null;
@@ -206,7 +232,7 @@ async function main() {
   console.log("Subscribers:  " + subs.length);
 
   if (args.dryRun) {
-    console.log("Dry run — nothing sent.");
+    reportSubscribers(subs);
     return;
   }
 
@@ -232,12 +258,22 @@ async function main() {
     });
 
     try {
-      await webpush.sendNotification(
+      const res = await webpush.sendNotification(
         { endpoint: sub.endpoint, keys: sub.keys },
         payload,
-        { TTL: 60 * 60 * 24 }
+        {
+          TTL: 60 * 60 * 24,
+          /* Android holds normal-urgency messages until the phone leaves
+             Doze, which can be hours. A study alert is worth waking for. */
+          urgency: "high",
+        }
       );
       sent++;
+      console.log(
+        "  ok " + sub.id.slice(0, 8) +
+        " http=" + ((res && res.statusCode) || "?") +
+        " msg=" + (((res && res.headers) || {})["location"] || "-")
+      );
     } catch (err) {
       /* 404/410 means the browser is gone for good — clean the row so the
          next broadcast is faster. Anything else is transient. */
