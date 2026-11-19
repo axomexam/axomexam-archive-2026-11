@@ -38,10 +38,10 @@
      read from push-config.js so preview and production differ by one value
      instead of a code change. */
   const DEFAULT_DWELL_MS = 45000;
-  const DISMISS_COOLDOWN_MS = 7 * 24 * 60 * 60 * 1000;
-  /* How long a shown-but-unanswered prompt suppresses itself. Long enough to
-     stop the same visit from re-asking on every page, short enough that a
-     returning reader gets another chance. */
+  /* "Not now" and a prompt that was left unanswered both rest for three
+     days. The two are kept as separate constants because they answer
+     different questions and may drift apart later. */
+  const DISMISS_COOLDOWN_MS = 3 * 24 * 60 * 60 * 1000;
   const SHOWN_COOLDOWN_MS = 3 * 24 * 60 * 60 * 1000;
   const PROMPT_KEY = "axomexam-push-prompt";
   const DWELL_KEY = "axomexam-push-dwell";
