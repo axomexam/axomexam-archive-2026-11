@@ -68,7 +68,7 @@ Push ke liye **`tools/safe-push.sh origin main`** use karo (force push kabhi nah
 | 6 | Challenge link (dost ko bhejo) | Ek student = 5 naye | Medium | `todo` |
 | 7 | Telegram / WhatsApp channel | Audience wahin hai | Medium | `todo` |
 | 8 | Exam countdown (homepage) | Urgency, roz check | Chhota | `todo` |
-| 9 | Real web push notification | Bina site khole wapas laao | Medium | `done` (owner setup baaki) |
+| 9 | Real web push notification | Bina site khole wapas laao | Medium | `done` ✅ |
 | 10 | 17 missing pages banao | 1,931 sawaal pada hai | Medium | `todo` |
 | 11 | Daily current affairs | Roz ka sabse bada traffic | Regular | `todo` |
 | 12 | SEO fixes (audit se) | Google se zyada log | Medium | `todo` |
@@ -207,16 +207,18 @@ Twitter / download / copy) — `js/app.src.js` mein `share-modal` aur
 
 ---
 
-### 9. Real web push notification — **`done` (owner setup baaki)**
+### 9. Real web push notification — **`done`** ✅
 
 **Ab kya hai:** Notification pehle sirf **page ke andar** the (`NOTIFICATIONS`
 array, `axomexam-notif-read` key). User site khole tab hi dikhte the.
 
 **Ab kya ho gaya hai:** Asli browser push notification, opt-in ke saath.
 
-- **Opt-in:** Bell panel ke andar ek row hai — "Browser notifications /
-  Turn on". Permission sirf us tap par maangi jaati hai, page load par kabhi
-  nahi (warna Chrome/Edge prompt ignore kar dete hain).
+- **Opt-in:** 90 second padhne ke baad ek prompt aata hai (ek baar). Band sirf
+  do buttons se hota hai — "Turn on notifications" ya "Not now". Backdrop
+  click, Escape aur close X jaan-boojh kar ignore hote hain, taaki galti se tap
+  se jawab na chala jaye. Page load par permission kabhi nahi maangi jaati
+  (warna Chrome/Edge prompt ignore kar dete hain).
 - **Ek hi feed:** `data/notifications.json` hi dono ka source hai — bell ki
   list aur bheja jaane wala push. Text kabhi alag nahi hota.
 - **Do bhasha:** Har subscription apni bhasha (`lang`) ke saath save hoti hai,
@@ -235,11 +237,10 @@ array, `axomexam-notif-read` key). User site khole tab hi dikhte the.
 `js/app.src.js`, `data/notifications.json`, `tools/send-push.js`,
 `.github/workflows/push-notify.yml`, `scripts/inject-push.js`.
 
-**Owner ko ek baar karna hoga (code se nahi hota):**
+**Owner setup — ho chuka hai (19 Nov 2026):**
 
-1. **Firestore rules** — Firebase console → Firestore → Rules. `push_subs`
-   par public ko sirf create/delete do, read **nahi** (endpoint kaafi hai
-   kisi ko push bhejne ke liye):
+1. **Firestore rules** — `push_subs` par public ko sirf create/delete, read
+   nahi (verify kiya: anonymous read 403 deta hai, matlab rules theek hain):
 
    ```
    match /push_subs/{id} {
@@ -248,16 +249,16 @@ array, `axomexam-notif-read` key). User site khole tab hi dikhte the.
    }
    ```
 
-2. **GitHub secrets** — repo → Settings → Secrets and variables → Actions:
+2. **GitHub secrets** — chaaron set hain:
 
-   | Secret | Value |
+   | Secret | Status |
    |---|---|
-   | `VAPID_PUBLIC_KEY` | `js/push-config.js` wali public key |
-   | `VAPID_PRIVATE_KEY` | private key (kabhi commit nahi) |
-   | `VAPID_SUBJECT` | `mailto:contact@axomexam.in` |
-   | `FIREBASE_SA_JSON` | service-account JSON (poora, ek line) |
+   | `VAPID_PUBLIC_KEY` | set |
+   | `VAPID_PRIVATE_KEY` | set |
+   | `VAPID_SUBJECT` | set |
+   | `FIREBASE_SA_JSON` | set (service account, `Cloud Datastore User` role) |
 
-   Service account ko `Cloud Datastore User` role chahiye.
+   Dry run se verify kiya: subscriber count aata hai, kuch bheja nahi jaata.
 
 **Roz ka kaam:** `data/notifications.json` mein item jodo → Actions se
 "Send notification" chalao. Bas.

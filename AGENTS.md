@@ -14,8 +14,10 @@ data/notifications.json ──┬─→ bell list  (js/app.src.js fetches it at 
                           └─→ broadcast  (tools/send-push.js reads it)
 ```
 
-- **`js/push.src.js`** — the opt-in row inside the bell panel. Permission is
-  requested only on that tap. Subscriptions go to Firestore `push_subs`, one
+- **`js/push.src.js`** — a dwell prompt that appears once a visitor has read
+  for `promptDelayMs` (90 s). It closes only through its two buttons; backdrop
+  clicks, Escape and a close X are ignored on purpose, so a stray tap cannot
+  answer for the visitor. Subscriptions go to Firestore `push_subs`, one
   document per browser, id = `sha256(endpoint)`, with the visitor's `lang` so a
   bilingual item is delivered in the language they read.
 - **`sw.js`** — `push`, `notificationclick`, `pushsubscriptionchange`. The

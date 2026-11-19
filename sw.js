@@ -29,6 +29,8 @@ const PRECACHE = [
   "/js/leaderboard-ui.js?v=a867886f",
   "/js/push.js?v=50ef3fbf",
   "/app/axomexam-icon.png",
+  "/android-chrome-192x192.png",
+  "/notification-badge.png",
 ];
 
 const STATIC_RE = /\.(?:css|js|mjs|png|jpe?g|gif|webp|avif|svg|ico|woff2?|ttf|otf|eot)$/i;
@@ -145,8 +147,17 @@ self.addEventListener("push", (event) => {
   event.waitUntil(
     self.registration.showNotification(title, {
       body: body,
-      icon: "/android-chrome-192x192.png",
-      badge: "/android-chrome-192x192.png",
+      /* Absolute URLs: Chrome resolves a relative icon against the service
+         worker scope, and a miss silently falls back to the Chrome logo.
+         The payload may override either one so a future item can carry its
+         own artwork. */
+      icon: data.icon ? new URL(data.icon, self.location.origin).href
+                      : self.location.origin + "/android-chrome-192x192.png",
+      /* The badge is masked to a single colour by the OS, so it must be a
+         transparent glyph on transparent ground. A full-colour square here
+         renders as a grey blob on Android. */
+      badge: data.badge ? new URL(data.badge, self.location.origin).href
+                        : self.location.origin + "/notification-badge.png",
       /* One tag per item, so re-sending the same item replaces the old
          notification instead of stacking duplicates on the lock screen. */
       tag: data.id || "axomexam",

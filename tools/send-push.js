@@ -227,6 +227,8 @@ async function main() {
       title: pick(item.title),
       body: pick(item.body),
       url: item.url,
+      icon: "/android-chrome-192x192.png",
+      badge: "/notification-badge.png",
     });
 
     try {
