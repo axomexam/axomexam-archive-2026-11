@@ -50,15 +50,11 @@
     promptYes: { en: "Turn on notifications", as: "জাননী চালু কৰক" },
     promptNo: { en: "Not now", as: "এতিয়া নহয়" },
     promptBusy: { en: "Please wait…", as: "অনুগ্ৰহ কৰি অপেক্ষা কৰক…" },
-    promptDone: {
-      en: "Notifications are on. We will only send new practice sets and exam updates.",
-      as: "জাননী চালু হৈছে। আমি কেৱল নতুন অনুশীলন সংহতি আৰু পৰীক্ষাৰ আপডেট পঠিয়াম।",
+    promptAllowTitle: { en: "Tap Allow in the browser box", as: "ব্ৰাউজাৰৰ বাকচত Allow টিপক" },
+    promptAllowBody: {
+      en: "Your browser is asking now. Choose Allow so exam updates reach you.",
+      as: "আপোনাৰ ব্ৰাউজাৰে এতিয়া সোধিছে। পৰীক্ষাৰ আপডেট পাবলৈ Allow বাছনি কৰক।",
     },
-    promptFail: {
-      en: "Could not turn notifications on. Please allow notifications for axomexam.in in your browser settings.",
-      as: "জাননী চালু কৰিব পৰা নগ'ল। অনুগ্ৰহ কৰি ব্ৰাউজাৰৰ ছেটিংছত axomexam.in-ৰ বাবে জাননীৰ অনুমতি দিয়ক।",
-    },
-    promptClose: { en: "Close", as: "বন্ধ কৰক" },
   };
 
   let busy = false;
@@ -207,23 +203,22 @@
   async function enable() {
     if (busy) return false;
     busy = true;
-    cancelPrompt();
 
     try {
       const permission = await Notification.requestPermission();
-      if (permission === "granted") {
-        const reg = await registration();
-        let sub = await reg.pushManager.getSubscription();
-        if (!sub) {
-          sub = await reg.pushManager.subscribe({
-            userVisibleOnly: true,
-            applicationServerKey: base64ToUint8(cfg().vapidPublicKey),
-          });
-        }
-        subscribed = await saveSubscription(sub);
-      } else {
+      if (permission !== "granted") {
         subscribed = false;
+        return false;
       }
+      const reg = await registration();
+      let sub = await reg.pushManager.getSubscription();
+      if (!sub) {
+        sub = await reg.pushManager.subscribe({
+          userVisibleOnly: true,
+          applicationServerKey: base64ToUint8(cfg().vapidPublicKey),
+        });
+      }
+      subscribed = await saveSubscription(sub);
     } catch (e) {
       subscribed = false;
     } finally {
@@ -337,20 +332,25 @@
   }
 
   async function acceptPrompt(host) {
-    const actions = host.querySelector("[data-prompt-actions]");
+    const title = host.querySelector(".axo-push-prompt-title");
     const body = host.querySelector("[data-prompt-body]");
+    const actions = host.querySelector("[data-prompt-actions]");
+
+    /* The browser's permission box appears beside this one. Tell the visitor
+       what to press there, and leave both buttons visible so the card never
+       looks stuck while the native box waits for an answer. */
+    if (title) title.textContent = s("promptAllowTitle");
+    if (body) body.textContent = s("promptAllowBody");
     if (actions) actions.innerHTML = '<button class="axo-push-prompt-yes" type="button" disabled>' + s("promptBusy") + "</button>";
 
     const ok = await enable();
-    rememberPrompt({ acceptedAt: Date.now() });
 
-    if (body) body.textContent = ok ? s("promptDone") : s("promptFail");
-    if (actions) {
-      actions.innerHTML = '<button class="axo-push-prompt-no" type="button" data-prompt="no">' + s("promptClose") + "</button>";
-    }
-    if (ok) {
-      window.setTimeout(cancelPrompt, 4000);
-    }
+    /* A blocked answer, or a box closed without choosing, both land here with
+       permission still open. Treated like "Not now" so the dwell timer cannot
+       reopen the card on this page, while a later visit may still ask. */
+    if (!ok) rememberPrompt({ dismissedAt: Date.now() });
+
+    cancelPrompt();
   }
 
   /* Count only the time the tab is actually in front of the visitor, so a
