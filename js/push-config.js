@@ -30,8 +30,10 @@ window.AXOMEXAM_PUSH_CONFIG = {
      project) so the two never share a database. */
   projectId: "axomexam-web-push",
   apiKey: "AIzaSyC501rLZyw7kTC5W8DNnyIc7WUPHJ_0zME",
-  /* How long a visitor must spend on the site before the opt-in prompt is
-     offered. This one value is the whole switch: preview used 15000,
-     production ships 90000 (1.5 minutes). */
-  promptDelayMs: 90000,
+  /* How long a visitor must stay on the site before the opt-in prompt is
+     offered. Plain time, counted across the whole visit — no scrolling,
+     clicking or reading is required, and changing pages neither restarts
+     nor pauses it. A study site is browsed topic by topic, so a per-page
+     timer would restart on every tap and rarely finish. */
+  promptDelayMs: 45000,
 };
