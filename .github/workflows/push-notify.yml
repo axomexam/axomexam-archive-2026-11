@@ -1,0 +1,68 @@
+name: Send notification
+
+# Aap yahan se notification bhejte hain:
+#   1. data/notifications.json mein naya item jodiye (sabse upar).
+#   2. GitHub -> Actions -> "Send notification" -> Run workflow.
+#      "item" khali = sabse naya item jayega, ya id likhiye.
+#   3. Site ka bell usi file se padhta hai, isliye dono jagah ek hi text
+#      dikhta hai.
+
+on:
+  workflow_dispatch:
+    inputs:
+      item:
+        description: "data/notifications.json se item id (khali = sabse naya)"
+        required: false
+        type: string
+      lang:
+        description: "Sabko ek hi bhasha mein bhejein (khali = har user ki apni)"
+        required: false
+        type: choice
+        options:
+          - ""
+          - en
+          - as
+      dry_run:
+        description: "Sirf count dekhein, kuch bhejein nahi"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install web-push
+        run: npm install --no-save --no-audit --no-fund web-push@3
+
+      - name: Send
+        env:
+          VAPID_PUBLIC_KEY: ${{ secrets.VAPID_PUBLIC_KEY }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
+          FIREBASE_SA_JSON: ${{ secrets.FIREBASE_SA_JSON }}
+          FIREBASE_PROJECT_ID: axomexam-web-push
+          # Passed through env rather than interpolated into the script, so a
+          # value can never be read as shell syntax.
+          ITEM: ${{ inputs.item }}
+          LANG: ${{ inputs.lang }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          # A bash array keeps each value a single argument, so an item id can
+          # never turn into extra flags or shell syntax.
+          ARGS=()
+          if [ -n "$ITEM" ]; then ARGS+=(--id "$ITEM"); fi
+          if [ -n "$LANG" ]; then ARGS+=(--lang "$LANG"); fi
+          if [ "$DRY_RUN" = "true" ]; then ARGS+=(--dry-run); fi
+          node tools/send-push.js "${ARGS[@]}"
