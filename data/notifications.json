@@ -2,6 +2,18 @@
   "_readme": "Yeh hi jagah hai jahan aap notification likhte hain. Neeche 'items' mein ek entry jodiye, phir GitHub par 'Send notification' workflow chalaiye. Site par bell list aur users ke phone/desktop par browser notification — dono isi file se aate hain. 'id' unique rakhiye (dobara wahi id na dein). 'title' aur 'body' dono language mein likhiye.",
   "items": [
     {
+      "id": "mock-test-12-exams",
+      "title": {
+        "en": "Free mock tests for 12 exams — start now",
+        "as": "১২ টা পৰীক্ষাৰ বিনামূলীয়া মক টেষ্ট — এতিয়াই আৰম্ভ কৰক"
+      },
+      "body": {
+        "en": "ADRE Grade III & IV, APSC, Assam Police, TET, DHS & DME, SSC and Railway. Timed full papers with bilingual answers.",
+        "as": "ADRE তৃতীয় আৰু চতুৰ্থ শ্ৰেণী, APSC, অসম আৰক্ষী, TET, DHS আৰু DME, SSC আৰু Railway। দ্বিভাষিক উত্তৰৰ সৈতে সময়বদ্ধ সম্পূৰ্ণ প্ৰশ্নকাকত।"
+      },
+      "url": "/exam-wise-mock-test/"
+    },
+    {
       "id": "rrb-ntpc-book",
       "title": {
         "en": "RRB NTPC full guide free book is live",
