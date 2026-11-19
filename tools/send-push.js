@@ -257,6 +257,15 @@ async function main() {
       badge: "/notification-badge.png",
     });
 
+    /* An automated browser can hold a valid subscription that no person
+       will ever see. It accepts every push, so it inflates the count and
+       hides the real audience — drop it before it is counted. */
+    if (/HeadlessChrome/i.test(sub.ua || "")) {
+      await deleteDoc(token, projectId, sub.id);
+      console.log("  removed automated browser " + sub.id.slice(0, 8));
+      continue;
+    }
+
     try {
       const res = await webpush.sendNotification(
         { endpoint: sub.endpoint, keys: sub.keys },
