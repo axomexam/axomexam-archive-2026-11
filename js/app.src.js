@@ -9655,9 +9655,26 @@
     foot: { en: "Tap a notification to open it", as: "খুলিবলৈ এটা জাননীত টিপক" },
   };
 
-  /* Read state is per-browser, keyed by href so it survives a reorder. */
+  /* The array above is the offline fallback. The live list comes from
+     /data/notifications.json, the same file tools/send-push.js broadcasts
+     from, so the bell and the phone notification never disagree. */
+  const NOTIF_FEED = "/data/notifications.json";
+
+  /* Read state is per-browser, keyed by item id (or href when the feed has
+     no id) so it survives a reorder. */
   const NOTIF_READ_KEY = "axomexam-notif-read";
   let notifRead = null;
+
+  function notifKey(n) {
+    return n && (n.id || n.href) || "";
+  }
+
+  /* Older read sets were keyed by href alone. Accepting either key keeps a
+     visitor's already-read items read after the feed starts using ids. */
+  function notifIsRead(n, read) {
+    const k = notifKey(n);
+    return !!k && (read.has(k) || (!!n.href && read.has(n.href)));
+  }
 
   function notifReadSet() {
     if (notifRead) return notifRead;
@@ -9676,13 +9693,13 @@
 
   function notifUnreadCount() {
     const read = notifReadSet();
-    return NOTIFICATIONS.filter((n) => !read.has(n.href)).length;
+    return notifItems().filter((n) => !notifIsRead(n, read)).length;
   }
 
-  function notifMarkRead(href) {
+  function notifMarkRead(key) {
     const read = notifReadSet();
-    if (read.has(href)) return false;
-    read.add(href);
+    if (!key || read.has(key)) return false;
+    read.add(key);
     notifSaveRead();
     renderNotifications();
     return true;
@@ -9691,7 +9708,10 @@
   function notifMarkAllRead() {
     const read = notifReadSet();
     let changed = false;
-    NOTIFICATIONS.forEach((n) => { if (!read.has(n.href)) { read.add(n.href); changed = true; } });
+    notifItems().forEach((n) => {
+      const k = notifKey(n);
+      if (k && !notifIsRead(n, read)) { read.add(k); changed = true; }
+    });
     if (changed) { notifSaveRead(); renderNotifications(); }
   }
 
@@ -9701,6 +9721,45 @@
     if (!entry) return "";
     const v = entry[l] || entry.en;
     return typeof v === "function" ? v(notifUnreadCount()) : v;
+  }
+
+  /* Items shown in the bell: the live feed when it has loaded, otherwise the
+     baked-in fallback above. Kept as a function so a late fetch can repaint
+     the panel without rebuilding the header. */
+  let notifFeedItems = null;
+
+  function notifItems() {
+    return notifFeedItems && notifFeedItems.length ? notifFeedItems : NOTIFICATIONS;
+  }
+
+  function normalizeFeedItem(raw) {
+    if (!raw || !raw.url) return null;
+    const title = raw.title && typeof raw.title === "object" ? raw.title : { en: raw.title, as: raw.title };
+    const body = raw.body || raw.desc || {};
+    return {
+      id: raw.id || raw.url,
+      href: raw.url,
+      title: { en: title.en || title.as || "", as: title.as || title.en || "" },
+      desc: {
+        en: (body.en || (typeof body === "string" ? body : "")) || "",
+        as: (body.as || body.en || (typeof body === "string" ? body : "")) || "",
+      },
+    };
+  }
+
+  async function loadNotifFeed() {
+    try {
+      const res = await fetch(NOTIF_FEED, { cache: "no-store" });
+      if (!res.ok) return;
+      const data = await res.json();
+      const list = Array.isArray(data) ? data : (data && data.items) || [];
+      const items = list.map(normalizeFeedItem).filter(Boolean);
+      if (!items.length) return;
+      notifFeedItems = items;
+      renderNotifications();
+    } catch (e) {
+      /* Offline or a malformed file: the fallback array stays on screen. */
+    }
   }
 
   function notificationText(obj) {
@@ -9742,11 +9801,15 @@
     const foot = document.getElementById("notif-foot");
     if (foot) foot.textContent = notifString("foot");
 
-    list.innerHTML = NOTIFICATIONS.map((n, i) => `
-      <a class="notif-item${read.has(n.href) ? " is-read" : ""}" href="${n.href}" data-href="${n.href}">
+    list.innerHTML = notifItems().map((n, i) => {
+      const k = notifKey(n);
+      return `
+      <a class="notif-item${notifIsRead(n, read) ? " is-read" : ""}" href="${escapeHtml(n.href)}" data-key="${escapeHtml(k)}">
         <span class="notif-num">${i + 1}</span>
         <span class="notif-body"><b>${escapeHtml(notificationText(n.title))}</b><span>${escapeHtml(notificationText(n.desc))}</span></span>
-      </a>`).join("");
+      </a>`;
+    }).join("");
+
   }
 
   function initNotifications() {
@@ -9797,7 +9860,7 @@
     list.addEventListener("click", (e) => {
       const item = e.target.closest(".notif-item");
       if (!item) return;
-      if (item.dataset.href) notifMarkRead(item.dataset.href);
+      if (item.dataset.key) notifMarkRead(item.dataset.key);
       close();
     });
 
@@ -9820,6 +9883,8 @@
     window.addEventListener("popstate", close);
 
     renderNotifications();
+    loadNotifFeed();
+
   }
 
   /* ================= Mobile App Download Prompt ================= */

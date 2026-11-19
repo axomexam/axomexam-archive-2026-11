@@ -68,7 +68,7 @@ Push ke liye **`tools/safe-push.sh origin main`** use karo (force push kabhi nah
 | 6 | Challenge link (dost ko bhejo) | Ek student = 5 naye | Medium | `todo` |
 | 7 | Telegram / WhatsApp channel | Audience wahin hai | Medium | `todo` |
 | 8 | Exam countdown (homepage) | Urgency, roz check | Chhota | `todo` |
-| 9 | Real web push notification | Bina site khole wapas laao | Medium | `todo` |
+| 9 | Real web push notification | Bina site khole wapas laao | Medium | `done` (owner setup baaki) |
 | 10 | 17 missing pages banao | 1,931 sawaal pada hai | Medium | `todo` |
 | 11 | Daily current affairs | Roz ka sabse bada traffic | Regular | `todo` |
 | 12 | SEO fixes (audit se) | Google se zyada log | Medium | `todo` |
@@ -207,22 +207,60 @@ Twitter / download / copy) — `js/app.src.js` mein `share-modal` aur
 
 ---
 
-### 9. Real web push notification
+### 9. Real web push notification — **`done` (owner setup baaki)**
 
-**Ab kya hai:** Notification **page ke andar** hain (`NOTIFICATIONS` array,
-`js/app.src.js` line ~9558, `axomexam-notif-read` key). User site khole tab hi
-dikhte hain. PWA manifest already hai (`display: standalone`).
+**Ab kya hai:** Notification pehle sirf **page ke andar** the (`NOTIFICATIONS`
+array, `axomexam-notif-read` key). User site khole tab hi dikhte the.
 
-**Kya karna hai:**
+**Ab kya ho gaya hai:** Asli browser push notification, opt-in ke saath.
 
-- Service worker (`sw.js`) mein push event handler add karo
-- Notification permission maango (user ke click par, pehle nahi)
-- Push bhejne ke liye ek backend/channel chahiye (Firebase ya similar) —
-  **ye decision owner ka hai**, kyunki GitHub Pages par server nahi hota
+- **Opt-in:** Bell panel ke andar ek row hai — "Browser notifications /
+  Turn on". Permission sirf us tap par maangi jaati hai, page load par kabhi
+  nahi (warna Chrome/Edge prompt ignore kar dete hain).
+- **Ek hi feed:** `data/notifications.json` hi dono ka source hai — bell ki
+  list aur bheja jaane wala push. Text kabhi alag nahi hota.
+- **Do bhasha:** Har subscription apni bhasha (`lang`) ke saath save hoti hai,
+  isliye Assamese UI wale user ko Assamese push jaata hai, English wale ko
+  English. (Test se verify kiya — decrypt karke dono payload dekhe gaye.)
+- **Bhejna:** GitHub → Actions → **"Send notification"** → Run workflow.
+  Item id khali chhodo = sabse naya item jaayega. `dry_run` se sirf count
+  dekh sakte ho, kuch bhejne se pehle.
+- **Dead subscription:** 404/410 aane par Firestore row khud delete ho jaati
+  hai, taaki agli baar broadcast tez rahe.
+- **iPhone:** iOS par Web Push sirf Home Screen app ko milta hai. Safari tab
+  mein row "pehle Home Screen par add karo" batati hai — chup-chaap gayab
+  nahi hoti.
 
-**Files:** `sw.js`, `js/app.src.js`, `js/config.src.js`.
+**Files:** `sw.js`, `js/push.src.js`, `js/push-config.js`,
+`js/app.src.js`, `data/notifications.json`, `tools/send-push.js`,
+`.github/workflows/push-notify.yml`, `scripts/inject-push.js`.
 
-**Note:** Sabse bada kaam isme hai. Pehle item 1-3 karo, ye baad mein.
+**Owner ko ek baar karna hoga (code se nahi hota):**
+
+1. **Firestore rules** — Firebase console → Firestore → Rules. `push_subs`
+   par public ko sirf create/delete do, read **nahi** (endpoint kaafi hai
+   kisi ko push bhejne ke liye):
+
+   ```
+   match /push_subs/{id} {
+     allow create, delete: if true;
+     allow read, update: if false;
+   }
+   ```
+
+2. **GitHub secrets** — repo → Settings → Secrets and variables → Actions:
+
+   | Secret | Value |
+   |---|---|
+   | `VAPID_PUBLIC_KEY` | `js/push-config.js` wali public key |
+   | `VAPID_PRIVATE_KEY` | private key (kabhi commit nahi) |
+   | `VAPID_SUBJECT` | `mailto:contact@axomexam.in` |
+   | `FIREBASE_SA_JSON` | service-account JSON (poora, ek line) |
+
+   Service account ko `Cloud Datastore User` role chahiye.
+
+**Roz ka kaam:** `data/notifications.json` mein item jodo → Actions se
+"Send notification" chalao. Bas.
 
 ---
 

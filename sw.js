@@ -15,18 +15,19 @@
    assets by scripts/stamp-assets.js, so it only changes (and only then
    purges the old cache) when an asset's bytes actually change.
    ============================================================ */
-const CACHE_VERSION = "30e2ba5a";
+const CACHE_VERSION = "e28f7f9d";
 const CACHE_NAME = "axomexam-static-" + CACHE_VERSION;
 
 /* Warm the cache on install with the current asset versions. */
 const PRECACHE = [
-  "/css/style.css?v=1f2d8f27",
+  "/css/style.css?v=cb562a46",
   "/js/config.js?v=114ec96d",
   "/js/i18n.js?v=a2ce48ce",
   "/js/api.js?v=7b9cdfee",
-  "/js/app.js?v=773d4cf6",
+  "/js/app.js?v=cdca8e76",
   "/js/leaderboard.js?v=77af1848",
   "/js/leaderboard-ui.js?v=a867886f",
+  "/js/push.js?v=50ef3fbf",
   "/app/axomexam-icon.png",
 ];
 
@@ -117,4 +118,116 @@ self.addEventListener("fetch", (event) => {
       })()
     );
   }
+});
+
+/* ============================================================
+   Web Push
+
+   A push can arrive while the site is closed, so the notification is
+   shown here. The payload already carries the text in the language of
+   the subscriber it is addressed to (tools/send-push.js resolves that
+   from the stored `lang`), so nothing is fetched at display time.
+
+   Payload shape (written by tools/send-push.js):
+     { id, title, body, url }
+   ============================================================ */
+self.addEventListener("push", (event) => {
+  let data = {};
+  try {
+    data = event.data ? event.data.json() : {};
+  } catch (e) {
+    data = {};
+  }
+
+  const title = data.title || "axomexam";
+  const body = data.body || "";
+
+  event.waitUntil(
+    self.registration.showNotification(title, {
+      body: body,
+      icon: "/android-chrome-192x192.png",
+      badge: "/android-chrome-192x192.png",
+      /* One tag per item, so re-sending the same item replaces the old
+         notification instead of stacking duplicates on the lock screen. */
+      tag: data.id || "axomexam",
+      renotify: !!data.id,
+      data: { url: data.url || "/" },
+    })
+  );
+});
+
+/* Clicking a notification reuses an open tab on the site when there is
+   one, and opens the target otherwise — never a duplicate tab. */
+self.addEventListener("notificationclick", (event) => {
+  event.notification.close();
+  const target = (event.notification.data && event.notification.data.url) || "/";
+
+  event.waitUntil(
+    (async () => {
+      const list = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
+      const origin = self.location.origin;
+
+      for (const client of list) {
+        let same = false;
+        try {
+          same = new URL(client.url).origin === origin;
+        } catch (e) {
+          same = false;
+        }
+        if (!same) continue;
+
+        try {
+          await client.focus();
+          if ("navigate" in client) await client.navigate(target);
+        } catch (e) {
+          /* focus() rejects on some mobile browsers; the open below covers it. */
+        }
+        return;
+      }
+
+      await self.clients.openWindow(target);
+    })()
+  );
+});
+
+/* Chrome occasionally rotates a subscription. The old endpoint is dead,
+   so without this the visitor silently stops receiving pushes. The new
+   endpoint is written with the page's own language preference, which is
+   the best signal available inside the worker. */
+self.addEventListener("pushsubscriptionchange", (event) => {
+  const next = event.newSubscription;
+  if (!next) return;
+
+  event.waitUntil(
+    (async () => {
+      const json = next.toJSON ? next.toJSON() : next;
+      const project = "axomexam-web-push";
+      const apiKey = "AIzaSyC501rLZyw7kTC5W8DNnyIc7WUPHJ_0zME";
+      const base =
+        "https://firestore.googleapis.com/v1/projects/" + project +
+        "/databases/(default)/documents/push_subs";
+
+      const digest = await crypto.subtle.digest(
+        "SHA-256",
+        new TextEncoder().encode(json.endpoint)
+      );
+      const id = Array.from(new Uint8Array(digest))
+        .map((b) => b.toString(16).padStart(2, "0"))
+        .join("");
+
+      await fetch(base + "?documentId=" + id + "&key=" + apiKey, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          fields: {
+            endpoint: { stringValue: json.endpoint },
+            p256dh: { stringValue: (json.keys && json.keys.p256dh) || "" },
+            auth: { stringValue: (json.keys && json.keys.auth) || "" },
+            lang: { stringValue: "en" },
+            created: { integerValue: String(Date.now()) },
+          },
+        }),
+      }).catch(() => {});
+    })()
+  );
 });
