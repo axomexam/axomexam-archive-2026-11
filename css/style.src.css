@@ -359,6 +359,14 @@ h1, h2, h3, h4 { line-height: 1.25; font-weight: 700; }
 .notif-item.is-read .notif-num { background: var(--bg-tint); color: var(--ink-faint); }
 .notif-item.is-read .notif-body b { font-weight: 600; color: var(--ink-soft); }
 .notif-foot { padding: 9px 12px; text-align: center; font-size: .72rem; color: var(--ink-faint); border-top: 1px solid var(--line); }
+/* iOS only gets Web Push from an installed home-screen app, so the panel
+   carries the install steps instead of an opt-in button that cannot work. */
+.notif-ios { display: flex; gap: 8px; padding: 11px 12px; border-top: 1px solid var(--line); background: var(--bg-tint); }
+.notif-ios-ico { flex-shrink: 0; width: 22px; height: 22px; border-radius: 7px; display: grid; place-items: center; background: var(--primary); color: #fff; }
+.notif-ios-ico svg { width: 13px; height: 13px; }
+.notif-ios-txt { font-size: .72rem; line-height: 1.5; color: var(--ink-soft); }
+.notif-ios-txt b { display: block; font-size: .74rem; font-weight: 800; color: var(--ink); margin-bottom: 2px; }
+[data-theme="dark"] .notif-ios { background: var(--bg-soft); }
 
 
 /* ============================================================

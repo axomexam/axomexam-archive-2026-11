@@ -3,11 +3,11 @@
 
    Browser (Web Push) notifications, opt-in only.
 
-   Nothing here asks for permission on page load. The visitor sees a
-   row inside the existing header bell panel and turns it on with a
-   tap; only that tap calls Notification.requestPermission(). A prompt
-   shown without a gesture is ignored by most browsers and annoyed
-   everyone, so the row is the single entry point.
+   Nothing here asks for permission on page load. A visitor who has stayed
+   45 seconds is shown an in-page card, and only its "Turn on
+   notifications" button calls Notification.requestPermission(). A prompt
+   shown without a gesture is ignored by most browsers, so a real tap is
+   the single entry point.
 
    Where the subscription lives
      Firestore collection push_subs, one document per browser, id =
@@ -33,13 +33,19 @@
 
   const LS_LANG = "axomexam-ui-lang";
 
-  /* How long a visitor must actually spend on the site before the opt-in
-     prompt is offered, and how long "Not now" is respected. The delay is
+  /* How long a visitor must stay on the site before the opt-in prompt is
+     offered, and how long "Not now" is respected. The delay is
      read from push-config.js so preview and production differ by one value
      instead of a code change. */
-  const DEFAULT_DWELL_MS = 120000;
-  const DISMISS_COOLDOWN_MS = 7 * 24 * 60 * 60 * 1000;
+  const DEFAULT_DWELL_MS = 45000;
+  /* "Not now" and a prompt that was left unanswered both rest for three
+     days. The two are kept as separate constants because they answer
+     different questions and may drift apart later. */
+  const DISMISS_COOLDOWN_MS = 3 * 24 * 60 * 60 * 1000;
+  const SHOWN_COOLDOWN_MS = 3 * 24 * 60 * 60 * 1000;
   const PROMPT_KEY = "axomexam-push-prompt";
+  const DWELL_KEY = "axomexam-push-dwell";
+  const RESULT_GRACE_MS = 6000;
 
   const STR = {
     promptTitle: { en: "Never miss a new practice set", as: "নতুন অনুশীলন সংহতি নেৰিব" },
@@ -61,9 +67,9 @@
   let subscribed = false;
   let statePromise = null;
   let promptEl = null;
-  let dwellAccum = 0;
   let dwellStart = null;
   let dwellTicker = null;
+  let resultSeenAt = 0;
 
   function lang() {
     try {
@@ -101,11 +107,10 @@
     );
   }
 
-  /* iOS exposes Web Push only to a site added to the Home Screen, and
-     reports no PushManager in a normal tab. Turning that silent absence
-     into a hint is the difference between "broken" and "install first". */
-  /* iOS only delivers Web Push to an installed home-screen app, so the
-     prompt is pointless in Safari's browser tab. */
+  /* iOS delivers Web Push only to a site added to the Home Screen, and a
+     normal Safari tab reports no PushManager at all. The opt-in prompt is
+     therefore pointless there; the header bell shows the install steps
+     instead, through PUSH.needsInstall. */
   function isIosNeedingInstall() {
     const ua = navigator.userAgent || "";
     const iOS = /iPad|iPhone|iPod/.test(ua) || (ua.includes("Macintosh") && "ontouchend" in document);
@@ -267,6 +272,10 @@
     if (document.visibilityState !== "visible") return false;
     const seen = promptMemory();
     if (seen.dismissedAt && Date.now() - seen.dismissedAt < DISMISS_COOLDOWN_MS) return false;
+    /* The prompt is shown once per visit, not once per page. Without this a
+       visitor who reads past the threshold and simply navigates on would be
+       asked again on every topic they open. */
+    if (seen.shownAt && Date.now() - seen.shownAt < SHOWN_COOLDOWN_MS) return false;
     if (testRunning() || dialogOpen()) return false;
     return true;
   }
@@ -311,6 +320,7 @@
     host.innerHTML = promptMarkup();
     document.body.appendChild(host);
     promptEl = host;
+    rememberPrompt({ shownAt: Date.now() });
     window.requestAnimationFrame(function () {
       host.classList.add("is-in");
     });
@@ -355,9 +365,25 @@
 
   /* Count only the time the tab is actually in front of the visitor, so a
      page left open in a background tab does not trigger the prompt the
-     moment it is reopened. */
+     moment it is reopened. Kept in sessionStorage so walking from topic to
+     topic adds up instead of restarting the clock on every page load. */
+  function dwellStored() {
+    try {
+      const v = Number(sessionStorage.getItem(DWELL_KEY) || 0);
+      return v > 0 ? v : 0;
+    } catch (e) {
+      return 0;
+    }
+  }
+
+  function dwellSave(ms) {
+    try {
+      sessionStorage.setItem(DWELL_KEY, String(Math.round(ms)));
+    } catch (e) {}
+  }
+
   function dwellElapsed() {
-    return dwellAccum + (dwellStart === null ? 0 : Date.now() - dwellStart);
+    return dwellStored() + (dwellStart === null ? 0 : Date.now() - dwellStart);
   }
 
   function dwellMs() {
@@ -366,18 +392,32 @@
     return typeof v === "number" && v > 0 ? v : DEFAULT_DWELL_MS;
   }
 
+  /* A finished mock test is the best moment to ask: the visitor just saw a
+     score, so the visit has paid off. The scorecard is the only screen that
+     carries .result-wrap, and it replaces the quiz, so the timer is gone.
+     Held back a few seconds so the score can be read before anything covers
+     it. */
+  function resultReady() {
+    if (!visible(document.querySelector(".result-wrap"))) {
+      resultSeenAt = 0;
+      return false;
+    }
+    if (!resultSeenAt) resultSeenAt = Date.now();
+    return Date.now() - resultSeenAt >= RESULT_GRACE_MS;
+  }
+
   /* Runs on a timer rather than a one-shot: a visitor whose dwell is already
      complete may still be mid mock test or inside a dialog, and the prompt
      should appear as soon as that clears. */
   function dwellTick() {
     if (promptEl) return;
-    if (dwellElapsed() < dwellMs()) return;
+    if (!resultReady() && dwellElapsed() < dwellMs()) return;
     if (mayPrompt()) showPrompt();
   }
 
   function pauseDwell() {
     if (dwellStart !== null) {
-      dwellAccum += Date.now() - dwellStart;
+      dwellSave(dwellStored() + (Date.now() - dwellStart));
       dwellStart = null;
     }
     if (dwellTicker) {
@@ -408,6 +448,9 @@
 
   window.PUSH = {
     supported: supported,
+    /* Exposed so the header bell can show install steps to an iPhone visitor
+       instead of a button that Apple would never answer. */
+    needsInstall: isIosNeedingInstall,
     state: function () {
       if (!supported()) return "unsupported";
       if (subscribed) return "subscribed";
@@ -419,6 +462,10 @@
   function boot() {
     refreshState();
 
+    /* app.js paints the bell before this file runs, so it needs a nudge to
+       repaint the iPhone install steps now that PUSH.needsInstall exists. */
+    window.dispatchEvent(new CustomEvent("axo:push-ready"));
+
     document.addEventListener("visibilitychange", function () {
       if (document.visibilityState === "visible") {
         if (!promptEl) startDwell();
@@ -426,6 +473,10 @@
         pauseDwell();
       }
     });
+
+    /* The page is about to be replaced by the next topic. Bank the elapsed
+       time first, or the visit's total would only ever hold the last page. */
+    window.addEventListener("pagehide", pauseDwell);
 
     startDwell();
   }
