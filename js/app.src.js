@@ -9653,6 +9653,11 @@
     allRead: { en: "You're all caught up", as: "সকলো পঢ়া হৈছে" },
     markAll: { en: "Mark all read", as: "সকলো পঢ়া বুলি চিহ্নিত কৰক" },
     foot: { en: "Tap a notification to open it", as: "খুলিবলৈ এটা জাননীত টিপক" },
+    iosTitle: { en: "Get alerts on iPhone", as: "iPhone-ত জাননী পাওক" },
+    iosBody: {
+      en: "Tap Share, then Add to Home Screen. Open axomexam from that icon to turn on notifications.",
+      as: "Share টিপক, তাৰ পিছত Add to Home Screen। সেই আইকনৰ পৰা axomexam খুলি জাননী চালু কৰক।",
+    },
   };
 
   /* The array above is the offline fallback. The live list comes from
@@ -9801,6 +9806,20 @@
     const foot = document.getElementById("notif-foot");
     if (foot) foot.textContent = notifString("foot");
 
+    /* iPhone and iPad cannot subscribe from a Safari tab, so the panel says
+       how to install instead of leaving the reader with no route at all. */
+    const ios = document.getElementById("notif-ios");
+    if (ios) {
+      const needsInstall = !!(window.PUSH && window.PUSH.needsInstall && window.PUSH.needsInstall());
+      ios.hidden = !needsInstall;
+      if (needsInstall) {
+        const iosTitle = document.getElementById("notif-ios-title");
+        const iosBody = document.getElementById("notif-ios-body");
+        if (iosTitle) iosTitle.textContent = notifString("iosTitle");
+        if (iosBody) iosBody.textContent = notifString("iosBody");
+      }
+    }
+
     list.innerHTML = notifItems().map((n, i) => {
       const k = notifKey(n);
       return `
@@ -9833,6 +9852,12 @@
           </span>
         </div>
         <div class="notif-list" id="notif-list"></div>
+        <div class="notif-ios" id="notif-ios" hidden>
+          <span class="notif-ios-ico" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 16V4"/><path d="m6 10 6-6 6 6"/><path d="M4 20h16"/></svg>
+          </span>
+          <span class="notif-ios-txt"><b id="notif-ios-title"></b><span id="notif-ios-body"></span></span>
+        </div>
         <div class="notif-foot" id="notif-foot"></div>
       </div>`;
     themeBtn.insertAdjacentElement("afterend", wrap);
@@ -9842,6 +9867,10 @@
     const list = wrap.querySelector("#notif-list");
     const markAll = wrap.querySelector("#notif-mark-all");
 
+    /* push.js runs after this file and carries the iOS detection, so the
+       install steps are painted when it reports in. */
+    window.addEventListener("axo:push-ready", renderNotifications);
+
     const close = () => {
       panel.hidden = true;
       toggle.setAttribute("aria-expanded", "false");
@@ -9849,6 +9878,9 @@
     const open = () => {
       panel.hidden = false;
       toggle.setAttribute("aria-expanded", "true");
+      /* push.js may have loaded after the first paint; repaint on open so the
+         iPhone install steps are never missed. */
+      renderNotifications();
     };
 
     toggle.addEventListener("click", (e) => {

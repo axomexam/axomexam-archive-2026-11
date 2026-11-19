@@ -107,11 +107,10 @@
     );
   }
 
-  /* iOS exposes Web Push only to a site added to the Home Screen, and
-     reports no PushManager in a normal tab. Turning that silent absence
-     into a hint is the difference between "broken" and "install first". */
-  /* iOS only delivers Web Push to an installed home-screen app, so the
-     prompt is pointless in Safari's browser tab. */
+  /* iOS delivers Web Push only to a site added to the Home Screen, and a
+     normal Safari tab reports no PushManager at all. The opt-in prompt is
+     therefore pointless there; the header bell shows the install steps
+     instead, through PUSH.needsInstall. */
   function isIosNeedingInstall() {
     const ua = navigator.userAgent || "";
     const iOS = /iPad|iPhone|iPod/.test(ua) || (ua.includes("Macintosh") && "ontouchend" in document);
@@ -449,6 +448,9 @@
 
   window.PUSH = {
     supported: supported,
+    /* Exposed so the header bell can show install steps to an iPhone visitor
+       instead of a button that Apple would never answer. */
+    needsInstall: isIosNeedingInstall,
     state: function () {
       if (!supported()) return "unsupported";
       if (subscribed) return "subscribed";
@@ -459,6 +461,10 @@
 
   function boot() {
     refreshState();
+
+    /* app.js paints the bell before this file runs, so it needs a nudge to
+       repaint the iPhone install steps now that PUSH.needsInstall exists. */
+    window.dispatchEvent(new CustomEvent("axo:push-ready"));
 
     document.addEventListener("visibilitychange", function () {
       if (document.visibilityState === "visible") {
