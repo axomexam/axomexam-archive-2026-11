@@ -2947,6 +2947,12 @@ node tools/merge-bank.js nursing-paramedical dhs-dme-technical.nursing-extra.js
 Check the result with `key dist` per leaf — it should be about 12/13/13/12,
 never 50/0/0/0.
 
+Computer Awareness follows the same shape: `dhs-dme-technical.computer-more.js`
+holds the original 180 (30 per leaf) and `dhs-dme-technical.computer-extra.js`
+adds 20 per leaf, so both must be merged the same way. Every generator in the
+book that had items authored before the rotation was introduced needs a
+re-merge, not just the new file.
+
 **Audit the scope before committing.** Hash-stamp churn makes a diff look
 far wider than it is. This comparison ignores `?v=` hashes and `CACHE_VERSION`
 and lists only files whose actual content moved:
