@@ -3512,5 +3512,4221 @@
       "en": "Geography and adaptable rule sustained the kingdom, which is why those factors are named. A navy, European help and one unbroken dynasty are wrong.",
       "as": "ভূগোল আৰু অভিযোজিত শাসনে ৰাজ্যক টিকুৱাই ৰাখিছিল, সেয়ে সেই কাৰক নাম দিয়া হয়। নৌসেনা, ইউৰোপীয় সহায় আৰু এক অখণ্ড বংশ — ভুল।"
     }
+  },
+  {
+    "id": "assam-history-extra-095",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Varman king who is said to have performed the Ashvamedha horse sacrifice and is known from his Nidhanpur grant was",
+      "as": "অশ্বমেধ অশ্ব বলি কৰা বুলি কোৱা আৰু নিজৰ নিধনপুৰ শাসনপত্ৰৰপৰা জনাজাত বৰ্মন ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Sthitavarman",
+        "as": "স্থিতবৰ্মন"
+      },
+      {
+        "en": "Salastambha",
+        "as": "শালস্তম্ভ"
+      },
+      {
+        "en": "Bhutivarman",
+        "as": "ভূতিবৰ্মন"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যভৰ্মন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bhutivarman's grants record the Ashvamedha, which is why he is cited for that rite. Pushyavarman founded the line, Sthitavarman came later, and Salastambha began a different dynasty.",
+      "as": "ভূতিবৰ্মনৰ শাসনপত্ৰত অশ্বমেধৰ উল্লেখ আছে, সেয়ে সেই ৰীতিৰ বাবে তেওঁক উদ্ধৃত কৰা হয়। পুষ্যভৰ্মনে বংশ প্ৰতিষ্ঠা কৰিছিল, স্থিতবৰ্মন পিছত আহিছিল, আৰু শালস্তম্ভই বেলেগ বংশ আৰম্ভ কৰিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-096",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Varman king who is credited with extensive military campaigns and the title 'Maharajadhiraja' in his inscriptions was",
+      "as": "শিলালিপিত 'মহাৰাজাধিৰাজ' উপাধি আৰু বিস্তৃত সামৰিক অভিযানৰ কৃতিত্ব পোৱা বৰ্মন ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Bhutivarman",
+        "as": "ভূতিবৰ্মন"
+      },
+      {
+        "en": "Sthitavarman",
+        "as": "স্থিতবৰ্মন"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যভৰ্মন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Sthitavarman's records claim victories over neighbouring rulers, which is why he is named for military activity. Bhaskarvarman was a diplomat, Pushyavarman a founder, and Bhutivarman is linked to the horse sacrifice.",
+      "as": "স্থিতবৰ্মনৰ ৰেকৰ্ডে চুবুৰীয়া শাসকৰ ওপৰত বিজয় দাবী কৰে, সেয়ে তেওঁক সামৰিক কামৰ বাবে নাম দিয়া হয়। ভাস্কৰবৰ্মন কূটনীতিবিদ, পুষ্যভৰ্মন প্ৰতিষ্ঠাপক, আৰু ভূতিবৰ্মন অশ্বমেধৰ লগত জড়িত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-097",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Varman king who was defeated by the Gauda ruler Sasanka, an event that shaped Kamarupa's politics, was",
+      "as": "গৌড়ৰ শাসক শশাঙ্কৰ হাতত পৰাজিত হোৱা, যি ঘটনাই কামৰূপৰ ৰাজনীতি গঢ় দিছিল, বৰ্মন ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Susthitavarman",
+        "as": "সুষ্ঠিতবৰ্মন"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যপৰ্মন"
+      },
+      {
+        "en": "Salastambha",
+        "as": "শালস্তম্ভ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sasanka's pressure fell on Susthitavarman's reign, which is why the setback is dated to him. Bhaskarvarman later allied against Gauda, and Pushyavarman and Salastambha belong to other phases.",
+      "as": "শশাঙ্কৰ চাপ সুষ্ঠিতবৰ্মনৰ ৰাজত্বত পৰিছিল, সেয়ে সেই ধাক্কা তেওঁলৈ তাৰিখ দিয়া হয়। ভাস্কৰবৰ্মনে পিছত গৌড়ৰ বিৰুদ্ধে মিত্ৰতা কৰিছিল, আৰু পুষ্যপৰ্মন তথা শালস্তম্ভ আন পৰ্যায়ৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-098",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "Bhaskarvarman's meeting with Harshavardhana is traditionally placed at",
+      "as": "হৰ্ষবৰ্ধনৰ লগত ভাস্কৰবৰ্মনৰ সাক্ষাত পৰম্পৰাগতভাৱে ৰখা হয়"
+    },
+    "options": [
+      {
+        "en": "Pataliputra",
+        "as": "পাটলিপুত্ৰ"
+      },
+      {
+        "en": "Kanauj",
+        "as": "কনৌজ"
+      },
+      {
+        "en": "Nalanda",
+        "as": "নালন্দা"
+      },
+      {
+        "en": "Kajangala",
+        "as": "কজংগল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Chinese account places the meeting at Kajangala, which is why that place is named. Pataliputra, Kanauj and Nalanda appear in the story but not as the meeting place.",
+      "as": "চীনা বৃত্তান্তই সাক্ষাত কজংগলত ৰাখে, সেয়ে সেই স্থানৰ নাম দিয়া হয়। পাটলিপুত্ৰ, কনৌজ আৰু নালন্দা কাহিনীত আছে কিন্তু সাক্ষাতৰ স্থান নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-099",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Nidhanpur grant records a re-donation because the earlier plates had been",
+      "as": "নিধনপুৰ শাসনপত্ৰই পুনৰ্দান লিপিবদ্ধ কৰে কাৰণ আগৰ পত্ৰসমূহ"
+    },
+    "options": [
+      {
+        "en": "burned by the Burmese",
+        "as": "বাৰ্মীয়ে জ্বলাই দিছিল"
+      },
+      {
+        "en": "sold to the British",
+        "as": "ব্ৰিটিছক বিক্ৰী কৰিছিল"
+      },
+      {
+        "en": "lost in a flood or damaged",
+        "as": "বানপানীত হেৰাই বা নষ্ট হৈছিল"
+      },
+      {
+        "en": "taken by the Mughals",
+        "as": "মোগলে লৈ গৈছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The grant itself explains that the old plates were destroyed, which is why a fresh set was issued. Mughals, Burmese and the British were not involved.",
+      "as": "শাসনপত্ৰই নিজেই ব্যাখ্যা কৰে যে পুৰণি পত্ৰ ধ্বংস হৈছিল, সেয়ে নতুন সংকলন জাৰি কৰা হৈছিল। মোগল, বাৰ্মী আৰু ব্ৰিটিছ জড়িত নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-100",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Nidhanpur grant was issued from a place named",
+      "as": "নিধনপুৰ শাসনপত্ৰ কাৰ নামৰ স্থানৰপৰা জাৰি কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Kamarupanagara",
+        "as": "কামৰূপনগৰ"
+      },
+      {
+        "en": "Chandrapuri",
+        "as": "চন্দ্ৰপুৰী"
+      },
+      {
+        "en": "Pragjyotishpura",
+        "as": "প্ৰাগজ্যোতিষপুৰ"
+      },
+      {
+        "en": "Davaka",
+        "as": "দৱাক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The record names Chandrapuri as the place of issue, which is why it is cited in grant studies. Pragjyotishpura was the capital, Davaka a separate kingdom, and Kamarupanagara a later name.",
+      "as": "ৰেকৰ্ডে চন্দ্ৰপুৰীক জাৰিৰ স্থান বুলি নাম দিয়ে, সেয়ে ইয়াক শাসনপত্ৰ অধ্যয়নত উদ্ধৃত কৰা হয়। প্ৰাগজ্যোতিষপুৰ ৰাজধানী, দৱাক পৃথক ৰাজ্য, আৰু কামৰূপনগৰ পিছৰ নাম।"
+    }
+  },
+  {
+    "id": "assam-history-extra-101",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'chaturvedi' in a Kamarupa grant describes a Brahmin who",
+      "as": "কামৰূপৰ শাসনপত্ৰত 'চতুৰ্বেদী' শব্দই এনে ব্ৰাহ্মণক বৰ্ণনা কৰে যি"
+    },
+    "options": [
+      {
+        "en": "knew all four Vedas",
+        "as": "চাৰিও বেদ জানিছিল"
+      },
+      {
+        "en": "owned four villages",
+        "as": "চাৰিখন গাঁৱৰ মালিক আছিল"
+      },
+      {
+        "en": "served four kings",
+        "as": "চাৰিজন ৰজাক সেৱা কৰিছিল"
+      },
+      {
+        "en": "paid four taxes",
+        "as": "চাৰিটা কৰ দিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chaturvedi marks a scholar of the four Vedas, which is why the title appears among donees. Villages, kings and taxes are not what the word denotes.",
+      "as": "চতুৰ্বেদীয়ে চাৰি বেদৰ পণ্ডিত নিৰ্দেশ কৰে, সেয়ে উপাধি গ্ৰহীতাসকলৰ মাজত ওলায়। গাঁও, ৰজা আৰু কৰ শব্দটোৱে নুবুজায়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-102",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'srotriya' in early Assam grants refers to a Brahmin who was",
+      "as": "প্ৰাচীন অসমৰ শাসনপত্ৰত 'শ্ৰোত্ৰীয়' শব্দই এনে ব্ৰাহ্মণক বুজায় যি"
+    },
+    "options": [
+      {
+        "en": "a royal treasurer",
+        "as": "ৰাজকীয় কোষাধ্যক্ষ"
+      },
+      {
+        "en": "a village accountant",
+        "as": "গাঁৱৰ হিচাপৰক্ষক"
+      },
+      {
+        "en": "a military scout",
+        "as": "সামৰিক চোৰাংচোৱা"
+      },
+      {
+        "en": "learned in the Vedas and ritual",
+        "as": "বেদ আৰু ৰীতি-নীতিত পাৰদৰ্শী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Srotriya denotes Vedic learning, which is why the term appears with other scholarly titles. Treasurer, accountant and scout have separate designations.",
+      "as": "শ্ৰোত্ৰীয়ে বৈদিক বিদ্যা নিৰ্দেশ কৰে, সেয়ে শব্দটো আন পণ্ডিতীয় উপাধিৰ লগত ওলায়। কোষাধ্যক্ষ, হিচাপৰক্ষক আৰু চোৰাংচোৱাৰ বেলেগ নাম।"
+    }
+  },
+  {
+    "id": "assam-history-extra-103",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "In Kamarupa grants, 'kshetra' refers to",
+      "as": "কামৰূপৰ শাসনপত্ৰত 'ক্ষেত্ৰ'ই বুজায়"
+    },
+    "options": [
+      {
+        "en": "a river bank",
+        "as": "নদীৰ পাৰ"
+      },
+      {
+        "en": "a grazing ground only",
+        "as": "কেৱল চৰণ ভূমি"
+      },
+      {
+        "en": "cultivated or cultivable land",
+        "as": "খেতি কৰা বা খেতিযোগ্য ভূমি"
+      },
+      {
+        "en": "a temple building",
+        "as": "মন্দিৰৰ ভৱন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kshetra is field land in the grants, which is why it is distinguished from other land types. Temple buildings, river banks and grazing grounds have separate words.",
+      "as": "ক্ষেত্ৰ শাসনপত্ৰত পথাৰ ভূমি, সেয়ে ইয়াক আন ভূমি প্ৰকাৰৰপৰা পৃথক কৰা হয়। মন্দিৰ ভৱন, নদী পাৰ আৰু চৰণ ভূমিৰ বেলেগ শব্দ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-104",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'vastu' in a Kamarupa grant denotes",
+      "as": "কামৰূপৰ শাসনপত্ৰত 'বাস্তু' শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "a temple endowment",
+        "as": "মন্দিৰৰ দান"
+      },
+      {
+        "en": "a house site or homestead land",
+        "as": "ঘৰৰ ঠাই বা বসতিভূমি"
+      },
+      {
+        "en": "a forest tract",
+        "as": "অৰণ্য অঞ্চল"
+      },
+      {
+        "en": "a tank or pond",
+        "as": "পুখুৰী বা বিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vastu is homestead land, which is why grants distinguish it from fields. Forest, tank and endowment have their own terms.",
+      "as": "বাস্তু বসতিভূমি, সেয়ে শাসনপত্ৰই ইয়াক পথাৰৰপৰা পৃথক কৰে। অৰণ্য, পুখুৰী আৰু দানৰ নিজা শব্দ আছে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-105",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'gochara' in a land grant usually refers to",
+      "as": "ভূমি দানত 'গোচৰ' শব্দই সাধাৰণতে বুজায়"
+    },
+    "options": [
+      {
+        "en": "pasture land for cattle",
+        "as": "গৰুৰ চৰণ ভূমি"
+      },
+      {
+        "en": "a revenue office",
+        "as": "ৰাজহ কাৰ্যালয়"
+      },
+      {
+        "en": "a ferry crossing",
+        "as": "ঘাট পাৰাপাৰ"
+      },
+      {
+        "en": "a market toll",
+        "as": "বজাৰৰ শুল্ক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Gochara is grazing land, which is why it is listed separately in village grants. Offices, ferries and tolls are different.",
+      "as": "গোচৰ চৰণ ভূমি, সেয়ে গাঁও দানত ইয়াক পৃথকভাৱে তালিকাভুক্ত কৰা হয়। কাৰ্যালয়, ঘাট আৰু শুল্ক বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-106",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The officer called 'ganaka' in a Kamarupa grant was concerned with",
+      "as": "কামৰূপৰ শাসনপত্ৰত 'গণক' বিষয়া কাৰ লগত জড়িত আছিল"
+    },
+    "options": [
+      {
+        "en": "temple ritual",
+        "as": "মন্দিৰৰ ৰীতি"
+      },
+      {
+        "en": "cavalry",
+        "as": "অশ্বাৰোহী বাহিনী"
+      },
+      {
+        "en": "diplomacy",
+        "as": "কূটনীতি"
+      },
+      {
+        "en": "accounting and records",
+        "as": "হিচাপ আৰু ৰেকৰ্ড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ganaka is an accountant, which is why the title appears among grant witnesses. Ritual, cavalry and diplomacy were other charges.",
+      "as": "গণক হিচাপৰক্ষক, সেয়ে উপাধি শাসনপত্ৰৰ সাক্ষীসকলৰ মাজত ওলায়। ৰীতি, অশ্বাৰোহী আৰু কূটনীতি আন দায়িত্ব আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-107",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The officer called 'amatya' in early Assam grants denotes",
+      "as": "প্ৰাচীন অসমৰ শাসনপত্ৰত 'অমাত্য' শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "a temple dancer",
+        "as": "মন্দিৰৰ নৰ্তকী"
+      },
+      {
+        "en": "a boatman",
+        "as": "নাওঁৱালা"
+      },
+      {
+        "en": "a minister or high official",
+        "as": "মন্ত্ৰী বা উচ্চ বিষয়া"
+      },
+      {
+        "en": "a village watchman",
+        "as": "গাঁৱৰ চৌকিদাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Amatya is a counsellor or minister, which is why the title ranks among senior officials. Watchman, dancer and boatman are unrelated.",
+      "as": "অমাত্য পৰামৰ্শদাতা বা মন্ত্ৰী, সেয়ে উপাধি জ্যেষ্ঠ বিষয়াসকলৰ মাজত গণ্য। চৌকিদাৰ, নৰ্তকী আৰু নাওঁৱালা অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-108",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "A 'vishaya' in the administrative geography of ancient Kamarupa was",
+      "as": "প্ৰাচীন কামৰূপৰ প্ৰশাসনিক ভূগোলত 'বিষয়' আছিল"
+    },
+    "options": [
+      {
+        "en": "a merchant guild",
+        "as": "বণিক সংঘ"
+      },
+      {
+        "en": "a district level unit below the bhukti",
+        "as": "ভুক্তিৰ তলৰ জিলা পৰ্যায়ৰ একক"
+      },
+      {
+        "en": "the royal palace",
+        "as": "ৰাজপ্ৰাসাদ"
+      },
+      {
+        "en": "a military camp",
+        "as": "সামৰিক শিবিৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vishaya is a smaller division inside a bhukti, which is why the two appear together. Palace, camp and guild are different.",
+      "as": "বিষয় ভুক্তিৰ ভিতৰৰ সৰু বিভাগ, সেয়ে দুয়ো একেলগে ওলায়। ৰাজপ্ৰাসাদ, শিবিৰ আৰু সংঘ বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-109",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "A 'mandala' in the territorial vocabulary of the period denoted",
+      "as": "সেই সময়ৰ আঞ্চলিক শব্দাৱলীত 'মণ্ডল'ই বুজাইছিল"
+    },
+    "options": [
+      {
+        "en": "a circle of territory or a region",
+        "as": "এটা আঞ্চলিক বৃত্ত বা অঞ্চল"
+      },
+      {
+        "en": "a temple courtyard",
+        "as": "মন্দিৰৰ চোতাল"
+      },
+      {
+        "en": "a royal seal",
+        "as": "ৰাজকীয় মোহৰ"
+      },
+      {
+        "en": "a type of coin",
+        "as": "এবিধ মুদ্ৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mandala names a region in political geography, which is why the term appears with bhukti and vishaya. Courtyard, seal and coin are different.",
+      "as": "মণ্ডলে ৰাজনৈতিক ভূগোলত অঞ্চল নিৰ্দেশ কৰে, সেয়ে শব্দটো ভুক্তি আৰু বিষয়ৰ লগত ওলায়। চোতাল, মোহৰ আৰু মুদ্ৰা বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-110",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The officer called 'sthagika' in a grant was responsible for",
+      "as": "শাসনপত্ৰত 'স্থগিক' বিষয়া কাৰ বাবে দায়বদ্ধ আছিল"
+    },
+    "options": [
+      {
+        "en": "temple repairs",
+        "as": "মন্দিৰ মেৰামতি"
+      },
+      {
+        "en": "ferry tolls",
+        "as": "ঘাটৰ শুল্ক"
+      },
+      {
+        "en": "land measurement",
+        "as": "ভূমি জোখ"
+      },
+      {
+        "en": "treasury or stores",
+        "as": "ভঁৰাল বা ভাণ্ডাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sthagika is linked to the treasury, which is why the title appears in the list of officials. Repairs, tolls and measurement were separate duties.",
+      "as": "স্থগিক ভঁৰালৰ লগত জড়িত, সেয়ে উপাধি বিষয়াৰ তালিকাত ওলায়। মেৰামতি, শুল্ক আৰু জোখ পৃথক দায়িত্ব আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-111",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'apradhika' in a grant refers to an officer dealing with",
+      "as": "শাসনপত্ৰত 'অপৰাধিক' শব্দই কাৰ লগত জড়িত বিষয়াক বুজায়"
+    },
+    "options": [
+      {
+        "en": "temple lands",
+        "as": "মন্দিৰৰ ভূমি"
+      },
+      {
+        "en": "river transport",
+        "as": "নদী পৰিবহণ"
+      },
+      {
+        "en": "crimes and punishments",
+        "as": "অপৰাধ আৰু শাস্তি"
+      },
+      {
+        "en": "land taxes",
+        "as": "ভূমি কৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Apradhika is a judicial officer, which is why the title is read as part of the legal machinery. Taxes, temple lands and transport are other matters.",
+      "as": "অপৰাধিক ন্যায়িক বিষয়া, সেয়ে উপাধিক আইনী ব্যৱস্থাৰ অংশ হিচাপে পঢ়া হয়। কৰ, মন্দিৰ ভূমি আৰু পৰিবহণ আন বিষয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-112",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The 'Dubi' and 'Nidhanpur' plates are both valuable because together they",
+      "as": "ডুবী আৰু নিধনপুৰ দুয়োখন পত্ৰই মূল্যৱান কাৰণ একেলগে সেয়া"
+    },
+    "options": [
+      {
+        "en": "describe British trade",
+        "as": "ব্ৰিটিছ বাণিজ্যৰ বৰ্ণনা দিয়ে"
+      },
+      {
+        "en": "help reconstruct the Varman genealogy and donations",
+        "as": "বৰ্মন বংশাৱলী আৰু দান পুনৰ্গঠন কৰাত সহায় কৰে"
+      },
+      {
+        "en": "record Ahom revenue",
+        "as": "আহোম ৰাজহ লিপিবদ্ধ কৰে"
+      },
+      {
+        "en": "list Mughal officers",
+        "as": "মোগল বিষয়া তালিকাভুক্ত কৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Genealogy and donation details make the pair central to Varman history. Ahom, Mughal and British records are far later.",
+      "as": "বংশাৱলী আৰু দানৰ বিৱৰণে যোৰটোক বৰ্মন ইতিহাসৰ কেন্দ্ৰ কৰে। আহোম, মোগল আৰু ব্ৰিটিছ ৰেকৰ্ড বহু পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-113",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Kalika Purana is important for the study of ancient Assam because it",
+      "as": "প্ৰাচীন অসমৰ অধ্যয়নৰ বাবে কালিকা পুৰাণ গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "describes the region's sacred geography and dynastic traditions",
+        "as": "অঞ্চলৰ পবিত্ৰ ভূগোল আৰু বংশ পৰম্পৰা বৰ্ণনা কৰে"
+      },
+      {
+        "en": "is a revenue manual",
+        "as": "ৰাজহ পুস্তিকা"
+      },
+      {
+        "en": "records Ahom buranjis",
+        "as": "আহোম বুৰঞ্জী লিপিবদ্ধ কৰে"
+      },
+      {
+        "en": "was written in English",
+        "as": "ইংৰাজীত লিখা হৈছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sacred sites and genealogies make the text useful with caution, which is why historians cite it. Revenue, buranjis and English authorship are wrong.",
+      "as": "পবিত্ৰ স্থান আৰু বংশাৱলীয়ে গ্ৰন্থখন সাৱধানে ব্যৱহাৰযোগ্য কৰে, সেয়ে ইতিহাসবিদে উদ্ধৃত কৰে। ৰাজহ, বুৰঞ্জী আৰু ইংৰাজী ৰচনা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-114",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Yogini Tantra is associated with",
+      "as": "যোগিনী তন্ত্ৰ কাৰ লগত জড়িত"
+    },
+    "options": [
+      {
+        "en": "the Ahom paik system",
+        "as": "আহোম পাইক ব্যৱস্থাৰ লগত"
+      },
+      {
+        "en": "the British land settlement",
+        "as": "ব্ৰিটিছ ভূমি নিষ্পত্তিৰ লগত"
+      },
+      {
+        "en": "the tea industry",
+        "as": "চাহ উদ্যোগৰ লগত"
+      },
+      {
+        "en": "the Kamakhya and tantric tradition of the region",
+        "as": "অঞ্চলৰ কামাখ্যা আৰু তান্ত্ৰিক পৰম্পৰাৰ লগত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The text belongs to the tantric tradition centred on Kamakhya, which is why it is cited for religious history. Paik, land settlement and tea are unrelated.",
+      "as": "গ্ৰন্থখন কামাখ্যাক কেন্দ্ৰ কৰি তান্ত্ৰিক পৰম্পৰাৰ, সেয়ে ধৰ্মীয় ইতিহাসত উদ্ধৃত। পাইক, ভূমি নিষ্পত্তি আৰু চাহ অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-115",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient temple site of Da-Parbatia is important because its door frame shows",
+      "as": "প্ৰাচীন মন্দিৰ স্থান দ-পৰ্বতীয়া গুৰুত্বপূৰ্ণ কাৰণ ইয়াৰ দুৱাৰৰ চৌকাঠে দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "British brickwork",
+        "as": "ব্ৰিটিছ ইটাৰ কাম"
+      },
+      {
+        "en": "Ahom wooden carving",
+        "as": "আহোম কাঠৰ খোদাই"
+      },
+      {
+        "en": "early Gupta style stone carving in Assam",
+        "as": "অসমত প্ৰাৰম্ভিক গুপ্ত শৈলীৰ শিল্পকৰ্ম"
+      },
+      {
+        "en": "Mughal tile work",
+        "as": "মোগল টাইলছৰ কাম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The carving is dated to the Gupta period, which is why the site anchors early art history. Mughal, British and Ahom work belongs to later centuries.",
+      "as": "খোদাই গুপ্ত যুগৰ, সেয়ে স্থানটো প্ৰাৰম্ভিক কলা ইতিহাসৰ ভেটি। মোগল, ব্ৰিটিছ আৰু আহোম কাম পিছৰ শতিকা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-116",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient site of Da-Parbatia is located near",
+      "as": "প্ৰাচীন দ-পৰ্বতীয়া স্থান কাৰ ওচৰত অৱস্থিত"
+    },
+    "options": [
+      {
+        "en": "Dhubri",
+        "as": "ধুবুৰী"
+      },
+      {
+        "en": "Tezpur",
+        "as": "তেজপুৰ"
+      },
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The site lies near Tezpur, which is why it is studied with the region's early temples. Dibrugarh, Silchar and Dhubri are other districts.",
+      "as": "স্থানটো তেজপুৰৰ ওচৰত, সেয়ে অঞ্চলৰ প্ৰাৰম্ভিক মন্দিৰৰ লগত অধ্যয়ন কৰা হয়। ডিব্ৰুগড়, শিলচৰ আৰু ধুবুৰী আন জিলা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-117",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient ruins at Madan Kamdev are located in",
+      "as": "মদন কামদেৱৰ প্ৰাচীন অৱশেষ অৱস্থিত"
+    },
+    "options": [
+      {
+        "en": "Kamrup district",
+        "as": "কামৰূপ জিলাত"
+      },
+      {
+        "en": "Sivasagar district",
+        "as": "শিৱসাগৰ জিলাত"
+      },
+      {
+        "en": "Cachar district",
+        "as": "কাছাৰ জিলাত"
+      },
+      {
+        "en": "Tinsukia district",
+        "as": "তিনিচুকীয়া জিলাত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ruins sit in Kamrup district, which is why they are grouped with Kamarupa period art. Sivasagar, Cachar and Tinsukia belong to other phases.",
+      "as": "অৱশেষ কামৰূপ জিলাত, সেয়ে সেয়া কামৰূপ যুগৰ কলাৰ লগত ৰখা হয়। শিৱসাগৰ, কাছাৰ আৰু তিনিচুকীয়া আন পৰ্যায়ৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-118",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam site of Ambari in Guwahati is important because excavations there revealed",
+      "as": "গুৱাহাটীৰ আমবাৰী স্থান গুৰুত্বপূৰ্ণ কাৰণ তাত খননে প্ৰকাশ কৰে"
+    },
+    "options": [
+      {
+        "en": "a Mughal palace",
+        "as": "মোগল ৰাজপ্ৰাসাদ"
+      },
+      {
+        "en": "a British cantonment",
+        "as": "ব্ৰিটিছ ছাউনী"
+      },
+      {
+        "en": "a tea factory",
+        "as": "চাহ কাৰখানা"
+      },
+      {
+        "en": "early settlement layers and artefacts",
+        "as": "প্ৰাৰম্ভিক বসতি স্তৰ আৰু সামগ্ৰী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Excavated layers and objects date early occupation, which is why the site matters archaeologically. Mughal, British and tea era remains are later.",
+      "as": "খনন স্তৰ আৰু বস্তুৱে প্ৰাৰম্ভিক বসতিৰ তাৰিখ দিয়ে, সেয়ে স্থানটো পুৰাতাত্ত্বিকভাৱে গুৰুত্বপূৰ্ণ। মোগল, ব্ৰিটিছ আৰু চাহ যুগৰ অৱশেষ পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-119",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Nilachala hill near Guwahati is associated with",
+      "as": "গুৱাহাটীৰ ওচৰৰ নীলাচল পাহাৰ কাৰ লগত জড়িত"
+    },
+    "options": [
+      {
+        "en": "a Mughal fort",
+        "as": "মোগল দুৰ্গৰ লগত"
+      },
+      {
+        "en": "a British church",
+        "as": "ব্ৰিটিছ গীৰ্জাঘৰৰ লগত"
+      },
+      {
+        "en": "the Kamakhya temple",
+        "as": "কামাখ্যা মন্দিৰৰ লগত"
+      },
+      {
+        "en": "the Ahom palace",
+        "as": "আহোম ৰাজপ্ৰাসাদৰ লগত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kamakhya stands on Nilachala, which is why the hill is named in temple accounts. Palaces, forts and churches are elsewhere.",
+      "as": "কামাখ্যা নীলাচলত অৱস্থিত, সেয়ে মন্দিৰৰ বিৱৰণত পাহাৰটোৰ নাম ওলায়। ৰাজপ্ৰাসাদ, দুৰ্গ আৰু গীৰ্জাঘৰ আন ঠাইত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-120",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's importance in the transmission of Buddhism to Tibet lay in its",
+      "as": "তিব্বতলৈ বৌদ্ধ ধৰ্মৰ প্ৰেৰণত প্ৰাচীন অসম অঞ্চলৰ গুৰুত্ব আছিল ইয়াৰ"
+    },
+    "options": [
+      {
+        "en": "alliance with Rome",
+        "as": "ৰোমৰ লগত মিত্ৰতা"
+      },
+      {
+        "en": "role as a corridor through the eastern Himalayas",
+        "as": "পূব হিমালয়ৰ মাজেৰে পথ হিচাপে ভূমিকা"
+      },
+      {
+        "en": "possession of a large navy",
+        "as": "বৃহৎ নৌসেনাৰ অধিকাৰ"
+      },
+      {
+        "en": "control of Sri Lanka",
+        "as": "শ্ৰীলংকা নিয়ন্ত্ৰণ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The region served as a route for pilgrims and teachers, which is why the corridor reading is used. A navy, Sri Lanka and Rome are unrelated.",
+      "as": "অঞ্চলটোৱে তীৰ্থযাত্ৰী আৰু শিক্ষকৰ পথ হিচাপে কাম কৰিছিল, সেয়ে পথৰ পঢ়া ব্যৱহাৰ কৰা হয়। নৌসেনা, শ্ৰীলংকা আৰু ৰোম অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-121",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient name 'Lauhitya' was applied to",
+      "as": "প্ৰাচীন নাম 'লৌহিত্য' কাৰ বাবে ব্যৱহৃত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the Brahmaputra river",
+        "as": "ব্ৰহ্মপুত্ৰ নদী"
+      },
+      {
+        "en": "a Kamarupa king",
+        "as": "কামৰূপৰ ৰজা"
+      },
+      {
+        "en": "a type of land grant",
+        "as": "এবিধ ভূমি দান"
+      },
+      {
+        "en": "a hill fort",
+        "as": "পাহাৰীয়া দুৰ্গ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lauhitya is the river's ancient name, which is why it appears in grants and epics. Kings, grants and forts have other names.",
+      "as": "লৌহিত্য নদীৰ প্ৰাচীন নাম, সেয়ে ই শাসনপত্ৰ আৰু মহাকাব্যত ওলায়। ৰজা, দান আৰু দুৰ্গৰ বেলেগ নাম।"
+    }
+  },
+  {
+    "id": "assam-history-extra-122",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's copper was obtained mainly from",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ তাম মূলতঃ কাৰপৰা পোৱা গৈছিল"
+    },
+    "options": [
+      {
+        "en": "the Gangetic plain",
+        "as": "গংগাৰ সমভূমিৰপৰা"
+      },
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকাৰপৰা"
+      },
+      {
+        "en": "Central Asia",
+        "as": "মধ্য এছিয়াৰপৰা"
+      },
+      {
+        "en": "the hills on the southern and eastern fringes",
+        "as": "দক্ষিণ আৰু পূব সীমান্তৰ পাহাৰৰপৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Copper came from the surrounding hills, which is why the region could issue so many plates. The Gangetic plain, Sri Lanka and Central Asia were not the source.",
+      "as": "তাম চাৰিওফালৰ পাহাৰৰপৰা আহিছিল, সেয়ে অঞ্চলটোৱে ইমান পত্ৰ জাৰি কৰিব পাৰিছিল। গংগাৰ সমভূমি, শ্ৰীলংকা আৰু মধ্য এছিয়া উৎস নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-123",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam practice of granting land to religious beneficiaries had the effect of",
+      "as": "ধৰ্মীয় গ্ৰহীতাক ভূমি দানৰ প্ৰাচীন অসম ৰীতিৰ প্ৰভাৱ আছিল"
+    },
+    "options": [
+      {
+        "en": "abolishing villages",
+        "as": "গাঁও বিলুপ্তি"
+      },
+      {
+        "en": "stopping all trade",
+        "as": "সকলো বাণিজ্য বন্ধ"
+      },
+      {
+        "en": "creating permanent endowed estates",
+        "as": "স্থায়ী দানযুক্ত জমিদাৰী সৃষ্টি"
+      },
+      {
+        "en": "ending all agriculture",
+        "as": "সকলো কৃষি অন্ত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Endowed estates outlived the donors, which is why they shaped rural society. Ending farming, abolishing villages and stopping trade are wrong.",
+      "as": "দানযুক্ত জমিদাৰী দাতাতকৈ বেছি দিন থাকিছিল, সেয়ে সেয়া গ্ৰাম্য সমাজ গঢ়িছিল। খেতি অন্ত, গাঁও বিলুপ্তি আৰু বাণিজ্য বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-124",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants usually specified the boundaries of the land by",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই সাধাৰণতে ভূমিৰ সীমা নিৰ্দিষ্ট কৰিছিল কাৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "satellite markers",
+        "as": "উপগ্ৰহ চিহ্নৰ দ্বাৰা"
+      },
+      {
+        "en": "natural features such as trees, streams and embankments",
+        "as": "গছ, নিজৰা আৰু বান্ধ আদি প্ৰাকৃতিক চিহ্নৰ দ্বাৰা"
+      },
+      {
+        "en": "latitude and longitude",
+        "as": "অক্ষাংশ আৰু দ্ৰাঘিমাংশৰ দ্বাৰা"
+      },
+      {
+        "en": "survey numbers",
+        "as": "জৰীপ নম্বৰৰ দ্বাৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Boundaries are given by landmarks, which is why the descriptions are read literally. Latitude, survey numbers and satellites are modern.",
+      "as": "সীমা চিহ্নৰ দ্বাৰা দিয়া হয়, সেয়ে বৰ্ণনা আক্ষৰিকভাৱে পঢ়া হয়। অক্ষাংশ, জৰীপ নম্বৰ আৰু উপগ্ৰহ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-125",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam period's land grants were usually recorded on copper because the metal",
+      "as": "প্ৰাচীন অসম যুগৰ ভূমি দান সাধাৰণতে তামত লিপিবদ্ধ কৰা হৈছিল কাৰণ ধাতুটি"
+    },
+    "options": [
+      {
+        "en": "survives damp conditions better than other writing surfaces",
+        "as": "আন লিখন পৃষ্ঠতকৈ সিক্ত অৱস্থা ভালদৰে সহ্য কৰে"
+      },
+      {
+        "en": "was cheaper than cloth",
+        "as": "কাপোৰতকৈ সস্তা আছিল"
+      },
+      {
+        "en": "was sacred to the kings",
+        "as": "ৰজাসকলৰ বাবে পবিত্ৰ আছিল"
+      },
+      {
+        "en": "could be eaten",
+        "as": "খাব পৰা যায়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Humidity destroys palm leaf and paper, which is why copper plates survive. Cost, sanctity and edibility are not the reason.",
+      "as": "আৰ্দ্ৰতাই তালপাত আৰু কাগজ নষ্ট কৰে, সেয়ে তাম্ৰপত্ৰ ৰয়। মূল্য, পবিত্ৰতা আৰু ভক্ষণযোগ্যতা কাৰণ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-126",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "A Kamarupa grant that refers to a 'hala' or plough usually indicates",
+      "as": "কামৰূপৰ শাসনপত্ৰত 'হল' বা নাঙলৰ উল্লেখে সাধাৰণতে সূচায়"
+    },
+    "options": [
+      {
+        "en": "a military weapon",
+        "as": "সামৰিক অস্ত্ৰ"
+      },
+      {
+        "en": "a temple symbol",
+        "as": "মন্দিৰৰ প্ৰতীক"
+      },
+      {
+        "en": "a river boat",
+        "as": "নদীৰ নাও"
+      },
+      {
+        "en": "agricultural land under cultivation",
+        "as": "খেতিৰ অধীনত থকা কৃষিভূমি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The plough marks cultivated fields, which is why it appears in land descriptions. Weapons, temple symbols and boats are different.",
+      "as": "নাঙলে খেতিভূমি চিহ্নিত কৰে, সেয়ে ই ভূমিৰ বৰ্ণনাত ওলায়। অস্ত্ৰ, মন্দিৰ প্ৰতীক আৰু নাও বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-127",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's contact with China is inferred mainly from",
+      "as": "প্ৰাচীন অসম অঞ্চলৰ চীনৰ লগত সংযোগ মূলতঃ কাৰপৰা অনুমান কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "British gazetteers",
+        "as": "ব্ৰিটিছ গেজেটিয়াৰৰপৰা"
+      },
+      {
+        "en": "Ahom coins",
+        "as": "আহোম মুদ্ৰাৰপৰা"
+      },
+      {
+        "en": "Chinese pilgrim accounts and overland routes",
+        "as": "চীনা পৰিৱ্ৰাজকৰ বৃত্তান্ত আৰু স্থলপথৰপৰা"
+      },
+      {
+        "en": "Mughal farmans",
+        "as": "মোগল ফৰ্মানৰপৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Pilgrim records and route descriptions support the link, which is why they are cited. Mughal, British and Ahom sources are later.",
+      "as": "পৰিৱ্ৰাজকৰ ৰেকৰ্ড আৰু পথৰ বৰ্ণনাই সংযোগ সমৰ্থন কৰে, সেয়ে সেয়া উদ্ধৃত। মোগল, ব্ৰিটিছ আৰু আহোম উৎস পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-128",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's sculptures show the strongest influence of",
+      "as": "প্ৰাচীন কামৰূপ যুগৰ ভাস্কৰ্যই আটাইতকৈ বেছি প্ৰভাৱ দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "modern abstract style",
+        "as": "আধুনিক বিমূৰ্ত শৈলীৰ"
+      },
+      {
+        "en": "north Indian Gupta and post Gupta styles",
+        "as": "উত্তৰ ভাৰতীয় গুপ্ত আৰু গুপ্তোত্তৰ শৈলীৰ"
+      },
+      {
+        "en": "European baroque style",
+        "as": "ইউৰোপীয় বেৰক শৈলীৰ"
+      },
+      {
+        "en": "Mughal tomb style",
+        "as": "মোগল সমাধি শৈলীৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gupta and post Gupta forms dominate, which is why the region is grouped with northern art. Baroque, Mughal and modern styles belong elsewhere.",
+      "as": "গুপ্ত আৰু গুপ্তোত্তৰ ৰূপ প্ৰাধান্য পায়, সেয়ে অঞ্চলটো উত্তৰ কলাৰ লগত ৰখা হয়। বেৰক, মোগল আৰু আধুনিক শৈলী আন ঠাইৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-129",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "What do the different land categories in Kamarupa grants prove the state acknowledged?",
+      "as": "কামৰূপৰ শাসনপত্ৰত বিভিন্ন ভূমি শ্ৰেণীয়ে ৰাজ্যই কাক স্বীকৃতি দিছিল বুলি প্ৰমাণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "different categories of land and their customary uses",
+        "as": "বিভিন্ন ভূমি শ্ৰেণী আৰু সিহঁতৰ প্ৰথাগত ব্যৱহাৰ"
+      },
+      {
+        "en": "only one type of land",
+        "as": "কেৱল এবিধ ভূমি"
+      },
+      {
+        "en": "no private property",
+        "as": "কোনো ব্যক্তিগত সম্পত্তি"
+      },
+      {
+        "en": "no villages at all",
+        "as": "কোনো গাঁও নাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fields, homesteads, pastures and forests are distinguished, which is why the grants are detailed. One land type, no property and no villages are contradicted.",
+      "as": "পথাৰ, বসতিভূমি, চৰণ আৰু অৰণ্য পৃথক কৰা হয়, সেয়ে শাসনপত্ৰ সবিশেষ। এবিধ ভূমি, সম্পত্তিহীনতা আৰু গাঁওহীনতা খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-130",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'Kamarupanagara' refers to",
+      "as": "'কামৰূপনগৰ' শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "a type of land grant",
+        "as": "এবিধ ভূমি দান"
+      },
+      {
+        "en": "a river port",
+        "as": "নদী বন্দৰ"
+      },
+      {
+        "en": "a Buddhist monastery",
+        "as": "বৌদ্ধ বিহাৰ"
+      },
+      {
+        "en": "a later capital of Kamarupa",
+        "as": "কামৰূপৰ পিছৰ ৰাজধানী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The name marks a later capital, which is why it is distinguished from Pragjyotishpura. Grants, ports and monasteries have other names.",
+      "as": "নামটোৱে পিছৰ ৰাজধানী চিহ্নিত কৰে, সেয়ে ইয়াক প্ৰাগজ্যোতিষপুৰৰপৰা পৃথক কৰা হয়। দান, বন্দৰ আৰু বিহাৰৰ বেলেগ নাম।"
+    }
+  },
+  {
+    "id": "assam-history-extra-131",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The decline of Kamarupa as a single kingdom resulted in the rise of",
+      "as": "এক ৰাজ্য হিচাপে কামৰূপৰ অৱনতিৰ ফলত উত্থান ঘটিছিল"
+    },
+    "options": [
+      {
+        "en": "a British colony directly",
+        "as": "প্ৰত্যক্ষ ব্ৰিটিছ উপনিবেশৰ"
+      },
+      {
+        "en": "a Chinese province",
+        "as": "চীন প্ৰদেশৰ"
+      },
+      {
+        "en": "regional kingdoms such as Kamata and the Chutiya state",
+        "as": "কামতা আৰু চুতীয়া ৰাজ্যৰ দৰে আঞ্চলিক ৰাজ্যৰ"
+      },
+      {
+        "en": "a single Mughal province",
+        "as": "এটা মোগল প্ৰদেশৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Fragmentation produced regional states, which is why Kamata and Chutiya appear. Mughal, British and Chinese rule came later or never.",
+      "as": "বিভাজনে আঞ্চলিক ৰাজ্য সৃষ্টি কৰিছিল, সেয়ে কামতা আৰু চুতীয়া ওলায়। মোগল, ব্ৰিটিছ আৰু চীন শাসন পিছত বা কেতিয়াও নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-132",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's epics and Puranas describe it as",
+      "as": "প্ৰাচীন অসম অঞ্চলক মহাকাব্য আৰু পুৰাণে বৰ্ণনা কৰে"
+    },
+    "options": [
+      {
+        "en": "part of Sri Lanka",
+        "as": "শ্ৰীলংকাৰ অংশ হিচাপে"
+      },
+      {
+        "en": "a rich eastern kingdom beyond the Ganga plain",
+        "as": "গংগা সমভূমিৰ সিপাৰে ধনী পূব ৰাজ্য হিচাপে"
+      },
+      {
+        "en": "a desert region",
+        "as": "মৰুভূমি অঞ্চল হিচাপে"
+      },
+      {
+        "en": "an island",
+        "as": "দ্বীপ হিচাপে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The texts place a wealthy eastern realm there, which is why the region is described that way. Desert, island and Sri Lanka are wrong.",
+      "as": "গ্ৰন্থই তাত ধনী পূব ৰাজ্য ৰাখে, সেয়ে অঞ্চলটো এনেদৰে বৰ্ণনা কৰা হয়। মৰুভূমি, দ্বীপ আৰু শ্ৰীলংকা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-133",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' relationship with forest communities is best described as",
+      "as": "অৰণ্য সম্প্ৰদায়ৰ লগত প্ৰাচীন কামৰূপ ৰজাসকলৰ সম্পৰ্ক শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "extraction of produce combined with tribute arrangements",
+        "as": "উৎপাদন উদ্ধাৰৰ লগত কৰ ব্যৱস্থাৰ সংমিশ্ৰণ"
+      },
+      {
+        "en": "complete absence of contact",
+        "as": "সংযোগৰ সম্পূৰ্ণ অভাৱ"
+      },
+      {
+        "en": "full political integration",
+        "as": "সম্পূৰ্ণ ৰাজনৈতিক সংহতি"
+      },
+      {
+        "en": "religious conversion only",
+        "as": "কেৱল ধৰ্মান্তৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Produce and tribute defined the link, which is why it is described as indirect. No contact, full integration and conversion only are wrong.",
+      "as": "উৎপাদন আৰু কৰেই সংযোগ নিৰ্ধাৰণ কৰিছিল, সেয়ে ইয়াক পৰোক্ষ বোলা হয়। সংযোগহীনতা, সম্পূৰ্ণ সংহতি আৰু কেৱল ধৰ্মান্তৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-134",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam period's most important long term contribution to the region's culture was",
+      "as": "অঞ্চলৰ সংস্কৃতিলৈ প্ৰাচীন অসম যুগৰ আটাইতকৈ গুৰুত্বপূৰ্ণ দীৰ্ঘম্যাদী অৱদান আছিল"
+    },
+    "options": [
+      {
+        "en": "the introduction of tea",
+        "as": "চাহৰ প্ৰৱৰ্তন"
+      },
+      {
+        "en": "the railway network",
+        "as": "ৰেল পথ"
+      },
+      {
+        "en": "the printing press",
+        "as": "ছাপাখনা"
+      },
+      {
+        "en": "the fusion of Sanskritic and local religious practice",
+        "as": "সংস্কৃত আৰু স্থানীয় ধৰ্মীয় ৰীতিৰ সংমিশ্ৰণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Temple, tantra and local cults blended, which is why the fusion reading is used. Tea, railways and printing are modern.",
+      "as": "মন্দিৰ, তন্ত্ৰ আৰু স্থানীয় উপাসনা মিলিছিল, সেয়ে সংমিশ্ৰণৰ পঢ়া ব্যৱহাৰ কৰা হয়। চাহ, ৰেল আৰু ছপাকৰণ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-135",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' patronage of Sanskrit learning is visible in",
+      "as": "সংস্কৃত বিদ্যাৰ প্ৰতি প্ৰাচীন কামৰূপ ৰজাসকলৰ পৃষ্ঠপোষকতা দৃশ্যমান"
+    },
+    "options": [
+      {
+        "en": "their Persian chronicles",
+        "as": "তেওঁলোকৰ ফাৰ্চী বুৰঞ্জীত"
+      },
+      {
+        "en": "their printed books",
+        "as": "তেওঁলোকৰ ছপা কিতাপত"
+      },
+      {
+        "en": "the polished Sanskrit of their grants",
+        "as": "তেওঁলোকৰ শাসনপত্ৰৰ পৰিশীলিত সংস্কৃতত"
+      },
+      {
+        "en": "their English correspondence",
+        "as": "তেওঁলোকৰ ইংৰাজী পত্ৰাচাৰত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The grants are composed in formal Sanskrit, which is why they are evidence of learning. English, Persian and print belong to later periods.",
+      "as": "শাসনপত্ৰ আনুষ্ঠানিক সংস্কৃতত ৰচিত, সেয়ে সেয়া বিদ্যাৰ প্ৰমাণ। ইংৰাজী, ফাৰ্চী আৰু ছপা পিছৰ যুগৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-136",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's main export in early times is generally taken to be",
+      "as": "প্ৰাচীন অসম অঞ্চলৰ প্ৰাৰম্ভিক কালৰ প্ৰধান ৰপ্তানি সাধাৰণতে ধৰা হয়"
+    },
+    "options": [
+      {
+        "en": "coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "forest produce and handicrafts",
+        "as": "অৰণ্য উৎপাদন আৰু হস্তশিল্প"
+      },
+      {
+        "en": "tea",
+        "as": "চাহ"
+      },
+      {
+        "en": "petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Timber, silk and crafts moved along the routes, which is why they are named. Tea, petroleum and coal are colonial era exports.",
+      "as": "কাঠ, পাট আৰু শিল্প সামগ্ৰী পথেৰে গৈছিল, সেয়ে সেয়া নাম দিয়া হয়। চাহ, পেট্ৰ'লিয়াম আৰু কয়লা ঔপনিবেশিক যুগৰ ৰপ্তানি।"
+    }
+  },
+  {
+    "id": "assam-history-extra-137",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa state's capacity to issue grants across a wide area depended on",
+      "as": "বহল অঞ্চলত শাসনপত্ৰ জাৰি কৰাৰ প্ৰাচীন কামৰূপ ৰাজ্যৰ সামৰ্থ্য নিৰ্ভৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "a network of officials and local notables",
+        "as": "বিষয়া আৰু স্থানীয় প্ৰভাৱশালীৰ জালিকাৰ ওপৰত"
+      },
+      {
+        "en": "a large navy",
+        "as": "বৃহৎ নৌসেনাৰ ওপৰত"
+      },
+      {
+        "en": "European support",
+        "as": "ইউৰোপীয় সমৰ্থনৰ ওপৰত"
+      },
+      {
+        "en": "a single royal messenger",
+        "as": "এজন ৰাজকীয় দূতৰ ওপৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Officials and notables carried out the grants, which is why the network reading is used. A navy, European support and one messenger are wrong.",
+      "as": "বিষয়া আৰু প্ৰভাৱশালীয়ে শাসনপত্ৰ কাৰ্যকৰী কৰিছিল, সেয়ে জালিকাৰ পঢ়া ব্যৱহাৰ কৰা হয়। নৌসেনা, ইউৰোপীয় সমৰ্থন আৰু এজন দূত ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-138",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "What does the ancient Assam period contribute to the study of Indian political geography?",
+      "as": "ভাৰতীয় ৰাজনৈতিক ভূগোল অধ্যয়নত প্ৰাচীন অসম যুগে কি যোগদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "an empty buffer zone",
+        "as": "ৰিক্ত মধ্যস্থ অঞ্চল"
+      },
+      {
+        "en": "a Mughal province",
+        "as": "মোগল প্ৰদেশ"
+      },
+      {
+        "en": "a British district",
+        "as": "ব্ৰিটিছ জিলা"
+      },
+      {
+        "en": "a frontier region with its own state structures",
+        "as": "নিজা ৰাজ্য গাঁথনিযুক্ত সীমান্ত অঞ্চল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The region had its own kingdoms, which is why it is not a buffer or a province. Mughal and British rule came later.",
+      "as": "অঞ্চলটোৰ নিজা ৰাজ্য আছিল, সেয়ে ই মধ্যস্থ অঞ্চল বা প্ৰদেশ নহয়। মোগল আৰু ব্ৰিটিছ শাসন পিছত আহিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-139",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's coins are useful to historians mainly because they",
+      "as": "প্ৰাচীন কামৰূপ যুগৰ মুদ্ৰা ইতিহাসবিদৰ বাবে মূলতঃ উপযোগী কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "list all villages",
+        "as": "সকলো গাঁও তালিকাভুক্ত কৰে"
+      },
+      {
+        "en": "describe religious rituals fully",
+        "as": "ধৰ্মীয় ৰীতি সম্পূৰ্ণ বৰ্ণনা কৰে"
+      },
+      {
+        "en": "help date rulers and show economic activity",
+        "as": "শাসকৰ তাৰিখ নিৰ্ধাৰণ আৰু অৰ্থনৈতিক কাৰ্যকলাপ দেখুৱায়"
+      },
+      {
+        "en": "record the weather",
+        "as": "বতৰ লিপিবদ্ধ কৰে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Coins carry names and styles that date reigns, which is why numismatics matters. Weather, village lists and full rituals are not their content.",
+      "as": "মুদ্ৰাত নাম আৰু শৈলী থাকে যি ৰাজত্বৰ তাৰিখ দিয়ে, সেয়ে মুদ্ৰাবিদ্যা গুৰুত্বপূৰ্ণ। বতৰ, গাঁৱৰ তালিকা আৰু সম্পূৰ্ণ ৰীতি তাৰ বিষয়বস্তু নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-140",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main religious centres besides Kamakhya included",
+      "as": "কামাখ্যাৰ বাহিৰে প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান ধৰ্মীয় কেন্দ্ৰৰ অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "Sikh gurudwaras",
+        "as": "শিখ গুৰুদ্বাৰা"
+      },
+      {
+        "en": "Shaiva and Vaishnava temple sites",
+        "as": "শৈৱ আৰু বৈষ্ণৱ মন্দিৰ স্থান"
+      },
+      {
+        "en": "Mughal mosques",
+        "as": "মোগল মছজিদ"
+      },
+      {
+        "en": "British churches",
+        "as": "ব্ৰিটিছ গীৰ্জাঘৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Shaiva and Vaishnava sites are recorded, which is why they are cited. Mughal, British and Sikh institutions belong to other periods.",
+      "as": "শৈৱ আৰু বৈষ্ণৱ স্থান লিপিবদ্ধ, সেয়ে সেয়া উদ্ধৃত। মোগল, ব্ৰিটিছ আৰু শিখ প্ৰতিষ্ঠান আন যুগৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-141",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' use of the title 'Parameshvara' and 'Maharajadhiraja' together shows",
+      "as": "কামৰূপ ৰজাসকলে 'পৰমেশ্বৰ' আৰু 'মহাৰাজাধিৰাজ' উপাধি একেলগে ব্যৱহাৰে দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a claim to both divine sanction and political supremacy",
+        "as": "ঐশ্বৰিক অনুমোদন আৰু ৰাজনৈতিক শ্ৰেষ্ঠত্ব দুয়োটাৰ দাবী"
+      },
+      {
+        "en": "a rejection of kingship",
+        "as": "ৰাজত্বৰ প্ৰত্যাখ্যান"
+      },
+      {
+        "en": "a Buddhist conversion",
+        "as": "বৌদ্ধ ধৰ্মান্তৰ"
+      },
+      {
+        "en": "a British title",
+        "as": "ব্ৰিটিছ উপাধি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pair combines religious and political claims, which is why both are read together. Rejection, conversion and British honours do not fit.",
+      "as": "যোৰটোৱে ধৰ্মীয় আৰু ৰাজনৈতিক দাবী মিলায়, সেয়ে দুয়ো একেলগে পঢ়া হয়। প্ৰত্যাখ্যান, ধৰ্মান্তৰ আৰু ব্ৰিটিছ সন্মান নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-142",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's population in the Kamarupa period was mainly",
+      "as": "কামৰূপ যুগত প্ৰাচীন অসম অঞ্চলৰ জনসংখ্যা মূলতঃ আছিল"
+    },
+    "options": [
+      {
+        "en": "entirely urban",
+        "as": "সম্পূৰ্ণ নগৰীয়া"
+      },
+      {
+        "en": "purely nomadic",
+        "as": "কেৱল যাযাবৰ"
+      },
+      {
+        "en": "industrial",
+        "as": "ঔদ্যোগিক"
+      },
+      {
+        "en": "rural and agrarian with scattered towns",
+        "as": "গাঁওমুখী আৰু কৃষিভিত্তিক, সিঁচৰতি নগৰসহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Villages dominated with a few towns, which is why the grants name both. Entirely urban, nomadic and industrial are wrong.",
+      "as": "গাঁৱৰ প্ৰাধান্য আছিল, কিছু নগৰসহ, সেয়ে শাসনপত্ৰই দুয়োটাৰ নাম দিয়ে। সম্পূৰ্ণ নগৰীয়া, যাযাবৰ আৰু ঔদ্যোগিক ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-143",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa state's interest in controlling river crossings was mainly",
+      "as": "নদীৰ ঘাট নিয়ন্ত্ৰণত প্ৰাচীন কামৰূপ ৰাজ্যৰ আগ্ৰহ মূলতঃ আছিল"
+    },
+    "options": [
+      {
+        "en": "artistic only",
+        "as": "কেৱল শৈল্পিক"
+      },
+      {
+        "en": "irrelevant",
+        "as": "অপ্ৰাসংগিক"
+      },
+      {
+        "en": "strategic and revenue related",
+        "as": "কৌশলগত আৰু ৰাজহ সম্পৰ্কীয়"
+      },
+      {
+        "en": "religious only",
+        "as": "কেৱল ধৰ্মীয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Crossings carried troops and tolls, which is why they were guarded. Purely religious, artistic or irrelevant readings are wrong.",
+      "as": "ঘাটে সৈন্য আৰু শুল্ক কঢ়িয়াইছিল, সেয়ে সেয়া ৰক্ষা কৰা হৈছিল। কেৱল ধৰ্মীয়, শৈল্পিক বা অপ্ৰাসংগিক পঢ়া ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-144",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam period's end is marked in political terms by",
+      "as": "ৰাজনৈতিক দিশৰপৰা প্ৰাচীন অসম যুগৰ অন্ত চিহ্নিত হয়"
+    },
+    "options": [
+      {
+        "en": "the partition of India",
+        "as": "ভাৰত বিভাজনৰ দ্বাৰা"
+      },
+      {
+        "en": "the fragmentation of Kamarupa into smaller states",
+        "as": "কামৰূপ সৰু ৰাজ্যত বিভক্ত হোৱাৰ দ্বাৰা"
+      },
+      {
+        "en": "the arrival of the British",
+        "as": "ব্ৰিটিছৰ আগমনৰ দ্বাৰা"
+      },
+      {
+        "en": "the battle of Plassey",
+        "as": "পলাশী যুদ্ধৰ দ্বাৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Fragmentation opens the medieval phase, which is why the divide sits there. The British, Plassey and partition are far later.",
+      "as": "বিভাজনে মধ্যযুগীয় পৰ্যায় আৰম্ভ কৰে, সেয়ে বিভাজন তাত। ব্ৰিটিছ, পলাশী আৰু বিভাজন বহু পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-145",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants to Brahmins were often made at places of",
+      "as": "ব্ৰাহ্মণলৈ প্ৰাচীন কামৰূপ ৰজাসকলৰ দান প্ৰায়ে কাৰ স্থানত কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "religious merit such as river banks and tirthas",
+        "as": "নদীৰ পাৰ আৰু তীৰ্থ আদি ধৰ্মীয় পুণ্যস্থানত"
+      },
+      {
+        "en": "battlefields",
+        "as": "যুদ্ধক্ষেত্ৰত"
+      },
+      {
+        "en": "market squares",
+        "as": "বজাৰ চৌহদত"
+      },
+      {
+        "en": "military camps",
+        "as": "সামৰিক শিবিৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Riverside and tirtha locations carried merit, which is why grants cluster there. Battlefields, markets and camps are not the pattern.",
+      "as": "নদীৰ পাৰ আৰু তীৰ্থস্থানত পুণ্য আছিল, সেয়ে শাসনপত্ৰ তাত কেন্দ্ৰীভূত। যুদ্ধক্ষেত্ৰ, বজাৰ আৰু শিবিৰ আৰ্হি নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-146",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's significance for later Assamese society was that it",
+      "as": "পিছৰ অসমীয়া সমাজৰ বাবে প্ৰাচীন কামৰূপ যুগৰ গুৰুত্ব আছিল যে ই"
+    },
+    "options": [
+      {
+        "en": "created the tea industry",
+        "as": "চাহ উদ্যোগ সৃষ্টি কৰিছিল"
+      },
+      {
+        "en": "ended agriculture",
+        "as": "কৃষি অন্ত কৰিছিল"
+      },
+      {
+        "en": "brought the British",
+        "as": "ব্ৰিটিছ আনিছিল"
+      },
+      {
+        "en": "established the village and landholding order that lasted",
+        "as": "দীৰ্ঘদিন টিকি থকা গাঁও আৰু ভূমি ব্যৱস্থা প্ৰতিষ্ঠা কৰিছিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Village and landholding patterns persisted, which is why the period is formative. Tea, the end of farming and the British are modern.",
+      "as": "গাঁও আৰু ভূমি ব্যৱস্থা ৰৈ গৈছিল, সেয়ে যুগটো গঠনকাৰী। চাহ, কৃষি অন্ত আৰু ব্ৰিটিছ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-147",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' authority is best described as",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ কৰ্তৃত্ব শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "fully democratic",
+        "as": "সম্পূৰ্ণ গণতান্ত্ৰিক"
+      },
+      {
+        "en": "colonial",
+        "as": "ঔপনিবেশিক"
+      },
+      {
+        "en": "centralised in claim but mediated by local officers",
+        "as": "দাবীত কেন্দ্ৰীভূত কিন্তু স্থানীয় বিষয়াৰ জৰিয়তে প্ৰয়োগ"
+      },
+      {
+        "en": "purely symbolic",
+        "as": "কেৱল প্ৰতীকী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Titles claim central power while grants show local mediation, which is why the reading is qualified. Purely symbolic, democratic and colonial are wrong.",
+      "as": "উপাধিয়ে কেন্দ্ৰীয় শক্তি দাবী কৰে আৰু শাসনপত্ৰই স্থানীয় মধ্যস্থতা দেখুৱায়, সেয়ে পঢ়াটো চৰ্তসাপেক্ষ। কেৱল প্ৰতীকী, গণতান্ত্ৰিক আৰু ঔপনিবেশিক ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-148",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's main river besides the Brahmaputra that supported settlement was",
+      "as": "ব্ৰহ্মপুত্ৰৰ বাহিৰে বসতিত সহায় কৰা প্ৰাচীন অসম অঞ্চলৰ প্ৰধান নদী আছিল"
+    },
+    "options": [
+      {
+        "en": "the Narmada",
+        "as": "নৰ্মদা"
+      },
+      {
+        "en": "the Kapili",
+        "as": "কপিলী"
+      },
+      {
+        "en": "the Ganga",
+        "as": "গংগা"
+      },
+      {
+        "en": "the Yamuna",
+        "as": "যমুনা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Kapili valley supported settlements and Davaka, which is why it appears in early records. The Ganga, Yamuna and Narmada lie outside the region.",
+      "as": "কপিলী উপত্যকাই বসতি আৰু দৱাকক সহায় কৰিছিল, সেয়ে ই প্ৰাচীন ৰেকৰ্ডত ওলায়। গংগা, যমুনা আৰু নৰ্মদা অঞ্চলৰ বাহিৰত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-149",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants show that Sanskrit was used mainly for",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই দেখুৱায় সংস্কৃত মূলতঃ কাৰ বাবে ব্যৱহৃত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "formal and legal documentation",
+        "as": "আনুষ্ঠানিক আৰু আইনী দস্তাবেজ"
+      },
+      {
+        "en": "ordinary village speech",
+        "as": "সাধাৰণ গাঁৱৰ কথা"
+      },
+      {
+        "en": "military commands",
+        "as": "সামৰিক আদেশ"
+      },
+      {
+        "en": "trade accounting",
+        "as": "বাণিজ্য হিচাপ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Charters are in formal Sanskrit, which is why the language marks official use. Village speech, commands and accounts were not its main use.",
+      "as": "শাসনপত্ৰ আনুষ্ঠানিক সংস্কৃতত, সেয়ে ভাষাটোৱে আনুষ্ঠানিক ব্যৱহাৰ চিহ্নিত কৰে। গাঁৱৰ কথা, আদেশ আৰু হিচাপ তাৰ প্ৰধান ব্যৱহাৰ নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-150",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's earliest states are known mainly from",
+      "as": "প্ৰাচীন অসম অঞ্চলৰ আটাইতকৈ পুৰণি ৰাজ্য মূলতঃ কাৰপৰা জনা যায়"
+    },
+    "options": [
+      {
+        "en": "British census reports",
+        "as": "ব্ৰিটিছ জনগণনা প্ৰতিবেদনৰপৰা"
+      },
+      {
+        "en": "Mughal revenue records",
+        "as": "মোগল ৰাজহ ৰেকৰ্ডৰপৰা"
+      },
+      {
+        "en": "modern newspapers",
+        "as": "আধুনিক বাতৰি কাকতৰপৰা"
+      },
+      {
+        "en": "epics, Puranas and early inscriptions",
+        "as": "মহাকাব্য, পুৰাণ আৰু প্ৰাৰম্ভিক শিলালিপিৰপৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Texts and inscriptions carry the early names, which is why those sources are used. British, Mughal and newspaper records are far later.",
+      "as": "গ্ৰন্থ আৰু শিলালিপিয়ে প্ৰাৰম্ভিক নাম ৰাখে, সেয়ে সেই উৎস ব্যৱহাৰ কৰা হয়। ব্ৰিটিছ, মোগল আৰু বাতৰি ৰেকৰ্ড বহু পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-151",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa state's ability to mobilise labour for temples and tanks shows",
+      "as": "মন্দিৰ আৰু পুখুৰীৰ বাবে শ্ৰম সংগঠিত কৰাৰ প্ৰাচীন কামৰূপ ৰাজ্যৰ সামৰ্থ্যই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a modern bureaucracy",
+        "as": "আধুনিক আমলাতন্ত্ৰ"
+      },
+      {
+        "en": "European management",
+        "as": "ইউৰোপীয় পৰিচালনা"
+      },
+      {
+        "en": "a functioning system of local obligation",
+        "as": "স্থানীয় বাধ্যবাধকতাৰ কাৰ্যকৰী ব্যৱস্থা"
+      },
+      {
+        "en": "the absence of any organisation",
+        "as": "কোনো সংগঠনৰ অভাৱ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Local obligation supplied labour, which is why the reading is organisational. Absence of organisation, modern bureaucracy and European management are wrong.",
+      "as": "স্থানীয় বাধ্যবাধকতাই শ্ৰম যোগাইছিল, সেয়ে পঢ়াটো সংগঠনমূলক। সংগঠনহীনতা, আধুনিক আমলাতন্ত্ৰ আৰু ইউৰোপীয় পৰিচালনা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-152",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam period's most reliable dating evidence comes from",
+      "as": "প্ৰাচীন অসম যুগৰ আটাইতকৈ নিৰ্ভৰযোগ্য তাৰিখ প্ৰমাণ আহে"
+    },
+    "options": [
+      {
+        "en": "British travel writing",
+        "as": "ব্ৰিটিছ ভ্ৰমণ সাহিত্যৰপৰা"
+      },
+      {
+        "en": "dated inscriptions and associated coin finds",
+        "as": "তাৰিখযুক্ত শিলালিপি আৰু সংশ্লিষ্ট মুদ্ৰা প্ৰাপ্তিৰপৰা"
+      },
+      {
+        "en": "folk tales alone",
+        "as": "কেৱল লোককথাৰপৰা"
+      },
+      {
+        "en": "modern novels",
+        "as": "আধুনিক উপন্যাসৰপৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Inscriptions and coins fix dates, which is why they anchor chronology. Folk tales, novels and travel writing are not dating evidence.",
+      "as": "শিলালিপি আৰু মুদ্ৰাই তাৰিখ স্থিৰ কৰে, সেয়ে সেয়া কালানুক্ৰমৰ ভেটি। লোককথা, উপন্যাস আৰু ভ্ৰমণ সাহিত্য তাৰিখ প্ৰমাণ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-153",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants show that the state derived income from",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই দেখুৱায় ৰাজ্যই আয় লাভ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "land, produce shares and specified dues",
+        "as": "ভূমি, উৎপাদনৰ অংশ আৰু নিৰ্দিষ্ট মাচুলৰপৰা"
+      },
+      {
+        "en": "income tax on wages",
+        "as": "মজুৰিৰ ওপৰত আয় কৰৰপৰা"
+      },
+      {
+        "en": "European loans",
+        "as": "ইউৰোপীয় ঋণৰপৰা"
+      },
+      {
+        "en": "share market profits",
+        "as": "শ্বেয়াৰ বজাৰৰ লাভৰপৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Land and dues are listed in the charters, which is why the fiscal reading is used. Wage tax, European loans and share markets are anachronistic.",
+      "as": "ভূমি আৰু মাচুল শাসনপত্ৰত তালিকাভুক্ত, সেয়ে ৰাজহৰ পঢ়া ব্যৱহাৰ কৰা হয়। মজুৰি কৰ, ইউৰোপীয় ঋণ আৰু শ্বেয়াৰ বজাৰ কালবিৰুদ্ধ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-154",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's political structure in the Kamarupa period is best described as",
+      "as": "কামৰূপ যুগত প্ৰাচীন অসম অঞ্চলৰ ৰাজনৈতিক গাঁথনি শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "a republic of villages",
+        "as": "গাঁৱৰ গণৰাজ্য"
+      },
+      {
+        "en": "a theocracy",
+        "as": "ধৰ্মতন্ত্ৰ"
+      },
+      {
+        "en": "a colonial administration",
+        "as": "ঔপনিবেশিক প্ৰশাসন"
+      },
+      {
+        "en": "a monarchy with a graded officialdom",
+        "as": "স্তৰযুক্ত বিষয়াবৰ্গসহ ৰাজতন্ত্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Kings ruled through graded officers, which is why the monarchy reading is used. A village republic, theocracy and colonial rule do not fit.",
+      "as": "ৰজাসকলে স্তৰযুক্ত বিষয়াৰ জৰিয়তে শাসন কৰিছিল, সেয়ে ৰাজতন্ত্ৰৰ পঢ়া ব্যৱহাৰ কৰা হয়। গাঁৱৰ গণৰাজ্য, ধৰ্মতন্ত্ৰ আৰু ঔপনিবেশিক শাসন নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-155",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters were usually issued in the name of",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ সাধাৰণতে কাৰ নামত জাৰি কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "a merchant guild",
+        "as": "বণিক সংঘৰ"
+      },
+      {
+        "en": "a foreign ruler",
+        "as": "বিদেশী শাসকৰ"
+      },
+      {
+        "en": "the reigning king with his full titles",
+        "as": "শাসনকৰ্তা ৰজাৰ সম্পূৰ্ণ উপাধিসহ"
+      },
+      {
+        "en": "a village council",
+        "as": "গাঁও পৰিষদৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Full royal titles head each charter, which is why the king is the issuer. Councils, guilds and foreign rulers did not issue them.",
+      "as": "প্ৰতিখন শাসনপত্ৰৰ শিৰত সম্পূৰ্ণ ৰাজকীয় উপাধি থাকে, সেয়ে ৰজাই জাৰিকৰ্তা। পৰিষদ, সংঘ আৰু বিদেশী শাসকে জাৰি কৰা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-156",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's contact with the Ganga valley is best evidenced by",
+      "as": "গংগা উপত্যকাৰ লগত প্ৰাচীন অসম অঞ্চলৰ সংযোগৰ শ্ৰেষ্ঠ প্ৰমাণ"
+    },
+    "options": [
+      {
+        "en": "tea plantations",
+        "as": "চাহ বাগিচা"
+      },
+      {
+        "en": "shared titles, script and artistic forms",
+        "as": "সহভাগী উপাধি, লিপি আৰু শৈল্পিক ৰূপ"
+      },
+      {
+        "en": "the presence of Mughal forts",
+        "as": "মোগল দুৰ্গৰ উপস্থিতি"
+      },
+      {
+        "en": "British railway lines",
+        "as": "ব্ৰিটিছ ৰেল পথ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Titles, script and art are shared, which is why the link is inferred. Mughal forts, railways and tea are later or unrelated.",
+      "as": "উপাধি, লিপি আৰু কলা সহভাগী, সেয়ে সংযোগ অনুমান কৰা হয়। মোগল দুৰ্গ, ৰেল আৰু চাহ পিছৰ বা অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-157",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa state's dealings with hill communities usually took the form of",
+      "as": "পাহাৰীয়া সম্প্ৰদায়ৰ লগত প্ৰাচীন কামৰূপ ৰাজ্যৰ লেনদেন সাধাৰণতে ৰূপ লৈছিল"
+    },
+    "options": [
+      {
+        "en": "tribute and exchange rather than direct rule",
+        "as": "প্ৰত্যক্ষ শাসনৰ সলনি কৰ আৰু বিনিময়"
+      },
+      {
+        "en": "complete annexation",
+        "as": "সম্পূৰ্ণ সংযুক্তি"
+      },
+      {
+        "en": "religious missions only",
+        "as": "কেৱল ধৰ্মীয় অভিযান"
+      },
+      {
+        "en": "no contact",
+        "as": "সংযোগহীনতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tribute and exchange defined the link, which is why indirect rule is inferred. Annexation, missions only and no contact are wrong.",
+      "as": "কৰ আৰু বিনিময়ে সংযোগ নিৰ্ধাৰণ কৰিছিল, সেয়ে পৰোক্ষ শাসন অনুমান কৰা হয়। সংযুক্তি, কেৱল অভিযান আৰু সংযোগহীনতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-158",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam period's importance for language history is that it shows",
+      "as": "ভাষা ইতিহাসৰ বাবে প্ৰাচীন অসম যুগৰ গুৰুত্ব হ'ল ই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "the absence of any language",
+        "as": "কোনো ভাষাৰ অভাৱ"
+      },
+      {
+        "en": "the dominance of English",
+        "as": "ইংৰাজীৰ প্ৰাধান্য"
+      },
+      {
+        "en": "the use of Persian only",
+        "as": "কেৱল ফাৰ্চী ব্যৱহাৰ"
+      },
+      {
+        "en": "early use of Sanskrit alongside local speech",
+        "as": "স্থানীয় কথাৰ কাষত সংস্কৃতৰ প্ৰাৰম্ভিক ব্যৱহাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sanskrit charters imply a local spoken language beneath them, which is why the pairing is read. No language, English and Persian only are wrong.",
+      "as": "সংস্কৃত শাসনপত্ৰই তলত স্থানীয় কথিত ভাষা সূচায়, সেয়ে যোৰটো পঢ়া হয়। ভাষাহীনতা, ইংৰাজী আৰু কেৱল ফাৰ্চী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-159",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants were witnessed by officials because the charter was",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ বিষয়াসকলে সাক্ষী দিছিল কাৰণ পত্ৰখন"
+    },
+    "options": [
+      {
+        "en": "a religious hymn",
+        "as": "ধৰ্মীয় স্তোত্ৰ আছিল"
+      },
+      {
+        "en": "a trade invoice",
+        "as": "বাণিজ্য বিল আছিল"
+      },
+      {
+        "en": "a public legal document",
+        "as": "ৰাজহুৱা আইনী দস্তাবেজ আছিল"
+      },
+      {
+        "en": "a private letter",
+        "as": "ব্যক্তিগত চিঠি আছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Witnesses make it a public act, which is why it is legally read. Private letters, hymns and invoices are different.",
+      "as": "সাক্ষীয়ে ইয়াক ৰাজহুৱা কাৰ্য কৰে, সেয়ে ইয়াক আইনীভাৱে পঢ়া হয়। ব্যক্তিগত চিঠি, স্তোত্ৰ আৰু বিল বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-160",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's earliest urban centres grew mainly at",
+      "as": "প্ৰাচীন অসম অঞ্চলৰ আটাইতকৈ পুৰণি নগৰীয়া কেন্দ্ৰ মূলতঃ কাৰ ওচৰত গঢ় লৈছিল"
+    },
+    "options": [
+      {
+        "en": "sea ports",
+        "as": "সাগৰ বন্দৰত"
+      },
+      {
+        "en": "river crossings and administrative seats",
+        "as": "নদীৰ ঘাট আৰু প্ৰশাসনিক আসনৰ ওচৰত"
+      },
+      {
+        "en": "high mountain passes",
+        "as": "ওখ পৰ্বতীয়া গিৰিপথত"
+      },
+      {
+        "en": "desert oases",
+        "as": "মৰুভূমিৰ মৰুদ্যানত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rivers and seats of power drew settlement, which is why towns appear there. Mountain passes, oases and sea ports do not describe the region.",
+      "as": "নদী আৰু ক্ষমতাৰ আসনে বসতি আকৰ্ষণ কৰিছিল, সেয়ে নগৰ তাত ওলায়। পৰ্বতীয়া গিৰিপথ, মৰুদ্যান আৰু সাগৰ বন্দৰ অঞ্চলটোৰ বৰ্ণনা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-161",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main challenge for historians is",
+      "as": "ইতিহাসবিদৰ বাবে প্ৰাচীন কামৰূপ যুগৰ প্ৰধান প্ৰত্যাহ্বান"
+    },
+    "options": [
+      {
+        "en": "the uneven survival of sources",
+        "as": "উৎসৰ অসম জীৱনকাল"
+      },
+      {
+        "en": "the abundance of records",
+        "as": "ৰেকৰ্ডৰ প্ৰাচুৰ্য"
+      },
+      {
+        "en": "the absence of any inscriptions",
+        "as": "কোনো শিলালিপিৰ অভাব"
+      },
+      {
+        "en": "the use of English",
+        "as": "ইংৰাজী ব্যৱহাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Some periods are well documented and others are not, which is why the record is uneven. Abundant records, no inscriptions and English use are wrong.",
+      "as": "কিছু সময় সু-লিখিত আৰু কিছু নহয়, সেয়ে ৰেকর্ড অসম। ৰেকৰ্ডৰ প্ৰাচুৰ্য, শিলালিপিৰ অভাব আৰু ইংৰাজী ব্যৱহাৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-162",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters often record the donee's",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই প্ৰায়ে গ্ৰহীতাৰ এইটো লিপিবদ্ধ কৰে"
+    },
+    "options": [
+      {
+        "en": "income tax slab",
+        "as": "আয় কৰৰ স্তৰ"
+      },
+      {
+        "en": "military rank",
+        "as": "সামৰিক পদ"
+      },
+      {
+        "en": "village of birth only",
+        "as": "কেৱল জন্মগাঁও"
+      },
+      {
+        "en": "lineage, Vedic branch and place of origin",
+        "as": "বংশাৱলী, বৈদিক শাখা আৰু উৎপত্তিস্থান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Donee details identify the recipient precisely, which is why they are listed. Tax slabs, ranks and birth village alone are not the pattern.",
+      "as": "গ্ৰহীতাৰ বিৱৰণে প্ৰাপকক সঠিকভাৱে চিনাক্ত কৰে, সেয়ে সেয়া তালিকাভুক্ত। কৰ স্তৰ, পদ আৰু কেৱল জন্মগাঁও আৰ্হি নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-163",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's economy in the Kamarupa period is best described as",
+      "as": "কামৰূপ যুগত প্ৰাচীন অসম অঞ্চলৰ অৰ্থনীতি শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "purely pastoral",
+        "as": "কেৱল পশুপালনভিত্তিক"
+      },
+      {
+        "en": "based on paper money",
+        "as": "কাগজৰ মুদ্ৰাভিত্তিক"
+      },
+      {
+        "en": "agrarian with local exchange and limited long distance trade",
+        "as": "স্থানীয় বিনিময় আৰু সীমিত দূৰ বাণিজ্যসহ কৃষিভিত্তিক"
+      },
+      {
+        "en": "fully industrial",
+        "as": "সম্পূৰ্ণ ঔদ্যোগিক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Farming dominated with some trade, which is why the description is mixed. Fully industrial, purely pastoral and paper money are wrong.",
+      "as": "খেতিৰ প্ৰাধান্য আছিল, কিছু বাণিজ্যসহ, সেয়ে বৰ্ণনা মিশ্ৰিত। সম্পূৰ্ণ ঔদ্যোগিক, কেৱল পশুপালন আৰু কাগজৰ মুদ্ৰা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-164",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' patronage of temples is visible in the record through",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ মন্দিৰ পৃষ্ঠপোষকতা ৰেকৰ্ডত দৃশ্যমান কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "their railway grants",
+        "as": "তেওঁলোকৰ ৰেল দানৰ জৰিয়তে"
+      },
+      {
+        "en": "grants of land and income to temple establishments",
+        "as": "মন্দিৰ প্ৰতিষ্ঠানলৈ ভূমি আৰু আয়ৰ দানৰ জৰিয়তে"
+      },
+      {
+        "en": "their European tours",
+        "as": "তেওঁলোকৰ ইউৰোপ ভ্ৰমণৰ জৰিয়তে"
+      },
+      {
+        "en": "their printed books",
+        "as": "তেওঁলোকৰ ছপা কিতাপৰ জৰিয়তে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Land and income grants funded worship, which is why they appear in charters. European tours, printed books and railways are modern.",
+      "as": "ভূমি আৰু আয়ৰ দানে উপাসনা চলাইছিল, সেয়ে সেয়া শাসনপত্ৰত ওলায়। ইউৰোপ ভ্ৰমণ, ছপা কিতাপ আৰু ৰেল আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-165",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's link with the Gupta empire is best described as",
+      "as": "গুপ্ত সাম্ৰাজ্যৰ লগত প্ৰাচীন অসম অঞ্চলৰ সংযোগ শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "loose and diplomatic rather than administrative",
+        "as": "প্ৰশাসনিক নহয়, শিথিল আৰু কূটনৈতিক"
+      },
+      {
+        "en": "full provincial annexation",
+        "as": "সম্পূৰ্ণ প্ৰাদেশিক সংযুক্তি"
+      },
+      {
+        "en": "complete isolation",
+        "as": "সম্পূৰ্ণ বিচ্ছিন্নতা"
+      },
+      {
+        "en": "a military occupation",
+        "as": "সামৰিক দখল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Homage and titles rather than governors mark the link, which is why it is called loose. Annexation, isolation and occupation are wrong.",
+      "as": "শাসনপালৰ সলনি শ্ৰদ্ধাঞ্জলি আৰু উপাধিয়ে সংযোগ চিহ্নিত কৰে, সেয়ে ইয়াক শিথিল বোলা হয়। সংযুক্তি, বিচ্ছিন্নতা আৰু দখল ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-166",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's most enduring written legacy is",
+      "as": "প্ৰাচীন কামৰূপ যুগৰ আটাইতকৈ স্থায়ী লিখিত উত্তৰাধিকাৰ"
+    },
+    "options": [
+      {
+        "en": "printed newspapers",
+        "as": "ছপা বাতৰি কাকত"
+      },
+      {
+        "en": "English novels",
+        "as": "ইংৰাজী উপন্যাস"
+      },
+      {
+        "en": "Persian chronicles",
+        "as": "ফাৰ্চী বুৰঞ্জী"
+      },
+      {
+        "en": "the corpus of copper plate charters",
+        "as": "তাম্ৰপত্ৰ শাসনপত্ৰৰ সংকলন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The charters survive in number and detail, which is why they are the main legacy. Newspapers, novels and Persian chronicles belong elsewhere.",
+      "as": "শাসনপত্ৰ সংখ্যা আৰু বিৱৰণত ৰৈ গৈছে, সেয়ে সেয়া প্ৰধান উত্তৰাধিকাৰ। বাতৰি কাকত, উপন্যাস আৰু ফাৰ্চী বুৰঞ্জী আন ঠাইৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-167",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's religious life in the Kamarupa period included",
+      "as": "কামৰূপ যুগত প্ৰাচীন অসম অঞ্চলৰ ধৰ্মীয় জীৱনত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "only Christianity",
+        "as": "কেৱল খ্ৰীষ্টধৰ্ম"
+      },
+      {
+        "en": "no religion at all",
+        "as": "কোনো ধৰ্ম নাই"
+      },
+      {
+        "en": "Brahmanical, Buddhist and local cult practice together",
+        "as": "ব্ৰাহ্মণ্য, বৌদ্ধ আৰু স্থানীয় উপাসনা একেলগে"
+      },
+      {
+        "en": "only Islam",
+        "as": "কেৱল ইছলাম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Multiple traditions coexisted, which is why the plural reading is used. Only Islam, only Christianity and no religion are contradicted.",
+      "as": "একাধিক পৰম্পৰা সহাৱস্থান কৰিছিল, সেয়ে বহুত্বৰ পঢ়া ব্যৱহাৰ কৰা হয়। কেৱল ইছলাম, কেৱল খ্ৰীষ্টধৰ্ম আৰু ধৰ্মহীনতা খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-168",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Kamarupa king who bore the title 'Gaudeshvara' after defeating the Gauda ruler was",
+      "as": "গৌড়ৰ শাসকক পৰাজিত কৰি 'গৌড়েশ্বৰ' উপাধি ধাৰণ কৰা কামৰূপ ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Brahma Pala",
+        "as": "ব্ৰহ্মপাল"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যভৰ্মন"
+      },
+      {
+        "en": "Salastambha",
+        "as": "শালস্তম্ভ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bhaskarvarman's campaigns against Gauda earned the title, which is why he is named. Pushyavarman founded the line, Salastambha began a new dynasty and Brahma Pala founded the Palas.",
+      "as": "গৌড়ৰ বিৰুদ্ধে অভিযানে ভাস্কৰবৰ্মনক উপাধি আনি দিছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। পুষ্যভৰ্মনে বংশ প্ৰতিষ্ঠা কৰিছিল, শালস্তম্ভই নতুন বংশ আৰম্ভ কৰিছিল আৰু ব্ৰহ্মপালে পাল বংশ প্ৰতিষ্ঠা কৰিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-169",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Varman king who is known for his inscriptions at Nidhanpur and for restoring Brahmin settlements was",
+      "as": "নিধনপুৰৰ শিলালিপি আৰু ব্ৰাহ্মণ বসতি পুনৰুদ্ধাৰৰ বাবে জনাজাত বৰ্মন ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Sthitavarman",
+        "as": "স্থিতবৰ্মন"
+      },
+      {
+        "en": "Bhutivarman",
+        "as": "ভূতিবৰ্মন"
+      },
+      {
+        "en": "Susthitavarman",
+        "as": "সুষ্ঠিতবৰ্মন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Nidhanpur plate re-established the donees, which is why Bhaskarvarman is credited. Sthitavarman, Bhutivarman and Susthitavarman belong to other reigns.",
+      "as": "নিধনপুৰ পত্ৰই গ্ৰহীতাসকলক পুনৰ প্ৰতিষ্ঠা কৰিছিল, সেয়ে কৃতিত্ব ভাস্কৰবৰ্মনক দিয়া হয়। স্থিতবৰ্মন, ভূতিবৰ্মন আৰু সুষ্ঠিতবৰ্মন আন ৰাজত্বৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-170",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Varman dynasty's inscriptions are composed in",
+      "as": "বৰ্মন বংশৰ শিলালিপি ৰচিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Assamese prose",
+        "as": "অসমীয়া গদ্যত"
+      },
+      {
+        "en": "Persian verse",
+        "as": "ফাৰ্চী পদ্যত"
+      },
+      {
+        "en": "Pali only",
+        "as": "কেৱল পালিত"
+      },
+      {
+        "en": "Sanskrit prose and verse",
+        "as": "সংস্কৃত গদ্য আৰু পদ্যত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The charters are Sanskrit compositions, which is why they are used for literary study too. Assamese, Persian and Pali only do not describe them.",
+      "as": "শাসনপত্ৰ সংস্কৃত ৰচনা, সেয়ে সেয়া সাহিত্য অধ্যয়নতো ব্যৱহাৰ হয়। অসমীয়া, ফাৰ্চী আৰু কেৱল পালি ইয়াৰ বৰ্ণনা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-171",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa king who is said to have sent an embassy to Harsha's court was",
+      "as": "হৰ্ষৰ দৰবাৰলৈ দূতাবাস পঠিওৱা বুলি কোৱা প্ৰাচীন কামৰূপ ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Salastambha",
+        "as": "শালস্তম্ভ"
+      },
+      {
+        "en": "Vanamala",
+        "as": "বনমাল"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যভৰ্মন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Diplomatic exchange with Kanauj is attributed to Bhaskarvarman, which is why the embassy story is attached to him. The others ruled in different phases.",
+      "as": "কনৌজৰ লগত কূটনৈতিক আদান-প্ৰদান ভাস্কৰবৰ্মনলৈ আৰোপ কৰা হয়, সেয়ে দূতাবাসৰ কাহিনী তেওঁৰ লগত জড়িত। বাকীসকলে বেলেগ পৰ্যায়ত শাসন কৰিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-172",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Salastambha ruler who is known from a grant recording a land donation in the present Nagaon region was",
+      "as": "বৰ্তমান নগাঁও অঞ্চলত ভূমি দান লিপিবদ্ধ কৰা শাসনপত্ৰৰপৰা জনাজাত শালস্তম্ভ শাসক আছিল"
+    },
+    "options": [
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      },
+      {
+        "en": "Vanamala",
+        "as": "বনমাল"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Brahma Pala",
+        "as": "ব্ৰহ্মপাল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vanamala's grants cover central Assam, which is why he is cited for that area. Bhaskarvarman was a Varman, Brahma Pala founded the Palas and Sukapha was an Ahom.",
+      "as": "বনমালৰ শাসনপত্ৰই মধ্য অসম সামৰে, সেয়ে সেই অঞ্চলৰ বাবে তেওঁক উদ্ধৃত কৰা হয়। ভাস্কৰবৰ্মন বৰ্মন, ব্ৰহ্মপালে পাল বংশ প্ৰতিষ্ঠা কৰিছিল আৰু চুকাফা আহোম আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-173",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Salastambha king who assumed the title 'Maharajadhiraja' and issued several grants was",
+      "as": "মহাৰাজাধিৰাজ উপাধি লৈ কেইবাখনো শাসনপত্ৰ জাৰি কৰা শালস্তম্ভ ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Vanamala",
+        "as": "বনমাল"
+      },
+      {
+        "en": "Salastambha himself",
+        "as": "শালস্তম্ভ নিজে"
+      },
+      {
+        "en": "Brahma Pala",
+        "as": "ব্ৰহ্মপাল"
+      },
+      {
+        "en": "Ratnapala",
+        "as": "ৰত্নপাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vanamala's charters carry the imperial title, which is why he is named. Salastambha founded the line, and Brahma Pala and Ratnapala belong to the Palas.",
+      "as": "বনমালৰ শাসনপত্ৰত সাম্ৰাজ্যিক উপাধি আছে, সেয়ে তেওঁৰ নাম দিয়া হয়। শালস্তম্ভই বংশ প্ৰতিষ্ঠা কৰিছিল, আৰু ব্ৰহ্মপাল তথা ৰত্নপাল পাল বংশৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-174",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Kamarupa Pala king who is known for a grant issued from a place called Hadappesvara was",
+      "as": "হদপ্পেশ্বৰ নামৰ স্থানৰপৰা জাৰি কৰা শাসনপত্ৰৰ বাবে জনাজাত কামৰূপ পাল ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Brahma Pala",
+        "as": "ব্ৰহ্মপাল"
+      },
+      {
+        "en": "Vanamala",
+        "as": "বনমাল"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Ratnapala",
+        "as": "ৰত্নপাল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ratnapala's charters name the place of issue, which is why he is cited. Brahma Pala founded the line, Vanamala was a Salastambha and Bhaskarvarman a Varman.",
+      "as": "ৰত্নপালৰ শাসনপত্ৰই জাৰিৰ স্থানৰ নাম দিয়ে, সেয়ে তেওঁক উদ্ধৃত কৰা হয়। ব্ৰহ্মপালে বংশ প্ৰতিষ্ঠা কৰিছিল, বনমাল শালস্তম্ভ আৰু ভাস্কৰবৰ্মন বৰ্মন আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-175",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Kamarupa Pala ruler who faced pressure from the Chola raid into Bengal was",
+      "as": "বংগলৈ চোলৰ আক্ৰমণৰ চাপ সন্মুখীন হোৱা কামৰূপ পাল শাসক আছিল"
+    },
+    "options": [
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "a late Pala ruler of Kamarupa",
+        "as": "কামৰূপৰ পিছৰ পাল শাসক"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যভৰ্মন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Chola campaign affected the region's neighbours, which is why a late Pala ruler is named. Pushyavarman, Sukapha and Bhaskarvarman ruled in other periods.",
+      "as": "চোল অভিযানে অঞ্চলৰ চুবুৰীয়াক প্ৰভাৱিত কৰিছিল, সেয়ে পিছৰ পাল শাসকৰ নাম দিয়া হয়। পুষ্যভৰ্মন, চুকাফা আৰু ভাস্কৰবৰ্মনে আন যুগত শাসন কৰিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-176",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's principal pass to Tibet lay through",
+      "as": "তিব্বতলৈ প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান গিৰিপথ আছিল"
+    },
+    "options": [
+      {
+        "en": "the Nathu La only",
+        "as": "কেৱল নাথু লা"
+      },
+      {
+        "en": "the eastern Himalayan routes",
+        "as": "পূব হিমালয়ৰ পথ"
+      },
+      {
+        "en": "the Khyber Pass",
+        "as": "খাইবাৰ গিৰিপথ"
+      },
+      {
+        "en": "the Bolan Pass",
+        "as": "বোলান গিৰিপথ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Eastern Himalayan routes connected the region to Tibet, which is why they appear in trade accounts. Khyber, Bolan and Nathu La are other passes.",
+      "as": "পূব হিমালয়ৰ পথে অঞ্চলটো তিব্বতৰ লগত জুৰিছিল, সেয়ে সেয়া বাণিজ্য বিৱৰণত ওলায়। খাইবাৰ, বোলান আৰু নাথু লা আন গিৰিপথ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-177",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants mention 'silk' and textile products mainly to show",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই 'পাট' আৰু বস্ত্ৰ উৎপাদনৰ উল্লেখ কৰে মূলতঃ কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "local craft production and dues in kind",
+        "as": "স্থানীয় শিল্প উৎপাদন আৰু বস্তু হিচাপে মাচুল"
+      },
+      {
+        "en": "European imports",
+        "as": "ইউৰোপীয় আমদানি"
+      },
+      {
+        "en": "Mughal tribute",
+        "as": "মোগল কৰ"
+      },
+      {
+        "en": "British factory output",
+        "as": "ব্ৰিটিছ কাৰখানাৰ উৎপাদন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Textiles appear as dues and local products, which is why the craft reading is used. European, Mughal and British trade is later.",
+      "as": "বস্ত্ৰ মাচুল আৰু স্থানীয় সামগ্ৰী হিচাপে ওলায়, সেয়ে শিল্পৰ পঢ়া ব্যৱহাৰ কৰা হয়। ইউৰোপীয়, মোগল আৰু ব্ৰিটিছ বাণিজ্য পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-178",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's iron working is inferred from",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ লো-কাম অনুমান কৰা হয় কাৰপৰা"
+    },
+    "options": [
+      {
+        "en": "printed manuals",
+        "as": "ছপা পুস্তিকাৰপৰা"
+      },
+      {
+        "en": "British factory records",
+        "as": "ব্ৰিটিছ কাৰখানা ৰেকৰ্ডৰপৰা"
+      },
+      {
+        "en": "Mughal farmans",
+        "as": "মোগল ফৰ্মানৰপৰা"
+      },
+      {
+        "en": "slag heaps and tool finds",
+        "as": "লো-কৰাই আৰু সঁজুলি পোৱাৰপৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Slag and tools show local smelting, which is why archaeology is used. Manuals, factory records and farmans are later or unrelated.",
+      "as": "লো-কৰাই আৰু সঁজুলিয়ে স্থানীয় গলন দেখুৱায়, সেয়ে পুৰাতত্ত্ব ব্যৱহাৰ কৰা হয়। পুস্তিকা, কাৰখানা ৰেকৰ্ড আৰু ফৰ্মান পিছৰ বা অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-179",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's pottery tradition is known mainly from",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ মাটিৰ বাচন পৰম্পৰা মূলতঃ কাৰপৰা জনা যায়"
+    },
+    "options": [
+      {
+        "en": "British museum labels",
+        "as": "ব্ৰিটিছ সংগ্ৰহালয়ৰ লেবেলৰপৰা"
+      },
+      {
+        "en": "Persian paintings",
+        "as": "ফাৰ্চী চিত্ৰৰপৰা"
+      },
+      {
+        "en": "excavated wheel made pottery",
+        "as": "খননত পোৱা চকাযুক্ত মাটিৰ বাচনৰপৰা"
+      },
+      {
+        "en": "modern factory catalogues",
+        "as": "আধুনিক কাৰখানা তালিকাৰপৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Excavated wares date the craft, which is why they are cited. Catalogues, museum labels and Persian paintings are not the evidence.",
+      "as": "খননত পোৱা বাচনে শিল্পৰ তাৰিখ দিয়ে, সেয়ে সেয়া উদ্ধৃত। তালিকা, সংগ্ৰহালয় লেবেল আৰু ফাৰ্চী চিত্ৰ প্ৰমাণ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-180",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants show that villages were expected to pay dues in",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই দেখুৱায় গাঁৱে মাচুল দিবলগীয়া আছিল কাৰ হিচাপে"
+    },
+    "options": [
+      {
+        "en": "foreign currency",
+        "as": "বিদেশী মুদ্ৰাত"
+      },
+      {
+        "en": "grain, labour and specified goods",
+        "as": "শস্য, শ্ৰম আৰু নিৰ্দিষ্ট সামগ্ৰী হিচাপে"
+      },
+      {
+        "en": "gold coins only",
+        "as": "কেৱল সোণৰ মুদ্ৰাত"
+      },
+      {
+        "en": "paper notes",
+        "as": "কাগজৰ নোটত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Dues in kind and labour are listed, which is why the mixed reading is used. Gold only, paper notes and foreign currency are anachronistic.",
+      "as": "বস্তু আৰু শ্ৰমত মাচুল তালিকাভুক্ত, সেয়ে মিশ্ৰিত পঢ়া ব্যৱহাৰ কৰা হয়। কেৱল সোণ, কাগজৰ নোট আৰু বিদেশী মুদ্ৰা কালবিৰুদ্ধ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-181",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa state's relationship with traders is visible in the record through",
+      "as": "ব্যৱসায়ীসকলৰ লগত প্ৰাচীন কামৰূপ ৰাজ্যৰ সম্পৰ্ক ৰেকৰ্ডত দৃশ্যমান কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "market dues and route protection mentioned in charters",
+        "as": "শাসনপত্ৰত উল্লিখিত বজাৰ মাচুল আৰু পথ সুৰক্ষাৰ জৰিয়তে"
+      },
+      {
+        "en": "joint stock companies",
+        "as": "যুটীয়া মূলধন কোম্পানীৰ জৰিয়তে"
+      },
+      {
+        "en": "bank charters",
+        "as": "বেংক চাৰ্টাৰৰ জৰিয়তে"
+      },
+      {
+        "en": "insurance policies",
+        "as": "বীমা পলিচিৰ জৰিয়তে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dues and protection imply a trading economy, which is why those clauses are read. Companies, banks and insurance are modern.",
+      "as": "মাচুল আৰু সুৰক্ষাই বাণিজ্য অৰ্থনীতি সূচায়, সেয়ে সেই ধাৰা পঢ়া হয়। কোম্পানী, বেংক আৰু বীমা আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-182",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters were usually dated by",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ সাধাৰণতে কাৰ দ্বাৰা তাৰিখযুক্ত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "modern serial numbers",
+        "as": "আধুনিক ক্ৰমিক নম্বৰ"
+      },
+      {
+        "en": "newspaper dates",
+        "as": "বাতৰি কাকতৰ তাৰিখ"
+      },
+      {
+        "en": "railway timetables",
+        "as": "ৰেল সময়সূচী"
+      },
+      {
+        "en": "regnal years and sometimes a calendar era",
+        "as": "ৰাজত্বৰ বছৰ আৰু কেতিয়াবা পঞ্জিকা যুগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Regnal years anchor the charters, which is why the chronology is reconstructed. Serial numbers, newspapers and timetables are modern.",
+      "as": "ৰাজত্বৰ বছৰে শাসনপত্ৰৰ ভেটি, সেয়ে কালানুক্ৰম পুনৰ্গঠন কৰা হয়। ক্ৰমিক নম্বৰ, বাতৰি কাকত আৰু সময়সূচী আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-183",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main grain crop is generally taken to be",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান শস্য সাধাৰণতে ধৰা হয়"
+    },
+    "options": [
+      {
+        "en": "maize",
+        "as": "মাকৈ"
+      },
+      {
+        "en": "barley",
+        "as": "যৱ"
+      },
+      {
+        "en": "rice",
+        "as": "ধান"
+      },
+      {
+        "en": "wheat",
+        "as": "গম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rice fits the valley's wet agriculture, which is why it is named. Wheat, maize and barley are not the region's staple in the sources.",
+      "as": "ধান উপত্যকাৰ সিক্ত কৃষিত মিলে, সেয়ে ইয়াৰ নাম দিয়া হয়। গম, মাকৈ আৰু যৱ উৎসত অঞ্চলৰ প্ৰধান শস্য নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-184",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants to temples often included the right to",
+      "as": "মন্দিৰলৈ প্ৰাচীন কামৰূপ ৰজাসকলৰ দানত প্ৰায়ে কাৰ অধিকাৰ অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "mint coins",
+        "as": "মুদ্রা টকা"
+      },
+      {
+        "en": "the income of specified lands and villages",
+        "as": "নিৰ্দিষ্ট ভূমি আৰু গাঁৱৰ আয়"
+      },
+      {
+        "en": "appoint the king",
+        "as": "ৰজা নিযুক্তি"
+      },
+      {
+        "en": "command troops",
+        "as": "সৈন্য পৰিচালনা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Temple endowments carried income rights, which is why grants list villages. Appointing kings, commanding troops and minting were royal.",
+      "as": "মন্দিৰৰ দানে আয়ৰ অধিকাৰ বহন কৰিছিল, সেয়ে শাসনপত্ৰই গাঁৱৰ তালিকা দিয়ে। ৰজা নিযুক্তি, সৈন্য পৰিচালনা আৰু মুদ্ৰা ৰাজকীয় আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-185",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's contact with South East Asia is inferred mainly from",
+      "as": "দক্ষিণ-পূব এছিয়াৰ লগত প্ৰাচীন কামৰূপ অঞ্চলৰ সংযোগ মূলতঃ কাৰপৰা অনুমান কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "shared artefact types and route evidence",
+        "as": "সহভাগী সামগ্ৰী প্ৰকাৰ আৰু পথৰ প্ৰমাণৰপৰা"
+      },
+      {
+        "en": "British shipping logs",
+        "as": "ব্ৰিটিছ জাহাজৰ লগৰপৰা"
+      },
+      {
+        "en": "Mughal trade treaties",
+        "as": "মোগল বাণিজ্য সন্ধিৰপৰা"
+      },
+      {
+        "en": "modern airline records",
+        "as": "আধুনিক বিমান ৰেকৰ্ডৰপৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Artefacts and routes suggest contact, which is why the inference is cautious. British logs, Mughal treaties and airlines are later or irrelevant.",
+      "as": "সামগ্ৰী আৰু পথে সংযোগ সূচায়, সেয়ে অনুমান সাৱধান। ব্ৰিটিছ লগ, মোগল সন্ধি আৰু বিমান পিছৰ বা অপ্ৰাসংগিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-186",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants frequently mention 'brahmadeya' land, which means land given to",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই প্ৰায়ে 'ব্ৰহ্মদেয়' ভূমিৰ উল্লেখ কৰে, যাৰ অৰ্থ কাক দিয়া ভূমি"
+    },
+    "options": [
+      {
+        "en": "soldiers",
+        "as": "সৈনিকসকলক"
+      },
+      {
+        "en": "merchants",
+        "as": "বণিকসকলক"
+      },
+      {
+        "en": "weavers",
+        "as": "তাঁতিসকলক"
+      },
+      {
+        "en": "Brahmins",
+        "as": "ব্ৰাহ্মণসকলক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Brahmadeya is Brahmin endowment, which is why the term recurs in land grant studies. Soldiers, merchants and weavers received other categories.",
+      "as": "ব্ৰহ্মদেয় ব্ৰাহ্মণক দিয়া দান, সেয়ে শব্দটো ভূমি দান অধ্যয়নত বাৰম্বাৰ ওলায়। সৈনিক, বণিক আৰু তাঁতিয়ে আন শ্ৰেণী পাইছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-187",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants that mention 'devottara' land refer to land held by",
+      "as": "দেৱোত্তৰ ভূমিৰ উল্লেখ থকা প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই কাৰ অধীনত থকা ভূমি বুজায়"
+    },
+    "options": [
+      {
+        "en": "military garrisons",
+        "as": "সামৰিক সৈন্যদল"
+      },
+      {
+        "en": "merchant guilds",
+        "as": "বণিক সংঘ"
+      },
+      {
+        "en": "temples and deities",
+        "as": "মন্দিৰ আৰু দেৱতা"
+      },
+      {
+        "en": "the king's household",
+        "as": "ৰজাৰ পৰিয়াল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Devottara is temple land, which is why it is distinguished from Brahmin endowments. Household, garrisons and guilds held other categories.",
+      "as": "দেৱোত্তৰ মন্দিৰৰ ভূমি, সেয়ে ইয়াক ব্ৰাহ্মণ দানৰপৰা পৃথক কৰা হয়। পৰিয়াল, সৈন্যদল আৰু সংঘে আন শ্ৰেণী ৰাখিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-188",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's administrative vocabulary included 'adhikarana', which meant",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰশাসনিক শব্দাৱলীত 'অধিকৰণ'ৰ অৰ্থ আছিল"
+    },
+    "options": [
+      {
+        "en": "a type of boat",
+        "as": "এবিধ নাও"
+      },
+      {
+        "en": "an office or administrative body",
+        "as": "এটা কাৰ্যালয় বা প্ৰশাসনিক সংস্থা"
+      },
+      {
+        "en": "a temple festival",
+        "as": "মন্দিৰৰ উৎসৱ"
+      },
+      {
+        "en": "a land measure",
+        "as": "ভূমি জোখ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Adhikarana denotes an office, which is why the term helps reconstruct administration. Festivals, measures and boats have other words.",
+      "as": "অধিকৰণে কাৰ্যালয় নিৰ্দেশ কৰে, সেয়ে শব্দটোৱে প্ৰশাসন পুনৰ্গঠনত সহায় কৰে। উৎসৱ, জোখ আৰু নাওৰ বেলেগ শব্দ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-189",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "Which of these duties belonged to the officials named in Kamarupa charters, showing the state",
+      "as": "কামৰূপৰ শাসনপত্ৰত নাম থকা বিষয়াসকলৰ কোনটো কৰ্তব্য আছিল, যিয়ে ৰাজ্যই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a range of named officials with defined duties",
+        "as": "নিৰ্দিষ্ট দায়িত্বযুক্ত বিভিন্ন নামৰ বিষয়া"
+      },
+      {
+        "en": "no officials at all",
+        "as": "কোনো বিষয়া নাই"
+      },
+      {
+        "en": "only foreign officials",
+        "as": "কেৱল বিদেশী বিষয়া"
+      },
+      {
+        "en": "only religious leaders",
+        "as": "কেৱল ধৰ্মীয় নেতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Named officers with duties appear throughout, which is why the bureaucracy is inferred. No officials, only foreign and only religious are wrong.",
+      "as": "দায়িত্বসহ নাম থকা বিষয়া সৰ্বত্ৰ ওলায়, সেয়ে আমলাতন্ত্ৰ অনুমান কৰা হয়। বিষয়াহীনতা, কেৱল বিদেশী আৰু কেৱল ধৰ্মীয় ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-190",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's political history after the Palas is best described as",
+      "as": "পালসকলৰ পিছত প্ৰাচীন কামৰূপ অঞ্চলৰ ৰাজনৈতিক ইতিহাস শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "a single unified empire",
+        "as": "এক অখণ্ড সাম্ৰাজ্য"
+      },
+      {
+        "en": "direct Mughal rule",
+        "as": "প্ৰত্যক্ষ মোগল শাসন"
+      },
+      {
+        "en": "British occupation",
+        "as": "ব্ৰিটিছ দখল"
+      },
+      {
+        "en": "a period of competing regional powers",
+        "as": "প্ৰতিদ্বন্দ্বী আঞ্চলিক শক্তিৰ সময়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Several powers competed, which is why the period is called fragmented. A single empire, Mughal rule and British occupation are wrong.",
+      "as": "কেইবাটাও শক্তিয়ে প্ৰতিদ্বন্দ্বিতা কৰিছিল, সেয়ে যুগটোক বিভক্ত বোলা হয়। এক সাম্ৰাজ্য, মোগল শাসন আৰু ব্ৰিটিছ দখল ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-191",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's value for understanding Indian history is that it shows",
+      "as": "ভাৰতীয় ইতিহাস বুজিবলৈ প্ৰাচীন কামৰূপ যুগৰ মূল্য হ'ল ই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a purely colonial territory",
+        "as": "কেৱল ঔপনিবেশিক ভূখণ্ড"
+      },
+      {
+        "en": "an uninhabited area",
+        "as": "জনশূন্য অঞ্চল"
+      },
+      {
+        "en": "a frontier kingdom interacting with major powers",
+        "as": "প্ৰধান শক্তিৰ লগত ক্ৰিয়া-প্ৰতিক্ৰিয়া কৰা সীমান্ত ৰাজ্য"
+      },
+      {
+        "en": "a region with no outside contact",
+        "as": "বাহিৰৰ সংযোগহীন অঞ্চল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Interaction with Guptas, Gauda and Kanauj is documented, which is why the frontier reading is used. No contact, colonial and uninhabited are wrong.",
+      "as": "গুপ্ত, গৌড় আৰু কনৌজৰ লগত ক্ৰিয়া-প্ৰতিক্ৰিয়া লিপিবদ্ধ, সেয়ে সীমান্তৰ পঢ়া ব্যৱহাৰ কৰা হয়। সংযোগহীনতা, ঔপনিবেশিক আৰু জনশূন্য ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-192",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants were usually issued to mark",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ সাধাৰণতে কাৰ চিহ্ন হিচাপে জাৰি কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "trade losses",
+        "as": "বাণিজ্য লোকচান"
+      },
+      {
+        "en": "religious merit and political consolidation",
+        "as": "ধৰ্মীয় পুণ্য আৰু ৰাজনৈতিক সংহতি"
+      },
+      {
+        "en": "military defeats",
+        "as": "সামৰিক পৰাজয়"
+      },
+      {
+        "en": "foreign conquests only",
+        "as": "কেৱল বিদেশী বিজয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Merit and consolidation explain most charters, which is why both are named. Defeats, conquests only and losses are wrong.",
+      "as": "পুণ্য আৰু সংহতিয়ে অধিকাংশ শাসনপত্ৰ ব্যাখ্যা কৰে, সেয়ে দুয়োটাৰ নাম দিয়া হয়। পৰাজয়, কেৱল বিজয় আৰু লোকচান ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-193",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's temple architecture in the early period used mainly",
+      "as": "প্ৰাৰম্ভিক কালত প্ৰাচীন কামৰূপ অঞ্চলৰ মন্দিৰ স্থাপত্যে মূলতঃ ব্যৱহাৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "stone and brick with carved door frames",
+        "as": "খোদিত দুৱাৰচৌকাঠসহ শিলা আৰু ইটা"
+      },
+      {
+        "en": "steel and glass",
+        "as": "ইস্পাত আৰু কাঁচ"
+      },
+      {
+        "en": "concrete and plastic",
+        "as": "কংক্ৰিট আৰু প্লাষ্টিক"
+      },
+      {
+        "en": "wood only",
+        "as": "কেৱল কাঠ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Stone and brick remains with carved frames survive, which is why they are cited. Steel, concrete and wood only are wrong.",
+      "as": "খোদিত চৌকাঠসহ শিলা আৰু ইটাৰ অৱশেষ ৰৈ গৈছে, সেয়ে সেয়া উদ্ধৃত। ইস্পাত, কংক্ৰিট আৰু কেৱল কাঠ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-194",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main religious pilgrimage centre in the period was",
+      "as": "সেই যুগত প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান ধৰ্মীয় তীৰ্থকেন্দ্ৰ আছিল"
+    },
+    "options": [
+      {
+        "en": "Bodh Gaya",
+        "as": "বোধগয়া"
+      },
+      {
+        "en": "Varanasi",
+        "as": "বাৰাণসী"
+      },
+      {
+        "en": "Puri",
+        "as": "পুৰী"
+      },
+      {
+        "en": "Kamakhya",
+        "as": "কামাখ্যা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Kamakhya drew pilgrims within the region, which is why it is named. Bodh Gaya, Varanasi and Puri lie outside Assam.",
+      "as": "কামাখ্যাই অঞ্চলৰ ভিতৰত তীৰ্থযাত্ৰী আকৰ্ষণ কৰিছিল, সেয়ে ইয়াৰ নাম দিয়া হয়। বোধগয়া, বাৰাণসী আৰু পুৰী অসমৰ বাহিৰত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-195",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters often begin with an invocation to",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই প্ৰায়ে কাৰ প্ৰতি আহ্বানৰে আৰম্ভ হয়"
+    },
+    "options": [
+      {
+        "en": "the Mughal emperor",
+        "as": "মোগল সম্ৰাট"
+      },
+      {
+        "en": "a merchant guild",
+        "as": "বণিক সংঘ"
+      },
+      {
+        "en": "a deity such as Shiva or Vishnu",
+        "as": "শিৱ বা বিষ্ণু আদি দেৱতা"
+      },
+      {
+        "en": "the British crown",
+        "as": "ব্ৰিটিছ ৰাজমুকুট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Invocations to deities open the charters, which is why the religious opening is noted. The British, Mughals and guilds are not invoked.",
+      "as": "দেৱতাৰ আহ্বানে শাসনপত্ৰ আৰম্ভ হয়, সেয়ে ধৰ্মীয় আৰম্ভণি লক্ষ্য কৰা হয়। ব্ৰিটিছ, মোগল আৰু সংঘক আহ্বান কৰা নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-196",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's society in the grant period included",
+      "as": "শাসনপত্ৰ যুগত প্ৰাচীন কামৰূপ অঞ্চলৰ সমাজত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "only traders",
+        "as": "কেৱল বণিক"
+      },
+      {
+        "en": "Brahmins, officials, cultivators and artisans",
+        "as": "ব্ৰাহ্মণ, বিষয়া, কৰ্ষক আৰু শিল্পী"
+      },
+      {
+        "en": "only kings and priests",
+        "as": "কেৱল ৰজা আৰু পুৰোহিত"
+      },
+      {
+        "en": "only soldiers",
+        "as": "কেৱল সৈনিক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The charters name many groups, which is why the plural reading is used. Only kings, only soldiers and only traders are contradicted.",
+      "as": "শাসনপত্ৰই অনেক গোটৰ নাম দিয়ে, সেয়ে বহুত্বৰ পঢ়া ব্যৱহাৰ কৰা হয়। কেৱল ৰজা, কেৱল সৈনিক আৰু কেৱল বণিক খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-197",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants usually ended with",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ সাধাৰণতে কাৰেৰে শেষ হৈছিল"
+    },
+    "options": [
+      {
+        "en": "a warning to future officials not to disturb the grant",
+        "as": "ভৱিষ্যতৰ বিষয়াসকলক দান নষ্ট নকৰিবলৈ সকীয়নী"
+      },
+      {
+        "en": "a list of tea prices",
+        "as": "চাহৰ মূল্যৰ তালিকা"
+      },
+      {
+        "en": "a railway timetable",
+        "as": "ৰেল সময়সূচী"
+      },
+      {
+        "en": "a stock market report",
+        "as": "শ্বেয়াৰ বজাৰৰ প্ৰতিবেদন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Closing verses threaten those who violate the grant, which is why the warning formula is noted. Tea prices, timetables and market reports are modern.",
+      "as": "শেষৰ শ্লোকই দান উলংঘনকাৰীক ভাবি সকীয়ায়, সেয়ে সকীয়নীৰ সূত্ৰ লক্ষ্য কৰা হয়। চাহৰ মূল্য, সময়সূচী আৰু বজাৰ প্ৰতিবেদন আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-198",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main contribution to Indian epigraphy is",
+      "as": "ভাৰতীয় শিলালিপি বিদ্যাত প্ৰাচীন কামৰূপ যুগৰ প্ৰধান অৱদান"
+    },
+    "options": [
+      {
+        "en": "the invention of printing",
+        "as": "ছপাকৰণৰ আৱিষ্কাৰ"
+      },
+      {
+        "en": "the first newspaper",
+        "as": "প্ৰথম বাতৰি কাকত"
+      },
+      {
+        "en": "the modern postal system",
+        "as": "আধুনিক ডাক ব্যৱস্থা"
+      },
+      {
+        "en": "a large corpus of dated copper plate grants",
+        "as": "তাৰিখযুক্ত তাম্ৰপত্ৰ শাসনপত্ৰৰ বৃহৎ সংকলন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The charters form a substantial corpus, which is why they are the epigraphic contribution. Printing, newspapers and postal systems are modern.",
+      "as": "শাসনপত্ৰই বৃহৎ সংকলন গঠন কৰে, সেয়ে সেয়া শিলালিপিৰ অৱদান। ছপাকৰণ, বাতৰি কাকত আৰু ডাক ব্যৱস্থা আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-199",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "That early Kamarupa charters transfer land with rights proves the state accepted",
+      "as": "প্ৰাচীন কামৰূপৰ শাসনপত্ৰই অধিকাৰসহ ভূমি হস্তান্তৰ কৰাটোৱে প্ৰমাণ কৰে ৰাজ্যই স্বীকাৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "only collective ownership",
+        "as": "কেৱল সমবায় মালিকানা"
+      },
+      {
+        "en": "only foreign ownership",
+        "as": "কেৱল বিদেশী মালিকানা"
+      },
+      {
+        "en": "hereditary rights over land",
+        "as": "ভূমিৰ ওপৰত বংশানুক্ৰমিক অধিকাৰ"
+      },
+      {
+        "en": "no property rights",
+        "as": "কোনো সম্পত্তি অধিকাৰ নাই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Grants transfer land with rights, which is why hereditary holding is inferred. No property, only collective and only foreign are contradicted.",
+      "as": "শাসনপত্ৰই অধিকাৰসহ ভূমি হস্তান্তৰ কৰে, সেয়ে বংশানুক্ৰমিক অধিকাৰ অনুমান কৰা হয়। সম্পত্তিহীনতা, কেৱল সমবায় আৰু কেৱল বিদেশী খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-200",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's political centre shifted over time from",
+      "as": "সময়ৰ লগত প্ৰাচীন কামৰূপ অঞ্চলৰ ৰাজনৈতিক কেন্দ্ৰ স্থানান্তৰিত হৈছিল কাৰপৰা"
+    },
+    "options": [
+      {
+        "en": "Calcutta towards Bombay",
+        "as": "কলিকতাৰপৰা বম্বেলৈ"
+      },
+      {
+        "en": "Pragjyotishpura towards Kamarupanagara",
+        "as": "প্ৰাগজ্যোতিষপুৰৰপৰা কামৰূপনগৰলৈ"
+      },
+      {
+        "en": "Delhi towards Agra",
+        "as": "দিল্লীৰপৰা আگ্ৰালৈ"
+      },
+      {
+        "en": "Pataliputra towards Kanauj",
+        "as": "পাটলিপুত্ৰৰপৰা কনৌজলৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The capital moved within the region, which is why those two names appear. Delhi, Pataliputra and Calcutta are outside Assam.",
+      "as": "ৰাজধানী অঞ্চলৰ ভিতৰতে স্থানান্তৰিত হৈছিল, সেয়ে সেই দুয়ো নাম ওলায়। দিল্লী, পাটলিপুত্ৰ আৰু কলিকতা অসমৰ বাহিৰত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-201",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "What economic purpose did some Kamarupa grants to Brahmins serve?",
+      "as": "ব্ৰাহ্মণলৈ কিছুমান কামৰূপ দানে কি অৰ্থনৈতিক উদ্দেশ্য পূৰণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "extend settled agriculture into new areas",
+        "as": "নতুন অঞ্চললৈ স্থায়ী কৃষি বিস্তাৰ কৰিবলৈ"
+      },
+      {
+        "en": "end all farming",
+        "as": "সকলো খেতি অন্ত কৰিবলৈ"
+      },
+      {
+        "en": "abolish villages",
+        "as": "গাঁও বিলুপ্ত কৰিবলৈ"
+      },
+      {
+        "en": "stop all trade",
+        "as": "সকলো বাণিজ্য বন্ধ কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Donees settled and cultivated, which is why colonisation is inferred. Ending farming, abolishing villages and stopping trade are wrong.",
+      "as": "গ্ৰহীতাসকলে বসতি স্থাপন কৰি খেতি কৰিছিল, সেয়ে উপনিবেশীকৰণ অনুমান কৰা হয়। খেতি অন্ত, গাঁও বিলুপ্তি আৰু বাণিজ্য বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-202",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main source for social history is",
+      "as": "প্ৰাচীন কামৰূপ যুগৰ সমাজ ইতিহাসৰ প্ৰধান উৎস"
+    },
+    "options": [
+      {
+        "en": "modern census reports",
+        "as": "আধুনিক জনগণনা প্ৰতিবেদন"
+      },
+      {
+        "en": "British newspapers",
+        "as": "ব্ৰিটিছ বাতৰি কাকত"
+      },
+      {
+        "en": "Mughal court diaries",
+        "as": "মোগল দৰবাৰৰ দিনলিপি"
+      },
+      {
+        "en": "the land grant charters",
+        "as": "ভূমি দান শাসনপত্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Charters name people, groups and obligations, which is why they are the base. Censuses, newspapers and Mughal diaries are later.",
+      "as": "শাসনপত্ৰই মানুহ, গোট আৰু বাধ্যবাধকতাৰ নাম দিয়ে, সেয়ে সেয়া ভেটি। জনগণনা, বাতৰি কাকত আৰু মোগল দিনলিপি পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-203",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main form of wealth in the grant period was",
+      "as": "শাসনপত্ৰ যুগত প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান ধন আছিল"
+    },
+    "options": [
+      {
+        "en": "foreign currency reserves",
+        "as": "বিদেশী মুদ্ৰা ভঁৰাল"
+      },
+      {
+        "en": "cryptocurrency",
+        "as": "ক্ৰিপ্ট'কাৰেন্সি"
+      },
+      {
+        "en": "land and its produce",
+        "as": "ভূমি আৰু তাৰ উৎপাদন"
+      },
+      {
+        "en": "shares and bonds",
+        "as": "শ্বেয়াৰ আৰু বণ্ড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Land is the object of every grant, which is why it is the main form of wealth. Shares, reserves and cryptocurrency are modern.",
+      "as": "ভূমিয়েই প্ৰতিখন দানৰ বিষয়, সেয়ে সেয়া প্ৰধান ধন। শ্বেয়াৰ, ভঁৰাল আৰু ক্ৰিপ্ট'কাৰেন্সি আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-204",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "From the dues listed in Kamarupa charters it is clear that the state levied charges on",
+      "as": "কামৰূপৰ শাসনপত্ৰত তালিকাভুক্ত মাচুলৰপৰা স্পষ্ট ৰাজ্যই কৰ লগাইছিল"
+    },
+    "options": [
+      {
+        "en": "only income from shares",
+        "as": "কেৱল শ্বেয়াৰৰ আয়ত"
+      },
+      {
+        "en": "agricultural produce and certain trades",
+        "as": "কৃষি উৎপাদন আৰু নিৰ্দিষ্ট বেপাৰত"
+      },
+      {
+        "en": "only imports from Europe",
+        "as": "কেৱল ইউৰোপৰ আমদানিত"
+      },
+      {
+        "en": "only railway tickets",
+        "as": "কেৱল ৰেল টিকটত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Produce and trade dues are recorded, which is why the agrarian tax reading is used. European imports, railway tickets and share income are modern.",
+      "as": "উৎপাদন আৰু বেপাৰৰ মাচুল লিপিবদ্ধ, সেয়ে কৃষি কৰৰ পঢ়া ব্যৱহাৰ কৰা হয়। ইউৰোপীয় আমদানি, ৰেল টিকট আৰু শ্বেয়াৰ আয় আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-205",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main reason for issuing charters on copper was that",
+      "as": "তামত শাসনপত্ৰ জাৰি কৰাৰ প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান কাৰণ আছিল"
+    },
+    "options": [
+      {
+        "en": "the record had to remain valid for generations",
+        "as": "ৰেকৰ্ড পুৰুষানুক্ৰমে বৈধ থাকিবলগীয়া আছিল"
+      },
+      {
+        "en": "copper was easy to write quickly",
+        "as": "তামত সোনকালে লিখিব পাৰি"
+      },
+      {
+        "en": "paper was not invented",
+        "as": "কাগজ আৱিষ্কাৰ হোৱা নাছিল"
+      },
+      {
+        "en": "the king disliked paper",
+        "as": "ৰজাই কাগজ অপছন্দ কৰিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Permanence was the aim, which is why copper was chosen over perishable media. Speed, invention and preference are not the reason.",
+      "as": "স্থায়িত্বই উদ্দেশ্য আছিল, সেয়ে নষ্টনশ্য মাধ্যমৰ সলনি তাম বাছনি কৰা হৈছিল। গতি, আৱিষ্কাৰ আৰু পছন্দ কাৰণ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-206",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's administrative records show the importance of",
+      "as": "প্ৰাচীন কামৰূপ যুগৰ প্ৰশাসনিক ৰেকৰ্ডই কাৰ গুৰুত্ব দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "oral memory alone",
+        "as": "কেৱল মৌখিক স্মৃতি"
+      },
+      {
+        "en": "religious chanting only",
+        "as": "কেৱল ধৰ্মীয় কীৰ্তন"
+      },
+      {
+        "en": "military parades",
+        "as": "সামৰিক কুচকাৱাজ"
+      },
+      {
+        "en": "written documentation for rights and dues",
+        "as": "অধিকাৰ আৰু মাচুলৰ বাবে লিখিত দস্তাবেজ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Written records protected rights, which is why documentation matters. Oral memory alone, chanting only and parades do not explain the records.",
+      "as": "লিখিত ৰেকৰ্ডই অধিকাৰ ৰক্ষা কৰিছিল, সেয়ে দস্তাবেজ গুৰুত্বপূৰ্ণ। কেৱল মৌখিক স্মৃতি, কীৰ্তন আৰু কুচকাৱাজে ৰেকৰ্ড ব্যাখ্যা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-207",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants often specify that the land was previously",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই প্ৰায়ে নিৰ্দিষ্ট কৰে ভূমি আগতে আছিল"
+    },
+    "options": [
+      {
+        "en": "part of a railway",
+        "as": "ৰেল পথৰ অংশ"
+      },
+      {
+        "en": "a tea garden",
+        "as": "চাহ বাগিচা"
+      },
+      {
+        "en": "uncultivated or held by another party",
+        "as": "অখেতিযোগ্য বা আন পক্ষৰ অধীনত"
+      },
+      {
+        "en": "owned by Europeans",
+        "as": "ইউৰোপীয়সকলৰ মালিকানাত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Grants describe the previous status, which is why the detail is noted. Europeans, railways and tea gardens are modern.",
+      "as": "শাসনপত্ৰই আগৰ স্থিতি বৰ্ণনা কৰে, সেয়ে বিৱৰণটো লক্ষ্য কৰা হয়। ইউৰোপীয়, ৰেল আৰু চাহ বাগিচা আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-208",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main limitation for historians is the",
+      "as": "ইতিহাসবিদৰ বাবে প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান সীমাবদ্ধতা"
+    },
+    "options": [
+      {
+        "en": "abundance of photographs",
+        "as": "ফটোৰ প্ৰাচুৰ্য"
+      },
+      {
+        "en": "scarcity of records for some periods",
+        "as": "কিছু সময়ৰ বাবে ৰেকৰ্ডৰ অভাৱ"
+      },
+      {
+        "en": "excess of records for every year",
+        "as": "প্ৰতি বছৰৰ বাবে ৰেকৰ্ডৰ আধিক্য"
+      },
+      {
+        "en": "use of modern languages",
+        "as": "আধুনিক ভাষাৰ ব্যৱহাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Coverage is uneven, which is why some reigns are obscure. Excess records, modern languages and photographs are wrong.",
+      "as": "সামৰণি অসম, সেয়ে কিছু ৰাজত্ব অস্পষ্ট। ৰেকৰ্ডৰ আধিক্য, আধুনিক ভাষা আৰু ফটো ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-209",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters were composed by",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ ৰচনা কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "court poets and scribes",
+        "as": "দৰবাৰৰ কবি আৰু লেখকসকলে"
+      },
+      {
+        "en": "village children",
+        "as": "গাঁৱৰ ল'ৰা-ছোৱালীয়ে"
+      },
+      {
+        "en": "European missionaries",
+        "as": "ইউৰোপীয় মিছনেৰীসকলে"
+      },
+      {
+        "en": "Mughal qazis",
+        "as": "মোগল কাজীসকলে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Trained court writers produced the charters, which is why the style is polished. Children, missionaries and qazis are wrong.",
+      "as": "প্ৰশিক্ষিত দৰবাৰ লেখকে শাসনপত্ৰ ৰচনা কৰিছিল, সেয়ে শৈলী পৰিশীলিত। ল'ৰা-ছোৱালী, মিছনেৰী আৰু কাজী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-210",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main link to the wider economy was through",
+      "as": "বৃহত্তৰ অৰ্থনীতিৰ লগত প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান সংযোগ আছিল কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "Atlantic shipping",
+        "as": "আটলাণ্টিক জাহাজ চলাচল"
+      },
+      {
+        "en": "the Suez Canal",
+        "as": "ছুয়েজ খাল"
+      },
+      {
+        "en": "trans Pacific airlines",
+        "as": "প্ৰশান্ত মহাসাগৰীয় বিমান"
+      },
+      {
+        "en": "river routes and passes to Bengal and Tibet",
+        "as": "বংগ আৰু তিব্বতলৈ নদীপথ আৰু গিৰিপথ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Rivers and passes carried trade, which is why those routes are cited. Atlantic shipping, Suez and airlines are modern.",
+      "as": "নদী আৰু গিৰিপথে বাণিজ্য কঢ়িয়াইছিল, সেয়ে সেই পথ উদ্ধৃত। আটলাণ্টিক জাহাজ, ছুয়েজ আৰু বিমান আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-211",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants show that land could be",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই দেখুৱায় ভূমি হ'ব পাৰিছিল"
+    },
+    "options": [
+      {
+        "en": "only rented monthly",
+        "as": "কেৱল মাহিলী ভাড়াত"
+      },
+      {
+        "en": "never transferred",
+        "as": "কেতিয়াও হস্তান্তৰ নোহোৱা"
+      },
+      {
+        "en": "donated, exempted and transferred",
+        "as": "দান, মুক্ত আৰু হস্তান্তৰযোগ্য"
+      },
+      {
+        "en": "only bought with gold",
+        "as": "কেৱল সোণেৰে কিনা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Grants transfer and exempt land, which is why the three actions are named. Gold only, monthly rent and no transfer are contradicted.",
+      "as": "শাসনপত্ৰই ভূমি হস্তান্তৰ আৰু মুক্ত কৰে, সেয়ে তিনি কাৰ্যৰ নাম দিয়া হয়। কেৱল সোণ, মাহিলী ভাড়া আৰু হস্তান্তৰহীনতা খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-212",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main evidence for agriculture comes from",
+      "as": "কৃষিৰ বাবে প্ৰাচীন কামৰূপ যুগৰ প্ৰধান প্ৰমাণ আহে"
+    },
+    "options": [
+      {
+        "en": "Mughal revenue tables",
+        "as": "মোগল ৰাজহ তালিকাৰপৰা"
+      },
+      {
+        "en": "land measures and crop references in grants",
+        "as": "শাসনপত্ৰত ভূমি জোখ আৰু শস্যৰ উল্লেখৰপৰা"
+      },
+      {
+        "en": "modern farm surveys",
+        "as": "আধুনিক খেতি জৰীপৰপৰা"
+      },
+      {
+        "en": "British agricultural reports",
+        "as": "ব্ৰিটিছ কৃষি প্ৰতিবেদনৰপৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Measures and crops appear in the charters, which is why they are the base. Modern, British and Mughal records are later.",
+      "as": "জোখ আৰু শস্য শাসনপত্ৰত ওলায়, সেয়ে সেয়া ভেটি। আধুনিক, ব্ৰিটিছ আৰু মোগল ৰেকৰ্ড পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-213",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants to temples and Brahmins together show",
+      "as": "মন্দিৰ আৰু ব্ৰাহ্মণলৈ প্ৰাচীন কামৰূপ ৰজাসকলৰ দানে একেলগে দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a policy of religious patronage across traditions",
+        "as": "পৰম্পৰাজুৰি ধৰ্মীয় পৃষ্ঠপোষকতাৰ নীতি"
+      },
+      {
+        "en": "hostility to religion",
+        "as": "ধৰ্মৰ প্ৰতি শত্ৰুতা"
+      },
+      {
+        "en": "indifference to temples",
+        "as": "মন্দিৰৰ প্ৰতি উদাসীনতা"
+      },
+      {
+        "en": "a ban on donations",
+        "as": "দানৰ ওপৰত নিষেধ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Both categories received land, which is why broad patronage is inferred. Hostility, indifference and a ban are contradicted.",
+      "as": "দুয়ো শ্ৰেণীয়ে ভূমি পাইছিল, সেয়ে বহল পৃষ্ঠপোষকতা অনুমান কৰা হয়। শত্ৰুতা, উদাসীনতা আৰু নিষেধ খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-214",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's political authority in the villages was exercised by",
+      "as": "গাঁৱত প্ৰাচীন কামৰূপ অঞ্চলৰ ৰাজনৈতিক কৰ্তৃত্ব প্ৰয়োগ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "British collectors",
+        "as": "ব্ৰিটিছ সংগ্ৰাহকে"
+      },
+      {
+        "en": "Mughal governors",
+        "as": "মোগল ৰাজ্যপালে"
+      },
+      {
+        "en": "foreign companies",
+        "as": "বিদেশী কোম্পানীয়ে"
+      },
+      {
+        "en": "headmen and elders under royal officers",
+        "as": "ৰাজকীয় বিষয়াৰ অধীনত মূৰব্বী আৰু জ্যেষ্ঠসকলে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Gramika and mahattara appear in grants, which is why local authority is inferred. British, Mughal and company rule are later.",
+      "as": "গ্ৰামিক আৰু মহত্তৰ শাসনপত্ৰত ওলায়, সেয়ে স্থানীয় কৰ্তৃত্ব অনুমান কৰা হয়। ব্ৰিটিছ, মোগল আৰু কোম্পানী শাসন পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-215",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main contribution to the study of land systems is",
+      "as": "ভূমি ব্যৱস্থাৰ অধ্যয়নত প্ৰাচীন কামৰূপ যুগৰ প্ৰধান অৱদান"
+    },
+    "options": [
+      {
+        "en": "the ryotwari settlement",
+        "as": "ৰৈয়তৱাৰী নিষ্পত্তি"
+      },
+      {
+        "en": "the permanent settlement",
+        "as": "চিৰস্থায়ী নিষ্পত্তি"
+      },
+      {
+        "en": "detailed evidence of donation and exemption practice",
+        "as": "দান আৰু মাচুল মাপৰ সবিশেষ প্ৰমাণ"
+      },
+      {
+        "en": "the invention of zamindari",
+        "as": "জমিদাৰীৰ আৱিষ্কাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The charters document donation practice, which is why they are used comparatively. Zamindari, ryotwari and permanent settlement are colonial systems.",
+      "as": "শাসনপত্ৰই দান প্ৰথা লিপিবদ্ধ কৰে, সেয়ে তুলনামূলকভাৱে ব্যৱহাৰ কৰা হয়। জমিদাৰী, ৰৈয়তৱাৰী আৰু চিৰস্থায়ী নিষ্পত্তি ঔপনিবেশিক ব্যৱস্থা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-216",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants show that royal authority was",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই দেখুৱায় ৰাজকীয় কৰ্তৃত্ব আছিল"
+    },
+    "options": [
+      {
+        "en": "entirely absent",
+        "as": "সম্পূৰ্ণ অনুপস্থিত"
+      },
+      {
+        "en": "mediated through a hierarchy of officials",
+        "as": "বিষয়াৰ স্তৰবিন্যাসৰ জৰিয়তে প্ৰয়োগকৃত"
+      },
+      {
+        "en": "direct and unmediated",
+        "as": "প্ৰত্যক্ষ আৰু মধ্যস্থতাহীন"
+      },
+      {
+        "en": "purely religious",
+        "as": "কেৱল ধৰ্মীয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Officials at several levels appear, which is why mediation is inferred. Direct rule, purely religious and absent authority are wrong.",
+      "as": "কেইবাটাও স্তৰৰ বিষয়া ওলায়, সেয়ে মধ্যস্থতা অনুমান কৰা হয়। প্ৰত্যক্ষ শাসন, কেৱল ধৰ্মীয় আৰু কৰ্তৃত্বহীনতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-217",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's economy in the period depended on the",
+      "as": "সেই যুগত প্ৰাচীন কামৰূপ অঞ্চলৰ অৰ্থনীতি নিৰ্ভৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "fertility of the Brahmaputra valley",
+        "as": "ব্ৰহ্মপুত্ৰ উপত্যকাৰ উৰ্বৰতাৰ ওপৰত"
+      },
+      {
+        "en": "oil reserves",
+        "as": "তেল ভঁৰালৰ ওপৰত"
+      },
+      {
+        "en": "coal mines",
+        "as": "কয়লা খনিৰ ওপৰত"
+      },
+      {
+        "en": "tea exports",
+        "as": "চাহ ৰপ্তানিৰ ওপৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Valley fertility supported the population, which is why agriculture is the base. Oil, coal and tea are colonial era resources.",
+      "as": "উপত্যকাৰ উৰ্বৰতাই জনসংখ্যাক সহায় কৰিছিল, সেয়ে কৃষিয়েই ভেটি। তেল, কয়লা আৰু চাহ ঔপনিবেশিক যুগৰ সম্পদ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-218",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters are valuable for the study of personal names because they",
+      "as": "ব্যক্তিগত নামৰ অধ্যয়নত প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ মূল্যৱান কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "list only royal names",
+        "as": "কেৱল ৰাজকীয় নাম তালিকাভুক্ত কৰে"
+      },
+      {
+        "en": "give no names",
+        "as": "কোনো নাম নিদিয়ে"
+      },
+      {
+        "en": "use only titles",
+        "as": "কেৱল উপাধি ব্যৱহাৰ কৰে"
+      },
+      {
+        "en": "record donors, donees and witnesses by name",
+        "as": "দাতা, গ্ৰহীতা আৰু সাক্ষীৰ নাম লিপিবদ্ধ কৰে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Many individuals are named, which is why the corpus helps onomastics. Only royal names, no names and only titles are contradicted.",
+      "as": "অনেক ব্যক্তিৰ নাম আছে, সেয়ে সংকলনে নামবিদ্যাত সহায় কৰে। কেৱল ৰাজকীয় নাম, নামহীনতা আৰু কেৱল উপাধি খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-219",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main religious change in the late period was",
+      "as": "পিছৰ পৰ্যায়ত প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান ধৰ্মীয় পৰিৱৰ্তন আছিল"
+    },
+    "options": [
+      {
+        "en": "the arrival of Christianity",
+        "as": "খ্ৰীষ্টধৰ্মৰ আগমন"
+      },
+      {
+        "en": "the end of all worship",
+        "as": "সকলো উপাসনাৰ অন্ত"
+      },
+      {
+        "en": "the growth of tantric and Shakti worship",
+        "as": "তান্ত্ৰিক আৰু শক্তি উপাসনাৰ বৃদ্ধি"
+      },
+      {
+        "en": "the arrival of Islam",
+        "as": "ইছলামৰ আগমন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tantric and Shakti traditions grew, which is why Kamakhya's importance increased. Islam, Christianity and the end of worship are wrong for this period.",
+      "as": "তান্ত্ৰিক আৰু শক্তি পৰম্পৰা বৃদ্ধি পালে, সেয়ে কামাখ্যাৰ গুৰুত্ব বাঢ়িল। ইছলাম, খ্ৰীষ্টধৰ্ম আৰু উপাসনাৰ অন্ত এই যুগত ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-220",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The careful preservation of Kamarupa charters over generations proves the state kept",
+      "as": "পুৰুষানুক্ৰমে কামৰূপৰ শাসনপত্ৰ যতনেৰে সংৰক্ষণে প্ৰমাণ কৰে ৰাজ্যই ৰাখিছিল"
+    },
+    "options": [
+      {
+        "en": "only foreign archives",
+        "as": "কেৱল বিদেশী সংৰক্ষণাগাৰ"
+      },
+      {
+        "en": "records of land rights over long periods",
+        "as": "দীৰ্ঘকালৰ ভূমি অধিকাৰৰ ৰেকৰ্ড"
+      },
+      {
+        "en": "no records at all",
+        "as": "কোনো ৰেকৰ্ড নাই"
+      },
+      {
+        "en": "only oral agreements",
+        "as": "কেৱল মৌখিক চুক্তি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Charters were preserved and reissued, which is why long term records are inferred. No records, oral only and foreign archives are wrong.",
+      "as": "শাসনপত্ৰ সংৰক্ষিত আৰু পুনৰ জাৰি হৈছিল, সেয়ে দীৰ্ঘম্যাদী ৰেকৰ্ড অনুমান কৰা হয়। ৰেকৰ্ডহীনতা, কেৱল মৌখিক আৰু বিদেশী সংৰক্ষণাগাৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-221",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main constraint on agriculture was",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলত কৃষিৰ প্ৰধান বাধা আছিল"
+    },
+    "options": [
+      {
+        "en": "floods and the need for embankments",
+        "as": "বান আৰু বান্ধৰ প্ৰয়োজন"
+      },
+      {
+        "en": "a shortage of land",
+        "as": "ভূমিৰ অভাৱ"
+      },
+      {
+        "en": "a shortage of farmers",
+        "as": "কৰ্ষকৰ অভাৱ"
+      },
+      {
+        "en": "a ban on rice",
+        "as": "ধানৰ ওপৰত নিষেধ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Flood control shaped settlement, which is why embankments matter in the record. Land shortage, farmer shortage and a rice ban are wrong.",
+      "as": "বান নিয়ন্ত্ৰণে বসতি গঢ়িছিল, সেয়ে বান্ধ ৰেকৰ্ডত গুৰুত্বপূৰ্ণ। ভূমিৰ অভাৱ, কৰ্ষকৰ অভাৱ আৰু ধান নিষেধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-222",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants were usually written in a script derived from",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ সাধাৰণতে কাৰপৰা উদ্ভৱ হোৱা লিপিত লিখা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the Roman alphabet",
+        "as": "ৰোমান বৰ্ণমালাৰপৰা"
+      },
+      {
+        "en": "Arabic script",
+        "as": "আৰবী লিপিৰপৰা"
+      },
+      {
+        "en": "Chinese characters",
+        "as": "চীনা আখৰৰপৰা"
+      },
+      {
+        "en": "Brahmi through later northern forms",
+        "as": "ব্ৰাহ্মীৰপৰা পিছৰ উত্তৰীয় ৰূপলৈ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The script descends from Brahmi, which is why palaeography dates the plates. Roman, Arabic and Chinese scripts are unrelated.",
+      "as": "লিপি ব্ৰাহ্মীৰপৰা আহিছে, সেয়ে লিপিতত্ত্বই পত্ৰৰ তাৰিখ দিয়ে। ৰোমান, আৰবী আৰু চীনা লিপি অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-223",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's political relations with Tibet were mainly",
+      "as": "তিব্বতৰ লগত প্ৰাচীন কামৰূপ অঞ্চলৰ ৰাজনৈতিক সম্পৰ্ক মূলতঃ আছিল"
+    },
+    "options": [
+      {
+        "en": "complete isolation",
+        "as": "সম্পূৰ্ণ বিচ্ছিন্নতা"
+      },
+      {
+        "en": "a colonial relationship",
+        "as": "ঔপনিবেশিক সম্পৰ্ক"
+      },
+      {
+        "en": "commercial and cultural rather than military",
+        "as": "সামৰিক নহয়, বাণিজ্যিক আৰু সাংস্কৃতিক"
+      },
+      {
+        "en": "a permanent military alliance",
+        "as": "স্থায়ী সামৰিক মিত্ৰতা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Trade and pilgrimage dominated, which is why the link is described as commercial. Military alliance, isolation and colonial rule are wrong.",
+      "as": "বাণিজ্য আৰু তীৰ্থযাত্ৰাই প্ৰাধান্য পাইছিল, সেয়ে সংযোগ বাণিজ্যিক বুলি বৰ্ণনা কৰা হয়। সামৰিক মিত্ৰতা, বিচ্ছিন্নতা আৰু ঔপনিবেশিক শাসন ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-224",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters usually name the king's",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই সাধাৰণতে ৰজাৰ এইটো নাম দিয়ে"
+    },
+    "options": [
+      {
+        "en": "school records",
+        "as": "বিদ্যালয়ৰ ৰেকৰ্ড"
+      },
+      {
+        "en": "genealogy and titles",
+        "as": "বংশাৱলী আৰু উপাধি"
+      },
+      {
+        "en": "bank account",
+        "as": "বেংক একাউণ্ট"
+      },
+      {
+        "en": "tax returns",
+        "as": "কৰ ঘোষণা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Genealogies establish legitimacy, which is why they open the charters. Bank accounts, tax returns and school records are modern.",
+      "as": "বংশাৱলীয়ে বৈধতা প্ৰতিষ্ঠা কৰে, সেয়ে সেয়া শাসনপত্ৰৰ আৰম্ভণিত থাকে। বেংক একাউণ্ট, কৰ ঘোষণা আৰু বিদ্যালয় ৰেকৰ্ড আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-225",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main value for local history is that it",
+      "as": "স্থানীয় ইতিহাসৰ বাবে প্ৰাচীন কামৰূপ যুগৰ প্ৰধান মূল্য হ'ল ই"
+    },
+    "options": [
+      {
+        "en": "names villages and places that still exist",
+        "as": "এতিয়াও থকা গাঁও আৰু স্থানৰ নাম দিয়ে"
+      },
+      {
+        "en": "records only foreign places",
+        "as": "কেৱল বিদেশী স্থান লিপিবদ্ধ কৰে"
+      },
+      {
+        "en": "gives no place names",
+        "as": "কোনো স্থাননাম নিদিয়ে"
+      },
+      {
+        "en": "uses modern maps",
+        "as": "আধুনিক মানচিত্ৰ ব্যৱহাৰ কৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Grant villages can be matched with modern places, which is why local history benefits. Foreign only, no names and modern maps are contradicted.",
+      "as": "শাসনপত্ৰৰ গাঁও আধুনিক স্থানৰ লগত মিলাই পোৱা যায়, সেয়ে স্থানীয় ইতিহাস উপকৃত হয়। কেৱল বিদেশী, নামহীনতা আৰু আধুনিক মানচিত্ৰ খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-226",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main trading partner within India was",
+      "as": "ভাৰতৰ ভিতৰত প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান বাণিজ্য সহযোগী আছিল"
+    },
+    "options": [
+      {
+        "en": "the Deccan",
+        "as": "দাক্ষিণাত্য"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Bengal and the Ganga valley",
+        "as": "বংগ আৰু গংগা উপত্যকা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Routes ran west to Bengal and the Ganga plain, which is why those regions appear. The Deccan, Gujarat and Kerala were not the main partner.",
+      "as": "পথ পশ্চিমে বংগ আৰু গংগা সমভূমিলৈ গৈছিল, সেয়ে সেই অঞ্চল ওলায়। দাক্ষিণাত্য, গুজৰাট আৰু কেৰালা প্ৰধান সহযোগী নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-227",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The claims of villagers recorded in Kamarupa charters indicate that the state acknowledged",
+      "as": "কামৰূপৰ শাসনপত্ৰত লিপিবদ্ধ গাঁৱলীয়াৰ দাবীয়ে সূচায় ৰাজ্যই স্বীকৃতি দিছিল"
+    },
+    "options": [
+      {
+        "en": "only royal claims",
+        "as": "কেৱল ৰাজকীয় দাবী"
+      },
+      {
+        "en": "only foreign claims",
+        "as": "কেৱল বিদেশী দাবী"
+      },
+      {
+        "en": "the claims of local communities over resources",
+        "as": "সম্পদৰ ওপৰত স্থানীয় সম্প্ৰদায়ৰ দাবী"
+      },
+      {
+        "en": "no local claims",
+        "as": "কোনো স্থানীয় দাবী নাই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Dues and rights of villagers appear, which is why local claims are inferred. No local, only royal and only foreign are wrong.",
+      "as": "গাঁৱলীয়াৰ মাচুল আৰু অধিকাৰ ওলায়, সেয়ে স্থানীয় দাবী অনুমান কৰা হয়। স্থানীয়হীনতা, কেৱল ৰাজকীয় আৰু কেৱল বিদেশী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-228",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's most important archaeological site for temple art is",
+      "as": "মন্দিৰ কলাৰ বাবে প্ৰাচীন কামৰূপ যুগৰ আটাইতকৈ গুৰুত্বপূৰ্ণ পুৰাতাত্ত্বিক স্থান"
+    },
+    "options": [
+      {
+        "en": "Ledo",
+        "as": "লেডো"
+      },
+      {
+        "en": "Da-Parbatia",
+        "as": "দ-পৰ্বতীয়া"
+      },
+      {
+        "en": "Digboi",
+        "as": "ডিগবৈ"
+      },
+      {
+        "en": "Margherita",
+        "as": "মাৰ্ঘেৰিটা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Da-Parbatia's carved door frame is the standard example, which is why it is named. Digboi, Margherita and Ledo are oil and coal towns.",
+      "as": "দ-পৰ্বতীয়াৰ খোদিত দুৱাৰচৌকাঠেই মানক উদাহৰণ, সেয়ে ইয়াৰ নাম দিয়া হয়। ডিগবৈ, মাৰ্ঘেৰিটা আৰু লেডো তেল আৰু কয়লা চহৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-229",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's epigraphs help date events because they",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ শিলালিপিয়ে ঘটনাৰ তাৰিখ নিৰ্ধাৰণত সহায় কৰে কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "carry regnal years and era references",
+        "as": "ৰাজত্বৰ বছৰ আৰু যুগৰ উল্লেখ বহন কৰে"
+      },
+      {
+        "en": "mention modern dates",
+        "as": "আধুনিক তাৰিখ উল্লেখ কৰে"
+      },
+      {
+        "en": "were printed",
+        "as": "ছপা হৈছিল"
+      },
+      {
+        "en": "were written in English",
+        "as": "ইংৰাজীত লিখা হৈছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Regnal and era references fix dates, which is why the chronology is possible. Modern dates, printing and English are wrong.",
+      "as": "ৰাজত্ব আৰু যুগৰ উল্লেখে তাৰিখ স্থিৰ কৰে, সেয়ে কালানুক্ৰম সম্ভৱ। আধুনিক তাৰিখ, ছপা আৰু ইংৰাজী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-230",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "Because Kamarupa charters record and enforce rights, historians conclude the state possessed",
+      "as": "কামৰূপৰ শাসনপত্ৰই অধিকাৰ লিপিবদ্ধ আৰু বলবৎ কৰাৰ বাবে ইতিহাসবিদে সিদ্ধান্ত কৰে ৰাজ্যৰ আছিল"
+    },
+    "options": [
+      {
+        "en": "no system of law",
+        "as": "কোনো আইন ব্যৱস্থা নাই"
+      },
+      {
+        "en": "only religious law",
+        "as": "কেৱল ধৰ্মীয় আইন"
+      },
+      {
+        "en": "only foreign law",
+        "as": "কেৱল বিদেশী আইন"
+      },
+      {
+        "en": "a system for recording and enforcing land rights",
+        "as": "ভূমি অধিকাৰ লিপিবদ্ধ আৰু বলবৎ কৰাৰ ব্যৱস্থা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Charters record and enforce rights, which is why a legal system is inferred. No law, only religious and only foreign are contradicted.",
+      "as": "শাসনপত্ৰই অধিকাৰ লিপিবদ্ধ আৰু বলবৎ কৰে, সেয়ে আইন ব্যৱস্থা অনুমান কৰা হয়। আইনহীনতা, কেৱল ধৰ্মীয় আৰু কেৱল বিদেশী খণ্ডিত।"
+    }
   }
 ]

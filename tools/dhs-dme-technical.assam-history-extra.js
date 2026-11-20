@@ -2921,6 +2921,4222 @@ module.exports = { questions: [
   },
   {
     "id": "assam-history-extra-095",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Varman king who is said to have performed the Ashvamedha horse sacrifice and is known from his Nidhanpur grant was",
+      "as": "অশ্বমেধ অশ্ব বলি কৰা বুলি কোৱা আৰু নিজৰ নিধনপুৰ শাসনপত্ৰৰপৰা জনাজাত বৰ্মন ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Sthitavarman",
+        "as": "স্থিতবৰ্মন"
+      },
+      {
+        "en": "Salastambha",
+        "as": "শালস্তম্ভ"
+      },
+      {
+        "en": "Bhutivarman",
+        "as": "ভূতিবৰ্মন"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যভৰ্মন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bhutivarman's grants record the Ashvamedha, which is why he is cited for that rite. Pushyavarman founded the line, Sthitavarman came later, and Salastambha began a different dynasty.",
+      "as": "ভূতিবৰ্মনৰ শাসনপত্ৰত অশ্বমেধৰ উল্লেখ আছে, সেয়ে সেই ৰীতিৰ বাবে তেওঁক উদ্ধৃত কৰা হয়। পুষ্যভৰ্মনে বংশ প্ৰতিষ্ঠা কৰিছিল, স্থিতবৰ্মন পিছত আহিছিল, আৰু শালস্তম্ভই বেলেগ বংশ আৰম্ভ কৰিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-096",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Varman king who is credited with extensive military campaigns and the title 'Maharajadhiraja' in his inscriptions was",
+      "as": "শিলালিপিত 'মহাৰাজাধিৰাজ' উপাধি আৰু বিস্তৃত সামৰিক অভিযানৰ কৃতিত্ব পোৱা বৰ্মন ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Bhutivarman",
+        "as": "ভূতিবৰ্মন"
+      },
+      {
+        "en": "Sthitavarman",
+        "as": "স্থিতবৰ্মন"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যভৰ্মন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Sthitavarman's records claim victories over neighbouring rulers, which is why he is named for military activity. Bhaskarvarman was a diplomat, Pushyavarman a founder, and Bhutivarman is linked to the horse sacrifice.",
+      "as": "স্থিতবৰ্মনৰ ৰেকৰ্ডে চুবুৰীয়া শাসকৰ ওপৰত বিজয় দাবী কৰে, সেয়ে তেওঁক সামৰিক কামৰ বাবে নাম দিয়া হয়। ভাস্কৰবৰ্মন কূটনীতিবিদ, পুষ্যভৰ্মন প্ৰতিষ্ঠাপক, আৰু ভূতিবৰ্মন অশ্বমেধৰ লগত জড়িত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-097",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Varman king who was defeated by the Gauda ruler Sasanka, an event that shaped Kamarupa's politics, was",
+      "as": "গৌড়ৰ শাসক শশাঙ্কৰ হাতত পৰাজিত হোৱা, যি ঘটনাই কামৰূপৰ ৰাজনীতি গঢ় দিছিল, বৰ্মন ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Susthitavarman",
+        "as": "সুষ্ঠিতবৰ্মন"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যপৰ্মন"
+      },
+      {
+        "en": "Salastambha",
+        "as": "শালস্তম্ভ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sasanka's pressure fell on Susthitavarman's reign, which is why the setback is dated to him. Bhaskarvarman later allied against Gauda, and Pushyavarman and Salastambha belong to other phases.",
+      "as": "শশাঙ্কৰ চাপ সুষ্ঠিতবৰ্মনৰ ৰাজত্বত পৰিছিল, সেয়ে সেই ধাক্কা তেওঁলৈ তাৰিখ দিয়া হয়। ভাস্কৰবৰ্মনে পিছত গৌড়ৰ বিৰুদ্ধে মিত্ৰতা কৰিছিল, আৰু পুষ্যপৰ্মন তথা শালস্তম্ভ আন পৰ্যায়ৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-098",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "Bhaskarvarman's meeting with Harshavardhana is traditionally placed at",
+      "as": "হৰ্ষবৰ্ধনৰ লগত ভাস্কৰবৰ্মনৰ সাক্ষাত পৰম্পৰাগতভাৱে ৰখা হয়"
+    },
+    "options": [
+      {
+        "en": "Pataliputra",
+        "as": "পাটলিপুত্ৰ"
+      },
+      {
+        "en": "Kanauj",
+        "as": "কনৌজ"
+      },
+      {
+        "en": "Nalanda",
+        "as": "নালন্দা"
+      },
+      {
+        "en": "Kajangala",
+        "as": "কজংগল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Chinese account places the meeting at Kajangala, which is why that place is named. Pataliputra, Kanauj and Nalanda appear in the story but not as the meeting place.",
+      "as": "চীনা বৃত্তান্তই সাক্ষাত কজংগলত ৰাখে, সেয়ে সেই স্থানৰ নাম দিয়া হয়। পাটলিপুত্ৰ, কনৌজ আৰু নালন্দা কাহিনীত আছে কিন্তু সাক্ষাতৰ স্থান নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-099",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Nidhanpur grant records a re-donation because the earlier plates had been",
+      "as": "নিধনপুৰ শাসনপত্ৰই পুনৰ্দান লিপিবদ্ধ কৰে কাৰণ আগৰ পত্ৰসমূহ"
+    },
+    "options": [
+      {
+        "en": "burned by the Burmese",
+        "as": "বাৰ্মীয়ে জ্বলাই দিছিল"
+      },
+      {
+        "en": "sold to the British",
+        "as": "ব্ৰিটিছক বিক্ৰী কৰিছিল"
+      },
+      {
+        "en": "lost in a flood or damaged",
+        "as": "বানপানীত হেৰাই বা নষ্ট হৈছিল"
+      },
+      {
+        "en": "taken by the Mughals",
+        "as": "মোগলে লৈ গৈছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The grant itself explains that the old plates were destroyed, which is why a fresh set was issued. Mughals, Burmese and the British were not involved.",
+      "as": "শাসনপত্ৰই নিজেই ব্যাখ্যা কৰে যে পুৰণি পত্ৰ ধ্বংস হৈছিল, সেয়ে নতুন সংকলন জাৰি কৰা হৈছিল। মোগল, বাৰ্মী আৰু ব্ৰিটিছ জড়িত নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-100",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Nidhanpur grant was issued from a place named",
+      "as": "নিধনপুৰ শাসনপত্ৰ কাৰ নামৰ স্থানৰপৰা জাৰি কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Kamarupanagara",
+        "as": "কামৰূপনগৰ"
+      },
+      {
+        "en": "Chandrapuri",
+        "as": "চন্দ্ৰপুৰী"
+      },
+      {
+        "en": "Pragjyotishpura",
+        "as": "প্ৰাগজ্যোতিষপুৰ"
+      },
+      {
+        "en": "Davaka",
+        "as": "দৱাক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The record names Chandrapuri as the place of issue, which is why it is cited in grant studies. Pragjyotishpura was the capital, Davaka a separate kingdom, and Kamarupanagara a later name.",
+      "as": "ৰেকৰ্ডে চন্দ্ৰপুৰীক জাৰিৰ স্থান বুলি নাম দিয়ে, সেয়ে ইয়াক শাসনপত্ৰ অধ্যয়নত উদ্ধৃত কৰা হয়। প্ৰাগজ্যোতিষপুৰ ৰাজধানী, দৱাক পৃথক ৰাজ্য, আৰু কামৰূপনগৰ পিছৰ নাম।"
+    }
+  },
+  {
+    "id": "assam-history-extra-101",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'chaturvedi' in a Kamarupa grant describes a Brahmin who",
+      "as": "কামৰূপৰ শাসনপত্ৰত 'চতুৰ্বেদী' শব্দই এনে ব্ৰাহ্মণক বৰ্ণনা কৰে যি"
+    },
+    "options": [
+      {
+        "en": "knew all four Vedas",
+        "as": "চাৰিও বেদ জানিছিল"
+      },
+      {
+        "en": "owned four villages",
+        "as": "চাৰিখন গাঁৱৰ মালিক আছিল"
+      },
+      {
+        "en": "served four kings",
+        "as": "চাৰিজন ৰজাক সেৱা কৰিছিল"
+      },
+      {
+        "en": "paid four taxes",
+        "as": "চাৰিটা কৰ দিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chaturvedi marks a scholar of the four Vedas, which is why the title appears among donees. Villages, kings and taxes are not what the word denotes.",
+      "as": "চতুৰ্বেদীয়ে চাৰি বেদৰ পণ্ডিত নিৰ্দেশ কৰে, সেয়ে উপাধি গ্ৰহীতাসকলৰ মাজত ওলায়। গাঁও, ৰজা আৰু কৰ শব্দটোৱে নুবুজায়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-102",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'srotriya' in early Assam grants refers to a Brahmin who was",
+      "as": "প্ৰাচীন অসমৰ শাসনপত্ৰত 'শ্ৰোত্ৰীয়' শব্দই এনে ব্ৰাহ্মণক বুজায় যি"
+    },
+    "options": [
+      {
+        "en": "a royal treasurer",
+        "as": "ৰাজকীয় কোষাধ্যক্ষ"
+      },
+      {
+        "en": "a village accountant",
+        "as": "গাঁৱৰ হিচাপৰক্ষক"
+      },
+      {
+        "en": "a military scout",
+        "as": "সামৰিক চোৰাংচোৱা"
+      },
+      {
+        "en": "learned in the Vedas and ritual",
+        "as": "বেদ আৰু ৰীতি-নীতিত পাৰদৰ্শী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Srotriya denotes Vedic learning, which is why the term appears with other scholarly titles. Treasurer, accountant and scout have separate designations.",
+      "as": "শ্ৰোত্ৰীয়ে বৈদিক বিদ্যা নিৰ্দেশ কৰে, সেয়ে শব্দটো আন পণ্ডিতীয় উপাধিৰ লগত ওলায়। কোষাধ্যক্ষ, হিচাপৰক্ষক আৰু চোৰাংচোৱাৰ বেলেগ নাম।"
+    }
+  },
+  {
+    "id": "assam-history-extra-103",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "In Kamarupa grants, 'kshetra' refers to",
+      "as": "কামৰূপৰ শাসনপত্ৰত 'ক্ষেত্ৰ'ই বুজায়"
+    },
+    "options": [
+      {
+        "en": "a river bank",
+        "as": "নদীৰ পাৰ"
+      },
+      {
+        "en": "a grazing ground only",
+        "as": "কেৱল চৰণ ভূমি"
+      },
+      {
+        "en": "cultivated or cultivable land",
+        "as": "খেতি কৰা বা খেতিযোগ্য ভূমি"
+      },
+      {
+        "en": "a temple building",
+        "as": "মন্দিৰৰ ভৱন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kshetra is field land in the grants, which is why it is distinguished from other land types. Temple buildings, river banks and grazing grounds have separate words.",
+      "as": "ক্ষেত্ৰ শাসনপত্ৰত পথাৰ ভূমি, সেয়ে ইয়াক আন ভূমি প্ৰকাৰৰপৰা পৃথক কৰা হয়। মন্দিৰ ভৱন, নদী পাৰ আৰু চৰণ ভূমিৰ বেলেগ শব্দ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-104",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'vastu' in a Kamarupa grant denotes",
+      "as": "কামৰূপৰ শাসনপত্ৰত 'বাস্তু' শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "a temple endowment",
+        "as": "মন্দিৰৰ দান"
+      },
+      {
+        "en": "a house site or homestead land",
+        "as": "ঘৰৰ ঠাই বা বসতিভূমি"
+      },
+      {
+        "en": "a forest tract",
+        "as": "অৰণ্য অঞ্চল"
+      },
+      {
+        "en": "a tank or pond",
+        "as": "পুখুৰী বা বিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vastu is homestead land, which is why grants distinguish it from fields. Forest, tank and endowment have their own terms.",
+      "as": "বাস্তু বসতিভূমি, সেয়ে শাসনপত্ৰই ইয়াক পথাৰৰপৰা পৃথক কৰে। অৰণ্য, পুখুৰী আৰু দানৰ নিজা শব্দ আছে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-105",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'gochara' in a land grant usually refers to",
+      "as": "ভূমি দানত 'গোচৰ' শব্দই সাধাৰণতে বুজায়"
+    },
+    "options": [
+      {
+        "en": "pasture land for cattle",
+        "as": "গৰুৰ চৰণ ভূমি"
+      },
+      {
+        "en": "a revenue office",
+        "as": "ৰাজহ কাৰ্যালয়"
+      },
+      {
+        "en": "a ferry crossing",
+        "as": "ঘাট পাৰাপাৰ"
+      },
+      {
+        "en": "a market toll",
+        "as": "বজাৰৰ শুল্ক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Gochara is grazing land, which is why it is listed separately in village grants. Offices, ferries and tolls are different.",
+      "as": "গোচৰ চৰণ ভূমি, সেয়ে গাঁও দানত ইয়াক পৃথকভাৱে তালিকাভুক্ত কৰা হয়। কাৰ্যালয়, ঘাট আৰু শুল্ক বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-106",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The officer called 'ganaka' in a Kamarupa grant was concerned with",
+      "as": "কামৰূপৰ শাসনপত্ৰত 'গণক' বিষয়া কাৰ লগত জড়িত আছিল"
+    },
+    "options": [
+      {
+        "en": "temple ritual",
+        "as": "মন্দিৰৰ ৰীতি"
+      },
+      {
+        "en": "cavalry",
+        "as": "অশ্বাৰোহী বাহিনী"
+      },
+      {
+        "en": "diplomacy",
+        "as": "কূটনীতি"
+      },
+      {
+        "en": "accounting and records",
+        "as": "হিচাপ আৰু ৰেকৰ্ড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ganaka is an accountant, which is why the title appears among grant witnesses. Ritual, cavalry and diplomacy were other charges.",
+      "as": "গণক হিচাপৰক্ষক, সেয়ে উপাধি শাসনপত্ৰৰ সাক্ষীসকলৰ মাজত ওলায়। ৰীতি, অশ্বাৰোহী আৰু কূটনীতি আন দায়িত্ব আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-107",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The officer called 'amatya' in early Assam grants denotes",
+      "as": "প্ৰাচীন অসমৰ শাসনপত্ৰত 'অমাত্য' শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "a temple dancer",
+        "as": "মন্দিৰৰ নৰ্তকী"
+      },
+      {
+        "en": "a boatman",
+        "as": "নাওঁৱালা"
+      },
+      {
+        "en": "a minister or high official",
+        "as": "মন্ত্ৰী বা উচ্চ বিষয়া"
+      },
+      {
+        "en": "a village watchman",
+        "as": "গাঁৱৰ চৌকিদাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Amatya is a counsellor or minister, which is why the title ranks among senior officials. Watchman, dancer and boatman are unrelated.",
+      "as": "অমাত্য পৰামৰ্শদাতা বা মন্ত্ৰী, সেয়ে উপাধি জ্যেষ্ঠ বিষয়াসকলৰ মাজত গণ্য। চৌকিদাৰ, নৰ্তকী আৰু নাওঁৱালা অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-108",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "A 'vishaya' in the administrative geography of ancient Kamarupa was",
+      "as": "প্ৰাচীন কামৰূপৰ প্ৰশাসনিক ভূগোলত 'বিষয়' আছিল"
+    },
+    "options": [
+      {
+        "en": "a merchant guild",
+        "as": "বণিক সংঘ"
+      },
+      {
+        "en": "a district level unit below the bhukti",
+        "as": "ভুক্তিৰ তলৰ জিলা পৰ্যায়ৰ একক"
+      },
+      {
+        "en": "the royal palace",
+        "as": "ৰাজপ্ৰাসাদ"
+      },
+      {
+        "en": "a military camp",
+        "as": "সামৰিক শিবিৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vishaya is a smaller division inside a bhukti, which is why the two appear together. Palace, camp and guild are different.",
+      "as": "বিষয় ভুক্তিৰ ভিতৰৰ সৰু বিভাগ, সেয়ে দুয়ো একেলগে ওলায়। ৰাজপ্ৰাসাদ, শিবিৰ আৰু সংঘ বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-109",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "A 'mandala' in the territorial vocabulary of the period denoted",
+      "as": "সেই সময়ৰ আঞ্চলিক শব্দাৱলীত 'মণ্ডল'ই বুজাইছিল"
+    },
+    "options": [
+      {
+        "en": "a circle of territory or a region",
+        "as": "এটা আঞ্চলিক বৃত্ত বা অঞ্চল"
+      },
+      {
+        "en": "a temple courtyard",
+        "as": "মন্দিৰৰ চোতাল"
+      },
+      {
+        "en": "a royal seal",
+        "as": "ৰাজকীয় মোহৰ"
+      },
+      {
+        "en": "a type of coin",
+        "as": "এবিধ মুদ্ৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mandala names a region in political geography, which is why the term appears with bhukti and vishaya. Courtyard, seal and coin are different.",
+      "as": "মণ্ডলে ৰাজনৈতিক ভূগোলত অঞ্চল নিৰ্দেশ কৰে, সেয়ে শব্দটো ভুক্তি আৰু বিষয়ৰ লগত ওলায়। চোতাল, মোহৰ আৰু মুদ্ৰা বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-110",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The officer called 'sthagika' in a grant was responsible for",
+      "as": "শাসনপত্ৰত 'স্থগিক' বিষয়া কাৰ বাবে দায়বদ্ধ আছিল"
+    },
+    "options": [
+      {
+        "en": "temple repairs",
+        "as": "মন্দিৰ মেৰামতি"
+      },
+      {
+        "en": "ferry tolls",
+        "as": "ঘাটৰ শুল্ক"
+      },
+      {
+        "en": "land measurement",
+        "as": "ভূমি জোখ"
+      },
+      {
+        "en": "treasury or stores",
+        "as": "ভঁৰাল বা ভাণ্ডাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sthagika is linked to the treasury, which is why the title appears in the list of officials. Repairs, tolls and measurement were separate duties.",
+      "as": "স্থগিক ভঁৰালৰ লগত জড়িত, সেয়ে উপাধি বিষয়াৰ তালিকাত ওলায়। মেৰামতি, শুল্ক আৰু জোখ পৃথক দায়িত্ব আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-111",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'apradhika' in a grant refers to an officer dealing with",
+      "as": "শাসনপত্ৰত 'অপৰাধিক' শব্দই কাৰ লগত জড়িত বিষয়াক বুজায়"
+    },
+    "options": [
+      {
+        "en": "temple lands",
+        "as": "মন্দিৰৰ ভূমি"
+      },
+      {
+        "en": "river transport",
+        "as": "নদী পৰিবহণ"
+      },
+      {
+        "en": "crimes and punishments",
+        "as": "অপৰাধ আৰু শাস্তি"
+      },
+      {
+        "en": "land taxes",
+        "as": "ভূমি কৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Apradhika is a judicial officer, which is why the title is read as part of the legal machinery. Taxes, temple lands and transport are other matters.",
+      "as": "অপৰাধিক ন্যায়িক বিষয়া, সেয়ে উপাধিক আইনী ব্যৱস্থাৰ অংশ হিচাপে পঢ়া হয়। কৰ, মন্দিৰ ভূমি আৰু পৰিবহণ আন বিষয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-112",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The 'Dubi' and 'Nidhanpur' plates are both valuable because together they",
+      "as": "ডুবী আৰু নিধনপুৰ দুয়োখন পত্ৰই মূল্যৱান কাৰণ একেলগে সেয়া"
+    },
+    "options": [
+      {
+        "en": "describe British trade",
+        "as": "ব্ৰিটিছ বাণিজ্যৰ বৰ্ণনা দিয়ে"
+      },
+      {
+        "en": "help reconstruct the Varman genealogy and donations",
+        "as": "বৰ্মন বংশাৱলী আৰু দান পুনৰ্গঠন কৰাত সহায় কৰে"
+      },
+      {
+        "en": "record Ahom revenue",
+        "as": "আহোম ৰাজহ লিপিবদ্ধ কৰে"
+      },
+      {
+        "en": "list Mughal officers",
+        "as": "মোগল বিষয়া তালিকাভুক্ত কৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Genealogy and donation details make the pair central to Varman history. Ahom, Mughal and British records are far later.",
+      "as": "বংশাৱলী আৰু দানৰ বিৱৰণে যোৰটোক বৰ্মন ইতিহাসৰ কেন্দ্ৰ কৰে। আহোম, মোগল আৰু ব্ৰিটিছ ৰেকৰ্ড বহু পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-113",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Kalika Purana is important for the study of ancient Assam because it",
+      "as": "প্ৰাচীন অসমৰ অধ্যয়নৰ বাবে কালিকা পুৰাণ গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "describes the region's sacred geography and dynastic traditions",
+        "as": "অঞ্চলৰ পবিত্ৰ ভূগোল আৰু বংশ পৰম্পৰা বৰ্ণনা কৰে"
+      },
+      {
+        "en": "is a revenue manual",
+        "as": "ৰাজহ পুস্তিকা"
+      },
+      {
+        "en": "records Ahom buranjis",
+        "as": "আহোম বুৰঞ্জী লিপিবদ্ধ কৰে"
+      },
+      {
+        "en": "was written in English",
+        "as": "ইংৰাজীত লিখা হৈছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sacred sites and genealogies make the text useful with caution, which is why historians cite it. Revenue, buranjis and English authorship are wrong.",
+      "as": "পবিত্ৰ স্থান আৰু বংশাৱলীয়ে গ্ৰন্থখন সাৱধানে ব্যৱহাৰযোগ্য কৰে, সেয়ে ইতিহাসবিদে উদ্ধৃত কৰে। ৰাজহ, বুৰঞ্জী আৰু ইংৰাজী ৰচনা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-114",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Yogini Tantra is associated with",
+      "as": "যোগিনী তন্ত্ৰ কাৰ লগত জড়িত"
+    },
+    "options": [
+      {
+        "en": "the Ahom paik system",
+        "as": "আহোম পাইক ব্যৱস্থাৰ লগত"
+      },
+      {
+        "en": "the British land settlement",
+        "as": "ব্ৰিটিছ ভূমি নিষ্পত্তিৰ লগত"
+      },
+      {
+        "en": "the tea industry",
+        "as": "চাহ উদ্যোগৰ লগত"
+      },
+      {
+        "en": "the Kamakhya and tantric tradition of the region",
+        "as": "অঞ্চলৰ কামাখ্যা আৰু তান্ত্ৰিক পৰম্পৰাৰ লগত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The text belongs to the tantric tradition centred on Kamakhya, which is why it is cited for religious history. Paik, land settlement and tea are unrelated.",
+      "as": "গ্ৰন্থখন কামাখ্যাক কেন্দ্ৰ কৰি তান্ত্ৰিক পৰম্পৰাৰ, সেয়ে ধৰ্মীয় ইতিহাসত উদ্ধৃত। পাইক, ভূমি নিষ্পত্তি আৰু চাহ অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-115",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient temple site of Da-Parbatia is important because its door frame shows",
+      "as": "প্ৰাচীন মন্দিৰ স্থান দ-পৰ্বতীয়া গুৰুত্বপূৰ্ণ কাৰণ ইয়াৰ দুৱাৰৰ চৌকাঠে দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "British brickwork",
+        "as": "ব্ৰিটিছ ইটাৰ কাম"
+      },
+      {
+        "en": "Ahom wooden carving",
+        "as": "আহোম কাঠৰ খোদাই"
+      },
+      {
+        "en": "early Gupta style stone carving in Assam",
+        "as": "অসমত প্ৰাৰম্ভিক গুপ্ত শৈলীৰ শিল্পকৰ্ম"
+      },
+      {
+        "en": "Mughal tile work",
+        "as": "মোগল টাইলছৰ কাম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The carving is dated to the Gupta period, which is why the site anchors early art history. Mughal, British and Ahom work belongs to later centuries.",
+      "as": "খোদাই গুপ্ত যুগৰ, সেয়ে স্থানটো প্ৰাৰম্ভিক কলা ইতিহাসৰ ভেটি। মোগল, ব্ৰিটিছ আৰু আহোম কাম পিছৰ শতিকা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-116",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient site of Da-Parbatia is located near",
+      "as": "প্ৰাচীন দ-পৰ্বতীয়া স্থান কাৰ ওচৰত অৱস্থিত"
+    },
+    "options": [
+      {
+        "en": "Dhubri",
+        "as": "ধুবুৰী"
+      },
+      {
+        "en": "Tezpur",
+        "as": "তেজপুৰ"
+      },
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The site lies near Tezpur, which is why it is studied with the region's early temples. Dibrugarh, Silchar and Dhubri are other districts.",
+      "as": "স্থানটো তেজপুৰৰ ওচৰত, সেয়ে অঞ্চলৰ প্ৰাৰম্ভিক মন্দিৰৰ লগত অধ্যয়ন কৰা হয়। ডিব্ৰুগড়, শিলচৰ আৰু ধুবুৰী আন জিলা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-117",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient ruins at Madan Kamdev are located in",
+      "as": "মদন কামদেৱৰ প্ৰাচীন অৱশেষ অৱস্থিত"
+    },
+    "options": [
+      {
+        "en": "Kamrup district",
+        "as": "কামৰূপ জিলাত"
+      },
+      {
+        "en": "Sivasagar district",
+        "as": "শিৱসাগৰ জিলাত"
+      },
+      {
+        "en": "Cachar district",
+        "as": "কাছাৰ জিলাত"
+      },
+      {
+        "en": "Tinsukia district",
+        "as": "তিনিচুকীয়া জিলাত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ruins sit in Kamrup district, which is why they are grouped with Kamarupa period art. Sivasagar, Cachar and Tinsukia belong to other phases.",
+      "as": "অৱশেষ কামৰূপ জিলাত, সেয়ে সেয়া কামৰূপ যুগৰ কলাৰ লগত ৰখা হয়। শিৱসাগৰ, কাছাৰ আৰু তিনিচুকীয়া আন পৰ্যায়ৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-118",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam site of Ambari in Guwahati is important because excavations there revealed",
+      "as": "গুৱাহাটীৰ আমবাৰী স্থান গুৰুত্বপূৰ্ণ কাৰণ তাত খননে প্ৰকাশ কৰে"
+    },
+    "options": [
+      {
+        "en": "a Mughal palace",
+        "as": "মোগল ৰাজপ্ৰাসাদ"
+      },
+      {
+        "en": "a British cantonment",
+        "as": "ব্ৰিটিছ ছাউনী"
+      },
+      {
+        "en": "a tea factory",
+        "as": "চাহ কাৰখানা"
+      },
+      {
+        "en": "early settlement layers and artefacts",
+        "as": "প্ৰাৰম্ভিক বসতি স্তৰ আৰু সামগ্ৰী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Excavated layers and objects date early occupation, which is why the site matters archaeologically. Mughal, British and tea era remains are later.",
+      "as": "খনন স্তৰ আৰু বস্তুৱে প্ৰাৰম্ভিক বসতিৰ তাৰিখ দিয়ে, সেয়ে স্থানটো পুৰাতাত্ত্বিকভাৱে গুৰুত্বপূৰ্ণ। মোগল, ব্ৰিটিছ আৰু চাহ যুগৰ অৱশেষ পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-119",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Nilachala hill near Guwahati is associated with",
+      "as": "গুৱাহাটীৰ ওচৰৰ নীলাচল পাহাৰ কাৰ লগত জড়িত"
+    },
+    "options": [
+      {
+        "en": "a Mughal fort",
+        "as": "মোগল দুৰ্গৰ লগত"
+      },
+      {
+        "en": "a British church",
+        "as": "ব্ৰিটিছ গীৰ্জাঘৰৰ লগত"
+      },
+      {
+        "en": "the Kamakhya temple",
+        "as": "কামাখ্যা মন্দিৰৰ লগত"
+      },
+      {
+        "en": "the Ahom palace",
+        "as": "আহোম ৰাজপ্ৰাসাদৰ লগত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kamakhya stands on Nilachala, which is why the hill is named in temple accounts. Palaces, forts and churches are elsewhere.",
+      "as": "কামাখ্যা নীলাচলত অৱস্থিত, সেয়ে মন্দিৰৰ বিৱৰণত পাহাৰটোৰ নাম ওলায়। ৰাজপ্ৰাসাদ, দুৰ্গ আৰু গীৰ্জাঘৰ আন ঠাইত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-120",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's importance in the transmission of Buddhism to Tibet lay in its",
+      "as": "তিব্বতলৈ বৌদ্ধ ধৰ্মৰ প্ৰেৰণত প্ৰাচীন অসম অঞ্চলৰ গুৰুত্ব আছিল ইয়াৰ"
+    },
+    "options": [
+      {
+        "en": "alliance with Rome",
+        "as": "ৰোমৰ লগত মিত্ৰতা"
+      },
+      {
+        "en": "role as a corridor through the eastern Himalayas",
+        "as": "পূব হিমালয়ৰ মাজেৰে পথ হিচাপে ভূমিকা"
+      },
+      {
+        "en": "possession of a large navy",
+        "as": "বৃহৎ নৌসেনাৰ অধিকাৰ"
+      },
+      {
+        "en": "control of Sri Lanka",
+        "as": "শ্ৰীলংকা নিয়ন্ত্ৰণ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The region served as a route for pilgrims and teachers, which is why the corridor reading is used. A navy, Sri Lanka and Rome are unrelated.",
+      "as": "অঞ্চলটোৱে তীৰ্থযাত্ৰী আৰু শিক্ষকৰ পথ হিচাপে কাম কৰিছিল, সেয়ে পথৰ পঢ়া ব্যৱহাৰ কৰা হয়। নৌসেনা, শ্ৰীলংকা আৰু ৰোম অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-121",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient name 'Lauhitya' was applied to",
+      "as": "প্ৰাচীন নাম 'লৌহিত্য' কাৰ বাবে ব্যৱহৃত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the Brahmaputra river",
+        "as": "ব্ৰহ্মপুত্ৰ নদী"
+      },
+      {
+        "en": "a Kamarupa king",
+        "as": "কামৰূপৰ ৰজা"
+      },
+      {
+        "en": "a type of land grant",
+        "as": "এবিধ ভূমি দান"
+      },
+      {
+        "en": "a hill fort",
+        "as": "পাহাৰীয়া দুৰ্গ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lauhitya is the river's ancient name, which is why it appears in grants and epics. Kings, grants and forts have other names.",
+      "as": "লৌহিত্য নদীৰ প্ৰাচীন নাম, সেয়ে ই শাসনপত্ৰ আৰু মহাকাব্যত ওলায়। ৰজা, দান আৰু দুৰ্গৰ বেলেগ নাম।"
+    }
+  },
+  {
+    "id": "assam-history-extra-122",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's copper was obtained mainly from",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ তাম মূলতঃ কাৰপৰা পোৱা গৈছিল"
+    },
+    "options": [
+      {
+        "en": "the Gangetic plain",
+        "as": "গংগাৰ সমভূমিৰপৰা"
+      },
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকাৰপৰা"
+      },
+      {
+        "en": "Central Asia",
+        "as": "মধ্য এছিয়াৰপৰা"
+      },
+      {
+        "en": "the hills on the southern and eastern fringes",
+        "as": "দক্ষিণ আৰু পূব সীমান্তৰ পাহাৰৰপৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Copper came from the surrounding hills, which is why the region could issue so many plates. The Gangetic plain, Sri Lanka and Central Asia were not the source.",
+      "as": "তাম চাৰিওফালৰ পাহাৰৰপৰা আহিছিল, সেয়ে অঞ্চলটোৱে ইমান পত্ৰ জাৰি কৰিব পাৰিছিল। গংগাৰ সমভূমি, শ্ৰীলংকা আৰু মধ্য এছিয়া উৎস নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-123",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam practice of granting land to religious beneficiaries had the effect of",
+      "as": "ধৰ্মীয় গ্ৰহীতাক ভূমি দানৰ প্ৰাচীন অসম ৰীতিৰ প্ৰভাৱ আছিল"
+    },
+    "options": [
+      {
+        "en": "abolishing villages",
+        "as": "গাঁও বিলুপ্তি"
+      },
+      {
+        "en": "stopping all trade",
+        "as": "সকলো বাণিজ্য বন্ধ"
+      },
+      {
+        "en": "creating permanent endowed estates",
+        "as": "স্থায়ী দানযুক্ত জমিদাৰী সৃষ্টি"
+      },
+      {
+        "en": "ending all agriculture",
+        "as": "সকলো কৃষি অন্ত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Endowed estates outlived the donors, which is why they shaped rural society. Ending farming, abolishing villages and stopping trade are wrong.",
+      "as": "দানযুক্ত জমিদাৰী দাতাতকৈ বেছি দিন থাকিছিল, সেয়ে সেয়া গ্ৰাম্য সমাজ গঢ়িছিল। খেতি অন্ত, গাঁও বিলুপ্তি আৰু বাণিজ্য বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-124",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants usually specified the boundaries of the land by",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই সাধাৰণতে ভূমিৰ সীমা নিৰ্দিষ্ট কৰিছিল কাৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "satellite markers",
+        "as": "উপগ্ৰহ চিহ্নৰ দ্বাৰা"
+      },
+      {
+        "en": "natural features such as trees, streams and embankments",
+        "as": "গছ, নিজৰা আৰু বান্ধ আদি প্ৰাকৃতিক চিহ্নৰ দ্বাৰা"
+      },
+      {
+        "en": "latitude and longitude",
+        "as": "অক্ষাংশ আৰু দ্ৰাঘিমাংশৰ দ্বাৰা"
+      },
+      {
+        "en": "survey numbers",
+        "as": "জৰীপ নম্বৰৰ দ্বাৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Boundaries are given by landmarks, which is why the descriptions are read literally. Latitude, survey numbers and satellites are modern.",
+      "as": "সীমা চিহ্নৰ দ্বাৰা দিয়া হয়, সেয়ে বৰ্ণনা আক্ষৰিকভাৱে পঢ়া হয়। অক্ষাংশ, জৰীপ নম্বৰ আৰু উপগ্ৰহ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-125",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam period's land grants were usually recorded on copper because the metal",
+      "as": "প্ৰাচীন অসম যুগৰ ভূমি দান সাধাৰণতে তামত লিপিবদ্ধ কৰা হৈছিল কাৰণ ধাতুটি"
+    },
+    "options": [
+      {
+        "en": "survives damp conditions better than other writing surfaces",
+        "as": "আন লিখন পৃষ্ঠতকৈ সিক্ত অৱস্থা ভালদৰে সহ্য কৰে"
+      },
+      {
+        "en": "was cheaper than cloth",
+        "as": "কাপোৰতকৈ সস্তা আছিল"
+      },
+      {
+        "en": "was sacred to the kings",
+        "as": "ৰজাসকলৰ বাবে পবিত্ৰ আছিল"
+      },
+      {
+        "en": "could be eaten",
+        "as": "খাব পৰা যায়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Humidity destroys palm leaf and paper, which is why copper plates survive. Cost, sanctity and edibility are not the reason.",
+      "as": "আৰ্দ্ৰতাই তালপাত আৰু কাগজ নষ্ট কৰে, সেয়ে তাম্ৰপত্ৰ ৰয়। মূল্য, পবিত্ৰতা আৰু ভক্ষণযোগ্যতা কাৰণ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-126",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "A Kamarupa grant that refers to a 'hala' or plough usually indicates",
+      "as": "কামৰূপৰ শাসনপত্ৰত 'হল' বা নাঙলৰ উল্লেখে সাধাৰণতে সূচায়"
+    },
+    "options": [
+      {
+        "en": "a military weapon",
+        "as": "সামৰিক অস্ত্ৰ"
+      },
+      {
+        "en": "a temple symbol",
+        "as": "মন্দিৰৰ প্ৰতীক"
+      },
+      {
+        "en": "a river boat",
+        "as": "নদীৰ নাও"
+      },
+      {
+        "en": "agricultural land under cultivation",
+        "as": "খেতিৰ অধীনত থকা কৃষিভূমি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The plough marks cultivated fields, which is why it appears in land descriptions. Weapons, temple symbols and boats are different.",
+      "as": "নাঙলে খেতিভূমি চিহ্নিত কৰে, সেয়ে ই ভূমিৰ বৰ্ণনাত ওলায়। অস্ত্ৰ, মন্দিৰ প্ৰতীক আৰু নাও বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-127",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's contact with China is inferred mainly from",
+      "as": "প্ৰাচীন অসম অঞ্চলৰ চীনৰ লগত সংযোগ মূলতঃ কাৰপৰা অনুমান কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "British gazetteers",
+        "as": "ব্ৰিটিছ গেজেটিয়াৰৰপৰা"
+      },
+      {
+        "en": "Ahom coins",
+        "as": "আহোম মুদ্ৰাৰপৰা"
+      },
+      {
+        "en": "Chinese pilgrim accounts and overland routes",
+        "as": "চীনা পৰিৱ্ৰাজকৰ বৃত্তান্ত আৰু স্থলপথৰপৰা"
+      },
+      {
+        "en": "Mughal farmans",
+        "as": "মোগল ফৰ্মানৰপৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Pilgrim records and route descriptions support the link, which is why they are cited. Mughal, British and Ahom sources are later.",
+      "as": "পৰিৱ্ৰাজকৰ ৰেকৰ্ড আৰু পথৰ বৰ্ণনাই সংযোগ সমৰ্থন কৰে, সেয়ে সেয়া উদ্ধৃত। মোগল, ব্ৰিটিছ আৰু আহোম উৎস পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-128",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's sculptures show the strongest influence of",
+      "as": "প্ৰাচীন কামৰূপ যুগৰ ভাস্কৰ্যই আটাইতকৈ বেছি প্ৰভাৱ দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "modern abstract style",
+        "as": "আধুনিক বিমূৰ্ত শৈলীৰ"
+      },
+      {
+        "en": "north Indian Gupta and post Gupta styles",
+        "as": "উত্তৰ ভাৰতীয় গুপ্ত আৰু গুপ্তোত্তৰ শৈলীৰ"
+      },
+      {
+        "en": "European baroque style",
+        "as": "ইউৰোপীয় বেৰক শৈলীৰ"
+      },
+      {
+        "en": "Mughal tomb style",
+        "as": "মোগল সমাধি শৈলীৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gupta and post Gupta forms dominate, which is why the region is grouped with northern art. Baroque, Mughal and modern styles belong elsewhere.",
+      "as": "গুপ্ত আৰু গুপ্তোত্তৰ ৰূপ প্ৰাধান্য পায়, সেয়ে অঞ্চলটো উত্তৰ কলাৰ লগত ৰখা হয়। বেৰক, মোগল আৰু আধুনিক শৈলী আন ঠাইৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-129",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "What do the different land categories in Kamarupa grants prove the state acknowledged?",
+      "as": "কামৰূপৰ শাসনপত্ৰত বিভিন্ন ভূমি শ্ৰেণীয়ে ৰাজ্যই কাক স্বীকৃতি দিছিল বুলি প্ৰমাণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "different categories of land and their customary uses",
+        "as": "বিভিন্ন ভূমি শ্ৰেণী আৰু সিহঁতৰ প্ৰথাগত ব্যৱহাৰ"
+      },
+      {
+        "en": "only one type of land",
+        "as": "কেৱল এবিধ ভূমি"
+      },
+      {
+        "en": "no private property",
+        "as": "কোনো ব্যক্তিগত সম্পত্তি"
+      },
+      {
+        "en": "no villages at all",
+        "as": "কোনো গাঁও নাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fields, homesteads, pastures and forests are distinguished, which is why the grants are detailed. One land type, no property and no villages are contradicted.",
+      "as": "পথাৰ, বসতিভূমি, চৰণ আৰু অৰণ্য পৃথক কৰা হয়, সেয়ে শাসনপত্ৰ সবিশেষ। এবিধ ভূমি, সম্পত্তিহীনতা আৰু গাঁওহীনতা খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-130",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The term 'Kamarupanagara' refers to",
+      "as": "'কামৰূপনগৰ' শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "a type of land grant",
+        "as": "এবিধ ভূমি দান"
+      },
+      {
+        "en": "a river port",
+        "as": "নদী বন্দৰ"
+      },
+      {
+        "en": "a Buddhist monastery",
+        "as": "বৌদ্ধ বিহাৰ"
+      },
+      {
+        "en": "a later capital of Kamarupa",
+        "as": "কামৰূপৰ পিছৰ ৰাজধানী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The name marks a later capital, which is why it is distinguished from Pragjyotishpura. Grants, ports and monasteries have other names.",
+      "as": "নামটোৱে পিছৰ ৰাজধানী চিহ্নিত কৰে, সেয়ে ইয়াক প্ৰাগজ্যোতিষপুৰৰপৰা পৃথক কৰা হয়। দান, বন্দৰ আৰু বিহাৰৰ বেলেগ নাম।"
+    }
+  },
+  {
+    "id": "assam-history-extra-131",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The decline of Kamarupa as a single kingdom resulted in the rise of",
+      "as": "এক ৰাজ্য হিচাপে কামৰূপৰ অৱনতিৰ ফলত উত্থান ঘটিছিল"
+    },
+    "options": [
+      {
+        "en": "a British colony directly",
+        "as": "প্ৰত্যক্ষ ব্ৰিটিছ উপনিবেশৰ"
+      },
+      {
+        "en": "a Chinese province",
+        "as": "চীন প্ৰদেশৰ"
+      },
+      {
+        "en": "regional kingdoms such as Kamata and the Chutiya state",
+        "as": "কামতা আৰু চুতীয়া ৰাজ্যৰ দৰে আঞ্চলিক ৰাজ্যৰ"
+      },
+      {
+        "en": "a single Mughal province",
+        "as": "এটা মোগল প্ৰদেশৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Fragmentation produced regional states, which is why Kamata and Chutiya appear. Mughal, British and Chinese rule came later or never.",
+      "as": "বিভাজনে আঞ্চলিক ৰাজ্য সৃষ্টি কৰিছিল, সেয়ে কামতা আৰু চুতীয়া ওলায়। মোগল, ব্ৰিটিছ আৰু চীন শাসন পিছত বা কেতিয়াও নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-132",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's epics and Puranas describe it as",
+      "as": "প্ৰাচীন অসম অঞ্চলক মহাকাব্য আৰু পুৰাণে বৰ্ণনা কৰে"
+    },
+    "options": [
+      {
+        "en": "part of Sri Lanka",
+        "as": "শ্ৰীলংকাৰ অংশ হিচাপে"
+      },
+      {
+        "en": "a rich eastern kingdom beyond the Ganga plain",
+        "as": "গংগা সমভূমিৰ সিপাৰে ধনী পূব ৰাজ্য হিচাপে"
+      },
+      {
+        "en": "a desert region",
+        "as": "মৰুভূমি অঞ্চল হিচাপে"
+      },
+      {
+        "en": "an island",
+        "as": "দ্বীপ হিচাপে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The texts place a wealthy eastern realm there, which is why the region is described that way. Desert, island and Sri Lanka are wrong.",
+      "as": "গ্ৰন্থই তাত ধনী পূব ৰাজ্য ৰাখে, সেয়ে অঞ্চলটো এনেদৰে বৰ্ণনা কৰা হয়। মৰুভূমি, দ্বীপ আৰু শ্ৰীলংকা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-133",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' relationship with forest communities is best described as",
+      "as": "অৰণ্য সম্প্ৰদায়ৰ লগত প্ৰাচীন কামৰূপ ৰজাসকলৰ সম্পৰ্ক শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "extraction of produce combined with tribute arrangements",
+        "as": "উৎপাদন উদ্ধাৰৰ লগত কৰ ব্যৱস্থাৰ সংমিশ্ৰণ"
+      },
+      {
+        "en": "complete absence of contact",
+        "as": "সংযোগৰ সম্পূৰ্ণ অভাৱ"
+      },
+      {
+        "en": "full political integration",
+        "as": "সম্পূৰ্ণ ৰাজনৈতিক সংহতি"
+      },
+      {
+        "en": "religious conversion only",
+        "as": "কেৱল ধৰ্মান্তৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Produce and tribute defined the link, which is why it is described as indirect. No contact, full integration and conversion only are wrong.",
+      "as": "উৎপাদন আৰু কৰেই সংযোগ নিৰ্ধাৰণ কৰিছিল, সেয়ে ইয়াক পৰোক্ষ বোলা হয়। সংযোগহীনতা, সম্পূৰ্ণ সংহতি আৰু কেৱল ধৰ্মান্তৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-134",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam period's most important long term contribution to the region's culture was",
+      "as": "অঞ্চলৰ সংস্কৃতিলৈ প্ৰাচীন অসম যুগৰ আটাইতকৈ গুৰুত্বপূৰ্ণ দীৰ্ঘম্যাদী অৱদান আছিল"
+    },
+    "options": [
+      {
+        "en": "the introduction of tea",
+        "as": "চাহৰ প্ৰৱৰ্তন"
+      },
+      {
+        "en": "the railway network",
+        "as": "ৰেল পথ"
+      },
+      {
+        "en": "the printing press",
+        "as": "ছাপাখনা"
+      },
+      {
+        "en": "the fusion of Sanskritic and local religious practice",
+        "as": "সংস্কৃত আৰু স্থানীয় ধৰ্মীয় ৰীতিৰ সংমিশ্ৰণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Temple, tantra and local cults blended, which is why the fusion reading is used. Tea, railways and printing are modern.",
+      "as": "মন্দিৰ, তন্ত্ৰ আৰু স্থানীয় উপাসনা মিলিছিল, সেয়ে সংমিশ্ৰণৰ পঢ়া ব্যৱহাৰ কৰা হয়। চাহ, ৰেল আৰু ছপাকৰণ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-135",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' patronage of Sanskrit learning is visible in",
+      "as": "সংস্কৃত বিদ্যাৰ প্ৰতি প্ৰাচীন কামৰূপ ৰজাসকলৰ পৃষ্ঠপোষকতা দৃশ্যমান"
+    },
+    "options": [
+      {
+        "en": "their Persian chronicles",
+        "as": "তেওঁলোকৰ ফাৰ্চী বুৰঞ্জীত"
+      },
+      {
+        "en": "their printed books",
+        "as": "তেওঁলোকৰ ছপা কিতাপত"
+      },
+      {
+        "en": "the polished Sanskrit of their grants",
+        "as": "তেওঁলোকৰ শাসনপত্ৰৰ পৰিশীলিত সংস্কৃতত"
+      },
+      {
+        "en": "their English correspondence",
+        "as": "তেওঁলোকৰ ইংৰাজী পত্ৰাচাৰত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The grants are composed in formal Sanskrit, which is why they are evidence of learning. English, Persian and print belong to later periods.",
+      "as": "শাসনপত্ৰ আনুষ্ঠানিক সংস্কৃতত ৰচিত, সেয়ে সেয়া বিদ্যাৰ প্ৰমাণ। ইংৰাজী, ফাৰ্চী আৰু ছপা পিছৰ যুগৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-136",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's main export in early times is generally taken to be",
+      "as": "প্ৰাচীন অসম অঞ্চলৰ প্ৰাৰম্ভিক কালৰ প্ৰধান ৰপ্তানি সাধাৰণতে ধৰা হয়"
+    },
+    "options": [
+      {
+        "en": "coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "forest produce and handicrafts",
+        "as": "অৰণ্য উৎপাদন আৰু হস্তশিল্প"
+      },
+      {
+        "en": "tea",
+        "as": "চাহ"
+      },
+      {
+        "en": "petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Timber, silk and crafts moved along the routes, which is why they are named. Tea, petroleum and coal are colonial era exports.",
+      "as": "কাঠ, পাট আৰু শিল্প সামগ্ৰী পথেৰে গৈছিল, সেয়ে সেয়া নাম দিয়া হয়। চাহ, পেট্ৰ'লিয়াম আৰু কয়লা ঔপনিবেশিক যুগৰ ৰপ্তানি।"
+    }
+  },
+  {
+    "id": "assam-history-extra-137",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa state's capacity to issue grants across a wide area depended on",
+      "as": "বহল অঞ্চলত শাসনপত্ৰ জাৰি কৰাৰ প্ৰাচীন কামৰূপ ৰাজ্যৰ সামৰ্থ্য নিৰ্ভৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "a network of officials and local notables",
+        "as": "বিষয়া আৰু স্থানীয় প্ৰভাৱশালীৰ জালিকাৰ ওপৰত"
+      },
+      {
+        "en": "a large navy",
+        "as": "বৃহৎ নৌসেনাৰ ওপৰত"
+      },
+      {
+        "en": "European support",
+        "as": "ইউৰোপীয় সমৰ্থনৰ ওপৰত"
+      },
+      {
+        "en": "a single royal messenger",
+        "as": "এজন ৰাজকীয় দূতৰ ওপৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Officials and notables carried out the grants, which is why the network reading is used. A navy, European support and one messenger are wrong.",
+      "as": "বিষয়া আৰু প্ৰভাৱশালীয়ে শাসনপত্ৰ কাৰ্যকৰী কৰিছিল, সেয়ে জালিকাৰ পঢ়া ব্যৱহাৰ কৰা হয়। নৌসেনা, ইউৰোপীয় সমৰ্থন আৰু এজন দূত ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-138",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "What does the ancient Assam period contribute to the study of Indian political geography?",
+      "as": "ভাৰতীয় ৰাজনৈতিক ভূগোল অধ্যয়নত প্ৰাচীন অসম যুগে কি যোগদান কৰে?"
+    },
+    "options": [
+      {
+        "en": "an empty buffer zone",
+        "as": "ৰিক্ত মধ্যস্থ অঞ্চল"
+      },
+      {
+        "en": "a Mughal province",
+        "as": "মোগল প্ৰদেশ"
+      },
+      {
+        "en": "a British district",
+        "as": "ব্ৰিটিছ জিলা"
+      },
+      {
+        "en": "a frontier region with its own state structures",
+        "as": "নিজা ৰাজ্য গাঁথনিযুক্ত সীমান্ত অঞ্চল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The region had its own kingdoms, which is why it is not a buffer or a province. Mughal and British rule came later.",
+      "as": "অঞ্চলটোৰ নিজা ৰাজ্য আছিল, সেয়ে ই মধ্যস্থ অঞ্চল বা প্ৰদেশ নহয়। মোগল আৰু ব্ৰিটিছ শাসন পিছত আহিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-139",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's coins are useful to historians mainly because they",
+      "as": "প্ৰাচীন কামৰূপ যুগৰ মুদ্ৰা ইতিহাসবিদৰ বাবে মূলতঃ উপযোগী কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "list all villages",
+        "as": "সকলো গাঁও তালিকাভুক্ত কৰে"
+      },
+      {
+        "en": "describe religious rituals fully",
+        "as": "ধৰ্মীয় ৰীতি সম্পূৰ্ণ বৰ্ণনা কৰে"
+      },
+      {
+        "en": "help date rulers and show economic activity",
+        "as": "শাসকৰ তাৰিখ নিৰ্ধাৰণ আৰু অৰ্থনৈতিক কাৰ্যকলাপ দেখুৱায়"
+      },
+      {
+        "en": "record the weather",
+        "as": "বতৰ লিপিবদ্ধ কৰে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Coins carry names and styles that date reigns, which is why numismatics matters. Weather, village lists and full rituals are not their content.",
+      "as": "মুদ্ৰাত নাম আৰু শৈলী থাকে যি ৰাজত্বৰ তাৰিখ দিয়ে, সেয়ে মুদ্ৰাবিদ্যা গুৰুত্বপূৰ্ণ। বতৰ, গাঁৱৰ তালিকা আৰু সম্পূৰ্ণ ৰীতি তাৰ বিষয়বস্তু নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-140",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main religious centres besides Kamakhya included",
+      "as": "কামাখ্যাৰ বাহিৰে প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান ধৰ্মীয় কেন্দ্ৰৰ অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "Sikh gurudwaras",
+        "as": "শিখ গুৰুদ্বাৰা"
+      },
+      {
+        "en": "Shaiva and Vaishnava temple sites",
+        "as": "শৈৱ আৰু বৈষ্ণৱ মন্দিৰ স্থান"
+      },
+      {
+        "en": "Mughal mosques",
+        "as": "মোগল মছজিদ"
+      },
+      {
+        "en": "British churches",
+        "as": "ব্ৰিটিছ গীৰ্জাঘৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Shaiva and Vaishnava sites are recorded, which is why they are cited. Mughal, British and Sikh institutions belong to other periods.",
+      "as": "শৈৱ আৰু বৈষ্ণৱ স্থান লিপিবদ্ধ, সেয়ে সেয়া উদ্ধৃত। মোগল, ব্ৰিটিছ আৰু শিখ প্ৰতিষ্ঠান আন যুগৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-141",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' use of the title 'Parameshvara' and 'Maharajadhiraja' together shows",
+      "as": "কামৰূপ ৰজাসকলে 'পৰমেশ্বৰ' আৰু 'মহাৰাজাধিৰাজ' উপাধি একেলগে ব্যৱহাৰে দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a claim to both divine sanction and political supremacy",
+        "as": "ঐশ্বৰিক অনুমোদন আৰু ৰাজনৈতিক শ্ৰেষ্ঠত্ব দুয়োটাৰ দাবী"
+      },
+      {
+        "en": "a rejection of kingship",
+        "as": "ৰাজত্বৰ প্ৰত্যাখ্যান"
+      },
+      {
+        "en": "a Buddhist conversion",
+        "as": "বৌদ্ধ ধৰ্মান্তৰ"
+      },
+      {
+        "en": "a British title",
+        "as": "ব্ৰিটিছ উপাধি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pair combines religious and political claims, which is why both are read together. Rejection, conversion and British honours do not fit.",
+      "as": "যোৰটোৱে ধৰ্মীয় আৰু ৰাজনৈতিক দাবী মিলায়, সেয়ে দুয়ো একেলগে পঢ়া হয়। প্ৰত্যাখ্যান, ধৰ্মান্তৰ আৰু ব্ৰিটিছ সন্মান নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-142",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's population in the Kamarupa period was mainly",
+      "as": "কামৰূপ যুগত প্ৰাচীন অসম অঞ্চলৰ জনসংখ্যা মূলতঃ আছিল"
+    },
+    "options": [
+      {
+        "en": "entirely urban",
+        "as": "সম্পূৰ্ণ নগৰীয়া"
+      },
+      {
+        "en": "purely nomadic",
+        "as": "কেৱল যাযাবৰ"
+      },
+      {
+        "en": "industrial",
+        "as": "ঔদ্যোগিক"
+      },
+      {
+        "en": "rural and agrarian with scattered towns",
+        "as": "গাঁওমুখী আৰু কৃষিভিত্তিক, সিঁচৰতি নগৰসহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Villages dominated with a few towns, which is why the grants name both. Entirely urban, nomadic and industrial are wrong.",
+      "as": "গাঁৱৰ প্ৰাধান্য আছিল, কিছু নগৰসহ, সেয়ে শাসনপত্ৰই দুয়োটাৰ নাম দিয়ে। সম্পূৰ্ণ নগৰীয়া, যাযাবৰ আৰু ঔদ্যোগিক ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-143",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa state's interest in controlling river crossings was mainly",
+      "as": "নদীৰ ঘাট নিয়ন্ত্ৰণত প্ৰাচীন কামৰূপ ৰাজ্যৰ আগ্ৰহ মূলতঃ আছিল"
+    },
+    "options": [
+      {
+        "en": "artistic only",
+        "as": "কেৱল শৈল্পিক"
+      },
+      {
+        "en": "irrelevant",
+        "as": "অপ্ৰাসংগিক"
+      },
+      {
+        "en": "strategic and revenue related",
+        "as": "কৌশলগত আৰু ৰাজহ সম্পৰ্কীয়"
+      },
+      {
+        "en": "religious only",
+        "as": "কেৱল ধৰ্মীয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Crossings carried troops and tolls, which is why they were guarded. Purely religious, artistic or irrelevant readings are wrong.",
+      "as": "ঘাটে সৈন্য আৰু শুল্ক কঢ়িয়াইছিল, সেয়ে সেয়া ৰক্ষা কৰা হৈছিল। কেৱল ধৰ্মীয়, শৈল্পিক বা অপ্ৰাসংগিক পঢ়া ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-144",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam period's end is marked in political terms by",
+      "as": "ৰাজনৈতিক দিশৰপৰা প্ৰাচীন অসম যুগৰ অন্ত চিহ্নিত হয়"
+    },
+    "options": [
+      {
+        "en": "the partition of India",
+        "as": "ভাৰত বিভাজনৰ দ্বাৰা"
+      },
+      {
+        "en": "the fragmentation of Kamarupa into smaller states",
+        "as": "কামৰূপ সৰু ৰাজ্যত বিভক্ত হোৱাৰ দ্বাৰা"
+      },
+      {
+        "en": "the arrival of the British",
+        "as": "ব্ৰিটিছৰ আগমনৰ দ্বাৰা"
+      },
+      {
+        "en": "the battle of Plassey",
+        "as": "পলাশী যুদ্ধৰ দ্বাৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Fragmentation opens the medieval phase, which is why the divide sits there. The British, Plassey and partition are far later.",
+      "as": "বিভাজনে মধ্যযুগীয় পৰ্যায় আৰম্ভ কৰে, সেয়ে বিভাজন তাত। ব্ৰিটিছ, পলাশী আৰু বিভাজন বহু পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-145",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants to Brahmins were often made at places of",
+      "as": "ব্ৰাহ্মণলৈ প্ৰাচীন কামৰূপ ৰজাসকলৰ দান প্ৰায়ে কাৰ স্থানত কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "religious merit such as river banks and tirthas",
+        "as": "নদীৰ পাৰ আৰু তীৰ্থ আদি ধৰ্মীয় পুণ্যস্থানত"
+      },
+      {
+        "en": "battlefields",
+        "as": "যুদ্ধক্ষেত্ৰত"
+      },
+      {
+        "en": "market squares",
+        "as": "বজাৰ চৌহদত"
+      },
+      {
+        "en": "military camps",
+        "as": "সামৰিক শিবিৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Riverside and tirtha locations carried merit, which is why grants cluster there. Battlefields, markets and camps are not the pattern.",
+      "as": "নদীৰ পাৰ আৰু তীৰ্থস্থানত পুণ্য আছিল, সেয়ে শাসনপত্ৰ তাত কেন্দ্ৰীভূত। যুদ্ধক্ষেত্ৰ, বজাৰ আৰু শিবিৰ আৰ্হি নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-146",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's significance for later Assamese society was that it",
+      "as": "পিছৰ অসমীয়া সমাজৰ বাবে প্ৰাচীন কামৰূপ যুগৰ গুৰুত্ব আছিল যে ই"
+    },
+    "options": [
+      {
+        "en": "created the tea industry",
+        "as": "চাহ উদ্যোগ সৃষ্টি কৰিছিল"
+      },
+      {
+        "en": "ended agriculture",
+        "as": "কৃষি অন্ত কৰিছিল"
+      },
+      {
+        "en": "brought the British",
+        "as": "ব্ৰিটিছ আনিছিল"
+      },
+      {
+        "en": "established the village and landholding order that lasted",
+        "as": "দীৰ্ঘদিন টিকি থকা গাঁও আৰু ভূমি ব্যৱস্থা প্ৰতিষ্ঠা কৰিছিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Village and landholding patterns persisted, which is why the period is formative. Tea, the end of farming and the British are modern.",
+      "as": "গাঁও আৰু ভূমি ব্যৱস্থা ৰৈ গৈছিল, সেয়ে যুগটো গঠনকাৰী। চাহ, কৃষি অন্ত আৰু ব্ৰিটিছ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-147",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' authority is best described as",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ কৰ্তৃত্ব শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "fully democratic",
+        "as": "সম্পূৰ্ণ গণতান্ত্ৰিক"
+      },
+      {
+        "en": "colonial",
+        "as": "ঔপনিবেশিক"
+      },
+      {
+        "en": "centralised in claim but mediated by local officers",
+        "as": "দাবীত কেন্দ্ৰীভূত কিন্তু স্থানীয় বিষয়াৰ জৰিয়তে প্ৰয়োগ"
+      },
+      {
+        "en": "purely symbolic",
+        "as": "কেৱল প্ৰতীকী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Titles claim central power while grants show local mediation, which is why the reading is qualified. Purely symbolic, democratic and colonial are wrong.",
+      "as": "উপাধিয়ে কেন্দ্ৰীয় শক্তি দাবী কৰে আৰু শাসনপত্ৰই স্থানীয় মধ্যস্থতা দেখুৱায়, সেয়ে পঢ়াটো চৰ্তসাপেক্ষ। কেৱল প্ৰতীকী, গণতান্ত্ৰিক আৰু ঔপনিবেশিক ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-148",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's main river besides the Brahmaputra that supported settlement was",
+      "as": "ব্ৰহ্মপুত্ৰৰ বাহিৰে বসতিত সহায় কৰা প্ৰাচীন অসম অঞ্চলৰ প্ৰধান নদী আছিল"
+    },
+    "options": [
+      {
+        "en": "the Narmada",
+        "as": "নৰ্মদা"
+      },
+      {
+        "en": "the Kapili",
+        "as": "কপিলী"
+      },
+      {
+        "en": "the Ganga",
+        "as": "গংগা"
+      },
+      {
+        "en": "the Yamuna",
+        "as": "যমুনা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Kapili valley supported settlements and Davaka, which is why it appears in early records. The Ganga, Yamuna and Narmada lie outside the region.",
+      "as": "কপিলী উপত্যকাই বসতি আৰু দৱাকক সহায় কৰিছিল, সেয়ে ই প্ৰাচীন ৰেকৰ্ডত ওলায়। গংগা, যমুনা আৰু নৰ্মদা অঞ্চলৰ বাহিৰত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-149",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants show that Sanskrit was used mainly for",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই দেখুৱায় সংস্কৃত মূলতঃ কাৰ বাবে ব্যৱহৃত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "formal and legal documentation",
+        "as": "আনুষ্ঠানিক আৰু আইনী দস্তাবেজ"
+      },
+      {
+        "en": "ordinary village speech",
+        "as": "সাধাৰণ গাঁৱৰ কথা"
+      },
+      {
+        "en": "military commands",
+        "as": "সামৰিক আদেশ"
+      },
+      {
+        "en": "trade accounting",
+        "as": "বাণিজ্য হিচাপ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Charters are in formal Sanskrit, which is why the language marks official use. Village speech, commands and accounts were not its main use.",
+      "as": "শাসনপত্ৰ আনুষ্ঠানিক সংস্কৃতত, সেয়ে ভাষাটোৱে আনুষ্ঠানিক ব্যৱহাৰ চিহ্নিত কৰে। গাঁৱৰ কথা, আদেশ আৰু হিচাপ তাৰ প্ৰধান ব্যৱহাৰ নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-150",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's earliest states are known mainly from",
+      "as": "প্ৰাচীন অসম অঞ্চলৰ আটাইতকৈ পুৰণি ৰাজ্য মূলতঃ কাৰপৰা জনা যায়"
+    },
+    "options": [
+      {
+        "en": "British census reports",
+        "as": "ব্ৰিটিছ জনগণনা প্ৰতিবেদনৰপৰা"
+      },
+      {
+        "en": "Mughal revenue records",
+        "as": "মোগল ৰাজহ ৰেকৰ্ডৰপৰা"
+      },
+      {
+        "en": "modern newspapers",
+        "as": "আধুনিক বাতৰি কাকতৰপৰা"
+      },
+      {
+        "en": "epics, Puranas and early inscriptions",
+        "as": "মহাকাব্য, পুৰাণ আৰু প্ৰাৰম্ভিক শিলালিপিৰপৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Texts and inscriptions carry the early names, which is why those sources are used. British, Mughal and newspaper records are far later.",
+      "as": "গ্ৰন্থ আৰু শিলালিপিয়ে প্ৰাৰম্ভিক নাম ৰাখে, সেয়ে সেই উৎস ব্যৱহাৰ কৰা হয়। ব্ৰিটিছ, মোগল আৰু বাতৰি ৰেকৰ্ড বহু পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-151",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa state's ability to mobilise labour for temples and tanks shows",
+      "as": "মন্দিৰ আৰু পুখুৰীৰ বাবে শ্ৰম সংগঠিত কৰাৰ প্ৰাচীন কামৰূপ ৰাজ্যৰ সামৰ্থ্যই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a modern bureaucracy",
+        "as": "আধুনিক আমলাতন্ত্ৰ"
+      },
+      {
+        "en": "European management",
+        "as": "ইউৰোপীয় পৰিচালনা"
+      },
+      {
+        "en": "a functioning system of local obligation",
+        "as": "স্থানীয় বাধ্যবাধকতাৰ কাৰ্যকৰী ব্যৱস্থা"
+      },
+      {
+        "en": "the absence of any organisation",
+        "as": "কোনো সংগঠনৰ অভাৱ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Local obligation supplied labour, which is why the reading is organisational. Absence of organisation, modern bureaucracy and European management are wrong.",
+      "as": "স্থানীয় বাধ্যবাধকতাই শ্ৰম যোগাইছিল, সেয়ে পঢ়াটো সংগঠনমূলক। সংগঠনহীনতা, আধুনিক আমলাতন্ত্ৰ আৰু ইউৰোপীয় পৰিচালনা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-152",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam period's most reliable dating evidence comes from",
+      "as": "প্ৰাচীন অসম যুগৰ আটাইতকৈ নিৰ্ভৰযোগ্য তাৰিখ প্ৰমাণ আহে"
+    },
+    "options": [
+      {
+        "en": "British travel writing",
+        "as": "ব্ৰিটিছ ভ্ৰমণ সাহিত্যৰপৰা"
+      },
+      {
+        "en": "dated inscriptions and associated coin finds",
+        "as": "তাৰিখযুক্ত শিলালিপি আৰু সংশ্লিষ্ট মুদ্ৰা প্ৰাপ্তিৰপৰা"
+      },
+      {
+        "en": "folk tales alone",
+        "as": "কেৱল লোককথাৰপৰা"
+      },
+      {
+        "en": "modern novels",
+        "as": "আধুনিক উপন্যাসৰপৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Inscriptions and coins fix dates, which is why they anchor chronology. Folk tales, novels and travel writing are not dating evidence.",
+      "as": "শিলালিপি আৰু মুদ্ৰাই তাৰিখ স্থিৰ কৰে, সেয়ে সেয়া কালানুক্ৰমৰ ভেটি। লোককথা, উপন্যাস আৰু ভ্ৰমণ সাহিত্য তাৰিখ প্ৰমাণ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-153",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants show that the state derived income from",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই দেখুৱায় ৰাজ্যই আয় লাভ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "land, produce shares and specified dues",
+        "as": "ভূমি, উৎপাদনৰ অংশ আৰু নিৰ্দিষ্ট মাচুলৰপৰা"
+      },
+      {
+        "en": "income tax on wages",
+        "as": "মজুৰিৰ ওপৰত আয় কৰৰপৰা"
+      },
+      {
+        "en": "European loans",
+        "as": "ইউৰোপীয় ঋণৰপৰা"
+      },
+      {
+        "en": "share market profits",
+        "as": "শ্বেয়াৰ বজাৰৰ লাভৰপৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Land and dues are listed in the charters, which is why the fiscal reading is used. Wage tax, European loans and share markets are anachronistic.",
+      "as": "ভূমি আৰু মাচুল শাসনপত্ৰত তালিকাভুক্ত, সেয়ে ৰাজহৰ পঢ়া ব্যৱহাৰ কৰা হয়। মজুৰি কৰ, ইউৰোপীয় ঋণ আৰু শ্বেয়াৰ বজাৰ কালবিৰুদ্ধ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-154",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's political structure in the Kamarupa period is best described as",
+      "as": "কামৰূপ যুগত প্ৰাচীন অসম অঞ্চলৰ ৰাজনৈতিক গাঁথনি শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "a republic of villages",
+        "as": "গাঁৱৰ গণৰাজ্য"
+      },
+      {
+        "en": "a theocracy",
+        "as": "ধৰ্মতন্ত্ৰ"
+      },
+      {
+        "en": "a colonial administration",
+        "as": "ঔপনিবেশিক প্ৰশাসন"
+      },
+      {
+        "en": "a monarchy with a graded officialdom",
+        "as": "স্তৰযুক্ত বিষয়াবৰ্গসহ ৰাজতন্ত্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Kings ruled through graded officers, which is why the monarchy reading is used. A village republic, theocracy and colonial rule do not fit.",
+      "as": "ৰজাসকলে স্তৰযুক্ত বিষয়াৰ জৰিয়তে শাসন কৰিছিল, সেয়ে ৰাজতন্ত্ৰৰ পঢ়া ব্যৱহাৰ কৰা হয়। গাঁৱৰ গণৰাজ্য, ধৰ্মতন্ত্ৰ আৰু ঔপনিবেশিক শাসন নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-155",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters were usually issued in the name of",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ সাধাৰণতে কাৰ নামত জাৰি কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "a merchant guild",
+        "as": "বণিক সংঘৰ"
+      },
+      {
+        "en": "a foreign ruler",
+        "as": "বিদেশী শাসকৰ"
+      },
+      {
+        "en": "the reigning king with his full titles",
+        "as": "শাসনকৰ্তা ৰজাৰ সম্পূৰ্ণ উপাধিসহ"
+      },
+      {
+        "en": "a village council",
+        "as": "গাঁও পৰিষদৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Full royal titles head each charter, which is why the king is the issuer. Councils, guilds and foreign rulers did not issue them.",
+      "as": "প্ৰতিখন শাসনপত্ৰৰ শিৰত সম্পূৰ্ণ ৰাজকীয় উপাধি থাকে, সেয়ে ৰজাই জাৰিকৰ্তা। পৰিষদ, সংঘ আৰু বিদেশী শাসকে জাৰি কৰা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-156",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's contact with the Ganga valley is best evidenced by",
+      "as": "গংগা উপত্যকাৰ লগত প্ৰাচীন অসম অঞ্চলৰ সংযোগৰ শ্ৰেষ্ঠ প্ৰমাণ"
+    },
+    "options": [
+      {
+        "en": "tea plantations",
+        "as": "চাহ বাগিচা"
+      },
+      {
+        "en": "shared titles, script and artistic forms",
+        "as": "সহভাগী উপাধি, লিপি আৰু শৈল্পিক ৰূপ"
+      },
+      {
+        "en": "the presence of Mughal forts",
+        "as": "মোগল দুৰ্গৰ উপস্থিতি"
+      },
+      {
+        "en": "British railway lines",
+        "as": "ব্ৰিটিছ ৰেল পথ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Titles, script and art are shared, which is why the link is inferred. Mughal forts, railways and tea are later or unrelated.",
+      "as": "উপাধি, লিপি আৰু কলা সহভাগী, সেয়ে সংযোগ অনুমান কৰা হয়। মোগল দুৰ্গ, ৰেল আৰু চাহ পিছৰ বা অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-157",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa state's dealings with hill communities usually took the form of",
+      "as": "পাহাৰীয়া সম্প্ৰদায়ৰ লগত প্ৰাচীন কামৰূপ ৰাজ্যৰ লেনদেন সাধাৰণতে ৰূপ লৈছিল"
+    },
+    "options": [
+      {
+        "en": "tribute and exchange rather than direct rule",
+        "as": "প্ৰত্যক্ষ শাসনৰ সলনি কৰ আৰু বিনিময়"
+      },
+      {
+        "en": "complete annexation",
+        "as": "সম্পূৰ্ণ সংযুক্তি"
+      },
+      {
+        "en": "religious missions only",
+        "as": "কেৱল ধৰ্মীয় অভিযান"
+      },
+      {
+        "en": "no contact",
+        "as": "সংযোগহীনতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tribute and exchange defined the link, which is why indirect rule is inferred. Annexation, missions only and no contact are wrong.",
+      "as": "কৰ আৰু বিনিময়ে সংযোগ নিৰ্ধাৰণ কৰিছিল, সেয়ে পৰোক্ষ শাসন অনুমান কৰা হয়। সংযুক্তি, কেৱল অভিযান আৰু সংযোগহীনতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-158",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam period's importance for language history is that it shows",
+      "as": "ভাষা ইতিহাসৰ বাবে প্ৰাচীন অসম যুগৰ গুৰুত্ব হ'ল ই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "the absence of any language",
+        "as": "কোনো ভাষাৰ অভাৱ"
+      },
+      {
+        "en": "the dominance of English",
+        "as": "ইংৰাজীৰ প্ৰাধান্য"
+      },
+      {
+        "en": "the use of Persian only",
+        "as": "কেৱল ফাৰ্চী ব্যৱহাৰ"
+      },
+      {
+        "en": "early use of Sanskrit alongside local speech",
+        "as": "স্থানীয় কথাৰ কাষত সংস্কৃতৰ প্ৰাৰম্ভিক ব্যৱহাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sanskrit charters imply a local spoken language beneath them, which is why the pairing is read. No language, English and Persian only are wrong.",
+      "as": "সংস্কৃত শাসনপত্ৰই তলত স্থানীয় কথিত ভাষা সূচায়, সেয়ে যোৰটো পঢ়া হয়। ভাষাহীনতা, ইংৰাজী আৰু কেৱল ফাৰ্চী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-159",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants were witnessed by officials because the charter was",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ বিষয়াসকলে সাক্ষী দিছিল কাৰণ পত্ৰখন"
+    },
+    "options": [
+      {
+        "en": "a religious hymn",
+        "as": "ধৰ্মীয় স্তোত্ৰ আছিল"
+      },
+      {
+        "en": "a trade invoice",
+        "as": "বাণিজ্য বিল আছিল"
+      },
+      {
+        "en": "a public legal document",
+        "as": "ৰাজহুৱা আইনী দস্তাবেজ আছিল"
+      },
+      {
+        "en": "a private letter",
+        "as": "ব্যক্তিগত চিঠি আছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Witnesses make it a public act, which is why it is legally read. Private letters, hymns and invoices are different.",
+      "as": "সাক্ষীয়ে ইয়াক ৰাজহুৱা কাৰ্য কৰে, সেয়ে ইয়াক আইনীভাৱে পঢ়া হয়। ব্যক্তিগত চিঠি, স্তোত্ৰ আৰু বিল বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-160",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's earliest urban centres grew mainly at",
+      "as": "প্ৰাচীন অসম অঞ্চলৰ আটাইতকৈ পুৰণি নগৰীয়া কেন্দ্ৰ মূলতঃ কাৰ ওচৰত গঢ় লৈছিল"
+    },
+    "options": [
+      {
+        "en": "sea ports",
+        "as": "সাগৰ বন্দৰত"
+      },
+      {
+        "en": "river crossings and administrative seats",
+        "as": "নদীৰ ঘাট আৰু প্ৰশাসনিক আসনৰ ওচৰত"
+      },
+      {
+        "en": "high mountain passes",
+        "as": "ওখ পৰ্বতীয়া গিৰিপথত"
+      },
+      {
+        "en": "desert oases",
+        "as": "মৰুভূমিৰ মৰুদ্যানত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rivers and seats of power drew settlement, which is why towns appear there. Mountain passes, oases and sea ports do not describe the region.",
+      "as": "নদী আৰু ক্ষমতাৰ আসনে বসতি আকৰ্ষণ কৰিছিল, সেয়ে নগৰ তাত ওলায়। পৰ্বতীয়া গিৰিপথ, মৰুদ্যান আৰু সাগৰ বন্দৰ অঞ্চলটোৰ বৰ্ণনা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-161",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main challenge for historians is",
+      "as": "ইতিহাসবিদৰ বাবে প্ৰাচীন কামৰূপ যুগৰ প্ৰধান প্ৰত্যাহ্বান"
+    },
+    "options": [
+      {
+        "en": "the uneven survival of sources",
+        "as": "উৎসৰ অসম জীৱনকাল"
+      },
+      {
+        "en": "the abundance of records",
+        "as": "ৰেকৰ্ডৰ প্ৰাচুৰ্য"
+      },
+      {
+        "en": "the absence of any inscriptions",
+        "as": "কোনো শিলালিপিৰ অভাব"
+      },
+      {
+        "en": "the use of English",
+        "as": "ইংৰাজী ব্যৱহাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Some periods are well documented and others are not, which is why the record is uneven. Abundant records, no inscriptions and English use are wrong.",
+      "as": "কিছু সময় সু-লিখিত আৰু কিছু নহয়, সেয়ে ৰেকর্ড অসম। ৰেকৰ্ডৰ প্ৰাচুৰ্য, শিলালিপিৰ অভাব আৰু ইংৰাজী ব্যৱহাৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-162",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters often record the donee's",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই প্ৰায়ে গ্ৰহীতাৰ এইটো লিপিবদ্ধ কৰে"
+    },
+    "options": [
+      {
+        "en": "income tax slab",
+        "as": "আয় কৰৰ স্তৰ"
+      },
+      {
+        "en": "military rank",
+        "as": "সামৰিক পদ"
+      },
+      {
+        "en": "village of birth only",
+        "as": "কেৱল জন্মগাঁও"
+      },
+      {
+        "en": "lineage, Vedic branch and place of origin",
+        "as": "বংশাৱলী, বৈদিক শাখা আৰু উৎপত্তিস্থান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Donee details identify the recipient precisely, which is why they are listed. Tax slabs, ranks and birth village alone are not the pattern.",
+      "as": "গ্ৰহীতাৰ বিৱৰণে প্ৰাপকক সঠিকভাৱে চিনাক্ত কৰে, সেয়ে সেয়া তালিকাভুক্ত। কৰ স্তৰ, পদ আৰু কেৱল জন্মগাঁও আৰ্হি নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-163",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's economy in the Kamarupa period is best described as",
+      "as": "কামৰূপ যুগত প্ৰাচীন অসম অঞ্চলৰ অৰ্থনীতি শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "purely pastoral",
+        "as": "কেৱল পশুপালনভিত্তিক"
+      },
+      {
+        "en": "based on paper money",
+        "as": "কাগজৰ মুদ্ৰাভিত্তিক"
+      },
+      {
+        "en": "agrarian with local exchange and limited long distance trade",
+        "as": "স্থানীয় বিনিময় আৰু সীমিত দূৰ বাণিজ্যসহ কৃষিভিত্তিক"
+      },
+      {
+        "en": "fully industrial",
+        "as": "সম্পূৰ্ণ ঔদ্যোগিক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Farming dominated with some trade, which is why the description is mixed. Fully industrial, purely pastoral and paper money are wrong.",
+      "as": "খেতিৰ প্ৰাধান্য আছিল, কিছু বাণিজ্যসহ, সেয়ে বৰ্ণনা মিশ্ৰিত। সম্পূৰ্ণ ঔদ্যোগিক, কেৱল পশুপালন আৰু কাগজৰ মুদ্ৰা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-164",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' patronage of temples is visible in the record through",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ মন্দিৰ পৃষ্ঠপোষকতা ৰেকৰ্ডত দৃশ্যমান কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "their railway grants",
+        "as": "তেওঁলোকৰ ৰেল দানৰ জৰিয়তে"
+      },
+      {
+        "en": "grants of land and income to temple establishments",
+        "as": "মন্দিৰ প্ৰতিষ্ঠানলৈ ভূমি আৰু আয়ৰ দানৰ জৰিয়তে"
+      },
+      {
+        "en": "their European tours",
+        "as": "তেওঁলোকৰ ইউৰোপ ভ্ৰমণৰ জৰিয়তে"
+      },
+      {
+        "en": "their printed books",
+        "as": "তেওঁলোকৰ ছপা কিতাপৰ জৰিয়তে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Land and income grants funded worship, which is why they appear in charters. European tours, printed books and railways are modern.",
+      "as": "ভূমি আৰু আয়ৰ দানে উপাসনা চলাইছিল, সেয়ে সেয়া শাসনপত্ৰত ওলায়। ইউৰোপ ভ্ৰমণ, ছপা কিতাপ আৰু ৰেল আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-165",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's link with the Gupta empire is best described as",
+      "as": "গুপ্ত সাম্ৰাজ্যৰ লগত প্ৰাচীন অসম অঞ্চলৰ সংযোগ শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "loose and diplomatic rather than administrative",
+        "as": "প্ৰশাসনিক নহয়, শিথিল আৰু কূটনৈতিক"
+      },
+      {
+        "en": "full provincial annexation",
+        "as": "সম্পূৰ্ণ প্ৰাদেশিক সংযুক্তি"
+      },
+      {
+        "en": "complete isolation",
+        "as": "সম্পূৰ্ণ বিচ্ছিন্নতা"
+      },
+      {
+        "en": "a military occupation",
+        "as": "সামৰিক দখল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Homage and titles rather than governors mark the link, which is why it is called loose. Annexation, isolation and occupation are wrong.",
+      "as": "শাসনপালৰ সলনি শ্ৰদ্ধাঞ্জলি আৰু উপাধিয়ে সংযোগ চিহ্নিত কৰে, সেয়ে ইয়াক শিথিল বোলা হয়। সংযুক্তি, বিচ্ছিন্নতা আৰু দখল ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-166",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's most enduring written legacy is",
+      "as": "প্ৰাচীন কামৰূপ যুগৰ আটাইতকৈ স্থায়ী লিখিত উত্তৰাধিকাৰ"
+    },
+    "options": [
+      {
+        "en": "printed newspapers",
+        "as": "ছপা বাতৰি কাকত"
+      },
+      {
+        "en": "English novels",
+        "as": "ইংৰাজী উপন্যাস"
+      },
+      {
+        "en": "Persian chronicles",
+        "as": "ফাৰ্চী বুৰঞ্জী"
+      },
+      {
+        "en": "the corpus of copper plate charters",
+        "as": "তাম্ৰপত্ৰ শাসনপত্ৰৰ সংকলন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The charters survive in number and detail, which is why they are the main legacy. Newspapers, novels and Persian chronicles belong elsewhere.",
+      "as": "শাসনপত্ৰ সংখ্যা আৰু বিৱৰণত ৰৈ গৈছে, সেয়ে সেয়া প্ৰধান উত্তৰাধিকাৰ। বাতৰি কাকত, উপন্যাস আৰু ফাৰ্চী বুৰঞ্জী আন ঠাইৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-167",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Assam region's religious life in the Kamarupa period included",
+      "as": "কামৰূপ যুগত প্ৰাচীন অসম অঞ্চলৰ ধৰ্মীয় জীৱনত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "only Christianity",
+        "as": "কেৱল খ্ৰীষ্টধৰ্ম"
+      },
+      {
+        "en": "no religion at all",
+        "as": "কোনো ধৰ্ম নাই"
+      },
+      {
+        "en": "Brahmanical, Buddhist and local cult practice together",
+        "as": "ব্ৰাহ্মণ্য, বৌদ্ধ আৰু স্থানীয় উপাসনা একেলগে"
+      },
+      {
+        "en": "only Islam",
+        "as": "কেৱল ইছলাম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Multiple traditions coexisted, which is why the plural reading is used. Only Islam, only Christianity and no religion are contradicted.",
+      "as": "একাধিক পৰম্পৰা সহাৱস্থান কৰিছিল, সেয়ে বহুত্বৰ পঢ়া ব্যৱহাৰ কৰা হয়। কেৱল ইছলাম, কেৱল খ্ৰীষ্টধৰ্ম আৰু ধৰ্মহীনতা খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-168",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Kamarupa king who bore the title 'Gaudeshvara' after defeating the Gauda ruler was",
+      "as": "গৌড়ৰ শাসকক পৰাজিত কৰি 'গৌড়েশ্বৰ' উপাধি ধাৰণ কৰা কামৰূপ ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Brahma Pala",
+        "as": "ব্ৰহ্মপাল"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যভৰ্মন"
+      },
+      {
+        "en": "Salastambha",
+        "as": "শালস্তম্ভ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bhaskarvarman's campaigns against Gauda earned the title, which is why he is named. Pushyavarman founded the line, Salastambha began a new dynasty and Brahma Pala founded the Palas.",
+      "as": "গৌড়ৰ বিৰুদ্ধে অভিযানে ভাস্কৰবৰ্মনক উপাধি আনি দিছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। পুষ্যভৰ্মনে বংশ প্ৰতিষ্ঠা কৰিছিল, শালস্তম্ভই নতুন বংশ আৰম্ভ কৰিছিল আৰু ব্ৰহ্মপালে পাল বংশ প্ৰতিষ্ঠা কৰিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-169",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Varman king who is known for his inscriptions at Nidhanpur and for restoring Brahmin settlements was",
+      "as": "নিধনপুৰৰ শিলালিপি আৰু ব্ৰাহ্মণ বসতি পুনৰুদ্ধাৰৰ বাবে জনাজাত বৰ্মন ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Sthitavarman",
+        "as": "স্থিতবৰ্মন"
+      },
+      {
+        "en": "Bhutivarman",
+        "as": "ভূতিবৰ্মন"
+      },
+      {
+        "en": "Susthitavarman",
+        "as": "সুষ্ঠিতবৰ্মন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Nidhanpur plate re-established the donees, which is why Bhaskarvarman is credited. Sthitavarman, Bhutivarman and Susthitavarman belong to other reigns.",
+      "as": "নিধনপুৰ পত্ৰই গ্ৰহীতাসকলক পুনৰ প্ৰতিষ্ঠা কৰিছিল, সেয়ে কৃতিত্ব ভাস্কৰবৰ্মনক দিয়া হয়। স্থিতবৰ্মন, ভূতিবৰ্মন আৰু সুষ্ঠিতবৰ্মন আন ৰাজত্বৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-170",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Varman dynasty's inscriptions are composed in",
+      "as": "বৰ্মন বংশৰ শিলালিপি ৰচিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Assamese prose",
+        "as": "অসমীয়া গদ্যত"
+      },
+      {
+        "en": "Persian verse",
+        "as": "ফাৰ্চী পদ্যত"
+      },
+      {
+        "en": "Pali only",
+        "as": "কেৱল পালিত"
+      },
+      {
+        "en": "Sanskrit prose and verse",
+        "as": "সংস্কৃত গদ্য আৰু পদ্যত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The charters are Sanskrit compositions, which is why they are used for literary study too. Assamese, Persian and Pali only do not describe them.",
+      "as": "শাসনপত্ৰ সংস্কৃত ৰচনা, সেয়ে সেয়া সাহিত্য অধ্যয়নতো ব্যৱহাৰ হয়। অসমীয়া, ফাৰ্চী আৰু কেৱল পালি ইয়াৰ বৰ্ণনা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-171",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa king who is said to have sent an embassy to Harsha's court was",
+      "as": "হৰ্ষৰ দৰবাৰলৈ দূতাবাস পঠিওৱা বুলি কোৱা প্ৰাচীন কামৰূপ ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Salastambha",
+        "as": "শালস্তম্ভ"
+      },
+      {
+        "en": "Vanamala",
+        "as": "বনমাল"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যভৰ্মন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Diplomatic exchange with Kanauj is attributed to Bhaskarvarman, which is why the embassy story is attached to him. The others ruled in different phases.",
+      "as": "কনৌজৰ লগত কূটনৈতিক আদান-প্ৰদান ভাস্কৰবৰ্মনলৈ আৰোপ কৰা হয়, সেয়ে দূতাবাসৰ কাহিনী তেওঁৰ লগত জড়িত। বাকীসকলে বেলেগ পৰ্যায়ত শাসন কৰিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-172",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Salastambha ruler who is known from a grant recording a land donation in the present Nagaon region was",
+      "as": "বৰ্তমান নগাঁও অঞ্চলত ভূমি দান লিপিবদ্ধ কৰা শাসনপত্ৰৰপৰা জনাজাত শালস্তম্ভ শাসক আছিল"
+    },
+    "options": [
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      },
+      {
+        "en": "Vanamala",
+        "as": "বনমাল"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Brahma Pala",
+        "as": "ব্ৰহ্মপাল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vanamala's grants cover central Assam, which is why he is cited for that area. Bhaskarvarman was a Varman, Brahma Pala founded the Palas and Sukapha was an Ahom.",
+      "as": "বনমালৰ শাসনপত্ৰই মধ্য অসম সামৰে, সেয়ে সেই অঞ্চলৰ বাবে তেওঁক উদ্ধৃত কৰা হয়। ভাস্কৰবৰ্মন বৰ্মন, ব্ৰহ্মপালে পাল বংশ প্ৰতিষ্ঠা কৰিছিল আৰু চুকাফা আহোম আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-173",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Salastambha king who assumed the title 'Maharajadhiraja' and issued several grants was",
+      "as": "মহাৰাজাধিৰাজ উপাধি লৈ কেইবাখনো শাসনপত্ৰ জাৰি কৰা শালস্তম্ভ ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Vanamala",
+        "as": "বনমাল"
+      },
+      {
+        "en": "Salastambha himself",
+        "as": "শালস্তম্ভ নিজে"
+      },
+      {
+        "en": "Brahma Pala",
+        "as": "ব্ৰহ্মপাল"
+      },
+      {
+        "en": "Ratnapala",
+        "as": "ৰত্নপাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vanamala's charters carry the imperial title, which is why he is named. Salastambha founded the line, and Brahma Pala and Ratnapala belong to the Palas.",
+      "as": "বনমালৰ শাসনপত্ৰত সাম্ৰাজ্যিক উপাধি আছে, সেয়ে তেওঁৰ নাম দিয়া হয়। শালস্তম্ভই বংশ প্ৰতিষ্ঠা কৰিছিল, আৰু ব্ৰহ্মপাল তথা ৰত্নপাল পাল বংশৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-174",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Kamarupa Pala king who is known for a grant issued from a place called Hadappesvara was",
+      "as": "হদপ্পেশ্বৰ নামৰ স্থানৰপৰা জাৰি কৰা শাসনপত্ৰৰ বাবে জনাজাত কামৰূপ পাল ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Brahma Pala",
+        "as": "ব্ৰহ্মপাল"
+      },
+      {
+        "en": "Vanamala",
+        "as": "বনমাল"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "Ratnapala",
+        "as": "ৰত্নপাল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ratnapala's charters name the place of issue, which is why he is cited. Brahma Pala founded the line, Vanamala was a Salastambha and Bhaskarvarman a Varman.",
+      "as": "ৰত্নপালৰ শাসনপত্ৰই জাৰিৰ স্থানৰ নাম দিয়ে, সেয়ে তেওঁক উদ্ধৃত কৰা হয়। ব্ৰহ্মপালে বংশ প্ৰতিষ্ঠা কৰিছিল, বনমাল শালস্তম্ভ আৰু ভাস্কৰবৰ্মন বৰ্মন আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-175",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The Kamarupa Pala ruler who faced pressure from the Chola raid into Bengal was",
+      "as": "বংগলৈ চোলৰ আক্ৰমণৰ চাপ সন্মুখীন হোৱা কামৰূপ পাল শাসক আছিল"
+    },
+    "options": [
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      },
+      {
+        "en": "Bhaskarvarman",
+        "as": "ভাস্কৰবৰ্মন"
+      },
+      {
+        "en": "a late Pala ruler of Kamarupa",
+        "as": "কামৰূপৰ পিছৰ পাল শাসক"
+      },
+      {
+        "en": "Pushyavarman",
+        "as": "পুষ্যভৰ্মন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Chola campaign affected the region's neighbours, which is why a late Pala ruler is named. Pushyavarman, Sukapha and Bhaskarvarman ruled in other periods.",
+      "as": "চোল অভিযানে অঞ্চলৰ চুবুৰীয়াক প্ৰভাৱিত কৰিছিল, সেয়ে পিছৰ পাল শাসকৰ নাম দিয়া হয়। পুষ্যভৰ্মন, চুকাফা আৰু ভাস্কৰবৰ্মনে আন যুগত শাসন কৰিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-176",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's principal pass to Tibet lay through",
+      "as": "তিব্বতলৈ প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান গিৰিপথ আছিল"
+    },
+    "options": [
+      {
+        "en": "the Nathu La only",
+        "as": "কেৱল নাথু লা"
+      },
+      {
+        "en": "the eastern Himalayan routes",
+        "as": "পূব হিমালয়ৰ পথ"
+      },
+      {
+        "en": "the Khyber Pass",
+        "as": "খাইবাৰ গিৰিপথ"
+      },
+      {
+        "en": "the Bolan Pass",
+        "as": "বোলান গিৰিপথ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Eastern Himalayan routes connected the region to Tibet, which is why they appear in trade accounts. Khyber, Bolan and Nathu La are other passes.",
+      "as": "পূব হিমালয়ৰ পথে অঞ্চলটো তিব্বতৰ লগত জুৰিছিল, সেয়ে সেয়া বাণিজ্য বিৱৰণত ওলায়। খাইবাৰ, বোলান আৰু নাথু লা আন গিৰিপথ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-177",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants mention 'silk' and textile products mainly to show",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই 'পাট' আৰু বস্ত্ৰ উৎপাদনৰ উল্লেখ কৰে মূলতঃ কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "local craft production and dues in kind",
+        "as": "স্থানীয় শিল্প উৎপাদন আৰু বস্তু হিচাপে মাচুল"
+      },
+      {
+        "en": "European imports",
+        "as": "ইউৰোপীয় আমদানি"
+      },
+      {
+        "en": "Mughal tribute",
+        "as": "মোগল কৰ"
+      },
+      {
+        "en": "British factory output",
+        "as": "ব্ৰিটিছ কাৰখানাৰ উৎপাদন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Textiles appear as dues and local products, which is why the craft reading is used. European, Mughal and British trade is later.",
+      "as": "বস্ত্ৰ মাচুল আৰু স্থানীয় সামগ্ৰী হিচাপে ওলায়, সেয়ে শিল্পৰ পঢ়া ব্যৱহাৰ কৰা হয়। ইউৰোপীয়, মোগল আৰু ব্ৰিটিছ বাণিজ্য পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-178",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's iron working is inferred from",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ লো-কাম অনুমান কৰা হয় কাৰপৰা"
+    },
+    "options": [
+      {
+        "en": "printed manuals",
+        "as": "ছপা পুস্তিকাৰপৰা"
+      },
+      {
+        "en": "British factory records",
+        "as": "ব্ৰিটিছ কাৰখানা ৰেকৰ্ডৰপৰা"
+      },
+      {
+        "en": "Mughal farmans",
+        "as": "মোগল ফৰ্মানৰপৰা"
+      },
+      {
+        "en": "slag heaps and tool finds",
+        "as": "লো-কৰাই আৰু সঁজুলি পোৱাৰপৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Slag and tools show local smelting, which is why archaeology is used. Manuals, factory records and farmans are later or unrelated.",
+      "as": "লো-কৰাই আৰু সঁজুলিয়ে স্থানীয় গলন দেখুৱায়, সেয়ে পুৰাতত্ত্ব ব্যৱহাৰ কৰা হয়। পুস্তিকা, কাৰখানা ৰেকৰ্ড আৰু ফৰ্মান পিছৰ বা অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-179",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's pottery tradition is known mainly from",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ মাটিৰ বাচন পৰম্পৰা মূলতঃ কাৰপৰা জনা যায়"
+    },
+    "options": [
+      {
+        "en": "British museum labels",
+        "as": "ব্ৰিটিছ সংগ্ৰহালয়ৰ লেবেলৰপৰা"
+      },
+      {
+        "en": "Persian paintings",
+        "as": "ফাৰ্চী চিত্ৰৰপৰা"
+      },
+      {
+        "en": "excavated wheel made pottery",
+        "as": "খননত পোৱা চকাযুক্ত মাটিৰ বাচনৰপৰা"
+      },
+      {
+        "en": "modern factory catalogues",
+        "as": "আধুনিক কাৰখানা তালিকাৰপৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Excavated wares date the craft, which is why they are cited. Catalogues, museum labels and Persian paintings are not the evidence.",
+      "as": "খননত পোৱা বাচনে শিল্পৰ তাৰিখ দিয়ে, সেয়ে সেয়া উদ্ধৃত। তালিকা, সংগ্ৰহালয় লেবেল আৰু ফাৰ্চী চিত্ৰ প্ৰমাণ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-180",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants show that villages were expected to pay dues in",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই দেখুৱায় গাঁৱে মাচুল দিবলগীয়া আছিল কাৰ হিচাপে"
+    },
+    "options": [
+      {
+        "en": "foreign currency",
+        "as": "বিদেশী মুদ্ৰাত"
+      },
+      {
+        "en": "grain, labour and specified goods",
+        "as": "শস্য, শ্ৰম আৰু নিৰ্দিষ্ট সামগ্ৰী হিচাপে"
+      },
+      {
+        "en": "gold coins only",
+        "as": "কেৱল সোণৰ মুদ্ৰাত"
+      },
+      {
+        "en": "paper notes",
+        "as": "কাগজৰ নোটত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Dues in kind and labour are listed, which is why the mixed reading is used. Gold only, paper notes and foreign currency are anachronistic.",
+      "as": "বস্তু আৰু শ্ৰমত মাচুল তালিকাভুক্ত, সেয়ে মিশ্ৰিত পঢ়া ব্যৱহাৰ কৰা হয়। কেৱল সোণ, কাগজৰ নোট আৰু বিদেশী মুদ্ৰা কালবিৰুদ্ধ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-181",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa state's relationship with traders is visible in the record through",
+      "as": "ব্যৱসায়ীসকলৰ লগত প্ৰাচীন কামৰূপ ৰাজ্যৰ সম্পৰ্ক ৰেকৰ্ডত দৃশ্যমান কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "market dues and route protection mentioned in charters",
+        "as": "শাসনপত্ৰত উল্লিখিত বজাৰ মাচুল আৰু পথ সুৰক্ষাৰ জৰিয়তে"
+      },
+      {
+        "en": "joint stock companies",
+        "as": "যুটীয়া মূলধন কোম্পানীৰ জৰিয়তে"
+      },
+      {
+        "en": "bank charters",
+        "as": "বেংক চাৰ্টাৰৰ জৰিয়তে"
+      },
+      {
+        "en": "insurance policies",
+        "as": "বীমা পলিচিৰ জৰিয়তে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dues and protection imply a trading economy, which is why those clauses are read. Companies, banks and insurance are modern.",
+      "as": "মাচুল আৰু সুৰক্ষাই বাণিজ্য অৰ্থনীতি সূচায়, সেয়ে সেই ধাৰা পঢ়া হয়। কোম্পানী, বেংক আৰু বীমা আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-182",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters were usually dated by",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ সাধাৰণতে কাৰ দ্বাৰা তাৰিখযুক্ত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "modern serial numbers",
+        "as": "আধুনিক ক্ৰমিক নম্বৰ"
+      },
+      {
+        "en": "newspaper dates",
+        "as": "বাতৰি কাকতৰ তাৰিখ"
+      },
+      {
+        "en": "railway timetables",
+        "as": "ৰেল সময়সূচী"
+      },
+      {
+        "en": "regnal years and sometimes a calendar era",
+        "as": "ৰাজত্বৰ বছৰ আৰু কেতিয়াবা পঞ্জিকা যুগ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Regnal years anchor the charters, which is why the chronology is reconstructed. Serial numbers, newspapers and timetables are modern.",
+      "as": "ৰাজত্বৰ বছৰে শাসনপত্ৰৰ ভেটি, সেয়ে কালানুক্ৰম পুনৰ্গঠন কৰা হয়। ক্ৰমিক নম্বৰ, বাতৰি কাকত আৰু সময়সূচী আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-183",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main grain crop is generally taken to be",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান শস্য সাধাৰণতে ধৰা হয়"
+    },
+    "options": [
+      {
+        "en": "maize",
+        "as": "মাকৈ"
+      },
+      {
+        "en": "barley",
+        "as": "যৱ"
+      },
+      {
+        "en": "rice",
+        "as": "ধান"
+      },
+      {
+        "en": "wheat",
+        "as": "গম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rice fits the valley's wet agriculture, which is why it is named. Wheat, maize and barley are not the region's staple in the sources.",
+      "as": "ধান উপত্যকাৰ সিক্ত কৃষিত মিলে, সেয়ে ইয়াৰ নাম দিয়া হয়। গম, মাকৈ আৰু যৱ উৎসত অঞ্চলৰ প্ৰধান শস্য নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-184",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants to temples often included the right to",
+      "as": "মন্দিৰলৈ প্ৰাচীন কামৰূপ ৰজাসকলৰ দানত প্ৰায়ে কাৰ অধিকাৰ অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "mint coins",
+        "as": "মুদ্রা টকা"
+      },
+      {
+        "en": "the income of specified lands and villages",
+        "as": "নিৰ্দিষ্ট ভূমি আৰু গাঁৱৰ আয়"
+      },
+      {
+        "en": "appoint the king",
+        "as": "ৰজা নিযুক্তি"
+      },
+      {
+        "en": "command troops",
+        "as": "সৈন্য পৰিচালনা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Temple endowments carried income rights, which is why grants list villages. Appointing kings, commanding troops and minting were royal.",
+      "as": "মন্দিৰৰ দানে আয়ৰ অধিকাৰ বহন কৰিছিল, সেয়ে শাসনপত্ৰই গাঁৱৰ তালিকা দিয়ে। ৰজা নিযুক্তি, সৈন্য পৰিচালনা আৰু মুদ্ৰা ৰাজকীয় আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-185",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's contact with South East Asia is inferred mainly from",
+      "as": "দক্ষিণ-পূব এছিয়াৰ লগত প্ৰাচীন কামৰূপ অঞ্চলৰ সংযোগ মূলতঃ কাৰপৰা অনুমান কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "shared artefact types and route evidence",
+        "as": "সহভাগী সামগ্ৰী প্ৰকাৰ আৰু পথৰ প্ৰমাণৰপৰা"
+      },
+      {
+        "en": "British shipping logs",
+        "as": "ব্ৰিটিছ জাহাজৰ লগৰপৰা"
+      },
+      {
+        "en": "Mughal trade treaties",
+        "as": "মোগল বাণিজ্য সন্ধিৰপৰা"
+      },
+      {
+        "en": "modern airline records",
+        "as": "আধুনিক বিমান ৰেকৰ্ডৰপৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Artefacts and routes suggest contact, which is why the inference is cautious. British logs, Mughal treaties and airlines are later or irrelevant.",
+      "as": "সামগ্ৰী আৰু পথে সংযোগ সূচায়, সেয়ে অনুমান সাৱধান। ব্ৰিটিছ লগ, মোগল সন্ধি আৰু বিমান পিছৰ বা অপ্ৰাসংগিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-186",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants frequently mention 'brahmadeya' land, which means land given to",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই প্ৰায়ে 'ব্ৰহ্মদেয়' ভূমিৰ উল্লেখ কৰে, যাৰ অৰ্থ কাক দিয়া ভূমি"
+    },
+    "options": [
+      {
+        "en": "soldiers",
+        "as": "সৈনিকসকলক"
+      },
+      {
+        "en": "merchants",
+        "as": "বণিকসকলক"
+      },
+      {
+        "en": "weavers",
+        "as": "তাঁতিসকলক"
+      },
+      {
+        "en": "Brahmins",
+        "as": "ব্ৰাহ্মণসকলক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Brahmadeya is Brahmin endowment, which is why the term recurs in land grant studies. Soldiers, merchants and weavers received other categories.",
+      "as": "ব্ৰহ্মদেয় ব্ৰাহ্মণক দিয়া দান, সেয়ে শব্দটো ভূমি দান অধ্যয়নত বাৰম্বাৰ ওলায়। সৈনিক, বণিক আৰু তাঁতিয়ে আন শ্ৰেণী পাইছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-187",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants that mention 'devottara' land refer to land held by",
+      "as": "দেৱোত্তৰ ভূমিৰ উল্লেখ থকা প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই কাৰ অধীনত থকা ভূমি বুজায়"
+    },
+    "options": [
+      {
+        "en": "military garrisons",
+        "as": "সামৰিক সৈন্যদল"
+      },
+      {
+        "en": "merchant guilds",
+        "as": "বণিক সংঘ"
+      },
+      {
+        "en": "temples and deities",
+        "as": "মন্দিৰ আৰু দেৱতা"
+      },
+      {
+        "en": "the king's household",
+        "as": "ৰজাৰ পৰিয়াল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Devottara is temple land, which is why it is distinguished from Brahmin endowments. Household, garrisons and guilds held other categories.",
+      "as": "দেৱোত্তৰ মন্দিৰৰ ভূমি, সেয়ে ইয়াক ব্ৰাহ্মণ দানৰপৰা পৃথক কৰা হয়। পৰিয়াল, সৈন্যদল আৰু সংঘে আন শ্ৰেণী ৰাখিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-188",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's administrative vocabulary included 'adhikarana', which meant",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰশাসনিক শব্দাৱলীত 'অধিকৰণ'ৰ অৰ্থ আছিল"
+    },
+    "options": [
+      {
+        "en": "a type of boat",
+        "as": "এবিধ নাও"
+      },
+      {
+        "en": "an office or administrative body",
+        "as": "এটা কাৰ্যালয় বা প্ৰশাসনিক সংস্থা"
+      },
+      {
+        "en": "a temple festival",
+        "as": "মন্দিৰৰ উৎসৱ"
+      },
+      {
+        "en": "a land measure",
+        "as": "ভূমি জোখ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Adhikarana denotes an office, which is why the term helps reconstruct administration. Festivals, measures and boats have other words.",
+      "as": "অধিকৰণে কাৰ্যালয় নিৰ্দেশ কৰে, সেয়ে শব্দটোৱে প্ৰশাসন পুনৰ্গঠনত সহায় কৰে। উৎসৱ, জোখ আৰু নাওৰ বেলেগ শব্দ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-189",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "Which of these duties belonged to the officials named in Kamarupa charters, showing the state",
+      "as": "কামৰূপৰ শাসনপত্ৰত নাম থকা বিষয়াসকলৰ কোনটো কৰ্তব্য আছিল, যিয়ে ৰাজ্যই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a range of named officials with defined duties",
+        "as": "নিৰ্দিষ্ট দায়িত্বযুক্ত বিভিন্ন নামৰ বিষয়া"
+      },
+      {
+        "en": "no officials at all",
+        "as": "কোনো বিষয়া নাই"
+      },
+      {
+        "en": "only foreign officials",
+        "as": "কেৱল বিদেশী বিষয়া"
+      },
+      {
+        "en": "only religious leaders",
+        "as": "কেৱল ধৰ্মীয় নেতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Named officers with duties appear throughout, which is why the bureaucracy is inferred. No officials, only foreign and only religious are wrong.",
+      "as": "দায়িত্বসহ নাম থকা বিষয়া সৰ্বত্ৰ ওলায়, সেয়ে আমলাতন্ত্ৰ অনুমান কৰা হয়। বিষয়াহীনতা, কেৱল বিদেশী আৰু কেৱল ধৰ্মীয় ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-190",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's political history after the Palas is best described as",
+      "as": "পালসকলৰ পিছত প্ৰাচীন কামৰূপ অঞ্চলৰ ৰাজনৈতিক ইতিহাস শ্ৰেষ্ঠভাৱে বৰ্ণনা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "a single unified empire",
+        "as": "এক অখণ্ড সাম্ৰাজ্য"
+      },
+      {
+        "en": "direct Mughal rule",
+        "as": "প্ৰত্যক্ষ মোগল শাসন"
+      },
+      {
+        "en": "British occupation",
+        "as": "ব্ৰিটিছ দখল"
+      },
+      {
+        "en": "a period of competing regional powers",
+        "as": "প্ৰতিদ্বন্দ্বী আঞ্চলিক শক্তিৰ সময়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Several powers competed, which is why the period is called fragmented. A single empire, Mughal rule and British occupation are wrong.",
+      "as": "কেইবাটাও শক্তিয়ে প্ৰতিদ্বন্দ্বিতা কৰিছিল, সেয়ে যুগটোক বিভক্ত বোলা হয়। এক সাম্ৰাজ্য, মোগল শাসন আৰু ব্ৰিটিছ দখল ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-191",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's value for understanding Indian history is that it shows",
+      "as": "ভাৰতীয় ইতিহাস বুজিবলৈ প্ৰাচীন কামৰূপ যুগৰ মূল্য হ'ল ই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a purely colonial territory",
+        "as": "কেৱল ঔপনিবেশিক ভূখণ্ড"
+      },
+      {
+        "en": "an uninhabited area",
+        "as": "জনশূন্য অঞ্চল"
+      },
+      {
+        "en": "a frontier kingdom interacting with major powers",
+        "as": "প্ৰধান শক্তিৰ লগত ক্ৰিয়া-প্ৰতিক্ৰিয়া কৰা সীমান্ত ৰাজ্য"
+      },
+      {
+        "en": "a region with no outside contact",
+        "as": "বাহিৰৰ সংযোগহীন অঞ্চল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Interaction with Guptas, Gauda and Kanauj is documented, which is why the frontier reading is used. No contact, colonial and uninhabited are wrong.",
+      "as": "গুপ্ত, গৌড় আৰু কনৌজৰ লগত ক্ৰিয়া-প্ৰতিক্ৰিয়া লিপিবদ্ধ, সেয়ে সীমান্তৰ পঢ়া ব্যৱহাৰ কৰা হয়। সংযোগহীনতা, ঔপনিবেশিক আৰু জনশূন্য ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-192",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants were usually issued to mark",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ সাধাৰণতে কাৰ চিহ্ন হিচাপে জাৰি কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "trade losses",
+        "as": "বাণিজ্য লোকচান"
+      },
+      {
+        "en": "religious merit and political consolidation",
+        "as": "ধৰ্মীয় পুণ্য আৰু ৰাজনৈতিক সংহতি"
+      },
+      {
+        "en": "military defeats",
+        "as": "সামৰিক পৰাজয়"
+      },
+      {
+        "en": "foreign conquests only",
+        "as": "কেৱল বিদেশী বিজয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Merit and consolidation explain most charters, which is why both are named. Defeats, conquests only and losses are wrong.",
+      "as": "পুণ্য আৰু সংহতিয়ে অধিকাংশ শাসনপত্ৰ ব্যাখ্যা কৰে, সেয়ে দুয়োটাৰ নাম দিয়া হয়। পৰাজয়, কেৱল বিজয় আৰু লোকচান ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-193",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's temple architecture in the early period used mainly",
+      "as": "প্ৰাৰম্ভিক কালত প্ৰাচীন কামৰূপ অঞ্চলৰ মন্দিৰ স্থাপত্যে মূলতঃ ব্যৱহাৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "stone and brick with carved door frames",
+        "as": "খোদিত দুৱাৰচৌকাঠসহ শিলা আৰু ইটা"
+      },
+      {
+        "en": "steel and glass",
+        "as": "ইস্পাত আৰু কাঁচ"
+      },
+      {
+        "en": "concrete and plastic",
+        "as": "কংক্ৰিট আৰু প্লাষ্টিক"
+      },
+      {
+        "en": "wood only",
+        "as": "কেৱল কাঠ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Stone and brick remains with carved frames survive, which is why they are cited. Steel, concrete and wood only are wrong.",
+      "as": "খোদিত চৌকাঠসহ শিলা আৰু ইটাৰ অৱশেষ ৰৈ গৈছে, সেয়ে সেয়া উদ্ধৃত। ইস্পাত, কংক্ৰিট আৰু কেৱল কাঠ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-194",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main religious pilgrimage centre in the period was",
+      "as": "সেই যুগত প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান ধৰ্মীয় তীৰ্থকেন্দ্ৰ আছিল"
+    },
+    "options": [
+      {
+        "en": "Bodh Gaya",
+        "as": "বোধগয়া"
+      },
+      {
+        "en": "Varanasi",
+        "as": "বাৰাণসী"
+      },
+      {
+        "en": "Puri",
+        "as": "পুৰী"
+      },
+      {
+        "en": "Kamakhya",
+        "as": "কামাখ্যা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Kamakhya drew pilgrims within the region, which is why it is named. Bodh Gaya, Varanasi and Puri lie outside Assam.",
+      "as": "কামাখ্যাই অঞ্চলৰ ভিতৰত তীৰ্থযাত্ৰী আকৰ্ষণ কৰিছিল, সেয়ে ইয়াৰ নাম দিয়া হয়। বোধগয়া, বাৰাণসী আৰু পুৰী অসমৰ বাহিৰত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-195",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters often begin with an invocation to",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই প্ৰায়ে কাৰ প্ৰতি আহ্বানৰে আৰম্ভ হয়"
+    },
+    "options": [
+      {
+        "en": "the Mughal emperor",
+        "as": "মোগল সম্ৰাট"
+      },
+      {
+        "en": "a merchant guild",
+        "as": "বণিক সংঘ"
+      },
+      {
+        "en": "a deity such as Shiva or Vishnu",
+        "as": "শিৱ বা বিষ্ণু আদি দেৱতা"
+      },
+      {
+        "en": "the British crown",
+        "as": "ব্ৰিটিছ ৰাজমুকুট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Invocations to deities open the charters, which is why the religious opening is noted. The British, Mughals and guilds are not invoked.",
+      "as": "দেৱতাৰ আহ্বানে শাসনপত্ৰ আৰম্ভ হয়, সেয়ে ধৰ্মীয় আৰম্ভণি লক্ষ্য কৰা হয়। ব্ৰিটিছ, মোগল আৰু সংঘক আহ্বান কৰা নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-196",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's society in the grant period included",
+      "as": "শাসনপত্ৰ যুগত প্ৰাচীন কামৰূপ অঞ্চলৰ সমাজত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "only traders",
+        "as": "কেৱল বণিক"
+      },
+      {
+        "en": "Brahmins, officials, cultivators and artisans",
+        "as": "ব্ৰাহ্মণ, বিষয়া, কৰ্ষক আৰু শিল্পী"
+      },
+      {
+        "en": "only kings and priests",
+        "as": "কেৱল ৰজা আৰু পুৰোহিত"
+      },
+      {
+        "en": "only soldiers",
+        "as": "কেৱল সৈনিক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The charters name many groups, which is why the plural reading is used. Only kings, only soldiers and only traders are contradicted.",
+      "as": "শাসনপত্ৰই অনেক গোটৰ নাম দিয়ে, সেয়ে বহুত্বৰ পঢ়া ব্যৱহাৰ কৰা হয়। কেৱল ৰজা, কেৱল সৈনিক আৰু কেৱল বণিক খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-197",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants usually ended with",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ সাধাৰণতে কাৰেৰে শেষ হৈছিল"
+    },
+    "options": [
+      {
+        "en": "a warning to future officials not to disturb the grant",
+        "as": "ভৱিষ্যতৰ বিষয়াসকলক দান নষ্ট নকৰিবলৈ সকীয়নী"
+      },
+      {
+        "en": "a list of tea prices",
+        "as": "চাহৰ মূল্যৰ তালিকা"
+      },
+      {
+        "en": "a railway timetable",
+        "as": "ৰেল সময়সূচী"
+      },
+      {
+        "en": "a stock market report",
+        "as": "শ্বেয়াৰ বজাৰৰ প্ৰতিবেদন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Closing verses threaten those who violate the grant, which is why the warning formula is noted. Tea prices, timetables and market reports are modern.",
+      "as": "শেষৰ শ্লোকই দান উলংঘনকাৰীক ভাবি সকীয়ায়, সেয়ে সকীয়নীৰ সূত্ৰ লক্ষ্য কৰা হয়। চাহৰ মূল্য, সময়সূচী আৰু বজাৰ প্ৰতিবেদন আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-198",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main contribution to Indian epigraphy is",
+      "as": "ভাৰতীয় শিলালিপি বিদ্যাত প্ৰাচীন কামৰূপ যুগৰ প্ৰধান অৱদান"
+    },
+    "options": [
+      {
+        "en": "the invention of printing",
+        "as": "ছপাকৰণৰ আৱিষ্কাৰ"
+      },
+      {
+        "en": "the first newspaper",
+        "as": "প্ৰথম বাতৰি কাকত"
+      },
+      {
+        "en": "the modern postal system",
+        "as": "আধুনিক ডাক ব্যৱস্থা"
+      },
+      {
+        "en": "a large corpus of dated copper plate grants",
+        "as": "তাৰিখযুক্ত তাম্ৰপত্ৰ শাসনপত্ৰৰ বৃহৎ সংকলন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The charters form a substantial corpus, which is why they are the epigraphic contribution. Printing, newspapers and postal systems are modern.",
+      "as": "শাসনপত্ৰই বৃহৎ সংকলন গঠন কৰে, সেয়ে সেয়া শিলালিপিৰ অৱদান। ছপাকৰণ, বাতৰি কাকত আৰু ডাক ব্যৱস্থা আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-199",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "That early Kamarupa charters transfer land with rights proves the state accepted",
+      "as": "প্ৰাচীন কামৰূপৰ শাসনপত্ৰই অধিকাৰসহ ভূমি হস্তান্তৰ কৰাটোৱে প্ৰমাণ কৰে ৰাজ্যই স্বীকাৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "only collective ownership",
+        "as": "কেৱল সমবায় মালিকানা"
+      },
+      {
+        "en": "only foreign ownership",
+        "as": "কেৱল বিদেশী মালিকানা"
+      },
+      {
+        "en": "hereditary rights over land",
+        "as": "ভূমিৰ ওপৰত বংশানুক্ৰমিক অধিকাৰ"
+      },
+      {
+        "en": "no property rights",
+        "as": "কোনো সম্পত্তি অধিকাৰ নাই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Grants transfer land with rights, which is why hereditary holding is inferred. No property, only collective and only foreign are contradicted.",
+      "as": "শাসনপত্ৰই অধিকাৰসহ ভূমি হস্তান্তৰ কৰে, সেয়ে বংশানুক্ৰমিক অধিকাৰ অনুমান কৰা হয়। সম্পত্তিহীনতা, কেৱল সমবায় আৰু কেৱল বিদেশী খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-200",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's political centre shifted over time from",
+      "as": "সময়ৰ লগত প্ৰাচীন কামৰূপ অঞ্চলৰ ৰাজনৈতিক কেন্দ্ৰ স্থানান্তৰিত হৈছিল কাৰপৰা"
+    },
+    "options": [
+      {
+        "en": "Calcutta towards Bombay",
+        "as": "কলিকতাৰপৰা বম্বেলৈ"
+      },
+      {
+        "en": "Pragjyotishpura towards Kamarupanagara",
+        "as": "প্ৰাগজ্যোতিষপুৰৰপৰা কামৰূপনগৰলৈ"
+      },
+      {
+        "en": "Delhi towards Agra",
+        "as": "দিল্লীৰপৰা আگ্ৰালৈ"
+      },
+      {
+        "en": "Pataliputra towards Kanauj",
+        "as": "পাটলিপুত্ৰৰপৰা কনৌজলৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The capital moved within the region, which is why those two names appear. Delhi, Pataliputra and Calcutta are outside Assam.",
+      "as": "ৰাজধানী অঞ্চলৰ ভিতৰতে স্থানান্তৰিত হৈছিল, সেয়ে সেই দুয়ো নাম ওলায়। দিল্লী, পাটলিপুত্ৰ আৰু কলিকতা অসমৰ বাহিৰত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-201",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "What economic purpose did some Kamarupa grants to Brahmins serve?",
+      "as": "ব্ৰাহ্মণলৈ কিছুমান কামৰূপ দানে কি অৰ্থনৈতিক উদ্দেশ্য পূৰণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "extend settled agriculture into new areas",
+        "as": "নতুন অঞ্চললৈ স্থায়ী কৃষি বিস্তাৰ কৰিবলৈ"
+      },
+      {
+        "en": "end all farming",
+        "as": "সকলো খেতি অন্ত কৰিবলৈ"
+      },
+      {
+        "en": "abolish villages",
+        "as": "গাঁও বিলুপ্ত কৰিবলৈ"
+      },
+      {
+        "en": "stop all trade",
+        "as": "সকলো বাণিজ্য বন্ধ কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Donees settled and cultivated, which is why colonisation is inferred. Ending farming, abolishing villages and stopping trade are wrong.",
+      "as": "গ্ৰহীতাসকলে বসতি স্থাপন কৰি খেতি কৰিছিল, সেয়ে উপনিবেশীকৰণ অনুমান কৰা হয়। খেতি অন্ত, গাঁও বিলুপ্তি আৰু বাণিজ্য বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-202",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main source for social history is",
+      "as": "প্ৰাচীন কামৰূপ যুগৰ সমাজ ইতিহাসৰ প্ৰধান উৎস"
+    },
+    "options": [
+      {
+        "en": "modern census reports",
+        "as": "আধুনিক জনগণনা প্ৰতিবেদন"
+      },
+      {
+        "en": "British newspapers",
+        "as": "ব্ৰিটিছ বাতৰি কাকত"
+      },
+      {
+        "en": "Mughal court diaries",
+        "as": "মোগল দৰবাৰৰ দিনলিপি"
+      },
+      {
+        "en": "the land grant charters",
+        "as": "ভূমি দান শাসনপত্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Charters name people, groups and obligations, which is why they are the base. Censuses, newspapers and Mughal diaries are later.",
+      "as": "শাসনপত্ৰই মানুহ, গোট আৰু বাধ্যবাধকতাৰ নাম দিয়ে, সেয়ে সেয়া ভেটি। জনগণনা, বাতৰি কাকত আৰু মোগল দিনলিপি পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-203",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main form of wealth in the grant period was",
+      "as": "শাসনপত্ৰ যুগত প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান ধন আছিল"
+    },
+    "options": [
+      {
+        "en": "foreign currency reserves",
+        "as": "বিদেশী মুদ্ৰা ভঁৰাল"
+      },
+      {
+        "en": "cryptocurrency",
+        "as": "ক্ৰিপ্ট'কাৰেন্সি"
+      },
+      {
+        "en": "land and its produce",
+        "as": "ভূমি আৰু তাৰ উৎপাদন"
+      },
+      {
+        "en": "shares and bonds",
+        "as": "শ্বেয়াৰ আৰু বণ্ড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Land is the object of every grant, which is why it is the main form of wealth. Shares, reserves and cryptocurrency are modern.",
+      "as": "ভূমিয়েই প্ৰতিখন দানৰ বিষয়, সেয়ে সেয়া প্ৰধান ধন। শ্বেয়াৰ, ভঁৰাল আৰু ক্ৰিপ্ট'কাৰেন্সি আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-204",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "From the dues listed in Kamarupa charters it is clear that the state levied charges on",
+      "as": "কামৰূপৰ শাসনপত্ৰত তালিকাভুক্ত মাচুলৰপৰা স্পষ্ট ৰাজ্যই কৰ লগাইছিল"
+    },
+    "options": [
+      {
+        "en": "only income from shares",
+        "as": "কেৱল শ্বেয়াৰৰ আয়ত"
+      },
+      {
+        "en": "agricultural produce and certain trades",
+        "as": "কৃষি উৎপাদন আৰু নিৰ্দিষ্ট বেপাৰত"
+      },
+      {
+        "en": "only imports from Europe",
+        "as": "কেৱল ইউৰোপৰ আমদানিত"
+      },
+      {
+        "en": "only railway tickets",
+        "as": "কেৱল ৰেল টিকটত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Produce and trade dues are recorded, which is why the agrarian tax reading is used. European imports, railway tickets and share income are modern.",
+      "as": "উৎপাদন আৰু বেপাৰৰ মাচুল লিপিবদ্ধ, সেয়ে কৃষি কৰৰ পঢ়া ব্যৱহাৰ কৰা হয়। ইউৰোপীয় আমদানি, ৰেল টিকট আৰু শ্বেয়াৰ আয় আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-205",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main reason for issuing charters on copper was that",
+      "as": "তামত শাসনপত্ৰ জাৰি কৰাৰ প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান কাৰণ আছিল"
+    },
+    "options": [
+      {
+        "en": "the record had to remain valid for generations",
+        "as": "ৰেকৰ্ড পুৰুষানুক্ৰমে বৈধ থাকিবলগীয়া আছিল"
+      },
+      {
+        "en": "copper was easy to write quickly",
+        "as": "তামত সোনকালে লিখিব পাৰি"
+      },
+      {
+        "en": "paper was not invented",
+        "as": "কাগজ আৱিষ্কাৰ হোৱা নাছিল"
+      },
+      {
+        "en": "the king disliked paper",
+        "as": "ৰজাই কাগজ অপছন্দ কৰিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Permanence was the aim, which is why copper was chosen over perishable media. Speed, invention and preference are not the reason.",
+      "as": "স্থায়িত্বই উদ্দেশ্য আছিল, সেয়ে নষ্টনশ্য মাধ্যমৰ সলনি তাম বাছনি কৰা হৈছিল। গতি, আৱিষ্কাৰ আৰু পছন্দ কাৰণ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-206",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's administrative records show the importance of",
+      "as": "প্ৰাচীন কামৰূপ যুগৰ প্ৰশাসনিক ৰেকৰ্ডই কাৰ গুৰুত্ব দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "oral memory alone",
+        "as": "কেৱল মৌখিক স্মৃতি"
+      },
+      {
+        "en": "religious chanting only",
+        "as": "কেৱল ধৰ্মীয় কীৰ্তন"
+      },
+      {
+        "en": "military parades",
+        "as": "সামৰিক কুচকাৱাজ"
+      },
+      {
+        "en": "written documentation for rights and dues",
+        "as": "অধিকাৰ আৰু মাচুলৰ বাবে লিখিত দস্তাবেজ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Written records protected rights, which is why documentation matters. Oral memory alone, chanting only and parades do not explain the records.",
+      "as": "লিখিত ৰেকৰ্ডই অধিকাৰ ৰক্ষা কৰিছিল, সেয়ে দস্তাবেজ গুৰুত্বপূৰ্ণ। কেৱল মৌখিক স্মৃতি, কীৰ্তন আৰু কুচকাৱাজে ৰেকৰ্ড ব্যাখ্যা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-207",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants often specify that the land was previously",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই প্ৰায়ে নিৰ্দিষ্ট কৰে ভূমি আগতে আছিল"
+    },
+    "options": [
+      {
+        "en": "part of a railway",
+        "as": "ৰেল পথৰ অংশ"
+      },
+      {
+        "en": "a tea garden",
+        "as": "চাহ বাগিচা"
+      },
+      {
+        "en": "uncultivated or held by another party",
+        "as": "অখেতিযোগ্য বা আন পক্ষৰ অধীনত"
+      },
+      {
+        "en": "owned by Europeans",
+        "as": "ইউৰোপীয়সকলৰ মালিকানাত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Grants describe the previous status, which is why the detail is noted. Europeans, railways and tea gardens are modern.",
+      "as": "শাসনপত্ৰই আগৰ স্থিতি বৰ্ণনা কৰে, সেয়ে বিৱৰণটো লক্ষ্য কৰা হয়। ইউৰোপীয়, ৰেল আৰু চাহ বাগিচা আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-208",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main limitation for historians is the",
+      "as": "ইতিহাসবিদৰ বাবে প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান সীমাবদ্ধতা"
+    },
+    "options": [
+      {
+        "en": "abundance of photographs",
+        "as": "ফটোৰ প্ৰাচুৰ্য"
+      },
+      {
+        "en": "scarcity of records for some periods",
+        "as": "কিছু সময়ৰ বাবে ৰেকৰ্ডৰ অভাৱ"
+      },
+      {
+        "en": "excess of records for every year",
+        "as": "প্ৰতি বছৰৰ বাবে ৰেকৰ্ডৰ আধিক্য"
+      },
+      {
+        "en": "use of modern languages",
+        "as": "আধুনিক ভাষাৰ ব্যৱহাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Coverage is uneven, which is why some reigns are obscure. Excess records, modern languages and photographs are wrong.",
+      "as": "সামৰণি অসম, সেয়ে কিছু ৰাজত্ব অস্পষ্ট। ৰেকৰ্ডৰ আধিক্য, আধুনিক ভাষা আৰু ফটো ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-209",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters were composed by",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ ৰচনা কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "court poets and scribes",
+        "as": "দৰবাৰৰ কবি আৰু লেখকসকলে"
+      },
+      {
+        "en": "village children",
+        "as": "গাঁৱৰ ল'ৰা-ছোৱালীয়ে"
+      },
+      {
+        "en": "European missionaries",
+        "as": "ইউৰোপীয় মিছনেৰীসকলে"
+      },
+      {
+        "en": "Mughal qazis",
+        "as": "মোগল কাজীসকলে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Trained court writers produced the charters, which is why the style is polished. Children, missionaries and qazis are wrong.",
+      "as": "প্ৰশিক্ষিত দৰবাৰ লেখকে শাসনপত্ৰ ৰচনা কৰিছিল, সেয়ে শৈলী পৰিশীলিত। ল'ৰা-ছোৱালী, মিছনেৰী আৰু কাজী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-210",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main link to the wider economy was through",
+      "as": "বৃহত্তৰ অৰ্থনীতিৰ লগত প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান সংযোগ আছিল কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "Atlantic shipping",
+        "as": "আটলাণ্টিক জাহাজ চলাচল"
+      },
+      {
+        "en": "the Suez Canal",
+        "as": "ছুয়েজ খাল"
+      },
+      {
+        "en": "trans Pacific airlines",
+        "as": "প্ৰশান্ত মহাসাগৰীয় বিমান"
+      },
+      {
+        "en": "river routes and passes to Bengal and Tibet",
+        "as": "বংগ আৰু তিব্বতলৈ নদীপথ আৰু গিৰিপথ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Rivers and passes carried trade, which is why those routes are cited. Atlantic shipping, Suez and airlines are modern.",
+      "as": "নদী আৰু গিৰিপথে বাণিজ্য কঢ়িয়াইছিল, সেয়ে সেই পথ উদ্ধৃত। আটলাণ্টিক জাহাজ, ছুয়েজ আৰু বিমান আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-211",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants show that land could be",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই দেখুৱায় ভূমি হ'ব পাৰিছিল"
+    },
+    "options": [
+      {
+        "en": "only rented monthly",
+        "as": "কেৱল মাহিলী ভাড়াত"
+      },
+      {
+        "en": "never transferred",
+        "as": "কেতিয়াও হস্তান্তৰ নোহোৱা"
+      },
+      {
+        "en": "donated, exempted and transferred",
+        "as": "দান, মুক্ত আৰু হস্তান্তৰযোগ্য"
+      },
+      {
+        "en": "only bought with gold",
+        "as": "কেৱল সোণেৰে কিনা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Grants transfer and exempt land, which is why the three actions are named. Gold only, monthly rent and no transfer are contradicted.",
+      "as": "শাসনপত্ৰই ভূমি হস্তান্তৰ আৰু মুক্ত কৰে, সেয়ে তিনি কাৰ্যৰ নাম দিয়া হয়। কেৱল সোণ, মাহিলী ভাড়া আৰু হস্তান্তৰহীনতা খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-212",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main evidence for agriculture comes from",
+      "as": "কৃষিৰ বাবে প্ৰাচীন কামৰূপ যুগৰ প্ৰধান প্ৰমাণ আহে"
+    },
+    "options": [
+      {
+        "en": "Mughal revenue tables",
+        "as": "মোগল ৰাজহ তালিকাৰপৰা"
+      },
+      {
+        "en": "land measures and crop references in grants",
+        "as": "শাসনপত্ৰত ভূমি জোখ আৰু শস্যৰ উল্লেখৰপৰা"
+      },
+      {
+        "en": "modern farm surveys",
+        "as": "আধুনিক খেতি জৰীপৰপৰা"
+      },
+      {
+        "en": "British agricultural reports",
+        "as": "ব্ৰিটিছ কৃষি প্ৰতিবেদনৰপৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Measures and crops appear in the charters, which is why they are the base. Modern, British and Mughal records are later.",
+      "as": "জোখ আৰু শস্য শাসনপত্ৰত ওলায়, সেয়ে সেয়া ভেটি। আধুনিক, ব্ৰিটিছ আৰু মোগল ৰেকৰ্ড পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-213",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants to temples and Brahmins together show",
+      "as": "মন্দিৰ আৰু ব্ৰাহ্মণলৈ প্ৰাচীন কামৰূপ ৰজাসকলৰ দানে একেলগে দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a policy of religious patronage across traditions",
+        "as": "পৰম্পৰাজুৰি ধৰ্মীয় পৃষ্ঠপোষকতাৰ নীতি"
+      },
+      {
+        "en": "hostility to religion",
+        "as": "ধৰ্মৰ প্ৰতি শত্ৰুতা"
+      },
+      {
+        "en": "indifference to temples",
+        "as": "মন্দিৰৰ প্ৰতি উদাসীনতা"
+      },
+      {
+        "en": "a ban on donations",
+        "as": "দানৰ ওপৰত নিষেধ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Both categories received land, which is why broad patronage is inferred. Hostility, indifference and a ban are contradicted.",
+      "as": "দুয়ো শ্ৰেণীয়ে ভূমি পাইছিল, সেয়ে বহল পৃষ্ঠপোষকতা অনুমান কৰা হয়। শত্ৰুতা, উদাসীনতা আৰু নিষেধ খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-214",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's political authority in the villages was exercised by",
+      "as": "গাঁৱত প্ৰাচীন কামৰূপ অঞ্চলৰ ৰাজনৈতিক কৰ্তৃত্ব প্ৰয়োগ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "British collectors",
+        "as": "ব্ৰিটিছ সংগ্ৰাহকে"
+      },
+      {
+        "en": "Mughal governors",
+        "as": "মোগল ৰাজ্যপালে"
+      },
+      {
+        "en": "foreign companies",
+        "as": "বিদেশী কোম্পানীয়ে"
+      },
+      {
+        "en": "headmen and elders under royal officers",
+        "as": "ৰাজকীয় বিষয়াৰ অধীনত মূৰব্বী আৰু জ্যেষ্ঠসকলে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Gramika and mahattara appear in grants, which is why local authority is inferred. British, Mughal and company rule are later.",
+      "as": "গ্ৰামিক আৰু মহত্তৰ শাসনপত্ৰত ওলায়, সেয়ে স্থানীয় কৰ্তৃত্ব অনুমান কৰা হয়। ব্ৰিটিছ, মোগল আৰু কোম্পানী শাসন পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-215",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main contribution to the study of land systems is",
+      "as": "ভূমি ব্যৱস্থাৰ অধ্যয়নত প্ৰাচীন কামৰূপ যুগৰ প্ৰধান অৱদান"
+    },
+    "options": [
+      {
+        "en": "the ryotwari settlement",
+        "as": "ৰৈয়তৱাৰী নিষ্পত্তি"
+      },
+      {
+        "en": "the permanent settlement",
+        "as": "চিৰস্থায়ী নিষ্পত্তি"
+      },
+      {
+        "en": "detailed evidence of donation and exemption practice",
+        "as": "দান আৰু মাচুল মাপৰ সবিশেষ প্ৰমাণ"
+      },
+      {
+        "en": "the invention of zamindari",
+        "as": "জমিদাৰীৰ আৱিষ্কাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The charters document donation practice, which is why they are used comparatively. Zamindari, ryotwari and permanent settlement are colonial systems.",
+      "as": "শাসনপত্ৰই দান প্ৰথা লিপিবদ্ধ কৰে, সেয়ে তুলনামূলকভাৱে ব্যৱহাৰ কৰা হয়। জমিদাৰী, ৰৈয়তৱাৰী আৰু চিৰস্থায়ী নিষ্পত্তি ঔপনিবেশিক ব্যৱস্থা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-216",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants show that royal authority was",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই দেখুৱায় ৰাজকীয় কৰ্তৃত্ব আছিল"
+    },
+    "options": [
+      {
+        "en": "entirely absent",
+        "as": "সম্পূৰ্ণ অনুপস্থিত"
+      },
+      {
+        "en": "mediated through a hierarchy of officials",
+        "as": "বিষয়াৰ স্তৰবিন্যাসৰ জৰিয়তে প্ৰয়োগকৃত"
+      },
+      {
+        "en": "direct and unmediated",
+        "as": "প্ৰত্যক্ষ আৰু মধ্যস্থতাহীন"
+      },
+      {
+        "en": "purely religious",
+        "as": "কেৱল ধৰ্মীয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Officials at several levels appear, which is why mediation is inferred. Direct rule, purely religious and absent authority are wrong.",
+      "as": "কেইবাটাও স্তৰৰ বিষয়া ওলায়, সেয়ে মধ্যস্থতা অনুমান কৰা হয়। প্ৰত্যক্ষ শাসন, কেৱল ধৰ্মীয় আৰু কৰ্তৃত্বহীনতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-217",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's economy in the period depended on the",
+      "as": "সেই যুগত প্ৰাচীন কামৰূপ অঞ্চলৰ অৰ্থনীতি নিৰ্ভৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "fertility of the Brahmaputra valley",
+        "as": "ব্ৰহ্মপুত্ৰ উপত্যকাৰ উৰ্বৰতাৰ ওপৰত"
+      },
+      {
+        "en": "oil reserves",
+        "as": "তেল ভঁৰালৰ ওপৰত"
+      },
+      {
+        "en": "coal mines",
+        "as": "কয়লা খনিৰ ওপৰত"
+      },
+      {
+        "en": "tea exports",
+        "as": "চাহ ৰপ্তানিৰ ওপৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Valley fertility supported the population, which is why agriculture is the base. Oil, coal and tea are colonial era resources.",
+      "as": "উপত্যকাৰ উৰ্বৰতাই জনসংখ্যাক সহায় কৰিছিল, সেয়ে কৃষিয়েই ভেটি। তেল, কয়লা আৰু চাহ ঔপনিবেশিক যুগৰ সম্পদ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-218",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters are valuable for the study of personal names because they",
+      "as": "ব্যক্তিগত নামৰ অধ্যয়নত প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ মূল্যৱান কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "list only royal names",
+        "as": "কেৱল ৰাজকীয় নাম তালিকাভুক্ত কৰে"
+      },
+      {
+        "en": "give no names",
+        "as": "কোনো নাম নিদিয়ে"
+      },
+      {
+        "en": "use only titles",
+        "as": "কেৱল উপাধি ব্যৱহাৰ কৰে"
+      },
+      {
+        "en": "record donors, donees and witnesses by name",
+        "as": "দাতা, গ্ৰহীতা আৰু সাক্ষীৰ নাম লিপিবদ্ধ কৰে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Many individuals are named, which is why the corpus helps onomastics. Only royal names, no names and only titles are contradicted.",
+      "as": "অনেক ব্যক্তিৰ নাম আছে, সেয়ে সংকলনে নামবিদ্যাত সহায় কৰে। কেৱল ৰাজকীয় নাম, নামহীনতা আৰু কেৱল উপাধি খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-219",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main religious change in the late period was",
+      "as": "পিছৰ পৰ্যায়ত প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান ধৰ্মীয় পৰিৱৰ্তন আছিল"
+    },
+    "options": [
+      {
+        "en": "the arrival of Christianity",
+        "as": "খ্ৰীষ্টধৰ্মৰ আগমন"
+      },
+      {
+        "en": "the end of all worship",
+        "as": "সকলো উপাসনাৰ অন্ত"
+      },
+      {
+        "en": "the growth of tantric and Shakti worship",
+        "as": "তান্ত্ৰিক আৰু শক্তি উপাসনাৰ বৃদ্ধি"
+      },
+      {
+        "en": "the arrival of Islam",
+        "as": "ইছলামৰ আগমন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tantric and Shakti traditions grew, which is why Kamakhya's importance increased. Islam, Christianity and the end of worship are wrong for this period.",
+      "as": "তান্ত্ৰিক আৰু শক্তি পৰম্পৰা বৃদ্ধি পালে, সেয়ে কামাখ্যাৰ গুৰুত্ব বাঢ়িল। ইছলাম, খ্ৰীষ্টধৰ্ম আৰু উপাসনাৰ অন্ত এই যুগত ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-220",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The careful preservation of Kamarupa charters over generations proves the state kept",
+      "as": "পুৰুষানুক্ৰমে কামৰূপৰ শাসনপত্ৰ যতনেৰে সংৰক্ষণে প্ৰমাণ কৰে ৰাজ্যই ৰাখিছিল"
+    },
+    "options": [
+      {
+        "en": "only foreign archives",
+        "as": "কেৱল বিদেশী সংৰক্ষণাগাৰ"
+      },
+      {
+        "en": "records of land rights over long periods",
+        "as": "দীৰ্ঘকালৰ ভূমি অধিকাৰৰ ৰেকৰ্ড"
+      },
+      {
+        "en": "no records at all",
+        "as": "কোনো ৰেকৰ্ড নাই"
+      },
+      {
+        "en": "only oral agreements",
+        "as": "কেৱল মৌখিক চুক্তি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Charters were preserved and reissued, which is why long term records are inferred. No records, oral only and foreign archives are wrong.",
+      "as": "শাসনপত্ৰ সংৰক্ষিত আৰু পুনৰ জাৰি হৈছিল, সেয়ে দীৰ্ঘম্যাদী ৰেকৰ্ড অনুমান কৰা হয়। ৰেকৰ্ডহীনতা, কেৱল মৌখিক আৰু বিদেশী সংৰক্ষণাগাৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-221",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main constraint on agriculture was",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলত কৃষিৰ প্ৰধান বাধা আছিল"
+    },
+    "options": [
+      {
+        "en": "floods and the need for embankments",
+        "as": "বান আৰু বান্ধৰ প্ৰয়োজন"
+      },
+      {
+        "en": "a shortage of land",
+        "as": "ভূমিৰ অভাৱ"
+      },
+      {
+        "en": "a shortage of farmers",
+        "as": "কৰ্ষকৰ অভাৱ"
+      },
+      {
+        "en": "a ban on rice",
+        "as": "ধানৰ ওপৰত নিষেধ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Flood control shaped settlement, which is why embankments matter in the record. Land shortage, farmer shortage and a rice ban are wrong.",
+      "as": "বান নিয়ন্ত্ৰণে বসতি গঢ়িছিল, সেয়ে বান্ধ ৰেকৰ্ডত গুৰুত্বপূৰ্ণ। ভূমিৰ অভাৱ, কৰ্ষকৰ অভাৱ আৰু ধান নিষেধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-222",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' grants were usually written in a script derived from",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰ সাধাৰণতে কাৰপৰা উদ্ভৱ হোৱা লিপিত লিখা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the Roman alphabet",
+        "as": "ৰোমান বৰ্ণমালাৰপৰা"
+      },
+      {
+        "en": "Arabic script",
+        "as": "আৰবী লিপিৰপৰা"
+      },
+      {
+        "en": "Chinese characters",
+        "as": "চীনা আখৰৰপৰা"
+      },
+      {
+        "en": "Brahmi through later northern forms",
+        "as": "ব্ৰাহ্মীৰপৰা পিছৰ উত্তৰীয় ৰূপলৈ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The script descends from Brahmi, which is why palaeography dates the plates. Roman, Arabic and Chinese scripts are unrelated.",
+      "as": "লিপি ব্ৰাহ্মীৰপৰা আহিছে, সেয়ে লিপিতত্ত্বই পত্ৰৰ তাৰিখ দিয়ে। ৰোমান, আৰবী আৰু চীনা লিপি অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-223",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's political relations with Tibet were mainly",
+      "as": "তিব্বতৰ লগত প্ৰাচীন কামৰূপ অঞ্চলৰ ৰাজনৈতিক সম্পৰ্ক মূলতঃ আছিল"
+    },
+    "options": [
+      {
+        "en": "complete isolation",
+        "as": "সম্পূৰ্ণ বিচ্ছিন্নতা"
+      },
+      {
+        "en": "a colonial relationship",
+        "as": "ঔপনিবেশিক সম্পৰ্ক"
+      },
+      {
+        "en": "commercial and cultural rather than military",
+        "as": "সামৰিক নহয়, বাণিজ্যিক আৰু সাংস্কৃতিক"
+      },
+      {
+        "en": "a permanent military alliance",
+        "as": "স্থায়ী সামৰিক মিত্ৰতা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Trade and pilgrimage dominated, which is why the link is described as commercial. Military alliance, isolation and colonial rule are wrong.",
+      "as": "বাণিজ্য আৰু তীৰ্থযাত্ৰাই প্ৰাধান্য পাইছিল, সেয়ে সংযোগ বাণিজ্যিক বুলি বৰ্ণনা কৰা হয়। সামৰিক মিত্ৰতা, বিচ্ছিন্নতা আৰু ঔপনিবেশিক শাসন ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-224",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa kings' charters usually name the king's",
+      "as": "প্ৰাচীন কামৰূপ ৰজাসকলৰ শাসনপত্ৰই সাধাৰণতে ৰজাৰ এইটো নাম দিয়ে"
+    },
+    "options": [
+      {
+        "en": "school records",
+        "as": "বিদ্যালয়ৰ ৰেকৰ্ড"
+      },
+      {
+        "en": "genealogy and titles",
+        "as": "বংশাৱলী আৰু উপাধি"
+      },
+      {
+        "en": "bank account",
+        "as": "বেংক একাউণ্ট"
+      },
+      {
+        "en": "tax returns",
+        "as": "কৰ ঘোষণা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Genealogies establish legitimacy, which is why they open the charters. Bank accounts, tax returns and school records are modern.",
+      "as": "বংশাৱলীয়ে বৈধতা প্ৰতিষ্ঠা কৰে, সেয়ে সেয়া শাসনপত্ৰৰ আৰম্ভণিত থাকে। বেংক একাউণ্ট, কৰ ঘোষণা আৰু বিদ্যালয় ৰেকৰ্ড আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-225",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's main value for local history is that it",
+      "as": "স্থানীয় ইতিহাসৰ বাবে প্ৰাচীন কামৰূপ যুগৰ প্ৰধান মূল্য হ'ল ই"
+    },
+    "options": [
+      {
+        "en": "names villages and places that still exist",
+        "as": "এতিয়াও থকা গাঁও আৰু স্থানৰ নাম দিয়ে"
+      },
+      {
+        "en": "records only foreign places",
+        "as": "কেৱল বিদেশী স্থান লিপিবদ্ধ কৰে"
+      },
+      {
+        "en": "gives no place names",
+        "as": "কোনো স্থাননাম নিদিয়ে"
+      },
+      {
+        "en": "uses modern maps",
+        "as": "আধুনিক মানচিত্ৰ ব্যৱহাৰ কৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Grant villages can be matched with modern places, which is why local history benefits. Foreign only, no names and modern maps are contradicted.",
+      "as": "শাসনপত্ৰৰ গাঁও আধুনিক স্থানৰ লগত মিলাই পোৱা যায়, সেয়ে স্থানীয় ইতিহাস উপকৃত হয়। কেৱল বিদেশী, নামহীনতা আৰু আধুনিক মানচিত্ৰ খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-226",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's main trading partner within India was",
+      "as": "ভাৰতৰ ভিতৰত প্ৰাচীন কামৰূপ অঞ্চলৰ প্ৰধান বাণিজ্য সহযোগী আছিল"
+    },
+    "options": [
+      {
+        "en": "the Deccan",
+        "as": "দাক্ষিণাত্য"
+      },
+      {
+        "en": "Gujarat",
+        "as": "গুজৰাট"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Bengal and the Ganga valley",
+        "as": "বংগ আৰু গংগা উপত্যকা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Routes ran west to Bengal and the Ganga plain, which is why those regions appear. The Deccan, Gujarat and Kerala were not the main partner.",
+      "as": "পথ পশ্চিমে বংগ আৰু গংগা সমভূমিলৈ গৈছিল, সেয়ে সেই অঞ্চল ওলায়। দাক্ষিণাত্য, গুজৰাট আৰু কেৰালা প্ৰধান সহযোগী নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-227",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The claims of villagers recorded in Kamarupa charters indicate that the state acknowledged",
+      "as": "কামৰূপৰ শাসনপত্ৰত লিপিবদ্ধ গাঁৱলীয়াৰ দাবীয়ে সূচায় ৰাজ্যই স্বীকৃতি দিছিল"
+    },
+    "options": [
+      {
+        "en": "only royal claims",
+        "as": "কেৱল ৰাজকীয় দাবী"
+      },
+      {
+        "en": "only foreign claims",
+        "as": "কেৱল বিদেশী দাবী"
+      },
+      {
+        "en": "the claims of local communities over resources",
+        "as": "সম্পদৰ ওপৰত স্থানীয় সম্প্ৰদায়ৰ দাবী"
+      },
+      {
+        "en": "no local claims",
+        "as": "কোনো স্থানীয় দাবী নাই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Dues and rights of villagers appear, which is why local claims are inferred. No local, only royal and only foreign are wrong.",
+      "as": "গাঁৱলীয়াৰ মাচুল আৰু অধিকাৰ ওলায়, সেয়ে স্থানীয় দাবী অনুমান কৰা হয়। স্থানীয়হীনতা, কেৱল ৰাজকীয় আৰু কেৱল বিদেশী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-228",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa period's most important archaeological site for temple art is",
+      "as": "মন্দিৰ কলাৰ বাবে প্ৰাচীন কামৰূপ যুগৰ আটাইতকৈ গুৰুত্বপূৰ্ণ পুৰাতাত্ত্বিক স্থান"
+    },
+    "options": [
+      {
+        "en": "Ledo",
+        "as": "লেডো"
+      },
+      {
+        "en": "Da-Parbatia",
+        "as": "দ-পৰ্বতীয়া"
+      },
+      {
+        "en": "Digboi",
+        "as": "ডিগবৈ"
+      },
+      {
+        "en": "Margherita",
+        "as": "মাৰ্ঘেৰিটা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Da-Parbatia's carved door frame is the standard example, which is why it is named. Digboi, Margherita and Ledo are oil and coal towns.",
+      "as": "দ-পৰ্বতীয়াৰ খোদিত দুৱাৰচৌকাঠেই মানক উদাহৰণ, সেয়ে ইয়াৰ নাম দিয়া হয়। ডিগবৈ, মাৰ্ঘেৰিটা আৰু লেডো তেল আৰু কয়লা চহৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-229",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "The ancient Kamarupa region's epigraphs help date events because they",
+      "as": "প্ৰাচীন কামৰূপ অঞ্চলৰ শিলালিপিয়ে ঘটনাৰ তাৰিখ নিৰ্ধাৰণত সহায় কৰে কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "carry regnal years and era references",
+        "as": "ৰাজত্বৰ বছৰ আৰু যুগৰ উল্লেখ বহন কৰে"
+      },
+      {
+        "en": "mention modern dates",
+        "as": "আধুনিক তাৰিখ উল্লেখ কৰে"
+      },
+      {
+        "en": "were printed",
+        "as": "ছপা হৈছিল"
+      },
+      {
+        "en": "were written in English",
+        "as": "ইংৰাজীত লিখা হৈছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Regnal and era references fix dates, which is why the chronology is possible. Modern dates, printing and English are wrong.",
+      "as": "ৰাজত্ব আৰু যুগৰ উল্লেখে তাৰিখ স্থিৰ কৰে, সেয়ে কালানুক্ৰম সম্ভৱ। আধুনিক তাৰিখ, ছপা আৰু ইংৰাজী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-230",
+    "leaf": "assam-history-ancient",
+    "q": {
+      "en": "Because Kamarupa charters record and enforce rights, historians conclude the state possessed",
+      "as": "কামৰূপৰ শাসনপত্ৰই অধিকাৰ লিপিবদ্ধ আৰু বলবৎ কৰাৰ বাবে ইতিহাসবিদে সিদ্ধান্ত কৰে ৰাজ্যৰ আছিল"
+    },
+    "options": [
+      {
+        "en": "no system of law",
+        "as": "কোনো আইন ব্যৱস্থা নাই"
+      },
+      {
+        "en": "only religious law",
+        "as": "কেৱল ধৰ্মীয় আইন"
+      },
+      {
+        "en": "only foreign law",
+        "as": "কেৱল বিদেশী আইন"
+      },
+      {
+        "en": "a system for recording and enforcing land rights",
+        "as": "ভূমি অধিকাৰ লিপিবদ্ধ আৰু বলবৎ কৰাৰ ব্যৱস্থা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Charters record and enforce rights, which is why a legal system is inferred. No law, only religious and only foreign are contradicted.",
+      "as": "শাসনপত্ৰই অধিকাৰ লিপিবদ্ধ আৰু বলবৎ কৰে, সেয়ে আইন ব্যৱস্থা অনুমান কৰা হয়। আইনহীনতা, কেৱল ধৰ্মীয় আৰু কেৱল বিদেশী খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-231",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom in Assam was founded by",
@@ -2951,7 +7167,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-096",
+    "id": "assam-history-extra-232",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "Sukapha is said to have entered Assam in the year",
@@ -2982,7 +7198,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-097",
+    "id": "assam-history-extra-233",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "Before founding his kingdom, Sukapha came from",
@@ -3013,7 +7229,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-098",
+    "id": "assam-history-extra-234",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "Sukapha's first capital, Charaideo, is important because it",
@@ -3044,7 +7260,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-099",
+    "id": "assam-history-extra-235",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The 'maidam' of the Ahoms refers to",
@@ -3075,7 +7291,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-100",
+    "id": "assam-history-extra-236",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom chronicles, which record dynastic history in prose, are called",
@@ -3106,7 +7322,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-101",
+    "id": "assam-history-extra-237",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom system of organising adult male subjects into units for labour and war was based on the",
@@ -3137,7 +7353,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-102",
+    "id": "assam-history-extra-238",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "In the Ahom administration, the office of the 'Borphukan' was responsible for",
@@ -3168,7 +7384,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-103",
+    "id": "assam-history-extra-239",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The battle of Saraighat in 1671 was fought between the Ahoms and the",
@@ -3199,7 +7415,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-104",
+    "id": "assam-history-extra-240",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom commander at the battle of Saraighat was",
@@ -3230,7 +7446,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-105",
+    "id": "assam-history-extra-241",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Mughal commander opposed to Lachit at Saraighat was",
@@ -3261,7 +7477,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-106",
+    "id": "assam-history-extra-242",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "Mir Jumla's invasion of Assam in the seventeenth century is remembered because it",
@@ -3292,7 +7508,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-107",
+    "id": "assam-history-extra-243",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The treaty of Yandabo in 1826 is a landmark in Assamese history because it",
@@ -3323,7 +7539,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-108",
+    "id": "assam-history-extra-244",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Burmese occupation of Assam before 1826 was marked by",
@@ -3354,7 +7570,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-109",
+    "id": "assam-history-extra-245",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom capital was shifted to Garhgaon by",
@@ -3385,7 +7601,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-110",
+    "id": "assam-history-extra-246",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "Suhungmung is remembered for adopting the title",
@@ -3416,7 +7632,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-111",
+    "id": "assam-history-extra-247",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's expansion under Suhungmung brought it into conflict with the",
@@ -3447,7 +7663,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-112",
+    "id": "assam-history-extra-248",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The 'Barbarua' in Ahom administration was responsible for",
@@ -3478,7 +7694,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-113",
+    "id": "assam-history-extra-249",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "Ahom kings are often called 'Swargadeo', which literally means",
@@ -3509,7 +7725,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-114",
+    "id": "assam-history-extra-250",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom state's revenue system rested mainly on",
@@ -3540,7 +7756,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-115",
+    "id": "assam-history-extra-251",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kings' patronage of the Vaishnava satras began in earnest under",
@@ -3571,7 +7787,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-116",
+    "id": "assam-history-extra-252",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Vaishnava saint who began the religious reform movement in Assam in the sixteenth century was",
@@ -3602,7 +7818,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-117",
+    "id": "assam-history-extra-253",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The prayer hall of the Vaishnava tradition in Assam is called the",
@@ -3633,7 +7849,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-118",
+    "id": "assam-history-extra-254",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The 'satra' in Assamese Vaishnavism refers to",
@@ -3664,7 +7880,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-119",
+    "id": "assam-history-extra-255",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "Sankardeva's literary and dramatic works were composed mainly in",
@@ -3695,7 +7911,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-120",
+    "id": "assam-history-extra-256",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Koch kingdom reached its height under",
@@ -3726,7 +7942,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-121",
+    "id": "assam-history-extra-257",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "Chilarai, the Koch general, is remembered for",
@@ -3757,7 +7973,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-122",
+    "id": "assam-history-extra-258",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Koch kingdom was divided after Naranarayan's death into",
@@ -3788,7 +8004,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-123",
+    "id": "assam-history-extra-259",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's conflict with the Mughals was mainly over control of",
@@ -3819,7 +8035,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-124",
+    "id": "assam-history-extra-260",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom state's relationship with the hill tribes on its borders was managed mainly through",
@@ -3850,7 +8066,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-125",
+    "id": "assam-history-extra-261",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "Rudra Singha is remembered in Ahom history for",
@@ -3881,7 +8097,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-126",
+    "id": "assam-history-extra-262",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's later period was weakened mainly by",
@@ -3912,7 +8128,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-127",
+    "id": "assam-history-extra-263",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Moamoria rebellion is significant because it",
@@ -3943,7 +8159,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-128",
+    "id": "assam-history-extra-264",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom finally came under British control after the",
@@ -3974,7 +8190,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-129",
+    "id": "assam-history-extra-265",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kings' authority over the satras increased over time because",
@@ -4005,7 +8221,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-130",
+    "id": "assam-history-extra-266",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom and Mughal confrontation at Saraighat was fought mainly on",
@@ -4036,7 +8252,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-131",
+    "id": "assam-history-extra-267",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom is often described as a 'watertight' state because it",
@@ -4067,7 +8283,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-132",
+    "id": "assam-history-extra-268",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kings' policy towards different religious communities is best described as",
@@ -4098,7 +8314,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-133",
+    "id": "assam-history-extra-269",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom 'Buranji' tradition is valuable to historians because it",
@@ -4129,7 +8345,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-134",
+    "id": "assam-history-extra-270",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom state's capital at Rangpur was developed mainly under",
@@ -4160,7 +8376,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-135",
+    "id": "assam-history-extra-271",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's army was composed mainly of",
@@ -4191,7 +8407,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-136",
+    "id": "assam-history-extra-272",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The main reason the Ahom kingdom survived for about six centuries is",
@@ -4222,7 +8438,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-137",
+    "id": "assam-history-extra-273",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's land and labour records were maintained by",
@@ -4253,7 +8469,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-138",
+    "id": "assam-history-extra-274",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's relationship with the Kachari kingdom was characterised by",
@@ -4284,7 +8500,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-139",
+    "id": "assam-history-extra-275",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kings' construction of tanks and roads is evidence of",
@@ -4315,7 +8531,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-140",
+    "id": "assam-history-extra-276",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's decline in the nineteenth century was accelerated by",
@@ -4346,7 +8562,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-141",
+    "id": "assam-history-extra-277",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The 'Buranji' written in the Ahom court was usually composed in",
@@ -4377,7 +8593,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-142",
+    "id": "assam-history-extra-278",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom state's policy of settling people in new areas was aimed mainly at",
@@ -4408,7 +8624,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-143",
+    "id": "assam-history-extra-279",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's diplomatic practice included",
@@ -4439,7 +8655,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-144",
+    "id": "assam-history-extra-280",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's social structure was based mainly on",
@@ -4470,7 +8686,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-145",
+    "id": "assam-history-extra-281",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's long resistance to Mughal expansion is best explained by",
@@ -4501,7 +8717,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-146",
+    "id": "assam-history-extra-282",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's records show that women",
@@ -4532,7 +8748,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-147",
+    "id": "assam-history-extra-283",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's end did not mean the end of Assamese institutions because",
@@ -4563,7 +8779,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-148",
+    "id": "assam-history-extra-284",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's military organisation was strengthened most by",
@@ -4594,7 +8810,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-149",
+    "id": "assam-history-extra-285",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The main long term effect of Ahom rule on Assam was",
@@ -4625,7 +8841,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-150",
+    "id": "assam-history-extra-286",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's relations with the Chutiya kingdom ended with",
@@ -4656,7 +8872,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-151",
+    "id": "assam-history-extra-287",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's system of justice was administered mainly by",
@@ -4687,7 +8903,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-152",
+    "id": "assam-history-extra-288",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's economic base was widened by",
@@ -4718,7 +8934,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-153",
+    "id": "assam-history-extra-289",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's dealings with the British before 1826 were mainly",
@@ -4749,7 +8965,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-154",
+    "id": "assam-history-extra-290",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's legacy in Assamese literature includes",
@@ -4780,7 +8996,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-155",
+    "id": "assam-history-extra-291",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The main reason Ahom rule is studied separately from the Kamarupa period is that",
@@ -4811,7 +9027,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-156",
+    "id": "assam-history-extra-292",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's control of the Brahmaputra gave it an advantage because",
@@ -4842,7 +9058,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-157",
+    "id": "assam-history-extra-293",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's administrative divisions were known as",
@@ -4873,7 +9089,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-158",
+    "id": "assam-history-extra-294",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's fall allowed the British to",
@@ -4904,7 +9120,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-159",
+    "id": "assam-history-extra-295",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's religious policy towards the Moamoria community eventually led to",
@@ -4935,7 +9151,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-160",
+    "id": "assam-history-extra-296",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's first contact with the Mughals was during the reign of",
@@ -4966,7 +9182,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-161",
+    "id": "assam-history-extra-297",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom victory at Saraighat was consolidated by the treaty that",
@@ -4997,7 +9213,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-162",
+    "id": "assam-history-extra-298",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's expansion westward brought it into direct conflict with the Mughals because",
@@ -5028,7 +9244,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-163",
+    "id": "assam-history-extra-299",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's use of forts along the Brahmaputra was intended mainly to",
@@ -5059,7 +9275,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-164",
+    "id": "assam-history-extra-300",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom state's treatment of defeated local chiefs usually involved",
@@ -5090,7 +9306,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-165",
+    "id": "assam-history-extra-301",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's chronicles record that Sukapha's followers were organised into",
@@ -5121,7 +9337,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-166",
+    "id": "assam-history-extra-302",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's relations with the Jaintia kingdom were shaped mainly by",
@@ -5152,7 +9368,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-167",
+    "id": "assam-history-extra-303",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's capital at Garhgaon was significant because it",
@@ -5183,7 +9399,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-168",
+    "id": "assam-history-extra-304",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's system of rotating labour was intended to",
@@ -5214,7 +9430,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-169",
+    "id": "assam-history-extra-305",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's policy towards the Brahmanical and Vaishnava traditions can be described as",
@@ -5245,7 +9461,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-170",
+    "id": "assam-history-extra-306",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's army at Saraighat was helped by",
@@ -5276,7 +9492,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-171",
+    "id": "assam-history-extra-307",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's administrative reforms under Rudra Singha included",
@@ -5307,7 +9523,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-172",
+    "id": "assam-history-extra-308",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's decline was hastened by the fact that",
@@ -5338,7 +9554,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-173",
+    "id": "assam-history-extra-309",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's frontier policy towards the Naga and other hill groups relied on",
@@ -5369,7 +9585,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-174",
+    "id": "assam-history-extra-310",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's use of the Assamese language in its records helped",
@@ -5400,7 +9616,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-175",
+    "id": "assam-history-extra-311",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's economy included trade with",
@@ -5431,7 +9647,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-176",
+    "id": "assam-history-extra-312",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's court patronised the writing of buranjis in order to",
@@ -5462,7 +9678,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-177",
+    "id": "assam-history-extra-313",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's final annexation by the British resulted in Assam being",
@@ -5493,7 +9709,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-178",
+    "id": "assam-history-extra-314",
     "leaf": "assam-history-medieval",
     "q": {
       "en": "The Ahom kingdom's story shows that a small frontier state could survive a large empire mainly because of",
@@ -5524,7 +9740,5463 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-179",
+    "id": "assam-history-extra-315",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom chronicle that deals with the reign of a single king is called a",
+      "as": "এজন ৰজাৰ ৰাজত্বকালৰ বিষয়ে কোৱা আহোম বুৰঞ্জীক বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "buranji of that reign",
+        "as": "সেই ৰাজত্বৰ বুৰঞ্জী"
+      },
+      {
+        "en": "namghar",
+        "as": "নামঘৰ"
+      },
+      {
+        "en": "satra",
+        "as": "সত্ৰ"
+      },
+      {
+        "en": "maidam",
+        "as": "মৈদাম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Reign specific buranjis record one king's period, which is why the chronicles are detailed. Namghar, satra and maidam are different institutions.",
+      "as": "ৰাজত্বভিত্তিক বুৰঞ্জীয়ে এজন ৰজাৰ কাল লিপিবদ্ধ কৰে, সেয়ে বুৰঞ্জী সবিশেষ। নামঘৰ, সত্ৰ আৰু মৈদাম বেলেগ প্ৰতিষ্ঠান।"
+    }
+  },
+  {
+    "id": "assam-history-extra-316",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom official called 'Borphukan' had his headquarters at",
+      "as": "বৰফুকন নামৰ আহোম বিষয়াৰ মুখ্য কাৰ্যালয় আছিল"
+    },
+    "options": [
+      {
+        "en": "Charaideo",
+        "as": "চৰাইদেউত"
+      },
+      {
+        "en": "Sivasagar",
+        "as": "শিৱসাগৰত"
+      },
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়ত"
+      },
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটীত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Borphukan governed the west from Guwahati, which is why the office is linked to that town. Charaideo was a burial site, and Sivasagar and Dibrugarh belong elsewhere.",
+      "as": "বৰফুকনে গুৱাহাটীৰপৰা পশ্চিম শাসন কৰিছিল, সেয়ে পদটো সেই চহৰৰ লগত জড়িত। চৰাইদেউ সমাধিস্থল, আৰু শিৱসাগৰ তথা ডিব্ৰুগড় আন ঠাইৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-317",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom office of 'Barbarua' was based at the",
+      "as": "বৰবৰুৱা পদ অৱস্থিত আছিল"
+    },
+    "options": [
+      {
+        "en": "river port",
+        "as": "নদী বন্দৰত"
+      },
+      {
+        "en": "temple",
+        "as": "মন্দিৰত"
+      },
+      {
+        "en": "capital",
+        "as": "ৰাজধানীত"
+      },
+      {
+        "en": "frontier fort",
+        "as": "সীমান্ত দুৰ্গত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Barbarua worked at the capital, which is why the office is central to administration. Frontier forts, ports and temples were other locations.",
+      "as": "বৰবৰুৱাই ৰাজধানীত কাম কৰিছিল, সেয়ে পদটো প্ৰশাসনৰ কেন্দ্ৰ। সীমান্ত দুৰ্গ, বন্দৰ আৰু মন্দিৰ আন স্থান।"
+    }
+  },
+  {
+    "id": "assam-history-extra-318",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom title 'Shenapati' was held by",
+      "as": "শেনাপতি উপাধি কাৰ আছিল"
+    },
+    "options": [
+      {
+        "en": "a revenue collector",
+        "as": "এজন ৰাজহ সংগ্ৰাহক"
+      },
+      {
+        "en": "a military commander",
+        "as": "এজন সামৰিক সেনাপতি"
+      },
+      {
+        "en": "a village headman",
+        "as": "এজন গাঁৱৰ মূৰব্বী"
+      },
+      {
+        "en": "a temple priest",
+        "as": "এজন মন্দিৰৰ পুৰোহিত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Shenapati commanded troops, which is why the title is military. Headmen, priests and collectors had other designations.",
+      "as": "শেনাপতিয়ে সৈন্য পৰিচালনা কৰিছিল, সেয়ে উপাধি সামৰিক। মূৰব্বী, পুৰোহিত আৰু সংগ্ৰাহকৰ বেলেগ নাম।"
+    }
+  },
+  {
+    "id": "assam-history-extra-319",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom 'Phukan' and 'Barua' offices together formed",
+      "as": "ফুকন আৰু বৰুৱা পদে একেলগে গঠন কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "the core of the civil and military administration",
+        "as": "নাগৰিক আৰু সামৰিক প্ৰশাসনৰ মূল"
+      },
+      {
+        "en": "the religious hierarchy",
+        "as": "ধৰ্মীয় স্তৰবিন্যাস"
+      },
+      {
+        "en": "the merchant guild",
+        "as": "বণিক সংঘ"
+      },
+      {
+        "en": "the village council",
+        "as": "গাঁও পৰিষদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Phukan and Barua officers ran the state, which is why they are central. Religious hierarchy, guilds and village councils are different bodies.",
+      "as": "ফুকন আৰু বৰুৱা বিষয়াসকলে ৰাজ্য চলাইছিল, সেয়ে সেয়া কেন্দ্ৰীয়। ধৰ্মীয় স্তৰবিন্যাস, সংঘ আৰু গাঁও পৰিষদ বেলেগ সংস্থা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-320",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom king's council of ministers was known as the",
+      "as": "আহোম ৰজাৰ মন্ত্ৰী পৰিষদক জনা গৈছিল"
+    },
+    "options": [
+      {
+        "en": "Mantri Parishad of Delhi",
+        "as": "দিল্লীৰ মন্ত্ৰী পৰিষদ হিচাপে"
+      },
+      {
+        "en": "Sabha of Bengal",
+        "as": "বংগৰ সভা হিচাপে"
+      },
+      {
+        "en": "Durbar of Burmah",
+        "as": "বাৰ্মাৰ দৰবাৰ হিচাপে"
+      },
+      {
+        "en": "Dangariya and Phukan council",
+        "as": "দাংগৰীয়া আৰু ফুকন পৰিষদ হিচাপে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Senior Ahom officers formed the council, which is why the names appear together. Delhi, Bengal and Burma had their own institutions.",
+      "as": "জ্যেষ্ঠ আহোম বিষয়াসকলে পৰিষদ গঠন কৰিছিল, সেয়ে নামবোৰ একেলগে ওলায়। দিল্লী, বংগ আৰু বাৰ্মাৰ নিজা প্ৰতিষ্ঠান আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-321",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom 'paik' was required to provide",
+      "as": "আহোম 'পাইক'ৰ প্ৰদান কৰিবলগীয়া আছিল"
+    },
+    "options": [
+      {
+        "en": "only religious service",
+        "as": "কেৱল ধৰ্মীয় সেৱা"
+      },
+      {
+        "en": "only craft work",
+        "as": "কেৱল কাৰিকৰী কাম"
+      },
+      {
+        "en": "labour and military service in rotation",
+        "as": "পালক্ৰমে শ্ৰম আৰু সামৰিক সেৱা"
+      },
+      {
+        "en": "only cash tax",
+        "as": "কেৱল নগদ কৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Paiks served in rotation for public works and war, which is why the system is called a labour corps. Cash only, religious only and craft only are wrong.",
+      "as": "পাইকে ৰাজহুৱা কাম আৰু যুদ্ধৰ বাবে পালক্ৰমে সেৱা কৰিছিল, সেয়ে ব্যৱস্থাক শ্ৰম বাহিনী বোলা হয়। কেৱল নগদ, ধৰ্মীয় আৰু কাৰিকৰী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-322",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "A 'khel' in the Ahom system was headed by a",
+      "as": "আহোম ব্যৱস্থাত 'খেল'ৰ মুৰব্বী আছিল এজন"
+    },
+    "options": [
+      {
+        "en": "amatyas",
+        "as": "অমাত্য"
+      },
+      {
+        "en": "kheldar",
+        "as": "খেলদাৰ"
+      },
+      {
+        "en": "gramika",
+        "as": "গ্ৰামিক"
+      },
+      {
+        "en": "dutaka",
+        "as": "দূতক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Kheldars led khels, which is why the title appears in Ahom records. Gramika, dutaka and amatya are terms from the Kamarupa period.",
+      "as": "খেলদাৰে খেল চলাইছিল, সেয়ে উপাধি আহোম ৰেকৰ্ডত ওলায়। গ্ৰামিক, দূতক আৰু অমাত্য কামৰূপ যুগৰ শব্দ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-323",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom state's 'Sadiyal Khel' was notable as a",
+      "as": "আহোম ৰাজ্যৰ 'সদিয়াল খেল' কাৰ বাবে উল্লেখযোগ্য আছিল"
+    },
+    "options": [
+      {
+        "en": "group exempted or assigned to a specific duty",
+        "as": "নিৰ্দিষ্ট কামৰ বাবে মুক্ত বা নিযুক্ত গোট"
+      },
+      {
+        "en": "temple committee",
+        "as": "মন্দিৰ সমিতি"
+      },
+      {
+        "en": "merchant guild",
+        "as": "বণিক সংঘ"
+      },
+      {
+        "en": "foreign legion",
+        "as": "বিদেশী সৈন্যদল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Some khels had specialised duties, which is why the term appears. Temple committees, guilds and foreign legions are different.",
+      "as": "কিছু খেলৰ বিশেষ দায়িত্ব আছিল, সেয়ে শব্দটো ওলায়। মন্দিৰ সমিতি, সংঘ আৰু বিদেশী সৈন্যদল বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-324",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom king's power to grant land to satras and temples was exercised through",
+      "as": "সত্ৰ আৰু মন্দিৰক ভূমি দানৰ আহোম ৰজাৰ ক্ষমতা প্ৰয়োগ হৈছিল কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "British courts",
+        "as": "ব্ৰিটিছ আদালতৰ জৰিয়তে"
+      },
+      {
+        "en": "Mughal farmans",
+        "as": "মোগল ফৰ্মানৰ জৰিয়তে"
+      },
+      {
+        "en": "village votes",
+        "as": "গাঁৱৰ ভোটৰ জৰিয়তে"
+      },
+      {
+        "en": "royal orders recorded in the buranjis and grants",
+        "as": "বুৰঞ্জী আৰু দানপত্ৰত লিপিবদ্ধ ৰাজকীয় আদেশৰ জৰিয়তে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Royal orders in the records show the practice, which is why those sources are used. British, Mughal and village votes do not apply.",
+      "as": "ৰেকৰ্ডত ৰাজকীয় আদেশে প্ৰথা দেখুৱায়, সেয়ে সেই উৎস ব্যৱহাৰ কৰা হয়। ব্ৰিটিছ, মোগল আৰু গাঁৱৰ ভোট প্ৰযোজ্য নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-325",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's 'Dangariya' and 'Phukan' offices were abolished or reduced by the British after",
+      "as": "ব্ৰিটিছে কেতিয়াৰ পিছত দাংগৰীয়া আৰু ফুকন পদ বিলুপ্ত বা হ্ৰাস কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "1228",
+        "as": "১২২৮"
+      },
+      {
+        "en": "1905",
+        "as": "১৯০৫"
+      },
+      {
+        "en": "1826",
+        "as": "১৮২৬"
+      },
+      {
+        "en": "1671",
+        "as": "১৬৭১"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Colonial reorganisation after 1826 removed Ahom offices, which is why that year marks the change. 1671 was Saraighat, 1228 the Ahom founding and 1905 the Bengal partition.",
+      "as": "১৮২৬ চনৰ পিছত ঔপনিবেশিক পুনৰ্গঠনে আহোম পদ আঁতৰাইছিল, সেয়ে সেই বছৰ পৰিৱৰ্তন চিহ্নিত কৰে। ১৬৭১ সৰাইঘাট, ১২২৮ আহোম প্ৰতিষ্ঠা আৰু ১৯০৫ বংগ বিভাজন।"
+    }
+  },
+  {
+    "id": "assam-history-extra-326",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's revenue records were called",
+      "as": "আহোম ৰাজ্যৰ ৰাজহ ৰেকৰ্ডক বোলা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "income tax returns",
+        "as": "আয় কৰ ঘোষণা"
+      },
+      {
+        "en": "paik registers and khel lists",
+        "as": "পাইক পঞ্জী আৰু খেল তালিকা"
+      },
+      {
+        "en": "cadastral maps",
+        "as": "ভূমি মানচিত্ৰ"
+      },
+      {
+        "en": "land settlement reports",
+        "as": "ভূমি নিষ্পত্তি প্ৰতিবেদন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Paik registers kept the labour system running, which is why they are named. Cadastral maps, settlement reports and tax returns are colonial or modern.",
+      "as": "পাইক পঞ্জীয়ে শ্ৰম ব্যৱস্থা চলাইছিল, সেয়ে সেয়া নাম দিয়া হয়। ভূমি মানচিত্ৰ, নিষ্পত্তি প্ৰতিবেদন আৰু কৰ ঘোষণা ঔপনিবেশিক বা আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-327",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's military strength at Saraighat rested partly on",
+      "as": "সৰাইঘাটত আহোম ৰাজ্যৰ সামৰিক শক্তি আংশিকভাৱে নিৰ্ভৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "a large fleet of boats on the Brahmaputra",
+        "as": "ব্ৰহ্মপুত্ৰত বৃহৎ নাওবাহিনীৰ ওপৰত"
+      },
+      {
+        "en": "heavy artillery from Europe",
+        "as": "ইউৰোপৰপৰা অহা গধুৰ কামানৰ ওপৰত"
+      },
+      {
+        "en": "cavalry from Central Asia",
+        "as": "মধ্য এছিয়াৰ অশ্বাৰোহীৰ ওপৰত"
+      },
+      {
+        "en": "a standing navy of iron ships",
+        "as": "লোৰ জাহাজৰ স্থায়ী নৌসেনাৰ ওপৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "River boats decided the battle, which is why the fleet matters. European artillery, Central Asian cavalry and iron ships do not describe Ahom forces.",
+      "as": "নদীৰ নাৱেই যুদ্ধ নিৰ্ধাৰণ কৰিছিল, সেয়ে নাওবাহিনী গুৰুত্বপূৰ্ণ। ইউৰোপীয় কামান, মধ্য এছিয়াৰ অশ্বাৰোহী আৰু লোৰ জাহাজে আহোম বাহিনীৰ বৰ্ণনা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-328",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's capital at Rangpur was renamed",
+      "as": "ৰংপুৰত আহোম ৰাজধানীৰ নতুন নাম ৰখা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাট"
+      },
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Tezpur",
+        "as": "তেজপুৰ"
+      },
+      {
+        "en": "Sivasagar",
+        "as": "শিৱসাগৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Rangpur later gave its name to Sivasagar town, which is why the two are linked. Jorhat, Guwahati and Tezpur are other places.",
+      "as": "ৰংপুৰৰপৰাই পিছত শিৱসাগৰ চহৰৰ নাম আহিছিল, সেয়ে দুয়ো জড়িত। যোৰহাট, গুৱাহাটী আৰু তেজপুৰ আন স্থান।"
+    }
+  },
+  {
+    "id": "assam-history-extra-329",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom king Rudra Singha's mother and queen are remembered for",
+      "as": "আহোম ৰজা ৰুদ্ৰ সিংহৰ মাতৃ আৰু ৰাণী স্মৰণীয় কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "signing treaties",
+        "as": "সন্ধিত স্বাক্ষৰৰ বাবে"
+      },
+      {
+        "en": "leading invasions",
+        "as": "আক্ৰমণৰ নেতৃত্বৰ বাবে"
+      },
+      {
+        "en": "their patronage of culture and construction",
+        "as": "সংস্কৃতি আৰু নিৰ্মাণৰ পৃষ্ঠপোষকতাৰ বাবে"
+      },
+      {
+        "en": "commanding the army",
+        "as": "সেনা পৰিচালনাৰ বাবে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Court women supported building and learning, which is why they are remembered. Army command, treaties and invasions were not their role.",
+      "as": "দৰবাৰৰ নাৰীয়ে নিৰ্মাণ আৰু বিদ্যাক সমৰ্থন কৰিছিল, সেয়ে সেয়া স্মৰণীয়। সেনা নেতৃত্ব, সন্ধি আৰু আক্ৰমণ তেওঁলোকৰ ভূমিকা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-330",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom king Siva Singha is remembered for",
+      "as": "আহোম ৰজা শিৱ সিংহ স্মৰণীয় কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "the Burmese invasion",
+        "as": "বাৰ্মী আক্ৰমণৰ বাবে"
+      },
+      {
+        "en": "construction works and patronage of learning",
+        "as": "নিৰ্মাণ কাৰ্য আৰু বিদ্যাৰ পৃষ্ঠপোষকতাৰ বাবে"
+      },
+      {
+        "en": "founding the kingdom",
+        "as": "ৰাজ্য প্ৰতিষ্ঠাৰ বাবে"
+      },
+      {
+        "en": "the treaty of Yandabo",
+        "as": "য়াণ্ডাবু সন্ধিৰ বাবে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Siva Singha built tanks and temples and supported scholars, which is why his reign is noted. Founding, Yandabo and the Burmese invasion belong elsewhere.",
+      "as": "শিৱ সিংহই পুখুৰী আৰু মন্দিৰ নিৰ্মাণ কৰি পণ্ডিতক সমৰ্থন কৰিছিল, সেয়ে তেওঁৰ ৰাজত্ব উল্লেখযোগ্য। প্ৰতিষ্ঠা, য়াণ্ডাবু আৰু বাৰ্মী আক্ৰমণ আন ঠাইৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-331",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom queen Phuleswari is remembered in the religious history of Assam for",
+      "as": "অসমৰ ধৰ্মীয় ইতিহাসত আহোম ৰাণী ফুলেশ্বৰী স্মৰণীয় কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "her active role in Vaishnava and Shakti patronage",
+        "as": "বৈষ্ণৱ আৰু শক্তি পৃষ্ঠপোষকতাত সক্ৰিয় ভূমিকাৰ বাবে"
+      },
+      {
+        "en": "leading troops at Saraighat",
+        "as": "সৰাইঘাটত সৈন্য পৰিচালনাৰ বাবে"
+      },
+      {
+        "en": "signing the Assam Accord",
+        "as": "অসম চুক্তিত স্বাক্ষৰৰ বাবে"
+      },
+      {
+        "en": "founding Gauhati University",
+        "as": "গুৱাহাটী বিশ্ববিদ্যালয় প্ৰতিষ্ঠাৰ বাবে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Phuleswari intervened in religious patronage, which is why she is cited. Saraighat, the Accord and the university belong to other periods or people.",
+      "as": "ফুলেশ্বৰীয়ে ধৰ্মীয় পৃষ্ঠপোষকতাত হস্তক্ষেপ কৰিছিল, সেয়ে তেওঁক উদ্ধৃত কৰা হয়। সৰাইঘাট, চুক্তি আৰু বিশ্ববিদ্যালয় আন যুগ বা ব্যক্তিৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-332",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's conflict with the Moamoria community had its roots in",
+      "as": "মোৱামৰীয়া সম্প্ৰদায়ৰ লগত আহোম ৰাজ্যৰ সংঘাতৰ মূল আছিল"
+    },
+    "options": [
+      {
+        "en": "a trade embargo with Bengal",
+        "as": "বংগৰ লগত বাণিজ্য নিষেধাজ্ঞাত"
+      },
+      {
+        "en": "a border war with Tibet",
+        "as": "তিব্বতৰ লগত সীমান্ত যুদ্ধত"
+      },
+      {
+        "en": "a British tax demand",
+        "as": "ব্ৰিটিছ কৰৰ দাবীত"
+      },
+      {
+        "en": "disputes over satra authority and state demands",
+        "as": "সত্ৰৰ কৰ্তৃত্ব আৰু ৰাজ্যিক দাবীৰ বিবাদত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Satra authority and state demands collided, which is why the rebellion began there. Trade embargo, Tibet and British taxes are not the root.",
+      "as": "সত্ৰৰ কৰ্তৃত্ব আৰু ৰাজ্যিক দাবী সংঘৰ্ষত পৰিছিল, সেয়ে বিদ্ৰোহ তাত আৰম্ভ। বাণিজ্য নিষেধাজ্ঞা, তিব্বত আৰু ব্ৰিটিছ কৰ মূল নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-333",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's forces were defeated at the battle of Itakhuli by the",
+      "as": "ইটাখুলি যুদ্ধত আহোম বাহিনী কাৰ দ্বাৰা পৰাজিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Burmese",
+        "as": "বাৰ্মীয়ে"
+      },
+      {
+        "en": "Koch",
+        "as": "কোচসকলে"
+      },
+      {
+        "en": "Mughals",
+        "as": "মোগলসকলে"
+      },
+      {
+        "en": "British",
+        "as": "ব্ৰিটিছসকলে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Itakhuli was a Mughal victory in the seventeenth century, which is why it is remembered as a setback. The British, Burmese and Koch were not the victors there.",
+      "as": "ইটাখুলি সপ্তদশ শতিকাৰ মোগল বিজয়, সেয়ে ইয়াক ধাক্কা হিচাপে স্মৰণ কৰা হয়। ব্ৰিটিছ, বাৰ্মী আৰু কোচ তাত বিজয়ী নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-334",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom recovered Guwahati from the Mughals mainly under",
+      "as": "মোগলৰপৰা গুৱাহাটী মূলতঃ কাৰ অধীনত উদ্ধাৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "Suhungmung",
+        "as": "চুহুংমুঙে"
+      },
+      {
+        "en": "Gadadhar Singha",
+        "as": "গদাধৰ সিংহই"
+      },
+      {
+        "en": "Sukapha",
+        "as": "চুকাফাই"
+      },
+      {
+        "en": "Purandar Singha",
+        "as": "পুৰন্দৰ সিংহই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gadadhar Singha's campaigns restored the western territories, which is why he is named. Sukapha founded the kingdom, and Purandar Singha and Suhungmung belong to other phases.",
+      "as": "গদাধৰ সিংহৰ অভিযানে পশ্চিমীয়া অঞ্চল উদ্ধাৰ কৰিছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। চুকাফাই ৰাজ্য প্ৰতিষ্ঠা কৰিছিল, আৰু পুৰন্দৰ সিংহ তথা চুহুংমুং আন পৰ্যায়ৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-335",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom king Gadadhar Singha is also known as",
+      "as": "আহোম ৰজা গদাধৰ সিংহক এই নামেৰেও জনা যায়"
+    },
+    "options": [
+      {
+        "en": "Supatpha",
+        "as": "চুপাতফা"
+      },
+      {
+        "en": "Lora Raja",
+        "as": "ল'ৰা ৰজা"
+      },
+      {
+        "en": "Bamuni Konwar",
+        "as": "বামুণী কোঁৱৰ"
+      },
+      {
+        "en": "Sujinpha",
+        "as": "চুজিনফা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Supatpha is Gadadhar Singha's Tai name, which is why both appear. Lora Raja and Bamuni Konwar are other rulers.",
+      "as": "চুপাতফা গদাধৰ সিংহৰ তাই নাম, সেয়ে দুয়ো ওলায়। ল'ৰা ৰজা আৰু বামুণী কোঁৱৰ আন শাসক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-336",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom king known as 'Lora Raja' was",
+      "as": "ল'ৰা ৰজা নামেৰে জনাজাত আহোম ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Gadadhar Singha",
+        "as": "গদাধৰ সিংহ"
+      },
+      {
+        "en": "Rudra Singha",
+        "as": "ৰুদ্ৰ সিংহ"
+      },
+      {
+        "en": "Siva Singha",
+        "as": "শিৱ সিংহ"
+      },
+      {
+        "en": "Sulikpha",
+        "as": "চুলিখফা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sulikpha is remembered by that name, which is why he is the answer. Gadadhar, Rudra and Siva Singha have their own names.",
+      "as": "চুলিখফাক সেই নামেৰে স্মৰণ কৰা হয়, সেয়ে তেওঁ উত্তৰ। গদাধৰ, ৰুদ্ৰ আৰু শিৱ সিংহৰ নিজা নাম আছে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-337",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom king 'Bamuni Konwar' is identified with",
+      "as": "বামুণী কোঁৱৰ আহোম ৰজাক চিনাক্ত কৰা হয় কাৰ লগত"
+    },
+    "options": [
+      {
+        "en": "Suhungmung",
+        "as": "চুহুংমুং"
+      },
+      {
+        "en": "Lachit",
+        "as": "লাচিত"
+      },
+      {
+        "en": "Sujinpha",
+        "as": "চুজিনফা"
+      },
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sujinpha is known by that epithet, which is why the two are equated. Sukapha, Suhungmung and Lachit are different figures.",
+      "as": "চুজিনফাক সেই বিশেষণেৰে জনা যায়, সেয়ে দুয়ো সমান। চুকাফা, চুহুংমুং আৰু লাচিত বেলেগ ব্যক্তি।"
+    }
+  },
+  {
+    "id": "assam-history-extra-338",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's first capital after Charaideo was moved to",
+      "as": "চৰাইদেউৰ পিছত আহোম ৰাজ্যৰ প্ৰথম ৰাজধানী স্থানান্তৰিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Garhgaon",
+        "as": "গড়গাঁও"
+      },
+      {
+        "en": "Rangpur",
+        "as": "ৰংপুৰ"
+      },
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Garhgaon followed Charaideo, which is why the sequence matters. Rangpur came later, and Jorhat and Guwahati are other places.",
+      "as": "গড়গাঁও চৰাইদেউৰ পিছত আহিছিল, সেয়ে ক্ৰম গুৰুত্বপূৰ্ণ। ৰংপুৰ পিছত, আৰু যোৰহাট তথা গুৱাহাটী আন স্থান।"
+    }
+  },
+  {
+    "id": "assam-history-extra-339",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom capital was moved to Jorhat in the late eighteenth century under",
+      "as": "অষ্টাদশ শতিকাৰ শেষত ৰাজধানী যোৰহাটলৈ স্থানান্তৰিত হৈছিল কাৰ অধীনত"
+    },
+    "options": [
+      {
+        "en": "Gaurinath Singha",
+        "as": "গৌৰীনাথ সিংহৰ"
+      },
+      {
+        "en": "Sukapha",
+        "as": "চুকাফাৰ"
+      },
+      {
+        "en": "Lachit Borphukan",
+        "as": "লাচিত বৰফুকনৰ"
+      },
+      {
+        "en": "Chilarai",
+        "as": "চিলাৰায়ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Jorhat became the capital in the late Ahom period, which is why Gaurinath is named. Sukapha, Lachit and Chilarai belong to other phases.",
+      "as": "যোৰহাট পিছৰ আহোম কালত ৰাজধানী হৈছিল, সেয়ে গৌৰীনাথৰ নাম দিয়া হয়। চুকাফা, লাচিত আৰু চিলাৰায় আন পৰ্যায়ৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-340",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's last capital before British annexation was",
+      "as": "ব্ৰিটিছ সংযুক্তিৰ আগত আহোম ৰাজ্যৰ শেষ ৰাজধানী আছিল"
+    },
+    "options": [
+      {
+        "en": "Charaideo",
+        "as": "চৰাইদেউ"
+      },
+      {
+        "en": "Garhgaon",
+        "as": "গড়গাঁও"
+      },
+      {
+        "en": "Rangpur",
+        "as": "ৰংপুৰ"
+      },
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Jorhat was the seat at the end, which is why it is named. Charaideo, Garhgaon and Rangpur were earlier capitals.",
+      "as": "শেষত যোৰহাটেই আসন আছিল, সেয়ে ইয়াৰ নাম দিয়া হয়। চৰাইদেউ, গড়গাঁও আৰু ৰংপুৰ আগৰ ৰাজধানী।"
+    }
+  },
+  {
+    "id": "assam-history-extra-341",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's chronicles record that Sukapha was accompanied by",
+      "as": "আহোম বুৰঞ্জীত লিপিবদ্ধ আছে চুকাফাৰ লগত আছিল"
+    },
+    "options": [
+      {
+        "en": "a Mughal embassy",
+        "as": "মোগল দূতাবাস"
+      },
+      {
+        "en": "a Chinese army",
+        "as": "চীনা সেনা"
+      },
+      {
+        "en": "a large following of nobles, priests and soldiers",
+        "as": "অভিজাত, পুৰোহিত আৰু সৈনিকৰ বৃহৎ অনুগামী"
+      },
+      {
+        "en": "a British mission",
+        "as": "ব্ৰিটিছ অভিযান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The following shaped Ahom institutions, which is why it is recorded. British, Mughal and Chinese parties are wrong.",
+      "as": "অনুগামীয়ে আহোম প্ৰতিষ্ঠান গঢ়িছিল, সেয়ে সেয়া লিপিবদ্ধ। ব্ৰিটিছ, মোগল আৰু চীনা দল ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-342",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's early religion before Vaishnava influence was mainly",
+      "as": "বৈষ্ণৱ প্ৰভাৱৰ আগতে আহোম ৰাজ্যৰ প্ৰাৰম্ভিক ধৰ্ম মূলতঃ আছিল"
+    },
+    "options": [
+      {
+        "en": "Buddhism alone",
+        "as": "কেৱল বৌদ্ধ ধৰ্ম"
+      },
+      {
+        "en": "traditional Tai ancestor and spirit worship",
+        "as": "পৰম্পৰাগত তাই পূৰ্বপুৰুষ আৰু আত্মা উপাসনা"
+      },
+      {
+        "en": "Islam",
+        "as": "ইছলাম"
+      },
+      {
+        "en": "Christianity",
+        "as": "খ্ৰীষ্টধৰ্ম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Tai practices came first, which is why the priests are named in the records. Islam, Christianity and Buddhism alone do not describe early Ahom religion.",
+      "as": "তাই ৰীতি আগত আহিছিল, সেয়ে পুৰোহিতসকলৰ নাম ৰেকৰ্ডত ওলায়। ইছলাম, খ্ৰীষ্টধৰ্ম আৰু কেৱল বৌদ্ধ ধৰ্মে প্ৰাৰম্ভিক আহোম ধৰ্মৰ বৰ্ণনা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-343",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom priests who conducted traditional rites were called",
+      "as": "পৰম্পৰাগত ৰীতি সম্পন্ন কৰা আহোম পুৰোহিতসকলক বোলা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Deodhai and Bailung",
+        "as": "দেওধাই আৰু বাইলুং"
+      },
+      {
+        "en": "Borphukan and Barbarua",
+        "as": "বৰফুকন আৰু বৰবৰুৱা"
+      },
+      {
+        "en": "Satra and Namghar",
+        "as": "সত্ৰ আৰু নামঘৰ"
+      },
+      {
+        "en": "Khel and Paik",
+        "as": "খেল আৰু পাইক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Deodhai and Bailung were the priestly groups, which is why they preserved traditions. The others are offices and institutions.",
+      "as": "দেওধাই আৰু বাইলুং পুৰোহিত গোট, সেয়ে তেওঁলোকে পৰম্পৰা ৰক্ষা কৰিছিল। বাকীবোৰ পদ আৰু প্ৰতিষ্ঠান।"
+    }
+  },
+  {
+    "id": "assam-history-extra-344",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's Tai language belonged to the",
+      "as": "আহোম ৰাজ্যৰ তাই ভাষা কাৰ অন্তৰ্গত আছিল"
+    },
+    "options": [
+      {
+        "en": "Indo Aryan family",
+        "as": "ইন্দো-আৰ্য পৰিয়াল"
+      },
+      {
+        "en": "Dravidian family",
+        "as": "দ্ৰাবিড় পৰিয়াল"
+      },
+      {
+        "en": "Semitic family",
+        "as": "চেমিটিক পৰিয়াল"
+      },
+      {
+        "en": "Tai Kadai family",
+        "as": "তাই-কাডাই পৰিয়াল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ahom is a Tai Kadai language, which is why its script and vocabulary differ from Assamese. Indo Aryan, Dravidian and Semitic are other families.",
+      "as": "আহোম তাই-কাডাই ভাষা, সেয়ে লিপি আৰু শব্দাৱলী অসমীয়াৰপৰা পৃথক। ইন্দো-আৰ্য, দ্ৰাবিড় আৰু চেমিটিক আন পৰিয়াল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-345",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom script was gradually replaced in official use by",
+      "as": "চৰকাৰী ব্যৱহাৰত আহোম লিপি ক্ৰমে প্ৰতিস্থাপিত হৈছিল কাৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "the Arabic script",
+        "as": "আৰবী লিপিৰ দ্বাৰা"
+      },
+      {
+        "en": "the Chinese script",
+        "as": "চীনা লিপিৰ দ্বাৰা"
+      },
+      {
+        "en": "the Assamese script",
+        "as": "অসমীয়া লিপিৰ দ্বাৰা"
+      },
+      {
+        "en": "the Roman script",
+        "as": "ৰোমান লিপিৰ দ্বাৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Assamese became the administrative medium, which is why Ahom script declined. Roman, Arabic and Chinese scripts were not adopted.",
+      "as": "অসমীয়া প্ৰশাসনিক মাধ্যম হৈছিল, সেয়ে আহোম লিপিৰ অৱনতি ঘটিছিল। ৰোমান, আৰবী আৰু চীনা লিপি গ্ৰহণ কৰা নহৈছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-346",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's land grants to temples were often recorded on",
+      "as": "মন্দিৰলৈ আহোম ৰাজ্যৰ ভূমি দান প্ৰায়ে লিপিবদ্ধ কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "European parchment",
+        "as": "ইউৰোপীয় চৰ্মপত্ৰত"
+      },
+      {
+        "en": "copper plates and cloth documents",
+        "as": "তাম্ৰপত্ৰ আৰু কাপোৰৰ দস্তাবেজত"
+      },
+      {
+        "en": "paper currency",
+        "as": "কাগজৰ মুদ্ৰাত"
+      },
+      {
+        "en": "stone obelisks only",
+        "as": "কেৱল শিলৰ স্তম্ভত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Copper and cloth carried the grants, which is why both survive. Paper currency, obelisks only and European parchment are wrong.",
+      "as": "তাম আৰু কাপোৰে দান বহন কৰিছিল, সেয়ে দুয়ো ৰৈ গৈছে। কাগজৰ মুদ্ৰা, কেৱল স্তম্ভ আৰু ইউৰোপীয় চৰ্মপত্ৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-347",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's diplomatic relations with the Koch kingdom were shaped by",
+      "as": "কোচ ৰাজ্যৰ লগত আহোম ৰাজ্যৰ কূটনৈতিক সম্পৰ্ক গঢ় লৈছিল কাৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "marriage alliances and border settlements",
+        "as": "বিবাহ মিত্ৰতা আৰু সীমা নিষ্পত্তিৰ দ্বাৰা"
+      },
+      {
+        "en": "a permanent war",
+        "as": "স্থায়ী যুদ্ধৰ দ্বাৰা"
+      },
+      {
+        "en": "complete isolation",
+        "as": "সম্পূৰ্ণ বিচ্ছিন্নতাৰ দ্বাৰা"
+      },
+      {
+        "en": "European mediation",
+        "as": "ইউৰোপীয় মধ্যস্থতাৰ দ্বাৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Marriage and border deals kept relations workable, which is why they are cited. Permanent war, isolation and European mediation do not fit.",
+      "as": "বিবাহ আৰু সীমা চুক্তিয়ে সম্পৰ্ক চলাইছিল, সেয়ে সেয়া উদ্ধৃত। স্থায়ী যুদ্ধ, বিচ্ছিন্নতা আৰু ইউৰোপীয় মধ্যস্থতা নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-348",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's trade with Tibet was mainly in",
+      "as": "তিব্বতৰ লগত আহোম ৰাজ্যৰ বাণিজ্য মূলতঃ কাৰ আছিল"
+    },
+    "options": [
+      {
+        "en": "tea for machinery",
+        "as": "যন্ত্ৰৰ বাবে চাহ"
+      },
+      {
+        "en": "oil for weapons",
+        "as": "অস্ত্ৰৰ বাবে তেল"
+      },
+      {
+        "en": "coal for grain",
+        "as": "শস্যৰ বাবে কয়লা"
+      },
+      {
+        "en": "textiles, hides and forest goods for salt and wool",
+        "as": "লৱণ আৰু ঊণৰ বাবে বস্ত্ৰ, ছাল আৰু অৰণ্য সামগ্ৰী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Salt and wool came back for local goods, which is why the exchange is described that way. Tea, oil and coal belong to the colonial economy.",
+      "as": "লৱণ আৰু ঊণৰ বিনিময়ত স্থানীয় সামগ্ৰী গৈছিল, সেয়ে বিনিময় এনেদৰে বৰ্ণনা কৰা হয়। চাহ, তেল আৰু কয়লা ঔপনিবেশিক অৰ্থনীতিৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-349",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's market centres were known as",
+      "as": "আহোম ৰাজ্যৰ বজাৰ কেন্দ্ৰক জনা গৈছিল"
+    },
+    "options": [
+      {
+        "en": "exchanges and floors",
+        "as": "এক্সচেঞ্জ আৰু ফ্লৰ হিচাপে"
+      },
+      {
+        "en": "supermarkets",
+        "as": "চুপাৰমাৰ্কেট হিচাপে"
+      },
+      {
+        "en": "hats and bazaars",
+        "as": "হাট আৰু বজাৰ হিচাপে"
+      },
+      {
+        "en": "malls and plazas",
+        "as": "মল আৰু প্লাজা হিচাপে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Periodic hats served local exchange, which is why the term appears. Malls, exchanges and supermarkets are modern.",
+      "as": "সাপ্তাহিক হাটে স্থানীয় বিনিময় চলাইছিল, সেয়ে শব্দটো ওলায়। মল, এক্সচেঞ্জ আৰু চুপাৰমাৰ্কেট আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-350",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main export to Bengal was",
+      "as": "বংগলৈ আহোম ৰাজ্যৰ প্ৰধান ৰপ্তানি আছিল"
+    },
+    "options": [
+      {
+        "en": "machinery",
+        "as": "যন্ত্ৰপাতি"
+      },
+      {
+        "en": "silk, timber and forest produce",
+        "as": "পাট, কাঠ আৰু অৰণ্য উৎপাদন"
+      },
+      {
+        "en": "coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Silk and timber moved downstream, which is why they are named. Coal, petroleum and machinery are colonial or later.",
+      "as": "পাট আৰু কাঠ নিজৰাৰে তললৈ গৈছিল, সেয়ে সেয়া নাম দিয়া হয়। কয়লা, পেট্ৰ'লিয়াম আৰু যন্ত্ৰপাতি ঔপনিবেশিক বা পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-351",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's principal riverine trade route ran",
+      "as": "আহোম ৰাজ্যৰ প্ৰধান নদী বাণিজ্য পথ গৈছিল"
+    },
+    "options": [
+      {
+        "en": "down the Brahmaputra to Bengal",
+        "as": "ব্ৰহ্মপুত্ৰৰে বংগলৈ"
+      },
+      {
+        "en": "up the Ganga to Delhi",
+        "as": "গংগাৰে দিল্লীলৈ"
+      },
+      {
+        "en": "across the sea to Sri Lanka",
+        "as": "সাগৰে শ্ৰীলংকালৈ"
+      },
+      {
+        "en": "through the Thar desert",
+        "as": "থৰ মৰুভূমিৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Brahmaputra carried goods to Bengal, which is why the route is cited. The Ganga, Sri Lanka and the Thar lie outside the route.",
+      "as": "ব্ৰহ্মপুত্ৰই সামগ্ৰী বংগলৈ কঢ়িয়াইছিল, সেয়ে পথটো উদ্ধৃত। গংগা, শ্ৰীলংকা আৰু থৰ পথৰ বাহিৰত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-352",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's agriculture depended mainly on",
+      "as": "আহোম ৰাজ্যৰ কৃষি মূলতঃ নিৰ্ভৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "wheat farming",
+        "as": "গম খেতিৰ ওপৰত"
+      },
+      {
+        "en": "coffee plantations",
+        "as": "কফি বাগিচাৰ ওপৰত"
+      },
+      {
+        "en": "rubber estates",
+        "as": "ৰবৰ বাগিচাৰ ওপৰত"
+      },
+      {
+        "en": "wet rice cultivation in the valley",
+        "as": "উপত্যকাত সিক্ত ধান খেতিৰ ওপৰত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Wet rice fed the state, which is why it is central. Wheat, coffee and rubber are not the base.",
+      "as": "সিক্ত ধানে ৰাজ্যক খুৱাইছিল, সেয়ে ই কেন্দ্ৰীয়। গম, কফি আৰু ৰবৰ ভেটি নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-353",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's revenue was collected mainly in",
+      "as": "আহোম ৰাজ্যৰ ৰাজহ মূলতঃ সংগ্ৰহ কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "foreign currency",
+        "as": "বিদেশী মুদ্ৰা"
+      },
+      {
+        "en": "gold only",
+        "as": "কেৱল সোণ"
+      },
+      {
+        "en": "kind, through produce and labour",
+        "as": "বস্তু হিচাপে, উৎপাদন আৰু শ্ৰমৰ জৰিয়তে"
+      },
+      {
+        "en": "cash only",
+        "as": "কেৱল নগদ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Produce and labour formed the base, which is why the system is described as in kind. Cash only, foreign currency and gold only are wrong.",
+      "as": "উৎপাদন আৰু শ্ৰমে ভেটি গঢ়িছিল, সেয়ে ব্যৱস্থাক বস্তুগত বোলা হয়। কেৱল নগদ, বিদেশী মুদ্ৰা আৰু কেৱল সোণ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-354",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's social order placed the king at the top followed by",
+      "as": "আহোম ৰাজ্যৰ সমাজ ব্যৱস্থাত ৰজাৰ তলত আছিল"
+    },
+    "options": [
+      {
+        "en": "slaves, then farmers",
+        "as": "দাস, তাৰ পিছত কৃষক"
+      },
+      {
+        "en": "nobles and officers, then paiks",
+        "as": "অভিজাত আৰু বিষয়া, তাৰ পিছত পাইক"
+      },
+      {
+        "en": "paiks, then nobles",
+        "as": "পাইক, তাৰ পিছত অভিজাত"
+      },
+      {
+        "en": "merchants, then priests",
+        "as": "বণিক, তাৰ পিছত পুৰোহিত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Nobles and officers ranked above paiks, which is why the order is described that way. The other sequences reverse or misplace the groups.",
+      "as": "অভিজাত আৰু বিষয়া পাইকতকৈ ওপৰত আছিল, সেয়ে ক্ৰম এনেদেৰে বৰ্ণনা কৰা হয়। বাকী ক্ৰমে গোটবোৰ ওলোটা বা ভুল ঠাইত ৰাখে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-355",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's legal disputes were usually settled first at the",
+      "as": "আহোম ৰাজ্যৰ আইনী বিবাদ সাধাৰণতে প্ৰথমে মীমাংসা কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "village or khel level",
+        "as": "গাঁও বা খেল পৰ্যায়ত"
+      },
+      {
+        "en": "British court",
+        "as": "ব্ৰিটিছ আদালতত"
+      },
+      {
+        "en": "Mughal qazi",
+        "as": "মোগল কাজীৰ ওচৰত"
+      },
+      {
+        "en": "temple authority",
+        "as": "মন্দিৰ কৰ্তৃপক্ষৰ ওচৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Local bodies heard cases first, which is why the system is described as graded. British courts, Mughal qazis and temple authority do not fit.",
+      "as": "স্থানীয় সংস্থাই প্ৰথমে গোচৰ শুনিছিল, সেয়ে ব্যৱস্থাক স্তৰযুক্ত বোলা হয়। ব্ৰিটিছ আদালত, মোগল কাজী আৰু মন্দিৰ কৰ্তৃপক্ষ নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-356",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's army included specialized units of",
+      "as": "আহোম ৰাজ্যৰ সেনাত বিশেষ একক আছিল"
+    },
+    "options": [
+      {
+        "en": "tank crews",
+        "as": "টেংক চলোৱা দল"
+      },
+      {
+        "en": "air force pilots",
+        "as": "বিমান বাহিনীৰ পাইলট"
+      },
+      {
+        "en": "artillery engineers only",
+        "as": "কেৱল কামান অভিযন্তা"
+      },
+      {
+        "en": "archers, spearmen and boatmen",
+        "as": "ধনুৰ্দ্ধৰ, বৰ্চাধাৰী আৰু নাওঁৱালা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Archers, spearmen and boatmen formed the forces, which is why they are named. Tanks, aircraft and artillery only are anachronistic.",
+      "as": "ধনুৰ্দ্ধৰ, বৰ্চাধাৰী আৰু নাওঁৱালাই বাহিনী গঠন কৰিছিল, সেয়ে সেয়া নাম দিয়া হয়। টেংক, বিমান আৰু কেৱল কামান কালবিৰুদ্ধ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-357",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's intelligence and messaging system relied on",
+      "as": "আহোম ৰাজ্যৰ গুপ্তচৰ আৰু বাৰ্তা ব্যৱস্থা নিৰ্ভৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "radio sets",
+        "as": "ৰেডিঅ' যন্ত্ৰৰ ওপৰত"
+      },
+      {
+        "en": "postal stamps",
+        "as": "ডাক টিকটৰ ওপৰত"
+      },
+      {
+        "en": "runners and river boats",
+        "as": "দৌৰিয়াল আৰু নদীৰ নাওৰ ওপৰত"
+      },
+      {
+        "en": "telegraph lines",
+        "as": "টেলিগ্ৰাফ লাইনৰ ওপৰত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Runners and boats carried messages, which is why the system is described that way. Telegraph, radio and stamps are modern.",
+      "as": "দৌৰিয়াল আৰু নাৱে বাৰ্তা কঢ়িয়াইছিল, সেয়ে ব্যৱস্থা এনেদৰে বৰ্ণনা কৰা হয়। টেলিগ্ৰাফ, ৰেডিঅ' আৰু টিকট আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-358",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's construction of the 'Gargaon' palace is attributed to",
+      "as": "গড়গাঁও ৰাজপ্ৰাসাদ নিৰ্মাণৰ কৃতিত্ব কাক দিয়া হয়"
+    },
+    "options": [
+      {
+        "en": "the Mughals",
+        "as": "মোগলসকলক"
+      },
+      {
+        "en": "Suhungmung and later kings",
+        "as": "চুহুংমুং আৰু পিছৰ ৰজাসকলক"
+      },
+      {
+        "en": "Sukapha alone",
+        "as": "কেৱল চুকাফাক"
+      },
+      {
+        "en": "the British",
+        "as": "ব্ৰিটিছক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Garhgaon's buildings belong to Suhungmung's line, which is why he is named. Sukapha predates it, and the British and Mughals did not build it.",
+      "as": "গড়গাঁৱৰ ভৱন চুহুংমুঙৰ বংশৰ, সেয়ে তেওঁৰ নাম দিয়া হয়। চুকাফা তাৰ আগৰ, আৰু ব্ৰিটিছ তথা মোগলে নিৰ্মাণ কৰা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-359",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's tanks such as the Sivasagar tank were built for",
+      "as": "শিৱসাগৰ পুখুৰী আদি আহোম ৰাজ্যৰ পুখুৰী নিৰ্মাণ কৰা হৈছিল কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "water supply and religious merit",
+        "as": "জল যোগান আৰু ধৰ্মীয় পুণ্যৰ বাবে"
+      },
+      {
+        "en": "military parades",
+        "as": "সামৰিক কুচকাৱাজৰ বাবে"
+      },
+      {
+        "en": "tea processing",
+        "as": "চাহ প্ৰক্ৰিয়াকৰণৰ বাবে"
+      },
+      {
+        "en": "oil refining",
+        "as": "তেল শোধনৰ বাবে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tanks served water needs and merit, which is why they are recorded. Parades, tea and oil are unrelated.",
+      "as": "পুখুৰীয়ে জলৰ প্ৰয়োজন আৰু পুণ্য দুয়োটা সামৰিছিল, সেয়ে সেয়া লিপিবদ্ধ। কুচকাৱাজ, চাহ আৰু তেল অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-360",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's temples at Sivasagar include the",
+      "as": "শিৱসাগৰত আহোম ৰাজ্যৰ মন্দিৰৰ অন্তৰ্ভুক্ত"
+    },
+    "options": [
+      {
+        "en": "Kamakhya and Umananda",
+        "as": "কামাখ্যা আৰু উমানন্দ"
+      },
+      {
+        "en": "Hayagriva Madhava",
+        "as": "হয়গ্ৰীৱ মাধৱ"
+      },
+      {
+        "en": "Da-Parbatia",
+        "as": "দ-পৰ্বতীয়া"
+      },
+      {
+        "en": "Shiva Dol and Devi Dol",
+        "as": "শিৱ দ'ল আৰু দেৱী দ'ল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Sivasagar group includes the Shiva and Devi dols, which is why they are named. Kamakhya and Umananda are near Guwahati, Hayagriva is at Hajo and Da-Parbatia is ancient.",
+      "as": "শিৱসাগৰৰ গোটত শিৱ আৰু দেৱী দ'ল আছে, সেয়ে সেয়া নাম দিয়া হয়। কামাখ্যা আৰু উমানন্দ গুৱাহাটীৰ ওচৰত, হয়গ্ৰীৱ হাজোত আৰু দ-পৰ্বতীয়া প্ৰাচীন।"
+    }
+  },
+  {
+    "id": "assam-history-extra-361",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's Rang Ghar at Sivasagar was used as",
+      "as": "শিৱসাগৰৰ ৰংঘৰ ব্যৱহৃত হৈছিল কাৰ হিচাপে"
+    },
+    "options": [
+      {
+        "en": "a treasury",
+        "as": "ভঁৰাল হিচাপে"
+      },
+      {
+        "en": "a prison",
+        "as": "কাৰাগাৰ হিচাপে"
+      },
+      {
+        "en": "an amphitheatre for royal sports",
+        "as": "ৰাজকীয় খেলৰ বাবে ৰঙ্গমঞ্চ হিচাপে"
+      },
+      {
+        "en": "a temple",
+        "as": "মন্দিৰ হিচাপে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rang Ghar hosted games and assemblies, which is why it is called an amphitheatre. Temple, treasury and prison are different buildings.",
+      "as": "ৰংঘৰে খেল আৰু সভা পাতিছিল, সেয়ে ইয়াক ৰঙ্গমঞ্চ বোলা হয়। মন্দিৰ, ভঁৰাল আৰু কাৰাগাৰ বেলেগ ভৱন।"
+    }
+  },
+  {
+    "id": "assam-history-extra-362",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's 'Talatal Ghar' is notable as a",
+      "as": "আহোম ৰাজ্যৰ 'তলাতল ঘৰ' কাৰ বাবে উল্লেখযোগ্য"
+    },
+    "options": [
+      {
+        "en": "granary",
+        "as": "শস্যাগাৰ"
+      },
+      {
+        "en": "multi storey palace with underground levels",
+        "as": "ভূগৰ্ভ স্তৰযুক্ত বহুতল ৰাজপ্ৰাসাদ"
+      },
+      {
+        "en": "temple tower",
+        "as": "মন্দিৰৰ চূড়া"
+      },
+      {
+        "en": "river bridge",
+        "as": "নদীৰ দলং"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Talatal Ghar has underground chambers, which is why it is described that way. Temple towers, bridges and granaries are different.",
+      "as": "তলাতল ঘৰত ভূগৰ্ভ কক্ষ আছে, সেয়ে ইয়াক এনেদৰে বৰ্ণনা কৰা হয়। মন্দিৰ চূড়া, দলং আৰু শস্যাগাৰ বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-363",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's 'Karen Ghar' and similar structures served as",
+      "as": "আহোম ৰাজ্যৰ 'কাৰেং ঘৰ' আদি গঠন কাৰ হিচাপে কাম কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "royal residential buildings",
+        "as": "ৰাজকীয় বাসগৃহ হিচাপে"
+      },
+      {
+        "en": "market halls",
+        "as": "বজাৰ ঘৰ হিচাপে"
+      },
+      {
+        "en": "schools",
+        "as": "বিদ্যালয় হিচাপে"
+      },
+      {
+        "en": "hospitals",
+        "as": "চিকিৎসালয় হিচাপে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kareng Ghar was a royal residence, which is why it is named among palaces. Markets, schools and hospitals are different.",
+      "as": "কাৰেং ঘৰ ৰাজকীয় বাসগৃহ আছিল, সেয়ে ইয়াক ৰাজপ্ৰাসাদৰ মাজত নাম দিয়া হয়। বজাৰ, বিদ্যালয় আৰু চিকিৎসালয় বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-364",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's chronicles attribute the introduction of the Assamese script in royal records to",
+      "as": "ৰাজকীয় ৰেকৰ্ডত অসমীয়া লিপি প্ৰৱৰ্তনৰ কৃতিত্ব আহোম বুৰঞ্জীয়ে কাক দিয়ে"
+    },
+    "options": [
+      {
+        "en": "Sukapha directly",
+        "as": "প্ৰত্যক্ষভাৱে চুকাফাক"
+      },
+      {
+        "en": "the British",
+        "as": "ব্ৰিটিছক"
+      },
+      {
+        "en": "the Mughals",
+        "as": "মোগলসকলক"
+      },
+      {
+        "en": "a gradual process under later Ahom kings",
+        "as": "পিছৰ আহোম ৰজাসকলৰ অধীনত ক্ৰমিক প্ৰক্ৰিয়াক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The change came gradually, which is why no single king is credited. Sukapha, the British and the Mughals are not the source.",
+      "as": "পৰিৱৰ্তন ক্ৰমে আহিছিল, সেয়ে এজন ৰজাক কৃতিত্ব দিয়া নহয়। চুকাফা, ব্ৰিটিছ আৰু মোগল উৎস নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-365",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main reason for maintaining chronicles was to",
+      "as": "বুৰঞ্জী ৰখাৰ আহোম ৰাজ্যৰ প্ৰধান কাৰণ আছিল"
+    },
+    "options": [
+      {
+        "en": "teach English",
+        "as": "ইংৰাজী শিকোৱা"
+      },
+      {
+        "en": "record tea prices",
+        "as": "চাহৰ মূল্য লিপিবদ্ধ কৰা"
+      },
+      {
+        "en": "legitimise the ruling line and record precedent",
+        "as": "শাসক বংশ বৈধ কৰা আৰু নজিৰ লিপিবদ্ধ কৰা"
+      },
+      {
+        "en": "entertain visitors",
+        "as": "আগন্তুক মনোৰঞ্জন কৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Legitimacy and precedent explain the chronicles, which is why they are court documents. Entertainment, English teaching and tea prices are wrong.",
+      "as": "বৈধতা আৰু নজিৰে বুৰঞ্জী ব্যাখ্যা কৰে, সেয়ে সেয়া দৰবাৰৰ দস্তাবেজ। মনোৰঞ্জন, ইংৰাজী শিক্ষা আৰু চাহৰ মূল্য ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-366",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's relations with the British before 1826 were limited because",
+      "as": "১৮২৬ চনৰ আগতে ব্ৰিটিছৰ লগত আহোম ৰাজ্যৰ সম্পৰ্ক সীমিত আছিল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "no trade existed",
+        "as": "কোনো বাণিজ্য নাছিল"
+      },
+      {
+        "en": "the Ahom state dealt mainly with Bengal through trade",
+        "as": "আহোম ৰাজ্যই বাণিজ্যৰ জৰিয়তে মূলতঃ বংগৰ লগত সম্পৰ্ক ৰাখিছিল"
+      },
+      {
+        "en": "the British had no presence in India",
+        "as": "ভাৰতত ব্ৰিটিছৰ উপস্থিতি নাছিল"
+      },
+      {
+        "en": "Assam was an island",
+        "as": "অসম দ্বীপ আছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Trade with Bengal mediated the contact, which is why it was indirect. No British presence, an island and no trade are wrong.",
+      "as": "বংগৰ লগত বাণিজ্যই সংযোগৰ মধ্যস্থতা কৰিছিল, সেয়ে ই পৰোক্ষ আছিল। ব্ৰিটিছ উপস্থিতিহীনতা, দ্বীপ আৰু বাণিজ্যহীনতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-367",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's final collapse was triggered by the combination of",
+      "as": "আহোম ৰাজ্যৰ চূড়ান্ত পতন কাৰ সংমিশ্ৰণে আৰম্ভ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "internal rebellion and Burmese intervention",
+        "as": "আভ্যন্তৰীণ বিদ্ৰোহ আৰু বাৰ্মী হস্তক্ষেপ"
+      },
+      {
+        "en": "a Mughal invasion alone",
+        "as": "কেৱল মোগল আক্ৰমণ"
+      },
+      {
+        "en": "a British invasion alone",
+        "as": "কেৱল ব্ৰিটিছ আক্ৰমণ"
+      },
+      {
+        "en": "a Chinese invasion",
+        "as": "চীনা আক্ৰমণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rebellion invited Burmese involvement, which is why the combination is cited. Mughal, British and Chinese invasions alone do not explain it.",
+      "as": "বিদ্ৰোহে বাৰ্মী জড়িততা আমন্ত্ৰণ কৰিছিল, সেয়ে সংমিশ্ৰণ উদ্ধৃত। কেৱল মোগল, ব্ৰিটিছ আৰু চীনা আক্ৰমণে ইয়াক ব্যাখ্যা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-368",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's population was organised so that every adult male was",
+      "as": "আহোম ৰাজ্যৰ জনসংখ্যা এনেদৰে সংগঠিত আছিল যে প্ৰতিজন প্ৰাপ্তবয়স্ক পুৰুষ আছিল"
+    },
+    "options": [
+      {
+        "en": "exempt from all duty",
+        "as": "সকলো কৰ্তব্যৰপৰা মুক্ত"
+      },
+      {
+        "en": "a soldier for life",
+        "as": "জীৱনভৰ সৈনিক"
+      },
+      {
+        "en": "a priest",
+        "as": "পুৰোহিত"
+      },
+      {
+        "en": "enrolled as a paik for state service",
+        "as": "ৰাজ্যিক সেৱাৰ বাবে পাইক হিচাপে তালিকাভুক্ত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Enrolment made the system work, which is why paik status is central. Exemption, lifetime soldiering and priesthood are wrong.",
+      "as": "তালিকাভুক্তিয়েই ব্যৱস্থা চলাইছিল, সেয়ে পাইক স্থিতি কেন্দ্ৰীয়। মুক্তি, জীৱনভৰ সৈনিকত্ব আৰু পুৰোহিতত্ব ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-369",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's 'Chaklang' was a",
+      "as": "আহোম ৰাজ্যৰ 'চকলং' আছিল এটা"
+    },
+    "options": [
+      {
+        "en": "type of boat",
+        "as": "এবিধ নাও"
+      },
+      {
+        "en": "land measure",
+        "as": "ভূমি জোখ"
+      },
+      {
+        "en": "body of officials who supervised paik work",
+        "as": "পাইকৰ কাম তদাৰক কৰা বিষয়াৰ গোট"
+      },
+      {
+        "en": "temple festival",
+        "as": "মন্দিৰৰ উৎসৱ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Chaklang supervised labour, which is why the term appears in administrative lists. Festivals, boats and measures are different.",
+      "as": "চকলঙে শ্ৰম তদাৰক কৰিছিল, সেয়ে শব্দটো প্ৰশাসনিক তালিকাত ওলায়। উৎসৱ, নাও আৰু জোখ বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-370",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's 'Pani Phukan' was responsible for",
+      "as": "আহোম ৰাজ্যৰ 'পানি ফুকন' কাৰ বাবে দায়বদ্ধ আছিল"
+    },
+    "options": [
+      {
+        "en": "foreign trade only",
+        "as": "কেৱল বিদেশী বাণিজ্য"
+      },
+      {
+        "en": "river and boat administration",
+        "as": "নদী আৰু নাৱৰ প্ৰশাসন"
+      },
+      {
+        "en": "land revenue only",
+        "as": "কেৱল ভূমি ৰাজহ"
+      },
+      {
+        "en": "temple lands",
+        "as": "মন্দিৰৰ ভূমি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Pani Phukan handled river matters, which is why the title mentions water. Land revenue, temple lands and foreign trade were other charges.",
+      "as": "পানি ফুকনে নদীৰ বিষয় চম্ভালিছিল, সেয়ে উপাধিত পানীৰ উল্লেখ। ভূমি ৰাজহ, মন্দিৰ ভূমি আৰু বিদেশী বাণিজ্য আন দায়িত্ব।"
+    }
+  },
+  {
+    "id": "assam-history-extra-371",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's 'Deka Phukan' and similar offices dealt mainly with",
+      "as": "আহোম ৰাজ্যৰ 'ডেকা ফুকন' আদি পদে মূলতঃ কাৰ লগত কাম কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "younger officials and household troops",
+        "as": "ডেকা বিষয়া আৰু গৃহৰক্ষী সৈন্য"
+      },
+      {
+        "en": "temple rituals",
+        "as": "মন্দিৰৰ ৰীতি"
+      },
+      {
+        "en": "land surveys",
+        "as": "ভূমি জৰীপ"
+      },
+      {
+        "en": "overseas trade",
+        "as": "বিদেশী বাণিজ্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Deka officers led younger troops, which is why the title is read that way. Rituals, surveys and overseas trade are different.",
+      "as": "ডেকা বিষয়াসকলে ডেকা সৈন্যৰ নেতৃত্ব দিছিল, সেয়ে উপাধি এনেদৰে পঢ়া হয়। ৰীতি, জৰীপ আৰু বিদেশী বাণিজ্য বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-372",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's 'Hazarika' title indicated command over",
+      "as": "আহোম ৰাজ্যৰ 'হাজাৰিকা' উপাধিয়ে কাৰ ওপৰত নেতৃত্ব সূচায়"
+    },
+    "options": [
+      {
+        "en": "a hundred boats",
+        "as": "এশ নাও"
+      },
+      {
+        "en": "ten temples",
+        "as": "দহ মন্দিৰ"
+      },
+      {
+        "en": "one village",
+        "as": "এখন গাঁও"
+      },
+      {
+        "en": "a thousand paiks",
+        "as": "এহেজাৰ পাইক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The title literally means a thousand, which is why it is a troop command. Boats, temples and villages are not what the number denotes.",
+      "as": "উপাধিৰ আক্ষৰিক অৰ্থ এহেজাৰ, সেয়ে ই সৈন্য নেতৃত্ব। নাও, মন্দিৰ আৰু গাঁও সংখ্যাটোৱে নুবুজায়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-373",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's 'Saikia' title indicated command over",
+      "as": "আহোম ৰাজ্যৰ 'শইকীয়া' উপাধিয়ে কাৰ ওপৰত নেতৃত্ব সূচায়"
+    },
+    "options": [
+      {
+        "en": "ten villages",
+        "as": "দহ গাঁও"
+      },
+      {
+        "en": "all temples",
+        "as": "সকলো মন্দিৰ"
+      },
+      {
+        "en": "a hundred paiks",
+        "as": "এশ পাইক"
+      },
+      {
+        "en": "a thousand boats",
+        "as": "এহেজাৰ নাও"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Saikia means a hundred, which is why it is a smaller command than Hazarika. Boats, villages and temples are not the unit.",
+      "as": "শইকীয়াৰ অৰ্থ এশ, সেয়ে ই হাজাৰিকাতকৈ সৰু নেতৃত্ব। নাও, গাঁও আৰু মন্দিৰ একক নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-374",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's 'Bora' title indicated command over",
+      "as": "আহোম ৰাজ্যৰ 'বৰা' উপাধিয়ে কাৰ ওপৰত নেতৃত্ব সূচায়"
+    },
+    "options": [
+      {
+        "en": "ten temples",
+        "as": "দহ মন্দিৰ"
+      },
+      {
+        "en": "twenty paiks",
+        "as": "বিশ পাইক"
+      },
+      {
+        "en": "a thousand paiks",
+        "as": "এহেজাৰ পাইক"
+      },
+      {
+        "en": "a hundred boats",
+        "as": "এশ নাও"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bora commanded twenty, which is why the ranks form a ladder from Bora to Saikia to Hazarika. The other figures belong to different titles.",
+      "as": "বৰাই বিশজনৰ নেতৃত্ব দিছিল, সেয়ে বৰাৰপৰা শইকীয়া আৰু হাজাৰিকালৈ পদ সোপান গঢ়ে। আন সংখ্যা বেলেগ উপাধিৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-375",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's chain of command from Bora to Saikia to Hazarika shows",
+      "as": "বৰাৰপৰা শইকীয়া আৰু হাজাৰিকালৈ আহোম ৰাজ্যৰ আদেশ শৃংখলাই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "a graded military and labour organisation",
+        "as": "স্তৰযুক্ত সামৰিক আৰু শ্ৰম সংগঠন"
+      },
+      {
+        "en": "an absence of organisation",
+        "as": "সংগঠনৰ অভাৱ"
+      },
+      {
+        "en": "a modern bureaucracy",
+        "as": "আধুনিক আমলাতন্ত্ৰ"
+      },
+      {
+        "en": "European influence",
+        "as": "ইউৰোপীয় প্ৰভাৱ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ladder of ranks is a graded structure, which is why the reading is organisational. Absence of organisation, modern bureaucracy and European influence are wrong.",
+      "as": "পদৰ সোপানে স্তৰযুক্ত গাঁথনি, সেয়ে পঢ়াটো সংগঠনমূলক। সংগঠনহীনতা, আধুনিক আমলাতন্ত্ৰ আৰু ইউৰোপীয় প্ৰভাৱ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-376",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's control over the hill routes to Tibet was important because it",
+      "as": "তিব্বতলৈ পাহাৰীয়া পথৰ ওপৰত আহোম ৰাজ্যৰ নিয়ন্ত্ৰণ গুৰুত্বপূৰ্ণ আছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "ended all trade",
+        "as": "সকলো বাণিজ্য অন্ত কৰিছিল"
+      },
+      {
+        "en": "brought the British",
+        "as": "ব্ৰিটিছ আনিছিল"
+      },
+      {
+        "en": "created the tea industry",
+        "as": "চাহ উদ্যোগ সৃষ্টি কৰিছিল"
+      },
+      {
+        "en": "secured trade and intelligence routes",
+        "as": "বাণিজ্য আৰু গুপ্তচৰ পথ সুৰক্ষিত কৰিছিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Routes carried goods and news, which is why control mattered. Ending trade, bringing the British and creating tea are wrong.",
+      "as": "পথে সামগ্ৰী আৰু বাতৰি কঢ়িয়াইছিল, সেয়ে নিয়ন্ত্ৰণ গুৰুত্বপূৰ্ণ। বাণিজ্য অন্ত, ব্ৰিটিছ আমন্ত্ৰণ আৰু চাহ সৃষ্টি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-377",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main source of horses for cavalry was",
+      "as": "অশ্বাৰোহী বাহিনীৰ বাবে আহোম ৰাজ্যৰ ঘোঁৰাৰ প্ৰধান উৎস আছিল"
+    },
+    "options": [
+      {
+        "en": "Europe",
+        "as": "ইউৰোপ"
+      },
+      {
+        "en": "Africa",
+        "as": "আফ্ৰিকা"
+      },
+      {
+        "en": "trade with Tibet and neighbouring regions",
+        "as": "তিব্বত আৰু চুবুৰীয়া অঞ্চলৰ লগত বাণিজ্য"
+      },
+      {
+        "en": "local breeding alone",
+        "as": "কেৱল স্থানীয় প্ৰজনন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Horses came through trade, which is why the routes mattered militarily. Local breeding alone, Europe and Africa are not the source.",
+      "as": "ঘোঁৰা বাণিজ্যৰ জৰিয়তে আহিছিল, সেয়ে পথ সামৰিকভাৱে গুৰুত্বপূৰ্ণ। কেৱল স্থানীয় প্ৰজনন, ইউৰোপ আৰু আফ্ৰিকা উৎস নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-378",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's firearms in the seventeenth century were obtained mainly through",
+      "as": "সপ্তদশ শতিকাত আহোম ৰাজ্যৰ বন্দুক মূলতঃ কাৰ জৰিয়তে পোৱা গৈছিল"
+    },
+    "options": [
+      {
+        "en": "Chinese aid",
+        "as": "চীনা সহায়"
+      },
+      {
+        "en": "trade and captured Mughal equipment",
+        "as": "বাণিজ্য আৰু বন্দী মোগল সঁজুলিৰ জৰিয়তে"
+      },
+      {
+        "en": "local mass production",
+        "as": "স্থানীয় বৃহৎ উৎপাদন"
+      },
+      {
+        "en": "British factories",
+        "as": "ব্ৰিটিছ কাৰখানা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Trade and captured arms supplied the force, which is why both are cited. Mass production, British factories and Chinese aid are wrong.",
+      "as": "বাণিজ্য আৰু বন্দী অস্ত্ৰই বাহিনীক যোগান ধৰিছিল, সেয়ে দুয়ো উদ্ধৃত। বৃহৎ উৎপাদন, ব্ৰিটিছ কাৰখানা আৰু চীনা সহায় ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-379",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's use of gunpowder weapons is shown by",
+      "as": "আহোম ৰাজ্যৰ বাৰুদ অস্ত্ৰৰ ব্যৱহাৰ দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "references in the buranjis and finds at forts",
+        "as": "বুৰঞ্জীৰ উল্লেখ আৰু দুৰ্গত পোৱা সামগ্ৰীয়ে"
+      },
+      {
+        "en": "modern films",
+        "as": "আধুনিক চলচ্চিত্ৰই"
+      },
+      {
+        "en": "British novels",
+        "as": "ব্ৰিটিছ উপন্যাসই"
+      },
+      {
+        "en": "Mughal paintings alone",
+        "as": "কেৱল মোগল চিত্ৰই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Records and finds are the evidence, which is why they are cited. Films, novels and paintings alone are not the base.",
+      "as": "ৰেকৰ্ড আৰু প্ৰাপ্তি প্ৰমাণ, সেয়ে সেয়া উদ্ধৃত। চলচ্চিত্ৰ, উপন্যাস আৰু কেৱল চিত্ৰ ভেটি নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-380",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's defeat of the Mughals at Saraighat is commemorated in Assam as",
+      "as": "সৰাইঘাটত মোগলৰ ওপৰত আহোম বিজয় অসমত কাৰ হিচাপে স্মৰণ কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "a British victory",
+        "as": "ব্ৰিটিছ বিজয় হিচাপে"
+      },
+      {
+        "en": "a Mughal festival",
+        "as": "মোগল উৎসৱ হিচাপে"
+      },
+      {
+        "en": "a religious rite",
+        "as": "ধৰ্মীয় ৰীতি হিচাপে"
+      },
+      {
+        "en": "a symbol of resistance and local skill",
+        "as": "প্ৰতিৰোধ আৰু স্থানীয় দক্ষতাৰ প্ৰতীক হিচাপে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The battle is remembered for resistance, which is why Lachit is honoured. British victory, Mughal festival and religious rite are wrong.",
+      "as": "যুদ্ধ প্ৰতিৰোধৰ বাবে স্মৰণীয়, সেয়ে লাচিতক সন্মান কৰা হয়। ব্ৰিটিছ বিজয়, মোগল উৎসৱ আৰু ধৰ্মীয় ৰীতি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-381",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's Lachit Borphukan is remembered for his",
+      "as": "আহোম ৰাজ্যৰ লাচিত বৰফুকন স্মৰণীয় কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "temple construction",
+        "as": "মন্দিৰ নিৰ্মাণৰ বাবে"
+      },
+      {
+        "en": "trade missions",
+        "as": "বাণিজ্য অভিযানৰ বাবে"
+      },
+      {
+        "en": "leadership and personal courage in battle",
+        "as": "যুদ্ধত নেতৃত্ব আৰু ব্যক্তিগত সাহসৰ বাবে"
+      },
+      {
+        "en": "literary works",
+        "as": "সাহিত্য ৰচনাৰ বাবে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Lachit is honoured for command and courage, which is why the battle is linked to him. Literature, temples and trade are not his fame.",
+      "as": "লাচিত নেতৃত্ব আৰু সাহসৰ বাবে সন্মানিত, সেয়ে যুদ্ধ তেওঁৰ লগত জড়িত। সাহিত্য, মন্দিৰ আৰু বাণিজ্য তেওঁৰ খ্যাতি নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-382",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's Lachit Borphukan is said to have been trained under",
+      "as": "লাচিত বৰফুকনক প্ৰশিক্ষণ দিয়া হৈছিল বুলি কোৱা হয় কাৰ অধীনত"
+    },
+    "options": [
+      {
+        "en": "a Burmese monk",
+        "as": "এজন বাৰ্মী ভিক্ষুৰ"
+      },
+      {
+        "en": "his uncle, a senior Ahom officer",
+        "as": "তেওঁৰ খুড়াক, এজন জ্যেষ্ঠ আহোম বিষয়াৰ"
+      },
+      {
+        "en": "a British general",
+        "as": "এজন ব্ৰিটিছ জেনেৰেলৰ"
+      },
+      {
+        "en": "a Mughal commander",
+        "as": "এজন মোগল সেনাপতিৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Family training in the Ahom service is recorded, which is why the uncle is named. British, Mughal and Burmese teachers are wrong.",
+      "as": "আহোম সেৱাত পাৰিবাৰিক প্ৰশিক্ষণ লিপিবদ্ধ, সেয়ে খুড়াকৰ নাম দিয়া হয়। ব্ৰিটিছ, মোগল আৰু বাৰ্মী শিক্ষক ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-383",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's Saraighat campaign is studied as an example of",
+      "as": "সৰাইঘাট অভিযান কাৰ উদাহৰণ হিচাপে অধ্যয়ন কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "river warfare and use of terrain",
+        "as": "নদী যুদ্ধ আৰু ভূ-প্ৰকৃতিৰ ব্যৱহাৰ"
+      },
+      {
+        "en": "cavalry charges",
+        "as": "অশ্বাৰোহী আক্ৰমণ"
+      },
+      {
+        "en": "siege artillery",
+        "as": "অৱৰোধ কামান"
+      },
+      {
+        "en": "naval gunnery only",
+        "as": "কেৱল নৌ কামান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Boats and terrain decided the battle, which is why river warfare is the label. Cavalry, siege artillery and naval gunnery do not describe it.",
+      "as": "নাও আৰু ভূ-প্ৰকৃতিয়ে যুদ্ধ নিৰ্ধাৰণ কৰিছিল, সেয়ে নদী যুদ্ধ লেবেল। অশ্বাৰোহী, অৱৰোধ কামান আৰু নৌ কামানে ইয়াৰ বৰ্ণনা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-384",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's relations with the Dimasa Kachari kingdom included",
+      "as": "ডিমাছা কছাৰী ৰাজ্যৰ লগত আহোম ৰাজ্যৰ সম্পৰ্কত আছিল"
+    },
+    "options": [
+      {
+        "en": "a permanent union",
+        "as": "স্থায়ী সংযোগ"
+      },
+      {
+        "en": "complete isolation",
+        "as": "সম্পূৰ্ণ বিচ্ছিন্নতা"
+      },
+      {
+        "en": "a shared navy",
+        "as": "সহভাগী নৌসেনা"
+      },
+      {
+        "en": "both conflict and matrimonial alliances",
+        "as": "সংঘাত আৰু বিবাহ মিত্ৰতা দুয়োটা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "War and marriage both appear, which is why the relation is described as mixed. Permanent union, isolation and a shared navy are wrong.",
+      "as": "যুদ্ধ আৰু বিবাহ দুয়ো ওলায়, সেয়ে সম্পৰ্ক মিশ্ৰিত বুলি বৰ্ণনা কৰা হয়। স্থায়ী সংযোগ, বিচ্ছিন্নতা আৰু সহভাগী নৌসেনা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-385",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's relations with the Jaintia and Kachari states were complicated by",
+      "as": "জয়ন্তীয়া আৰু কছাৰী ৰাজ্যৰ লগত আহোম ৰাজ্যৰ সম্পৰ্ক কাৰ দ্বাৰা জটিল হৈছিল"
+    },
+    "options": [
+      {
+        "en": "a common navy",
+        "as": "সহভাগী নৌসেনাৰ দ্বাৰা"
+      },
+      {
+        "en": "European mediation",
+        "as": "ইউৰোপীয় মধ্যস্থতাৰ দ্বাৰা"
+      },
+      {
+        "en": "competing claims over border areas and trade routes",
+        "as": "সীমান্ত অঞ্চল আৰু বাণিজ্য পথৰ প্ৰতিদ্বন্দ্বী দাবীৰ দ্বাৰা"
+      },
+      {
+        "en": "a lack of any border",
+        "as": "সীমা নথকাৰ দ্বাৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Borders and routes caused friction, which is why the relation is described as complex. No border, a common navy and European mediation are wrong.",
+      "as": "সীমা আৰু পথে ঘৰ্ষণ সৃষ্টি কৰিছিল, সেয়ে সম্পৰ্কক জটিল বোলা হয়। সীমাহীনতা, সহভাগী নৌসেনা আৰু ইউৰোপীয় মধ্যস্থতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-386",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's expansion under Suhungmung is also remembered for",
+      "as": "চুহুংমুঙৰ অধীনত আহোম ৰাজ্যৰ বিস্তাৰ এইটোৰ বাবেও স্মৰণীয়"
+    },
+    "options": [
+      {
+        "en": "the tea industry",
+        "as": "চাহ উদ্যোগৰ বাবে"
+      },
+      {
+        "en": "the survey of the kingdom and administrative reform",
+        "as": "ৰাজ্যৰ জৰীপ আৰু প্ৰশাসনিক সংস্কাৰৰ বাবে"
+      },
+      {
+        "en": "the treaty of Yandabo",
+        "as": "য়াণ্ডাবু সন্ধিৰ বাবে"
+      },
+      {
+        "en": "the British annexation",
+        "as": "ব্ৰিটিছ সংযুক্তিৰ বাবে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Suhungmung's reign is linked to surveys and reform, which is why it is a turning point. Yandabo, British annexation and tea are later.",
+      "as": "চুহুংমুঙৰ ৰাজত্ব জৰীপ আৰু সংস্কাৰৰ লগত জড়িত, সেয়ে ই মোড়। য়াণ্ডাবু, ব্ৰিটিছ সংযুক্তি আৰু চাহ পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-387",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's administrative survey under Suhungmung was important because it",
+      "as": "চুহুংমুঙৰ অধীনত আহোম ৰাজ্যৰ প্ৰশাসনিক জৰীপ গুৰুত্বপূৰ্ণ আছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "measured the kingdom's resources and manpower",
+        "as": "ৰাজ্যৰ সম্পদ আৰু জনশক্তি জোখিছিল"
+      },
+      {
+        "en": "ended agriculture",
+        "as": "কৃষি অন্ত কৰিছিল"
+      },
+      {
+        "en": "abolished the army",
+        "as": "সেনা বিলুপ্ত কৰিছিল"
+      },
+      {
+        "en": "stopped all trade",
+        "as": "সকলো বাণিজ্য বন্ধ কৰিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Resources and manpower were counted, which is why the survey mattered. Ending farming, abolishing the army and stopping trade are wrong.",
+      "as": "সম্পদ আৰু জনশক্তি গণনা কৰা হৈছিল, সেয়ে জৰীপ গুৰুত্বপূৰ্ণ। কৃষি অন্ত, সেনা বিলুপ্তি আৰু বাণিজ্য বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-388",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's chronicles record Suhungmung's campaigns against the",
+      "as": "আহোম বুৰঞ্জীয়ে চুহুংমুঙৰ অভিযান লিপিবদ্ধ কৰে কাৰ বিৰুদ্ধে"
+    },
+    "options": [
+      {
+        "en": "British and French",
+        "as": "ব্ৰিটিছ আৰু ফৰাচীৰ বিৰুদ্ধে"
+      },
+      {
+        "en": "Mughals and Marathas",
+        "as": "মোগল আৰু মাৰাঠাৰ বিৰুদ্ধে"
+      },
+      {
+        "en": "Burmese and Chinese",
+        "as": "বাৰ্মী আৰু চীনাৰ বিৰুদ্ধে"
+      },
+      {
+        "en": "Chutiya and Kachari kingdoms",
+        "as": "চুতীয়া আৰু কছাৰী ৰাজ্যৰ বিৰুদ্ধে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Eastern and southern neighbours were the target, which is why those kingdoms are named. The others were not the enemy in his campaigns.",
+      "as": "পূব আৰু দক্ষিণৰ চুবুৰীয়া লক্ষ্য আছিল, সেয়ে সেই ৰাজ্যৰ নাম দিয়া হয়। বাকীসকল তেওঁৰ অভিযানত শত্ৰু নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-389",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's annexation of the Chutiya territory gave it control over",
+      "as": "চুতীয়া ভূখণ্ড সংযুক্তিয়ে আহোম ৰাজ্যক কাৰ ওপৰত নিয়ন্ত্ৰণ দিছিল"
+    },
+    "options": [
+      {
+        "en": "the Bengal delta",
+        "as": "বংগ বদ্বীপ"
+      },
+      {
+        "en": "the Naga hills only",
+        "as": "কেৱল নগা পাহাৰ"
+      },
+      {
+        "en": "the upper Brahmaputra valley and its routes",
+        "as": "উজনি ব্ৰহ্মপুত্ৰ উপত্যকা আৰু তাৰ পথ"
+      },
+      {
+        "en": "the Barak valley",
+        "as": "বৰাক উপত্যকা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The upper valley came under Ahom control, which is why the annexation mattered. The Barak valley, Bengal and the Naga hills are other areas.",
+      "as": "উজনি উপত্যকা আহোম নিয়ন্ত্ৰণলৈ আহিছিল, সেয়ে সংযুক্তি গুৰুত্বপূৰ্ণ। বৰাক উপত্যকা, বংগ আৰু নগা পাহাৰ আন অঞ্চল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-390",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's control of Sadiya was important because it",
+      "as": "সদিয়া নিয়ন্ত্ৰণ আহোম ৰাজ্যৰ বাবে গুৰুত্বপূৰ্ণ আছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "ended the satra system",
+        "as": "সত্ৰ ব্যৱস্থা অন্ত কৰিছিল"
+      },
+      {
+        "en": "anchored the north eastern frontier and trade",
+        "as": "উত্তৰ-পূব সীমান্ত আৰু বাণিজ্য স্থিৰ কৰিছিল"
+      },
+      {
+        "en": "gave access to the sea",
+        "as": "সাগৰলৈ প্ৰৱেশ দিছিল"
+      },
+      {
+        "en": "brought the British in",
+        "as": "ব্ৰিটিছক আনিছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Sadiya secured the frontier, which is why it was garrisoned. Sea access, British entry and the satra system are unrelated.",
+      "as": "সদিয়াই সীমান্ত সুৰক্ষিত কৰিছিল, সেয়ে তাত সৈন্য ৰখা হৈছিল। সাগৰ প্ৰৱেশ, ব্ৰিটিছ আগমন আৰু সত্ৰ ব্যৱস্থা অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-391",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's authority over the Mishmi and other frontier groups was maintained through",
+      "as": "মিছমি আৰু আন সীমান্ত গোটৰ ওপৰত আহোম ৰাজ্যৰ কৰ্তৃত্ব ৰক্ষা কৰা হৈছিল কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "tribute and periodic expeditions",
+        "as": "কৰ আৰু সময়ে সময়ে অভিযানৰ জৰিয়তে"
+      },
+      {
+        "en": "complete annexation",
+        "as": "সম্পূৰ্ণ সংযুক্তিৰ জৰিয়তে"
+      },
+      {
+        "en": "religious conversion",
+        "as": "ধৰ্মান্তৰৰ জৰিয়তে"
+      },
+      {
+        "en": "British mediation",
+        "as": "ব্ৰিটিছ মধ্যস্থতাৰ জৰিয়তে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tribute and shows of force kept the frontier, which is why both are cited. Annexation, conversion and British mediation do not fit.",
+      "as": "কৰ আৰু শক্তি প্ৰদৰ্শনে সীমান্ত ৰাখিছিল, সেয়ে দুয়ো উদ্ধৃত। সংযুক্তি, ধৰ্মান্তৰ আৰু ব্ৰিটিছ মধ্যস্থতা নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-392",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main reason for settling soldiers in frontier areas was to",
+      "as": "সীমান্ত অঞ্চলত সৈন্য বহুওৱাৰ আহোম ৰাজ্যৰ প্ৰধান কাৰণ আছিল"
+    },
+    "options": [
+      {
+        "en": "reduce the population",
+        "as": "জনসংখ্যা হ্ৰাস কৰা"
+      },
+      {
+        "en": "end agriculture",
+        "as": "কৃষি অন্ত কৰা"
+      },
+      {
+        "en": "stop all trade",
+        "as": "সকলো বাণিজ্য বন্ধ কৰা"
+      },
+      {
+        "en": "secure land and routes with loyal population",
+        "as": "বিশ্বস্ত জনসংখ্যাৰে ভূমি আৰু পথ সুৰক্ষিত কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Settlers secured the frontier, which is why the policy is read strategically. Reducing population, ending farming and stopping trade are wrong.",
+      "as": "বসতিস্থাপকে সীমান্ত সুৰক্ষিত কৰিছিল, সেয়ে নীতিক কৌশলগতভাৱে পঢ়া হয়। জনসংখ্যা হ্ৰাস, কৃষি অন্ত আৰু বাণিজ্য বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-393",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's expansion towards the south brought it into contact with",
+      "as": "দক্ষিণলৈ আহোম ৰাজ্যৰ বিস্তাৰে কাৰ লগত সংযোগ আনিছিল"
+    },
+    "options": [
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকাৰ লগত"
+      },
+      {
+        "en": "the Maldives",
+        "as": "মালদ্বীপৰ লগত"
+      },
+      {
+        "en": "the Kachari and Jaintia hills",
+        "as": "কছাৰী আৰু জয়ন্তীয়া পাহাৰৰ লগত"
+      },
+      {
+        "en": "the Deccan sultanates",
+        "as": "দাক্ষিণাত্য চুলতানাতৰ লগত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Southern expansion reached the hills, which is why those kingdoms appear. The Deccan, Sri Lanka and the Maldives are far away.",
+      "as": "দক্ষিণলৈ বিস্তাৰে পাহাৰত উপনীত হৈছিল, সেয়ে সেই ৰাজ্য ওলায়। দাক্ষিণাত্য, শ্ৰীলংকা আৰু মালদ্বীপ বহু দূৰত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-394",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main achievement in the eighteenth century was",
+      "as": "অষ্টাদশ শতিকাত আহোম ৰাজ্যৰ প্ৰধান অৰ্জন আছিল"
+    },
+    "options": [
+      {
+        "en": "the colonisation of Burma",
+        "as": "বাৰ্মা উপনিবেশীকৰণ"
+      },
+      {
+        "en": "territorial recovery and cultural building",
+        "as": "ভূখণ্ড পুনৰুদ্ধাৰ আৰু সাংস্কৃতিক নিৰ্মাণ"
+      },
+      {
+        "en": "the conquest of Bengal",
+        "as": "বংগ জয়"
+      },
+      {
+        "en": "the annexation of Tibet",
+        "as": "তিব্বত সংযুক্তি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Recovery and building mark the century, which is why they are named. Bengal, Tibet and Burma were never conquered.",
+      "as": "পুনৰুদ্ধাৰ আৰু নিৰ্মাণে শতিকাটো চিহ্নিত কৰে, সেয়ে সেয়া নাম দিয়া হয়। বংগ, তিব্বত আৰু বাৰ্মা কেতিয়াও জয় কৰা নহৈছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-395",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's decline in the late eighteenth century was worsened by",
+      "as": "অষ্টাদশ শতিকাৰ শেষত আহোম ৰাজ্যৰ অৱনতি কাৰ দ্বাৰা বেয়া হৈছিল"
+    },
+    "options": [
+      {
+        "en": "a series of weak rulers and court factions",
+        "as": "ক্ৰমাগত দুৰ্বল শাসক আৰু দৰবাৰৰ দলৰ দ্বাৰা"
+      },
+      {
+        "en": "a fall in the Brahmaputra's course",
+        "as": "ব্ৰহ্মপুত্ৰৰ গতিপথ পৰিৱৰ্তনৰ দ্বাৰা"
+      },
+      {
+        "en": "the loss of Sanskrit",
+        "as": "সংস্কৃতৰ ক্ষতিৰ দ্বাৰা"
+      },
+      {
+        "en": "a ban on rice",
+        "as": "ধানৰ ওপৰত নিষেধৰ দ্বাৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Weak rule and factionalism weakened the state, which is why they are cited. River changes, Sanskrit loss and a rice ban are wrong.",
+      "as": "দুৰ্বল শাসন আৰু দলাদলিয়ে ৰাজ্য দুৰ্বল কৰিছিল, সেয়ে সেয়া উদ্ধৃত। নদী পৰিৱৰ্তন, সংস্কৃত ক্ষতি আৰু ধান নিষেধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-396",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's appeal to the British for help in the early nineteenth century led to",
+      "as": "ঊনবিংশ শতিকাৰ আৰম্ভণিতে ব্ৰিটিছৰ ওচৰত সহায় বিচৰাৰ ফলত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the end of British interest",
+        "as": "ব্ৰিটিছ আগ্ৰহৰ অন্ত"
+      },
+      {
+        "en": "a Mughal restoration",
+        "as": "মোগল পুনৰ্বাহালি"
+      },
+      {
+        "en": "a Chinese protectorate",
+        "as": "চীনা সংৰক্ষিত ৰাজ্য"
+      },
+      {
+        "en": "greater British involvement in Assam's affairs",
+        "as": "অসমৰ বিষয়ত ব্ৰিটিছৰ অধিক জড়িততা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Requests for help drew the British in, which is why the involvement grew. Ending interest, a Mughal restoration and a Chinese protectorate are wrong.",
+      "as": "সহায়ৰ অনুৰোধে ব্ৰিটিছক টানি আনিছিল, সেয়ে জড়িততা বাঢ়িছিল। আগ্ৰহৰ অন্ত, মোগল পুনৰ্বাহালি আৰু চীনা সংৰক্ষিত ৰাজ্য ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-397",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's last ruler to hold real power before British annexation was",
+      "as": "ব্ৰিটিছ সংযুক্তিৰ আগত প্ৰকৃত ক্ষমতা ৰখা আহোম ৰাজ্যৰ শেষ শাসক আছিল"
+    },
+    "options": [
+      {
+        "en": "Rudra Singha",
+        "as": "ৰুদ্ৰ সিংহ"
+      },
+      {
+        "en": "Lachit Borphukan",
+        "as": "লাচিত বৰফুকন"
+      },
+      {
+        "en": "Purandar Singha",
+        "as": "পুৰন্দৰ সিংহ"
+      },
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Purandar Singha was the final ruler in the collapse, which is why he is named. Sukapha founded the line, Rudra Singha was earlier, and Lachit was a commander.",
+      "as": "পুৰন্দৰ সিংহ পতনকালৰ শেষ শাসক, সেয়ে তেওঁৰ নাম দিয়া হয়। চুকাফাই বংশ প্ৰতিষ্ঠা কৰিছিল, ৰুদ্ৰ সিংহ আগৰ, আৰু লাচিত সেনাপতি আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-398",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's Purandar Singha was allowed to rule Upper Assam as a tributary under",
+      "as": "পুৰন্দৰ সিংহক কাৰ অধীনত কৰদাতা হিচাপে উজনি অসম শাসন কৰিবলৈ দিয়া হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the Koch",
+        "as": "কোচৰ"
+      },
+      {
+        "en": "the British",
+        "as": "ব্ৰিটিছৰ"
+      },
+      {
+        "en": "the Mughals",
+        "as": "মোগলৰ"
+      },
+      {
+        "en": "the Burmese",
+        "as": "বাৰ্মীৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The British restored him briefly as a client, which is why the arrangement is described that way. Mughal, Burmese and Koch authority do not apply.",
+      "as": "ব্ৰিটিছে তেওঁক কিছু সময়ৰ বাবে আশ্ৰিত হিচাপে পুনৰ্বহাল কৰিছিল, সেয়ে ব্যৱস্থা এনেদৰে বৰ্ণনা কৰা হয়। মোগল, বাৰ্মী আৰু কোচ কৰ্তৃত্ব প্ৰযোজ্য নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-399",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "In which year did the British complete their annexation of the Ahom kingdom?",
+      "as": "কোন বছৰত ব্ৰিটিছে আহোম ৰাজ্যৰ সংযুক্তি সম্পূৰ্ণ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "1838",
+        "as": "১৮৩৮"
+      },
+      {
+        "en": "1826",
+        "as": "১৮২৬"
+      },
+      {
+        "en": "1874",
+        "as": "১৮৭৪"
+      },
+      {
+        "en": "1905",
+        "as": "১৯০৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Upper Assam was annexed in 1838 after Purandar Singha's removal, which is why that date is used. 1826 was Yandabo, 1874 the separation and 1905 the partition.",
+      "as": "পুৰন্দৰ সিংহক আঁতৰোৱাৰ পিছত ১৮৩৮ চনত উজনি অসম সংযুক্ত হৈছিল, সেয়ে সেই তাৰিখ ব্যৱহৃত। ১৮২৬ য়াণ্ডাবু, ১৮৭৪ পৃথকীকৰণ আৰু ১৯০৫ বিভাজন।"
+    }
+  },
+  {
+    "id": "assam-history-extra-400",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's administrative system was replaced after 1826 by",
+      "as": "১৮২৬ চনৰ পিছত আহোম ৰাজ্যৰ প্ৰশাসনিক ব্যৱস্থা প্ৰতিস্থাপিত হৈছিল কাৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "Mughal provincial rule",
+        "as": "মোগল প্ৰাদেশিক শাসনৰ দ্বাৰা"
+      },
+      {
+        "en": "Burmese administration",
+        "as": "বাৰ্মী প্ৰশাসনৰ দ্বাৰা"
+      },
+      {
+        "en": "a revival of Kamarupa",
+        "as": "কামৰূপৰ পুনৰুজ্জীৱনৰ দ্বাৰা"
+      },
+      {
+        "en": "British district administration",
+        "as": "ব্ৰিটিছ জিলা প্ৰশাসনৰ দ্বাৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "British districts replaced Ahom offices, which is why the change is dated to 1826. Mughal, Burmese and Kamarupa revival do not apply.",
+      "as": "ব্ৰিটিছ জিলাই আহোম পদ প্ৰতিস্থাপিত কৰিছিল, সেয়ে পৰিৱৰ্তন ১৮২৬ লৈ তাৰিখযুক্ত। মোগল, বাৰ্মী আৰু কামৰূপ পুনৰুজ্জীৱন প্ৰযোজ্য নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-401",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "Which records took the place of the Ahom land and labour registers after 1826?",
+      "as": "১৮২৬ চনৰ পিছত আহোমৰ ভূমি আৰু শ্ৰম পঞ্জীৰ ঠাই কোন ৰেকৰ্ডে লৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Burmese registers",
+        "as": "বাৰ্মী পঞ্জীৰ দ্বাৰা"
+      },
+      {
+        "en": "temple records",
+        "as": "মন্দিৰ ৰেকৰ্ডৰ দ্বাৰা"
+      },
+      {
+        "en": "colonial revenue surveys and settlements",
+        "as": "ঔপনিবেশিক ৰাজহ জৰীপ আৰু নিষ্পত্তিৰ দ্বাৰা"
+      },
+      {
+        "en": "Mughal farmans",
+        "as": "মোগল ফৰ্মানৰ দ্বাৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Colonial surveys replaced paik registers, which is why the fiscal system changed. Mughal, Burmese and temple records did not replace them.",
+      "as": "ঔপনিবেশিক জৰীপে পাইক পঞ্জী প্ৰতিস্থাপিত কৰিছিল, সেয়ে ৰাজহ ব্যৱস্থা সলনি হৈছিল। মোগল, বাৰ্মী আৰু মন্দিৰ ৰেকৰ্ডে প্ৰতিস্থাপন কৰা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-402",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's legacy in Assamese administrative vocabulary is seen in words such as",
+      "as": "ফুকন, বৰুৱা আৰু শইকীয়া আদি শব্দত দৃশ্যমান আহোম ৰাজ্যৰ উত্তৰাধিকাৰ"
+    },
+    "options": [
+      {
+        "en": "President and Speaker",
+        "as": "ৰাষ্ট্ৰপতি আৰু অধ্যক্ষ"
+      },
+      {
+        "en": "Phukan, Barua and Saikia used as surnames",
+        "as": "উপাধি হিচাপে ব্যৱহৃত ফুকন, বৰুৱা আৰু শইকীয়া"
+      },
+      {
+        "en": "Collector and Magistrate",
+        "as": "সংগ্ৰাহক আৰু মেজিষ্ট্ৰেট"
+      },
+      {
+        "en": "Governor and Minister",
+        "as": "ৰাজ্যপাল আৰু মন্ত্ৰী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ahom offices survive as surnames, which is why they are cited. Collector, Governor and President are colonial or modern titles.",
+      "as": "আহোম পদ উপাধি হিচাপে ৰৈ গৈছে, সেয়ে সেয়া উদ্ধৃত। সংগ্ৰাহক, ৰাজ্যপাল আৰু ৰাষ্ট্ৰপতি ঔপনিবেশিক বা আধুনিক উপাধি।"
+    }
+  },
+  {
+    "id": "assam-history-extra-403",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's chronicles are important for Assamese literature because they",
+      "as": "অসমীয়া সাহিত্যৰ বাবে আহোম ৰাজ্যৰ বুৰঞ্জী গুৰুত্বপূৰ্ণ কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "established a tradition of historical prose",
+        "as": "ঐতিহাসিক গদ্যৰ পৰম্পৰা প্ৰতিষ্ঠা কৰিছিল"
+      },
+      {
+        "en": "were written in verse only",
+        "as": "কেৱল পদ্যত লিখা হৈছিল"
+      },
+      {
+        "en": "were written in English",
+        "as": "ইংৰাজীত লিখা হৈছিল"
+      },
+      {
+        "en": "were printed abroad",
+        "as": "বিদেশত ছপা হৈছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Prose chronicles shaped later Assamese writing, which is why they matter. Verse only, English and foreign printing are wrong.",
+      "as": "গদ্য বুৰঞ্জীয়ে পিছৰ অসমীয়া লিখন গঢ়িছিল, সেয়ে সেয়া গুৰুত্বপূৰ্ণ। কেৱল পদ্য, ইংৰাজী আৰু বিদেশী ছপা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-404",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's social memory is preserved in Assam through",
+      "as": "অসমত আহোম ৰাজ্যৰ সামাজিক স্মৃতি ৰক্ষিত হয় কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "British museums only",
+        "as": "কেৱল ব্ৰিটিছ সংগ্ৰহালয়ৰ জৰিয়তে"
+      },
+      {
+        "en": "Mughal chronicles",
+        "as": "মোগল বুৰঞ্জীৰ জৰিয়তে"
+      },
+      {
+        "en": "Chinese records",
+        "as": "চীনা ৰেকৰ্ডৰ জৰিয়তে"
+      },
+      {
+        "en": "festivals, place names and surnames",
+        "as": "উৎসৱ, স্থাননাম আৰু উপাধিৰ জৰিয়তে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Festivals, names and surnames carry the memory, which is why they are cited. Museums only, Mughal chronicles and Chinese records are not the medium.",
+      "as": "উৎসৱ, নাম আৰু উপাধিয়ে স্মৃতি কঢ়িয়ায়, সেয়ে সেয়া উদ্ধৃত। কেৱল সংগ্ৰহালয়, মোগল বুৰঞ্জী আৰু চীনা ৰেকৰ্ড মাধ্যম নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-405",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's Bihu tradition is linked to the agricultural calendar because it",
+      "as": "কৃষি পঞ্জিকাৰ লগত আহোম ৰাজ্যৰ বিহু পৰম্পৰা জড়িত কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "marks British rule",
+        "as": "ব্ৰিটিছ শাসন চিহ্নিত কৰে"
+      },
+      {
+        "en": "marks the tea harvest",
+        "as": "চাহ চপোৱা চিহ্নিত কৰে"
+      },
+      {
+        "en": "marks seasons of sowing and harvest",
+        "as": "সিঁচা আৰু চপোৱাৰ ঋতু চিহ্নিত কৰে"
+      },
+      {
+        "en": "marks military victories only",
+        "as": "কেৱল সামৰিক বিজয় চিহ্নিত কৰে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bihu follows the farming year, which is why it is tied to the calendar. Military victories only, British rule and tea are wrong.",
+      "as": "বিহু খেতিৰ বছৰ অনুসৰণ কৰে, সেয়ে ই পঞ্জিকাৰ লগত জড়িত। কেৱল সামৰিক বিজয়, ব্ৰিটিছ শাসন আৰু চাহ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-406",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's contribution to Assamese cuisine and craft is linked to",
+      "as": "অসমীয়া ৰন্ধন আৰু কাৰিকৰী কলালৈ আহোম ৰাজ্যৰ অৱদান জড়িত"
+    },
+    "options": [
+      {
+        "en": "British factory goods alone",
+        "as": "কেৱল ব্ৰিটিছ কাৰখানাৰ সামগ্ৰীৰ লগত"
+      },
+      {
+        "en": "Tai practices blending with local traditions",
+        "as": "স্থানীয় পৰম্পৰাৰ লগত তাই ৰীতিৰ সংমিশ্ৰণৰ লগত"
+      },
+      {
+        "en": "European imports alone",
+        "as": "কেৱল ইউৰোপীয় আমদানিৰ লগত"
+      },
+      {
+        "en": "Mughal court cuisine alone",
+        "as": "কেৱল মোগল দৰবাৰৰ ৰন্ধনৰ লগত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Tai and local practices blended, which is why the fusion reading is used. European, Mughal and British alone are wrong.",
+      "as": "তাই আৰু স্থানীয় ৰীতি মিলিছিল, সেয়ে সংমিশ্ৰণৰ পঢ়া ব্যৱহাৰ কৰা হয়। কেৱল ইউৰোপীয়, মোগল আৰু ব্ৰিটিছ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-407",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's historical significance for Assam's unity is that it",
+      "as": "অসমৰ ঐক্যৰ বাবে আহোম ৰাজ্যৰ ঐতিহাসিক গুৰুত্ব হ'ল ই"
+    },
+    "options": [
+      {
+        "en": "brought most of the valley under one administration",
+        "as": "উপত্যকাৰ অধিকাংশ এক প্ৰশাসনৰ অধীনলৈ আনিছিল"
+      },
+      {
+        "en": "divided the valley permanently",
+        "as": "উপত্যকাক স্থায়ীভাৱে বিভক্ত কৰিছিল"
+      },
+      {
+        "en": "ended all agriculture",
+        "as": "সকলো কৃষি অন্ত কৰিছিল"
+      },
+      {
+        "en": "abolished the Assamese language",
+        "as": "অসমীয়া ভাষা বিলুপ্ত কৰিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Unified administration is the achievement, which is why the reading is integrative. Permanent division, ending farming and abolishing the language are wrong.",
+      "as": "একত্ৰিত প্ৰশাসনেই অৰ্জন, সেয়ে পঢ়াটো সংহতিমূলক। স্থায়ী বিভাজন, কৃষি অন্ত আৰু ভাষা বিলুপ্তি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-408",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's decline and the Burmese wars are studied together because",
+      "as": "আহোম ৰাজ্যৰ অৱনতি আৰু বাৰ্মী যুদ্ধ একেলগে অধ্যয়ন কৰা হয় কাৰণ"
+    },
+    "options": [
+      {
+        "en": "the Burmese were invited by the British",
+        "as": "বাৰ্মীসকলক ব্ৰিটিছে আমন্ত্ৰণ কৰিছিল"
+      },
+      {
+        "en": "the Mughals mediated",
+        "as": "মোগলে মধ্যস্থতা কৰিছিল"
+      },
+      {
+        "en": "the Kochs intervened",
+        "as": "কোচসকলে হস্তক্ষেপ কৰিছিল"
+      },
+      {
+        "en": "internal weakness invited outside intervention",
+        "as": "আভ্যন্তৰীণ দুৰ্বলতাই বাহিৰৰ হস্তক্ষেপ আমন্ত্ৰণ কৰিছিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Weakness drew the Burmese in, which is why the two are studied together. British invitation, Mughal mediation and Koch intervention are wrong.",
+      "as": "দুৰ্বলতাই বাৰ্মীক টানি আনিছিল, সেয়ে দুয়ো একেলগে অধ্যয়ন কৰা হয়। ব্ৰিটিছ আমন্ত্ৰণ, মোগল মধ্যস্থতা আৰু কোচ হস্তক্ষেপ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-409",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's final phase shows the importance of",
+      "as": "আহোম ৰাজ্যৰ শেষ পৰ্যায়ে কাৰ গুৰুত্ব দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "European allies",
+        "as": "ইউৰোপীয় মিত্ৰ"
+      },
+      {
+        "en": "a single capital city",
+        "as": "এখন ৰাজধানী চহৰ"
+      },
+      {
+        "en": "stable succession for political survival",
+        "as": "ৰাজনৈতিক জীয়াই থকাৰ বাবে স্থিৰ উত্তৰাধিকাৰ"
+      },
+      {
+        "en": "a large navy",
+        "as": "বৃহৎ নৌসেনা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Succession disputes destroyed the state, which is why stability is the lesson. A navy, European allies and one capital are not the point.",
+      "as": "উত্তৰাধিকাৰ বিবাদে ৰাজ্য ধ্বংস কৰিছিল, সেয়ে স্থিৰতাই শিক্ষা। নৌসেনা, ইউৰোপীয় মিত্ৰ আৰু এক ৰাজধানী মূল কথা নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-410",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main lesson for later Assamese politics is that",
+      "as": "পিছৰ অসমীয়া ৰাজনীতিৰ বাবে আহোম ৰাজ্যৰ প্ৰধান শিক্ষা হ'ল"
+    },
+    "options": [
+      {
+        "en": "religion should be abolished",
+        "as": "ধৰ্ম বিলুপ্ত কৰা উচিত"
+      },
+      {
+        "en": "internal division invites external control",
+        "as": "আভ্যন্তৰীণ বিভাজনে বাহিৰৰ নিয়ন্ত্ৰণ আমন্ত্ৰণ কৰে"
+      },
+      {
+        "en": "isolation guarantees safety",
+        "as": "বিচ্ছিন্নতাই সুৰক্ষা নিশ্চিত কৰে"
+      },
+      {
+        "en": "trade should be banned",
+        "as": "বাণিজ্য নিষিদ্ধ কৰা উচিত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Division led to annexation, which is why the lesson is about unity. Isolation, trade bans and abolishing religion are not the lesson.",
+      "as": "বিভাজনে সংযুক্তিলৈ লৈ গৈছিল, সেয়ে শিক্ষা ঐক্যৰ বিষয়ে। বিচ্ছিন্নতা, বাণিজ্য নিষেধ আৰু ধৰ্ম বিলুপ্তি শিক্ষা নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-411",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's first ruler to be formally initiated into Vaishnavism is generally identified as",
+      "as": "বৈষ্ণৱ ধৰ্মত আনুষ্ঠানিকভাৱে দীক্ষিত হোৱা আহোম ৰাজ্যৰ প্ৰথম শাসক সাধাৰণতে চিনাক্ত কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "a sixteenth century Ahom king",
+        "as": "ষোড়শ শতিকাৰ এজন আহোম ৰজা"
+      },
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      },
+      {
+        "en": "Purandar Singha",
+        "as": "পুৰন্দৰ সিংহ"
+      },
+      {
+        "en": "Gadadhar Singha",
+        "as": "গদাধৰ সিংহ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Initiation began in the sixteenth century, which is why that period is named. Sukapha predates Vaishnavism, and Purandar Singha and Gadadhar Singha came later.",
+      "as": "দীক্ষা ষোড়শ শতিকাত আৰম্ভ হৈছিল, সেয়ে সেই সময়ৰ নাম দিয়া হয়। চুকাফা বৈষ্ণৱ ধৰ্মৰ আগৰ, আৰু পুৰন্দৰ সিংহ তথা গদাধৰ সিংহ পিছত আহিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-412",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom king who is credited with suppressing the first Moamoria uprising was",
+      "as": "প্ৰথম মোৱামৰীয়া বিদ্ৰোহ দমনৰ কৃতিত্ব পোৱা আহোম ৰজা আছিল"
+    },
+    "options": [
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      },
+      {
+        "en": "Suhungmung",
+        "as": "চুহুংমুং"
+      },
+      {
+        "en": "Lachit Borphukan",
+        "as": "লাচিত বৰফুকন"
+      },
+      {
+        "en": "Gaurinath Singha with British help",
+        "as": "ব্ৰিটিছ সহায়ত গৌৰীনাথ সিংহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Gaurinath turned to the British during the crisis, which is why the episode is linked to him. The others ruled in other periods.",
+      "as": "সংকটত গৌৰীনাথে ব্ৰিটিছৰ ওচৰলৈ গৈছিল, সেয়ে ঘটনাটো তেওঁৰ লগত জড়িত। বাকীসকলে আন যুগত শাসন কৰিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-413",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's appeal to the British during the Moamoria crisis resulted in",
+      "as": "মোৱামৰীয়া সংকটত ব্ৰিটিছৰ ওচৰত আহোম ৰাজ্যৰ আবেদনৰ ফলত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the treaty of Yandabo",
+        "as": "য়াণ্ডাবু সন্ধি"
+      },
+      {
+        "en": "the end of the Ahom dynasty",
+        "as": "আহোম বংশৰ অন্ত"
+      },
+      {
+        "en": "the first British military mission under Captain Welsh",
+        "as": "কেপ্তেইন ৱেলছৰ অধীনত প্ৰথম ব্ৰিটিছ সামৰিক অভিযান"
+      },
+      {
+        "en": "the annexation of Assam",
+        "as": "অসম সংযুক্তি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Welsh's mission followed the appeal, which is why the two are linked. Annexation, Yandabo and the dynasty's end came later.",
+      "as": "ৱেলছৰ অভিযান আবেদনৰ পিছত আহিছিল, সেয়ে দুয়ো জড়িত। সংযুক্তি, য়াণ্ডাবু আৰু বংশৰ অন্ত পিছত আহিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-414",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's second Moamoria uprising was more serious because it",
+      "as": "দ্বিতীয় মোৱামৰীয়া বিদ্ৰোহ অধিক গুৰুতৰ আছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "had no effect",
+        "as": "কোনো প্ৰভাৱ নাছিল"
+      },
+      {
+        "en": "spread widely and weakened royal authority severely",
+        "as": "বহলভাৱে বিয়পি ৰাজকীয় কৰ্তৃত্ব গুৰুতৰভাৱে দুৰ্বল কৰিছিল"
+      },
+      {
+        "en": "was confined to one village",
+        "as": "এখন গাঁৱত সীমাবদ্ধ আছিল"
+      },
+      {
+        "en": "ended immediately",
+        "as": "তৎক্ষণাৎ শেষ হৈছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Wide spread and weakened authority are why it is called serious. Confined, immediate and no effect are contradicted.",
+      "as": "বহল বিস্তাৰ আৰু কৰ্তৃত্ব দুৰ্বলতাই ইয়াক গুৰুতৰ বোলাৰ কাৰণ। সীমাবদ্ধ, তৎক্ষণাৎ আৰু প্ৰভাৱহীনতা খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-415",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's capital was sacked during the Moamoria disturbances, which showed",
+      "as": "মোৱামৰীয়া অশান্তিত আহোম ৰাজ্যৰ ৰাজধানী লুণ্ঠিত হৈছিল, যিয়ে দেখুৱাইছিল"
+    },
+    "options": [
+      {
+        "en": "the state's military and political weakness",
+        "as": "ৰাজ্যৰ সামৰিক আৰু ৰাজনৈতিক দুৰ্বলতা"
+      },
+      {
+        "en": "the strength of the monarchy",
+        "as": "ৰাজতন্ত্ৰৰ শক্তি"
+      },
+      {
+        "en": "the loyalty of all subjects",
+        "as": "সকলো প্ৰজাৰ অনুগত্য"
+      },
+      {
+        "en": "the absence of any conflict",
+        "as": "কোনো সংঘাতৰ অভাৱ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sacking the capital exposed weakness, which is why the reading is used. Strength, loyalty and absence of conflict are contradicted.",
+      "as": "ৰাজধানী লুণ্ঠনে দুৰ্বলতা প্ৰকাশ কৰিছিল, সেয়ে পঢ়াটো ব্যৱহৃত। শক্তি, অনুগত্য আৰু সংঘাতহীনতা খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-416",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Burmese invasions of Assam in the early nineteenth century were invited partly by",
+      "as": "ঊনবিংশ শতিকাৰ আৰম্ভণিত অসমলৈ বাৰ্মী আক্ৰমণ আংশিকভাৱে আমন্ত্ৰিত হৈছিল কাৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "the British government",
+        "as": "ব্ৰিটিছ চৰকাৰৰ দ্বাৰা"
+      },
+      {
+        "en": "the Koch kingdom",
+        "as": "কোচ ৰাজ্যৰ দ্বাৰা"
+      },
+      {
+        "en": "the Mughal emperor",
+        "as": "মোগল সম্ৰাটৰ দ্বাৰা"
+      },
+      {
+        "en": "Ahom factions competing for the throne",
+        "as": "সিংহাসনৰ বাবে প্ৰতিদ্বন্দ্বিতা কৰা আহোম দলৰ দ্বাৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Court factions sought outside help, which is why they are blamed. The British, Koch and Mughals were not the inviters.",
+      "as": "দৰবাৰৰ দলে বাহিৰৰ সহায় বিচাৰিছিল, সেয়ে তেওঁলোকক দোষ দিয়া হয়। ব্ৰিটিছ, কোচ আৰু মোগলে আমন্ত্ৰণ কৰা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-417",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Burmese occupation of Assam is remembered for",
+      "as": "অসমত বাৰ্মী দখল স্মৰণীয় কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "expanding tea gardens",
+        "as": "চাহ বাগিচা বিস্তাৰৰ বাবে"
+      },
+      {
+        "en": "introducing railways",
+        "as": "ৰেল প্ৰৱৰ্তনৰ বাবে"
+      },
+      {
+        "en": "atrocities and the flight of much of the population",
+        "as": "অত্যাচাৰ আৰু জনসংখ্যাৰ বৃহৎ অংশৰ পলায়ন"
+      },
+      {
+        "en": "building universities",
+        "as": "বিশ্ববিদ্যালয় নিৰ্মাণৰ বাবে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Atrocities and depopulation mark the period, which is why the British takeover was welcomed. Universities, tea and railways came later.",
+      "as": "অত্যাচাৰ আৰু জনসংখ্যা হ্ৰাসে যুগটো চিহ্নিত কৰে, সেয়ে ব্ৰিটিছ অধিগ্ৰহণ স্বাগতম জনোৱা হৈছিল। বিশ্ববিদ্যালয়, চাহ আৰু ৰেল পিছত আহিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-418",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Burmese withdrawal from Assam in 1826 followed",
+      "as": "১৮২৬ চনত অসমৰপৰা বাৰ্মী প্ৰত্যাহাৰৰ পিছত ঘটিছিল"
+    },
+    "options": [
+      {
+        "en": "a French intervention",
+        "as": "ফৰাচী হস্তক্ষেপ"
+      },
+      {
+        "en": "their defeat in the first Anglo Burmese war",
+        "as": "প্ৰথম ইংৰাজ-বাৰ্মী যুদ্ধত তেওঁলোকৰ পৰাজয়"
+      },
+      {
+        "en": "a Mughal invasion",
+        "as": "মোগল আক্ৰমণ"
+      },
+      {
+        "en": "a Chinese treaty",
+        "as": "চীনা সন্ধি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Defeat in the war forced the withdrawal, which is why Yandabo followed. Mughal, Chinese and French actions were not the cause.",
+      "as": "যুদ্ধত পৰাজয়ে প্ৰত্যাহাৰ বাধ্যতামূলক কৰিছিল, সেয়ে য়াণ্ডাবু আহিছিল। মোগল, চীনা আৰু ফৰাচী কাৰ্য কাৰণ নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-419",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's population decline during the Burmese period was caused partly by",
+      "as": "বাৰ্মী যুগত আহোম ৰাজ্যৰ জনসংখ্যা হ্ৰাসৰ আংশিক কাৰণ আছিল"
+    },
+    "options": [
+      {
+        "en": "forced labour, flight and warfare",
+        "as": "বাধ্যতামূলক শ্ৰম, পলায়ন আৰু যুদ্ধ"
+      },
+      {
+        "en": "a ban on marriage",
+        "as": "বিবাহৰ ওপৰত নিষেধ"
+      },
+      {
+        "en": "the end of agriculture",
+        "as": "কৃষিৰ অন্ত"
+      },
+      {
+        "en": "a decline in rainfall",
+        "as": "বৰষুণ হ্ৰাস"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Labour demands, flight and war reduced numbers, which is why they are named. Marriage bans, ending farming and rainfall are wrong.",
+      "as": "শ্ৰমৰ দাবী, পলায়ন আৰু যুদ্ধই সংখ্যা কমাইছিল, সেয়ে সেয়া নাম দিয়া হয়। বিবাহ নিষেধ, কৃষি অন্ত আৰু বৰষুণ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-420",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's restoration under Purandar Singha was short lived because",
+      "as": "পুৰন্দৰ সিংহৰ অধীনত আহোম ৰাজ্যৰ পুনৰ্বাহালি স্বল্পস্থায়ী আছিল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "he refused the throne",
+        "as": "তেওঁ সিংহাসন অস্বীকাৰ কৰিছিল"
+      },
+      {
+        "en": "the Burmese returned",
+        "as": "বাৰ্মীয়ে ঘূৰি আহিছিল"
+      },
+      {
+        "en": "the Mughals invaded",
+        "as": "মোগলে আক্ৰমণ কৰিছিল"
+      },
+      {
+        "en": "the British suspected his independent ambitions",
+        "as": "ব্ৰিটিছে তেওঁৰ স্বাধীন উচ্চাকাংক্ষা সন্দেহ কৰিছিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "British suspicion ended his rule, which is why the restoration was brief. Refusing the throne, a Burmese return and a Mughal invasion are wrong.",
+      "as": "ব্ৰিটিছ সন্দেহে তেওঁৰ শাসন অন্ত কৰিছিল, সেয়ে পুনৰ্বাহালি চমু আছিল। সিংহাসন অস্বীকাৰ, বাৰ্মী প্ৰত্যাৱৰ্তন আৰু মোগল আক্ৰমণ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-421",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's annexation in 1838 followed the removal of",
+      "as": "১৮৩৮ চনত আহোম ৰাজ্যৰ সংযুক্তি কাৰ অপসাৰণৰ পিছত ঘটিছিল"
+    },
+    "options": [
+      {
+        "en": "Rudra Singha",
+        "as": "ৰুদ্ৰ সিংহ"
+      },
+      {
+        "en": "Siva Singha",
+        "as": "শিৱ সিংহ"
+      },
+      {
+        "en": "Purandar Singha",
+        "as": "পুৰন্দৰ সিংহ"
+      },
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Purandar Singha's removal led to annexation, which is why he is named. The others ruled in earlier periods.",
+      "as": "পুৰন্দৰ সিংহৰ অপসাৰণে সংযুক্তিলৈ লৈ গৈছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। বাকীসকলে আগৰ যুগত শাসন কৰিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-422",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's administrative records after 1838 were replaced by",
+      "as": "১৮৩৮ চনৰ পিছত আহোম ৰাজ্যৰ প্ৰশাসনিক ৰেকৰ্ড প্ৰতিস্থাপিত হৈছিল কাৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "Ahom buranjis alone",
+        "as": "কেৱল আহোম বুৰঞ্জীৰ দ্বাৰা"
+      },
+      {
+        "en": "British district and revenue records",
+        "as": "ব্ৰিটিছ জিলা আৰু ৰাজহ ৰেকৰ্ডৰ দ্বাৰা"
+      },
+      {
+        "en": "Burmese registers",
+        "as": "বাৰ্মী পঞ্জীৰ দ্বাৰা"
+      },
+      {
+        "en": "Mughal farmans",
+        "as": "মোগল ফৰ্মানৰ দ্বাৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "British records took over, which is why the administrative break is dated there. Burmese, Mughal and buranji records did not replace them.",
+      "as": "ব্ৰিটিছ ৰেকৰ্ডে দায়িত্ব লৈছিল, সেয়ে প্ৰশাসনিক বিভাজন তাত। বাৰ্মী, মোগল আৰু বুৰঞ্জী ৰেকৰ্ডে প্ৰতিস্থাপন কৰা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-423",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's land system was transformed after annexation because the British",
+      "as": "সংযুক্তিৰ পিছত আহোম ৰাজ্যৰ ভূমি ব্যৱস্থা ৰূপান্তৰিত হৈছিল কাৰণ ব্ৰিটিছে"
+    },
+    "options": [
+      {
+        "en": "introduced revenue surveys and settlements",
+        "as": "ৰাজহ জৰীপ আৰু নিষ্পত্তি প্ৰৱৰ্তন কৰিছিল"
+      },
+      {
+        "en": "abolished all landholding",
+        "as": "সকলো ভূমি অধিকাৰ বিলুপ্ত কৰিছিল"
+      },
+      {
+        "en": "gave all land to temples",
+        "as": "সকলো ভূমি মন্দিৰক দিছিল"
+      },
+      {
+        "en": "restored the paik system",
+        "as": "পাইক ব্যৱস্থা পুনৰ্বাহাল কৰিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Surveys and settlements replaced paik arrangements, which is why the change is fiscal. Abolishing landholding, giving land to temples and restoring paiks are wrong.",
+      "as": "জৰীপ আৰু নিষ্পত্তিয়ে পাইক ব্যৱস্থা প্ৰতিস্থাপিত কৰিছিল, সেয়ে পৰিৱৰ্তন ৰাজহ সম্পৰ্কীয়। ভূমি অধিকাৰ বিলুপ্তি, মন্দিৰক দান আৰু পাইক পুনৰ্বাহালি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-424",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's military organisation disappeared after 1838 because",
+      "as": "১৮৩৮ চনৰ পিছত আহোম ৰাজ্যৰ সামৰিক সংগঠন লুপ্ত হৈছিল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "the paiks became generals",
+        "as": "পাইকসকল সেনাপতি হৈছিল"
+      },
+      {
+        "en": "the army moved to Bengal",
+        "as": "সেনা বংগলৈ গৈছিল"
+      },
+      {
+        "en": "no soldiers existed",
+        "as": "কোনো সৈন্য নাছিল"
+      },
+      {
+        "en": "the British disbanded the paik based forces",
+        "as": "ব্ৰিটিছে পাইক ভিত্তিক বাহিনী ভংগ কৰিছিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Paik forces were disbanded, which is why the system ended. Promotion, transfer to Bengal and no soldiers are wrong.",
+      "as": "পাইক বাহিনী ভংগ কৰা হৈছিল, সেয়ে ব্যৱস্থা শেষ হৈছিল। পদোন্নতি, বংগলৈ স্থানান্তৰ আৰু সৈন্যহীনতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-425",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's chronicle tradition continued after annexation mainly through",
+      "as": "সংযুক্তিৰ পিছত আহোম ৰাজ্যৰ বুৰঞ্জী পৰম্পৰা মূলতঃ কাৰ জৰিয়তে চলি থাকিল"
+    },
+    "options": [
+      {
+        "en": "Mughal courtiers",
+        "as": "মোগল দৰবাৰীসকলৰ জৰিয়তে"
+      },
+      {
+        "en": "British soldiers",
+        "as": "ব্ৰিটিছ সৈনিকসকলৰ জৰিয়তে"
+      },
+      {
+        "en": "Assamese scholars and later historians",
+        "as": "অসমীয়া পণ্ডিত আৰু পিছৰ ইতিহাসবিদসকলৰ জৰিয়তে"
+      },
+      {
+        "en": "Burmese officials",
+        "as": "বাৰ্মী বিষয়াসকলৰ জৰিয়তে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Assamese scholars preserved and used the buranjis, which is why the tradition survived. Burmese, Mughal and British soldiers did not carry it.",
+      "as": "অসমীয়া পণ্ডিতসকলে বুৰঞ্জী ৰক্ষা আৰু ব্যৱহাৰ কৰিছিল, সেয়ে পৰম্পৰা ৰৈ গৈছিল। বাৰ্মী, মোগল আৰু ব্ৰিটিছ সৈনিকে সেয়া কঢ়িয়াই নিনিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-426",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's satra institutions survived annexation because",
+      "as": "সংযুক্তিৰ পিছতো আহোম ৰাজ্যৰ সত্ৰ প্ৰতিষ্ঠান ৰৈ গৈছিল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "they became government offices",
+        "as": "সেয়া চৰকাৰী কাৰ্যালয় হৈছিল"
+      },
+      {
+        "en": "the British left their lands and customs largely undisturbed",
+        "as": "ব্ৰিটিছে তেওঁলোকৰ ভূমি আৰু ৰীতি প্ৰায় অক্ষত ৰাখিছিল"
+      },
+      {
+        "en": "the British abolished them",
+        "as": "ব্ৰিটিছে সেয়া বিলুপ্ত কৰিছিল"
+      },
+      {
+        "en": "they moved to Burma",
+        "as": "সেয়া ব্ৰহ্মদেশলৈ গৈছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Limited interference preserved the satras, which is why they continued. Abolition, migration to Burma and conversion to offices are wrong.",
+      "as": "সীমিত হস্তক্ষেপে সত্ৰ ৰক্ষা কৰিছিল, সেয়ে সেয়া চলি থাকিল। বিলুপ্তি, ব্ৰহ্মদেশলৈ প্ৰব্ৰজন আৰু কাৰ্যালয়লৈ ৰূপান্তৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-427",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's memory in colonial Assam was kept alive mainly by",
+      "as": "ঔপনিবেশিক অসমত আহোম ৰাজ্যৰ স্মৃতি মূলতঃ কাৰ দ্বাৰা জীয়াই ৰখা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Assamese writers and cultural associations",
+        "as": "অসমীয়া লেখক আৰু সাংস্কৃতিক সংস্থাৰ দ্বাৰা"
+      },
+      {
+        "en": "British administrators",
+        "as": "ব্ৰিটিছ প্ৰশাসকৰ দ্বাৰা"
+      },
+      {
+        "en": "Burmese traders",
+        "as": "বাৰ্মী ব্যৱসায়ীৰ দ্বাৰা"
+      },
+      {
+        "en": "Mughal historians",
+        "as": "মোগল ইতিহাসবিদৰ দ্বাৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Writers and associations revived the memory, which is why they are named. Administrators, traders and Mughal historians did not.",
+      "as": "লেখক আৰু সংস্থাই স্মৃতি জীয়াই ৰাখিছিল, সেয়ে তেওঁলোকৰ নাম দিয়া হয়। প্ৰশাসক, ব্যৱসায়ী আৰু মোগল ইতিহাসবিদে নকৰিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-428",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's legacy in modern Assamese identity rests mainly on",
+      "as": "আধুনিক অসমীয়া পৰিচয়ত আহোম ৰাজ্যৰ উত্তৰাধিকাৰ মূলতঃ কাৰ ওপৰত প্ৰতিষ্ঠিত"
+    },
+    "options": [
+      {
+        "en": "the tea industry",
+        "as": "চাহ উদ্যোগ"
+      },
+      {
+        "en": "the oil industry",
+        "as": "তেল উদ্যোগ"
+      },
+      {
+        "en": "the railway network",
+        "as": "ৰেল জালিকা"
+      },
+      {
+        "en": "six centuries of independent administration and resistance",
+        "as": "ছশ বছৰৰ স্বাধীন প্ৰশাসন আৰু প্ৰতিৰোধ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Long independent rule is the basis, which is why the identity claim is made. Tea, oil and railways are colonial developments.",
+      "as": "দীৰ্ঘ স্বাধীন শাসনেই ভেটি, সেয়ে পৰিচয়ৰ দাবী কৰা হয়। চাহ, তেল আৰু ৰেল ঔপনিবেশিক বিকাশ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-429",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's administrative vocabulary survives in Assam mainly through",
+      "as": "অসমত আহোম ৰাজ্যৰ প্ৰশাসনিক শব্দাৱলী মূলতঃ কাৰ জৰিয়তে ৰৈ গৈছে"
+    },
+    "options": [
+      {
+        "en": "Mughal revenue terms",
+        "as": "মোগল ৰাজহ শব্দৰ জৰিয়তে"
+      },
+      {
+        "en": "Burmese titles",
+        "as": "বাৰ্মী উপাধিৰ জৰিয়তে"
+      },
+      {
+        "en": "surnames and place names",
+        "as": "উপাধি আৰু স্থাননামৰ জৰিয়তে"
+      },
+      {
+        "en": "British legal codes",
+        "as": "ব্ৰিটিছ আইন সংহিতাৰ জৰিয়তে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Surnames and places carry the terms, which is why they are cited. British, Mughal and Burmese terms are different.",
+      "as": "উপাধি আৰু স্থাননামে শব্দবোৰ কঢ়িয়ায়, সেয়ে সেয়া উদ্ধৃত। ব্ৰিটিছ, মোগল আৰু বাৰ্মী শব্দ বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-430",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's chronicles are used by modern historians mainly for",
+      "as": "আধুনিক ইতিহাসবিদে আহোম ৰাজ্যৰ বুৰঞ্জী মূলতঃ কাৰ বাবে ব্যৱহাৰ কৰে"
+    },
+    "options": [
+      {
+        "en": "foreign trade figures only",
+        "as": "কেৱল বিদেশী বাণিজ্যৰ পৰিসংখ্যাৰ বাবে"
+      },
+      {
+        "en": "dates, events and administrative detail",
+        "as": "তাৰিখ, ঘটনা আৰু প্ৰশাসনিক বিৱৰণৰ বাবে"
+      },
+      {
+        "en": "weather records",
+        "as": "বতৰ ৰেকৰ্ডৰ বাবে"
+      },
+      {
+        "en": "crop yields alone",
+        "as": "কেৱল শস্য উৎপাদনৰ বাবে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Dates, events and administration are their strength, which is why they are used. Weather, yields alone and trade figures only are too narrow.",
+      "as": "তাৰিখ, ঘটনা আৰু প্ৰশাসনেই সেয়া শক্তি, সেয়ে ব্যৱহাৰ কৰা হয়। বতৰ, কেৱল উৎপাদন আৰু কেৱল বাণিজ্য অতি সংকীৰ্ণ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-431",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's buranjis must be read critically because they",
+      "as": "আহোম ৰাজ্যৰ বুৰঞ্জী সমালোচনামূলকভাৱে পঢ়িব লাগে কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "were court documents with a legitimising purpose",
+        "as": "বৈধতা প্ৰদানৰ উদ্দেশ্য থকা দৰবাৰৰ দস্তাবেজ আছিল"
+      },
+      {
+        "en": "were written by foreigners",
+        "as": "বিদেশীয়ে লিখিছিল"
+      },
+      {
+        "en": "contain no dates",
+        "as": "কোনো তাৰিখ নাই"
+      },
+      {
+        "en": "were printed in England",
+        "as": "ইংলেণ্ডত ছপা হৈছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Their court origin means bias, which is why critical reading is needed. Foreign authorship, no dates and English printing are wrong.",
+      "as": "দৰবাৰৰ উৎপত্তিৰ অৰ্থ পক্ষপাত, সেয়ে সমালোচনামূলক পঢ়া প্ৰয়োজন। বিদেশী ৰচনা, তাৰিখহীনতা আৰু ইংলেণ্ডত ছপা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-432",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's economic history is reconstructed mainly from",
+      "as": "আহোম ৰাজ্যৰ অৰ্থনৈতিক ইতিহাস মূলতঃ কাৰপৰা পুনৰ্গঠিত হয়"
+    },
+    "options": [
+      {
+        "en": "modern company balance sheets",
+        "as": "আধুনিক কোম্পানীৰ হিচাপপত্ৰৰপৰা"
+      },
+      {
+        "en": "tourist brochures",
+        "as": "পৰ্যটন পুস্তিকাৰপৰা"
+      },
+      {
+        "en": "cinema records",
+        "as": "চলচ্চিত্ৰ ৰেকৰ্ডৰপৰা"
+      },
+      {
+        "en": "grants, buranjis and later colonial records",
+        "as": "দানপত্ৰ, বুৰঞ্জী আৰু পিছৰ ঔপনিবেশিক ৰেকৰ্ডৰপৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Grants, chronicles and colonial records are the base, which is why they are named. Balance sheets, brochures and cinema are modern.",
+      "as": "দানপত্ৰ, বুৰঞ্জী আৰু ঔপনিবেশিক ৰেকৰ্ড ভেটি, সেয়ে সেয়া নাম দিয়া হয়। হিচাপপত্ৰ, পুস্তিকা আৰু চলচ্চিত্ৰ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-433",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's social history is difficult to reconstruct because the records",
+      "as": "আহোম ৰাজ্যৰ সমাজ ইতিহাস পুনৰ্গঠন কঠিন কাৰণ ৰেকৰ্ডে"
+    },
+    "options": [
+      {
+        "en": "are written in English",
+        "as": "ইংৰাজীত লিখা হৈছিল"
+      },
+      {
+        "en": "contain only pictures",
+        "as": "কেৱল ছবি আছে"
+      },
+      {
+        "en": "focus on the court and officials rather than ordinary people",
+        "as": "সাধাৰণ লোকৰ সলনি দৰবাৰ আৰু বিষয়ালৈ মনোযোগ দিয়ে"
+      },
+      {
+        "en": "were all destroyed",
+        "as": "সকলো ধ্বংস হৈছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Court focus limits social detail, which is why reconstruction is hard. Total destruction, English and pictures only are wrong.",
+      "as": "দৰবাৰৰ গুৰুত্বে সমাজৰ বিৱৰণ সীমিত কৰে, সেয়ে পুনৰ্গঠন কঠিন। সম্পূৰ্ণ ধ্বংস, ইংৰাজী আৰু কেৱল ছবি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-434",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's military history shows the importance of",
+      "as": "আহোম ৰাজ্যৰ সামৰিক ইতিহাসে কাৰ গুৰুত্ব দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "siege towers",
+        "as": "অৱৰোধ স্তম্ভ"
+      },
+      {
+        "en": "riverine mobility and local knowledge",
+        "as": "নদীগত গতিশীলতা আৰু স্থানীয় জ্ঞান"
+      },
+      {
+        "en": "heavy cavalry",
+        "as": "গধুৰ অশ্বাৰোহী"
+      },
+      {
+        "en": "ocean going fleets",
+        "as": "সাগৰগামী নৌবহৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Boats and local knowledge decided campaigns, which is why they are named. Cavalry, ocean fleets and siege towers do not describe Ahom warfare.",
+      "as": "নাৱে আৰু স্থানীয় জ্ঞানে অভিযান নিৰ্ধাৰণ কৰিছিল, সেয়ে সেয়া নাম দিয়া হয়। অশ্বাৰোহী, সাগৰীয় নৌবহৰ আৰু অৱৰোধ স্তম্ভে আহোম যুদ্ধৰ বৰ্ণনা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-435",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's success against the Mughals is often explained by",
+      "as": "মোগলৰ বিৰুদ্ধে আহোম ৰাজ্যৰ সফলতা প্ৰায়ে কাৰ দ্বাৰা ব্যাখ্যা কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "the difficulty of campaigning in the valley's terrain",
+        "as": "উপত্যকাৰ ভূ-প্ৰকৃতিত অভিযান চলোৱাৰ কঠিনতা"
+      },
+      {
+        "en": "Ahom naval superiority at sea",
+        "as": "সাগৰত আহোমৰ নৌ শ্ৰেষ্ঠত্ব"
+      },
+      {
+        "en": "European alliances",
+        "as": "ইউৰোপীয় মিত্ৰতা"
+      },
+      {
+        "en": "a larger treasury",
+        "as": "বৃহৎ ভঁৰাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Terrain favoured the defenders, which is why the explanation is used. Sea power, European alliances and a larger treasury are wrong.",
+      "as": "ভূ-প্ৰকৃতিয়ে ৰক্ষকক সুবিধা দিছিল, সেয়ে ব্যাখ্যাটো ব্যৱহৃত। সাগৰীয় শক্তি, ইউৰোপীয় মিত্ৰতা আৰু বৃহৎ ভঁৰাল ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-436",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's relations with Bengal are visible in the record through",
+      "as": "বংগৰ লগত আহোম ৰাজ্যৰ সম্পৰ্ক ৰেকৰ্ডত দৃশ্যমান কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "a shared navy",
+        "as": "সহভাগী নৌসেনাৰ জৰিয়তে"
+      },
+      {
+        "en": "a common army",
+        "as": "সহভাগী সেনাৰ জৰিয়তে"
+      },
+      {
+        "en": "a joint parliament",
+        "as": "যুটীয়া সংসদৰ জৰিয়তে"
+      },
+      {
+        "en": "trade in silk, timber and other goods",
+        "as": "পাট, কাঠ আৰু আন সামগ্ৰীৰ বাণিজ্যৰ জৰিয়তে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Trade is the documented link, which is why goods are named. Navies, armies and parliaments were not shared.",
+      "as": "বাণিজ্যই লিপিবদ্ধ সংযোগ, সেয়ে সামগ্ৰীৰ নাম দিয়া হয়। নৌসেনা, সেনা আৰু সংসদ সহভাগী নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-437",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's tax system was reformed under later kings to",
+      "as": "পিছৰ ৰজাসকলৰ অধীনত আহোম ৰাজ্যৰ কৰ ব্যৱস্থা সংস্কাৰ কৰা হৈছিল কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "tax only Europeans",
+        "as": "কেৱল ইউৰোপীয়ক কৰ লগাবলৈ"
+      },
+      {
+        "en": "end all trade",
+        "as": "সকলো বাণিজ্য অন্ত কৰিবলৈ"
+      },
+      {
+        "en": "regularise collection and reduce evasion",
+        "as": "সংগ্ৰহ নিয়মিত কৰি ফাঁকি কমাবলৈ"
+      },
+      {
+        "en": "abolish all taxation",
+        "as": "সকলো কৰ বিলুপ্ত কৰিবলৈ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Regularisation and reduced evasion were the aims, which is why reform happened. Abolishing tax, taxing Europeans only and ending trade are wrong.",
+      "as": "নিয়মিতকৰণ আৰু ফাঁকি হ্ৰাস লক্ষ্য আছিল, সেয়ে সংস্কাৰ ঘটিছিল। কৰ বিলুপ্তি, কেৱল ইউৰোপীয় কৰ আৰু বাণিজ্য অন্ত ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-438",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's coinage is important because it",
+      "as": "আহোম ৰাজ্যৰ মুদ্ৰা গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "describes rituals fully",
+        "as": "ৰীতি সম্পূৰ্ণ বৰ্ণনা কৰে"
+      },
+      {
+        "en": "helps date rulers and shows economic activity",
+        "as": "শাসকৰ তাৰিখ নিৰ্ধাৰণ আৰু অৰ্থনৈতিক কাৰ্যকলাপ দেখুৱায়"
+      },
+      {
+        "en": "records the weather",
+        "as": "বতৰ লিপিবদ্ধ কৰে"
+      },
+      {
+        "en": "lists all villages",
+        "as": "সকলো গাঁও তালিকাভুক্ত কৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Coins carry names and styles that date reigns, which is why numismatics matters. Weather, villages and rituals are not their content.",
+      "as": "মুদ্ৰাত নাম আৰু শৈলী থাকে যি ৰাজত্বৰ তাৰিখ দিয়ে, সেয়ে মুদ্ৰাবিদ্যা গুৰুত্বপূৰ্ণ। বতৰ, গাঁও আৰু ৰীতি তাৰ বিষয়বস্তু নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-439",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's octagonal coin design is associated with",
+      "as": "আহোম ৰাজ্যৰ অষ্টকোণীয় মুদ্ৰাৰ আৰ্হি কাৰ লগত জড়িত"
+    },
+    "options": [
+      {
+        "en": "Rudra Singha and later rulers",
+        "as": "ৰুদ্ৰ সিংহ আৰু পিছৰ শাসকসকলৰ"
+      },
+      {
+        "en": "Sukapha",
+        "as": "চুকাফাৰ"
+      },
+      {
+        "en": "the British",
+        "as": "ব্ৰিটিছসকলৰ"
+      },
+      {
+        "en": "the Mughals",
+        "as": "মোগলসকলৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The distinctive coinage belongs to the later Ahom period, which is why Rudra Singha is named. Sukapha predates it, and the British and Mughals did not issue it.",
+      "as": "বিশিষ্ট মুদ্ৰা পিছৰ আহোম কালৰ, সেয়ে ৰুদ্ৰ সিংহৰ নাম দিয়া হয়। চুকাফা তাৰ আগৰ, আৰু ব্ৰিটিছ তথা মোগলে জাৰি কৰা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-440",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's capital at Rangpur had a mint, which indicates",
+      "as": "ৰংপুৰত আহোম ৰাজ্যৰ ৰাজধানীত টকালয় আছিল, যি সূচায়"
+    },
+    "options": [
+      {
+        "en": "the absence of trade",
+        "as": "বাণিজ্যৰ অভাৱ"
+      },
+      {
+        "en": "the end of agriculture",
+        "as": "কৃষিৰ অন্ত"
+      },
+      {
+        "en": "a ban on coins",
+        "as": "মুদ্ৰাৰ ওপৰত নিষেধ"
+      },
+      {
+        "en": "a monetised sector of the economy",
+        "as": "অৰ্থনীতিৰ মুদ্ৰাভিত্তিক খণ্ড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A mint implies coin use, which is why monetisation is inferred. No trade, ending farming and a coin ban are contradicted.",
+      "as": "টকালয়ে মুদ্ৰাৰ ব্যৱহাৰ সূচায়, সেয়ে মুদ্ৰাকৰণ অনুমান কৰা হয়। বাণিজ্যহীনতা, কৃষি অন্ত আৰু মুদ্ৰা নিষেধ খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-441",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main non agricultural occupation of the paiks was",
+      "as": "পাইকসকলৰ কৃষিৰ বাহিৰে প্ৰধান কাম আছিল"
+    },
+    "options": [
+      {
+        "en": "banking",
+        "as": "বেংকিং"
+      },
+      {
+        "en": "shipbuilding for Europe",
+        "as": "ইউৰোপৰ বাবে জাহাজ নিৰ্মাণ"
+      },
+      {
+        "en": "public works such as roads, tanks and forts",
+        "as": "পথ, পুখুৰী আৰু দুৰ্গ আদি ৰাজহুৱা কাম"
+      },
+      {
+        "en": "overseas trade",
+        "as": "বিদেশী বাণিজ্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Public works were the main duty, which is why infrastructure survives. Overseas trade, banking and European shipbuilding are wrong.",
+      "as": "ৰাজহুৱা কামেই প্ৰধান কৰ্তব্য, সেয়ে আন্তঃগাঁথনি ৰৈ গৈছে। বিদেশী বাণিজ্য, বেংকিং আৰু ইউৰোপীয় জাহাজ নিৰ্মাণ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-442",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's road building is significant because it",
+      "as": "আহোম ৰাজ্যৰ পথ নিৰ্মাণ গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "created the tea industry",
+        "as": "চাহ উদ্যোগ সৃষ্টি কৰিছিল"
+      },
+      {
+        "en": "linked the capital with frontier posts and markets",
+        "as": "ৰাজধানী সীমান্ত চকী আৰু বজাৰৰ লগত জুৰিছিল"
+      },
+      {
+        "en": "ended all trade",
+        "as": "সকলো বাণিজ্য অন্ত কৰিছিল"
+      },
+      {
+        "en": "brought the British",
+        "as": "ব্ৰিটিছ আনিছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Roads connected administration and trade, which is why they matter. Ending trade, bringing the British and creating tea are wrong.",
+      "as": "পথে প্ৰশাসন আৰু বাণিজ্য জুৰিছিল, সেয়ে সেয়া গুৰুত্বপূৰ্ণ। বাণিজ্য অন্ত, ব্ৰিটিছ আমন্ত্ৰণ আৰু চাহ সৃষ্টি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-443",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's bridges and causeways were important because they",
+      "as": "আহোম ৰাজ্যৰ দলং আৰু বান্ধ গুৰুত্বপূৰ্ণ আছিল কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "allowed movement across streams and wet ground",
+        "as": "জানিব আৰু তিতি থকা মাটিৰ ওপৰেৰে চলাচল সুবলম্ব কৰিছিল"
+      },
+      {
+        "en": "served as temples",
+        "as": "মন্দিৰ হিচাপে কাম কৰিছিল"
+      },
+      {
+        "en": "stored grain",
+        "as": "শস্য সংৰক্ষণ কৰিছিল"
+      },
+      {
+        "en": "housed soldiers",
+        "as": "সৈন্য ৰাখিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bridges aided movement, which is why they are recorded. Temples, granaries and barracks are different structures.",
+      "as": "দলঙে চলাচলত সহায় কৰিছিল, সেয়ে সেয়া লিপিবদ্ধ। মন্দিৰ, শস্যাগাৰ আৰু বেৰেক বেলেগ গঠন।"
+    }
+  },
+  {
+    "id": "assam-history-extra-444",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's water management included",
+      "as": "আহোম ৰাজ্যৰ জল ব্যৱস্থাপনাত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "desalination plants",
+        "as": "লৱণমুক্তকৰণ কেন্দ্ৰ"
+      },
+      {
+        "en": "dams for hydro power",
+        "as": "জলবিদ্যুৎ বান্ধ"
+      },
+      {
+        "en": "irrigation pumps",
+        "as": "জলসিঞ্চন পাম্প"
+      },
+      {
+        "en": "tanks, canals and embankments",
+        "as": "পুখুৰী, খাল আৰু বান্ধ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Tanks, canals and embankments were the methods, which is why they are named. Desalination, hydro dams and pumps are modern.",
+      "as": "পুখুৰী, খাল আৰু বান্ধেই পদ্ধতি, সেয়ে সেয়া নাম দিয়া হয়। লৱণমুক্তকৰণ, জলবিদ্যুৎ বান্ধ আৰু পাম্প আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-445",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's agriculture was supported by",
+      "as": "আহোম ৰাজ্যৰ কৃষিক সহায় কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "tractor mechanisation",
+        "as": "ট্ৰেক্টৰ যন্ত্ৰীকৰণে"
+      },
+      {
+        "en": "genetically modified seed",
+        "as": "জিনীয় পৰিৱৰ্তিত বীজে"
+      },
+      {
+        "en": "the silt deposited by annual floods",
+        "as": "বাৰ্ষিক বানৰ পলসে"
+      },
+      {
+        "en": "chemical fertiliser imports",
+        "as": "ৰাসায়নিক সাৰ আমদানিয়ে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Flood silt renewed the soil, which is why the valley was fertile. Chemical fertiliser, tractors and modified seed are modern.",
+      "as": "বানৰ পলসে মাটি নৱীকৰণ কৰিছিল, সেয়ে উপত্যকা উৰ্বৰ আছিল। ৰাসায়নিক সাৰ, ট্ৰেক্টৰ আৰু পৰিৱৰ্তিত বীজ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-446",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's flood dependent agriculture also meant",
+      "as": "বান নিৰ্ভৰ কৃষিৰ অৰ্থ আছিল"
+    },
+    "options": [
+      {
+        "en": "no need for storage",
+        "as": "সংৰক্ষণৰ প্ৰয়োজন নাই"
+      },
+      {
+        "en": "periodic crop losses and food scarcity",
+        "as": "সময়ে সময়ে শস্য ক্ষতি আৰু খাদ্য অভাৱ"
+      },
+      {
+        "en": "complete food security",
+        "as": "সম্পূৰ্ণ খাদ্য সুৰক্ষা"
+      },
+      {
+        "en": "the end of rice farming",
+        "as": "ধান খেতিৰ অন্ত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Floods could destroy crops, which is why scarcity occurred. Complete security, ending rice and no storage are contradicted.",
+      "as": "বানে শস্য নষ্ট কৰিব পাৰিছিল, সেয়ে অভাৱ ঘটিছিল। সম্পূৰ্ণ সুৰক্ষা, ধান অন্ত আৰু সংৰক্ষণহীনতা খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-447",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's granaries were maintained to",
+      "as": "আহোম ৰাজ্যৰ শস্যাগাৰ ৰখা হৈছিল কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "store surplus for scarcity and for troops",
+        "as": "অভাৱ আৰু সৈন্যৰ বাবে অতিৰিক্ত সংৰক্ষণ কৰিবলৈ"
+      },
+      {
+        "en": "display wealth",
+        "as": "ধন প্ৰদৰ্শন কৰিবলৈ"
+      },
+      {
+        "en": "house prisoners",
+        "as": "বন্দী ৰাখিবলৈ"
+      },
+      {
+        "en": "train soldiers",
+        "as": "সৈন্য প্ৰশিক্ষণ দিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Surplus storage met shortages and military needs, which is why granaries existed. Display, prisons and training are different uses.",
+      "as": "অতিৰিক্ত সংৰক্ষণে অভাৱ আৰু সামৰিক প্ৰয়োজন পূৰাইছিল, সেয়ে শস্যাগাৰ আছিল। প্ৰদৰ্শন, কাৰাগাৰ আৰু প্ৰশিক্ষণ বেলেগ ব্যৱহাৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-448",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's market regulation included",
+      "as": "আহোম ৰাজ্যৰ বজাৰ নিয়ন্ত্ৰণত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "stock exchange listing",
+        "as": "শ্বেয়াৰ বজাৰ তালিকাভুক্তি"
+      },
+      {
+        "en": "bank interest rates",
+        "as": "বেংক সুতৰ হাৰ"
+      },
+      {
+        "en": "insurance premiums",
+        "as": "বীমা প্ৰিমিয়াম"
+      },
+      {
+        "en": "weights, measures and dues on transactions",
+        "as": "ওজন, জোখ আৰু লেনদেনৰ মাচুল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Weights, measures and dues were regulated, which is why market rules existed. Listing, interest and insurance are modern.",
+      "as": "ওজন, জোখ আৰু মাচুল নিয়ন্ত্ৰিত আছিল, সেয়ে বজাৰ নিয়ম আছিল। তালিকাভুক্তি, সুত আৰু বীমা আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-449",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's weights and measures were important because they",
+      "as": "আহোম ৰাজ্যৰ ওজন আৰু জোখ গুৰুত্বপূৰ্ণ আছিল কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "recorded temperature",
+        "as": "উষ্ণতা লিপিবদ্ধ কৰিছিল"
+      },
+      {
+        "en": "measured time",
+        "as": "সময় জোখিছিল"
+      },
+      {
+        "en": "made revenue and trade assessments consistent",
+        "as": "ৰাজহ আৰু বাণিজ্যৰ হিচাপ সুসংগত কৰিছিল"
+      },
+      {
+        "en": "measured rainfall",
+        "as": "বৰষুণ জোখিছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Consistent measures supported revenue and trade, which is why they were fixed. Rainfall, temperature and time are different instruments.",
+      "as": "সুসংগত জোখে ৰাজহ আৰু বাণিজ্যক সহায় কৰিছিল, সেয়ে সেয়া নিৰ্ধাৰিত আছিল। বৰষুণ, উষ্ণতা আৰু সময় বেলেগ সঁজুলি।"
+    }
+  },
+  {
+    "id": "assam-history-extra-450",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's crafts included",
+      "as": "আহোম ৰাজ্যৰ কাৰিকৰী কলাত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "steel rolling",
+        "as": "ইস্পাত ৰ'লিং"
+      },
+      {
+        "en": "weaving, metalwork and boat building",
+        "as": "বোৱা-কটা, ধাতুৰ কাম আৰু নাও নিৰ্মাণ"
+      },
+      {
+        "en": "aircraft assembly",
+        "as": "বিমান সংযোজন"
+      },
+      {
+        "en": "computer manufacturing",
+        "as": "কম্পিউটাৰ উৎপাদন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Weaving, metal and boats were the crafts, which is why they are named. Aircraft, computers and steel rolling are modern.",
+      "as": "বোৱা-কটা, ধাতু আৰু নাও কাৰিকৰী কলা, সেয়ে সেয়া নাম দিয়া হয়। বিমান, কম্পিউটাৰ আৰু ইস্পাত আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-451",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's textile production was mainly",
+      "as": "আহোম ৰাজ্যৰ বস্ত্ৰ উৎপাদন মূলতঃ আছিল"
+    },
+    "options": [
+      {
+        "en": "household weaving for use and dues",
+        "as": "ব্যৱহাৰ আৰু মাচুলৰ বাবে ঘৰুৱা বোৱা-কটা"
+      },
+      {
+        "en": "factory production for export",
+        "as": "ৰপ্তানিৰ বাবে কাৰখানা উৎপাদন"
+      },
+      {
+        "en": "imported cloth only",
+        "as": "কেৱল আমদানি কৰা কাপোৰ"
+      },
+      {
+        "en": "synthetic fibre output",
+        "as": "কৃত্ৰিম আঁহ উৎপাদন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Household weaving supplied use and dues, which is why it is described that way. Factory export, imports only and synthetics are wrong.",
+      "as": "ঘৰুৱা বোৱাই ব্যৱহাৰ আৰু মাচুল যোগাইছিল, সেয়ে এনেদৰে বৰ্ণনা কৰা হয়। কাৰখানা ৰপ্তানি, কেৱল আমদানি আৰু কৃত্ৰিম ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-452",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's iron working produced mainly",
+      "as": "আহোম ৰাজ্যৰ লো-কামে মূলতঃ উৎপাদন কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "railway rails",
+        "as": "ৰেল লাইন"
+      },
+      {
+        "en": "ship hulls",
+        "as": "জাহাজৰ গাত"
+      },
+      {
+        "en": "bridge girders",
+        "as": "দলঙৰ বীম"
+      },
+      {
+        "en": "tools, weapons and implements",
+        "as": "সঁজুলি, অস্ত্ৰ আৰু যন্ত্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Tools and weapons were the output, which is why smelting mattered. Rails, hulls and girders are industrial products.",
+      "as": "সঁজুলি আৰু অস্ত্ৰই উৎপাদন, সেয়ে গলন গুৰুত্বপূৰ্ণ। লাইন, গাত আৰু বীম ঔদ্যোগিক সামগ্ৰী।"
+    }
+  },
+  {
+    "id": "assam-history-extra-453",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's pottery served mainly",
+      "as": "আহোম ৰাজ্যৰ মাটিৰ বাচনে মূলতঃ কাৰ কাম কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "electrical insulation",
+        "as": "বৈদ্যুতিক অন্তৰক"
+      },
+      {
+        "en": "space craft tiles",
+        "as": "মহাকাশ যানৰ টাইল"
+      },
+      {
+        "en": "household storage and cooking",
+        "as": "ঘৰুৱা সংৰক্ষণ আৰু ৰন্ধা-বঢ়া"
+      },
+      {
+        "en": "industrial piping",
+        "as": "ঔদ্যোগিক পাইপ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Household storage and cooking were the uses, which is why pottery was common. Piping, insulation and spacecraft tiles are modern.",
+      "as": "ঘৰুৱা সংৰক্ষণ আৰু ৰন্ধা-বঢ়াই ব্যৱহাৰ, সেয়ে মাটিৰ বাচন সাধাৰণ আছিল। পাইপ, অন্তৰক আৰু মহাকাশ টাইল আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-454",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's boat building was strategically important because boats",
+      "as": "আহোম ৰাজ্যৰ নাও নিৰ্মাণ কৌশলগতভাৱে গুৰুত্বপূৰ্ণ আছিল কাৰণ নাৱে"
+    },
+    "options": [
+      {
+        "en": "generated electricity",
+        "as": "বিদ্যুৎ উৎপাদন কৰিছিল"
+      },
+      {
+        "en": "carried troops, goods and messages",
+        "as": "সৈন্য, সামগ্ৰী আৰু বাৰ্তা কঢ়িয়াইছিল"
+      },
+      {
+        "en": "served as temples",
+        "as": "মন্দিৰ হিচাপে কাম কৰিছিল"
+      },
+      {
+        "en": "were used for mining",
+        "as": "খননৰ বাবে ব্যৱহৃত হৈছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Boats moved men and material, which is why the fleet mattered. Temples, mining and electricity are wrong.",
+      "as": "নাৱে মানুহ আৰু সামগ্ৰী চলাইছিল, সেয়ে নাওবাহিনী গুৰুত্বপূৰ্ণ। মন্দিৰ, খনন আৰু বিদ্যুৎ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-455",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's principal boat type used for war was the",
+      "as": "যুদ্ধত ব্যৱহৃত আহোম ৰাজ্যৰ প্ৰধান নাওৰ প্ৰকাৰ আছিল"
+    },
+    "options": [
+      {
+        "en": "war canoe with rowers and fighters",
+        "as": "মাল্লা আৰু যোদ্ধাসহ যুদ্ধৰ নাও"
+      },
+      {
+        "en": "steam ship",
+        "as": "বাষ্পীয় জাহাজ"
+      },
+      {
+        "en": "ironclad",
+        "as": "লোৰ আৱৰণযুক্ত জাহাজ"
+      },
+      {
+        "en": "submarine",
+        "as": "ডুবুৰী নাও"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rowed war boats fought on the river, which is why the type is named. Steam ships, ironclads and submarines are later or foreign.",
+      "as": "মাল্লাৰে চলা যুদ্ধৰ নাৱে নদীত যুঁজিছিল, সেয়ে প্ৰকাৰটোৰ নাম দিয়া হয়। বাষ্পীয় জাহাজ, লোৰ আৱৰণ আৰু ডুবুৰী নাও পিছৰ বা বিদেশী।"
+    }
+  },
+  {
+    "id": "assam-history-extra-456",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's river forts were built mainly to",
+      "as": "আহোম ৰাজ্যৰ নদী দুৰ্গ মূলতঃ কাৰ বাবে নিৰ্মাণ কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "store grain",
+        "as": "শস্য সংৰক্ষণ কৰিবলৈ"
+      },
+      {
+        "en": "house temples",
+        "as": "মন্দিৰ ৰাখিবলৈ"
+      },
+      {
+        "en": "train horses",
+        "as": "ঘোঁৰা প্ৰশিক্ষণ দিবলৈ"
+      },
+      {
+        "en": "block enemy boats and protect crossings",
+        "as": "শত্ৰুৰ নাও বাধা দি ঘাট সুৰক্ষিত কৰিবলৈ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Blocking boats and protecting crossings were the purposes, which is why forts sat on rivers. Grain, temples and horses are different.",
+      "as": "নাও বাধা আৰু ঘাট সুৰক্ষাই উদ্দেশ্য, সেয়ে দুৰ্গ নদীৰ কাষত আছিল। শস্য, মন্দিৰ আৰু ঘোঁৰা বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-457",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's watch posts along the river served to",
+      "as": "নদীৰ কাষত আহোম ৰাজ্যৰ চকীসমূহে কাৰ কাম কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "mine coal",
+        "as": "কয়লা খনন কৰিছিল"
+      },
+      {
+        "en": "build ships",
+        "as": "জাহাজ নিৰ্মাণ কৰিছিল"
+      },
+      {
+        "en": "give early warning of approaching forces",
+        "as": "অহা বাহিনীৰ আগতীয়া সতৰ্কবাণী দিছিল"
+      },
+      {
+        "en": "collect tea",
+        "as": "চাহ সংগ্ৰহ কৰিছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Early warning was the function, which is why posts lined the river. Tea, coal and ships are unrelated.",
+      "as": "আগতীয়া সতৰ্কবাণী কাৰ্য আছিল, সেয়ে চকী নদীৰ কাষত আছিল। চাহ, কয়লা আৰু জাহাজ অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-458",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's signals for military communication included",
+      "as": "সামৰিক যোগাযোগৰ বাবে আহোম ৰাজ্যৰ সংকেতে অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "satellite links",
+        "as": "উপগ্ৰহ সংযোগ"
+      },
+      {
+        "en": "drums, fire and relay runners",
+        "as": "ঢোল, জুই আৰু পালক্ৰমিক দৌৰিয়াল"
+      },
+      {
+        "en": "telegraph codes",
+        "as": "টেলিগ্ৰাফ সংকেত"
+      },
+      {
+        "en": "radio frequencies",
+        "as": "ৰেডিঅ' কম্পাঙ্ক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Drums, fire and runners carried messages, which is why they are named. Telegraph, radio and satellites are modern.",
+      "as": "ঢোল, জুই আৰু দৌৰিয়ালে বাৰ্তা কঢ়িয়াইছিল, সেয়ে সেয়া নাম দিয়া হয়। টেলিগ্ৰাফ, ৰেডিঅ' আৰু উপগ্ৰহ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-459",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's border with the Mughal territory was marked mainly by",
+      "as": "মোগল ভূখণ্ডৰ লগত আহোম ৰাজ্যৰ সীমা মূলতঃ কাৰ দ্বাৰা চিহ্নিত আছিল"
+    },
+    "options": [
+      {
+        "en": "rivers and agreed boundary points",
+        "as": "নদী আৰু সন্মত সীমা বিন্দু"
+      },
+      {
+        "en": "stone walls along the whole frontier",
+        "as": "গোটেই সীমান্তত শিলৰ দেৱাল"
+      },
+      {
+        "en": "a single gate",
+        "as": "এখন দুৱাৰ"
+      },
+      {
+        "en": "a customs union",
+        "as": "শুল্ক সংঘ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rivers and agreed points fixed the border, which is why the Manas is remembered. Walls, a gate and a customs union are wrong.",
+      "as": "নদী আৰু সন্মত বিন্দুৱে সীমা নিৰ্ধাৰণ কৰিছিল, সেয়ে মনাহ স্মৰণীয়। দেৱাল, দুৱাৰ আৰু শুল্ক সংঘ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-460",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's boundary settlement after Saraighat placed the frontier at the",
+      "as": "সৰাইঘাটৰ পিছত আহোম ৰাজ্যৰ সীমা নিষ্পত্তিয়ে সীমান্ত ৰাখিছিল"
+    },
+    "options": [
+      {
+        "en": "Barak river",
+        "as": "বৰাক নদীত"
+      },
+      {
+        "en": "Kapili river",
+        "as": "কপিলী নদীত"
+      },
+      {
+        "en": "Subansiri river",
+        "as": "সোৱণশিৰি নদীত"
+      },
+      {
+        "en": "Manas river",
+        "as": "মনাহ নদীত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Manas marked the agreed frontier, which is why it is named. The Barak, Kapili and Subansiri are other rivers.",
+      "as": "মনাহে সন্মত সীমা চিহ্নিত কৰিছিল, সেয়ে ইয়াৰ নাম দিয়া হয়। বৰাক, কপিলী আৰু সোৱণশিৰি আন নদী।"
+    }
+  },
+  {
+    "id": "assam-history-extra-461",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's western frontier post of Itakhuli was important because it",
+      "as": "আহোম ৰাজ্যৰ পশ্চিম সীমান্ত চকী ইটাখুলি গুৰুত্বপূৰ্ণ আছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "was a religious centre",
+        "as": "ধৰ্মীয় কেন্দ্ৰ আছিল"
+      },
+      {
+        "en": "was a tea garden",
+        "as": "চাহ বাগিচা আছিল"
+      },
+      {
+        "en": "guarded the approach to Guwahati",
+        "as": "গুৱাহাটীলৈ অহা পথ ৰক্ষা কৰিছিল"
+      },
+      {
+        "en": "housed the royal treasury",
+        "as": "ৰাজকীয় ভঁৰাল ৰাখিছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Itakhuli guarded the western approach, which is why battles occurred there. Treasury, religion and tea are different.",
+      "as": "ইটাখুলিয়ে পশ্চিম পথ ৰক্ষা কৰিছিল, সেয়ে তাত যুদ্ধ হৈছিল। ভঁৰাল, ধৰ্ম আৰু চাহ বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-462",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's control of Guwahati was contested because it",
+      "as": "গুৱাহাটীৰ নিয়ন্ত্ৰণ বিবাদিত আছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "was the tea capital",
+        "as": "চাহ ৰাজধানী আছিল"
+      },
+      {
+        "en": "commanded river trade and the valley's western entry",
+        "as": "নদী বাণিজ্য আৰু উপত্যকাৰ পশ্চিম প্ৰৱেশ নিয়ন্ত্ৰণ কৰিছিল"
+      },
+      {
+        "en": "was the burial ground of kings",
+        "as": "ৰজাসকলৰ সমাধিস্থল আছিল"
+      },
+      {
+        "en": "had no strategic value",
+        "as": "কোনো কৌশলগত মূল্য নাছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Trade and the western entry made it valuable, which is why it changed hands. Burial, no value and tea are wrong.",
+      "as": "বাণিজ্য আৰু পশ্চিম প্ৰৱেশে ইয়াক মূল্যৱান কৰিছিল, সেয়ে ইয়াৰ হাত সলনি হৈছিল। সমাধি, মূল্যহীনতা আৰু চাহ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-463",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's capital shift towards the west over time reflected",
+      "as": "সময়ৰ লগত পশ্চিমলৈ আহোম ৰাজ্যৰ ৰাজধানী স্থানান্তৰে প্ৰতিফলিত কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "the growing importance of the lower valley",
+        "as": "নিম্ন উপত্যকাৰ বৃদ্ধি পোৱা গুৰুত্ব"
+      },
+      {
+        "en": "a loss of interest in the east",
+        "as": "পূবৰ প্ৰতি আগ্ৰহ হ্ৰাস"
+      },
+      {
+        "en": "the end of river trade",
+        "as": "নদী বাণিজ্যৰ অন্ত"
+      },
+      {
+        "en": "a ban on agriculture",
+        "as": "কৃষিৰ ওপৰত নিষেধ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The lower valley grew in importance, which is why the capital moved west. Loss of eastern interest, ending trade and a farming ban are wrong.",
+      "as": "নিম্ন উপত্যকাৰ গুৰুত্ব বাঢ়িছিল, সেয়ে ৰাজধানী পশ্চিমলৈ গৈছিল। পূবৰ আগ্ৰহ হ্ৰাস, বাণিজ্য অন্ত আৰু খেতি নিষেধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-464",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's relations with the plains kingdoms to its west were shaped by",
+      "as": "পশ্চিমৰ সমভূমি ৰাজ্যৰ লগত আহোম ৰাজ্যৰ সম্পৰ্ক গঢ় লৈছিল কাৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "a shared religion only",
+        "as": "কেৱল সহভাগী ধৰ্মৰ দ্বাৰা"
+      },
+      {
+        "en": "a common navy",
+        "as": "সহভাগী নৌসেনাৰ দ্বাৰা"
+      },
+      {
+        "en": "European mediation",
+        "as": "ইউৰোপীয় মধ্যস্থতাৰ দ্বাৰা"
+      },
+      {
+        "en": "competition for the lower valley and its revenues",
+        "as": "নিম্ন উপত্যকা আৰু তাৰ ৰাজহৰ প্ৰতিদ্বন্দ্বিতাৰ দ্বাৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Competition for revenue drove relations, which is why the lower valley mattered. Religion only, a navy and European mediation are wrong.",
+      "as": "ৰাজহৰ প্ৰতিদ্বন্দ্বিতাই সম্পৰ্ক চালিত কৰিছিল, সেয়ে নিম্ন উপত্যকা গুৰুত্বপূৰ্ণ। কেৱল ধৰ্ম, নৌসেনা আৰু ইউৰোপীয় মধ্যস্থতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-465",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's revenue from the lower valley was important because it",
+      "as": "নিম্ন উপত্যকাৰপৰা আহোম ৰাজ্যৰ ৰাজহ গুৰুত্বপূৰ্ণ আছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "contained all the forests",
+        "as": "সকলো অৰণ্য ধৰিছিল"
+      },
+      {
+        "en": "had no population",
+        "as": "জনসংখ্যা নাছিল"
+      },
+      {
+        "en": "added substantial agricultural and trade income",
+        "as": "উল্লেখনীয় কৃষি আৰু বাণিজ্য আয় যোগ কৰিছিল"
+      },
+      {
+        "en": "was the only source of salt",
+        "as": "লৱণৰ একমাত্ৰ উৎস আছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Agricultural and trade income made it valuable, which is why it was contested. Salt only, all forests and no population are wrong.",
+      "as": "কৃষি আৰু বাণিজ্য আয়ে ইয়াক মূল্যৱান কৰিছিল, সেয়ে বিবাদিত আছিল। কেৱল লৱণ, সকলো অৰণ্য আৰু জনসংখ্যাহীনতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-466",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main weakness in holding the west was",
+      "as": "পশ্চিম ধৰি ৰখাত আহোম ৰাজ্যৰ প্ৰধান দুৰ্বলতা আছিল"
+    },
+    "options": [
+      {
+        "en": "a lack of rivers",
+        "as": "নদীৰ অভাব"
+      },
+      {
+        "en": "the distance from the capital and supply lines",
+        "as": "ৰাজধানীৰপৰা দূৰত্ব আৰু যোগান শৃংখল"
+      },
+      {
+        "en": "a lack of soldiers",
+        "as": "সৈনিকৰ অভাৱ"
+      },
+      {
+        "en": "a lack of boats",
+        "as": "নাৱৰ অভাব"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Distance strained supply, which is why the west changed hands. Lack of soldiers, boats and rivers are wrong.",
+      "as": "দূৰত্বই যোগানত চাপ দিছিল, সেয়ে পশ্চিমৰ হাত সলনি হৈছিল। সৈন্য, নাও আৰু নদীৰ অভাৱ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-467",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's use of local chiefs as intermediaries helped it",
+      "as": "স্থানীয় গোচৰসকলক মধ্যস্থতাকাৰী হিচাপে ব্যৱহাৰে আহোম ৰাজ্যক সহায় কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "govern distant areas with limited officials",
+        "as": "সীমিত বিষয়াৰে দূৰৰ অঞ্চল শাসন কৰিবলৈ"
+      },
+      {
+        "en": "abolish all local rule",
+        "as": "সকলো স্থানীয় শাসন বিলুপ্ত কৰিবলৈ"
+      },
+      {
+        "en": "end all taxation",
+        "as": "সকলো কৰ অন্ত কৰিবলৈ"
+      },
+      {
+        "en": "stop all trade",
+        "as": "সকলো বাণিজ্য বন্ধ কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Intermediaries extended reach, which is why they were used. Abolishing local rule, ending tax and stopping trade are wrong.",
+      "as": "মধ্যস্থতাকাৰীয়ে প্ৰসাৰ বঢ়াইছিল, সেয়ে তেওঁলোকক ব্যৱহাৰ কৰা হৈছিল। স্থানীয় শাসন বিলুপ্তি, কৰ অন্ত আৰু বাণিজ্য বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-468",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's policy of confirming local chiefs in office was intended to",
+      "as": "স্থানীয় গোচৰসকলক পদত নিশ্চিত কৰাৰ আহোম ৰাজ্যৰ নীতিৰ উদ্দেশ্য আছিল"
+    },
+    "options": [
+      {
+        "en": "replace all chiefs",
+        "as": "সকলো গোচৰক প্ৰতিস্থাপন কৰা"
+      },
+      {
+        "en": "end local customs",
+        "as": "স্থানীয় ৰীতি অন্ত কৰা"
+      },
+      {
+        "en": "abolish villages",
+        "as": "গাঁও বিলুপ্ত কৰা"
+      },
+      {
+        "en": "secure loyalty and smooth revenue collection",
+        "as": "অনুগত্য আৰু মসৃণ ৰাজহ সংগ্ৰহ নিশ্চিত কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Loyalty and revenue were the aims, which is why chiefs were confirmed. Replacing chiefs, ending customs and abolishing villages are wrong.",
+      "as": "অনুগত্য আৰু ৰাজহেই লক্ষ্য, সেয়ে গোচৰসকলক নিশ্চিত কৰা হৈছিল। গোচৰ প্ৰতিস্থাপন, ৰীতি অন্ত আৰু গাঁও বিলুপ্তি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-469",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's treatment of rebellious chiefs usually ended with",
+      "as": "বিদ্ৰোহী গোচৰসকলৰ লগত আহোম ৰাজ্যৰ ব্যৱহাৰ সাধাৰণতে শেষ হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the transfer of the area to Bengal",
+        "as": "অঞ্চলটো বংগলৈ স্থানান্তৰেৰে"
+      },
+      {
+        "en": "a treaty with the Mughals",
+        "as": "মোগলৰ লগত সন্ধিৰে"
+      },
+      {
+        "en": "their replacement by loyal relatives or officers",
+        "as": "অনুগত আত্মীয় বা বিষয়াৰ দ্বাৰা প্ৰতিস্থাপনৰে"
+      },
+      {
+        "en": "the abolition of the area",
+        "as": "অঞ্চলটো বিলুপ্তিৰে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Replacement restored control, which is why the pattern is described that way. Abolition, transfer to Bengal and Mughal treaties are wrong.",
+      "as": "প্ৰতিস্থাপনে নিয়ন্ত্ৰণ ঘূৰাই আনিছিল, সেয়ে আৰ্হিটো এনেদৰে বৰ্ণনা কৰা হয়। বিলুপ্তি, বংগলৈ স্থানান্তৰ আৰু মোগল সন্ধি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-470",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's military campaigns were usually timed to",
+      "as": "আহোম ৰাজ্যৰ সামৰিক অভিযান সাধাৰণতে সময় নিৰ্ধাৰণ কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "match the school year",
+        "as": "বিদ্যালয় বছৰৰ লগত মিলাবলৈ"
+      },
+      {
+        "en": "avoid the monsoon and the flooding season",
+        "as": "বৰ্ষাকাল আৰু বানৰ ঋতু এৰাই চলিবলৈ"
+      },
+      {
+        "en": "coincide with the tea harvest",
+        "as": "চাহ চপোৱাৰ লগত মিলাবলৈ"
+      },
+      {
+        "en": "follow the railway timetable",
+        "as": "ৰেল সময়সূচী অনুসৰণ কৰিবলৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The monsoon made movement hard, which is why campaigns avoided it. Tea, railways and school terms are wrong.",
+      "as": "বৰ্ষাকালে চলাচল কঠিন কৰিছিল, সেয়ে অভিযানে সেয়া এৰাই চলিছিল। চাহ, ৰেল আৰু বিদ্যালয় বছৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-471",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's reliance on river transport meant that campaigns were",
+      "as": "নদী পৰিবহণৰ ওপৰত আহোম ৰাজ্যৰ নিৰ্ভৰশীলতাৰ অৰ্থ আছিল অভিযান আছিল"
+    },
+    "options": [
+      {
+        "en": "shaped by water levels and boat availability",
+        "as": "জলপৃষ্ঠা আৰু নাৱৰ উপলব্ধতাৰ দ্বাৰা গঢ়িত"
+      },
+      {
+        "en": "independent of geography",
+        "as": "ভূগোলৰপৰা স্বাধীন"
+      },
+      {
+        "en": "conducted only in winter",
+        "as": "কেৱল শীতত চলোৱা"
+      },
+      {
+        "en": "conducted only at night",
+        "as": "কেৱল ৰাতি চলোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Water levels and boats shaped movement, which is why the link is drawn. Geography independence, winter only and night only are wrong.",
+      "as": "জলপৃষ্ঠা আৰু নাৱে চলাচল গঢ়িছিল, সেয়ে সংযোগ টনা হয়। ভূগোল স্বাধীনতা, কেৱল শীত আৰু কেৱল ৰাতি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-472",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's monsoon season was used mainly for",
+      "as": "আহোম ৰাজ্যৰ বৰ্ষাকাল মূলতঃ কাৰ বাবে ব্যৱহৃত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "large military offensives",
+        "as": "বৃহৎ সামৰিক অভিযানৰ বাবে"
+      },
+      {
+        "en": "tea plucking",
+        "as": "চাহ পাৰিৰ বাবে"
+      },
+      {
+        "en": "railway building",
+        "as": "ৰেল নিৰ্মাণৰ বাবে"
+      },
+      {
+        "en": "administration, construction and diplomacy",
+        "as": "প্ৰশাসন, নিৰ্মাণ আৰু কূটনীতিৰ বাবে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Indoor work dominated in the rains, which is why those activities are named. Offensives, tea and railways are wrong.",
+      "as": "বৰষুণত ঘৰুৱা কামেই প্ৰধান আছিল, সেয়ে সেই কাৰ্যৰ নাম দিয়া হয়। অভিযান, চাহ আৰু ৰেল ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-473",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's diplomatic calendar often involved",
+      "as": "আহোম ৰাজ্যৰ কূটনৈতিক পঞ্জিকাত প্ৰায়ে অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "annual plebiscites",
+        "as": "বাৰ্ষিক গণভোট"
+      },
+      {
+        "en": "weekly parliaments",
+        "as": "সাপ্তাহিক সংসদ"
+      },
+      {
+        "en": "seasonal exchanges of envoys and gifts",
+        "as": "ঋতু অনুসৰি দূত আৰু উপহাৰৰ আদান-প্ৰদান"
+      },
+      {
+        "en": "monthly elections",
+        "as": "মাহিলী নিৰ্বাচন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Seasonal envoy exchanges kept relations, which is why they are cited. Elections, plebiscites and parliaments are modern.",
+      "as": "ঋতু অনুসৰি দূতৰ আদান-প্ৰদানে সম্পৰ্ক ৰাখিছিল, সেয়ে সেয়া উদ্ধৃত। নিৰ্বাচন, গণভোট আৰু সংসদ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-474",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's gift exchange with neighbours mainly involved",
+      "as": "চুবুৰীয়াৰ লগত আহোম ৰাজ্যৰ উপহাৰৰ আদান-প্ৰদানত মূলতঃ অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "telegraph sets",
+        "as": "টেলিগ্ৰাফ যন্ত্ৰ"
+      },
+      {
+        "en": "textiles, elephants and local products",
+        "as": "বস্ত্ৰ, হাতী আৰু স্থানীয় সামগ্ৰী"
+      },
+      {
+        "en": "railway engines",
+        "as": "ৰেল ইঞ্জিন"
+      },
+      {
+        "en": "printing presses",
+        "as": "ছাপাখনা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Textiles, elephants and local goods were exchanged, which is why they are named. Engines, presses and telegraphs are modern.",
+      "as": "বস্ত্ৰ, হাতী আৰু স্থানীয় সামগ্ৰীৰ বিনিময় হৈছিল, সেয়ে সেয়া নাম দিয়া হয়। ইঞ্জিন, ছাপাখনা আৰু টেলিগ্ৰাফ আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-475",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's elephant establishment was important because elephants",
+      "as": "আহোম ৰাজ্যৰ হাতী প্ৰতিষ্ঠান গুৰুত্বপূৰ্ণ আছিল কাৰণ হাতীয়ে"
+    },
+    "options": [
+      {
+        "en": "served military, transport and ceremonial roles",
+        "as": "সামৰিক, পৰিবহণ আৰু অনুষ্ঠানিক ভূমিকা লৈছিল"
+      },
+      {
+        "en": "produced milk for export",
+        "as": "ৰপ্তানিৰ বাবে গাখীৰ উৎপাদন কৰিছিল"
+      },
+      {
+        "en": "were used in mines",
+        "as": "খনিত ব্যৱহৃত হৈছিল"
+      },
+      {
+        "en": "generated power",
+        "as": "শক্তি উৎপাদন কৰিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Elephants served several roles, which is why the establishment mattered. Milk export, mines and power are wrong.",
+      "as": "হাতীয়ে কেইবাটাও ভূমিকা লৈছিল, সেয়ে প্ৰতিষ্ঠান গুৰুত্বপূৰ্ণ। গাখীৰ ৰপ্তানি, খনি আৰু শক্তি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-476",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's horse trade mattered militarily because",
+      "as": "সামৰিকভাৱে আহোম ৰাজ্যৰ ঘোঁৰা বাণিজ্য গুৰুত্বপূৰ্ণ আছিল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "horses were used for ploughing only",
+        "as": "ঘোঁৰা কেৱল নাঙলত ব্যৱহৃত হৈছিল"
+      },
+      {
+        "en": "horses replaced boats",
+        "as": "ঘোঁৰাই নাও প্ৰতিস্থাপন কৰিছিল"
+      },
+      {
+        "en": "horses were exported to Europe",
+        "as": "ঘোঁৰা ইউৰোপলৈ ৰপ্তানি হৈছিল"
+      },
+      {
+        "en": "cavalry and messengers depended on a steady supply",
+        "as": "অশ্বাৰোহী আৰু দূতসকলে স্থিৰ যোগানৰ ওপৰত নিৰ্ভৰ কৰিছিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Cavalry and couriers needed horses, which is why supply mattered. Ploughing only, replacing boats and European export are wrong.",
+      "as": "অশ্বাৰোহী আৰু দূতক ঘোঁৰা লাগিছিল, সেয়ে যোগান গুৰুত্বপূৰ্ণ। কেৱল নাঙল, নাও প্ৰতিস্থাপন আৰু ইউৰোপীয় ৰপ্তানি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-477",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's salt supply came mainly from",
+      "as": "আহোম ৰাজ্যৰ লৱণ যোগান মূলতঃ কাৰপৰা আহিছিল"
+    },
+    "options": [
+      {
+        "en": "imports from Europe",
+        "as": "ইউৰোপৰপৰা আমদানিৰপৰা"
+      },
+      {
+        "en": "salt mines in Bengal",
+        "as": "বংগৰ লৱণ খনিৰপৰা"
+      },
+      {
+        "en": "trade with hill and Tibetan regions",
+        "as": "পাহাৰীয়া আৰু তিব্বতীয় অঞ্চলৰ লগত বাণিজ্যৰপৰা"
+      },
+      {
+        "en": "local sea salt pans",
+        "as": "স্থানীয় সাগৰীয় লৱণ পথাৰৰপৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Hill and Tibetan trade supplied salt, which is why those routes mattered. Sea pans, Europe and Bengal mines are wrong.",
+      "as": "পাহাৰীয়া আৰু তিব্বতীয় বাণিজ্যই লৱণ যোগাইছিল, সেয়ে সেই পথ গুৰুত্বপূৰ্ণ। সাগৰীয় পথাৰ, ইউৰোপ আৰু বংগ খনি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-478",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's dependence on imported salt shows that",
+      "as": "আমদানি কৰা লৱণৰ ওপৰত আহোম ৰাজ্যৰ নিৰ্ভৰশীলতাই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "salt was banned",
+        "as": "লৱণ নিষিদ্ধ আছিল"
+      },
+      {
+        "en": "the economy was linked to wider regional trade",
+        "as": "অৰ্থনীতি বৃহত্তৰ আঞ্চলিক বাণিজ্যৰ লগত জড়িত আছিল"
+      },
+      {
+        "en": "the kingdom had no trade",
+        "as": "ৰাজ্যৰ কোনো বাণিজ্য নাছিল"
+      },
+      {
+        "en": "salt was produced locally in abundance",
+        "as": "লৱণ স্থানীয়ভাৱে প্ৰচুৰ পৰিমাণে উৎপাদন হৈছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Salt imports prove regional links, which is why the inference is drawn. No trade, local abundance and a ban are contradicted.",
+      "as": "লৱণ আমদানিয়ে আঞ্চলিক সংযোগ প্ৰমাণ কৰে, সেয়ে অনুমান টনা হয়। বাণিজ্যহীনতা, স্থানীয় প্ৰাচুৰ্য আৰু নিষেধ খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-479",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main source of cowries and coinage for trade was",
+      "as": "বাণিজ্যৰ বাবে আহোম ৰাজ্যৰ কড়ি আৰু মুদ্ৰাৰ প্ৰধান উৎস আছিল"
+    },
+    "options": [
+      {
+        "en": "regional exchange through Bengal and the hills",
+        "as": "বংগ আৰু পাহাৰৰ জৰিয়তে আঞ্চলিক বিনিময়"
+      },
+      {
+        "en": "direct trade with Europe",
+        "as": "ইউৰোপৰ লগত প্ৰত্যক্ষ বাণিজ্য"
+      },
+      {
+        "en": "Atlantic shipping",
+        "as": "আটলাণ্টিক জাহাজ চলাচল"
+      },
+      {
+        "en": "the Suez Canal",
+        "as": "ছুয়েজ খাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Regional exchange supplied currency, which is why Bengal and the hills are named. Europe, the Atlantic and Suez are wrong for this period.",
+      "as": "আঞ্চলিক বিনিময়ে মুদ্ৰা যোগাইছিল, সেয়ে বংগ আৰু পাহাৰৰ নাম দিয়া হয়। ইউৰোপ, আটলাণ্টিক আৰু ছুয়েজ এই যুগত ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-480",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's use of cowrie shells as money indicates",
+      "as": "মুদ্ৰা হিচাপে কড়িৰ ব্যৱহাৰে সূচায়"
+    },
+    "options": [
+      {
+        "en": "the absence of any currency",
+        "as": "কোনো মুদ্ৰাৰ অভাৱ"
+      },
+      {
+        "en": "industrial banking",
+        "as": "ঔদ্যোগিক বেংকিং"
+      },
+      {
+        "en": "paper money",
+        "as": "কাগজৰ মুদ্ৰা"
+      },
+      {
+        "en": "small scale local exchange alongside coins",
+        "as": "মুদ্ৰাৰ কাষত সৰু স্থানীয় বিনিময়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Cowries served small transactions, which is why both forms existed. No currency, industrial banking and paper money are wrong.",
+      "as": "কড়িয়ে সৰু লেনদেন সামৰিছিল, সেয়ে দুয়ো ৰূপ আছিল। মুদ্ৰাহীনতা, ঔদ্যোগিক বেংকিং আৰু কাগজৰ মুদ্ৰা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-481",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's markets were held periodically because",
+      "as": "আহোম ৰাজ্যৰ বজাৰ সময়ে সময়ে অনুষ্ঠিত হৈছিল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "trade was illegal",
+        "as": "বাণিজ্য অবৈধ আছিল"
+      },
+      {
+        "en": "roads did not exist",
+        "as": "পথ নাছিল"
+      },
+      {
+        "en": "scattered settlements needed regular meeting points",
+        "as": "সিঁচৰতি বসতিয়ে নিয়মীয়া মিলনস্থানৰ প্ৰয়োজন আছিল"
+      },
+      {
+        "en": "coins were banned",
+        "as": "মুদ্ৰা নিষিদ্ধ আছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Periodic markets suited scattered villages, which is why they were held that way. Coin bans, illegal trade and no roads are wrong.",
+      "as": "সাপ্তাহিক বজাৰে সিঁচৰতি গাঁৱত উপযুক্ত আছিল, সেয়ে সেয়া এনেদৰে অনুষ্ঠিত হৈছিল। মুদ্ৰা নিষেধ, অবৈধ বাণিজ্য আৰু পথহীনতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-482",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main export to Tibet was",
+      "as": "তিব্বতলৈ আহোম ৰাজ্যৰ প্ৰধান ৰপ্তানি আছিল"
+    },
+    "options": [
+      {
+        "en": "railway equipment",
+        "as": "ৰেল সঁজুলি"
+      },
+      {
+        "en": "textiles, hides and dried goods",
+        "as": "বস্ত্ৰ, ছাল আৰু শুকান সামগ্ৰী"
+      },
+      {
+        "en": "petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "machinery",
+        "as": "যন্ত্ৰপাতি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Textiles, hides and dried goods moved north, which is why they are named. Petroleum, machinery and railway equipment are modern.",
+      "as": "বস্ত্ৰ, ছাল আৰু শুকান সামগ্ৰীয়ে উত্তৰলৈ গৈছিল, সেয়ে সেয়া নাম দিয়া হয়। পেট্ৰ'লিয়াম, যন্ত্ৰপাতি আৰু ৰেল সঁজুলি আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-483",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's main import from Tibet was",
+      "as": "তিব্বতৰপৰা আহোম ৰাজ্যৰ প্ৰধান আমদানি আছিল"
+    },
+    "options": [
+      {
+        "en": "salt, wool and horses",
+        "as": "লৱণ, ঊণ আৰু ঘোঁৰা"
+      },
+      {
+        "en": "tea",
+        "as": "চাহ"
+      },
+      {
+        "en": "petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "coal",
+        "as": "কয়লা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Salt, wool and horses came south, which is why they are named. Tea, petroleum and coal are not Tibetan imports of that period.",
+      "as": "লৱণ, ঊণ আৰু ঘোঁৰা দক্ষিণলৈ আহিছিল, সেয়ে সেয়া নাম দিয়া হয়। চাহ, পেট্ৰ'লিয়াম আৰু কয়লা সেই যুগৰ তিব্বতীয় আমদানি নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-484",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's trade with the hill communities was mainly",
+      "as": "পাহাৰীয়া সম্প্ৰদায়ৰ লগত আহোম ৰাজ্যৰ বাণিজ্য মূলতঃ আছিল"
+    },
+    "options": [
+      {
+        "en": "a one way tribute only",
+        "as": "কেৱল একমুখী কৰ"
+      },
+      {
+        "en": "banned entirely",
+        "as": "সম্পূৰ্ণ নিষিদ্ধ"
+      },
+      {
+        "en": "conducted by Europeans",
+        "as": "ইউৰোপীয়সকলৰ দ্বাৰা পৰিচালিত"
+      },
+      {
+        "en": "exchange of valley produce for hill goods",
+        "as": "পাহাৰীয়া সামগ্ৰীৰ বাবে উপত্যকাৰ উৎপাদনৰ বিনিময়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Exchange went both ways, which is why the description is balanced. One way tribute, a total ban and European handling are wrong.",
+      "as": "বিনিময় দুয়োফালে হৈছিল, সেয়ে বৰ্ণনা সন্তুলিত। একমুখী কৰ, সম্পূৰ্ণ নিষেধ আৰু ইউৰোপীয় পৰিচালনা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-485",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's control over trade routes gave it leverage because it could",
+      "as": "বাণিজ্য পথৰ ওপৰত আহোম ৰাজ্যৰ নিয়ন্ত্ৰণে ইয়াক সুবিধা দিছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "build railways",
+        "as": "ৰেল নিৰ্মাণ কৰিব"
+      },
+      {
+        "en": "mine coal",
+        "as": "কয়লা খনন কৰিব"
+      },
+      {
+        "en": "tax movement and deny access",
+        "as": "চলাচলত কৰ লগাব আৰু প্ৰৱেশ বন্ধ কৰিব"
+      },
+      {
+        "en": "print money freely",
+        "as": "মুক্তভাৱে মুদ্ৰা ছপাব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Taxing and denying access were the levers, which is why control mattered. Printing money, railways and coal are wrong.",
+      "as": "কৰ লগোৱা আৰু প্ৰৱেশ বন্ধ কৰাই সুবিধা, সেয়ে নিয়ন্ত্ৰণ গুৰুত্বপূৰ্ণ। মুদ্ৰা ছপা, ৰেল আৰু কয়লা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-486",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's toll posts along routes were meant to",
+      "as": "পথৰ কাষত আহোম ৰাজ্যৰ শুল্ক চকীসমূহৰ উদ্দেশ্য আছিল"
+    },
+    "options": [
+      {
+        "en": "store grain",
+        "as": "শস্য সংৰক্ষণ কৰা"
+      },
+      {
+        "en": "collect dues and monitor movement",
+        "as": "মাচুল সংগ্ৰহ আৰু চলাচল পৰ্যবেক্ষণ কৰা"
+      },
+      {
+        "en": "provide rest houses",
+        "as": "বিশ্ৰামাগাৰ দিয়া"
+      },
+      {
+        "en": "train soldiers",
+        "as": "সৈন্য প্ৰশিক্ষণ দিয়া"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Dues and monitoring were the purposes, which is why posts existed. Rest houses, training and storage are different.",
+      "as": "মাচুল আৰু পৰ্যবেক্ষণেই উদ্দেশ্য, সেয়ে চকী আছিল। বিশ্ৰামাগাৰ, প্ৰশিক্ষণ আৰু সংৰক্ষণ বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-487",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's rest houses for travellers were known as",
+      "as": "ভ্ৰমণকাৰীৰ বাবে আহোম ৰাজ্যৰ বিশ্ৰামাগাৰক জনা গৈছিল"
+    },
+    "options": [
+      {
+        "en": "public inns maintained by the state",
+        "as": "ৰাজ্যৰ দ্বাৰা ৰখা ৰাজহুৱা পথিকাশ্ৰয় হিচাপে"
+      },
+      {
+        "en": "temples",
+        "as": "মন্দিৰ হিচাপে"
+      },
+      {
+        "en": "forts",
+        "as": "দুৰ্গ হিচাপে"
+      },
+      {
+        "en": "granaries",
+        "as": "শস্যাগাৰ হিচাপে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "State maintained inns served travellers, which is why the description fits. Temples, forts and granaries are different structures.",
+      "as": "ৰাজ্যৰ পথিকাশ্ৰয়ে ভ্ৰমণকাৰীক সহায় কৰিছিল, সেয়ে বৰ্ণনা মিলে। মন্দিৰ, দুৰ্গ আৰু শস্যাগাৰ বেলেগ গঠন।"
+    }
+  },
+  {
+    "id": "assam-history-extra-488",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's roads were maintained through",
+      "as": "আহোম ৰাজ্যৰ পথ ৰখা হৈছিল কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "private contractors",
+        "as": "ব্যক্তিগত ঠিকাদাৰৰ জৰিয়তে"
+      },
+      {
+        "en": "European engineers",
+        "as": "ইউৰোপীয় অভিযন্তাৰ জৰিয়তে"
+      },
+      {
+        "en": "railway companies",
+        "as": "ৰেল কোম্পানীৰ জৰিয়তে"
+      },
+      {
+        "en": "paik labour obligations",
+        "as": "পাইক শ্ৰম বাধ্যবাধকতাৰ জৰিয়তে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Paik labour kept roads open, which is why the system mattered. Contractors, European engineers and railway companies are later.",
+      "as": "পাইক শ্ৰমে পথ খোলা ৰাখিছিল, সেয়ে ব্যৱস্থা গুৰুত্বপূৰ্ণ। ঠিকাদাৰ, ইউৰোপীয় অভিযন্তা আৰু ৰেল কোম্পানী পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-489",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's public works were financed mainly through",
+      "as": "আহোম ৰাজ্যৰ ৰাজহুৱা কাম মূলতঃ কাৰ জৰিয়তে বিত্ত যোগোৱা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "foreign aid",
+        "as": "বিদেশী সহায়ৰ জৰিয়তে"
+      },
+      {
+        "en": "share sales",
+        "as": "শ্বেয়াৰ বিক্ৰীৰ জৰিয়তে"
+      },
+      {
+        "en": "labour service and produce dues",
+        "as": "শ্ৰম সেৱা আৰু উৎপাদন মাচুলৰ জৰিয়তে"
+      },
+      {
+        "en": "bank loans",
+        "as": "বেংক ঋণৰ জৰিয়তে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Labour and dues funded works, which is why the system is described as in kind. Bank loans, foreign aid and share sales are modern.",
+      "as": "শ্ৰম আৰু মাচুলে কামৰ বিত্ত যোগাইছিল, সেয়ে ব্যৱস্থাক বস্তুগত বোলা হয়। বেংক ঋণ, বিদেশী সহায় আৰু শ্বেয়াৰ বিক্ৰী আধুনিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-490",
+    "leaf": "assam-history-medieval",
+    "q": {
+      "en": "The Ahom kingdom's ability to build large tanks shows",
+      "as": "ডাঙৰ পুখুৰী নিৰ্মাণৰ আহোম ৰাজ্যৰ সামৰ্থ্যই দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "European financing",
+        "as": "ইউৰোপীয় বিত্তীয় সহায়"
+      },
+      {
+        "en": "the state could mobilise labour on a large scale",
+        "as": "ৰাজ্যই বৃহৎ পৰিসৰত শ্ৰম সংগঠিত কৰিব পাৰিছিল"
+      },
+      {
+        "en": "the absence of any workforce",
+        "as": "কোনো কৰ্মবাহিনীৰ অভাৱ"
+      },
+      {
+        "en": "the use of modern machines",
+        "as": "আধুনিক যন্ত্ৰৰ ব্যৱহাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Large works required mass labour, which is why mobilisation is inferred. No workforce, modern machines and European finance are wrong.",
+      "as": "ডাঙৰ কামত বৃহৎ শ্ৰম লাগিছিল, সেয়ে সংগঠন অনুমান কৰা হয়। কৰ্মবাহিনীহীনতা, আধুনিক যন্ত্ৰ আৰু ইউৰোপীয় বিত্ত ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-491",
     "leaf": "assam-history-modern",
     "q": {
       "en": "British rule in Assam began in 1826 after the treaty of Yandabo, and the province was initially administered as part of",
@@ -5555,7 +15227,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-180",
+    "id": "assam-history-extra-492",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Assam was separated from Bengal and made a Chief Commissioner's province in",
@@ -5586,7 +15258,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-181",
+    "id": "assam-history-extra-493",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The language controversy in colonial Assam began when Bengali was imposed as the official language of the province in",
@@ -5617,7 +15289,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-182",
+    "id": "assam-history-extra-494",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Assamese was restored as the language of courts and schools in Assam in",
@@ -5648,7 +15320,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-183",
+    "id": "assam-history-extra-495",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The first Assamese newspaper, Arunodoi, was published in 1846 from",
@@ -5679,7 +15351,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-184",
+    "id": "assam-history-extra-496",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The journal Jonaki, which began in 1889, is important because it",
@@ -5710,7 +15382,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-185",
+    "id": "assam-history-extra-497",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Maniram Dewan is remembered in Assamese history as",
@@ -5741,7 +15413,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-186",
+    "id": "assam-history-extra-498",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Maniram Dewan was executed along with",
@@ -5772,7 +15444,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-187",
+    "id": "assam-history-extra-499",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assam Association, founded in 1903, was important because it",
@@ -5803,7 +15475,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-188",
+    "id": "assam-history-extra-500",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The partition of Bengal in 1905 affected Assam because",
@@ -5834,7 +15506,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-189",
+    "id": "assam-history-extra-501",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese language movement of the nineteenth century succeeded mainly because",
@@ -5865,7 +15537,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-190",
+    "id": "assam-history-extra-502",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The American Baptist Mission's contribution to Assam included",
@@ -5896,7 +15568,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-191",
+    "id": "assam-history-extra-503",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The tea industry in Assam began in the 1830s with the discovery of",
@@ -5927,7 +15599,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-192",
+    "id": "assam-history-extra-504",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The large scale migration of labour to the Assam tea gardens in the colonial period came mainly from",
@@ -5958,7 +15630,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-193",
+    "id": "assam-history-extra-505",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial land revenue system introduced in Assam was mainly",
@@ -5989,7 +15661,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-194",
+    "id": "assam-history-extra-506",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The 'Line system' introduced in colonial Assam was intended to",
@@ -6020,7 +15692,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-195",
+    "id": "assam-history-extra-507",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Assam's oil industry began at Digboi, which is significant because it",
@@ -6051,7 +15723,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-196",
+    "id": "assam-history-extra-508",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assam Association was later transformed into the",
@@ -6082,7 +15754,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-197",
+    "id": "assam-history-extra-509",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Gopinath Bordoloi is remembered in Assam mainly as",
@@ -6113,7 +15785,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-198",
+    "id": "assam-history-extra-510",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Assam's separation from Bengal in 1874 was administratively significant because it",
@@ -6144,7 +15816,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-199",
+    "id": "assam-history-extra-511",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese middle class that emerged in the colonial period was mainly a product of",
@@ -6175,7 +15847,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-200",
+    "id": "assam-history-extra-512",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese literary revival of the late nineteenth century was linked to",
@@ -6206,7 +15878,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-201",
+    "id": "assam-history-extra-513",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial administration's interest in Assam's forests led to",
@@ -6237,7 +15909,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-202",
+    "id": "assam-history-extra-514",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Assam's participation in the national movement grew after",
@@ -6268,7 +15940,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-203",
+    "id": "assam-history-extra-515",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assam Pradesh Congress Committee was important because it",
@@ -6299,7 +15971,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-204",
+    "id": "assam-history-extra-516",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese demand for a separate province in the colonial period was driven mainly by",
@@ -6330,7 +16002,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-205",
+    "id": "assam-history-extra-517",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assam Legislative Council was expanded in the early twentieth century in order to",
@@ -6361,7 +16033,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-206",
+    "id": "assam-history-extra-518",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Maniram Dewan's economic activity before 1857 was mainly in",
@@ -6392,7 +16064,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-207",
+    "id": "assam-history-extra-519",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial government's encouragement of immigration into Assam was mainly to",
@@ -6423,7 +16095,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-208",
+    "id": "assam-history-extra-520",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assam Association's early demands focused on",
@@ -6454,7 +16126,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-209",
+    "id": "assam-history-extra-521",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The growth of Assamese periodicals in the colonial period helped",
@@ -6485,7 +16157,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-210",
+    "id": "assam-history-extra-522",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Assam's colonial economy was characterised by",
@@ -6516,7 +16188,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-211",
+    "id": "assam-history-extra-523",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial forest policy in Assam affected local communities because it",
@@ -6547,7 +16219,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-212",
+    "id": "assam-history-extra-524",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese language was restored in 1873 largely because",
@@ -6578,7 +16250,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-213",
+    "id": "assam-history-extra-525",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The main long term effect of colonial rule on Assamese society was",
@@ -6609,7 +16281,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-214",
+    "id": "assam-history-extra-526",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Assam's tea gardens in the colonial period were mainly owned by",
@@ -6640,7 +16312,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-215",
+    "id": "assam-history-extra-527",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese peasantry in the colonial period was affected by",
@@ -6671,7 +16343,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-216",
+    "id": "assam-history-extra-528",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assam Association and later the Congress demanded",
@@ -6702,7 +16374,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-217",
+    "id": "assam-history-extra-529",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial period saw the beginning of modern communications in Assam through",
@@ -6733,7 +16405,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-218",
+    "id": "assam-history-extra-530",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The main reason Assamese identity became a political issue in the colonial period was",
@@ -6764,7 +16436,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-219",
+    "id": "assam-history-extra-531",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Assam's administrative status changed in 1912 when it was",
@@ -6795,7 +16467,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-220",
+    "id": "assam-history-extra-532",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese intelligentsia's response to colonial rule was characterised by",
@@ -6826,7 +16498,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-221",
+    "id": "assam-history-extra-533",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The main significance of 1826 for Assam is that it",
@@ -6857,7 +16529,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-222",
+    "id": "assam-history-extra-534",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial period's effect on Assamese literature was mainly",
@@ -6888,7 +16560,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-223",
+    "id": "assam-history-extra-535",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese demand for education in the mother tongue was linked to",
@@ -6919,7 +16591,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-224",
+    "id": "assam-history-extra-536",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial state's relationship with Assamese satras in the nineteenth century was",
@@ -6950,7 +16622,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-225",
+    "id": "assam-history-extra-537",
     "leaf": "assam-history-modern",
     "q": {
       "en": "Assam's place in the Indian national movement was shaped by",
@@ -6981,7 +16653,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-226",
+    "id": "assam-history-extra-538",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The most enduring colonial legacy in Assam is generally taken to be",
@@ -7012,7 +16684,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-227",
+    "id": "assam-history-extra-539",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese language movement's success in 1873 is important for later Assamese politics because it",
@@ -7043,7 +16715,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-228",
+    "id": "assam-history-extra-540",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial administration's surveys and censuses in Assam mattered because they",
@@ -7074,7 +16746,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-229",
+    "id": "assam-history-extra-541",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The main change in Assam's administration after 1874 was that",
@@ -7105,7 +16777,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-230",
+    "id": "assam-history-extra-542",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese response to the 1905 partition of Bengal included",
@@ -7136,7 +16808,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-231",
+    "id": "assam-history-extra-543",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial economy's dependence on a few products made Assam vulnerable because",
@@ -7167,7 +16839,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-232",
+    "id": "assam-history-extra-544",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese national awakening is usually dated from the",
@@ -7198,7 +16870,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-233",
+    "id": "assam-history-extra-545",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assam Association's formation in 1903 is seen as a landmark because it",
@@ -7229,7 +16901,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-234",
+    "id": "assam-history-extra-546",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial period changed Assam's demography mainly through",
@@ -7260,7 +16932,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-235",
+    "id": "assam-history-extra-547",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The British introduced railways in Assam mainly to",
@@ -7291,7 +16963,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-236",
+    "id": "assam-history-extra-548",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial government's educational policy in Assam produced",
@@ -7322,7 +16994,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-237",
+    "id": "assam-history-extra-549",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The main reason the Assamese language question was resolved in 1873 rather than earlier is that",
@@ -7353,7 +17025,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-238",
+    "id": "assam-history-extra-550",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese middle class's role in the national movement was mainly to",
@@ -7384,7 +17056,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-239",
+    "id": "assam-history-extra-551",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial legacy that most directly shaped modern Assamese politics was",
@@ -7415,7 +17087,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-240",
+    "id": "assam-history-extra-552",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The main administrative problem the British faced in Assam after 1826 was",
@@ -7446,7 +17118,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-241",
+    "id": "assam-history-extra-553",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese press in the colonial period contributed to politics by",
@@ -7477,7 +17149,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-242",
+    "id": "assam-history-extra-554",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The principal reason Assam's colonial economy remained largely agrarian was that",
@@ -7508,7 +17180,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-243",
+    "id": "assam-history-extra-555",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assamese demand for a separate province was finally realised in",
@@ -7539,7 +17211,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-244",
+    "id": "assam-history-extra-556",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial state's main interest in Assam's hills was",
@@ -7570,7 +17242,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-245",
+    "id": "assam-history-extra-557",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The most important consequence of the 1873 language decision for Assam was that it",
@@ -7601,7 +17273,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-246",
+    "id": "assam-history-extra-558",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial period in Assam ended with",
@@ -7632,7 +17304,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-247",
+    "id": "assam-history-extra-559",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The Assam Association's demand for a separate province was realised in stages because",
@@ -7663,7 +17335,7 @@ module.exports = { questions: [
     }
   },
   {
-    "id": "assam-history-extra-248",
+    "id": "assam-history-extra-560",
     "leaf": "assam-history-modern",
     "q": {
       "en": "The colonial government's tea policy in Assam shaped labour relations because it",
@@ -7691,6 +17363,4842 @@ module.exports = { questions: [
     "explanation": {
       "en": "Contract recruitment restricted workers' freedom, which is why labour conditions became an issue. A recruitment ban, worker ownership and an export ban are wrong.",
       "as": "চুক্তিভিত্তিক নিয়োগে শ্ৰমিকৰ স্বাধীনতা সীমিত কৰিছিল, সেয়ে শ্ৰম অৱস্থা বিষয় হৈ পৰিছিল। নিয়োগ নিষেধ, শ্ৰমিক মালিকানা আৰু ৰপ্তানি নিষেধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-561",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The treaty of Yandabo was signed between the British and the",
+      "as": "য়াণ্ডাবু সন্ধি ব্ৰিটিছ আৰু কাৰ মাজত স্বাক্ষৰিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Ahoms",
+        "as": "আহোমসকলৰ"
+      },
+      {
+        "en": "Koch",
+        "as": "কোচসকলৰ"
+      },
+      {
+        "en": "Burmese",
+        "as": "বাৰ্মীসকলৰ"
+      },
+      {
+        "en": "Mughals",
+        "as": "মোগলসকলৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The treaty ended the first Anglo Burmese war, which is why Burma is the other party. The Mughals, Ahoms and Koch were not signatories.",
+      "as": "সন্ধিয়ে প্ৰথম ইংৰাজ-বাৰ্মী যুদ্ধ অন্ত কৰিছিল, সেয়ে বাৰ্মা অন্য পক্ষ। মোগল, আহোম আৰু কোচ স্বাক্ষৰকাৰী নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-562",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The first Anglo Burmese war was fought in the years",
+      "as": "প্ৰথম ইংৰাজ-বাৰ্মী যুদ্ধ হৈছিল কাৰ বছৰত"
+    },
+    "options": [
+      {
+        "en": "1942 to 1945",
+        "as": "১৯৪২ৰপৰা ১৯৪৫লৈ"
+      },
+      {
+        "en": "1824 to 1826",
+        "as": "১৮২৪ৰপৰা ১৮২৬লৈ"
+      },
+      {
+        "en": "1857 to 1858",
+        "as": "১৮৫৭ৰপৰা ১৮৫৮লৈ"
+      },
+      {
+        "en": "1905 to 1911",
+        "as": "১৯০৫ৰপৰা ১৯১১লৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The war ran from 1824 and closed with Yandabo in 1826, which is why both years are given. 1857, 1905 and 1942 belong to other conflicts.",
+      "as": "যুদ্ধ ১৮২৪ চনৰপৰা চলি ১৮২৬ চনত য়াণ্ডাবুৰে শেষ হৈছিল, সেয়ে দুয়ো বছৰ দিয়া হয়। ১৮৫৭, ১৯০৫ আৰু ১৯৪২ আন সংঘাতৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-563",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The British officer who negotiated the treaty of Yandabo was",
+      "as": "য়াণ্ডাবু সন্ধি আলোচনা কৰা ব্ৰিটিছ বিষয়া আছিল"
+    },
+    "options": [
+      {
+        "en": "Sir Archibald Campbell",
+        "as": "ছাৰ আৰ্কিবল্ড কেম্পবেল"
+      },
+      {
+        "en": "Captain Welsh",
+        "as": "কেপ্তেইন ৱেলছ"
+      },
+      {
+        "en": "David Scott",
+        "as": "ডেভিদ স্কট"
+      },
+      {
+        "en": "Robert Clive",
+        "as": "ৰবাৰ্ট ক্লাইভ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Campbell led the negotiations, which is why he is named. Welsh served earlier in Assam, Scott administered the frontier and Clive belongs to Bengal.",
+      "as": "কেম্পবেলে আলোচনাৰ নেতৃত্ব দিছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। ৱেলছে আগতে অসমত কাম কৰিছিল, স্কটে সীমান্ত শাসন কৰিছিল আৰু ক্লাইভ বংগৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-564",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The British officer appointed as the first agent to the Assam frontier after 1826 was",
+      "as": "১৮২৬ চনৰ পিছত অসম সীমান্তৰ প্ৰথম এজেণ্ট হিচাপে নিযুক্ত ব্ৰিটিছ বিষয়া আছিল"
+    },
+    "options": [
+      {
+        "en": "Archibald Campbell",
+        "as": "আৰ্কিবল্ড কেম্পবেল"
+      },
+      {
+        "en": "Captain Welsh",
+        "as": "কেপ্তেইন ৱেলছ"
+      },
+      {
+        "en": "Robert Clive",
+        "as": "ৰবাৰ্ট ক্লাইভ"
+      },
+      {
+        "en": "David Scott",
+        "as": "ডেভিদ স্কট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Scott took charge of the frontier administration, which is why he is named. Campbell negotiated the treaty, Welsh served earlier and Clive is unrelated.",
+      "as": "স্কটে সীমান্ত প্ৰশাসনৰ দায়িত্ব লৈছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। কেম্পবেলে সন্ধি আলোচনা কৰিছিল, ৱেলছ আগতে আছিল আৰু ক্লাইভ অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-565",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "Captain Welsh was sent to Assam in the 1790s to",
+      "as": "১৭৯০ দশকত কেপ্তেইন ৱেলছক অসমলৈ পঠিওৱা হৈছিল কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "build railways",
+        "as": "ৰেল নিৰ্মাণ কৰিবলৈ"
+      },
+      {
+        "en": "start tea gardens",
+        "as": "চাহ বাগিচা আৰম্ভ কৰিবলৈ"
+      },
+      {
+        "en": "assist the Ahom king against rebels",
+        "as": "বিদ্ৰোহীৰ বিৰুদ্ধে আহোম ৰজাক সহায় কৰিবলৈ"
+      },
+      {
+        "en": "annex Assam",
+        "as": "অসম সংযুক্ত কৰিবলৈ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Welsh supported the king against the Moamoria rebels, which is why the mission is recorded. Annexation, railways and tea came later.",
+      "as": "ৱেলছে মোৱামৰীয়া বিদ্ৰোহীৰ বিৰুদ্ধে ৰজাক সমৰ্থন কৰিছিল, সেয়ে অভিযান লিপিবদ্ধ। সংযুক্তি, ৰেল আৰু চাহ পিছত আহিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-566",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The British decision to withdraw Captain Welsh's mission from Assam was influenced by",
+      "as": "অসমৰপৰা কেপ্তেইন ৱেলছৰ অভিযান প্ৰত্যাহাৰৰ ব্ৰিটিছ সিদ্ধান্ত প্ৰভাৱিত হৈছিল কাৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "a Burmese alliance",
+        "as": "বাৰ্মী মিত্ৰতাৰ দ্বাৰা"
+      },
+      {
+        "en": "concerns about the cost and commitments of intervention",
+        "as": "হস্তক্ষেপৰ খৰচ আৰু দায়বদ্ধতাৰ চিন্তাৰ দ্বাৰা"
+      },
+      {
+        "en": "a Mughal protest",
+        "as": "মোগল প্ৰতিবাদৰ দ্বাৰা"
+      },
+      {
+        "en": "a Chinese demand",
+        "as": "চীনা দাবীৰ দ্বাৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cost and commitment shaped the decision, which is why the mission ended. Mughal protests, Chinese demands and a Burmese alliance are wrong.",
+      "as": "খৰচ আৰু দায়বদ্ধতাই সিদ্ধান্ত গঢ়িছিল, সেয়ে অভিযান শেষ হৈছিল। মোগল প্ৰতিবাদ, চীনা দাবী আৰু বাৰ্মী মিত্ৰতা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-567",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The first British administrative division created in Assam after 1826 was",
+      "as": "১৮২৬ চনৰ পিছত অসমত সৃষ্টি কৰা প্ৰথম ব্ৰিটিছ প্ৰশাসনিক বিভাগ আছিল"
+    },
+    "options": [
+      {
+        "en": "the Assam valley districts under a commissioner",
+        "as": "আয়ুক্তৰ অধীনত অসম উপত্যকা জিলাসমূহ"
+      },
+      {
+        "en": "a single province with a governor",
+        "as": "ৰাজ্যপালসহ এক প্ৰদেশ"
+      },
+      {
+        "en": "a chief commissioner's province",
+        "as": "মুখ্য আয়ুক্তৰ প্ৰদেশ"
+      },
+      {
+        "en": "a union territory",
+        "as": "কেন্দ্ৰশাসিত অঞ্চল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Districts under a commissioner came first, which is why the sequence matters. A governor, chief commissioner and union territory came later or never.",
+      "as": "আয়ুক্তৰ অধীনত জিলা প্ৰথমে আহিছিল, সেয়ে ক্ৰম গুৰুত্বপূৰ্ণ। ৰাজ্যপাল, মুখ্য আয়ুক্ত আৰু কেন্দ্ৰশাসিত অঞ্চল পিছত বা কেতিয়াও নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-568",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Company, formed in 1839, was concerned with",
+      "as": "১৮৩৯ চনত গঠিত অসম কোম্পানী কাৰ লগত জড়িত আছিল"
+    },
+    "options": [
+      {
+        "en": "coal mining",
+        "as": "কয়লা খনন"
+      },
+      {
+        "en": "oil drilling",
+        "as": "তেল খনন"
+      },
+      {
+        "en": "railway building",
+        "as": "ৰেল নিৰ্মাণ"
+      },
+      {
+        "en": "tea cultivation and trade",
+        "as": "চাহ খেতি আৰু বাণিজ্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The company pioneered commercial tea, which is why 1839 is a landmark. Coal, oil and railways came through other enterprises.",
+      "as": "কোম্পানীয়ে বাণিজ্যিক চাহ আৰম্ভ কৰিছিল, সেয়ে ১৮৩৯ মাইলৰ খুঁটি। কয়লা, তেল আৰু ৰেল আন উদ্যোগৰ জৰিয়তে আহিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-569",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The first tea garden in Assam was established at",
+      "as": "অসমত প্ৰথম চাহ বাগিচা স্থাপিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাটত"
+      },
+      {
+        "en": "Tezpur",
+        "as": "তেজপুৰত"
+      },
+      {
+        "en": "Chabua",
+        "as": "চাবুৱাত"
+      },
+      {
+        "en": "Dibrugarh town",
+        "as": "ডিব্ৰুগড় চহৰত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Chabua is associated with early garden establishment, which is why it is named. The others are towns associated with later development.",
+      "as": "চাবুৱা প্ৰাৰম্ভিক বাগিচা স্থাপনৰ লগত জড়িত, সেয়ে ইয়াৰ নাম দিয়া হয়। বাকীবোৰ পিছৰ বিকাশৰ লগত জড়িত চহৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-570",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The tea plant native to Assam is known as",
+      "as": "অসমৰ স্থানীয় চাহ গছক জনা যায়"
+    },
+    "options": [
+      {
+        "en": "Coffea arabica",
+        "as": "কফিয়া আৰাবিকা"
+      },
+      {
+        "en": "Camellia sinensis var assamica",
+        "as": "কেমেলিয়া চিনেন্সিছ ভাৰ অসমিকা"
+      },
+      {
+        "en": "Camellia japonica",
+        "as": "কেমেলিয়া জাপোনিকা"
+      },
+      {
+        "en": "Thea viridis only",
+        "as": "কেৱল থিয়া ভিৰিডিছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Assam variety is assamica, which is why the botanical name is used. Japonica, viridis and Coffea are different plants.",
+      "as": "অসমৰ জাত assamica, সেয়ে উদ্ভিদ নাম ব্যৱহৃত। জাপোনিকা, ভিৰিডিছ আৰু কফিয়া বেলেগ উদ্ভিদ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-571",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The discovery of wild tea plants in Assam is credited to",
+      "as": "অসমত বনৰীয়া চাহ গছ আৱিষ্কাৰৰ কৃতিত্ব দিয়া হয়"
+    },
+    "options": [
+      {
+        "en": "Robert Bruce",
+        "as": "ৰবাৰ্ট ব্ৰুছে"
+      },
+      {
+        "en": "David Scott",
+        "as": "ডেভিদ স্কট"
+      },
+      {
+        "en": "Archibald Campbell",
+        "as": "আৰ্কিবল্ড কেম্পবেল"
+      },
+      {
+        "en": "Maniram Dewan",
+        "as": "মণিৰাম দেৱান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bruce recorded the wild plants, which is why he is named. Scott and Campbell were administrators, and Dewan was a later Assamese planter.",
+      "as": "ব্ৰুছে বনৰীয়া গছ লিপিবদ্ধ কৰিছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। স্কট আৰু কেম্পবেল প্ৰশাসক, আৰু দেৱান পিছৰ অসমীয়া বাগিচা মালিক।"
+    }
+  },
+  {
+    "id": "assam-history-extra-572",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The first Assamese to enter the tea planting business on his own account was",
+      "as": "নিজৰ হিচাপত চাহ বাগিচা ব্যৱসায়ত সোমোৱা প্ৰথম অসমীয়া আছিল"
+    },
+    "options": [
+      {
+        "en": "Gopinath Bordoloi",
+        "as": "গোপীনাথ বৰদলৈ"
+      },
+      {
+        "en": "Anandaram Dhekial Phukan",
+        "as": "আনন্দৰাম ঢেকিয়াল ফুকন"
+      },
+      {
+        "en": "Lakshminath Bezbaroa",
+        "as": "লক্ষ্মীনাথ বেজবৰুৱা"
+      },
+      {
+        "en": "Maniram Dewan",
+        "as": "মণিৰাম দেৱান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Dewan pioneered Assamese participation, which is why he is named. Bordoloi, Phukan and Bezbaroa were political or literary figures.",
+      "as": "দেৱানে অসমীয়া অংশগ্ৰহণৰ আগভাগ লৈছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। বৰদলৈ, ফুকন আৰু বেজবৰুৱা ৰাজনৈতিক বা সাহিত্যিক ব্যক্তি।"
+    }
+  },
+  {
+    "id": "assam-history-extra-573",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The labour recruitment system for Assam tea gardens in the colonial period was supervised by",
+      "as": "ঔপনিবেশিক যুগত অসম চাহ বাগিচাৰ শ্ৰমিক নিয়োগ ব্যৱস্থা তদাৰক কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the Ahom nobility",
+        "as": "আহোম অভিজাতসকলে"
+      },
+      {
+        "en": "missionary societies",
+        "as": "মিছন সমাজে"
+      },
+      {
+        "en": "garden managers with government registrars",
+        "as": "চৰকাৰী পঞ্জীয়কসহ বাগিচা পৰিচালকে"
+      },
+      {
+        "en": "village panchayats",
+        "as": "গাঁও পঞ্চায়তসলে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Managers and registrars ran recruitment, which is why the system is described that way. Panchayats, Ahom nobles and missionaries were not in charge.",
+      "as": "পৰিচালক আৰু পঞ্জীয়কে নিয়োগ চলাইছিল, সেয়ে ব্যৱস্থা এনেদৰে বৰ্ণনা কৰা হয়। পঞ্চায়ত, আহোম অভিজাত আৰু মিছন দায়িত্বত নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-574",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The condition of tea garden labour in colonial Assam was investigated by",
+      "as": "ঔপনিবেশিক অসমত চাহ বাগিচা শ্ৰমিকৰ অৱস্থা তদন্ত কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the Mughal court",
+        "as": "মোগল দৰবাৰে"
+      },
+      {
+        "en": "official commissions and later by nationalists",
+        "as": "চৰকাৰী আয়োগে আৰু পিছত জাতীয়তাবাদীসকলে"
+      },
+      {
+        "en": "only the planters themselves",
+        "as": "কেৱল বাগিচা মালিকসকলে"
+      },
+      {
+        "en": "foreign universities only",
+        "as": "কেৱল বিদেশী বিশ্ববিদ্যালয়ে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Commissions and nationalist criticism exposed conditions, which is why both are cited. Planters alone, foreign universities only and the Mughal court are wrong.",
+      "as": "আয়োগ আৰু জাতীয়তাবাদী সমালোচনাই অৱস্থা প্ৰকাশ কৰিছিল, সেয়ে দুয়ো উদ্ধৃত। কেৱল মালিক, কেৱল বিদেশী বিশ্ববিদ্যালয় আৰু মোগল দৰবাৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-575",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Labour Enquiry Committee was appointed mainly to",
+      "as": "অসম শ্ৰম তদন্ত সমিতি নিযুক্ত কৰা হৈছিল মূলতঃ কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "examine recruitment and working conditions",
+        "as": "নিয়োগ আৰু কৰ্ম পৰিস্থিতি পৰীক্ষা কৰিবলৈ"
+      },
+      {
+        "en": "plan railways",
+        "as": "ৰেল পৰিকল্পনা কৰিবলৈ"
+      },
+      {
+        "en": "build temples",
+        "as": "মন্দিৰ নিৰ্মাণ কৰিবলৈ"
+      },
+      {
+        "en": "survey forests",
+        "as": "অৰণ্য জৰীপ কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The committee studied labour conditions, which is why it is cited in social history. Railways, temples and forests were other subjects.",
+      "as": "সমিতিয়ে শ্ৰম অৱস্থা অধ্যয়ন কৰিছিল, সেয়ে ইয়াক সমাজ ইতিহাসত উদ্ধৃত কৰা হয়। ৰেল, মন্দিৰ আৰু অৰণ্য আন বিষয় আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-576",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The 'Assam Labour and Emigration Act' of the colonial period dealt with",
+      "as": "ঔপনিবেশিক যুগৰ 'অসম শ্ৰম আৰু প্ৰব্ৰজন আইন'ই কাৰ লগত সম্পৰ্ক ৰাখিছিল"
+    },
+    "options": [
+      {
+        "en": "tea export duties",
+        "as": "চাহ ৰপ্তানি শুল্ক"
+      },
+      {
+        "en": "land revenue rates",
+        "as": "ভূমি ৰাজহৰ হাৰ"
+      },
+      {
+        "en": "forest reservations",
+        "as": "অৰণ্য সংৰক্ষণ"
+      },
+      {
+        "en": "recruitment and movement of garden labour",
+        "as": "বাগিচা শ্ৰমিকৰ নিয়োগ আৰু চলাচল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Act regulated labour movement, which is why it is cited. Export duties, revenue rates and forests were covered by other laws.",
+      "as": "আইনে শ্ৰমিক চলাচল নিয়ন্ত্ৰণ কৰিছিল, সেয়ে ইয়াক উদ্ধৃত কৰা হয়। ৰপ্তানি শুল্ক, ৰাজহৰ হাৰ আৰু অৰণ্য আন আইনৰ অধীনত আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-577",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial government's 'Wasteland Rules' in Assam concerned",
+      "as": "অসমত ঔপনিবেশিক চৰকাৰৰ 'পতিত ভূমি নিয়ম' কাৰ লগত সম্পৰ্কিত আছিল"
+    },
+    "options": [
+      {
+        "en": "forest fire control",
+        "as": "অৰণ্য জুই নিয়ন্ত্ৰণ"
+      },
+      {
+        "en": "river navigation",
+        "as": "নদী নৌচালনা"
+      },
+      {
+        "en": "settlement of unused land for cultivation",
+        "as": "খেতিৰ বাবে অপ্ৰয়োজিত ভূমিৰ নিষ্পত্তি"
+      },
+      {
+        "en": "tea export quotas",
+        "as": "চাহ ৰপ্তানি কোটা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The rules allowed cultivation on unused land, which is why settlement history uses them. Quotas, fires and navigation were separate.",
+      "as": "নিয়মে অপ্ৰয়োজিত ভূমিত খেতিৰ অনুমতি দিছিল, সেয়ে নিষ্পত্তি ইতিহাসত সেয়া ব্যৱহৃত। কোটা, জুই আৰু নৌচালনা পৃথক আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-578",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial 'Inner Line' regulation in Assam was intended to",
+      "as": "অসমত ঔপনিবেশিক 'ভিতৰ শাৰী' নিয়মৰ উদ্দেশ্য আছিল"
+    },
+    "options": [
+      {
+        "en": "control river traffic",
+        "as": "নদী চলাচল নিয়ন্ত্ৰণ কৰা"
+      },
+      {
+        "en": "regulate entry into hill areas",
+        "as": "পাহাৰীয়া অঞ্চলত প্ৰৱেশ নিয়ন্ত্ৰণ কৰা"
+      },
+      {
+        "en": "regulate tea exports",
+        "as": "চাহ ৰপ্তানি নিয়ন্ত্ৰণ কৰা"
+      },
+      {
+        "en": "fix land revenue",
+        "as": "ভূমি ৰাজহ নিৰ্ধাৰণ কৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Inner Line controlled movement into hills, which is why it is discussed in frontier history. Tea, revenue and rivers were other matters.",
+      "as": "ভিতৰ শাৰীয়ে পাহাৰলৈ চলাচল নিয়ন্ত্ৰণ কৰিছিল, সেয়ে ই সীমান্ত ইতিহাসত আলোচিত। চাহ, ৰাজহ আৰু নদী আন বিষয় আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-579",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial administration's interest in Assam's petroleum began at",
+      "as": "অসমৰ পেট্ৰ'লিয়ামত ঔপনিবেশিক প্ৰশাসনৰ আগ্ৰহ আৰম্ভ হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Digboi",
+        "as": "ডিগবৈত"
+      },
+      {
+        "en": "Naharkatia",
+        "as": "নাহৰকটীয়াত"
+      },
+      {
+        "en": "Moran",
+        "as": "মৰাণত"
+      },
+      {
+        "en": "Rudrasagar",
+        "as": "ৰুদ্ৰসাগৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Digboi saw the first commercial wells, which is why it is named. The others are later oil and gas areas.",
+      "as": "ডিগবৈত প্ৰথম বাণিজ্যিক কূপ ওলাইছিল, সেয়ে ইয়াৰ নাম দিয়া হয়। বাকীবোৰ পিছৰ তেল আৰু গেছ অঞ্চল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-580",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Railway and Trading Company was important because it",
+      "as": "অসম ৰেল আৰু বাণিজ্য কোম্পানী গুৰুত্বপূৰ্ণ আছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "built the first university",
+        "as": "প্ৰথম বিশ্ববিদ্যালয় নিৰ্মাণ কৰিছিল"
+      },
+      {
+        "en": "founded the Ahom kingdom",
+        "as": "আহোম ৰাজ্য প্ৰতিষ্ঠা কৰিছিল"
+      },
+      {
+        "en": "introduced printing",
+        "as": "ছপাকৰণ প্ৰৱৰ্তন কৰিছিল"
+      },
+      {
+        "en": "linked the tea districts to river and rail routes",
+        "as": "চাহ জিলাসমূহ নদী আৰু ৰেল পথৰ লগত জুৰিছিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The company built transport links for tea, which is why it is named. Universities, the Ahom kingdom and printing are unrelated.",
+      "as": "কোম্পানীয়ে চাহৰ বাবে পৰিবহণ সংযোগ নিৰ্মাণ কৰিছিল, সেয়ে ইয়াৰ নাম দিয়া হয়। বিশ্ববিদ্যালয়, আহোম ৰাজ্য আৰু ছপাকৰণ অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-581",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The railway line that connected Assam to Bengal in the colonial period ran through",
+      "as": "ঔপনিবেশিক যুগত অসমক বংগৰ লগত জুৰা ৰেল পথ গৈছিল"
+    },
+    "options": [
+      {
+        "en": "the Barak valley only",
+        "as": "কেৱল বৰাক উপত্যকাৰে"
+      },
+      {
+        "en": "Tibet",
+        "as": "তিব্বতৰে"
+      },
+      {
+        "en": "Goalpara and the Brahmaputra valley",
+        "as": "গোৱালপাৰা আৰু ব্ৰহ্মপুত্ৰ উপত্যকাৰে"
+      },
+      {
+        "en": "the Naga hills",
+        "as": "নগা পাহাৰেৰে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The valley route carried the line, which is why Goalpara appears. The Naga hills, Barak valley and Tibet were not the corridor.",
+      "as": "উপত্যকাৰ পথেৰে ৰেল গৈছিল, সেয়ে গোৱালপাৰা ওলায়। নগা পাহাৰ, বৰাক উপত্যকা আৰু তিব্বত পথ নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-582",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The steamer service on the Brahmaputra in the colonial period mainly carried",
+      "as": "ঔপনিবেশিক যুগত ব্ৰহ্মপুত্ৰৰ বাষ্পীয় জাহাজে মূলতঃ কঢ়িয়াইছিল"
+    },
+    "options": [
+      {
+        "en": "only mail",
+        "as": "কেৱল ডাক"
+      },
+      {
+        "en": "tea, passengers and supplies",
+        "as": "চাহ, যাত্ৰী আৰু যোগান"
+      },
+      {
+        "en": "only coal",
+        "as": "কেৱল কয়লা"
+      },
+      {
+        "en": "only troops",
+        "as": "কেৱল সৈন্য"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Steamers moved goods and people, which is why the service mattered. Coal, troops and mail alone are too narrow.",
+      "as": "বাষ্পীয় জাহাজে সামগ্ৰী আৰু মানুহ চলাইছিল, সেয়ে সেৱা গুৰুত্বপূৰ্ণ। কেৱল কয়লা, সৈন্য আৰু ডাক অতি সংকীৰ্ণ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-583",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial government's survey of Assam's forests led to the creation of",
+      "as": "অসমৰ অৰণ্যৰ ঔপনিবেশিক জৰীপে সৃষ্টি কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "reserved forests and forest villages",
+        "as": "সংৰক্ষিত অৰণ্য আৰু অৰণ্য গাঁও"
+      },
+      {
+        "en": "national highways",
+        "as": "ৰাষ্ট্ৰীয় ঘাইপথ"
+      },
+      {
+        "en": "tea gardens",
+        "as": "চাহ বাগিচা"
+      },
+      {
+        "en": "oil refineries",
+        "as": "তেল শোধনাগাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Reserved forests and forest villages followed the survey, which is why they are named. Highways, gardens and refineries came through other processes.",
+      "as": "সংৰক্ষিত অৰণ্য আৰু অৰণ্য গাঁও জৰীপৰ পিছত আহিছিল, সেয়ে সেয়া নাম দিয়া হয়। ঘাইপথ, বাগিচা আৰু শোধনাগাৰ আন প্ৰক্ৰিয়াত আহিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-584",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial forest administration in Assam restricted villagers from",
+      "as": "অসমত ঔপনিবেশিক বন প্ৰশাসনে গাঁৱলীয়াক কাৰপৰা বাধা দিছিল"
+    },
+    "options": [
+      {
+        "en": "cultivating rice",
+        "as": "ধান খেতি কৰাৰপৰা"
+      },
+      {
+        "en": "fishing in rivers",
+        "as": "নদীত মাছ ধৰাৰপৰা"
+      },
+      {
+        "en": "building houses",
+        "as": "ঘৰ সজাৰপৰা"
+      },
+      {
+        "en": "felling timber and clearing forest land freely",
+        "as": "মুক্তভাৱে কাঠ কটা আৰু অৰণ্য মাটি চাফা কৰাৰপৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Timber and clearance were restricted, which is why forest rights became an issue. Rice, fishing and housing were not the restriction.",
+      "as": "কাঠ আৰু চাফাই সীমাবদ্ধ আছিল, সেয়ে বন অধিকাৰ বিষয় হৈ পৰিছিল। ধান, মাছ আৰু ঘৰ সজা বাধাৰ অধীনত নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-585",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Forest Regulation of the colonial period was mainly concerned with",
+      "as": "ঔপনিবেশিক যুগৰ অসম বন নিয়ম মূলতঃ কাৰ লগত জড়িত আছিল"
+    },
+    "options": [
+      {
+        "en": "school curriculum",
+        "as": "বিদ্যালয় পাঠ্যক্ৰম"
+      },
+      {
+        "en": "river navigation",
+        "as": "নদী নৌচালনা"
+      },
+      {
+        "en": "control over forest produce and access",
+        "as": "অৰণ্য উৎপাদন আৰু প্ৰৱেশৰ ওপৰত নিয়ন্ত্ৰণ"
+      },
+      {
+        "en": "tea prices",
+        "as": "চাহৰ মূল্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The regulation governed produce and access, which is why it is cited. Prices, curriculum and navigation were separate.",
+      "as": "নিয়মে উৎপাদন আৰু প্ৰৱেশ নিয়ন্ত্ৰণ কৰিছিল, সেয়ে ইয়াক উদ্ধৃত কৰা হয়। মূল্য, পাঠ্যক্ৰম আৰু নৌচালনা পৃথক আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-586",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial administration's encouragement of settled cultivation in Assam was intended to",
+      "as": "অসমত স্থায়ী খেতি উৎসাহিত কৰাৰ ঔপনিবেশিক প্ৰশাসনৰ উদ্দেশ্য আছিল"
+    },
+    "options": [
+      {
+        "en": "stop all migration",
+        "as": "সকলো অনুপ্ৰৱেশ বন্ধ কৰা"
+      },
+      {
+        "en": "increase revenue and food supply",
+        "as": "ৰাজহ আৰু খাদ্য যোগান বৃদ্ধি কৰা"
+      },
+      {
+        "en": "reduce the population",
+        "as": "জনসংখ্যা হ্ৰাস কৰা"
+      },
+      {
+        "en": "end tea cultivation",
+        "as": "চাহ খেতি অন্ত কৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Revenue and food were the aims, which is why settlement expanded. Reducing population, ending tea and stopping migration are wrong.",
+      "as": "ৰাজহ আৰু খাদ্যই লক্ষ্য আছিল, সেয়ে নিষ্পত্তি বিস্তৃত হৈছিল। জনসংখ্যা হ্ৰাস, চাহ অন্ত আৰু অনুপ্ৰৱেশ বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-587",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial government's revenue settlements in Assam were based on",
+      "as": "অসমত ঔপনিবেশিক চৰকাৰৰ ৰাজহ নিষ্পত্তি আধাৰিত আছিল"
+    },
+    "options": [
+      {
+        "en": "surveys of land and its produce",
+        "as": "ভূমি আৰু তাৰ উৎপাদনৰ জৰীপৰ ওপৰত"
+      },
+      {
+        "en": "the number of tea gardens",
+        "as": "চাহ বাগিচাৰ সংখ্যাৰ ওপৰত"
+      },
+      {
+        "en": "the size of the army",
+        "as": "সেনাৰ আকাৰৰ ওপৰত"
+      },
+      {
+        "en": "the number of schools",
+        "as": "বিদ্যালয়ৰ সংখ্যাৰ ওপৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Land and produce surveys set the assessment, which is why cadastral records matter. Gardens, army and schools were not the base.",
+      "as": "ভূমি আৰু উৎপাদনৰ জৰীপে কৰ নিৰ্ধাৰণ কৰিছিল, সেয়ে ভূমি ৰেকৰ্ড গুৰুত্বপূৰ্ণ। বাগিচা, সেনা আৰু বিদ্যালয় ভেটি নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-588",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam peasantry's grievances in the colonial period included",
+      "as": "ঔপনিবেশিক যুগত অসমীয়া কৃষকৰ অসন্তোষত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "excessive tea exports",
+        "as": "অতিরিক্ত চাহ ৰপ্তানি"
+      },
+      {
+        "en": "too many schools",
+        "as": "অতি বেছি বিদ্যালয়"
+      },
+      {
+        "en": "the absence of railways",
+        "as": "ৰেলৰ অভাৱ"
+      },
+      {
+        "en": "high revenue demands and insecure tenure",
+        "as": "উচ্চ ৰাজহ দাবী আৰু অনিৰাপদ ভূমি অধিকাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Revenue and tenure caused rural distress, which is why agrarian history focuses on them. Exports, schools and railways were not peasant grievances.",
+      "as": "ৰাজহ আৰু অধিকাৰে গ্ৰাম্য দুৰ্দশা ঘটাইছিল, সেয়ে কৃষি ইতিহাসে সেয়া কেন্দ্ৰ কৰে। ৰপ্তানি, বিদ্যালয় আৰু ৰেল কৃষকৰ অসন্তোষ নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-589",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The 'Assam Riyotwari' system in the colonial period meant",
+      "as": "ঔপনিবেশিক যুগত 'অসম ৰৈয়তৱাৰী' ব্যৱস্থাৰ অৰ্থ আছিল"
+    },
+    "options": [
+      {
+        "en": "revenue collected by the army",
+        "as": "সেনাই ৰাজহ সংগ্ৰহ"
+      },
+      {
+        "en": "no revenue at all",
+        "as": "কোনো ৰাজহ নাই"
+      },
+      {
+        "en": "revenue settled directly with the cultivator",
+        "as": "কৰ্ষকৰ লগত প্ৰত্যক্ষভাৱে ৰাজহ নিষ্পত্তি"
+      },
+      {
+        "en": "revenue settled with a zamindar",
+        "as": "জমিদাৰৰ লগত ৰাজহ নিষ্পত্তি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Direct settlement with cultivators defines riyotwari, which is why the term is used. Zamindari, army collection and no revenue are different.",
+      "as": "কৰ্ষকৰ লগত প্ৰত্যক্ষ নিষ্পত্তিয়েই ৰৈয়তৱাৰী, সেয়ে শব্দটো ব্যৱহৃত। জমিদাৰী, সেনা সংগ্ৰহ আৰু ৰাজহহীনতা বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-590",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial 'zamindari' type settlement in parts of Assam meant revenue was collected through",
+      "as": "অসমৰ কিছু অংশত ঔপনিবেশিক 'জমিদাৰী' ধৰণৰ নিষ্পত্তিৰ অৰ্থ আছিল ৰাজহ সংগ্ৰহ কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the tea companies",
+        "as": "চাহ কোম্পানীৰ জৰিয়তে"
+      },
+      {
+        "en": "intermediaries",
+        "as": "মধ্যস্থতাকাৰীৰ জৰিয়তে"
+      },
+      {
+        "en": "the cultivator directly",
+        "as": "প্ৰত্যক্ষভাৱে কৰ্ষকৰ জৰিয়তে"
+      },
+      {
+        "en": "the army",
+        "as": "সেনাৰ জৰিয়তে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Intermediaries collected under zamindari, which is why the contrast with riyotwari matters. Direct collection, the army and tea companies are different.",
+      "as": "জমিদাৰীত মধ্যস্থতাকাৰীয়ে সংগ্ৰহ কৰিছিল, সেয়ে ৰৈয়তৱাৰীৰ লগত পাৰ্থক্য গুৰুত্বপূৰ্ণ। প্ৰত্যক্ষ সংগ্ৰহ, সেনা আৰু চাহ কোম্পানী বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-591",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial government's census operations in Assam were significant because they",
+      "as": "অসমত ঔপনিবেশিক চৰকাৰৰ জনগণনা কাৰ্য গুৰুত্বপূৰ্ণ আছিল কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "created categories used in later politics",
+        "as": "পিছৰ ৰাজনীতিত ব্যৱহৃত শ্ৰেণী সৃষ্টি কৰিছিল"
+      },
+      {
+        "en": "ended all migration",
+        "as": "সকলো অনুপ্ৰৱেশ অন্ত কৰিছিল"
+      },
+      {
+        "en": "abolished the tea gardens",
+        "as": "চাহ বাগিচা বিলুপ্ত কৰিছিল"
+      },
+      {
+        "en": "stopped the railways",
+        "as": "ৰেল বন্ধ কৰিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Census categories shaped claims and policy, which is why they are studied critically. Ending migration, abolishing gardens and stopping railways are wrong.",
+      "as": "জনগণনাৰ শ্ৰেণীয়ে দাবী আৰু নীতি গঢ়িছিল, সেয়ে সেয়া সমালোচনামূলকভাৱে অধ্যয়ন কৰা হয়। অনুপ্ৰৱেশ অন্ত, বাগিচা বিলুপ্তি আৰু ৰেল বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-592",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial administration classified Assam's population mainly by",
+      "as": "ঔপনিবেশিক প্ৰশাসনে অসমৰ জনসংখ্যাক মূলতঃ কাৰ দ্বাৰা শ্ৰেণীবদ্ধ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "height and weight",
+        "as": "উচ্চতা আৰু ওজন"
+      },
+      {
+        "en": "blood group",
+        "as": "ৰক্ত গোট"
+      },
+      {
+        "en": "shoe size",
+        "as": "জোতাৰ মাপ"
+      },
+      {
+        "en": "caste, tribe, religion and occupation",
+        "as": "জাতি, জনজাতি, ধৰ্ম আৰু বৃত্তি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Census categories used caste, tribe, religion and occupation, which is why those categories persist. Physical and medical categories were not used.",
+      "as": "জনগণনা শ্ৰেণীয়ে জাতি, জনজাতি, ধৰ্ম আৰু বৃত্তি ব্যৱহাৰ কৰিছিল, সেয়ে সেই শ্ৰেণী ৰৈ গৈছে। শাৰীৰিক আৰু চিকিৎসা শ্ৰেণী ব্যৱহৃত নহৈছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-593",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial government's policy towards Assam's hill districts after 1874 was to",
+      "as": "১৮৭৪ চনৰ পিছত অসমৰ পাহাৰীয়া জিলাৰ প্ৰতি ঔপনিবেশিক চৰকাৰৰ নীতি আছিল"
+    },
+    "options": [
+      {
+        "en": "give them to Burma",
+        "as": "ব্ৰহ্মদেশক দিয়া"
+      },
+      {
+        "en": "abolish them",
+        "as": "সেয়া বিলুপ্ত কৰা"
+      },
+      {
+        "en": "administer them separately from the plains",
+        "as": "সমভূমিৰপৰা পৃথকভাৱে শাসন কৰা"
+      },
+      {
+        "en": "merge them with Bengal",
+        "as": "বংগৰ লগত একত্ৰিত কৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Separate administration was the policy, which is why the hills had different rules. Merging with Bengal, giving to Burma and abolition are wrong.",
+      "as": "পৃথক প্ৰশাসনেই নীতি আছিল, সেয়ে পাহাৰত বেলেগ নিয়ম আছিল। বংগৰ লগত একত্ৰিত, ব্ৰহ্মদেশক দান আৰু বিলুপ্তি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-594",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial 'scheduled district' arrangement in Assam meant",
+      "as": "অসমত ঔপনিবেশিক 'অনুসূচিত জিলা' ব্যৱস্থাৰ অৰ্থ আছিল"
+    },
+    "options": [
+      {
+        "en": "military occupation",
+        "as": "সামৰিক দখল"
+      },
+      {
+        "en": "a lighter form of administration for certain areas",
+        "as": "কিছু অঞ্চলৰ বাবে হালকা প্ৰশাসন"
+      },
+      {
+        "en": "full provincial status",
+        "as": "সম্পূৰ্ণ প্ৰাদেশিক মৰ্যাদা"
+      },
+      {
+        "en": "direct rule from London",
+        "as": "লণ্ডনৰপৰা প্ৰত্যক্ষ শাসন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Lighter administration applied to certain districts, which is why the term appears. Full status, London rule and military occupation are wrong.",
+      "as": "কিছু জিলাত হালকা প্ৰশাসন প্ৰযোজ্য আছিল, সেয়ে শব্দটো ওলায়। সম্পূৰ্ণ মৰ্যাদা, লণ্ডন শাসন আৰু সামৰিক দখল ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-595",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial government's 'excluded areas' in Assam were those",
+      "as": "অসমত ঔপনিবেশিক চৰকাৰৰ 'বহিষ্কৃত অঞ্চল' আছিল সেইবোৰ"
+    },
+    "options": [
+      {
+        "en": "kept outside the normal provincial legislature's authority",
+        "as": "সাধাৰণ প্ৰাদেশিক বিধানসভাৰ কৰ্তৃত্বৰ বাহিৰত ৰখা"
+      },
+      {
+        "en": "excluded from tea cultivation",
+        "as": "চাহ খেতিৰপৰা বাদ দিয়া"
+      },
+      {
+        "en": "excluded from census counts",
+        "as": "জনগণনাৰপৰা বাদ দিয়া"
+      },
+      {
+        "en": "excluded from all taxation",
+        "as": "সকলো কৰৰপৰা বাদ দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Excluded areas sat outside normal legislative control, which is why the term matters in constitutional history. Tea, census and taxation exclusions are different.",
+      "as": "বহিষ্কৃত অঞ্চল সাধাৰণ বিধানিক নিয়ন্ত্ৰণৰ বাহিৰত আছিল, সেয়ে শব্দটো সাংবিধানিক ইতিহাসত গুৰুত্বপূৰ্ণ। চাহ, জনগণনা আৰু কৰ বাদ বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-596",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Association's memorandum to the government in the early twentieth century demanded",
+      "as": "বিংশ শতিকাৰ আৰম্ভণিত অসম এছোচিয়েশ্যনৰ চৰকাৰলৈ স্মাৰকলৈ দাবী আছিল"
+    },
+    "options": [
+      {
+        "en": "union with Burma",
+        "as": "ব্ৰহ্মদেশৰ লগত সংযোগ"
+      },
+      {
+        "en": "abolition of the tea industry",
+        "as": "চাহ উদ্যোগ বিলুপ্তি"
+      },
+      {
+        "en": "restoration of the Ahom monarchy",
+        "as": "আহোম ৰাজতন্ত্ৰ পুনৰ্বাহালি"
+      },
+      {
+        "en": "representation and protection of Assamese interests",
+        "as": "প্ৰতিনিধিত্ব আৰু অসমীয়া স্বাৰ্থ ৰক্ষা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Representation and protection were the demands, which is why the memorandum matters. Burma union, abolishing tea and restoring the Ahoms are wrong.",
+      "as": "প্ৰতিনিধিত্ব আৰু ৰক্ষাই দাবী আছিল, সেয়ে স্মাৰক গুৰুত্বপূৰ্ণ। ব্ৰহ্মদেশ সংযোগ, চাহ বিলুপ্তি আৰু আহোম পুনৰ্বাহালি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-597",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The first President of the Assam Association was",
+      "as": "অসম এছোচিয়েশ্যনৰ প্ৰথম সভাপতি আছিল"
+    },
+    "options": [
+      {
+        "en": "Maniram Dewan",
+        "as": "মণিৰাম দেৱান"
+      },
+      {
+        "en": "Lakshminath Bezbaroa",
+        "as": "লক্ষ্মীনাথ বেজবৰুৱা"
+      },
+      {
+        "en": "Raja Prabhat Chandra Barua",
+        "as": "ৰজা প্ৰভাত চন্দ্ৰ বৰুৱা"
+      },
+      {
+        "en": "Gopinath Bordoloi",
+        "as": "গোপীনাথ বৰদলৈ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Barua presided over the new body, which is why he is named. Bordoloi, Dewan and Bezbaroa held other roles in other periods.",
+      "as": "বৰুৱাই নতুন সংস্থাৰ সভাপতিত্ব কৰিছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। বৰদলৈ, দেৱান আৰু বেজবৰুৱাই আন যুগত আন ভূমিকা লৈছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-598",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Chatra Sanmilan was important because it",
+      "as": "অসম ছাত্ৰ সন্মিলন গুৰুত্বপূৰ্ণ আছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "commanded troops",
+        "as": "সৈন্য পৰিচালনা কৰিছিল"
+      },
+      {
+        "en": "organised students for social and political causes",
+        "as": "সামাজিক আৰু ৰাজনৈতিক কামৰ বাবে ছাত্ৰ সংগঠিত কৰিছিল"
+      },
+      {
+        "en": "ran tea gardens",
+        "as": "চাহ বাগিচা চলাইছিল"
+      },
+      {
+        "en": "collected land revenue",
+        "as": "ভূমি ৰাজহ সংগ্ৰহ কৰিছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Student organisation became a political force, which is why the body matters. Gardens, revenue and troops were not its work.",
+      "as": "ছাত্ৰ সংগঠন ৰাজনৈতিক শক্তি হৈ পৰিছিল, সেয়ে সংস্থাটো গুৰুত্বপূৰ্ণ। বাগিচা, ৰাজহ আৰু সৈন্য তাৰ কাম নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-599",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese literary figure associated with the Jonaki era and modern Assamese prose was",
+      "as": "জোনাকী যুগ আৰু আধুনিক অসমীয়া গদ্যৰ লগত জড়িত অসমীয়া সাহিত্যিক আছিল"
+    },
+    "options": [
+      {
+        "en": "Lakshminath Bezbaroa",
+        "as": "লক্ষ্মীনাথ বেজবৰুৱা"
+      },
+      {
+        "en": "Maniram Dewan",
+        "as": "মণিৰাম দেৱান"
+      },
+      {
+        "en": "Chilarai",
+        "as": "চিলাৰায়"
+      },
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bezbaroa shaped the Jonaki period, which is why he is named. Dewan was a planter and rebel, Chilarai a Koch general and Sukapha an Ahom king.",
+      "as": "বেজবৰুৱাই জোনাকী যুগ গঢ়িছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। দেৱান বাগিচা মালিক আৰু বিদ্ৰোহী, চিলাৰায় কোচ সেনাপতি আৰু চুকাফা আহোম ৰজা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-600",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese writer Hemchandra Barua is remembered for",
+      "as": "অসমীয়া লেখক হেমচন্দ্ৰ বৰুৱা স্মৰণীয় কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "tea planting",
+        "as": "চাহ খেতিৰ বাবে"
+      },
+      {
+        "en": "military command",
+        "as": "সামৰিক নেতৃত্বৰ বাবে"
+      },
+      {
+        "en": "temple construction",
+        "as": "মন্দিৰ নিৰ্মাণৰ বাবে"
+      },
+      {
+        "en": "the Assamese dictionary and grammar work",
+        "as": "অসমীয়া অভিধান আৰু ব্যাকৰণৰ কামৰ বাবে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "His dictionary and grammar standardised the language, which is why he is cited. Tea, the army and temples are unrelated.",
+      "as": "তেওঁৰ অভিধান আৰু ব্যাকৰণে ভাষা মানক কৰিছিল, সেয়ে তেওঁক উদ্ধৃত কৰা হয়। চাহ, সেনা আৰু মন্দিৰ অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-601",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese writer Anandaram Dhekial Phukan is remembered for",
+      "as": "অসমীয়া লেখক আনন্দৰাম ঢেকিয়াল ফুকন স্মৰণীয় কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "leading the Burmese war",
+        "as": "বাৰ্মী যুদ্ধৰ নেতৃত্বৰ বাবে"
+      },
+      {
+        "en": "building railways",
+        "as": "ৰেল নিৰ্মাণৰ বাবে"
+      },
+      {
+        "en": "early advocacy of Assamese in education and administration",
+        "as": "শিক্ষা আৰু প্ৰশাসনত অসমীয়াৰ প্ৰাৰম্ভিক সমৰ্থনৰ বাবে"
+      },
+      {
+        "en": "founding the Ahom kingdom",
+        "as": "আহোম ৰাজ্য প্ৰতিষ্ঠাৰ বাবে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Phukan argued for Assamese in official use, which is why he is named. The Ahom founding, Burmese war and railways belong elsewhere.",
+      "as": "ফুকনে চৰকাৰী ব্যৱহাৰত অসমীয়াৰ যুক্তি দিছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। আহোম প্ৰতিষ্ঠা, বাৰ্মী যুদ্ধ আৰু ৰেল আন ঠাইৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-602",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese intellectual Gunabhiram Barua is remembered for",
+      "as": "অসমীয়া বুদ্ধিজীৱী গুণাভিৰাম বৰুৱা স্মৰণীয় কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "oil exploration",
+        "as": "তেল অনুসন্ধানৰ বাবে"
+      },
+      {
+        "en": "social reform and early Assamese prose",
+        "as": "সমাজ সংস্কাৰ আৰু প্ৰাৰম্ভিক অসমীয়া গদ্যৰ বাবে"
+      },
+      {
+        "en": "tea exports",
+        "as": "চাহ ৰপ্তানিৰ বাবে"
+      },
+      {
+        "en": "military reforms",
+        "as": "সামৰিক সংস্কাৰৰ বাবে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Reform and prose are his contributions, which is why he is named. Tea, the army and oil are unrelated.",
+      "as": "সংস্কাৰ আৰু গদ্য তেওঁৰ অৱদান, সেয়ে তেওঁৰ নাম দিয়া হয়। চাহ, সেনা আৰু তেল অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-603",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese periodical 'Bahi' and similar journals helped",
+      "as": "অসমীয়া আলোচনী 'বাহী' আদিয়ে সহায় কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "the growth of prose fiction and social debate",
+        "as": "গদ্য কল্পনা আৰু সামাজিক বিতৰ্কৰ বৃদ্ধিত"
+      },
+      {
+        "en": "the tea industry",
+        "as": "চাহ উদ্যোগত"
+      },
+      {
+        "en": "railway expansion",
+        "as": "ৰেল বিস্তাৰত"
+      },
+      {
+        "en": "oil drilling",
+        "as": "তেল খননত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Literary journals widened debate and fiction, which is why they matter. Tea, railways and oil are unrelated.",
+      "as": "সাহিত্য আলোচনীয়ে বিতৰ্ক আৰু কল্পনা বহলাইছিল, সেয়ে সেয়া গুৰুত্বপূৰ্ণ। চাহ, ৰেল আৰু তেল অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-604",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese novel in the modern sense began in the colonial period with works by",
+      "as": "আধুনিক অৰ্থত অসমীয়া উপন্যাস ঔপনিবেশিক যুগত কাৰ ৰচনাৰে আৰম্ভ হৈছিল"
+    },
+    "options": [
+      {
+        "en": "Ahom court poets",
+        "as": "আহোম দৰবাৰৰ কবিসকলৰ"
+      },
+      {
+        "en": "British officers",
+        "as": "ব্ৰিটিছ বিষয়াসকলৰ"
+      },
+      {
+        "en": "Mughal chroniclers",
+        "as": "মোগল বুৰঞ্জীকাৰসকলৰ"
+      },
+      {
+        "en": "writers such as Padmanath Gohain Barua",
+        "as": "পদ্মনাথ গোহাঞি বৰুৱা আদি লেখকসকলৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Early Assamese novels came from colonial era writers, which is why Gohain Barua is named. Court poets, British officers and Mughal chroniclers did not write them.",
+      "as": "প্ৰাৰম্ভিক অসমীয়া উপন্যাস ঔপনিবেশিক যুগৰ লেখকৰপৰা আহিছিল, সেয়ে গোহাঞি বৰুৱাৰ নাম দিয়া হয়। দৰবাৰ কবি, ব্ৰিটিছ বিষয়া আৰু মোগল বুৰঞ্জীকাৰে সেয়া লিখা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-605",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese theatre movement in the colonial period was linked to",
+      "as": "ঔপনিবেশিক যুগত অসমীয়া নাট্য আন্দোলন কাৰ লগত জড়িত আছিল"
+    },
+    "options": [
+      {
+        "en": "the army only",
+        "as": "কেৱল সেনাৰ লগত"
+      },
+      {
+        "en": "the forest department",
+        "as": "বন বিভাগৰ লগত"
+      },
+      {
+        "en": "the growth of literary societies and public halls",
+        "as": "সাহিত্য সভা আৰু ৰাজহুৱা গৃহৰ বৃদ্ধিৰ লগত"
+      },
+      {
+        "en": "the tea gardens only",
+        "as": "কেৱল চাহ বাগিচাৰ লগত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Societies and halls staged plays, which is why they are cited. Gardens, the army and forests were not the base of theatre.",
+      "as": "সভা আৰু গৃহই নাট মঞ্চস্থ কৰিছিল, সেয়ে সেয়া উদ্ধৃত। বাগিচা, সেনা আৰু অৰণ্য নাট্যৰ ভেটি নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-606",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese women's writing in the colonial period was associated with figures such as",
+      "as": "ঔপনিবেশিক যুগত অসমীয়া নাৰী লেখন কাৰ দৰে ব্যক্তিৰ লগত জড়িত আছিল"
+    },
+    "options": [
+      {
+        "en": "only Ahom queens",
+        "as": "কেৱল আহোম ৰাণীসকলৰ"
+      },
+      {
+        "en": "writers who addressed education and social reform",
+        "as": "শিক্ষা আৰু সমাজ সংস্কাৰৰ বিষয়ে লিখা লেখিকাসকলৰ"
+      },
+      {
+        "en": "only tea planters",
+        "as": "কেৱল চাহ বাগিচা মালিকসকলৰ"
+      },
+      {
+        "en": "only British officials",
+        "as": "কেৱল ব্ৰিটিছ বিষয়াসকলৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Women writers raised education and reform, which is why they are cited. Planters, officials and queens do not describe the group.",
+      "as": "নাৰী লেখিকাসকলে শিক্ষা আৰু সংস্কাৰ উত্থাপন কৰিছিল, সেয়ে সেয়া উদ্ধৃত। বাগিচা মালিক, বিষয়া আৰু ৰাণীয়ে গোটটোৰ বৰ্ণনা নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-607",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese press in the colonial period faced restrictions mainly through",
+      "as": "ঔপনিবেশিক যুগত অসমীয়া সংবাদমাধ্যমে মূলতঃ কাৰ জৰিয়তে বাধাৰ সন্মুখীন হৈছিল"
+    },
+    "options": [
+      {
+        "en": "press laws and sedition provisions",
+        "as": "সংবাদ আইন আৰু ৰাজদ্ৰোহৰ বিধান"
+      },
+      {
+        "en": "tea export rules",
+        "as": "চাহ ৰপ্তানি নিয়ম"
+      },
+      {
+        "en": "forest regulations",
+        "as": "বন নিয়ম"
+      },
+      {
+        "en": "railway timetables",
+        "as": "ৰেল সময়সূচী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Press and sedition laws curbed newspapers, which is why they are named. Tea, forests and railways were different.",
+      "as": "সংবাদ আৰু ৰাজদ্ৰোহ আইনে কাকত সীমিত কৰিছিল, সেয়ে সেয়া নাম দিয়া হয়। চাহ, অৰণ্য আৰু ৰেল বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-608",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese national movement's response to the Non-Cooperation Movement included",
+      "as": "অসহযোগ আন্দোলনলৈ অসমীয়া জাতীয় আন্দোলনৰ প্ৰতিক্ৰিয়াত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "support for tea exports",
+        "as": "চাহ ৰপ্তানিৰ সমৰ্থন"
+      },
+      {
+        "en": "demands for Mughal rule",
+        "as": "মোগল শাসনৰ দাবী"
+      },
+      {
+        "en": "support for Burmese rule",
+        "as": "বাৰ্মী শাসনৰ সমৰ্থন"
+      },
+      {
+        "en": "boycotts of schools and foreign cloth",
+        "as": "বিদ্যালয় আৰু বিদেশী বস্ত্ৰ বৰ্জন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Boycotts were the method, which is why they are cited. Supporting exports, Mughal rule and Burmese rule are wrong.",
+      "as": "বৰ্জনেই পদ্ধতি আছিল, সেয়ে সেয়া উদ্ধৃত। ৰপ্তানি সমৰ্থন, মোগল শাসন আৰু বাৰ্মী শাসন ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-609",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese response to the Civil Disobedience Movement included",
+      "as": "আইন অমান্য আন্দোলনলৈ অসমীয়া প্ৰতিক্ৰিয়াত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "demands for tea export quotas",
+        "as": "চাহ ৰপ্তানি কোটাৰ দাবী"
+      },
+      {
+        "en": "support for forest reservation",
+        "as": "অৰণ্য সংৰক্ষণৰ সমৰ্থন"
+      },
+      {
+        "en": "participation in salt and tax protests",
+        "as": "লৱণ আৰু কৰ প্ৰতিবাদত অংশগ্ৰহণ"
+      },
+      {
+        "en": "support for the British army",
+        "as": "ব্ৰিটিছ সেনাৰ সমৰ্থন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Salt and tax protests drew Assamese participants, which is why they are named. Army support, export quotas and forest reservation are wrong.",
+      "as": "লৱণ আৰু কৰ প্ৰতিবাদে অসমীয়া অংশগ্ৰহণকাৰী আকৰ্ষণ কৰিছিল, সেয়ে সেয়া নাম দিয়া হয়। সেনা সমৰ্থন, ৰপ্তানি কোটা আৰু অৰণ্য সংৰক্ষণ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-610",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese leader who served as Chief Minister in the 1930s under the provincial autonomy system was",
+      "as": "প্ৰাদেশিক স্বায়ত্তশাসন ব্যৱস্থাৰ অধীনত ১৯৩০ দশকত মুখ্যমন্ত্ৰী হিচাপে কাৰ্য কৰা অসমীয়া নেতা আছিল"
+    },
+    "options": [
+      {
+        "en": "Sankardeva",
+        "as": "শংকৰদেৱ"
+      },
+      {
+        "en": "Gopinath Bordoloi",
+        "as": "গোপীনাথ বৰদলৈ"
+      },
+      {
+        "en": "Maniram Dewan",
+        "as": "মণিৰাম দেৱান"
+      },
+      {
+        "en": "Lachit Borphukan",
+        "as": "লাচিত বৰফুকন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bordoloi led ministries in that period, which is why he is named. Dewan, Lachit and Sankardeva belong to other centuries.",
+      "as": "বৰদলৈয়ে সেই সময়ত মন্ত্ৰিসভাৰ নেতৃত্ব দিছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। দেৱান, লাচিত আৰু শংকৰদেৱ আন শতিকা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-611",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese politician who became the first Chief Minister of Assam after independence was",
+      "as": "স্বাধীনতাৰ পিছত অসমৰ প্ৰথম মুখ্যমন্ত্ৰী হোৱা অসমীয়া ৰাজনীতিবিদ আছিল"
+    },
+    "options": [
+      {
+        "en": "Gopinath Bordoloi",
+        "as": "গোপীনাথ বৰদলৈ"
+      },
+      {
+        "en": "Bishnuram Medhi",
+        "as": "বিষ্ণুৰাম মেধি"
+      },
+      {
+        "en": "Sarat Chandra Sinha",
+        "as": "সৰৎ চন্দ্ৰ সিংহ"
+      },
+      {
+        "en": "Bimala Prasad Chaliha",
+        "as": "বিমলা প্ৰসাদ চলিহা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bordoloi headed the first ministry, which is why he is named. Medhi, Sinha and Chaliha came later.",
+      "as": "বৰদলৈয়ে প্ৰথম মন্ত্ৰিসভাৰ নেতৃত্ব দিছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। মেধি, সিংহ আৰু চলিহা পিছত আহিছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-612",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "Which Chief Minister carried Bordoloi's land reform programme forward?",
+      "as": "কোন মুখ্যমন্ত্ৰীয়ে বৰদলৈৰ ভূমি সংস্কাৰ কাৰ্যসূচী আগবঢ়াই নিছিল?"
+    },
+    "options": [
+      {
+        "en": "Gopinath Bordoloi",
+        "as": "গোপিনাথ বৰদলৈ"
+      },
+      {
+        "en": "Maniram Dewan",
+        "as": "মণিৰাম দেৱান"
+      },
+      {
+        "en": "Lachit Borphukan",
+        "as": "লাচিত বৰফুকন"
+      },
+      {
+        "en": "Bishnuram Medhi",
+        "as": "বিষ্ণুৰাম মেধি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Medhi followed Bordoloi, which is why the sequence is noted. Bordoloi came first, and Dewan and Lachit are from other periods.",
+      "as": "মেধি বৰদলৈৰ পিছত আহিছিল, সেয়ে ক্ৰম লক্ষ্য কৰা হয়। বৰদলৈ প্ৰথম, আৰু দেৱান তথা লাচিত আন যুগৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-613",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese Chief Minister associated with the medium of instruction controversy in the 1960s was",
+      "as": "১৯৬০ দশকত শিক্ষাৰ মাধ্যম বিবাদৰ লগত জড়িত অসমীয়া মুখ্যমন্ত্ৰী আছিল"
+    },
+    "options": [
+      {
+        "en": "Maniram Dewan",
+        "as": "মণিৰাম দেৱান"
+      },
+      {
+        "en": "Chilarai",
+        "as": "চিলাৰায়"
+      },
+      {
+        "en": "Bimala Prasad Chaliha",
+        "as": "বিমলা প্ৰসাদ চলিহা"
+      },
+      {
+        "en": "Gopinath Bordoloi",
+        "as": "গোপিনাথ বৰদলৈ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The language issue dominated that ministry, which is why Chaliha is named. Bordoloi, Dewan and Chilarai belong elsewhere.",
+      "as": "ভাষা প্ৰশ্নই সেই মন্ত্ৰিসভাত প্ৰাধান্য পাইছিল, সেয়ে চলিহাৰ নাম দিয়া হয়। বৰদলৈ, দেৱান আৰু চিলাৰায় আন ঠাইৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-614",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese language movement of 1960 was triggered by the decision to",
+      "as": "১৯৬০ চনৰ অসমীয়া ভাষা আন্দোলন কাৰ সিদ্ধান্তই আৰম্ভ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "ban Bengali in Bengal",
+        "as": "বংগত বাংলা নিষিদ্ধ কৰা"
+      },
+      {
+        "en": "make Assamese the sole official language in the Brahmaputra valley",
+        "as": "ব্ৰহ্মপুত্ৰ উপত্যকাত অসমীয়াক একমাত্ৰ চৰকাৰী ভাষা কৰা"
+      },
+      {
+        "en": "abolish Assamese",
+        "as": "অসমীয়া বিলুপ্ত কৰা"
+      },
+      {
+        "en": "introduce English only",
+        "as": "কেৱল ইংৰাজী প্ৰৱৰ্তন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The sole official language decision sparked protests, which is why the movement is dated to 1960. Abolishing Assamese, English only and a Bengal ban are wrong.",
+      "as": "একমাত্ৰ চৰকাৰী ভাষাৰ সিদ্ধান্তই প্ৰতিবাদ জগাইছিল, সেয়ে আন্দোলন ১৯৬০ লৈ তাৰিখযুক্ত। অসমীয়া বিলুপ্তি, কেৱল ইংৰাজী আৰু বংগত নিষেধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-615",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Official Language Act of 1960 provided for",
+      "as": "১৯৬০ চনৰ অসম চৰকাৰী ভাষা আইনে ব্যৱস্থা কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "Assamese as the official language with safeguards for other languages",
+        "as": "আন ভাষাৰ বাবে সুৰক্ষাসহ অসমীয়াক চৰকাৰী ভাষা"
+      },
+      {
+        "en": "English as the only official language",
+        "as": "কেৱল ইংৰাজীক চৰকাৰী ভাষা"
+      },
+      {
+        "en": "Bengali as the official language",
+        "as": "বাংলাক চৰকাৰী ভাষা"
+      },
+      {
+        "en": "no official language",
+        "as": "কোনো চৰকাৰী ভাষা নাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Act made Assamese official with safeguards, which is why it is cited. English only, Bengali and no language are contradicted.",
+      "as": "আইনে সুৰক্ষাসহ অসমীয়াক চৰকাৰী কৰিছিল, সেয়ে ইয়াক উদ্ধৃত কৰা হয়। কেৱল ইংৰাজী, বাংলা আৰু ভাষাহীনতা খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-616",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The language issue in the Barak valley in 1961 led to",
+      "as": "১৯৬১ চনত বৰাক উপত্যকাৰ ভাষা প্ৰশ্নই আগবঢ়াইছিল"
+    },
+    "options": [
+      {
+        "en": "the merger of the valley with Bengal",
+        "as": "উপত্যকাৰ বংগৰ লগত একত্ৰিতকৰণলৈ"
+      },
+      {
+        "en": "the abolition of Assamese",
+        "as": "অসমীয়াৰ বিলুপ্তিলৈ"
+      },
+      {
+        "en": "the creation of a new state",
+        "as": "নতুন ৰাজ্য সৃষ্টিলৈ"
+      },
+      {
+        "en": "protests in which several people died",
+        "as": "কেইবাজনো লোক নিহত হোৱা প্ৰতিবাদলৈ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The protests turned fatal, which is why the episode is remembered. Merger with Bengal, abolition of Assamese and a new state did not follow.",
+      "as": "প্ৰতিবাদ মাৰাত্মক হৈছিল, সেয়ে ঘটনাটো স্মৰণীয়। বংগৰ লগত একত্ৰিত, অসমীয়া বিলুপ্তি আৰু নতুন ৰাজ্য সৃষ্টি হোৱা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-617",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Accord of 1985 dealt mainly with",
+      "as": "১৯৮৫ চনৰ অসম চুক্তি মূলতঃ কাৰ লগত জড়িত আছিল"
+    },
+    "options": [
+      {
+        "en": "forest reservation",
+        "as": "অৰণ্য সংৰক্ষণ"
+      },
+      {
+        "en": "railway expansion",
+        "as": "ৰেল বিস্তাৰ"
+      },
+      {
+        "en": "detection and deportation of foreigners and safeguards for Assamese",
+        "as": "বিদেশী চিনাক্তকৰণ আৰু বহিষ্কাৰ তথা অসমীয়াৰ বাবে সুৰক্ষা"
+      },
+      {
+        "en": "tea export quotas",
+        "as": "চাহ ৰপ্তানি কোটা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Accord addressed foreigner detection and cultural safeguards, which is why it is central. Tea, forests and railways were not its subject.",
+      "as": "চুক্তিয়ে বিদেশী চিনাক্তকৰণ আৰু সাংস্কৃতিক সুৰক্ষা সম্বোধন কৰিছিল, সেয়ে ই কেন্দ্ৰীয়। চাহ, অৰণ্য আৰু ৰেল তাৰ বিষয় নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-618",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Movement of 1979 to 1985 was led mainly by",
+      "as": "১৯৭৯ৰপৰা ১৯৮৫লৈ অসম আন্দোলনৰ নেতৃত্ব মূলতঃ কাৰ আছিল"
+    },
+    "options": [
+      {
+        "en": "the railway board",
+        "as": "ৰেল ব'ৰ্ডৰ"
+      },
+      {
+        "en": "the All Assam Students Union",
+        "as": "সৰ্ব অসম ছাত্ৰ সন্থাৰ"
+      },
+      {
+        "en": "the tea planters' association",
+        "as": "চাহ বাগিচা মালিক সংস্থাৰ"
+      },
+      {
+        "en": "the forest department",
+        "as": "বন বিভাগৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "AASU led the agitation, which is why the union is named. Planters, forests and railways were not its leaders.",
+      "as": "সৰ্ব অসম ছাত্ৰ সন্থাই আন্দোলনৰ নেতৃত্ব দিছিল, সেয়ে সন্থাৰ নাম দিয়া হয়। বাগিচা মালিক, বন আৰু ৰেল তাৰ নেতা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-619",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Movement's core demand was",
+      "as": "অসম আন্দোলনৰ মূল দাবী আছিল"
+    },
+    "options": [
+      {
+        "en": "detection and removal of illegal migrants from the electoral rolls",
+        "as": "ভোটাৰ তালিকাৰপৰা অবৈধ অনুপ্ৰৱেশকাৰী চিনাক্ত আৰু আঁতৰোৱা"
+      },
+      {
+        "en": "abolition of the tea industry",
+        "as": "চাহ উদ্যোগ বিলুপ্তি"
+      },
+      {
+        "en": "merger with Bengal",
+        "as": "বংগৰ লগত একত্ৰিতকৰণ"
+      },
+      {
+        "en": "restoration of the Ahom monarchy",
+        "as": "আহোম ৰাজতন্ত্ৰ পুনৰ্বাহালি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Electoral roll correction was the demand, which is why the movement began. Abolishing tea, merging with Bengal and restoring the Ahoms are wrong.",
+      "as": "ভোটাৰ তালিকা সংশোধনেই দাবী আছিল, সেয়ে আন্দোলন আৰম্ভ হৈছিল। চাহ বিলুপ্তি, বংগৰ লগত একত্ৰিত আৰু আহোম পুনৰ্বাহালি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-620",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Movement began in 1979 with protests centred on",
+      "as": "১৯৭৯ চনত অসম আন্দোলন আৰম্ভ হৈছিল কাৰ ওপৰত কেন্দ্ৰীভূত প্ৰতিবাদেৰে"
+    },
+    "options": [
+      {
+        "en": "the tea gardens",
+        "as": "চাহ বাগিচা"
+      },
+      {
+        "en": "the forest villages",
+        "as": "অৰণ্য গাঁও"
+      },
+      {
+        "en": "the railway line",
+        "as": "ৰেল পথ"
+      },
+      {
+        "en": "the Mangaldoi by-election and the voters' list",
+        "as": "মঙ্গলদৈ উপনিৰ্বাচন আৰু ভোটাৰ তালিকা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Mangaldoi by-election exposed roll problems, which is why it is the trigger. Gardens, forest villages and railways were not the trigger.",
+      "as": "মঙ্গলদৈ উপনিৰ্বাচনে তালিকাৰ সমস্যা প্ৰকাশ কৰিছিল, সেয়ে ই ট্ৰিগাৰ। বাগিচা, অৰণ্য গাঁও আৰু ৰেল ট্ৰিগাৰ নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-621",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Accord was signed in 1985 between the central government, the state government and",
+      "as": "১৯৮৫ চনত অসম চুক্তি কেন্দ্ৰীয় চৰকাৰ, ৰাজ্য চৰকাৰ আৰু কাৰ মাজত স্বাক্ষৰিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the forest department",
+        "as": "বন বিভাগৰ"
+      },
+      {
+        "en": "the railway board",
+        "as": "ৰেল ব'ৰ্ডৰ"
+      },
+      {
+        "en": "the leaders of the Assam Movement",
+        "as": "অসম আন্দোলনৰ নেতাসকলৰ"
+      },
+      {
+        "en": "the tea planters",
+        "as": "চাহ বাগিচা মালিকসকলৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Movement leaders signed the Accord, which is why they are named. Planters, forests and railways were not parties.",
+      "as": "আন্দোলনৰ নেতাসকলে চুক্তিত স্বাক্ষৰ কৰিছিল, সেয়ে তেওঁলোকৰ নাম দিয়া হয়। বাগিচা মালিক, বন আৰু ৰেল পক্ষ নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-622",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Accord set a cut-off date of",
+      "as": "অসম চুক্তিয়ে কাৰ তাৰিখ নিৰ্ধাৰণ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "1 January 1960",
+        "as": "১ জানুৱাৰী ১৯৬০"
+      },
+      {
+        "en": "25 March 1971",
+        "as": "২৫ মাৰ্চ ১৯৭১"
+      },
+      {
+        "en": "15 August 1947",
+        "as": "১৫ আগষ্ট ১৯৪৭"
+      },
+      {
+        "en": "26 January 1950",
+        "as": "২৬ জানুৱাৰী ১৯৫০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "1971 is the cut-off for citizenship claims under the Accord, which is why the date is central. 1947, 1950 and 1960 are other constitutional dates.",
+      "as": "১৯৭১ চুক্তিৰ অধীনত নাগৰিকত্ব দাবীৰ সীমা তাৰিখ, সেয়ে তাৰিখটো কেন্দ্ৰীয়। ১৯৪৭, ১৯৫০ আৰু ১৯৬০ আন সাংবিধানিক তাৰিখ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-623",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Accord provided that those who came before 1966 would",
+      "as": "অসম চুক্তিয়ে ব্যৱস্থা কৰিছিল যে ১৯৬৬ চনৰ আগতে অহাসকলে"
+    },
+    "options": [
+      {
+        "en": "be treated as regular citizens",
+        "as": "নিয়মিত নাগৰিক হিচাপে গণ্য হ'ব"
+      },
+      {
+        "en": "be deported immediately",
+        "as": "তৎক্ষণাৎ বহিষ্কাৰ হ'ব"
+      },
+      {
+        "en": "lose all rights",
+        "as": "সকলো অধিকাৰ হেৰুৱাব"
+      },
+      {
+        "en": "be sent to Bengal",
+        "as": "বংগলৈ পঠিওৱা হ'ব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pre-1966 entrants were regularised, which is why the clause is cited. Deportation, loss of rights and transfer to Bengal are wrong.",
+      "as": "১৯৬৬ৰ আগৰ প্ৰৱেশকাৰীক নিয়মিত কৰা হৈছিল, সেয়ে ধাৰাটো উদ্ধৃত। বহিষ্কাৰ, অধিকাৰ হানি আৰু বংগলৈ স্থানান্তৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-624",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Accord led to the creation of",
+      "as": "অসম চুক্তিয়ে সৃষ্টি কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "a new state of Assam",
+        "as": "অসমৰ নতুন ৰাজ্য"
+      },
+      {
+        "en": "the state of Meghalaya",
+        "as": "মেঘালয় ৰাজ্য"
+      },
+      {
+        "en": "the state of Nagaland",
+        "as": "নাগালেণ্ড ৰাজ্য"
+      },
+      {
+        "en": "the Autonomous State Demand Committee framework and later autonomy arrangements",
+        "as": "স্বায়ত্ত শাসন দাবী সমিতিৰ আঁচনি আৰু পিছৰ স্বায়ত্তশাসন ব্যৱস্থা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The Accord opened the way to autonomy arrangements, which is why it is linked to them. Assam already existed, and Meghalaya and Nagaland were created earlier.",
+      "as": "চুক্তিয়ে স্বায়ত্তশাসন ব্যৱস্থাৰ পথ মুকলি কৰিছিল, সেয়ে ইয়াৰ লগত জড়িত। অসম ইতিমধ্যে আছিল, আৰু মেঘালয় তথা নাগালেণ্ড আগতে সৃষ্টি হৈছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-625",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Bodoland agitation after the Assam Accord led to the creation of",
+      "as": "অসম চুক্তিৰ পিছত বড়োলেণ্ড আন্দোলনে সৃষ্টি কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "the state of Meghalaya",
+        "as": "মেঘালয় ৰাজ্য"
+      },
+      {
+        "en": "the state of Mizoram",
+        "as": "মিজোৰাম ৰাজ্য"
+      },
+      {
+        "en": "the Bodoland Territorial Council",
+        "as": "বড়োলেণ্ড আঞ্চলিক পৰিষদ"
+      },
+      {
+        "en": "a separate state of Bodoland",
+        "as": "বড়োলেণ্ডৰ পৃথক ৰাজ্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The council was created, which is why the arrangement is described as autonomy rather than statehood. A separate state, Meghalaya and Mizoram are different.",
+      "as": "পৰিষদ সৃষ্টি হৈছিল, সেয়ে ব্যৱস্থাক ৰাজ্যত্বৰ সলনি স্বায়ত্তশাসন বুলি বৰ্ণনা কৰা হয়। পৃথক ৰাজ্য, মেঘালয় আৰু মিজোৰাম বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-626",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Karbi Anglong district of Assam has a special administrative arrangement known as the",
+      "as": "অসমৰ কাৰ্বি আংলং জিলাৰ বিশেষ প্ৰশাসনিক ব্যৱস্থাক জনা যায়"
+    },
+    "options": [
+      {
+        "en": "North Cachar Hills Board",
+        "as": "উত্তৰ কাছাৰ পাহাৰ ব'ৰ্ড"
+      },
+      {
+        "en": "Karbi Anglong Autonomous Council",
+        "as": "কাৰ্বি আংলং স্বায়ত্তশাসিত পৰিষদ"
+      },
+      {
+        "en": "Bodoland Territorial Council",
+        "as": "বড়োলেণ্ড আঞ্চলিক পৰিষদ"
+      },
+      {
+        "en": "Dima Hasao Autonomous Council",
+        "as": "ডিমা হাছাও স্বায়ত্তশাসিত পৰিষদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Karbi Anglong council governs that district, which is why the name matters. Bodoland and Dima Hasao are separate arrangements.",
+      "as": "কাৰ্বি আংলং পৰিষদে সেই জিলা শাসন কৰে, সেয়ে নামটো গুৰুত্বপূৰ্ণ। বড়োলেণ্ড আৰু ডিমা হাছাও পৃথক ব্যৱস্থা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-627",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Dima Hasao district of Assam was formerly known as",
+      "as": "অসমৰ ডিমা হাছাও জিলাক আগতে জনা গৈছিল"
+    },
+    "options": [
+      {
+        "en": "North Cachar Hills",
+        "as": "উত্তৰ কাছাৰ পাহাৰ"
+      },
+      {
+        "en": "Karbi Anglong",
+        "as": "কাৰ্বি আংলং"
+      },
+      {
+        "en": "Bodoland",
+        "as": "বড়োলেণ্ড"
+      },
+      {
+        "en": "Mikir Hills",
+        "as": "মিকিৰ পাহাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The district was renamed from North Cachar Hills, which is why the older name appears. Karbi Anglong, Bodoland and Mikir Hills are different or older names for other areas.",
+      "as": "জিলাখনৰ নাম উত্তৰ কাছাৰ পাহাৰৰপৰা সলনি কৰা হৈছিল, সেয়ে পুৰণি নাম ওলায়। কাৰ্বি আংলং, বড়োলেণ্ড আৰু মিকিৰ পাহাৰ আন অঞ্চলৰ বেলেগ বা পুৰণি নাম।"
+    }
+  },
+  {
+    "id": "assam-history-extra-628",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Mikir Hills, now part of Karbi Anglong, were renamed because",
+      "as": "মিকিৰ পাহাৰ, এতিয়া কাৰ্বি আংলঙৰ অংশ, নাম সলনি কৰাৰ কাৰণ"
+    },
+    "options": [
+      {
+        "en": "the British ordered it in 1826",
+        "as": "ব্ৰিটিছে ১৮২৬ চনত আদেশ দিছিল"
+      },
+      {
+        "en": "the area became a state",
+        "as": "অঞ্চলটো ৰাজ্য হৈছিল"
+      },
+      {
+        "en": "the tea gardens demanded it",
+        "as": "চাহ বাগিচাই দাবী কৰিছিল"
+      },
+      {
+        "en": "the older name was considered a misnomer for the Karbi people",
+        "as": "পুৰণি নাম কাৰ্বি লোকৰ বাবে ভুল নাম বুলি গণ্য হৈছিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The change reflected the community's own name, which is why the renaming happened. British orders, statehood and tea gardens are wrong.",
+      "as": "পৰিৱৰ্তনে সম্প্ৰদায়ৰ নিজা নাম প্ৰতিফলিত কৰিছিল, সেয়ে নাম সলনি হৈছিল। ব্ৰিটিছ আদেশ, ৰাজ্যত্ব আৰু চাহ বাগিচা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-629",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Reorganisation Act of 1969 dealt with",
+      "as": "১৯৬৯ চনৰ অসম পুনৰ্গঠন আইনে কাৰ লগত সম্পৰ্ক ৰাখিছিল"
+    },
+    "options": [
+      {
+        "en": "the creation of Mizoram",
+        "as": "মিজোৰাম সৃষ্টি"
+      },
+      {
+        "en": "the partition of Bengal",
+        "as": "বংগ বিভাজন"
+      },
+      {
+        "en": "the creation of Meghalaya as an autonomous state within Assam",
+        "as": "অসমৰ ভিতৰত স্বায়ত্তশাসিত ৰাজ্য হিচাপে মেঘালয় সৃষ্টি"
+      },
+      {
+        "en": "the creation of Nagaland",
+        "as": "নাগালেণ্ড সৃষ্টি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Meghalaya began as an autonomous state within Assam, which is why 1969 matters. Nagaland, Mizoram and the Bengal partition are different events.",
+      "as": "মেঘালয় অসমৰ ভিতৰত স্বায়ত্তশাসিত ৰাজ্য হিচাপে আৰম্ভ হৈছিল, সেয়ে ১৯৬৯ গুৰুত্বপূৰ্ণ। নাগালেণ্ড, মিজোৰাম আৰু বংগ বিভাজন বেলেগ ঘটনা।"
+    }
+  },
+  {
+    "id": "assam-history-extra-630",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "Meghalaya became a full state in",
+      "as": "মেঘালয় পূৰ্ণ ৰাজ্য হৈছিল"
+    },
+    "options": [
+      {
+        "en": "1987",
+        "as": "১৯৮৭"
+      },
+      {
+        "en": "1972",
+        "as": "১৯৭২"
+      },
+      {
+        "en": "1960",
+        "as": "১৯৬০"
+      },
+      {
+        "en": "1963",
+        "as": "১৯৬৩"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Statehood came in 1972, which is why the date is cited. 1960, 1963 and 1987 belong to other changes.",
+      "as": "১৯৭২ চনত ৰাজ্যত্ব আহিছিল, সেয়ে তাৰিখ উদ্ধৃত। ১৯৬০, ১৯৬৩ আৰু ১৯৮৭ আন পৰিৱৰ্তনৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-631",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "Mizoram became a full state in",
+      "as": "মিজোৰাম পূৰ্ণ ৰাজ্য হৈছিল"
+    },
+    "options": [
+      {
+        "en": "1987",
+        "as": "১৯৮৭"
+      },
+      {
+        "en": "1972",
+        "as": "১৯৭২"
+      },
+      {
+        "en": "1963",
+        "as": "১৯৬৩"
+      },
+      {
+        "en": "1960",
+        "as": "১৯৬০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mizoram reached statehood in 1987, which is why the date is used. 1972, 1963 and 1960 belong to other arrangements.",
+      "as": "মিজোৰাম ১৯৮৭ চনত ৰাজ্যত্বত উপনীত হৈছিল, সেয়ে তাৰিখ ব্যৱহৃত। ১৯৭২, ১৯৬৩ আৰু ১৯৬০ আন ব্যৱস্থাৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-632",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "Arunachal Pradesh became a full state in",
+      "as": "অৰুণাচল প্ৰদেশ পূৰ্ণ ৰাজ্য হৈছিল"
+    },
+    "options": [
+      {
+        "en": "1972",
+        "as": "১৯৭২"
+      },
+      {
+        "en": "1960",
+        "as": "১৯৬০"
+      },
+      {
+        "en": "1950",
+        "as": "১৯৫০"
+      },
+      {
+        "en": "1987",
+        "as": "১৯৮৭"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Statehood came in 1987, which is why the year is cited. 1972 was union territory status, and 1960 and 1950 are other dates.",
+      "as": "১৯৮৭ চনত ৰাজ্যত্ব আহিছিল, সেয়ে বছৰ উদ্ধৃত। ১৯৭২ কেন্দ্ৰশাসিত অঞ্চলৰ মৰ্যাদা, আৰু ১৯৬০ তথা ১৯৫০ আন তাৰিখ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-633",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The North East Frontier Agency was renamed Arunachal Pradesh in",
+      "as": "উত্তৰ-পূব সীমান্ত এজেন্সীৰ নাম অৰুণাচল প্ৰদেশ ৰখা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "1987",
+        "as": "১৯৮৭"
+      },
+      {
+        "en": "1947",
+        "as": "১৯৪৭"
+      },
+      {
+        "en": "1972",
+        "as": "১৯৭২"
+      },
+      {
+        "en": "1960",
+        "as": "১৯৬০"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The renaming came with union territory status in 1972, which is why the year matters. 1960, 1987 and 1947 are other points.",
+      "as": "১৯৭২ চনত কেন্দ্ৰশাসিত অঞ্চলৰ মৰ্যাদাৰ লগত নাম সলনি হৈছিল, সেয়ে বছৰটো গুৰুত্বপূৰ্ণ। ১৯৬০, ১৯৮৭ আৰু ১৯৪৭ আন বিন্দু।"
+    }
+  },
+  {
+    "id": "assam-history-extra-634",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "Which year saw Nagaland carved out of Assam as a full state rather than a union territory?",
+      "as": "কোন বছৰত নাগালেণ্ডক কেন্দ্ৰশাসিত অঞ্চলৰ সলনি পূৰ্ণ ৰাজ্য হিচাপে অসমৰপৰা পৃথক কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "1950",
+        "as": "১৯৫০"
+      },
+      {
+        "en": "1963",
+        "as": "১৯৬৩"
+      },
+      {
+        "en": "1972",
+        "as": "১৯৭২"
+      },
+      {
+        "en": "1987",
+        "as": "১৯৮৭"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Nagaland became a state in 1963, which is why the date is used. 1972, 1987 and 1950 belong to other changes.",
+      "as": "নাগালেণ্ড ১৯৬৩ চনত ৰাজ্য হৈছিল, সেয়ে তাৰিখ ব্যৱহৃত। ১৯৭২, ১৯৮৭ আৰু ১৯৫০ আন পৰিৱৰ্তনৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-635",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state capital moved from Shillong to Dispur in",
+      "as": "অসমৰ ৰাজধানী শ্বিলঙৰপৰা দিছপুৰলৈ স্থানান্তৰিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "1973",
+        "as": "১৯৭৩"
+      },
+      {
+        "en": "1960",
+        "as": "১৯৬০"
+      },
+      {
+        "en": "1985",
+        "as": "১৯৮৫"
+      },
+      {
+        "en": "1947",
+        "as": "১৯৪৭"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The shift followed Meghalaya's statehood, which is why 1973 is used. 1960, 1985 and 1947 are other dates.",
+      "as": "মেঘালয়ৰ ৰাজ্যত্বৰ পিছত স্থানান্তৰ ঘটিছিল, সেয়ে ১৯৭৩ ব্যৱহৃত। ১৯৬০, ১৯৮৫ আৰু ১৯৪৭ আন তাৰিখ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-636",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Legislative Assembly is located at",
+      "as": "অসম বিধানসভা অৱস্থিত"
+    },
+    "options": [
+      {
+        "en": "Shillong",
+        "as": "শ্বিলঙত"
+      },
+      {
+        "en": "Guwahati city centre",
+        "as": "গুৱাহাটী চহৰ কেন্দ্ৰত"
+      },
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাটত"
+      },
+      {
+        "en": "Dispur",
+        "as": "দিছপুৰত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Dispur houses the assembly, which is why it is the capital. Shillong was the earlier capital, and Guwahati and Jorhat are other cities.",
+      "as": "দিছপুৰত বিধানসভা আছে, সেয়ে ই ৰাজধানী। শ্বিলং আগৰ ৰাজধানী, আৰু গুৱাহাটী তথা যোৰহাট আন চহৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-637",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Gauhati High Court was established in",
+      "as": "গুৱাহাটী উচ্চ ন্যায়ালয় স্থাপিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "1960",
+        "as": "১৯৬০"
+      },
+      {
+        "en": "1972",
+        "as": "১৯৭২"
+      },
+      {
+        "en": "1948",
+        "as": "১৯৪৮"
+      },
+      {
+        "en": "1826",
+        "as": "১৮২৬"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The court was set up soon after independence, which is why 1948 is used. 1826, 1960 and 1972 belong to other changes.",
+      "as": "স্বাধীনতাৰ কিছু পিছত ন্যায়ালয় স্থাপিত হৈছিল, সেয়ে ১৯৪৮ ব্যৱহৃত। ১৮২৬, ১৯৬০ আৰু ১৯৭২ আন পৰিৱৰ্তনৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-638",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "Gauhati University was established in",
+      "as": "গুৱাহাটী বিশ্ববিদ্যালয় স্থাপিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "1972",
+        "as": "১৯৭২"
+      },
+      {
+        "en": "1948",
+        "as": "১৯৪৮"
+      },
+      {
+        "en": "1920",
+        "as": "১৯২০"
+      },
+      {
+        "en": "1960",
+        "as": "১৯৬০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The university opened in 1948, which is why the year is cited. 1920, 1960 and 1972 are other dates.",
+      "as": "বিশ্ববিদ্যালয় ১৯৪৮ চনত আৰম্ভ হৈছিল, সেয়ে বছৰ উদ্ধৃত। ১৯২০, ১৯৬০ আৰু ১৯৭২ আন তাৰিখ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-639",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "Dibrugarh University was established in",
+      "as": "ডিব্ৰুগড় বিশ্ববিদ্যালয় স্থাপিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "1965",
+        "as": "১৯৬৫"
+      },
+      {
+        "en": "1948",
+        "as": "১৯৪৮"
+      },
+      {
+        "en": "1920",
+        "as": "১৯২০"
+      },
+      {
+        "en": "1987",
+        "as": "১৯৮৭"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The second university in the state opened in 1965, which is why the date matters. 1948 was Gauhati, and 1920 and 1987 are other points.",
+      "as": "ৰাজ্যৰ দ্বিতীয় বিশ্ববিদ্যালয় ১৯৬৫ চনত আৰম্ভ হৈছিল, সেয়ে তাৰিখ গুৰুত্বপূৰ্ণ। ১৯৪৮ গুৱাহাটী, আৰু ১৯২০ তথা ১৯৮৭ আন বিন্দু।"
+    }
+  },
+  {
+    "id": "assam-history-extra-640",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Medical College at Dibrugarh grew out of a hospital founded in the",
+      "as": "ডিব্ৰুগড়ৰ অসম মেডিকেল কলেজ কাৰ চিকিৎসালয়ৰপৰা গঢ় লৈ উঠিছিল"
+    },
+    "options": [
+      {
+        "en": "thirteenth century",
+        "as": "ত্ৰয়োদশ শতিকাত"
+      },
+      {
+        "en": "sixteenth century",
+        "as": "ষোড়শ শতিকাত"
+      },
+      {
+        "en": "twenty first century",
+        "as": "একবিংশ শতিকাত"
+      },
+      {
+        "en": "nineteenth century",
+        "as": "ঊনবিংশ শতিকাত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The institution traces to a colonial era hospital, which is why the nineteenth century is named. The other centuries are far too early or too late.",
+      "as": "প্ৰতিষ্ঠানটো ঔপনিবেশিক যুগৰ চিকিৎসালয়ৰপৰা আহিছে, সেয়ে ঊনবিংশ শতিকাৰ নাম দিয়া হয়। বাকী শতিকা বহু আগৰ বা পিছৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-641",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Civil Service and provincial administration after 1874 were staffed mainly by",
+      "as": "১৮৭৪ চনৰ পিছত অসম অসামৰিক সেৱা আৰু প্ৰাদেশিক প্ৰশাসনত মূলতঃ কাৰ নিয়োগ হৈছিল"
+    },
+    "options": [
+      {
+        "en": "village headmen",
+        "as": "গাঁৱৰ মূৰব্বী"
+      },
+      {
+        "en": "temple priests",
+        "as": "মন্দিৰৰ পুৰোহিত"
+      },
+      {
+        "en": "officers recruited through competitive examinations",
+        "as": "প্ৰতিযোগিতামূলক পৰীক্ষাৰে নিযুক্ত বিষয়া"
+      },
+      {
+        "en": "hereditary Ahom nobles",
+        "as": "বংশানুক্ৰমিক আহোম অভিজাত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Examinations recruited the service, which is why the system is called modern. Hereditary nobles, headmen and priests were not the source.",
+      "as": "পৰীক্ষাই সেৱাত নিয়োগ কৰিছিল, সেয়ে ব্যৱস্থাক আধুনিক বোলা হয়। বংশানুক্ৰমিক অভিজাত, মূৰব্বী আৰু পুৰোহিত উৎস নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-642",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese demand for a separate university was linked to",
+      "as": "পৃথক বিশ্ববিদ্যালয়ৰ অসমীয়া দাবী কাৰ লগত জড়িত আছিল"
+    },
+    "options": [
+      {
+        "en": "oil exploration",
+        "as": "তেল অনুসন্ধানৰ লগত"
+      },
+      {
+        "en": "the wish to promote Assamese language and research",
+        "as": "অসমীয়া ভাষা আৰু গৱেষণা প্ৰসাৰৰ ইচ্ছাৰ লগত"
+      },
+      {
+        "en": "the tea industry's needs",
+        "as": "চাহ উদ্যোগৰ প্ৰয়োজনৰ লগত"
+      },
+      {
+        "en": "railway expansion",
+        "as": "ৰেল বিস্তাৰৰ লগত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Language and research were the aim, which is why the demand arose. Tea, railways and oil are unrelated.",
+      "as": "ভাষা আৰু গৱেষণাই লক্ষ্য আছিল, সেয়ে দাবী উঠিছিল। চাহ, ৰেল আৰু তেল অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-643",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese middle class's main grievance in the colonial period was",
+      "as": "ঔপনিবেশিক যুগত অসমীয়া মধ্যবিত্ত শ্ৰেণীৰ প্ৰধান অসন্তোষ আছিল"
+    },
+    "options": [
+      {
+        "en": "limited access to government posts and education",
+        "as": "চৰকাৰী চাকৰি আৰু শিক্ষাত সীমিত সুযোগ"
+      },
+      {
+        "en": "excessive tea exports",
+        "as": "অতিরিক্ত চাহ ৰপ্তানি"
+      },
+      {
+        "en": "too many railways",
+        "as": "অতি বেছি ৰেল"
+      },
+      {
+        "en": "the absence of forests",
+        "as": "অৰণ্যৰ অভাৱ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Posts and education were the grievance, which is why the Association demanded representation. Exports, railways and forests were not the complaint.",
+      "as": "চাকৰি আৰু শিক্ষাই অসন্তোষ আছিল, সেয়ে এছোচিয়েশ্যনে প্ৰতিনিধিত্ব দাবী কৰিছিল। ৰপ্তানি, ৰেল আৰু অৰণ্য অভিযোগ নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-644",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese press raised the issue of",
+      "as": "অসমীয়া সংবাদমাধ্যমে কাৰ বিষয় উত্থাপন কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "tea export quotas",
+        "as": "চাহ ৰপ্তানি কোটা"
+      },
+      {
+        "en": "forest reservation rules",
+        "as": "অৰণ্য সংৰক্ষণ নিয়ম"
+      },
+      {
+        "en": "railway timetables",
+        "as": "ৰেল সময়সূচী"
+      },
+      {
+        "en": "immigration and its effect on Assamese society",
+        "as": "অনুপ্ৰৱেশ আৰু অসমীয়া সমাজত তাৰ প্ৰভাৱ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Immigration was a major theme, which is why the press raised it. Quotas, forest rules and timetables were secondary.",
+      "as": "অনুপ্ৰৱেশ প্ৰধান বিষয় আছিল, সেয়ে সংবাদমাধ্যমে উত্থাপন কৰিছিল। কোটা, বন নিয়ম আৰু সময়সূচী গৌণ আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-645",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial government's immigration policy in Assam was criticised because it",
+      "as": "অসমত ঔপনিবেশিক চৰকাৰৰ অনুপ্ৰৱেশ নীতিক সমালোচনা কৰা হৈছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "ended agriculture",
+        "as": "কৃষি অন্ত কৰিছিল"
+      },
+      {
+        "en": "stopped all trade",
+        "as": "সকলো বাণিজ্য বন্ধ কৰিছিল"
+      },
+      {
+        "en": "changed the demographic balance of the valley",
+        "as": "উপত্যকাৰ জনসংখ্যা ভাৰসাম্য সলনি কৰিছিল"
+      },
+      {
+        "en": "reduced tea production",
+        "as": "চাহ উৎপাদন হ্ৰাস কৰিছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Demographic change was the criticism, which is why the issue persisted after independence. Reduced tea, ended farming and stopped trade are wrong.",
+      "as": "জনসংখ্যা পৰিৱৰ্তনেই সমালোচনা, সেয়ে স্বাধীনতাৰ পিছতো বিষয়টো ৰৈ গৈছিল। চাহ হ্ৰাস, কৃষি অন্ত আৰু বাণিজ্য বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-646",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The 'Line system' was abolished in Assam in",
+      "as": "অসমত 'লাইন প্ৰথা' বিলুপ্ত কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "1905",
+        "as": "১৯০৫"
+      },
+      {
+        "en": "the late 1940s after independence",
+        "as": "স্বাধীনতাৰ পিছত ১৯৪০ দশকৰ শেষত"
+      },
+      {
+        "en": "1826",
+        "as": "১৮২৬"
+      },
+      {
+        "en": "1874",
+        "as": "১৮৭৪"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The system ended after independence, which is why the 1940s are named. 1826, 1874 and 1905 are earlier dates.",
+      "as": "ব্যৱস্থা স্বাধীনতাৰ পিছত অন্ত হৈছিল, সেয়ে ১৯৪০ দশকৰ নাম দিয়া হয়। ১৮২৬, ১৮৭৪ আৰু ১৯০৫ আগৰ তাৰিখ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-647",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Accord's implementation involved the updating of",
+      "as": "অসম চুক্তিৰ ৰূপায়ণত কাৰ হালনাগাদ জড়িত আছিল"
+    },
+    "options": [
+      {
+        "en": "the national register of citizens in Assam",
+        "as": "অসমত নাগৰিকৰ ৰাষ্ট্ৰীয় পঞ্জী"
+      },
+      {
+        "en": "the tea export register",
+        "as": "চাহ ৰপ্তানি পঞ্জী"
+      },
+      {
+        "en": "the forest land register",
+        "as": "অৰণ্য ভূমি পঞ্জী"
+      },
+      {
+        "en": "the railway timetable",
+        "as": "ৰেল সময়সূচী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Citizenship records were central, which is why the register is named. Tea, forests and railways are unrelated.",
+      "as": "নাগৰিকত্ব ৰেকৰ্ড কেন্দ্ৰীয় আছিল, সেয়ে পঞ্জীৰ নাম দিয়া হয়। চাহ, অৰণ্য আৰু ৰেল অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-648",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Movement's later phase saw divisions over",
+      "as": "অসম আন্দোলনৰ পিছৰ পৰ্যায়ত কাৰ ওপৰত বিভাজন দেখা গৈছিল"
+    },
+    "options": [
+      {
+        "en": "whether to build railways",
+        "as": "ৰেল নিৰ্মাণ কৰিব লাগে নে নাই"
+      },
+      {
+        "en": "whether to grow tea",
+        "as": "চাহ খেতি কৰিব লাগে নে নাই"
+      },
+      {
+        "en": "whether to keep forests",
+        "as": "অৰণ্য ৰাখিব লাগে নে নাই"
+      },
+      {
+        "en": "whether to accept the Accord's terms",
+        "as": "চুক্তিৰ চৰ্ত মানি ল'ব লাগে নে নাই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Accepting the Accord divided the movement, which is why the split is recorded. Railways, tea and forests were not the issue.",
+      "as": "চুক্তি মানি লোৱাটোৱে আন্দোলন বিভক্ত কৰিছিল, সেয়ে বিভাজন লিপিবদ্ধ। ৰেল, চাহ আৰু অৰণ্য বিষয় নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-649",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's economy after independence depended heavily on",
+      "as": "স্বাধীনতাৰ পিছত অসম ৰাজ্যৰ অৰ্থনীতি গুৰুত্বপূৰ্ণভাৱে নিৰ্ভৰ কৰিছিল"
+    },
+    "options": [
+      {
+        "en": "diamond mining",
+        "as": "হীৰা খননৰ ওপৰত"
+      },
+      {
+        "en": "coffee exports",
+        "as": "কফি ৰপ্তানিৰ ওপৰত"
+      },
+      {
+        "en": "tea, oil and timber",
+        "as": "চাহ, তেল আৰু কাঠৰ ওপৰত"
+      },
+      {
+        "en": "steel and shipbuilding",
+        "as": "ইস্পাত আৰু জাহাজ নিৰ্মাণৰ ওপৰত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tea, oil and timber dominated, which is why they are named. Steel, diamonds and coffee are not the base.",
+      "as": "চাহ, তেল আৰু কাঠে প্ৰাধান্য পাইছিল, সেয়ে সেয়া নাম দিয়া হয়। ইস্পাত, হীৰা আৰু কফি ভেটি নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-650",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Numaligarh Refinery in Assam was established mainly to",
+      "as": "অসমৰ নুমলীগড় শোধনাগাৰ মূলতঃ কাৰ বাবে স্থাপিত হৈছিল"
+    },
+    "options": [
+      {
+        "en": "build railway engines",
+        "as": "ৰেল ইঞ্জিন নিৰ্মাণ কৰিবলৈ"
+      },
+      {
+        "en": "process crude oil produced in the state",
+        "as": "ৰাজ্যত উৎপাদিত অশোধিত তেল প্ৰক্ৰিয়াকৰণ কৰিবলৈ"
+      },
+      {
+        "en": "refine imported coffee",
+        "as": "আমদানি কৰা কফি শোধন কৰিবলৈ"
+      },
+      {
+        "en": "produce tea",
+        "as": "চাহ উৎপাদন কৰিবলৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The refinery processes local crude, which is why it is named. Coffee, tea and engines are unrelated.",
+      "as": "শোধনাগাৰে স্থানীয় অশোধিত তেল প্ৰক্ৰিয়াকৰণ কৰে, সেয়ে ইয়াৰ নাম দিয়া হয়। কফি, চাহ আৰু ইঞ্জিন অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-651",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Bongaigaon Refinery and Petrochemicals complex was set up to",
+      "as": "বঙাইগাঁও শোধনাগাৰ আৰু পেট্ৰ'কেমিকেল কমপ্লেক্স স্থাপন কৰা হৈছিল কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "add refining and petrochemical capacity in Assam",
+        "as": "অসমত শোধন আৰু পেট্ৰ'কেমিকেল ক্ষমতা বৃদ্ধি কৰিবলৈ"
+      },
+      {
+        "en": "produce tea",
+        "as": "চাহ উৎপাদন কৰিবলৈ"
+      },
+      {
+        "en": "build ships",
+        "as": "জাহাজ নিৰ্মাণ কৰিবলৈ"
+      },
+      {
+        "en": "mine coal",
+        "as": "কয়লা খনন কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The complex added refining capacity, which is why it is cited. Tea, ships and coal are not its purpose.",
+      "as": "কমপ্লেক্সে শোধন ক্ষমতা বৃদ্ধি কৰিছিল, সেয়ে ইয়াক উদ্ধৃত কৰা হয়। চাহ, জাহাজ আৰু কয়লা তাৰ উদ্দেশ্য নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-652",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Gas Cracker project at Lepetkata was intended to",
+      "as": "লেপেটকাটাত অসম গেছ ক্ৰেকাৰ প্ৰকল্পৰ উদ্দেশ্য আছিল"
+    },
+    "options": [
+      {
+        "en": "produce tea",
+        "as": "চাহ উৎপাদন কৰা"
+      },
+      {
+        "en": "generate nuclear power",
+        "as": "পাৰমাণৱিক শক্তি উৎপাদন কৰা"
+      },
+      {
+        "en": "build aircraft",
+        "as": "বিমান নিৰ্মাণ কৰা"
+      },
+      {
+        "en": "use natural gas for petrochemical production",
+        "as": "পেট্ৰ'কেমিকেল উৎপাদনৰ বাবে প্ৰাকৃতিক গেছ ব্যৱহাৰ কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The project converts gas into petrochemicals, which is why it is named. Tea, nuclear power and aircraft are unrelated.",
+      "as": "প্ৰকল্পই গেছক পেট্ৰ'কেমিকেললৈ ৰূপান্তৰ কৰে, সেয়ে ইয়াৰ নাম দিয়া হয়। চাহ, পাৰমাণৱিক শক্তি আৰু বিমান অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-653",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's principal river transport route after independence remained the",
+      "as": "স্বাধীনতাৰ পিছত অসম ৰাজ্যৰ প্ৰধান নদী পৰিবহণ পথ আছিল"
+    },
+    "options": [
+      {
+        "en": "Godavari",
+        "as": "গোদাবৰী"
+      },
+      {
+        "en": "Narmada",
+        "as": "নৰ্মদা"
+      },
+      {
+        "en": "Brahmaputra",
+        "as": "ব্ৰহ্মপুত্ৰ"
+      },
+      {
+        "en": "Ganga",
+        "as": "গংগা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Brahmaputra carries the state's river traffic, which is why it is named. The others flow elsewhere.",
+      "as": "ব্ৰহ্মপুত্ৰই ৰাজ্যৰ নদী চলাচল কঢ়িয়ায়, সেয়ে ইয়াৰ নাম দিয়া হয়। বাকীবোৰ আন ঠাইৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-654",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's flood problem is mainly due to",
+      "as": "অসম ৰাজ্যৰ বান সমস্যা মূলতঃ কাৰ কাৰণে"
+    },
+    "options": [
+      {
+        "en": "volcanic eruptions",
+        "as": "আগ্নেয়গিৰিৰ উদ্গিৰণ"
+      },
+      {
+        "en": "the Brahmaputra's braided channels and heavy monsoon",
+        "as": "ব্ৰহ্মপুত্ৰৰ শাখা-প্ৰশাখা আৰু ভাৰী বৰ্ষাকাল"
+      },
+      {
+        "en": "melting glaciers in Europe",
+        "as": "ইউৰোপৰ হিমবাহ গলন"
+      },
+      {
+        "en": "tidal waves from the sea",
+        "as": "সাগৰৰ জোৱাৰ ঢৌ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Braided channels and monsoon rain cause flooding, which is why they are named. Europe, tides and volcanoes are wrong.",
+      "as": "শাখা-প্ৰশাখা আৰু বৰ্ষাকালীন বৰষুণে বান ঘটায়, সেয়ে সেয়া নাম দিয়া হয়। ইউৰোপ, জোৱাৰ আৰু আগ্নেয়গিৰি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-655",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's earthquake risk is linked to",
+      "as": "অসম ৰাজ্যৰ ভূমিকম্পৰ বিপদ কাৰ লগত জড়িত"
+    },
+    "options": [
+      {
+        "en": "its location in a seismically active zone",
+        "as": "ভূমিকম্প সক্ৰিয় অঞ্চলত অৱস্থানৰ লগত"
+      },
+      {
+        "en": "its tea gardens",
+        "as": "তাৰ চাহ বাগিচাৰ লগত"
+      },
+      {
+        "en": "its oil refineries",
+        "as": "তাৰ তেল শোধনাগাৰৰ লগত"
+      },
+      {
+        "en": "its railway network",
+        "as": "তাৰ ৰেল জালিকাৰ লগত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Seismic zone location explains the risk, which is why it is cited. Gardens, refineries and railways are not the cause.",
+      "as": "ভূমিকম্প অঞ্চলত অৱস্থানেই বিপদ ব্যাখ্যা কৰে, সেয়ে সেয়া উদ্ধৃত। বাগিচা, শোধনাগাৰ আৰু ৰেল কাৰণ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-656",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's forest cover is important because it",
+      "as": "অসম ৰাজ্যৰ অৰণ্য আৱৰণ গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "produces tea",
+        "as": "চাহ উৎপাদন কৰে"
+      },
+      {
+        "en": "generates nuclear power",
+        "as": "পাৰমাণৱিক শক্তি উৎপাদন কৰে"
+      },
+      {
+        "en": "builds ships",
+        "as": "জাহাজ নিৰ্মাণ কৰে"
+      },
+      {
+        "en": "supports biodiversity and stabilises the flood regime",
+        "as": "জৈৱবৈচিত্ৰ্যক সহায় কৰে আৰু বান ব্যৱস্থা স্থিৰ কৰে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Biodiversity and flood control are the functions, which is why forests matter. Tea, nuclear power and ships are unrelated.",
+      "as": "জৈৱবৈচিত্ৰ্য আৰু বান নিয়ন্ত্ৰণ কাৰ্য, সেয়ে অৰণ্য গুৰুত্বপূৰ্ণ। চাহ, পাৰমাণৱিক শক্তি আৰু জাহাজ অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-657",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Kaziranga National Park is important for Assam because it protects the",
+      "as": "কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান অসমৰ বাবে গুৰুত্বপূৰ্ণ কাৰণ ই কাক সুৰক্ষা দিয়ে"
+    },
+    "options": [
+      {
+        "en": "Asian elephant only",
+        "as": "কেৱল হাতী"
+      },
+      {
+        "en": "snow leopard",
+        "as": "হিম চিতা"
+      },
+      {
+        "en": "one horned rhinoceros",
+        "as": "এশিঙীয়া গঁড়"
+      },
+      {
+        "en": "Bengal tiger only",
+        "as": "কেৱল বাঘ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Kaziranga is famous for the rhino, which is why it is a world heritage site. Tiger, elephant and snow leopard are present or elsewhere but not the identity of the park.",
+      "as": "কাজিৰঙা গঁড়ৰ বাবে বিখ্যাত, সেয়ে ই বিশ্ব ঐতিহ্য স্থান। বাঘ, হাতী আৰু হিম চিতা তাত আছে বা আন ঠাইত, কিন্তু উদ্যানৰ পৰিচয় নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-658",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Manas National Park is significant because it is",
+      "as": "মানস ৰাষ্ট্ৰীয় উদ্যান গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "a railway junction",
+        "as": "ৰেল সংযোগস্থল"
+      },
+      {
+        "en": "a tiger reserve and a world heritage site",
+        "as": "বাঘ সংৰক্ষণ আৰু বিশ্ব ঐতিহ্য স্থান"
+      },
+      {
+        "en": "a tea garden",
+        "as": "চাহ বাগিচা"
+      },
+      {
+        "en": "an oil field",
+        "as": "তেলক্ষেত্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Manas is a tiger reserve and heritage site, which is why it is named. Tea, oil and railways are different.",
+      "as": "মানস বাঘ সংৰক্ষণ আৰু ঐতিহ্য স্থান, সেয়ে ইয়াৰ নাম দিয়া হয়। চাহ, তেল আৰু ৰেল বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-659",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Pobitora Wildlife Sanctuary is known for its",
+      "as": "পবিতৰা বন্যপ্ৰাণী অভয়াৰণ্য কাৰ বাবে জনাজাত"
+    },
+    "options": [
+      {
+        "en": "high density of rhinoceros",
+        "as": "গঁড়ৰ উচ্চ ঘনত্বৰ বাবে"
+      },
+      {
+        "en": "tiger population",
+        "as": "বাঘৰ সংখ্যাৰ বাবে"
+      },
+      {
+        "en": "elephant corridors",
+        "as": "হাতী পথৰ বাবে"
+      },
+      {
+        "en": "crocodile farm",
+        "as": "কুমিৰ খেতিৰ বাবে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pobitora has a dense rhino population, which is why it is cited. Tiger, elephant and crocodiles are not its identity.",
+      "as": "পবিতৰাত গঁড়ৰ ঘনত্ব বেছি, সেয়ে ইয়াক উদ্ধৃত কৰা হয়। বাঘ, হাতী আৰু কুমিৰ তাৰ পৰিচয় নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-660",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Deepor Beel near Guwahati is important because it is",
+      "as": "গুৱাহাটীৰ ওচৰৰ দীপৰ বিল গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "a tea garden",
+        "as": "এখন চাহ বাগিচা"
+      },
+      {
+        "en": "an oil field",
+        "as": "এখন তেলক্ষেত্ৰ"
+      },
+      {
+        "en": "a railway yard",
+        "as": "এখন ৰেল চোতাল"
+      },
+      {
+        "en": "a Ramsar wetland",
+        "as": "এখন ৰামছাৰ জলাশয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Deepor Beel is a Ramsar site, which is why it is protected. Tea, oil and railways are different.",
+      "as": "দীপৰ বিল ৰামছাৰ স্থান, সেয়ে সেয়া সুৰক্ষিত। চাহ, তেল আৰু ৰেল বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-661",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main tea research institution is located at",
+      "as": "অসম ৰাজ্যৰ প্ৰধান চাহ গৱেষণা প্ৰতিষ্ঠান অৱস্থিত"
+    },
+    "options": [
+      {
+        "en": "Lumding",
+        "as": "লামডিঙত"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰত"
+      },
+      {
+        "en": "Toklai near Jorhat",
+        "as": "যোৰহাটৰ ওচৰৰ টোকলাইত"
+      },
+      {
+        "en": "Digboi",
+        "as": "ডিগবৈত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Toklai hosts tea research, which is why it is named. Digboi, Lumding and Silchar are associated with oil, railways and the Barak valley.",
+      "as": "টোকলাইত চাহ গৱেষণা হয়, সেয়ে ইয়াৰ নাম দিয়া হয়। ডিগবৈ, লামডিং আৰু শিলচৰ তেল, ৰেল আৰু বৰাক উপত্যকাৰ লগত জড়িত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-662",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's silk industry is associated mainly with",
+      "as": "অসম ৰাজ্যৰ পাট উদ্যোগ মূলতঃ কাৰ লগত জড়িত"
+    },
+    "options": [
+      {
+        "en": "synthetic fibre",
+        "as": "কৃত্ৰিম আঁহ"
+      },
+      {
+        "en": "muga and eri silk",
+        "as": "মুগা আৰু এৰী পাট"
+      },
+      {
+        "en": "mulberry silk only",
+        "as": "কেৱল মালবেৰী পাট"
+      },
+      {
+        "en": "tasar silk only",
+        "as": "কেৱল তছৰ পাট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Muga and eri are the state's specialities, which is why they are named. Mulberry, tasar and synthetics are different.",
+      "as": "মুগা আৰু এৰী ৰাজ্যৰ বিশেষত্ব, সেয়ে সেয়া নাম দিয়া হয়। মালবেৰী, তছৰ আৰু কৃত্ৰিম বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-663",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's traditional bell metal and brass craft is centred at",
+      "as": "অসম ৰাজ্যৰ পৰম্পৰাগত কাঁহ আৰু পিতল শিল্প কেন্দ্ৰীভূত"
+    },
+    "options": [
+      {
+        "en": "Sarthebari",
+        "as": "সৰ্থেবাৰীত"
+      },
+      {
+        "en": "Digboi",
+        "as": "ডিগবৈত"
+      },
+      {
+        "en": "Lumding",
+        "as": "লামডিঙত"
+      },
+      {
+        "en": "Margherita",
+        "as": "মাৰ্ঘেৰিটাত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sarthebari is known for bell metal work, which is why it is named. Digboi, Lumding and Margherita are oil, rail and coal towns.",
+      "as": "সৰ্থেবাৰী কাঁহ শিল্পৰ বাবে জনাজাত, সেয়ে ইয়াৰ নাম দিয়া হয়। ডিগবৈ, লামডিং আৰু মাৰ্ঘেৰিটা তেল, ৰেল আৰু কয়লা চহৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-664",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's traditional mask making craft is associated with",
+      "as": "অসম ৰাজ্যৰ পৰম্পৰাগত মুখা নিৰ্মাণ শিল্প কাৰ লগত জড়িত"
+    },
+    "options": [
+      {
+        "en": "Kamakhya temple",
+        "as": "কামাখ্যা মন্দিৰৰ লগত"
+      },
+      {
+        "en": "Digboi",
+        "as": "ডিগবৈৰ লগত"
+      },
+      {
+        "en": "Lumding",
+        "as": "লামডিঙৰ লগত"
+      },
+      {
+        "en": "Samaguri Satra in Majuli",
+        "as": "মাজুলীৰ সমাগুৰি সত্ৰৰ লগত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Samaguri Satra is famous for masks, which is why it is named. Kamakhya, Digboi and Lumding are unrelated.",
+      "as": "সমাগুৰি সত্ৰ মুখাৰ বাবে বিখ্যাত, সেয়ে ইয়াৰ নাম দিয়া হয়। কামাখ্যা, ডিগবৈ আৰু লামডিং অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-665",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's Majuli island is important because it is",
+      "as": "অসম ৰাজ্যৰ মাজুলী দ্বীপ গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "a tea garden",
+        "as": "এখন চাহ বাগিচা"
+      },
+      {
+        "en": "a railway junction",
+        "as": "এখন ৰেল সংযোগস্থল"
+      },
+      {
+        "en": "a major centre of Vaishnava satras and river island culture",
+        "as": "বৈষ্ণৱ সত্ৰ আৰু নদী দ্বীপ সংস্কৃতিৰ প্ৰধান কেন্দ্ৰ"
+      },
+      {
+        "en": "an oil field",
+        "as": "এখন তেলক্ষেত্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Satras and island culture define Majuli, which is why it is cited. Oil, tea and railways are different.",
+      "as": "সত্ৰ আৰু দ্বীপ সংস্কৃতিয়ে মাজুলীক চিহ্নিত কৰে, সেয়ে ইয়াক উদ্ধৃত কৰা হয়। তেল, চাহ আৰু ৰেল বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-666",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's Bihu festival is celebrated",
+      "as": "অসম ৰাজ্যৰ বিহু উৎসৱ পালন কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "only in the hills",
+        "as": "কেৱল পাহাৰত"
+      },
+      {
+        "en": "three times in the agricultural year",
+        "as": "কৃষি বছৰত তিনিবাৰ"
+      },
+      {
+        "en": "only once a year",
+        "as": "বছৰত কেৱল এবাৰ"
+      },
+      {
+        "en": "only in winter",
+        "as": "কেৱল শীতত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bohag, Kati and Magh Bihu mark the farming cycle, which is why three celebrations are named. Once, winter only and hills only are wrong.",
+      "as": "বহাগ, কাতি আৰু মাঘ বিহুৱে খেতি চক্ৰ চিহ্নিত কৰে, সেয়ে তিনিটা উৎসৱৰ নাম দিয়া হয়। এবাৰ, কেৱল শীত আৰু কেৱল পাহাৰ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-667",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's Ambubachi Mela is held at",
+      "as": "অসম ৰাজ্যৰ অম্বুবাচী মেলা অনুষ্ঠিত হয়"
+    },
+    "options": [
+      {
+        "en": "Kamakhya temple",
+        "as": "কামাখ্যা মন্দিৰত"
+      },
+      {
+        "en": "Hayagriva Madhava temple",
+        "as": "হয়গ্ৰীৱ মাধৱ মন্দিৰত"
+      },
+      {
+        "en": "Umananda temple",
+        "as": "উমানন্দ মন্দিৰত"
+      },
+      {
+        "en": "Shiva Dol",
+        "as": "শিৱ দ'লত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ambubachi is a Kamakhya festival, which is why the temple is named. The others have their own festivals.",
+      "as": "অম্বুবাচী কামাখ্যাৰ উৎসৱ, সেয়ে মন্দিৰৰ নাম দিয়া হয়। বাকীবোৰৰ নিজা উৎসৱ আছে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-668",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's Hayagriva Madhava temple is located at",
+      "as": "অসম ৰাজ্যৰ হয়গ্ৰীৱ মাধৱ মন্দিৰ অৱস্থিত"
+    },
+    "options": [
+      {
+        "en": "Majuli",
+        "as": "মাজুলীত"
+      },
+      {
+        "en": "Sivasagar",
+        "as": "শিৱসাগৰত"
+      },
+      {
+        "en": "Tezpur",
+        "as": "তেজপুৰত"
+      },
+      {
+        "en": "Hajo",
+        "as": "হাজোত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The temple stands at Hajo, which is why the place is named. Majuli, Sivasagar and Tezpur have other sites.",
+      "as": "মন্দিৰ হাজোত, সেয়ে স্থানৰ নাম দিয়া হয়। মাজুলী, শিৱসাগৰ আৰু তেজপুৰত আন স্থান আছে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-669",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's Umananda temple is situated on",
+      "as": "অসম ৰাজ্যৰ উমানন্দ মন্দিৰ অৱস্থিত"
+    },
+    "options": [
+      {
+        "en": "the bank of the Barak",
+        "as": "বৰাকৰ পাৰত"
+      },
+      {
+        "en": "a forest in Karbi Anglong",
+        "as": "কাৰ্বি আংলঙৰ অৰণ্যত"
+      },
+      {
+        "en": "an island in the Brahmaputra at Guwahati",
+        "as": "গুৱাহাটীত ব্ৰহ্মপুত্ৰৰ এখন দ্বীপত"
+      },
+      {
+        "en": "a hill near Tezpur",
+        "as": "তেজপুৰৰ ওচৰৰ পাহাৰত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Umananda sits on a river island, which is why it is called Peacock Island. Tezpur, the Barak and Karbi Anglong are other locations.",
+      "as": "উমানন্দ নদীৰ দ্বীপত, সেয়ে ইয়াক ময়ূৰ দ্বীপ বোলা হয়। তেজপুৰ, বৰাক আৰু কাৰ্বি আংলং আন স্থান।"
+    }
+  },
+  {
+    "id": "assam-history-extra-670",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main archaeological museum and research body is the",
+      "as": "অসম ৰাজ্যৰ প্ৰধান পুৰাতাত্ত্বিক সংগ্ৰহালয় আৰু গৱেষণা সংস্থা"
+    },
+    "options": [
+      {
+        "en": "Geological Survey of India",
+        "as": "ভাৰত ভূতাত্ত্বিক জৰীপ"
+      },
+      {
+        "en": "Directorate of Archaeology, Assam",
+        "as": "অসম পুৰাতত্ত্ব সঞ্চালকালয়"
+      },
+      {
+        "en": "Tea Research Association",
+        "as": "চাহ গৱেষণা সংস্থা"
+      },
+      {
+        "en": "Forest Survey of India",
+        "as": "ভাৰত বন জৰীপ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The state directorate handles archaeology, which is why it is named. Tea, forest and geological bodies are different.",
+      "as": "ৰাজ্য সঞ্চালকালয়ে পুৰাতত্ত্ব চম্ভালে, সেয়ে ইয়াৰ নাম দিয়া হয়। চাহ, বন আৰু ভূতাত্ত্বিক সংস্থা বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-671",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's population after independence grew mainly because of",
+      "as": "স্বাধীনতাৰ পিছত অসম ৰাজ্যৰ জনসংখ্যা মূলতঃ কাৰ বাবে বৃদ্ধি পালে"
+    },
+    "options": [
+      {
+        "en": "natural increase and continued migration",
+        "as": "স্বাভাৱিক বৃদ্ধি আৰু চলি থকা অনুপ্ৰৱেশ"
+      },
+      {
+        "en": "a baby boom policy",
+        "as": "শিশু বিস্ফোৰণ নীতি"
+      },
+      {
+        "en": "the return of tea workers from abroad",
+        "as": "বিদেশৰপৰা চাহ শ্ৰমিকৰ প্ৰত্যাৱৰ্তন"
+      },
+      {
+        "en": "the settlement of refugees from Europe",
+        "as": "ইউৰোপৰ শৰণাৰ্থীৰ বসতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Natural growth and migration explain the rise, which is why both are named. A policy boom, returning workers and European refugees are wrong.",
+      "as": "স্বাভাৱিক বৃদ্ধি আৰু অনুপ্ৰৱেশে বৃদ্ধি ব্যাখ্যা কৰে, সেয়ে দুয়োৰে নাম দিয়া হয়। নীতি বিস্ফোৰণ, শ্ৰমিক প্ৰত্যাৱৰ্তন আৰু ইউৰোপীয় শৰণাৰ্থী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-672",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's literacy rate improved after independence mainly through",
+      "as": "স্বাধীনতাৰ পিছত অসম ৰাজ্যৰ সাক্ষৰতা হাৰ উন্নত হৈছিল মূলতঃ কাৰ জৰিয়তে"
+    },
+    "options": [
+      {
+        "en": "tea garden profits",
+        "as": "চাহ বাগিচাৰ লাভ"
+      },
+      {
+        "en": "oil revenue",
+        "as": "তেল ৰাজহ"
+      },
+      {
+        "en": "railway expansion",
+        "as": "ৰেল বিস্তাৰ"
+      },
+      {
+        "en": "expansion of schools and adult education",
+        "as": "বিদ্যালয় আৰু প্ৰাপ্তবয়স্ক শিক্ষাৰ বিস্তাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Schools and adult education raised literacy, which is why they are named. Profits, oil and railways were not the mechanism.",
+      "as": "বিদ্যালয় আৰু প্ৰাপ্তবয়স্ক শিক্ষাই সাক্ষৰতা বৃদ্ধি কৰিছিল, সেয়ে সেয়া নাম দিয়া হয়। লাভ, তেল আৰু ৰেল কাৰ্যপ্ৰণালী নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-673",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main public health challenge in the twentieth century was",
+      "as": "বিংশ শতিকাত অসম ৰাজ্যৰ প্ৰধান ৰাজহুৱা স্বাস্থ্য প্ৰত্যাহ্বান আছিল"
+    },
+    "options": [
+      {
+        "en": "altitude sickness",
+        "as": "উচ্চতাৰ ৰোগ"
+      },
+      {
+        "en": "volcanic ash inhalation",
+        "as": "আগ্নেয় ছাই শ্বাস"
+      },
+      {
+        "en": "malaria and flood related disease",
+        "as": "মেলেৰিয়া আৰু বান সম্পৰ্কীয় ৰোগ"
+      },
+      {
+        "en": "desert dehydration",
+        "as": "মৰুভূমি নিৰ্জলতা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Malaria and flood related illness dominated, which is why they are named. Desert, altitude and volcanic problems do not fit Assam.",
+      "as": "মেলেৰিয়া আৰু বান সম্পৰ্কীয় ৰোগে প্ৰাধান্য পাইছিল, সেয়ে সেয়া নাম দিয়া হয়। মৰুভূমি, উচ্চতা আৰু আগ্নেয় সমস্যা অসমত নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-674",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's flood control measures have included",
+      "as": "অসম ৰাজ্যৰ বান নিয়ন্ত্ৰণ ব্যৱস্থাত অন্তৰ্ভুক্ত আছে"
+    },
+    "options": [
+      {
+        "en": "volcano monitoring",
+        "as": "আগ্নেয়গিৰি পৰ্যবেক্ষণ"
+      },
+      {
+        "en": "embankments and erosion control works",
+        "as": "বান্ধ আৰু ভাঙন নিয়ন্ত্ৰণৰ কাম"
+      },
+      {
+        "en": "desert irrigation",
+        "as": "মৰুভূমি জলসিঞ্চন"
+      },
+      {
+        "en": "glacier control",
+        "as": "হিমবাহ নিয়ন্ত্ৰণ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Embankments and erosion works are the measures, which is why they are cited. Desert, glacier and volcano measures do not fit.",
+      "as": "বান্ধ আৰু ভাঙন নিয়ন্ত্ৰণৰ কামেই ব্যৱস্থা, সেয়ে সেয়া উদ্ধৃত। মৰুভূমি, হিমবাহ আৰু আগ্নেয় ব্যৱস্থা নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-675",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's Brahmaputra Board was set up to",
+      "as": "অসম ৰাজ্যৰ ব্ৰহ্মপুত্ৰ ব'ৰ্ড গঠন কৰা হৈছিল কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "plan flood control and river management",
+        "as": "বান নিয়ন্ত্ৰণ আৰু নদী ব্যৱস্থাপনা পৰিকল্পনা কৰিবলৈ"
+      },
+      {
+        "en": "regulate tea exports",
+        "as": "চাহ ৰপ্তানি নিয়ন্ত্ৰণ কৰিবলৈ"
+      },
+      {
+        "en": "manage forests",
+        "as": "অৰণ্য পৰিচালনা কৰিবলৈ"
+      },
+      {
+        "en": "build railways",
+        "as": "ৰেল নিৰ্মাণ কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "River management is its mandate, which is why it is named. Tea, forests and railways are other bodies.",
+      "as": "নদী ব্যৱস্থাপনাই ইয়াৰ দায়িত্ব, সেয়ে ইয়াৰ নাম দিয়া হয়। চাহ, অৰণ্য আৰু ৰেল আন সংস্থাৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-676",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main reason for promoting industry after independence was to",
+      "as": "স্বাধীনতাৰ পিছত উদ্যোগ প্ৰসাৰৰ অসম ৰাজ্যৰ প্ৰধান কাৰণ আছিল"
+    },
+    "options": [
+      {
+        "en": "reduce the tea crop",
+        "as": "চাহ শস্য হ্ৰাস কৰা"
+      },
+      {
+        "en": "end agriculture",
+        "as": "কৃষি অন্ত কৰা"
+      },
+      {
+        "en": "stop all migration",
+        "as": "সকলো অনুপ্ৰৱেশ বন্ধ কৰা"
+      },
+      {
+        "en": "create employment and diversify the economy",
+        "as": "নিয়োগ সৃষ্টি আৰু অৰ্থনীতি বৈচিত্ৰ্যময় কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Jobs and diversification were the aims, which is why industry was promoted. Reducing tea, ending farming and stopping migration are wrong.",
+      "as": "নিয়োগ আৰু বৈচিত্ৰ্যই লক্ষ্য আছিল, সেয়ে উদ্যোগ প্ৰসাৰ কৰা হৈছিল। চাহ হ্ৰাস, কৃষি অন্ত আৰু অনুপ্ৰৱেশ বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-677",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's tea industry after independence faced the challenge of",
+      "as": "স্বাধীনতাৰ পিছত অসম ৰাজ্যৰ চাহ উদ্যোগে কাৰ প্ৰত্যাহ্বান সন্মুখীন হৈছিল"
+    },
+    "options": [
+      {
+        "en": "the end of all exports",
+        "as": "সকলো ৰপ্তানিৰ অন্ত"
+      },
+      {
+        "en": "the loss of all gardens",
+        "as": "সকলো বাগিচাৰ ক্ষতি"
+      },
+      {
+        "en": "low productivity and fluctuating prices",
+        "as": "নিম্ন উৎপাদনশীলতা আৰু ওলোটা-পলোটা মূল্য"
+      },
+      {
+        "en": "a ban on tea drinking",
+        "as": "চাহ খোৱাৰ ওপৰত নিষেধ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Productivity and prices were the problems, which is why they are named. A drinking ban, an export end and losing all gardens are wrong.",
+      "as": "উৎপাদনশীলতা আৰু মূল্যই সমস্যা আছিল, সেয়ে সেয়া নাম দিয়া হয়। পান নিষেধ, ৰপ্তানি অন্ত আৰু সকলো বাগিচা হেৰুওৱা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-678",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's small tea growers became important because they",
+      "as": "অসম ৰাজ্যৰ সৰু চাহ খেতিয়ক গুৰুত্বপূৰ্ণ হৈ পৰিছিল কাৰণ তেওঁলোকে"
+    },
+    "options": [
+      {
+        "en": "exported only coffee",
+        "as": "কেৱল কফি ৰপ্তানি কৰিছিল"
+      },
+      {
+        "en": "expanded production outside the large estates",
+        "as": "ডাঙৰ বাগিচাৰ বাহিৰত উৎপাদন বিস্তাৰ কৰিছিল"
+      },
+      {
+        "en": "replaced all large gardens",
+        "as": "সকলো ডাঙৰ বাগিচা প্ৰতিস্থাপিত কৰিছিল"
+      },
+      {
+        "en": "stopped growing tea",
+        "as": "চাহ খেতি বন্ধ কৰিছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Small growers added output, which is why they matter. Replacing all estates, stopping tea and exporting coffee are wrong.",
+      "as": "সৰু খেতিয়কে উৎপাদন যোগ কৰিছিল, সেয়ে তেওঁলোক গুৰুত্বপূৰ্ণ। সকলো বাগিচা প্ৰতিস্থাপন, চাহ বন্ধ আৰু কফি ৰপ্তানি ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-679",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's tourism potential is linked mainly to",
+      "as": "অসম ৰাজ্যৰ পৰ্যটন সম্ভাৱনা মূলতঃ কাৰ লগত জড়িত"
+    },
+    "options": [
+      {
+        "en": "wildlife parks, temples and river cruises",
+        "as": "বন্যপ্ৰাণী উদ্যান, মন্দিৰ আৰু নদী ভ্ৰমণ"
+      },
+      {
+        "en": "desert safaris",
+        "as": "মৰুভূমি ভ্ৰমণ"
+      },
+      {
+        "en": "ski resorts",
+        "as": "স্কি ৰিজ'ৰ্ট"
+      },
+      {
+        "en": "volcano tours",
+        "as": "আগ্নেয়গিৰি ভ্ৰমণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Parks, temples and cruises draw visitors, which is why they are named. Desert, ski and volcano tourism do not fit.",
+      "as": "উদ্যান, মন্দিৰ আৰু নদী ভ্ৰমণে পৰ্যটক আকৰ্ষণ কৰে, সেয়ে সেয়া নাম দিয়া হয়। মৰুভূমি, স্কি আৰু আগ্নেয় পৰ্যটন নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-680",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main challenge in managing its protected areas is",
+      "as": "অসম ৰাজ্যৰ সুৰক্ষিত অঞ্চল পৰিচালনাত প্ৰধান প্ৰত্যাহ্বান"
+    },
+    "options": [
+      {
+        "en": "a shortage of tea",
+        "as": "চাহৰ অভাৱ"
+      },
+      {
+        "en": "too many oil wells",
+        "as": "অতি বেছি তেল কূপ"
+      },
+      {
+        "en": "excess snowfall",
+        "as": "অতিরিক্ত তুষাৰপাত"
+      },
+      {
+        "en": "human wildlife conflict and encroachment",
+        "as": "মানুহ-বন্যপ্ৰাণী সংঘাত আৰু অধিগ্ৰহণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Conflict and encroachment are the challenges, which is why they are cited. Tea shortage, oil wells and snowfall are wrong.",
+      "as": "সংঘাত আৰু অধিগ্ৰহণেই প্ৰত্যাহ্বান, সেয়ে সেয়া উদ্ধৃত। চাহৰ অভাৱ, তেল কূপ আৰু তুষাৰপাত ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-681",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's population policy issues after independence centred on",
+      "as": "স্বাধীনতাৰ পিছত অসম ৰাজ্যৰ জনসংখ্যা নীতিৰ বিষয় কেন্দ্ৰীভূত আছিল"
+    },
+    "options": [
+      {
+        "en": "forest fire control",
+        "as": "অৰণ্য জুই নিয়ন্ত্ৰণত"
+      },
+      {
+        "en": "railway fares",
+        "as": "ৰেল ভাড়াত"
+      },
+      {
+        "en": "migration, citizenship and land rights",
+        "as": "অনুপ্ৰৱেশ, নাগৰিকত্ব আৰু ভূমি অধিকাৰত"
+      },
+      {
+        "en": "tea export quotas",
+        "as": "চাহ ৰপ্তানি কোটাত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Migration, citizenship and land were the issues, which is why they recur. Quotas, fires and fares are secondary.",
+      "as": "অনুপ্ৰৱেশ, নাগৰিকত্ব আৰু ভূমিয়েই বিষয়, সেয়ে সেয়া বাৰম্বাৰ ওলায়। কোটা, জুই আৰু ভাড়া গৌণ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-682",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main source of electricity generation has been",
+      "as": "অসম ৰাজ্যৰ প্ৰধান বিদ্যুৎ উৎপাদন উৎস আছিল"
+    },
+    "options": [
+      {
+        "en": "tidal power",
+        "as": "জোৱাৰ শক্তি"
+      },
+      {
+        "en": "hydro electric and gas based plants",
+        "as": "জলবিদ্যুৎ আৰু গেছ ভিত্তিক কেন্দ্ৰ"
+      },
+      {
+        "en": "nuclear plants only",
+        "as": "কেৱল পাৰমাণৱিক কেন্দ্ৰ"
+      },
+      {
+        "en": "wind farms only",
+        "as": "কেৱল বতাহ খেতি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Hydro and gas plants supply power, which is why they are named. Nuclear, wind and tidal are not the main source.",
+      "as": "জলবিদ্যুৎ আৰু গেছ কেন্দ্ৰই শক্তি যোগায়, সেয়ে সেয়া নাম দিয়া হয়। পাৰমাণৱিক, বতাহ আৰু জোৱাৰ প্ৰধান উৎস নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-683",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's road and rail links to the rest of India pass mainly through",
+      "as": "ভাৰতৰ বাকী অংশলৈ অসম ৰাজ্যৰ পথ আৰু ৰেল সংযোগ মূলতঃ কাৰ মাজেৰে যায়"
+    },
+    "options": [
+      {
+        "en": "the Siliguri corridor in West Bengal",
+        "as": "পশ্চিম বংগৰ শিলিগুৰি কৰিড'ৰৰ মাজেৰে"
+      },
+      {
+        "en": "the Khyber Pass",
+        "as": "খাইবাৰ গিৰিপথৰ মাজেৰে"
+      },
+      {
+        "en": "the Thar desert",
+        "as": "থৰ মৰুভূমিৰ মাজেৰে"
+      },
+      {
+        "en": "Sri Lanka",
+        "as": "শ্ৰীলংকাৰ মাজেৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Siliguri corridor carries the links, which is why it is named. Khyber, Thar and Sri Lanka are wrong.",
+      "as": "শিলিগুৰি কৰিড'ৰে সংযোগ কঢ়িয়ায়, সেয়ে ইয়াৰ নাম দিয়া হয়। খাইবাৰ, থৰ আৰু শ্ৰীলংকা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-684",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main airport is located at",
+      "as": "অসম ৰাজ্যৰ প্ৰধান বিমানবন্দৰ অৱস্থিত"
+    },
+    "options": [
+      {
+        "en": "Digboi",
+        "as": "ডিগবৈত"
+      },
+      {
+        "en": "Sarthebari",
+        "as": "সৰ্থেবাৰীত"
+      },
+      {
+        "en": "Majuli",
+        "as": "মাজুলীত"
+      },
+      {
+        "en": "Borjhar near Guwahati",
+        "as": "গুৱাহাটীৰ ওচৰৰ বৰঝাৰত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Borjhar serves Guwahati, which is why it is named. Digboi, Sarthebari and Majuli are not airport towns.",
+      "as": "বৰঝাৰে গুৱাহাটীলৈ সেৱা দিয়ে, সেয়ে ইয়াৰ নাম দিয়া হয়। ডিগবৈ, সৰ্থেবাৰী আৰু মাজুলী বিমানবন্দৰ চহৰ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-685",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main export after independence remained",
+      "as": "স্বাধীনতাৰ পিছত অসম ৰাজ্যৰ প্ৰধান ৰপ্তানি আছিল"
+    },
+    "options": [
+      {
+        "en": "wheat",
+        "as": "গম"
+      },
+      {
+        "en": "diamonds",
+        "as": "হীৰা"
+      },
+      {
+        "en": "tea",
+        "as": "চাহ"
+      },
+      {
+        "en": "coffee",
+        "as": "কফি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tea dominated exports, which is why it is named. Coffee, wheat and diamonds are not the state's export.",
+      "as": "চাহে ৰপ্তানিত প্ৰাধান্য পাইছিল, সেয়ে ইয়াৰ নাম দিয়া হয়। কফি, গম আৰু হীৰা ৰাজ্যৰ ৰপ্তানি নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-686",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's industrial estate at Rupnagar near Guwahati was developed to",
+      "as": "গুৱাহাটীৰ ওচৰৰ ৰূপনগৰত অসম ৰাজ্যৰ ঔদ্যোগিক চৌহদ বিকশিত কৰা হৈছিল কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "build ships",
+        "as": "জাহাজ নিৰ্মাণ কৰিবলৈ"
+      },
+      {
+        "en": "support small and medium industries",
+        "as": "সৰু আৰু মধ্যম উদ্যোগক সমৰ্থন কৰিবলৈ"
+      },
+      {
+        "en": "grow tea",
+        "as": "চাহ খেতি কৰিবলৈ"
+      },
+      {
+        "en": "mine coal",
+        "as": "কয়লা খনন কৰিবলৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The estate houses smaller units, which is why it is named. Tea, coal and ships are different sectors.",
+      "as": "চৌহদত সৰু একক আছে, সেয়ে ইয়াৰ নাম দিয়া হয়। চাহ, কয়লা আৰু জাহাজ বেলেগ খণ্ড।"
+    }
+  },
+  {
+    "id": "assam-history-extra-687",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main problem with its tea gardens after independence was",
+      "as": "স্বাধীনতাৰ পিছত অসম ৰাজ্যৰ চাহ বাগিচাৰ প্ৰধান সমস্যা আছিল"
+    },
+    "options": [
+      {
+        "en": "old bushes and the need for replanting",
+        "as": "পুৰণি গছ আৰু পুনৰোপণৰ প্ৰয়োজন"
+      },
+      {
+        "en": "too much rainfall",
+        "as": "অতি বেছি বৰষুণ"
+      },
+      {
+        "en": "a lack of workers",
+        "as": "শ্ৰমিকৰ অভাৱ"
+      },
+      {
+        "en": "the absence of roads",
+        "as": "পথৰ অভাব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ageing bushes required replanting, which is why productivity suffered. Rainfall, workers and roads were not the main issue.",
+      "as": "পুৰণি গছৰ বাবে পুনৰোপণ লাগিছিল, সেয়ে উৎপাদনশীলতা কমিছিল। বৰষুণ, শ্ৰমিক আৰু পথ প্ৰধান সমস্যা নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-688",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's cooperative movement in the tea sector aimed to",
+      "as": "চাহ খণ্ডত অসম ৰাজ্যৰ সমবায় আন্দোলনৰ উদ্দেশ্য আছিল"
+    },
+    "options": [
+      {
+        "en": "replace all private gardens",
+        "as": "সকলো ব্যক্তিগত বাগিচা প্ৰতিস্থাপন কৰা"
+      },
+      {
+        "en": "end tea exports",
+        "as": "চাহ ৰপ্তানি অন্ত কৰা"
+      },
+      {
+        "en": "stop tea drinking",
+        "as": "চাহ পান বন্ধ কৰা"
+      },
+      {
+        "en": "help small growers process and market their leaf",
+        "as": "সৰু খেতিয়কক পাত প্ৰক্ৰিয়াকৰণ আৰু বিপণনত সহায় কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Cooperatives helped small growers, which is why they were formed. Replacing gardens, ending exports and stopping consumption are wrong.",
+      "as": "সমবায়ে সৰু খেতিয়কক সহায় কৰিছিল, সেয়ে গঠন কৰা হৈছিল। বাগিচা প্ৰতিস্থাপন, ৰপ্তানি অন্ত আৰু পান বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-689",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main achievement in higher education after independence was",
+      "as": "স্বাধীনতাৰ পিছত উচ্চ শিক্ষাত অসম ৰাজ্যৰ প্ৰধান অৰ্জন আছিল"
+    },
+    "options": [
+      {
+        "en": "the end of literacy programmes",
+        "as": "সাক্ষৰতা কাৰ্যসূচীৰ অন্ত"
+      },
+      {
+        "en": "the closure of all colleges",
+        "as": "সকলো মহাবিদ্যালয় বন্ধ"
+      },
+      {
+        "en": "the expansion of universities and colleges",
+        "as": "বিশ্ববিদ্যালয় আৰু মহাবিদ্যালয়ৰ বিস্তাৰ"
+      },
+      {
+        "en": "the abolition of schools",
+        "as": "বিদ্যালয় বিলুপ্তি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "New institutions widened access, which is why expansion is the achievement. Abolition, ending literacy and closures are wrong.",
+      "as": "নতুন প্ৰতিষ্ঠানে সুযোগ বহলাইছিল, সেয়ে বিস্তাৰেই অৰ্জন। বিলুপ্তি, সাক্ষৰতা অন্ত আৰু বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-690",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main cultural institution for the arts is the",
+      "as": "কলাৰ বাবে অসম ৰাজ্যৰ প্ৰধান সাংস্কৃতিক প্ৰতিষ্ঠান"
+    },
+    "options": [
+      {
+        "en": "Forest Survey of India",
+        "as": "ভাৰত বন জৰীপ"
+      },
+      {
+        "en": "Srimanta Sankaradeva Kalakshetra",
+        "as": "শ্ৰীমন্ত শংকৰদেৱ কলাক্ষেত্ৰ"
+      },
+      {
+        "en": "Tea Research Association",
+        "as": "চাহ গৱেষণা সংস্থা"
+      },
+      {
+        "en": "Brahmaputra Board",
+        "as": "ব্ৰহ্মপুত্ৰ ব'ৰ্ড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Kalakshetra promotes the arts, which is why it is named. Tea, river and forest bodies are different.",
+      "as": "কলাক্ষেত্ৰই কলা প্ৰসাৰ কৰে, সেয়ে ইয়াৰ নাম দিয়া হয়। চাহ, নদী আৰু বন সংস্থা বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-691",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's Srimanta Sankaradeva University of Health Sciences was created to",
+      "as": "শ্ৰীমন্ত শংকৰদেৱ স্বাস্থ্য বিজ্ঞান বিশ্ববিদ্যালয় সৃষ্টি কৰা হৈছিল কাৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "coordinate medical and health education in the state",
+        "as": "ৰাজ্যত চিকিৎসা আৰু স্বাস্থ্য শিক্ষাৰ সমন্বয় কৰিবলৈ"
+      },
+      {
+        "en": "grow tea",
+        "as": "চাহ খেতি কৰিবলৈ"
+      },
+      {
+        "en": "manage forests",
+        "as": "অৰণ্য পৰিচালনা কৰিবলৈ"
+      },
+      {
+        "en": "build railways",
+        "as": "ৰেল নিৰ্মাণ কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Health education coordination is its role, which is why it is named. Tea, forests and railways are different.",
+      "as": "স্বাস্থ্য শিক্ষাৰ সমন্বয়ই ইয়াৰ ভূমিকা, সেয়ে ইয়াৰ নাম দিয়া হয়। চাহ, অৰণ্য আৰু ৰেল বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-692",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main contribution to Indian classical dance from the region is",
+      "as": "অঞ্চলৰপৰা ভাৰতীয় শাস্ত্ৰীয় নৃত্যলৈ অসম ৰাজ্যৰ প্ৰধান অৱদান"
+    },
+    "options": [
+      {
+        "en": "Kathakali",
+        "as": "কথাকলি"
+      },
+      {
+        "en": "Bharatanatyam",
+        "as": "ভৰতনাট্যম"
+      },
+      {
+        "en": "Odissi",
+        "as": "ওড়িছী"
+      },
+      {
+        "en": "Sattriya dance",
+        "as": "সত্ৰীয়া নৃত্য"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sattriya is the state's classical form, which is why it is named. The others belong to other states.",
+      "as": "সত্ৰীয়া ৰাজ্যৰ শাস্ত্ৰীয় ৰূপ, সেয়ে ইয়াৰ নাম দিয়া হয়। বাকীবোৰ আন ৰাজ্যৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-693",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's Borgeet tradition is associated with",
+      "as": "অসম ৰাজ্যৰ বৰগীত পৰম্পৰা কাৰ লগত জড়িত"
+    },
+    "options": [
+      {
+        "en": "tea garden songs",
+        "as": "চাহ বাগিচাৰ গীতৰ লগত"
+      },
+      {
+        "en": "oil field work songs",
+        "as": "তেলক্ষেত্ৰৰ কামৰ গীতৰ লগত"
+      },
+      {
+        "en": "Vaishnava devotional music",
+        "as": "বৈষ্ণৱ ভক্তি সংগীতৰ লগত"
+      },
+      {
+        "en": "tribal folk dance",
+        "as": "জনজাতীয় লোক নৃত্যৰ লগত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Borgeet is Vaishnava devotional song, which is why it is named. Folk dance, garden songs and work songs are different.",
+      "as": "বৰগীত বৈষ্ণৱ ভক্তি গীত, সেয়ে ইয়াৰ নাম দিয়া হয়। লোক নৃত্য, বাগিচাৰ গীত আৰু কামৰ গীত বেলেগ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-694",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's Ojapali performance tradition involves",
+      "as": "অসম ৰাজ্যৰ ওজাপালি পৰিৱেশন পৰম্পৰাত অন্তৰ্ভুক্ত"
+    },
+    "options": [
+      {
+        "en": "only painting",
+        "as": "কেৱল চিত্ৰকলা"
+      },
+      {
+        "en": "narrative singing with dance and instruments",
+        "as": "নৃত্য আৰু বাদ্যযন্ত্ৰসহ আখ্যানমূলক গান"
+      },
+      {
+        "en": "only instrumental music",
+        "as": "কেৱল বাদ্য সংগীত"
+      },
+      {
+        "en": "only sculpture",
+        "as": "কেৱল ভাস্কৰ্য"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ojapali combines song, dance and instruments, which is why it is described that way. Instrumental only, sculpture and painting are wrong.",
+      "as": "ওজাপালিয়ে গান, নৃত্য আৰু বাদ্য মিলায়, সেয়ে এনেদেৰে বৰ্ণনা কৰা হয়। কেৱল বাদ্য, ভাস্কৰ্য আৰু চিত্ৰকলা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-695",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main reason for protecting its wetlands is",
+      "as": "অসম ৰাজ্যৰ জলাশয় সুৰক্ষাৰ প্ৰধান কাৰণ"
+    },
+    "options": [
+      {
+        "en": "flood buffering and biodiversity",
+        "as": "বান প্ৰশমন আৰু জৈৱবৈচিত্ৰ্য"
+      },
+      {
+        "en": "tea production",
+        "as": "চাহ উৎপাদন"
+      },
+      {
+        "en": "oil extraction",
+        "as": "তেল উদ্ধাৰ"
+      },
+      {
+        "en": "railway construction",
+        "as": "ৰেল নিৰ্মাণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Wetlands buffer floods and host life, which is why they are protected. Tea, oil and railways are not the reason.",
+      "as": "জলাশয়ে বান প্ৰশমন কৰি জীৱন ধাৰণ কৰে, সেয়ে সেয়া সুৰক্ষিত। চাহ, তেল আৰু ৰেল কাৰণ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-696",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main challenge in flood management is",
+      "as": "বান ব্যৱস্থাপনাত অসম ৰাজ্যৰ প্ৰধান প্ৰত্যাহ্বান"
+    },
+    "options": [
+      {
+        "en": "a shortage of water",
+        "as": "পানীৰ অভাৱ"
+      },
+      {
+        "en": "excess snowfall",
+        "as": "অতিরিক্ত তুষাৰপাত"
+      },
+      {
+        "en": "volcanic activity",
+        "as": "আগ্নেয় কাৰ্যকলাপ"
+      },
+      {
+        "en": "the river changing course and eroding banks",
+        "as": "নদীৰ গতিপথ পৰিৱৰ্তন আৰু পাৰ ভাঙন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Course changes and erosion are the problem, which is why they are cited. Water shortage, snowfall and volcanoes do not fit.",
+      "as": "গতিপথ পৰিৱৰ্তন আৰু ভাঙনেই সমস্যা, সেয়ে সেয়া উদ্ধৃত। পানীৰ অভাৱ, তুষাৰপাত আৰু আগ্নেয়গিৰি নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-697",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main reason for encouraging horticulture is",
+      "as": "উদ্যান শস্য উৎসাহিত কৰাৰ অসম ৰাজ্যৰ প্ৰধান কাৰণ"
+    },
+    "options": [
+      {
+        "en": "ending rice cultivation",
+        "as": "ধান খেতি অন্ত"
+      },
+      {
+        "en": "stopping all exports",
+        "as": "সকলো ৰপ্তানি বন্ধ"
+      },
+      {
+        "en": "income diversification for small farmers",
+        "as": "সৰু কৃষকৰ বাবে আয় বৈচিত্ৰ্যকৰণ"
+      },
+      {
+        "en": "reducing the tea crop",
+        "as": "চাহ শস্য হ্ৰাস"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Diversification supports small farmers, which is why horticulture is promoted. Reducing tea, ending rice and stopping exports are wrong.",
+      "as": "বৈচিত্ৰ্যকৰণে সৰু কৃষকক সহায় কৰে, সেয়ে উদ্যান শস্য প্ৰসাৰ কৰা হয়। চাহ হ্ৰাস, ধান অন্ত আৰু ৰপ্তানি বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-698",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main reason for promoting sericulture is",
+      "as": "পাট শিল্প প্ৰসাৰৰ অসম ৰাজ্যৰ প্ৰধান কাৰণ"
+    },
+    "options": [
+      {
+        "en": "railway expansion",
+        "as": "ৰেল বিস্তাৰ"
+      },
+      {
+        "en": "rural employment and a traditional craft base",
+        "as": "গ্ৰাম্য নিয়োগ আৰু পৰম্পৰাগত শিল্প ভেটি"
+      },
+      {
+        "en": "tea export growth",
+        "as": "চাহ ৰপ্তানি বৃদ্ধি"
+      },
+      {
+        "en": "oil refining",
+        "as": "তেল শোধন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Jobs and craft tradition explain the push, which is why both are named. Tea, oil and railways are unrelated.",
+      "as": "নিয়োগ আৰু শিল্প পৰম্পৰাই প্ৰসাৰ ব্যাখ্যা কৰে, সেয়ে দুয়োৰে নাম দিয়া হয়। চাহ, তেল আৰু ৰেল অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-699",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main tourist circuit in the Brahmaputra valley includes",
+      "as": "ব্ৰহ্মপুত্ৰ উপত্যকাত অসম ৰাজ্যৰ প্ৰধান পৰ্যটন বৃত্তত অন্তৰ্ভুক্ত"
+    },
+    "options": [
+      {
+        "en": "Guwahati, Kaziranga and Majuli",
+        "as": "গুৱাহাটী, কাজিৰঙা আৰু মাজুলী"
+      },
+      {
+        "en": "Digboi, Lumding and Sarthebari",
+        "as": "ডিগবৈ, লামডিং আৰু সৰ্থেবাৰী"
+      },
+      {
+        "en": "Silchar, Karimganj and Dhubri",
+        "as": "শিলচৰ, কৰিমগঞ্জ আৰু ধুবুৰী"
+      },
+      {
+        "en": "Tinsukia, Margherita and Ledo",
+        "as": "তিনিচুকীয়া, মাৰ্ঘেৰিটা আৰু লেডো"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The classic circuit links those three, which is why they are named. The others are industrial or Barak valley towns.",
+      "as": "ধ্ৰুপদী বৃত্তই সেই তিনিটা জুৰে, সেয়ে সেয়া নাম দিয়া হয়। বাকীবোৰ ঔদ্যোগিক বা বৰাক উপত্যকাৰ চহৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-700",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main environmental concern in the Brahmaputra is",
+      "as": "ব্ৰহ্মপুত্ৰত অসম ৰাজ্যৰ প্ৰধান পৰিৱেশ চিন্তা"
+    },
+    "options": [
+      {
+        "en": "excess snowfall",
+        "as": "অতিরিক্ত তুষাৰপাত"
+      },
+      {
+        "en": "volcanic ash",
+        "as": "আগ্নেয় ছাই"
+      },
+      {
+        "en": "desertification",
+        "as": "মৰুকৰণ"
+      },
+      {
+        "en": "erosion and pollution",
+        "as": "ভাঙন আৰু প্ৰদূষণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Erosion and pollution are the concerns, which is why they are named. Snowfall, ash and desertification do not fit.",
+      "as": "ভাঙন আৰু প্ৰদূষণেই চিন্তা, সেয়ে সেয়া নাম দিয়া হয়। তুষাৰপাত, ছাই আৰু মৰুকৰণ নিমিলে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-701",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main reason for the importance of the Barak valley is",
+      "as": "বৰাক উপত্যকাৰ গুৰুত্বৰ অসম ৰাজ্যৰ প্ৰধান কাৰণ"
+    },
+    "options": [
+      {
+        "en": "its coal mines",
+        "as": "তাৰ কয়লা খনি"
+      },
+      {
+        "en": "its ports",
+        "as": "তাৰ বন্দৰ"
+      },
+      {
+        "en": "its tea, agriculture and distinct linguistic culture",
+        "as": "তাৰ চাহ, কৃষি আৰু পৃথক ভাষিক সংস্কৃতি"
+      },
+      {
+        "en": "its oil wells",
+        "as": "তাৰ তেল কূপ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tea, farming and language define the valley, which is why they are named. Oil, coal and ports are not its identity.",
+      "as": "চাহ, খেতি আৰু ভাষাই উপত্যকাক চিহ্নিত কৰে, সেয়ে সেয়া নাম দিয়া হয়। তেল, কয়লা আৰু বন্দৰ তাৰ পৰিচয় নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-702",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "What gives the hill districts their particular importance in Assam?",
+      "as": "অসমত পাহাৰীয়া জিলাসমূহক তেওঁলোকৰ বিশেষ গুৰুত্ব কিয়ে দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "their ports",
+        "as": "তেওঁলোকৰ বন্দৰ"
+      },
+      {
+        "en": "their distinct communities, forests and biodiversity",
+        "as": "তেওঁলোকৰ পৃথক সম্প্ৰদায়, অৰণ্য আৰু জৈৱবৈচিত্ৰ্য"
+      },
+      {
+        "en": "their oil wells",
+        "as": "তেওঁলোকৰ তেল কূপ"
+      },
+      {
+        "en": "their tea gardens",
+        "as": "তেওঁলোকৰ চাহ বাগিচা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Communities, forests and biodiversity define the hills, which is why they are named. Oil, tea and ports do not.",
+      "as": "সম্প্ৰদায়, অৰণ্য আৰু জৈৱবৈচিত্ৰ্যই পাহাৰক চিহ্নিত কৰে, সেয়ে সেয়া নাম দিয়া হয়। তেল, চাহ আৰু বন্দৰ নহয়।"
+    }
+  },
+  {
+    "id": "assam-history-extra-703",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main achievement in wildlife conservation has been",
+      "as": "বন্যপ্ৰাণী সংৰক্ষণত অসম ৰাজ্যৰ প্ৰধান অৰ্জন আছিল"
+    },
+    "options": [
+      {
+        "en": "the recovery of the rhino population",
+        "as": "গঁড়ৰ সংখ্যা পুনৰুদ্ধাৰ"
+      },
+      {
+        "en": "the elimination of all forests",
+        "as": "সকলো অৰণ্য নাইকিয়া কৰা"
+      },
+      {
+        "en": "the end of all parks",
+        "as": "সকলো উদ্যানৰ অন্ত"
+      },
+      {
+        "en": "the removal of all rivers",
+        "as": "সকলো নদী আঁতৰোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rhino numbers recovered through protection, which is why it is the achievement. Eliminating forests, ending parks and removing rivers are wrong.",
+      "as": "সংৰক্ষণৰ জৰিয়তে গঁড়ৰ সংখ্যা বৃদ্ধি পালে, সেয়ে সেয়াই অৰ্জন। অৰণ্য নাইকিয়া, উদ্যান অন্ত আৰু নদী আঁতৰোৱা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-704",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam state's main lesson from its flood history is the need for",
+      "as": "বান ইতিহাসৰপৰা অসম ৰাজ্যৰ প্ৰধান শিক্ষা হ'ল কাৰ প্ৰয়োজন"
+    },
+    "options": [
+      {
+        "en": "more tea gardens",
+        "as": "অধিক চাহ বাগিচা"
+      },
+      {
+        "en": "more oil wells",
+        "as": "অধিক তেল কূপ"
+      },
+      {
+        "en": "fewer schools",
+        "as": "কম বিদ্যালয়"
+      },
+      {
+        "en": "integrated river basin management",
+        "as": "সমন্বিত নদী অববাহিকা ব্যৱস্থাপনা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Basin management addresses causes, which is why it is the lesson. Gardens, wells and schools do not address flooding.",
+      "as": "অববাহিকা ব্যৱস্থাপনাই কাৰণ সম্বোধন কৰে, সেয়ে সেয়াই শিক্ষা। বাগিচা, কূপ আৰু বিদ্যালয়ে বান সম্বোধন নকৰে।"
+    }
+  },
+  {
+    "id": "assam-history-extra-705",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The first Assamese daily newspaper of the colonial period was",
+      "as": "ঔপনিবেশিক যুগৰ প্ৰথম অসমীয়া দৈনিক বাতৰি কাকত আছিল"
+    },
+    "options": [
+      {
+        "en": "Jonaki",
+        "as": "জোনাকী"
+      },
+      {
+        "en": "Bahi",
+        "as": "বাহী"
+      },
+      {
+        "en": "Dainik Batori",
+        "as": "দৈনিক বাতৰি"
+      },
+      {
+        "en": "Arunodoi",
+        "as": "অৰুণোদই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The first daily appeared in the early twentieth century, which is why it is distinguished from the earlier monthlies. Arunodoi was a monthly paper, and Jonaki and Bahi were literary journals.",
+      "as": "প্ৰথম দৈনিক বিংশ শতিকাৰ আৰম্ভণিতে ওলাইছিল, সেয়ে ইয়াক আগৰ মাহেকীয়াৰপৰা পৃথক কৰা হয়। অৰুণোদই মাহেকীয়া কাকত আছিল, আৰু জোনাকী তথা বাহী সাহিত্য আলোচনী আছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-706",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese periodical 'Assam Bandhu' was important because it",
+      "as": "অসমীয়া আলোচনী 'অসম বন্ধু' গুৰুত্বপূৰ্ণ আছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "dealt only with tea prices",
+        "as": "কেৱল চাহৰ মূল্যৰ বিষয়ে আছিল"
+      },
+      {
+        "en": "carried early Assamese prose and public debate",
+        "as": "প্ৰাৰম্ভিক অসমীয়া গদ্য আৰু ৰাজহুৱা বিতৰ্ক কঢ়িয়াইছিল"
+      },
+      {
+        "en": "was published in London",
+        "as": "লণ্ডনত প্ৰকাশিত হৈছিল"
+      },
+      {
+        "en": "was a government gazette",
+        "as": "চৰকাৰী গেজেট আছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Early prose and debate were its contribution, which is why it is cited. London publication, a gazette role and tea prices are wrong.",
+      "as": "প্ৰাৰম্ভিক গদ্য আৰু বিতৰ্কই তাৰ অৱদান, সেয়ে ইয়াক উদ্ধৃত কৰা হয়। লণ্ডন প্ৰকাশ, গেজেট ভূমিকা আৰু চাহৰ মূল্য ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-707",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese intellectual who wrote on the need for Assamese in schools in the nineteenth century was",
+      "as": "ঊনবিংশ শতিকাত বিদ্যালয়ত অসমীয়াৰ প্ৰয়োজনীয়তাৰ বিষয়ে লিখা অসমীয়া বুদ্ধিজীৱী আছিল"
+    },
+    "options": [
+      {
+        "en": "Anandaram Dhekial Phukan",
+        "as": "আনন্দৰাম ঢেকিয়াল ফুকন"
+      },
+      {
+        "en": "Sukapha",
+        "as": "চুকাফা"
+      },
+      {
+        "en": "Chilarai",
+        "as": "চিলাৰায়"
+      },
+      {
+        "en": "Lachit Borphukan",
+        "as": "লাচিত বৰফুকন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Phukan argued the case in writing, which is why he is named. Sukapha, Chilarai and Lachit belong to the medieval period.",
+      "as": "ফুকনে লিখিতভাৱে যুক্তি দিছিল, সেয়ে তেওঁৰ নাম দিয়া হয়। চুকাফা, চিলাৰায় আৰু লাচিত মধ্যযুগৰ।"
+    }
+  },
+  {
+    "id": "assam-history-extra-708",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial government's decision to make Assamese the court language in 1873 was influenced by",
+      "as": "১৮৭৩ চনত অসমীয়াক আদালতৰ ভাষা কৰাৰ ঔপনিবেশিক সিদ্ধান্ত প্ৰভাৱিত হৈছিল কাৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "a Mughal farman",
+        "as": "মোগল ফৰ্মানৰ দ্বাৰা"
+      },
+      {
+        "en": "a Burmese order",
+        "as": "বাৰ্মী আদেশৰ দ্বাৰা"
+      },
+      {
+        "en": "a Chinese request",
+        "as": "চীনা অনুৰোধৰ দ্বাৰা"
+      },
+      {
+        "en": "petitions from Assamese associations and officials",
+        "as": "অসমীয়া সংস্থা আৰু বিষয়াসকলৰ আবেদনৰ দ্বাৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Organised petitioning produced the change, which is why associations are named. Mughal, Burmese and Chinese actions are wrong.",
+      "as": "সংগঠিত আবেদনে পৰিৱৰ্তন আনিছিল, সেয়ে সংস্থাসমূহৰ নাম দিয়া হয়। মোগল, বাৰ্মী আৰু চীনা কাৰ্য ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-709",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "Why was the Assamese plea for a province of their own answered only in 1874?",
+      "as": "নিজা প্ৰদেশৰ অসমীয়া অনুৰোধ ১৮৭৪ চনতহে কিয় মানি লোৱা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Burma agreed to it",
+        "as": "বাৰ্মাই সন্মতি দিছিল"
+      },
+      {
+        "en": "China supported it",
+        "as": "চীনে সমৰ্থন কৰিছিল"
+      },
+      {
+        "en": "administrative convenience favoured a separate unit",
+        "as": "প্ৰশাসনিক সুবিধাই পৃথক এককৰ পক্ষ লৈছিল"
+      },
+      {
+        "en": "the Ahom king demanded it",
+        "as": "আহোম ৰজাই দাবী কৰিছিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Administrative convenience drove the decision, which is why the separation happened. An Ahom demand, Burmese agreement and Chinese support are wrong.",
+      "as": "প্ৰশাসনিক সুবিধাই সিদ্ধান্ত চালিত কৰিছিল, সেয়ে পৃথকীকৰণ ঘটিছিল। আহোম দাবী, বাৰ্মী সন্মতি আৰু চীনা সমৰ্থন ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-710",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Association's membership in the early twentieth century came mainly from",
+      "as": "বিংশ শতিকাৰ আৰম্ভণিত অসম এছোচিয়েশ্যনৰ সদস্যপদ মূলতঃ কাৰপৰা আহিছিল"
+    },
+    "options": [
+      {
+        "en": "Burmese traders",
+        "as": "বাৰ্মী ব্যৱসায়ীৰপৰা"
+      },
+      {
+        "en": "the English educated professional and landholding class",
+        "as": "ইংৰাজী শিক্ষিত বৃত্তিধাৰী আৰু ভূমি মালিক শ্ৰেণীৰপৰা"
+      },
+      {
+        "en": "tea garden labourers",
+        "as": "চাহ বাগিচা শ্ৰমিকৰপৰা"
+      },
+      {
+        "en": "British officials",
+        "as": "ব্ৰিটিছ বিষয়াসকলৰপৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The educated and landholding class formed it, which is why its politics were moderate. Labourers, officials and traders were not its base.",
+      "as": "শিক্ষিত আৰু ভূমি মালিক শ্ৰেণীয়ে ইয়াক গঠন কৰিছিল, সেয়ে ইয়াৰ ৰাজনীতি নৰম আছিল। শ্ৰমিক, বিষয়া আৰু ব্যৱসায়ী তাৰ ভেটি নাছিল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-711",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial government's education policy in Assam was criticised because it",
+      "as": "অসমত ঔপনিবেশিক চৰকাৰৰ শিক্ষা নীতিক সমালোচনা কৰা হৈছিল কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "produced few schools relative to the population",
+        "as": "জনসংখ্যাৰ তুলনাত কম বিদ্যালয় সৃষ্টি কৰিছিল"
+      },
+      {
+        "en": "banned the Assamese language entirely",
+        "as": "অসমীয়া ভাষা সম্পূৰ্ণ নিষিদ্ধ কৰিছিল"
+      },
+      {
+        "en": "closed all colleges",
+        "as": "সকলো মহাবিদ্যালয় বন্ধ কৰিছিল"
+      },
+      {
+        "en": "stopped all printing",
+        "as": "সকলো ছপাকৰণ বন্ধ কৰিছিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "School provision lagged behind need, which is why the criticism was made. A total language ban, closed colleges and stopped printing are wrong.",
+      "as": "বিদ্যালয়ৰ যোগান প্ৰয়োজনতকৈ পিছ পৰিছিল, সেয়ে সমালোচনা হৈছিল। সম্পূৰ্ণ ভাষা নিষেধ, মহাবিদ্যালয় বন্ধ আৰু ছপাকৰণ বন্ধ ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-712",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese middle class's demand for government employment was linked to",
+      "as": "চৰকাৰী নিয়োগৰ অসমীয়া মধ্যবিত্ত শ্ৰেণীৰ দাবী কাৰ লগত জড়িত আছিল"
+    },
+    "options": [
+      {
+        "en": "tea export quotas",
+        "as": "চাহ ৰপ্তানি কোটাৰ লগত"
+      },
+      {
+        "en": "forest reservation",
+        "as": "অৰণ্য সংৰক্ষণৰ লগত"
+      },
+      {
+        "en": "railway fares",
+        "as": "ৰেল ভাড়াৰ লগত"
+      },
+      {
+        "en": "the fear of being outnumbered in provincial services",
+        "as": "প্ৰাদেশিক সেৱাত সংখ্যাত কম হোৱাৰ ভয়ৰ লগত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Competition for posts drove the demand, which is why representation was sought. Quotas, forests and fares are unrelated.",
+      "as": "পদৰ প্ৰতিদ্বন্দ্বিতাই দাবী চালিত কৰিছিল, সেয়ে প্ৰতিনিধিত্ব বিচৰা হৈছিল। কোটা, অৰণ্য আৰু ভাড়া অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-713",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assam Provincial Congress's base in the 1920s and 1930s included",
+      "as": "১৯২০ আৰু ১৯৩০ দশকত অসম প্ৰাদেশিক কংগ্ৰেছৰ ভেটিত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "only tea planters",
+        "as": "কেৱল চাহ বাগিচা মালিক"
+      },
+      {
+        "en": "only Burmese traders",
+        "as": "কেৱল বাৰ্মী ব্যৱসায়ী"
+      },
+      {
+        "en": "peasants, students and the Assamese middle class",
+        "as": "কৃষক, ছাত্ৰ আৰু অসমীয়া মধ্যবিত্ত শ্ৰেণী"
+      },
+      {
+        "en": "only British officials",
+        "as": "কেৱল ব্ৰিটিছ বিষয়া"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Peasants, students and the middle class formed the base, which is why the party grew. Officials, planters and Burmese traders are wrong.",
+      "as": "কৃষক, ছাত্ৰ আৰু মধ্যবিত্ত শ্ৰেণীয়ে ভেটি গঢ়িছিল, সেয়ে দল বৃদ্ধি পালে। বিষয়া, বাগিচা মালিক আৰু বাৰ্মী ব্যৱসায়ী ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-714",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The Assamese peasantry's participation in the national movement grew because",
+      "as": "অসমীয়া কৃষক সমাজৰ জাতীয় আন্দোলনত অংশগ্ৰহণ বৃদ্ধি হৈছিল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "the railways needed workers",
+        "as": "ৰেলে শ্ৰমিক বিচাৰিছিল"
+      },
+      {
+        "en": "revenue and tenancy grievances matched the movement's demands",
+        "as": "ৰাজহ আৰু ভূমি অধিকাৰৰ অসন্তোষে আন্দোলনৰ দাবীৰ লগত মিলিছিল"
+      },
+      {
+        "en": "the British offered land",
+        "as": "ব্ৰিটিছে ভূমি আগবঢ়াইছিল"
+      },
+      {
+        "en": "the tea companies invited them",
+        "as": "চাহ কোম্পানীয়ে আমন্ত্ৰণ কৰিছিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Agrarian grievances aligned with the movement, which is why peasants joined. British land offers, company invitations and railway demand are wrong.",
+      "as": "কৃষি অসন্তোষ আন্দোলনৰ লগত মিলিছিল, সেয়ে কৃষক যোগ দিছিল। ব্ৰিটিছ ভূমি প্ৰস্তাৱ, কোম্পানী আমন্ত্ৰণ আৰু ৰেলৰ চাহিদা ভুল।"
+    }
+  },
+  {
+    "id": "assam-history-extra-715",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The colonial government's response to the Assamese national movement included",
+      "as": "অসমীয়া জাতীয় আন্দোলনলৈ ঔপনিবেশিক চৰকাৰৰ প্ৰতিক্ৰিয়াত অন্তৰ্ভুক্ত আছিল"
+    },
+    "options": [
+      {
+        "en": "arrests, press curbs and bans on meetings",
+        "as": "গ্ৰেপ্তাৰ, সংবাদ বাধা আৰু সভা নিষেধ"
+      },
+      {
+        "en": "free land grants to activists",
+        "as": "কৰ্মীসকলক বিনামূলীয়া ভূমি দান"
+      },
+      {
+        "en": "funding for Assamese newspapers",
+        "as": "অসমীয়া বাতৰি কাকতলৈ পুঁজি"
+      },
+      {
+        "en": "scholarships for agitators",
+        "as": "আন্দোলনকাৰীক বৃত্তি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Repression was the response, which is why arrests and bans are named. Land grants, newspaper funding and scholarships are contradicted.",
+      "as": "দমনেই প্ৰতিক্ৰিয়া আছিল, সেয়ে গ্ৰেপ্তাৰ আৰু নিষেধৰ নাম দিয়া হয়। ভূমি দান, কাকতলৈ পুঁজি আৰু বৃত্তি খণ্ডিত।"
+    }
+  },
+  {
+    "id": "assam-history-extra-716",
+    "leaf": "assam-history-modern",
+    "q": {
+      "en": "The most significant long term result of the colonial period for Assam was",
+      "as": "অসমৰ বাবে ঔপনিবেশিক যুগৰ আটাইতকৈ গুৰুত্বপূৰ্ণ দীৰ্ঘম্যাদী ফলাফল আছিল"
+    },
+    "options": [
+      {
+        "en": "the restoration of Ahom rule",
+        "as": "আহোম শাসন পুনৰ্বাহালি"
+      },
+      {
+        "en": "the end of tea cultivation",
+        "as": "চাহ খেতিৰ অন্ত"
+      },
+      {
+        "en": "the abolition of all schools",
+        "as": "সকলো বিদ্যালয় বিলুপ্তি"
+      },
+      {
+        "en": "a permanent change in the province's demography and administration",
+        "as": "প্ৰদেশৰ জনসংখ্যা আৰু প্ৰশাসনত স্থায়ী পৰিৱৰ্তন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Demographic and administrative change endured, which is why it is the main result. Ahom restoration, ending tea and abolishing schools are wrong.",
+      "as": "জনসংখ্যা আৰু প্ৰশাসনিক পৰিৱৰ্তন ৰৈ গৈছিল, সেয়ে সেয়াই প্ৰধান ফলাফল। আহোম পুনৰ্বাহালি, চাহ অন্ত আৰু বিদ্যালয় বিলুপ্তি ভুল।"
     }
   }
 ] };
