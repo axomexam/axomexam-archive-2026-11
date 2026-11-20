@@ -388,5 +388,532 @@
       "en": "Optical fibres transmit light signals by repeated total internal reflection along the length of the fibre.",
       "as": "অপটিকেল ফাইবাৰে আঁহৰ দীঘজুৰি বাৰম্বাৰ সম্পূৰ্ণ আভ্যন্তৰীণ প্ৰতিফলনৰ জৰিয়তে পোহৰ সংকেত প্ৰেৰণ কৰে।"
     }
+  },
+  {
+    "id": "physics-321",
+    "leaf": "light-optics",
+    "q": {
+      "en": "The angle of incidence is always equal to the angle of reflection. This is the law of",
+      "as": "আপতন কোণ সদায় প্ৰতিফলন কোণৰ সমান। এইয়া কি সূত্ৰ"
+    },
+    "options": [
+      {
+        "en": "reflection",
+        "as": "প্ৰতিফলনৰ"
+      },
+      {
+        "en": "refraction",
+        "as": "প্ৰতিসৰণৰ"
+      },
+      {
+        "en": "dispersion",
+        "as": "বিচ্ছুৰণৰ"
+      },
+      {
+        "en": "diffraction",
+        "as": "অপসৰণৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The law of reflection fixes both angles measured from the normal. Refraction deals with bending as light enters a new medium.",
+      "as": "প্ৰতিফলন সূত্ৰই অভিলম্বৰপৰা জোখা দুয়ো কোণ নিৰ্ণয় কৰে। প্ৰতিসৰণে নতুন মাধ্যমত সোমাওঁতে বেঁকা হোৱা চম্ভালে।"
+    }
+  },
+  {
+    "id": "physics-322",
+    "leaf": "light-optics",
+    "q": {
+      "en": "A convex lens is also called a",
+      "as": "উত্তল লেন্সক আন কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "converging lens",
+        "as": "অভিসাৰী লেন্স"
+      },
+      {
+        "en": "diverging lens",
+        "as": "অপসাৰী লেন্স"
+      },
+      {
+        "en": "plane mirror",
+        "as": "সমতল দাপোণ"
+      },
+      {
+        "en": "prism",
+        "as": "প্ৰিজম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A convex lens is thicker in the middle and bends parallel rays to a focus, so it converges. A concave lens diverges them.",
+      "as": "উত্তল লেন্স মাজত ডাঙৰ আৰু সমান্তৰাল ৰশ্মি ফ'কাছত বেঁকা কৰে, সেয়ে ই অভিসাৰী। অৱতল লেন্সে সেইবোৰ অপসাৰিত কৰে।"
+    }
+  },
+  {
+    "id": "physics-323",
+    "leaf": "light-optics",
+    "q": {
+      "en": "The image formed by a convex lens when the object is beyond twice the focal length is",
+      "as": "বস্তু ফ'কাছ দৈৰ্ঘ্যৰ দুগুণতকৈ দূৰত থাকিলে উত্তল লেন্সে গঠন কৰা প্ৰতিবিম্ব"
+    },
+    "options": [
+      {
+        "en": "real, inverted and diminished",
+        "as": "সৎ, ওলোটা আৰু সৰু"
+      },
+      {
+        "en": "virtual, erect and magnified",
+        "as": "অসৎ, সোজা আৰু ডাঙৰ"
+      },
+      {
+        "en": "real, erect and magnified",
+        "as": "সৎ, সোজা আৰু ডাঙৰ"
+      },
+      {
+        "en": "virtual, inverted and same size",
+        "as": "অসৎ, ওলোটা আৰু সমান আকাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Beyond twice the focal length a convex lens gives a real image on the other side that is inverted and smaller. Inside the focus the image is virtual and magnified.",
+      "as": "ফ'কাছ দৈৰ্ঘ্যৰ দুগুণতকৈ দূৰত উত্তল লেন্সে আনফালে সৎ, ওলোটা আৰু সৰু প্ৰতিবিম্ব দিয়ে। ফ'কাছৰ ভিতৰত প্ৰতিবিম্ব অসৎ আৰু ডাঙৰ।"
+    }
+  },
+  {
+    "id": "physics-324",
+    "leaf": "light-optics",
+    "q": {
+      "en": "A concave mirror is used as a shaving mirror because it forms",
+      "as": "অৱতল দাপোণ সখা কৰাৰ দাপোণ হিচাপে ব্যৱহৃত হয় কাৰণ ই গঠন কৰে"
+    },
+    "options": [
+      {
+        "en": "a magnified erect image when the face is within the focus",
+        "as": "মুখ ফ'কাছৰ ভিতৰত থাকিলে ডাঙৰ সোজা প্ৰতিবিম্ব"
+      },
+      {
+        "en": "a diminished erect image always",
+        "as": "সদায় সৰু সোজা প্ৰতিবিম্ব"
+      },
+      {
+        "en": "a real inverted image always",
+        "as": "সদায় সৎ ওলোটা প্ৰতিবিম্ব"
+      },
+      {
+        "en": "no image at all",
+        "as": "একেবাৰে প্ৰতিবিম্ব নহয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "With the face closer than the focal length the concave mirror gives a virtual, erect and enlarged image, which suits shaving.",
+      "as": "মুখ ফ'কাছ দৈৰ্ঘ্যতকৈ ওচৰত থাকিলে অৱতল দাপোণে অসৎ, সোজা আৰু ডাঙৰ প্ৰতিবিম্ব দিয়ে, যি সখা কৰাৰ বাবে উপযুক্ত।"
+    }
+  },
+  {
+    "id": "physics-325",
+    "leaf": "light-optics",
+    "q": {
+      "en": "The power of a lens of focal length 25 cm is",
+      "as": "২৫ ছেন্টিমিটাৰ ফ'কাছ দৈৰ্ঘ্যৰ লেন্সৰ ক্ষমতা"
+    },
+    "options": [
+      {
+        "en": "4 dioptre",
+        "as": "৪ ডাইঅ'প্টাৰ"
+      },
+      {
+        "en": "0.25 dioptre",
+        "as": "০.২৫ ডাইঅ'প্টাৰ"
+      },
+      {
+        "en": "25 dioptre",
+        "as": "২৫ ডাইঅ'প্টাৰ"
+      },
+      {
+        "en": "0.04 dioptre",
+        "as": "০.০৪ ডাইঅ'প্টাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Power is one divided by the focal length in metres, so one divided by zero point two five gives four dioptre.",
+      "as": "ক্ষমতা = এক ভাগ মিটাৰত ফ'কাছ দৈৰ্ঘ্য, সেয়ে এক ভাগ ০.২৫ = চাৰি ডাইঅ'প্টাৰ।"
+    }
+  },
+  {
+    "id": "physics-326",
+    "leaf": "light-optics",
+    "q": {
+      "en": "Total internal reflection can occur only when light passes from",
+      "as": "পূৰ্ণ আভ্যন্তৰীণ প্ৰতিফলন কেবল তেতিয়াহে হয় যেতিয়া পোহৰ যায়"
+    },
+    "options": [
+      {
+        "en": "a denser medium to a rarer medium",
+        "as": "ঘনতৰ মাধ্যমৰপৰা লঘুতৰ মাধ্যমলৈ"
+      },
+      {
+        "en": "a rarer medium to a denser medium",
+        "as": "লঘুতৰ মাধ্যমৰপৰা ঘনতৰ মাধ্যমলৈ"
+      },
+      {
+        "en": "vacuum to glass",
+        "as": "শূন্যৰপৰা কাচলৈ"
+      },
+      {
+        "en": "air to water",
+        "as": "বায়ুৰপৰা পানীলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ray must be travelling in the denser medium and strike the boundary beyond the critical angle, otherwise it refracts out.",
+      "as": "ৰশ্মি ঘনতৰ মাধ্যমত চলি সংকট কোণতকৈ বেছি কোণত সীমাত পৰিব লাগে, নহ'লে প্ৰতিসৰিত হৈ ওলাই যায়।"
+    }
+  },
+  {
+    "id": "physics-327",
+    "leaf": "light-optics",
+    "q": {
+      "en": "Optical fibres are used in communication because light inside them undergoes",
+      "as": "যোগাযোগত অপটিকেল ফাইবাৰ ব্যৱহৃত হয় কাৰণ ভিতৰৰ পোহৰে অনুভৱ কৰে"
+    },
+    "options": [
+      {
+        "en": "total internal reflection",
+        "as": "পূৰ্ণ আভ্যন্তৰীণ প্ৰতিফলন"
+      },
+      {
+        "en": "refraction only",
+        "as": "কেৱল প্ৰতিসৰণ"
+      },
+      {
+        "en": "dispersion",
+        "as": "বিচ্ছুৰণ"
+      },
+      {
+        "en": "absorption",
+        "as": "শোষণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The core is denser than the cladding, so light striking the boundary at a shallow angle reflects back inside and travels along the fibre with little loss.",
+      "as": "ক'ৰ ক্লেডিঙতকৈ ঘন, সেয়ে সীমাত কম কোণত পৰা পোহৰ ভিতৰলৈ ঘূৰি আহি কম ক্ষয়ত ফাইবাৰৰে যায়।"
+    }
+  },
+  {
+    "id": "physics-328",
+    "leaf": "light-optics",
+    "q": {
+      "en": "The splitting of white light into its component colours by a prism is called",
+      "as": "প্ৰিজমে বগা পোহৰক উপাদান ৰঙত বিভক্ত কৰাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "dispersion",
+        "as": "বিচ্ছুৰণ"
+      },
+      {
+        "en": "reflection",
+        "as": "প্ৰতিফলন"
+      },
+      {
+        "en": "diffraction",
+        "as": "অপসৰণ"
+      },
+      {
+        "en": "polarisation",
+        "as": "ধ্ৰুৱণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Each colour bends by a different amount, so the colours spread out into a spectrum. Reflection would simply send light back.",
+      "as": "প্ৰতিটো ৰং বেলেগ পৰিমাণে বেঁকা হয়, সেয়ে ৰংবোৰ বাপি বৰ্ণালী হয়। প্ৰতিফলনে পোহৰ কেবল ঘূৰাই পঠিয়ালেহেঁতেন।"
+    }
+  },
+  {
+    "id": "physics-329",
+    "leaf": "light-optics",
+    "q": {
+      "en": "The image formed by a plane mirror is always",
+      "as": "সমতল দাপোণে গঠন কৰা প্ৰতিবিম্ব সদায়"
+    },
+    "options": [
+      {
+        "en": "virtual, erect and laterally inverted",
+        "as": "অসৎ, সোজা আৰু পাৰ্শ্বীয়ভাৱে ওলোটা"
+      },
+      {
+        "en": "real and inverted",
+        "as": "সৎ আৰু ওলোটা"
+      },
+      {
+        "en": "real and magnified",
+        "as": "সৎ আৰু ডাঙৰ"
+      },
+      {
+        "en": "virtual and diminished",
+        "as": "অসৎ আৰু সৰু"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The rays only appear to come from behind the mirror, so the image is virtual, upright, the same size, and left and right are swapped.",
+      "as": "ৰশ্মিবোৰ দাপোণৰ পিছৰপৰা অহা যেন লাগে, সেয়ে প্ৰতিবিম্ব অসৎ, সোজা, একেই আকাৰ, আৰু বাওঁ-সোঁ সলনি হয়।"
+    }
+  },
+  {
+    "id": "physics-330",
+    "leaf": "light-optics",
+    "q": {
+      "en": "The refractive index of a medium is the ratio of the speed of light in vacuum to",
+      "as": "মাধ্যম এটাৰ প্ৰতিসৰণাংক শূন্যত পোহৰৰ গতি আৰু কিৰ অনুপাত"
+    },
+    "options": [
+      {
+        "en": "the speed of light in the medium",
+        "as": "মাধ্যমত পোহৰৰ গতিৰ"
+      },
+      {
+        "en": "the speed of sound in the medium",
+        "as": "মাধ্যমত শব্দৰ গতিৰ"
+      },
+      {
+        "en": "the wavelength in vacuum",
+        "as": "শূন্যত তৰংগ দৈৰ্ঘ্যৰ"
+      },
+      {
+        "en": "the frequency of light",
+        "as": "পোহৰৰ কম্পনাংকৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Light slows in a denser medium, so the refractive index is greater than one. A vacuum has a refractive index of exactly one.",
+      "as": "ঘনতৰ মাধ্যমত পোহৰ লেহেম হয়, সেয়ে প্ৰতিসৰণাংক একৰ ওপৰত। শূন্যৰ প্ৰতিসৰণাংক ঠিক এক।"
+    }
+  },
+  {
+    "id": "physics-331",
+    "leaf": "light-optics",
+    "q": {
+      "en": "A person suffering from myopia cannot see",
+      "as": "মায়'পিয়া ৰোগীয়ে দেখিব নোৱাৰে"
+    },
+    "options": [
+      {
+        "en": "distant objects clearly",
+        "as": "দূৰৰ বস্তু স্পষ্টকৈ"
+      },
+      {
+        "en": "near objects clearly",
+        "as": "ওচৰৰ বস্তু স্পষ্টকৈ"
+      },
+      {
+        "en": "any object at all",
+        "as": "একেবাৰে কোনো বস্তু"
+      },
+      {
+        "en": "colours correctly",
+        "as": "ৰং সঠিকভাৱে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A myopic eye focuses distant rays in front of the retina, so far objects blur while near vision stays fine. A concave lens corrects it.",
+      "as": "মায়'পিক চকুৱে দূৰৰ ৰশ্মি ৰেটিনাৰ আগতে কেন্দ্ৰীভূত কৰে, সেয়ে দূৰৰ বস্তু অস্পষ্ট কিন্তু ওচৰৰ দৃষ্টি ঠিক। অৱতল লেন্সে শুধৰায়।"
+    }
+  },
+  {
+    "id": "physics-332",
+    "leaf": "light-optics",
+    "q": {
+      "en": "The focal length of a plane mirror is",
+      "as": "সমতল দাপোণৰ ফ'কাছ দৈৰ্ঘ্য"
+    },
+    "options": [
+      {
+        "en": "infinite",
+        "as": "অসীম"
+      },
+      {
+        "en": "zero",
+        "as": "শূন্য"
+      },
+      {
+        "en": "equal to the object distance",
+        "as": "বস্তুৰ দূৰত্বৰ সমান"
+      },
+      {
+        "en": "one metre",
+        "as": "এক মিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A plane mirror has an infinite radius of curvature, so its focus lies at infinity and the image is the same size at the same distance behind.",
+      "as": "সমতল দাপোণৰ বক্ৰতা ব্যাসাৰ্ধ অসীম, সেয়ে ফ'কাছ অসীমত আৰু প্ৰতিবিম্ব একেই আকাৰত একেই দূৰত্বত পিছত।"
+    }
+  },
+  {
+    "id": "physics-333",
+    "leaf": "light-optics",
+    "q": {
+      "en": "A rainbow is formed by",
+      "as": "ৰামধেনু গঠিত হয় কিৰে"
+    },
+    "options": [
+      {
+        "en": "dispersion and internal reflection in water droplets",
+        "as": "জলকণাত বিচ্ছুৰণ আৰু আভ্যন্তৰীণ প্ৰতিফলন"
+      },
+      {
+        "en": "reflection from clouds",
+        "as": "মেঘৰপৰা প্ৰতিফলন"
+      },
+      {
+        "en": "refraction in air only",
+        "as": "কেৱল বায়ুত প্ৰতিসৰণ"
+      },
+      {
+        "en": "absorption by dust",
+        "as": "ধূলিয়ে শোষণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sunlight entering a raindrop is refracted, reflected inside and refracted again on leaving, which spreads the colours into an arc.",
+      "as": "বৰষুণৰ টোপালত সোমোৱা সূৰ্যৰ পোহৰ প্ৰতিসৰিত, ভিতৰত প্ৰতিফলিত আৰু ওলাওঁতে পুনৰ প্ৰতিসৰিত হয়, যিয়ে ৰংবোৰ বাপি চাপ গঢ়ে।"
+    }
+  },
+  {
+    "id": "physics-334",
+    "leaf": "light-optics",
+    "q": {
+      "en": "The colour of an object we see is the colour it",
+      "as": "বস্তু এটাৰ যি ৰং আমি দেখোঁ সেয়া সেই ৰং যি ই"
+    },
+    "options": [
+      {
+        "en": "reflects",
+        "as": "প্ৰতিফলিত কৰে"
+      },
+      {
+        "en": "absorbs",
+        "as": "শোষে"
+      },
+      {
+        "en": "emits always",
+        "as": "সদায় নিঃসৰণ কৰে"
+      },
+      {
+        "en": "refracts",
+        "as": "প্ৰতিসৰিত কৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A red object reflects red and absorbs the rest, so only red reaches the eye. In green light it appears black because there is no red to reflect.",
+      "as": "ৰঙা বস্তুৱে ৰঙা প্ৰতিফলিত কৰি বাকীবোৰ শোষে, সেয়ে কেবল ৰঙা চকুলৈ যায়। সেউজীয়া পোহৰত ই ক'লা দেখা যায় কাৰণ প্ৰতিফলিত কৰিবলৈ ৰঙা নাই।"
+    }
+  },
+  {
+    "id": "physics-335",
+    "leaf": "light-optics",
+    "q": {
+      "en": "The focal length of a concave mirror is 10 cm. Its radius of curvature is",
+      "as": "অৱতল দাপোণৰ ফ'কাছ দৈৰ্ঘ্য ১০ ছেন্টিমিটাৰ। তাৰ বক্ৰতা ব্যাসাৰ্ধ"
+    },
+    "options": [
+      {
+        "en": "20 cm",
+        "as": "২০ ছেন্টিমিটাৰ"
+      },
+      {
+        "en": "10 cm",
+        "as": "১০ ছেন্টিমিটাৰ"
+      },
+      {
+        "en": "5 cm",
+        "as": "৫ ছেন্টিমিটাৰ"
+      },
+      {
+        "en": "40 cm",
+        "as": "৪০ ছেন্টিমিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The radius of curvature is twice the focal length for a spherical mirror, so ten gives twenty centimetre. Five would be the half, not double.",
+      "as": "গোলাকাৰ দাপোণৰ বক্ৰতা ব্যাসাৰ্ধ ফ'কাছ দৈৰ্ঘ্যৰ দুগুণ, সেয়ে দহৰপৰা বিছ ছেন্টিমিটাৰ। পাঁচ আধা হ'ল হেতেন, দুগুণ নহয়।"
+    }
+  },
+  {
+    "id": "physics-336",
+    "leaf": "light-optics",
+    "q": {
+      "en": "Which colour of light is deviated the most by a prism?",
+      "as": "প্ৰিজমে কোন ৰঙৰ পোহৰ আটাই বেছি বেঁকা কৰে"
+    },
+    "options": [
+      {
+        "en": "violet",
+        "as": "বেঙুনীয়া"
+      },
+      {
+        "en": "red",
+        "as": "ৰঙা"
+      },
+      {
+        "en": "yellow",
+        "as": "হালধীয়া"
+      },
+      {
+        "en": "green",
+        "as": "সেউজীয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Violet has the shortest wavelength and the highest refractive index, so it bends most. Red bends least.",
+      "as": "বেঙুনীয়াৰ তৰংগ দৈৰ্ঘ্য আটাই কম আৰু প্ৰতিসৰণাংক আটাই বেছি, সেয়ে ই আটাই বেছি বেঁকা হয়। ৰঙা আটাই কম।"
+    }
+  },
+  {
+    "id": "physics-337",
+    "leaf": "light-optics",
+    "q": {
+      "en": "A magnifying glass is a",
+      "as": "বৰ্দ্ধিত কাচ এটা"
+    },
+    "options": [
+      {
+        "en": "convex lens",
+        "as": "উত্তল লেন্স"
+      },
+      {
+        "en": "concave lens",
+        "as": "অৱতল লেন্স"
+      },
+      {
+        "en": "plane mirror",
+        "as": "সমতল দাপোণ"
+      },
+      {
+        "en": "convex mirror",
+        "as": "উত্তল দাপোণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Holding a convex lens closer than its focal length gives an enlarged virtual image, which is how a magnifying glass works.",
+      "as": "উত্তল লেন্স ফ'কাছ দৈৰ্ঘ্যতকৈ ওচৰত ধৰিলে ডাঙৰ অসৎ প্ৰতিবিম্ব দিয়ে, সেয়ে বৰ্দ্ধিত কাচ কাম কৰে।"
+    }
   }
 ]
