@@ -11582,31 +11582,31 @@
     "id": "biology-380",
     "leaf": "diseases-health",
     "q": {
-      "en": "Malaria is transmitted to a human by the bite of",
-      "as": "মেলেৰিয়া মানুহলৈ কেনেকৈ যায়"
+      "en": "Sporozoites are found in the salivary glands of only one of these insects, which is why a mosquito bite can start a malarial infection while a bite from the others cannot. That insect is",
+      "as": "এই পতংগবোৰৰ মাজত কেৱল এটাই লালাগ্ৰন্থিত স্প'ৰ'জ'ইট ধৰি ৰাখে, সেয়ে তাৰ কামোৰে মেলেৰিয়া আৰম্ভ কৰে আনবোৰৰ কামোৰে নকৰে। সেই পতংগটো"
     },
     "options": [
       {
-        "en": "an infected female Anopheles mosquito",
-        "as": "সংক্ৰমিত মাইকী এন'ফিলিছ মশাৰ কামোৰেৰে"
+        "en": "a female Anopheles mosquito",
+        "as": "মাইকী এন'ফিলিছ মশা"
       },
       {
         "en": "a male Culex mosquito",
-        "as": "মতা কিউলেক্স মশাৰ কামোৰেৰে"
+        "as": "মতা কিউলেক্স মশা"
       },
       {
         "en": "a tsetse fly",
-        "as": "ছেটছে মাখিৰে"
+        "as": "ছেটছে মাখি"
       },
       {
         "en": "a sandfly",
-        "as": "বালিমাখিৰে"
+        "as": "বালিমাখি"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "Only the female Anopheles takes a blood meal and can inject sporozoites. Male mosquitoes feed on plant juice and do not transmit, and tsetse flies carry sleeping sickness.",
-      "as": "কেৱল মাইকী এন'ফিলিছে তেজ খায় আৰু স্প'ৰ'জ'ইট সুমুৱাব পাৰে। মতাই উদ্ভিদ ৰস খায় আৰু নিবিয়পায়, আৰু ছেটছে মাখিয়ে নিদ্ৰাৰোগ নিয়ে।"
+      "en": "The parasite completes its sexual cycle only in the gut of Anopheles and then reaches the salivary glands, ready to be injected at the next blood meal. Culex and Aedes do not support that cycle, male mosquitoes take no blood at all, and tsetse flies carry the trypanosome of sleeping sickness.",
+      "as": "পৰজীৱীয়ে কেৱল এন'ফিলিছৰ অন্ত্ৰত যৌন চক্ৰ সম্পূৰ্ণ কৰি লালাগ্ৰন্থিত উপনীত হয়, পৰৱৰ্তী ৰক্তভোজনত সুমুৱাবলৈ সাজু হৈ। কিউলেক্স আৰু এডিছে সেই চক্ৰ পোষকতা নকৰে, মতাই তেজই নাখায়, আৰু ছেটছে মাখিয়ে নিদ্ৰাৰোগৰ ট্ৰাইপেন'ছ'মা কঢ়িয়ায়।"
     }
   },
   {

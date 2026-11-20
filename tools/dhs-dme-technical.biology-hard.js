@@ -267,11 +267,11 @@ add("biology-379",
   "এছিড-ফাষ্ট বেক্টেৰিয়া আৰু ওপৰ অংশৰ গহ্বৰ যক্ষ্মাৰ প্ৰচলিত চিত্ৰ। নিউম'নিয়াই এলভিঅ'লাই স্ৰাৱেৰে ভৰায়, গহ্বৰ নকৰে।");
 
 add("biology-380",
-  "Malaria is transmitted to a human by the bite of",
-  "মেলেৰিয়া মানুহলৈ কেনেকৈ যায়",
-  [["an infected female Anopheles mosquito", "সংক্ৰমিত মাইকী এন'ফিলিছ মশাৰ কামোৰেৰে"], ["a male Culex mosquito", "মতা কিউলেক্স মশাৰ কামোৰেৰে"], ["a tsetse fly", "ছেটছে মাখিৰে"], ["a sandfly", "বালিমাখিৰে"]], 0,
-  "Only the female Anopheles takes a blood meal and can inject sporozoites. Male mosquitoes feed on plant juice and do not transmit, and tsetse flies carry sleeping sickness.",
-  "কেৱল মাইকী এন'ফিলিছে তেজ খায় আৰু স্প'ৰ'জ'ইট সুমুৱাব পাৰে। মতাই উদ্ভিদ ৰস খায় আৰু নিবিয়পায়, আৰু ছেটছে মাখিয়ে নিদ্ৰাৰোগ নিয়ে।");
+  "Sporozoites are found in the salivary glands of only one of these insects, which is why a mosquito bite can start a malarial infection while a bite from the others cannot. That insect is",
+  "এই পতংগবোৰৰ মাজত কেৱল এটাই লালাগ্ৰন্থিত স্প'ৰ'জ'ইট ধৰি ৰাখে, সেয়ে তাৰ কামোৰে মেলেৰিয়া আৰম্ভ কৰে আনবোৰৰ কামোৰে নকৰে। সেই পতংগটো",
+  [["a female Anopheles mosquito", "মাইকী এন'ফিলিছ মশা"], ["a male Culex mosquito", "মতা কিউলেক্স মশা"], ["a tsetse fly", "ছেটছে মাখি"], ["a sandfly", "বালিমাখি"]], 0,
+  "The parasite completes its sexual cycle only in the gut of Anopheles and then reaches the salivary glands, ready to be injected at the next blood meal. Culex and Aedes do not support that cycle, male mosquitoes take no blood at all, and tsetse flies carry the trypanosome of sleeping sickness.",
+  "পৰজীৱীয়ে কেৱল এন'ফিলিছৰ অন্ত্ৰত যৌন চক্ৰ সম্পূৰ্ণ কৰি লালাগ্ৰন্থিত উপনীত হয়, পৰৱৰ্তী ৰক্তভোজনত সুমুৱাবলৈ সাজু হৈ। কিউলেক্স আৰু এডিছে সেই চক্ৰ পোষকতা নকৰে, মতাই তেজই নাখায়, আৰু ছেটছে মাখিয়ে নিদ্ৰাৰোগৰ ট্ৰাইপেন'ছ'মা কঢ়িয়ায়।");
 
 add("biology-381",
   "A child with measles is most at risk of which complication that makes vitamin A supplementation routine?",
