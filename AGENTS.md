@@ -2788,3 +2788,53 @@ slot-holders share a score the top-5 slice still shows the same name twice
 and the order between equal percentages is arbitrary. Adding a secondary
 sort key would make that ordering deterministic; it does not change how
 many entries a name can hold.
+
+## Session record — Nov 2026 DHS & DME Technical Grade III, Numerical Aptitude
+
+The numerical-aptitude section of `dhs-dme-technical` shipped with 30 empty
+leaves and no bank anywhere, so the section rendered "0 questions" and every
+leaf fell to `state: "content-preparing"`. All 30 leaves now hold two
+hard-level bilingual items (60 total, book 1,010 → 1,070).
+
+**Adding a section means touching three things, not one.**
+
+1. `tools/dhs-dme-technical.numerical.js` holds the authored items.
+2. `tools/legacy-banks/dhs-dme-technical/<section>/<group>/question-001.json`
+   is what the builder actually reads. Writing only the published
+   `data/exams/...` tree is not enough — the next build overwrites it.
+3. `LEGACY_BANKS` **and** `RULES` in `tools/build-dhs-dme-technical.js` need
+   the section. Without a `RULES[group]` entry every item lands in the
+   `general-*` fallback leaf and the real leaves stay empty.
+
+**Verify routing, not just counts.** A total of 60 can hide a wrong split.
+Classify each item against its own group's rules before building:
+
+```js
+const bank = JSON.parse(fs.readFileSync('.../<group>/question-001.json'));
+const miss = bank.filter(q => !RULES[group].some(([, re]) => re.test(q.q.en)));
+```
+
+`miss` must be empty and each leaf must get its expected share.
+
+**RULES order is load-bearing.** First match wins, so specific leaves go
+above generic ones. Three real misroutes showed up here and are worth
+remembering:
+
+- `decimals-fractions` matched "fraction" in a pie-chart item → moved
+  `data-combinatorics` rules ahead of the word "fraction" by putting the
+  chart rule first in its own group.
+- `time-speed-distance` matched "distance" in a coordinate-geometry item.
+- `percentage` swallowed a profit/loss item because the stem said "loses",
+  not "loss" — the rule needed `/loss|loses|gain/`.
+
+**The biology legacy bank drifted.** After the earlier 30-question biology
+addition the published tree held 170 but the legacy bank still held 140, so
+the next build would have silently dropped 30 questions. Merge new items into
+the legacy bank in the same commit that publishes them.
+
+**Chain for this book** (each step is required, order matters):
+`build-dhs-dme-technical.js` → `dhs-dme-technical.extra.js` (article panels;
+the build deletes them) → `build-as-twins.js` → `build-question-counts.js`
+→ `sync-home-hero-count.js`. `--check` is valid on
+`build-dhs-dme-technical.js` (it maps to `DRY`); the `--dry-run` warning
+above applies to the older `build-dhs-dme.js`.
