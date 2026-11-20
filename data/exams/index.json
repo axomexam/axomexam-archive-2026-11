@@ -2249,7 +2249,21 @@
           "subcategories": [
             {
               "id": "assam-history",
-              "title": { "en": "Assam History", "as": "অসমৰ ইতিহাস" }
+              "title": { "en": "Assam History", "as": "অসমৰ ইতিহাস" },
+              "subcategories": [
+                {
+                  "id": "assam-history-ancient",
+                  "title": { "en": "Ancient Assam History", "as": "প্ৰাচীন অসমৰ ইতিহাস" }
+                },
+                {
+                  "id": "assam-history-medieval",
+                  "title": { "en": "Medieval Assam History", "as": "মধ্যযুগীয় অসমৰ ইতিহাস" }
+                },
+                {
+                  "id": "assam-history-modern",
+                  "title": { "en": "Modern Assam History", "as": "আধুনিক অসমৰ ইতিহাস" }
+                }
+              ]
             },
             {
               "id": "geography",

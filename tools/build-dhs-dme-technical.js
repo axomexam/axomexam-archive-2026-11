@@ -50,6 +50,9 @@ const EXAM_ID = EXAM.id;
    legacy folder is two levels deep even when the new topic is grouped.
    [section, group|null, legacy folder, new leaf ids the questions sort into] */
 const LEGACY_BANKS = [
+  ["general-knowledge", "assam-history", ["general-knowledge", "assam-history"], [
+    "assam-history-ancient", "assam-history-medieval", "assam-history-modern",
+  ]],
   ["technical-science", "biology", ["technical-science", "biology"], [
     "cell-biology", "genetics-evolution", "human-anatomy", "human-physiology",
     "nutrition-vitamins", "diseases-health", "plant-botany", "animal-zoology",
@@ -251,6 +254,14 @@ const RULES = {
     ["probability", /probability|dice|card is drawn/i],
     ["data-interpretation", /pie chart|sales rose|percentage increase/i],
     ["statistics", /median|mode|mean of the data/i],
+  ],
+  "assam-history": [
+    /* Kamarupa and the dynasties before the Ahoms. */
+    ["assam-history-ancient", /kamarupa|varman|bhaskarvarman|pushyavarman|sthitavarman|salastambha|pala\b|davaka|bhutivarman|harsha|hieun|hsiuan|hsuen|danava|naraka|bhagadatta|pragjyotisha|davaka|copper.?plate|land grant|dutaka|bhukti|gramika|maharajadhiraja|ancient/i],
+    /* Ahom rule and the other medieval kingdoms, up to the British arrival. */
+    ["assam-history-medieval", /ahom|sukapha|buranji|charaideo|garhgaon|rangpur|saraighat|lachit|borphukan|barbarua|paik\b|khel\b|swargadeo|suhungmung|rudra singha|siva singha|gadadhar|moamoria|maidam|satra\b|sankardeva|madhavdeva|namghar|koch\b|naranarayan|chilarai|chutiya|kachari|dimasa|jaintia|moghul|mughal|yandabo|burmese/i],
+    /* Colonial and post independence Assam. */
+    ["assam-history-modern", /british|colonial|maniram|dewan|annex|1857|arunodoi|jonaki|assam association|ahom sabha|gopinath bordoloi|ambedkar|partition|independence|chief minister|agitation|assam accord|congress|swadeshi|revolt|plant|tea garden|missionary|serampore|gauhati university|state of assam|1971|1985/i],
   ],
 };
 

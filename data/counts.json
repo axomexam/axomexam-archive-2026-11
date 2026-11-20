@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T18:21:41.126Z",
+  "generatedAt": "2026-11-20T18:48:15.808Z",
   "topicCounts": {
     "gk/assam-literature/ancient-pre-vaishnavite-sec/charyapada-folk-songs": 37,
     "gk/assam-literature/ancient-pre-vaishnavite-sec/early-poets-translations": 37,
@@ -698,7 +698,10 @@
     "dhs-dme-technical/technical-science/computer-awareness/dbms-number-system": 50,
     "dhs-dme-technical/technical-science/computer-awareness": 300,
     "dhs-dme-technical/technical-science": 2082,
-    "dhs-dme-technical/general-knowledge/assam-history": 80,
+    "dhs-dme-technical/general-knowledge/assam-history/assam-history-ancient": 114,
+    "dhs-dme-technical/general-knowledge/assam-history/assam-history-medieval": 113,
+    "dhs-dme-technical/general-knowledge/assam-history/assam-history-modern": 101,
+    "dhs-dme-technical/general-knowledge/assam-history": 328,
     "dhs-dme-technical/general-knowledge/geography": 80,
     "dhs-dme-technical/general-knowledge/polity": 80,
     "dhs-dme-technical/general-knowledge/assam-gk/assam-culture-festivals": 0,
@@ -730,7 +733,7 @@
     "dhs-dme-technical/general-knowledge/current-affairs/government-schemes": 0,
     "dhs-dme-technical/general-knowledge/current-affairs/science-tech-environment": 0,
     "dhs-dme-technical/general-knowledge/current-affairs": 0,
-    "dhs-dme-technical/general-knowledge": 240,
+    "dhs-dme-technical/general-knowledge": 488,
     "dhs-dme-technical/general-english/grammar/parts-of-speech": 11,
     "dhs-dme-technical/general-english/grammar/articles-determiners": 0,
     "dhs-dme-technical/general-english/grammar/prepositions": 12,
@@ -959,7 +962,7 @@
     "rrb-ntpc/reasoning/non-verbal-reasoning": 490,
     "rrb-ntpc/reasoning": 2351
   },
-  "examsTotal": 45025,
+  "examsTotal": 45273,
   "mockTotal": 4921,
-  "topicsTotal": 880
+  "topicsTotal": 882
 }

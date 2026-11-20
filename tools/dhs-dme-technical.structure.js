@@ -133,7 +133,11 @@ const EXAM = {
       color: "#0ea5e9",
       title: { en: "General Knowledge & Current Affairs", as: "সাধাৰণ জ্ঞান আৰু সাম্প্ৰতিক ঘটনাৱলী" },
       subcategories: [
-        t("assam-history", "Assam History", "অসমৰ ইতিহাস"),
+        group("assam-history", "Assam History", "অসমৰ ইতিহাস", [
+          t("assam-history-ancient", "Ancient Assam History", "প্ৰাচীন অসমৰ ইতিহাস"),
+          t("assam-history-medieval", "Medieval Assam History", "মধ্যযুগীয় অসমৰ ইতিহাস"),
+          t("assam-history-modern", "Modern Assam History", "আধুনিক অসমৰ ইতিহাস"),
+        ]),
         t("geography", "Geography (Assam & India)", "ভূগোল (অসম আৰু ভাৰত)"),
         t("polity", "Indian Polity & Constitution", "ভাৰতৰ ৰাজনীতি আৰু সংবিধান"),
         group("assam-gk", "Assam Specific", "অসম বিষয়ক", [
