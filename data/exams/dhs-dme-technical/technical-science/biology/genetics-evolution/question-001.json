@@ -328,5 +328,625 @@
       "en": "Only one base is replaced, so the reading frame is unchanged and one codon is altered. A frameshift would shift every later codon.",
       "as": "কেৱল এটা বেছ সলনি হয়, গতিকে পঢ়াৰ ফ্ৰেম একে থাকে আৰু এটা কোডন সলনি হয়। ফ্ৰেমশ্বিফ্ট হ'লে ইয়াৰ পিছৰ প্ৰতিটো কোডন সলনি হ'লহেঁতেন।"
     }
+  },
+  {
+    "id": "biology-184",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Mendel's law of segregation is also known as the law of",
+      "as": "মেণ্ডেলৰ পৃথকীকৰণৰ সূত্ৰক আন কি নামেৰে জনা যায়"
+    },
+    "options": [
+      {
+        "en": "purity of gametes",
+        "as": "গেমেটৰ শুদ্ধতা"
+      },
+      {
+        "en": "independent assortment",
+        "as": "স্বাধীন সজ্জন"
+      },
+      {
+        "en": "dominance",
+        "as": "প্ৰভুত্ব"
+      },
+      {
+        "en": "linkage",
+        "as": "সংযোগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The law says the two alleles of a pair separate during gamete formation so each gamete carries only one, that is, gametes are pure for the factor. Independent assortment is a separate law about two or more gene pairs.",
+      "as": "সূত্ৰই কয় যে এযোৰ এলিল গেমেট গঠনৰ সময়ত পৃথক হয়, সেয়ে প্ৰতিটো গেমেটত এটাহে থাকে, অৰ্থাৎ গেমেট কাৰকৰ বাবে শুদ্ধ। স্বাধীন সজ্জন দুটা বা ততোধিক জিনযোৰৰ বেলেগ সূত্ৰ।"
+    }
+  },
+  {
+    "id": "biology-185",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "A cross of an F1 hybrid with its recessive parent is called a",
+      "as": "F১ সংকৰক তাৰ অৱশিষ্টাশ্ৰয়ী পিতৃ-মাতৃৰ লগত কৰা সংকৰণক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "test cross",
+        "as": "পৰীক্ষা সংকৰণ"
+      },
+      {
+        "en": "back cross only",
+        "as": "কেৱল পশ্চাৎ সংকৰণ"
+      },
+      {
+        "en": "reciprocal cross",
+        "as": "পৰস্পৰ সংকৰণ"
+      },
+      {
+        "en": "dihybrid cross",
+        "as": "দ্বিসংকৰ সংকৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Crossing with the recessive parent reveals the genotype of the hybrid, so it is a test cross. Every test cross is a back cross, but a back cross with the dominant parent would not reveal the genotype.",
+      "as": "অৱশিষ্টাশ্ৰয়ী পিতৃ-মাতৃৰ লগত সংকৰণে সংকৰৰ জিন'টাইপ প্ৰকাশ কৰে, সেয়ে ই পৰীক্ষা সংকৰণ। প্ৰতিটো পৰীক্ষা সংকৰণ পশ্চাৎ সংকৰণ, কিন্তু প্ৰভাৱী পিতৃ-মাতৃৰ লগত পশ্চাৎ সংকৰণে জিন'টাইপ নেদেখুৱায়।"
+    }
+  },
+  {
+    "id": "biology-186",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The phenotypic ratio of the F2 generation in a dihybrid cross with complete dominance is",
+      "as": "পূৰ্ণ প্ৰভুত্বৰ দ্বিসংকৰ সংকৰণত F২ বংশৰ ফিন'টাইপিক অনুপাত কিমান"
+    },
+    "options": [
+      {
+        "en": "9 : 3 : 3 : 1",
+        "as": "৯ : ৩ : ৩ : ১"
+      },
+      {
+        "en": "3 : 1",
+        "as": "৩ : ১"
+      },
+      {
+        "en": "1 : 2 : 1",
+        "as": "১ : ২ : ১"
+      },
+      {
+        "en": "1 : 1 : 1 : 1",
+        "as": "১ : ১ : ১ : ১"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Two independent gene pairs assorting freely give four phenotype classes in 9 : 3 : 3 : 1. The 3 : 1 ratio is monohybrid and 1 : 2 : 1 is a genotypic ratio.",
+      "as": "দুটা স্বাধীন জিনযোৰ স্বাধীনভাৱে সজ্জিত হৈ ৯ : ৩ : ৩ : ১ অনুপাতত চাৰিটা ফিন'টাইপ শ্ৰেণী দিয়ে। ৩ : ১ একসংকৰ আৰু ১ : ২ : ১ জিন'টাইপিক অনুপাত।"
+    }
+  },
+  {
+    "id": "biology-187",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "How many autosomes are present in a normal human somatic cell?",
+      "as": "স্বাভাৱিক মানৱ দেহকোষত কিমানটা অট'ছ'ম থাকে"
+    },
+    "options": [
+      {
+        "en": "44",
+        "as": "৪৪"
+      },
+      {
+        "en": "46",
+        "as": "৪৬"
+      },
+      {
+        "en": "23",
+        "as": "২৩"
+      },
+      {
+        "en": "22",
+        "as": "২২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A somatic cell has 46 chromosomes of which 2 are sex chromosomes, leaving 44 autosomes arranged as 22 pairs. The number 23 is the haploid total including one sex chromosome.",
+      "as": "দেহকোষত ৪৬ টা ক্ৰ'ম'জ'ম, তাৰ ২ টা যৌন ক্ৰ'ম'জ'ম, বাকী ৪৪ টা অট'ছ'ম যি ২২ যোৰত সজ্জিত। ২৩ সংখ্যাটো এটা যৌন ক্ৰ'ম'জ'মসহ হেপ্লইড মুঠ।"
+    }
+  },
+  {
+    "id": "biology-188",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Alternative forms of the same gene occupying the same locus on homologous chromosomes are called",
+      "as": "সমসংস্থ ক্ৰ'ম'জ'মৰ একেই স্থানত থকা একেই জিনৰ বিকল্প ৰূপবোৰক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "alleles",
+        "as": "এলিল"
+      },
+      {
+        "en": "codons",
+        "as": "ক'ডন"
+      },
+      {
+        "en": "cistrons",
+        "as": "চিষ্ট্ৰন"
+      },
+      {
+        "en": "operons",
+        "as": "অপেৰন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Alleles are the variant forms of one gene at a given locus. A codon is a triplet of mRNA bases, a cistron is a functional genetic unit, and an operon is a cluster of co-regulated bacterial genes.",
+      "as": "এলিল এটা নিৰ্দিষ্ট স্থানত থকা এটা জিনৰ বিভিন্ন ৰূপ। ক'ডন mRNA ৰ তিনি আখৰৰ একক, চিষ্ট্ৰন কাৰ্যকৰী জিনীয় একক, আৰু অপেৰন বেক্টেৰিয়াৰ সহ-নিয়ন্ত্ৰিত জিনৰ গোট।"
+    }
+  },
+  {
+    "id": "biology-189",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "An organism carrying two identical alleles for a character is said to be",
+      "as": "এটা বৈশিষ্ট্যৰ বাবে দুটা একেই এলিল কঢ়িয়াই নিয়া জীৱক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "homozygous",
+        "as": "সমযুগ্মী"
+      },
+      {
+        "en": "heterozygous",
+        "as": "অসমযুগ্মী"
+      },
+      {
+        "en": "hemizygous",
+        "as": "অৰ্ধযুগ্মী"
+      },
+      {
+        "en": "hybrid",
+        "as": "সংকৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Identical alleles make the organism homozygous. Heterozygous means two different alleles, and hemizygous describes a single copy as in X-linked genes of males.",
+      "as": "একেই এলিলে জীৱক সমযুগ্মী কৰে। অসমযুগ্মী মানে দুটা ভিন্ন এলিল, আৰু অৰ্ধযুগ্মীয়ে এটা মাত্ৰ নকল বুজায় যেনে পুৰুষৰ X-সংযুক্ত জিন।"
+    }
+  },
+  {
+    "id": "biology-190",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "In a DNA molecule adenine pairs with",
+      "as": "DNA অণুত এডেনিনে কিহৰ লগত যোৰ বান্ধে"
+    },
+    "options": [
+      {
+        "en": "thymine",
+        "as": "থাইমিন"
+      },
+      {
+        "en": "uracil",
+        "as": "ইউৰাছিল"
+      },
+      {
+        "en": "guanine",
+        "as": "গুৱানিন"
+      },
+      {
+        "en": "cytosine",
+        "as": "চাইট'চিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In DNA the purine adenine pairs with the pyrimidine thymine by two hydrogen bonds. Uracil replaces thymine in RNA, and guanine pairs with cytosine.",
+      "as": "DNA ত পিউৰিন এডেনিনে পিৰিমিডিন থাইমিনৰ লগত দুটা হাইড্ৰজেন বন্ধনৰে যোৰ বান্ধে। RNA ত ইউৰাছিলে থাইমিনৰ ঠাই লয়, আৰু গুৱানিনে চাইট'চিনৰ লগত যোৰ বান্ধে।"
+    }
+  },
+  {
+    "id": "biology-191",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "In RNA the base that pairs with adenine is",
+      "as": "RNA ত এডেনিনৰ লগত যোৰ বন্ধা ক্ষাৰকটো কি"
+    },
+    "options": [
+      {
+        "en": "uracil",
+        "as": "ইউৰাছিল"
+      },
+      {
+        "en": "thymine",
+        "as": "থাইমিন"
+      },
+      {
+        "en": "guanine",
+        "as": "গুৱানিন"
+      },
+      {
+        "en": "cytosine",
+        "as": "চাইট'চিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "RNA carries uracil in place of the thymine found in DNA, so adenine pairs with uracil during transcription and translation.",
+      "as": "RNA ত DNA ৰ থাইমিনৰ ঠাইত ইউৰাছিল থাকে, সেয়ে প্ৰতিলিখন আৰু অনুবাদনত এডেনিনে ইউৰাছিলৰ লগত যোৰ বান্ধে।"
+    }
+  },
+  {
+    "id": "biology-192",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The process by which mRNA is synthesised from a DNA template is called",
+      "as": "DNA টেমপ্লেটৰপৰা mRNA সংশ্লেষণ হোৱা প্ৰক্ৰিয়াটোক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "transcription",
+        "as": "প্ৰতিলিখন"
+      },
+      {
+        "en": "translation",
+        "as": "অনুবাদন"
+      },
+      {
+        "en": "replication",
+        "as": "প্ৰতিলিপন"
+      },
+      {
+        "en": "transformation",
+        "as": "ৰূপান্তৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Transcription copies the gene into mRNA. Translation then reads the mRNA on ribosomes to build protein, and replication copies the whole DNA molecule.",
+      "as": "প্ৰতিলিখনে জিনক mRNA লৈ নকল কৰে। অনুবাদনে তাৰ পিছত ৰাইব'জ'মত mRNA পঢ়ি প্ৰ'টিন গঢ়ে, আৰু প্ৰতিলিপনে গোটেই DNA অণু নকল কৰে।"
+    }
+  },
+  {
+    "id": "biology-193",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "A triplet of bases on mRNA that specifies one amino acid is called a",
+      "as": "এটা এমিন' অ্যাসিড নিৰ্দেশ কৰা mRNA ৰ তিনি আখৰৰ এককক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "codon",
+        "as": "ক'ডন"
+      },
+      {
+        "en": "anticodon",
+        "as": "এণ্টিক'ডন"
+      },
+      {
+        "en": "exon",
+        "as": "এক্সন"
+      },
+      {
+        "en": "intron",
+        "as": "ইণ্ট্ৰন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A codon is the mRNA triplet read by the ribosome. The anticodon is the complementary triplet on tRNA, while exons and introns are coding and non-coding stretches of a gene.",
+      "as": "ক'ডন হ'ল ৰাইব'জ'মে পঢ়া mRNA ৰ তিনি আখৰৰ একক। এণ্টিক'ডন tRNA ৰ পৰিপূৰক একক, আৰু এক্সন আৰু ইণ্ট্ৰন জিনৰ ক'ডিং আৰু অ-ক'ডিং অংশ।"
+    }
+  },
+  {
+    "id": "biology-194",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Which human blood group illustrates codominance of both alleles?",
+      "as": "কোনটো মানৱ ৰক্তগোটে দুয়োটা এলিলৰ সহপ্ৰভুত্ব দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "AB",
+        "as": "AB"
+      },
+      {
+        "en": "A",
+        "as": "A"
+      },
+      {
+        "en": "B",
+        "as": "B"
+      },
+      {
+        "en": "O",
+        "as": "O"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In group AB both A and B antigens appear on the red cell, so neither allele masks the other and they are codominant. Group O shows the recessive condition with no antigen.",
+      "as": "AB গোটত A আৰু B দুয়োটা এণ্টিজেন লোহিত কণিকাত দেখা যায়, সেয়ে কোনো এলিলে আনটোক ঢাকি নধৰে আৰু তেওঁলোক সহপ্ৰভাৱী। O গোটে এণ্টিজেন নোহোৱা অৱশিষ্টাশ্ৰয়ী অৱস্থা দেখুৱায়।"
+    }
+  },
+  {
+    "id": "biology-195",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Down syndrome in humans is caused by trisomy of chromosome",
+      "as": "মানুহত ডাউন ছিণ্ড্ৰ'ম ক্ৰ'ম'জ'মৰ কিমান নম্বৰটোৰ ট্ৰাইছ'মিৰ বাবে হয়"
+    },
+    "options": [
+      {
+        "en": "21",
+        "as": "২১"
+      },
+      {
+        "en": "18",
+        "as": "১৮"
+      },
+      {
+        "en": "13",
+        "as": "১৩"
+      },
+      {
+        "en": "23",
+        "as": "২৩"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Down syndrome is trisomy 21, an extra copy of chromosome 21. Trisomy 18 gives Edwards syndrome and trisomy 13 gives Patau syndrome.",
+      "as": "ডাউন ছিণ্ড্ৰ'ম হ'ল ট্ৰাইছ'মি ২১, অৰ্থাৎ ২১ নম্বৰ ক্ৰ'ম'জ'মৰ এটা অতিৰিক্ত নকল। ট্ৰাইছ'মি ১৮ এ এডৱাৰ্ডছ আৰু ট্ৰাইছ'মি ১৩ এ পাটাউ ছিণ্ড্ৰ'ম দিয়ে।"
+    }
+  },
+  {
+    "id": "biology-196",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Colour blindness in humans is inherited as",
+      "as": "মানুহত বৰ্ণান্ধতা কেনে ধৰণে উত্তৰাধিকাৰী হয়"
+    },
+    "options": [
+      {
+        "en": "X-linked recessive",
+        "as": "X-সংযুক্ত অৱশিষ্টাশ্ৰয়ী"
+      },
+      {
+        "en": "autosomal dominant",
+        "as": "অট'ছ'মেল প্ৰভাৱী"
+      },
+      {
+        "en": "Y-linked",
+        "as": "Y-সংযুক্ত"
+      },
+      {
+        "en": "autosomal recessive",
+        "as": "অট'ছ'মেল অৱশিষ্টাশ্ৰয়ী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The gene sits on the X chromosome and the defect is recessive, so males with one affected X are colour blind while females need both X chromosomes affected. Y carries no counterpart, which is why it is not Y-linked.",
+      "as": "জিনটো X ক্ৰ'ম'জ'মত আৰু ত্ৰুটিটো অৱশিষ্টাশ্ৰয়ী, সেয়ে এটা আক্ৰান্ত X থকা পুৰুষ বৰ্ণান্ধ, কিন্তু নাৰীক দুয়োটা X আক্ৰান্ত লাগে। Y ত প্ৰতিসম নাই, সেয়ে Y-সংযুক্ত নহয়।"
+    }
+  },
+  {
+    "id": "biology-197",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The scientist who proposed the theory of inheritance of acquired characters was",
+      "as": "অৰ্জিত বৈশিষ্ট্যৰ উত্তৰাধিকাৰ সূত্ৰ প্ৰস্তাৱ কৰা বিজ্ঞানীজন আছিল"
+    },
+    "options": [
+      {
+        "en": "Lamarck",
+        "as": "লামাৰ্ক"
+      },
+      {
+        "en": "Darwin",
+        "as": "ডাৰউইন"
+      },
+      {
+        "en": "Mendel",
+        "as": "মেণ্ডেল"
+      },
+      {
+        "en": "De Vries",
+        "as": "ডি ভ্ৰিছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lamarck held that characters gained during life are passed on, which later evidence did not support. Darwin proposed natural selection, Mendel gave the laws of inheritance and De Vries proposed mutation.",
+      "as": "লামাৰ্কে কৈছিল জীৱনকালত অৰ্জিত বৈশিষ্ট্য পৰৱৰ্তী বংশলৈ যায়, যি পিছৰ প্ৰমাণে সমৰ্থন নকৰিলে। ডাৰউইনে প্ৰাকৃতিক নিৰ্বাচন, মেণ্ডেলে উত্তৰাধিকাৰৰ সূত্ৰ আৰু ডি ভ্ৰিছে মিউটেচন দিলে।"
+    }
+  },
+  {
+    "id": "biology-198",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Darwin's finches of the Galapagos Islands, with beaks suited to different foods, illustrate",
+      "as": "গালাপাগছ দ্বীপপুঞ্জৰ ডাৰউইনৰ ফিঞ্চবোৰে, বিভিন্ন খাদ্যৰ বাবে উপযুক্ত ঠোঁটসহ, কি দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "adaptive radiation",
+        "as": "অভিযোজনীয় বিকিৰণ"
+      },
+      {
+        "en": "convergent evolution",
+        "as": "অভিসৰণী বিবৰ্তন"
+      },
+      {
+        "en": "parallel evolution",
+        "as": "সমান্তৰাল বিবৰ্তন"
+      },
+      {
+        "en": "genetic drift",
+        "as": "জিনীয় বিচ্যুতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "One ancestral stock radiating into several forms each fitted to a different niche is adaptive radiation. Convergent evolution is the opposite, unrelated lines coming to resemble each other.",
+      "as": "এটা পূৰ্বপুৰুষৰ পৰা বিভিন্ন সুকীয়া স্থানৰ বাবে উপযুক্ত বহু ৰূপলৈ বিকিৰণ হোৱাটো অভিযোজনীয় বিকিৰণ। অভিসৰণী বিবৰ্তন তাৰ ওলোটা, অসম্পৰ্কীয় শাখা সাদৃশ্যপূৰ্ণ হোৱা।"
+    }
+  },
+  {
+    "id": "biology-199",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The wings of a butterfly and the wings of a bat are examples of",
+      "as": "পখিলাৰ ডেউকা আৰু বাদুলিৰ ডেউকা কিৰ উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "analogous organs",
+        "as": "সমকাৰ্যী অংগ"
+      },
+      {
+        "en": "homologous organs",
+        "as": "সমসংস্থ অংগ"
+      },
+      {
+        "en": "vestigial organs",
+        "as": "অৱশিষ্ট অংগ"
+      },
+      {
+        "en": "atavistic organs",
+        "as": "পূৰ্বজ অংগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Both serve flight but differ in origin, the insect wing being a cuticular fold and the bat wing a modified forelimb, so they are analogous and point to convergent evolution. Homologous organs share a common origin with different functions.",
+      "as": "দুয়োটাই উৰণৰ কাম কৰে কিন্তু উৎপত্তি বেলেগ — পতংগৰ ডেউকা কিউটিকুলাৰ ভাঁজ আৰু বাদুলিৰ ডেউকা পৰিৱৰ্তিত অগ্ৰপাদ, সেয়ে সমকাৰ্যী আৰু অভিসৰণী বিবৰ্তন দেখুৱায়। সমসংস্থ অংগৰ উৎপত্তি একে কিন্তু কাৰ্য বেলেগ।"
+    }
+  },
+  {
+    "id": "biology-200",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The fossil that is regarded as a connecting link between reptiles and birds is",
+      "as": "সৰীসৃপ আৰু চৰাইৰ মাজৰ সংযোগী কড়ি বুলি গণ্য কৰা জীৱাশ্মটো কি"
+    },
+    "options": [
+      {
+        "en": "Archaeopteryx",
+        "as": "আৰ্কিঅ'প্টেৰিক্স"
+      },
+      {
+        "en": "Dodo",
+        "as": "ড'ড'"
+      },
+      {
+        "en": "Ichthyosaur",
+        "as": "ইকথিঅ'ছৰ"
+      },
+      {
+        "en": "Dinosaur",
+        "as": "ডাইন'ছৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Archaeopteryx had feathers and wings like a bird but teeth and a long bony tail like a reptile, which is why it is called a connecting link. The dodo was a flightless bird and the ichthyosaur a marine reptile.",
+      "as": "আৰ্কিঅ'প্টেৰিক্সত চৰাইৰ দৰে পাখি আৰু ডেউকা আছিল কিন্তু সৰীসৃপৰ দৰে দাঁত আৰু দীঘল হাড়যুক্ত নেজ, সেয়ে ইয়াক সংযোগী কড়ি বোলে। ড'ড' উৰিব নোৱাৰা চৰাই আৰু ইকথিঅ'ছৰ সাগৰীয় সৰীসৃপ।"
+    }
+  },
+  {
+    "id": "biology-201",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The Hardy-Weinberg principle states that allele frequencies in a population remain constant only when",
+      "as": "হাৰ্ডি-ৱেইনবাৰ্গ নীতিয়ে কয় যে জনসংখ্যাত এলিলৰ কম্পনাংক স্থিৰ থাকে কেৱল যেতিয়া"
+    },
+    "options": [
+      {
+        "en": "there is no mutation, migration or selection and mating is random",
+        "as": "মিউটেচন, প্ৰব্ৰজন বা নিৰ্বাচন নাথাকে আৰু মিলন যাদৃচ্ছিক"
+      },
+      {
+        "en": "the population is small",
+        "as": "জনসংখ্যা সৰু"
+      },
+      {
+        "en": "selection is strong",
+        "as": "নিৰ্বাচন প্ৰবল"
+      },
+      {
+        "en": "mutation is frequent",
+        "as": "মিউটেচন সঘন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The equilibrium holds only for a large randomly mating population free of mutation, migration and selection. A small population invites drift and strong selection or mutation changes frequencies directly.",
+      "as": "সাম্যাৱস্থা কেৱল ডাঙৰ যাদৃচ্ছিকভাৱে মিলনকৰা, মিউটেচন-প্ৰব্ৰজন-নিৰ্বাচনমুক্ত জনসংখ্যাত থাকে। সৰু জনসংখ্যাত বিচ্যুতি হয় আৰু প্ৰবল নিৰ্বাচন বা মিউটেচনে কম্পনাংক পোনপটীয়াকৈ সলনি কৰে।"
+    }
+  },
+  {
+    "id": "biology-202",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The haploid number of chromosomes in a human gamete is",
+      "as": "মানৱ গেমেটত ক্ৰ'ম'জ'মৰ হেপ্লইড সংখ্যা কিমান"
+    },
+    "options": [
+      {
+        "en": "23",
+        "as": "২৩"
+      },
+      {
+        "en": "46",
+        "as": "৪৬"
+      },
+      {
+        "en": "44",
+        "as": "৪৪"
+      },
+      {
+        "en": "22",
+        "as": "২২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Meiosis halves the diploid 46 to 23, so each gamete carries 22 autosomes plus one sex chromosome. Fusion at fertilisation restores 46.",
+      "as": "মিঅ'ছিছে ডিপ্লইড ৪৬ ক ২৩ লৈ আধা কৰে, সেয়ে প্ৰতিটো গেমেটত ২২ টা অট'ছ'ম আৰু এটা যৌন ক্ৰ'ম'জ'ম থাকে। নিষেচনত মিলি পুনৰ ৪৬ হয়।"
+    }
+  },
+  {
+    "id": "biology-203",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Which of the following is a chromosomal disorder rather than a single-gene disorder?",
+      "as": "তলৰ কোনটো এক-জিনৰ বিকাৰ নহয়, ক্ৰ'ম'জ'মেল বিকাৰ"
+    },
+    "options": [
+      {
+        "en": "Klinefelter syndrome",
+        "as": "ক্লাইনফেল্টাৰ ছিণ্ড্ৰ'ম"
+      },
+      {
+        "en": "Sickle cell anaemia",
+        "as": "কাঁইটীয়া কোষ ৰক্তহীনতা"
+      },
+      {
+        "en": "Haemophilia",
+        "as": "হিম'ফিলিয়া"
+      },
+      {
+        "en": "Phenylketonuria",
+        "as": "ফিনাইলকিট'নিউৰিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Klinefelter syndrome is an extra X chromosome, so the defect is in chromosome number. The other three are single-gene defects, sickle cell and phenylketonuria autosomal recessive and haemophilia X-linked recessive.",
+      "as": "ক্লাইনফেল্টাৰ ছিণ্ড্ৰ'ম এটা অতিৰিক্ত X ক্ৰ'ম'জ'ম, সেয়ে ত্ৰুটিটো ক্ৰ'ম'জ'ম সংখ্যাত। বাকী তিনিটা এক-জিন ত্ৰুটি — কাঁইটীয়া কোষ আৰু ফিনাইলকিট'নিউৰিয়া অট'ছ'মেল অৱশিষ্টাশ্ৰয়ী, হিম'ফিলিয়া X-সংযুক্ত অৱশিষ্টাশ্ৰয়ী।"
+    }
   }
 ]

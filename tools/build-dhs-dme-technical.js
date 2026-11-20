@@ -273,6 +273,16 @@ function readLegacyBank(parts) {
 }
 
 function classify(rules, fallback, question) {
+  /* An authored item may name its leaf outright. Biology has eleven leaves
+     whose vocabularies overlap badly — "bacteria" sits in both microbiology
+     and disease, "DNA" in both genetics and biotechnology — so a regex pass
+     over the stem cannot be trusted for the bulk-added items. An explicit
+     leaf wins over the rules; a stale one fails loudly. */
+  const explicit = question && question.leaf;
+  if (typeof explicit === "string" && explicit) {
+    if (!ALL_LEAF_IDS.has(explicit)) throw new Error(`question ${question.id}: leaf "${explicit}" is not in the tree`);
+    return explicit;
+  }
   const text = String((question && question.q && question.q.en) || "");
   for (const [id, re] of rules) if (re.test(text)) return id;
   return fallback;

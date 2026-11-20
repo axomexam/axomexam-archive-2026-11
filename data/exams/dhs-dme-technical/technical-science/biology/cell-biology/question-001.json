@@ -538,5 +538,408 @@
       "en": "A gap junction is a cluster of connexon channels and permits direct cytoplasmic exchange. In plant cells the same work is done by plasmodesmata.",
       "as": "ফাঁক সংযোগ হ'ল কনেক্সন নলীৰ সমষ্টি, যিয়ে চাইট'প্লাজমৰ পোনপটীয়া আদান-প্ৰদানত সহায় কৰে। উদ্ভিদ কোষত এই কাম প্লাজম'ডেজমেটাই কৰে।"
     }
+  },
+  {
+    "id": "biology-171",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The cell wall of a fungal hypha is built mainly of",
+      "as": "ভেঁকুৰ হাইফাৰ কোষবেৰ মূলতঃ কিৰে গঠিত"
+    },
+    "options": [
+      {
+        "en": "chitin",
+        "as": "কাইটিন"
+      },
+      {
+        "en": "cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "peptidoglycan",
+        "as": "পেপ্টিড'গ্লাইকেন"
+      },
+      {
+        "en": "lignin",
+        "as": "লিগনিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fungal walls are chitin, plant walls cellulose, and bacterial walls peptidoglycan. Chitin is a nitrogen-containing polysaccharide, which is why fungi differ from plants in wall chemistry.",
+      "as": "ভেঁকুৰৰ কোষবেৰ কাইটিন, উদ্ভিদৰ চেলুল'জ আৰু বেক্টেৰিয়াৰ পেপ্টিড'গ্লাইকেন। কাইটিন নাইট্ৰজেনযুক্ত পলিছেকাৰাইড, সেয়ে ভেঁকুৰৰ বেৰৰ ৰসায়ন উদ্ভিদতকৈ বেলেগ।"
+    }
+  },
+  {
+    "id": "biology-172",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The folds of the inner mitochondrial membrane that carry the electron transport chain are called",
+      "as": "ইলেক্ট্ৰন পৰিবহন শৃংখল কঢ়িয়াই নিয়া মাইট'কণ্ড্ৰিয়াৰ অন্তঃপৰ্দাৰ ভাঁজবোৰক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "cristae",
+        "as": "ক্ৰিষ্টি"
+      },
+      {
+        "en": "thylakoids",
+        "as": "থাইলাকইড"
+      },
+      {
+        "en": "cisternae",
+        "as": "চিষ্টাৰ্নি"
+      },
+      {
+        "en": "microvilli",
+        "as": "মাইক্ৰ'ভিলাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cristae are the inward folds of the inner membrane and they hold the respiratory assemblies. Thylakoids belong to chloroplasts, cisternae to Golgi and ER, and microvilli to the plasma membrane.",
+      "as": "ক্ৰিষ্টি হ'ল অন্তঃপৰ্দাৰ ভিতৰমুৱা ভাঁজ, য'ত শ্বসন সংযোগস্থল থাকে। থাইলাকইড ক্ল'ৰ'প্লাষ্টৰ, চিষ্টাৰ্নি গলজি আৰু ER ৰ, আৰু মাইক্ৰ'ভিলাই প্লাজমা পৰ্দাৰ।"
+    }
+  },
+  {
+    "id": "biology-173",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The nucleolus is the site of",
+      "as": "নিউক্লিঅ'লাছ কিৰ স্থান"
+    },
+    "options": [
+      {
+        "en": "ribosomal RNA synthesis",
+        "as": "ৰাইব'জ'মেল RNA সংশ্লেষণ"
+      },
+      {
+        "en": "DNA replication",
+        "as": "DNA প্ৰতিলিপন"
+      },
+      {
+        "en": "lipid synthesis",
+        "as": "লিপিড সংশ্লেষণ"
+      },
+      {
+        "en": "ATP formation",
+        "as": "ATP গঠন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The nucleolus is a dense region inside the nucleus where ribosomal RNA is transcribed and ribosomal subunits are assembled. DNA replication happens in the nucleoplasm, not the nucleolus.",
+      "as": "নিউক্লিঅ'লাছ নিউক্লিয়াছৰ ভিতৰৰ ঘন অঞ্চল, য'ত ৰাইব'জ'মেল RNA প্ৰতিলিখন হয় আৰু ৰাইব'জ'মেল উপএকক সজ্জিত হয়। DNA প্ৰতিলিপন নিউক্লিঅ'প্লাজমত হয়, নিউক্লিঅ'লাছত নহয়।"
+    }
+  },
+  {
+    "id": "biology-174",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "Colourless plastids that store starch, oil or protein are called",
+      "as": "চৰ্বি বা প্ৰ'টিন সাঁচি ৰখা বৰ্ণহীন প্লাষ্টিডক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "leucoplasts",
+        "as": "লিউক'প্লাষ্ট"
+      },
+      {
+        "en": "chloroplasts",
+        "as": "ক্ল'ৰ'প্লাষ্ট"
+      },
+      {
+        "en": "chromoplasts",
+        "as": "ক্ৰ'ম'প্লাষ্ট"
+      },
+      {
+        "en": "amyloplasts only",
+        "as": "কেৱল এমাইল'প্লাষ্ট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Leucoplasts are the unpigmented plastids of storage tissue; amyloplasts are one kind of leucoplast, so naming only amyloplasts is too narrow. Chloroplasts are green and chromoplasts carry non-green pigments.",
+      "as": "লিউক'প্লাষ্ট হ'ল সাঁচনি কলাৰ বৰ্ণহীন প্লাষ্টিড; এমাইল'প্লাষ্ট লিউক'প্লাষ্টৰ এটা প্ৰকাৰ, সেয়ে কেৱল এমাইল'প্লাষ্ট বুলিলে অতি সংকীৰ্ণ হয়। ক্ল'ৰ'প্লাষ্ট সেউজ আৰু ক্ৰ'ম'প্লাষ্টত সেউজ নহ'ব পৰা ৰঞ্জক থাকে।"
+    }
+  },
+  {
+    "id": "biology-175",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "In a prokaryotic cell the ribosome is of the",
+      "as": "প্ৰকাৰ্য'টিক কোষত ৰাইব'জ'ম কেনে ধৰণৰ"
+    },
+    "options": [
+      {
+        "en": "70S type",
+        "as": "৭০S প্ৰকাৰ"
+      },
+      {
+        "en": "80S type",
+        "as": "৮০S প্ৰকাৰ"
+      },
+      {
+        "en": "60S type",
+        "as": "৬০S প্ৰকাৰ"
+      },
+      {
+        "en": "40S type",
+        "as": "৪০S প্ৰকাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Prokaryotes carry 70S ribosomes made of 50S and 30S subunits. Eukaryotic cytoplasmic ribosomes are 80S, built from 60S and 40S subunits.",
+      "as": "প্ৰকাৰ্য'টত ৭০S ৰাইব'জ'ম থাকে, যি ৫০S আৰু ৩০S উপএককৰে গঠিত। ইউকাৰ্য'টিক চাইট'প্লাজমৰ ৰাইব'জ'ম ৮০S, যি ৬০S আৰু ৪০S উপএককৰে গঠিত।"
+    }
+  },
+  {
+    "id": "biology-176",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "Chromatin, the stained thread-like material of the interphase nucleus, consists of",
+      "as": "ইণ্টাৰফেজ নিউক্লিয়াছৰ ৰঙিন সূত্ৰাকৃতি পদাৰ্থ ক্ৰ'মেটিন কিৰে গঠিত"
+    },
+    "options": [
+      {
+        "en": "DNA wound round histone proteins",
+        "as": "হিষ্ট'ন প্ৰ'টিনৰ চাৰিওফালে জোৰা খোৱা DNA"
+      },
+      {
+        "en": "RNA and lipids",
+        "as": "RNA আৰু লিপিড"
+      },
+      {
+        "en": "protein only",
+        "as": "কেৱল প্ৰ'টিন"
+      },
+      {
+        "en": "polysaccharide and DNA",
+        "as": "পলিছেকাৰাইড আৰু DNA"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chromatin is a nucleoprotein complex of DNA coiled around histone octamers, forming nucleosomes. The protein component is histone, not lipid or carbohydrate.",
+      "as": "ক্ৰ'মেটিন হ'ল DNA আৰু হিষ্ট'ন অক্টামেৰেৰে গঠিত নিউক্লিঅ'প্ৰ'টিন জটিল, যি নিউক্লিঅ'জ'ম গঠন কৰে। প্ৰ'টিন অংশ হিষ্ট'ন, লিপিড বা শৰ্কৰা নহয়।"
+    }
+  },
+  {
+    "id": "biology-177",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "A cell that lacks a membrane-bound nucleus and mitochondria is best described as",
+      "as": "আৱৰণেৰে আবদ্ধ নিউক্লিয়াছ আৰু মাইট'কণ্ড্ৰিয়া নথকা কোষক কি বুলি কোৱা হয়"
+    },
+    "options": [
+      {
+        "en": "prokaryotic",
+        "as": "প্ৰকাৰ্য'টিক"
+      },
+      {
+        "en": "eukaryotic",
+        "as": "ইউকাৰ্য'টিক"
+      },
+      {
+        "en": "eukaryotic without organelles",
+        "as": "অংগাণু নোহোৱা ইউকাৰ্য'টিক"
+      },
+      {
+        "en": "multicellular",
+        "as": "বহুকোষীয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Absence of a nuclear envelope and of membrane-bound organelles such as mitochondria is the defining feature of prokaryotes. A eukaryotic cell always has a true nucleus even if some organelles are reduced.",
+      "as": "নিউক্লিয় আৱৰণ আৰু মাইট'কণ্ড্ৰিয়াৰ দৰে পৰ্দাবদ্ধ অংগাণুৰ অনুপস্থিতি প্ৰকাৰ্য'টৰ মূল বৈশিষ্ট্য। ইউকাৰ্য'টিক কোষত সদায় প্ৰকৃত নিউক্লিয়াছ থাকে যদিও কিছু অংগাণু হ্ৰাস পায়।"
+    }
+  },
+  {
+    "id": "biology-178",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The main structural polysaccharide of the plant cell wall is",
+      "as": "উদ্ভিদ কোষবেৰৰ মূল গঠনমূলক পলিছেকাৰাইড কি"
+    },
+    "options": [
+      {
+        "en": "cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "starch",
+        "as": "ষ্টাৰ্চ"
+      },
+      {
+        "en": "glycogen",
+        "as": "গ্লাইক'জেন"
+      },
+      {
+        "en": "chitin",
+        "as": "কাইটিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cellulose microfibrils give the plant wall its tensile strength. Starch and glycogen are storage polysaccharides and chitin builds fungal and arthropod exoskeletons.",
+      "as": "চেলুল'জ মাইক্ৰ'ফাইব্ৰিলে উদ্ভিদ বেৰক টান শক্তি দিয়ে। ষ্টাৰ্চ আৰু গ্লাইক'জেন সাঁচনি পলিছেকাৰাইড, আৰু কাইটিনে ভেঁকুৰ আৰু সন্ধিপদৰ বহিঃকংকাল গঠন কৰে।"
+    }
+  },
+  {
+    "id": "biology-179",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "Glycolysis in a eukaryotic cell takes place in the",
+      "as": "ইউকাৰ্য'টিক কোষত গ্লাইক'লাইছিস ক'ত হয়"
+    },
+    "options": [
+      {
+        "en": "cytoplasm",
+        "as": "চাইট'প্লাজম"
+      },
+      {
+        "en": "mitochondrial matrix",
+        "as": "মাইট'কণ্ড্ৰিয়াৰ মেট্ৰিক্স"
+      },
+      {
+        "en": "inner mitochondrial membrane",
+        "as": "মাইট'কণ্ড্ৰিয়াৰ অন্তঃপৰ্দা"
+      },
+      {
+        "en": "nucleus",
+        "as": "নিউক্লিয়াছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "All ten steps of glycolysis are cytosolic, so the pathway runs without oxygen and without mitochondria. The Krebs cycle and oxidative phosphorylation are the mitochondrial stages.",
+      "as": "গ্লাইক'লাইছিসৰ দহোটা স্তৰ চাইট'ছ'লত হয়, সেয়ে পথটো অক্সিজেন আৰু মাইট'কণ্ড্ৰিয়া অবিহনেও চলে। ক্ৰেবছ চক্ৰ আৰু অক্সিডেটিভ ফছফ'ৰিলেচন মাইট'কণ্ড্ৰিয়াৰ স্তৰ।"
+    }
+  },
+  {
+    "id": "biology-180",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "During which phase of the cell cycle does DNA replication occur?",
+      "as": "কোষ চক্ৰৰ কোনটো দশাত DNA প্ৰতিলিপন হয়"
+    },
+    "options": [
+      {
+        "en": "S phase",
+        "as": "S দশা"
+      },
+      {
+        "en": "G1 phase",
+        "as": "G১ দশা"
+      },
+      {
+        "en": "G2 phase",
+        "as": "G২ দশা"
+      },
+      {
+        "en": "M phase",
+        "as": "M দশা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The S phase is the synthesis phase in which each chromosome is duplicated. G1 and G2 are gap phases of growth, and M phase is the actual division.",
+      "as": "S দশা হ'ল সংশ্লেষণ দশা, য'ত প্ৰতিটো ক্ৰ'ম'জ'ম নকল হয়। G১ আৰু G২ বৃদ্ধিৰ অন্তৰাল দশা, আৰু M দশা প্ৰকৃত বিভাজন।"
+    }
+  },
+  {
+    "id": "biology-181",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The intercellular junction that fuses neighbouring cell membranes into a seal and prevents leakage between them is the",
+      "as": "প্ৰতিবেশী কোষৰ পৰ্দা জোৰা লগাই ছীল কৰি তেওঁলোকৰ মাজেৰে নিগৰি যোৱা বন্ধ কৰা সংযোগটো কি"
+    },
+    "options": [
+      {
+        "en": "tight junction",
+        "as": "টাইট জংচন"
+      },
+      {
+        "en": "gap junction",
+        "as": "গেপ জংচন"
+      },
+      {
+        "en": "desmosome",
+        "as": "ডেছম'জ'ম"
+      },
+      {
+        "en": "plasmodesma",
+        "as": "প্লাজম'ডেছমা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tight junctions seal the space between cells so solutes cannot slip through the gap. Gap junctions are channels for ions and desmosomes are rivets for mechanical hold.",
+      "as": "টাইট জংচনে কোষৰ মাজৰ খালী ঠাই বন্ধ কৰে যাতে দ্ৰাৱ্য নিগৰি যাব নোৱাৰে। গেপ জংচন আয়নৰ বাবে Channels আৰু ডেছম'জ'ম যান্ত্ৰিক ধৰণৰ কীলক।"
+    }
+  },
+  {
+    "id": "biology-182",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "Peroxisomes are chiefly responsible for",
+      "as": "পেৰ'ক্সিছ'ম মূলতঃ কিৰ বাবে দায়ী"
+    },
+    "options": [
+      {
+        "en": "breaking down fatty acids and hydrogen peroxide",
+        "as": "চৰ্বি অ্যাসিড আৰু হাইড্ৰজেন পেৰ'ক্সাইড ভাঙি দিয়া"
+      },
+      {
+        "en": "synthesising ATP",
+        "as": "ATP সংশ্লেষণ"
+      },
+      {
+        "en": "packaging proteins",
+        "as": "প্ৰ'টিন পেকেজিং"
+      },
+      {
+        "en": "storing water",
+        "as": "পানী সাঁচি ৰখা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Peroxisomes oxidise long-chain fatty acids and hold catalase, which splits the toxic hydrogen peroxide they generate into water and oxygen. ATP synthesis belongs to mitochondria.",
+      "as": "পেৰ'ক্সিছ'মে দীঘল শৃংখলৰ চৰ্বি অ্যাসিড অক্সিডাইজ কৰে আৰু কেটালেজ ৰাখে, যি সৃষ্ট হাইড্ৰজেন পেৰ'ক্সাইডক পানী আৰু অক্সিজেনত ভাঙে। ATP সংশ্লেষণ মাইট'কণ্ড্ৰিয়াৰ কাম।"
+    }
+  },
+  {
+    "id": "biology-183",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "Which organelle is described as the suicidal bag of the cell because it can digest the cell's own components?",
+      "as": "কোনটো অংগাণুক কোষৰ নিজৰ অংশ হজম কৰিব পৰাৰ বাবে কোষৰ আত্মহত্যাৰ মোন বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "lysosome",
+        "as": "লাইছ'জ'ম"
+      },
+      {
+        "en": "ribosome",
+        "as": "ৰাইব'জ'ম"
+      },
+      {
+        "en": "peroxisome",
+        "as": "পেৰ'ক্সিছ'ম"
+      },
+      {
+        "en": "centrosome",
+        "as": "চেণ্ট্ৰ'জ'ম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lysosomes hold acid hydrolases and can rupture to digest the cell itself during autolysis, hence the nickname. A peroxisome handles oxidative reactions, not bulk digestion.",
+      "as": "লাইছ'জ'মত অ্যাসিড হাইড্ৰ'লেজ থাকে আৰু অট'লাইছিছত ফাটি কোষকেই হজম কৰিব পাৰে, সেয়ে এই নাম। পেৰ'ক্সিছ'মে অক্সিডেটিভ বিক্ৰিয়া চম্ভালে, বৃহৎ হজম নহয়।"
+    }
   }
 ]

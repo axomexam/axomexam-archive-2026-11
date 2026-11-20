@@ -988,5 +988,408 @@
       "en": "Type II pneumocytes secrete the phospholipid surfactant. Type I pneumocytes form the thin surface across which oxygen and carbon dioxide diffuse.",
       "as": "দ্বিতীয় প্ৰকাৰৰ নিউম'চাইটে ফছফ'লিপিড ছাৰফেক্টেণ্ট নিঃসৰণ কৰে। প্ৰথম প্ৰকাৰৰ নিউম'চাইটে সেই পাতল পৃষ্ঠ গঢ়ে যাৰ মাজেৰে অক্সিজেন আৰু কাৰ্বন ডাইঅক্সাইড বিয়পি যায়।"
     }
+  },
+  {
+    "id": "biology-328",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The normal resting heart rate of an adult human is about",
+      "as": "এজন প্ৰাপ্তবয়স্ক মানুহৰ স্বাভাৱিক বিশ্ৰামকালীন হৃৎস্পন্দনৰ হাৰ প্ৰায় কিমান"
+    },
+    "options": [
+      {
+        "en": "72 beats per minute",
+        "as": "মিনিটত ৭২ বাৰ"
+      },
+      {
+        "en": "40 beats per minute",
+        "as": "মিনিটত ৪০ বাৰ"
+      },
+      {
+        "en": "120 beats per minute",
+        "as": "মিনিটত ১২০ বাৰ"
+      },
+      {
+        "en": "150 beats per minute",
+        "as": "মিনিটত ১৫০ বাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A healthy adult heart beats about seventy-two times a minute at rest. Forty is bradycardia, while 120 and 150 are rates seen during exercise or fever.",
+      "as": "সুস্থ প্ৰাপ্তবয়স্কৰ হৃদয়ে বিশ্ৰামত মিনিটত প্ৰায় বাহাত্তৰ বাৰ স্পন্দন কৰে। চল্লিশ ব্ৰেডিকাৰ্ডিয়া, আৰু ১২০ তথা ১৫০ ব্যায়াম বা জ্বৰৰ হাৰ।"
+    }
+  },
+  {
+    "id": "biology-329",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The part of the nephron where most reabsorption of glucose and amino acids takes place is the",
+      "as": "নেফ্ৰনৰ যি অংশত গ্লুক'জ আৰু এমিন' অ্যাসিডৰ বেছিভাগ পুনৰ্শোষণ হয়"
+    },
+    "options": [
+      {
+        "en": "proximal convoluted tubule",
+        "as": "সমীপ কুঁচিত নলিকা"
+      },
+      {
+        "en": "distal convoluted tubule",
+        "as": "দূৰ কুঁচিত নলিকা"
+      },
+      {
+        "en": "collecting duct",
+        "as": "সংগ্ৰাহক নলী"
+      },
+      {
+        "en": "Bowman's capsule",
+        "as": "ব'মেনৰ কেপচুল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The proximal tubule has a brush border rich in carriers and reclaims nearly all glucose and amino acids. The distal tubule fine-tunes ions and the collecting duct adjusts water.",
+      "as": "সমীপ নলিকাৰ ব্ৰাছ সীমাত বাহক প্ৰচুৰ, যি প্ৰায় সকলো গ্লুক'জ আৰু এমিন' অ্যাসিড ঘূৰাই লয়। দূৰ নলিকাই আয়ন সূক্ষ্মভাৱে ঠিক কৰে আৰু সংগ্ৰাহক নলীয়ে পানী সমন্বয় কৰে।"
+    }
+  },
+  {
+    "id": "biology-330",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Which enzyme in the stomach begins the digestion of proteins?",
+      "as": "পেটত কোনটো এনজাইমে প্ৰ'টিনৰ হজম আৰম্ভ কৰে"
+    },
+    "options": [
+      {
+        "en": "pepsin",
+        "as": "পেপছিন"
+      },
+      {
+        "en": "trypsin",
+        "as": "ট্ৰিপছিন"
+      },
+      {
+        "en": "amylase",
+        "as": "এমাইলেজ"
+      },
+      {
+        "en": "lipase",
+        "as": "লাইপেজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pepsin is secreted as pepsinogen and works in the acidic stomach to break proteins into peptides. Trypsin acts in the small intestine, amylase on starch and lipase on fat.",
+      "as": "পেপছিন পেপছিন'জেন হিচাপে নিঃসৃত হয় আৰু অ্যাসিডিক পেটত কাম কৰি প্ৰ'টিনক পেপটাইডলৈ ভাঙে। ট্ৰিপছিন ক্ষুদ্ৰান্ত্ৰত, এমাইলেজ ষ্টাৰ্চত আৰু লাইপেজ চৰ্বিত ক্ৰিয়া কৰে।"
+    }
+  },
+  {
+    "id": "biology-331",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The hormone that lowers blood glucose by promoting its uptake into cells is",
+      "as": "কোষত গ্লুক'জ গ্ৰহণ বঢ়াই ৰক্ত গ্লুক'জ কমোৱা হৰম'নটো কি"
+    },
+    "options": [
+      {
+        "en": "insulin",
+        "as": "ইনছুলিন"
+      },
+      {
+        "en": "glucagon",
+        "as": "গ্লুকাগন"
+      },
+      {
+        "en": "adrenaline",
+        "as": "এড্ৰিনেলিন"
+      },
+      {
+        "en": "cortisol",
+        "as": "কৰ্টিছল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Insulin from the beta cells of the pancreas moves glucose into cells and stores the excess as glycogen. Glucagon, adrenaline and cortisol all raise blood glucose.",
+      "as": "অগ্ন্যাশয়ৰ বিটা কোষৰ ইনছুলিনে গ্লুক'জক কোষলৈ লৈ যায় আৰু অতিৰিক্তখিনি গ্লাইক'জেন হিচাপে সাঁচি ৰাখে। গ্লুকাগন, এড্ৰিনেলিন আৰু কৰ্টিছলে ৰক্ত গ্লুক'জ বঢ়ায়।"
+    }
+  },
+  {
+    "id": "biology-332",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The exchange of gases between blood and tissue cells takes place through",
+      "as": "ৰক্ত আৰু কলা কোষৰ মাজত গেছ বিনিময় কিৰ জৰিয়তে হয়"
+    },
+    "options": [
+      {
+        "en": "capillary walls",
+        "as": "কেশিকা নলীৰ বেৰ"
+      },
+      {
+        "en": "artery walls",
+        "as": "ধমনীৰ বেৰ"
+      },
+      {
+        "en": "vein valves",
+        "as": "শিৰাৰ কপাট"
+      },
+      {
+        "en": "lymph nodes",
+        "as": "লসিকা গ্ৰন্থি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Capillaries are only one cell thick, so oxygen and carbon dioxide diffuse easily between blood and tissue. Arteries and veins have thick walls suited to transport, not exchange.",
+      "as": "কেশিকা নলী কেৱল এটা কোষ ডাঠ, সেয়ে অক্সিজেন আৰু কাৰ্বন ডাইঅক্সাইড ৰক্ত আৰু কলাৰ মাজত সহজে বিচৰণ কৰে। ধমনী আৰু শিৰাৰ বেৰ ডাঠ, যি পৰিবহনৰ বাবে উপযুক্ত, বিনিময়ৰ নহয়।"
+    }
+  },
+  {
+    "id": "biology-333",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Blood pressure is measured with an instrument called the",
+      "as": "ৰক্তচাপ কি যন্ত্ৰৰে জোখা হয়"
+    },
+    "options": [
+      {
+        "en": "sphygmomanometer",
+        "as": "স্ফিগম'মেন'মিটাৰ"
+      },
+      {
+        "en": "stethoscope",
+        "as": "ষ্টেথ'স্কোপ"
+      },
+      {
+        "en": "spirometer",
+        "as": "স্পাইৰ'মিটাৰ"
+      },
+      {
+        "en": "haemocytometer",
+        "as": "হিম'চাইট'মিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A sphygmomanometer with an inflatable cuff gives the systolic and diastolic readings. A stethoscope listens to body sounds and a spirometer measures lung volumes.",
+      "as": "স্ফীত কৰিব পৰা কাফযুক্ত স্ফিগম'মেন'মিটাৰে সিষ্ট'লিক আৰু ডায়াষ্ট'লিক পঢ়া দিয়ে। ষ্টেথ'স্কোপে শৰীৰৰ শব্দ শুনে আৰু স্পাইৰ'মিটাৰে ফুসফুসৰ আয়তন জোখে।"
+    }
+  },
+  {
+    "id": "biology-334",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The largest artery in the human body is the",
+      "as": "মানুহৰ শৰীৰৰ আটাইতকৈ ডাঙৰ ধমনীটো কি"
+    },
+    "options": [
+      {
+        "en": "aorta",
+        "as": "মহাধমনী"
+      },
+      {
+        "en": "pulmonary artery",
+        "as": "ফুসফুসীয় ধমনী"
+      },
+      {
+        "en": "carotid artery",
+        "as": "কণ্ঠধমনী"
+      },
+      {
+        "en": "femoral artery",
+        "as": "ঊৰুধমনী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The aorta leaves the left ventricle and distributes oxygenated blood to the whole body, making it the largest artery. The carotid and femoral arteries are branches of it.",
+      "as": "মহাধমনীয়ে বাওঁ নিলয়ৰপৰা ওলাই গোটেই শৰীৰলৈ অক্সিজেনযুক্ত ৰক্ত বিতৰণ কৰে, সেয়ে ই আটাইতকৈ ডাঙৰ। কণ্ঠধমনী আৰু ঊৰুধমনী ইয়াৰ শাখা।"
+    }
+  },
+  {
+    "id": "biology-335",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Which blood cells are chiefly responsible for immunity?",
+      "as": "ৰোগ প্ৰতিৰক্ষাৰ বাবে মূলতঃ কোন ৰক্তকণিকা দায়ী"
+    },
+    "options": [
+      {
+        "en": "white blood cells",
+        "as": "শ্বেত ৰক্তকণিকা"
+      },
+      {
+        "en": "red blood cells",
+        "as": "লোহিত ৰক্তকণিকা"
+      },
+      {
+        "en": "platelets",
+        "as": "অণুচক্ৰিকা"
+      },
+      {
+        "en": "plasma cells only",
+        "as": "কেৱল প্লাজমা কোষ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "White cells, chiefly lymphocytes and phagocytes, recognise and destroy pathogens. Red cells carry oxygen and platelets assist clotting.",
+      "as": "শ্বেত কণিকা, মূলতঃ লিম্ফ'চাইট আৰু ভক্ষককোষে ৰোগজীৱ চিনি নষ্ট কৰে। লোহিত কণিকাই অক্সিজেন কঢ়িয়ায় আৰু অণুচক্ৰিকাই জমাত সহায় কৰে।"
+    }
+  },
+  {
+    "id": "biology-336",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The part of the human digestive tract where most absorption of digested food occurs is the",
+      "as": "মানুহৰ পাচন নলীৰ যি অংশত হজম হোৱা খাদ্যৰ বেছিভাগ শোষণ হয়"
+    },
+    "options": [
+      {
+        "en": "small intestine",
+        "as": "ক্ষুদ্ৰান্ত্ৰ"
+      },
+      {
+        "en": "large intestine",
+        "as": "বৃহদান্ত্ৰ"
+      },
+      {
+        "en": "stomach",
+        "as": "পেট"
+      },
+      {
+        "en": "oesophagus",
+        "as": "খাদ্যনলী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Villi and microvilli of the small intestine give an enormous surface for absorbing nutrients. The large intestine mainly absorbs water and the stomach begins protein digestion.",
+      "as": "ক্ষুদ্ৰান্ত্ৰৰ ভিলাছ আৰু মাইক্ৰ'ভিলাছে পুষ্টি শোষণৰ বাবে বিশাল পৃষ্ঠ দিয়ে। বৃহদান্ত্ৰই মূলতঃ পানী শোষে আৰু পেটে প্ৰ'টিনৰ হজম আৰম্ভ কৰে।"
+    }
+  },
+  {
+    "id": "biology-337",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The number of lobes in the human right lung is",
+      "as": "মানুহৰ সোঁ ফুসফুসত কিমানটা খণ্ড থাকে"
+    },
+    "options": [
+      {
+        "en": "three",
+        "as": "তিনিটা"
+      },
+      {
+        "en": "two",
+        "as": "দুটা"
+      },
+      {
+        "en": "four",
+        "as": "চাৰিটা"
+      },
+      {
+        "en": "one",
+        "as": "এটা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The right lung has three lobes and the left two, because the heart takes space on the left side. This asymmetry is a common examination point.",
+      "as": "সোঁ ফুসফুসত তিনিটা খণ্ড আৰু বাওঁটোত দুটা, কাৰণ হৃদয়ে বাওঁফালে ঠাই লয়। এই অসমতা পৰীক্ষাৰ সাধাৰণ বিন্দু।"
+    }
+  },
+  {
+    "id": "biology-338",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The hormone secreted by the adrenal medulla that prepares the body for emergencies is",
+      "as": "শৰীৰক জৰুৰী অৱস্থাৰ বাবে সাজু কৰা এড্ৰিনেল মেডুলাৰ হৰম'নটো কি"
+    },
+    "options": [
+      {
+        "en": "adrenaline",
+        "as": "এড্ৰিনেলিন"
+      },
+      {
+        "en": "insulin",
+        "as": "ইনছুলিন"
+      },
+      {
+        "en": "thyroxine",
+        "as": "থাইৰক্সিন"
+      },
+      {
+        "en": "oestrogen",
+        "as": "ইষ্ট্ৰ'জেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Adrenaline raises heart rate, blood glucose and blood flow to muscles in the fight-or-flight response. Insulin lowers glucose and thyroxine sets metabolic rate.",
+      "as": "এড্ৰিনেলিনে সংঘৰ্ষ-বা-পলায়ন সঁহাৰিত হৃৎস্পন্দন, ৰক্ত গ্লুক'জ আৰু পেশীলৈ ৰক্ত প্ৰবাহ বঢ়ায়। ইনছুলিনে গ্লুক'জ কমায় আৰু থাইৰক্সিনে বিপাক হাৰ ঠিক কৰে।"
+    }
+  },
+  {
+    "id": "biology-339",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Which structure prevents food from entering the windpipe during swallowing?",
+      "as": "গিলি থকাৰ সময়ত খাদ্য শ্বাসনলীত সোমোৱাৰ পৰা কি গঠনে বাধা দিয়ে"
+    },
+    "options": [
+      {
+        "en": "epiglottis",
+        "as": "এপিগ্লটিছ"
+      },
+      {
+        "en": "uvula",
+        "as": "আলজিহ্বা"
+      },
+      {
+        "en": "larynx",
+        "as": "স্বৰযন্ত্ৰ"
+      },
+      {
+        "en": "pharynx",
+        "as": "গলবিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The epiglottis folds down over the larynx so the bolus passes into the oesophagus. The uvula and pharynx are part of the throat but do not seal the airway.",
+      "as": "এপিগ্লটিছ স্বৰযন্ত্ৰৰ ওপৰত ভাঁজ খাই পৰে যাতে খাদ্যপিণ্ড খাদ্যনলীত যায়। আলজিহ্বা আৰু গলবিল ডিঙিৰ অংশ, কিন্তু শ্বাসপথ বন্ধ নকৰে।"
+    }
+  },
+  {
+    "id": "biology-340",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The principal nitrogenous waste excreted in human urine is",
+      "as": "মানুহৰ প্ৰস্ৰাৱত বৰ্জিত মূল নাইট্ৰজেনযুক্ত বৰ্জন কি"
+    },
+    "options": [
+      {
+        "en": "urea",
+        "as": "ইউৰিয়া"
+      },
+      {
+        "en": "ammonia",
+        "as": "এম'নিয়া"
+      },
+      {
+        "en": "uric acid",
+        "as": "ইউৰিক অ্যাসিড"
+      },
+      {
+        "en": "creatinine only",
+        "as": "কেৱল ক্ৰিয়েটিনিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The human liver converts ammonia to the less toxic urea, which the kidney excretes. Ammonia is the waste of fish and uric acid that of birds and reptiles.",
+      "as": "মানুহৰ যকৃয়ে এম'নিয়াক কম বিষাক্ত ইউৰিয়ালৈ ৰূপান্তৰ কৰে, যি বৃক্কই বৰ্জন কৰে। এম'নিয়া মাছৰ আৰু ইউৰিক অ্যাসিড চৰাই তথা সৰীসৃপৰ বৰ্জন।"
+    }
   }
 ]

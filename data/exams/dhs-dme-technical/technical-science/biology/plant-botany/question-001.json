@@ -478,5 +478,439 @@
       "en": "The vascular cambium cuts off xylem towards the inside and phloem towards the outside. The cork cambium makes periderm, not conducting tissue.",
       "as": "ভাস্কুলাৰ কেম্বিয়ামে ভিতৰলৈ জাইলেম আৰু বাহিৰলৈ ফ্ল'য়েম কাটি দিয়ে। কৰ্ক কেম্বিয়ামে পেৰিডাৰ্ম গঢ়ে, পৰিবহন কলা নহয়।"
     }
+  },
+  {
+    "id": "biology-273",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The tissue that conducts water and dissolved minerals upward in a plant is",
+      "as": "উদ্ভিদত ওপৰমুৱাকৈ পানী আৰু দ্ৰৱীভূত খনিজ পৰিবহন কৰা কলাটো কি"
+    },
+    "options": [
+      {
+        "en": "xylem",
+        "as": "জাইলেম"
+      },
+      {
+        "en": "phloem",
+        "as": "ফ্ল'এম"
+      },
+      {
+        "en": "cambium",
+        "as": "কেম্বিয়াম"
+      },
+      {
+        "en": "epidermis",
+        "as": "এপিডাৰ্মিছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Xylem vessels and tracheids carry water and minerals from the root to the shoot. Phloem carries sugars, cambium makes new vascular tissue and epidermis is the outer covering.",
+      "as": "জাইলেম বাহিকা আৰু ট্ৰেকিডে মূলৰপৰা কাণ্ডলৈ পানী আৰু খনিজ কঢ়িয়ায়। ফ্ল'এমে শৰ্কৰা, কেম্বিয়ামে নতুন ভাস্কুলাৰ কলা বনায় আৰু এপিডাৰ্মিছ বাহিৰৰ আৱৰণ।"
+    }
+  },
+  {
+    "id": "biology-274",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The loss of water as vapour from the aerial parts of a plant is called",
+      "as": "উদ্ভিদৰ বায়বীয় অংশৰপৰা ভাপ হিচাপে পানী হেৰুওৱাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "transpiration",
+        "as": "বাষ্পোৎসৰ্জন"
+      },
+      {
+        "en": "respiration",
+        "as": "শ্বসন"
+      },
+      {
+        "en": "guttation",
+        "as": "নিঃস্ৰৱণ"
+      },
+      {
+        "en": "translocation",
+        "as": "স্থানান্তৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Transpiration is loss of water vapour, mostly through stomata, and it pulls the water column up. Guttation is loss of liquid water droplets from leaf tips.",
+      "as": "বাষ্পোৎসৰ্জন মূলতঃ ৰন্ধ্ৰৰে পানীৰ ভাপ হেৰুওৱা আৰু ই পানীৰ স্তম্ভ ওপৰলৈ টানে। নিঃস্ৰৱণ পাতৰ আগৰপৰা জুলীয়া পানীৰ টোপাল হেৰুওৱা।"
+    }
+  },
+  {
+    "id": "biology-275",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The process by which plants lose liquid water droplets from the tips of leaves is called",
+      "as": "উদ্ভিদে পাতৰ আগৰপৰা জুলীয়া পানীৰ টোপাল হেৰুওৱা প্ৰক্ৰিয়াক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "guttation",
+        "as": "নিঃস্ৰৱণ"
+      },
+      {
+        "en": "transpiration",
+        "as": "বাষ্পোৎসৰ্জন"
+      },
+      {
+        "en": "exudation",
+        "as": "ৰসক্ষৰণ"
+      },
+      {
+        "en": "imbibition",
+        "as": "অৱশোষণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Guttation releases liquid droplets through hydathodes when root pressure is high. Transpiration releases vapour, so the two differ in the state of the water lost.",
+      "as": "মূল চাপ বেছি হ'লে নিঃস্ৰৱণে হাইডাথ'ডৰ জৰিয়তে জুলীয়া টোপাল এৰে। বাষ্পোৎসৰ্জনে ভাপ এৰে, সেয়ে দুয়োটা হেৰুওৱা পানীৰ অৱস্থাত বেলেগ।"
+    }
+  },
+  {
+    "id": "biology-276",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The male reproductive part of a flower is the",
+      "as": "ফুলৰ পুং প্ৰজনন অংগটো কি"
+    },
+    "options": [
+      {
+        "en": "stamen",
+        "as": "পুংকেশৰ"
+      },
+      {
+        "en": "carpel",
+        "as": "গৰ্ভকেশৰ"
+      },
+      {
+        "en": "sepal",
+        "as": "বৃতি"
+      },
+      {
+        "en": "petal",
+        "as": "দল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The stamen consists of an anther and a filament and produces pollen. The carpel is the female part, while sepals and petals are accessory whorls.",
+      "as": "পুংকেশৰত পৰাগপুট আৰু পুংদণ্ড থাকে আৰু পৰাগ উৎপন্ন কৰে। গৰ্ভকেশৰ মাদী অংশ, আৰু বৃতি তথা দল সহায়ক চক্ৰ।"
+    }
+  },
+  {
+    "id": "biology-277",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Double fertilisation, in which one male gamete fuses with the egg and another with two polar nuclei, occurs in",
+      "as": "দুটা পুং গেমেটৰ এটা ডিম্বৰ লগত আৰু আনটো দুটা ধ্ৰুৱক নিউক্লিয়াছৰ লগত মিলা দ্বিনিষেচন ক'ত ঘটে"
+    },
+    "options": [
+      {
+        "en": "angiosperms",
+        "as": "আৱৃতবীজী"
+      },
+      {
+        "en": "gymnosperms",
+        "as": "অনাবৃতবীজী"
+      },
+      {
+        "en": "bryophytes",
+        "as": "ব্ৰায়'ফাইট"
+      },
+      {
+        "en": "pteridophytes",
+        "as": "টেৰিড'ফাইট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Double fertilisation is unique to flowering plants and produces both the embryo and the triploid endosperm. Gymnosperms lack it, so they form endosperm before fertilisation.",
+      "as": "দ্বিনিষেচন কেৱল সপুষ্পক উদ্ভিদৰ নিজস্ব আৰু ই ভ্ৰূণ আৰু ত্ৰিগুণ এণ্ড'স্পাৰ্ম দুয়োটা উৎপন্ন কৰে। অনাবৃতবীজীত ই নাই, সেয়ে তেওঁলোকে নিষেচনৰ আগতে এণ্ড'স্পাৰ্ম গঢ়ে।"
+    }
+  },
+  {
+    "id": "biology-278",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The green alga from which agar is obtained is",
+      "as": "যি শেলাইৰপৰা আগৰ পোৱা যায়"
+    },
+    "options": [
+      {
+        "en": "Gelidium",
+        "as": "জেলিডিয়াম"
+      },
+      {
+        "en": "Spirogyra",
+        "as": "স্পাইৰ'গাইৰা"
+      },
+      {
+        "en": "Ulothrix",
+        "as": "ইউলথ্ৰিক্স"
+      },
+      {
+        "en": "Chlamydomonas",
+        "as": "ক্লেমাইড'ম'নাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Agar is extracted from red algae such as Gelidium and Gracilaria for use in culture media. Spirogyra, Ulothrix and Chlamydomonas are green algae used in studies, not agar sources.",
+      "as": "আগ জেলিডিয়াম আৰু গ্ৰেছিলেৰিয়াৰ দৰে ৰঙা শেলাইৰপৰা উলিয়াই কলা মাধ্যমত ব্যৱহাৰ কৰা হয়। স্পাইৰ'গাইৰা, ইউলথ্ৰিক্স আৰু ক্লেমাইড'ম'নাছ অধ্যয়নত ব্যৱহৃত সেউজ শেলাই, আগৰ উৎস নহয়।"
+    }
+  },
+  {
+    "id": "biology-279",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The plant hormone responsible for cell elongation and phototropism is",
+      "as": "কোষ দীঘল হোৱা আৰু পোহৰ-অভিমুখিতাৰ বাবে দায়ী উদ্ভিদ হৰম'নটো কি"
+    },
+    "options": [
+      {
+        "en": "auxin",
+        "as": "অক্সিন"
+      },
+      {
+        "en": "abscisic acid",
+        "as": "এবছিছিক অ্যাসিড"
+      },
+      {
+        "en": "ethylene",
+        "as": "ইথাইলিন"
+      },
+      {
+        "en": "cytokinin",
+        "as": "ছাইট'কাইনিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Auxin accumulates on the shaded side and makes those cells elongate, bending the shoot towards light. Abscisic acid closes stomata and ethylene ripens fruit.",
+      "as": "অক্সিন ছাঁ পৰা ফালে জমা হৈ সেই কোষবোৰ দীঘল কৰে, যিয়ে কাণ্ড পোহৰলৈ বেঁকা কৰে। এবছিছিক অ্যাসিডে ৰন্ধ্ৰ বন্ধ কৰে আৰু ইথাইলিনে ফল পকায়।"
+    }
+  },
+  {
+    "id": "biology-280",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The plant hormone that promotes fruit ripening is",
+      "as": "ফল পকোৱাত সহায় কৰা উদ্ভিদ হৰম'নটো কি"
+    },
+    "options": [
+      {
+        "en": "ethylene",
+        "as": "ইথাইলিন"
+      },
+      {
+        "en": "auxin",
+        "as": "অক্সিন"
+      },
+      {
+        "en": "gibberellin",
+        "as": "জিবেৰেলিন"
+      },
+      {
+        "en": "cytokinin",
+        "as": "ছাইট'কাইনিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ethylene is a gaseous hormone that hastens ripening and is used commercially to ripen bananas and tomatoes. Auxin and gibberellin promote growth rather than ripening.",
+      "as": "ইথাইলিন এটা গেছীয় হৰম'ন যি পকন ত্বৰান্বিত কৰে আৰু কল আৰু বিলাহী পকাবলৈ বাণিজ্যিকভাৱে ব্যৱহৃত হয়। অক্সিন আৰু জিবেৰেলিনে বৃদ্ধি বঢ়ায়, পকন নহয়।"
+    }
+  },
+  {
+    "id": "biology-281",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Rhizome, corm, tuber and bulb are all examples of",
+      "as": "ৰাইজ'ম, কৰ্ম, কন্দ আৰু বাল্ব সকলো কিৰ উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "underground stem modifications",
+        "as": "ভূগৰ্ভস্থ কাণ্ডৰ ৰূপান্তৰ"
+      },
+      {
+        "en": "root modifications",
+        "as": "মূলৰ ৰূপান্তৰ"
+      },
+      {
+        "en": "leaf modifications",
+        "as": "পাতৰ ৰূপান্তৰ"
+      },
+      {
+        "en": "flower modifications",
+        "as": "ফুলৰ ৰূপান্তৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "All four are swollen underground stems that store food and bear nodes and buds, which is why they can give rise to new plants. Root tubers and leaf spines are separate modifications.",
+      "as": "চাৰিওটা স্ফীত ভূগৰ্ভস্থ কাণ্ড যি খাদ্য সাঁচি ৰাখে আৰু গাঁঠি তথা কলি ধৰে, সেয়ে ইহঁতৰপৰা নতুন উদ্ভিদ হ'ব পাৰে। মূল কন্দ আৰু পাতৰ কাঁইট বেলেগ ৰূপান্তৰ।"
+    }
+  },
+  {
+    "id": "biology-282",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The region of the root where water and mineral absorption takes place is the",
+      "as": "মূলৰ যি অঞ্চলত পানী আৰু খনিজ শোষণ হয়"
+    },
+    "options": [
+      {
+        "en": "zone of maturation, bearing root hairs",
+        "as": "পৰিপক্ব অঞ্চল, মূল ৰোমযুক্ত"
+      },
+      {
+        "en": "root cap",
+        "as": "মূল ঢাকনি"
+      },
+      {
+        "en": "meristematic zone",
+        "as": "বিভাজনমূলক অঞ্চল"
+      },
+      {
+        "en": "zone of elongation",
+        "as": "দীৰ্ঘীভৱন অঞ্চল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Root hairs in the zone of maturation greatly increase the absorbing surface. The root cap protects the tip and the meristematic zone divides to lengthen the root.",
+      "as": "পৰিপক্ব অঞ্চলৰ মূল ৰোমে শোষণ পৃষ্ঠ বহু বঢ়ায়। মূল ঢাকনিয়ে আগটো ৰক্ষা কৰে আৰু বিভাজনমূলক অঞ্চলে বিভাজিত হৈ মূল দীঘল কৰে।"
+    }
+  },
+  {
+    "id": "biology-283",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Which of the following is a dicotyledonous plant?",
+      "as": "তলৰ কোনটো দ্বিবীজপত্ৰী উদ্ভিদ"
+    },
+    "options": [
+      {
+        "en": "Mustard",
+        "as": "সৰিয়হ"
+      },
+      {
+        "en": "Rice",
+        "as": "ধান"
+      },
+      {
+        "en": "Wheat",
+        "as": "গম"
+      },
+      {
+        "en": "Maize",
+        "as": "মাকৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mustard has two cotyledons, a tap root and reticulate leaf venation. Rice, wheat and maize are monocots with one cotyledon and parallel venation.",
+      "as": "সৰিয়হত দুটা বীজপত্ৰ, মূলা মূল আৰু জালিকাৰ নাড়ী বিন্যাস থাকে। ধান, গম আৰু মাকৈ একবীজপত্ৰী, য'ত এটা বীজপত্ৰ আৰু সমান্তৰাল নাড়ী বিন্যাস।"
+    }
+  },
+  {
+    "id": "biology-284",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The phenomenon in which the opening of stomata is promoted by a rise in the potassium ion content of guard cells is called",
+      "as": "ৰক্ষী কোষত পটাছিয়াম আয়ন বাঢ়িলে ৰন্ধ্ৰ খোলা পৰিঘটনাটোক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "stomatal opening by ion uptake",
+        "as": "আয়ন গ্ৰহণে ৰন্ধ্ৰ খোলা"
+      },
+      {
+        "en": "wilting",
+        "as": "ম্লান হোৱা"
+      },
+      {
+        "en": "photorespiration",
+        "as": "পোহৰশ্বসন"
+      },
+      {
+        "en": "imbibition",
+        "as": "অৱশোষণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Potassium ions enter guard cells, water follows osmotically, the cells become turgid and the pore opens. Wilting is the opposite condition of low turgor.",
+      "as": "পটাছিয়াম আয়ন ৰক্ষী কোষত সোমায়, পানী অভিস্ৰৱণে অনুসৰণ কৰে, কোষ স্ফীত হয় আৰু ৰন্ধ্ৰ খোলে। ম্লান হোৱা কম স্ফীতিৰ ওলোটা অৱস্থা।"
+    }
+  },
+  {
+    "id": "biology-285",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Which of the following is a carnivorous plant?",
+      "as": "তলৰ কোনটো মাংসভোজী উদ্ভিদ"
+    },
+    "options": [
+      {
+        "en": "Pitcher plant",
+        "as": "কলসী উদ্ভিদ"
+      },
+      {
+        "en": "Sunflower",
+        "as": "সূৰ্যমুখী"
+      },
+      {
+        "en": "Tulsi",
+        "as": "তুলসী"
+      },
+      {
+        "en": "Banyan",
+        "as": "বৰগছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pitcher plant traps insects in a fluid-filled pitcher and digests them to obtain nitrogen. Sunflower, tulsi and banyan are ordinary photosynthetic plants.",
+      "as": "কলসী উদ্ভিদে পতংগক জুলীয়া কলসীত আবদ্ধ কৰি হজম কৰি নাইট্ৰজেন পায়। সূৰ্যমুখী, তুলসী আৰু বৰগছ সাধাৰণ সালোক সংশ্লেষণকাৰী উদ্ভিদ।"
+    }
+  },
+  {
+    "id": "biology-286",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The transfer of pollen from the anther to the stigma of the same flower is called",
+      "as": "একেই ফুলৰ পৰাগপুটৰপৰা গৰ্ভমুণ্ডলৈ পৰাগ যোৱাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "self pollination",
+        "as": "স্ব-পৰাগযোগ"
+      },
+      {
+        "en": "cross pollination",
+        "as": "পৰ-পৰাগযোগ"
+      },
+      {
+        "en": "apomixis",
+        "as": "অপমিক্সিছ"
+      },
+      {
+        "en": "cleistogamy only",
+        "as": "কেৱল ক্লাইষ্ট'গেমি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Self pollination happens within one flower or between flowers of the same plant. Cross pollination needs pollen to reach a different plant.",
+      "as": "স্ব-পৰাগযোগ এটা ফুলৰ ভিতৰত বা একেই উদ্ভিদৰ ফুলৰ মাজত হয়। পৰ-পৰাগযোগত পৰাগ বেলেগ উদ্ভিদলৈ যাব লাগে।"
+    }
   }
 ]

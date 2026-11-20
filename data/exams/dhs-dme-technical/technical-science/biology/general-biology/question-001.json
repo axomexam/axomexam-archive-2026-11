@@ -298,5 +298,625 @@
       "en": "One partner gains and the other is neither helped nor harmed, which is commensalism. Mutualism would require both to gain.",
       "as": "এটা অংশীয়ে লাভ পায় আনটোৰ লাভো নহয় ক্ষতিও নহয়, সেয়াই সহভোজীতা। পৰস্পৰবাদত দুয়োটাই লাভ পোৱা লাগে।"
     }
+  },
+  {
+    "id": "biology-204",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The branch of biology that deals with the study of tissues is called",
+      "as": "কলা অধ্যয়ন কৰা জীৱবিজ্ঞানৰ শাখাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "histology",
+        "as": "হিষ্ট'লজি"
+      },
+      {
+        "en": "cytology",
+        "as": "চাইট'লজি"
+      },
+      {
+        "en": "morphology",
+        "as": "আকৃতিবিজ্ঞান"
+      },
+      {
+        "en": "physiology",
+        "as": "শৰীৰবিজ্ঞান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Histology is the study of tissues, cytology of cells, morphology of external form and physiology of functions. The four are distinct levels of organisation.",
+      "as": "হিষ্ট'লজি কলাৰ অধ্যয়ন, চাইট'লজি কোষৰ, আকৃতিবিজ্ঞানে বাহ্য ৰূপৰ আৰু শৰীৰবিজ্ঞানে কাৰ্যৰ। এই চাৰিটা সংগঠনৰ পৃথক স্তৰ।"
+    }
+  },
+  {
+    "id": "biology-205",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The scientific study of the classification of organisms is called",
+      "as": "জীৱৰ শ্ৰেণীবিভাগৰ বৈজ্ঞানিক অধ্যয়নক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "taxonomy",
+        "as": "শ্ৰেণীবিভাগ বিজ্ঞান"
+      },
+      {
+        "en": "ecology",
+        "as": "পৰিৱেশ বিজ্ঞান"
+      },
+      {
+        "en": "embryology",
+        "as": "ভ্ৰূণবিজ্ঞান"
+      },
+      {
+        "en": "palaeontology",
+        "as": "জীৱাশ্মবিজ্ঞান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Taxonomy covers identification, nomenclature and classification of organisms. Ecology studies organisms and their surroundings, embryology development and palaeontology fossils.",
+      "as": "শ্ৰেণীবিভাগ বিজ্ঞানে জীৱ চিনাক্তকৰণ, নামকৰণ আৰু শ্ৰেণীবিভাগ সামৰি লয়। পৰিৱেশ বিজ্ঞানে জীৱ আৰু পৰিৱেশ, ভ্ৰূণবিজ্ঞানে বিকাশ আৰু জীৱাশ্মবিজ্ঞানে জীৱাশ্ম অধ্যয়ন কৰে।"
+    }
+  },
+  {
+    "id": "biology-206",
+    "leaf": "general-biology",
+    "q": {
+      "en": "In binomial nomenclature the first word of a scientific name denotes the",
+      "as": "দ্বিপদ নামকৰণত বৈজ্ঞানিক নামৰ প্ৰথম শব্দই কি সূচায়"
+    },
+    "options": [
+      {
+        "en": "genus",
+        "as": "গণ"
+      },
+      {
+        "en": "species",
+        "as": "প্ৰজাতি"
+      },
+      {
+        "en": "family",
+        "as": "পৰিয়াল"
+      },
+      {
+        "en": "order",
+        "as": "বৰ্গ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The first word is the genus and is written with a capital letter, the second is the species in small letters. Family and order are higher ranks that sit above the genus.",
+      "as": "প্ৰথম শব্দটো গণ, যি ডাঙৰ আখৰেৰে লিখা হয়, দ্বিতীয়টো প্ৰজাতি সৰু আখৰেৰে। পৰিয়াল আৰু বৰ্গ গণৰ ওপৰৰ উচ্চ শ্ৰেণী।"
+    }
+  },
+  {
+    "id": "biology-207",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which of the following is the correct sequence of taxonomic ranks from the largest to the smallest?",
+      "as": "তলৰ কোনটো শ্ৰেণীবিভাগৰ শ্ৰেণীসমূহৰ ডাঙৰৰপৰা সৰুলৈ শুদ্ধ ক্ৰম"
+    },
+    "options": [
+      {
+        "en": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "as": "জগত, পৰ্ব, শ্ৰেণী, বৰ্গ, পৰিয়াল, গণ, প্ৰজাতি"
+      },
+      {
+        "en": "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "as": "প্ৰজাতি, গণ, পৰিয়াল, বৰ্গ, শ্ৰেণী, পৰ্ব, জগত"
+      },
+      {
+        "en": "Kingdom, Class, Phylum, Family, Order, Genus, Species",
+        "as": "জগত, শ্ৰেণী, পৰ্ব, পৰিয়াল, বৰ্গ, গণ, প্ৰজাতি"
+      },
+      {
+        "en": "Phylum, Kingdom, Order, Class, Genus, Family, Species",
+        "as": "পৰ্ব, জগত, বৰ্গ, শ্ৰেণী, গণ, পৰিয়াল, প্ৰজাতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The accepted hierarchy narrows from kingdom down through phylum, class, order, family and genus to species. Placing class before phylum or order before class breaks the nesting.",
+      "as": "স্বীকৃত শ্ৰেণীবিভাগ জগতৰপৰা পৰ্ব, শ্ৰেণী, বৰ্গ, পৰিয়াল, গণ হৈ প্ৰজাতিলৈ সংকীৰ্ণ হয়। শ্ৰেণীক পৰ্বৰ আগত বা বৰ্গক শ্ৰেণীৰ আগত ৰখিলে ক্ৰম ভাঙে।"
+    }
+  },
+  {
+    "id": "biology-208",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Organisms whose cells contain a true nucleus and membrane-bound organelles belong to the kingdom-level group called",
+      "as": "সত্য নিউক্লিয়াছ আৰু পৰ্দাবদ্ধ অংগাণু থকা জীৱই কি জগত-স্তৰৰ গোটত পৰে"
+    },
+    "options": [
+      {
+        "en": "Eukaryota",
+        "as": "ইউকাৰ্য'টা"
+      },
+      {
+        "en": "Bacteria",
+        "as": "বেক্টেৰিয়া"
+      },
+      {
+        "en": "Archaea",
+        "as": "আৰ্কিয়া"
+      },
+      {
+        "en": "Protista only",
+        "as": "কেৱল প্ৰ'টিষ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Eukaryota is the domain uniting all cells with a nuclear envelope, which includes protists, fungi, plants and animals. Bacteria and Archaea are prokaryotic, so Protista alone would exclude plants and animals.",
+      "as": "ইউকাৰ্য'টা হ'ল সেই ডমেইন যি নিউক্লিয় আৱৰণ থকা সকলো কোষক একত্ৰিত কৰে, য'ত প্ৰ'টিষ্ট, ভেঁকুৰ, উদ্ভিদ আৰু প্ৰাণী পৰে। বেক্টেৰিয়া আৰু আৰ্কিয়া প্ৰকাৰ্য'টিক, সেয়ে কেৱল প্ৰ'টিষ্টা বুলিলে উদ্ভিদ আৰু প্ৰাণী বাদ পৰে।"
+    }
+  },
+  {
+    "id": "biology-209",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The presence of a notochord at some stage of life is the defining feature of the phylum",
+      "as": "জীৱনৰ কোনো এটা স্তৰত ন'ট'কৰ্ড থকাটো কোনটো পৰ্বৰ নিৰ্ণায়ক বৈশিষ্ট্য"
+    },
+    "options": [
+      {
+        "en": "Chordata",
+        "as": "কৰ্ডেটা"
+      },
+      {
+        "en": "Arthropoda",
+        "as": "আৰ্থ্ৰ'প'ডা"
+      },
+      {
+        "en": "Mollusca",
+        "as": "মলাস্কা"
+      },
+      {
+        "en": "Annelida",
+        "as": "এনেলিডা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chordates are defined by a notochord, a dorsal hollow nerve cord, pharyngeal gill slits and a post-anal tail at some stage. Arthropods have jointed limbs and exoskeletons, molluscs a mantle and annelids a segmented body.",
+      "as": "কৰ্ডেটাৰ নিৰ্ণায়ক হ'ল কোনো স্তৰত ন'ট'কৰ্ড, পৃষ্ঠীয় hollow স্নায়ু ৰজ্জু, গলবিলীয় ফুলা আৰু পায়ু-পৰৱৰ্তী নেজ। আৰ্থ্ৰ'প'ডত সন্ধিযুক্ত অংগ আৰু বহিঃকংকাল, মলাস্কত মেণ্টল আৰু এনেলিডাত খণ্ডিত দেহ।"
+    }
+  },
+  {
+    "id": "biology-210",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which of the following is an example of an organelle-free, non-cellular infectious agent?",
+      "as": "তলৰ কোনটো অংগাণুহীন, অকোষীয় সংক্ৰামক কাৰকৰ উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "Virus",
+        "as": "ভাইৰাছ"
+      },
+      {
+        "en": "Bacterium",
+        "as": "বেক্টেৰিয়া"
+      },
+      {
+        "en": "Yeast",
+        "as": "ঈষ্ট"
+      },
+      {
+        "en": "Protozoan",
+        "as": "প্ৰ'ট'জ'ৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A virus has no cell, no organelles and no independent metabolism, consisting only of nucleic acid inside a protein coat. Bacteria, yeast and protozoa are all cellular.",
+      "as": "ভাইৰাছৰ কোষ, অংগাণু আৰু স্বাধীন বিপাক নাই, কেৱল প্ৰ'টিন আৱৰণত নিউক্লিক অ্যাসিড থাকে। বেক্টেৰিয়া, ঈষ্ট আৰু প্ৰ'ট'জ'ৱা সকলো কোষীয়।"
+    }
+  },
+  {
+    "id": "biology-211",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The living component of a cell that carries out all metabolic reactions is the",
+      "as": "কোষৰ সকলো বিপাকীয় বিক্ৰিয়া সম্পন্ন কৰা জীৱন্ত অংশটো কি"
+    },
+    "options": [
+      {
+        "en": "protoplasm",
+        "as": "প্ৰ'ট'প্লাজম"
+      },
+      {
+        "en": "cell wall",
+        "as": "কোষবেৰ"
+      },
+      {
+        "en": "vacuole",
+        "as": "ৰিক্ততা"
+      },
+      {
+        "en": "extracellular matrix",
+        "as": "বহিঃকোষীয় মেট্ৰিক্স"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Protoplasm is the collective name for cytoplasm plus nucleus, the living material where metabolism happens. The wall, vacuole contents and matrix are non-living or largely non-living.",
+      "as": "প্ৰ'ট'প্লাজম হ'ল চাইট'প্লাজম আৰু নিউক্লিয়াছৰ সমষ্টিগত নাম, য'ত বিপাক ঘটে। বেৰ, ৰিক্ততাৰ ভিতৰৰ বস্তু আৰু মেট্ৰিক্স নিৰ্জীৱ বা প্ৰায় নিৰ্জীৱ।"
+    }
+  },
+  {
+    "id": "biology-212",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which of the following shows the correct order of levels of organisation from simplest to most complex?",
+      "as": "তলৰ কোনটোৱে সংগঠনৰ স্তৰসমূহৰ সৰলৰপৰা জটিললৈ শুদ্ধ ক্ৰম দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "Cell, tissue, organ, organ system, organism",
+        "as": "কোষ, কলা, অংগ, অংগ তন্ত্ৰ, জীৱ"
+      },
+      {
+        "en": "Tissue, cell, organism, organ, organ system",
+        "as": "কলা, কোষ, জীৱ, অংগ, অংগ তন্ত্ৰ"
+      },
+      {
+        "en": "Organ, cell, tissue, organism, organ system",
+        "as": "অংগ, কোষ, কলা, জীৱ, অংগ তন্ত্ৰ"
+      },
+      {
+        "en": "Organism, organ, tissue, cell, organ system",
+        "as": "জীৱ, অংগ, কলা, কোষ, অংগ তন্ত্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Complexity rises from cell to tissue, tissue to organ, organ to organ system and finally the whole organism. Any order that puts tissue before cell or organism before organ inverts the nesting.",
+      "as": "জটিলতা কোষৰপৰা কলা, কলাৰপৰা অংগ, অংগৰপৰা অংগ তন্ত্ৰ আৰু শেষত গোটেই জীৱলৈ বাঢ়ে। কলাক কোষৰ আগত বা জীৱক অংগৰ আগত ৰখা যিকোনো ক্ৰমে ক্ৰম ওলোটা কৰে।"
+    }
+  },
+  {
+    "id": "biology-213",
+    "leaf": "general-biology",
+    "q": {
+      "en": "A group of organisms that can interbreed and produce fertile offspring is called a",
+      "as": "প্ৰজনন কৰি উৰ্বৰ সন্তান উৎপন্ন কৰিব পৰা জীৱৰ গোটক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "species",
+        "as": "প্ৰজাতি"
+      },
+      {
+        "en": "genus",
+        "as": "গণ"
+      },
+      {
+        "en": "population",
+        "as": "জনসংখ্যা"
+      },
+      {
+        "en": "community",
+        "as": "সম্প্ৰদায়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A species is the interbreeding unit that produces fertile offspring. A genus groups related species, a population is one species in one area, and a community is all species in an area.",
+      "as": "প্ৰজাতি হ'ল উৰ্বৰ সন্তান উৎপন্ন কৰা প্ৰজননৰ একক। গণে সম্পৰ্কীয় প্ৰজাতি একত্ৰিত কৰে, জনসংখ্যা এটা অঞ্চলৰ এটা প্ৰজাতি, আৰু সম্প্ৰদায় এটা অঞ্চলৰ সকলো প্ৰজাতি।"
+    }
+  },
+  {
+    "id": "biology-214",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The cell organelle that contains hydrolytic enzymes and functions at an acidic pH is the",
+      "as": "অ্যাসিডিক pH ত কাম কৰা আৰু হাইড্ৰ'লিটিক এনজাইম থকা কোষ অংগাণুটো কি"
+    },
+    "options": [
+      {
+        "en": "lysosome",
+        "as": "লাইছ'জ'ম"
+      },
+      {
+        "en": "ribosome",
+        "as": "ৰাইব'জ'ম"
+      },
+      {
+        "en": "chloroplast",
+        "as": "ক্ল'ৰ'প্লাষ্ট"
+      },
+      {
+        "en": "nucleolus",
+        "as": "নিউক্লিঅ'লাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lysosomes maintain a pH near 5 and hold acid hydrolases for intracellular digestion. Ribosomes build protein, chloroplasts photosynthesise and the nucleolus makes rRNA.",
+      "as": "লাইছ'জ'মে pH প্ৰায় ৫ ৰাখে আৰু অন্তঃকোষীয় হজমৰ বাবে অ্যাসিড হাইড্ৰ'লেজ ধৰি ৰাখে। ৰাইব'জ'মে প্ৰ'টিন গঢ়ে, ক্ল'ৰ'প্লাষ্টে সালোক সংশ্লেষণ কৰে আৰু নিউক্লিঅ'লাছে rRNA বনায়।"
+    }
+  },
+  {
+    "id": "biology-215",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which property of water allows insects such as water striders to walk on its surface?",
+      "as": "পানীৰ কোনটো ধৰ্মই পানী-খোৱা পতংগৰ দৰে পতংগক ইয়াৰ পৃষ্ঠত খোজ কাঢ়িবলৈ দিয়ে"
+    },
+    "options": [
+      {
+        "en": "surface tension",
+        "as": "পৃষ্ঠ টান"
+      },
+      {
+        "en": "viscosity",
+        "as": "সান্দ্ৰতা"
+      },
+      {
+        "en": "density",
+        "as": "ঘনত্ব"
+      },
+      {
+        "en": "osmosis",
+        "as": "অভিস্ৰৱণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Surface tension arises from cohesion between water molecules at the air-water interface and forms a skin strong enough to support small insects. Viscosity resists flow within the liquid, not at its surface.",
+      "as": "পৃষ্ঠ টান বায়ু-পানী সংযোগস্থলত পানী অণুৰ মাজৰ সংসক্তিৰপৰা জন্মে আৰু সৰু পতংগ ধৰি ৰাখিব পৰা ছাল গঢ়ে। সান্দ্ৰতাই তৰলৰ ভিতৰত প্ৰবাহ বাধা দিয়ে, পৃষ্ঠত নহয়।"
+    }
+  },
+  {
+    "id": "biology-216",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Enzymes are biological catalysts that speed up reactions mainly by",
+      "as": "এনজাইমে জৈৱিক অনুঘটক হিচাপে বিক্ৰিয়া দ্ৰুত কৰে মূলতঃ কিৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "lowering the activation energy",
+        "as": "সক্ৰিয়ণ শক্তি কমাই"
+      },
+      {
+        "en": "raising the temperature",
+        "as": "উষ্ণতা বঢ়াই"
+      },
+      {
+        "en": "increasing the substrate concentration",
+        "as": "অধঃস্তৰৰ ঘনত্ব বঢ়াই"
+      },
+      {
+        "en": "changing the equilibrium constant",
+        "as": "সাম্যাৱস্থা ধ্ৰুৱক সলনি কৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An enzyme provides an alternative path of lower activation energy, so more molecules can react at body temperature. It does not change the equilibrium position or add heat.",
+      "as": "এনজাইমে কম সক্ৰিয়ণ শক্তিৰ বিকল্প পথ দিয়ে, সেয়ে শৰীৰৰ উষ্ণতাত অধিক অণুৱে বিক্ৰিয়া কৰিব পাৰে। ই সাম্যাৱস্থাৰ অৱস্থান নসলায়, তাপো নিদিয়ে।"
+    }
+  },
+  {
+    "id": "biology-217",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The property of an enzyme by which it acts on only one substrate or a small group of related substrates is called",
+      "as": "এনজাইমে কেৱল এটা অধঃস্তৰ বা সৰু সম্পৰ্কীয় গোটত ক্ৰিয়া কৰা ধৰ্মটোক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "specificity",
+        "as": "নিৰ্দিষ্টতা"
+      },
+      {
+        "en": "catalysis",
+        "as": "অনুঘটন"
+      },
+      {
+        "en": "denaturation",
+        "as": "অপ্ৰকৃতিকৰণ"
+      },
+      {
+        "en": "inhibition",
+        "as": "প্ৰতিৰোধ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Specificity comes from the shape of the active site, which fits only particular substrates, the lock-and-key or induced-fit idea. Denaturation destroys that shape and abolishes activity.",
+      "as": "নিৰ্দিষ্টতা সক্ৰিয় স্থানৰ আকৃতিৰপৰা আহে, যি কেৱল নিৰ্দিষ্ট অধঃস্তৰত খাপ খায়, তলা-চাবি বা প্ৰেৰিত খাপৰ ধাৰণা। অপ্ৰকৃতিকৰণে সেই আকৃতি নষ্ট কৰি কাৰ্য বন্ধ কৰে।"
+    }
+  },
+  {
+    "id": "biology-218",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which of the following is a polysaccharide stored in the human liver?",
+      "as": "তলৰ কোনটো মানুহৰ যকৃতত সাঁচি ৰখা পলিছেকাৰাইড"
+    },
+    "options": [
+      {
+        "en": "glycogen",
+        "as": "গ্লাইক'জেন"
+      },
+      {
+        "en": "cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "chitin",
+        "as": "কাইটিন"
+      },
+      {
+        "en": "starch",
+        "as": "ষ্টাৰ্চ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The liver stores glucose as glycogen and breaks it down again to hold blood sugar steady. Cellulose and chitin are structural, and starch is the plant storage form.",
+      "as": "যকৃতই গ্লুক'জক গ্লাইক'জেন হিচাপে সাঁচি ৰাখে আৰু ৰক্ত শৰ্কৰা স্থিৰ ৰাখিবলৈ পুনৰ ভাঙে। চেলুল'জ আৰু কাইটিন গঠনমূলক, আৰু ষ্টাৰ্চ উদ্ভিদৰ সাঁচনি ৰূপ।"
+    }
+  },
+  {
+    "id": "biology-219",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The nitrogenous base found in DNA but not in RNA is",
+      "as": "DNA ত থকা কিন্তু RNA ত নথকা নাইট্ৰজেনযুক্ত ক্ষাৰকটো কি"
+    },
+    "options": [
+      {
+        "en": "thymine",
+        "as": "থাইমিন"
+      },
+      {
+        "en": "uracil",
+        "as": "ইউৰাছিল"
+      },
+      {
+        "en": "adenine",
+        "as": "এডেনিন"
+      },
+      {
+        "en": "guanine",
+        "as": "গুৱানিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Thymine occurs in DNA and uracil replaces it in RNA. Adenine, guanine and cytosine are common to both molecules.",
+      "as": "থাইমিন DNA ত থাকে আৰু RNA ত ইয়াৰ ঠাইত ইউৰাছিল থাকে। এডেনিন, গুৱানিন আৰু চাইট'চিন দুয়োটা অণুতেই থাকে।"
+    }
+  },
+  {
+    "id": "biology-220",
+    "leaf": "general-biology",
+    "q": {
+      "en": "A cell placed in a hypotonic solution will",
+      "as": "হাইপ'টনিক দ্ৰৱত ৰখা কোষ এটা কি হ'ব"
+    },
+    "options": [
+      {
+        "en": "swell and may burst",
+        "as": "ফুলি যাব আৰু ফাটিবও পাৰে"
+      },
+      {
+        "en": "shrink and shrivel",
+        "as": "সংকুচিত আৰু শুকাই যাব"
+      },
+      {
+        "en": "remain unchanged",
+        "as": "অপৰিৱৰ্তিত থাকিব"
+      },
+      {
+        "en": "lose its nucleus",
+        "as": "নিউক্লিয়াছ হেৰুৱাব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In a hypotonic solution the outside solute concentration is lower, so water enters by osmosis and the cell swells, an animal cell possibly bursting. Shrinking happens in a hypertonic solution.",
+      "as": "হাইপ'টনিক দ্ৰৱত বাহিৰৰ দ্ৰাৱ্যৰ ঘনত্ব কম, সেয়ে অভিস্ৰৱণে পানী সোমাই কোষ ফুলে, প্ৰাণী কোষ ফাটিবও পাৰে। সংকোচন হাইপাৰটনিক দ্ৰৱত হয়।"
+    }
+  },
+  {
+    "id": "biology-221",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which of the following is not a characteristic of living organisms?",
+      "as": "তলৰ কোনটো জীৱৰ বৈশিষ্ট্য নহয়"
+    },
+    "options": [
+      {
+        "en": "Crystallisation",
+        "as": "স্ফটিকীভৱন"
+      },
+      {
+        "en": "Growth",
+        "as": "বৃদ্ধি"
+      },
+      {
+        "en": "Reproduction",
+        "as": "প্ৰজনন"
+      },
+      {
+        "en": "Response to stimuli",
+        "as": "উদ্দীপনাত সঁহাৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Growth, reproduction, metabolism and response to stimuli are defining features of life. Crystallisation is a physical process that also occurs in non-living matter.",
+      "as": "বৃদ্ধি, প্ৰজনন, বিপাক আৰু উদ্দীপনাত সঁহাৰি জীৱনৰ নিৰ্ণায়ক বৈশিষ্ট্য। স্ফটিকীভৱন এটা ভৌতিক প্ৰক্ৰিয়া যি নিৰ্জীৱ পদাৰ্থতো ঘটে।"
+    }
+  },
+  {
+    "id": "biology-222",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The number of chromosomes in a human gamete and in a human somatic cell respectively is",
+      "as": "মানৱ গেমেট আৰু মানৱ দেহকোষত ক্ৰ'ম'জ'মৰ সংখ্যা ক্ৰমে কিমান"
+    },
+    "options": [
+      {
+        "en": "23 and 46",
+        "as": "২৩ আৰু ৪৬"
+      },
+      {
+        "en": "46 and 23",
+        "as": "৪৬ আৰু ২৩"
+      },
+      {
+        "en": "23 and 23",
+        "as": "২৩ আৰু ২৩"
+      },
+      {
+        "en": "46 and 92",
+        "as": "৪৬ আৰু ৯২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A gamete is haploid with 23 and a somatic cell diploid with 46, so the zygote returns to 46 after fusion. The reverse order would make gametes diploid.",
+      "as": "গেমেট হেপ্লইড ২৩ আৰু দেহকোষ ডিপ্লইড ৪৬, সেয়ে মিলনৰ পিছত জাইগ'ট পুনৰ ৪৬ হয়। ওলোটা ক্ৰমে গেমেটক ডিপ্লইড কৰি দিব।"
+    }
+  },
+  {
+    "id": "biology-223",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which one of the following is a vestigial organ in humans?",
+      "as": "তলৰ কোনটো মানুহৰ অৱশিষ্ট অংগ"
+    },
+    "options": [
+      {
+        "en": "vermiform appendix",
+        "as": "কৃমিৰূপ পৰিশিষ্ট"
+      },
+      {
+        "en": "liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "spleen",
+        "as": "প্লীহা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The vermiform appendix is a reduced remnant of the caecum, which is large in herbivores. The liver, pancreas and spleen all carry out active functions.",
+      "as": "কৃমিৰূপ পৰিশিষ্ট তৃণভোজী জীৱত ডাঙৰ হোৱা অন্ধনাড়ীৰ হ্ৰাস পোৱা অৱশিষ্ট। যকৃত, অগ্ন্যাশয় আৰু প্লীহা সকলোৱে সক্ৰিয় কাৰ্য কৰে।"
+    }
   }
 ]

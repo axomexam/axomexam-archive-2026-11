@@ -448,5 +448,501 @@
       "en": "Phosphorus is released by the weathering of rock and returns to the soil through decay. It has no atmospheric reservoir, unlike carbon and nitrogen.",
       "as": "ফছফৰাছ শিল ক্ষয় হৈ মুকলি হয় আৰু ক্ষয়ৰ জৰিয়তে মাটিলৈ ঘূৰি যায়। কাৰ্বন আৰু নাইট্ৰ'জেনৰ দৰে ইয়াৰ বায়ুমণ্ডলীয় ভাণ্ডাৰ নাই।"
     }
+  },
+  {
+    "id": "biology-301",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The transition zone between two ecosystems where species of both meet is called an",
+      "as": "দুটা বাস্তুতন্ত্ৰৰ মাজৰ সন্ধি অঞ্চল য'ত দুয়োটাৰ প্ৰজাতি লগ পায় তাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "ecotone",
+        "as": "ইক'ট'ন"
+      },
+      {
+        "en": "niche",
+        "as": "নিচ"
+      },
+      {
+        "en": "biome",
+        "as": "বায়'ম"
+      },
+      {
+        "en": "habitat",
+        "as": "বাসস্থান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An ecotone is the boundary belt between communities and often holds a mix of both, which is called the edge effect. A niche is an organism's functional role, not a place.",
+      "as": "ইক'ট'ন সম্প্ৰদায়ৰ মাজৰ সীমা পটী আৰু প্ৰায়ে দুয়োটাৰ মিশ্ৰণ ৰাখে, যাক প্ৰান্ত প্ৰভাৱ বোলে। নিচ জীৱৰ কাৰ্যকৰী ভূমিকা, স্থান নহয়।"
+    }
+  },
+  {
+    "id": "biology-302",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The total number of different species present in an area is called its",
+      "as": "এটা অঞ্চলত থকা বিভিন্ন প্ৰজাতিৰ মুঠ সংখ্যাক তাৰ কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "species richness",
+        "as": "প্ৰজাতি সমৃদ্ধি"
+      },
+      {
+        "en": "population density",
+        "as": "জনসংখ্যা ঘনত্ব"
+      },
+      {
+        "en": "carrying capacity",
+        "as": "বহন ক্ষমতা"
+      },
+      {
+        "en": "biomass",
+        "as": "জৈৱ ভৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Species richness counts how many species live there, without regard to their abundance. Population density counts individuals, carrying capacity sets a limit and biomass measures mass.",
+      "as": "প্ৰজাতি সমৃদ্ধিয়ে কিমান প্ৰজাতি থাকে তাক গণে, প্ৰাচুৰ্য নধৰি। জনসংখ্যা ঘনত্বে ব্যক্তি গণে, বহন ক্ষমতাই সীমা ঠিক কৰে আৰু জৈৱ ভৰে ভৰ মাপে।"
+    }
+  },
+  {
+    "id": "biology-303",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Organisms that break down dead organic matter into simpler substances are called",
+      "as": "মৃত জৈৱ পদাৰ্থ ভাঙি সৰল পদাৰ্থলৈ ৰূপান্তৰ কৰা জীৱক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "decomposers",
+        "as": "বিয়োজক"
+      },
+      {
+        "en": "producers",
+        "as": "উৎপাদক"
+      },
+      {
+        "en": "primary consumers",
+        "as": "প্ৰাথমিক ভোক্তা"
+      },
+      {
+        "en": "tertiary consumers",
+        "as": "তৃতীয়ক ভোক্তা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Decomposers such as bacteria and fungi release nutrients back to the soil. Producers make food and consumers eat other organisms.",
+      "as": "বেক্টেৰিয়া আৰু ভেঁকুৰৰ দৰে বিয়োজকে পুষ্টি মাটিলৈ ঘূৰাই দিয়ে। উৎপাদকে খাদ্য বনায় আৰু ভোক্তাই আন জীৱ খায়।"
+    }
+  },
+  {
+    "id": "biology-304",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "In an ecosystem the flow of energy is",
+      "as": "বাস্তুতন্ত্ৰত শক্তিৰ প্ৰবাহ কেনে"
+    },
+    "options": [
+      {
+        "en": "unidirectional",
+        "as": "একমুখী"
+      },
+      {
+        "en": "cyclic",
+        "as": "চক্ৰীয়"
+      },
+      {
+        "en": "bidirectional",
+        "as": "দ্বিমুখী"
+      },
+      {
+        "en": "random",
+        "as": "যাদৃচ্ছিক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Energy enters as sunlight and is lost as heat at each trophic level, so it never returns and the flow is one-way. Nutrients, by contrast, cycle repeatedly.",
+      "as": "শক্তি সূৰ্যৰ পোহৰ হিচাপে সোমাই প্ৰতিটো পুষ্টি স্তৰত তাপ হিচাপে হেৰায়, সেয়ে ঘূৰি নাহে আৰু প্ৰবাহ একমুখী। পুষ্টি কিন্তু বাৰে বাৰে চক্ৰাকাৰে ঘূৰে।"
+    }
+  },
+  {
+    "id": "biology-305",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Which of the following gases is chiefly responsible for the greenhouse effect?",
+      "as": "গ্ৰীণহাউছ প্ৰভাৱৰ বাবে মূলতঃ দায়ী গেছটো কি"
+    },
+    "options": [
+      {
+        "en": "carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "argon",
+        "as": "আৰ্গন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Carbon dioxide absorbs infrared radiation re-emitted by the earth and traps heat. Oxygen, nitrogen and argon do not absorb infrared strongly.",
+      "as": "কাৰ্বন ডাইঅক্সাইডে পৃথিৱীয়ে পুনৰ নিৰ্গত কৰা অৱলোহিত ৰশ্মি শোষণ কৰি তাপ আটকায়। অক্সিজেন, নাইট্ৰজেন আৰু আৰ্গনে অৱলোহিত বেছিকৈ শোষণ নকৰে।"
+    }
+  },
+  {
+    "id": "biology-306",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The main cause of depletion of the ozone layer is",
+      "as": "অ'জ'ন স্তৰ ক্ষয়ৰ মূল কাৰণ কি"
+    },
+    "options": [
+      {
+        "en": "chlorofluorocarbons",
+        "as": "ক্ল'ৰ'ফ্লুঅ'ৰ'কাৰ্বন"
+      },
+      {
+        "en": "carbon monoxide",
+        "as": "কাৰ্বন মন'ক্সাইড"
+      },
+      {
+        "en": "sulphur dioxide",
+        "as": "ছালফাৰ ডাইঅক্সাইড"
+      },
+      {
+        "en": "methane",
+        "as": "মিথেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chlorofluorocarbons release chlorine atoms in the stratosphere, and each chlorine can destroy thousands of ozone molecules. Carbon monoxide and sulphur dioxide cause other pollution problems.",
+      "as": "ক্ল'ৰ'ফ্লুঅ'ৰ'কাৰ্বনে ষ্ট্ৰেট'ছ্ফিয়াৰত ক্ল'ৰিন পৰমাণু এৰে, আৰু প্ৰতিটো ক্ল'ৰিনে হাজাৰ হাজাৰ অ'জ'ন অণু নষ্ট কৰিব পাৰে। কাৰ্বন মন'ক্সাইড আৰু ছালফাৰ ডাইঅক্সাইডে অন্য প্ৰদূষণ ঘটায়।"
+    }
+  },
+  {
+    "id": "biology-307",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The chief greenhouse gas released from paddy fields and cattle is",
+      "as": "ধানপথাৰ আৰু গৰুৰপৰা ওলোৱা মূল গ্ৰীণহাউছ গেছটো কি"
+    },
+    "options": [
+      {
+        "en": "methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "ozone",
+        "as": "অ'জ'ন"
+      },
+      {
+        "en": "nitrogen",
+        "as": "নাইট্ৰজেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Waterlogged paddy soil and the rumen of cattle host methanogens that release methane. Carbon dioxide comes mainly from burning fossil fuel.",
+      "as": "পানী থকা ধানপথাৰৰ মাটি আৰু গৰুৰ ৰুমেনত মিথেন'জেন থাকে যি মিথেন এৰে। কাৰ্বন ডাইঅক্সাইড মূলতঃ জীৱাশ্ম ইন্ধন জ্বলোৱাৰপৰা আহে।"
+    }
+  },
+  {
+    "id": "biology-308",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Eutrophication of a lake is caused mainly by",
+      "as": "হ্ৰদৰ ইউট্ৰ'ফিকেচন মূলতঃ কিৰ বাবে হয়"
+    },
+    "options": [
+      {
+        "en": "excess nitrates and phosphates from fertiliser runoff",
+        "as": "সাৰৰ পৰা অহা অতিৰিক্ত নাইট্ৰেট আৰু ফছফেট"
+      },
+      {
+        "en": "excess oxygen",
+        "as": "অতিৰিক্ত অক্সিজেন"
+      },
+      {
+        "en": "low temperature",
+        "as": "নিম্ন উষ্ণতা"
+      },
+      {
+        "en": "high salinity only",
+        "as": "কেৱল উচ্চ লৱণতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Nutrient enrichment triggers algal blooms, and their decay consumes oxygen until fish die. Extra oxygen or cold water does not drive the process.",
+      "as": "পুষ্টি সমৃদ্ধিয়ে শেলাইৰ ফুলন ঘটায়, আৰু তাৰ পচনে অক্সিজেন খৰচ কৰি মাছ মৰে। অতিৰিক্ত অক্সিজেন বা ঠাণ্ডা পানীয়ে এই প্ৰক্ৰিয়া নচলায়।"
+    }
+  },
+  {
+    "id": "biology-309",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Biological magnification means the increase in concentration of a pollutant",
+      "as": "জৈৱ বৃদ্ধিৰ অৰ্থ প্ৰদূষকৰ ঘনত্ব বৃদ্ধি হোৱা"
+    },
+    "options": [
+      {
+        "en": "at successive higher trophic levels",
+        "as": "ক্ৰমে উচ্চ পুষ্টি স্তৰত"
+      },
+      {
+        "en": "in the soil only",
+        "as": "কেৱল মাটিত"
+      },
+      {
+        "en": "in rainfall",
+        "as": "বৰষুণত"
+      },
+      {
+        "en": "in the atmosphere",
+        "as": "বায়ুমণ্ডলত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fat-soluble pollutants such as DDT are not excreted and so build up in body tissue at each step of the food chain, harming top predators most. Water-soluble substances are usually excreted.",
+      "as": "DDT ৰ দৰে চৰ্বি-দ্ৰৱণীয় প্ৰদূষক বৰ্জিত নহয়, সেয়ে খাদ্য শৃংখলৰ প্ৰতিটো স্তৰত দেহকলাত জমা হয় আৰু শীৰ্ষ শিকাৰুক সবাতোকৈ বেছি ক্ষতি কৰে। পানী-দ্ৰৱণীয় পদাৰ্থ সাধাৰণতে বৰ্জিত হয়।"
+    }
+  },
+  {
+    "id": "biology-310",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The Kaziranga National Park is a UNESCO World Heritage Site chiefly for the conservation of",
+      "as": "কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান ইউনেস্ক' বিশ্ব ঐতিহ্য স্থান মূলতঃ কিহৰ সংৰক্ষণৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "the one-horned rhinoceros",
+        "as": "এশিঙীয়া গঁড়"
+      },
+      {
+        "en": "the tiger only",
+        "as": "কেৱল বাঘ"
+      },
+      {
+        "en": "the elephant only",
+        "as": "কেৱল হাতী"
+      },
+      {
+        "en": "the hoolock gibbon",
+        "as": "হুলক গিবন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kaziranga holds the largest population of the Indian one-horned rhinoceros, which is why it was inscribed. Tigers and elephants also occur but are not the reason for the listing.",
+      "as": "কাজিৰঙাত ভাৰতীয় এশিঙীয়া গঁড়ৰ আটাইতকৈ ডাঙৰ জনসংখ্যা আছে, সেয়ে ইয়াক তালিকাভুক্ত কৰা হৈছিল। বাঘ আৰু হাতীও আছে, কিন্তু তালিকাৰ কাৰণ নহয়।"
+    }
+  },
+  {
+    "id": "biology-311",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "In situ conservation of biodiversity means conservation",
+      "as": "জৈৱ বৈচিত্ৰ্যৰ 'স্থানত' সংৰক্ষণ মানে সংৰক্ষণ"
+    },
+    "options": [
+      {
+        "en": "within the natural habitat of the species",
+        "as": "প্ৰজাতিৰ প্ৰাকৃতিক বাসস্থানৰ ভিতৰত"
+      },
+      {
+        "en": "in a seed bank",
+        "as": "বীজ ভাণ্ডাৰত"
+      },
+      {
+        "en": "in a zoo",
+        "as": "চিৰিয়াখানাত"
+      },
+      {
+        "en": "in a botanical garden",
+        "as": "উদ্ভিদ উদ্যানত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In situ keeps the species in its own ecosystem, as in national parks and biosphere reserves. Zoos, gardens and seed banks are ex situ because the organism is moved out of its habitat.",
+      "as": "স্থানত সংৰক্ষণে প্ৰজাতিক তাৰ নিজৰ বাস্তুতন্ত্ৰতে ৰাখে, যেনে ৰাষ্ট্ৰীয় উদ্যান আৰু জীৱমণ্ডল সংৰক্ষিত অঞ্চলত। চিৰিয়াখানা, উদ্যান আৰু বীজ ভাণ্ডাৰ বহিঃস্থ, কাৰণ জীৱক বাসস্থানৰপৰা আঁতৰোৱা হয়।"
+    }
+  },
+  {
+    "id": "biology-312",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The relationship in which both species benefit is called",
+      "as": "যি সম্পৰ্কত দুয়োটা প্ৰজাতিয়ে লাভ পায় তাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "mutualism",
+        "as": "পৰস্পৰবাদ"
+      },
+      {
+        "en": "commensalism",
+        "as": "সহভোজিতা"
+      },
+      {
+        "en": "parasitism",
+        "as": "পৰজীৱিতা"
+      },
+      {
+        "en": "amensalism",
+        "as": "অসহভোজিতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In mutualism both partners gain, as in lichens where alga and fungus help each other. Commensalism benefits one only, parasitism harms the host and amensalism harms one without gain to the other.",
+      "as": "পৰস্পৰবাদত দুয়ো অংশীয়ে লাভ পায়, যেনে লাইকেনত শেলাই আৰু ভেঁকুৰে ইটোৱে সিটোক সহায় কৰে। সহভোজিতাত এটাই লাভ পায়, পৰজীৱিতাই পোষকক ক্ষতি কৰে আৰু অসহভোজিতাই আনৰ লাভ নোহোৱাকৈ এটাক ক্ষতি কৰে।"
+    }
+  },
+  {
+    "id": "biology-313",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The carrying capacity of a habitat is the",
+      "as": "বাসস্থানৰ বহন ক্ষমতা কি"
+    },
+    "options": [
+      {
+        "en": "maximum population it can support indefinitely",
+        "as": "অনিৰ্দিষ্টকাললৈ ধৰি ৰাখিব পৰা সৰ্বোচ্চ জনসংখ্যা"
+      },
+      {
+        "en": "total number of species present",
+        "as": "উপস্থিত প্ৰজাতিৰ মুঠ সংখ্যা"
+      },
+      {
+        "en": "rate of birth in a year",
+        "as": "বছৰত জন্মৰ হাৰ"
+      },
+      {
+        "en": "amount of rainfall received",
+        "as": "পোৱা বৰষুণৰ পৰিমাণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Carrying capacity is the population the available resources can sustain over time, and growth levels off there. Species count is richness and birth rate is a demographic rate.",
+      "as": "বহন ক্ষমতা হ'ল উপলব্ধ সম্পদে সময়ৰ সৈতে ধৰি ৰাখিব পৰা জনসংখ্যা, আৰু বৃদ্ধি তাতেই সমতল হয়। প্ৰজাতি সংখ্যা সমৃদ্ধি আৰু জন্ম হাৰ জনসংখ্যাৰ হাৰ।"
+    }
+  },
+  {
+    "id": "biology-314",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "An ecological pyramid that can never be inverted is the pyramid of",
+      "as": "যি পাৰিপাৰ্শ্বিক পিৰামিড কেতিয়াও ওলোটা হ'ব নোৱাৰে সেয়া কিৰ পিৰামিড"
+    },
+    "options": [
+      {
+        "en": "energy",
+        "as": "শক্তি"
+      },
+      {
+        "en": "numbers",
+        "as": "সংখ্যা"
+      },
+      {
+        "en": "biomass",
+        "as": "জৈৱ ভৰ"
+      },
+      {
+        "en": "biomass in a forest",
+        "as": "অৰণ্যৰ জৈৱ ভৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Energy always decreases from one trophic level to the next because of heat loss, so its pyramid is always upright. Pyramids of number and biomass can invert, as when one tree supports many insects.",
+      "as": "তাপ হেৰুওৱাৰ বাবে শক্তি প্ৰতিটো পুষ্টি স্তৰত সদায় কমে, সেয়ে ইয়াৰ পিৰামিড সদায় থিয়। সংখ্যা আৰু জৈৱ ভৰৰ পিৰামিড ওলোটা হ'ব পাৰে, যেনে এজোপা গছে বহু পতংগ ধৰি ৰাখিলে।"
+    }
+  },
+  {
+    "id": "biology-315",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The chief source of energy for an ecosystem is",
+      "as": "বাস্তুতন্ত্ৰৰ শক্তিৰ মূল উৎস কি"
+    },
+    "options": [
+      {
+        "en": "solar radiation",
+        "as": "সৌৰ বিকিৰণ"
+      },
+      {
+        "en": "soil nutrients",
+        "as": "মাটিৰ পুষ্টি"
+      },
+      {
+        "en": "water",
+        "as": "পানী"
+      },
+      {
+        "en": "atmospheric nitrogen",
+        "as": "বায়ুমণ্ডলীয় নাইট্ৰজেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Producers capture sunlight and convert it to chemical energy, which feeds every other level. Nutrients and water are materials, not the energy source.",
+      "as": "উৎপাদকে সূৰ্যৰ পোহৰ ধৰি ৰাসায়নিক শক্তিলৈ ৰূপান্তৰ কৰে, যি প্ৰতিটো অন্য স্তৰক খাদ্য দিয়ে। পুষ্টি আৰু পানী সামগ্ৰী, শক্তিৰ উৎস নহয়।"
+    }
+  },
+  {
+    "id": "biology-316",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Which of the following is a renewable natural resource?",
+      "as": "তলৰ কোনটো নৱীকৰণযোগ্য প্ৰাকৃতিক সম্পদ"
+    },
+    "options": [
+      {
+        "en": "solar energy",
+        "as": "সৌৰ শক্তি"
+      },
+      {
+        "en": "coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "natural gas",
+        "as": "প্ৰাকৃতিক গেছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Solar energy is replenished continuously and will not run out on human timescales. Coal, petroleum and natural gas are fossil fuels formed over millions of years.",
+      "as": "সৌৰ শক্তি নিৰন্তৰ পুনৰ পূৰণ হয় আৰু মানৱ সময়সীমাত শেষ নহয়। কয়লা, পেট্ৰ'লিয়াম আৰু প্ৰাকৃতিক গেছ কোটি বছৰত গঠিত জীৱাশ্ম ইন্ধন।"
+    }
   }
 ]

@@ -328,5 +328,594 @@
       "en": "The virus injures capillary walls and depresses platelet production, so plasma leaks into tissues and bleeding begins.",
       "as": "ভাইৰাছে কেশিকা নলীৰ বেৰৰ ক্ষতি কৰে আৰু প্লেটলেট উৎপাদন কমায়, ফলত ৰস কলালৈ ওলাই যায় আৰু ৰক্তক্ষৰণ আৰম্ভ হয়।"
     }
+  },
+  {
+    "id": "biology-287",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which mosquito genus transmits malaria in humans?",
+      "as": "কোনটো মশাৰ গণে মানুহত মেলেৰিয়া বিয়পায়"
+    },
+    "options": [
+      {
+        "en": "Anopheles",
+        "as": "এন'ফিলিছ"
+      },
+      {
+        "en": "Aedes",
+        "as": "এডিছ"
+      },
+      {
+        "en": "Culex",
+        "as": "কিউলেক্স"
+      },
+      {
+        "en": "Mansonia",
+        "as": "মেনছ'নিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Only the female Anopheles mosquito transmits the Plasmodium parasite of malaria. Aedes carries dengue and yellow fever, and Culex carries filariasis.",
+      "as": "কেৱল মাদী এন'ফিলিছ মশাই মেলেৰিয়াৰ প্লাজম'ডিয়াম পৰজীৱী বিয়পায়। এডিছে ডেঙ্গু আৰু পীত জ্বৰ আৰু কিউলেক্সে ফাইলেৰিয়া বিয়পায়।"
+    }
+  },
+  {
+    "id": "biology-288",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "The causative organism of cholera is",
+      "as": "কলেৰাৰ কাৰক জীৱটো কি"
+    },
+    "options": [
+      {
+        "en": "Vibrio cholerae",
+        "as": "ভিব্ৰিঅ' কলেৰি"
+      },
+      {
+        "en": "Salmonella typhi",
+        "as": "ছালম'নেলা টাইফাই"
+      },
+      {
+        "en": "Clostridium tetani",
+        "as": "ক্ল'ষ্ট্ৰিডিয়াম টেটানি"
+      },
+      {
+        "en": "Mycobacterium leprae",
+        "as": "মাইক'বেক্টেৰিয়াম লেপ্ৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cholera is a bacterial disease of the small intestine caused by Vibrio cholerae and spread by contaminated water. Salmonella causes typhoid, Clostridium tetanus and Mycobacterium leprae leprosy.",
+      "as": "কলেৰা ক্ষুদ্ৰান্ত্ৰৰ বেক্টেৰিয়া ৰোগ, ভিব্ৰিঅ' কলেৰিৰ দ্বাৰা হয় আৰু দূষিত পানীৰে বিয়পে। ছালম'নেলাই টাইফইড, ক্ল'ষ্ট্ৰিডিয়ামে ধনুষ্টংকাৰ আৰু মাইক'বেক্টেৰিয়াম লেপ্ৰিয়ে কুষ্ঠ ৰোগ কৰে।"
+    }
+  },
+  {
+    "id": "biology-289",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following diseases is caused by a protozoan?",
+      "as": "তলৰ কোনটো ৰোগ প্ৰ'ট'জ'ৱাৰ দ্বাৰা হয়"
+    },
+    "options": [
+      {
+        "en": "Kala-azar",
+        "as": "কালা-জ্বৰ"
+      },
+      {
+        "en": "Typhoid",
+        "as": "টাইফইড"
+      },
+      {
+        "en": "Measles",
+        "as": "সৰু আই"
+      },
+      {
+        "en": "Ringworm",
+        "as": "দাদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kala-azar is caused by Leishmania donovani and spread by the sandfly. Typhoid is bacterial, measles viral and ringworm fungal.",
+      "as": "কালা-জ্বৰ লেইছমেনিয়া ড'ন'ভানিৰ দ্বাৰা হয় আৰু বালিমাখিৰে বিয়পে। টাইফইড বেক্টেৰিয়াৰ, সৰু আই ভাইৰাছৰ আৰু দাদ ভেঁকুৰৰ।"
+    }
+  },
+  {
+    "id": "biology-290",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "BCG vaccine gives protection against",
+      "as": "BCG টীকাই কিহৰ পৰা সুৰক্ষা দিয়ে"
+    },
+    "options": [
+      {
+        "en": "tuberculosis",
+        "as": "যক্ষ্মা"
+      },
+      {
+        "en": "polio",
+        "as": "পলিঅ'"
+      },
+      {
+        "en": "tetanus",
+        "as": "ধনুষ্টংকাৰ"
+      },
+      {
+        "en": "measles",
+        "as": "সৰু আই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "BCG is the bacillus Calmette-Guerin vaccine given in infancy against tuberculosis. Polio, tetanus and measles each have separate vaccines.",
+      "as": "BCG হ'ল বেছিলাছ কেলমেট-গুইৰিন টীকা, যি শিশু অৱস্থাত যক্ষ্মাৰ বিৰুদ্ধে দিয়া হয়। পলিঅ', ধনুষ্টংকাৰ আৰু সৰু আইৰ বাবে পৃথক টীকা আছে।"
+    }
+  },
+  {
+    "id": "biology-291",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "AIDS destroys the body's defence mainly by attacking",
+      "as": "এইডছে শৰীৰৰ প্ৰতিৰক্ষা নষ্ট কৰে মূলতঃ কাক আক্ৰমণ কৰি"
+    },
+    "options": [
+      {
+        "en": "helper T lymphocytes",
+        "as": "সহায়ক T লিম্ফ'চাইট"
+      },
+      {
+        "en": "red blood cells",
+        "as": "লোহিত ৰক্তকণিকা"
+      },
+      {
+        "en": "platelets",
+        "as": "অণুচক্ৰিকা"
+      },
+      {
+        "en": "nerve cells",
+        "as": "স্নায়ু কোষ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "HIV binds the CD4 receptor of helper T cells and destroys them, so the immune response collapses. Red cells, platelets and neurons lack CD4 and are not the target.",
+      "as": "HIV এ সহায়ক T কোষৰ CD4 গ্ৰাহকত বান্ধি সেইবোৰ নষ্ট কৰে, সেয়ে ৰোগ প্ৰতিৰক্ষা ভাঙি পৰে। লোহিত কণিকা, অণুচক্ৰিকা আৰু স্নায়ু কোষত CD4 নাই, সেয়ে লক্ষ্য নহয়।"
+    }
+  },
+  {
+    "id": "biology-292",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Malaria parasites multiply first in the human",
+      "as": "মেলেৰিয়া পৰজীৱীয়ে মানুহত প্ৰথমে ক'ত বংশবৃদ্ধি কৰে"
+    },
+    "options": [
+      {
+        "en": "liver, then red blood cells",
+        "as": "যকৃত, তাৰ পিছত লোহিত ৰক্তকণিকা"
+      },
+      {
+        "en": "lungs only",
+        "as": "কেৱল ফুসফুস"
+      },
+      {
+        "en": "kidney",
+        "as": "বৃক্ক"
+      },
+      {
+        "en": "bone marrow only",
+        "as": "কেৱল অস্থি মজ্জা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sporozoites first enter liver cells to multiply, then the merozoites invade red cells, which burst and cause the fever cycle. The lung and kidney are not the primary sites.",
+      "as": "স্প'ৰ'জ'ৱাইটে প্ৰথমে যকৃত কোষত সোমাই বংশবৃদ্ধি কৰে, তাৰ পিছত মিৰ'জ'ৱাইটে লোহিত কণিকা আক্ৰমণ কৰে, যি ফাটি জ্বৰৰ চক্ৰ ঘটায়। ফুসফুস আৰু বৃক্ক প্ৰাথমিক স্থান নহয়।"
+    }
+  },
+  {
+    "id": "biology-293",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following is a non-communicable disease?",
+      "as": "তলৰ কোনটো সংক্ৰামক নহয়"
+    },
+    "options": [
+      {
+        "en": "Diabetes mellitus",
+        "as": "মধুমেহ"
+      },
+      {
+        "en": "Cholera",
+        "as": "কলেৰা"
+      },
+      {
+        "en": "Tuberculosis",
+        "as": "যক্ষ্মা"
+      },
+      {
+        "en": "Influenza",
+        "as": "ইনফ্লুৱেঞ্জা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Diabetes arises from insulin deficiency or resistance and cannot pass from person to person. Cholera, tuberculosis and influenza are all infectious.",
+      "as": "মধুমেহ ইনছুলিনৰ অভাৱ বা প্ৰতিৰোধৰপৰা হয় আৰু এজনৰপৰা আনজনলৈ নাযায়। কলেৰা, যক্ষ্মা আৰু ইনফ্লুৱেঞ্জা সকলো সংক্ৰামক।"
+    }
+  },
+  {
+    "id": "biology-294",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Dengue virus is transmitted to humans by",
+      "as": "ডেঙ্গু ভাইৰাছ মানুহলৈ কাৰ জৰিয়তে যায়"
+    },
+    "options": [
+      {
+        "en": "Aedes aegypti",
+        "as": "এডিছ ইজিপ্টাই"
+      },
+      {
+        "en": "Anopheles",
+        "as": "এন'ফিলিছ"
+      },
+      {
+        "en": "housefly",
+        "as": "ঘৰ মাখি"
+      },
+      {
+        "en": "sandfly",
+        "as": "বালি মাখি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Aedes aegypti, a day-biting mosquito, carries the dengue virus. Anopheles spreads malaria, the housefly carries enteric pathogens and the sandfly spreads kala-azar.",
+      "as": "এডিছ ইজিপ্টাই, দিনত কামোৰা মশা, ডেঙ্গু ভাইৰাছ কঢ়িয়ায়। এন'ফিলিছে মেলেৰিয়া, ঘৰ মাখিয়ে অন্ত্ৰ ৰোগজীৱ আৰু বালি মাখিয়ে কালা-জ্বৰ বিয়পায়।"
+    }
+  },
+  {
+    "id": "biology-295",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "The organism that causes amoebic dysentery is",
+      "as": "অ্যামিবিক আমাশয়ৰ কাৰক জীৱটো কি"
+    },
+    "options": [
+      {
+        "en": "Entamoeba histolytica",
+        "as": "এণ্টামিবা হিষ্ট'লিটিকা"
+      },
+      {
+        "en": "Plasmodium vivax",
+        "as": "প্লাজম'ডিয়াম ভাইভাক্স"
+      },
+      {
+        "en": "Trypanosoma",
+        "as": "ট্ৰাইপেন'ছ'মা"
+      },
+      {
+        "en": "Giardia only",
+        "as": "কেৱল জিয়াৰ্ডিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Entamoeba histolytica invades the large intestine and causes bloody dysentery. Plasmodium causes malaria and Trypanosoma sleeping sickness.",
+      "as": "এণ্টামিবা হিষ্ট'লিটিকাই বৃহদান্ত্ৰত প্ৰৱেশ কৰি তেজমিশ্ৰিত আমাশয় কৰে। প্লাজম'ডিয়ামে মেলেৰিয়া আৰু ট্ৰাইপেন'ছ'মাই নিদ্ৰা ৰোগ কৰে।"
+    }
+  },
+  {
+    "id": "biology-296",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which vitamin deficiency makes a person more prone to infection because it is needed for antibody production?",
+      "as": "কোনটো ভিটামিনৰ অভাৱত এণ্টিবডি উৎপাদন কমি সংক্ৰমণৰ আশংকা বাঢ়ে"
+    },
+    "options": [
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin K",
+        "as": "ভিটামিন K"
+      },
+      {
+        "en": "Vitamin B12",
+        "as": "ভিটামিন B১২"
+      },
+      {
+        "en": "Vitamin E only",
+        "as": "কেৱল ভিটামিন E"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vitamin C supports collagen formation and immune cell function, so deficiency lowers resistance. Vitamin K acts in clotting and B12 in nerve and red cell formation.",
+      "as": "ভিটামিন C এ ক'লেজেন গঠন আৰু ৰোগ প্ৰতিৰক্ষা কোষৰ কাৰ্যত সহায় কৰে, সেয়ে অভাৱত প্ৰতিৰোধ কমে। ভিটামিন K ৰক্ত জমাৰ আৰু B১২ স্নায়ু তথা লোহিত কণিকা গঠনত কাম কৰে।"
+    }
+  },
+  {
+    "id": "biology-297",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "The disease in which the body cannot produce enough insulin is",
+      "as": "যি ৰোগত শৰীৰে পৰ্যাপ্ত ইনছুলিন উৎপাদন কৰিব নোৱাৰে"
+    },
+    "options": [
+      {
+        "en": "type 1 diabetes mellitus",
+        "as": "প্ৰকাৰ ১ মধুমেহ"
+      },
+      {
+        "en": "diabetes insipidus",
+        "as": "ডায়েবিটিছ ইনছিপিডাছ"
+      },
+      {
+        "en": "goitre",
+        "as": "গলগণ্ড"
+      },
+      {
+        "en": "kwashiorkor",
+        "as": "কোৱাছিঅৰ্কৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Type 1 diabetes follows destruction of the insulin-making beta cells of the pancreas. Diabetes insipidus is a kidney hormone problem, goitre a thyroid deficiency and kwashiorkor a protein deficiency.",
+      "as": "প্ৰকাৰ ১ মধুমেহত অগ্ন্যাশয়ৰ ইনছুলিন বনোৱা বিটা কোষ নষ্ট হয়। ডায়েবিটিছ ইনছিপিডাছ বৃক্ক হৰম'নৰ সমস্যা, গলগণ্ড থাইৰয়ডৰ অভাৱ আৰু কোৱাছিঅৰ্কৰ প্ৰ'টিনৰ অভাৱ।"
+    }
+  },
+  {
+    "id": "biology-298",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following is a fungal disease of humans?",
+      "as": "তলৰ কোনটো মানুহৰ ভেঁকুৰ ৰোগ"
+    },
+    "options": [
+      {
+        "en": "Ringworm",
+        "as": "দাদ"
+      },
+      {
+        "en": "Cholera",
+        "as": "কলেৰা"
+      },
+      {
+        "en": "Rabies",
+        "as": "জলাতংক"
+      },
+      {
+        "en": "Malaria",
+        "as": "মেলেৰিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ringworm is caused by dermatophyte fungi that grow on skin and hair. Cholera is bacterial, rabies viral and malaria protozoan.",
+      "as": "দাদ ছাল আৰু চুলিত গজা ডাৰ্মাট'ফাইট ভেঁকুৰৰ দ্বাৰা হয়। কলেৰা বেক্টেৰিয়াৰ, জলাতংক ভাইৰাছৰ আৰু মেলেৰিয়া প্ৰ'ট'জ'ৱাৰ।"
+    }
+  },
+  {
+    "id": "biology-299",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "The incubation period of a disease means the time between",
+      "as": "ৰোগৰ ঊষ্মকাল মানে কিৰ মাজৰ সময়"
+    },
+    "options": [
+      {
+        "en": "entry of the pathogen and appearance of the first symptom",
+        "as": "ৰোগজীৱৰ প্ৰৱেশ আৰু প্ৰথম লক্ষণ ওলোৱাৰ মাজৰ"
+      },
+      {
+        "en": "first symptom and recovery",
+        "as": "প্ৰথম লক্ষণ আৰু আৰোগ্যৰ মাজৰ"
+      },
+      {
+        "en": "vaccination and immunity",
+        "as": "টীকা আৰু প্ৰতিৰোধৰ মাজৰ"
+      },
+      {
+        "en": "two successive infections",
+        "as": "দুটা ক্ৰমিক সংক্ৰমণৰ মাজৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The incubation period runs from infection to the first sign of illness. The time from symptom to recovery is the period of illness, not incubation.",
+      "as": "ঊষ্মকাল সংক্ৰমণৰপৰা ৰোগৰ প্ৰথম চিনলৈকে চলে। লক্ষণৰপৰা আৰোগ্যলৈ সময়খিনি ৰোগকাল, ঊষ্মকাল নহয়।"
+    }
+  },
+  {
+    "id": "biology-300",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following is the best method of preventing the spread of malaria?",
+      "as": "মেলেৰিয়া বিয়পাৰ পৰা বচাৰ আটাইতকৈ ভাল উপায় কোনটো"
+    },
+    "options": [
+      {
+        "en": "destroying mosquito breeding sites and using nets",
+        "as": "মশাৰ প্ৰজনন স্থান নষ্ট কৰা আৰু জাল ব্যৱহাৰ কৰা"
+      },
+      {
+        "en": "taking antibiotics regularly",
+        "as": "নিয়মীয়াকৈ এণ্টিবায়'টিক খোৱা"
+      },
+      {
+        "en": "drinking boiled water only",
+        "as": "কেৱল উতলা পানী খোৱা"
+      },
+      {
+        "en": "avoiding mosquito bites only at night",
+        "as": "কেৱল ৰাতিহে মশাৰ কামোৰ পৰা বাচা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Malaria control targets the vector, so removing stagnant water and using insecticide-treated nets works best. Antibiotics do not prevent malaria and boiling water targets water-borne disease.",
+      "as": "মেলেৰিয়া নিয়ন্ত্ৰণে বাহকক লক্ষ্য কৰে, সেয়ে থেৰ থকা পানী আঁতৰোৱা আৰু কীটনাশকযুক্ত জাল ব্যৱহাৰ কৰাটো সৰ্বোত্তম। এণ্টিবায়'টিকে মেলেৰিয়া ৰোধ নকৰে আৰু উতলা পানীয়ে জলবাহিত ৰোগ লক্ষ্য কৰে।"
+    }
+  },
+  {
+    "id": "biology-345",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following diseases spreads through contaminated drinking water?",
+      "as": "তলৰ কোনটো ৰোগ দূষিত খোৱা পানীৰ জৰিয়তে বিয়পে"
+    },
+    "options": [
+      {
+        "en": "Cholera",
+        "as": "কলেৰা"
+      },
+      {
+        "en": "Tuberculosis",
+        "as": "যক্ষ্মা"
+      },
+      {
+        "en": "Malaria",
+        "as": "মেলেৰিয়া"
+      },
+      {
+        "en": "Rabies",
+        "as": "জলাতংক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cholera bacteria are shed in stool and reach a new host through contaminated water, so safe water supply is the main control. Tuberculosis spreads by air, malaria by mosquito and rabies by animal bite.",
+      "as": "কলেৰা বেক্টেৰিয়া মলত ওলাই দূষিত পানীৰে নতুন পোষকলৈ যায়, সেয়ে নিৰাপদ পানী যোগান মূল নিয়ন্ত্ৰণ। যক্ষ্মা বায়ুৰে, মেলেৰিয়া মশাৰে আৰু জলাতংক জন্তুৰ কামোৰে বিয়পে।"
+    }
+  },
+  {
+    "id": "biology-346",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Tetanus in humans usually enters the body through",
+      "as": "মানুহৰ শৰীৰত ধনুষ্টংকাৰ সাধাৰণতে কিৰ জৰিয়তে সোমায়"
+    },
+    "options": [
+      {
+        "en": "a deep wound contaminated with soil",
+        "as": "মাটিৰে দূষিত গভীৰ ঘা"
+      },
+      {
+        "en": "drinking unboiled milk",
+        "as": "উতলিব নিদিয়া গাখীৰ খোৱা"
+      },
+      {
+        "en": "a mosquito bite",
+        "as": "মশাৰ কামোৰ"
+      },
+      {
+        "en": "breathing dusty air",
+        "as": "ধূলিময় বায়ু উশাহ লোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Clostridium tetani spores live in soil and enter through a deep, dirty wound where oxygen is low, which is why wounds are cleaned and vaccination given. Milk, mosquitoes and dust do not transmit tetanus.",
+      "as": "ক্ল'ষ্ট্ৰিডিয়াম টেটানিৰ বীজাণু মাটিত থাকে আৰু কম অক্সিজেনযুক্ত গভীৰ লেতেৰা ঘাৰ জৰিয়তে সোমায়, সেয়ে ঘা পৰিষ্কাৰ কৰি টীকা দিয়া হয়। গাখীৰ, মশা আৰু ধূলিয়ে ধনুষ্টংকাৰ নিবিয়পায়।"
+    }
+  },
+  {
+    "id": "biology-347",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "The best way to prevent the spread of tuberculosis in a community is",
+      "as": "সমাজত যক্ষ্মা বিয়পাৰ পৰা বচাৰ আটাইতকৈ ভাল উপায় কি"
+    },
+    "options": [
+      {
+        "en": "early detection and complete treatment of patients",
+        "as": "ৰোগীৰ আগতীয়া চিনাক্তকৰণ আৰু সম্পূৰ্ণ চিকিৎসা"
+      },
+      {
+        "en": "boiling all drinking water",
+        "as": "সকলো খোৱা পানী উতলোৱা"
+      },
+      {
+        "en": "using mosquito nets",
+        "as": "মশাৰ জাল ব্যৱহাৰ কৰা"
+      },
+      {
+        "en": "avoiding milk",
+        "as": "গাখীৰ বৰ্জন কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tuberculosis spreads by airborne droplets, so finding cases early and completing the drug course stops transmission at source. Boiling water and nets target other routes entirely.",
+      "as": "যক্ষ্মা বায়ুজাত টোপালৰে বিয়পে, সেয়ে আগতীয়াকৈ ৰোগী ধৰা পেলাই ঔষধৰ কোৰ্ছ সম্পূৰ্ণ কৰিলে উৎসতেই সংক্ৰমণ বন্ধ হয়। পানী উতলোৱা আৰু জালে বেলেগ পথ লক্ষ্য কৰে।"
+    }
+  },
+  {
+    "id": "biology-348",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "A person with jaundice shows yellowing of the skin and eyes because of the accumulation of",
+      "as": "কামলা ৰোগীত ছাল আৰু চকু হালধীয়া হয় কিৰ সঞ্চয়ৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "bilirubin",
+        "as": "বিলিৰুবিন"
+      },
+      {
+        "en": "haemoglobin",
+        "as": "হিম'গ্লবিন"
+      },
+      {
+        "en": "urea",
+        "as": "ইউৰিয়া"
+      },
+      {
+        "en": "glucose",
+        "as": "গ্লুক'জ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Jaundice follows a build-up of bilirubin, the yellow pigment formed from broken-down haemoglobin, when the liver cannot process or excrete it. Haemoglobin, urea and glucose do not colour the skin yellow.",
+      "as": "কামলা যকৃয়ে বিলিৰুবিন প্ৰক্ৰিয়াকৰণ বা বৰ্জন কৰিব নোৱাৰিলে জমা হোৱা বিলিৰুবিনৰপৰা হয়, যি ভগা হিম'গ্লবিনৰপৰা গঠিত হালধীয়া ৰঞ্জক। হিম'গ্লবিন, ইউৰিয়া আৰু গ্লুক'জে ছাল হালধীয়া নকৰে।"
+    }
+  },
+  {
+    "id": "biology-349",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following is a vector-borne disease?",
+      "as": "তলৰ কোনটো বাহক-বাহিত ৰোগ"
+    },
+    "options": [
+      {
+        "en": "Filariasis",
+        "as": "ফাইলেৰিয়া"
+      },
+      {
+        "en": "Typhoid",
+        "as": "টাইফইড"
+      },
+      {
+        "en": "Tetanus",
+        "as": "ধনুষ্টংকাৰ"
+      },
+      {
+        "en": "Measles",
+        "as": "সৰু আই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Filariasis is carried from person to person by the Culex mosquito, so the worm needs a vector. Typhoid is water-borne, tetanus comes from soil and measles spreads by air.",
+      "as": "ফাইলেৰিয়া কিউলেক্স মশাৰ জৰিয়তে এজনৰপৰা আনজনলৈ যায়, সেয়ে কৃমিটোৰ বাহক লাগে। টাইফইড পানীৰ, ধনুষ্টংকাৰ মাটিৰ আৰু সৰু আই বায়ুৰ।"
+    }
   }
 ]

@@ -538,5 +538,377 @@
       "en": "The ring of the atlas turns about the odontoid peg of the axis, which is a pivot joint. A hinge joint, such as the elbow, allows movement in one plane only.",
       "as": "এটলাছৰ আঙঠিটো এক্সিছৰ অডণ্টইড খুটাটোৰ চাৰিওফালে ঘূৰে, যি এটা অক্ষ-সংযোগ। কব্জা সংযোগ, যেনে কিলাকুটি, এটা সমতলতহে চলিবলৈ দিয়ে।"
     }
+  },
+  {
+    "id": "biology-261",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The number of pairs of ribs in the human body is",
+      "as": "মানুহৰ শৰীৰত পঞ্জৰ কিমান যোৰ"
+    },
+    "options": [
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "14",
+        "as": "১৪"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "There are 12 pairs, that is 24 ribs in all, of which the last two pairs are floating ribs. Twenty-four is the count of individual ribs, not of pairs.",
+      "as": "১২ যোৰ, অৰ্থাৎ মুঠ ২৪ খন পঞ্জৰ, যাৰ শেষৰ দুযোৰ ওপঙা পঞ্জৰ। ২৪ হ'ল পৃথক পঞ্জৰৰ সংখ্যা, যোৰৰ নহয়।"
+    }
+  },
+  {
+    "id": "biology-262",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The joint at the shoulder and the hip, which allows movement in all directions, is a",
+      "as": "কান্ধ আৰু নিতম্বৰ সংযোগ, যি সকলো দিশত গতি কৰিব দিয়ে, সেয়া কি ধৰণৰ সংযোগ"
+    },
+    "options": [
+      {
+        "en": "ball and socket joint",
+        "as": "গোলক আৰু গহ্বৰ সংযোগ"
+      },
+      {
+        "en": "hinge joint",
+        "as": "কব্জা সংযোগ"
+      },
+      {
+        "en": "pivot joint",
+        "as": "অক্ষ সংযোগ"
+      },
+      {
+        "en": "gliding joint",
+        "as": "সৰণ সংযোগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A rounded head fitting into a cup-shaped cavity gives the ball and socket joint its wide range of movement. Hinge joints such as the elbow allow motion in one plane only.",
+      "as": "গোলাকাৰ মূৰ গাঁতৰ দৰে গহ্বৰত বহি গোলক-গহ্বৰ সংযোগক বহল গতিৰ পৰিসৰ দিয়ে। কিলাকুটিৰ দৰে কব্জা সংযোগে কেৱল এটা সমতলত গতি দিয়ে।"
+    }
+  },
+  {
+    "id": "biology-263",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The hardest substance in the human body is",
+      "as": "মানুহৰ শৰীৰৰ আটাইতকৈ কঠিন পদাৰ্থ কি"
+    },
+    "options": [
+      {
+        "en": "enamel of the tooth",
+        "as": "দাঁতৰ এনামেল"
+      },
+      {
+        "en": "bone of the skull",
+        "as": "কপালৰ হাড়"
+      },
+      {
+        "en": "cartilage of the knee",
+        "as": "আঁঠুৰ উপাস্থি"
+      },
+      {
+        "en": "nail",
+        "as": "নখ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tooth enamel is about ninety-six percent mineral and is harder than bone. Skull bone, cartilage and nail all contain more organic matter and are softer.",
+      "as": "দাঁতৰ এনামেল প্ৰায় ষোল্ল শতাংশ খনিজ আৰু হাড়তকৈ কঠিন। কপালৰ হাড়, উপাস্থি আৰু নখত জৈৱ পদাৰ্থ বেছি আৰু কম কঠিন।"
+    }
+  },
+  {
+    "id": "biology-264",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The total number of teeth in an adult human is",
+      "as": "এজন প্ৰাপ্তবয়স্ক মানুহৰ মুঠ দাঁতৰ সংখ্যা কিমান"
+    },
+    "options": [
+      {
+        "en": "32",
+        "as": "৩২"
+      },
+      {
+        "en": "28",
+        "as": "২৮"
+      },
+      {
+        "en": "20",
+        "as": "২০"
+      },
+      {
+        "en": "36",
+        "as": "৩৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An adult has 32 permanent teeth including four wisdom teeth. The deciduous set has only 20, and 28 is the count before the wisdom teeth erupt.",
+      "as": "প্ৰাপ্তবয়স্কৰ ৩২ টা স্থায়ী দাঁত থাকে, য'ত চাৰিটা জ্ঞান দাঁত। দুগ্ধ দাঁতৰ গোটত কেৱল ২০ টা, আৰু জ্ঞান দাঁত ওলোৱাৰ আগতে ২৮ টা।"
+    }
+  },
+  {
+    "id": "biology-265",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The membrane that covers the lungs is called the",
+      "as": "ফুসফুস ঢাকি ৰখা পৰ্দাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "pleura",
+        "as": "প্লিউৰা"
+      },
+      {
+        "en": "pericardium",
+        "as": "পেৰিকাৰ্ডিয়াম"
+      },
+      {
+        "en": "peritoneum",
+        "as": "পেৰিট'নিয়াম"
+      },
+      {
+        "en": "meninges",
+        "as": "মেনিনজেছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pleura is the double membrane around each lung. The pericardium encloses the heart, the peritoneum lines the abdomen and the meninges cover the brain and cord.",
+      "as": "প্লিউৰা প্ৰতিটো ফুসফুসৰ চাৰিওফালৰ দুহৰা পৰ্দা। পেৰিকাৰ্ডিয়ামে হৃদয়, পেৰিট'নিয়ামে উদৰ আৰু মেনিনজেছে মগজু আৰু ৰজ্জু ঢাকে।"
+    }
+  },
+  {
+    "id": "biology-266",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The structure that connects a bone to a bone at a joint is a",
+      "as": "সংযোগস্থলত হাড়ক হাড়ৰ লগত সংযোগ কৰা গঠনটো কি"
+    },
+    "options": [
+      {
+        "en": "ligament",
+        "as": "লিগামেণ্ট"
+      },
+      {
+        "en": "tendon",
+        "as": "টেণ্ডন"
+      },
+      {
+        "en": "cartilage",
+        "as": "উপাস্থি"
+      },
+      {
+        "en": "fascia",
+        "as": "ফেছিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ligaments bind bone to bone and hold joints stable, while tendons attach muscle to bone. Cartilage cushions the joint surface rather than tying bones together.",
+      "as": "লিগামেণ্টে হাড়ক হাড়ৰ লগত বান্ধি সংযোগ স্থিৰ ৰাখে, আৰু টেণ্ডনে পেশীক হাড়ত লগায়। উপাস্থিয়ে সংযোগ পৃষ্ঠক গদী দিয়ে, হাড় বন্ধা নহয়।"
+    }
+  },
+  {
+    "id": "biology-267",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The human skeleton is divided into which two main parts?",
+      "as": "মানুহৰ কংকাল কিমানটা মূল ভাগত বিভক্ত"
+    },
+    "options": [
+      {
+        "en": "axial and appendicular",
+        "as": "অক্ষীয় আৰু উপাংগীয়"
+      },
+      {
+        "en": "cranial and spinal",
+        "as": "কপালীয় আৰু মেৰুদণ্ডীয়"
+      },
+      {
+        "en": "thoracic and pelvic",
+        "as": "বক্ষীয় আৰু শ্ৰোণীয়"
+      },
+      {
+        "en": "upper and lower",
+        "as": "ওপৰ আৰু তল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The axial skeleton covers the skull, vertebral column and rib cage, while the appendicular skeleton covers the limb bones and girdles. The other divisions name parts, not the two main systems.",
+      "as": "অক্ষীয় কংকালত কৰ'ট, মেৰুদণ্ড আৰু পঞ্জৰ পিঞ্জৰ পৰে, আৰু উপাংগীয় কংকালত অংগৰ হাড় আৰু কৰন্ধ পৰে। বাকী ভাগবোৰে অংশৰ নাম দিয়ে, মূল দুটা তন্ত্ৰ নহয়।"
+    }
+  },
+  {
+    "id": "biology-268",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The gland that is both an exocrine and an endocrine gland is the",
+      "as": "যিটো গ্ৰন্থি একে সময়তে বহিঃস্ৰাৱী আৰু অন্তঃস্ৰাৱী"
+    },
+    "options": [
+      {
+        "en": "pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "thyroid",
+        "as": "থাইৰয়ড"
+      },
+      {
+        "en": "adrenal",
+        "as": "এড্ৰিনেল"
+      },
+      {
+        "en": "sweat gland",
+        "as": "ঘাম গ্ৰন্থি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pancreas sends digestive enzymes through a duct to the gut and also releases insulin and glucagon into the blood. Thyroid, adrenal and sweat glands are purely endocrine or purely exocrine.",
+      "as": "অগ্ন্যাশয়ে নলীৰে পাচক এনজাইম অন্ত্ৰলৈ পঠায় আৰু ৰক্তলৈ ইনছুলিন আৰু গ্লুকাগন এৰি দিয়ে। থাইৰয়ড, এড্ৰিনেল আৰু ঘাম গ্ৰন্থি কেৱল অন্তঃস্ৰাৱী বা কেৱল বহিঃস্ৰাৱী।"
+    }
+  },
+  {
+    "id": "biology-269",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The part of the brain that controls balance and coordination of movement is the",
+      "as": "ভাৰসাম্য আৰু গতিৰ সমন্বয় নিয়ন্ত্ৰণ কৰা মগজুৰ অংশটো কি"
+    },
+    "options": [
+      {
+        "en": "cerebellum",
+        "as": "চেৰেবেলাম"
+      },
+      {
+        "en": "cerebrum",
+        "as": "চেৰেব্ৰাম"
+      },
+      {
+        "en": "medulla oblongata",
+        "as": "মেডুলা অব্লংগাটা"
+      },
+      {
+        "en": "hypothalamus",
+        "as": "হাইপ'থেলামাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The cerebellum smooths and coordinates voluntary movement and maintains posture and balance. The cerebrum handles thought, and the medulla controls breathing and heartbeat.",
+      "as": "চেৰেবেলামে ঐচ্ছিক গতি মসৃণ আৰু সমন্বিত কৰে আৰু ভঙ্গি তথা ভাৰসাম্য ৰাখে। চেৰেব্ৰামে চিন্তা চম্ভালে, আৰু মেডুলাই শ্বাস আৰু হৃৎস্পন্দন নিয়ন্ত্ৰণ কৰে।"
+    }
+  },
+  {
+    "id": "biology-270",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The retina of the eye contains which two types of light-sensitive cells?",
+      "as": "চকুৰ ৰেটিনাত কেনে দুপ্ৰকাৰৰ পোহৰ-সংবেদী কোষ থাকে"
+    },
+    "options": [
+      {
+        "en": "rods and cones",
+        "as": "ৰড আৰু ক'ন"
+      },
+      {
+        "en": "cilia and flagella",
+        "as": "চিলিয়া আৰু ফ্লেজেলা"
+      },
+      {
+        "en": "rods and rods only",
+        "as": "কেৱল ৰড"
+      },
+      {
+        "en": "neurons and nephrons",
+        "as": "নিউৰন আৰু নেফ্ৰন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rods work in dim light and give black-and-white vision, while cones need bright light and give colour. Both are photoreceptors present together in the retina.",
+      "as": "ৰডে ম্লান পোহৰত কাম কৰি ক'লা-বগা দৃষ্টি দিয়ে, আৰু ক'নে উজ্জ্বল পোহৰ লাগি ৰং দিয়ে। দুয়োটা ৰেটিনাত একেলগে থকা পোহৰ-গ্ৰাহী।"
+    }
+  },
+  {
+    "id": "biology-271",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The functional unit of the lungs where gaseous exchange takes place is the",
+      "as": "ফুসফুসৰ য'ত গেছ বিনিময় হয় তাৰ কাৰ্যকৰী এককটো কি"
+    },
+    "options": [
+      {
+        "en": "alveolus",
+        "as": "এলভিঅ'লাছ"
+      },
+      {
+        "en": "nephron",
+        "as": "নেফ্ৰন"
+      },
+      {
+        "en": "neuron",
+        "as": "নিউৰন"
+      },
+      {
+        "en": "villus",
+        "as": "ভিলাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Alveoli are thin-walled sacs wrapped in capillaries, giving a huge surface for oxygen and carbon dioxide exchange. Nephrons belong to the kidney and villi to the small intestine.",
+      "as": "এলভিঅ'লাছ কেশিকা নলীৰে মেৰ খোৱা পাতল বেৰৰ মোনা, যি অক্সিজেন আৰু কাৰ্বন ডাইঅক্সাইড বিনিময়ৰ বাবে বিশাল পৃষ্ঠ দিয়ে। নেফ্ৰন বৃক্কৰ আৰু ভিলাছ ক্ষুদ্ৰান্ত্ৰৰ।"
+    }
+  },
+  {
+    "id": "biology-272",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The vertebral column of an adult human consists of",
+      "as": "প্ৰাপ্তবয়স্ক মানুহৰ মেৰুদণ্ডত কিমানটা কশেৰুক থাকে"
+    },
+    "options": [
+      {
+        "en": "33 vertebrae in the child, fused to 26 in the adult",
+        "as": "শিশুত ৩৩ টা, প্ৰাপ্তবয়স্কত ২৬ টালৈ জোৰা লগা"
+      },
+      {
+        "en": "26 vertebrae at all ages",
+        "as": "সকলো বয়সত ২৬ টা"
+      },
+      {
+        "en": "12 vertebrae only",
+        "as": "কেৱল ১২ টা"
+      },
+      {
+        "en": "40 vertebrae",
+        "as": "৪০ টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A child has 33 separate vertebrae, but the sacral and coccygeal ones fuse so the adult column counts as 26. Saying 26 at all ages ignores the fusion.",
+      "as": "শিশুত ৩৩ টা পৃথক কশেৰুক থাকে, কিন্তু ত্ৰিকাস্থি আৰু অনুত্ৰিকাস্থিৰবোৰ জোৰা লাগে, সেয়ে প্ৰাপ্তবয়স্কৰ মেৰুদণ্ড ২৬ টা গণ্য হয়। সকলো বয়সতে ২৬ বুলিলে জোৰা লগাটো উপেক্ষা কৰে।"
+    }
   }
 ]

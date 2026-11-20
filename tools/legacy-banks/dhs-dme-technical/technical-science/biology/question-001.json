@@ -5098,5 +5098,5554 @@
       "en": "One partner gains and the other is neither helped nor harmed, which is commensalism. Mutualism would require both to gain.",
       "as": "এটা অংশীয়ে লাভ পায় আনটোৰ লাভো নহয় ক্ষতিও নহয়, সেয়াই সহভোজীতা। পৰস্পৰবাদত দুয়োটাই লাভ পোৱা লাগে।"
     }
+  },
+  {
+    "id": "biology-171",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The cell wall of a fungal hypha is built mainly of",
+      "as": "ভেঁকুৰ হাইফাৰ কোষবেৰ মূলতঃ কিৰে গঠিত"
+    },
+    "options": [
+      {
+        "en": "chitin",
+        "as": "কাইটিন"
+      },
+      {
+        "en": "cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "peptidoglycan",
+        "as": "পেপ্টিড'গ্লাইকেন"
+      },
+      {
+        "en": "lignin",
+        "as": "লিগনিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fungal walls are chitin, plant walls cellulose, and bacterial walls peptidoglycan. Chitin is a nitrogen-containing polysaccharide, which is why fungi differ from plants in wall chemistry.",
+      "as": "ভেঁকুৰৰ কোষবেৰ কাইটিন, উদ্ভিদৰ চেলুল'জ আৰু বেক্টেৰিয়াৰ পেপ্টিড'গ্লাইকেন। কাইটিন নাইট্ৰজেনযুক্ত পলিছেকাৰাইড, সেয়ে ভেঁকুৰৰ বেৰৰ ৰসায়ন উদ্ভিদতকৈ বেলেগ।"
+    }
+  },
+  {
+    "id": "biology-172",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The folds of the inner mitochondrial membrane that carry the electron transport chain are called",
+      "as": "ইলেক্ট্ৰন পৰিবহন শৃংখল কঢ়িয়াই নিয়া মাইট'কণ্ড্ৰিয়াৰ অন্তঃপৰ্দাৰ ভাঁজবোৰক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "cristae",
+        "as": "ক্ৰিষ্টি"
+      },
+      {
+        "en": "thylakoids",
+        "as": "থাইলাকইড"
+      },
+      {
+        "en": "cisternae",
+        "as": "চিষ্টাৰ্নি"
+      },
+      {
+        "en": "microvilli",
+        "as": "মাইক্ৰ'ভিলাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cristae are the inward folds of the inner membrane and they hold the respiratory assemblies. Thylakoids belong to chloroplasts, cisternae to Golgi and ER, and microvilli to the plasma membrane.",
+      "as": "ক্ৰিষ্টি হ'ল অন্তঃপৰ্দাৰ ভিতৰমুৱা ভাঁজ, য'ত শ্বসন সংযোগস্থল থাকে। থাইলাকইড ক্ল'ৰ'প্লাষ্টৰ, চিষ্টাৰ্নি গলজি আৰু ER ৰ, আৰু মাইক্ৰ'ভিলাই প্লাজমা পৰ্দাৰ।"
+    }
+  },
+  {
+    "id": "biology-173",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The nucleolus is the site of",
+      "as": "নিউক্লিঅ'লাছ কিৰ স্থান"
+    },
+    "options": [
+      {
+        "en": "ribosomal RNA synthesis",
+        "as": "ৰাইব'জ'মেল RNA সংশ্লেষণ"
+      },
+      {
+        "en": "DNA replication",
+        "as": "DNA প্ৰতিলিপন"
+      },
+      {
+        "en": "lipid synthesis",
+        "as": "লিপিড সংশ্লেষণ"
+      },
+      {
+        "en": "ATP formation",
+        "as": "ATP গঠন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The nucleolus is a dense region inside the nucleus where ribosomal RNA is transcribed and ribosomal subunits are assembled. DNA replication happens in the nucleoplasm, not the nucleolus.",
+      "as": "নিউক্লিঅ'লাছ নিউক্লিয়াছৰ ভিতৰৰ ঘন অঞ্চল, য'ত ৰাইব'জ'মেল RNA প্ৰতিলিখন হয় আৰু ৰাইব'জ'মেল উপএকক সজ্জিত হয়। DNA প্ৰতিলিপন নিউক্লিঅ'প্লাজমত হয়, নিউক্লিঅ'লাছত নহয়।"
+    }
+  },
+  {
+    "id": "biology-174",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "Colourless plastids that store starch, oil or protein are called",
+      "as": "চৰ্বি বা প্ৰ'টিন সাঁচি ৰখা বৰ্ণহীন প্লাষ্টিডক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "leucoplasts",
+        "as": "লিউক'প্লাষ্ট"
+      },
+      {
+        "en": "chloroplasts",
+        "as": "ক্ল'ৰ'প্লাষ্ট"
+      },
+      {
+        "en": "chromoplasts",
+        "as": "ক্ৰ'ম'প্লাষ্ট"
+      },
+      {
+        "en": "amyloplasts only",
+        "as": "কেৱল এমাইল'প্লাষ্ট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Leucoplasts are the unpigmented plastids of storage tissue; amyloplasts are one kind of leucoplast, so naming only amyloplasts is too narrow. Chloroplasts are green and chromoplasts carry non-green pigments.",
+      "as": "লিউক'প্লাষ্ট হ'ল সাঁচনি কলাৰ বৰ্ণহীন প্লাষ্টিড; এমাইল'প্লাষ্ট লিউক'প্লাষ্টৰ এটা প্ৰকাৰ, সেয়ে কেৱল এমাইল'প্লাষ্ট বুলিলে অতি সংকীৰ্ণ হয়। ক্ল'ৰ'প্লাষ্ট সেউজ আৰু ক্ৰ'ম'প্লাষ্টত সেউজ নহ'ব পৰা ৰঞ্জক থাকে।"
+    }
+  },
+  {
+    "id": "biology-175",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "In a prokaryotic cell the ribosome is of the",
+      "as": "প্ৰকাৰ্য'টিক কোষত ৰাইব'জ'ম কেনে ধৰণৰ"
+    },
+    "options": [
+      {
+        "en": "70S type",
+        "as": "৭০S প্ৰকাৰ"
+      },
+      {
+        "en": "80S type",
+        "as": "৮০S প্ৰকাৰ"
+      },
+      {
+        "en": "60S type",
+        "as": "৬০S প্ৰকাৰ"
+      },
+      {
+        "en": "40S type",
+        "as": "৪০S প্ৰকাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Prokaryotes carry 70S ribosomes made of 50S and 30S subunits. Eukaryotic cytoplasmic ribosomes are 80S, built from 60S and 40S subunits.",
+      "as": "প্ৰকাৰ্য'টত ৭০S ৰাইব'জ'ম থাকে, যি ৫০S আৰু ৩০S উপএককৰে গঠিত। ইউকাৰ্য'টিক চাইট'প্লাজমৰ ৰাইব'জ'ম ৮০S, যি ৬০S আৰু ৪০S উপএককৰে গঠিত।"
+    }
+  },
+  {
+    "id": "biology-176",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "Chromatin, the stained thread-like material of the interphase nucleus, consists of",
+      "as": "ইণ্টাৰফেজ নিউক্লিয়াছৰ ৰঙিন সূত্ৰাকৃতি পদাৰ্থ ক্ৰ'মেটিন কিৰে গঠিত"
+    },
+    "options": [
+      {
+        "en": "DNA wound round histone proteins",
+        "as": "হিষ্ট'ন প্ৰ'টিনৰ চাৰিওফালে জোৰা খোৱা DNA"
+      },
+      {
+        "en": "RNA and lipids",
+        "as": "RNA আৰু লিপিড"
+      },
+      {
+        "en": "protein only",
+        "as": "কেৱল প্ৰ'টিন"
+      },
+      {
+        "en": "polysaccharide and DNA",
+        "as": "পলিছেকাৰাইড আৰু DNA"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chromatin is a nucleoprotein complex of DNA coiled around histone octamers, forming nucleosomes. The protein component is histone, not lipid or carbohydrate.",
+      "as": "ক্ৰ'মেটিন হ'ল DNA আৰু হিষ্ট'ন অক্টামেৰেৰে গঠিত নিউক্লিঅ'প্ৰ'টিন জটিল, যি নিউক্লিঅ'জ'ম গঠন কৰে। প্ৰ'টিন অংশ হিষ্ট'ন, লিপিড বা শৰ্কৰা নহয়।"
+    }
+  },
+  {
+    "id": "biology-177",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "A cell that lacks a membrane-bound nucleus and mitochondria is best described as",
+      "as": "আৱৰণেৰে আবদ্ধ নিউক্লিয়াছ আৰু মাইট'কণ্ড্ৰিয়া নথকা কোষক কি বুলি কোৱা হয়"
+    },
+    "options": [
+      {
+        "en": "prokaryotic",
+        "as": "প্ৰকাৰ্য'টিক"
+      },
+      {
+        "en": "eukaryotic",
+        "as": "ইউকাৰ্য'টিক"
+      },
+      {
+        "en": "eukaryotic without organelles",
+        "as": "অংগাণু নোহোৱা ইউকাৰ্য'টিক"
+      },
+      {
+        "en": "multicellular",
+        "as": "বহুকোষীয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Absence of a nuclear envelope and of membrane-bound organelles such as mitochondria is the defining feature of prokaryotes. A eukaryotic cell always has a true nucleus even if some organelles are reduced.",
+      "as": "নিউক্লিয় আৱৰণ আৰু মাইট'কণ্ড্ৰিয়াৰ দৰে পৰ্দাবদ্ধ অংগাণুৰ অনুপস্থিতি প্ৰকাৰ্য'টৰ মূল বৈশিষ্ট্য। ইউকাৰ্য'টিক কোষত সদায় প্ৰকৃত নিউক্লিয়াছ থাকে যদিও কিছু অংগাণু হ্ৰাস পায়।"
+    }
+  },
+  {
+    "id": "biology-178",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The main structural polysaccharide of the plant cell wall is",
+      "as": "উদ্ভিদ কোষবেৰৰ মূল গঠনমূলক পলিছেকাৰাইড কি"
+    },
+    "options": [
+      {
+        "en": "cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "starch",
+        "as": "ষ্টাৰ্চ"
+      },
+      {
+        "en": "glycogen",
+        "as": "গ্লাইক'জেন"
+      },
+      {
+        "en": "chitin",
+        "as": "কাইটিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cellulose microfibrils give the plant wall its tensile strength. Starch and glycogen are storage polysaccharides and chitin builds fungal and arthropod exoskeletons.",
+      "as": "চেলুল'জ মাইক্ৰ'ফাইব্ৰিলে উদ্ভিদ বেৰক টান শক্তি দিয়ে। ষ্টাৰ্চ আৰু গ্লাইক'জেন সাঁচনি পলিছেকাৰাইড, আৰু কাইটিনে ভেঁকুৰ আৰু সন্ধিপদৰ বহিঃকংকাল গঠন কৰে।"
+    }
+  },
+  {
+    "id": "biology-179",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "Glycolysis in a eukaryotic cell takes place in the",
+      "as": "ইউকাৰ্য'টিক কোষত গ্লাইক'লাইছিস ক'ত হয়"
+    },
+    "options": [
+      {
+        "en": "cytoplasm",
+        "as": "চাইট'প্লাজম"
+      },
+      {
+        "en": "mitochondrial matrix",
+        "as": "মাইট'কণ্ড্ৰিয়াৰ মেট্ৰিক্স"
+      },
+      {
+        "en": "inner mitochondrial membrane",
+        "as": "মাইট'কণ্ড্ৰিয়াৰ অন্তঃপৰ্দা"
+      },
+      {
+        "en": "nucleus",
+        "as": "নিউক্লিয়াছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "All ten steps of glycolysis are cytosolic, so the pathway runs without oxygen and without mitochondria. The Krebs cycle and oxidative phosphorylation are the mitochondrial stages.",
+      "as": "গ্লাইক'লাইছিসৰ দহোটা স্তৰ চাইট'ছ'লত হয়, সেয়ে পথটো অক্সিজেন আৰু মাইট'কণ্ড্ৰিয়া অবিহনেও চলে। ক্ৰেবছ চক্ৰ আৰু অক্সিডেটিভ ফছফ'ৰিলেচন মাইট'কণ্ড্ৰিয়াৰ স্তৰ।"
+    }
+  },
+  {
+    "id": "biology-180",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "During which phase of the cell cycle does DNA replication occur?",
+      "as": "কোষ চক্ৰৰ কোনটো দশাত DNA প্ৰতিলিপন হয়"
+    },
+    "options": [
+      {
+        "en": "S phase",
+        "as": "S দশা"
+      },
+      {
+        "en": "G1 phase",
+        "as": "G১ দশা"
+      },
+      {
+        "en": "G2 phase",
+        "as": "G২ দশা"
+      },
+      {
+        "en": "M phase",
+        "as": "M দশা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The S phase is the synthesis phase in which each chromosome is duplicated. G1 and G2 are gap phases of growth, and M phase is the actual division.",
+      "as": "S দশা হ'ল সংশ্লেষণ দশা, য'ত প্ৰতিটো ক্ৰ'ম'জ'ম নকল হয়। G১ আৰু G২ বৃদ্ধিৰ অন্তৰাল দশা, আৰু M দশা প্ৰকৃত বিভাজন।"
+    }
+  },
+  {
+    "id": "biology-181",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The intercellular junction that fuses neighbouring cell membranes into a seal and prevents leakage between them is the",
+      "as": "প্ৰতিবেশী কোষৰ পৰ্দা জোৰা লগাই ছীল কৰি তেওঁলোকৰ মাজেৰে নিগৰি যোৱা বন্ধ কৰা সংযোগটো কি"
+    },
+    "options": [
+      {
+        "en": "tight junction",
+        "as": "টাইট জংচন"
+      },
+      {
+        "en": "gap junction",
+        "as": "গেপ জংচন"
+      },
+      {
+        "en": "desmosome",
+        "as": "ডেছম'জ'ম"
+      },
+      {
+        "en": "plasmodesma",
+        "as": "প্লাজম'ডেছমা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tight junctions seal the space between cells so solutes cannot slip through the gap. Gap junctions are channels for ions and desmosomes are rivets for mechanical hold.",
+      "as": "টাইট জংচনে কোষৰ মাজৰ খালী ঠাই বন্ধ কৰে যাতে দ্ৰাৱ্য নিগৰি যাব নোৱাৰে। গেপ জংচন আয়নৰ বাবে Channels আৰু ডেছম'জ'ম যান্ত্ৰিক ধৰণৰ কীলক।"
+    }
+  },
+  {
+    "id": "biology-182",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "Peroxisomes are chiefly responsible for",
+      "as": "পেৰ'ক্সিছ'ম মূলতঃ কিৰ বাবে দায়ী"
+    },
+    "options": [
+      {
+        "en": "breaking down fatty acids and hydrogen peroxide",
+        "as": "চৰ্বি অ্যাসিড আৰু হাইড্ৰজেন পেৰ'ক্সাইড ভাঙি দিয়া"
+      },
+      {
+        "en": "synthesising ATP",
+        "as": "ATP সংশ্লেষণ"
+      },
+      {
+        "en": "packaging proteins",
+        "as": "প্ৰ'টিন পেকেজিং"
+      },
+      {
+        "en": "storing water",
+        "as": "পানী সাঁচি ৰখা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Peroxisomes oxidise long-chain fatty acids and hold catalase, which splits the toxic hydrogen peroxide they generate into water and oxygen. ATP synthesis belongs to mitochondria.",
+      "as": "পেৰ'ক্সিছ'মে দীঘল শৃংখলৰ চৰ্বি অ্যাসিড অক্সিডাইজ কৰে আৰু কেটালেজ ৰাখে, যি সৃষ্ট হাইড্ৰজেন পেৰ'ক্সাইডক পানী আৰু অক্সিজেনত ভাঙে। ATP সংশ্লেষণ মাইট'কণ্ড্ৰিয়াৰ কাম।"
+    }
+  },
+  {
+    "id": "biology-183",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "Which organelle is described as the suicidal bag of the cell because it can digest the cell's own components?",
+      "as": "কোনটো অংগাণুক কোষৰ নিজৰ অংশ হজম কৰিব পৰাৰ বাবে কোষৰ আত্মহত্যাৰ মোন বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "lysosome",
+        "as": "লাইছ'জ'ম"
+      },
+      {
+        "en": "ribosome",
+        "as": "ৰাইব'জ'ম"
+      },
+      {
+        "en": "peroxisome",
+        "as": "পেৰ'ক্সিছ'ম"
+      },
+      {
+        "en": "centrosome",
+        "as": "চেণ্ট্ৰ'জ'ম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lysosomes hold acid hydrolases and can rupture to digest the cell itself during autolysis, hence the nickname. A peroxisome handles oxidative reactions, not bulk digestion.",
+      "as": "লাইছ'জ'মত অ্যাসিড হাইড্ৰ'লেজ থাকে আৰু অট'লাইছিছত ফাটি কোষকেই হজম কৰিব পাৰে, সেয়ে এই নাম। পেৰ'ক্সিছ'মে অক্সিডেটিভ বিক্ৰিয়া চম্ভালে, বৃহৎ হজম নহয়।"
+    }
+  },
+  {
+    "id": "biology-184",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Mendel's law of segregation is also known as the law of",
+      "as": "মেণ্ডেলৰ পৃথকীকৰণৰ সূত্ৰক আন কি নামেৰে জনা যায়"
+    },
+    "options": [
+      {
+        "en": "purity of gametes",
+        "as": "গেমেটৰ শুদ্ধতা"
+      },
+      {
+        "en": "independent assortment",
+        "as": "স্বাধীন সজ্জন"
+      },
+      {
+        "en": "dominance",
+        "as": "প্ৰভুত্ব"
+      },
+      {
+        "en": "linkage",
+        "as": "সংযোগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The law says the two alleles of a pair separate during gamete formation so each gamete carries only one, that is, gametes are pure for the factor. Independent assortment is a separate law about two or more gene pairs.",
+      "as": "সূত্ৰই কয় যে এযোৰ এলিল গেমেট গঠনৰ সময়ত পৃথক হয়, সেয়ে প্ৰতিটো গেমেটত এটাহে থাকে, অৰ্থাৎ গেমেট কাৰকৰ বাবে শুদ্ধ। স্বাধীন সজ্জন দুটা বা ততোধিক জিনযোৰৰ বেলেগ সূত্ৰ।"
+    }
+  },
+  {
+    "id": "biology-185",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "A cross of an F1 hybrid with its recessive parent is called a",
+      "as": "F১ সংকৰক তাৰ অৱশিষ্টাশ্ৰয়ী পিতৃ-মাতৃৰ লগত কৰা সংকৰণক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "test cross",
+        "as": "পৰীক্ষা সংকৰণ"
+      },
+      {
+        "en": "back cross only",
+        "as": "কেৱল পশ্চাৎ সংকৰণ"
+      },
+      {
+        "en": "reciprocal cross",
+        "as": "পৰস্পৰ সংকৰণ"
+      },
+      {
+        "en": "dihybrid cross",
+        "as": "দ্বিসংকৰ সংকৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Crossing with the recessive parent reveals the genotype of the hybrid, so it is a test cross. Every test cross is a back cross, but a back cross with the dominant parent would not reveal the genotype.",
+      "as": "অৱশিষ্টাশ্ৰয়ী পিতৃ-মাতৃৰ লগত সংকৰণে সংকৰৰ জিন'টাইপ প্ৰকাশ কৰে, সেয়ে ই পৰীক্ষা সংকৰণ। প্ৰতিটো পৰীক্ষা সংকৰণ পশ্চাৎ সংকৰণ, কিন্তু প্ৰভাৱী পিতৃ-মাতৃৰ লগত পশ্চাৎ সংকৰণে জিন'টাইপ নেদেখুৱায়।"
+    }
+  },
+  {
+    "id": "biology-186",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The phenotypic ratio of the F2 generation in a dihybrid cross with complete dominance is",
+      "as": "পূৰ্ণ প্ৰভুত্বৰ দ্বিসংকৰ সংকৰণত F২ বংশৰ ফিন'টাইপিক অনুপাত কিমান"
+    },
+    "options": [
+      {
+        "en": "9 : 3 : 3 : 1",
+        "as": "৯ : ৩ : ৩ : ১"
+      },
+      {
+        "en": "3 : 1",
+        "as": "৩ : ১"
+      },
+      {
+        "en": "1 : 2 : 1",
+        "as": "১ : ২ : ১"
+      },
+      {
+        "en": "1 : 1 : 1 : 1",
+        "as": "১ : ১ : ১ : ১"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Two independent gene pairs assorting freely give four phenotype classes in 9 : 3 : 3 : 1. The 3 : 1 ratio is monohybrid and 1 : 2 : 1 is a genotypic ratio.",
+      "as": "দুটা স্বাধীন জিনযোৰ স্বাধীনভাৱে সজ্জিত হৈ ৯ : ৩ : ৩ : ১ অনুপাতত চাৰিটা ফিন'টাইপ শ্ৰেণী দিয়ে। ৩ : ১ একসংকৰ আৰু ১ : ২ : ১ জিন'টাইপিক অনুপাত।"
+    }
+  },
+  {
+    "id": "biology-187",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "How many autosomes are present in a normal human somatic cell?",
+      "as": "স্বাভাৱিক মানৱ দেহকোষত কিমানটা অট'ছ'ম থাকে"
+    },
+    "options": [
+      {
+        "en": "44",
+        "as": "৪৪"
+      },
+      {
+        "en": "46",
+        "as": "৪৬"
+      },
+      {
+        "en": "23",
+        "as": "২৩"
+      },
+      {
+        "en": "22",
+        "as": "২২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A somatic cell has 46 chromosomes of which 2 are sex chromosomes, leaving 44 autosomes arranged as 22 pairs. The number 23 is the haploid total including one sex chromosome.",
+      "as": "দেহকোষত ৪৬ টা ক্ৰ'ম'জ'ম, তাৰ ২ টা যৌন ক্ৰ'ম'জ'ম, বাকী ৪৪ টা অট'ছ'ম যি ২২ যোৰত সজ্জিত। ২৩ সংখ্যাটো এটা যৌন ক্ৰ'ম'জ'মসহ হেপ্লইড মুঠ।"
+    }
+  },
+  {
+    "id": "biology-188",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Alternative forms of the same gene occupying the same locus on homologous chromosomes are called",
+      "as": "সমসংস্থ ক্ৰ'ম'জ'মৰ একেই স্থানত থকা একেই জিনৰ বিকল্প ৰূপবোৰক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "alleles",
+        "as": "এলিল"
+      },
+      {
+        "en": "codons",
+        "as": "ক'ডন"
+      },
+      {
+        "en": "cistrons",
+        "as": "চিষ্ট্ৰন"
+      },
+      {
+        "en": "operons",
+        "as": "অপেৰন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Alleles are the variant forms of one gene at a given locus. A codon is a triplet of mRNA bases, a cistron is a functional genetic unit, and an operon is a cluster of co-regulated bacterial genes.",
+      "as": "এলিল এটা নিৰ্দিষ্ট স্থানত থকা এটা জিনৰ বিভিন্ন ৰূপ। ক'ডন mRNA ৰ তিনি আখৰৰ একক, চিষ্ট্ৰন কাৰ্যকৰী জিনীয় একক, আৰু অপেৰন বেক্টেৰিয়াৰ সহ-নিয়ন্ত্ৰিত জিনৰ গোট।"
+    }
+  },
+  {
+    "id": "biology-189",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "An organism carrying two identical alleles for a character is said to be",
+      "as": "এটা বৈশিষ্ট্যৰ বাবে দুটা একেই এলিল কঢ়িয়াই নিয়া জীৱক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "homozygous",
+        "as": "সমযুগ্মী"
+      },
+      {
+        "en": "heterozygous",
+        "as": "অসমযুগ্মী"
+      },
+      {
+        "en": "hemizygous",
+        "as": "অৰ্ধযুগ্মী"
+      },
+      {
+        "en": "hybrid",
+        "as": "সংকৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Identical alleles make the organism homozygous. Heterozygous means two different alleles, and hemizygous describes a single copy as in X-linked genes of males.",
+      "as": "একেই এলিলে জীৱক সমযুগ্মী কৰে। অসমযুগ্মী মানে দুটা ভিন্ন এলিল, আৰু অৰ্ধযুগ্মীয়ে এটা মাত্ৰ নকল বুজায় যেনে পুৰুষৰ X-সংযুক্ত জিন।"
+    }
+  },
+  {
+    "id": "biology-190",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "In a DNA molecule adenine pairs with",
+      "as": "DNA অণুত এডেনিনে কিহৰ লগত যোৰ বান্ধে"
+    },
+    "options": [
+      {
+        "en": "thymine",
+        "as": "থাইমিন"
+      },
+      {
+        "en": "uracil",
+        "as": "ইউৰাছিল"
+      },
+      {
+        "en": "guanine",
+        "as": "গুৱানিন"
+      },
+      {
+        "en": "cytosine",
+        "as": "চাইট'চিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In DNA the purine adenine pairs with the pyrimidine thymine by two hydrogen bonds. Uracil replaces thymine in RNA, and guanine pairs with cytosine.",
+      "as": "DNA ত পিউৰিন এডেনিনে পিৰিমিডিন থাইমিনৰ লগত দুটা হাইড্ৰজেন বন্ধনৰে যোৰ বান্ধে। RNA ত ইউৰাছিলে থাইমিনৰ ঠাই লয়, আৰু গুৱানিনে চাইট'চিনৰ লগত যোৰ বান্ধে।"
+    }
+  },
+  {
+    "id": "biology-191",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "In RNA the base that pairs with adenine is",
+      "as": "RNA ত এডেনিনৰ লগত যোৰ বন্ধা ক্ষাৰকটো কি"
+    },
+    "options": [
+      {
+        "en": "uracil",
+        "as": "ইউৰাছিল"
+      },
+      {
+        "en": "thymine",
+        "as": "থাইমিন"
+      },
+      {
+        "en": "guanine",
+        "as": "গুৱানিন"
+      },
+      {
+        "en": "cytosine",
+        "as": "চাইট'চিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "RNA carries uracil in place of the thymine found in DNA, so adenine pairs with uracil during transcription and translation.",
+      "as": "RNA ত DNA ৰ থাইমিনৰ ঠাইত ইউৰাছিল থাকে, সেয়ে প্ৰতিলিখন আৰু অনুবাদনত এডেনিনে ইউৰাছিলৰ লগত যোৰ বান্ধে।"
+    }
+  },
+  {
+    "id": "biology-192",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The process by which mRNA is synthesised from a DNA template is called",
+      "as": "DNA টেমপ্লেটৰপৰা mRNA সংশ্লেষণ হোৱা প্ৰক্ৰিয়াটোক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "transcription",
+        "as": "প্ৰতিলিখন"
+      },
+      {
+        "en": "translation",
+        "as": "অনুবাদন"
+      },
+      {
+        "en": "replication",
+        "as": "প্ৰতিলিপন"
+      },
+      {
+        "en": "transformation",
+        "as": "ৰূপান্তৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Transcription copies the gene into mRNA. Translation then reads the mRNA on ribosomes to build protein, and replication copies the whole DNA molecule.",
+      "as": "প্ৰতিলিখনে জিনক mRNA লৈ নকল কৰে। অনুবাদনে তাৰ পিছত ৰাইব'জ'মত mRNA পঢ়ি প্ৰ'টিন গঢ়ে, আৰু প্ৰতিলিপনে গোটেই DNA অণু নকল কৰে।"
+    }
+  },
+  {
+    "id": "biology-193",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "A triplet of bases on mRNA that specifies one amino acid is called a",
+      "as": "এটা এমিন' অ্যাসিড নিৰ্দেশ কৰা mRNA ৰ তিনি আখৰৰ এককক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "codon",
+        "as": "ক'ডন"
+      },
+      {
+        "en": "anticodon",
+        "as": "এণ্টিক'ডন"
+      },
+      {
+        "en": "exon",
+        "as": "এক্সন"
+      },
+      {
+        "en": "intron",
+        "as": "ইণ্ট্ৰন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A codon is the mRNA triplet read by the ribosome. The anticodon is the complementary triplet on tRNA, while exons and introns are coding and non-coding stretches of a gene.",
+      "as": "ক'ডন হ'ল ৰাইব'জ'মে পঢ়া mRNA ৰ তিনি আখৰৰ একক। এণ্টিক'ডন tRNA ৰ পৰিপূৰক একক, আৰু এক্সন আৰু ইণ্ট্ৰন জিনৰ ক'ডিং আৰু অ-ক'ডিং অংশ।"
+    }
+  },
+  {
+    "id": "biology-194",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Which human blood group illustrates codominance of both alleles?",
+      "as": "কোনটো মানৱ ৰক্তগোটে দুয়োটা এলিলৰ সহপ্ৰভুত্ব দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "AB",
+        "as": "AB"
+      },
+      {
+        "en": "A",
+        "as": "A"
+      },
+      {
+        "en": "B",
+        "as": "B"
+      },
+      {
+        "en": "O",
+        "as": "O"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In group AB both A and B antigens appear on the red cell, so neither allele masks the other and they are codominant. Group O shows the recessive condition with no antigen.",
+      "as": "AB গোটত A আৰু B দুয়োটা এণ্টিজেন লোহিত কণিকাত দেখা যায়, সেয়ে কোনো এলিলে আনটোক ঢাকি নধৰে আৰু তেওঁলোক সহপ্ৰভাৱী। O গোটে এণ্টিজেন নোহোৱা অৱশিষ্টাশ্ৰয়ী অৱস্থা দেখুৱায়।"
+    }
+  },
+  {
+    "id": "biology-195",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Down syndrome in humans is caused by trisomy of chromosome",
+      "as": "মানুহত ডাউন ছিণ্ড্ৰ'ম ক্ৰ'ম'জ'মৰ কিমান নম্বৰটোৰ ট্ৰাইছ'মিৰ বাবে হয়"
+    },
+    "options": [
+      {
+        "en": "21",
+        "as": "২১"
+      },
+      {
+        "en": "18",
+        "as": "১৮"
+      },
+      {
+        "en": "13",
+        "as": "১৩"
+      },
+      {
+        "en": "23",
+        "as": "২৩"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Down syndrome is trisomy 21, an extra copy of chromosome 21. Trisomy 18 gives Edwards syndrome and trisomy 13 gives Patau syndrome.",
+      "as": "ডাউন ছিণ্ড্ৰ'ম হ'ল ট্ৰাইছ'মি ২১, অৰ্থাৎ ২১ নম্বৰ ক্ৰ'ম'জ'মৰ এটা অতিৰিক্ত নকল। ট্ৰাইছ'মি ১৮ এ এডৱাৰ্ডছ আৰু ট্ৰাইছ'মি ১৩ এ পাটাউ ছিণ্ড্ৰ'ম দিয়ে।"
+    }
+  },
+  {
+    "id": "biology-196",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Colour blindness in humans is inherited as",
+      "as": "মানুহত বৰ্ণান্ধতা কেনে ধৰণে উত্তৰাধিকাৰী হয়"
+    },
+    "options": [
+      {
+        "en": "X-linked recessive",
+        "as": "X-সংযুক্ত অৱশিষ্টাশ্ৰয়ী"
+      },
+      {
+        "en": "autosomal dominant",
+        "as": "অট'ছ'মেল প্ৰভাৱী"
+      },
+      {
+        "en": "Y-linked",
+        "as": "Y-সংযুক্ত"
+      },
+      {
+        "en": "autosomal recessive",
+        "as": "অট'ছ'মেল অৱশিষ্টাশ্ৰয়ী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The gene sits on the X chromosome and the defect is recessive, so males with one affected X are colour blind while females need both X chromosomes affected. Y carries no counterpart, which is why it is not Y-linked.",
+      "as": "জিনটো X ক্ৰ'ম'জ'মত আৰু ত্ৰুটিটো অৱশিষ্টাশ্ৰয়ী, সেয়ে এটা আক্ৰান্ত X থকা পুৰুষ বৰ্ণান্ধ, কিন্তু নাৰীক দুয়োটা X আক্ৰান্ত লাগে। Y ত প্ৰতিসম নাই, সেয়ে Y-সংযুক্ত নহয়।"
+    }
+  },
+  {
+    "id": "biology-197",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The scientist who proposed the theory of inheritance of acquired characters was",
+      "as": "অৰ্জিত বৈশিষ্ট্যৰ উত্তৰাধিকাৰ সূত্ৰ প্ৰস্তাৱ কৰা বিজ্ঞানীজন আছিল"
+    },
+    "options": [
+      {
+        "en": "Lamarck",
+        "as": "লামাৰ্ক"
+      },
+      {
+        "en": "Darwin",
+        "as": "ডাৰউইন"
+      },
+      {
+        "en": "Mendel",
+        "as": "মেণ্ডেল"
+      },
+      {
+        "en": "De Vries",
+        "as": "ডি ভ্ৰিছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lamarck held that characters gained during life are passed on, which later evidence did not support. Darwin proposed natural selection, Mendel gave the laws of inheritance and De Vries proposed mutation.",
+      "as": "লামাৰ্কে কৈছিল জীৱনকালত অৰ্জিত বৈশিষ্ট্য পৰৱৰ্তী বংশলৈ যায়, যি পিছৰ প্ৰমাণে সমৰ্থন নকৰিলে। ডাৰউইনে প্ৰাকৃতিক নিৰ্বাচন, মেণ্ডেলে উত্তৰাধিকাৰৰ সূত্ৰ আৰু ডি ভ্ৰিছে মিউটেচন দিলে।"
+    }
+  },
+  {
+    "id": "biology-198",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Darwin's finches of the Galapagos Islands, with beaks suited to different foods, illustrate",
+      "as": "গালাপাগছ দ্বীপপুঞ্জৰ ডাৰউইনৰ ফিঞ্চবোৰে, বিভিন্ন খাদ্যৰ বাবে উপযুক্ত ঠোঁটসহ, কি দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "adaptive radiation",
+        "as": "অভিযোজনীয় বিকিৰণ"
+      },
+      {
+        "en": "convergent evolution",
+        "as": "অভিসৰণী বিবৰ্তন"
+      },
+      {
+        "en": "parallel evolution",
+        "as": "সমান্তৰাল বিবৰ্তন"
+      },
+      {
+        "en": "genetic drift",
+        "as": "জিনীয় বিচ্যুতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "One ancestral stock radiating into several forms each fitted to a different niche is adaptive radiation. Convergent evolution is the opposite, unrelated lines coming to resemble each other.",
+      "as": "এটা পূৰ্বপুৰুষৰ পৰা বিভিন্ন সুকীয়া স্থানৰ বাবে উপযুক্ত বহু ৰূপলৈ বিকিৰণ হোৱাটো অভিযোজনীয় বিকিৰণ। অভিসৰণী বিবৰ্তন তাৰ ওলোটা, অসম্পৰ্কীয় শাখা সাদৃশ্যপূৰ্ণ হোৱা।"
+    }
+  },
+  {
+    "id": "biology-199",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The wings of a butterfly and the wings of a bat are examples of",
+      "as": "পখিলাৰ ডেউকা আৰু বাদুলিৰ ডেউকা কিৰ উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "analogous organs",
+        "as": "সমকাৰ্যী অংগ"
+      },
+      {
+        "en": "homologous organs",
+        "as": "সমসংস্থ অংগ"
+      },
+      {
+        "en": "vestigial organs",
+        "as": "অৱশিষ্ট অংগ"
+      },
+      {
+        "en": "atavistic organs",
+        "as": "পূৰ্বজ অংগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Both serve flight but differ in origin, the insect wing being a cuticular fold and the bat wing a modified forelimb, so they are analogous and point to convergent evolution. Homologous organs share a common origin with different functions.",
+      "as": "দুয়োটাই উৰণৰ কাম কৰে কিন্তু উৎপত্তি বেলেগ — পতংগৰ ডেউকা কিউটিকুলাৰ ভাঁজ আৰু বাদুলিৰ ডেউকা পৰিৱৰ্তিত অগ্ৰপাদ, সেয়ে সমকাৰ্যী আৰু অভিসৰণী বিবৰ্তন দেখুৱায়। সমসংস্থ অংগৰ উৎপত্তি একে কিন্তু কাৰ্য বেলেগ।"
+    }
+  },
+  {
+    "id": "biology-200",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The fossil that is regarded as a connecting link between reptiles and birds is",
+      "as": "সৰীসৃপ আৰু চৰাইৰ মাজৰ সংযোগী কড়ি বুলি গণ্য কৰা জীৱাশ্মটো কি"
+    },
+    "options": [
+      {
+        "en": "Archaeopteryx",
+        "as": "আৰ্কিঅ'প্টেৰিক্স"
+      },
+      {
+        "en": "Dodo",
+        "as": "ড'ড'"
+      },
+      {
+        "en": "Ichthyosaur",
+        "as": "ইকথিঅ'ছৰ"
+      },
+      {
+        "en": "Dinosaur",
+        "as": "ডাইন'ছৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Archaeopteryx had feathers and wings like a bird but teeth and a long bony tail like a reptile, which is why it is called a connecting link. The dodo was a flightless bird and the ichthyosaur a marine reptile.",
+      "as": "আৰ্কিঅ'প্টেৰিক্সত চৰাইৰ দৰে পাখি আৰু ডেউকা আছিল কিন্তু সৰীসৃপৰ দৰে দাঁত আৰু দীঘল হাড়যুক্ত নেজ, সেয়ে ইয়াক সংযোগী কড়ি বোলে। ড'ড' উৰিব নোৱাৰা চৰাই আৰু ইকথিঅ'ছৰ সাগৰীয় সৰীসৃপ।"
+    }
+  },
+  {
+    "id": "biology-201",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The Hardy-Weinberg principle states that allele frequencies in a population remain constant only when",
+      "as": "হাৰ্ডি-ৱেইনবাৰ্গ নীতিয়ে কয় যে জনসংখ্যাত এলিলৰ কম্পনাংক স্থিৰ থাকে কেৱল যেতিয়া"
+    },
+    "options": [
+      {
+        "en": "there is no mutation, migration or selection and mating is random",
+        "as": "মিউটেচন, প্ৰব্ৰজন বা নিৰ্বাচন নাথাকে আৰু মিলন যাদৃচ্ছিক"
+      },
+      {
+        "en": "the population is small",
+        "as": "জনসংখ্যা সৰু"
+      },
+      {
+        "en": "selection is strong",
+        "as": "নিৰ্বাচন প্ৰবল"
+      },
+      {
+        "en": "mutation is frequent",
+        "as": "মিউটেচন সঘন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The equilibrium holds only for a large randomly mating population free of mutation, migration and selection. A small population invites drift and strong selection or mutation changes frequencies directly.",
+      "as": "সাম্যাৱস্থা কেৱল ডাঙৰ যাদৃচ্ছিকভাৱে মিলনকৰা, মিউটেচন-প্ৰব্ৰজন-নিৰ্বাচনমুক্ত জনসংখ্যাত থাকে। সৰু জনসংখ্যাত বিচ্যুতি হয় আৰু প্ৰবল নিৰ্বাচন বা মিউটেচনে কম্পনাংক পোনপটীয়াকৈ সলনি কৰে।"
+    }
+  },
+  {
+    "id": "biology-202",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The haploid number of chromosomes in a human gamete is",
+      "as": "মানৱ গেমেটত ক্ৰ'ম'জ'মৰ হেপ্লইড সংখ্যা কিমান"
+    },
+    "options": [
+      {
+        "en": "23",
+        "as": "২৩"
+      },
+      {
+        "en": "46",
+        "as": "৪৬"
+      },
+      {
+        "en": "44",
+        "as": "৪৪"
+      },
+      {
+        "en": "22",
+        "as": "২২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Meiosis halves the diploid 46 to 23, so each gamete carries 22 autosomes plus one sex chromosome. Fusion at fertilisation restores 46.",
+      "as": "মিঅ'ছিছে ডিপ্লইড ৪৬ ক ২৩ লৈ আধা কৰে, সেয়ে প্ৰতিটো গেমেটত ২২ টা অট'ছ'ম আৰু এটা যৌন ক্ৰ'ম'জ'ম থাকে। নিষেচনত মিলি পুনৰ ৪৬ হয়।"
+    }
+  },
+  {
+    "id": "biology-203",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Which of the following is a chromosomal disorder rather than a single-gene disorder?",
+      "as": "তলৰ কোনটো এক-জিনৰ বিকাৰ নহয়, ক্ৰ'ম'জ'মেল বিকাৰ"
+    },
+    "options": [
+      {
+        "en": "Klinefelter syndrome",
+        "as": "ক্লাইনফেল্টাৰ ছিণ্ড্ৰ'ম"
+      },
+      {
+        "en": "Sickle cell anaemia",
+        "as": "কাঁইটীয়া কোষ ৰক্তহীনতা"
+      },
+      {
+        "en": "Haemophilia",
+        "as": "হিম'ফিলিয়া"
+      },
+      {
+        "en": "Phenylketonuria",
+        "as": "ফিনাইলকিট'নিউৰিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Klinefelter syndrome is an extra X chromosome, so the defect is in chromosome number. The other three are single-gene defects, sickle cell and phenylketonuria autosomal recessive and haemophilia X-linked recessive.",
+      "as": "ক্লাইনফেল্টাৰ ছিণ্ড্ৰ'ম এটা অতিৰিক্ত X ক্ৰ'ম'জ'ম, সেয়ে ত্ৰুটিটো ক্ৰ'ম'জ'ম সংখ্যাত। বাকী তিনিটা এক-জিন ত্ৰুটি — কাঁইটীয়া কোষ আৰু ফিনাইলকিট'নিউৰিয়া অট'ছ'মেল অৱশিষ্টাশ্ৰয়ী, হিম'ফিলিয়া X-সংযুক্ত অৱশিষ্টাশ্ৰয়ী।"
+    }
+  },
+  {
+    "id": "biology-204",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The branch of biology that deals with the study of tissues is called",
+      "as": "কলা অধ্যয়ন কৰা জীৱবিজ্ঞানৰ শাখাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "histology",
+        "as": "হিষ্ট'লজি"
+      },
+      {
+        "en": "cytology",
+        "as": "চাইট'লজি"
+      },
+      {
+        "en": "morphology",
+        "as": "আকৃতিবিজ্ঞান"
+      },
+      {
+        "en": "physiology",
+        "as": "শৰীৰবিজ্ঞান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Histology is the study of tissues, cytology of cells, morphology of external form and physiology of functions. The four are distinct levels of organisation.",
+      "as": "হিষ্ট'লজি কলাৰ অধ্যয়ন, চাইট'লজি কোষৰ, আকৃতিবিজ্ঞানে বাহ্য ৰূপৰ আৰু শৰীৰবিজ্ঞানে কাৰ্যৰ। এই চাৰিটা সংগঠনৰ পৃথক স্তৰ।"
+    }
+  },
+  {
+    "id": "biology-205",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The scientific study of the classification of organisms is called",
+      "as": "জীৱৰ শ্ৰেণীবিভাগৰ বৈজ্ঞানিক অধ্যয়নক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "taxonomy",
+        "as": "শ্ৰেণীবিভাগ বিজ্ঞান"
+      },
+      {
+        "en": "ecology",
+        "as": "পৰিৱেশ বিজ্ঞান"
+      },
+      {
+        "en": "embryology",
+        "as": "ভ্ৰূণবিজ্ঞান"
+      },
+      {
+        "en": "palaeontology",
+        "as": "জীৱাশ্মবিজ্ঞান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Taxonomy covers identification, nomenclature and classification of organisms. Ecology studies organisms and their surroundings, embryology development and palaeontology fossils.",
+      "as": "শ্ৰেণীবিভাগ বিজ্ঞানে জীৱ চিনাক্তকৰণ, নামকৰণ আৰু শ্ৰেণীবিভাগ সামৰি লয়। পৰিৱেশ বিজ্ঞানে জীৱ আৰু পৰিৱেশ, ভ্ৰূণবিজ্ঞানে বিকাশ আৰু জীৱাশ্মবিজ্ঞানে জীৱাশ্ম অধ্যয়ন কৰে।"
+    }
+  },
+  {
+    "id": "biology-206",
+    "leaf": "general-biology",
+    "q": {
+      "en": "In binomial nomenclature the first word of a scientific name denotes the",
+      "as": "দ্বিপদ নামকৰণত বৈজ্ঞানিক নামৰ প্ৰথম শব্দই কি সূচায়"
+    },
+    "options": [
+      {
+        "en": "genus",
+        "as": "গণ"
+      },
+      {
+        "en": "species",
+        "as": "প্ৰজাতি"
+      },
+      {
+        "en": "family",
+        "as": "পৰিয়াল"
+      },
+      {
+        "en": "order",
+        "as": "বৰ্গ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The first word is the genus and is written with a capital letter, the second is the species in small letters. Family and order are higher ranks that sit above the genus.",
+      "as": "প্ৰথম শব্দটো গণ, যি ডাঙৰ আখৰেৰে লিখা হয়, দ্বিতীয়টো প্ৰজাতি সৰু আখৰেৰে। পৰিয়াল আৰু বৰ্গ গণৰ ওপৰৰ উচ্চ শ্ৰেণী।"
+    }
+  },
+  {
+    "id": "biology-207",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which of the following is the correct sequence of taxonomic ranks from the largest to the smallest?",
+      "as": "তলৰ কোনটো শ্ৰেণীবিভাগৰ শ্ৰেণীসমূহৰ ডাঙৰৰপৰা সৰুলৈ শুদ্ধ ক্ৰম"
+    },
+    "options": [
+      {
+        "en": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "as": "জগত, পৰ্ব, শ্ৰেণী, বৰ্গ, পৰিয়াল, গণ, প্ৰজাতি"
+      },
+      {
+        "en": "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "as": "প্ৰজাতি, গণ, পৰিয়াল, বৰ্গ, শ্ৰেণী, পৰ্ব, জগত"
+      },
+      {
+        "en": "Kingdom, Class, Phylum, Family, Order, Genus, Species",
+        "as": "জগত, শ্ৰেণী, পৰ্ব, পৰিয়াল, বৰ্গ, গণ, প্ৰজাতি"
+      },
+      {
+        "en": "Phylum, Kingdom, Order, Class, Genus, Family, Species",
+        "as": "পৰ্ব, জগত, বৰ্গ, শ্ৰেণী, গণ, পৰিয়াল, প্ৰজাতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The accepted hierarchy narrows from kingdom down through phylum, class, order, family and genus to species. Placing class before phylum or order before class breaks the nesting.",
+      "as": "স্বীকৃত শ্ৰেণীবিভাগ জগতৰপৰা পৰ্ব, শ্ৰেণী, বৰ্গ, পৰিয়াল, গণ হৈ প্ৰজাতিলৈ সংকীৰ্ণ হয়। শ্ৰেণীক পৰ্বৰ আগত বা বৰ্গক শ্ৰেণীৰ আগত ৰখিলে ক্ৰম ভাঙে।"
+    }
+  },
+  {
+    "id": "biology-208",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Organisms whose cells contain a true nucleus and membrane-bound organelles belong to the kingdom-level group called",
+      "as": "সত্য নিউক্লিয়াছ আৰু পৰ্দাবদ্ধ অংগাণু থকা জীৱই কি জগত-স্তৰৰ গোটত পৰে"
+    },
+    "options": [
+      {
+        "en": "Eukaryota",
+        "as": "ইউকাৰ্য'টা"
+      },
+      {
+        "en": "Bacteria",
+        "as": "বেক্টেৰিয়া"
+      },
+      {
+        "en": "Archaea",
+        "as": "আৰ্কিয়া"
+      },
+      {
+        "en": "Protista only",
+        "as": "কেৱল প্ৰ'টিষ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Eukaryota is the domain uniting all cells with a nuclear envelope, which includes protists, fungi, plants and animals. Bacteria and Archaea are prokaryotic, so Protista alone would exclude plants and animals.",
+      "as": "ইউকাৰ্য'টা হ'ল সেই ডমেইন যি নিউক্লিয় আৱৰণ থকা সকলো কোষক একত্ৰিত কৰে, য'ত প্ৰ'টিষ্ট, ভেঁকুৰ, উদ্ভিদ আৰু প্ৰাণী পৰে। বেক্টেৰিয়া আৰু আৰ্কিয়া প্ৰকাৰ্য'টিক, সেয়ে কেৱল প্ৰ'টিষ্টা বুলিলে উদ্ভিদ আৰু প্ৰাণী বাদ পৰে।"
+    }
+  },
+  {
+    "id": "biology-209",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The presence of a notochord at some stage of life is the defining feature of the phylum",
+      "as": "জীৱনৰ কোনো এটা স্তৰত ন'ট'কৰ্ড থকাটো কোনটো পৰ্বৰ নিৰ্ণায়ক বৈশিষ্ট্য"
+    },
+    "options": [
+      {
+        "en": "Chordata",
+        "as": "কৰ্ডেটা"
+      },
+      {
+        "en": "Arthropoda",
+        "as": "আৰ্থ্ৰ'প'ডা"
+      },
+      {
+        "en": "Mollusca",
+        "as": "মলাস্কা"
+      },
+      {
+        "en": "Annelida",
+        "as": "এনেলিডা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chordates are defined by a notochord, a dorsal hollow nerve cord, pharyngeal gill slits and a post-anal tail at some stage. Arthropods have jointed limbs and exoskeletons, molluscs a mantle and annelids a segmented body.",
+      "as": "কৰ্ডেটাৰ নিৰ্ণায়ক হ'ল কোনো স্তৰত ন'ট'কৰ্ড, পৃষ্ঠীয় hollow স্নায়ু ৰজ্জু, গলবিলীয় ফুলা আৰু পায়ু-পৰৱৰ্তী নেজ। আৰ্থ্ৰ'প'ডত সন্ধিযুক্ত অংগ আৰু বহিঃকংকাল, মলাস্কত মেণ্টল আৰু এনেলিডাত খণ্ডিত দেহ।"
+    }
+  },
+  {
+    "id": "biology-210",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which of the following is an example of an organelle-free, non-cellular infectious agent?",
+      "as": "তলৰ কোনটো অংগাণুহীন, অকোষীয় সংক্ৰামক কাৰকৰ উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "Virus",
+        "as": "ভাইৰাছ"
+      },
+      {
+        "en": "Bacterium",
+        "as": "বেক্টেৰিয়া"
+      },
+      {
+        "en": "Yeast",
+        "as": "ঈষ্ট"
+      },
+      {
+        "en": "Protozoan",
+        "as": "প্ৰ'ট'জ'ৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A virus has no cell, no organelles and no independent metabolism, consisting only of nucleic acid inside a protein coat. Bacteria, yeast and protozoa are all cellular.",
+      "as": "ভাইৰাছৰ কোষ, অংগাণু আৰু স্বাধীন বিপাক নাই, কেৱল প্ৰ'টিন আৱৰণত নিউক্লিক অ্যাসিড থাকে। বেক্টেৰিয়া, ঈষ্ট আৰু প্ৰ'ট'জ'ৱা সকলো কোষীয়।"
+    }
+  },
+  {
+    "id": "biology-211",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The living component of a cell that carries out all metabolic reactions is the",
+      "as": "কোষৰ সকলো বিপাকীয় বিক্ৰিয়া সম্পন্ন কৰা জীৱন্ত অংশটো কি"
+    },
+    "options": [
+      {
+        "en": "protoplasm",
+        "as": "প্ৰ'ট'প্লাজম"
+      },
+      {
+        "en": "cell wall",
+        "as": "কোষবেৰ"
+      },
+      {
+        "en": "vacuole",
+        "as": "ৰিক্ততা"
+      },
+      {
+        "en": "extracellular matrix",
+        "as": "বহিঃকোষীয় মেট্ৰিক্স"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Protoplasm is the collective name for cytoplasm plus nucleus, the living material where metabolism happens. The wall, vacuole contents and matrix are non-living or largely non-living.",
+      "as": "প্ৰ'ট'প্লাজম হ'ল চাইট'প্লাজম আৰু নিউক্লিয়াছৰ সমষ্টিগত নাম, য'ত বিপাক ঘটে। বেৰ, ৰিক্ততাৰ ভিতৰৰ বস্তু আৰু মেট্ৰিক্স নিৰ্জীৱ বা প্ৰায় নিৰ্জীৱ।"
+    }
+  },
+  {
+    "id": "biology-212",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which of the following shows the correct order of levels of organisation from simplest to most complex?",
+      "as": "তলৰ কোনটোৱে সংগঠনৰ স্তৰসমূহৰ সৰলৰপৰা জটিললৈ শুদ্ধ ক্ৰম দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "Cell, tissue, organ, organ system, organism",
+        "as": "কোষ, কলা, অংগ, অংগ তন্ত্ৰ, জীৱ"
+      },
+      {
+        "en": "Tissue, cell, organism, organ, organ system",
+        "as": "কলা, কোষ, জীৱ, অংগ, অংগ তন্ত্ৰ"
+      },
+      {
+        "en": "Organ, cell, tissue, organism, organ system",
+        "as": "অংগ, কোষ, কলা, জীৱ, অংগ তন্ত্ৰ"
+      },
+      {
+        "en": "Organism, organ, tissue, cell, organ system",
+        "as": "জীৱ, অংগ, কলা, কোষ, অংগ তন্ত্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Complexity rises from cell to tissue, tissue to organ, organ to organ system and finally the whole organism. Any order that puts tissue before cell or organism before organ inverts the nesting.",
+      "as": "জটিলতা কোষৰপৰা কলা, কলাৰপৰা অংগ, অংগৰপৰা অংগ তন্ত্ৰ আৰু শেষত গোটেই জীৱলৈ বাঢ়ে। কলাক কোষৰ আগত বা জীৱক অংগৰ আগত ৰখা যিকোনো ক্ৰমে ক্ৰম ওলোটা কৰে।"
+    }
+  },
+  {
+    "id": "biology-213",
+    "leaf": "general-biology",
+    "q": {
+      "en": "A group of organisms that can interbreed and produce fertile offspring is called a",
+      "as": "প্ৰজনন কৰি উৰ্বৰ সন্তান উৎপন্ন কৰিব পৰা জীৱৰ গোটক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "species",
+        "as": "প্ৰজাতি"
+      },
+      {
+        "en": "genus",
+        "as": "গণ"
+      },
+      {
+        "en": "population",
+        "as": "জনসংখ্যা"
+      },
+      {
+        "en": "community",
+        "as": "সম্প্ৰদায়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A species is the interbreeding unit that produces fertile offspring. A genus groups related species, a population is one species in one area, and a community is all species in an area.",
+      "as": "প্ৰজাতি হ'ল উৰ্বৰ সন্তান উৎপন্ন কৰা প্ৰজননৰ একক। গণে সম্পৰ্কীয় প্ৰজাতি একত্ৰিত কৰে, জনসংখ্যা এটা অঞ্চলৰ এটা প্ৰজাতি, আৰু সম্প্ৰদায় এটা অঞ্চলৰ সকলো প্ৰজাতি।"
+    }
+  },
+  {
+    "id": "biology-214",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The cell organelle that contains hydrolytic enzymes and functions at an acidic pH is the",
+      "as": "অ্যাসিডিক pH ত কাম কৰা আৰু হাইড্ৰ'লিটিক এনজাইম থকা কোষ অংগাণুটো কি"
+    },
+    "options": [
+      {
+        "en": "lysosome",
+        "as": "লাইছ'জ'ম"
+      },
+      {
+        "en": "ribosome",
+        "as": "ৰাইব'জ'ম"
+      },
+      {
+        "en": "chloroplast",
+        "as": "ক্ল'ৰ'প্লাষ্ট"
+      },
+      {
+        "en": "nucleolus",
+        "as": "নিউক্লিঅ'লাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lysosomes maintain a pH near 5 and hold acid hydrolases for intracellular digestion. Ribosomes build protein, chloroplasts photosynthesise and the nucleolus makes rRNA.",
+      "as": "লাইছ'জ'মে pH প্ৰায় ৫ ৰাখে আৰু অন্তঃকোষীয় হজমৰ বাবে অ্যাসিড হাইড্ৰ'লেজ ধৰি ৰাখে। ৰাইব'জ'মে প্ৰ'টিন গঢ়ে, ক্ল'ৰ'প্লাষ্টে সালোক সংশ্লেষণ কৰে আৰু নিউক্লিঅ'লাছে rRNA বনায়।"
+    }
+  },
+  {
+    "id": "biology-215",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which property of water allows insects such as water striders to walk on its surface?",
+      "as": "পানীৰ কোনটো ধৰ্মই পানী-খোৱা পতংগৰ দৰে পতংগক ইয়াৰ পৃষ্ঠত খোজ কাঢ়িবলৈ দিয়ে"
+    },
+    "options": [
+      {
+        "en": "surface tension",
+        "as": "পৃষ্ঠ টান"
+      },
+      {
+        "en": "viscosity",
+        "as": "সান্দ্ৰতা"
+      },
+      {
+        "en": "density",
+        "as": "ঘনত্ব"
+      },
+      {
+        "en": "osmosis",
+        "as": "অভিস্ৰৱণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Surface tension arises from cohesion between water molecules at the air-water interface and forms a skin strong enough to support small insects. Viscosity resists flow within the liquid, not at its surface.",
+      "as": "পৃষ্ঠ টান বায়ু-পানী সংযোগস্থলত পানী অণুৰ মাজৰ সংসক্তিৰপৰা জন্মে আৰু সৰু পতংগ ধৰি ৰাখিব পৰা ছাল গঢ়ে। সান্দ্ৰতাই তৰলৰ ভিতৰত প্ৰবাহ বাধা দিয়ে, পৃষ্ঠত নহয়।"
+    }
+  },
+  {
+    "id": "biology-216",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Enzymes are biological catalysts that speed up reactions mainly by",
+      "as": "এনজাইমে জৈৱিক অনুঘটক হিচাপে বিক্ৰিয়া দ্ৰুত কৰে মূলতঃ কিৰ দ্বাৰা"
+    },
+    "options": [
+      {
+        "en": "lowering the activation energy",
+        "as": "সক্ৰিয়ণ শক্তি কমাই"
+      },
+      {
+        "en": "raising the temperature",
+        "as": "উষ্ণতা বঢ়াই"
+      },
+      {
+        "en": "increasing the substrate concentration",
+        "as": "অধঃস্তৰৰ ঘনত্ব বঢ়াই"
+      },
+      {
+        "en": "changing the equilibrium constant",
+        "as": "সাম্যাৱস্থা ধ্ৰুৱক সলনি কৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An enzyme provides an alternative path of lower activation energy, so more molecules can react at body temperature. It does not change the equilibrium position or add heat.",
+      "as": "এনজাইমে কম সক্ৰিয়ণ শক্তিৰ বিকল্প পথ দিয়ে, সেয়ে শৰীৰৰ উষ্ণতাত অধিক অণুৱে বিক্ৰিয়া কৰিব পাৰে। ই সাম্যাৱস্থাৰ অৱস্থান নসলায়, তাপো নিদিয়ে।"
+    }
+  },
+  {
+    "id": "biology-217",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The property of an enzyme by which it acts on only one substrate or a small group of related substrates is called",
+      "as": "এনজাইমে কেৱল এটা অধঃস্তৰ বা সৰু সম্পৰ্কীয় গোটত ক্ৰিয়া কৰা ধৰ্মটোক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "specificity",
+        "as": "নিৰ্দিষ্টতা"
+      },
+      {
+        "en": "catalysis",
+        "as": "অনুঘটন"
+      },
+      {
+        "en": "denaturation",
+        "as": "অপ্ৰকৃতিকৰণ"
+      },
+      {
+        "en": "inhibition",
+        "as": "প্ৰতিৰোধ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Specificity comes from the shape of the active site, which fits only particular substrates, the lock-and-key or induced-fit idea. Denaturation destroys that shape and abolishes activity.",
+      "as": "নিৰ্দিষ্টতা সক্ৰিয় স্থানৰ আকৃতিৰপৰা আহে, যি কেৱল নিৰ্দিষ্ট অধঃস্তৰত খাপ খায়, তলা-চাবি বা প্ৰেৰিত খাপৰ ধাৰণা। অপ্ৰকৃতিকৰণে সেই আকৃতি নষ্ট কৰি কাৰ্য বন্ধ কৰে।"
+    }
+  },
+  {
+    "id": "biology-218",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which of the following is a polysaccharide stored in the human liver?",
+      "as": "তলৰ কোনটো মানুহৰ যকৃতত সাঁচি ৰখা পলিছেকাৰাইড"
+    },
+    "options": [
+      {
+        "en": "glycogen",
+        "as": "গ্লাইক'জেন"
+      },
+      {
+        "en": "cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "chitin",
+        "as": "কাইটিন"
+      },
+      {
+        "en": "starch",
+        "as": "ষ্টাৰ্চ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The liver stores glucose as glycogen and breaks it down again to hold blood sugar steady. Cellulose and chitin are structural, and starch is the plant storage form.",
+      "as": "যকৃতই গ্লুক'জক গ্লাইক'জেন হিচাপে সাঁচি ৰাখে আৰু ৰক্ত শৰ্কৰা স্থিৰ ৰাখিবলৈ পুনৰ ভাঙে। চেলুল'জ আৰু কাইটিন গঠনমূলক, আৰু ষ্টাৰ্চ উদ্ভিদৰ সাঁচনি ৰূপ।"
+    }
+  },
+  {
+    "id": "biology-219",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The nitrogenous base found in DNA but not in RNA is",
+      "as": "DNA ত থকা কিন্তু RNA ত নথকা নাইট্ৰজেনযুক্ত ক্ষাৰকটো কি"
+    },
+    "options": [
+      {
+        "en": "thymine",
+        "as": "থাইমিন"
+      },
+      {
+        "en": "uracil",
+        "as": "ইউৰাছিল"
+      },
+      {
+        "en": "adenine",
+        "as": "এডেনিন"
+      },
+      {
+        "en": "guanine",
+        "as": "গুৱানিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Thymine occurs in DNA and uracil replaces it in RNA. Adenine, guanine and cytosine are common to both molecules.",
+      "as": "থাইমিন DNA ত থাকে আৰু RNA ত ইয়াৰ ঠাইত ইউৰাছিল থাকে। এডেনিন, গুৱানিন আৰু চাইট'চিন দুয়োটা অণুতেই থাকে।"
+    }
+  },
+  {
+    "id": "biology-220",
+    "leaf": "general-biology",
+    "q": {
+      "en": "A cell placed in a hypotonic solution will",
+      "as": "হাইপ'টনিক দ্ৰৱত ৰখা কোষ এটা কি হ'ব"
+    },
+    "options": [
+      {
+        "en": "swell and may burst",
+        "as": "ফুলি যাব আৰু ফাটিবও পাৰে"
+      },
+      {
+        "en": "shrink and shrivel",
+        "as": "সংকুচিত আৰু শুকাই যাব"
+      },
+      {
+        "en": "remain unchanged",
+        "as": "অপৰিৱৰ্তিত থাকিব"
+      },
+      {
+        "en": "lose its nucleus",
+        "as": "নিউক্লিয়াছ হেৰুৱাব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In a hypotonic solution the outside solute concentration is lower, so water enters by osmosis and the cell swells, an animal cell possibly bursting. Shrinking happens in a hypertonic solution.",
+      "as": "হাইপ'টনিক দ্ৰৱত বাহিৰৰ দ্ৰাৱ্যৰ ঘনত্ব কম, সেয়ে অভিস্ৰৱণে পানী সোমাই কোষ ফুলে, প্ৰাণী কোষ ফাটিবও পাৰে। সংকোচন হাইপাৰটনিক দ্ৰৱত হয়।"
+    }
+  },
+  {
+    "id": "biology-221",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which of the following is not a characteristic of living organisms?",
+      "as": "তলৰ কোনটো জীৱৰ বৈশিষ্ট্য নহয়"
+    },
+    "options": [
+      {
+        "en": "Crystallisation",
+        "as": "স্ফটিকীভৱন"
+      },
+      {
+        "en": "Growth",
+        "as": "বৃদ্ধি"
+      },
+      {
+        "en": "Reproduction",
+        "as": "প্ৰজনন"
+      },
+      {
+        "en": "Response to stimuli",
+        "as": "উদ্দীপনাত সঁহাৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Growth, reproduction, metabolism and response to stimuli are defining features of life. Crystallisation is a physical process that also occurs in non-living matter.",
+      "as": "বৃদ্ধি, প্ৰজনন, বিপাক আৰু উদ্দীপনাত সঁহাৰি জীৱনৰ নিৰ্ণায়ক বৈশিষ্ট্য। স্ফটিকীভৱন এটা ভৌতিক প্ৰক্ৰিয়া যি নিৰ্জীৱ পদাৰ্থতো ঘটে।"
+    }
+  },
+  {
+    "id": "biology-222",
+    "leaf": "general-biology",
+    "q": {
+      "en": "The number of chromosomes in a human gamete and in a human somatic cell respectively is",
+      "as": "মানৱ গেমেট আৰু মানৱ দেহকোষত ক্ৰ'ম'জ'মৰ সংখ্যা ক্ৰমে কিমান"
+    },
+    "options": [
+      {
+        "en": "23 and 46",
+        "as": "২৩ আৰু ৪৬"
+      },
+      {
+        "en": "46 and 23",
+        "as": "৪৬ আৰু ২৩"
+      },
+      {
+        "en": "23 and 23",
+        "as": "২৩ আৰু ২৩"
+      },
+      {
+        "en": "46 and 92",
+        "as": "৪৬ আৰু ৯২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A gamete is haploid with 23 and a somatic cell diploid with 46, so the zygote returns to 46 after fusion. The reverse order would make gametes diploid.",
+      "as": "গেমেট হেপ্লইড ২৩ আৰু দেহকোষ ডিপ্লইড ৪৬, সেয়ে মিলনৰ পিছত জাইগ'ট পুনৰ ৪৬ হয়। ওলোটা ক্ৰমে গেমেটক ডিপ্লইড কৰি দিব।"
+    }
+  },
+  {
+    "id": "biology-223",
+    "leaf": "general-biology",
+    "q": {
+      "en": "Which one of the following is a vestigial organ in humans?",
+      "as": "তলৰ কোনটো মানুহৰ অৱশিষ্ট অংগ"
+    },
+    "options": [
+      {
+        "en": "vermiform appendix",
+        "as": "কৃমিৰূপ পৰিশিষ্ট"
+      },
+      {
+        "en": "liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "spleen",
+        "as": "প্লীহা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The vermiform appendix is a reduced remnant of the caecum, which is large in herbivores. The liver, pancreas and spleen all carry out active functions.",
+      "as": "কৃমিৰূপ পৰিশিষ্ট তৃণভোজী জীৱত ডাঙৰ হোৱা অন্ধনাড়ীৰ হ্ৰাস পোৱা অৱশিষ্ট। যকৃত, অগ্ন্যাশয় আৰু প্লীহা সকলোৱে সক্ৰিয় কাৰ্য কৰে।"
+    }
+  },
+  {
+    "id": "biology-224",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "The scientist who first observed and described bacteria under a microscope was",
+      "as": "অণুবীক্ষণ যন্ত্ৰৰ তলত প্ৰথমে বেক্টেৰিয়া দেখি বৰ্ণনা কৰা বিজ্ঞানীজন আছিল"
+    },
+    "options": [
+      {
+        "en": "Anton van Leeuwenhoek",
+        "as": "এণ্টন ভান লিউৱেনহুক"
+      },
+      {
+        "en": "Robert Koch",
+        "as": "ৰবাৰ্ট কক"
+      },
+      {
+        "en": "Alexander Fleming",
+        "as": "আলেকজেণ্ডাৰ ফ্লেমিং"
+      },
+      {
+        "en": "Edward Jenner",
+        "as": "এডৱাৰ্ড জেনাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Leeuwenhoek ground his own lenses and described bacteria from tooth scrapings in the seventeenth century. Koch isolated pathogens, Fleming found penicillin and Jenner pioneered smallpox vaccination.",
+      "as": "লিউৱেনহুকে নিজে লেন্স ঘঁহি সপ্তদশ শতিকাত দাঁতৰ মলমৰপৰা বেক্টেৰিয়া বৰ্ণনা কৰিছিল। ককে ৰোগজীৱ পৃথক কৰিছিল, ফ্লেমিঙে পেনিচিলিন আৰু জেনাৰে বসন্তৰ টীকা আৰম্ভ কৰিছিল।"
+    }
+  },
+  {
+    "id": "biology-225",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Pasteurisation of milk involves",
+      "as": "গাখীৰৰ পেষ্টুৰীকৰণত কি কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "heating to about 63 degrees Celsius for 30 minutes then rapid cooling",
+        "as": "প্ৰায় ৬৩ ডিগ্ৰী ছেলছিয়াছত ৩০ মিনিট গৰম কৰি লগে লগে ঠাণ্ডা কৰা"
+      },
+      {
+        "en": "boiling at 121 degrees Celsius for 15 minutes",
+        "as": "১২১ ডিগ্ৰী ছেলছিয়াছত ১৫ মিনিট উতলোৱা"
+      },
+      {
+        "en": "freezing to minus 20 degrees Celsius",
+        "as": "মাইনাছ ২০ ডিগ্ৰী ছেলছিয়াছত জমা"
+      },
+      {
+        "en": "adding antibiotics",
+        "as": "এণ্টিবায়'টিক যোগ কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pasteurisation is a mild heat treatment, holding milk near 63 degrees Celsius for half an hour or about 72 degrees Celsius briefly, which kills pathogens without spoiling taste. Autoclaving at 121 degrees Celsius sterilises completely.",
+      "as": "পেষ্টুৰীকৰণ এটা মৃদু তাপ চিকিৎসা, গাখীৰ প্ৰায় ৬৩ ডিগ্ৰী ছেলছিয়াছত আধা ঘণ্টা বা ৭২ ডিগ্ৰী ছেলছিয়াছত কিছু সময় ৰখা হয়, যিয়ে ৰোগজীৱ মাৰে কিন্তু সোৱাদ নষ্ট নকৰে। ১২১ ডিগ্ৰী ছেলছিয়াছত অট'ক্লেভিঙে সম্পূৰ্ণ জীৱাণুমুক্ত কৰে।"
+    }
+  },
+  {
+    "id": "biology-226",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Penicillin, the first antibiotic discovered, was obtained from",
+      "as": "আৱিষ্কৃত প্ৰথম এণ্টিবায়'টিক পেনিচিলিন কিৰপৰা পোৱা গৈছিল"
+    },
+    "options": [
+      {
+        "en": "Penicillium notatum",
+        "as": "পেনিচিলিয়াম ন'টেটাম"
+      },
+      {
+        "en": "Saccharomyces cerevisiae",
+        "as": "ছেকাৰ'মাইচিছ ছেৰেভিছিয়ে"
+      },
+      {
+        "en": "Escherichia coli",
+        "as": "এছাৰিকিয়া ক'লাই"
+      },
+      {
+        "en": "Lactobacillus",
+        "as": "লেক্ট'বেছিলাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fleming noticed that Penicillium notatum inhibited staphylococci, and penicillin came from that mould. Yeast is used in fermentation, E. coli is a gut bacterium and Lactobacillus curdles milk.",
+      "as": "ফ্লেমিঙে লক্ষ্য কৰিলে যে পেনিচিলিয়াম ন'টেটামে ষ্টেফাইল'কক্কাই বাধা দিয়ে, আৰু সেই ভেঁকুৰৰপৰা পেনিচিলিন আহিল। ঈষ্ট সেঁচত, E. ক'লাই অন্ত্ৰৰ বেক্টেৰিয়া আৰু লেক্ট'বেছিলাছে গাখীৰ টেঙা কৰে।"
+    }
+  },
+  {
+    "id": "biology-227",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "In the production of curd from milk the bacterium chiefly responsible is",
+      "as": "গাখীৰৰপৰা দৈ বনোৱাত মূলতঃ দায়ী বেক্টেৰিয়াটো কি"
+    },
+    "options": [
+      {
+        "en": "Lactobacillus",
+        "as": "লেক্ট'বেছিলাছ"
+      },
+      {
+        "en": "Rhizobium",
+        "as": "ৰাইজ'বিয়াম"
+      },
+      {
+        "en": "Azotobacter",
+        "as": "এজ'ট'বেক্টৰ"
+      },
+      {
+        "en": "Clostridium",
+        "as": "ক্ল'ষ্ট্ৰিডিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lactobacillus converts lactose into lactic acid, which curdles the milk protein. Rhizobium and Azotobacter fix nitrogen in soil, and Clostridium includes anaerobic pathogens.",
+      "as": "লেক্ট'বেছিলাছে লেক্ট'জক লেক্টিক অ্যাসিডলৈ ৰূপান্তৰ কৰে, যি গাখীৰৰ প্ৰ'টিন জমাই দিয়ে। ৰাইজ'বিয়াম আৰু এজ'ট'বেক্টৰে মাটিত নাইট্ৰজেন সংযুক্ত কৰে, আৰু ক্ল'ষ্ট্ৰিডিয়ামত অৱায়বিক ৰোগজীৱ থাকে।"
+    }
+  },
+  {
+    "id": "biology-228",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Rhizobium bacteria in the root nodules of leguminous plants are important because they",
+      "as": "শিম্বজাতীয় উদ্ভিদৰ মূল গাঁঠিত থকা ৰাইজ'বিয়াম বেক্টেৰিয়া গুৰুত্বপূৰ্ণ কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "fix atmospheric nitrogen into usable compounds",
+        "as": "বায়ুমণ্ডলীয় নাইট্ৰজেনক ব্যৱহাৰযোগ্য যৌগলৈ সংযুক্ত কৰে"
+      },
+      {
+        "en": "decompose dead matter",
+        "as": "মৃত পদাৰ্থ পচায়"
+      },
+      {
+        "en": "produce antibiotics",
+        "as": "এণ্টিবায়'টিক উৎপন্ন কৰে"
+      },
+      {
+        "en": "cause fermentation",
+        "as": "সেঁচ ঘটায়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rhizobium lives symbiotically in nodules and reduces atmospheric nitrogen to ammonia with the enzyme nitrogenase, enriching the soil. Decomposition is the work of saprophytes and fermentation of yeast or bacteria.",
+      "as": "ৰাইজ'বিয়াম গাঁঠিত সহজীৱীভাৱে থাকে আৰু নাইট্ৰ'জিনেজ এনজাইমৰে বায়ুমণ্ডলীয় নাইট্ৰজেনক এম'নিয়ালৈ বিজাৰিত কৰি মাটি সমৃদ্ধ কৰে। পচন মৃতজীৱীৰ কাম আৰু সেঁচ ঈষ্ট বা বেক্টেৰিয়াৰ।"
+    }
+  },
+  {
+    "id": "biology-229",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Which of the following diseases is caused by a virus?",
+      "as": "তলৰ কোনটো ৰোগ ভাইৰাছৰ দ্বাৰা হয়"
+    },
+    "options": [
+      {
+        "en": "Rabies",
+        "as": "জলাতংক"
+      },
+      {
+        "en": "Cholera",
+        "as": "কলেৰা"
+      },
+      {
+        "en": "Tetanus",
+        "as": "ধনুষ্টংকাৰ"
+      },
+      {
+        "en": "Typhoid",
+        "as": "টাইফইড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rabies is caused by a rhabdovirus transmitted through animal bites. Cholera, tetanus and typhoid are all bacterial diseases.",
+      "as": "জলাতংক ৰেবড'ভাইৰাছৰ দ্বাৰা হয় যি জন্তুৰ কামোৰৰ জৰিয়তে বিয়পে। কলেৰা, ধনুষ্টংকাৰ আৰু টাইফইড সকলো বেক্টেৰিয়াৰ ৰোগ।"
+    }
+  },
+  {
+    "id": "biology-230",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "The microorganism used in the commercial production of ethanol from molasses is",
+      "as": "মিছামৰপৰা এথানলৰ বাণিজ্যিক উৎপাদনত ব্যৱহৃত অণুজীৱটো কি"
+    },
+    "options": [
+      {
+        "en": "Saccharomyces cerevisiae",
+        "as": "ছেকাৰ'মাইচিছ ছেৰেভিছিয়ে"
+      },
+      {
+        "en": "Penicillium",
+        "as": "পেনিচিলিয়াম"
+      },
+      {
+        "en": "Lactobacillus",
+        "as": "লেক্ট'বেছিলাছ"
+      },
+      {
+        "en": "Nitrosomonas",
+        "as": "নাইট্ৰ'ছ'ম'নাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Yeast ferments sugar to ethanol and carbon dioxide through the anaerobic pathway, which is the basis of the alcohol industry. Penicillium makes antibiotics and Nitrosomonas nitrifies ammonia in soil.",
+      "as": "ঈষ্টে অৱায়বিক পথেৰে শৰ্কৰাক এথানল আৰু কাৰ্বন ডাইঅক্সাইডলৈ সেঁচ কৰে, যি মদ শিল্পৰ ভিত্তি। পেনিচিলিয়ামে এণ্টিবায়'টিক আৰু নাইট্ৰ'ছ'ম'নাছে মাটিত এম'নিয়া নাইট্ৰিফাই কৰে।"
+    }
+  },
+  {
+    "id": "biology-231",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Sterilisation by autoclave is achieved by",
+      "as": "অট'ক্লেভৰ দ্বাৰা জীৱাণুমুক্তকৰণ কিৰ দ্বাৰা হয়"
+    },
+    "options": [
+      {
+        "en": "steam under pressure at 121 degrees Celsius",
+        "as": "১২১ ডিগ্ৰী ছেলছিয়াছত চাপযুক্ত ভাপ"
+      },
+      {
+        "en": "dry heat at 60 degrees Celsius",
+        "as": "৬০ ডিগ্ৰী ছেলছিয়াছত শুকান তাপ"
+      },
+      {
+        "en": "ultraviolet light alone",
+        "as": "কেৱল অতি-বেঙুনীয়া ৰশ্মি"
+      },
+      {
+        "en": "filtration through paper",
+        "as": "কাগজেৰে পৰিস্ৰাৱণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An autoclave uses saturated steam at about 121 degrees Celsius under pressure for 15 to 20 minutes, which kills spores as well as vegetative cells. Dry heat at 60 degrees or paper filtration does not sterilise reliably.",
+      "as": "অট'ক্লেভে চাপৰ তলত প্ৰায় ১২১ ডিগ্ৰী ছেলছিয়াছৰ সম্পৃক্ত ভাপ ১৫ ৰপৰা ২০ মিনিট ব্যৱহাৰ কৰে, যিয়ে বীজাণু আৰু কাৰ্যকৰী কোষ দুয়ো মাৰে। ৬০ ডিগ্ৰী শুকান তাপ বা কাগজ পৰিস্ৰাৱণে নিৰ্ভৰযোগ্যভাৱে জীৱাণুমুক্ত নকৰে।"
+    }
+  },
+  {
+    "id": "biology-232",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "In genetic engineering, the small circular DNA molecules used to carry a foreign gene into a host cell are called",
+      "as": "জিনীয় অভিযান্ত্ৰিকীত বিদেশী জিন ধৰি পোষক কোষলৈ নিয়া সৰু বৃত্তীয় DNA অণুবোৰক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "plasmids",
+        "as": "প্লাজমিড"
+      },
+      {
+        "en": "chromosomes",
+        "as": "ক্ৰ'ম'জ'ম"
+      },
+      {
+        "en": "nucleosomes",
+        "as": "নিউক্লিঅ'জ'ম"
+      },
+      {
+        "en": "ribosomes",
+        "as": "ৰাইব'জ'ম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Plasmids are extrachromosomal circular DNA in bacteria used as cloning vectors. Chromosomes are the main genetic material, nucleosomes are DNA-histone units and ribosomes are protein factories.",
+      "as": "প্লাজমিড বেক্টেৰিয়াৰ ক্ৰ'ম'জ'ম-বহিঃস্থ বৃত্তীয় DNA, যি ক্ল'নিং ভেক্টৰ হিচাপে ব্যৱহৃত হয়। ক্ৰ'ম'জ'ম মূল জিনীয় পদাৰ্থ, নিউক্লিঅ'জ'ম DNA-হিষ্ট'ন একক আৰু ৰাইব'জ'ম প্ৰ'টিন কাৰখানা।"
+    }
+  },
+  {
+    "id": "biology-233",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Restriction endonucleases are enzymes that",
+      "as": "ৰিষ্ট্ৰিকচন এণ্ড'নিউক্লিয়েজ এনে এনজাইম যি"
+    },
+    "options": [
+      {
+        "en": "cut DNA at specific base sequences",
+        "as": "নিৰ্দিষ্ট ক্ষাৰক ক্ৰমত DNA কাটে"
+      },
+      {
+        "en": "join two DNA fragments",
+        "as": "দুটা DNA খণ্ড জোৰে"
+      },
+      {
+        "en": "synthesise RNA from DNA",
+        "as": "DNA ৰপৰা RNA সংশ্লেষণ কৰে"
+      },
+      {
+        "en": "unwind the double helix",
+        "as": "দুটাৰ্গ ফিতা খোলা কৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Restriction enzymes recognise a specific palindromic sequence and cut there, giving the molecular scissors of cloning. Joining fragments is the job of DNA ligase.",
+      "as": "ৰিষ্ট্ৰিকচন এনজাইমে এটা নিৰ্দিষ্ট পেলিনড্ৰ'মিক ক্ৰম চিনি তাত কাটে, যি ক্ল'নিঙৰ আণৱিক কেঁচি। খণ্ড জোৰা কাম DNA লাইগেজৰ।"
+    }
+  },
+  {
+    "id": "biology-234",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "DNA ligase is used in genetic engineering to",
+      "as": "জিনীয় অভিযান্ত্ৰিকীত DNA লাইগেজ কিৰ বাবে ব্যৱহৃত হয়"
+    },
+    "options": [
+      {
+        "en": "join DNA fragments by forming phosphodiester bonds",
+        "as": "ফছফ'ডাইএষ্টাৰ বন্ধন গঠন কৰি DNA খণ্ড জোৰে"
+      },
+      {
+        "en": "cut DNA at specific sites",
+        "as": "নিৰ্দিষ্ট স্থানত DNA কাটে"
+      },
+      {
+        "en": "separate DNA by size",
+        "as": "আকৃতি অনুসৰি DNA পৃথক কৰে"
+      },
+      {
+        "en": "amplify DNA",
+        "as": "DNA বঢ়ায়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ligase seals the sugar-phosphate backbone between fragments, completing a recombinant molecule. Cutting is done by restriction enzymes and amplification by polymerase chain reaction.",
+      "as": "লাইগেজে খণ্ডৰ মাজত শৰ্কৰা-ফছফেট মেৰুদণ্ড জোৰে, যি পুনঃসংযোজিত অণু সম্পূৰ্ণ কৰে। কটা ৰিষ্ট্ৰিকচন এনজাইমে আৰু বঢ়োৱা পলিমাৰেজ শৃংখল বিক্ৰিয়াই কৰে।"
+    }
+  },
+  {
+    "id": "biology-235",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Gel electrophoresis separates DNA fragments on the basis of their",
+      "as": "জেল ইলেক্ট্ৰ'ফৰেছিছে DNA খণ্ড কি ভিত্তিত পৃথক কৰে"
+    },
+    "options": [
+      {
+        "en": "size",
+        "as": "আকৃতি"
+      },
+      {
+        "en": "base sequence",
+        "as": "ক্ষাৰক ক্ৰম"
+      },
+      {
+        "en": "colour",
+        "as": "ৰং"
+      },
+      {
+        "en": "charge only",
+        "as": "কেৱল আধান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Smaller fragments travel further through the gel mesh than larger ones, so fragments sort by length. All DNA carries a similar negative charge, so charge alone cannot separate them.",
+      "as": "সৰু খণ্ডে জেল জালৰ মাজেৰে ডাঙৰতকৈ বেছি দূৰলৈ যায়, সেয়ে খণ্ড দীঘ অনুসৰি সজ্জিত হয়। সকলো DNA ত প্ৰায় একে ঋণাত্মক আধান থাকে, সেয়ে কেৱল আধানে পৃথক নকৰে।"
+    }
+  },
+  {
+    "id": "biology-236",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Tissue culture is based on the principle that",
+      "as": "কলা প্ৰচৰ্চা কি নীতিত আধাৰিত"
+    },
+    "options": [
+      {
+        "en": "a single cell can regenerate a whole plant under suitable conditions",
+        "as": "উপযুক্ত অৱস্থাত এটা কোষে গোটেই উদ্ভিদ পুনৰ্জীৱিত কৰিব পাৰে"
+      },
+      {
+        "en": "cells lose the ability to divide in culture",
+        "as": "প্ৰচৰ্চাত কোষে বিভাজনৰ ক্ষমতা হেৰুৱায়"
+      },
+      {
+        "en": "only reproductive cells can be cultured",
+        "as": "কেৱল প্ৰজনন কোষ প্ৰচৰ্চা কৰিব পাৰি"
+      },
+      {
+        "en": "plants cannot be cloned",
+        "as": "উদ্ভিদ ক্ল'ন কৰিব নোৱাৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The technique rests on totipotency, the ability of a plant cell to give rise to a complete plant given the right nutrients and hormones. Animal cells are far more restricted in this respect.",
+      "as": "এই কৌশল ট'টিপ'টেন্সিত আধাৰিত, অৰ্থাৎ সঠিক পুষ্টি আৰু হৰম'ন দিলে এটা উদ্ভিদ কোষে সম্পূৰ্ণ উদ্ভিদ জন্মাব পাৰে। প্ৰাণী কোষ এই ক্ষেত্ৰত বহু বেছি সীমাবদ্ধ।"
+    }
+  },
+  {
+    "id": "biology-237",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "The bacterium that lives in the human intestine and helps in the synthesis of vitamin K is",
+      "as": "মানুহৰ অন্ত্ৰত বাস কৰি ভিটামিন K সংশ্লেষণত সহায় কৰা বেক্টেৰিয়াটো কি"
+    },
+    "options": [
+      {
+        "en": "Escherichia coli",
+        "as": "এছাৰিকিয়া ক'লাই"
+      },
+      {
+        "en": "Clostridium tetani",
+        "as": "ক্ল'ষ্ট্ৰিডিয়াম টেটানি"
+      },
+      {
+        "en": "Vibrio cholerae",
+        "as": "ভিব্ৰিঅ' কলেৰি"
+      },
+      {
+        "en": "Mycobacterium tuberculosis",
+        "as": "মাইক'বেক্টেৰিয়াম টিউবাৰকুল'ছিছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "E. coli is part of the normal gut flora and contributes to vitamin K synthesis. The other three are pathogens causing tetanus, cholera and tuberculosis.",
+      "as": "E. ক'লাই স্বাভাৱিক অন্ত্ৰৰ অনুজীৱৰ অংশ আৰু ভিটামিন K সংশ্লেষণত অৰিহণা দিয়ে। বাকী তিনিটা ক্ৰমে ধনুষ্টংকাৰ, কলেৰা আৰু যক্ষ্মাৰ ৰোগজীৱ।"
+    }
+  },
+  {
+    "id": "biology-238",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Which of the following is a product of fermentation by yeast that is used in baking?",
+      "as": "তলৰ কোনটো ঈষ্টৰ সেঁচৰ ফল যি বেকিঙত ব্যৱহৃত হয়"
+    },
+    "options": [
+      {
+        "en": "carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "hydrogen sulphide",
+        "as": "হাইড্ৰজেন ছালফাইড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The carbon dioxide released by yeast fermentation forms bubbles that make bread dough rise. Ethanol also forms but escapes during baking.",
+      "as": "ঈষ্টৰ সেঁচত ওলোৱা কাৰ্বন ডাইঅক্সাইডে বুৰবুৰণি গঢ়ি পাউৰুটিত খমিৰ উঠায়। এথানলো সৃষ্টি হয় কিন্তু বেকিংত উৰি যায়।"
+    }
+  },
+  {
+    "id": "biology-239",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "The term biotechnology in its modern sense chiefly refers to",
+      "as": "আধুনিক অৰ্থত জীৱপ্ৰযুক্তি শব্দই মূলতঃ কি সূচায়"
+    },
+    "options": [
+      {
+        "en": "the use of living systems or their parts to make useful products",
+        "as": "উপযোগী সামগ্ৰী বনাবলৈ জীৱন্ত তন্ত্ৰ বা তাৰ অংশ ব্যৱহাৰ"
+      },
+      {
+        "en": "the study of fossils",
+        "as": "জীৱাশ্ম অধ্যয়ন"
+      },
+      {
+        "en": "the classification of animals",
+        "as": "প্ৰাণীৰ শ্ৰেণীবিভাগ"
+      },
+      {
+        "en": "the chemical analysis of soil",
+        "as": "মাটিৰ ৰাসায়নিক বিশ্লেষণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Modern biotechnology covers genetic engineering, cell culture and enzyme technology applied to produce medicines, crops and industrial chemicals. Fossil study and classification belong to other branches.",
+      "as": "আধুনিক জীৱপ্ৰযুক্তিয়ে জিনীয় অভিযান্ত্ৰিকী, কলা প্ৰচৰ্চা আৰু এনজাইম প্ৰযুক্তি সামৰি ঔষধ, শস্য আৰু শিল্প ৰসায়ন উৎপাদনত ব্যৱহৃত হয়। জীৱাশ্ম অধ্যয়ন আৰু শ্ৰেণীবিভাগ অন্য শাখাৰ।"
+    }
+  },
+  {
+    "id": "biology-240",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Vaccines work by",
+      "as": "টীকাই কেনেকৈ কাম কৰে"
+    },
+    "options": [
+      {
+        "en": "stimulating the body to produce antibodies without causing the disease",
+        "as": "ৰোগ নঘটাই শৰীৰক এণ্টিবডি উৎপাদনলৈ উদ্দীপিত কৰি"
+      },
+      {
+        "en": "killing all bacteria in the blood",
+        "as": "ৰক্তৰ সকলো বেক্টেৰিয়া মাৰি"
+      },
+      {
+        "en": "supplying ready-made antibodies permanently",
+        "as": "সদায় থকাকৈ সাজু এণ্টিবডি যোগান ধৰি"
+      },
+      {
+        "en": "replacing damaged organs",
+        "as": "ক্ষতিগ্ৰস্ত অংগ সলনি কৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A vaccine presents a weakened or inactivated antigen so the immune system makes antibodies and memory cells, giving protection on later exposure. Ready-made antibodies give only short-term passive immunity.",
+      "as": "টীকাই দুৰ্বল বা নিষ্ক্ৰিয় এণ্টিজেন দিয়ে, যাতে ৰোগ প্ৰতিৰক্ষা তন্ত্ৰই এণ্টিবডি আৰু স্মৃতি কোষ বনায়, পিছত সংস্পৰ্শত সুৰক্ষা দিয়ে। সাজু এণ্টিবডিয়ে কেৱল অলপ সময়ৰ নিষ্ক্ৰিয় প্ৰতিৰক্ষা দিয়ে।"
+    }
+  },
+  {
+    "id": "biology-241",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Which of the following organisms is used as a biofertiliser in paddy fields?",
+      "as": "তলৰ কোনটো জীৱ ধানপথাৰত জৈৱ সাৰ হিচাপে ব্যৱহৃত হয়"
+    },
+    "options": [
+      {
+        "en": "Azolla",
+        "as": "এজ'লা"
+      },
+      {
+        "en": "Penicillium",
+        "as": "পেনিচিলিয়াম"
+      },
+      {
+        "en": "Plasmodium",
+        "as": "প্লাজম'ডিয়াম"
+      },
+      {
+        "en": "Trypanosoma",
+        "as": "ট্ৰাইপেন'ছ'মা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Azolla is an aquatic fern that harbours nitrogen-fixing cyanobacteria in its leaf cavities and is grown with paddy to add nitrogen. Plasmodium and Trypanosoma are parasites and Penicillium a mould.",
+      "as": "এজ'লা এটা জলজ ফাৰ্ন যি পাতৰ গহ্বৰত নাইট্ৰজেন সংযুক্তকাৰী ছায়েন'বেক্টেৰিয়া ৰাখে আৰু ধানৰ লগত নাইট্ৰজেন যোগ দিবলৈ খেতি কৰা হয়। প্লাজম'ডিয়াম আৰু ট্ৰাইপেন'ছ'মা পৰজীৱী আৰু পেনিচিলিয়াম এটা ভেঁকুৰ।"
+    }
+  },
+  {
+    "id": "biology-242",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Bacillus thuringiensis is used in agriculture because it produces",
+      "as": "বেছিলাছ থুৰিঞ্জিয়েন্সিছ কৃষিত ব্যৱহৃত হয় কাৰণ ই উৎপন্ন কৰে"
+    },
+    "options": [
+      {
+        "en": "a protein toxic to certain insect larvae",
+        "as": "কিছু পতংগ পলুৰ বাবে বিষাক্ত প্ৰ'টিন"
+      },
+      {
+        "en": "a growth hormone for plants",
+        "as": "উদ্ভিদৰ বাবে বৃদ্ধি হৰম'ন"
+      },
+      {
+        "en": "an antibiotic for humans",
+        "as": "মানুহৰ বাবে এণ্টিবায়'টিক"
+      },
+      {
+        "en": "a nitrogen-fixing enzyme",
+        "as": "নাইট্ৰজেন সংযুক্তকাৰী এনজাইম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The bacterium makes crystal proteins that are toxic to the larvae of certain insects such as bollworms, so its genes are used in Bt crops. It does not fix nitrogen or supply hormones.",
+      "as": "বেক্টেৰিয়াটোৱে ক্ৰিষ্টেল প্ৰ'টিন বনায় যি ব'লৱৰ্মৰ দৰে কিছু পতংগৰ পলুৰ বাবে বিষাক্ত, সেয়ে ইয়াৰ জিন Bt শস্যত ব্যৱহৃত হয়। ই নাইট্ৰজেন সংযুক্ত বা হৰম'ন যোগান নধৰে।"
+    }
+  },
+  {
+    "id": "biology-243",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "The organism that causes fermentation of idli and dosa batter is chiefly",
+      "as": "ইডলি আৰু ড'ছা মিশ্ৰণৰ সেঁচ ঘটাৰ বাবে মূলতঃ দায়ী জীৱটো কি"
+    },
+    "options": [
+      {
+        "en": "Leuconostoc and yeasts acting together",
+        "as": "লিউক'ন'ষ্টক আৰু ঈষ্ট একেলগে"
+      },
+      {
+        "en": "Penicillium only",
+        "as": "কেৱল পেনিচিলিয়াম"
+      },
+      {
+        "en": "Rhizobium",
+        "as": "ৰাইজ'বিয়াম"
+      },
+      {
+        "en": "Nitrosomonas",
+        "as": "নাইট্ৰ'ছ'ম'নাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Batter fermentation is a mixed process in which Leuconostoc produces acids and yeasts raise gas, giving the spongy texture. A single mould or a nitrogen-fixing bacterium cannot do both.",
+      "as": "মিশ্ৰণৰ সেঁচ এটা মিশ্ৰিত প্ৰক্ৰিয়া, য'ত লিউক'ন'ষ্টকে অ্যাসিড আৰু ঈষ্টে গেছ উৎপন্ন কৰি স্পঞ্জৰ দৰে গঠন দিয়ে। এটা ভেঁকুৰ বা নাইট্ৰজেন সংযুক্তকাৰী বেক্টেৰিয়াই দুয়োটা কৰিব নোৱাৰে।"
+    }
+  },
+  {
+    "id": "biology-244",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Which of the following is an example of a single-cell protein source used as animal feed?",
+      "as": "তলৰ কোনটো পশু খাদ্য হিচাপে ব্যৱহৃত এককোষ প্ৰ'টিনৰ উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "Spirulina",
+        "as": "স্পাইৰুলিনা"
+      },
+      {
+        "en": "Paddy straw",
+        "as": "ধানৰ খেৰ"
+      },
+      {
+        "en": "Molasses",
+        "as": "মিছাম"
+      },
+      {
+        "en": "Limestone",
+        "as": "চূণশিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Spirulina is a cyanobacterium rich in protein and grown as a feed and food supplement. Straw and molasses are carbohydrate feeds and limestone is a mineral supplement.",
+      "as": "স্পাইৰুলিনা এটা ছায়েন'বেক্টেৰিয়া যি প্ৰ'টিনেৰে চহকী আৰু খাদ্য আৰু পুষ্টি যোগান হিচাপে খেতি কৰা হয়। খেৰ আৰু মিছাম কাৰ্ব'হাইড্ৰেট খাদ্য আৰু চূণশিল খনিজ যোগান।"
+    }
+  },
+  {
+    "id": "biology-245",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "The enzyme used in the polymerase chain reaction to synthesise new DNA strands is",
+      "as": "পলিমাৰেজ শৃংখল বিক্ৰিয়াত নতুন DNA ফিতা সংশ্লেষণত ব্যৱহৃত এনজাইমটো কি"
+    },
+    "options": [
+      {
+        "en": "Taq polymerase",
+        "as": "টেক পলিমাৰেজ"
+      },
+      {
+        "en": "DNA ligase",
+        "as": "DNA লাইগেজ"
+      },
+      {
+        "en": "restriction enzyme",
+        "as": "ৰিষ্ট্ৰিকচন এনজাইম"
+      },
+      {
+        "en": "amylase",
+        "as": "এমাইলেজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Taq polymerase from a hot-spring bacterium survives the high denaturation temperature of each cycle. Ligase joins fragments and restriction enzymes cut, so neither can extend a new strand.",
+      "as": "উষ্ণ ঝৰণাৰ বেক্টেৰিয়াৰ টেক পলিমাৰেজে প্ৰতিটো চক্ৰৰ উচ্চ অপ্ৰকৃতিকৰণ উষ্ণতা সহ্য কৰে। লাইগেজে খণ্ড জোৰে আৰু ৰিষ্ট্ৰিকচন এনজাইমে কাটে, সেয়ে কোনেও নতুন ফিতা বঢ়াব নোৱাৰে।"
+    }
+  },
+  {
+    "id": "biology-246",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Which of the following is a viral disease of plants?",
+      "as": "তলৰ কোনটো উদ্ভিদৰ ভাইৰাছ ৰোগ"
+    },
+    "options": [
+      {
+        "en": "Tobacco mosaic",
+        "as": "তামোল ম'জাইক"
+      },
+      {
+        "en": "Rust of wheat",
+        "as": "গমৰ ৰাষ্ট"
+      },
+      {
+        "en": "Late blight of potato",
+        "as": "আলুৰ পলমীয়া ধ্বংস"
+      },
+      {
+        "en": "Smut of rice",
+        "as": "ধানৰ স্মাট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tobacco mosaic is caused by tobacco mosaic virus, the first virus ever discovered. Rust, late blight and smut are fungal diseases.",
+      "as": "তামোল ম'জাইক তামোল ম'জাইক ভাইৰাছৰ দ্বাৰা হয়, যি আৱিষ্কৃত প্ৰথম ভাইৰাছ। ৰাষ্ট, পলমীয়া ধ্বংস আৰু স্মাট ভেঁকুৰৰ ৰোগ।"
+    }
+  },
+  {
+    "id": "biology-247",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "A bacteriophage is a virus that infects",
+      "as": "বেক্টেৰিঅ'ফেজ এটা ভাইৰাছ যি সংক্ৰমিত কৰে"
+    },
+    "options": [
+      {
+        "en": "bacteria",
+        "as": "বেক্টেৰিয়া"
+      },
+      {
+        "en": "plants",
+        "as": "উদ্ভিদ"
+      },
+      {
+        "en": "animals",
+        "as": "প্ৰাণী"
+      },
+      {
+        "en": "fungi",
+        "as": "ভেঁকুৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The name means bacterium-eater, and bacteriophages attach to bacterial cells and inject their nucleic acid. Viruses of plants and animals carry different names and host ranges.",
+      "as": "নামটোৰ অৰ্থ বেক্টেৰিয়া-ভক্ষক, আৰু বেক্টেৰিঅ'ফেজে বেক্টেৰিয়া কোষত লাগি নিউক্লিক অ্যাসিড সুমুৱাই দিয়ে। উদ্ভিদ আৰু প্ৰাণীৰ ভাইৰাছৰ নাম আৰু পোষক পৰিসৰ বেলেগ।"
+    }
+  },
+  {
+    "id": "biology-248",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "The main advantage of using microorganisms in industrial production is that they",
+      "as": "শিল্প উৎপাদনত অণুজীৱ ব্যৱহাৰৰ মূল সুবিধা কি"
+    },
+    "options": [
+      {
+        "en": "multiply rapidly and can be grown on cheap raw materials",
+        "as": "দ্ৰুতভাৱে বাঢ়ে আৰু সস্তা কেঁচা সামগ্ৰীত খেতি কৰিব পাৰি"
+      },
+      {
+        "en": "never mutate",
+        "as": "কেতিয়াও পৰিৱৰ্তিত নহয়"
+      },
+      {
+        "en": "require no nutrients",
+        "as": "পুষ্টিৰ প্ৰয়োজন নাই"
+      },
+      {
+        "en": "produce only one product each",
+        "as": "প্ৰতিটোৱে কেৱল এটা সামগ্ৰী উৎপাদন কৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Short generation time and the ability to use agricultural and industrial waste make microbial fermentation economical. Microbes do mutate, need nutrients and often give several products.",
+      "as": "চুটি বংশানুক্ৰম সময় আৰু কৃষি তথা শিল্প বৰ্জিত সামগ্ৰী ব্যৱহাৰৰ ক্ষমতাই অণুজীৱ সেঁচক লাভজনক কৰে। অণুজীৱ পৰিৱৰ্তিত হয়, পুষ্টি লাগে আৰু প্ৰায়ে কেইবাটাও সামগ্ৰী দিয়ে।"
+    }
+  },
+  {
+    "id": "biology-249",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "Animals in which the coelom is lined partly by mesoderm and partly by endoderm are called",
+      "as": "যি প্ৰাণীত ছিল'মৰ কিছুমান অংশ মেছ'ডাৰ্মে আৰু কিছুমান এণ্ড'ডাৰ্মে আৱৰি থাকে তেওঁলোকক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "pseudocoelomates",
+        "as": "ছিউড'ছিল'মেট"
+      },
+      {
+        "en": "true coelomates",
+        "as": "প্ৰকৃত ছিল'মেট"
+      },
+      {
+        "en": "acoelomates",
+        "as": "এছিল'মেট"
+      },
+      {
+        "en": "diploblastic",
+        "as": "দ্বিস্তৰী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A pseudocoelom is a body cavity not fully lined by mesoderm, as in roundworms. True coelomates have a mesoderm-lined cavity and acoelomates such as flatworms have none.",
+      "as": "ছিউড'ছিল'ম এনে দেহ গহ্বৰ যি সম্পূৰ্ণৰূপে মেছ'ডাৰ্মেৰে আৱৰা নহয়, যেনে গোলকৃমিত। প্ৰকৃত ছিল'মেটত মেছ'ডাৰ্মেৰে আৱৰা গহ্বৰ থাকে আৰু চেপেটা কৃমিৰ দৰে এছিল'মেটত একো নাথাকে।"
+    }
+  },
+  {
+    "id": "biology-250",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "The phylum characterised by a mantle, a muscular foot and usually a shell is",
+      "as": "মেণ্টল, পেশীবহুল ভৰি আৰু সাধাৰণতে খোলা থকা পৰ্বটো কি"
+    },
+    "options": [
+      {
+        "en": "Mollusca",
+        "as": "মলাস্কা"
+      },
+      {
+        "en": "Annelida",
+        "as": "এনেলিডা"
+      },
+      {
+        "en": "Arthropoda",
+        "as": "আৰ্থ্ৰ'প'ডা"
+      },
+      {
+        "en": "Echinodermata",
+        "as": "ইকাইন'ডাৰ্মাটা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Molluscs share a soft body with a mantle that secretes the shell, a muscular foot for movement and a visceral mass. Annelids are segmented worms and echinoderms show five-ray symmetry.",
+      "as": "মলাস্কৰ কোমল দেহত এটা মেণ্টল থাকে যি খোলা স্ৰাৱ কৰে, গমনৰ বাবে পেশীবহুল ভৰি আৰু অন্ত্ৰীয় ভৰ। এনেলিডা খণ্ডিত কৃমি আৰু ইকাইন'ডাৰ্মাটাত পঞ্চ-ৰশ্মি প্ৰতিসমতা থাকে।"
+    }
+  },
+  {
+    "id": "biology-251",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "Water vascular system and tube feet are characteristic of the phylum",
+      "as": "জল পৰিবহন তন্ত্ৰ আৰু নলী-পদ কোনটো পৰ্বৰ বৈশিষ্ট্য"
+    },
+    "options": [
+      {
+        "en": "Echinodermata",
+        "as": "ইকাইন'ডাৰ্মাটা"
+      },
+      {
+        "en": "Mollusca",
+        "as": "মলাস্কা"
+      },
+      {
+        "en": "Porifera",
+        "as": "পৰিফেৰা"
+      },
+      {
+        "en": "Coelenterata",
+        "as": "ছিলেণ্টাৰেটা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Echinoderms such as starfish use a water vascular system ending in tube feet for locomotion and feeding. Sponges have a canal system and coelenterates have stinging cells.",
+      "as": "তাৰামাছৰ দৰে ইকাইন'ডাৰ্মে গমন আৰু আহাৰ গ্ৰহণৰ বাবে নলী-পদত শেষ হোৱা জল পৰিবহন তন্ত্ৰ ব্যৱহাৰ কৰে। স্পঞ্জত নলী তন্ত্ৰ আৰু ছিলেণ্টাৰেটাত দংশন কোষ থাকে।"
+    }
+  },
+  {
+    "id": "biology-252",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "The largest phylum in the animal kingdom, with jointed appendages and a chitinous exoskeleton, is",
+      "as": "সন্ধিযুক্ত উপাংগ আৰু কাইটিনযুক্ত বহিঃকংকাল থকা প্ৰাণী জগতৰ আটাইতকৈ ডাঙৰ পৰ্বটো কি"
+    },
+    "options": [
+      {
+        "en": "Arthropoda",
+        "as": "আৰ্থ্ৰ'প'ডা"
+      },
+      {
+        "en": "Mollusca",
+        "as": "মলাস্কা"
+      },
+      {
+        "en": "Chordata",
+        "as": "কৰ্ডেটা"
+      },
+      {
+        "en": "Annelida",
+        "as": "এনেলিডা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Arthropods account for well over half of all described animal species and are marked by jointed limbs, a chitinous exoskeleton and a segmented body. Chordates are far fewer in number.",
+      "as": "আৰ্থ্ৰ'প'ডে বৰ্ণিত প্ৰাণী প্ৰজাতিৰ আধাতকৈও বেছি আৰু সন্ধিযুক্ত অংগ, কাইটিন বহিঃকংকাল আৰু খণ্ডিত দেহৰ দ্বাৰা চিহ্নিত। কৰ্ডেটাৰ সংখ্যা বহু কম।"
+    }
+  },
+  {
+    "id": "biology-253",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "Which of the following is a warm-blooded animal?",
+      "as": "তলৰ কোনটো উষ্ণ ৰক্তৰ প্ৰাণী"
+    },
+    "options": [
+      {
+        "en": "Pigeon",
+        "as": "পাৰ"
+      },
+      {
+        "en": "Frog",
+        "as": "ভেকুলী"
+      },
+      {
+        "en": "Snake",
+        "as": "সাপ"
+      },
+      {
+        "en": "Rohu fish",
+        "as": "ৰৌ মাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Birds and mammals keep a constant body temperature, so the pigeon is warm-blooded. Frogs, snakes and fish are cold-blooded and their temperature follows the surroundings.",
+      "as": "চৰাই আৰু স্তন্যপায়ীয়ে দেহৰ উষ্ণতা স্থিৰ ৰাখে, সেয়ে পাৰ উষ্ণ ৰক্তৰ। ভেকুলী, সাপ আৰু মাছ শীতল ৰক্তৰ আৰু তেওঁলোকৰ উষ্ণতা পৰিৱেশ অনুসৰি সলনি হয়।"
+    }
+  },
+  {
+    "id": "biology-254",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "The heart of a fish has",
+      "as": "মাছৰ হৃদয়ত কিমানটা কোঠা থাকে"
+    },
+    "options": [
+      {
+        "en": "two chambers",
+        "as": "দুটা কোঠা"
+      },
+      {
+        "en": "three chambers",
+        "as": "তিনিটা কোঠা"
+      },
+      {
+        "en": "four chambers",
+        "as": "চাৰিটা কোঠা"
+      },
+      {
+        "en": "one chamber",
+        "as": "এটা কোঠা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A fish heart has one atrium and one ventricle, so two chambers, and it pumps only deoxygenated blood. Amphibians have three chambers and birds and mammals four.",
+      "as": "মাছৰ হৃদয়ত এটা অলিন্দ আৰু এটা নিলয়, অৰ্থাৎ দুটা কোঠা, আৰু ই কেৱল অক্সিজেনহীন ৰক্ত পাম্প কৰে। উভচৰত তিনিটা আৰু চৰাই-স্তন্যপায়ীত চাৰিটা কোঠা।"
+    }
+  },
+  {
+    "id": "biology-255",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "The respiratory pigment present in the blood of earthworm is",
+      "as": "কেঁচুৰ ৰক্তত থকা শ্বসন ৰঞ্জকটো কি"
+    },
+    "options": [
+      {
+        "en": "haemoglobin",
+        "as": "হিম'গ্লবিন"
+      },
+      {
+        "en": "haemocyanin",
+        "as": "হিম'ছায়ানিন"
+      },
+      {
+        "en": "chlorocruorin",
+        "as": "ক্ল'ৰ'ক্ৰুৱ'ৰিন"
+      },
+      {
+        "en": "none",
+        "as": "একো নাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Earthworm blood carries haemoglobin dissolved in the plasma, which gives it a reddish colour. Haemocyanin is the copper-based pigment of many molluscs and arthropods.",
+      "as": "কেঁচুৰ ৰক্তই প্লাজমাত দ্ৰৱীভূত হিম'গ্লবিন কঢ়িয়ায়, যিয়ে ইয়াক ৰঙচুৱা ৰূপ দিয়ে। হিম'ছায়ানিন বহু মলাস্ক আৰু আৰ্থ্ৰ'প'ডৰ তামভিত্তিক ৰঞ্জক।"
+    }
+  },
+  {
+    "id": "biology-256",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "Which group of vertebrates shows a three-chambered heart and is adapted to both water and land?",
+      "as": "কোনটো মেৰুদণ্ডী গোটত তিনি কোঠাৰ হৃদয় থাকে আৰু পানী আৰু মাটি দুয়োটাতে খাপ খায়"
+    },
+    "options": [
+      {
+        "en": "Amphibia",
+        "as": "উভচৰ"
+      },
+      {
+        "en": "Reptilia",
+        "as": "সৰীসৃপ"
+      },
+      {
+        "en": "Pisces",
+        "as": "মৎস্য"
+      },
+      {
+        "en": "Aves",
+        "as": "পক্ষী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Amphibians have two atria and one ventricle, and they breed in water while living on land. Reptiles have a partly divided ventricle, fish two chambers and birds four.",
+      "as": "উভচৰত দুটা অলিন্দ আৰু এটা নিলয় থাকে, আৰু তেওঁলোকে মাটিত থাকি পানীত প্ৰজনন কৰে। সৰীসৃপৰ নিলয় আংশিকভাৱে বিভক্ত, মাছৰ দুটা কোঠা আৰু চৰাইৰ চাৰিটা।"
+    }
+  },
+  {
+    "id": "biology-257",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "Which of the following animals shows external fertilisation?",
+      "as": "তলৰ কোনটো প্ৰাণীত বাহ্যিক নিষেচন হয়"
+    },
+    "options": [
+      {
+        "en": "Frog",
+        "as": "ভেকুলী"
+      },
+      {
+        "en": "Cow",
+        "as": "গৰু"
+      },
+      {
+        "en": "Hen",
+        "as": "কুকুৰা"
+      },
+      {
+        "en": "Human",
+        "as": "মানুহ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In most amphibians the eggs and sperm are shed into water and fertilisation happens outside the body. Cows, hens and humans all fertilise internally.",
+      "as": "বহু উভচৰত ডিম্ব আৰু শুক্ৰাণু পানীত নিক্ষেপ কৰা হয় আৰু নিষেচন দেহৰ বাহিৰত হয়। গৰু, কুকুৰা আৰু মানুহত নিষেচন অন্তঃস্থ।"
+    }
+  },
+  {
+    "id": "biology-258",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "The excretory unit of an insect is the",
+      "as": "পতংগৰ ৰেচন এককটো কি"
+    },
+    "options": [
+      {
+        "en": "Malpighian tubule",
+        "as": "মালপিঘিয়ান নলিকা"
+      },
+      {
+        "en": "nephron",
+        "as": "নেফ্ৰন"
+      },
+      {
+        "en": "flame cell",
+        "as": "শিখা কোষ"
+      },
+      {
+        "en": "nephridium",
+        "as": "নেফ্ৰিডিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Insects remove nitrogenous waste through Malpighian tubules that open into the gut. Nephridia occur in annelids, flame cells in flatworms and nephrons in vertebrates.",
+      "as": "পতংগই মালপিঘিয়ান নলিকাৰ জৰিয়তে নাইট্ৰজেনযুক্ত বৰ্জন আঁতৰায়, যি অন্ত্ৰত খোলে। নেফ্ৰিডিয়া এনেলিডাত, শিখা কোষ চেপেটা কৃমিত আৰু নেফ্ৰন মেৰুদণ্ডীত।"
+    }
+  },
+  {
+    "id": "biology-259",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "Which of the following is a marsupial mammal?",
+      "as": "তলৰ কোনটো থলীযুক্ত স্তন্যপায়ী"
+    },
+    "options": [
+      {
+        "en": "Kangaroo",
+        "as": "কাংগাৰু"
+      },
+      {
+        "en": "Whale",
+        "as": "তিমি"
+      },
+      {
+        "en": "Bat",
+        "as": "বাদুলি"
+      },
+      {
+        "en": "Pangolin",
+        "as": "বনৰৌ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kangaroos rear their young in a pouch, which is the marsupial condition. Whales, bats and pangolins are placental mammals.",
+      "as": "কাংগাৰুৱে পোৱালি মোনাত ৰাখি ডাঙৰ কৰে, যি থলীযুক্ত অৱস্থা। তিমি, বাদুলি আৰু বনৰৌ নাভিযুক্ত স্তন্যপায়ী।"
+    }
+  },
+  {
+    "id": "biology-260",
+    "leaf": "animal-zoology",
+    "q": {
+      "en": "The animal group in which the body is radially symmetrical and diploblastic, with stinging cells, is",
+      "as": "দেহ বিকিৰণ প্ৰতিসম আৰু দ্বিস্তৰী, দংশন কোষ থকা প্ৰাণী গোটটো কি"
+    },
+    "options": [
+      {
+        "en": "Coelenterata",
+        "as": "ছিলেণ্টাৰেটা"
+      },
+      {
+        "en": "Platyhelminthes",
+        "as": "প্লেটিহেলমিন্থিছ"
+      },
+      {
+        "en": "Annelida",
+        "as": "এনেলিডা"
+      },
+      {
+        "en": "Arthropoda",
+        "as": "আৰ্থ্ৰ'প'ডা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Coelenterates such as Hydra and jellyfish have radial symmetry, two germ layers and cnidoblasts for stinging. Flatworms and annelids are bilaterally symmetrical.",
+      "as": "হাইড্ৰা আৰু জেলীমাছৰ দৰে ছিলেণ্টাৰেটত বিকিৰণ প্ৰতিসমতা, দুটা জাৰ্ম স্তৰ আৰু দংশনৰ বাবে নিড'ব্লাষ্ট থাকে। চেপেটা কৃমি আৰু এনেলিডা দ্বিপাৰ্শ্ব প্ৰতিসম।"
+    }
+  },
+  {
+    "id": "biology-261",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The number of pairs of ribs in the human body is",
+      "as": "মানুহৰ শৰীৰত পঞ্জৰ কিমান যোৰ"
+    },
+    "options": [
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "10",
+        "as": "১০"
+      },
+      {
+        "en": "14",
+        "as": "১৪"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "There are 12 pairs, that is 24 ribs in all, of which the last two pairs are floating ribs. Twenty-four is the count of individual ribs, not of pairs.",
+      "as": "১২ যোৰ, অৰ্থাৎ মুঠ ২৪ খন পঞ্জৰ, যাৰ শেষৰ দুযোৰ ওপঙা পঞ্জৰ। ২৪ হ'ল পৃথক পঞ্জৰৰ সংখ্যা, যোৰৰ নহয়।"
+    }
+  },
+  {
+    "id": "biology-262",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The joint at the shoulder and the hip, which allows movement in all directions, is a",
+      "as": "কান্ধ আৰু নিতম্বৰ সংযোগ, যি সকলো দিশত গতি কৰিব দিয়ে, সেয়া কি ধৰণৰ সংযোগ"
+    },
+    "options": [
+      {
+        "en": "ball and socket joint",
+        "as": "গোলক আৰু গহ্বৰ সংযোগ"
+      },
+      {
+        "en": "hinge joint",
+        "as": "কব্জা সংযোগ"
+      },
+      {
+        "en": "pivot joint",
+        "as": "অক্ষ সংযোগ"
+      },
+      {
+        "en": "gliding joint",
+        "as": "সৰণ সংযোগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A rounded head fitting into a cup-shaped cavity gives the ball and socket joint its wide range of movement. Hinge joints such as the elbow allow motion in one plane only.",
+      "as": "গোলাকাৰ মূৰ গাঁতৰ দৰে গহ্বৰত বহি গোলক-গহ্বৰ সংযোগক বহল গতিৰ পৰিসৰ দিয়ে। কিলাকুটিৰ দৰে কব্জা সংযোগে কেৱল এটা সমতলত গতি দিয়ে।"
+    }
+  },
+  {
+    "id": "biology-263",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The hardest substance in the human body is",
+      "as": "মানুহৰ শৰীৰৰ আটাইতকৈ কঠিন পদাৰ্থ কি"
+    },
+    "options": [
+      {
+        "en": "enamel of the tooth",
+        "as": "দাঁতৰ এনামেল"
+      },
+      {
+        "en": "bone of the skull",
+        "as": "কপালৰ হাড়"
+      },
+      {
+        "en": "cartilage of the knee",
+        "as": "আঁঠুৰ উপাস্থি"
+      },
+      {
+        "en": "nail",
+        "as": "নখ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tooth enamel is about ninety-six percent mineral and is harder than bone. Skull bone, cartilage and nail all contain more organic matter and are softer.",
+      "as": "দাঁতৰ এনামেল প্ৰায় ষোল্ল শতাংশ খনিজ আৰু হাড়তকৈ কঠিন। কপালৰ হাড়, উপাস্থি আৰু নখত জৈৱ পদাৰ্থ বেছি আৰু কম কঠিন।"
+    }
+  },
+  {
+    "id": "biology-264",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The total number of teeth in an adult human is",
+      "as": "এজন প্ৰাপ্তবয়স্ক মানুহৰ মুঠ দাঁতৰ সংখ্যা কিমান"
+    },
+    "options": [
+      {
+        "en": "32",
+        "as": "৩২"
+      },
+      {
+        "en": "28",
+        "as": "২৮"
+      },
+      {
+        "en": "20",
+        "as": "২০"
+      },
+      {
+        "en": "36",
+        "as": "৩৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An adult has 32 permanent teeth including four wisdom teeth. The deciduous set has only 20, and 28 is the count before the wisdom teeth erupt.",
+      "as": "প্ৰাপ্তবয়স্কৰ ৩২ টা স্থায়ী দাঁত থাকে, য'ত চাৰিটা জ্ঞান দাঁত। দুগ্ধ দাঁতৰ গোটত কেৱল ২০ টা, আৰু জ্ঞান দাঁত ওলোৱাৰ আগতে ২৮ টা।"
+    }
+  },
+  {
+    "id": "biology-265",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The membrane that covers the lungs is called the",
+      "as": "ফুসফুস ঢাকি ৰখা পৰ্দাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "pleura",
+        "as": "প্লিউৰা"
+      },
+      {
+        "en": "pericardium",
+        "as": "পেৰিকাৰ্ডিয়াম"
+      },
+      {
+        "en": "peritoneum",
+        "as": "পেৰিট'নিয়াম"
+      },
+      {
+        "en": "meninges",
+        "as": "মেনিনজেছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pleura is the double membrane around each lung. The pericardium encloses the heart, the peritoneum lines the abdomen and the meninges cover the brain and cord.",
+      "as": "প্লিউৰা প্ৰতিটো ফুসফুসৰ চাৰিওফালৰ দুহৰা পৰ্দা। পেৰিকাৰ্ডিয়ামে হৃদয়, পেৰিট'নিয়ামে উদৰ আৰু মেনিনজেছে মগজু আৰু ৰজ্জু ঢাকে।"
+    }
+  },
+  {
+    "id": "biology-266",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The structure that connects a bone to a bone at a joint is a",
+      "as": "সংযোগস্থলত হাড়ক হাড়ৰ লগত সংযোগ কৰা গঠনটো কি"
+    },
+    "options": [
+      {
+        "en": "ligament",
+        "as": "লিগামেণ্ট"
+      },
+      {
+        "en": "tendon",
+        "as": "টেণ্ডন"
+      },
+      {
+        "en": "cartilage",
+        "as": "উপাস্থি"
+      },
+      {
+        "en": "fascia",
+        "as": "ফেছিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ligaments bind bone to bone and hold joints stable, while tendons attach muscle to bone. Cartilage cushions the joint surface rather than tying bones together.",
+      "as": "লিগামেণ্টে হাড়ক হাড়ৰ লগত বান্ধি সংযোগ স্থিৰ ৰাখে, আৰু টেণ্ডনে পেশীক হাড়ত লগায়। উপাস্থিয়ে সংযোগ পৃষ্ঠক গদী দিয়ে, হাড় বন্ধা নহয়।"
+    }
+  },
+  {
+    "id": "biology-267",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The human skeleton is divided into which two main parts?",
+      "as": "মানুহৰ কংকাল কিমানটা মূল ভাগত বিভক্ত"
+    },
+    "options": [
+      {
+        "en": "axial and appendicular",
+        "as": "অক্ষীয় আৰু উপাংগীয়"
+      },
+      {
+        "en": "cranial and spinal",
+        "as": "কপালীয় আৰু মেৰুদণ্ডীয়"
+      },
+      {
+        "en": "thoracic and pelvic",
+        "as": "বক্ষীয় আৰু শ্ৰোণীয়"
+      },
+      {
+        "en": "upper and lower",
+        "as": "ওপৰ আৰু তল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The axial skeleton covers the skull, vertebral column and rib cage, while the appendicular skeleton covers the limb bones and girdles. The other divisions name parts, not the two main systems.",
+      "as": "অক্ষীয় কংকালত কৰ'ট, মেৰুদণ্ড আৰু পঞ্জৰ পিঞ্জৰ পৰে, আৰু উপাংগীয় কংকালত অংগৰ হাড় আৰু কৰন্ধ পৰে। বাকী ভাগবোৰে অংশৰ নাম দিয়ে, মূল দুটা তন্ত্ৰ নহয়।"
+    }
+  },
+  {
+    "id": "biology-268",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The gland that is both an exocrine and an endocrine gland is the",
+      "as": "যিটো গ্ৰন্থি একে সময়তে বহিঃস্ৰাৱী আৰু অন্তঃস্ৰাৱী"
+    },
+    "options": [
+      {
+        "en": "pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "thyroid",
+        "as": "থাইৰয়ড"
+      },
+      {
+        "en": "adrenal",
+        "as": "এড্ৰিনেল"
+      },
+      {
+        "en": "sweat gland",
+        "as": "ঘাম গ্ৰন্থি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pancreas sends digestive enzymes through a duct to the gut and also releases insulin and glucagon into the blood. Thyroid, adrenal and sweat glands are purely endocrine or purely exocrine.",
+      "as": "অগ্ন্যাশয়ে নলীৰে পাচক এনজাইম অন্ত্ৰলৈ পঠায় আৰু ৰক্তলৈ ইনছুলিন আৰু গ্লুকাগন এৰি দিয়ে। থাইৰয়ড, এড্ৰিনেল আৰু ঘাম গ্ৰন্থি কেৱল অন্তঃস্ৰাৱী বা কেৱল বহিঃস্ৰাৱী।"
+    }
+  },
+  {
+    "id": "biology-269",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The part of the brain that controls balance and coordination of movement is the",
+      "as": "ভাৰসাম্য আৰু গতিৰ সমন্বয় নিয়ন্ত্ৰণ কৰা মগজুৰ অংশটো কি"
+    },
+    "options": [
+      {
+        "en": "cerebellum",
+        "as": "চেৰেবেলাম"
+      },
+      {
+        "en": "cerebrum",
+        "as": "চেৰেব্ৰাম"
+      },
+      {
+        "en": "medulla oblongata",
+        "as": "মেডুলা অব্লংগাটা"
+      },
+      {
+        "en": "hypothalamus",
+        "as": "হাইপ'থেলামাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The cerebellum smooths and coordinates voluntary movement and maintains posture and balance. The cerebrum handles thought, and the medulla controls breathing and heartbeat.",
+      "as": "চেৰেবেলামে ঐচ্ছিক গতি মসৃণ আৰু সমন্বিত কৰে আৰু ভঙ্গি তথা ভাৰসাম্য ৰাখে। চেৰেব্ৰামে চিন্তা চম্ভালে, আৰু মেডুলাই শ্বাস আৰু হৃৎস্পন্দন নিয়ন্ত্ৰণ কৰে।"
+    }
+  },
+  {
+    "id": "biology-270",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The retina of the eye contains which two types of light-sensitive cells?",
+      "as": "চকুৰ ৰেটিনাত কেনে দুপ্ৰকাৰৰ পোহৰ-সংবেদী কোষ থাকে"
+    },
+    "options": [
+      {
+        "en": "rods and cones",
+        "as": "ৰড আৰু ক'ন"
+      },
+      {
+        "en": "cilia and flagella",
+        "as": "চিলিয়া আৰু ফ্লেজেলা"
+      },
+      {
+        "en": "rods and rods only",
+        "as": "কেৱল ৰড"
+      },
+      {
+        "en": "neurons and nephrons",
+        "as": "নিউৰন আৰু নেফ্ৰন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rods work in dim light and give black-and-white vision, while cones need bright light and give colour. Both are photoreceptors present together in the retina.",
+      "as": "ৰডে ম্লান পোহৰত কাম কৰি ক'লা-বগা দৃষ্টি দিয়ে, আৰু ক'নে উজ্জ্বল পোহৰ লাগি ৰং দিয়ে। দুয়োটা ৰেটিনাত একেলগে থকা পোহৰ-গ্ৰাহী।"
+    }
+  },
+  {
+    "id": "biology-271",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The functional unit of the lungs where gaseous exchange takes place is the",
+      "as": "ফুসফুসৰ য'ত গেছ বিনিময় হয় তাৰ কাৰ্যকৰী এককটো কি"
+    },
+    "options": [
+      {
+        "en": "alveolus",
+        "as": "এলভিঅ'লাছ"
+      },
+      {
+        "en": "nephron",
+        "as": "নেফ্ৰন"
+      },
+      {
+        "en": "neuron",
+        "as": "নিউৰন"
+      },
+      {
+        "en": "villus",
+        "as": "ভিলাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Alveoli are thin-walled sacs wrapped in capillaries, giving a huge surface for oxygen and carbon dioxide exchange. Nephrons belong to the kidney and villi to the small intestine.",
+      "as": "এলভিঅ'লাছ কেশিকা নলীৰে মেৰ খোৱা পাতল বেৰৰ মোনা, যি অক্সিজেন আৰু কাৰ্বন ডাইঅক্সাইড বিনিময়ৰ বাবে বিশাল পৃষ্ঠ দিয়ে। নেফ্ৰন বৃক্কৰ আৰু ভিলাছ ক্ষুদ্ৰান্ত্ৰৰ।"
+    }
+  },
+  {
+    "id": "biology-272",
+    "leaf": "human-anatomy",
+    "q": {
+      "en": "The vertebral column of an adult human consists of",
+      "as": "প্ৰাপ্তবয়স্ক মানুহৰ মেৰুদণ্ডত কিমানটা কশেৰুক থাকে"
+    },
+    "options": [
+      {
+        "en": "33 vertebrae in the child, fused to 26 in the adult",
+        "as": "শিশুত ৩৩ টা, প্ৰাপ্তবয়স্কত ২৬ টালৈ জোৰা লগা"
+      },
+      {
+        "en": "26 vertebrae at all ages",
+        "as": "সকলো বয়সত ২৬ টা"
+      },
+      {
+        "en": "12 vertebrae only",
+        "as": "কেৱল ১২ টা"
+      },
+      {
+        "en": "40 vertebrae",
+        "as": "৪০ টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A child has 33 separate vertebrae, but the sacral and coccygeal ones fuse so the adult column counts as 26. Saying 26 at all ages ignores the fusion.",
+      "as": "শিশুত ৩৩ টা পৃথক কশেৰুক থাকে, কিন্তু ত্ৰিকাস্থি আৰু অনুত্ৰিকাস্থিৰবোৰ জোৰা লাগে, সেয়ে প্ৰাপ্তবয়স্কৰ মেৰুদণ্ড ২৬ টা গণ্য হয়। সকলো বয়সতে ২৬ বুলিলে জোৰা লগাটো উপেক্ষা কৰে।"
+    }
+  },
+  {
+    "id": "biology-273",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The tissue that conducts water and dissolved minerals upward in a plant is",
+      "as": "উদ্ভিদত ওপৰমুৱাকৈ পানী আৰু দ্ৰৱীভূত খনিজ পৰিবহন কৰা কলাটো কি"
+    },
+    "options": [
+      {
+        "en": "xylem",
+        "as": "জাইলেম"
+      },
+      {
+        "en": "phloem",
+        "as": "ফ্ল'এম"
+      },
+      {
+        "en": "cambium",
+        "as": "কেম্বিয়াম"
+      },
+      {
+        "en": "epidermis",
+        "as": "এপিডাৰ্মিছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Xylem vessels and tracheids carry water and minerals from the root to the shoot. Phloem carries sugars, cambium makes new vascular tissue and epidermis is the outer covering.",
+      "as": "জাইলেম বাহিকা আৰু ট্ৰেকিডে মূলৰপৰা কাণ্ডলৈ পানী আৰু খনিজ কঢ়িয়ায়। ফ্ল'এমে শৰ্কৰা, কেম্বিয়ামে নতুন ভাস্কুলাৰ কলা বনায় আৰু এপিডাৰ্মিছ বাহিৰৰ আৱৰণ।"
+    }
+  },
+  {
+    "id": "biology-274",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The loss of water as vapour from the aerial parts of a plant is called",
+      "as": "উদ্ভিদৰ বায়বীয় অংশৰপৰা ভাপ হিচাপে পানী হেৰুওৱাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "transpiration",
+        "as": "বাষ্পোৎসৰ্জন"
+      },
+      {
+        "en": "respiration",
+        "as": "শ্বসন"
+      },
+      {
+        "en": "guttation",
+        "as": "নিঃস্ৰৱণ"
+      },
+      {
+        "en": "translocation",
+        "as": "স্থানান্তৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Transpiration is loss of water vapour, mostly through stomata, and it pulls the water column up. Guttation is loss of liquid water droplets from leaf tips.",
+      "as": "বাষ্পোৎসৰ্জন মূলতঃ ৰন্ধ্ৰৰে পানীৰ ভাপ হেৰুওৱা আৰু ই পানীৰ স্তম্ভ ওপৰলৈ টানে। নিঃস্ৰৱণ পাতৰ আগৰপৰা জুলীয়া পানীৰ টোপাল হেৰুওৱা।"
+    }
+  },
+  {
+    "id": "biology-275",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The process by which plants lose liquid water droplets from the tips of leaves is called",
+      "as": "উদ্ভিদে পাতৰ আগৰপৰা জুলীয়া পানীৰ টোপাল হেৰুওৱা প্ৰক্ৰিয়াক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "guttation",
+        "as": "নিঃস্ৰৱণ"
+      },
+      {
+        "en": "transpiration",
+        "as": "বাষ্পোৎসৰ্জন"
+      },
+      {
+        "en": "exudation",
+        "as": "ৰসক্ষৰণ"
+      },
+      {
+        "en": "imbibition",
+        "as": "অৱশোষণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Guttation releases liquid droplets through hydathodes when root pressure is high. Transpiration releases vapour, so the two differ in the state of the water lost.",
+      "as": "মূল চাপ বেছি হ'লে নিঃস্ৰৱণে হাইডাথ'ডৰ জৰিয়তে জুলীয়া টোপাল এৰে। বাষ্পোৎসৰ্জনে ভাপ এৰে, সেয়ে দুয়োটা হেৰুওৱা পানীৰ অৱস্থাত বেলেগ।"
+    }
+  },
+  {
+    "id": "biology-276",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The male reproductive part of a flower is the",
+      "as": "ফুলৰ পুং প্ৰজনন অংগটো কি"
+    },
+    "options": [
+      {
+        "en": "stamen",
+        "as": "পুংকেশৰ"
+      },
+      {
+        "en": "carpel",
+        "as": "গৰ্ভকেশৰ"
+      },
+      {
+        "en": "sepal",
+        "as": "বৃতি"
+      },
+      {
+        "en": "petal",
+        "as": "দল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The stamen consists of an anther and a filament and produces pollen. The carpel is the female part, while sepals and petals are accessory whorls.",
+      "as": "পুংকেশৰত পৰাগপুট আৰু পুংদণ্ড থাকে আৰু পৰাগ উৎপন্ন কৰে। গৰ্ভকেশৰ মাদী অংশ, আৰু বৃতি তথা দল সহায়ক চক্ৰ।"
+    }
+  },
+  {
+    "id": "biology-277",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Double fertilisation, in which one male gamete fuses with the egg and another with two polar nuclei, occurs in",
+      "as": "দুটা পুং গেমেটৰ এটা ডিম্বৰ লগত আৰু আনটো দুটা ধ্ৰুৱক নিউক্লিয়াছৰ লগত মিলা দ্বিনিষেচন ক'ত ঘটে"
+    },
+    "options": [
+      {
+        "en": "angiosperms",
+        "as": "আৱৃতবীজী"
+      },
+      {
+        "en": "gymnosperms",
+        "as": "অনাবৃতবীজী"
+      },
+      {
+        "en": "bryophytes",
+        "as": "ব্ৰায়'ফাইট"
+      },
+      {
+        "en": "pteridophytes",
+        "as": "টেৰিড'ফাইট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Double fertilisation is unique to flowering plants and produces both the embryo and the triploid endosperm. Gymnosperms lack it, so they form endosperm before fertilisation.",
+      "as": "দ্বিনিষেচন কেৱল সপুষ্পক উদ্ভিদৰ নিজস্ব আৰু ই ভ্ৰূণ আৰু ত্ৰিগুণ এণ্ড'স্পাৰ্ম দুয়োটা উৎপন্ন কৰে। অনাবৃতবীজীত ই নাই, সেয়ে তেওঁলোকে নিষেচনৰ আগতে এণ্ড'স্পাৰ্ম গঢ়ে।"
+    }
+  },
+  {
+    "id": "biology-278",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The green alga from which agar is obtained is",
+      "as": "যি শেলাইৰপৰা আগৰ পোৱা যায়"
+    },
+    "options": [
+      {
+        "en": "Gelidium",
+        "as": "জেলিডিয়াম"
+      },
+      {
+        "en": "Spirogyra",
+        "as": "স্পাইৰ'গাইৰা"
+      },
+      {
+        "en": "Ulothrix",
+        "as": "ইউলথ্ৰিক্স"
+      },
+      {
+        "en": "Chlamydomonas",
+        "as": "ক্লেমাইড'ম'নাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Agar is extracted from red algae such as Gelidium and Gracilaria for use in culture media. Spirogyra, Ulothrix and Chlamydomonas are green algae used in studies, not agar sources.",
+      "as": "আগ জেলিডিয়াম আৰু গ্ৰেছিলেৰিয়াৰ দৰে ৰঙা শেলাইৰপৰা উলিয়াই কলা মাধ্যমত ব্যৱহাৰ কৰা হয়। স্পাইৰ'গাইৰা, ইউলথ্ৰিক্স আৰু ক্লেমাইড'ম'নাছ অধ্যয়নত ব্যৱহৃত সেউজ শেলাই, আগৰ উৎস নহয়।"
+    }
+  },
+  {
+    "id": "biology-279",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The plant hormone responsible for cell elongation and phototropism is",
+      "as": "কোষ দীঘল হোৱা আৰু পোহৰ-অভিমুখিতাৰ বাবে দায়ী উদ্ভিদ হৰম'নটো কি"
+    },
+    "options": [
+      {
+        "en": "auxin",
+        "as": "অক্সিন"
+      },
+      {
+        "en": "abscisic acid",
+        "as": "এবছিছিক অ্যাসিড"
+      },
+      {
+        "en": "ethylene",
+        "as": "ইথাইলিন"
+      },
+      {
+        "en": "cytokinin",
+        "as": "ছাইট'কাইনিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Auxin accumulates on the shaded side and makes those cells elongate, bending the shoot towards light. Abscisic acid closes stomata and ethylene ripens fruit.",
+      "as": "অক্সিন ছাঁ পৰা ফালে জমা হৈ সেই কোষবোৰ দীঘল কৰে, যিয়ে কাণ্ড পোহৰলৈ বেঁকা কৰে। এবছিছিক অ্যাসিডে ৰন্ধ্ৰ বন্ধ কৰে আৰু ইথাইলিনে ফল পকায়।"
+    }
+  },
+  {
+    "id": "biology-280",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The plant hormone that promotes fruit ripening is",
+      "as": "ফল পকোৱাত সহায় কৰা উদ্ভিদ হৰম'নটো কি"
+    },
+    "options": [
+      {
+        "en": "ethylene",
+        "as": "ইথাইলিন"
+      },
+      {
+        "en": "auxin",
+        "as": "অক্সিন"
+      },
+      {
+        "en": "gibberellin",
+        "as": "জিবেৰেলিন"
+      },
+      {
+        "en": "cytokinin",
+        "as": "ছাইট'কাইনিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ethylene is a gaseous hormone that hastens ripening and is used commercially to ripen bananas and tomatoes. Auxin and gibberellin promote growth rather than ripening.",
+      "as": "ইথাইলিন এটা গেছীয় হৰম'ন যি পকন ত্বৰান্বিত কৰে আৰু কল আৰু বিলাহী পকাবলৈ বাণিজ্যিকভাৱে ব্যৱহৃত হয়। অক্সিন আৰু জিবেৰেলিনে বৃদ্ধি বঢ়ায়, পকন নহয়।"
+    }
+  },
+  {
+    "id": "biology-281",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Rhizome, corm, tuber and bulb are all examples of",
+      "as": "ৰাইজ'ম, কৰ্ম, কন্দ আৰু বাল্ব সকলো কিৰ উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "underground stem modifications",
+        "as": "ভূগৰ্ভস্থ কাণ্ডৰ ৰূপান্তৰ"
+      },
+      {
+        "en": "root modifications",
+        "as": "মূলৰ ৰূপান্তৰ"
+      },
+      {
+        "en": "leaf modifications",
+        "as": "পাতৰ ৰূপান্তৰ"
+      },
+      {
+        "en": "flower modifications",
+        "as": "ফুলৰ ৰূপান্তৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "All four are swollen underground stems that store food and bear nodes and buds, which is why they can give rise to new plants. Root tubers and leaf spines are separate modifications.",
+      "as": "চাৰিওটা স্ফীত ভূগৰ্ভস্থ কাণ্ড যি খাদ্য সাঁচি ৰাখে আৰু গাঁঠি তথা কলি ধৰে, সেয়ে ইহঁতৰপৰা নতুন উদ্ভিদ হ'ব পাৰে। মূল কন্দ আৰু পাতৰ কাঁইট বেলেগ ৰূপান্তৰ।"
+    }
+  },
+  {
+    "id": "biology-282",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The region of the root where water and mineral absorption takes place is the",
+      "as": "মূলৰ যি অঞ্চলত পানী আৰু খনিজ শোষণ হয়"
+    },
+    "options": [
+      {
+        "en": "zone of maturation, bearing root hairs",
+        "as": "পৰিপক্ব অঞ্চল, মূল ৰোমযুক্ত"
+      },
+      {
+        "en": "root cap",
+        "as": "মূল ঢাকনি"
+      },
+      {
+        "en": "meristematic zone",
+        "as": "বিভাজনমূলক অঞ্চল"
+      },
+      {
+        "en": "zone of elongation",
+        "as": "দীৰ্ঘীভৱন অঞ্চল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Root hairs in the zone of maturation greatly increase the absorbing surface. The root cap protects the tip and the meristematic zone divides to lengthen the root.",
+      "as": "পৰিপক্ব অঞ্চলৰ মূল ৰোমে শোষণ পৃষ্ঠ বহু বঢ়ায়। মূল ঢাকনিয়ে আগটো ৰক্ষা কৰে আৰু বিভাজনমূলক অঞ্চলে বিভাজিত হৈ মূল দীঘল কৰে।"
+    }
+  },
+  {
+    "id": "biology-283",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Which of the following is a dicotyledonous plant?",
+      "as": "তলৰ কোনটো দ্বিবীজপত্ৰী উদ্ভিদ"
+    },
+    "options": [
+      {
+        "en": "Mustard",
+        "as": "সৰিয়হ"
+      },
+      {
+        "en": "Rice",
+        "as": "ধান"
+      },
+      {
+        "en": "Wheat",
+        "as": "গম"
+      },
+      {
+        "en": "Maize",
+        "as": "মাকৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mustard has two cotyledons, a tap root and reticulate leaf venation. Rice, wheat and maize are monocots with one cotyledon and parallel venation.",
+      "as": "সৰিয়হত দুটা বীজপত্ৰ, মূলা মূল আৰু জালিকাৰ নাড়ী বিন্যাস থাকে। ধান, গম আৰু মাকৈ একবীজপত্ৰী, য'ত এটা বীজপত্ৰ আৰু সমান্তৰাল নাড়ী বিন্যাস।"
+    }
+  },
+  {
+    "id": "biology-284",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The phenomenon in which the opening of stomata is promoted by a rise in the potassium ion content of guard cells is called",
+      "as": "ৰক্ষী কোষত পটাছিয়াম আয়ন বাঢ়িলে ৰন্ধ্ৰ খোলা পৰিঘটনাটোক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "stomatal opening by ion uptake",
+        "as": "আয়ন গ্ৰহণে ৰন্ধ্ৰ খোলা"
+      },
+      {
+        "en": "wilting",
+        "as": "ম্লান হোৱা"
+      },
+      {
+        "en": "photorespiration",
+        "as": "পোহৰশ্বসন"
+      },
+      {
+        "en": "imbibition",
+        "as": "অৱশোষণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Potassium ions enter guard cells, water follows osmotically, the cells become turgid and the pore opens. Wilting is the opposite condition of low turgor.",
+      "as": "পটাছিয়াম আয়ন ৰক্ষী কোষত সোমায়, পানী অভিস্ৰৱণে অনুসৰণ কৰে, কোষ স্ফীত হয় আৰু ৰন্ধ্ৰ খোলে। ম্লান হোৱা কম স্ফীতিৰ ওলোটা অৱস্থা।"
+    }
+  },
+  {
+    "id": "biology-285",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Which of the following is a carnivorous plant?",
+      "as": "তলৰ কোনটো মাংসভোজী উদ্ভিদ"
+    },
+    "options": [
+      {
+        "en": "Pitcher plant",
+        "as": "কলসী উদ্ভিদ"
+      },
+      {
+        "en": "Sunflower",
+        "as": "সূৰ্যমুখী"
+      },
+      {
+        "en": "Tulsi",
+        "as": "তুলসী"
+      },
+      {
+        "en": "Banyan",
+        "as": "বৰগছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pitcher plant traps insects in a fluid-filled pitcher and digests them to obtain nitrogen. Sunflower, tulsi and banyan are ordinary photosynthetic plants.",
+      "as": "কলসী উদ্ভিদে পতংগক জুলীয়া কলসীত আবদ্ধ কৰি হজম কৰি নাইট্ৰজেন পায়। সূৰ্যমুখী, তুলসী আৰু বৰগছ সাধাৰণ সালোক সংশ্লেষণকাৰী উদ্ভিদ।"
+    }
+  },
+  {
+    "id": "biology-286",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The transfer of pollen from the anther to the stigma of the same flower is called",
+      "as": "একেই ফুলৰ পৰাগপুটৰপৰা গৰ্ভমুণ্ডলৈ পৰাগ যোৱাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "self pollination",
+        "as": "স্ব-পৰাগযোগ"
+      },
+      {
+        "en": "cross pollination",
+        "as": "পৰ-পৰাগযোগ"
+      },
+      {
+        "en": "apomixis",
+        "as": "অপমিক্সিছ"
+      },
+      {
+        "en": "cleistogamy only",
+        "as": "কেৱল ক্লাইষ্ট'গেমি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Self pollination happens within one flower or between flowers of the same plant. Cross pollination needs pollen to reach a different plant.",
+      "as": "স্ব-পৰাগযোগ এটা ফুলৰ ভিতৰত বা একেই উদ্ভিদৰ ফুলৰ মাজত হয়। পৰ-পৰাগযোগত পৰাগ বেলেগ উদ্ভিদলৈ যাব লাগে।"
+    }
+  },
+  {
+    "id": "biology-287",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which mosquito genus transmits malaria in humans?",
+      "as": "কোনটো মশাৰ গণে মানুহত মেলেৰিয়া বিয়পায়"
+    },
+    "options": [
+      {
+        "en": "Anopheles",
+        "as": "এন'ফিলিছ"
+      },
+      {
+        "en": "Aedes",
+        "as": "এডিছ"
+      },
+      {
+        "en": "Culex",
+        "as": "কিউলেক্স"
+      },
+      {
+        "en": "Mansonia",
+        "as": "মেনছ'নিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Only the female Anopheles mosquito transmits the Plasmodium parasite of malaria. Aedes carries dengue and yellow fever, and Culex carries filariasis.",
+      "as": "কেৱল মাদী এন'ফিলিছ মশাই মেলেৰিয়াৰ প্লাজম'ডিয়াম পৰজীৱী বিয়পায়। এডিছে ডেঙ্গু আৰু পীত জ্বৰ আৰু কিউলেক্সে ফাইলেৰিয়া বিয়পায়।"
+    }
+  },
+  {
+    "id": "biology-288",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "The causative organism of cholera is",
+      "as": "কলেৰাৰ কাৰক জীৱটো কি"
+    },
+    "options": [
+      {
+        "en": "Vibrio cholerae",
+        "as": "ভিব্ৰিঅ' কলেৰি"
+      },
+      {
+        "en": "Salmonella typhi",
+        "as": "ছালম'নেলা টাইফাই"
+      },
+      {
+        "en": "Clostridium tetani",
+        "as": "ক্ল'ষ্ট্ৰিডিয়াম টেটানি"
+      },
+      {
+        "en": "Mycobacterium leprae",
+        "as": "মাইক'বেক্টেৰিয়াম লেপ্ৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cholera is a bacterial disease of the small intestine caused by Vibrio cholerae and spread by contaminated water. Salmonella causes typhoid, Clostridium tetanus and Mycobacterium leprae leprosy.",
+      "as": "কলেৰা ক্ষুদ্ৰান্ত্ৰৰ বেক্টেৰিয়া ৰোগ, ভিব্ৰিঅ' কলেৰিৰ দ্বাৰা হয় আৰু দূষিত পানীৰে বিয়পে। ছালম'নেলাই টাইফইড, ক্ল'ষ্ট্ৰিডিয়ামে ধনুষ্টংকাৰ আৰু মাইক'বেক্টেৰিয়াম লেপ্ৰিয়ে কুষ্ঠ ৰোগ কৰে।"
+    }
+  },
+  {
+    "id": "biology-289",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following diseases is caused by a protozoan?",
+      "as": "তলৰ কোনটো ৰোগ প্ৰ'ট'জ'ৱাৰ দ্বাৰা হয়"
+    },
+    "options": [
+      {
+        "en": "Kala-azar",
+        "as": "কালা-জ্বৰ"
+      },
+      {
+        "en": "Typhoid",
+        "as": "টাইফইড"
+      },
+      {
+        "en": "Measles",
+        "as": "সৰু আই"
+      },
+      {
+        "en": "Ringworm",
+        "as": "দাদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kala-azar is caused by Leishmania donovani and spread by the sandfly. Typhoid is bacterial, measles viral and ringworm fungal.",
+      "as": "কালা-জ্বৰ লেইছমেনিয়া ড'ন'ভানিৰ দ্বাৰা হয় আৰু বালিমাখিৰে বিয়পে। টাইফইড বেক্টেৰিয়াৰ, সৰু আই ভাইৰাছৰ আৰু দাদ ভেঁকুৰৰ।"
+    }
+  },
+  {
+    "id": "biology-290",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "BCG vaccine gives protection against",
+      "as": "BCG টীকাই কিহৰ পৰা সুৰক্ষা দিয়ে"
+    },
+    "options": [
+      {
+        "en": "tuberculosis",
+        "as": "যক্ষ্মা"
+      },
+      {
+        "en": "polio",
+        "as": "পলিঅ'"
+      },
+      {
+        "en": "tetanus",
+        "as": "ধনুষ্টংকাৰ"
+      },
+      {
+        "en": "measles",
+        "as": "সৰু আই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "BCG is the bacillus Calmette-Guerin vaccine given in infancy against tuberculosis. Polio, tetanus and measles each have separate vaccines.",
+      "as": "BCG হ'ল বেছিলাছ কেলমেট-গুইৰিন টীকা, যি শিশু অৱস্থাত যক্ষ্মাৰ বিৰুদ্ধে দিয়া হয়। পলিঅ', ধনুষ্টংকাৰ আৰু সৰু আইৰ বাবে পৃথক টীকা আছে।"
+    }
+  },
+  {
+    "id": "biology-291",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "AIDS destroys the body's defence mainly by attacking",
+      "as": "এইডছে শৰীৰৰ প্ৰতিৰক্ষা নষ্ট কৰে মূলতঃ কাক আক্ৰমণ কৰি"
+    },
+    "options": [
+      {
+        "en": "helper T lymphocytes",
+        "as": "সহায়ক T লিম্ফ'চাইট"
+      },
+      {
+        "en": "red blood cells",
+        "as": "লোহিত ৰক্তকণিকা"
+      },
+      {
+        "en": "platelets",
+        "as": "অণুচক্ৰিকা"
+      },
+      {
+        "en": "nerve cells",
+        "as": "স্নায়ু কোষ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "HIV binds the CD4 receptor of helper T cells and destroys them, so the immune response collapses. Red cells, platelets and neurons lack CD4 and are not the target.",
+      "as": "HIV এ সহায়ক T কোষৰ CD4 গ্ৰাহকত বান্ধি সেইবোৰ নষ্ট কৰে, সেয়ে ৰোগ প্ৰতিৰক্ষা ভাঙি পৰে। লোহিত কণিকা, অণুচক্ৰিকা আৰু স্নায়ু কোষত CD4 নাই, সেয়ে লক্ষ্য নহয়।"
+    }
+  },
+  {
+    "id": "biology-292",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Malaria parasites multiply first in the human",
+      "as": "মেলেৰিয়া পৰজীৱীয়ে মানুহত প্ৰথমে ক'ত বংশবৃদ্ধি কৰে"
+    },
+    "options": [
+      {
+        "en": "liver, then red blood cells",
+        "as": "যকৃত, তাৰ পিছত লোহিত ৰক্তকণিকা"
+      },
+      {
+        "en": "lungs only",
+        "as": "কেৱল ফুসফুস"
+      },
+      {
+        "en": "kidney",
+        "as": "বৃক্ক"
+      },
+      {
+        "en": "bone marrow only",
+        "as": "কেৱল অস্থি মজ্জা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sporozoites first enter liver cells to multiply, then the merozoites invade red cells, which burst and cause the fever cycle. The lung and kidney are not the primary sites.",
+      "as": "স্প'ৰ'জ'ৱাইটে প্ৰথমে যকৃত কোষত সোমাই বংশবৃদ্ধি কৰে, তাৰ পিছত মিৰ'জ'ৱাইটে লোহিত কণিকা আক্ৰমণ কৰে, যি ফাটি জ্বৰৰ চক্ৰ ঘটায়। ফুসফুস আৰু বৃক্ক প্ৰাথমিক স্থান নহয়।"
+    }
+  },
+  {
+    "id": "biology-293",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following is a non-communicable disease?",
+      "as": "তলৰ কোনটো সংক্ৰামক নহয়"
+    },
+    "options": [
+      {
+        "en": "Diabetes mellitus",
+        "as": "মধুমেহ"
+      },
+      {
+        "en": "Cholera",
+        "as": "কলেৰা"
+      },
+      {
+        "en": "Tuberculosis",
+        "as": "যক্ষ্মা"
+      },
+      {
+        "en": "Influenza",
+        "as": "ইনফ্লুৱেঞ্জা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Diabetes arises from insulin deficiency or resistance and cannot pass from person to person. Cholera, tuberculosis and influenza are all infectious.",
+      "as": "মধুমেহ ইনছুলিনৰ অভাৱ বা প্ৰতিৰোধৰপৰা হয় আৰু এজনৰপৰা আনজনলৈ নাযায়। কলেৰা, যক্ষ্মা আৰু ইনফ্লুৱেঞ্জা সকলো সংক্ৰামক।"
+    }
+  },
+  {
+    "id": "biology-294",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Dengue virus is transmitted to humans by",
+      "as": "ডেঙ্গু ভাইৰাছ মানুহলৈ কাৰ জৰিয়তে যায়"
+    },
+    "options": [
+      {
+        "en": "Aedes aegypti",
+        "as": "এডিছ ইজিপ্টাই"
+      },
+      {
+        "en": "Anopheles",
+        "as": "এন'ফিলিছ"
+      },
+      {
+        "en": "housefly",
+        "as": "ঘৰ মাখি"
+      },
+      {
+        "en": "sandfly",
+        "as": "বালি মাখি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Aedes aegypti, a day-biting mosquito, carries the dengue virus. Anopheles spreads malaria, the housefly carries enteric pathogens and the sandfly spreads kala-azar.",
+      "as": "এডিছ ইজিপ্টাই, দিনত কামোৰা মশা, ডেঙ্গু ভাইৰাছ কঢ়িয়ায়। এন'ফিলিছে মেলেৰিয়া, ঘৰ মাখিয়ে অন্ত্ৰ ৰোগজীৱ আৰু বালি মাখিয়ে কালা-জ্বৰ বিয়পায়।"
+    }
+  },
+  {
+    "id": "biology-295",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "The organism that causes amoebic dysentery is",
+      "as": "অ্যামিবিক আমাশয়ৰ কাৰক জীৱটো কি"
+    },
+    "options": [
+      {
+        "en": "Entamoeba histolytica",
+        "as": "এণ্টামিবা হিষ্ট'লিটিকা"
+      },
+      {
+        "en": "Plasmodium vivax",
+        "as": "প্লাজম'ডিয়াম ভাইভাক্স"
+      },
+      {
+        "en": "Trypanosoma",
+        "as": "ট্ৰাইপেন'ছ'মা"
+      },
+      {
+        "en": "Giardia only",
+        "as": "কেৱল জিয়াৰ্ডিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Entamoeba histolytica invades the large intestine and causes bloody dysentery. Plasmodium causes malaria and Trypanosoma sleeping sickness.",
+      "as": "এণ্টামিবা হিষ্ট'লিটিকাই বৃহদান্ত্ৰত প্ৰৱেশ কৰি তেজমিশ্ৰিত আমাশয় কৰে। প্লাজম'ডিয়ামে মেলেৰিয়া আৰু ট্ৰাইপেন'ছ'মাই নিদ্ৰা ৰোগ কৰে।"
+    }
+  },
+  {
+    "id": "biology-296",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which vitamin deficiency makes a person more prone to infection because it is needed for antibody production?",
+      "as": "কোনটো ভিটামিনৰ অভাৱত এণ্টিবডি উৎপাদন কমি সংক্ৰমণৰ আশংকা বাঢ়ে"
+    },
+    "options": [
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin K",
+        "as": "ভিটামিন K"
+      },
+      {
+        "en": "Vitamin B12",
+        "as": "ভিটামিন B১২"
+      },
+      {
+        "en": "Vitamin E only",
+        "as": "কেৱল ভিটামিন E"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vitamin C supports collagen formation and immune cell function, so deficiency lowers resistance. Vitamin K acts in clotting and B12 in nerve and red cell formation.",
+      "as": "ভিটামিন C এ ক'লেজেন গঠন আৰু ৰোগ প্ৰতিৰক্ষা কোষৰ কাৰ্যত সহায় কৰে, সেয়ে অভাৱত প্ৰতিৰোধ কমে। ভিটামিন K ৰক্ত জমাৰ আৰু B১২ স্নায়ু তথা লোহিত কণিকা গঠনত কাম কৰে।"
+    }
+  },
+  {
+    "id": "biology-297",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "The disease in which the body cannot produce enough insulin is",
+      "as": "যি ৰোগত শৰীৰে পৰ্যাপ্ত ইনছুলিন উৎপাদন কৰিব নোৱাৰে"
+    },
+    "options": [
+      {
+        "en": "type 1 diabetes mellitus",
+        "as": "প্ৰকাৰ ১ মধুমেহ"
+      },
+      {
+        "en": "diabetes insipidus",
+        "as": "ডায়েবিটিছ ইনছিপিডাছ"
+      },
+      {
+        "en": "goitre",
+        "as": "গলগণ্ড"
+      },
+      {
+        "en": "kwashiorkor",
+        "as": "কোৱাছিঅৰ্কৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Type 1 diabetes follows destruction of the insulin-making beta cells of the pancreas. Diabetes insipidus is a kidney hormone problem, goitre a thyroid deficiency and kwashiorkor a protein deficiency.",
+      "as": "প্ৰকাৰ ১ মধুমেহত অগ্ন্যাশয়ৰ ইনছুলিন বনোৱা বিটা কোষ নষ্ট হয়। ডায়েবিটিছ ইনছিপিডাছ বৃক্ক হৰম'নৰ সমস্যা, গলগণ্ড থাইৰয়ডৰ অভাৱ আৰু কোৱাছিঅৰ্কৰ প্ৰ'টিনৰ অভাৱ।"
+    }
+  },
+  {
+    "id": "biology-298",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following is a fungal disease of humans?",
+      "as": "তলৰ কোনটো মানুহৰ ভেঁকুৰ ৰোগ"
+    },
+    "options": [
+      {
+        "en": "Ringworm",
+        "as": "দাদ"
+      },
+      {
+        "en": "Cholera",
+        "as": "কলেৰা"
+      },
+      {
+        "en": "Rabies",
+        "as": "জলাতংক"
+      },
+      {
+        "en": "Malaria",
+        "as": "মেলেৰিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ringworm is caused by dermatophyte fungi that grow on skin and hair. Cholera is bacterial, rabies viral and malaria protozoan.",
+      "as": "দাদ ছাল আৰু চুলিত গজা ডাৰ্মাট'ফাইট ভেঁকুৰৰ দ্বাৰা হয়। কলেৰা বেক্টেৰিয়াৰ, জলাতংক ভাইৰাছৰ আৰু মেলেৰিয়া প্ৰ'ট'জ'ৱাৰ।"
+    }
+  },
+  {
+    "id": "biology-299",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "The incubation period of a disease means the time between",
+      "as": "ৰোগৰ ঊষ্মকাল মানে কিৰ মাজৰ সময়"
+    },
+    "options": [
+      {
+        "en": "entry of the pathogen and appearance of the first symptom",
+        "as": "ৰোগজীৱৰ প্ৰৱেশ আৰু প্ৰথম লক্ষণ ওলোৱাৰ মাজৰ"
+      },
+      {
+        "en": "first symptom and recovery",
+        "as": "প্ৰথম লক্ষণ আৰু আৰোগ্যৰ মাজৰ"
+      },
+      {
+        "en": "vaccination and immunity",
+        "as": "টীকা আৰু প্ৰতিৰোধৰ মাজৰ"
+      },
+      {
+        "en": "two successive infections",
+        "as": "দুটা ক্ৰমিক সংক্ৰমণৰ মাজৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The incubation period runs from infection to the first sign of illness. The time from symptom to recovery is the period of illness, not incubation.",
+      "as": "ঊষ্মকাল সংক্ৰমণৰপৰা ৰোগৰ প্ৰথম চিনলৈকে চলে। লক্ষণৰপৰা আৰোগ্যলৈ সময়খিনি ৰোগকাল, ঊষ্মকাল নহয়।"
+    }
+  },
+  {
+    "id": "biology-300",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following is the best method of preventing the spread of malaria?",
+      "as": "মেলেৰিয়া বিয়পাৰ পৰা বচাৰ আটাইতকৈ ভাল উপায় কোনটো"
+    },
+    "options": [
+      {
+        "en": "destroying mosquito breeding sites and using nets",
+        "as": "মশাৰ প্ৰজনন স্থান নষ্ট কৰা আৰু জাল ব্যৱহাৰ কৰা"
+      },
+      {
+        "en": "taking antibiotics regularly",
+        "as": "নিয়মীয়াকৈ এণ্টিবায়'টিক খোৱা"
+      },
+      {
+        "en": "drinking boiled water only",
+        "as": "কেৱল উতলা পানী খোৱা"
+      },
+      {
+        "en": "avoiding mosquito bites only at night",
+        "as": "কেৱল ৰাতিহে মশাৰ কামোৰ পৰা বাচা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Malaria control targets the vector, so removing stagnant water and using insecticide-treated nets works best. Antibiotics do not prevent malaria and boiling water targets water-borne disease.",
+      "as": "মেলেৰিয়া নিয়ন্ত্ৰণে বাহকক লক্ষ্য কৰে, সেয়ে থেৰ থকা পানী আঁতৰোৱা আৰু কীটনাশকযুক্ত জাল ব্যৱহাৰ কৰাটো সৰ্বোত্তম। এণ্টিবায়'টিকে মেলেৰিয়া ৰোধ নকৰে আৰু উতলা পানীয়ে জলবাহিত ৰোগ লক্ষ্য কৰে।"
+    }
+  },
+  {
+    "id": "biology-301",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The transition zone between two ecosystems where species of both meet is called an",
+      "as": "দুটা বাস্তুতন্ত্ৰৰ মাজৰ সন্ধি অঞ্চল য'ত দুয়োটাৰ প্ৰজাতি লগ পায় তাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "ecotone",
+        "as": "ইক'ট'ন"
+      },
+      {
+        "en": "niche",
+        "as": "নিচ"
+      },
+      {
+        "en": "biome",
+        "as": "বায়'ম"
+      },
+      {
+        "en": "habitat",
+        "as": "বাসস্থান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An ecotone is the boundary belt between communities and often holds a mix of both, which is called the edge effect. A niche is an organism's functional role, not a place.",
+      "as": "ইক'ট'ন সম্প্ৰদায়ৰ মাজৰ সীমা পটী আৰু প্ৰায়ে দুয়োটাৰ মিশ্ৰণ ৰাখে, যাক প্ৰান্ত প্ৰভাৱ বোলে। নিচ জীৱৰ কাৰ্যকৰী ভূমিকা, স্থান নহয়।"
+    }
+  },
+  {
+    "id": "biology-302",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The total number of different species present in an area is called its",
+      "as": "এটা অঞ্চলত থকা বিভিন্ন প্ৰজাতিৰ মুঠ সংখ্যাক তাৰ কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "species richness",
+        "as": "প্ৰজাতি সমৃদ্ধি"
+      },
+      {
+        "en": "population density",
+        "as": "জনসংখ্যা ঘনত্ব"
+      },
+      {
+        "en": "carrying capacity",
+        "as": "বহন ক্ষমতা"
+      },
+      {
+        "en": "biomass",
+        "as": "জৈৱ ভৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Species richness counts how many species live there, without regard to their abundance. Population density counts individuals, carrying capacity sets a limit and biomass measures mass.",
+      "as": "প্ৰজাতি সমৃদ্ধিয়ে কিমান প্ৰজাতি থাকে তাক গণে, প্ৰাচুৰ্য নধৰি। জনসংখ্যা ঘনত্বে ব্যক্তি গণে, বহন ক্ষমতাই সীমা ঠিক কৰে আৰু জৈৱ ভৰে ভৰ মাপে।"
+    }
+  },
+  {
+    "id": "biology-303",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Organisms that break down dead organic matter into simpler substances are called",
+      "as": "মৃত জৈৱ পদাৰ্থ ভাঙি সৰল পদাৰ্থলৈ ৰূপান্তৰ কৰা জীৱক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "decomposers",
+        "as": "বিয়োজক"
+      },
+      {
+        "en": "producers",
+        "as": "উৎপাদক"
+      },
+      {
+        "en": "primary consumers",
+        "as": "প্ৰাথমিক ভোক্তা"
+      },
+      {
+        "en": "tertiary consumers",
+        "as": "তৃতীয়ক ভোক্তা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Decomposers such as bacteria and fungi release nutrients back to the soil. Producers make food and consumers eat other organisms.",
+      "as": "বেক্টেৰিয়া আৰু ভেঁকুৰৰ দৰে বিয়োজকে পুষ্টি মাটিলৈ ঘূৰাই দিয়ে। উৎপাদকে খাদ্য বনায় আৰু ভোক্তাই আন জীৱ খায়।"
+    }
+  },
+  {
+    "id": "biology-304",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "In an ecosystem the flow of energy is",
+      "as": "বাস্তুতন্ত্ৰত শক্তিৰ প্ৰবাহ কেনে"
+    },
+    "options": [
+      {
+        "en": "unidirectional",
+        "as": "একমুখী"
+      },
+      {
+        "en": "cyclic",
+        "as": "চক্ৰীয়"
+      },
+      {
+        "en": "bidirectional",
+        "as": "দ্বিমুখী"
+      },
+      {
+        "en": "random",
+        "as": "যাদৃচ্ছিক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Energy enters as sunlight and is lost as heat at each trophic level, so it never returns and the flow is one-way. Nutrients, by contrast, cycle repeatedly.",
+      "as": "শক্তি সূৰ্যৰ পোহৰ হিচাপে সোমাই প্ৰতিটো পুষ্টি স্তৰত তাপ হিচাপে হেৰায়, সেয়ে ঘূৰি নাহে আৰু প্ৰবাহ একমুখী। পুষ্টি কিন্তু বাৰে বাৰে চক্ৰাকাৰে ঘূৰে।"
+    }
+  },
+  {
+    "id": "biology-305",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Which of the following gases is chiefly responsible for the greenhouse effect?",
+      "as": "গ্ৰীণহাউছ প্ৰভাৱৰ বাবে মূলতঃ দায়ী গেছটো কি"
+    },
+    "options": [
+      {
+        "en": "carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "argon",
+        "as": "আৰ্গন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Carbon dioxide absorbs infrared radiation re-emitted by the earth and traps heat. Oxygen, nitrogen and argon do not absorb infrared strongly.",
+      "as": "কাৰ্বন ডাইঅক্সাইডে পৃথিৱীয়ে পুনৰ নিৰ্গত কৰা অৱলোহিত ৰশ্মি শোষণ কৰি তাপ আটকায়। অক্সিজেন, নাইট্ৰজেন আৰু আৰ্গনে অৱলোহিত বেছিকৈ শোষণ নকৰে।"
+    }
+  },
+  {
+    "id": "biology-306",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The main cause of depletion of the ozone layer is",
+      "as": "অ'জ'ন স্তৰ ক্ষয়ৰ মূল কাৰণ কি"
+    },
+    "options": [
+      {
+        "en": "chlorofluorocarbons",
+        "as": "ক্ল'ৰ'ফ্লুঅ'ৰ'কাৰ্বন"
+      },
+      {
+        "en": "carbon monoxide",
+        "as": "কাৰ্বন মন'ক্সাইড"
+      },
+      {
+        "en": "sulphur dioxide",
+        "as": "ছালফাৰ ডাইঅক্সাইড"
+      },
+      {
+        "en": "methane",
+        "as": "মিথেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Chlorofluorocarbons release chlorine atoms in the stratosphere, and each chlorine can destroy thousands of ozone molecules. Carbon monoxide and sulphur dioxide cause other pollution problems.",
+      "as": "ক্ল'ৰ'ফ্লুঅ'ৰ'কাৰ্বনে ষ্ট্ৰেট'ছ্ফিয়াৰত ক্ল'ৰিন পৰমাণু এৰে, আৰু প্ৰতিটো ক্ল'ৰিনে হাজাৰ হাজাৰ অ'জ'ন অণু নষ্ট কৰিব পাৰে। কাৰ্বন মন'ক্সাইড আৰু ছালফাৰ ডাইঅক্সাইডে অন্য প্ৰদূষণ ঘটায়।"
+    }
+  },
+  {
+    "id": "biology-307",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The chief greenhouse gas released from paddy fields and cattle is",
+      "as": "ধানপথাৰ আৰু গৰুৰপৰা ওলোৱা মূল গ্ৰীণহাউছ গেছটো কি"
+    },
+    "options": [
+      {
+        "en": "methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "ozone",
+        "as": "অ'জ'ন"
+      },
+      {
+        "en": "nitrogen",
+        "as": "নাইট্ৰজেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Waterlogged paddy soil and the rumen of cattle host methanogens that release methane. Carbon dioxide comes mainly from burning fossil fuel.",
+      "as": "পানী থকা ধানপথাৰৰ মাটি আৰু গৰুৰ ৰুমেনত মিথেন'জেন থাকে যি মিথেন এৰে। কাৰ্বন ডাইঅক্সাইড মূলতঃ জীৱাশ্ম ইন্ধন জ্বলোৱাৰপৰা আহে।"
+    }
+  },
+  {
+    "id": "biology-308",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Eutrophication of a lake is caused mainly by",
+      "as": "হ্ৰদৰ ইউট্ৰ'ফিকেচন মূলতঃ কিৰ বাবে হয়"
+    },
+    "options": [
+      {
+        "en": "excess nitrates and phosphates from fertiliser runoff",
+        "as": "সাৰৰ পৰা অহা অতিৰিক্ত নাইট্ৰেট আৰু ফছফেট"
+      },
+      {
+        "en": "excess oxygen",
+        "as": "অতিৰিক্ত অক্সিজেন"
+      },
+      {
+        "en": "low temperature",
+        "as": "নিম্ন উষ্ণতা"
+      },
+      {
+        "en": "high salinity only",
+        "as": "কেৱল উচ্চ লৱণতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Nutrient enrichment triggers algal blooms, and their decay consumes oxygen until fish die. Extra oxygen or cold water does not drive the process.",
+      "as": "পুষ্টি সমৃদ্ধিয়ে শেলাইৰ ফুলন ঘটায়, আৰু তাৰ পচনে অক্সিজেন খৰচ কৰি মাছ মৰে। অতিৰিক্ত অক্সিজেন বা ঠাণ্ডা পানীয়ে এই প্ৰক্ৰিয়া নচলায়।"
+    }
+  },
+  {
+    "id": "biology-309",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Biological magnification means the increase in concentration of a pollutant",
+      "as": "জৈৱ বৃদ্ধিৰ অৰ্থ প্ৰদূষকৰ ঘনত্ব বৃদ্ধি হোৱা"
+    },
+    "options": [
+      {
+        "en": "at successive higher trophic levels",
+        "as": "ক্ৰমে উচ্চ পুষ্টি স্তৰত"
+      },
+      {
+        "en": "in the soil only",
+        "as": "কেৱল মাটিত"
+      },
+      {
+        "en": "in rainfall",
+        "as": "বৰষুণত"
+      },
+      {
+        "en": "in the atmosphere",
+        "as": "বায়ুমণ্ডলত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fat-soluble pollutants such as DDT are not excreted and so build up in body tissue at each step of the food chain, harming top predators most. Water-soluble substances are usually excreted.",
+      "as": "DDT ৰ দৰে চৰ্বি-দ্ৰৱণীয় প্ৰদূষক বৰ্জিত নহয়, সেয়ে খাদ্য শৃংখলৰ প্ৰতিটো স্তৰত দেহকলাত জমা হয় আৰু শীৰ্ষ শিকাৰুক সবাতোকৈ বেছি ক্ষতি কৰে। পানী-দ্ৰৱণীয় পদাৰ্থ সাধাৰণতে বৰ্জিত হয়।"
+    }
+  },
+  {
+    "id": "biology-310",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The Kaziranga National Park is a UNESCO World Heritage Site chiefly for the conservation of",
+      "as": "কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান ইউনেস্ক' বিশ্ব ঐতিহ্য স্থান মূলতঃ কিহৰ সংৰক্ষণৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "the one-horned rhinoceros",
+        "as": "এশিঙীয়া গঁড়"
+      },
+      {
+        "en": "the tiger only",
+        "as": "কেৱল বাঘ"
+      },
+      {
+        "en": "the elephant only",
+        "as": "কেৱল হাতী"
+      },
+      {
+        "en": "the hoolock gibbon",
+        "as": "হুলক গিবন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kaziranga holds the largest population of the Indian one-horned rhinoceros, which is why it was inscribed. Tigers and elephants also occur but are not the reason for the listing.",
+      "as": "কাজিৰঙাত ভাৰতীয় এশিঙীয়া গঁড়ৰ আটাইতকৈ ডাঙৰ জনসংখ্যা আছে, সেয়ে ইয়াক তালিকাভুক্ত কৰা হৈছিল। বাঘ আৰু হাতীও আছে, কিন্তু তালিকাৰ কাৰণ নহয়।"
+    }
+  },
+  {
+    "id": "biology-311",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "In situ conservation of biodiversity means conservation",
+      "as": "জৈৱ বৈচিত্ৰ্যৰ 'স্থানত' সংৰক্ষণ মানে সংৰক্ষণ"
+    },
+    "options": [
+      {
+        "en": "within the natural habitat of the species",
+        "as": "প্ৰজাতিৰ প্ৰাকৃতিক বাসস্থানৰ ভিতৰত"
+      },
+      {
+        "en": "in a seed bank",
+        "as": "বীজ ভাণ্ডাৰত"
+      },
+      {
+        "en": "in a zoo",
+        "as": "চিৰিয়াখানাত"
+      },
+      {
+        "en": "in a botanical garden",
+        "as": "উদ্ভিদ উদ্যানত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In situ keeps the species in its own ecosystem, as in national parks and biosphere reserves. Zoos, gardens and seed banks are ex situ because the organism is moved out of its habitat.",
+      "as": "স্থানত সংৰক্ষণে প্ৰজাতিক তাৰ নিজৰ বাস্তুতন্ত্ৰতে ৰাখে, যেনে ৰাষ্ট্ৰীয় উদ্যান আৰু জীৱমণ্ডল সংৰক্ষিত অঞ্চলত। চিৰিয়াখানা, উদ্যান আৰু বীজ ভাণ্ডাৰ বহিঃস্থ, কাৰণ জীৱক বাসস্থানৰপৰা আঁতৰোৱা হয়।"
+    }
+  },
+  {
+    "id": "biology-312",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The relationship in which both species benefit is called",
+      "as": "যি সম্পৰ্কত দুয়োটা প্ৰজাতিয়ে লাভ পায় তাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "mutualism",
+        "as": "পৰস্পৰবাদ"
+      },
+      {
+        "en": "commensalism",
+        "as": "সহভোজিতা"
+      },
+      {
+        "en": "parasitism",
+        "as": "পৰজীৱিতা"
+      },
+      {
+        "en": "amensalism",
+        "as": "অসহভোজিতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In mutualism both partners gain, as in lichens where alga and fungus help each other. Commensalism benefits one only, parasitism harms the host and amensalism harms one without gain to the other.",
+      "as": "পৰস্পৰবাদত দুয়ো অংশীয়ে লাভ পায়, যেনে লাইকেনত শেলাই আৰু ভেঁকুৰে ইটোৱে সিটোক সহায় কৰে। সহভোজিতাত এটাই লাভ পায়, পৰজীৱিতাই পোষকক ক্ষতি কৰে আৰু অসহভোজিতাই আনৰ লাভ নোহোৱাকৈ এটাক ক্ষতি কৰে।"
+    }
+  },
+  {
+    "id": "biology-313",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The carrying capacity of a habitat is the",
+      "as": "বাসস্থানৰ বহন ক্ষমতা কি"
+    },
+    "options": [
+      {
+        "en": "maximum population it can support indefinitely",
+        "as": "অনিৰ্দিষ্টকাললৈ ধৰি ৰাখিব পৰা সৰ্বোচ্চ জনসংখ্যা"
+      },
+      {
+        "en": "total number of species present",
+        "as": "উপস্থিত প্ৰজাতিৰ মুঠ সংখ্যা"
+      },
+      {
+        "en": "rate of birth in a year",
+        "as": "বছৰত জন্মৰ হাৰ"
+      },
+      {
+        "en": "amount of rainfall received",
+        "as": "পোৱা বৰষুণৰ পৰিমাণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Carrying capacity is the population the available resources can sustain over time, and growth levels off there. Species count is richness and birth rate is a demographic rate.",
+      "as": "বহন ক্ষমতা হ'ল উপলব্ধ সম্পদে সময়ৰ সৈতে ধৰি ৰাখিব পৰা জনসংখ্যা, আৰু বৃদ্ধি তাতেই সমতল হয়। প্ৰজাতি সংখ্যা সমৃদ্ধি আৰু জন্ম হাৰ জনসংখ্যাৰ হাৰ।"
+    }
+  },
+  {
+    "id": "biology-314",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "An ecological pyramid that can never be inverted is the pyramid of",
+      "as": "যি পাৰিপাৰ্শ্বিক পিৰামিড কেতিয়াও ওলোটা হ'ব নোৱাৰে সেয়া কিৰ পিৰামিড"
+    },
+    "options": [
+      {
+        "en": "energy",
+        "as": "শক্তি"
+      },
+      {
+        "en": "numbers",
+        "as": "সংখ্যা"
+      },
+      {
+        "en": "biomass",
+        "as": "জৈৱ ভৰ"
+      },
+      {
+        "en": "biomass in a forest",
+        "as": "অৰণ্যৰ জৈৱ ভৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Energy always decreases from one trophic level to the next because of heat loss, so its pyramid is always upright. Pyramids of number and biomass can invert, as when one tree supports many insects.",
+      "as": "তাপ হেৰুওৱাৰ বাবে শক্তি প্ৰতিটো পুষ্টি স্তৰত সদায় কমে, সেয়ে ইয়াৰ পিৰামিড সদায় থিয়। সংখ্যা আৰু জৈৱ ভৰৰ পিৰামিড ওলোটা হ'ব পাৰে, যেনে এজোপা গছে বহু পতংগ ধৰি ৰাখিলে।"
+    }
+  },
+  {
+    "id": "biology-315",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The chief source of energy for an ecosystem is",
+      "as": "বাস্তুতন্ত্ৰৰ শক্তিৰ মূল উৎস কি"
+    },
+    "options": [
+      {
+        "en": "solar radiation",
+        "as": "সৌৰ বিকিৰণ"
+      },
+      {
+        "en": "soil nutrients",
+        "as": "মাটিৰ পুষ্টি"
+      },
+      {
+        "en": "water",
+        "as": "পানী"
+      },
+      {
+        "en": "atmospheric nitrogen",
+        "as": "বায়ুমণ্ডলীয় নাইট্ৰজেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Producers capture sunlight and convert it to chemical energy, which feeds every other level. Nutrients and water are materials, not the energy source.",
+      "as": "উৎপাদকে সূৰ্যৰ পোহৰ ধৰি ৰাসায়নিক শক্তিলৈ ৰূপান্তৰ কৰে, যি প্ৰতিটো অন্য স্তৰক খাদ্য দিয়ে। পুষ্টি আৰু পানী সামগ্ৰী, শক্তিৰ উৎস নহয়।"
+    }
+  },
+  {
+    "id": "biology-316",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Which of the following is a renewable natural resource?",
+      "as": "তলৰ কোনটো নৱীকৰণযোগ্য প্ৰাকৃতিক সম্পদ"
+    },
+    "options": [
+      {
+        "en": "solar energy",
+        "as": "সৌৰ শক্তি"
+      },
+      {
+        "en": "coal",
+        "as": "কয়লা"
+      },
+      {
+        "en": "petroleum",
+        "as": "পেট্ৰ'লিয়াম"
+      },
+      {
+        "en": "natural gas",
+        "as": "প্ৰাকৃতিক গেছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Solar energy is replenished continuously and will not run out on human timescales. Coal, petroleum and natural gas are fossil fuels formed over millions of years.",
+      "as": "সৌৰ শক্তি নিৰন্তৰ পুনৰ পূৰণ হয় আৰু মানৱ সময়সীমাত শেষ নহয়। কয়লা, পেট্ৰ'লিয়াম আৰু প্ৰাকৃতিক গেছ কোটি বছৰত গঠিত জীৱাশ্ম ইন্ধন।"
+    }
+  },
+  {
+    "id": "biology-317",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "The deficiency of vitamin B1 causes",
+      "as": "ভিটামিন B১ ৰ অভাৱত কি হয়"
+    },
+    "options": [
+      {
+        "en": "beriberi",
+        "as": "বেৰিবেৰি"
+      },
+      {
+        "en": "scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "pellagra",
+        "as": "পেলাগ্ৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Thiamine or B1 deficiency damages nerves and the heart, giving beriberi. Scurvy is vitamin C deficiency, rickets vitamin D and pellagra niacin deficiency.",
+      "as": "থায়ামিন বা B১ ৰ অভাৱে স্নায়ু আৰু হৃদয়ৰ ক্ষতি কৰি বেৰিবেৰি কৰে। স্কাৰ্ভি ভিটামিন C, ৰিকেটছ ভিটামিন D আৰু পেলাগ্ৰা নিয়াচিনৰ অভাৱ।"
+    }
+  },
+  {
+    "id": "biology-318",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Which mineral is essential for the formation of haemoglobin?",
+      "as": "হিম'গ্লবিন গঠনৰ বাবে কোনটো খনিজ অপৰিহাৰ্য"
+    },
+    "options": [
+      {
+        "en": "iron",
+        "as": "লো"
+      },
+      {
+        "en": "calcium",
+        "as": "কেলছিয়াম"
+      },
+      {
+        "en": "potassium",
+        "as": "পটাছিয়াম"
+      },
+      {
+        "en": "sodium",
+        "as": "ছ'ডিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Iron sits at the centre of the haem group and binds oxygen, so its lack causes anaemia. Calcium builds bone, and potassium and sodium maintain nerve and fluid balance.",
+      "as": "লো হীম গোটৰ কেন্দ্ৰত থাকে আৰু অক্সিজেন বান্ধে, সেয়ে ইয়াৰ অভাৱত ৰক্তহীনতা হয়। কেলছিয়ামে হাড় গঢ়ে, আৰু পটাছিয়াম তথা ছ'ডিয়ামে স্নায়ু আৰু তৰল ভাৰসাম্য ৰাখে।"
+    }
+  },
+  {
+    "id": "biology-319",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Iodine is needed by the body for the synthesis of",
+      "as": "শৰীৰে আয়'ডিন কিমানৰ সংশ্লেষণৰ বাবে লাগে"
+    },
+    "options": [
+      {
+        "en": "thyroxine",
+        "as": "থাইৰক্সিন"
+      },
+      {
+        "en": "insulin",
+        "as": "ইনছুলিন"
+      },
+      {
+        "en": "adrenaline",
+        "as": "এড্ৰিনেলিন"
+      },
+      {
+        "en": "haemoglobin",
+        "as": "হিম'গ্লবিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The thyroid gland needs iodine to make thyroxine, so a shortfall enlarges the gland as goitre. Insulin, adrenaline and haemoglobin do not contain iodine.",
+      "as": "থাইৰয়ড গ্ৰন্থিয়ে থাইৰক্সিন বনাবলৈ আয়'ডিন লাগে, সেয়ে অভাৱত গ্ৰন্থি ডাঙৰ হৈ গলগণ্ড হয়। ইনছুলিন, এড্ৰিনেলিন আৰু হিম'গ্লবিনত আয়'ডিন নাই।"
+    }
+  },
+  {
+    "id": "biology-320",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Vitamin A is important for",
+      "as": "ভিটামিন A কিৰ বাবে গুৰুত্বপূৰ্ণ"
+    },
+    "options": [
+      {
+        "en": "normal vision and healthy epithelium",
+        "as": "স্বাভাৱিক দৃষ্টি আৰু সুস্থ এপিথেলিয়াম"
+      },
+      {
+        "en": "blood clotting",
+        "as": "ৰক্ত জমা"
+      },
+      {
+        "en": "calcium absorption",
+        "as": "কেলছিয়াম শোষণ"
+      },
+      {
+        "en": "energy production",
+        "as": "শক্তি উৎপাদন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vitamin A forms rhodopsin in the retina and maintains epithelial tissue, so its lack causes night blindness and dry eyes. Clotting needs vitamin K and calcium absorption vitamin D.",
+      "as": "ভিটামিন A এ ৰেটিনাত ৰ'ড'পছিন গঢ়ে আৰু এপিথেলিয়াল কলা ৰাখে, সেয়ে অভাৱত ৰাতি কণা আৰু শুকান চকু হয়। জমাৰ বাবে ভিটামিন K আৰু কেলছিয়াম শোষণৰ বাবে ভিটামিন D লাগে।"
+    }
+  },
+  {
+    "id": "biology-321",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Which of the following is a rich source of plant protein?",
+      "as": "তলৰ কোনটো উদ্ভিদ প্ৰ'টিনৰ চহকী উৎস"
+    },
+    "options": [
+      {
+        "en": "soybean",
+        "as": "চয়াবীন"
+      },
+      {
+        "en": "rice",
+        "as": "ধান"
+      },
+      {
+        "en": "potato",
+        "as": "আলু"
+      },
+      {
+        "en": "cassava",
+        "as": "কাছাভা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Soybean carries about forty percent protein and supplies all essential amino acids. Rice, potato and cassava are chiefly carbohydrate foods.",
+      "as": "চয়াবীনত প্ৰায় চল্লিশ শতাংশ প্ৰ'টিন থাকে আৰু সকলো অপৰিহাৰ্য এমিন' অ্যাসিড যোগায়। ধান, আলু আৰু কাছাভা মূলতঃ শৰ্কৰাঘটিত খাদ্য।"
+    }
+  },
+  {
+    "id": "biology-322",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "The disease caused by the deficiency of both protein and calories in young children, marked by a swollen belly, is",
+      "as": "শিশুৰ প্ৰ'টিন আৰু কেলৰি দুয়োটাৰ অভাৱত হোৱা, পেট ফুলা ৰোগটো কি"
+    },
+    "options": [
+      {
+        "en": "kwashiorkor",
+        "as": "কোৱাছিঅৰ্কৰ"
+      },
+      {
+        "en": "marasmus",
+        "as": "মাৰাছমাছ"
+      },
+      {
+        "en": "beriberi",
+        "as": "বেৰিবেৰি"
+      },
+      {
+        "en": "rickets",
+        "as": "ৰিকেটছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Kwashiorkor is protein deficiency with adequate calories, so oedema swells the belly. Marasmus is severe deficiency of both, giving extreme wasting without oedema.",
+      "as": "কোৱাছিঅৰ্কৰত প্ৰ'টিনৰ অভাৱ কিন্তু কেলৰি পৰ্যাপ্ত, সেয়ে ইডিমাৰে পেট ফুলে। মাৰাছমাছত দুয়োটাৰে তীব্ৰ অভাৱ, সেয়ে ইডিমা নোহোৱাকৈ অতিশয় ক্ষয় হয়।"
+    }
+  },
+  {
+    "id": "biology-323",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Which vitamin acts as an antioxidant and is also called tocopherol?",
+      "as": "কোনটো ভিটামিন এণ্টিঅক্সিডেণ্ট হিচাপে কাম কৰে আৰু ট'ক'ফেৰল বুলিও কোৱা হয়"
+    },
+    "options": [
+      {
+        "en": "Vitamin E",
+        "as": "ভিটামিন E"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin B6",
+        "as": "ভিটামিন B৬"
+      },
+      {
+        "en": "Vitamin K",
+        "as": "ভিটামিন K"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vitamin E is a family of tocopherols that protect membrane lipids from oxidation. Vitamin C is ascorbic acid and vitamin K is a clotting factor.",
+      "as": "ভিটামিন E ট'ক'ফেৰলৰ পৰিয়াল, যি পৰ্দা লিপিডক জাৰণৰপৰা ৰক্ষা কৰে। ভিটামিন C অ্যাস্কৰবিক অ্যাসিড আৰু ভিটামিন K ৰক্ত জমাৰ কাৰক।"
+    }
+  },
+  {
+    "id": "biology-324",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Roughage in the diet is important because it",
+      "as": "খাদ্যত আঁহ গুৰুত্বপূৰ্ণ কাৰণ সেয়া"
+    },
+    "options": [
+      {
+        "en": "helps in the movement of food through the gut",
+        "as": "অন্ত্ৰৰ মাজেৰে খাদ্য চলাচলত সহায় কৰে"
+      },
+      {
+        "en": "provides most of the energy",
+        "as": "বেছিভাগ শক্তি যোগায়"
+      },
+      {
+        "en": "builds muscle",
+        "as": "পেশী গঢ়ে"
+      },
+      {
+        "en": "supplies vitamins directly",
+        "as": "পোনপটীয়াকৈ ভিটামিন যোগায়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dietary fibre adds bulk that keeps the intestine moving and prevents constipation. Energy comes from carbohydrate and fat, and muscle from protein.",
+      "as": "খাদ্য আঁহে ভৰ যোগ কৰি অন্ত্ৰ চলাচল ৰাখে আৰু কোষ্ঠকাঠিন্য ৰোধ কৰে। শক্তি শৰ্কৰা আৰু চৰ্বিৰপৰা আৰু পেশী প্ৰ'টিনৰপৰা আহে।"
+    }
+  },
+  {
+    "id": "biology-325",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Excess of which vitamin is stored in the liver and can become toxic if taken in very large doses?",
+      "as": "কোনটো ভিটামিন অতিৰিক্ত পৰিমাণত ল'লে যকৃতত জমা হৈ বিষক্ৰিয়া কৰিব পাৰে"
+    },
+    "options": [
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন A"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin B1",
+        "as": "ভিটামিন B১"
+      },
+      {
+        "en": "Vitamin B6",
+        "as": "ভিটামিন B৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vitamin A is fat-soluble and the liver stores it, so very high doses accumulate and cause hypervitaminosis A. Vitamin C and the B group are water-soluble and any excess is excreted in urine.",
+      "as": "ভিটামিন A চৰ্বি-দ্ৰৱণীয় আৰু যকৃতত জমা হয়, সেয়ে অতিশয় বেছি পালে জমা হৈ হাইপাৰভিটামিন'ছিছ A কৰে। ভিটামিন C আৰু B গোট পানী-দ্ৰৱণীয় আৰু অতিৰিক্তখিনি প্ৰস্ৰাৱত ওলাই যায়।"
+    }
+  },
+  {
+    "id": "biology-326",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "A balanced diet is one that",
+      "as": "সন্তুলিত খাদ্য সেয়া যি"
+    },
+    "options": [
+      {
+        "en": "supplies all nutrients in the right proportion",
+        "as": "সকলো পুষ্টি সঠিক অনুপাতত যোগায়"
+      },
+      {
+        "en": "contains only vegetables",
+        "as": "কেৱল শাক-পাচলি থাকে"
+      },
+      {
+        "en": "is rich in fat only",
+        "as": "কেৱল চৰ্বিৰে চহকী"
+      },
+      {
+        "en": "excludes all carbohydrates",
+        "as": "সকলো শৰ্কৰা বাদ দিয়ে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A balanced diet supplies carbohydrate, protein, fat, vitamins, minerals, fibre and water in proper amounts. Any diet restricted to one group is unbalanced.",
+      "as": "সন্তুলিত খাদ্যই শৰ্কৰা, প্ৰ'টিন, চৰ্বি, ভিটামিন, খনিজ, আঁহ আৰু পানী সঠিক পৰিমাণত যোগায়। এটা গোটতে সীমাবদ্ধ যিকোনো খাদ্য অসন্তুলিত।"
+    }
+  },
+  {
+    "id": "biology-327",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "The chief function of calcium in the body is",
+      "as": "শৰীৰত কেলছিয়ামৰ মূল কাম কি"
+    },
+    "options": [
+      {
+        "en": "formation of bones and teeth",
+        "as": "হাড় আৰু দাঁত গঠন"
+      },
+      {
+        "en": "transport of oxygen",
+        "as": "অক্সিজেন পৰিবহন"
+      },
+      {
+        "en": "clotting of blood only",
+        "as": "কেৱল ৰক্ত জমা"
+      },
+      {
+        "en": "production of bile",
+        "as": "পিত্ত উৎপাদন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "About ninety-nine percent of body calcium sits in bone and teeth as mineral salt, and the rest assists clotting and muscle contraction. Oxygen transport is the work of iron in haemoglobin.",
+      "as": "দেহৰ প্ৰায় নব্বৈ শতাংশ কেলছিয়াম খনিজ লৱণ হিচাপে হাড় আৰু দাঁতত থাকে, আৰু বাকীখিনিয়ে জমা তথা পেশী সংকোচনত সহায় কৰে। অক্সিজেন পৰিবহন হিম'গ্লবিনৰ লোৰ কাম।"
+    }
+  },
+  {
+    "id": "biology-328",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The normal resting heart rate of an adult human is about",
+      "as": "এজন প্ৰাপ্তবয়স্ক মানুহৰ স্বাভাৱিক বিশ্ৰামকালীন হৃৎস্পন্দনৰ হাৰ প্ৰায় কিমান"
+    },
+    "options": [
+      {
+        "en": "72 beats per minute",
+        "as": "মিনিটত ৭২ বাৰ"
+      },
+      {
+        "en": "40 beats per minute",
+        "as": "মিনিটত ৪০ বাৰ"
+      },
+      {
+        "en": "120 beats per minute",
+        "as": "মিনিটত ১২০ বাৰ"
+      },
+      {
+        "en": "150 beats per minute",
+        "as": "মিনিটত ১৫০ বাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A healthy adult heart beats about seventy-two times a minute at rest. Forty is bradycardia, while 120 and 150 are rates seen during exercise or fever.",
+      "as": "সুস্থ প্ৰাপ্তবয়স্কৰ হৃদয়ে বিশ্ৰামত মিনিটত প্ৰায় বাহাত্তৰ বাৰ স্পন্দন কৰে। চল্লিশ ব্ৰেডিকাৰ্ডিয়া, আৰু ১২০ তথা ১৫০ ব্যায়াম বা জ্বৰৰ হাৰ।"
+    }
+  },
+  {
+    "id": "biology-329",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The part of the nephron where most reabsorption of glucose and amino acids takes place is the",
+      "as": "নেফ্ৰনৰ যি অংশত গ্লুক'জ আৰু এমিন' অ্যাসিডৰ বেছিভাগ পুনৰ্শোষণ হয়"
+    },
+    "options": [
+      {
+        "en": "proximal convoluted tubule",
+        "as": "সমীপ কুঁচিত নলিকা"
+      },
+      {
+        "en": "distal convoluted tubule",
+        "as": "দূৰ কুঁচিত নলিকা"
+      },
+      {
+        "en": "collecting duct",
+        "as": "সংগ্ৰাহক নলী"
+      },
+      {
+        "en": "Bowman's capsule",
+        "as": "ব'মেনৰ কেপচুল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The proximal tubule has a brush border rich in carriers and reclaims nearly all glucose and amino acids. The distal tubule fine-tunes ions and the collecting duct adjusts water.",
+      "as": "সমীপ নলিকাৰ ব্ৰাছ সীমাত বাহক প্ৰচুৰ, যি প্ৰায় সকলো গ্লুক'জ আৰু এমিন' অ্যাসিড ঘূৰাই লয়। দূৰ নলিকাই আয়ন সূক্ষ্মভাৱে ঠিক কৰে আৰু সংগ্ৰাহক নলীয়ে পানী সমন্বয় কৰে।"
+    }
+  },
+  {
+    "id": "biology-330",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Which enzyme in the stomach begins the digestion of proteins?",
+      "as": "পেটত কোনটো এনজাইমে প্ৰ'টিনৰ হজম আৰম্ভ কৰে"
+    },
+    "options": [
+      {
+        "en": "pepsin",
+        "as": "পেপছিন"
+      },
+      {
+        "en": "trypsin",
+        "as": "ট্ৰিপছিন"
+      },
+      {
+        "en": "amylase",
+        "as": "এমাইলেজ"
+      },
+      {
+        "en": "lipase",
+        "as": "লাইপেজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pepsin is secreted as pepsinogen and works in the acidic stomach to break proteins into peptides. Trypsin acts in the small intestine, amylase on starch and lipase on fat.",
+      "as": "পেপছিন পেপছিন'জেন হিচাপে নিঃসৃত হয় আৰু অ্যাসিডিক পেটত কাম কৰি প্ৰ'টিনক পেপটাইডলৈ ভাঙে। ট্ৰিপছিন ক্ষুদ্ৰান্ত্ৰত, এমাইলেজ ষ্টাৰ্চত আৰু লাইপেজ চৰ্বিত ক্ৰিয়া কৰে।"
+    }
+  },
+  {
+    "id": "biology-331",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The hormone that lowers blood glucose by promoting its uptake into cells is",
+      "as": "কোষত গ্লুক'জ গ্ৰহণ বঢ়াই ৰক্ত গ্লুক'জ কমোৱা হৰম'নটো কি"
+    },
+    "options": [
+      {
+        "en": "insulin",
+        "as": "ইনছুলিন"
+      },
+      {
+        "en": "glucagon",
+        "as": "গ্লুকাগন"
+      },
+      {
+        "en": "adrenaline",
+        "as": "এড্ৰিনেলিন"
+      },
+      {
+        "en": "cortisol",
+        "as": "কৰ্টিছল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Insulin from the beta cells of the pancreas moves glucose into cells and stores the excess as glycogen. Glucagon, adrenaline and cortisol all raise blood glucose.",
+      "as": "অগ্ন্যাশয়ৰ বিটা কোষৰ ইনছুলিনে গ্লুক'জক কোষলৈ লৈ যায় আৰু অতিৰিক্তখিনি গ্লাইক'জেন হিচাপে সাঁচি ৰাখে। গ্লুকাগন, এড্ৰিনেলিন আৰু কৰ্টিছলে ৰক্ত গ্লুক'জ বঢ়ায়।"
+    }
+  },
+  {
+    "id": "biology-332",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The exchange of gases between blood and tissue cells takes place through",
+      "as": "ৰক্ত আৰু কলা কোষৰ মাজত গেছ বিনিময় কিৰ জৰিয়তে হয়"
+    },
+    "options": [
+      {
+        "en": "capillary walls",
+        "as": "কেশিকা নলীৰ বেৰ"
+      },
+      {
+        "en": "artery walls",
+        "as": "ধমনীৰ বেৰ"
+      },
+      {
+        "en": "vein valves",
+        "as": "শিৰাৰ কপাট"
+      },
+      {
+        "en": "lymph nodes",
+        "as": "লসিকা গ্ৰন্থি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Capillaries are only one cell thick, so oxygen and carbon dioxide diffuse easily between blood and tissue. Arteries and veins have thick walls suited to transport, not exchange.",
+      "as": "কেশিকা নলী কেৱল এটা কোষ ডাঠ, সেয়ে অক্সিজেন আৰু কাৰ্বন ডাইঅক্সাইড ৰক্ত আৰু কলাৰ মাজত সহজে বিচৰণ কৰে। ধমনী আৰু শিৰাৰ বেৰ ডাঠ, যি পৰিবহনৰ বাবে উপযুক্ত, বিনিময়ৰ নহয়।"
+    }
+  },
+  {
+    "id": "biology-333",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Blood pressure is measured with an instrument called the",
+      "as": "ৰক্তচাপ কি যন্ত্ৰৰে জোখা হয়"
+    },
+    "options": [
+      {
+        "en": "sphygmomanometer",
+        "as": "স্ফিগম'মেন'মিটাৰ"
+      },
+      {
+        "en": "stethoscope",
+        "as": "ষ্টেথ'স্কোপ"
+      },
+      {
+        "en": "spirometer",
+        "as": "স্পাইৰ'মিটাৰ"
+      },
+      {
+        "en": "haemocytometer",
+        "as": "হিম'চাইট'মিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A sphygmomanometer with an inflatable cuff gives the systolic and diastolic readings. A stethoscope listens to body sounds and a spirometer measures lung volumes.",
+      "as": "স্ফীত কৰিব পৰা কাফযুক্ত স্ফিগম'মেন'মিটাৰে সিষ্ট'লিক আৰু ডায়াষ্ট'লিক পঢ়া দিয়ে। ষ্টেথ'স্কোপে শৰীৰৰ শব্দ শুনে আৰু স্পাইৰ'মিটাৰে ফুসফুসৰ আয়তন জোখে।"
+    }
+  },
+  {
+    "id": "biology-334",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The largest artery in the human body is the",
+      "as": "মানুহৰ শৰীৰৰ আটাইতকৈ ডাঙৰ ধমনীটো কি"
+    },
+    "options": [
+      {
+        "en": "aorta",
+        "as": "মহাধমনী"
+      },
+      {
+        "en": "pulmonary artery",
+        "as": "ফুসফুসীয় ধমনী"
+      },
+      {
+        "en": "carotid artery",
+        "as": "কণ্ঠধমনী"
+      },
+      {
+        "en": "femoral artery",
+        "as": "ঊৰুধমনী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The aorta leaves the left ventricle and distributes oxygenated blood to the whole body, making it the largest artery. The carotid and femoral arteries are branches of it.",
+      "as": "মহাধমনীয়ে বাওঁ নিলয়ৰপৰা ওলাই গোটেই শৰীৰলৈ অক্সিজেনযুক্ত ৰক্ত বিতৰণ কৰে, সেয়ে ই আটাইতকৈ ডাঙৰ। কণ্ঠধমনী আৰু ঊৰুধমনী ইয়াৰ শাখা।"
+    }
+  },
+  {
+    "id": "biology-335",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Which blood cells are chiefly responsible for immunity?",
+      "as": "ৰোগ প্ৰতিৰক্ষাৰ বাবে মূলতঃ কোন ৰক্তকণিকা দায়ী"
+    },
+    "options": [
+      {
+        "en": "white blood cells",
+        "as": "শ্বেত ৰক্তকণিকা"
+      },
+      {
+        "en": "red blood cells",
+        "as": "লোহিত ৰক্তকণিকা"
+      },
+      {
+        "en": "platelets",
+        "as": "অণুচক্ৰিকা"
+      },
+      {
+        "en": "plasma cells only",
+        "as": "কেৱল প্লাজমা কোষ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "White cells, chiefly lymphocytes and phagocytes, recognise and destroy pathogens. Red cells carry oxygen and platelets assist clotting.",
+      "as": "শ্বেত কণিকা, মূলতঃ লিম্ফ'চাইট আৰু ভক্ষককোষে ৰোগজীৱ চিনি নষ্ট কৰে। লোহিত কণিকাই অক্সিজেন কঢ়িয়ায় আৰু অণুচক্ৰিকাই জমাত সহায় কৰে।"
+    }
+  },
+  {
+    "id": "biology-336",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The part of the human digestive tract where most absorption of digested food occurs is the",
+      "as": "মানুহৰ পাচন নলীৰ যি অংশত হজম হোৱা খাদ্যৰ বেছিভাগ শোষণ হয়"
+    },
+    "options": [
+      {
+        "en": "small intestine",
+        "as": "ক্ষুদ্ৰান্ত্ৰ"
+      },
+      {
+        "en": "large intestine",
+        "as": "বৃহদান্ত্ৰ"
+      },
+      {
+        "en": "stomach",
+        "as": "পেট"
+      },
+      {
+        "en": "oesophagus",
+        "as": "খাদ্যনলী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Villi and microvilli of the small intestine give an enormous surface for absorbing nutrients. The large intestine mainly absorbs water and the stomach begins protein digestion.",
+      "as": "ক্ষুদ্ৰান্ত্ৰৰ ভিলাছ আৰু মাইক্ৰ'ভিলাছে পুষ্টি শোষণৰ বাবে বিশাল পৃষ্ঠ দিয়ে। বৃহদান্ত্ৰই মূলতঃ পানী শোষে আৰু পেটে প্ৰ'টিনৰ হজম আৰম্ভ কৰে।"
+    }
+  },
+  {
+    "id": "biology-337",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The number of lobes in the human right lung is",
+      "as": "মানুহৰ সোঁ ফুসফুসত কিমানটা খণ্ড থাকে"
+    },
+    "options": [
+      {
+        "en": "three",
+        "as": "তিনিটা"
+      },
+      {
+        "en": "two",
+        "as": "দুটা"
+      },
+      {
+        "en": "four",
+        "as": "চাৰিটা"
+      },
+      {
+        "en": "one",
+        "as": "এটা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The right lung has three lobes and the left two, because the heart takes space on the left side. This asymmetry is a common examination point.",
+      "as": "সোঁ ফুসফুসত তিনিটা খণ্ড আৰু বাওঁটোত দুটা, কাৰণ হৃদয়ে বাওঁফালে ঠাই লয়। এই অসমতা পৰীক্ষাৰ সাধাৰণ বিন্দু।"
+    }
+  },
+  {
+    "id": "biology-338",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The hormone secreted by the adrenal medulla that prepares the body for emergencies is",
+      "as": "শৰীৰক জৰুৰী অৱস্থাৰ বাবে সাজু কৰা এড্ৰিনেল মেডুলাৰ হৰম'নটো কি"
+    },
+    "options": [
+      {
+        "en": "adrenaline",
+        "as": "এড্ৰিনেলিন"
+      },
+      {
+        "en": "insulin",
+        "as": "ইনছুলিন"
+      },
+      {
+        "en": "thyroxine",
+        "as": "থাইৰক্সিন"
+      },
+      {
+        "en": "oestrogen",
+        "as": "ইষ্ট্ৰ'জেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Adrenaline raises heart rate, blood glucose and blood flow to muscles in the fight-or-flight response. Insulin lowers glucose and thyroxine sets metabolic rate.",
+      "as": "এড্ৰিনেলিনে সংঘৰ্ষ-বা-পলায়ন সঁহাৰিত হৃৎস্পন্দন, ৰক্ত গ্লুক'জ আৰু পেশীলৈ ৰক্ত প্ৰবাহ বঢ়ায়। ইনছুলিনে গ্লুক'জ কমায় আৰু থাইৰক্সিনে বিপাক হাৰ ঠিক কৰে।"
+    }
+  },
+  {
+    "id": "biology-339",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Which structure prevents food from entering the windpipe during swallowing?",
+      "as": "গিলি থকাৰ সময়ত খাদ্য শ্বাসনলীত সোমোৱাৰ পৰা কি গঠনে বাধা দিয়ে"
+    },
+    "options": [
+      {
+        "en": "epiglottis",
+        "as": "এপিগ্লটিছ"
+      },
+      {
+        "en": "uvula",
+        "as": "আলজিহ্বা"
+      },
+      {
+        "en": "larynx",
+        "as": "স্বৰযন্ত্ৰ"
+      },
+      {
+        "en": "pharynx",
+        "as": "গলবিল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The epiglottis folds down over the larynx so the bolus passes into the oesophagus. The uvula and pharynx are part of the throat but do not seal the airway.",
+      "as": "এপিগ্লটিছ স্বৰযন্ত্ৰৰ ওপৰত ভাঁজ খাই পৰে যাতে খাদ্যপিণ্ড খাদ্যনলীত যায়। আলজিহ্বা আৰু গলবিল ডিঙিৰ অংশ, কিন্তু শ্বাসপথ বন্ধ নকৰে।"
+    }
+  },
+  {
+    "id": "biology-340",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "The principal nitrogenous waste excreted in human urine is",
+      "as": "মানুহৰ প্ৰস্ৰাৱত বৰ্জিত মূল নাইট্ৰজেনযুক্ত বৰ্জন কি"
+    },
+    "options": [
+      {
+        "en": "urea",
+        "as": "ইউৰিয়া"
+      },
+      {
+        "en": "ammonia",
+        "as": "এম'নিয়া"
+      },
+      {
+        "en": "uric acid",
+        "as": "ইউৰিক অ্যাসিড"
+      },
+      {
+        "en": "creatinine only",
+        "as": "কেৱল ক্ৰিয়েটিনিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The human liver converts ammonia to the less toxic urea, which the kidney excretes. Ammonia is the waste of fish and uric acid that of birds and reptiles.",
+      "as": "মানুহৰ যকৃয়ে এম'নিয়াক কম বিষাক্ত ইউৰিয়ালৈ ৰূপান্তৰ কৰে, যি বৃক্কই বৰ্জন কৰে। এম'নিয়া মাছৰ আৰু ইউৰিক অ্যাসিড চৰাই তথা সৰীসৃপৰ বৰ্জন।"
+    }
+  },
+  {
+    "id": "biology-341",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Which vitamin is needed for the normal clotting of blood?",
+      "as": "ৰক্ত স্বাভাৱিকভাৱে জমিবলৈ কোনটো ভিটামিন প্ৰয়োজন"
+    },
+    "options": [
+      {
+        "en": "Vitamin K",
+        "as": "ভিটামিন K"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
+      },
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন A"
+      },
+      {
+        "en": "Vitamin B2",
+        "as": "ভিটামিন B২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vitamin K is required by the liver to make prothrombin and other clotting factors, so its lack delays clotting. Vitamin C builds collagen and vitamin A supports vision.",
+      "as": "যকৃয়ে প্ৰথ্ৰম্বিন আৰু অন্য জমা কাৰক বনাবলৈ ভিটামিন K লাগে, সেয়ে অভাৱত জমা পলম হয়। ভিটামিন C এ ক'লেজেন আৰু ভিটামিন A এ দৃষ্টি সহায় কৰে।"
+    }
+  },
+  {
+    "id": "biology-342",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "The mineral most needed for strong bones and teeth is",
+      "as": "মজবুত হাড় আৰু দাঁতৰ বাবে আটাইতকৈ প্ৰয়োজনীয় খনিজটো কি"
+    },
+    "options": [
+      {
+        "en": "calcium",
+        "as": "কেলছিয়াম"
+      },
+      {
+        "en": "iron",
+        "as": "লো"
+      },
+      {
+        "en": "iodine",
+        "as": "আয়'ডিন"
+      },
+      {
+        "en": "zinc",
+        "as": "জিংক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Calcium phosphate is the mineral salt that hardens bone and enamel, and vitamin D helps absorb the calcium. Iron makes haemoglobin and iodine makes thyroxine.",
+      "as": "কেলছিয়াম ফছফেট সেই খনিজ লৱণ যি হাড় আৰু এনামেল কঠিন কৰে, আৰু ভিটামিন D এ কেলছিয়াম শোষণত সহায় কৰে। লোৱে হিম'গ্লবিন আৰু আয়'ডিনে থাইৰক্সিন বনায়।"
+    }
+  },
+  {
+    "id": "biology-343",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Night blindness is an early sign of the deficiency of",
+      "as": "ৰাতি কণা হোৱা কিৰ অভাৱৰ প্ৰাৰম্ভিক চিন"
+    },
+    "options": [
+      {
+        "en": "vitamin A",
+        "as": "ভিটামিন A"
+      },
+      {
+        "en": "vitamin D",
+        "as": "ভিটামিন D"
+      },
+      {
+        "en": "vitamin K",
+        "as": "ভিটামিন K"
+      },
+      {
+        "en": "vitamin B12",
+        "as": "ভিটামিন B১২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vitamin A forms the visual pigment rhodopsin, so a shortfall first shows as poor vision in dim light. Vitamin D deficiency causes rickets and K deficiency bleeding.",
+      "as": "ভিটামিন A এ দৃষ্টি ৰঞ্জক ৰ'ড'পছিন গঢ়ে, সেয়ে অভাৱত প্ৰথমে ম্লান পোহৰত কম দেখা যায়। ভিটামিন D ৰ অভাৱত ৰিকেটছ আৰু K ৰ অভাৱত ৰক্তক্ষৰণ হয়।"
+    }
+  },
+  {
+    "id": "biology-344",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Which food group is the chief source of energy in a normal Indian diet?",
+      "as": "সাধাৰণ ভাৰতীয় খাদ্যত শক্তিৰ মূল উৎস কোনটো খাদ্য গোট"
+    },
+    "options": [
+      {
+        "en": "cereals and millets",
+        "as": "ধান আৰু শস্য"
+      },
+      {
+        "en": "pulses",
+        "as": "ডাইল"
+      },
+      {
+        "en": "green leafy vegetables",
+        "as": "পাচলি শাক"
+      },
+      {
+        "en": "fruits",
+        "as": "ফল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rice, wheat and millets supply most of the carbohydrate and therefore most of the calories. Pulses give protein, leafy vegetables vitamins and minerals, and fruit sugars and vitamins.",
+      "as": "ধান, গম আৰু শস্যই বেছিভাগ শৰ্কৰা আৰু সেয়ে বেছিভাগ কেলৰি যোগায়। ডাইলে প্ৰ'টিন, শাকত ভিটামিন আৰু খনিজ, আৰু ফলত শৰ্কৰা তথা ভিটামিন থাকে।"
+    }
+  },
+  {
+    "id": "biology-345",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following diseases spreads through contaminated drinking water?",
+      "as": "তলৰ কোনটো ৰোগ দূষিত খোৱা পানীৰ জৰিয়তে বিয়পে"
+    },
+    "options": [
+      {
+        "en": "Cholera",
+        "as": "কলেৰা"
+      },
+      {
+        "en": "Tuberculosis",
+        "as": "যক্ষ্মা"
+      },
+      {
+        "en": "Malaria",
+        "as": "মেলেৰিয়া"
+      },
+      {
+        "en": "Rabies",
+        "as": "জলাতংক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cholera bacteria are shed in stool and reach a new host through contaminated water, so safe water supply is the main control. Tuberculosis spreads by air, malaria by mosquito and rabies by animal bite.",
+      "as": "কলেৰা বেক্টেৰিয়া মলত ওলাই দূষিত পানীৰে নতুন পোষকলৈ যায়, সেয়ে নিৰাপদ পানী যোগান মূল নিয়ন্ত্ৰণ। যক্ষ্মা বায়ুৰে, মেলেৰিয়া মশাৰে আৰু জলাতংক জন্তুৰ কামোৰে বিয়পে।"
+    }
+  },
+  {
+    "id": "biology-346",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Tetanus in humans usually enters the body through",
+      "as": "মানুহৰ শৰীৰত ধনুষ্টংকাৰ সাধাৰণতে কিৰ জৰিয়তে সোমায়"
+    },
+    "options": [
+      {
+        "en": "a deep wound contaminated with soil",
+        "as": "মাটিৰে দূষিত গভীৰ ঘা"
+      },
+      {
+        "en": "drinking unboiled milk",
+        "as": "উতলিব নিদিয়া গাখীৰ খোৱা"
+      },
+      {
+        "en": "a mosquito bite",
+        "as": "মশাৰ কামোৰ"
+      },
+      {
+        "en": "breathing dusty air",
+        "as": "ধূলিময় বায়ু উশাহ লোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Clostridium tetani spores live in soil and enter through a deep, dirty wound where oxygen is low, which is why wounds are cleaned and vaccination given. Milk, mosquitoes and dust do not transmit tetanus.",
+      "as": "ক্ল'ষ্ট্ৰিডিয়াম টেটানিৰ বীজাণু মাটিত থাকে আৰু কম অক্সিজেনযুক্ত গভীৰ লেতেৰা ঘাৰ জৰিয়তে সোমায়, সেয়ে ঘা পৰিষ্কাৰ কৰি টীকা দিয়া হয়। গাখীৰ, মশা আৰু ধূলিয়ে ধনুষ্টংকাৰ নিবিয়পায়।"
+    }
+  },
+  {
+    "id": "biology-347",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "The best way to prevent the spread of tuberculosis in a community is",
+      "as": "সমাজত যক্ষ্মা বিয়পাৰ পৰা বচাৰ আটাইতকৈ ভাল উপায় কি"
+    },
+    "options": [
+      {
+        "en": "early detection and complete treatment of patients",
+        "as": "ৰোগীৰ আগতীয়া চিনাক্তকৰণ আৰু সম্পূৰ্ণ চিকিৎসা"
+      },
+      {
+        "en": "boiling all drinking water",
+        "as": "সকলো খোৱা পানী উতলোৱা"
+      },
+      {
+        "en": "using mosquito nets",
+        "as": "মশাৰ জাল ব্যৱহাৰ কৰা"
+      },
+      {
+        "en": "avoiding milk",
+        "as": "গাখীৰ বৰ্জন কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tuberculosis spreads by airborne droplets, so finding cases early and completing the drug course stops transmission at source. Boiling water and nets target other routes entirely.",
+      "as": "যক্ষ্মা বায়ুজাত টোপালৰে বিয়পে, সেয়ে আগতীয়াকৈ ৰোগী ধৰা পেলাই ঔষধৰ কোৰ্ছ সম্পূৰ্ণ কৰিলে উৎসতেই সংক্ৰমণ বন্ধ হয়। পানী উতলোৱা আৰু জালে বেলেগ পথ লক্ষ্য কৰে।"
+    }
+  },
+  {
+    "id": "biology-348",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "A person with jaundice shows yellowing of the skin and eyes because of the accumulation of",
+      "as": "কামলা ৰোগীত ছাল আৰু চকু হালধীয়া হয় কিৰ সঞ্চয়ৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "bilirubin",
+        "as": "বিলিৰুবিন"
+      },
+      {
+        "en": "haemoglobin",
+        "as": "হিম'গ্লবিন"
+      },
+      {
+        "en": "urea",
+        "as": "ইউৰিয়া"
+      },
+      {
+        "en": "glucose",
+        "as": "গ্লুক'জ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Jaundice follows a build-up of bilirubin, the yellow pigment formed from broken-down haemoglobin, when the liver cannot process or excrete it. Haemoglobin, urea and glucose do not colour the skin yellow.",
+      "as": "কামলা যকৃয়ে বিলিৰুবিন প্ৰক্ৰিয়াকৰণ বা বৰ্জন কৰিব নোৱাৰিলে জমা হোৱা বিলিৰুবিনৰপৰা হয়, যি ভগা হিম'গ্লবিনৰপৰা গঠিত হালধীয়া ৰঞ্জক। হিম'গ্লবিন, ইউৰিয়া আৰু গ্লুক'জে ছাল হালধীয়া নকৰে।"
+    }
+  },
+  {
+    "id": "biology-349",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Which of the following is a vector-borne disease?",
+      "as": "তলৰ কোনটো বাহক-বাহিত ৰোগ"
+    },
+    "options": [
+      {
+        "en": "Filariasis",
+        "as": "ফাইলেৰিয়া"
+      },
+      {
+        "en": "Typhoid",
+        "as": "টাইফইড"
+      },
+      {
+        "en": "Tetanus",
+        "as": "ধনুষ্টংকাৰ"
+      },
+      {
+        "en": "Measles",
+        "as": "সৰু আই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Filariasis is carried from person to person by the Culex mosquito, so the worm needs a vector. Typhoid is water-borne, tetanus comes from soil and measles spreads by air.",
+      "as": "ফাইলেৰিয়া কিউলেক্স মশাৰ জৰিয়তে এজনৰপৰা আনজনলৈ যায়, সেয়ে কৃমিটোৰ বাহক লাগে। টাইফইড পানীৰ, ধনুষ্টংকাৰ মাটিৰ আৰু সৰু আই বায়ুৰ।"
+    }
   }
 ]
