@@ -1345,6 +1345,27 @@ already-committed tree therefore reports ~1,200 "changed" pages that are just
 that difference. If a fix does not change page markup, do **not** re-run the
 twin/keyword/SEO chain to "refresh" it — revert `*.html` and only re-run
 `scripts/stamp-assets.js` so the `api.js?v=` hash matches the rebuilt bundle.
+
+**Gotcha — `--only` breaks `/as/` link prefixes.** `rewriteInternalLinks` only
+points a link at `/as/...` when the target page is in `twinSet`, and `--only`
+narrows `twinSet` to the single page being rebuilt. Every nav, breadcrumb and
+sibling link on that twin then stays on the English URL, so an Assamese reader
+is dropped back into English on the first click. The page still looks right and
+passes every audit (canonical, hreflang and word count are unaffected), so this
+only shows up if you actually click a link. To build one twin correctly, run
+the full builder in a scratch copy and take only the new files:
+
+```bash
+tar -c --exclude=.git . | tar -x -C /tmp/gen && cd /tmp/gen
+node tools/build-as-twins.js
+# copy just the target directory back; leave the ~1,290 drifted pages alone
+cp -a /tmp/gen/as/<path>/. as/<path>/
+```
+
+`--prefix <dir>` has the same flaw when the prefix is narrower than the link
+targets on those pages. Verify with
+`grep -c 'href="/as/' as/<path>/index.html` — it must be non-zero.
+
 ## Session record — Nov 2026 RRB NTPC GA article panels (23 topics) + Ancient History verification
 
 What was done, so the next agent does not redo or undo it:
