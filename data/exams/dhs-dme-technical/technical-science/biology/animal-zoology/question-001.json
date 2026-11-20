@@ -478,5 +478,65 @@
       "en": "The white-winged wood duck (Deo Hanh) is the state bird of Assam.",
       "as": "বগা ডেউকাৰ কাঠ হাঁহ (দেও হাঁহ) অসমৰ ৰাজ্যিক চৰাই।"
     }
+  },
+  {
+    "id": "biology-166",
+    "q": {
+      "en": "In which group of animals is the notochord confined to the tail of the larva and lost in the adult?",
+      "as": "কোনটো প্ৰাণী গোটত ন'টকৰ্ড লাৰ্ভাৰ নেজতে সীমাবদ্ধ আৰু প্ৰাপ্তবয়স্ক অৱস্থাত হেৰাই যায়?"
+    },
+    "options": [
+      {
+        "en": "Cephalochordata",
+        "as": "চেফেল'কৰ্ডেটা"
+      },
+      {
+        "en": "Urochordata",
+        "as": "ইউৰ'কৰ্ডেটা"
+      },
+      {
+        "en": "Vertebrata",
+        "as": "ভাৰ্টিব্ৰেটা"
+      },
+      {
+        "en": "Hemichordata",
+        "as": "হেমিকৰ্ডেটা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The sea squirt, a urochordate, has a free-swimming tadpole larva whose notochord lies in the tail. It is resorbed when the adult settles.",
+      "as": "চী-স্কুৱাৰ্ট, এটা ইউৰ'কৰ্ডেট,ৰ সাঁতোৰা লাৰ্ভাৰ নেজত ন'টকৰ্ড থাকে। প্ৰাপ্তবয়স্কই ঠাইত বহি ল'লে ই শোষিত হয়।"
+    }
+  },
+  {
+    "id": "biology-167",
+    "q": {
+      "en": "Tube feet worked by the water vascular system are the characteristic locomotory structures of which animal phylum?",
+      "as": "জল-ভাস্কুলাৰ তন্ত্ৰই চলোৱা নলী-ভৰি কোনটো প্ৰাণী পৰ্বৰ বৈশিষ্ট্যপূৰ্ণ চলন গঠন?"
+    },
+    "options": [
+      {
+        "en": "Annelida",
+        "as": "এনিলিডা"
+      },
+      {
+        "en": "Mollusca",
+        "as": "মলাস্কা"
+      },
+      {
+        "en": "Echinodermata",
+        "as": "ইকাইন'ডাৰ্মাটা"
+      },
+      {
+        "en": "Arthropoda",
+        "as": "আৰ্থ্ৰ'প'ডা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Starfish and other echinoderms move on hundreds of tube feet kept turgid by water. Molluscs use a muscular foot, annelids use setae, arthropods use jointed legs.",
+      "as": "তাৰামাছ আৰু অন্য ইকাইন'ডাৰ্মে পানীৰে টান কৰি ৰখা শতাধিক নলী-ভৰিৰে চলে। মলাস্কে পেশীবহুল ভৰি, এনিলিডে ছিটা, আৰ্থ্ৰ'প'ডে সন্ধিযুক্ত ভৰি ব্যৱহাৰ কৰে।"
+    }
   }
 ]

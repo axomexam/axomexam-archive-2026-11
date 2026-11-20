@@ -448,5 +448,95 @@
       "en": "Vacuoles in plant cells mainly store water and dissolved substances.",
       "as": "উদ্ভিদ কোষৰ ৰিক্তিকাত মূলতঃ পানী আৰু দ্ৰৱীভূত পদাৰ্থ সঞ্চিত হয়।"
     }
+  },
+  {
+    "id": "biology-141",
+    "q": {
+      "en": "In a liver cell, which organelle carries out the detoxification of drugs and the synthesis of steroid hormones?",
+      "as": "যকৃতৰ কোষত ঔষধৰ বিষহৰণ আৰু ষ্টেৰয়ড হৰম'ন সংশ্লেষণ কোনটো অংগাণুৱে কৰে?"
+    },
+    "options": [
+      {
+        "en": "Smooth endoplasmic reticulum",
+        "as": "মসৃণ অন্তঃপ্ৰদেশীয় জালিকা"
+      },
+      {
+        "en": "Rough endoplasmic reticulum",
+        "as": "খহটা অন্তঃপ্ৰদেশীয় জালিকা"
+      },
+      {
+        "en": "Peroxisome",
+        "as": "পেৰ'ক্সিজম"
+      },
+      {
+        "en": "Lysosome",
+        "as": "লাইছ'জম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The smooth endoplasmic reticulum carries no ribosomes. It holds the cytochrome P450 enzymes that break drugs down and the enzymes that build steroid hormones.",
+      "as": "মসৃণ অন্তঃপ্ৰদেশীয় জালিকাত ৰাইব'জম নাথাকে। ইয়াত চাইট'ক্ৰ'ম পি৪৫০ এনজাইমে ঔষধ ভাঙি বিষহৰণ কৰে আৰু ষ্টেৰয়ড হৰম'ন গঢ়া এনজাইমবোৰো ইয়াতেই থাকে।"
+    }
+  },
+  {
+    "id": "biology-142",
+    "q": {
+      "en": "The fluid-mosaic model of the plasma membrane, which pictures proteins floating in a fluid lipid bilayer, was proposed by",
+      "as": "তৰল লিপিড দ্বিস্তৰত প্ৰ'টিন ভাহি থকা বুলি কোৱা কোষৰ ঝিল্লীৰ তৰল-ম'জেইক আৰ্হি কোনে আগবঢ়াইছিল?"
+    },
+    "options": [
+      {
+        "en": "Robert Hooke and Antonie van Leeuwenhoek",
+        "as": "ৰবাৰ্ট হুক আৰু এণ্টনি ভান লিউৱেনহুক"
+      },
+      {
+        "en": "Seymour Singer and Garth Nicolson",
+        "as": "ছিম'ৰ ছিংগাৰ আৰু গাৰ্থ নিকলছন"
+      },
+      {
+        "en": "James Danielli and Hugh Davson",
+        "as": "জেমছ ডেনিয়েলি আৰু হিউ ডেভছন"
+      },
+      {
+        "en": "Matthias Schleiden and Theodor Schwann",
+        "as": "মাথিয়াছ শ্লাইডেন আৰু থিঅ'ডৰ শ্বান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Singer and Nicolson put the model forward in 1972. The lipid bilayer is fluid and the protein molecules drift in it like the pieces of a mosaic.",
+      "as": "ছিংগাৰ আৰু নিকলছনে ১৯৭২ চনত এই আৰ্হি আগবঢ়ায়। লিপিড দ্বিস্তৰ তৰল আৰু প্ৰ'টিন অণুবোৰ ম'জেইকৰ টুকুৰাৰ দৰে ইয়াত ইফালে-সিফালে ঘূৰি থাকে।"
+    }
+  },
+  {
+    "id": "biology-143",
+    "q": {
+      "en": "Which intercellular junction lets small ions pass straight from the cytoplasm of one animal cell into the next through channels built of connexin?",
+      "as": "কনেক্সিনেৰে গঢ়া নলীৰ জৰিয়তে এটা প্ৰাণীকোষৰ চাইট'প্লাজমৰ পৰা আনটোত সৰু আয়ন পোনপটীয়াকৈ যাবলৈ দিয়া আন্তঃকোষীয় সংযোগটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Desmosome",
+        "as": "ডেজম'জম"
+      },
+      {
+        "en": "Tight junction",
+        "as": "দৃঢ় সংযোগ"
+      },
+      {
+        "en": "Gap junction",
+        "as": "ফাঁক সংযোগ"
+      },
+      {
+        "en": "Plasmodesma",
+        "as": "প্লাজম'ডেজমা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A gap junction is a cluster of connexon channels and permits direct cytoplasmic exchange. In plant cells the same work is done by plasmodesmata.",
+      "as": "ফাঁক সংযোগ হ'ল কনেক্সন নলীৰ সমষ্টি, যিয়ে চাইট'প্লাজমৰ পোনপটীয়া আদান-প্ৰদানত সহায় কৰে। উদ্ভিদ কোষত এই কাম প্লাজম'ডেজমেটাই কৰে।"
+    }
   }
 ]

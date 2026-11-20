@@ -238,5 +238,95 @@
       "en": "Binomial nomenclature was given by Carolus Linnaeus.",
       "as": "দ্বিনামকৰণ পদ্ধতি কেৰ’লাছ লিনিয়াছে দিছিল।"
     }
+  },
+  {
+    "id": "biology-144",
+    "q": {
+      "en": "On the lagging strand of a replicating DNA molecule, the short stretches are joined into one continuous chain by",
+      "as": "প্ৰতিলিপি হৈ থকা ডি এন এ অণুৰ পিছপৰা শৃংখলাত চুটি খণ্ডবোৰ জোৰা লগাই এটা অখণ্ড শৃংখলা কৰা এনজাইমটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "DNA polymerase III",
+        "as": "ডি এন এ পলিমাৰেজ তৃতীয়"
+      },
+      {
+        "en": "Helicase",
+        "as": "হেলিকেজ"
+      },
+      {
+        "en": "Primase",
+        "as": "প্ৰাইমেজ"
+      },
+      {
+        "en": "DNA ligase",
+        "as": "ডি এন এ লাইগেজ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The short stretches are Okazaki fragments. DNA ligase forms the phosphodiester bond that seals one fragment to the next.",
+      "as": "এই চুটি খণ্ডবোৰক ওকাজাকি খণ্ড বোলে। ডি এন এ লাইগেজে ফছফ'ডাইএষ্টাৰ বন্ধন গঢ়ি এটা খণ্ডক আনটোৰ লগত জোৰে।"
+    }
+  },
+  {
+    "id": "biology-145",
+    "q": {
+      "en": "The gene for haemophilia in human beings lies on the X chromosome, so the trait is inherited as",
+      "as": "মানুহত হিম'ফিলিয়াৰ জিন X ক্ৰ'ম'জমত থাকে, গতিকে এই বৈশিষ্ট্য কেনে ধৰণে বংশানুক্ৰমে আহে?"
+    },
+    "options": [
+      {
+        "en": "an X-linked recessive trait",
+        "as": "X-সংলগ্ন প্ৰচ্ছন্ন বৈশিষ্ট্য"
+      },
+      {
+        "en": "an autosomal dominant trait",
+        "as": "অট'জমেল প্ৰকট বৈশিষ্ট্য"
+      },
+      {
+        "en": "a Y-linked trait",
+        "as": "Y-সংলগ্ন বৈশিষ্ট্য"
+      },
+      {
+        "en": "an autosomal recessive trait",
+        "as": "অট'জমেল প্ৰচ্ছন্ন বৈশিষ্ট্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "One copy of the faulty gene makes a male a bleeder, while a female must carry two copies before she shows the disease, so unaffected mothers transmit it to their sons.",
+      "as": "এটা ত্ৰুটিপূৰ্ণ জিন কপি লৈয়েই পুৰুষ ৰোগী হয়, কিন্তু নাৰীয়ে দুটা কপি ল'লেহে ৰোগ দেখায়, গতিকে ৰোগমুক্ত মাকৰ পৰা পুত্ৰলৈ ই গৈ থাকে।"
+    }
+  },
+  {
+    "id": "biology-146",
+    "q": {
+      "en": "A single base substitution in the beta-globin gene puts valine in the sixth position and gives sickle-shaped red corpuscles. This kind of change is called",
+      "as": "বিটা-গ্লবিন জিনত এটা বেছৰ সলনিয়ে ষষ্ঠ স্থানত ভেলিন বহুৱাই কাস্তে-আকৃতিৰ ৰক্তকণিকা সৃষ্টি কৰে। এনে পৰিৱৰ্তনক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "a frameshift mutation",
+        "as": "ফ্ৰেমশ্বিফ্ট বিক্ষোভ"
+      },
+      {
+        "en": "a point mutation",
+        "as": "বিন্দু বিক্ষোভ (পইণ্ট মিউটেশ্যন)"
+      },
+      {
+        "en": "a chromosomal deletion",
+        "as": "ক্ৰ'ম'জমীয় বিলোপন"
+      },
+      {
+        "en": "a polyploid change",
+        "as": "বহুগুণিতক পৰিৱৰ্তন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Only one base is replaced, so the reading frame is unchanged and one codon is altered. A frameshift would shift every later codon.",
+      "as": "কেৱল এটা বেছ সলনি হয়, গতিকে পঢ়াৰ ফ্ৰেম একে থাকে আৰু এটা কোডন সলনি হয়। ফ্ৰেমশ্বিফ্ট হ'লে ইয়াৰ পিছৰ প্ৰতিটো কোডন সলনি হ'লহেঁতেন।"
+    }
   }
 ]

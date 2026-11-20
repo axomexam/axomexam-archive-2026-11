@@ -448,5 +448,95 @@
       "en": "The food pipe is also called the oesophagus.",
       "as": "খাদ্যনলীক ইছ’ফেগাছ বুলিও জনা যায়।"
     }
+  },
+  {
+    "id": "biology-147",
+    "q": {
+      "en": "The foramen magnum, the large opening at the base of the skull through which the medulla passes, belongs to which bone?",
+      "as": "কৰোঁটৰ তলত থকা ডাঙৰ ছিদ্ৰ ফৰামেন মেগনাম, যাৰ মাজেৰে মেডালা ওলাই যায়, কোনটো হাড়ৰ অংশ?"
+    },
+    "options": [
+      {
+        "en": "Temporal bone",
+        "as": "টেম্প'ৰেল হাড়"
+      },
+      {
+        "en": "Parietal bone",
+        "as": "পেৰাইটেল হাড়"
+      },
+      {
+        "en": "Occipital bone",
+        "as": "অক্সিপিটেল হাড়"
+      },
+      {
+        "en": "Frontal bone",
+        "as": "ফ্ৰণ্টেল হাড়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The occipital bone forms the back and the base of the skull, and the foramen magnum in it joins the cranial cavity to the vertebral canal.",
+      "as": "অক্সিপিটেল হাড়ে কৰোঁটৰ পিছ আৰু তল গঢ়ে, আৰু ইয়াত থকা ফৰামেন মেগনামে কৰোঁটৰ গহ্বৰক মেৰুদণ্ডৰ নলীৰ লগত জোৰে।"
+    }
+  },
+  {
+    "id": "biology-148",
+    "q": {
+      "en": "Which bone of the human skull is the only movable one, forming the lower jaw and articulating with the temporal bone?",
+      "as": "মানুহৰ কৰোঁটৰ কোনটো হাড়েই একমাত্ৰ চলনশীল, যি তলৰ পাটি গঢ়ি টেম্প'ৰেল হাড়ৰ লগত সংযোগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Palatine bone",
+        "as": "পেলেটাইন হাড়"
+      },
+      {
+        "en": "Maxilla",
+        "as": "মেক্সিলা (ওপৰৰ পাটি)"
+      },
+      {
+        "en": "Zygomatic bone",
+        "as": "জাইগ'মেটিক হাড়"
+      },
+      {
+        "en": "Mandible",
+        "as": "মেন্ডিবল (তলৰ পাটি)"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Every other skull bone is fixed at a suture. The mandible alone moves, through the temporomandibular joint, which is what chewing needs.",
+      "as": "আন প্ৰতিটো কৰোঁটৰ হাড় চিলাইত স্থিৰ হৈ থাকে। কেৱল মেন্ডিবলে টেম্প'ৰ'মেন্ডিবুলাৰ সংযোগৰ জৰিয়তে লৰচৰ কৰে, যি চোবোৱাৰ বাবে প্ৰয়োজন।"
+    }
+  },
+  {
+    "id": "biology-149",
+    "q": {
+      "en": "The atlas and the axis are the first two cervical bones. The joint between them, which lets the head turn from side to side, is a",
+      "as": "এটলাছ আৰু এক্সিছ হ'ল প্ৰথম দুটা গ্ৰীবাৰ হাড়। সিহঁতৰ মাজৰ সংযোগ, যিয়ে মূৰক ইফালে-সিফালে ঘূৰাবলৈ দিয়ে, সেয়া এটা —"
+    },
+    "options": [
+      {
+        "en": "pivot joint",
+        "as": "অক্ষ-সংযোগ (পিভট জইণ্ট)"
+      },
+      {
+        "en": "hinge joint",
+        "as": "কব্জা সংযোগ"
+      },
+      {
+        "en": "ball and socket joint",
+        "as": "গোলক-কোষ্ঠ সংযোগ"
+      },
+      {
+        "en": "saddle joint",
+        "as": "জিন-সংযোগ (ছেডল জইণ্ট)"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ring of the atlas turns about the odontoid peg of the axis, which is a pivot joint. A hinge joint, such as the elbow, allows movement in one plane only.",
+      "as": "এটলাছৰ আঙঠিটো এক্সিছৰ অডণ্টইড খুটাটোৰ চাৰিওফালে ঘূৰে, যি এটা অক্ষ-সংযোগ। কব্জা সংযোগ, যেনে কিলাকুটি, এটা সমতলতহে চলিবলৈ দিয়ে।"
+    }
   }
 ]

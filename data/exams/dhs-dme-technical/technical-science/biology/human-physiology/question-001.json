@@ -928,5 +928,65 @@
       "en": "The end product of anaerobic respiration in muscles is lactic acid.",
       "as": "মাংসপেশীত অবায়ৱীয় শ্বসনৰ শেষ উৎপাদ লেক্টিক এচিড।"
     }
+  },
+  {
+    "id": "biology-150",
+    "q": {
+      "en": "Which part of the kidney tubule is almost impermeable to water and pumps sodium and chloride out actively, so that the filtrate turns dilute?",
+      "as": "বৃক্ক নলীৰ কোনটো অংশ পানীৰ প্ৰতি প্ৰায় অপৰিবেশ্য আৰু ছ'ডিয়াম তথা ক্ল'ৰাইড সক্ৰিয়ভাৱে বাহিৰ কৰে, যাৰ ফলত পৰিশোধিত তৰল পাতল হয়?"
+    },
+    "options": [
+      {
+        "en": "Descending limb of the loop of Henle",
+        "as": "হেনলিৰ লুপৰ অৱৰোহী শাখা"
+      },
+      {
+        "en": "Ascending limb of the loop of Henle",
+        "as": "হেনলিৰ লুপৰ আৰোহী শাখা"
+      },
+      {
+        "en": "Proximal convoluted tubule",
+        "as": "সমীপৱৰ্তী কণ্ডলিত নলী"
+      },
+      {
+        "en": "Collecting duct",
+        "as": "সংগ্ৰাহক নলী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The ascending limb keeps water in and pushes salts out, so the filtrate becomes dilute and a salt gradient builds up for the descending limb to draw water back with.",
+      "as": "আৰোহী শাখাই পানী ৰাখি লৱণ বাহিৰ কৰে, ফলত তৰলটো পাতল হয় আৰু এনে লৱণ প্ৰৱণতা গঢ় লয় যি অৱৰোহী শাখাক পানী ঘূৰাই আনিবলৈ সহায় কৰে।"
+    }
+  },
+  {
+    "id": "biology-151",
+    "q": {
+      "en": "Pulmonary surfactant lowers surface tension and keeps the alveoli from collapsing at the end of each breath. It is secreted by",
+      "as": "ফুসফুসৰ ছাৰফেক্টেণ্টে পৃষ্ঠটান কমাই প্ৰতিটো উশাহৰ শেষত আলভিঅ'লি মিলি যোৱাৰ পৰা ৰাখে। ইয়াক নিঃসৰণ কৰে —"
+    },
+    "options": [
+      {
+        "en": "alveolar macrophages",
+        "as": "আলভিঅ'লাৰ মেক্ৰ'ফেজে"
+      },
+      {
+        "en": "type I pneumocytes",
+        "as": "প্ৰথম প্ৰকাৰৰ নিউম'চাইটে"
+      },
+      {
+        "en": "type II pneumocytes",
+        "as": "দ্বিতীয় প্ৰকাৰৰ নিউম'চাইটে"
+      },
+      {
+        "en": "goblet cells",
+        "as": "গবলেট কোষে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Type II pneumocytes secrete the phospholipid surfactant. Type I pneumocytes form the thin surface across which oxygen and carbon dioxide diffuse.",
+      "as": "দ্বিতীয় প্ৰকাৰৰ নিউম'চাইটে ফছফ'লিপিড ছাৰফেক্টেণ্ট নিঃসৰণ কৰে। প্ৰথম প্ৰকাৰৰ নিউম'চাইটে সেই পাতল পৃষ্ঠ গঢ়ে যাৰ মাজেৰে অক্সিজেন আৰু কাৰ্বন ডাইঅক্সাইড বিয়পি যায়।"
+    }
   }
 ]

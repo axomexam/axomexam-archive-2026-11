@@ -388,5 +388,65 @@
       "en": "Diabetes mellitus is caused by deficiency of insulin.",
       "as": "ইনচুলিনৰ অভাৱত মধুমেহ ৰোগ হয়।"
     }
+  },
+  {
+    "id": "biology-152",
+    "q": {
+      "en": "Which vitamin is destroyed by prolonged cooking and by contact with copper vessels, and is chemically ascorbic acid?",
+      "as": "দীৰ্ঘ সময় ৰন্ধা আৰু তামৰ পাত্ৰৰ সংস্পৰ্শত নষ্ট হোৱা, ৰাসায়নিকভাৱে এস্কৰবিক অছিড হোৱা ভিটামিনটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Vitamin D",
+        "as": "ভিটামিন ডি"
+      },
+      {
+        "en": "Vitamin B1",
+        "as": "ভিটামিন বি১"
+      },
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন এ"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন চি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ascorbic acid is heat-labile and oxidises on contact with copper, so long boiling in a copper vessel destroys most of it.",
+      "as": "এস্কৰবিক অছিড তাপত ভাঙি যায় আৰু তামৰ সংস্পৰ্শত জাৰিত হয়, গতিকে তামৰ পাত্ৰত বেছি সময় উতলালে ইয়াৰ বেছিভাগ নষ্ট হয়।"
+    }
+  },
+  {
+    "id": "biology-153",
+    "q": {
+      "en": "Pellagra, marked by dermatitis, diarrhoea, dementia and death, is caused by the deficiency of",
+      "as": "ডাৰ্মাটাইটিছ, ডায়েৰিয়া, ডিমেনছিয়া আৰু মৃত্যুৰে চিহ্নিত পেলাগ্ৰা ৰোগ কোনটোৰ অভাৱত হয়?"
+    },
+    "options": [
+      {
+        "en": "niacin",
+        "as": "নিয়াচিন"
+      },
+      {
+        "en": "thiamine",
+        "as": "থায়ামিন"
+      },
+      {
+        "en": "riboflavin",
+        "as": "ৰাইব'ফ্লেভিন"
+      },
+      {
+        "en": "retinol",
+        "as": "ৰেটিনল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pellagra follows a shortage of niacin, vitamin B3, and the four Ds are its classical signs. Thiamine shortage gives beriberi instead.",
+      "as": "পেলাগ্ৰা নিয়াচিন (ভিটামিন বি৩)ৰ অভাৱত হয়, আৰু চাৰিটা ডি ইয়াৰ চিনাকি লক্ষণ। থায়ামিনৰ অভাৱত বৰিবৰি হয়।"
+    }
   }
 ]

@@ -208,5 +208,95 @@
       "en": "Respiration is the process of taking in oxygen and giving out carbon dioxide.",
       "as": "অক্সিজেন লোৱা আৰু কাৰ্বন ডাইঅক্সাইড এৰা প্ৰক্ৰিয়াক শ্বসন বোলে।"
     }
+  },
+  {
+    "id": "biology-168",
+    "q": {
+      "en": "The double-helical model of the hereditary molecule was described in 1953 by",
+      "as": "বংশগতিৰ অণুৰ দ্বি-হেলিক্স আৰ্হি ১৯৫৩ চনত বৰ্ণনা কৰিছিল —"
+    },
+    "options": [
+      {
+        "en": "Koch and Pasteur",
+        "as": "কক আৰু পাষ্টাৰে"
+      },
+      {
+        "en": "Mendel and Morgan",
+        "as": "মেণ্ডেল আৰু মৰ্গানে"
+      },
+      {
+        "en": "Avery and Griffith",
+        "as": "এভাৰী আৰু গ্ৰিফিথে"
+      },
+      {
+        "en": "Watson and Crick",
+        "as": "ৱাটছন আৰু ক্ৰিকে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Watson and Crick built the model on the X-ray diffraction pictures taken by Rosalind Franklin and Maurice Wilkins.",
+      "as": "ৱাটছনে আৰু ক্ৰিকে ৰ'জালিণ্ড ফ্ৰেংকলিন আৰু ম'ৰিছ ৱিলকিনছে তোলা এক্স-ৰে বিচ্ছুৰণ ছবিৰ ওপৰত ভিত্তি কৰি আৰ্হিটো গঢ়িছিল।"
+    }
+  },
+  {
+    "id": "biology-169",
+    "q": {
+      "en": "A freshwater protist pushes out temporary projections of its body substance to creep forward and engulf food. These projections are",
+      "as": "মিঠা পানীৰ এটা প্ৰ'টিষ্টে লাহে লাহে আগবাঢ়ি আহাৰ গ্ৰহণ কৰিবলৈ শৰীৰৰ পদাৰ্থৰ অস্থায়ী অংশ ওলিয়াই দিয়ে। সেই অংশবোৰ —"
+    },
+    "options": [
+      {
+        "en": "pseudopodia",
+        "as": "ছিউড'প'ডিয়া"
+      },
+      {
+        "en": "cilia",
+        "as": "ছিলিয়া"
+      },
+      {
+        "en": "flagella",
+        "as": "ফ্লেজেলা"
+      },
+      {
+        "en": "parapodia",
+        "as": "পেৰাপ'ডিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pseudopodia form and withdraw as the cytoplasm streams forward. Cilia and flagella are fixed hair-like organelles, and parapodia occur in polychaete worms.",
+      "as": "চাইট'প্লাজম আগবাঢ়ি যোৱাৰ লগে লগে ছিউড'প'ডিয়া গঢ় লয় আৰু মিলি যায়। ছিলিয়া আৰু ফ্লেজেলা স্থিৰ চুলিৰ দৰে অংগাণু, আৰু পেৰাপ'ডিয়া প'লিকীট কৃমিত থাকে।"
+    }
+  },
+  {
+    "id": "biology-170",
+    "q": {
+      "en": "An orchid growing on the branch of a tree gains support and water from the air while the tree is unaffected. This relationship is",
+      "as": "গছৰ ডালত গজা অৰ্কিডে ধৰণ আৰু বায়ুৰ পৰা পানী পায়, কিন্তু গছটোৰ একো ক্ষতি নহয়। এই সম্পৰ্ক —"
+    },
+    "options": [
+      {
+        "en": "mutualism",
+        "as": "পৰস্পৰবাদ"
+      },
+      {
+        "en": "commensalism",
+        "as": "সহভোজীতা"
+      },
+      {
+        "en": "parasitism",
+        "as": "পৰজীৱীতা"
+      },
+      {
+        "en": "amensalism",
+        "as": "প্ৰতিহিংসাবাদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "One partner gains and the other is neither helped nor harmed, which is commensalism. Mutualism would require both to gain.",
+      "as": "এটা অংশীয়ে লাভ পায় আনটোৰ লাভো নহয় ক্ষতিও নহয়, সেয়াই সহভোজীতা। পৰস্পৰবাদত দুয়োটাই লাভ পোৱা লাগে।"
+    }
   }
 ]

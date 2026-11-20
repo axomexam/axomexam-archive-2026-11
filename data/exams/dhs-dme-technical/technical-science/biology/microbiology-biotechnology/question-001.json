@@ -58,5 +58,95 @@
       "en": "Yeast produces alcohol by fermentation.",
       "as": "ঈষ্টে ফাৰ্মেণ্টেশ্বনৰ দ্বাৰা এলকহল উৎপন্ন কৰে।"
     }
+  },
+  {
+    "id": "biology-160",
+    "q": {
+      "en": "In biotechnology, the tool that cuts a nucleic acid at a specific palindromic sequence is",
+      "as": "জৈৱপ্ৰযুক্তিত নিৰ্দিষ্ট পেলিণ্ড্ৰ'মিক অনুক্ৰমত নিউক্লিক এছিড কাটিবলৈ ব্যৱহৃত সঁজুলিটো —"
+    },
+    "options": [
+      {
+        "en": "a DNA helicase",
+        "as": "এটা ডি এন এ হেলিকেজ"
+      },
+      {
+        "en": "a DNA ligase",
+        "as": "এটা ডি এন এ লাইগেজ"
+      },
+      {
+        "en": "a reverse transcriptase",
+        "as": "এটা ৰিভাৰ্ছ ট্ৰান্সক্ৰিপ্টেজ"
+      },
+      {
+        "en": "a restriction endonuclease",
+        "as": "এটা নিয়ন্ত্ৰণ অন্তঃনিউক্লিয়েজ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A restriction endonuclease recognises its target sequence and cuts both strands, leaving sticky ends that can be joined to another fragment.",
+      "as": "নিয়ন্ত্ৰণ অন্তঃনিউক্লিয়েজে নিজৰ লক্ষ্য অনুক্ৰম চিনি দুয়োটা শৃংখলা কাটে আৰু আঠাৱতী মূৰ এৰি দিয়ে, যি আন খণ্ডৰ লগত জোৰা লগাব পাৰি।"
+    }
+  },
+  {
+    "id": "biology-161",
+    "q": {
+      "en": "Polymerase chain reaction is a core biotechnology technique. In one cycle the temperature is raised to about ninety-four degrees Celsius in order to",
+      "as": "পলিমাৰেজ শৃংখল প্ৰতিক্ৰিয়া জৈৱপ্ৰযুক্তিৰ মূল কৌশল। এটা চক্ৰত উষ্ণতা প্ৰায় চৌৰানব্বৈ ডিগ্ৰী চেলছিয়াছলৈ তোলা হয় কাৰণ —"
+    },
+    "options": [
+      {
+        "en": "separate the two strands of the template",
+        "as": "আৰ্হিৰ দুয়োটা শৃংখলা এৰাই দিবলৈ"
+      },
+      {
+        "en": "let the primers bind to the template",
+        "as": "প্ৰাইমাৰক আৰ্হিত বান্ধিবলৈ"
+      },
+      {
+        "en": "let the polymerase copy the template",
+        "as": "পলিমাৰেজক আৰ্হিৰ প্ৰতিলিপি কৰিবলৈ"
+      },
+      {
+        "en": "destroy the newly made product",
+        "as": "নতুনকৈ গঢ়া উৎপাদন নষ্ট কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Heat breaks the hydrogen bonds holding the two strands together, which is the denaturation step. Primer binding follows at a lower temperature.",
+      "as": "তাপে দুয়োটা শৃংখলাক ধৰি ৰখা হাইড্ৰ'জেন বন্ধন ভাঙে, সেয়াই বিকৃতি স্তৰ। ইয়াৰ পিছত কম উষ্ণতাত প্ৰাইমাৰ বান্ধে।"
+    }
+  },
+  {
+    "id": "biology-162",
+    "q": {
+      "en": "The fermenting starter culture that turns milk into curd converts lactose into",
+      "as": "গাখীৰৰ পৰা দৈ বনোৱা গঁজনি আৰম্ভ কৰা সংস্কাৰে লেক্ট'জক ৰূপান্তৰ কৰে —"
+    },
+    "options": [
+      {
+        "en": "ethyl alcohol",
+        "as": "ইথাইল এলকহললৈ"
+      },
+      {
+        "en": "lactic acid",
+        "as": "লেক্টিক অছিডলৈ"
+      },
+      {
+        "en": "acetic acid",
+        "as": "এচিটিক অছিডলৈ"
+      },
+      {
+        "en": "citric acid",
+        "as": "ছিট্ৰিক অছিডলৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Lactic acid curdles the milk proteins and drops the pH, which both thickens the milk and stops spoilage organisms from growing.",
+      "as": "লেক্টিক অছিডে গাখীৰৰ প্ৰ'টিন জমাই দিয়ে আৰু pH কমায়, যিয়ে গাখীৰ ঘন কৰাৰ লগতে পচনকাৰী জীৱৰ বৃদ্ধি ৰোধ কৰে।"
+    }
   }
 ]

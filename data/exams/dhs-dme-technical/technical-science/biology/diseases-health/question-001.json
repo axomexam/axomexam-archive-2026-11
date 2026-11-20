@@ -238,5 +238,95 @@
       "en": "Rhizobium bacteria present in the root nodules of legumes fix atmospheric nitrogen.",
       "as": "শস্য গছৰ শিপাৰ গাঁঠিত থকা ৰাইজ’বিয়াম বেক্টেৰিয়াই বায়ুমণ্ডলীয় নাইট্ৰজেন স্থিৰ কৰে।"
     }
+  },
+  {
+    "id": "biology-154",
+    "q": {
+      "en": "Sleeping sickness is a disease spread from person to person by the tsetse fly. Which protozoan pathogen causes it?",
+      "as": "চেৎসে মাখিৰ জৰিয়তে এজনৰ পৰা আনজনলৈ যোৱা কোনটো প্ৰ'ট'জ'ৱাই টোপনি ৰোগ সৃষ্টি কৰে?"
+    },
+    "options": [
+      {
+        "en": "Plasmodium vivax",
+        "as": "প্লাজম'ডিয়াম ভাইভেক্স"
+      },
+      {
+        "en": "Trypanosoma brucei",
+        "as": "ট্ৰিপেন'ছ'মা ব্ৰুচাই"
+      },
+      {
+        "en": "Entamoeba histolytica",
+        "as": "এণ্টামিবা হিষ্ট'লাইটিকা"
+      },
+      {
+        "en": "Leishmania donovani",
+        "as": "লেইশমেনিয়া ডন'ভানি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Trypanosoma brucei multiplies in the blood and later enters the brain, which is why the illness ends in disturbed sleep, tremors and coma.",
+      "as": "ট্ৰিপেন'ছ'মা ব্ৰুচাই তেজত বংশবৃদ্ধি কৰি পিছত মগজুলৈ সোমায়, সেয়ে ৰোগ শেষত টোপনিৰ বিকাৰ, কম্পন আৰু অচেতনতাত পৰিণত হয়।"
+    }
+  },
+  {
+    "id": "biology-155",
+    "q": {
+      "en": "A sputum sample shows acid-fast bacilli and the chest film shows a cavity in the upper lobe. Which infectious disease fits best?",
+      "as": "কফৰ নমুনাত অছিড-ফাষ্ট বেচিলাছ দেখা গ'ল আৰু বুকুৰ ছবিত ওপৰৰ ল'বত গহ্বৰ আছে। কোনটো সংক্ৰামক ৰোগ সৰ্বাধিক খাপ খায়?"
+    },
+    "options": [
+      {
+        "en": "Bronchial asthma",
+        "as": "ব্ৰংকিয়েল এজমা"
+      },
+      {
+        "en": "Lobar pneumonia",
+        "as": "ল'বাৰ নিউম'নিয়া"
+      },
+      {
+        "en": "Pulmonary tuberculosis",
+        "as": "ফুসফুসৰ যক্ষ্মা"
+      },
+      {
+        "en": "Pleural effusion",
+        "as": "প্লুৰেল এফিউশ্যন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Acid-fast bacilli plus an upper-lobe cavity is the classic picture of tuberculosis. Pneumonia produces consolidation of a lobe, not a cavity.",
+      "as": "অছিড-ফাষ্ট বেচিলাছ আৰু ওপৰৰ ল'বৰ গহ্বৰ যক্ষ্মাৰ ধ্ৰুপদী চিত্ৰ। নিউম'নিয়াত ল'ব সংহত হয়, গহ্বৰ নহয়।"
+    }
+  },
+  {
+    "id": "biology-156",
+    "q": {
+      "en": "In dengue haemorrhagic fever the danger comes chiefly from the virus causing",
+      "as": "ডেঙ্গু হিম'ৰেজিক জ্বৰত বিপদ মূলতঃ ভাইৰাছে কি কৰাৰ পৰা আহে?"
+    },
+    "options": [
+      {
+        "en": "blockage of the common bile duct",
+        "as": "সাধাৰণ পিত্তনলী বন্ধ হোৱা"
+      },
+      {
+        "en": "a sharp rise in platelets and rapid clotting",
+        "as": "প্লেটলেট হঠাতে বাঢ়ি দ্ৰুত তেজ জমা"
+      },
+      {
+        "en": "destruction of the red bone marrow",
+        "as": "ৰঙা অস্থি মজ্জাৰ বিনাশ"
+      },
+      {
+        "en": "a sharp fall in platelets and leakage from capillaries",
+        "as": "প্লেটলেট হঠাতে কমি যোৱা আৰু কেশিকা নলীৰ পৰা ৰস ওলোৱা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The virus injures capillary walls and depresses platelet production, so plasma leaks into tissues and bleeding begins.",
+      "as": "ভাইৰাছে কেশিকা নলীৰ বেৰৰ ক্ষতি কৰে আৰু প্লেটলেট উৎপাদন কমায়, ফলত ৰস কলালৈ ওলাই যায় আৰু ৰক্তক্ষৰণ আৰম্ভ হয়।"
+    }
   }
 ]

@@ -358,5 +358,95 @@
       "en": "Manas National Park is located in Assam.",
       "as": "মানস ৰাষ্ট্ৰীয় উদ্যান অসমত অৱস্থিত।"
     }
+  },
+  {
+    "id": "biology-157",
+    "q": {
+      "en": "In the food chain grass to grasshopper to frog to snake to hawk, the hawk feeds at which trophic level?",
+      "as": "ঘাঁহ → ফৰিং → ভেকুলী → সাপ → শেন এই খাদ্য শৃংখলাত শেনে কোনটো পুষ্টিস্তৰত আহাৰ লয়?"
+    },
+    "options": [
+      {
+        "en": "The fifth",
+        "as": "পঞ্চম"
+      },
+      {
+        "en": "The fourth",
+        "as": "চতুৰ্থ"
+      },
+      {
+        "en": "The third",
+        "as": "তৃতীয়"
+      },
+      {
+        "en": "The second",
+        "as": "দ্বিতীয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Grass is level one, the grasshopper level two, the frog three, the snake four and the hawk five, counting the producer as the first level.",
+      "as": "ঘাঁহ স্তৰ এক, ফৰিং স্তৰ দুই, ভেকুলী তিনি, সাপ চাৰি আৰু শেন পাঁচ, উৎপাদকক প্ৰথম স্তৰ ধৰি গণনা কৰিলে।"
+    }
+  },
+  {
+    "id": "biology-158",
+    "q": {
+      "en": "In an ecosystem the pyramid of energy never turns upside down because at each transfer",
+      "as": "পৰিৱেশ তন্ত্ৰত শক্তিৰ পিৰামিড কেতিয়াও ওলোটা নহয়, কাৰণ প্ৰতিটো হস্তান্তৰত —"
+    },
+    "options": [
+      {
+        "en": "the number of organisms always rises",
+        "as": "জীৱৰ সংখ্যা সদায় বাঢ়ে"
+      },
+      {
+        "en": "a large part of the energy is lost as heat",
+        "as": "শক্তিৰ ডাঙৰ অংশ তাপ ৰূপে নোহোৱা হয়"
+      },
+      {
+        "en": "biomass grows at every step",
+        "as": "প্ৰতিটো খোজত জৈৱভৰ বাঢ়ে"
+      },
+      {
+        "en": "decomposers supply fresh energy",
+        "as": "বিয়োজকে নতুন শক্তি যোগায়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Respiration releases most of the energy as heat, so only about a tenth passes on and every higher level holds less energy than the one below.",
+      "as": "শ্বাস-প্ৰশ্বাসে বেছিভাগ শক্তি তাপ ৰূপে মুকলি কৰে, সেয়ে প্ৰায় এক দশমাংশহে আগবাঢ়ে আৰু ওপৰৰ প্ৰতিটো স্তৰত তলৰটোতকৈ কম শক্তি থাকে।"
+    }
+  },
+  {
+    "id": "biology-159",
+    "q": {
+      "en": "Which biogeochemical cycle in an ecosystem lacks a gaseous phase, so it is recycled only through rock, soil, water and living matter?",
+      "as": "পৰিৱেশ তন্ত্ৰৰ কোনটো জৈৱ-ভূৰাসায়নিক চক্ৰত গেছীয় অৱস্থা নাই, সেয়ে ই কেৱল শিল, মাটি, পানী আৰু জীৱিত পদাৰ্থৰ মাজেৰে পুনঃচক্ৰণ হয়?"
+    },
+    "options": [
+      {
+        "en": "The nitrogen cycle",
+        "as": "নাইট্ৰ'জেনৰ চক্ৰ"
+      },
+      {
+        "en": "The carbon cycle",
+        "as": "কাৰ্বনৰ চক্ৰ"
+      },
+      {
+        "en": "The phosphorus cycle",
+        "as": "ফছফৰাছৰ চক্ৰ"
+      },
+      {
+        "en": "The water cycle",
+        "as": "জল চক্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Phosphorus is released by the weathering of rock and returns to the soil through decay. It has no atmospheric reservoir, unlike carbon and nitrogen.",
+      "as": "ফছফৰাছ শিল ক্ষয় হৈ মুকলি হয় আৰু ক্ষয়ৰ জৰিয়তে মাটিলৈ ঘূৰি যায়। কাৰ্বন আৰু নাইট্ৰ'জেনৰ দৰে ইয়াৰ বায়ুমণ্ডলীয় ভাণ্ডাৰ নাই।"
+    }
   }
 ]

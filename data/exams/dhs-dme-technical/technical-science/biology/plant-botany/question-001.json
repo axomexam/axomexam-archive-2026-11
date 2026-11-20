@@ -388,5 +388,95 @@
       "en": "Plants need nitrogen to make proteins.",
       "as": "উদ্ভিদক প্ৰ’টিন তৈয়াৰ কৰিবলৈ নাইট্ৰজেন লাগে।"
     }
+  },
+  {
+    "id": "biology-163",
+    "q": {
+      "en": "A vascular bundle of a dicot stem that carries cambium between xylem and phloem is described as conjoint, collateral and",
+      "as": "দ্বিবীজপত্ৰী কাণ্ডৰ জাইলেম আৰু ফ্ল'য়েমৰ মাজত কেম্বিয়াম থকা ভাস্কুলাৰ বাণ্ডলক যুক্ত, পাৰ্শ্বৱৰ্তী আৰু কি বুলি কোৱা হয়?"
+    },
+    "options": [
+      {
+        "en": "radial",
+        "as": "অৰীয়"
+      },
+      {
+        "en": "closed",
+        "as": "বন্ধ"
+      },
+      {
+        "en": "open",
+        "as": "মুকলিত"
+      },
+      {
+        "en": "concentric",
+        "as": "কেন্দ্ৰী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Cambium between the two tissues lets the bundle add secondary xylem and phloem, so it is open. A monocot bundle without cambium is closed.",
+      "as": "দুয়োটা কলাৰ মাজত কেম্বিয়াম থকাৰ বাবে বাণ্ডলে গৌণ জাইলেম আৰু ফ্ল'য়েম যোগ কৰিব পাৰে, সেয়ে ই মুকলি। কেম্বিয়াম নথকা একবীজপত্ৰী বাণ্ডল বন্ধ।"
+    }
+  },
+  {
+    "id": "biology-164",
+    "q": {
+      "en": "According to the pressure-flow hypothesis, phloem sap moves",
+      "as": "চাপ-প্ৰবাহ অনুমানেয়ে মতে ফ্ল'য়েমৰ ৰস গতি কৰে —"
+    },
+    "options": [
+      {
+        "en": "only through the apoplast of the leaf",
+        "as": "কেৱল পাতৰ এপ'প্লাষ্টৰ মাজেৰে"
+      },
+      {
+        "en": "from a sink to a source, against the pressure",
+        "as": "চাপৰ বিৰুদ্ধে গন্তব্যস্থানৰ পৰা উৎসলৈ"
+      },
+      {
+        "en": "upward from root to leaf inside xylem",
+        "as": "জাইলেমৰ ভিতৰেৰে শিপাৰ পৰা পাতলৈ ওপৰমুখে"
+      },
+      {
+        "en": "from a source where sugar is loaded to a sink where it is unloaded",
+        "as": "চেনি ভৰোৱা উৎসৰ পৰা চেনি খালী কৰা গন্তব্যস্থানলৈ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sugar loaded at the source draws water in by osmosis. The resulting pressure pushes sap towards the sink, where sugar is removed and the pressure falls.",
+      "as": "উৎসত ভৰোৱা চেনিয়ে অভিস্ৰৱণেৰে পানী টানি আনে। সৃষ্টি হোৱা চাপে ৰসক গন্তব্যস্থানলৈ ঠেলে, য'ত চেনি আঁতৰাই দিয়া হয় আৰু চাপ কমে।"
+    }
+  },
+  {
+    "id": "biology-165",
+    "q": {
+      "en": "During secondary growth of a dicot stem, the secondary xylem and secondary phloem are produced by the",
+      "as": "দ্বিবীজপত্ৰী কাণ্ডৰ গৌণ বৃদ্ধিত গৌণ জাইলেম আৰু গৌণ ফ্ল'য়েম উৎপন্ন কৰে —"
+    },
+    "options": [
+      {
+        "en": "vascular cambium",
+        "as": "ভাস্কুলাৰ কেম্বিয়ামে"
+      },
+      {
+        "en": "cork cambium",
+        "as": "কৰ্ক কেম্বিয়ামে"
+      },
+      {
+        "en": "apical meristem",
+        "as": "শীৰ্ষস্থ মেৰিষ্টেমে"
+      },
+      {
+        "en": "pericycle",
+        "as": "পেৰিচাইকেলে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The vascular cambium cuts off xylem towards the inside and phloem towards the outside. The cork cambium makes periderm, not conducting tissue.",
+      "as": "ভাস্কুলাৰ কেম্বিয়ামে ভিতৰলৈ জাইলেম আৰু বাহিৰলৈ ফ্ল'য়েম কাটি দিয়ে। কৰ্ক কেম্বিয়ামে পেৰিডাৰ্ম গঢ়ে, পৰিবহন কলা নহয়।"
+    }
   }
 ]
