@@ -1,0 +1,182 @@
+[
+  {
+    "id": "verbal-reasoning-014",
+    "q": {
+      "en": "X is Y's sister. Y is Z's mother. How is X related to Z?",
+      "as": "X হৈছে Yৰ ভনী। Y হৈছে Zৰ মাক। X, Zৰ কি হয়?"
+    },
+    "options": [
+      {
+        "en": "Mother",
+        "as": "মাক"
+      },
+      {
+        "en": "Grandmother",
+        "as": "আইতা"
+      },
+      {
+        "en": "Sister",
+        "as": "ভনী"
+      },
+      {
+        "en": "Maternal aunt",
+        "as": "মামী / পেহী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "X is the sister of Y and Y is the mother of Z, so X is the sister of Z's mother, that is, Z's maternal aunt. Hence Maternal aunt.",
+      "as": "X, Yৰ ভনী আৰু Y, Zৰ মাক; গতিকে X হৈছে Zৰ মাকৰ ভনী, অৰ্থাৎ Zৰ মাহী/পেহী (maternal aunt)। সেয়ে মামী/পেহী।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-024",
+    "q": {
+      "en": "A woman introduces a man as the son of the brother of her mother. The man is her?",
+      "as": "এগৰাকী মহিলাই এজন পুৰুষক তাইৰ মাকৰ ভাইৰ পুত্ৰ বুলি চিনাকি কৰায়। সেই পুৰুষ তাইৰ কি?"
+    },
+    "options": [
+      {
+        "en": "Cousin",
+        "as": "খেৰুৱা ভাই"
+      },
+      {
+        "en": "Brother",
+        "as": "ভাই"
+      },
+      {
+        "en": "Father",
+        "as": "পিতৃ"
+      },
+      {
+        "en": "Uncle",
+        "as": "খুৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The brother of her mother is her maternal uncle, so his son is her cousin.",
+      "as": "তাইৰ মাকৰ ভাই তাইৰ মামা; তেওঁৰ পুত্ৰই তাইৰ খেৰুৱা ভাই (cousin) হয়।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-039",
+    "q": {
+      "en": "If A + B means A is father of B, then P + Q means?",
+      "as": "যদি A + B মানে A হৈছে Bৰ পিতৃ, তেন্তে P + Q মানে?"
+    },
+    "options": [
+      {
+        "en": "Q is father of P",
+        "as": "Q হৈছে Pৰ পিতৃ"
+      },
+      {
+        "en": "P is mother of Q",
+        "as": "P হৈছে Qৰ মাক"
+      },
+      {
+        "en": "P is brother of Q",
+        "as": "P হৈছে Qৰ ভাই"
+      },
+      {
+        "en": "P is father of Q",
+        "as": "P হৈছে Qৰ পিতৃ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A + B means A is the father of B, so P + Q means P is the father of Q.",
+      "as": "A + B ৰ অৰ্থ A হৈছে Bৰ পিতৃ, সেয়ে P + Q ৰ অৰ্থ P হৈছে Qৰ পিতৃ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-049",
+    "q": {
+      "en": "If A is brother of B, B is sister of C, and C is father of D, then D is A's?",
+      "as": "যদি A হৈছে Bৰ ভাই, B হৈছে Cৰ ভনী, C হৈছে Dৰ পিতৃ, তেন্তে D হৈছে Aৰ?"
+    },
+    "options": [
+      {
+        "en": "Nephew or niece",
+        "as": "ভতিজা বা ভতিজী"
+      },
+      {
+        "en": "Brother",
+        "as": "ভাই"
+      },
+      {
+        "en": "Father",
+        "as": "পিতৃ"
+      },
+      {
+        "en": "Uncle",
+        "as": "খুৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A and B are siblings and C is B's brother, so C is A's brother. D is C's child, hence D is A's nephew or niece.",
+      "as": "A আৰু B সহোদৰ আৰু C হৈছে Bৰ ভাই, সেয়ে C হৈছে Aৰ ভাই। D হৈছে Cৰ সন্তান, গতিকে D হৈছে Aৰ ভতিজা বা ভতিজী।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-064",
+    "q": {
+      "en": "Pointing to a photograph, a man says, 'I have no brother or sister but that man's father is my father's son.' The man in photo is his?",
+      "as": "ফটোলৈ দেখুৱাই এজনে কয়, 'মোৰ ভাই-ভনী নাই কিন্তু সেইজনৰ পিতৃ মোৰ পিতৃৰ পুত্ৰ।' ফটোৰ মানুহজন তেওঁৰ কি?"
+    },
+    "options": [
+      {
+        "en": "Father",
+        "as": "পিতৃ"
+      },
+      {
+        "en": "Brother",
+        "as": "ভাই"
+      },
+      {
+        "en": "Uncle",
+        "as": "খুৰা"
+      },
+      {
+        "en": "Son",
+        "as": "পুত্ৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The speaker has no brother, so 'my father's son' is the speaker himself. Thus the photographed man's father is the speaker, meaning the man is his son.",
+      "as": "বক্তাজনৰ ভাই নাই, সেয়ে 'মোৰ পিতৃৰ পুত্ৰ' মানে তেওঁ নিজেই। গতিকে ফটোৰ মানুহজনৰ পিতৃ তেৱেঁই, অৰ্থাৎ ফটোৰ মানুহজন তেওঁৰ পুত্ৰ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-072",
+    "q": {
+      "en": "A is the mother of B. B is the father of C. How is A related to C?",
+      "as": "A হৈছে Bৰ মাতৃ। B হৈছে Cৰ পিতৃ। A, Cৰ কি হয়?"
+    },
+    "options": [
+      {
+        "en": "Aunt",
+        "as": "মাহী"
+      },
+      {
+        "en": "Grandmother",
+        "as": "আইতাক"
+      },
+      {
+        "en": "Mother",
+        "as": "মাতৃ"
+      },
+      {
+        "en": "Sister",
+        "as": "ভনী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A is the mother of B and B is the father of C, so A is the grandmother of C.",
+      "as": "A হৈছে Bৰ মাতৃ আৰু B হৈছে Cৰ পিতৃ; সেয়ে A, Cৰ আইতাক।"
+    }
+  }
+]

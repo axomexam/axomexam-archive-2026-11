@@ -1,0 +1,122 @@
+[
+  {
+    "id": "verbal-reasoning-004",
+    "q": {
+      "en": "Rina faces north and turns 90° right. She now faces?",
+      "as": "ৰীণা উত্তৰফালে মুখ কৰি ৯০° সোঁফালে ঘূৰে। এতিয়া তাইৰ মুখ কোনফালে?"
+    },
+    "options": [
+      {
+        "en": "West",
+        "as": "পশ্চিম"
+      },
+      {
+        "en": "East",
+        "as": "পূব"
+      },
+      {
+        "en": "South",
+        "as": "দক্ষিণ"
+      },
+      {
+        "en": "North",
+        "as": "উত্তৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Facing north, a 90 degree right turn takes her to the east (right turns go north to east to south to west). So she faces East.",
+      "as": "উত্তৰফালে মুখ কৰি ৯০° সোঁফালে ঘূৰিলে পূবফালে পৰে (সোঁফালে ক্ৰমে উত্তৰ→পূব→দক্ষিণ→পশ্চিম)। সেয়ে তাইৰ মুখ পূবফালে।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-029",
+    "q": {
+      "en": "A boy walks 4 km east and then 3 km north. Distance from start is?",
+      "as": "এজন ল'ৰাই ৪ কি.মি. পূবে আৰু তাৰ পিছত ৩ কি.মি. উত্তৰে যায়। আৰম্ভণিৰ পৰা দূৰত্ব?"
+    },
+    "options": [
+      {
+        "en": "7 km",
+        "as": "৭ কি.মি."
+      },
+      {
+        "en": "5 km",
+        "as": "৫ কি.মি."
+      },
+      {
+        "en": "1 km",
+        "as": "১ কি.মি."
+      },
+      {
+        "en": "12 km",
+        "as": "১২ কি.মি."
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The 4 km east and 3 km north motions are at right angles, so by Pythagoras the distance is √(4²+3²) = √25 = 5 km.",
+      "as": "৪ কি.মি. পূব আৰু ৩ কি.মি. উত্তৰৰ গতিপথে সমকোণ কৰে; পাইথাগোৰাছৰ সূত্ৰমতে দূৰত্ব = √(৪²+৩²) = √২৫ = ৫ কি.মি.।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-054",
+    "q": {
+      "en": "A girl walks 6 km west, then 8 km south. Distance from start is?",
+      "as": "এগৰাকী ছোৱালীয়ে ৬ কি.মি. পশ্চিমে আৰু তাৰ পিছত ৮ কি.মি. দক্ষিণে যায়। আৰম্ভণিৰ পৰা দূৰত্ব?"
+    },
+    "options": [
+      {
+        "en": "14 km",
+        "as": "১৪ কি.মি."
+      },
+      {
+        "en": "10 km",
+        "as": "১০ কি.মি."
+      },
+      {
+        "en": "2 km",
+        "as": "২ কি.মি."
+      },
+      {
+        "en": "48 km",
+        "as": "৪৮ কি.মি."
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "West and south are perpendicular directions, so by the Pythagoras theorem the distance is √(6² + 8²) = √100 = 10 km.",
+      "as": "পশ্চিম আৰু দক্ষিণ পৰস্পৰ লম্ব দিশ; পাইথাগ'ৰাছৰ সূত্ৰমতে দূৰত্ব = √(৬² + ৮²) = √১০০ = ১০ কি.মি.।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-073",
+    "q": {
+      "en": "A man facing north turns right twice. Which direction is he facing now?",
+      "as": "উত্তৰলৈ মুখ কৰি থকা এজন মানুহে দুবাৰ সোঁফালে ঘূৰে। এতিয়া তেওঁ কোন দিশলৈ মুখ কৰি আছে?"
+    },
+    "options": [
+      {
+        "en": "East",
+        "as": "পূব"
+      },
+      {
+        "en": "West",
+        "as": "পশ্চিম"
+      },
+      {
+        "en": "North",
+        "as": "উত্তৰ"
+      },
+      {
+        "en": "South",
+        "as": "দক্ষিণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Facing north, the first right turn makes him face east and the second right turn makes him face south.",
+      "as": "উত্তৰলৈ মুখ কৰি প্ৰথমবাৰ সোঁফালে ঘূৰিলে পূবলৈ আৰু দ্বিতীয়বাৰ সোঁফালে ঘূৰিলে দক্ষিণলৈ মুখ কৰে।"
+    }
+  }
+]

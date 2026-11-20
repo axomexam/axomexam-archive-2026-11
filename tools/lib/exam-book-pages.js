@@ -610,7 +610,17 @@ hand-editing the JSON here.
       sections: EXAM.sections.map((s) => {
         const out = { id: s.id, type: s.type, color: s.color, title: s.title };
         if (Array.isArray(s.subcategories)) {
-          out.subcategories = s.subcategories.map((sub) => ({ id: sub.id, title: sub.title }));
+          /* A sub-category that carries its own children is a group, not a
+             leaf: the SPA routes /exams/<exam>/<sec>/<group>/<topic>, so the
+             nested list has to survive into data/exams/index.json. Dropping it
+             flattens the book into one level and every topic page 404s. */
+          out.subcategories = s.subcategories.map((sub) => {
+            const node = { id: sub.id, title: sub.title };
+            if (Array.isArray(sub.subcategories) && sub.subcategories.length) {
+              node.subcategories = sub.subcategories.map((c) => ({ id: c.id, title: c.title }));
+            }
+            return node;
+          });
         }
         return out;
       }),

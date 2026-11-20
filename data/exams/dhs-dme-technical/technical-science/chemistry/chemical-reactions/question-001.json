@@ -1,0 +1,422 @@
+[
+  {
+    "id": "chemistry-010",
+    "q": {
+      "en": "The process of rusting of iron is an example of?",
+      "as": "লোৰ মৰিছা পৰা প্ৰক্ৰিয়া কিৰ উদাহৰণ?"
+    },
+    "options": [
+      {
+        "en": "Reduction",
+        "as": "বিজারণ"
+      },
+      {
+        "en": "Sublimation",
+        "as": "উৰ্ধ্বপাতন"
+      },
+      {
+        "en": "Oxidation",
+        "as": "জারণ"
+      },
+      {
+        "en": "Neutralisation",
+        "as": "প্ৰশমন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rusting of iron is an example of oxidation.",
+      "as": "লোৰ মৰিছা পৰা জাৰণৰ এটা উদাহৰণ।"
+    }
+  },
+  {
+    "id": "chemistry-064",
+    "q": {
+      "en": "Soap is prepared by the reaction of fat with?",
+      "as": "চৰ্বিৰ সৈতে কিৰ বিক্ৰিয়াৰে চাবোন তৈয়াৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "HCl",
+        "as": "HCl"
+      },
+      {
+        "en": "H2SO4",
+        "as": "H2SO4"
+      },
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      },
+      {
+        "en": "NaOH",
+        "as": "NaOH"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Soap is prepared by the reaction of fat with sodium hydroxide (NaOH).",
+      "as": "চৰ্বিৰ সৈতে ছডিয়াম হাইড্ৰক্সাইড (NaOH)ৰ বিক্ৰিয়াৰে চাবোন তৈয়াৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-069",
+    "q": {
+      "en": "The catalyst used in Haber process is?",
+      "as": "হেবাৰ প্ৰক্ৰিয়াত ব্যৱহাৰ কৰা অনুঘটক কি?"
+    },
+    "options": [
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Nickel",
+        "as": "নিকেল"
+      },
+      {
+        "en": "Platinum",
+        "as": "প্লেটিনাম"
+      },
+      {
+        "en": "Vanadium pentoxide",
+        "as": "ভেনেডিয়াম পেণ্টক্সাইড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Iron acts as the catalyst in the Haber process.",
+      "as": "হেবাৰ প্ৰক্ৰিয়াত লো (আইৰন) অনুঘটক হিচাপে কাম কৰে।"
+    }
+  },
+  {
+    "id": "chemistry-097",
+    "q": {
+      "en": "Which of the following is an exothermic process?",
+      "as": "তলৰ কোনটো তাপক্ষয়ী প্ৰক্ৰিয়া?"
+    },
+    "options": [
+      {
+        "en": "Melting of ice",
+        "as": "বৰফ গলা"
+      },
+      {
+        "en": "Evaporation of water",
+        "as": "পানী বাষ্পীভৱন"
+      },
+      {
+        "en": "Photosynthesis",
+        "as": "সালোক সংশ্লেষণ"
+      },
+      {
+        "en": "Burning of coal",
+        "as": "কয়লা দহন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Burning of coal is an exothermic process as it releases heat.",
+      "as": "কয়লা দহন এটা তাপক্ষয়ী প্ৰক্ৰিয়া, কাৰণ ই তাপ মুক্ত কৰে।"
+    }
+  },
+  {
+    "id": "chemistry-098",
+    "q": {
+      "en": "A reaction in which heat is absorbed is called?",
+      "as": "তাপ শোষণ কৰা বিক্ৰিয়াক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Endothermic reaction",
+        "as": "তাপশোষী বিক্ৰিয়া"
+      },
+      {
+        "en": "Exothermic reaction",
+        "as": "তাপক্ষয়ী বিক্ৰিয়া"
+      },
+      {
+        "en": "Neutralisation",
+        "as": "প্ৰশমন"
+      },
+      {
+        "en": "Combustion",
+        "as": "দহন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A reaction in which heat is absorbed is called an endothermic reaction.",
+      "as": "তাপ শোষণ কৰা বিক্ৰিয়াক তাপশোষী বিক্ৰিয়া বোলে।"
+    }
+  },
+  {
+    "id": "chemistry-124",
+    "q": {
+      "en": "The law of conservation of mass was given by?",
+      "as": "ভৰ সংৰক্ষণৰ সূত্ৰ কোনে দিছিল?"
+    },
+    "options": [
+      {
+        "en": "Lavoisier",
+        "as": "লেভইজিয়ে"
+      },
+      {
+        "en": "Dalton",
+        "as": "ডালটন"
+      },
+      {
+        "en": "Boyle",
+        "as": "বয়েল"
+      },
+      {
+        "en": "Avogadro",
+        "as": "এভোগেড্ৰো"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The law of conservation of mass was given by Lavoisier.",
+      "as": "ভৰ সংৰক্ষণৰ সূত্ৰ লেভইজিয়েছে দিছিল।"
+    }
+  },
+  {
+    "id": "chemistry-125",
+    "q": {
+      "en": "Boyle's law relates?",
+      "as": "বয়েলৰ সূত্ৰ কিৰ সম্পৰ্ক দেখুৱায়?"
+    },
+    "options": [
+      {
+        "en": "Volume and temperature",
+        "as": "আয়তন আৰু উষ্ণতা"
+      },
+      {
+        "en": "Pressure and volume at constant temperature",
+        "as": "স্থিৰ উষ্ণতাত চাপ আৰু আয়তন"
+      },
+      {
+        "en": "Pressure and temperature",
+        "as": "চাপ আৰু উষ্ণতা"
+      },
+      {
+        "en": "Mass and volume",
+        "as": "ভৰ আৰু আয়তন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Boyle's law relates pressure and volume at constant temperature.",
+      "as": "বয়েলৰ সূত্ৰে স্থিৰ উষ্ণতাত চাপ আৰু আয়তনৰ সম্পৰ্ক দেখুৱায়।"
+    }
+  },
+  {
+    "id": "chemistry-126",
+    "q": {
+      "en": "Charles's law relates?",
+      "as": "চাৰ্লছৰ সূত্ৰ কিৰ সম্পৰ্ক দেখুৱায়?"
+    },
+    "options": [
+      {
+        "en": "P and V",
+        "as": "P আৰু V"
+      },
+      {
+        "en": "P and T",
+        "as": "P আৰু T"
+      },
+      {
+        "en": "V and T at constant pressure",
+        "as": "স্থিৰ চাপত V আৰু T"
+      },
+      {
+        "en": "n and V",
+        "as": "n আৰু V"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Charles's law relates volume and temperature at constant pressure.",
+      "as": "চাৰ্লছৰ সূত্ৰে স্থিৰ চাপত আয়তন আৰু উষ্ণতাৰ সম্পৰ্ক দেখুৱায়।"
+    }
+  },
+  {
+    "id": "chemistry-129",
+    "q": {
+      "en": "A catalyst?",
+      "as": "অনুঘটকে কি কৰে?"
+    },
+    "options": [
+      {
+        "en": "Is consumed in the reaction",
+        "as": "বিক্ৰিয়াত খৰচ হয়"
+      },
+      {
+        "en": "Increases the rate of reaction without being consumed",
+        "as": "নিজে খৰচ নোহোৱাকৈ বিক্ৰিয়াৰ হাৰ বৃদ্ধি কৰে"
+      },
+      {
+        "en": "Always decreases rate",
+        "as": "সদায় হাৰ কমায়"
+      },
+      {
+        "en": "Changes products always",
+        "as": "সদায় উৎপাদ সলায়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A catalyst increases the rate of a reaction without being consumed.",
+      "as": "অনুঘটকে নিজে খৰচ নোহোৱাকৈ বিক্ৰিয়াৰ হাৰ বৃদ্ধি কৰে।"
+    }
+  },
+  {
+    "id": "chemistry-130",
+    "q": {
+      "en": "Oxidation is?",
+      "as": "জারণ কি?"
+    },
+    "options": [
+      {
+        "en": "Gain of electrons",
+        "as": "ইলেক্ট্ৰন লাভ"
+      },
+      {
+        "en": "Loss of oxygen",
+        "as": "অক্সিজেন হেৰুৱা"
+      },
+      {
+        "en": "Loss of electrons or gain of oxygen",
+        "as": "ইলেক্ট্ৰন হেৰুৱা বা অক্সিজেন লাভ"
+      },
+      {
+        "en": "Gain of hydrogen only",
+        "as": "কেৱল হাইড্ৰজেন লাভ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Oxidation is loss of electrons or gain of oxygen.",
+      "as": "জারণ হৈছে ইলেক্ট্ৰন হেৰুওৱা বা অক্সিজেন লাভ কৰা।"
+    }
+  },
+  {
+    "id": "chemistry-131",
+    "q": {
+      "en": "Reduction is?",
+      "as": "বিজারণ কি?"
+    },
+    "options": [
+      {
+        "en": "Loss of electrons",
+        "as": "ইলেক্ট্ৰন হেৰুৱা"
+      },
+      {
+        "en": "Gain of oxygen",
+        "as": "অক্সিজেন লাভ"
+      },
+      {
+        "en": "Increase in oxidation number",
+        "as": "জারণ সংখ্যা বৃদ্ধি"
+      },
+      {
+        "en": "Gain of electrons",
+        "as": "ইলেক্ট্ৰন লাভ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Reduction is gain of electrons.",
+      "as": "বিজাৰণ হৈছে ইলেক্ট্ৰন লাভ কৰা।"
+    }
+  },
+  {
+    "id": "chemistry-136",
+    "q": {
+      "en": "The chemical formula of rust is mainly?",
+      "as": "মৰিছাৰ মূল ৰাসায়নিক সংকেত কি?"
+    },
+    "options": [
+      {
+        "en": "Fe2O3·xH2O",
+        "as": "Fe2O3·xH2O"
+      },
+      {
+        "en": "FeO",
+        "as": "FeO"
+      },
+      {
+        "en": "FeCl3",
+        "as": "FeCl3"
+      },
+      {
+        "en": "FeSO4",
+        "as": "FeSO4"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rust is mainly hydrated iron(III) oxide, Fe2O3.xH2O.",
+      "as": "মৰিছা মূলতঃ হাইড্ৰেটযুক্ত আইৰন(III) অক্সাইড, Fe2O3.xH2O।"
+    }
+  },
+  {
+    "id": "chemistry-137",
+    "q": {
+      "en": "Which of the following is a physical change?",
+      "as": "তলৰ কোনটো ভৌতিক পৰিৱৰ্তন?"
+    },
+    "options": [
+      {
+        "en": "Burning of paper",
+        "as": "কাগজ পোৰা"
+      },
+      {
+        "en": "Melting of ice",
+        "as": "বৰফ গলা"
+      },
+      {
+        "en": "Rusting of iron",
+        "as": "লোৰ মৰিছা পৰা"
+      },
+      {
+        "en": "Digestion of food",
+        "as": "খাদ্য হজম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Melting of ice is a physical change.",
+      "as": "বৰফ গলা এটা ভৌতিক পৰিৱৰ্তন।"
+    }
+  },
+  {
+    "id": "chemistry-138",
+    "q": {
+      "en": "Which of the following is a chemical change?",
+      "as": "তলৰ কোনটো ৰাসায়নিক পৰিৱৰ্তন?"
+    },
+    "options": [
+      {
+        "en": "Boiling of water",
+        "as": "পানী উতলা"
+      },
+      {
+        "en": "Melting of wax",
+        "as": "মম গলা"
+      },
+      {
+        "en": "Burning of magnesium",
+        "as": "মেগনেছিয়াম পোৰা"
+      },
+      {
+        "en": "Breaking of glass",
+        "as": "কাচ ভগা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Burning of magnesium is a chemical change.",
+      "as": "মেগনেছিয়াম পোৰা এটা ৰাসায়নিক পৰিৱৰ্তন।"
+    }
+  }
+]

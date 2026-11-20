@@ -1,0 +1,62 @@
+[
+  {
+    "id": "grammar-019",
+    "q": {
+      "en": "The correct form is:",
+      "as": "শুদ্ধ ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "He is senior than me.",
+        "as": "He is senior than me."
+      },
+      {
+        "en": "He is senior to me.",
+        "as": "He is senior to me."
+      },
+      {
+        "en": "He is more senior than me.",
+        "as": "He is more senior than me."
+      },
+      {
+        "en": "He is senior from me.",
+        "as": "He is senior from me."
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Senior to' is the correct form.",
+      "as": "'senior to' হৈছে শুদ্ধ ৰূপ।"
+    }
+  },
+  {
+    "id": "grammar-021",
+    "q": {
+      "en": "The correct sentence is:",
+      "as": "শুদ্ধ বাক্যটো কি?"
+    },
+    "options": [
+      {
+        "en": "One of my friends is a doctor.",
+        "as": "One of my friends is a doctor."
+      },
+      {
+        "en": "One of my friend are a doctor.",
+        "as": "One of my friend are a doctor."
+      },
+      {
+        "en": "One of my friends are a doctor.",
+        "as": "One of my friends are a doctor."
+      },
+      {
+        "en": "One of my friend is a doctor.",
+        "as": "One of my friend is a doctor."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'One of my friends is a doctor.' is the grammatically correct sentence.",
+      "as": "'One of my friends is a doctor.' হৈছে ব্যাকৰণগতভাৱে শুদ্ধ বাক্য।"
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "non-verbal-reasoning-017",
+    "q": {
+      "en": "Mirror image of digit 2 (vertical mirror) does not look like?",
+      "as": "অংক ২-ৰ দাপোন প্ৰতিবিম্ব (উলম্ব) কোনটো নহয়?"
+    },
+    "options": [
+      {
+        "en": "The same as digit 5 exactly",
+        "as": "ঠিক ৫ অংকৰ দৰে"
+      },
+      {
+        "en": "A reversed 2",
+        "as": "ওলোটা ২"
+      },
+      {
+        "en": "A laterally inverted 2",
+        "as": "কাষলৈ উলটি ২"
+      },
+      {
+        "en": "Not identical to original 2",
+        "as": "মূল ২ৰ সৈতে একে নহয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In a vertical (side) mirror, digit 2 is laterally inverted and becomes a reversed 2, which is not an exact copy of digit 5. Hence it does not look exactly like 5.",
+      "as": "উলম্ব দাপোনত ২ অংকটো কাষলৈ উলটি যায় আৰু ওলোটা ২ হৈ পৰে, যি ঠিক ৫ অংকৰ দৰে নহয়। সেয়ে ই ৫-ৰ দৰে দেখা নাযায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-034",
+    "q": {
+      "en": "Water image of letter H is?",
+      "as": "H আখৰৰ জল প্ৰতিবিম্ব কি?"
+    },
+    "options": [
+      {
+        "en": "I",
+        "as": "I"
+      },
+      {
+        "en": "N",
+        "as": "N"
+      },
+      {
+        "en": "H",
+        "as": "H"
+      },
+      {
+        "en": "X",
+        "as": "X"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A water image is the vertical flip of a figure; H is symmetric both top-to-bottom and left-to-right, so its water image is also H.",
+      "as": "জল প্ৰতিবিম্বত আকৃতি ওপৰ-তল উলটি যায়; H ওপৰ-তল আৰু বাওঁ-সোঁ দুয়ো দিশত সমমিত, সেয়ে ইয়াৰ জল প্ৰতিবিম্বও H।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-042",
+    "q": {
+      "en": "The mirror image of word CODE (vertical mirror on the right) looks like?",
+      "as": "CODE শব্দৰ দাপোন প্ৰতিবিম্ব (সোঁফালে উলম্ব) কেনে?"
+    },
+    "options": [
+      {
+        "en": "EDOC",
+        "as": "EDOC"
+      },
+      {
+        "en": "CDOE",
+        "as": "CDOE"
+      },
+      {
+        "en": "CODE",
+        "as": "CODE"
+      },
+      {
+        "en": "ODEC",
+        "as": "ODEC"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In a plane mirror held vertically on the right, the left-to-right order of the letters reverses while each letter keeps its own orientation, so CODE becomes EDOC.",
+      "as": "সোঁফালে ৰখা উলম্ব দাপোনত আখৰবোৰৰ ক্ৰম বাওঁ-সোঁফালে ওলোটাই যায়, সেয়ে CODE ৰ প্ৰতিবিম্ব EDOC হয়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-065",
+    "q": {
+      "en": "Which option is the water image of digit 0?",
+      "as": "অংক ০-ৰ জল প্ৰতিবিম্ব কোনটো?"
+    },
+    "options": [
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "9",
+        "as": "৯"
+      },
+      {
+        "en": "0",
+        "as": "০"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A water image flips the figure vertically; the digit 0 is symmetric about both axes, so its water image is again 0.",
+      "as": "জল প্ৰতিবিম্বত চিত্ৰ ওপৰ-তল ওলোটাই যায়; ০ অংক উভয় অক্ষৰ প্ৰতি সমমিত, সেয়ে ইয়াৰ জল প্ৰতিবিম্ব ০ হয়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-067",
+    "q": {
+      "en": "The mirror image of the word TIME (vertical mirror on the right) looks like which option?",
+      "as": "TIME শব্দৰ দাপোন প্ৰতিবিম্ব (সোঁফালে উলম্ব দাপোন) কেনেকুৱা দেখা যায়?"
+    },
+    "options": [
+      {
+        "en": "EMIT",
+        "as": "EMIT"
+      },
+      {
+        "en": "TIME",
+        "as": "TIME"
+      },
+      {
+        "en": "ETIM",
+        "as": "ETIM"
+      },
+      {
+        "en": "MITE",
+        "as": "MITE"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In a vertical mirror the left-right order of the letters is reversed, so TIME is read from the right as E-M-I-T, i.e. EMIT.",
+      "as": "উলম্ব দাপোনত আখৰৰ বাওঁ-সোঁ ক্ৰম ওলোটা হয়, সেয়ে TIME সোঁফালৰপৰা পঢ়িলে E-M-I-T অৰ্থাৎ EMIT দেখা যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-068",
+    "q": {
+      "en": "The water image of the letter W is?",
+      "as": "W আখৰৰ জল প্ৰতিবিম্ব কি?"
+    },
+    "options": [
+      {
+        "en": "M",
+        "as": "M"
+      },
+      {
+        "en": "W",
+        "as": "W"
+      },
+      {
+        "en": "V",
+        "as": "V"
+      },
+      {
+        "en": "A",
+        "as": "A"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A water image is a top-bottom reflection; W reflected this way appears as M.",
+      "as": "জল প্ৰতিবিম্ব হৈছে ওপৰ-তল প্ৰতিফলন; W এইদৰে প্ৰতিফলিত হ'লে M ৰ দৰে দেখা যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-075",
+    "q": {
+      "en": "Which digit looks the same in a vertical mirror?",
+      "as": "কোন অংকটো উলম্ব দাপোনত একেই দেখা যায়?"
+    },
+    "options": [
+      {
+        "en": "0",
+        "as": "০"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The digit 0 is symmetric about its vertical axis, so it looks the same in a vertical mirror.",
+      "as": "অংক ০ উলম্ব অক্ষৰ সাপেক্ষে সমমিত, সেয়ে উলম্ব দাপোনত একেই দেখা যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-076",
+    "q": {
+      "en": "The water image of the digit 6 is?",
+      "as": "অংক ৬-ৰ জল প্ৰতিবিম্ব কি?"
+    },
+    "options": [
+      {
+        "en": "9",
+        "as": "৯"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "0",
+        "as": "০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Reflecting 6 from top to bottom gives a shape like 9.",
+      "as": "৬-ক ওপৰৰপৰা তললৈ প্ৰতিফলিত কৰিলে ৯ ৰ দৰে আকৃতি পোৱা যায়।"
+    }
+  }
+]

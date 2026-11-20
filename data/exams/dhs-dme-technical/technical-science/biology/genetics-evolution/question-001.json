@@ -1,0 +1,242 @@
+[
+  {
+    "id": "biology-017",
+    "q": {
+      "en": "DNA stands for?",
+      "as": "DNA-ৰ সম্পূৰ্ণ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "Deoxyribonucleic acid",
+        "as": "ডিঅক্সিৰাইব’নিউক্লিক এচিড"
+      },
+      {
+        "en": "Deoxyribonuclear acid",
+        "as": "ডিঅক্সিৰাইব’নিউক্লিয়াৰ এচিড"
+      },
+      {
+        "en": "Diribonucleic acid",
+        "as": "ডিৰাইব’নিউক্লিক এচিড"
+      },
+      {
+        "en": "Deoxyribose nucleic alkali",
+        "as": "ডিঅক্সিৰাইব’জ নিউক্লিক ক্ষাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "DNA stands for deoxyribonucleic acid.",
+      "as": "DNA-ৰ সম্পূৰ্ণ ৰূপ ডিঅক্সিৰাইব’নিউক্লিক এচিড।"
+    }
+  },
+  {
+    "id": "biology-018",
+    "q": {
+      "en": "Who is known as the father of genetics?",
+      "as": "বংশগতি বিজ্ঞানৰ জনক বুলি কাক জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Darwin",
+        "as": "ডাৰউইন"
+      },
+      {
+        "en": "Mendel",
+        "as": "মেণ্ডেল"
+      },
+      {
+        "en": "Lamarck",
+        "as": "লেমাৰ্ক"
+      },
+      {
+        "en": "Pasteur",
+        "as": "পাষ্টেউৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gregor Johann Mendel is known as the father of genetics.",
+      "as": "গ্ৰেগৰ জোহান মেণ্ডেলক বংশগতি বিজ্ঞানৰ জনক বুলি জনা যায়।"
+    }
+  },
+  {
+    "id": "biology-068",
+    "q": {
+      "en": "Sex chromosomes of a human male are?",
+      "as": "পুৰুষৰ লিংগ ক্ৰ’ম’জ’ম কি?"
+    },
+    "options": [
+      {
+        "en": "XX",
+        "as": "XX"
+      },
+      {
+        "en": "YY",
+        "as": "YY"
+      },
+      {
+        "en": "XO",
+        "as": "XO"
+      },
+      {
+        "en": "XY",
+        "as": "XY"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Human males have one X and one Y sex chromosome (XY).",
+      "as": "পুৰুষৰ লিংগ ক্ৰ’ম’জ’ম XY, অৰ্থাৎ এটা X আৰু এটা Y।"
+    }
+  },
+  {
+    "id": "biology-069",
+    "q": {
+      "en": "Sex chromosomes of a human female are?",
+      "as": "মহিলাৰ লিংগ ক্ৰ’ম’জ’ম কি?"
+    },
+    "options": [
+      {
+        "en": "XX",
+        "as": "XX"
+      },
+      {
+        "en": "XY",
+        "as": "XY"
+      },
+      {
+        "en": "YY",
+        "as": "YY"
+      },
+      {
+        "en": "XO",
+        "as": "XO"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Human females have two X sex chromosomes (XX).",
+      "as": "মহিলাৰ লিংগ ক্ৰ’ম’জ’ম XX, অৰ্থাৎ দুটা X।"
+    }
+  },
+  {
+    "id": "biology-072",
+    "q": {
+      "en": "Who proposed the theory of natural selection?",
+      "as": "প্ৰাকৃতিক নিৰ্বাচন তত্ত্ব কোনে আগবঢ়াইছিল?"
+    },
+    "options": [
+      {
+        "en": "Mendel",
+        "as": "মেণ্ডেল"
+      },
+      {
+        "en": "Lamarck",
+        "as": "লেমাৰ্ক"
+      },
+      {
+        "en": "Pasteur",
+        "as": "পাষ্টেউৰ"
+      },
+      {
+        "en": "Charles Darwin",
+        "as": "চাৰ্লছ ডাৰউইন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Charles Darwin proposed the theory of natural selection.",
+      "as": "চাৰ্লছ ডাৰউইনে প্ৰাকৃতিক নিৰ্বাচন তত্ত্ব আগবঢ়াইছিল।"
+    }
+  },
+  {
+    "id": "biology-098",
+    "q": {
+      "en": "RNA stands for?",
+      "as": "RNA-ৰ সম্পূৰ্ণ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "Ribonucleic acid",
+        "as": "ৰাইব’নিউক্লিক এচিড"
+      },
+      {
+        "en": "Ribonuclear acid",
+        "as": "ৰাইব’নিউক্লিয়াৰ এচিড"
+      },
+      {
+        "en": "Deoxyribonucleic acid",
+        "as": "ডিঅক্সিৰাইব’নিউক্লিক এচিড"
+      },
+      {
+        "en": "Ribose nitrate acid",
+        "as": "ৰাইব’জ নাইট্ৰেট এচিড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "RNA stands for ribonucleic acid.",
+      "as": "RNA-ৰ সম্পূৰ্ণ ৰূপ ৰাইব’নিউক্লিক এচিড।"
+    }
+  },
+  {
+    "id": "biology-099",
+    "q": {
+      "en": "The double helix structure of DNA was proposed by?",
+      "as": "DNA-ৰ দ্বৈত সর্পিল গঠন কোনে প্ৰস্তাৱ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Mendel",
+        "as": "মেণ্ডেল"
+      },
+      {
+        "en": "Watson and Crick",
+        "as": "ৱাটছন আৰু ক্ৰিক"
+      },
+      {
+        "en": "Darwin",
+        "as": "ডাৰউইন"
+      },
+      {
+        "en": "Pasteur",
+        "as": "পাষ্টেউৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "James Watson and Francis Crick proposed the double helix structure of DNA.",
+      "as": "জেমছ ৱাটছন আৰু ফ্ৰান্সিছ ক্ৰিকে DNA-ৰ দ্বৈত সর্পিল গঠন প্ৰস্তাৱ কৰিছিল।"
+    }
+  },
+  {
+    "id": "biology-119",
+    "q": {
+      "en": "Binomial nomenclature was given by?",
+      "as": "দ্বিনামকৰণ পদ্ধতি কোনে দিছিল?"
+    },
+    "options": [
+      {
+        "en": "Darwin",
+        "as": "ডাৰউইন"
+      },
+      {
+        "en": "Carolus Linnaeus",
+        "as": "কেৰ’লাছ লিনিয়াছ"
+      },
+      {
+        "en": "Mendel",
+        "as": "মেণ্ডেল"
+      },
+      {
+        "en": "Hooke",
+        "as": "হুক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Binomial nomenclature was given by Carolus Linnaeus.",
+      "as": "দ্বিনামকৰণ পদ্ধতি কেৰ’লাছ লিনিয়াছে দিছিল।"
+    }
+  }
+]

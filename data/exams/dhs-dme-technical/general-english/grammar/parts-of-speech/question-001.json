@@ -1,0 +1,332 @@
+[
+  {
+    "id": "grammar-010",
+    "q": {
+      "en": "The word 'and' is a:",
+      "as": "'and' শব্দটো কি?"
+    },
+    "options": [
+      {
+        "en": "Preposition",
+        "as": "অব্যয় (preposition)"
+      },
+      {
+        "en": "Conjunction",
+        "as": "সংযোজক"
+      },
+      {
+        "en": "Interjection",
+        "as": "বিস্ময়সূচক অব্যয়"
+      },
+      {
+        "en": "Adverb",
+        "as": "ক্ৰিয়া বিশেষণ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'And' joins words or clauses, so it is a conjunction.",
+      "as": "'and' য়ে শব্দ বা উপবাক্য সংযোগ কৰে, সেয়ে ই conjunction।"
+    }
+  },
+  {
+    "id": "grammar-011",
+    "q": {
+      "en": "Alas! He is dead. The word 'Alas' is a/an:",
+      "as": "Alas! He is dead. 'Alas' শব্দটো কি?"
+    },
+    "options": [
+      {
+        "en": "Conjunction",
+        "as": "সংযোজক"
+      },
+      {
+        "en": "Preposition",
+        "as": "অব্যয় (preposition)"
+      },
+      {
+        "en": "Interjection",
+        "as": "বিস্ময়সূচক অব্যয়"
+      },
+      {
+        "en": "Pronoun",
+        "as": "সৰ্বনাম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Alas' expresses emotion, so it is an interjection.",
+      "as": "'Alas' য়ে ভাৱ প্ৰকাশ কৰে, সেয়ে ই interjection।"
+    }
+  },
+  {
+    "id": "grammar-029",
+    "q": {
+      "en": "The adjective form of 'success' is:",
+      "as": "'success' ৰ বিশেষণ ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "succeed",
+        "as": "succeed"
+      },
+      {
+        "en": "successfully",
+        "as": "successfully"
+      },
+      {
+        "en": "succession",
+        "as": "succession"
+      },
+      {
+        "en": "successful",
+        "as": "successful"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The adjective form of 'success' is 'successful'.",
+      "as": "'success' ৰ adjective ৰূপ হৈছে 'successful'।"
+    }
+  },
+  {
+    "id": "grammar-030",
+    "q": {
+      "en": "The noun form of 'decide' is:",
+      "as": "'decide' ৰ বিশেষ্য ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "decisive",
+        "as": "decisive"
+      },
+      {
+        "en": "decision",
+        "as": "decision"
+      },
+      {
+        "en": "decidedly",
+        "as": "decidedly"
+      },
+      {
+        "en": "deciding",
+        "as": "deciding"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The noun form of 'decide' is 'decision'.",
+      "as": "'decide' ৰ noun ৰূপ হৈছে 'decision'।"
+    }
+  },
+  {
+    "id": "grammar-031",
+    "q": {
+      "en": "The verb form of 'life' is:",
+      "as": "'life' ৰ ক্ৰিয়া ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "live",
+        "as": "live"
+      },
+      {
+        "en": "lively",
+        "as": "lively"
+      },
+      {
+        "en": "alive",
+        "as": "alive"
+      },
+      {
+        "en": "livingly",
+        "as": "livingly"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The verb form of 'life' is 'live'.",
+      "as": "'life' ৰ verb ৰূপ হৈছে 'live'।"
+    }
+  },
+  {
+    "id": "grammar-053",
+    "q": {
+      "en": "The plural of 'mouse' is:",
+      "as": "'mouse' ৰ বহুবচন কি?"
+    },
+    "options": [
+      {
+        "en": "mouses",
+        "as": "mouses"
+      },
+      {
+        "en": "mice",
+        "as": "mice"
+      },
+      {
+        "en": "mices",
+        "as": "mices"
+      },
+      {
+        "en": "mouse",
+        "as": "mouse"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The plural of 'mouse' is 'mice'.",
+      "as": "'mouse' ৰ বহুবচন হৈছে 'mice'।"
+    }
+  },
+  {
+    "id": "grammar-054",
+    "q": {
+      "en": "The abstract noun of 'child' is:",
+      "as": "'child' ৰ ভাৱবাচক বিশেষ্য কি?"
+    },
+    "options": [
+      {
+        "en": "children",
+        "as": "children"
+      },
+      {
+        "en": "childish",
+        "as": "childish"
+      },
+      {
+        "en": "childly",
+        "as": "childly"
+      },
+      {
+        "en": "childhood",
+        "as": "childhood"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The abstract noun of 'child' is 'childhood'.",
+      "as": "'child' ৰ ভাৱবাচক বিশেষ্য হৈছে 'childhood'।"
+    }
+  },
+  {
+    "id": "grammar-055",
+    "q": {
+      "en": "A collective noun for a group of sheep is:",
+      "as": "ভেড়াৰ দলৰ সমষ্টিবাচক বিশেষ্য কি?"
+    },
+    "options": [
+      {
+        "en": "herd",
+        "as": "herd"
+      },
+      {
+        "en": "flock",
+        "as": "flock"
+      },
+      {
+        "en": "pack",
+        "as": "pack"
+      },
+      {
+        "en": "swarm",
+        "as": "swarm"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Flock' is the collective noun used for a group of sheep.",
+      "as": "ভেড়াৰ গোটৰ বাবে ব্যৱহৃত collective noun হৈছে 'flock'।"
+    }
+  },
+  {
+    "id": "grammar-078",
+    "q": {
+      "en": "The plural of 'leaf' is:",
+      "as": "'leaf' ৰ বহুবচন কি?"
+    },
+    "options": [
+      {
+        "en": "leafs",
+        "as": "leafs"
+      },
+      {
+        "en": "leaves",
+        "as": "leaves"
+      },
+      {
+        "en": "leafes",
+        "as": "leafes"
+      },
+      {
+        "en": "leaf",
+        "as": "leaf"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The plural of 'leaf' is 'leaves'.",
+      "as": "'leaf' ৰ বহুবচন হৈছে 'leaves'।"
+    }
+  },
+  {
+    "id": "grammar-079",
+    "q": {
+      "en": "The plural of 'crisis' is:",
+      "as": "'crisis' ৰ বহুবচন কি?"
+    },
+    "options": [
+      {
+        "en": "crisises",
+        "as": "crisises"
+      },
+      {
+        "en": "crisis",
+        "as": "crisis"
+      },
+      {
+        "en": "crises",
+        "as": "crises"
+      },
+      {
+        "en": "crisi",
+        "as": "crisi"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The plural of 'crisis' is 'crises'.",
+      "as": "'crisis' ৰ বহুবচন হৈছে 'crises'।"
+    }
+  },
+  {
+    "id": "grammar-080",
+    "q": {
+      "en": "The abstract noun of 'able' is:",
+      "as": "'able' ৰ ভাৱবাচক বিশেষ্য কি?"
+    },
+    "options": [
+      {
+        "en": "able",
+        "as": "able"
+      },
+      {
+        "en": "ably",
+        "as": "ably"
+      },
+      {
+        "en": "ability",
+        "as": "ability"
+      },
+      {
+        "en": "ablement",
+        "as": "ablement"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The abstract noun of 'able' is 'ability'.",
+      "as": "'able' ৰ ভাৱবাচক বিশেষ্য হৈছে 'ability'।"
+    }
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "id": "biology-009",
+    "q": {
+      "en": "The largest gland in the human body is?",
+      "as": "মানৱ দেহৰ আটাইতকৈ ডাঙৰ গ্ৰন্থি কি?"
+    },
+    "options": [
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Thyroid",
+        "as": "থাইৰইড"
+      },
+      {
+        "en": "Pituitary",
+        "as": "পিটুইটাৰী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The liver is the largest gland in the human body.",
+      "as": "যকৃত মানৱ দেহৰ আটাইতকৈ ডাঙৰ গ্ৰন্থি।"
+    }
+  },
+  {
+    "id": "biology-010",
+    "q": {
+      "en": "The blood is purified in which organ?",
+      "as": "তেজ কোন অংগত বিশুদ্ধ হয়?"
+    },
+    "options": [
+      {
+        "en": "Heart",
+        "as": "হৃদযন্ত্ৰ"
+      },
+      {
+        "en": "Stomach",
+        "as": "পাকস্থলী"
+      },
+      {
+        "en": "Kidney",
+        "as": "বৃক্ক"
+      },
+      {
+        "en": "Spleen",
+        "as": "প্লিহা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The kidneys filter waste products and purify the blood.",
+      "as": "বৃক্কই অপদ্ৰৱ্য ছাকনি তেজ বিশুদ্ধ কৰে।"
+    }
+  },
+  {
+    "id": "biology-013",
+    "q": {
+      "en": "Haemoglobin is present in?",
+      "as": "হিমোগ্লবিন ক’ত থাকে?"
+    },
+    "options": [
+      {
+        "en": "WBC",
+        "as": "শ্বেত ৰক্ত কণিকা"
+      },
+      {
+        "en": "RBC",
+        "as": "ৰক্ত কণিকা"
+      },
+      {
+        "en": "Platelets",
+        "as": "অনুচক্ৰিকা"
+      },
+      {
+        "en": "Plasma only",
+        "as": "কেৱল প্লাজমা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Haemoglobin is the oxygen-carrying pigment present in red blood cells.",
+      "as": "হিমোগ্লবিন হৈছে ৰক্ত কণিকাত থকা অক্সিজেন বহন কৰা ৰঞ্জক।"
+    }
+  },
+  {
+    "id": "biology-014",
+    "q": {
+      "en": "The number of chambers in the human heart is?",
+      "as": "মানৱ হৃদযন্ত্ৰত কোঠাৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "Two",
+        "as": "দুটা"
+      },
+      {
+        "en": "Three",
+        "as": "তিনিটা"
+      },
+      {
+        "en": "Four",
+        "as": "চাৰিটা"
+      },
+      {
+        "en": "Five",
+        "as": "পাঁচটা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The human heart has four chambers: two atria and two ventricles.",
+      "as": "মানৱ হৃদযন্ত্ৰত চাৰিটা কোঠা থাকে: দুটা অলিন্দ আৰু দুটা নিলয়।"
+    }
+  },
+  {
+    "id": "biology-015",
+    "q": {
+      "en": "The functional unit of kidney is?",
+      "as": "বৃক্কৰ কাৰ্যকৰী একক কি?"
+    },
+    "options": [
+      {
+        "en": "Neuron",
+        "as": "নিউৰন"
+      },
+      {
+        "en": "Alveolus",
+        "as": "এলভিঅলাছ"
+      },
+      {
+        "en": "Nephron",
+        "as": "নেফ্ৰন"
+      },
+      {
+        "en": "Osteocyte",
+        "as": "অষ্টিঅচাইট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The nephron is the structural and functional unit of the kidney.",
+      "as": "নেফ্ৰন বৃক্কৰ গাঁথনিগত আৰু কাৰ্যকৰী একক।"
+    }
+  },
+  {
+    "id": "biology-016",
+    "q": {
+      "en": "The functional unit of the nervous system is?",
+      "as": "স্নায়ুতন্ত্ৰৰ কাৰ্যকৰী একক কি?"
+    },
+    "options": [
+      {
+        "en": "Neuron",
+        "as": "নিউৰন"
+      },
+      {
+        "en": "Nephron",
+        "as": "নেফ্ৰন"
+      },
+      {
+        "en": "Alveolus",
+        "as": "এলভিঅলাছ"
+      },
+      {
+        "en": "Osteocyte",
+        "as": "অষ্টিঅচাইট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The neuron (nerve cell) is the functional unit of the nervous system.",
+      "as": "নিউৰন (স্নায়ু কোষ) স্নায়ুতন্ত্ৰৰ কাৰ্যকৰী একক।"
+    }
+  },
+  {
+    "id": "biology-023",
+    "q": {
+      "en": "The largest part of the human brain is?",
+      "as": "মানৱ মস্তিষ্কৰ আটাইতকৈ ডাঙৰ অংশ কি?"
+    },
+    "options": [
+      {
+        "en": "Cerebellum",
+        "as": "চেৰিবেলাম"
+      },
+      {
+        "en": "Medulla",
+        "as": "মেডুলা"
+      },
+      {
+        "en": "Pons",
+        "as": "পন্স"
+      },
+      {
+        "en": "Cerebrum",
+        "as": "চেৰিব্ৰাম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The cerebrum is the largest part of the human brain.",
+      "as": "চেৰিব্ৰাম মানৱ মস্তিষ্কৰ আটাইতকৈ ডাঙৰ অংশ।"
+    }
+  },
+  {
+    "id": "biology-024",
+    "q": {
+      "en": "Insulin is produced by?",
+      "as": "ইনচুলিন ক’ত উৎপন্ন হয়?"
+    },
+    "options": [
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Thyroid",
+        "as": "থাইৰইড"
+      },
+      {
+        "en": "Kidney",
+        "as": "বৃক্ক"
+      },
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Insulin is produced by the beta cells of the pancreas.",
+      "as": "অগ্ন্যাশয়ৰ বিটা কোষে ইনচুলিন উৎপন্ন কৰে।"
+    }
+  },
+  {
+    "id": "biology-050",
+    "q": {
+      "en": "The fluid part of blood is called?",
+      "as": "তেজৰ তৰল অংশক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Serum only",
+        "as": "কেৱল ছিৰাম"
+      },
+      {
+        "en": "Haemoglobin",
+        "as": "হিমোগ্লবিন"
+      },
+      {
+        "en": "Plasma",
+        "as": "প্লাজমা"
+      },
+      {
+        "en": "Lymph",
+        "as": "লিম্ফ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The fluid part of blood is called plasma.",
+      "as": "তেজৰ তৰল অংশক প্লাজমা বোলে।"
+    }
+  },
+  {
+    "id": "biology-051",
+    "q": {
+      "en": "Which blood group is called universal donor?",
+      "as": "কোন ৰক্ত গোটক সাৰ্বজনীন দাতা বোলে?"
+    },
+    "options": [
+      {
+        "en": "A",
+        "as": "এ"
+      },
+      {
+        "en": "B",
+        "as": "বি"
+      },
+      {
+        "en": "AB",
+        "as": "এবি"
+      },
+      {
+        "en": "O",
+        "as": "ও"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Blood group O is called the universal donor.",
+      "as": "ও ৰক্ত গোটক সাৰ্বজনীন দাতা বোলে।"
+    }
+  },
+  {
+    "id": "biology-052",
+    "q": {
+      "en": "Which blood group is called universal recipient?",
+      "as": "কোন ৰক্ত গোটক সাৰ্বজনীন গ্ৰহীতা বোলে?"
+    },
+    "options": [
+      {
+        "en": "AB",
+        "as": "এবি"
+      },
+      {
+        "en": "O",
+        "as": "ও"
+      },
+      {
+        "en": "A",
+        "as": "এ"
+      },
+      {
+        "en": "B",
+        "as": "বি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Blood group AB is called the universal recipient.",
+      "as": "এবি ৰক্ত গোটক সাৰ্বজনীন গ্ৰহীতা বোলে।"
+    }
+  },
+  {
+    "id": "biology-061",
+    "q": {
+      "en": "The master gland of the human body is?",
+      "as": "মানৱ দেহৰ মুখ্য গ্ৰন্থি কি?"
+    },
+    "options": [
+      {
+        "en": "Thyroid",
+        "as": "থাইৰইড"
+      },
+      {
+        "en": "Pituitary",
+        "as": "পিটুইটাৰী"
+      },
+      {
+        "en": "Adrenal",
+        "as": "এড্ৰিনেল"
+      },
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The pituitary gland is called the master gland of the human body.",
+      "as": "পিটুইটাৰী গ্ৰন্থিক মানৱ দেহৰ মুখ্য গ্ৰন্থি বোলে।"
+    }
+  },
+  {
+    "id": "biology-062",
+    "q": {
+      "en": "Thyroxine is secreted by?",
+      "as": "থাইৰক্সিন কোন গ্ৰন্থিয়ে নিঃসৰণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Pituitary",
+        "as": "পিটুইটাৰী"
+      },
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "Thyroid",
+        "as": "থাইৰইড"
+      },
+      {
+        "en": "Adrenal",
+        "as": "এড্ৰিনেল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Thyroxine is secreted by the thyroid gland.",
+      "as": "থাইৰইড গ্ৰন্থিয়ে থাইৰক্সিন নিঃসৰণ কৰে।"
+    }
+  },
+  {
+    "id": "biology-063",
+    "q": {
+      "en": "Adrenaline is secreted by?",
+      "as": "এড্ৰিনেলিন কোন গ্ৰন্থিয়ে নিঃসৰণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Thyroid",
+        "as": "থাইৰইড"
+      },
+      {
+        "en": "Pituitary",
+        "as": "পিটুইটাৰী"
+      },
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "Adrenal gland",
+        "as": "এড্ৰিনেল গ্ৰন্থি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Adrenaline is secreted by the adrenal gland.",
+      "as": "এড্ৰিনেল গ্ৰন্থিয়ে এড্ৰিনেলিন নিঃসৰণ কৰে।"
+    }
+  },
+  {
+    "id": "biology-084",
+    "q": {
+      "en": "The instrument used to measure blood pressure is?",
+      "as": "ৰক্তচাপ জুখিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰ কি?"
+    },
+    "options": [
+      {
+        "en": "Thermometer",
+        "as": "থাৰ্মোমিটাৰ"
+      },
+      {
+        "en": "Stethoscope",
+        "as": "ষ্টেথ’স্কোপ"
+      },
+      {
+        "en": "Sphygmomanometer",
+        "as": "স্ফিগম’মেন’মিটাৰ"
+      },
+      {
+        "en": "Barometer",
+        "as": "বেৰোমিটাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A sphygmomanometer is used to measure blood pressure.",
+      "as": "স্ফিগম’মেন’মিটাৰ ৰক্তচাপ জুখিবলৈ ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "biology-087",
+    "q": {
+      "en": "Earthworm breathes through?",
+      "as": "কেচুৱে কিৰে উশাহ লয়?"
+    },
+    "options": [
+      {
+        "en": "Lungs",
+        "as": "হাওঁফাওঁ"
+      },
+      {
+        "en": "Moist skin",
+        "as": "আৰ্দ্ৰ ছাল"
+      },
+      {
+        "en": "Gills",
+        "as": "কানকোষ"
+      },
+      {
+        "en": "Spiracles",
+        "as": "স্পাইৰেকল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Earthworms breathe through their moist skin.",
+      "as": "কেচুৱে আৰ্দ্ৰ ছালৰ সহায়ত উশাহ লয়।"
+    }
+  },
+  {
+    "id": "biology-088",
+    "q": {
+      "en": "Insects breathe through?",
+      "as": "পোক-পতংগে কিৰে উশাহ লয়?"
+    },
+    "options": [
+      {
+        "en": "Lungs",
+        "as": "হাওঁফাওঁ"
+      },
+      {
+        "en": "Gills",
+        "as": "কানকোষ"
+      },
+      {
+        "en": "Tracheae / spiracles",
+        "as": "ট্ৰেকিয়া / স্পাইৰেকল"
+      },
+      {
+        "en": "Skin only",
+        "as": "কেৱল ছাল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Insects breathe through a network of tracheae that open at spiracles.",
+      "as": "পোক-পতংগে স্পাইৰেকলৰ পৰা মুকলি ট্ৰেকিয়া জালৰ সহায়ত উশাহ লয়।"
+    }
+  },
+  {
+    "id": "biology-089",
+    "q": {
+      "en": "The exchange of gases in human lungs occurs in?",
+      "as": "মানুহৰ হাওঁফাওঁত গেছ বিনিময় ক’ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Bronchi",
+        "as": "ব্ৰংকাই"
+      },
+      {
+        "en": "Trachea",
+        "as": "ট্ৰেকিয়া"
+      },
+      {
+        "en": "Diaphragm",
+        "as": "ডায়েফ্ৰাম"
+      },
+      {
+        "en": "Alveoli",
+        "as": "এলভিঅলাই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Exchange of gases in human lungs takes place in the alveoli.",
+      "as": "মানুহৰ হাওঁফাওঁত গেছ বিনিময় এলভিঅলাইত হয়।"
+    }
+  },
+  {
+    "id": "biology-090",
+    "q": {
+      "en": "The enzyme in saliva that digests starch is?",
+      "as": "লালতিত ষ্টাৰ্চ হজম কৰা এনজাইম কি?"
+    },
+    "options": [
+      {
+        "en": "Ptyalin (amylase)",
+        "as": "টিয়েলিন (এমাইলেজ)"
+      },
+      {
+        "en": "Pepsin",
+        "as": "পেপচিন"
+      },
+      {
+        "en": "Trypsin",
+        "as": "ট্ৰিপচিন"
+      },
+      {
+        "en": "Lipase",
+        "as": "লাইপেজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ptyalin (salivary amylase) digests starch in the mouth.",
+      "as": "টিয়েলিন (লালতিয়া এমাইলেজ) মুখত ষ্টাৰ্চ হজম কৰে।"
+    }
+  },
+  {
+    "id": "biology-091",
+    "q": {
+      "en": "Pepsin is secreted in?",
+      "as": "পেপচিন ক’ত নিঃসৰিত হয়?"
+    },
+    "options": [
+      {
+        "en": "Mouth",
+        "as": "মুখ"
+      },
+      {
+        "en": "Stomach",
+        "as": "পাকস্থলী"
+      },
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Pancreas only",
+        "as": "কেৱল অগ্ন্যাশয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Pepsin is secreted in the stomach and digests proteins.",
+      "as": "পেপচিন পাকস্থলীত নিঃসৰিত হয় আৰু প্ৰ’টিন হজম কৰে।"
+    }
+  },
+  {
+    "id": "biology-092",
+    "q": {
+      "en": "Bile is produced by?",
+      "as": "পিত্ত ক’ত উৎপন্ন হয়?"
+    },
+    "options": [
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "Stomach",
+        "as": "পাকস্থলী"
+      },
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Kidney",
+        "as": "বৃক্ক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Bile is produced by the liver.",
+      "as": "যকৃতত পিত্ত উৎপন্ন হয়।"
+    }
+  },
+  {
+    "id": "biology-093",
+    "q": {
+      "en": "Bile is stored in?",
+      "as": "পিত্ত ক’ত সঞ্চিত হয়?"
+    },
+    "options": [
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "Stomach",
+        "as": "পাকস্থলী"
+      },
+      {
+        "en": "Gall bladder",
+        "as": "পিত্তাশয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bile is stored in the gall bladder.",
+      "as": "পিত্ত পিত্তাশয়ত সঞ্চিত হয়।"
+    }
+  },
+  {
+    "id": "biology-100",
+    "q": {
+      "en": "Blood clotting is helped by?",
+      "as": "তেজ টান হোৱাত কিয়ে সহায় কৰে?"
+    },
+    "options": [
+      {
+        "en": "RBC",
+        "as": "ৰক্ত কণিকা"
+      },
+      {
+        "en": "WBC",
+        "as": "শ্বেত ৰক্ত কণিকা"
+      },
+      {
+        "en": "Platelets",
+        "as": "অনুচক্ৰিকা"
+      },
+      {
+        "en": "Plasma proteins only sugar",
+        "as": "কেৱল প্লাজমাৰ চেনি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Platelets help in the clotting of blood.",
+      "as": "অনুচক্ৰিকাই তেজ টান হোৱাত সহায় কৰে।"
+    }
+  },
+  {
+    "id": "biology-101",
+    "q": {
+      "en": "WBCs are also known as?",
+      "as": "শ্বেত ৰক্ত কণিকাক আন কি নামেৰে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Erythrocytes",
+        "as": "এৰিথ্ৰ’চাইট"
+      },
+      {
+        "en": "Thrombocytes",
+        "as": "থ্ৰম্ব’চাইট"
+      },
+      {
+        "en": "Osteocytes",
+        "as": "অষ্টিঅচাইট"
+      },
+      {
+        "en": "Leucocytes",
+        "as": "লিউক’চাইট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "White blood cells (WBCs) are also called leucocytes.",
+      "as": "শ্বেত ৰক্ত কণিকাক লিউক’চাইট বুলিও জনা যায়।"
+    }
+  },
+  {
+    "id": "biology-102",
+    "q": {
+      "en": "RBCs are also known as?",
+      "as": "ৰক্ত কণিকাক আন কি নামেৰে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Erythrocytes",
+        "as": "এৰিথ্ৰ’চাইট"
+      },
+      {
+        "en": "Leucocytes",
+        "as": "লিউক’চাইট"
+      },
+      {
+        "en": "Thrombocytes",
+        "as": "থ্ৰম্ব’চাইট"
+      },
+      {
+        "en": "Lymphocytes only",
+        "as": "কেৱল লিম্ফ’চাইট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Red blood cells (RBCs) are also called erythrocytes.",
+      "as": "ৰক্ত কণিকাক এৰিথ্ৰ’চাইট বুলিও জনা যায়।"
+    }
+  },
+  {
+    "id": "biology-103",
+    "q": {
+      "en": "The average life span of RBC is about?",
+      "as": "ৰক্ত কণিকাৰ গড় আয়ুস প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "20 days",
+        "as": "২০ দিন"
+      },
+      {
+        "en": "120 days",
+        "as": "১২০ দিন"
+      },
+      {
+        "en": "10 days",
+        "as": "১০ দিন"
+      },
+      {
+        "en": "365 days",
+        "as": "৩৬৫ দিন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The average life span of a red blood cell is about 120 days.",
+      "as": "ৰক্ত কণিকাৰ গড় আয়ুস প্ৰায় ১২০ দিন।"
+    }
+  },
+  {
+    "id": "biology-104",
+    "q": {
+      "en": "The pacemaker of the heart is?",
+      "as": "হৃদযন্ত্ৰৰ পেচমেকাৰ কি?"
+    },
+    "options": [
+      {
+        "en": "AV node",
+        "as": "AV ন’ড"
+      },
+      {
+        "en": "Purkinje fibres",
+        "as": "পাৰ্কিনজি তন্তু"
+      },
+      {
+        "en": "SA node",
+        "as": "SA ন’ড"
+      },
+      {
+        "en": "Bundle of His",
+        "as": "হিছৰ বাণ্ডিল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The SA node (sinoatrial node) acts as the pacemaker of the heart.",
+      "as": "SA ন’ড (চাইন’এট্ৰিয়েল ন’ড) হৃদযন্ত্ৰৰ পেচমেকাৰ হিচাপে কাম কৰে।"
+    }
+  },
+  {
+    "id": "biology-105",
+    "q": {
+      "en": "Oxygenated blood is carried by?",
+      "as": "অক্সিজেনযুক্ত তেজ কিয়ে বহন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Pulmonary artery",
+        "as": "পালমনেৰী ধমনী"
+      },
+      {
+        "en": "Veins from body",
+        "as": "দেহৰ শিৰা"
+      },
+      {
+        "en": "Lymph vessels",
+        "as": "লিম্ফ নলী"
+      },
+      {
+        "en": "Pulmonary vein",
+        "as": "পালমনেৰী শিৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The pulmonary vein carries oxygenated blood from the lungs to the heart.",
+      "as": "পালমনেৰী শিৰাই হাওঁফাওঁৰ পৰা অক্সিজেনযুক্ত তেজ হৃদযন্ত্ৰলৈ লৈ যায়।"
+    }
+  },
+  {
+    "id": "biology-106",
+    "q": {
+      "en": "The pulmonary artery carries?",
+      "as": "পালমনেৰী ধমনীয়ে কি বহন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Deoxygenated blood to lungs",
+        "as": "হাওঁফাওঁলৈ অক্সিজেনহীন তেজ"
+      },
+      {
+        "en": "Oxygenated blood to body",
+        "as": "দেহলৈ অক্সিজেনযুক্ত তেজ"
+      },
+      {
+        "en": "Lymph",
+        "as": "লিম্ফ"
+      },
+      {
+        "en": "Food",
+        "as": "খাদ্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pulmonary artery carries deoxygenated blood from the heart to the lungs.",
+      "as": "পালমনেৰী ধমনীয়ে হৃদযন্ত্ৰৰ পৰা হাওঁফাওঁলৈ অক্সিজেনহীন তেজ লৈ যায়।"
+    }
+  },
+  {
+    "id": "biology-110",
+    "q": {
+      "en": "The smallest structural and functional unit of muscle is?",
+      "as": "মাংসপেশীৰ আটাইতকৈ সৰু গাঁথনিগত আৰু কাৰ্যকৰী একক কি?"
+    },
+    "options": [
+      {
+        "en": "Sarcomere",
+        "as": "চাৰ্ক’মিয়াৰ"
+      },
+      {
+        "en": "Neuron",
+        "as": "নিউৰন"
+      },
+      {
+        "en": "Nephron",
+        "as": "নেফ্ৰন"
+      },
+      {
+        "en": "Alveolus",
+        "as": "এলভিঅলাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The sarcomere is the smallest structural and functional unit of a muscle.",
+      "as": "চাৰ্ক’মিয়াৰ মাংসপেশীৰ আটাইতকৈ সৰু গাঁথনিগত আৰু কাৰ্যকৰী একক।"
+    }
+  },
+  {
+    "id": "biology-130",
+    "q": {
+      "en": "The end product of anaerobic respiration in muscles is?",
+      "as": "মাংসপেশীত অবায়ৱীয় শ্বসনৰ শেষ উৎপাদ কি?"
+    },
+    "options": [
+      {
+        "en": "Ethanol",
+        "as": "ইথানল"
+      },
+      {
+        "en": "CO2 only",
+        "as": "কেৱল CO2"
+      },
+      {
+        "en": "Glucose",
+        "as": "গ্লুকোজ"
+      },
+      {
+        "en": "Lactic acid",
+        "as": "লেক্টিক এচিড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The end product of anaerobic respiration in muscles is lactic acid.",
+      "as": "মাংসপেশীত অবায়ৱীয় শ্বসনৰ শেষ উৎপাদ লেক্টিক এচিড।"
+    }
+  }
+]

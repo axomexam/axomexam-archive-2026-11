@@ -1,0 +1,62 @@
+[
+  {
+    "id": "verbal-reasoning-009",
+    "q": {
+      "en": "In a class of 40, Amit ranks 12th from the top. His rank from the bottom is?",
+      "as": "৪০ জনৰ শ্ৰেণীত অমিত ওপৰৰ পৰা ১২ নম্বৰ। তলৰ পৰা তেওঁৰ স্থান?"
+    },
+    "options": [
+      {
+        "en": "28th",
+        "as": "২৮ নম্বৰ"
+      },
+      {
+        "en": "12th",
+        "as": "১২ নম্বৰ"
+      },
+      {
+        "en": "29th",
+        "as": "২৯ নম্বৰ"
+      },
+      {
+        "en": "30th",
+        "as": "৩০ নম্বৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rank from the bottom = total minus rank from the top plus 1 = 40 minus 12 plus 1 = 29. So his rank from the bottom is 29th.",
+      "as": "তলৰ পৰা স্থান = মুঠ − ওপৰৰ পৰা স্থান + ১ = ৪০ − ১২ + ১ = ২৯। সেয়ে তলৰ পৰা তেওঁৰ স্থান ২৯ নম্বৰ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-074",
+    "q": {
+      "en": "In a class of 30 students, Ravi is 12th from the top. What is his rank from the bottom?",
+      "as": "৩০ জন ছাত্ৰ থকা শ্ৰেণীত ৰবি ওপৰৰ পৰা ১২ নম্বৰ। তলৰ পৰা তেওঁৰ স্থান কিমান?"
+    },
+    "options": [
+      {
+        "en": "18th",
+        "as": "১৮ নম্বৰ"
+      },
+      {
+        "en": "19th",
+        "as": "১৯ নম্বৰ"
+      },
+      {
+        "en": "20th",
+        "as": "২০ নম্বৰ"
+      },
+      {
+        "en": "17th",
+        "as": "১৭ নম্বৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rank from the bottom = total - rank from the top + 1 = 30 - 12 + 1 = 19th.",
+      "as": "তলৰ পৰা স্থান = মুঠ - ওপৰৰ পৰা স্থান + ১ = ৩০ - ১২ + ১ = ১৯ নম্বৰ।"
+    }
+  }
+]

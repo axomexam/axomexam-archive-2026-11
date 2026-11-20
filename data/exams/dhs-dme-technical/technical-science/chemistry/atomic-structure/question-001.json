@@ -1,0 +1,392 @@
+[
+  {
+    "id": "chemistry-003",
+    "q": {
+      "en": "The atomic number of carbon is?",
+      "as": "কাৰ্বনৰ পাৰমাণৱিক সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The atomic number of carbon is 6.",
+      "as": "কাৰ্বনৰ পাৰমাণৱিক সংখ্যা ৬।"
+    }
+  },
+  {
+    "id": "chemistry-017",
+    "q": {
+      "en": "Avogadro's number is approximately?",
+      "as": "এভোগেড্ৰো সংখ্যা প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "6.022 × 10^20",
+        "as": "৬.০২২ × ১০^২০"
+      },
+      {
+        "en": "6.022 × 10^23",
+        "as": "৬.০২২ × ১০^২৩"
+      },
+      {
+        "en": "3.14 × 10^23",
+        "as": "৩.১৪ × ১০^২৩"
+      },
+      {
+        "en": "6.022 × 10^26",
+        "as": "৬.০২২ × ১০^২৬"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Avogadro's number is approximately 6.022 x 10^23.",
+      "as": "এভোগেড্ৰো সংখ্যা প্ৰায় ৬.০২২ × ১০^২৩।"
+    }
+  },
+  {
+    "id": "chemistry-018",
+    "q": {
+      "en": "The atomic number of an element is equal to?",
+      "as": "মৌলৰ পাৰমাণৱিক সংখ্যা কিৰ সমান?"
+    },
+    "options": [
+      {
+        "en": "Number of neutrons",
+        "as": "নিউট্ৰনৰ সংখ্যা"
+      },
+      {
+        "en": "Mass number",
+        "as": "ভৰ সংখ্যা"
+      },
+      {
+        "en": "Number of protons",
+        "as": "প্ৰটনৰ সংখ্যা"
+      },
+      {
+        "en": "Number of nucleons",
+        "as": "নিউক্লিঅনৰ সংখ্যা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The atomic number of an element is equal to the number of protons in its atom.",
+      "as": "মৌলৰ পাৰমাণৱিক সংখ্যা তাৰ পৰমাণুৰ প্ৰটনৰ সংখ্যাৰ সমান।"
+    }
+  },
+  {
+    "id": "chemistry-019",
+    "q": {
+      "en": "Isotopes of an element have the same?",
+      "as": "এটা মৌলৰ আইছটপৰ কি একে?"
+    },
+    "options": [
+      {
+        "en": "Mass number",
+        "as": "ভৰ সংখ্যা"
+      },
+      {
+        "en": "Number of neutrons",
+        "as": "নিউট্ৰনৰ সংখ্যা"
+      },
+      {
+        "en": "Atomic mass",
+        "as": "পাৰমাণৱিক ভৰ"
+      },
+      {
+        "en": "Atomic number",
+        "as": "পাৰমাণৱিক সংখ্যা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Isotopes of an element have the same atomic number but different mass numbers.",
+      "as": "এটা মৌলৰ আইছটপৰ পাৰমাণৱিক সংখ্যা একে কিন্তু ভৰ সংখ্যা বেলেগ।"
+    }
+  },
+  {
+    "id": "chemistry-074",
+    "q": {
+      "en": "Who proposed the atomic theory?",
+      "as": "পাৰমাণৱিক তত্ত্ব কোনে আগবঢ়াইছিল?"
+    },
+    "options": [
+      {
+        "en": "John Dalton",
+        "as": "জন ডালটন"
+      },
+      {
+        "en": "J. J. Thomson",
+        "as": "জে. জে. থমছন"
+      },
+      {
+        "en": "Rutherford",
+        "as": "ৰাদাৰফৰ্ড"
+      },
+      {
+        "en": "Bohr",
+        "as": "ব’ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "John Dalton proposed the atomic theory.",
+      "as": "জন ডালটনে পাৰমাণৱিক তত্ত্ব আগবঢ়াইছিল।"
+    }
+  },
+  {
+    "id": "chemistry-075",
+    "q": {
+      "en": "Electron was discovered by?",
+      "as": "ইলেক্ট্ৰন আৱিষ্কাৰ কৰিছিল কোনে?"
+    },
+    "options": [
+      {
+        "en": "Rutherford",
+        "as": "ৰাদাৰফৰ্ড"
+      },
+      {
+        "en": "J. J. Thomson",
+        "as": "জে. জে. থমছন"
+      },
+      {
+        "en": "Chadwick",
+        "as": "চাডৱিক"
+      },
+      {
+        "en": "Dalton",
+        "as": "ডালটন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "J. J. Thomson discovered the electron.",
+      "as": "জে. জে. থমছনে ইলেক্ট্ৰন আৱিষ্কাৰ কৰিছিল।"
+    }
+  },
+  {
+    "id": "chemistry-076",
+    "q": {
+      "en": "Neutron was discovered by?",
+      "as": "নিউট্ৰন আৱিষ্কাৰ কৰিছিল কোনে?"
+    },
+    "options": [
+      {
+        "en": "Thomson",
+        "as": "থমছন"
+      },
+      {
+        "en": "Rutherford",
+        "as": "ৰাদাৰফৰ্ড"
+      },
+      {
+        "en": "James Chadwick",
+        "as": "জেমছ চাডৱিক"
+      },
+      {
+        "en": "Bohr",
+        "as": "ব’ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "James Chadwick discovered the neutron.",
+      "as": "জেমছ চাডৱিকে নিউট্ৰন আৱিষ্কাৰ কৰিছিল।"
+    }
+  },
+  {
+    "id": "chemistry-077",
+    "q": {
+      "en": "Proton was discovered by?",
+      "as": "প্ৰটন আৱিষ্কাৰ কৰিছিল কোনে?"
+    },
+    "options": [
+      {
+        "en": "Thomson",
+        "as": "থমছন"
+      },
+      {
+        "en": "Chadwick",
+        "as": "চাডৱিক"
+      },
+      {
+        "en": "Dalton",
+        "as": "ডালটন"
+      },
+      {
+        "en": "E. Goldstein / Rutherford",
+        "as": "ই. গোল্ডষ্টাইন / ৰাদাৰফৰ্ড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The proton was discovered by E. Goldstein and later named by Rutherford.",
+      "as": "প্ৰটন ই. গোল্ডষ্টাইনে আৱিষ্কাৰ কৰিছিল আৰু পিছত ৰাদাৰফৰ্ডে নাম দিছিল।"
+    }
+  },
+  {
+    "id": "chemistry-078",
+    "q": {
+      "en": "The nucleus of an atom was discovered by?",
+      "as": "পৰমাণুৰ নিউক্লিয়াছ আৱিষ্কাৰ কৰিছিল কোনে?"
+    },
+    "options": [
+      {
+        "en": "Rutherford",
+        "as": "ৰাদাৰফৰ্ড"
+      },
+      {
+        "en": "Dalton",
+        "as": "ডালটন"
+      },
+      {
+        "en": "Bohr",
+        "as": "ব’ৰ"
+      },
+      {
+        "en": "Thomson",
+        "as": "থমছন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rutherford discovered the nucleus of an atom.",
+      "as": "ৰাদাৰফৰ্ডে পৰমাণুৰ নিউক্লিয়াছ আৱিষ্কাৰ কৰিছিল।"
+    }
+  },
+  {
+    "id": "chemistry-079",
+    "q": {
+      "en": "The number of electrons in the outermost shell of sodium is?",
+      "as": "ছডিয়ামৰ বাহিৰৰ কক্ষত ইলেক্ট্ৰনৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "11",
+        "as": "১১"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Sodium has 1 electron in its outermost shell.",
+      "as": "ছডিয়ামৰ বাহিৰৰ কক্ষত ১ টা ইলেক্ট্ৰন থাকে।"
+    }
+  },
+  {
+    "id": "chemistry-080",
+    "q": {
+      "en": "The valency of oxygen is?",
+      "as": "অক্সিজেনৰ যোজ্যতা কিমান?"
+    },
+    "options": [
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The valency of oxygen is 2.",
+      "as": "অক্সিজেনৰ যোজ্যতা ২।"
+    }
+  },
+  {
+    "id": "chemistry-081",
+    "q": {
+      "en": "The molecular mass of water is?",
+      "as": "পানীৰ আণৱিক ভৰ কিমান?"
+    },
+    "options": [
+      {
+        "en": "16 u",
+        "as": "১৬ ইউ"
+      },
+      {
+        "en": "10 u",
+        "as": "১০ ইউ"
+      },
+      {
+        "en": "20 u",
+        "as": "২০ ইউ"
+      },
+      {
+        "en": "18 u",
+        "as": "১৮ ইউ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The molecular mass of water (H2O) is 18 u.",
+      "as": "পানী (H2O)ৰ আণৱিক ভৰ ১৮ ইউ।"
+    }
+  },
+  {
+    "id": "chemistry-082",
+    "q": {
+      "en": "An element with atomic number 17 is?",
+      "as": "পাৰমাণৱিক সংখ্যা ১৭ থকা মৌল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Chlorine",
+        "as": "ক্লৰিন"
+      },
+      {
+        "en": "Fluorine",
+        "as": "ফ্ল’ৰিন"
+      },
+      {
+        "en": "Bromine",
+        "as": "ব্ৰমিন"
+      },
+      {
+        "en": "Sodium",
+        "as": "ছডিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The element with atomic number 17 is chlorine.",
+      "as": "পাৰমাণৱিক সংখ্যা ১৭ থকা মৌলটো ক্লৰিন।"
+    }
+  }
+]

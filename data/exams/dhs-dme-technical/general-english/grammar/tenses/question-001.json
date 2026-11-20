@@ -1,0 +1,152 @@
+[
+  {
+    "id": "grammar-001",
+    "q": {
+      "en": "We have been living here ___ 2010.",
+      "as": "আমি 2010 চনৰ পৰা ইয়াত বাস কৰি আছোঁ।"
+    },
+    "options": [
+      {
+        "en": "for",
+        "as": "for"
+      },
+      {
+        "en": "since",
+        "as": "since"
+      },
+      {
+        "en": "from",
+        "as": "from"
+      },
+      {
+        "en": "at",
+        "as": "at"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Since' is used with a point of time in the present perfect continuous.",
+      "as": "present perfect continuous ত নিৰ্দিষ্ট সময়বিন্দুৰ সৈতে 'since' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-002",
+    "q": {
+      "en": "He has been ill ___ two weeks.",
+      "as": "তেওঁ দুসপ্তাহ ধৰি অসুস্থ।"
+    },
+    "options": [
+      {
+        "en": "since",
+        "as": "since"
+      },
+      {
+        "en": "from",
+        "as": "from"
+      },
+      {
+        "en": "for",
+        "as": "for"
+      },
+      {
+        "en": "at",
+        "as": "at"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'For' is used with a period of time.",
+      "as": "সময়ছোৱা বুজাবলৈ 'for' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-006",
+    "q": {
+      "en": "You will not pass ___ you work hard.",
+      "as": "কঠোৰ পৰিশ্ৰম নকৰিলে তুমি উত্তীৰ্ণ নহ'বা।"
+    },
+    "options": [
+      {
+        "en": "if",
+        "as": "if"
+      },
+      {
+        "en": "until",
+        "as": "until"
+      },
+      {
+        "en": "unless",
+        "as": "unless"
+      },
+      {
+        "en": "because",
+        "as": "because"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Unless' means 'if not'.",
+      "as": "'unless' মানে 'যদি নহয়'।"
+    }
+  },
+  {
+    "id": "grammar-017",
+    "q": {
+      "en": "The meeting will be held ___ Monday.",
+      "as": "সভাখন সোমবাৰে অনুষ্ঠিত হ'ব।"
+    },
+    "options": [
+      {
+        "en": "in",
+        "as": "in"
+      },
+      {
+        "en": "at",
+        "as": "at"
+      },
+      {
+        "en": "on",
+        "as": "on"
+      },
+      {
+        "en": "by",
+        "as": "by"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'On' is used with days of the week.",
+      "as": "সপ্তাহৰ দিনবোৰৰ সৈতে 'on' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-057",
+    "q": {
+      "en": "The book ___ I bought yesterday is interesting.",
+      "as": "কালি মই কিনা কিতাপখন আমোদজনক।"
+    },
+    "options": [
+      {
+        "en": "which",
+        "as": "which"
+      },
+      {
+        "en": "who",
+        "as": "who"
+      },
+      {
+        "en": "whom",
+        "as": "whom"
+      },
+      {
+        "en": "whose",
+        "as": "whose"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Which' is the relative pronoun used for things.",
+      "as": "বস্তুৰ বাবে ব্যৱহৃত relative pronoun হৈছে 'which'।"
+    }
+  }
+]

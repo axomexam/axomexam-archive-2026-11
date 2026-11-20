@@ -1,0 +1,62 @@
+[
+  {
+    "id": "biology-124",
+    "q": {
+      "en": "Louis Pasteur is famous for?",
+      "as": "লুই পাষ্টেউৰ কিৰ বাবে প্ৰসিদ্ধ?"
+    },
+    "options": [
+      {
+        "en": "Theory of evolution",
+        "as": "বিৱৰ্তন তত্ত্ব"
+      },
+      {
+        "en": "Germ theory and pasteurisation",
+        "as": "জীৱাণু তত্ত্ব আৰু পাষ্টেৰাইজেচন"
+      },
+      {
+        "en": "Laws of inheritance",
+        "as": "বংশগতিৰ সূত্ৰ"
+      },
+      {
+        "en": "Cell theory",
+        "as": "কোষ তত্ত্ব"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Louis Pasteur is famous for the germ theory of disease and pasteurisation.",
+      "as": "লুই পাষ্টেউৰ ৰোগৰ জীৱাণু তত্ত্ব আৰু পাষ্টেৰাইজেচনৰ বাবে প্ৰসিদ্ধ।"
+    }
+  },
+  {
+    "id": "biology-131",
+    "q": {
+      "en": "Yeast produces alcohol by?",
+      "as": "ঈষ্টে কিৰ দ্বাৰা এলকহল উৎপন্ন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Fermentation",
+        "as": "ফাৰ্মেণ্টেশ্বন"
+      },
+      {
+        "en": "Photosynthesis",
+        "as": "সালোক সংশ্লেষণ"
+      },
+      {
+        "en": "Nitrification",
+        "as": "নাইট্ৰীকৰণ"
+      },
+      {
+        "en": "Transpiration",
+        "as": "বাষ্পমোচন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Yeast produces alcohol by fermentation.",
+      "as": "ঈষ্টে ফাৰ্মেণ্টেশ্বনৰ দ্বাৰা এলকহল উৎপন্ন কৰে।"
+    }
+  }
+]

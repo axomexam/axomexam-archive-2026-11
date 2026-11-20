@@ -1,0 +1,62 @@
+[
+  {
+    "id": "grammar-032",
+    "q": {
+      "en": "Hardly had he reached the station ___ the train left.",
+      "as": "তেওঁ ষ্টেচন পোৱাৰ লগে লগে ৰেলখন গুচি গ'ল।"
+    },
+    "options": [
+      {
+        "en": "when",
+        "as": "when"
+      },
+      {
+        "en": "than",
+        "as": "than"
+      },
+      {
+        "en": "then",
+        "as": "then"
+      },
+      {
+        "en": "that",
+        "as": "that"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Hardly had ... when' is the correct correlative pair.",
+      "as": "'hardly had ... when' হৈছে শুদ্ধ correlative যুগল।"
+    }
+  },
+  {
+    "id": "grammar-033",
+    "q": {
+      "en": "No sooner had he reached home ___ it started raining.",
+      "as": "তেওঁ ঘৰ পোৱাৰ লগে লগে বৰষুণ আৰম্ভ হ'ল।"
+    },
+    "options": [
+      {
+        "en": "when",
+        "as": "when"
+      },
+      {
+        "en": "then",
+        "as": "then"
+      },
+      {
+        "en": "than",
+        "as": "than"
+      },
+      {
+        "en": "that",
+        "as": "that"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'No sooner ... than' is the correct correlative pair.",
+      "as": "'no sooner ... than' হৈছে শুদ্ধ correlative যুগল।"
+    }
+  }
+]

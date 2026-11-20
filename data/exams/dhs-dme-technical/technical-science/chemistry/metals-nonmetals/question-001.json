@@ -1,0 +1,392 @@
+[
+  {
+    "id": "chemistry-053",
+    "q": {
+      "en": "The metal which is liquid at room temperature is?",
+      "as": "কোঠা উষ্ণতাত তৰল থকা ধাতু কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Mercury",
+        "as": "পাৰা"
+      },
+      {
+        "en": "Sodium",
+        "as": "ছডিয়াম"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Aluminium",
+        "as": "এলুমিনিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mercury is the only metal that is liquid at room temperature.",
+      "as": "পাৰা হৈছে কোঠা উষ্ণতাত তৰল থকা একমাত্ৰ ধাতু।"
+    }
+  },
+  {
+    "id": "chemistry-054",
+    "q": {
+      "en": "The non-metal which is liquid at room temperature is?",
+      "as": "কোঠা উষ্ণতাত তৰল থকা অধাতু কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Chlorine",
+        "as": "ক্লৰিন"
+      },
+      {
+        "en": "Bromine",
+        "as": "ব্ৰমিন"
+      },
+      {
+        "en": "Iodine",
+        "as": "আয়ডিন"
+      },
+      {
+        "en": "Sulphur",
+        "as": "ছালফাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bromine is the non-metal that is liquid at room temperature.",
+      "as": "ব্ৰমিন কোঠা উষ্ণতাত তৰল থকা অধাতু।"
+    }
+  },
+  {
+    "id": "chemistry-087",
+    "q": {
+      "en": "The ore of aluminium is?",
+      "as": "এলুমিনিয়ামৰ আকৰ কি?"
+    },
+    "options": [
+      {
+        "en": "Haematite",
+        "as": "হেমাটাইট"
+      },
+      {
+        "en": "Bauxite",
+        "as": "বক্সাইট"
+      },
+      {
+        "en": "Magnetite",
+        "as": "মেগনেটাইট"
+      },
+      {
+        "en": "Galena",
+        "as": "গেলেনা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bauxite is the ore of aluminium.",
+      "as": "বক্সাইট এলুমিনিয়ামৰ আকৰ।"
+    }
+  },
+  {
+    "id": "chemistry-088",
+    "q": {
+      "en": "Haematite is an ore of?",
+      "as": "হেমাটাইট কাৰ আকৰ?"
+    },
+    "options": [
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Aluminium",
+        "as": "এলুমিনিয়াম"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Zinc",
+        "as": "জিংক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Haematite is an ore of iron.",
+      "as": "হেমাটাইট লোৰ আকৰ।"
+    }
+  },
+  {
+    "id": "chemistry-089",
+    "q": {
+      "en": "Galvanisation is coating of iron with?",
+      "as": "গেলভেনাইজেচনত লোৰ ওপৰত কিৰ প্ৰলেপ দিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Tin",
+        "as": "টিন"
+      },
+      {
+        "en": "Aluminium",
+        "as": "এলুমিনিয়াম"
+      },
+      {
+        "en": "Zinc",
+        "as": "জিংক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Galvanisation is the coating of iron with zinc.",
+      "as": "গেলভেনাইজেচনত লোৰ ওপৰত জিংকৰ প্ৰলেপ দিয়া হয়।"
+    }
+  },
+  {
+    "id": "chemistry-090",
+    "q": {
+      "en": "An alloy of copper and zinc is called?",
+      "as": "তাম আৰু জিংকৰ সংকৰক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Brass",
+        "as": "পিতল"
+      },
+      {
+        "en": "Bronze",
+        "as": "কাঁহ"
+      },
+      {
+        "en": "Steel",
+        "as": "ষ্টীল"
+      },
+      {
+        "en": "Solder",
+        "as": "ছল্ডাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An alloy of copper and zinc is called brass.",
+      "as": "তাম আৰু জিংকৰ সংকৰক পিতল (ব্ৰাছ) বোলে।"
+    }
+  },
+  {
+    "id": "chemistry-091",
+    "q": {
+      "en": "Bronze is an alloy of?",
+      "as": "কাঁহ কিৰ সংকৰ?"
+    },
+    "options": [
+      {
+        "en": "Copper and zinc",
+        "as": "তাম আৰু জিংক"
+      },
+      {
+        "en": "Copper and tin",
+        "as": "তাম আৰু টিন"
+      },
+      {
+        "en": "Iron and carbon",
+        "as": "লো আৰু কাৰ্বন"
+      },
+      {
+        "en": "Aluminium and magnesium",
+        "as": "এলুমিনিয়াম আৰু মেগনেছিয়াম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Bronze is an alloy of copper and tin.",
+      "as": "কাঁহ তাম আৰু টিনৰ সংকৰ।"
+    }
+  },
+  {
+    "id": "chemistry-092",
+    "q": {
+      "en": "Stainless steel contains iron, carbon and?",
+      "as": "ষ্টেইনলেছ ষ্টীলত লো, কাৰ্বন আৰু কি থাকে?"
+    },
+    "options": [
+      {
+        "en": "Zinc",
+        "as": "জিংক"
+      },
+      {
+        "en": "Tin",
+        "as": "টিন"
+      },
+      {
+        "en": "Chromium",
+        "as": "ক্ৰমিয়াম"
+      },
+      {
+        "en": "Lead",
+        "as": "চিহ্ন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Stainless steel contains iron, carbon and chromium.",
+      "as": "ষ্টেইনলেছ ষ্টীলত লো, কাৰ্বন আৰু ক্ৰমিয়াম থাকে।"
+    }
+  },
+  {
+    "id": "chemistry-132",
+    "q": {
+      "en": "The most reactive metal among the following is?",
+      "as": "তলৰ ভিতৰত আটাইতকৈ সক্ৰিয় ধাতু কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Potassium",
+        "as": "পটেছিয়াম"
+      },
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      },
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Silver",
+        "as": "ৰূপ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Potassium is the most reactive metal among the given options.",
+      "as": "দিয়া বিকল্পসমূহৰ ভিতৰত পটেছিয়াম আটাইতকৈ সক্ৰিয় ধাতু।"
+    }
+  },
+  {
+    "id": "chemistry-133",
+    "q": {
+      "en": "The least reactive metal among the following is?",
+      "as": "তলৰ ভিতৰত আটাইতকৈ কম সক্ৰিয় ধাতু কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Sodium",
+        "as": "ছডিয়াম"
+      },
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Zinc",
+        "as": "জিংক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gold is the least reactive metal among the given options.",
+      "as": "দিয়া বিকল্পসমূহৰ ভিতৰত সোণ আটাইতকৈ কম সক্ৰিয় ধাতু।"
+    }
+  },
+  {
+    "id": "chemistry-134",
+    "q": {
+      "en": "Which metal is stored under kerosene?",
+      "as": "কোন ধাতু কেৰোছিনত ৰখা হয়?"
+    },
+    "options": [
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Copper",
+        "as": "তাম"
+      },
+      {
+        "en": "Sodium",
+        "as": "ছডিয়াম"
+      },
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sodium is stored under kerosene to prevent it from reacting with air and moisture.",
+      "as": "বায়ু আৰু জলীয় বাষ্পৰ সৈতে বিক্ৰিয়া ৰোধিবলৈ ছডিয়াম কেৰোছিনত ৰখা হয়।"
+    }
+  },
+  {
+    "id": "chemistry-135",
+    "q": {
+      "en": "Which of the following is used in the extraction of iron?",
+      "as": "লো নিষ্কাশনত তলৰ কোনটো ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      },
+      {
+        "en": "KCl",
+        "as": "KCl"
+      },
+      {
+        "en": "NaOH",
+        "as": "NaOH"
+      },
+      {
+        "en": "Coke and limestone in blast furnace",
+        "as": "ব্লাষ্ট ফাৰ্নেছত কক আৰু চুণশিল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Coke and limestone are used in a blast furnace to extract iron.",
+      "as": "ব্লাষ্ট ফাৰ্নেছত লো নিষ্কাশনত কক আৰু চুণশিল ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-139",
+    "q": {
+      "en": "A homogeneous mixture of two or more substances is called?",
+      "as": "দুই বা ততোধিক পদাৰ্থৰ সমসত্ব মিশ্ৰণক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Suspension",
+        "as": "ছুস্পেনচন"
+      },
+      {
+        "en": "Colloid",
+        "as": "কলময় পদাৰ্থ"
+      },
+      {
+        "en": "Compound",
+        "as": "যৌগ"
+      },
+      {
+        "en": "Solution",
+        "as": "দ্ৰৱ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A homogeneous mixture of two or more substances is called a solution.",
+      "as": "দুই বা ততোধিক পদাৰ্থৰ সমসত্ব মিশ্ৰণক দ্ৰৱ বোলে।"
+    }
+  }
+]

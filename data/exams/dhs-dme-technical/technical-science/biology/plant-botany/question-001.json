@@ -1,0 +1,392 @@
+[
+  {
+    "id": "biology-004",
+    "q": {
+      "en": "Photosynthesis occurs in?",
+      "as": "সালোক সংশ্লেষণ ক’ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Chloroplast",
+        "as": "ক্ল’ৰপ্লাষ্ট"
+      },
+      {
+        "en": "Mitochondria",
+        "as": "মাইট’কণ্ড্ৰিয়া"
+      },
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
+      },
+      {
+        "en": "Ribosome",
+        "as": "ৰাইব’জম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Photosynthesis takes place in the chloroplast, which contains chlorophyll.",
+      "as": "সালোক সংশ্লেষণ ক্ল’ৰপ্লাষ্টত হয়, য'ত ক্ল’ৰফিল থাকে।"
+    }
+  },
+  {
+    "id": "biology-005",
+    "q": {
+      "en": "The green pigment in plants is?",
+      "as": "উদ্ভিদৰ সেউজীয়া ৰঞ্জক কি?"
+    },
+    "options": [
+      {
+        "en": "Haemoglobin",
+        "as": "হিমোগ্লবিন"
+      },
+      {
+        "en": "Chlorophyll",
+        "as": "ক্ল’ৰফিল"
+      },
+      {
+        "en": "Melanin",
+        "as": "মেলানিন"
+      },
+      {
+        "en": "Carotene",
+        "as": "কেৰটিন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Chlorophyll is the green pigment that absorbs sunlight for photosynthesis.",
+      "as": "ক্ল’ৰফিল হৈছে সেউজীয়া ৰঞ্জক যিয়ে সালোক সংশ্লেষণৰ বাবে সূৰ্যৰ পোহৰ শোষণ কৰে।"
+    }
+  },
+  {
+    "id": "biology-006",
+    "q": {
+      "en": "The process of preparing food by green plants is called?",
+      "as": "সেউজীয়া উদ্ভিদে খাদ্য প্ৰস্তুত কৰা প্ৰক্ৰিয়াক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Respiration",
+        "as": "শ্বসন"
+      },
+      {
+        "en": "Transpiration",
+        "as": "বাষ্পমোচন"
+      },
+      {
+        "en": "Photosynthesis",
+        "as": "সালোক সংশ্লেষণ"
+      },
+      {
+        "en": "Digestion",
+        "as": "হজম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Green plants prepare food from carbon dioxide and water using sunlight; this process is called photosynthesis.",
+      "as": "সেউজীয়া উদ্ভিদে সূৰ্যৰ পোহৰ ব্যৱহাৰ কৰি কাৰ্বন ডাইঅক্সাইড আৰু পানীৰ পৰা খাদ্য প্ৰস্তুত কৰে; ইয়াক সালোক সংশ্লেষণ বোলে।"
+    }
+  },
+  {
+    "id": "biology-007",
+    "q": {
+      "en": "The gas released during photosynthesis is?",
+      "as": "সালোক সংশ্লেষণত মুক্ত হোৱা গেছ কি?"
+    },
+    "options": [
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Oxygen is released as a by-product during photosynthesis.",
+      "as": "সালোক সংশ্লেষণৰ উপজাত হিচাপে অক্সিজেন মুক্ত হয়।"
+    }
+  },
+  {
+    "id": "biology-041",
+    "q": {
+      "en": "The state flower of Assam is?",
+      "as": "অসমৰ ৰাজ্যিক পুষ্প কি?"
+    },
+    "options": [
+      {
+        "en": "Lotus",
+        "as": "পদুম"
+      },
+      {
+        "en": "Rose",
+        "as": "গোলাপ"
+      },
+      {
+        "en": "Foxtail orchid (Kopou phool)",
+        "as": "কপৌ ফুল"
+      },
+      {
+        "en": "Sunflower",
+        "as": "সূৰ্যমুখী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The foxtail orchid, locally called Kopou phool, is the state flower of Assam.",
+      "as": "কপৌ ফুল অসমৰ ৰাজ্যিক পুষ্প।"
+    }
+  },
+  {
+    "id": "biology-073",
+    "q": {
+      "en": "The study of plants is called?",
+      "as": "উদ্ভিদৰ অধ্যয়নক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Botany",
+        "as": "উদ্ভিদ বিজ্ঞান"
+      },
+      {
+        "en": "Zoology",
+        "as": "প্ৰাণী বিজ্ঞান"
+      },
+      {
+        "en": "Ecology",
+        "as": "পৰিস্থিতি বিজ্ঞান"
+      },
+      {
+        "en": "Anatomy",
+        "as": "শৰীৰস্থান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The study of plants is called botany.",
+      "as": "উদ্ভিদৰ অধ্যয়নক উদ্ভিদ বিজ্ঞান (বটানি) বোলে।"
+    }
+  },
+  {
+    "id": "biology-075",
+    "q": {
+      "en": "The study of fungi is called?",
+      "as": "ভঁইকুৰৰ অধ্যয়নক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Phycology",
+        "as": "শৈবাল বিজ্ঞান"
+      },
+      {
+        "en": "Virology",
+        "as": "ভাইৰাছ বিজ্ঞান"
+      },
+      {
+        "en": "Mycology",
+        "as": "ভঁইকুৰ বিজ্ঞান"
+      },
+      {
+        "en": "Bacteriology",
+        "as": "বেক্টেৰিয়া বিজ্ঞান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The study of fungi is called mycology.",
+      "as": "ভঁইকুৰৰ অধ্যয়নক ভঁইকুৰ বিজ্ঞান (মাইক’লজি) বোলে।"
+    }
+  },
+  {
+    "id": "biology-078",
+    "q": {
+      "en": "Xylem in plants transports?",
+      "as": "উদ্ভিদৰ জাইলেমে কি পৰিবহণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Food",
+        "as": "খাদ্য"
+      },
+      {
+        "en": "Water and minerals",
+        "as": "পানী আৰু খনিজ পদাৰ্থ"
+      },
+      {
+        "en": "Oxygen only",
+        "as": "কেৱল অক্সিজেন"
+      },
+      {
+        "en": "Hormones only",
+        "as": "কেৱল হৰম’ন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Xylem transports water and minerals from the roots to other parts of the plant.",
+      "as": "জাইলেমে শিপাৰ পৰা পানী আৰু খনিজ পদাৰ্থ উদ্ভিদৰ আন অংশলৈ পৰিবহণ কৰে।"
+    }
+  },
+  {
+    "id": "biology-079",
+    "q": {
+      "en": "Phloem in plants transports?",
+      "as": "উদ্ভিদৰ ফ্ল’য়েমে কি পৰিবহণ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Water only",
+        "as": "কেৱল পানী"
+      },
+      {
+        "en": "Minerals only",
+        "as": "কেৱল খনিজ"
+      },
+      {
+        "en": "Food (organic nutrients)",
+        "as": "খাদ্য (জৈৱিক পুষ্টিকৰ পদাৰ্থ)"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Phloem transports prepared food (organic nutrients) in plants.",
+      "as": "ফ্ল’য়েমে উদ্ভিদত প্ৰস্তুত খাদ্য (জৈৱিক পুষ্টিকৰ পদাৰ্থ) পৰিবহণ কৰে।"
+    }
+  },
+  {
+    "id": "biology-080",
+    "q": {
+      "en": "Stomata are present mainly on?",
+      "as": "ষ্ট’মেটা মূলতঃ ক’ত থাকে?"
+    },
+    "options": [
+      {
+        "en": "Roots",
+        "as": "শিপা"
+      },
+      {
+        "en": "Stem wood",
+        "as": "কাণ্ডৰ কাঠ"
+      },
+      {
+        "en": "Flowers only",
+        "as": "কেৱল ফুল"
+      },
+      {
+        "en": "Leaves",
+        "as": "পাত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Stomata are tiny pores present mainly on the leaves.",
+      "as": "ষ্ট’মেটা মূলতঃ পাতত থকা সূক্ষ্ম ৰন্ধ্ৰ।"
+    }
+  },
+  {
+    "id": "biology-081",
+    "q": {
+      "en": "Transpiration is the process of?",
+      "as": "বাষ্পমোচন কি প্ৰক্ৰিয়া?"
+    },
+    "options": [
+      {
+        "en": "Loss of water vapour from plants",
+        "as": "উদ্ভিদৰ পৰা জলীয় বাষ্প হেৰুৱা"
+      },
+      {
+        "en": "Absorption of water",
+        "as": "পানী শোষণ"
+      },
+      {
+        "en": "Food making",
+        "as": "খাদ্য প্ৰস্তুত"
+      },
+      {
+        "en": "Respiration",
+        "as": "শ্বসন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Transpiration is the loss of water vapour from the aerial parts of plants.",
+      "as": "বাষ্পমোচন হৈছে উদ্ভিদৰ বায়ৱীয় অংশৰ পৰা জলীয় বাষ্প হেৰুওৱা প্ৰক্ৰিয়া।"
+    }
+  },
+  {
+    "id": "biology-082",
+    "q": {
+      "en": "The largest flower in the world is?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ ফুল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Rose",
+        "as": "গোলাপ"
+      },
+      {
+        "en": "Rafflesia",
+        "as": "ৰাফ্লেছিয়া"
+      },
+      {
+        "en": "Lotus",
+        "as": "পদুম"
+      },
+      {
+        "en": "Sunflower",
+        "as": "সূৰ্যমুখী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rafflesia is the largest flower in the world.",
+      "as": "ৰাফ্লেছিয়া বিশ্বৰ আটাইতকৈ ডাঙৰ ফুল।"
+    }
+  },
+  {
+    "id": "biology-132",
+    "q": {
+      "en": "The nitrogen cycle is important because plants need nitrogen for?",
+      "as": "নাইট্ৰজেন চক্ৰ গুৰুত্বপূৰ্ণ কাৰণ উদ্ভিদক নাইট্ৰজেন কিৰ বাবে লাগে?"
+    },
+    "options": [
+      {
+        "en": "Making fats only",
+        "as": "কেৱল চৰ্বি তৈয়াৰ"
+      },
+      {
+        "en": "Making proteins",
+        "as": "প্ৰ’টিন তৈয়াৰ"
+      },
+      {
+        "en": "Making starch only",
+        "as": "কেৱল ষ্টাৰ্চ তৈয়াৰ"
+      },
+      {
+        "en": "Making cellulose only",
+        "as": "কেৱল চেলুলোজ তৈয়াৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Plants need nitrogen to make proteins.",
+      "as": "উদ্ভিদক প্ৰ’টিন তৈয়াৰ কৰিবলৈ নাইট্ৰজেন লাগে।"
+    }
+  }
+]

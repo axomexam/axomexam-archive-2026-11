@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vocabulary-071",
+    "q": {
+      "en": "Fill in the blank: 'He is senior ___ me.'",
+      "as": "খালী ঠাই পূৰণ কৰক: 'He is senior ___ me.'"
+    },
+    "options": [
+      {
+        "en": "to",
+        "as": "লৈ"
+      },
+      {
+        "en": "from",
+        "as": "পৰা"
+      },
+      {
+        "en": "by",
+        "as": "দ্বাৰা"
+      },
+      {
+        "en": "than",
+        "as": "তকৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The adjective 'senior' is followed by 'to', so 'senior to me' is correct.",
+      "as": "'senior' ৰ পিছত 'to' ব্যৱহাৰ হয়, সেয়ে 'senior to me' শুদ্ধ।"
+    }
+  }
+]

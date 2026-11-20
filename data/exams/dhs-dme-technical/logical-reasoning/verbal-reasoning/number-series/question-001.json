@@ -1,0 +1,362 @@
+[
+  {
+    "id": "verbal-reasoning-003",
+    "q": {
+      "en": "Complete the series: B, D, G, K, ?",
+      "as": "শ্ৰেণী সম্পূৰ্ণ কৰক: B, D, G, K, ?"
+    },
+    "options": [
+      {
+        "en": "N",
+        "as": "N"
+      },
+      {
+        "en": "P",
+        "as": "P"
+      },
+      {
+        "en": "O",
+        "as": "O"
+      },
+      {
+        "en": "M",
+        "as": "M"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The gaps between consecutive letters increase by one: B to D is +2, D to G is +3, G to K is +4; so the next gap is +5, giving K+5 = P.",
+      "as": "ক্ৰমাগত আখৰৰ মাজৰ ব্যৱধান একেৰাহে বাঢ়ে: B→D (+২), D→G (+৩), G→K (+৪); সেয়ে পৰৱৰ্তী ব্যৱধান +৫, অৰ্থাৎ K+৫ = P।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-007",
+    "q": {
+      "en": "Find the next number: 100, 96, 88, 76, ?",
+      "as": "পৰৱৰ্তী সংখ্যা: ১০০, ৯৬, ৮৮, ৭৬, ?"
+    },
+    "options": [
+      {
+        "en": "64",
+        "as": "৬৪"
+      },
+      {
+        "en": "60",
+        "as": "৬০"
+      },
+      {
+        "en": "62",
+        "as": "৬২"
+      },
+      {
+        "en": "70",
+        "as": "৭০"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The numbers decrease by 4, 8 and 12 respectively, so the next decrease is 16: 76 minus 16 = 60. Hence 60.",
+      "as": "সংখ্যাকেইটা ক্ৰমে ৪, ৮ আৰু ১২ ৰ হাৰত কমিছে; সেয়ে পৰৱৰ্তী হ্ৰাস ১৬: ৭৬ − ১৬ = ৬০। সেয়ে ৬০।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-012",
+    "q": {
+      "en": "Complete: 7, 14, 28, 56, ?",
+      "as": "সম্পূৰ্ণ কৰক: ৭, ১৪, ২৮, ৫৬, ?"
+    },
+    "options": [
+      {
+        "en": "70",
+        "as": "৭০"
+      },
+      {
+        "en": "84",
+        "as": "৮৪"
+      },
+      {
+        "en": "112",
+        "as": "১১২"
+      },
+      {
+        "en": "98",
+        "as": "৯৮"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Each term is double the previous term (7x2=14, 14x2=28, 28x2=56); so the next term is 56x2=112.",
+      "as": "প্ৰতিটো পদ আগৰ পদৰ দুগুণ (৭×২=১৪, ১৪×২=২৮, ২৮×২=৫৬); সেয়ে পৰৱৰ্তী পদ ৫৬×২=১১২।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-022",
+    "q": {
+      "en": "Find the next number: 4, 9, 16, 25, ?",
+      "as": "পৰৱৰ্তী সংখ্যা: ৪, ৯, ১৬, ২৫, ?"
+    },
+    "options": [
+      {
+        "en": "36",
+        "as": "৩৬"
+      },
+      {
+        "en": "30",
+        "as": "৩০"
+      },
+      {
+        "en": "35",
+        "as": "৩৫"
+      },
+      {
+        "en": "49",
+        "as": "৪৯"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The terms are squares of 2, 3, 4 and 5 (4=2², 9=3², 16=4², 25=5²); the next term is 6² = 36.",
+      "as": "সংখ্যাকেইটা ক্ৰমে ২, ৩, ৪ আৰু ৫ ৰ বৰ্গ (৪=২², ৯=৩², ১৬=৪², ২৫=৫²); সেয়ে পৰৱৰ্তী সংখ্যা ৬² = ৩৬।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-027",
+    "q": {
+      "en": "Complete the series: ACE, BDF, CEG, ?",
+      "as": "শ্ৰেণী সম্পূৰ্ণ কৰক: ACE, BDF, CEG, ?"
+    },
+    "options": [
+      {
+        "en": "DEF",
+        "as": "DEF"
+      },
+      {
+        "en": "DFH",
+        "as": "DFH"
+      },
+      {
+        "en": "CEH",
+        "as": "CEH"
+      },
+      {
+        "en": "DGI",
+        "as": "DGI"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Each term is obtained by moving all its letters one step forward: ACE→BDF→CEG. The next term is therefore DFH.",
+      "as": "প্ৰতিটো পদত সকলো আখৰ এখোজ আগুৱাইছে: ACE→BDF→CEG। সেয়ে পৰৱৰ্তী পদ DFH।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-032",
+    "q": {
+      "en": "Find the next number: 81, 27, 9, 3, ?",
+      "as": "পৰৱৰ্তী সংখ্যা: ৮১, ২৭, ৯, ৩, ?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "0",
+        "as": "০"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Each term is one-third of the previous term: 81÷3=27, 27÷3=9, 9÷3=3, so 3÷3 = 1.",
+      "as": "প্ৰতিটো সংখ্যা পূৰ্বৰ সংখ্যাৰ এক তৃতীয়াংশ: ৮১÷৩=২৭, ২৭÷৩=৯, ৯÷৩=৩, সেয়ে ৩÷৩ = ১।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-037",
+    "q": {
+      "en": "Complete: 5, 6, 9, 14, 21, ?",
+      "as": "সম্পূৰ্ণ কৰক: ৫, ৬, ৯, ১৪, ২১, ?"
+    },
+    "options": [
+      {
+        "en": "28",
+        "as": "২৮"
+      },
+      {
+        "en": "29",
+        "as": "২৯"
+      },
+      {
+        "en": "30",
+        "as": "৩০"
+      },
+      {
+        "en": "32",
+        "as": "৩২"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The differences between consecutive terms are 1, 3, 5, 7, ...; the next difference is 9, so 21 + 9 = 30.",
+      "as": "ক্ৰমিক পদবোৰৰ পাৰ্থক্য ক্ৰমে ১, ৩, ৫, ৭, ...; পৰৱৰ্তী পাৰ্থক্য ৯, সেয়ে ২১ + ৯ = ৩০।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-047",
+    "q": {
+      "en": "Find the next number: 2, 3, 5, 8, 12, ?",
+      "as": "পৰৱৰ্তী সংখ্যা: ২, ৩, ৫, ৮, ১২, ?"
+    },
+    "options": [
+      {
+        "en": "17",
+        "as": "১৭"
+      },
+      {
+        "en": "16",
+        "as": "১৬"
+      },
+      {
+        "en": "18",
+        "as": "১৮"
+      },
+      {
+        "en": "20",
+        "as": "২০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The differences between consecutive terms increase by 1: +1, +2, +3, +4. The next difference is +5, so 12 + 5 = 17.",
+      "as": "ক্ৰমিক পদবোৰৰ পাৰ্থক্য ক্ৰমে ১, ২, ৩, ৪ বাঢ়ি আছে; পৰৱৰ্তী পাৰ্থক্য ৫, সেয়ে ১২ + ৫ = ১৭।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-052",
+    "q": {
+      "en": "Complete the series: AZ, BY, CX, ?",
+      "as": "শ্ৰেণী সম্পূৰ্ণ কৰক: AZ, BY, CX, ?"
+    },
+    "options": [
+      {
+        "en": "EV",
+        "as": "EV"
+      },
+      {
+        "en": "DW",
+        "as": "DW"
+      },
+      {
+        "en": "DU",
+        "as": "DU"
+      },
+      {
+        "en": "DY",
+        "as": "DY"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The first letters move forward A, B, C, D while the second letters move backward Z, Y, X, W. The next term is DW.",
+      "as": "প্ৰথম আখৰ ক্ৰমে A, B, C, D আগুৱায় আৰু দ্বিতীয় আখৰ Z, Y, X, W পিছলৈ যায়। পৰৱৰ্তী পদ DW।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-057",
+    "q": {
+      "en": "Find the next number: 1, 8, 27, 64, ?",
+      "as": "পৰৱৰ্তী সংখ্যা: ১, ৮, ২৭, ৬৪, ?"
+    },
+    "options": [
+      {
+        "en": "81",
+        "as": "৮১"
+      },
+      {
+        "en": "125",
+        "as": "১২৫"
+      },
+      {
+        "en": "100",
+        "as": "১০০"
+      },
+      {
+        "en": "121",
+        "as": "১২১"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The terms are cubes of 1, 2, 3 and 4 (1, 8, 27, 64). The next term is 5³ = 125.",
+      "as": "পদবোৰ ১, ২, ৩, ৪ ৰ ঘন (১, ৮, ২৭, ৬৪)। পৰৱৰ্তী পদ ৫³ = ১২৫।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-062",
+    "q": {
+      "en": "Complete: 10, 11, 13, 16, 20, ?",
+      "as": "সম্পূৰ্ণ কৰক: ১০, ১১, ১৩, ১৬, ২০, ?"
+    },
+    "options": [
+      {
+        "en": "24",
+        "as": "২৪"
+      },
+      {
+        "en": "26",
+        "as": "২৬"
+      },
+      {
+        "en": "25",
+        "as": "২৫"
+      },
+      {
+        "en": "30",
+        "as": "৩০"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The differences are 1, 2, 3, 4; the next difference is 5, so 20 + 5 = 25.",
+      "as": "পাৰ্থক্য ক্ৰমে ১, ২, ৩, ৪; পৰৱৰ্তী পাৰ্থক্য ৫, সেয়ে ২০ + ৫ = ২৫।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-079",
+    "q": {
+      "en": "Complete the series: B, D, F, H, ?",
+      "as": "শ্ৰেণী সম্পূৰ্ণ কৰক: B, D, F, H, ?"
+    },
+    "options": [
+      {
+        "en": "I",
+        "as": "I"
+      },
+      {
+        "en": "J",
+        "as": "J"
+      },
+      {
+        "en": "K",
+        "as": "K"
+      },
+      {
+        "en": "L",
+        "as": "L"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Each letter skips one letter in the alphabet (B, D, F, H), so the next letter is J.",
+      "as": "প্ৰতিটো আখৰে এটা আখৰ এৰি আগবাঢ়ে (B, D, F, H); সেয়ে পৰৱৰ্তী আখৰ J।"
+    }
+  }
+]

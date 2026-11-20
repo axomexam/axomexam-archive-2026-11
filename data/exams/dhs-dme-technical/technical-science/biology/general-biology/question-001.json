@@ -1,0 +1,212 @@
+[
+  {
+    "id": "biology-034",
+    "q": {
+      "en": "Which of the following is a primary consumer?",
+      "as": "তলৰ কোনটো প্ৰাথমিক উপভোক্তা?"
+    },
+    "options": [
+      {
+        "en": "Tiger",
+        "as": "বাঘ"
+      },
+      {
+        "en": "Grass",
+        "as": "ঘাঁহ"
+      },
+      {
+        "en": "Deer",
+        "as": "হৰিণ"
+      },
+      {
+        "en": "Eagle",
+        "as": "ঈগল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A deer, which eats plants, is a primary consumer.",
+      "as": "উদ্ভিদ খোৱা হৰিণ এক প্ৰাথমিক উপভোক্তা।"
+    }
+  },
+  {
+    "id": "biology-040",
+    "q": {
+      "en": "The protection and management of natural resources is called?",
+      "as": "প্ৰাকৃতিক সম্পদৰ সুৰক্ষা আৰু পৰিচালনাক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Conservation",
+        "as": "সংৰক্ষণ"
+      },
+      {
+        "en": "Pollution",
+        "as": "প্ৰদূষণ"
+      },
+      {
+        "en": "Deforestation",
+        "as": "বনাঞ্চল ধ্বংস"
+      },
+      {
+        "en": "Urbanisation",
+        "as": "নগৰীকৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The protection and management of natural resources is called conservation.",
+      "as": "প্ৰাকৃতিক সম্পদৰ সুৰক্ষা আৰু পৰিচালনাক সংৰক্ষণ বোলা হয়।"
+    }
+  },
+  {
+    "id": "biology-042",
+    "q": {
+      "en": "The state tree of Assam is?",
+      "as": "অসমৰ ৰাজ্যিক বৃক্ষ কি?"
+    },
+    "options": [
+      {
+        "en": "Banyan",
+        "as": "বট"
+      },
+      {
+        "en": "Peepal",
+        "as": "পিপুল"
+      },
+      {
+        "en": "Mango",
+        "as": "আম"
+      },
+      {
+        "en": "Hollong",
+        "as": "হ'লং"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Hollong is the state tree of Assam.",
+      "as": "হ'লং অসমৰ ৰাজ্যিক বৃক্ষ।"
+    }
+  },
+  {
+    "id": "biology-071",
+    "q": {
+      "en": "Meiosis occurs in?",
+      "as": "মিয়’ছিছ ক’ত হয়?"
+    },
+    "options": [
+      {
+        "en": "Somatic cells",
+        "as": "দেহ কোষ"
+      },
+      {
+        "en": "All plant cells",
+        "as": "সকলো উদ্ভিদ কোষ"
+      },
+      {
+        "en": "Reproductive cells",
+        "as": "প্ৰজনন কোষ"
+      },
+      {
+        "en": "RBC only",
+        "as": "কেৱল ৰক্ত কণিকা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Meiosis occurs in reproductive cells to form gametes.",
+      "as": "মিয়’ছিছ প্ৰজনন কোষত হয় আৰু গেমেট সৃষ্টি কৰে।"
+    }
+  },
+  {
+    "id": "biology-085",
+    "q": {
+      "en": "Stethoscope is used to?",
+      "as": "ষ্টেথ’স্কোপ কি কাৰণে ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Measure temperature",
+        "as": "উষ্ণতা জোখা"
+      },
+      {
+        "en": "Measure blood pressure only",
+        "as": "কেৱল ৰক্তচাপ জোখা"
+      },
+      {
+        "en": "Measure humidity",
+        "as": "আৰ্দ্ৰতা জোখা"
+      },
+      {
+        "en": "Listen to heart and lung sounds",
+        "as": "হৃদযন্ত্ৰ আৰু হাওঁফাওঁৰ শব্দ শুনা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A stethoscope is used to listen to heart and lung sounds.",
+      "as": "ষ্টেথ’স্কোপ হৃদযন্ত্ৰ আৰু হাওঁফাওঁৰ শব্দ শুনিবলৈ ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "biology-118",
+    "q": {
+      "en": "The scientific name of man is?",
+      "as": "মানুহৰ বৈজ্ঞানিক নাম কি?"
+    },
+    "options": [
+      {
+        "en": "Homo sapiens",
+        "as": "হোম’ চেপিয়েন্স"
+      },
+      {
+        "en": "Homo erectus",
+        "as": "হোম’ ইৰেক্টাছ"
+      },
+      {
+        "en": "Pan troglodytes",
+        "as": "পেন ট্ৰ’গ্ল’ডাইটিছ"
+      },
+      {
+        "en": "Felis domestica",
+        "as": "ফেলিছ ডমেষ্টিকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The scientific name of man is Homo sapiens.",
+      "as": "মানুহৰ বৈজ্ঞানিক নাম হোম’ চেপিয়েন্স।"
+    }
+  },
+  {
+    "id": "biology-129",
+    "q": {
+      "en": "The process of taking in oxygen and giving out carbon dioxide is?",
+      "as": "অক্সিজেন লোৱা আৰু কাৰ্বন ডাইঅক্সাইড এৰা প্ৰক্ৰিয়াক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Photosynthesis",
+        "as": "সালোক সংশ্লেষণ"
+      },
+      {
+        "en": "Transpiration",
+        "as": "বাষ্পমোচন"
+      },
+      {
+        "en": "Respiration",
+        "as": "শ্বসন"
+      },
+      {
+        "en": "Excretion",
+        "as": "ৰেচন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Respiration is the process of taking in oxygen and giving out carbon dioxide.",
+      "as": "অক্সিজেন লোৱা আৰু কাৰ্বন ডাইঅক্সাইড এৰা প্ৰক্ৰিয়াক শ্বসন বোলে।"
+    }
+  }
+]

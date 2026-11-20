@@ -1,0 +1,482 @@
+[
+  {
+    "id": "biology-038",
+    "q": {
+      "en": "The national animal of India is?",
+      "as": "ভাৰতৰ ৰাষ্ট্ৰীয় জীৱ কি?"
+    },
+    "options": [
+      {
+        "en": "Lion",
+        "as": "সিংহ"
+      },
+      {
+        "en": "Elephant",
+        "as": "হাতী"
+      },
+      {
+        "en": "Peacock",
+        "as": "ময়ূৰ"
+      },
+      {
+        "en": "Tiger",
+        "as": "বাঘ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The tiger is the national animal of India.",
+      "as": "বাঘ ভাৰতৰ ৰাষ্ট্ৰীয় জীৱ।"
+    }
+  },
+  {
+    "id": "biology-044",
+    "q": {
+      "en": "Which is the only ape found in India, also found in Assam?",
+      "as": "ভাৰতত পোৱা একমাত্ৰ নৰবান্দৰ কোনটো, যি অসমতো পোৱা যায়?"
+    },
+    "options": [
+      {
+        "en": "Hoolock gibbon",
+        "as": "হলৌ বান্দৰ"
+      },
+      {
+        "en": "Langur",
+        "as": "লঙুৰ"
+      },
+      {
+        "en": "Rhesus monkey",
+        "as": "ৰিছাছ মাকড়ি"
+      },
+      {
+        "en": "Gorilla",
+        "as": "গৰিলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The hoolock gibbon is the only ape found in India and is found in Assam.",
+      "as": "হলৌ বান্দৰ ভাৰতত পোৱা একমাত্ৰ নৰবান্দৰ আৰু ই অসমত পোৱা যায়।"
+    }
+  },
+  {
+    "id": "biology-045",
+    "q": {
+      "en": "The largest land animal is?",
+      "as": "স্থলৰ আটাইতকৈ ডাঙৰ প্ৰাণী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Tiger",
+        "as": "বাঘ"
+      },
+      {
+        "en": "Rhinoceros",
+        "as": "গঁড়"
+      },
+      {
+        "en": "Elephant",
+        "as": "হাতী"
+      },
+      {
+        "en": "Giraffe",
+        "as": "জিৰাফ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The elephant is the largest land animal.",
+      "as": "হাতী স্থলৰ আটাইতকৈ ডাঙৰ প্ৰাণী।"
+    }
+  },
+  {
+    "id": "biology-046",
+    "q": {
+      "en": "The largest mammal in the world is?",
+      "as": "বিশ্বৰ আটাইতকৈ ডাঙৰ স্তন্যপায়ী প্ৰাণী কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Elephant",
+        "as": "হাতী"
+      },
+      {
+        "en": "Giraffe",
+        "as": "জিৰাফ"
+      },
+      {
+        "en": "Hippopotamus",
+        "as": "জলহস্তী"
+      },
+      {
+        "en": "Blue whale",
+        "as": "নীল তিমি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The blue whale is the largest mammal in the world.",
+      "as": "নীল তিমি বিশ্বৰ আটাইতকৈ ডাঙৰ স্তন্যপায়ী প্ৰাণী।"
+    }
+  },
+  {
+    "id": "biology-047",
+    "q": {
+      "en": "The animal known as the ship of the desert is?",
+      "as": "মৰুভূমিৰ জাহাজ বুলি জনাজাত প্ৰাণীটো কি?"
+    },
+    "options": [
+      {
+        "en": "Camel",
+        "as": "উট"
+      },
+      {
+        "en": "Horse",
+        "as": "ঘোঁৰা"
+      },
+      {
+        "en": "Donkey",
+        "as": "গাধ"
+      },
+      {
+        "en": "Elephant",
+        "as": "হাতী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The camel is known as the ship of the desert.",
+      "as": "উটক মৰুভূমিৰ জাহাজ বুলি জনা যায়।"
+    }
+  },
+  {
+    "id": "biology-074",
+    "q": {
+      "en": "The study of animals is called?",
+      "as": "প্ৰাণীৰ অধ্যয়নক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Botany",
+        "as": "উদ্ভিদ বিজ্ঞান"
+      },
+      {
+        "en": "Zoology",
+        "as": "প্ৰাণী বিজ্ঞান"
+      },
+      {
+        "en": "Geology",
+        "as": "ভূবিজ্ঞান"
+      },
+      {
+        "en": "Mycology",
+        "as": "ভঁইকুৰ বিজ্ঞান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The study of animals is called zoology.",
+      "as": "প্ৰাণীৰ অধ্যয়নক প্ৰাণী বিজ্ঞান (জুৱলজি) বোলে।"
+    }
+  },
+  {
+    "id": "biology-094",
+    "q": {
+      "en": "The largest ocean animal is?",
+      "as": "সাগৰৰ আটাইতকৈ ডাঙৰ প্ৰাণী কি?"
+    },
+    "options": [
+      {
+        "en": "Blue whale",
+        "as": "নীল তিমি"
+      },
+      {
+        "en": "Shark",
+        "as": "হাংগৰ"
+      },
+      {
+        "en": "Dolphin",
+        "as": "ডলফিন"
+      },
+      {
+        "en": "Octopus",
+        "as": "অক্ট’পাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The blue whale is the largest animal in the ocean and on Earth.",
+      "as": "নীল তিমি সাগৰৰ আৰু পৃথিৱীৰ আটাইতকৈ ডাঙৰ প্ৰাণী।"
+    }
+  },
+  {
+    "id": "biology-095",
+    "q": {
+      "en": "Which of the following is a mammal that lays eggs?",
+      "as": "তলৰ কোনটো কণী পাৰা স্তন্যপায়ী?"
+    },
+    "options": [
+      {
+        "en": "Kangaroo",
+        "as": "কেংগাৰু"
+      },
+      {
+        "en": "Whale",
+        "as": "তিমি"
+      },
+      {
+        "en": "Bat",
+        "as": "বাদুলি"
+      },
+      {
+        "en": "Platypus",
+        "as": "প্লেটিপাছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The platypus is a mammal that lays eggs.",
+      "as": "প্লেটিপাছ এটা কণী পাৰা স্তন্যপায়ী প্ৰাণী।"
+    }
+  },
+  {
+    "id": "biology-096",
+    "q": {
+      "en": "Which of the following is a flying mammal?",
+      "as": "তলৰ কোনটো উৰণীয়া স্তন্যপায়ী?"
+    },
+    "options": [
+      {
+        "en": "Ostrich",
+        "as": "উটচৰাই"
+      },
+      {
+        "en": "Penguin",
+        "as": "পেংগুইন"
+      },
+      {
+        "en": "Bat",
+        "as": "বাদুলি"
+      },
+      {
+        "en": "Kiwi",
+        "as": "কিৱি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The bat is a flying mammal.",
+      "as": "বাদুলি এটা উৰণীয়া স্তন্যপায়ী প্ৰাণী।"
+    }
+  },
+  {
+    "id": "biology-097",
+    "q": {
+      "en": "The one-horned rhinoceros of Assam is mainly found in?",
+      "as": "অসমৰ এশিংৰীয়া গঁড় মূলতঃ ক’ত পোৱা যায়?"
+    },
+    "options": [
+      {
+        "en": "Kaziranga National Park",
+        "as": "কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান"
+      },
+      {
+        "en": "Sundarbans only",
+        "as": "কেৱল সুন্দৰবন"
+      },
+      {
+        "en": "Gir Forest",
+        "as": "গিৰ অৰণ্য"
+      },
+      {
+        "en": "Jim Corbett only",
+        "as": "কেৱল জিম কৰ্বেট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The one-horned rhinoceros of Assam is mainly found in Kaziranga National Park.",
+      "as": "অসমৰ এশিংৰীয়া গঁড় মূলতঃ কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যানত পোৱা যায়।"
+    }
+  },
+  {
+    "id": "biology-120",
+    "q": {
+      "en": "The five-kingdom classification was proposed by?",
+      "as": "পাঁচ ৰাজ্যৰ শ্ৰেণীবিভাজন কোনে প্ৰস্তাৱ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Linnaeus",
+        "as": "লিনিয়াছ"
+      },
+      {
+        "en": "Darwin",
+        "as": "ডাৰউইন"
+      },
+      {
+        "en": "R. H. Whittaker",
+        "as": "আৰ. এইচ. হুইটেকাৰ"
+      },
+      {
+        "en": "Mendel",
+        "as": "মেণ্ডেল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "R. H. Whittaker proposed the five-kingdom classification.",
+      "as": "আৰ. এইচ. হুইটেকাৰে পাঁচ ৰাজ্যৰ শ্ৰেণীবিভাজন প্ৰস্তাৱ কৰিছিল।"
+    }
+  },
+  {
+    "id": "biology-123",
+    "q": {
+      "en": "The father of modern biology / taxonomy is often regarded as?",
+      "as": "আধুনিক জীৱবিজ্ঞান / টেক্স’নমিৰ জনক বুলি প্ৰায়ে কাক গণ্য কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Aristotle",
+        "as": "এৰিষ্ট’টল"
+      },
+      {
+        "en": "Darwin",
+        "as": "ডাৰউইন"
+      },
+      {
+        "en": "Mendel",
+        "as": "মেণ্ডেল"
+      },
+      {
+        "en": "Pasteur",
+        "as": "পাষ্টেউৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Aristotle is often regarded as the father of modern biology and taxonomy.",
+      "as": "এৰিষ্ট’টলক প্ৰায়ে আধুনিক জীৱবিজ্ঞান আৰু টেক্স’নমিৰ জনক বুলি গণ্য কৰা হয়।"
+    }
+  },
+  {
+    "id": "biology-136",
+    "q": {
+      "en": "Kaziranga is famous for which animal?",
+      "as": "কাজিৰঙা কোন প্ৰাণীৰ বাবে প্ৰসিদ্ধ?"
+    },
+    "options": [
+      {
+        "en": "Asiatic lion",
+        "as": "এছিয়াৰ সিংহ"
+      },
+      {
+        "en": "One-horned rhinoceros",
+        "as": "এশিংৰীয়া গঁড়"
+      },
+      {
+        "en": "Penguin",
+        "as": "পেংগুইন"
+      },
+      {
+        "en": "Polar bear",
+        "as": "মেৰু ভালুক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Kaziranga is famous for the one-horned rhinoceros.",
+      "as": "কাজিৰঙা এশিংৰীয়া গঁড়ৰ বাবে প্ৰসিদ্ধ।"
+    }
+  },
+  {
+    "id": "biology-138",
+    "q": {
+      "en": "Golden langur is found mainly in?",
+      "as": "সোণালী বান্দৰ মূলতঃ ক’ত পোৱা যায়?"
+    },
+    "options": [
+      {
+        "en": "Rajasthan",
+        "as": "ৰাজস্থান"
+      },
+      {
+        "en": "Kerala",
+        "as": "কেৰালা"
+      },
+      {
+        "en": "Ladakh",
+        "as": "লাডাখ"
+      },
+      {
+        "en": "Assam (e.g. Chakrashila)",
+        "as": "অসম (যেনে চক্ৰশিলা)"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The golden langur is found mainly in Assam, for example in Chakrashila.",
+      "as": "সোণালী বান্দৰ মূলতঃ অসমত, যেনে চক্ৰশিলাত পোৱা যায়।"
+    }
+  },
+  {
+    "id": "biology-139",
+    "q": {
+      "en": "The state animal of Assam is?",
+      "as": "অসমৰ ৰাজ্যিক প্ৰাণী কি?"
+    },
+    "options": [
+      {
+        "en": "One-horned rhinoceros",
+        "as": "এশিংৰীয়া গঁড়"
+      },
+      {
+        "en": "Tiger",
+        "as": "বাঘ"
+      },
+      {
+        "en": "Elephant",
+        "as": "হাতী"
+      },
+      {
+        "en": "Deer",
+        "as": "হৰিণা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The one-horned rhinoceros is the state animal of Assam.",
+      "as": "এশিংৰীয়া গঁড় অসমৰ ৰাজ্যিক প্ৰাণী।"
+    }
+  },
+  {
+    "id": "biology-140",
+    "q": {
+      "en": "The state bird of Assam is?",
+      "as": "অসমৰ ৰাজ্যিক চৰাই কি?"
+    },
+    "options": [
+      {
+        "en": "Peacock",
+        "as": "ময়ূৰ"
+      },
+      {
+        "en": "White-winged wood duck (Deo Hanh)",
+        "as": "বগা ডেউকাৰ কাঠ হাঁহ (দেও হাঁহ)"
+      },
+      {
+        "en": "Sparrow",
+        "as": "চৰাই"
+      },
+      {
+        "en": "Crow",
+        "as": "কাউৰী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The white-winged wood duck (Deo Hanh) is the state bird of Assam.",
+      "as": "বগা ডেউকাৰ কাঠ হাঁহ (দেও হাঁহ) অসমৰ ৰাজ্যিক চৰাই।"
+    }
+  }
+]

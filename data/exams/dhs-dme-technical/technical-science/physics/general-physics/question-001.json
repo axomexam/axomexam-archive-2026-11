@@ -1,0 +1,332 @@
+[
+  {
+    "id": "physics-025",
+    "q": {
+      "en": "In domestic wiring, household appliances are connected in?",
+      "as": "ঘৰুৱা সংযোগত বৈদ্যুতিক সঁজুলিবোৰ কি সংযোগত যুক্ত কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Star",
+        "as": "ষ্টাৰ"
+      },
+      {
+        "en": "Series",
+        "as": "শ্ৰেণী সংযোগ"
+      },
+      {
+        "en": "Parallel",
+        "as": "সমান্তৰাল সংযোগ"
+      },
+      {
+        "en": "Mixed",
+        "as": "মিশ্ৰিত"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Domestic appliances are connected in parallel so each gets the full voltage and works independently.",
+      "as": "ঘৰুৱা সঁজুলিবোৰ সমান্তৰাল সংযোগত ৰখা হয় যাতে প্ৰত্যেকেই সম্পূৰ্ণ ভল্টেজ পায় আৰু স্বতন্ত্ৰভাৱে কাম কৰে।"
+    }
+  },
+  {
+    "id": "physics-104",
+    "q": {
+      "en": "The nearest star to the Earth after the Sun is?",
+      "as": "সূৰ্যৰ পিছত পৃথিৱীৰ আটাইতকৈ ওচৰৰ তৰা কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Polaris",
+        "as": "ধ্ৰুৱতৰা"
+      },
+      {
+        "en": "Sirius",
+        "as": "ছিৰিয়াছ"
+      },
+      {
+        "en": "Betelgeuse",
+        "as": "বেটেলজিউজ"
+      },
+      {
+        "en": "Proxima Centauri",
+        "as": "প্ৰক্সিমা চেণ্টাউৰি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Proxima Centauri, about 4.24 light years away, is the nearest star to Earth after the Sun.",
+      "as": "সূৰ্যৰ পিছত পৃথিৱীৰ আটাইতকৈ ওচৰৰ তৰা হৈছে প্ৰক্সিমা চেণ্টাউৰি, যি প্ৰায় ৪.২৪ আলোকবৰ্ষ দূৰত অৱস্থিত।"
+    }
+  },
+  {
+    "id": "physics-105",
+    "q": {
+      "en": "The ozone layer protects us from?",
+      "as": "ওজন স্তৰে আমাক কিৰ পৰা ৰক্ষা কৰে?"
+    },
+    "options": [
+      {
+        "en": "Harmful ultraviolet rays",
+        "as": "ক্ষতিকাৰক অতিবেঙুনীয়া ৰশ্মি"
+      },
+      {
+        "en": "Infrared rays only",
+        "as": "কেৱল অন্তৰক্তি ৰশ্মি"
+      },
+      {
+        "en": "Sound waves",
+        "as": "শব্দ তৰংগ"
+      },
+      {
+        "en": "X-rays from Earth",
+        "as": "পৃথিৱীৰ X-ৰশ্মি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ozone layer in the stratosphere absorbs most of the harmful ultraviolet rays of the Sun, protecting living organisms from UV damage.",
+      "as": "ষ্ট্ৰেট'স্ফিয়াৰত থকা ওজন স্তৰে সূৰ্যৰ ক্ষতিকাৰক অতিবেঙুনীয়া ৰশ্মিৰ বেছিভাগ শোষণ কৰি জীৱক UV ক্ষতিৰ পৰা ৰক্ষা কৰে।"
+    }
+  },
+  {
+    "id": "physics-112",
+    "q": {
+      "en": "Which of the following is used in solar cells?",
+      "as": "সৌৰ কোষত তলৰ কোনটো ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Copper only",
+        "as": "কেৱল তাম"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Wood",
+        "as": "কাঠ"
+      },
+      {
+        "en": "Silicon",
+        "as": "চিলিকন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Solar cells are made of the semiconductor silicon, which converts light energy into electrical energy through the photovoltaic effect.",
+      "as": "সৌৰ কোষ অৰ্ধপৰিবাহী চিলিকনৰে তৈয়াৰ কৰা হয়, যি ফট'ভল্টেইক প্ৰভাৱৰ জৰিয়তে পোহৰ শক্তিক বৈদ্যুতিক শক্তিলৈ ৰূপান্তৰ কৰে।"
+    }
+  },
+  {
+    "id": "physics-113",
+    "q": {
+      "en": "The refractive index of a medium is?",
+      "as": "মাধ্যমৰ প্ৰতিসৰণাংক কি?"
+    },
+    "options": [
+      {
+        "en": "Speed of light in vacuum / speed of light in medium",
+        "as": "শূন্যত পোহৰৰ বেগ / মাধ্যমত পোহৰৰ বেগ"
+      },
+      {
+        "en": "Speed in medium / speed in vacuum",
+        "as": "মাধ্যমৰ বেগ / শূন্যৰ বেগ"
+      },
+      {
+        "en": "Always 1",
+        "as": "সদায় ১"
+      },
+      {
+        "en": "Mass / volume",
+        "as": "ভৰ / আয়তন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The refractive index of a medium is the ratio of the speed of light in vacuum to its speed in the medium: n = c / v.",
+      "as": "মাধ্যমৰ প্ৰতিসৰণাংক = শূন্যত পোহৰৰ বেগ / মাধ্যমত পোহৰৰ বেগ, অৰ্থাৎ n = c / v।"
+    }
+  },
+  {
+    "id": "physics-116",
+    "q": {
+      "en": "The sky appears blue due to?",
+      "as": "আকাশ নীলা দেখা যায় কিৰ বাবে?"
+    },
+    "options": [
+      {
+        "en": "Reflection of sea water",
+        "as": "সাগৰৰ পানীৰ প্ৰতিফলন"
+      },
+      {
+        "en": "Absorption of red light only",
+        "as": "কেৱল ৰঙা পোহৰ শোষণ"
+      },
+      {
+        "en": "Dispersion in raindrops only",
+        "as": "কেৱল বৰষুণৰ টোপালত বৰ্ণবিক্ষেপণ"
+      },
+      {
+        "en": "Scattering of sunlight by atmosphere",
+        "as": "বায়ুমণ্ডলত সূৰ্যৰ পোহৰৰ বিক্ষেপণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The atmosphere scatters blue light (shorter wavelength) much more strongly than red, so scattered blue light reaches our eyes and the sky appears blue (Rayleigh scattering).",
+      "as": "বায়ুমণ্ডলে ৰঙা পোহৰতকৈ নীলা পোহৰ (চুটি তৰংগদৈৰ্ঘ্য) বেছি শক্তিশালীভাৱে বিক্ষেপণ কৰে; সেয়ে বিক্ষিপ্ত নীলা পোহৰে আমাৰ চকুত পৰে আৰু আকাশ নীলা দেখা যায় (ৰেলে বিক্ষেপণ)।"
+    }
+  },
+  {
+    "id": "physics-118",
+    "q": {
+      "en": "The slope of a distance-time graph gives?",
+      "as": "দূৰত্ব-সময় গ্ৰাফৰ ঢালে কি দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Acceleration",
+        "as": "ত্বাৰণ"
+      },
+      {
+        "en": "Force",
+        "as": "বল"
+      },
+      {
+        "en": "Speed",
+        "as": "দ্ৰুতি"
+      },
+      {
+        "en": "Momentum",
+        "as": "ভৰবেগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The slope of a distance-time graph gives speed, because slope = distance / time.",
+      "as": "দূৰত্ব-সময় গ্ৰাফৰ ঢালে দ্ৰুতি দিয়ে, কাৰণ ঢাল = দূৰত্ব / সময়।"
+    }
+  },
+  {
+    "id": "physics-125",
+    "q": {
+      "en": "1 kWh is equal to?",
+      "as": "১ কিলোৱাট-ঘণ্টা কিমানৰ সমান?"
+    },
+    "options": [
+      {
+        "en": "3.6 × 10^6 J",
+        "as": "৩.৬ × ১০^৬ জুল"
+      },
+      {
+        "en": "1000 J",
+        "as": "১০০০ জুল"
+      },
+      {
+        "en": "360 J",
+        "as": "৩৬০ জুল"
+      },
+      {
+        "en": "3.6 × 10^3 J",
+        "as": "৩.৬ × ১০^৩ জুল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "1 kWh = 1000 W × 3600 s = 3.6 × 10^6 J. Hence '3.6 × 10^6 J' is correct.",
+      "as": "১ kWh = ১০০০ ৱাট × ৩৬০০ ছেকেণ্ড = ৩.৬ × ১০^৬ জুল। সেয়ে '৩.৬ × ১০^৬ জুল' শুদ্ধ।"
+    }
+  },
+  {
+    "id": "physics-128",
+    "q": {
+      "en": "The earth wire in household wiring is usually?",
+      "as": "ঘৰুৱা বিদ্যুৎ সংযোগত আৰ্থ তাঁৰ সাধাৰণতে কি ৰঙৰ?"
+    },
+    "options": [
+      {
+        "en": "Red",
+        "as": "ৰঙা"
+      },
+      {
+        "en": "Black",
+        "as": "ক’লা"
+      },
+      {
+        "en": "Blue",
+        "as": "নীলা"
+      },
+      {
+        "en": "Green or green-yellow",
+        "as": "সেউজীয়া বা সেউজীয়া-হালধীয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The earth wire provides a low-resistance path to the ground and is usually green or green-yellow in colour. Hence 'Green or green-yellow' is correct.",
+      "as": "আৰ্থ তাঁৰে ভূমিলৈ কম প্ৰতিৰোধৰ পথ প্ৰদান কৰে আৰু সাধাৰণতে সেউজীয়া বা সেউজীয়া-হালধীয়া ৰঙৰ হয়। সেয়ে 'সেউজীয়া বা সেউজীয়া-হালধীয়া' শুদ্ধ।"
+    }
+  },
+  {
+    "id": "physics-132",
+    "q": {
+      "en": "LED stands for?",
+      "as": "LED-ৰ সম্পূৰ্ণ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "Light Energy Device",
+        "as": "লাইট এনাৰ্জি ডিভাইচ"
+      },
+      {
+        "en": "Low Electric Diode",
+        "as": "ল’ ইলেক্ট্ৰিক ডায়’ড"
+      },
+      {
+        "en": "Long Emission Display",
+        "as": "লং এমিছন ডিছপ্লে"
+      },
+      {
+        "en": "Light Emitting Diode",
+        "as": "লাইট এমিটিং ডায়’ড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "LED stands for Light Emitting Diode, a semiconductor diode that emits light when forward biased. Hence 'Light Emitting Diode' is correct.",
+      "as": "LED ৰ সম্পূৰ্ণ ৰূপ লাইট এমিটিং ডায়'ড, যি এক অৰ্ধপৰিবাহী ডায়'ড আৰু অগ্ৰগামী বায়াছত পোহৰ নিৰ্গত কৰে। সেয়ে 'লাইট এমিটিং ডায়'ড' শুদ্ধ।"
+    }
+  },
+  {
+    "id": "physics-134",
+    "q": {
+      "en": "ISRO was established in which year?",
+      "as": "ইছৰো কোন চনত প্ৰতিষ্ঠা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "1962",
+        "as": "১৯৬২"
+      },
+      {
+        "en": "1969",
+        "as": "১৯৬৯"
+      },
+      {
+        "en": "1975",
+        "as": "১৯৭৫"
+      },
+      {
+        "en": "1984",
+        "as": "১৯৮৪"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "ISRO (Indian Space Research Organisation) was established on 15 August 1969. Hence '1969' is correct.",
+      "as": "ইছৰো (ভাৰতীয় মহাকাশ গৱেষণা সংস্থা) ১৫ আগষ্ট ১৯৬৯ চনত প্ৰতিষ্ঠা হৈছিল। সেয়ে '১৯৬৯' শুদ্ধ।"
+    }
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "vocabulary-005",
+    "q": {
+      "en": "Choose the antonym of 'voluntary':",
+      "as": "'voluntary' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "willing",
+        "as": "ইচ্ছাকৃত"
+      },
+      {
+        "en": "free",
+        "as": "মুক্ত"
+      },
+      {
+        "en": "optional",
+        "as": "ঐচ্ছিক"
+      },
+      {
+        "en": "compulsory",
+        "as": "বাধ্যতামূলক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'Compulsory' is an antonym of 'voluntary'.",
+      "as": "'compulsory' হৈছে 'voluntary' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-009",
+    "q": {
+      "en": "Choose the antonym of 'scarce':",
+      "as": "'scarce' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "rare",
+        "as": "দুৰ্লভ"
+      },
+      {
+        "en": "plentiful",
+        "as": "প্ৰচুৰ"
+      },
+      {
+        "en": "few",
+        "as": "কম"
+      },
+      {
+        "en": "limited",
+        "as": "সীমিত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Plentiful' is an antonym of 'scarce'.",
+      "as": "'plentiful' হৈছে 'scarce' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-013",
+    "q": {
+      "en": "Choose the antonym of 'sacred':",
+      "as": "'sacred' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "holy",
+        "as": "পবিত্ৰ"
+      },
+      {
+        "en": "divine",
+        "as": "দিব্য"
+      },
+      {
+        "en": "profane",
+        "as": "অপবিত্ৰ"
+      },
+      {
+        "en": "pure",
+        "as": "শুদ্ধ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Profane' is an antonym of 'sacred'.",
+      "as": "'profane' হৈছে 'sacred' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-016",
+    "q": {
+      "en": "Choose the antonym of 'rigid':",
+      "as": "'rigid' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "strict",
+        "as": "কঠোৰ"
+      },
+      {
+        "en": "stiff",
+        "as": "কঠিন"
+      },
+      {
+        "en": "flexible",
+        "as": "নমনীয়"
+      },
+      {
+        "en": "hard",
+        "as": "কঠিন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Flexible' is an antonym of 'rigid'.",
+      "as": "'flexible' হৈছে 'rigid' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-018",
+    "q": {
+      "en": "Choose the antonym of 'transparent':",
+      "as": "'transparent' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "clear",
+        "as": "স্বচ্ছ"
+      },
+      {
+        "en": "opaque",
+        "as": "অস্বচ্ছ"
+      },
+      {
+        "en": "open",
+        "as": "খোলা"
+      },
+      {
+        "en": "visible",
+        "as": "দৃশ্যমান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Opaque' is an antonym of 'transparent'.",
+      "as": "'opaque' হৈছে 'transparent' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-023",
+    "q": {
+      "en": "Choose the antonym of 'encourage':",
+      "as": "'encourage' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "inspire",
+        "as": "অনুপ্ৰাণিত কৰা"
+      },
+      {
+        "en": "support",
+        "as": "সমৰ্থন কৰা"
+      },
+      {
+        "en": "motivate",
+        "as": "উৎসাহিত কৰা"
+      },
+      {
+        "en": "discourage",
+        "as": "নিৰুৎসাহিত কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'Discourage' is an antonym of 'encourage'.",
+      "as": "'discourage' হৈছে 'encourage' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-028",
+    "q": {
+      "en": "Choose the antonym of 'include':",
+      "as": "'include' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "contain",
+        "as": "অন্তৰ্ভুক্ত কৰা"
+      },
+      {
+        "en": "exclude",
+        "as": "বাদ দিয়া"
+      },
+      {
+        "en": "add",
+        "as": "যোগ কৰা"
+      },
+      {
+        "en": "cover",
+        "as": "সামৰি লোৱা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Exclude' is an antonym of 'include'.",
+      "as": "'exclude' হৈছে 'include' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-032",
+    "q": {
+      "en": "Choose the antonym of 'maximum':",
+      "as": "'maximum' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "highest",
+        "as": "সৰ্বোচ্চ"
+      },
+      {
+        "en": "greatest",
+        "as": "সৰ্ববৃহৎ"
+      },
+      {
+        "en": "minimum",
+        "as": "সৰ্বনিম্ন"
+      },
+      {
+        "en": "most",
+        "as": "সৰ্বাধিক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Minimum' is an antonym of 'maximum'.",
+      "as": "'minimum' হৈছে 'maximum' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-037",
+    "q": {
+      "en": "Choose the antonym of 'legal':",
+      "as": "'legal' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "lawful",
+        "as": "আইনসন্মত"
+      },
+      {
+        "en": "illegal",
+        "as": "অবৈধ"
+      },
+      {
+        "en": "valid",
+        "as": "বৈধ"
+      },
+      {
+        "en": "official",
+        "as": "দাপ্তৰিক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Illegal' is an antonym of 'legal'.",
+      "as": "'illegal' হৈছে 'legal' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-040",
+    "q": {
+      "en": "Choose the antonym of 'vague':",
+      "as": "'vague' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "unclear",
+        "as": "অস্পষ্ট"
+      },
+      {
+        "en": "clear",
+        "as": "স্পষ্ট"
+      },
+      {
+        "en": "dim",
+        "as": "ম্লান"
+      },
+      {
+        "en": "confused",
+        "as": "বিভ্ৰান্ত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Clear' is an antonym of 'vague'.",
+      "as": "'clear' হৈছে 'vague' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-046",
+    "q": {
+      "en": "Choose the antonym of 'harmony':",
+      "as": "'harmony' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "peace",
+        "as": "শাস্তি"
+      },
+      {
+        "en": "discord",
+        "as": "বিসংগতি"
+      },
+      {
+        "en": "unity",
+        "as": "ঐক্য"
+      },
+      {
+        "en": "accord",
+        "as": "সন্মতি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Discord' is an antonym of 'harmony'.",
+      "as": "'discord' হৈছে 'harmony' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-050",
+    "q": {
+      "en": "Choose the antonym of 'shallow':",
+      "as": "'shallow' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "deep",
+        "as": "গভীৰ"
+      },
+      {
+        "en": "thin",
+        "as": "পাতল"
+      },
+      {
+        "en": "narrow",
+        "as": "সংকীৰ্ণ"
+      },
+      {
+        "en": "low",
+        "as": "নিম্ন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Deep' is an antonym of 'shallow'.",
+      "as": "'deep' হৈছে 'shallow' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-053",
+    "q": {
+      "en": "Choose the antonym of 'ascend':",
+      "as": "'ascend' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "rise",
+        "as": "উঠা"
+      },
+      {
+        "en": "climb",
+        "as": "আৰোহণ কৰা"
+      },
+      {
+        "en": "descend",
+        "as": "অৱতৰণ কৰা"
+      },
+      {
+        "en": "mount",
+        "as": "উপৰলৈ যোৱা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Descend' is an antonym of 'ascend'.",
+      "as": "'descend' হৈছে 'ascend' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-073",
+    "q": {
+      "en": "Choose the antonym of 'frugal':",
+      "as": "'frugal' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "Economical",
+        "as": "মিতব্যয়ী"
+      },
+      {
+        "en": "Thrifty",
+        "as": "মিতব্যয়ী"
+      },
+      {
+        "en": "Extravagant",
+        "as": "অপচয়ী"
+      },
+      {
+        "en": "Careful",
+        "as": "সতৰ্ক"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Extravagant' is an antonym of 'frugal'.",
+      "as": "'extravagant' হৈছে 'frugal' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-074",
+    "q": {
+      "en": "Choose the antonym of 'benevolent':",
+      "as": "'benevolent' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "Generous",
+        "as": "উদাৰ"
+      },
+      {
+        "en": "Helpful",
+        "as": "সহায়ক"
+      },
+      {
+        "en": "Kind",
+        "as": "দয়ালু"
+      },
+      {
+        "en": "Cruel",
+        "as": "নিষ্ঠুৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'Cruel' is an antonym of 'benevolent'.",
+      "as": "'cruel' হৈছে 'benevolent' ৰ বিপৰীত শব্দ।"
+    }
+  }
+]

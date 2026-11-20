@@ -1,0 +1,92 @@
+[
+  {
+    "id": "grammar-035",
+    "q": {
+      "en": "The correct question tag: 'He is a teacher, ___?'",
+      "as": "শুদ্ধ প্ৰশ্ন টেগ: 'He is a teacher, ___?'"
+    },
+    "options": [
+      {
+        "en": "is he",
+        "as": "is he"
+      },
+      {
+        "en": "isn't he",
+        "as": "isn't he"
+      },
+      {
+        "en": "doesn't he",
+        "as": "doesn't he"
+      },
+      {
+        "en": "wasn't he",
+        "as": "wasn't he"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A positive statement takes a negative question tag, so 'isn't he?'.",
+      "as": "ধনাত্মক বাক্যৰ বাবে ঋণাত্মক question tag 'isn't he?' হয়।"
+    }
+  },
+  {
+    "id": "grammar-036",
+    "q": {
+      "en": "The correct question tag: 'Let's go, ___?'",
+      "as": "শুদ্ধ প্ৰশ্ন টেগ: 'Let's go, ___?'"
+    },
+    "options": [
+      {
+        "en": "will we",
+        "as": "will we"
+      },
+      {
+        "en": "don't we",
+        "as": "don't we"
+      },
+      {
+        "en": "shall we",
+        "as": "shall we"
+      },
+      {
+        "en": "won't we",
+        "as": "won't we"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Let's' takes the question tag 'shall we?'.",
+      "as": "'Let's' ৰ question tag 'shall we?' হয়।"
+    }
+  },
+  {
+    "id": "grammar-037",
+    "q": {
+      "en": "The correct question tag: 'I am right, ___?'",
+      "as": "শুদ্ধ প্ৰশ্ন টেগ: 'I am right, ___?'"
+    },
+    "options": [
+      {
+        "en": "am I",
+        "as": "am I"
+      },
+      {
+        "en": "aren't I",
+        "as": "aren't I"
+      },
+      {
+        "en": "isn't I",
+        "as": "isn't I"
+      },
+      {
+        "en": "don't I",
+        "as": "don't I"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'I am' takes the question tag 'aren't I?'.",
+      "as": "'I am' ৰ question tag 'aren't I?' হয়।"
+    }
+  }
+]

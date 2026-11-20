@@ -1,0 +1,122 @@
+[
+  {
+    "id": "vocabulary-059",
+    "q": {
+      "en": "The phrasal verb 'to give up' means:",
+      "as": "'to give up' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To give a gift",
+        "as": "উপহাৰ দিয়া"
+      },
+      {
+        "en": "To continue",
+        "as": "অব্যাহত ৰখা"
+      },
+      {
+        "en": "To stop doing something",
+        "as": "কিবা কৰা বন্ধ কৰা"
+      },
+      {
+        "en": "To lift something",
+        "as": "কিবা দাঙা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'To give up' means to stop doing something.",
+      "as": "'to give up' মানে কিবা কৰা বন্ধ কৰা।"
+    }
+  },
+  {
+    "id": "vocabulary-060",
+    "q": {
+      "en": "The phrasal verb 'to look forward to' means:",
+      "as": "'to look forward to' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To look back",
+        "as": "পিছলৈ চোৱা"
+      },
+      {
+        "en": "To dislike",
+        "as": "অপছন্দ কৰা"
+      },
+      {
+        "en": "To forget",
+        "as": "পাহৰি যোৱা"
+      },
+      {
+        "en": "To await eagerly",
+        "as": "উৎসুকতাৰে অপেক্ষা কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'To look forward to' means to await something eagerly.",
+      "as": "'to look forward to' মানে উৎসুকতাৰে কাৰোবাৰ বা কিবাৰ অপেক্ষা কৰা।"
+    }
+  },
+  {
+    "id": "vocabulary-078",
+    "q": {
+      "en": "The phrasal verb 'to call off' means:",
+      "as": "'to call off' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To shout",
+        "as": "চিঞৰা"
+      },
+      {
+        "en": "To continue",
+        "as": "অব্যাহত ৰখা"
+      },
+      {
+        "en": "To cancel",
+        "as": "বাতিল কৰা"
+      },
+      {
+        "en": "To invite",
+        "as": "আমন্ত্ৰণ কৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'To call off' means to cancel.",
+      "as": "'to call off' মানে বাতিল কৰা।"
+    }
+  },
+  {
+    "id": "vocabulary-079",
+    "q": {
+      "en": "The phrasal verb 'to break down' means:",
+      "as": "'to break down' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To repair",
+        "as": "মেৰামতি কৰা"
+      },
+      {
+        "en": "To run fast",
+        "as": "দৌৰা"
+      },
+      {
+        "en": "To build",
+        "as": "নিৰ্মাণ কৰা"
+      },
+      {
+        "en": "To stop working",
+        "as": "কাম বন্ধ হোৱা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'To break down' means to stop working or fail.",
+      "as": "'to break down' মানে কাম বন্ধ হোৱা বা বিফল হোৱা।"
+    }
+  }
+]

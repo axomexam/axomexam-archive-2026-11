@@ -1,0 +1,572 @@
+[
+  {
+    "id": "vocabulary-002",
+    "q": {
+      "en": "'To cry over spilt milk' means:",
+      "as": "'To cry over spilt milk' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To waste milk",
+        "as": "গাখীৰ নষ্ট কৰা"
+      },
+      {
+        "en": "To regret something that cannot be undone",
+        "as": "যি হৈ গৈছে তাক লৈ দুখ কৰা"
+      },
+      {
+        "en": "To be hungry",
+        "as": "ভোক লগা"
+      },
+      {
+        "en": "To clean the floor",
+        "as": "মজিয়া পৰিষ্কাৰ কৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'To cry over spilt milk' means to regret something that cannot be undone.",
+      "as": "'to cry over spilt milk' মানে ঘূৰাই নোৱাৰা কামৰ বাবে অনুতাপ কৰা।"
+    }
+  },
+  {
+    "id": "vocabulary-007",
+    "q": {
+      "en": "'To face the music' means:",
+      "as": "'To face the music' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To listen to a song",
+        "as": "গান শুনা"
+      },
+      {
+        "en": "To enjoy a concert",
+        "as": "সংগীতানুষ্ঠান উপভোগ কৰা"
+      },
+      {
+        "en": "To face the consequences",
+        "as": "পৰিণামৰ সন্মুখীন হোৱা"
+      },
+      {
+        "en": "To play an instrument",
+        "as": "বাদ্য বজোৱা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'To face the music' means to face the consequences.",
+      "as": "'to face the music' মানে পৰিণাম ভুগিব লগা হোৱা।"
+    }
+  },
+  {
+    "id": "vocabulary-011",
+    "q": {
+      "en": "'To keep one's word' means:",
+      "as": "'To keep one's word' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To remain silent",
+        "as": "নিৰৱ থকা"
+      },
+      {
+        "en": "To fulfil a promise",
+        "as": "প্ৰতিশ্ৰুতি পালন কৰা"
+      },
+      {
+        "en": "To speak loudly",
+        "as": "ডাঙৰকৈ কোৱা"
+      },
+      {
+        "en": "To write a letter",
+        "as": "চিঠি লিখা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'To keep one's word' means to fulfil a promise.",
+      "as": "'to keep one's word' মানে প্ৰতিশ্ৰুতি ৰক্ষা কৰা।"
+    }
+  },
+  {
+    "id": "vocabulary-015",
+    "q": {
+      "en": "'At daggers drawn' means:",
+      "as": "'At daggers drawn' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "On friendly terms",
+        "as": "বন্ধুত্বপূৰ্ণ সম্পৰ্কত"
+      },
+      {
+        "en": "Ready to fight",
+        "as": "যুঁজিবলৈ সাজু"
+      },
+      {
+        "en": "Very rich",
+        "as": "অতি ধনী"
+      },
+      {
+        "en": "Very tired",
+        "as": "অতি ভাগৰুৱা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'At daggers drawn' means ready to fight.",
+      "as": "'at daggers drawn' মানে কাজিয়া কৰিবলৈ সাজু।"
+    }
+  },
+  {
+    "id": "vocabulary-020",
+    "q": {
+      "en": "'A man of letters' means:",
+      "as": "'A man of letters' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "A postman",
+        "as": "ডাকপিয়ন"
+      },
+      {
+        "en": "A scholar",
+        "as": "পণ্ডিত"
+      },
+      {
+        "en": "A clerk",
+        "as": "কৰ্মচাৰী"
+      },
+      {
+        "en": "A journalist only",
+        "as": "কেৱল সাংবাদিক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'A man of letters' means a scholar.",
+      "as": "'a man of letters' মানে এজন পণ্ডিত।"
+    }
+  },
+  {
+    "id": "vocabulary-025",
+    "q": {
+      "en": "'To nip in the bud' means:",
+      "as": "'To nip in the bud' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To destroy at an early stage",
+        "as": "আৰম্ভণিতে নষ্ট কৰা"
+      },
+      {
+        "en": "To grow a plant",
+        "as": "গছ ডাঙৰ কৰা"
+      },
+      {
+        "en": "To pluck flowers",
+        "as": "ফুল তোলা"
+      },
+      {
+        "en": "To wait for a long time",
+        "as": "দীঘলীয়া সময় অপেক্ষা কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'To nip in the bud' means to destroy at an early stage.",
+      "as": "'to nip in the bud' মানে আৰম্ভণিতে নষ্ট কৰা।"
+    }
+  },
+  {
+    "id": "vocabulary-030",
+    "q": {
+      "en": "'To throw cold water on' means:",
+      "as": "'To throw cold water on' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To encourage",
+        "as": "উৎসাহ দিয়া"
+      },
+      {
+        "en": "To discourage",
+        "as": "নিৰুৎসাহিত কৰা"
+      },
+      {
+        "en": "To bathe",
+        "as": "গা ধোৱা"
+      },
+      {
+        "en": "To cool something",
+        "as": "কিবা ঠাণ্ডা কৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'To throw cold water on' means to discourage.",
+      "as": "'to throw cold water on' মানে উৎসাহ ভংগ কৰা।"
+    }
+  },
+  {
+    "id": "vocabulary-034",
+    "q": {
+      "en": "'In black and white' means:",
+      "as": "'In black and white' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "In writing",
+        "as": "লিখিত ৰূপত"
+      },
+      {
+        "en": "In colour",
+        "as": "ৰঙীন ৰূপত"
+      },
+      {
+        "en": "In secret",
+        "as": "গোপনভাৱে"
+      },
+      {
+        "en": "In darkness",
+        "as": "অন্ধকাৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'In black and white' means in writing.",
+      "as": "'in black and white' মানে লিখিত ৰূপত।"
+    }
+  },
+  {
+    "id": "vocabulary-039",
+    "q": {
+      "en": "'To take to one's heels' means:",
+      "as": "'To take to one's heels' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To walk slowly",
+        "as": "লেহেমকৈ খোজ কঢ়া"
+      },
+      {
+        "en": "To run away",
+        "as": "পলাই যোৱা"
+      },
+      {
+        "en": "To stand still",
+        "as": "স্থিৰকৈ থিয় হোৱা"
+      },
+      {
+        "en": "To dance",
+        "as": "নৃত্য কৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'To take to one's heels' means to run away.",
+      "as": "'to take to one's heels' মানে পলাই যোৱা।"
+    }
+  },
+  {
+    "id": "vocabulary-043",
+    "q": {
+      "en": "'To call a spade a spade' means:",
+      "as": "'To call a spade a spade' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To speak frankly",
+        "as": "স্পষ্টকৈ কোৱা"
+      },
+      {
+        "en": "To dig the earth",
+        "as": "মাটি খন্দা"
+      },
+      {
+        "en": "To tell a lie",
+        "as": "মিছা কোৱা"
+      },
+      {
+        "en": "To play cards",
+        "as": "তাছ খেলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'To call a spade a spade' means to speak frankly.",
+      "as": "'to call a spade a spade' মানে স্পষ্টকৈ কোৱা।"
+    }
+  },
+  {
+    "id": "vocabulary-048",
+    "q": {
+      "en": "'To fish in troubled waters' means:",
+      "as": "'To fish in troubled waters' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To catch fish in a river",
+        "as": "নদীত মাছ ধৰা"
+      },
+      {
+        "en": "To take advantage of a confused situation",
+        "as": "বিশৃংখল পৰিস্থিতিত সুবিধা লোৱা"
+      },
+      {
+        "en": "To help others",
+        "as": "আনক সহায় কৰা"
+      },
+      {
+        "en": "To remain calm",
+        "as": "শান্ত হৈ থকা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'To fish in troubled waters' means to take advantage of a confused situation.",
+      "as": "'to fish in troubled waters' মানে অৰাজক পৰিস্থিতিৰ সুবিধা লোৱা।"
+    }
+  },
+  {
+    "id": "vocabulary-052",
+    "q": {
+      "en": "'At sixes and sevens' means:",
+      "as": "'At sixes and sevens' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "In order",
+        "as": "শৃংখলিত"
+      },
+      {
+        "en": "In confusion",
+        "as": "বিশৃংখল অৱস্থাত"
+      },
+      {
+        "en": "Very rich",
+        "as": "অতি ধনী"
+      },
+      {
+        "en": "Very happy",
+        "as": "অতি সুখী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'At sixes and sevens' means in confusion.",
+      "as": "'at sixes and sevens' মানে বিশৃংখল অৱস্থাত।"
+    }
+  },
+  {
+    "id": "vocabulary-057",
+    "q": {
+      "en": "The idiom 'a bolt from the blue' means:",
+      "as": "'a bolt from the blue' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "A happy event",
+        "as": "আনন্দময় ঘটনা"
+      },
+      {
+        "en": "A planned action",
+        "as": "পৰিকল্পিত কাৰ্য"
+      },
+      {
+        "en": "A sudden shock",
+        "as": "আকস্মিক আঘাত"
+      },
+      {
+        "en": "A bright light",
+        "as": "উজ্জ্বল পোহৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'A bolt from the blue' means a sudden and unexpected shock.",
+      "as": "'a bolt from the blue' মানে আকস্মিক আৰু অপ্ৰত্যাশিত আঘাত।"
+    }
+  },
+  {
+    "id": "vocabulary-058",
+    "q": {
+      "en": "The idiom 'to let the cat out of the bag' means:",
+      "as": "'to let the cat out of the bag' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To lose something",
+        "as": "কিবা হেৰুওৱা"
+      },
+      {
+        "en": "To buy a cat",
+        "as": "মেকুৰী কিনা"
+      },
+      {
+        "en": "To make noise",
+        "as": "শব্দ কৰা"
+      },
+      {
+        "en": "To reveal a secret",
+        "as": "গোপন কথা প্ৰকাশ কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'To let the cat out of the bag' means to reveal a secret.",
+      "as": "'to let the cat out of the bag' মানে গোপন কথা প্ৰকাশ কৰা।"
+    }
+  },
+  {
+    "id": "vocabulary-064",
+    "q": {
+      "en": "The phrase 'bona fide' means:",
+      "as": "'bona fide' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "Genuine",
+        "as": "প্ৰকৃত"
+      },
+      {
+        "en": "Doubtful",
+        "as": "সন্দেহজনক"
+      },
+      {
+        "en": "Illegal",
+        "as": "অবৈধ"
+      },
+      {
+        "en": "Temporary",
+        "as": "অস্থায়ী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Bona fide' means genuine or real.",
+      "as": "'bona fide' মানে প্ৰকৃত বা আসল।"
+    }
+  },
+  {
+    "id": "vocabulary-065",
+    "q": {
+      "en": "Complete the proverb: 'A stitch in time saves ___.'",
+      "as": "প্ৰবচনটো সম্পূৰ্ণ কৰক: 'A stitch in time saves ___.'"
+    },
+    "options": [
+      {
+        "en": "seven",
+        "as": "সাত"
+      },
+      {
+        "en": "nine",
+        "as": "ন"
+      },
+      {
+        "en": "ten",
+        "as": "দহ"
+      },
+      {
+        "en": "five",
+        "as": "পাঁচ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The proverb is 'A stitch in time saves nine'.",
+      "as": "প্ৰবচনটো হৈছে 'A stitch in time saves nine'।"
+    }
+  },
+  {
+    "id": "vocabulary-066",
+    "q": {
+      "en": "In the sentence 'The manager's terse reply annoyed us', 'terse' means:",
+      "as": "'The manager's terse reply annoyed us' বাক্যটোত 'terse' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "Confusing",
+        "as": "দ্ব্যৰ্থক"
+      },
+      {
+        "en": "Long and detailed",
+        "as": "দীঘল আৰু বিস্তাৰিত"
+      },
+      {
+        "en": "Brief and abrupt",
+        "as": "চুটি আৰু ৰুক্ষ"
+      },
+      {
+        "en": "Polite and soft",
+        "as": "ভদ্ৰ আৰু কোমল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Terse' means brief and abrupt.",
+      "as": "'terse' মানে চুটি আৰু ৰুক্ষ।"
+    }
+  },
+  {
+    "id": "vocabulary-068",
+    "q": {
+      "en": "The root 'bio' means:",
+      "as": "'bio' মূল অংশৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "Time",
+        "as": "সময়"
+      },
+      {
+        "en": "Life",
+        "as": "জীৱন"
+      },
+      {
+        "en": "Earth",
+        "as": "পৃথিৱী"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The root 'bio' means life, as in biology.",
+      "as": "'bio' মূল অংশৰ অৰ্থ জীৱন, যেনে biology।"
+    }
+  },
+  {
+    "id": "vocabulary-077",
+    "q": {
+      "en": "The idiom 'a wild goose chase' means:",
+      "as": "'a wild goose chase' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "A hunting trip",
+        "as": "চিকাৰ অভিযান"
+      },
+      {
+        "en": "A quick success",
+        "as": "দ্ৰুত সফলতা"
+      },
+      {
+        "en": "A noisy quarrel",
+        "as": "হুলস্থূলীয়া কাজিয়া"
+      },
+      {
+        "en": "A hopeless search",
+        "as": "নিষ্ফল সন্ধান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'A wild goose chase' means a hopeless or futile search.",
+      "as": "'a wild goose chase' মানে নিষ্ফল বা ব্যৰ্থ সন্ধান।"
+    }
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "physics-018",
+    "q": {
+      "en": "The nucleus of an atom contains?",
+      "as": "পৰমাণুৰ নিউক্লিয়াছত কি থাকে?"
+    },
+    "options": [
+      {
+        "en": "Protons and neutrons",
+        "as": "প্ৰটন আৰু নিউট্ৰন"
+      },
+      {
+        "en": "Only electrons",
+        "as": "কেৱল ইলেক্ট্ৰন"
+      },
+      {
+        "en": "Only photons",
+        "as": "কেৱল ফটন"
+      },
+      {
+        "en": "Only neutrinos",
+        "as": "কেৱল নিউট্ৰিনো"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The nucleus of an atom contains protons and neutrons (together called nucleons), while electrons revolve around it.",
+      "as": "পৰমাণুৰ নিউক্লিয়াছত প্ৰটন আৰু নিউট্ৰন থাকে; ইলেক্ট্ৰনসমূহ নিউক্লিয়াছৰ চাৰিওফালে ঘূৰি থাকে।"
+    }
+  },
+  {
+    "id": "physics-019",
+    "q": {
+      "en": "X-rays were discovered by?",
+      "as": "X-ৰশ্মি আৱিষ্কাৰ কৰিছিল কোনে?"
+    },
+    "options": [
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      },
+      {
+        "en": "W. C. Roentgen",
+        "as": "ডব্লিউ. চি. ৰণ্টজেন"
+      },
+      {
+        "en": "Faraday",
+        "as": "ফেৰাডে"
+      },
+      {
+        "en": "Edison",
+        "as": "এডিছন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "X-rays were discovered by Wilhelm Conrad Roentgen in 1895, for which he received the first Nobel Prize in Physics.",
+      "as": "১৮৯৫ চনত ডব্লিউ. চি. ৰণ্টজেনে X-ৰশ্মি আৱিষ্কাৰ কৰিছিল আৰু ইয়াৰ বাবে প্ৰথম পদাৰ্থ বিজ্ঞানৰ ন'বেল বঁটা লাভ কৰিছিল।"
+    }
+  },
+  {
+    "id": "physics-040",
+    "q": {
+      "en": "India's first atomic power station was established at?",
+      "as": "ভাৰতৰ প্ৰথম পাৰমাণৱিক বিদ্যুৎ কেন্দ্ৰ ক'ত স্থাপন কৰা হৈছিল?"
+    },
+    "options": [
+      {
+        "en": "Kalpakkam",
+        "as": "কল্পাক্কাম"
+      },
+      {
+        "en": "Tarapur",
+        "as": "তাৰাপুৰ"
+      },
+      {
+        "en": "Narora",
+        "as": "নাৰোৰা"
+      },
+      {
+        "en": "Kakrapar",
+        "as": "কাক্ৰাপাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "India's first atomic power station was set up at Tarapur in Maharashtra.",
+      "as": "ভাৰতৰ প্ৰথম পাৰমাণৱিক বিদ্যুৎ কেন্দ্ৰ মহাৰাষ্ট্ৰৰ তাৰাপুৰত স্থাপন কৰা হৈছিল।"
+    }
+  },
+  {
+    "id": "physics-068",
+    "q": {
+      "en": "The number of electrons in a neutral atom is equal to?",
+      "as": "নিরপেক্ষ পৰমাণুত ইলেক্ট্ৰনৰ সংখ্যা কিৰ সমান?"
+    },
+    "options": [
+      {
+        "en": "Number of protons",
+        "as": "প্ৰটনৰ সংখ্যা"
+      },
+      {
+        "en": "Number of neutrons",
+        "as": "নিউট্ৰনৰ সংখ্যা"
+      },
+      {
+        "en": "Mass number",
+        "as": "ভৰ সংখ্যা"
+      },
+      {
+        "en": "Atomic mass only",
+        "as": "কেৱল পাৰমাণৱিক ভৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A neutral atom has equal numbers of protons and electrons, so the total positive and negative charges balance. Thus electrons equal the number of protons.",
+      "as": "নিরপেক্ষ পৰমাণুত প্ৰটন আৰু ইলেক্ট্ৰনৰ সংখ্যা সমান, সেয়ে ধনাত্মক আৰু ঋণাত্মক আধানৰ মুঠ মান সমতা ৰাখে। সেয়ে ইলেক্ট্ৰনৰ সংখ্যা প্ৰটনৰ সংখ্যাৰ সমান।"
+    }
+  },
+  {
+    "id": "physics-069",
+    "q": {
+      "en": "Radioactivity was discovered by?",
+      "as": "তেজস্ক্ৰিয়তা আৱিষ্কাৰ কৰিছিল কোনে?"
+    },
+    "options": [
+      {
+        "en": "Roentgen",
+        "as": "ৰণ্টজেন"
+      },
+      {
+        "en": "Henri Becquerel",
+        "as": "হেনৰি বেকৰেল"
+      },
+      {
+        "en": "Einstein",
+        "as": "আইনষ্টাইন"
+      },
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Radioactivity was discovered by Henri Becquerel in 1896 through his experiments on uranium salts. Hence he is credited with the discovery.",
+      "as": "তেজস্ক্ৰিয়তা ১৮৯৬ চনত হেনৰি বেকৰেলে ইউৰেনিয়াম লৱণৰ পৰীক্ষাৰ জৰিয়তে আৱিষ্কাৰ কৰিছিল। সেয়ে তেওঁক এই আৱিষ্কাৰৰ কৃতিত্ব দিয়া হয়।"
+    }
+  },
+  {
+    "id": "physics-070",
+    "q": {
+      "en": "The unit of radioactivity is?",
+      "as": "তেজস্ক্ৰিয়তাৰ একক কি?"
+    },
+    "options": [
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      },
+      {
+        "en": "Joule",
+        "as": "জুল"
+      },
+      {
+        "en": "Becquerel",
+        "as": "বেকৰেল"
+      },
+      {
+        "en": "Pascal",
+        "as": "পাস্কেল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The SI unit of radioactivity is the becquerel (Bq), which equals one nuclear decay per second. Therefore the correct unit is becquerel.",
+      "as": "তেজস্ক্ৰিয়তাৰ SI একক বেকৰেল (Bq), যি প্ৰতি ছেকেণ্ডত এটা নিউক্লীয় ক্ষয়ৰ সমান। সেয়ে শুদ্ধ একক বেকৰেল।"
+    }
+  },
+  {
+    "id": "physics-071",
+    "q": {
+      "en": "Which of the following is used in a nuclear reactor as a moderator?",
+      "as": "নিউক্লীয় ৰিয়েক্টৰত মডাৰেটৰ হিচাপে তলৰ কোনটো ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Uranium-235 only as fuel",
+        "as": "কেৱল ইন্ধন হিচাপে ইউৰেনিয়াম-২৩৫"
+      },
+      {
+        "en": "Lead",
+        "as": "চিহ্ন"
+      },
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      },
+      {
+        "en": "Heavy water",
+        "as": "গধুৰ পানী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In a nuclear reactor heavy water (D2O) is used as a moderator to slow down fast neutrons without absorbing them, sustaining the chain reaction. Hence heavy water is correct.",
+      "as": "নিউক্লীয় ৰিয়েক্টৰত গধুৰ পানী (D2O) মডাৰেটৰ হিচাপে ব্যৱহাৰ কৰা হয় যাতে দ্ৰুত নিউট্ৰন শোষণ নকৰি মন্থৰ কৰে আৰু শৃংখল প্ৰতিক্ৰিয়া চলি থাকে। সেয়ে গধুৰ পানী শুদ্ধ।"
+    }
+  },
+  {
+    "id": "physics-107",
+    "q": {
+      "en": "Alpha particles are?",
+      "as": "আলফা কণিকা কি?"
+    },
+    "options": [
+      {
+        "en": "Electrons",
+        "as": "ইলেক্ট্ৰন"
+      },
+      {
+        "en": "Protons",
+        "as": "প্ৰটন"
+      },
+      {
+        "en": "Helium nuclei",
+        "as": "হিলিয়াম নিউক্লিয়াছ"
+      },
+      {
+        "en": "Neutrons",
+        "as": "নিউট্ৰন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "An alpha particle is a helium nucleus containing two protons and two neutrons, i.e. He²⁺.",
+      "as": "আলফা কণিকা হৈছে দুটা প্ৰটন আৰু দুটা নিউট্ৰনৰে গঠিত হিলিয়াম নিউক্লিয়াছ, অৰ্থাৎ He²⁺।"
+    }
+  },
+  {
+    "id": "physics-108",
+    "q": {
+      "en": "Beta particles are?",
+      "as": "বিটা কণিকা কি?"
+    },
+    "options": [
+      {
+        "en": "Protons",
+        "as": "প্ৰটন"
+      },
+      {
+        "en": "Helium nuclei",
+        "as": "হিলিয়াম নিউক্লিয়াছ"
+      },
+      {
+        "en": "Neutrons",
+        "as": "নিউট্ৰন"
+      },
+      {
+        "en": "Fast moving electrons",
+        "as": "দ্ৰুতগামী ইলেক্ট্ৰন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Beta particles are fast-moving electrons emitted from the nucleus during beta decay.",
+      "as": "বিটা কণিকা হৈছে বিটা ক্ষয়ৰ সময়ত নিউক্লিয়াছৰ পৰা নিৰ্গত হোৱা দ্ৰুতগামী ইলেক্ট্ৰন।"
+    }
+  },
+  {
+    "id": "physics-109",
+    "q": {
+      "en": "The half-life of a radioactive substance is?",
+      "as": "তেজস্ক্ৰিয় পদাৰ্থৰ অৰ্ধায়ু কি?"
+    },
+    "options": [
+      {
+        "en": "Time in which half of the nuclei decay",
+        "as": "আধা নিউক্লিয়াছ ক্ষয় হোৱা সময়"
+      },
+      {
+        "en": "Time to become fully stable",
+        "as": "সম্পূৰ্ণ স্থিৰ হোৱা সময়"
+      },
+      {
+        "en": "Always 1 second",
+        "as": "সদায় ১ ছেকেণ্ড"
+      },
+      {
+        "en": "Time to double the mass",
+        "as": "ভৰ দুগুণ হোৱা সময়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Half-life is the time in which half of the nuclei of a radioactive sample decay.",
+      "as": "অৰ্ধায়ু হৈছে তেজস্ক্ৰিয় নমুনাৰ আধা সংখ্যক নিউক্লিয়াছ ক্ষয় হ'বলৈ লগা সময়।"
+    }
+  },
+  {
+    "id": "physics-110",
+    "q": {
+      "en": "Nuclear fission is?",
+      "as": "নিউক্লীয় বিভাজন কি?"
+    },
+    "options": [
+      {
+        "en": "Combining of light nuclei",
+        "as": "পাতল নিউক্লিয়াছৰ সংযোগ"
+      },
+      {
+        "en": "Splitting of a heavy nucleus",
+        "as": "গধুৰ নিউক্লিয়াছৰ বিভাজন"
+      },
+      {
+        "en": "Loss of electrons only",
+        "as": "কেৱল ইলেক্ট্ৰন হেৰুৱা"
+      },
+      {
+        "en": "Chemical burning",
+        "as": "ৰাসায়নিক দহন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Nuclear fission is the splitting of a heavy nucleus (such as uranium-235) into lighter nuclei, releasing a large amount of energy.",
+      "as": "নিউক্লীয় বিভাজন হৈছে এটা গধুৰ নিউক্লিয়াছ (যেনে ইউৰেনিয়াম-২৩৫) পাতল নিউক্লিয়াছত বিভক্ত হৈ বিপুল পৰিমাণৰ শক্তি মুক্ত কৰা প্ৰক্ৰিয়া।"
+    }
+  }
+]

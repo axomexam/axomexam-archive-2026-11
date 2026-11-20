@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vocabulary-067",
+    "q": {
+      "en": "Which word is different: happy, joyful, elated, gloomy?",
+      "as": "কোন শব্দটো বেলেগ: happy, joyful, elated, gloomy?"
+    },
+    "options": [
+      {
+        "en": "gloomy",
+        "as": "বিষণ্ণ"
+      },
+      {
+        "en": "happy",
+        "as": "আনন্দিত"
+      },
+      {
+        "en": "joyful",
+        "as": "আনন্দময়"
+      },
+      {
+        "en": "elated",
+        "as": "উৎফুল্ল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Happy, joyful and elated express joy, while gloomy expresses sadness.",
+      "as": "happy, joyful আৰু elated ৱে আনন্দ বুজায়, আনহাতে gloomy এ বিষাদ বুজায়।"
+    }
+  },
+  {
+    "id": "vocabulary-069",
+    "q": {
+      "en": "UNO stands for:",
+      "as": "UNO ৰ সম্পূৰ্ণ ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "Universal Nations Organization",
+        "as": "Universal Nations Organization"
+      },
+      {
+        "en": "Union of Nations Organization",
+        "as": "Union of Nations Organization"
+      },
+      {
+        "en": "United Nations Organization",
+        "as": "United Nations Organization"
+      },
+      {
+        "en": "United National Organization",
+        "as": "United National Organization"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "UNO stands for United Nations Organization.",
+      "as": "UNO ৰ সম্পূৰ্ণ ৰূপ হৈছে United Nations Organization।"
+    }
+  },
+  {
+    "id": "vocabulary-070",
+    "q": {
+      "en": "The adjective form of 'danger' is:",
+      "as": "'danger' ৰ বিশেষণ ৰূপ কি?"
+    },
+    "options": [
+      {
+        "en": "Dangerously",
+        "as": "বিপদজনকভাৱে"
+      },
+      {
+        "en": "Danger",
+        "as": "বিপদ"
+      },
+      {
+        "en": "Endangered",
+        "as": "বিপন্ন"
+      },
+      {
+        "en": "Dangerous",
+        "as": "বিপদজনক"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The adjective form of 'danger' is 'dangerous'.",
+      "as": "'danger' ৰ বিশেষণ ৰূপ হৈছে 'dangerous'।"
+    }
+  }
+]

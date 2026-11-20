@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry-027",
+    "q": {
+      "en": "The bond formed between carbon atoms in most organic compounds is?",
+      "as": "বেছিভাগ জৈৱ যৌগত কাৰ্বন পৰমাণুবোৰৰ মাজত গঠন হোৱা বান্ধোন কি?"
+    },
+    "options": [
+      {
+        "en": "Ionic",
+        "as": "আয়নিক"
+      },
+      {
+        "en": "Metallic",
+        "as": "ধাতৱীয়"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      },
+      {
+        "en": "Covalent",
+        "as": "সহযোগী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Carbon forms covalent bonds by sharing electrons with other atoms.",
+      "as": "কাৰ্বনে অন্য পৰমাণুৰ সৈতে ইলেক্ট্ৰন ভাগ কৰি সহযোগী বান্ধোন গঠন কৰে।"
+    }
+  }
+]

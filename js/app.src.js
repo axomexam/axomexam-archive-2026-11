@@ -4947,7 +4947,7 @@
      total, so flipping it would take those down too. Only these books are
      shown as ready in the /exams/ listing; every other book shows
      "Coming Soon" while its content stays unpublished. */
-  const EXAM_BOOKS_READY = ["assam-police", "rrb-ntpc", "adre-grade-3", "adre-grade-4"];
+  const EXAM_BOOKS_READY = ["assam-police", "rrb-ntpc", "adre-grade-3", "adre-grade-4", "dhs-dme-technical"];
   function examBookIsReady(exam) {
     return !!(exam && EXAM_BOOKS_READY.indexOf(exam.id) !== -1 && (exam.sections || []).length);
   }
@@ -4960,6 +4960,18 @@
   const EXAM_BOOKS_PREPARING = [];
   function examBookIsPreparing(exam) {
     return !!(exam && EXAM_BOOKS_PREPARING.indexOf(exam.id) !== -1);
+  }
+
+  /* A topic whose bank has not been written yet carries state
+     "content-preparing" in its index.json. The reader shows this panel instead
+     of "no content uploaded", which would read like a fault rather than a
+     schedule. It is deliberately not a popup: a reader who lands on a
+     placeholder topic should still see the neighbouring topics below it. */
+  function examTopicPreparingHTML() {
+    return `<div class="info-panel" data-content-preparing="1" style="max-width:760px; margin:0 auto; background:var(--bg,#ffffff); border:1px solid var(--border,#e2e8f0); border-radius:16px; padding:22px 24px; line-height:1.8; color:var(--ink-soft,#475569); text-align:left;">
+      <p style="margin:0 0 10px; font-weight:800; color:var(--ink,#0f172a); font-size:1.05rem;">${escapeHtml(t("exams.topicPreparingTitle"))}</p>
+      <p style="margin:0;">${escapeHtml(t("exams.topicPreparingMsg"))}</p>
+    </div>`;
   }
 
   /* The "content is being prepared" popup. Shown once per book per page load
@@ -6101,7 +6113,8 @@
       </div>`;
 
     const body = $("#exam-body");
-    const paint = makePaginatedQA(body, questions, `<div class="qa-empty"><p>${escapeHtml(t("exams.noContent"))}</p></div>`);
+    const preparing = !questions.length && await API.isExamTopicPreparing(examId, sectionId, subId);
+    const paint = makePaginatedQA(body, questions, preparing ? examTopicPreparingHTML() : `<div class="qa-empty"><p>${escapeHtml(t("exams.noContent"))}</p></div>`);
     paint();
     showReadProgress(color);
 
@@ -6198,7 +6211,8 @@
       </div>`;
 
     const body = $("#exam-body");
-    const paint = makePaginatedQA(body, questions, `<div class="qa-empty"><p>${escapeHtml(t("exams.noContent"))}</p></div>`);
+    const preparing = !questions.length && await API.isExamTopicPreparing(examId, sectionId, subId, childId);
+    const paint = makePaginatedQA(body, questions, preparing ? examTopicPreparingHTML() : `<div class="qa-empty"><p>${escapeHtml(t("exams.noContent"))}</p></div>`);
     paint();
     showReadProgress(color);
 

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "physics-013",
+    "q": {
+      "en": "Heat is a form of?",
+      "as": "তাপ কিৰ এটা ৰূপ?"
+    },
+    "options": [
+      {
+        "en": "Mass",
+        "as": "ভৰ"
+      },
+      {
+        "en": "Charge",
+        "as": "আধান"
+      },
+      {
+        "en": "Energy",
+        "as": "শক্তি"
+      },
+      {
+        "en": "Momentum",
+        "as": "ভৰবেগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Heat is a form of energy, specifically the energy transferred between bodies due to a temperature difference.",
+      "as": "তাপ হৈছে শক্তিৰ এটা ৰূপ; উষ্ণতাৰ পাৰ্থক্যৰ বাবে দুটা বস্তুৰ মাজত স্থানান্তৰিত শক্তিয়েই তাপ।"
+    }
+  },
+  {
+    "id": "physics-014",
+    "q": {
+      "en": "The boiling point of water at standard pressure is?",
+      "as": "মানক চাপত পানীৰ উতলাংক কিমান?"
+    },
+    "options": [
+      {
+        "en": "0°C",
+        "as": "০°C"
+      },
+      {
+        "en": "32°C",
+        "as": "৩২°C"
+      },
+      {
+        "en": "273°C",
+        "as": "২৭৩°C"
+      },
+      {
+        "en": "100°C",
+        "as": "১০০°C"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "At standard atmospheric pressure (1 atm), pure water boils at 100°C.",
+      "as": "মানক বায়ুমণ্ডলীয় চাপত (১ atm) বিশুদ্ধ পানী ১০০°C ত উতলে।"
+    }
+  },
+  {
+    "id": "physics-060",
+    "q": {
+      "en": "The process by which a liquid changes into vapour at any temperature is?",
+      "as": "যিকোনো উষ্ণতাত তৰল বাষ্পলৈ পৰিণত হোৱা প্ৰক্ৰিয়া কি?"
+    },
+    "options": [
+      {
+        "en": "Condensation",
+        "as": "ঘনীভৱন"
+      },
+      {
+        "en": "Evaporation",
+        "as": "বাষ্পীভৱন"
+      },
+      {
+        "en": "Freezing",
+        "as": "হিমাংকন"
+      },
+      {
+        "en": "Melting",
+        "as": "গলন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Evaporation is the change of a liquid into vapour at any temperature from its surface, without reaching the boiling point. Hence the correct process is evaporation.",
+      "as": "বাষ্পীভৱন হ'ল যিকোনো উষ্ণতাত তৰলৰ পৃষ্ঠৰ পৰা বাষ্পলৈ পৰিণতি, উতলাংকত নাপায়ো। সেয়ে শুদ্ধ প্ৰক্ৰিয়া বাষ্পীভৱন।"
+    }
+  },
+  {
+    "id": "physics-061",
+    "q": {
+      "en": "Absolute zero temperature is?",
+      "as": "পৰম শূন্য উষ্ণতা কিমান?"
+    },
+    "options": [
+      {
+        "en": "0°C",
+        "as": "০°C"
+      },
+      {
+        "en": "100°C",
+        "as": "১০০°C"
+      },
+      {
+        "en": "–273.15°C",
+        "as": "–২৭৩.১৫°C"
+      },
+      {
+        "en": "273°C",
+        "as": "২৭৩°C"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Absolute zero is the lowest possible temperature, 0 K = –273.15°C, at which molecular motion is minimum. Therefore the correct value is –273.15°C.",
+      "as": "পৰম শূন্য হ'ল সম্ভৱপৰ সৰ্বনিম্ন উষ্ণতা, 0 K = –২৭৩.১৫°C, য'ত অণুৰ গতি ন্যূনতম। সেয়ে শুদ্ধ মান –২৭৩.১৫°C।"
+    }
+  },
+  {
+    "id": "physics-062",
+    "q": {
+      "en": "The thermometer used to measure high temperature of furnaces is?",
+      "as": "চুলিৰ উচ্চ উষ্ণতা জুখিবলৈ ব্যৱহাৰ কৰা থাৰ্মোমিটাৰ কি?"
+    },
+    "options": [
+      {
+        "en": "Clinical thermometer",
+        "as": "ক্লিনিকেল থাৰ্মোমিটাৰ"
+      },
+      {
+        "en": "Barometer",
+        "as": "বেৰোমিটাৰ"
+      },
+      {
+        "en": "Hygrometer",
+        "as": "হাইগ্ৰোমিটাৰ"
+      },
+      {
+        "en": "Pyrometer",
+        "as": "পাইৰোমিটাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A pyrometer is used to measure very high temperatures such as those of furnaces by detecting the radiation emitted. Clinical thermometers cannot measure such high temperatures.",
+      "as": "পাইৰোমিটাৰে বিকিৰণ ধৰা পেলাই চুলিৰ দৰে অতি উচ্চ উষ্ণতা জুখিবলৈ ব্যৱহাৰ হয়। ক্লিনিকেল থাৰ্মোমিটাৰে এনে উচ্চ উষ্ণতা জুখিব নোৱাৰে।"
+    }
+  },
+  {
+    "id": "physics-095",
+    "q": {
+      "en": "The specific heat of water is?",
+      "as": "পানীৰ আপেক্ষিক তাপ কিমান?"
+    },
+    "options": [
+      {
+        "en": "1 J/g°C only in CGS wrongly stated as 4.2",
+        "as": "কেৱল ১ জুল/গ্ৰাম°C"
+      },
+      {
+        "en": "0.5 cal/g°C",
+        "as": "০.৫ কেলৰি/গ্ৰাম°C"
+      },
+      {
+        "en": "2 cal/g°C",
+        "as": "২ কেলৰি/গ্ৰাম°C"
+      },
+      {
+        "en": "1 cal/g°C",
+        "as": "১ কেলৰি/গ্ৰাম°C"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The specific heat of water is 1 cal/g°C (or 4.18 J/g°C), which is unusually high and is why water is used as a coolant.",
+      "as": "পানীৰ আপেক্ষিক তাপ ১ কেলৰি/গ্ৰাম°C (অৰ্থাৎ ৪.১৮ জুল/গ্ৰাম°C), যি অস্বাভাৱিকভাৱে বেছি; সেয়ে পানীক শীতলক হিচাপে ব্যৱহাৰ কৰা হয়।"
+    }
+  },
+  {
+    "id": "physics-106",
+    "q": {
+      "en": "Which radiation has the highest penetrating power?",
+      "as": "কোন ৰশ্মিৰ ভেদন ক্ষমতা সৰ্বাধিক?"
+    },
+    "options": [
+      {
+        "en": "Alpha rays",
+        "as": "আলফা ৰশ্মি"
+      },
+      {
+        "en": "Gamma rays",
+        "as": "গামা ৰশ্মি"
+      },
+      {
+        "en": "Beta rays",
+        "as": "বিটা ৰশ্মি"
+      },
+      {
+        "en": "Infrared rays",
+        "as": "অন্তৰক্তি ৰশ্মি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gamma rays are electromagnetic radiation with very short wavelength and no charge, giving them the highest penetrating power among alpha, beta and gamma radiations.",
+      "as": "গামা ৰশ্মি অতি চুটি তৰংগদৈৰ্ঘ্যৰ আৰু আধানবিহীন বিদ্যুৎচুম্বকীয় ৰশ্মি; সেয়ে আলফা, বিটা আৰু গামাৰ ভিতৰত ইয়াৰ ভেদন ক্ষমতা সৰ্বাধিক।"
+    }
+  }
+]

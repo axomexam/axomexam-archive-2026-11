@@ -1,0 +1,32 @@
+[
+  {
+    "id": "grammar-071",
+    "q": {
+      "en": "Change into indirect speech: He said, 'I am busy.'",
+      "as": "পৰোক্ষ উক্তিলৈ ৰূপান্তৰ কৰক: He said, 'I am busy.'"
+    },
+    "options": [
+      {
+        "en": "He said that he is busy.",
+        "as": "He said that he is busy."
+      },
+      {
+        "en": "He said that he was busy.",
+        "as": "He said that he was busy."
+      },
+      {
+        "en": "He says that he was busy.",
+        "as": "He says that he was busy."
+      },
+      {
+        "en": "He said that I am busy.",
+        "as": "He said that I am busy."
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "When the reporting verb is in the past, the present tense 'am' changes to 'was'.",
+      "as": "reporting verb অতীতকালত হ'লে present tense 'am' 'was' লৈ সলনি হয়।"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "verbal-reasoning-068",
+    "q": {
+      "en": "Which letter is midway between E and K in the alphabet?",
+      "as": "বৰ্ণমালাত E আৰু K-ৰ মাজৰ আখৰ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "F",
+        "as": "F"
+      },
+      {
+        "en": "G",
+        "as": "G"
+      },
+      {
+        "en": "I",
+        "as": "I"
+      },
+      {
+        "en": "H",
+        "as": "H"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "E is the 5th and K is the 11th letter of the alphabet. The midway letter is the 8th, which is H.",
+      "as": "বৰ্ণমালাত E হৈছে ৫ম আৰু K হৈছে ১১তম আখৰ। মাজৰ আখৰটো ৮ম অৰ্থাৎ H।"
+    }
+  }
+]

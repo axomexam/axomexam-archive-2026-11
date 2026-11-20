@@ -1,0 +1,182 @@
+[
+  {
+    "id": "chemistry-039",
+    "q": {
+      "en": "Which of the following is a natural polymer?",
+      "as": "তলৰ কোনটো প্ৰাকৃতিক পলিমাৰ?"
+    },
+    "options": [
+      {
+        "en": "Nylon",
+        "as": "নাইলন"
+      },
+      {
+        "en": "Cellulose",
+        "as": "চেলুল’জ"
+      },
+      {
+        "en": "Polythene",
+        "as": "পলিথিন"
+      },
+      {
+        "en": "PVC",
+        "as": "পিভিচি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cellulose is a natural polymer found in plants.",
+      "as": "চেলুল’জ উদ্ভিদত পোৱা এটা প্ৰাকৃতিক পলিমাৰ।"
+    }
+  },
+  {
+    "id": "chemistry-040",
+    "q": {
+      "en": "Which of the following is a synthetic polymer?",
+      "as": "তলৰ কোনটো কৃত্ৰিম পলিমাৰ?"
+    },
+    "options": [
+      {
+        "en": "Cellulose",
+        "as": "চেলুল’জ"
+      },
+      {
+        "en": "Starch",
+        "as": "ষ্টাৰ্চ"
+      },
+      {
+        "en": "Protein",
+        "as": "প্ৰ’টিন"
+      },
+      {
+        "en": "Nylon",
+        "as": "নাইলন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Nylon is a synthetic polymer made in industries.",
+      "as": "নাইলন উদ্যোগত তৈয়াৰ কৰা এটা কৃত্ৰিম পলিমাৰ।"
+    }
+  },
+  {
+    "id": "chemistry-041",
+    "q": {
+      "en": "Polythene is a polymer of which monomer?",
+      "as": "পলিথিন কোনটো monomerৰ পলিমাৰ?"
+    },
+    "options": [
+      {
+        "en": "Methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "Acetylene",
+        "as": "এচিটিলিন"
+      },
+      {
+        "en": "Ethene",
+        "as": "ইথিন"
+      },
+      {
+        "en": "Benzene",
+        "as": "বেঞ্জিন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Polythene is formed by the polymerisation of ethene.",
+      "as": "ইথিনৰ পলিমাৰীকৰণৰ দ্বাৰা পলিথিন গঠিত হয়।"
+    }
+  },
+  {
+    "id": "chemistry-042",
+    "q": {
+      "en": "Which of the following is a thermosetting plastic?",
+      "as": "তলৰ কোনটো থাৰ্ম’চেটিং প্লাষ্টিক?"
+    },
+    "options": [
+      {
+        "en": "Bakelite",
+        "as": "বেকেলাইট"
+      },
+      {
+        "en": "Polythene",
+        "as": "পলিথিন"
+      },
+      {
+        "en": "PVC",
+        "as": "পিভিচি"
+      },
+      {
+        "en": "Nylon",
+        "as": "নাইলন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bakelite is a thermosetting plastic that cannot be softened again by heating.",
+      "as": "বেকেলাইট এটা থাৰ্ম’চেটিং প্লাষ্টিক যি পুনৰ উত্তপ্ত কৰিলেও নৰম হ'ব নোৱাৰে।"
+    }
+  },
+  {
+    "id": "chemistry-043",
+    "q": {
+      "en": "Which of the following is a thermoplastic?",
+      "as": "তলৰ কোনটো থাৰ্ম’প্লাষ্টিক?"
+    },
+    "options": [
+      {
+        "en": "Bakelite",
+        "as": "বেকেলাইট"
+      },
+      {
+        "en": "Polythene",
+        "as": "পলিথিন"
+      },
+      {
+        "en": "Melamine",
+        "as": "মেলামাইন"
+      },
+      {
+        "en": "Vulcanised rubber",
+        "as": "ভালকানাইজড ৰবৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Polythene is a thermoplastic that softens on heating and can be moulded again.",
+      "as": "পলিথিন এটা থাৰ্ম’প্লাষ্টিক যি উত্তপ্ত কৰিলে নৰম হয় আৰু পুনৰ ঢালাই কৰিব পাৰি।"
+    }
+  },
+  {
+    "id": "chemistry-045",
+    "q": {
+      "en": "The process of forming a large molecule (polymer) from small repeating units is called?",
+      "as": "সৰু পুনৰাবৃত্তিমূলক এককৰ পৰা ডাঙৰ অণু (পলিমাৰ) গঠন কৰা প্ৰক্ৰিয়াটোক কি বোলা হয়?"
+    },
+    "options": [
+      {
+        "en": "Catenation",
+        "as": "শৃংখলাবদ্ধতা"
+      },
+      {
+        "en": "Polymerisation",
+        "as": "পলিমাৰীকৰণ"
+      },
+      {
+        "en": "Combustion",
+        "as": "দহন"
+      },
+      {
+        "en": "Distillation",
+        "as": "আসৱন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Polymerisation is the process of joining small monomer units to form a polymer.",
+      "as": "পলিমাৰীকৰণ হ'ল সৰু monomer একক সংযুক্ত কৰি পলিমাৰ গঠন কৰা প্ৰক্ৰিয়া।"
+    }
+  }
+]

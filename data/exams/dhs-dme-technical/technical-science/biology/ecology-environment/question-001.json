@@ -1,0 +1,362 @@
+[
+  {
+    "id": "biology-027",
+    "q": {
+      "en": "Which of the following is a biotic component of an ecosystem?",
+      "as": "তলৰ কোনটো পৰিৱেশ তন্ত্ৰৰ জৈৱ উপাদান?"
+    },
+    "options": [
+      {
+        "en": "Plants",
+        "as": "উদ্ভিদ"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
+      },
+      {
+        "en": "Soil",
+        "as": "মাটি"
+      },
+      {
+        "en": "Air",
+        "as": "বায়ু"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Plants are a biotic component of an ecosystem.",
+      "as": "উদ্ভিদ পৰিৱেশ তন্ত্ৰৰ এক জৈৱ উপাদান।"
+    }
+  },
+  {
+    "id": "biology-028",
+    "q": {
+      "en": "Which of the following is an abiotic component of an ecosystem?",
+      "as": "তলৰ কোনটো পৰিৱেশ তন্ত্ৰৰ অজৈৱ উপাদান?"
+    },
+    "options": [
+      {
+        "en": "Plants",
+        "as": "উদ্ভিদ"
+      },
+      {
+        "en": "Animals",
+        "as": "প্ৰাণী"
+      },
+      {
+        "en": "Fungi",
+        "as": "ভেঁকুৰ"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Water is an abiotic component of an ecosystem.",
+      "as": "পানী পৰিৱেশ তন্ত্ৰৰ এক অজৈৱ উপাদান।"
+    }
+  },
+  {
+    "id": "biology-031",
+    "q": {
+      "en": "The 10 percent law of energy transfer in food chains was proposed by?",
+      "as": "খাদ্য শৃংখলত শক্তি স্থানান্তৰণৰ ১০ শতাংশ নিয়ম কোনে প্ৰস্তাৱ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Lindeman",
+        "as": "লিণ্ডমেন"
+      },
+      {
+        "en": "Darwin",
+        "as": "ডাৰউইন"
+      },
+      {
+        "en": "Mendel",
+        "as": "মেণ্ডেল"
+      },
+      {
+        "en": "Odum",
+        "as": "অ'ডাম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The 10 percent law of energy transfer was proposed by Lindeman.",
+      "as": "শক্তি স্থানান্তৰণৰ ১০ শতাংশ নিয়ম লিণ্ডমেনে প্ৰস্তাৱ কৰিছিল।"
+    }
+  },
+  {
+    "id": "biology-033",
+    "q": {
+      "en": "Interconnected food chains in an ecosystem form a?",
+      "as": "পৰিৱেশ তন্ত্ৰত পৰস্পৰ সংযুক্ত খাদ্য শৃংখলবোৰে কি গঠন কৰে?"
+    },
+    "options": [
+      {
+        "en": "Food chain",
+        "as": "খাদ্য শৃংখল"
+      },
+      {
+        "en": "Food web",
+        "as": "খাদ্য জাল"
+      },
+      {
+        "en": "Food pyramid",
+        "as": "খাদ্য পিৰামিড"
+      },
+      {
+        "en": "Ecosystem",
+        "as": "পৰিৱেশ তন্ত্ৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Interconnected food chains form a food web.",
+      "as": "পৰস্পৰ সংযুক্ত খাদ্য শৃংখলবোৰে খাদ্য জাল গঠন কৰে।"
+    }
+  },
+  {
+    "id": "biology-035",
+    "q": {
+      "en": "The ozone layer protects living beings from?",
+      "as": "অ'জ'ন স্তৰে জীৱিত প্ৰাণীক কিৰ পৰা ৰক্ষা কৰে?"
+    },
+    "options": [
+      {
+        "en": "Infrared rays",
+        "as": "অৱৰক্ত ৰশ্মি"
+      },
+      {
+        "en": "X-rays",
+        "as": "এক্স-ৰে"
+      },
+      {
+        "en": "Gamma rays",
+        "as": "গামা ৰশ্মি"
+      },
+      {
+        "en": "Ultraviolet rays",
+        "as": "অতি বেঙুনীয়া ৰশ্মি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The ozone layer protects living beings from ultraviolet rays.",
+      "as": "অ'জ'ন স্তৰে জীৱিত প্ৰাণীক অতি বেঙুনীয়া ৰশ্মিৰ পৰা ৰক্ষা কৰে।"
+    }
+  },
+  {
+    "id": "biology-036",
+    "q": {
+      "en": "The Chipko Movement is associated with the protection of?",
+      "as": "চিপকো আন্দোলন কি ৰক্ষা কৰাৰ লগত জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Forests",
+        "as": "বন"
+      },
+      {
+        "en": "Rivers",
+        "as": "নদী"
+      },
+      {
+        "en": "Wildlife",
+        "as": "বন্যপ্ৰাণী"
+      },
+      {
+        "en": "Soil",
+        "as": "মাটি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Chipko Movement was launched to protect forests and trees.",
+      "as": "চিপকো আন্দোলন বন আৰু গছ ৰক্ষা কৰিবলৈ আৰম্ভ কৰা হৈছিল।"
+    }
+  },
+  {
+    "id": "biology-037",
+    "q": {
+      "en": "World Environment Day is celebrated on?",
+      "as": "বিশ্ব পৰিৱেশ দিৱস কেতিয়া পালন কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "22 April",
+        "as": "২২ এপ্ৰিল"
+      },
+      {
+        "en": "21 March",
+        "as": "২১ মাৰ্চ"
+      },
+      {
+        "en": "5 June",
+        "as": "৫ জুন"
+      },
+      {
+        "en": "16 September",
+        "as": "১৬ ছেপ্তেম্বৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "World Environment Day is celebrated on 5 June every year.",
+      "as": "প্ৰতি বছৰে ৫ জুনত বিশ্ব পৰিৱেশ দিৱস পালন কৰা হয়।"
+    }
+  },
+  {
+    "id": "biology-043",
+    "q": {
+      "en": "Deepor Beel, a Ramsar wetland site, is located near which city?",
+      "as": "ৰামছাৰ জলাশয় স্থল দীপৰ বিল কোনখন নগৰৰ ওচৰত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Dibrugarh",
+        "as": "ডিব্ৰুগড়"
+      },
+      {
+        "en": "Guwahati",
+        "as": "গুৱাহাটী"
+      },
+      {
+        "en": "Jorhat",
+        "as": "যোৰহাট"
+      },
+      {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Deepor Beel, a Ramsar wetland site, is located near Guwahati.",
+      "as": "ৰামছাৰ জলাশয় স্থল দীপৰ বিল গুৱাহাটীৰ ওচৰত অৱস্থিত।"
+    }
+  },
+  {
+    "id": "biology-133",
+    "q": {
+      "en": "The pyramid of energy in an ecosystem is always?",
+      "as": "পৰিস্থিতিতন্ত্ৰত শক্তিৰ পিৰামিড সদায় কেনেকুৱা?"
+    },
+    "options": [
+      {
+        "en": "Inverted",
+        "as": "ওলোটা"
+      },
+      {
+        "en": "Both upright and inverted",
+        "as": "সৰল আৰু ওলোটা দুয়োটা"
+      },
+      {
+        "en": "Upright",
+        "as": "সৰল"
+      },
+      {
+        "en": "Circular",
+        "as": "বৃত্তাকাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The pyramid of energy in an ecosystem is always upright.",
+      "as": "পৰিস্থিতিতন্ত্ৰত শক্তিৰ পিৰামিড সদায় সৰল (তলত আধাৰ বহল)।"
+    }
+  },
+  {
+    "id": "biology-134",
+    "q": {
+      "en": "The first trophic level in a food chain is?",
+      "as": "খাদ্য শৃংখলৰ প্ৰথম ট্ৰফিক স্তৰ কি?"
+    },
+    "options": [
+      {
+        "en": "Herbivores",
+        "as": "তৃণভোজী"
+      },
+      {
+        "en": "Carnivores",
+        "as": "মাংসভোজী"
+      },
+      {
+        "en": "Decomposers",
+        "as": "বিয়োজক"
+      },
+      {
+        "en": "Producers (green plants)",
+        "as": "উৎপাদক (সেউজীয়া উদ্ভিদ)"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The first trophic level in a food chain is occupied by producers (green plants).",
+      "as": "খাদ্য শৃংখলৰ প্ৰথম ট্ৰফিক স্তৰ উৎপাদক (সেউজীয়া উদ্ভিদ)ৰ।"
+    }
+  },
+  {
+    "id": "biology-135",
+    "q": {
+      "en": "An example of a decomposer is?",
+      "as": "বিয়োজকৰ উদাহৰণ কি?"
+    },
+    "options": [
+      {
+        "en": "Fungi and bacteria",
+        "as": "ভঁইকুৰ আৰু বেক্টেৰিয়া"
+      },
+      {
+        "en": "Tiger",
+        "as": "বাঘ"
+      },
+      {
+        "en": "Deer",
+        "as": "হৰিণা"
+      },
+      {
+        "en": "Grass",
+        "as": "ঘাঁহ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fungi and bacteria are examples of decomposers.",
+      "as": "ভঁইকুৰ আৰু বেক্টেৰিয়া বিয়োজকৰ উদাহৰণ।"
+    }
+  },
+  {
+    "id": "biology-137",
+    "q": {
+      "en": "Manas National Park is located in?",
+      "as": "মানস ৰাষ্ট্ৰীয় উদ্যান ক’ত অৱস্থিত?"
+    },
+    "options": [
+      {
+        "en": "Meghalaya",
+        "as": "মেঘালয়"
+      },
+      {
+        "en": "Nagaland",
+        "as": "নাগালেণ্ড"
+      },
+      {
+        "en": "Assam",
+        "as": "অসম"
+      },
+      {
+        "en": "Sikkim",
+        "as": "ছিক্কিম"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Manas National Park is located in Assam.",
+      "as": "মানস ৰাষ্ট্ৰীয় উদ্যান অসমত অৱস্থিত।"
+    }
+  }
+]

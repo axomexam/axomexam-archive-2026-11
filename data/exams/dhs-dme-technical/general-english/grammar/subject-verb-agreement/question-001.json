@@ -1,0 +1,92 @@
+[
+  {
+    "id": "grammar-008",
+    "q": {
+      "en": "Neither Ram ___ Shyam was present.",
+      "as": "ৰামও নাছিল, শ্যামও উপস্থিত নাছিল।"
+    },
+    "options": [
+      {
+        "en": "or",
+        "as": "or"
+      },
+      {
+        "en": "and",
+        "as": "and"
+      },
+      {
+        "en": "nor",
+        "as": "nor"
+      },
+      {
+        "en": "but",
+        "as": "but"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Neither ... nor' is the correct correlative pair.",
+      "as": "'neither ... nor' হৈছে শুদ্ধ যুগল।"
+    }
+  },
+  {
+    "id": "grammar-048",
+    "q": {
+      "en": "Either he or I ___ to go.",
+      "as": "তেওঁ বা মই যাব লাগিব।"
+    },
+    "options": [
+      {
+        "en": "are",
+        "as": "are"
+      },
+      {
+        "en": "is",
+        "as": "is"
+      },
+      {
+        "en": "am",
+        "as": "am"
+      },
+      {
+        "en": "were",
+        "as": "were"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "With 'either ... or', the verb agrees with the nearer subject 'I', so 'am' is used.",
+      "as": "'either ... or' ৰ সৈতে verb ওচৰৰ subject 'I' ৰ লগত মিলে, সেয়ে 'am' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-065",
+    "q": {
+      "en": "Each of the students ___ a book.",
+      "as": "প্ৰতিজন ছাত্ৰৰ ওচৰত এখন কিতাপ ___।"
+    },
+    "options": [
+      {
+        "en": "have",
+        "as": "have"
+      },
+      {
+        "en": "having",
+        "as": "having"
+      },
+      {
+        "en": "are",
+        "as": "are"
+      },
+      {
+        "en": "has",
+        "as": "has"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'Each' is singular, so it takes the singular verb 'has'.",
+      "as": "'Each' singular, সেয়ে ই singular verb 'has' লয়।"
+    }
+  }
+]

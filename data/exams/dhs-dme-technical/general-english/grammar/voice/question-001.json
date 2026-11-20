@@ -1,0 +1,122 @@
+[
+  {
+    "id": "grammar-038",
+    "q": {
+      "en": "Change into passive: 'Open the door.'",
+      "as": "কৰ্মবাচ্যলৈ সলাওক: 'Open the door.'"
+    },
+    "options": [
+      {
+        "en": "The door is opened.",
+        "as": "The door is opened."
+      },
+      {
+        "en": "Let the door be opened.",
+        "as": "Let the door be opened."
+      },
+      {
+        "en": "The door was opened.",
+        "as": "The door was opened."
+      },
+      {
+        "en": "The door has been opened.",
+        "as": "The door has been opened."
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "An imperative sentence becomes 'Let ... be + past participle' in the passive.",
+      "as": "imperative বাক্য passive ত 'Let ... be + past participle' লৈ পৰিণত হয়।"
+    }
+  },
+  {
+    "id": "grammar-039",
+    "q": {
+      "en": "Change into passive: 'Who wrote this book?'",
+      "as": "কৰ্মবাচ্যলৈ সলাওক: 'Who wrote this book?'"
+    },
+    "options": [
+      {
+        "en": "By whom was this book written?",
+        "as": "By whom was this book written?"
+      },
+      {
+        "en": "Who was this book written?",
+        "as": "Who was this book written?"
+      },
+      {
+        "en": "By who this book was written?",
+        "as": "By who this book was written?"
+      },
+      {
+        "en": "This book wrote by whom?",
+        "as": "This book wrote by whom?"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The passive of 'Who wrote this book?' is 'By whom was this book written?'.",
+      "as": "'Who wrote this book?' ৰ passive হৈছে 'By whom was this book written?'।"
+    }
+  },
+  {
+    "id": "grammar-069",
+    "q": {
+      "en": "Change into passive voice: They built the bridge in 1990.",
+      "as": "কৰ্মবাচ্যলৈ ৰূপান্তৰ কৰক: They built the bridge in 1990."
+    },
+    "options": [
+      {
+        "en": "The bridge was built in 1990.",
+        "as": "The bridge was built in 1990."
+      },
+      {
+        "en": "The bridge is built in 1990.",
+        "as": "The bridge is built in 1990."
+      },
+      {
+        "en": "The bridge has built in 1990.",
+        "as": "The bridge has built in 1990."
+      },
+      {
+        "en": "The bridge built in 1990.",
+        "as": "The bridge built in 1990."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The simple past active 'built' becomes 'was built' in the passive voice.",
+      "as": "simple past ৰ কৰ্তৃবাচ্য 'built' কৰ্মবাচ্যত 'was built' হয়।"
+    }
+  },
+  {
+    "id": "grammar-070",
+    "q": {
+      "en": "Change into active voice: The letter was written by her.",
+      "as": "কৰ্তৃবাচ্যলৈ ৰূপান্তৰ কৰক: The letter was written by her."
+    },
+    "options": [
+      {
+        "en": "She wrote the letter.",
+        "as": "She wrote the letter."
+      },
+      {
+        "en": "She writes the letter.",
+        "as": "She writes the letter."
+      },
+      {
+        "en": "She has wrote the letter.",
+        "as": "She has wrote the letter."
+      },
+      {
+        "en": "The letter wrote her.",
+        "as": "The letter wrote her."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In the active voice the subject performs the action: 'She wrote the letter.'",
+      "as": "কৰ্তৃবাচ্যত কৰ্তাই কাৰ্য কৰে: 'She wrote the letter.'"
+    }
+  }
+]

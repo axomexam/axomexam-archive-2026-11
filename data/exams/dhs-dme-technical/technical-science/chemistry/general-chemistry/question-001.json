@@ -1,0 +1,662 @@
+[
+  {
+    "id": "chemistry-001",
+    "q": {
+      "en": "The chemical symbol of sodium is?",
+      "as": "ছডিয়ামৰ ৰাসায়নিক প্ৰতীক কি?"
+    },
+    "options": [
+      {
+        "en": "Na",
+        "as": "Na"
+      },
+      {
+        "en": "So",
+        "as": "So"
+      },
+      {
+        "en": "Sd",
+        "as": "Sd"
+      },
+      {
+        "en": "S",
+        "as": "S"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The chemical symbol of sodium is Na, taken from its Latin name natrium.",
+      "as": "ছডিয়ামৰ ৰাসায়নিক প্ৰতীক Na, লেটিন নাম natrium-ৰ পৰা লোৱা।"
+    }
+  },
+  {
+    "id": "chemistry-004",
+    "q": {
+      "en": "The lightest element is?",
+      "as": "আটাইতকৈ পাতল মৌল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Helium",
+        "as": "হিলিয়াম"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Hydrogen is the lightest element.",
+      "as": "হাইড্ৰজেন আটাইতকৈ পাতল মৌল।"
+    }
+  },
+  {
+    "id": "chemistry-007",
+    "q": {
+      "en": "The gas used in fire extinguishers is?",
+      "as": "জুই নুমুৱা যন্ত্ৰত ব্যৱহাৰ কৰা গেছ কি?"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Nitrogen dioxide",
+        "as": "নাইট্ৰজেন ডাইঅক্সাইড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Carbon dioxide is used in fire extinguishers.",
+      "as": "কাৰ্বন ডাইঅক্সাইড জুই নুমুৱা যন্ত্ৰত ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-008",
+    "q": {
+      "en": "The most abundant gas in the atmosphere is?",
+      "as": "বায়ুমণ্ডলত আটাইতকৈ বেছি পৰিমাণে থকা গেছ কি?"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Nitrogen is the most abundant gas in the atmosphere, about 78 percent.",
+      "as": "বায়ুমণ্ডলত আটাইতকৈ বেছি থকা গেছ নাইট্ৰজেন, প্ৰায় ৭৮ শতাংশ।"
+    }
+  },
+  {
+    "id": "chemistry-011",
+    "q": {
+      "en": "The hardest natural substance is?",
+      "as": "আটাইতকৈ কঠিন প্ৰাকৃতিক পদাৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Quartz",
+        "as": "কোৱাৰ্টজ"
+      },
+      {
+        "en": "Diamond",
+        "as": "হীৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Diamond is the hardest natural substance.",
+      "as": "হীৰা আটাইতকৈ কঠিন প্ৰাকৃতিক পদাৰ্থ।"
+    }
+  },
+  {
+    "id": "chemistry-012",
+    "q": {
+      "en": "Diamond and graphite are?",
+      "as": "হীৰা আৰু গ্ৰেফাইট কি?"
+    },
+    "options": [
+      {
+        "en": "Allotropes of carbon",
+        "as": "কাৰ্বনৰ এলট্ৰপ"
+      },
+      {
+        "en": "Isotopes of carbon",
+        "as": "কাৰ্বনৰ আইছটপ"
+      },
+      {
+        "en": "Isomers",
+        "as": "আইছমাৰ"
+      },
+      {
+        "en": "Compounds of carbon",
+        "as": "কাৰ্বনৰ যৌগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Diamond and graphite are allotropes of carbon.",
+      "as": "হীৰা আৰু গ্ৰেফাইট কাৰ্বনৰ এলট্ৰপ (ৰূপভেদ)।"
+    }
+  },
+  {
+    "id": "chemistry-013",
+    "q": {
+      "en": "The chemical used in whitewashing is?",
+      "as": "বগা ৰং কৰাত ব্যৱহাৰ কৰা ৰাসায়নিক পদাৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "Calcium carbonate",
+        "as": "কেলচিয়াম কাৰ্বনেট"
+      },
+      {
+        "en": "Calcium hydroxide",
+        "as": "কেলচিয়াম হাইড্ৰক্সাইড"
+      },
+      {
+        "en": "Sodium hydroxide",
+        "as": "ছডিয়াম হাইড্ৰক্সাইড"
+      },
+      {
+        "en": "Calcium chloride",
+        "as": "কেলচিয়াম ক্লৰাইড"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Calcium hydroxide (slaked lime) is used in whitewashing.",
+      "as": "বগা ৰং কৰাত কেলচিয়াম হাইড্ৰক্সাইড (পানী-চুণ) ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-016",
+    "q": {
+      "en": "The SI unit of amount of substance is?",
+      "as": "পদাৰ্থৰ পৰিমাণৰ SI একক কি?"
+    },
+    "options": [
+      {
+        "en": "Mole",
+        "as": "মোল"
+      },
+      {
+        "en": "Gram",
+        "as": "গ্ৰাম"
+      },
+      {
+        "en": "Litre",
+        "as": "লিটাৰ"
+      },
+      {
+        "en": "Kelvin",
+        "as": "কেলভিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The SI unit of amount of substance is the mole.",
+      "as": "পদাৰ্থৰ পৰিমাণৰ SI একক মোল।"
+    }
+  },
+  {
+    "id": "chemistry-044",
+    "q": {
+      "en": "In waste management, the 'three R's' stand for Reduce, Reuse and?",
+      "as": "আৱৰ্জনা ব্যৱস্থাপনাত 'তিনিটা R' ৰ অৰ্থ হৈছে Reduce, Reuse আৰু?"
+    },
+    "options": [
+      {
+        "en": "Reject",
+        "as": "প্ৰত্যাখ্যান"
+      },
+      {
+        "en": "Repair",
+        "as": "মেৰামতি"
+      },
+      {
+        "en": "Remove",
+        "as": "আঁতৰোৱা"
+      },
+      {
+        "en": "Recycle",
+        "as": "পুনৰ্চক্ৰণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The three R's of waste management are Reduce, Reuse and Recycle.",
+      "as": "আৱৰ্জনা ব্যৱস্থাপনাৰ তিনিটা R হ'ল হ্ৰাস, পুনৰ্ব্যৱহাৰ আৰু পুনৰ্চক্ৰণ।"
+    }
+  },
+  {
+    "id": "chemistry-048",
+    "q": {
+      "en": "Which of the following is a non-biodegradable waste?",
+      "as": "তলৰ কোনটো অ-জৈৱ-বিয়োজনযোগ্য আৱৰ্জনা?"
+    },
+    "options": [
+      {
+        "en": "Paper",
+        "as": "কাগজ"
+      },
+      {
+        "en": "Wood",
+        "as": "কাঠ"
+      },
+      {
+        "en": "Plastic",
+        "as": "প্লাষ্টিক"
+      },
+      {
+        "en": "Cotton",
+        "as": "কপাহ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Plastic is a non-biodegradable waste that is not decomposed by microorganisms.",
+      "as": "প্লাষ্টিক এটা অ-জৈৱ-বিয়োজনযোগ্য আৱৰ্জনা যি অণুজীৱৰ দ্বাৰা বিয়োজিত নহয়।"
+    }
+  },
+  {
+    "id": "chemistry-052",
+    "q": {
+      "en": "Aqua regia is a mixture of?",
+      "as": "একোৱা ৰেজিয়া কিৰ মিশ্ৰণ?"
+    },
+    "options": [
+      {
+        "en": "HCl and H2SO4",
+        "as": "HCl আৰু H2SO4"
+      },
+      {
+        "en": "HNO3 and H2SO4",
+        "as": "HNO3 আৰু H2SO4"
+      },
+      {
+        "en": "HCl and CH3COOH",
+        "as": "HCl আৰু CH3COOH"
+      },
+      {
+        "en": "Conc. HCl and conc. HNO3",
+        "as": "গাঢ় HCl আৰু গাঢ় HNO3"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Aqua regia is a mixture of concentrated HCl and concentrated HNO3 in a 3:1 ratio.",
+      "as": "একোৱা ৰেজিয়া গাঢ় HCl আৰু গাঢ় HNO3-ৰ ৩:১ মিশ্ৰণ।"
+    }
+  },
+  {
+    "id": "chemistry-068",
+    "q": {
+      "en": "Ozone has the formula?",
+      "as": "ওজনৰ সংকেত কি?"
+    },
+    "options": [
+      {
+        "en": "O2",
+        "as": "O2"
+      },
+      {
+        "en": "O",
+        "as": "O"
+      },
+      {
+        "en": "O4",
+        "as": "O4"
+      },
+      {
+        "en": "O3",
+        "as": "O3"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ozone has the formula O3.",
+      "as": "ওজনৰ সংকেত O3।"
+    }
+  },
+  {
+    "id": "chemistry-070",
+    "q": {
+      "en": "Haber process is used to manufacture?",
+      "as": "হেবাৰ প্ৰক্ৰিয়া কি তৈয়াৰ কৰিবলৈ ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "H2SO4",
+        "as": "H2SO4"
+      },
+      {
+        "en": "Ammonia",
+        "as": "এমোনিয়া"
+      },
+      {
+        "en": "HNO3",
+        "as": "HNO3"
+      },
+      {
+        "en": "NaOH",
+        "as": "NaOH"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The Haber process is used to manufacture ammonia.",
+      "as": "হেবাৰ প্ৰক্ৰিয়া এমোনিয়া তৈয়াৰ কৰিবলৈ ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-071",
+    "q": {
+      "en": "Contact process is used to manufacture?",
+      "as": "কণ্টেক্ট প্ৰক্ৰিয়া কি তৈয়াৰ কৰিবলৈ ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Ammonia",
+        "as": "এমোনিয়া"
+      },
+      {
+        "en": "Nitric acid",
+        "as": "নাইট্ৰিক এচিড"
+      },
+      {
+        "en": "Sulphuric acid",
+        "as": "ছালফিউৰিক এচিড"
+      },
+      {
+        "en": "Hydrochloric acid",
+        "as": "হাইড্ৰক্লৰিক এচিড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Contact process is used to manufacture sulphuric acid.",
+      "as": "কণ্টেক্ট প্ৰক্ৰিয়া ছালফিউৰিক এচিড তৈয়াৰ কৰিবলৈ ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-072",
+    "q": {
+      "en": "The chemical formula of ammonia is?",
+      "as": "এমোনিয়াৰ ৰাসায়নিক সংকেত কি?"
+    },
+    "options": [
+      {
+        "en": "NO2",
+        "as": "NO2"
+      },
+      {
+        "en": "N2O",
+        "as": "N2O"
+      },
+      {
+        "en": "NH4",
+        "as": "NH4"
+      },
+      {
+        "en": "NH3",
+        "as": "NH3"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The chemical formula of ammonia is NH3.",
+      "as": "এমোনিয়াৰ ৰাসায়নিক সংকেত NH3।"
+    }
+  },
+  {
+    "id": "chemistry-073",
+    "q": {
+      "en": "Which of the following is a greenhouse gas?",
+      "as": "তলৰ কোনটো সেউজ গৃহ গেছ?"
+    },
+    "options": [
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Carbon dioxide is a greenhouse gas.",
+      "as": "কাৰ্বন ডাইঅক্সাইড এটা সেউজ গৃহ গেছ।"
+    }
+  },
+  {
+    "id": "chemistry-104",
+    "q": {
+      "en": "The gas evolved when zinc reacts with dilute HCl is?",
+      "as": "জিংকে তৰল HCl-ৰ সৈতে বিক্ৰিয়া কৰিলে কি গেছ ওলায়?"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Zinc reacts with dilute HCl to release hydrogen gas.",
+      "as": "জিংকে তৰল HCl-ৰ সৈতে বিক্ৰিয়া কৰি হাইড্ৰজেন গেছ নিৰ্গত কৰে।"
+    }
+  },
+  {
+    "id": "chemistry-107",
+    "q": {
+      "en": "Quicklime is?",
+      "as": "জ্বলন্ত চুণ কি?"
+    },
+    "options": [
+      {
+        "en": "CaO",
+        "as": "CaO"
+      },
+      {
+        "en": "Ca(OH)2",
+        "as": "Ca(OH)2"
+      },
+      {
+        "en": "CaCO3",
+        "as": "CaCO3"
+      },
+      {
+        "en": "CaSO4",
+        "as": "CaSO4"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Quicklime is calcium oxide (CaO).",
+      "as": "জ্বলন্ত চুণ (কুইকলাইম) হৈছে কেলচিয়াম অক্সাইড (CaO)।"
+    }
+  },
+  {
+    "id": "chemistry-108",
+    "q": {
+      "en": "Limestone is mainly?",
+      "as": "চুণশিল মূলতঃ কি?"
+    },
+    "options": [
+      {
+        "en": "CaO",
+        "as": "CaO"
+      },
+      {
+        "en": "CaCO3",
+        "as": "CaCO3"
+      },
+      {
+        "en": "Ca(OH)2",
+        "as": "Ca(OH)2"
+      },
+      {
+        "en": "CaCl2",
+        "as": "CaCl2"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Limestone is mainly calcium carbonate (CaCO3).",
+      "as": "চুণশিল মূলতঃ কেলচিয়াম কাৰ্বনেট (CaCO3)।"
+    }
+  },
+  {
+    "id": "chemistry-114",
+    "q": {
+      "en": "Iodine is used to test the presence of?",
+      "as": "আয়ডিনে কিৰ উপস্থিতি পৰীক্ষা কৰিবলৈ ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Protein",
+        "as": "প্ৰ’টিন"
+      },
+      {
+        "en": "Fat",
+        "as": "চৰ্বি"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন চি"
+      },
+      {
+        "en": "Starch",
+        "as": "ষ্টাৰ্চ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Iodine solution is used to test for the presence of starch.",
+      "as": "আয়ডিন দ্ৰৱে ষ্টাৰ্চৰ উপস্থিতি পৰীক্ষা কৰিবলৈ ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-127",
+    "q": {
+      "en": "The SI unit of temperature is?",
+      "as": "উষ্ণতাৰ SI একক কি?"
+    },
+    "options": [
+      {
+        "en": "Celsius",
+        "as": "চেলছিয়াছ"
+      },
+      {
+        "en": "Fahrenheit",
+        "as": "ফাৰেনহাইট"
+      },
+      {
+        "en": "Rankine",
+        "as": "ৰেংকিন"
+      },
+      {
+        "en": "Kelvin",
+        "as": "কেলভিন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The SI unit of temperature is the kelvin.",
+      "as": "উষ্ণতাৰ SI একক কেলভিন।"
+    }
+  },
+  {
+    "id": "chemistry-128",
+    "q": {
+      "en": "0°C is equal to?",
+      "as": "০°C কিমানৰ সমান?"
+    },
+    "options": [
+      {
+        "en": "273 K",
+        "as": "২৭৩ কেলভিন"
+      },
+      {
+        "en": "100 K",
+        "as": "১০০ কেলভিন"
+      },
+      {
+        "en": "0 K",
+        "as": "০ কেলভিন"
+      },
+      {
+        "en": "373 K",
+        "as": "৩৭৩ কেলভিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "0 degrees Celsius is equal to 273 K.",
+      "as": "০ ডিগ্ৰী চেলছিয়াছ ২৭৩ কেলভিনৰ সমান।"
+    }
+  }
+]

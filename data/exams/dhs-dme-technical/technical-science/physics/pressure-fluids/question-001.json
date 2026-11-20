@@ -1,0 +1,212 @@
+[
+  {
+    "id": "physics-006",
+    "q": {
+      "en": "Which instrument is used to measure atmospheric pressure?",
+      "as": "বায়ুমণ্ডলীয় চাপ জুখিবলৈ কোন যন্ত্ৰ ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Thermometer",
+        "as": "থাৰ্মোমিটাৰ"
+      },
+      {
+        "en": "Ammeter",
+        "as": "এমিটাৰ"
+      },
+      {
+        "en": "Barometer",
+        "as": "বেৰোমিটাৰ"
+      },
+      {
+        "en": "Hygrometer",
+        "as": "হাইগ্ৰোমিটাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A barometer measures atmospheric pressure by balancing it against a column of mercury.",
+      "as": "বেৰোমিটাৰে বায়ুমণ্ডলীয় চাপ জোখে; ই পাৰাৰ স্তম্ভৰ সৈতে ভাৰসাম্য ৰাখি চাপ নিৰ্ণয় কৰে।"
+    }
+  },
+  {
+    "id": "physics-022",
+    "q": {
+      "en": "The SI unit of pressure is?",
+      "as": "চাপৰ SI একক কি?"
+    },
+    "options": [
+      {
+        "en": "Pascal",
+        "as": "পাস্কেল"
+      },
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      },
+      {
+        "en": "Joule",
+        "as": "জুল"
+      },
+      {
+        "en": "Watt",
+        "as": "ৱাট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pressure is force per unit area (P = F/A), and its SI unit is the pascal (Pa); 1 Pa = 1 N/m².",
+      "as": "চাপ = বল/কালি (P = F/A), ইয়াৰ SI একক পাস্কেল (Pa); ১ পাস্কেল = ১ নিউটন/বৰ্গমিটাৰ।"
+    }
+  },
+  {
+    "id": "physics-076",
+    "q": {
+      "en": "The density of water is maximum at?",
+      "as": "পানীৰ ঘনত্ব কিমান উষ্ণতাত সৰ্বাধিক?"
+    },
+    "options": [
+      {
+        "en": "4°C",
+        "as": "৪°C"
+      },
+      {
+        "en": "0°C",
+        "as": "০°C"
+      },
+      {
+        "en": "100°C",
+        "as": "১০০°C"
+      },
+      {
+        "en": "–4°C",
+        "as": "–৪°C"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Water shows anomalous expansion: between 0°C and 4°C its volume decreases on heating, so its density is maximum at 4°C.",
+      "as": "পানীয়ে অস্বাভাৱিক প্ৰসাৰণ দেখুৱায়; ০°C ৰ পৰা ৪°C লৈ গৰম কৰিলে আয়তন কমে, সেয়ে ৪°C ত ঘনত্ব সৰ্বাধিক হয়।"
+    }
+  },
+  {
+    "id": "physics-077",
+    "q": {
+      "en": "Archimedes' principle is related to?",
+      "as": "আৰ্কিমিডিছৰ নীতি কিৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Electricity",
+        "as": "বিদ্যুৎ"
+      },
+      {
+        "en": "Buoyancy",
+        "as": "উচ্ছতা"
+      },
+      {
+        "en": "Magnetism",
+        "as": "চুম্বকত্ব"
+      },
+      {
+        "en": "Optics",
+        "as": "আলোকবিজ্ঞান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Archimedes' principle states that a body immersed in a fluid experiences an upthrust equal to the weight of the fluid displaced, which is the basis of buoyancy.",
+      "as": "আৰ্কিমিডিছৰ নীতিমতে, তৰলত ডুব যোৱা বস্তুৱে অপসাৰিত তৰলৰ ওজনৰ সমান উচ্ছতা বল অনুভৱ কৰে; এইয়া উচ্ছতাৰ ভিত্তি।"
+    }
+  },
+  {
+    "id": "physics-078",
+    "q": {
+      "en": "A body floats in a liquid when?",
+      "as": "এটা বস্তু তৰলত ওপঙে কেতিয়া?"
+    },
+    "options": [
+      {
+        "en": "Weight is greater than upthrust",
+        "as": "ওজন উচ্ছতাৰতকৈ বেছি"
+      },
+      {
+        "en": "Density of body is much higher",
+        "as": "বস্তুৰ ঘনত্ব বহুত বেছি"
+      },
+      {
+        "en": "Weight is equal to upthrust",
+        "as": "ওজন উচ্ছতাৰ সমান"
+      },
+      {
+        "en": "Volume is zero",
+        "as": "আয়তন শূন্য"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A floating body is in equilibrium when the upthrust (buoyant force) exactly balances its weight, i.e. weight = upthrust.",
+      "as": "ওপঙি থকা বস্তুৰ ওজন উচ্ছতা বলৰ সমান হ'লে বস্তুটো সমতাৱস্থাত থাকে, অৰ্থাৎ ওজন = উচ্ছতা।"
+    }
+  },
+  {
+    "id": "physics-079",
+    "q": {
+      "en": "The instrument used to measure relative density of a liquid is?",
+      "as": "তৰলৰ আপেক্ষিক ঘনত্ব জুখিবলৈ ব্যৱহাৰ কৰা যন্ত্ৰ কি?"
+    },
+    "options": [
+      {
+        "en": "Barometer",
+        "as": "বেৰোমিটাৰ"
+      },
+      {
+        "en": "Manometer",
+        "as": "মেনোমিতাৰ"
+      },
+      {
+        "en": "Ammeter",
+        "as": "এমিটাৰ"
+      },
+      {
+        "en": "Hydrometer",
+        "as": "হাইড্ৰোমিটাৰ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A hydrometer works on Archimedes' principle and is used to measure the relative density (specific gravity) of a liquid by its depth of floatation.",
+      "as": "হাইড্ৰোমিটাৰ আৰ্কিমিডিছৰ নীতিত কাম কৰে আৰু ডুব যোৱা গভীৰতাৰ দ্বাৰা তৰলৰ আপেক্ষিক ঘনত্ব জোখে।"
+    }
+  },
+  {
+    "id": "physics-080",
+    "q": {
+      "en": "Pascal's law is used in?",
+      "as": "পাস্কেলৰ সূত্ৰ ক’ত ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Hydraulic lift",
+        "as": "হাইড্ৰলিক লিফ্ট"
+      },
+      {
+        "en": "Electric motor",
+        "as": "বিদ্যুৎ মটৰ"
+      },
+      {
+        "en": "Transformer",
+        "as": "ট্ৰান্সফৰ্মাৰ"
+      },
+      {
+        "en": "Microphone",
+        "as": "মাইক্ৰফোন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pascal's law states that pressure applied to an enclosed fluid is transmitted equally in all directions; this principle is used in the hydraulic lift (and hydraulic brakes).",
+      "as": "পাস্কেলৰ সূত্ৰমতে, আবদ্ধ তৰলত প্ৰয়োগ কৰা চাপ সকলো দিশলৈ সমানে সংক্ৰমিত হয়; এই নীতি হাইড্ৰলিক লিফ্টত ব্যৱহাৰ হয়।"
+    }
+  }
+]

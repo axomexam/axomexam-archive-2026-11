@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "grammar-003",
+    "q": {
+      "en": "Work hard ___ you should fail.",
+      "as": "কঠোৰ পৰিশ্ৰম কৰা, নহ'লে তুমি অনুত্তীৰ্ণ হ'বা।"
+    },
+    "options": [
+      {
+        "en": "lest",
+        "as": "lest"
+      },
+      {
+        "en": "unless",
+        "as": "unless"
+      },
+      {
+        "en": "until",
+        "as": "until"
+      },
+      {
+        "en": "if",
+        "as": "if"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Lest' is followed by 'should' and means 'for fear that'.",
+      "as": "'lest' ৰ পিছত 'should' আহে আৰু ই 'ভয়ত যাতে' বুজায়।"
+    }
+  },
+  {
+    "id": "grammar-007",
+    "q": {
+      "en": "He not only sings ___ dances.",
+      "as": "তেওঁ কেৱল গান নকৰে, নৃত্যও কৰে।"
+    },
+    "options": [
+      {
+        "en": "and",
+        "as": "and"
+      },
+      {
+        "en": "but also",
+        "as": "but also"
+      },
+      {
+        "en": "or",
+        "as": "or"
+      },
+      {
+        "en": "nor",
+        "as": "nor"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Not only ... but also' is the correct correlative pair.",
+      "as": "'not only ... but also' হৈছে শুদ্ধ correlative যুগল।"
+    }
+  },
+  {
+    "id": "grammar-009",
+    "q": {
+      "en": "He is so tired ___ he cannot walk.",
+      "as": "তেওঁ ইমান ভাগৰুৱা যে খোজ কাঢ়িব নোৱাৰে।"
+    },
+    "options": [
+      {
+        "en": "so",
+        "as": "so"
+      },
+      {
+        "en": "as",
+        "as": "as"
+      },
+      {
+        "en": "that",
+        "as": "that"
+      },
+      {
+        "en": "than",
+        "as": "than"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'So ... that' is the correct correlative pair.",
+      "as": "'so ... that' হৈছে শুদ্ধ correlative যুগল।"
+    }
+  },
+  {
+    "id": "grammar-018",
+    "q": {
+      "en": "Find the error: 'He is senior than me.'",
+      "as": "ভুল উলিয়াওক: 'He is senior than me.'"
+    },
+    "options": [
+      {
+        "en": "He is",
+        "as": "He is"
+      },
+      {
+        "en": "senior",
+        "as": "senior"
+      },
+      {
+        "en": "than",
+        "as": "than"
+      },
+      {
+        "en": "me",
+        "as": "me"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Senior' is followed by 'to', not 'than'.",
+      "as": "'senior' ৰ পিছত 'than' নহয়, 'to' আহে।"
+    }
+  },
+  {
+    "id": "grammar-020",
+    "q": {
+      "en": "Find the error: 'One of my friend is a doctor.'",
+      "as": "ভুল উলিয়াওক: 'One of my friend is a doctor.'"
+    },
+    "options": [
+      {
+        "en": "One of",
+        "as": "One of"
+      },
+      {
+        "en": "friend",
+        "as": "friend"
+      },
+      {
+        "en": "is",
+        "as": "is"
+      },
+      {
+        "en": "a doctor",
+        "as": "a doctor"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'One of' is followed by a plural noun, so 'friends' is correct.",
+      "as": "'one of' ৰ পিছত plural noun আহে, সেয়ে 'friends' শুদ্ধ।"
+    }
+  },
+  {
+    "id": "grammar-022",
+    "q": {
+      "en": "'A person who loves his country' is called a:",
+      "as": "যিজনে নিজৰ দেশক ভাল পায় তেওঁক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Patriot",
+        "as": "Patriot"
+      },
+      {
+        "en": "Traitor",
+        "as": "Traitor"
+      },
+      {
+        "en": "Martyr",
+        "as": "Martyr"
+      },
+      {
+        "en": "Refugee",
+        "as": "Refugee"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A person who loves his country is called a patriot.",
+      "as": "নিজৰ দেশক ভালপোৱা ব্যক্তিক patriot বোলা হয়।"
+    }
+  },
+  {
+    "id": "grammar-023",
+    "q": {
+      "en": "'A person who cannot read or write' is called an:",
+      "as": "যিজনে পঢ়িব-লিখিব নোৱাৰে তেওঁক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Illegible",
+        "as": "Illegible"
+      },
+      {
+        "en": "Illiterate",
+        "as": "Illiterate"
+      },
+      {
+        "en": "Ignorant",
+        "as": "Ignorant"
+      },
+      {
+        "en": "Innocent",
+        "as": "Innocent"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A person who cannot read or write is called illiterate.",
+      "as": "পঢ়িব বা লিখিব নজনা ব্যক্তিক illiterate বোলা হয়।"
+    }
+  },
+  {
+    "id": "grammar-024",
+    "q": {
+      "en": "'A place where birds are kept' is called an:",
+      "as": "চৰাই ৰখা স্থানক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Aquarium",
+        "as": "Aquarium"
+      },
+      {
+        "en": "Apiary",
+        "as": "Apiary"
+      },
+      {
+        "en": "Aviary",
+        "as": "Aviary"
+      },
+      {
+        "en": "Arena",
+        "as": "Arena"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A place where birds are kept is called an aviary.",
+      "as": "চৰাই ৰখা ঠাইক aviary বোলা হয়।"
+    }
+  },
+  {
+    "id": "grammar-025",
+    "q": {
+      "en": "'One who is present everywhere' is called:",
+      "as": "যি সৰ্বত্ৰ উপস্থিত তেওঁক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Omniscient",
+        "as": "Omniscient"
+      },
+      {
+        "en": "Omnipotent",
+        "as": "Omnipotent"
+      },
+      {
+        "en": "Omnivorous",
+        "as": "Omnivorous"
+      },
+      {
+        "en": "Omnipresent",
+        "as": "Omnipresent"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "One who is present everywhere is called omnipresent.",
+      "as": "সৰ্বত্ৰ উপস্থিত থকা জনক omnipresent বোলা হয়।"
+    }
+  },
+  {
+    "id": "grammar-026",
+    "q": {
+      "en": "'A handwriting that cannot be read' is:",
+      "as": "যি হস্তলিপি পঢ়িব নোৱাৰি তাক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Illegible",
+        "as": "Illegible"
+      },
+      {
+        "en": "Illegal",
+        "as": "Illegal"
+      },
+      {
+        "en": "Illiterate",
+        "as": "Illiterate"
+      },
+      {
+        "en": "Ineligible",
+        "as": "Ineligible"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A handwriting that cannot be read is called illegible.",
+      "as": "পঢ়িব নোৱাৰা হস্তলিখনক illegible বোলা হয়।"
+    }
+  },
+  {
+    "id": "grammar-027",
+    "q": {
+      "en": "Choose the synonym of 'brave':",
+      "as": "'brave' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "coward",
+        "as": "coward"
+      },
+      {
+        "en": "timid",
+        "as": "timid"
+      },
+      {
+        "en": "courageous",
+        "as": "courageous"
+      },
+      {
+        "en": "weak",
+        "as": "weak"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Courageous' is a synonym of 'brave'.",
+      "as": "'courageous' হৈছে 'brave' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "grammar-028",
+    "q": {
+      "en": "Choose the antonym of 'ancient':",
+      "as": "'ancient' ৰ বিপৰীত শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "old",
+        "as": "old"
+      },
+      {
+        "en": "modern",
+        "as": "modern"
+      },
+      {
+        "en": "historic",
+        "as": "historic"
+      },
+      {
+        "en": "past",
+        "as": "past"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Modern' is the antonym of 'ancient'.",
+      "as": "'modern' হৈছে 'ancient' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "grammar-034",
+    "q": {
+      "en": "Scarcely had he gone out ___ a guest arrived.",
+      "as": "তেওঁ ওলাই যোৱাৰ লগে লগে এজন অতিথি আহিল।"
+    },
+    "options": [
+      {
+        "en": "than",
+        "as": "than"
+      },
+      {
+        "en": "when",
+        "as": "when"
+      },
+      {
+        "en": "then",
+        "as": "then"
+      },
+      {
+        "en": "that",
+        "as": "that"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Scarcely ... when' is the correct correlative pair.",
+      "as": "'scarcely ... when' হৈছে শুদ্ধ correlative যুগল।"
+    }
+  },
+  {
+    "id": "grammar-040",
+    "q": {
+      "en": "He said to me, 'Please help me.' The indirect form is:",
+      "as": "তেওঁ মোক ক'লে, 'Please help me.' পৰোক্ষ উক্তি কি?"
+    },
+    "options": [
+      {
+        "en": "He told me please help him.",
+        "as": "He told me please help him."
+      },
+      {
+        "en": "He requested me to help him.",
+        "as": "He requested me to help him."
+      },
+      {
+        "en": "He said me to help him.",
+        "as": "He said me to help him."
+      },
+      {
+        "en": "He asked that I help him.",
+        "as": "He asked that I help him."
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A polite request becomes 'requested ... to' in indirect speech.",
+      "as": "নম্ৰ অনুৰোধ indirect speech ত 'requested ... to' লৈ পৰিণত হয়।"
+    }
+  },
+  {
+    "id": "grammar-041",
+    "q": {
+      "en": "Choose the synonym of 'begin':",
+      "as": "'begin' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "end",
+        "as": "end"
+      },
+      {
+        "en": "finish",
+        "as": "finish"
+      },
+      {
+        "en": "commence",
+        "as": "commence"
+      },
+      {
+        "en": "stop",
+        "as": "stop"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Commence' is a synonym of 'begin'.",
+      "as": "'commence' হৈছে 'begin' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "grammar-042",
+    "q": {
+      "en": "'A person who speaks many languages' is called a:",
+      "as": "বহু ভাষা কোৱা ব্যক্তিক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Linguist",
+        "as": "Linguist"
+      },
+      {
+        "en": "Polyglot",
+        "as": "Polyglot"
+      },
+      {
+        "en": "Orator",
+        "as": "Orator"
+      },
+      {
+        "en": "Interpreter",
+        "as": "Interpreter"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A person who speaks many languages is called a polyglot.",
+      "as": "বহু ভাষা কোৱা ব্যক্তিক polyglot বোলা হয়।"
+    }
+  },
+  {
+    "id": "grammar-043",
+    "q": {
+      "en": "'One who looks at the bright side of things' is an:",
+      "as": "যিজনে বিষয়ৰ উজ্জ্বল দিশ চাই তেওঁক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Pessimist",
+        "as": "Pessimist"
+      },
+      {
+        "en": "Optimist",
+        "as": "Optimist"
+      },
+      {
+        "en": "Atheist",
+        "as": "Atheist"
+      },
+      {
+        "en": "Theist",
+        "as": "Theist"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "One who looks at the bright side of things is an optimist.",
+      "as": "বস্তুৰ উজ্জ্বল দিশ চোৱা ব্যক্তিক optimist বোলা হয়।"
+    }
+  },
+  {
+    "id": "grammar-044",
+    "q": {
+      "en": "The idiom 'to hit the nail on the head' means:",
+      "as": "'to hit the nail on the head' ৰ অৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "To hurt someone",
+        "as": "কাকোবা আঘাত কৰা"
+      },
+      {
+        "en": "To do the right thing exactly",
+        "as": "ঠিক কথাটো কৰা"
+      },
+      {
+        "en": "To work with a hammer",
+        "as": "ঘাণেৰে কাম কৰা"
+      },
+      {
+        "en": "To make a mistake",
+        "as": "ভুল কৰা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'To hit the nail on the head' means to do the right thing exactly.",
+      "as": "'to hit the nail on the head' মানে একেবাৰে শুদ্ধ কাম কৰা।"
+    }
+  },
+  {
+    "id": "grammar-045",
+    "q": {
+      "en": "The feminine of 'duke' is:",
+      "as": "'duke' ৰ স্ত্ৰীলিংগ কি?"
+    },
+    "options": [
+      {
+        "en": "dukes",
+        "as": "dukes"
+      },
+      {
+        "en": "duchess",
+        "as": "duchess"
+      },
+      {
+        "en": "dukeess",
+        "as": "dukeess"
+      },
+      {
+        "en": "lady duke",
+        "as": "lady duke"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The feminine of 'duke' is 'duchess'.",
+      "as": "'duke' ৰ স্ত্ৰীলিংগ হৈছে 'duchess'।"
+    }
+  },
+  {
+    "id": "grammar-046",
+    "q": {
+      "en": "The sentence 'Shut the door' is:",
+      "as": "'Shut the door' বাক্যটো কি প্ৰকাৰৰ?"
+    },
+    "options": [
+      {
+        "en": "Assertive",
+        "as": "নিৰ্দেশাত্মক"
+      },
+      {
+        "en": "Imperative",
+        "as": "আদেশাত্মক"
+      },
+      {
+        "en": "Exclamatory",
+        "as": "বিস্ময়সূচক"
+      },
+      {
+        "en": "Optative",
+        "as": "ইচ্ছাসূচক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Shut the door' gives a command, so it is imperative.",
+      "as": "'Shut the door' য়ে আদেশ দিয়ে, সেয়ে ই imperative।"
+    }
+  },
+  {
+    "id": "grammar-047",
+    "q": {
+      "en": "He as well as his friends ___ coming.",
+      "as": "তেওঁ আৰু তেওঁৰ বন্ধুসকলে আহি আছে।"
+    },
+    "options": [
+      {
+        "en": "are",
+        "as": "are"
+      },
+      {
+        "en": "were",
+        "as": "were"
+      },
+      {
+        "en": "is",
+        "as": "is"
+      },
+      {
+        "en": "have",
+        "as": "have"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "With 'as well as', the verb agrees with the first subject 'he'.",
+      "as": "'as well as' ৰ সৈতে verb প্ৰথম subject 'he' ৰ লগত মিলে।"
+    }
+  },
+  {
+    "id": "grammar-049",
+    "q": {
+      "en": "The opposite of 'arrival' is:",
+      "as": "'arrival' ৰ বিপৰীত শব্দ কি?"
+    },
+    "options": [
+      {
+        "en": "coming",
+        "as": "coming"
+      },
+      {
+        "en": "departure",
+        "as": "departure"
+      },
+      {
+        "en": "reach",
+        "as": "reach"
+      },
+      {
+        "en": "entry",
+        "as": "entry"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Departure' is the opposite of 'arrival'.",
+      "as": "'departure' হৈছে 'arrival' ৰ বিপৰীত শব্দ।"
+    }
+  },
+  {
+    "id": "grammar-050",
+    "q": {
+      "en": "Fill in the blank: 'He is ___ M.A. in English.'",
+      "as": "খালী ঠাই পূৰ কৰক: 'He is ___ M.A. in English.'"
+    },
+    "options": [
+      {
+        "en": "a",
+        "as": "a"
+      },
+      {
+        "en": "an",
+        "as": "an"
+      },
+      {
+        "en": "the",
+        "as": "the"
+      },
+      {
+        "en": "no article",
+        "as": "প্ৰবন্ধ নাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'M.A.' begins with the vowel sound 'em', so 'an' is used.",
+      "as": "'M.A.' ৰ উচ্চাৰণ 'em' স্বৰ ধ্বনিৰে আৰম্ভ হয়, সেয়ে 'an' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-051",
+    "q": {
+      "en": "She is ___ M.A. in English.",
+      "as": "তাই ইংৰাজীত ___ এম.এ.।"
+    },
+    "options": [
+      {
+        "en": "a",
+        "as": "a"
+      },
+      {
+        "en": "an",
+        "as": "an"
+      },
+      {
+        "en": "the",
+        "as": "the"
+      },
+      {
+        "en": "no article",
+        "as": "প্ৰবন্ধ নাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The letter M is pronounced 'em', which begins with a vowel sound, so 'an' is used.",
+      "as": "M আখৰৰ উচ্চাৰণ 'em', যি স্বৰধ্বনিৰে আৰম্ভ হয়; সেয়ে 'an' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-056",
+    "q": {
+      "en": "___ of the two boys was punished.",
+      "as": "দুজন ল'ৰাৰ ___ শাস্তি পাইছিল।"
+    },
+    "options": [
+      {
+        "en": "Both",
+        "as": "Both"
+      },
+      {
+        "en": "All",
+        "as": "All"
+      },
+      {
+        "en": "Either",
+        "as": "Either"
+      },
+      {
+        "en": "Neither",
+        "as": "Neither"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'Neither' means not one of the two; it takes a singular verb, so 'Neither of the two boys was punished' is correct.",
+      "as": "'Neither' মানে দুজনৰ এজনো নহয়; ই singular verb লয়; সেয়ে 'Neither of the two boys was punished' শুদ্ধ।"
+    }
+  },
+  {
+    "id": "grammar-058",
+    "q": {
+      "en": "She blamed ___ for the mistake.",
+      "as": "তাই ভুলটোৰ বাবে নিজকে দোষ দিলে।"
+    },
+    "options": [
+      {
+        "en": "her",
+        "as": "her"
+      },
+      {
+        "en": "hers",
+        "as": "hers"
+      },
+      {
+        "en": "herself",
+        "as": "herself"
+      },
+      {
+        "en": "she",
+        "as": "she"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Herself' is the reflexive pronoun used when the subject and object are the same person.",
+      "as": "কৰ্তা আৰু কৰ্ম একেই ব্যক্তি হ'লে reflexive pronoun 'herself' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-061",
+    "q": {
+      "en": "___ Sun rises in the east.",
+      "as": "___ সূৰ্য পূব দিশে উদয় হয়।"
+    },
+    "options": [
+      {
+        "en": "A",
+        "as": "A"
+      },
+      {
+        "en": "An",
+        "as": "An"
+      },
+      {
+        "en": "The",
+        "as": "The"
+      },
+      {
+        "en": "No article",
+        "as": "প্ৰবন্ধ নাই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'The' is used before unique objects like the sun.",
+      "as": "সূৰ্যৰ দৰে একক বস্তুৰ আগত 'The' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-064",
+    "q": {
+      "en": "He was ill, ___ he attended the class.",
+      "as": "তেওঁ অসুস্থ আছিল, ___ তেওঁ শ্ৰেণীত উপস্থিত থাকিল।"
+    },
+    "options": [
+      {
+        "en": "and",
+        "as": "and"
+      },
+      {
+        "en": "or",
+        "as": "or"
+      },
+      {
+        "en": "so",
+        "as": "so"
+      },
+      {
+        "en": "but",
+        "as": "but"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'But' shows contrast between being ill and attending the class.",
+      "as": "অসুস্থ হোৱা আৰু শ্ৰেণীত উপস্থিত থকাৰ মাজৰ বিপৰীত ভাৱ দেখুৱাবলৈ 'but' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-066",
+    "q": {
+      "en": "He ___ to Delhi last year.",
+      "as": "তেওঁ যোৱা বছৰ দিল্লীলৈ ___।"
+    },
+    "options": [
+      {
+        "en": "go",
+        "as": "go"
+      },
+      {
+        "en": "goes",
+        "as": "goes"
+      },
+      {
+        "en": "went",
+        "as": "went"
+      },
+      {
+        "en": "has gone",
+        "as": "has gone"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Last year' refers to past time, so the simple past 'went' is used.",
+      "as": "'last year' এ অতীত সময় বুজায়; সেয়ে simple past 'went' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-072",
+    "q": {
+      "en": "You ___ respect your parents.",
+      "as": "তোমালোকে তোমালোকৰ পিতৃ-মাতৃক সন্মান কৰা ___।"
+    },
+    "options": [
+      {
+        "en": "should",
+        "as": "should"
+      },
+      {
+        "en": "may",
+        "as": "may"
+      },
+      {
+        "en": "can",
+        "as": "can"
+      },
+      {
+        "en": "would",
+        "as": "would"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Should' expresses moral duty or advice.",
+      "as": "'should' য়ে নৈতিক কৰ্তব্য বা উপদেশ বুজায়।"
+    }
+  },
+  {
+    "id": "grammar-073",
+    "q": {
+      "en": "She is coming, ___?",
+      "as": "তাই আহি আছে, ___?"
+    },
+    "options": [
+      {
+        "en": "is she",
+        "as": "is she"
+      },
+      {
+        "en": "isn't she",
+        "as": "isn't she"
+      },
+      {
+        "en": "does she",
+        "as": "does she"
+      },
+      {
+        "en": "doesn't she",
+        "as": "doesn't she"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A positive statement takes a negative question tag; the auxiliary is 'is', so the tag is 'isn't she'.",
+      "as": "ধনাত্মক বাক্যৰ সৈতে ঋণাত্মক question tag লগে; auxiliary 'is', সেয়ে tag 'isn't she'।"
+    }
+  },
+  {
+    "id": "grammar-074",
+    "q": {
+      "en": "If it rains, we ___ the match.",
+      "as": "যদি বৰষুণ দিয়ে, আমি খেলখন ___।"
+    },
+    "options": [
+      {
+        "en": "cancel",
+        "as": "cancel"
+      },
+      {
+        "en": "cancelled",
+        "as": "cancelled"
+      },
+      {
+        "en": "will cancel",
+        "as": "will cancel"
+      },
+      {
+        "en": "would cancel",
+        "as": "would cancel"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "In a first conditional sentence, the main clause uses 'will' plus the base verb.",
+      "as": "first conditional বাক্যত main clause ত 'will' আৰু verb ৰ base form ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-075",
+    "q": {
+      "en": "Choose the correct negative sentence in simple present:",
+      "as": "সৰল বৰ্তমান কালৰ শুদ্ধ ঋণাত্মক বাক্যটো বাছক:"
+    },
+    "options": [
+      {
+        "en": "He don't like tea.",
+        "as": "He don't like tea."
+      },
+      {
+        "en": "He not like tea.",
+        "as": "He not like tea."
+      },
+      {
+        "en": "He didn't likes tea.",
+        "as": "He didn't likes tea."
+      },
+      {
+        "en": "He doesn't like tea.",
+        "as": "He doesn't like tea."
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In the present simple with 'he', the negative is formed with 'doesn't' and the base verb.",
+      "as": "'he' ৰ সৈতে present simple ৰ ঋণাত্মক ৰূপ 'doesn't' আৰু verb ৰ base form ৰে গঠন হয়।"
+    }
+  },
+  {
+    "id": "grammar-076",
+    "q": {
+      "en": "We saw ___ elephant in the zoo.",
+      "as": "আমি চিৰিয়াখানাত ___ হাতী দেখিলোঁ।"
+    },
+    "options": [
+      {
+        "en": "a",
+        "as": "a"
+      },
+      {
+        "en": "an",
+        "as": "an"
+      },
+      {
+        "en": "the",
+        "as": "the"
+      },
+      {
+        "en": "no article",
+        "as": "প্ৰবন্ধ নাই"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Elephant' begins with a vowel sound, so 'an' is used.",
+      "as": "'elephant' ৰ উচ্চাৰণ স্বৰধ্বনিৰে আৰম্ভ হয়; সেয়ে 'an' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-077",
+    "q": {
+      "en": "He is ___ best student in the class.",
+      "as": "তেওঁ শ্ৰেণীৰ ___ শ্ৰেষ্ঠ ছাত্ৰ।"
+    },
+    "options": [
+      {
+        "en": "a",
+        "as": "a"
+      },
+      {
+        "en": "an",
+        "as": "an"
+      },
+      {
+        "en": "the",
+        "as": "the"
+      },
+      {
+        "en": "no article",
+        "as": "প্ৰবন্ধ নাই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'The' is used before a superlative degree.",
+      "as": "superlative degree ৰ আগত 'the' ব্যৱহাৰ হয়।"
+    }
+  }
+]

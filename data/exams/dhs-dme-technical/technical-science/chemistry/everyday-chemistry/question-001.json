@@ -1,0 +1,272 @@
+[
+  {
+    "id": "chemistry-055",
+    "q": {
+      "en": "Which of the following is used in the manufacture of glass?",
+      "as": "কাচ তৈয়াৰ কৰাত তলৰ কোনটো ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      },
+      {
+        "en": "KCl",
+        "as": "KCl"
+      },
+      {
+        "en": "Silica (SiO2)",
+        "as": "চিলিকা (SiO2)"
+      },
+      {
+        "en": "CaCl2",
+        "as": "CaCl2"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Silica (SiO2) is used in the manufacture of glass.",
+      "as": "কাচ তৈয়াৰ কৰাত চিলিকা (SiO2) ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-056",
+    "q": {
+      "en": "Plaster of Paris is chemically?",
+      "as": "প্লাষ্টাৰ অৱ পেৰিছ ৰাসায়নিকভাৱে কি?"
+    },
+    "options": [
+      {
+        "en": "CaCO3",
+        "as": "CaCO3"
+      },
+      {
+        "en": "CaO",
+        "as": "CaO"
+      },
+      {
+        "en": "Ca(OH)2",
+        "as": "Ca(OH)2"
+      },
+      {
+        "en": "CaSO4·½H2O",
+        "as": "CaSO4·½H2O"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Plaster of Paris is calcium sulphate hemihydrate, CaSO4 with half a water molecule.",
+      "as": "প্লাষ্টাৰ অৱ পেৰিছ হৈছে কেলচিয়াম ছালফেট হেমিহাইড্ৰেট।"
+    }
+  },
+  {
+    "id": "chemistry-057",
+    "q": {
+      "en": "Gypsum is?",
+      "as": "জিপছাম কি?"
+    },
+    "options": [
+      {
+        "en": "CaSO4·2H2O",
+        "as": "CaSO4·2H2O"
+      },
+      {
+        "en": "CaSO4",
+        "as": "CaSO4"
+      },
+      {
+        "en": "CaCO3",
+        "as": "CaCO3"
+      },
+      {
+        "en": "CaO",
+        "as": "CaO"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Gypsum is calcium sulphate dihydrate.",
+      "as": "জিপছাম হৈছে কেলচিয়াম ছালফেট ডাইহাইড্ৰেট।"
+    }
+  },
+  {
+    "id": "chemistry-058",
+    "q": {
+      "en": "Washing soda is?",
+      "as": "ধোৱা ছ’ডা কি?"
+    },
+    "options": [
+      {
+        "en": "NaHCO3",
+        "as": "NaHCO3"
+      },
+      {
+        "en": "Na2CO3·10H2O",
+        "as": "Na2CO3·10H2O"
+      },
+      {
+        "en": "NaOH",
+        "as": "NaOH"
+      },
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Washing soda is hydrated sodium carbonate.",
+      "as": "ধোৱা ছ’ডা হৈছে হাইড্ৰেটযুক্ত ছডিয়াম কাৰ্বনেট।"
+    }
+  },
+  {
+    "id": "chemistry-059",
+    "q": {
+      "en": "Baking soda is?",
+      "as": "বেকিং ছ’ডা কি?"
+    },
+    "options": [
+      {
+        "en": "Na2CO3",
+        "as": "Na2CO3"
+      },
+      {
+        "en": "NaOH",
+        "as": "NaOH"
+      },
+      {
+        "en": "NaHCO3",
+        "as": "NaHCO3"
+      },
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Baking soda is sodium bicarbonate.",
+      "as": "বেকিং ছ’ডা হৈছে ছডিয়াম বাইকাৰ্বনেট।"
+    }
+  },
+  {
+    "id": "chemistry-060",
+    "q": {
+      "en": "Bleaching powder is chemically?",
+      "as": "ব্লিচিং পাউদাৰ ৰাসায়নিকভাৱে কি?"
+    },
+    "options": [
+      {
+        "en": "CaO",
+        "as": "CaO"
+      },
+      {
+        "en": "Ca(OH)2",
+        "as": "Ca(OH)2"
+      },
+      {
+        "en": "CaCO3",
+        "as": "CaCO3"
+      },
+      {
+        "en": "CaOCl2",
+        "as": "CaOCl2"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Bleaching powder is calcium oxychloride.",
+      "as": "ব্লিচিং পাউদাৰ হৈছে কেলচিয়াম অক্সিক্লৰাইড।"
+    }
+  },
+  {
+    "id": "chemistry-113",
+    "q": {
+      "en": "The chemical used in matchsticks for the striking surface often includes?",
+      "as": "মাচৰ ঘঁহা পৃষ্ঠত প্ৰায়ে ব্যৱহাৰ হোৱা ৰাসায়নিক পদাৰ্থ কি?"
+    },
+    "options": [
+      {
+        "en": "Sodium chloride",
+        "as": "ছডিয়াম ক্লৰাইড"
+      },
+      {
+        "en": "Calcium carbonate",
+        "as": "কেলচিয়াম কাৰ্বনেট"
+      },
+      {
+        "en": "Red phosphorus",
+        "as": "ৰঙা ফছফৰাছ"
+      },
+      {
+        "en": "Sugar",
+        "as": "চেনি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Red phosphorus is used on the striking surface of matchsticks.",
+      "as": "মাচৰ ঘঁহা পৃষ্ঠত ৰঙা ফছফৰাছ ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-115",
+    "q": {
+      "en": "The brown ring test is used to detect?",
+      "as": "ব্ৰাউন ৰিং পৰীক্ষা কি চিনাক্ত কৰিবলৈ ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Nitrate ion",
+        "as": "নাইট্ৰেট আয়ন"
+      },
+      {
+        "en": "Sulphate ion",
+        "as": "ছালফেট আয়ন"
+      },
+      {
+        "en": "Chloride ion",
+        "as": "ক্লৰাইড আয়ন"
+      },
+      {
+        "en": "Carbonate ion",
+        "as": "কাৰ্বনেট আয়ন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The brown ring test is used to detect the nitrate ion.",
+      "as": "ব্ৰাউন ৰিং পৰীক্ষা নাইট্ৰেট আয়ন চিনাক্ত কৰিবলৈ ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-116",
+    "q": {
+      "en": "Silver nitrate is used to detect?",
+      "as": "ৰূপৰ নাইট্ৰেট কি চিনাক্ত কৰিবলৈ ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "Sulphate",
+        "as": "ছালফেট"
+      },
+      {
+        "en": "Halide ions (e.g. chloride)",
+        "as": "হেলাইড আয়ন (যেনে ক্লৰাইড)"
+      },
+      {
+        "en": "Nitrate",
+        "as": "নাইট্ৰেট"
+      },
+      {
+        "en": "Phosphate only",
+        "as": "কেৱল ফছফেট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Silver nitrate is used to detect halide ions such as chloride.",
+      "as": "ৰূপৰ নাইট্ৰেট হেলাইড আয়ন, যেনে ক্লৰাইড, চিনাক্ত কৰিবলৈ ব্যৱহাৰ হয়।"
+    }
+  }
+]

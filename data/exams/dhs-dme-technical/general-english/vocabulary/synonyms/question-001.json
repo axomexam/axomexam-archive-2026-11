@@ -1,0 +1,452 @@
+[
+  {
+    "id": "vocabulary-003",
+    "q": {
+      "en": "Choose the synonym of 'abolish':",
+      "as": "'abolish' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "establish",
+        "as": "স্থাপন কৰা"
+      },
+      {
+        "en": "create",
+        "as": "সৃষ্টি কৰা"
+      },
+      {
+        "en": "do away with",
+        "as": "উঠাই দিয়া"
+      },
+      {
+        "en": "continue",
+        "as": "অব্যাহত ৰখা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Do away with' is a synonym of 'abolish'.",
+      "as": "'do away with' হৈছে 'abolish' ৰ সমাৰ্থক।"
+    }
+  },
+  {
+    "id": "vocabulary-004",
+    "q": {
+      "en": "Choose the synonym of 'reluctant':",
+      "as": "'reluctant' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "eager",
+        "as": "আগ্ৰহী"
+      },
+      {
+        "en": "unwilling",
+        "as": "অনিচ্ছুক"
+      },
+      {
+        "en": "ready",
+        "as": "প্ৰস্তুত"
+      },
+      {
+        "en": "willing",
+        "as": "ইচ্ছুক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Unwilling' is a synonym of 'reluctant'.",
+      "as": "'unwilling' হৈছে 'reluctant' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-008",
+    "q": {
+      "en": "Choose the synonym of 'serene':",
+      "as": "'serene' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "noisy",
+        "as": "কোলাহলপূৰ্ণ"
+      },
+      {
+        "en": "angry",
+        "as": "খঙাল"
+      },
+      {
+        "en": "calm",
+        "as": "শান্ত"
+      },
+      {
+        "en": "restless",
+        "as": "অস্থিৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Calm' is a synonym of 'serene'.",
+      "as": "'calm' হৈছে 'serene' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-012",
+    "q": {
+      "en": "Choose the synonym of 'vigilant':",
+      "as": "'vigilant' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "watchful",
+        "as": "সতৰ্ক"
+      },
+      {
+        "en": "sleepy",
+        "as": "নিদ্ৰালু"
+      },
+      {
+        "en": "careless",
+        "as": "অসাৱধান"
+      },
+      {
+        "en": "lazy",
+        "as": "অলস"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Watchful' is a synonym of 'vigilant'.",
+      "as": "'watchful' হৈছে 'vigilant' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-017",
+    "q": {
+      "en": "Choose the synonym of 'zealous':",
+      "as": "'zealous' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "indifferent",
+        "as": "উদাসীন"
+      },
+      {
+        "en": "enthusiastic",
+        "as": "উৎসাহী"
+      },
+      {
+        "en": "idle",
+        "as": "নিষ্ক্ৰিয়"
+      },
+      {
+        "en": "cold",
+        "as": "শীতল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Enthusiastic' is a synonym of 'zealous'.",
+      "as": "'enthusiastic' হৈছে 'zealous' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-021",
+    "q": {
+      "en": "Choose the synonym of 'adjacent':",
+      "as": "'adjacent' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "distant",
+        "as": "দূৰৱৰ্তী"
+      },
+      {
+        "en": "neighbouring",
+        "as": "কাষৰীয়া"
+      },
+      {
+        "en": "remote",
+        "as": "দুৰ্গম"
+      },
+      {
+        "en": "far",
+        "as": "দূৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Neighbouring' is a synonym of 'adjacent'.",
+      "as": "'neighbouring' হৈছে 'adjacent' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-022",
+    "q": {
+      "en": "Choose the synonym of 'abandon':",
+      "as": "'abandon' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "keep",
+        "as": "ৰখা"
+      },
+      {
+        "en": "hold",
+        "as": "ধৰি ৰখা"
+      },
+      {
+        "en": "forsake",
+        "as": "ত্যাগ কৰা"
+      },
+      {
+        "en": "protect",
+        "as": "ৰক্ষা কৰা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Forsake' is a synonym of 'abandon'.",
+      "as": "'forsake' হৈছে 'abandon' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-027",
+    "q": {
+      "en": "Choose the synonym of 'benevolent':",
+      "as": "'benevolent' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "cruel",
+        "as": "নিষ্ঠুৰ"
+      },
+      {
+        "en": "kind",
+        "as": "দয়ালু"
+      },
+      {
+        "en": "harsh",
+        "as": "কঠোৰ"
+      },
+      {
+        "en": "selfish",
+        "as": "স্বার্থপৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Kind' is a synonym of 'benevolent'.",
+      "as": "'kind' হৈছে 'benevolent' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-031",
+    "q": {
+      "en": "Choose the synonym of 'commence':",
+      "as": "'commence' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "end",
+        "as": "শেষ কৰা"
+      },
+      {
+        "en": "stop",
+        "as": "বন্ধ কৰা"
+      },
+      {
+        "en": "finish",
+        "as": "সমাপ্ত কৰা"
+      },
+      {
+        "en": "begin",
+        "as": "আৰম্ভ কৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'Begin' is a synonym of 'commence'.",
+      "as": "'begin' হৈছে 'commence' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-035",
+    "q": {
+      "en": "Choose the synonym of 'fatal':",
+      "as": "'fatal' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "harmless",
+        "as": "নিৰীহ"
+      },
+      {
+        "en": "deadly",
+        "as": "মৃত্যুকাৰী"
+      },
+      {
+        "en": "safe",
+        "as": "নিৰাপদ"
+      },
+      {
+        "en": "healthy",
+        "as": "স্বাস্থ্যকৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Deadly' is a synonym of 'fatal'.",
+      "as": "'deadly' হৈছে 'fatal' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-036",
+    "q": {
+      "en": "Choose the synonym of 'fragile':",
+      "as": "'fragile' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "strong",
+        "as": "দৃঢ়"
+      },
+      {
+        "en": "brittle",
+        "as": "ভঙা সহজ"
+      },
+      {
+        "en": "hard",
+        "as": "কঠিন"
+      },
+      {
+        "en": "tough",
+        "as": "শক্তিশালী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Brittle' is a synonym of 'fragile'.",
+      "as": "'brittle' হৈছে 'fragile' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-041",
+    "q": {
+      "en": "Choose the synonym of 'anonymous':",
+      "as": "'anonymous' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "nameless",
+        "as": "নামহীন"
+      },
+      {
+        "en": "famous",
+        "as": "বিখ্যাত"
+      },
+      {
+        "en": "known",
+        "as": "জ্ঞাত"
+      },
+      {
+        "en": "popular",
+        "as": "জনপ্ৰিয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Nameless' is a synonym of 'anonymous'.",
+      "as": "'nameless' হৈছে 'anonymous' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-045",
+    "q": {
+      "en": "Choose the synonym of 'ancient':",
+      "as": "'ancient' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "modern",
+        "as": "আধুনিক"
+      },
+      {
+        "en": "new",
+        "as": "নতুন"
+      },
+      {
+        "en": "old",
+        "as": "পুৰণি"
+      },
+      {
+        "en": "fresh",
+        "as": "সতেজ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Old' is a synonym of 'ancient'.",
+      "as": "'old' হৈছে 'ancient' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-054",
+    "q": {
+      "en": "Choose the synonym of 'abundant':",
+      "as": "'abundant' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "plentiful",
+        "as": "প্ৰচুৰ"
+      },
+      {
+        "en": "tiny",
+        "as": "ক্ষুদ্ৰ"
+      },
+      {
+        "en": "rare",
+        "as": "বিৰল"
+      },
+      {
+        "en": "scarce",
+        "as": "দুৰ্লভ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Plentiful' is a synonym of 'abundant'.",
+      "as": "'plentiful' হৈছে 'abundant' ৰ সমাৰ্থক শব্দ।"
+    }
+  },
+  {
+    "id": "vocabulary-072",
+    "q": {
+      "en": "Choose the synonym of 'obsolete':",
+      "as": "'obsolete' ৰ সমাৰ্থক শব্দ বাছক:"
+    },
+    "options": [
+      {
+        "en": "Fresh",
+        "as": "তাজা"
+      },
+      {
+        "en": "Outdated",
+        "as": "অচল"
+      },
+      {
+        "en": "Modern",
+        "as": "আধুনিক"
+      },
+      {
+        "en": "Useful",
+        "as": "উপযোগী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Outdated' is a synonym of 'obsolete'.",
+      "as": "'outdated' হৈছে 'obsolete' ৰ সমাৰ্থক শব্দ।"
+    }
+  }
+]

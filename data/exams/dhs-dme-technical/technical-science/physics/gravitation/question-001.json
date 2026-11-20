@@ -1,0 +1,242 @@
+[
+  {
+    "id": "physics-005",
+    "q": {
+      "en": "The acceleration due to gravity on Earth is approximately?",
+      "as": "পৃথিৱীত অভিকৰ্ষজ ত্বাৰণ প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "8.9 m/s²",
+        "as": "৮.৯ মি/ছে²"
+      },
+      {
+        "en": "9.8 m/s²",
+        "as": "৯.৮ মি/ছে²"
+      },
+      {
+        "en": "10.8 m/s²",
+        "as": "১০.৮ মি/ছে²"
+      },
+      {
+        "en": "6.7 m/s²",
+        "as": "৬.৭ মি/ছে²"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The acceleration due to gravity near the Earth's surface is approximately 9.8 m/s².",
+      "as": "পৃথিৱীৰ পৃষ্ঠৰ ওচৰত অভিকৰ্ষজ ত্বৰণৰ মান প্ৰায় ৯.৮ মি/ছে.²।"
+    }
+  },
+  {
+    "id": "physics-020",
+    "q": {
+      "en": "The escape velocity from the Earth's surface is about?",
+      "as": "পৃথিৱীৰ পৃষ্ঠৰ পৰা পলায়ন বেগ প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "8 km/s",
+        "as": "৮ কিমি/ছে"
+      },
+      {
+        "en": "9.8 km/s",
+        "as": "৯.৮ কিমি/ছে"
+      },
+      {
+        "en": "11.2 km/s",
+        "as": "১১.২ কিমি/ছে"
+      },
+      {
+        "en": "3 × 10^8 km/s",
+        "as": "৩ × ১০^৮ কিমি/ছে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The escape velocity from the Earth's surface is about 11.2 km/s, the minimum speed needed to escape Earth's gravitational field.",
+      "as": "পৃথিৱীৰ পৃষ্ঠৰ পৰা পলায়ন বেগ প্ৰায় ১১.২ কিমি/ছে.; পৃথিৱীৰ মহাকৰ্ষণ ক্ষেত্ৰ এৰি যোৱাৰ বাবে প্ৰয়োজনীয় ন্যূনতম বেগ ইয়েই।"
+    }
+  },
+  {
+    "id": "physics-065",
+    "q": {
+      "en": "The weight of a body is maximum at?",
+      "as": "এটা বস্তুৰ ওজন ক’ত সৰ্বাধিক?"
+    },
+    "options": [
+      {
+        "en": "The equator",
+        "as": "বিষুৱৰেখা"
+      },
+      {
+        "en": "The poles",
+        "as": "মেৰু"
+      },
+      {
+        "en": "The centre of Earth",
+        "as": "পৃথিৱীৰ কেন্দ্ৰ"
+      },
+      {
+        "en": "On the Moon",
+        "as": "চন্দ্ৰত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Weight W = mg, and g is maximum at the poles because Earth is flattened at the poles and the polar radius is least. Thus weight is maximum at the poles.",
+      "as": "ওজন W = mg, আৰু মেৰুত g সৰ্বাধিক কাৰণ পৃথিৱী মেৰুত চেপেটা আৰু মেৰুৰ ব্যাসাৰ্ধ সৰ্বনিম্ন। সেয়ে ওজন মেৰুত সৰ্বাধিক হয়।"
+    }
+  },
+  {
+    "id": "physics-066",
+    "q": {
+      "en": "The value of g is zero at?",
+      "as": "g-ৰ মান ক’ত শূন্য?"
+    },
+    "options": [
+      {
+        "en": "Sea level",
+        "as": "সাগৰ পৃষ্ঠ"
+      },
+      {
+        "en": "Poles",
+        "as": "মেৰু"
+      },
+      {
+        "en": "Centre of the Earth",
+        "as": "পৃথিৱীৰ কেন্দ্ৰ"
+      },
+      {
+        "en": "Mount Everest",
+        "as": "মাউণ্ট এভাৰেষ্ট"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "At the centre of the Earth the mass of the outer shell exerts no net gravitational force, so the effective value of g is zero there. Hence g is zero at the centre.",
+      "as": "পৃথিৱীৰ কেন্দ্ৰত বাহিৰৰ আৱৰণৰ ভৰে মুঠ মহাকৰ্ষণ বল নিদিয়ে, সেয়ে তাত g-ৰ কাৰ্যকৰী মান শূন্য। সেয়ে পৃথিৱীৰ কেন্দ্ৰত g শূন্য।"
+    }
+  },
+  {
+    "id": "physics-097",
+    "q": {
+      "en": "The gravitational force between two bodies is given by?",
+      "as": "দুটা বস্তুৰ মাজৰ মহাকৰ্ষণ বলৰ সূত্ৰ কি?"
+    },
+    "options": [
+      {
+        "en": "F = G m1 m2 / r²",
+        "as": "F = G m1 m2 / r²"
+      },
+      {
+        "en": "F = m a",
+        "as": "F = m a"
+      },
+      {
+        "en": "F = k q1 q2 / r² only for gravity",
+        "as": "কেৱল মহাকৰ্ষণৰ বাবে F = k q1 q2 / r²"
+      },
+      {
+        "en": "F = mv",
+        "as": "F = mv"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Newton's universal law of gravitation states that every particle attracts every other particle with a force F = G m1 m2 / r², where G is the gravitational constant and r is the distance between the two masses.",
+      "as": "নিউটনৰ সাৰ্বজনীন মহাকৰ্ষণ সূত্ৰ অনুসৰি দুটা বস্তুৰ মাজৰ আকৰ্ষণ বল F = G m1 m2 / r², য'ত G মহাকৰ্ষণ ধ্ৰুৱক আৰু r হৈছে দুয়োটা ভৰৰ মাজৰ দূৰত্ব।"
+    }
+  },
+  {
+    "id": "physics-098",
+    "q": {
+      "en": "Who gave the universal law of gravitation?",
+      "as": "সাৰ্বজনীন মহাকৰ্ষণ সূত্ৰ কোনে দিছিল?"
+    },
+    "options": [
+      {
+        "en": "Einstein",
+        "as": "আইনষ্টাইন"
+      },
+      {
+        "en": "Isaac Newton",
+        "as": "আইজাক নিউটন"
+      },
+      {
+        "en": "Galileo",
+        "as": "গেলিলিঅ’"
+      },
+      {
+        "en": "Kepler",
+        "as": "কেপলাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The universal law of gravitation was given by Sir Isaac Newton, published in 1687 in his work Principia.",
+      "as": "সাৰ্বজনীন মহাকৰ্ষণ সূত্ৰ ছাৰ আইজাক নিউটনে দিছিল; ১৬৮৭ চনত তেওঁৰ প্ৰিন্সিপিয়া গ্ৰন্থত ই প্ৰকাশিত হয়।"
+    }
+  },
+  {
+    "id": "physics-133",
+    "q": {
+      "en": "The first Indian satellite was?",
+      "as": "প্ৰথম ভাৰতীয় উপগ্ৰহ কোনটো আছিল?"
+    },
+    "options": [
+      {
+        "en": "Aryabhata",
+        "as": "আৰ্যভট্ট"
+      },
+      {
+        "en": "INSAT-1A",
+        "as": "ইনচেট-১এ"
+      },
+      {
+        "en": "Rohini",
+        "as": "ৰোহিনী"
+      },
+      {
+        "en": "Chandrayaan-1",
+        "as": "চন্দ্ৰযান-১"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Aryabhata, launched on 19 April 1975, was India's first satellite. Hence 'Aryabhata' is correct.",
+      "as": "১৯ এপ্ৰিল ১৯৭৫ চনত উৎক্ষেপিত আৰ্যভট্ট ভাৰতৰ প্ৰথম উপগ্ৰহ আছিল। সেয়ে 'আৰ্যভট্ট' শুদ্ধ।"
+    }
+  },
+  {
+    "id": "physics-135",
+    "q": {
+      "en": "Geostationary satellites have a time period of about?",
+      "as": "ভূস্থিৰ উপগ্ৰহৰ পৰ্যায়কাল প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "12 hours",
+        "as": "১২ ঘণ্টা"
+      },
+      {
+        "en": "1 hour",
+        "as": "১ ঘণ্টা"
+      },
+      {
+        "en": "24 hours",
+        "as": "২৪ ঘণ্টা"
+      },
+      {
+        "en": "365 days",
+        "as": "৩৬৫ দিন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A geostationary satellite revolves around the Earth once in 24 hours in the equatorial plane, so it appears stationary over one point. Hence '24 hours' is correct.",
+      "as": "ভূস্থিৰ উপগ্ৰহে বিষুৱৰীয় সমতলত ২৪ ঘণ্টাত এবাৰ পৃথিৱীক প্ৰদক্ষিণ কৰে, সেয়ে ই এটা বিন্দুৰ ওপৰত স্থিৰ দেখা যায়। সেয়ে '২৪ ঘণ্টা' শুদ্ধ।"
+    }
+  }
+]

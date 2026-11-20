@@ -1,0 +1,452 @@
+[
+  {
+    "id": "biology-001",
+    "q": {
+      "en": "The basic unit of life is?",
+      "as": "জীৱনৰ মৌলিক একক কি?"
+    },
+    "options": [
+      {
+        "en": "Cell",
+        "as": "কোষ"
+      },
+      {
+        "en": "Tissue",
+        "as": "কলা"
+      },
+      {
+        "en": "Organ",
+        "as": "অংগ"
+      },
+      {
+        "en": "Organism",
+        "as": "জীৱ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The cell is the basic structural and functional unit of life.",
+      "as": "কোষ হৈছে জীৱনৰ মৌলিক গাঁথনিগত আৰু কাৰ্যকৰী একক।"
+    }
+  },
+  {
+    "id": "biology-002",
+    "q": {
+      "en": "The powerhouse of the cell is?",
+      "as": "কোষৰ শক্তিগৃহ কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
+      },
+      {
+        "en": "Ribosome",
+        "as": "ৰাইব’জম"
+      },
+      {
+        "en": "Mitochondria",
+        "as": "মাইট’কণ্ড্ৰিয়া"
+      },
+      {
+        "en": "Golgi body",
+        "as": "গলগি বডি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Mitochondria is called the powerhouse of the cell because it produces energy in the form of ATP.",
+      "as": "মাইট’কণ্ড্ৰিয়াই ATP ৰূপে শক্তি উৎপন্ন কৰে, সেয়ে ইয়াক কোষৰ শক্তিগৃহ বোলে।"
+    }
+  },
+  {
+    "id": "biology-003",
+    "q": {
+      "en": "The control centre of the cell is?",
+      "as": "কোষৰ নিয়ন্ত্ৰণ কেন্দ্ৰ কি?"
+    },
+    "options": [
+      {
+        "en": "Mitochondria",
+        "as": "মাইট’কণ্ড্ৰিয়া"
+      },
+      {
+        "en": "Chloroplast",
+        "as": "ক্ল’ৰপ্লাষ্ট"
+      },
+      {
+        "en": "Vacuole",
+        "as": "ৰিক্তিকা"
+      },
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The nucleus controls all the activities of the cell.",
+      "as": "নিউক্লিয়াছে কোষৰ সকলো কাৰ্যকলাপ নিয়ন্ত্ৰণ কৰে।"
+    }
+  },
+  {
+    "id": "biology-012",
+    "q": {
+      "en": "Red blood cells are produced in?",
+      "as": "ৰক্ত কণিকা ক’ত উৎপন্ন হয়?"
+    },
+    "options": [
+      {
+        "en": "Bone marrow",
+        "as": "অস্থি মজ্জা"
+      },
+      {
+        "en": "Liver only in adults",
+        "as": "প্ৰাপ্তবয়স্কত কেৱল যকৃত"
+      },
+      {
+        "en": "Heart",
+        "as": "হৃদযন্ত্ৰ"
+      },
+      {
+        "en": "Kidney",
+        "as": "বৃক্ক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Red blood cells are produced in the bone marrow.",
+      "as": "ৰক্ত কণিকা অস্থি মজ্জাত উৎপন্ন হয়।"
+    }
+  },
+  {
+    "id": "biology-048",
+    "q": {
+      "en": "Plant cells differ from animal cells in having?",
+      "as": "উদ্ভিদ কোষ প্ৰাণী কোষতকৈ কিৰে পৃথক?"
+    },
+    "options": [
+      {
+        "en": "Cell wall",
+        "as": "কোষ দেৱাল"
+      },
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
+      },
+      {
+        "en": "Mitochondria",
+        "as": "মাইট’কণ্ড্ৰিয়া"
+      },
+      {
+        "en": "Cytoplasm",
+        "as": "চাইট’প্লাজম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Plant cells have a rigid cell wall, which animal cells lack.",
+      "as": "উদ্ভিদ কোষত কঠিন কোষ দেৱাল থাকে, যি প্ৰাণী কোষত নাথাকে।"
+    }
+  },
+  {
+    "id": "biology-049",
+    "q": {
+      "en": "Ribosomes are the site of?",
+      "as": "ৰাইব’জম কিৰ স্থান?"
+    },
+    "options": [
+      {
+        "en": "Photosynthesis",
+        "as": "সালোক সংশ্লেষণ"
+      },
+      {
+        "en": "Protein synthesis",
+        "as": "প্ৰ’টিন সংশ্লেষণ"
+      },
+      {
+        "en": "Respiration",
+        "as": "শ্বসন"
+      },
+      {
+        "en": "Lipid storage",
+        "as": "লিপিড সঞ্চয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ribosomes are the site of protein synthesis.",
+      "as": "ৰাইব’জম হৈছে প্ৰ’টিন সংশ্লেষণৰ স্থান।"
+    }
+  },
+  {
+    "id": "biology-067",
+    "q": {
+      "en": "The number of chromosomes in a human cell is?",
+      "as": "মানৱ কোষত ক্ৰ’ম’জ’মৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "23",
+        "as": "২৩"
+      },
+      {
+        "en": "44",
+        "as": "৪৪"
+      },
+      {
+        "en": "46",
+        "as": "৪৬"
+      },
+      {
+        "en": "48",
+        "as": "৪৮"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A normal human cell has 46 chromosomes (23 pairs).",
+      "as": "সাধাৰণ মানৱ কোষত ৪৬ টা ক্ৰ’ম’জ’ম (২৩ যোৰ) থাকে।"
+    }
+  },
+  {
+    "id": "biology-070",
+    "q": {
+      "en": "The process of cell division that produces two identical cells is?",
+      "as": "দুটা একেধৰণৰ কোষ উৎপন্ন কৰা কোষ বিভাজনক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Meiosis",
+        "as": "মিয়’ছিছ"
+      },
+      {
+        "en": "Mitosis",
+        "as": "মাইট’ছিছ"
+      },
+      {
+        "en": "Fertilisation",
+        "as": "নিষেক"
+      },
+      {
+        "en": "Budding",
+        "as": "মুকুলায়ন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Mitosis produces two identical daughter cells.",
+      "as": "মাইট’ছিছে দুটা একেধৰণৰ অপত্য কোষ উৎপন্ন কৰে।"
+    }
+  },
+  {
+    "id": "biology-077",
+    "q": {
+      "en": "The study of cells is called?",
+      "as": "কোষৰ অধ্যয়নক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Cytology",
+        "as": "কোষ বিজ্ঞান"
+      },
+      {
+        "en": "Histology",
+        "as": "কলা বিজ্ঞান"
+      },
+      {
+        "en": "Anatomy",
+        "as": "শৰীৰস্থান"
+      },
+      {
+        "en": "Physiology",
+        "as": "দেহতত্ত্ব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The study of cells is called cytology.",
+      "as": "কোষৰ অধ্যয়নক কোষ বিজ্ঞান (চাইট’লজি) বোলে।"
+    }
+  },
+  {
+    "id": "biology-121",
+    "q": {
+      "en": "Amoeba moves with the help of?",
+      "as": "এমিবা কিৰ সহায়ত চলে?"
+    },
+    "options": [
+      {
+        "en": "Cilia",
+        "as": "চিলিয়া"
+      },
+      {
+        "en": "Flagella",
+        "as": "ফ্লাজেলা"
+      },
+      {
+        "en": "Setae",
+        "as": "ছেটি"
+      },
+      {
+        "en": "Pseudopodia",
+        "as": "ছুদ্ৰপাদ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Amoeba moves with the help of pseudopodia.",
+      "as": "এমিবা ছুদ্ৰপাদৰ সহায়ত চলে।"
+    }
+  },
+  {
+    "id": "biology-122",
+    "q": {
+      "en": "Paramoecium moves with the help of?",
+      "as": "পেৰামিচিয়াম কিৰ সহায়ত চলে?"
+    },
+    "options": [
+      {
+        "en": "Cilia",
+        "as": "চিলিয়া"
+      },
+      {
+        "en": "Pseudopodia",
+        "as": "ছুদ্ৰপাদ"
+      },
+      {
+        "en": "Wings",
+        "as": "ডেউকা"
+      },
+      {
+        "en": "Fins",
+        "as": "পাখনা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Paramoecium moves with the help of cilia.",
+      "as": "পেৰামিচিয়াম চিলিয়াৰ সহায়ত চলে।"
+    }
+  },
+  {
+    "id": "biology-125",
+    "q": {
+      "en": "Cell theory was proposed by?",
+      "as": "কোষ তত্ত্ব কোনে প্ৰস্তাৱ কৰিছিল?"
+    },
+    "options": [
+      {
+        "en": "Watson and Crick",
+        "as": "ৱাটছন আৰু ক্ৰিক"
+      },
+      {
+        "en": "Darwin and Wallace",
+        "as": "ডাৰউইন আৰু ৱালেছ"
+      },
+      {
+        "en": "Schleiden and Schwann",
+        "as": "শ্লাইডেন আৰু শ্বান"
+      },
+      {
+        "en": "Mendel and Morgan",
+        "as": "মেণ্ডেল আৰু মৰ্গান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Cell theory was proposed by Schleiden and Schwann.",
+      "as": "কোষ তত্ত্ব শ্লাইডেন আৰু শ্বানে প্ৰস্তাৱ কৰিছিল।"
+    }
+  },
+  {
+    "id": "biology-126",
+    "q": {
+      "en": "Lysosomes are known as?",
+      "as": "লাইছ’জমক কি বুলি জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Powerhouse of cell",
+        "as": "কোষৰ শক্তিগৃহ"
+      },
+      {
+        "en": "Kitchen of cell",
+        "as": "কোষৰ ৰন্ধনশালা"
+      },
+      {
+        "en": "Control centre",
+        "as": "নিয়ন্ত্ৰণ কেন্দ্ৰ"
+      },
+      {
+        "en": "Suicide bags of the cell",
+        "as": "কোষৰ আত্মহত্যাৰ থলি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Lysosomes are known as the suicide bags of the cell.",
+      "as": "লাইছ’জমক কোষৰ আত্মহত্যাৰ থলি বুলি জনা যায়।"
+    }
+  },
+  {
+    "id": "biology-127",
+    "q": {
+      "en": "Golgi apparatus is associated with?",
+      "as": "গলগি যন্ত্ৰ কিৰ সৈতে জড়িত?"
+    },
+    "options": [
+      {
+        "en": "Packaging and secretion",
+        "as": "পেকেজিং আৰু নিঃসৰণ"
+      },
+      {
+        "en": "Photosynthesis",
+        "as": "সালোক সংশ্লেষণ"
+      },
+      {
+        "en": "Protein synthesis only",
+        "as": "কেৱল প্ৰ’টিন সংশ্লেষণ"
+      },
+      {
+        "en": "Respiration",
+        "as": "শ্বসন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Golgi apparatus is associated with the packaging and secretion of materials.",
+      "as": "গলগি যন্ত্ৰ পদাৰ্থ পেকেজিং আৰু নিঃসৰণৰ সৈতে জড়িত।"
+    }
+  },
+  {
+    "id": "biology-128",
+    "q": {
+      "en": "Vacuoles in plant cells mainly store?",
+      "as": "উদ্ভিদ কোষৰ ৰিক্তিকাত মূলতঃ কি সঞ্চিত হয়?"
+    },
+    "options": [
+      {
+        "en": "DNA only",
+        "as": "কেৱল DNA"
+      },
+      {
+        "en": "Water and dissolved substances",
+        "as": "পানী আৰু দ্ৰৱীভূত পদাৰ্থ"
+      },
+      {
+        "en": "Only starch grains of animals",
+        "as": "কেৱল প্ৰাণীৰ ষ্টাৰ্চ"
+      },
+      {
+        "en": "Bones",
+        "as": "হাড়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Vacuoles in plant cells mainly store water and dissolved substances.",
+      "as": "উদ্ভিদ কোষৰ ৰিক্তিকাত মূলতঃ পানী আৰু দ্ৰৱীভূত পদাৰ্থ সঞ্চিত হয়।"
+    }
+  }
+]

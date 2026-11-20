@@ -1,0 +1,122 @@
+[
+  {
+    "id": "non-verbal-reasoning-004",
+    "q": {
+      "en": "Paper cutting: square folded once, hole at a corner on the fold. Unfolded holes = ?",
+      "as": "এবাৰ ভাঁজ, ভাঁজৰ কোণত ফুটা। মেলিলে ফুটা?"
+    },
+    "options": [
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "As the paper has only one fold, each punched hole is reproduced as a mirror image on the other side of the fold line, giving 2 holes when unfolded.",
+      "as": "কাগজত মাত্ৰ এটা ভাঁজ আছে, সেয়ে ফুটা কৰা অংশ ভাঁজ ৰেখাৰ আনফালে প্ৰতিফলিত হয় আৰু মেলিলে ২ টা ফুটা দেখা যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-031",
+    "q": {
+      "en": "Paper folded into 8 layers (3 folds) and 1 hole punched. Unfolded holes = ?",
+      "as": "৩ বাৰ ভাঁজ (৮ স্তৰ) কৰি ১ ফুটা। মেলিলে ফুটা?"
+    },
+    "options": [
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "16",
+        "as": "১৬"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Folding the paper into 8 layers (3 folds) and punching 1 hole makes one hole in every layer, so 8 holes appear on unfolding.",
+      "as": "কাগজ ৮ স্তৰ কৰি (৩ বাৰ ভাঁজ) ১ ফুটা কৰিলে প্ৰতিটো স্তৰত এটাকৈ ফুটা হয়, সেয়ে মেলিলে ৮ টা ফুটা দেখা যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-062",
+    "q": {
+      "en": "Paper cutting: hole punched at the centre of an unfolded square. Number of holes = ?",
+      "as": "নভঁজা বৰ্গৰ মাজত ফুটা। ফুটাৰ সংখ্যা?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "0",
+        "as": "০"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Punching a single hole at the centre of an unfolded square produces exactly one hole; folding would have multiplied it, but the paper is unfolded here.",
+      "as": "নভঁজা বৰ্গৰ মাজত এটা ফুটা কৰিলে মাত্ৰ এটা ফুটাই হয়; কাগজ ভাঁজ কৰা হ'লে ফুটা বাঢ়িলহেঁতেন, কিন্তু ইয়াত কাগজ নভঁজাকৈ আছে।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-073",
+    "q": {
+      "en": "A square paper is folded twice in half and one hole is punched. When unfolded, how many holes are seen?",
+      "as": "এখন বৰ্গাকাৰ কাগজ দুবাৰ আধা কৰি ভাঁজ কৰি এটা ফুটা মৰা হ'ল। মেলিলে কিমান ফুটা দেখা যাব?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Each fold doubles the number of layers, so one hole becomes 2 x 2 = 4 holes.",
+      "as": "প্ৰতিটো ভাঁজে স্তৰৰ সংখ্যা দুগুণ কৰে, সেয়ে এটা ফুটা ২ × ২ = ৪টা ফুটা হয়।"
+    }
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "physics-007",
+    "q": {
+      "en": "Sound cannot travel through?",
+      "as": "শব্দ কিৰ মাজেৰে যাব নোৱাৰে?"
+    },
+    "options": [
+      {
+        "en": "Air",
+        "as": "বায়ু"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Vacuum",
+        "as": "শূন্যস্থান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sound is a mechanical wave and needs a material medium to propagate; therefore it cannot travel through a vacuum.",
+      "as": "শব্দ এটা যান্ত্ৰিক তৰংগ, প্ৰসাৰণৰ বাবে পদাৰ্থ মাধ্যম প্ৰয়োজন; সেয়ে শূন্যস্থানৰ মাজেৰে শব্দ যাব নোৱাৰে।"
+    }
+  },
+  {
+    "id": "physics-017",
+    "q": {
+      "en": "Frequency of a sound wave is measured in?",
+      "as": "শব্দ তৰংগৰ কম্পাংক কি এককত জোখা হয়?"
+    },
+    "options": [
+      {
+        "en": "Decibel",
+        "as": "ডেচিবেল"
+      },
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      },
+      {
+        "en": "Hertz",
+        "as": "হাৰ্টজ"
+      },
+      {
+        "en": "Pascal",
+        "as": "পাস্কেল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Frequency is the number of vibrations per second, measured in hertz (Hz); 1 Hz = 1 cycle per second.",
+      "as": "কম্পাংক হৈছে প্ৰতি ছেকেণ্ডত হোৱা কম্পনৰ সংখ্যা, ইয়াৰ একক হাৰ্টজ (Hz); ১ Hz = প্ৰতি ছেকেণ্ডত ১ কম্পন।"
+    }
+  },
+  {
+    "id": "physics-052",
+    "q": {
+      "en": "The SI unit of frequency is?",
+      "as": "কম্পাংকৰ SI একক কি?"
+    },
+    "options": [
+      {
+        "en": "Hertz",
+        "as": "হাৰ্টজ"
+      },
+      {
+        "en": "Decibel",
+        "as": "ডেচিবেল"
+      },
+      {
+        "en": "Watt",
+        "as": "ৱাট"
+      },
+      {
+        "en": "Ohm",
+        "as": "ওম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Frequency is the number of oscillations per second, and its SI unit is the hertz (Hz). One hertz equals one cycle per second.",
+      "as": "কম্পাংক হ'ল প্ৰতি ছেকেণ্ডত হোৱা কম্পনৰ সংখ্যা, ইয়াৰ SI একক হাৰ্টজ (Hz)। এক হাৰ্টজ = প্ৰতি ছেকেণ্ডত এটা চক্ৰ।"
+    }
+  },
+  {
+    "id": "physics-053",
+    "q": {
+      "en": "Which colour of light has the longest wavelength?",
+      "as": "পোহৰৰ কোনটো ৰঙৰ তৰংগদৈৰ্ঘ্য সৰ্বাধিক?"
+    },
+    "options": [
+      {
+        "en": "Violet",
+        "as": "বেঙুনীয়া"
+      },
+      {
+        "en": "Red",
+        "as": "ৰঙা"
+      },
+      {
+        "en": "Blue",
+        "as": "নীলা"
+      },
+      {
+        "en": "Green",
+        "as": "সেউজীয়া"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "In the visible spectrum, red light has the longest wavelength (about 700 nm) and the lowest frequency. Therefore red has the greatest wavelength.",
+      "as": "দৃশ্যমান স্পেক্ট্ৰামত ৰঙা পোহৰৰ তৰংগদৈৰ্ঘ্য সৰ্বাধিক (প্ৰায় ৭০০ nm) আৰু কম্পাংক সৰ্বনিম্ন। সেয়ে ৰঙা ৰঙৰ তৰংগদৈৰ্ঘ্য সৰ্বাধিক।"
+    }
+  },
+  {
+    "id": "physics-054",
+    "q": {
+      "en": "Which colour of visible light has the highest frequency?",
+      "as": "দৃশ্যমান পোহৰৰ কোনটো ৰঙৰ কম্পাংক সৰ্বাধিক?"
+    },
+    "options": [
+      {
+        "en": "Red",
+        "as": "ৰঙা"
+      },
+      {
+        "en": "Yellow",
+        "as": "হালধীয়া"
+      },
+      {
+        "en": "Violet",
+        "as": "বেঙুনীয়া"
+      },
+      {
+        "en": "Green",
+        "as": "সেউজীয়া"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Violet light lies at the short-wavelength end of the visible spectrum (about 400 nm), giving it the highest frequency among visible colours.",
+      "as": "বেঙুনীয়া পোহৰ দৃশ্যমান স্পেক্ট্ৰামৰ চুটি তৰংগদৈৰ্ঘ্যৰ মূৰত থাকে (প্ৰায় ৪০০ nm), সেয়ে ইয়াৰ কম্পাংক দৃশ্যমান ৰঙসমূহৰ ভিতৰত সৰ্বাধিক।"
+    }
+  },
+  {
+    "id": "physics-081",
+    "q": {
+      "en": "The speed of sound is maximum in?",
+      "as": "শব্দৰ বেগ ক’ত সৰ্বাধিক?"
+    },
+    "options": [
+      {
+        "en": "Gases",
+        "as": "গেছ"
+      },
+      {
+        "en": "Solids",
+        "as": "কঠিন পদাৰ্থ"
+      },
+      {
+        "en": "Liquids",
+        "as": "তৰল"
+      },
+      {
+        "en": "Vacuum",
+        "as": "শূন্যস্থান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The speed of sound depends on the elasticity and density of the medium. It is maximum in solids, less in liquids and least in gases; sound cannot travel in vacuum.",
+      "as": "শব্দৰ বেগ মাধ্যমৰ স্থিতিস্থাপকতা আৰু ঘনত্বৰ ওপৰত নিৰ্ভৰ কৰে। কঠিনত সৰ্বাধিক, তৰলত কম আৰু গেছত আটাইতকৈ কম; শূন্যস্থানত শব্দ চলিব নোৱাৰে।"
+    }
+  },
+  {
+    "id": "physics-082",
+    "q": {
+      "en": "Echo is due to?",
+      "as": "প্ৰতিধ্বনি কিৰ বাবে হয়?"
+    },
+    "options": [
+      {
+        "en": "Refraction of sound",
+        "as": "শব্দৰ প্ৰতিসৰণ"
+      },
+      {
+        "en": "Diffraction of sound",
+        "as": "শব্দৰ অপৱৰ্তন"
+      },
+      {
+        "en": "Reflection of sound",
+        "as": "শব্দৰ প্ৰতিফলন"
+      },
+      {
+        "en": "Interference of light",
+        "as": "পোহৰৰ ব্যতিচাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Echo is produced when sound waves are reflected back from a distant hard surface; the reflected sound is heard separately if the delay is at least about 0.1 s.",
+      "as": "দূৰৈৰ কঠিন পৃষ্ঠৰ পৰা শব্দ তৰংগ প্ৰতিফলিত হৈ ঘূৰি আহিলে প্ৰতিধ্বনি হয়; বিলম্ব প্ৰায় ০.১ ছেকেণ্ডতকৈ বেছি হ'লে প্ৰতিধ্বনি পৃথকে শুনা যায়।"
+    }
+  },
+  {
+    "id": "physics-083",
+    "q": {
+      "en": "The loudness of sound is measured in?",
+      "as": "শব্দৰ তীব্ৰতা কি এককত জোখা হয়?"
+    },
+    "options": [
+      {
+        "en": "Hertz",
+        "as": "হাৰ্টজ"
+      },
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      },
+      {
+        "en": "Watt",
+        "as": "ৱাট"
+      },
+      {
+        "en": "Decibel",
+        "as": "ডেচিবেল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Loudness (intensity level) of sound is measured in decibels (dB), while hertz measures frequency, newton force and watt power.",
+      "as": "শব্দৰ তীব্ৰতা ডেচিবেল (dB) এককত জোখা হয়; হাৰ্টজ কম্পাংক, নিউটন বল আৰু ৱাট ক্ষমতাৰ একক।"
+    }
+  },
+  {
+    "id": "physics-084",
+    "q": {
+      "en": "Ultrasound has frequency?",
+      "as": "আল্ট্ৰাচাউণ্ডৰ কম্পাংক কিমান?"
+    },
+    "options": [
+      {
+        "en": "More than 20,000 Hz",
+        "as": "২০,০০০ হাৰ্টজতকৈ বেছি"
+      },
+      {
+        "en": "Less than 20 Hz",
+        "as": "২০ হাৰ্টজতকৈ কম"
+      },
+      {
+        "en": "Exactly 20 Hz",
+        "as": "ঠিক ২০ হাৰ্টজ"
+      },
+      {
+        "en": "Between 20 Hz and 20 kHz only",
+        "as": "কেৱল ২০ হাৰ্টজৰ পৰা ২০ কিলোহাৰ্টজলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ultrasound is sound of frequency greater than 20,000 Hz (20 kHz), which is above the upper limit of human hearing, used in sonography and SONAR.",
+      "as": "আল্ট্ৰাচাউণ্ড হ'ল ২০,০০০ হাৰ্টজতকৈ বেছি কম্পাংকৰ শব্দ, যি মানুহৰ শ্ৰৱণ সীমাৰ ওপৰত; ইয়াক চন'গ্ৰাফী আৰু ছ'নাৰত ব্যৱহাৰ কৰা হয়।"
+    }
+  },
+  {
+    "id": "physics-085",
+    "q": {
+      "en": "The human audible range is approximately?",
+      "as": "মানুহৰ শ্ৰৱণ ক্ষমতাৰ পৰিসৰ প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "2 Hz to 20 Hz",
+        "as": "২ৰ পৰা ২০ হাৰ্টজ"
+      },
+      {
+        "en": "20 Hz to 20,000 Hz",
+        "as": "২০ৰ পৰা ২০,০০০ হাৰ্টজ"
+      },
+      {
+        "en": "20 kHz to 2 MHz",
+        "as": "২০ কিলোহাৰ্টজৰ পৰা ২ মেগাহাৰ্টজ"
+      },
+      {
+        "en": "Only above 20 kHz",
+        "as": "কেৱল ২০ কিলোহাৰ্টজৰ ওপৰত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The normal human audible range is approximately 20 Hz to 20,000 Hz (20 kHz); below this is infrasound and above is ultrasound.",
+      "as": "মানুহৰ শ্ৰৱণ পৰিসৰ প্ৰায় ২০ হাৰ্টজৰ পৰা ২০,০০০ হাৰ্টজলৈ; ইয়াৰ তলত ইনফ্ৰাচাউণ্ড আৰু ওপৰত আল্ট্ৰাচাউণ্ড।"
+    }
+  },
+  {
+    "id": "physics-101",
+    "q": {
+      "en": "The SI unit of wavelength is?",
+      "as": "তৰংগদৈৰ্ঘ্যৰ SI একক কি?"
+    },
+    "options": [
+      {
+        "en": "Metre",
+        "as": "মিটাৰ"
+      },
+      {
+        "en": "Hertz",
+        "as": "হাৰ্টজ"
+      },
+      {
+        "en": "Second",
+        "as": "ছেকেণ্ড"
+      },
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Wavelength is the distance between two consecutive crests or troughs of a wave, so its SI unit is the metre (m).",
+      "as": "তৰংগদৈৰ্ঘ্য হৈছে এটা তৰংগৰ দুটা ক্ৰমিক শিখৰ বা খাদৰ মাজৰ দূৰত্ব; সেয়ে ইয়াৰ SI একক মিটাৰ (m)।"
+    }
+  },
+  {
+    "id": "physics-102",
+    "q": {
+      "en": "Relation between wave speed v, frequency f and wavelength λ is?",
+      "as": "তৰংগ বেগ v, কম্পাংক f আৰু তৰংগদৈৰ্ঘ্য λ-ৰ সম্পৰ্ক কি?"
+    },
+    "options": [
+      {
+        "en": "v = f / λ",
+        "as": "v = f / λ"
+      },
+      {
+        "en": "v = f λ",
+        "as": "v = f λ"
+      },
+      {
+        "en": "v = λ / f",
+        "as": "v = λ / f"
+      },
+      {
+        "en": "v = f + λ",
+        "as": "v = f + λ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The speed of a wave equals its frequency multiplied by its wavelength: v = f λ.",
+      "as": "তৰংগৰ বেগ = কম্পাংক × তৰংগদৈৰ্ঘ্য, অৰ্থাৎ v = f λ।"
+    }
+  },
+  {
+    "id": "physics-129",
+    "q": {
+      "en": "AC used in Indian household supply has frequency?",
+      "as": "ভাৰতীয় ঘৰুৱা বিদ্যুৎ যোগানৰ AC-ৰ কম্পাংক কিমান?"
+    },
+    "options": [
+      {
+        "en": "50 Hz",
+        "as": "৫০ হাৰ্টজ"
+      },
+      {
+        "en": "60 Hz",
+        "as": "৬০ হাৰ্টজ"
+      },
+      {
+        "en": "100 Hz",
+        "as": "১০০ হাৰ্টজ"
+      },
+      {
+        "en": "220 Hz",
+        "as": "২২০ হাৰ্টজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The alternating current supplied for domestic use in India has a frequency of 50 Hz, i.e. it reverses direction 100 times per second. Hence '50 Hz' is correct.",
+      "as": "ভাৰতত ঘৰুৱা ব্যৱহাৰৰ পৰিবৰ্তী প্ৰবাহৰ কম্পাংক ৫০ হাৰ্টজ, অৰ্থাৎ ই ছেকেণ্ডত ১০০ বাৰ দিশ সলনি কৰে। সেয়ে '৫০ হাৰ্টজ' শুদ্ধ।"
+    }
+  }
+]

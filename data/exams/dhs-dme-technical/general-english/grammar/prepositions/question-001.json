@@ -1,0 +1,362 @@
+[
+  {
+    "id": "grammar-004",
+    "q": {
+      "en": "He is poor ___ honest.",
+      "as": "তেওঁ দুখীয়া কিন্তু সৎ।"
+    },
+    "options": [
+      {
+        "en": "and",
+        "as": "and"
+      },
+      {
+        "en": "or",
+        "as": "or"
+      },
+      {
+        "en": "but",
+        "as": "but"
+      },
+      {
+        "en": "so",
+        "as": "so"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'But' shows the contrast between poor and honest.",
+      "as": "'but' য়ে দৰিদ্ৰ আৰু সৎৰ মাজৰ বিপৰীততা দেখুৱায়।"
+    }
+  },
+  {
+    "id": "grammar-005",
+    "q": {
+      "en": "Wait here ___ I return.",
+      "as": "মই উভতি অহালৈকে ইয়াত অপেক্ষা কৰা।"
+    },
+    "options": [
+      {
+        "en": "unless",
+        "as": "unless"
+      },
+      {
+        "en": "until",
+        "as": "until"
+      },
+      {
+        "en": "if",
+        "as": "if"
+      },
+      {
+        "en": "although",
+        "as": "although"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Until' shows the time up to which an action continues.",
+      "as": "'until' য়ে কাৰ্য কেতিয়ালৈকে চলি থাকে দেখুৱায়।"
+    }
+  },
+  {
+    "id": "grammar-012",
+    "q": {
+      "en": "He divided the money ___ the two brothers.",
+      "as": "তেওঁ দুজন ভাইৰ মাজত টকা ভাগ কৰিলে।"
+    },
+    "options": [
+      {
+        "en": "among",
+        "as": "among"
+      },
+      {
+        "en": "between",
+        "as": "between"
+      },
+      {
+        "en": "into",
+        "as": "into"
+      },
+      {
+        "en": "with",
+        "as": "with"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Between' is used for two persons.",
+      "as": "দুজন ব্যক্তিৰ বাবে 'between' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-013",
+    "q": {
+      "en": "The teacher distributed sweets ___ the students.",
+      "as": "শিক্ষকে ছাত্ৰসকলৰ মাজত মিঠাই বিতৰণ কৰিলে।"
+    },
+    "options": [
+      {
+        "en": "between",
+        "as": "between"
+      },
+      {
+        "en": "among",
+        "as": "among"
+      },
+      {
+        "en": "in",
+        "as": "in"
+      },
+      {
+        "en": "into",
+        "as": "into"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Among' is used for more than two persons.",
+      "as": "দুইতকৈ অধিক ব্যক্তিৰ বাবে 'among' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-014",
+    "q": {
+      "en": "He jumped ___ the river.",
+      "as": "তেওঁ নদীত জাপ মাৰিলে।"
+    },
+    "options": [
+      {
+        "en": "in",
+        "as": "in"
+      },
+      {
+        "en": "on",
+        "as": "on"
+      },
+      {
+        "en": "into",
+        "as": "into"
+      },
+      {
+        "en": "at",
+        "as": "at"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Jump into' shows movement from outside to inside.",
+      "as": "'jump into' য়ে বাহিৰৰ পৰা ভিতৰলৈ গতি দেখুৱায়।"
+    }
+  },
+  {
+    "id": "grammar-015",
+    "q": {
+      "en": "I agree ___ your proposal.",
+      "as": "মই আপোনাৰ প্ৰস্তাৱত সন্মত।"
+    },
+    "options": [
+      {
+        "en": "to",
+        "as": "to"
+      },
+      {
+        "en": "with",
+        "as": "with"
+      },
+      {
+        "en": "on",
+        "as": "on"
+      },
+      {
+        "en": "for",
+        "as": "for"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Agree to' is used with a proposal or plan.",
+      "as": "প্ৰস্তাৱ বা পৰিকল্পনাৰ সৈতে 'agree to' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-016",
+    "q": {
+      "en": "I agree ___ you on this point.",
+      "as": "এই বিষয়ত মই আপোনাৰ সৈতে সন্মত।"
+    },
+    "options": [
+      {
+        "en": "to",
+        "as": "to"
+      },
+      {
+        "en": "with",
+        "as": "with"
+      },
+      {
+        "en": "on",
+        "as": "on"
+      },
+      {
+        "en": "at",
+        "as": "at"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Agree with' is used with a person.",
+      "as": "ব্যক্তিৰ সৈতে 'agree with' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-052",
+    "q": {
+      "en": "___ Himalayas are the highest mountain range in the world.",
+      "as": "___ হিমালয় পৃথিৱীৰ সৰ্বোচ্চ পৰ্বতমালা।"
+    },
+    "options": [
+      {
+        "en": "A",
+        "as": "A"
+      },
+      {
+        "en": "An",
+        "as": "An"
+      },
+      {
+        "en": "The",
+        "as": "The"
+      },
+      {
+        "en": "No article",
+        "as": "প্ৰবন্ধ নাই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'The' is used before the names of mountain ranges.",
+      "as": "পৰ্বতমালাৰ নামৰ আগত 'The' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-062",
+    "q": {
+      "en": "He is good ___ mathematics.",
+      "as": "তেওঁ গণিতত পাৰদৰ্শী।"
+    },
+    "options": [
+      {
+        "en": "in",
+        "as": "in"
+      },
+      {
+        "en": "at",
+        "as": "at"
+      },
+      {
+        "en": "on",
+        "as": "on"
+      },
+      {
+        "en": "with",
+        "as": "with"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The correct preposition after 'good' meaning skilled is 'at'.",
+      "as": "দক্ষতা বুজাবলৈ 'good' ৰ পিছত শুদ্ধ preposition হৈছে 'at'।"
+    }
+  },
+  {
+    "id": "grammar-063",
+    "q": {
+      "en": "She has been living here ___ 2015.",
+      "as": "তাই ২০১৫ চনৰ পৰা ইয়াত বাস কৰি আছে।"
+    },
+    "options": [
+      {
+        "en": "for",
+        "as": "for"
+      },
+      {
+        "en": "from",
+        "as": "from"
+      },
+      {
+        "en": "since",
+        "as": "since"
+      },
+      {
+        "en": "by",
+        "as": "by"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Since' is used with a point of time in the perfect tense.",
+      "as": "perfect tense ত সময়ৰ নিৰ্দিষ্ট বিন্দুৰ সৈতে 'since' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-067",
+    "q": {
+      "en": "They ___ here since morning.",
+      "as": "তেওঁলোক ৰাতিপুৱাৰ পৰা ইয়াত ___।"
+    },
+    "options": [
+      {
+        "en": "are",
+        "as": "are"
+      },
+      {
+        "en": "has been",
+        "as": "has been"
+      },
+      {
+        "en": "were",
+        "as": "were"
+      },
+      {
+        "en": "have been",
+        "as": "have been"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'They' is plural, so the present perfect form is 'have been'.",
+      "as": "'They' plural, সেয়ে present perfect ৰূপ 'have been' ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "grammar-068",
+    "q": {
+      "en": "I ___ him tomorrow.",
+      "as": "মই কাইলৈ তেওঁক ___।"
+    },
+    "options": [
+      {
+        "en": "meet",
+        "as": "meet"
+      },
+      {
+        "en": "met",
+        "as": "met"
+      },
+      {
+        "en": "will meet",
+        "as": "will meet"
+      },
+      {
+        "en": "have met",
+        "as": "have met"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'Tomorrow' refers to future time, so 'will meet' is used.",
+      "as": "'tomorrow' এ ভৱিষ্যৎ সময় বুজায়; সেয়ে 'will meet' ব্যৱহাৰ হয়।"
+    }
+  }
+]

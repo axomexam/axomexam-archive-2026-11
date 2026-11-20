@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vocabulary-061",
+    "q": {
+      "en": "Choose the correct word: '___ going to the market.'",
+      "as": "শুদ্ধ শব্দটো বাছক: '___ going to the market.'"
+    },
+    "options": [
+      {
+        "en": "They're",
+        "as": "তেওঁলোক যাব"
+      },
+      {
+        "en": "Theirs",
+        "as": "সেইবোৰৰ"
+      },
+      {
+        "en": "Their",
+        "as": "সেইবোৰৰ"
+      },
+      {
+        "en": "There",
+        "as": "তাত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'They're' is the contraction of 'they are', which fits here.",
+      "as": "'They're' হৈছে 'they are' ৰ সংক্ষিপ্ত ৰূপ, যি ইয়াত খাপ খায়।"
+    }
+  },
+  {
+    "id": "vocabulary-062",
+    "q": {
+      "en": "Choose the correct word: 'Smoking can ___ your health.'",
+      "as": "শুদ্ধ শব্দটো বাছক: 'Smoking can ___ your health.'"
+    },
+    "options": [
+      {
+        "en": "effect",
+        "as": "প্ৰভাৱ"
+      },
+      {
+        "en": "affect",
+        "as": "প্ৰভাৱিত কৰা"
+      },
+      {
+        "en": "effective",
+        "as": "কাৰ্যকৰী"
+      },
+      {
+        "en": "affected",
+        "as": "প্ৰভাৱিত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'Affect' is a verb meaning to influence; 'effect' is usually a noun.",
+      "as": "'affect' এটা ক্ৰিয়া যিয়ে প্ৰভাৱিত কৰা বুজায়; 'effect' সাধাৰণতে বিশেষ্য।"
+    }
+  },
+  {
+    "id": "vocabulary-080",
+    "q": {
+      "en": "Choose the correct word: 'The dog wagged ___ tail.'",
+      "as": "শুদ্ধ শব্দটো বাছক: 'The dog wagged ___ tail.'"
+    },
+    "options": [
+      {
+        "en": "Its",
+        "as": "তাৰ"
+      },
+      {
+        "en": "Its'",
+        "as": "তাৰ"
+      },
+      {
+        "en": "It",
+        "as": "ই"
+      },
+      {
+        "en": "It's",
+        "as": "ইয়াৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'Its' is the possessive form of 'it' and fits before a noun.",
+      "as": "'its' হৈছে 'it' ৰ অধিকাৰসূচক ৰূপ আৰু বিশেষ্যৰ আগত খাপ খায়।"
+    }
+  }
+]

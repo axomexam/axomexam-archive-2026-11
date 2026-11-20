@@ -1,0 +1,452 @@
+[
+  {
+    "id": "chemistry-005",
+    "q": {
+      "en": "pH of a neutral solution is?",
+      "as": "নিরপেক্ষ দ্ৰৱৰ pH কিমান?"
+    },
+    "options": [
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "0",
+        "as": "০"
+      },
+      {
+        "en": "14",
+        "as": "১৪"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pH of a neutral solution is 7.",
+      "as": "নিরপেক্ষ দ্ৰৱৰ pH ৭।"
+    }
+  },
+  {
+    "id": "chemistry-006",
+    "q": {
+      "en": "An acid turns blue litmus?",
+      "as": "এচিডে নীলা লিটমাছক কি কৰে?"
+    },
+    "options": [
+      {
+        "en": "Blue",
+        "as": "নীলা"
+      },
+      {
+        "en": "Red",
+        "as": "ৰঙা"
+      },
+      {
+        "en": "Green",
+        "as": "সেউজীয়া"
+      },
+      {
+        "en": "Colourless",
+        "as": "বৰ্ণহীন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "An acid turns blue litmus red.",
+      "as": "এচিডে নীলা লিটমাছক ৰঙা কৰে।"
+    }
+  },
+  {
+    "id": "chemistry-009",
+    "q": {
+      "en": "The chemical formula of common salt is?",
+      "as": "সাধাৰণ নিমখৰ ৰাসায়নিক সংকেত কি?"
+    },
+    "options": [
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      },
+      {
+        "en": "KCl",
+        "as": "KCl"
+      },
+      {
+        "en": "Na2CO3",
+        "as": "Na2CO3"
+      },
+      {
+        "en": "CaCO3",
+        "as": "CaCO3"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The chemical formula of common salt is NaCl.",
+      "as": "সাধাৰণ নিমখৰ ৰাসায়নিক সংকেত NaCl।"
+    }
+  },
+  {
+    "id": "chemistry-014",
+    "q": {
+      "en": "Which acid is present in lemon?",
+      "as": "নেমুত কোন এচিড থাকে?"
+    },
+    "options": [
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      },
+      {
+        "en": "Lactic acid",
+        "as": "লেক্টিক এচিড"
+      },
+      {
+        "en": "Citric acid",
+        "as": "চাইট্ৰিক এচিড"
+      },
+      {
+        "en": "Tartaric acid",
+        "as": "টাৰ্টাৰিক এচিড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Lemon contains citric acid.",
+      "as": "নেমুত চাইট্ৰিক এচিড থাকে।"
+    }
+  },
+  {
+    "id": "chemistry-015",
+    "q": {
+      "en": "Vinegar contains?",
+      "as": "ভিনেগাৰত কি থাকে?"
+    },
+    "options": [
+      {
+        "en": "Citric acid",
+        "as": "চাইট্ৰিক এচিড"
+      },
+      {
+        "en": "Formic acid",
+        "as": "ফৰ্মিক এচিড"
+      },
+      {
+        "en": "Oxalic acid",
+        "as": "অক্সালিক এচিড"
+      },
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Vinegar contains acetic acid.",
+      "as": "ভিনেগাৰত এচিটিক এচিড থাকে।"
+    }
+  },
+  {
+    "id": "chemistry-034",
+    "q": {
+      "en": "The functional group present in carboxylic acids is?",
+      "as": "কাৰ্বক্সিলিক এচিডত থকা ক্ৰিয়ামূলক গোটটো কি?"
+    },
+    "options": [
+      {
+        "en": "-OH",
+        "as": "-OH"
+      },
+      {
+        "en": "-CHO",
+        "as": "-CHO"
+      },
+      {
+        "en": "-COOH",
+        "as": "-COOH"
+      },
+      {
+        "en": "-CO-",
+        "as": "-CO-"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Carboxylic acids contain the carboxyl functional group -COOH.",
+      "as": "কাৰ্বক্সিলিক এচিডত কাৰ্বক্সিল ক্ৰিয়ামূলক গোট -COOH থাকে।"
+    }
+  },
+  {
+    "id": "chemistry-051",
+    "q": {
+      "en": "The chemical formula of sulphuric acid is?",
+      "as": "ছালফিউৰিক এচিডৰ ৰাসায়নিক সংকেত কি?"
+    },
+    "options": [
+      {
+        "en": "HCl",
+        "as": "HCl"
+      },
+      {
+        "en": "HNO3",
+        "as": "HNO3"
+      },
+      {
+        "en": "H2SO4",
+        "as": "H2SO4"
+      },
+      {
+        "en": "H2CO3",
+        "as": "H2CO3"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The chemical formula of sulphuric acid is H2SO4.",
+      "as": "ছালফিউৰিক এচিডৰ ৰাসায়নিক সংকেত H2SO4।"
+    }
+  },
+  {
+    "id": "chemistry-061",
+    "q": {
+      "en": "The pH of an acidic solution is?",
+      "as": "এচিডীয় দ্ৰৱৰ pH কিমান?"
+    },
+    "options": [
+      {
+        "en": "Less than 7",
+        "as": "৭তকৈ কম"
+      },
+      {
+        "en": "Equal to 7",
+        "as": "৭ৰ সমান"
+      },
+      {
+        "en": "More than 7",
+        "as": "৭তকৈ বেছি"
+      },
+      {
+        "en": "Equal to 14",
+        "as": "১৪ৰ সমান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The pH of an acidic solution is less than 7.",
+      "as": "এচিডীয় দ্ৰৱৰ pH ৭তকৈ কম।"
+    }
+  },
+  {
+    "id": "chemistry-062",
+    "q": {
+      "en": "A base turns red litmus?",
+      "as": "ক্ষাৰে ৰঙা লিটমাছক কি কৰে?"
+    },
+    "options": [
+      {
+        "en": "Red",
+        "as": "ৰঙা"
+      },
+      {
+        "en": "Blue",
+        "as": "নীলা"
+      },
+      {
+        "en": "Yellow",
+        "as": "হালধীয়া"
+      },
+      {
+        "en": "Colourless",
+        "as": "বৰ্ণহীন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A base turns red litmus blue.",
+      "as": "ক্ষাৰে ৰঙা লিটমাছক নীলা কৰে।"
+    }
+  },
+  {
+    "id": "chemistry-096",
+    "q": {
+      "en": "The chemical name of baking powder's acidic component often used is?",
+      "as": "বেকিং পাউদাৰত প্ৰায়ে ব্যৱহৃত এচিডীয় উপাদানৰ ৰাসায়নিক নাম কি?"
+    },
+    "options": [
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      },
+      {
+        "en": "NaOH",
+        "as": "NaOH"
+      },
+      {
+        "en": "Tartaric acid",
+        "as": "টাৰ্টাৰিক এচিড"
+      },
+      {
+        "en": "H2SO4",
+        "as": "H2SO4"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Tartaric acid is often the acidic component used in baking powder.",
+      "as": "টাৰ্টাৰিক এচিড বেকিং পাউদাৰত প্ৰায়ে ব্যৱহৃত এচিডীয় উপাদান।"
+    }
+  },
+  {
+    "id": "chemistry-099",
+    "q": {
+      "en": "The chemical formula of hydrochloric acid is?",
+      "as": "হাইড্ৰক্লৰিক এচিডৰ ৰাসায়নিক সংকেত কি?"
+    },
+    "options": [
+      {
+        "en": "HCl",
+        "as": "HCl"
+      },
+      {
+        "en": "HNO3",
+        "as": "HNO3"
+      },
+      {
+        "en": "H2SO4",
+        "as": "H2SO4"
+      },
+      {
+        "en": "H2CO3",
+        "as": "H2CO3"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The chemical formula of hydrochloric acid is HCl.",
+      "as": "হাইড্ৰক্লৰিক এচিডৰ ৰাসায়নিক সংকেত HCl।"
+    }
+  },
+  {
+    "id": "chemistry-100",
+    "q": {
+      "en": "Nitric acid has the formula?",
+      "as": "নাইট্ৰিক এচিডৰ সংকেত কি?"
+    },
+    "options": [
+      {
+        "en": "HCl",
+        "as": "HCl"
+      },
+      {
+        "en": "HNO3",
+        "as": "HNO3"
+      },
+      {
+        "en": "H3PO4",
+        "as": "H3PO4"
+      },
+      {
+        "en": "H2SO4",
+        "as": "H2SO4"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Nitric acid has the formula HNO3.",
+      "as": "নাইট্ৰিক এচিডৰ সংকেত HNO3।"
+    }
+  },
+  {
+    "id": "chemistry-101",
+    "q": {
+      "en": "Which acid is present in ant sting?",
+      "as": "পৰুৱাৰ দংষণত কোন এচিড থাকে?"
+    },
+    "options": [
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      },
+      {
+        "en": "Citric acid",
+        "as": "চাইট্ৰিক এচিড"
+      },
+      {
+        "en": "Formic acid",
+        "as": "ফৰ্মিক এচিড"
+      },
+      {
+        "en": "Lactic acid",
+        "as": "লেক্টিক এচিড"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Ant sting contains formic acid.",
+      "as": "পৰুৱাৰ দংষণত ফৰ্মিক এচিড থাকে।"
+    }
+  },
+  {
+    "id": "chemistry-102",
+    "q": {
+      "en": "Lactic acid is present in?",
+      "as": "লেক্টিক এচিড ক’ত পোৱা যায়?"
+    },
+    "options": [
+      {
+        "en": "Lemon",
+        "as": "নেমু"
+      },
+      {
+        "en": "Vinegar",
+        "as": "ভিনেগাৰ"
+      },
+      {
+        "en": "Tamarind",
+        "as": "তেতেলী"
+      },
+      {
+        "en": "Sour milk / curd",
+        "as": "টেঙা গাখীৰ / দৈ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Lactic acid is present in sour milk and curd.",
+      "as": "লেক্টিক এচিড টেঙা গাখীৰ আৰু দৈত পোৱা যায়।"
+    }
+  },
+  {
+    "id": "chemistry-103",
+    "q": {
+      "en": "Tamarind contains?",
+      "as": "তেতেলীত কি থাকে?"
+    },
+    "options": [
+      {
+        "en": "Tartaric acid",
+        "as": "টাৰ্টাৰিক এচিড"
+      },
+      {
+        "en": "Acetic acid",
+        "as": "এচিটিক এচিড"
+      },
+      {
+        "en": "Formic acid",
+        "as": "ফৰ্মিক এচিড"
+      },
+      {
+        "en": "Hydrochloric acid",
+        "as": "হাইড্ৰক্লৰিক এচিড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tamarind contains tartaric acid.",
+      "as": "তেতেলীত টাৰ্টাৰিক এচিড থাকে।"
+    }
+  }
+]

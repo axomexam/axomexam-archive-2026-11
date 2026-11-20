@@ -1,0 +1,482 @@
+[
+  {
+    "id": "verbal-reasoning-002",
+    "q": {
+      "en": "Find the odd one: 16, 25, 36, 48, 49",
+      "as": "বেলেগটো বাছক: ১৬, ২৫, ৩৬, ৪৮, ৪৯"
+    },
+    "options": [
+      {
+        "en": "48",
+        "as": "৪৮"
+      },
+      {
+        "en": "16",
+        "as": "১৬"
+      },
+      {
+        "en": "25",
+        "as": "২৫"
+      },
+      {
+        "en": "49",
+        "as": "৪৯"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "16, 25, 36 and 49 are perfect squares (4 squared, 5 squared, 6 squared, 7 squared), while 48 is not a perfect square. Hence 48 is the odd one.",
+      "as": "১৬, ২৫, ৩৬ আৰু ৪৯ পূৰ্ণবৰ্গ (৪², ৫², ৬², ৭²), কিন্তু ৪৮ পূৰ্ণবৰ্গ নহয়। সেয়ে ৪৮ বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-006",
+    "q": {
+      "en": "Find the odd one: Car, Bus, Train, Aeroplane",
+      "as": "বেলেগটো বাছক: গাড়ী, বাছ, ৰেল, বিমান"
+    },
+    "options": [
+      {
+        "en": "Car",
+        "as": "গাড়ী"
+      },
+      {
+        "en": "Aeroplane",
+        "as": "বিমান"
+      },
+      {
+        "en": "Bus",
+        "as": "বাছ"
+      },
+      {
+        "en": "Train",
+        "as": "ৰেল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Car, bus and train run on land, whereas an aeroplane flies in the air. Hence Aeroplane is the odd one.",
+      "as": "গাড়ী, বাছ আৰু ৰেল স্থলপথে চলাচল কৰে, কিন্তু বিমান আকাশত উৰে। সেয়ে বিমান বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-011",
+    "q": {
+      "en": "Find the odd one: Violin, Guitar, Flute, Piano",
+      "as": "বেলেগটো বাছক: বেহেলা, গিটাৰ, বাঁহী, পিয়ান"
+    },
+    "options": [
+      {
+        "en": "Violin",
+        "as": "বেহেলা"
+      },
+      {
+        "en": "Guitar",
+        "as": "গিটাৰ"
+      },
+      {
+        "en": "Flute",
+        "as": "বাঁহী"
+      },
+      {
+        "en": "Piano",
+        "as": "পিয়ান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Violin, guitar and piano produce sound through vibrating strings, while a flute is a wind instrument played by blowing air. Hence Flute is the odd one.",
+      "as": "বেহেলা, গিটাৰ আৰু পিয়ান তাৰৰ কম্পনৰ জৰিয়তে শব্দ উৎপন্ন কৰে, কিন্তু বাঁহী ফুঁ মাৰি বজোৱা বায়ু বাদ্যযন্ত্ৰ। সেয়ে বাঁহী বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-016",
+    "q": {
+      "en": "Find the odd one: Wheat, Rice, Mustard, Barley",
+      "as": "বেলেগটো বাছক: ঘেঁহু, চাউল, সৰিয়হ, যৱ"
+    },
+    "options": [
+      {
+        "en": "Wheat",
+        "as": "ঘেঁহু"
+      },
+      {
+        "en": "Rice",
+        "as": "চাউল"
+      },
+      {
+        "en": "Barley",
+        "as": "যৱ"
+      },
+      {
+        "en": "Mustard",
+        "as": "সৰিয়হ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Wheat, rice and barley are cereal grains, whereas mustard is an oilseed crop. Hence Mustard is the odd one.",
+      "as": "ঘেঁহু, চাউল আৰু যৱ ধান্য শস্য, কিন্তু সৰিয়হ তেলবীজ শস্য। সেয়ে সৰিয়হ বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-021",
+    "q": {
+      "en": "Find the odd one: Dog, Cat, Goat, Crow",
+      "as": "বেলেগটো বাছক: কুকুৰ, মেকুৰী, ছাগলী, কাউৰী"
+    },
+    "options": [
+      {
+        "en": "Crow",
+        "as": "কাউৰী"
+      },
+      {
+        "en": "Dog",
+        "as": "কুকুৰ"
+      },
+      {
+        "en": "Cat",
+        "as": "মেকুৰী"
+      },
+      {
+        "en": "Goat",
+        "as": "ছাগলী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Crow is a bird, whereas dog, cat and goat are mammals. Hence Crow is the odd one out.",
+      "as": "কাউৰী এটা চৰাই, কিন্তু কুকুৰ, মেকুৰী আৰু ছাগলী স্তন্যপায়ী প্ৰাণী। সেয়ে কাউৰী বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-026",
+    "q": {
+      "en": "Find the odd one: 2, 3, 5, 7, 9, 11",
+      "as": "বেলেগটো বাছক: ২, ৩, ৫, ৭, ৯, ১১"
+    },
+    "options": [
+      {
+        "en": "9",
+        "as": "৯"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "11",
+        "as": "১১"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "2, 3, 5, 7 and 11 are prime numbers, but 9 is composite (9 = 3×3). Hence 9 is the odd one.",
+      "as": "২, ৩, ৫, ৭ আৰু ১১ মৌলিক সংখ্যা, কিন্তু ৯ যৌগিক (৯ = ৩×৩)। সেয়ে ৯ বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-031",
+    "q": {
+      "en": "Find the odd one: Hockey, Cricket, Chess, Football",
+      "as": "বেলেগটো বাছক: হকী, ক্ৰিকেট, দবা, ফুটবল"
+    },
+    "options": [
+      {
+        "en": "Hockey",
+        "as": "হকী"
+      },
+      {
+        "en": "Chess",
+        "as": "দবা"
+      },
+      {
+        "en": "Cricket",
+        "as": "ক্ৰিকেট"
+      },
+      {
+        "en": "Football",
+        "as": "ফুটবল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Hockey, cricket and football are outdoor games played with a ball, while chess is an indoor board game. Hence Chess is the odd one.",
+      "as": "হকী, ক্ৰিকেট আৰু ফুটবল বলৰে খেলা বাহিৰৰ খেল, কিন্তু দবা ঘৰৰ ভিতৰত খেলা ব'ৰ্ড গেম। সেয়ে দবা বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-036",
+    "q": {
+      "en": "Find the odd pair: Hot-Cold, Day-Night, Tall-Short, Black-Dark",
+      "as": "বেলেগ যোৰ: গৰম-ঠাণ্ডা, দিন-ৰাতি, ওখ-চুটি, ক'লা-আন্ধাৰ"
+    },
+    "options": [
+      {
+        "en": "Hot-Cold",
+        "as": "গৰম-ঠাণ্ডা"
+      },
+      {
+        "en": "Day-Night",
+        "as": "দিন-ৰাতি"
+      },
+      {
+        "en": "Black-Dark",
+        "as": "ক'লা-আন্ধাৰ"
+      },
+      {
+        "en": "Tall-Short",
+        "as": "ওখ-চুটি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Hot-Cold, Day-Night and Tall-Short are pairs of opposites, whereas Black and Dark are related in meaning but not opposites. Hence Black-Dark is the odd pair.",
+      "as": "গৰম-ঠাণ্ডা, দিন-ৰাতি আৰু ওখ-চুটি পৰস্পৰ বিপৰীত শব্দ, কিন্তু ক'লা আৰু আন্ধাৰ অৰ্থত সম্পৰ্কিত, বিপৰীত নহয়। সেয়ে ক'লা-আন্ধাৰ বেলেগ যোৰ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-041",
+    "q": {
+      "en": "Find the odd one: Oxygen, Hydrogen, Nitrogen, Water",
+      "as": "বেলেগটো বাছক: অক্সিজেন, হাইড্ৰজেন, নাইট্ৰজেন, পানী"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Oxygen, hydrogen and nitrogen are chemical elements, while water is a compound (H₂O). Hence Water is the odd one.",
+      "as": "অক্সিজেন, হাইড্ৰজেন আৰু নাইট্ৰজেন ৰাসায়নিক মৌল, কিন্তু পানী এটা যৌগ (H₂O)। সেয়ে পানী বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-046",
+    "q": {
+      "en": "Find the odd one: Table, Chair, Bed, Tree",
+      "as": "বেলেগটো বাছক: টেবুল, চকী, বিচনা, গছ"
+    },
+    "options": [
+      {
+        "en": "Tree",
+        "as": "গছ"
+      },
+      {
+        "en": "Table",
+        "as": "টেবুল"
+      },
+      {
+        "en": "Chair",
+        "as": "চকী"
+      },
+      {
+        "en": "Bed",
+        "as": "বিচনা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Table, chair and bed are all articles of furniture, while a tree is a plant. Hence Tree is the odd one.",
+      "as": "টেবুল, চকী আৰু বিচনা — এই তিনিওটো আচবাব (ফাৰ্নিচাৰ), কিন্তু গছ এজোপা উদ্ভিদ। সেয়ে গছ বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-051",
+    "q": {
+      "en": "Find the odd one: 121, 144, 169, 180, 196",
+      "as": "বেলেগটো বাছক: ১২১, ১৪৪, ১৬৯, ১৮০, ১৯৬"
+    },
+    "options": [
+      {
+        "en": "180",
+        "as": "১৮০"
+      },
+      {
+        "en": "121",
+        "as": "১২১"
+      },
+      {
+        "en": "144",
+        "as": "১৪৪"
+      },
+      {
+        "en": "196",
+        "as": "১৯৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "121, 144, 169 and 196 are perfect squares (11², 12², 13², 14²), whereas 180 is not a perfect square. Hence 180 is the odd one.",
+      "as": "১২১, ১৪৪, ১৬৯, ১৯৬ ক্ৰমে ১১², ১২², ১৩², ১৪² — পূৰ্ণ বৰ্গ; কিন্তু ১৮০ পূৰ্ণ বৰ্গ নহয়। সেয়ে ১৮০ বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-056",
+    "q": {
+      "en": "Find the odd one: Gold, Silver, Bronze, Cotton",
+      "as": "বেলেগটো বাছক: সোণ, ৰূপ, ব্ৰঞ্জ, কপাহ"
+    },
+    "options": [
+      {
+        "en": "Gold",
+        "as": "সোণ"
+      },
+      {
+        "en": "Cotton",
+        "as": "কপাহ"
+      },
+      {
+        "en": "Silver",
+        "as": "ৰূপ"
+      },
+      {
+        "en": "Bronze",
+        "as": "ব্ৰঞ্জ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Gold, silver and bronze are metals, whereas cotton is a plant fibre. Hence Cotton is the odd one.",
+      "as": "সোণ, ৰূপ আৰু ব্ৰঞ্জ ধাতু, কিন্তু কপাহ উদ্ভিদৰ পৰা পোৱা আঁহ। সেয়ে কপাহ বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-061",
+    "q": {
+      "en": "Find the odd pair: India-Delhi, Assam-Dispur, Bihar-Patna, Punjab-Mumbai",
+      "as": "বেলেগ যোৰ: ভাৰত-দিল্লী, অসম-দিছপুৰ, বিহাৰ-পাটনা, পঞ্জাব-মুম্বাই"
+    },
+    "options": [
+      {
+        "en": "India-Delhi",
+        "as": "ভাৰত-দিল্লী"
+      },
+      {
+        "en": "Assam-Dispur",
+        "as": "অসম-দিছপুৰ"
+      },
+      {
+        "en": "Punjab-Mumbai",
+        "as": "পঞ্জাব-মুম্বাই"
+      },
+      {
+        "en": "Bihar-Patna",
+        "as": "বিহাৰ-পাটনা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "In each pair the second item is the capital of the first; Mumbai is not the capital of Punjab (Chandigarh is). Hence Punjab-Mumbai is the odd pair.",
+      "as": "প্ৰতিটো যোৰত দ্বিতীয়টো প্ৰথমটোৰ ৰাজধানী; মুম্বাই পঞ্জাবৰ ৰাজধানী নহয় (ৰাজধানী চণ্ডীগড়)। সেয়ে পঞ্জাব-মুম্বাই বেলেগ যোৰ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-066",
+    "q": {
+      "en": "Find the odd one: Circle, Sphere, Cylinder, Square",
+      "as": "বেলেগটো বাছক: বৃত্ত, গোলক, চিলিণ্ডাৰ, বৰ্গ"
+    },
+    "options": [
+      {
+        "en": "Circle",
+        "as": "বৃত্ত"
+      },
+      {
+        "en": "Sphere",
+        "as": "গোলক"
+      },
+      {
+        "en": "Cylinder",
+        "as": "চিলিণ্ডাৰ"
+      },
+      {
+        "en": "Square",
+        "as": "বৰ্গ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Circle, sphere and cylinder all have curved or round boundaries, whereas a square is bounded by straight lines. Hence Square is the odd one.",
+      "as": "বৃত্ত, গোলক আৰু চিলিণ্ডাৰৰ পৃষ্ঠ বা পৰিধি বক্ৰ/ঘূৰণীয়া, কিন্তু বৰ্গ সৰল ৰেখাৰে গঠিত। সেয়ে বৰ্গ বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-070",
+    "q": {
+      "en": "Find the odd one out: 4, 9, 16, 25, 30",
+      "as": "বেলেগটো বাছক: ৪, ৯, ১৬, ২৫, ৩০"
+    },
+    "options": [
+      {
+        "en": "30",
+        "as": "৩০"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "16",
+        "as": "১৬"
+      },
+      {
+        "en": "25",
+        "as": "২৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "4, 9, 16 and 25 are perfect squares, while 30 is not a perfect square, so 30 is the odd one.",
+      "as": "৪, ৯, ১৬ আৰু ২৫ পূৰ্ণবৰ্গ, কিন্তু ৩০ পূৰ্ণবৰ্গ নহয়; সেয়ে ৩০ বেলেগ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-078",
+    "q": {
+      "en": "Find the odd one: Dog, Cat, Goat, Lion",
+      "as": "বেলেগটো বাছক: কুকুৰ, মেকুৰী, ছাগলী, সিংহ"
+    },
+    "options": [
+      {
+        "en": "Dog",
+        "as": "কুকুৰ"
+      },
+      {
+        "en": "Cat",
+        "as": "মেকুৰী"
+      },
+      {
+        "en": "Goat",
+        "as": "ছাগলী"
+      },
+      {
+        "en": "Lion",
+        "as": "সিংহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Dog, cat and goat are domesticated animals, while a lion is a wild animal, so Lion is the odd one.",
+      "as": "কুকুৰ, মেকুৰী আৰু ছাগলী পোহনীয়া জন্তু, কিন্তু সিংহ বন্য জন্তু; সেয়ে সিংহ বেলেগ।"
+    }
+  }
+]

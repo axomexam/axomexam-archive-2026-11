@@ -1,0 +1,92 @@
+[
+  {
+    "id": "verbal-reasoning-019",
+    "q": {
+      "en": "A clock shows 3:00. The angle between hour and minute hands is?",
+      "as": "ঘড়ীত ৩:০০। ঘণ্টা আৰু মিনিটৰ কাঁটাৰ মাজৰ কোণ কিমান?"
+    },
+    "options": [
+      {
+        "en": "60°",
+        "as": "৬০°"
+      },
+      {
+        "en": "120°",
+        "as": "১২০°"
+      },
+      {
+        "en": "180°",
+        "as": "১৮০°"
+      },
+      {
+        "en": "90°",
+        "as": "৯০°"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "At 3:00 the minute hand points at 12 and the hour hand at 3, which are 3 divisions apart; each division is 30 degrees, so the angle is 3x30 = 90 degrees.",
+      "as": "৩:০০ বজাত মিনিটৰ কাঁটা ১২-ত আৰু ঘণ্টাৰ কাঁটা ৩-ত থাকে, দুয়োৰে মাজত ৩ ঘৰ; প্ৰতি ঘৰ ৩০°, সেয়ে কোণ = ৩×৩০° = ৯০°।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-028",
+    "q": {
+      "en": "If today is Wednesday, then day after tomorrow is?",
+      "as": "যদি আজি বুধবাৰ, তেন্তে পৰহু কোনবাৰ?"
+    },
+    "options": [
+      {
+        "en": "Thursday",
+        "as": "বৃহস্পতিবাৰ"
+      },
+      {
+        "en": "Friday",
+        "as": "শুক্ৰবাৰ"
+      },
+      {
+        "en": "Saturday",
+        "as": "শনিবাৰ"
+      },
+      {
+        "en": "Sunday",
+        "as": "দেওবাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "If today is Wednesday, tomorrow is Thursday and the day after tomorrow is Friday.",
+      "as": "আজি বুধবাৰ হ'লে কাইলৈ বৃহস্পতিবাৰ আৰু পৰহু শুক্ৰবাৰ হয়।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-076",
+    "q": {
+      "en": "If today is Tuesday, what day will it be after 45 days?",
+      "as": "যদি আজি মঙ্গলবাৰ, তেন্তে ৪৫ দিনৰ পিছত কোনবাৰ হ'ব?"
+    },
+    "options": [
+      {
+        "en": "Wednesday",
+        "as": "বুধবাৰ"
+      },
+      {
+        "en": "Thursday",
+        "as": "বৃহস্পতিবাৰ"
+      },
+      {
+        "en": "Friday",
+        "as": "শুক্ৰবাৰ"
+      },
+      {
+        "en": "Saturday",
+        "as": "শনিবাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "45 divided by 7 leaves a remainder of 3, so the day moves three days ahead of Tuesday, which is Friday.",
+      "as": "৪৫-ক ৭-ৰে হৰণ কৰিলে ভাগশেষ ৩ থাকে; মঙ্গলবাৰৰ পৰা তিনি দিন আগবঢ়ালে শুক্ৰবাৰ হয়।"
+    }
+  }
+]

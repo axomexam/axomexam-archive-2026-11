@@ -1,0 +1,62 @@
+[
+  {
+    "id": "grammar-059",
+    "q": {
+      "en": "The comparative degree of 'little' is:",
+      "as": "'little' ৰ তুলনামূলক ডিগ্ৰী কি?"
+    },
+    "options": [
+      {
+        "en": "littler",
+        "as": "littler"
+      },
+      {
+        "en": "lesser",
+        "as": "lesser"
+      },
+      {
+        "en": "least",
+        "as": "least"
+      },
+      {
+        "en": "less",
+        "as": "less"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The comparative degree of 'little' is 'less'.",
+      "as": "'little' ৰ তুলনামূলক ডিগ্ৰী হৈছে 'less'।"
+    }
+  },
+  {
+    "id": "grammar-060",
+    "q": {
+      "en": "The superlative degree of 'bad' is:",
+      "as": "'bad' ৰ সৰ্বোচ্চ ডিগ্ৰী কি?"
+    },
+    "options": [
+      {
+        "en": "badder",
+        "as": "badder"
+      },
+      {
+        "en": "worse",
+        "as": "worse"
+      },
+      {
+        "en": "worst",
+        "as": "worst"
+      },
+      {
+        "en": "most bad",
+        "as": "most bad"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The superlative degree of 'bad' is 'worst'.",
+      "as": "'bad' ৰ সৰ্বোচ্চ ডিগ্ৰী হৈছে 'worst'।"
+    }
+  }
+]

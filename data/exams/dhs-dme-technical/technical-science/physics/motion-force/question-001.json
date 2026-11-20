@@ -1,0 +1,482 @@
+[
+  {
+    "id": "physics-001",
+    "q": {
+      "en": "What is the SI unit of force?",
+      "as": "বলৰ SI একক কি?"
+    },
+    "options": [
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      },
+      {
+        "en": "Joule",
+        "as": "জুল"
+      },
+      {
+        "en": "Watt",
+        "as": "ৱাট"
+      },
+      {
+        "en": "Pascal",
+        "as": "পাস্কেল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The SI unit of force is the newton (N). From Newton's second law, F = ma, so 1 N = 1 kg·m/s².",
+      "as": "বলৰ SI একক নিউটন (N)। নিউটনৰ দ্বিতীয় সূত্ৰ F = ma অনুসৰি ১ নিউটন = ১ কি.গ্ৰা.·মি./ছে.²।"
+    }
+  },
+  {
+    "id": "physics-004",
+    "q": {
+      "en": "Newton's first law of motion is also known as?",
+      "as": "নিউটনৰ গতিৰ প্ৰথম সূত্ৰক আন কি নামেৰে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Law of inertia",
+        "as": "জড়তাৰ সূত্ৰ"
+      },
+      {
+        "en": "Law of momentum",
+        "as": "ভৰবেগৰ সূত্ৰ"
+      },
+      {
+        "en": "Law of gravitation",
+        "as": "মহাকৰ্ষণৰ সূত্ৰ"
+      },
+      {
+        "en": "Law of energy",
+        "as": "শক্তিৰ সূত্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Newton's first law states that a body remains at rest or in uniform motion unless acted on by a net external force; this property is inertia, so it is called the law of inertia.",
+      "as": "নিউটনৰ প্ৰথম সূত্ৰ অনুসৰি বাহ্যিক বল প্ৰয়োগ নহ'লে বস্তুৱে স্থিৰ অৱস্থা বা সৰলৰৈখিক একেৰাহে গতি বজাই ৰাখে; এই ধৰ্মই জড়তা, সেয়ে ইয়াক জড়তাৰ সূত্ৰ বোলে।"
+    }
+  },
+  {
+    "id": "physics-016",
+    "q": {
+      "en": "A freely falling body has which acceleration?",
+      "as": "মুক্ত পতনশীল বস্তুৰ ত্বাৰণ কি?"
+    },
+    "options": [
+      {
+        "en": "Zero",
+        "as": "শূন্য"
+      },
+      {
+        "en": "g (acceleration due to gravity)",
+        "as": "g (অভিকৰ্ষজ ত্বাৰণ)"
+      },
+      {
+        "en": "Increasing mass",
+        "as": "বৃদ্ধি পোৱা ভৰ"
+      },
+      {
+        "en": "Constant velocity always",
+        "as": "সদায় স্থিৰ বেগ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Ignoring air resistance, a freely falling body is acted upon only by gravity, so its acceleration is g, the acceleration due to gravity.",
+      "as": "বায়ুৰ ৰোধ উপেক্ষা কৰিলে মুক্ত পতনশীল বস্তুৰ ওপৰত কেৱল মাধ্যাকৰ্ষণ বল ক্ৰিয়া কৰে, সেয়ে ইয়াৰ ত্বৰণ g (অভিকৰ্ষজ ত্বৰণ)।"
+    }
+  },
+  {
+    "id": "physics-048",
+    "q": {
+      "en": "Newton's second law of motion is expressed as?",
+      "as": "নিউটনৰ গতিৰ দ্বিতীয় সূত্ৰ কেনেকৈ প্ৰকাশ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "F = ma",
+        "as": "F = ma"
+      },
+      {
+        "en": "F = mv",
+        "as": "F = mv"
+      },
+      {
+        "en": "F = m/a",
+        "as": "F = m/a"
+      },
+      {
+        "en": "F = a/m",
+        "as": "F = a/m"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Newton's second law states that the net force on a body equals the rate of change of its momentum, giving F = ma for constant mass. Hence the correct expression is F = ma.",
+      "as": "নিউটনৰ দ্বিতীয় সূত্ৰ অনুসৰি বস্তু এটাৰ ওপৰত প্ৰযুক্ত মুঠ বল তাৰ ভৰবেগৰ পৰিৱৰ্তনৰ হাৰৰ সমান, স্থিৰ ভৰৰ বাবে F = ma। সেয়ে শুদ্ধ ৰাশি F = ma।"
+    }
+  },
+  {
+    "id": "physics-049",
+    "q": {
+      "en": "The product of mass and velocity is called?",
+      "as": "ভৰ আৰু বেগৰ গুণফলক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Force",
+        "as": "বল"
+      },
+      {
+        "en": "Momentum",
+        "as": "ভৰবেগ"
+      },
+      {
+        "en": "Power",
+        "as": "ক্ষমতা"
+      },
+      {
+        "en": "Pressure",
+        "as": "চাপ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Momentum is defined as the product of mass and velocity (p = mv), and it is a vector quantity. Therefore the product of mass and velocity is called momentum.",
+      "as": "ভৰবেগ হ'ল ভৰ আৰু বেগৰ গুণফল (p = mv), ই এটা ভেক্টৰ ৰাশি। সেয়ে ভৰ আৰু বেগৰ গুণফলক ভৰবেগ বোলে।"
+    }
+  },
+  {
+    "id": "physics-064",
+    "q": {
+      "en": "Newton's third law of motion states that?",
+      "as": "নিউটনৰ গতিৰ তৃতীয় সূত্ৰই কি কয়?"
+    },
+    "options": [
+      {
+        "en": "F = ma",
+        "as": "F = ma"
+      },
+      {
+        "en": "Every action has an equal and opposite reaction",
+        "as": "প্ৰতিটো ক্ৰিয়াৰ সমান আৰু বিপৰীত প্ৰতিক্ৰিয়া থাকে"
+      },
+      {
+        "en": "Energy is conserved",
+        "as": "শক্তি সংৰক্ষিত"
+      },
+      {
+        "en": "Mass is conserved",
+        "as": "ভৰ সংৰক্ষিত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Newton's third law states that for every action there is an equal and opposite reaction, acting on two different bodies simultaneously.",
+      "as": "নিউটনৰ তৃতীয় সূত্ৰই কয় যে প্ৰতিটো ক্ৰিয়াৰ সমান আৰু বিপৰীত প্ৰতিক্ৰিয়া থাকে, যি দুটা পৃথক বস্তুৰ ওপৰত একে সময়তে ক্ৰিয়া কৰে।"
+    }
+  },
+  {
+    "id": "physics-073",
+    "q": {
+      "en": "Work done is zero when the angle between force and displacement is?",
+      "as": "বল আৰু সরণৰ মাজৰ কোণ কিমান হ’লে কাম শূন্য হয়?"
+    },
+    "options": [
+      {
+        "en": "0°",
+        "as": "০°"
+      },
+      {
+        "en": "90°",
+        "as": "৯০°"
+      },
+      {
+        "en": "180°",
+        "as": "১৮০°"
+      },
+      {
+        "en": "45°",
+        "as": "৪৫°"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Work done W = F·s·cosθ. When the force is perpendicular to the displacement (θ = 90°), cos90° = 0 and hence the work done is zero.",
+      "as": "কাম W = F·s·cosθ। বল আৰু সৰণ পৰস্পৰ লম্ব হ'লে (θ = ৯০°), cos৯০° = ০, সেয়ে কাম শূন্য হয়।"
+    }
+  },
+  {
+    "id": "physics-099",
+    "q": {
+      "en": "The time period of a simple pendulum depends on?",
+      "as": "সৰল দোলকৰ দোলনকাল কিৰ ওপৰত নিৰ্ভৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Mass of bob only",
+        "as": "কেৱল ববৰ ভৰ"
+      },
+      {
+        "en": "Amplitude only",
+        "as": "কেৱল বিস্তাৰ"
+      },
+      {
+        "en": "Length and g",
+        "as": "দৈৰ্ঘ্য আৰু g"
+      },
+      {
+        "en": "Colour of bob",
+        "as": "ববৰ ৰং"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The time period of a simple pendulum is T = 2π√(L/g), so it depends only on the length L and the acceleration due to gravity g; the mass of the bob and (for small oscillations) the amplitude do not affect it.",
+      "as": "সৰল দোলকৰ দোলনকাল T = 2π√(L/g); সেয়ে ই কেৱল দৈৰ্ঘ্য L আৰু মহাকৰ্ষণজনিত ত্বৰণ g-ৰ ওপৰত নিৰ্ভৰ কৰে। ববৰ ভৰ আৰু (সৰু বিস্তাৰৰ ক্ষেত্ৰত) বিস্তাৰে ইয়াক প্ৰভাৱিত নকৰে।"
+    }
+  },
+  {
+    "id": "physics-100",
+    "q": {
+      "en": "If the length of a simple pendulum is increased, its time period?",
+      "as": "সৰল দোলকৰ দৈৰ্ঘ্য বৃদ্ধি কৰিলে দোলনকাল কি হয়?"
+    },
+    "options": [
+      {
+        "en": "Decreases",
+        "as": "হ্ৰাস হয়"
+      },
+      {
+        "en": "Remains same",
+        "as": "একে থাকে"
+      },
+      {
+        "en": "Becomes zero",
+        "as": "শূন্য হয়"
+      },
+      {
+        "en": "Increases",
+        "as": "বৃদ্ধি হয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Since T = 2π√(L/g), the time period is directly proportional to the square root of the length (T ∝ √L). Increasing the length therefore increases the time period.",
+      "as": "যিহেতু T = 2π√(L/g), দোলনকাল দৈৰ্ঘ্যৰ বৰ্গমূলৰ সমানুপাতিক (T ∝ √L)। সেয়ে দৈৰ্ঘ্য বৃদ্ধি কৰিলে দোলনকাল বৃদ্ধি পায়।"
+    }
+  },
+  {
+    "id": "physics-117",
+    "q": {
+      "en": "Distance and displacement are equal when motion is?",
+      "as": "দূৰত্ব আৰু সরণ কেতিয়া সমান হয়?"
+    },
+    "options": [
+      {
+        "en": "Circular",
+        "as": "বৃত্তাকাৰ"
+      },
+      {
+        "en": "Along a straight line in one direction",
+        "as": "একে দিশত সৰলৰেখাত"
+      },
+      {
+        "en": "Random",
+        "as": "যদৃচ্ছ"
+      },
+      {
+        "en": "Oscillatory",
+        "as": "দোলনশীল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "For motion along a straight line in one direction, distance and displacement have the same magnitude, so they are equal.",
+      "as": "একে দিশত সৰলৰেখাত গতি কৰিলে দূৰত্ব আৰু সৰণৰ মান একে হয়, সেয়ে দুয়োটা সমান।"
+    }
+  },
+  {
+    "id": "physics-119",
+    "q": {
+      "en": "The slope of a velocity-time graph gives?",
+      "as": "বেগ-সময় গ্ৰাফৰ ঢালে কি দিয়ে?"
+    },
+    "options": [
+      {
+        "en": "Speed",
+        "as": "দ্ৰুতি"
+      },
+      {
+        "en": "Distance",
+        "as": "দূৰত্ব"
+      },
+      {
+        "en": "Mass",
+        "as": "ভৰ"
+      },
+      {
+        "en": "Acceleration",
+        "as": "ত্বাৰণ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The slope of a velocity-time graph gives acceleration, because slope = change in velocity / time.",
+      "as": "বেগ-সময় গ্ৰাফৰ ঢালে ত্বৰণ দিয়ে, কাৰণ ঢাল = বেগৰ পৰিবৰ্তন / সময়।"
+    }
+  },
+  {
+    "id": "physics-120",
+    "q": {
+      "en": "The area under a velocity-time graph represents?",
+      "as": "বেগ-সময় গ্ৰাফৰ তলৰ ক্ষেত্ৰফলে কি বুজায়?"
+    },
+    "options": [
+      {
+        "en": "Displacement",
+        "as": "সরণ"
+      },
+      {
+        "en": "Acceleration",
+        "as": "ত্বাৰণ"
+      },
+      {
+        "en": "Force",
+        "as": "বল"
+      },
+      {
+        "en": "Mass",
+        "as": "ভৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The area under a velocity-time graph equals velocity × time, which represents displacement.",
+      "as": "বেগ-সময় গ্ৰাফৰ তলৰ ক্ষেত্ৰফল = বেগ × সময়, যি সৰণ বুজায়।"
+    }
+  },
+  {
+    "id": "physics-136",
+    "q": {
+      "en": "Which force is responsible for falling of objects towards Earth?",
+      "as": "বস্তু পৃথিৱীৰ ফালে পৰাৰ কাৰণ কোন বল?"
+    },
+    "options": [
+      {
+        "en": "Magnetic force",
+        "as": "চুম্বকীয় বল"
+      },
+      {
+        "en": "Frictional force",
+        "as": "ঘৰ্ষণ বল"
+      },
+      {
+        "en": "Nuclear force",
+        "as": "নিউক্লীয় বল"
+      },
+      {
+        "en": "Gravitational force",
+        "as": "মহাকৰ্ষণ বল"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The gravitational force of the Earth attracts objects towards its centre, which causes them to fall. Hence 'Gravitational force' is correct.",
+      "as": "পৃথিৱীৰ মহাকৰ্ষণ বলে বস্তুবোৰক ইয়াৰ কেন্দ্ৰৰ ফালে আকৰ্ষণ কৰে, যাৰ ফলত বস্তু তললৈ পৰে। সেয়ে 'মহাকৰ্ষণ বল' শুদ্ধ।"
+    }
+  },
+  {
+    "id": "physics-137",
+    "q": {
+      "en": "Friction can be reduced by?",
+      "as": "ঘৰ্ষণ কিৰে কমাব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Using lubricants",
+        "as": "লুব্ৰিকেণ্ট ব্যৱহাৰ কৰি"
+      },
+      {
+        "en": "Making surfaces more rough",
+        "as": "পৃষ্ঠ অধিক খহটা কৰি"
+      },
+      {
+        "en": "Increasing load always",
+        "as": "সদায় ভাৰ বৃদ্ধি কৰি"
+      },
+      {
+        "en": "Removing wheels",
+        "as": "চকা আঁতৰাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lubricants form a thin layer between surfaces, reducing interlocking of irregularities and hence friction. Hence 'Using lubricants' is correct.",
+      "as": "লুব্ৰিকেণ্টে পৃষ্ঠৰ মাজত পাতল আৱৰণ সৃষ্টি কৰি অসমতাৰ অংগুৰি মিলন কমায় আৰু ঘৰ্ষণ হ্ৰাস কৰে। সেয়ে 'লুব্ৰিকেণ্ট ব্যৱহাৰ কৰি' শুদ্ধ।"
+    }
+  },
+  {
+    "id": "physics-138",
+    "q": {
+      "en": "Inertia of a body depends on its?",
+      "as": "বস্তুৰ জড়তা কিৰ ওপৰত নিৰ্ভৰ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Speed",
+        "as": "দ্ৰুতি"
+      },
+      {
+        "en": "Mass",
+        "as": "ভৰ"
+      },
+      {
+        "en": "Colour",
+        "as": "ৰং"
+      },
+      {
+        "en": "Temperature",
+        "as": "উষ্ণতা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Inertia is the inability of a body to change by itself its state of rest or uniform motion, and it is directly proportional to the mass of the body. Hence 'Mass' is correct.",
+      "as": "জড়তা হৈছে বস্তু এটাই নিজে নিজে নিজৰ বিশ্ৰাম বা সুষম গতিৰ অৱস্থা সলনি কৰিব নোৱাৰা ধৰ্ম, আৰু ই বস্তুৰ ভৰৰ সমানুপাতিক। সেয়ে 'ভৰ' শুদ্ধ।"
+    }
+  },
+  {
+    "id": "physics-139",
+    "q": {
+      "en": "The momentum of a body at rest is?",
+      "as": "বিশ্ৰামত থকা বস্তুৰ ভৰবেগ কিমান?"
+    },
+    "options": [
+      {
+        "en": "Maximum",
+        "as": "সৰ্বাধিক"
+      },
+      {
+        "en": "Infinite",
+        "as": "অসীম"
+      },
+      {
+        "en": "Zero",
+        "as": "শূন্য"
+      },
+      {
+        "en": "Equal to mass",
+        "as": "ভৰৰ সমান"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Momentum p = mv; for a body at rest the velocity v = 0, so its momentum is zero. Hence 'Zero' is correct.",
+      "as": "ভৰবেগ p = mv; বিশ্ৰামত থকা বস্তুৰ বেগ v = ০, সেয়ে ইয়াৰ ভৰবেগ শূন্য হয়। সেয়ে 'শূন্য' শুদ্ধ।"
+    }
+  }
+]

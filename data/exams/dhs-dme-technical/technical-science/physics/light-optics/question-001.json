@@ -1,0 +1,392 @@
+[
+  {
+    "id": "physics-003",
+    "q": {
+      "en": "Speed of light in vacuum is approximately?",
+      "as": "শূন্যত পোহৰৰ বেগ প্ৰায় কিমান?"
+    },
+    "options": [
+      {
+        "en": "3 × 10^6 m/s",
+        "as": "৩ × ১০^৬ মি/ছে"
+      },
+      {
+        "en": "3 × 10^5 m/s",
+        "as": "৩ × ১০^৫ মি/ছে"
+      },
+      {
+        "en": "3 × 10^8 m/s",
+        "as": "৩ × ১০^৮ মি/ছে"
+      },
+      {
+        "en": "3 × 10^3 m/s",
+        "as": "৩ × ১০^৩ মি/ছে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Light travels in vacuum at approximately 3 × 10^8 m/s, a fundamental constant denoted by c.",
+      "as": "শূন্যত পোহৰৰ বেগ প্ৰায় ৩ × ১০^৮ মি/ছে.; ইয়াক c ৰে সূচোৱা হয়।"
+    }
+  },
+  {
+    "id": "physics-011",
+    "q": {
+      "en": "The phenomenon of splitting of white light into seven colours is called?",
+      "as": "বগা পোহৰ সাতোটা ৰঙত বিভক্ত হোৱা পৰিঘটনাক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Dispersion",
+        "as": "বৰ্ণবিক্ষেপণ"
+      },
+      {
+        "en": "Reflection",
+        "as": "প্ৰতিফলন"
+      },
+      {
+        "en": "Diffraction",
+        "as": "অপৱৰ্তন"
+      },
+      {
+        "en": "Interference",
+        "as": "ব্যতিচাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The splitting of white light into its seven constituent colours when passing through a prism is called dispersion.",
+      "as": "প্ৰিজমৰ মাজেৰে যাওঁতে বগা পোহৰ সাতোটা উপাদান ৰঙত বিভক্ত হোৱা পৰিঘটনাক বৰ্ণবিক্ষেপণ বোলে।"
+    }
+  },
+  {
+    "id": "physics-012",
+    "q": {
+      "en": "The primary colours of light are?",
+      "as": "পোহৰৰ মুখ্য ৰং কেইটা কি?"
+    },
+    "options": [
+      {
+        "en": "Red, yellow, blue",
+        "as": "ৰঙা, হালধীয়া, নীলা"
+      },
+      {
+        "en": "Red, green, blue",
+        "as": "ৰঙা, সেউজীয়া, নীলা"
+      },
+      {
+        "en": "Cyan, magenta, yellow",
+        "as": "চিয়ান, মেজেণ্টা, হালধীয়া"
+      },
+      {
+        "en": "Red, green, yellow",
+        "as": "ৰঙা, সেউজীয়া, হালধীয়া"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The primary additive colours of light are red, green and blue; their combination produces white light.",
+      "as": "পোহৰৰ মুখ্য যোজক ৰং হৈছে ৰঙা, সেউজীয়া আৰু নীলা; এই তিনিওটা মিলি বগা পোহৰ সৃষ্টি কৰে।"
+    }
+  },
+  {
+    "id": "physics-041",
+    "q": {
+      "en": "Lightning is a large-scale example of?",
+      "as": "বিজুলী কিৰ ডাঙৰ পৰিসৰৰ উদাহৰণ?"
+    },
+    "options": [
+      {
+        "en": "Sound",
+        "as": "শব্দ"
+      },
+      {
+        "en": "Current electricity",
+        "as": "প্ৰৱাহী বিদ্যুৎ"
+      },
+      {
+        "en": "Static electricity",
+        "as": "স্থিতি বিদ্যুৎ"
+      },
+      {
+        "en": "Magnetism",
+        "as": "চুম্বকত্ব"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Lightning is caused by the discharge of static electric charge built up in clouds.",
+      "as": "ডাৱৰত জমা হোৱা স্থিতি বৈদ্যুতিক আধানৰ ক্ষৰণৰ বাবে বিজুলী হয়।"
+    }
+  },
+  {
+    "id": "physics-055",
+    "q": {
+      "en": "A concave lens is also known as?",
+      "as": "অৱতল লেন্সক আন কি নামেৰে জনা যায়?"
+    },
+    "options": [
+      {
+        "en": "Converging lens",
+        "as": "অভিসৰী লেন্স"
+      },
+      {
+        "en": "Plane lens",
+        "as": "সমতল লেন্স"
+      },
+      {
+        "en": "Cylindrical lens",
+        "as": "চিলিণ্ড্ৰীয় লেন্স"
+      },
+      {
+        "en": "Diverging lens",
+        "as": "অপসৰী লেন্স"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A concave lens is thinner at the centre and diverges parallel rays of light, so it is called a diverging lens. A convex lens, by contrast, is converging.",
+      "as": "অৱতল লেন্স কেন্দ্ৰত পাতল আৰু সমান্তৰাল পোহৰ ৰশ্মিক অপসৰণ কৰে, সেয়ে ইয়াক অপসৰী লেন্স বোলে। ইয়াৰ বিপৰীতে উত্তল লেন্স অভিসৰী।"
+    }
+  },
+  {
+    "id": "physics-056",
+    "q": {
+      "en": "The image formed by a plane mirror is?",
+      "as": "সমতল দৰ্পণত গঠিত প্ৰতিবিম্ব কেনেকুৱা?"
+    },
+    "options": [
+      {
+        "en": "Virtual and erect",
+        "as": "অবাস্তৱ আৰু সৰল"
+      },
+      {
+        "en": "Real and inverted",
+        "as": "বাস্তৱ আৰু ওলোটা"
+      },
+      {
+        "en": "Real and erect",
+        "as": "বাস্তৱ আৰু সৰল"
+      },
+      {
+        "en": "Virtual and inverted",
+        "as": "অবাস্তৱ আৰু ওলোটা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A plane mirror always forms a virtual, erect image of the same size as the object, located as far behind the mirror as the object is in front.",
+      "as": "সমতল দৰ্পণে সদায় বস্তুৰ সমান আকাৰৰ এক অবাস্তৱ আৰু সৰল প্ৰতিবিম্ব গঠন কৰে, যি দৰ্পণৰ পিছফালে বস্তুৰ সমান দূৰত্বত থাকে।"
+    }
+  },
+  {
+    "id": "physics-086",
+    "q": {
+      "en": "A rainbow is formed due to?",
+      "as": "ৰামধেনু কিৰ বাবে গঠিত হয়?"
+    },
+    "options": [
+      {
+        "en": "Only reflection of light",
+        "as": "কেৱল পোহৰৰ প্ৰতিফলন"
+      },
+      {
+        "en": "Only diffraction",
+        "as": "কেৱল অপৱৰ্তন"
+      },
+      {
+        "en": "Dispersion, refraction and reflection of light",
+        "as": "পোহৰৰ বৰ্ণবিক্ষেপণ, প্ৰতিসৰণ আৰু প্ৰতিফলন"
+      },
+      {
+        "en": "Interference of sound",
+        "as": "শব্দৰ ব্যতিচাৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A rainbow is formed when sunlight undergoes refraction and dispersion inside water droplets and then total internal reflection, followed by refraction on exit; thus dispersion, refraction and reflection all occur.",
+      "as": "ৰামধেনু সৃষ্টি হয় যেতিয়া সূৰ্যৰ পোহৰ পানীৰ টোপালত প্ৰৱেশ কৰি প্ৰতিসৰণ আৰু বৰ্ণবিক্ষেপণ হয়, তাৰপিছত ভিতৰত পূৰ্ণ অভ্যন্তৰীণ প্ৰতিফলন আৰু নিৰ্গমনত পুনৰ প্ৰতিসৰণ ঘটে; সেয়ে বৰ্ণবিক্ষেপণ, প্ৰতিসৰণ আৰু প্ৰতিফলন তিনিওটা জড়িত।"
+    }
+  },
+  {
+    "id": "physics-087",
+    "q": {
+      "en": "Myopia (short-sightedness) is corrected by using?",
+      "as": "মায়োপিয়া (চমু দৃষ্টি) শুধৰাবলৈ কি ব্যৱহাৰ কৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Convex lens",
+        "as": "উত্তল লেন্স"
+      },
+      {
+        "en": "Cylindrical lens only",
+        "as": "কেৱল চিলিণ্ড্ৰীয় লেন্স"
+      },
+      {
+        "en": "Plane glass",
+        "as": "সমতল কাচ"
+      },
+      {
+        "en": "Concave lens",
+        "as": "অৱতল লেন্স"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In myopia (short-sightedness) the image forms in front of the retina, so the eye cannot see distant objects clearly; it is corrected using a concave (diverging) lens.",
+      "as": "মায়োপিয়াত প্ৰতিবিম্ব ৰেটিনাৰ আগত গঠিত হয়, সেয়ে দূৰৰ বস্তু স্পষ্ট দেখা নাযায়; অৱতল (অপসাৰক) লেন্সেৰে ইয়াক শুধৰোৱা হয়।"
+    }
+  },
+  {
+    "id": "physics-088",
+    "q": {
+      "en": "Hypermetropia (long-sightedness) is corrected by?",
+      "as": "হাইপাৰমেট্ৰপিয়া (দীৰ্ঘ দৃষ্টি) কিৰে শুধৰোৱা হয়?"
+    },
+    "options": [
+      {
+        "en": "Convex lens",
+        "as": "উত্তল লেন্স"
+      },
+      {
+        "en": "Concave lens",
+        "as": "অৱতল লেন্স"
+      },
+      {
+        "en": "Convex mirror",
+        "as": "উত্তল দৰ্পণ"
+      },
+      {
+        "en": "Concave mirror",
+        "as": "অৱতল দৰ্পণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In hypermetropia (long-sightedness) the image forms behind the retina; it is corrected by a convex (converging) lens that brings the image forward onto the retina.",
+      "as": "হাইপাৰমেট্ৰপিয়াত প্ৰতিবিম্ব ৰেটিনাৰ পিছত গঠিত হয়; উত্তল (অভিসাৰক) লেন্সেৰে প্ৰতিবিম্ব আগলৈ আনি ইয়াক শুধৰোৱা হয়।"
+    }
+  },
+  {
+    "id": "physics-089",
+    "q": {
+      "en": "The power of a lens is measured in?",
+      "as": "লেন্সৰ ক্ষমতা কি এককত জোখা হয়?"
+    },
+    "options": [
+      {
+        "en": "Watt",
+        "as": "ৱাট"
+      },
+      {
+        "en": "Dioptre",
+        "as": "ডাইঅপ্টৰ"
+      },
+      {
+        "en": "Hertz",
+        "as": "হাৰ্টজ"
+      },
+      {
+        "en": "Lux",
+        "as": "লাক্স"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The power of a lens is the reciprocal of its focal length in metres, P = 1/f, and its SI unit is the dioptre (D).",
+      "as": "লেন্সৰ ক্ষমতা ইয়াৰ ফ'কাছ দৈৰ্ঘ্যৰ (মিটাৰত) প্ৰতিক্ৰম, P = 1/f; ইয়াৰ SI একক ডাইঅপ্টৰ (D)।"
+    }
+  },
+  {
+    "id": "physics-103",
+    "q": {
+      "en": "Light year is a unit of?",
+      "as": "আলোকবৰ্ষ কিৰ একক?"
+    },
+    "options": [
+      {
+        "en": "Time",
+        "as": "সময়"
+      },
+      {
+        "en": "Speed",
+        "as": "বেগ"
+      },
+      {
+        "en": "Distance",
+        "as": "দূৰত্ব"
+      },
+      {
+        "en": "Mass",
+        "as": "ভৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A light year is the distance travelled by light in vacuum in one year, about 9.46 × 10^15 metres, so it is a unit of distance.",
+      "as": "আলোকবৰ্ষ হৈছে শূন্যত এক বছৰত পোহৰে অতিক্ৰম কৰা দূৰত্ব, প্ৰায় ৯.৪৬ × ১০^১৫ মিটাৰ; সেয়ে ই দূৰত্বৰ একক।"
+    }
+  },
+  {
+    "id": "physics-114",
+    "q": {
+      "en": "Total internal reflection occurs when light travels from?",
+      "as": "সম্পূৰ্ণ আভ্যন্তৰীণ প্ৰতিফলন কেতিয়া হয়?"
+    },
+    "options": [
+      {
+        "en": "Rarer to denser medium",
+        "as": "পাতলৰ পৰা ঘন মাধ্যমলৈ"
+      },
+      {
+        "en": "Denser to rarer medium beyond critical angle",
+        "as": "ঘনৰ পৰা পাতল মাধ্যমলৈ ক্ৰিটিকেল কোণৰ বাহিৰত"
+      },
+      {
+        "en": "Vacuum to vacuum",
+        "as": "শূন্যৰ পৰা শূন্যলৈ"
+      },
+      {
+        "en": "Only in metals",
+        "as": "কেৱল ধাতুত"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Total internal reflection occurs when light travels from a denser medium to a rarer medium and the angle of incidence exceeds the critical angle.",
+      "as": "সম্পূৰ্ণ আভ্যন্তৰীণ প্ৰতিফলন তেতিয়া হয় যেতিয়া পোহৰ ঘন মাধ্যমৰ পৰা পাতল মাধ্যমলৈ যায় আৰু আপতন কোণে ক্ৰিটিকেল কোণ অতিক্ৰম কৰে।"
+    }
+  },
+  {
+    "id": "physics-115",
+    "q": {
+      "en": "Optical fibre works on the principle of?",
+      "as": "অপটিকেল ফাইবাৰ কোন নীতিৰ ওপৰত কাম কৰে?"
+    },
+    "options": [
+      {
+        "en": "Diffraction",
+        "as": "অপৱৰ্তন"
+      },
+      {
+        "en": "Interference",
+        "as": "ব্যতিচাৰ"
+      },
+      {
+        "en": "Total internal reflection",
+        "as": "সম্পূৰ্ণ আভ্যন্তৰীণ প্ৰতিফলন"
+      },
+      {
+        "en": "Polarisation only",
+        "as": "কেৱল মেৰুকৰণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Optical fibres transmit light signals by repeated total internal reflection along the length of the fibre.",
+      "as": "অপটিকেল ফাইবাৰে আঁহৰ দীঘজুৰি বাৰম্বাৰ সম্পূৰ্ণ আভ্যন্তৰীণ প্ৰতিফলনৰ জৰিয়তে পোহৰ সংকেত প্ৰেৰণ কৰে।"
+    }
+  }
+]

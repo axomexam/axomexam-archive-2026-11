@@ -1,0 +1,242 @@
+[
+  {
+    "id": "biology-053",
+    "q": {
+      "en": "Malaria is caused by?",
+      "as": "মেলেৰিয়া কিৰ দ্বাৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Virus",
+        "as": "ভাইৰাছ"
+      },
+      {
+        "en": "Plasmodium",
+        "as": "প্লাজম’ডিয়াম"
+      },
+      {
+        "en": "Bacteria",
+        "as": "বেক্টেৰিয়া"
+      },
+      {
+        "en": "Fungus",
+        "as": "ফাংগাছ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Malaria is caused by the parasite Plasmodium.",
+      "as": "প্লাজম’ডিয়াম পৰজীৱীয়ে মেলেৰিয়া সৃষ্টি কৰে।"
+    }
+  },
+  {
+    "id": "biology-054",
+    "q": {
+      "en": "Malaria is transmitted by?",
+      "as": "মেলেৰিয়া কিৰ দ্বাৰা বিয়পে?"
+    },
+    "options": [
+      {
+        "en": "Culex mosquito",
+        "as": "কিউলেক্স মহ"
+      },
+      {
+        "en": "Aedes mosquito",
+        "as": "এডিছ মহ"
+      },
+      {
+        "en": "Female Anopheles mosquito",
+        "as": "মাইকী এনফিলিছ মহ"
+      },
+      {
+        "en": "Housefly",
+        "as": "ঘৰ মাখি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Malaria is transmitted by the bite of the female Anopheles mosquito.",
+      "as": "মাইকী এনফিলিছ মাহে কামোৰাৰ দ্বাৰা মেলেৰিয়া বিয়পে।"
+    }
+  },
+  {
+    "id": "biology-055",
+    "q": {
+      "en": "Dengue is transmitted by?",
+      "as": "ডেংগু কিৰ দ্বাৰা বিয়পে?"
+    },
+    "options": [
+      {
+        "en": "Anopheles",
+        "as": "এনফিলিছ"
+      },
+      {
+        "en": "Culex",
+        "as": "কিউলেক্স"
+      },
+      {
+        "en": "Sandfly",
+        "as": "বালি মাখি"
+      },
+      {
+        "en": "Aedes mosquito",
+        "as": "এডিছ মহ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Dengue is transmitted by the Aedes mosquito.",
+      "as": "এডিছ মাহে ডেংগু বিয়পায়।"
+    }
+  },
+  {
+    "id": "biology-056",
+    "q": {
+      "en": "Tuberculosis is caused by?",
+      "as": "যক্ষ্মা কিৰ দ্বাৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Mycobacterium tuberculosis",
+        "as": "মাইক’বেক্টেৰিয়াম টিউবাৰকিউল’চিছ"
+      },
+      {
+        "en": "Virus",
+        "as": "ভাইৰাছ"
+      },
+      {
+        "en": "Plasmodium",
+        "as": "প্লাজম’ডিয়াম"
+      },
+      {
+        "en": "Fungus",
+        "as": "ফাংগাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tuberculosis is caused by the bacterium Mycobacterium tuberculosis.",
+      "as": "মাইক’বেক্টেৰিয়াম টিউবাৰকিউল’চিছ বেক্টেৰিয়াই যক্ষ্মা সৃষ্টি কৰে।"
+    }
+  },
+  {
+    "id": "biology-057",
+    "q": {
+      "en": "AIDS is caused by?",
+      "as": "এইডছ কিৰ দ্বাৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Bacteria",
+        "as": "বেক্টেৰিয়া"
+      },
+      {
+        "en": "HIV",
+        "as": "HIV"
+      },
+      {
+        "en": "Fungus",
+        "as": "ফাংগাছ"
+      },
+      {
+        "en": "Protozoa",
+        "as": "প্ৰ’ট’জোৱা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "AIDS is caused by the Human Immunodeficiency Virus (HIV).",
+      "as": "এইডছ হিউমেন ইমিউন’ডেফিচিয়েন্সি ভাইৰাছ (HIV)ৰ দ্বাৰা হয়।"
+    }
+  },
+  {
+    "id": "biology-058",
+    "q": {
+      "en": "The disease polio is caused by?",
+      "as": "পলিঅ’ ৰোগ কিৰ দ্বাৰা হয়?"
+    },
+    "options": [
+      {
+        "en": "Bacteria",
+        "as": "বেক্টেৰিয়া"
+      },
+      {
+        "en": "Fungus",
+        "as": "ফাংগাছ"
+      },
+      {
+        "en": "Virus",
+        "as": "ভাইৰাছ"
+      },
+      {
+        "en": "Worm",
+        "as": "কৃমি"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Polio is caused by the polio virus.",
+      "as": "পলিঅ’ ৰোগ পলিঅ’ ভাইৰাছৰ দ্বাৰা হয়।"
+    }
+  },
+  {
+    "id": "biology-076",
+    "q": {
+      "en": "The study of viruses is called?",
+      "as": "ভাইৰাছৰ অধ্যয়নক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Mycology",
+        "as": "ভঁইকুৰ বিজ্ঞান"
+      },
+      {
+        "en": "Ecology",
+        "as": "পৰিস্থিতি বিজ্ঞান"
+      },
+      {
+        "en": "Cytology",
+        "as": "কোষ বিজ্ঞান"
+      },
+      {
+        "en": "Virology",
+        "as": "ভাইৰাছ বিজ্ঞান"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The study of viruses is called virology.",
+      "as": "ভাইৰাছৰ অধ্যয়নক ভাইৰাছ বিজ্ঞান (ভাইৰ’লজি) বোলে।"
+    }
+  },
+  {
+    "id": "biology-083",
+    "q": {
+      "en": "Nitrogen-fixing bacteria in root nodules of legumes is?",
+      "as": "শস্য গছৰ শিপাৰ গাঁঠিত নাইট্ৰজেন স্থিৰকাৰী বেক্টেৰিয়া কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Lactobacillus",
+        "as": "লেক্ট’বেচিলাছ"
+      },
+      {
+        "en": "Rhizobium",
+        "as": "ৰাইজ’বিয়াম"
+      },
+      {
+        "en": "Streptococcus",
+        "as": "ষ্ট্ৰেপ্ট’ক’কাছ"
+      },
+      {
+        "en": "Salmonella",
+        "as": "ছালম’নেলা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Rhizobium bacteria present in the root nodules of legumes fix atmospheric nitrogen.",
+      "as": "শস্য গছৰ শিপাৰ গাঁঠিত থকা ৰাইজ’বিয়াম বেক্টেৰিয়াই বায়ুমণ্ডলীয় নাইট্ৰজেন স্থিৰ কৰে।"
+    }
+  }
+]

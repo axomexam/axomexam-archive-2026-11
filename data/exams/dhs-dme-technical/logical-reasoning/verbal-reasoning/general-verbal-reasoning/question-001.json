@@ -1,0 +1,212 @@
+[
+  {
+    "id": "verbal-reasoning-017",
+    "q": {
+      "en": "If 3² = 10, 4² = 17, then 5² = ?",
+      "as": "যদি ৩² = ১০, ৪² = ১৭, তেন্তে ৫² = ?"
+    },
+    "options": [
+      {
+        "en": "25",
+        "as": "২৫"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
+      },
+      {
+        "en": "27",
+        "as": "২৭"
+      },
+      {
+        "en": "26",
+        "as": "২৬"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The rule is n squared plus 1: 3 squared +1 = 10 and 4 squared +1 = 17, so 5 squared +1 = 25+1 = 26. Hence 26.",
+      "as": "নিয়মটো হ'ল n² + ১: ৩²+১=১০ আৰু ৪²+১=১৭, সেয়ে ৫²+১=২৫+১=২৬। সেয়ে ২৬।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-034",
+    "q": {
+      "en": "In a row, Sita is 8th from left and 12th from right. Total students are?",
+      "as": "শাৰীত সীতা বাওঁফালৰ পৰা ৮ আৰু সোঁফালৰ পৰা ১২ নম্বৰ। মুঠ ছাত্ৰ কিমান?"
+    },
+    "options": [
+      {
+        "en": "20",
+        "as": "২০"
+      },
+      {
+        "en": "18",
+        "as": "১৮"
+      },
+      {
+        "en": "19",
+        "as": "১৯"
+      },
+      {
+        "en": "21",
+        "as": "২১"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Total students = rank from left + rank from right − 1 = 8 + 12 − 1 = 19.",
+      "as": "মুঠ ছাত্ৰ = বাওঁফালৰ স্থান + সোঁফালৰ স্থান − ১ = ৮ + ১২ − ১ = ১৯।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-043",
+    "q": {
+      "en": "How many 4's are there in the series 4, 14, 24, 34, 44 that are preceded by 3?",
+      "as": "৪, ১৪, ২৪, ৩৪, ৪৪ শ্ৰেণীত ৩ৰ পিছত থকা ৪ কিমানটা?"
+    },
+    "options": [
+      {
+        "en": "Two",
+        "as": "দুটা"
+      },
+      {
+        "en": "Three",
+        "as": "তিনিটা"
+      },
+      {
+        "en": "None",
+        "as": "এটাও নহয়"
+      },
+      {
+        "en": "One",
+        "as": "এটা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "In the series, only the number 34 has the digit 4 preceded by the digit 3, so there is exactly one such 4.",
+      "as": "শ্ৰেণীত কেৱল ৩৪ সংখ্যাটোতহে ৩ৰ পিছত ৪ আছে, সেয়ে এনে ৪ কেৱল এটা।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-044",
+    "q": {
+      "en": "If North-East becomes North, then South-East becomes?",
+      "as": "যদি উত্তৰ-পূব উত্তৰ হয়, তেন্তে দক্ষিণ-পূব কি হ’ব?"
+    },
+    "options": [
+      {
+        "en": "South",
+        "as": "দক্ষিণ"
+      },
+      {
+        "en": "West",
+        "as": "পশ্চিম"
+      },
+      {
+        "en": "North",
+        "as": "উত্তৰ"
+      },
+      {
+        "en": "East",
+        "as": "পূব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "North-East becoming North means a 45° anticlockwise rotation; applying the same to South-East gives East.",
+      "as": "উত্তৰ-পূব উত্তৰ হোৱাৰ অৰ্থ ৪৫° ঘূৰণ; একেদৰে দক্ষিণ-পূব ঘূৰালে পূব হয়।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-053",
+    "q": {
+      "en": "If 26th January is Friday, then 27th January is?",
+      "as": "যদি ২৬ জানুৱাৰী শুক্ৰবাৰ, তেন্তে ২৭ জানুৱাৰী কোনবাৰ?"
+    },
+    "options": [
+      {
+        "en": "Thursday",
+        "as": "বৃহস্পতিবাৰ"
+      },
+      {
+        "en": "Saturday",
+        "as": "শনিবাৰ"
+      },
+      {
+        "en": "Sunday",
+        "as": "দেওবাৰ"
+      },
+      {
+        "en": "Monday",
+        "as": "সোমবাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "27th January is the very next day after 26th January, so if 26th is Friday then 27th is Saturday.",
+      "as": "২৭ জানুৱাৰী ২৬ জানুৱাৰীৰ ঠিক পিছদিনা; ২৬ তাৰিখে শুক্ৰবাৰ হ'লে ২৭ তাৰিখে শনিবাৰ হ'ব।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-059",
+    "q": {
+      "en": "In a line of 25, Rani is 9th from left. From right she is?",
+      "as": "২৫ জনৰ শাৰীত ৰানী বাওঁফালৰ পৰা ৯ নম্বৰ। সোঁফালৰ পৰা তাই?"
+    },
+    "options": [
+      {
+        "en": "16th",
+        "as": "১৬ নম্বৰ"
+      },
+      {
+        "en": "18th",
+        "as": "১৮ নম্বৰ"
+      },
+      {
+        "en": "17th",
+        "as": "১৭ নম্বৰ"
+      },
+      {
+        "en": "9th",
+        "as": "৯ নম্বৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Position from the right = total − position from left + 1 = 25 − 9 + 1 = 17. So Rani is 17th from the right.",
+      "as": "সোঁফালৰ পৰা স্থান = মুঠ − বাওঁফালৰ স্থান + ১ = ২৫ − ৯ + ১ = ১৭। সেয়ে ৰানী সোঁফালৰ পৰা ১৭ নম্বৰ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-069",
+    "q": {
+      "en": "If you face west and turn 180°, you now face?",
+      "as": "যদি পশ্চিমফালে মুখ কৰি ১৮০° ঘূৰা, এতিয়া মুখ কোনফালে?"
+    },
+    "options": [
+      {
+        "en": "North",
+        "as": "উত্তৰ"
+      },
+      {
+        "en": "South",
+        "as": "দক্ষিণ"
+      },
+      {
+        "en": "West",
+        "as": "পশ্চিম"
+      },
+      {
+        "en": "East",
+        "as": "পূব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A 180° turn reverses the direction completely, so a person facing west will now face east.",
+      "as": "১৮০° ঘূৰিলে দিশ সম্পূৰ্ণ ওলোটাই যায়; সেয়ে পশ্চিমমুৱা মানুহ এতিয়া পূৱমুৱা হ'ব।"
+    }
+  }
+]

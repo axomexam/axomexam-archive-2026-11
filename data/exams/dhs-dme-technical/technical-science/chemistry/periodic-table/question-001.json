@@ -1,0 +1,242 @@
+[
+  {
+    "id": "chemistry-020",
+    "q": {
+      "en": "The periodic table was first arranged by?",
+      "as": "পৰ্যায় তালিকা প্ৰথমে কোনে সজাইছিল?"
+    },
+    "options": [
+      {
+        "en": "Mendeleev",
+        "as": "মেণ্ডেলিভ"
+      },
+      {
+        "en": "Dalton",
+        "as": "ডালটন"
+      },
+      {
+        "en": "Bohr",
+        "as": "ব’ৰ"
+      },
+      {
+        "en": "Rutherford",
+        "as": "ৰাদাৰফৰ্ড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dmitri Mendeleev first arranged the periodic table.",
+      "as": "দিমিত্ৰি মেণ্ডেলিভে প্ৰথমে পৰ্যায় তালিকা সজাইছিল।"
+    }
+  },
+  {
+    "id": "chemistry-021",
+    "q": {
+      "en": "The first element of the periodic table is?",
+      "as": "পৰ্যায় তালিকাৰ প্ৰথম মৌল কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Helium",
+        "as": "হিলিয়াম"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      },
+      {
+        "en": "Lithium",
+        "as": "লিথিয়াম"
+      },
+      {
+        "en": "Carbon",
+        "as": "কাৰ্বন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Hydrogen is the first element of the periodic table.",
+      "as": "হাইড্ৰজেন পৰ্যায় তালিকাৰ প্ৰথম মৌল।"
+    }
+  },
+  {
+    "id": "chemistry-022",
+    "q": {
+      "en": "Which of the following is an alkali metal?",
+      "as": "তলৰ কোনটো ক্ষাৰ ধাতু?"
+    },
+    "options": [
+      {
+        "en": "Calcium",
+        "as": "কেলচিয়াম"
+      },
+      {
+        "en": "Aluminium",
+        "as": "এলুমিনিয়াম"
+      },
+      {
+        "en": "Sodium",
+        "as": "ছডিয়াম"
+      },
+      {
+        "en": "Iron",
+        "as": "লো"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Sodium is an alkali metal.",
+      "as": "ছডিয়াম এটা ক্ষাৰ ধাতু।"
+    }
+  },
+  {
+    "id": "chemistry-023",
+    "q": {
+      "en": "Which of the following is a halogen?",
+      "as": "তলৰ কোনটো হেলোজেন?"
+    },
+    "options": [
+      {
+        "en": "Neon",
+        "as": "নিয়ন"
+      },
+      {
+        "en": "Sodium",
+        "as": "ছডিয়াম"
+      },
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Chlorine",
+        "as": "ক্লৰিন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Chlorine is a halogen.",
+      "as": "ক্লৰিন এটা হেলোজেন।"
+    }
+  },
+  {
+    "id": "chemistry-083",
+    "q": {
+      "en": "The modern periodic table is based on?",
+      "as": "আধুনিক পৰ্যায় তালিকা কিৰ ওপৰত ভিত্তি কৰা?"
+    },
+    "options": [
+      {
+        "en": "Atomic mass",
+        "as": "পাৰমাণৱিক ভৰ"
+      },
+      {
+        "en": "Atomic number",
+        "as": "পাৰমাণৱিক সংখ্যা"
+      },
+      {
+        "en": "Mass number",
+        "as": "ভৰ সংখ্যা"
+      },
+      {
+        "en": "Density",
+        "as": "ঘনত্ব"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The modern periodic table is based on atomic number.",
+      "as": "আধুনিক পৰ্যায় তালিকা পাৰমাণৱিক সংখ্যাৰ ওপৰত ভিত্তি কৰা।"
+    }
+  },
+  {
+    "id": "chemistry-084",
+    "q": {
+      "en": "The number of periods in the modern periodic table is?",
+      "as": "আধুনিক পৰ্যায় তালিকাত পৰ্যায়ৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "18",
+        "as": "১৮"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "9",
+        "as": "৯"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The modern periodic table has 7 periods.",
+      "as": "আধুনিক পৰ্যায় তালিকাত ৭ টা পৰ্যায় আছে।"
+    }
+  },
+  {
+    "id": "chemistry-085",
+    "q": {
+      "en": "The number of groups in the modern periodic table is?",
+      "as": "আধুনিক পৰ্যায় তালিকাত গ্ৰুপৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "16",
+        "as": "১৬"
+      },
+      {
+        "en": "18",
+        "as": "১৮"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The modern periodic table has 18 groups.",
+      "as": "আধুনিক পৰ্যায় তালিকাত ১৮ টা গ্ৰুপ আছে।"
+    }
+  },
+  {
+    "id": "chemistry-086",
+    "q": {
+      "en": "Which of the following is a transition metal?",
+      "as": "তলৰ কোনটো সংক্ৰমণ ধাতু?"
+    },
+    "options": [
+      {
+        "en": "Iron",
+        "as": "লো"
+      },
+      {
+        "en": "Sodium",
+        "as": "ছডিয়াম"
+      },
+      {
+        "en": "Calcium",
+        "as": "কেলচিয়াম"
+      },
+      {
+        "en": "Aluminium",
+        "as": "এলুমিনিয়াম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Iron is a transition metal.",
+      "as": "লো এটা সংক্ৰমণ ধাতু।"
+    }
+  }
+]

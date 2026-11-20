@@ -1,0 +1,62 @@
+[
+  {
+    "id": "verbal-reasoning-018",
+    "q": {
+      "en": "Which word cannot be formed from EDUCATION?",
+      "as": "EDUCATION শব্দৰ পৰা কোনটো শব্দ গঠন নহয়?"
+    },
+    "options": [
+      {
+        "en": "NATION",
+        "as": "NATION"
+      },
+      {
+        "en": "AUCTION",
+        "as": "AUCTION"
+      },
+      {
+        "en": "CAUTION",
+        "as": "CAUTION"
+      },
+      {
+        "en": "CONDUCT",
+        "as": "CONDUCT"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "EDUCATION contains only one letter C, but CONDUCT requires two C's, so it cannot be formed from EDUCATION. Hence CONDUCT.",
+      "as": "EDUCATION-ত এটা মাত্ৰ 'C' আছে, কিন্তু CONDUCT গঠন কৰিবলৈ দুটা 'C' লাগে; গতিকে ই EDUCATION-ৰ পৰা গঠন নহয়। সেয়ে CONDUCT।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-080",
+    "q": {
+      "en": "If A=1, B=2, ..., Z=26, what is the value of BAD?",
+      "as": "যদি A=১, B=২, ..., Z=২৬, তেন্তে BAD-ৰ মান কিমান?"
+    },
+    "options": [
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "9",
+        "as": "৯"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "B=2, A=1 and D=4, so BAD = 2 + 1 + 4 = 7.",
+      "as": "B=২, A=১ আৰু D=৪; সেয়ে BAD = ২ + ১ + ৪ = ৭।"
+    }
+  }
+]

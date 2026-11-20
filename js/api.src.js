@@ -429,6 +429,27 @@ const API = (() => {
     return result;
   }
 
+  /* ---- "Is this topic's bank written yet?" ----
+     A topic folder that exists but has no questions yet carries
+     {"files": [], "state": "content-preparing"} in its index.json. The reader
+     needs to tell that apart from a topic that simply has no files, so it can
+     show "content is being prepared" instead of "nothing uploaded". Returns
+     true only when the manifest says so explicitly; any failure is false. */
+  async function isExamTopicPreparing(examId, sectionId, subId, childId) {
+    const cfg = CONFIG.EXAMS || {};
+    const dir = cfg.DIR || "data/exams";
+    const safe = (s) => String(s || "").replace(/[^A-Za-z0-9_-]/g, "");
+    const parts = [safe(examId), safe(sectionId), safe(subId), safe(childId)].filter(Boolean);
+    if (parts.length < 3) return false;
+    const rel = `${dir}/${parts.join("/")}/index.json`;
+    try {
+      const man = await fetchJSON(CONFIG.USE_REMOTE ? rawUrl(rel) : `/${rel}`);
+      return !!(man && man.state === "content-preparing");
+    } catch (e) {
+      return false;
+    }
+  }
+
   /* ---- Free Current Affairs ----
      data/current-affairs/index.json lists the sub-categories. Each
      sub-category folder holds ONE JSON FILE PER QUESTION (bilingual Q&A with
@@ -558,7 +579,7 @@ const API = (() => {
     getCategories, getTopic, getTopicMarkdown, listPdfDir, pdfUrl,
     listDownloads, getTrendingTopics, listPreviousYearYears, listPreviousYearPdfs,
     getArticles, getMockSet, getExamMockSet, getExamMockIndex, getBook, listBooks, listExams, getExamSection,
-    listExamQuestions, getCounts, listCurrentAffairs, getCurrentAffairsCategory,
+    listExamQuestions, isExamTopicPreparing, getCounts, listCurrentAffairs, getCurrentAffairsCategory,
     listCurrentAffairsQuestions, getCurrentAffairsCounts,
   };
 })();

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "chemistry-002",
+    "q": {
+      "en": "The chemical formula of water is?",
+      "as": "পানীৰ ৰাসায়নিক সংকেত কি?"
+    },
+    "options": [
+      {
+        "en": "HO",
+        "as": "HO"
+      },
+      {
+        "en": "H2O",
+        "as": "H2O"
+      },
+      {
+        "en": "H2O2",
+        "as": "H2O2"
+      },
+      {
+        "en": "OH",
+        "as": "OH"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The chemical formula of water is H2O.",
+      "as": "পানীৰ ৰাসায়নিক সংকেত H2O।"
+    }
+  },
+  {
+    "id": "chemistry-105",
+    "q": {
+      "en": "Limewater turns milky due to?",
+      "as": "চুণপানী বগা হয় কিৰ বাবে?"
+    },
+    "options": [
+      {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "Hydrogen",
+        "as": "হাইড্ৰজেন"
+      },
+      {
+        "en": "Carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "Nitrogen",
+        "as": "নাইট্ৰজেন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Limewater turns milky because of carbon dioxide.",
+      "as": "কাৰ্বন ডাইঅক্সাইডৰ বাবে চুণপানী বগা হয়।"
+    }
+  },
+  {
+    "id": "chemistry-106",
+    "q": {
+      "en": "The chemical formula of limewater is?",
+      "as": "চুণপানীৰ ৰাসায়নিক সংকেত কি?"
+    },
+    "options": [
+      {
+        "en": "CaO",
+        "as": "CaO"
+      },
+      {
+        "en": "CaCO3",
+        "as": "CaCO3"
+      },
+      {
+        "en": "CaCl2",
+        "as": "CaCl2"
+      },
+      {
+        "en": "Ca(OH)2",
+        "as": "Ca(OH)2"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The chemical formula of limewater is Ca(OH)2.",
+      "as": "চুণপানীৰ ৰাসায়নিক সংকেত Ca(OH)2।"
+    }
+  },
+  {
+    "id": "chemistry-109",
+    "q": {
+      "en": "Hardness of water is due to salts of?",
+      "as": "পানীৰ কঠিনতা কিৰ লৱণৰ বাবে হয়?"
+    },
+    "options": [
+      {
+        "en": "Na and K",
+        "as": "Na আৰু K"
+      },
+      {
+        "en": "Fe and Cu",
+        "as": "Fe আৰু Cu"
+      },
+      {
+        "en": "Ca and Mg",
+        "as": "Ca আৰু Mg"
+      },
+      {
+        "en": "Zn and Al",
+        "as": "Zn আৰু Al"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Hardness of water is due to salts of calcium and magnesium.",
+      "as": "পানীৰ কঠিনতা কেলচিয়াম আৰু মেগনেছিয়ামৰ লৱণৰ বাবে হয়।"
+    }
+  },
+  {
+    "id": "chemistry-110",
+    "q": {
+      "en": "Temporary hardness of water can be removed by?",
+      "as": "পানীৰ অস্থায়ী কঠিনতা কিৰে আঁতৰাব পাৰি?"
+    },
+    "options": [
+      {
+        "en": "Adding NaCl",
+        "as": "NaCl যোগ কৰি"
+      },
+      {
+        "en": "Adding sugar",
+        "as": "চেনি যোগ কৰি"
+      },
+      {
+        "en": "Filtration only",
+        "as": "কেৱল চেকি"
+      },
+      {
+        "en": "Boiling",
+        "as": "উতলাই"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Temporary hardness of water can be removed by boiling.",
+      "as": "পানীৰ অস্থায়ী কঠিনতা উতলাই আঁতৰাব পাৰি।"
+    }
+  },
+  {
+    "id": "chemistry-111",
+    "q": {
+      "en": "Permanent hardness of water is due to?",
+      "as": "পানীৰ স্থায়ী কঠিনতা কিৰ বাবে হয়?"
+    },
+    "options": [
+      {
+        "en": "Chlorides and sulphates of Ca and Mg",
+        "as": "Ca আৰু Mg-ৰ ক্লৰাইড আৰু ছালফেট"
+      },
+      {
+        "en": "Only bicarbonates of Ca",
+        "as": "কেৱল Ca-ৰ বাইকাৰ্বনেট"
+      },
+      {
+        "en": "Dissolved oxygen",
+        "as": "দ্ৰৱীভূত অক্সিজেন"
+      },
+      {
+        "en": "Dissolved nitrogen",
+        "as": "দ্ৰৱীভূত নাইট্ৰজেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Permanent hardness of water is due to chlorides and sulphates of calcium and magnesium.",
+      "as": "পানীৰ স্থায়ী কঠিনতা কেলচিয়াম আৰু মেগনেছিয়ামৰ ক্লৰাইড আৰু ছালফেটৰ বাবে হয়।"
+    }
+  },
+  {
+    "id": "chemistry-112",
+    "q": {
+      "en": "Which of the following is used to purify water?",
+      "as": "পানী বিশুদ্ধ কৰিবলৈ তলৰ কোনটো ব্যৱহাৰ হয়?"
+    },
+    "options": [
+      {
+        "en": "NaCl",
+        "as": "NaCl"
+      },
+      {
+        "en": "Chlorine",
+        "as": "ক্লৰিন"
+      },
+      {
+        "en": "CO2",
+        "as": "CO2"
+      },
+      {
+        "en": "N2",
+        "as": "N2"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Chlorine is used to purify water.",
+      "as": "পানী বিশুদ্ধ কৰিবলৈ ক্লৰিন ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "chemistry-140",
+    "q": {
+      "en": "The substance present in larger amount in a solution is?",
+      "as": "দ্ৰৱত বেছি পৰিমাণে থকা পদাৰ্থক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "Solvent",
+        "as": "দ্ৰাৱক"
+      },
+      {
+        "en": "Solute",
+        "as": "দ্ৰাৱ্য"
+      },
+      {
+        "en": "Precipitate",
+        "as": "অৱক্ষেপ"
+      },
+      {
+        "en": "Catalyst",
+        "as": "অনুঘটক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The substance present in the larger amount in a solution is the solvent.",
+      "as": "দ্ৰৱত বেছি পৰিমাণে থকা পদাৰ্থটোক দ্ৰাৱক বোলে।"
+    }
+  }
+]

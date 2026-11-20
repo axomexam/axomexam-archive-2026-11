@@ -1,0 +1,302 @@
+[
+  {
+    "id": "physics-002",
+    "q": {
+      "en": "The SI unit of work is?",
+      "as": "কামৰ SI একক কি?"
+    },
+    "options": [
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      },
+      {
+        "en": "Joule",
+        "as": "জুল"
+      },
+      {
+        "en": "Ampere",
+        "as": "এম্পিয়াৰ"
+      },
+      {
+        "en": "Volt",
+        "as": "ভল্ট"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Work is the product of force and displacement (W = F·d), and its SI unit is the joule (J), where 1 J = 1 N·m.",
+      "as": "কাম = বল × সৰণ (W = F·d), ইয়াৰ SI একক জুল (J); ১ জুল = ১ নিউটন·মিটাৰ।"
+    }
+  },
+  {
+    "id": "physics-015",
+    "q": {
+      "en": "The SI unit of power is?",
+      "as": "ক্ষমতাৰ SI একক কি?"
+    },
+    "options": [
+      {
+        "en": "Watt",
+        "as": "ৱাট"
+      },
+      {
+        "en": "Joule",
+        "as": "জুল"
+      },
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      },
+      {
+        "en": "Pascal",
+        "as": "পাস্কেল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Power is the rate of doing work, P = W/t, and its SI unit is the watt (W); 1 W = 1 J/s.",
+      "as": "ক্ষমতা হৈছে কাম কৰাৰ হাৰ, P = W/t; ইয়াৰ SI একক ৱাট (W), ১ ৱাট = ১ জুল/ছে.।"
+    }
+  },
+  {
+    "id": "physics-050",
+    "q": {
+      "en": "Kinetic energy of a body is given by?",
+      "as": "এটা বস্তুৰ গতিশক্তিৰ সূত্ৰ কি?"
+    },
+    "options": [
+      {
+        "en": "mgh",
+        "as": "mgh"
+      },
+      {
+        "en": "mv",
+        "as": "mv"
+      },
+      {
+        "en": "½ mv²",
+        "as": "½ mv²"
+      },
+      {
+        "en": "ma",
+        "as": "ma"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The kinetic energy of a moving body is given by KE = ½ mv², where m is mass and v is velocity. Thus ½ mv² is the correct formula.",
+      "as": "গতিশীল বস্তু এটাৰ গতিশক্তি KE = ½ mv², য'ত m হ'ল ভৰ আৰু v হ'ল বেগ। সেয়ে ½ mv² শুদ্ধ সূত্ৰ।"
+    }
+  },
+  {
+    "id": "physics-051",
+    "q": {
+      "en": "Potential energy of a body at height h is?",
+      "as": "h উচ্চতাত থকা বস্তুৰ স্থিতিশক্তি কি?"
+    },
+    "options": [
+      {
+        "en": "½ mv²",
+        "as": "½ mv²"
+      },
+      {
+        "en": "mv",
+        "as": "mv"
+      },
+      {
+        "en": "ma",
+        "as": "ma"
+      },
+      {
+        "en": "mgh",
+        "as": "mgh"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Gravitational potential energy of a body raised to height h is PE = mgh, where g is acceleration due to gravity. Hence mgh is correct.",
+      "as": "h উচ্চতালৈ তোলা বস্তু এটাৰ মহাকৰ্ষণীয় স্থিতিশক্তি PE = mgh, য'ত g হ'ল মহাকৰ্ষণজনিত ত্বৰণ। সেয়ে mgh শুদ্ধ।"
+    }
+  },
+  {
+    "id": "physics-063",
+    "q": {
+      "en": "Which law states that energy can neither be created nor destroyed?",
+      "as": "শক্তি সৃষ্টি বা ধ্বংস কৰিব নোৱাৰি বুলি কোন সূত্ৰই কয়?"
+    },
+    "options": [
+      {
+        "en": "Law of conservation of energy",
+        "as": "শক্তি সংৰক্ষণৰ সূত্ৰ"
+      },
+      {
+        "en": "Ohm's law",
+        "as": "ওমৰ সূত্ৰ"
+      },
+      {
+        "en": "Newton's third law",
+        "as": "নিউটনৰ তৃতীয় সূত্ৰ"
+      },
+      {
+        "en": "Boyle's law",
+        "as": "বয়েলৰ সূত্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The law of conservation of energy states that energy can neither be created nor destroyed, only converted from one form to another. Hence this is the correct law.",
+      "as": "শক্তি সংৰক্ষণৰ সূত্ৰ অনুসৰি শক্তি সৃষ্টি বা ধ্বংস কৰিব নোৱাৰি, কেৱল এটা ৰূপৰ পৰা আন ৰূপলৈ ৰূপান্তৰিত হয়। সেয়ে এইটোৱে শুদ্ধ সূত্ৰ।"
+    }
+  },
+  {
+    "id": "physics-072",
+    "q": {
+      "en": "The SI unit of energy is?",
+      "as": "শক্তিৰ SI একক কি?"
+    },
+    "options": [
+      {
+        "en": "Joule",
+        "as": "জুল"
+      },
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      },
+      {
+        "en": "Pascal",
+        "as": "পাস্কেল"
+      },
+      {
+        "en": "Ampere",
+        "as": "এম্পিয়াৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Energy is the capacity to do work and its SI unit is the joule (J), where 1 J = 1 N·m = 1 kg·m²/s². Newton is the unit of force, pascal of pressure and ampere of current.",
+      "as": "শক্তি হ'ল কাম কৰাৰ সামৰ্থ্য, ইয়াৰ SI একক জুল (J); ১ জুল = ১ নিউটন·মিটাৰ। নিউটন বলৰ, পাস্কেল চাপৰ আৰু এম্পিয়াৰ প্ৰৱাহৰ একক।"
+    }
+  },
+  {
+    "id": "physics-074",
+    "q": {
+      "en": "Power is defined as?",
+      "as": "ক্ষমতাৰ সংজ্ঞা কি?"
+    },
+    "options": [
+      {
+        "en": "Work × time",
+        "as": "কাম × সময়"
+      },
+      {
+        "en": "Force × distance",
+        "as": "বল × দূৰত্ব"
+      },
+      {
+        "en": "Rate of doing work",
+        "as": "কাম কৰাৰ হাৰ"
+      },
+      {
+        "en": "Mass × acceleration",
+        "as": "ভৰ × ত্বাৰণ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Power is the rate of doing work, P = W/t, and its SI unit is the watt (1 W = 1 J/s). Work × time and force × distance do not define power.",
+      "as": "ক্ষমতা হ'ল কাম কৰাৰ হাৰ, P = W/t; ইয়াৰ SI একক ৱাট (১ ৱাট = ১ জুল/ছে.)।"
+    }
+  },
+  {
+    "id": "physics-075",
+    "q": {
+      "en": "1 horsepower is equal to?",
+      "as": "১ হৰ্চপাৱাৰ কিমানৰ সমান?"
+    },
+    "options": [
+      {
+        "en": "746 kW",
+        "as": "৭৪৬ কিলোৱাট"
+      },
+      {
+        "en": "76 W",
+        "as": "৭৬ ৱাট"
+      },
+      {
+        "en": "1000 W",
+        "as": "১০০০ ৱাট"
+      },
+      {
+        "en": "746 W",
+        "as": "৭৪৬ ৱাট"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "One horsepower (1 hp) is equal to exactly 746 watts in the metric (SI) convention, a unit originally defined for comparing engines.",
+      "as": "এক হৰ্চপাৱাৰ (১ hp) = ৭৪৬ ৱাট। ইঞ্জিনৰ ক্ষমতা তুলনা কৰিবলৈ এই একক ব্যৱহাৰ হয়।"
+    }
+  },
+  {
+    "id": "physics-111",
+    "q": {
+      "en": "The energy of the Sun is produced mainly by?",
+      "as": "সূৰ্যৰ শক্তি মূলতঃ কিৰ দ্বাৰা উৎপন্ন হয়?"
+    },
+    "options": [
+      {
+        "en": "Chemical reaction",
+        "as": "ৰাসায়নিক বিক্ৰিয়া"
+      },
+      {
+        "en": "Nuclear fission",
+        "as": "নিউক্লীয় বিভাজন"
+      },
+      {
+        "en": "Nuclear fusion",
+        "as": "নিউক্লীয় সংযোজন"
+      },
+      {
+        "en": "Burning of coal",
+        "as": "কয়লা দহন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The Sun's energy is produced mainly by nuclear fusion, in which hydrogen nuclei combine to form helium and release enormous energy.",
+      "as": "সূৰ্যৰ শক্তি মূলতঃ নিউক্লীয় সংযোজনৰ দ্বাৰা উৎপন্ন হয়, য'ত হাইড্ৰ'জেন নিউক্লিয়াছ মিলি হিলিয়াম গঠন কৰে আৰু বিপুল শক্তি মুক্ত কৰে।"
+    }
+  },
+  {
+    "id": "physics-140",
+    "q": {
+      "en": "Which of the following is not a unit of energy?",
+      "as": "তলৰ কোনটো শক্তিৰ একক নহয়?"
+    },
+    "options": [
+      {
+        "en": "Joule",
+        "as": "জুল"
+      },
+      {
+        "en": "Calorie",
+        "as": "কেলৰি"
+      },
+      {
+        "en": "Kilowatt-hour",
+        "as": "কিলোৱাট-ঘণ্টা"
+      },
+      {
+        "en": "Newton",
+        "as": "নিউটন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Newton is the SI unit of force, not of energy; joule, calorie and kilowatt-hour are all units of energy. Hence 'Newton' is correct.",
+      "as": "নিউটন বলৰ SI একক, শক্তিৰ নহয়; জুল, কেলৰি আৰু কিলোৱাট-ঘণ্টা সকলো শক্তিৰ একক। সেয়ে 'নিউটন' শুদ্ধ উত্তৰ।"
+    }
+  }
+]

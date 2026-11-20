@@ -1,0 +1,182 @@
+[
+  {
+    "id": "verbal-reasoning-013",
+    "q": {
+      "en": "If in a code MANGO is written as NZOHP, then APPLE is written as?",
+      "as": "যদি MANGO-ক NZOHP লিখা হয়, APPLE কি লিখা হ’ব?"
+    },
+    "options": [
+      {
+        "en": "ZOOKD",
+        "as": "ZOOKD"
+      },
+      {
+        "en": "BQQME",
+        "as": "BQQME"
+      },
+      {
+        "en": "BQQMF",
+        "as": "BQQMF"
+      },
+      {
+        "en": "CRRNG",
+        "as": "CRRNG"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "In this coding each letter is replaced by the letter one step ahead in the alphabet, so APPLE becomes BQQMF (A to B, P to Q, P to Q, L to M, E to F).",
+      "as": "এই সংকেতত প্ৰতিটো আখৰ বৰ্ণমালাৰ এখোপ আগৰ আখৰেৰে সলনি হয়, সেয়ে APPLE → BQQMF (A→B, P→Q, P→Q, L→M, E→F)।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-023",
+    "q": {
+      "en": "If in a code LION is written as MJPO, then TIGER is written as?",
+      "as": "যদি LION-ক MJPO লিখা হয়, TIGER কি লিখা হ’ব?"
+    },
+    "options": [
+      {
+        "en": "UJHFS",
+        "as": "UJHFS"
+      },
+      {
+        "en": "SHFDQ",
+        "as": "SHFDQ"
+      },
+      {
+        "en": "UJHFR",
+        "as": "UJHFR"
+      },
+      {
+        "en": "VJIGT",
+        "as": "VJIGT"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In the given code each letter of LION moves one step forward (L→M, I→J, O→P, N→O). Applying the same rule, TIGER becomes UJHFS.",
+      "as": "দিয়া সংকেতত LION ৰ প্ৰতিটো আখৰ এখোজ আগুৱাইছে (L→M, I→J, O→P, N→O)। একে নিয়ম প্ৰয়োগ কৰি TIGER → UJHFS।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-038",
+    "q": {
+      "en": "If in a code ROAD is written as URDG, then SWAN is written as?",
+      "as": "যদি ROAD-ক URDG লিখা হয়, SWAN কি লিখা হ’ব?"
+    },
+    "options": [
+      {
+        "en": "TXBO",
+        "as": "TXBO"
+      },
+      {
+        "en": "VZDP",
+        "as": "VZDP"
+      },
+      {
+        "en": "VZDQ",
+        "as": "VZDQ"
+      },
+      {
+        "en": "PXDQ",
+        "as": "PXDQ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Each letter of ROAD moves three steps forward (R→U, O→R, A→D, D→G). Applying the same rule, SWAN becomes VZDQ.",
+      "as": "ROAD ৰ প্ৰতিটো আখৰ তিনিখোজ আগুৱাইছে (R→U, O→R, A→D, D→G)। একে নিয়ম প্ৰয়োগ কৰি SWAN → VZDQ।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-048",
+    "q": {
+      "en": "If in a code BLUE is written as CMVF, then PINK is written as?",
+      "as": "যদি BLUE-ক CMVF লিখা হয়, PINK কি লিখা হ’ব?"
+    },
+    "options": [
+      {
+        "en": "QJOL",
+        "as": "QJOL"
+      },
+      {
+        "en": "OHMJ",
+        "as": "OHMJ"
+      },
+      {
+        "en": "QJOK",
+        "as": "QJOK"
+      },
+      {
+        "en": "RKPM",
+        "as": "RKPM"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In the code each letter is shifted one step forward (B→C, L→M, U→V, E→F). Applying this to PINK gives QJOL.",
+      "as": "সংকেতত প্ৰতিটো আখৰ এটা স্থান আগুৱাইছে (B→C, L→M, U→V, E→F)। PINK-ত প্ৰয়োগ কৰিলে QJOL পোৱা যায়।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-063",
+    "q": {
+      "en": "If in a code GIRL is written as HJSM, then BOY is written as?",
+      "as": "যদি GIRL-ক HJSM লিখা হয়, BOY কি লিখা হ’ব?"
+    },
+    "options": [
+      {
+        "en": "ANX",
+        "as": "ANX"
+      },
+      {
+        "en": "CPY",
+        "as": "CPY"
+      },
+      {
+        "en": "CPZ",
+        "as": "CPZ"
+      },
+      {
+        "en": "DQA",
+        "as": "DQA"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "In the code each letter is shifted one step forward (G→H, I→J, R→S, L→M). Applying this to BOY gives CPZ.",
+      "as": "সংকেতত প্ৰতিটো আখৰ এটা স্থান আগুৱাইছে (G→H, I→J, R→S, L→M)। BOY-ত প্ৰয়োগ কৰিলে CPZ পোৱা যায়।"
+    }
+  },
+  {
+    "id": "verbal-reasoning-071",
+    "q": {
+      "en": "If FRIEND is coded as GSJFOE, then CAT is coded as?",
+      "as": "যদি FRIEND-ক GSJFOE কোড কৰা হয়, তেন্তে CAT-ৰ কোড কি?"
+    },
+    "options": [
+      {
+        "en": "DBU",
+        "as": "DBU"
+      },
+      {
+        "en": "DBT",
+        "as": "DBT"
+      },
+      {
+        "en": "EBU",
+        "as": "EBU"
+      },
+      {
+        "en": "CBU",
+        "as": "CBU"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In the code each letter moves one step forward (F to G, R to S, and so on); applying the same, CAT becomes DBU.",
+      "as": "সংকেতত প্ৰতিটো আখৰ এপদ আগবাঢ়ে (F→G, R→S আদি); সেইদৰে CAT ৰ C→D, A→B, T→U কৰিলে DBU পোৱা যায়।"
+    }
+  }
+]
