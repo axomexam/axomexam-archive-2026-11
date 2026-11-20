@@ -1,0 +1,932 @@
+[
+  {
+    "id": "computer-091",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "A network that covers a single building or campus is called a",
+      "as": "এটা অট্টালিকা বা চৌহদ সামৰা নেটৱৰ্কক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "LAN",
+        "as": "LAN"
+      },
+      {
+        "en": "WAN",
+        "as": "WAN"
+      },
+      {
+        "en": "MAN",
+        "as": "MAN"
+      },
+      {
+        "en": "PAN",
+        "as": "PAN"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A local area network spans one site. A wide area network joins sites across cities or countries.",
+      "as": "LAN এ এটা ঠাই সামৰে। WAN এ নগৰ বা দেশজুৰি ঠাই জোড়ে।"
+    }
+  },
+  {
+    "id": "computer-092",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "The full form of URL is",
+      "as": "URL ৰ সম্পূৰ্ণ ৰূপ"
+    },
+    "options": [
+      {
+        "en": "Uniform Resource Locator",
+        "as": "Uniform Resource Locator"
+      },
+      {
+        "en": "Universal Reference Link",
+        "as": "Universal Reference Link"
+      },
+      {
+        "en": "Uniform Routing Layer",
+        "as": "Uniform Routing Layer"
+      },
+      {
+        "en": "User Registered Location",
+        "as": "User Registered Location"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A uniform resource locator is the address that tells a browser where a page lives and how to fetch it.",
+      "as": "Uniform Resource Locator হ'ল সেই ঠিকনা যি ব্ৰাউজাৰক পৃষ্ঠা ক'ত আছে আৰু কেনেকৈ আনিব কয়।"
+    }
+  },
+  {
+    "id": "computer-093",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "Which protocol is used to transfer web pages?",
+      "as": "ৱেব পৃষ্ঠা সঞ্চাৰ কৰিবলৈ কোন প্ৰট'কল ব্যৱহৃত হয়"
+    },
+    "options": [
+      {
+        "en": "HTTP",
+        "as": "HTTP"
+      },
+      {
+        "en": "FTP",
+        "as": "FTP"
+      },
+      {
+        "en": "SMTP",
+        "as": "SMTP"
+      },
+      {
+        "en": "TCP only",
+        "as": "কেৱল TCP"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hypertext transfer protocol carries pages between server and browser. SMTP sends mail and FTP moves files.",
+      "as": "HTTP এ ছাৰ্ভাৰ আৰু ব্ৰাউজাৰৰ মাজত পৃষ্ঠা নিয়ে। SMTP এ মেইল পঠিয়ায় আৰু FTP এ ফাইল সৰায়।"
+    }
+  },
+  {
+    "id": "computer-094",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "An IP address of the form 192.168.1.1 belongs to which version?",
+      "as": "192.168.1.1 ৰ দৰে IP ঠিকনা কোন সংস্কৰণৰ"
+    },
+    "options": [
+      {
+        "en": "IPv4",
+        "as": "IPv4"
+      },
+      {
+        "en": "IPv6",
+        "as": "IPv6"
+      },
+      {
+        "en": "MAC",
+        "as": "MAC"
+      },
+      {
+        "en": "URL",
+        "as": "URL"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "IPv4 uses four decimal groups of eight bits each. IPv6 uses hexadecimal groups and is much longer.",
+      "as": "IPv4 এ আঠ বিটৰ চাৰিটা দশমিক গোট ব্যৱহাৰ কৰে। IPv6 এ হেক্সাডেচিমেল গোট ব্যৱহাৰ কৰি বহু দীঘল।"
+    }
+  },
+  {
+    "id": "computer-095",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "A device that forwards data packets between different networks is a",
+      "as": "বেলেগ নেটৱৰ্কৰ মাজত তথ্য পেকেট আগবঢ়োৱা সজুলিটো"
+    },
+    "options": [
+      {
+        "en": "router",
+        "as": "ৰাউটাৰ"
+      },
+      {
+        "en": "hub",
+        "as": "হাব"
+      },
+      {
+        "en": "repeater",
+        "as": "ৰিপিটাৰ"
+      },
+      {
+        "en": "modem",
+        "as": "মডেম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A router reads the destination address and chooses the next network. A hub only repeats signals to every port.",
+      "as": "ৰাউটাৰে গন্তব্য ঠিকনা পঢ়ি পৰৱৰ্তী নেটৱৰ্ক বাছে। হাবে কেবল প্ৰতিটো প'ৰ্টলৈ সংকেত পুনৰাবৃত্তি কৰে।"
+    }
+  },
+  {
+    "id": "computer-096",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "The full form of WWW is",
+      "as": "WWW ৰ সম্পূৰ্ণ ৰূপ"
+    },
+    "options": [
+      {
+        "en": "World Wide Web",
+        "as": "World Wide Web"
+      },
+      {
+        "en": "Wide World Web",
+        "as": "Wide World Web"
+      },
+      {
+        "en": "World Web Wide",
+        "as": "World Web Wide"
+      },
+      {
+        "en": "Web World Wide",
+        "as": "Web World Wide"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The world wide web is the collection of linked pages served over the internet. The internet itself is the underlying network.",
+      "as": "World Wide Web ইণ্টাৰনেটৰ ওপৰত দিয়া জড়িত পৃষ্ঠাৰ সমষ্টি। ইণ্টাৰনেট নিজেই তলৰ নেটৱৰ্ক।"
+    }
+  },
+  {
+    "id": "computer-097",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "Which of the following is a search engine?",
+      "as": "তলৰ কোনটো সন্ধান ইঞ্জিন"
+    },
+    "options": [
+      {
+        "en": "Google",
+        "as": "গুগল"
+      },
+      {
+        "en": "Chrome",
+        "as": "ক্ৰম"
+      },
+      {
+        "en": "Firefox",
+        "as": "ফায়াৰফক্স"
+      },
+      {
+        "en": "Windows",
+        "as": "উইণ্ড'জ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Google indexes pages and answers queries. Chrome and Firefox are browsers that display the results.",
+      "as": "গুগলে পৃষ্ঠা সূচীবদ্ধ কৰি প্ৰশ্নৰ উত্তৰ দিয়ে। ক্ৰম আৰু ফায়াৰফক্সে ফল দেখুওৱা ব্ৰাউজাৰ।"
+    }
+  },
+  {
+    "id": "computer-098",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "The number of bits in an IPv6 address is",
+      "as": "IPv6 ঠিকনাত থকা বিটৰ সংখ্যা"
+    },
+    "options": [
+      {
+        "en": "128",
+        "as": "১২৮"
+      },
+      {
+        "en": "32",
+        "as": "৩২"
+      },
+      {
+        "en": "64",
+        "as": "৬৪"
+      },
+      {
+        "en": "256",
+        "as": "২৫৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "IPv6 uses 128 bits, giving an enormous address space. IPv4 uses only 32 bits, which is why addresses ran short.",
+      "as": "IPv6 এ ১২৮ বিট ব্যৱহাৰ কৰে, সেয়ে বিশাল ঠিকনা স্থান। IPv4 ত কেবল ৩২ বিট, সেয়ে ঠিকনা কমি গৈছিল।"
+    }
+  },
+  {
+    "id": "computer-099",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "A unique hardware address burned into a network card is called the",
+      "as": "নেটৱৰ্ক কাৰ্ডত সোমাই থকা অদ্বিতীয় হাৰ্ডৱেৰ ঠিকনাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "MAC address",
+        "as": "MAC ঠিকনা"
+      },
+      {
+        "en": "IP address",
+        "as": "IP ঠিকনা"
+      },
+      {
+        "en": "port number",
+        "as": "প'ৰ্ট সংখ্যা"
+      },
+      {
+        "en": "domain name",
+        "as": "ডমেইন নাম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The media access control address is fixed at manufacture. An IP address is assigned and can change.",
+      "as": "MAC ঠিকনা নিৰ্মাণতে স্থিৰ হয়। IP ঠিকনা দিয়া হয় আৰু সলনি হ'ব পাৰে।"
+    }
+  },
+  {
+    "id": "computer-100",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "Which cable is most commonly used for wired local networks?",
+      "as": "তাৰযুক্ত স্থানীয় নেটৱৰ্কত আটাই বেছি ব্যৱহৃত কেবল"
+    },
+    "options": [
+      {
+        "en": "twisted pair cable",
+        "as": "টুইষ্টেড পেয়াৰ কেবল"
+      },
+      {
+        "en": "coaxial cable",
+        "as": "ক'এক্সিয়েল কেবল"
+      },
+      {
+        "en": "fibre optic cable",
+        "as": "ফাইবাৰ অপটিক কেবল"
+      },
+      {
+        "en": "telephone wire",
+        "as": "টেলিফোন তাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Twisted pair with RJ-45 plugs is cheap and easy to install, so it dominates office wiring. Fibre is used for long runs.",
+      "as": "RJ-45 প্লাগযুক্ত টুইষ্টেড পেয়াৰ সস্তা আৰু সহজ, সেয়ে কাৰ্যালয়ত প্ৰধান। ফাইবাৰ দীঘল পথত ব্যৱহৃত।"
+    }
+  },
+  {
+    "id": "computer-101",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "The protocol used to send email is",
+      "as": "ইমেইল পঠিয়াবলৈ ব্যৱহৃত প্ৰট'কল"
+    },
+    "options": [
+      {
+        "en": "SMTP",
+        "as": "SMTP"
+      },
+      {
+        "en": "POP3",
+        "as": "POP3"
+      },
+      {
+        "en": "IMAP",
+        "as": "IMAP"
+      },
+      {
+        "en": "HTTP",
+        "as": "HTTP"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Simple mail transfer protocol sends mail from client to server. POP3 and IMAP are for retrieving it.",
+      "as": "SMTP এ ক্লায়েণ্টৰপৰা ছাৰ্ভাৰলৈ মেইল পঠিয়ায়। POP3 আৰু IMAP ইয়াক অনিবলৈ।"
+    }
+  },
+  {
+    "id": "computer-102",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "A web page address beginning with https indicates that",
+      "as": "https ৰে আৰম্ভ হোৱা ৱেব ঠিকনাই বুজায় যে"
+    },
+    "options": [
+      {
+        "en": "the connection is encrypted",
+        "as": "সংযোগ এনক্ৰিপ্ট কৰা আছে"
+      },
+      {
+        "en": "the site is government owned",
+        "as": "চাইট চৰকাৰৰ মালিকী"
+      },
+      {
+        "en": "the page is free of errors",
+        "as": "পৃষ্ঠা ত্ৰুটিমুক্ত"
+      },
+      {
+        "en": "the site needs no password",
+        "as": "চাইটলৈ পাছৱৰ্ড নালাগে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The s stands for secure, meaning traffic is encrypted with TLS. It says nothing about who owns the site.",
+      "as": "s ৰ অৰ্থ সুৰক্ষিত, অৰ্থাৎ তথ্য TLS ৰে এনক্ৰিপ্ট। চাইট কাৰ, তাক ই নকয়।"
+    }
+  },
+  {
+    "id": "computer-103",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "The device that connects a local network to the internet through a telephone line is a",
+      "as": "টেলিফোন লাইনৰে স্থানীয় নেটৱৰ্ক ইণ্টাৰনেটত জোড়া সজুলিটো"
+    },
+    "options": [
+      {
+        "en": "modem",
+        "as": "মডেম"
+      },
+      {
+        "en": "switch",
+        "as": "স্বিচ"
+      },
+      {
+        "en": "bridge",
+        "as": "ব্ৰিজ"
+      },
+      {
+        "en": "gateway",
+        "as": "গেটৱে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The modem converts between digital data and the signals the line carries. A switch only links local ports.",
+      "as": "মডেমে ডিজিটেল তথ্য আৰু লাইনে কঢ়িয়া যোৱা সংকেতৰ মাজত সলায়। স্বিচে কেবল স্থানীয় প'ৰ্ট জোড়ে।"
+    }
+  },
+  {
+    "id": "computer-104",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "Which topology connects every device to a single central device?",
+      "as": "কোন ট'প'লজিয়ে প্ৰতিটো সজুলি এটা কেন্দ্ৰীয় সজুলিৰ সৈতে জোড়ে"
+    },
+    "options": [
+      {
+        "en": "star",
+        "as": "ষ্টাৰ"
+      },
+      {
+        "en": "ring",
+        "as": "ৰিং"
+      },
+      {
+        "en": "bus",
+        "as": "বাছ"
+      },
+      {
+        "en": "mesh",
+        "as": "মেশ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In a star every node has its own link to the hub or switch, so one cable failure affects only that node. A ring passes data node to node.",
+      "as": "ষ্টাৰত প্ৰতিটো ন'ডৰ নিজৰ সংযোগ হাব বা স্বিচলৈ, সেয়ে এটা কেবল নষ্ট হ'লে কেবল সেই ন'ড ক্ষতিগ্ৰস্ত। ৰিঙত তথ্য ন'ডে ন'ডে যায়।"
+    }
+  },
+  {
+    "id": "computer-105",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "The full form of DNS is",
+      "as": "DNS ৰ সম্পূৰ্ণ ৰূপ"
+    },
+    "options": [
+      {
+        "en": "Domain Name System",
+        "as": "Domain Name System"
+      },
+      {
+        "en": "Digital Network Service",
+        "as": "Digital Network Service"
+      },
+      {
+        "en": "Data Node Server",
+        "as": "Data Node Server"
+      },
+      {
+        "en": "Direct Name Search",
+        "as": "Direct Name Search"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The domain name system turns a name such as axomexam.in into the numeric address the network needs.",
+      "as": "DNS এ axomexam.in ৰ দৰে নামক নেটৱৰ্কই প্ৰয়োজনীয় সংখ্যা ঠিকনালৈ সলায়।"
+    }
+  },
+  {
+    "id": "computer-106",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "Which of the following is a wireless networking technology?",
+      "as": "তলৰ কোনটো বেতাঁৰ নেটৱৰ্কিং প্ৰযুক্তি"
+    },
+    "options": [
+      {
+        "en": "Wi-Fi",
+        "as": "ৱাই-ফাই"
+      },
+      {
+        "en": "Ethernet",
+        "as": "ইথাৰনেট"
+      },
+      {
+        "en": "USB",
+        "as": "USB"
+      },
+      {
+        "en": "HDMI",
+        "as": "HDMI"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Wi-Fi carries data over radio waves. Ethernet needs cable, and USB and HDMI are short range device links.",
+      "as": "ৱাই-ফাইয়ে ৰেডিঅ' তৰংগেৰে তথ্য নিয়ে। ইথাৰনেটলৈ কেবল লাগে, আৰু USB তথা HDMI চমু দূৰত্বৰ সংযোগ।"
+    }
+  },
+  {
+    "id": "computer-107",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "A collection of web pages belonging to one organisation is called a",
+      "as": "এটা সংস্থাৰ অন্তৰ্গত ৱেব পৃষ্ঠাৰ সমষ্টিক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "website",
+        "as": "ৱেবচাইট"
+      },
+      {
+        "en": "web browser",
+        "as": "ৱেব ব্ৰাউজাৰ"
+      },
+      {
+        "en": "search engine",
+        "as": "সন্ধান ইঞ্জিন"
+      },
+      {
+        "en": "home page only",
+        "as": "কেৱল হোম পেজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A website is the whole set of pages. A home page is only its first page, and a browser is the program used to view it.",
+      "as": "ৱেবচাইট গোটেই পৃষ্ঠাৰ সমষ্টি। হোম পেজ কেবল প্ৰথম পৃষ্ঠা, আৰু ব্ৰাউজাৰ চোৱা প্ৰগ্ৰাম।"
+    }
+  },
+  {
+    "id": "computer-108",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "Bandwidth of a network connection is measured in",
+      "as": "নেটৱৰ্ক সংযোগৰ বেণ্ডৱিথ কিৰে জোখা হয়"
+    },
+    "options": [
+      {
+        "en": "bits per second",
+        "as": "প্ৰতি ছেকেণ্ডত বিট"
+      },
+      {
+        "en": "hertz per metre",
+        "as": "প্ৰতি মিটাৰত হাৰ্টজ"
+      },
+      {
+        "en": "bytes per metre",
+        "as": "প্ৰতি মিটাৰত বাইট"
+      },
+      {
+        "en": "cycles per minute",
+        "as": "প্ৰতি মিনিটত চক্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bandwidth counts how many bits can flow each second, so it is quoted in megabits per second. Storage is measured in bytes.",
+      "as": "বেণ্ডৱিথে প্ৰতি ছেকেণ্ডত কিমান বিট যাব পাৰে গণে, সেয়ে মেগাবিট প্ৰতি ছেকেণ্ডত দিয়া হয়। সঞ্চয় বাইটত জোখা হয়।"
+    }
+  },
+  {
+    "id": "computer-109",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "A small text file stored by a website on your computer is called a",
+      "as": "ৱেবচাইটে আপোনাৰ কম্পিউটাৰত ৰখা সৰু লিখা ফাইলটোক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "cookie",
+        "as": "কুকি"
+      },
+      {
+        "en": "cache",
+        "as": "কেশ্ব"
+      },
+      {
+        "en": "plugin",
+        "as": "প্লাগইন"
+      },
+      {
+        "en": "script",
+        "as": "স্ক্ৰিপ্ট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A cookie remembers state such as a login or a cart between visits. A cache stores copies of pages for speed.",
+      "as": "কুকিয়ে লগইন বা কাৰ্টৰ দৰে অৱস্থা পৰৱৰ্তী ভ্ৰমণলৈ মনত ৰাখে। কেশ্বে দ্ৰুততাৰ বাবে পৃষ্ঠাৰ নকল ৰাখে।"
+    }
+  },
+  {
+    "id": "computer-110",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "Which of the following is an example of a web browser?",
+      "as": "তলৰ কোনটো ৱেব ব্ৰাউজাৰৰ উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "Mozilla Firefox",
+        "as": "ম'জিলা ফায়াৰফক্স"
+      },
+      {
+        "en": "Windows 10",
+        "as": "উইণ্ড'জ ১০"
+      },
+      {
+        "en": "MS Excel",
+        "as": "MS এক্সেল"
+      },
+      {
+        "en": "Linux",
+        "as": "লিনাক্স"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Firefox fetches and renders web pages. Windows and Linux are operating systems and Excel is a spreadsheet.",
+      "as": "ফায়াৰফক্সে ৱেব পৃষ্ঠা আনি দেখুৱায়। উইণ্ড'জ আৰু লিনাক্স অপাৰেটিং চিষ্টেম আৰু এক্সেল স্প্ৰেডশ্বীট।"
+    }
+  },
+  {
+    "id": "computer-111",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "The protocol used to assign IP addresses automatically on a network is",
+      "as": "নেটৱৰ্কত স্বয়ংক্ৰিয়ভাৱে IP ঠিকনা দিয়া প্ৰট'কল"
+    },
+    "options": [
+      {
+        "en": "DHCP",
+        "as": "DHCP"
+      },
+      {
+        "en": "DNS",
+        "as": "DNS"
+      },
+      {
+        "en": "FTP",
+        "as": "FTP"
+      },
+      {
+        "en": "SNMP",
+        "as": "SNMP"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dynamic host configuration protocol hands out addresses as devices join. DNS resolves names, not addresses.",
+      "as": "DHCP এ সজুলি যোগ দিয়েই ঠিকনা দিয়ে। DNS এ নাম সমাধান কৰে, ঠিকনা নহয়।"
+    }
+  },
+  {
+    "id": "computer-112",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "A network in which one computer acts as a central server for others is called",
+      "as": "এটা কম্পিউটাৰে আনৰ বাবে কেন্দ্ৰীয় ছাৰ্ভাৰ হোৱা নেটৱৰ্কক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "client-server network",
+        "as": "ক্লায়েণ্ট-ছাৰ্ভাৰ নেটৱৰ্ক"
+      },
+      {
+        "en": "peer-to-peer network",
+        "as": "পিয়াৰ-টু-পিয়াৰ নেটৱৰ্ক"
+      },
+      {
+        "en": "standalone system",
+        "as": "অকলশৰীয়া চিষ্টেম"
+      },
+      {
+        "en": "intranet only",
+        "as": "কেৱল ইণ্ট্ৰানেট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In a client-server model the server holds shared files and services. Peer-to-peer has no dedicated server.",
+      "as": "ক্লায়েণ্ট-ছাৰ্ভাৰ আৰ্হিত ছাৰ্ভাৰে ভাগ কৰা ফাইল আৰু সেৱা ৰাখে। পিয়াৰ-টু-পিয়াৰত সুকীয়া ছাৰ্ভাৰ নাই।"
+    }
+  },
+  {
+    "id": "computer-113",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "The main function of a firewall is to",
+      "as": "ফায়াৰৱালৰ মূল কাম হ'ল"
+    },
+    "options": [
+      {
+        "en": "block unauthorised network traffic",
+        "as": "অননুমোদিত নেটৱৰ্ক তথ্য অহা-যোৱা ৰোধ কৰা"
+      },
+      {
+        "en": "speed up the internet",
+        "as": "ইণ্টাৰনেট দ্ৰুত কৰা"
+      },
+      {
+        "en": "store web pages",
+        "as": "ৱেব পৃষ্ঠা ৰখা"
+      },
+      {
+        "en": "assign IP addresses",
+        "as": "IP ঠিকনা দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A firewall inspects traffic against rules and drops what is not allowed. Speeding up traffic is not its purpose.",
+      "as": "ফায়াৰৱালে নিয়মৰ সৈতে তথ্য পৰীক্ষা কৰি অননুমোদিত বাদ দিয়ে। গতি বঢ়োৱা তাৰ উদ্দেশ্য নহয়।"
+    }
+  },
+  {
+    "id": "computer-114",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "Which of the following best describes the internet?",
+      "as": "তলৰ কোনটোৱে ইণ্টাৰনেট ভালদৰে বৰ্ণনা কৰে"
+    },
+    "options": [
+      {
+        "en": "a global network of interconnected networks",
+        "as": "জড়িত নেটৱৰ্কৰ বিশ্বব্যাপী নেটৱৰ্ক"
+      },
+      {
+        "en": "a single large computer",
+        "as": "এটা ডাঙৰ কম্পিউটাৰ"
+      },
+      {
+        "en": "a software program",
+        "as": "এটা ছফ্টৱেৰ প্ৰগ্ৰাম"
+      },
+      {
+        "en": "a type of cable",
+        "as": "এবিধ কেবল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The internet is a network of networks joined by common protocols. The web is one service running on it.",
+      "as": "ইণ্টাৰনেট সাধাৰণ প্ৰট'কলৰে জড়িত নেটৱৰ্কৰ নেটৱৰ্ক। ৱেব তাৰ ওপৰত চলা এটা সেৱা।"
+    }
+  },
+  {
+    "id": "computer-115",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "The transfer of a file from a remote server to your computer is called",
+      "as": "দূৰৰ ছাৰ্ভাৰৰপৰা আপোনাৰ কম্পিউটাৰলৈ ফাইল অনাক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "downloading",
+        "as": "ডাউনলোডিং"
+      },
+      {
+        "en": "uploading",
+        "as": "আপলোডিং"
+      },
+      {
+        "en": "browsing",
+        "as": "ব্ৰাউজিং"
+      },
+      {
+        "en": "streaming",
+        "as": "ষ্ট্ৰিমিং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Downloading brings a file towards you, uploading sends it away. Streaming plays while it arrives.",
+      "as": "ডাউনলোডিঙে ফাইল আপোনাৰ ফালে আনে, আপলোডিঙে পঠিয়ায়। ষ্ট্ৰিমিঙে অহা অহা বজায়।"
+    }
+  },
+  {
+    "id": "computer-116",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "Which of the following is a valid example of a domain name?",
+      "as": "তলৰ কোনটো ডমেইন নামৰ শুদ্ধ উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "axomexam.in",
+        "as": "axomexam.in"
+      },
+      {
+        "en": "192.168.0.1",
+        "as": "192.168.0.1"
+      },
+      {
+        "en": "ftp://files",
+        "as": "ftp://files"
+      },
+      {
+        "en": "00:1A:2B:3C:4D:5E",
+        "as": "00:1A:2B:3C:4D:5E"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A domain name is readable text ending in a top level domain such as in or com. The others are an IP address, a URL and a MAC address.",
+      "as": "ডমেইন নাম পঢ়িব পৰা লিখা যি in বা com ৰ দৰে শীৰ্ষ স্তৰত শেষ হয়। বাকীবোৰ IP ঠিকনা, URL আৰু MAC ঠিকনা।"
+    }
+  },
+  {
+    "id": "computer-117",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "A network that is private to an organisation but uses internet technology is called an",
+      "as": "সংস্থাৰ ভিতৰত ব্যক্তিগত কিন্তু ইণ্টাৰনেট প্ৰযুক্তি ব্যৱহাৰ কৰা নেটৱৰ্কক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "intranet",
+        "as": "ইণ্ট্ৰানেট"
+      },
+      {
+        "en": "extranet only",
+        "as": "কেৱল এক্সট্ৰানেট"
+      },
+      {
+        "en": "internet",
+        "as": "ইণ্টাৰনেট"
+      },
+      {
+        "en": "WAN",
+        "as": "WAN"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An intranet is internal and closed to outsiders. An extranet extends part of it to trusted partners.",
+      "as": "ইণ্ট্ৰানেট ভিতৰুৱা আৰু বাহিৰৰ বাবে বন্ধ। এক্সট্ৰানেটে তাৰ অংশ বিশ্বাসী অংশীদাৰলৈ মেলি দিয়ে।"
+    }
+  },
+  {
+    "id": "computer-118",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "The maximum data rate of a network is usually expressed in",
+      "as": "নেটৱৰ্কৰ সৰ্বোচ্চ তথ্য হাৰ সাধাৰণতে কিৰে প্ৰকাশ কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "megabits per second",
+        "as": "প্ৰতি ছেকেণ্ডত মেগাবিট"
+      },
+      {
+        "en": "megabytes per hour",
+        "as": "প্ৰতি ঘণ্টাত মেগাবাইট"
+      },
+      {
+        "en": "megahertz",
+        "as": "মেগাহাৰ্টজ"
+      },
+      {
+        "en": "megapixels",
+        "as": "মেগাপিক্সেল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Data rates count bits, so speeds are quoted in Mbps. Confusing bits with bytes makes a figure look eight times larger.",
+      "as": "তথ্য হাৰে বিট গণে, সেয়ে গতি Mbps ত দিয়া হয়। বিট আৰু বাইট মিলাই দিলে সংখ্যা আঠ গুণ ডাঙৰ দেখা যায়।"
+    }
+  },
+  {
+    "id": "computer-119",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "Which service converts a human readable web address into an IP address?",
+      "as": "মানুহে পঢ়িব পৰা ৱেব ঠিকনা IP ঠিকনালৈ সলনি কৰা সেৱাটো"
+    },
+    "options": [
+      {
+        "en": "DNS",
+        "as": "DNS"
+      },
+      {
+        "en": "DHCP",
+        "as": "DHCP"
+      },
+      {
+        "en": "FTP",
+        "as": "FTP"
+      },
+      {
+        "en": "SMTP",
+        "as": "SMTP"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The domain name system is the internet's directory, matching names to numbers. DHCP assigns addresses instead.",
+      "as": "DNS ইণ্টাৰনেটৰ তালিকা, নামক সংখ্যাৰ সৈতে মিলায়। DHCP এ ঠিকনা দিয়ে।"
+    }
+  },
+  {
+    "id": "computer-120",
+    "leaf": "networking-internet",
+    "q": {
+      "en": "In a bus topology, all devices share",
+      "as": "বাছ ট'প'লজিত সকলো সজুলিয়ে ভাগ কৰে"
+    },
+    "options": [
+      {
+        "en": "a single common cable",
+        "as": "এটা সাধাৰণ কেবল"
+      },
+      {
+        "en": "a central switch",
+        "as": "এটা কেন্দ্ৰীয় স্বিচ"
+      },
+      {
+        "en": "separate links to every other device",
+        "as": "প্ৰতিটো সজুলিলৈ সুকীয়া সংযোগ"
+      },
+      {
+        "en": "a wireless channel only",
+        "as": "কেৱল বেতাঁৰ বাহক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "One backbone cable serves every node, so a break stops the whole segment. A star uses a central switch instead.",
+      "as": "এটা মূল কেবলে প্ৰতিটো ন'ডলৈ সেৱা দিয়ে, সেয়ে ভাঙিলে গোটেই খণ্ড বন্ধ। ষ্টাৰত কেন্দ্ৰীয় স্বিচ ব্যৱহৃত।"
+    }
+  }
+]

@@ -102,6 +102,16 @@ const LEGACY_BANKS = [
   ["numerical-aptitude", "data-combinatorics", ["numerical-aptitude", "data-combinatorics"], [
     "statistics", "data-interpretation", "permutation-combination", "probability",
   ]],
+  ["technical-science", "computer-awareness", ["technical-science", "computer-awareness"], [
+    "computer-fundamentals", "hardware-software", "ms-office", "networking-internet",
+    "cyber-security", "dbms-number-system",
+  ]],
+  ["technical-science", "nursing-paramedical", ["technical-science", "nursing-paramedical"], [
+    "fundamentals-nursing", "community-health-nursing", "medical-surgical-nursing",
+    "maternal-child-health", "pharmacology", "lab-technology", "radiography-imaging",
+    "physiotherapy-rehabilitation", "hospital-infection-control", "first-aid-emergency",
+    "medical-terminology", "health-programmes-assam",
+  ]],
 ];
 
 /* ---- classification rules, first match wins ---- */
