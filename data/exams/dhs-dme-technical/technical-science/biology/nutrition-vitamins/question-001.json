@@ -913,5 +913,160 @@
       "en": "Rice, wheat and millets supply most of the carbohydrate and therefore most of the calories. Pulses give protein, leafy vegetables vitamins and minerals, and fruit sugars and vitamins.",
       "as": "ধান, গম আৰু শস্যই বেছিভাগ শৰ্কৰা আৰু সেয়ে বেছিভাগ কেলৰি যোগায়। ডাইলে প্ৰ'টিন, শাকত ভিটামিন আৰু খনিজ, আৰু ফলত শৰ্কৰা তথা ভিটামিন থাকে।"
     }
+  },
+  {
+    "id": "biology-384",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "A diet rich in polished rice and poor in pulses leads to beriberi because milling removes",
+      "as": "পালিচ কৰা চাউল বেছি আৰু ডাইল কম থকা খাদ্যই বেৰিবেৰি কৰে কাৰণ মিলিঙত কি আঁতৰে"
+    },
+    "options": [
+      {
+        "en": "the thiamine rich bran and germ",
+        "as": "থায়ামিনযুক্ত বাহিৰৰ আৱৰণ আৰু ভ্ৰূণ"
+      },
+      {
+        "en": "the starch of the endosperm",
+        "as": "এণ্ড'স্পাৰ্মৰ ষ্টাৰ্চ"
+      },
+      {
+        "en": "the cellulose of the husk only",
+        "as": "কেৱল বাকলিৰ চেলুল'জ"
+      },
+      {
+        "en": "the water soluble protein",
+        "as": "পানীত দ্ৰৱনীয় প্ৰ'টিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Thiamine sits in the bran and germ, which polishing strips away, so the remaining endosperm is largely starch. The starch itself is not the problem; the lost vitamin is.",
+      "as": "থায়ামিন বাহিৰৰ আৱৰণ আৰু ভ্ৰূণত থাকে, যি পালিচত আঁতৰে, সেয়ে বাকী এণ্ড'স্পাৰ্ম প্ৰায় ষ্টাৰ্চ। ষ্টাৰ্চ সমস্যা নহয়, হেৰুওৱা ভিটামিনহে।"
+    }
+  },
+  {
+    "id": "biology-385",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Vitamin C is easily destroyed during cooking because it is",
+      "as": "ৰন্ধাৰ সময়ত ভিটামিন C সহজে নষ্ট হয় কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "fat soluble and heat stable",
+        "as": "চৰ্বিত দ্ৰৱনীয় আৰু তাপত স্থিৰ"
+      },
+      {
+        "en": "insoluble in water and stable in acid",
+        "as": "পানীত অদ্ৰৱনীয় আৰু অম্লত স্থিৰ"
+      },
+      {
+        "en": "destroyed only by freezing",
+        "as": "কেৱল জমাই ৰখাৰে নষ্ট"
+      },
+      {
+        "en": "water soluble, heat labile and oxidised by copper",
+        "as": "পানীত দ্ৰৱনীয়, তাপত অস্থিৰ আৰু তামেৰে জাৰিত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ascorbic acid leaches into cooking water, breaks down on heating and is oxidised by copper and iron utensils, so long boiling in an open copper vessel leaves very little. Fat soluble vitamins behave differently.",
+      "as": "এছকৰ্বিক এছিড ৰন্ধা পানীত উলিয়াই যায়, তাপত ভাঙে আৰু তামা-লোৰ পাত্ৰই জাৰিত কৰে, সেয়ে মুকলি তামাৰ পাত্ৰত দীঘলীয়া উতলালে খুব কম থাকে। চৰ্বিত দ্ৰৱনীয় ভিটামিন বেলেগ ধৰণে চলে।"
+    }
+  },
+  {
+    "id": "biology-386",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Night blindness in a child with dry conjunctiva and Bitot spots indicates deficiency of",
+      "as": "শুকান আখি আৰু বিট'ৰ দাগ থকা শিশুৰ ৰাতি অন্ধতাৰে কিৰ অভাৱ বুজায়"
+    },
+    "options": [
+      {
+        "en": "vitamin D",
+        "as": "ভিটামিন D"
+      },
+      {
+        "en": "vitamin E",
+        "as": "ভিটামিন E"
+      },
+      {
+        "en": "vitamin A",
+        "as": "ভিটামিন A"
+      },
+      {
+        "en": "vitamin B12",
+        "as": "ভিটামিন B12"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Retinol forms rhodopsin for dim light and maintains the epithelium, so lack gives night blindness, xerosis and Bitot spots. B12 lack causes megaloblastic anaemia and D lack causes rickets.",
+      "as": "ৰেটিন'লে কম পোহৰলৈ ৰড'পচিন বনায় আৰু উপকলা ৰক্ষা কৰে, সেয়ে অভাৱত ৰাতি অন্ধতা, জিৰ'ছিছ আৰু বিট'ৰ দাগ হয়। B12 ৰ অভাৱত মেগাল'ব্লাষ্টিক এনিমিয়া আৰু D ৰ অভাৱত ৰিকেটছ।"
+    }
+  },
+  {
+    "id": "biology-387",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "A strictly vegan diet without supplementation risks deficiency of vitamin B12 because",
+      "as": "পৰিপূৰক নোহোৱা কেৱল উদ্ভিদভিত্তিক খাদ্যত ভিটামিন B12 ৰ অভাৱৰ আশংকা কাৰণ"
+    },
+    "options": [
+      {
+        "en": "the vitamin is destroyed by sunlight",
+        "as": "ৰ'দে ভিটামিনটো নষ্ট কৰে"
+      },
+      {
+        "en": "the vitamin occurs naturally in animal foods and is made by gut bacteria",
+        "as": "ভিটামিনটো স্বাভাৱিকভাৱে প্ৰাণীজ খাদ্যত থাকে আৰু অন্ত্ৰৰ বেক্টেৰিয়াই বনায়"
+      },
+      {
+        "en": "plants contain an inhibitor of B12",
+        "as": "উদ্ভিদত B12 ৰ বাধাদায়ক থাকে"
+      },
+      {
+        "en": "cooking destroys all B12 in vegetables",
+        "as": "ৰন্ধাই শাক-পাচলিৰ সকলো B12 নষ্ট কৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cobalamin comes from animal sources and from bacteria, and plant foods do not supply a reliable amount. Deficiency causes megaloblastic anaemia and nerve damage.",
+      "as": "ক'বালামিন প্ৰাণীজ উৎস আৰু বেক্টেৰিয়াৰপৰা আহে, আৰু উদ্ভিদজ খাদ্যই নিৰ্ভৰযোগ্য পৰিমাণ নিদিয়ে। অভাৱত মেগাল'ব্লাষ্টিক এনিমিয়া আৰু স্নায়ু ক্ষতি হয়।"
+    }
+  },
+  {
+    "id": "biology-388",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Kwashiorkor and marasmus differ mainly because kwashiorkor is marked by",
+      "as": "কোৱাছিঅ'ৰকৰ আৰু মাৰাছমাছৰ মূল পাৰ্থক্য কি কাৰণ কোৱাছিঅ'ৰকৰত থাকে"
+    },
+    "options": [
+      {
+        "en": "oedema with relatively preserved calorie intake but low protein",
+        "as": "কেলৰি তুলনামূলকভাৱে ঠিক কিন্তু প্ৰ'টিন কম হোৱা অৱস্থাত ইডিমা"
+      },
+      {
+        "en": "severe wasting with no oedema",
+        "as": "ইডিমা নোহোৱাকৈ তীব্ৰ ক্ষয়"
+      },
+      {
+        "en": "excess protein intake",
+        "as": "অত্যধিক প্ৰ'টিন গ্ৰহণ"
+      },
+      {
+        "en": "vitamin C deficiency",
+        "as": "ভিটামিন C ৰ অভাৱ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In kwashiorkor protein is short while calories are near adequate, so albumin falls and oedema appears. Marasmus is global calorie deficiency with severe wasting and no oedema.",
+      "as": "কোৱাছিঅ'ৰকৰত প্ৰ'টিন কম কিন্তু কেলৰি প্ৰায় যথেষ্ট, সেয়ে এলবুমিন কমি ইডিমা হয়। মাৰাছমাছত মুঠ কেলৰিৰ অভাৱত তীব্ৰ ক্ষয় হয় আৰু ইডিমা নাথাকে।"
+    }
   }
 ]

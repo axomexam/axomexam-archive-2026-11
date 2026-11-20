@@ -948,5 +948,222 @@
       "en": "Klinefelter syndrome is an extra X chromosome, so the defect is in chromosome number. The other three are single-gene defects, sickle cell and phenylketonuria autosomal recessive and haemophilia X-linked recessive.",
       "as": "ক্লাইনফেল্টাৰ ছিণ্ড্ৰ'ম এটা অতিৰিক্ত X ক্ৰ'ম'জ'ম, সেয়ে ত্ৰুটিটো ক্ৰ'ম'জ'ম সংখ্যাত। বাকী তিনিটা এক-জিন ত্ৰুটি — কাঁইটীয়া কোষ আৰু ফিনাইলকিট'নিউৰিয়া অট'ছ'মেল অৱশিষ্টাশ্ৰয়ী, হিম'ফিলিয়া X-সংযুক্ত অৱশিষ্টাশ্ৰয়ী।"
     }
+  },
+  {
+    "id": "biology-364",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "A carrier mother and an unaffected father have children. The expected pattern for a sex-linked recessive disease is",
+      "as": "বাহক মাক আৰু অক্ষত পিতাৰ সন্তানত যৌন-সংলগ্ন অৱশিষ্ট ৰোগৰ আশা কৰা আৰ্হি"
+    },
+    "options": [
+      {
+        "en": "half the sons affected, half the daughters carriers",
+        "as": "আধা পুত্ৰ ৰোগী, আধা কন্যা বাহক"
+      },
+      {
+        "en": "all sons affected, all daughters carriers",
+        "as": "সকলো পুত্ৰ ৰোগী, সকলো কন্যা বাহক"
+      },
+      {
+        "en": "no child affected at all",
+        "as": "কোনো সন্তান ৰোগী নহয়"
+      },
+      {
+        "en": "all daughters affected, no son affected",
+        "as": "সকলো কন্যা ৰোগী, কোনো পুত্ৰ নহয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A son receives his single X from the mother, so half of them get the faulty copy and are affected. A daughter receives a healthy X from the father, so she cannot be affected but half become carriers.",
+      "as": "পুত্ৰই মাকৰপৰা অকলশৰীয়া X পায়, সেয়ে আধাই ত্ৰুটিপূৰ্ণ প্ৰতিলিপি পাই ৰোগী হয়। কন্যাই পিতাৰপৰা সুস্থ X পায়, সেয়ে ৰোগী নহয় কিন্তু আধা বাহক হয়।"
+    }
+  },
+  {
+    "id": "biology-365",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Sickle-cell anaemia results from the substitution of valine for glutamic acid at the sixth position of the beta chain. The level of protein structure directly altered is the",
+      "as": "ছিকল-চেল এনিমিয়া β শৃংখলৰ ষষ্ঠ স্থানত গ্লুটামিক এছিডৰ সলনি ভেলিন বহাৰপৰা হয়। পোনপটীয়াকৈ সলনি হোৱা প্ৰ'টিন গঠনৰ স্তৰ"
+    },
+    "options": [
+      {
+        "en": "secondary structure",
+        "as": "দ্বিতীয় গঠন"
+      },
+      {
+        "en": "tertiary structure",
+        "as": "তৃতীয় গঠন"
+      },
+      {
+        "en": "quaternary structure",
+        "as": "চতুৰ্থ গঠন"
+      },
+      {
+        "en": "primary structure",
+        "as": "প্ৰাথমিক গঠন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Primary structure is the sequence of amino acids, and one residue has been swapped, so that is the level changed first. Folding and assembly change later as a consequence.",
+      "as": "প্ৰাথমিক গঠন হ'ল এমিন' এছিডৰ ক্ৰম, আৰু এটা অৱশেষ সলনি হৈছে, সেয়ে প্ৰথমে সেই স্তৰেই সলনি। ভাঁ‌জ আৰু সংযোগ পিছত পৰিণাম হিচাপে সলনি হয়।"
+    }
+  },
+  {
+    "id": "biology-366",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "In a dihybrid cross between two heterozygotes, the ratio of offspring showing both dominant traits to those showing both recessive traits is",
+      "as": "দুটা বিষমযুগ্মৰ মাজত দ্বিহাইব্ৰিড ক্ৰছত দুয়োটা প্ৰভাৱী গুণ থকা আৰু দুয়োটা অৱশিষ্ট গুণ থকা সন্তানৰ অনুপাত"
+    },
+    "options": [
+      {
+        "en": "1 to 1",
+        "as": "১ ৰপৰা ১"
+      },
+      {
+        "en": "9 to 3",
+        "as": "৯ ৰপৰা ৩"
+      },
+      {
+        "en": "9 to 1",
+        "as": "৯ ৰপৰা ১"
+      },
+      {
+        "en": "3 to 1",
+        "as": "৩ ৰপৰা ১"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Independent assortment gives the 9:3:3:1 ratio, so both dominant is nine parts and both recessive is one. Three to one belongs to a monohybrid cross.",
+      "as": "স্বতন্ত্ৰ বিন্যাসে ৯:৩:৩:১ অনুপাত দিয়ে, সেয়ে দুয়ো প্ৰভাৱী ন অংশ আৰু দুয়ো অৱশিষ্ট এক অংশ। তিনিৰপৰা এক একহাইব্ৰিড ক্ৰছৰ।"
+    }
+  },
+  {
+    "id": "biology-367",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "A restriction endonuclease is used in biotechnology because it",
+      "as": "জীৱপ্ৰযুক্তিত ৰেস্ত্ৰিকচন এণ্ড'নিউক্লিয়েজ ব্যৱহৃত হয় কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "separates proteins by size",
+        "as": "আকাৰ অনুসৰি প্ৰ'টিন পৃথক কৰে"
+      },
+      {
+        "en": "cuts DNA at a specific palindromic sequence",
+        "as": "নিৰ্দিষ্ট পেলিনড্ৰ'মিক ক্ৰমত DNA কাটে"
+      },
+      {
+        "en": "joins two DNA fragments",
+        "as": "দুটা DNA খণ্ড জোড়ে"
+      },
+      {
+        "en": "copies DNA many times",
+        "as": "DNA বহুবাৰ নকল কৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The enzyme recognises a short symmetrical sequence and cuts there, which is what makes precise fragmenting possible. Joining is the work of ligase and copying is the work of polymerase.",
+      "as": "এনজাইমে চুটি সমমিত ক্ৰম চিনি তাত কাটে, সেয়ে নিখুঁত খণ্ড কৰা সম্ভৱ হয়। জোড়া লগোৱা লাইগেজৰ আৰু নকল কৰা পলিমাৰেজৰ কাম।"
+    }
+  },
+  {
+    "id": "biology-368",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Two populations of a species are separated by a river for many generations and later can no longer interbreed. This is an example of",
+      "as": "এটা প্ৰজাতিৰ দুটা জনগোষ্ঠী বহু প্ৰজন্ম নদীৰে পৃথক হৈ থাকি পিছত আন্তঃপ্ৰজনন কৰিব নোৱাৰা হ'ল। এইটো উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "allopatric speciation",
+        "as": "এল'পেট্ৰিক প্ৰজাতিকৰণ"
+      },
+      {
+        "en": "sympatric speciation",
+        "as": "ছিমপেট্ৰিক প্ৰজাতিকৰণ"
+      },
+      {
+        "en": "artificial selection",
+        "as": "কৃত্ৰিম নিৰ্বাচন"
+      },
+      {
+        "en": "convergent evolution",
+        "as": "অভিসৰণী বিবৰ্তন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A geographic barrier separates the groups, which is the definition of allopatric. Sympatric speciation happens without such a barrier, and artificial selection is driven by human choice.",
+      "as": "ভৌগোলিক বাধাই গোটবোৰ পৃথক কৰে, যি এল'পেট্ৰিকৰ সংজ্ঞা। ছিমপেট্ৰিক এনে বাধা নোহোৱাকৈ হয়, আৰু কৃত্ৰিম নিৰ্বাচন মানুহৰ বাছনিৰে চলে।"
+    }
+  },
+  {
+    "id": "biology-369",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The Hardy-Weinberg principle states that allele frequencies in a population stay constant only when",
+      "as": "হাৰ্ডি-ৱেইনবাৰ্গ নীতিয়ে কয় যে জনগোষ্ঠীত এলিলৰ কম্পনাংক স্থিৰ থাকে কেৱল যেতিয়া"
+    },
+    "options": [
+      {
+        "en": "selection is strong",
+        "as": "নিৰ্বাচন প্ৰবল"
+      },
+      {
+        "en": "mutation rate is high",
+        "as": "পৰিৱৰ্তনৰ হাৰ উচ্চ"
+      },
+      {
+        "en": "the population is very small",
+        "as": "জনগোষ্ঠী অতি সৰু"
+      },
+      {
+        "en": "there is no selection, mutation, migration or genetic drift and mating is random",
+        "as": "নিৰ্বাচন, পৰিৱৰ্তন, স্থানান্তৰ বা জিনীয় প্ৰবাহ নাই আৰু মিলন অনিয়মীয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The equilibrium holds only under the ideal conditions of no evolutionary force and random mating. Small populations drift, and strong selection or high mutation shifts frequencies by definition.",
+      "as": "ভাৰসাম্য কেৱল আদৰ্শ অৱস্থাত, য'ত কোনো বিবৰ্তনী বল নাই আৰু মিলন অনিয়মীয়া। সৰু জনগোষ্ঠীত প্ৰবাহ হয়, আৰু প্ৰবল নিৰ্বাচন বা উচ্চ পৰিৱৰ্তনে সংজ্ঞা অনুসৰি কম্পনাংক সলায়।"
+    }
+  },
+  {
+    "id": "biology-370",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "In a food chain of grass, grasshopper, frog, snake and hawk, the hawk occupies the",
+      "as": "ঘাঁ‌হ, ফৰিং, ভেকুলী, সাপ আৰু চিলনীৰ খাদ্য শৃংখলত চিলনীয়ে অধিকাৰ কৰে"
+    },
+    "options": [
+      {
+        "en": "third trophic level",
+        "as": "তৃতীয় ট্ৰফিক স্তৰ"
+      },
+      {
+        "en": "first trophic level",
+        "as": "প্ৰথম ট্ৰফিক স্তৰ"
+      },
+      {
+        "en": "fifth trophic level",
+        "as": "পঞ্চম ট্ৰফিক স্তৰ"
+      },
+      {
+        "en": "second trophic level",
+        "as": "দ্বিতীয় ট্ৰফিক স্তৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Grass is the producer at level one, and each consumer step adds a level, so the hawk feeding on the snake is at the fifth. The first level always belongs to the producer.",
+      "as": "ঘাঁ‌হ প্ৰথম স্তৰৰ উৎপাদক, আৰু প্ৰতিটো উপভোক্তা খোজে স্তৰ বঢ়ায়, সেয়ে সাপ খোৱা চিলনী পঞ্চমত। প্ৰথম স্তৰ সদায় উৎপাদকৰ।"
+    }
   }
 ]

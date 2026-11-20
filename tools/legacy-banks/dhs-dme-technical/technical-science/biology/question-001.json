@@ -10647,5 +10647,1555 @@
       "en": "Filariasis is carried from person to person by the Culex mosquito, so the worm needs a vector. Typhoid is water-borne, tetanus comes from soil and measles spreads by air.",
       "as": "ফাইলেৰিয়া কিউলেক্স মশাৰ জৰিয়তে এজনৰপৰা আনজনলৈ যায়, সেয়ে কৃমিটোৰ বাহক লাগে। টাইফইড পানীৰ, ধনুষ্টংকাৰ মাটিৰ আৰু সৰু আই বায়ুৰ।"
     }
+  },
+  {
+    "id": "biology-350",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "A red blood cell placed in distilled water swells and bursts, but the same cell in 0.9 per cent saline keeps its shape. The property of the membrane that explains both observations is",
+      "as": "পাতিত পানীত ৰখা লোহিত ৰক্তকণিকা ওফন্দি ফাটি যায়, কিন্তু ০.৯ শতাংশ লুণীয়া পানীত একেই কোষে আকাৰ ৰাখে। দুয়োটা পৰ্যবেক্ষণ ব্যাখ্যা কৰা ঝিল্লীৰ ধৰ্মটো"
+    },
+    "options": [
+      {
+        "en": "rigid crystalline structure",
+        "as": "কঠিন স্ফটিক গঠন"
+      },
+      {
+        "en": "active rejection of all ions",
+        "as": "সকলো আয়ন সক্ৰিয়ভাৱে প্ৰত্যাখ্যান"
+      },
+      {
+        "en": "selective permeability",
+        "as": "নিৰ্বাচিত ভেদ্যতা"
+      },
+      {
+        "en": "complete impermeability",
+        "as": "সম্পূৰ্ণ অভেদ্যতা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The bilayer lets water cross freely but restricts solute movement, so water follows its concentration gradient. In distilled water there is no solute outside, water enters and the cell bursts; in isotonic saline the movement balances. A completely impermeable membrane would never swell at all.",
+      "as": "দ্বিস্তৰে পানীক মুকলিকৈ যাব দিয়ে কিন্তু দ্ৰৱক ৰোধ কৰে, সেয়ে পানীয়ে ঘনত্বৰ ঢাল অনুসৰি চলে। পাতিত পানীত বাহিৰত দ্ৰৱক নাই, পানী সোমাই কোষ ফাটে; সমপৰিসৰীয় লুণীয়া পানীত চলাচল সমান হয়। সম্পূৰ্ণ অভেদ্য ঝিল্লী কেতিয়াও নুফুলে।"
+    }
+  },
+  {
+    "id": "biology-351",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "A liver cell poisoned with carbon tetrachloride loses the organelle that carries catalase and oxidase, and hydrogen peroxide begins to accumulate. The damaged organelle is the",
+      "as": "কাৰ্বন টেট্ৰাক্ল'ৰাইডে বিষাক্ত কৰা যকৃত কোষে কেটেলেজ আৰু অক্সিডেজ থকা অংগাণু হেৰুৱায়, আৰু হাইড্ৰ'জেন পাৰঅক্সাইড জমিবলৈ ধৰে। ক্ষতিগ্ৰস্ত অংগাণুটো"
+    },
+    "options": [
+      {
+        "en": "Golgi body",
+        "as": "গলগি বডি"
+      },
+      {
+        "en": "peroxisome",
+        "as": "পেৰক্সিছ'ম"
+      },
+      {
+        "en": "lysosome",
+        "as": "লাইছ'ছ'ম"
+      },
+      {
+        "en": "ribosome",
+        "as": "ৰাইব'ছ'ম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Catalase destroys hydrogen peroxide and oxidase generates it, and both belong to the peroxisome. The lysosome holds acid hydrolases for bulk digestion and the ribosome builds protein, so neither carries catalase as its defining enzyme.",
+      "as": "কেটেলেজে হাইড্ৰ'জেন পাৰঅক্সাইড নষ্ট কৰে আৰু অক্সিডেজে তাক উৎপন্ন কৰে, দুয়ো পেৰক্সিছ'মৰ। লাইছ'ছ'মত থুল-হজমৰ এছিড হাইড্ৰ'লেজ আৰু ৰাইব'ছ'মত প্ৰ'টিন নিৰ্মাণ, সেয়ে কোনোটোতে কেটেলেজ মূল এনজাইম নহয়।"
+    }
+  },
+  {
+    "id": "biology-352",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "During protein synthesis a cell is treated with a drug that blocks the large ribosomal subunit. The step that stops first is",
+      "as": "প্ৰ'টিন সংশ্লেষণত এটা ঔষধে ডাঙৰ ৰাইব'ছ'ম উপ-একক বন্ধ কৰিলে প্ৰথমে বন্ধ হোৱা খোজটো"
+    },
+    "options": [
+      {
+        "en": "peptide bond formation between amino acids",
+        "as": "এমিন' এছিডৰ মাজত পেপ্টাইড বান্ধনি গঠন"
+      },
+      {
+        "en": "transcription of DNA into mRNA",
+        "as": "DNA ৰপৰা mRNA লৈ অনুলিপন"
+      },
+      {
+        "en": "amino acid activation by tRNA",
+        "as": "tRNA দ্বাৰা এমিন' এছিড সক্ৰিয়কৰণ"
+      },
+      {
+        "en": "transport of mRNA out of the nucleus",
+        "as": "নিউক্লিয়াছৰপৰা mRNA ৰ পৰিবহন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The peptidyl transferase activity sits on the large subunit, so blocking it stops the chain from growing. Transcription happens in the nucleus and tRNA charging happens in the cytoplasm, both before the ribosome is engaged.",
+      "as": "পেপ্টিডিল ট্ৰান্সফেৰেজ ক্ৰিয়া ডাঙৰ উপ-এককত থাকে, সেয়ে বন্ধ কৰিলে শৃংখল বাঢ়িব নোৱাৰে। অনুলিপন নিউক্লিয়াছত আৰু tRNA ভৰ্তি চাইট'প্লাজমত হয়, দুয়ো ৰাইব'ছ'ম জড়িত হোৱাৰ আগতে।"
+    }
+  },
+  {
+    "id": "biology-353",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "A cell that secretes large quantities of digestive enzyme would be expected to show an abundance of",
+      "as": "বহুত পৰিমাণে পাচক এনজাইম নিঃসৰণ কৰা কোষত কি বেছি পৰিমাণে থকা বুলি আশা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "smooth endoplasmic reticulum only",
+        "as": "কেৱল স্মুথ এণ্ড'প্লাজমিক ৰেটিকুলাম"
+      },
+      {
+        "en": "large central vacuoles",
+        "as": "ডাঙৰ কেন্দ্ৰীয় ৰিক্ত স্থান"
+      },
+      {
+        "en": "numerous chloroplasts",
+        "as": "অসংখ্য ক্ল'ৰ'প্লাষ্ট"
+      },
+      {
+        "en": "rough endoplasmic reticulum and Golgi bodies",
+        "as": "ৰাফ এণ্ড'প্লাজমিক ৰেটিকুলাম আৰু গলগি বডি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Secretory protein is folded in the rough reticulum and then sorted and packed by the Golgi. The smooth reticulum makes lipids and steroids, so it does not handle a protein export load.",
+      "as": "নিঃসৰিত প্ৰ'টিন ৰাফ ৰেটিকুলামত ভাঁ‌জ হয় আৰু গলগিয়ে শ্ৰেণীবদ্ধ কৰি পেক কৰে। স্মুথ ৰেটিকুলামে লিপিড আৰু ষ্টেৰয়ড বনায়, সেয়ে প্ৰ'টিন ৰপ্তানিৰ ভাৰ নলয়।"
+    }
+  },
+  {
+    "id": "biology-354",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "In a plant cell, water enters the central vacuole and the cell becomes turgid. The pressure that builds and presses the protoplast against the wall is called",
+      "as": "উদ্ভিদ কোষত পানী কেন্দ্ৰীয় ৰিক্ত স্থানত সোমাই কোষ টান হয়। প্ৰ'ট'প্লাষ্টক বেৰৰ বিৰুদ্ধে হেঁ‌চা দিয়া চাপটো"
+    },
+    "options": [
+      {
+        "en": "wall pressure in the opposite direction",
+        "as": "বিপৰীত দিশত বেৰৰ চাপ"
+      },
+      {
+        "en": "diffusion pressure deficit",
+        "as": "বিস্তাৰ চাপ ঘাটি"
+      },
+      {
+        "en": "turgor pressure",
+        "as": "টাৰ্গৰ চাপ"
+      },
+      {
+        "en": "osmotic potential only",
+        "as": "কেৱল অছিম'টিক বিভৱ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Turgor pressure is the hydrostatic pressure inside the cell pushing outward on the wall. Osmotic potential is a tendency of water to move, not a physical pressure, and wall pressure pushes inward as the reaction.",
+      "as": "টাৰ্গৰ চাপ হ'ল কোষৰ ভিতৰৰ দ্ৰৱচাপ যি বেৰৰ ওপৰত বাহিৰলৈ হেঁ‌চে। অছিম'টিক বিভৱ পানী চলাৰ প্ৰৱণতা, ভৌতিক চাপ নহয়, আৰু বেৰৰ চাপ প্ৰতিক্ৰিয়া হিচাপে ভিতৰলৈ হেঁ‌চে।"
+    }
+  },
+  {
+    "id": "biology-355",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A patient's stroke volume is 70 mL and the heart rate is 75 beats per minute. The cardiac output is",
+      "as": "ৰোগীৰ ষ্ট্ৰ'ক ভলিউম ৭০ মি.লি. আৰু হৃদয়ৰ গতি প্ৰতি মিনিটত ৭৫। হৃদয়ৰ উৎপাদন"
+    },
+    "options": [
+      {
+        "en": "0.53 litres per minute",
+        "as": "প্ৰতি মিনিটত ০.৫৩ লিটাৰ"
+      },
+      {
+        "en": "5.25 litres per minute",
+        "as": "প্ৰতি মিনিটত ৫.২৫ লিটাৰ"
+      },
+      {
+        "en": "1.05 litres per minute",
+        "as": "প্ৰতি মিনিটত ১.০৫ লিটাৰ"
+      },
+      {
+        "en": "52.5 litres per minute",
+        "as": "প্ৰতি মিনিটত ৫২.৫ লিটাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cardiac output is stroke volume multiplied by heart rate, so 70 mL times 75 gives 5250 mL, or 5.25 litres a minute, which is close to the normal resting value. Adding or dividing the two figures instead of multiplying them produces the wrong options.",
+      "as": "হৃদয়ৰ উৎপাদন = ষ্ট্ৰ'ক ভলিউম × হৃদয়ৰ গতি, সেয়ে ৭০ মি.লি. × ৭৫ = ৫২৫০ মি.লি., অৰ্থাৎ ৫.২৫ লিটাৰ, যি স্বাভাৱিক বিশ্ৰাম মানৰ ওচৰ। যোগ বা হৰণ কৰিলে ভুল উত্তৰ পোৱা যায়।"
+    }
+  },
+  {
+    "id": "biology-356",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "In the loop of Henle, a segment that is almost impermeable to water while it actively pumps sodium and chloride into the interstitium is responsible for diluting the tubular fluid. That segment is the",
+      "as": "হেনলী লুপত এনে এটা অংশ যি পানীলৈ প্ৰায় অভেদ্য কিন্তু ছডিয়াম আৰু ক্ল'ৰাইড সক্ৰিয়ভাৱে বাহিৰলৈ পাম্প কৰে আৰু নলীৰ তৰল পাতল কৰে। সেই অংশটো"
+    },
+    "options": [
+      {
+        "en": "thick ascending limb",
+        "as": "ডাঠ আৰোহী অংশ"
+      },
+      {
+        "en": "thin descending limb",
+        "as": "পাতল অৱৰোহী অংশ"
+      },
+      {
+        "en": "proximal convoluted tubule",
+        "as": "নিকট পৰ্যাবৃত্ত নলিকা"
+      },
+      {
+        "en": "collecting duct in the presence of ADH",
+        "as": "ADH থকা অৱস্থাত সংগ্ৰাহক নলী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The thick ascending limb removes solute without water, which is exactly what dilutes the fluid and builds the medullary salt gradient. The descending limb is water permeable, so it concentrates rather than dilutes.",
+      "as": "ডাঠ আৰোহী অংশই পানী নিয়াৰাশি দ্ৰৱক আঁতৰায়, সেয়ে তৰল পাতল হয় আৰু মজ্জাৰ লৱণ ঢাল গঢ়ে। অৱৰোহী অংশ পানী ভেদযোগ্য, সেয়ে ই পাতল নকৰি ঘন কৰে।"
+    }
+  },
+  {
+    "id": "biology-357",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A person hyperventilates for two minutes. The immediate change in the blood is a fall in",
+      "as": "এজন লোকে দুই মিনিট অতি দ্ৰুত উশাহ ল'লে তেজত লগে লগে কি কমে"
+    },
+    "options": [
+      {
+        "en": "oxygen, lowering the pH",
+        "as": "অক্সিজেন, যাৰ ফলত pH কমে"
+      },
+      {
+        "en": "bicarbonate with no pH change",
+        "as": "বাইকাৰ্বনেট, pH নসলনি"
+      },
+      {
+        "en": "lactic acid, lowering the pH",
+        "as": "লেক্টিক এছিড, যাৰ ফলত pH কমে"
+      },
+      {
+        "en": "carbon dioxide, raising the pH",
+        "as": "কাৰ্বন ডাইঅক্সাইড, যাৰ ফলত pH বাঢ়ে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Over-breathing washes out carbon dioxide faster than it is made, so the carbonic acid equilibrium shifts and the blood turns alkaline, which is why the person feels dizzy and tingles. Oxygen is already near saturation and does not drive the change.",
+      "as": "অতি উশাহে কাৰ্বন ডাইঅক্সাইড উৎপাদনতকৈ দ্ৰুত উলিয়ায়, সেয়ে কাৰ্বনিক এছিড ভাৰসাম্য সৰি তেজ ক্ষাৰকীয় হয়, যাৰ বাবে মূৰ ঘূৰে আৰু জুমি উঠে। অক্সিজেন ইতিমধ্যে প্ৰায় সম্পৃক্ত আৰু পৰিৱৰ্তন নকৰে।"
+    }
+  },
+  {
+    "id": "biology-358",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A fall in renal perfusion pressure causes the juxtaglomerular cells to release renin. The final hormone that holds sodium and water back is",
+      "as": "বৃক্কৰ ৰক্তস্ৰোতৰ চাপ কমিলে জাক্সটাগ্ল'মেৰুলাৰ কোষে ৰেনিন এৰে। ছডিয়াম আৰু পানী ধৰি ৰখা অন্তিম হৰম'নটো"
+    },
+    "options": [
+      {
+        "en": "angiotensinogen",
+        "as": "এঞ্জিঅ'টেনচিন'জেন"
+      },
+      {
+        "en": "atrial natriuretic peptide",
+        "as": "এট্ৰিয়েল নেট্ৰিউৰেটিক পেপ্টাইড"
+      },
+      {
+        "en": "aldosterone",
+        "as": "এলড'ষ্টেৰন"
+      },
+      {
+        "en": "renin itself",
+        "as": "ৰেনিন নিজেই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Renin starts the cascade and angiotensin converting enzyme makes angiotensin II, which triggers aldosterone from the adrenal cortex to reabsorb sodium and water. Renin is an enzyme, not the final hormone, and atrial peptide does the opposite.",
+      "as": "ৰেনিনে শৃংখল আৰম্ভ কৰে আৰু পৰিৱৰ্তনকাৰী এনজাইমে এঞ্জিঅ'টেনচিন II বনায়, যি এড্ৰিনেল কৰ্টেক্সৰপৰা এলড'ষ্টেৰন ওলাই ছডিয়াম-পানী পুনৰ্শোষণ কৰায়। ৰেনিন এনজাইম, অন্তিম হৰম'ন নহয়, আৰু এট্ৰিয়েল পেপ্টাইডে ওলোটা কাম কৰে।"
+    }
+  },
+  {
+    "id": "biology-359",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Type II alveolar cells are destroyed in a premature newborn. The immediate consequence is",
+      "as": "অকালজাত নৱজাতকত টাইপ II এলভিঅ'লাৰ কোষ নষ্ট হ'লে লগে লগে কি হয়"
+    },
+    "options": [
+      {
+        "en": "haemoglobin stops binding oxygen",
+        "as": "হিম'গ্লবিনে অক্সিজেন বান্ধিব নোৱাৰে"
+      },
+      {
+        "en": "alveoli collapse because surface tension is no longer lowered",
+        "as": "পৃষ্ঠ টান নকমাৰ বাবে এলভিঅ'লাই সংকুচিত হয়"
+      },
+      {
+        "en": "gas exchange stops because the surface area doubles",
+        "as": "পৃষ্ঠ ক্ষেত্ৰ দুগুণ হোৱাৰ বাবে গেছ বিনিময় বন্ধ হয়"
+      },
+      {
+        "en": "the airways fill with mucus",
+        "as": "বায়ুপথত শ্লেষ্মা ভৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Surfactant from type II cells lowers surface tension and keeps the alveoli open; without it the small alveoli collapse at the end of each breath. Type I cells form the diffusion surface, so losing them is a separate problem.",
+      "as": "টাইপ II কোষৰ ছাৰ্ফেক্টেণ্টে পৃষ্ঠ টান কমাই এলভিঅ'লাই খোলা ৰাখে; ই নাথাকিলে সৰু এলভিঅ'লাই প্ৰতিটো উশাহৰ শেষত সংকুচিত হয়। টাইপ I কোষে বিসৰণ পৃষ্ঠ গঢ়ে, সেয়ে তেওঁলোক হেৰুওৱাটো বেলেগ সমস্যা।"
+    }
+  },
+  {
+    "id": "biology-360",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A mountaineer at high altitude develops a higher red cell count over several weeks. The hormone responsible for this change is",
+      "as": "উচ্চ উচ্চতাত থকা পৰ্বতাৰোহীৰ কেইসপ্তাহত লোহিত কণিকা বাঢ়ে। এই পৰিৱৰ্তনৰ বাবে দায়ী হৰম'নটো"
+    },
+    "options": [
+      {
+        "en": "erythropoietin",
+        "as": "এৰিথ্ৰ'পয়েটিন"
+      },
+      {
+        "en": "insulin",
+        "as": "ইনচুলিন"
+      },
+      {
+        "en": "thyroxine",
+        "as": "থাইৰক্সিন"
+      },
+      {
+        "en": "cortisol",
+        "as": "কৰ্টিছল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Low oxygen tension is sensed by the kidney, which releases erythropoietin to stimulate red cell production in the marrow. Thyroxine raises metabolic rate and cortisol affects stress responses, but neither drives red cell mass.",
+      "as": "কম অক্সিজেন চাপ বৃক্কই অনুভৱ কৰি এৰিথ্ৰ'পয়েটিন এৰে, যিয়ে মজ্জাত লোহিত কণিকা উৎপাদন বঢ়ায়। থাইৰক্সিনে বিপাকীয় হাৰ বঢ়ায় আৰু কৰ্টিছলে চাপ প্ৰতিক্ৰিয়া নিয়ন্ত্ৰণ কৰে, কিন্তু কোনোটোৱেই লোহিত কণিকা নবঢ়ায়।"
+    }
+  },
+  {
+    "id": "biology-361",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A patient passes large volumes of dilute urine and is intensely thirsty. The most likely hormonal defect is a deficiency of",
+      "as": "ৰোগীয়ে বেছি পৰিমাণৰ পাতল মূত্ৰ ত্যাগ কৰে আৰু তীব্ৰ পিয়াহ অনুভৱ কৰে। আটাই সম্ভাৱ্য হৰম'নৰ অভাৱ"
+    },
+    "options": [
+      {
+        "en": "aldosterone",
+        "as": "এলড'ষ্টেৰন"
+      },
+      {
+        "en": "adrenaline",
+        "as": "এড্ৰিনেলিন"
+      },
+      {
+        "en": "glucagon",
+        "as": "গ্লুকাগন"
+      },
+      {
+        "en": "antidiuretic hormone",
+        "as": "এণ্টিডাইউৰেটিক হৰম'ন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Without antidiuretic hormone the collecting duct stays impermeable to water, so water is lost in urine and the thirst mechanism is triggered. Aldosterone loss would instead waste sodium and lower blood pressure.",
+      "as": "এণ্টিডাইউৰেটিক হৰম'ন নাথাকিলে সংগ্ৰাহক নলী পানীলৈ অভেদ্য থাকে, সেয়ে পানী মূত্ৰৰে যায় আৰু পিয়াহৰ প্ৰক্ৰিয়া জাগে। এলড'ষ্টেৰনৰ অভাৱত ছডিয়াম যায় আৰু ৰক্তচাপ কমে।"
+    }
+  },
+  {
+    "id": "biology-362",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "During strenuous exercise a muscle accumulates lactic acid because",
+      "as": "কঠোৰ ব্যায়ামত পেশীত লেক্টিক এছিড জমে কাৰণ"
+    },
+    "options": [
+      {
+        "en": "carbon dioxide cannot leave the muscle",
+        "as": "কাৰ্বন ডাইঅক্সাইড পেশীৰপৰা ওলাব নোৱাৰে"
+      },
+      {
+        "en": "the muscle stops making ATP entirely",
+        "as": "পেশীয়ে ATP বনোৱা সম্পূৰ্ণ বন্ধ কৰে"
+      },
+      {
+        "en": "oxygen supply lags behind demand, so pyruvate is reduced instead of entering the Krebs cycle",
+        "as": "অক্সিজেন যোগান চাহিদাতকৈ পিছ পৰে, সেয়ে পাইৰুভেট ক্ৰেবছ চক্ৰত নোসোমাই বিজাৰিত হয়"
+      },
+      {
+        "en": "the Krebs cycle runs faster than glycolysis",
+        "as": "ক্ৰেবছ চক্ৰ গ্লাইক'লাইছিছতকৈ দ্ৰুত চলে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "When oxygen is short, pyruvate cannot be oxidised and is converted to lactate so that NAD is regenerated and glycolysis can continue. ATP production falls but does not stop, and carbon dioxide removal is not the limiting step.",
+      "as": "অক্সিজেন কম হ'লে পাইৰুভেট জাৰিত নহয় আৰু লেক্টেটত পৰিণত হয় যাতে NAD ঘূৰে আৰু গ্লাইক'লাইছিছ চলি থাকে। ATP উৎপাদন কমে কিন্তু বন্ধ নহয়, আৰু কাৰ্বন ডাইঅক্সাইড ওলোৱাটো সীমাবদ্ধ খোজ নহয়।"
+    }
+  },
+  {
+    "id": "biology-363",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A person with a lesion in the medulla oblongata will most directly lose",
+      "as": "মেডুলা অৱলংগাটাত ক্ষতি হ'লে আটাই পোনপটীয়াকৈ কি হেৰায়"
+    },
+    "options": [
+      {
+        "en": "balance while walking",
+        "as": "খোজ কঢ়াত ভাৰসাম্য"
+      },
+      {
+        "en": "automatic control of breathing and heart rate",
+        "as": "উশাহ আৰু হৃদয়ৰ গতিৰ স্বয়ংক্ৰিয় নিয়ন্ত্ৰণ"
+      },
+      {
+        "en": "voluntary movement of the limbs",
+        "as": "অংগৰ ইচ্ছাকৃত লৰচৰ"
+      },
+      {
+        "en": "interpretation of visual images",
+        "as": "দৃশ্য ছবিৰ ব্যাখ্যা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The medulla holds the respiratory and cardiac centres, so its damage threatens breathing and circulation directly. Voluntary movement is cortical and balance is cerebellar.",
+      "as": "মেডুলাত শ্বাস-প্ৰশ্বাস আৰু হৃদয় কেন্দ্ৰ থাকে, সেয়ে ইয়াৰ ক্ষতিয়ে উশাহ আৰু সংবহন পোনপটীয়াকৈ ভাবুকি দিয়ে। ইচ্ছাকৃত লৰচৰ কৰ্টেক্সৰ আৰু ভাৰসাম্য চেৰিবেলামৰ।"
+    }
+  },
+  {
+    "id": "biology-364",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "A carrier mother and an unaffected father have children. The expected pattern for a sex-linked recessive disease is",
+      "as": "বাহক মাক আৰু অক্ষত পিতাৰ সন্তানত যৌন-সংলগ্ন অৱশিষ্ট ৰোগৰ আশা কৰা আৰ্হি"
+    },
+    "options": [
+      {
+        "en": "half the sons affected, half the daughters carriers",
+        "as": "আধা পুত্ৰ ৰোগী, আধা কন্যা বাহক"
+      },
+      {
+        "en": "all sons affected, all daughters carriers",
+        "as": "সকলো পুত্ৰ ৰোগী, সকলো কন্যা বাহক"
+      },
+      {
+        "en": "no child affected at all",
+        "as": "কোনো সন্তান ৰোগী নহয়"
+      },
+      {
+        "en": "all daughters affected, no son affected",
+        "as": "সকলো কন্যা ৰোগী, কোনো পুত্ৰ নহয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A son receives his single X from the mother, so half of them get the faulty copy and are affected. A daughter receives a healthy X from the father, so she cannot be affected but half become carriers.",
+      "as": "পুত্ৰই মাকৰপৰা অকলশৰীয়া X পায়, সেয়ে আধাই ত্ৰুটিপূৰ্ণ প্ৰতিলিপি পাই ৰোগী হয়। কন্যাই পিতাৰপৰা সুস্থ X পায়, সেয়ে ৰোগী নহয় কিন্তু আধা বাহক হয়।"
+    }
+  },
+  {
+    "id": "biology-365",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Sickle-cell anaemia results from the substitution of valine for glutamic acid at the sixth position of the beta chain. The level of protein structure directly altered is the",
+      "as": "ছিকল-চেল এনিমিয়া β শৃংখলৰ ষষ্ঠ স্থানত গ্লুটামিক এছিডৰ সলনি ভেলিন বহাৰপৰা হয়। পোনপটীয়াকৈ সলনি হোৱা প্ৰ'টিন গঠনৰ স্তৰ"
+    },
+    "options": [
+      {
+        "en": "secondary structure",
+        "as": "দ্বিতীয় গঠন"
+      },
+      {
+        "en": "tertiary structure",
+        "as": "তৃতীয় গঠন"
+      },
+      {
+        "en": "quaternary structure",
+        "as": "চতুৰ্থ গঠন"
+      },
+      {
+        "en": "primary structure",
+        "as": "প্ৰাথমিক গঠন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Primary structure is the sequence of amino acids, and one residue has been swapped, so that is the level changed first. Folding and assembly change later as a consequence.",
+      "as": "প্ৰাথমিক গঠন হ'ল এমিন' এছিডৰ ক্ৰম, আৰু এটা অৱশেষ সলনি হৈছে, সেয়ে প্ৰথমে সেই স্তৰেই সলনি। ভাঁ‌জ আৰু সংযোগ পিছত পৰিণাম হিচাপে সলনি হয়।"
+    }
+  },
+  {
+    "id": "biology-366",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "In a dihybrid cross between two heterozygotes, the ratio of offspring showing both dominant traits to those showing both recessive traits is",
+      "as": "দুটা বিষমযুগ্মৰ মাজত দ্বিহাইব্ৰিড ক্ৰছত দুয়োটা প্ৰভাৱী গুণ থকা আৰু দুয়োটা অৱশিষ্ট গুণ থকা সন্তানৰ অনুপাত"
+    },
+    "options": [
+      {
+        "en": "1 to 1",
+        "as": "১ ৰপৰা ১"
+      },
+      {
+        "en": "9 to 3",
+        "as": "৯ ৰপৰা ৩"
+      },
+      {
+        "en": "9 to 1",
+        "as": "৯ ৰপৰা ১"
+      },
+      {
+        "en": "3 to 1",
+        "as": "৩ ৰপৰা ১"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Independent assortment gives the 9:3:3:1 ratio, so both dominant is nine parts and both recessive is one. Three to one belongs to a monohybrid cross.",
+      "as": "স্বতন্ত্ৰ বিন্যাসে ৯:৩:৩:১ অনুপাত দিয়ে, সেয়ে দুয়ো প্ৰভাৱী ন অংশ আৰু দুয়ো অৱশিষ্ট এক অংশ। তিনিৰপৰা এক একহাইব্ৰিড ক্ৰছৰ।"
+    }
+  },
+  {
+    "id": "biology-367",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "A restriction endonuclease is used in biotechnology because it",
+      "as": "জীৱপ্ৰযুক্তিত ৰেস্ত্ৰিকচন এণ্ড'নিউক্লিয়েজ ব্যৱহৃত হয় কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "separates proteins by size",
+        "as": "আকাৰ অনুসৰি প্ৰ'টিন পৃথক কৰে"
+      },
+      {
+        "en": "cuts DNA at a specific palindromic sequence",
+        "as": "নিৰ্দিষ্ট পেলিনড্ৰ'মিক ক্ৰমত DNA কাটে"
+      },
+      {
+        "en": "joins two DNA fragments",
+        "as": "দুটা DNA খণ্ড জোড়ে"
+      },
+      {
+        "en": "copies DNA many times",
+        "as": "DNA বহুবাৰ নকল কৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The enzyme recognises a short symmetrical sequence and cuts there, which is what makes precise fragmenting possible. Joining is the work of ligase and copying is the work of polymerase.",
+      "as": "এনজাইমে চুটি সমমিত ক্ৰম চিনি তাত কাটে, সেয়ে নিখুঁত খণ্ড কৰা সম্ভৱ হয়। জোড়া লগোৱা লাইগেজৰ আৰু নকল কৰা পলিমাৰেজৰ কাম।"
+    }
+  },
+  {
+    "id": "biology-368",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "Two populations of a species are separated by a river for many generations and later can no longer interbreed. This is an example of",
+      "as": "এটা প্ৰজাতিৰ দুটা জনগোষ্ঠী বহু প্ৰজন্ম নদীৰে পৃথক হৈ থাকি পিছত আন্তঃপ্ৰজনন কৰিব নোৱাৰা হ'ল। এইটো উদাহৰণ"
+    },
+    "options": [
+      {
+        "en": "allopatric speciation",
+        "as": "এল'পেট্ৰিক প্ৰজাতিকৰণ"
+      },
+      {
+        "en": "sympatric speciation",
+        "as": "ছিমপেট্ৰিক প্ৰজাতিকৰণ"
+      },
+      {
+        "en": "artificial selection",
+        "as": "কৃত্ৰিম নিৰ্বাচন"
+      },
+      {
+        "en": "convergent evolution",
+        "as": "অভিসৰণী বিবৰ্তন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A geographic barrier separates the groups, which is the definition of allopatric. Sympatric speciation happens without such a barrier, and artificial selection is driven by human choice.",
+      "as": "ভৌগোলিক বাধাই গোটবোৰ পৃথক কৰে, যি এল'পেট্ৰিকৰ সংজ্ঞা। ছিমপেট্ৰিক এনে বাধা নোহোৱাকৈ হয়, আৰু কৃত্ৰিম নিৰ্বাচন মানুহৰ বাছনিৰে চলে।"
+    }
+  },
+  {
+    "id": "biology-369",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "The Hardy-Weinberg principle states that allele frequencies in a population stay constant only when",
+      "as": "হাৰ্ডি-ৱেইনবাৰ্গ নীতিয়ে কয় যে জনগোষ্ঠীত এলিলৰ কম্পনাংক স্থিৰ থাকে কেৱল যেতিয়া"
+    },
+    "options": [
+      {
+        "en": "selection is strong",
+        "as": "নিৰ্বাচন প্ৰবল"
+      },
+      {
+        "en": "mutation rate is high",
+        "as": "পৰিৱৰ্তনৰ হাৰ উচ্চ"
+      },
+      {
+        "en": "the population is very small",
+        "as": "জনগোষ্ঠী অতি সৰু"
+      },
+      {
+        "en": "there is no selection, mutation, migration or genetic drift and mating is random",
+        "as": "নিৰ্বাচন, পৰিৱৰ্তন, স্থানান্তৰ বা জিনীয় প্ৰবাহ নাই আৰু মিলন অনিয়মীয়া"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The equilibrium holds only under the ideal conditions of no evolutionary force and random mating. Small populations drift, and strong selection or high mutation shifts frequencies by definition.",
+      "as": "ভাৰসাম্য কেৱল আদৰ্শ অৱস্থাত, য'ত কোনো বিবৰ্তনী বল নাই আৰু মিলন অনিয়মীয়া। সৰু জনগোষ্ঠীত প্ৰবাহ হয়, আৰু প্ৰবল নিৰ্বাচন বা উচ্চ পৰিৱৰ্তনে সংজ্ঞা অনুসৰি কম্পনাংক সলায়।"
+    }
+  },
+  {
+    "id": "biology-370",
+    "leaf": "genetics-evolution",
+    "q": {
+      "en": "In a food chain of grass, grasshopper, frog, snake and hawk, the hawk occupies the",
+      "as": "ঘাঁ‌হ, ফৰিং, ভেকুলী, সাপ আৰু চিলনীৰ খাদ্য শৃংখলত চিলনীয়ে অধিকাৰ কৰে"
+    },
+    "options": [
+      {
+        "en": "third trophic level",
+        "as": "তৃতীয় ট্ৰফিক স্তৰ"
+      },
+      {
+        "en": "first trophic level",
+        "as": "প্ৰথম ট্ৰফিক স্তৰ"
+      },
+      {
+        "en": "fifth trophic level",
+        "as": "পঞ্চম ট্ৰফিক স্তৰ"
+      },
+      {
+        "en": "second trophic level",
+        "as": "দ্বিতীয় ট্ৰফিক স্তৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Grass is the producer at level one, and each consumer step adds a level, so the hawk feeding on the snake is at the fifth. The first level always belongs to the producer.",
+      "as": "ঘাঁ‌হ প্ৰথম স্তৰৰ উৎপাদক, আৰু প্ৰতিটো উপভোক্তা খোজে স্তৰ বঢ়ায়, সেয়ে সাপ খোৱা চিলনী পঞ্চমত। প্ৰথম স্তৰ সদায় উৎপাদকৰ।"
+    }
+  },
+  {
+    "id": "biology-371",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "A Gram-negative organism appears pink after Gram staining because",
+      "as": "গ্ৰাম দাগৰ পিছত গ্ৰাম-ঋণাত্মক জীৱাণু গুলপীয়া দেখা যায় কাৰণ"
+    },
+    "options": [
+      {
+        "en": "it is always non-viable",
+        "as": "ই সদায় অজীৱন্ত"
+      },
+      {
+        "en": "the thin peptidoglycan layer loses the crystal violet and takes the counterstain",
+        "as": "পাতল পেপ্টিড'গ্লাইকেন স্তৰে ক্ৰিষ্টেল ভায়'লেট হেৰুৱাই প্ৰতিদাগ লয়"
+      },
+      {
+        "en": "it has no cell wall at all",
+        "as": "ইয়াৰ কোষ বেৰ একেবাৰে নাই"
+      },
+      {
+        "en": "it retains crystal violet strongly",
+        "as": "ই ক্ৰিষ্টেল ভাইঅ'লেট দৃঢ়ভাৱে ধৰি ৰাখে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The alcohol step washes the dye out of the thin wall, and the safranin counterstain then colours the cell pink. Gram-positive walls are thick and keep the purple dye.",
+      "as": "এলকহ'ল ধুই পাতল বেৰৰপৰা ৰং উলিয়ায়, আৰু ছাফ্ৰানিন প্ৰতিদাগে কোষ গুলপীয়া কৰে। গ্ৰাম-ধনাত্মক বেৰ ডাঠ আৰু বেঙুনীয়া ৰং ৰাখে।"
+    }
+  },
+  {
+    "id": "biology-372",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "An autoclave is preferred over boiling water for sterilising surgical instruments because",
+      "as": "শল্য সজুলি জীৱাণুমুক্ত কৰিবলৈ উতলা পানীতকৈ অ'ট'ক্লেভ পছন্দ কৰা হয় কাৰণ"
+    },
+    "options": [
+      {
+        "en": "steam under pressure reaches a temperature that destroys bacterial spores",
+        "as": "চাপত ভাপে বেক্টেৰিয়াৰ বীজাণু নষ্ট কৰা উষ্ণতাত পায়"
+      },
+      {
+        "en": "boiling water is too cold to wet the instruments",
+        "as": "উতলা পানী সজুলি তিতা কৰিবলৈ অতি ঠাণ্ডা"
+      },
+      {
+        "en": "an autoclave works without heat",
+        "as": "অ'ট'ক্লেভ তাপ নোহোৱাকৈ কাম কৰে"
+      },
+      {
+        "en": "boiling removes only dust",
+        "as": "উতলালে কেৱল ধূলি আঁতৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Boiling at normal pressure stops near a hundred degrees, which kills vegetative cells but not spores. Steam at raised pressure reaches about 121 degrees and destroys spores as well.",
+      "as": "সাধাৰণ চাপত উতলাই এশ ডিগ্ৰীৰ ওচৰত ৰয়, যিয়ে সক্ৰিয় কোষ মাৰে কিন্তু বীজাণু নমাৰে। বঢ়া চাপত ভাপে প্ৰায় ১২১ ডিগ্ৰীত পাই বীজাণুও নষ্ট কৰে।"
+    }
+  },
+  {
+    "id": "biology-373",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "A bacterium that grows only in the absence of oxygen and is killed when exposed to air is called",
+      "as": "কেৱল অক্সিজেন নোহোৱা অৱস্থাত বাঢ়ি অক্সিজেনৰ সংস্পৰ্শত মৰা বেক্টেৰিয়াক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "obligate aerobe",
+        "as": "বাধ্যতামূলক এয়াৰ'ব"
+      },
+      {
+        "en": "facultative anaerobe",
+        "as": "ঐচ্ছিক এনাৰ'ব"
+      },
+      {
+        "en": "microaerophile",
+        "as": "মাইক্ৰ'এয়াৰ'ফিল"
+      },
+      {
+        "en": "obligate anaerobe",
+        "as": "বাধ্যতামূলক এনাৰ'ব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Obligate anaerobes lack the enzymes to cope with oxygen radicals, so air is lethal. Facultative organisms can switch and microaerophiles need low but not zero oxygen.",
+      "as": "বাধ্যতামূলক এনাৰ'বত অক্সিজেন ৰেডিকেল সামৰাৰ এনজাইম নাথাকে, সেয়ে বতাহ মাৰাত্মক। ঐচ্ছিক জীৱাণুৱে সলনি কৰিব পাৰে আৰু মাইক্ৰ'এয়াৰ'ফিলে কম কিন্তু শূন্য নোহোৱা অক্সিজেন বিচাৰে।"
+    }
+  },
+  {
+    "id": "biology-374",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "In genetic engineering the plasmid is used as a vector because it",
+      "as": "জিনীয় অভিযান্ত্ৰণত প্লাজমিডক ভেক্টৰ হিচাপে ব্যৱহাৰ কৰা হয় কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "provides the restriction enzyme",
+        "as": "ৰেস্ত্ৰিকচন এনজাইম যোগায়"
+      },
+      {
+        "en": "prevents the host from dividing",
+        "as": "আতিথেয়ক বিভাজনৰপৰা ৰোধে"
+      },
+      {
+        "en": "replicates independently inside the bacterial host and can carry an inserted gene",
+        "as": "বেক্টেৰিয়াৰ ভিতৰত স্বতন্ত্ৰভাৱে নকল হয় আৰু সোমোৱা জিন বহন কৰিব পাৰে"
+      },
+      {
+        "en": "digests foreign DNA",
+        "as": "বাহিৰা DNA হজম কৰে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A plasmid carries its own origin of replication, so the inserted gene is copied along with it every time the bacterium divides. The cutting enzyme is supplied separately.",
+      "as": "প্লাজমিডত নিজৰ অনুলিপন আৰম্ভণি থাকে, সেয়ে বেক্টেৰিয়া বিভাজনৰ প্ৰতিবাৰে সোমোৱা জিনো নকল হয়। কটা এনজাইম বেলেগকৈ যোগ কৰা হয়।"
+    }
+  },
+  {
+    "id": "biology-375",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Pasteurisation of milk kills most pathogens while preserving quality because it",
+      "as": "গাখীৰ পেষ্টুৰীকৰণে বেছিভাগ ৰোগজীৱাণু মাৰি গুণ ৰাখে কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "removes all bacteria including spores",
+        "as": "বীজাণুকে ধৰি সকলো বেক্টেৰিয়া আঁতৰায়"
+      },
+      {
+        "en": "uses a controlled temperature for a short time rather than prolonged boiling",
+        "as": "দীঘলীয়া উতলাৰ সলনি চমু সময়ৰ বাবে নিয়ন্ত্ৰিত উষ্ণতা ব্যৱহাৰ কৰে"
+      },
+      {
+        "en": "adds antibiotics to the milk",
+        "as": "গাখীৰত এণ্টিবায়'টিক যোগ কৰে"
+      },
+      {
+        "en": "freezes the milk slowly",
+        "as": "গাখীৰ লাহে লাহে জমায়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Heating to about 63 degrees for thirty minutes or 72 degrees for fifteen seconds kills the vegetative pathogens without spoiling taste and protein. Spores survive, which is why pasteurised milk still needs refrigeration.",
+      "as": "প্ৰায় ৬৩ ডিগ্ৰীত ত্ৰিশ মিনিট বা ৭২ ডিগ্ৰীত পোন্ধৰ ছেকেণ্ড গৰম কৰিলে ৰোগজীৱাণু মৰে কিন্তু সোৱাদ আৰু প্ৰ'টিন নষ্ট নহয়। বীজাণু থাকি যায়, সেয়ে পেষ্টুৰীকৃত গাখীৰো ফ্ৰিজত ৰাখিব লাগে।"
+    }
+  },
+  {
+    "id": "biology-376",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Which of the following correctly pairs a microbe with the product it gives commercially?",
+      "as": "তলৰ কোনটোৱে অণুজীৱ আৰু ব্যৱসায়িকভাৱে ইয়াৰ উৎপাদন শুদ্ধভাৱে জোড়ে"
+    },
+    "options": [
+      {
+        "en": "Saccharomyces cerevisiae and ethanol",
+        "as": "ছেকাৰ'মাইচিছ চেৰেভিচি আৰু ইথানল"
+      },
+      {
+        "en": "Escherichia coli and penicillin",
+        "as": "এছছেৰিচিয়া ক'লাই আৰু পেনিচিলিন"
+      },
+      {
+        "en": "Lactobacillus and insulin",
+        "as": "লেক্ট'বেছিলাছ আৰু ইনচুলিন"
+      },
+      {
+        "en": "Clostridium and curd",
+        "as": "ক্ল'ষ্ট্ৰিডিয়াম আৰু দৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Yeast ferments sugar to ethanol and carbon dioxide, which is the basis of brewing and baking. Penicillin comes from Penicillium moulds and curd from Lactobacillus.",
+      "as": "ঈষ্টে চেনিক ইথানল আৰু কাৰ্বন ডাইঅক্সাইডলৈ গাঁ‌জে, যি মদ আৰু পিঠা বনোৱাৰ ভিত্তি। পেনিচিলিন পেনিচিলিয়াম ছত্ৰাকৰপৰা আৰু দৈ লেক্ট'বেছিলাছৰপৰা।"
+    }
+  },
+  {
+    "id": "biology-377",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "A patient develops infection after a bite and the wound smells foul with gas in the tissue. The most likely organism belongs to the genus",
+      "as": "কামোৰৰ পিছত ৰোগীত সংক্ৰমণ হয়, ঘাৰ পৰা দুৰ্গন্ধ ওলায় আৰু কলাত গেছ জমে। আটাই সম্ভাৱ্য জীৱাণুৰ গণ"
+    },
+    "options": [
+      {
+        "en": "Mycobacterium",
+        "as": "মাইক'বেক্টেৰিয়াম"
+      },
+      {
+        "en": "Treponema",
+        "as": "ট্ৰেপ'নেমা"
+      },
+      {
+        "en": "Vibrio",
+        "as": "ভিব্ৰিঅ'"
+      },
+      {
+        "en": "Clostridium",
+        "as": "ক্ল'ষ্ট্ৰিডিয়াম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Anaerobic clostridia grow in dead tissue and produce gas and foul odour. Mycobacterium causes tuberculosis and leprosy, and Vibrio causes cholera.",
+      "as": "এনাৰ'বিক ক্ল'ষ্ট্ৰিডিয়া মৃত কলাত বাঢ়ি গেছ আৰু দুৰ্গন্ধ দিয়ে। মাইক'বেক্টেৰিয়ামে যক্ষ্মা আৰু কুষ্ঠ, আৰু ভিব্ৰিঅ'ই কলera কৰে।"
+    }
+  },
+  {
+    "id": "biology-378",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "In dengue haemorrhagic fever the bleeding tendency is best explained by",
+      "as": "ডেংগু হিম'ৰেজিক জ্বৰত ৰক্তক্ষৰণৰ প্ৰৱণতা আটাই ভালকৈ ব্যাখ্যা কৰে"
+    },
+    "options": [
+      {
+        "en": "excess production of clotting factor",
+        "as": "ৰক্ত জমা কাৰকৰ অত্যধিক উৎপাদন"
+      },
+      {
+        "en": "loss of red cell mass only",
+        "as": "কেৱল লোহিত কণিকাৰ ভৰ কমা"
+      },
+      {
+        "en": "a fall in platelet count with leakage from damaged capillaries",
+        "as": "ৰক্ত অনুচক্ৰ কমি ক্ষতিগ্ৰস্ত কেশিকা নলীৰপৰা ৰস ওলোৱা"
+      },
+      {
+        "en": "a rise in platelet count",
+        "as": "ৰক্ত অনুচক্ৰ বঢ়া"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The virus damages small vessels and suppresses platelet production, so both the vessel wall and the clotting plug fail. A high platelet count would oppose, not cause, bleeding.",
+      "as": "ভাইৰাছে সৰু নলী নষ্ট কৰি ৰক্ত অনুচক্ৰ উৎপাদন দমায়, সেয়ে নলীৰ বেৰ আৰু জমা পিণ্ড দুয়ো বিফল হয়। বেছি অনুচক্ৰই ৰক্তক্ষৰণ বিৰোধ কৰে, নকৰায়।"
+    }
+  },
+  {
+    "id": "biology-379",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "A sputum sample shows acid-fast bacilli and the chest film shows a cavity in the upper lobe. The disease is",
+      "as": "কফৰ নমুনাত এছিড-ফাষ্ট বেক্টেৰিয়া আৰু বুকুৰ ছবিত ওপৰ অংশত গহ্বৰ দেখা যায়। ৰোগটো"
+    },
+    "options": [
+      {
+        "en": "pleural effusion",
+        "as": "প্লুৰেল ইফিউশ্যন"
+      },
+      {
+        "en": "pulmonary tuberculosis",
+        "as": "ফুসফুসৰ যক্ষ্মা"
+      },
+      {
+        "en": "lobar pneumonia",
+        "as": "ল'বাৰ নিউম'নিয়া"
+      },
+      {
+        "en": "bronchial asthma",
+        "as": "ব্ৰংকিয়েল হাঁপানি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Acid-fast bacilli with upper lobe cavitation is the classic picture of tuberculosis. Pneumonia fills the alveoli with exudate rather than excavating a cavity.",
+      "as": "এছিড-ফাষ্ট বেক্টেৰিয়া আৰু ওপৰ অংশৰ গহ্বৰ যক্ষ্মাৰ প্ৰচলিত চিত্ৰ। নিউম'নিয়াই এলভিঅ'লাই স্ৰাৱেৰে ভৰায়, গহ্বৰ নকৰে।"
+    }
+  },
+  {
+    "id": "biology-380",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Malaria is transmitted to a human by the bite of",
+      "as": "মেলেৰিয়া মানুহলৈ কেনেকৈ যায়"
+    },
+    "options": [
+      {
+        "en": "an infected female Anopheles mosquito",
+        "as": "সংক্ৰমিত মাইকী এন'ফিলিছ মশাৰ কামোৰেৰে"
+      },
+      {
+        "en": "a male Culex mosquito",
+        "as": "মতা কিউলেক্স মশাৰ কামোৰেৰে"
+      },
+      {
+        "en": "a tsetse fly",
+        "as": "ছেটছে মাখিৰে"
+      },
+      {
+        "en": "a sandfly",
+        "as": "বালিমাখিৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Only the female Anopheles takes a blood meal and can inject sporozoites. Male mosquitoes feed on plant juice and do not transmit, and tsetse flies carry sleeping sickness.",
+      "as": "কেৱল মাইকী এন'ফিলিছে তেজ খায় আৰু স্প'ৰ'জ'ইট সুমুৱাব পাৰে। মতাই উদ্ভিদ ৰস খায় আৰু নিবিয়পায়, আৰু ছেটছে মাখিয়ে নিদ্ৰাৰোগ নিয়ে।"
+    }
+  },
+  {
+    "id": "biology-381",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "A child with measles is most at risk of which complication that makes vitamin A supplementation routine?",
+      "as": "মিজলছ হোৱা শিশুত কোন জটিলতাৰ বেছি বিপদ, যাৰ বাবে ভিটামিন A দিয়া নিয়মিত কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "kidney stones",
+        "as": "বৃক্কৰ পাথৰ"
+      },
+      {
+        "en": "diabetes",
+        "as": "মধুমেহ"
+      },
+      {
+        "en": "scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "corneal damage and blindness",
+        "as": "কৰ্ণিয়াৰ ক্ষতি আৰু অন্ধত্ব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Measles depletes vitamin A stores and can cause corneal ulceration, so supplementation is given to prevent blindness. Stones and diabetes are unrelated to measles.",
+      "as": "মিজলছে ভিটামিন A ৰ ভাণ্ডাৰ নিঃশেষ কৰি কৰ্ণিয়াৰ ঘা কৰিব পাৰে, সেয়ে অন্ধত্ব ৰোধ কৰিবলৈ দিয়া হয়। পাথৰ আৰু মধুমেহ মিজলছৰ সৈতে অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "biology-382",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Cholera causes profuse watery diarrhoea, and death results mainly from",
+      "as": "কলera ত প্ৰচুৰ পানীদৰ ডায়েৰিয়া হয়, আৰু মৃত্যু মূলতঃ কিৰপৰা হয়"
+    },
+    "options": [
+      {
+        "en": "brain abscess",
+        "as": "মগজুৰ পুঁ‌জ"
+      },
+      {
+        "en": "bone marrow suppression",
+        "as": "মজ্জা দমন"
+      },
+      {
+        "en": "severe dehydration and electrolyte loss",
+        "as": "তীব্ৰ পানীশূন্যতা আৰু ইলেক্ট্ৰ'লাইট ক্ষয়"
+      },
+      {
+        "en": "liver failure",
+        "as": "যকৃত বিকল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The toxin drives chloride and water secretion into the gut, so the body loses volume faster than it can replace it. Oral rehydration or intravenous fluid is the treatment that saves life.",
+      "as": "বিষে ক্ল'ৰাইড আৰু পানী অন্ত্ৰলৈ নিঃসৰণ কৰায়, সেয়ে শৰীৰে পূৰণ কৰিব পৰাতকৈ দ্ৰুত তৰল হেৰুৱায়। মুখেৰে বা অন্তঃশিৰা তৰলে জীৱন ৰক্ষা কৰে।"
+    }
+  },
+  {
+    "id": "biology-383",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "A patient with jaundice, dark urine and pale stools most likely has obstruction of the",
+      "as": "জণ্ডিছ, গাঢ় মূত্ৰ আৰু পাণ্ডুৰ বৰণৰ মল থকা ৰোগীত আটাই সম্ভাৱ্য বন্ধ"
+    },
+    "options": [
+      {
+        "en": "oesophagus",
+        "as": "খাদ্যনলী"
+      },
+      {
+        "en": "bile duct",
+        "as": "পিত্ত নলী"
+      },
+      {
+        "en": "ureter",
+        "as": "মূত্ৰনলী"
+      },
+      {
+        "en": "trachea",
+        "as": "শ্বাসনলী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Blocked bile cannot reach the gut, so bilirubin backs up into blood, colours the urine dark and leaves the stool pale. The ureter carries urine and has no role in bile.",
+      "as": "বন্ধ পিত্ত অন্ত্ৰলৈ যাব নোৱাৰে, সেয়ে বিলিৰুবিন তেজত জমি মূত্ৰ গাঢ় কৰে আৰু মল পাণ্ডুৰ হয়। মূত্ৰনলীয়ে মূত্ৰ নিয়ে, পিত্তৰ সৈতে সম্পৰ্ক নাই।"
+    }
+  },
+  {
+    "id": "biology-384",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "A diet rich in polished rice and poor in pulses leads to beriberi because milling removes",
+      "as": "পালিচ কৰা চাউল বেছি আৰু ডাইল কম থকা খাদ্যই বেৰিবেৰি কৰে কাৰণ মিলিঙত কি আঁতৰে"
+    },
+    "options": [
+      {
+        "en": "the thiamine rich bran and germ",
+        "as": "থায়ামিনযুক্ত বাহিৰৰ আৱৰণ আৰু ভ্ৰূণ"
+      },
+      {
+        "en": "the starch of the endosperm",
+        "as": "এণ্ড'স্পাৰ্মৰ ষ্টাৰ্চ"
+      },
+      {
+        "en": "the cellulose of the husk only",
+        "as": "কেৱল বাকলিৰ চেলুল'জ"
+      },
+      {
+        "en": "the water soluble protein",
+        "as": "পানীত দ্ৰৱনীয় প্ৰ'টিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Thiamine sits in the bran and germ, which polishing strips away, so the remaining endosperm is largely starch. The starch itself is not the problem; the lost vitamin is.",
+      "as": "থায়ামিন বাহিৰৰ আৱৰণ আৰু ভ্ৰূণত থাকে, যি পালিচত আঁতৰে, সেয়ে বাকী এণ্ড'স্পাৰ্ম প্ৰায় ষ্টাৰ্চ। ষ্টাৰ্চ সমস্যা নহয়, হেৰুওৱা ভিটামিনহে।"
+    }
+  },
+  {
+    "id": "biology-385",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Vitamin C is easily destroyed during cooking because it is",
+      "as": "ৰন্ধাৰ সময়ত ভিটামিন C সহজে নষ্ট হয় কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "fat soluble and heat stable",
+        "as": "চৰ্বিত দ্ৰৱনীয় আৰু তাপত স্থিৰ"
+      },
+      {
+        "en": "insoluble in water and stable in acid",
+        "as": "পানীত অদ্ৰৱনীয় আৰু অম্লত স্থিৰ"
+      },
+      {
+        "en": "destroyed only by freezing",
+        "as": "কেৱল জমাই ৰখাৰে নষ্ট"
+      },
+      {
+        "en": "water soluble, heat labile and oxidised by copper",
+        "as": "পানীত দ্ৰৱনীয়, তাপত অস্থিৰ আৰু তামেৰে জাৰিত"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ascorbic acid leaches into cooking water, breaks down on heating and is oxidised by copper and iron utensils, so long boiling in an open copper vessel leaves very little. Fat soluble vitamins behave differently.",
+      "as": "এছকৰ্বিক এছিড ৰন্ধা পানীত উলিয়াই যায়, তাপত ভাঙে আৰু তামা-লোৰ পাত্ৰই জাৰিত কৰে, সেয়ে মুকলি তামাৰ পাত্ৰত দীঘলীয়া উতলালে খুব কম থাকে। চৰ্বিত দ্ৰৱনীয় ভিটামিন বেলেগ ধৰণে চলে।"
+    }
+  },
+  {
+    "id": "biology-386",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Night blindness in a child with dry conjunctiva and Bitot spots indicates deficiency of",
+      "as": "শুকান আখি আৰু বিট'ৰ দাগ থকা শিশুৰ ৰাতি অন্ধতাৰে কিৰ অভাৱ বুজায়"
+    },
+    "options": [
+      {
+        "en": "vitamin D",
+        "as": "ভিটামিন D"
+      },
+      {
+        "en": "vitamin E",
+        "as": "ভিটামিন E"
+      },
+      {
+        "en": "vitamin A",
+        "as": "ভিটামিন A"
+      },
+      {
+        "en": "vitamin B12",
+        "as": "ভিটামিন B12"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Retinol forms rhodopsin for dim light and maintains the epithelium, so lack gives night blindness, xerosis and Bitot spots. B12 lack causes megaloblastic anaemia and D lack causes rickets.",
+      "as": "ৰেটিন'লে কম পোহৰলৈ ৰড'পচিন বনায় আৰু উপকলা ৰক্ষা কৰে, সেয়ে অভাৱত ৰাতি অন্ধতা, জিৰ'ছিছ আৰু বিট'ৰ দাগ হয়। B12 ৰ অভাৱত মেগাল'ব্লাষ্টিক এনিমিয়া আৰু D ৰ অভাৱত ৰিকেটছ।"
+    }
+  },
+  {
+    "id": "biology-387",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "A strictly vegan diet without supplementation risks deficiency of vitamin B12 because",
+      "as": "পৰিপূৰক নোহোৱা কেৱল উদ্ভিদভিত্তিক খাদ্যত ভিটামিন B12 ৰ অভাৱৰ আশংকা কাৰণ"
+    },
+    "options": [
+      {
+        "en": "the vitamin is destroyed by sunlight",
+        "as": "ৰ'দে ভিটামিনটো নষ্ট কৰে"
+      },
+      {
+        "en": "the vitamin occurs naturally in animal foods and is made by gut bacteria",
+        "as": "ভিটামিনটো স্বাভাৱিকভাৱে প্ৰাণীজ খাদ্যত থাকে আৰু অন্ত্ৰৰ বেক্টেৰিয়াই বনায়"
+      },
+      {
+        "en": "plants contain an inhibitor of B12",
+        "as": "উদ্ভিদত B12 ৰ বাধাদায়ক থাকে"
+      },
+      {
+        "en": "cooking destroys all B12 in vegetables",
+        "as": "ৰন্ধাই শাক-পাচলিৰ সকলো B12 নষ্ট কৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cobalamin comes from animal sources and from bacteria, and plant foods do not supply a reliable amount. Deficiency causes megaloblastic anaemia and nerve damage.",
+      "as": "ক'বালামিন প্ৰাণীজ উৎস আৰু বেক্টেৰিয়াৰপৰা আহে, আৰু উদ্ভিদজ খাদ্যই নিৰ্ভৰযোগ্য পৰিমাণ নিদিয়ে। অভাৱত মেগাল'ব্লাষ্টিক এনিমিয়া আৰু স্নায়ু ক্ষতি হয়।"
+    }
+  },
+  {
+    "id": "biology-388",
+    "leaf": "nutrition-vitamins",
+    "q": {
+      "en": "Kwashiorkor and marasmus differ mainly because kwashiorkor is marked by",
+      "as": "কোৱাছিঅ'ৰকৰ আৰু মাৰাছমাছৰ মূল পাৰ্থক্য কি কাৰণ কোৱাছিঅ'ৰকৰত থাকে"
+    },
+    "options": [
+      {
+        "en": "oedema with relatively preserved calorie intake but low protein",
+        "as": "কেলৰি তুলনামূলকভাৱে ঠিক কিন্তু প্ৰ'টিন কম হোৱা অৱস্থাত ইডিমা"
+      },
+      {
+        "en": "severe wasting with no oedema",
+        "as": "ইডিমা নোহোৱাকৈ তীব্ৰ ক্ষয়"
+      },
+      {
+        "en": "excess protein intake",
+        "as": "অত্যধিক প্ৰ'টিন গ্ৰহণ"
+      },
+      {
+        "en": "vitamin C deficiency",
+        "as": "ভিটামিন C ৰ অভাৱ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In kwashiorkor protein is short while calories are near adequate, so albumin falls and oedema appears. Marasmus is global calorie deficiency with severe wasting and no oedema.",
+      "as": "কোৱাছিঅ'ৰকৰত প্ৰ'টিন কম কিন্তু কেলৰি প্ৰায় যথেষ্ট, সেয়ে এলবুমিন কমি ইডিমা হয়। মাৰাছমাছত মুঠ কেলৰিৰ অভাৱত তীব্ৰ ক্ষয় হয় আৰু ইডিমা নাথাকে।"
+    }
+  },
+  {
+    "id": "biology-389",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Only about ten per cent of the energy at one trophic level reaches the next because",
+      "as": "এটা ট্ৰফিক স্তৰৰ মাত্ৰ দহ শতাংশ শক্তি পৰৱৰ্তী স্তৰলৈ যায় কাৰণ"
+    },
+    "options": [
+      {
+        "en": "predators digest food completely",
+        "as": "পৰভক্ষীয়ে খাদ্য সম্পূৰ্ণ হজম কৰে"
+      },
+      {
+        "en": "energy is created at each level",
+        "as": "প্ৰতিটো স্তৰত শক্তি সৃষ্টি হয়"
+      },
+      {
+        "en": "the food chain has only two links",
+        "as": "খাদ্য শৃংখলত কেৱল দুই খলপ"
+      },
+      {
+        "en": "most energy is lost as heat through respiration and in uneaten parts",
+        "as": "বেছিভাগ শক্তি শ্বাস-প্ৰশ্বাসেৰে তাপ হিচাপে আৰু নোখোৱা অংশত হেৰায়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Respiration converts most assimilated energy to heat, and not every part of the prey is eaten or digestible, so transfer is inefficient. Energy is never created in a food chain, only transferred and lost.",
+      "as": "শ্বাস-প্ৰশ্বাসে বেছিভাগ আত্মসাৎ শক্তি তাপলৈ ৰূপান্তৰ কৰে, আৰু চিকাৰৰ প্ৰতিটো অংশ খোৱা বা হজমযোগ্য নহয়, সেয়ে স্থানান্তৰ অপৰ্যাপ্ত। খাদ্য শৃংখলত শক্তি সৃষ্টি নহয়, কেৱল স্থানান্তৰ আৰু ক্ষয়।"
+    }
+  },
+  {
+    "id": "biology-390",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The phosphorus cycle differs from the carbon and nitrogen cycles because phosphorus",
+      "as": "ফছফৰাছ চক্ৰ কাৰ্বন আৰু নাইট্ৰজেন চক্ৰতকৈ বেলেগ কাৰণ ফছফৰাছ"
+    },
+    "options": [
+      {
+        "en": "is returned only by denitrifying bacteria",
+        "as": "কেৱল ডিনাইট্ৰিফাইং বেক্টেৰিয়াৰেহে ঘূৰি আহে"
+      },
+      {
+        "en": "exists only as a gas",
+        "as": "কেৱল গেছ হিচাপে থাকে"
+      },
+      {
+        "en": "has no significant gaseous phase and cycles through rock, soil and water",
+        "as": "উল্লেখযোগ্য গেছীয় অৱস্থা নাই আৰু শিলা, মাটি আৰু পানীৰে ঘূৰে"
+      },
+      {
+        "en": "is fixed by lightning",
+        "as": "বিজুলিৰে স্থিৰ হয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Phosphorus moves as phosphate in solution and as mineral deposits, with no atmospheric reservoir, which is why it often limits plant growth. Nitrogen has a large gaseous pool fixed by bacteria and lightning.",
+      "as": "ফছফৰাছ দ্ৰৱত ফছফেট আৰু খনিজ জমা হিচাপে চলে, বায়ুমণ্ডলীয় ভাণ্ডাৰ নাই, সেয়ে ই প্ৰায়ে উদ্ভিদ বৃদ্ধি সীমিত কৰে। নাইট্ৰজেনৰ বিশাল গেছীয় ভাণ্ডাৰ বেক্টেৰিয়া আৰু বিজুলিয়ে স্থিৰ কৰে।"
+    }
+  },
+  {
+    "id": "biology-391",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "A pyramid of numbers can be inverted, as when many insects feed on one large tree, but a pyramid of energy is never inverted because",
+      "as": "সংখ্যাৰ পিৰামিড ওলোটা হ'ব পাৰে, যেনে এজোপা ডাঙৰ গছত বহু পতংগই খায়, কিন্তু শক্তিৰ পিৰামিড কেতিয়াও ওলোটা নহয় কাৰণ"
+    },
+    "options": [
+      {
+        "en": "numbers always fall at each level",
+        "as": "সংখ্যা প্ৰতিটো স্তৰত সদায় কমে"
+      },
+      {
+        "en": "energy is always lost at each transfer",
+        "as": "প্ৰতিটো স্থানান্তৰত শক্তি সদায় হেৰায়"
+      },
+      {
+        "en": "large trees contain no energy",
+        "as": "ডাঙৰ গছে শক্তি ধৰি নৰাখে"
+      },
+      {
+        "en": "insects are producers",
+        "as": "পতংগ উৎপাদক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The second law of thermodynamics guarantees that usable energy decreases at every step, so a lower level can never hold more energy than the one below it. Numbers can invert because one tree supports many insects.",
+      "as": "তাপগতি বিজ্ঞানৰ দ্বিতীয় সূত্ৰই নিশ্চিত কৰে যে প্ৰতিটো খোজত উপযোগী শক্তি কমে, সেয়ে তলৰ স্তৰে ওপৰৰতকৈ বেছি শক্তি ধৰি ৰাখিব নোৱাৰে। এজোপা গছে বহু পতংগ পোহপাল দিয়াৰ বাবে সংখ্যা ওলোটা হ'ব পাৰে।"
+    }
+  },
+  {
+    "id": "biology-392",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Deepor Beel near Guwahati is significant because it is",
+      "as": "গুৱাহাটীৰ ওচৰৰ দীপৰ বিল গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "a Ramsar wetland of international importance",
+        "as": "আন্তৰ্জাতিক গুৰুত্বৰ ৰামছাৰ জলভূমি"
+      },
+      {
+        "en": "a national park for tigers",
+        "as": "বাঘৰ বাবে ৰাষ্ট্ৰীয় উদ্যান"
+      },
+      {
+        "en": "a biosphere reserve for elephants only",
+        "as": "কেৱল হাতীৰ বাবে জীৱমণ্ডল সংৰক্ষিত অঞ্চল"
+      },
+      {
+        "en": "a marine sanctuary",
+        "as": "সামুদ্ৰিক অভয়াৰণ্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The wetland was listed under the Ramsar Convention because it supports migratory waterfowl and flood control for the city. Kaziranga and Manas are the park examples in Assam.",
+      "as": "জলভূমিখন ৰামছাৰ সন্মিলনত তালিকাভুক্ত কাৰণ ই পৰিভ্ৰমী জলচৰ চৰাইক আশ্ৰয় দিয়ে আৰু চহৰৰ বান নিয়ন্ত্ৰণ কৰে। কাজিৰঙা আৰু মানস অসমৰ উদ্যানৰ উদাহৰণ।"
+    }
+  },
+  {
+    "id": "biology-393",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "In photosynthesis, oxygen released into the atmosphere comes from",
+      "as": "সালোক-সংশ্লেষণত বায়ুমণ্ডললৈ ওলোৱা অক্সিজেন কিৰপৰা আহে"
+    },
+    "options": [
+      {
+        "en": "the reduction of carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড বিজাৰণৰপৰা"
+      },
+      {
+        "en": "the breakdown of glucose",
+        "as": "গ্লুক'জ ভগাৰপৰা"
+      },
+      {
+        "en": "the absorption of light by chlorophyll",
+        "as": "ক্ল'ৰ'ফিলৰ পোহৰ শোষণৰপৰা"
+      },
+      {
+        "en": "the splitting of water at photosystem II",
+        "as": "ফট'ছিষ্টেম II ত পানী ভগাৰপৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Photolysis of water supplies electrons to replace those lost by chlorophyll and releases oxygen as a by-product. Carbon dioxide is reduced to sugar, so its oxygen ends up in the carbohydrate.",
+      "as": "পানীৰ আলোক-বিভাজনে ক্ল'ৰ'ফিলে হেৰুওৱা ইলেক্ট্ৰন যোগায় আৰু উপজাত হিচাপে অক্সিজেন এৰে। কাৰ্বন ডাইঅক্সাইড চেনিলৈ বিজাৰিত হয়, সেয়ে তাৰ অক্সিজেন শৰ্কৰাত থাকে।"
+    }
+  },
+  {
+    "id": "biology-394",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "A plant wilts on a hot afternoon but recovers at night. The immediate cause of the wilting is",
+      "as": "গৰম দুপৰীয়া উদ্ভিদ মলি যায় কিন্তু ৰাতি ঠিক হয়। মলি যোৱাৰ লগে লগে কাৰণ"
+    },
+    "options": [
+      {
+        "en": "roots stop respiring",
+        "as": "শিপাই শ্বাস লোৱা বন্ধ কৰে"
+      },
+      {
+        "en": "stomata close permanently",
+        "as": "ৰন্ধ্ৰ স্থায়ীভাৱে বন্ধ হয়"
+      },
+      {
+        "en": "transpiration exceeds water absorption",
+        "as": "বাষ্পোৎসৰ্জনে পানী শোষণতকৈ বেছি"
+      },
+      {
+        "en": "photosynthesis stops completely",
+        "as": "সালোক-সংশ্লেষণ সম্পূৰ্ণ বন্ধ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Loss of water vapour through the stomata outruns uptake through the roots, so cells lose turgor and the leaf droops. Recovery at night shows the balance restored, not permanent damage.",
+      "as": "ৰন্ধ্ৰৰে বাষ্প হেৰুওৱা শিপাৰ গ্ৰহণতকৈ বেছি হয়, সেয়ে কোষে টাৰ্গৰ হেৰুৱাই পাত মলি যায়। ৰাতি ঠিক হোৱাই দেখুৱায় ভাৰসাম্য ঘূৰিছে, স্থায়ী ক্ষতি হোৱা নাই।"
+    }
+  },
+  {
+    "id": "biology-395",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Double fertilisation in angiosperms refers to",
+      "as": "আৱৃতবীজীত দ্বৈত নিষেচন মানে"
+    },
+    "options": [
+      {
+        "en": "fusion of two embryos",
+        "as": "দুটা ভ্ৰূণ মিলা"
+      },
+      {
+        "en": "one male gamete fusing with the egg and another with two polar nuclei",
+        "as": "এটা পুৰুষ গেমেট ডিম্বৰ সৈতে আৰু আনটো দুটা ধ্ৰুৱক কেন্দ্ৰৰ সৈতে মিলা"
+      },
+      {
+        "en": "two male gametes fusing with two eggs",
+        "as": "দুটা পুৰুষ গেমেটে দুটা ডিম্বৰ সৈতে মিলা"
+      },
+      {
+        "en": "two pollen tubes entering one ovule",
+        "as": "দুটা পৰাগ নলী এটা বীজাণ্ডত সোমোৱা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "One gamete forms the zygote and the other fuses with the two polar nuclei to make the triploid endosperm, which feeds the embryo. Only one egg is fertilised, not two.",
+      "as": "এটা গেমেটে জাইগ'ট আৰু আনটোৱে দুটা ধ্ৰুৱক কেন্দ্ৰৰ সৈতে মিলি ত্ৰিগুণী এণ্ড'স্পাৰ্ম বনায়, যি ভ্ৰূণক পোহপাল দিয়ে। এটা ডিম্বহে নিষিক্ত হয়, দুটা নহয়।"
+    }
+  },
+  {
+    "id": "biology-396",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "A gardener grafts a scion of a sweet mango onto a hardy rootstock. The fruit produced will be",
+      "as": "মালীয়ে মিঠা আমৰ কলম কঠিন মূলগছত জোড়ে। উৎপন্ন ফল হ'ব"
+    },
+    "options": [
+      {
+        "en": "sweet, because the scion determines fruit quality",
+        "as": "মিঠা, কাৰণ কলমেই ফুলৰ গুণ নিৰ্ধাৰণ কৰে"
+      },
+      {
+        "en": "sour, because the rootstock dominates",
+        "as": "টেঙা, কাৰণ মূলগছে আধিপত্য কৰে"
+      },
+      {
+        "en": "a mixture of both parents",
+        "as": "দুয়ো পিতৃ-মাতৃৰ মিশ্ৰণ"
+      },
+      {
+        "en": "sterile and seedless always",
+        "as": "সদায় বন্ধ্যা আৰু বীজহীন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Grafting joins two tissues but does not mix their genes, so the scion's genotype decides the fruit. The rootstock contributes vigour, disease resistance and anchorage.",
+      "as": "জোড়াই দুটা কলা সংযোগ কৰে কিন্তু জিন নিমিশ্ৰয়, সেয়ে কলমৰ জিনটাইপে ফল নিৰ্ধাৰণ কৰে। মূলগছে সবলতা, ৰোগ প্ৰতিৰোধ আৰু ধৰি ৰখাৰ শক্তি দিয়ে।"
+    }
+  },
+  {
+    "id": "biology-397",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Cuscuta, the dodder that twines over host plants and draws food from them, is best described as",
+      "as": "আতিথেয়ক উদ্ভিদৰ ওপৰত মেৰ খাই খাদ্য লোৱা অমৰবিলাস (কুশ্চুটা) আটাই ভালকৈ বৰ্ণনা কৰা হয় কি হিচাপে"
+    },
+    "options": [
+      {
+        "en": "an epiphyte",
+        "as": "উপৰি বৃক্ষ"
+      },
+      {
+        "en": "a saprophyte",
+        "as": "মৃতজীৱী"
+      },
+      {
+        "en": "an insectivorous plant",
+        "as": "কীটভক্ষী উদ্ভিদ"
+      },
+      {
+        "en": "a total stem parasite",
+        "as": "সম্পূৰ্ণ কাণ্ড পৰজীৱী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Cuscuta has no chlorophyll and takes both water and food through haustoria, so it is a total parasite. An epiphyte only uses the host for support, and a saprophyte feeds on dead matter.",
+      "as": "কুশ্চুটাত ক্ল'ৰ'ফিল নাই আৰু হ'ষ্টৰিয়াৰে পানী আৰু খাদ্য দুয়ো লয়, সেয়ে ই সম্পূৰ্ণ পৰজীৱী। উপৰি বৃক্ষে কেৱল ধৰি ৰখাৰ বাবে ব্যৱহাৰ কৰে, আৰু মৃতজীৱীয়ে মৃত পদাৰ্থ খায়।"
+    }
+  },
+  {
+    "id": "biology-398",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The opening and closing of stomata is regulated mainly by the movement of",
+      "as": "ৰন্ধ্ৰৰ খোলা আৰু বন্ধ মূলতঃ কিৰ চলাচলেৰে নিয়ন্ত্ৰিত হয়"
+    },
+    "options": [
+      {
+        "en": "sugar through the phloem",
+        "as": "ফ্লয়েমৰে চেনি"
+      },
+      {
+        "en": "oxygen through the cuticle",
+        "as": "কিউটিকুলেৰে অক্সিজেন"
+      },
+      {
+        "en": "potassium ions into and out of the guard cells",
+        "as": "ৰক্ষী কোষলৈ আৰু তাৰপৰা পটাছিয়াম আয়ন"
+      },
+      {
+        "en": "water through the xylem only",
+        "as": "কেৱল জাইলেমৰে পানী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Potassium entry lowers the water potential of the guard cells, water follows, they swell and the pore opens; exit reverses it. Xylem supply supports the change but the trigger is ion movement.",
+      "as": "পটাছিয়াম সোমালে ৰক্ষী কোষৰ পানী বিভৱ কমে, পানী অনুসৰণ কৰি সোমায়, কোষ ফুলি ৰন্ধ্ৰ মেলে; বাহিৰ হ'লে ওলোটা হয়। জাইলেমে পানী যোগায় কিন্তু ট্ৰিগাৰ আয়নৰ চলাচল।"
+    }
+  },
+  {
+    "id": "biology-399",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "In a root nodule of a legume the bacterium Rhizobium fixes nitrogen because the plant supplies it with",
+      "as": "শিম্বজাতীয় উদ্ভিদৰ মূলৰ গাঁ‌‌ঠিত ৰাইজ'বিয়ামে নাইট্ৰজেন স্থিৰ কৰে কাৰণ উদ্ভিদে ইয়াক যোগান ধৰে"
+    },
+    "options": [
+      {
+        "en": "nitrate to start the process",
+        "as": "আৰম্ভ কৰিবলৈ নাইট্ৰেট"
+      },
+      {
+        "en": "carbohydrate for energy and a low oxygen environment",
+        "as": "শক্তিৰ বাবে শৰ্কৰা আৰু কম অক্সিজেনৰ পৰিৱেশ"
+      },
+      {
+        "en": "nitrogen gas from the soil air",
+        "as": "মাটিৰ বতাহৰপৰা নাইট্ৰজেন গেছ"
+      },
+      {
+        "en": "chlorophyll for the bacteria",
+        "as": "বেক্টেৰিয়াৰ বাবে ক্ল'ৰ'ফিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Nitrogenase needs ATP and is destroyed by oxygen, so the plant supplies sugar and leghaemoglobin keeps the nodule micro-aerobic. Nitrate is the product, not the starting material.",
+      "as": "নাইট্ৰ'জিনেজলৈ ATP লাগে আৰু অক্সিজেনে তাক নষ্ট কৰে, সেয়ে উদ্ভিদে চেনি যোগায় আৰু লেগহিম'গ্লবিনে গাঁ‌‌ঠিক অল্প-বায়ুযুক্ত ৰাখে। নাইট্ৰেট উৎপাদন, আৰম্ভণিৰ পদাৰ্থ নহয়।"
+    }
   }
 ]

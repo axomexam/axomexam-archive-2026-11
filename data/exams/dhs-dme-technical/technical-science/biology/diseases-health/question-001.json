@@ -917,5 +917,191 @@
       "en": "Filariasis is carried from person to person by the Culex mosquito, so the worm needs a vector. Typhoid is water-borne, tetanus comes from soil and measles spreads by air.",
       "as": "ফাইলেৰিয়া কিউলেক্স মশাৰ জৰিয়তে এজনৰপৰা আনজনলৈ যায়, সেয়ে কৃমিটোৰ বাহক লাগে। টাইফইড পানীৰ, ধনুষ্টংকাৰ মাটিৰ আৰু সৰু আই বায়ুৰ।"
     }
+  },
+  {
+    "id": "biology-378",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "In dengue haemorrhagic fever the bleeding tendency is best explained by",
+      "as": "ডেংগু হিম'ৰেজিক জ্বৰত ৰক্তক্ষৰণৰ প্ৰৱণতা আটাই ভালকৈ ব্যাখ্যা কৰে"
+    },
+    "options": [
+      {
+        "en": "excess production of clotting factor",
+        "as": "ৰক্ত জমা কাৰকৰ অত্যধিক উৎপাদন"
+      },
+      {
+        "en": "loss of red cell mass only",
+        "as": "কেৱল লোহিত কণিকাৰ ভৰ কমা"
+      },
+      {
+        "en": "a fall in platelet count with leakage from damaged capillaries",
+        "as": "ৰক্ত অনুচক্ৰ কমি ক্ষতিগ্ৰস্ত কেশিকা নলীৰপৰা ৰস ওলোৱা"
+      },
+      {
+        "en": "a rise in platelet count",
+        "as": "ৰক্ত অনুচক্ৰ বঢ়া"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The virus damages small vessels and suppresses platelet production, so both the vessel wall and the clotting plug fail. A high platelet count would oppose, not cause, bleeding.",
+      "as": "ভাইৰাছে সৰু নলী নষ্ট কৰি ৰক্ত অনুচক্ৰ উৎপাদন দমায়, সেয়ে নলীৰ বেৰ আৰু জমা পিণ্ড দুয়ো বিফল হয়। বেছি অনুচক্ৰই ৰক্তক্ষৰণ বিৰোধ কৰে, নকৰায়।"
+    }
+  },
+  {
+    "id": "biology-379",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "A sputum sample shows acid-fast bacilli and the chest film shows a cavity in the upper lobe. The disease is",
+      "as": "কফৰ নমুনাত এছিড-ফাষ্ট বেক্টেৰিয়া আৰু বুকুৰ ছবিত ওপৰ অংশত গহ্বৰ দেখা যায়। ৰোগটো"
+    },
+    "options": [
+      {
+        "en": "pleural effusion",
+        "as": "প্লুৰেল ইফিউশ্যন"
+      },
+      {
+        "en": "pulmonary tuberculosis",
+        "as": "ফুসফুসৰ যক্ষ্মা"
+      },
+      {
+        "en": "lobar pneumonia",
+        "as": "ল'বাৰ নিউম'নিয়া"
+      },
+      {
+        "en": "bronchial asthma",
+        "as": "ব্ৰংকিয়েল হাঁপানি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Acid-fast bacilli with upper lobe cavitation is the classic picture of tuberculosis. Pneumonia fills the alveoli with exudate rather than excavating a cavity.",
+      "as": "এছিড-ফাষ্ট বেক্টেৰিয়া আৰু ওপৰ অংশৰ গহ্বৰ যক্ষ্মাৰ প্ৰচলিত চিত্ৰ। নিউম'নিয়াই এলভিঅ'লাই স্ৰাৱেৰে ভৰায়, গহ্বৰ নকৰে।"
+    }
+  },
+  {
+    "id": "biology-380",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Malaria is transmitted to a human by the bite of",
+      "as": "মেলেৰিয়া মানুহলৈ কেনেকৈ যায়"
+    },
+    "options": [
+      {
+        "en": "an infected female Anopheles mosquito",
+        "as": "সংক্ৰমিত মাইকী এন'ফিলিছ মশাৰ কামোৰেৰে"
+      },
+      {
+        "en": "a male Culex mosquito",
+        "as": "মতা কিউলেক্স মশাৰ কামোৰেৰে"
+      },
+      {
+        "en": "a tsetse fly",
+        "as": "ছেটছে মাখিৰে"
+      },
+      {
+        "en": "a sandfly",
+        "as": "বালিমাখিৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Only the female Anopheles takes a blood meal and can inject sporozoites. Male mosquitoes feed on plant juice and do not transmit, and tsetse flies carry sleeping sickness.",
+      "as": "কেৱল মাইকী এন'ফিলিছে তেজ খায় আৰু স্প'ৰ'জ'ইট সুমুৱাব পাৰে। মতাই উদ্ভিদ ৰস খায় আৰু নিবিয়পায়, আৰু ছেটছে মাখিয়ে নিদ্ৰাৰোগ নিয়ে।"
+    }
+  },
+  {
+    "id": "biology-381",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "A child with measles is most at risk of which complication that makes vitamin A supplementation routine?",
+      "as": "মিজলছ হোৱা শিশুত কোন জটিলতাৰ বেছি বিপদ, যাৰ বাবে ভিটামিন A দিয়া নিয়মিত কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "kidney stones",
+        "as": "বৃক্কৰ পাথৰ"
+      },
+      {
+        "en": "diabetes",
+        "as": "মধুমেহ"
+      },
+      {
+        "en": "scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "corneal damage and blindness",
+        "as": "কৰ্ণিয়াৰ ক্ষতি আৰু অন্ধত্ব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Measles depletes vitamin A stores and can cause corneal ulceration, so supplementation is given to prevent blindness. Stones and diabetes are unrelated to measles.",
+      "as": "মিজলছে ভিটামিন A ৰ ভাণ্ডাৰ নিঃশেষ কৰি কৰ্ণিয়াৰ ঘা কৰিব পাৰে, সেয়ে অন্ধত্ব ৰোধ কৰিবলৈ দিয়া হয়। পাথৰ আৰু মধুমেহ মিজলছৰ সৈতে অসম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "biology-382",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Cholera causes profuse watery diarrhoea, and death results mainly from",
+      "as": "কলera ত প্ৰচুৰ পানীদৰ ডায়েৰিয়া হয়, আৰু মৃত্যু মূলতঃ কিৰপৰা হয়"
+    },
+    "options": [
+      {
+        "en": "brain abscess",
+        "as": "মগজুৰ পুঁ‌জ"
+      },
+      {
+        "en": "bone marrow suppression",
+        "as": "মজ্জা দমন"
+      },
+      {
+        "en": "severe dehydration and electrolyte loss",
+        "as": "তীব্ৰ পানীশূন্যতা আৰু ইলেক্ট্ৰ'লাইট ক্ষয়"
+      },
+      {
+        "en": "liver failure",
+        "as": "যকৃত বিকল"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The toxin drives chloride and water secretion into the gut, so the body loses volume faster than it can replace it. Oral rehydration or intravenous fluid is the treatment that saves life.",
+      "as": "বিষে ক্ল'ৰাইড আৰু পানী অন্ত্ৰলৈ নিঃসৰণ কৰায়, সেয়ে শৰীৰে পূৰণ কৰিব পৰাতকৈ দ্ৰুত তৰল হেৰুৱায়। মুখেৰে বা অন্তঃশিৰা তৰলে জীৱন ৰক্ষা কৰে।"
+    }
+  },
+  {
+    "id": "biology-383",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "A patient with jaundice, dark urine and pale stools most likely has obstruction of the",
+      "as": "জণ্ডিছ, গাঢ় মূত্ৰ আৰু পাণ্ডুৰ বৰণৰ মল থকা ৰোগীত আটাই সম্ভাৱ্য বন্ধ"
+    },
+    "options": [
+      {
+        "en": "oesophagus",
+        "as": "খাদ্যনলী"
+      },
+      {
+        "en": "bile duct",
+        "as": "পিত্ত নলী"
+      },
+      {
+        "en": "ureter",
+        "as": "মূত্ৰনলী"
+      },
+      {
+        "en": "trachea",
+        "as": "শ্বাসনলী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Blocked bile cannot reach the gut, so bilirubin backs up into blood, colours the urine dark and leaves the stool pale. The ureter carries urine and has no role in bile.",
+      "as": "বন্ধ পিত্ত অন্ত্ৰলৈ যাব নোৱাৰে, সেয়ে বিলিৰুবিন তেজত জমি মূত্ৰ গাঢ় কৰে আৰু মল পাণ্ডুৰ হয়। মূত্ৰনলীয়ে মূত্ৰ নিয়ে, পিত্তৰ সৈতে সম্পৰ্ক নাই।"
+    }
   }
 ]

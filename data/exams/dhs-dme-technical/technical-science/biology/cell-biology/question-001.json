@@ -941,5 +941,160 @@
       "en": "Lysosomes hold acid hydrolases and can rupture to digest the cell itself during autolysis, hence the nickname. A peroxisome handles oxidative reactions, not bulk digestion.",
       "as": "লাইছ'জ'মত অ্যাসিড হাইড্ৰ'লেজ থাকে আৰু অট'লাইছিছত ফাটি কোষকেই হজম কৰিব পাৰে, সেয়ে এই নাম। পেৰ'ক্সিছ'মে অক্সিডেটিভ বিক্ৰিয়া চম্ভালে, বৃহৎ হজম নহয়।"
     }
+  },
+  {
+    "id": "biology-350",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "A red blood cell placed in distilled water swells and bursts, but the same cell in 0.9 per cent saline keeps its shape. The property of the membrane that explains both observations is",
+      "as": "পাতিত পানীত ৰখা লোহিত ৰক্তকণিকা ওফন্দি ফাটি যায়, কিন্তু ০.৯ শতাংশ লুণীয়া পানীত একেই কোষে আকাৰ ৰাখে। দুয়োটা পৰ্যবেক্ষণ ব্যাখ্যা কৰা ঝিল্লীৰ ধৰ্মটো"
+    },
+    "options": [
+      {
+        "en": "rigid crystalline structure",
+        "as": "কঠিন স্ফটিক গঠন"
+      },
+      {
+        "en": "active rejection of all ions",
+        "as": "সকলো আয়ন সক্ৰিয়ভাৱে প্ৰত্যাখ্যান"
+      },
+      {
+        "en": "selective permeability",
+        "as": "নিৰ্বাচিত ভেদ্যতা"
+      },
+      {
+        "en": "complete impermeability",
+        "as": "সম্পূৰ্ণ অভেদ্যতা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The bilayer lets water cross freely but restricts solute movement, so water follows its concentration gradient. In distilled water there is no solute outside, water enters and the cell bursts; in isotonic saline the movement balances. A completely impermeable membrane would never swell at all.",
+      "as": "দ্বিস্তৰে পানীক মুকলিকৈ যাব দিয়ে কিন্তু দ্ৰৱক ৰোধ কৰে, সেয়ে পানীয়ে ঘনত্বৰ ঢাল অনুসৰি চলে। পাতিত পানীত বাহিৰত দ্ৰৱক নাই, পানী সোমাই কোষ ফাটে; সমপৰিসৰীয় লুণীয়া পানীত চলাচল সমান হয়। সম্পূৰ্ণ অভেদ্য ঝিল্লী কেতিয়াও নুফুলে।"
+    }
+  },
+  {
+    "id": "biology-351",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "A liver cell poisoned with carbon tetrachloride loses the organelle that carries catalase and oxidase, and hydrogen peroxide begins to accumulate. The damaged organelle is the",
+      "as": "কাৰ্বন টেট্ৰাক্ল'ৰাইডে বিষাক্ত কৰা যকৃত কোষে কেটেলেজ আৰু অক্সিডেজ থকা অংগাণু হেৰুৱায়, আৰু হাইড্ৰ'জেন পাৰঅক্সাইড জমিবলৈ ধৰে। ক্ষতিগ্ৰস্ত অংগাণুটো"
+    },
+    "options": [
+      {
+        "en": "Golgi body",
+        "as": "গলগি বডি"
+      },
+      {
+        "en": "peroxisome",
+        "as": "পেৰক্সিছ'ম"
+      },
+      {
+        "en": "lysosome",
+        "as": "লাইছ'ছ'ম"
+      },
+      {
+        "en": "ribosome",
+        "as": "ৰাইব'ছ'ম"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Catalase destroys hydrogen peroxide and oxidase generates it, and both belong to the peroxisome. The lysosome holds acid hydrolases for bulk digestion and the ribosome builds protein, so neither carries catalase as its defining enzyme.",
+      "as": "কেটেলেজে হাইড্ৰ'জেন পাৰঅক্সাইড নষ্ট কৰে আৰু অক্সিডেজে তাক উৎপন্ন কৰে, দুয়ো পেৰক্সিছ'মৰ। লাইছ'ছ'মত থুল-হজমৰ এছিড হাইড্ৰ'লেজ আৰু ৰাইব'ছ'মত প্ৰ'টিন নিৰ্মাণ, সেয়ে কোনোটোতে কেটেলেজ মূল এনজাইম নহয়।"
+    }
+  },
+  {
+    "id": "biology-352",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "During protein synthesis a cell is treated with a drug that blocks the large ribosomal subunit. The step that stops first is",
+      "as": "প্ৰ'টিন সংশ্লেষণত এটা ঔষধে ডাঙৰ ৰাইব'ছ'ম উপ-একক বন্ধ কৰিলে প্ৰথমে বন্ধ হোৱা খোজটো"
+    },
+    "options": [
+      {
+        "en": "peptide bond formation between amino acids",
+        "as": "এমিন' এছিডৰ মাজত পেপ্টাইড বান্ধনি গঠন"
+      },
+      {
+        "en": "transcription of DNA into mRNA",
+        "as": "DNA ৰপৰা mRNA লৈ অনুলিপন"
+      },
+      {
+        "en": "amino acid activation by tRNA",
+        "as": "tRNA দ্বাৰা এমিন' এছিড সক্ৰিয়কৰণ"
+      },
+      {
+        "en": "transport of mRNA out of the nucleus",
+        "as": "নিউক্লিয়াছৰপৰা mRNA ৰ পৰিবহন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The peptidyl transferase activity sits on the large subunit, so blocking it stops the chain from growing. Transcription happens in the nucleus and tRNA charging happens in the cytoplasm, both before the ribosome is engaged.",
+      "as": "পেপ্টিডিল ট্ৰান্সফেৰেজ ক্ৰিয়া ডাঙৰ উপ-এককত থাকে, সেয়ে বন্ধ কৰিলে শৃংখল বাঢ়িব নোৱাৰে। অনুলিপন নিউক্লিয়াছত আৰু tRNA ভৰ্তি চাইট'প্লাজমত হয়, দুয়ো ৰাইব'ছ'ম জড়িত হোৱাৰ আগতে।"
+    }
+  },
+  {
+    "id": "biology-353",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "A cell that secretes large quantities of digestive enzyme would be expected to show an abundance of",
+      "as": "বহুত পৰিমাণে পাচক এনজাইম নিঃসৰণ কৰা কোষত কি বেছি পৰিমাণে থকা বুলি আশা কৰা যায়"
+    },
+    "options": [
+      {
+        "en": "smooth endoplasmic reticulum only",
+        "as": "কেৱল স্মুথ এণ্ড'প্লাজমিক ৰেটিকুলাম"
+      },
+      {
+        "en": "large central vacuoles",
+        "as": "ডাঙৰ কেন্দ্ৰীয় ৰিক্ত স্থান"
+      },
+      {
+        "en": "numerous chloroplasts",
+        "as": "অসংখ্য ক্ল'ৰ'প্লাষ্ট"
+      },
+      {
+        "en": "rough endoplasmic reticulum and Golgi bodies",
+        "as": "ৰাফ এণ্ড'প্লাজমিক ৰেটিকুলাম আৰু গলগি বডি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Secretory protein is folded in the rough reticulum and then sorted and packed by the Golgi. The smooth reticulum makes lipids and steroids, so it does not handle a protein export load.",
+      "as": "নিঃসৰিত প্ৰ'টিন ৰাফ ৰেটিকুলামত ভাঁ‌জ হয় আৰু গলগিয়ে শ্ৰেণীবদ্ধ কৰি পেক কৰে। স্মুথ ৰেটিকুলামে লিপিড আৰু ষ্টেৰয়ড বনায়, সেয়ে প্ৰ'টিন ৰপ্তানিৰ ভাৰ নলয়।"
+    }
+  },
+  {
+    "id": "biology-354",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "In a plant cell, water enters the central vacuole and the cell becomes turgid. The pressure that builds and presses the protoplast against the wall is called",
+      "as": "উদ্ভিদ কোষত পানী কেন্দ্ৰীয় ৰিক্ত স্থানত সোমাই কোষ টান হয়। প্ৰ'ট'প্লাষ্টক বেৰৰ বিৰুদ্ধে হেঁ‌চা দিয়া চাপটো"
+    },
+    "options": [
+      {
+        "en": "wall pressure in the opposite direction",
+        "as": "বিপৰীত দিশত বেৰৰ চাপ"
+      },
+      {
+        "en": "diffusion pressure deficit",
+        "as": "বিস্তাৰ চাপ ঘাটি"
+      },
+      {
+        "en": "turgor pressure",
+        "as": "টাৰ্গৰ চাপ"
+      },
+      {
+        "en": "osmotic potential only",
+        "as": "কেৱল অছিম'টিক বিভৱ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Turgor pressure is the hydrostatic pressure inside the cell pushing outward on the wall. Osmotic potential is a tendency of water to move, not a physical pressure, and wall pressure pushes inward as the reaction.",
+      "as": "টাৰ্গৰ চাপ হ'ল কোষৰ ভিতৰৰ দ্ৰৱচাপ যি বেৰৰ ওপৰত বাহিৰলৈ হেঁ‌চে। অছিম'টিক বিভৱ পানী চলাৰ প্ৰৱণতা, ভৌতিক চাপ নহয়, আৰু বেৰৰ চাপ প্ৰতিক্ৰিয়া হিচাপে ভিতৰলৈ হেঁ‌চে।"
+    }
   }
 ]

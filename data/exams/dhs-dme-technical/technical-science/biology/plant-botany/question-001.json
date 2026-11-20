@@ -912,5 +912,222 @@
       "en": "Self pollination happens within one flower or between flowers of the same plant. Cross pollination needs pollen to reach a different plant.",
       "as": "স্ব-পৰাগযোগ এটা ফুলৰ ভিতৰত বা একেই উদ্ভিদৰ ফুলৰ মাজত হয়। পৰ-পৰাগযোগত পৰাগ বেলেগ উদ্ভিদলৈ যাব লাগে।"
     }
+  },
+  {
+    "id": "biology-393",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "In photosynthesis, oxygen released into the atmosphere comes from",
+      "as": "সালোক-সংশ্লেষণত বায়ুমণ্ডললৈ ওলোৱা অক্সিজেন কিৰপৰা আহে"
+    },
+    "options": [
+      {
+        "en": "the reduction of carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড বিজাৰণৰপৰা"
+      },
+      {
+        "en": "the breakdown of glucose",
+        "as": "গ্লুক'জ ভগাৰপৰা"
+      },
+      {
+        "en": "the absorption of light by chlorophyll",
+        "as": "ক্ল'ৰ'ফিলৰ পোহৰ শোষণৰপৰা"
+      },
+      {
+        "en": "the splitting of water at photosystem II",
+        "as": "ফট'ছিষ্টেম II ত পানী ভগাৰপৰা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Photolysis of water supplies electrons to replace those lost by chlorophyll and releases oxygen as a by-product. Carbon dioxide is reduced to sugar, so its oxygen ends up in the carbohydrate.",
+      "as": "পানীৰ আলোক-বিভাজনে ক্ল'ৰ'ফিলে হেৰুওৱা ইলেক্ট্ৰন যোগায় আৰু উপজাত হিচাপে অক্সিজেন এৰে। কাৰ্বন ডাইঅক্সাইড চেনিলৈ বিজাৰিত হয়, সেয়ে তাৰ অক্সিজেন শৰ্কৰাত থাকে।"
+    }
+  },
+  {
+    "id": "biology-394",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "A plant wilts on a hot afternoon but recovers at night. The immediate cause of the wilting is",
+      "as": "গৰম দুপৰীয়া উদ্ভিদ মলি যায় কিন্তু ৰাতি ঠিক হয়। মলি যোৱাৰ লগে লগে কাৰণ"
+    },
+    "options": [
+      {
+        "en": "roots stop respiring",
+        "as": "শিপাই শ্বাস লোৱা বন্ধ কৰে"
+      },
+      {
+        "en": "stomata close permanently",
+        "as": "ৰন্ধ্ৰ স্থায়ীভাৱে বন্ধ হয়"
+      },
+      {
+        "en": "transpiration exceeds water absorption",
+        "as": "বাষ্পোৎসৰ্জনে পানী শোষণতকৈ বেছি"
+      },
+      {
+        "en": "photosynthesis stops completely",
+        "as": "সালোক-সংশ্লেষণ সম্পূৰ্ণ বন্ধ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Loss of water vapour through the stomata outruns uptake through the roots, so cells lose turgor and the leaf droops. Recovery at night shows the balance restored, not permanent damage.",
+      "as": "ৰন্ধ্ৰৰে বাষ্প হেৰুওৱা শিপাৰ গ্ৰহণতকৈ বেছি হয়, সেয়ে কোষে টাৰ্গৰ হেৰুৱাই পাত মলি যায়। ৰাতি ঠিক হোৱাই দেখুৱায় ভাৰসাম্য ঘূৰিছে, স্থায়ী ক্ষতি হোৱা নাই।"
+    }
+  },
+  {
+    "id": "biology-395",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Double fertilisation in angiosperms refers to",
+      "as": "আৱৃতবীজীত দ্বৈত নিষেচন মানে"
+    },
+    "options": [
+      {
+        "en": "fusion of two embryos",
+        "as": "দুটা ভ্ৰূণ মিলা"
+      },
+      {
+        "en": "one male gamete fusing with the egg and another with two polar nuclei",
+        "as": "এটা পুৰুষ গেমেট ডিম্বৰ সৈতে আৰু আনটো দুটা ধ্ৰুৱক কেন্দ্ৰৰ সৈতে মিলা"
+      },
+      {
+        "en": "two male gametes fusing with two eggs",
+        "as": "দুটা পুৰুষ গেমেটে দুটা ডিম্বৰ সৈতে মিলা"
+      },
+      {
+        "en": "two pollen tubes entering one ovule",
+        "as": "দুটা পৰাগ নলী এটা বীজাণ্ডত সোমোৱা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "One gamete forms the zygote and the other fuses with the two polar nuclei to make the triploid endosperm, which feeds the embryo. Only one egg is fertilised, not two.",
+      "as": "এটা গেমেটে জাইগ'ট আৰু আনটোৱে দুটা ধ্ৰুৱক কেন্দ্ৰৰ সৈতে মিলি ত্ৰিগুণী এণ্ড'স্পাৰ্ম বনায়, যি ভ্ৰূণক পোহপাল দিয়ে। এটা ডিম্বহে নিষিক্ত হয়, দুটা নহয়।"
+    }
+  },
+  {
+    "id": "biology-396",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "A gardener grafts a scion of a sweet mango onto a hardy rootstock. The fruit produced will be",
+      "as": "মালীয়ে মিঠা আমৰ কলম কঠিন মূলগছত জোড়ে। উৎপন্ন ফল হ'ব"
+    },
+    "options": [
+      {
+        "en": "sweet, because the scion determines fruit quality",
+        "as": "মিঠা, কাৰণ কলমেই ফুলৰ গুণ নিৰ্ধাৰণ কৰে"
+      },
+      {
+        "en": "sour, because the rootstock dominates",
+        "as": "টেঙা, কাৰণ মূলগছে আধিপত্য কৰে"
+      },
+      {
+        "en": "a mixture of both parents",
+        "as": "দুয়ো পিতৃ-মাতৃৰ মিশ্ৰণ"
+      },
+      {
+        "en": "sterile and seedless always",
+        "as": "সদায় বন্ধ্যা আৰু বীজহীন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Grafting joins two tissues but does not mix their genes, so the scion's genotype decides the fruit. The rootstock contributes vigour, disease resistance and anchorage.",
+      "as": "জোড়াই দুটা কলা সংযোগ কৰে কিন্তু জিন নিমিশ্ৰয়, সেয়ে কলমৰ জিনটাইপে ফল নিৰ্ধাৰণ কৰে। মূলগছে সবলতা, ৰোগ প্ৰতিৰোধ আৰু ধৰি ৰখাৰ শক্তি দিয়ে।"
+    }
+  },
+  {
+    "id": "biology-397",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "Cuscuta, the dodder that twines over host plants and draws food from them, is best described as",
+      "as": "আতিথেয়ক উদ্ভিদৰ ওপৰত মেৰ খাই খাদ্য লোৱা অমৰবিলাস (কুশ্চুটা) আটাই ভালকৈ বৰ্ণনা কৰা হয় কি হিচাপে"
+    },
+    "options": [
+      {
+        "en": "an epiphyte",
+        "as": "উপৰি বৃক্ষ"
+      },
+      {
+        "en": "a saprophyte",
+        "as": "মৃতজীৱী"
+      },
+      {
+        "en": "an insectivorous plant",
+        "as": "কীটভক্ষী উদ্ভিদ"
+      },
+      {
+        "en": "a total stem parasite",
+        "as": "সম্পূৰ্ণ কাণ্ড পৰজীৱী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Cuscuta has no chlorophyll and takes both water and food through haustoria, so it is a total parasite. An epiphyte only uses the host for support, and a saprophyte feeds on dead matter.",
+      "as": "কুশ্চুটাত ক্ল'ৰ'ফিল নাই আৰু হ'ষ্টৰিয়াৰে পানী আৰু খাদ্য দুয়ো লয়, সেয়ে ই সম্পূৰ্ণ পৰজীৱী। উপৰি বৃক্ষে কেৱল ধৰি ৰখাৰ বাবে ব্যৱহাৰ কৰে, আৰু মৃতজীৱীয়ে মৃত পদাৰ্থ খায়।"
+    }
+  },
+  {
+    "id": "biology-398",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "The opening and closing of stomata is regulated mainly by the movement of",
+      "as": "ৰন্ধ্ৰৰ খোলা আৰু বন্ধ মূলতঃ কিৰ চলাচলেৰে নিয়ন্ত্ৰিত হয়"
+    },
+    "options": [
+      {
+        "en": "sugar through the phloem",
+        "as": "ফ্লয়েমৰে চেনি"
+      },
+      {
+        "en": "oxygen through the cuticle",
+        "as": "কিউটিকুলেৰে অক্সিজেন"
+      },
+      {
+        "en": "potassium ions into and out of the guard cells",
+        "as": "ৰক্ষী কোষলৈ আৰু তাৰপৰা পটাছিয়াম আয়ন"
+      },
+      {
+        "en": "water through the xylem only",
+        "as": "কেৱল জাইলেমৰে পানী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Potassium entry lowers the water potential of the guard cells, water follows, they swell and the pore opens; exit reverses it. Xylem supply supports the change but the trigger is ion movement.",
+      "as": "পটাছিয়াম সোমালে ৰক্ষী কোষৰ পানী বিভৱ কমে, পানী অনুসৰণ কৰি সোমায়, কোষ ফুলি ৰন্ধ্ৰ মেলে; বাহিৰ হ'লে ওলোটা হয়। জাইলেমে পানী যোগায় কিন্তু ট্ৰিগাৰ আয়নৰ চলাচল।"
+    }
+  },
+  {
+    "id": "biology-399",
+    "leaf": "plant-botany",
+    "q": {
+      "en": "In a root nodule of a legume the bacterium Rhizobium fixes nitrogen because the plant supplies it with",
+      "as": "শিম্বজাতীয় উদ্ভিদৰ মূলৰ গাঁ‌‌ঠিত ৰাইজ'বিয়ামে নাইট্ৰজেন স্থিৰ কৰে কাৰণ উদ্ভিদে ইয়াক যোগান ধৰে"
+    },
+    "options": [
+      {
+        "en": "nitrate to start the process",
+        "as": "আৰম্ভ কৰিবলৈ নাইট্ৰেট"
+      },
+      {
+        "en": "carbohydrate for energy and a low oxygen environment",
+        "as": "শক্তিৰ বাবে শৰ্কৰা আৰু কম অক্সিজেনৰ পৰিৱেশ"
+      },
+      {
+        "en": "nitrogen gas from the soil air",
+        "as": "মাটিৰ বতাহৰপৰা নাইট্ৰজেন গেছ"
+      },
+      {
+        "en": "chlorophyll for the bacteria",
+        "as": "বেক্টেৰিয়াৰ বাবে ক্ল'ৰ'ফিল"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Nitrogenase needs ATP and is destroyed by oxygen, so the plant supplies sugar and leghaemoglobin keeps the nodule micro-aerobic. Nitrate is the product, not the starting material.",
+      "as": "নাইট্ৰ'জিনেজলৈ ATP লাগে আৰু অক্সিজেনে তাক নষ্ট কৰে, সেয়ে উদ্ভিদে চেনি যোগায় আৰু লেগহিম'গ্লবিনে গাঁ‌‌ঠিক অল্প-বায়ুযুক্ত ৰাখে। নাইট্ৰেট উৎপাদন, আৰম্ভণিৰ পদাৰ্থ নহয়।"
+    }
   }
 ]

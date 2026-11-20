@@ -1391,5 +1391,284 @@
       "en": "The human liver converts ammonia to the less toxic urea, which the kidney excretes. Ammonia is the waste of fish and uric acid that of birds and reptiles.",
       "as": "মানুহৰ যকৃয়ে এম'নিয়াক কম বিষাক্ত ইউৰিয়ালৈ ৰূপান্তৰ কৰে, যি বৃক্কই বৰ্জন কৰে। এম'নিয়া মাছৰ আৰু ইউৰিক অ্যাসিড চৰাই তথা সৰীসৃপৰ বৰ্জন।"
     }
+  },
+  {
+    "id": "biology-355",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A patient's stroke volume is 70 mL and the heart rate is 75 beats per minute. The cardiac output is",
+      "as": "ৰোগীৰ ষ্ট্ৰ'ক ভলিউম ৭০ মি.লি. আৰু হৃদয়ৰ গতি প্ৰতি মিনিটত ৭৫। হৃদয়ৰ উৎপাদন"
+    },
+    "options": [
+      {
+        "en": "0.53 litres per minute",
+        "as": "প্ৰতি মিনিটত ০.৫৩ লিটাৰ"
+      },
+      {
+        "en": "5.25 litres per minute",
+        "as": "প্ৰতি মিনিটত ৫.২৫ লিটাৰ"
+      },
+      {
+        "en": "1.05 litres per minute",
+        "as": "প্ৰতি মিনিটত ১.০৫ লিটাৰ"
+      },
+      {
+        "en": "52.5 litres per minute",
+        "as": "প্ৰতি মিনিটত ৫২.৫ লিটাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cardiac output is stroke volume multiplied by heart rate, so 70 mL times 75 gives 5250 mL, or 5.25 litres a minute, which is close to the normal resting value. Adding or dividing the two figures instead of multiplying them produces the wrong options.",
+      "as": "হৃদয়ৰ উৎপাদন = ষ্ট্ৰ'ক ভলিউম × হৃদয়ৰ গতি, সেয়ে ৭০ মি.লি. × ৭৫ = ৫২৫০ মি.লি., অৰ্থাৎ ৫.২৫ লিটাৰ, যি স্বাভাৱিক বিশ্ৰাম মানৰ ওচৰ। যোগ বা হৰণ কৰিলে ভুল উত্তৰ পোৱা যায়।"
+    }
+  },
+  {
+    "id": "biology-356",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "In the loop of Henle, a segment that is almost impermeable to water while it actively pumps sodium and chloride into the interstitium is responsible for diluting the tubular fluid. That segment is the",
+      "as": "হেনলী লুপত এনে এটা অংশ যি পানীলৈ প্ৰায় অভেদ্য কিন্তু ছডিয়াম আৰু ক্ল'ৰাইড সক্ৰিয়ভাৱে বাহিৰলৈ পাম্প কৰে আৰু নলীৰ তৰল পাতল কৰে। সেই অংশটো"
+    },
+    "options": [
+      {
+        "en": "thick ascending limb",
+        "as": "ডাঠ আৰোহী অংশ"
+      },
+      {
+        "en": "thin descending limb",
+        "as": "পাতল অৱৰোহী অংশ"
+      },
+      {
+        "en": "proximal convoluted tubule",
+        "as": "নিকট পৰ্যাবৃত্ত নলিকা"
+      },
+      {
+        "en": "collecting duct in the presence of ADH",
+        "as": "ADH থকা অৱস্থাত সংগ্ৰাহক নলী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The thick ascending limb removes solute without water, which is exactly what dilutes the fluid and builds the medullary salt gradient. The descending limb is water permeable, so it concentrates rather than dilutes.",
+      "as": "ডাঠ আৰোহী অংশই পানী নিয়াৰাশি দ্ৰৱক আঁতৰায়, সেয়ে তৰল পাতল হয় আৰু মজ্জাৰ লৱণ ঢাল গঢ়ে। অৱৰোহী অংশ পানী ভেদযোগ্য, সেয়ে ই পাতল নকৰি ঘন কৰে।"
+    }
+  },
+  {
+    "id": "biology-357",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A person hyperventilates for two minutes. The immediate change in the blood is a fall in",
+      "as": "এজন লোকে দুই মিনিট অতি দ্ৰুত উশাহ ল'লে তেজত লগে লগে কি কমে"
+    },
+    "options": [
+      {
+        "en": "oxygen, lowering the pH",
+        "as": "অক্সিজেন, যাৰ ফলত pH কমে"
+      },
+      {
+        "en": "bicarbonate with no pH change",
+        "as": "বাইকাৰ্বনেট, pH নসলনি"
+      },
+      {
+        "en": "lactic acid, lowering the pH",
+        "as": "লেক্টিক এছিড, যাৰ ফলত pH কমে"
+      },
+      {
+        "en": "carbon dioxide, raising the pH",
+        "as": "কাৰ্বন ডাইঅক্সাইড, যাৰ ফলত pH বাঢ়ে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Over-breathing washes out carbon dioxide faster than it is made, so the carbonic acid equilibrium shifts and the blood turns alkaline, which is why the person feels dizzy and tingles. Oxygen is already near saturation and does not drive the change.",
+      "as": "অতি উশাহে কাৰ্বন ডাইঅক্সাইড উৎপাদনতকৈ দ্ৰুত উলিয়ায়, সেয়ে কাৰ্বনিক এছিড ভাৰসাম্য সৰি তেজ ক্ষাৰকীয় হয়, যাৰ বাবে মূৰ ঘূৰে আৰু জুমি উঠে। অক্সিজেন ইতিমধ্যে প্ৰায় সম্পৃক্ত আৰু পৰিৱৰ্তন নকৰে।"
+    }
+  },
+  {
+    "id": "biology-358",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A fall in renal perfusion pressure causes the juxtaglomerular cells to release renin. The final hormone that holds sodium and water back is",
+      "as": "বৃক্কৰ ৰক্তস্ৰোতৰ চাপ কমিলে জাক্সটাগ্ল'মেৰুলাৰ কোষে ৰেনিন এৰে। ছডিয়াম আৰু পানী ধৰি ৰখা অন্তিম হৰম'নটো"
+    },
+    "options": [
+      {
+        "en": "angiotensinogen",
+        "as": "এঞ্জিঅ'টেনচিন'জেন"
+      },
+      {
+        "en": "atrial natriuretic peptide",
+        "as": "এট্ৰিয়েল নেট্ৰিউৰেটিক পেপ্টাইড"
+      },
+      {
+        "en": "aldosterone",
+        "as": "এলড'ষ্টেৰন"
+      },
+      {
+        "en": "renin itself",
+        "as": "ৰেনিন নিজেই"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Renin starts the cascade and angiotensin converting enzyme makes angiotensin II, which triggers aldosterone from the adrenal cortex to reabsorb sodium and water. Renin is an enzyme, not the final hormone, and atrial peptide does the opposite.",
+      "as": "ৰেনিনে শৃংখল আৰম্ভ কৰে আৰু পৰিৱৰ্তনকাৰী এনজাইমে এঞ্জিঅ'টেনচিন II বনায়, যি এড্ৰিনেল কৰ্টেক্সৰপৰা এলড'ষ্টেৰন ওলাই ছডিয়াম-পানী পুনৰ্শোষণ কৰায়। ৰেনিন এনজাইম, অন্তিম হৰম'ন নহয়, আৰু এট্ৰিয়েল পেপ্টাইডে ওলোটা কাম কৰে।"
+    }
+  },
+  {
+    "id": "biology-359",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Type II alveolar cells are destroyed in a premature newborn. The immediate consequence is",
+      "as": "অকালজাত নৱজাতকত টাইপ II এলভিঅ'লাৰ কোষ নষ্ট হ'লে লগে লগে কি হয়"
+    },
+    "options": [
+      {
+        "en": "haemoglobin stops binding oxygen",
+        "as": "হিম'গ্লবিনে অক্সিজেন বান্ধিব নোৱাৰে"
+      },
+      {
+        "en": "alveoli collapse because surface tension is no longer lowered",
+        "as": "পৃষ্ঠ টান নকমাৰ বাবে এলভিঅ'লাই সংকুচিত হয়"
+      },
+      {
+        "en": "gas exchange stops because the surface area doubles",
+        "as": "পৃষ্ঠ ক্ষেত্ৰ দুগুণ হোৱাৰ বাবে গেছ বিনিময় বন্ধ হয়"
+      },
+      {
+        "en": "the airways fill with mucus",
+        "as": "বায়ুপথত শ্লেষ্মা ভৰে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Surfactant from type II cells lowers surface tension and keeps the alveoli open; without it the small alveoli collapse at the end of each breath. Type I cells form the diffusion surface, so losing them is a separate problem.",
+      "as": "টাইপ II কোষৰ ছাৰ্ফেক্টেণ্টে পৃষ্ঠ টান কমাই এলভিঅ'লাই খোলা ৰাখে; ই নাথাকিলে সৰু এলভিঅ'লাই প্ৰতিটো উশাহৰ শেষত সংকুচিত হয়। টাইপ I কোষে বিসৰণ পৃষ্ঠ গঢ়ে, সেয়ে তেওঁলোক হেৰুওৱাটো বেলেগ সমস্যা।"
+    }
+  },
+  {
+    "id": "biology-360",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A mountaineer at high altitude develops a higher red cell count over several weeks. The hormone responsible for this change is",
+      "as": "উচ্চ উচ্চতাত থকা পৰ্বতাৰোহীৰ কেইসপ্তাহত লোহিত কণিকা বাঢ়ে। এই পৰিৱৰ্তনৰ বাবে দায়ী হৰম'নটো"
+    },
+    "options": [
+      {
+        "en": "erythropoietin",
+        "as": "এৰিথ্ৰ'পয়েটিন"
+      },
+      {
+        "en": "insulin",
+        "as": "ইনচুলিন"
+      },
+      {
+        "en": "thyroxine",
+        "as": "থাইৰক্সিন"
+      },
+      {
+        "en": "cortisol",
+        "as": "কৰ্টিছল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Low oxygen tension is sensed by the kidney, which releases erythropoietin to stimulate red cell production in the marrow. Thyroxine raises metabolic rate and cortisol affects stress responses, but neither drives red cell mass.",
+      "as": "কম অক্সিজেন চাপ বৃক্কই অনুভৱ কৰি এৰিথ্ৰ'পয়েটিন এৰে, যিয়ে মজ্জাত লোহিত কণিকা উৎপাদন বঢ়ায়। থাইৰক্সিনে বিপাকীয় হাৰ বঢ়ায় আৰু কৰ্টিছলে চাপ প্ৰতিক্ৰিয়া নিয়ন্ত্ৰণ কৰে, কিন্তু কোনোটোৱেই লোহিত কণিকা নবঢ়ায়।"
+    }
+  },
+  {
+    "id": "biology-361",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A patient passes large volumes of dilute urine and is intensely thirsty. The most likely hormonal defect is a deficiency of",
+      "as": "ৰোগীয়ে বেছি পৰিমাণৰ পাতল মূত্ৰ ত্যাগ কৰে আৰু তীব্ৰ পিয়াহ অনুভৱ কৰে। আটাই সম্ভাৱ্য হৰম'নৰ অভাৱ"
+    },
+    "options": [
+      {
+        "en": "aldosterone",
+        "as": "এলড'ষ্টেৰন"
+      },
+      {
+        "en": "adrenaline",
+        "as": "এড্ৰিনেলিন"
+      },
+      {
+        "en": "glucagon",
+        "as": "গ্লুকাগন"
+      },
+      {
+        "en": "antidiuretic hormone",
+        "as": "এণ্টিডাইউৰেটিক হৰম'ন"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Without antidiuretic hormone the collecting duct stays impermeable to water, so water is lost in urine and the thirst mechanism is triggered. Aldosterone loss would instead waste sodium and lower blood pressure.",
+      "as": "এণ্টিডাইউৰেটিক হৰম'ন নাথাকিলে সংগ্ৰাহক নলী পানীলৈ অভেদ্য থাকে, সেয়ে পানী মূত্ৰৰে যায় আৰু পিয়াহৰ প্ৰক্ৰিয়া জাগে। এলড'ষ্টেৰনৰ অভাৱত ছডিয়াম যায় আৰু ৰক্তচাপ কমে।"
+    }
+  },
+  {
+    "id": "biology-362",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "During strenuous exercise a muscle accumulates lactic acid because",
+      "as": "কঠোৰ ব্যায়ামত পেশীত লেক্টিক এছিড জমে কাৰণ"
+    },
+    "options": [
+      {
+        "en": "carbon dioxide cannot leave the muscle",
+        "as": "কাৰ্বন ডাইঅক্সাইড পেশীৰপৰা ওলাব নোৱাৰে"
+      },
+      {
+        "en": "the muscle stops making ATP entirely",
+        "as": "পেশীয়ে ATP বনোৱা সম্পূৰ্ণ বন্ধ কৰে"
+      },
+      {
+        "en": "oxygen supply lags behind demand, so pyruvate is reduced instead of entering the Krebs cycle",
+        "as": "অক্সিজেন যোগান চাহিদাতকৈ পিছ পৰে, সেয়ে পাইৰুভেট ক্ৰেবছ চক্ৰত নোসোমাই বিজাৰিত হয়"
+      },
+      {
+        "en": "the Krebs cycle runs faster than glycolysis",
+        "as": "ক্ৰেবছ চক্ৰ গ্লাইক'লাইছিছতকৈ দ্ৰুত চলে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "When oxygen is short, pyruvate cannot be oxidised and is converted to lactate so that NAD is regenerated and glycolysis can continue. ATP production falls but does not stop, and carbon dioxide removal is not the limiting step.",
+      "as": "অক্সিজেন কম হ'লে পাইৰুভেট জাৰিত নহয় আৰু লেক্টেটত পৰিণত হয় যাতে NAD ঘূৰে আৰু গ্লাইক'লাইছিছ চলি থাকে। ATP উৎপাদন কমে কিন্তু বন্ধ নহয়, আৰু কাৰ্বন ডাইঅক্সাইড ওলোৱাটো সীমাবদ্ধ খোজ নহয়।"
+    }
+  },
+  {
+    "id": "biology-363",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "A person with a lesion in the medulla oblongata will most directly lose",
+      "as": "মেডুলা অৱলংগাটাত ক্ষতি হ'লে আটাই পোনপটীয়াকৈ কি হেৰায়"
+    },
+    "options": [
+      {
+        "en": "balance while walking",
+        "as": "খোজ কঢ়াত ভাৰসাম্য"
+      },
+      {
+        "en": "automatic control of breathing and heart rate",
+        "as": "উশাহ আৰু হৃদয়ৰ গতিৰ স্বয়ংক্ৰিয় নিয়ন্ত্ৰণ"
+      },
+      {
+        "en": "voluntary movement of the limbs",
+        "as": "অংগৰ ইচ্ছাকৃত লৰচৰ"
+      },
+      {
+        "en": "interpretation of visual images",
+        "as": "দৃশ্য ছবিৰ ব্যাখ্যা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The medulla holds the respiratory and cardiac centres, so its damage threatens breathing and circulation directly. Voluntary movement is cortical and balance is cerebellar.",
+      "as": "মেডুলাত শ্বাস-প্ৰশ্বাস আৰু হৃদয় কেন্দ্ৰ থাকে, সেয়ে ইয়াৰ ক্ষতিয়ে উশাহ আৰু সংবহন পোনপটীয়াকৈ ভাবুকি দিয়ে। ইচ্ছাকৃত লৰচৰ কৰ্টেক্সৰ আৰু ভাৰসাম্য চেৰিবেলামৰ।"
+    }
   }
 ]

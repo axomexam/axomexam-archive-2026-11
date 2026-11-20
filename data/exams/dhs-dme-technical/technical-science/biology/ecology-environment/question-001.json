@@ -944,5 +944,129 @@
       "en": "Solar energy is replenished continuously and will not run out on human timescales. Coal, petroleum and natural gas are fossil fuels formed over millions of years.",
       "as": "সৌৰ শক্তি নিৰন্তৰ পুনৰ পূৰণ হয় আৰু মানৱ সময়সীমাত শেষ নহয়। কয়লা, পেট্ৰ'লিয়াম আৰু প্ৰাকৃতিক গেছ কোটি বছৰত গঠিত জীৱাশ্ম ইন্ধন।"
     }
+  },
+  {
+    "id": "biology-389",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Only about ten per cent of the energy at one trophic level reaches the next because",
+      "as": "এটা ট্ৰফিক স্তৰৰ মাত্ৰ দহ শতাংশ শক্তি পৰৱৰ্তী স্তৰলৈ যায় কাৰণ"
+    },
+    "options": [
+      {
+        "en": "predators digest food completely",
+        "as": "পৰভক্ষীয়ে খাদ্য সম্পূৰ্ণ হজম কৰে"
+      },
+      {
+        "en": "energy is created at each level",
+        "as": "প্ৰতিটো স্তৰত শক্তি সৃষ্টি হয়"
+      },
+      {
+        "en": "the food chain has only two links",
+        "as": "খাদ্য শৃংখলত কেৱল দুই খলপ"
+      },
+      {
+        "en": "most energy is lost as heat through respiration and in uneaten parts",
+        "as": "বেছিভাগ শক্তি শ্বাস-প্ৰশ্বাসেৰে তাপ হিচাপে আৰু নোখোৱা অংশত হেৰায়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Respiration converts most assimilated energy to heat, and not every part of the prey is eaten or digestible, so transfer is inefficient. Energy is never created in a food chain, only transferred and lost.",
+      "as": "শ্বাস-প্ৰশ্বাসে বেছিভাগ আত্মসাৎ শক্তি তাপলৈ ৰূপান্তৰ কৰে, আৰু চিকাৰৰ প্ৰতিটো অংশ খোৱা বা হজমযোগ্য নহয়, সেয়ে স্থানান্তৰ অপৰ্যাপ্ত। খাদ্য শৃংখলত শক্তি সৃষ্টি নহয়, কেৱল স্থানান্তৰ আৰু ক্ষয়।"
+    }
+  },
+  {
+    "id": "biology-390",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "The phosphorus cycle differs from the carbon and nitrogen cycles because phosphorus",
+      "as": "ফছফৰাছ চক্ৰ কাৰ্বন আৰু নাইট্ৰজেন চক্ৰতকৈ বেলেগ কাৰণ ফছফৰাছ"
+    },
+    "options": [
+      {
+        "en": "is returned only by denitrifying bacteria",
+        "as": "কেৱল ডিনাইট্ৰিফাইং বেক্টেৰিয়াৰেহে ঘূৰি আহে"
+      },
+      {
+        "en": "exists only as a gas",
+        "as": "কেৱল গেছ হিচাপে থাকে"
+      },
+      {
+        "en": "has no significant gaseous phase and cycles through rock, soil and water",
+        "as": "উল্লেখযোগ্য গেছীয় অৱস্থা নাই আৰু শিলা, মাটি আৰু পানীৰে ঘূৰে"
+      },
+      {
+        "en": "is fixed by lightning",
+        "as": "বিজুলিৰে স্থিৰ হয়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Phosphorus moves as phosphate in solution and as mineral deposits, with no atmospheric reservoir, which is why it often limits plant growth. Nitrogen has a large gaseous pool fixed by bacteria and lightning.",
+      "as": "ফছফৰাছ দ্ৰৱত ফছফেট আৰু খনিজ জমা হিচাপে চলে, বায়ুমণ্ডলীয় ভাণ্ডাৰ নাই, সেয়ে ই প্ৰায়ে উদ্ভিদ বৃদ্ধি সীমিত কৰে। নাইট্ৰজেনৰ বিশাল গেছীয় ভাণ্ডাৰ বেক্টেৰিয়া আৰু বিজুলিয়ে স্থিৰ কৰে।"
+    }
+  },
+  {
+    "id": "biology-391",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "A pyramid of numbers can be inverted, as when many insects feed on one large tree, but a pyramid of energy is never inverted because",
+      "as": "সংখ্যাৰ পিৰামিড ওলোটা হ'ব পাৰে, যেনে এজোপা ডাঙৰ গছত বহু পতংগই খায়, কিন্তু শক্তিৰ পিৰামিড কেতিয়াও ওলোটা নহয় কাৰণ"
+    },
+    "options": [
+      {
+        "en": "numbers always fall at each level",
+        "as": "সংখ্যা প্ৰতিটো স্তৰত সদায় কমে"
+      },
+      {
+        "en": "energy is always lost at each transfer",
+        "as": "প্ৰতিটো স্থানান্তৰত শক্তি সদায় হেৰায়"
+      },
+      {
+        "en": "large trees contain no energy",
+        "as": "ডাঙৰ গছে শক্তি ধৰি নৰাখে"
+      },
+      {
+        "en": "insects are producers",
+        "as": "পতংগ উৎপাদক"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The second law of thermodynamics guarantees that usable energy decreases at every step, so a lower level can never hold more energy than the one below it. Numbers can invert because one tree supports many insects.",
+      "as": "তাপগতি বিজ্ঞানৰ দ্বিতীয় সূত্ৰই নিশ্চিত কৰে যে প্ৰতিটো খোজত উপযোগী শক্তি কমে, সেয়ে তলৰ স্তৰে ওপৰৰতকৈ বেছি শক্তি ধৰি ৰাখিব নোৱাৰে। এজোপা গছে বহু পতংগ পোহপাল দিয়াৰ বাবে সংখ্যা ওলোটা হ'ব পাৰে।"
+    }
+  },
+  {
+    "id": "biology-392",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "Deepor Beel near Guwahati is significant because it is",
+      "as": "গুৱাহাটীৰ ওচৰৰ দীপৰ বিল গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "a Ramsar wetland of international importance",
+        "as": "আন্তৰ্জাতিক গুৰুত্বৰ ৰামছাৰ জলভূমি"
+      },
+      {
+        "en": "a national park for tigers",
+        "as": "বাঘৰ বাবে ৰাষ্ট্ৰীয় উদ্যান"
+      },
+      {
+        "en": "a biosphere reserve for elephants only",
+        "as": "কেৱল হাতীৰ বাবে জীৱমণ্ডল সংৰক্ষিত অঞ্চল"
+      },
+      {
+        "en": "a marine sanctuary",
+        "as": "সামুদ্ৰিক অভয়াৰণ্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The wetland was listed under the Ramsar Convention because it supports migratory waterfowl and flood control for the city. Kaziranga and Manas are the park examples in Assam.",
+      "as": "জলভূমিখন ৰামছাৰ সন্মিলনত তালিকাভুক্ত কাৰণ ই পৰিভ্ৰমী জলচৰ চৰাইক আশ্ৰয় দিয়ে আৰু চহৰৰ বান নিয়ন্ত্ৰণ কৰে। কাজিৰঙা আৰু মানস অসমৰ উদ্যানৰ উদাহৰণ।"
+    }
   }
 ]

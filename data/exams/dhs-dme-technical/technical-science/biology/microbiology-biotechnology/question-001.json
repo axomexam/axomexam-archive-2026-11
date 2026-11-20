@@ -923,5 +923,222 @@
       "en": "Short generation time and the ability to use agricultural and industrial waste make microbial fermentation economical. Microbes do mutate, need nutrients and often give several products.",
       "as": "চুটি বংশানুক্ৰম সময় আৰু কৃষি তথা শিল্প বৰ্জিত সামগ্ৰী ব্যৱহাৰৰ ক্ষমতাই অণুজীৱ সেঁচক লাভজনক কৰে। অণুজীৱ পৰিৱৰ্তিত হয়, পুষ্টি লাগে আৰু প্ৰায়ে কেইবাটাও সামগ্ৰী দিয়ে।"
     }
+  },
+  {
+    "id": "biology-371",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "A Gram-negative organism appears pink after Gram staining because",
+      "as": "গ্ৰাম দাগৰ পিছত গ্ৰাম-ঋণাত্মক জীৱাণু গুলপীয়া দেখা যায় কাৰণ"
+    },
+    "options": [
+      {
+        "en": "it is always non-viable",
+        "as": "ই সদায় অজীৱন্ত"
+      },
+      {
+        "en": "the thin peptidoglycan layer loses the crystal violet and takes the counterstain",
+        "as": "পাতল পেপ্টিড'গ্লাইকেন স্তৰে ক্ৰিষ্টেল ভায়'লেট হেৰুৱাই প্ৰতিদাগ লয়"
+      },
+      {
+        "en": "it has no cell wall at all",
+        "as": "ইয়াৰ কোষ বেৰ একেবাৰে নাই"
+      },
+      {
+        "en": "it retains crystal violet strongly",
+        "as": "ই ক্ৰিষ্টেল ভাইঅ'লেট দৃঢ়ভাৱে ধৰি ৰাখে"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The alcohol step washes the dye out of the thin wall, and the safranin counterstain then colours the cell pink. Gram-positive walls are thick and keep the purple dye.",
+      "as": "এলকহ'ল ধুই পাতল বেৰৰপৰা ৰং উলিয়ায়, আৰু ছাফ্ৰানিন প্ৰতিদাগে কোষ গুলপীয়া কৰে। গ্ৰাম-ধনাত্মক বেৰ ডাঠ আৰু বেঙুনীয়া ৰং ৰাখে।"
+    }
+  },
+  {
+    "id": "biology-372",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "An autoclave is preferred over boiling water for sterilising surgical instruments because",
+      "as": "শল্য সজুলি জীৱাণুমুক্ত কৰিবলৈ উতলা পানীতকৈ অ'ট'ক্লেভ পছন্দ কৰা হয় কাৰণ"
+    },
+    "options": [
+      {
+        "en": "steam under pressure reaches a temperature that destroys bacterial spores",
+        "as": "চাপত ভাপে বেক্টেৰিয়াৰ বীজাণু নষ্ট কৰা উষ্ণতাত পায়"
+      },
+      {
+        "en": "boiling water is too cold to wet the instruments",
+        "as": "উতলা পানী সজুলি তিতা কৰিবলৈ অতি ঠাণ্ডা"
+      },
+      {
+        "en": "an autoclave works without heat",
+        "as": "অ'ট'ক্লেভ তাপ নোহোৱাকৈ কাম কৰে"
+      },
+      {
+        "en": "boiling removes only dust",
+        "as": "উতলালে কেৱল ধূলি আঁতৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Boiling at normal pressure stops near a hundred degrees, which kills vegetative cells but not spores. Steam at raised pressure reaches about 121 degrees and destroys spores as well.",
+      "as": "সাধাৰণ চাপত উতলাই এশ ডিগ্ৰীৰ ওচৰত ৰয়, যিয়ে সক্ৰিয় কোষ মাৰে কিন্তু বীজাণু নমাৰে। বঢ়া চাপত ভাপে প্ৰায় ১২১ ডিগ্ৰীত পাই বীজাণুও নষ্ট কৰে।"
+    }
+  },
+  {
+    "id": "biology-373",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "A bacterium that grows only in the absence of oxygen and is killed when exposed to air is called",
+      "as": "কেৱল অক্সিজেন নোহোৱা অৱস্থাত বাঢ়ি অক্সিজেনৰ সংস্পৰ্শত মৰা বেক্টেৰিয়াক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "obligate aerobe",
+        "as": "বাধ্যতামূলক এয়াৰ'ব"
+      },
+      {
+        "en": "facultative anaerobe",
+        "as": "ঐচ্ছিক এনাৰ'ব"
+      },
+      {
+        "en": "microaerophile",
+        "as": "মাইক্ৰ'এয়াৰ'ফিল"
+      },
+      {
+        "en": "obligate anaerobe",
+        "as": "বাধ্যতামূলক এনাৰ'ব"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Obligate anaerobes lack the enzymes to cope with oxygen radicals, so air is lethal. Facultative organisms can switch and microaerophiles need low but not zero oxygen.",
+      "as": "বাধ্যতামূলক এনাৰ'বত অক্সিজেন ৰেডিকেল সামৰাৰ এনজাইম নাথাকে, সেয়ে বতাহ মাৰাত্মক। ঐচ্ছিক জীৱাণুৱে সলনি কৰিব পাৰে আৰু মাইক্ৰ'এয়াৰ'ফিলে কম কিন্তু শূন্য নোহোৱা অক্সিজেন বিচাৰে।"
+    }
+  },
+  {
+    "id": "biology-374",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "In genetic engineering the plasmid is used as a vector because it",
+      "as": "জিনীয় অভিযান্ত্ৰণত প্লাজমিডক ভেক্টৰ হিচাপে ব্যৱহাৰ কৰা হয় কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "provides the restriction enzyme",
+        "as": "ৰেস্ত্ৰিকচন এনজাইম যোগায়"
+      },
+      {
+        "en": "prevents the host from dividing",
+        "as": "আতিথেয়ক বিভাজনৰপৰা ৰোধে"
+      },
+      {
+        "en": "replicates independently inside the bacterial host and can carry an inserted gene",
+        "as": "বেক্টেৰিয়াৰ ভিতৰত স্বতন্ত্ৰভাৱে নকল হয় আৰু সোমোৱা জিন বহন কৰিব পাৰে"
+      },
+      {
+        "en": "digests foreign DNA",
+        "as": "বাহিৰা DNA হজম কৰে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A plasmid carries its own origin of replication, so the inserted gene is copied along with it every time the bacterium divides. The cutting enzyme is supplied separately.",
+      "as": "প্লাজমিডত নিজৰ অনুলিপন আৰম্ভণি থাকে, সেয়ে বেক্টেৰিয়া বিভাজনৰ প্ৰতিবাৰে সোমোৱা জিনো নকল হয়। কটা এনজাইম বেলেগকৈ যোগ কৰা হয়।"
+    }
+  },
+  {
+    "id": "biology-375",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Pasteurisation of milk kills most pathogens while preserving quality because it",
+      "as": "গাখীৰ পেষ্টুৰীকৰণে বেছিভাগ ৰোগজীৱাণু মাৰি গুণ ৰাখে কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "removes all bacteria including spores",
+        "as": "বীজাণুকে ধৰি সকলো বেক্টেৰিয়া আঁতৰায়"
+      },
+      {
+        "en": "uses a controlled temperature for a short time rather than prolonged boiling",
+        "as": "দীঘলীয়া উতলাৰ সলনি চমু সময়ৰ বাবে নিয়ন্ত্ৰিত উষ্ণতা ব্যৱহাৰ কৰে"
+      },
+      {
+        "en": "adds antibiotics to the milk",
+        "as": "গাখীৰত এণ্টিবায়'টিক যোগ কৰে"
+      },
+      {
+        "en": "freezes the milk slowly",
+        "as": "গাখীৰ লাহে লাহে জমায়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Heating to about 63 degrees for thirty minutes or 72 degrees for fifteen seconds kills the vegetative pathogens without spoiling taste and protein. Spores survive, which is why pasteurised milk still needs refrigeration.",
+      "as": "প্ৰায় ৬৩ ডিগ্ৰীত ত্ৰিশ মিনিট বা ৭২ ডিগ্ৰীত পোন্ধৰ ছেকেণ্ড গৰম কৰিলে ৰোগজীৱাণু মৰে কিন্তু সোৱাদ আৰু প্ৰ'টিন নষ্ট নহয়। বীজাণু থাকি যায়, সেয়ে পেষ্টুৰীকৃত গাখীৰো ফ্ৰিজত ৰাখিব লাগে।"
+    }
+  },
+  {
+    "id": "biology-376",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "Which of the following correctly pairs a microbe with the product it gives commercially?",
+      "as": "তলৰ কোনটোৱে অণুজীৱ আৰু ব্যৱসায়িকভাৱে ইয়াৰ উৎপাদন শুদ্ধভাৱে জোড়ে"
+    },
+    "options": [
+      {
+        "en": "Saccharomyces cerevisiae and ethanol",
+        "as": "ছেকাৰ'মাইচিছ চেৰেভিচি আৰু ইথানল"
+      },
+      {
+        "en": "Escherichia coli and penicillin",
+        "as": "এছছেৰিচিয়া ক'লাই আৰু পেনিচিলিন"
+      },
+      {
+        "en": "Lactobacillus and insulin",
+        "as": "লেক্ট'বেছিলাছ আৰু ইনচুলিন"
+      },
+      {
+        "en": "Clostridium and curd",
+        "as": "ক্ল'ষ্ট্ৰিডিয়াম আৰু দৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Yeast ferments sugar to ethanol and carbon dioxide, which is the basis of brewing and baking. Penicillin comes from Penicillium moulds and curd from Lactobacillus.",
+      "as": "ঈষ্টে চেনিক ইথানল আৰু কাৰ্বন ডাইঅক্সাইডলৈ গাঁ‌জে, যি মদ আৰু পিঠা বনোৱাৰ ভিত্তি। পেনিচিলিন পেনিচিলিয়াম ছত্ৰাকৰপৰা আৰু দৈ লেক্ট'বেছিলাছৰপৰা।"
+    }
+  },
+  {
+    "id": "biology-377",
+    "leaf": "microbiology-biotechnology",
+    "q": {
+      "en": "A patient develops infection after a bite and the wound smells foul with gas in the tissue. The most likely organism belongs to the genus",
+      "as": "কামোৰৰ পিছত ৰোগীত সংক্ৰমণ হয়, ঘাৰ পৰা দুৰ্গন্ধ ওলায় আৰু কলাত গেছ জমে। আটাই সম্ভাৱ্য জীৱাণুৰ গণ"
+    },
+    "options": [
+      {
+        "en": "Mycobacterium",
+        "as": "মাইক'বেক্টেৰিয়াম"
+      },
+      {
+        "en": "Treponema",
+        "as": "ট্ৰেপ'নেমা"
+      },
+      {
+        "en": "Vibrio",
+        "as": "ভিব্ৰিঅ'"
+      },
+      {
+        "en": "Clostridium",
+        "as": "ক্ল'ষ্ট্ৰিডিয়াম"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Anaerobic clostridia grow in dead tissue and produce gas and foul odour. Mycobacterium causes tuberculosis and leprosy, and Vibrio causes cholera.",
+      "as": "এনাৰ'বিক ক্ল'ষ্ট্ৰিডিয়া মৃত কলাত বাঢ়ি গেছ আৰু দুৰ্গন্ধ দিয়ে। মাইক'বেক্টেৰিয়ামে যক্ষ্মা আৰু কুষ্ঠ, আৰু ভিব্ৰিঅ'ই কলera কৰে।"
+    }
   }
 ]
