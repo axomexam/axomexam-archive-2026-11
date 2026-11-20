@@ -2890,3 +2890,32 @@ now holds 24 English paragraphs (3,288 words) and 24 Assamese paragraphs
 (2,568 words); the nine paragraphs added in this session were 1,753 English
 words on their own, which clears the 1,300-word floor without counting the
 key-facts list or the FAQs.
+
+### Scope rule — only the book the user named
+
+A user instruction to update one exam book (for example "sirf DHS & DME
+Technical") is a hard scope limit. Do not edit, rewrite or regenerate any
+other book's content while doing that work. Two things in this repo cut
+across every book and need care:
+
+1. **`node tools/build-as-twins.js --prefix exams/dhs-dme-technical` breaks
+   the Assamese nav.** A scoped run writes the twin with the English nav
+   (no `/as/` prefix), so every Assamese page under the prefix starts
+   linking to the English site. The full run does not do this, because the
+   Assamese nav is derived from a map that the full pass builds first. Use
+   the unscoped run and let it skip the 800 unchanged pages, then check
+   `git status` before committing. If a scoped run is unavoidable, diff one
+   twin and confirm `href="/as/exams/"` survived.
+
+2. **`data/counts.json` and the asset stamps are global by design.** Any
+   content addition changes the sitewide question total, and
+   `scripts/stamp-assets.js` rewrites `?v=` hashes in every HTML file. Both
+   are expected side effects of a book update, not scope violations. Only
+   the *content* of another book is off limits. When reviewing a diff,
+   confirm the non-target changes are limited to `js/` hashes, `sw.js`
+   `CACHE_VERSION` and `data/counts.json` — anything else is out of scope.
+
+`tools/build-dhs-dme-technical.js` itself only writes
+`exams/dhs-dme-technical/**` and `as/exams/dhs-dme-technical/**`, so the
+generator is already scoped; it is the shared post-processing steps above
+that reach wider.
