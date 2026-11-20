@@ -1,0 +1,932 @@
+[
+  {
+    "id": "nursing-241",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "A nosocomial infection is one that is acquired",
+      "as": "ন'ছ'কমিয়েল সংক্ৰমণ হ'ল এনে সংক্ৰমণ যি হয়"
+    },
+    "options": [
+      {
+        "en": "in hospital",
+        "as": "চিকিৎসালয়ত"
+      },
+      {
+        "en": "only at home",
+        "as": "কেৱল ঘৰত"
+      },
+      {
+        "en": "before birth",
+        "as": "জন্মৰ আগতে"
+      },
+      {
+        "en": "from food only",
+        "as": "কেৱল খাদ্যৰপৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The term covers infections that were not present or incubating on admission, so the hospital environment is the source.",
+      "as": "এই শব্দই এনে সংক্ৰমণ বুজায় যি ভৰ্তি হওঁতে নাছিল বা উমলি থকা নাছিল, সেয়ে উৎস চিকিৎসালয়ৰ পৰিৱেশ।"
+    }
+  },
+  {
+    "id": "nursing-242",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "The single most effective measure to prevent hospital acquired infection is",
+      "as": "চিকিৎসালয়ত হোৱা সংক্ৰমণ ৰোধৰ আটাই ফলপ্ৰসূ একক ব্যৱস্থা"
+    },
+    "options": [
+      {
+        "en": "hand hygiene",
+        "as": "হাত পৰিষ্কাৰ কৰা"
+      },
+      {
+        "en": "wearing gloves always",
+        "as": "সদায় দস্তানা পিন্ধা"
+      },
+      {
+        "en": "using antibiotics daily",
+        "as": "প্ৰতিদিনে এণ্টিবায়'টিক দিয়া"
+      },
+      {
+        "en": "closing the windows",
+        "as": "খিৰিকী বন্ধ কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Most transmission passes through hands, so cleaning them at the right moments interrupts the chain at its weakest link.",
+      "as": "বেছিভাগ সংক্ৰমণ হাতেৰে যায়, সেয়ে শুদ্ধ সময়ত পৰিষ্কাৰ কৰিলে শৃংখল আটাই দুৰ্বল ঠাইত ভাঙে।"
+    }
+  },
+  {
+    "id": "nursing-243",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Sterilisation by autoclave uses",
+      "as": "অ'ট'ক্লেভ জীৱাণুমুক্তকৰণে ব্যৱহাৰ কৰে"
+    },
+    "options": [
+      {
+        "en": "steam under pressure",
+        "as": "চাপত ভাপ"
+      },
+      {
+        "en": "dry heat only",
+        "as": "কেৱল শুকান তাপ"
+      },
+      {
+        "en": "chemical dye",
+        "as": "ৰাসায়নিক ৰং"
+      },
+      {
+        "en": "ultraviolet light only",
+        "as": "কেৱল অতি-বেঙুনীয়া পোহৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Saturated steam at raised pressure reaches the temperature that kills spores. Dry heat needs much longer and is used for glassware.",
+      "as": "চাপত সম্পৃক্ত ভাপে বীজাণু মৰা উষ্ণতাত পায়। শুকান তাপে বহু বেছি সময় লাগে আৰু কাচৰ সজুলিত ব্যৱহৃত।"
+    }
+  },
+  {
+    "id": "nursing-244",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Standard precautions apply to",
+      "as": "মানক সতৰ্কতা প্ৰযোজ্য হয়"
+    },
+    "options": [
+      {
+        "en": "all patients regardless of diagnosis",
+        "as": "ৰোগ নিৰ্ণয় যিয়েই নহওক সকলো ৰোগীত"
+      },
+      {
+        "en": "only known infected patients",
+        "as": "কেৱল জনা সংক্ৰামক ৰোগীত"
+      },
+      {
+        "en": "only surgical patients",
+        "as": "কেৱল শল্য ৰোগীত"
+      },
+      {
+        "en": "only children",
+        "as": "কেৱল শিশুত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Many carriers are undiagnosed, so gloves and hand hygiene are used for every patient as a routine.",
+      "as": "বহুত বাহক ৰোগ নিৰ্ণয়হীন, সেয়ে প্ৰতিজন ৰোগীৰ বাবে দস্তানা আৰু হাত পৰিষ্কাৰ নিয়মিত ব্যৱহাৰ।"
+    }
+  },
+  {
+    "id": "nursing-245",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "The correct sequence for removing personal protective equipment is",
+      "as": "ব্যক্তিগত সুৰক্ষা সজুলি খোলাৰ শুদ্ধ ক্ৰম"
+    },
+    "options": [
+      {
+        "en": "gloves first, then goggles, gown and mask",
+        "as": "প্ৰথমে দস্তানা, তাৰ পিছত চশমা, গাউন আৰু মাস্ক"
+      },
+      {
+        "en": "mask first, then gloves",
+        "as": "প্ৰথমে মাস্ক, তাৰ পিছত দস্তানা"
+      },
+      {
+        "en": "gown first, then gloves",
+        "as": "প্ৰথমে গাউন, তাৰ পিছত দস্তানা"
+      },
+      {
+        "en": "any order is fine",
+        "as": "যিকোনো ক্ৰম ঠিক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Gloves are the most contaminated item, so removing them first stops the spread to the face and clean areas.",
+      "as": "দস্তানা আটাই বেছি দূষিত, সেয়ে প্ৰথমে খুলিলে মুখ আৰু পৰিষ্কাৰ ঠাইলৈ বিয়পা ৰোধ হয়।"
+    }
+  },
+  {
+    "id": "nursing-246",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "A disinfectant differs from an antiseptic because a disinfectant is used on",
+      "as": "কীটাণুনাশক প্ৰতিষেধকতকৈ বেলেগ কাৰণ কীটাণুনাশক ব্যৱহৃত হয়"
+    },
+    "options": [
+      {
+        "en": "inanimate objects",
+        "as": "নিজীৱ বস্তুত"
+      },
+      {
+        "en": "living skin",
+        "as": "জীৱিত ছালত"
+      },
+      {
+        "en": "wounds only",
+        "as": "কেৱল ঘাত"
+      },
+      {
+        "en": "food",
+        "as": "খাদ্যত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Disinfectants are too harsh for tissue, so they clean surfaces and instruments. Antiseptics are safe on skin.",
+      "as": "কীটাণুনাশক কলালৈ অতি কঠোৰ, সেয়ে ই পৃষ্ঠ আৰু সজুলি পৰিষ্কাৰ কৰে। প্ৰতিষেধক ছালত নিৰাপদ।"
+    }
+  },
+  {
+    "id": "nursing-247",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "The main route of transmission of hepatitis B in a hospital is",
+      "as": "চিকিৎসালয়ত হেপাটাইটিছ B বিয়পাৰ মূল পথ"
+    },
+    "options": [
+      {
+        "en": "needlestick injury and blood contact",
+        "as": "ছুইৰ আঘাত আৰু ৰক্ত সংস্পৰ্শ"
+      },
+      {
+        "en": "airborne droplets",
+        "as": "বায়ুৰ টোপাল"
+      },
+      {
+        "en": "drinking water",
+        "as": "খোৱা পানী"
+      },
+      {
+        "en": "mosquito bite",
+        "as": "মশাৰ কামোৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The virus is blood-borne, so sharps injuries and splashes to mucosa are the main hazards. Airborne spread is not the route.",
+      "as": "ভাইৰাছ ৰক্তবাহিত, সেয়ে ছুইৰ আঘাত আৰু শ্লেষ্মাত ছিটিকাটো প্ৰধান বিপদ। বায়ুৰ যোগেদি নবিয়পে।"
+    }
+  },
+  {
+    "id": "nursing-248",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Which of the following is a correct practice for a sterile field?",
+      "as": "জীৱাণুমুক্ত ক্ষেত্ৰৰ বাবে শুদ্ধ অভ্যাস কোনটো"
+    },
+    "options": [
+      {
+        "en": "keep the field above waist level and in view",
+        "as": "ক্ষেত্ৰ কঁকালৰ ওপৰত আৰু দৃষ্টিত ৰখা"
+      },
+      {
+        "en": "turn away to fetch items",
+        "as": "বস্তু আনিবলৈ মুখ ঘূৰোৱা"
+      },
+      {
+        "en": "let the drape hang below the waist",
+        "as": "আৱৰণ কঁকালৰ তললৈ ওলমি থাকিব দিয়া"
+      },
+      {
+        "en": "touch it with ungloved hands",
+        "as": "দস্তানা নোহোৱা হাতেৰে চুব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Anything below waist level or out of sight is considered contaminated, so the field stays high and watched.",
+      "as": "কঁকালৰ তলত বা দৃষ্টিৰ বাহিৰত থকা যিকোনো বস্তু দূষিত গণ্য, সেয়ে ক্ষেত্ৰ ওপৰত আৰু দৃষ্টিত ৰখা হয়।"
+    }
+  },
+  {
+    "id": "nursing-249",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "A patient with pulmonary tuberculosis should be nursed in",
+      "as": "ফুসফুসৰ যক্ষ্মা থকা ৰোগীক ৰখা উচিত"
+    },
+    "options": [
+      {
+        "en": "a well ventilated room with a mask",
+        "as": "মাস্কসহ ভালকৈ বতাহ চলা কোঠাত"
+      },
+      {
+        "en": "a closed room without ventilation",
+        "as": "বতাহ নচলা বন্ধ কোঠাত"
+      },
+      {
+        "en": "the general ward without precautions",
+        "as": "সতৰ্কতা নোহোৱাকৈ সাধাৰণ ৱাৰ্ডত"
+      },
+      {
+        "en": "the corridor",
+        "as": "কৰিডৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The bacillus spreads by airborne droplets, so ventilation dilutes it and a mask traps what the patient exhales.",
+      "as": "বেক্টেৰিয়া বায়ুৰ টোপালেৰে বিয়পে, সেয়ে বতাহ চলিলে পাতল হয় আৰু মাস্কে ৰোগীয়ে এৰা বতাহ ৰোধে।"
+    }
+  },
+  {
+    "id": "nursing-250",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "The purpose of isolating a patient with a multidrug resistant infection is to",
+      "as": "বহু-ঔষধ প্ৰতিৰোধী সংক্ৰমণ থকা ৰোগীক পৃথক ৰখাৰ উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "stop the organism spreading to other patients",
+        "as": "জীৱাণু আন ৰোগীলৈ বিয়পা ৰোধ কৰা"
+      },
+      {
+        "en": "save staff time",
+        "as": "কৰ্মচাৰীৰ সময় ৰখা"
+      },
+      {
+        "en": "reduce the hospital bill",
+        "as": "চিকিৎসালয়ৰ খৰচ কমোৱা"
+      },
+      {
+        "en": "avoid giving medicines",
+        "as": "ঔষধ দিয়া এৰাই চলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Resistant organisms survive standard antibiotics, so the only defence is preventing their transfer.",
+      "as": "প্ৰতিৰোধী জীৱাণুৱে সাধাৰণ এণ্টিবায়'টিকত নমৰে, সেয়ে একমাত্ৰ ৰক্ষা তেওঁলোকৰ স্থানান্তৰ ৰোধ কৰা।"
+    }
+  },
+  {
+    "id": "nursing-251",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "A spill of blood on the floor should first be",
+      "as": "মজিয়াত ৰক্ত পৰিলে প্ৰথমে কি কৰিব লাগে"
+    },
+    "options": [
+      {
+        "en": "covered and cleaned with disinfectant while gloved",
+        "as": "দস্তানা পিন্ধি ঢাকি কীটাণুনাশকেৰে পৰিষ্কাৰ কৰা"
+      },
+      {
+        "en": "wiped with a dry cloth",
+        "as": "শুকান কাপোৰেৰে মচা"
+      },
+      {
+        "en": "left to dry",
+        "as": "শুকাবলৈ এৰি দিয়া"
+      },
+      {
+        "en": "washed with plain water only",
+        "as": "কেৱল সাধাৰণ পানীৰে ধোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Blood carries hepatitis and HIV, so the spill is contained, disinfected with a chlorine solution and the waste disposed as infectious.",
+      "as": "ৰক্তত হেপাটাইটিছ আৰু HIV থাকে, সেয়ে পৰা ঢাকি ক্ল'ৰিন দ্ৰৱেৰে কীটাণুনাশ কৰি সংক্ৰামক বৰ্জন হিচাপে পেলোৱা হয়।"
+    }
+  },
+  {
+    "id": "nursing-252",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Which of the following is a sign of a surgical site infection?",
+      "as": "তলৰ কোনটো শল্য স্থানৰ সংক্ৰমণৰ চিন"
+    },
+    "options": [
+      {
+        "en": "spreading redness with warmth and pus",
+        "as": "পুঁ‌জৰ সৈতে বিয়পি যোৱা ৰঙা আৰু উম"
+      },
+      {
+        "en": "a clean dry incision",
+        "as": "পৰিষ্কাৰ শুকান কটা"
+      },
+      {
+        "en": "mild itching on the tenth day",
+        "as": "দশম দিনত সাধাৰণ খু‌জুৰি"
+      },
+      {
+        "en": "a healed scar line",
+        "as": "শুকুৱা দাগৰ ৰেখা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Redness that spreads, warmth and discharge mean organisms have multiplied in the wound.",
+      "as": "বিয়পি যোৱা ৰঙা, উম আৰু স্ৰাৱ মানে ঘাত জীৱাণু বাঢ়িছে।"
+    }
+  },
+  {
+    "id": "nursing-253",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Alcohol based hand rub is preferred over soap and water when",
+      "as": "কেতিয়া চাবোন-পানীতকৈ এলকহ'ল হাত ঘঁ‌হা পছন্দ কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "hands are not visibly soiled",
+        "as": "হাত দৃশ্যমানভাৱে মলিয়ন নহ'লে"
+      },
+      {
+        "en": "hands are covered with blood",
+        "as": "হাতত ৰক্ত লাগিছে"
+      },
+      {
+        "en": "hands are muddy",
+        "as": "হাত বোকাময়"
+      },
+      {
+        "en": "after using the toilet",
+        "as": "শৌচ কৰাৰ পিছত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Alcohol kills organisms fast without a sink, but it cannot penetrate dirt or blood, so washing is needed then.",
+      "as": "এলকহ'লে বেচিন নোহোৱাকৈ সোনকালে জীৱাণু মাৰে, কিন্তু মলি বা ৰক্ত ভেদ কৰিব নোৱাৰে, সেয়ে তেতিয়া ধোৱা লাগে।"
+    }
+  },
+  {
+    "id": "nursing-254",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Which of the following waste is placed in a yellow bag?",
+      "as": "তলৰ কোনটো বৰ্জন হালধীয়া মোনাত পেলোৱা হয়"
+    },
+    "options": [
+      {
+        "en": "human anatomical waste",
+        "as": "মানৱ শৰীৰস্থানৰ বৰ্জন"
+      },
+      {
+        "en": "used glass ampoules",
+        "as": "ব্যৱহৃত কাচৰ এম্পুল"
+      },
+      {
+        "en": "discarded syringes without needle",
+        "as": "ছুই নোহোৱা পেলাই দিয়া ছিৰিঞ্জ"
+      },
+      {
+        "en": "kitchen waste",
+        "as": "ৰান্ধনীঘৰৰ বৰ্জন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Yellow is for incineration waste such as human tissue, soiled dressings and expired blood. Sharps go in white or puncture-proof containers.",
+      "as": "হালধীয়া জ্বলোৱা বৰ্জনলৈ, যেনে মানৱ কলা, মলিন পটি আৰু ম্যাদ উকলা ৰক্ত। ছুই বগা বা ছিদ্ৰৰোধী পাত্রত।"
+    }
+  },
+  {
+    "id": "nursing-255",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "The chain of infection is broken at the portal of entry mainly by",
+      "as": "সংক্ৰমণৰ শৃংখল প্ৰৱেশদ্বাৰত মূলতঃ কিৰে ভঙা হয়"
+    },
+    "options": [
+      {
+        "en": "covering wounds and using aseptic technique",
+        "as": "ঘা ঢাকি জীৱাণুমুক্ত কৌশল ব্যৱহাৰ কৰি"
+      },
+      {
+        "en": "increasing ward temperature",
+        "as": "ৱাৰ্ডৰ উষ্ণতা বঢ়াই"
+      },
+      {
+        "en": "reducing staff numbers",
+        "as": "কৰ্মচাৰী সংখ্যা কমাই"
+      },
+      {
+        "en": "closing the pharmacy",
+        "as": "ফাৰ্মাচী বন্ধ কৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Intact skin and mucosa are the body's barrier, so dressings and sterile technique stop organisms getting in.",
+      "as": "অক্ষত ছাল আৰু শ্লেষ্মা শৰীৰৰ বেৰ, সেয়ে পটি আৰু জীৱাণুমুক্ত কৌশলে জীৱাণু সোমোৱা ৰোধ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-256",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "A nurse with a weeping lesion on the hand should",
+      "as": "হাতত তিতা ঘা থকা নাৰ্ছে"
+    },
+    "options": [
+      {
+        "en": "avoid direct patient care until treated",
+        "as": "চিকিৎসা নোহোৱালৈকে পোনপটীয়া ৰোগী সেৱা এৰিব"
+      },
+      {
+        "en": "continue dressing wounds",
+        "as": "ঘা পটি কৰি থাকিব"
+      },
+      {
+        "en": "work without gloves",
+        "as": "দস্তানা নোহোৱাকৈ কাম কৰিব"
+      },
+      {
+        "en": "share instruments",
+        "as": "সজুলি ভাগ কৰিব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A weeping lesion can shed organisms and also admit them, so the nurse is moved to non-clinical duties.",
+      "as": "তিতা ঘাই জীৱাণু এৰিবও পাৰে আৰু গ্ৰহণও কৰিব পাৰে, সেয়ে নাৰ্ছক অ-চিকিৎসা কামলৈ সলনি কৰা হয়।"
+    }
+  },
+  {
+    "id": "nursing-257",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "The main purpose of ventilating a ward is to",
+      "as": "ৱাৰ্ডত বতাহ চলোৱাৰ মূল উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "dilute airborne organisms",
+        "as": "বায়ুৰ জীৱাণু পাতল কৰা"
+      },
+      {
+        "en": "increase humidity",
+        "as": "আৰ্দ্ৰতা বঢ়োৱা"
+      },
+      {
+        "en": "reduce noise",
+        "as": "শব্দ কমোৱা"
+      },
+      {
+        "en": "save electricity",
+        "as": "বিদ্যুৎ সঞ্চয় কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fresh air carries droplet nuclei away, lowering the concentration that the next patient breathes in.",
+      "as": "সতেজ বতাহে টোপালৰ কেন্দ্ৰ নিয়ে, সেয়ে পৰৱৰ্তী ৰোগীয়ে উশাহ লোৱা ঘনত্ব কমে।"
+    }
+  },
+  {
+    "id": "nursing-258",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Which of the following best describes an opportunistic infection?",
+      "as": "তলৰ কোনটোৱে সুযোগসন্ধানী সংক্ৰমণ ভালদৰে বৰ্ণনা কৰে"
+    },
+    "options": [
+      {
+        "en": "an infection that strikes when immunity is low",
+        "as": "ৰোগ প্ৰতিৰোধ ক্ষমতা কম হ'লে হোৱা সংক্ৰমণ"
+      },
+      {
+        "en": "an infection caught in the community",
+        "as": "সমাজত হোৱা সংক্ৰমণ"
+      },
+      {
+        "en": "a mild seasonal cold",
+        "as": "সাধাৰণ ঋতুভিত্তিক ঠাণ্ডা"
+      },
+      {
+        "en": "an infection from food only",
+        "as": "কেৱল খাদ্যৰপৰা হোৱা সংক্ৰমণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Organisms that are harmless to a healthy person cause disease when defences fall, as in AIDS or after chemotherapy.",
+      "as": "সুস্থ মানুহৰ বাবে নিৰীহ জীৱাণুৱে ৰক্ষা কমিলে ৰোগ কৰে, যেনে AIDS ত বা কিম'থেৰাপীৰ পিছত।"
+    }
+  },
+  {
+    "id": "nursing-259",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "The correct way to clean a used bedpan is to",
+      "as": "ব্যৱহৃত মল-চৰু পৰিষ্কাৰ কৰাৰ শুদ্ধ উপায়"
+    },
+    "options": [
+      {
+        "en": "empty, wash and disinfect before reuse",
+        "as": "খালী কৰি ধুই জীৱাণুমুক্ত কৰি পুনৰ ব্যৱহাৰ"
+      },
+      {
+        "en": "rinse with water only",
+        "as": "কেৱল পানীৰে ধোৱা"
+      },
+      {
+        "en": "reuse without cleaning",
+        "as": "পৰিষ্কাৰ নকৰাকৈ পুনৰ ব্যৱহাৰ"
+      },
+      {
+        "en": "store wet in a corner",
+        "as": "তিতা অৱস্থাত চুকত ৰখা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Faecal matter carries pathogens, so mechanical cleaning followed by a disinfectant is needed between patients.",
+      "as": "মলত ৰোগসৃষ্টিকাৰী জীৱাণু থাকে, সেয়ে ৰোগীৰ মাজত পৰিষ্কাৰৰ পিছত কীটাণুনাশক লাগে।"
+    }
+  },
+  {
+    "id": "nursing-260",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Post exposure prophylaxis after a needlestick injury from a hepatitis B patient includes",
+      "as": "হেপাটাইটিছ B ৰোগীৰ ছুইৰ আঘাতৰ পিছত প্ৰতিৰোধমূলক চিকিৎসাত থাকে"
+    },
+    "options": [
+      {
+        "en": "hepatitis B immunoglobulin and vaccine",
+        "as": "হেপাটাইটিছ B ইমিউন'গ্লবুলিন আৰু টিকা"
+      },
+      {
+        "en": "only a bandage",
+        "as": "কেৱল বেণ্ডেজ"
+      },
+      {
+        "en": "nothing at all",
+        "as": "একো নহয়"
+      },
+      {
+        "en": "antibiotic tablets only",
+        "as": "কেৱল এণ্টিবায়'টিক বড়ি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Antibody gives immediate cover while the vaccine starts active immunity, so both are given together.",
+      "as": "প্ৰতিদেহে লগে লগে সুৰক্ষা দিয়ে আৰু টিকাই সক্ৰিয় প্ৰতিৰোধ আৰম্ভ কৰে, সেয়ে দুয়ো একেলগে দিয়া হয়।"
+    }
+  },
+  {
+    "id": "nursing-261",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Which of the following is the correct action before giving an injection?",
+      "as": "ইনজেকচন দিয়াৰ আগতে শুদ্ধ কাম কোনটো"
+    },
+    "options": [
+      {
+        "en": "clean the site with an antiseptic and let it dry",
+        "as": "স্থান প্ৰতিষেধকেৰে পৰিষ্কার কৰি শুকাবলৈ দিয়া"
+      },
+      {
+        "en": "inject through clothing",
+        "as": "কাপোৰৰ মাজেৰে দিয়া"
+      },
+      {
+        "en": "skip hand hygiene",
+        "as": "হাত নুধুৱাকৈ"
+      },
+      {
+        "en": "reuse the same needle",
+        "as": "একেই ছুই পুনৰ ব্যৱহাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Antisepsis cuts skin organisms and drying gives it time to act, while reusing a needle transmits blood-borne disease.",
+      "as": "প্ৰতিষেধকে ছালৰ জীৱাণু কমায় আৰু শুকালে কাম কৰাৰ সময় পায়, আনহাতে ছুই পুনৰ ব্যৱহাৰে ৰক্তবাহিত ৰোগ বিয়পায়।"
+    }
+  },
+  {
+    "id": "nursing-262",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "A clean technique that reduces but does not eliminate micro-organisms is called",
+      "as": "জীৱাণু কমোৱা কিন্তু সম্পূৰ্ণ নমচা পৰিষ্কাৰ কৌশলক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "medical asepsis",
+        "as": "চিকিৎসা এচেপছিছ"
+      },
+      {
+        "en": "surgical asepsis",
+        "as": "শল্য এচেপছিছ"
+      },
+      {
+        "en": "sterilisation",
+        "as": "জীৱাণুমুক্তকৰণ"
+      },
+      {
+        "en": "incineration",
+        "as": "জ্বলোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Medical asepsis covers hand washing and cleaning, which lowers the count. Surgical asepsis and sterilisation aim at zero.",
+      "as": "চিকিৎসা এচেপছিছত হাত ধোৱা আৰু পৰিষ্কাৰ সোমায়, যিয়ে সংখ্যা কমায়। শল্য এচেপছিছ আৰু জীৱাণুমুক্তকৰণে শূন্য লক্ষ্য কৰে।"
+    }
+  },
+  {
+    "id": "nursing-263",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "The most important reason for changing soiled dressings promptly is to",
+      "as": "মলিন পটি সোনকালে সলোৱাৰ আটাই গুৰুত্বপূৰ্ণ কাৰণ"
+    },
+    "options": [
+      {
+        "en": "prevent organisms multiplying and spreading",
+        "as": "জীৱাণু বাঢ়ি বিয়পা ৰোধ কৰা"
+      },
+      {
+        "en": "save the laundry cost",
+        "as": "কাপোৰ ধোৱাৰ খৰচ ৰখা"
+      },
+      {
+        "en": "make the bed look tidy",
+        "as": "বিছনা চাফ দেখুওৱা"
+      },
+      {
+        "en": "reduce the nurse's work",
+        "as": "নাৰ্ছৰ কাম কমোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A wet dressing is a warm culture medium next to the wound and a source of cross infection.",
+      "as": "তিতা পটি ঘাৰ কাষত উমলীয়া সংৱৰ্ধন মাধ্যম আৰু সংক্ৰমণৰ উৎস।"
+    }
+  },
+  {
+    "id": "nursing-264",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Which of the following best describes cross infection?",
+      "as": "তলৰ কোনটোৱে ক্ৰছ সংক্ৰমণ ভালদৰে বৰ্ণনা কৰে"
+    },
+    "options": [
+      {
+        "en": "infection passed from one patient to another",
+        "as": "এজন ৰোগীৰপৰা আনলৈ যোৱা সংক্ৰমণ"
+      },
+      {
+        "en": "infection from a patient's own gut flora",
+        "as": "ৰোগীৰ নিজৰ অন্ত্ৰৰ জীৱাণুৰপৰা সংক্ৰমণ"
+      },
+      {
+        "en": "an infection acquired at home",
+        "as": "ঘৰত হোৱা সংক্ৰমণ"
+      },
+      {
+        "en": "a genetic disorder",
+        "as": "বংশগত ৰোগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cross infection travels between people via hands, equipment or air. Infection from the patient's own flora is endogenous.",
+      "as": "ক্ৰছ সংক্ৰমণ হাত, সজুলি বা বায়ুৰে মানুহৰ মাজত যায়। ৰোগীৰ নিজৰ জীৱাণুৰপৰা হোৱাটো অন্তঃজাত।"
+    }
+  },
+  {
+    "id": "nursing-265",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "The correct temperature for an autoclave cycle is usually",
+      "as": "অ'ট'ক্লেভ চক্ৰৰ শুদ্ধ উষ্ণতা সাধাৰণতে"
+    },
+    "options": [
+      {
+        "en": "121 degrees Celsius",
+        "as": "১২১ ডিগ্ৰী চেলছিয়াছ"
+      },
+      {
+        "en": "60 degrees Celsius",
+        "as": "৬০ ডিগ্ৰী চেলছিয়াছ"
+      },
+      {
+        "en": "200 degrees Celsius",
+        "as": "২০০ ডিগ্ৰী চেলছিয়াছ"
+      },
+      {
+        "en": "37 degrees Celsius",
+        "as": "৩৭ ডিগ্ৰী চেলছিয়াছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "At fifteen pounds pressure, steam at 121 Celsius kills spores in about fifteen minutes. Lower heat only disinfects.",
+      "as": "পোন্ধৰ পাউণ্ড চাপত ১২১ ডিগ্ৰীৰ ভাপে প্ৰায় পোন্ধৰ মিনিটত বীজাণু মাৰে। কম তাপে কেবল কীটাণুনাশ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-266",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "A nurse should perform hand hygiene immediately",
+      "as": "নাৰ্ছে হাত লগে লগে পৰিষ্কাৰ কৰিব লাগে"
+    },
+    "options": [
+      {
+        "en": "before and after every patient contact",
+        "as": "প্ৰতিজন ৰোগীৰ সংস্পৰ্শৰ আগে-পিছে"
+      },
+      {
+        "en": "once at the start of the shift",
+        "as": "শিফ্ট আৰম্ভণিতে এবাৰ"
+      },
+      {
+        "en": "only after touching blood",
+        "as": "কেৱল ৰক্ত চুলেহে"
+      },
+      {
+        "en": "only before meals",
+        "as": "কেৱল ভোজনৰ আগতে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The five moments of hand hygiene centre on patient contact, body fluid exposure and the surroundings.",
+      "as": "হাত পৰিষ্কাৰৰ পাঁচ মাহাত্ম্যপূৰ্ণ সময় ৰোগীৰ সংস্পৰ্শ, শৰীৰ তৰল আৰু চাৰিওফালৰ ওপৰত কেন্দ্ৰিত।"
+    }
+  },
+  {
+    "id": "nursing-267",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Which of the following patients needs contact precautions?",
+      "as": "তলৰ কোন ৰোগীলৈ সংস্পৰ্শ সতৰ্কতা লাগে"
+    },
+    "options": [
+      {
+        "en": "a patient with Clostridium difficile diarrhoea",
+        "as": "ক্ল'ষ্ট্ৰিডিয়াম ডিফিচিলে ডায়েৰিয়া থকা ৰোগী"
+      },
+      {
+        "en": "a patient with a healed fracture",
+        "as": "শুকুৱা ফ্ৰেকচাৰ থকা ৰোগী"
+      },
+      {
+        "en": "a patient with mild anaemia",
+        "as": "সাধাৰণ ৰক্তহীনতা থকা ৰোগী"
+      },
+      {
+        "en": "a patient with a common cold",
+        "as": "সাধাৰণ ঠাণ্ডা থকা ৰোগী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "C. difficile spores survive on surfaces and on hands, so gown and gloves are worn for every contact.",
+      "as": "ক্ল'ষ্ট্ৰিডিয়ামৰ বীজাণু পৃষ্ঠ আৰু হাতত টিকি থাকে, সেয়ে প্ৰতিটো সংস্পৰ্শত গাউন আৰু দস্তানা পিন্ধা হয়।"
+    }
+  },
+  {
+    "id": "nursing-268",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "The best way to prevent catheter associated urinary infection is to",
+      "as": "কেথেটাৰজনিত মূত্ৰ সংক্ৰমণ ৰোধৰ আটাই ভাল উপায়"
+    },
+    "options": [
+      {
+        "en": "remove the catheter as early as possible",
+        "as": "কেথেটাৰ যিমান সোনকালে সম্ভৱ আঁতৰোৱা"
+      },
+      {
+        "en": "irrigate it daily",
+        "as": "প্ৰতিদিনে ধুই দিয়া"
+      },
+      {
+        "en": "change the bag every hour",
+        "as": "প্ৰতি ঘণ্টাত মোনা সলোৱা"
+      },
+      {
+        "en": "keep it clamped always",
+        "as": "সদায় চেপি ৰখা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Every day a catheter stays in adds risk, so the decision to keep it is reviewed daily. Irrigation pushes organisms upward.",
+      "as": "কেথেটাৰ যিমান দিন থাকে সিমান বিপদ বাঢ়ে, সেয়ে প্ৰতিদিনে পুনৰ বিচাৰ কৰা হয়। ধুই দিলে জীৱাণু ওপৰলৈ যায়।"
+    }
+  },
+  {
+    "id": "nursing-269",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "A spill of used sharps in the ward should be handled by",
+      "as": "ৱাৰ্ডত ব্যৱহৃত ছুই পৰি থাকিলে কেনেকৈ চম্ভালিব লাগে"
+    },
+    "options": [
+      {
+        "en": "using a scoop and forceps, never bare hands",
+        "as": "কোৰ আৰু চিমটা ব্যৱহাৰ কৰি, কেতিয়াও খালী হাতেৰে নহয়"
+      },
+      {
+        "en": "picking them by hand",
+        "as": "হাতেৰে তুলি"
+      },
+      {
+        "en": "pushing them under the bed",
+        "as": "বিছনাৰ তললৈ ঠেলি"
+      },
+      {
+        "en": "leaving them for housekeeping",
+        "as": "ঘৰুৱা কৰ্মীলৈ এৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bare hands risk a needlestick, so a scoop is used and the sharps go straight into a rigid container.",
+      "as": "খালী হাতে ছুই আঘাতৰ বিপদ, সেয়ে কোৰেৰে তুলি ছুই পোনপটীয়াকৈ টান পাত্রত পেলোৱা হয়।"
+    }
+  },
+  {
+    "id": "nursing-270",
+    "leaf": "hospital-infection-control",
+    "q": {
+      "en": "Which of the following is the main reason for not wearing the same gloves for two patients?",
+      "as": "দুজন ৰোগীৰ বাবে একেই দস্তানা নিপিন্ধাৰ মূল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "gloves carry organisms between patients",
+        "as": "দস্তানাই ৰোগীৰ মাজত জীৱাণু নিয়ে"
+      },
+      {
+        "en": "gloves become too tight",
+        "as": "দস্তানা টান হৈ যায়"
+      },
+      {
+        "en": "gloves change colour",
+        "as": "দস্তানাৰ ৰং সলনি হয়"
+      },
+      {
+        "en": "gloves are expensive",
+        "as": "দস্তানা দামী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Gloves protect the wearer but become contaminated, so they are changed and hands cleaned between patients.",
+      "as": "দস্তানাই পিন্ধোতাক ৰক্ষা কৰে কিন্তু দূষিত হয়, সেয়ে ৰোগীৰ মাজত সলাই হাত পৰিষ্কাৰ কৰা হয়।"
+    }
+  }
+]

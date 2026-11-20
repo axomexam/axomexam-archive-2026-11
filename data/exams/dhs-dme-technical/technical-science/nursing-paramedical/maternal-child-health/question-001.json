@@ -1,0 +1,932 @@
+[
+  {
+    "id": "nursing-091",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The average duration of the first stage of labour in a primigravida is about",
+      "as": "প্ৰথম গৰ্ভধাৰণত প্ৰসৱৰ প্ৰথম স্তৰৰ গড় সময় প্ৰায়"
+    },
+    "options": [
+      {
+        "en": "12 hours",
+        "as": "১২ ঘণ্টা"
+      },
+      {
+        "en": "2 hours",
+        "as": "২ ঘণ্টা"
+      },
+      {
+        "en": "30 hours",
+        "as": "৩০ ঘণ্টা"
+      },
+      {
+        "en": "48 hours",
+        "as": "৪৮ ঘণ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The first stage runs from the start of regular pains to full dilatation, averaging around twelve hours in a first pregnancy.",
+      "as": "প্ৰথম স্তৰ নিয়মীয়া বিষ আৰম্ভ হোৱাৰপৰা সম্পূৰ্ণ খোলাৰলৈ, প্ৰথম গৰ্ভধাৰণত গড়ে বাৰ ঘণ্টা।"
+    }
+  },
+  {
+    "id": "nursing-092",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The normal fetal heart rate is",
+      "as": "ভ্ৰূণৰ হৃদয়ৰ স্বাভাৱিক গতি"
+    },
+    "options": [
+      {
+        "en": "120 to 160 beats per minute",
+        "as": "প্ৰতি মিনিটত ১২০ ৰপৰা ১৬০"
+      },
+      {
+        "en": "60 to 90 beats per minute",
+        "as": "প্ৰতি মিনিটত ৬০ ৰপৰা ৯০"
+      },
+      {
+        "en": "180 to 220 beats per minute",
+        "as": "প্ৰতি মিনিটত ১৮০ ৰপৰা ২২০"
+      },
+      {
+        "en": "40 to 60 beats per minute",
+        "as": "প্ৰতি মিনিটত ৪০ ৰপৰা ৬০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A hundred and twenty to a hundred and sixty is normal. Above a hundred and eighty or below a hundred needs immediate attention.",
+      "as": "১২০ ৰপৰা ১৬০ স্বাভাৱিক। ১৮০ৰ ওপৰত বা ১০০ৰ তলত লগে লগে চিকিৎসা লাগে।"
+    }
+  },
+  {
+    "id": "nursing-093",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Colostrum is important for a newborn because it is rich in",
+      "as": "নৱজাতকৰ বাবে কল'ষ্ট্ৰাম গুৰুত্বপূৰ্ণ কাৰণ ই কিৰে সমৃদ্ধ"
+    },
+    "options": [
+      {
+        "en": "antibodies",
+        "as": "প্ৰতিদেহ"
+      },
+      {
+        "en": "fat only",
+        "as": "কেৱল চৰ্বি"
+      },
+      {
+        "en": "sugar only",
+        "as": "কেৱল চেনি"
+      },
+      {
+        "en": "salt only",
+        "as": "কেৱল লৱণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Colostrum carries immunoglobulin A, which coats the gut and protects against infection. Its fat and sugar are lower than mature milk.",
+      "as": "কল'ষ্ট্ৰামত ইমিউন'গ্লবুলিন A থাকে, যি অন্ত্ৰ ঢাকি সংক্ৰমণৰপৰা ৰক্ষা কৰে। চৰ্বি আৰু চেনি পূৰ্ণ গাখীৰতকৈ কম।"
+    }
+  },
+  {
+    "id": "nursing-094",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Exclusive breast feeding is recommended for the first",
+      "as": "প্ৰথম কিমান সময় কেৱল মাকৰ গাখীৰ দিবলৈ পৰামৰ্শ দিয়া হয়"
+    },
+    "options": [
+      {
+        "en": "six months",
+        "as": "ছয় মাহ"
+      },
+      {
+        "en": "one month",
+        "as": "এক মাহ"
+      },
+      {
+        "en": "two years",
+        "as": "দুই বছৰ"
+      },
+      {
+        "en": "two weeks",
+        "as": "দুই সপ্তাহ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Nothing but breast milk for six months gives complete nutrition and immunity. Water and other feeds add infection risk.",
+      "as": "ছয় মাহ কেৱল মাকৰ গাখীৰে সম্পূৰ্ণ পুষ্টি আৰু প্ৰতিৰোধ ক্ষমতা দিয়ে। পানী বা আন খাদ্যই সংক্ৰমণৰ আশংকা বঢ়ায়।"
+    }
+  },
+  {
+    "id": "nursing-095",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Postpartum haemorrhage is defined as blood loss of more than",
+      "as": "প্ৰসৱোত্তৰ ৰক্তক্ষৰণ কি পৰিমাণৰ অধিক হ'লে গণা হয়"
+    },
+    "options": [
+      {
+        "en": "500 ml after vaginal delivery",
+        "as": "যোনি পথৰ প্ৰসৱৰ পিছত ৫০০ মি.লি."
+      },
+      {
+        "en": "100 ml after delivery",
+        "as": "প্ৰসৱৰ পিছত ১০০ মি.লি."
+      },
+      {
+        "en": "50 ml after delivery",
+        "as": "প্ৰসৱৰ পিছত ৫০ মি.লি."
+      },
+      {
+        "en": "100 ml before delivery",
+        "as": "প্ৰসৱৰ আগতে ১০০ মি.লি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Five hundred millilitres after a normal birth, or a thousand after a caesarean, defines postpartum haemorrhage. It is a leading cause of maternal death.",
+      "as": "স্বাভাৱিক প্ৰসৱৰ পিছত ৫০০ মি.লি. বা চিজাৰিয়ানৰ পিছত ১০০০ মি.লি. হ'লে প্ৰসৱোত্তৰ ৰক্তক্ষৰণ। ই মাতৃ মৃত্যুৰ প্ৰধান কাৰণ।"
+    }
+  },
+  {
+    "id": "nursing-096",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The Apgar score is assessed at",
+      "as": "এপগাৰ স্ক'ৰ কেতিয়া জোখা হয়"
+    },
+    "options": [
+      {
+        "en": "one and five minutes after birth",
+        "as": "জন্মৰ এক আৰু পাঁচ মিনিটত"
+      },
+      {
+        "en": "one hour after birth",
+        "as": "জন্মৰ এক ঘণ্টা পিছত"
+      },
+      {
+        "en": "before birth",
+        "as": "জন্মৰ আগতে"
+      },
+      {
+        "en": "one day after birth",
+        "as": "জন্মৰ এদিন পিছত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Scoring at one and five minutes shows the response to resuscitation and predicts survival. Later scoring loses that value.",
+      "as": "এক আৰু পাঁচ মিনিটত জুখিলে পুনৰ্জীৱনৰ প্ৰতিক্ৰিয়া দেখুৱায় আৰু জীৱন ধাৰণৰ আভাস দিয়ে। পিছত জুখিলে সেই মূল্য নাথাকে।"
+    }
+  },
+  {
+    "id": "nursing-097",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Which of the following is a danger sign in pregnancy?",
+      "as": "তলৰ কোনটো গৰ্ভাৱস্থাৰ বিপদ চিন"
+    },
+    "options": [
+      {
+        "en": "vaginal bleeding",
+        "as": "যোনিৰপৰা ৰক্তক্ষৰণ"
+      },
+      {
+        "en": "mild nausea in the morning",
+        "as": "ৰাতিপুৱা সাধাৰণ বমি-বমি"
+      },
+      {
+        "en": "increased appetite",
+        "as": "ভোক বঢ়া"
+      },
+      {
+        "en": "mild backache",
+        "as": "সাধাৰণ পিঠিৰ বিষ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bleeding may mean placenta praevia or abruption and needs urgent review. Morning sickness and backache are common and benign.",
+      "as": "ৰক্তক্ষৰণে প্লাছেণ্টা প্ৰিভিয়া বা বিচ্ছিন্নতা বুজাব পাৰে, সেয়ে জৰুৰী পৰীক্ষা লাগে। ৰাতিপুৱাৰ বমি আৰু পিঠিৰ বিষ সাধাৰণ।"
+    }
+  },
+  {
+    "id": "nursing-098",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The newborn should be kept warm mainly to prevent",
+      "as": "নৱজাতক উমলৈ ৰখা হয় মূলতঃ কি ৰোধ কৰিবলৈ"
+    },
+    "options": [
+      {
+        "en": "hypothermia",
+        "as": "হাইপ'থাৰ্মিয়া"
+      },
+      {
+        "en": "fever",
+        "as": "জ্বৰ"
+      },
+      {
+        "en": "jaundice only",
+        "as": "কেৱল জণ্ডিছ"
+      },
+      {
+        "en": "constipation",
+        "as": "কোষ্ঠকাঠিন্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A wet newborn loses heat fast and cannot shiver, so cold stress leads to low sugar and acidosis. Skin-to-skin contact prevents it.",
+      "as": "তিতা নৱজাতকে দ্ৰুত তাপ হেৰুৱায় আৰু কঁপনি উঠাব নোৱাৰে, সেয়ে শীতলতাই কম চেনি আৰু অম্লীয়তা আনে। ছালে-ছালে ৰাখিলে ৰোধ হয়।"
+    }
+  },
+  {
+    "id": "nursing-099",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Vitamin K is given to a newborn to prevent",
+      "as": "নৱজাতকক ভিটামিন K দিয়া হয় কি ৰোধ কৰিবলৈ"
+    },
+    "options": [
+      {
+        "en": "haemorrhagic disease of the newborn",
+        "as": "নৱজাতকৰ ৰক্তক্ষৰণ ৰোগ"
+      },
+      {
+        "en": "rickets",
+        "as": "ৰিকেটছ"
+      },
+      {
+        "en": "scurvy",
+        "as": "স্কাৰ্ভি"
+      },
+      {
+        "en": "beriberi",
+        "as": "বেৰিবেৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The newborn gut cannot yet make vitamin K, so clotting is poor. Rickets and scurvy relate to vitamins D and C later in life.",
+      "as": "নৱজাতকৰ অন্ত্ৰই এতিয়াও ভিটামিন K বনাব নোৱাৰে, সেয়ে ৰক্ত জমা দুৰ্বল। ৰিকেটছ আৰু স্কাৰ্ভি পিছত D আৰু C ৰ সৈতে সম্পৰ্কিত।"
+    }
+  },
+  {
+    "id": "nursing-100",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The third stage of labour ends with",
+      "as": "প্ৰসৱৰ তৃতীয় স্তৰ কিৰ সৈতে শেষ হয়"
+    },
+    "options": [
+      {
+        "en": "expulsion of the placenta",
+        "as": "প্লাছেণ্টা ওলোৱাৰে"
+      },
+      {
+        "en": "full dilatation of the cervix",
+        "as": "গৰ্ভাশয় মুখ সম্পূৰ্ণ খোলাৰে"
+      },
+      {
+        "en": "birth of the head",
+        "as": "মূৰ ওলোৱাৰে"
+      },
+      {
+        "en": "rupture of membranes",
+        "as": "পানীৰ থলী ফাটি যোৱাৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The third stage runs from the birth of the baby to the delivery of the placenta. Full dilatation ends the first stage.",
+      "as": "তৃতীয় স্তৰ শিশু জন্মৰপৰা প্লাছেণ্টা ওলোৱালৈ। সম্পূৰ্ণ খোলাই প্ৰথম স্তৰ শেষ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-101",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Which vaccine is given at birth in India?",
+      "as": "ভাৰতত জন্মতে কোন টিকা দিয়া হয়"
+    },
+    "options": [
+      {
+        "en": "BCG",
+        "as": "BCG"
+      },
+      {
+        "en": "measles",
+        "as": "মিজলছ"
+      },
+      {
+        "en": "DPT booster",
+        "as": "DPT বুষ্টাৰ"
+      },
+      {
+        "en": "typhoid",
+        "as": "টাইফয়েড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "BCG, the birth dose of oral polio and hepatitis B are given at birth. Measles comes at nine months and DPT later.",
+      "as": "জন্মতে BCG, মুখেৰে পলিঅ'ৰ জন্ম মাত্ৰা আৰু হেপাটাইটিছ B দিয়া হয়। মিজলছ ন মাহত আৰু DPT পিছত।"
+    }
+  },
+  {
+    "id": "nursing-102",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The most common cause of postpartum haemorrhage is",
+      "as": "প্ৰসৱোত্তৰ ৰক্তক্ষৰণৰ আটাই সাধাৰণ কাৰণ"
+    },
+    "options": [
+      {
+        "en": "uterine atony",
+        "as": "গৰ্ভাশয়ৰ পেশীৰ শিথিলতা"
+      },
+      {
+        "en": "retained placenta only",
+        "as": "কেৱল প্লাছেণ্টা থাকি যোৱা"
+      },
+      {
+        "en": "infection",
+        "as": "সংক্ৰমণ"
+      },
+      {
+        "en": "anaemia",
+        "as": "ৰক্তহীনতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A uterus that fails to contract leaves vessels open and bleeds. Retained placenta and tears are the next commonest causes.",
+      "as": "গৰ্ভাশয়ে সংকোচন নকৰিলে ৰক্তনলী খোলা থাকি ৰক্তক্ষৰণ হয়। প্লাছেণ্টা থাকি যোৱা আৰু ছিঁড়া পিছৰ সাধাৰণ কাৰণ।"
+    }
+  },
+  {
+    "id": "nursing-103",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "A newborn weighing less than 2500 grams at birth is termed",
+      "as": "জন্মত ২৫০০ গ্ৰামতকৈ কম ওজনৰ নৱজাতকক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "low birth weight",
+        "as": "নিম্ন জন্ম ওজন"
+      },
+      {
+        "en": "normal weight",
+        "as": "স্বাভাৱিক ওজন"
+      },
+      {
+        "en": "macrosomic",
+        "as": "অতি ওজন"
+      },
+      {
+        "en": "post term",
+        "as": "অতিপূৰ্ণকালীন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Under two and a half kilograms is low birth weight, which raises the risk of infection and death. Macrosomia is the opposite, over four kilograms.",
+      "as": "আঢ়ৈ কিলোগ্ৰামতকৈ কম নিম্ন জন্ম ওজন, যিয়ে সংক্ৰমণ আৰু মৃত্যুৰ আশংকা বঢ়ায়। মেক্ৰ'ছ'মিয়া ওলোটা, চাৰি কিলোগ্ৰামৰ ওপৰত।"
+    }
+  },
+  {
+    "id": "nursing-104",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Oral contraceptive pills act mainly by",
+      "as": "মুখে খোৱা গৰ্ভনিৰোধক বড়িয়ে মূলতঃ কেনেকৈ কাম কৰে"
+    },
+    "options": [
+      {
+        "en": "suppressing ovulation",
+        "as": "ডিম্বস্ফোটন দমন কৰি"
+      },
+      {
+        "en": "killing sperm",
+        "as": "শুক্ৰাণু মাৰি"
+      },
+      {
+        "en": "blocking the fallopian tube",
+        "as": "ফেল'পিয়ান নলী বন্ধ কৰি"
+      },
+      {
+        "en": "thickening the uterine wall",
+        "as": "গৰ্ভাশয় বেৰ ডাঠ কৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The hormones prevent the pituitary surge that releases an egg. Barrier methods block sperm and sterilisation blocks the tube.",
+      "as": "হৰম'নে পিট্যুইটাৰীৰ ডিম্ব এৰা ঢৌ ৰোধ কৰে। বাধা পদ্ধতিয়ে শুক্ৰাণু ৰোধে আৰু বন্ধ্যাকৰণে নলী বন্ধ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-105",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The nurse should teach a pregnant woman to report immediately",
+      "as": "নাৰ্ছে গৰ্ভৱতী মহিলাক লগে লগে জনাবলৈ শিকাব লাগে"
+    },
+    "options": [
+      {
+        "en": "severe headache with blurred vision",
+        "as": "ধোঁৱা দৃষ্টিৰ সৈতে তীব্ৰ মূৰৰ বিষ"
+      },
+      {
+        "en": "mild ankle swelling in the evening",
+        "as": "সন্ধিয়া ভৰিৰ সাধাৰণ ওফন্দা"
+      },
+      {
+        "en": "food cravings",
+        "as": "খাদ্যৰ হাবিয়াস"
+      },
+      {
+        "en": "occasional heartburn",
+        "as": "মাজে মাজে বুকু জ্বলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Headache with visual disturbance points to pre-eclampsia, which can progress to fits. Mild swelling and cravings are normal.",
+      "as": "মূৰৰ বিষ আৰু দৃষ্টিৰ সমস্যাই প্ৰি-এক্লেম্পছিয়া দেখুৱায়, যি খিঁচলৈ বাঢ়িব পাৰে। সাধাৰণ ওফন্দা আৰু হাবিয়াস স্বাভাৱিক।"
+    }
+  },
+  {
+    "id": "nursing-106",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Weaning should begin in a healthy infant at about",
+      "as": "সুস্থ শিশুত অতিৰিক্ত খাদ্য আৰম্ভ কৰিব লাগে প্ৰায়"
+    },
+    "options": [
+      {
+        "en": "six months",
+        "as": "ছয় মাহত"
+      },
+      {
+        "en": "two months",
+        "as": "দুই মাহত"
+      },
+      {
+        "en": "twelve months",
+        "as": "বাৰ মাহত"
+      },
+      {
+        "en": "one month",
+        "as": "এক মাহত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "At six months the gut is ready and breast milk alone no longer meets energy needs. Earlier feeding raises infection and allergy risk.",
+      "as": "ছয় মাহত অন্ত্ৰ সাজু হয় আৰু কেৱল মাকৰ গাখীৰে শক্তিৰ প্ৰয়োজন পূৰণ নকৰে। আগতে দিলে সংক্ৰমণ আৰু এলাৰ্জিৰ আশংকা বাঢ়ে।"
+    }
+  },
+  {
+    "id": "nursing-107",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Which of the following is the correct position for a newborn to sleep?",
+      "as": "নৱজাতকে টোপনি যোৱাৰ শুদ্ধ অৱস্থান"
+    },
+    "options": [
+      {
+        "en": "on the back",
+        "as": "পিঠিত দি"
+      },
+      {
+        "en": "on the abdomen",
+        "as": "পেটত দি"
+      },
+      {
+        "en": "on the left side only",
+        "as": "কেৱল বাওঁ কাষত"
+      },
+      {
+        "en": "head down",
+        "as": "মূৰ তলত দি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Back sleeping keeps the airway clear and reduces sudden infant death. Prone sleeping is a recognised risk factor.",
+      "as": "পিঠিত শুলে বায়ুপথ খোলা থাকে আৰু হঠাতে শিশু মৃত্যু কমে। পেটত শোৱা জানা বিপদ কাৰক।"
+    }
+  },
+  {
+    "id": "nursing-108",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Gestational diabetes is diabetes that",
+      "as": "গৰ্ভাৱস্থাৰ মধুমেহ হ'ল মধুমেহ যি"
+    },
+    "options": [
+      {
+        "en": "first appears during pregnancy",
+        "as": "প্ৰথমে গৰ্ভাৱস্থাত দেখা দিয়ে"
+      },
+      {
+        "en": "exists before pregnancy only",
+        "as": "কেৱল গৰ্ভাৱস্থাৰ আগতে থাকে"
+      },
+      {
+        "en": "affects only the baby",
+        "as": "কেৱল শিশুক প্ৰভাৱিত কৰে"
+      },
+      {
+        "en": "needs no monitoring",
+        "as": "পৰ্যবেক্ষণ নালাগে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "It is glucose intolerance recognised in pregnancy and usually resolves after birth, though it raises later diabetes risk.",
+      "as": "ই গৰ্ভাৱস্থাত ধৰা পৰা গ্লুক'জ অসহিষ্ণুতা, প্ৰসৱৰ পিছত সাধাৰণতে ঠিক হয়, কিন্তু পিছত মধুমেহৰ আশংকা বঢ়ায়।"
+    }
+  },
+  {
+    "id": "nursing-109",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The umbilical cord normally contains",
+      "as": "নাভিৰ ৰছীত সাধাৰণতে থাকে"
+    },
+    "options": [
+      {
+        "en": "two arteries and one vein",
+        "as": "দুটা ধমনী আৰু এটা শিৰা"
+      },
+      {
+        "en": "two veins and one artery",
+        "as": "দুটা শিৰা আৰু এটা ধমনী"
+      },
+      {
+        "en": "three arteries",
+        "as": "তিনিটা ধমনী"
+      },
+      {
+        "en": "three veins",
+        "as": "তিনিটা শিৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Two arteries carry waste away and one vein brings oxygenated blood. A single artery is linked to kidney anomalies.",
+      "as": "দুটা ধমনীয়ে বৰ্জন নিয়ে আৰু এটা শিৰাই অক্সিজেনযুক্ত ৰক্ত আনে। এটা ধমনী বৃক্কৰ অস্বাভাৱিকতাৰ সৈতে জড়িত।"
+    }
+  },
+  {
+    "id": "nursing-110",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Which of the following is a sign of true labour?",
+      "as": "তলৰ কোনটো প্ৰকৃত প্ৰসৱৰ চিন"
+    },
+    "options": [
+      {
+        "en": "regular painful contractions that increase in strength",
+        "as": "শক্তি বঢ়োৱা নিয়মীয়া বিষযুক্ত সংকোচন"
+      },
+      {
+        "en": "irregular pain relieved by rest",
+        "as": "বিশ্ৰামত কমা অনিয়মীয়া বিষ"
+      },
+      {
+        "en": "painless tightening only",
+        "as": "কেৱল বিষহীন টান"
+      },
+      {
+        "en": "sudden weight gain",
+        "as": "হঠাতে ওজন বঢ়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "True labour contractions come regularly, get stronger and do not stop with rest. False labour is irregular and settles.",
+      "as": "প্ৰকৃত প্ৰসৱৰ সংকোচন নিয়মীয়াকৈ আহি বাঢ়ে আৰু বিশ্ৰামত নকমে। মিছা প্ৰসৱ অনিয়মীয়া আৰু কমি যায়।"
+    }
+  },
+  {
+    "id": "nursing-111",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The nurse should initiate breast feeding within",
+      "as": "নাৰ্ছে মাকৰ গাখীৰ কিমান সময়ৰ ভিতৰত আৰম্ভ কৰাব লাগে"
+    },
+    "options": [
+      {
+        "en": "one hour of birth",
+        "as": "জন্মৰ এক ঘণ্টাৰ ভিতৰত"
+      },
+      {
+        "en": "twelve hours",
+        "as": "বাৰ ঘণ্টাত"
+      },
+      {
+        "en": "one day",
+        "as": "এদিনত"
+      },
+      {
+        "en": "one week",
+        "as": "এসপ্তাহত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Early suckling triggers milk let-down, warms the baby and gives colostrum. Delay reduces success and increases hypoglycaemia.",
+      "as": "সোনকালে চুহিলে গাখীৰ নামে, শিশু উম হয় আৰু কল'ষ্ট্ৰাম পায়। পলমে সফলতা কমাই কম চেনিৰ আশংকা বঢ়ায়।"
+    }
+  },
+  {
+    "id": "nursing-112",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Pre-eclampsia is characterised by",
+      "as": "প্ৰি-এক্লেম্পছিয়াৰ বৈশিষ্ট্য"
+    },
+    "options": [
+      {
+        "en": "hypertension with protein in urine",
+        "as": "মূত্ৰত প্ৰ'টিনৰ সৈতে উচ্চ ৰক্তচাপ"
+      },
+      {
+        "en": "low blood pressure",
+        "as": "নিম্ন ৰক্তচাপ"
+      },
+      {
+        "en": "high blood sugar",
+        "as": "উচ্চ ৰক্ত শৰ্কৰা"
+      },
+      {
+        "en": "low temperature",
+        "as": "কম উষ্ণতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Raised pressure with proteinuria after twenty weeks defines it. Untreated it progresses to fits, which is eclampsia.",
+      "as": "বিশ সপ্তাহৰ পিছত বঢ়া চাপ আৰু মূত্ৰত প্ৰ'টিনে ইয়াক নিৰ্ধাৰণ কৰে। চিকিৎসা নহ'লে খিঁচলৈ বাঢ়ে, যি এক্লেম্পছিয়া।"
+    }
+  },
+  {
+    "id": "nursing-113",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The best method to prevent mother-to-child transmission of HIV is",
+      "as": "মাকৰপৰা শিশুলৈ HIV সংক্ৰমণ ৰোধৰ আটাই ভাল উপায়"
+    },
+    "options": [
+      {
+        "en": "antiretroviral treatment for mother and baby",
+        "as": "মাক আৰু শিশুৰ বাবে এণ্টিৰিট্ৰ'ভাইৰেল চিকিৎসা"
+      },
+      {
+        "en": "avoiding all check-ups",
+        "as": "সকলো পৰীক্ষা এৰাই চলা"
+      },
+      {
+        "en": "stopping breast feeding only",
+        "as": "কেৱল গাখীৰ খুওৱা বন্ধ কৰা"
+      },
+      {
+        "en": "giving antibiotics",
+        "as": "এণ্টিবায়'টিক দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Suppressing the viral load with antiretrovirals in pregnancy, labour and the newborn period cuts transmission to a few per cent.",
+      "as": "গৰ্ভাৱস্থা, প্ৰসৱ আৰু নৱজাতক কালত এণ্টিৰিট্ৰ'ভাইৰেলে ভাইৰাছৰ মাত্ৰা কমাই সংক্ৰমণ কেই শতাংশলৈ নামায়।"
+    }
+  },
+  {
+    "id": "nursing-114",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Which of the following is included in the Apgar score?",
+      "as": "এপগাৰ স্ক'ৰত তলৰ কোনটো সন্নিৱিষ্ট"
+    },
+    "options": [
+      {
+        "en": "heart rate, breathing, tone, reflex and colour",
+        "as": "হৃদয়ৰ গতি, উশাহ, পেশীৰ টান, প্ৰতিবিম্ব আৰু ৰং"
+      },
+      {
+        "en": "weight and length",
+        "as": "ওজন আৰু দীঘ"
+      },
+      {
+        "en": "head circumference only",
+        "as": "কেৱল মূৰৰ পৰিধি"
+      },
+      {
+        "en": "blood group",
+        "as": "ৰক্ত শ্ৰেণী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The five signs each score zero to two. Weight and length describe growth, not immediate condition.",
+      "as": "পাঁচটা চিনে শূন্যৰপৰা দুই নম্বৰ দিয়ে। ওজন আৰু দীঘে বৃদ্ধি বৰ্ণায়, তৎকালীন অৱস্থা নহয়।"
+    }
+  },
+  {
+    "id": "nursing-115",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The nurse advises a mother to start complementary feeding with",
+      "as": "নাৰ্ছে মাকক অতিৰিক্ত খাদ্য কিৰে আৰম্ভ কৰিবলৈ কয়"
+    },
+    "options": [
+      {
+        "en": "mashed home food with added oil",
+        "as": "তেল যোগ কৰা ঘৰুৱা মচলা খাদ্য"
+      },
+      {
+        "en": "tea and biscuits",
+        "as": "চাহ আৰু বিস্কুট"
+      },
+      {
+        "en": "only fruit juice",
+        "as": "কেৱল ফলৰ ৰস"
+      },
+      {
+        "en": "only plain water",
+        "as": "কেৱল সাধাৰণ পানী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Home food mashed with a little oil gives energy and iron. Tea and juice displace milk without supplying enough nutrients.",
+      "as": "অলপ তেল যোগ কৰি মচকা কৰা ঘৰুৱা খাদ্যই শক্তি আৰু লো দিয়ে। চাহ আৰু ৰসে গাখীৰ আঁতৰাই পুষ্টি নিদিয়ে।"
+    }
+  },
+  {
+    "id": "nursing-116",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Which of the following is a contraindication to breast feeding?",
+      "as": "তলৰ কোনটো মাকৰ গাখীৰ খুওৱাৰ বাধা"
+    },
+    "options": [
+      {
+        "en": "the mother is on a cytotoxic drug",
+        "as": "মাক চাইট'টক্সিক ঔষধত আছে"
+      },
+      {
+        "en": "the mother has a common cold",
+        "as": "মাকৰ সাধাৰণ ঠাণ্ডা"
+      },
+      {
+        "en": "the baby is premature",
+        "as": "শিশু অকালজাত"
+      },
+      {
+        "en": "the mother is anaemic",
+        "as": "মাক ৰক্তহীন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cytotoxic drugs pass into milk and harm the infant. A cold, prematurity and anaemia are not reasons to stop.",
+      "as": "চাইট'টক্সিক ঔষধ গাখীৰত সোমাই শিশুক হানি কৰে। ঠাণ্ডা, অকালতা আৰু ৰক্তহীনতা বন্ধ কৰাৰ কাৰণ নহয়।"
+    }
+  },
+  {
+    "id": "nursing-117",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The most effective way to reduce maternal mortality is to",
+      "as": "মাতৃ মৃত্যু কমোৱাৰ আটাই ফলপ্ৰসূ উপায়"
+    },
+    "options": [
+      {
+        "en": "ensure skilled attendance at every birth",
+        "as": "প্ৰতিটো প্ৰসৱত দক্ষ সেৱা নিশ্চিত কৰা"
+      },
+      {
+        "en": "build more offices",
+        "as": "বেছি কাৰ্যালয় সজা"
+      },
+      {
+        "en": "reduce the number of hospitals",
+        "as": "চিকিৎসালয়ৰ সংখ্যা কমোৱা"
+      },
+      {
+        "en": "delay all referrals",
+        "as": "সকলো প্ৰেৰণ পলম কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Most maternal deaths come from bleeding, fits and obstructed labour, all treatable by a skilled attendant with referral backup.",
+      "as": "বেছিভাগ মাতৃ মৃত্যু ৰক্তক্ষৰণ, খিঁচ আৰু বন্ধ প্ৰসৱৰপৰা হয়, যি দক্ষ সেৱা আৰু প্ৰেৰণৰ সহায়ত চিকিৎসাযোগ্য।"
+    }
+  },
+  {
+    "id": "nursing-118",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "Physiological jaundice of the newborn usually appears",
+      "as": "নৱজাতকৰ স্বাভাৱিক জণ্ডিছ সাধাৰণতে কেতিয়া দেখা দিয়ে"
+    },
+    "options": [
+      {
+        "en": "after 24 hours of birth",
+        "as": "জন্মৰ ২৪ ঘণ্টা পিছত"
+      },
+      {
+        "en": "within the first hour",
+        "as": "প্ৰথম ঘণ্টাৰ ভিতৰত"
+      },
+      {
+        "en": "after one month",
+        "as": "এক মাহ পিছত"
+      },
+      {
+        "en": "before birth",
+        "as": "জন্মৰ আগতে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Jaundice in the first day is always pathological and needs investigation. Physiological jaundice peaks on day three to five.",
+      "as": "প্ৰথম দিনৰ জণ্ডিছ সদায় ৰোগজনিত আৰু পৰীক্ষা লাগে। স্বাভাৱিক জণ্ডিছ তৃতীয়ৰপৰা পঞ্চম দিনত শিখৰত থাকে।"
+    }
+  },
+  {
+    "id": "nursing-119",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "A woman using an intrauterine device should be told that",
+      "as": "ইণ্ট্ৰাইউটাৰিন সজুলি ব্যৱহাৰ কৰা মহিলাক কোৱা উচিত যে"
+    },
+    "options": [
+      {
+        "en": "it does not protect against sexually transmitted infection",
+        "as": "ই যৌন সংক্ৰমণৰপৰা ৰক্ষা নকৰে"
+      },
+      {
+        "en": "it protects against all infections",
+        "as": "ই সকলো সংক্ৰমণৰপৰা ৰক্ষা কৰে"
+      },
+      {
+        "en": "it must be replaced monthly",
+        "as": "ই মাহে মাহে সলাব লাগে"
+      },
+      {
+        "en": "it causes permanent infertility",
+        "as": "ই স্থায়ী বন্ধ্যাকৰণ কৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The device prevents pregnancy but not infection, so condoms are still needed. It is effective for years and fertility returns.",
+      "as": "সজুলিয়ে গৰ্ভধাৰণ ৰোধ কৰে কিন্তু সংক্ৰমণ নহয়, সেয়ে কণ্ডম লাগে। ই বছৰজুৰি ফলপ্ৰসূ আৰু উৰ্বৰতা ঘূৰি আহে।"
+    }
+  },
+  {
+    "id": "nursing-120",
+    "leaf": "maternal-child-health",
+    "q": {
+      "en": "The nurse assesses the newborn's fontanelle mainly to detect",
+      "as": "নাৰ্ছে নৱজাতকৰ মূৰৰ কোমল স্থান পৰীক্ষা কৰে মূলতঃ কি ধৰিবলৈ"
+    },
+    "options": [
+      {
+        "en": "hydration and intracranial pressure",
+        "as": "পানীশূন্যতা আৰু কৰোটিৰ ভিতৰৰ চাপ"
+      },
+      {
+        "en": "hair growth",
+        "as": "চুলিৰ বৃদ্ধি"
+      },
+      {
+        "en": "hearing ability",
+        "as": "শ্ৰৱণ ক্ষমতা"
+      },
+      {
+        "en": "blood group",
+        "as": "ৰক্ত শ্ৰেণী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A sunken fontanelle means dehydration and a bulging one means raised pressure. Hearing and blood group need other tests.",
+      "as": "তললৈ ধঁ‌‌‌সা ফণ্টানেলে পানীশূন্যতা আৰু ওফন্দি উঠাটোৱে বঢ়া চাপ দেখুৱায়। শ্ৰৱণ আৰু ৰক্ত শ্ৰেণীলৈ আন পৰীক্ষা লাগে।"
+    }
+  }
+]

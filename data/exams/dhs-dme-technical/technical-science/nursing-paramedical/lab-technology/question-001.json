@@ -1,0 +1,932 @@
+[
+  {
+    "id": "nursing-151",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The normal haemoglobin level in an adult male is about",
+      "as": "প্ৰাপ্তবয়স্ক পুৰুষৰ স্বাভাৱিক হিম'গ্লবিন মাত্ৰা প্ৰায়"
+    },
+    "options": [
+      {
+        "en": "13 to 17 g/dL",
+        "as": "১৩ ৰপৰা ১৭ গ্ৰা./ডে.লি."
+      },
+      {
+        "en": "7 to 9 g/dL",
+        "as": "৭ ৰপৰা ৯ গ্ৰা./ডে.লি."
+      },
+      {
+        "en": "20 to 25 g/dL",
+        "as": "২০ ৰপৰা ২৫ গ্ৰা./ডে.লি."
+      },
+      {
+        "en": "4 to 6 g/dL",
+        "as": "৪ ৰপৰা ৬ গ্ৰা./ডে.লি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Thirteen to seventeen grams per decilitre is the adult male reference. Below that is anaemia and far above suggests polycythaemia.",
+      "as": "১৩ ৰপৰা ১৭ গ্ৰাম প্ৰতি ডেচিলিটাৰ পুৰুষৰ মান। তলত ৰক্তহীনতা আৰু বহু ওপৰত পলিচাইথিমিয়া।"
+    }
+  },
+  {
+    "id": "nursing-152",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Blood for a routine haematology test is best collected in a tube containing",
+      "as": "সাধাৰণ ৰক্তবিজ্ঞান পৰীক্ষাৰ বাবে ৰক্ত সংগ্ৰহ কৰা নলীত থাকিব লাগে"
+    },
+    "options": [
+      {
+        "en": "EDTA",
+        "as": "EDTA"
+      },
+      {
+        "en": "plain glass only",
+        "as": "কেৱল সাধাৰণ কাচ"
+      },
+      {
+        "en": "citrate only",
+        "as": "কেৱল ছাইট্ৰেট"
+      },
+      {
+        "en": "heparin only",
+        "as": "কেৱল হেপেৰিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "EDTA chelates calcium and stops clotting without altering cell shape, which cell counters need. Plain tubes clot and cannot be counted.",
+      "as": "EDTA এ কেলছিয়াম বান্ধি ৰক্ত জমা ৰোধ কৰে আৰু কোষৰ আকাৰ নসলে, যি কাউণ্টাৰলৈ লাগে। সাধাৰণ নলীত ৰক্ত জমে, গণিব নোৱাৰি।"
+    }
+  },
+  {
+    "id": "nursing-153",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "A raised erythrocyte sedimentation rate most often indicates",
+      "as": "বঢ়া লোহিত কণিকা অধঃক্ষেপণ হাৰে সাধাৰণতে কি দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "inflammation or infection",
+        "as": "প্ৰদাহ বা সংক্ৰমণ"
+      },
+      {
+        "en": "normal health",
+        "as": "স্বাভাৱিক স্বাস্থ্য"
+      },
+      {
+        "en": "dehydration only",
+        "as": "কেৱল পানীশূন্যতা"
+      },
+      {
+        "en": "low blood sugar",
+        "as": "কম ৰক্ত শৰ্কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Inflammation makes red cells settle faster, so ESR is a general marker rather than a specific diagnosis.",
+      "as": "প্ৰদাহে লোহিত কণিকা সোনকালে তললৈ যাব দিয়ে, সেয়ে ESR সাধাৰণ চিহ্ন, নিৰ্দিষ্ট ৰোগ নিৰ্ণয় নহয়।"
+    }
+  },
+  {
+    "id": "nursing-154",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The anticoagulant used in a tube for blood sugar estimation is",
+      "as": "ৰক্ত শৰ্কৰা জোখাৰ নলীত ব্যৱহৃত ৰক্ত জমা ৰোধক"
+    },
+    "options": [
+      {
+        "en": "sodium fluoride",
+        "as": "ছডিয়াম ফ্ল'ৰাইড"
+      },
+      {
+        "en": "EDTA",
+        "as": "EDTA"
+      },
+      {
+        "en": "citrate",
+        "as": "ছাইট্ৰেট"
+      },
+      {
+        "en": "plain tube",
+        "as": "সাধাৰণ নলী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fluoride blocks glycolysis so the glucose value does not fall while the sample waits. EDTA and citrate serve other tests.",
+      "as": "ফ্ল'ৰাইডে গ্লাইক'লাইছিছ ৰোধ কৰে যাতে নমুনা ৰৈ থাকোঁতে গ্লুক'জ নকমে। EDTA আৰু ছাইট্ৰেটে আন পৰীক্ষাৰ কাম কৰে।"
+    }
+  },
+  {
+    "id": "nursing-155",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "A Gram stain is used to",
+      "as": "গ্ৰাম দাগ ব্যৱহৃত হয় কিৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "classify bacteria as gram positive or negative",
+        "as": "বেক্টেৰিয়াক গ্ৰাম ধনাত্মক বা ঋণাত্মক শ্ৰেণীত ভাগ কৰিবলৈ"
+      },
+      {
+        "en": "count red cells",
+        "as": "লোহিত কণিকা গণিবলৈ"
+      },
+      {
+        "en": "measure glucose",
+        "as": "গ্লুক'জ জোখা"
+      },
+      {
+        "en": "detect pregnancy",
+        "as": "গৰ্ভধাৰণ ধৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The thick peptidoglycan wall of gram positive organisms keeps the purple dye, while gram negative ones lose it and take the pink counterstain.",
+      "as": "গ্ৰাম ধনাত্মকৰ ডাঠ বেৰে বেঙুনীয়া ৰং ধৰি ৰাখে, ঋণাত্মকবোৰে হেৰুৱাই গুলপীয়া ৰং লয়।"
+    }
+  },
+  {
+    "id": "nursing-156",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The most common site for venepuncture in an adult is the",
+      "as": "প্ৰাপ্তবয়স্কত শিৰা ফুটোৱাৰ আটাই সাধাৰণ স্থান"
+    },
+    "options": [
+      {
+        "en": "median cubital vein",
+        "as": "মিডিয়ান কিউবিটেল শিৰা"
+      },
+      {
+        "en": "femoral vein",
+        "as": "ফিম'ৰেল শিৰা"
+      },
+      {
+        "en": "jugular vein",
+        "as": "জগুলাৰ শিৰা"
+      },
+      {
+        "en": "dorsal vein of the foot",
+        "as": "ভৰিৰ পিঠিৰ শিৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The median cubital vein is large, superficial and away from arteries and nerves. Femoral and jugular punctures carry much higher risk.",
+      "as": "মিডিয়ান কিউবিটেল শিৰা ডাঙৰ, পৃষ্ঠত আৰু ধমনী-স্নায়ুৰপৰা আঁতৰত। ফিম'ৰেল আৰু জগুলাৰত বহু বেছি বিপদ।"
+    }
+  },
+  {
+    "id": "nursing-157",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Which of the following is a sterile procedure?",
+      "as": "তলৰ কোনটো জীৱাণুমুক্ত প্ৰক্ৰিয়া"
+    },
+    "options": [
+      {
+        "en": "inserting a urinary catheter",
+        "as": "মূত্ৰ কেথেটাৰ ভৰোৱা"
+      },
+      {
+        "en": "counting the pulse",
+        "as": "নাড়ী গণা"
+      },
+      {
+        "en": "weighing a patient",
+        "as": "ৰোগীৰ ওজন জোখা"
+      },
+      {
+        "en": "measuring height",
+        "as": "উচ্চতা জোখা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The catheter passes into a sterile body cavity, so gloves, drapes and cleaning must be sterile. Pulse and weight need no such care.",
+      "as": "কেথেটাৰ জীৱাণুমুক্ত শৰীৰ গহ্বৰলৈ যায়, সেয়ে দস্তানা, আৱৰণ আৰু পৰিষ্কাৰ জীৱাণুমুক্ত হ'ব লাগে। নাড়ী আৰু ওজনলৈ এনে যতন নালাগে।"
+    }
+  },
+  {
+    "id": "nursing-158",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The normal urine specific gravity range is",
+      "as": "মূত্ৰৰ স্বাভাৱিক আপেক্ষিক ঘনত্বৰ পৰিসৰ"
+    },
+    "options": [
+      {
+        "en": "1.005 to 1.030",
+        "as": "১.০০৫ ৰপৰা ১.০৩০"
+      },
+      {
+        "en": "1.040 to 1.060",
+        "as": "১.০৪০ ৰপৰা ১.০৬০"
+      },
+      {
+        "en": "0.500 to 0.700",
+        "as": "০.৫০০ ৰপৰা ০.৭০০"
+      },
+      {
+        "en": "2.000 to 2.500",
+        "as": "২.০০০ ৰপৰা ২.৫০০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The range reflects the kidney's ability to concentrate and dilute. A fixed low value suggests the kidney cannot concentrate urine.",
+      "as": "পৰিসৰে বৃক্কৰ ঘন আৰু পাতল কৰাৰ ক্ষমতা দেখুৱায়। সদায় কম মানে বৃক্কই মূত্ৰ ঘন কৰিব নোৱাৰা বুজায়।"
+    }
+  },
+  {
+    "id": "nursing-159",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "A sample for blood culture should be collected",
+      "as": "ৰক্ত সংৱৰ্ধনৰ নমুনা কেতিয়া সংগ্ৰহ কৰিব লাগে"
+    },
+    "options": [
+      {
+        "en": "before starting antibiotics",
+        "as": "এণ্টিবায়'টিক আৰম্ভ কৰাৰ আগতে"
+      },
+      {
+        "en": "after a week of antibiotics",
+        "as": "এসপ্তাহ এণ্টিবায়'টিকৰ পিছত"
+      },
+      {
+        "en": "only at midnight",
+        "as": "কেৱল মাজৰাতি"
+      },
+      {
+        "en": "after the patient recovers",
+        "as": "ৰোগী সুস্থ হোৱাৰ পিছত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Antibiotics reduce the number of organisms in the blood, so the culture may not grow. Collection comes first.",
+      "as": "এণ্টিবায়'টিকে ৰক্তত জীৱাণু কমায়, সেয়ে সংৱৰ্ধন নহ'বও পাৰে। সংগ্ৰহ আগতে কৰিব লাগে।"
+    }
+  },
+  {
+    "id": "nursing-160",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Which test measures kidney function?",
+      "as": "কোন পৰীক্ষাই বৃক্কৰ কাৰ্য জোখে"
+    },
+    "options": [
+      {
+        "en": "serum creatinine",
+        "as": "ছিৰাম ক্ৰিয়েটিনিন"
+      },
+      {
+        "en": "serum amylase",
+        "as": "ছিৰাম এমাইলেজ"
+      },
+      {
+        "en": "prothrombin time",
+        "as": "প্ৰ'থ্ৰম্বিন সময়"
+      },
+      {
+        "en": "ESR",
+        "as": "ESR"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Creatinine is filtered by the kidney, so a rising level means falling filtration. Amylase reflects the pancreas.",
+      "as": "ক্ৰিয়েটিনিন বৃক্কে ছেকি পেলায়, সেয়ে বঢ়া মানে পৰিস্ৰাৱন কমা। এমাইলেজে অগ্ন্যাশয় দেখুৱায়।"
+    }
+  },
+  {
+    "id": "nursing-161",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The correct way to dispose of a used needle is to",
+      "as": "ব্যৱহৃত ছুই দিয়াৰ শুদ্ধ উপায়"
+    },
+    "options": [
+      {
+        "en": "drop it into a puncture-proof sharps container without recapping",
+        "as": "ঢাকি নধৰাকৈ ছিদ্ৰৰোধী শাৰ্পছ পাত্রত পেলোৱা"
+      },
+      {
+        "en": "recap it and put it in a bin",
+        "as": "ঢাকি সাধাৰণ জাবৰত পেলোৱা"
+      },
+      {
+        "en": "bend it and throw it away",
+        "as": "বেঁ‌কা কৰি পেলোৱা"
+      },
+      {
+        "en": "keep it in a pocket",
+        "as": "জেপত ৰখা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Recapping causes most needlestick injuries, so the needle goes straight into a rigid container that cannot be pierced.",
+      "as": "ঢাকি ধৰোঁতে বেছিভাগ ছুই আঘাত হয়, সেয়ে ছুই পোনপটীয়াকৈ ফুটিব নোৱৰা পাত্রত পেলোৱা হয়।"
+    }
+  },
+  {
+    "id": "nursing-162",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "A high serum potassium level is called",
+      "as": "ছিৰামত বেছি পটাছিয়ামক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "hyperkalaemia",
+        "as": "হাইপাৰকেলিমিয়া"
+      },
+      {
+        "en": "hypokalaemia",
+        "as": "হাইপ'কেলিমিয়া"
+      },
+      {
+        "en": "hypernatraemia",
+        "as": "হাইপাৰনেট্ৰিমিয়া"
+      },
+      {
+        "en": "hypocalcaemia",
+        "as": "হাইপ'কেলছিমিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hyperkalaemia can stop the heart, so it is treated as an emergency. The other terms refer to sodium and calcium.",
+      "as": "হাইপাৰকেলিমিয়াই হৃদয় বন্ধ কৰিব পাৰে, সেয়ে জৰুৰী অৱস্থা হিচাপে চিকিৎসা কৰা হয়। বাকী শব্দই ছডিয়াম আৰু কেলছিয়ামলৈ।"
+    }
+  },
+  {
+    "id": "nursing-163",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "A tourniquet is applied before venepuncture to",
+      "as": "শিৰা ফুটোৱাৰ আগতে টুৰ্নিকেট লগোৱা হয় কিৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "make the vein prominent by obstructing venous return",
+        "as": "শিৰাৰ প্ৰবাহ ৰোধ কৰি শিৰা স্পষ্ট কৰিবলৈ"
+      },
+      {
+        "en": "stop arterial flow",
+        "as": "ধমনীৰ প্ৰবাহ বন্ধ কৰিবলৈ"
+      },
+      {
+        "en": "reduce pain",
+        "as": "বিষ কমাবলৈ"
+      },
+      {
+        "en": "sterilise the skin",
+        "as": "ছাল জীৱাণুমুক্ত কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Blocking the vein while arterial flow continues fills the vein and makes it easy to see. Blocking arteries would damage the limb.",
+      "as": "শিৰা ৰোধ কৰি ধমনী চলি থাকিলে শিৰা ভৰি সহজে দেখা যায়। ধমনী বন্ধ কৰিলে অংগ নষ্ট হ'ব।"
+    }
+  },
+  {
+    "id": "nursing-164",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Which of the following is a correctly matched normal value?",
+      "as": "তলৰ কোনটো শুদ্ধভাৱে মিলোৱা স্বাভাৱিক মান"
+    },
+    "options": [
+      {
+        "en": "fasting blood glucose 70 to 100 mg/dL",
+        "as": "খালী পেটৰ ৰক্ত শৰ্কৰা ৭০ ৰপৰা ১০০ মি.গ্ৰা./ডে.লি."
+      },
+      {
+        "en": "fasting blood glucose 300 mg/dL",
+        "as": "খালী পেটৰ ৰক্ত শৰ্কৰা ৩০০ মি.গ্ৰা./ডে.লি."
+      },
+      {
+        "en": "serum sodium 40 mEq/L",
+        "as": "ছিৰাম ছডিয়াম ৪০ mEq/L"
+      },
+      {
+        "en": "haemoglobin 2 g/dL",
+        "as": "হিম'গ্লবিন ২ গ্ৰা./ডে.লি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Seventy to a hundred is the normal fasting range. Three hundred indicates diabetes and the other two values are incompatible with life.",
+      "as": "৭০ ৰপৰা ১০০ স্বাভাৱিক খালী পেটৰ পৰিসৰ। ৩০০ এ মধুমেহ আৰু বাকী দুটা মান জীৱনৰ সৈতে অসঙ্গত।"
+    }
+  },
+  {
+    "id": "nursing-165",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The purpose of a urine culture and sensitivity test is to",
+      "as": "মূত্ৰ সংৱৰ্ধন আৰু সংবেদনশীলতা পৰীক্ষাৰ উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "identify the organism and the antibiotic that kills it",
+        "as": "জীৱাণু আৰু তাক মৰা এণ্টিবায়'টিক চিনাক্ত কৰা"
+      },
+      {
+        "en": "measure urine volume",
+        "as": "মূত্ৰৰ পৰিমাণ জোখা"
+      },
+      {
+        "en": "check urine colour",
+        "as": "মূত্ৰৰ ৰং পৰীক্ষা কৰা"
+      },
+      {
+        "en": "count red cells",
+        "as": "লোহিত কণিকা গণা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The culture grows the organism and the sensitivity panel shows which drugs work, so treatment is targeted rather than guessed.",
+      "as": "সংৱৰ্ধনে জীৱাণু বঢ়ায় আৰু সংবেদনশীলতা তালিকাই কোন ঔষধে কাম কৰে দেখুৱায়, সেয়ে চিকিৎসা অনুমান নহয় লক্ষ্যযুক্ত হয়।"
+    }
+  },
+  {
+    "id": "nursing-166",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Which specimen is collected for sputum examination in suspected tuberculosis?",
+      "as": "সন্দেহজনক যক্ষ্মাত কোন নমুনা সংগ্ৰহ কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "early morning sputum on two or three days",
+        "as": "দুই বা তিনি দিনৰ ৰাতিপুৱাৰ কফ"
+      },
+      {
+        "en": "saliva only",
+        "as": "কেৱল লালটী"
+      },
+      {
+        "en": "blood only",
+        "as": "কেৱল ৰক্ত"
+      },
+      {
+        "en": "urine only",
+        "as": "কেৱল মূত্ৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Overnight secretions collect in the airways, so early morning samples carry the most bacilli. Saliva has almost none.",
+      "as": "ৰাতিৰ ভিতৰত শ্লেষ্মা বায়ুপথত জমে, সেয়ে ৰাতিপুৱাৰ নমুনাত বেছি বেক্টেৰিয়া থাকে। লালটীত প্ৰায় নাথাকে।"
+    }
+  },
+  {
+    "id": "nursing-167",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "A raised total leucocyte count usually suggests",
+      "as": "বঢ়া মুঠ শ্বেত কণিকা সংখ্যাই সাধাৰণতে কি বুজায়"
+    },
+    "options": [
+      {
+        "en": "infection or inflammation",
+        "as": "সংক্ৰমণ বা প্ৰদাহ"
+      },
+      {
+        "en": "anaemia",
+        "as": "ৰক্তহীনতা"
+      },
+      {
+        "en": "dehydration",
+        "as": "পানীশূন্যতা"
+      },
+      {
+        "en": "jaundice",
+        "as": "জণ্ডিছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "White cells rise to fight infection, so a high count supports the diagnosis. Anaemia concerns red cells instead.",
+      "as": "সংক্ৰমণ ৰোধ কৰিবলৈ শ্বেত কণিকা বাঢ়ে, সেয়ে বেছি সংখ্যাই নিৰ্ণয়ত সহায় কৰে। ৰক্তহীনতা লোহিত কণিকাৰ কথা।"
+    }
+  },
+  {
+    "id": "nursing-168",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The correct order of drawing blood when multiple tubes are needed begins with",
+      "as": "একাধিক নলী লাগিলে ৰক্ত লোৱাৰ শুদ্ধ ক্ৰম আৰম্ভ হয়"
+    },
+    "options": [
+      {
+        "en": "blood culture tubes",
+        "as": "ৰক্ত সংৱৰ্ধন নলীৰপৰা"
+      },
+      {
+        "en": "EDTA tubes",
+        "as": "EDTA নলীৰপৰা"
+      },
+      {
+        "en": "citrate tubes",
+        "as": "ছাইট্ৰেট নলীৰপৰা"
+      },
+      {
+        "en": "fluoride tubes",
+        "as": "ফ্ল'ৰাইড নলীৰপৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sterile culture bottles come first so they are not contaminated by additives from other tubes. Additive carryover would give false results.",
+      "as": "জীৱাণুমুক্ত সংৱৰ্ধন বটল প্ৰথমে যাতে আন নলীৰ পদাৰ্থই দূষিত নকৰে। পদাৰ্থ গলে ভুল ফল দিব।"
+    }
+  },
+  {
+    "id": "nursing-169",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The Widal test is used in the diagnosis of",
+      "as": "ৱিডাল পৰীক্ষা কোন ৰোগৰ নিৰ্ণয়ত ব্যৱহৃত হয়"
+    },
+    "options": [
+      {
+        "en": "typhoid",
+        "as": "টাইফয়েড"
+      },
+      {
+        "en": "malaria",
+        "as": "মেলেৰিয়া"
+      },
+      {
+        "en": "dengue",
+        "as": "ডেংগু"
+      },
+      {
+        "en": "tuberculosis",
+        "as": "যক্ষ্মা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "It detects antibodies to Salmonella typhi. Malaria needs a smear and dengue needs NS1 or IgM testing.",
+      "as": "ই ছালম'নেলা টাইফাইৰ প্ৰতিদেহ ধৰে। মেলেৰিয়ালৈ ছাল স্মিয়াৰ আৰু ডেংগুলৈ NS1 বা IgM পৰীক্ষা লাগে।"
+    }
+  },
+  {
+    "id": "nursing-170",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Personal protective equipment should be removed",
+      "as": "ব্যক্তিগত সুৰক্ষা সজুলি খোলা উচিত"
+    },
+    "options": [
+      {
+        "en": "before leaving the patient's room",
+        "as": "ৰোগীৰ কোঠা এৰাৰ আগতে"
+      },
+      {
+        "en": "after reaching home",
+        "as": "ঘৰ পোৱাৰ পিছত"
+      },
+      {
+        "en": "in the canteen",
+        "as": "কেণ্টিনত"
+      },
+      {
+        "en": "only at the end of the shift",
+        "as": "কেৱল শিফ্ট শেষত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Contaminated equipment carries organisms to other patients and staff areas, so it comes off at the door.",
+      "as": "দূষিত সজুলিয়ে জীৱাণু আন ৰোগী আৰু কৰ্মচাৰীৰ ঠাইলৈ নিয়ে, সেয়ে দুৱাৰতেই খুলিব লাগে।"
+    }
+  },
+  {
+    "id": "nursing-171",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Which of the following best describes a false negative result?",
+      "as": "তলৰ কোনটোৱে মিছা ঋণাত্মক ফল ভালদৰে বৰ্ণনা কৰে"
+    },
+    "options": [
+      {
+        "en": "the test says no disease when disease is present",
+        "as": "ৰোগ থাকিলেও পৰীক্ষাই ৰোগ নাই বোলে"
+      },
+      {
+        "en": "the test says disease when none is present",
+        "as": "ৰোগ নথকাকৈয়ে পৰীক্ষাই ৰোগ বোলে"
+      },
+      {
+        "en": "the test cannot be performed",
+        "as": "পৰীক্ষা কৰিব নোৱাৰি"
+      },
+      {
+        "en": "the sample is lost",
+        "as": "নমুনা হেৰায়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A false negative misses real disease and delays treatment. A false positive wrongly labels a healthy person.",
+      "as": "মিছা ঋণাত্মকে প্ৰকৃত ৰোগ এৰি দি চিকিৎসা পলম কৰে। মিছা ধনাত্মকে সুস্থ লোকক ৰোগী বুলি চিহ্নিত কৰে।"
+    }
+  },
+  {
+    "id": "nursing-172",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Serum is obtained from blood that has",
+      "as": "ছিৰাম পোৱা যায় এনে ৰক্তৰপৰা যি"
+    },
+    "options": [
+      {
+        "en": "clotted and then been centrifuged",
+        "as": "জমি তাৰ পিছত কেন্দ্ৰাপসাৰিত হৈছে"
+      },
+      {
+        "en": "been treated with EDTA",
+        "as": "EDTA ৰে ব্যৱহাৰ কৰা"
+      },
+      {
+        "en": "not clotted at all",
+        "as": "কেতিয়াও জমা নাই"
+      },
+      {
+        "en": "been diluted with water",
+        "as": "পানীৰে পাতল কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Clotting leaves serum above the clot, while an anticoagulated sample gives plasma. The two differ by clotting proteins.",
+      "as": "জমাৰ পিছত পিণ্ডৰ ওপৰত ছিৰাম থাকে, আনহাতে ৰোধকযুক্ত নমুনাই প্লাজমা দিয়ে। জমা প্ৰ'টিনে দুয়োটাক পাৰ্থক্য কৰে।"
+    }
+  },
+  {
+    "id": "nursing-173",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "A universal precaution in the laboratory means treating",
+      "as": "লেবৰেটৰীত সৰ্বজনীন সতৰ্কতা মানে কি হিচাপে গণ্য কৰা"
+    },
+    "options": [
+      {
+        "en": "every blood and body fluid sample as infectious",
+        "as": "প্ৰতিটো ৰক্ত আৰু শৰীৰ তৰল নমুনাক সংক্ৰামক বুলি"
+      },
+      {
+        "en": "only known HIV samples as infectious",
+        "as": "কেৱল জনা HIV নমুনাক সংক্ৰামক বুলি"
+      },
+      {
+        "en": "only samples from surgery as infectious",
+        "as": "কেৱল অস্ত্ৰোপচাৰৰ নমুনাক সংক্ৰামক বুলি"
+      },
+      {
+        "en": "no sample as infectious",
+        "as": "কোনো নমুনাক সংক্ৰামক নহয় বুলি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Many carriers are undiagnosed, so gloves and safe handling apply to every sample regardless of the label.",
+      "as": "বহুত বাহক ৰোগ নিৰ্ণয়হীন, সেয়ে লেবেল যিয়েই নহওক প্ৰতিটো নমুনাত দস্তানা আৰু সুৰক্ষিত ব্যৱহাৰ প্ৰযোজ্য।"
+    }
+  },
+  {
+    "id": "nursing-174",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The normal adult white blood cell count per cubic millimetre is",
+      "as": "প্ৰাপ্তবয়স্কৰ প্ৰতি ঘন মিলিমিটাৰত স্বাভাৱিক শ্বেত কণিকা সংখ্যা"
+    },
+    "options": [
+      {
+        "en": "4000 to 11000",
+        "as": "৪০০০ ৰপৰা ১১০০০"
+      },
+      {
+        "en": "500 to 1000",
+        "as": "৫০০ ৰপৰা ১০০০"
+      },
+      {
+        "en": "50000 to 100000",
+        "as": "৫০,০০০ ৰপৰা ১,০০,০০০"
+      },
+      {
+        "en": "100 to 400",
+        "as": "১০০ ৰপৰা ৪০০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Four to eleven thousand is the accepted adult range. Far higher counts suggest leukaemia and lower ones immune suppression.",
+      "as": "৪০০০ ৰপৰা ১১০০০ গ্ৰহণযোগ্য প্ৰাপ্তবয়স্ক পৰিসৰ। বহু বেছি হ'লে লিউকিমিয়া আৰু কম হ'লে ৰোগ প্ৰতিৰোধ দমন।"
+    }
+  },
+  {
+    "id": "nursing-175",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The main reason for fasting before a lipid profile test is that",
+      "as": "লিপিড প্ৰ'ফাইল পৰীক্ষাৰ আগতে উপবাসৰ মূল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "recent food raises triglycerides and distorts the result",
+        "as": "শেহতীয়া খাদ্যই ট্ৰাইগ্লিচাৰাইড বঢ়াই ফল বিকৃত কৰে"
+      },
+      {
+        "en": "fasting sterilises the blood",
+        "as": "উপবাসে ৰক্ত জীৱাণুমুক্ত কৰে"
+      },
+      {
+        "en": "food causes anaemia",
+        "as": "খাদ্যই ৰক্তহীনতা কৰে"
+      },
+      {
+        "en": "it saves money",
+        "as": "ধন সাঁ‌চয় হয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fat absorbed from a meal circulates for hours, so a non-fasting sample overstates triglycerides. Cholesterol alone is less affected.",
+      "as": "খাদ্যৰপৰা শোষিত চৰ্বি ঘণ্টাজুৰি ঘূৰি থাকে, সেয়ে উপবাস নোহোৱা নমুনাই ট্ৰাইগ্লিচাৰাইড বঢ়াই দেখুৱায়। কেৱল ক'লেষ্টেৰলত কম প্ৰভাৱ।"
+    }
+  },
+  {
+    "id": "nursing-176",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Which of the following correctly describes the purpose of a control sample in the laboratory?",
+      "as": "লেবৰেটৰীত নিয়ন্ত্ৰণ নমুনাৰ উদ্দেশ্য শুদ্ধভাৱে কি"
+    },
+    "options": [
+      {
+        "en": "to check that the test system is working correctly",
+        "as": "পৰীক্ষা ব্যৱস্থা শুদ্ধভাৱে চলিছে নে নাই চোৱা"
+      },
+      {
+        "en": "to replace the patient sample",
+        "as": "ৰোগীৰ নমুনাৰ সলনি ব্যৱহাৰ"
+      },
+      {
+        "en": "to calibrate the room temperature",
+        "as": "কোঠাৰ উষ্ণতা মিলোৱা"
+      },
+      {
+        "en": "to count staff",
+        "as": "কৰ্মচাৰী গণা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A control has a known value, so a correct reading proves the reagents and instrument are behaving.",
+      "as": "নিয়ন্ত্ৰণৰ মান জনা থাকে, সেয়ে শুদ্ধ পাঠে প্ৰতিদান আৰু যন্ত্ৰ ঠিক চলিছে প্ৰমাণ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-177",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Hands should be washed with soap and water for at least",
+      "as": "হাত চাবোন আৰু পানীৰে অন্ততঃ কিমান সময় ধুই ল'ব লাগে"
+    },
+    "options": [
+      {
+        "en": "40 to 60 seconds",
+        "as": "৪০ ৰপৰা ৬০ ছেকেণ্ড"
+      },
+      {
+        "en": "5 seconds",
+        "as": "৫ ছেকেণ্ড"
+      },
+      {
+        "en": "5 minutes always",
+        "as": "সদায় ৫ মিনিট"
+      },
+      {
+        "en": "10 seconds",
+        "as": "১০ ছেকেণ্ড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Forty to sixty seconds with proper technique covers all surfaces. A five second rinse leaves organisms behind.",
+      "as": "শুদ্ধ কৌশলেৰে ৪০ ৰপৰা ৬০ ছেকেণ্ডে সকলো পৃষ্ঠ ঢাকে। পাঁচ ছেকেণ্ডৰ ধোৱাই জীৱাণু এৰি যায়।"
+    }
+  },
+  {
+    "id": "nursing-178",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "The erythrocyte count in an adult female is normally",
+      "as": "প্ৰাপ্তবয়স্ক মহিলাৰ লোহিত কণিকা সংখ্যা সাধাৰণতে"
+    },
+    "options": [
+      {
+        "en": "4.0 to 5.2 million per microlitre",
+        "as": "প্ৰতি মাইক্ৰ'লিটাৰত ৪.০ ৰপৰা ৫.২ নিযুত"
+      },
+      {
+        "en": "1.0 to 2.0 million per microlitre",
+        "as": "প্ৰতি মাইক্ৰ'লিটাৰত ১.০ ৰপৰা ২.০ নিযুত"
+      },
+      {
+        "en": "8.0 to 9.0 million per microlitre",
+        "as": "প্ৰতি মাইক্ৰ'লিটাৰত ৮.০ ৰপৰা ৯.০ নিযুত"
+      },
+      {
+        "en": "100 to 200 per microlitre",
+        "as": "প্ৰতি মাইক্ৰ'লিটাৰত ১০০ ৰপৰা ২০০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Women normally have a slightly lower count than men. A count near one million means severe anaemia.",
+      "as": "মহিলাৰ সংখ্যা পুৰুষতকৈ অলপ কম থাকে। এক নিযুতৰ ওচৰা-উচৰি মানে গুৰুতৰ ৰক্তহীনতা।"
+    }
+  },
+  {
+    "id": "nursing-179",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "Which of the following is the correct method to transport a blood sample?",
+      "as": "ৰক্ত নমুনা পৰিবহনৰ শুদ্ধ পদ্ধতি"
+    },
+    "options": [
+      {
+        "en": "in a closed rack at the recommended temperature",
+        "as": "বন্ধ ৰেকত পৰামৰ্শিত উষ্ণতাত"
+      },
+      {
+        "en": "in an open tray in the sun",
+        "as": "ৰ'দত মুকলি ট্ৰেত"
+      },
+      {
+        "en": "in a shirt pocket",
+        "as": "চাৰ্টৰ জেপত"
+      },
+      {
+        "en": "loose in a bag",
+        "as": "মোনাত মুকলিকৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Heat, light and shaking alter cell counts and chemistry, so samples travel closed and at the right temperature.",
+      "as": "তাপ, পোহৰ আৰু জোকাৰণিয়ে কোষ গণনা আৰু ৰসায়ন সলায়, সেয়ে নমুনা বন্ধ আৰু শুদ্ধ উষ্ণতাত নিয়া হয়।"
+    }
+  },
+  {
+    "id": "nursing-180",
+    "leaf": "lab-technology",
+    "q": {
+      "en": "A centrifuge is used in the laboratory to",
+      "as": "লেবৰেটৰীত কেন্দ্ৰাপসাৰক যন্ত্ৰ ব্যৱহৃত হয় কিৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "separate blood into cells and serum or plasma",
+        "as": "ৰক্তক কোষ আৰু ছিৰাম বা প্লাজমাত ভাগ কৰিবলৈ"
+      },
+      {
+        "en": "sterilise instruments",
+        "as": "সজুলি জীৱাণুমুক্ত কৰিবলৈ"
+      },
+      {
+        "en": "measure temperature",
+        "as": "উষ্ণতা জোখা"
+      },
+      {
+        "en": "count bacteria",
+        "as": "বেক্টেৰিয়া গণিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Spinning applies centrifugal force so denser cells settle and the liquid layer can be pipetted off for testing.",
+      "as": "ঘূৰ্ণনে কেন্দ্ৰাপসাৰী বল দিয়ে যাতে ঘন কোষ তললৈ যায় আৰু তৰল স্তৰ পৰীক্ষাৰ বাবে ল'ব পাৰি।"
+    }
+  }
+]

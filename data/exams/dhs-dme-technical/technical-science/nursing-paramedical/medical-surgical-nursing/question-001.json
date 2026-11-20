@@ -1,0 +1,932 @@
+[
+  {
+    "id": "nursing-061",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The classic symptom of myocardial infarction is",
+      "as": "মায়'কাৰ্ডিয়েল ইনফাৰ্কচনৰ প্ৰচলিত লক্ষণ"
+    },
+    "options": [
+      {
+        "en": "crushing chest pain radiating to the left arm",
+        "as": "বাওঁ বাহুলৈ বিয়পা ভাৰী বুকুৰ বিষ"
+      },
+      {
+        "en": "pain in the right ankle",
+        "as": "সোঁ গোৰোহাত বিষ"
+      },
+      {
+        "en": "itchy scalp",
+        "as": "মূৰৰ খু‌জুৰি"
+      },
+      {
+        "en": "blurred near vision",
+        "as": "ওচৰৰ দৃষ্টি ধোঁৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ischaemic heart muscle causes central crushing pain that travels along the left arm or jaw. Ankle pain has no cardiac pattern.",
+      "as": "ৰক্তহীন হৃদ্‌পেশীয়ে কেন্দ্ৰীয় ভাৰী বিষ দিয়ে যি বাওঁ বাহু বা হনুলৈ যায়। গোৰোহাৰ বিষৰ হৃদয়ৰ আৰ্হি নাই।"
+    }
+  },
+  {
+    "id": "nursing-062",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "A patient with a fractured femur is most at risk of",
+      "as": "ফিমাৰ ফ্ৰেকচাৰ থকা ৰোগীৰ আটাই বেছি বিপদ"
+    },
+    "options": [
+      {
+        "en": "fat embolism",
+        "as": "চৰ্বি এম্ব'লিজম"
+      },
+      {
+        "en": "anaemia only",
+        "as": "কেৱল ৰক্তহীনতা"
+      },
+      {
+        "en": "diabetes",
+        "as": "মধুমেহ"
+      },
+      {
+        "en": "asthma",
+        "as": "হাঁপানি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Marrow fat can enter torn veins at the fracture and lodge in the lungs. This is why the limb is immobilised early.",
+      "as": "ভঙা ঠাইত ছিঁড়া শিৰাত মজ্জাৰ চৰ্বি সোমাই ফুসফুসত লাগে। সেয়ে অংগ সোনকালে স্থিৰ কৰা হয়।"
+    }
+  },
+  {
+    "id": "nursing-063",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The most important nursing measure after abdominal surgery is to",
+      "as": "পেটৰ অস্ত্ৰোপচাৰৰ পিছত আটাই গুৰুত্বপূৰ্ণ নাৰ্ছিং ব্যৱস্থা"
+    },
+    "options": [
+      {
+        "en": "monitor the wound and encourage early mobilisation",
+        "as": "ঘা পৰ্যবেক্ষণ আৰু সোনকালে খোজ কঢ়াত উৎসাহ দিয়া"
+      },
+      {
+        "en": "keep the patient flat for a week",
+        "as": "সপ্তাহজুৰি ৰোগীক সমতল ৰখা"
+      },
+      {
+        "en": "withhold all fluids",
+        "as": "সকলো তৰল বন্ধ ৰখা"
+      },
+      {
+        "en": "avoid all observation",
+        "as": "সকলো পৰ্যবেক্ষণ এৰি দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Wound checks catch infection and dehiscence, and early walking prevents chest infection and clots. Prolonged immobility causes both.",
+      "as": "ঘা পৰীক্ষাই সংক্ৰমণ আৰু ফাটনি ধৰে, আৰু সোনকালে খোজ কাঢ়িলে বুকুৰ সংক্ৰমণ আৰু ৰক্তপিণ্ড ৰোধ হয়। দীঘলীয়া অচলতাই দুয়োটা আনে।"
+    }
+  },
+  {
+    "id": "nursing-064",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "In diabetic ketoacidosis the breath typically smells of",
+      "as": "ডায়েবেটিক কিট'এচিড'ছিছত উশাহত সাধাৰণতে কি গোন্ধ পোৱা যায়"
+    },
+    "options": [
+      {
+        "en": "acetone",
+        "as": "এছিট'ন"
+      },
+      {
+        "en": "ammonia",
+        "as": "এম'নিয়া"
+      },
+      {
+        "en": "garlic",
+        "as": "নহৰু"
+      },
+      {
+        "en": "alcohol",
+        "as": "মদ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ketones include acetone, which the lungs exhale, giving a fruity smell. Ammonia suggests liver or kidney failure instead.",
+      "as": "কিট'নত এছিট'ন থাকে, যি ফুসফুসেৰে ওলাই ফলীয়া গোন্ধ দিয়ে। এম'নিয়াই যকৃত বা বৃক্ক বিকল দেখুৱায়।"
+    }
+  },
+  {
+    "id": "nursing-065",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The nurse should position a patient with severe breathlessness in",
+      "as": "তীব্ৰ উশাহৰ কষ্ট থকা ৰোগীক নাৰ্ছে কেতিয়া ৰখাব"
+    },
+    "options": [
+      {
+        "en": "an upright sitting position",
+        "as": "সোজা বহা অৱস্থানত"
+      },
+      {
+        "en": "a flat supine position",
+        "as": "সমতল পিঠিৰ অৱস্থানত"
+      },
+      {
+        "en": "head-down position",
+        "as": "মূৰ তলত দি"
+      },
+      {
+        "en": "on the abdomen only",
+        "as": "কেৱল পেটত দি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sitting upright lets the diaphragm descend and improves lung volume. Lying flat pushes the abdomen up and worsens the effort.",
+      "as": "সোজা বহিলে মধ্যচ্ছদা তললৈ যায় আৰু ফুসফুসৰ আয়তন বাঢ়ে। সমতল শুলিলে পেট ওপৰলৈ আহি কষ্ট বঢ়ায়।"
+    }
+  },
+  {
+    "id": "nursing-066",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "A colostomy is a surgical opening made in the",
+      "as": "কল'ষ্টমী কিৰ এটা শল্য ছিদ্ৰ"
+    },
+    "options": [
+      {
+        "en": "colon",
+        "as": "ক'লন"
+      },
+      {
+        "en": "stomach",
+        "as": "পেট"
+      },
+      {
+        "en": "bladder",
+        "as": "মূত্ৰাশয়"
+      },
+      {
+        "en": "trachea",
+        "as": "শ্বাসনলী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The colon is brought to the abdominal wall so stool can leave without passing the diseased segment. Bladder and trachea openings have other names.",
+      "as": "ক'লন পেটৰ বেৰলৈ অনা হয় যাতে ৰোগগ্ৰস্ত অংশ নগৈ মল ওলায়। মূত্ৰাশয় আৰু শ্বাসনলীৰ ছিদ্ৰৰ আন নাম আছে।"
+    }
+  },
+  {
+    "id": "nursing-067",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The first sign of hypovolaemic shock is usually",
+      "as": "হাইপ'ভলেমিক শ্বকৰ প্ৰথম চিন সাধাৰণতে"
+    },
+    "options": [
+      {
+        "en": "a rising pulse rate",
+        "as": "নাড়ীৰ গতি বঢ়া"
+      },
+      {
+        "en": "a falling pulse rate",
+        "as": "নাড়ীৰ গতি কমা"
+      },
+      {
+        "en": "a rise in urine output",
+        "as": "মূত্ৰ বঢ়া"
+      },
+      {
+        "en": "a drop in temperature",
+        "as": "উষ্ণতা কমা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Loss of volume makes the heart beat faster to keep pressure up, so tachycardia comes before the pressure falls.",
+      "as": "তৰল কমিলে চাপ ধৰি ৰাখিবলৈ হৃদয়ে দ্ৰুত চালিত হয়, সেয়ে চাপ নমাৰ আগতে টেকিকাৰ্ডিয়া আহে।"
+    }
+  },
+  {
+    "id": "nursing-068",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "A patient on prolonged bed rest is at risk of developing",
+      "as": "দীঘলীয়া বিছনা বিশ্ৰামত থকা ৰোগীৰ কি হোৱাৰ বিপদ"
+    },
+    "options": [
+      {
+        "en": "deep vein thrombosis",
+        "as": "গভীৰ শিৰাৰ ৰক্তপিণ্ড"
+      },
+      {
+        "en": "increased muscle mass",
+        "as": "পেশী বঢ়া"
+      },
+      {
+        "en": "improved lung capacity",
+        "as": "ফুসফুসৰ ক্ষমতা বঢ়া"
+      },
+      {
+        "en": "faster wound healing",
+        "as": "ঘা সোনকালে শুকুৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Blood pools in still legs and clots, which can travel to the lungs. Muscle wasting and weaker lungs are the other costs of immobility.",
+      "as": "স্থিৰ ভৰিত ৰক্ত জমা হৈ পিণ্ড হয়, যি ফুসফুসলৈ যাব পাৰে। পেশী ক্ষয় আৰু দুৰ্বল ফুসফুস অচলতাৰ আন ক্ষতি।"
+    }
+  },
+  {
+    "id": "nursing-069",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The normal healing of a clean surgical wound passes through",
+      "as": "পৰিষ্কাৰ শল্য ঘাৰ স্বাভাৱিক শুকান প্ৰক্ৰিয়া"
+    },
+    "options": [
+      {
+        "en": "inflammation, proliferation and maturation",
+        "as": "প্ৰদাহ, বৃদ্ধি আৰু পৰিপক্বতা"
+      },
+      {
+        "en": "infection, sepsis and necrosis",
+        "as": "সংক্ৰমণ, ছেপছিছ আৰু কলা মৃত্যু"
+      },
+      {
+        "en": "clotting only",
+        "as": "কেৱল ৰক্ত জমা"
+      },
+      {
+        "en": "scarring only",
+        "as": "কেৱল দাগ পৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Healing runs through three overlapping phases. Infection and necrosis are complications, not the normal path.",
+      "as": "শুকোৱা ক্ৰিয়া তিনিটা ওপৰা-উপৰি পৰ্যায়েৰে চলে। সংক্ৰমণ আৰু কলা মৃত্যু জটিলতা, স্বাভাৱিক পথ নহয়।"
+    }
+  },
+  {
+    "id": "nursing-070",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "Which of the following is a sign of an approaching hypoglycaemic episode?",
+      "as": "তলৰ কোনটো নিম্ন ৰক্ত শৰ্কৰা আহি থকাৰ চিন"
+    },
+    "options": [
+      {
+        "en": "sweating, tremor and confusion",
+        "as": "ঘাম, কম্পন আৰু বিভ্ৰান্তি"
+      },
+      {
+        "en": "deep sleep",
+        "as": "গভীৰ টোপনি"
+      },
+      {
+        "en": "slow breathing with no sweating",
+        "as": "ঘাম নোহোৱাকৈ ধীৰ উশাহ"
+      },
+      {
+        "en": "increased urine with thirst",
+        "as": "পিয়াহৰ সৈতে মূত্ৰ বঢ়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Low glucose triggers adrenaline, giving sweat and tremor, and starves the brain, giving confusion. Thirst with heavy urine is the opposite, high glucose.",
+      "as": "কম গ্লুক'জে এড্ৰিনেলিন ওলাই ঘাম আৰু কম্পন দিয়ে, আৰু মগজুক অভাৱত ৰাখি বিভ্ৰান্তি আনে। পিয়াহ আৰু বেছি মূত্ৰ ওলোটা, উচ্চ গ্লুক'জ।"
+    }
+  },
+  {
+    "id": "nursing-071",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "Before a patient goes for surgery, the nurse must ensure",
+      "as": "ৰোগী অস্ত্ৰোপচাৰলৈ যোৱাৰ আগতে নাৰ্ছে নিশ্চিত কৰিব লাগে"
+    },
+    "options": [
+      {
+        "en": "the consent form is signed and the site is marked",
+        "as": "সন্মতি পত্ৰ স্বাক্ষৰিত আৰু স্থান চিহ্নিত"
+      },
+      {
+        "en": "the bed is made with new sheets",
+        "as": "বিছনা নতুন চাদৰেৰে সজোৱা"
+      },
+      {
+        "en": "the relatives have gone home",
+        "as": "সম্পৰ্কীয়ে ঘৰলৈ গৈছে"
+      },
+      {
+        "en": "the radio is switched off",
+        "as": "ৰেডিঅ' বন্ধ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Consent and site marking prevent wrong-patient and wrong-site surgery. Linen and visitors do not affect safety.",
+      "as": "সন্মতি আৰু স্থান চিহ্নিত কৰিলে ভুল ৰোগী আৰু ভুল স্থানৰ অস্ত্ৰোপচাৰ ৰোধ হয়। কাপোৰ আৰু দৰ্শনাৰ্থীয়ে সুৰক্ষাত প্ৰভাৱ নেপেলায়।"
+    }
+  },
+  {
+    "id": "nursing-072",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "A patient with a chest drain should be observed for",
+      "as": "বুকুৰ নলী থকা ৰোগীত কি পৰ্যবেক্ষণ কৰিব লাগে"
+    },
+    "options": [
+      {
+        "en": "bubbling and the amount of drainage",
+        "as": "বুৰবুৰণি আৰু নিষ্কাশনৰ পৰিমাণ"
+      },
+      {
+        "en": "the colour of the curtains",
+        "as": "পৰ্দাৰ ৰং"
+      },
+      {
+        "en": "the number of visitors",
+        "as": "দৰ্শনাৰ্থীৰ সংখ্যা"
+      },
+      {
+        "en": "the ward clock",
+        "as": "ৱাৰ্ডৰ ঘড়ী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bubbling shows an air leak and the volume shows bleeding or infection, so both guide the surgeon's next step.",
+      "as": "বুৰবুৰণিয়ে বতাহ ওলোৱা আৰু পৰিমাণে ৰক্তক্ষৰণ বা সংক্ৰমণ দেখুৱায়, সেয়ে দুয়োটাই শল্যচিকিৎসকৰ পৰৱৰ্তী খোজ নিৰ্দেশ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-073",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "Which of the following is the earliest sign of pressure sore formation?",
+      "as": "চাপৰ ঘা হোৱাৰ আটাই আগতীয়া চিন"
+    },
+    "options": [
+      {
+        "en": "non-blanching redness over a bony point",
+        "as": "হাড়ৰ ওপৰত নুমুৱা নোহোৱা ৰঙা ছাল"
+      },
+      {
+        "en": "deep ulcer with bone visible",
+        "as": "হাড় দেখা পোৱা গভীৰ ঘা"
+      },
+      {
+        "en": "black dead tissue",
+        "as": "ক'লা মৃত কলা"
+      },
+      {
+        "en": "pus discharge",
+        "as": "পুঁ‌জ ওলোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Redness that does not fade on pressure means blood flow is already impaired. Ulcer and black tissue are much later stages.",
+      "as": "চাপত নুমুৱা নোহোৱা ৰঙা মানে ৰক্তস্ৰোত ইতিমধ্যে বেয়া। ঘা আৰু ক'লা কলা বহু পিছৰ পৰ্যায়।"
+    }
+  },
+  {
+    "id": "nursing-074",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The nurse should suspect a urinary tract infection when the patient reports",
+      "as": "ৰোগীয়ে কি কোৱালে নাৰ্ছে মূত্ৰপথৰ সংক্ৰমণ সন্দেহ কৰিব"
+    },
+    "options": [
+      {
+        "en": "burning on passing urine and frequency",
+        "as": "মূত্ৰ ত্যাগত জ্বলা আৰু সঘনতা"
+      },
+      {
+        "en": "pain in the left ear",
+        "as": "বাওঁ কাণত বিষ"
+      },
+      {
+        "en": "loss of eyelashes",
+        "as": "চকুৰ পতা সৰা"
+      },
+      {
+        "en": "a dry scalp",
+        "as": "মূৰৰ ছাল শুকান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Burning and frequency are the classic lower tract signs. Ear or scalp complaints belong to other systems.",
+      "as": "জ্বলা আৰু সঘনতা তলৰ পথৰ প্ৰচলিত চিন। কাণ বা মূৰৰ ছালৰ কথা আন তন্ত্ৰৰ।"
+    }
+  },
+  {
+    "id": "nursing-075",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "A patient with chronic obstructive pulmonary disease is taught",
+      "as": "দীৰ্ঘস্থায়ী বাধাজনিত ফুসফুস ৰোগী ৰোগীক শিকোৱা হয়"
+    },
+    "options": [
+      {
+        "en": "pursed-lip breathing",
+        "as": "ওঁ‌ঠ চেপি উশাহ লোৱা"
+      },
+      {
+        "en": "rapid shallow breathing",
+        "as": "দ্ৰুত অগভীৰ উশাহ"
+      },
+      {
+        "en": "holding the breath for a minute",
+        "as": "মিনিটজুৰি উশাহ ৰখা"
+      },
+      {
+        "en": "breathing only through the mouth",
+        "as": "কেৱল মুখেৰে উশাহ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pursed-lip breathing keeps airways open during expiration and reduces trapping of air. Shallow rapid breathing worsens it.",
+      "as": "ওঁ‌ঠ চেপি উশাহ ল'লে বায়ুপথ খোলা থাকে আৰু বতাহ জমা কমে। দ্ৰুত অগভীৰ উশাহে বেয়া কৰে।"
+    }
+  },
+  {
+    "id": "nursing-076",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The nurse must check for an allergic reaction after giving",
+      "as": "নাৰ্ছে দিয়াৰ পিছত এলাৰ্জি প্ৰতিক্ৰিয়া চাব লাগে"
+    },
+    "options": [
+      {
+        "en": "a first dose of penicillin",
+        "as": "পেনিচিলিনৰ প্ৰথম মাত্ৰাৰ পিছত"
+      },
+      {
+        "en": "oral glucose",
+        "as": "মুখে গ্লুক'জ দিয়াৰ পিছত"
+      },
+      {
+        "en": "normal saline",
+        "as": "সাধাৰণ লুণীয়া পানীৰ পিছত"
+      },
+      {
+        "en": "oxygen by mask",
+        "as": "মাস্কেৰে অক্সিজেনৰ পিছত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Penicillin can cause anaphylaxis within minutes, so the first dose needs close watch. Saline and oxygen rarely provoke allergy.",
+      "as": "পেনিচিলিনে মিনিটৰ ভিতৰতে এনাফাইলেক্সিছ কৰিব পাৰে, সেয়ে প্ৰথম মাত্ৰাত সতৰ্ক দৃষ্টি লাগে। লুণীয়া পানী আৰু অক্সিজেনে বিৰলেহে এলাৰ্জি কৰে।"
+    }
+  },
+  {
+    "id": "nursing-077",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "A patient with a head injury should be observed for",
+      "as": "মূৰত আঘাত পোৱা ৰোগীত কি পৰ্যবেক্ষণ কৰিব লাগে"
+    },
+    "options": [
+      {
+        "en": "level of consciousness and pupil size",
+        "as": "চেতনাৰ স্তৰ আৰু চকুৰ মণিৰ আকাৰ"
+      },
+      {
+        "en": "hair colour",
+        "as": "চুলিৰ ৰং"
+      },
+      {
+        "en": "shoe size",
+        "as": "জোতাৰ মাপ"
+      },
+      {
+        "en": "food preference",
+        "as": "খাদ্যৰ পছন্দ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Falling consciousness and a dilating pupil show rising pressure inside the skull, which needs surgery fast.",
+      "as": "চেতনা কমা আৰু চকুৰ মণি মেলি যোৱাই কৰোটিৰ ভিতৰত চাপ বঢ়া দেখুৱায়, যি সোনকালে শল্যচিকিৎসা লাগে।"
+    }
+  },
+  {
+    "id": "nursing-078",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The main aim of pre-operative teaching is to",
+      "as": "অস্ত্ৰোপচাৰপূৰ্ব শিক্ষাৰ মূল লক্ষ্য"
+    },
+    "options": [
+      {
+        "en": "reduce anxiety and gain cooperation",
+        "as": "উদ্বেগ কমাই সহযোগিতা লাভ কৰা"
+      },
+      {
+        "en": "increase the fee",
+        "as": "মাচুল বঢ়োৱা"
+      },
+      {
+        "en": "shorten the ward round",
+        "as": "ৱাৰ্ড ৰাউণ্ড চুটি কৰা"
+      },
+      {
+        "en": "avoid consent",
+        "as": "সন্মতি এৰাই চলা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A patient who knows what to expect breathes better, coughs and moves sooner, and heals faster.",
+      "as": "কি হ'ব জনা ৰোগীয়ে ভালকৈ উশাহ লয়, সোনকালে কাহি লৰচৰ কৰে, আৰু সোনকালে সুস্থ হয়।"
+    }
+  },
+  {
+    "id": "nursing-079",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "Which of the following indicates a possible transfusion reaction?",
+      "as": "তলৰ কোনটোৱে সম্ভাৱ্য ৰক্ত সঞ্চাৰণ প্ৰতিক্ৰিয়া দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "chills, fever and back pain soon after starting",
+        "as": "আৰম্ভৰ লগে লগে জাৰ, জ্বৰ আৰু পিঠিৰ বিষ"
+      },
+      {
+        "en": "improved appetite",
+        "as": "ভোক বঢ়া"
+      },
+      {
+        "en": "slow steady pulse",
+        "as": "ধীৰ স্থিৰ নাড়ী"
+      },
+      {
+        "en": "deep sleep",
+        "as": "গভীৰ টোপনি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fever, chills and loin pain point to incompatible blood being destroyed, so the transfusion is stopped at once.",
+      "as": "জ্বৰ, জাৰ আৰু কঁকালৰ বিষে অসঙ্গত ৰক্ত নষ্ট হোৱা দেখুৱায়, সেয়ে সঞ্চাৰণ লগে লগে বন্ধ কৰা হয়।"
+    }
+  },
+  {
+    "id": "nursing-080",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "A patient who has had a stroke with swallowing difficulty should be",
+      "as": "ষ্ট্ৰ'ক হোৱা আৰু গিলিব নোৱৰা ৰোগীক"
+    },
+    "options": [
+      {
+        "en": "assessed before any oral feed is given",
+        "as": "মুখে খাদ্য দিয়াৰ আগতে মূল্যাংকন কৰিব লাগে"
+      },
+      {
+        "en": "given water immediately",
+        "as": "লগে লগে পানী দিব লাগে"
+      },
+      {
+        "en": "fed lying flat",
+        "as": "সমতল শুৱাই খুৱাব লাগে"
+      },
+      {
+        "en": "given solid food at once",
+        "as": "লগে লগে গোটা খাদ্য দিব লাগে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An unassessed swallow can send food into the airway and cause aspiration pneumonia. Assessment comes before any feed.",
+      "as": "নজুখাকৈ গিলিলে খাদ্য শ্বাসনলীত সোমাই নিউম'নিয়া কৰে। খুৱাৰ আগতে মূল্যাংকন লাগে।"
+    }
+  },
+  {
+    "id": "nursing-081",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The nurse explains that a patient with hypertension should",
+      "as": "নাৰ্ছে বুজায় যে উচ্চ ৰক্তচাপ থকা ৰোগীয়ে"
+    },
+    "options": [
+      {
+        "en": "reduce salt and take medicine regularly",
+        "as": "লৱণ কমাই ঔষধ নিয়মীয়াকৈ ল'ব"
+      },
+      {
+        "en": "stop medicine when feeling well",
+        "as": "ভাল লাগিলে ঔষধ বন্ধ কৰিব"
+      },
+      {
+        "en": "add extra salt to food",
+        "as": "খাদ্যত বেছি লৱণ দিব"
+      },
+      {
+        "en": "avoid all exercise",
+        "as": "সকলো ব্যায়াম এৰিব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hypertension has no symptoms until damage occurs, so medicine must continue and salt must fall. Stopping on feeling well invites a stroke.",
+      "as": "ক্ষতি নোহোৱালৈকে উচ্চ ৰক্তচাপত লক্ষণ নাথাকে, সেয়ে ঔষধ চলিব আৰু লৱণ কমিব। ভাল লাগিলে বন্ধ কৰিলে ষ্ট্ৰ'ক মাতে।"
+    }
+  },
+  {
+    "id": "nursing-082",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "Which of the following is the correct order for donning personal protective equipment?",
+      "as": "ব্যক্তিগত সুৰক্ষা সজুলি পিন্ধাৰ শুদ্ধ ক্ৰম কোনটো"
+    },
+    "options": [
+      {
+        "en": "gown, mask, goggles, gloves",
+        "as": "গাউন, মাস্ক, চশমা, দস্তানা"
+      },
+      {
+        "en": "gloves, gown, mask, goggles",
+        "as": "দস্তানা, গাউন, মাস্ক, চশমা"
+      },
+      {
+        "en": "mask, gloves, gown, goggles",
+        "as": "মাস্ক, দস্তানা, গাউন, চশমা"
+      },
+      {
+        "en": "goggles, gloves, mask, gown",
+        "as": "চশমা, দস্তানা, মাস্ক, গাউন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Gloves go on last so that they stay clean while the rest is handled, and come off first for the same reason.",
+      "as": "দস্তানা শেষত পিন্ধা হয় যাতে বাকী পিন্ধোঁতে পৰিষ্কাৰ থাকে, আৰু সেই কাৰণেই প্ৰথমে খুলি লোৱা হয়।"
+    }
+  },
+  {
+    "id": "nursing-083",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "A patient with a plaster cast should be checked for",
+      "as": "প্লাষ্টাৰ কাষ্ট থকা ৰোগীত কি পৰীক্ষা কৰিব লাগে"
+    },
+    "options": [
+      {
+        "en": "circulation, sensation and movement of the limb",
+        "as": "অংগৰ সংবহন, অনুভূতি আৰু লৰচৰ"
+      },
+      {
+        "en": "the cast colour only",
+        "as": "কেৱল কাষ্টৰ ৰং"
+      },
+      {
+        "en": "the patient's shoes",
+        "as": "ৰোগীৰ জোতা"
+      },
+      {
+        "en": "the bed number",
+        "as": "বিছনাৰ নম্বৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A tight cast cuts blood flow and nerve function, so the fingers or toes are checked for colour, warmth and feeling.",
+      "as": "টান কাষ্টে ৰক্তস্ৰোত আৰু স্নায়ু কাৰ্য বন্ধ কৰে, সেয়ে আঙুলিৰ ৰং, উম আৰু অনুভূতি চোৱা হয়।"
+    }
+  },
+  {
+    "id": "nursing-084",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The nurse should report which finding immediately after thyroid surgery?",
+      "as": "থাইৰয়ড অস্ত্ৰোপচাৰৰ পিছত নাৰ্ছে কোনটো লগে লগে জনাব লাগে"
+    },
+    "options": [
+      {
+        "en": "difficulty in breathing with neck swelling",
+        "as": "ডিঙি ওফন্দি উঠি উশাহ লোৱাত কষ্ট"
+      },
+      {
+        "en": "mild wound pain",
+        "as": "ঘাৰ সাধাৰণ বিষ"
+      },
+      {
+        "en": "a dry mouth",
+        "as": "মুখ শুকান"
+      },
+      {
+        "en": "a slight headache",
+        "as": "সাধাৰণ মূৰৰ বিষ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Swelling can compress the airway within hours, so stridor or breathlessness is a surgical emergency.",
+      "as": "ওফন্দি উঠা ঘণ্টাৰ ভিতৰতে বায়ুপথ চেপি ধৰিব পাৰে, সেয়ে হুইছ বা উশাহৰ কষ্ট শল্য জৰুৰী অৱস্থা।"
+    }
+  },
+  {
+    "id": "nursing-085",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "Which of the following is the main purpose of a urinary drainage bag being kept below bladder level?",
+      "as": "মূত্ৰৰ মোনা মূত্ৰাশয়ৰ তলত ৰখাৰ মূল উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "to prevent backflow of urine into the bladder",
+        "as": "মূত্ৰাশয়লৈ মূত্ৰ ঘূৰি যোৱা ৰোধ কৰা"
+      },
+      {
+        "en": "to make the bag lighter",
+        "as": "মোনা পাতল কৰা"
+      },
+      {
+        "en": "to save space",
+        "as": "ঠাই ৰখা"
+      },
+      {
+        "en": "to hide it from visitors",
+        "as": "দৰ্শনাৰ্থীৰপৰা লুকুৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Urine flowing back carries bacteria upward and causes infection. Gravity drainage keeps the flow one way.",
+      "as": "মূত্ৰ ঘূৰি গলে বেক্টেৰিয়া ওপৰলৈ গৈ সংক্ৰমণ কৰে। মহাকৰ্ষণৰ নিষ্কাশনে প্ৰবাহ একমুখী ৰাখে।"
+    }
+  },
+  {
+    "id": "nursing-086",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "A patient with severe vomiting is at risk of",
+      "as": "তীব্ৰ বমি হোৱা ৰোগীৰ কি হোৱাৰ বিপদ"
+    },
+    "options": [
+      {
+        "en": "metabolic alkalosis and hypokalaemia",
+        "as": "বিপাকীয় ক্ষাৰকীয়তা আৰু কম পটাছিয়াম"
+      },
+      {
+        "en": "metabolic acidosis only",
+        "as": "কেৱল বিপাকীয় অম্লীয়তা"
+      },
+      {
+        "en": "hypercalcaemia",
+        "as": "বেছি কেলছিয়াম"
+      },
+      {
+        "en": "polycythaemia",
+        "as": "বেছি ৰক্তকণিকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Gastric acid and potassium are lost with vomit, so the blood turns alkaline and potassium falls. Acidosis follows diarrhoea instead.",
+      "as": "বমিৰ সৈতে পেটৰ অম্ল আৰু পটাছিয়াম যায়, সেয়ে ৰক্ত ক্ষাৰকীয় হয় আৰু পটাছিয়াম কমে। ডায়েৰিয়াত অম্লীয়তা হয়।"
+    }
+  },
+  {
+    "id": "nursing-087",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The nurse teaches a patient with a new colostomy to",
+      "as": "নতুন কল'ষ্টমী থকা ৰোগীক নাৰ্ছে শিকায়"
+    },
+    "options": [
+      {
+        "en": "clean the stoma and inspect the skin around it",
+        "as": "ষ্ট'মা পৰিষ্কাৰ কৰি চাৰিওফালৰ ছাল চাবলৈ"
+      },
+      {
+        "en": "keep the bag empty of air only",
+        "as": "মোনাৰপৰা কেবল বতাহ উলিয়াবলৈ"
+      },
+      {
+        "en": "avoid all fluids",
+        "as": "সকলো তৰল এৰিবলৈ"
+      },
+      {
+        "en": "stop eating fibre for life",
+        "as": "জীৱনজুৰি আঁহ এৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Stoma care and skin inspection prevent excoriation, which is the commonest reason a bag will not stick.",
+      "as": "ষ্ট'মা যতন আৰু ছাল পৰীক্ষাই ঘাঁ‌ কৰা ৰোধ কৰে, যি মোনা নলগা হোৱাৰ আটাই সাধাৰণ কাৰণ।"
+    }
+  },
+  {
+    "id": "nursing-088",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "Which finding suggests that a wound is infected?",
+      "as": "কোনটোৱে ঘা সংক্ৰমিত বুলি দেখুৱায়"
+    },
+    "options": [
+      {
+        "en": "increasing pain, redness and purulent discharge",
+        "as": "বাঢ়ি থকা বিষ, ৰঙা আৰু পুঁ‌জ ওলোৱা"
+      },
+      {
+        "en": "a dry clean scar",
+        "as": "শুকান পৰিষ্কাৰ দাগ"
+      },
+      {
+        "en": "mild itching on day ten",
+        "as": "দশম দিনত সাধাৰণ খু‌জুৰি"
+      },
+      {
+        "en": "a healed edge",
+        "as": "শুকুৱা কাষ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pain that worsens after the first days, spreading redness and pus are the standard signs of infection.",
+      "as": "প্ৰথম দিনবোৰৰ পিছত বিষ বঢ়া, বিয়পি যোৱা ৰঙা আৰু পুঁ‌জ সংক্ৰমণৰ প্ৰচলিত চিন।"
+    }
+  },
+  {
+    "id": "nursing-089",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "A patient who has undergone cataract surgery should be advised to",
+      "as": "চকুৰ ছানি অস্ত্ৰোপচাৰ হোৱা ৰোগীক পৰামৰ্শ দিব লাগে"
+    },
+    "options": [
+      {
+        "en": "avoid rubbing the eye and lifting heavy weights",
+        "as": "চকু ঘঁ‌হা আৰু গধুৰ দাঙা এৰিবলৈ"
+      },
+      {
+        "en": "rub the eye gently",
+        "as": "চকু লাহে লাহে ঘঁ‌হিবলৈ"
+      },
+      {
+        "en": "lift heavy loads daily",
+        "as": "প্ৰতিদিনে গধুৰ দাঙিবলৈ"
+      },
+      {
+        "en": "sleep face down always",
+        "as": "সদায় মুখ তলত দি শুবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pressure and strain can displace the new lens or open the wound, so the eye is protected for a few weeks.",
+      "as": "চাপ আৰু ভাৰে নতুন লেন্ছ সৰকাব বা ঘা মেলিব পাৰে, সেয়ে কেইসপ্তাহ চকু সুৰক্ষিত ৰখা হয়।"
+    }
+  },
+  {
+    "id": "nursing-090",
+    "leaf": "medical-surgical-nursing",
+    "q": {
+      "en": "The most reliable sign of internal bleeding after surgery is",
+      "as": "অস্ত্ৰোপচাৰৰ পিছত আভ্যন্তৰীণ ৰক্তক্ষৰণৰ আটাই নিৰ্ভৰযোগ্য চিন"
+    },
+    "options": [
+      {
+        "en": "falling blood pressure with a rising pulse",
+        "as": "ৰক্তচাপ কমি নাড়ীৰ গতি বঢ়া"
+      },
+      {
+        "en": "mild wound pain",
+        "as": "ঘাৰ সাধাৰণ বিষ"
+      },
+      {
+        "en": "a dry mouth",
+        "as": "মুখ শুকান"
+      },
+      {
+        "en": "a good appetite",
+        "as": "ভাল ভোক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hidden loss shows as shock: the pulse climbs and the pressure drops. Pain and thirst are far less specific.",
+      "as": "লুকুৱা ক্ষয় শ্বক হিচাপে ওলায়: নাড়ী বাঢ়ে আৰু চাপ কমে। বিষ আৰু পিয়াহ বহু কম নিৰ্দিষ্ট।"
+    }
+  }
+]

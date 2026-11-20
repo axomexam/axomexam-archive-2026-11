@@ -1,0 +1,932 @@
+[
+  {
+    "id": "nursing-301",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The prefix tachy- in medical terminology means",
+      "as": "চিকিৎসা পৰিভাষাত tachy- উপসৰ্গই বুজায়"
+    },
+    "options": [
+      {
+        "en": "fast",
+        "as": "দ্ৰুত"
+      },
+      {
+        "en": "slow",
+        "as": "ধীৰ"
+      },
+      {
+        "en": "large",
+        "as": "ডাঙৰ"
+      },
+      {
+        "en": "small",
+        "as": "সৰু"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tachycardia is a fast heart and tachypnoea is fast breathing. The opposite prefix brady- means slow.",
+      "as": "টেকিকাৰ্ডিয়া দ্ৰুত হৃদয় আৰু টেকিপ্নিয়া দ্ৰুত উশাহ। ওলোটা উপসৰ্গ ব্ৰেডি- মানে ধীৰ।"
+    }
+  },
+  {
+    "id": "nursing-302",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The suffix -itis in a medical term indicates",
+      "as": "চিকিৎসা শব্দত -itis প্ৰত্যয়ই কি সূচায়"
+    },
+    "options": [
+      {
+        "en": "inflammation",
+        "as": "প্ৰদাহ"
+      },
+      {
+        "en": "tumour",
+        "as": "অৰ্বুদ"
+      },
+      {
+        "en": "bleeding",
+        "as": "ৰক্তক্ষৰণ"
+      },
+      {
+        "en": "deficiency",
+        "as": "অভাব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Gastritis is inflammation of the stomach and arthritis of a joint. Tumour takes the suffix -oma.",
+      "as": "গেষ্ট্ৰাইটিছ পেটৰ প্ৰদাহ আৰু আৰ্থ্ৰাইটিছ গাঁ‌ঠিৰ। অৰ্বুদৰ প্ৰত্যয় -oma।"
+    }
+  },
+  {
+    "id": "nursing-303",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term dyspnoea means",
+      "as": "ডিছপ্নিয়া শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "difficult breathing",
+        "as": "উশাহ লোৱাত কষ্ট"
+      },
+      {
+        "en": "absent breathing",
+        "as": "উশাহ নথকা"
+      },
+      {
+        "en": "rapid breathing",
+        "as": "দ্ৰুত উশাহ"
+      },
+      {
+        "en": "deep breathing",
+        "as": "গভীৰ উশাহ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dys- means difficult and -pnoea means breathing. Absent breathing is apnoea.",
+      "as": "Dys- মানে কষ্ট আৰু -pnoea মানে উশাহ। উশাহ নথকা অৱস্থা এপ্নিয়া।"
+    }
+  },
+  {
+    "id": "nursing-304",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The medical term for low blood sugar is",
+      "as": "কম ৰক্ত শৰ্কৰাৰ চিকিৎসা পৰিভাষা"
+    },
+    "options": [
+      {
+        "en": "hypoglycaemia",
+        "as": "হাইপ'গ্লাইচিমিয়া"
+      },
+      {
+        "en": "hyperglycaemia",
+        "as": "হাইপাৰগ্লাইচিমিয়া"
+      },
+      {
+        "en": "hypokalaemia",
+        "as": "হাইপ'কেলিমিয়া"
+      },
+      {
+        "en": "hypercalcaemia",
+        "as": "হাইপাৰকেলছিমিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hypo- means below normal and glycaemia refers to glucose in blood. Hyper- is the opposite, high sugar.",
+      "as": "Hypo- মানে স্বাভাৱিকৰ তলত আৰু glycaemia ৰক্তৰ গ্লুক'জলৈ। Hyper- ওলোটা, বেছি চেনি।"
+    }
+  },
+  {
+    "id": "nursing-305",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term haematuria means",
+      "as": "হিমেটিউৰিয়া শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "blood in the urine",
+        "as": "মূত্ৰত ৰক্ত"
+      },
+      {
+        "en": "pus in the urine",
+        "as": "মূত্ৰত পুঁ‌জ"
+      },
+      {
+        "en": "sugar in the urine",
+        "as": "মূত্ৰত চেনি"
+      },
+      {
+        "en": "protein in the urine",
+        "as": "মূত্ৰত প্ৰ'টিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Haem- means blood and -uria refers to urine. Pus is pyuria and protein is proteinuria.",
+      "as": "Haem- মানে ৰক্ত আৰু -uria মূত্ৰলৈ। পুঁ‌জ পাইউৰিয়া আৰু প্ৰ'টিন প্ৰ'টিনইউৰিয়া।"
+    }
+  },
+  {
+    "id": "nursing-306",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The prefix brady- indicates",
+      "as": "brady- উপসৰ্গই সূচায়"
+    },
+    "options": [
+      {
+        "en": "slow",
+        "as": "ধীৰ"
+      },
+      {
+        "en": "fast",
+        "as": "দ্ৰুত"
+      },
+      {
+        "en": "before",
+        "as": "আগত"
+      },
+      {
+        "en": "after",
+        "as": "পিছত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bradycardia is a slow pulse below sixty. Tachy- is the fast counterpart.",
+      "as": "ব্ৰেডিকাৰ্ডিয়া ষাঠিৰ তলৰ ধীৰ নাড়ী। Tachy- দ্ৰুতৰ সমতুল্য।"
+    }
+  },
+  {
+    "id": "nursing-307",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term oedema refers to",
+      "as": "ইডিমা শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "swelling due to fluid accumulation",
+        "as": "তৰল জমাৰ ফলত ওফন্দা"
+      },
+      {
+        "en": "loss of sensation",
+        "as": "অনুভূতি হেৰুওৱা"
+      },
+      {
+        "en": "difficulty in speech",
+        "as": "কথা কোৱাত কষ্ট"
+      },
+      {
+        "en": "increased appetite",
+        "as": "ভোক বঢ়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fluid collects in tissue spaces and shows as pitting or puffiness, common in heart and kidney disease.",
+      "as": "কলাৰ ফাঁ‌কে তৰল জমি গাঁ‌ত খোৱা বা ওফন্দা দেখা যায়, হৃদয় আৰু বৃক্ক ৰোগত সাধাৰণ।"
+    }
+  },
+  {
+    "id": "nursing-308",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The suffix -ectomy means",
+      "as": "-ectomy প্ৰত্যয়ই বুজায়"
+    },
+    "options": [
+      {
+        "en": "surgical removal",
+        "as": "শল্য অপসাৰণ"
+      },
+      {
+        "en": "surgical opening",
+        "as": "শল্য ছিদ্ৰ"
+      },
+      {
+        "en": "inflammation",
+        "as": "প্ৰদাহ"
+      },
+      {
+        "en": "repair",
+        "as": "মেৰামতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Appendectomy is removal of the appendix, while -otomy is an opening and -plasty is repair.",
+      "as": "এপেণ্ডেক্টমি এপেণ্ডিক্স অপসাৰণ, আনহাতে -otomy ছিদ্ৰ আৰু -plasty মেৰামতি।"
+    }
+  },
+  {
+    "id": "nursing-309",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term hypertension means",
+      "as": "হাইপাৰটেনছন শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "raised blood pressure",
+        "as": "বঢ়া ৰক্তচাপ"
+      },
+      {
+        "en": "lowered blood pressure",
+        "as": "কমা ৰক্তচাপ"
+      },
+      {
+        "en": "raised temperature",
+        "as": "বঢ়া উষ্ণতা"
+      },
+      {
+        "en": "lowered pulse",
+        "as": "কমা নাড়ী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tension here refers to pressure, so hypertension is a pressure above normal. Low pressure is hypotension.",
+      "as": "ইয়াত tension মানে চাপ, সেয়ে হাইপাৰটেনছন স্বাভাৱিকৰ ওপৰৰ চাপ। কম চাপ হাইপ'টেনছন।"
+    }
+  },
+  {
+    "id": "nursing-310",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The medical term for a rapid heart rate is",
+      "as": "দ্ৰুত হৃদয়ৰ গতিৰ চিকিৎসা পৰিভাষা"
+    },
+    "options": [
+      {
+        "en": "tachycardia",
+        "as": "টেকিকাৰ্ডিয়া"
+      },
+      {
+        "en": "bradycardia",
+        "as": "ব্ৰেডিকাৰ্ডিয়া"
+      },
+      {
+        "en": "arrhythmia",
+        "as": "এৰিথমিয়া"
+      },
+      {
+        "en": "asystole",
+        "as": "এছিষ্ট'ল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Tachycardia means a rate above a hundred. Asystole means no electrical activity at all.",
+      "as": "টেকিকাৰ্ডিয়া মানে এশৰ ওপৰৰ হাৰ। এছিষ্ট'ল মানে একেবাৰে বৈদ্যুতিক ক্ৰিয়া নাই।"
+    }
+  },
+  {
+    "id": "nursing-311",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The prefix hyper- in medical terms means",
+      "as": "চিকিৎসা শব্দত hyper- উপসৰ্গই বুজায়"
+    },
+    "options": [
+      {
+        "en": "above or excessive",
+        "as": "ওপৰ বা অতিৰিক্ত"
+      },
+      {
+        "en": "below or deficient",
+        "as": "তল বা অভাৱ"
+      },
+      {
+        "en": "beside",
+        "as": "কাষত"
+      },
+      {
+        "en": "within",
+        "as": "ভিতৰত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hyperthyroidism is an overactive thyroid and hyperventilation is over-breathing. Hypo- is the opposite.",
+      "as": "হাইপাৰথাইৰয়ডিজম অতি সক্ৰিয় থাইৰয়ড আৰু হাইপাৰভেণ্টিলেশ্যন অতি উশাহ। Hypo- ওলোটা।"
+    }
+  },
+  {
+    "id": "nursing-312",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term anaemia literally means",
+      "as": "এনিমিয়া শব্দৰ আক্ষৰিক অৰ্থ"
+    },
+    "options": [
+      {
+        "en": "lack of blood",
+        "as": "ৰক্তৰ অভাৱ"
+      },
+      {
+        "en": "excess of blood",
+        "as": "ৰক্তৰ আধিক্য"
+      },
+      {
+        "en": "clotting of blood",
+        "as": "ৰক্ত জমা"
+      },
+      {
+        "en": "infection of blood",
+        "as": "ৰক্তৰ সংক্ৰমণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The prefix an- means without and -aemia refers to blood, so the term points to a shortage of red cells or haemoglobin.",
+      "as": "an- মানে নোহোৱা আৰু -aemia ৰক্তলৈ, সেয়ে শব্দই লোহিত কণিকা বা হিম'গ্লবিনৰ অভাৱ বুজায়।"
+    }
+  },
+  {
+    "id": "nursing-313",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term gastralgia means",
+      "as": "গেষ্ট্ৰালজিয়া শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "pain in the stomach",
+        "as": "পেটত বিষ"
+      },
+      {
+        "en": "inflammation of the stomach",
+        "as": "পেটৰ প্ৰদাহ"
+      },
+      {
+        "en": "bleeding from the stomach",
+        "as": "পেটৰপৰা ৰক্তক্ষৰণ"
+      },
+      {
+        "en": "ulcer of the stomach",
+        "as": "পেটৰ ঘা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "-algia means pain, so gastralgia is stomach pain. Inflammation would be gastritis.",
+      "as": "-algia মানে বিষ, সেয়ে গেষ্ট্ৰালজিয়া পেটৰ বিষ। প্ৰদাহ হ'লে গেষ্ট্ৰাইটিছ।"
+    }
+  },
+  {
+    "id": "nursing-314",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The combining form nephro- refers to the",
+      "as": "nephro- সংযোগী ৰূপই কিৰ লগত সম্পৰ্কিত"
+    },
+    "options": [
+      {
+        "en": "kidney",
+        "as": "বৃক্ক"
+      },
+      {
+        "en": "liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "heart",
+        "as": "হৃদয়"
+      },
+      {
+        "en": "lung",
+        "as": "ফুসফুস"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Nephritis is kidney inflammation and nephrectomy is kidney removal. Hepato- refers to the liver.",
+      "as": "নেফ্ৰাইটিছ বৃক্কৰ প্ৰদাহ আৰু নেফ্ৰেক্টমি বৃক্ক অপসাৰণ। Hepato- যকৃতলৈ।"
+    }
+  },
+  {
+    "id": "nursing-315",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term cyanosis describes",
+      "as": "ছায়ান'ছিছ শব্দই বৰ্ণনা কৰে"
+    },
+    "options": [
+      {
+        "en": "bluish discolouration due to lack of oxygen",
+        "as": "অক্সিজেনৰ অভাৱত নীলা ৰঙ ধৰা"
+      },
+      {
+        "en": "yellow discolouration of skin",
+        "as": "ছালৰ হালধীয়া ৰং"
+      },
+      {
+        "en": "redness of the skin",
+        "as": "ছালৰ ৰঙা ৰং"
+      },
+      {
+        "en": "paleness of the skin",
+        "as": "ছালৰ শেঁ‌তাভাৱ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Poorly oxygenated blood gives a blue tinge to lips and nail beds. Yellow skin is jaundice.",
+      "as": "কম অক্সিজেনযুক্ত ৰক্তই ওঁ‌ঠ আৰু নখত নীলা আভা দিয়ে। হালধীয়া ছাল জণ্ডিছ।"
+    }
+  },
+  {
+    "id": "nursing-316",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The suffix -otomy means",
+      "as": "-otomy প্ৰত্যয়ই বুজায়"
+    },
+    "options": [
+      {
+        "en": "surgical incision",
+        "as": "শল্য কটা"
+      },
+      {
+        "en": "surgical removal",
+        "as": "শল্য অপসাৰণ"
+      },
+      {
+        "en": "inflammation",
+        "as": "প্ৰদাহ"
+      },
+      {
+        "en": "enlargement",
+        "as": "বৃদ্ধি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A laparotomy is an abdominal incision, whereas -ectomy removes the organ entirely.",
+      "as": "লেপাৰ'টমি পেটৰ কটা, আনহাতে -ectomy অংগ সম্পূৰ্ণ অপসাৰণ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-317",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term antipyretic refers to a drug that",
+      "as": "এণ্টিপাইৰেটিক শব্দই এনে ঔষধলৈ বুজায় যি"
+    },
+    "options": [
+      {
+        "en": "reduces fever",
+        "as": "জ্বৰ কমায়"
+      },
+      {
+        "en": "increases fever",
+        "as": "জ্বৰ বঢ়ায়"
+      },
+      {
+        "en": "relieves pain only",
+        "as": "কেৱল বিষ কমায়"
+      },
+      {
+        "en": "kills bacteria",
+        "as": "বেক্টেৰিয়া মাৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Anti- means against and pyretic relates to fever. Paracetamol is the common example.",
+      "as": "Anti- মানে বিৰুদ্ধে আৰু pyretic জ্বৰলৈ। পেৰাছিটামল সাধাৰণ উদাহৰণ।"
+    }
+  },
+  {
+    "id": "nursing-318",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term idiopathic means",
+      "as": "ইডিঅ'পেথিক শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "of unknown cause",
+        "as": "অজ্ঞাত কাৰণৰ"
+      },
+      {
+        "en": "caused by infection",
+        "as": "সংক্ৰমণৰপৰা হোৱা"
+      },
+      {
+        "en": "inherited",
+        "as": "বংশগত"
+      },
+      {
+        "en": "caused by a drug",
+        "as": "ঔষধৰপৰা হোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The disease exists but no cause has been identified, so treatment is directed at the symptoms.",
+      "as": "ৰোগ আছে কিন্তু কাৰণ চিনাক্ত হোৱা নাই, সেয়ে চিকিৎসা লক্ষণৰ ওপৰত কেন্দ্ৰিত।"
+    }
+  },
+  {
+    "id": "nursing-319",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term prognosis refers to",
+      "as": "প্ৰগন'ছিছ শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "the likely outcome of a disease",
+        "as": "ৰোগৰ সম্ভাব্য পৰিণাম"
+      },
+      {
+        "en": "the cause of a disease",
+        "as": "ৰোগৰ কাৰণ"
+      },
+      {
+        "en": "the name of a disease",
+        "as": "ৰোগৰ নাম"
+      },
+      {
+        "en": "the test for a disease",
+        "as": "ৰোগৰ পৰীক্ষা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Prognosis is the forecast, while diagnosis names the condition and aetiology explains its cause.",
+      "as": "প্ৰগন'ছিছ ভৱিষ্যদ্বাণী, আনহাতে ডায়েগন'ছিছে অৱস্থাৰ নাম দিয়ে আৰু এটিঅ'লজিয়ে কাৰণ ব্যাখ্যা কৰে।"
+    }
+  },
+  {
+    "id": "nursing-320",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The combining form cardio- refers to the",
+      "as": "cardio- সংযোগী ৰূপই কিৰ লগত সম্পৰ্কিত"
+    },
+    "options": [
+      {
+        "en": "heart",
+        "as": "হৃদয়"
+      },
+      {
+        "en": "lung",
+        "as": "ফুসফুস"
+      },
+      {
+        "en": "brain",
+        "as": "মগজু"
+      },
+      {
+        "en": "stomach",
+        "as": "পেট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cardiology is the study of the heart and cardiac arrest is cessation of heart action. Pulmo- refers to the lung.",
+      "as": "কাৰ্ডিঅ'লজি হৃদয়ৰ অধ্যয়ন আৰু কাৰ্ডিয়াক এৰেষ্ট হৃদয়ৰ ক্ৰিয়া বন্ধ। Pulmo- ফুসফুসলৈ।"
+    }
+  },
+  {
+    "id": "nursing-321",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term arthralgia means",
+      "as": "আৰ্থ্ৰালজিয়া শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "pain in a joint",
+        "as": "গাঁ‌ঠিত বিষ"
+      },
+      {
+        "en": "inflammation of a joint",
+        "as": "গাঁ‌ঠিৰ প্ৰদাহ"
+      },
+      {
+        "en": "stiffness of a joint",
+        "as": "গাঁ‌ঠিৰ জঠৰতা"
+      },
+      {
+        "en": "dislocation of a joint",
+        "as": "গাঁ‌ঠি উলাই যোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "-algia is pain, so arthralgia is joint pain without implying inflammation. Arthritis is the inflammatory term.",
+      "as": "-algia বিষ, সেয়ে আৰ্থ্ৰালজিয়া গাঁ‌ঠিৰ বিষ, প্ৰদাহ নুবুজায়। আৰ্থ্ৰাইটিছ প্ৰদাহৰ শব্দ।"
+    }
+  },
+  {
+    "id": "nursing-322",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The prefix post- in postoperative means",
+      "as": "postoperative ত post- উপসৰ্গই বুজায়"
+    },
+    "options": [
+      {
+        "en": "after",
+        "as": "পিছত"
+      },
+      {
+        "en": "before",
+        "as": "আগত"
+      },
+      {
+        "en": "during",
+        "as": "সময়ত"
+      },
+      {
+        "en": "without",
+        "as": "নোহোৱাকৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Postoperative care follows surgery, while preoperative care comes before it.",
+      "as": "পষ্টঅপাৰেটিভ যতন অস্ত্ৰোপচাৰৰ পিছত, আনহাতে প্ৰিঅ'পাৰেটিভ আগত।"
+    }
+  },
+  {
+    "id": "nursing-323",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term polyuria means",
+      "as": "পলিইউৰিয়া শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "excessive urine output",
+        "as": "অত্যধিক মূত্ৰ ওলোৱা"
+      },
+      {
+        "en": "absent urine output",
+        "as": "মূত্ৰ একেবাৰে নোলোৱা"
+      },
+      {
+        "en": "painful urination",
+        "as": "মূত্ৰ ত্যাগত বিষ"
+      },
+      {
+        "en": "blood in urine",
+        "as": "মূত্ৰত ৰক্ত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Poly- means much and -uria means urine, so it describes a large volume, as in diabetes. Absent urine is anuria.",
+      "as": "Poly- মানে বেছি আৰু -uria মূত্ৰ, সেয়ে বেছি পৰিমাণ বুজায়, যেনে মধুমেহত। মূত্ৰ নোলোৱা এনিউৰিয়া।"
+    }
+  },
+  {
+    "id": "nursing-324",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term carcinoma refers to",
+      "as": "কাৰ্ছিন'মা শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "a malignant tumour of epithelial tissue",
+        "as": "উপকলা কলাৰ মাৰাত্মক অৰ্বুদ"
+      },
+      {
+        "en": "a benign growth",
+        "as": "নিৰীহ বৃদ্ধি"
+      },
+      {
+        "en": "an infection",
+        "as": "সংক্ৰমণ"
+      },
+      {
+        "en": "a fracture",
+        "as": "ফ্ৰেকচাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Carcinoma arises from skin or lining cells and spreads, while a benign growth stays local.",
+      "as": "কাৰ্ছিন'মা ছাল বা আৱৰণৰ কোষৰপৰা হয় আৰু বিয়পে, আনহাতে নিৰীহ বৃদ্ধি স্থানীয় থাকে।"
+    }
+  },
+  {
+    "id": "nursing-325",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term metastasis means",
+      "as": "মেটাছ্টেছিছ শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "spread of cancer to another site",
+        "as": "কৰ্কট আন ঠাইলৈ বিয়পা"
+      },
+      {
+        "en": "shrinkage of a tumour",
+        "as": "অৰ্বুদ সৰু হোৱা"
+      },
+      {
+        "en": "removal of a tumour",
+        "as": "অৰ্বুদ অপসাৰণ"
+      },
+      {
+        "en": "biopsy of a tumour",
+        "as": "অৰ্বুদৰ বায়'প্সি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cancer cells travel through blood or lymph and grow elsewhere, which is why staging matters.",
+      "as": "কৰ্কট কোষ ৰক্ত বা লসিকাৰে গৈ আন ঠাইত বাঢ়ে, সেয়ে স্তৰ নিৰ্ণয় গুৰুত্বপূৰ্ণ।"
+    }
+  },
+  {
+    "id": "nursing-326",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The combining form dermato- refers to the",
+      "as": "dermato- সংযোগী ৰূপই কিৰ লগত সম্পৰ্কিত"
+    },
+    "options": [
+      {
+        "en": "skin",
+        "as": "ছাল"
+      },
+      {
+        "en": "bone",
+        "as": "হাড়"
+      },
+      {
+        "en": "nerve",
+        "as": "স্নায়ু"
+      },
+      {
+        "en": "muscle",
+        "as": "পেশী"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dermatology is the study of skin and dermatitis is skin inflammation. Osteo- refers to bone.",
+      "as": "ডাৰ্মাট'লজি ছালৰ অধ্যয়ন আৰু ডাৰ্মাটাইটিছ ছালৰ প্ৰদাহ। Osteo- হাড়লৈ।"
+    }
+  },
+  {
+    "id": "nursing-327",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term dysphagia means",
+      "as": "ডিছফেজিয়া শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "difficulty in swallowing",
+        "as": "গিলিবলৈ কষ্ট"
+      },
+      {
+        "en": "difficulty in speaking",
+        "as": "ক'বলৈ কষ্ট"
+      },
+      {
+        "en": "difficulty in seeing",
+        "as": "চাবলৈ কষ্ট"
+      },
+      {
+        "en": "difficulty in walking",
+        "as": "খোজ কঢ়াত কষ্ট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dys- is difficult and -phagia is swallowing, a danger sign after a stroke. Difficulty in speaking is dysphasia.",
+      "as": "Dys- কষ্ট আৰু -phagia গিলা, যি ষ্ট্ৰ'কৰ পিছত বিপদ চিন। কথা ক'বলৈ কষ্ট ডিছফেজিয়া।"
+    }
+  },
+  {
+    "id": "nursing-328",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term atrophy means",
+      "as": "এট্ৰ'ফি শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "wasting of tissue",
+        "as": "কলাৰ ক্ষয়"
+      },
+      {
+        "en": "overgrowth of tissue",
+        "as": "কলাৰ অতিবৃদ্ধি"
+      },
+      {
+        "en": "inflammation of tissue",
+        "as": "কলাৰ প্ৰদাহ"
+      },
+      {
+        "en": "death of tissue",
+        "as": "কলাৰ মৃত্যু"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Disuse or nerve loss shrinks muscle bulk. Tissue death is necrosis and overgrowth is hypertrophy.",
+      "as": "অব্যৱহাৰ বা স্নায়ু নষ্ট হ'লে পেশীৰ আয়তন কমে। কলাৰ মৃত্যু নেক্ৰ'ছিছ আৰু অতিবৃদ্ধি হাইপাৰট্ৰফি।"
+    }
+  },
+  {
+    "id": "nursing-329",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term benign means",
+      "as": "বেনাইন শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "not cancerous",
+        "as": "কৰ্কট নহয়"
+      },
+      {
+        "en": "rapidly spreading",
+        "as": "দ্ৰুত বিয়পা"
+      },
+      {
+        "en": "always fatal",
+        "as": "সদায় মাৰাত্মক"
+      },
+      {
+        "en": "infectious",
+        "as": "সংক্ৰামক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A benign growth stays local and does not invade or spread, though it may still need removal.",
+      "as": "নিৰীহ বৃদ্ধি স্থানীয় থাকে আৰু নিবিয়পে বা ভেদ নকৰে, তথাপি অপসাৰণ লাগিবও পাৰে।"
+    }
+  },
+  {
+    "id": "nursing-330",
+    "leaf": "medical-terminology",
+    "q": {
+      "en": "The term tachycardia is best described as a pulse rate",
+      "as": "টেকিকাৰ্ডিয়া আটাই ভালকৈ বৰ্ণনা কৰা হয় এনে নাড়ীৰ গতি হিচাপে যি"
+    },
+    "options": [
+      {
+        "en": "above 100 per minute",
+        "as": "প্ৰতি মিনিটত ১০০ৰ ওপৰত"
+      },
+      {
+        "en": "below 60 per minute",
+        "as": "প্ৰতি মিনিটত ৬০ৰ তলত"
+      },
+      {
+        "en": "exactly 72 per minute",
+        "as": "প্ৰতি মিনিটত ঠিক ৭২"
+      },
+      {
+        "en": "irregular only",
+        "as": "কেৱল অনিয়মীয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The prefix means fast, so any adult rate above a hundred qualifies. An irregular rhythm is arrhythmia.",
+      "as": "উপসৰ্গই দ্ৰুত বুজায়, সেয়ে এশৰ ওপৰ যিকোনো প্ৰাপ্তবয়স্ক হাৰ ইয়াৰ ভিতৰত। অনিয়মীয়া তাল এৰিথমিয়া।"
+    }
+  }
+]

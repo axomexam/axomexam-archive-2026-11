@@ -58,7 +58,10 @@ const API = (() => {
   async function getCounts() {
     const url = CONFIG.USE_REMOTE ? rawUrl("data/counts.json") : "/data/counts.json";
     try {
-      const res = await fetch(url);
+      /* no-store matters here: the host serves counts.json with
+         max-age=600, so a browser-cached copy would keep showing the
+         question counts from before the last content push. */
+      const res = await fetch(url, { cache: "no-store" });
       if (!res.ok) return null;
       return await res.json();
     } catch (e) {

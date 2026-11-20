@@ -1,0 +1,932 @@
+[
+  {
+    "id": "nursing-331",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The National Health Mission in India was formed by merging",
+      "as": "ভাৰতত ৰাষ্ট্ৰীয় স্বাস্থ্য মিছন গঠন হৈছিল কি মিলাই"
+    },
+    "options": [
+      {
+        "en": "NRHM and NUHM",
+        "as": "NRHM আৰু NUHM"
+      },
+      {
+        "en": "NACP and RNTCP",
+        "as": "NACP আৰু RNTCP"
+      },
+      {
+        "en": "NHM and PMJAY",
+        "as": "NHM আৰু PMJAY"
+      },
+      {
+        "en": "ICDS and NRHM",
+        "as": "ICDS আৰু NRHM"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rural and urban health missions were combined so that one framework covers both populations. Disease control programmes sit under it.",
+      "as": "গ্ৰাম্য আৰু চহৰ স্বাস্থ্য মিছন একত্ৰ কৰা হৈছিল যাতে এখন আঁচনিয়ে দুয়ো জনসংখ্যা সামৰে। ৰোগ নিয়ন্ত্ৰণ কাৰ্যসূচী ইয়াৰ অধীনত।"
+    }
+  },
+  {
+    "id": "nursing-332",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "ASHA in the Indian health system stands for",
+      "as": "ভাৰতীয় স্বাস্থ্য ব্যৱস্থাত ASHA ৰ সম্পূৰ্ণ ৰূপ"
+    },
+    "options": [
+      {
+        "en": "Accredited Social Health Activist",
+        "as": "Accredited Social Health Activist"
+      },
+      {
+        "en": "Assistant State Health Administrator",
+        "as": "Assistant State Health Administrator"
+      },
+      {
+        "en": "Allied Sanitary Health Assistant",
+        "as": "Allied Sanitary Health Assistant"
+      },
+      {
+        "en": "Advanced School Health Adviser",
+        "as": "Advanced School Health Adviser"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An ASHA is a trained village woman who links households to the health system, especially for maternal and child care.",
+      "as": "আশা এগৰাকী প্ৰশিক্ষিত গাঁৱৰ মহিলা যি পৰিয়ালক স্বাস্থ্য ব্যৱস্থাৰ সৈতে জোড়ে, বিশেষকৈ মাতৃ-শিশু সেৱাত।"
+    }
+  },
+  {
+    "id": "nursing-333",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The Janani Suraksha Yojana is aimed at",
+      "as": "জননী সুৰক্ষা যোজনাৰ লক্ষ্য"
+    },
+    "options": [
+      {
+        "en": "promoting institutional delivery",
+        "as": "প্ৰাতিষ্ঠানিক প্ৰসৱ উৎসাহিত কৰা"
+      },
+      {
+        "en": "providing free spectacles",
+        "as": "বিনামূলীয়া চশমা দিয়া"
+      },
+      {
+        "en": "building roads",
+        "as": "পথ নিৰ্মাণ কৰা"
+      },
+      {
+        "en": "supplying drinking water",
+        "as": "খোৱা পানী যোগান ধৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A cash incentive encourages mothers to deliver in a facility with skilled attendance, which lowers maternal and newborn deaths.",
+      "as": "নগদ সহায়ে মাকক দক্ষ সেৱা থকা সুবিধাত প্ৰসৱ কৰিবলৈ উৎসাহ দিয়ে, যিয়ে মাতৃ আৰু নৱজাতক মৃত্যু কমায়।"
+    }
+  },
+  {
+    "id": "nursing-334",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The Revised National Tuberculosis Control Programme is now known as",
+      "as": "পৰিবৰ্তিত ৰাষ্ট্ৰীয় যক্ষ্মা নিয়ন্ত্ৰণ কাৰ্যসূচীক এতিয়া কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "National Tuberculosis Elimination Programme",
+        "as": "National Tuberculosis Elimination Programme"
+      },
+      {
+        "en": "National Malaria Programme",
+        "as": "National Malaria Programme"
+      },
+      {
+        "en": "National AIDS Programme",
+        "as": "National AIDS Programme"
+      },
+      {
+        "en": "National Leprosy Programme",
+        "as": "National Leprosy Programme"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The renaming reflects the shift from control to elimination, with a target of ending TB in India.",
+      "as": "নাম সলনি কৰাটোৱে নিয়ন্ত্ৰণৰপৰা নিৰ্মূললৈ পৰিৱৰ্তন দেখুৱায়, ভাৰতত যক্ষ্মা শেষ কৰাৰ লক্ষ্যৰ সৈতে।"
+    }
+  },
+  {
+    "id": "nursing-335",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The main objective of the Pulse Polio programme is to",
+      "as": "পলিঅ' নাশ কৰা কাৰ্যসূচীৰ মূল উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "immunise every child against polio",
+        "as": "প্ৰতিটো শিশুক পলিঅ'ৰ বিৰুদ্ধে টিকা দিয়া"
+      },
+      {
+        "en": "treat polio paralysis",
+        "as": "পলিঅ'ৰ পক্ষাঘাতৰ চিকিৎসা কৰা"
+      },
+      {
+        "en": "distribute iron tablets",
+        "as": "লোৰ বড়ি বিতৰণ কৰা"
+      },
+      {
+        "en": "provide spectacles",
+        "as": "চশমা যোগান ধৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Repeated rounds of oral vaccine reach every child under five, which is how transmission was stopped.",
+      "as": "মুখেৰে দিয়া টিকাৰ পুনৰাবৃত্তি ৰাউণ্ডে পাঁচ বছৰৰ তলৰ প্ৰতিটো শিশুলৈ যায়, সেয়ে সংক্ৰমণ বন্ধ হ'ল।"
+    }
+  },
+  {
+    "id": "nursing-336",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The National Programme for Control of Blindness mainly provides",
+      "as": "দৃষ্টিহীনতা নিয়ন্ত্ৰণ ৰাষ্ট্ৰীয় কাৰ্যসূচীয়ে মূলতঃ যোগান ধৰে"
+    },
+    "options": [
+      {
+        "en": "cataract surgery and eye care",
+        "as": "ছানি অস্ত্ৰোপচাৰ আৰু চকুৰ যতন"
+      },
+      {
+        "en": "dental treatment",
+        "as": "দাঁতৰ চিকিৎসা"
+      },
+      {
+        "en": "hearing aids",
+        "as": "শ্ৰৱণ যন্ত্ৰ"
+      },
+      {
+        "en": "wheelchairs",
+        "as": "ৱিলচেয়াৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cataract accounts for most avoidable blindness, so surgery camps and free operations form the core of the programme.",
+      "as": "ছানিয়ে বেছিভাগ প্ৰতিৰোধযোগ্য অন্ধত্বৰ কাৰণ, সেয়ে শল্য শিবিৰ আৰু বিনামূলীয়া অপাৰেচন কাৰ্যসূচীৰ মূল।"
+    }
+  },
+  {
+    "id": "nursing-337",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "Mission Indradhanush is concerned with",
+      "as": "মিছন ইন্দ্ৰধনুষ কিৰ লগত সম্পৰ্কিত"
+    },
+    "options": [
+      {
+        "en": "full immunisation coverage",
+        "as": "সম্পূৰ্ণ টিকাকৰণ সামৰণি"
+      },
+      {
+        "en": "maternal nutrition only",
+        "as": "কেৱল মাতৃ পুষ্টি"
+      },
+      {
+        "en": "road safety",
+        "as": "পথ সুৰক্ষা"
+      },
+      {
+        "en": "water purification",
+        "as": "পানী শোধন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "It targets districts and children who missed routine vaccines, aiming for full coverage with all antigens.",
+      "as": "ই সেই জিলা আৰু শিশুক লক্ষ্য কৰে যিয়ে নিয়মীয়া টিকা হেৰুৱাইছে, সকলো টিকাৰে সম্পূৰ্ণ সামৰণিৰ লক্ষ্যৰে।"
+    }
+  },
+  {
+    "id": "nursing-338",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The Ayushman Bharat scheme provides",
+      "as": "আয়ুষ্মান ভাৰত আঁচনিয়ে যোগান ধৰে"
+    },
+    "options": [
+      {
+        "en": "health insurance cover for poor families",
+        "as": "দৰিদ্ৰ পৰিয়ালৰ বাবে স্বাস্থ্য বীমা সুৰক্ষা"
+      },
+      {
+        "en": "free education",
+        "as": "বিনামূলীয়া শিক্ষা"
+      },
+      {
+        "en": "crop insurance",
+        "as": "শস্য বীমা"
+      },
+      {
+        "en": "old age pension",
+        "as": "বৃদ্ধ বয়স পেঞ্চন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Eligible households get cashless secondary and tertiary care up to a fixed sum each year at empanelled hospitals.",
+      "as": "যোগ্য পৰিয়ালে তালিকাভুক্ত চিকিৎসালয়ত বছৰি নিৰ্দিষ্ট পৰিমাণলৈ নগদবিহীন দ্বিতীয় আৰু তৃতীয় স্তৰৰ চিকিৎসা পায়।"
+    }
+  },
+  {
+    "id": "nursing-339",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The main function of a Primary Health Centre is to",
+      "as": "প্ৰাথমিক স্বাস্থ্য কেন্দ্ৰৰ মূল কাম"
+    },
+    "options": [
+      {
+        "en": "provide basic curative and preventive services",
+        "as": "মৌলিক চিকিৎসা আৰু প্ৰতিৰোধ সেৱা দিয়া"
+      },
+      {
+        "en": "perform open heart surgery",
+        "as": "মুকলি হৃদয় অস্ত্ৰোপচাৰ কৰা"
+      },
+      {
+        "en": "run a medical college",
+        "as": "চিকিৎসা মহাবিদ্যালয় চলোৱা"
+      },
+      {
+        "en": "manufacture drugs",
+        "as": "ঔষধ উৎপাদন কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A PHC covers a block with outpatient care, maternal services, immunisation and referral. Surgery and teaching need higher facilities.",
+      "as": "এখন PHC এ খণ্ড এটাৰ বাহ্যিক ৰোগী সেৱা, মাতৃ সেৱা, টিকাকৰণ আৰু প্ৰেৰণ সামৰে। অস্ত্ৰোপচাৰ আৰু শিক্ষালৈ ওপৰৰ সুবিধা লাগে।"
+    }
+  },
+  {
+    "id": "nursing-340",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The National AIDS Control Programme focuses on",
+      "as": "ৰাষ্ট্ৰীয় এইডছ নিয়ন্ত্ৰণ কাৰ্যসূচীয়ে গুৰুত্ব দিয়ে"
+    },
+    "options": [
+      {
+        "en": "prevention, testing and treatment of HIV",
+        "as": "HIV ৰ প্ৰতিৰোধ, পৰীক্ষা আৰু চিকিৎসা"
+      },
+      {
+        "en": "cancer screening",
+        "as": "কৰ্কট স্ক্ৰীণিং"
+      },
+      {
+        "en": "dental camps",
+        "as": "দাঁতৰ শিবিৰ"
+      },
+      {
+        "en": "eye donation",
+        "as": "চকু দান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The programme runs awareness, free testing and antiretroviral therapy, and prevents mother-to-child transmission.",
+      "as": "কাৰ্যসূচীয়ে সজাগতা, বিনামূলীয়া পৰীক্ষা আৰু এণ্টিৰিট্ৰ'ভাইৰেল চিকিৎসা চলায় আৰু মাকৰপৰা শিশুলৈ সংক্ৰমণ ৰোধ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-341",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The main aim of the National Leprosy Eradication Programme is to",
+      "as": "ৰাষ্ট্ৰীয় কুষ্ঠ ৰোগ নিৰ্মূল কাৰ্যসূচীৰ মূল লক্ষ্য"
+    },
+    "options": [
+      {
+        "en": "detect and treat leprosy early and prevent deformity",
+        "as": "কুষ্ঠ ৰোগ সোনকালে ধৰি চিকিৎসা কৰি বিকৃতি ৰোধ কৰা"
+      },
+      {
+        "en": "build leprosy hospitals only",
+        "as": "কেৱল কুষ্ঠ চিকিৎসালয় সজা"
+      },
+      {
+        "en": "ban physiotherapy",
+        "as": "ফিজিঅ'থেৰাপী নিষেধ কৰা"
+      },
+      {
+        "en": "stop all medication",
+        "as": "সকলো ঔষধ বন্ধ কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Multi-drug therapy cures the infection and stops transmission, and early detection prevents disability.",
+      "as": "বহু-ঔষধ চিকিৎসাই সংক্ৰমণ আৰোগ্য কৰি বিয়পা ৰোধ কৰে, আৰু সোনকালে ধৰিলে অক্ষমতা ৰোধ হয়।"
+    }
+  },
+  {
+    "id": "nursing-342",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "In Assam, the health system is administered mainly through",
+      "as": "অসমত স্বাস্থ্য ব্যৱস্থা মূলতঃ কিৰে পৰিচালিত হয়"
+    },
+    "options": [
+      {
+        "en": "the Directorate of Health Services",
+        "as": "স্বাস্থ্য সেৱা সঞ্চালকালয়"
+      },
+      {
+        "en": "the Public Works Department",
+        "as": "গুৰুত্বপূৰ্ণ নিৰ্মাণ বিভাগ"
+      },
+      {
+        "en": "the Education Board",
+        "as": "শিক্ষা পৰিষদ"
+      },
+      {
+        "en": "the Transport Department",
+        "as": "পৰিবহন বিভাগ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The Directorate runs hospitals, PHCs and sub-centres, while the Directorate of Medical Education runs the teaching institutions.",
+      "as": "সঞ্চালকালয়ে চিকিৎসালয়, PHC আৰু উপ-কেন্দ্ৰ চলায়, আনহাতে চিকিৎসা শিক্ষা সঞ্চালকালয়ে শিক্ষানুষ্ঠান চলায়।"
+    }
+  },
+  {
+    "id": "nursing-343",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The National Rural Health Mission was launched mainly to",
+      "as": "ৰাষ্ট্ৰীয় গ্ৰাম্য স্বাস্থ্য মিছন মূলতঃ কিৰ বাবে আৰম্ভ কৰা হৈছিল"
+    },
+    "options": [
+      {
+        "en": "strengthen rural health infrastructure and services",
+        "as": "গ্ৰাম্য স্বাস্থ্য আন্তঃগাঁথনি আৰু সেৱা সবল কৰা"
+      },
+      {
+        "en": "build airports",
+        "as": "বিমানবন্দৰ সজা"
+      },
+      {
+        "en": "increase taxes",
+        "as": "কৰ বঢ়োৱা"
+      },
+      {
+        "en": "promote tourism",
+        "as": "পৰ্যটন উৎসাহিত কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "It funded sub-centres, PHCs, ASHAs and mobile units so that rural families could get care close to home.",
+      "as": "ই উপ-কেন্দ্ৰ, PHC, আশা আৰু ম'বাইল ইউনিটত ধন দিছিল যাতে গ্ৰাম্য পৰিয়ালে ঘৰৰ ওচৰত সেৱা পায়।"
+    }
+  },
+  {
+    "id": "nursing-344",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The Janani Shishu Suraksha Karyakram provides",
+      "as": "জননী শিশু সুৰক্ষা কাৰ্যসূচীয়ে যোগান ধৰে"
+    },
+    "options": [
+      {
+        "en": "free delivery and newborn care in public facilities",
+        "as": "চৰকাৰী সুবিধাত বিনামূলীয়া প্ৰসৱ আৰু নৱজাতক সেৱা"
+      },
+      {
+        "en": "free bicycles",
+        "as": "বিনামূলীয়া চাইকেল"
+      },
+      {
+        "en": "free laptops",
+        "as": "বিনামূলীয়া লেপটপ"
+      },
+      {
+        "en": "free seeds",
+        "as": "বিনামূলীয়া বীজ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The scheme removes charges for delivery, drugs, diagnostics, diet and transport, so cost never stops a mother reaching care.",
+      "as": "আঁচনিয়ে প্ৰসৱ, ঔষধ, পৰীক্ষা, আহাৰ আৰু পৰিবহনৰ মাচুল আঁতৰায়, সেয়ে খৰচে মাকক চিকিৎসালৈ যোৱাৰপৰা ৰোধ নকৰে।"
+    }
+  },
+  {
+    "id": "nursing-345",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The main purpose of the Integrated Child Development Services scheme is to",
+      "as": "সমন্বিত শিশু উন্নয়ন সেৱাৰ মূল উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "improve nutrition and health of children and mothers",
+        "as": "শিশু আৰু মাকৰ পুষ্টি আৰু স্বাস্থ্য উন্নত কৰা"
+      },
+      {
+        "en": "build highways",
+        "as": "মহাপথ নিৰ্মাণ কৰা"
+      },
+      {
+        "en": "train engineers",
+        "as": "ইঞ্জিনিয়াৰ প্ৰশিক্ষণ দিয়া"
+      },
+      {
+        "en": "supply electricity",
+        "as": "বিদ্যুৎ যোগান ধৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Anganwadi centres provide supplementary nutrition, immunisation and preschool learning, which shapes long term health.",
+      "as": "অংগনৱাড়ী কেন্দ্ৰই পৰিপূৰক পুষ্টি, টিকাকৰণ আৰু প্ৰাক-বিদ্যালয় শিক্ষা দিয়ে, যিয়ে দীৰ্ঘম্যাদী স্বাস্থ্য গঢ়ে।"
+    }
+  },
+  {
+    "id": "nursing-346",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The RNTCP had adopted directly observed treatment because",
+      "as": "RNTCP য়ে প্ৰত্যক্ষ পৰ্যবেক্ষিত চিকিৎসা গ্ৰহণ কৰিছিল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "it improves adherence and prevents drug resistance",
+        "as": "ই ঔষধ গ্ৰহণ উন্নত কৰি ঔষধ প্ৰতিৰোধ ৰোধ কৰে"
+      },
+      {
+        "en": "it reduces the number of patients",
+        "as": "ই ৰোগীৰ সংখ্যা কমায়"
+      },
+      {
+        "en": "it avoids diagnosis",
+        "as": "ই ৰোগ নিৰ্ণয় এৰায়"
+      },
+      {
+        "en": "it is cheaper than no treatment",
+        "as": "কোনো চিকিৎসাতকৈ সস্তা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A health worker or trained volunteer watches the patient swallow the dose, so the course is completed and resistance does not develop.",
+      "as": "স্বাস্থ্য কৰ্মী বা প্ৰশিক্ষিত স্বয়ংসেৱকে ৰোগীয়ে ঔষধ গিলা চাই, সেয়ে কোৰ্ছ সম্পূৰ্ণ হয় আৰু প্ৰতিৰোধ না জন্মে।"
+    }
+  },
+  {
+    "id": "nursing-347",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The National Vector Borne Disease Control Programme covers",
+      "as": "ৰাষ্ট্ৰীয় ভেক্টৰবাহিত ৰোগ নিয়ন্ত্ৰণ কাৰ্যসূচীয়ে সামৰে"
+    },
+    "options": [
+      {
+        "en": "malaria, dengue, chikungunya and Japanese encephalitis",
+        "as": "মেলেৰিয়া, ডেংগু, চিকুনগুনিয়া আৰু জাপানী এনকেফেলাইটিছ"
+      },
+      {
+        "en": "tuberculosis only",
+        "as": "কেৱল যক্ষ্মা"
+      },
+      {
+        "en": "cancer only",
+        "as": "কেৱল কৰ্কট"
+      },
+      {
+        "en": "blindness only",
+        "as": "কেৱল দৃষ্টিহীনতা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "These diseases share mosquito or fly vectors, so the programme works on vector control, surveillance and treatment together.",
+      "as": "এই ৰোগবোৰে মশা বা মাখিৰ বাহক ভাগ কৰে, সেয়ে কাৰ্যসূচীয়ে বাহক নিয়ন্ত্ৰণ, নজৰদাৰী আৰু চিকিৎসা একেলগে কৰে।"
+    }
+  },
+  {
+    "id": "nursing-348",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The main role of an ANM at a sub-centre is to",
+      "as": "উপ-কেন্দ্ৰত এএনএমৰ মূল ভূমিকা"
+    },
+    "options": [
+      {
+        "en": "provide maternal and child health services and referrals",
+        "as": "মাতৃ-শিশু স্বাস্থ্য সেৱা আৰু প্ৰেৰণ দিয়া"
+      },
+      {
+        "en": "conduct major surgery",
+        "as": "ডাঙৰ অস্ত্ৰোপচাৰ কৰা"
+      },
+      {
+        "en": "manage district accounts",
+        "as": "জিলাৰ হিচাপ চলোৱা"
+      },
+      {
+        "en": "run the pharmacy only",
+        "as": "কেৱল ফাৰ্মাচী চলোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The auxiliary nurse midwife delivers antenatal care, conducts normal deliveries, immunises and refers complications.",
+      "as": "সহায়ক নাৰ্ছ মিডৱাইফে প্ৰসৱপূৰ্ব সেৱা, স্বাভাৱিক প্ৰসৱ, টিকাকৰণ কৰে আৰু জটিলতা প্ৰেৰণ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-349",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The Rogi Kalyan Samiti in a government hospital is responsible for",
+      "as": "চৰকাৰী চিকিৎসালয়ৰ ৰোগী কল্যাণ সমিতিৰ দায়িত্ব"
+    },
+    "options": [
+      {
+        "en": "local management and patient welfare",
+        "as": "স্থানীয় পৰিচালনা আৰু ৰোগী কল্যাণ"
+      },
+      {
+        "en": "collecting income tax",
+        "as": "আয় কৰ সংগ্ৰহ"
+      },
+      {
+        "en": "running schools",
+        "as": "বিদ্যালয় চলোৱা"
+      },
+      {
+        "en": "issuing passports",
+        "as": "পাছপ'ৰ্ট প্ৰদান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The committee of staff and local representatives oversees cleanliness, services and small improvements at the facility.",
+      "as": "কৰ্মচাৰী আৰু স্থানীয় প্ৰতিনিধিৰ সমিতিয়ে পৰিষ্কাৰতা, সেৱা আৰু সৰু উন্নয়ন তদাৰক কৰে।"
+    }
+  },
+  {
+    "id": "nursing-350",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The main objective of the National Mental Health Programme is to",
+      "as": "ৰাষ্ট্ৰীয় মানসিক স্বাস্থ্য কাৰ্যসূচীৰ মূল উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "make mental health care available at primary level",
+        "as": "প্ৰাথমিক স্তৰত মানসিক স্বাস্থ্য সেৱা উপলব্ধ কৰা"
+      },
+      {
+        "en": "build large asylums",
+        "as": "ডাঙৰ আশ্ৰয় গৃহ সজা"
+      },
+      {
+        "en": "ban counselling",
+        "as": "পৰামৰ্শ নিষেধ কৰা"
+      },
+      {
+        "en": "treat only in cities",
+        "as": "কেৱল চহৰত চিকিৎসা কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Integrating mental health into primary care lets people get help without travelling far or facing stigma.",
+      "as": "মানসিক স্বাস্থ্য প্ৰাথমিক সেৱাত অন্তৰ্ভুক্ত কৰিলে মানুহে দূৰ যোৱা বা লাজৰ সন্মুখীন নোহোৱাকৈ সহায় পায়।"
+    }
+  },
+  {
+    "id": "nursing-351",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The eSanjeevani platform in India provides",
+      "as": "ভাৰতত eSanjeevani মঞ্চই যোগান ধৰে"
+    },
+    "options": [
+      {
+        "en": "teleconsultation with doctors",
+        "as": "চিকিৎসকৰ সৈতে দূৰ-পৰামৰ্শ"
+      },
+      {
+        "en": "free medicines by post",
+        "as": "ডাকেৰে বিনামূলীয়া ঔষধ"
+      },
+      {
+        "en": "ambulance tracking only",
+        "as": "কেৱল এম্বুলেন্স অনুসৰণ"
+      },
+      {
+        "en": "blood bank management",
+        "as": "ৰক্ত ভাণ্ডাৰ পৰিচালনা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Patients speak to a doctor by video from a health centre or phone, which saves travel for simple problems.",
+      "as": "ৰোগীয়ে স্বাস্থ্য কেন্দ্ৰ বা ফোনৰপৰা ভিডিঅ'ৰে চিকিৎসকৰ সৈতে কথা পায়, সেয়ে সাধাৰণ সমস্যাত যাত্ৰা সাঁ‌চে।"
+    }
+  },
+  {
+    "id": "nursing-352",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The primary aim of the National Programme for Health Care of the Elderly is to",
+      "as": "বয়সীয়াল লোকৰ স্বাস্থ্য সেৱাৰ ৰাষ্ট্ৰীয় কাৰ্যসূচীৰ মূল লক্ষ্য"
+    },
+    "options": [
+      {
+        "en": "provide accessible geriatric care",
+        "as": "সুলভ জ্যেষ্ঠ চিকিৎসা সেৱা দিয়া"
+      },
+      {
+        "en": "provide maternity care",
+        "as": "মাতৃ সেৱা দিয়া"
+      },
+      {
+        "en": "run sports camps",
+        "as": "ক্ৰীড়া শিবিৰ চলোৱা"
+      },
+      {
+        "en": "build metro rail",
+        "as": "মেট্ৰ' ৰে'ল সজা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dedicated clinics and home care address the chronic, multiple problems older people face.",
+      "as": "নিৰ্দিষ্ট চিকিৎসালয় আৰু ঘৰুৱা সেৱাই বয়সীয়াল লোকে সন্মুখীন হোৱা দীৰ্ঘস্থায়ী, বহুবিধ সমস্যা সমাধান কৰে।"
+    }
+  },
+  {
+    "id": "nursing-353",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The Rashtriya Bal Swasthya Karyakram is aimed at",
+      "as": "ৰাষ্ট্ৰীয় বাল স্বাস্থ্য কাৰ্যসূচীৰ লক্ষ্য"
+    },
+    "options": [
+      {
+        "en": "screening and treatment of children for defects and deficiencies",
+        "as": "শিশুৰ ত্ৰুটি আৰু অভাৱৰ স্ক্ৰীণিং আৰু চিকিৎসা"
+      },
+      {
+        "en": "adult cardiac surgery",
+        "as": "প্ৰাপ্তবয়স্ক হৃদয় অস্ত্ৰোপচাৰ"
+      },
+      {
+        "en": "cattle health",
+        "as": "গৰুৰ স্বাস্থ্য"
+      },
+      {
+        "en": "road repair",
+        "as": "পথ মেৰামতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Children are screened for the four Ds — defects at birth, deficiencies, diseases and developmental delay — and referred for care.",
+      "as": "শিশুক চাৰিটা D — জন্মগত ত্ৰুটি, অভাৱ, ৰোগ আৰু বিকাশ বিলম্ব — ৰ বাবে স্ক্ৰীণ কৰি চিকিৎসালৈ প্ৰেৰণ কৰা হয়।"
+    }
+  },
+  {
+    "id": "nursing-354",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The main function of a District Early Intervention Centre is to",
+      "as": "জিলা আগতীয়া হস্তক্ষেপ কেন্দ্ৰৰ মূল কাম"
+    },
+    "options": [
+      {
+        "en": "assess and manage children with developmental delay",
+        "as": "বিকাশ বিলম্ব থকা শিশুৰ মূল্যাংকন আৰু চিকিৎসা কৰা"
+      },
+      {
+        "en": "conduct elections",
+        "as": "নিৰ্বাচন চলোৱা"
+      },
+      {
+        "en": "supply food grains",
+        "as": "খাদ্যশস্য যোগান ধৰা"
+      },
+      {
+        "en": "maintain roads",
+        "as": "পথ ৰক্ষণাবেক্ষণ কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The centre brings paediatrics, physiotherapy and speech therapy together so a child gets help before school age.",
+      "as": "কেন্দ্ৰই শিশু চিকিৎসা, ফিজিঅ'থেৰাপী আৰু বাক্ থেৰাপী একত্ৰ কৰে যাতে শিশুৱে বিদ্যালয় বয়সৰ আগতে সহায় পায়।"
+    }
+  },
+  {
+    "id": "nursing-355",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "Under the National Health Mission, the Rogi Sahayata Kendra provides",
+      "as": "ৰাষ্ট্ৰীয় স্বাস্থ্য মিছনৰ অধীনত ৰোগী সহায়তা কেন্দ্ৰই যোগান ধৰে"
+    },
+    "options": [
+      {
+        "en": "guidance and help desks for patients in hospitals",
+        "as": "চিকিৎসালয়ত ৰোগীৰ বাবে পথনিৰ্দেশ আৰু সহায় ডেস্ক"
+      },
+      {
+        "en": "free housing",
+        "as": "বিনামূলীয়া ঘৰ"
+      },
+      {
+        "en": "crop loans",
+        "as": "শস্য ঋণ"
+      },
+      {
+        "en": "bus passes",
+        "as": "বাছ পাছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A help desk directs patients to the right department, which reduces confusion in crowded government hospitals.",
+      "as": "সহায় ডেস্কই ৰোগীক শুদ্ধ বিভাগলৈ পঠিয়ায়, যিয়ে ভিৰ থকা চৰকাৰী চিকিৎসালয়ত বিভ্ৰান্তি কমায়।"
+    }
+  },
+  {
+    "id": "nursing-356",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The main goal of the National Tobacco Control Programme is to",
+      "as": "ৰাষ্ট্ৰীয় তামাখু নিয়ন্ত্ৰণ কাৰ্যসূচীৰ মূল লক্ষ্য"
+    },
+    "options": [
+      {
+        "en": "reduce tobacco use and its health effects",
+        "as": "তামাখু ব্যৱহাৰ আৰু তাৰ স্বাস্থ্য প্ৰভাৱ কমোৱা"
+      },
+      {
+        "en": "increase tobacco sales",
+        "as": "তামাখু বিক্ৰী বঢ়োৱা"
+      },
+      {
+        "en": "subsidise cigarettes",
+        "as": "চিগাৰেটত ৰেহাই দিয়া"
+      },
+      {
+        "en": "promote smoking areas",
+        "as": "ধূমপান এলেকা উৎসাহিত কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Awareness, cessation clinics and enforcement of advertising bans cut the cancers and heart disease tobacco causes.",
+      "as": "সজাগতা, ধূমপান ত্যাগ ক্লিনিক আৰু বিজ্ঞাপন নিষেধাজ্ঞা বলবৎ কৰিলে তামাখুৱে কৰা কৰ্কট আৰু হৃদৰোগ কমে।"
+    }
+  },
+  {
+    "id": "nursing-357",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The National Viral Hepatitis Control Programme mainly provides",
+      "as": "ৰাষ্ট্ৰীয় ভাইৰেল হেপাটাইটিছ নিয়ন্ত্ৰণ কাৰ্যসূচীয়ে মূলতঃ যোগান ধৰে"
+    },
+    "options": [
+      {
+        "en": "free testing and treatment for hepatitis B and C",
+        "as": "হেপাটাইটিছ B আৰু C ৰ বিনামূলীয়া পৰীক্ষা আৰু চিকিৎসা"
+      },
+      {
+        "en": "dental implants",
+        "as": "দাঁতৰ ইম্প্লাণ্ট"
+      },
+      {
+        "en": "eye lenses",
+        "as": "চকুৰ লেন্ছ"
+      },
+      {
+        "en": "hearing tests only",
+        "as": "কেৱল শ্ৰৱণ পৰীক্ষা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Screening, vaccination for B and free antiviral treatment for C prevent cirrhosis and liver cancer.",
+      "as": "স্ক্ৰীণিং, B ৰ টিকা আৰু C ৰ বিনামূলীয়া এণ্টিভাইৰেল চিকিৎসাই চিৰ'ছিছ আৰু যকৃত কৰ্কট ৰোধ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-358",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The main purpose of the Health and Wellness Centre under Ayushman Bharat is to",
+      "as": "আয়ুষ্মান ভাৰতৰ স্বাস্থ্য আৰু সুস্থতা কেন্দ্ৰৰ মূল উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "deliver comprehensive primary care close to home",
+        "as": "ঘৰৰ ওচৰত ব্যাপক প্ৰাথমিক চিকিৎসা দিয়া"
+      },
+      {
+        "en": "perform transplant surgery",
+        "as": "প্ৰতিস্থাপন অস্ত্ৰোপচাৰ কৰা"
+      },
+      {
+        "en": "train pilots",
+        "as": "পাইলট প্ৰশিক্ষণ দিয়া"
+      },
+      {
+        "en": "build dams",
+        "as": "বান্ধ সজা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The centre upgrades the sub-centre to offer screening for hypertension, diabetes and cancers along with basic treatment.",
+      "as": "কেন্দ্ৰই উপ-কেন্দ্ৰক উন্নীত কৰি উচ্চ ৰক্তচাপ, মধুমেহ আৰু কৰ্কটৰ স্ক্ৰীণিং লগতে মৌলিক চিকিৎসা আগবঢ়ায়।"
+    }
+  },
+  {
+    "id": "nursing-359",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The 108 ambulance service in Assam is used mainly for",
+      "as": "অসমত ১০৮ এম্বুলেন্স সেৱা মূলতঃ কিৰ বাবে ব্যৱহৃত হয়"
+    },
+    "options": [
+      {
+        "en": "emergency transport of patients",
+        "as": "ৰোগীৰ জৰুৰী পৰিবহন"
+      },
+      {
+        "en": "school bus service",
+        "as": "বিদ্যালয় বাছ সেৱা"
+      },
+      {
+        "en": "goods transport",
+        "as": "মালবাহী পৰিবহন"
+      },
+      {
+        "en": "tourism",
+        "as": "পৰ্যটন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A toll free call brings a equipped ambulance, which shortens the time to reach a facility in an emergency.",
+      "as": "মাচুলমুক্ত ফোনে সজুলিযুক্ত এম্বুলেন্স পঠিয়ায়, যিয়ে জৰুৰী অৱস্থাত সুবিধা পোৱাৰ সময় কমায়।"
+    }
+  },
+  {
+    "id": "nursing-360",
+    "leaf": "health-programmes-assam",
+    "q": {
+      "en": "The main aim of the National Iodine Deficiency Disorders Control Programme is to",
+      "as": "ৰাষ্ট্ৰীয় আয়'ডিন অভাৱজনিত ৰোগ নিয়ন্ত্ৰণ কাৰ্যসূচীৰ মূল লক্ষ্য"
+    },
+    "options": [
+      {
+        "en": "ensure iodised salt consumption",
+        "as": "আয়'ডিনযুক্ত লৱণ ব্যৱহাৰ নিশ্চিত কৰা"
+      },
+      {
+        "en": "ban salt",
+        "as": "লৱণ নিষেধ কৰা"
+      },
+      {
+        "en": "export salt",
+        "as": "লৱণ ৰপ্তানি কৰা"
+      },
+      {
+        "en": "reduce water intake",
+        "as": "পানী খোৱা কমোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Iodine lack causes goitre and harms brain development, so monitoring salt iodisation prevents both.",
+      "as": "আয়'ডিনৰ অভাৱে গলগণ্ড কৰে আৰু মগজুৰ বিকাশ নষ্ট কৰে, সেয়ে লৱণত আয়'ডিনৰ নজৰদাৰীয়ে দুয়োটা ৰোধ কৰে।"
+    }
+  }
+]

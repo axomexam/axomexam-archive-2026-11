@@ -1,0 +1,932 @@
+[
+  {
+    "id": "nursing-271",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The first step in managing an unconscious adult is to",
+      "as": "অচেতন প্ৰাপ্তবয়স্কৰ চিকিৎসাত প্ৰথম খোজ"
+    },
+    "options": [
+      {
+        "en": "check the airway and breathing",
+        "as": "বায়ুপথ আৰু উশাহ পৰীক্ষা কৰা"
+      },
+      {
+        "en": "give water to drink",
+        "as": "খাবলৈ পানী দিয়া"
+      },
+      {
+        "en": "sit the patient up",
+        "as": "ৰোগীক বহুওৱা"
+      },
+      {
+        "en": "cover the patient fully",
+        "as": "ৰোগীক সম্পূৰ্ণ ঢাকি দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Without a clear airway and breathing, nothing else matters, so the ABC sequence begins with the airway.",
+      "as": "বায়ুপথ আৰু উশাহ পৰিষ্কাৰ নহ'লে আন একোৱেই গুৰুত্বপূৰ্ণ নহয়, সেয়ে ABC ক্ৰম বায়ুপথেৰে আৰম্ভ হয়।"
+    }
+  },
+  {
+    "id": "nursing-272",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The correct compression to ventilation ratio for one rescuer adult CPR is",
+      "as": "এজন উদ্ধাৰকৰ প্ৰাপ্তবয়স্ক CPR ত চাপ আৰু উশাহৰ শুদ্ধ অনুপাত"
+    },
+    "options": [
+      {
+        "en": "30 to 2",
+        "as": "৩০ ৰপৰা ২"
+      },
+      {
+        "en": "15 to 2",
+        "as": "১৫ ৰপৰা ২"
+      },
+      {
+        "en": "5 to 1",
+        "as": "৫ ৰপৰা ১"
+      },
+      {
+        "en": "10 to 5",
+        "as": "১০ ৰপৰা ৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Thirty compressions then two breaths keeps circulation going with minimal interruption. Paediatric ratios differ.",
+      "as": "ত্ৰিশ চাপৰ পিছত দুই উশাহে কম বাধাৰ সৈতে সংবহন চলায়। শিশুৰ অনুপাত বেলেগ।"
+    }
+  },
+  {
+    "id": "nursing-273",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The correct depth of chest compression in an adult is about",
+      "as": "প্ৰাপ্তবয়স্কত বুকু চেপাৰ শুদ্ধ গভীৰতা প্ৰায়"
+    },
+    "options": [
+      {
+        "en": "5 to 6 cm",
+        "as": "৫ ৰপৰা ৬ ছে.মি."
+      },
+      {
+        "en": "1 to 2 cm",
+        "as": "১ ৰপৰা ২ ছে.মি."
+      },
+      {
+        "en": "10 to 12 cm",
+        "as": "১০ ৰপৰা ১২ ছে.মি."
+      },
+      {
+        "en": "3 cm",
+        "as": "৩ ছে.মি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Five to six centimetres squeezes the heart enough to move blood. Shallow compressions do not circulate.",
+      "as": "৫ ৰপৰা ৬ ছে.মি.য়ে হৃদয় চেপি ৰক্ত চলাবলৈ যথেষ্ট। অগভীৰ চাপে ৰক্ত নচলায়।"
+    }
+  },
+  {
+    "id": "nursing-274",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "For a choking adult who can still cough forcefully, the first action is to",
+      "as": "এতিয়াও জোৰে কাহিব পৰা ডিঙিত বন্ধা প্ৰাপ্তবয়স্কত প্ৰথম কাম"
+    },
+    "options": [
+      {
+        "en": "encourage continued coughing",
+        "as": "কাহি থাকিবলৈ উৎসাহ দিয়া"
+      },
+      {
+        "en": "give abdominal thrusts",
+        "as": "পেটত চাপ দিয়া"
+      },
+      {
+        "en": "give water",
+        "as": "পানী দিয়া"
+      },
+      {
+        "en": "lie the patient down",
+        "as": "ৰোগীক শুৱাই দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A strong cough moves more air than any thrust and may clear the object, so it is encouraged first.",
+      "as": "জোৰাল কাহে যিকোনো চাপতকৈ বেছি বতাহ চালিত কৰি বস্তু ওলিয়াব পাৰে, সেয়ে প্ৰথমে উৎসাহ দিয়া হয়।"
+    }
+  },
+  {
+    "id": "nursing-275",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The correct first aid for a superficial burn is to",
+      "as": "পাতল পোৰণিত শুদ্ধ প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "cool with running water for twenty minutes",
+        "as": "বিশ মিনিট বোৱা পানীৰে শীতল কৰা"
+      },
+      {
+        "en": "apply ice directly",
+        "as": "পোনপটীয়াকৈ বৰফ লগোৱা"
+      },
+      {
+        "en": "apply toothpaste",
+        "as": "দাঁতৰ মাজন লগোৱা"
+      },
+      {
+        "en": "burst any blisters",
+        "as": "ফোঁ‌হা ফুটাই দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cooling water limits the depth of damage and eases pain. Ice and toothpaste injure tissue further, and blisters protect the wound.",
+      "as": "শীতল পানীয়ে ক্ষতিৰ গভীৰতা সীমিত কৰি বিষ কমায়। বৰফ আৰু মাজনে কলা আৰু নষ্ট কৰে, আৰু ফোঁ‌হাই ঘা ৰক্ষা কৰে।"
+    }
+  },
+  {
+    "id": "nursing-276",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "A tourniquet for severe limb bleeding should be",
+      "as": "অংগত তীব্ৰ ৰক্তক্ষৰণত টুৰ্নিকেট"
+    },
+    "options": [
+      {
+        "en": "applied above the wound and the time noted",
+        "as": "ঘাৰ ওপৰত লগাই সময় লিখি ৰখা"
+      },
+      {
+        "en": "applied below the wound",
+        "as": "ঘাৰ তলত লগোৱা"
+      },
+      {
+        "en": "loosened every few minutes",
+        "as": "কেইমিনিটে ঢিলা কৰা"
+      },
+      {
+        "en": "left without recording the time",
+        "as": "সময় নিলিখাকৈ এৰি দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The time matters because a tourniquet left too long damages the limb, and releasing it repeatedly restarts the bleeding.",
+      "as": "সময় গুৰুত্বপূৰ্ণ কাৰণ বেছি সময় থাকিলে অংগ নষ্ট হয়, আৰু বাৰে বাৰে ঢিলা কৰিলে ৰক্তক্ষৰণ পুনৰ আৰম্ভ হয়।"
+    }
+  },
+  {
+    "id": "nursing-277",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The recovery position is used for a patient who is",
+      "as": "পুনৰুদ্ধাৰ অৱস্থান ব্যৱহৃত হয় এনে ৰোগীৰ বাবে যি"
+    },
+    "options": [
+      {
+        "en": "unconscious but breathing",
+        "as": "অচেতন কিন্তু উশাহ লৈ আছে"
+      },
+      {
+        "en": "not breathing at all",
+        "as": "একেবাৰে উশাহ নলয়"
+      },
+      {
+        "en": "walking normally",
+        "as": "স্বাভাৱিকভাৱে খোজ কাঢ়ি আছে"
+      },
+      {
+        "en": "bleeding heavily from the arm",
+        "as": "বাহুৰপৰা বেছি ৰক্তক্ষৰণ হৈছে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Lying on the side keeps the tongue forward and lets vomit drain, protecting the airway. A non-breathing patient needs CPR.",
+      "as": "কাষে শুলে জিভা আগলৈ থাকে আৰু বমি ওলাই যায়, সেয়ে বায়ুপথ ৰক্ষা পায়। উশাহ নল'লে CPR লাগে।"
+    }
+  },
+  {
+    "id": "nursing-278",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The first aid for a suspected fracture of the forearm is to",
+      "as": "আগবাহু ভঙা সন্দেহত প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "immobilise it in the position found",
+        "as": "পোৱা অৱস্থাতেই স্থিৰ কৰা"
+      },
+      {
+        "en": "straighten the bone forcefully",
+        "as": "হাড় জোৰকৈ সোজা কৰা"
+      },
+      {
+        "en": "massage the area",
+        "as": "ঠাইখন মালিচ কৰা"
+      },
+      {
+        "en": "ask the patient to move it repeatedly",
+        "as": "ৰোগীক বাৰে বাৰে লৰাবলৈ কোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Moving the bone ends can damage vessels and nerves, so a splint holds the limb as found until X-ray.",
+      "as": "হাড়ৰ মূৰ লৰালে নলী আৰু স্নায়ু নষ্ট হয়, সেয়ে এক্স-ৰে লোৱালৈকে স্প্লিণ্টে পোৱা অৱস্থাত ধৰি ৰাখে।"
+    }
+  },
+  {
+    "id": "nursing-279",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "In case of an electric shock, the rescuer should first",
+      "as": "বিদ্যুৎস্পৃষ্ট হ'লে উদ্ধাৰকে প্ৰথমে"
+    },
+    "options": [
+      {
+        "en": "switch off the power source",
+        "as": "বিদ্যুৎ উৎস বন্ধ কৰিব"
+      },
+      {
+        "en": "touch the victim immediately",
+        "as": "ভুক্তভোগীক লগে লগে চুব"
+      },
+      {
+        "en": "pour water on the victim",
+        "as": "ভুক্তভোগীত পানী ঢালিব"
+      },
+      {
+        "en": "give mouth to mouth breathing at once",
+        "as": "লগে লগে মুখে মুখে উশাহ দিব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Touching a live victim makes the rescuer a second casualty, so the current is cut before any contact.",
+      "as": "চলি থকা ভুক্তভোগীক চুলে উদ্ধাৰকো দ্বিতীয় ভুক্তভোগী হয়, সেয়ে সংস্পৰ্শৰ আগতে প্ৰবাহ বন্ধ কৰা হয়।"
+    }
+  },
+  {
+    "id": "nursing-280",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The sign of an airway obstruction in a conscious adult is",
+      "as": "সচেতন প্ৰাপ্তবয়স্কত বায়ুপথ বন্ধ হোৱাৰ চিন"
+    },
+    "options": [
+      {
+        "en": "clutching the throat and unable to speak",
+        "as": "ডিঙি ধৰি কথা ক'ব নোৱাৰা"
+      },
+      {
+        "en": "sneezing repeatedly",
+        "as": "বাৰে বাৰে হাঁচি দিয়া"
+      },
+      {
+        "en": "mild cough with clear speech",
+        "as": "স্পষ্ট মাতেৰে সাধাৰণ কাহ"
+      },
+      {
+        "en": "feeling hungry",
+        "as": "ভোক লগা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Silence and the hand at the throat mean no air is moving, which is a complete obstruction needing thrusts.",
+      "as": "নীৰৱতা আৰু ডিঙিত হাত দিয়া মানে বতাহ নচলিছে, যি সম্পূৰ্ণ বন্ধ আৰু চাপৰ প্ৰয়োজন।"
+    }
+  },
+  {
+    "id": "nursing-281",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The first aid for a nosebleed is to",
+      "as": "নাকৰপৰা ৰক্ত ওলালে প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "sit up, lean forward and pinch the soft part",
+        "as": "বহি আগলৈ নমাই কোমল অংশ চেপি ধৰা"
+      },
+      {
+        "en": "lie flat and look up",
+        "as": "সমতল শুই ওপৰলৈ চোৱা"
+      },
+      {
+        "en": "blow the nose hard",
+        "as": "জোৰে নাক চাফা কৰা"
+      },
+      {
+        "en": "pack the nose with cotton and leave it",
+        "as": "নাকত কপাহ ভৰাই এৰি দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Leaning forward stops blood running down the throat, and pinching presses the bleeding point for ten minutes.",
+      "as": "আগলৈ নমালে ৰক্ত ডিঙিৰে নামি নাযায়, আৰু চেপি ধৰিলে দহ মিনিট ৰক্তক্ষৰণৰ ঠাইত চাপ পৰে।"
+    }
+  },
+  {
+    "id": "nursing-282",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "Which of the following is the correct sequence for adult basic life support?",
+      "as": "প্ৰাপ্তবয়স্ক মৌলিক জীৱন সহায়ৰ শুদ্ধ ক্ৰম কোনটো"
+    },
+    "options": [
+      {
+        "en": "check response, shout for help, open airway, check breathing, start CPR",
+        "as": "সঁ‌হাৰ পৰীক্ষা, সহায় বিচাৰি চিৎকাৰ, বায়ুপথ মেলা, উশাহ পৰীক্ষা, CPR আৰম্ভ"
+      },
+      {
+        "en": "start CPR before checking response",
+        "as": "সঁ‌হাৰ পৰীক্ষাৰ আগতে CPR আৰম্ভ"
+      },
+      {
+        "en": "give breaths before opening the airway",
+        "as": "বায়ুপথ মেলাৰ আগতে উশাহ দিয়া"
+      },
+      {
+        "en": "wait for an ambulance without doing anything",
+        "as": "এম্বুলেন্সৰ বাবে একো নকৰাকৈ অপেক্ষা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Confirming unresponsiveness avoids treating someone who is merely asleep, and the airway must be open before breaths.",
+      "as": "অচেতনতা নিশ্চিত কৰিলে কেবল টোপনিত থকা লোকৰ চিকিৎসা এৰায়, আৰু উশাহ দিয়াৰ আগতে বায়ুপথ মেলিব লাগে।"
+    }
+  },
+  {
+    "id": "nursing-283",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The correct first aid for a chemical splash in the eye is to",
+      "as": "চকুত ৰাসায়নিক ছিটিকিলে শুদ্ধ প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "irrigate with clean running water for at least fifteen minutes",
+        "as": "অন্ততঃ পোন্ধৰ মিনিট পৰিষ্কাৰ বোৱা পানীৰে ধোৱা"
+      },
+      {
+        "en": "rub the eye hard",
+        "as": "চকু জোৰে ঘঁ‌হা"
+      },
+      {
+        "en": "apply eye ointment at once",
+        "as": "লগে লগে চকুৰ মলম লগোৱা"
+      },
+      {
+        "en": "cover the eye and wait",
+        "as": "চকু ঢাকি অপেক্ষা কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dilution and washing out limit the burn, while rubbing spreads the chemical and ointment traps it.",
+      "as": "পাতল কৰি ধুই পেলালে পোৰণি সীমিত হয়, আনহাতে ঘঁ‌হিলে ৰাসায়নিক বিয়পে আৰু মলমে তাক ধৰি ৰাখে।"
+    }
+  },
+  {
+    "id": "nursing-284",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "A patient with suspected spinal injury should be moved only",
+      "as": "মেৰুদণ্ডৰ আঘাত সন্দেহ থকা ৰোগীক লৰচৰ কৰা উচিত কেৱল"
+    },
+    "options": [
+      {
+        "en": "if there is immediate danger such as fire",
+        "as": "আগুনৰ দৰে লগে লগে বিপদ থাকিলে"
+      },
+      {
+        "en": "to make the bed",
+        "as": "বিছনা সজাবলৈ"
+      },
+      {
+        "en": "to take a photograph",
+        "as": "ফটো তুলিবলৈ"
+      },
+      {
+        "en": "for a routine check",
+        "as": "নিয়মীয়া পৰীক্ষাৰ বাবে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Unnecessary movement can sever the cord, so the patient stays still unless staying would be fatal.",
+      "as": "অপ্ৰয়োজনীয় লৰচৰে ৰজ্জু ছিঁড়িব পাৰে, সেয়ে থাকিলে মৃত্যু হ'ব বুলি নিশ্চিত নহ'লে ৰোগী স্থিৰ থাকে।"
+    }
+  },
+  {
+    "id": "nursing-285",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The universal donor blood group is",
+      "as": "সৰ্বজনীন ৰক্তদাতা ৰক্ত শ্ৰেণী"
+    },
+    "options": [
+      {
+        "en": "O negative",
+        "as": "O ঋণাত্মক"
+      },
+      {
+        "en": "AB positive",
+        "as": "AB ধনাত্মক"
+      },
+      {
+        "en": "A positive",
+        "as": "A ধনাত্মক"
+      },
+      {
+        "en": "B negative",
+        "as": "B ঋণাত্মক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "O negative carries no A, B or Rh antigens, so it can be given before cross matching. AB positive is the universal recipient.",
+      "as": "O ঋণাত্মকত A, B বা Rh প্ৰতিজনক নাই, সেয়ে ক্ৰছ ম্যাচিঙৰ আগতে দিব পাৰি। AB ধনাত্মক সৰ্বজনীন গ্ৰাহক।"
+    }
+  },
+  {
+    "id": "nursing-286",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "In case of poisoning by mouth in a conscious patient, the first priority is to",
+      "as": "সচেতন ৰোগীত মুখেৰে বিষক্ৰিয়া হ'লে প্ৰথম অগ্ৰাধিকাৰ"
+    },
+    "options": [
+      {
+        "en": "preserve the airway and identify the poison",
+        "as": "বায়ুপথ ৰক্ষা কৰি বিষ চিনাক্ত কৰা"
+      },
+      {
+        "en": "force the patient to vomit",
+        "as": "জোৰকৈ বমি কৰোৱা"
+      },
+      {
+        "en": "give plenty of milk",
+        "as": "প্ৰচুৰ গাখীৰ দিয়া"
+      },
+      {
+        "en": "give a strong acid",
+        "as": "শক্তিশালী অম্ল দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Vomiting a corrosive substance burns the throat again, so the airway is protected and the container kept for identification.",
+      "as": "ক্ষয়কাৰী পদাৰ্থ বমি কৰিলে ডিঙি পুনৰ পোৰে, সেয়ে বায়ুপথ ৰক্ষা কৰি চিনাক্তৰ বাবে বটল ৰখা হয়।"
+    }
+  },
+  {
+    "id": "nursing-287",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The recommended rate of chest compressions in adult CPR is",
+      "as": "প্ৰাপ্তবয়স্ক CPR ত বুকু চেপাৰ পৰামৰ্শিত হাৰ"
+    },
+    "options": [
+      {
+        "en": "100 to 120 per minute",
+        "as": "প্ৰতি মিনিটত ১০০ ৰপৰা ১২০"
+      },
+      {
+        "en": "40 to 60 per minute",
+        "as": "প্ৰতি মিনিটত ৪০ ৰপৰা ৬০"
+      },
+      {
+        "en": "200 per minute",
+        "as": "প্ৰতি মিনিটত ২০০"
+      },
+      {
+        "en": "20 per minute",
+        "as": "প্ৰতি মিনিটত ২০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A hundred to a hundred and twenty keeps blood pressure up without losing time to refill the heart.",
+      "as": "১০০ ৰপৰা ১২০ এ হৃদয় পুনৰ ভৰাৰ সময় নেহেৰুৱাই ৰক্তচাপ ধৰি ৰাখে।"
+    }
+  },
+  {
+    "id": "nursing-288",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The first aid for a fainting patient is to",
+      "as": "মুৰ্চ্ছিত ৰোগীৰ প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "lay the patient flat and raise the legs",
+        "as": "ৰোগীক সমতল শুৱাই ভৰি ওপৰলৈ তোলা"
+      },
+      {
+        "en": "make the patient stand up",
+        "as": "ৰোগীক থিয় কৰোৱা"
+      },
+      {
+        "en": "give hot tea immediately",
+        "as": "লগে লগে গৰম চাহ দিয়া"
+      },
+      {
+        "en": "splash cold water on the face",
+        "as": "মুখত ঠাণ্ডা পানী ছটিওৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Raising the legs returns blood to the brain. Standing or giving fluids risks a fall and choking.",
+      "as": "ভৰি ওপৰলৈ তুলিলে মগজুলৈ ৰক্ত ঘূৰি যায়। থিয় কৰালে বা তৰল দিলে পৰা আৰু বাধাৰ বিপদ।"
+    }
+  },
+  {
+    "id": "nursing-289",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "Which of the following is the correct way to control bleeding from a cut on the arm?",
+      "as": "বাহুৰ কটাৰপৰা ৰক্তক্ষৰণ ৰোধৰ শুদ্ধ উপায়"
+    },
+    "options": [
+      {
+        "en": "apply direct pressure with a clean cloth",
+        "as": "পৰিষ্কাৰ কাপোৰেৰে পোনপটীয়া চাপ দিয়া"
+      },
+      {
+        "en": "wash with hot water repeatedly",
+        "as": "গৰম পানীৰে বাৰে বাৰে ধোৱা"
+      },
+      {
+        "en": "keep the arm below heart level",
+        "as": "বাহুক হৃদয়ৰ তলত ৰখা"
+      },
+      {
+        "en": "remove any embedded object",
+        "as": "ভিতৰত সোমোৱা বস্তু উলিওৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Direct pressure lets a clot form, and raising the limb above the heart slows the flow. Pulling out an embedded object restarts bleeding.",
+      "as": "পোনপটীয়া চাপে ৰক্ত জমিব দিয়ে, আৰু অংগ ওপৰলৈ তুলিলে প্ৰবাহ লেহেম হয়। সোমোৱা বস্তু উলিয়ালে ৰক্তক্ষৰণ পুনৰ আৰম্ভ।"
+    }
+  },
+  {
+    "id": "nursing-290",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The first aid for a scorpion sting is to",
+      "as": "বিছাৰে খোঁ‌টিলে প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "keep the limb still and get medical help",
+        "as": "অংগ স্থিৰ ৰাখি চিকিৎসা সহায় লোৱা"
+      },
+      {
+        "en": "cut the wound open",
+        "as": "ঘা কাটি মেলা"
+      },
+      {
+        "en": "apply heat immediately",
+        "as": "লগে লগে গৰম লগোৱা"
+      },
+      {
+        "en": "suck out the venom by mouth",
+        "as": "মুখেৰে বিষ চুহি উলিওৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Movement speeds venom spread, so the limb rests below heart level and the patient goes to hospital for antivenom.",
+      "as": "লৰচৰে বিষ বিয়পা দ্ৰুত কৰে, সেয়ে অংগ হৃদয়ৰ তলত বিশ্ৰাম কৰি ৰোগীক এণ্টিভেনমৰ বাবে চিকিৎসালয়লৈ নিয়া হয়।"
+    }
+  },
+  {
+    "id": "nursing-291",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "A patient in hypovolaemic shock should be positioned",
+      "as": "হাইপ'ভলেমিক শ্বকত ৰোগীক ৰখা উচিত"
+    },
+    "options": [
+      {
+        "en": "lying flat with legs raised",
+        "as": "সমতল শুৱাই ভৰি ওপৰলৈ তুলি"
+      },
+      {
+        "en": "sitting upright",
+        "as": "সোজা বহুৱাই"
+      },
+      {
+        "en": "standing",
+        "as": "থিয় কৰাই"
+      },
+      {
+        "en": "head down on the face",
+        "as": "মুখ তলত দি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Raising the legs supports venous return to the heart until fluids can be given. Sitting drops the pressure further.",
+      "as": "ভৰি তুলিলে শিৰাৰ ৰক্ত হৃদয়লৈ ঘূৰি যায় যেতিয়ালৈ তৰল দিয়া নহয়। বহুৱালে চাপ আৰু কমে।"
+    }
+  },
+  {
+    "id": "nursing-292",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The first aid for a heat stroke patient is to",
+      "as": "তাপাঘাতত প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "move to shade, cool rapidly and give fluids if conscious",
+        "as": "ছাঁলৈ নিয়া, দ্ৰুত শীতল কৰা আৰু সচেতন হ'লে তৰল দিয়া"
+      },
+      {
+        "en": "cover with heavy blankets",
+        "as": "ডাঠ কম্বলেৰে ঢাকি দিয়া"
+      },
+      {
+        "en": "make the patient run",
+        "as": "ৰোগীক দৌৰাবলৈ কোৱা"
+      },
+      {
+        "en": "give hot drinks",
+        "as": "গৰম পানীয় দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Core temperature must fall fast to prevent organ damage, so cooling comes first. Blankets and exertion raise it further.",
+      "as": "অংগ নষ্ট ৰোধ কৰিবলৈ শৰীৰৰ উষ্ণতা দ্ৰুত কমাব লাগে, সেয়ে শীতল কৰা আগ। কম্বল আৰু পৰিশ্ৰমে আৰু বঢ়ায়।"
+    }
+  },
+  {
+    "id": "nursing-293",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The abbreviation CPR stands for",
+      "as": "CPR ৰ সম্পূৰ্ণ ৰূপ"
+    },
+    "options": [
+      {
+        "en": "cardiopulmonary resuscitation",
+        "as": "cardiopulmonary resuscitation"
+      },
+      {
+        "en": "cardiac pressure relief",
+        "as": "cardiac pressure relief"
+      },
+      {
+        "en": "central pulse recording",
+        "as": "central pulse recording"
+      },
+      {
+        "en": "chest pain relief",
+        "as": "chest pain relief"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "It combines chest compressions with rescue breaths to keep oxygenated blood moving when the heart has stopped.",
+      "as": "হৃদয় বন্ধ হ'লে অক্সিজেনযুক্ত ৰক্ত চলাই ৰাখিবলৈ ই বুকুৰ চাপ আৰু উশাহ একত্ৰ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-294",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The correct first aid for a snake bite is to",
+      "as": "সাপে খোঁ‌টিলে শুদ্ধ প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "immobilise the limb and remove tight items",
+        "as": "অংগ স্থিৰ কৰি টান বস্তু আঁতৰোৱা"
+      },
+      {
+        "en": "cut and suck the wound",
+        "as": "ঘা কাটি চুহি উলিওৱা"
+      },
+      {
+        "en": "apply a tight tourniquet always",
+        "as": "সদায় টান টুৰ্নিকেট লগোৱা"
+      },
+      {
+        "en": "make the patient walk fast",
+        "as": "ৰোগীক দ্ৰুত খোজ কঢ়াবলৈ কোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Rest slows venom spread and removing rings prevents swelling from cutting off circulation. Cutting spreads venom.",
+      "as": "বিশ্ৰামে বিষ বিয়পা লেহেম কৰে আৰু আঙুঠি খুলিলে ওফন্দাই ৰক্তস্ৰোত বন্ধ কৰাৰ পৰা ৰক্ষা কৰে। কটিলে বিষ বিয়পে।"
+    }
+  },
+  {
+    "id": "nursing-295",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "Which of the following is a sign of hypoglycaemia in a diabetic patient?",
+      "as": "মধুমেহ ৰোগীত নিম্ন ৰক্ত শৰ্কৰাৰ চিন কোনটো"
+    },
+    "options": [
+      {
+        "en": "sweating with trembling and hunger",
+        "as": "ঘাম, কম্পন আৰু ভোক"
+      },
+      {
+        "en": "excessive thirst with frequent urine",
+        "as": "অত্যধিক পিয়াহ আৰু সঘন মূত্ৰ"
+      },
+      {
+        "en": "deep slow breathing",
+        "as": "গভীৰ ধীৰ উশাহ"
+      },
+      {
+        "en": "dry warm skin",
+        "as": "শুকান উমলীয়া ছাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Low sugar releases adrenaline, giving sweat and tremor, and the brain feels hungry. Thirst and heavy urine mean high sugar.",
+      "as": "কম চেনিয়ে এড্ৰিনেলিন ওলাই ঘাম আৰু কম্পন দিয়ে, আৰু মগজুৱে ভোক অনুভৱ কৰে। পিয়াহ আৰু বেছি মূত্ৰ মানে বেছি চেনি।"
+    }
+  },
+  {
+    "id": "nursing-296",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "An AED is used in cardiac arrest to",
+      "as": "হৃদযন্ত্ৰ বন্ধত AED ব্যৱহৃত হয় কিৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "deliver a shock to restore a normal rhythm",
+        "as": "স্বাভাৱিক তাল ঘূৰাবলৈ শ্বক দিয়া"
+      },
+      {
+        "en": "give oxygen",
+        "as": "অক্সিজেন দিয়া"
+      },
+      {
+        "en": "measure blood pressure",
+        "as": "ৰক্তচাপ জোখা"
+      },
+      {
+        "en": "inject adrenaline",
+        "as": "এড্ৰিনেলিন দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The device analyses the rhythm and shocks only a shockable one, which is why compressions continue while it is attached.",
+      "as": "যন্ত্ৰই তাল বিশ্লেষণ কৰি কেবল শ্বকযোগ্য তালত শ্বক দিয়ে, সেয়ে লগোৱাৰ সময়ত চাপ চলি থাকে।"
+    }
+  },
+  {
+    "id": "nursing-297",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The correct management of a blister after a burn is to",
+      "as": "পোৰণিৰ পিছত ফোঁ‌হাৰ শুদ্ধ ব্যৱস্থাপনা"
+    },
+    "options": [
+      {
+        "en": "leave it intact and cover loosely",
+        "as": "অক্ষত ৰাখি ঢিলাকৈ ঢাকা"
+      },
+      {
+        "en": "prick it with a needle",
+        "as": "ছুইৰে ফুটাই দিয়া"
+      },
+      {
+        "en": "rub it with oil",
+        "as": "তেলেৰে ঘঁ‌হা"
+      },
+      {
+        "en": "apply mud",
+        "as": "বোকা লগোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The blister roof is a sterile barrier against infection, so it stays unless a clinician decides otherwise.",
+      "as": "ফোঁ‌হাৰ ওপৰৰ ছাল সংক্ৰমণৰ বিৰুদ্ধে জীৱাণুমুক্ত বেৰ, সেয়ে চিকিৎসকে নক'লে তাক ৰখা হয়।"
+    }
+  },
+  {
+    "id": "nursing-298",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The first aid for a foreign body in the ear is to",
+      "as": "কাণত বাহিৰা বস্তু সোমালে প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "leave it and seek medical help",
+        "as": "এৰি দি চিকিৎসা সহায় লোৱা"
+      },
+      {
+        "en": "probe it with a pin",
+        "as": "পিনেৰে খুচরা কৰা"
+      },
+      {
+        "en": "pour oil to float it out",
+        "as": "তেল ঢালি ওপৰলৈ তোলা"
+      },
+      {
+        "en": "shake the head violently",
+        "as": "মূৰ জোৰে জোকাৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Probing pushes the object deeper and can perforate the drum, so removal is left to someone who can see it.",
+      "as": "খুচরা কৰিলে বস্তু আৰু গভীৰলৈ যায় আৰু কাণৰ পৰ্দা ফুটিব পাৰে, সেয়ে দেখিব পৰা লোকে উলিয়াব লাগে।"
+    }
+  },
+  {
+    "id": "nursing-299",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The first aid for a patient having a generalised seizure is to",
+      "as": "সাধাৰণ খিঁচ হোৱা ৰোগীৰ প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "protect the head and clear nearby objects",
+        "as": "মূৰ ৰক্ষা কৰি ওচৰৰ বস্তু আঁতৰোৱা"
+      },
+      {
+        "en": "hold the limbs down firmly",
+        "as": "অংগ জোৰকৈ ধৰি ৰখা"
+      },
+      {
+        "en": "put a spoon in the mouth",
+        "as": "মুখত চামুচ ভৰোৱা"
+      },
+      {
+        "en": "give water during the fit",
+        "as": "খিঁচৰ সময়ত পানী দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Restraint causes injury and objects in the mouth break teeth, so the aim is to let the fit pass safely.",
+      "as": "জোৰকৈ ধৰিলে আঘাত হয় আৰু মুখত বস্তু দিলে দাঁত ভাঙে, সেয়ে লক্ষ্য খিঁচ নিৰাপদে যাব দিয়া।"
+    }
+  },
+  {
+    "id": "nursing-300",
+    "leaf": "first-aid-emergency",
+    "q": {
+      "en": "The correct first aid for a patient with severe diarrhoea and vomiting is to",
+      "as": "তীব্ৰ ডায়েৰিয়া আৰু বমি হোৱা ৰোগীৰ শুদ্ধ প্ৰাথমিক চিকিৎসা"
+    },
+    "options": [
+      {
+        "en": "give oral rehydration solution in small frequent sips",
+        "as": "সৰু সৰু সঘন চুমুকত মুখেৰে পানীশূন্যতা পূৰণ দ্ৰৱ দিয়া"
+      },
+      {
+        "en": "withhold all fluids",
+        "as": "সকলো তৰল বন্ধ ৰখা"
+      },
+      {
+        "en": "give only strong tea",
+        "as": "কেৱল কেঁ‌‌ঢ়া চাহ দিয়া"
+      },
+      {
+        "en": "give large volumes at once",
+        "as": "একেবাৰে বেছি পৰিমাণ দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Small sips are absorbed even when vomiting, while large volumes trigger more vomiting and withholding causes shock.",
+      "as": "বমি হলেও সৰু চুমুকে শোষিত হয়, আনহাতে বেছি পৰিমাণে বমি বঢ়ায় আৰু তৰল বন্ধ কৰিলে শ্বক হয়।"
+    }
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "id": "nursing-001",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The normal adult resting pulse rate per minute is",
+      "as": "প্ৰাপ্তবয়স্কৰ বিশ্ৰাম অৱস্থাত প্ৰতি মিনিটত স্বাভাৱিক নাড়ীৰ গতি"
+    },
+    "options": [
+      {
+        "en": "60 to 100",
+        "as": "৬০ ৰপৰা ১০০"
+      },
+      {
+        "en": "40 to 60",
+        "as": "৪০ ৰপৰা ৬০"
+      },
+      {
+        "en": "100 to 140",
+        "as": "১০০ ৰপৰা ১৪০"
+      },
+      {
+        "en": "20 to 40",
+        "as": "২০ ৰপৰা ৪০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sixty to a hundred beats a minute is the adult range. Below sixty is bradycardia and above a hundred is tachycardia.",
+      "as": "প্ৰাপ্তবয়স্কৰ বাবে ষাঠিৰপৰা এশ এটা মিনিটত স্বাভাৱিক। ষাঠিৰ তলত ব্ৰেডিকাৰ্ডিয়া আৰু এশৰ ওপৰত টেকিকাৰ্ডিয়া।"
+    }
+  },
+  {
+    "id": "nursing-002",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The position used to promote drainage of bronchial secretions is",
+      "as": "ব্ৰংকিয়েল শ্লেষ্মা নিষ্কাশনত সহায় কৰা অৱস্থানটো"
+    },
+    "options": [
+      {
+        "en": "Fowler's position",
+        "as": "ফাউলাৰ অৱস্থান"
+      },
+      {
+        "en": "supine position",
+        "as": "উত্তান অৱস্থান"
+      },
+      {
+        "en": "Trendelenburg position",
+        "as": "ট্ৰেণ্ডেলেনবাৰ্গ অৱস্থান"
+      },
+      {
+        "en": "prone position",
+        "as": "প্ৰ'ন অৱস্থান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sitting upright in Fowler's position lets gravity help the lungs drain and eases breathing. Trendelenburg tilts the body head-down, which worsens breathing.",
+      "as": "ফাউলাৰ অৱস্থানত সোজা বহিলে মহাকৰ্ষণে ফুসফুসৰ নিষ্কাশনত সহায় কৰি উশাহ লোৱা সহজ কৰে। ট্ৰেণ্ডেলেনবাৰ্গত মূৰ তলত যায়, যিয়ে উশাহ বেয়া কৰে।"
+    }
+  },
+  {
+    "id": "nursing-003",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "Before administering any medicine, the nurse must verify",
+      "as": "কোনো ঔষধ দিয়াৰ আগতে নাৰ্ছে নিশ্চিত কৰিব লাগে"
+    },
+    "options": [
+      {
+        "en": "the five rights of medication",
+        "as": "ঔষধৰ পাঁচটা অধিকাৰ"
+      },
+      {
+        "en": "the patient's home address",
+        "as": "ৰোগীৰ ঘৰৰ ঠিকনা"
+      },
+      {
+        "en": "the ward cleaning roster",
+        "as": "ৱাৰ্ড পৰিষ্কাৰৰ তালিকা"
+      },
+      {
+        "en": "the visitor list",
+        "as": "দৰ্শনাৰ্থীৰ তালিকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Right patient, drug, dose, route and time prevent most medication errors. Address and visitor lists have no bearing on the dose given.",
+      "as": "শুদ্ধ ৰোগী, ঔষধ, মাত্ৰা, পথ আৰু সময়ে বেছিভাগ ঔষধ ভুল ৰোধ কৰে। ঠিকনা আৰু দৰ্শনাৰ্থী তালিকাৰ ঔষধৰ সৈতে সম্পৰ্ক নাই।"
+    }
+  },
+  {
+    "id": "nursing-004",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The normal oral body temperature of a healthy adult is about",
+      "as": "সুস্থ প্ৰাপ্তবয়স্কৰ মুখেৰে জোখা স্বাভাৱিক শৰীৰৰ উষ্ণতা প্ৰায়"
+    },
+    "options": [
+      {
+        "en": "37 degrees Celsius",
+        "as": "৩৭ ডিগ্ৰী চেলছিয়াছ"
+      },
+      {
+        "en": "35 degrees Celsius",
+        "as": "৩৫ ডিগ্ৰী চেলছিয়াছ"
+      },
+      {
+        "en": "40 degrees Celsius",
+        "as": "৪০ ডিগ্ৰী চেলছিয়াছ"
+      },
+      {
+        "en": "32 degrees Celsius",
+        "as": "৩২ ডিগ্ৰী চেলছিয়াছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Thirty-seven Celsius, or 98.6 Fahrenheit, is the accepted oral average. Thirty-five is hypothermia and forty is high fever.",
+      "as": "৩৭ চেলছিয়াছ, অৰ্থাৎ ৯৮.৬ ফাৰেনহাইট, গ্ৰহণযোগ্য গড়। ৩৫ হাইপ'থাৰ্মিয়া আৰু ৪০ উচ্চ জ্বৰ।"
+    }
+  },
+  {
+    "id": "nursing-005",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "Asepsis means",
+      "as": "এচেপছিছ মানে"
+    },
+    "options": [
+      {
+        "en": "absence of pathogenic micro-organisms",
+        "as": "ৰোগসৃষ্টিকাৰী অণুজীৱৰ অনুপস্থিতি"
+      },
+      {
+        "en": "presence of any bacteria",
+        "as": "যিকোনো বেক্টেৰিয়াৰ উপস্থিতি"
+      },
+      {
+        "en": "use of hot water only",
+        "as": "কেৱল গৰম পানী ব্যৱহাৰ"
+      },
+      {
+        "en": "cleaning with soap only",
+        "as": "কেৱল চাবোনেৰে পৰিষ্কাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Asepsis is the state of being free from pathogens. Soap and water clean but do not by themselves make a field aseptic.",
+      "as": "এচেপছিছ হ'ল ৰোগসৃষ্টিকাৰী জীৱাণুৰপৰা মুক্ত অৱস্থা। চাবোন আৰু পানীয়ে পৰিষ্কাৰ কৰে কিন্তু নিজেই ক্ষেত্ৰ এচেপ্টিক নকৰে।"
+    }
+  },
+  {
+    "id": "nursing-006",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The route by which a drug acts most rapidly is",
+      "as": "কোন পথেৰে ঔষধ আটাই দ্ৰুত ক্ৰিয়া কৰে"
+    },
+    "options": [
+      {
+        "en": "intravenous",
+        "as": "অন্তঃশিৰা"
+      },
+      {
+        "en": "oral",
+        "as": "মুখে"
+      },
+      {
+        "en": "subcutaneous",
+        "as": "ত্বকৰ তলত"
+      },
+      {
+        "en": "topical",
+        "as": "বাহ্যিক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An intravenous dose enters the bloodstream at once, so it acts within seconds. An oral dose must first be absorbed from the gut.",
+      "as": "অন্তঃশিৰা মাত্ৰা লগে লগে ৰক্তত প্ৰৱেশ কৰে, সেয়ে ছেকেণ্ডতে ক্ৰিয়া কৰে। মুখে দিয়া মাত্ৰা প্ৰথমে অন্ত্ৰৰপৰা শোষিত হ'ব লাগে।"
+    }
+  },
+  {
+    "id": "nursing-007",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "A pressure sore is most likely to develop over",
+      "as": "চাপৰ ঘা আটাই বেছি সম্ভাৱনা ক'ত হয়"
+    },
+    "options": [
+      {
+        "en": "the sacrum",
+        "as": "ছেক্ৰামত"
+      },
+      {
+        "en": "the forehead",
+        "as": "কপালত"
+      },
+      {
+        "en": "the palm",
+        "as": "হাতৰ তলুৱাত"
+      },
+      {
+        "en": "the abdomen",
+        "as": "পেটত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The sacrum bears body weight against the bed, so pressure cuts off blood flow there first. The palm and forehead are rarely weight-bearing.",
+      "as": "ছেক্ৰামে বিছনাত শৰীৰৰ ভাৰ বহন কৰে, সেয়ে তাত ৰক্তস্ৰোত প্ৰথমে বন্ধ হয়। হাতৰ তলুৱা আৰু কপালে ভাৰ নবহে।"
+    }
+  },
+  {
+    "id": "nursing-008",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The nurse should count respirations",
+      "as": "নাৰ্ছে উশাহ-নিশাহ গণিব লাগে"
+    },
+    "options": [
+      {
+        "en": "without telling the patient",
+        "as": "ৰোগীক নোকোৱাকৈ"
+      },
+      {
+        "en": "after announcing the count",
+        "as": "গণা ঘোষণা কৰি"
+      },
+      {
+        "en": "only during sleep",
+        "as": "কেৱল টোপনিত"
+      },
+      {
+        "en": "only after exercise",
+        "as": "কেৱল ব্যায়ামৰ পিছত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Telling the patient makes breathing conscious and changes the rate. Counting quietly after the pulse gives a true reading.",
+      "as": "ৰোগীক ক'লে উশাহ সচেতন হৈ গতি সলনি হয়। নাড়ীৰ পিছত মনে মনে গণিলে প্ৰকৃত মান পোৱা যায়।"
+    }
+  },
+  {
+    "id": "nursing-009",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The purpose of a urinary catheter is to",
+      "as": "মূত্ৰ কেথেটাৰৰ উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "drain urine when normal voiding is not possible",
+        "as": "স্বাভাৱিকভাৱে মূত্ৰ ত্যাগ সম্ভৱ নহ'লে নিষ্কাশন কৰা"
+      },
+      {
+        "en": "increase urine production",
+        "as": "মূত্ৰ উৎপাদন বঢ়োৱা"
+      },
+      {
+        "en": "sterilise the bladder permanently",
+        "as": "মূত্ৰাশয় স্থায়ীভাৱে জীৱাণুমুক্ত কৰা"
+      },
+      {
+        "en": "measure blood pressure",
+        "as": "ৰক্তচাপ জোখা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The catheter is a drainage tube, not a treatment for the cause. It does not raise urine output or sterilise the bladder.",
+      "as": "কেথেটাৰ এটা নিষ্কাশন নলী, কাৰণৰ চিকিৎসা নহয়। ই মূত্ৰ উৎপাদন নবঢ়ায় বা মূত্ৰাশয় জীৱাণুমুক্ত নকৰে।"
+    }
+  },
+  {
+    "id": "nursing-010",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "Hand hygiene is performed mainly to",
+      "as": "হাত পৰিষ্কাৰ কৰা হয় মূলতঃ কিৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "break the chain of infection",
+        "as": "সংক্ৰমণৰ শৃংখল ভাঙিবলৈ"
+      },
+      {
+        "en": "keep the hands soft",
+        "as": "হাত কোমল ৰাখিবলৈ"
+      },
+      {
+        "en": "save water",
+        "as": "পানী সঞ্চয় কৰিবলৈ"
+      },
+      {
+        "en": "improve handwriting",
+        "as": "হস্তাক্ষৰ উন্নত কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Hands are the commonest vehicle for organisms between patients, so cleaning them cuts transmission at its main point.",
+      "as": "হাতে ৰোগীৰ মাজত জীৱাণু নিয়াৰ আটাই সাধাৰণ বাহন, সেয়ে পৰিষ্কাৰ কৰিলে মূল স্থানত সংক্ৰমণ ৰয়।"
+    }
+  },
+  {
+    "id": "nursing-011",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The normal adult respiratory rate per minute is",
+      "as": "প্ৰাপ্তবয়স্কৰ প্ৰতি মিনিটত স্বাভাৱিক উশাহ-নিশাহৰ হাৰ"
+    },
+    "options": [
+      {
+        "en": "12 to 20",
+        "as": "১২ ৰপৰা ২০"
+      },
+      {
+        "en": "4 to 8",
+        "as": "৪ ৰপৰা ৮"
+      },
+      {
+        "en": "30 to 40",
+        "as": "৩০ ৰপৰা ৪০"
+      },
+      {
+        "en": "22 to 28",
+        "as": "২২ ৰপৰা ২৮"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Twelve to twenty breaths a minute is normal for adults. Below twelve suggests depression of breathing and above twenty tachypnoea.",
+      "as": "প্ৰাপ্তবয়স্কৰ বাবে বাৰৰপৰা বিশ উশাহ স্বাভাৱিক। বাৰৰ তলত উশাহ কমা আৰু বিশৰ ওপৰত টেকিপ্নিয়া।"
+    }
+  },
+  {
+    "id": "nursing-012",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "A patient on bed rest should be turned at least",
+      "as": "বিছনাত বিশ্ৰাম কৰা ৰোগীক অন্ততঃ কিমান সময়ৰ মূৰে মূৰে লুটিয়াব লাগে"
+    },
+    "options": [
+      {
+        "en": "every two hours",
+        "as": "প্ৰতি দুই ঘণ্টাত"
+      },
+      {
+        "en": "every twelve hours",
+        "as": "প্ৰতি বাৰ ঘণ্টাত"
+      },
+      {
+        "en": "once a day",
+        "as": "দিনত এবাৰ"
+      },
+      {
+        "en": "every eight hours",
+        "as": "প্ৰতি আঠ ঘণ্টাত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Two-hourly turning relieves pressure before skin damage begins. Longer gaps let ischaemia progress to a sore.",
+      "as": "দুই ঘণ্টাৰ মূৰে লুটিয়ালে ছাল নষ্ট হোৱাৰ আগতে চাপ কমে। বেছি ব্যৱধানত ৰক্তহীনতা বাঢ়ি ঘা হয়।"
+    }
+  },
+  {
+    "id": "nursing-013",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The term pyrexia means",
+      "as": "পাইৰেক্সিয়া শব্দই বুজায়"
+    },
+    "options": [
+      {
+        "en": "fever",
+        "as": "জ্বৰ"
+      },
+      {
+        "en": "low blood pressure",
+        "as": "নিম্ন ৰক্তচাপ"
+      },
+      {
+        "en": "slow pulse",
+        "as": "ধীৰ নাড়ী"
+      },
+      {
+        "en": "difficulty in breathing",
+        "as": "উশাহ লোৱাত কষ্ট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pyrexia is a raised body temperature. Hypotension is low pressure and dyspnoea is difficult breathing.",
+      "as": "পাইৰেক্সিয়া হ'ল শৰীৰৰ উষ্ণতা বঢ়া। হাইপ'টেনছন নিম্ন চাপ আৰু ডিছপ্নিয়া উশাহৰ কষ্ট।"
+    }
+  },
+  {
+    "id": "nursing-014",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "Before a patient is shifted to the operating theatre, the nurse must confirm",
+      "as": "ৰোগীক অস্ত্ৰোপচাৰ কক্ষলৈ নিয়াৰ আগতে নাৰ্ছে নিশ্চিত কৰিব লাগে"
+    },
+    "options": [
+      {
+        "en": "informed consent is signed",
+        "as": "অৱগত সন্মতি স্বাক্ষৰিত"
+      },
+      {
+        "en": "the ward floor is swept",
+        "as": "ৱাৰ্ডৰ মজিয়া সৰা"
+      },
+      {
+        "en": "the visitors have left the building",
+        "as": "দৰ্শনাৰ্থীয়ে অট্টালিকা এৰিছে"
+      },
+      {
+        "en": "the linen is folded",
+        "as": "কাপোৰ ভাঁ‌জ কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Surgery without valid consent is unlawful, so the signature is checked before transfer. The other items are housekeeping.",
+      "as": "বৈধ সন্মতি নোহোৱাকৈ অস্ত্ৰোপচাৰ অবৈধ, সেয়ে নিয়াৰ আগতে স্বাক্ষৰ পৰীক্ষা কৰা হয়। বাকীবোৰ ঘৰুৱা কাম।"
+    }
+  },
+  {
+    "id": "nursing-015",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "Which solution is isotonic with blood plasma?",
+      "as": "কোন দ্ৰৱ ৰক্ত প্লাজমাৰ সৈতে সমপৰিসৰীয়"
+    },
+    "options": [
+      {
+        "en": "0.9 per cent sodium chloride",
+        "as": "০.৯ শতাংশ ছডিয়াম ক্ল'ৰাইড"
+      },
+      {
+        "en": "5 per cent glucose only",
+        "as": "কেৱল ৫ শতাংশ গ্লুক'জ"
+      },
+      {
+        "en": "distilled water",
+        "as": "ডিষ্টিল্ড পানী"
+      },
+      {
+        "en": "3 per cent sodium chloride",
+        "as": "৩ শতাংশ ছডিয়াম ক্ল'ৰাইড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Normal saline at 0.9 per cent matches plasma osmolarity. Three per cent saline is hypertonic and distilled water is hypotonic.",
+      "as": "০.৯ শতাংশ সাধাৰণ লুণীয়া পানীয়ে প্লাজমাৰ অছিম'লাৰিটিৰ সৈতে মিলে। ৩ শতাংশ অতি-পৰিসৰীয় আৰু ডিষ্টিল্ড পানী নিম্ন-পৰিসৰীয়।"
+    }
+  },
+  {
+    "id": "nursing-016",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The best site to check the pulse of an unconscious adult in an emergency is the",
+      "as": "জৰুৰীকালীন অৱস্থাত অচেতন প্ৰাপ্তবয়স্কৰ নাড়ী চোৱাৰ আটাই ভাল স্থান"
+    },
+    "options": [
+      {
+        "en": "carotid artery",
+        "as": "কেৰ'টিড ধমনী"
+      },
+      {
+        "en": "radial artery",
+        "as": "ৰেডিয়েল ধমনী"
+      },
+      {
+        "en": "popliteal artery",
+        "as": "পপ্লিটিয়েল ধমনী"
+      },
+      {
+        "en": "dorsalis pedis",
+        "as": "ডৰ্ছেলিছ পেডিছ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The carotid lies close to the surface in the neck and stays palpable when peripheral circulation fails. The radial may be too weak to feel.",
+      "as": "কেৰ'টিড ডিঙিত পৃষ্ঠৰ ওচৰত আৰু পেৰিফেৰেল সংবহন বন্ধ হ'লেও অনুভৱ হয়। ৰেডিয়েল অতি দুৰ্বল হ'ব পাৰে।"
+    }
+  },
+  {
+    "id": "nursing-017",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "A nasogastric tube is inserted mainly to",
+      "as": "নেজ'গেষ্ট্ৰিক নলী মূলতঃ কিৰ বাবে ভৰোৱা হয়"
+    },
+    "options": [
+      {
+        "en": "feed or decompress the stomach",
+        "as": "পেটত খাদ্য দিয়া বা চাপ কমোৱা"
+      },
+      {
+        "en": "measure blood glucose",
+        "as": "ৰক্ত গ্লুক'জ জোখা"
+      },
+      {
+        "en": "drain the bladder",
+        "as": "মূত্ৰাশয় নিষ্কাশন কৰা"
+      },
+      {
+        "en": "give oxygen",
+        "as": "অক্সিজেন দিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The tube reaches the stomach through the nose, so it can deliver feed or drain gas and fluid. Oxygen goes by mask or cannula.",
+      "as": "নলী নাকেদি পেটলৈ যায়, সেয়ে খাদ্য দিব বা গেছ-তৰল নিষ্কাশন কৰিব পাৰে। অক্সিজেন মাস্ক বা কেনুলাৰে দিয়া হয়।"
+    }
+  },
+  {
+    "id": "nursing-018",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The correct technique for a bed bath includes",
+      "as": "বিছনা স্নানৰ শুদ্ধ কৌশলত আছে"
+    },
+    "options": [
+      {
+        "en": "washing from clean to dirty areas and drying well",
+        "as": "পৰিষ্কাৰৰপৰা অশুদ্ধলৈ ধুই ভালদৰে মচা"
+      },
+      {
+        "en": "using cold water only",
+        "as": "কেৱল ঠাণ্ডা পানী ব্যৱহাৰ"
+      },
+      {
+        "en": "leaving the skin wet",
+        "as": "ছাল তিতা ৰখা"
+      },
+      {
+        "en": "bathing only the face",
+        "as": "কেৱল মুখ ধুৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Clean-to-dirty order avoids spreading organisms, and drying prevents maceration that leads to skin breakdown.",
+      "as": "পৰিষ্কাৰৰপৰা অশুদ্ধলৈ ক্ৰমে জীৱাণু নিবিয়পা ৰোধ কৰে, আৰু মচিলে ছাল তিতা হৈ নষ্ট হোৱাৰপৰা ৰক্ষা কৰে।"
+    }
+  },
+  {
+    "id": "nursing-019",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The normal range of adult blood pressure is",
+      "as": "প্ৰাপ্তবয়স্কৰ স্বাভাৱিক ৰক্তচাপৰ পৰিসৰ"
+    },
+    "options": [
+      {
+        "en": "120/80 mm Hg",
+        "as": "১২০/৮০ মি.মি. পাৰা"
+      },
+      {
+        "en": "90/60 mm Hg",
+        "as": "৯০/৬০ মি.মি. পাৰা"
+      },
+      {
+        "en": "160/100 mm Hg",
+        "as": "১৬০/১০০ মি.মি. পাৰা"
+      },
+      {
+        "en": "80/40 mm Hg",
+        "as": "৮০/৪০ মি.মি. পাৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Around 120 over 80 is the accepted adult reference. Ninety over sixty is the lower edge of normal and 160 over 100 is hypertension.",
+      "as": "১২০/৮০ প্ৰাপ্তবয়স্কৰ গ্ৰহণযোগ্য মান। ৯০/৬০ স্বাভাৱিকৰ তলৰ সীমা আৰু ১৬০/১০০ উচ্চ ৰক্তচাপ।"
+    }
+  },
+  {
+    "id": "nursing-020",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "A nurse records intake and output mainly to assess",
+      "as": "নাৰ্ছে গ্ৰহণ আৰু নিষ্কাশন লিখি ৰখে মূলতঃ কি মূল্যাংকন কৰিবলৈ"
+    },
+    "options": [
+      {
+        "en": "fluid and electrolyte balance",
+        "as": "তৰল আৰু ইলেক্ট্ৰ'লাইটৰ ভাৰসাম্য"
+      },
+      {
+        "en": "the patient's mood",
+        "as": "ৰোগীৰ মনোভাৱ"
+      },
+      {
+        "en": "visiting hours",
+        "as": "দৰ্শনৰ সময়"
+      },
+      {
+        "en": "staff duty roster",
+        "as": "কৰ্মচাৰীৰ কৰ্তব্য তালিকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Comparing what goes in with what comes out shows whether the kidneys and circulation are keeping fluid in balance.",
+      "as": "যি সোমায় আৰু যি ওলায় তুলনা কৰিলে বৃক্ক আৰু সংবহনে তৰল ভাৰসাম্য ৰাখিছে নে নাই জনা যায়।"
+    }
+  },
+  {
+    "id": "nursing-021",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "Sterilisation differs from disinfection because sterilisation",
+      "as": "জীৱাণুমুক্তকৰণে কীটাণুনাশনতকৈ বেলেগ কাৰণ জীৱাণুমুক্তকৰণে"
+    },
+    "options": [
+      {
+        "en": "destroys all micro-organisms including spores",
+        "as": "বীজাণুকে ধৰি সকলো অণুজীৱ নষ্ট কৰে"
+      },
+      {
+        "en": "only removes dust",
+        "as": "কেৱল ধূলি আঁতৰায়"
+      },
+      {
+        "en": "only kills bacteria on skin",
+        "as": "কেৱল ছালৰ বেক্টেৰিয়া মাৰে"
+      },
+      {
+        "en": "is done with soap",
+        "as": "চাবোনেৰে কৰা হয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sterilisation kills spores as well, which disinfection may not. That is why surgical instruments are sterilised, not merely disinfected.",
+      "as": "জীৱাণুমুক্তকৰণে বীজাণুও মাৰে, যি কীটাণুনাশনে নোৱাৰিবও পাৰে। সেয়ে শল্য সজুলি কেবল কীটাণুনাশন নকৰি জীৱাণুমুক্ত কৰা হয়।"
+    }
+  },
+  {
+    "id": "nursing-022",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The first step in the nursing process is",
+      "as": "নাৰ্ছিং প্ৰক্ৰিয়াৰ প্ৰথম খোজ"
+    },
+    "options": [
+      {
+        "en": "assessment",
+        "as": "মূল্যাংকন"
+      },
+      {
+        "en": "planning",
+        "as": "পৰিকল্পনা"
+      },
+      {
+        "en": "implementation",
+        "as": "কাৰ্যকৰণ"
+      },
+      {
+        "en": "evaluation",
+        "as": "মূল্যায়ন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Assessment gathers the data on which every later step depends. Planning without data would be guesswork.",
+      "as": "মূল্যাংকনে তথ্য সংগ্ৰহ কৰে যাৰ ওপৰত পিছৰ প্ৰতিটো খোজ নিৰ্ভৰ কৰে। তথ্য নোহোৱাকৈ পৰিকল্পনা অনুমান হ'ব।"
+    }
+  },
+  {
+    "id": "nursing-023",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "Which of the following is a sign of dehydration?",
+      "as": "তলৰ কোনটো পানীশূন্যতাৰ চিন"
+    },
+    "options": [
+      {
+        "en": "dry mucous membranes and reduced urine output",
+        "as": "শুকান শ্লেষ্মা আৰু কম মূত্ৰ"
+      },
+      {
+        "en": "swollen ankles",
+        "as": "ভৰিৰ গাঁ‌ঠি ওফন্দি উঠা"
+      },
+      {
+        "en": "increased urine output",
+        "as": "মূত্ৰ বঢ়া"
+      },
+      {
+        "en": "moist skin",
+        "as": "তিতা ছাল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Less fluid means less urine and dry membranes. Swollen ankles point to fluid overload, the opposite problem.",
+      "as": "কম তৰলে কম মূত্ৰ আৰু শুকান শ্লেষ্মা দিয়ে। ভৰিৰ গাঁ‌ঠি ওফন্দি উঠা অতি তৰলৰ চিন, ওলোটা সমস্যা।"
+    }
+  },
+  {
+    "id": "nursing-024",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The purpose of a vapour pressure or steam steriliser is to",
+      "as": "ভাপ চাপ জীৱাণুমুক্তকৰণ যন্ত্ৰৰ উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "sterilise heat-stable items by moist heat",
+        "as": "তাপ সহনীয় সজুলি আৰ্দ্ৰ তাপেৰে জীৱাণুমুক্ত কৰা"
+      },
+      {
+        "en": "dry linen quickly",
+        "as": "কাপোৰ সোনকালে শুকুৱা"
+      },
+      {
+        "en": "cool the ward",
+        "as": "ৱাৰ্ড শীতল কৰা"
+      },
+      {
+        "en": "distil water",
+        "as": "পানী ডিষ্টিল কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Moist heat under pressure reaches the temperature that kills spores. Heat-sensitive items would be damaged and need another method.",
+      "as": "চাপত আৰ্দ্ৰ তাপে বীজাণু মৰা উষ্ণতাত পায়। তাপ-সংবেদনশীল সজুলি নষ্ট হ'ব, সেয়ে আন পদ্ধতি লাগে।"
+    }
+  },
+  {
+    "id": "nursing-025",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "A patient with a high fever should be given",
+      "as": "উচ্চ জ্বৰ থকা ৰোগীক দিব লাগে"
+    },
+    "options": [
+      {
+        "en": "plenty of fluids and light clothing",
+        "as": "প্ৰচুৰ তৰল আৰু পাতল কাপোৰ"
+      },
+      {
+        "en": "heavy blankets and no fluids",
+        "as": "ডাঠ কম্বল আৰু তৰল নাই"
+      },
+      {
+        "en": "cold water immersion always",
+        "as": "সদায় ঠাণ্ডা পানীত ডুবাই ৰখা"
+      },
+      {
+        "en": "no observation",
+        "as": "কোনো পৰ্যবেক্ষণ নাই"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fever raises fluid loss, so replacement and cooling by light clothing help. Heavy blankets trap heat and worsen the temperature.",
+      "as": "জ্বৰে তৰল ক্ষয় বঢ়ায়, সেয়ে তৰল আৰু পাতল কাপোৰে শীতল কৰাত সহায় কৰে। ডাঠ কম্বলে তাপ ধৰি উষ্ণতা বঢ়ায়।"
+    }
+  },
+  {
+    "id": "nursing-026",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "Which of the following best describes informed consent?",
+      "as": "তলৰ কোনটোৱে অৱগত সন্মতি ভালদৰে বৰ্ণনা কৰে"
+    },
+    "options": [
+      {
+        "en": "the patient agrees after understanding the procedure and its risks",
+        "as": "প্ৰক্ৰিয়া আৰু তাৰ বিপদ বুজি ৰোগীয়ে সন্মতি দিয়ে"
+      },
+      {
+        "en": "a relative signs without asking the patient",
+        "as": "ৰোগীক নোসোধাকৈ সম্পৰ্কীয়ে স্বাক্ষৰ কৰে"
+      },
+      {
+        "en": "the nurse signs for the patient",
+        "as": "নাৰ্ছে ৰোগীৰ হৈ স্বাক্ষৰ কৰে"
+      },
+      {
+        "en": "consent given after the surgery",
+        "as": "অস্ত্ৰোপচাৰৰ পিছত দিয়া সন্মতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Consent must be voluntary, informed and given before the procedure. Signature by staff or after the event has no legal value.",
+      "as": "সন্মতি স্বেচ্ছাই, তথ্যসহ আৰু প্ৰক্ৰিয়াৰ আগতে হ'ব লাগে। কৰ্মচাৰীৰ স্বাক্ষৰ বা পিছৰ সন্মতিৰ আইনী মূল্য নাই।"
+    }
+  },
+  {
+    "id": "nursing-027",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The term 'nil by mouth' before surgery means the patient must",
+      "as": "অস্ত্ৰোপচাৰৰ আগতে 'মুখে একো নহয়' মানে ৰোগীয়ে"
+    },
+    "options": [
+      {
+        "en": "take nothing orally for the advised period",
+        "as": "কোৱা সময়লৈ মুখে একো নল'ব"
+      },
+      {
+        "en": "drink only water",
+        "as": "কেৱল পানী খাব"
+      },
+      {
+        "en": "eat a light meal",
+        "as": "পাতল আহাৰ খাব"
+      },
+      {
+        "en": "take only medicine",
+        "as": "কেৱল ঔষধ ল'ব"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "An empty stomach prevents vomiting and aspiration during anaesthesia. Water and medicine also count as oral intake unless ordered.",
+      "as": "পেট খালী থাকিলে এনেছথেছিয়াৰ সময়ত বমি আৰু শ্বাসনলীত সোমোৱা ৰোধ হয়। নিৰ্দেশ নহ'লে পানী আৰু ঔষধো মুখে গ্ৰহণ গণ্য।"
+    }
+  },
+  {
+    "id": "nursing-028",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "Which observation is most important immediately after a blood transfusion begins?",
+      "as": "ৰক্ত সঞ্চাৰণ আৰম্ভ হোৱাৰ লগে লগে কোন পৰ্যবেক্ষণ আটাই গুৰুত্বপূৰ্ণ"
+    },
+    "options": [
+      {
+        "en": "vital signs for a reaction",
+        "as": "প্ৰতিক্ৰিয়াৰ বাবে জীৱন চিহ্ন"
+      },
+      {
+        "en": "the patient's weight",
+        "as": "ৰোগীৰ ওজন"
+      },
+      {
+        "en": "the room temperature",
+        "as": "কোঠাৰ উষ্ণতা"
+      },
+      {
+        "en": "the linen count",
+        "as": "কাপোৰৰ গণনা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A transfusion reaction shows first in temperature, pulse and blood pressure, so these are checked in the first minutes.",
+      "as": "ৰক্ত সঞ্চাৰণৰ প্ৰতিক্ৰিয়া প্ৰথমে উষ্ণতা, নাড়ী আৰু ৰক্তচাপত দেখা যায়, সেয়ে প্ৰথম মিনিটবোৰত এইবোৰ চোৱা হয়।"
+    }
+  },
+  {
+    "id": "nursing-029",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "The correct way to lift a patient is to",
+      "as": "ৰোগীক দাঙাৰ শুদ্ধ উপায়"
+    },
+    "options": [
+      {
+        "en": "bend the knees and keep the back straight",
+        "as": "আঁঠু নমাই পিঠি সোজা ৰখা"
+      },
+      {
+        "en": "bend at the waist only",
+        "as": "কেৱল কঁকালত নমা"
+      },
+      {
+        "en": "twist while lifting",
+        "as": "দাঙোতে ঘূৰোৱা"
+      },
+      {
+        "en": "lift with outstretched arms",
+        "as": "দীঘলকৈ মেলি দিয়া হাতেৰে দাঙা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bending the knees lets the leg muscles take the load and protects the nurse's spine. Bending at the waist and twisting cause back injury.",
+      "as": "আঁঠু নমালে ভৰিৰ পেশীয়ে ভাৰ লয় আৰু নাৰ্ছৰ মেৰুদণ্ড ৰক্ষা পায়। কঁকালত নমা আৰু ঘূৰোৱাই পিঠিৰ আঘাত আনে।"
+    }
+  },
+  {
+    "id": "nursing-030",
+    "leaf": "fundamentals-nursing",
+    "q": {
+      "en": "A dying patient's mouth is cleaned frequently because",
+      "as": "মৃত্যুশয্যাত থকা ৰোগীৰ মুখ সঘনাই পৰিষ্কাৰ কৰা হয় কাৰণ"
+    },
+    "options": [
+      {
+        "en": "dry mouth causes discomfort and infection",
+        "as": "শুকান মুখে অস্বস্তি আৰু সংক্ৰমণ আনে"
+      },
+      {
+        "en": "it improves the appetite",
+        "as": "ই ভোক বঢ়ায়"
+      },
+      {
+        "en": "it lowers the pulse",
+        "as": "ই নাড়ী কমায়"
+      },
+      {
+        "en": "it is required by law",
+        "as": "আইনে দাবী কৰে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Reduced fluid intake and mouth breathing dry the mucosa, so frequent cleaning keeps the patient comfortable and cuts infection risk.",
+      "as": "কম তৰল আৰু মুখেৰে উশাহে শ্লেষ্মা শুকায়, সেয়ে সঘন পৰিষ্কাৰে ৰোগীক আৰাম দি সংক্ৰমণৰ আশংকা কমায়।"
+    }
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "id": "nursing-031",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The primary focus of community health nursing is",
+      "as": "সমাজ স্বাস্থ্য নাৰ্ছিংৰ মূল লক্ষ্য"
+    },
+    "options": [
+      {
+        "en": "health promotion and prevention in the community",
+        "as": "সমাজত স্বাস্থ্য প্ৰসাৰ আৰু প্ৰতিৰোধ"
+      },
+      {
+        "en": "only treating admitted patients",
+        "as": "কেৱল ভৰ্তি ৰোগীৰ চিকিৎসা"
+      },
+      {
+        "en": "running hospital accounts",
+        "as": "চিকিৎসালয়ৰ হিচাপ চলোৱা"
+      },
+      {
+        "en": "purchasing equipment",
+        "as": "সজুলি ক্ৰয় কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Community nursing works outside hospital walls, aiming to keep people well rather than only treating the sick.",
+      "as": "সমাজ নাৰ্ছিং চিকিৎসালয়ৰ বাহিৰত কাম কৰে, লক্ষ্য ৰোগীক কেবল চিকিৎসা নকৰি মানুহক সুস্থ ৰখা।"
+    }
+  },
+  {
+    "id": "nursing-032",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The crude birth rate is expressed per",
+      "as": "স্থূল জন্ম হাৰ প্ৰতি কিমানত প্ৰকাশ কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "1000 population in a year",
+        "as": "বছৰত ১০০০ লোকত"
+      },
+      {
+        "en": "100 population in a month",
+        "as": "মাহত ১০০ লোকত"
+      },
+      {
+        "en": "10000 population in a decade",
+        "as": "দশকত ১০০০০ লোকত"
+      },
+      {
+        "en": "100000 population in a day",
+        "as": "দিনত ১,০০,০০০ লোকত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Births in a year are divided by the mid-year population and multiplied by a thousand. That is the standard convention.",
+      "as": "বছৰত জন্মক মধ্য বছৰৰ জনসংখ্যাৰে ভাগ কৰি এহাজাৰেৰে পূৰণ কৰা হয়। এয়েই প্ৰচলিত নিয়ম।"
+    }
+  },
+  {
+    "id": "nursing-033",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The first level of health care contact for a village is the",
+      "as": "গাঁৱৰ বাবে স্বাস্থ্য সেৱাৰ প্ৰথম সংযোগ স্থল"
+    },
+    "options": [
+      {
+        "en": "sub-centre",
+        "as": "উপ-কেন্দ্ৰ"
+      },
+      {
+        "en": "district hospital",
+        "as": "জিলা চিকিৎসালয়"
+      },
+      {
+        "en": "medical college",
+        "as": "চিকিৎসা মহাবিদ্যালয়"
+      },
+      {
+        "en": "regional institute",
+        "as": "আঞ্চলিক প্ৰতিষ্ঠান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The sub-centre is the lowest facility, serving a few thousand people close to home. Higher facilities handle referral cases.",
+      "as": "উপ-কেন্দ্ৰ আটাই তলৰ সুবিধা, ঘৰৰ ওচৰত কেইহাজাৰ লোকক সেৱা দিয়ে। ওপৰৰ সুবিধাই প্ৰেৰিত ৰোগী চম্ভালে।"
+    }
+  },
+  {
+    "id": "nursing-034",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Domiciliary midwifery means conducting delivery",
+      "as": "ঘৰুৱা প্ৰসূতি সেৱা মানে প্ৰসৱ পৰিচালনা"
+    },
+    "options": [
+      {
+        "en": "at the mother's home",
+        "as": "মাকৰ ঘৰত"
+      },
+      {
+        "en": "only in a hospital",
+        "as": "কেৱল চিকিৎসালয়ত"
+      },
+      {
+        "en": "in a laboratory",
+        "as": "লেবৰেটৰীত"
+      },
+      {
+        "en": "in a pharmacy",
+        "as": "ফাৰ্মাচীত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Domiciliary means at home, with the nurse visiting the family. Hospital delivery is institutional, not domiciliary.",
+      "as": "ঘৰুৱা মানে ঘৰত, নাৰ্ছে পৰিয়াললৈ গৈ সেৱা দিয়ে। চিকিৎসালয়ৰ প্ৰসৱ প্ৰাতিষ্ঠানিক, ঘৰুৱা নহয়।"
+    }
+  },
+  {
+    "id": "nursing-035",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The main purpose of a house-to-house survey in community nursing is to",
+      "as": "সমাজ নাৰ্ছিংত ঘৰে ঘৰে সমীক্ষাৰ মূল উদ্দেশ্য"
+    },
+    "options": [
+      {
+        "en": "identify health needs and at-risk families",
+        "as": "স্বাস্থ্য প্ৰয়োজন আৰু বিপদাপন্ন পৰিয়াল চিনাক্ত কৰা"
+      },
+      {
+        "en": "collect house tax",
+        "as": "ঘৰ কৰ সংগ্ৰহ কৰা"
+      },
+      {
+        "en": "count livestock",
+        "as": "পশুধন গণা"
+      },
+      {
+        "en": "repair roads",
+        "as": "পথ মেৰামতি কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The survey builds a family health register, which then guides which homes need follow-up visits.",
+      "as": "সমীক্ষাই পৰিয়াল স্বাস্থ্য পঞ্জী গঢ়ে, যিয়ে তাৰ পিছত কোন ঘৰত অনুসৰণ পৰিদৰ্শন লাগে নিৰ্দেশ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-036",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Which of the following is a notifiable disease in India?",
+      "as": "তলৰ কোনটো ভাৰতত জাননীযোগ্য ৰোগ"
+    },
+    "options": [
+      {
+        "en": "cholera",
+        "as": "কলera"
+      },
+      {
+        "en": "the common cold",
+        "as": "সাধাৰণ ঠাণ্ডা"
+      },
+      {
+        "en": "mild acne",
+        "as": "পাতল ব্ৰণ"
+      },
+      {
+        "en": "dandruff",
+        "as": "খু‌জুৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cholera must be reported to the health authority so that outbreak control can start. Colds and skin complaints are not notifiable.",
+      "as": "কলera স্বাস্থ্য কৰ্তৃপক্ষক জনাব লাগে যাতে প্ৰাদুৰ্ভাৱ নিয়ন্ত্ৰণ আৰম্ভ হয়। ঠাণ্ডা আৰু ছালৰ সমস্যা জাননীযোগ্য নহয়।"
+    }
+  },
+  {
+    "id": "nursing-037",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The maternal mortality ratio is the number of maternal deaths per",
+      "as": "মাতৃ মৃত্যু অনুপাত প্ৰতি কিমানত গণা হয়"
+    },
+    "options": [
+      {
+        "en": "100000 live births",
+        "as": "১,০০,০০০ জীৱিত জন্মত"
+      },
+      {
+        "en": "1000 population",
+        "as": "১০০০ লোকত"
+      },
+      {
+        "en": "100 live births",
+        "as": "১০০ জীৱিত জন্মত"
+      },
+      {
+        "en": "10000 population",
+        "as": "১০,০০০ লোকত"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ratio uses live births as the denominator and is scaled to a lakh. Using total population would mix in unrelated deaths.",
+      "as": "অনুপাতত জীৱিত জন্ম হৰ আৰু এলা‌খলৈ বৃদ্ধি কৰা হয়। মুঠ জনসংখ্যা ব্যৱহাৰ কৰিলে অসম্পৰ্কিত মৃত্যু মিলি যাব।"
+    }
+  },
+  {
+    "id": "nursing-038",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The best indicator of the health status of a community is",
+      "as": "সমাজৰ স্বাস্থ্য অৱস্থাৰ আটাই ভাল সূচক"
+    },
+    "options": [
+      {
+        "en": "infant mortality rate",
+        "as": "শিশু মৃত্যু হাৰ"
+      },
+      {
+        "en": "number of doctors",
+        "as": "চিকিৎসকৰ সংখ্যা"
+      },
+      {
+        "en": "number of hospitals",
+        "as": "চিকিৎসালয়ৰ সংখ্যা"
+      },
+      {
+        "en": "number of pharmacies",
+        "as": "ফাৰ্মাচীৰ সংখ্যা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Infant mortality reflects nutrition, sanitation, immunisation and maternal care together, so it summarises the whole system.",
+      "as": "শিশু মৃত্যু হাৰে পুষ্টি, পৰিচ্ছন্নতা, টিকাকৰণ আৰু মাতৃ সেৱা একেলগে দেখুৱায়, সেয়ে গোটেই ব্যৱস্থা সাৰাংশ দিয়ে।"
+    }
+  },
+  {
+    "id": "nursing-039",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "A community health nurse refers a high-risk pregnancy mainly to",
+      "as": "সমাজ স্বাস্থ্য নাৰ্ছে উচ্চ-বিপদ গৰ্ভাৱস্থা মূলতঃ ক'লৈ প্ৰেৰণ কৰে"
+    },
+    "options": [
+      {
+        "en": "a facility with emergency obstetric care",
+        "as": "জৰুৰী প্ৰসূতি সেৱা থকা সুবিধালৈ"
+      },
+      {
+        "en": "the village shop",
+        "as": "গাঁৱৰ দোকানলৈ"
+      },
+      {
+        "en": "the school teacher",
+        "as": "বিদ্যালয়ৰ শিক্ষকলৈ"
+      },
+      {
+        "en": "the post office",
+        "as": "ডাকঘৰলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The referral must reach a place able to do a caesarean and give blood, otherwise the delay costs lives.",
+      "as": "প্ৰেৰণে চিজাৰিয়ান আৰু ৰক্ত দিব পৰা ঠাই পাব লাগে, নহ'লে পলমে জীৱন হৰে।"
+    }
+  },
+  {
+    "id": "nursing-040",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The concept of 'at risk' in community health means a group",
+      "as": "সমাজ স্বাস্থ্যত 'বিপদাপন্ন' মানে এটা গোট যি"
+    },
+    "options": [
+      {
+        "en": "more likely to develop a health problem",
+        "as": "স্বাস্থ্য সমস্যা হোৱাৰ সম্ভাৱনা বেছি"
+      },
+      {
+        "en": "already fully immunised",
+        "as": "ইতিমধ্যে সম্পূৰ্ণ টিকাকৰণ হোৱা"
+      },
+      {
+        "en": "living in a city",
+        "as": "নগৰত বাস কৰা"
+      },
+      {
+        "en": "working in an office",
+        "as": "কাৰ্যালয়ত কাম কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Risk groups are identified so that scarce preventive effort goes where it prevents the most illness.",
+      "as": "বিপদ গোট চিনাক্ত কৰা হয় যাতে দুৰ্লভ প্ৰতিৰোধ প্ৰচেষ্টা আটাই বেছি ৰোগ ৰোধ কৰা ঠাইত লাগে।"
+    }
+  },
+  {
+    "id": "nursing-041",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Which of the following is a primary level of disease prevention?",
+      "as": "তলৰ কোনটো ৰোগ প্ৰতিৰোধৰ প্ৰাথমিক স্তৰ"
+    },
+    "options": [
+      {
+        "en": "immunisation",
+        "as": "টিকাকৰণ"
+      },
+      {
+        "en": "physiotherapy after a stroke",
+        "as": "ষ্ট্ৰ'কৰ পিছত ফিজিঅ'থেৰাপী"
+      },
+      {
+        "en": "rehabilitation of a fracture",
+        "as": "ফ্ৰেকচাৰৰ পুনৰ্বাসন"
+      },
+      {
+        "en": "screening for complications",
+        "as": "জটিলতাৰ স্ক্ৰীণিং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Primary prevention stops the disease before it starts, and immunisation does exactly that. Therapy and rehab come after disease exists.",
+      "as": "প্ৰাথমিক প্ৰতিৰোধে ৰোগ আৰম্ভ হোৱাৰ আগতে ৰোধ কৰে, আৰু টিকাকৰণে ঠিক তাকে কৰে। চিকিৎসা আৰু পুনৰ্বাসন ৰোগৰ পিছত।"
+    }
+  },
+  {
+    "id": "nursing-042",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The nurse's role in a school health programme includes",
+      "as": "বিদ্যালয় স্বাস্থ্য কাৰ্যসূচীত নাৰ্ছৰ ভূমিকা"
+    },
+    "options": [
+      {
+        "en": "health screening and health education",
+        "as": "স্বাস্থ্য পৰীক্ষা আৰু স্বাস্থ্য শিক্ষা"
+      },
+      {
+        "en": "teaching mathematics",
+        "as": "গণিত পঢ়োৱা"
+      },
+      {
+        "en": "managing school funds",
+        "as": "বিদ্যালয়ৰ ধন চলোৱা"
+      },
+      {
+        "en": "repairing furniture",
+        "as": "আচবাব মেৰামতি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Screening picks up vision, hearing and growth problems early, and education builds habits that last into adulthood.",
+      "as": "পৰীক্ষাই দৃষ্টি, শ্ৰৱণ আৰু বৃদ্ধিৰ সমস্যা সোনকালে ধৰে, আৰু শিক্ষাই প্ৰাপ্তবয়স্ক কাললৈ টিকি থকা অভ্যাস গঢ়ে।"
+    }
+  },
+  {
+    "id": "nursing-043",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Which of the following best defines epidemiology?",
+      "as": "তলৰ কোনটোৱে মহামাৰীবিজ্ঞান ভালদৰে সংজ্ঞায়িত কৰে"
+    },
+    "options": [
+      {
+        "en": "the study of disease distribution and its determinants",
+        "as": "ৰোগৰ বিতৰণ আৰু তাৰ নিৰ্ধাৰকৰ অধ্যয়ন"
+      },
+      {
+        "en": "the study of medicines",
+        "as": "ঔষধৰ অধ্যয়ন"
+      },
+      {
+        "en": "the study of bones",
+        "as": "হাড়ৰ অধ্যয়ন"
+      },
+      {
+        "en": "the study of the mind",
+        "as": "মনৰ অধ্যয়ন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Epidemiology asks who gets a disease, where and when, and what drives that pattern. Pharmacology and anatomy are separate subjects.",
+      "as": "মহামাৰীবিজ্ঞানে কোনে ৰোগ পায়, ক'ত আৰু কেতিয়া, আৰু কি কাৰণে সেই আৰ্হি চালিত কৰে সোধে। ঔষধবিজ্ঞান আৰু শৰীৰস্থান বেলেগ বিষয়।"
+    }
+  },
+  {
+    "id": "nursing-044",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Oral rehydration solution is used to treat",
+      "as": "মুখেৰে পানীশূন্যতা পূৰণ দ্ৰৱ ব্যৱহাৰ কৰা হয় কিৰ চিকিৎসাত"
+    },
+    "options": [
+      {
+        "en": "diarrhoeal dehydration",
+        "as": "ডায়েৰিয়াৰ পানীশূন্যতা"
+      },
+      {
+        "en": "high blood pressure",
+        "as": "উচ্চ ৰক্তচাপ"
+      },
+      {
+        "en": "fracture",
+        "as": "ফ্ৰেকচাৰ"
+      },
+      {
+        "en": "asthma",
+        "as": "হাঁপানি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The salts and glucose in the solution are absorbed together with water, replacing what diarrhoea has taken.",
+      "as": "দ্ৰৱৰ লৱণ আৰু গ্লুক'জ পানীৰ সৈতে শোষিত হয়, ডায়েৰিয়াই নিয়া খিনি পূৰণ কৰে।"
+    }
+  },
+  {
+    "id": "nursing-045",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The nurse advises a family to boil drinking water mainly to",
+      "as": "নাৰ্ছে পৰিয়ালক খোৱা পানী উতলাবলৈ কয় মূলতঃ কিৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "kill pathogens causing water-borne disease",
+        "as": "পানীজনিত ৰোগৰ জীৱাণু মাৰিবলৈ"
+      },
+      {
+        "en": "improve the taste",
+        "as": "সোৱাদ উন্নত কৰিবলৈ"
+      },
+      {
+        "en": "add minerals",
+        "as": "খনিজ যোগ কৰিবলৈ"
+      },
+      {
+        "en": "make it colder",
+        "as": "ঠাণ্ডা কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Boiling destroys bacteria, viruses and cysts that cause cholera, typhoid and dysentery. Taste and minerals are not the concern.",
+      "as": "উতলালে কলera, টাইফয়েড আৰু আমাশয়ৰ বেক্টেৰিয়া, ভাইৰাছ আৰু ছিষ্ট নষ্ট হয়। সোৱাদ বা খনিজ কথা নহয়।"
+    }
+  },
+  {
+    "id": "nursing-046",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Which of the following is a component of primary health care as declared at Alma-Ata?",
+      "as": "আলমা-আটাত ঘোষিত প্ৰাথমিক স্বাস্থ্য সেৱাৰ উপাদান কোনটো"
+    },
+    "options": [
+      {
+        "en": "health education",
+        "as": "স্বাস্থ্য শিক্ষা"
+      },
+      {
+        "en": "plastic surgery",
+        "as": "প্লাষ্টিক চাৰ্জাৰী"
+      },
+      {
+        "en": "organ transplant",
+        "as": "অংগ প্ৰতিস্থাপন"
+      },
+      {
+        "en": "MRI scanning",
+        "as": "MRI স্কেনিং"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Alma-Ata listed health education, nutrition, water and sanitation, maternal and child care, immunisation and essential drugs. High-technology care is not part of it.",
+      "as": "আলমা-আটাত স্বাস্থ্য শিক্ষা, পুষ্টি, পানী আৰু পৰিচ্ছন্নতা, মাতৃ-শিশু সেৱা, টিকাকৰণ আৰু অত্যাৱশ্যকীয় ঔষধ আছিল। উচ্চ প্ৰযুক্তিৰ চিকিৎসা তাত নাই।"
+    }
+  },
+  {
+    "id": "nursing-047",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The nurse records a birth before twenty-eight weeks of gestation as",
+      "as": "নাৰ্ছে গৰ্ভধাৰণৰ আঠাইশ সপ্তাহৰ আগতে হোৱা জন্মক কি হিচাপে লিখে"
+    },
+    "options": [
+      {
+        "en": "abortion",
+        "as": "গৰ্ভপাত"
+      },
+      {
+        "en": "full term birth",
+        "as": "পূৰ্ণকালীন জন্ম"
+      },
+      {
+        "en": "post term birth",
+        "as": "অতিপূৰ্ণকালীন জন্ম"
+      },
+      {
+        "en": "normal delivery",
+        "as": "স্বাভাৱিক প্ৰসৱ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Loss before twenty-eight weeks is classed as abortion, and after that as a birth. The cut-off matters for mortality statistics.",
+      "as": "আঠাইশ সপ্তাহৰ আগতে হেৰুওৱাক গৰ্ভপাত আৰু তাৰ পিছত জন্ম গণা হয়। এই সীমা মৃত্যু পৰিসংখ্যাৰ বাবে গুৰুত্বপূৰ্ণ।"
+    }
+  },
+  {
+    "id": "nursing-048",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Which of the following is the best way to prevent mosquito-borne disease in a village?",
+      "as": "গাঁৱত মশা-বাহিত ৰোগ ৰোধৰ আটাই ভাল উপায়"
+    },
+    "options": [
+      {
+        "en": "removing stagnant water around houses",
+        "as": "ঘৰৰ চাৰিওফালৰ জমা পানী আঁতৰোৱা"
+      },
+      {
+        "en": "spraying perfume",
+        "as": "সুগন্ধি স্প্ৰে কৰা"
+      },
+      {
+        "en": "closing windows at noon",
+        "as": "দুপৰীয়া খিৰিকী বন্ধ কৰা"
+      },
+      {
+        "en": "wearing black clothes",
+        "as": "ক'লা কাপোৰ পিন্ধা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Mosquitoes breed in standing water, so removing it destroys the larval habitat and cuts the population at source.",
+      "as": "মশাই জমা পানীত প্ৰজনন কৰে, সেয়ে আঁতৰালে পলুৰ বাসস্থান নষ্ট হৈ মূলতে সংখ্যা কমে।"
+    }
+  },
+  {
+    "id": "nursing-049",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "A village health register is maintained mainly to",
+      "as": "গাঁৱৰ স্বাস্থ্য পঞ্জী ৰখা হয় মূলতঃ কিৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "track families, births, deaths and immunisations",
+        "as": "পৰিয়াল, জন্ম, মৃত্যু আৰু টিকাকৰণ অনুসৰণ কৰিবলৈ"
+      },
+      {
+        "en": "record rainfall",
+        "as": "বৰষুণ লিখিবলৈ"
+      },
+      {
+        "en": "list shopkeepers",
+        "as": "দোকানীৰ তালিকা কৰিবলৈ"
+      },
+      {
+        "en": "count cattle",
+        "as": "গৰু গণিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The register turns scattered visits into a continuous picture, which is what makes follow-up and coverage checks possible.",
+      "as": "পঞ্জীয়ে ছিন্ন পৰিদৰ্শনক একেৰাহে চিত্ৰলৈ ৰূপান্তৰ কৰে, সেয়ে অনুসৰণ আৰু সামৰিক পৰীক্ষা সম্ভৱ হয়।"
+    }
+  },
+  {
+    "id": "nursing-050",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Which of the following is a secondary level of prevention?",
+      "as": "তলৰ কোনটো প্ৰতিৰোধৰ দ্বিতীয় স্তৰ"
+    },
+    "options": [
+      {
+        "en": "early diagnosis and prompt treatment",
+        "as": "সোনকালে ৰোগ নিৰ্ণয় আৰু তৎকালীন চিকিৎসা"
+      },
+      {
+        "en": "immunisation before exposure",
+        "as": "সংস্পৰ্শৰ আগতে টিকাকৰণ"
+      },
+      {
+        "en": "health education",
+        "as": "স্বাস্থ্য শিক্ষা"
+      },
+      {
+        "en": "safe water supply",
+        "as": "নিৰাপদ পানী যোগান"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Secondary prevention finds disease early so it can be halted. Immunisation and safe water stop it arising at all.",
+      "as": "দ্বিতীয় স্তৰে ৰোগ সোনকালে ধৰি ৰখায়। টিকাকৰণ আৰু নিৰাপদ পানীয়ে ৰোগ হোৱাই নিদিয়ে।"
+    }
+  },
+  {
+    "id": "nursing-051",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The nurse should advise a pregnant woman to attend antenatal check-ups at least",
+      "as": "নাৰ্ছে গৰ্ভৱতী মহিলাক অন্ততঃ কিমান বাৰ প্ৰসৱপূৰ্ব পৰীক্ষা কৰিবলৈ পৰামৰ্শ দিব লাগে"
+    },
+    "options": [
+      {
+        "en": "four times",
+        "as": "চাৰি বাৰ"
+      },
+      {
+        "en": "once only",
+        "as": "কেৱল এবাৰ"
+      },
+      {
+        "en": "ten times",
+        "as": "দহ বাৰ"
+      },
+      {
+        "en": "never",
+        "as": "কেতিয়াও নহয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Four visits catch anaemia, hypertension and malpresentation in time. A single visit cannot track a changing pregnancy.",
+      "as": "চাৰি বাৰে ৰক্তহীনতা, উচ্চ ৰক্তচাপ আৰু ভুল অৱস্থান সময়মতে ধৰে। এবাৰে সলনি হোৱা গৰ্ভাৱস্থা অনুসৰণ নকৰে।"
+    }
+  },
+  {
+    "id": "nursing-052",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The main aim of a nutrition programme in the community is to",
+      "as": "সমাজত পুষ্টি কাৰ্যসূচীৰ মূল লক্ষ্য"
+    },
+    "options": [
+      {
+        "en": "prevent malnutrition among vulnerable groups",
+        "as": "দুৰ্বল গোটত কুপুষ্টি ৰোধ কৰা"
+      },
+      {
+        "en": "increase food prices",
+        "as": "খাদ্যৰ দাম বঢ়োৱা"
+      },
+      {
+        "en": "reduce the number of shops",
+        "as": "দোকানৰ সংখ্যা কমোৱা"
+      },
+      {
+        "en": "encourage tobacco use",
+        "as": "তামোল-তামাখু ব্যৱহাৰ উৎসাহিত কৰা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Programmes target children, pregnant women and the elderly because these groups suffer most when intake is poor.",
+      "as": "কাৰ্যসূচীয়ে শিশু, গৰ্ভৱতী মহিলা আৰু বয়সীয়ালক লক্ষ্য কৰে কাৰণ কম খাদ্যত এইবোৰ গোটেই বেছি ভোগে।"
+    }
+  },
+  {
+    "id": "nursing-053",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "A nurse working in a rural sub-centre is expected to",
+      "as": "গ্ৰাম্য উপ-কেন্দ্ৰত কাম কৰা নাৰ্ছৰপৰা আশা কৰা হয়"
+    },
+    "options": [
+      {
+        "en": "provide maternal, child and basic curative services",
+        "as": "মাতৃ, শিশু আৰু মৌলিক চিকিৎসা সেৱা দিয়া"
+      },
+      {
+        "en": "perform major surgery",
+        "as": "ডাঙৰ অস্ত্ৰোপচাৰ কৰা"
+      },
+      {
+        "en": "run an ICU",
+        "as": "ICU চলোৱা"
+      },
+      {
+        "en": "report court cases",
+        "as": "আদালতৰ গোচৰ জনোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The sub-centre handles antenatal care, delivery, immunisation and simple illness. Surgery and intensive care need a higher facility.",
+      "as": "উপ-কেন্দ্ৰই প্ৰসৱপূৰ্ব সেৱা, প্ৰসৱ, টিকাকৰণ আৰু সাধাৰণ ৰোগ চম্ভালে। অস্ত্ৰোপচাৰ আৰু নিবিড় সেৱালৈ ওপৰৰ সুবিধা লাগে।"
+    }
+  },
+  {
+    "id": "nursing-054",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Which of the following best describes health education?",
+      "as": "তলৰ কোনটোৱে স্বাস্থ্য শিক্ষা ভালদৰে বৰ্ণনা কৰে"
+    },
+    "options": [
+      {
+        "en": "helping people adopt healthy behaviour voluntarily",
+        "as": "মানুহক স্বেচ্ছাই স্বাস্থ্যকৰ আচৰণ ল'বলৈ সহায় কৰা"
+      },
+      {
+        "en": "giving orders to patients",
+        "as": "ৰোগীক আদেশ দিয়া"
+      },
+      {
+        "en": "distributing medicines only",
+        "as": "কেৱল ঔষধ বিতৰণ কৰা"
+      },
+      {
+        "en": "charging for advice",
+        "as": "পৰামৰ্শৰ বাবে ধন লোৱা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Education works through understanding and choice, not compulsion. Orders may be obeyed briefly but are not learning.",
+      "as": "শিক্ষা বুজা আৰু বাছনিৰ জৰিয়তে কাম কৰে, বাধ্যবাধকতাৰে নহয়। আদেশ অলপ সময় পালিব পাৰি কিন্তু শিকা নহয়।"
+    }
+  },
+  {
+    "id": "nursing-055",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "In community nursing, a 'family folder' is used to",
+      "as": "সমাজ নাৰ্ছিংত 'পৰিয়াল ফোল্ডাৰ' ব্যৱহাৰ কৰা হয় কিৰ বাবে"
+    },
+    "options": [
+      {
+        "en": "keep one record of every member's health",
+        "as": "প্ৰতিজন সদস্যৰ স্বাস্থ্যৰ একেলগে অভিলেখ ৰাখিবলৈ"
+      },
+      {
+        "en": "store money",
+        "as": "ধন ৰাখিবলৈ"
+      },
+      {
+        "en": "keep medicine samples",
+        "as": "ঔষধৰ নমুনা ৰাখিবলৈ"
+      },
+      {
+        "en": "file court papers",
+        "as": "আদালতৰ কাগজ ৰাখিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A single folder per household shows patterns across members, such as repeated infections or untreated cases.",
+      "as": "প্ৰতি ঘৰৰ এটা ফোল্ডাৰে সদস্যৰ মাজৰ আৰ্হি দেখুৱায়, যেনে পুনৰাই পুনৰাই সংক্ৰমণ বা অচিকিৎসিত ৰোগ।"
+    }
+  },
+  {
+    "id": "nursing-056",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The nurse explains that a latrine is important because it",
+      "as": "নাৰ্ছে বুজায় যে শৌচালয় গুৰুত্বপূৰ্ণ কাৰণ ই"
+    },
+    "options": [
+      {
+        "en": "prevents faecal contamination of water and soil",
+        "as": "পানী আৰু মাটিৰ মলীয়া দূষণ ৰোধ কৰে"
+      },
+      {
+        "en": "makes the house look nice",
+        "as": "ঘৰ ধুনীয়া দেখুৱায়"
+      },
+      {
+        "en": "saves electricity",
+        "as": "বিদ্যুৎ সঞ্চয় কৰে"
+      },
+      {
+        "en": "increases land value",
+        "as": "মাটিৰ মূল্য বঢ়ায়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Open defecation spreads hookworm, cholera and typhoid through soil and water. A latrine breaks that route.",
+      "as": "মুকলিত পায়খানাই মাটি আৰু পানীৰ জৰিয়তে হুকৱৰ্ম, কলera আৰু টাইফয়েড বিয়পায়। শৌচালয়ে সেই পথ ভাঙে।"
+    }
+  },
+  {
+    "id": "nursing-057",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Which of the following is the correct definition of infant mortality rate?",
+      "as": "শিশু মৃত্যু হাৰৰ শুদ্ধ সংজ্ঞা কোনটো"
+    },
+    "options": [
+      {
+        "en": "deaths under one year of age per 1000 live births",
+        "as": "এক বছৰৰ তলৰ মৃত্যু প্ৰতি ১০০০ জীৱিত জন্মত"
+      },
+      {
+        "en": "deaths under five years per 1000 population",
+        "as": "পাঁচ বছৰৰ তলৰ মৃত্যু প্ৰতি ১০০০ লোকত"
+      },
+      {
+        "en": "deaths in the first month per 100 population",
+        "as": "প্ৰথম মাহৰ মৃত্যু প্ৰতি ১০০ লোকত"
+      },
+      {
+        "en": "stillbirths per 1000 women",
+        "as": "প্ৰতি ১০০০ মহিলাত মৃত জন্ম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The numerator counts deaths before the first birthday and the denominator is live births, scaled to a thousand.",
+      "as": "লৱত প্ৰথম জন্মদিনৰ আগতে মৃত্যু গণা হয় আৰু হৰত জীৱিত জন্ম, এহাজাৰলৈ বৃদ্ধি কৰি।"
+    }
+  },
+  {
+    "id": "nursing-058",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "A community nurse's home visit should begin with",
+      "as": "সমাজ নাৰ্ছৰ ঘৰুৱা পৰিদৰ্শন আৰম্ভ হ'ব লাগে"
+    },
+    "options": [
+      {
+        "en": "introducing herself and stating the purpose",
+        "as": "নিজৰ পৰিচয় দি উদ্দেশ্য কোৱাৰে"
+      },
+      {
+        "en": "checking the kitchen first",
+        "as": "প্ৰথমে ৰান্ধনীঘৰ পৰীক্ষা কৰি"
+      },
+      {
+        "en": "writing the report",
+        "as": "ৰিপৰ্ট লিখি"
+      },
+      {
+        "en": "asking for payment",
+        "as": "ধন বিচাৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A clear introduction wins consent and cooperation, without which the visit achieves nothing. The report is written at the end.",
+      "as": "স্পষ্ট পৰিচয়ে সন্মতি আৰু সহযোগিতা আনে, নহ'লে পৰিদৰ্শনে একো নকৰে। ৰিপৰ্ট শেষত লিখা হয়।"
+    }
+  },
+  {
+    "id": "nursing-059",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "Which condition should be referred urgently from a sub-centre?",
+      "as": "উপ-কেন্দ্ৰৰপৰা কোন অৱস্থা জৰুৰীভাৱে প্ৰেৰণ কৰিব লাগে"
+    },
+    "options": [
+      {
+        "en": "eclampsia in a pregnant woman",
+        "as": "গৰ্ভৱতী মহিলাৰ এক্লেম্পছিয়া"
+      },
+      {
+        "en": "a mild headache",
+        "as": "সাধাৰণ মূৰৰ বিষ"
+      },
+      {
+        "en": "a small bruise",
+        "as": "সৰু খুঁ‌জ"
+      },
+      {
+        "en": "a dry cough for one day",
+        "as": "এদিনৰ শুকান কাহ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Eclampsia means fits with high blood pressure in pregnancy and kills without magnesium sulphate and delivery. Minor complaints can wait.",
+      "as": "এক্লেম্পছিয়া মানে গৰ্ভাৱস্থাত উচ্চ ৰক্তচাপৰ সৈতে খিঁচ। মেগনেছিয়াম ছালফেট আৰু প্ৰসৱ নহ'লে মৃত্যু হয়। সাধাৰণ সমস্যা অপেক্ষা কৰিব পাৰে।"
+    }
+  },
+  {
+    "id": "nursing-060",
+    "leaf": "community-health-nursing",
+    "q": {
+      "en": "The nurse teaches a mother to prepare oral rehydration solution by",
+      "as": "নাৰ্ছে মাকক মুখেৰে পানীশূন্যতা পূৰণ দ্ৰৱ বনাবলৈ শিকায়"
+    },
+    "options": [
+      {
+        "en": "mixing the full sachet in the stated volume of clean water",
+        "as": "নিৰ্দিষ্ট পৰিমাণৰ পৰিষ্কাৰ পানীত গোটেই পেকেট মিহলাই"
+      },
+      {
+        "en": "adding extra sugar for taste",
+        "as": "সোৱাদৰ বাবে বেছি চেনি যোগ কৰি"
+      },
+      {
+        "en": "using hot water and no measuring",
+        "as": "গৰম পানী ব্যৱহাৰ কৰি নজুখাকৈ"
+      },
+      {
+        "en": "halving the water",
+        "as": "পানী আধা কৰি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The sachet is balanced for a fixed volume, so measuring keeps the salt concentration correct. Extra sugar or less water makes it worse.",
+      "as": "পেকেট নিৰ্দিষ্ট পৰিমাণৰ বাবে সন্তুলিত, সেয়ে জুখিলে লৱণৰ ঘনত্ব শুদ্ধ থাকে। বেছি চেনি বা কম পানীয়ে অৱস্থা বেয়া কৰে।"
+    }
+  }
+]
