@@ -2838,3 +2838,55 @@ the build deletes them) → `build-as-twins.js` → `build-question-counts.js`
 → `sync-home-hero-count.js`. `--check` is valid on
 `build-dhs-dme-technical.js` (it maps to `DRY`); the `--dry-run` warning
 above applies to the older `build-dhs-dme.js`.
+
+## Session record — Nov 2026 DHS & DME Technical Grade III, Nursing & Biology
+
+**The count badges were blank because of a cache header, not a data bug.**
+`data/counts.json` is served with `cache-control: max-age=600`, and
+`getCounts()` in `js/api.src.js` called bare `fetch()` while every other
+caller used `fetchJSON()`, which already passed `cache: "no-store"`. A
+`?v=` query string does **not** bust the GitHub Pages CDN — verified by
+requesting the same file with two different `?v=` values and getting an
+identical etag and age. Adding `cache: "no-store"` to `getCounts()` was the
+fix. When a badge looks stale, check the fetch options before the data.
+
+**A leaf with no bank renders no badge at all.** The card only prints a
+count when `h > 0`, so an unwritten group looks like a rendering fault. The
+Nursing & Paramedical group had twelve leaves and zero questions; filling
+them made the badges appear with no template change.
+
+**Hard-level items need the situation in the stem, not the fact.** For a
+Grade III technical paper the stem describes a patient, a stain or a
+reading, and the option set differs by mechanism rather than by vocabulary.
+`tools/dhs-dme-technical.biology-hard.js` is the worked example: 50 items
+across eight leaves, each explanation naming why the other three options
+fail.
+
+**Balance the key inside the source, not afterwards.** A hand-written batch
+naturally puts the right answer first, which produces a 50/0/0/0 key. The
+`add()` helper in that file rotates the option array by
+`Number(id digits) % 4` and recomputes `correct`, so the key lands
+12/13/13/12 and a rebuild is still deterministic. `tools/balance-answer-keys.js`
+only rewrites published `data/exams` files and refuses items containing
+figures, so it cannot fix a generator-authored batch.
+
+**Cross-book duplicates need a fuzzy pass, not an exact one.** The same
+fact written twice rarely matches byte for byte. A Jaccard comparison of
+stems against all 43,926 non-biology items flagged one item at 0.70
+similarity (a malaria vector question that also existed in
+`general-science`); exact-match checking had reported zero. Reword the stem
+so it asks a different question about the same fact — here, which insect
+carries sporozoites in its salivary glands — rather than deleting the item.
+
+**Article panels are a separate render step and the build deletes them.**
+`build-dhs-dme-technical.js` rewrites the topic pages from scratch, so the
+`axo-extra-content` block disappears and must be re-added by
+`node tools/dhs-dme-technical.extra.js` before `build-as-twins.js` copies it
+into the `/as/` twin. A page can show the correct question count and still
+have no study panel if that step is skipped.
+
+**Word floors are counted on the panel, not the file.** The biology article
+now holds 24 English paragraphs (3,288 words) and 24 Assamese paragraphs
+(2,568 words); the nine paragraphs added in this session were 1,753 English
+words on their own, which clears the 1,300-word floor without counting the
+key-facts list or the FAQs.
