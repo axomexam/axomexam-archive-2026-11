@@ -2916,6 +2916,37 @@ across every book and need care:
    confirm the non-target changes are limited to `js/` hashes, `sw.js`
    `CACHE_VERSION` and `data/counts.json` — anything else is out of scope.
 
+### Nursing bank — fifty per leaf
+
+`tools/dhs-dme-technical.nursing-more.js` holds the original 360 items
+(30 per leaf). `tools/dhs-dme-technical.nursing-extra.js` adds 20 more per
+leaf and re-exports the concatenation of its three siblings
+(`nursing-extra2/3/4.js`), which exist only to keep each file readable.
+
+**Every `add()` rotates its options.** The shift is
+`id_digits % 4`, so the correct key spreads evenly instead of sitting in
+slot A. This matters: before the rotation was added, all 360 items had
+`correct: 0`, and a student could score 100 per cent by picking A every
+time. Two consequences when editing:
+
+- Never hand-write `correct` expecting a particular slot — read the built
+  JSON to see where it landed.
+- Re-merging a generator rewrites its items, so after changing a generator
+  run `merge-bank.js` for it, not just for the new file. The merge is keyed
+  by id and reports `replaced`, which is the signal that a generator was
+  re-applied.
+
+Both generators must be merged, in either order, because the bank is keyed
+by id and the two id ranges do not overlap:
+
+```bash
+node tools/merge-bank.js nursing-paramedical dhs-dme-technical.nursing-more.js
+node tools/merge-bank.js nursing-paramedical dhs-dme-technical.nursing-extra.js
+```
+
+Check the result with `key dist` per leaf — it should be about 12/13/13/12,
+never 50/0/0/0.
+
 **Audit the scope before committing.** Hash-stamp churn makes a diff look
 far wider than it is. This comparison ignores `?v=` hashes and `CACHE_VERSION`
 and lists only files whose actual content moved:
