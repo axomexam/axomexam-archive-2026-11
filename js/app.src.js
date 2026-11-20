@@ -4952,14 +4952,24 @@
     return !!(exam && EXAM_BOOKS_READY.indexOf(exam.id) !== -1 && (exam.sections || []).length);
   }
 
-  /* Books whose cover and card are live (the card reads "Read Now") but whose
-     question banks are still being uploaded. Opening one shows a short
-     "content is being prepared" popup instead of an empty book.
-     Empty today: every book listed as ready ships its banks, so the popup is
-     dormant. Keep the mechanism for the next book that launches early. */
-  const EXAM_BOOKS_PREPARING = [];
+  /* Display order of the ready books on /exams/. Title sort cannot express
+     this because "DHS & DME Technical Grade III" must sit after "RRB NTPC".
+     Books missing from this list fall through to alphabetical order. */
+  const EXAM_BOOK_ORDER = ["adre-grade-3", "adre-grade-4", "assam-police", "rrb-ntpc", "dhs-dme-technical"];
+  function examBookOrderRank(exam) {
+    const i = exam ? EXAM_BOOK_ORDER.indexOf(exam.id) : -1;
+    return i === -1 ? EXAM_BOOK_ORDER.length : i;
+  }
+
+  /* Books whose cover and card are live but whose banks are still being
+     written. Opening one shows a work-in-progress popup over the book, so a
+     reader knows the empty sections are pending rather than broken. Each entry
+     carries its own message keys; the popup is dismissible. */
+  const EXAM_BOOKS_PREPARING = {
+    "dhs-dme-technical": { titleKey: "exams.wipTitle", msgKey: "exams.wipMsg" },
+  };
   function examBookIsPreparing(exam) {
-    return !!(exam && EXAM_BOOKS_PREPARING.indexOf(exam.id) !== -1);
+    return !!(exam && Object.prototype.hasOwnProperty.call(EXAM_BOOKS_PREPARING, exam.id));
   }
 
   /* A topic whose bank has not been written yet carries state
@@ -4981,6 +4991,10 @@
     if (!exam || examPreparingPopupSeen[exam.id]) return;
     examPreparingPopupSeen[exam.id] = true;
 
+    const cfg = EXAM_BOOKS_PREPARING[exam.id] || {};
+    const titleKey = cfg.titleKey || "exams.preparingTitle";
+    const msgKey = cfg.msgKey || "exams.preparingMsg";
+
     const existing = $("#exam-preparing-modal");
     if (existing) existing.remove();
 
@@ -4989,9 +5003,9 @@
     modal.className = "read-modal";
     modal.innerHTML = `
       <div class="read-modal-backdrop"></div>
-      <div class="read-modal-box confirm-modal-box" role="dialog" aria-modal="true">
-        <h3 style="font-size:1.12rem; margin-bottom:9px;">${escapeHtml(t("exams.preparingTitle"))}</h3>
-        <p style="color:var(--ink-soft); font-size:.9rem; margin-bottom:18px; line-height:1.55;">${escapeHtml(t("exams.preparingMsg"))}</p>
+      <div class="read-modal-box confirm-modal-box" role="dialog" aria-modal="true" aria-labelledby="exam-preparing-title">
+        <h3 id="exam-preparing-title" style="font-size:1.12rem; margin-bottom:9px;">${escapeHtml(t(titleKey))}</h3>
+        <p style="color:var(--ink-soft); font-size:.9rem; margin-bottom:18px; line-height:1.55;">${escapeHtml(t(msgKey))}</p>
         <div style="display:flex; gap:10px; justify-content:center;">
           <button class="btn btn-primary" id="exam-preparing-ok" style="flex:1;">${escapeHtml(t("exams.preparingOk"))}</button>
         </div>
@@ -5295,6 +5309,11 @@
       const av = examBookIsReady(a) ? 0 : 1;
       const bv = examBookIsReady(b) ? 0 : 1;
       if (av !== bv) return av - bv;
+      if (av === 0) {
+        const ar = examBookOrderRank(a);
+        const br = examBookOrderRank(b);
+        if (ar !== br) return ar - br;
+      }
       return ebkLang(a.title, "en").localeCompare(ebkLang(b.title, "en"));
     });
 
