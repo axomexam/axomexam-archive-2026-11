@@ -299,6 +299,71 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+## Session record — Nov 2026 DHS & DME Technical Grade III content (Biology + Assam History)
+
+The DHS & DME Technical Grade III book is the only area in scope for content
+work. Two sections were expanded in this session.
+
+**Biology** (`technical-science/biology`) went from 399 to 429 items and the
+study article from 3,800 to 5,225 English words. The new items are situational
+stems written at Grade III technical difficulty, bilingual in stem, all four
+options and explanation.
+
+The bank had been authored answer-first, so 246 of 399 keys sat on option A.
+`tools/rebalance-biology-keys.js` rotates each item's options per leaf and
+rewrites `correct` to match; stems, option wording and explanations are left
+alone. Leaf membership is read from the built leaf files, so the classification
+rules stay in one place. Every leaf now sits within ±1 of an even spread.
+
+**Assam History** (`general-knowledge/assam-history`) was one flat leaf of 80
+items and is now three leaves:
+
+| leaf | items |
+|---|---|
+| `assam-history-ancient` | 114 |
+| `assam-history-medieval` | 113 |
+| `assam-history-modern` | 101 |
+
+Two mechanisms feed it, and both matter:
+
+- The original 80 items stay in `tools/legacy-banks/.../assam-history/` and are
+  sorted into the three leaves by the `assam-history` rules added to `RULES` in
+  `tools/build-dhs-dme-technical.js`, which read the stem. The fallback is the
+  last leaf in the `LEGACY_BANKS` entry, so a new rule must cover any stem that
+  would otherwise fall through to `assam-history-modern`.
+- The 248 new items are authored as row arrays in
+  `tools/assam-history-src/{ancient,medieval,modern}-part*.json` and generated
+  into `tools/dhs-dme-technical.assam-history-extra.js` by
+  `tools/gen-dhs-assam-history.js`. Each generated item carries an explicit
+  `leaf`, which `classify()` honours before any regex runs. That is deliberate:
+  Assam History vocabulary overlaps badly across periods (a "Koch" stem can be
+  medieval politics or modern land policy), so a stem regex cannot be trusted
+  for authored bulk content.
+
+Row format is nine fields —
+`[qEn, qAs, [o1En,o1As], [o2En,o2As], [o3En,o3As], [o4En,o4As], correct, exEn, exAs]`
+— where `correct` indexes the option order as written. The generator rotates
+options by the item's **position inside its leaf** (`i % 4`), not by a global
+sequence number. A global counter produced an almost constant shift within a
+leaf and pushed 98 of 114 ancient keys onto option B; the per-leaf index gives
+an even spread.
+
+**Rebuild order after touching either section:**
+
+```bash
+node tools/gen-dhs-assam-history.js          # only when source rows changed
+node tools/build-dhs-dme-technical.js
+node tools/dhs-dme-technical.extra.js
+node tools/build-as-twins.js
+node tools/build-question-counts.js
+node tools/sync-home-hero-count.js
+```
+
+Merging generated items into the legacy bank must be idempotent — filter out
+every id containing `-extra-` before appending, or a second run doubles the
+bank. Verified: 328 unique ids, zero duplicate stems (exact and 8-word prefix),
+zero bilingual gaps, every item with exactly four bilingual options.
+
 ## Session record — Nov 2026 RRB NTPC Analytical Reasoning banks, batch 2 (4 topics × 80)
 
 Four more analytical-logical-reasoning leaf banks were filled from their
