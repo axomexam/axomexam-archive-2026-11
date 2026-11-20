@@ -320,9 +320,12 @@ items and is now three leaves:
 
 | leaf | items |
 |---|---|
-| `assam-history-ancient` | 114 |
-| `assam-history-medieval` | 113 |
-| `assam-history-modern` | 101 |
+| `assam-history-ancient` | 250 |
+| `assam-history-medieval` | 289 |
+| `assam-history-modern` | 257 |
+
+Total 796. The count is well past the 250 per leaf the owner asked for, which
+leaves room to retire weak items without dropping a leaf below target.
 
 Two mechanisms feed it, and both matter:
 
@@ -361,8 +364,27 @@ node tools/sync-home-hero-count.js
 
 Merging generated items into the legacy bank must be idempotent — filter out
 every id containing `-extra-` before appending, or a second run doubles the
-bank. Verified: 328 unique ids, zero duplicate stems (exact and 8-word prefix),
-zero bilingual gaps, every item with exactly four bilingual options.
+bank.
+
+**A shared stem template is the real duplicate risk, not identical wording.**
+Ten items had to be reworded at 796 scale even though only one was an exact
+repeat. Seven opened with the same eight words as another item ("The ancient
+Kamarupa kings' grants show that the state …", "The Ahom kingdom's main reason
+for …"), which reads as the same question to a candidate and would fail any
+similarity check. Two more had a common opening that made different answers
+look like a contradiction. Audit at both eight and ten word prefixes, not just
+on exact matches — exact matching missed all of them.
+
+Verified at 796: zero duplicate stems at eight and ten word prefixes, zero
+duplicate options inside any item, zero bilingual gaps, every item with four
+bilingual options and a bilingual explanation. Keys are balanced per leaf
+(ancient 63/61/64/62, medieval 74/69/73/73, modern 67/65/61/64) because the
+generator rotates by position inside the leaf.
+
+**Assamese text must not carry English words.** Two leaked in ("pilots",
+"assamica") and were only caught by scanning for `[A-Za-z]{3,}` inside the
+Assamese fields. Acronyms already in the legacy bank (AASU, NEFA) are fine;
+anything else is a defect.
 
 ## Session record — Nov 2026 RRB NTPC Analytical Reasoning banks, batch 2 (4 topics × 80)
 
