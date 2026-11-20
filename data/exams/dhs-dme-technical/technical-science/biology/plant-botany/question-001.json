@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "Chloroplast",
-        "as": "ক্ল’ৰপ্লাষ্ট"
-      },
-      {
-        "en": "Mitochondria",
-        "as": "মাইট’কণ্ড্ৰিয়া"
-      },
-      {
         "en": "Nucleus",
         "as": "নিউক্লিয়াছ"
       },
       {
         "en": "Ribosome",
         "as": "ৰাইব’জম"
+      },
+      {
+        "en": "Chloroplast",
+        "as": "ক্ল’ৰপ্লাষ্ট"
+      },
+      {
+        "en": "Mitochondria",
+        "as": "মাইট’কণ্ড্ৰিয়া"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Photosynthesis takes place in the chloroplast, which contains chlorophyll.",
       "as": "সালোক সংশ্লেষণ ক্ল’ৰপ্লাষ্টত হয়, য'ত ক্ল’ৰফিল থাকে।"
@@ -37,23 +37,23 @@
     },
     "options": [
       {
-        "en": "Haemoglobin",
-        "as": "হিমোগ্লবিন"
-      },
-      {
-        "en": "Chlorophyll",
-        "as": "ক্ল’ৰফিল"
-      },
-      {
         "en": "Melanin",
         "as": "মেলানিন"
       },
       {
         "en": "Carotene",
         "as": "কেৰটিন"
+      },
+      {
+        "en": "Haemoglobin",
+        "as": "হিমোগ্লবিন"
+      },
+      {
+        "en": "Chlorophyll",
+        "as": "ক্ল’ৰফিল"
       }
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "en": "Chlorophyll is the green pigment that absorbs sunlight for photosynthesis.",
       "as": "ক্ল’ৰফিল হৈছে সেউজীয়া ৰঞ্জক যিয়ে সালোক সংশ্লেষণৰ বাবে সূৰ্যৰ পোহৰ শোষণ কৰে।"
@@ -67,23 +67,23 @@
     },
     "options": [
       {
-        "en": "Respiration",
-        "as": "শ্বসন"
-      },
-      {
-        "en": "Transpiration",
-        "as": "বাষ্পমোচন"
-      },
-      {
         "en": "Photosynthesis",
         "as": "সালোক সংশ্লেষণ"
       },
       {
         "en": "Digestion",
         "as": "হজম"
+      },
+      {
+        "en": "Respiration",
+        "as": "শ্বসন"
+      },
+      {
+        "en": "Transpiration",
+        "as": "বাষ্পমোচন"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "Green plants prepare food from carbon dioxide and water using sunlight; this process is called photosynthesis.",
       "as": "সেউজীয়া উদ্ভিদে সূৰ্যৰ পোহৰ ব্যৱহাৰ কৰি কাৰ্বন ডাইঅক্সাইড আৰু পানীৰ পৰা খাদ্য প্ৰস্তুত কৰে; ইয়াক সালোক সংশ্লেষণ বোলে।"
@@ -97,6 +97,10 @@
     },
     "options": [
       {
+        "en": "Oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
         "en": "Carbon dioxide",
         "as": "কাৰ্বন ডাইঅক্সাইড"
       },
@@ -107,13 +111,9 @@
       {
         "en": "Hydrogen",
         "as": "হাইড্ৰজেন"
-      },
-      {
-        "en": "Oxygen",
-        "as": "অক্সিজেন"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "en": "Oxygen is released as a by-product during photosynthesis.",
       "as": "সালোক সংশ্লেষণৰ উপজাত হিচাপে অক্সিজেন মুক্ত হয়।"
@@ -127,10 +127,6 @@
     },
     "options": [
       {
-        "en": "Lotus",
-        "as": "পদুম"
-      },
-      {
         "en": "Rose",
         "as": "গোলাপ"
       },
@@ -141,9 +137,13 @@
       {
         "en": "Sunflower",
         "as": "সূৰ্যমুখী"
+      },
+      {
+        "en": "Lotus",
+        "as": "পদুম"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "The foxtail orchid, locally called Kopou phool, is the state flower of Assam.",
       "as": "কপৌ ফুল অসমৰ ৰাজ্যিক পুষ্প।"
@@ -157,23 +157,23 @@
     },
     "options": [
       {
-        "en": "Botany",
-        "as": "উদ্ভিদ বিজ্ঞান"
-      },
-      {
-        "en": "Zoology",
-        "as": "প্ৰাণী বিজ্ঞান"
-      },
-      {
         "en": "Ecology",
         "as": "পৰিস্থিতি বিজ্ঞান"
       },
       {
         "en": "Anatomy",
         "as": "শৰীৰস্থান"
+      },
+      {
+        "en": "Botany",
+        "as": "উদ্ভিদ বিজ্ঞান"
+      },
+      {
+        "en": "Zoology",
+        "as": "প্ৰাণী বিজ্ঞান"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The study of plants is called botany.",
       "as": "উদ্ভিদৰ অধ্যয়নক উদ্ভিদ বিজ্ঞান (বটানি) বোলে।"
@@ -187,23 +187,23 @@
     },
     "options": [
       {
-        "en": "Phycology",
-        "as": "শৈবাল বিজ্ঞান"
-      },
-      {
-        "en": "Virology",
-        "as": "ভাইৰাছ বিজ্ঞান"
-      },
-      {
         "en": "Mycology",
         "as": "ভঁইকুৰ বিজ্ঞান"
       },
       {
         "en": "Bacteriology",
         "as": "বেক্টেৰিয়া বিজ্ঞান"
+      },
+      {
+        "en": "Phycology",
+        "as": "শৈবাল বিজ্ঞান"
+      },
+      {
+        "en": "Virology",
+        "as": "ভাইৰাছ বিজ্ঞান"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "The study of fungi is called mycology.",
       "as": "ভঁইকুৰৰ অধ্যয়নক ভঁইকুৰ বিজ্ঞান (মাইক’লজি) বোলে।"
@@ -277,6 +277,10 @@
     },
     "options": [
       {
+        "en": "Leaves",
+        "as": "পাত"
+      },
+      {
         "en": "Roots",
         "as": "শিপা"
       },
@@ -287,13 +291,9 @@
       {
         "en": "Flowers only",
         "as": "কেৱল ফুল"
-      },
-      {
-        "en": "Leaves",
-        "as": "পাত"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "en": "Stomata are tiny pores present mainly on the leaves.",
       "as": "ষ্ট’মেটা মূলতঃ পাতত থকা সূক্ষ্ম ৰন্ধ্ৰ।"
@@ -307,10 +307,6 @@
     },
     "options": [
       {
-        "en": "Loss of water vapour from plants",
-        "as": "উদ্ভিদৰ পৰা জলীয় বাষ্প হেৰুৱা"
-      },
-      {
         "en": "Absorption of water",
         "as": "পানী শোষণ"
       },
@@ -321,9 +317,13 @@
       {
         "en": "Respiration",
         "as": "শ্বসন"
+      },
+      {
+        "en": "Loss of water vapour from plants",
+        "as": "উদ্ভিদৰ পৰা জলীয় বাষ্প হেৰুৱা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Transpiration is the loss of water vapour from the aerial parts of plants.",
       "as": "বাষ্পমোচন হৈছে উদ্ভিদৰ বায়ৱীয় অংশৰ পৰা জলীয় বাষ্প হেৰুওৱা প্ৰক্ৰিয়া।"
@@ -337,10 +337,6 @@
     },
     "options": [
       {
-        "en": "Rose",
-        "as": "গোলাপ"
-      },
-      {
         "en": "Rafflesia",
         "as": "ৰাফ্লেছিয়া"
       },
@@ -351,9 +347,13 @@
       {
         "en": "Sunflower",
         "as": "সূৰ্যমুখী"
+      },
+      {
+        "en": "Rose",
+        "as": "গোলাপ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "en": "Rafflesia is the largest flower in the world.",
       "as": "ৰাফ্লেছিয়া বিশ্বৰ আটাইতকৈ ডাঙৰ ফুল।"
@@ -367,6 +367,10 @@
     },
     "options": [
       {
+        "en": "Making cellulose only",
+        "as": "কেৱল চেলুলোজ তৈয়াৰ"
+      },
+      {
         "en": "Making fats only",
         "as": "কেৱল চৰ্বি তৈয়াৰ"
       },
@@ -377,13 +381,9 @@
       {
         "en": "Making starch only",
         "as": "কেৱল ষ্টাৰ্চ তৈয়াৰ"
-      },
-      {
-        "en": "Making cellulose only",
-        "as": "কেৱল চেলুলোজ তৈয়াৰ"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "Plants need nitrogen to make proteins.",
       "as": "উদ্ভিদক প্ৰ’টিন তৈয়াৰ কৰিবলৈ নাইট্ৰজেন লাগে।"
@@ -397,6 +397,10 @@
     },
     "options": [
       {
+        "en": "concentric",
+        "as": "কেন্দ্ৰী"
+      },
+      {
         "en": "radial",
         "as": "অৰীয়"
       },
@@ -407,13 +411,9 @@
       {
         "en": "open",
         "as": "মুকলিত"
-      },
-      {
-        "en": "concentric",
-        "as": "কেন্দ্ৰী"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "Cambium between the two tissues lets the bundle add secondary xylem and phloem, so it is open. A monocot bundle without cambium is closed.",
       "as": "দুয়োটা কলাৰ মাজত কেম্বিয়াম থকাৰ বাবে বাণ্ডলে গৌণ জাইলেম আৰু ফ্ল'য়েম যোগ কৰিব পাৰে, সেয়ে ই মুকলি। কেম্বিয়াম নথকা একবীজপত্ৰী বাণ্ডল বন্ধ।"
@@ -427,10 +427,6 @@
     },
     "options": [
       {
-        "en": "only through the apoplast of the leaf",
-        "as": "কেৱল পাতৰ এপ'প্লাষ্টৰ মাজেৰে"
-      },
-      {
         "en": "from a sink to a source, against the pressure",
         "as": "চাপৰ বিৰুদ্ধে গন্তব্যস্থানৰ পৰা উৎসলৈ"
       },
@@ -441,9 +437,13 @@
       {
         "en": "from a source where sugar is loaded to a sink where it is unloaded",
         "as": "চেনি ভৰোৱা উৎসৰ পৰা চেনি খালী কৰা গন্তব্যস্থানলৈ"
+      },
+      {
+        "en": "only through the apoplast of the leaf",
+        "as": "কেৱল পাতৰ এপ'প্লাষ্টৰ মাজেৰে"
       }
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": {
       "en": "Sugar loaded at the source draws water in by osmosis. The resulting pressure pushes sap towards the sink, where sugar is removed and the pressure falls.",
       "as": "উৎসত ভৰোৱা চেনিয়ে অভিস্ৰৱণেৰে পানী টানি আনে। সৃষ্টি হোৱা চাপে ৰসক গন্তব্যস্থানলৈ ঠেলে, য'ত চেনি আঁতৰাই দিয়া হয় আৰু চাপ কমে।"
@@ -519,23 +519,23 @@
     },
     "options": [
       {
-        "en": "transpiration",
-        "as": "বাষ্পোৎসৰ্জন"
-      },
-      {
-        "en": "respiration",
-        "as": "শ্বসন"
-      },
-      {
         "en": "guttation",
         "as": "নিঃস্ৰৱণ"
       },
       {
         "en": "translocation",
         "as": "স্থানান্তৰণ"
+      },
+      {
+        "en": "transpiration",
+        "as": "বাষ্পোৎসৰ্জন"
+      },
+      {
+        "en": "respiration",
+        "as": "শ্বসন"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Transpiration is loss of water vapour, mostly through stomata, and it pulls the water column up. Guttation is loss of liquid water droplets from leaf tips.",
       "as": "বাষ্পোৎসৰ্জন মূলতঃ ৰন্ধ্ৰৰে পানীৰ ভাপ হেৰুওৱা আৰু ই পানীৰ স্তম্ভ ওপৰলৈ টানে। নিঃস্ৰৱণ পাতৰ আগৰপৰা জুলীয়া পানীৰ টোপাল হেৰুওৱা।"
@@ -550,6 +550,10 @@
     },
     "options": [
       {
+        "en": "imbibition",
+        "as": "অৱশোষণ"
+      },
+      {
         "en": "guttation",
         "as": "নিঃস্ৰৱণ"
       },
@@ -560,13 +564,9 @@
       {
         "en": "exudation",
         "as": "ৰসক্ষৰণ"
-      },
-      {
-        "en": "imbibition",
-        "as": "অৱশোষণ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Guttation releases liquid droplets through hydathodes when root pressure is high. Transpiration releases vapour, so the two differ in the state of the water lost.",
       "as": "মূল চাপ বেছি হ'লে নিঃস্ৰৱণে হাইডাথ'ডৰ জৰিয়তে জুলীয়া টোপাল এৰে। বাষ্পোৎসৰ্জনে ভাপ এৰে, সেয়ে দুয়োটা হেৰুওৱা পানীৰ অৱস্থাত বেলেগ।"
@@ -581,23 +581,23 @@
     },
     "options": [
       {
-        "en": "stamen",
-        "as": "পুংকেশৰ"
-      },
-      {
-        "en": "carpel",
-        "as": "গৰ্ভকেশৰ"
-      },
-      {
         "en": "sepal",
         "as": "বৃতি"
       },
       {
         "en": "petal",
         "as": "দল"
+      },
+      {
+        "en": "stamen",
+        "as": "পুংকেশৰ"
+      },
+      {
+        "en": "carpel",
+        "as": "গৰ্ভকেশৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The stamen consists of an anther and a filament and produces pollen. The carpel is the female part, while sepals and petals are accessory whorls.",
       "as": "পুংকেশৰত পৰাগপুট আৰু পুংদণ্ড থাকে আৰু পৰাগ উৎপন্ন কৰে। গৰ্ভকেশৰ মাদী অংশ, আৰু বৃতি তথা দল সহায়ক চক্ৰ।"
@@ -612,6 +612,10 @@
     },
     "options": [
       {
+        "en": "pteridophytes",
+        "as": "টেৰিড'ফাইট"
+      },
+      {
         "en": "angiosperms",
         "as": "আৱৃতবীজী"
       },
@@ -622,13 +626,9 @@
       {
         "en": "bryophytes",
         "as": "ব্ৰায়'ফাইট"
-      },
-      {
-        "en": "pteridophytes",
-        "as": "টেৰিড'ফাইট"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Double fertilisation is unique to flowering plants and produces both the embryo and the triploid endosperm. Gymnosperms lack it, so they form endosperm before fertilisation.",
       "as": "দ্বিনিষেচন কেৱল সপুষ্পক উদ্ভিদৰ নিজস্ব আৰু ই ভ্ৰূণ আৰু ত্ৰিগুণ এণ্ড'স্পাৰ্ম দুয়োটা উৎপন্ন কৰে। অনাবৃতবীজীত ই নাই, সেয়ে তেওঁলোকে নিষেচনৰ আগতে এণ্ড'স্পাৰ্ম গঢ়ে।"
@@ -643,6 +643,10 @@
     },
     "options": [
       {
+        "en": "Chlamydomonas",
+        "as": "ক্লেমাইড'ম'নাছ"
+      },
+      {
         "en": "Gelidium",
         "as": "জেলিডিয়াম"
       },
@@ -653,13 +657,9 @@
       {
         "en": "Ulothrix",
         "as": "ইউলথ্ৰিক্স"
-      },
-      {
-        "en": "Chlamydomonas",
-        "as": "ক্লেমাইড'ম'নাছ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Agar is extracted from red algae such as Gelidium and Gracilaria for use in culture media. Spirogyra, Ulothrix and Chlamydomonas are green algae used in studies, not agar sources.",
       "as": "আগ জেলিডিয়াম আৰু গ্ৰেছিলেৰিয়াৰ দৰে ৰঙা শেলাইৰপৰা উলিয়াই কলা মাধ্যমত ব্যৱহাৰ কৰা হয়। স্পাইৰ'গাইৰা, ইউলথ্ৰিক্স আৰু ক্লেমাইড'ম'নাছ অধ্যয়নত ব্যৱহৃত সেউজ শেলাই, আগৰ উৎস নহয়।"
@@ -674,6 +674,10 @@
     },
     "options": [
       {
+        "en": "cytokinin",
+        "as": "ছাইট'কাইনিন"
+      },
+      {
         "en": "auxin",
         "as": "অক্সিন"
       },
@@ -684,13 +688,9 @@
       {
         "en": "ethylene",
         "as": "ইথাইলিন"
-      },
-      {
-        "en": "cytokinin",
-        "as": "ছাইট'কাইনিন"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Auxin accumulates on the shaded side and makes those cells elongate, bending the shoot towards light. Abscisic acid closes stomata and ethylene ripens fruit.",
       "as": "অক্সিন ছাঁ পৰা ফালে জমা হৈ সেই কোষবোৰ দীঘল কৰে, যিয়ে কাণ্ড পোহৰলৈ বেঁকা কৰে। এবছিছিক অ্যাসিডে ৰন্ধ্ৰ বন্ধ কৰে আৰু ইথাইলিনে ফল পকায়।"
@@ -705,6 +705,10 @@
     },
     "options": [
       {
+        "en": "cytokinin",
+        "as": "ছাইট'কাইনিন"
+      },
+      {
         "en": "ethylene",
         "as": "ইথাইলিন"
       },
@@ -715,13 +719,9 @@
       {
         "en": "gibberellin",
         "as": "জিবেৰেলিন"
-      },
-      {
-        "en": "cytokinin",
-        "as": "ছাইট'কাইনিন"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Ethylene is a gaseous hormone that hastens ripening and is used commercially to ripen bananas and tomatoes. Auxin and gibberellin promote growth rather than ripening.",
       "as": "ইথাইলিন এটা গেছীয় হৰম'ন যি পকন ত্বৰান্বিত কৰে আৰু কল আৰু বিলাহী পকাবলৈ বাণিজ্যিকভাৱে ব্যৱহৃত হয়। অক্সিন আৰু জিবেৰেলিনে বৃদ্ধি বঢ়ায়, পকন নহয়।"
@@ -767,23 +767,23 @@
     },
     "options": [
       {
-        "en": "zone of maturation, bearing root hairs",
-        "as": "পৰিপক্ব অঞ্চল, মূল ৰোমযুক্ত"
-      },
-      {
-        "en": "root cap",
-        "as": "মূল ঢাকনি"
-      },
-      {
         "en": "meristematic zone",
         "as": "বিভাজনমূলক অঞ্চল"
       },
       {
         "en": "zone of elongation",
         "as": "দীৰ্ঘীভৱন অঞ্চল"
+      },
+      {
+        "en": "zone of maturation, bearing root hairs",
+        "as": "পৰিপক্ব অঞ্চল, মূল ৰোমযুক্ত"
+      },
+      {
+        "en": "root cap",
+        "as": "মূল ঢাকনি"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Root hairs in the zone of maturation greatly increase the absorbing surface. The root cap protects the tip and the meristematic zone divides to lengthen the root.",
       "as": "পৰিপক্ব অঞ্চলৰ মূল ৰোমে শোষণ পৃষ্ঠ বহু বঢ়ায়। মূল ঢাকনিয়ে আগটো ৰক্ষা কৰে আৰু বিভাজনমূলক অঞ্চলে বিভাজিত হৈ মূল দীঘল কৰে।"
@@ -798,10 +798,6 @@
     },
     "options": [
       {
-        "en": "Mustard",
-        "as": "সৰিয়হ"
-      },
-      {
         "en": "Rice",
         "as": "ধান"
       },
@@ -812,9 +808,13 @@
       {
         "en": "Maize",
         "as": "মাকৈ"
+      },
+      {
+        "en": "Mustard",
+        "as": "সৰিয়হ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Mustard has two cotyledons, a tap root and reticulate leaf venation. Rice, wheat and maize are monocots with one cotyledon and parallel venation.",
       "as": "সৰিয়হত দুটা বীজপত্ৰ, মূলা মূল আৰু জালিকাৰ নাড়ী বিন্যাস থাকে। ধান, গম আৰু মাকৈ একবীজপত্ৰী, য'ত এটা বীজপত্ৰ আৰু সমান্তৰাল নাড়ী বিন্যাস।"
@@ -829,10 +829,6 @@
     },
     "options": [
       {
-        "en": "stomatal opening by ion uptake",
-        "as": "আয়ন গ্ৰহণে ৰন্ধ্ৰ খোলা"
-      },
-      {
         "en": "wilting",
         "as": "ম্লান হোৱা"
       },
@@ -843,9 +839,13 @@
       {
         "en": "imbibition",
         "as": "অৱশোষণ"
+      },
+      {
+        "en": "stomatal opening by ion uptake",
+        "as": "আয়ন গ্ৰহণে ৰন্ধ্ৰ খোলা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Potassium ions enter guard cells, water follows osmotically, the cells become turgid and the pore opens. Wilting is the opposite condition of low turgor.",
       "as": "পটাছিয়াম আয়ন ৰক্ষী কোষত সোমায়, পানী অভিস্ৰৱণে অনুসৰণ কৰে, কোষ স্ফীত হয় আৰু ৰন্ধ্ৰ খোলে। ম্লান হোৱা কম স্ফীতিৰ ওলোটা অৱস্থা।"
@@ -891,10 +891,6 @@
     },
     "options": [
       {
-        "en": "self pollination",
-        "as": "স্ব-পৰাগযোগ"
-      },
-      {
         "en": "cross pollination",
         "as": "পৰ-পৰাগযোগ"
       },
@@ -905,9 +901,13 @@
       {
         "en": "cleistogamy only",
         "as": "কেৱল ক্লাইষ্ট'গেমি"
+      },
+      {
+        "en": "self pollination",
+        "as": "স্ব-পৰাগযোগ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Self pollination happens within one flower or between flowers of the same plant. Cross pollination needs pollen to reach a different plant.",
       "as": "স্ব-পৰাগযোগ এটা ফুলৰ ভিতৰত বা একেই উদ্ভিদৰ ফুলৰ মাজত হয়। পৰ-পৰাগযোগত পৰাগ বেলেগ উদ্ভিদলৈ যাব লাগে।"
@@ -922,10 +922,6 @@
     },
     "options": [
       {
-        "en": "the reduction of carbon dioxide",
-        "as": "কাৰ্বন ডাইঅক্সাইড বিজাৰণৰপৰা"
-      },
-      {
         "en": "the breakdown of glucose",
         "as": "গ্লুক'জ ভগাৰপৰা"
       },
@@ -936,9 +932,13 @@
       {
         "en": "the splitting of water at photosystem II",
         "as": "ফট'ছিষ্টেম II ত পানী ভগাৰপৰা"
+      },
+      {
+        "en": "the reduction of carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড বিজাৰণৰপৰা"
       }
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": {
       "en": "Photolysis of water supplies electrons to replace those lost by chlorophyll and releases oxygen as a by-product. Carbon dioxide is reduced to sugar, so its oxygen ends up in the carbohydrate.",
       "as": "পানীৰ আলোক-বিভাজনে ক্ল'ৰ'ফিলে হেৰুওৱা ইলেক্ট্ৰন যোগায় আৰু উপজাত হিচাপে অক্সিজেন এৰে। কাৰ্বন ডাইঅক্সাইড চেনিলৈ বিজাৰিত হয়, সেয়ে তাৰ অক্সিজেন শৰ্কৰাত থাকে।"
@@ -953,6 +953,10 @@
     },
     "options": [
       {
+        "en": "photosynthesis stops completely",
+        "as": "সালোক-সংশ্লেষণ সম্পূৰ্ণ বন্ধ"
+      },
+      {
         "en": "roots stop respiring",
         "as": "শিপাই শ্বাস লোৱা বন্ধ কৰে"
       },
@@ -963,13 +967,9 @@
       {
         "en": "transpiration exceeds water absorption",
         "as": "বাষ্পোৎসৰ্জনে পানী শোষণতকৈ বেছি"
-      },
-      {
-        "en": "photosynthesis stops completely",
-        "as": "সালোক-সংশ্লেষণ সম্পূৰ্ণ বন্ধ"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "Loss of water vapour through the stomata outruns uptake through the roots, so cells lose turgor and the leaf droops. Recovery at night shows the balance restored, not permanent damage.",
       "as": "ৰন্ধ্ৰৰে বাষ্প হেৰুওৱা শিপাৰ গ্ৰহণতকৈ বেছি হয়, সেয়ে কোষে টাৰ্গৰ হেৰুৱাই পাত মলি যায়। ৰাতি ঠিক হোৱাই দেখুৱায় ভাৰসাম্য ঘূৰিছে, স্থায়ী ক্ষতি হোৱা নাই।"
@@ -984,23 +984,23 @@
     },
     "options": [
       {
-        "en": "fusion of two embryos",
-        "as": "দুটা ভ্ৰূণ মিলা"
-      },
-      {
-        "en": "one male gamete fusing with the egg and another with two polar nuclei",
-        "as": "এটা পুৰুষ গেমেট ডিম্বৰ সৈতে আৰু আনটো দুটা ধ্ৰুৱক কেন্দ্ৰৰ সৈতে মিলা"
-      },
-      {
         "en": "two male gametes fusing with two eggs",
         "as": "দুটা পুৰুষ গেমেটে দুটা ডিম্বৰ সৈতে মিলা"
       },
       {
         "en": "two pollen tubes entering one ovule",
         "as": "দুটা পৰাগ নলী এটা বীজাণ্ডত সোমোৱা"
+      },
+      {
+        "en": "fusion of two embryos",
+        "as": "দুটা ভ্ৰূণ মিলা"
+      },
+      {
+        "en": "one male gamete fusing with the egg and another with two polar nuclei",
+        "as": "এটা পুৰুষ গেমেট ডিম্বৰ সৈতে আৰু আনটো দুটা ধ্ৰুৱক কেন্দ্ৰৰ সৈতে মিলা"
       }
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "en": "One gamete forms the zygote and the other fuses with the two polar nuclei to make the triploid endosperm, which feeds the embryo. Only one egg is fertilised, not two.",
       "as": "এটা গেমেটে জাইগ'ট আৰু আনটোৱে দুটা ধ্ৰুৱক কেন্দ্ৰৰ সৈতে মিলি ত্ৰিগুণী এণ্ড'স্পাৰ্ম বনায়, যি ভ্ৰূণক পোহপাল দিয়ে। এটা ডিম্বহে নিষিক্ত হয়, দুটা নহয়।"
@@ -1015,6 +1015,10 @@
     },
     "options": [
       {
+        "en": "sterile and seedless always",
+        "as": "সদায় বন্ধ্যা আৰু বীজহীন"
+      },
+      {
         "en": "sweet, because the scion determines fruit quality",
         "as": "মিঠা, কাৰণ কলমেই ফুলৰ গুণ নিৰ্ধাৰণ কৰে"
       },
@@ -1025,13 +1029,9 @@
       {
         "en": "a mixture of both parents",
         "as": "দুয়ো পিতৃ-মাতৃৰ মিশ্ৰণ"
-      },
-      {
-        "en": "sterile and seedless always",
-        "as": "সদায় বন্ধ্যা আৰু বীজহীন"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Grafting joins two tissues but does not mix their genes, so the scion's genotype decides the fruit. The rootstock contributes vigour, disease resistance and anchorage.",
       "as": "জোড়াই দুটা কলা সংযোগ কৰে কিন্তু জিন নিমিশ্ৰয়, সেয়ে কলমৰ জিনটাইপে ফল নিৰ্ধাৰণ কৰে। মূলগছে সবলতা, ৰোগ প্ৰতিৰোধ আৰু ধৰি ৰখাৰ শক্তি দিয়ে।"
@@ -1046,6 +1046,10 @@
     },
     "options": [
       {
+        "en": "a total stem parasite",
+        "as": "সম্পূৰ্ণ কাণ্ড পৰজীৱী"
+      },
+      {
         "en": "an epiphyte",
         "as": "উপৰি বৃক্ষ"
       },
@@ -1056,13 +1060,9 @@
       {
         "en": "an insectivorous plant",
         "as": "কীটভক্ষী উদ্ভিদ"
-      },
-      {
-        "en": "a total stem parasite",
-        "as": "সম্পূৰ্ণ কাণ্ড পৰজীৱী"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "en": "Cuscuta has no chlorophyll and takes both water and food through haustoria, so it is a total parasite. An epiphyte only uses the host for support, and a saprophyte feeds on dead matter.",
       "as": "কুশ্চুটাত ক্ল'ৰ'ফিল নাই আৰু হ'ষ্টৰিয়াৰে পানী আৰু খাদ্য দুয়ো লয়, সেয়ে ই সম্পূৰ্ণ পৰজীৱী। উপৰি বৃক্ষে কেৱল ধৰি ৰখাৰ বাবে ব্যৱহাৰ কৰে, আৰু মৃতজীৱীয়ে মৃত পদাৰ্থ খায়।"
@@ -1077,6 +1077,10 @@
     },
     "options": [
       {
+        "en": "water through the xylem only",
+        "as": "কেৱল জাইলেমৰে পানী"
+      },
+      {
         "en": "sugar through the phloem",
         "as": "ফ্লয়েমৰে চেনি"
       },
@@ -1087,13 +1091,9 @@
       {
         "en": "potassium ions into and out of the guard cells",
         "as": "ৰক্ষী কোষলৈ আৰু তাৰপৰা পটাছিয়াম আয়ন"
-      },
-      {
-        "en": "water through the xylem only",
-        "as": "কেৱল জাইলেমৰে পানী"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "Potassium entry lowers the water potential of the guard cells, water follows, they swell and the pore opens; exit reverses it. Xylem supply supports the change but the trigger is ion movement.",
       "as": "পটাছিয়াম সোমালে ৰক্ষী কোষৰ পানী বিভৱ কমে, পানী অনুসৰণ কৰি সোমায়, কোষ ফুলি ৰন্ধ্ৰ মেলে; বাহিৰ হ'লে ওলোটা হয়। জাইলেমে পানী যোগায় কিন্তু ট্ৰিগাৰ আয়নৰ চলাচল।"

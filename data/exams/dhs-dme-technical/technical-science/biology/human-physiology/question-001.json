@@ -7,10 +7,6 @@
     },
     "options": [
       {
-        "en": "Pancreas",
-        "as": "অগ্ন্যাশয়"
-      },
-      {
         "en": "Liver",
         "as": "যকৃত"
       },
@@ -21,9 +17,13 @@
       {
         "en": "Pituitary",
         "as": "পিটুইটাৰী"
+      },
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "en": "The liver is the largest gland in the human body.",
       "as": "যকৃত মানৱ দেহৰ আটাইতকৈ ডাঙৰ গ্ৰন্থি।"
@@ -37,6 +37,10 @@
     },
     "options": [
       {
+        "en": "Spleen",
+        "as": "প্লিহা"
+      },
+      {
         "en": "Heart",
         "as": "হৃদযন্ত্ৰ"
       },
@@ -47,13 +51,9 @@
       {
         "en": "Kidney",
         "as": "বৃক্ক"
-      },
-      {
-        "en": "Spleen",
-        "as": "প্লিহা"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "The kidneys filter waste products and purify the blood.",
       "as": "বৃক্কই অপদ্ৰৱ্য ছাকনি তেজ বিশুদ্ধ কৰে।"
@@ -67,6 +67,10 @@
     },
     "options": [
       {
+        "en": "Plasma only",
+        "as": "কেৱল প্লাজমা"
+      },
+      {
         "en": "WBC",
         "as": "শ্বেত ৰক্ত কণিকা"
       },
@@ -77,13 +81,9 @@
       {
         "en": "Platelets",
         "as": "অনুচক্ৰিকা"
-      },
-      {
-        "en": "Plasma only",
-        "as": "কেৱল প্লাজমা"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "Haemoglobin is the oxygen-carrying pigment present in red blood cells.",
       "as": "হিমোগ্লবিন হৈছে ৰক্ত কণিকাত থকা অক্সিজেন বহন কৰা ৰঞ্জক।"
@@ -97,6 +97,10 @@
     },
     "options": [
       {
+        "en": "Five",
+        "as": "পাঁচটা"
+      },
+      {
         "en": "Two",
         "as": "দুটা"
       },
@@ -107,13 +111,9 @@
       {
         "en": "Four",
         "as": "চাৰিটা"
-      },
-      {
-        "en": "Five",
-        "as": "পাঁচটা"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "The human heart has four chambers: two atria and two ventricles.",
       "as": "মানৱ হৃদযন্ত্ৰত চাৰিটা কোঠা থাকে: দুটা অলিন্দ আৰু দুটা নিলয়।"
@@ -127,10 +127,6 @@
     },
     "options": [
       {
-        "en": "Neuron",
-        "as": "নিউৰন"
-      },
-      {
         "en": "Alveolus",
         "as": "এলভিঅলাছ"
       },
@@ -141,9 +137,13 @@
       {
         "en": "Osteocyte",
         "as": "অষ্টিঅচাইট"
+      },
+      {
+        "en": "Neuron",
+        "as": "নিউৰন"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "The nephron is the structural and functional unit of the kidney.",
       "as": "নেফ্ৰন বৃক্কৰ গাঁথনিগত আৰু কাৰ্যকৰী একক।"
@@ -157,10 +157,6 @@
     },
     "options": [
       {
-        "en": "Neuron",
-        "as": "নিউৰন"
-      },
-      {
         "en": "Nephron",
         "as": "নেফ্ৰন"
       },
@@ -171,9 +167,13 @@
       {
         "en": "Osteocyte",
         "as": "অষ্টিঅচাইট"
+      },
+      {
+        "en": "Neuron",
+        "as": "নিউৰন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The neuron (nerve cell) is the functional unit of the nervous system.",
       "as": "নিউৰন (স্নায়ু কোষ) স্নায়ুতন্ত্ৰৰ কাৰ্যকৰী একক।"
@@ -217,23 +217,23 @@
     },
     "options": [
       {
-        "en": "Liver",
-        "as": "যকৃত"
-      },
-      {
-        "en": "Thyroid",
-        "as": "থাইৰইড"
-      },
-      {
         "en": "Kidney",
         "as": "বৃক্ক"
       },
       {
         "en": "Pancreas",
         "as": "অগ্ন্যাশয়"
+      },
+      {
+        "en": "Liver",
+        "as": "যকৃত"
+      },
+      {
+        "en": "Thyroid",
+        "as": "থাইৰইড"
       }
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": {
       "en": "Insulin is produced by the beta cells of the pancreas.",
       "as": "অগ্ন্যাশয়ৰ বিটা কোষে ইনচুলিন উৎপন্ন কৰে।"
@@ -247,23 +247,23 @@
     },
     "options": [
       {
-        "en": "Serum only",
-        "as": "কেৱল ছিৰাম"
-      },
-      {
-        "en": "Haemoglobin",
-        "as": "হিমোগ্লবিন"
-      },
-      {
         "en": "Plasma",
         "as": "প্লাজমা"
       },
       {
         "en": "Lymph",
         "as": "লিম্ফ"
+      },
+      {
+        "en": "Serum only",
+        "as": "কেৱল ছিৰাম"
+      },
+      {
+        "en": "Haemoglobin",
+        "as": "হিমোগ্লবিন"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "The fluid part of blood is called plasma.",
       "as": "তেজৰ তৰল অংশক প্লাজমা বোলে।"
@@ -277,23 +277,23 @@
     },
     "options": [
       {
-        "en": "A",
-        "as": "এ"
-      },
-      {
-        "en": "B",
-        "as": "বি"
-      },
-      {
         "en": "AB",
         "as": "এবি"
       },
       {
         "en": "O",
         "as": "ও"
+      },
+      {
+        "en": "A",
+        "as": "এ"
+      },
+      {
+        "en": "B",
+        "as": "বি"
       }
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": {
       "en": "Blood group O is called the universal donor.",
       "as": "ও ৰক্ত গোটক সাৰ্বজনীন দাতা বোলে।"
@@ -307,23 +307,23 @@
     },
     "options": [
       {
-        "en": "AB",
-        "as": "এবি"
-      },
-      {
-        "en": "O",
-        "as": "ও"
-      },
-      {
         "en": "A",
         "as": "এ"
       },
       {
         "en": "B",
         "as": "বি"
+      },
+      {
+        "en": "AB",
+        "as": "এবি"
+      },
+      {
+        "en": "O",
+        "as": "ও"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Blood group AB is called the universal recipient.",
       "as": "এবি ৰক্ত গোটক সাৰ্বজনীন গ্ৰহীতা বোলে।"
@@ -337,6 +337,10 @@
     },
     "options": [
       {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
+      },
+      {
         "en": "Thyroid",
         "as": "থাইৰইড"
       },
@@ -347,13 +351,9 @@
       {
         "en": "Adrenal",
         "as": "এড্ৰিনেল"
-      },
-      {
-        "en": "Pancreas",
-        "as": "অগ্ন্যাশয়"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "The pituitary gland is called the master gland of the human body.",
       "as": "পিটুইটাৰী গ্ৰন্থিক মানৱ দেহৰ মুখ্য গ্ৰন্থি বোলে।"
@@ -367,23 +367,23 @@
     },
     "options": [
       {
-        "en": "Pituitary",
-        "as": "পিটুইটাৰী"
-      },
-      {
-        "en": "Pancreas",
-        "as": "অগ্ন্যাশয়"
-      },
-      {
         "en": "Thyroid",
         "as": "থাইৰইড"
       },
       {
         "en": "Adrenal",
         "as": "এড্ৰিনেল"
+      },
+      {
+        "en": "Pituitary",
+        "as": "পিটুইটাৰী"
+      },
+      {
+        "en": "Pancreas",
+        "as": "অগ্ন্যাশয়"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "Thyroxine is secreted by the thyroid gland.",
       "as": "থাইৰইড গ্ৰন্থিয়ে থাইৰক্সিন নিঃসৰণ কৰে।"
@@ -427,6 +427,10 @@
     },
     "options": [
       {
+        "en": "Barometer",
+        "as": "বেৰোমিটাৰ"
+      },
+      {
         "en": "Thermometer",
         "as": "থাৰ্মোমিটাৰ"
       },
@@ -437,13 +441,9 @@
       {
         "en": "Sphygmomanometer",
         "as": "স্ফিগম’মেন’মিটাৰ"
-      },
-      {
-        "en": "Barometer",
-        "as": "বেৰোমিটাৰ"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "A sphygmomanometer is used to measure blood pressure.",
       "as": "স্ফিগম’মেন’মিটাৰ ৰক্তচাপ জুখিবলৈ ব্যৱহাৰ হয়।"
@@ -457,23 +457,23 @@
     },
     "options": [
       {
-        "en": "Lungs",
-        "as": "হাওঁফাওঁ"
-      },
-      {
-        "en": "Moist skin",
-        "as": "আৰ্দ্ৰ ছাল"
-      },
-      {
         "en": "Gills",
         "as": "কানকোষ"
       },
       {
         "en": "Spiracles",
         "as": "স্পাইৰেকল"
+      },
+      {
+        "en": "Lungs",
+        "as": "হাওঁফাওঁ"
+      },
+      {
+        "en": "Moist skin",
+        "as": "আৰ্দ্ৰ ছাল"
       }
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "en": "Earthworms breathe through their moist skin.",
       "as": "কেচুৱে আৰ্দ্ৰ ছালৰ সহায়ত উশাহ লয়।"
@@ -487,10 +487,6 @@
     },
     "options": [
       {
-        "en": "Lungs",
-        "as": "হাওঁফাওঁ"
-      },
-      {
         "en": "Gills",
         "as": "কানকোষ"
       },
@@ -501,9 +497,13 @@
       {
         "en": "Skin only",
         "as": "কেৱল ছাল"
+      },
+      {
+        "en": "Lungs",
+        "as": "হাওঁফাওঁ"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "Insects breathe through a network of tracheae that open at spiracles.",
       "as": "পোক-পতংগে স্পাইৰেকলৰ পৰা মুকলি ট্ৰেকিয়া জালৰ সহায়ত উশাহ লয়।"
@@ -517,6 +517,10 @@
     },
     "options": [
       {
+        "en": "Alveoli",
+        "as": "এলভিঅলাই"
+      },
+      {
         "en": "Bronchi",
         "as": "ব্ৰংকাই"
       },
@@ -527,13 +531,9 @@
       {
         "en": "Diaphragm",
         "as": "ডায়েফ্ৰাম"
-      },
-      {
-        "en": "Alveoli",
-        "as": "এলভিঅলাই"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "en": "Exchange of gases in human lungs takes place in the alveoli.",
       "as": "মানুহৰ হাওঁফাওঁত গেছ বিনিময় এলভিঅলাইত হয়।"
@@ -637,10 +637,6 @@
     },
     "options": [
       {
-        "en": "Liver",
-        "as": "যকৃত"
-      },
-      {
         "en": "Pancreas",
         "as": "অগ্ন্যাশয়"
       },
@@ -651,9 +647,13 @@
       {
         "en": "Gall bladder",
         "as": "পিত্তাশয়"
+      },
+      {
+        "en": "Liver",
+        "as": "যকৃত"
       }
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": {
       "en": "Bile is stored in the gall bladder.",
       "as": "পিত্ত পিত্তাশয়ত সঞ্চিত হয়।"
@@ -667,10 +667,6 @@
     },
     "options": [
       {
-        "en": "RBC",
-        "as": "ৰক্ত কণিকা"
-      },
-      {
         "en": "WBC",
         "as": "শ্বেত ৰক্ত কণিকা"
       },
@@ -681,9 +677,13 @@
       {
         "en": "Plasma proteins only sugar",
         "as": "কেৱল প্লাজমাৰ চেনি"
+      },
+      {
+        "en": "RBC",
+        "as": "ৰক্ত কণিকা"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "Platelets help in the clotting of blood.",
       "as": "অনুচক্ৰিকাই তেজ টান হোৱাত সহায় কৰে।"
@@ -697,23 +697,23 @@
     },
     "options": [
       {
-        "en": "Erythrocytes",
-        "as": "এৰিথ্ৰ’চাইট"
-      },
-      {
-        "en": "Thrombocytes",
-        "as": "থ্ৰম্ব’চাইট"
-      },
-      {
         "en": "Osteocytes",
         "as": "অষ্টিঅচাইট"
       },
       {
         "en": "Leucocytes",
         "as": "লিউক’চাইট"
+      },
+      {
+        "en": "Erythrocytes",
+        "as": "এৰিথ্ৰ’চাইট"
+      },
+      {
+        "en": "Thrombocytes",
+        "as": "থ্ৰম্ব’চাইট"
       }
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": {
       "en": "White blood cells (WBCs) are also called leucocytes.",
       "as": "শ্বেত ৰক্ত কণিকাক লিউক’চাইট বুলিও জনা যায়।"
@@ -727,6 +727,10 @@
     },
     "options": [
       {
+        "en": "Lymphocytes only",
+        "as": "কেৱল লিম্ফ’চাইট"
+      },
+      {
         "en": "Erythrocytes",
         "as": "এৰিথ্ৰ’চাইট"
       },
@@ -737,13 +741,9 @@
       {
         "en": "Thrombocytes",
         "as": "থ্ৰম্ব’চাইট"
-      },
-      {
-        "en": "Lymphocytes only",
-        "as": "কেৱল লিম্ফ’চাইট"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Red blood cells (RBCs) are also called erythrocytes.",
       "as": "ৰক্ত কণিকাক এৰিথ্ৰ’চাইট বুলিও জনা যায়।"
@@ -787,6 +787,10 @@
     },
     "options": [
       {
+        "en": "Bundle of His",
+        "as": "হিছৰ বাণ্ডিল"
+      },
+      {
         "en": "AV node",
         "as": "AV ন’ড"
       },
@@ -797,13 +801,9 @@
       {
         "en": "SA node",
         "as": "SA ন’ড"
-      },
-      {
-        "en": "Bundle of His",
-        "as": "হিছৰ বাণ্ডিল"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "The SA node (sinoatrial node) acts as the pacemaker of the heart.",
       "as": "SA ন’ড (চাইন’এট্ৰিয়েল ন’ড) হৃদযন্ত্ৰৰ পেচমেকাৰ হিচাপে কাম কৰে।"
@@ -877,6 +877,10 @@
     },
     "options": [
       {
+        "en": "Alveolus",
+        "as": "এলভিঅলাছ"
+      },
+      {
         "en": "Sarcomere",
         "as": "চাৰ্ক’মিয়াৰ"
       },
@@ -887,13 +891,9 @@
       {
         "en": "Nephron",
         "as": "নেফ্ৰন"
-      },
-      {
-        "en": "Alveolus",
-        "as": "এলভিঅলাছ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The sarcomere is the smallest structural and functional unit of a muscle.",
       "as": "চাৰ্ক’মিয়াৰ মাংসপেশীৰ আটাইতকৈ সৰু গাঁথনিগত আৰু কাৰ্যকৰী একক।"
@@ -907,10 +907,6 @@
     },
     "options": [
       {
-        "en": "Ethanol",
-        "as": "ইথানল"
-      },
-      {
         "en": "CO2 only",
         "as": "কেৱল CO2"
       },
@@ -921,9 +917,13 @@
       {
         "en": "Lactic acid",
         "as": "লেক্টিক এচিড"
+      },
+      {
+        "en": "Ethanol",
+        "as": "ইথানল"
       }
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": {
       "en": "The end product of anaerobic respiration in muscles is lactic acid.",
       "as": "মাংসপেশীত অবায়ৱীয় শ্বসনৰ শেষ উৎপাদ লেক্টিক এচিড।"
@@ -937,6 +937,10 @@
     },
     "options": [
       {
+        "en": "Collecting duct",
+        "as": "সংগ্ৰাহক নলী"
+      },
+      {
         "en": "Descending limb of the loop of Henle",
         "as": "হেনলিৰ লুপৰ অৱৰোহী শাখা"
       },
@@ -947,13 +951,9 @@
       {
         "en": "Proximal convoluted tubule",
         "as": "সমীপৱৰ্তী কণ্ডলিত নলী"
-      },
-      {
-        "en": "Collecting duct",
-        "as": "সংগ্ৰাহক নলী"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "The ascending limb keeps water in and pushes salts out, so the filtrate becomes dilute and a salt gradient builds up for the descending limb to draw water back with.",
       "as": "আৰোহী শাখাই পানী ৰাখি লৱণ বাহিৰ কৰে, ফলত তৰলটো পাতল হয় আৰু এনে লৱণ প্ৰৱণতা গঢ় লয় যি অৱৰোহী শাখাক পানী ঘূৰাই আনিবলৈ সহায় কৰে।"
@@ -967,10 +967,6 @@
     },
     "options": [
       {
-        "en": "alveolar macrophages",
-        "as": "আলভিঅ'লাৰ মেক্ৰ'ফেজে"
-      },
-      {
         "en": "type I pneumocytes",
         "as": "প্ৰথম প্ৰকাৰৰ নিউম'চাইটে"
       },
@@ -981,9 +977,13 @@
       {
         "en": "goblet cells",
         "as": "গবলেট কোষে"
+      },
+      {
+        "en": "alveolar macrophages",
+        "as": "আলভিঅ'লাৰ মেক্ৰ'ফেজে"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "Type II pneumocytes secrete the phospholipid surfactant. Type I pneumocytes form the thin surface across which oxygen and carbon dioxide diffuse.",
       "as": "দ্বিতীয় প্ৰকাৰৰ নিউম'চাইটে ফছফ'লিপিড ছাৰফেক্টেণ্ট নিঃসৰণ কৰে। প্ৰথম প্ৰকাৰৰ নিউম'চাইটে সেই পাতল পৃষ্ঠ গঢ়ে যাৰ মাজেৰে অক্সিজেন আৰু কাৰ্বন ডাইঅক্সাইড বিয়পি যায়।"
@@ -1029,6 +1029,10 @@
     },
     "options": [
       {
+        "en": "Bowman's capsule",
+        "as": "ব'মেনৰ কেপচুল"
+      },
+      {
         "en": "proximal convoluted tubule",
         "as": "সমীপ কুঁচিত নলিকা"
       },
@@ -1039,13 +1043,9 @@
       {
         "en": "collecting duct",
         "as": "সংগ্ৰাহক নলী"
-      },
-      {
-        "en": "Bowman's capsule",
-        "as": "ব'মেনৰ কেপচুল"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The proximal tubule has a brush border rich in carriers and reclaims nearly all glucose and amino acids. The distal tubule fine-tunes ions and the collecting duct adjusts water.",
       "as": "সমীপ নলিকাৰ ব্ৰাছ সীমাত বাহক প্ৰচুৰ, যি প্ৰায় সকলো গ্লুক'জ আৰু এমিন' অ্যাসিড ঘূৰাই লয়। দূৰ নলিকাই আয়ন সূক্ষ্মভাৱে ঠিক কৰে আৰু সংগ্ৰাহক নলীয়ে পানী সমন্বয় কৰে।"
@@ -1091,10 +1091,6 @@
     },
     "options": [
       {
-        "en": "insulin",
-        "as": "ইনছুলিন"
-      },
-      {
         "en": "glucagon",
         "as": "গ্লুকাগন"
       },
@@ -1105,9 +1101,13 @@
       {
         "en": "cortisol",
         "as": "কৰ্টিছল"
+      },
+      {
+        "en": "insulin",
+        "as": "ইনছুলিন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Insulin from the beta cells of the pancreas moves glucose into cells and stores the excess as glycogen. Glucagon, adrenaline and cortisol all raise blood glucose.",
       "as": "অগ্ন্যাশয়ৰ বিটা কোষৰ ইনছুলিনে গ্লুক'জক কোষলৈ লৈ যায় আৰু অতিৰিক্তখিনি গ্লাইক'জেন হিচাপে সাঁচি ৰাখে। গ্লুকাগন, এড্ৰিনেলিন আৰু কৰ্টিছলে ৰক্ত গ্লুক'জ বঢ়ায়।"
@@ -1153,10 +1153,6 @@
     },
     "options": [
       {
-        "en": "sphygmomanometer",
-        "as": "স্ফিগম'মেন'মিটাৰ"
-      },
-      {
         "en": "stethoscope",
         "as": "ষ্টেথ'স্কোপ"
       },
@@ -1167,9 +1163,13 @@
       {
         "en": "haemocytometer",
         "as": "হিম'চাইট'মিটাৰ"
+      },
+      {
+        "en": "sphygmomanometer",
+        "as": "স্ফিগম'মেন'মিটাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "A sphygmomanometer with an inflatable cuff gives the systolic and diastolic readings. A stethoscope listens to body sounds and a spirometer measures lung volumes.",
       "as": "স্ফীত কৰিব পৰা কাফযুক্ত স্ফিগম'মেন'মিটাৰে সিষ্ট'লিক আৰু ডায়াষ্ট'লিক পঢ়া দিয়ে। ষ্টেথ'স্কোপে শৰীৰৰ শব্দ শুনে আৰু স্পাইৰ'মিটাৰে ফুসফুসৰ আয়তন জোখে।"
@@ -1184,23 +1184,23 @@
     },
     "options": [
       {
-        "en": "aorta",
-        "as": "মহাধমনী"
-      },
-      {
-        "en": "pulmonary artery",
-        "as": "ফুসফুসীয় ধমনী"
-      },
-      {
         "en": "carotid artery",
         "as": "কণ্ঠধমনী"
       },
       {
         "en": "femoral artery",
         "as": "ঊৰুধমনী"
+      },
+      {
+        "en": "aorta",
+        "as": "মহাধমনী"
+      },
+      {
+        "en": "pulmonary artery",
+        "as": "ফুসফুসীয় ধমনী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The aorta leaves the left ventricle and distributes oxygenated blood to the whole body, making it the largest artery. The carotid and femoral arteries are branches of it.",
       "as": "মহাধমনীয়ে বাওঁ নিলয়ৰপৰা ওলাই গোটেই শৰীৰলৈ অক্সিজেনযুক্ত ৰক্ত বিতৰণ কৰে, সেয়ে ই আটাইতকৈ ডাঙৰ। কণ্ঠধমনী আৰু ঊৰুধমনী ইয়াৰ শাখা।"
@@ -1246,6 +1246,10 @@
     },
     "options": [
       {
+        "en": "oesophagus",
+        "as": "খাদ্যনলী"
+      },
+      {
         "en": "small intestine",
         "as": "ক্ষুদ্ৰান্ত্ৰ"
       },
@@ -1256,13 +1260,9 @@
       {
         "en": "stomach",
         "as": "পেট"
-      },
-      {
-        "en": "oesophagus",
-        "as": "খাদ্যনলী"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Villi and microvilli of the small intestine give an enormous surface for absorbing nutrients. The large intestine mainly absorbs water and the stomach begins protein digestion.",
       "as": "ক্ষুদ্ৰান্ত্ৰৰ ভিলাছ আৰু মাইক্ৰ'ভিলাছে পুষ্টি শোষণৰ বাবে বিশাল পৃষ্ঠ দিয়ে। বৃহদান্ত্ৰই মূলতঃ পানী শোষে আৰু পেটে প্ৰ'টিনৰ হজম আৰম্ভ কৰে।"
@@ -1277,23 +1277,23 @@
     },
     "options": [
       {
-        "en": "three",
-        "as": "তিনিটা"
-      },
-      {
-        "en": "two",
-        "as": "দুটা"
-      },
-      {
         "en": "four",
         "as": "চাৰিটা"
       },
       {
         "en": "one",
         "as": "এটা"
+      },
+      {
+        "en": "three",
+        "as": "তিনিটা"
+      },
+      {
+        "en": "two",
+        "as": "দুটা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The right lung has three lobes and the left two, because the heart takes space on the left side. This asymmetry is a common examination point.",
       "as": "সোঁ ফুসফুসত তিনিটা খণ্ড আৰু বাওঁটোত দুটা, কাৰণ হৃদয়ে বাওঁফালে ঠাই লয়। এই অসমতা পৰীক্ষাৰ সাধাৰণ বিন্দু।"
@@ -1308,23 +1308,23 @@
     },
     "options": [
       {
-        "en": "adrenaline",
-        "as": "এড্ৰিনেলিন"
-      },
-      {
-        "en": "insulin",
-        "as": "ইনছুলিন"
-      },
-      {
         "en": "thyroxine",
         "as": "থাইৰক্সিন"
       },
       {
         "en": "oestrogen",
         "as": "ইষ্ট্ৰ'জেন"
+      },
+      {
+        "en": "adrenaline",
+        "as": "এড্ৰিনেলিন"
+      },
+      {
+        "en": "insulin",
+        "as": "ইনছুলিন"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Adrenaline raises heart rate, blood glucose and blood flow to muscles in the fight-or-flight response. Insulin lowers glucose and thyroxine sets metabolic rate.",
       "as": "এড্ৰিনেলিনে সংঘৰ্ষ-বা-পলায়ন সঁহাৰিত হৃৎস্পন্দন, ৰক্ত গ্লুক'জ আৰু পেশীলৈ ৰক্ত প্ৰবাহ বঢ়ায়। ইনছুলিনে গ্লুক'জ কমায় আৰু থাইৰক্সিনে বিপাক হাৰ ঠিক কৰে।"
@@ -1339,23 +1339,23 @@
     },
     "options": [
       {
-        "en": "epiglottis",
-        "as": "এপিগ্লটিছ"
-      },
-      {
-        "en": "uvula",
-        "as": "আলজিহ্বা"
-      },
-      {
         "en": "larynx",
         "as": "স্বৰযন্ত্ৰ"
       },
       {
         "en": "pharynx",
         "as": "গলবিল"
+      },
+      {
+        "en": "epiglottis",
+        "as": "এপিগ্লটিছ"
+      },
+      {
+        "en": "uvula",
+        "as": "আলজিহ্বা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The epiglottis folds down over the larynx so the bolus passes into the oesophagus. The uvula and pharynx are part of the throat but do not seal the airway.",
       "as": "এপিগ্লটিছ স্বৰযন্ত্ৰৰ ওপৰত ভাঁজ খাই পৰে যাতে খাদ্যপিণ্ড খাদ্যনলীত যায়। আলজিহ্বা আৰু গলবিল ডিঙিৰ অংশ, কিন্তু শ্বাসপথ বন্ধ নকৰে।"
@@ -1370,6 +1370,10 @@
     },
     "options": [
       {
+        "en": "creatinine only",
+        "as": "কেৱল ক্ৰিয়েটিনিন"
+      },
+      {
         "en": "urea",
         "as": "ইউৰিয়া"
       },
@@ -1380,13 +1384,9 @@
       {
         "en": "uric acid",
         "as": "ইউৰিক অ্যাসিড"
-      },
-      {
-        "en": "creatinine only",
-        "as": "কেৱল ক্ৰিয়েটিনিন"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The human liver converts ammonia to the less toxic urea, which the kidney excretes. Ammonia is the waste of fish and uric acid that of birds and reptiles.",
       "as": "মানুহৰ যকৃয়ে এম'নিয়াক কম বিষাক্ত ইউৰিয়ালৈ ৰূপান্তৰ কৰে, যি বৃক্কই বৰ্জন কৰে। এম'নিয়া মাছৰ আৰু ইউৰিক অ্যাসিড চৰাই তথা সৰীসৃপৰ বৰ্জন।"
@@ -1401,10 +1401,6 @@
     },
     "options": [
       {
-        "en": "0.53 litres per minute",
-        "as": "প্ৰতি মিনিটত ০.৫৩ লিটাৰ"
-      },
-      {
         "en": "5.25 litres per minute",
         "as": "প্ৰতি মিনিটত ৫.২৫ লিটাৰ"
       },
@@ -1415,9 +1411,13 @@
       {
         "en": "52.5 litres per minute",
         "as": "প্ৰতি মিনিটত ৫২.৫ লিটাৰ"
+      },
+      {
+        "en": "0.53 litres per minute",
+        "as": "প্ৰতি মিনিটত ০.৫৩ লিটাৰ"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "en": "Cardiac output is stroke volume multiplied by heart rate, so 70 mL times 75 gives 5250 mL, or 5.25 litres a minute, which is close to the normal resting value. Adding or dividing the two figures instead of multiplying them produces the wrong options.",
       "as": "হৃদয়ৰ উৎপাদন = ষ্ট্ৰ'ক ভলিউম × হৃদয়ৰ গতি, সেয়ে ৭০ মি.লি. × ৭৫ = ৫২৫০ মি.লি., অৰ্থাৎ ৫.২৫ লিটাৰ, যি স্বাভাৱিক বিশ্ৰাম মানৰ ওচৰ। যোগ বা হৰণ কৰিলে ভুল উত্তৰ পোৱা যায়।"
@@ -1432,23 +1432,23 @@
     },
     "options": [
       {
-        "en": "thick ascending limb",
-        "as": "ডাঠ আৰোহী অংশ"
-      },
-      {
-        "en": "thin descending limb",
-        "as": "পাতল অৱৰোহী অংশ"
-      },
-      {
         "en": "proximal convoluted tubule",
         "as": "নিকট পৰ্যাবৃত্ত নলিকা"
       },
       {
         "en": "collecting duct in the presence of ADH",
         "as": "ADH থকা অৱস্থাত সংগ্ৰাহক নলী"
+      },
+      {
+        "en": "thick ascending limb",
+        "as": "ডাঠ আৰোহী অংশ"
+      },
+      {
+        "en": "thin descending limb",
+        "as": "পাতল অৱৰোহী অংশ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The thick ascending limb removes solute without water, which is exactly what dilutes the fluid and builds the medullary salt gradient. The descending limb is water permeable, so it concentrates rather than dilutes.",
       "as": "ডাঠ আৰোহী অংশই পানী নিয়াৰাশি দ্ৰৱক আঁতৰায়, সেয়ে তৰল পাতল হয় আৰু মজ্জাৰ লৱণ ঢাল গঢ়ে। অৱৰোহী অংশ পানী ভেদযোগ্য, সেয়ে ই পাতল নকৰি ঘন কৰে।"
@@ -1463,10 +1463,6 @@
     },
     "options": [
       {
-        "en": "oxygen, lowering the pH",
-        "as": "অক্সিজেন, যাৰ ফলত pH কমে"
-      },
-      {
         "en": "bicarbonate with no pH change",
         "as": "বাইকাৰ্বনেট, pH নসলনি"
       },
@@ -1477,9 +1473,13 @@
       {
         "en": "carbon dioxide, raising the pH",
         "as": "কাৰ্বন ডাইঅক্সাইড, যাৰ ফলত pH বাঢ়ে"
+      },
+      {
+        "en": "oxygen, lowering the pH",
+        "as": "অক্সিজেন, যাৰ ফলত pH কমে"
       }
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": {
       "en": "Over-breathing washes out carbon dioxide faster than it is made, so the carbonic acid equilibrium shifts and the blood turns alkaline, which is why the person feels dizzy and tingles. Oxygen is already near saturation and does not drive the change.",
       "as": "অতি উশাহে কাৰ্বন ডাইঅক্সাইড উৎপাদনতকৈ দ্ৰুত উলিয়ায়, সেয়ে কাৰ্বনিক এছিড ভাৰসাম্য সৰি তেজ ক্ষাৰকীয় হয়, যাৰ বাবে মূৰ ঘূৰে আৰু জুমি উঠে। অক্সিজেন ইতিমধ্যে প্ৰায় সম্পৃক্ত আৰু পৰিৱৰ্তন নকৰে।"
@@ -1494,23 +1494,23 @@
     },
     "options": [
       {
-        "en": "angiotensinogen",
-        "as": "এঞ্জিঅ'টেনচিন'জেন"
-      },
-      {
-        "en": "atrial natriuretic peptide",
-        "as": "এট্ৰিয়েল নেট্ৰিউৰেটিক পেপ্টাইড"
-      },
-      {
         "en": "aldosterone",
         "as": "এলড'ষ্টেৰন"
       },
       {
         "en": "renin itself",
         "as": "ৰেনিন নিজেই"
+      },
+      {
+        "en": "angiotensinogen",
+        "as": "এঞ্জিঅ'টেনচিন'জেন"
+      },
+      {
+        "en": "atrial natriuretic peptide",
+        "as": "এট্ৰিয়েল নেট্ৰিউৰেটিক পেপ্টাইড"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "Renin starts the cascade and angiotensin converting enzyme makes angiotensin II, which triggers aldosterone from the adrenal cortex to reabsorb sodium and water. Renin is an enzyme, not the final hormone, and atrial peptide does the opposite.",
       "as": "ৰেনিনে শৃংখল আৰম্ভ কৰে আৰু পৰিৱৰ্তনকাৰী এনজাইমে এঞ্জিঅ'টেনচিন II বনায়, যি এড্ৰিনেল কৰ্টেক্সৰপৰা এলড'ষ্টেৰন ওলাই ছডিয়াম-পানী পুনৰ্শোষণ কৰায়। ৰেনিন এনজাইম, অন্তিম হৰম'ন নহয়, আৰু এট্ৰিয়েল পেপ্টাইডে ওলোটা কাম কৰে।"
@@ -1525,23 +1525,23 @@
     },
     "options": [
       {
-        "en": "haemoglobin stops binding oxygen",
-        "as": "হিম'গ্লবিনে অক্সিজেন বান্ধিব নোৱাৰে"
-      },
-      {
-        "en": "alveoli collapse because surface tension is no longer lowered",
-        "as": "পৃষ্ঠ টান নকমাৰ বাবে এলভিঅ'লাই সংকুচিত হয়"
-      },
-      {
         "en": "gas exchange stops because the surface area doubles",
         "as": "পৃষ্ঠ ক্ষেত্ৰ দুগুণ হোৱাৰ বাবে গেছ বিনিময় বন্ধ হয়"
       },
       {
         "en": "the airways fill with mucus",
         "as": "বায়ুপথত শ্লেষ্মা ভৰে"
+      },
+      {
+        "en": "haemoglobin stops binding oxygen",
+        "as": "হিম'গ্লবিনে অক্সিজেন বান্ধিব নোৱাৰে"
+      },
+      {
+        "en": "alveoli collapse because surface tension is no longer lowered",
+        "as": "পৃষ্ঠ টান নকমাৰ বাবে এলভিঅ'লাই সংকুচিত হয়"
       }
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "en": "Surfactant from type II cells lowers surface tension and keeps the alveoli open; without it the small alveoli collapse at the end of each breath. Type I cells form the diffusion surface, so losing them is a separate problem.",
       "as": "টাইপ II কোষৰ ছাৰ্ফেক্টেণ্টে পৃষ্ঠ টান কমাই এলভিঅ'লাই খোলা ৰাখে; ই নাথাকিলে সৰু এলভিঅ'লাই প্ৰতিটো উশাহৰ শেষত সংকুচিত হয়। টাইপ I কোষে বিসৰণ পৃষ্ঠ গঢ়ে, সেয়ে তেওঁলোক হেৰুওৱাটো বেলেগ সমস্যা।"
@@ -1587,23 +1587,23 @@
     },
     "options": [
       {
-        "en": "aldosterone",
-        "as": "এলড'ষ্টেৰন"
-      },
-      {
-        "en": "adrenaline",
-        "as": "এড্ৰিনেলিন"
-      },
-      {
         "en": "glucagon",
         "as": "গ্লুকাগন"
       },
       {
         "en": "antidiuretic hormone",
         "as": "এণ্টিডাইউৰেটিক হৰম'ন"
+      },
+      {
+        "en": "aldosterone",
+        "as": "এলড'ষ্টেৰন"
+      },
+      {
+        "en": "adrenaline",
+        "as": "এড্ৰিনেলিন"
       }
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": {
       "en": "Without antidiuretic hormone the collecting duct stays impermeable to water, so water is lost in urine and the thirst mechanism is triggered. Aldosterone loss would instead waste sodium and lower blood pressure.",
       "as": "এণ্টিডাইউৰেটিক হৰম'ন নাথাকিলে সংগ্ৰাহক নলী পানীলৈ অভেদ্য থাকে, সেয়ে পানী মূত্ৰৰে যায় আৰু পিয়াহৰ প্ৰক্ৰিয়া জাগে। এলড'ষ্টেৰনৰ অভাৱত ছডিয়াম যায় আৰু ৰক্তচাপ কমে।"
@@ -1618,23 +1618,23 @@
     },
     "options": [
       {
-        "en": "carbon dioxide cannot leave the muscle",
-        "as": "কাৰ্বন ডাইঅক্সাইড পেশীৰপৰা ওলাব নোৱাৰে"
-      },
-      {
-        "en": "the muscle stops making ATP entirely",
-        "as": "পেশীয়ে ATP বনোৱা সম্পূৰ্ণ বন্ধ কৰে"
-      },
-      {
         "en": "oxygen supply lags behind demand, so pyruvate is reduced instead of entering the Krebs cycle",
         "as": "অক্সিজেন যোগান চাহিদাতকৈ পিছ পৰে, সেয়ে পাইৰুভেট ক্ৰেবছ চক্ৰত নোসোমাই বিজাৰিত হয়"
       },
       {
         "en": "the Krebs cycle runs faster than glycolysis",
         "as": "ক্ৰেবছ চক্ৰ গ্লাইক'লাইছিছতকৈ দ্ৰুত চলে"
+      },
+      {
+        "en": "carbon dioxide cannot leave the muscle",
+        "as": "কাৰ্বন ডাইঅক্সাইড পেশীৰপৰা ওলাব নোৱাৰে"
+      },
+      {
+        "en": "the muscle stops making ATP entirely",
+        "as": "পেশীয়ে ATP বনোৱা সম্পূৰ্ণ বন্ধ কৰে"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "When oxygen is short, pyruvate cannot be oxidised and is converted to lactate so that NAD is regenerated and glycolysis can continue. ATP production falls but does not stop, and carbon dioxide removal is not the limiting step.",
       "as": "অক্সিজেন কম হ'লে পাইৰুভেট জাৰিত নহয় আৰু লেক্টেটত পৰিণত হয় যাতে NAD ঘূৰে আৰু গ্লাইক'লাইছিছ চলি থাকে। ATP উৎপাদন কমে কিন্তু বন্ধ নহয়, আৰু কাৰ্বন ডাইঅক্সাইড ওলোৱাটো সীমাবদ্ধ খোজ নহয়।"
@@ -1649,6 +1649,10 @@
     },
     "options": [
       {
+        "en": "interpretation of visual images",
+        "as": "দৃশ্য ছবিৰ ব্যাখ্যা"
+      },
+      {
         "en": "balance while walking",
         "as": "খোজ কঢ়াত ভাৰসাম্য"
       },
@@ -1659,16 +1663,105 @@
       {
         "en": "voluntary movement of the limbs",
         "as": "অংগৰ ইচ্ছাকৃত লৰচৰ"
-      },
-      {
-        "en": "interpretation of visual images",
-        "as": "দৃশ্য ছবিৰ ব্যাখ্যা"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "The medulla holds the respiratory and cardiac centres, so its damage threatens breathing and circulation directly. Voluntary movement is cortical and balance is cerebellar.",
       "as": "মেডুলাত শ্বাস-প্ৰশ্বাস আৰু হৃদয় কেন্দ্ৰ থাকে, সেয়ে ইয়াৰ ক্ষতিয়ে উশাহ আৰু সংবহন পোনপটীয়াকৈ ভাবুকি দিয়ে। ইচ্ছাকৃত লৰচৰ কৰ্টেক্সৰ আৰু ভাৰসাম্য চেৰিবেলামৰ।"
+    }
+  },
+  {
+    "id": "biology-417",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "Creatinine clearance is measured to estimate the glomerular filtration rate because creatinine is",
+      "as": "গ্ল'মেৰুলাৰ ছাননি হাৰ অনুমান কৰিবলৈ ক্ৰিয়েটিনিন ক্লিয়াৰেন্স জোখা হয় কাৰণ ক্ৰিয়েটিনিন"
+    },
+    "options": [
+      {
+        "en": "actively secreted by the tubules only",
+        "as": "কেৱল নলীয়ে সক্ৰিয়ভাৱে নিঃসৰণ কৰে"
+      },
+      {
+        "en": "completely reabsorbed after filtration",
+        "as": "ছাননিৰ পিছত সম্পূৰ্ণ পুনঃশোষিত হয়"
+      },
+      {
+        "en": "produced only by the liver",
+        "as": "কেৱল যকৃতেহে উৎপন্ন কৰে"
+      },
+      {
+        "en": "freely filtered and barely reabsorbed or secreted",
+        "as": "মুকলিভাৱে ছানিত হয় আৰু সামান্যহে পুনঃশোষিত বা নিঃসৃত হয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A marker is useful for filtration only if it passes freely into the filtrate and is neither reabsorbed nor secreted, so its clearance equals the filtration rate. Creatinine roughly meets this, whereas glucose is fully reabsorbed and many drugs are actively secreted.",
+      "as": "চিহ্নক ছাননিৰ বাবে উপযোগী হয় কেৱল তেতিয়া যেতিয়া ই মুকলিভাৱে ছানিত হৈ পুনঃশোষিত বা নিঃসৃত নহয়, তেতিয়া তাৰ ক্লিয়াৰেন্স ছাননি হাৰৰ সমান। ক্ৰিয়েটিনিনে মোটামুটি ইয়াক পূৰণ কৰে, আনহাতে গ্লুক'জ সম্পূৰ্ণ পুনঃশোষিত আৰু বহু ঔষধ সক্ৰিয়ভাৱে নিঃসৃত।"
+    }
+  },
+  {
+    "id": "biology-418",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "During exercise the oxygen dissociation curve of haemoglobin shifts to the right, so oxygen is released more readily to the tissues. The shift is driven mainly by a rise in",
+      "as": "ব্যায়ামৰ সময়ত হিম'গ্লবিনৰ অক্সিজেন বিয়োজন বক্ৰ ডাঙিলৈ সৰে, সেয়ে কলালৈ অক্সিজেন সহজে ওলায়। সৰণৰ মূল কাৰণ"
+    },
+    "options": [
+      {
+        "en": "carbon dioxide and hydrogen ion concentration",
+        "as": "কাৰ্বন ডাইঅক্সাইড আৰু হাইড্ৰ'জেন আয়নৰ ঘনত্ব বৃদ্ধি"
+      },
+      {
+        "en": "plasma calcium",
+        "as": "প্লাজমা কেলচিয়াম"
+      },
+      {
+        "en": "blood glucose alone",
+        "as": "কেৱল তেজৰ গ্লুক'জ"
+      },
+      {
+        "en": "body temperature falling",
+        "as": "শৰীৰৰ উষ্ণতা কমা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "More carbon dioxide lowers pH inside the red cell, which reduces haemoglobin's affinity and pushes oxygen off, an effect called the Bohr shift. Calcium, glucose alone and a fall in temperature would not produce a rightward shift; a rise in temperature would, but the main driver is carbon dioxide and hydrogen ions.",
+      "as": "অধিক কাৰ্বন ডাইঅক্সাইডে লোহিত কোষৰ ভিতৰত pH কমায়, যিয়ে হিম'গ্লবিনৰ আকৰ্ষণ কমাই অক্সিজেন এৰি দিয়ে, যাক ব'ৰ সৰণ বোলে। কেলচিয়াম, কেৱল গ্লুক'জ আৰু উষ্ণতা কমিলে ডাঙিলৈ সৰণ নহয়; উষ্ণতা বঢ়িলে হয়, কিন্তু মূল চালক কাৰ্বন ডাইঅক্সাইড আৰু হাইড্ৰ'জেন আয়ন।"
+    }
+  },
+  {
+    "id": "biology-419",
+    "leaf": "human-physiology",
+    "q": {
+      "en": "After a carbohydrate meal blood glucose falls towards normal because insulin acts on muscle and fat to",
+      "as": "শৰ্কৰাযুক্ত আহাৰৰ পিছত তেজৰ গ্লুক'জ স্বাভাৱিকলৈ নামে কাৰণ ইনছুলিনে পেশী আৰু চৰ্বিত কাম কৰি"
+    },
+    "options": [
+      {
+        "en": "increase glucose release from the liver",
+        "as": "যকৃতৰপৰা গ্লুক'জ মুকলি বঢ়ায়"
+      },
+      {
+        "en": "break down glycogen to glucose",
+        "as": "গ্লাইক'জেন ভাঙি গ্লুক'জ কৰে"
+      },
+      {
+        "en": "reduce the number of glucose transporters",
+        "as": "গ্লুক'জ পৰিবাহকৰ সংখ্যা কমায়"
+      },
+      {
+        "en": "increase glucose uptake and promote glycogen formation",
+        "as": "গ্লুক'জ গ্ৰহণ বঢ়ায় আৰু গ্লাইক'জেন গঠন উৎসাহিত কৰে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Insulin moves glucose transporters to the cell surface and stimulates glycogen synthesis, so blood glucose falls. Releasing glucose from the liver and breaking down glycogen are glucagon's actions, and reducing transporters would raise blood glucose rather than lower it.",
+      "as": "ইনছুলিনে গ্লুক'জ পৰিবাহক কোষ পৃষ্ঠলৈ নিয়ে আৰু গ্লাইক'জেন সংশ্লেষণ উৎসাহিত কৰে, সেয়ে তেজৰ গ্লুক'জ নামে। যকৃতৰপৰা গ্লুক'জ মুকলি আৰু গ্লাইক'জেন ভাঙা গ্লুকাগনৰ কাম, আৰু পৰিবাহক কমালে গ্লুক'জ বাঢ়িলহেঁতেন।"
     }
   }
 ]

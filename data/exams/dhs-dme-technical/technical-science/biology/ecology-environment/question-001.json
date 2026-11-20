@@ -7,23 +7,23 @@
     },
     "options": [
       {
-        "en": "Plants",
-        "as": "উদ্ভিদ"
-      },
-      {
-        "en": "Water",
-        "as": "পানী"
-      },
-      {
         "en": "Soil",
         "as": "মাটি"
       },
       {
         "en": "Air",
         "as": "বায়ু"
+      },
+      {
+        "en": "Plants",
+        "as": "উদ্ভিদ"
+      },
+      {
+        "en": "Water",
+        "as": "পানী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Plants are a biotic component of an ecosystem.",
       "as": "উদ্ভিদ পৰিৱেশ তন্ত্ৰৰ এক জৈৱ উপাদান।"
@@ -97,6 +97,10 @@
     },
     "options": [
       {
+        "en": "Ecosystem",
+        "as": "পৰিৱেশ তন্ত্ৰ"
+      },
+      {
         "en": "Food chain",
         "as": "খাদ্য শৃংখল"
       },
@@ -107,13 +111,9 @@
       {
         "en": "Food pyramid",
         "as": "খাদ্য পিৰামিড"
-      },
-      {
-        "en": "Ecosystem",
-        "as": "পৰিৱেশ তন্ত্ৰ"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "Interconnected food chains form a food web.",
       "as": "পৰস্পৰ সংযুক্ত খাদ্য শৃংখলবোৰে খাদ্য জাল গঠন কৰে।"
@@ -127,23 +127,23 @@
     },
     "options": [
       {
-        "en": "Infrared rays",
-        "as": "অৱৰক্ত ৰশ্মি"
-      },
-      {
-        "en": "X-rays",
-        "as": "এক্স-ৰে"
-      },
-      {
         "en": "Gamma rays",
         "as": "গামা ৰশ্মি"
       },
       {
         "en": "Ultraviolet rays",
         "as": "অতি বেঙুনীয়া ৰশ্মি"
+      },
+      {
+        "en": "Infrared rays",
+        "as": "অৱৰক্ত ৰশ্মি"
+      },
+      {
+        "en": "X-rays",
+        "as": "এক্স-ৰে"
       }
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": {
       "en": "The ozone layer protects living beings from ultraviolet rays.",
       "as": "অ'জ'ন স্তৰে জীৱিত প্ৰাণীক অতি বেঙুনীয়া ৰশ্মিৰ পৰা ৰক্ষা কৰে।"
@@ -157,23 +157,23 @@
     },
     "options": [
       {
-        "en": "Forests",
-        "as": "বন"
-      },
-      {
-        "en": "Rivers",
-        "as": "নদী"
-      },
-      {
         "en": "Wildlife",
         "as": "বন্যপ্ৰাণী"
       },
       {
         "en": "Soil",
         "as": "মাটি"
+      },
+      {
+        "en": "Forests",
+        "as": "বন"
+      },
+      {
+        "en": "Rivers",
+        "as": "নদী"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The Chipko Movement was launched to protect forests and trees.",
       "as": "চিপকো আন্দোলন বন আৰু গছ ৰক্ষা কৰিবলৈ আৰম্ভ কৰা হৈছিল।"
@@ -187,23 +187,23 @@
     },
     "options": [
       {
-        "en": "22 April",
-        "as": "২২ এপ্ৰিল"
-      },
-      {
-        "en": "21 March",
-        "as": "২১ মাৰ্চ"
-      },
-      {
         "en": "5 June",
         "as": "৫ জুন"
       },
       {
         "en": "16 September",
         "as": "১৬ ছেপ্তেম্বৰ"
+      },
+      {
+        "en": "22 April",
+        "as": "২২ এপ্ৰিল"
+      },
+      {
+        "en": "21 March",
+        "as": "২১ মাৰ্চ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "World Environment Day is celebrated on 5 June every year.",
       "as": "প্ৰতি বছৰে ৫ জুনত বিশ্ব পৰিৱেশ দিৱস পালন কৰা হয়।"
@@ -217,6 +217,10 @@
     },
     "options": [
       {
+        "en": "Silchar",
+        "as": "শিলচৰ"
+      },
+      {
         "en": "Dibrugarh",
         "as": "ডিব্ৰুগড়"
       },
@@ -227,13 +231,9 @@
       {
         "en": "Jorhat",
         "as": "যোৰহাট"
-      },
-      {
-        "en": "Silchar",
-        "as": "শিলচৰ"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "Deepor Beel, a Ramsar wetland site, is located near Guwahati.",
       "as": "ৰামছাৰ জলাশয় স্থল দীপৰ বিল গুৱাহাটীৰ ওচৰত অৱস্থিত।"
@@ -247,23 +247,23 @@
     },
     "options": [
       {
-        "en": "Inverted",
-        "as": "ওলোটা"
-      },
-      {
-        "en": "Both upright and inverted",
-        "as": "সৰল আৰু ওলোটা দুয়োটা"
-      },
-      {
         "en": "Upright",
         "as": "সৰল"
       },
       {
         "en": "Circular",
         "as": "বৃত্তাকাৰ"
+      },
+      {
+        "en": "Inverted",
+        "as": "ওলোটা"
+      },
+      {
+        "en": "Both upright and inverted",
+        "as": "সৰল আৰু ওলোটা দুয়োটা"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "The pyramid of energy in an ecosystem is always upright.",
       "as": "পৰিস্থিতিতন্ত্ৰত শক্তিৰ পিৰামিড সদায় সৰল (তলত আধাৰ বহল)।"
@@ -277,23 +277,23 @@
     },
     "options": [
       {
-        "en": "Herbivores",
-        "as": "তৃণভোজী"
-      },
-      {
-        "en": "Carnivores",
-        "as": "মাংসভোজী"
-      },
-      {
         "en": "Decomposers",
         "as": "বিয়োজক"
       },
       {
         "en": "Producers (green plants)",
         "as": "উৎপাদক (সেউজীয়া উদ্ভিদ)"
+      },
+      {
+        "en": "Herbivores",
+        "as": "তৃণভোজী"
+      },
+      {
+        "en": "Carnivores",
+        "as": "মাংসভোজী"
       }
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": {
       "en": "The first trophic level in a food chain is occupied by producers (green plants).",
       "as": "খাদ্য শৃংখলৰ প্ৰথম ট্ৰফিক স্তৰ উৎপাদক (সেউজীয়া উদ্ভিদ)ৰ।"
@@ -307,10 +307,6 @@
     },
     "options": [
       {
-        "en": "Fungi and bacteria",
-        "as": "ভঁইকুৰ আৰু বেক্টেৰিয়া"
-      },
-      {
         "en": "Tiger",
         "as": "বাঘ"
       },
@@ -321,9 +317,13 @@
       {
         "en": "Grass",
         "as": "ঘাঁহ"
+      },
+      {
+        "en": "Fungi and bacteria",
+        "as": "ভঁইকুৰ আৰু বেক্টেৰিয়া"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Fungi and bacteria are examples of decomposers.",
       "as": "ভঁইকুৰ আৰু বেক্টেৰিয়া বিয়োজকৰ উদাহৰণ।"
@@ -337,6 +337,10 @@
     },
     "options": [
       {
+        "en": "Sikkim",
+        "as": "ছিক্কিম"
+      },
+      {
         "en": "Meghalaya",
         "as": "মেঘালয়"
       },
@@ -347,13 +351,9 @@
       {
         "en": "Assam",
         "as": "অসম"
-      },
-      {
-        "en": "Sikkim",
-        "as": "ছিক্কিম"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "Manas National Park is located in Assam.",
       "as": "মানস ৰাষ্ট্ৰীয় উদ্যান অসমত অৱস্থিত।"
@@ -367,23 +367,23 @@
     },
     "options": [
       {
-        "en": "The fifth",
-        "as": "পঞ্চম"
-      },
-      {
-        "en": "The fourth",
-        "as": "চতুৰ্থ"
-      },
-      {
         "en": "The third",
         "as": "তৃতীয়"
       },
       {
         "en": "The second",
         "as": "দ্বিতীয়"
+      },
+      {
+        "en": "The fifth",
+        "as": "পঞ্চম"
+      },
+      {
+        "en": "The fourth",
+        "as": "চতুৰ্থ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Grass is level one, the grasshopper level two, the frog three, the snake four and the hawk five, counting the producer as the first level.",
       "as": "ঘাঁহ স্তৰ এক, ফৰিং স্তৰ দুই, ভেকুলী তিনি, সাপ চাৰি আৰু শেন পাঁচ, উৎপাদকক প্ৰথম স্তৰ ধৰি গণনা কৰিলে।"
@@ -397,23 +397,23 @@
     },
     "options": [
       {
-        "en": "the number of organisms always rises",
-        "as": "জীৱৰ সংখ্যা সদায় বাঢ়ে"
-      },
-      {
-        "en": "a large part of the energy is lost as heat",
-        "as": "শক্তিৰ ডাঙৰ অংশ তাপ ৰূপে নোহোৱা হয়"
-      },
-      {
         "en": "biomass grows at every step",
         "as": "প্ৰতিটো খোজত জৈৱভৰ বাঢ়ে"
       },
       {
         "en": "decomposers supply fresh energy",
         "as": "বিয়োজকে নতুন শক্তি যোগায়"
+      },
+      {
+        "en": "the number of organisms always rises",
+        "as": "জীৱৰ সংখ্যা সদায় বাঢ়ে"
+      },
+      {
+        "en": "a large part of the energy is lost as heat",
+        "as": "শক্তিৰ ডাঙৰ অংশ তাপ ৰূপে নোহোৱা হয়"
       }
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "en": "Respiration releases most of the energy as heat, so only about a tenth passes on and every higher level holds less energy than the one below.",
       "as": "শ্বাস-প্ৰশ্বাসে বেছিভাগ শক্তি তাপ ৰূপে মুকলি কৰে, সেয়ে প্ৰায় এক দশমাংশহে আগবাঢ়ে আৰু ওপৰৰ প্ৰতিটো স্তৰত তলৰটোতকৈ কম শক্তি থাকে।"
@@ -427,10 +427,6 @@
     },
     "options": [
       {
-        "en": "The nitrogen cycle",
-        "as": "নাইট্ৰ'জেনৰ চক্ৰ"
-      },
-      {
         "en": "The carbon cycle",
         "as": "কাৰ্বনৰ চক্ৰ"
       },
@@ -441,9 +437,13 @@
       {
         "en": "The water cycle",
         "as": "জল চক্ৰ"
+      },
+      {
+        "en": "The nitrogen cycle",
+        "as": "নাইট্ৰ'জেনৰ চক্ৰ"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "Phosphorus is released by the weathering of rock and returns to the soil through decay. It has no atmospheric reservoir, unlike carbon and nitrogen.",
       "as": "ফছফৰাছ শিল ক্ষয় হৈ মুকলি হয় আৰু ক্ষয়ৰ জৰিয়তে মাটিলৈ ঘূৰি যায়। কাৰ্বন আৰু নাইট্ৰ'জেনৰ দৰে ইয়াৰ বায়ুমণ্ডলীয় ভাণ্ডাৰ নাই।"
@@ -489,6 +489,10 @@
     },
     "options": [
       {
+        "en": "biomass",
+        "as": "জৈৱ ভৰ"
+      },
+      {
         "en": "species richness",
         "as": "প্ৰজাতি সমৃদ্ধি"
       },
@@ -499,13 +503,9 @@
       {
         "en": "carrying capacity",
         "as": "বহন ক্ষমতা"
-      },
-      {
-        "en": "biomass",
-        "as": "জৈৱ ভৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Species richness counts how many species live there, without regard to their abundance. Population density counts individuals, carrying capacity sets a limit and biomass measures mass.",
       "as": "প্ৰজাতি সমৃদ্ধিয়ে কিমান প্ৰজাতি থাকে তাক গণে, প্ৰাচুৰ্য নধৰি। জনসংখ্যা ঘনত্বে ব্যক্তি গণে, বহন ক্ষমতাই সীমা ঠিক কৰে আৰু জৈৱ ভৰে ভৰ মাপে।"
@@ -613,10 +613,6 @@
     },
     "options": [
       {
-        "en": "chlorofluorocarbons",
-        "as": "ক্ল'ৰ'ফ্লুঅ'ৰ'কাৰ্বন"
-      },
-      {
         "en": "carbon monoxide",
         "as": "কাৰ্বন মন'ক্সাইড"
       },
@@ -627,9 +623,13 @@
       {
         "en": "methane",
         "as": "মিথেন"
+      },
+      {
+        "en": "chlorofluorocarbons",
+        "as": "ক্ল'ৰ'ফ্লুঅ'ৰ'কাৰ্বন"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Chlorofluorocarbons release chlorine atoms in the stratosphere, and each chlorine can destroy thousands of ozone molecules. Carbon monoxide and sulphur dioxide cause other pollution problems.",
       "as": "ক্ল'ৰ'ফ্লুঅ'ৰ'কাৰ্বনে ষ্ট্ৰেট'ছ্ফিয়াৰত ক্ল'ৰিন পৰমাণু এৰে, আৰু প্ৰতিটো ক্ল'ৰিনে হাজাৰ হাজাৰ অ'জ'ন অণু নষ্ট কৰিব পাৰে। কাৰ্বন মন'ক্সাইড আৰু ছালফাৰ ডাইঅক্সাইডে অন্য প্ৰদূষণ ঘটায়।"
@@ -644,23 +644,23 @@
     },
     "options": [
       {
-        "en": "methane",
-        "as": "মিথেন"
-      },
-      {
-        "en": "carbon dioxide",
-        "as": "কাৰ্বন ডাইঅক্সাইড"
-      },
-      {
         "en": "ozone",
         "as": "অ'জ'ন"
       },
       {
         "en": "nitrogen",
         "as": "নাইট্ৰজেন"
+      },
+      {
+        "en": "methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Waterlogged paddy soil and the rumen of cattle host methanogens that release methane. Carbon dioxide comes mainly from burning fossil fuel.",
       "as": "পানী থকা ধানপথাৰৰ মাটি আৰু গৰুৰ ৰুমেনত মিথেন'জেন থাকে যি মিথেন এৰে। কাৰ্বন ডাইঅক্সাইড মূলতঃ জীৱাশ্ম ইন্ধন জ্বলোৱাৰপৰা আহে।"
@@ -675,6 +675,10 @@
     },
     "options": [
       {
+        "en": "high salinity only",
+        "as": "কেৱল উচ্চ লৱণতা"
+      },
+      {
         "en": "excess nitrates and phosphates from fertiliser runoff",
         "as": "সাৰৰ পৰা অহা অতিৰিক্ত নাইট্ৰেট আৰু ফছফেট"
       },
@@ -685,13 +689,9 @@
       {
         "en": "low temperature",
         "as": "নিম্ন উষ্ণতা"
-      },
-      {
-        "en": "high salinity only",
-        "as": "কেৱল উচ্চ লৱণতা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Nutrient enrichment triggers algal blooms, and their decay consumes oxygen until fish die. Extra oxygen or cold water does not drive the process.",
       "as": "পুষ্টি সমৃদ্ধিয়ে শেলাইৰ ফুলন ঘটায়, আৰু তাৰ পচনে অক্সিজেন খৰচ কৰি মাছ মৰে। অতিৰিক্ত অক্সিজেন বা ঠাণ্ডা পানীয়ে এই প্ৰক্ৰিয়া নচলায়।"
@@ -706,10 +706,6 @@
     },
     "options": [
       {
-        "en": "at successive higher trophic levels",
-        "as": "ক্ৰমে উচ্চ পুষ্টি স্তৰত"
-      },
-      {
         "en": "in the soil only",
         "as": "কেৱল মাটিত"
       },
@@ -720,9 +716,13 @@
       {
         "en": "in the atmosphere",
         "as": "বায়ুমণ্ডলত"
+      },
+      {
+        "en": "at successive higher trophic levels",
+        "as": "ক্ৰমে উচ্চ পুষ্টি স্তৰত"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Fat-soluble pollutants such as DDT are not excreted and so build up in body tissue at each step of the food chain, harming top predators most. Water-soluble substances are usually excreted.",
       "as": "DDT ৰ দৰে চৰ্বি-দ্ৰৱণীয় প্ৰদূষক বৰ্জিত নহয়, সেয়ে খাদ্য শৃংখলৰ প্ৰতিটো স্তৰত দেহকলাত জমা হয় আৰু শীৰ্ষ শিকাৰুক সবাতোকৈ বেছি ক্ষতি কৰে। পানী-দ্ৰৱণীয় পদাৰ্থ সাধাৰণতে বৰ্জিত হয়।"
@@ -799,6 +799,10 @@
     },
     "options": [
       {
+        "en": "amensalism",
+        "as": "অসহভোজিতা"
+      },
+      {
         "en": "mutualism",
         "as": "পৰস্পৰবাদ"
       },
@@ -809,13 +813,9 @@
       {
         "en": "parasitism",
         "as": "পৰজীৱিতা"
-      },
-      {
-        "en": "amensalism",
-        "as": "অসহভোজিতা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "In mutualism both partners gain, as in lichens where alga and fungus help each other. Commensalism benefits one only, parasitism harms the host and amensalism harms one without gain to the other.",
       "as": "পৰস্পৰবাদত দুয়ো অংশীয়ে লাভ পায়, যেনে লাইকেনত শেলাই আৰু ভেঁকুৰে ইটোৱে সিটোক সহায় কৰে। সহভোজিতাত এটাই লাভ পায়, পৰজীৱিতাই পোষকক ক্ষতি কৰে আৰু অসহভোজিতাই আনৰ লাভ নোহোৱাকৈ এটাক ক্ষতি কৰে।"
@@ -830,10 +830,6 @@
     },
     "options": [
       {
-        "en": "maximum population it can support indefinitely",
-        "as": "অনিৰ্দিষ্টকাললৈ ধৰি ৰাখিব পৰা সৰ্বোচ্চ জনসংখ্যা"
-      },
-      {
         "en": "total number of species present",
         "as": "উপস্থিত প্ৰজাতিৰ মুঠ সংখ্যা"
       },
@@ -844,9 +840,13 @@
       {
         "en": "amount of rainfall received",
         "as": "পোৱা বৰষুণৰ পৰিমাণ"
+      },
+      {
+        "en": "maximum population it can support indefinitely",
+        "as": "অনিৰ্দিষ্টকাললৈ ধৰি ৰাখিব পৰা সৰ্বোচ্চ জনসংখ্যা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Carrying capacity is the population the available resources can sustain over time, and growth levels off there. Species count is richness and birth rate is a demographic rate.",
       "as": "বহন ক্ষমতা হ'ল উপলব্ধ সম্পদে সময়ৰ সৈতে ধৰি ৰাখিব পৰা জনসংখ্যা, আৰু বৃদ্ধি তাতেই সমতল হয়। প্ৰজাতি সংখ্যা সমৃদ্ধি আৰু জন্ম হাৰ জনসংখ্যাৰ হাৰ।"
@@ -861,6 +861,10 @@
     },
     "options": [
       {
+        "en": "biomass in a forest",
+        "as": "অৰণ্যৰ জৈৱ ভৰ"
+      },
+      {
         "en": "energy",
         "as": "শক্তি"
       },
@@ -871,13 +875,9 @@
       {
         "en": "biomass",
         "as": "জৈৱ ভৰ"
-      },
-      {
-        "en": "biomass in a forest",
-        "as": "অৰণ্যৰ জৈৱ ভৰ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Energy always decreases from one trophic level to the next because of heat loss, so its pyramid is always upright. Pyramids of number and biomass can invert, as when one tree supports many insects.",
       "as": "তাপ হেৰুওৱাৰ বাবে শক্তি প্ৰতিটো পুষ্টি স্তৰত সদায় কমে, সেয়ে ইয়াৰ পিৰামিড সদায় থিয়। সংখ্যা আৰু জৈৱ ভৰৰ পিৰামিড ওলোটা হ'ব পাৰে, যেনে এজোপা গছে বহু পতংগ ধৰি ৰাখিলে।"
@@ -892,23 +892,23 @@
     },
     "options": [
       {
-        "en": "solar radiation",
-        "as": "সৌৰ বিকিৰণ"
-      },
-      {
-        "en": "soil nutrients",
-        "as": "মাটিৰ পুষ্টি"
-      },
-      {
         "en": "water",
         "as": "পানী"
       },
       {
         "en": "atmospheric nitrogen",
         "as": "বায়ুমণ্ডলীয় নাইট্ৰজেন"
+      },
+      {
+        "en": "solar radiation",
+        "as": "সৌৰ বিকিৰণ"
+      },
+      {
+        "en": "soil nutrients",
+        "as": "মাটিৰ পুষ্টি"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Producers capture sunlight and convert it to chemical energy, which feeds every other level. Nutrients and water are materials, not the energy source.",
       "as": "উৎপাদকে সূৰ্যৰ পোহৰ ধৰি ৰাসায়নিক শক্তিলৈ ৰূপান্তৰ কৰে, যি প্ৰতিটো অন্য স্তৰক খাদ্য দিয়ে। পুষ্টি আৰু পানী সামগ্ৰী, শক্তিৰ উৎস নহয়।"
@@ -923,10 +923,6 @@
     },
     "options": [
       {
-        "en": "solar energy",
-        "as": "সৌৰ শক্তি"
-      },
-      {
         "en": "coal",
         "as": "কয়লা"
       },
@@ -937,9 +933,13 @@
       {
         "en": "natural gas",
         "as": "প্ৰাকৃতিক গেছ"
+      },
+      {
+        "en": "solar energy",
+        "as": "সৌৰ শক্তি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Solar energy is replenished continuously and will not run out on human timescales. Coal, petroleum and natural gas are fossil fuels formed over millions of years.",
       "as": "সৌৰ শক্তি নিৰন্তৰ পুনৰ পূৰণ হয় আৰু মানৱ সময়সীমাত শেষ নহয়। কয়লা, পেট্ৰ'লিয়াম আৰু প্ৰাকৃতিক গেছ কোটি বছৰত গঠিত জীৱাশ্ম ইন্ধন।"
@@ -954,23 +954,23 @@
     },
     "options": [
       {
-        "en": "predators digest food completely",
-        "as": "পৰভক্ষীয়ে খাদ্য সম্পূৰ্ণ হজম কৰে"
-      },
-      {
-        "en": "energy is created at each level",
-        "as": "প্ৰতিটো স্তৰত শক্তি সৃষ্টি হয়"
-      },
-      {
         "en": "the food chain has only two links",
         "as": "খাদ্য শৃংখলত কেৱল দুই খলপ"
       },
       {
         "en": "most energy is lost as heat through respiration and in uneaten parts",
         "as": "বেছিভাগ শক্তি শ্বাস-প্ৰশ্বাসেৰে তাপ হিচাপে আৰু নোখোৱা অংশত হেৰায়"
+      },
+      {
+        "en": "predators digest food completely",
+        "as": "পৰভক্ষীয়ে খাদ্য সম্পূৰ্ণ হজম কৰে"
+      },
+      {
+        "en": "energy is created at each level",
+        "as": "প্ৰতিটো স্তৰত শক্তি সৃষ্টি হয়"
       }
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": {
       "en": "Respiration converts most assimilated energy to heat, and not every part of the prey is eaten or digestible, so transfer is inefficient. Energy is never created in a food chain, only transferred and lost.",
       "as": "শ্বাস-প্ৰশ্বাসে বেছিভাগ আত্মসাৎ শক্তি তাপলৈ ৰূপান্তৰ কৰে, আৰু চিকাৰৰ প্ৰতিটো অংশ খোৱা বা হজমযোগ্য নহয়, সেয়ে স্থানান্তৰ অপৰ্যাপ্ত। খাদ্য শৃংখলত শক্তি সৃষ্টি নহয়, কেৱল স্থানান্তৰ আৰু ক্ষয়।"
@@ -1047,26 +1047,57 @@
     },
     "options": [
       {
-        "en": "a Ramsar wetland of international importance",
-        "as": "আন্তৰ্জাতিক গুৰুত্বৰ ৰামছাৰ জলভূমি"
-      },
-      {
-        "en": "a national park for tigers",
-        "as": "বাঘৰ বাবে ৰাষ্ট্ৰীয় উদ্যান"
-      },
-      {
         "en": "a biosphere reserve for elephants only",
         "as": "কেৱল হাতীৰ বাবে জীৱমণ্ডল সংৰক্ষিত অঞ্চল"
       },
       {
         "en": "a marine sanctuary",
         "as": "সামুদ্ৰিক অভয়াৰণ্য"
+      },
+      {
+        "en": "a Ramsar wetland of international importance",
+        "as": "আন্তৰ্জাতিক গুৰুত্বৰ ৰামছাৰ জলভূমি"
+      },
+      {
+        "en": "a national park for tigers",
+        "as": "বাঘৰ বাবে ৰাষ্ট্ৰীয় উদ্যান"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The wetland was listed under the Ramsar Convention because it supports migratory waterfowl and flood control for the city. Kaziranga and Manas are the park examples in Assam.",
       "as": "জলভূমিখন ৰামছাৰ সন্মিলনত তালিকাভুক্ত কাৰণ ই পৰিভ্ৰমী জলচৰ চৰাইক আশ্ৰয় দিয়ে আৰু চহৰৰ বান নিয়ন্ত্ৰণ কৰে। কাজিৰঙা আৰু মানস অসমৰ উদ্যানৰ উদাহৰণ।"
+    }
+  },
+  {
+    "id": "biology-429",
+    "leaf": "ecology-environment",
+    "q": {
+      "en": "In a pond the phytoplankton are tiny and numerous while the zooplankton that feed on them are larger, yet the biomass of phytoplankton measured at one moment is smaller. The pyramid of biomass here is",
+      "as": "পুখুৰীত ফাইট'প্লাংকটন সৰু আৰু সংখ্যাত অধিক যদিও সিহঁতক খোৱা জু'প্লাংকটন ডাঙৰ, তথাপি এটা মুহূৰ্তত জোখা ফাইট'প্লাংকটনৰ জৈৱভাৰ কম। ইয়াত জৈৱভাৰৰ পিৰামিড"
+    },
+    "options": [
+      {
+        "en": "always upright in water",
+        "as": "পানীত সদায় ঊৰ্ধ্বমুখী"
+      },
+      {
+        "en": "the same as the pyramid of energy",
+        "as": "শক্তিৰ পিৰামিডৰ সমান"
+      },
+      {
+        "en": "meaningless in aquatic systems",
+        "as": "জলীয় তন্ত্ৰত অৰ্থহীন"
+      },
+      {
+        "en": "inverted, because the producers turn over very fast",
+        "as": "ওলোটা, কাৰণ উৎপাদকবোৰ অতি দ্ৰুতভাৱে সলনি হয়"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A small standing crop of rapidly dividing phytoplankton can support a larger zooplankton biomass, so the biomass pyramid inverts while the energy pyramid stays upright. Saying it is always upright, equal to the energy pyramid, or meaningless ignores how turnover works.",
+      "as": "দ্ৰুতভাৱে বিভাজিত হোৱা সৰু থিয় ফাইট'প্লাংকটন শস্যই ডাঙৰ জু'প্লাংকটন জৈৱভাৰ ধৰি ৰাখিব পাৰে, সেয়ে জৈৱভাৰৰ পিৰামিড ওলোটা হয় যদিও শক্তিৰ পিৰামিড ঊৰ্ধ্বমুখী থাকে। সদায় ঊৰ্ধ্বমুখী, শক্তিৰ পিৰামিডৰ সমান বা অৰ্থহীন বুলি কোৱাটো সলনি কিদৰে কাম কৰে তাক উপেক্ষা কৰে।"
     }
   }
 ]

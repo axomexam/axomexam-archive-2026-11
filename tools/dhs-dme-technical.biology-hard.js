@@ -415,4 +415,286 @@ add("biology-399",
   "Nitrogenase needs ATP and is destroyed by oxygen, so the plant supplies sugar and leghaemoglobin keeps the nodule micro-aerobic. Nitrate is the product, not the starting material.",
   "নাইট্ৰ'জিনেজলৈ ATP লাগে আৰু অক্সিজেনে তাক নষ্ট কৰে, সেয়ে উদ্ভিদে চেনি যোগায় আৰু লেগহিম'গ্লবিনে গাঁ‌‌ঠিক অল্প-বায়ুযুক্ত ৰাখে। নাইট্ৰেট উৎপাদন, আৰম্ভণিৰ পদাৰ্থ নহয়।");
 
+/* ================= human-anatomy ================= */
+useLeaf("human-anatomy");
+
+add("biology-400",
+  "In the fetal heart blood bypasses the non-functioning lungs through an opening between the right and left atria. After birth this opening seals and leaves a shallow depression on the atrial septum called the",
+  "ভ্ৰূণ হৃদয়ত তেজে কাৰ্যক্ষম নোহোৱা ফুসফুস প্ৰদক্ষিণ নকৰি সোঁ আৰু বাওঁ এট্ৰিয়ামৰ মাজৰ এটা ৰন্ধ্ৰৰে যায়। জন্মৰ পিছত এই ৰন্ধ্ৰ বন্ধ হৈ এট্ৰিয়াম পৰ্দাত এটা অগভীৰ খোপ এৰি দিয়ে, যাক বোলা হয়",
+  [["fossa ovalis", "ফছা অভেলিছ"], ["sinus venosus", "ছাইনাছ ভেন'ছাছ"], ["ductus arteriosus", "ডাক্টাছ আৰ্টেৰিঅ'ছাছ"], ["coronary sinus", "কৰ'নেৰী ছাইনাছ"]], 0,
+  "The foramen ovale shunts oxygenated blood from the right to the left atrium in fetal life and closes after birth, leaving the fossa ovalis. The ductus arteriosus is a separate vessel joining the pulmonary artery to the aorta, and the coronary sinus drains the heart's own veins.",
+  "ভ্ৰূণ অৱস্থাত ফৰামেন অভেলে অক্সিজেনযুক্ত তেজ সোঁপৰা বাওঁ এট্ৰিয়ামলৈ পঠিয়াই আৰু জন্মৰ পিছত বন্ধ হৈ ফছা অভেলিছ এৰি দিয়ে। ডাক্টাছ আৰ্টেৰিঅ'ছাছ পাৰ্থক নলী যি পালম'নেৰী ধমনীক মহাধমনীৰ লগত জোৰে, আৰু কৰ'নেৰী ছাইনাছে হৃদয়ৰ নিজৰ নলা সংগ্ৰহ কৰে।");
+
+add("biology-401",
+  "A patient cannot raise the arm at the shoulder after a fracture through the surgical neck of the humerus, though sensation over the deltoid is also reduced. The nerve most likely injured is the",
+  "হিউমেৰাছৰ শল্য গ্ৰীৱাৰ ফ্ৰেকচাৰৰ পিছত ৰোগীয়ে কান্ধৰপৰা হাত দাঙিব নোৱাৰে, লগতে ডেল্টইডৰ ওপৰত অনুভূতিও কমি গৈছে। আটাই সম্ভাব্য আঘাতপ্ৰাপ্ত স্নায়ু",
+  [["axillary nerve", "এক্সিলাৰী স্নায়ু"], ["median nerve", "মিডিয়ান স্নায়ু"], ["ulnar nerve", "আলনাৰ স্নায়ু"], ["long thoracic nerve", "দীঘল থোৰাছিক স্নায়ু"]], 0,
+  "The axillary nerve winds round the surgical neck and supplies the deltoid and the skin over it, so a fracture there weakens abduction and dulls that patch of skin. The median and ulnar nerves serve the forearm and hand, and the long thoracic nerve supplies serratus anterior.",
+  "এক্সিলাৰী স্নায়ুৱে শল্য গ্ৰীৱা বেৰি ডেল্টইড আৰু তাৰ ওপৰৰ ছাল যোগান ধৰে, সেয়ে তাত ফ্ৰেকচাৰ হ'লে হাত দাঙিব নোৱাৰি আৰু সেই ছালৰ অনুভূতি কমে। মিডিয়ান আৰু আলনাৰ স্নায়ুৱে আগবাহু আৰু হাত যোগান ধৰে, আৰু দীঘল থোৰাছিক স্নায়ুৱে ছেৰেটাছ এণ্টেৰিয়ৰ যোগান ধৰে।");
+
+add("biology-402",
+  "The first cervical vertebra differs from every other vertebra in the column because it",
+  "প্ৰথম গ্ৰীবাৰ হাড় মেৰুদণ্ডৰ আন প্ৰতিটো হাড়ৰপৰা পৃথক কাৰণ ই",
+  [["has no body and consists of an anterior and a posterior arch", "দেহ নাই আৰু আগ আৰু পিছৰ খিলনৰে গঠিত"],
+   ["carries the largest spinous process", "আটাইতকৈ ডাঙৰ কাঁ‌ইচযুক্ত প্ৰৱৰ্ধ আছে"],
+   ["fuses with the sacrum", "ছেক্ৰামৰ লগত মিলি যায়"],
+   ["has twelve pairs of ribs attached", "বাৰ জোৰা পাঁজৰ সংযুক্ত"]], 0,
+  "The atlas, the first cervical vertebra, is a ring of anterior and posterior arches without a body, which is what allows the head to nod. The axis below it supplies the pivot, the sacrum is a fused block lower down, and ribs attach to the thoracic vertebrae.",
+  "এটলাছ, প্ৰথম গ্ৰীবাৰ হাড়, দেহ নোহোৱা আগ আৰু পিছৰ খিলনৰ আঙুঠি, যিয়ে মূৰ জোকাৰিবলৈ দিয়ে। তলৰ এক্সিছে অক্ষ যোগায়, ছেক্ৰাম তলত মিলি যোৱা খণ্ড, আৰু পাঁজৰ বক্ষদেশীয় হাড়ত সংযুক্ত হয়।");
+
+add("biology-403",
+  "Lymph collected from the entire body except the right side of the head, neck, thorax and the right arm is finally emptied into the",
+  "সোঁ মূৰ, ডিঙি, বক্ষদেশ আৰু সোঁ বাহুৰ বাহিৰে গোটেই শৰীৰৰপৰা সংগৃহীত লসিকা শেষত ঢালি দিয়া হয়",
+  [["junction of the left subclavian and left internal jugular veins", "বাওঁ ছাবক্লেভিয়ান আৰু বাওঁ অন্তৰ্জুগুলাৰ শিৰাৰ সংযোগস্থলত"],
+   ["right atrium directly", "পোনপটীয়াকৈ সোঁ এট্ৰিয়ামত"],
+   ["inferior vena cava", "অধোমহাশিৰাত"],
+   ["hepatic portal vein", "যকৃত প্ৰৱেশ শিৰাত"]], 0,
+  "The thoracic duct drains the whole body except the right upper quadrant and empties at the left venous angle. The right lymphatic duct handles that smaller region, and lymph never enters the portal vein.",
+  "থোৰাছিক ডাক্টে সোঁ ওপৰৰ চতুৰ্থাংশৰ বাহিৰে গোটেই শৰীৰ সংগ্ৰহ কৰি বাওঁ শিৰা কোণত ঢালে। সোঁ লসিকা নলীয়ে সেই সৰু অঞ্চল চম্ভালে, আৰু লসিকা কেতিয়াও প্ৰৱেশ শিৰাত নোসোমায়।");
+
+add("biology-404",
+  "The bony orbit that houses the eyeball is formed by the union of",
+  "চকুৰ গোলক ৰখা অস্থি কোটৰ গঠন হয় কাৰ সংযোগেৰে",
+  [["seven bones of the skull", "কৰোঁটৰ সাতখন হাড়"],
+   ["three bones only", "কেৱল তিনিখন হাড়"],
+   ["the frontal bone alone", "কেৱল ললাট হাড়"],
+   ["the sphenoid and maxilla only", "কেৱল স্ফেনইড আৰু মেক্সিলা"]], 0,
+  "Seven bones — frontal, sphenoid, zygomatic, maxilla, palatine, lacrimal and ethmoid — contribute to the orbit, which is why a blow to the face can injure the eye from several directions. Three bones, the frontal alone or a two bone ring would leave the socket incomplete.",
+  "সাতখন হাড় — ললাট, স্ফেনইড, জাইগ'মেটিক, মেক্সিলা, পালেটাইন, লেক্ৰিমেল আৰু এথমইড — কোটৰ গঢ়ে, সেয়ে মুখত ঘা লাগিলে কেইবাটাও দিশৰপৰা চকুত আঘাত হ'ব পাৰে। তিনিখন, কেৱল ললাট বা দুখন হাড়ৰ আঙুঠিয়ে কোটৰ অসম্পূৰ্ণ এৰি দিব।");
+
+add("biology-405",
+  "The only movable bone of the adult skull, articulating at the temporomandibular joint, is the",
+  "প্ৰাপ্তবয়স্ক কৰোঁটৰ একমাত্ৰ লৰচৰ কৰা হাড়, যি টেম্প'ৰ'মেন্ডিবুলাৰ সংযোগত জোৰা লগে, সেয়া",
+  [["mandible", "মেন্ডিবল"], ["maxilla", "মেক্সিলা"], ["zygomatic bone", "জাইগ'মেটিক হাড়"], ["vomer", "ভ'মাৰ"]], 0,
+  "The mandible moves against the temporal bone at the temporomandibular joint, which is what makes chewing and speech possible. The maxilla, zygomatic bone and vomer are fixed to the rest of the skull by sutures.",
+  "মেন্ডিবলে টেম্প'ৰেল হাড়ৰ বিৰুদ্ধে টেম্প'ৰ'মেন্ডিবুলাৰ সংযোগত লৰে, সেয়েই চোবোৱা আৰু কথা কোৱা সম্ভৱ কৰে। মেক্সিলা, জাইগ'মেটিক হাড় আৰু ভ'মাৰ চিলাইৰে কৰোঁটৰ বাকী অংশত স্থিৰ।");
+
+/* ================= general-biology ================= */
+useLeaf("general-biology");
+
+add("biology-406",
+  "An organism has peptidoglycan in its wall, no membrane bound nucleus and 70S ribosomes. In the five kingdom system it belongs to",
+  "এটা জীৱৰ বেৰত পেপ্টিড'গ্লাইকেন আছে, আৱৰণযুক্ত নিউক্লিয়াছ নাই আৰু ৭০S ৰাইব'জম আছে। পাঁচ ৰাজ্য ব্যৱস্থাত ই কাৰ অন্তৰ্ভুক্ত",
+  [["Monera", "মনেৰা"], ["Protista", "প্ৰটিষ্টা"], ["Fungi", "ফাংগাই"], ["Plantae", "প্লাণ্টাই"]], 0,
+  "Peptidoglycan walls, no true nucleus and 70S ribosomes together identify a prokaryote, which is Monera. Protista and Fungi are eukaryotic, and Fungi have chitin rather than peptidoglycan, while Plantae have cellulose.",
+  "পেপ্টিড'গ্লাইকেন বেৰ, প্ৰকৃত নিউক্লিয়াছৰ অভাৱ আৰু ৭০S ৰাইব'জমে একেলগে প্ৰকাৰ্যকোষী চিনাক্ত কৰে, যি মনেৰা। প্ৰটিষ্টা আৰু ফাংগাই প্ৰকৃত কোষী, আৰু ফাংগাইৰ পেপ্টিড'গ্লাইকেনৰ সলনি কাইটিন, আনহাতে প্লাণ্টাইৰ চেলুল'জ।");
+
+add("biology-407",
+  "In the name Mangifera indica, the first word denotes the",
+  "Mangifera indica নামত প্ৰথম শব্দই সূচায়",
+  [["genus", "গণ"], ["species", "প্ৰজাতি"], ["family", "পৰিয়াল"], ["author of the name", "নামৰ লেখক"]], 0,
+  "Binomial nomenclature puts the genus first and the species second, so Mangifera is the genus and indica the species. The family (Anacardiaceae) and the author are not part of the two word name.",
+  "দ্বিপদ নামকৰণত প্ৰথমে গণ আৰু দ্বিতীয়তে প্ৰজাতি থাকে, সেয়ে Mangifera গণ আৰু indica প্ৰজাতি। পৰিয়াল (Anacardiaceae) আৰু লেখক দুশব্দীয় নামৰ অংশ নহয়।");
+
+add("biology-408",
+  "A virus cannot be cultured on a nutrient medium free of living cells because it",
+  "জীৱন্ত কোষ নোহোৱা পুষ্টি মাধ্যমত ভাইৰাছক পুষ্টি মাধ্যমত ৰাখিব নোৱাৰি কাৰণ ই",
+  [["lacks the machinery to make protein and must use a host cell's ribosomes", "প্ৰ'টিন বনোৱা যন্ত্ৰ নাই আৰু হ'ষ্ট কোষৰ ৰাইব'জম ব্যৱহাৰ কৰিব লাগে"],
+   ["has no nucleic acid", "নিউক্লিক এছিড নাই"],
+   ["cannot survive outside water", "পানীৰ বাহিৰত জীয়াই থাকিব নোৱাৰে"],
+   ["is killed by all nutrients", "সকলো পুষ্টিয়ে বধ কৰে"]], 0,
+  "A virus carries only its genome and a protein coat, so it must borrow a host's ribosomes, enzymes and energy to replicate. It does have nucleic acid, can persist on dry surfaces, and is not killed by nutrients.",
+  "ভাইৰাছে কেৱল নিজৰ জিনম আৰু প্ৰ'টিন আৱৰণ কঢ়িয়ায়, সেয়ে প্ৰতিলিপিৰ বাবে হ'ষ্টৰ ৰাইব'জম, এনজাইম আৰু শক্তি ধাৰ কৰিব লাগে। ইয়াৰ নিউক্লিক এছিড আছে, শুকান পৃষ্ঠত থাকিব পাৰে, আৰু পুষ্টিয়ে বধ নকৰে।");
+
+add("biology-409",
+  "An enzyme's reaction rate is measured with and without a competitive inhibitor. The inhibitor raises the Michaelis constant while leaving the maximum velocity unchanged because it",
+  "প্ৰতিযোগিতামূলক বাধাদায়কৰ সৈতে আৰু নোহোৱাকৈ এনজাইমৰ বিক্ৰিয়াৰ হাৰ জোখা হয়। বাধাদায়কে মাইকেলিছ ধ্ৰুৱক বঢ়ায় কিন্তু সৰ্বোচ্চ বেগ অপৰিৱৰ্তিত ৰাখে কাৰণ ই",
+  [["binds the active site and is overcome by more substrate", "সক্ৰিয় স্থানত বান্ধি থাকে আৰু অধিক স্তৰকে নাকচ কৰে"],
+   ["binds the enzyme permanently", "এনজাইমত স্থায়ীভাৱে বান্ধি থাকে"],
+   ["changes the enzyme's shape for ever", "এনজাইমৰ আকৃতি চিৰকাল সলনি কৰে"],
+   ["destroys the substrate", "স্তৰক নষ্ট কৰে"]], 0,
+  "A competitive inhibitor competes for the active site, so a higher substrate concentration outcompetes it and the maximum velocity is still reached. Permanent or shape altering binding describes non-competitive and irreversible inhibition, which lower the maximum velocity.",
+  "প্ৰতিযোগিতামূলক বাধাদায়কে সক্ৰিয় স্থানৰ বাবে প্ৰতিযোগিতা কৰে, সেয়ে অধিক স্তৰক ঘনত্বই তাক হৰুৱায় আৰু সৰ্বোচ্চ বেগ লাভ কৰা যায়। স্থায়ী বা আকৃতি সলোৱা বান্ধনি অ-প্ৰতিযোগিতামূলক আৰু অপ্ৰত্যাবৰ্তনীয় বাধাৰ বৰ্ণনা, যিয়ে সৰ্বোচ্চ বেগ কমায়।");
+
+/* ================= animal-zoology ================= */
+useLeaf("animal-zoology");
+
+add("biology-410",
+  "A marine animal moves by hundreds of small tube feet worked by internal fluid pressure. The system responsible is the",
+  "এটা সাগৰীয় জীৱে ভিতৰৰ তৰলৰ চাপে চলোৱা শতাধিক সৰু নলী-ভৰিৰে চলে। দায়ী ব্যৱস্থাটো",
+  [["water vascular system", "জল-ভাস্কুলাৰ তন্ত্ৰ"], ["closed circulatory system", "বন্ধ সংবহন তন্ত্ৰ"], ["tracheal system", "শ্বাসনলী তন্ত্ৰ"], ["nephridial system", "নেফ্ৰিডিয়েল তন্ত্ৰ"]], 0,
+  "Tube feet driven by the water vascular system are the signature of echinoderms such as starfish and sea urchins. Closed circulation, tracheae and nephridia belong to other phyla and do not produce tube feet.",
+  "জল-ভাস্কুলাৰ তন্ত্ৰৰে চলা নলী-ভৰি ইকাইন'ডাৰ্ম যেনে তাৰামাছ আৰু সাগৰীয় সজাৰ চিন। বন্ধ সংবহন, শ্বাসনলী আৰু নেফ্ৰিডিয়া আন ফাইলামৰ আৰু নলী-ভৰি নগঢ়ে।");
+
+add("biology-411",
+  "Among reptiles, a four chambered heart with two separate ventricles is found in",
+  "সৰীসৃপৰ ভিতৰত দুটা পৃথক নিলয়যুক্ত চাৰি কোঠালিৰ হৃদয় পোৱা যায়",
+  [["crocodiles", "কুমিৰত"], ["lizards", "জেঠীত"], ["snakes", "সাপত"], ["tortoises", "কাছত"]], 0,
+  "Crocodilians have a four chambered heart with completely separated ventricles, unlike lizards, snakes and tortoises, whose ventricle is partly divided and still allows some mixing. That is why the crocodile is singled out in comparative anatomy.",
+  "কুমিৰৰ সম্পূৰ্ণ পৃথক নিলয়যুক্ত চাৰি কোঠালিৰ হৃদয়, জেঠী, সাপ আৰু কাছৰ বিপৰীতে যাৰ নিলয় আংশিক বিভক্ত আৰু কিছু মিশ্ৰণ হ'বলৈ দিয়ে। সেয়ে তুলনামূলক শৰীৰস্থানত কুমিৰক পৃথক কৰি কোৱা হয়।");
+
+add("biology-412",
+  "In a sea squirt the notochord is present only in the larval tail, which is why the group is placed among the chordates as",
+  "চী-স্কুৱাৰ্টত ন'টকৰ্ড কেৱল লাৰ্ভাৰ নেজত থাকে, সেয়ে গোটটোক কৰ্ডেটৰ ভিতৰত ৰখা হয়",
+  [["Urochordata", "ইউৰ'কৰ্ডাটা"], ["Cephalochordata", "চেফাল'কৰ্ডাটা"], ["Vertebrata", "ভাৰ্টিব্ৰাটা"], ["Echinodermata", "ইকাইন'ডাৰ্মাটা"]], 0,
+  "Urochordates keep the three chordate features in the larva and lose most of them as adults. Cephalochordates retain the notochord throughout life, vertebrates have a vertebral column, and echinoderms are not chordates at all.",
+  "ইউৰ'কৰ্ডাটাই লাৰ্ভাত তিনি কৰ্ডেট লক্ষণ ৰাখি প্ৰাপ্তবয়স্ক অৱস্থাত বেছিভাগ হেৰুৱায়। চেফাল'কৰ্ডাটাই জীৱনজুৰি ন'টকৰ্ড ৰাখে, ভাৰ্টিব্ৰাটাৰ মেৰুদণ্ড আছে, আৰু ইকাইন'ডাৰ্মাটা কৰ্ডেট নহয়।");
+
+add("biology-413",
+  "A flatworm has no body cavity between the gut and the body wall, the space being filled with parenchyma. Such an animal is described as",
+  "চেপেটা কৃমিৰ অন্ত্ৰ আৰু শৰীৰ বেৰৰ মাজত শৰীৰ গহ্বৰ নাই, স্থান প্যাৰেনকাইমাৰে ভৰা। এনে জীৱক বৰ্ণনা কৰা হয়",
+  [["acoelomate", "অছিল'মেট"], ["pseudocoelomate", "ছুড'ছিল'মেট"], ["coelomate", "ছিল'মেট"], ["deuterostome", "ডিউটাৰ'ষ্ট'ম"]], 0,
+  "Acoelomate means no true body cavity, which fits the flatworms. Pseudocoelomates such as roundworms have a cavity not lined by mesoderm, coelomates have a true lined cavity, and deuterostome describes embryonic development rather than a cavity.",
+  "অছিল'মেট মানে প্ৰকৃত শৰীৰ গহ্বৰ নাই, যি চেপেটা কৃমিৰ লগত মিলে। ছুড'ছিল'মেট যেনে গোলকৃমিৰ মেছ'ডাৰ্মেৰে আৱৰণ নোহোৱা গহ্বৰ আছে, ছিল'মেটৰ প্ৰকৃত আৱৰণযুক্ত গহ্বৰ, আৰু ডিউটাৰ'ষ্ট'মে গহ্বৰৰ সলনি ভ্ৰূণ বিকাশ বৰ্ণনা কৰে।");
+
+/* ================= cell-biology ================= */
+useLeaf("cell-biology");
+
+add("biology-414",
+  "A cell is placed in a solution and neither swells nor shrinks, so no net movement of water occurs across its membrane. The solution is",
+  "এটা কোষ দ্ৰৱত ৰখা হ'ল আৰু নুফুলে নুসংকুচিত হয়, সেয়ে পৰ্দাৰে পানীৰ প্ৰকৃত চলাচল নহয়। দ্ৰৱটো",
+  [["isotonic to the cytoplasm", "চাইট'প্লাজমৰ সৈতে সমচাপীয়"], ["hypotonic to the cytoplasm", "চাইট'প্লাজমতকৈ নিম্নচাপীয়"], ["hypertonic to the cytoplasm", "চাইট'প্লাজমতকৈ উচ্চচাপীয়"], ["free of all solutes", "সকলো দ্ৰৱকহীন"]], 0,
+  "When the outside and inside have the same solute concentration there is no net water movement, which is the definition of isotonic. A hypotonic solution makes the cell swell and a hypertonic one makes it shrink, while a solution free of solutes would be strongly hypotonic.",
+  "বাহিৰ আৰু ভিতৰৰ দ্ৰৱক ঘনত্ব একে হ'লে পানীৰ প্ৰকৃত চলাচল নাথাকে, যি সমচাপীয়ৰ সংজ্ঞা। নিম্নচাপীয় দ্ৰৱে কোষ ফুলায় আৰু উচ্চচাপীয়ে সংকুচিত কৰে, আনহাতে দ্ৰৱকহীন দ্ৰৱ প্ৰবল নিম্নচাপীয় হ'ব।");
+
+add("biology-415",
+  "A mature mammalian red blood cell cannot repair itself or divide because it has lost its",
+  "পৰিপক্ব স্তন্যপায়ী লোহিত ৰক্তকণিকা নিজকে মেৰামতি কৰিব বা বিভাজিত হ'ব নোৱাৰে কাৰণ ই হেৰুৱাইছে",
+  [["nucleus and most organelles", "নিউক্লিয়াছ আৰু বেছিভাগ অংগাণু"],
+   ["plasma membrane", "প্লাজমা পৰ্দা"],
+   ["haemoglobin", "হিম'গ্লবিন"],
+   ["cell shape", "কোষৰ আকৃতি"]], 0,
+  "Losing the nucleus and ribosomes means no new protein can be made, so repair and division are impossible, which is why the cell has a fixed life span. The membrane, haemoglobin and biconcave shape are all retained and are what allow it to carry oxygen.",
+  "নিউক্লিয়াছ আৰু ৰাইব'জম হেৰুওৱাৰ অৰ্থ নতুন প্ৰ'টিন বনিব নোৱাৰি, সেয়ে মেৰামতি আৰু বিভাজন অসম্ভৱ, কাৰণেই কোষৰ জীৱনকাল নিৰ্দিষ্ট। পৰ্দা, হিম'গ্লবিন আৰু দ্বিঅৱতল আকৃতি ৰক্ষা পায় আৰু সেয়াই অক্সিজেন কঢ়িয়াবলৈ দিয়ে।");
+
+add("biology-416",
+  "The cell wall of a fungus is chemically different from that of a plant because it is made mainly of",
+  "ছত্ৰাকৰ কোষ বেৰ উদ্ভিদৰপৰা ৰাসায়নিকভাৱে পৃথক কাৰণ ই মূলতঃ কাৰেৰে গঠিত",
+  [["chitin", "কাইটিন"], ["cellulose", "চেলুল'জ"], ["peptidoglycan", "পেপ্টিড'গ্লাইকেন"], ["lignin", "লিগনিন"]], 0,
+  "Fungal walls are built of chitin, the same material as an insect's exoskeleton, which is one reason fungi are placed in their own kingdom. Cellulose is the plant wall, peptidoglycan the bacterial wall, and lignin stiffens secondary plant walls rather than forming the wall itself.",
+  "ছত্ৰাকৰ বেৰ কাইটিনেৰে গঢ়া, পতংগৰ বাহ্যিক কংকালৰ সৈতে একেই পদাৰ্থ, সেয়ে ছত্ৰাকক নিজা ৰাজ্যত ৰখা হয়। চেলুল'জ উদ্ভিদ বেৰ, পেপ্টিড'গ্লাইকেন বেক্টেৰিয়া বেৰ, আৰু লিগনিনে দ্বিতীয়কৈ উদ্ভিদ বেৰ কঠিন কৰে, বেৰ গঢ়ি নুতোলে।");
+
+/* ================= human-physiology ================= */
+useLeaf("human-physiology");
+
+add("biology-417",
+  "Creatinine clearance is measured to estimate the glomerular filtration rate because creatinine is",
+  "গ্ল'মেৰুলাৰ ছাননি হাৰ অনুমান কৰিবলৈ ক্ৰিয়েটিনিন ক্লিয়াৰেন্স জোখা হয় কাৰণ ক্ৰিয়েটিনিন",
+  [["freely filtered and barely reabsorbed or secreted", "মুকলিভাৱে ছানিত হয় আৰু সামান্যহে পুনঃশোষিত বা নিঃসৃত হয়"],
+   ["actively secreted by the tubules only", "কেৱল নলীয়ে সক্ৰিয়ভাৱে নিঃসৰণ কৰে"],
+   ["completely reabsorbed after filtration", "ছাননিৰ পিছত সম্পূৰ্ণ পুনঃশোষিত হয়"],
+   ["produced only by the liver", "কেৱল যকৃতেহে উৎপন্ন কৰে"]], 0,
+  "A marker is useful for filtration only if it passes freely into the filtrate and is neither reabsorbed nor secreted, so its clearance equals the filtration rate. Creatinine roughly meets this, whereas glucose is fully reabsorbed and many drugs are actively secreted.",
+  "চিহ্নক ছাননিৰ বাবে উপযোগী হয় কেৱল তেতিয়া যেতিয়া ই মুকলিভাৱে ছানিত হৈ পুনঃশোষিত বা নিঃসৃত নহয়, তেতিয়া তাৰ ক্লিয়াৰেন্স ছাননি হাৰৰ সমান। ক্ৰিয়েটিনিনে মোটামুটি ইয়াক পূৰণ কৰে, আনহাতে গ্লুক'জ সম্পূৰ্ণ পুনঃশোষিত আৰু বহু ঔষধ সক্ৰিয়ভাৱে নিঃসৃত।");
+
+add("biology-418",
+  "During exercise the oxygen dissociation curve of haemoglobin shifts to the right, so oxygen is released more readily to the tissues. The shift is driven mainly by a rise in",
+  "ব্যায়ামৰ সময়ত হিম'গ্লবিনৰ অক্সিজেন বিয়োজন বক্ৰ ডাঙিলৈ সৰে, সেয়ে কলালৈ অক্সিজেন সহজে ওলায়। সৰণৰ মূল কাৰণ",
+  [["carbon dioxide and hydrogen ion concentration", "কাৰ্বন ডাইঅক্সাইড আৰু হাইড্ৰ'জেন আয়নৰ ঘনত্ব বৃদ্ধি"],
+   ["plasma calcium", "প্লাজমা কেলচিয়াম"],
+   ["blood glucose alone", "কেৱল তেজৰ গ্লুক'জ"],
+   ["body temperature falling", "শৰীৰৰ উষ্ণতা কমা"]], 0,
+  "More carbon dioxide lowers pH inside the red cell, which reduces haemoglobin's affinity and pushes oxygen off, an effect called the Bohr shift. Calcium, glucose alone and a fall in temperature would not produce a rightward shift; a rise in temperature would, but the main driver is carbon dioxide and hydrogen ions.",
+  "অধিক কাৰ্বন ডাইঅক্সাইডে লোহিত কোষৰ ভিতৰত pH কমায়, যিয়ে হিম'গ্লবিনৰ আকৰ্ষণ কমাই অক্সিজেন এৰি দিয়ে, যাক ব'ৰ সৰণ বোলে। কেলচিয়াম, কেৱল গ্লুক'জ আৰু উষ্ণতা কমিলে ডাঙিলৈ সৰণ নহয়; উষ্ণতা বঢ়িলে হয়, কিন্তু মূল চালক কাৰ্বন ডাইঅক্সাইড আৰু হাইড্ৰ'জেন আয়ন।");
+
+add("biology-419",
+  "After a carbohydrate meal blood glucose falls towards normal because insulin acts on muscle and fat to",
+  "শৰ্কৰাযুক্ত আহাৰৰ পিছত তেজৰ গ্লুক'জ স্বাভাৱিকলৈ নামে কাৰণ ইনছুলিনে পেশী আৰু চৰ্বিত কাম কৰি",
+  [["increase glucose uptake and promote glycogen formation", "গ্লুক'জ গ্ৰহণ বঢ়ায় আৰু গ্লাইক'জেন গঠন উৎসাহিত কৰে"],
+   ["increase glucose release from the liver", "যকৃতৰপৰা গ্লুক'জ মুকলি বঢ়ায়"],
+   ["break down glycogen to glucose", "গ্লাইক'জেন ভাঙি গ্লুক'জ কৰে"],
+   ["reduce the number of glucose transporters", "গ্লুক'জ পৰিবাহকৰ সংখ্যা কমায়"]], 0,
+  "Insulin moves glucose transporters to the cell surface and stimulates glycogen synthesis, so blood glucose falls. Releasing glucose from the liver and breaking down glycogen are glucagon's actions, and reducing transporters would raise blood glucose rather than lower it.",
+  "ইনছুলিনে গ্লুক'জ পৰিবাহক কোষ পৃষ্ঠলৈ নিয়ে আৰু গ্লাইক'জেন সংশ্লেষণ উৎসাহিত কৰে, সেয়ে তেজৰ গ্লুক'জ নামে। যকৃতৰপৰা গ্লুক'জ মুকলি আৰু গ্লাইক'জেন ভাঙা গ্লুকাগনৰ কাম, আৰু পৰিবাহক কমালে গ্লুক'জ বাঢ়িলহেঁতেন।");
+
+/* ================= genetics-evolution ================= */
+useLeaf("genetics-evolution");
+
+add("biology-420",
+  "A red flowered plant crossed with a white flowered one gives offspring that are all pink, and a cross of two pink plants gives red, pink and white in the ratio 1:2:1. This pattern indicates",
+  "এখন ৰঙা ফুলৰ উদ্ভিদক বগা ফুলৰ লগত সংকৰ কৰিলে সকলো গোলাপী সন্তান হয়, আৰু দুখন গোলাপী উদ্ভিদৰ সংকৰে ১:২:১ অনুপাতত ৰঙা, গোলাপী আৰু বগা দিয়ে। এই আৰ্হিয়ে সূচায়",
+  [["incomplete dominance", "অসম্পূৰ্ণ প্ৰভুত্ব"], ["complete dominance", "সম্পূৰ্ণ প্ৰভুত্ব"], ["codominance with two distinct phenotypes", "দুটা পৃথক প্ৰকাশ্যৰ সৈতে সহপ্ৰভুত্ব"], ["sex linkage", "লিংগ সংলগ্নতা"]], 0,
+  "The heterozygote shows an intermediate colour and the 1:2:1 ratio reflects genotypes rather than phenotypes, which is incomplete dominance. Complete dominance would give a 3:1 ratio, and codominance would show both parental colours side by side rather than a blend.",
+  "বিষমযুগ্মই মধ্যৱৰ্তী ৰং দেখুৱায় আৰু ১:২:১ অনুপাতে প্ৰকাশ্যৰ সলনি জিনপ্ৰকাৰ প্ৰতিফলিত কৰে, যি অসম্পূৰ্ণ প্ৰভুত্ব। সম্পূৰ্ণ প্ৰভুত্বে ৩:১ দিলেহেঁতেন, আৰু সহপ্ৰভুত্বে মিহলি নহয় দুয়ো পিতৃ-মাতৃৰ ৰং কাষে কাষে দেখুৱালেহেঁতেন।");
+
+add("biology-421",
+  "A girl of short stature with a webbed neck is found to have forty five chromosomes and a single X. The condition is",
+  "চুটি আকৃতি আৰু জালযুক্ত ডিঙিৰ এগৰাকী ছোৱালীত পঞ্চল্লিশখন ক্ৰ'ম'জ'ম আৰু এটা X পোৱা গ'ল। অৱস্থাটো",
+  [["Turner syndrome", "টাৰ্নাৰ চিনড্ৰ'ম"], ["Klinefelter syndrome", "ক্লাইনফেল্টাৰ চিনড্ৰ'ম"], ["Down syndrome", "ডাউন চিনড্ৰ'ম"], ["Edward syndrome", "এডৱাৰ্ড চিনড্ৰ'ম"]], 0,
+  "A single X with no second sex chromosome in a female phenotype is Turner syndrome. Klinefelter is XXY in a male, Down is trisomy 21 and Edward is trisomy 18, so none of them fits a 45,X karyotype.",
+  "নাৰী প্ৰকাশ্যত দ্বিতীয় লিংগ ক্ৰ'ম'জ'ম নোহোৱা অকলশৰীয়া X হ'ল টাৰ্নাৰ চিনড্ৰ'ম। ক্লাইনফেল্টাৰ পুৰুষত XXY, ডাউন ট্ৰাইছ'মি ২১ আৰু এডৱাৰ্ড ট্ৰাইছ'মি ১৮, সেয়ে ৪৫,X কেৰিঅ'টাইপত কোনোটোৱেই নিমিলে।");
+
+add("biology-422",
+  "The forelimb of a whale, the wing of a bat and the arm of a human have the same basic bone plan though they perform different functions. Such structures are called",
+  "তিমিৰ আগঠেং, বাদুলিৰ ডেউকা আৰু মানুহৰ বাহুৰ মূল হাড় আৰ্হি একেই যদিও কাৰ্য পৃথক। এনে গঠনক বোলা হয়",
+  [["homologous organs", "সমসংস্থ অংগ"], ["analogous organs", "সদৃশ কাৰ্যৰ অংগ"], ["vestigial organs", "অৱশিষ্ট অংগ"], ["atavistic organs", "পূৰ্বপুৰুষীয় অংগ"]], 0,
+  "Homologous organs share a common structural plan inherited from a common ancestor even when the function differs, which is evidence for evolution. Analogous organs look alike but differ in origin, vestigial organs are reduced remnants, and atavism is the reappearance of a lost trait.",
+  "সমসংস্থ অংগই সাধাৰণ পূৰ্বপুৰুষৰপৰা উত্তৰাধিকাৰী সূত্ৰে পোৱা সাধাৰণ গঠন আৰ্হি ভাগ কৰে যদিও কাৰ্য পৃথক, যি বিৱৰ্তনৰ প্ৰমাণ। সদৃশ অংগ দেখিবলৈ একে কিন্তু উৎপত্তিত পৃথক, অৱশিষ্ট অংগ ক্ষয়প্ৰাপ্ত অৱশেষ, আৰু পূৰ্বপুৰুষীয়তা হৈছে হেৰুওৱা গুণৰ পুনৰাবিৰ্ভাৱ।");
+
+/* ================= microbiology-biotechnology ================= */
+useLeaf("microbiology-biotechnology");
+
+add("biology-423",
+  "A Gram-positive organism keeps the purple colour after decolourisation because its",
+  "গ্ৰাম-ধনাত্মক জীৱই ৰং নষ্ট কৰাৰ পিছতো বেঙুনীয়া ৰং ৰাখে কাৰণ ইয়াৰ",
+  [["thick peptidoglycan layer retains the crystal violet iodine complex", "ডাঠ পেপ্টিড'গ্লাইকেন স্তৰে ক্ৰিষ্টেল ভায়'লেট আয়'ডিন জটিল ধৰি ৰাখে"],
+   ["outer membrane excludes all dyes", "বাহ্যিক পৰ্দাই সকলো ৰং বাধা দিয়ে"],
+   ["cell wall is made of chitin", "কোষ বেৰ কাইটিনেৰে গঠিত"],
+   ["cytoplasm is acidic", "চাইট'প্লাজম অম্লীয়"]], 0,
+  "The thick peptidoglycan mesh traps the crystal violet iodine complex when alcohol is applied, so the cell stays purple. A Gram-negative wall is thin and has an outer membrane that the alcohol dissolves, so the counterstain takes over and the cell appears pink.",
+  "এলকহল প্ৰয়োগ কৰিলে ডাঠ পেপ্টিড'গ্লাইকেন জালীয়ে ক্ৰিষ্টেল ভায়'লেট আয়'ডিন জটিল আটকায়, সেয়ে কোষ বেঙুনীয়া থাকে। গ্ৰাম-ঋণাত্মক বেৰ পাতল আৰু বাহ্যিক পৰ্দা আছে যি এলকহলে গলায়, সেয়ে প্ৰতিপ্ৰতীক ৰঙে ঠাই লৈ কোষ গোলাপী দেখায়।");
+
+add("biology-424",
+  "The polymerase chain reaction amplifies a specific DNA segment in a thermal cycler. The essential components apart from the template are",
+  "পলিমাৰেজ শৃংখল প্ৰতিক্ৰিয়াই তাপীয় চক্ৰযন্ত্ৰত নিৰ্দিষ্ট DNA খণ্ড বঢ়ায়। টেম্পলেটৰ বাহিৰে অত্যাৱশ্যকীয় উপাদান",
+  [["two primers, a thermostable DNA polymerase and deoxynucleotides", "দুটা প্ৰাইমাৰ, তাপ-স্থিৰ DNA পলিমাৰেজ আৰু ডিঅক্সিনিউক্লিঅ'টাইড"],
+   ["restriction enzyme and ligase", "নিয়ন্ত্ৰণ এনজাইম আৰু লাইগেজ"],
+   ["RNA polymerase and ribosomes", "RNA পলিমাৰেজ আৰু ৰাইব'জম"],
+   ["antibiotics and serum", "এণ্টিবায়'টিক আৰু ছিৰাম"]], 0,
+  "Primers define the segment, a thermostable polymerase such as Taq extends it, and deoxynucleotides supply the building blocks, with buffer and magnesium ions. Restriction enzymes and ligase belong to cloning, and RNA polymerase and ribosomes belong to transcription and translation.",
+  "প্ৰাইমাৰে খণ্ড নিৰ্ধাৰণ কৰে, টাকৰ দৰে তাপ-স্থিৰ পলিমাৰেজে বঢ়ায়, আৰু ডিঅক্সিনিউক্লিঅ'টাইডে নিৰ্মাণ-খণ্ড যোগায়, লগতে বাফাৰ আৰু মেগনেছিয়াম আয়ন। নিয়ন্ত্ৰণ এনজাইম আৰু লাইগেজ ক্ল'নিঙৰ, আৰু RNA পলিমাৰেজ তথা ৰাইব'জম অনুলিপন আৰু অনুবাদৰ।");
+
+add("biology-425",
+  "The biochemical oxygen demand of a water sample is used as an index of",
+  "পানীৰ নমুনাৰ জৈৱৰাসায়নিক অক্সিজেন চাহিদা কাৰ সূচক হিচাপে ব্যৱহাৰ কৰা হয়",
+  [["organic pollution load", "জৈৱিক প্ৰদূষণৰ ভাৰ"], ["dissolved mineral content", "দ্ৰৱীভূত খনিজৰ পৰিমাণ"], ["total hardness", "মুঠ কাঠিন্য"], ["chloride concentration", "ক্ল'ৰাইড ঘনত্ব"]], 0,
+  "Oxygen demand measures how much oxygen microbes consume while breaking down organic matter, so a high value means heavy organic pollution. Minerals, hardness and chloride are separate chemical measures and do not express microbial oxygen use.",
+  "অক্সিজেন চাহিদাই জৈৱিক পদাৰ্থ ভাঙোতে অণুজীৱে কিমান অক্সিজেন খৰচ কৰে জোখে, সেয়ে উচ্চ মানে গধুৰ জৈৱিক প্ৰদূষণ। খনিজ, কাঠিন্য আৰু ক্ল'ৰাইড পৃথক ৰাসায়নিক জোখ আৰু অণুজীৱৰ অক্সিজেন ব্যৱহাৰ প্ৰকাশ নকৰে।");
+
+/* ================= diseases-health ================= */
+useLeaf("diseases-health");
+
+add("biology-426",
+  "A person is bitten by a stray dog and the wound is washed at once. The reason immediate washing with soap and running water matters is that the rabies virus",
+  "এজনক পথৰ কুকুৰে কামোৰে আৰু ঘা তৎক্ষণাত ধুই দিয়া হয়। চাবোন আৰু বৈ থকা পানীৰে লগে লগে ধোৱাৰ কাৰণ — ৰেবিজ ভাইৰাছে",
+  [["is inactivated on the skin surface before it can reach nerve endings", "স্নায়ুৰ আগত উপনীত হোৱাৰ আগতে ছালৰ পৃষ্ঠত নিষ্ক্ৰিয় হয়"],
+   ["spreads only through drinking water", "কেৱল খোৱা পানীৰে বিয়পে"],
+   ["is carried by mosquitoes", "মহে কঢ়িয়ায়"],
+   ["multiplies in the stomach", "পেটত বংশবৃদ্ধি কৰে"]], 0,
+  "Washing removes virus laden saliva and reduces the dose before it enters nerve endings, which is why wound care is the first step and vaccination follows. Rabies is not waterborne, not mosquito borne and does not multiply in the stomach.",
+  "ধোৱাৰ ফলত ভাইৰাছযুক্ত লালটিয়াল আঁতৰি স্নায়ুৰ আগত সোমোৱাৰ আগতে মাত্ৰা কমে, সেয়ে ঘা চোৱা-চিতা প্ৰথম পদক্ষেপ আৰু তাৰ পিছত টীকা। ৰেবিজ পানী বা ম'হৰ দ্বাৰা নিয়বপে আৰু পেটত বংশবৃদ্ধি নকৰে।");
+
+add("biology-427",
+  "Dengue spreads most readily in a town where water collects in discarded tyres and plastic containers, because the vector mosquito",
+  "পেলাই দিয়া টায়াৰ আৰু প্লাষ্টিক পাত্ৰত পানী জমা হোৱা এখন চহৰত ডেঙ্গু সহজে বিয়পে, কাৰণ বাহক ম'হে",
+  [["breeds in clean standing water and bites during the day", "পৰিষ্কাৰ থিয় পানীত প্ৰজনন কৰি দিনত কামোৰে"],
+   ["breeds only in polluted drains and bites at night", "কেৱল প্ৰদূষিত নৰ্দমাত প্ৰজনন কৰি ৰাতি কামোৰে"],
+   ["lives only in forests", "কেৱল অৰণ্যত থাকে"],
+   ["feeds only on cattle", "কেৱল গৰুৰ তেজ খায়"]], 0,
+  "Aedes aegypti lays its eggs in small collections of clean water such as tyres and containers and is a day biter, which is why container hygiene and daytime protection matter. Polluted drains, forests and cattle feeding describe other mosquitoes.",
+  "এডিছ ইজিপ্টাই টায়াৰ আৰু পাত্ৰৰ দৰে সৰু পৰিষ্কাৰ পানীত কণী পাৰে আৰু দিনত কামোৰে, সেয়ে পাত্ৰ পৰিষ্কাৰতা আৰু দিনৰ সুৰক্ষা গুৰুত্বপূৰ্ণ। প্ৰদূষিত নৰ্দমা, অৰণ্য আৰু গৰুৰ তেজ আন ম'হৰ বৰ্ণনা।");
+
+/* ================= nutrition-vitamins ================= */
+useLeaf("nutrition-vitamins");
+
+add("biology-428",
+  "A patient with pernicious anaemia lacks a factor secreted by the stomach lining, so vitamin B12 cannot be absorbed even when the diet is adequate. The missing factor is",
+  "ঘাতক ৰক্তহীনতাৰ ৰোগীৰ পেটৰ আৱৰণে নিঃসৰণ কৰা এটা কাৰকৰ অভাৱ, সেয়ে আহাৰ পৰ্যাপ্ত হ'লেও ভিটামিন বি১২ শোষিত নহয়। অনুপস্থিত কাৰকটো",
+  [["intrinsic factor", "অন্তৰ্নিহিত কাৰক"], ["gastric acid alone", "কেৱল পেটৰ অম্ল"], ["bile salts", "পিত্ত লৱণ"], ["trypsin", "ট্ৰিপ্ছিন"]], 0,
+  "Parietal cells secrete intrinsic factor, which binds B12 and carries it to receptors in the ileum, so its loss blocks absorption and produces pernicious anaemia. Acid helps release B12 from food but is not the carrier, and bile salts and trypsin act on fats and proteins.",
+  "পেৰাইটেল কোষে অন্তৰ্নিহিত কাৰক নিঃসৰণ কৰে, যি বি১২ বান্ধি ইলিয়ামৰ গ্ৰাহকলৈ লৈ যায়, সেয়ে ইয়াৰ অভাৱত শোষণ বন্ধ হৈ ঘাতক ৰক্তহীনতা হয়। অম্লই আহাৰৰপৰা বি১২ মুকলি কৰাত সহায় কৰে কিন্তু বাহক নহয়, আৰু পিত্ত লৱণ তথা ট্ৰিপ্ছিনে চৰ্বি আৰু প্ৰ'টিনত কাম কৰে।");
+
+/* ================= ecology-environment ================= */
+useLeaf("ecology-environment");
+
+add("biology-429",
+  "In a pond the phytoplankton are tiny and numerous while the zooplankton that feed on them are larger, yet the biomass of phytoplankton measured at one moment is smaller. The pyramid of biomass here is",
+  "পুখুৰীত ফাইট'প্লাংকটন সৰু আৰু সংখ্যাত অধিক যদিও সিহঁতক খোৱা জু'প্লাংকটন ডাঙৰ, তথাপি এটা মুহূৰ্তত জোখা ফাইট'প্লাংকটনৰ জৈৱভাৰ কম। ইয়াত জৈৱভাৰৰ পিৰামিড",
+  [["inverted, because the producers turn over very fast", "ওলোটা, কাৰণ উৎপাদকবোৰ অতি দ্ৰুতভাৱে সলনি হয়"],
+   ["always upright in water", "পানীত সদায় ঊৰ্ধ্বমুখী"],
+   ["the same as the pyramid of energy", "শক্তিৰ পিৰামিডৰ সমান"],
+   ["meaningless in aquatic systems", "জলীয় তন্ত্ৰত অৰ্থহীন"]], 0,
+  "A small standing crop of rapidly dividing phytoplankton can support a larger zooplankton biomass, so the biomass pyramid inverts while the energy pyramid stays upright. Saying it is always upright, equal to the energy pyramid, or meaningless ignores how turnover works.",
+  "দ্ৰুতভাৱে বিভাজিত হোৱা সৰু থিয় ফাইট'প্লাংকটন শস্যই ডাঙৰ জু'প্লাংকটন জৈৱভাৰ ধৰি ৰাখিব পাৰে, সেয়ে জৈৱভাৰৰ পিৰামিড ওলোটা হয় যদিও শক্তিৰ পিৰামিড ঊৰ্ধ্বমুখী থাকে। সদায় ঊৰ্ধ্বমুখী, শক্তিৰ পিৰামিডৰ সমান বা অৰ্থহীন বুলি কোৱাটো সলনি কিদৰে কাম কৰে তাক উপেক্ষা কৰে।");
+
 module.exports = { questions: Q };

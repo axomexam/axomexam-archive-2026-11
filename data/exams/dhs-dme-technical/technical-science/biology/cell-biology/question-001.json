@@ -37,10 +37,6 @@
     },
     "options": [
       {
-        "en": "Nucleus",
-        "as": "নিউক্লিয়াছ"
-      },
-      {
         "en": "Ribosome",
         "as": "ৰাইব’জম"
       },
@@ -51,9 +47,13 @@
       {
         "en": "Golgi body",
         "as": "গলগি বডি"
+      },
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "Mitochondria is called the powerhouse of the cell because it produces energy in the form of ATP.",
       "as": "মাইট’কণ্ড্ৰিয়াই ATP ৰূপে শক্তি উৎপন্ন কৰে, সেয়ে ইয়াক কোষৰ শক্তিগৃহ বোলে।"
@@ -67,6 +67,10 @@
     },
     "options": [
       {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
+      },
+      {
         "en": "Mitochondria",
         "as": "মাইট’কণ্ড্ৰিয়া"
       },
@@ -77,13 +81,9 @@
       {
         "en": "Vacuole",
         "as": "ৰিক্তিকা"
-      },
-      {
-        "en": "Nucleus",
-        "as": "নিউক্লিয়াছ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "en": "The nucleus controls all the activities of the cell.",
       "as": "নিউক্লিয়াছে কোষৰ সকলো কাৰ্যকলাপ নিয়ন্ত্ৰণ কৰে।"
@@ -97,23 +97,23 @@
     },
     "options": [
       {
-        "en": "Bone marrow",
-        "as": "অস্থি মজ্জা"
-      },
-      {
-        "en": "Liver only in adults",
-        "as": "প্ৰাপ্তবয়স্কত কেৱল যকৃত"
-      },
-      {
         "en": "Heart",
         "as": "হৃদযন্ত্ৰ"
       },
       {
         "en": "Kidney",
         "as": "বৃক্ক"
+      },
+      {
+        "en": "Bone marrow",
+        "as": "অস্থি মজ্জা"
+      },
+      {
+        "en": "Liver only in adults",
+        "as": "প্ৰাপ্তবয়স্কত কেৱল যকৃত"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Red blood cells are produced in the bone marrow.",
       "as": "ৰক্ত কণিকা অস্থি মজ্জাত উৎপন্ন হয়।"
@@ -127,23 +127,23 @@
     },
     "options": [
       {
-        "en": "Cell wall",
-        "as": "কোষ দেৱাল"
-      },
-      {
-        "en": "Nucleus",
-        "as": "নিউক্লিয়াছ"
-      },
-      {
         "en": "Mitochondria",
         "as": "মাইট’কণ্ড্ৰিয়া"
       },
       {
         "en": "Cytoplasm",
         "as": "চাইট’প্লাজম"
+      },
+      {
+        "en": "Cell wall",
+        "as": "কোষ দেৱাল"
+      },
+      {
+        "en": "Nucleus",
+        "as": "নিউক্লিয়াছ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Plant cells have a rigid cell wall, which animal cells lack.",
       "as": "উদ্ভিদ কোষত কঠিন কোষ দেৱাল থাকে, যি প্ৰাণী কোষত নাথাকে।"
@@ -157,6 +157,10 @@
     },
     "options": [
       {
+        "en": "Lipid storage",
+        "as": "লিপিড সঞ্চয়"
+      },
+      {
         "en": "Photosynthesis",
         "as": "সালোক সংশ্লেষণ"
       },
@@ -167,13 +171,9 @@
       {
         "en": "Respiration",
         "as": "শ্বসন"
-      },
-      {
-        "en": "Lipid storage",
-        "as": "লিপিড সঞ্চয়"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "Ribosomes are the site of protein synthesis.",
       "as": "ৰাইব’জম হৈছে প্ৰ’টিন সংশ্লেষণৰ স্থান।"
@@ -187,23 +187,23 @@
     },
     "options": [
       {
-        "en": "23",
-        "as": "২৩"
-      },
-      {
-        "en": "44",
-        "as": "৪৪"
-      },
-      {
         "en": "46",
         "as": "৪৬"
       },
       {
         "en": "48",
         "as": "৪৮"
+      },
+      {
+        "en": "23",
+        "as": "২৩"
+      },
+      {
+        "en": "44",
+        "as": "৪৪"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "A normal human cell has 46 chromosomes (23 pairs).",
       "as": "সাধাৰণ মানৱ কোষত ৪৬ টা ক্ৰ’ম’জ’ম (২৩ যোৰ) থাকে।"
@@ -217,6 +217,10 @@
     },
     "options": [
       {
+        "en": "Budding",
+        "as": "মুকুলায়ন"
+      },
+      {
         "en": "Meiosis",
         "as": "মিয়’ছিছ"
       },
@@ -227,13 +231,9 @@
       {
         "en": "Fertilisation",
         "as": "নিষেক"
-      },
-      {
-        "en": "Budding",
-        "as": "মুকুলায়ন"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "Mitosis produces two identical daughter cells.",
       "as": "মাইট’ছিছে দুটা একেধৰণৰ অপত্য কোষ উৎপন্ন কৰে।"
@@ -247,6 +247,10 @@
     },
     "options": [
       {
+        "en": "Physiology",
+        "as": "দেহতত্ত্ব"
+      },
+      {
         "en": "Cytology",
         "as": "কোষ বিজ্ঞান"
       },
@@ -257,13 +261,9 @@
       {
         "en": "Anatomy",
         "as": "শৰীৰস্থান"
-      },
-      {
-        "en": "Physiology",
-        "as": "দেহতত্ত্ব"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "The study of cells is called cytology.",
       "as": "কোষৰ অধ্যয়নক কোষ বিজ্ঞান (চাইট’লজি) বোলে।"
@@ -277,6 +277,10 @@
     },
     "options": [
       {
+        "en": "Pseudopodia",
+        "as": "ছুদ্ৰপাদ"
+      },
+      {
         "en": "Cilia",
         "as": "চিলিয়া"
       },
@@ -287,13 +291,9 @@
       {
         "en": "Setae",
         "as": "ছেটি"
-      },
-      {
-        "en": "Pseudopodia",
-        "as": "ছুদ্ৰপাদ"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "en": "Amoeba moves with the help of pseudopodia.",
       "as": "এমিবা ছুদ্ৰপাদৰ সহায়ত চলে।"
@@ -307,6 +307,10 @@
     },
     "options": [
       {
+        "en": "Fins",
+        "as": "পাখনা"
+      },
+      {
         "en": "Cilia",
         "as": "চিলিয়া"
       },
@@ -317,13 +321,9 @@
       {
         "en": "Wings",
         "as": "ডেউকা"
-      },
-      {
-        "en": "Fins",
-        "as": "পাখনা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Paramoecium moves with the help of cilia.",
       "as": "পেৰামিচিয়াম চিলিয়াৰ সহায়ত চলে।"
@@ -337,6 +337,10 @@
     },
     "options": [
       {
+        "en": "Mendel and Morgan",
+        "as": "মেণ্ডেল আৰু মৰ্গান"
+      },
+      {
         "en": "Watson and Crick",
         "as": "ৱাটছন আৰু ক্ৰিক"
       },
@@ -347,13 +351,9 @@
       {
         "en": "Schleiden and Schwann",
         "as": "শ্লাইডেন আৰু শ্বান"
-      },
-      {
-        "en": "Mendel and Morgan",
-        "as": "মেণ্ডেল আৰু মৰ্গান"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "Cell theory was proposed by Schleiden and Schwann.",
       "as": "কোষ তত্ত্ব শ্লাইডেন আৰু শ্বানে প্ৰস্তাৱ কৰিছিল।"
@@ -367,6 +367,10 @@
     },
     "options": [
       {
+        "en": "Suicide bags of the cell",
+        "as": "কোষৰ আত্মহত্যাৰ থলি"
+      },
+      {
         "en": "Powerhouse of cell",
         "as": "কোষৰ শক্তিগৃহ"
       },
@@ -377,13 +381,9 @@
       {
         "en": "Control centre",
         "as": "নিয়ন্ত্ৰণ কেন্দ্ৰ"
-      },
-      {
-        "en": "Suicide bags of the cell",
-        "as": "কোষৰ আত্মহত্যাৰ থলি"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "en": "Lysosomes are known as the suicide bags of the cell.",
       "as": "লাইছ’জমক কোষৰ আত্মহত্যাৰ থলি বুলি জনা যায়।"
@@ -397,10 +397,6 @@
     },
     "options": [
       {
-        "en": "Packaging and secretion",
-        "as": "পেকেজিং আৰু নিঃসৰণ"
-      },
-      {
         "en": "Photosynthesis",
         "as": "সালোক সংশ্লেষণ"
       },
@@ -411,9 +407,13 @@
       {
         "en": "Respiration",
         "as": "শ্বসন"
+      },
+      {
+        "en": "Packaging and secretion",
+        "as": "পেকেজিং আৰু নিঃসৰণ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The Golgi apparatus is associated with the packaging and secretion of materials.",
       "as": "গলগি যন্ত্ৰ পদাৰ্থ পেকেজিং আৰু নিঃসৰণৰ সৈতে জড়িত।"
@@ -427,23 +427,23 @@
     },
     "options": [
       {
-        "en": "DNA only",
-        "as": "কেৱল DNA"
-      },
-      {
-        "en": "Water and dissolved substances",
-        "as": "পানী আৰু দ্ৰৱীভূত পদাৰ্থ"
-      },
-      {
         "en": "Only starch grains of animals",
         "as": "কেৱল প্ৰাণীৰ ষ্টাৰ্চ"
       },
       {
         "en": "Bones",
         "as": "হাড়"
+      },
+      {
+        "en": "DNA only",
+        "as": "কেৱল DNA"
+      },
+      {
+        "en": "Water and dissolved substances",
+        "as": "পানী আৰু দ্ৰৱীভূত পদাৰ্থ"
       }
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "en": "Vacuoles in plant cells mainly store water and dissolved substances.",
       "as": "উদ্ভিদ কোষৰ ৰিক্তিকাত মূলতঃ পানী আৰু দ্ৰৱীভূত পদাৰ্থ সঞ্চিত হয়।"
@@ -457,23 +457,23 @@
     },
     "options": [
       {
-        "en": "Smooth endoplasmic reticulum",
-        "as": "মসৃণ অন্তঃপ্ৰদেশীয় জালিকা"
-      },
-      {
-        "en": "Rough endoplasmic reticulum",
-        "as": "খহটা অন্তঃপ্ৰদেশীয় জালিকা"
-      },
-      {
         "en": "Peroxisome",
         "as": "পেৰ'ক্সিজম"
       },
       {
         "en": "Lysosome",
         "as": "লাইছ'জম"
+      },
+      {
+        "en": "Smooth endoplasmic reticulum",
+        "as": "মসৃণ অন্তঃপ্ৰদেশীয় জালিকা"
+      },
+      {
+        "en": "Rough endoplasmic reticulum",
+        "as": "খহটা অন্তঃপ্ৰদেশীয় জালিকা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The smooth endoplasmic reticulum carries no ribosomes. It holds the cytochrome P450 enzymes that break drugs down and the enzymes that build steroid hormones.",
       "as": "মসৃণ অন্তঃপ্ৰদেশীয় জালিকাত ৰাইব'জম নাথাকে। ইয়াত চাইট'ক্ৰ'ম পি৪৫০ এনজাইমে ঔষধ ভাঙি বিষহৰণ কৰে আৰু ষ্টেৰয়ড হৰম'ন গঢ়া এনজাইমবোৰো ইয়াতেই থাকে।"
@@ -487,10 +487,6 @@
     },
     "options": [
       {
-        "en": "Robert Hooke and Antonie van Leeuwenhoek",
-        "as": "ৰবাৰ্ট হুক আৰু এণ্টনি ভান লিউৱেনহুক"
-      },
-      {
         "en": "Seymour Singer and Garth Nicolson",
         "as": "ছিম'ৰ ছিংগাৰ আৰু গাৰ্থ নিকলছন"
       },
@@ -501,9 +497,13 @@
       {
         "en": "Matthias Schleiden and Theodor Schwann",
         "as": "মাথিয়াছ শ্লাইডেন আৰু থিঅ'ডৰ শ্বান"
+      },
+      {
+        "en": "Robert Hooke and Antonie van Leeuwenhoek",
+        "as": "ৰবাৰ্ট হুক আৰু এণ্টনি ভান লিউৱেনহুক"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "en": "Singer and Nicolson put the model forward in 1972. The lipid bilayer is fluid and the protein molecules drift in it like the pieces of a mosaic.",
       "as": "ছিংগাৰ আৰু নিকলছনে ১৯৭২ চনত এই আৰ্হি আগবঢ়ায়। লিপিড দ্বিস্তৰ তৰল আৰু প্ৰ'টিন অণুবোৰ ম'জেইকৰ টুকুৰাৰ দৰে ইয়াত ইফালে-সিফালে ঘূৰি থাকে।"
@@ -517,10 +517,6 @@
     },
     "options": [
       {
-        "en": "Desmosome",
-        "as": "ডেজম'জম"
-      },
-      {
         "en": "Tight junction",
         "as": "দৃঢ় সংযোগ"
       },
@@ -531,9 +527,13 @@
       {
         "en": "Plasmodesma",
         "as": "প্লাজম'ডেজমা"
+      },
+      {
+        "en": "Desmosome",
+        "as": "ডেজম'জম"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "A gap junction is a cluster of connexon channels and permits direct cytoplasmic exchange. In plant cells the same work is done by plasmodesmata.",
       "as": "ফাঁক সংযোগ হ'ল কনেক্সন নলীৰ সমষ্টি, যিয়ে চাইট'প্লাজমৰ পোনপটীয়া আদান-প্ৰদানত সহায় কৰে। উদ্ভিদ কোষত এই কাম প্লাজম'ডেজমেটাই কৰে।"
@@ -548,23 +548,23 @@
     },
     "options": [
       {
-        "en": "chitin",
-        "as": "কাইটিন"
-      },
-      {
-        "en": "cellulose",
-        "as": "চেলুল'জ"
-      },
-      {
         "en": "peptidoglycan",
         "as": "পেপ্টিড'গ্লাইকেন"
       },
       {
         "en": "lignin",
         "as": "লিগনিন"
+      },
+      {
+        "en": "chitin",
+        "as": "কাইটিন"
+      },
+      {
+        "en": "cellulose",
+        "as": "চেলুল'জ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Fungal walls are chitin, plant walls cellulose, and bacterial walls peptidoglycan. Chitin is a nitrogen-containing polysaccharide, which is why fungi differ from plants in wall chemistry.",
       "as": "ভেঁকুৰৰ কোষবেৰ কাইটিন, উদ্ভিদৰ চেলুল'জ আৰু বেক্টেৰিয়াৰ পেপ্টিড'গ্লাইকেন। কাইটিন নাইট্ৰজেনযুক্ত পলিছেকাৰাইড, সেয়ে ভেঁকুৰৰ বেৰৰ ৰসায়ন উদ্ভিদতকৈ বেলেগ।"
@@ -579,10 +579,6 @@
     },
     "options": [
       {
-        "en": "cristae",
-        "as": "ক্ৰিষ্টি"
-      },
-      {
         "en": "thylakoids",
         "as": "থাইলাকইড"
       },
@@ -593,9 +589,13 @@
       {
         "en": "microvilli",
         "as": "মাইক্ৰ'ভিলাই"
+      },
+      {
+        "en": "cristae",
+        "as": "ক্ৰিষ্টি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Cristae are the inward folds of the inner membrane and they hold the respiratory assemblies. Thylakoids belong to chloroplasts, cisternae to Golgi and ER, and microvilli to the plasma membrane.",
       "as": "ক্ৰিষ্টি হ'ল অন্তঃপৰ্দাৰ ভিতৰমুৱা ভাঁজ, য'ত শ্বসন সংযোগস্থল থাকে। থাইলাকইড ক্ল'ৰ'প্লাষ্টৰ, চিষ্টাৰ্নি গলজি আৰু ER ৰ, আৰু মাইক্ৰ'ভিলাই প্লাজমা পৰ্দাৰ।"
@@ -610,23 +610,23 @@
     },
     "options": [
       {
-        "en": "ribosomal RNA synthesis",
-        "as": "ৰাইব'জ'মেল RNA সংশ্লেষণ"
-      },
-      {
-        "en": "DNA replication",
-        "as": "DNA প্ৰতিলিপন"
-      },
-      {
         "en": "lipid synthesis",
         "as": "লিপিড সংশ্লেষণ"
       },
       {
         "en": "ATP formation",
         "as": "ATP গঠন"
+      },
+      {
+        "en": "ribosomal RNA synthesis",
+        "as": "ৰাইব'জ'মেল RNA সংশ্লেষণ"
+      },
+      {
+        "en": "DNA replication",
+        "as": "DNA প্ৰতিলিপন"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The nucleolus is a dense region inside the nucleus where ribosomal RNA is transcribed and ribosomal subunits are assembled. DNA replication happens in the nucleoplasm, not the nucleolus.",
       "as": "নিউক্লিঅ'লাছ নিউক্লিয়াছৰ ভিতৰৰ ঘন অঞ্চল, য'ত ৰাইব'জ'মেল RNA প্ৰতিলিখন হয় আৰু ৰাইব'জ'মেল উপএকক সজ্জিত হয়। DNA প্ৰতিলিপন নিউক্লিঅ'প্লাজমত হয়, নিউক্লিঅ'লাছত নহয়।"
@@ -641,23 +641,23 @@
     },
     "options": [
       {
-        "en": "leucoplasts",
-        "as": "লিউক'প্লাষ্ট"
-      },
-      {
-        "en": "chloroplasts",
-        "as": "ক্ল'ৰ'প্লাষ্ট"
-      },
-      {
         "en": "chromoplasts",
         "as": "ক্ৰ'ম'প্লাষ্ট"
       },
       {
         "en": "amyloplasts only",
         "as": "কেৱল এমাইল'প্লাষ্ট"
+      },
+      {
+        "en": "leucoplasts",
+        "as": "লিউক'প্লাষ্ট"
+      },
+      {
+        "en": "chloroplasts",
+        "as": "ক্ল'ৰ'প্লাষ্ট"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Leucoplasts are the unpigmented plastids of storage tissue; amyloplasts are one kind of leucoplast, so naming only amyloplasts is too narrow. Chloroplasts are green and chromoplasts carry non-green pigments.",
       "as": "লিউক'প্লাষ্ট হ'ল সাঁচনি কলাৰ বৰ্ণহীন প্লাষ্টিড; এমাইল'প্লাষ্ট লিউক'প্লাষ্টৰ এটা প্ৰকাৰ, সেয়ে কেৱল এমাইল'প্লাষ্ট বুলিলে অতি সংকীৰ্ণ হয়। ক্ল'ৰ'প্লাষ্ট সেউজ আৰু ক্ৰ'ম'প্লাষ্টত সেউজ নহ'ব পৰা ৰঞ্জক থাকে।"
@@ -672,10 +672,6 @@
     },
     "options": [
       {
-        "en": "70S type",
-        "as": "৭০S প্ৰকাৰ"
-      },
-      {
         "en": "80S type",
         "as": "৮০S প্ৰকাৰ"
       },
@@ -686,9 +682,13 @@
       {
         "en": "40S type",
         "as": "৪০S প্ৰকাৰ"
+      },
+      {
+        "en": "70S type",
+        "as": "৭০S প্ৰকাৰ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Prokaryotes carry 70S ribosomes made of 50S and 30S subunits. Eukaryotic cytoplasmic ribosomes are 80S, built from 60S and 40S subunits.",
       "as": "প্ৰকাৰ্য'টত ৭০S ৰাইব'জ'ম থাকে, যি ৫০S আৰু ৩০S উপএককৰে গঠিত। ইউকাৰ্য'টিক চাইট'প্লাজমৰ ৰাইব'জ'ম ৮০S, যি ৬০S আৰু ৪০S উপএককৰে গঠিত।"
@@ -734,10 +734,6 @@
     },
     "options": [
       {
-        "en": "prokaryotic",
-        "as": "প্ৰকাৰ্য'টিক"
-      },
-      {
         "en": "eukaryotic",
         "as": "ইউকাৰ্য'টিক"
       },
@@ -748,9 +744,13 @@
       {
         "en": "multicellular",
         "as": "বহুকোষীয়"
+      },
+      {
+        "en": "prokaryotic",
+        "as": "প্ৰকাৰ্য'টিক"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Absence of a nuclear envelope and of membrane-bound organelles such as mitochondria is the defining feature of prokaryotes. A eukaryotic cell always has a true nucleus even if some organelles are reduced.",
       "as": "নিউক্লিয় আৱৰণ আৰু মাইট'কণ্ড্ৰিয়াৰ দৰে পৰ্দাবদ্ধ অংগাণুৰ অনুপস্থিতি প্ৰকাৰ্য'টৰ মূল বৈশিষ্ট্য। ইউকাৰ্য'টিক কোষত সদায় প্ৰকৃত নিউক্লিয়াছ থাকে যদিও কিছু অংগাণু হ্ৰাস পায়।"
@@ -765,23 +765,23 @@
     },
     "options": [
       {
-        "en": "cellulose",
-        "as": "চেলুল'জ"
-      },
-      {
-        "en": "starch",
-        "as": "ষ্টাৰ্চ"
-      },
-      {
         "en": "glycogen",
         "as": "গ্লাইক'জেন"
       },
       {
         "en": "chitin",
         "as": "কাইটিন"
+      },
+      {
+        "en": "cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "starch",
+        "as": "ষ্টাৰ্চ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Cellulose microfibrils give the plant wall its tensile strength. Starch and glycogen are storage polysaccharides and chitin builds fungal and arthropod exoskeletons.",
       "as": "চেলুল'জ মাইক্ৰ'ফাইব্ৰিলে উদ্ভিদ বেৰক টান শক্তি দিয়ে। ষ্টাৰ্চ আৰু গ্লাইক'জেন সাঁচনি পলিছেকাৰাইড, আৰু কাইটিনে ভেঁকুৰ আৰু সন্ধিপদৰ বহিঃকংকাল গঠন কৰে।"
@@ -796,6 +796,10 @@
     },
     "options": [
       {
+        "en": "nucleus",
+        "as": "নিউক্লিয়াছ"
+      },
+      {
         "en": "cytoplasm",
         "as": "চাইট'প্লাজম"
       },
@@ -806,13 +810,9 @@
       {
         "en": "inner mitochondrial membrane",
         "as": "মাইট'কণ্ড্ৰিয়াৰ অন্তঃপৰ্দা"
-      },
-      {
-        "en": "nucleus",
-        "as": "নিউক্লিয়াছ"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "All ten steps of glycolysis are cytosolic, so the pathway runs without oxygen and without mitochondria. The Krebs cycle and oxidative phosphorylation are the mitochondrial stages.",
       "as": "গ্লাইক'লাইছিসৰ দহোটা স্তৰ চাইট'ছ'লত হয়, সেয়ে পথটো অক্সিজেন আৰু মাইট'কণ্ড্ৰিয়া অবিহনেও চলে। ক্ৰেবছ চক্ৰ আৰু অক্সিডেটিভ ফছফ'ৰিলেচন মাইট'কণ্ড্ৰিয়াৰ স্তৰ।"
@@ -827,10 +827,6 @@
     },
     "options": [
       {
-        "en": "S phase",
-        "as": "S দশা"
-      },
-      {
         "en": "G1 phase",
         "as": "G১ দশা"
       },
@@ -841,9 +837,13 @@
       {
         "en": "M phase",
         "as": "M দশা"
+      },
+      {
+        "en": "S phase",
+        "as": "S দশা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "The S phase is the synthesis phase in which each chromosome is duplicated. G1 and G2 are gap phases of growth, and M phase is the actual division.",
       "as": "S দশা হ'ল সংশ্লেষণ দশা, য'ত প্ৰতিটো ক্ৰ'ম'জ'ম নকল হয়। G১ আৰু G২ বৃদ্ধিৰ অন্তৰাল দশা, আৰু M দশা প্ৰকৃত বিভাজন।"
@@ -858,6 +858,10 @@
     },
     "options": [
       {
+        "en": "plasmodesma",
+        "as": "প্লাজম'ডেছমা"
+      },
+      {
         "en": "tight junction",
         "as": "টাইট জংচন"
       },
@@ -868,13 +872,9 @@
       {
         "en": "desmosome",
         "as": "ডেছম'জ'ম"
-      },
-      {
-        "en": "plasmodesma",
-        "as": "প্লাজম'ডেছমা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Tight junctions seal the space between cells so solutes cannot slip through the gap. Gap junctions are channels for ions and desmosomes are rivets for mechanical hold.",
       "as": "টাইট জংচনে কোষৰ মাজৰ খালী ঠাই বন্ধ কৰে যাতে দ্ৰাৱ্য নিগৰি যাব নোৱাৰে। গেপ জংচন আয়নৰ বাবে Channels আৰু ডেছম'জ'ম যান্ত্ৰিক ধৰণৰ কীলক।"
@@ -889,10 +889,6 @@
     },
     "options": [
       {
-        "en": "breaking down fatty acids and hydrogen peroxide",
-        "as": "চৰ্বি অ্যাসিড আৰু হাইড্ৰজেন পেৰ'ক্সাইড ভাঙি দিয়া"
-      },
-      {
         "en": "synthesising ATP",
         "as": "ATP সংশ্লেষণ"
       },
@@ -903,9 +899,13 @@
       {
         "en": "storing water",
         "as": "পানী সাঁচি ৰখা"
+      },
+      {
+        "en": "breaking down fatty acids and hydrogen peroxide",
+        "as": "চৰ্বি অ্যাসিড আৰু হাইড্ৰজেন পেৰ'ক্সাইড ভাঙি দিয়া"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Peroxisomes oxidise long-chain fatty acids and hold catalase, which splits the toxic hydrogen peroxide they generate into water and oxygen. ATP synthesis belongs to mitochondria.",
       "as": "পেৰ'ক্সিছ'মে দীঘল শৃংখলৰ চৰ্বি অ্যাসিড অক্সিডাইজ কৰে আৰু কেটালেজ ৰাখে, যি সৃষ্ট হাইড্ৰজেন পেৰ'ক্সাইডক পানী আৰু অক্সিজেনত ভাঙে। ATP সংশ্লেষণ মাইট'কণ্ড্ৰিয়াৰ কাম।"
@@ -920,23 +920,23 @@
     },
     "options": [
       {
-        "en": "lysosome",
-        "as": "লাইছ'জ'ম"
-      },
-      {
-        "en": "ribosome",
-        "as": "ৰাইব'জ'ম"
-      },
-      {
         "en": "peroxisome",
         "as": "পেৰ'ক্সিছ'ম"
       },
       {
         "en": "centrosome",
         "as": "চেণ্ট্ৰ'জ'ম"
+      },
+      {
+        "en": "lysosome",
+        "as": "লাইছ'জ'ম"
+      },
+      {
+        "en": "ribosome",
+        "as": "ৰাইব'জ'ম"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Lysosomes hold acid hydrolases and can rupture to digest the cell itself during autolysis, hence the nickname. A peroxisome handles oxidative reactions, not bulk digestion.",
       "as": "লাইছ'জ'মত অ্যাসিড হাইড্ৰ'লেজ থাকে আৰু অট'লাইছিছত ফাটি কোষকেই হজম কৰিব পাৰে, সেয়ে এই নাম। পেৰ'ক্সিছ'মে অক্সিডেটিভ বিক্ৰিয়া চম্ভালে, বৃহৎ হজম নহয়।"
@@ -951,10 +951,6 @@
     },
     "options": [
       {
-        "en": "rigid crystalline structure",
-        "as": "কঠিন স্ফটিক গঠন"
-      },
-      {
         "en": "active rejection of all ions",
         "as": "সকলো আয়ন সক্ৰিয়ভাৱে প্ৰত্যাখ্যান"
       },
@@ -965,9 +961,13 @@
       {
         "en": "complete impermeability",
         "as": "সম্পূৰ্ণ অভেদ্যতা"
+      },
+      {
+        "en": "rigid crystalline structure",
+        "as": "কঠিন স্ফটিক গঠন"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "The bilayer lets water cross freely but restricts solute movement, so water follows its concentration gradient. In distilled water there is no solute outside, water enters and the cell bursts; in isotonic saline the movement balances. A completely impermeable membrane would never swell at all.",
       "as": "দ্বিস্তৰে পানীক মুকলিকৈ যাব দিয়ে কিন্তু দ্ৰৱক ৰোধ কৰে, সেয়ে পানীয়ে ঘনত্বৰ ঢাল অনুসৰি চলে। পাতিত পানীত বাহিৰত দ্ৰৱক নাই, পানী সোমাই কোষ ফাটে; সমপৰিসৰীয় লুণীয়া পানীত চলাচল সমান হয়। সম্পূৰ্ণ অভেদ্য ঝিল্লী কেতিয়াও নুফুলে।"
@@ -1075,26 +1075,119 @@
     },
     "options": [
       {
-        "en": "wall pressure in the opposite direction",
-        "as": "বিপৰীত দিশত বেৰৰ চাপ"
-      },
-      {
-        "en": "diffusion pressure deficit",
-        "as": "বিস্তাৰ চাপ ঘাটি"
-      },
-      {
         "en": "turgor pressure",
         "as": "টাৰ্গৰ চাপ"
       },
       {
         "en": "osmotic potential only",
         "as": "কেৱল অছিম'টিক বিভৱ"
+      },
+      {
+        "en": "wall pressure in the opposite direction",
+        "as": "বিপৰীত দিশত বেৰৰ চাপ"
+      },
+      {
+        "en": "diffusion pressure deficit",
+        "as": "বিস্তাৰ চাপ ঘাটি"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "Turgor pressure is the hydrostatic pressure inside the cell pushing outward on the wall. Osmotic potential is a tendency of water to move, not a physical pressure, and wall pressure pushes inward as the reaction.",
       "as": "টাৰ্গৰ চাপ হ'ল কোষৰ ভিতৰৰ দ্ৰৱচাপ যি বেৰৰ ওপৰত বাহিৰলৈ হেঁ‌চে। অছিম'টিক বিভৱ পানী চলাৰ প্ৰৱণতা, ভৌতিক চাপ নহয়, আৰু বেৰৰ চাপ প্ৰতিক্ৰিয়া হিচাপে ভিতৰলৈ হেঁ‌চে।"
+    }
+  },
+  {
+    "id": "biology-414",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "A cell is placed in a solution and neither swells nor shrinks, so no net movement of water occurs across its membrane. The solution is",
+      "as": "এটা কোষ দ্ৰৱত ৰখা হ'ল আৰু নুফুলে নুসংকুচিত হয়, সেয়ে পৰ্দাৰে পানীৰ প্ৰকৃত চলাচল নহয়। দ্ৰৱটো"
+    },
+    "options": [
+      {
+        "en": "free of all solutes",
+        "as": "সকলো দ্ৰৱকহীন"
+      },
+      {
+        "en": "isotonic to the cytoplasm",
+        "as": "চাইট'প্লাজমৰ সৈতে সমচাপীয়"
+      },
+      {
+        "en": "hypotonic to the cytoplasm",
+        "as": "চাইট'প্লাজমতকৈ নিম্নচাপীয়"
+      },
+      {
+        "en": "hypertonic to the cytoplasm",
+        "as": "চাইট'প্লাজমতকৈ উচ্চচাপীয়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "When the outside and inside have the same solute concentration there is no net water movement, which is the definition of isotonic. A hypotonic solution makes the cell swell and a hypertonic one makes it shrink, while a solution free of solutes would be strongly hypotonic.",
+      "as": "বাহিৰ আৰু ভিতৰৰ দ্ৰৱক ঘনত্ব একে হ'লে পানীৰ প্ৰকৃত চলাচল নাথাকে, যি সমচাপীয়ৰ সংজ্ঞা। নিম্নচাপীয় দ্ৰৱে কোষ ফুলায় আৰু উচ্চচাপীয়ে সংকুচিত কৰে, আনহাতে দ্ৰৱকহীন দ্ৰৱ প্ৰবল নিম্নচাপীয় হ'ব।"
+    }
+  },
+  {
+    "id": "biology-415",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "A mature mammalian red blood cell cannot repair itself or divide because it has lost its",
+      "as": "পৰিপক্ব স্তন্যপায়ী লোহিত ৰক্তকণিকা নিজকে মেৰামতি কৰিব বা বিভাজিত হ'ব নোৱাৰে কাৰণ ই হেৰুৱাইছে"
+    },
+    "options": [
+      {
+        "en": "cell shape",
+        "as": "কোষৰ আকৃতি"
+      },
+      {
+        "en": "nucleus and most organelles",
+        "as": "নিউক্লিয়াছ আৰু বেছিভাগ অংগাণু"
+      },
+      {
+        "en": "plasma membrane",
+        "as": "প্লাজমা পৰ্দা"
+      },
+      {
+        "en": "haemoglobin",
+        "as": "হিম'গ্লবিন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Losing the nucleus and ribosomes means no new protein can be made, so repair and division are impossible, which is why the cell has a fixed life span. The membrane, haemoglobin and biconcave shape are all retained and are what allow it to carry oxygen.",
+      "as": "নিউক্লিয়াছ আৰু ৰাইব'জম হেৰুওৱাৰ অৰ্থ নতুন প্ৰ'টিন বনিব নোৱাৰি, সেয়ে মেৰামতি আৰু বিভাজন অসম্ভৱ, কাৰণেই কোষৰ জীৱনকাল নিৰ্দিষ্ট। পৰ্দা, হিম'গ্লবিন আৰু দ্বিঅৱতল আকৃতি ৰক্ষা পায় আৰু সেয়াই অক্সিজেন কঢ়িয়াবলৈ দিয়ে।"
+    }
+  },
+  {
+    "id": "biology-416",
+    "leaf": "cell-biology",
+    "q": {
+      "en": "The cell wall of a fungus is chemically different from that of a plant because it is made mainly of",
+      "as": "ছত্ৰাকৰ কোষ বেৰ উদ্ভিদৰপৰা ৰাসায়নিকভাৱে পৃথক কাৰণ ই মূলতঃ কাৰেৰে গঠিত"
+    },
+    "options": [
+      {
+        "en": "chitin",
+        "as": "কাইটিন"
+      },
+      {
+        "en": "cellulose",
+        "as": "চেলুল'জ"
+      },
+      {
+        "en": "peptidoglycan",
+        "as": "পেপ্টিড'গ্লাইকেন"
+      },
+      {
+        "en": "lignin",
+        "as": "লিগনিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Fungal walls are built of chitin, the same material as an insect's exoskeleton, which is one reason fungi are placed in their own kingdom. Cellulose is the plant wall, peptidoglycan the bacterial wall, and lignin stiffens secondary plant walls rather than forming the wall itself.",
+      "as": "ছত্ৰাকৰ বেৰ কাইটিনেৰে গঢ়া, পতংগৰ বাহ্যিক কংকালৰ সৈতে একেই পদাৰ্থ, সেয়ে ছত্ৰাকক নিজা ৰাজ্যত ৰখা হয়। চেলুল'জ উদ্ভিদ বেৰ, পেপ্টিড'গ্লাইকেন বেক্টেৰিয়া বেৰ, আৰু লিগনিনে দ্বিতীয়কৈ উদ্ভিদ বেৰ কঠিন কৰে, বেৰ গঢ়ি নুতোলে।"
     }
   }
 ]

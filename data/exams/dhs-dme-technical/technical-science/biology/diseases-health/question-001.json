@@ -7,6 +7,10 @@
     },
     "options": [
       {
+        "en": "Fungus",
+        "as": "ফাংগাছ"
+      },
+      {
         "en": "Virus",
         "as": "ভাইৰাছ"
       },
@@ -17,13 +21,9 @@
       {
         "en": "Bacteria",
         "as": "বেক্টেৰিয়া"
-      },
-      {
-        "en": "Fungus",
-        "as": "ফাংগাছ"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "Malaria is caused by the parasite Plasmodium.",
       "as": "প্লাজম’ডিয়াম পৰজীৱীয়ে মেলেৰিয়া সৃষ্টি কৰে।"
@@ -37,23 +37,23 @@
     },
     "options": [
       {
-        "en": "Culex mosquito",
-        "as": "কিউলেক্স মহ"
-      },
-      {
-        "en": "Aedes mosquito",
-        "as": "এডিছ মহ"
-      },
-      {
         "en": "Female Anopheles mosquito",
         "as": "মাইকী এনফিলিছ মহ"
       },
       {
         "en": "Housefly",
         "as": "ঘৰ মাখি"
+      },
+      {
+        "en": "Culex mosquito",
+        "as": "কিউলেক্স মহ"
+      },
+      {
+        "en": "Aedes mosquito",
+        "as": "এডিছ মহ"
       }
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "en": "Malaria is transmitted by the bite of the female Anopheles mosquito.",
       "as": "মাইকী এনফিলিছ মাহে কামোৰাৰ দ্বাৰা মেলেৰিয়া বিয়পে।"
@@ -67,23 +67,23 @@
     },
     "options": [
       {
-        "en": "Anopheles",
-        "as": "এনফিলিছ"
-      },
-      {
-        "en": "Culex",
-        "as": "কিউলেক্স"
-      },
-      {
         "en": "Sandfly",
         "as": "বালি মাখি"
       },
       {
         "en": "Aedes mosquito",
         "as": "এডিছ মহ"
+      },
+      {
+        "en": "Anopheles",
+        "as": "এনফিলিছ"
+      },
+      {
+        "en": "Culex",
+        "as": "কিউলেক্স"
       }
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": {
       "en": "Dengue is transmitted by the Aedes mosquito.",
       "as": "এডিছ মাহে ডেংগু বিয়পায়।"
@@ -97,10 +97,6 @@
     },
     "options": [
       {
-        "en": "Mycobacterium tuberculosis",
-        "as": "মাইক’বেক্টেৰিয়াম টিউবাৰকিউল’চিছ"
-      },
-      {
         "en": "Virus",
         "as": "ভাইৰাছ"
       },
@@ -111,9 +107,13 @@
       {
         "en": "Fungus",
         "as": "ফাংগাছ"
+      },
+      {
+        "en": "Mycobacterium tuberculosis",
+        "as": "মাইক’বেক্টেৰিয়াম টিউবাৰকিউল’চিছ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Tuberculosis is caused by the bacterium Mycobacterium tuberculosis.",
       "as": "মাইক’বেক্টেৰিয়াম টিউবাৰকিউল’চিছ বেক্টেৰিয়াই যক্ষ্মা সৃষ্টি কৰে।"
@@ -157,6 +157,10 @@
     },
     "options": [
       {
+        "en": "Worm",
+        "as": "কৃমি"
+      },
+      {
         "en": "Bacteria",
         "as": "বেক্টেৰিয়া"
       },
@@ -167,13 +171,9 @@
       {
         "en": "Virus",
         "as": "ভাইৰাছ"
-      },
-      {
-        "en": "Worm",
-        "as": "কৃমি"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "Polio is caused by the polio virus.",
       "as": "পলিঅ’ ৰোগ পলিঅ’ ভাইৰাছৰ দ্বাৰা হয়।"
@@ -187,10 +187,6 @@
     },
     "options": [
       {
-        "en": "Mycology",
-        "as": "ভঁইকুৰ বিজ্ঞান"
-      },
-      {
         "en": "Ecology",
         "as": "পৰিস্থিতি বিজ্ঞান"
       },
@@ -201,9 +197,13 @@
       {
         "en": "Virology",
         "as": "ভাইৰাছ বিজ্ঞান"
+      },
+      {
+        "en": "Mycology",
+        "as": "ভঁইকুৰ বিজ্ঞান"
       }
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": {
       "en": "The study of viruses is called virology.",
       "as": "ভাইৰাছৰ অধ্যয়নক ভাইৰাছ বিজ্ঞান (ভাইৰ’লজি) বোলে।"
@@ -217,6 +217,10 @@
     },
     "options": [
       {
+        "en": "Salmonella",
+        "as": "ছালম’নেলা"
+      },
+      {
         "en": "Lactobacillus",
         "as": "লেক্ট’বেচিলাছ"
       },
@@ -227,13 +231,9 @@
       {
         "en": "Streptococcus",
         "as": "ষ্ট্ৰেপ্ট’ক’কাছ"
-      },
-      {
-        "en": "Salmonella",
-        "as": "ছালম’নেলা"
       }
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "en": "Rhizobium bacteria present in the root nodules of legumes fix atmospheric nitrogen.",
       "as": "শস্য গছৰ শিপাৰ গাঁঠিত থকা ৰাইজ’বিয়াম বেক্টেৰিয়াই বায়ুমণ্ডলীয় নাইট্ৰজেন স্থিৰ কৰে।"
@@ -277,6 +277,10 @@
     },
     "options": [
       {
+        "en": "Pleural effusion",
+        "as": "প্লুৰেল এফিউশ্যন"
+      },
+      {
         "en": "Bronchial asthma",
         "as": "ব্ৰংকিয়েল এজমা"
       },
@@ -287,13 +291,9 @@
       {
         "en": "Pulmonary tuberculosis",
         "as": "ফুসফুসৰ যক্ষ্মা"
-      },
-      {
-        "en": "Pleural effusion",
-        "as": "প্লুৰেল এফিউশ্যন"
       }
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "en": "Acid-fast bacilli plus an upper-lobe cavity is the classic picture of tuberculosis. Pneumonia produces consolidation of a lobe, not a cavity.",
       "as": "অছিড-ফাষ্ট বেচিলাছ আৰু ওপৰৰ ল'বৰ গহ্বৰ যক্ষ্মাৰ ধ্ৰুপদী চিত্ৰ। নিউম'নিয়াত ল'ব সংহত হয়, গহ্বৰ নহয়।"
@@ -307,6 +307,10 @@
     },
     "options": [
       {
+        "en": "a sharp fall in platelets and leakage from capillaries",
+        "as": "প্লেটলেট হঠাতে কমি যোৱা আৰু কেশিকা নলীৰ পৰা ৰস ওলোৱা"
+      },
+      {
         "en": "blockage of the common bile duct",
         "as": "সাধাৰণ পিত্তনলী বন্ধ হোৱা"
       },
@@ -317,13 +321,9 @@
       {
         "en": "destruction of the red bone marrow",
         "as": "ৰঙা অস্থি মজ্জাৰ বিনাশ"
-      },
-      {
-        "en": "a sharp fall in platelets and leakage from capillaries",
-        "as": "প্লেটলেট হঠাতে কমি যোৱা আৰু কেশিকা নলীৰ পৰা ৰস ওলোৱা"
       }
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "en": "The virus injures capillary walls and depresses platelet production, so plasma leaks into tissues and bleeding begins.",
       "as": "ভাইৰাছে কেশিকা নলীৰ বেৰৰ ক্ষতি কৰে আৰু প্লেটলেট উৎপাদন কমায়, ফলত ৰস কলালৈ ওলাই যায় আৰু ৰক্তক্ষৰণ আৰম্ভ হয়।"
@@ -369,10 +369,6 @@
     },
     "options": [
       {
-        "en": "Vibrio cholerae",
-        "as": "ভিব্ৰিঅ' কলেৰি"
-      },
-      {
         "en": "Salmonella typhi",
         "as": "ছালম'নেলা টাইফাই"
       },
@@ -383,9 +379,13 @@
       {
         "en": "Mycobacterium leprae",
         "as": "মাইক'বেক্টেৰিয়াম লেপ্ৰি"
+      },
+      {
+        "en": "Vibrio cholerae",
+        "as": "ভিব্ৰিঅ' কলেৰি"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Cholera is a bacterial disease of the small intestine caused by Vibrio cholerae and spread by contaminated water. Salmonella causes typhoid, Clostridium tetanus and Mycobacterium leprae leprosy.",
       "as": "কলেৰা ক্ষুদ্ৰান্ত্ৰৰ বেক্টেৰিয়া ৰোগ, ভিব্ৰিঅ' কলেৰিৰ দ্বাৰা হয় আৰু দূষিত পানীৰে বিয়পে। ছালম'নেলাই টাইফইড, ক্ল'ষ্ট্ৰিডিয়ামে ধনুষ্টংকাৰ আৰু মাইক'বেক্টেৰিয়াম লেপ্ৰিয়ে কুষ্ঠ ৰোগ কৰে।"
@@ -462,23 +462,23 @@
     },
     "options": [
       {
-        "en": "helper T lymphocytes",
-        "as": "সহায়ক T লিম্ফ'চাইট"
-      },
-      {
-        "en": "red blood cells",
-        "as": "লোহিত ৰক্তকণিকা"
-      },
-      {
         "en": "platelets",
         "as": "অণুচক্ৰিকা"
       },
       {
         "en": "nerve cells",
         "as": "স্নায়ু কোষ"
+      },
+      {
+        "en": "helper T lymphocytes",
+        "as": "সহায়ক T লিম্ফ'চাইট"
+      },
+      {
+        "en": "red blood cells",
+        "as": "লোহিত ৰক্তকণিকা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "HIV binds the CD4 receptor of helper T cells and destroys them, so the immune response collapses. Red cells, platelets and neurons lack CD4 and are not the target.",
       "as": "HIV এ সহায়ক T কোষৰ CD4 গ্ৰাহকত বান্ধি সেইবোৰ নষ্ট কৰে, সেয়ে ৰোগ প্ৰতিৰক্ষা ভাঙি পৰে। লোহিত কণিকা, অণুচক্ৰিকা আৰু স্নায়ু কোষত CD4 নাই, সেয়ে লক্ষ্য নহয়।"
@@ -493,10 +493,6 @@
     },
     "options": [
       {
-        "en": "liver, then red blood cells",
-        "as": "যকৃত, তাৰ পিছত লোহিত ৰক্তকণিকা"
-      },
-      {
         "en": "lungs only",
         "as": "কেৱল ফুসফুস"
       },
@@ -507,9 +503,13 @@
       {
         "en": "bone marrow only",
         "as": "কেৱল অস্থি মজ্জা"
+      },
+      {
+        "en": "liver, then red blood cells",
+        "as": "যকৃত, তাৰ পিছত লোহিত ৰক্তকণিকা"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Sporozoites first enter liver cells to multiply, then the merozoites invade red cells, which burst and cause the fever cycle. The lung and kidney are not the primary sites.",
       "as": "স্প'ৰ'জ'ৱাইটে প্ৰথমে যকৃত কোষত সোমাই বংশবৃদ্ধি কৰে, তাৰ পিছত মিৰ'জ'ৱাইটে লোহিত কণিকা আক্ৰমণ কৰে, যি ফাটি জ্বৰৰ চক্ৰ ঘটায়। ফুসফুস আৰু বৃক্ক প্ৰাথমিক স্থান নহয়।"
@@ -524,10 +524,6 @@
     },
     "options": [
       {
-        "en": "Diabetes mellitus",
-        "as": "মধুমেহ"
-      },
-      {
         "en": "Cholera",
         "as": "কলেৰা"
       },
@@ -538,9 +534,13 @@
       {
         "en": "Influenza",
         "as": "ইনফ্লুৱেঞ্জা"
+      },
+      {
+        "en": "Diabetes mellitus",
+        "as": "মধুমেহ"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Diabetes arises from insulin deficiency or resistance and cannot pass from person to person. Cholera, tuberculosis and influenza are all infectious.",
       "as": "মধুমেহ ইনছুলিনৰ অভাৱ বা প্ৰতিৰোধৰপৰা হয় আৰু এজনৰপৰা আনজনলৈ নাযায়। কলেৰা, যক্ষ্মা আৰু ইনফ্লুৱেঞ্জা সকলো সংক্ৰামক।"
@@ -555,6 +555,10 @@
     },
     "options": [
       {
+        "en": "sandfly",
+        "as": "বালি মাখি"
+      },
+      {
         "en": "Aedes aegypti",
         "as": "এডিছ ইজিপ্টাই"
       },
@@ -565,13 +569,9 @@
       {
         "en": "housefly",
         "as": "ঘৰ মাখি"
-      },
-      {
-        "en": "sandfly",
-        "as": "বালি মাখি"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Aedes aegypti, a day-biting mosquito, carries the dengue virus. Anopheles spreads malaria, the housefly carries enteric pathogens and the sandfly spreads kala-azar.",
       "as": "এডিছ ইজিপ্টাই, দিনত কামোৰা মশা, ডেঙ্গু ভাইৰাছ কঢ়িয়ায়। এন'ফিলিছে মেলেৰিয়া, ঘৰ মাখিয়ে অন্ত্ৰ ৰোগজীৱ আৰু বালি মাখিয়ে কালা-জ্বৰ বিয়পায়।"
@@ -617,10 +617,6 @@
     },
     "options": [
       {
-        "en": "Vitamin C",
-        "as": "ভিটামিন C"
-      },
-      {
         "en": "Vitamin K",
         "as": "ভিটামিন K"
       },
@@ -631,9 +627,13 @@
       {
         "en": "Vitamin E only",
         "as": "কেৱল ভিটামিন E"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন C"
       }
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "en": "Vitamin C supports collagen formation and immune cell function, so deficiency lowers resistance. Vitamin K acts in clotting and B12 in nerve and red cell formation.",
       "as": "ভিটামিন C এ ক'লেজেন গঠন আৰু ৰোগ প্ৰতিৰক্ষা কোষৰ কাৰ্যত সহায় কৰে, সেয়ে অভাৱত প্ৰতিৰোধ কমে। ভিটামিন K ৰক্ত জমাৰ আৰু B১২ স্নায়ু তথা লোহিত কণিকা গঠনত কাম কৰে।"
@@ -679,6 +679,10 @@
     },
     "options": [
       {
+        "en": "Malaria",
+        "as": "মেলেৰিয়া"
+      },
+      {
         "en": "Ringworm",
         "as": "দাদ"
       },
@@ -689,13 +693,9 @@
       {
         "en": "Rabies",
         "as": "জলাতংক"
-      },
-      {
-        "en": "Malaria",
-        "as": "মেলেৰিয়া"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Ringworm is caused by dermatophyte fungi that grow on skin and hair. Cholera is bacterial, rabies viral and malaria protozoan.",
       "as": "দাদ ছাল আৰু চুলিত গজা ডাৰ্মাট'ফাইট ভেঁকুৰৰ দ্বাৰা হয়। কলেৰা বেক্টেৰিয়াৰ, জলাতংক ভাইৰাছৰ আৰু মেলেৰিয়া প্ৰ'ট'জ'ৱাৰ।"
@@ -710,23 +710,23 @@
     },
     "options": [
       {
-        "en": "entry of the pathogen and appearance of the first symptom",
-        "as": "ৰোগজীৱৰ প্ৰৱেশ আৰু প্ৰথম লক্ষণ ওলোৱাৰ মাজৰ"
-      },
-      {
-        "en": "first symptom and recovery",
-        "as": "প্ৰথম লক্ষণ আৰু আৰোগ্যৰ মাজৰ"
-      },
-      {
         "en": "vaccination and immunity",
         "as": "টীকা আৰু প্ৰতিৰোধৰ মাজৰ"
       },
       {
         "en": "two successive infections",
         "as": "দুটা ক্ৰমিক সংক্ৰমণৰ মাজৰ"
+      },
+      {
+        "en": "entry of the pathogen and appearance of the first symptom",
+        "as": "ৰোগজীৱৰ প্ৰৱেশ আৰু প্ৰথম লক্ষণ ওলোৱাৰ মাজৰ"
+      },
+      {
+        "en": "first symptom and recovery",
+        "as": "প্ৰথম লক্ষণ আৰু আৰোগ্যৰ মাজৰ"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "The incubation period runs from infection to the first sign of illness. The time from symptom to recovery is the period of illness, not incubation.",
       "as": "ঊষ্মকাল সংক্ৰমণৰপৰা ৰোগৰ প্ৰথম চিনলৈকে চলে। লক্ষণৰপৰা আৰোগ্যলৈ সময়খিনি ৰোগকাল, ঊষ্মকাল নহয়।"
@@ -741,23 +741,23 @@
     },
     "options": [
       {
-        "en": "destroying mosquito breeding sites and using nets",
-        "as": "মশাৰ প্ৰজনন স্থান নষ্ট কৰা আৰু জাল ব্যৱহাৰ কৰা"
-      },
-      {
-        "en": "taking antibiotics regularly",
-        "as": "নিয়মীয়াকৈ এণ্টিবায়'টিক খোৱা"
-      },
-      {
         "en": "drinking boiled water only",
         "as": "কেৱল উতলা পানী খোৱা"
       },
       {
         "en": "avoiding mosquito bites only at night",
         "as": "কেৱল ৰাতিহে মশাৰ কামোৰ পৰা বাচা"
+      },
+      {
+        "en": "destroying mosquito breeding sites and using nets",
+        "as": "মশাৰ প্ৰজনন স্থান নষ্ট কৰা আৰু জাল ব্যৱহাৰ কৰা"
+      },
+      {
+        "en": "taking antibiotics regularly",
+        "as": "নিয়মীয়াকৈ এণ্টিবায়'টিক খোৱা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Malaria control targets the vector, so removing stagnant water and using insecticide-treated nets works best. Antibiotics do not prevent malaria and boiling water targets water-borne disease.",
       "as": "মেলেৰিয়া নিয়ন্ত্ৰণে বাহকক লক্ষ্য কৰে, সেয়ে থেৰ থকা পানী আঁতৰোৱা আৰু কীটনাশকযুক্ত জাল ব্যৱহাৰ কৰাটো সৰ্বোত্তম। এণ্টিবায়'টিকে মেলেৰিয়া ৰোধ নকৰে আৰু উতলা পানীয়ে জলবাহিত ৰোগ লক্ষ্য কৰে।"
@@ -772,6 +772,10 @@
     },
     "options": [
       {
+        "en": "Rabies",
+        "as": "জলাতংক"
+      },
+      {
         "en": "Cholera",
         "as": "কলেৰা"
       },
@@ -782,13 +786,9 @@
       {
         "en": "Malaria",
         "as": "মেলেৰিয়া"
-      },
-      {
-        "en": "Rabies",
-        "as": "জলাতংক"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Cholera bacteria are shed in stool and reach a new host through contaminated water, so safe water supply is the main control. Tuberculosis spreads by air, malaria by mosquito and rabies by animal bite.",
       "as": "কলেৰা বেক্টেৰিয়া মলত ওলাই দূষিত পানীৰে নতুন পোষকলৈ যায়, সেয়ে নিৰাপদ পানী যোগান মূল নিয়ন্ত্ৰণ। যক্ষ্মা বায়ুৰে, মেলেৰিয়া মশাৰে আৰু জলাতংক জন্তুৰ কামোৰে বিয়পে।"
@@ -803,23 +803,23 @@
     },
     "options": [
       {
-        "en": "a deep wound contaminated with soil",
-        "as": "মাটিৰে দূষিত গভীৰ ঘা"
-      },
-      {
-        "en": "drinking unboiled milk",
-        "as": "উতলিব নিদিয়া গাখীৰ খোৱা"
-      },
-      {
         "en": "a mosquito bite",
         "as": "মশাৰ কামোৰ"
       },
       {
         "en": "breathing dusty air",
         "as": "ধূলিময় বায়ু উশাহ লোৱা"
+      },
+      {
+        "en": "a deep wound contaminated with soil",
+        "as": "মাটিৰে দূষিত গভীৰ ঘা"
+      },
+      {
+        "en": "drinking unboiled milk",
+        "as": "উতলিব নিদিয়া গাখীৰ খোৱা"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Clostridium tetani spores live in soil and enter through a deep, dirty wound where oxygen is low, which is why wounds are cleaned and vaccination given. Milk, mosquitoes and dust do not transmit tetanus.",
       "as": "ক্ল'ষ্ট্ৰিডিয়াম টেটানিৰ বীজাণু মাটিত থাকে আৰু কম অক্সিজেনযুক্ত গভীৰ লেতেৰা ঘাৰ জৰিয়তে সোমায়, সেয়ে ঘা পৰিষ্কাৰ কৰি টীকা দিয়া হয়। গাখীৰ, মশা আৰু ধূলিয়ে ধনুষ্টংকাৰ নিবিয়পায়।"
@@ -834,6 +834,10 @@
     },
     "options": [
       {
+        "en": "avoiding milk",
+        "as": "গাখীৰ বৰ্জন কৰা"
+      },
+      {
         "en": "early detection and complete treatment of patients",
         "as": "ৰোগীৰ আগতীয়া চিনাক্তকৰণ আৰু সম্পূৰ্ণ চিকিৎসা"
       },
@@ -844,13 +848,9 @@
       {
         "en": "using mosquito nets",
         "as": "মশাৰ জাল ব্যৱহাৰ কৰা"
-      },
-      {
-        "en": "avoiding milk",
-        "as": "গাখীৰ বৰ্জন কৰা"
       }
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "en": "Tuberculosis spreads by airborne droplets, so finding cases early and completing the drug course stops transmission at source. Boiling water and nets target other routes entirely.",
       "as": "যক্ষ্মা বায়ুজাত টোপালৰে বিয়পে, সেয়ে আগতীয়াকৈ ৰোগী ধৰা পেলাই ঔষধৰ কোৰ্ছ সম্পূৰ্ণ কৰিলে উৎসতেই সংক্ৰমণ বন্ধ হয়। পানী উতলোৱা আৰু জালে বেলেগ পথ লক্ষ্য কৰে।"
@@ -896,23 +896,23 @@
     },
     "options": [
       {
-        "en": "Filariasis",
-        "as": "ফাইলেৰিয়া"
-      },
-      {
-        "en": "Typhoid",
-        "as": "টাইফইড"
-      },
-      {
         "en": "Tetanus",
         "as": "ধনুষ্টংকাৰ"
       },
       {
         "en": "Measles",
         "as": "সৰু আই"
+      },
+      {
+        "en": "Filariasis",
+        "as": "ফাইলেৰিয়া"
+      },
+      {
+        "en": "Typhoid",
+        "as": "টাইফইড"
       }
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "en": "Filariasis is carried from person to person by the Culex mosquito, so the worm needs a vector. Typhoid is water-borne, tetanus comes from soil and measles spreads by air.",
       "as": "ফাইলেৰিয়া কিউলেক্স মশাৰ জৰিয়তে এজনৰপৰা আনজনলৈ যায়, সেয়ে কৃমিটোৰ বাহক লাগে। টাইফইড পানীৰ, ধনুষ্টংকাৰ মাটিৰ আৰু সৰু আই বায়ুৰ।"
@@ -927,10 +927,6 @@
     },
     "options": [
       {
-        "en": "excess production of clotting factor",
-        "as": "ৰক্ত জমা কাৰকৰ অত্যধিক উৎপাদন"
-      },
-      {
         "en": "loss of red cell mass only",
         "as": "কেৱল লোহিত কণিকাৰ ভৰ কমা"
       },
@@ -941,9 +937,13 @@
       {
         "en": "a rise in platelet count",
         "as": "ৰক্ত অনুচক্ৰ বঢ়া"
+      },
+      {
+        "en": "excess production of clotting factor",
+        "as": "ৰক্ত জমা কাৰকৰ অত্যধিক উৎপাদন"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "The virus damages small vessels and suppresses platelet production, so both the vessel wall and the clotting plug fail. A high platelet count would oppose, not cause, bleeding.",
       "as": "ভাইৰাছে সৰু নলী নষ্ট কৰি ৰক্ত অনুচক্ৰ উৎপাদন দমায়, সেয়ে নলীৰ বেৰ আৰু জমা পিণ্ড দুয়ো বিফল হয়। বেছি অনুচক্ৰই ৰক্তক্ষৰণ বিৰোধ কৰে, নকৰায়।"
@@ -958,10 +958,6 @@
     },
     "options": [
       {
-        "en": "pleural effusion",
-        "as": "প্লুৰেল ইফিউশ্যন"
-      },
-      {
         "en": "pulmonary tuberculosis",
         "as": "ফুসফুসৰ যক্ষ্মা"
       },
@@ -972,9 +968,13 @@
       {
         "en": "bronchial asthma",
         "as": "ব্ৰংকিয়েল হাঁপানি"
+      },
+      {
+        "en": "pleural effusion",
+        "as": "প্লুৰেল ইফিউশ্যন"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "en": "Acid-fast bacilli with upper lobe cavitation is the classic picture of tuberculosis. Pneumonia fills the alveoli with exudate rather than excavating a cavity.",
       "as": "এছিড-ফাষ্ট বেক্টেৰিয়া আৰু ওপৰ অংশৰ গহ্বৰ যক্ষ্মাৰ প্ৰচলিত চিত্ৰ। নিউম'নিয়াই এলভিঅ'লাই স্ৰাৱেৰে ভৰায়, গহ্বৰ নকৰে।"
@@ -1051,10 +1051,6 @@
     },
     "options": [
       {
-        "en": "brain abscess",
-        "as": "মগজুৰ পুঁ‌জ"
-      },
-      {
         "en": "bone marrow suppression",
         "as": "মজ্জা দমন"
       },
@@ -1065,9 +1061,13 @@
       {
         "en": "liver failure",
         "as": "যকৃত বিকল"
+      },
+      {
+        "en": "brain abscess",
+        "as": "মগজুৰ পুঁ‌জ"
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "en": "The toxin drives chloride and water secretion into the gut, so the body loses volume faster than it can replace it. Oral rehydration or intravenous fluid is the treatment that saves life.",
       "as": "বিষে ক্ল'ৰাইড আৰু পানী অন্ত্ৰলৈ নিঃসৰণ কৰায়, সেয়ে শৰীৰে পূৰণ কৰিব পৰাতকৈ দ্ৰুত তৰল হেৰুৱায়। মুখেৰে বা অন্তঃশিৰা তৰলে জীৱন ৰক্ষা কৰে।"
@@ -1082,26 +1082,88 @@
     },
     "options": [
       {
-        "en": "oesophagus",
-        "as": "খাদ্যনলী"
-      },
-      {
-        "en": "bile duct",
-        "as": "পিত্ত নলী"
-      },
-      {
         "en": "ureter",
         "as": "মূত্ৰনলী"
       },
       {
         "en": "trachea",
         "as": "শ্বাসনলী"
+      },
+      {
+        "en": "oesophagus",
+        "as": "খাদ্যনলী"
+      },
+      {
+        "en": "bile duct",
+        "as": "পিত্ত নলী"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Blocked bile cannot reach the gut, so bilirubin backs up into blood, colours the urine dark and leaves the stool pale. The ureter carries urine and has no role in bile.",
+      "as": "বন্ধ পিত্ত অন্ত্ৰলৈ যাব নোৱাৰে, সেয়ে বিলিৰুবিন তেজত জমি মূত্ৰ গাঢ় কৰে আৰু মল পাণ্ডুৰ হয়। মূত্ৰনলীয়ে মূত্ৰ নিয়ে, পিত্তৰ সৈতে সম্পৰ্ক নাই।"
+    }
+  },
+  {
+    "id": "biology-426",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "A person is bitten by a stray dog and the wound is washed at once. The reason immediate washing with soap and running water matters is that the rabies virus",
+      "as": "এজনক পথৰ কুকুৰে কামোৰে আৰু ঘা তৎক্ষণাত ধুই দিয়া হয়। চাবোন আৰু বৈ থকা পানীৰে লগে লগে ধোৱাৰ কাৰণ — ৰেবিজ ভাইৰাছে"
+    },
+    "options": [
+      {
+        "en": "is carried by mosquitoes",
+        "as": "মহে কঢ়িয়ায়"
+      },
+      {
+        "en": "multiplies in the stomach",
+        "as": "পেটত বংশবৃদ্ধি কৰে"
+      },
+      {
+        "en": "is inactivated on the skin surface before it can reach nerve endings",
+        "as": "স্নায়ুৰ আগত উপনীত হোৱাৰ আগতে ছালৰ পৃষ্ঠত নিষ্ক্ৰিয় হয়"
+      },
+      {
+        "en": "spreads only through drinking water",
+        "as": "কেৱল খোৱা পানীৰে বিয়পে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Washing removes virus laden saliva and reduces the dose before it enters nerve endings, which is why wound care is the first step and vaccination follows. Rabies is not waterborne, not mosquito borne and does not multiply in the stomach.",
+      "as": "ধোৱাৰ ফলত ভাইৰাছযুক্ত লালটিয়াল আঁতৰি স্নায়ুৰ আগত সোমোৱাৰ আগতে মাত্ৰা কমে, সেয়ে ঘা চোৱা-চিতা প্ৰথম পদক্ষেপ আৰু তাৰ পিছত টীকা। ৰেবিজ পানী বা ম'হৰ দ্বাৰা নিয়বপে আৰু পেটত বংশবৃদ্ধি নকৰে।"
+    }
+  },
+  {
+    "id": "biology-427",
+    "leaf": "diseases-health",
+    "q": {
+      "en": "Dengue spreads most readily in a town where water collects in discarded tyres and plastic containers, because the vector mosquito",
+      "as": "পেলাই দিয়া টায়াৰ আৰু প্লাষ্টিক পাত্ৰত পানী জমা হোৱা এখন চহৰত ডেঙ্গু সহজে বিয়পে, কাৰণ বাহক ম'হে"
+    },
+    "options": [
+      {
+        "en": "feeds only on cattle",
+        "as": "কেৱল গৰুৰ তেজ খায়"
+      },
+      {
+        "en": "breeds in clean standing water and bites during the day",
+        "as": "পৰিষ্কাৰ থিয় পানীত প্ৰজনন কৰি দিনত কামোৰে"
+      },
+      {
+        "en": "breeds only in polluted drains and bites at night",
+        "as": "কেৱল প্ৰদূষিত নৰ্দমাত প্ৰজনন কৰি ৰাতি কামোৰে"
+      },
+      {
+        "en": "lives only in forests",
+        "as": "কেৱল অৰণ্যত থাকে"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "Blocked bile cannot reach the gut, so bilirubin backs up into blood, colours the urine dark and leaves the stool pale. The ureter carries urine and has no role in bile.",
-      "as": "বন্ধ পিত্ত অন্ত্ৰলৈ যাব নোৱাৰে, সেয়ে বিলিৰুবিন তেজত জমি মূত্ৰ গাঢ় কৰে আৰু মল পাণ্ডুৰ হয়। মূত্ৰনলীয়ে মূত্ৰ নিয়ে, পিত্তৰ সৈতে সম্পৰ্ক নাই।"
+      "en": "Aedes aegypti lays its eggs in small collections of clean water such as tyres and containers and is a day biter, which is why container hygiene and daytime protection matter. Polluted drains, forests and cattle feeding describe other mosquitoes.",
+      "as": "এডিছ ইজিপ্টাই টায়াৰ আৰু পাত্ৰৰ দৰে সৰু পৰিষ্কাৰ পানীত কণী পাৰে আৰু দিনত কামোৰে, সেয়ে পাত্ৰ পৰিষ্কাৰতা আৰু দিনৰ সুৰক্ষা গুৰুত্বপূৰ্ণ। প্ৰদূষিত নৰ্দমা, অৰণ্য আৰু গৰুৰ তেজ আন ম'হৰ বৰ্ণনা।"
     }
   }
 ]
