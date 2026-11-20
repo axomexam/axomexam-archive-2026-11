@@ -2898,14 +2898,15 @@ Technical") is a hard scope limit. Do not edit, rewrite or regenerate any
 other book's content while doing that work. Two things in this repo cut
 across every book and need care:
 
-1. **`node tools/build-as-twins.js --prefix exams/dhs-dme-technical` breaks
-   the Assamese nav.** A scoped run writes the twin with the English nav
-   (no `/as/` prefix), so every Assamese page under the prefix starts
-   linking to the English site. The full run does not do this, because the
-   Assamese nav is derived from a map that the full pass builds first. Use
-   the unscoped run and let it skip the 800 unchanged pages, then check
-   `git status` before committing. If a scoped run is unavoidable, diff one
-   twin and confirm `href="/as/exams/"` survived.
+1. **Never run `build-as-twins.js` with `--prefix` on a book.** The scoped
+   run rewrites the twins with the English nav (no `/as/` prefix), so every
+   Assamese page under the prefix starts linking to the English site. This
+   was tried and reverted: 153 twins under `as/exams/dhs-dme-technical/`
+   lost `/as/` from their nav and had to be restored with
+   `git checkout -- as/exams/dhs-dme-technical/`. Run the unscoped command
+   and let it skip the ~800 unchanged pages, then read `git status` before
+   committing. If you ever do run it scoped, `grep -c 'href="/as/exams/"'`
+   on one twin must return 1.
 
 2. **`data/counts.json` and the asset stamps are global by design.** Any
    content addition changes the sitewide question total, and
@@ -2914,6 +2915,23 @@ across every book and need care:
    the *content* of another book is off limits. When reviewing a diff,
    confirm the non-target changes are limited to `js/` hashes, `sw.js`
    `CACHE_VERSION` and `data/counts.json` — anything else is out of scope.
+
+**Audit the scope before committing.** Hash-stamp churn makes a diff look
+far wider than it is. This comparison ignores `?v=` hashes and `CACHE_VERSION`
+and lists only files whose actual content moved:
+
+```bash
+norm() { sed -E 's/\?v=[a-f0-9]+//g; s/(CACHE_VERSION[^0-9a-f]*)[a-f0-9]+/\1X/g'; }
+git diff --name-only <base> HEAD \
+  | grep -vE '^(as/)?exams/dhs-dme-technical|^data/exams/dhs-dme-technical|^tools/dhs-dme|^AGENTS\.md|^js/|^sw\.js|^data/counts\.json|^index\.html' \
+  | while read -r f; do
+      [ "$(git show <base>:$f 2>/dev/null | norm)" = "$(git show HEAD:$f 2>/dev/null | norm)" ] || echo "$f"
+    done
+```
+
+Only `data/counts.json`, `sitemap.xml`, `index.html` and `as/index.html`
+should appear, and those carry the sitewide totals. Any other path means a
+book outside the requested scope was touched.
 
 `tools/build-dhs-dme-technical.js` itself only writes
 `exams/dhs-dme-technical/**` and `as/exams/dhs-dme-technical/**`, so the
