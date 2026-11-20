@@ -18,12 +18,18 @@ function useLeaf(name) {
 }
 
 function add(id, en, as, opts, correct, expEn, expAs) {
+  /* Rotate the option order by a value derived from the id so the correct
+     key does not sit in slot A for every item. Deterministic, so a rebuild
+     always produces the same file. */
+  const n = opts.length;
+  const shift = (Number(String(id).replace(/\D/g, "")) || 0) % n;
+  const rotated = opts.slice(shift).concat(opts.slice(0, shift));
   Q.push({
     id,
     leaf: LEAF,
     q: { en, as },
-    options: opts.map(([oen, oas]) => ({ en: oen, as: oas })),
-    correct,
+    options: rotated.map(([oen, oas]) => ({ en: oen, as: oas })),
+    correct: (correct - shift + n) % n,
     explanation: { en: expEn, as: expAs },
   });
 }
