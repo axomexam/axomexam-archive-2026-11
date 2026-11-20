@@ -538,5 +538,377 @@
       "en": "Benzene has the formula C6H6.",
       "as": "বেঞ্জিনৰ সংকেত C6H6।"
     }
+  },
+  {
+    "id": "chemistry-249",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "The hybridisation of each carbon atom in a molecule of ethyne is",
+      "as": "ইথাইন অণুত প্ৰতিটো কাৰ্বন পৰমাণুৰ সংকৰণ"
+    },
+    "options": [
+      {
+        "en": "sp",
+        "as": "sp"
+      },
+      {
+        "en": "sp2",
+        "as": "sp২"
+      },
+      {
+        "en": "sp3",
+        "as": "sp৩"
+      },
+      {
+        "en": "sp3d",
+        "as": "sp৩d"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ethyne has a triple bond and each carbon uses two hybrid orbitals, so the hybridisation is sp. Ethene is sp2 and ethane sp3.",
+      "as": "ইথাইনত তিনি বন্ধন আৰু প্ৰতিটো কাৰ্বনে দুটা সংকৰ অৰ্বিটেল ব্যৱহাৰ কৰে, সেয়ে সংকৰণ sp। ইথিন sp২ আৰু ইথেন sp৩।"
+    }
+  },
+  {
+    "id": "chemistry-250",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "The IUPAC name of the compound with formula CH3CHO is",
+      "as": "CH3CHO সূত্ৰযুক্ত যৌগৰ IUPAC নাম"
+    },
+    "options": [
+      {
+        "en": "ethanal",
+        "as": "ইথানেল"
+      },
+      {
+        "en": "ethanol",
+        "as": "ইথানল"
+      },
+      {
+        "en": "ethanoic acid",
+        "as": "ইথানইক এচিড"
+      },
+      {
+        "en": "ethene",
+        "as": "ইথিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Two carbons with an aldehyde group give ethanal. Ethanol carries a hydroxyl group and ethanoic acid a carboxyl group.",
+      "as": "এলডিহাইড গোটযুক্ত দুটা কাৰ্বনে ইথানেল দিয়ে। ইথানলত হাইড্ৰক্সিল গোট আৰু ইথানইক এচিডত কাৰ্বক্সিল গোট থাকে।"
+    }
+  },
+  {
+    "id": "chemistry-251",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "Which of the following is an aldehyde?",
+      "as": "তলৰ কোনটো এলডিহাইড"
+    },
+    "options": [
+      {
+        "en": "formaldehyde",
+        "as": "ফৰ্মেলডিহাইড"
+      },
+      {
+        "en": "acetone",
+        "as": "এচিটোন"
+      },
+      {
+        "en": "ethanol",
+        "as": "ইথানল"
+      },
+      {
+        "en": "benzene",
+        "as": "বেঞ্জিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Formaldehyde carries the CHO group, which is the aldehyde function. Acetone is a ketone, ethanol an alcohol and benzene an aromatic hydrocarbon.",
+      "as": "ফৰ্মেলডিহাইডত CHO গোট থাকে, যি এলডিহাইড কাৰ্যকৰী গোট। এচিটোন কিটোন, ইথানল এলকহল আৰু বেঞ্জিন সুগন্ধি হাইড্ৰকাৰ্বন।"
+    }
+  },
+  {
+    "id": "chemistry-252",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "The reaction in which an alcohol is converted to an alkene by removal of water is called",
+      "as": "পানী আঁতৰাই এলকহলক এলকিনলৈ ৰূপান্তৰ কৰা বিক্ৰিয়াক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "dehydration",
+        "as": "নিৰ্জলীকৰণ"
+      },
+      {
+        "en": "hydration",
+        "as": "জলীকৰণ"
+      },
+      {
+        "en": "hydrogenation",
+        "as": "হাইড্ৰজিনীকৰণ"
+      },
+      {
+        "en": "oxidation",
+        "as": "জাৰণ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Dehydration removes water, usually with hot concentrated sulphuric acid, leaving a double bond. Hydration is the reverse.",
+      "as": "নিৰ্জলীকৰণে পানী আঁতৰায়, সাধাৰণতে গৰম ঘন ছালফিউৰিক এচিডৰে, আৰু দ্বৈত বন্ধন এৰি দিয়ে। জলীকৰণ ইয়াৰ ওলোটা।"
+    }
+  },
+  {
+    "id": "chemistry-253",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "The compound formed when ethanol is oxidised by acidified potassium dichromate is",
+      "as": "অ্যাসিডযুক্ত পটাছিয়াম ডাইক্ৰমেটেৰে ইথানল জাৰিত হ'লে গঠিত যৌগটো"
+    },
+    "options": [
+      {
+        "en": "ethanoic acid",
+        "as": "ইথানইক এচিড"
+      },
+      {
+        "en": "ethene",
+        "as": "ইথিন"
+      },
+      {
+        "en": "methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "ethyl ethanoate",
+        "as": "ইথাইল ইথানয়েট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Strong oxidation carries ethanol past ethanal to ethanoic acid. A mild oxidising agent stops at the aldehyde stage.",
+      "as": "প্ৰবল জাৰণে ইথানলক ইথানেলৰ পাৰ হৈ ইথানইক এচিডলৈ লৈ যায়। দুৰ্বল জাৰকে এলডিহাইড স্তৰত ৰখায়।"
+    }
+  },
+  {
+    "id": "chemistry-254",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "Functional isomers with the same molecular formula but different functional groups are called",
+      "as": "একেই আণৱিক সূত্ৰ কিন্তু বেলেগ কাৰ্যকৰী গোট থকা সমাণুক কি বোলা হয়"
+    },
+    "options": [
+      {
+        "en": "functional isomers",
+        "as": "কাৰ্যকৰী সমাণু"
+      },
+      {
+        "en": "chain isomers",
+        "as": "শৃংখল সমাণু"
+      },
+      {
+        "en": "position isomers",
+        "as": "স্থান সমাণু"
+      },
+      {
+        "en": "geometric isomers",
+        "as": "জ্যামিতিক সমাণু"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Ethanol and dimethyl ether share the formula C2H6O but hold different functional groups, so they are functional isomers.",
+      "as": "ইথানল আৰু ডাইমিথাইল ইথাৰৰ সূত্ৰ C2H6O একেই কিন্তু কাৰ্যকৰী গোট বেলেগ, সেয়ে তেওঁলোক কাৰ্যকৰী সমাণু।"
+    }
+  },
+  {
+    "id": "chemistry-255",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "The gas produced when ethanol is heated with sodium metal is",
+      "as": "ইথানলক ছডিয়াম ধাতুৰ সৈতে গৰম কৰিলে ওলোৱা গেছটো"
+    },
+    "options": [
+      {
+        "en": "hydrogen",
+        "as": "হাইড্ৰজেন"
+      },
+      {
+        "en": "oxygen",
+        "as": "অক্সিজেন"
+      },
+      {
+        "en": "carbon dioxide",
+        "as": "কাৰ্বন ডাইঅক্সাইড"
+      },
+      {
+        "en": "ethane",
+        "as": "ইথেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sodium displaces the hydrogen of the hydroxyl group, giving sodium ethoxide and hydrogen gas, which burns with a pop.",
+      "as": "ছডিয়ামে হাইড্ৰক্সিল গোটৰ হাইড্ৰজেন আঁতৰাই ছডিয়াম ইথক্সাইড আৰু হাইড্ৰজেন গেছ দিয়ে, যি পপ শব্দেৰে জ্বলে।"
+    }
+  },
+  {
+    "id": "chemistry-256",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "The compound known as acetic acid is",
+      "as": "এচিটিক এচিড বুলি জনা যৌগটো"
+    },
+    "options": [
+      {
+        "en": "ethanoic acid",
+        "as": "ইথানইক এচিড"
+      },
+      {
+        "en": "formic acid",
+        "as": "ফৰ্মিক এচিড"
+      },
+      {
+        "en": "propanoic acid",
+        "as": "প্ৰপানইক এচিড"
+      },
+      {
+        "en": "butanoic acid",
+        "as": "বিউটানইক এচিড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Acetic acid is ethanoic acid, CH3COOH, the acid of vinegar. Formic acid has only one carbon.",
+      "as": "এচিটিক এচিড ইথানইক এচিড, CH3COOH, ভিনেগাৰৰ এচিড। ফৰ্মিক এচিডত কেবল এটা কাৰ্বন।"
+    }
+  },
+  {
+    "id": "chemistry-257",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "Which of the following decolourises bromine water?",
+      "as": "তলৰ কোনটোৱে ব্ৰমিন পানীৰ ৰং নাইকিয়া কৰে"
+    },
+    "options": [
+      {
+        "en": "ethene",
+        "as": "ইথিন"
+      },
+      {
+        "en": "ethane",
+        "as": "ইথেন"
+      },
+      {
+        "en": "methane",
+        "as": "মিথেন"
+      },
+      {
+        "en": "propane",
+        "as": "প্ৰপেন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The double bond of ethene adds bromine, so the orange colour disappears. Saturated alkanes do not react this way.",
+      "as": "ইথিনৰ দ্বৈত বন্ধনে ব্ৰমিন যোগ কৰে, সেয়ে কমলা ৰং নাইকিয়া হয়। সম্পৃক্ত এলকেনে এইদৰে বিক্ৰিয়া নকৰে।"
+    }
+  },
+  {
+    "id": "chemistry-258",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "The number of structural isomers of butane is",
+      "as": "বিউটেনৰ গাঠনিক সমাণুৰ সংখ্যা"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Butane has a straight chain and a branched form, so two isomers. Propane has only one structure.",
+      "as": "বিউটেনৰ এটা সৰল শৃংখল আৰু এটা শাখাযুক্ত ৰূপ, সেয়ে দুটা সমাণু। প্ৰপেনৰ কেবল এটা গঠন।"
+    }
+  },
+  {
+    "id": "chemistry-259",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "Soap is chemically a",
+      "as": "চাবোন ৰাসায়নিকভাৱে কি"
+    },
+    "options": [
+      {
+        "en": "sodium salt of a fatty acid",
+        "as": "চৰ্বি অ্যাসিডৰ ছডিয়াম লৱণ"
+      },
+      {
+        "en": "calcium salt of a fatty acid",
+        "as": "চৰ্বি অ্যাসিডৰ কেল্ছিয়াম লৱণ"
+      },
+      {
+        "en": "ester of glycerol",
+        "as": "গ্লিচেৰলৰ এষ্টাৰ"
+      },
+      {
+        "en": "long chain alcohol",
+        "as": "দীঘল শৃংখল এলকহল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Soap is the sodium or potassium salt of a long chain fatty acid, made by boiling fat with alkali. Glycerol esters are the fats themselves.",
+      "as": "চাবোন দীঘল শৃংখল চৰ্বি অ্যাসিডৰ ছডিয়াম বা পটাছিয়াম লৱণ, যি চৰ্বি ক্ষাৰকৰ সৈতে উতলাই বনোৱা হয়। গ্লিচেৰল এষ্টাৰ নিজেই চৰ্বি।"
+    }
+  },
+  {
+    "id": "chemistry-260",
+    "leaf": "organic-chemistry",
+    "q": {
+      "en": "Which of the following is a ketone?",
+      "as": "তলৰ কোনটো কিটোন"
+    },
+    "options": [
+      {
+        "en": "propanone",
+        "as": "প্ৰপান'ন"
+      },
+      {
+        "en": "ethanal",
+        "as": "ইথানেল"
+      },
+      {
+        "en": "methanoic acid",
+        "as": "মিথানইক এচিড"
+      },
+      {
+        "en": "ethanol",
+        "as": "ইথানল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Propanone, the acetone of nail polish remover, has a carbonyl group between two carbons. Ethanal is an aldehyde.",
+      "as": "প্ৰপান'ন, নখ পৰিষ্কাৰকৰ এচিটোন, ত দুটা কাৰ্বনৰ মাজত কাৰ্বনিল গোট থাকে। ইথানেল এলডিহাইড।"
+    }
   }
 ]
