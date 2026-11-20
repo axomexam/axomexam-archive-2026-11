@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-009",
+    "q": {
+      "en": "A number is increased by 20% and then decreased by 20%. The net change is",
+      "as": "এটা সংখ্যা ২০% বঢ়াই তাৰ পিছত ২০% কমোৱা হ'ল। মুঠ পৰিৱৰ্তন কিমান"
+    },
+    "options": [
+      {
+        "en": "No change",
+        "as": "কোনো পৰিৱৰ্তন নাই"
+      },
+      {
+        "en": "4% decrease",
+        "as": "৪% হ্ৰাস"
+      },
+      {
+        "en": "4% increase",
+        "as": "৪% বৃদ্ধি"
+      },
+      {
+        "en": "2% decrease",
+        "as": "২% হ্ৰাস"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Take 100. A 20% rise gives 120; a 20% fall on 120 gives 120 × 0.8 = 96. The net change is a 4% decrease.",
+      "as": "১০০ ধৰক। ২০% বৃদ্ধিত ১২০ হয়; ১২০ ৰ ওপৰত ২০% হ্ৰাসত ১২০ × ০.৮ = ৯৬। মুঠ পৰিৱৰ্তন ৪% হ্ৰাস।"
+    }
+  },
+  {
+    "id": "numerical-010",
+    "q": {
+      "en": "In an examination 35% failed in Mathematics and 25% failed in English, while 10% failed in both. The percentage that passed in both subjects is",
+      "as": "এটা পৰীক্ষাত ৩৫% গণিতত অনুত্তীৰ্ণ আৰু ২৫% ইংৰাজীত অনুত্তীৰ্ণ, আৰু ১০% দুয়োটাতে অনুত্তীৰ্ণ। দুয়ো বিষয়তে উত্তীৰ্ণৰ শতকৰা হাৰ কিমান"
+    },
+    "options": [
+      {
+        "en": "40%",
+        "as": "৪০%"
+      },
+      {
+        "en": "50%",
+        "as": "৫০%"
+      },
+      {
+        "en": "60%",
+        "as": "৬০%"
+      },
+      {
+        "en": "70%",
+        "as": "৭০%"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Failed in at least one subject = 35 + 25 - 10 = 50%. So those who passed in both = 100 - 50 = 50%.",
+      "as": "অন্তত এটা বিষয়ত অনুত্তীৰ্ণ = ৩৫ + ২৫ - ১০ = ৫০%। সেয়ে দুয়ো বিষয়তে উত্তীৰ্ণ = ১০০ - ৫০ = ৫০%।"
+    }
+  }
+]

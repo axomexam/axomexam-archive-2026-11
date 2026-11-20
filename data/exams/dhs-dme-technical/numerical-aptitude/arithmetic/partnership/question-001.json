@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-021",
+    "q": {
+      "en": "A invests ₹20,000 and B ₹30,000 in a business. After 6 months A withdraws half his capital. In what ratio should the year's profit be shared?",
+      "as": "এজন লোকে ২০,০০০ টকা আৰু B এ ৩০,০০০ টকা বিনিয়োগ কৰে। ৬ মাহৰ পিছত A এ নিজৰ মূলধনৰ আধা উলিয়াই লয়। বছৰটোৰ লাভ কোন অনুপাতত ভগাব লাগে"
+    },
+    "options": [
+      {
+        "en": "1 : 2",
+        "as": "১ : ২"
+      },
+      {
+        "en": "2 : 3",
+        "as": "২ : ৩"
+      },
+      {
+        "en": "5 : 6",
+        "as": "৫ : ৬"
+      },
+      {
+        "en": "3 : 4",
+        "as": "৩ : ৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A's capital-months = 20000 × 6 + 10000 × 6 = 180000. B's = 30000 × 12 = 360000. Ratio 180000 : 360000 = 1 : 2.",
+      "as": "A ৰ মূলধন-মাহ = ২০০০০ × ৬ + ১০০০০ × ৬ = ১৮০০০০। B ৰ = ৩০০০০ × ১২ = ৩৬০০০০। অনুপাত ১৮০০০০ : ৩৬০০০০ = ১ : ২।"
+    }
+  },
+  {
+    "id": "numerical-022",
+    "q": {
+      "en": "Three partners share profit in the ratio 5 : 3 : 2. If the third partner receives ₹4,000, the total profit is",
+      "as": "তিনিজন অংশীদাৰে ৫ : ৩ : ২ অনুপাতত লাভ ভগায়। তৃতীয়জনে ৪,০০০ টকা পাইলে মুঠ লাভ কিমান"
+    },
+    "options": [
+      {
+        "en": "₹20,000",
+        "as": "২০,০০০ টকা"
+      },
+      {
+        "en": "₹16,000",
+        "as": "১৬,০০০ টকা"
+      },
+      {
+        "en": "₹24,000",
+        "as": "২৪,০০০ টকা"
+      },
+      {
+        "en": "₹18,000",
+        "as": "১৮,০০০ টকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Total parts = 10 and the third partner holds 2 parts = ₹4,000, so one part = ₹2,000. Total = 10 × 2000 = ₹20,000.",
+      "as": "মুঠ অংশ = ১০ আৰু তৃতীয়জনে ২ অংশ = ৪,০০০ টকা, সেয়ে এভাগ = ২,০০০ টকা। মুঠ = ১০ × ২০০০ = ২০,০০০ টকা।"
+    }
+  }
+]

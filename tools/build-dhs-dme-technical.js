@@ -88,6 +88,20 @@ const LEGACY_BANKS = [
     "counting-figures", "cube-dice", "visual-memory",
     "general-non-verbal-reasoning",
   ]],
+  ["numerical-aptitude", "arithmetic", ["numerical-aptitude", "arithmetic"], [
+    "number-system", "simplification-bodmas", "decimals-fractions", "lcm-hcf",
+    "percentage", "ratio-proportion", "average", "profit-loss-discount",
+    "simple-interest", "compound-interest", "partnership", "mixture-alligation",
+    "time-work", "pipes-cisterns", "time-speed-distance", "problems-on-trains",
+    "boats-streams", "problems-on-ages",
+  ]],
+  ["numerical-aptitude", "algebra-geometry", ["numerical-aptitude", "algebra-geometry"], [
+    "elementary-algebra", "quadratic-linear-equations", "geometry", "mensuration-2d",
+    "mensuration-3d", "trigonometry", "height-distance", "coordinate-geometry",
+  ]],
+  ["numerical-aptitude", "data-combinatorics", ["numerical-aptitude", "data-combinatorics"], [
+    "statistics", "data-interpretation", "permutation-combination", "probability",
+  ]],
 ];
 
 /* ---- classification rules, first match wins ---- */
@@ -191,6 +205,42 @@ const RULES = {
        nets, and pencil-tracing. The rest fall through to the mixed-practice
        leaf, so this topic never turns into a dumping ground. */
     ["visual-memory", /line of symmetry|lines of symmetry|looks the same|closed curve|net of a cube|cannot be drawn without lifting|rotational symmetry|symmetric about both axes/i],
+  ],
+  arithmetic: [
+    ["mixture-alligation", /mixture|mixed with|replaced with water|alligation/i],
+    ["problems-on-trains", /train|platform/i],
+    ["boats-streams", /boat|stream|downstream|upstream/i],
+    ["pipes-cisterns", /pipe|cistern|tank/i],
+    ["compound-interest", /compound(ed)? (interest|annually)|compound interest/i],
+    ["simple-interest", /simple interest|rate of interest per annum/i],
+    ["partnership", /partners?|invests|capital/i],
+    ["profit-loss-discount", /profit|loss|loses|gain|discount|marked price|selling price|cost price/i],
+    ["lcm-hcf", /\blcm\b|\bhcf\b|least number which when divided/i],
+    ["number-system", /least number that must be added|largest three-digit|divisible by|remainder/i],
+    ["simplification-bodmas", /simplify|bodmas|the value of \d+ ÷|the value of \d+ \+/i],
+    ["decimals-fractions", /which fraction is the largest|0\.6 ×|decimals?|fraction/i],
+    ["percentage", /percent|%/i],
+    ["ratio-proportion", /\bratio\b|is divided among|[abc] : [abc]/i],
+    ["average", /average/i],
+    ["time-work", /can do a work|efficient|finish a work|working together/i],
+    ["time-speed-distance", /speed|distance|km\/h|walks at/i],
+    ["problems-on-ages", /age|years old|older than/i],
+  ],
+  "algebra-geometry": [
+    ["coordinate-geometry", /midpoint|distance between the points|coordinate/i],
+    ["mensuration-2d", /area of a circle|perimeter of a rectangle|area of a square|triangle's area/i],
+    ["mensuration-3d", /volume of a cylinder|surface area of a cube|volume of a cube|cone|sphere/i],
+    ["trigonometry", /sin |cos |tan θ|trigonometr/i],
+    ["height-distance", /angle of elevation|angle of depression|tower/i],
+    ["elementary-algebra", /x \+ 1\/x|a \+ b =|a² \+ b²|algebra/i],
+    ["quadratic-linear-equations", /roots of|equations?|solution of \d/i],
+    ["geometry", /triangle|hexagon|polygon|angle|circle/i],
+  ],
+  "data-combinatorics": [
+    ["permutation-combination", /number of ways|arrangements|selecting/i],
+    ["probability", /probability|dice|card is drawn/i],
+    ["data-interpretation", /pie chart|sales rose|percentage increase/i],
+    ["statistics", /median|mode|mean of the data/i],
   ],
 };
 

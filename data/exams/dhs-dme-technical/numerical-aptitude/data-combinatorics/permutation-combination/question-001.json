@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-057",
+    "q": {
+      "en": "The number of ways of selecting 3 persons out of 8 is",
+      "as": "৮ জনৰপৰা ৩ জন বাছনি কৰাৰ উপায়ৰ সংখ্যা কিমান"
+    },
+    "options": [
+      {
+        "en": "56",
+        "as": "৫৬"
+      },
+      {
+        "en": "336",
+        "as": "৩৩৬"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
+      },
+      {
+        "en": "120",
+        "as": "১২০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Selection ignores order, so use 8C3 = (8 × 7 × 6)/(3 × 2 × 1) = 56. The value 336 would be 8P3, which counts arrangements.",
+      "as": "বাছনিত ক্ৰম নধৰা হয়, সেয়ে ৮C৩ = (৮ × ৭ × ৬)/(৩ × ২ × ১) = ৫৬। ৩৩৬ হ'ল ৮P৩, যি বিন্যাস গণনা কৰে।"
+    }
+  },
+  {
+    "id": "numerical-058",
+    "q": {
+      "en": "The number of distinct arrangements of the letters of the word APPLE is",
+      "as": "APPLE শব্দটোৰ আখৰবোৰৰ পাৰ্থক্যপূৰ্ণ বিন্যাসৰ সংখ্যা কিমান"
+    },
+    "options": [
+      {
+        "en": "60",
+        "as": "৬০"
+      },
+      {
+        "en": "120",
+        "as": "১২০"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
+      },
+      {
+        "en": "30",
+        "as": "৩০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "There are five letters with P repeated twice, so the count is 5!/2! = 120/2 = 60.",
+      "as": "পাঁচটা আখৰৰ ভিতৰত P দুবাৰ আছে, সেয়ে গণনা ৫!/২! = ১২০/২ = ৬০।"
+    }
+  }
+]

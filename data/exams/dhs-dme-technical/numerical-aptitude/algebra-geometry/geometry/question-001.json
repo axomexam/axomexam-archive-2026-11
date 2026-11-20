@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-041",
+    "q": {
+      "en": "The angles of a triangle are in the ratio 2 : 3 : 4. The largest angle is",
+      "as": "এটা ত্ৰিভুজৰ কোণবোৰ ২ : ৩ : ৪ অনুপাতত আছে। আটাইতকৈ ডাঙৰ কোণটো কিমান"
+    },
+    "options": [
+      {
+        "en": "80°",
+        "as": "৮০°"
+      },
+      {
+        "en": "60°",
+        "as": "৬০°"
+      },
+      {
+        "en": "90°",
+        "as": "৯০°"
+      },
+      {
+        "en": "72°",
+        "as": "৭২°"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The sum is 180°, and the parts total 9, so one part is 20°. The largest is 4 × 20 = 80°.",
+      "as": "মুঠ ১৮০°, আৰু অংশৰ যোগফল ৯, সেয়ে এভাগ ২০°। আটাইতকৈ ডাঙৰ ৪ × ২০ = ৮০°।"
+    }
+  },
+  {
+    "id": "numerical-042",
+    "q": {
+      "en": "The sum of the interior angles of a regular hexagon is",
+      "as": "এটা সুষম ষড়ভুজৰ অন্তঃকোণবোৰৰ যোগফল কিমান"
+    },
+    "options": [
+      {
+        "en": "720°",
+        "as": "৭২০°"
+      },
+      {
+        "en": "540°",
+        "as": "৫৪০°"
+      },
+      {
+        "en": "900°",
+        "as": "৯০০°"
+      },
+      {
+        "en": "360°",
+        "as": "৩৬০°"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "For an n-sided polygon the interior angles sum to (n - 2) × 180°. For a hexagon, (6 - 2) × 180 = 720°.",
+      "as": "n বাহুৰ বহুভুজৰ অন্তঃকোণৰ যোগফল (n - ২) × ১৮০°। ষড়ভুজৰ বাবে (৬ - ২) × ১৮০ = ৭২০°।"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-015",
+    "q": {
+      "en": "A shopkeeper marks an article 40% above cost and allows a discount of 25%. His profit percentage is",
+      "as": "এজন দোকানীয়ে এটা সামগ্ৰীৰ মূল্য ক্ৰয়মূল্যতকৈ ৪০% বেছি লিখি ২৫% ৰেহাই দিয়ে। তেওঁৰ লাভৰ শতকৰা হাৰ কিমান"
+    },
+    "options": [
+      {
+        "en": "5%",
+        "as": "৫%"
+      },
+      {
+        "en": "10%",
+        "as": "১০%"
+      },
+      {
+        "en": "15%",
+        "as": "১৫%"
+      },
+      {
+        "en": "20%",
+        "as": "২০%"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Take cost ₹100. Marked price = ₹140. After a 25% discount the selling price is 140 × 0.75 = ₹105, so profit = 5%.",
+      "as": "ক্ৰয়মূল্য ১০০ টকা ধৰক। লিখিত মূল্য = ১৪০ টকা। ২৫% ৰেহাইৰ পিছত বিক্ৰয়মূল্য = ১৪০ × ০.৭৫ = ১০৫ টকা, সেয়ে লাভ ৫%।"
+    }
+  },
+  {
+    "id": "numerical-016",
+    "q": {
+      "en": "By selling an article for ₹720 a man loses 10%. To gain 15% he must sell it for",
+      "as": "এটা সামগ্ৰী ৭২০ টকাত বিক্ৰী কৰি এজন লোকে ১০% লোকচান হয়। ১৫% লাভ কৰিবলৈ তেওঁ কিমানত বিক্ৰী কৰিব লাগিব"
+    },
+    "options": [
+      {
+        "en": "₹920",
+        "as": "৯২০ টকা"
+      },
+      {
+        "en": "₹900",
+        "as": "৯০০ টকা"
+      },
+      {
+        "en": "₹880",
+        "as": "৮৮০ টকা"
+      },
+      {
+        "en": "₹960",
+        "as": "৯৬০ টকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cost = 720 ÷ 0.90 = ₹800. For a 15% gain the selling price is 800 × 1.15 = ₹920.",
+      "as": "ক্ৰয়মূল্য = ৭২০ ÷ ০.৯০ = ৮০০ টকা। ১৫% লাভৰ বাবে বিক্ৰয়মূল্য = ৮০০ × ১.১৫ = ৯২০ টকা।"
+    }
+  }
+]

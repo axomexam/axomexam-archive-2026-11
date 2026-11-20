@@ -1,0 +1,482 @@
+[
+  {
+    "id": "numerical-037",
+    "q": {
+      "en": "If x + 1/x = 3, the value of x² + 1/x² is",
+      "as": "যদি x + ১/x = ৩, তেন্তে x² + ১/x² ৰ মান কিমান"
+    },
+    "options": [
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "9",
+        "as": "৯"
+      },
+      {
+        "en": "11",
+        "as": "১১"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Squaring both sides: (x + 1/x)² = x² + 2 + 1/x² = 9, so x² + 1/x² = 9 - 2 = 7.",
+      "as": "দুয়োপক্ষে বৰ্গ কৰক: (x + ১/x)² = x² + ২ + ১/x² = ৯, সেয়ে x² + ১/x² = ৯ - ২ = ৭।"
+    }
+  },
+  {
+    "id": "numerical-038",
+    "q": {
+      "en": "If a + b = 10 and ab = 21, then a² + b² equals",
+      "as": "যদি a + b = ১০ আৰু ab = ২১, তেন্তে a² + b² ৰ মান কিমান"
+    },
+    "options": [
+      {
+        "en": "58",
+        "as": "৫৮"
+      },
+      {
+        "en": "79",
+        "as": "৭৯"
+      },
+      {
+        "en": "100",
+        "as": "১০০"
+      },
+      {
+        "en": "42",
+        "as": "৪২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "a² + b² = (a + b)² - 2ab = 100 - 42 = 58.",
+      "as": "a² + b² = (a + b)² - ২ab = ১০০ - ৪২ = ৫৮।"
+    }
+  },
+  {
+    "id": "numerical-039",
+    "q": {
+      "en": "The roots of x² - 7x + 12 = 0 are",
+      "as": "x² - ৭x + ১২ = ০ ৰ মূলবোৰ কি"
+    },
+    "options": [
+      {
+        "en": "3 and 4",
+        "as": "৩ আৰু ৪"
+      },
+      {
+        "en": "-3 and -4",
+        "as": "-৩ আৰু -৪"
+      },
+      {
+        "en": "2 and 6",
+        "as": "২ আৰু ৬"
+      },
+      {
+        "en": "1 and 12",
+        "as": "১ আৰু ১২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Factorising, x² - 7x + 12 = (x - 3)(x - 4) = 0, so x = 3 or x = 4. The sum 7 and product 12 both check.",
+      "as": "উৎপাদক বিশ্লেষণ কৰিলে x² - ৭x + ১২ = (x - ৩)(x - ৪) = ০, সেয়ে x = ৩ বা x = ৪। যোগফল ৭ আৰু গুণফল ১২ দুয়োটাই মিলে।"
+    }
+  },
+  {
+    "id": "numerical-040",
+    "q": {
+      "en": "The solution of 2x + 3y = 12 and 3x + 2y = 13 is",
+      "as": "২x + ৩y = ১২ আৰু ৩x + ২y = ১৩ ৰ সমাধান কি"
+    },
+    "options": [
+      {
+        "en": "x = 3, y = 2",
+        "as": "x = ৩, y = ২"
+      },
+      {
+        "en": "x = 2, y = 3",
+        "as": "x = ২, y = ৩"
+      },
+      {
+        "en": "x = 4, y = 1",
+        "as": "x = ৪, y = ১"
+      },
+      {
+        "en": "x = 1, y = 4",
+        "as": "x = ১, y = ৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Adding both equations gives 5x + 5y = 25, so x + y = 5. Subtracting gives y - x = 1. Solving, x = 3 and y = 2. Check: 6 + 6 = 12 and 9 + 4 = 13.",
+      "as": "দুয়ো সমীকৰণ যোগ কৰিলে ৫x + ৫y = ২৫, সেয়ে x + y = ৫। বিয়োগ কৰিলে y - x = ১। সমাধান কৰিলে x = ৩ আৰু y = ২। পৰীক্ষা: ৬ + ৬ = ১২ আৰু ৯ + ৪ = ১৩।"
+    }
+  },
+  {
+    "id": "numerical-041",
+    "q": {
+      "en": "The angles of a triangle are in the ratio 2 : 3 : 4. The largest angle is",
+      "as": "এটা ত্ৰিভুজৰ কোণবোৰ ২ : ৩ : ৪ অনুপাতত আছে। আটাইতকৈ ডাঙৰ কোণটো কিমান"
+    },
+    "options": [
+      {
+        "en": "80°",
+        "as": "৮০°"
+      },
+      {
+        "en": "60°",
+        "as": "৬০°"
+      },
+      {
+        "en": "90°",
+        "as": "৯০°"
+      },
+      {
+        "en": "72°",
+        "as": "৭২°"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The sum is 180°, and the parts total 9, so one part is 20°. The largest is 4 × 20 = 80°.",
+      "as": "মুঠ ১৮০°, আৰু অংশৰ যোগফল ৯, সেয়ে এভাগ ২০°। আটাইতকৈ ডাঙৰ ৪ × ২০ = ৮০°।"
+    }
+  },
+  {
+    "id": "numerical-042",
+    "q": {
+      "en": "The sum of the interior angles of a regular hexagon is",
+      "as": "এটা সুষম ষড়ভুজৰ অন্তঃকোণবোৰৰ যোগফল কিমান"
+    },
+    "options": [
+      {
+        "en": "720°",
+        "as": "৭২০°"
+      },
+      {
+        "en": "540°",
+        "as": "৫৪০°"
+      },
+      {
+        "en": "900°",
+        "as": "৯০০°"
+      },
+      {
+        "en": "360°",
+        "as": "৩৬০°"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "For an n-sided polygon the interior angles sum to (n - 2) × 180°. For a hexagon, (6 - 2) × 180 = 720°.",
+      "as": "n বাহুৰ বহুভুজৰ অন্তঃকোণৰ যোগফল (n - ২) × ১৮০°। ষড়ভুজৰ বাবে (৬ - ২) × ১৮০ = ৭২০°।"
+    }
+  },
+  {
+    "id": "numerical-043",
+    "q": {
+      "en": "The area of a circle of radius 7 cm is (take π = 22/7)",
+      "as": "৭ ছে.মি. ব্যাসাৰ্ধৰ বৃত্তৰ কালি কিমান (π = ২২/৭ ল'ব)"
+    },
+    "options": [
+      {
+        "en": "154 cm²",
+        "as": "১৫৪ বৰ্গ ছে.মি."
+      },
+      {
+        "en": "144 cm²",
+        "as": "১৪৪ বৰ্গ ছে.মি."
+      },
+      {
+        "en": "176 cm²",
+        "as": "১৭৬ বৰ্গ ছে.মি."
+      },
+      {
+        "en": "132 cm²",
+        "as": "১৩২ বৰ্গ ছে.মি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Area = πr² = (22/7) × 7 × 7 = 22 × 7 = 154 cm².",
+      "as": "কালি = πr² = (২২/৭) × ৭ × ৭ = ২২ × ৭ = ১৫৪ বৰ্গ ছে.মি.।"
+    }
+  },
+  {
+    "id": "numerical-044",
+    "q": {
+      "en": "The perimeter of a rectangle is 46 m and its length is 15 m. Its area is",
+      "as": "এটা আয়তৰ পৰিসীমা ৪৬ মি. আৰু দীঘ ১৫ মি.। ইয়াৰ কালি কিমান"
+    },
+    "options": [
+      {
+        "en": "120 m²",
+        "as": "১২০ বৰ্গ মি."
+      },
+      {
+        "en": "150 m²",
+        "as": "১৫০ বৰ্গ মি."
+      },
+      {
+        "en": "105 m²",
+        "as": "১০৫ বৰ্গ মি."
+      },
+      {
+        "en": "135 m²",
+        "as": "১৩৫ বৰ্গ মি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Perimeter = 2(l + b) = 46, so l + b = 23 and b = 23 - 15 = 8 m. Area = 15 × 8 = 120 m².",
+      "as": "পৰিসীমা = ২(l + b) = ৪৬, সেয়ে l + b = ২৩ আৰু b = ২৩ - ১৫ = ৮ মি.। কালি = ১৫ × ৮ = ১২০ বৰ্গ মি.।"
+    }
+  },
+  {
+    "id": "numerical-045",
+    "q": {
+      "en": "The volume of a cylinder of radius 7 cm and height 10 cm is (take π = 22/7)",
+      "as": "৭ ছে.মি. ব্যাসাৰ্ধ আৰু ১০ ছে.মি. উচ্চতাৰ চুঙাৰ আয়তন কিমান (π = ২২/৭ ল'ব)"
+    },
+    "options": [
+      {
+        "en": "1540 cm³",
+        "as": "১৫৪০ ঘন ছে.মি."
+      },
+      {
+        "en": "1540 cm²",
+        "as": "১৫৪০ বৰ্গ ছে.মি."
+      },
+      {
+        "en": "440 cm³",
+        "as": "৪৪০ ঘন ছে.মি."
+      },
+      {
+        "en": "770 cm³",
+        "as": "৭৭০ ঘন ছে.মি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Volume = πr²h = (22/7) × 49 × 10 = 22 × 7 × 10 = 1540 cm³.",
+      "as": "আয়তন = πr²h = (২২/৭) × ৪৯ × ১০ = ২২ × ৭ × ১০ = ১৫৪০ ঘন ছে.মি.।"
+    }
+  },
+  {
+    "id": "numerical-046",
+    "q": {
+      "en": "The total surface area of a cube of side 5 cm is",
+      "as": "৫ ছে.মি. বাহুৰ ঘনকৰ মুঠ পৃষ্ঠকালি কিমান"
+    },
+    "options": [
+      {
+        "en": "150 cm²",
+        "as": "১৫০ বৰ্গ ছে.মি."
+      },
+      {
+        "en": "125 cm²",
+        "as": "১২৫ বৰ্গ ছে.মি."
+      },
+      {
+        "en": "100 cm²",
+        "as": "১০০ বৰ্গ ছে.মি."
+      },
+      {
+        "en": "25 cm²",
+        "as": "২৫ বৰ্গ ছে.মি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A cube has six equal square faces, so total surface area = 6a² = 6 × 25 = 150 cm². Note 125 cm³ is its volume, not its area.",
+      "as": "ঘনকৰ ছয়োটা সমান বৰ্গমুখ থাকে, সেয়ে মুঠ পৃষ্ঠকালি = ৬a² = ৬ × ২৫ = ১৫০ বৰ্গ ছে.মি.। মন কৰক ১২৫ ঘন ছে.মি. হ'ল আয়তন, কালি নহয়।"
+    }
+  },
+  {
+    "id": "numerical-047",
+    "q": {
+      "en": "The value of sin 30° + cos 60° is",
+      "as": "sin ৩০° + cos ৬০° ৰ মান কিমান"
+    },
+    "options": [
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "1/2",
+        "as": "১/২"
+      },
+      {
+        "en": "√3/2",
+        "as": "√৩/২"
+      },
+      {
+        "en": "0",
+        "as": "০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "sin 30° = 1/2 and cos 60° = 1/2, so the sum is 1.",
+      "as": "sin ৩০° = ১/২ আৰু cos ৬০° = ১/২, সেয়ে যোগফল ১।"
+    }
+  },
+  {
+    "id": "numerical-048",
+    "q": {
+      "en": "If tan θ = 3/4 and θ is acute, then sin θ is",
+      "as": "যদি tan θ = ৩/৪ আৰু θ সূক্ষ্মকোণ, তেন্তে sin θ কিমান"
+    },
+    "options": [
+      {
+        "en": "3/5",
+        "as": "৩/৫"
+      },
+      {
+        "en": "4/5",
+        "as": "৪/৫"
+      },
+      {
+        "en": "3/4",
+        "as": "৩/৪"
+      },
+      {
+        "en": "5/3",
+        "as": "৫/৩"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "With tan θ = opposite/adjacent = 3/4, the hypotenuse is √(9 + 16) = 5. So sin θ = 3/5.",
+      "as": "tan θ = বিপৰীত/সংলগ্ন = ৩/৪ ৰে অতিভুজ = √(৯ + ১৬) = ৫। সেয়ে sin θ = ৩/৫।"
+    }
+  },
+  {
+    "id": "numerical-049",
+    "q": {
+      "en": "The angle of elevation of the top of a tower from a point 20 m away on level ground is 45°. The height of the tower is",
+      "as": "সমতল মাটিত ২০ মি. দূৰৰ এটা বিন্দুৰপৰা এটা টাৱাৰৰ শীৰ্ষৰ উন্নতি কোণ ৪৫°। টাৱাৰটোৰ উচ্চতা কিমান"
+    },
+    "options": [
+      {
+        "en": "20 m",
+        "as": "২০ মি."
+      },
+      {
+        "en": "10 m",
+        "as": "১০ মি."
+      },
+      {
+        "en": "20√3 m",
+        "as": "২০√৩ মি."
+      },
+      {
+        "en": "40 m",
+        "as": "৪০ মি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "tan 45° = height / base = h / 20, and tan 45° = 1, so h = 20 m.",
+      "as": "tan ৪৫° = উচ্চতা / ভূমি = h / ২০, আৰু tan ৪৫° = ১, সেয়ে h = ২০ মি.।"
+    }
+  },
+  {
+    "id": "numerical-050",
+    "q": {
+      "en": "From a point 60 m from the foot of a tower, the angle of elevation of its top is 30°. The height of the tower is",
+      "as": "টাৱাৰৰ পাদদেশৰপৰা ৬০ মি. দূৰৰ এটা বিন্দুৰপৰা শীৰ্ষৰ উন্নতি কোণ ৩০°। টাৱাৰটোৰ উচ্চতা কিমান"
+    },
+    "options": [
+      {
+        "en": "20√3 m",
+        "as": "২০√৩ মি."
+      },
+      {
+        "en": "60√3 m",
+        "as": "৬০√৩ মি."
+      },
+      {
+        "en": "30 m",
+        "as": "৩০ মি."
+      },
+      {
+        "en": "60 m",
+        "as": "৬০ মি."
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "tan 30° = h / 60 = 1/√3, so h = 60/√3 = 20√3 ≈ 34.6 m.",
+      "as": "tan ৩০° = h / ৬০ = ১/√৩, সেয়ে h = ৬০/√৩ = ২০√৩ ≈ ৩৪.৬ মি.।"
+    }
+  },
+  {
+    "id": "numerical-051",
+    "q": {
+      "en": "The distance between the points (0, 0) and (3, 4) is",
+      "as": "বিন্দু (০, ০) আৰু (৩, ৪) ৰ মাজৰ দূৰত্ব কিমান"
+    },
+    "options": [
+      {
+        "en": "5 units",
+        "as": "৫ একক"
+      },
+      {
+        "en": "7 units",
+        "as": "৭ একক"
+      },
+      {
+        "en": "25 units",
+        "as": "২৫ একক"
+      },
+      {
+        "en": "√7 units",
+        "as": "√৭ একক"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Distance = √((3 - 0)² + (4 - 0)²) = √(9 + 16) = √25 = 5 units.",
+      "as": "দূৰত্ব = √((৩ - ০)² + (৪ - ০)²) = √(৯ + ১৬) = √২৫ = ৫ একক।"
+    }
+  },
+  {
+    "id": "numerical-052",
+    "q": {
+      "en": "The midpoint of the line joining (2, 6) and (8, 4) is",
+      "as": "(২, ৬) আৰু (৮, ৪) সংযোগী ৰেখাৰ মধ্যবিন্দু কি"
+    },
+    "options": [
+      {
+        "en": "(5, 5)",
+        "as": "(৫, ৫)"
+      },
+      {
+        "en": "(10, 10)",
+        "as": "(১০, ১০)"
+      },
+      {
+        "en": "(6, 2)",
+        "as": "(৬, ২)"
+      },
+      {
+        "en": "(3, 1)",
+        "as": "(৩, ১)"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Midpoint = ((2 + 8)/2, (6 + 4)/2) = (5, 5).",
+      "as": "মধ্যবিন্দু = ((২ + ৮)/২, (৬ + ৪)/২) = (৫, ৫)।"
+    }
+  }
+]

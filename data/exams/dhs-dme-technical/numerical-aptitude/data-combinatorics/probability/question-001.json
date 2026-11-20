@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-059",
+    "q": {
+      "en": "Two dice are thrown together. The probability of getting a sum of 9 is",
+      "as": "দুটাকৈ পাশা একেলগে পেলোৱা হ'ল। যোগফল ৯ হোৱাৰ সম্ভাৱিতা কিমান"
+    },
+    "options": [
+      {
+        "en": "1/9",
+        "as": "১/৯"
+      },
+      {
+        "en": "1/6",
+        "as": "১/৬"
+      },
+      {
+        "en": "1/12",
+        "as": "১/১২"
+      },
+      {
+        "en": "5/36",
+        "as": "৫/৩৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sums of 9 come from (3,6), (4,5), (5,4) and (6,3), which is 4 outcomes out of 36. So the probability is 4/36 = 1/9.",
+      "as": "৯ ৰ যোগফল (৩,৬), (৪,৫), (৫,৪) আৰু (৬,৩) ৰপৰা হয়, অৰ্থাৎ ৩৬ ৰ ভিতৰত ৪ টা ফল। সেয়ে সম্ভাৱিতা ৪/৩৬ = ১/৯।"
+    }
+  },
+  {
+    "id": "numerical-060",
+    "q": {
+      "en": "A card is drawn at random from a well-shuffled pack of 52 cards. The probability that it is a king is",
+      "as": "৫২ খন তাচৰ ভালদৰে মিহলোৱা পেকৰপৰা যাদৃচ্ছিকভাৱে এখন তাচ টনা হ'ল। সেয়া ৰজা হোৱাৰ সম্ভাৱিতা কিমান"
+    },
+    "options": [
+      {
+        "en": "1/13",
+        "as": "১/১৩"
+      },
+      {
+        "en": "1/4",
+        "as": "১/৪"
+      },
+      {
+        "en": "4/13",
+        "as": "৪/১৩"
+      },
+      {
+        "en": "1/52",
+        "as": "১/৫২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "There are 4 kings in 52 cards, so the probability is 4/52 = 1/13.",
+      "as": "৫২ খন তাচত ৪ জন ৰজা আছে, সেয়ে সম্ভাৱিতা ৪/৫২ = ১/১৩।"
+    }
+  }
+]

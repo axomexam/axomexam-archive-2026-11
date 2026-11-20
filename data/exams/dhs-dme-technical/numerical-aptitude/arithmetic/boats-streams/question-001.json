@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-033",
+    "q": {
+      "en": "A boat goes 24 km downstream and returns in 5 hours. If the speed of the stream is 2 km/h, the speed of the boat in still water is",
+      "as": "এখন নাওৱে ২৪ কিমি সোঁতৰ দিশত গৈ ৫ ঘণ্টাত ঘূৰি আহে। সোঁতৰ বেগ ২ কিমি/ঘণ্টা হ'লে স্থিৰ পানীত নাওখনৰ বেগ কিমান"
+    },
+    "options": [
+      {
+        "en": "10 km/h",
+        "as": "১০ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "8 km/h",
+        "as": "৮ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "12 km/h",
+        "as": "১২ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "6 km/h",
+        "as": "৬ কিমি/ঘণ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Let the still-water speed be b. Then 24/(b+2) + 24/(b-2) = 5, which simplifies to 5b² - 48b - 20 = 0. The positive root is b = 10 km/h.",
+      "as": "স্থিৰ পানীৰ বেগ b ধৰক। তেন্তে ২৪/(b+২) + ২৪/(b-২) = ৫, যি ৫b² - ৪৮b - ২০ = ০ লৈ সৰল হয়। ধনাত্মক মূল b = ১০ কিমি/ঘণ্টা।"
+    }
+  },
+  {
+    "id": "numerical-034",
+    "q": {
+      "en": "The speed of a boat downstream is 15 km/h and upstream 9 km/h. The speed of the stream is",
+      "as": "সোঁতৰ দিশত নাওৰ বেগ ১৫ কিমি/ঘণ্টা আৰু সোঁতৰ বিপৰীত দিশত ৯ কিমি/ঘণ্টা। সোঁতৰ বেগ কিমান"
+    },
+    "options": [
+      {
+        "en": "3 km/h",
+        "as": "৩ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "6 km/h",
+        "as": "৬ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "12 km/h",
+        "as": "১২ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "4 km/h",
+        "as": "৪ কিমি/ঘণ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Stream speed = (downstream - upstream) ÷ 2 = (15 - 9) ÷ 2 = 3 km/h.",
+      "as": "সোঁতৰ বেগ = (সোঁতৰ দিশ - বিপৰীত দিশ) ÷ ২ = (১৫ - ৯) ÷ ২ = ৩ কিমি/ঘণ্টা।"
+    }
+  }
+]

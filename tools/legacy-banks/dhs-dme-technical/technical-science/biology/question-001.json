@@ -4198,5 +4198,905 @@
       "en": "The white-winged wood duck (Deo Hanh) is the state bird of Assam.",
       "as": "বগা ডেউকাৰ কাঠ হাঁহ (দেও হাঁহ) অসমৰ ৰাজ্যিক চৰাই।"
     }
+  },
+  {
+    "id": "biology-141",
+    "q": {
+      "en": "In a liver cell, which organelle carries out the detoxification of drugs and the synthesis of steroid hormones?",
+      "as": "যকৃতৰ কোষত ঔষধৰ বিষহৰণ আৰু ষ্টেৰয়ড হৰম'ন সংশ্লেষণ কোনটো অংগাণুৱে কৰে?"
+    },
+    "options": [
+      {
+        "en": "Smooth endoplasmic reticulum",
+        "as": "মসৃণ অন্তঃপ্ৰদেশীয় জালিকা"
+      },
+      {
+        "en": "Rough endoplasmic reticulum",
+        "as": "খহটা অন্তঃপ্ৰদেশীয় জালিকা"
+      },
+      {
+        "en": "Peroxisome",
+        "as": "পেৰ'ক্সিজম"
+      },
+      {
+        "en": "Lysosome",
+        "as": "লাইছ'জম"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The smooth endoplasmic reticulum carries no ribosomes. It holds the cytochrome P450 enzymes that break drugs down and the enzymes that build steroid hormones.",
+      "as": "মসৃণ অন্তঃপ্ৰদেশীয় জালিকাত ৰাইব'জম নাথাকে। ইয়াত চাইট'ক্ৰ'ম পি৪৫০ এনজাইমে ঔষধ ভাঙি বিষহৰণ কৰে আৰু ষ্টেৰয়ড হৰম'ন গঢ়া এনজাইমবোৰো ইয়াতেই থাকে।"
+    }
+  },
+  {
+    "id": "biology-142",
+    "q": {
+      "en": "The fluid-mosaic model of the plasma membrane, which pictures proteins floating in a fluid lipid bilayer, was proposed by",
+      "as": "তৰল লিপিড দ্বিস্তৰত প্ৰ'টিন ভাহি থকা বুলি কোৱা কোষৰ ঝিল্লীৰ তৰল-ম'জেইক আৰ্হি কোনে আগবঢ়াইছিল?"
+    },
+    "options": [
+      {
+        "en": "Robert Hooke and Antonie van Leeuwenhoek",
+        "as": "ৰবাৰ্ট হুক আৰু এণ্টনি ভান লিউৱেনহুক"
+      },
+      {
+        "en": "Seymour Singer and Garth Nicolson",
+        "as": "ছিম'ৰ ছিংগাৰ আৰু গাৰ্থ নিকলছন"
+      },
+      {
+        "en": "James Danielli and Hugh Davson",
+        "as": "জেমছ ডেনিয়েলি আৰু হিউ ডেভছন"
+      },
+      {
+        "en": "Matthias Schleiden and Theodor Schwann",
+        "as": "মাথিয়াছ শ্লাইডেন আৰু থিঅ'ডৰ শ্বান"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Singer and Nicolson put the model forward in 1972. The lipid bilayer is fluid and the protein molecules drift in it like the pieces of a mosaic.",
+      "as": "ছিংগাৰ আৰু নিকলছনে ১৯৭২ চনত এই আৰ্হি আগবঢ়ায়। লিপিড দ্বিস্তৰ তৰল আৰু প্ৰ'টিন অণুবোৰ ম'জেইকৰ টুকুৰাৰ দৰে ইয়াত ইফালে-সিফালে ঘূৰি থাকে।"
+    }
+  },
+  {
+    "id": "biology-143",
+    "q": {
+      "en": "Which intercellular junction lets small ions pass straight from the cytoplasm of one animal cell into the next through channels built of connexin?",
+      "as": "কনেক্সিনেৰে গঢ়া নলীৰ জৰিয়তে এটা প্ৰাণীকোষৰ চাইট'প্লাজমৰ পৰা আনটোত সৰু আয়ন পোনপটীয়াকৈ যাবলৈ দিয়া আন্তঃকোষীয় সংযোগটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Desmosome",
+        "as": "ডেজম'জম"
+      },
+      {
+        "en": "Tight junction",
+        "as": "দৃঢ় সংযোগ"
+      },
+      {
+        "en": "Gap junction",
+        "as": "ফাঁক সংযোগ"
+      },
+      {
+        "en": "Plasmodesma",
+        "as": "প্লাজম'ডেজমা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A gap junction is a cluster of connexon channels and permits direct cytoplasmic exchange. In plant cells the same work is done by plasmodesmata.",
+      "as": "ফাঁক সংযোগ হ'ল কনেক্সন নলীৰ সমষ্টি, যিয়ে চাইট'প্লাজমৰ পোনপটীয়া আদান-প্ৰদানত সহায় কৰে। উদ্ভিদ কোষত এই কাম প্লাজম'ডেজমেটাই কৰে।"
+    }
+  },
+  {
+    "id": "biology-144",
+    "q": {
+      "en": "On the lagging strand of a replicating DNA molecule, the short stretches are joined into one continuous chain by",
+      "as": "প্ৰতিলিপি হৈ থকা ডি এন এ অণুৰ পিছপৰা শৃংখলাত চুটি খণ্ডবোৰ জোৰা লগাই এটা অখণ্ড শৃংখলা কৰা এনজাইমটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "DNA polymerase III",
+        "as": "ডি এন এ পলিমাৰেজ তৃতীয়"
+      },
+      {
+        "en": "Helicase",
+        "as": "হেলিকেজ"
+      },
+      {
+        "en": "Primase",
+        "as": "প্ৰাইমেজ"
+      },
+      {
+        "en": "DNA ligase",
+        "as": "ডি এন এ লাইগেজ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The short stretches are Okazaki fragments. DNA ligase forms the phosphodiester bond that seals one fragment to the next.",
+      "as": "এই চুটি খণ্ডবোৰক ওকাজাকি খণ্ড বোলে। ডি এন এ লাইগেজে ফছফ'ডাইএষ্টাৰ বন্ধন গঢ়ি এটা খণ্ডক আনটোৰ লগত জোৰে।"
+    }
+  },
+  {
+    "id": "biology-145",
+    "q": {
+      "en": "The gene for haemophilia in human beings lies on the X chromosome, so the trait is inherited as",
+      "as": "মানুহত হিম'ফিলিয়াৰ জিন X ক্ৰ'ম'জমত থাকে, গতিকে এই বৈশিষ্ট্য কেনে ধৰণে বংশানুক্ৰমে আহে?"
+    },
+    "options": [
+      {
+        "en": "an X-linked recessive trait",
+        "as": "X-সংলগ্ন প্ৰচ্ছন্ন বৈশিষ্ট্য"
+      },
+      {
+        "en": "an autosomal dominant trait",
+        "as": "অট'জমেল প্ৰকট বৈশিষ্ট্য"
+      },
+      {
+        "en": "a Y-linked trait",
+        "as": "Y-সংলগ্ন বৈশিষ্ট্য"
+      },
+      {
+        "en": "an autosomal recessive trait",
+        "as": "অট'জমেল প্ৰচ্ছন্ন বৈশিষ্ট্য"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "One copy of the faulty gene makes a male a bleeder, while a female must carry two copies before she shows the disease, so unaffected mothers transmit it to their sons.",
+      "as": "এটা ত্ৰুটিপূৰ্ণ জিন কপি লৈয়েই পুৰুষ ৰোগী হয়, কিন্তু নাৰীয়ে দুটা কপি ল'লেহে ৰোগ দেখায়, গতিকে ৰোগমুক্ত মাকৰ পৰা পুত্ৰলৈ ই গৈ থাকে।"
+    }
+  },
+  {
+    "id": "biology-146",
+    "q": {
+      "en": "A single base substitution in the beta-globin gene puts valine in the sixth position and gives sickle-shaped red corpuscles. This kind of change is called",
+      "as": "বিটা-গ্লবিন জিনত এটা বেছৰ সলনিয়ে ষষ্ঠ স্থানত ভেলিন বহুৱাই কাস্তে-আকৃতিৰ ৰক্তকণিকা সৃষ্টি কৰে। এনে পৰিৱৰ্তনক কি বোলে?"
+    },
+    "options": [
+      {
+        "en": "a frameshift mutation",
+        "as": "ফ্ৰেমশ্বিফ্ট বিক্ষোভ"
+      },
+      {
+        "en": "a point mutation",
+        "as": "বিন্দু বিক্ষোভ (পইণ্ট মিউটেশ্যন)"
+      },
+      {
+        "en": "a chromosomal deletion",
+        "as": "ক্ৰ'ম'জমীয় বিলোপন"
+      },
+      {
+        "en": "a polyploid change",
+        "as": "বহুগুণিতক পৰিৱৰ্তন"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Only one base is replaced, so the reading frame is unchanged and one codon is altered. A frameshift would shift every later codon.",
+      "as": "কেৱল এটা বেছ সলনি হয়, গতিকে পঢ়াৰ ফ্ৰেম একে থাকে আৰু এটা কোডন সলনি হয়। ফ্ৰেমশ্বিফ্ট হ'লে ইয়াৰ পিছৰ প্ৰতিটো কোডন সলনি হ'লহেঁতেন।"
+    }
+  },
+  {
+    "id": "biology-147",
+    "q": {
+      "en": "The foramen magnum, the large opening at the base of the skull through which the medulla passes, belongs to which bone?",
+      "as": "কৰোঁটৰ তলত থকা ডাঙৰ ছিদ্ৰ ফৰামেন মেগনাম, যাৰ মাজেৰে মেডালা ওলাই যায়, কোনটো হাড়ৰ অংশ?"
+    },
+    "options": [
+      {
+        "en": "Temporal bone",
+        "as": "টেম্প'ৰেল হাড়"
+      },
+      {
+        "en": "Parietal bone",
+        "as": "পেৰাইটেল হাড়"
+      },
+      {
+        "en": "Occipital bone",
+        "as": "অক্সিপিটেল হাড়"
+      },
+      {
+        "en": "Frontal bone",
+        "as": "ফ্ৰণ্টেল হাড়"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "The occipital bone forms the back and the base of the skull, and the foramen magnum in it joins the cranial cavity to the vertebral canal.",
+      "as": "অক্সিপিটেল হাড়ে কৰোঁটৰ পিছ আৰু তল গঢ়ে, আৰু ইয়াত থকা ফৰামেন মেগনামে কৰোঁটৰ গহ্বৰক মেৰুদণ্ডৰ নলীৰ লগত জোৰে।"
+    }
+  },
+  {
+    "id": "biology-148",
+    "q": {
+      "en": "Which bone of the human skull is the only movable one, forming the lower jaw and articulating with the temporal bone?",
+      "as": "মানুহৰ কৰোঁটৰ কোনটো হাড়েই একমাত্ৰ চলনশীল, যি তলৰ পাটি গঢ়ি টেম্প'ৰেল হাড়ৰ লগত সংযোগ কৰে?"
+    },
+    "options": [
+      {
+        "en": "Palatine bone",
+        "as": "পেলেটাইন হাড়"
+      },
+      {
+        "en": "Maxilla",
+        "as": "মেক্সিলা (ওপৰৰ পাটি)"
+      },
+      {
+        "en": "Zygomatic bone",
+        "as": "জাইগ'মেটিক হাড়"
+      },
+      {
+        "en": "Mandible",
+        "as": "মেন্ডিবল (তলৰ পাটি)"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Every other skull bone is fixed at a suture. The mandible alone moves, through the temporomandibular joint, which is what chewing needs.",
+      "as": "আন প্ৰতিটো কৰোঁটৰ হাড় চিলাইত স্থিৰ হৈ থাকে। কেৱল মেন্ডিবলে টেম্প'ৰ'মেন্ডিবুলাৰ সংযোগৰ জৰিয়তে লৰচৰ কৰে, যি চোবোৱাৰ বাবে প্ৰয়োজন।"
+    }
+  },
+  {
+    "id": "biology-149",
+    "q": {
+      "en": "The atlas and the axis are the first two cervical bones. The joint between them, which lets the head turn from side to side, is a",
+      "as": "এটলাছ আৰু এক্সিছ হ'ল প্ৰথম দুটা গ্ৰীবাৰ হাড়। সিহঁতৰ মাজৰ সংযোগ, যিয়ে মূৰক ইফালে-সিফালে ঘূৰাবলৈ দিয়ে, সেয়া এটা —"
+    },
+    "options": [
+      {
+        "en": "pivot joint",
+        "as": "অক্ষ-সংযোগ (পিভট জইণ্ট)"
+      },
+      {
+        "en": "hinge joint",
+        "as": "কব্জা সংযোগ"
+      },
+      {
+        "en": "ball and socket joint",
+        "as": "গোলক-কোষ্ঠ সংযোগ"
+      },
+      {
+        "en": "saddle joint",
+        "as": "জিন-সংযোগ (ছেডল জইণ্ট)"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The ring of the atlas turns about the odontoid peg of the axis, which is a pivot joint. A hinge joint, such as the elbow, allows movement in one plane only.",
+      "as": "এটলাছৰ আঙঠিটো এক্সিছৰ অডণ্টইড খুটাটোৰ চাৰিওফালে ঘূৰে, যি এটা অক্ষ-সংযোগ। কব্জা সংযোগ, যেনে কিলাকুটি, এটা সমতলতহে চলিবলৈ দিয়ে।"
+    }
+  },
+  {
+    "id": "biology-150",
+    "q": {
+      "en": "Which part of the kidney tubule is almost impermeable to water and pumps sodium and chloride out actively, so that the filtrate turns dilute?",
+      "as": "বৃক্ক নলীৰ কোনটো অংশ পানীৰ প্ৰতি প্ৰায় অপৰিবেশ্য আৰু ছ'ডিয়াম তথা ক্ল'ৰাইড সক্ৰিয়ভাৱে বাহিৰ কৰে, যাৰ ফলত পৰিশোধিত তৰল পাতল হয়?"
+    },
+    "options": [
+      {
+        "en": "Descending limb of the loop of Henle",
+        "as": "হেনলিৰ লুপৰ অৱৰোহী শাখা"
+      },
+      {
+        "en": "Ascending limb of the loop of Henle",
+        "as": "হেনলিৰ লুপৰ আৰোহী শাখা"
+      },
+      {
+        "en": "Proximal convoluted tubule",
+        "as": "সমীপৱৰ্তী কণ্ডলিত নলী"
+      },
+      {
+        "en": "Collecting duct",
+        "as": "সংগ্ৰাহক নলী"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The ascending limb keeps water in and pushes salts out, so the filtrate becomes dilute and a salt gradient builds up for the descending limb to draw water back with.",
+      "as": "আৰোহী শাখাই পানী ৰাখি লৱণ বাহিৰ কৰে, ফলত তৰলটো পাতল হয় আৰু এনে লৱণ প্ৰৱণতা গঢ় লয় যি অৱৰোহী শাখাক পানী ঘূৰাই আনিবলৈ সহায় কৰে।"
+    }
+  },
+  {
+    "id": "biology-151",
+    "q": {
+      "en": "Pulmonary surfactant lowers surface tension and keeps the alveoli from collapsing at the end of each breath. It is secreted by",
+      "as": "ফুসফুসৰ ছাৰফেক্টেণ্টে পৃষ্ঠটান কমাই প্ৰতিটো উশাহৰ শেষত আলভিঅ'লি মিলি যোৱাৰ পৰা ৰাখে। ইয়াক নিঃসৰণ কৰে —"
+    },
+    "options": [
+      {
+        "en": "alveolar macrophages",
+        "as": "আলভিঅ'লাৰ মেক্ৰ'ফেজে"
+      },
+      {
+        "en": "type I pneumocytes",
+        "as": "প্ৰথম প্ৰকাৰৰ নিউম'চাইটে"
+      },
+      {
+        "en": "type II pneumocytes",
+        "as": "দ্বিতীয় প্ৰকাৰৰ নিউম'চাইটে"
+      },
+      {
+        "en": "goblet cells",
+        "as": "গবলেট কোষে"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Type II pneumocytes secrete the phospholipid surfactant. Type I pneumocytes form the thin surface across which oxygen and carbon dioxide diffuse.",
+      "as": "দ্বিতীয় প্ৰকাৰৰ নিউম'চাইটে ফছফ'লিপিড ছাৰফেক্টেণ্ট নিঃসৰণ কৰে। প্ৰথম প্ৰকাৰৰ নিউম'চাইটে সেই পাতল পৃষ্ঠ গঢ়ে যাৰ মাজেৰে অক্সিজেন আৰু কাৰ্বন ডাইঅক্সাইড বিয়পি যায়।"
+    }
+  },
+  {
+    "id": "biology-152",
+    "q": {
+      "en": "Which vitamin is destroyed by prolonged cooking and by contact with copper vessels, and is chemically ascorbic acid?",
+      "as": "দীৰ্ঘ সময় ৰন্ধা আৰু তামৰ পাত্ৰৰ সংস্পৰ্শত নষ্ট হোৱা, ৰাসায়নিকভাৱে এস্কৰবিক অছিড হোৱা ভিটামিনটো কোনটো?"
+    },
+    "options": [
+      {
+        "en": "Vitamin D",
+        "as": "ভিটামিন ডি"
+      },
+      {
+        "en": "Vitamin B1",
+        "as": "ভিটামিন বি১"
+      },
+      {
+        "en": "Vitamin A",
+        "as": "ভিটামিন এ"
+      },
+      {
+        "en": "Vitamin C",
+        "as": "ভিটামিন চি"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Ascorbic acid is heat-labile and oxidises on contact with copper, so long boiling in a copper vessel destroys most of it.",
+      "as": "এস্কৰবিক অছিড তাপত ভাঙি যায় আৰু তামৰ সংস্পৰ্শত জাৰিত হয়, গতিকে তামৰ পাত্ৰত বেছি সময় উতলালে ইয়াৰ বেছিভাগ নষ্ট হয়।"
+    }
+  },
+  {
+    "id": "biology-153",
+    "q": {
+      "en": "Pellagra, marked by dermatitis, diarrhoea, dementia and death, is caused by the deficiency of",
+      "as": "ডাৰ্মাটাইটিছ, ডায়েৰিয়া, ডিমেনছিয়া আৰু মৃত্যুৰে চিহ্নিত পেলাগ্ৰা ৰোগ কোনটোৰ অভাৱত হয়?"
+    },
+    "options": [
+      {
+        "en": "niacin",
+        "as": "নিয়াচিন"
+      },
+      {
+        "en": "thiamine",
+        "as": "থায়ামিন"
+      },
+      {
+        "en": "riboflavin",
+        "as": "ৰাইব'ফ্লেভিন"
+      },
+      {
+        "en": "retinol",
+        "as": "ৰেটিনল"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pellagra follows a shortage of niacin, vitamin B3, and the four Ds are its classical signs. Thiamine shortage gives beriberi instead.",
+      "as": "পেলাগ্ৰা নিয়াচিন (ভিটামিন বি৩)ৰ অভাৱত হয়, আৰু চাৰিটা ডি ইয়াৰ চিনাকি লক্ষণ। থায়ামিনৰ অভাৱত বৰিবৰি হয়।"
+    }
+  },
+  {
+    "id": "biology-154",
+    "q": {
+      "en": "Sleeping sickness is a disease spread from person to person by the tsetse fly. Which protozoan pathogen causes it?",
+      "as": "চেৎসে মাখিৰ জৰিয়তে এজনৰ পৰা আনজনলৈ যোৱা কোনটো প্ৰ'ট'জ'ৱাই টোপনি ৰোগ সৃষ্টি কৰে?"
+    },
+    "options": [
+      {
+        "en": "Plasmodium vivax",
+        "as": "প্লাজম'ডিয়াম ভাইভেক্স"
+      },
+      {
+        "en": "Trypanosoma brucei",
+        "as": "ট্ৰিপেন'ছ'মা ব্ৰুচাই"
+      },
+      {
+        "en": "Entamoeba histolytica",
+        "as": "এণ্টামিবা হিষ্ট'লাইটিকা"
+      },
+      {
+        "en": "Leishmania donovani",
+        "as": "লেইশমেনিয়া ডন'ভানি"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Trypanosoma brucei multiplies in the blood and later enters the brain, which is why the illness ends in disturbed sleep, tremors and coma.",
+      "as": "ট্ৰিপেন'ছ'মা ব্ৰুচাই তেজত বংশবৃদ্ধি কৰি পিছত মগজুলৈ সোমায়, সেয়ে ৰোগ শেষত টোপনিৰ বিকাৰ, কম্পন আৰু অচেতনতাত পৰিণত হয়।"
+    }
+  },
+  {
+    "id": "biology-155",
+    "q": {
+      "en": "A sputum sample shows acid-fast bacilli and the chest film shows a cavity in the upper lobe. Which infectious disease fits best?",
+      "as": "কফৰ নমুনাত অছিড-ফাষ্ট বেচিলাছ দেখা গ'ল আৰু বুকুৰ ছবিত ওপৰৰ ল'বত গহ্বৰ আছে। কোনটো সংক্ৰামক ৰোগ সৰ্বাধিক খাপ খায়?"
+    },
+    "options": [
+      {
+        "en": "Bronchial asthma",
+        "as": "ব্ৰংকিয়েল এজমা"
+      },
+      {
+        "en": "Lobar pneumonia",
+        "as": "ল'বাৰ নিউম'নিয়া"
+      },
+      {
+        "en": "Pulmonary tuberculosis",
+        "as": "ফুসফুসৰ যক্ষ্মা"
+      },
+      {
+        "en": "Pleural effusion",
+        "as": "প্লুৰেল এফিউশ্যন"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Acid-fast bacilli plus an upper-lobe cavity is the classic picture of tuberculosis. Pneumonia produces consolidation of a lobe, not a cavity.",
+      "as": "অছিড-ফাষ্ট বেচিলাছ আৰু ওপৰৰ ল'বৰ গহ্বৰ যক্ষ্মাৰ ধ্ৰুপদী চিত্ৰ। নিউম'নিয়াত ল'ব সংহত হয়, গহ্বৰ নহয়।"
+    }
+  },
+  {
+    "id": "biology-156",
+    "q": {
+      "en": "In dengue haemorrhagic fever the danger comes chiefly from the virus causing",
+      "as": "ডেঙ্গু হিম'ৰেজিক জ্বৰত বিপদ মূলতঃ ভাইৰাছে কি কৰাৰ পৰা আহে?"
+    },
+    "options": [
+      {
+        "en": "blockage of the common bile duct",
+        "as": "সাধাৰণ পিত্তনলী বন্ধ হোৱা"
+      },
+      {
+        "en": "a sharp rise in platelets and rapid clotting",
+        "as": "প্লেটলেট হঠাতে বাঢ়ি দ্ৰুত তেজ জমা"
+      },
+      {
+        "en": "destruction of the red bone marrow",
+        "as": "ৰঙা অস্থি মজ্জাৰ বিনাশ"
+      },
+      {
+        "en": "a sharp fall in platelets and leakage from capillaries",
+        "as": "প্লেটলেট হঠাতে কমি যোৱা আৰু কেশিকা নলীৰ পৰা ৰস ওলোৱা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The virus injures capillary walls and depresses platelet production, so plasma leaks into tissues and bleeding begins.",
+      "as": "ভাইৰাছে কেশিকা নলীৰ বেৰৰ ক্ষতি কৰে আৰু প্লেটলেট উৎপাদন কমায়, ফলত ৰস কলালৈ ওলাই যায় আৰু ৰক্তক্ষৰণ আৰম্ভ হয়।"
+    }
+  },
+  {
+    "id": "biology-157",
+    "q": {
+      "en": "In the food chain grass to grasshopper to frog to snake to hawk, the hawk feeds at which trophic level?",
+      "as": "ঘাঁহ → ফৰিং → ভেকুলী → সাপ → শেন এই খাদ্য শৃংখলাত শেনে কোনটো পুষ্টিস্তৰত আহাৰ লয়?"
+    },
+    "options": [
+      {
+        "en": "The fifth",
+        "as": "পঞ্চম"
+      },
+      {
+        "en": "The fourth",
+        "as": "চতুৰ্থ"
+      },
+      {
+        "en": "The third",
+        "as": "তৃতীয়"
+      },
+      {
+        "en": "The second",
+        "as": "দ্বিতীয়"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Grass is level one, the grasshopper level two, the frog three, the snake four and the hawk five, counting the producer as the first level.",
+      "as": "ঘাঁহ স্তৰ এক, ফৰিং স্তৰ দুই, ভেকুলী তিনি, সাপ চাৰি আৰু শেন পাঁচ, উৎপাদকক প্ৰথম স্তৰ ধৰি গণনা কৰিলে।"
+    }
+  },
+  {
+    "id": "biology-158",
+    "q": {
+      "en": "In an ecosystem the pyramid of energy never turns upside down because at each transfer",
+      "as": "পৰিৱেশ তন্ত্ৰত শক্তিৰ পিৰামিড কেতিয়াও ওলোটা নহয়, কাৰণ প্ৰতিটো হস্তান্তৰত —"
+    },
+    "options": [
+      {
+        "en": "the number of organisms always rises",
+        "as": "জীৱৰ সংখ্যা সদায় বাঢ়ে"
+      },
+      {
+        "en": "a large part of the energy is lost as heat",
+        "as": "শক্তিৰ ডাঙৰ অংশ তাপ ৰূপে নোহোৱা হয়"
+      },
+      {
+        "en": "biomass grows at every step",
+        "as": "প্ৰতিটো খোজত জৈৱভৰ বাঢ়ে"
+      },
+      {
+        "en": "decomposers supply fresh energy",
+        "as": "বিয়োজকে নতুন শক্তি যোগায়"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Respiration releases most of the energy as heat, so only about a tenth passes on and every higher level holds less energy than the one below.",
+      "as": "শ্বাস-প্ৰশ্বাসে বেছিভাগ শক্তি তাপ ৰূপে মুকলি কৰে, সেয়ে প্ৰায় এক দশমাংশহে আগবাঢ়ে আৰু ওপৰৰ প্ৰতিটো স্তৰত তলৰটোতকৈ কম শক্তি থাকে।"
+    }
+  },
+  {
+    "id": "biology-159",
+    "q": {
+      "en": "Which biogeochemical cycle in an ecosystem lacks a gaseous phase, so it is recycled only through rock, soil, water and living matter?",
+      "as": "পৰিৱেশ তন্ত্ৰৰ কোনটো জৈৱ-ভূৰাসায়নিক চক্ৰত গেছীয় অৱস্থা নাই, সেয়ে ই কেৱল শিল, মাটি, পানী আৰু জীৱিত পদাৰ্থৰ মাজেৰে পুনঃচক্ৰণ হয়?"
+    },
+    "options": [
+      {
+        "en": "The nitrogen cycle",
+        "as": "নাইট্ৰ'জেনৰ চক্ৰ"
+      },
+      {
+        "en": "The carbon cycle",
+        "as": "কাৰ্বনৰ চক্ৰ"
+      },
+      {
+        "en": "The phosphorus cycle",
+        "as": "ফছফৰাছৰ চক্ৰ"
+      },
+      {
+        "en": "The water cycle",
+        "as": "জল চক্ৰ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Phosphorus is released by the weathering of rock and returns to the soil through decay. It has no atmospheric reservoir, unlike carbon and nitrogen.",
+      "as": "ফছফৰাছ শিল ক্ষয় হৈ মুকলি হয় আৰু ক্ষয়ৰ জৰিয়তে মাটিলৈ ঘূৰি যায়। কাৰ্বন আৰু নাইট্ৰ'জেনৰ দৰে ইয়াৰ বায়ুমণ্ডলীয় ভাণ্ডাৰ নাই।"
+    }
+  },
+  {
+    "id": "biology-160",
+    "q": {
+      "en": "In biotechnology, the tool that cuts a nucleic acid at a specific palindromic sequence is",
+      "as": "জৈৱপ্ৰযুক্তিত নিৰ্দিষ্ট পেলিণ্ড্ৰ'মিক অনুক্ৰমত নিউক্লিক এছিড কাটিবলৈ ব্যৱহৃত সঁজুলিটো —"
+    },
+    "options": [
+      {
+        "en": "a DNA helicase",
+        "as": "এটা ডি এন এ হেলিকেজ"
+      },
+      {
+        "en": "a DNA ligase",
+        "as": "এটা ডি এন এ লাইগেজ"
+      },
+      {
+        "en": "a reverse transcriptase",
+        "as": "এটা ৰিভাৰ্ছ ট্ৰান্সক্ৰিপ্টেজ"
+      },
+      {
+        "en": "a restriction endonuclease",
+        "as": "এটা নিয়ন্ত্ৰণ অন্তঃনিউক্লিয়েজ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A restriction endonuclease recognises its target sequence and cuts both strands, leaving sticky ends that can be joined to another fragment.",
+      "as": "নিয়ন্ত্ৰণ অন্তঃনিউক্লিয়েজে নিজৰ লক্ষ্য অনুক্ৰম চিনি দুয়োটা শৃংখলা কাটে আৰু আঠাৱতী মূৰ এৰি দিয়ে, যি আন খণ্ডৰ লগত জোৰা লগাব পাৰি।"
+    }
+  },
+  {
+    "id": "biology-161",
+    "q": {
+      "en": "Polymerase chain reaction is a core biotechnology technique. In one cycle the temperature is raised to about ninety-four degrees Celsius in order to",
+      "as": "পলিমাৰেজ শৃংখল প্ৰতিক্ৰিয়া জৈৱপ্ৰযুক্তিৰ মূল কৌশল। এটা চক্ৰত উষ্ণতা প্ৰায় চৌৰানব্বৈ ডিগ্ৰী চেলছিয়াছলৈ তোলা হয় কাৰণ —"
+    },
+    "options": [
+      {
+        "en": "separate the two strands of the template",
+        "as": "আৰ্হিৰ দুয়োটা শৃংখলা এৰাই দিবলৈ"
+      },
+      {
+        "en": "let the primers bind to the template",
+        "as": "প্ৰাইমাৰক আৰ্হিত বান্ধিবলৈ"
+      },
+      {
+        "en": "let the polymerase copy the template",
+        "as": "পলিমাৰেজক আৰ্হিৰ প্ৰতিলিপি কৰিবলৈ"
+      },
+      {
+        "en": "destroy the newly made product",
+        "as": "নতুনকৈ গঢ়া উৎপাদন নষ্ট কৰিবলৈ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Heat breaks the hydrogen bonds holding the two strands together, which is the denaturation step. Primer binding follows at a lower temperature.",
+      "as": "তাপে দুয়োটা শৃংখলাক ধৰি ৰখা হাইড্ৰ'জেন বন্ধন ভাঙে, সেয়াই বিকৃতি স্তৰ। ইয়াৰ পিছত কম উষ্ণতাত প্ৰাইমাৰ বান্ধে।"
+    }
+  },
+  {
+    "id": "biology-162",
+    "q": {
+      "en": "The fermenting starter culture that turns milk into curd converts lactose into",
+      "as": "গাখীৰৰ পৰা দৈ বনোৱা গঁজনি আৰম্ভ কৰা সংস্কাৰে লেক্ট'জক ৰূপান্তৰ কৰে —"
+    },
+    "options": [
+      {
+        "en": "ethyl alcohol",
+        "as": "ইথাইল এলকহললৈ"
+      },
+      {
+        "en": "lactic acid",
+        "as": "লেক্টিক অছিডলৈ"
+      },
+      {
+        "en": "acetic acid",
+        "as": "এচিটিক অছিডলৈ"
+      },
+      {
+        "en": "citric acid",
+        "as": "ছিট্ৰিক অছিডলৈ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Lactic acid curdles the milk proteins and drops the pH, which both thickens the milk and stops spoilage organisms from growing.",
+      "as": "লেক্টিক অছিডে গাখীৰৰ প্ৰ'টিন জমাই দিয়ে আৰু pH কমায়, যিয়ে গাখীৰ ঘন কৰাৰ লগতে পচনকাৰী জীৱৰ বৃদ্ধি ৰোধ কৰে।"
+    }
+  },
+  {
+    "id": "biology-163",
+    "q": {
+      "en": "A vascular bundle of a dicot stem that carries cambium between xylem and phloem is described as conjoint, collateral and",
+      "as": "দ্বিবীজপত্ৰী কাণ্ডৰ জাইলেম আৰু ফ্ল'য়েমৰ মাজত কেম্বিয়াম থকা ভাস্কুলাৰ বাণ্ডলক যুক্ত, পাৰ্শ্বৱৰ্তী আৰু কি বুলি কোৱা হয়?"
+    },
+    "options": [
+      {
+        "en": "radial",
+        "as": "অৰীয়"
+      },
+      {
+        "en": "closed",
+        "as": "বন্ধ"
+      },
+      {
+        "en": "open",
+        "as": "মুকলিত"
+      },
+      {
+        "en": "concentric",
+        "as": "কেন্দ্ৰী"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Cambium between the two tissues lets the bundle add secondary xylem and phloem, so it is open. A monocot bundle without cambium is closed.",
+      "as": "দুয়োটা কলাৰ মাজত কেম্বিয়াম থকাৰ বাবে বাণ্ডলে গৌণ জাইলেম আৰু ফ্ল'য়েম যোগ কৰিব পাৰে, সেয়ে ই মুকলি। কেম্বিয়াম নথকা একবীজপত্ৰী বাণ্ডল বন্ধ।"
+    }
+  },
+  {
+    "id": "biology-164",
+    "q": {
+      "en": "According to the pressure-flow hypothesis, phloem sap moves",
+      "as": "চাপ-প্ৰবাহ অনুমানেয়ে মতে ফ্ল'য়েমৰ ৰস গতি কৰে —"
+    },
+    "options": [
+      {
+        "en": "only through the apoplast of the leaf",
+        "as": "কেৱল পাতৰ এপ'প্লাষ্টৰ মাজেৰে"
+      },
+      {
+        "en": "from a sink to a source, against the pressure",
+        "as": "চাপৰ বিৰুদ্ধে গন্তব্যস্থানৰ পৰা উৎসলৈ"
+      },
+      {
+        "en": "upward from root to leaf inside xylem",
+        "as": "জাইলেমৰ ভিতৰেৰে শিপাৰ পৰা পাতলৈ ওপৰমুখে"
+      },
+      {
+        "en": "from a source where sugar is loaded to a sink where it is unloaded",
+        "as": "চেনি ভৰোৱা উৎসৰ পৰা চেনি খালী কৰা গন্তব্যস্থানলৈ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Sugar loaded at the source draws water in by osmosis. The resulting pressure pushes sap towards the sink, where sugar is removed and the pressure falls.",
+      "as": "উৎসত ভৰোৱা চেনিয়ে অভিস্ৰৱণেৰে পানী টানি আনে। সৃষ্টি হোৱা চাপে ৰসক গন্তব্যস্থানলৈ ঠেলে, য'ত চেনি আঁতৰাই দিয়া হয় আৰু চাপ কমে।"
+    }
+  },
+  {
+    "id": "biology-165",
+    "q": {
+      "en": "During secondary growth of a dicot stem, the secondary xylem and secondary phloem are produced by the",
+      "as": "দ্বিবীজপত্ৰী কাণ্ডৰ গৌণ বৃদ্ধিত গৌণ জাইলেম আৰু গৌণ ফ্ল'য়েম উৎপন্ন কৰে —"
+    },
+    "options": [
+      {
+        "en": "vascular cambium",
+        "as": "ভাস্কুলাৰ কেম্বিয়ামে"
+      },
+      {
+        "en": "cork cambium",
+        "as": "কৰ্ক কেম্বিয়ামে"
+      },
+      {
+        "en": "apical meristem",
+        "as": "শীৰ্ষস্থ মেৰিষ্টেমে"
+      },
+      {
+        "en": "pericycle",
+        "as": "পেৰিচাইকেলে"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The vascular cambium cuts off xylem towards the inside and phloem towards the outside. The cork cambium makes periderm, not conducting tissue.",
+      "as": "ভাস্কুলাৰ কেম্বিয়ামে ভিতৰলৈ জাইলেম আৰু বাহিৰলৈ ফ্ল'য়েম কাটি দিয়ে। কৰ্ক কেম্বিয়ামে পেৰিডাৰ্ম গঢ়ে, পৰিবহন কলা নহয়।"
+    }
+  },
+  {
+    "id": "biology-166",
+    "q": {
+      "en": "In which group of animals is the notochord confined to the tail of the larva and lost in the adult?",
+      "as": "কোনটো প্ৰাণী গোটত ন'টকৰ্ড লাৰ্ভাৰ নেজতে সীমাবদ্ধ আৰু প্ৰাপ্তবয়স্ক অৱস্থাত হেৰাই যায়?"
+    },
+    "options": [
+      {
+        "en": "Cephalochordata",
+        "as": "চেফেল'কৰ্ডেটা"
+      },
+      {
+        "en": "Urochordata",
+        "as": "ইউৰ'কৰ্ডেটা"
+      },
+      {
+        "en": "Vertebrata",
+        "as": "ভাৰ্টিব্ৰেটা"
+      },
+      {
+        "en": "Hemichordata",
+        "as": "হেমিকৰ্ডেটা"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The sea squirt, a urochordate, has a free-swimming tadpole larva whose notochord lies in the tail. It is resorbed when the adult settles.",
+      "as": "চী-স্কুৱাৰ্ট, এটা ইউৰ'কৰ্ডেট,ৰ সাঁতোৰা লাৰ্ভাৰ নেজত ন'টকৰ্ড থাকে। প্ৰাপ্তবয়স্কই ঠাইত বহি ল'লে ই শোষিত হয়।"
+    }
+  },
+  {
+    "id": "biology-167",
+    "q": {
+      "en": "Tube feet worked by the water vascular system are the characteristic locomotory structures of which animal phylum?",
+      "as": "জল-ভাস্কুলাৰ তন্ত্ৰই চলোৱা নলী-ভৰি কোনটো প্ৰাণী পৰ্বৰ বৈশিষ্ট্যপূৰ্ণ চলন গঠন?"
+    },
+    "options": [
+      {
+        "en": "Annelida",
+        "as": "এনিলিডা"
+      },
+      {
+        "en": "Mollusca",
+        "as": "মলাস্কা"
+      },
+      {
+        "en": "Echinodermata",
+        "as": "ইকাইন'ডাৰ্মাটা"
+      },
+      {
+        "en": "Arthropoda",
+        "as": "আৰ্থ্ৰ'প'ডা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Starfish and other echinoderms move on hundreds of tube feet kept turgid by water. Molluscs use a muscular foot, annelids use setae, arthropods use jointed legs.",
+      "as": "তাৰামাছ আৰু অন্য ইকাইন'ডাৰ্মে পানীৰে টান কৰি ৰখা শতাধিক নলী-ভৰিৰে চলে। মলাস্কে পেশীবহুল ভৰি, এনিলিডে ছিটা, আৰ্থ্ৰ'প'ডে সন্ধিযুক্ত ভৰি ব্যৱহাৰ কৰে।"
+    }
+  },
+  {
+    "id": "biology-168",
+    "q": {
+      "en": "The double-helical model of the hereditary molecule was described in 1953 by",
+      "as": "বংশগতিৰ অণুৰ দ্বি-হেলিক্স আৰ্হি ১৯৫৩ চনত বৰ্ণনা কৰিছিল —"
+    },
+    "options": [
+      {
+        "en": "Koch and Pasteur",
+        "as": "কক আৰু পাষ্টাৰে"
+      },
+      {
+        "en": "Mendel and Morgan",
+        "as": "মেণ্ডেল আৰু মৰ্গানে"
+      },
+      {
+        "en": "Avery and Griffith",
+        "as": "এভাৰী আৰু গ্ৰিফিথে"
+      },
+      {
+        "en": "Watson and Crick",
+        "as": "ৱাটছন আৰু ক্ৰিকে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Watson and Crick built the model on the X-ray diffraction pictures taken by Rosalind Franklin and Maurice Wilkins.",
+      "as": "ৱাটছনে আৰু ক্ৰিকে ৰ'জালিণ্ড ফ্ৰেংকলিন আৰু ম'ৰিছ ৱিলকিনছে তোলা এক্স-ৰে বিচ্ছুৰণ ছবিৰ ওপৰত ভিত্তি কৰি আৰ্হিটো গঢ়িছিল।"
+    }
+  },
+  {
+    "id": "biology-169",
+    "q": {
+      "en": "A freshwater protist pushes out temporary projections of its body substance to creep forward and engulf food. These projections are",
+      "as": "মিঠা পানীৰ এটা প্ৰ'টিষ্টে লাহে লাহে আগবাঢ়ি আহাৰ গ্ৰহণ কৰিবলৈ শৰীৰৰ পদাৰ্থৰ অস্থায়ী অংশ ওলিয়াই দিয়ে। সেই অংশবোৰ —"
+    },
+    "options": [
+      {
+        "en": "pseudopodia",
+        "as": "ছিউড'প'ডিয়া"
+      },
+      {
+        "en": "cilia",
+        "as": "ছিলিয়া"
+      },
+      {
+        "en": "flagella",
+        "as": "ফ্লেজেলা"
+      },
+      {
+        "en": "parapodia",
+        "as": "পেৰাপ'ডিয়া"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Pseudopodia form and withdraw as the cytoplasm streams forward. Cilia and flagella are fixed hair-like organelles, and parapodia occur in polychaete worms.",
+      "as": "চাইট'প্লাজম আগবাঢ়ি যোৱাৰ লগে লগে ছিউড'প'ডিয়া গঢ় লয় আৰু মিলি যায়। ছিলিয়া আৰু ফ্লেজেলা স্থিৰ চুলিৰ দৰে অংগাণু, আৰু পেৰাপ'ডিয়া প'লিকীট কৃমিত থাকে।"
+    }
+  },
+  {
+    "id": "biology-170",
+    "q": {
+      "en": "An orchid growing on the branch of a tree gains support and water from the air while the tree is unaffected. This relationship is",
+      "as": "গছৰ ডালত গজা অৰ্কিডে ধৰণ আৰু বায়ুৰ পৰা পানী পায়, কিন্তু গছটোৰ একো ক্ষতি নহয়। এই সম্পৰ্ক —"
+    },
+    "options": [
+      {
+        "en": "mutualism",
+        "as": "পৰস্পৰবাদ"
+      },
+      {
+        "en": "commensalism",
+        "as": "সহভোজীতা"
+      },
+      {
+        "en": "parasitism",
+        "as": "পৰজীৱীতা"
+      },
+      {
+        "en": "amensalism",
+        "as": "প্ৰতিহিংসাবাদ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "One partner gains and the other is neither helped nor harmed, which is commensalism. Mutualism would require both to gain.",
+      "as": "এটা অংশীয়ে লাভ পায় আনটোৰ লাভো নহয় ক্ষতিও নহয়, সেয়াই সহভোজীতা। পৰস্পৰবাদত দুয়োটাই লাভ পোৱা লাগে।"
+    }
   }
 ]

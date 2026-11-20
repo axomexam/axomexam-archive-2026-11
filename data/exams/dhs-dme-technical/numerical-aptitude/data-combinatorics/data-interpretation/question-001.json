@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-055",
+    "q": {
+      "en": "A company's sales rose from ₹40 lakh to ₹50 lakh. The percentage increase is",
+      "as": "এটা কোম্পানীৰ বিক্ৰী ৪০ লাখ টকাৰপৰা ৫০ লাখ টকালৈ বাঢ়িল। শতকৰা বৃদ্ধি কিমান"
+    },
+    "options": [
+      {
+        "en": "25%",
+        "as": "২৫%"
+      },
+      {
+        "en": "20%",
+        "as": "২০%"
+      },
+      {
+        "en": "10%",
+        "as": "১০%"
+      },
+      {
+        "en": "30%",
+        "as": "৩০%"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Increase = 10 lakh on a base of 40 lakh, so the percentage is (10/40) × 100 = 25%.",
+      "as": "বৃদ্ধি = ৪০ লাখৰ ভিত্তিত ১০ লাখ, সেয়ে শতকৰা = (১০/৪০) × ১০০ = ২৫%।"
+    }
+  },
+  {
+    "id": "numerical-056",
+    "q": {
+      "en": "In a pie chart of 360°, a sector of 72° represents what fraction of the total?",
+      "as": "৩৬০° ৰ পাই চাৰ্টত ৭২° ৰ এটা খণ্ডই মুঠৰ কিমান ভগ্নাংশ বুজায়"
+    },
+    "options": [
+      {
+        "en": "1/5",
+        "as": "১/৫"
+      },
+      {
+        "en": "1/4",
+        "as": "১/৪"
+      },
+      {
+        "en": "1/6",
+        "as": "১/৬"
+      },
+      {
+        "en": "1/3",
+        "as": "১/৩"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The fraction is 72/360 = 1/5, which is 20% of the whole.",
+      "as": "ভগ্নাংশ = ৭২/৩৬০ = ১/৫, যি গোটেইখিনিৰ ২০%।"
+    }
+  }
+]

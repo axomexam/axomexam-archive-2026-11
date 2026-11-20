@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-031",
+    "q": {
+      "en": "A train 150 m long running at 54 km/h crosses a platform 250 m long in",
+      "as": "১৫০ মিটাৰ দীঘল এখন ৰে'লগাড়ীয়ে ৫৪ কিমি/ঘণ্টা বেগেৰে ২৫০ মিটাৰ দীঘল প্লেটফৰ্ম অতিক্ৰম কৰিবলৈ কিমান সময় ল'ব"
+    },
+    "options": [
+      {
+        "en": "26.67 seconds",
+        "as": "২৬.৬৭ ছেকেণ্ড"
+      },
+      {
+        "en": "24 seconds",
+        "as": "২৪ ছেকেণ্ড"
+      },
+      {
+        "en": "30 seconds",
+        "as": "৩০ ছেকেণ্ড"
+      },
+      {
+        "en": "20 seconds",
+        "as": "২০ ছেকেণ্ড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Speed = 54 × 5/18 = 15 m/s. Total distance = 150 + 250 = 400 m. Time = 400 ÷ 15 = 26.67 seconds.",
+      "as": "বেগ = ৫৪ × ৫/১৮ = ১৫ মি/ছেকেণ্ড। মুঠ দূৰত্ব = ১৫০ + ২৫০ = ৪০০ মি। সময় = ৪০০ ÷ ১৫ = ২৬.৬৭ ছেকেণ্ড।"
+    }
+  },
+  {
+    "id": "numerical-032",
+    "q": {
+      "en": "Two trains of equal length 120 m run in opposite directions at 42 km/h and 30 km/h. They cross each other in",
+      "as": "সমান ১২০ মিটাৰ দীঘল দুখন ৰে'লগাড়ীয়ে বিপৰীত দিশত ৪২ কিমি/ঘণ্টা আৰু ৩০ কিমি/ঘণ্টা বেগেৰে গৈ থাকে। তেওঁলোকে ইটোৱে সিটোক কিমান সময়ত অতিক্ৰম কৰিব"
+    },
+    "options": [
+      {
+        "en": "12 seconds",
+        "as": "১২ ছেকেণ্ড"
+      },
+      {
+        "en": "10 seconds",
+        "as": "১০ ছেকেণ্ড"
+      },
+      {
+        "en": "14 seconds",
+        "as": "১৪ ছেকেণ্ড"
+      },
+      {
+        "en": "16 seconds",
+        "as": "১৬ ছেকেণ্ড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Relative speed = 42 + 30 = 72 km/h = 20 m/s. Total length = 240 m. Time = 240 ÷ 20 = 12 seconds.",
+      "as": "আপেক্ষিক বেগ = ৪২ + ৩০ = ৭২ কিমি/ঘণ্টা = ২০ মি/ছেকেণ্ড। মুঠ দীঘ = ২৪০ মি। সময় = ২৪০ ÷ ২০ = ১২ ছেকেণ্ড।"
+    }
+  }
+]

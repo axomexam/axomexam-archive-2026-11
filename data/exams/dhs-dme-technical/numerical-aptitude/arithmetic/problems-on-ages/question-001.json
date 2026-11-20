@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-035",
+    "q": {
+      "en": "The present age of a father is three times his son's. After 12 years it will be twice. The son's present age is",
+      "as": "পিতৃৰ বৰ্তমান বয়স পুত্ৰৰ তিনিগুণ। ১২ বছৰৰ পিছত দুগুণ হ'ব। পুত্ৰৰ বৰ্তমান বয়স কিমান"
+    },
+    "options": [
+      {
+        "en": "12 years",
+        "as": "১২ বছৰ"
+      },
+      {
+        "en": "10 years",
+        "as": "১০ বছৰ"
+      },
+      {
+        "en": "14 years",
+        "as": "১৪ বছৰ"
+      },
+      {
+        "en": "16 years",
+        "as": "১৬ বছৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Let the son be x and the father 3x. Then 3x + 12 = 2(x + 12), giving x = 12.",
+      "as": "পুত্ৰৰ বয়স x আৰু পিতৃৰ ৩x ধৰক। তেন্তে ৩x + ১২ = ২(x + ১২), সেয়ে x = ১২।"
+    }
+  },
+  {
+    "id": "numerical-036",
+    "q": {
+      "en": "A mother is 24 years older than her daughter. In 4 years she will be three times as old as the daughter. The daughter's present age is",
+      "as": "মাক এগৰাকী জীয়েকতকৈ ২৪ বছৰ ডাঙৰ। ৪ বছৰৰ পিছত তেওঁ জীয়েকৰ তিনিগুণ হ'ব। জীয়েকৰ বৰ্তমান বয়স কিমান"
+    },
+    "options": [
+      {
+        "en": "8 years",
+        "as": "৮ বছৰ"
+      },
+      {
+        "en": "10 years",
+        "as": "১০ বছৰ"
+      },
+      {
+        "en": "12 years",
+        "as": "১২ বছৰ"
+      },
+      {
+        "en": "6 years",
+        "as": "৬ বছৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Let the daughter be x, the mother x + 24. Then x + 24 + 4 = 3(x + 4), so x + 28 = 3x + 12 and x = 8.",
+      "as": "জীয়েকৰ বয়স x, মাকৰ x + ২৪ ধৰক। তেন্তে x + ২৪ + ৪ = ৩(x + ৪), সেয়ে x + ২৮ = ৩x + ১২ আৰু x = ৮।"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-013",
+    "q": {
+      "en": "The average of 11 numbers is 60. If the average of the first six is 58 and of the last six is 63, the sixth number is",
+      "as": "১১ টা সংখ্যাৰ গড় ৬০। প্ৰথম ছয়টাৰ গড় ৫৮ আৰু শেষ ছয়টাৰ গড় ৬৩ হ'লে ষষ্ঠ সংখ্যাটো কিমান"
+    },
+    "options": [
+      {
+        "en": "66",
+        "as": "৬৬"
+      },
+      {
+        "en": "63",
+        "as": "৬৩"
+      },
+      {
+        "en": "60",
+        "as": "৬০"
+      },
+      {
+        "en": "72",
+        "as": "৭২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sum of all 11 = 660. First six plus last six = 348 + 378 = 726, which counts the sixth number twice. So the sixth = 726 - 660 = 66.",
+      "as": "১১ টাৰ মুঠ যোগফল = ৬৬০। প্ৰথম ছয় আৰু শেষ ছয় = ৩৪৮ + ৩৭৮ = ৭২৬, য'ত ষষ্ঠ সংখ্যাটো দুবাৰ গণনা হয়। সেয়ে ষষ্ঠ = ৭২৬ - ৬৬০ = ৬৬।"
+    }
+  },
+  {
+    "id": "numerical-014",
+    "q": {
+      "en": "The average age of a class of 30 students is 15 years. When the teacher joins, the average becomes 16 years. The teacher's age is",
+      "as": "৩০ জন ছাত্ৰৰ শ্ৰেণীৰ গড় বয়স ১৫ বছৰ। শিক্ষক যোগ দিলে গড় ১৬ বছৰ হয়। শিক্ষকৰ বয়স কিমান"
+    },
+    "options": [
+      {
+        "en": "46 years",
+        "as": "৪৬ বছৰ"
+      },
+      {
+        "en": "45 years",
+        "as": "৪৫ বছৰ"
+      },
+      {
+        "en": "31 years",
+        "as": "৩১ বছৰ"
+      },
+      {
+        "en": "48 years",
+        "as": "৪৮ বছৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Total age of students = 30 × 15 = 450. With the teacher, total = 31 × 16 = 496. Teacher's age = 496 - 450 = 46.",
+      "as": "ছাত্ৰৰ মুঠ বয়স = ৩০ × ১৫ = ৪৫০। শিক্ষকসহ মুঠ = ৩১ × ১৬ = ৪৯৬। শিক্ষকৰ বয়স = ৪৯৬ - ৪৫০ = ৪৬।"
+    }
+  }
+]

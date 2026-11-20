@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-053",
+    "q": {
+      "en": "The median of 3, 7, 9, 12, 15 is",
+      "as": "৩, ৭, ৯, ১২, ১৫ ৰ মধ্যমা কিমান"
+    },
+    "options": [
+      {
+        "en": "9",
+        "as": "৯"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "10.5",
+        "as": "১০.৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "There are five values already in order, so the median is the third one, which is 9.",
+      "as": "পাঁচটা মান ইতিমধ্যে ক্ৰমত আছে, সেয়ে মধ্যমা তৃতীয়টো, অৰ্থাৎ ৯।"
+    }
+  },
+  {
+    "id": "numerical-054",
+    "q": {
+      "en": "The mode of the data 2, 3, 3, 4, 5, 3, 6 is",
+      "as": "তথ্য ২, ৩, ৩, ৪, ৫, ৩, ৬ ৰ বহুলক কিমান"
+    },
+    "options": [
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The mode is the most frequent value. The value 3 occurs three times, more than any other, so the mode is 3.",
+      "as": "বহুলক হ'ল আটাইতকৈ বেছি বাৰ ঘটা মান। ৩ তিনিবাৰ আছে, আনটোতকৈ বেছি, সেয়ে বহুলক ৩।"
+    }
+  }
+]

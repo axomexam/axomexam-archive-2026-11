@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-025",
+    "q": {
+      "en": "A can do a work in 12 days and B in 18 days. Working together they finish it in",
+      "as": "A এ এটা কাম ১২ দিনত আৰু B এ ১৮ দিনত কৰিব পাৰে। একেলগে কাম কৰিলে তেওঁলোকে কিমান দিনত শেষ কৰিব"
+    },
+    "options": [
+      {
+        "en": "7.2 days",
+        "as": "৭.২ দিন"
+      },
+      {
+        "en": "6 days",
+        "as": "৬ দিন"
+      },
+      {
+        "en": "8 days",
+        "as": "৮ দিন"
+      },
+      {
+        "en": "7 days",
+        "as": "৭ দিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "One day's work = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time = 36/5 = 7.2 days.",
+      "as": "এদিনৰ কাম = ১/১২ + ১/১৮ = ৩/৩৬ + ২/৩৬ = ৫/৩৬। সময় = ৩৬/৫ = ৭.২ দিন।"
+    }
+  },
+  {
+    "id": "numerical-026",
+    "q": {
+      "en": "A is twice as efficient as B and together they finish a work in 8 days. A alone would take",
+      "as": "A ৰ কাৰ্যক্ষমতা B ৰ দুগুণ আৰু একেলগে তেওঁলোকে ৮ দিনত কামটো শেষ কৰে। A অকলে কিমান দিন ল'ব"
+    },
+    "options": [
+      {
+        "en": "12 days",
+        "as": "১২ দিন"
+      },
+      {
+        "en": "16 days",
+        "as": "১৬ দিন"
+      },
+      {
+        "en": "24 days",
+        "as": "২৪ দিন"
+      },
+      {
+        "en": "10 days",
+        "as": "১০ দিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Let B do 1 unit a day, then A does 2. Together 3 units a day finish the work in 8 days, so the work is 24 units. A alone takes 24 ÷ 2 = 12 days.",
+      "as": "B এ দিনে ১ একক কৰে ধৰক, তেন্তে A এ ২ একক। একেলগে দিনে ৩ একক, ৮ দিনত কাম শেষ, সেয়ে কাম = ২৪ একক। A অকলে ২৪ ÷ ২ = ১২ দিন।"
+    }
+  }
+]

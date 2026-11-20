@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-007",
+    "q": {
+      "en": "The HCF of two numbers is 12 and their LCM is 336. If one number is 48, the other is",
+      "as": "দুটা সংখ্যাৰ গ.সা.গু. ১২ আৰু ল.সা.গু. ৩৩৬। এটা সংখ্যা ৪৮ হ'লে আনটো কিমান"
+    },
+    "options": [
+      {
+        "en": "72",
+        "as": "৭২"
+      },
+      {
+        "en": "84",
+        "as": "৮৪"
+      },
+      {
+        "en": "96",
+        "as": "৯৬"
+      },
+      {
+        "en": "108",
+        "as": "১০৮"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "For two numbers, HCF × LCM = product of the numbers. So the other number is (12 × 336) ÷ 48 = 4032 ÷ 48 = 84.",
+      "as": "দুটা সংখ্যাৰ ক্ষেত্ৰত গ.সা.গু. × ল.সা.গু. = সংখ্যা দুটাৰ গুণফল। সেয়ে আনটো সংখ্যা = (১২ × ৩৩৬) ÷ ৪৮ = ৪০৩২ ÷ ৪৮ = ৮৪।"
+    }
+  },
+  {
+    "id": "numerical-008",
+    "q": {
+      "en": "The least number which when divided by 12, 15 and 18 leaves a remainder of 5 in each case is",
+      "as": "১২, ১৫ আৰু ১৮ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ভাগশেষ ৫ ৰখা আটাইতকৈ সৰু সংখ্যাটো কি"
+    },
+    "options": [
+      {
+        "en": "185",
+        "as": "১৮৫"
+      },
+      {
+        "en": "175",
+        "as": "১৭৫"
+      },
+      {
+        "en": "365",
+        "as": "৩৬৫"
+      },
+      {
+        "en": "545",
+        "as": "৫৪৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "LCM of 12, 15, 18 is 180. The required number is 180 + 5 = 185.",
+      "as": "১২, ১৫, ১৮ ৰ ল.সা.গু. ১৮০। প্ৰয়োজনীয় সংখ্যা ১৮০ + ৫ = ১৮৫।"
+    }
+  }
+]

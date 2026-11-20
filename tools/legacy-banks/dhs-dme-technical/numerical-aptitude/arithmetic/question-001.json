@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "numerical-001",
+    "q": {
+      "en": "The least number that must be added to 2497 to make it divisible by 5, 6 and 4 is",
+      "as": "২৪৯৭ ৰ লগত যোগ কৰিবলগীয়া আটাইতকৈ সৰু সংখ্যাটো কিমান হ'লে সংখ্যাটো ৫, ৬ আৰু ৪ ৰে বিভাজ্য হ'ব"
+    },
+    "options": [
+      {
+        "en": "43",
+        "as": "৪৩"
+      },
+      {
+        "en": "23",
+        "as": "২৩"
+      },
+      {
+        "en": "47",
+        "as": "৪৭"
+      },
+      {
+        "en": "53",
+        "as": "৫৩"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "LCM of 5, 6 and 4 is 60. Dividing 2497 by 60 leaves remainder 37, so the next multiple is 2497 + (60 - 37) = 2520, which needs 23 added.",
+      "as": "৫, ৬ আৰু ৪ ৰ ল.সা.গু. ৬০। ২৪৯৭ ক ৬০ ৰে ভাগ কৰিলে ভাগশেষ ৩৭ থাকে, সেয়ে পৰৱৰ্তী গুণিতক ২৪৯৭ + (৬০ - ৩৭) = ২৫২০, অৰ্থাৎ ২৩ যোগ কৰিব লাগে।"
+    }
+  },
+  {
+    "id": "numerical-002",
+    "q": {
+      "en": "The largest three-digit number that leaves a remainder of 4 when divided by 9 is",
+      "as": "৯ ৰে ভাগ কৰিলে ভাগশেষ ৪ ৰখা আটাইতকৈ ডাঙৰ তিনি অংকৰ সংখ্যাটো কি"
+    },
+    "options": [
+      {
+        "en": "994",
+        "as": "৯৯৪"
+      },
+      {
+        "en": "998",
+        "as": "৯৯৮"
+      },
+      {
+        "en": "985",
+        "as": "৯৮৫"
+      },
+      {
+        "en": "976",
+        "as": "৯৭৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "999 divided by 9 leaves 0, so 999 - 9 + 4 = 994. Check: 994 = 9 × 110 + 4.",
+      "as": "৯৯৯ ক ৯ ৰে ভাগ কৰিলে ভাগশেষ ০, সেয়ে ৯৯৯ - ৯ + ৪ = ৯৯৪। পৰীক্ষা: ৯৯৪ = ৯ × ১১০ + ৪।"
+    }
+  },
+  {
+    "id": "numerical-003",
+    "q": {
+      "en": "The value of 12 ÷ 3 × 2 + 8 - 4 × 3 is",
+      "as": "১২ ÷ ৩ × ২ + ৮ - ৪ × ৩ ৰ মান কিমান"
+    },
+    "options": [
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "20",
+        "as": "২০"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Division and multiplication run left to right: 12 ÷ 3 = 4, 4 × 2 = 8. Then 4 × 3 = 12. So 8 + 8 - 12 = 4.",
+      "as": "ভাগ আৰু পূৰণ বাওঁফালৰপৰা সোঁফাললৈ: ১২ ÷ ৩ = ৪, ৪ × ২ = ৮। তাৰ পিছত ৪ × ৩ = ১২। সেয়ে ৮ + ৮ - ১২ = ৪।"
+    }
+  },
+  {
+    "id": "numerical-004",
+    "q": {
+      "en": "Simplify: 5 + 3 × (8 - 6) ÷ 2 - 1",
+      "as": "সৰল কৰক: ৫ + ৩ × (৮ - ৬) ÷ ২ - ১"
+    },
+    "options": [
+      {
+        "en": "7",
+        "as": "৭"
+      },
+      {
+        "en": "9",
+        "as": "৯"
+      },
+      {
+        "en": "11",
+        "as": "১১"
+      },
+      {
+        "en": "13",
+        "as": "১৩"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Bracket first: 8 - 6 = 2. Then 3 × 2 ÷ 2 = 3. So 5 + 3 - 1 = 7.",
+      "as": "প্ৰথমে বন্ধনী: ৮ - ৬ = ২। তাৰ পিছত ৩ × ২ ÷ ২ = ৩। সেয়ে ৫ + ৩ - ১ = ৭।"
+    }
+  },
+  {
+    "id": "numerical-005",
+    "q": {
+      "en": "The value of 0.6 × 0.6 + 0.4 × 0.4 - 2 × 0.6 × 0.4 is",
+      "as": "০.৬ × ০.৬ + ০.৪ × ০.৪ - ২ × ০.৬ × ০.৪ ৰ মান কিমান"
+    },
+    "options": [
+      {
+        "en": "0.04",
+        "as": "০.০৪"
+      },
+      {
+        "en": "0.4",
+        "as": "০.৪"
+      },
+      {
+        "en": "0.16",
+        "as": "০.১৬"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The expression is a² + b² - 2ab = (a - b)² with a = 0.6 and b = 0.4. So (0.6 - 0.4)² = 0.2² = 0.04.",
+      "as": "ৰাশিটো a² + b² - 2ab = (a - b)², য'ত a = ০.৬ আৰু b = ০.৪। সেয়ে (০.৬ - ০.৪)² = ০.২² = ০.০৪।"
+    }
+  },
+  {
+    "id": "numerical-006",
+    "q": {
+      "en": "Which fraction is the largest: 3/5, 5/8, 7/12, 9/16?",
+      "as": "কোনটো ভগ্নাংশ আটাইতকৈ ডাঙৰ: ৩/৫, ৫/৮, ৭/১২, ৯/১৬?"
+    },
+    "options": [
+      {
+        "en": "3/5",
+        "as": "৩/৫"
+      },
+      {
+        "en": "5/8",
+        "as": "৫/৮"
+      },
+      {
+        "en": "7/12",
+        "as": "৭/১২"
+      },
+      {
+        "en": "9/16",
+        "as": "৯/১৬"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Convert to decimals: 0.600, 0.625, 0.583, 0.5625. The largest is 5/8 = 0.625.",
+      "as": "দশমিকলৈ ৰূপান্তৰ কৰক: ০.৬০০, ০.৬২৫, ০.৫৮৩, ০.৫৬২৫। আটাইতকৈ ডাঙৰ ৫/৮ = ০.৬২৫।"
+    }
+  },
+  {
+    "id": "numerical-007",
+    "q": {
+      "en": "The HCF of two numbers is 12 and their LCM is 336. If one number is 48, the other is",
+      "as": "দুটা সংখ্যাৰ গ.সা.গু. ১২ আৰু ল.সা.গু. ৩৩৬। এটা সংখ্যা ৪৮ হ'লে আনটো কিমান"
+    },
+    "options": [
+      {
+        "en": "72",
+        "as": "৭২"
+      },
+      {
+        "en": "84",
+        "as": "৮৪"
+      },
+      {
+        "en": "96",
+        "as": "৯৬"
+      },
+      {
+        "en": "108",
+        "as": "১০৮"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "For two numbers, HCF × LCM = product of the numbers. So the other number is (12 × 336) ÷ 48 = 4032 ÷ 48 = 84.",
+      "as": "দুটা সংখ্যাৰ ক্ষেত্ৰত গ.সা.গু. × ল.সা.গু. = সংখ্যা দুটাৰ গুণফল। সেয়ে আনটো সংখ্যা = (১২ × ৩৩৬) ÷ ৪৮ = ৪০৩২ ÷ ৪৮ = ৮৪।"
+    }
+  },
+  {
+    "id": "numerical-008",
+    "q": {
+      "en": "The least number which when divided by 12, 15 and 18 leaves a remainder of 5 in each case is",
+      "as": "১২, ১৫ আৰু ১৮ ৰে ভাগ কৰিলে প্ৰতিটো ক্ষেত্ৰতে ভাগশেষ ৫ ৰখা আটাইতকৈ সৰু সংখ্যাটো কি"
+    },
+    "options": [
+      {
+        "en": "185",
+        "as": "১৮৫"
+      },
+      {
+        "en": "175",
+        "as": "১৭৫"
+      },
+      {
+        "en": "365",
+        "as": "৩৬৫"
+      },
+      {
+        "en": "545",
+        "as": "৫৪৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "LCM of 12, 15, 18 is 180. The required number is 180 + 5 = 185.",
+      "as": "১২, ১৫, ১৮ ৰ ল.সা.গু. ১৮০। প্ৰয়োজনীয় সংখ্যা ১৮০ + ৫ = ১৮৫।"
+    }
+  },
+  {
+    "id": "numerical-009",
+    "q": {
+      "en": "A number is increased by 20% and then decreased by 20%. The net change is",
+      "as": "এটা সংখ্যা ২০% বঢ়াই তাৰ পিছত ২০% কমোৱা হ'ল। মুঠ পৰিৱৰ্তন কিমান"
+    },
+    "options": [
+      {
+        "en": "No change",
+        "as": "কোনো পৰিৱৰ্তন নাই"
+      },
+      {
+        "en": "4% decrease",
+        "as": "৪% হ্ৰাস"
+      },
+      {
+        "en": "4% increase",
+        "as": "৪% বৃদ্ধি"
+      },
+      {
+        "en": "2% decrease",
+        "as": "২% হ্ৰাস"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Take 100. A 20% rise gives 120; a 20% fall on 120 gives 120 × 0.8 = 96. The net change is a 4% decrease.",
+      "as": "১০০ ধৰক। ২০% বৃদ্ধিত ১২০ হয়; ১২০ ৰ ওপৰত ২০% হ্ৰাসত ১২০ × ০.৮ = ৯৬। মুঠ পৰিৱৰ্তন ৪% হ্ৰাস।"
+    }
+  },
+  {
+    "id": "numerical-010",
+    "q": {
+      "en": "In an examination 35% failed in Mathematics and 25% failed in English, while 10% failed in both. The percentage that passed in both subjects is",
+      "as": "এটা পৰীক্ষাত ৩৫% গণিতত অনুত্তীৰ্ণ আৰু ২৫% ইংৰাজীত অনুত্তীৰ্ণ, আৰু ১০% দুয়োটাতে অনুত্তীৰ্ণ। দুয়ো বিষয়তে উত্তীৰ্ণৰ শতকৰা হাৰ কিমান"
+    },
+    "options": [
+      {
+        "en": "40%",
+        "as": "৪০%"
+      },
+      {
+        "en": "50%",
+        "as": "৫০%"
+      },
+      {
+        "en": "60%",
+        "as": "৬০%"
+      },
+      {
+        "en": "70%",
+        "as": "৭০%"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Failed in at least one subject = 35 + 25 - 10 = 50%. So those who passed in both = 100 - 50 = 50%.",
+      "as": "অন্তত এটা বিষয়ত অনুত্তীৰ্ণ = ৩৫ + ২৫ - ১০ = ৫০%। সেয়ে দুয়ো বিষয়তে উত্তীৰ্ণ = ১০০ - ৫০ = ৫০%।"
+    }
+  },
+  {
+    "id": "numerical-011",
+    "q": {
+      "en": "If a : b = 3 : 4 and b : c = 8 : 9, then a : c is",
+      "as": "যদি a : b = ৩ : ৪ আৰু b : c = ৮ : ৯, তেন্তে a : c কিমান"
+    },
+    "options": [
+      {
+        "en": "2 : 3",
+        "as": "২ : ৩"
+      },
+      {
+        "en": "3 : 4",
+        "as": "৩ : ৪"
+      },
+      {
+        "en": "8 : 9",
+        "as": "৮ : ৯"
+      },
+      {
+        "en": "1 : 2",
+        "as": "১ : ২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Make b common. a : b = 6 : 8 and b : c = 8 : 9, so a : b : c = 6 : 8 : 9 and a : c = 6 : 9 = 2 : 3.",
+      "as": "b ৰ মান একে কৰক। a : b = ৬ : ৮ আৰু b : c = ৮ : ৯, সেয়ে a : b : c = ৬ : ৮ : ৯ আৰু a : c = ৬ : ৯ = ২ : ৩।"
+    }
+  },
+  {
+    "id": "numerical-012",
+    "q": {
+      "en": "₹4,200 is divided among A, B and C in the ratio 3 : 4 : 7. The share of C exceeds that of A by",
+      "as": "৪,২০০ টকা A, B আৰু C ৰ মাজত ৩ : ৪ : ৭ অনুপাতত ভগোৱা হ'ল। C ৰ অংশই A ৰ অংশতকৈ কিমান বেছি"
+    },
+    "options": [
+      {
+        "en": "₹840",
+        "as": "৮৪০ টকা"
+      },
+      {
+        "en": "₹1,200",
+        "as": "১,২০০ টকা"
+      },
+      {
+        "en": "₹1,260",
+        "as": "১,২৬০ টকা"
+      },
+      {
+        "en": "₹1,400",
+        "as": "১,৪০০ টকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Total parts = 3 + 4 + 7 = 14, so one part = 4200 ÷ 14 = ₹300. C - A = 7 - 3 = 4 parts = 4 × 300 = ₹1,200.",
+      "as": "মুঠ অংশ = ৩ + ৪ + ৭ = ১৪, সেয়ে এভাগ = ৪২০০ ÷ ১৪ = ৩০০ টকা। C - A = ৭ - ৩ = ৪ ভাগ = ৪ × ৩০০ = ১,২০০ টকা।"
+    }
+  },
+  {
+    "id": "numerical-013",
+    "q": {
+      "en": "The average of 11 numbers is 60. If the average of the first six is 58 and of the last six is 63, the sixth number is",
+      "as": "১১ টা সংখ্যাৰ গড় ৬০। প্ৰথম ছয়টাৰ গড় ৫৮ আৰু শেষ ছয়টাৰ গড় ৬৩ হ'লে ষষ্ঠ সংখ্যাটো কিমান"
+    },
+    "options": [
+      {
+        "en": "66",
+        "as": "৬৬"
+      },
+      {
+        "en": "63",
+        "as": "৬৩"
+      },
+      {
+        "en": "60",
+        "as": "৬০"
+      },
+      {
+        "en": "72",
+        "as": "৭২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Sum of all 11 = 660. First six plus last six = 348 + 378 = 726, which counts the sixth number twice. So the sixth = 726 - 660 = 66.",
+      "as": "১১ টাৰ মুঠ যোগফল = ৬৬০। প্ৰথম ছয় আৰু শেষ ছয় = ৩৪৮ + ৩৭৮ = ৭২৬, য'ত ষষ্ঠ সংখ্যাটো দুবাৰ গণনা হয়। সেয়ে ষষ্ঠ = ৭২৬ - ৬৬০ = ৬৬।"
+    }
+  },
+  {
+    "id": "numerical-014",
+    "q": {
+      "en": "The average age of a class of 30 students is 15 years. When the teacher joins, the average becomes 16 years. The teacher's age is",
+      "as": "৩০ জন ছাত্ৰৰ শ্ৰেণীৰ গড় বয়স ১৫ বছৰ। শিক্ষক যোগ দিলে গড় ১৬ বছৰ হয়। শিক্ষকৰ বয়স কিমান"
+    },
+    "options": [
+      {
+        "en": "46 years",
+        "as": "৪৬ বছৰ"
+      },
+      {
+        "en": "45 years",
+        "as": "৪৫ বছৰ"
+      },
+      {
+        "en": "31 years",
+        "as": "৩১ বছৰ"
+      },
+      {
+        "en": "48 years",
+        "as": "৪৮ বছৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Total age of students = 30 × 15 = 450. With the teacher, total = 31 × 16 = 496. Teacher's age = 496 - 450 = 46.",
+      "as": "ছাত্ৰৰ মুঠ বয়স = ৩০ × ১৫ = ৪৫০। শিক্ষকসহ মুঠ = ৩১ × ১৬ = ৪৯৬। শিক্ষকৰ বয়স = ৪৯৬ - ৪৫০ = ৪৬।"
+    }
+  },
+  {
+    "id": "numerical-015",
+    "q": {
+      "en": "A shopkeeper marks an article 40% above cost and allows a discount of 25%. His profit percentage is",
+      "as": "এজন দোকানীয়ে এটা সামগ্ৰীৰ মূল্য ক্ৰয়মূল্যতকৈ ৪০% বেছি লিখি ২৫% ৰেহাই দিয়ে। তেওঁৰ লাভৰ শতকৰা হাৰ কিমান"
+    },
+    "options": [
+      {
+        "en": "5%",
+        "as": "৫%"
+      },
+      {
+        "en": "10%",
+        "as": "১০%"
+      },
+      {
+        "en": "15%",
+        "as": "১৫%"
+      },
+      {
+        "en": "20%",
+        "as": "২০%"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Take cost ₹100. Marked price = ₹140. After a 25% discount the selling price is 140 × 0.75 = ₹105, so profit = 5%.",
+      "as": "ক্ৰয়মূল্য ১০০ টকা ধৰক। লিখিত মূল্য = ১৪০ টকা। ২৫% ৰেহাইৰ পিছত বিক্ৰয়মূল্য = ১৪০ × ০.৭৫ = ১০৫ টকা, সেয়ে লাভ ৫%।"
+    }
+  },
+  {
+    "id": "numerical-016",
+    "q": {
+      "en": "By selling an article for ₹720 a man loses 10%. To gain 15% he must sell it for",
+      "as": "এটা সামগ্ৰী ৭২০ টকাত বিক্ৰী কৰি এজন লোকে ১০% লোকচান হয়। ১৫% লাভ কৰিবলৈ তেওঁ কিমানত বিক্ৰী কৰিব লাগিব"
+    },
+    "options": [
+      {
+        "en": "₹920",
+        "as": "৯২০ টকা"
+      },
+      {
+        "en": "₹900",
+        "as": "৯০০ টকা"
+      },
+      {
+        "en": "₹880",
+        "as": "৮৮০ টকা"
+      },
+      {
+        "en": "₹960",
+        "as": "৯৬০ টকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Cost = 720 ÷ 0.90 = ₹800. For a 15% gain the selling price is 800 × 1.15 = ₹920.",
+      "as": "ক্ৰয়মূল্য = ৭২০ ÷ ০.৯০ = ৮০০ টকা। ১৫% লাভৰ বাবে বিক্ৰয়মূল্য = ৮০০ × ১.১৫ = ৯২০ টকা।"
+    }
+  },
+  {
+    "id": "numerical-017",
+    "q": {
+      "en": "A sum doubles itself in 8 years at simple interest. The rate of interest per annum is",
+      "as": "সৰল সুতত এটা ধন ৮ বছৰত দুগুণ হয়। বছৰি সুতৰ হাৰ কিমান"
+    },
+    "options": [
+      {
+        "en": "10%",
+        "as": "১০%"
+      },
+      {
+        "en": "12.5%",
+        "as": "১২.৫%"
+      },
+      {
+        "en": "15%",
+        "as": "১৫%"
+      },
+      {
+        "en": "8%",
+        "as": "৮%"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Doubling means the interest equals the principal, so SI = P over 8 years. Using SI = PRT/100: P = P × R × 8 / 100, giving R = 100 ÷ 8 = 12.5%.",
+      "as": "দুগুণ হোৱাৰ অৰ্থ সুত = মূলধন, সেয়ে ৮ বছৰত সৰল সুত = P। সূত্ৰ SI = PRT/100 ৰপৰা P = P × R × ৮ / ১০০, সেয়ে R = ১০০ ÷ ৮ = ১২.৫%।"
+    }
+  },
+  {
+    "id": "numerical-018",
+    "q": {
+      "en": "The simple interest on ₹6,000 for 2 years 6 months at 8% per annum is",
+      "as": "বছৰি ৮% হাৰত ৬,০০০ টকাৰ ২ বছৰ ৬ মাহৰ সৰল সুত কিমান"
+    },
+    "options": [
+      {
+        "en": "₹1,200",
+        "as": "১,২০০ টকা"
+      },
+      {
+        "en": "₹1,000",
+        "as": "১,০০০ টকা"
+      },
+      {
+        "en": "₹1,440",
+        "as": "১,৪৪০ টকা"
+      },
+      {
+        "en": "₹1,250",
+        "as": "১,২৫০ টকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "2 years 6 months is 2.5 years. SI = 6000 × 8 × 2.5 / 100 = ₹1,200.",
+      "as": "২ বছৰ ৬ মাহ = ২.৫ বছৰ। SI = ৬০০০ × ৮ × ২.৫ / ১০০ = ১,২০০ টকা।"
+    }
+  },
+  {
+    "id": "numerical-019",
+    "q": {
+      "en": "The difference between compound interest and simple interest on ₹10,000 for 2 years at 10% per annum is",
+      "as": "বছৰি ১০% হাৰত ১০,০০০ টকাৰ ২ বছৰৰ চক্ৰবৃদ্ধি সুত আৰু সৰল সুতৰ পাৰ্থক্য কিমান"
+    },
+    "options": [
+      {
+        "en": "₹100",
+        "as": "১০০ টকা"
+      },
+      {
+        "en": "₹50",
+        "as": "৫০ টকা"
+      },
+      {
+        "en": "₹200",
+        "as": "২০০ টকা"
+      },
+      {
+        "en": "₹110",
+        "as": "১১০ টকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "For 2 years the difference is P(R/100)² = 10000 × (0.10)² = ₹100. Directly: CI = ₹2,100 and SI = ₹2,000.",
+      "as": "২ বছৰৰ বাবে পাৰ্থক্য = P(R/100)² = ১০০০০ × (০.১০)² = ১০০ টকা। পোনপটীয়াকৈ: CI = ২,১০০ টকা আৰু SI = ২,০০০ টকা।"
+    }
+  },
+  {
+    "id": "numerical-020",
+    "q": {
+      "en": "At what rate per annum will ₹5,000 amount to ₹6,050 in 2 years if interest is compounded annually?",
+      "as": "বছৰি কিমান হাৰত ৫,০০০ টকা ২ বছৰত ৬,০৫০ টকা হ'ব যদি সুত বছৰি চক্ৰবৃদ্ধি হয়"
+    },
+    "options": [
+      {
+        "en": "10%",
+        "as": "১০%"
+      },
+      {
+        "en": "12%",
+        "as": "১২%"
+      },
+      {
+        "en": "8%",
+        "as": "৮%"
+      },
+      {
+        "en": "15%",
+        "as": "১৫%"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A/P = 6050/5000 = 1.21. Since (1 + R/100)² = 1.21, 1 + R/100 = 1.10 and R = 10%.",
+      "as": "A/P = ৬০৫০/৫০০০ = ১.২১। যিহেতু (১ + R/১০০)² = ১.২১, ১ + R/১০০ = ১.১০ আৰু R = ১০%।"
+    }
+  },
+  {
+    "id": "numerical-021",
+    "q": {
+      "en": "A invests ₹20,000 and B ₹30,000 in a business. After 6 months A withdraws half his capital. In what ratio should the year's profit be shared?",
+      "as": "এজন লোকে ২০,০০০ টকা আৰু B এ ৩০,০০০ টকা বিনিয়োগ কৰে। ৬ মাহৰ পিছত A এ নিজৰ মূলধনৰ আধা উলিয়াই লয়। বছৰটোৰ লাভ কোন অনুপাতত ভগাব লাগে"
+    },
+    "options": [
+      {
+        "en": "1 : 2",
+        "as": "১ : ২"
+      },
+      {
+        "en": "2 : 3",
+        "as": "২ : ৩"
+      },
+      {
+        "en": "5 : 6",
+        "as": "৫ : ৬"
+      },
+      {
+        "en": "3 : 4",
+        "as": "৩ : ৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A's capital-months = 20000 × 6 + 10000 × 6 = 180000. B's = 30000 × 12 = 360000. Ratio 180000 : 360000 = 1 : 2.",
+      "as": "A ৰ মূলধন-মাহ = ২০০০০ × ৬ + ১০০০০ × ৬ = ১৮০০০০। B ৰ = ৩০০০০ × ১২ = ৩৬০০০০। অনুপাত ১৮০০০০ : ৩৬০০০০ = ১ : ২।"
+    }
+  },
+  {
+    "id": "numerical-022",
+    "q": {
+      "en": "Three partners share profit in the ratio 5 : 3 : 2. If the third partner receives ₹4,000, the total profit is",
+      "as": "তিনিজন অংশীদাৰে ৫ : ৩ : ২ অনুপাতত লাভ ভগায়। তৃতীয়জনে ৪,০০০ টকা পাইলে মুঠ লাভ কিমান"
+    },
+    "options": [
+      {
+        "en": "₹20,000",
+        "as": "২০,০০০ টকা"
+      },
+      {
+        "en": "₹16,000",
+        "as": "১৬,০০০ টকা"
+      },
+      {
+        "en": "₹24,000",
+        "as": "২৪,০০০ টকা"
+      },
+      {
+        "en": "₹18,000",
+        "as": "১৮,০০০ টকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Total parts = 10 and the third partner holds 2 parts = ₹4,000, so one part = ₹2,000. Total = 10 × 2000 = ₹20,000.",
+      "as": "মুঠ অংশ = ১০ আৰু তৃতীয়জনে ২ অংশ = ৪,০০০ টকা, সেয়ে এভাগ = ২,০০০ টকা। মুঠ = ১০ × ২০০০ = ২০,০০০ টকা।"
+    }
+  },
+  {
+    "id": "numerical-023",
+    "q": {
+      "en": "In what ratio must tea at ₹240 per kg be mixed with tea at ₹300 per kg to get a mixture worth ₹270 per kg?",
+      "as": "প্ৰতি কিলো ২৪০ টকাৰ চাহৰ লগত প্ৰতি কিলো ৩০০ টকাৰ চাহ কোন অনুপাতত মিহলাব লাগে যাতে মিশ্ৰণৰ মূল্য প্ৰতি কিলো ২৭০ টকা হয়"
+    },
+    "options": [
+      {
+        "en": "1 : 1",
+        "as": "১ : ১"
+      },
+      {
+        "en": "2 : 1",
+        "as": "২ : ১"
+      },
+      {
+        "en": "1 : 2",
+        "as": "১ : ২"
+      },
+      {
+        "en": "3 : 2",
+        "as": "৩ : ২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "By alligation the cheaper is 270 - 240 = 30 above, and the dearer is 300 - 270 = 30 below. Ratio = 30 : 30 = 1 : 1.",
+      "as": "মিশ্ৰণ নিয়মে সস্তাটো ২৭০ - ২৪০ = ৩০ ওপৰত, আৰু দামটো ৩০০ - ২৭০ = ৩০ তলত। অনুপাত = ৩০ : ৩০ = ১ : ১।"
+    }
+  },
+  {
+    "id": "numerical-024",
+    "q": {
+      "en": "A vessel holds 40 litres of milk. 4 litres are drawn out and replaced with water. This is done twice. The milk left is",
+      "as": "এটা পাত্ৰত ৪০ লিটাৰ গাখীৰ আছে। ৪ লিটাৰ উলিয়াই পানীৰে সলনি কৰা হয়। এই কাম দুবাৰ কৰা হ'ল। বাকী থকা গাখীৰ কিমান"
+    },
+    "options": [
+      {
+        "en": "32.4 litres",
+        "as": "৩২.৪ লিটাৰ"
+      },
+      {
+        "en": "36 litres",
+        "as": "৩৬ লিটাৰ"
+      },
+      {
+        "en": "30 litres",
+        "as": "৩০ লিটাৰ"
+      },
+      {
+        "en": "34 litres",
+        "as": "৩৪ লিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Each operation leaves (1 - 4/40) = 0.9 of the milk. After two operations the milk is 40 × 0.9² = 40 × 0.81 = 32.4 litres.",
+      "as": "প্ৰতিবাৰ কাৰ্যৰ পিছত গাখীৰ (১ - ৪/৪০) = ০.৯ অংশ থাকে। দুবাৰৰ পিছত গাখীৰ = ৪০ × ০.৯² = ৪০ × ০.৮১ = ৩২.৪ লিটাৰ।"
+    }
+  },
+  {
+    "id": "numerical-025",
+    "q": {
+      "en": "A can do a work in 12 days and B in 18 days. Working together they finish it in",
+      "as": "A এ এটা কাম ১২ দিনত আৰু B এ ১৮ দিনত কৰিব পাৰে। একেলগে কাম কৰিলে তেওঁলোকে কিমান দিনত শেষ কৰিব"
+    },
+    "options": [
+      {
+        "en": "7.2 days",
+        "as": "৭.২ দিন"
+      },
+      {
+        "en": "6 days",
+        "as": "৬ দিন"
+      },
+      {
+        "en": "8 days",
+        "as": "৮ দিন"
+      },
+      {
+        "en": "7 days",
+        "as": "৭ দিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "One day's work = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time = 36/5 = 7.2 days.",
+      "as": "এদিনৰ কাম = ১/১২ + ১/১৮ = ৩/৩৬ + ২/৩৬ = ৫/৩৬। সময় = ৩৬/৫ = ৭.২ দিন।"
+    }
+  },
+  {
+    "id": "numerical-026",
+    "q": {
+      "en": "A is twice as efficient as B and together they finish a work in 8 days. A alone would take",
+      "as": "A ৰ কাৰ্যক্ষমতা B ৰ দুগুণ আৰু একেলগে তেওঁলোকে ৮ দিনত কামটো শেষ কৰে। A অকলে কিমান দিন ল'ব"
+    },
+    "options": [
+      {
+        "en": "12 days",
+        "as": "১২ দিন"
+      },
+      {
+        "en": "16 days",
+        "as": "১৬ দিন"
+      },
+      {
+        "en": "24 days",
+        "as": "২৪ দিন"
+      },
+      {
+        "en": "10 days",
+        "as": "১০ দিন"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Let B do 1 unit a day, then A does 2. Together 3 units a day finish the work in 8 days, so the work is 24 units. A alone takes 24 ÷ 2 = 12 days.",
+      "as": "B এ দিনে ১ একক কৰে ধৰক, তেন্তে A এ ২ একক। একেলগে দিনে ৩ একক, ৮ দিনত কাম শেষ, সেয়ে কাম = ২৪ একক। A অকলে ২৪ ÷ ২ = ১২ দিন।"
+    }
+  },
+  {
+    "id": "numerical-027",
+    "q": {
+      "en": "Pipe A fills a tank in 6 hours and pipe B empties it in 9 hours. If both are opened together, the tank fills in",
+      "as": "পাইপ A এ এটা টেংকি ৬ ঘণ্টাত ভৰায় আৰু পাইপ B এ ৯ ঘণ্টাত খালী কৰে। দুয়ো একেলগে খুলিলে টেংকি কিমান সময়ত ভৰিব"
+    },
+    "options": [
+      {
+        "en": "18 hours",
+        "as": "১৮ ঘণ্টা"
+      },
+      {
+        "en": "15 hours",
+        "as": "১৫ ঘণ্টা"
+      },
+      {
+        "en": "12 hours",
+        "as": "১২ ঘণ্টা"
+      },
+      {
+        "en": "20 hours",
+        "as": "২০ ঘণ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Net filling in one hour = 1/6 - 1/9 = 3/18 - 2/18 = 1/18. So the tank fills in 18 hours.",
+      "as": "এঘণ্টাত মুঠ ভৰা = ১/৬ - ১/৯ = ৩/১৮ - ২/১৮ = ১/১৮। সেয়ে টেংকি ১৮ ঘণ্টাত ভৰিব।"
+    }
+  },
+  {
+    "id": "numerical-028",
+    "q": {
+      "en": "Two pipes A and B can fill a tank in 20 and 30 minutes. Both are opened, but A is closed after 8 minutes. The total time to fill the tank is",
+      "as": "দুটা পাইপ A আৰু B এ এটা টেংকি ২০ আৰু ৩০ মিনিটত ভৰাব পাৰে। দুয়ো খোলা হ'ল, কিন্তু ৮ মিনিটৰ পিছত A বন্ধ কৰা হ'ল। টেংকি ভৰিবলৈ মুঠ সময় কিমান"
+    },
+    "options": [
+      {
+        "en": "18 minutes",
+        "as": "১৮ মিনিট"
+      },
+      {
+        "en": "16 minutes",
+        "as": "১৬ মিনিট"
+      },
+      {
+        "en": "20 minutes",
+        "as": "২০ মিনিট"
+      },
+      {
+        "en": "22 minutes",
+        "as": "২২ মিনিট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In 8 minutes both fill 8(1/20 + 1/30) = 8 × 5/60 = 2/3. The remaining 1/3 is filled by B alone at 1/30 a minute, taking 10 minutes. Total = 18 minutes.",
+      "as": "৮ মিনিটত দুয়োৱে ভৰায় ৮(১/২০ + ১/৩০) = ৮ × ৫/৬০ = ২/৩। বাকী ১/৩ B এ অকলে ১/৩০ হাৰত ভৰায়, ১০ মিনিট লাগে। মুঠ = ১৮ মিনিট।"
+    }
+  },
+  {
+    "id": "numerical-029",
+    "q": {
+      "en": "A car covers a distance in 5 hours at 60 km/h. To cover the same distance in 4 hours its speed must be",
+      "as": "এখন গাড়ীয়ে ৬০ কিমি/ঘণ্টা বেগেৰে এটা দূৰত্ব ৫ ঘণ্টাত অতিক্ৰম কৰে। একেই দূৰত্ব ৪ ঘণ্টাত অতিক্ৰম কৰিবলৈ বেগ কিমান হ'ব লাগিব"
+    },
+    "options": [
+      {
+        "en": "75 km/h",
+        "as": "৭৫ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "72 km/h",
+        "as": "৭২ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "80 km/h",
+        "as": "৮০ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "70 km/h",
+        "as": "৭০ কিমি/ঘণ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Distance = 60 × 5 = 300 km. Speed for 4 hours = 300 ÷ 4 = 75 km/h.",
+      "as": "দূৰত্ব = ৬০ × ৫ = ৩০০ কিমি। ৪ ঘণ্টাৰ বাবে বেগ = ৩০০ ÷ ৪ = ৭৫ কিমি/ঘণ্টা।"
+    }
+  },
+  {
+    "id": "numerical-030",
+    "q": {
+      "en": "A man walks at 5 km/h and reaches office 10 minutes late. At 6 km/h he reaches 5 minutes early. The distance to the office is",
+      "as": "এজন লোকে ৫ কিমি/ঘণ্টা বেগেৰে খোজ কাঢ়ি অফিচত ১০ মিনিট দেৰিকৈ পায়। ৬ কিমি/ঘণ্টা বেগেৰে ৫ মিনিট আগতীয়াকৈ পায়। অফিচলৈ দূৰত্ব কিমান"
+    },
+    "options": [
+      {
+        "en": "7.5 km",
+        "as": "৭.৫ কিমি"
+      },
+      {
+        "en": "6 km",
+        "as": "৬ কিমি"
+      },
+      {
+        "en": "8 km",
+        "as": "৮ কিমি"
+      },
+      {
+        "en": "9 km",
+        "as": "৯ কিমি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The time difference is 15 minutes = 1/4 hour. With distance d, d/5 - d/6 = 1/4, so d/30 = 1/4 and d = 7.5 km.",
+      "as": "সময়ৰ পাৰ্থক্য ১৫ মিনিট = ১/৪ ঘণ্টা। দূৰত্ব d হ'লে d/৫ - d/৬ = ১/৪, সেয়ে d/৩০ = ১/৪ আৰু d = ৭.৫ কিমি।"
+    }
+  },
+  {
+    "id": "numerical-031",
+    "q": {
+      "en": "A train 150 m long running at 54 km/h crosses a platform 250 m long in",
+      "as": "১৫০ মিটাৰ দীঘল এখন ৰে'লগাড়ীয়ে ৫৪ কিমি/ঘণ্টা বেগেৰে ২৫০ মিটাৰ দীঘল প্লেটফৰ্ম অতিক্ৰম কৰিবলৈ কিমান সময় ল'ব"
+    },
+    "options": [
+      {
+        "en": "26.67 seconds",
+        "as": "২৬.৬৭ ছেকেণ্ড"
+      },
+      {
+        "en": "24 seconds",
+        "as": "২৪ ছেকেণ্ড"
+      },
+      {
+        "en": "30 seconds",
+        "as": "৩০ ছেকেণ্ড"
+      },
+      {
+        "en": "20 seconds",
+        "as": "২০ ছেকেণ্ড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Speed = 54 × 5/18 = 15 m/s. Total distance = 150 + 250 = 400 m. Time = 400 ÷ 15 = 26.67 seconds.",
+      "as": "বেগ = ৫৪ × ৫/১৮ = ১৫ মি/ছেকেণ্ড। মুঠ দূৰত্ব = ১৫০ + ২৫০ = ৪০০ মি। সময় = ৪০০ ÷ ১৫ = ২৬.৬৭ ছেকেণ্ড।"
+    }
+  },
+  {
+    "id": "numerical-032",
+    "q": {
+      "en": "Two trains of equal length 120 m run in opposite directions at 42 km/h and 30 km/h. They cross each other in",
+      "as": "সমান ১২০ মিটাৰ দীঘল দুখন ৰে'লগাড়ীয়ে বিপৰীত দিশত ৪২ কিমি/ঘণ্টা আৰু ৩০ কিমি/ঘণ্টা বেগেৰে গৈ থাকে। তেওঁলোকে ইটোৱে সিটোক কিমান সময়ত অতিক্ৰম কৰিব"
+    },
+    "options": [
+      {
+        "en": "12 seconds",
+        "as": "১২ ছেকেণ্ড"
+      },
+      {
+        "en": "10 seconds",
+        "as": "১০ ছেকেণ্ড"
+      },
+      {
+        "en": "14 seconds",
+        "as": "১৪ ছেকেণ্ড"
+      },
+      {
+        "en": "16 seconds",
+        "as": "১৬ ছেকেণ্ড"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Relative speed = 42 + 30 = 72 km/h = 20 m/s. Total length = 240 m. Time = 240 ÷ 20 = 12 seconds.",
+      "as": "আপেক্ষিক বেগ = ৪২ + ৩০ = ৭২ কিমি/ঘণ্টা = ২০ মি/ছেকেণ্ড। মুঠ দীঘ = ২৪০ মি। সময় = ২৪০ ÷ ২০ = ১২ ছেকেণ্ড।"
+    }
+  },
+  {
+    "id": "numerical-033",
+    "q": {
+      "en": "A boat goes 24 km downstream and returns in 5 hours. If the speed of the stream is 2 km/h, the speed of the boat in still water is",
+      "as": "এখন নাওৱে ২৪ কিমি সোঁতৰ দিশত গৈ ৫ ঘণ্টাত ঘূৰি আহে। সোঁতৰ বেগ ২ কিমি/ঘণ্টা হ'লে স্থিৰ পানীত নাওখনৰ বেগ কিমান"
+    },
+    "options": [
+      {
+        "en": "10 km/h",
+        "as": "১০ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "8 km/h",
+        "as": "৮ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "12 km/h",
+        "as": "১২ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "6 km/h",
+        "as": "৬ কিমি/ঘণ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Let the still-water speed be b. Then 24/(b+2) + 24/(b-2) = 5, which simplifies to 5b² - 48b - 20 = 0. The positive root is b = 10 km/h.",
+      "as": "স্থিৰ পানীৰ বেগ b ধৰক। তেন্তে ২৪/(b+২) + ২৪/(b-২) = ৫, যি ৫b² - ৪৮b - ২০ = ০ লৈ সৰল হয়। ধনাত্মক মূল b = ১০ কিমি/ঘণ্টা।"
+    }
+  },
+  {
+    "id": "numerical-034",
+    "q": {
+      "en": "The speed of a boat downstream is 15 km/h and upstream 9 km/h. The speed of the stream is",
+      "as": "সোঁতৰ দিশত নাওৰ বেগ ১৫ কিমি/ঘণ্টা আৰু সোঁতৰ বিপৰীত দিশত ৯ কিমি/ঘণ্টা। সোঁতৰ বেগ কিমান"
+    },
+    "options": [
+      {
+        "en": "3 km/h",
+        "as": "৩ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "6 km/h",
+        "as": "৬ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "12 km/h",
+        "as": "১২ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "4 km/h",
+        "as": "৪ কিমি/ঘণ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Stream speed = (downstream - upstream) ÷ 2 = (15 - 9) ÷ 2 = 3 km/h.",
+      "as": "সোঁতৰ বেগ = (সোঁতৰ দিশ - বিপৰীত দিশ) ÷ ২ = (১৫ - ৯) ÷ ২ = ৩ কিমি/ঘণ্টা।"
+    }
+  },
+  {
+    "id": "numerical-035",
+    "q": {
+      "en": "The present age of a father is three times his son's. After 12 years it will be twice. The son's present age is",
+      "as": "পিতৃৰ বৰ্তমান বয়স পুত্ৰৰ তিনিগুণ। ১২ বছৰৰ পিছত দুগুণ হ'ব। পুত্ৰৰ বৰ্তমান বয়স কিমান"
+    },
+    "options": [
+      {
+        "en": "12 years",
+        "as": "১২ বছৰ"
+      },
+      {
+        "en": "10 years",
+        "as": "১০ বছৰ"
+      },
+      {
+        "en": "14 years",
+        "as": "১৪ বছৰ"
+      },
+      {
+        "en": "16 years",
+        "as": "১৬ বছৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Let the son be x and the father 3x. Then 3x + 12 = 2(x + 12), giving x = 12.",
+      "as": "পুত্ৰৰ বয়স x আৰু পিতৃৰ ৩x ধৰক। তেন্তে ৩x + ১২ = ২(x + ১২), সেয়ে x = ১২।"
+    }
+  },
+  {
+    "id": "numerical-036",
+    "q": {
+      "en": "A mother is 24 years older than her daughter. In 4 years she will be three times as old as the daughter. The daughter's present age is",
+      "as": "মাক এগৰাকী জীয়েকতকৈ ২৪ বছৰ ডাঙৰ। ৪ বছৰৰ পিছত তেওঁ জীয়েকৰ তিনিগুণ হ'ব। জীয়েকৰ বৰ্তমান বয়স কিমান"
+    },
+    "options": [
+      {
+        "en": "8 years",
+        "as": "৮ বছৰ"
+      },
+      {
+        "en": "10 years",
+        "as": "১০ বছৰ"
+      },
+      {
+        "en": "12 years",
+        "as": "১২ বছৰ"
+      },
+      {
+        "en": "6 years",
+        "as": "৬ বছৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Let the daughter be x, the mother x + 24. Then x + 24 + 4 = 3(x + 4), so x + 28 = 3x + 12 and x = 8.",
+      "as": "জীয়েকৰ বয়স x, মাকৰ x + ২৪ ধৰক। তেন্তে x + ২৪ + ৪ = ৩(x + ৪), সেয়ে x + ২৮ = ৩x + ১২ আৰু x = ৮।"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-019",
+    "q": {
+      "en": "The difference between compound interest and simple interest on ₹10,000 for 2 years at 10% per annum is",
+      "as": "বছৰি ১০% হাৰত ১০,০০০ টকাৰ ২ বছৰৰ চক্ৰবৃদ্ধি সুত আৰু সৰল সুতৰ পাৰ্থক্য কিমান"
+    },
+    "options": [
+      {
+        "en": "₹100",
+        "as": "১০০ টকা"
+      },
+      {
+        "en": "₹50",
+        "as": "৫০ টকা"
+      },
+      {
+        "en": "₹200",
+        "as": "২০০ টকা"
+      },
+      {
+        "en": "₹110",
+        "as": "১১০ টকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "For 2 years the difference is P(R/100)² = 10000 × (0.10)² = ₹100. Directly: CI = ₹2,100 and SI = ₹2,000.",
+      "as": "২ বছৰৰ বাবে পাৰ্থক্য = P(R/100)² = ১০০০০ × (০.১০)² = ১০০ টকা। পোনপটীয়াকৈ: CI = ২,১০০ টকা আৰু SI = ২,০০০ টকা।"
+    }
+  },
+  {
+    "id": "numerical-020",
+    "q": {
+      "en": "At what rate per annum will ₹5,000 amount to ₹6,050 in 2 years if interest is compounded annually?",
+      "as": "বছৰি কিমান হাৰত ৫,০০০ টকা ২ বছৰত ৬,০৫০ টকা হ'ব যদি সুত বছৰি চক্ৰবৃদ্ধি হয়"
+    },
+    "options": [
+      {
+        "en": "10%",
+        "as": "১০%"
+      },
+      {
+        "en": "12%",
+        "as": "১২%"
+      },
+      {
+        "en": "8%",
+        "as": "৮%"
+      },
+      {
+        "en": "15%",
+        "as": "১৫%"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A/P = 6050/5000 = 1.21. Since (1 + R/100)² = 1.21, 1 + R/100 = 1.10 and R = 10%.",
+      "as": "A/P = ৬০৫০/৫০০০ = ১.২১। যিহেতু (১ + R/১০০)² = ১.২১, ১ + R/১০০ = ১.১০ আৰু R = ১০%।"
+    }
+  }
+]

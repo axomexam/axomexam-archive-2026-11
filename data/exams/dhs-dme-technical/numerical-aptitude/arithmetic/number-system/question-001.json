@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-001",
+    "q": {
+      "en": "The least number that must be added to 2497 to make it divisible by 5, 6 and 4 is",
+      "as": "২৪৯৭ ৰ লগত যোগ কৰিবলগীয়া আটাইতকৈ সৰু সংখ্যাটো কিমান হ'লে সংখ্যাটো ৫, ৬ আৰু ৪ ৰে বিভাজ্য হ'ব"
+    },
+    "options": [
+      {
+        "en": "43",
+        "as": "৪৩"
+      },
+      {
+        "en": "23",
+        "as": "২৩"
+      },
+      {
+        "en": "47",
+        "as": "৪৭"
+      },
+      {
+        "en": "53",
+        "as": "৫৩"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "LCM of 5, 6 and 4 is 60. Dividing 2497 by 60 leaves remainder 37, so the next multiple is 2497 + (60 - 37) = 2520, which needs 23 added.",
+      "as": "৫, ৬ আৰু ৪ ৰ ল.সা.গু. ৬০। ২৪৯৭ ক ৬০ ৰে ভাগ কৰিলে ভাগশেষ ৩৭ থাকে, সেয়ে পৰৱৰ্তী গুণিতক ২৪৯৭ + (৬০ - ৩৭) = ২৫২০, অৰ্থাৎ ২৩ যোগ কৰিব লাগে।"
+    }
+  },
+  {
+    "id": "numerical-002",
+    "q": {
+      "en": "The largest three-digit number that leaves a remainder of 4 when divided by 9 is",
+      "as": "৯ ৰে ভাগ কৰিলে ভাগশেষ ৪ ৰখা আটাইতকৈ ডাঙৰ তিনি অংকৰ সংখ্যাটো কি"
+    },
+    "options": [
+      {
+        "en": "994",
+        "as": "৯৯৪"
+      },
+      {
+        "en": "998",
+        "as": "৯৯৮"
+      },
+      {
+        "en": "985",
+        "as": "৯৮৫"
+      },
+      {
+        "en": "976",
+        "as": "৯৭৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "999 divided by 9 leaves 0, so 999 - 9 + 4 = 994. Check: 994 = 9 × 110 + 4.",
+      "as": "৯৯৯ ক ৯ ৰে ভাগ কৰিলে ভাগশেষ ০, সেয়ে ৯৯৯ - ৯ + ৪ = ৯৯৪। পৰীক্ষা: ৯৯৪ = ৯ × ১১০ + ৪।"
+    }
+  }
+]

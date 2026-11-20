@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-027",
+    "q": {
+      "en": "Pipe A fills a tank in 6 hours and pipe B empties it in 9 hours. If both are opened together, the tank fills in",
+      "as": "পাইপ A এ এটা টেংকি ৬ ঘণ্টাত ভৰায় আৰু পাইপ B এ ৯ ঘণ্টাত খালী কৰে। দুয়ো একেলগে খুলিলে টেংকি কিমান সময়ত ভৰিব"
+    },
+    "options": [
+      {
+        "en": "18 hours",
+        "as": "১৮ ঘণ্টা"
+      },
+      {
+        "en": "15 hours",
+        "as": "১৫ ঘণ্টা"
+      },
+      {
+        "en": "12 hours",
+        "as": "১২ ঘণ্টা"
+      },
+      {
+        "en": "20 hours",
+        "as": "২০ ঘণ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Net filling in one hour = 1/6 - 1/9 = 3/18 - 2/18 = 1/18. So the tank fills in 18 hours.",
+      "as": "এঘণ্টাত মুঠ ভৰা = ১/৬ - ১/৯ = ৩/১৮ - ২/১৮ = ১/১৮। সেয়ে টেংকি ১৮ ঘণ্টাত ভৰিব।"
+    }
+  },
+  {
+    "id": "numerical-028",
+    "q": {
+      "en": "Two pipes A and B can fill a tank in 20 and 30 minutes. Both are opened, but A is closed after 8 minutes. The total time to fill the tank is",
+      "as": "দুটা পাইপ A আৰু B এ এটা টেংকি ২০ আৰু ৩০ মিনিটত ভৰাব পাৰে। দুয়ো খোলা হ'ল, কিন্তু ৮ মিনিটৰ পিছত A বন্ধ কৰা হ'ল। টেংকি ভৰিবলৈ মুঠ সময় কিমান"
+    },
+    "options": [
+      {
+        "en": "18 minutes",
+        "as": "১৮ মিনিট"
+      },
+      {
+        "en": "16 minutes",
+        "as": "১৬ মিনিট"
+      },
+      {
+        "en": "20 minutes",
+        "as": "২০ মিনিট"
+      },
+      {
+        "en": "22 minutes",
+        "as": "২২ মিনিট"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In 8 minutes both fill 8(1/20 + 1/30) = 8 × 5/60 = 2/3. The remaining 1/3 is filled by B alone at 1/30 a minute, taking 10 minutes. Total = 18 minutes.",
+      "as": "৮ মিনিটত দুয়োৱে ভৰায় ৮(১/২০ + ১/৩০) = ৮ × ৫/৬০ = ২/৩। বাকী ১/৩ B এ অকলে ১/৩০ হাৰত ভৰায়, ১০ মিনিট লাগে। মুঠ = ১৮ মিনিট।"
+    }
+  }
+]

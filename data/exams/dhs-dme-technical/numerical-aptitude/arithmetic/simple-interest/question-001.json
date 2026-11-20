@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-017",
+    "q": {
+      "en": "A sum doubles itself in 8 years at simple interest. The rate of interest per annum is",
+      "as": "সৰল সুতত এটা ধন ৮ বছৰত দুগুণ হয়। বছৰি সুতৰ হাৰ কিমান"
+    },
+    "options": [
+      {
+        "en": "10%",
+        "as": "১০%"
+      },
+      {
+        "en": "12.5%",
+        "as": "১২.৫%"
+      },
+      {
+        "en": "15%",
+        "as": "১৫%"
+      },
+      {
+        "en": "8%",
+        "as": "৮%"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Doubling means the interest equals the principal, so SI = P over 8 years. Using SI = PRT/100: P = P × R × 8 / 100, giving R = 100 ÷ 8 = 12.5%.",
+      "as": "দুগুণ হোৱাৰ অৰ্থ সুত = মূলধন, সেয়ে ৮ বছৰত সৰল সুত = P। সূত্ৰ SI = PRT/100 ৰপৰা P = P × R × ৮ / ১০০, সেয়ে R = ১০০ ÷ ৮ = ১২.৫%।"
+    }
+  },
+  {
+    "id": "numerical-018",
+    "q": {
+      "en": "The simple interest on ₹6,000 for 2 years 6 months at 8% per annum is",
+      "as": "বছৰি ৮% হাৰত ৬,০০০ টকাৰ ২ বছৰ ৬ মাহৰ সৰল সুত কিমান"
+    },
+    "options": [
+      {
+        "en": "₹1,200",
+        "as": "১,২০০ টকা"
+      },
+      {
+        "en": "₹1,000",
+        "as": "১,০০০ টকা"
+      },
+      {
+        "en": "₹1,440",
+        "as": "১,৪৪০ টকা"
+      },
+      {
+        "en": "₹1,250",
+        "as": "১,২৫০ টকা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "2 years 6 months is 2.5 years. SI = 6000 × 8 × 2.5 / 100 = ₹1,200.",
+      "as": "২ বছৰ ৬ মাহ = ২.৫ বছৰ। SI = ৬০০০ × ৮ × ২.৫ / ১০০ = ১,২০০ টকা।"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-039",
+    "q": {
+      "en": "The roots of x² - 7x + 12 = 0 are",
+      "as": "x² - ৭x + ১২ = ০ ৰ মূলবোৰ কি"
+    },
+    "options": [
+      {
+        "en": "3 and 4",
+        "as": "৩ আৰু ৪"
+      },
+      {
+        "en": "-3 and -4",
+        "as": "-৩ আৰু -৪"
+      },
+      {
+        "en": "2 and 6",
+        "as": "২ আৰু ৬"
+      },
+      {
+        "en": "1 and 12",
+        "as": "১ আৰু ১২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Factorising, x² - 7x + 12 = (x - 3)(x - 4) = 0, so x = 3 or x = 4. The sum 7 and product 12 both check.",
+      "as": "উৎপাদক বিশ্লেষণ কৰিলে x² - ৭x + ১২ = (x - ৩)(x - ৪) = ০, সেয়ে x = ৩ বা x = ৪। যোগফল ৭ আৰু গুণফল ১২ দুয়োটাই মিলে।"
+    }
+  },
+  {
+    "id": "numerical-040",
+    "q": {
+      "en": "The solution of 2x + 3y = 12 and 3x + 2y = 13 is",
+      "as": "২x + ৩y = ১২ আৰু ৩x + ২y = ১৩ ৰ সমাধান কি"
+    },
+    "options": [
+      {
+        "en": "x = 3, y = 2",
+        "as": "x = ৩, y = ২"
+      },
+      {
+        "en": "x = 2, y = 3",
+        "as": "x = ২, y = ৩"
+      },
+      {
+        "en": "x = 4, y = 1",
+        "as": "x = ৪, y = ১"
+      },
+      {
+        "en": "x = 1, y = 4",
+        "as": "x = ১, y = ৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Adding both equations gives 5x + 5y = 25, so x + y = 5. Subtracting gives y - x = 1. Solving, x = 3 and y = 2. Check: 6 + 6 = 12 and 9 + 4 = 13.",
+      "as": "দুয়ো সমীকৰণ যোগ কৰিলে ৫x + ৫y = ২৫, সেয়ে x + y = ৫। বিয়োগ কৰিলে y - x = ১। সমাধান কৰিলে x = ৩ আৰু y = ২। পৰীক্ষা: ৬ + ৬ = ১২ আৰু ৯ + ৪ = ১৩।"
+    }
+  }
+]

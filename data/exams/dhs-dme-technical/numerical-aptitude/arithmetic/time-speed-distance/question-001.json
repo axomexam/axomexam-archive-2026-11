@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-029",
+    "q": {
+      "en": "A car covers a distance in 5 hours at 60 km/h. To cover the same distance in 4 hours its speed must be",
+      "as": "এখন গাড়ীয়ে ৬০ কিমি/ঘণ্টা বেগেৰে এটা দূৰত্ব ৫ ঘণ্টাত অতিক্ৰম কৰে। একেই দূৰত্ব ৪ ঘণ্টাত অতিক্ৰম কৰিবলৈ বেগ কিমান হ'ব লাগিব"
+    },
+    "options": [
+      {
+        "en": "75 km/h",
+        "as": "৭৫ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "72 km/h",
+        "as": "৭২ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "80 km/h",
+        "as": "৮০ কিমি/ঘণ্টা"
+      },
+      {
+        "en": "70 km/h",
+        "as": "৭০ কিমি/ঘণ্টা"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Distance = 60 × 5 = 300 km. Speed for 4 hours = 300 ÷ 4 = 75 km/h.",
+      "as": "দূৰত্ব = ৬০ × ৫ = ৩০০ কিমি। ৪ ঘণ্টাৰ বাবে বেগ = ৩০০ ÷ ৪ = ৭৫ কিমি/ঘণ্টা।"
+    }
+  },
+  {
+    "id": "numerical-030",
+    "q": {
+      "en": "A man walks at 5 km/h and reaches office 10 minutes late. At 6 km/h he reaches 5 minutes early. The distance to the office is",
+      "as": "এজন লোকে ৫ কিমি/ঘণ্টা বেগেৰে খোজ কাঢ়ি অফিচত ১০ মিনিট দেৰিকৈ পায়। ৬ কিমি/ঘণ্টা বেগেৰে ৫ মিনিট আগতীয়াকৈ পায়। অফিচলৈ দূৰত্ব কিমান"
+    },
+    "options": [
+      {
+        "en": "7.5 km",
+        "as": "৭.৫ কিমি"
+      },
+      {
+        "en": "6 km",
+        "as": "৬ কিমি"
+      },
+      {
+        "en": "8 km",
+        "as": "৮ কিমি"
+      },
+      {
+        "en": "9 km",
+        "as": "৯ কিমি"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The time difference is 15 minutes = 1/4 hour. With distance d, d/5 - d/6 = 1/4, so d/30 = 1/4 and d = 7.5 km.",
+      "as": "সময়ৰ পাৰ্থক্য ১৫ মিনিট = ১/৪ ঘণ্টা। দূৰত্ব d হ'লে d/৫ - d/৬ = ১/৪, সেয়ে d/৩০ = ১/৪ আৰু d = ৭.৫ কিমি।"
+    }
+  }
+]

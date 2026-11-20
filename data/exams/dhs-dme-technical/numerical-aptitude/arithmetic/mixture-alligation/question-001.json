@@ -1,0 +1,62 @@
+[
+  {
+    "id": "numerical-023",
+    "q": {
+      "en": "In what ratio must tea at ₹240 per kg be mixed with tea at ₹300 per kg to get a mixture worth ₹270 per kg?",
+      "as": "প্ৰতি কিলো ২৪০ টকাৰ চাহৰ লগত প্ৰতি কিলো ৩০০ টকাৰ চাহ কোন অনুপাতত মিহলাব লাগে যাতে মিশ্ৰণৰ মূল্য প্ৰতি কিলো ২৭০ টকা হয়"
+    },
+    "options": [
+      {
+        "en": "1 : 1",
+        "as": "১ : ১"
+      },
+      {
+        "en": "2 : 1",
+        "as": "২ : ১"
+      },
+      {
+        "en": "1 : 2",
+        "as": "১ : ২"
+      },
+      {
+        "en": "3 : 2",
+        "as": "৩ : ২"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "By alligation the cheaper is 270 - 240 = 30 above, and the dearer is 300 - 270 = 30 below. Ratio = 30 : 30 = 1 : 1.",
+      "as": "মিশ্ৰণ নিয়মে সস্তাটো ২৭০ - ২৪০ = ৩০ ওপৰত, আৰু দামটো ৩০০ - ২৭০ = ৩০ তলত। অনুপাত = ৩০ : ৩০ = ১ : ১।"
+    }
+  },
+  {
+    "id": "numerical-024",
+    "q": {
+      "en": "A vessel holds 40 litres of milk. 4 litres are drawn out and replaced with water. This is done twice. The milk left is",
+      "as": "এটা পাত্ৰত ৪০ লিটাৰ গাখীৰ আছে। ৪ লিটাৰ উলিয়াই পানীৰে সলনি কৰা হয়। এই কাম দুবাৰ কৰা হ'ল। বাকী থকা গাখীৰ কিমান"
+    },
+    "options": [
+      {
+        "en": "32.4 litres",
+        "as": "৩২.৪ লিটাৰ"
+      },
+      {
+        "en": "36 litres",
+        "as": "৩৬ লিটাৰ"
+      },
+      {
+        "en": "30 litres",
+        "as": "৩০ লিটাৰ"
+      },
+      {
+        "en": "34 litres",
+        "as": "৩৪ লিটাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Each operation leaves (1 - 4/40) = 0.9 of the milk. After two operations the milk is 40 × 0.9² = 40 × 0.81 = 32.4 litres.",
+      "as": "প্ৰতিবাৰ কাৰ্যৰ পিছত গাখীৰ (১ - ৪/৪০) = ০.৯ অংশ থাকে। দুবাৰৰ পিছত গাখীৰ = ৪০ × ০.৯² = ৪০ × ০.৮১ = ৩২.৪ লিটাৰ।"
+    }
+  }
+]
