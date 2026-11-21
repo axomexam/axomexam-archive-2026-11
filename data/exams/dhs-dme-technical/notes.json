@@ -3112,5 +3112,607 @@
         "ইয়াৰ যিকোনো সংখ্যামূলক প্ৰশ্নত প্ৰথমে Z আৰু A লিখক, তাৰ পিছত বিয়োগ কৰক। প্ৰ’টন = Z, নিউট্ৰন = A − Z, আৰু নিৰপেক্ষ পৰমাণুত ইলেক্ট্ৰন = Z। তিনি শাৰী হিচাপেই এই শিতানৰ বেছিভাগ প্ৰশ্ন সমাধান কৰি দিয়ে।"
       ]
     ]
+  },
+  "periodic-table": {
+    "en": [
+      [
+        "h3",
+        "What the paper wants from the table"
+      ],
+      [
+        "p",
+        "The periodic table is not asked as history; it is asked as a map. Given an element's atomic number, the paper wants its period and group. Given a group, it wants the family name. Given two elements, it wants which is more metallic, larger, or more electronegative. Every one of those is answered by a single rule about shells and nuclear charge."
+      ],
+      [
+        "p",
+        "So the efficient study is not memorising the table but learning four rules: the period is the number of shells, the group is decided by the outer electrons, size falls across a period and rises down a group, and metallic character moves opposite to electronegativity. Four rules, and the whole topic opens up."
+      ],
+      [
+        "h3",
+        "Mendeleev to the modern table"
+      ],
+      [
+        "p",
+        "Mendeleev arranged the elements by increasing atomic mass and left gaps for elements not yet discovered, predicting their properties; gallium and germanium were found later and matched his predictions. His table had anomalies, because argon and potassium would sit in the wrong order if mass alone decided the position. The modern table arranges by atomic number, which removes the anomaly, and the periodic law now reads: properties are a periodic function of atomic number."
+      ],
+      [
+        "p",
+        "The long form of the table has seven periods and eighteen groups. Period one has two elements, periods two and three have eight each, periods four and five have eighteen, and periods six and seven have thirty-two. The group number in the modern system is the number of outer electrons for the main groups, which is why group one elements all have one outer electron and group seventeen elements have seven."
+      ],
+      [
+        "h3",
+        "The blocks, and what they mean"
+      ],
+      [
+        "ul",
+        [
+          "s-block — groups 1 and 2 — outer electron in an s orbital — reactive metals.",
+          "p-block — groups 13 to 18 — outer electrons in p orbitals — metals, metalloids and non-metals together.",
+          "d-block — groups 3 to 12 — the transition metals — variable valency, coloured compounds, catalytic activity.",
+          "f-block — the lanthanides and actinides, placed below — inner transition metals."
+        ]
+      ],
+      [
+        "p",
+        "The d-block is worth one extra line because questions love it. Transition metals show variable oxidation states, form coloured salts, act as catalysts, and form complex compounds. Iron shows plus two and plus three; copper shows plus one and plus two; manganese shows up to plus seven. That is why a question about which block has coloured compounds wants the d-block."
+      ],
+      [
+        "h3",
+        "The named families"
+      ],
+      [
+        "ul",
+        [
+          "Group 1 — alkali metals — lithium to francium — soft, react violently with water, valency one.",
+          "Group 2 — alkaline earth metals — magnesium, calcium — valency two, less reactive than group 1.",
+          "Group 17 — halogens — fluorine to astatine — valency one, form salts, fluorine is the most reactive non-metal.",
+          "Group 18 — noble gases — helium, neon, argon — complete outer shell, almost unreactive, used in lamps and welding.",
+          "Group 3 to 12 — transition metals — iron, copper, zinc, silver, gold."
+        ]
+      ],
+      [
+        "p",
+        "Hydrogen sits alone in most modern tables. It has one outer electron like the alkali metals but forms a negative ion like the halogens, so it cannot be placed cleanly in either group. A question about why hydrogen is placed separately wants exactly that: it resembles group one in configuration and group seventeen in behaviour."
+      ],
+      [
+        "h3",
+        "The trends, said as directions"
+      ],
+      [
+        "p",
+        "Across a period, from left to right: atomic size decreases, nuclear charge increases, ionisation energy increases, electronegativity increases, metallic character decreases. Down a group: atomic size increases, ionisation energy decreases, electronegativity decreases, metallic character increases. These two sentences cover almost every trend question in the bank, and each has one reason — the shell count and the effective nuclear charge."
+      ],
+      [
+        "p",
+        "Electronegativity is the pull an atom exerts on a shared pair of electrons in a bond. Fluorine is the most electronegative element, oxygen second, chlorine third. The difference in electronegativity decides the bond type: a large difference gives ionic, a small difference gives covalent, and a moderate difference gives polar covalent. That one line links this topic to the bonding topic, which is the next one in the syllabus."
+      ],
+      [
+        "h3",
+        "Position of the first twenty elements, worked"
+      ],
+      [
+        "p",
+        "Hydrogen Z=1 is period 1 group 1. Helium Z=2 is period 1 group 18. Lithium Z=3, two shells, one outer electron, is period 2 group 1. Carbon Z=6, two shells, four outer electrons, is period 2 group 14. Neon Z=10, two shells, eight outer electrons, is period 2 group 18. Sodium Z=11, three shells, one outer electron, is period 3 group 1. Chlorine Z=17 is period 3 group 17. Calcium Z=20, four shells, two outer electrons, is period 4 group 2."
+      ],
+      [
+        "p",
+        "Notice the pattern: the group number for the main groups equals the outer electron count, with groups 13 to 18 written as the count plus ten. That is why carbon with four outer electrons is in group 14 and not group 4 — the modern numbering counts the d-block in the middle. A question that asks for the group of aluminium wants 13, and a candidate who answers 3 has used the old numbering."
+      ],
+      [
+        "h3",
+        "Two exceptions worth knowing"
+      ],
+      [
+        "p",
+        "The first is hydrogen, already covered: one outer electron but halogen-like behaviour. The second is the diagonal relationship, where lithium resembles magnesium, beryllium resembles aluminium, and boron resembles silicon, because moving one step down and one step right roughly cancels the two trends. It is an advanced point but it appears in better papers, and one line is enough: diagonal pairs behave similarly because size and charge both shift in opposite directions."
+      ],
+      [
+        "p",
+        "A third curiosity is the lanthanide contraction, where the lanthanides are smaller than expected because the f electrons shield poorly. It explains why the elements after the lanthanides have almost the same size as the ones above them. This is rarely asked but it is a good answer to 'why are some periods unusual'."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Saying the modern table is arranged by atomic mass. It is atomic number.",
+          "Giving group 2 for hydrogen. Hydrogen is placed separately.",
+          "Saying atomic size increases across a period. It decreases.",
+          "Calling the noble gases reactive. They have complete outer shells.",
+          "Forgetting that transition metals show variable valency — the commonest d-block question."
+        ]
+      ],
+      [
+        "h3",
+        "Three questions from this bank, worked"
+      ],
+      [
+        "p",
+        "Which element has the electronic configuration 2, 8, 7? Seventeen electrons means seventeen protons, so Z is 17 and the element is chlorine, period 3 group 17, a halogen. Which is more metallic, sodium or magnesium? Sodium, because metallic character decreases across a period, and sodium sits to the left of magnesium."
+      ],
+      [
+        "p",
+        "Which of these has the largest atomic radius: lithium, sodium or potassium? Potassium, because atomic size increases down a group as new shells are added. Notice that the three questions use only the two rules about shells and position, and none of them needs a printed table."
+      ],
+      [
+        "h3",
+        "What the table is used for in the job"
+      ],
+      [
+        "p",
+        "A technical grade post deals with water testing, sample handling and equipment. Knowing which element is a metal, which compound is soluble, and which reagent reacts with which ion is practical knowledge, not just exam knowledge. That is why the paper asks the table: it is checking whether the candidate can read a label, a reagent bottle or a water report and understand what the symbols mean."
+      ],
+      [
+        "h3",
+        "Ten days on this topic"
+      ],
+      [
+        "p",
+        "Two days on Mendeleev, the anomalies and the modern periodic law. Two days on periods, groups and the four blocks, drawing the outline from memory. Two days on the five named families with one property each. Two days on the trends, saying each direction with its reason. The last two days: questions from this bank, plus writing the period and group for the first twenty elements."
+      ],
+      [
+        "tip",
+        "In the hall, convert every question into shells and outer electrons. Period equals shells; group equals outer electrons for main groups. Two conversions answer most of this topic without touching the printed table."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "প্ৰশ্নকাকতে তালিকাখনৰ পৰা কি বিচাৰে"
+      ],
+      [
+        "p",
+        "পৰ্যায় সাৰণিক ইতিহাস হিচাপে সোধা নহয়; এখন মানচিত্ৰ হিচাপেহে সোধা হয়। মৌলৰ পাৰমাণৱিক সংখ্যা দি প্ৰশ্নই তাৰ পৰ্যায় আৰু গোট বিচাৰে। গোট দি পৰিয়ালৰ নাম বিচাৰে। দুটা মৌল দি কোনটো বেছি ধাতৱীয়, ডাঙৰ বা বেছি বিদ্যুৎ-ঋণাত্মক সুধে। এই সকলোৰে উত্তৰ কক্ষ আৰু নিউক্লিয় আধানৰ এটা নিয়মেই দিয়ে।"
+      ],
+      [
+        "p",
+        "সেয়ে কাৰ্যকৰী পদ্ধতি তালিকা মুখস্থ কৰা নহয়, চাৰিটা নিয়ম শিকা: পৰ্যায় = কক্ষৰ সংখ্যা, গোট = বাহিৰা ইলেক্ট্ৰনৰ দ্বাৰা নিৰ্ণীত, আকাৰ পৰ্যায়ত কমে আৰু গোটত বাঢ়ে, আৰু ধাতৱীয় ধৰ্ম বিদ্যুৎ-ঋণাত্মকতাৰ ওলোটা দিশত চলে। চাৰিটা নিয়ম, আৰু গোটেই শিতান মুকলি হৈ যায়।"
+      ],
+      [
+        "h3",
+        "মেণ্ডেলিভৰ পৰা আধুনিক তালিকালৈ"
+      ],
+      [
+        "p",
+        "মেণ্ডেলিভে মৌলবোৰ বঢ়া পাৰমাণৱিক ভৰ অনুসৰি সজাই যিবোৰ মৌল এতিয়াও আৱিষ্কাৰ হোৱা নাই তাৰ বাবে খালী ঠাই এৰি দিছিল আৰু সিহঁতৰ ধৰ্মৰ ভৱিষ্যদ্বাণী কৰিছিল; পিছত গেলিয়াম আৰু জাৰ্মেনিয়াম পোৱা গ’ল আৰু তেওঁৰ ভৱিষ্যদ্বাণী মিলিল। তেওঁৰ তালিকাত অসমঞ্জসতা আছিল, কাৰণ কেৱল ভৰেৰে স্থান নিৰ্ণয় কৰিলে আৰ্গন আৰু পটাছিয়ামৰ ক্ৰম ওলোটা হৈ যায়। আধুনিক তালিকা পাৰমাণৱিক সংখ্যা অনুসৰি সজা, যিয়ে সেই অসমঞ্জসতা আঁতৰায়, আৰু এতিয়া পৰ্যায় সূত্ৰই কয়: ধৰ্ম পাৰমাণৱিক সংখ্যাৰ পৰ্যায়বদ্ধ ফলন।"
+      ],
+      [
+        "p",
+        "আধুনিক দীঘল তালিকাত সাতটা পৰ্যায় আৰু ওঠৰটা গোট। প্ৰথম পৰ্যায়ত দুটা মৌল, দ্বিতীয় আৰু তৃতীয়ত আঠাটাকৈ, চতুৰ্থ আৰু পঞ্চমত ওঠৰটাকৈ, আৰু ষষ্ঠ আৰু সপ্তমত বত্ৰিশটাকৈ। মূল গোটবোৰত গোট সংখ্যাই বাহিৰা ইলেক্ট্ৰনৰ সংখ্যা দিয়ে, সেয়েই কাৰণ প্ৰথম গোটৰ প্ৰতিটো মৌলত এটা বাহিৰা ইলেক্ট্ৰন আৰু সতৰ্ক গোটৰ মৌলবোৰত সাতটা।"
+      ],
+      [
+        "h3",
+        "ব্লকবোৰ, আৰু সিহঁতৰ অৰ্থ"
+      ],
+      [
+        "ul",
+        [
+          "s-ব্লক — গোট ১ আৰু ২ — বাহিৰা ইলেক্ট্ৰন s অৰ্বিটেলত — সক্ৰিয় ধাতু।",
+          "p-ব্লক — গোট ১৩ ৰ পৰা ১৮ — বাহিৰা ইলেক্ট্ৰন p অৰ্বিটেলত — ধাতু, উপধাতু আৰু অধাতু একেলগে।",
+          "d-ব্লক — গোট ৩ ৰ পৰা ১২ — সংক্ৰমণ ধাতু — পৰিৱৰ্তনশীল যোজ্যতা, ৰঙীন যৌগ, অনুঘটকীয় ধৰ্ম।",
+          "f-ব্লক — লেন্থানাইড আৰু এক্টিনাইড, তলত ৰখা — অন্তঃসংক্ৰমণ ধাতু।"
+        ]
+      ],
+      [
+        "p",
+        "d-ব্লক এশাৰী বেছি মনত ৰখা ভাল, কাৰণ প্ৰশ্নই ইয়াক ভাল পায়। সংক্ৰমণ ধাতুত পৰিৱৰ্তনশীল জাৰণ অৱস্থা দেখা যায়, ৰঙীন লৱণ বনায়, অনুঘটক হিচাপে কাম কৰে, আৰু জটিল যৌগ গঠন কৰে। লোত যোগ দুই আৰু তিন; তামত এক আৰু দুই; মেংগানীজত সাতলৈকে। সেয়েই 'কোন ব্লকত ৰঙীন যৌগ হয়' সুধিলে উত্তৰ d-ব্লক।"
+      ],
+      [
+        "h3",
+        "নাম থকা পৰিয়ালবোৰ"
+      ],
+      [
+        "ul",
+        [
+          "গোট ১ — ক্ষাৰ ধাতু — লিথিয়ামৰ পৰা ফ্ৰেন্সিয়াম — কোমল, পানীৰ লগত প্ৰচণ্ড প্ৰতিক্ৰিয়া, যোজ্যতা এক।",
+          "গোট ২ — ক্ষাৰীয় মৃদু ধাতু — মেগনেছিয়াম, কেলচিয়াম — যোজ্যতা দুই, গোট ১ তকৈ কম সক্ৰিয়।",
+          "গোট ১৭ — হেল’জেন — ফ্ল’ৰিনৰ পৰা এষ্টেটিন — যোজ্যতা এক, লৱণ বনায়, ফ্ল’ৰিন আটাইতকৈ সক্ৰিয় অধাতু।",
+          "গোট ১৮ — নিষ্ক্ৰিয় গেছ — হিলিয়াম, নিঅ’ন, আৰ্গন — সম্পূৰ্ণ বাহিৰা কক্ষ, প্ৰায় নিষ্ক্ৰিয়, বন্তি আৰু ৱেল্ডিঙত ব্যৱহৃত।",
+          "গোট ৩ ৰ পৰা ১২ — সংক্ৰমণ ধাতু — লো, তাম, জিংক, ৰূপ, সোণ।"
+        ]
+      ],
+      [
+        "p",
+        "বেছিভাগ আধুনিক তালিকাত হাইড্ৰ’জেন অকলে থাকে। ইয়াৰ এটা বাহিৰা ইলেক্ট্ৰন, ক্ষাৰ ধাতুৰ দৰে, কিন্তু ঋণাত্মক আয়ন বনোৱাত হেল’জেনৰ দৰে — সেয়ে ইয়াক দুয়োটা গোটতে স্পষ্টকৈ ৰখা নাযায়। 'হাইড্ৰ’জেনক অকলে কিয় ৰখা হয়' সুধিলে উত্তৰ এয়েই: বিন্যাসত গোট ১ ৰ দৰে, আচৰণত গোট ১৭ ৰ দৰে।"
+      ],
+      [
+        "h3",
+        "প্ৰৱণতাবোৰ, দিশ হিচাপে"
+      ],
+      [
+        "p",
+        "পৰ্যায়ত বাওঁৰ পৰা সোঁলৈ: পাৰমাণৱিক আকাৰ কমে, নিউক্লিয় আধান বাঢ়ে, আয়নীকৰণ শক্তি বাঢ়ে, বিদ্যুৎ-ঋণাত্মকতা বাঢ়ে, ধাতৱীয় ধৰ্ম কমে। গোটত ওপৰৰ পৰা তললৈ: আকাৰ বাঢ়ে, আয়নীকৰণ শক্তি কমে, বিদ্যুৎ-ঋণাত্মকতা কমে, ধাতৱীয় ধৰ্ম বাঢ়ে। এই দুটা বাক্যই বেংকৰ প্ৰায় প্ৰতিটো প্ৰৱণতা প্ৰশ্ন সামৰি লয়, আৰু প্ৰতিটোৰে এটা কাৰণ আছে — কক্ষৰ সংখ্যা আৰু কাৰ্যকৰী নিউক্লিয় আধান।"
+      ],
+      [
+        "p",
+        "বিদ্যুৎ-ঋণাত্মকতা হ’ল বান্ধোনত ভগাই লোৱা ইলেক্ট্ৰনৰ যোৰৰ ওপৰত পৰমাণুৱে প্ৰয়োগ কৰা টান। ফ্ল’ৰিন আটাইতকৈ বিদ্যুৎ-ঋণাত্মক, তাৰ পিছত অক্সিজেন, তাৰ পিছত ক্ল’ৰিন। বিদ্যুৎ-ঋণাত্মকতাৰ পাৰ্থক্যই বান্ধোনৰ ধৰণ নিৰ্ণয় কৰে: বেছি পাৰ্থক্যত আয়নীয়, কম পাৰ্থক্যত সমযোজী, আৰু মধ্যম পাৰ্থক্যত ধ্ৰুৱীয় সমযোজী। এই এশাৰীয়ে এই শিতানক বান্ধোনৰ শিতানৰ লগত জোৰে, যি পাঠ্যক্ৰমত পৰৱৰ্তী।"
+      ],
+      [
+        "h3",
+        "প্ৰথম বিশটা মৌলৰ অৱস্থান, সমাধানকে ধৰি"
+      ],
+      [
+        "p",
+        "হাইড্ৰ’জেন Z=১, পৰ্যায় ১, গোট ১। হিলিয়াম Z=২, পৰ্যায় ১, গোট ১৮। লিথিয়াম Z=৩, দুটা কক্ষ, এটা বাহিৰা ইলেক্ট্ৰন, পৰ্যায় ২, গোট ১। কাৰ্বন Z=৬, দুটা কক্ষ, চাৰিটা বাহিৰা ইলেক্ট্ৰন, পৰ্যায় ২, গোট ১৪। নিঅ’ন Z=১০, দুটা কক্ষ, আঠটা বাহিৰা ইলেক্ট্ৰন, পৰ্যায় ২, গোট ১৮। ছডিয়াম Z=১১, তিনি কক্ষ, এটা বাহিৰা ইলেক্ট্ৰন, পৰ্যায় ৩, গোট ১। ক্ল’ৰিন Z=১৭, পৰ্যায় ৩, গোট ১৭। কেলচিয়াম Z=২০, চাৰিটা কক্ষ, দুটা বাহিৰা ইলেক্ট্ৰন, পৰ্যায় ৪, গোট ২।"
+      ],
+      [
+        "p",
+        "আৰ্হিটো মন কৰক: মূল গোটত গোট সংখ্যা = বাহিৰা ইলেক্ট্ৰনৰ সংখ্যা, আৰু গোট ১৩ ৰ পৰা ১৮ লিখা হয় সংখ্যা যোগ দহ হিচাপে। সেয়েই চাৰিটা বাহিৰা ইলেক্ট্ৰনৰ কাৰ্বন গোট ১৪ ত, গোট ৪ ত নহয় — আধুনিক সংখ্যাই মাজৰ d-ব্লকো গণি লয়। 'এলুমিনিয়ামৰ গোট কিমান' সুধিলে উত্তৰ ১৩, আৰু যিয়ে ৩ বুলি উত্তৰ দিয়ে তেওঁ পুৰণি সংখ্যাকৰণ ব্যৱহাৰ কৰিছে।"
+      ],
+      [
+        "h3",
+        "জানিবলগীয়া দুটা ব্যতিক্ৰম"
+      ],
+      [
+        "p",
+        "প্ৰথমটো হাইড্ৰ’জেন, ইতিমধ্যেই কোৱা হৈছে: এটা বাহিৰা ইলেক্ট্ৰন কিন্তু হেল’জেনৰ দৰে আচৰণ। দ্বিতীয়টো কৰ্ণ সম্পৰ্ক, য’ত লিথিয়াম মেগনেছিয়ামৰ দৰে, বেৰিলিয়াম এলুমিনিয়ামৰ দৰে, আৰু ব’ৰন ছিলিকনৰ দৰে আচৰণ কৰে, কাৰণ এখোজ তলত আৰু এখোজ সোঁফালে যোৱে দুয়োটা প্ৰৱণতা প্ৰায় বাতিল কৰি দিয়ে। ই উন্নত পয়েণ্ট, কিন্তু ভাল প্ৰশ্নকাকতত আহে, আৰু এশাৰী যথেষ্ট: কৰ্ণ যোৰবোৰৰ আচৰণ একেই, কাৰণ আকাৰ আৰু আধান দুয়োটা ওলোটা দিশত সৰে।"
+      ],
+      [
+        "p",
+        "তৃতীয়টো আচৰিত কথা লেন্থানাইড সংকোচন, য’ত লেন্থানাইডবোৰ আশাৰ তুলনাত সৰু, কাৰণ f ইলেক্ট্ৰনে দুৰ্বলভাৱে ঢাকে। সেয়েই লেন্থানাইডৰ পিছৰ মৌলবোৰ ওপৰৰ মৌলবোৰৰ প্ৰায় একেই আকাৰৰ হয়। ই কম সোধা হয়, কিন্তু 'কিছুমান পৰ্যায় কিয় অস্বাভাৱিক' প্ৰশ্নৰ ভাল উত্তৰ এয়েই।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "আধুনিক তালিকা পাৰমাণৱিক ভৰেৰে সজা বুলি কোৱা — পাৰমাণৱিক সংখ্যাৰে।",
+          "হাইড্ৰ’জেনৰ গোট ২ বুলি কোৱা — হাইড্ৰ’জেন অকলে ৰখা হয়।",
+          "পৰ্যায়ত পাৰমাণৱিক আকাৰ বাঢ়ে বুলি কোৱা — কমে।",
+          "নিষ্ক্ৰিয় গেছক সক্ৰিয় বুলি কোৱা — বাহিৰা কক্ষ সম্পূৰ্ণ।",
+          "সংক্ৰমণ ধাতুত পৰিৱৰ্তনশীল যোজ্যতা নাই বুলি কোৱা — এয়েই আটাইতকৈ সাধাৰণ d-ব্লক প্ৰশ্ন।"
+        ]
+      ],
+      [
+        "p",
+        "আৰু এটা শাৰী: মৌলৰ নামকৰণৰ প্ৰশ্ন কেতিয়াবা আহে — হাইড্ৰ’জেন (পানী উৎপাদন কৰে), নাইট্ৰজেন (নাইট্ৰেট উৎপাদন কৰে), অক্সিজেন (অম্ল উৎপাদন কৰে), ক্ল’ৰিন (সেউজীয়া ৰং), আয়’ডিন (বেঙুনীয়া বাষ্প)। এই অৰ্থবোৰেই নামৰ কাৰণ, আৰু এনে প্ৰশ্নত উত্তৰ দিয়াৰ লগতে কাৰণটো লিখিলে পূৰ্ণ নম্বৰ পোৱা যায়।"
+      ],
+      [
+        "h3",
+        "মৌলৰ ব্যৱহাৰ — প্ৰশ্নত সোধা দহটা"
+      ],
+      [
+        "p",
+        "হাইড্ৰ’জেন — বেলুন আৰু অ্যাম’নিয়া সংশ্লেষণত; হিলিয়াম — বেলুন আৰু শ্বাস-প্ৰশ্বাসৰ মিশ্ৰণত; নাইট্ৰজেন — নিষ্ক্ৰিয় বায়ুপূৰ্ণ পেকেজিঙত আৰু সাৰত; অক্সিজেন — চিকিৎসালয়ত আৰু ইস্পাত প্ৰস্তুতিত; ক্ল’ৰিন — পানী বিশোধনত আৰু ব্লিচিঙত; ছডিয়াম — ৰাস্তাৰ বন্তিত (হালধীয়া পোহৰ); কেলচিয়াম — চিমেণ্ট আৰু চূণত; লো — ষ্টীলত; তাম — বৈদ্যুতিক তাৰত; সোণ আৰু ৰূপ — অলংকাৰ আৰু মুদ্ৰাত। এই দহটা যোৰ প্ৰায় প্ৰতিবছৰেই কোনো ৰূপত আহে, সেয়ে এটা কাৰ্ডত লিখি থোৱা ভাল।"
+      ],
+      [
+        "h3",
+        "এই বেংকৰ তিনি প্ৰশ্ন, সমাধানকে ধৰি"
+      ],
+      [
+        "p",
+        "কোন মৌলৰ ইলেক্ট্ৰনীয় বিন্যাস ২, ৮, ৭? সোতৰটা ইলেক্ট্ৰন মানে সোতৰটা প্ৰ’টন, সেয়ে Z = ১৭ আৰু মৌলটো ক্ল’ৰিন, পৰ্যায় ৩, গোট ১৭, এটা হেল’জেন। ছডিয়াম নে মেগনেছিয়াম বেছি ধাতৱীয়? ছডিয়াম, কাৰণ পৰ্যায়ত ধাতৱীয় ধৰ্ম কমে, আৰু ছডিয়াম মেগনেছিয়ামৰ বাওঁফালে।"
+      ],
+      [
+        "p",
+        "লিথিয়াম, ছডিয়াম আৰু পটাছিয়ামৰ ভিতৰত আটাইতকৈ ডাঙৰ পাৰমাণৱিক ব্যাসাৰ্ধ কোনটোৰ? পটাছিয়ামৰ, কাৰণ গোটত তললৈ গ’লে নতুন কক্ষ যোগ হৈ আকাৰ বাঢ়ে। মন কৰক, তিনি প্ৰশ্নতে কেৱল কক্ষ আৰু অৱস্থানৰ দুটা নিয়ম ব্যৱহাৰ হৈছে, এটাও ছপা তালিকা নালাগে।"
+      ],
+      [
+        "h3",
+        "চাকৰিত তালিকাখনৰ ব্যৱহাৰ"
+      ],
+      [
+        "p",
+        "কাৰিকৰী পদত পানী পৰীক্ষা, নমুনা হাতপত্ৰ আৰু সঁজুলিৰ কাম আহে। কোনটো মৌল ধাতু, কোনটো যৌগ দ্ৰৱণীয়, কোন প্ৰতিকাৰকে কোন আয়নৰ লগত প্ৰতিক্ৰিয়া কৰে — এইবোৰ কেৱল পৰীক্ষাৰ জ্ঞান নহয়, কামৰ জ্ঞানো। সেয়েই প্ৰশ্নকাকতে তালিকাখন সুধে: প্ৰাৰ্থীয়ে লেবেল, প্ৰতিকাৰৰ বটল বা পানীৰ ৰিপ’ৰ্ট পঢ়ি সংকেতৰ অৰ্থ বুজি পায় নে নাই, সেয়া পৰীক্ষা কৰে।"
+      ],
+      [
+        "h3",
+        "মৌল আৰু যৌগ — এটা শেষ পাৰ্থক্য"
+      ],
+      [
+        "p",
+        "তালিকাখনত থকা প্ৰতিটো বৰ্গ এটা মৌলৰ বাবে, যৌগৰ বাবে নহয়। পানী তালিকাখনত নাই, কাৰণ পানী এটা যৌগ; হাইড্ৰ’জেন আৰু অক্সিজেন দুয়োটা আছে। সেয়ে তালিকাত পানী ক’ত বুলি সোধা প্ৰশ্ন অৰ্থহীন — উত্তৰ হ’ল ই তালিকাত নাই, কাৰণ তালিকা মৌলৰ। এই সৰু পাৰ্থক্যটোৱে কেতিয়াবা গোটেই প্ৰশ্নটো ভুল কৰাই দিয়ে, সেয়ে প্ৰথমেই সোধক — সুধিছে মৌল নে যৌগ।"
+      ],
+      [
+        "p",
+        "শেষত এটা অভ্যাস: প্ৰথম বিশটা মৌলৰ নাম, সংকেত, Z, পৰ্যায় আৰু গোট — এই পাঁচোটা একেলগে এখন তালিকাত লিখি থওক। সেই এখন তালিকাই এই শিতানৰ প্ৰায় সকলো প্ৰশ্নৰ উত্তৰ দিব, আৰু পৰীক্ষাৰ আগদিনা পঢ়িবলৈও সেয়াই যথেষ্ট।"
+      ],
+      [
+        "h3",
+        "এই শিতানত দহ দিন"
+      ],
+      [
+        "p",
+        "দুদিন মেণ্ডেলিভ, অসমঞ্জসতা আৰু আধুনিক পৰ্যায় সূত্ৰত। দুদিন পৰ্যায়, গোট আৰু চাৰিটা ব্লকত — আউটলাইন মনৰ পৰা আঁকি। দুদিন পাঁচটা নাম থকা পৰিয়ালত, এটাকৈ ধৰ্ম দি। দুদিন প্ৰৱণতাত — প্ৰতিটো দিশ কাৰণৰ লগত মাতি। শেষৰ দুদিন: এই বেংকৰ প্ৰশ্ন, লগতে প্ৰথম বিশটা মৌলৰ পৰ্যায় আৰু গোট লিখি।"
+      ],
+      [
+        "tip",
+        "পৰীক্ষাৰ কোঠাত প্ৰতিটো প্ৰশ্নক কক্ষ আৰু বাহিৰা ইলেক্ট্ৰনলৈ ৰূপান্তৰ কৰক। পৰ্যায় = কক্ষ, মূল গোটত গোট = বাহিৰা ইলেক্ট্ৰন। এই দুটা ৰূপান্তৰেই ছপা তালিকা নোচোৱাকৈ এই শিতানৰ বেছিভাগ প্ৰশ্নৰ উত্তৰ দিয়ে।"
+      ]
+    ]
+  },
+  "chemical-bonding": {
+    "en": [
+      [
+        "h3",
+        "Why bonds form at all"
+      ],
+      [
+        "p",
+        "Every atom wants a stable outer shell, which in practice means eight electrons for most elements and two for the first shell. A bond is the arrangement two atoms reach to get there. There are four types worth knowing: ionic, where electrons are transferred; covalent, where they are shared; coordinate, where one atom donates both electrons; and metallic, where the electrons are pooled across a lattice."
+      ],
+      [
+        "p",
+        "The single most useful line for this topic is the octet rule: atoms combine so that each acquires eight electrons in its outermost shell. Everything else — why sodium chloride is NaCl and not NaCl2, why water is H2O, why ammonia is NH3 — is the octet rule applied."
+      ],
+      [
+        "h3",
+        "Ionic bonding"
+      ],
+      [
+        "p",
+        "An ionic bond forms between a metal and a non-metal, by transfer of electrons. Sodium has one outer electron and loses it to become Na plus; chlorine has seven and gains one to become Cl minus. The two ions are held by electrostatic attraction. The compound is neutral overall, which is why one sodium pairs with one chlorine and calcium pairs with two chlorines in CaCl2."
+      ],
+      [
+        "p",
+        "The properties follow from the structure. Ionic compounds are crystalline, with high melting and boiling points because the lattice is strong. They conduct electricity when molten or dissolved, because the ions are then free to move, but not when solid. They are usually soluble in water and insoluble in kerosene. A question that asks why solid salt does not conduct wants 'the ions are fixed in the lattice'."
+      ],
+      [
+        "h3",
+        "Covalent bonding"
+      ],
+      [
+        "p",
+        "A covalent bond forms between two non-metals, by sharing electrons. Each shared pair is one bond, so a double bond shares two pairs and a triple bond three. Hydrogen has one bond, oxygen two, nitrogen three, and carbon four — that is why methane is CH4, water H2O and ammonia NH3."
+      ],
+      [
+        "p",
+        "Covalent compounds have low melting and boiling points because the forces between molecules are weak, even though the bonds inside each molecule are strong. They do not conduct electricity, because there are no free ions. Most are insoluble in water but soluble in organic solvents. The exception worth naming is hydrogen chloride, which is covalent but ionises in water to give hydrochloric acid, so its solution conducts."
+      ],
+      [
+        "p",
+        "Two giant covalent structures are asked by name. Diamond has each carbon bonded to four others in a tetrahedron, which makes it the hardest natural substance and a non-conductor. Graphite has each carbon bonded to three others in layers, with free electrons between the layers, which makes it soft, slippery and a good conductor. Same element, different structure, opposite properties — that comparison is the whole point."
+      ],
+      [
+        "h3",
+        "Coordinate and metallic bonds"
+      ],
+      [
+        "p",
+        "In a coordinate bond, one atom donates both electrons of the shared pair. Ammonium ion formation is the standard example: ammonia's lone pair is donated to a hydrogen ion, giving NH4 plus. The ammonium ion then behaves like any other positive ion, which is why ammonium chloride is ionic even though one of its bonds was coordinate."
+      ],
+      [
+        "p",
+        "In a metallic bond, the metal atoms release their outer electrons into a common pool, and the positive ions sit in that sea of electrons. This explains the four standard properties: metals conduct because the electrons move, they are malleable and ductile because the layers can slide, they are lustrous because the electrons reflect light, and they have high melting points when the pool is deep."
+      ],
+      [
+        "h3",
+        "Polarity and hydrogen bonding"
+      ],
+      [
+        "p",
+        "A covalent bond between atoms of different electronegativity is polar: the shared pair sits closer to the more electronegative atom, giving it a partial negative charge. Water is the standard example, with oxygen negative and hydrogen positive. That polarity is why water dissolves so many ionic substances and why it has such a high boiling point for so small a molecule."
+      ],
+      [
+        "p",
+        "A hydrogen bond is the weak attraction between a hydrogen bonded to oxygen, nitrogen or fluorine and a lone pair on a nearby molecule. It is much weaker than a covalent bond but strong enough to matter: it holds water molecules together, gives water its high surface tension, holds the DNA double helix together, and keeps proteins in shape. A question that asks why water boils at 100 degrees while hydrogen sulphide boils below zero wants hydrogen bonding."
+      ],
+      [
+        "h3",
+        "Bond strength and bond length"
+      ],
+      [
+        "p",
+        "Bond length is the distance between two bonded nuclei. The shorter the bond, the stronger it is, so a triple bond is shorter and stronger than a double, which is shorter and stronger than a single. Bond energy is the energy needed to break one mole of bonds, and it follows the same order. That is why nitrogen, with a triple bond, is so unreactive, and why it takes a large input of energy to fix it industrially."
+      ],
+      [
+        "p",
+        "Bond order is simply the number of shared pairs: one for single, two for double, three for triple. A question that gives the bond order and asks for the length or strength is answered by that single ordering, and no calculation is needed."
+      ],
+      [
+        "h3",
+        "Valency, oxidation number and the shapes of molecules"
+      ],
+      [
+        "p",
+        "Valency is the combining capacity of an element, and it comes from the outer electrons. Oxidation number is the charge an atom would carry if the shared electrons went entirely to the more electronegative atom. In water, hydrogen is plus one and oxygen is minus two; in carbon dioxide, carbon is plus four. Oxidation number is asked as a small calculation, and the rule that the sum equals the overall charge is all that is needed."
+      ],
+      [
+        "p",
+        "Molecular shape follows from the electron pairs around the central atom, because pairs repel and arrange themselves as far apart as possible. Two pairs give a linear shape, as in carbon dioxide. Three give trigonal planar, as in boron trifluoride. Four give tetrahedral, as in methane. Water has four pairs but two are lone pairs, which squeezes the angle to about 104 degrees instead of 109.5, and ammonia has one lone pair, giving about 107 degrees."
+      ],
+      [
+        "h3",
+        "Four compounds whose bonding is asked by name"
+      ],
+      [
+        "p",
+        "Sodium chloride is ionic: a lattice of Na plus and Cl minus, high melting point, conducts when molten. Carbon dioxide is covalent with two double bonds, a gas at room temperature, does not conduct. Water is polar covalent with two single bonds and a bent shape, and its hydrogen bonding gives it an unusually high boiling point. Ammonia is polar covalent with three single bonds and one lone pair, and that lone pair is what makes it a base and what lets it form the coordinate bond in the ammonium ion."
+      ],
+      [
+        "p",
+        "If those four are solid, the rest of the topic is variation. A question that gives a compound and asks for the bond type is answered by looking at what it is made of; a question that gives a property and asks for the bond type is answered by working backwards from melting point and conductivity."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Saying ionic compounds conduct in the solid state. They conduct when molten or dissolved.",
+          "Calling diamond a conductor because carbon conducts in graphite. Diamond does not.",
+          "Saying covalent compounds always have high melting points. They are usually low.",
+          "Forgetting that the ammonium ion contains a coordinate bond.",
+          "Confusing a hydrogen bond with a covalent bond between hydrogen and oxygen."
+        ]
+      ],
+      [
+        "h3",
+        "Ten days on this topic"
+      ],
+      [
+        "p",
+        "Two days on the octet rule and the four bond types, with one example each. Two days on ionic bonding, writing NaCl, MgCl2, CaO and Al2O3 by charge balance. Two days on covalent bonding, drawing Lewis structures for water, ammonia, methane and carbon dioxide. Two days on diamond versus graphite and on metallic bonding properties. The last two days: polarity, hydrogen bonding, and questions from this bank."
+      ],
+      [
+        "tip",
+        "Decide the bond type first: metal plus non-metal is ionic, non-metal plus non-metal is covalent. Then the properties follow automatically — melting point, conductivity and solubility all come from that one decision."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "বান্ধোন কিয় হয়েই"
+      ],
+      [
+        "p",
+        "প্ৰতিটো পৰমাণুৱে সুস্থিৰ বাহিৰা কক্ষ বিচাৰে, অৰ্থাৎ বেছিভাগ মৌলৰ বাবে আঠ ইলেক্ট্ৰন আৰু প্ৰথম কক্ষৰ বাবে দুই। বান্ধোন হ’ল তালৈকে যাবলৈ দুটা পৰমাণুৱে কৰা ব্যৱস্থা। চাৰিটা ধৰণ জানি ৰখা ভাল: আয়নীয় — ইলেক্ট্ৰন হস্তান্তৰ; সমযোজী — ভগাই লোৱা; সন্নিবেশ — এটা পৰমাণুৱে দুয়োটা ইলেক্ট্ৰন দিয়ে; আৰু ধাতৱীয় — জালিকা জুৰি ইলেক্ট্ৰনৰ পুখুৰী।"
+      ],
+      [
+        "p",
+        "এই শিতানৰ আটাইতকৈ কামৰ এশাৰী হ’ল অষ্টক নিয়ম: পৰমাণুবোৰ এনেকৈ মিলে যাতে প্ৰতিটোৱে বাহিৰা কক্ষত আঠটা ইলেক্ট্ৰন পায়। বাকী সকলো — ছডিয়াম ক্ল’ৰাইড NaCl কিয়, NaCl2 নহয়; পানী H2O কিয়; এম’নিয়া NH3 কিয় — অষ্টক নিয়মৰ প্ৰয়োগহে।"
+      ],
+      [
+        "h3",
+        "আয়নীয় বান্ধোন"
+      ],
+      [
+        "p",
+        "আয়নীয় বান্ধোন ধাতু আৰু অধাতুৰ মাজত, ইলেক্ট্ৰন হস্তান্তৰেৰে হয়। ছডিয়ামৰ এটা বাহিৰা ইলেক্ট্ৰন, তাক এৰি Na⁺ হয়; ক্ল’ৰিনৰ সাতটা, এটা লৈ Cl⁻ হয়। দুয়োটা আয়ন স্থিৰ বিদ্যুৎ আকৰ্ষণেৰে ধৰি ৰাখে। যৌগ মুঠতে নিৰপেক্ষ, সেয়েই এটা ছডিয়াম এটা ক্ল’ৰিনৰ লগত মিলে আৰু কেলচিয়াম CaCl2 ত দুটা ক্ল’ৰিনৰ লগত।"
+      ],
+      [
+        "p",
+        "ধৰ্মবোৰ গঠনৰ পৰাই আহে। আয়নীয় যৌগ স্ফটিকীয়, উতলাংক আৰু গলনাংক বেছি কাৰণ জালিকা সবল। গলিত বা দ্ৰৱিত অৱস্থাত বিদ্যুৎ পৰিবহণ কৰে, কাৰণ তেতিয়া আয়নবোৰ মুক্ত; কঠিন অৱস্থাত নকৰে। সাধাৰণতে পানীত দ্ৰৱণীয়, কেৰাছিনত অদ্ৰৱণীয়। 'কঠিন নিমখে বিদ্যুৎ কিয় নিবহন কৰে' সুধিলে উত্তৰ 'আয়নবোৰ জালিকাত স্থিৰ'।"
+      ],
+      [
+        "h3",
+        "সমযোজী বান্ধোন"
+      ],
+      [
+        "p",
+        "সমযোজী বান্ধোন দুটা অধাতুৰ মাজত, ইলেক্ট্ৰন ভগাই লৈ হয়। প্ৰতিটো ভগা যোৰ এটা বান্ধোন, সেয়ে দ্বৈত বান্ধোনত দুযোৰ আৰু ত্ৰৈত বান্ধোনত তিনি যোৰ। হাইড্ৰ’জেনৰ এটা বান্ধোন, অক্সিজেনৰ দুই, নাইট্ৰজেনৰ তিনি, কাৰ্বনৰ চাৰি — সেয়েই মিথেন CH4, পানী H2O আৰু এম’নিয়া NH3।"
+      ],
+      [
+        "p",
+        "সমযোজী যৌগৰ গলনাংক আৰু উতলাংক কম, কাৰণ অণুবোৰৰ মাজৰ বল দুৰ্বল, যদিও অণুৰ ভিতৰৰ বান্ধোন সবল। ই বিদ্যুৎ নিবহন কৰে, কাৰণ মুক্ত আয়ন নাই। বেছিভাগ পানীত অদ্ৰৱণীয় কিন্তু জৈৱ দ্ৰাৱকত দ্ৰৱণীয়। মনত ৰখা ব্যতিক্ৰমটো হ’ল হাইড্ৰ’জেন ক্ল’ৰাইড — ই সমযোজী, কিন্তু পানীত আয়নিত হৈ হাইড্ৰ’ক্ল’ৰিক এচিড দিয়ে, সেয়ে ইয়াৰ দ্ৰৱে বিদ্যুৎ নিবহন কৰে।"
+      ],
+      [
+        "p",
+        "দুটা বিশাল সমযোজী গঠন নাম ধৰি সোধা হয়। হীৰাত প্ৰতিটো কাৰ্বনে চাৰিটা কাৰ্বনৰ লগত চতুস্তলকত বান্ধোন লয়, সেয়ে ই আটাইতকৈ কঠিন প্ৰাকৃতিক পদাৰ্থ আৰু অ-পৰিবাহী। গ্ৰেফাইটত প্ৰতিটো কাৰ্বনে তিনিটা কাৰ্বনৰ লগত স্তৰত বান্ধোন লয়, আৰু স্তৰবোৰৰ মাজত মুক্ত ইলেক্ট্ৰন থাকে, সেয়ে ই কোমল, পিছলি যোৱা আৰু সুপৰিবাহী। একেই মৌল, বেলেগ গঠন, ওলোটা ধৰ্ম — এই তুলনাটোৱেই গোটেই কথাটো।"
+      ],
+      [
+        "h3",
+        "সন্নিবেশ আৰু ধাতৱীয় বান্ধোন"
+      ],
+      [
+        "p",
+        "সন্নিবেশ বান্ধোনত এটা পৰমাণুৱে ভগা যোৰৰ দুয়োটা ইলেক্ট্ৰনেই দিয়ে। এম’নিয়াম আয়নৰ গঠন সাধাৰণ উদাহৰণ: এম’নিয়াৰ নিঃসঙ্গ যোৰ এটা হাইড্ৰ’জেন আয়নলৈ দান কৰি NH4⁺ হয়। তাৰ পিছত এম’নিয়াম আয়ন আন ধনাত্মক আয়নৰ দৰেই আচৰণ কৰে, সেয়েই এম’নিয়াম ক্ল’ৰাইড আয়নীয়, যদিও তাৰ এটা বান্ধোন সন্নিবেশ আছিল।"
+      ],
+      [
+        "p",
+        "ধাতৱীয় বান্ধোনত ধাতুৰ পৰমাণুৱে বাহিৰা ইলেক্ট্ৰন এটা সাধাৰণ পুখুৰীত এৰি দিয়ে, আৰু ধনাত্মক আয়নবোৰ সেই ইলেক্ট্ৰন-সাগৰত বহি থাকে। ইয়াৰ পৰাই চাৰিটা সাধাৰণ ধৰ্ম ব্যাখ্যা হয়: ইলেক্ট্ৰন চলাৰ বাবে ধাতুৱে বিদ্যুৎ নিবহন কৰে, স্তৰবোৰ পিছলি যোৱাৰ বাবে ই নমনীয় আৰু টানিব পৰা যায়, ইলেক্ট্ৰনে পোহৰ প্ৰতিফলিত কৰাৰ বাবে চিকমিকায়, আৰু পুখুৰী গভীৰ হ’লে গলনাংক বেছি।"
+      ],
+      [
+        "h3",
+        "ধ্ৰুৱতা আৰু হাইড্ৰ’জেন বান্ধোন"
+      ],
+      [
+        "p",
+        "বেলেগ বিদ্যুৎ-ঋণাত্মকতাৰ পৰমাণুৰ মাজৰ সমযোজী বান্ধোন ধ্ৰুৱীয়: ভগা যোৰ বেছি বিদ্যুৎ-ঋণাত্মক পৰমাণুৰ ফালে থাকে, সেয়ে তাৰ ওপৰত আংশিক ঋণাত্মক আধান আহে। পানী সাধাৰণ উদাহৰণ, অক্সিজেন ঋণাত্মক আৰু হাইড্ৰ’জেন ধনাত্মক। এই ধ্ৰুৱতাই পানীয়ে ইমানবোৰ আয়নীয় পদাৰ্থ দ্ৰৱিত কৰাৰ কাৰণ, আৰু ইমান সৰু অণুৰ ইমান বেছি উতলাংক হোৱাৰ কাৰণ।"
+      ],
+      [
+        "p",
+        "হাইড্ৰ’জেন বান্ধোন হ’ল অক্সিজেন, নাইট্ৰজেন বা ফ্ল’ৰিনৰ লগত বন্ধা হাইড্ৰ’জেন আৰু ওচৰৰ অণুৰ নিঃসঙ্গ যোৰৰ মাজৰ দুৰ্বল আকৰ্ষণ। ই সমযোজী বান্ধোনতকৈ বহু দুৰ্বল, কিন্তু গুৰুত্বপূৰ্ণ: পানীৰ অণুবোৰ একেলগে ধৰি ৰাখে, পানীৰ পৃষ্ঠটান বঢ়ায়, DNA ৰ দ্বি-হেলিক্স ধৰি ৰাখে, আৰু প্ৰ’টিনৰ আকৃতি ৰক্ষা কৰে। 'হাইড্ৰ’জেন ছালফাইড শূন্যৰ তলত উতলে অথচ পানী ১০০ ডিগ্ৰীত উতলে কিয়' সুধিলে উত্তৰ হাইড্ৰ’জেন বান্ধোন।"
+      ],
+      [
+        "h3",
+        "বান্ধোনৰ সবলতা আৰু দৈৰ্ঘ্য"
+      ],
+      [
+        "p",
+        "বান্ধোনৰ দৈৰ্ঘ্য হ’ল বন্ধা দুটা নিউক্লিয়াছৰ মাজৰ দূৰত্ব। বান্ধোন যিমান চুটি, সিমান সবল, সেয়ে ত্ৰৈত বান্ধোন দ্বৈততকৈ চুটি আৰু সবল, আৰু দ্বৈত এককতকৈ। বান্ধোন শক্তি হ’ল এক ম’ল বান্ধোন ভাঙিবলৈ লগা শক্তি, আৰু ইয়ো একেই ক্ৰম অনুসৰি। সেয়েই ত্ৰৈত বান্ধোন থকা নাইট্ৰজেন ইমান নিষ্ক্ৰিয়, আৰু সেয়েই ঔদ্যোগিকভাৱে ইয়াক স্থিৰ কৰিবলৈ ইমান শক্তি লাগে।"
+      ],
+      [
+        "p",
+        "বান্ধোন ক্ৰম মানে ভগা যোৰৰ সংখ্যা: এককত এক, দ্বৈতত দুই, ত্ৰৈতত তিনি। বান্ধোন ক্ৰম দি দৈৰ্ঘ্য বা সবলতা সুধিলে সেই এটা ক্ৰমেই উত্তৰ দিয়ে, হিচাপ লাগে নাই।"
+      ],
+      [
+        "h3",
+        "যোজ্যতা, জাৰণ সংখ্যা আৰু অণুৰ আকৃতি"
+      ],
+      [
+        "p",
+        "যোজ্যতা হ’ল মৌল এটাৰ সংযোগ ক্ষমতা, আৰু ই বাহিৰা ইলেক্ট্ৰনৰ পৰা আহে। জাৰণ সংখ্যা হ’ল ভগা ইলেক্ট্ৰনবোৰ সম্পূৰ্ণৰূপে বেছি বিদ্যুৎ-ঋণাত্মক পৰমাণুলৈ গ’লে পৰমাণুটোৱে পোৱা আধান। পানীত হাইড্ৰ’জেন যোগ এক আৰু অক্সিজেন ঋণাত্মক দুই; কাৰ্বন ডাইঅক্সাইডত কাৰ্বন যোগ চাৰি। জাৰণ সংখ্যা সৰু হিচাপ হিচাপে সোধা হয়, আৰু যোগফল মুঠ আধানের সমান হ’ব লাগে — এই নিয়মেই যথেষ্ট।"
+      ],
+      [
+        "p",
+        "অণুৰ আকৃতি কেন্দ্ৰীয় পৰমাণুৰ চাৰিওফালৰ ইলেক্ট্ৰন যোৰৰ পৰা আহে, কাৰণ যোৰবোৰে প্ৰতিকৰ্ষণ কৰি যিমান পাৰি দূৰত অৱস্থান লয়। দুযোৰত ৰৈখিক আকৃতি, যেনে কাৰ্বন ডাইঅক্সাইড। তিনি যোৰত ত্ৰিভুজীয় সমতলীয়, যেনে ব’ৰন ট্ৰাইফ্ল’ৰাইড। চাৰি যোৰত চতুস্তলকীয়, যেনে মিথেন। পানীত চাৰি যোৰ কিন্তু দুটা নিঃসঙ্গ, যিয়ে কোণটো ১০৯.৫ ৰ পৰা প্ৰায় ১০৪ ডিগ্ৰীলৈ টানি আনে, আৰু এম’নিয়াত এটা নিঃসঙ্গ যোৰ, কোণ প্ৰায় ১০৭ ডিগ্ৰী।"
+      ],
+      [
+        "h3",
+        "নাম ধৰি সোধা চাৰিটা যৌগৰ বান্ধোন"
+      ],
+      [
+        "p",
+        "ছডিয়াম ক্ল’ৰাইড আয়নীয়: Na⁺ আৰু Cl⁻ ৰ জালিকা, উতলাংক বেছি, গলিত অৱস্থাত বিদ্যুৎ নিবহন কৰে। কাৰ্বন ডাইঅক্সাইড সমযোজী, দুটা দ্বৈত বান্ধোন, সাধাৰণ উষ্ণতাত গেছ, নিবহন নকৰে। পানী ধ্ৰুৱীয় সমযোজী, দুটা একক বান্ধোন আৰু বেঁকা আকৃতি, আৰু ইয়াৰ হাইড্ৰ’জেন বান্ধোনে অস্বাভাৱিকভাৱে বেছি উতলাংক দিয়ে। এম’নিয়া ধ্ৰুৱীয় সমযোজী, তিনি একক বান্ধোন আৰু এটা নিঃসঙ্গ যোৰ, আৰু সেই নিঃসঙ্গ যোৰেই ইয়াক ক্ষাৰক বনায় আৰু এম’নিয়াম আয়নত সন্নিবেশ বান্ধোন গঠন কৰিবলৈ দিয়ে।"
+      ],
+      [
+        "p",
+        "এই চাৰিটা দৃঢ় হ’লে বাকী শিতানটো কেৱল ভিন্নতা। যৌগ দি বান্ধোনৰ ধৰণ সুধিলে ই কিৰে গঠিত চালেই হয়; ধৰ্ম দি বান্ধোনৰ ধৰণ সুধিলে গলনাংক আৰু পৰিবাহিতা চাই ওলোটা দিশৰ পৰা ভাবিব লাগে।"
+      ],
+      [
+        "h3",
+        "প্ৰশ্নকাকতত সোধা তিনি টোকা"
+      ],
+      [
+        "p",
+        "প্ৰথম: সমযোজী বান্ধোনত ইলেক্ট্ৰন ভগা হয়, আয়নীয়ত হস্তান্তৰ হয় — এই দুটা শব্দ প্ৰশ্নকাকতে স্পষ্টকৈ বিচাৰে। দ্বিতীয়: আয়নীয় যৌগৰ সংকেত আধান মিলাই লিখিব লাগে, যেনে মেগনেছিয়াম ক্ল’ৰাইড MgCl2, কাৰণ Mg²⁺ আৰু Cl⁻ — দুটা ক্ল’ৰিন লাগে। তৃতীয়: সমযোজী যৌগৰ সংকেত ভ্যালেন্সি মিলাই লিখিব লাগে, যেনে কাৰ্বন ডাইঅক্সাইড CO2, কাৰণ কাৰ্বনৰ চাৰি আৰু অক্সিজেনৰ দুই। এই তিনি টোকাই লিখাৰ ধৰণটো ঠিক কৰি দিয়ে, আৰু লিখাৰ ধৰণৰ ভুলতেই আটাইতকৈ বেছি নম্বৰ যায়।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "আয়নীয় যৌগে কঠিন অৱস্থাত বিদ্যুৎ নিবহন কৰে বুলি কোৱা — গলিত বা দ্ৰৱিত অৱস্থাত কৰে।",
+          "হীৰাক পৰিবাহী বুলি কোৱা, কাৰণ গ্ৰেফাইটত কাৰ্বনে নিবহন কৰে — হীৰাই নকৰে।",
+          "সমযোজী যৌগৰ গলনাংক সদায় বেছি বুলি কোৱা — সাধাৰণতে কম।",
+          "এম’নিয়াম আয়নত সন্নিবেশ বান্ধোন আছে বুলি পাহৰি যোৱা।",
+          "হাইড্ৰ’জেন বান্ধোনক হাইড্ৰ’জেন-অক্সিজেন সমযোজী বান্ধোন বুলি ভুল কৰা।"
+        ]
+      ],
+      [
+        "h3",
+        "দৈনন্দিন জীৱনত বান্ধোন"
+      ],
+      [
+        "p",
+        "পানী ১০০ ডিগ্ৰীত উতলে কাৰণ হাইড্ৰ’জেন বান্ধোনে অণুবোৰ ধৰি ৰাখে; তেল পানীত নিমিলে কাৰণ তেলৰ অণু অধ্ৰুৱীয় আৰু পানীৰ অণু ধ্ৰুৱীয়; নিমখ পানীত গলে কাৰণ আয়নবোৰ পানীৰ ধ্ৰুৱীয় অণুৱে আগুৰি লয়। এই তিনিটা দৈনন্দিন পৰিঘটনাৰ উত্তৰ একেই এটা ধাৰণাৰ পৰা আহে — বান্ধোন আৰু ধ্ৰুৱতা। প্ৰশ্নকাকতে কেতিয়াবা এনেকুৱা দৈনন্দিন উদাহৰণ দি কাৰণ সুধে, আৰু তেতিয়া ধাৰণাটোৰ নাম লিখিলেই নম্বৰ ওলায়।"
+      ],
+      [
+        "p",
+        "লগতে মনত ৰাখিব — ছডিয়াম ক্ল’ৰাইড পানীত গলে বিদ্যুৎ নিবহন কৰে, কাৰণ আয়নবোৰ মুক্ত হয়; চেনি পানীত গলে নিবহন কৰে, কাৰণ চেনি অণু, আয়ন নহয়। এই দুটা উদাহৰণ একেলগে লিখি ৰাখিলে পৰিবাহিতাৰ প্ৰশ্নত কেতিয়াও ভুল নহয়।"
+      ],
+      [
+        "h3",
+        "প্ৰশ্নকাকতত সোধা চাৰিটা সংজ্ঞা"
+      ],
+      [
+        "p",
+        "প্ৰথম: বান্ধোন শক্তি — এক ম’ল বান্ধোন সম্পূৰ্ণৰূপে ভাঙিবলৈ লগা শক্তি। দ্বিতীয়: বান্ধোন দৈৰ্ঘ্য — বন্ধা দুটা নিউক্লিয়াছৰ মাজৰ দূৰত্ব। তৃতীয়: আয়নীকৰণ শক্তি — গেছীয় পৰমাণুৰ পৰা ইলেক্ট্ৰন আঁতৰাবলৈ লগা শক্তি। চতুৰ্থ: বিদ্যুৎ-ঋণাত্মকতা — বান্ধোনত ইলেক্ট্ৰন যোৰ টনাৰ ক্ষমতা। এই চাৰিটা সংজ্ঞা লগে লগে লিখি ৰাখিলে ইহঁতৰ মাজৰ পাৰ্থক্য স্পষ্ট হয়, আৰু কোনটো কাক বোলে ধৰণৰ প্ৰশ্নত কেতিয়াও মিলি নাযায়।"
+      ],
+      [
+        "p",
+        "লগতে এটা সাৱধানতা: বান্ধোন শক্তি আৰু বান্ধোন দৈৰ্ঘ্যৰ সম্পৰ্ক ওলোটা — দৈৰ্ঘ্য কমিলে শক্তি বাঢ়ে। প্ৰশ্নত কেতিয়াবা এটা দি আনটো সুধে, আৰু যিয়ে সম্পৰ্কটো নাজানে তেওঁ ওলোটা উত্তৰ দিয়ে। এশাৰী মনত ৰাখিলেই এই ফান্দৰ পৰা ৰক্ষা পোৱা যায়। এই চাৰিটা সংজ্ঞা আৰু দুটা সম্পৰ্ক — এই কেইটাই এই শিতানৰ গোটেই সংখ্যামূলক আৰু সংজ্ঞামূলক অংশ সামৰি লয়।"
+      ],
+      [
+        "h3",
+        "এই শিতানত দহ দিন"
+      ],
+      [
+        "p",
+        "দুদিন অষ্টক নিয়ম আৰু চাৰিটা বান্ধোনত, এটাকৈ উদাহৰণ দি। দুদিন আয়নীয় বান্ধোনত — আধান মিলাই NaCl, MgCl2, CaO আৰু Al2O3 লিখি। দুদিন সমযোজী বান্ধোনত — পানী, এম’নিয়া, মিথেন আৰু কাৰ্বন ডাইঅক্সাইডৰ লুইছ গঠন আঁকি। দুদিন হীৰা বনাম গ্ৰেফাইট আৰু ধাতৱীয় বান্ধোনৰ ধৰ্মত। শেষৰ দুদিন: ধ্ৰুৱতা, হাইড্ৰ’জেন বান্ধোন আৰু এই বেংকৰ প্ৰশ্ন।"
+      ],
+      [
+        "tip",
+        "প্ৰথমে বান্ধোনৰ ধৰণ নিৰ্ণয় কৰক: ধাতু + অধাতু = আয়নীয়, অধাতু + অধাতু = সমযোজী। তাৰ পিছত ধৰ্মবোৰ নিজেই ওলাই যায় — গলনাংক, পৰিবাহিতা আৰু দ্ৰৱণীয়তা, তিনিৰে মূল সেই এটা সিদ্ধান্ততে।"
+      ]
+    ]
   }
 }
