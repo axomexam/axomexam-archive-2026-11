@@ -370,15 +370,21 @@ function labelFor(map, segs) {
 
 /* A title that always keeps the distinguishing suffix (the exam name) even
    after trimming, so two pages that share a topic name stay distinct. */
-function titled(name, suffix) {
+function titled(name, ...suffixes) {
   /* An ellipsis in the middle of a title wastes the snippet and reads as
-     unfinished, so the suffix is what gives way: a name that fits on its own
-     is kept whole, and only a name longer than the whole budget is trimmed.
-     Keep at least 24 chars of the name: a smaller budget makes two long
-     sibling names truncate to the same string and collide. */
-  const full = `${name} — ${suffix}`;
-  if (full.length <= 60) return full;
+     unfinished, so the suffix is what gives way. Try each suffix from the
+     most informative down; the longest exam name never fits next to a leaf
+     name, and returning the bare name left 241 pages with a 10-character
+     title. Only a name longer than the whole budget is trimmed. Keep at least
+     24 chars of the name: a smaller budget makes two long sibling names
+     truncate to the same string and collide. */
+  for (const suffix of suffixes) {
+    if (!suffix) continue;
+    const full = `${name} — ${suffix}`;
+    if (full.length <= 60) return full;
+  }
   if (name.length <= 60) return name;
+  const suffix = suffixes[0] || "";
   const budget = Math.max(24, 57 - suffix.length - 3);
   return clamp(name, budget) + " — " + suffix;
 }
@@ -460,7 +466,7 @@ function headFor(rel) {
         };
       }
       return {
-        title: titled(shortName, `${examLabel} | প্ৰশ্ন আৰু উত্তৰ`),
+        title: titled(shortName, `${examLabel} | প্ৰশ্ন আৰু উত্তৰ`, `${examLabel} | প্ৰশ্নোত্তৰ`, examLabel, "প্ৰশ্ন আৰু উত্তৰ"),
         meta: `${examLabel} পৰীক্ষাৰ বাবে ${shortName}ৰ প্ৰশ্ন আৰু ব্যাখ্যা — বিনামূলীয়া, দ্বিভাষিক।`,
         h1: `${shortName} — ${examLabel}`,
       };
@@ -715,6 +721,169 @@ function assamesePanelFirst(html) {
   return html;
 }
 
+/* An /as/ page used to ship both languages, which made it 82% identical to
+   its English twin and left Google choosing between two copies of the same
+   text. The Assamese page now keeps the Assamese half of every pair and drops
+   the English duplicate, so the pair is a real translation pair: the English
+   page stays bilingual, the Assamese page reads as an Assamese page.
+   A block whose Assamese half is missing is kept in English rather than
+   dropped — losing a question would be far worse than repeating one. */
+function assameseOnly(html, head) {
+  const bn = (v) => String(v).replace(/\d/g, (d) => "০১২৩৪৫৬৭৮৯"[+d]);
+
+  /* Direct children of an element, found by balanced scan. A lazy regex stops
+     at the first nested closing tag, and the option wrapper is nested. */
+  function children(inner) {
+    const kids = [];
+    const re = /<div\b|<\/div>/g;
+    let depth = 0, startAt = -1, m;
+    while ((m = re.exec(inner))) {
+      if (m[0] === "<div") {
+        if (depth === 0) startAt = m.index;
+        depth += 1;
+      } else {
+        depth -= 1;
+        if (depth === 0) kids.push(inner.slice(startAt, m.index + 6));
+      }
+    }
+    return kids;
+  }
+
+  const innerOf = (block) => block.slice(block.indexOf(">") + 1, block.lastIndexOf("</div>"));
+  const is = (block, re) => re.test(block);
+
+  function kindOf(block) {
+    if (is(block, /^<div class="nv-media">/)) return "fig";
+    if (is(block, /^<div style="margin-top:8px; color:#334155;">/)) return "options";
+    if (is(block, /^<div class="nv-fig-grid/)) return "figoptions";
+    if (is(block, /^<div lang="en" style="font-weight:800; font-size:1\.02rem;/)) return "stemEn";
+    if (is(block, /^<div lang="as" style="color:#64748b; font-size:0\.9rem; line-height:1\.6; margin-bottom:8px;">/)) return "stemAs";
+    if (is(block, /^<div lang="en" style="margin-top:8px;"><strong>Answer:<\/strong>/)) return "ansEn";
+    if (is(block, /^<div lang="as" style="color:#64748b; font-size:0\.9rem;">/)) return "ansAs";
+    if (is(block, /^<div lang="en" style="margin-top:6px; font-size:0\.9rem; color:#64748b;"><strong>Explanation:<\/strong>/)) return "exEn";
+    if (is(block, /^<div lang="as" style="font-size:0\.9rem; color:#64748b;">/)) return "exAs";
+    return "other";
+  }
+
+  /* Option lines carry the English term inside an Assamese span; keep both,
+     Assamese first, because the paper uses the English technical word. */
+  const asOptions = (block) => {
+    const openEnd = block.indexOf(">") + 1;
+    const kids = children(block.slice(openEnd, block.lastIndexOf("</div>")));
+    const out = kids.map((kid) => {
+      const m = kid.match(/^<div lang="en" style="margin:2px 0;">\(([A-Z])\) ([^<]*) <span lang="as" style="color:#64748b;">([^<]*)<\/span><\/div>$/);
+      if (!m) return kid;
+      return `<div lang="as" style="margin:2px 0;">(${m[1]}) ${m[3]} <span lang="en" style="color:#94a3b8;">(${m[2]})</span></div>`;
+    });
+    return block.slice(0, openEnd) + out.join("") + "</div>";
+  };
+
+  function itemOnly(item) {
+    const openEnd = item.indexOf(">") + 1;
+    const kids = children(item.slice(openEnd, item.lastIndexOf("</div>")));
+    const kinds = kids.map(kindOf);
+    const has = (k) => kinds.includes(k);
+    const out = [];
+
+    kids.forEach((kid, i) => {
+      switch (kinds[i]) {
+        case "stemEn":
+          if (!has("stemAs")) out.push(kid);
+          break;
+        case "stemAs": {
+          const num = (kids[kinds.indexOf("stemEn")] || "").match(/Q(\d+)\./);
+          out.push(`<div lang="as" style="font-weight:800; font-size:1.02rem; line-height:1.5; margin-bottom:6px;">${num ? bn(num[1]) + ". " : ""}${innerOf(kid)}</div>`);
+          break;
+        }
+        case "ansEn":
+          if (!has("ansAs")) out.push(kid);
+          break;
+        case "ansAs":
+          out.push(`<div lang="as" style="margin-top:8px;"><strong>উত্তৰ:</strong> <span>${innerOf(kid)}</span></div>`);
+          break;
+        case "exEn":
+          if (!has("exAs")) out.push(kid);
+          break;
+        case "exAs":
+          out.push(`<div lang="as" style="margin-top:6px; font-size:0.9rem; color:#64748b;"><strong>ব্যাখ্যা:</strong> ${innerOf(kid)}</div>`);
+          break;
+        case "options":
+          out.push(asOptions(kid));
+          break;
+        default:
+          out.push(kid);
+      }
+    });
+
+    return item.slice(0, openEnd) + out.join("") + "</div>";
+  }
+
+  /* Rebuild every qa-item in place. */
+  const OPEN = '<div class="qa-item"';
+  let result = "", pos = 0;
+  for (;;) {
+    const at = html.indexOf(OPEN, pos);
+    if (at < 0) break;
+    const openEnd = html.indexOf(">", at) + 1;
+    const re = /<div\b|<\/div>/g;
+    re.lastIndex = openEnd;
+    let depth = 1, end = -1, m;
+    while ((m = re.exec(html))) {
+      depth += m[0] === "<div" ? 1 : -1;
+      if (depth === 0) { end = m.index + 6; break; }
+    }
+    if (end < 0) break;
+    result += html.slice(pos, at) + itemOnly(html.slice(at, end));
+    pos = end;
+  }
+  html = result + html.slice(pos);
+
+  /* question-count heading */
+  html = html.replace(
+    /(<h2 style="font-size:1\.15rem; margin-bottom:18px;">)(\d+) Questions with Answers<\/h2>/g,
+    (m, open, n) => `${open}${bn(n)} টা প্ৰশ্ন আৰু উত্তৰ</h2>`
+  );
+
+  /* study notes: everything before the Assamese heading is the English copy.
+     The English wrapper holds nested divs (tips), so the cut is anchored on
+     the Assamese heading rather than on a closing tag. */
+  html = html.replace(
+    /<h2 style="font-size:1\.25rem; margin:0 0 6px;">[\s\S]*?(?=<h2 style="font-size:1\.2rem; margin:34px 0 6px;">)/,
+    ""
+  );
+  html = html.replace(/<h2 style="font-size:1\.2rem; margin:34px 0 6px;">/, '<h2 style="font-size:1.25rem; margin:0 0 6px;">');
+
+  /* editorial credit: keep the Assamese panel */
+  html = html.replace(
+    /<div lang="en" data-axo-lang="en" class="info-panel"[\s\S]*?(?=<div lang="as" data-axo-lang="as" class="info-panel")/g,
+    ""
+  );
+
+  /* JSON-LD: the copied graph still describes the page in English */
+  html = html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g, (m, json) => {
+    try {
+      const data = JSON.parse(json);
+      const keepEnglish = new Set(["BreadcrumbList", "Organization", "WebSite", "SearchAction", "ListItem"]);
+      const visit = (node) => {
+        if (Array.isArray(node)) return node.forEach(visit);
+        if (!node || typeof node !== "object") return;
+        if (keepEnglish.has(node["@type"])) return;
+        if (typeof node.name === "string" && /^[A-Za-z]/.test(node.name)) node.name = head.title;
+        if (typeof node.headline === "string") node.headline = head.title;
+        if (typeof node.description === "string" && /^[A-Za-z]/.test(node.description)) node.description = head.meta;
+        if (Array.isArray(node.inLanguage)) node.inLanguage = ["as"];
+        Object.values(node).forEach(visit);
+      };
+      visit(data);
+      return `<script type="application/ld+json">${JSON.stringify(data)}</script>`;
+    } catch {
+      return m;
+    }
+  });
+
+  return html;
+}
+
 function buildTwin(enHTML, rel, head) {
   const asURL = `${BASE}/as/${rel ? rel + "/" : ""}`;
 
@@ -772,8 +941,14 @@ function buildTwin(enHTML, rel, head) {
   out = out.replace(/"inLanguage":\s*\[\s*"en"\s*,\s*"as"\s*\]/g, '"inLanguage":["as"]');
   out = out.replace(/"inLanguage":\s*"en"/g, '"inLanguage":"as"');
 
-  /* Lead with Assamese: put the Assamese half of every bilingual pair first
-     in the served HTML so a crawler reads Assamese before English. */
+  /* Drop the English half of every bilingual block so the page is a genuine
+     translation rather than a copy of its English twin. This runs before the
+     reorder below: the generator emits English then Assamese, and the
+     transform matches on that order. */
+  out = assameseOnly(out, head);
+
+  /* Lead with Assamese: put the Assamese half of every remaining bilingual
+     pair first in the served HTML so a crawler reads Assamese first. */
   out = assamesePanelFirst(assameseFirst(out));
 
   /* Translate the visible body prose. The English page's <main> is copied

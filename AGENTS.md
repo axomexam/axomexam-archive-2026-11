@@ -3727,3 +3727,20 @@ languages, written for the paper (not a textbook summary).
   the hreflang trio, and has the AdSense loader on English only. Run it after
   each content batch; it caught nothing so far because the builder writes the
   Q&A into the served HTML rather than hydrating it in the browser.
+- `/as/` pages are translations, not copies. `assameseOnly()` in
+  `build-as-twins.js` keeps the Assamese half of each bilingual block and
+  drops the English duplicate (question stem, options, answer, explanation,
+  study notes, editorial panel, JSON-LD). It runs before `assameseFirst()`
+  because the generator emits English then Assamese and the transform matches
+  on that order. It scans balanced divs, never regex across them: a lazy regex
+  ran past the end of an item and deleted 95 of 99 questions on one page.
+  A block whose Assamese half is missing stays in English — losing a question
+  is worse than repeating one.
+- Measure it with `node tools/check-crawler-content.js`: the `EN/AS overlap`
+  line reports the median and worst 8-word shingle overlap. Book pages sat at
+  82% before the change and 29% after. Grammar and puzzle topics stay higher
+  (narration 70%) because the sentences under test are English and the numbers
+  are numbers; that overlap is legitimate.
+- 118 Assamese pages outside the book (ebooks at 100%, topic/gk, exam hubs,
+  syllabus, legal pages) are still near-copies. They need Assamese body text;
+  markup cannot fix them.

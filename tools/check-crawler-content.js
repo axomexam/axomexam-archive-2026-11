@@ -74,6 +74,42 @@ for (const { file, html } of pages) {
   if (asHtml.includes("adsbygoogle.js")) problems.push(`${rel}: Assamese twin carries AdSense code (unsupported language)`);
 }
 
+/* Duplicate check: the Assamese twin should be a translation, not a copy. A
+   high 8-word shingle overlap means the English text is still being served on
+   both pages. Grammar and puzzle topics overlap legitimately because the
+   sentences under test are English and the numbers are numbers, so only a
+   near-total overlap is reported. */
+const wordsOf = (html) =>
+  html
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&[a-z#0-9]+;/gi, " ")
+    .split(/\s+/)
+    .filter(Boolean);
+
+const shingles = (words, n = 8) => {
+  const set = new Set();
+  for (let i = 0; i + n <= words.length; i++) set.add(words.slice(i, i + n).join(" "));
+  return set;
+};
+
+const overlaps = [];
+for (const { file, html } of pages) {
+  const rel = path.relative(path.join(ROOT, "exams"), path.dirname(file));
+  const asFile = path.join(ROOT, "as", "exams", rel, "index.html");
+  if (!fs.existsSync(asFile)) continue;
+  const en = shingles(wordsOf(html));
+  const as = shingles(wordsOf(fs.readFileSync(asFile, "utf8")));
+  if (!as.size) continue;
+  let shared = 0;
+  for (const s of as) if (en.has(s)) shared += 1;
+  const pct = (shared / as.size) * 100;
+  overlaps.push({ pct, rel });
+  if (pct > 85) problems.push(`${rel}: Assamese twin is ${pct.toFixed(0)}% a copy of the English page`);
+}
+overlaps.sort((a, b) => b.pct - a.pct);
+
 const css = fs.readFileSync(path.join(ROOT, "css", "style.css"), "utf8");
 if (/\[lang=[a-z]+\][^{]*\{[^}]*display:\s*none/.test(css)) {
   problems.push("css/style.css hides content by language, so one language is invisible to crawlers");
@@ -83,6 +119,10 @@ console.log(`crawler check — ${BOOK}`);
 console.log(`  topics              : ${stats.topics} (English + Assamese = ${stats.topics * 2} pages)`);
 console.log(`  static questions    : EN ${stats.enQuestions}, AS ${stats.asQuestions}`);
 console.log(`  AdSense loader      : EN ${stats.enLoader}/${stats.topics}, AS ${stats.asLoader}/${stats.topics}`);
+if (overlaps.length) {
+  const mid = overlaps[Math.floor(overlaps.length / 2)].pct;
+  console.log(`  EN/AS overlap       : median ${mid.toFixed(0)}% | max ${overlaps[0].pct.toFixed(0)}% (${overlaps[0].rel})`);
+}
 console.log(`  problems            : ${problems.length}`);
 for (const p of problems.slice(0, 20)) console.log(`    - ${p}`);
 if (problems.length > 20) console.log(`    ... +${problems.length - 20} more`);
