@@ -1852,5 +1852,331 @@
         "চৰ্বি-দ্ৰৱণীয় চাৰিটা ভিটামিন এটা শব্দ হিচাপে লিখি থওক — A, D, E, K — আৰু বাকী আটাই পানী-দ্ৰৱণীয়। এই এশাৰীয়ে তালিকাখন নোচোৱাকৈ আধা প্ৰশ্নৰ উত্তৰ দিয়ে।"
       ]
     ]
+  },
+  "diseases-health": {
+    "en": [
+      [
+        "h3",
+        "The shape of this block"
+      ],
+      [
+        "p",
+        "Disease questions in the technical paper follow one pattern almost without exception: name the disease, ask for the causative organism, or ask for the vector, or ask for the mode of spread. That is three columns and about thirty rows, and once they are learnt the block is closed. The clinical detail is not what is being tested; the classification is."
+      ],
+      [
+        "p",
+        "So the efficient way to study this topic is to sort diseases by organism first — bacterial, viral, protozoan, helminthic, fungal — because the same question usually gives away the organism and asks for the disease, or the other way round. A candidate who knows that cholera is bacterial and malaria is protozoan has already eliminated two options in most questions."
+      ],
+      [
+        "h3",
+        "Bacterial diseases, the standard six"
+      ],
+      [
+        "ul",
+        [
+          "Tuberculosis — Mycobacterium tuberculosis — droplet spread — chronic cough, evening fever, weight loss — treated under NTEP with DOTS.",
+          "Cholera — Vibrio cholerae — contaminated water — rice-water stools — the classic water-borne disease.",
+          "Typhoid — Salmonella typhi — contaminated food and water — step-ladder fever — Widal test.",
+          "Leprosy — Mycobacterium leprae — prolonged close contact — skin patches with loss of sensation.",
+          "Tetanus — Clostridium tetani — wound contaminated with soil — lockjaw — prevented by TT vaccine.",
+          "Diphtheria — Corynebacterium diphtheriae — droplet — grey throat membrane — prevented by DPT."
+        ]
+      ],
+      [
+        "p",
+        "Two of these are worth a second line. Tuberculosis is spread by droplets, not by touch, and it is the disease the DOTS programme exists for; a question that asks what DOTS stands for wants 'directly observed treatment, short course'. Tetanus is not spread person to person at all — the spores come from soil into a wound, which is why the vaccine is given in pregnancy and after injury rather than in an outbreak."
+      ],
+      [
+        "h3",
+        "Viral diseases and their vectors"
+      ],
+      [
+        "ul",
+        [
+          "Influenza — influenza virus — droplet — fever, body ache.",
+          "Poliomyelitis — poliovirus — faecal-oral — paralysis in children — prevented by OPV and IPV.",
+          "Measles — measles virus — droplet — Koplik spots, rash — prevented by MR vaccine.",
+          "Rabies — rabies virus — bite of an infected animal, usually dog — 100 per cent fatal once symptoms start, prevented by post-exposure vaccination.",
+          "Hepatitis B — hepatitis B virus — blood, needles, sexual contact, mother to child — prevented by the birth-dose vaccine.",
+          "Dengue — dengue virus — Aedes aegypti mosquito, which bites in daytime.",
+          "Chikungunya — chikungunya virus — the same Aedes mosquito.",
+          "Japanese encephalitis — JE virus — Culex mosquito — Assam is a known endemic area."
+        ]
+      ],
+      [
+        "p",
+        "The mosquito lines are asked every year. Anopheles carries malaria and bites at night; Aedes carries dengue and chikungunya and bites in the day; Culex carries Japanese encephalitis and filariasis. Three mosquitoes, three diseases, and the question is usually a matching one."
+      ],
+      [
+        "h3",
+        "Protozoan and helminthic diseases"
+      ],
+      [
+        "p",
+        "Malaria is caused by Plasmodium, with four species in India and Plasmodium falciparum being the dangerous one. It is transmitted by the female Anopheles mosquito, and the parasite first multiplies in the liver and then in red cells, which is why the fever comes in cycles. Kala-azar, or visceral leishmaniasis, is caused by Leishmania and spread by the sandfly; Assam has historically been an endemic state, and the programme against it is part of the state's health history."
+      ],
+      [
+        "p",
+        "Amoebic dysentery is caused by Entamoeba histolytica and spread by contaminated food and water. Among helminths, ascariasis is caused by the roundworm Ascaris, hookworm causes anaemia by sucking blood from the gut wall, filariasis is caused by Wuchereria and spread by Culex, and tapeworm comes from undercooked pork or beef. Deworming programmes in schools exist because of the first two."
+      ],
+      [
+        "h3",
+        "Communicable and non-communicable, and why the line matters"
+      ],
+      [
+        "p",
+        "A communicable disease passes from person to person or from an animal or vector; a non-communicable one does not. Tuberculosis, cholera and malaria are communicable. Diabetes, hypertension, cancer and asthma are not. The line matters because the whole public health response differs: communicable diseases need surveillance, isolation and vector control, while non-communicable diseases need screening and lifestyle change."
+      ],
+      [
+        "p",
+        "Non-communicable diseases are now the larger cause of death in India, and the technical paper reflects that with questions on risk factors. Smoking, alcohol, obesity, a sedentary life, high salt intake and family history are the standard list, and hypertension plus diabetes together are called the metabolic syndrome when they appear in the same person."
+      ],
+      [
+        "h3",
+        "Prevention, in the language of the paper"
+      ],
+      [
+        "p",
+        "Prevention is written as three levels. Primary prevention stops the disease before it starts: vaccination, safe water, mosquito nets, health education. Secondary prevention finds it early: screening, blood pressure checks, sputum tests. Tertiary prevention limits disability after it has happened: physiotherapy, rehabilitation, treatment of complications."
+      ],
+      [
+        "p",
+        "The word 'notifiable' is worth knowing. A notifiable disease must be reported to the health authority by law, and the list includes cholera, plague, yellow fever, dengue and tuberculosis in most Indian states. A question asking why a disease is notified wants 'so that surveillance and control can start early', not treatment."
+      ],
+      [
+        "h3",
+        "Immunity and vaccines, in four lines"
+      ],
+      [
+        "p",
+        "Immunity is either active or passive. Active immunity is made by the body after infection or vaccination, and it lasts years; passive immunity is given ready-made, as antibodies from the mother through the placenta and breast milk, or as an antiserum after a snake bite, and it lasts weeks. The paper asks which one a vaccine produces: active."
+      ],
+      [
+        "p",
+        "Vaccines are live attenuated, killed, toxoid or subunit. BCG against tuberculosis is live attenuated and is given at birth. OPV is live, IPV is killed. TT is a toxoid, which is why it works against a toxin rather than against the bacterium itself. A question that asks what a toxoid is wants a modified toxin that still provokes antibodies."
+      ],
+      [
+        "p",
+        "The cold chain matters because most vaccines lose potency if they freeze or get warm. That is why the vaccine carrier, the ice pack and the temperature log exist, and why a question about a vaccine that failed to protect often turns on storage rather than on the child."
+      ],
+      [
+        "h3",
+        "Five questions from this bank, worked"
+      ],
+      [
+        "p",
+        "A patient has fever with chills every third day. Which disease? Malaria, and the cycle points to Plasmodium vivax rather than falciparum. A child has a grey membrane in the throat and difficulty breathing. Which disease? Diphtheria, and the antitoxin is given along with antibiotics."
+      ],
+      [
+        "p",
+        "A village has many cases of jaundice after the monsoon. Which is the most likely route? Contaminated water, which points to hepatitis A or E rather than B. A dog bites a child on the hand. What is given? Rabies vaccine immediately, plus immunoglobulin for a deep wound, and the wound is washed with soap and water for fifteen minutes, which is the step candidates forget."
+      ],
+      [
+        "h3",
+        "Assam-specific disease lines"
+      ],
+      [
+        "p",
+        "Japanese encephalitis is the one to know for Assam. It is viral, spread by Culex, and it affects children in the flood-prone districts; vaccination was added to the routine schedule in the affected districts, and the pig is the amplifying host. Floods also bring diarrhoeal disease and leptospirosis, and the health response is chlorination of water sources and rapid diarrhoea treatment corners."
+      ],
+      [
+        "p",
+        "Malaria in Assam has a distinct pattern because of the hill districts and the forest fringe, where Plasmodium falciparum dominates. Kala-azar has been brought down sharply but the state still reports cases, and the sandfly control programme continues. These lines are what a state-level question looks like, and they are worth one reading before the exam."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Saying malaria is caused by a virus. It is a protozoan, Plasmodium.",
+          "Attributing dengue to Anopheles. Dengue is Aedes, and it bites in the day.",
+          "Calling tetanus contagious. It comes from soil into a wound.",
+          "Mixing kala-azar with malaria — different parasite, different vector (sandfly).",
+          "Answering 'treatment' when the question asks why a disease is notifiable."
+        ]
+      ],
+      [
+        "h3",
+        "Ten days on this topic"
+      ],
+      [
+        "p",
+        "Two days on the bacterial list, saying organism and mode of spread for each. Two days on the viral list, with the three mosquitoes drawn as a small table. Two days on protozoa and helminths, with the Assam endemic ones marked. Two days on communicable versus non-communicable and the three levels of prevention. The last two days: matching questions from this bank, timed, and a rewrite of every organism name that slipped."
+      ],
+      [
+        "tip",
+        "Sort by organism, not by symptom. Bacterial, viral, protozoan, helminthic, fungal — five boxes. In the hall, the first thing to do with a disease question is to decide which box it belongs to, because that alone usually removes two options."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "এই শিতানৰ গঠন"
+      ],
+      [
+        "p",
+        "কাৰিকৰী প্ৰশ্নকাকতত ৰোগৰ প্ৰশ্ন প্ৰায় একেই আৰ্হিত আহে: ৰোগৰ নাম দি ৰোগজীৱাণু সুধে, বা বাহক সুধে, বা বিস্তাৰৰ পথ সুধে। সেয়া তিনি স্তম্ভ আৰু প্ৰায় ত্ৰিশ শাৰী, আৰু এবাৰ শিকিলে শিতানটো সামৰি পেলোৱা যায়। পৰীক্ষা কৰা নহয় ক্লিনিকেল বিৱৰণ; শ্ৰেণীবিভাগহে।"
+      ],
+      [
+        "p",
+        "সেয়ে এই শিতান শিকাৰ কাৰ্যকৰী উপায় হ’ল — প্ৰথমে ৰোগজীৱাণু অনুসৰি সজোৱা: বেক্টেৰিয়াজনিত, ভাইৰাছজনিত, প্ৰ’ট’জ’ৱাজনিত, কৃমিজনিত, ভেঁকুৰজনিত — কাৰণ একেই প্ৰশ্নই সাধাৰণতে ৰোগজীৱাণু দি ৰোগ সুধে, বা ওলোটা কৰে। যিয়ে জানে কলেৰা বেক্টেৰিয়াজনিত আৰু মেলেৰিয়া প্ৰ’ট’জ’ৱাজনিত, তেওঁ বেছিভাগ প্ৰশ্নতে দুটা বিকল্প আগতেই বাদ দি দিয়ে।"
+      ],
+      [
+        "h3",
+        "বেক্টেৰিয়াজনিত ৰোগ — সাধাৰণ ছটা"
+      ],
+      [
+        "ul",
+        [
+          "যক্ষ্মা — Mycobacterium tuberculosis — শ্বাস-বিন্দুৰে — দীঘলীয়া কাহ, সন্ধিয়া জ্বৰ, ওজন কমা — NTEP ৰ DOTS ৰে চিকিৎসা।",
+          "কলেৰা — Vibrio cholerae — দূষিত পানী — ভাতৰ মাৰৰ দৰে মল — পানীজনিত ৰোগৰ আদৰ্শ উদাহৰণ।",
+          "টাইফয়ড — Salmonella typhi — দূষিত খাদ্য আৰু পানী — খপ খপকৈ বঢ়া জ্বৰ — Widal পৰীক্ষা।",
+          "কুষ্ঠ — Mycobacterium leprae — দীঘলীয়া নিকট সম্পৰ্ক — সংবেদন নোহোৱা ছালৰ দাগ।",
+          "টেটানাছ — Clostridium tetani — মাটি লগা ঘা — মুখৰ হাড় জমা — TT টীকাৰে ৰোধ।",
+          "ডিফথেৰিয়া — Corynebacterium diphtheriae — শ্বাস-বিন্দু — ডিঙিত ধূসৰ আৱৰণ — DPT ৰে ৰোধ।"
+        ]
+      ],
+      [
+        "p",
+        "ইয়াৰ দুটাত এশাৰী বেছি যোগ কৰা ভাল। যক্ষ্মা শ্বাস-বিন্দুৰে বিয়পে, স্পৰ্শৰে নহয়, আৰু DOTS কাৰ্যসূচি যাৰ বাবে আছে সেই ৰোগ এয়েই; 'DOTS ৰ পূৰ্ণ ৰূপ কি' সুধিলে উত্তৰ 'directly observed treatment, short course'। টেটানাছ মানুহৰ পৰা মানুহলৈ নিবিয়পে — বীজাণু মাটিৰ পৰা ঘালৈ আহে, সেয়ে টীকা গৰ্ভাৱস্থাত আৰু আঘাতৰ পিছত দিয়া হয়, মহামাৰীত নহয়।"
+      ],
+      [
+        "h3",
+        "ভাইৰাছজনিত ৰোগ আৰু বাহক"
+      ],
+      [
+        "ul",
+        [
+          "ইনফ্লুয়েঞ্জা — ইনফ্লুয়েঞ্জা ভাইৰাছ — শ্বাস-বিন্দু — জ্বৰ, গা বেয়া।",
+          "পলিঅ’ — পলিঅ’ ভাইৰাছ — মল-মুখ — শিশুত পক্ষাঘাত — OPV আৰু IPV ৰে ৰোধ।",
+          "মীমাংসা (মিজলছ) — মিজলছ ভাইৰাছ — শ্বাস-বিন্দু — Koplik দাগ, ছালত দাগ — MR টীকাৰে ৰোধ।",
+          "ৰেবিজ — ৰেবিজ ভাইৰাছ — সংক্ৰান্ত জন্তুৰ কামোৰ, সাধাৰণতে কুকুৰ — লক্ষণ ওলালে শতভাগ মাৰাত্মক, আঘাতৰ পিছৰ টীকাৰে ৰোধ।",
+          "হেপাটাইটিছ B — হেপাটাইটিছ B ভাইৰাছ — তেজ, ছিৰিঞ্জ, যৌন সম্পৰ্ক, মাকৰ পৰা সন্তানলৈ — জন্মৰ সময়ৰ টীকাৰে ৰোধ।",
+          "ডেংগু — ডেংগু ভাইৰাছ — এডিছ ইজিপ্টাই মশা, যি দিনত কামোৰে।",
+          "চিকুনগুনিয়া — চিকুনগুনিয়া ভাইৰাছ — একেই এডিছ মশা।",
+          "জাপানী এনকেফেলাইটিছ — JE ভাইৰাছ — কুলেক্স মশা — অসম এখন প্ৰতিষ্ঠিত প্ৰভাৱিত অঞ্চল।"
+        ]
+      ],
+      [
+        "p",
+        "মশাৰ শাৰীকেইটা বছৰি সোধা হয়। এন’ফিলিছে মেলেৰিয়া বহন কৰে আৰু ৰাতি কামোৰে; এডিছে ডেংগু আৰু চিকুনগুনিয়া বহন কৰে আৰু দিনত কামোৰে; কুলেক্সে জাপানী এনকেফেলাইটিছ আৰু ফাইলেৰিয়াছিছ বহন কৰে। তিনি মশা, তিনি ৰোগ, আৰু প্ৰশ্ন সাধাৰণতে মিলোৱা ধৰণৰ।"
+      ],
+      [
+        "h3",
+        "প্ৰ’ট’জ’ৱা আৰু কৃমিজনিত ৰোগ"
+      ],
+      [
+        "p",
+        "মেলেৰিয়াৰ কাৰণ প্লাজম’ডিয়াম, ভাৰতত চাৰিটা প্ৰজাতি আৰু প্লাজম’ডিয়াম ফেলছিপেৰাম বিপদজনক। ই মাইকী এন’ফিলিছ মশাৰে বিয়পে, আৰু পৰজীৱী প্ৰথমে যকৃতত আৰু তাৰ পিছত ৰক্তকণিকাত বাঢ়ে — সেয়ে জ্বৰ চক্ৰ হিচাপে আহে। কালা-জ্বৰ বা ভিছেৰেল লেইছমেনিয়াছিছৰ কাৰণ লেইছমেনিয়া, বাহক ছেণ্ডফ্লাই; অসম ঐতিহাসিকভাৱে প্ৰভাৱিত ৰাজ্য আছিল, আৰু ইয়াৰ বিৰুদ্ধে কাৰ্যসূচি ৰাজ্যৰ স্বাস্থ্য ইতিহাসৰ অংশ।"
+      ],
+      [
+        "p",
+        "এমিবিক উদৰাময়ৰ কাৰণ Entamoeba histolytica, দূষিত খাদ্য আৰু পানীৰে বিয়পে। কৃমিৰ ভিতৰত এছকাৰিয়াছিছৰ কাৰণ গোলকৃমি Ascaris, হুকৱৰ্মে অন্ত্ৰৰ বেৰৰ পৰা তেজ শুহি ৰক্তহীনতা কৰে, ফাইলেৰিয়াছিছৰ কাৰণ Wuchereria আৰু বাহক কুলেক্স, আৰু টেপৱৰ্ম কম ৰন্ধা গাহৰি বা গৰুৰ মাংসৰ পৰা আহে। স্কুলত কৃমিনাশক কাৰ্যসূচি থকাৰ কাৰণ প্ৰথম দুটাই।"
+      ],
+      [
+        "h3",
+        "সংক্ৰামক আৰু অসংক্ৰামক — শাৰীটো কিয় গুৰুত্বপূৰ্ণ"
+      ],
+      [
+        "p",
+        "সংক্ৰামক ৰোগ মানুহৰ পৰা মানুহলৈ, বা জন্তু বা বাহকৰ পৰা বিয়পে; অসংক্ৰামক নিবিয়পে। যক্ষ্মা, কলেৰা আৰু মেলেৰিয়া সংক্ৰামক। ডায়েবিটিছ, উচ্চ ৰক্তচাপ, কৰ্কট আৰু হাঁপানি নহয়। শাৰীটো গুৰুত্বপূৰ্ণ কাৰণ জনস্বাস্থ্যৰ সঁহাৰি সম্পূৰ্ণ বেলেগ: সংক্ৰামক ৰোগত নজৰদাৰী, পৃথকীকৰণ আৰু বাহক নিয়ন্ত্ৰণ লাগে, অসংক্ৰামকত পৰীক্ষা আৰু জীৱনশৈলীৰ পৰিৱৰ্তন লাগে।"
+      ],
+      [
+        "p",
+        "ভাৰতত মৃত্যুৰ ডাঙৰ কাৰণ এতিয়া অসংক্ৰামক ৰোগ, আৰু কাৰিকৰী প্ৰশ্নকাকতে ইয়াৰ আশংকাৰ কাৰকবোৰ সুধি সেইটো দেখুৱায়। ধূমপান, মদ, স্থূলতা, বহি থকা জীৱনশৈলী, বেছি নিমখ আৰু পাৰিবাৰিক ইতিহাস সাধাৰণ তালিকা, আৰু উচ্চ ৰক্তচাপ আৰু ডায়েবিটিছ একেজন মানুহত একেলগে হ’লে তাক মেটাবলিক চিন্ড্ৰ’ম বোলে।"
+      ],
+      [
+        "h3",
+        "ৰোধ — প্ৰশ্নকাকতৰ ভাষাত"
+      ],
+      [
+        "p",
+        "ৰোধ তিনি স্তৰত লিখা হয়। প্ৰাথমিক ৰোধে ৰোগ আৰম্ভ হোৱাৰ আগতেই ৰাখে: টীকা, সুৰক্ষিত পানী, মশাৰী, স্বাস্থ্য শিক্ষা। দ্বিতীয় স্তৰে ৰোগ আগতীয়াকৈ ধৰে: পৰীক্ষা, ৰক্তচাপ জোখা, কফ পৰীক্ষা। তৃতীয় স্তৰে ৰোগ হোৱাৰ পিছত অক্ষমতা সীমিত কৰে: ফিজিঅ’থেৰাপি, পুনৰ্বাসন, জটিলতাৰ চিকিৎসা।"
+      ],
+      [
+        "p",
+        "'ন’টিফায়েবল' শব্দটো জানি ৰখা ভাল। ন’টিফায়েবল ৰোগ আইন অনুসৰি স্বাস্থ্য কৰ্তৃপক্ষক জনাব লাগে, আৰু বেছিভাগ ভাৰতীয় ৰাজ্যত তালিকাত কলেৰা, প্লেগ, পীত জ্বৰ, ডেংগু আৰু যক্ষ্মা থাকে। 'ৰোগ কিয় ন’টিফায়েবল' সুধিলে উত্তৰ 'যাতে নজৰদাৰী আৰু নিয়ন্ত্ৰণ আগতীয়াকৈ আৰম্ভ হয়', চিকিৎসা নহয়।"
+      ],
+      [
+        "h3",
+        "প্ৰতিৰোধ ক্ষমতা আৰু টীকা — চাৰিশাৰীত"
+      ],
+      [
+        "p",
+        "প্ৰতিৰোধ ক্ষমতা সক্ৰিয় বা নিষ্ক্ৰিয়। সক্ৰিয় প্ৰতিৰোধ ক্ষমতা সংক্ৰমণ বা টীকাৰ পিছত শৰীৰে নিজে বনায়, আৰু বছৰ বছৰ থাকে; নিষ্ক্ৰিয় প্ৰতিৰোধ ক্ষমতা সাজু হিচাপে দিয়া হয় — মাকৰ পৰা গৰ্ভফলক আৰু বুকুৰ গাখীৰেৰে এণ্টিবডি, বা সাপে কামোৰাৰ পিছত এণ্টিছিৰাম — আৰু কেইসপ্তাহমান থাকে। 'টীকাই কোন ধৰণৰ প্ৰতিৰোধ ক্ষমতা দিয়ে' সুধিলে উত্তৰ সক্ৰিয়।"
+      ],
+      [
+        "p",
+        "টীকা জীৱিত দুৰ্বল, মৃত, টক্সইড বা subunit হ’ব পাৰে। যক্ষ্মাৰ BCG জীৱিত দুৰ্বল আৰু জন্মতে দিয়া হয়। OPV জীৱিত, IPV মৃত। TT এটা টক্সইড, সেয়ে ই বেক্টেৰিয়াৰ বিৰুদ্ধে নহয়, বিষৰ বিৰুদ্ধে কাম কৰে। 'টক্সইড কি' সুধিলে উত্তৰ — সলনি কৰা বিষ যিয়ে তথাপি এণ্টিবডি ওলিওৱায়।"
+      ],
+      [
+        "p",
+        "কোল্ড চেইন গুৰুত্বপূৰ্ণ, কাৰণ বেছিভাগ টীকা জমা হ’লে বা গৰম হ’লে শক্তি হেৰুৱায়। সেয়ে ভেকচিন কেৰিয়াৰ, আইচ পেক আৰু উষ্ণতাৰ অভিলেখ থাকে, আৰু 'টীকা কিয় কাম নকৰিলে' ধৰণৰ প্ৰশ্নত উত্তৰ প্ৰায়ে সাঁচনিৰ পদ্ধতিতহে ওলায়, শিশুটোত নহয়।"
+      ],
+      [
+        "h3",
+        "এই বেংকৰ পাঁচটা প্ৰশ্ন, সমাধানকে ধৰি"
+      ],
+      [
+        "p",
+        "ৰোগীৰ প্ৰতি তৃতীয় দিনত কঁপনিৰ সৈতে জ্বৰ। কোন ৰোগ? মেলেৰিয়া, আৰু চক্ৰটোৱে প্লাজম’ডিয়াম ভাইভেক্সলৈ আঙুলিয়ায়, ফেলছিপেৰামলৈ নহয়। শিশুৰ ডিঙিত ধূসৰ আৱৰণ আৰু উশাহ ল’বলৈ কষ্ট। কোন ৰোগ? ডিফথেৰিয়া, আৰু এণ্টিটক্সিনৰ লগতে এণ্টিবায়’টিক দিয়া হয়।"
+      ],
+      [
+        "p",
+        "বৰষুণৰ পিছত এখন গাঁৱত বহু জণ্ডিছৰ ৰোগী। আটাইতকৈ সম্ভাব্য পথ কোনটো? দূষিত পানী — যিয়ে হেপাটাইটিছ A বা E লৈ আঙুলিয়ায়, B লৈ নহয়। কুকুৰে শিশুৰ হাতত কামোৰিলে। কি দিব? লগে লগে ৰেবিজ টীকা, গভীৰ ঘাত ইমিউন’গ্লবিউলিন, আৰু ঘাত চাবোন-পানীৰে পোন্ধৰ মিনিট ধুই ধুই — এই খোজটো প্ৰাৰ্থীয়ে পাহৰে।"
+      ],
+      [
+        "h3",
+        "অসমৰ বিশেষ ৰোগৰ শাৰী"
+      ],
+      [
+        "p",
+        "অসমৰ বাবে জানিবলগীয়া ৰোগ জাপানী এনকেফেলাইটিছ। ই ভাইৰাছজনিত, কুলেক্সে বিয়পায়, বানপ্ৰৱণ জিলাৰ শিশুসকলক আক্ৰান্ত কৰে; প্ৰভাৱিত জিলাত টীকা নিয়মীয়া সময়সূচীত যোগ কৰা হৈছে, আৰু গাহৰি ইয়াৰ বৰ্ধক পোষক। বানে ডায়েৰিয়া আৰু লেপ্ট’স্পাইৰ’ছিছো আনে, আৰু স্বাস্থ্য বিভাগৰ সঁহাৰি — পানীৰ উৎস ক্ল’ৰিনেশ্যন আৰু দ্ৰুত ডায়েৰিয়া চিকিৎসা কেন্দ্ৰ।"
+      ],
+      [
+        "p",
+        "অসমত মেলেৰিয়াৰ ৰূপ বেলেগ, কাৰণ পাহাৰীয়া জিলা আৰু অৰণ্যৰ কাষত প্লাজম’ডিয়াম ফেলছিপেৰাম প্ৰধান। কালা-জ্বৰ বহু পৰিমাণে কমিছে, তথাপি ৰাজ্যই ৰোগী পোৱা অব্যাহত আছে, আৰু ছেণ্ডফ্লাই নিয়ন্ত্ৰণ কাৰ্যসূচি চলি আছে। ৰাজ্যিক পৰ্যায়ৰ প্ৰশ্ন এনেকুৱাই দেখা যায়, আৰু পৰীক্ষাৰ আগতে এবাৰ পঢ়ি লোৱা ভাল।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "মেলেৰিয়া ভাইৰাছৰে হয় বুলি কোৱা — ই প্ৰ’ট’জ’ৱা, প্লাজম’ডিয়াম।",
+          "ডেংগু এন’ফিলিছৰ বুলি কোৱা — ডেংগু এডিছ, আৰু দিনত কামোৰে।",
+          "টেটানাছক সংক্ৰামক বুলি কোৱা — ই মাটিৰ পৰা ঘালৈ আহে।",
+          "কালা-জ্বৰ আৰু মেলেৰিয়া মিলাই দিয়া — বেলেগ পৰজীৱী, বেলেগ বাহক (ছেণ্ডফ্লাই)।",
+          "'ন’টিফায়েবল কিয়' সুধিলে 'চিকিৎসা' বুলি উত্তৰ দিয়া।"
+        ]
+      ],
+      [
+        "h3",
+        "স্বাস্থ্যৰ সূচক আৰু সংখ্যা"
+      ],
+      [
+        "p",
+        "স্বাস্থ্য বিভাগৰ প্ৰশ্নত কেতিয়াবা এনে সংখ্যা আহে যিবোৰ মনত ৰখা সহজ। মাতৃ মৃত্যু অনুপাত — প্ৰতি এক লাখ জীৱিত জন্মত মৃত্যু। শিশু মৃত্যু হাৰ — প্ৰতি হাজাৰ জীৱিত জন্মত এক বছৰৰ তলৰ শিশুৰ মৃত্যু। পাঁচ বছৰৰ তলৰ মৃত্যু হাৰ — একেই হাজাৰত। জন্মৰ আশা — মানুহ এজনে গড়ে কিমান বছৰ জীয়াই থাকিব। এই চাৰিটা সংজ্ঞা প্ৰায়ে 'কোনটো কাক বোলে' ধৰণে আহে, আৰু একোটা শব্দই একোটা নম্বৰ।"
+      ],
+      [
+        "p",
+        "অসমৰ প্ৰসংগত আৰু দুটা কথা — ৰাজ্যখনৰ বেছিভাগ ৰোগ প্ৰশ্নত 'প্ৰান্তীয়' আৰু 'বানপ্ৰৱণ' শব্দ দুটা বাৰে বাৰে আহে, কাৰণ ব্ৰহ্মপুত্ৰৰ বান আৰু পাহাৰীয়া জিলাৰ পথৰ দূৰত্বই স্বাস্থ্য সেৱাৰ প্ৰত্যাহ্বান গঢ়ি তোলে। প্ৰশ্নকাকতত এই দুটা শব্দই প্ৰায়ে উত্তৰৰ দিশ দেখুৱাই দিয়ে, সেয়ে প্ৰশ্নটো পঢ়ি সেই ইংগিতটো চিনি পোৱাটোও এটা দক্ষতা। শেষত এটা সতৰ্কতা — ৰোগৰ নাম আৰু ৰোগজীৱাণুৰ নাম দুয়োটা সঠিক বানানেৰে লিখিব; উত্তৰপত্ৰত মেলেৰিয়া আৰু প্লাজম’ডিয়াম একেলগে লিখিলে পূৰ্ণ নম্বৰ পোৱা যায়, কেৱল মশাৰ পৰা হয় বুলি লিখিলে আধা নম্বৰো নিশ্চিত নহয়। এই অভ্যাসটো গোটেই শিতানতে লাগু কৰক — যিকোনো ৰোগৰ প্ৰশ্নত নাম, ৰোগজীৱাণু আৰু বাহক — তিনিৰে এটা লিখি দিলে উত্তৰ আধাৰপৰা পূৰ্ণলৈ যায়, আৰু পৰীক্ষকে বিচৰা ধৰণেও হয়।"
+      ],
+      [
+        "h3",
+        "এই শিতানত দহ দিন"
+      ],
+      [
+        "p",
+        "দুদিন বেক্টেৰিয়াৰ তালিকাত — প্ৰতিটোৰ ৰোগজীৱাণু আৰু বিস্তাৰৰ পথ মাতি। দুদিন ভাইৰাছৰ তালিকাত — তিনি মশাৰ এটা সৰু তালিকা আঁকি। দুদিন প্ৰ’ট’জ’ৱা আৰু কৃমিত — অসমৰ প্ৰভাৱিতবোৰ চিহ্নিত কৰি। দুদিন সংক্ৰামক-অসংক্ৰামক আৰু ৰোধৰ তিনি স্তৰত। শেষৰ দুদিন: এই বেংকৰ মিলোৱা প্ৰশ্ন, সময় ধৰি, আৰু পিছলি যোৱা প্ৰতিটো ৰোগজীৱাণুৰ নাম পুনৰ লিখি।"
+      ],
+      [
+        "tip",
+        "লক্ষণেৰে নহয়, ৰোগজীৱাণুৰে সজাওক। বেক্টেৰিয়া, ভাইৰাছ, প্ৰ’ট’জ’ৱা, কৃমি, ভেঁকুৰ — পাঁচটা বাকচ। পৰীক্ষাৰ কোঠাত ৰোগৰ প্ৰশ্নত প্ৰথমে বাকচটো নিৰ্ণয় কৰক, কাৰণ সেই এটা সিদ্ধান্তই সাধাৰণতে দুটা বিকল্প বাদ দি দিয়ে।"
+      ]
+    ]
   }
 }
