@@ -4965,9 +4965,7 @@
      written. Opening one shows a work-in-progress popup over the book, so a
      reader knows the empty sections are pending rather than broken. Each entry
      carries its own message keys; the popup is dismissible. */
-  const EXAM_BOOKS_PREPARING = {
-    "dhs-dme-technical": { titleKey: "exams.wipTitle", msgKey: "exams.wipMsg" },
-  };
+  const EXAM_BOOKS_PREPARING = {};
   function examBookIsPreparing(exam) {
     return !!(exam && Object.prototype.hasOwnProperty.call(EXAM_BOOKS_PREPARING, exam.id));
   }

@@ -3628,10 +3628,11 @@ entry, and into the og:image / twitter:image / JSON-LD of every page in the book
 The /exams grid and the book hero render it client-side from that registry, so
 nothing else has to change when a cover is swapped.
 
-Note: `js/app.src.js` still lists `dhs-dme-technical` in `EXAM_BOOKS_PREPARING`,
-so the book page opens with the "not ready yet" popup even though all 176 topics
-have questions. Remove that entry (and rebuild `js/app.js`) when the owner wants
-the book treated as finished.
+`EXAM_BOOKS_PREPARING` in `js/app.src.js` is now empty: every one of the book's
+176 topics carries a question file, so the "not ready yet" popup was removed
+rather than left to contradict the pages. Add a book id back there only while
+some of its topic banks are genuinely still empty, and rebuild `js/app.js`
+(`node scripts/minify-assets.js`) plus `node scripts/stamp-assets.js`.
 
 ## DHS & DME Technical — topic study notes
 
