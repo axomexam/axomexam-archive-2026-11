@@ -3180,3 +3180,21 @@ Audits: 0 duplicate stems inside the new bank, 0 cross-leaf stem clashes, 0 dupl
 explanations, 0 Latin/Devanagari/CJK/digit leakage in Assamese fields.
 
 Final totals after rebuild: 8,316 questions in the book, 50,639 sitewide, hero 79,346.
+
+## Parts of Speech (General English) — 400+ question expansion
+
+`general-english/grammar/parts-of-speech` grew from 11 to 412 questions.
+`tools/gen-parts-of-speech.py` generates 401 bilingual items from curated
+sentence banks for nouns (proper/common/collective/abstract/material), pronouns
+(personal/possessive/reflexive/relative/interrogative/demonstrative/indefinite/
+reciprocal), verbs (transitive/intransitive/linking/auxiliary/modal), adjectives
+(qualitative/quantitative/numeral/demonstrative/possessive/interrogative/
+distributive/proper), adverbs (manner/place/time/frequency/degree/reason),
+prepositions, conjunctions and interjections, plus 30 mixed-identification items.
+
+Every item carries `leaf: "parts-of-speech"`, so the build routes it directly.
+The script strips its own `pos-extra-*` rows before re-running, so it is safe to
+repeat. Audits: 0 duplicate stems, 0 answer-key/explanation mismatches, key split
+99/101/101/100 across A-D, 0 Devanagari/CJK leakage in Assamese fields.
+
+Book total after rebuild: 8,717 questions; sitewide 51,040; hero 79,747.
