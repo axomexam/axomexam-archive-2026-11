@@ -3613,3 +3613,22 @@ Two fixes on top of the batch above:
    (so 0.24, 0.5, 0.76) with radius 2.3. Minimum pip spacing is 8.4 against a
    diameter of 4.6, so nothing overlaps. Fixed in `tools/gen-nv-cube.py` and in
    the die helper inside `tools/gen-nv-general.py`.
+
+## Book cover for DHS & DME Technical (2026-11-21)
+
+The technical book now has its own cover, `images/exams/dhs-dme-technical-cover.webp`
+(480x637, WebP q86). It replaces the shared handbook cover that the technical,
+non-technical and Grade IV books all pointed at, so those two keep
+`dhs-dme-cover.webp`.
+
+Source of the image is the owner-supplied poster. The path lives in
+`tools/dhs-dme-technical.structure.js` (`cover` + `coverAlt`); the build copies it
+into `data/exams/dhs-dme-technical.json`, into the book's `data/exams/index.json`
+entry, and into the og:image / twitter:image / JSON-LD of every page in the book.
+The /exams grid and the book hero render it client-side from that registry, so
+nothing else has to change when a cover is swapped.
+
+Note: `js/app.src.js` still lists `dhs-dme-technical` in `EXAM_BOOKS_PREPARING`,
+so the book page opens with the "not ready yet" popup even though all 176 topics
+have questions. Remove that entry (and rebuild `js/app.js`) when the owner wants
+the book treated as finished.
