@@ -3306,3 +3306,19 @@ Generators: `tools/gen-num-timework.py`, `gen-num-pipes.py`, `gen-num-tsd.py`,
 (formula + substitution + result). All 18 arithmetic leaves now have 90+.
 
 Book total after rebuild: 15,330; sitewide 57,653; hero 86,360.
+
+## Algebra, Geometry & Mensuration — first four topics (very hard)
+
+Elementary algebra, quadratic/linear equations, geometry and mensuration 2D
+now hold 90+ very hard questions each:
+
+- elementary-algebra 96, quadratic-linear-equations 95, geometry 96,
+  mensuration-2d 99.
+
+Generators: `tools/gen-alg-elementary.py`, `gen-alg-quadratic.py`,
+`gen-alg-geometry.py`, `gen-alg-mens2d.py`, sharing `tools/algebra_bank.py`
+(bank: `tools/legacy-banks/dhs-dme-technical/numerical-aptitude/algebra-geometry/question-001.json`).
+Mensuration uses π = 22/7 and states it in the stem. Explanations are
+two-sentence derivations.
+
+Book total after rebuild: 15,716; sitewide 58,039; hero 86,746.
