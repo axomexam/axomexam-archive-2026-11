@@ -270,5 +270,951 @@
         "পৰীক্ষাৰ কোঠাত ৰাফত এটা সৰু ক্ৰছ আঁকি তাত ছটা সংখ্যা লিখি লওক। চাৰি ছেকেণ্ডৰ আঁচনিয়ে চল্লিশ ছেকেণ্ডৰ কল্পনাতকৈ ভাল কাম কৰে, আৰু দ্বিতীয় দৃশ্য অহাৰ সময়তো হিচাপটো শুদ্ধ ৰাখে। যিসকলে এই শিতানত অতিশয় দুৰ্বল বোধ কৰে, তেওঁলোকে প্ৰথমে মাথোঁ বিপৰীত পিঠিৰ নিয়ম আৰু ৰঙা ঘনকৰ চাৰিটা সূত্ৰ মুখস্থ কৰক — এই দুয়োটাই এই বেংকৰ আধাতকৈ বেছি প্ৰশ্ন সামৰি লয়, আৰু ইয়াৰ পৰাই আত্মবিশ্বাস গঢ় লৈ উঠে।"
       ]
     ]
+  },
+  "cell-biology": {
+    "en": [
+      [
+        "h3",
+        "Where this topic sits in the paper"
+      ],
+      [
+        "p",
+        "Cell biology is the cheapest block of marks in the technical paper, and also the one candidates lose most often to half-remembered names. DHS and DME ask it in three shapes: a straight organelle-to-function question, a plant-versus-animal difference, and one question on cell division or transport. Nothing in the block needs a diagram; it needs a clean list in your head, sorted properly."
+      ],
+      [
+        "p",
+        "The syllabus line is short — cell structure, cell organelles, cell division and transport across the membrane — but the paper goes a little deeper than the school textbook because the post is technical. Expect one question on the nucleus or the plasma membrane, one on mitochondria or plastids, and one on mitosis or meiosis."
+      ],
+      [
+        "h3",
+        "The one distinction that organises everything"
+      ],
+      [
+        "p",
+        "Every cell in the syllabus is either prokaryotic or eukaryotic, and the word itself tells you the difference. Pro = before, karyon = nucleus. A prokaryote has no true nucleus and no membrane-bound organelles: bacteria, cyanobacteria, mycoplasma. A eukaryote keeps its DNA inside a nuclear envelope and runs organelles in compartments: fungi, plants, animals, protozoa."
+      ],
+      [
+        "p",
+        "That single line answers a surprising number of questions. If the stem says the cell has 70S ribosomes, a single circular chromosome and no mitochondria, it is bacterial. If it says the cell wall contains chitin, it is fungal, not plant. If it says the cell wall contains cellulose and there are chloroplasts, it is plant. If it says there is no cell wall but there are centrioles, it is animal."
+      ],
+      [
+        "h3",
+        "Organelles, one job each"
+      ],
+      [
+        "ul",
+        [
+          "Nucleus — holds the chromosomes, controls the cell, site of transcription.",
+          "Mitochondrion — aerobic respiration, the ATP factory; has its own DNA and 70S ribosomes.",
+          "Ribosome — protein synthesis, made of rRNA and protein, no membrane.",
+          "Rough endoplasmic reticulum — ribosome-studded, makes and exports proteins.",
+          "Smooth endoplasmic reticulum — lipid and steroid synthesis, detoxification.",
+          "Golgi apparatus — modifies, sorts and packs proteins; forms lysosomes.",
+          "Lysosome — hydrolytic enzymes, intracellular digestion, the suicidal bag.",
+          "Peroxisome — breaks down hydrogen peroxide using catalase.",
+          "Chloroplast — photosynthesis, contains chlorophyll, thylakoids and stroma.",
+          "Vacuole — storage and turgor; the plant central vacuole can be most of the cell's volume.",
+          "Centriole — spindle formation in animal cells; absent in higher plants."
+        ]
+      ],
+      [
+        "p",
+        "Two of these carry their own DNA — the mitochondrion and the chloroplast — and both are double-membraned. That is the standard explanation for the endosymbiotic theory, and it is a favourite one-mark question: which organelles are semi-autonomous."
+      ],
+      [
+        "h3",
+        "Division: the numbers you must not mix"
+      ],
+      [
+        "p",
+        "Mitosis keeps the chromosome number the same. One cell gives two cells, each diploid, and it happens in body cells for growth and repair. Meiosis halves it. One diploid cell gives four haploid cells, and it happens only in the gonads to make gametes. In humans the diploid number is 46, so meiosis produces gametes with 23."
+      ],
+      [
+        "p",
+        "The stages are asked in order, and the order matters more than the detail. In mitosis: prophase, metaphase, anaphase, telophase. Chromosomes become visible in prophase, line up at the equator in metaphase, chromatids separate in anaphase, and two nuclei form in telophase. In meiosis there are two divisions, so the sequence is meiosis I (prophase I, metaphase I, anaphase I, telophase I) followed by meiosis II."
+      ],
+      [
+        "p",
+        "The one event unique to meiosis is crossing over, which happens in prophase I between non-sister chromatids of homologous chromosomes, at points called chiasmata. It is the reason siblings differ. If a question asks for the source of genetic variation in sexual reproduction, the answer is crossing over plus independent assortment in metaphase I."
+      ],
+      [
+        "h3",
+        "How things cross the membrane"
+      ],
+      [
+        "p",
+        "Diffusion moves a substance from high concentration to low, with no energy spent. Osmosis is the same idea for water, across a semi-permeable membrane. Facilitated diffusion uses a carrier protein but still spends no ATP. Active transport moves a substance against its gradient and does spend ATP; the sodium-potassium pump is the standard example, pushing three sodium ions out for every two potassium ions in."
+      ],
+      [
+        "p",
+        "Endocytosis brings material in by folding the membrane, and exocytosis pushes it out. A question that says the cell is placed in a hypotonic solution and asks what happens is asking about osmosis: water enters, the animal cell swells and may burst, while a plant cell becomes turgid because the wall resists. In a hypertonic solution the reverse happens — the animal cell shrinks, and the plant cell undergoes plasmolysis, pulling its membrane away from the wall."
+      ],
+      [
+        "h3",
+        "Plant cell and animal cell, side by side"
+      ],
+      [
+        "p",
+        "A plant cell has a cellulose cell wall, a large central vacuole and plastids including chloroplasts. An animal cell has none of these, but it has centrioles and a flexible membrane that can pinch inwards. Both have a nucleus, mitochondria, ribosomes, ER and Golgi. A fungal cell wall is chitin, and a bacterial wall is peptidoglycan — the three walls are asked together often enough that they are worth memorising as a set."
+      ],
+      [
+        "h3",
+        "Three questions that keep coming back"
+      ],
+      [
+        "p",
+        "First: which organelle is called the powerhouse of the cell? Mitochondria, and the reason is ATP, not energy in general. A distractor will often say chloroplast because it also makes energy-rich compounds, but the chloroplast makes glucose using light, while the mitochondrion releases ATP from glucose in the dark. Keep the two jobs separate and the distractor dies."
+      ],
+      [
+        "p",
+        "Second: a cell with 46 chromosomes divides by mitosis. How many chromosomes does each daughter cell have? Forty-six, because mitosis is equational. If the stem says the cell is a gamete mother cell dividing by meiosis, the answer becomes twenty-three, and if it asks for the number of cells produced, it is four, not two. Read which division is named before you multiply anything."
+      ],
+      [
+        "p",
+        "Third: the cell wall is made of what? The answer depends on the organism, so the stem always tells you. Plant means cellulose, fungus means chitin, bacterium means peptidoglycan. There is no single answer to the question, and that is exactly why examiners like it: candidates who answer 'cellulose' without reading the organism lose a mark they knew."
+      ],
+      [
+        "h3",
+        "The nucleus, in the detail the paper uses"
+      ],
+      [
+        "p",
+        "The nucleus has a double membrane with pores, a nucleolus inside it, and chromatin, which is DNA wound around histone proteins. The nucleolus makes ribosomal RNA, which is why a cell that is busy making protein has a large nucleolus. The pores are the gate: messenger RNA leaves through them, and proteins that belong inside the nucleus enter through them. A question that asks where transcription happens wants 'nucleus', and one that asks where translation happens wants 'ribosome in the cytoplasm'."
+      ],
+      [
+        "p",
+        "Chromatin condenses into chromosomes only when the cell divides. In a non-dividing cell you cannot see separate chromosomes under an ordinary microscope, which is the fact behind the standard question about when chromosomes become visible. The answer is prophase."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Calling the ribosome a membrane-bound organelle. It is not, which is why it survives in prokaryotes.",
+          "Saying meiosis produces two cells. It produces four.",
+          "Mixing up the vacuole and the vesicle, or the lysosome and the peroxisome.",
+          "Forgetting that the chloroplast is double-membraned, like the mitochondrion.",
+          "Answering 'diffusion' for a question that describes a carrier protein and ATP."
+        ]
+      ],
+      [
+        "h3",
+        "Ten days on this topic"
+      ],
+      [
+        "p",
+        "Two days on the organelle table, saying each job aloud rather than reading it. Two days on prokaryote versus eukaryote and the three cell walls. Two days on mitosis and meiosis, drawing both on paper until the four-stage order is automatic. Two days on transport, with one example each for diffusion, osmosis, facilitated diffusion and active transport. The last two days: mixed questions from this bank, timed at thirty seconds each, and a rewrite of every wrong answer in your own words."
+      ],
+      [
+        "tip",
+        "Write the eleven organelles and their one-line jobs on a single card. In the hall, that card is worth more than any diagram, because the paper almost always asks a function, not a structure."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "প্ৰশ্নকাকতত এই শিতানৰ ঠাই"
+      ],
+      [
+        "p",
+        "কাৰিকৰী প্ৰশ্নকাকতত কোষ বিজ্ঞানেই আটাইতকৈ সহজ নম্বৰ, আৰু লগতে আটাইতকৈ বেছি নম্বৰ হেৰুওৱা শিতান — কাৰণ নাম আধা-আধা মনত থাকে। DHS আৰু DME ত এই শিতান তিনি ধৰণে আহে: অংগাণু আৰু তাৰ কাম, উদ্ভিদ আৰু প্ৰাণী কোষৰ পাৰ্থক্য, আৰু কোষ বিভাজন বা পৰিবহণৰ এটা প্ৰশ্ন। ইয়াত চিত্ৰ নালাগে; মূৰত পৰিষ্কাৰ তালিকা লাগে।"
+      ],
+      [
+        "p",
+        "পাঠ্যক্ৰমৰ শাৰীটো চুটি — কোষৰ গঠন, অংগাণু, কোষ বিভাজন আৰু আৱৰণৰ মাজেৰে পৰিবহণ — কিন্তু পদটো কাৰিকৰী হোৱা বাবে প্ৰশ্নকাকতখন স্কুলীয়া কিতাপতকৈ অলপ গভীৰলৈ যায়। নিউক্লিয়াছ বা Plasma membrane ৰ এটা, মাইট’কণ্ড্ৰিয়া বা প্লাষ্টিডৰ এটা, আৰু মাইট’চিছ বা মিঅ’চিছৰ এটা প্ৰশ্ন আশা কৰিব পাৰি।"
+      ],
+      [
+        "h3",
+        "সকলো সজাই ৰখা এটা পাৰ্থক্য"
+      ],
+      [
+        "p",
+        "পাঠ্যক্ৰমৰ প্ৰতিটো কোষ হয় প্ৰ’কাৰিয়’টিক নহয় ইউকাৰিয়’টিক, আৰু শব্দটোৱেই পাৰ্থক্যটো কৈ দিয়ে। Pro অৰ্থাৎ আগতে, karyon অৰ্থাৎ নিউক্লিয়াছ। প্ৰ’কাৰিয়’টিকত প্ৰকৃত নিউক্লিয়াছ নাই, আৱৰণেৰে ঢকা অংগাণুও নাই — বেক্টেৰিয়া, চাইন’বেক্টেৰিয়া, মাইক’প্লাজমা। ইউকাৰিয়’টিকত DNA নিউক্লিয়াছৰ আৱৰণৰ ভিতৰত থাকে আৰু কামবোৰ পৃথক কোঠালিত হয় — ভেঁকুৰ, উদ্ভিদ, প্ৰাণী, প্ৰ’ট’জ’ৱা।"
+      ],
+      [
+        "p",
+        "এই এশাৰীয়ে আচৰিত ধৰণে বহু প্ৰশ্নৰ উত্তৰ দিয়ে। যদি প্ৰশ্নত কোষত 70S ৰাইব’জম, এটা বৃত্তাকাৰ ক্ৰম’জম আৰু মাইট’কণ্ড্ৰিয়া নাই বুলি কোৱা হয়, তেন্তে সেয়া বেক্টেৰিয়া। যদি কোষকোষ্ঠৰ গাত চাইটিন থাকে, সেয়া ভেঁকুৰ, উদ্ভিদ নহয়। যদি চেলুল’জ আৰু ক্ল’ৰ’প্লাষ্ট থাকে, সেয়া উদ্ভিদ। যদি কোষকোষ্ঠ নাই কিন্তু চেণ্ট্ৰিঅ’ল আছে, সেয়া প্ৰাণী কোষ।"
+      ],
+      [
+        "h3",
+        "অংগাণু — এটাক এটা কাম"
+      ],
+      [
+        "ul",
+        [
+          "নিউক্লিয়াছ — ক্ৰম’জম ধৰি ৰাখে, কোষ নিয়ন্ত্ৰণ কৰে, ট্ৰান্সক্ৰিপচনৰ ঠাই।",
+          "মাইট’কণ্ড্ৰিয়া — বায়ুজীৱী শ্বসন, ATP ৰ কাৰখানা; নিজৰ DNA আৰু 70S ৰাইব’জম আছে।",
+          "ৰাইব’জম — প্ৰ’টিন সংশ্লেষণ, rRNA আৰু প্ৰ’টিনেৰে গঠিত, আৱৰণ নাই।",
+          "মসৃণ নহয় (Rough) ER — ৰাইব’জম লগা, প্ৰ’টিন বনাই বাহিৰলৈ পঠিয়ায়।",
+          "Smooth ER — লিপিড আৰু ষ্টেৰয়ড সংশ্লেষণ, বিষহৰণ।",
+          "গ’লজি বডি — প্ৰ’টিন সলনি, বাছি উলিয়াই পেকিং কৰে; লাইছ’জম গঢ়ে।",
+          "লাইছ’জম — হাইড্ৰ’লিটিক এনজাইম, কোষৰ ভিতৰত হজম, আত্মহত্যাৰ থলী।",
+          "পেৰ’ক্সিছম — কেটালেজৰ সহায়ত হাইড্ৰ’জেন পেৰ’ক্সাইড ভাঙে।",
+          "ক্ল’ৰ’প্লাষ্ট — প্ৰকাশ সংশ্লেষণ, ক্ল’ৰ’ফিল, থাইলাকয়ড আৰু ষ্ট্ৰ’মা।",
+          "ৰসধাৰী (ভেকুঅ’ল) — সংৰক্ষণ আৰু তুৰ্গৰ; উদ্ভিদৰ কেন্দ্ৰীয় ভেকুঅ’লে কোষৰ বেছি অংশ ল’ব পাৰে।",
+          "চেণ্ট্ৰিঅ’ল — প্ৰাণী কোষত স্পিণ্ডল গঠন; উচ্চ উদ্ভিদত নাই।"
+        ]
+      ],
+      [
+        "p",
+        "এইবোৰৰ দুটাই নিজৰ DNA বহন কৰে — মাইট’কণ্ড্ৰিয়া আৰু ক্ল’ৰ’প্লাষ্ট — আৰু দুয়োৰে দুটা আৱৰণ। এণ্ড’ছিম্বায়’টিক মতবাদৰ এয়েই সাধাৰণ ব্যাখ্যা, আৰু এনে এটা প্ৰশ্ন প্ৰায়ে আহে: কোনবোৰ অংগাণু অৰ্ধ-স্বায়ত্ত।"
+      ],
+      [
+        "h3",
+        "বিভাজন: সংখ্যাকেইটা মিলাই নিদিব"
+      ],
+      [
+        "p",
+        "মাইট’চিছত ক্ৰম’জমৰ সংখ্যা একেই থাকে। এটা কোষৰ পৰা দুটা কোষ হয়, দুয়ো ডিপ্লয়ড, আৰু শৰীৰৰ কোষত বৃদ্ধি আৰু মেৰামতিৰ বাবে হয়। মিঅ’চিছত সংখ্যা আধা হয়। এটা ডিপ্লয়ড কোষৰ পৰা চাৰিটা হেপ্লয়ড কোষ হয়, আৰু ই কেৱল জনন অংগত গেমেট বনাবলৈ হয়। মানুহত ডিপ্লয়ড সংখ্যা ৪৬, সেয়ে মিঅ’চিছত গেমেটত ২৩ টা থাকে।"
+      ],
+      [
+        "p",
+        "পৰ্যায়বোৰ ক্ৰম অনুসৰি সোধা হয়, আৰু ক্ৰমটো বিৱৰণতকৈ বেছি গুৰুত্বপূৰ্ণ। মাইট’চিছত: প্ৰ’ফেজ, মেটাফেজ, এনাফেজ, টেল’ফেজ। প্ৰ’ফেজত ক্ৰম’জম দেখা যায়, মেটাফেজত বিষুৱ ৰেখাত শাৰী পাতি থাকে, এনাফেজত ক্ৰ’মেটিডবোৰ পৃথক হয়, টেল’ফেজত দুটা নিউক্লিয়াছ হয়। মিঅ’চিছত দুটা বিভাজন, সেয়ে ক্ৰমটো — মিঅ’চিছ I (প্ৰ’ফেজ I, মেটাফেজ I, এনাফেজ I, টেল’ফেজ I) তাৰ পিছত মিঅ’চিছ II।"
+      ],
+      [
+        "p",
+        "মিঅ’চিছতহে এটা ঘটনা অদ্বিতীয় — ক্ৰছিং অ’ভাৰ, যি প্ৰ’ফেজ I ত সমসংস্থ ক্ৰম’জমৰ নন-ছিষ্টাৰ ক্ৰ’মেটিডৰ মাজত হয়, তাৰ বিন্দুবোৰক কায়াজমা বোলে। ইয়াৰ বাবেই ভাই-ভনীসকলৰ মাজত পাৰ্থক্য থাকে। যৌন প্ৰজননত জিনীয় বৈচিত্ৰ্যৰ উৎস সুধিলে উত্তৰ — ক্ৰছিং অ’ভাৰ আৰু মেটাফেজ I ত স্বাধীন বিতৰণ।"
+      ],
+      [
+        "h3",
+        "আৱৰণৰ মাজেৰে বস্তু কেনেকৈ যায়"
+      ],
+      [
+        "p",
+        "ডিফিউজনে বেছি ঘনত্বৰ পৰা কম ঘনত্বলৈ নিয়ে, শক্তি নালাগে। অচম’চিছ পানীৰ ক্ষেত্ৰত একেই কথা, অৰ্ধ-ভেদ্য আৱৰণৰ মাজেৰে। Facilitated diffusion এ কেৰিয়াৰ প্ৰ’টিন ব্যৱহাৰ কৰে কিন্তু ATP নালাগে। Active transport এ গ্ৰেডিয়েণ্টৰ বিপৰীতে নিয়ে আৰু ATP লগায়; ছডিয়াম-পটাছিয়াম পাম্পই ইয়াৰ উদাহৰণ — তিনি ছডিয়াম বাহিৰলৈ, দুটা পটাছিয়াম ভিতৰলৈ।"
+      ],
+      [
+        "p",
+        "এণ্ড’চাইট’চিছে আৱৰণ ভাঁজ খাই বস্তু ভিতৰলৈ লয়, এক্স’চাইট’চিছে বাহিৰলৈ পঠিয়ায়। কোষ এটা হাইপ’টনিক দ্ৰৱত ৰখা হ’ল বুলি সোধা প্ৰশ্নই অচম’চিছ সুধিছে — পানী সোমায়, প্ৰাণী কোষ ফুলি ফাটিব পাৰে, উদ্ভিদ কোষ তুৰ্গৰ হয় কাৰণ কোষকোষ্ঠই বাধা দিয়ে। হাইপাৰটনিক দ্ৰৱত ওলোটা হয় — প্ৰাণী কোষ সৰু হয়, উদ্ভিদ কোষত প্লাজম’লাইছিছ হয়, আৱৰণ কোষকোষ্ঠৰ পৰা আঁতৰি যায়।"
+      ],
+      [
+        "h3",
+        "উদ্ভিদ কোষ আৰু প্ৰাণী কোষ, কাষে কাষে"
+      ],
+      [
+        "p",
+        "উদ্ভিদ কোষত চেলুল’জৰ কোষকোষ্ঠ, ডাঙৰ কেন্দ্ৰীয় ভেকুঅ’ল আৰু ক্ল’ৰ’প্লাষ্টকে ধৰি প্লাষ্টিড থাকে। প্ৰাণী কোষত এইবোৰৰ একো নাই, কিন্তু চেণ্ট্ৰিঅ’ল আছে আৰু আৱৰণ নমনীয় হোৱা বাবে ভিতৰলৈ ভাঁজ খাব পাৰে। দুয়োতে নিউক্লিয়াছ, মাইট’কণ্ড্ৰিয়া, ৰাইব’জম, ER আৰু গ’লজি থাকে। ভেঁকুৰৰ কোষকোষ্ঠ চাইটিনৰ, বেক্টেৰিয়াৰ পেপ্টিড’গ্লাইকেনৰ — তিনি কোষকোষ্ঠ একেলগে সোধা হয়, সেয়ে গোটেইটো মনত ৰখা ভাল।"
+      ],
+      [
+        "h3",
+        "পুনৰ পুনৰ অহা তিনি প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "প্ৰথম: কোনটো অংগাণুক কোষৰ শক্তি-গৃহ বোলে? মাইট’কণ্ড্ৰিয়া, কাৰণ ATP — সাধাৰণ 'শক্তি' নহয়। বিকল্পত ক্ল’ৰ’প্লাষ্ট দিয়া থাকিব পাৰে, কাৰণ ইয়ো শক্তি-সমৃদ্ধ যৌগ বনায়; কিন্তু ক্ল’ৰ’প্লাষ্টে পোহৰৰ সহায়ত গ্লুক’জ বনায়, মাইট’কণ্ড্ৰিয়াই গ্লুক’জৰ পৰা ATP উলিয়ায়। দুয়োটা কাম পৃথক ৰাখিলে বিকল্পটো নিজেই মৰি যায়।"
+      ],
+      [
+        "p",
+        "দ্বিতীয়: ৪৬ টা ক্ৰম’জম থকা এটা কোষ মাইট’চিছত বিভাজিত হ’ল। প্ৰতিটো কন্যা কোষত কিমান ক্ৰম’জম থাকিব? ছয়চল্লিশ, কাৰণ মাইট’চিছ সমীকৰণমূলক। যদি প্ৰশ্নত কোষটো গেমেট-জননী কোষ আৰু মিঅ’চিছত বিভাজিত হয় বুলি থাকে, উত্তৰ তেইশ; আৰু যদি সোধে কিমান কোষ হয়, উত্তৰ চাৰি, দুটা নহয়। গুণ কৰাৰ আগতে কোনটো বিভাজন বুলি পঢ়ি লওক।"
+      ],
+      [
+        "p",
+        "তৃতীয়: কোষকোষ্ঠ কি পদাৰ্থৰ? উত্তৰ জীৱটোৰ ওপৰত নিৰ্ভৰ কৰে, সেয়ে প্ৰশ্নই জীৱটোৰ নাম কৈ দিয়ে। উদ্ভিদ মানে চেলুল’জ, ভেঁকুৰ মানে চাইটিন, বেক্টেৰিয়া মানে পেপ্টিড’গ্লাইকেন। এই প্ৰশ্নৰ এটা উত্তৰ নাই, আৰু সেয়েই পৰীক্ষকৰ প্ৰিয় — যিয়ে জীৱটো নপঢ়ি 'চেলুল’জ' বুলি লিখে, সি জনা নম্বৰটোৱেই হেৰুৱায়।"
+      ],
+      [
+        "h3",
+        "নিউক্লিয়াছ — প্ৰশ্নকাকতে যিমান গভীৰলৈ যায়"
+      ],
+      [
+        "p",
+        "নিউক্লিয়াছৰ ছিদ্ৰযুক্ত দুটা আৱৰণ, ভিতৰত নিউক্লিঅ’লাছ, আৰু ক্ৰ’মেটিন — অৰ্থাৎ হিস্ট’ন প্ৰ’টিনৰ চাৰিওফালে মেৰ খোৱা DNA। নিউক্লিঅ’লাছেই ৰাইব’জ’মেল RNA বনায়, সেয়ে যি কোষত প্ৰ’টিন বনোৱাৰ কাম বেছি, তাৰ নিউক্লিঅ’লাছ ডাঙৰ। ছিদ্ৰবোৰেই দুৱাৰ — মেছেঞ্জাৰ RNA বাহিৰলৈ যায়, নিউক্লিয়াছৰ ভিতৰত কাম কৰা প্ৰ’টিন সোমায়। ট্ৰান্সক্ৰিপচন ক’ত হয় সুধিলে উত্তৰ 'নিউক্লিয়াছ', আৰু ট্ৰান্সলেচন ক’ত হয় সুধিলে উত্তৰ 'চাইট’প্লাজমৰ ৰাইব’জম'।"
+      ],
+      [
+        "p",
+        "কোষ বিভাজিত হোৱাৰ সময়তহে ক্ৰ’মেটিন সংকুচিত হৈ ক্ৰম’জম হয়। বিভাজন নোহোৱা কোষত সাধাৰণ অণুবীক্ষণ যন্ত্ৰেৰে পৃথক ক্ৰম’জম দেখা নাযায় — 'ক্ৰম’জম কেতিয়া দেখা যায়' বুলি সোধা প্ৰশ্নৰ পিছত থকা তথ্যটো এয়েই। উত্তৰ প্ৰ’ফেজ।"
+      ],
+      [
+        "h3",
+        "কোষৰ পৰা কলালৈ"
+      ],
+      [
+        "p",
+        "কোষৰ পিছত পাঠ্যক্ৰমত কলাৰ কথা আহে, আৰু বহু প্ৰাৰ্থীয়ে এই দুয়োটা মিলাই দিয়ে। মনত ৰাখিব — একে ধৰণৰ কোষবোৰ গোট খাই এটা কলা গঠন কৰে, আৰু একেই কামৰ কলাবোৰ লগ লাগি অংগ হয়। মানুহৰ শৰীৰত চাৰি মৌলিক কলা থাকে: এপিথেলিয়েল, সংযোগী, পেশী আৰু স্নায়ু কলা। এপিথেলিয়েলে ঢাকনি আৰু শোষণৰ কাম কৰে, সংযোগীয়ে (তেজ, হাড়, লিগামেণ্ট) জোৰা লগায়, পেশীয়ে সংকোচনৰ জৰিয়তে গতি আনে, আৰু স্নায়ু কলাই সংকেত বহন কৰে।"
+      ],
+      [
+        "p",
+        "প্ৰশ্নত প্ৰায়ে সোধে তেজ বা হাড় কোনটো কলাৰ অন্তৰ্গত — উত্তৰ সংযোগী কলা। আকৌ স্নায়ু কোষক নিউৰন বোলে, আৰু ইয়াৰ দীঘল অংশক এক্সন বোলে। এই সৰু সৰু শব্দবোৰেই প্ৰশ্নকাকতত এক-নম্বৰৰ প্ৰশ্ন হৈ আহে, সেয়ে কলাৰ তালিকাখন চাৰিটা নাম আৰু এটাকৈ কামেৰে মনত ৰখা ভাল।"
+      ],
+      [
+        "h3",
+        "কোষৰ জীৱনচক্ৰ"
+      ],
+      [
+        "p",
+        "কোষ এটা সৃষ্টি হোৱাৰ পৰা বিভাজিত হোৱালৈকে যি সময় পাৰ হয়, তাক কোষ চক্ৰ বোলে। ইয়াৰ দীঘল অংশটোৰ নাম ইন্টাৰফেজ — ইয়াত কোষটো ডাঙৰ হয়, প্ৰ’টিন বনায় আৰু DNA নকল কৰে — আৰু তাৰ পিছতহে M পৰ্যায়, অৰ্থাৎ প্ৰকৃত বিভাজন আহে। ইন্টাৰফেজত DNA দুগুণ হয় বুলি জনাটো গুৰুত্বপূৰ্ণ, কাৰণ ইয়াৰ বাবেই মেটাফেজত প্ৰতিটো ক্ৰম’জমত দুটা ক্ৰ’মেটিড দেখা যায়।"
+      ],
+      [
+        "p",
+        "কোষ চক্ৰৰ এটা নিয়ন্ত্ৰণ ব্যৱস্থাও আছে; ইয়াৰ নিয়ন্ত্ৰণ নোহোৱা হ'লে কোষ অনিয়ন্ত্ৰিতভাৱে বিভাজিত হয়, যাক কৰ্কট ৰোগৰ আধাৰ বুলি কোৱা হয়। কাৰিকৰী পৰীক্ষাত ইমান গভীৰলৈ সাধাৰণতে নাযায়, কিন্তু 'অনিয়ন্ত্ৰিত কোষ বিভাজন' বুলি ক'লে কৰ্কট ৰোগ বুলি চিনি পোৱাটো এটা সহজ নম্বৰ।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "ৰাইব’জমক আৱৰণযুক্ত অংগাণু বুলি কোৱা — নহয়, সেয়ে ই প্ৰ’কাৰিয়’টিক কোষতো থাকে।",
+          "মিঅ’চিছত দুটা কোষ হয় বুলি কোৱা — চাৰিটা হয়।",
+          "ভেকুঅ’ল আৰু ভেছিকল, বা লাইছ’জম আৰু পেৰ’ক্সিছম মিলাই দিয়া।",
+          "ক্ল’ৰ’প্লাষ্ট দুটা আৱৰণৰ, মাইট’কণ্ড্ৰিয়াৰ দৰেই — পাহৰি যোৱা।",
+          "কেৰিয়াৰ প্ৰ’টিন আৰু ATP ৰ কথা থকা প্ৰশ্নতো 'ডিফিউজন' বুলি উত্তৰ দিয়া।"
+        ]
+      ],
+      [
+        "h3",
+        "এই শিতানত দহ দিন"
+      ],
+      [
+        "p",
+        "দুদিন অংগাণুৰ তালিকাত — পঢ়ি নহৈ কামটো মাতি মাতি। দুদিন প্ৰ’কাৰিয়’টিক বনাম ইউকাৰিয়’টিক আৰু তিনি কোষকোষ্ঠত। দুদিন মাইট’চিছ আৰু মিঅ’চিছ — কাগজত দুয়োটা আঁকি চাৰি পৰ্যায়ৰ ক্ৰম স্বয়ংক্ৰিয় নোহোৱালৈকে। দুদিন পৰিবহণত — ডিফিউজন, অচম’চিছ, facilitated diffusion আৰু active transport ৰ এটাকৈ উদাহৰণ। শেষৰ দুদিন: এই বেংকৰ মিশ্ৰ প্ৰশ্ন, ত্ৰিশ ছেকেণ্ডৰ ঘড়ী লগাই, আৰু ভুল উত্তৰবোৰ নিজৰ ভাষাত পুনৰ লিখি।"
+      ],
+      [
+        "p",
+        "শেষত এটা সৰু অভ্যাস: প্ৰতিটো অংগাণুৰ নামৰ কাষত তাৰ এটা ৰোগ বা এটা পৰিণাম লিখি থওক — মাইট’কণ্ড্ৰিয়া নষ্ট হ’লে শক্তি কমে, লাইছ’জমৰ এনজাইম ওলাই গ’লে কোষ নিজেই হজম হয়। এনেকৈ লিখিলে নামবোৰ কেৱল শব্দ নহৈ কাহিনী হৈ ৰয়, আৰু পৰীক্ষাৰ চাপত পাহৰি যোৱাৰ সম্ভাৱনা বহু কমি যায়।"
+      ],
+      [
+        "tip",
+        "এঘাৰটা অংগাণু আৰু সিহঁতৰ এক-শাৰী কাম এখন কাৰ্ডত লিখি থওক। পৰীক্ষাৰ কোঠাত এখন চিত্ৰতকৈ সেই কাৰ্ডখন বেছি কামত আহে, কাৰণ প্ৰশ্নকাকতে প্ৰায়ে গঠন নহৈ কামহে সুধে।"
+      ]
+    ]
+  },
+  "genetics-evolution": {
+    "en": [
+      [
+        "h3",
+        "What the paper actually asks"
+      ],
+      [
+        "p",
+        "Genetics looks like the hardest topic in the biology block and is usually the easiest to score, because the questions are built from a small set of ratios and a smaller set of definitions. DHS and DME ask it in four shapes: a Mendel ratio, a definition (allele, genotype, phenotype), a DNA or RNA fact, and one question on sex determination or a sex-linked disease. Evolution, when it appears, is a single definition question."
+      ],
+      [
+        "p",
+        "So the block rewards memory, not calculation. Learn six numbers and about twenty words, and the section is closed. The mistake candidates make is to read the chapter like a story and then meet a question asking for the F2 ratio of a dihybrid cross."
+      ],
+      [
+        "h3",
+        "Mendel, and the two ratios that carry the marks"
+      ],
+      [
+        "p",
+        "Mendel crossed pea plants and counted offspring, and everything in the syllabus follows from his counts. A monohybrid cross — one pair of contrasting traits, say tall against dwarf — gives an F2 ratio of 3:1 in appearance, and 1:2:1 in genetic makeup. A dihybrid cross — two pairs at once — gives 9:3:3:1 in appearance."
+      ],
+      [
+        "p",
+        "His two laws are worth stating in the paper's own words. The law of segregation says that the two alleles of a gene separate during gamete formation, so each gamete carries only one. The law of independent assortment says that alleles of different genes assort independently of one another, which is true when the genes sit on different chromosomes."
+      ],
+      [
+        "p",
+        "A test cross is the practical tool: cross the unknown plant with a homozygous recessive one. If any recessive offspring appear, the unknown was heterozygous. The examiner phrases this as 'a tall plant is crossed with a dwarf plant and both tall and dwarf offspring appear' — that single sentence fixes the tall parent as Tt, and most follow-up questions fall out of it."
+      ],
+      [
+        "h3",
+        "The vocabulary, exactly"
+      ],
+      [
+        "ul",
+        [
+          "Gene — a stretch of DNA that codes for one trait or protein.",
+          "Allele — one of the alternative forms of a gene (T and t).",
+          "Genotype — the alleles present, written as TT, Tt or tt.",
+          "Phenotype — what you can see, tall or dwarf.",
+          "Homozygous — both alleles the same; heterozygous — the alleles differ.",
+          "Dominant — expressed even when only one copy is present; recessive — expressed only when both copies are recessive."
+        ]
+      ],
+      [
+        "p",
+        "One line separates the two that candidates mix: genotype is written in letters, phenotype is written in words. A question asking for the phenotype of Tt wants 'tall', not 'Tt'."
+      ],
+      [
+        "h3",
+        "DNA, in the detail the paper uses"
+      ],
+      [
+        "p",
+        "DNA is a double helix of two strands running in opposite directions, held together by base pairs. Adenine pairs with thymine by two hydrogen bonds, guanine with cytosine by three. In RNA, thymine is replaced by uracil. The backbone is sugar and phosphate — deoxyribose in DNA, ribose in RNA."
+      ],
+      [
+        "p",
+        "The central dogma is DNA to RNA to protein. Transcription copies DNA into messenger RNA inside the nucleus; translation reads that message at the ribosome and builds the protein. A question that says 'which process copies DNA into RNA' wants transcription, and one that asks where protein is assembled wants the ribosome."
+      ],
+      [
+        "p",
+        "Three RNA types are enough for this paper: messenger RNA carries the code out of the nucleus, transfer RNA brings amino acids to the ribosome, and ribosomal RNA is part of the ribosome itself. DNA replication is semi-conservative, meaning each new molecule keeps one old strand and one new one."
+      ],
+      [
+        "h3",
+        "Sex determination and sex-linked inheritance"
+      ],
+      [
+        "p",
+        "In humans, sex is decided by the father's sperm. The mother contributes an X chromosome, the father contributes either an X or a Y. XX gives a daughter, XY gives a son. That is why a question asking which parent determines the sex of the child has 'father' as the answer, and why the Y chromosome is small and carries few genes."
+      ],
+      [
+        "p",
+        "Colour blindness and haemophilia are X-linked recessive. A mother who carries one affected X passes the trait to half her sons, because a son has only one X and no second copy to mask it. Daughters are affected only if the father is also affected. This asymmetry — more affected males than females — is the standard one-mark answer."
+      ],
+      [
+        "p",
+        "Down syndrome is the chromosomal disorder to know: trisomy of chromosome 21, so 47 chromosomes instead of 46. It is not inherited in the Mendelian sense; it comes from non-disjunction during meiosis. Turner syndrome is XO, Klinefelter is XXY."
+      ],
+      [
+        "h3",
+        "Evolution, kept short"
+      ],
+      [
+        "p",
+        "Lamarck said characters acquired during a lifetime are passed on — the giraffe stretched its neck and passed the longer neck to its young. Darwin said variation exists already, and the environment selects those who survive and reproduce. Darwin's version is the accepted one, and the paper's giveaway is the word 'selection' or 'struggle for existence'."
+      ],
+      [
+        "p",
+        "Evidence is asked as a list: fossils, homologous organs (same structure, different function — the forelimb of a human, a whale and a bat), analogous organs (different structure, same function — the wing of a bird and of an insect), and embryological similarity. Homologous points to common ancestry; analogous points to similar habit, not ancestry."
+      ],
+      [
+        "p",
+        "Speciation happens when populations are separated long enough to stop interbreeding. Natural selection works on existing variation; it does not create variation on demand, which is the sentence that separates Darwin from Lamarck in a two-mark answer."
+      ],
+      [
+        "h3",
+        "Three questions from this bank, worked"
+      ],
+      [
+        "p",
+        "A tall pea plant is crossed with a dwarf plant and both tall and dwarf offspring appear. What is the genotype of the tall parent? Both kinds of offspring mean the tall parent gave a recessive allele to some gametes, so it must carry one: Tt. If the question then asks the ratio of tall to dwarf in the offspring, the cross is Tt x tt, which gives 1:1, not 3:1. Candidates who answer 3:1 here have used the F2 ratio from the wrong cross."
+      ],
+      [
+        "p",
+        "Two parents with blood group A and B have a child with group O. Is that possible? Yes, if both parents are heterozygous — AO and BO — because each can pass the O allele. The child is OO. The question is testing whether you know that A and B are dominant over O but neither is dominant over the other, which is why AB is a fourth group and not a blend."
+      ],
+      [
+        "p",
+        "A colour-blind man marries a woman who is not a carrier. What happens to the children? All sons receive the father's Y and the mother's normal X, so no son is colour blind. All daughters receive the father's affected X and a normal X from the mother, so every daughter is a carrier but none is colour blind. This single cross explains why the trait seems to skip a generation and then reappear in grandsons."
+      ],
+      [
+        "h3",
+        "Mutation, in one paragraph"
+      ],
+      [
+        "p",
+        "A mutation is a change in the base sequence of DNA. Point mutations swap, insert or delete a single base, and a frameshift — an insertion or deletion — is usually worse than a substitution because every codon after the change is read wrongly. Mutations are the raw material of evolution, and most of them are neutral or harmful rather than useful, which is the sentence that keeps the Darwin answer honest."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Writing 1:2:1 for a monohybrid phenotype. It is 3:1; 1:2:1 is the genotype ratio.",
+          "Calling the Y chromosome the carrier of colour blindness. It is X-linked.",
+          "Saying DNA has uracil. RNA does.",
+          "Mixing transcription and translation.",
+          "Attributing 'inheritance of acquired characters' to Darwin."
+        ]
+      ],
+      [
+        "h3",
+        "Ten days on this topic"
+      ],
+      [
+        "p",
+        "Two days on the vocabulary list, writing each term once with an example. Two days on the crosses, drawing Punnett squares for a monohybrid and a dihybrid until both ratios come out without thinking. Two days on DNA and the central dogma, saying the three steps aloud. Two days on sex determination and the X-linked diseases. The final two days: timed questions from this bank, and one written paragraph on Darwin versus Lamarck in your own words."
+      ],
+      [
+        "tip",
+        "In the hall, if a cross is described in words, draw the square. Two minutes of drawing prevents the one error that costs the whole question, which is swapping the parent genotypes."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "প্ৰশ্নকাকতে আসলতে কি সুধে"
+      ],
+      [
+        "p",
+        "বংশগতি শিতানটো জীৱবিজ্ঞানৰ ভিতৰত আটাইতকৈ টান যেন লাগে, কিন্তু নম্বৰ তুলিবলৈ আটাইতকৈ সহজ — কাৰণ প্ৰশ্নবোৰ অলপ সংখ্যা আৰু অলপ সংজ্ঞাৰ পৰাই বনোৱা হয়। DHS আৰু DME ত ই চাৰি ধৰণে আহে: মেণ্ডেলৰ অনুপাত, এটা সংজ্ঞা (এলিল, জিন’টাইপ, ফিন’টাইপ), DNA বা RNA ৰ এটা তথ্য, আৰু লিংগ নিৰ্ণয় বা লিংগ-সংলগ্ন ৰোগৰ এটা প্ৰশ্ন। ক্ৰমবিকাশ আহিলে এটা সংজ্ঞাৰ প্ৰশ্নহে আহে।"
+      ],
+      [
+        "p",
+        "সেয়ে এই শিতানত মনত ৰখাৰ কামহে বেছি, হিচাপৰ নহয়। ছটা সংখ্যা আৰু প্ৰায় বিশটা শব্দ শিকিলে শিতানটো সামৰি পেলোৱা যায়। প্ৰাৰ্থীসকলে কৰা ভুলটো হ'ল — অধ্যায়টো কাহিনীৰ দৰে পঢ়ি যোৱা, তাৰ পিছত দ্বি-সংকৰণৰ F2 অনুপাত সুধিলে থতমত খোৱা।"
+      ],
+      [
+        "h3",
+        "মেণ্ডেল, আৰু নম্বৰ অনা দুটা অনুপাত"
+      ],
+      [
+        "p",
+        "মেণ্ডেলে মটৰ মাহৰ গছত সংকৰণ কৰি সন্তান গণিছিল, আৰু পাঠ্যক্ৰমৰ সকলো কথা তেওঁৰ গণনাৰ পৰাই আহে। এক-সংকৰণ (monohybrid) — অৰ্থাৎ এযোৰ বিপৰীত গুণ, যেনে ওখ বনাম চাপৰ — F2 ত ৰূপত ৩:১, আৰু গুণগত গঠনত ১:২:১ দিয়ে। দ্বি-সংকৰণ (dihybrid) — দুযোৰ একেলগে — ৰূপত ৯:৩:৩:১ দিয়ে।"
+      ],
+      [
+        "p",
+        "তেওঁৰ দুটা সূত্ৰ প্ৰশ্নকাকতৰ ভাষাতেই মনত ৰখা ভাল। বিচ্ছেদৰ সূত্ৰ (law of segregation) কয় — গেমেট গঠনৰ সময়ত এটা জিনৰ দুটা এলিল পৃথক হয়, সেয়ে প্ৰতিটো গেমেটত এটাহে থাকে। স্বাধীন বিতৰণৰ সূত্ৰ (law of independent assortment) কয় — বেলেগ জিনৰ এলিলবোৰে পৰস্পৰে স্বাধীনভাৱে বিতৰণ হয়, যি তেতিয়াহে সত্য যেতিয়া জিনবোৰ বেলেগ বেলেগ ক্ৰম’জমত থাকে।"
+      ],
+      [
+        "p",
+        "পৰীক্ষামূলক সংকৰণ (test cross) — অজ্ঞাত গছটোক সমসংস্থ recessive গছৰ লগত সংকৰণ কৰা। যদি কোনো recessive সন্তান ওলায়, অজ্ঞাত গছটো heterozygous আছিল। প্ৰশ্নত ইয়াক এনেকৈ লিখা থাকে: 'এটা ওখ গছ চাপৰ গছৰ লগত সংকৰণ কৰাত ওখ আৰু চাপৰ দুয়ো সন্তান ওলাল' — এই এটা বাক্যই ওখ পিতৃ-গছটোক Tt বুলি নিৰ্ণয় কৰি দিয়ে, আৰু বাকী প্ৰশ্নবোৰ নিজেই সমাধান হৈ যায়।"
+      ],
+      [
+        "h3",
+        "শব্দবোৰ, সঠিক অৰ্থত"
+      ],
+      [
+        "ul",
+        [
+          "জিন — এটা গুণ বা প্ৰ’টিনৰ বাবে সংকেত দিয়া DNA ৰ অংশ।",
+          "এলিল — এটা জিনৰ বিকল্প ৰূপ (T আৰু t)।",
+          "জিন’টাইপ — থকা এলিলবোৰ, TT, Tt বা tt হিচাপে লিখা।",
+          "ফিন’টাইপ — দেখা পোৱা ৰূপ, ওখ বা চাপৰ।",
+          "হম’জাইগাছ — দুয়োটা এলিল একে; হেটাৰ’জাইগাছ — দুয়োটা বেলেগ।",
+          "প্ৰভাৱী (dominant) — এটা কপি থাকিলেও প্ৰকাশ পায়; অৱশিষ্ট (recessive) — দুয়োটা অৱশিষ্ট হ'লেহে প্ৰকাশ পায়।"
+        ]
+      ],
+      [
+        "p",
+        "যিটো দুটাত প্ৰাৰ্থীয়ে মিলাই দিয়ে, তাক এশাৰীয়ে পৃথক কৰে: জিন’টাইপ আখৰেৰে লিখা হয়, ফিন’টাইপ শব্দেৰে। Tt ৰ ফিন’টাইপ সুধিলে উত্তৰ 'ওখ', 'Tt' নহয়।"
+      ],
+      [
+        "h3",
+        "DNA — প্ৰশ্নকাকতে যিমান সুধে"
+      ],
+      [
+        "p",
+        "DNA দুডাল শিকলিৰ দ্বি-হেলিক্স, দুডাল ওলোটা দিশত যায়, আৰু ক্ষাৰকীয় যোৰেৰে জোৰা লগা থাকে। এডেনিনে থাইমিনৰ লগত দুটা হাইড্ৰ’জেন বণ্ডেৰে, গুৱানিনে চাইট’চিনৰ লগত তিনিটাৰে জোৰা লগায়। RNA ত থাইমিনৰ ঠাইত ইউৰাচিল আহে। শিকলিৰ গাঁথনি চেনি আৰু ফছফেটৰ — DNA ত ডিঅ’ক্সিৰাইব’জ, RNA ত ৰাইব’জ।"
+      ],
+      [
+        "p",
+        "কেন্দ্ৰীয় মতবাদ (central dogma) হ'ল DNA → RNA → প্ৰ’টিন। ট্ৰান্সক্ৰিপচনে নিউক্লিয়াছৰ ভিতৰত DNA ক মেছেঞ্জাৰ RNA লৈ নকল কৰে; ট্ৰান্সলেচনে ৰাইব’জমত সেই বাৰ্তা পঢ়ি প্ৰ’টিন বনায়। 'কোন প্ৰক্ৰিয়াই DNA ক RNA লৈ নকল কৰে' সুধিলে উত্তৰ ট্ৰান্সক্ৰিপচন, আৰু 'প্ৰ’টিন ক’ত জোৰা লগে' সুধিলে উত্তৰ ৰাইব’জম।"
+      ],
+      [
+        "p",
+        "এই প্ৰশ্নকাকতৰ বাবে তিনি ধৰণৰ RNA যথেষ্ট: মেছেঞ্জাৰ RNAয়ে সংকেত নিউক্লিয়াছৰ পৰা বাহিৰলৈ লৈ যায়, ট্ৰান্সফাৰ RNAয়ে এমিন’ এচিড ৰাইব’জমলৈ লৈ আহে, আৰু ৰাইব’জ’মেল RNA নিজেই ৰাইব’জমৰ অংশ। DNA ৰ প্ৰতিলিপি অৰ্ধ-সংৰক্ষী (semi-conservative) — প্ৰতিটো নতুন অণুৱে এডাল পুৰণি আৰু এডাল নতুন শিকলি ৰাখে।"
+      ],
+      [
+        "h3",
+        "লিংগ নিৰ্ণয় আৰু লিংগ-সংলগ্ন উত্তৰাধিকাৰ"
+      ],
+      [
+        "p",
+        "মানুহত লিংগ নিৰ্ণয় কৰে পিতৃৰ শুক্ৰাণুৱে। মাকে এটা X ক্ৰম’জম দিয়ে, পিতৃয়ে X বা Y দিয়ে। XX হ'লে কন্যা, XY হ'লে পুত্ৰ। সেয়ে 'সন্তানৰ লিংগ কোনে নিৰ্ণয় কৰে' সুধিলে উত্তৰ 'পিতৃ', আৰু সেয়ে Y ক্ৰম’জমটো সৰু আৰু ইয়াত অলপ জিনহে থাকে।"
+      ],
+      [
+        "p",
+        "বৰ্ণান্ধতা আৰু হিম’ফিলিয়া X-সংলগ্ন recessive ৰোগ। এগৰাকী মাতৃৰ এটা X ৰোগযুক্ত হ'লে তেওঁৰ আধা পুত্ৰলৈ ৰোগটো যায়, কাৰণ পুত্ৰৰ এটাহে X থাকে, ঢাকি ৰখা দ্বিতীয় কপি নাই। কন্যাই ৰোগ পায় তেতিয়াহে যেতিয়া পিতৃও ৰোগী। এই অসমতা — পুৰুষত ৰোগ বেছি — এয়েই এক-নম্বৰৰ উত্তৰ।"
+      ],
+      [
+        "p",
+        "ক্ৰম’জমৰ ৰোগৰ ভিতৰত ডাউন চিন্ড্ৰ’ম মনত ৰাখিব: ক্ৰম’জম ২১ ৰ ট্ৰাইছমি, অৰ্থাৎ ৪৬ ৰ সলনি ৪৭ টা ক্ৰম’জম। ই মেণ্ডেলৰ নিয়মেৰে উত্তৰাধিকাৰী নহয়; মিঅ’চিছত নন-ডিছজাংচনৰ পৰা হয়। টাৰ্নাৰ চিন্ড্ৰ’ম XO, ক্লাইনফেল্টাৰ XXY।"
+      ],
+      [
+        "h3",
+        "ক্ৰমবিকাশ — চমুকৈ"
+      ],
+      [
+        "p",
+        "লামাৰ্কে কৈছিল — জীৱনকালত অৰ্জিত গুণ সন্তানলৈ যায়; জিৰাফে ডিঙি মেলি লম্বা কৰিলে আৰু সেই লম্বা ডিঙি পোৱালিলৈ দিলে। ডাৰউইনে কৈছিল — বৈচিত্ৰ্য আগতেই আছে, আৰু পৰিৱেশে তাক বাছি লয় যি জীয়াই থাকে আৰু বংশ বৃদ্ধি কৰে। ডাৰউইনৰ মতটোৱেই স্বীকৃত, আৰু প্ৰশ্নত 'selection' বা 'জীৱন-সংগ্ৰাম' শব্দটো থাকিলে সেয়া ডাৰউইনৰ সংকেত।"
+      ],
+      [
+        "p",
+        "প্ৰমাণ তালিকা হিচাপে সোধা হয়: ফছিল, সমসংস্থ অংগ (গঠন একে, কাম বেলেগ — মানুহ, তিমি আৰু বাদুলিৰ আগ-ভৰি), সদৃশ অংগ (গঠন বেলেগ, কাম একে — চৰাইৰ ডেউকা আৰু পোকৰ ডেউকা), আৰু ভ্ৰূণতত্ত্বৰ মিল। সমসংস্থই সাধাৰণ পূৰ্বপুৰুষলৈ আঙুলিয়ায়; সদৃশই একে অভ্যাসলৈ, পূৰ্বপুৰুষলৈ নহয়।"
+      ],
+      [
+        "p",
+        "প্ৰজাতি সৃষ্টি (speciation) হয় যেতিয়া জনসংখ্যা যথেষ্ট দিনলৈ পৃথক হৈ থাকি পৰস্পৰে বংশবৃদ্ধি বন্ধ কৰি দিয়ে। প্ৰাকৃতিক নিৰ্বাচনে থকা বৈচিত্ৰ্যতহে কাম কৰে; ই বিচাৰিলে নতুন বৈচিত্ৰ্য সৃষ্টি নকৰে — এই বাক্যয়েই দুই-নম্বৰৰ উত্তৰত ডাৰউইনক লামাৰ্কৰ পৰা পৃথক কৰে।"
+      ],
+      [
+        "h3",
+        "এই বেংকৰ তিনি প্ৰশ্ন, সমাধানকে ধৰি"
+      ],
+      [
+        "p",
+        "এটা ওখ মটৰ মাহ গছ চাপৰ গছৰ লগত সংকৰণ কৰাত ওখ আৰু চাপৰ দুয়ো সন্তান ওলাল। ওখ পিতৃ-গছটোৰ জিন’টাইপ কি? দুয়ো ধৰণৰ সন্তান মানে ওখ গছটোৱে কিছুমান গেমেটত recessive এলিল দিছিল, সেয়ে তাৰ এটা থাকিবই: Tt। যদি ইয়াৰ পিছত সন্তানত ওখ আৰু চাপৰৰ অনুপাত সুধে, সংকৰণটো Tt × tt, যাৰ ফল ১:১, ৩:১ নহয়। ইয়াত ৩:১ বুলি লিখা প্ৰাৰ্থীয়ে ভুল সংকৰণৰ F2 অনুপাত ব্যৱহাৰ কৰিছে।"
+      ],
+      [
+        "p",
+        "A আৰু B তেজৰ গ্ৰুপৰ পিতৃ-মাতৃৰ O গ্ৰুপৰ সন্তান হ'ব পাৰে নে? হয়, যদি দুয়ো পিতৃ-মাতৃ heterozygous — AO আৰু BO — কাৰণ দুয়োৱে O এলিল দিব পাৰে। সন্তানটো OO। প্ৰশ্নই পৰীক্ষা কৰিছে — A আৰু B ৰ ওপৰত প্ৰভাৱী, কিন্তু এটাই আনটোৰ ওপৰত প্ৰভাৱী নহয়, সেয়ে AB চতুৰ্থ গ্ৰুপ, মিশ্ৰণ নহয়।"
+      ],
+      [
+        "p",
+        "এজন বৰ্ণান্ধ পুৰুষে বাহক নোহোৱা এগৰাকী মহিলাক বিয়া কৰালে সন্তানলৈ কি হয়? প্ৰতিটো পুত্ৰই পিতৃৰ Y আৰু মাতৃৰ স্বাভাৱিক X পায়, সেয়ে কোনো পুত্ৰ বৰ্ণান্ধ নহয়। প্ৰতিগৰাকী কন্যাই পিতৃৰ ৰোগযুক্ত X আৰু মাতৃৰ স্বাভাৱিক X পায়, সেয়ে প্ৰতিগৰাকী কন্যা বাহক, কিন্তু কোনেও বৰ্ণান্ধ নহয়। এই এটা সংকৰণেই ব্যাখ্যা কৰে — ৰোগটোৱে এটা প্ৰজন্ম কেনেকৈ এৰি যায় আৰু নাতি-পুত্ৰত কেনেকৈ পুনৰ ওলায়।"
+      ],
+      [
+        "h3",
+        "মিউটেচন — এটা অনুচ্ছেদত"
+      ],
+      [
+        "p",
+        "মিউটেচন হ'ল DNA ৰ ক্ষাৰকীয় ক্ৰমৰ পৰিৱৰ্তন। Point mutation এ এটা ক্ষাৰক সলনি, সোমোৱা বা বাদ পৰা হয়, আৰু frameshift — অৰ্থাৎ সোমোৱা বা বাদ পৰা — সাধাৰণতে substitution তকৈ বেয়া, কাৰণ পৰিৱৰ্তনৰ পিছৰ প্ৰতিটো ক’ডন ভুলকৈ পঢ়া হয়। মিউটেচনেই ক্ৰমবিকাশৰ কেঁচা সামগ্ৰী, আৰু ইয়াৰ বেছিভাগ উপযোগীতকৈ নিৰপেক্ষ বা ক্ষতিকৰ — এই বাক্যয়েই ডাৰউইনৰ উত্তৰক সৎ ৰাখে।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "এক-সংকৰণৰ ফিন’টাইপত ১:২:১ লিখা — সেয়া ৩:১; ১:২:১ হ'ল জিন’টাইপৰ অনুপাত।",
+          "বৰ্ণান্ধতা Y ক্ৰম’জমে বহন কৰে বুলি কোৱা — সেয়া X-সংলগ্ন।",
+          "DNA ত ইউৰাচিল আছে বুলি কোৱা — থাকে RNA ত।",
+          "ট্ৰান্সক্ৰিপচন আৰু ট্ৰান্সলেচন মিলাই দিয়া।",
+          "'অৰ্জিত গুণৰ উত্তৰাধিকাৰ' ডাৰউইনৰ বুলি লিখা।"
+        ]
+      ],
+      [
+        "h3",
+        "প্ৰশ্নকাকতত সোধা তিনটা সৰু তথ্য"
+      ],
+      [
+        "p",
+        "প্ৰথম: মানুহৰ শৰীৰত কিমান ক্ৰম’জম? ৪৬ — অৰ্থাৎ ২৩ যোৰ। প্ৰশ্নত কেতিয়াবা 'কিমান যোৰ' বুলি সোধে, তেতিয়া উত্তৰ ২৩। দ্বিতীয়: DNA ৰ দ্বি-হেলিক্স গঠন কোনে আৱিষ্কাৰ কৰিছিল? ৱাটছন আৰু ক্ৰিকে, ১৯৫৩ চনত, ৰ’জালিণ্ড ফ্ৰেংকলিনৰ X-ৰে চিত্ৰৰ ওপৰত ভিত্তি কৰি। তৃতীয়: মানুহৰ লিংগ ক্ৰম’জম কিমানখন? দুখন — X আৰু Y। এই তিনটা তথ্য বছৰি একেই ধৰণে আহে, সেয়ে এটা কাৰ্ডত লিখি থোৱা ভাল।"
+      ],
+      [
+        "p",
+        "আৰু এটা সৰু পাৰ্থক্য: 'জিন' আৰু 'এলিল' একে নহয়। জিন হ'ল DNA ৰ এটা অংশ, এলিল হ'ল সেই জিনৰ এটা ৰূপ। যেনেকৈ এখন ঘৰ এটা ধাৰণা, আৰু তাৰ বিভিন্ন আৰ্হি বিভিন্ন এলিল। প্ৰশ্নত 'এটা গুণৰ বিকল্প ৰূপ' বুলি ক'লে উত্তৰ এলিল, 'গুণৰ একক' বুলি ক'লে উত্তৰ জিন।"
+      ],
+      [
+        "h3",
+        "এই শিতানত দহ দিন"
+      ],
+      [
+        "p",
+        "দুদিন শব্দৰ তালিকাত — প্ৰতিটো শব্দ এটাকৈ উদাহৰণেৰে লিখি। দুদিন সংকৰণত — এক-সংকৰণ আৰু দ্বি-সংকৰণৰ পেনেট স্কোৱেৰ আঁকি আঁকি, দুয়োটা অনুপাত নাভাবাকৈ ওলোৱালৈকে। দুদিন DNA আৰু কেন্দ্ৰীয় মতবাদত — তিনি খোজ মাতি মাতি। দুদিন লিংগ নিৰ্ণয় আৰু X-সংলগ্ন ৰোগত। শেষৰ দুদিন: এই বেংকৰ সময়বদ্ধ প্ৰশ্ন, আৰু ডাৰউইন বনাম লামাৰ্কৰ ওপৰত নিজৰ ভাষাত এটা অনুচ্ছেদ লিখি।"
+      ],
+      [
+        "p",
+        "শেষত এটা কথা: এই শিতানৰ বহু প্ৰশ্ন শব্দৰ ওপৰত নিৰ্ভৰ কৰে, হিচাপৰ ওপৰত নহয়। 'প্ৰভাৱী', 'অৱশিষ্ট', 'সমসংস্থ', 'সদৃশ' — এই চাৰিটা শব্দৰ অৰ্থ স্পষ্ট হ'লে আধা প্ৰশ্ন নিজেই উত্তৰ দি দিয়ে। সেয়ে পৰীক্ষাৰ আগদিনা নতুন প্ৰশ্ন নাখি, কেৱল এই শব্দবোৰৰ তালিকাখন পঢ়ি ল'ব। লগতে মনত ৰাখিব, এই শিতানত এটা প্ৰশ্ন ভুল হ'লে সাধাৰণতে আটাইকেইটা ভুল হয়, কাৰণ প্ৰশ্নবোৰ এটাৰ পিছত এটাকৈ সজা; সেয়ে প্ৰথম প্ৰশ্নটোতে সময় লৈ, ধীৰে পঢ়ি উত্তৰ দিয়াটোৱেই শিতানটোৰ আটাইতকৈ লাভজনক কৌশল।"
+      ],
+      [
+        "tip",
+        "পৰীক্ষাৰ কোঠাত সংকৰণ শব্দেৰে দিয়া থাকিলে স্কোৱেৰটো আঁকি লওক। দুই মিনিটৰ আঁচনিয়ে সেই এটা ভুল ৰোধ কৰে যিয়ে গোটেই প্ৰশ্নটো নষ্ট কৰে — পিতৃ-মাতৃৰ জিন’টাইপ ওলোটা কৰি দিয়া।"
+      ]
+    ]
+  },
+  "human-anatomy": {
+    "en": [
+      [
+        "h3",
+        "How the paper uses this topic"
+      ],
+      [
+        "p",
+        "Human anatomy is the largest single block in the biology section, and the questions are almost all one-liners: how many bones, which bone is the longest, where is this organ, what does this gland secrete. There is no reasoning to do in the hall. The work happens before the exam, in arranging about a hundred facts so that they can be recalled under pressure."
+      ],
+      [
+        "p",
+        "The paper asks from four shelves: the skeletal system, the digestive system, the circulatory and respiratory systems, and the sense organs. Nursing and paramedical candidates get a slightly deeper version — the same facts plus a few clinical ones — but the core list does not change."
+      ],
+      [
+        "h3",
+        "The skeleton, counted properly"
+      ],
+      [
+        "p",
+        "An adult has 206 bones; a newborn has around 270, and the number falls because some bones fuse. The longest bone is the femur, the smallest is the stapes in the middle ear, and the strongest is the femur again by most measures. The vertebral column has 33 vertebrae in the child, which fuse into 26 in the adult: 7 cervical, 12 thoracic, 5 lumbar, 5 sacral fused into one sacrum, and 4 coccygeal fused into the coccyx."
+      ],
+      [
+        "p",
+        "The ribs are 12 pairs. The first seven pairs are true ribs, joined to the sternum by their own cartilage. Pairs eight to ten are false ribs, joined indirectly, and pairs eleven and twelve are floating ribs with no front attachment. A question that asks how many pairs of floating ribs has 'two' as the answer, and the trap is to answer 'five' by counting the false ribs."
+      ],
+      [
+        "p",
+        "The skull has 22 bones in the adult, of which 8 form the cranium and 14 the face. The only movable bone of the skull is the mandible. The smallest bone in the body, the stapes, sits in the middle ear and transmits sound to the oval window."
+      ],
+      [
+        "h3",
+        "Digestion, in order"
+      ],
+      [
+        "p",
+        "The alimentary canal runs mouth, pharynx, oesophagus, stomach, small intestine, large intestine, rectum, anus. The small intestine is where absorption happens, and its three parts in order are duodenum, jejunum, ileum. The large intestine has the caecum, colon and rectum, and the appendix hangs off the caecum."
+      ],
+      [
+        "p",
+        "Enzymes are asked as a table and should be memorised as one. Saliva has salivary amylase, which starts starch digestion. The stomach has pepsin, which works on protein in an acid medium, and hydrochloric acid keeps the pH low enough for pepsin to work. The pancreas sends amylase, lipase and trypsin into the duodenum. The liver makes bile, which is stored in the gall bladder and emulsifies fat — bile contains no enzyme, which is a favourite one-mark trap."
+      ],
+      [
+        "p",
+        "The liver is the largest gland and the second largest organ; the skin is the largest organ. It stores glycogen, detoxifies, makes plasma proteins and produces bile. The pancreas is both exocrine and endocrine: exocrine for digestive enzymes, endocrine for insulin and glucagon from the islets of Langerhans."
+      ],
+      [
+        "h3",
+        "Heart and blood"
+      ],
+      [
+        "p",
+        "The heart has four chambers: two atria above, two ventricles below. The right side carries deoxygenated blood to the lungs, the left side carries oxygenated blood to the body. The wall of the left ventricle is thickest because it pumps against the whole systemic circulation. The valves are the tricuspid on the right, the bicuspid or mitral on the left, and the semilunar valves at the exits of the aorta and pulmonary artery."
+      ],
+      [
+        "p",
+        "The normal resting rate is about 72 beats a minute, and the pacemaker is the sinoatrial node in the right atrium. Blood has plasma, red cells, white cells and platelets. Red cells carry haemoglobin and live about 120 days; they are made in the bone marrow and destroyed in the spleen. White cells defend the body, and platelets clot it."
+      ],
+      [
+        "p",
+        "Blood groups follow the ABO system plus the Rh factor. O negative is called the universal donor for red cells and AB positive the universal recipient. A person with Rh-negative blood who receives Rh-positive blood makes antibodies, which is why the second transfusion is the dangerous one."
+      ],
+      [
+        "h3",
+        "Breathing and the lungs"
+      ],
+      [
+        "p",
+        "Air travels nose, pharynx, larynx, trachea, bronchi, bronchioles, alveoli. Gas exchange happens only in the alveoli, which is the answer whenever the paper asks where oxygen enters the blood. The diaphragm and the intercostal muscles drive breathing; the diaphragm flattens on inspiration and the rib cage rises."
+      ],
+      [
+        "p",
+        "Tidal volume is the air moved in a normal breath, about 500 ml. Vital capacity is the maximum that can be exhaled after a maximum inhalation. Residual volume is what stays in the lungs and cannot be exhaled. These three terms are asked as definitions and are easy marks once the words are sorted."
+      ],
+      [
+        "h3",
+        "Sense organs and the nervous system"
+      ],
+      [
+        "p",
+        "The eye has three layers: sclera outside, choroid in the middle, retina inside. The cornea refracts most of the light, the lens fine-tunes the focus, and the retina carries the rods and cones. Rods work in dim light and give black-and-white vision; cones work in bright light and give colour. The blind spot is where the optic nerve leaves and there are no receptors."
+      ],
+      [
+        "p",
+        "The ear has three parts. The outer ear collects sound, the middle ear has the three ossicles — malleus, incus, stapes — and the inner ear has the cochlea for hearing and the semicircular canals for balance. A question that asks which part maintains balance wants the semicircular canals, not the cochlea."
+      ],
+      [
+        "p",
+        "The nervous system divides into the central nervous system — brain and spinal cord — and the peripheral nervous system. The brain has the cerebrum for thought and voluntary action, the cerebellum for balance and coordination, and the medulla oblongata for involuntary functions such as breathing and heartbeat. Damage to the medulla is fatal for that reason."
+      ],
+      [
+        "h3",
+        "Glands and hormones worth knowing"
+      ],
+      [
+        "ul",
+        [
+          "Pituitary — master gland, growth hormone; at the base of the brain.",
+          "Thyroid — thyroxine, controls metabolism; iodine is needed to make it.",
+          "Parathyroid — parathormone, raises blood calcium.",
+          "Adrenal — adrenaline for fight or flight, cortisol for stress.",
+          "Pancreas — insulin and glucagon, control blood sugar.",
+          "Testis and ovary — testosterone and oestrogen, secondary sexual characters."
+        ]
+      ],
+      [
+        "p",
+        "Diabetes mellitus is insulin deficiency or resistance; diabetes insipidus is ADH deficiency and produces large volumes of dilute urine. Goitre is iodine deficiency of the thyroid. These three clinical lines are the ones the technical paper uses."
+      ],
+      [
+        "h3",
+        "Muscles, skin and kidneys"
+      ],
+      [
+        "p",
+        "The body has three muscle types. Skeletal muscle is striped and voluntary, and it moves the bones. Smooth muscle is unstriped and involuntary, and it lines the gut and blood vessels. Cardiac muscle is striped but involuntary, and it is found only in the heart. A question that asks which muscle is both striped and involuntary wants cardiac."
+      ],
+      [
+        "p",
+        "The skin has two layers, the epidermis outside and the dermis inside, with the hypodermis beneath. It protects, senses touch and temperature, makes vitamin D in sunlight, and cools the body by sweating. Sweat glands, sebaceous glands and hair follicles all sit in the dermis."
+      ],
+      [
+        "p",
+        "The kidney is the organ of excretion. The functional unit is the nephron, and each kidney has about a million of them. Filtration happens in the glomerulus, reabsorption of water and glucose in the tubule, and the result is urine, which passes down the ureter to the bladder and out through the urethra. The kidney also controls blood pressure and acid balance, which is why kidney failure affects the whole body."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Answering 33 for the number of vertebrae in an adult. It is 26 after fusion.",
+          "Saying bile contains enzymes. It contains bile salts and pigments only.",
+          "Calling the skin a gland instead of the largest organ.",
+          "Mixing the tricuspid and bicuspid valves, or the left and right sides of the heart.",
+          "Answering cochlea for balance. Balance is the semicircular canals."
+        ]
+      ],
+      [
+        "h3",
+        "Ten days on this topic"
+      ],
+      [
+        "p",
+        "Two days on the skeleton, counting in groups — skull 22, ribs 12 pairs, vertebrae 26 — rather than as one long number. Two days on digestion, writing the enzyme table from memory each morning. Two days on the heart and blood, drawing the four chambers and labelling the valves. Two days on the lungs and the three volume terms. Two days on the sense organs and the glands, with one clinical line for each gland. On the last morning, read only the traps list."
+      ],
+      [
+        "tip",
+        "Numbers are what this topic tests, so write them as a ladder: 206 bones, 33 to 26 vertebrae, 12 pairs of ribs, 22 skull bones, 4 chambers, 72 beats, 120 days for a red cell. Six numbers, six marks, and no reasoning needed in the hall."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "প্ৰশ্নকাকতে এই শিতান কেনেকৈ ব্যৱহাৰ কৰে"
+      ],
+      [
+        "p",
+        "মানৱ শৰীৰতত্ত্ব জীৱবিজ্ঞান শিতানৰ আটাইতকৈ ডাঙৰ অংশ, আৰু প্ৰশ্নবোৰ প্ৰায় all এক-শাৰীৰ: কিমান হাড়, আটাইতকৈ দীঘল হাড় কোনটো, এই অংগটো ক’ত, এই গ্ৰন্থিয়ে কি নিঃসৰণ কৰে। পৰীক্ষাৰ কোঠাত ভাবিবলগীয়া একো নাই। কামটো পৰীক্ষাৰ আগতেই — প্ৰায় এশটা তথ্য এনেকৈ সজাই ৰখা যাতে চাপত মনত পৰে।"
+      ],
+      [
+        "p",
+        "প্ৰশ্নকাকতে চাৰি শেল্ফৰ পৰা সুধে: কংকাল তন্ত্ৰ, পাচন তন্ত্ৰ, ৰক্ত সংবহন আৰু শ্বসন তন্ত্ৰ, আৰু জ্ঞানেন্দ্ৰিয়। নাৰ্ছিং আৰু পেৰামেডিকেল প্ৰাৰ্থীৰ বাবে অলপ গভীৰ সংস্কৰণ আহে — একেই তথ্যৰ লগত অলপ ক্লিনিকেল কথা — কিন্তু মূল তালিকা সলনি নহয়।"
+      ],
+      [
+        "h3",
+        "কংকাল, শুদ্ধকৈ গণি"
+      ],
+      [
+        "p",
+        "প্ৰাপ্তবয়স্ক মানুহত ২০৬ টা হাড়; নৱজাতকত প্ৰায় ২৭০ টা, আৰু কিছুমান হাড় জোৰা লগা বাবে সংখ্যা কমি যায়। আটাইতকৈ দীঘল হাড় ফিমাৰ, আটাইতকৈ সৰু ষ্টেপিছ (মাজৰ কাণত), আৰু বেছিভাগ মানদণ্ডত আটাইতকৈ সবলও ফিমাৰ। মেৰুদণ্ডত শিশুৰ ৩৩ টা কশেৰুকা থাকে, প্ৰাপ্তবয়স্কত ২৬ টা হয়: ৭ টা গ্ৰীৱা, ১২ টা বক্ষ, ৫ টা কটি, ৫ টা ক্ৰুচীয় জোৰা লাগি এটা ছেক্ৰাম, আৰু ৪ টা কক্ছিজিয়েল জোৰা লাগি কক্ছিক্স।"
+      ],
+      [
+        "p",
+        "ৰিব ১২ যোৰ। প্ৰথম সাত যোৰ প্ৰকৃত ৰিব, নিজৰ উপাস্থিৰে ষ্টাৰ্নামৰ লগত জোৰা লগা। আঠৰ পৰা দহ যোৰ অকৃত্ৰিম ৰিব, পৰোক্ষভাৱে জোৰা লগা, আৰু এঘাৰ-বাৰ যোৰ ওপঙা ৰিব — সন্মুখত কোনো সংযোগ নাই। 'কিমান যোৰ ওপঙা ৰিব' সুধিলে উত্তৰ 'দুই যোৰ', আৰু ফান্দটো হ'ল — অকৃত্ৰিম ৰিব গণি 'পাঁচ' বুলি কোৱা।"
+      ],
+      [
+        "p",
+        "প্ৰাপ্তবয়স্কৰ কৰ’টিলত ২২ টা হাড়, তাৰ ৮ টাই কৰ’টিল আৰু ১৪ টাই মুখমণ্ডল গঠন কৰে। কৰ’টিলৰ একমাত্ৰ চলনশীল হাড় মেণ্ডিবল। শৰীৰৰ আটাইতকৈ সৰু হাড় ষ্টেপিছ মাজৰ কাণত থাকে আৰু শব্দ অ’ভেল উইণ্ড’লৈ পঠিয়ায়।"
+      ],
+      [
+        "h3",
+        "পাচন, ক্ৰম অনুসৰি"
+      ],
+      [
+        "p",
+        "পাচন নলীৰ ক্ৰম — মুখ, গ্ৰাসনলী, ইছ’ফেগাছ, পেট, ক্ষুদ্ৰান্ত্ৰ, বৃহদান্ত্ৰ, মলাশয়, গুদ। শোষণ ক্ষুদ্ৰান্ত্ৰত হয়, আৰু তাৰ তিনি অংশ ক্ৰমে ডুওডেনাম, জেজুনাম, ইলিয়াম। বৃহদান্ত্ৰত ছিকাম, ক’লন আৰু মলাশয় থাকে, আৰু এপেণ্ডিক্স ছিকামৰ পৰা ওলমি থাকে।"
+      ],
+      [
+        "p",
+        "এনজাইমবোৰ তালিকা হিচাপে সোধা হয়, সেয়ে এখন তালিকা হিচাপেই মনত ৰাখিব। লালত salivary amylase থাকে, যি শ্বেতসাৰৰ পাচন আৰম্ভ কৰে। পেটত পেপছিন থাকে, যি অম্ল মাধ্যমত প্ৰ’টিনত কাম কৰে, আৰু হাইড্ৰ’ক্ল’ৰিক এচিডে pH কমাই পেপছিনৰ বাবে উপযুক্ত কৰি ৰাখে। অগ্ন্যাশয়ে ডুওডেনামলৈ amylase, lipase আৰু ট্ৰিপছিন পঠিয়ায়। যকৃতেই পিত্ত বনায়, যি পিত্তথলীত সঞ্চিত থাকে আৰু চৰ্বিৰ emulsification কৰে — পিত্তত এনজাইম নাই, এয়েই প্ৰিয় এক-নম্বৰ ফান্দ।"
+      ],
+      [
+        "p",
+        "যকৃত আটাইতকৈ ডাঙৰ গ্ৰন্থি আৰু দ্বিতীয় আটাইতকৈ ডাঙৰ অংগ; ছাল আটাইতকৈ ডাঙৰ অংগ। ই গ্লাইক’জেন সঞ্চয় কৰে, বিষহৰণ কৰে, প্লাজমা প্ৰ’টিন বনায় আৰু পিত্ত উৎপন্ন কৰে। অগ্ন্যাশয় একে সময়তে exocrine আৰু endocrine — পাচক এনজাইমৰ বাবে exocrine, লেঙাৰহানছৰ আইলেটৰ পৰা ইনচুলিন আৰু গ্লুকাগনৰ বাবে endocrine।"
+      ],
+      [
+        "h3",
+        "হৃদয় আৰু তেজ"
+      ],
+      [
+        "p",
+        "হৃদয়ত চাৰিটা কোঠা: ওপৰত দুটা অলিন্দ, তলত দুটা নিলয়। সোঁফালে অশুদ্ধ তেজ ফুসফুসলৈ নিয়ে, বাওঁফালে শুদ্ধ তেজ শৰীৰলৈ। বাওঁ নিলয়ৰ বেৰ আটাইতকৈ ডাঠ, কাৰণ ই গোটেই শৰীৰৰ ৰক্ত সংবহনৰ বিৰুদ্ধে পাম্প কৰে। ভালভ — সোঁফালে ট্ৰাইকাছপিড, বাওঁফালে বাইকাছপিড বা মাইট্ৰাল, আৰু মহাধমনী আৰু ফুসফুসীয় ধমনীৰ মুখত ছেমিলুনাৰ ভালভ।"
+      ],
+      [
+        "p",
+        "সাধাৰণ বিশ্ৰামৰ হাৰ মিনিটত প্ৰায় ৭২, আৰু পেচমেকাৰ সোঁ অলিন্দৰ ছাইন’এট্ৰিয়েল ন’ড। তেজত প্লাজমা, ৰক্তকণিকা, শ্বেতকণিকা আৰু অণুচক্ৰিকা থাকে। ৰক্তকণিকাই হিম’গ্লবিন বহন কৰে আৰু প্ৰায় ১২০ দিন জীয়াই থাকে; অস্থিমজ্জাত জন্মে, প্লীহাত নষ্ট হয়। শ্বেতকণিকাই শৰীৰ ৰক্ষা কৰে, অণুচক্ৰিকাই তেজ জমায়।"
+      ],
+      [
+        "p",
+        "তেজৰ গ্ৰুপ ABO পদ্ধতি আৰু Rh ফেক্টৰ অনুসৰি। O নেগেটিভক ৰক্তকণিকাৰ সৰ্বজনীন দাতা আৰু AB পজিটিভক সৰ্বজনীন গ্ৰহীতা বোলে। Rh-নেগেটিভ ব্যক্তিয়ে Rh-পজিটিভ তেজ ল’লে এণ্টিবডি বনায়, সেয়ে দ্বিতীয়বাৰ তেজ দিয়াটোহে বিপদজনক।"
+      ],
+      [
+        "h3",
+        "শ্বাস আৰু ফুসফুস"
+      ],
+      [
+        "p",
+        "বায়ু যায় নাক, গ্ৰাসনলী, লেৰিংক্স, ট্ৰেকিয়া, ব্ৰংকাই, ব্ৰংকিঅ’ল, এলভিঅ’লাই। গেছৰ বিনিময় কেৱল এলভিঅ’লিত হয় — 'অক্সিজেন তেজত ক’ত সোমায়' সুধিলে এয়েই উত্তৰ। ডায়াফ্ৰাম আৰু অন্তঃপাৰ্শ্ব পেশীয়ে শ্বাস পৰিচালনা কৰে; শ্বাস লওঁতে ডায়াফ্ৰাম চেপেটা হয় আৰু ৰিবৰ পিঞ্জৰ ওপৰলৈ যায়।"
+      ],
+      [
+        "p",
+        "Tidal volume — সাধাৰণ শ্বাসত চলাচল কৰা বায়ু, প্ৰায় ৫০০ মিলি। Vital capacity — সৰ্বাধিক শ্বাস লৈ সৰ্বাধিক এৰিব পৰা বায়ু। Residual volume — ফুসফুসত ৰৈ যোৱা, এৰিব নোৱাৰা বায়ু। এই তিনি শব্দ সংজ্ঞা হিচাপে সোধা হয়, আৰু শব্দবোৰ সজাই ল’লে সহজ নম্বৰ।"
+      ],
+      [
+        "h3",
+        "জ্ঞানেন্দ্ৰিয় আৰু স্নায়ু তন্ত্ৰ"
+      ],
+      [
+        "p",
+        "চকুৰ তিনি স্তৰ: বাহিৰত স্ক্লেৰা, মাজত কৰয়ড, ভিতৰত ৰেটিনা। কৰ্নিয়াই বেছিভাগ পোহৰ প্ৰতিসৰণ কৰে, লেনছে ফ’কাছ সূক্ষ্ম কৰে, আৰু ৰেটিনাত ৰড আৰু কোন থাকে। ৰডে ম্লান পোহৰত কাম কৰি ক’লা-বগা দৰ্শন দিয়ে; কোণে উজ্জ্বল পোহৰত ৰঙীন দৰ্শন দিয়ে। Blind spot ত অ’প্টিক নাৰ্ভ ওলাই যায়, তাত কোনো গ্ৰাহক নাই।"
+      ],
+      [
+        "p",
+        "কাণৰ তিনি অংশ। বাহিৰৰ কাণে শব্দ সংগ্ৰহ কৰে, মাজৰ কাণত তিনি অস্থিকা — মেলিয়াছ, ইনকাছ, ষ্টেপিছ — আৰু ভিতৰৰ কাণত শ্ৰৱণৰ বাবে কক্লিয়া আৰু ভাৰসাম্যৰ বাবে অৰ্ধবৃত্তাকাৰ নলী। 'কোন অংশই ভাৰসাম্য ৰাখে' সুধিলে উত্তৰ অৰ্ধবৃত্তাকাৰ নলী, কক্লিয়া নহয়।"
+      ],
+      [
+        "p",
+        "স্নায়ু তন্ত্ৰ কেন্দ্ৰীয় — মগজু আৰু মেৰুদণ্ড — আৰু প্ৰান্তীয় স্নায়ু তন্ত্ৰত বিভক্ত। মগজুত চেৰিব্ৰাম চিন্তা আৰু ইচ্ছাকৃত কামৰ বাবে, চেৰিবেলাম ভাৰসাম্য আৰু সমন্বয়ৰ বাবে, আৰু মেডুলা অবলংগাটা শ্বাস-প্ৰশ্বাস আৰু হৃদস্পন্দনৰ দৰে অনৈচ্ছিক কামৰ বাবে। সেয়ে মেডুলাৰ আঘাত মাৰাত্মক।"
+      ],
+      [
+        "h3",
+        "জানিবলগীয়া গ্ৰন্থি আৰু হৰম’ন"
+      ],
+      [
+        "ul",
+        [
+          "পিটুইটাৰি — মুখ্য গ্ৰন্থি, বৃদ্ধি হৰম’ন; মগজুৰ তলত।",
+          "থাইৰয়ড — থাইৰক্সিন, বিপাক নিয়ন্ত্ৰণ; বনাবলৈ আয়’ডিন লাগে।",
+          "পেৰাথাইৰয়ড — পেৰাথৰম’ন, তেজত কেলচিয়াম বঢ়ায়।",
+          "এড্ৰিনেল — এড্ৰিনেলিন সংগ্ৰাম-বা-পলায়নৰ বাবে, কৰ্টিছল চাপৰ বাবে।",
+          "অগ্ন্যাশয় — ইনচুলিন আৰু গ্লুকাগন, তেজৰ চেনি নিয়ন্ত্ৰণ।",
+          "টেষ্টিছ আৰু অ’ভাৰি — টেষ্ট’ষ্টেৰন আৰু ইষ্ট্ৰ’জেন, গৌণ যৌন লক্ষণ।"
+        ]
+      ],
+      [
+        "p",
+        "ডায়েবিটিছ মেলিটাছ — ইনচুলিনৰ অভাৱ বা প্ৰতিৰোধ; ডায়েবিটিছ ইনছিপিডাছ — ADH ৰ অভাৱ, যাৰ পৰা বেছি পৰিমাণৰ পাতল প্ৰস্ৰাৱ হয়। গইটাৰ — থাইৰয়ডত আয়’ডিনৰ অভাৱ। এই তিনি ক্লিনিকেল শাৰীয়েই কাৰিকৰী প্ৰশ্নকাকতে ব্যৱহাৰ কৰে।"
+      ],
+      [
+        "h3",
+        "পেশী, ছাল আৰু বৃক্ক"
+      ],
+      [
+        "p",
+        "শৰীৰত তিনি ধৰণৰ পেশী। কংকাল পেশী ৰেখাযুক্ত আৰু ইচ্ছাধীন, ই হাড় চলায়। Smooth পেশী ৰেখাহীন আৰু অনৈচ্ছিক, ই অন্ত্ৰ আৰু ৰক্তনলীৰ বেৰ গঠন কৰে। হৃদ পেশী ৰেখাযুক্ত কিন্তু অনৈচ্ছিক, আৰু ই কেৱল হৃদয়ত থাকে। 'কোন পেশী ৰেখাযুক্ত আৰু অনৈচ্ছিক দুয়ো' সুধিলে উত্তৰ হৃদ পেশী।"
+      ],
+      [
+        "p",
+        "ছালৰ দুটা স্তৰ — বাহিৰত এপিডাৰ্মিছ, ভিতৰত ডাৰ্মিছ, আৰু তলত হাইপ’ডাৰ্মিছ। ই ৰক্ষা কৰে, স্পৰ্শ আৰু উষ্ণতা অনুভৱ কৰে, ৰ’দত ভিটামিন D বনায়, আৰু ঘামৰ জৰিয়তে শৰীৰ ঠাণ্ডা কৰে। ঘাম গ্ৰন্থি, ছেবেচিয়াছ গ্ৰন্থি আৰু নোমৰ ফলিকল ডাৰ্মিছত থাকে।"
+      ],
+      [
+        "p",
+        "বৃক্কই ক্ষৰণৰ অংগ। কাৰ্যকৰী একক নেফ্ৰন, আৰু প্ৰতিটো বৃক্কত প্ৰায় দহ লাখ নেফ্ৰন থাকে। গ্ল’মেৰুলাছত পৰিস্ৰাৱন হয়, নলীত পানী আৰু গ্লুক’জৰ পুনৰ্শোষণ হয়, আৰু ফলত প্ৰস্ৰাৱ হয় — যি ইউৰেটাৰেদি মূত্ৰথলীলৈ যায় আৰু ইউৰিথ্ৰাৰেদি বাহিৰ হয়। বৃক্কই তেজৰ চাপ আৰু অম্ল-ক্ষাৰ ভাৰসাম্যও নিয়ন্ত্ৰণ কৰে, সেয়ে বৃক্ক বিকল হ’লে গোটেই শৰীৰত প্ৰভাৱ পৰে।"
+      ],
+      [
+        "h3",
+        "প্ৰশ্নকাকতত সোধা চাৰিটা সংজ্ঞা"
+      ],
+      [
+        "p",
+        "প্ৰথম: 'অংগ' আৰু 'তন্ত্ৰ' — একেই কামৰ কলাবোৰ লগ লাগি অংগ, আৰু একেই কামৰ অংগবোৰ লগ লাগি তন্ত্ৰ। দ্বিতীয়: 'গ্ৰন্থি' — যি নিঃসৰণ কৰে; নলী থকা গ্ৰন্থি exocrine (ঘাম, লাল), নলী নথকা গ্ৰন্থি endocrine (থাইৰয়ড)। তৃতীয়: 'হৰম’ন' — তেজত মিলি দূৰৰ অংগত কাম কৰা ৰাসায়নিক বাৰ্তাবাহক। চতুৰ্থ: 'পাচন' আৰু 'শোষণ' — পাচন হ'ল ডাঙৰ অণু ভাঙি সৰু কৰা, শোষণ হ'ল সেই সৰু অণু তেজলৈ যোৱা। এই চাৰিটা সংজ্ঞা বছৰি আহে, আৰু একোটা শব্দই একোটা নম্বৰ।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "প্ৰাপ্তবয়স্কৰ কশেৰুকাৰ সংখ্যা ৩৩ বুলি উত্তৰ দিয়া — জোৰা লগাৰ পিছত ২৬ হয়।",
+          "পিত্তত এনজাইম আছে বুলি কোৱা — ইয়াত কেৱল পিত্ত লৱণ আৰু ৰঞ্জক থাকে।",
+          "ছালক গ্ৰন্থি বুলি কোৱা, আটাইতকৈ ডাঙৰ অংগ বুলি নকৈ।",
+          "ট্ৰাইকাছপিড আৰু বাইকাছপিড, বা হৃদয়ৰ বাওঁ-সোঁফাল মিলাই দিয়া।",
+          "ভাৰসাম্যৰ বাবে কক্লিয়া বুলি উত্তৰ দিয়া — অৰ্ধবৃত্তাকাৰ নলী।"
+        ]
+      ],
+      [
+        "h3",
+        "তেজৰ চাপ আৰু স্পন্দন — চুটি টোকা"
+      ],
+      [
+        "p",
+        "সাধাৰণ তেজৰ চাপ ১২০/৮০ মিলিমিটাৰ পাৰা। ওপৰৰ সংখ্যাটো সিষ্ট’লিক — হৃদয়ে সংকুচিত হোৱাৰ সময়ৰ চাপ; তলৰটো ডায়াষ্ট’লিক — হৃদয় শিথিল হোৱাৰ সময়ৰ চাপ। ১৪০/৯০ ৰ ওপৰে গ’লে উচ্চ ৰক্তচাপ বুলি ধৰা হয়। নাৰ্ছিং প্ৰাৰ্থীৰ বাবে এই দুটা সংখ্যা প্ৰায়ে সোধা হয়, আৰু কাৰিকৰী প্ৰাৰ্থীৰ বাবেও 'সাধাৰণ তেজৰ চাপ কিমান' এটা সহজ নম্বৰ।"
+      ],
+      [
+        "p",
+        "স্পন্দন ক’ত জুখিব পাৰি — কবলিত (ৰেডিয়েল ধমনী), ডিঙিত (কাৰ’টিড), আৰু বাহুত (ব্ৰেকিয়েল)। জৰুৰী অৱস্থাত কাৰ’টিড স্পন্দন চোৱা হয়, কাৰণ তাত স্পষ্টকৈ অনুভৱ হয়। এই সৰু তথ্যবোৰেই প্ৰশ্নকাকতত 'প্ৰথমে ক’ত চাব' ধৰণে আহে। মনত ৰাখিব, সংখ্যা যিমান সৰু, প্ৰশ্নও সিমান সৰল — আৰু এই শিতানত সৰল প্ৰশ্নবোৰেই আটাইতকৈ বেছি নম্বৰ আনে; এটা ডাঙৰ শৰীৰতত্ত্বৰ প্ৰশ্নতকৈ ছটা সৰু সংখ্যাৰ প্ৰশ্নত সঠিক উত্তৰ দিয়াটো বেছি লাভজনক।"
+      ],
+      [
+        "h3",
+        "এই শিতানত দহ দিন"
+      ],
+      [
+        "p",
+        "দুদিন কংকালত — দীঘল এটা সংখ্যা হিচাপে নহয়, গোট গোটকৈ গণি: কৰ’টিল ২২, ৰিব ১২ যোৰ, কশেৰুকা ২৬। দুদিন পাচনত — প্ৰতিটো ৰাতিপুৱা এনজাইমৰ তালিকা মনৰ পৰা লিখি। দুদিন হৃদয় আৰু তেজত — চাৰিটা কোঠা আঁকি ভালভবোৰ লেবেল দি। দুদিন ফুসফুস আৰু তিনি ভলিউম শব্দত। দুদিন জ্ঞানেন্দ্ৰিয় আৰু গ্ৰন্থিত — প্ৰতিটো গ্ৰন্থিৰ বাবে এটা ক্লিনিকেল শাৰী। শেষ ৰাতিপুৱা কেৱল ফান্দৰ তালিকাখন পঢ়ি ল’ব।"
+      ],
+      [
+        "tip",
+        "এই শিতানত সংখ্যাইহে পৰীক্ষা কৰে, সেয়ে সংখ্যাবোৰ জখম এটা বনাই লওক: ২০৬ হাড়, ৩৩ ৰ পৰা ২৬ কশেৰুকা, ৰিব ১২ যোৰ, কৰ’টিল ২২, ৪ কোঠা, ৭২ স্পন্দন, ৰক্তকণিকা ১২০ দিন। ছটা সংখ্যা, ছটা নম্বৰ, পৰীক্ষাৰ কোঠাত ভাবিবলগীয়া একো নাই।"
+      ]
+    ]
   }
 }
