@@ -3247,3 +3247,19 @@ shared writer `tools/comp_bank.py`. Reading-comprehension and precis share a
 its sequences from the same passages plus ten new four-sentence texts.
 
 Book total after rebuild: 13,533 questions; sitewide 55,856; hero 84,563.
+
+## Numerical Aptitude — first four arithmetic topics (hard level)
+
+Four arithmetic leaves now hold 90+ hard questions each, covering all major
+question types rather than a single pattern:
+
+- number-system 101, simplification-bodmas 101, decimals-fractions 98,
+  lcm-hcf 100 (plus the 2 pre-existing sample items per leaf).
+
+Generators: `tools/gen-num-number-system.py`, `gen-num-simplification.py`,
+`gen-num-decimals.py`, `gen-num-lcm-hcf.py`, sharing `tools/num_bank.py`.
+Answers are computed in Python (lcm/gcd, modular exponentiation, Fraction)
+and each question carries three computed distractors. Assamese options use
+Assamese numerals via `as_num`.
+
+Book total after rebuild: 13,933; sitewide 56,256; hero 84,963.
