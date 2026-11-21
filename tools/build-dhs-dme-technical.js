@@ -60,6 +60,9 @@ const LEGACY_BANKS = [
     "assam-culture-festivals", "assam-economy", "assam-tribes-communities",
     "assam-wildlife-environment", "assam-current-affairs",
   ]],
+  ["general-knowledge", "india-gk", ["general-knowledge", "india-gk"], [
+    "indian-history", "indian-economy", "indian-art-culture", "indian-governance",
+  ]],
   ["technical-science", "biology", ["technical-science", "biology"], [
     "cell-biology", "genetics-evolution", "human-anatomy", "human-physiology",
     "nutrition-vitamins", "diseases-health", "plant-botany", "animal-zoology",
@@ -268,6 +271,15 @@ const RULES = {
     /* Everything else is Indian and world physical, economic and political geography. */
     ["india-geography", /.*/],
   ],
+  "india-gk": [
+    /* Ancient, medieval and modern history share one leaf, so the rules
+       cover only the other three and history falls through to the fallback. */
+    ["indian-economy", /gdp|five year plan|niti aayog|planning commission|reserve bank|rbi|inflation|repo|fiscal|monetary|budget|gst|disinvestment|sebi|stock exchange|bank nationalis|green revolution|white revolution|msme|sez\b|fdi|export|import|balance of payment|poverty|unemployment|census town|economic survey|econom/i],
+    /* Architecture, dance, music, painting, festivals and institutions of art. */
+    ["indian-art-culture", /dance|music|raga|tala|instrument|painting|mural|sculpture|temple|stupa|architecture|festival|classical|folk|theatre|natya|bharatanatyam|kathak|odissi|kuchipudi|manipuri|mohiniyattam|hindustani|carnatic|sangeet|akademi|unesco|heritage|museum|craft|handicraft|textile|art\b|culture/i],
+    /* Constitutional bodies, civil services, defence and administration. */
+    ["indian-governance", /constitution|parliament|lok sabha|rajya sabha|president|prime minister|cabinet|supreme court|high court|governor|election commission|comptroller|cag\b|upsc|civil service|ias\b|ips\b|panchayat|municipal|federal|amendment|fundamental right|directive principle|attorney general|niti|civil|governance|institution|administrat/i],
+  ],
   "assam-gk": [
     /* Festivals, performing arts, crafts, food and religious sites. */
     ["assam-culture-festivals", /bihu|bishnu|dol jatra|me-dam-me-phi|ali-ai-ligang|bohag|kati|magh|sattra|namghar|xatra|ojapali|sattriya|jhumar|bagurumba|kamakhya|ambubachi|majuli|raas|deodhani|dhulia|bhortal|tokari|gogona|jaapi|sualkuchi|muga|pat silk|eri\b|culture|festival|dance|music|instrument|weav|craft|mask|shrine|temple/i],
@@ -344,13 +356,14 @@ const BANK_COUNT = {};
    global, and every target is checked against the tree so a typo fails loudly
    instead of silently dropping questions. */
 const ALL_LEAF_IDS = new Set();
+function collectLeaves(node) {
+  const children = Array.isArray(node.subcategories) ? node.subcategories : [];
+  if (children.length) for (const c of children) collectLeaves(c);
+  else ALL_LEAF_IDS.add(node.id);
+}
 for (const sec of EXAM.sections) {
   if (sec.type === "syllabus") continue;
-  for (const sub of sec.subcategories || []) {
-    const children = Array.isArray(sub.subcategories) ? sub.subcategories : [];
-    if (children.length) for (const c of children) ALL_LEAF_IDS.add(c.id);
-    else ALL_LEAF_IDS.add(sub.id);
-  }
+  for (const sub of sec.subcategories || []) collectLeaves(sub);
 }
 
 for (const [secId, groupId, legacyParts, leafIds] of LEGACY_BANKS) {
