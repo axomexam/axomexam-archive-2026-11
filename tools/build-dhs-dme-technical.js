@@ -56,6 +56,10 @@ const LEGACY_BANKS = [
   ["general-knowledge", "geography", ["general-knowledge", "geography"], [
     "assam-geography", "india-geography",
   ]],
+  ["general-knowledge", "assam-gk", ["general-knowledge", "assam-gk"], [
+    "assam-culture-festivals", "assam-economy", "assam-tribes-communities",
+    "assam-wildlife-environment", "assam-current-affairs",
+  ]],
   ["technical-science", "biology", ["technical-science", "biology"], [
     "cell-biology", "genetics-evolution", "human-anatomy", "human-physiology",
     "nutrition-vitamins", "diseases-health", "plant-botany", "animal-zoology",
@@ -263,6 +267,18 @@ const RULES = {
     ["assam-geography", /assam|brahmaputra|barak|kaziranga|manas|pobitora|dibru|saikhowa|raimona|dehing|patkai|majuli|guwahati|dibrugarh|jorhat|sivasagar|tezpur|silchar|dhubri|goalpara|nagaon|kamrup|sonitpur|lakhimpur|dhemaji|tinsukia|karbi|dima hasao|haflong|umiam|cherrapunji|mawsynram|shillong|dhansiri|subansiri|manas river|kopili|burhi dihing|disang|mikir/i],
     /* Everything else is Indian and world physical, economic and political geography. */
     ["india-geography", /.*/],
+  ],
+  "assam-gk": [
+    /* Festivals, performing arts, crafts, food and religious sites. */
+    ["assam-culture-festivals", /bihu|bishnu|dol jatra|me-dam-me-phi|ali-ai-ligang|bohag|kati|magh|sattra|namghar|xatra|ojapali|sattriya|jhumar|bagurumba|kamakhya|ambubachi|majuli|raas|deodhani|dhulia|bhortal|tokari|gogona|jaapi|sualkuchi|muga|pat silk|eri\b|culture|festival|dance|music|instrument|weav|craft|mask|shrine|temple/i],
+    /* Agriculture, tea, industry, transport, power and state finance. */
+    ["assam-economy", /tea\b|garden|factory|industry|refinery|numaligarh|digboi|bongaigaon|namrup|paper mill|cement|sugar mill|oil\b|gas\b|coal|crop|paddy|rice|jute|mustard|agricultur|irrigation|forest produce|gdp|per capita|budget|revenue|tax\b|bank|credit|msme|handloom|tourism|airport|railway|highway|bridge|port\b|power|electric|econom/i],
+    /* Tribes, communities, languages and social institutions. */
+    ["assam-tribes-communities", /tribe|tribal|bodo\b|mising|karbi|dimasa|rabha|tiwa|lalung|deori|sonowal|thengal|chutia|koch\b|kalita|kaibarta|keot|nath|yogi|hira|muslim|sikh|bengali|nepali|community|clan|village council|gaon bura|satra\b|mahanta|language|dialect|population|literacy|sex ratio|density/i],
+    /* National parks, sanctuaries, species and conservation. */
+    ["assam-wildlife-environment", /national park|sanctuary|reserve|kaziranga|manas|pobitora|orang|dibru|saikhowa|nameri|raimona|garampani|burachapori|laokhowa|panidihing|dehing|amchang|borail|species|rhino|tiger|elephant|hoolock|golden langur|pigmy hog|wild buffalo|dolphin|turtle|vulture|bird|flood|erosion|earthquake|landslide|pollution|climate|forest cover|biosphere|wetland|beel\b|deforestation/i],
+    /* Anything about the state's recent events, schemes and people. */
+    ["assam-current-affairs", /scheme|mission|yojana|2024|2025|2026|appointed|elected|launched|inaugurated|award|chief minister|governor|commission|committee|policy|act\b|budget 20|survey|census|census 2011|sports|festival 20|summit|conclave/i],
   ],
   "assam-history": [
     /* Kamarupa and the dynasties before the Ahoms. */
