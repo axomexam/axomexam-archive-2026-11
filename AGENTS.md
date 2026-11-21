@@ -3649,15 +3649,16 @@ languages, written for the paper (not a textbook summary).
   every build.
 - Assamese needs roughly 1.25x the English word count for the same content,
   so write the Assamese draft long and trim.
-- Written so far (22): cube-dice, cell-biology, genetics-evolution,
+- Written so far (24): cube-dice, cell-biology, genetics-evolution,
   human-anatomy, human-physiology, nutrition-vitamins, diseases-health,
   plant-botany, general-chemistry, atomic-structure, periodic-table,
   chemical-bonding, acids-bases-salts, water-solutions, chemical-reactions,
   everyday-chemistry, fuels-combustion, metals-nonmetals, organic-chemistry,
-  polymers-materials, units-measurement, motion-force.
-- Chemistry leaf set is complete (12/12). Physics 2/12. Biology 7/11.
-- Remaining technical-science (32): physics 10 (work-energy-power,
-  gravitation, pressure-fluids, heat-thermodynamics, sound-waves,
+  polymers-materials, units-measurement, motion-force, work-energy-power,
+  gravitation.
+- Chemistry leaf set is complete (12/12). Physics 4/12. Biology 7/11.
+- Remaining technical-science (30): physics 8 (pressure-fluids,
+  heat-thermodynamics, sound-waves,
   light-optics, electricity-magnetism, modern-nuclear-physics,
   simple-machines, general-physics), biology 4 (animal-zoology,
   general-biology, ecology-environment, microbiology-biotechnology),
