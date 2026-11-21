@@ -3650,18 +3650,18 @@ languages, written for the paper (not a textbook summary).
   every build.
 - Assamese needs roughly 1.25x the English word count for the same content,
   so write the Assamese draft long and trim.
-- Written so far (24): cube-dice, cell-biology, genetics-evolution,
+- Written so far (32): cube-dice, cell-biology, genetics-evolution,
   human-anatomy, human-physiology, nutrition-vitamins, diseases-health,
   plant-botany, general-chemistry, atomic-structure, periodic-table,
   chemical-bonding, acids-bases-salts, water-solutions, chemical-reactions,
   everyday-chemistry, fuels-combustion, metals-nonmetals, organic-chemistry,
   polymers-materials, units-measurement, motion-force, work-energy-power,
-  gravitation.
-- Chemistry leaf set is complete (12/12). Physics 4/12. Biology 7/11.
-- Remaining technical-science (30): physics 8 (pressure-fluids,
-  heat-thermodynamics, sound-waves,
-  light-optics, electricity-magnetism, modern-nuclear-physics,
-  simple-machines, general-physics), biology 4 (animal-zoology,
+  gravitation, pressure-fluids, heat-thermodynamics, sound-waves,
+  light-optics, electricity-magnetism, simple-machines,
+  modern-nuclear-physics, general-physics.
+- Chemistry leaf set is complete (12/12). Physics is complete (12/12).
+  Biology 7/11.
+- Remaining technical-science (22): biology 4 (animal-zoology,
   general-biology, ecology-environment, microbiology-biotechnology),
   computer-awareness 6, nursing-paramedical 12.
 - Remaining beyond technical-science: reasoning 35, GK 30, numerical 30,
@@ -3683,6 +3683,21 @@ languages, written for the paper (not a textbook summary).
 - Practical note: very large shell heredocs get truncated silently. For a
   whole new topic, use the file editor to replace `module.exports = NOTES;`
   with the block plus that line; use python only for small top-ups.
+- Practical note: `build-dhs-dme-technical.js` rewrites every hub page from
+  the template, so hub prose added by `tools/enrich-thin-pages.js` is wiped
+  by the next build. The correct order is: build, then
+  `node tools/enrich-thin-pages.js`, then `build-as-twins.js --prefix
+  exams/dhs-dme-technical`, then `sync-sitemap-alts.js`. Both tools are
+  idempotent, so re-running the chain is safe. Verify with
+  `node tools/seo-audit.js` - `thin (<300w)` must read 0.
+- Practical note: the Assamese draft lands about 15 per cent short of the
+  English word count when the two are written section for section, so write
+  three or four extra sections for Assamese in the first pass rather than
+  topping up afterwards.
+- Practical note: an anchor paragraph used for `str.replace` must be unique
+  across the whole file, not just within the topic. Two topics that both open
+  a "where marks are lost" paragraph in Assamese will silently send the
+  insert into the earlier topic.
 - Practical note: gate the build on the validator with
   `node tools/check-topic-notes.js | tee /tmp/v.txt; grep -q "0 problem"
   /tmp/v.txt && node tools/build-dhs-dme-technical.js && ...` so a short
