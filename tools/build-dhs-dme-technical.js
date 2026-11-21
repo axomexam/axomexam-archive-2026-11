@@ -37,6 +37,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const { execFileSync } = require("child_process");
 const { makeExamBookTools } = require("./lib/exam-book-pages");
 const { EXAM, SYLLABUS } = require("./dhs-dme-technical.structure.js");
 
@@ -591,3 +592,13 @@ console.log(
   `(${populatedPages} with questions, ${preparingPages} preparing), ${total} questions, ` +
   `${stats.written} file(s) ${CHECK ? "would change" : "written"}, ${stats.skipped} unchanged`
 );
+
+/* pageHead drops the hreflang trio because build-as-twins writes the correct
+   pair afterwards. Running the build alone therefore leaves every rebuilt page
+   without alternates, and the sitemap without its /as/ twins, so the two
+   follow-up steps are part of this command rather than a thing to remember. */
+if (!CHECK) {
+  for (const step of ["build-as-twins.js", "sync-sitemap-alts.js"]) {
+    execFileSync(process.execPath, [path.join(__dirname, step)], { stdio: "inherit" });
+  }
+}
