@@ -378,12 +378,14 @@ function titled(name, ...suffixes) {
      title. Only a name longer than the whole budget is trimmed. Keep at least
      24 chars of the name: a smaller budget makes two long sibling names
      truncate to the same string and collide. */
+  /* 58, not 60: buildTwin clamps the final title at 58, and a ladder that
+     aimed at 60 shipped titles ending in "…" after that clamp. */
   for (const suffix of suffixes) {
     if (!suffix) continue;
     const full = `${name} — ${suffix}`;
-    if (full.length <= 60) return full;
+    if (full.length <= 58) return full;
   }
-  if (name.length <= 60) return name;
+  if (name.length <= 58) return name;
   const suffix = suffixes[0] || "";
   const budget = Math.max(24, 57 - suffix.length - 3);
   return clamp(name, budget) + " — " + suffix;
