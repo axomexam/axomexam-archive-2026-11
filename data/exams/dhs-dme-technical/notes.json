@@ -1526,5 +1526,331 @@
         "প্ৰতিটো প্ৰক্ৰিয়া ইনপুট, নিয়ন্ত্ৰণ কেন্দ্ৰ, আউটপুট হিচাপে শিকক। পাচন: খাদ্য সোমায়, এনজাইম, পোষক দ্ৰব্য ওলায়। শ্বাস: কাৰ্বন ডাইঅক্সাইড বাঢ়ে, মেডুলা, হাৰ বাঢ়ে। তেজৰ চেনি: গ্লুক’জ বাঢ়ে, অগ্ন্যাশয়, ইনচুলিন ওলায়। তিনি স্তম্ভ, আৰু প্ৰশ্নই ইয়াৰ এটাৰহে কথা সুধিব পাৰে।"
       ]
     ]
+  },
+  "nutrition-vitamins": {
+    "en": [
+      [
+        "h3",
+        "Why this topic is nearly free marks"
+      ],
+      [
+        "p",
+        "Nutrition is the one biology topic where the paper is almost entirely a table. Vitamin, chemical name, deficiency disease, source — four columns, about thirteen rows. Candidates who build that table once and revise it twice pick up every question in the block, and there are usually two to four of them."
+      ],
+      [
+        "p",
+        "The technical paper also asks the applied side, because the post is a health post: what a balanced diet is, what protein energy malnutrition looks like, what iodine deficiency does to a district. Those questions are answerable from the same table plus five sentences of common sense."
+      ],
+      [
+        "h3",
+        "The three macronutrients"
+      ],
+      [
+        "p",
+        "Carbohydrates give about 4 kilocalories per gram and are the body's first fuel. Rice, wheat, potato and sugar are the obvious sources, and starch is the storage form in plants while glycogen is the storage form in animals. Excess carbohydrate is converted to fat, which is why a rice-heavy diet gains weight even without oil."
+      ],
+      [
+        "p",
+        "Proteins also give about 4 kilocalories per gram but their real job is building and repairing tissue. They are chains of amino acids, and nine of them are essential — the body cannot make them and must get them from food. Animal proteins such as egg, milk, fish and meat are complete; most single plant proteins are not, which is why dal with rice is a better combination than either alone."
+      ],
+      [
+        "p",
+        "Fats give about 9 kilocalories per gram, more than twice the others, and that is why fat is stored rather than burned first. They carry the fat-soluble vitamins, insulate the body and form part of every cell membrane. Saturated fats from ghee and meat raise cholesterol; unsaturated fats from mustard oil, fish and nuts do not. Trans fats from repeatedly reheated oil are the ones to avoid."
+      ],
+      [
+        "h3",
+        "The vitamin table, which is the whole topic"
+      ],
+      [
+        "ul",
+        [
+          "A (retinol) — fat soluble — night blindness, xerophthalmia — carrot, papaya, green leafy vegetables, liver.",
+          "B1 (thiamine) — water soluble — beriberi — whole grains, pulses.",
+          "B2 (riboflavin) — water soluble — ariboflavinosis, cracked lips — milk, egg, green vegetables.",
+          "B3 (niacin) — water soluble — pellagra, the three Ds — groundnut, meat, whole grain.",
+          "B6 (pyridoxine) — water soluble — anaemia, nerve damage — pulses, banana.",
+          "B9 (folic acid) — water soluble — anaemia, neural tube defects in the newborn — green leafy vegetables.",
+          "B12 (cobalamin) — water soluble — pernicious anaemia — animal foods only.",
+          "C (ascorbic acid) — water soluble — scurvy, bleeding gums — amla, lemon, guava, orange.",
+          "D (calciferol) — fat soluble — rickets in children, osteomalacia in adults — sunlight, fish oil, egg yolk.",
+          "E (tocopherol) — fat soluble — fertility problems, red cell damage — vegetable oils, nuts.",
+          "K (phylloquinone) — fat soluble — delayed clotting, bleeding — green leafy vegetables."
+        ]
+      ],
+      [
+        "p",
+        "Two rules organise the table. First, fat-soluble vitamins are A, D, E and K — the four that need bile to be absorbed, and the four that can be stored, which means an overdose is possible. Second, water-soluble vitamins are the B group and C — they are not stored, so a daily supply is needed and excess is passed out in urine."
+      ],
+      [
+        "p",
+        "The deficiency names are the part examiners love because they sound like diseases rather than vitamin letters. Scurvy is C, rickets is D, beriberi is B1, pellagra is B3, night blindness is A. Learn the five and you have covered most of what has ever been asked from this table."
+      ],
+      [
+        "h3",
+        "Minerals, five that matter"
+      ],
+      [
+        "p",
+        "Iron makes haemoglobin; deficiency gives iron-deficiency anaemia, the commonest nutritional problem in Assam and in India as a whole, and the one the health programmes target. Iodine makes thyroxine; deficiency gives goitre and, in pregnancy, cretinism, which is why iodised salt is a public health programme rather than a choice."
+      ],
+      [
+        "p",
+        "Calcium and phosphorus build bone and teeth; calcium also clots blood and contracts muscle. Deficiency in children gives rickets alongside vitamin D. Sodium and potassium maintain the water and electrolyte balance, and sodium excess is linked to high blood pressure. Zinc matters for healing and immunity, and its deficiency slows growth."
+      ],
+      [
+        "h3",
+        "Protein energy malnutrition, in two words"
+      ],
+      [
+        "p",
+        "Kwashiorkor is protein deficiency with calories roughly adequate. The child has a swollen belly from oedema, thin hair, skin lesions and a moon face, and the swelling fools a parent into thinking the child is well fed. Marasmus is deficiency of both protein and calories: the child is wasted, with ribs visible and no swelling. The single line that separates them is oedema — present in kwashiorkor, absent in marasmus."
+      ],
+      [
+        "p",
+        "Both are measured against weight for age, and the programmes use weight-for-age charts. In the Assam context, the questions are usually about which one has oedema, or which nutrient is missing in each, and occasionally about the age group most at risk, which is under five."
+      ],
+      [
+        "h3",
+        "Balanced diet, BMI and the numbers"
+      ],
+      [
+        "p",
+        "A balanced diet has carbohydrates, proteins, fats, vitamins, minerals, fibre and water in the right proportion, with enough calories for the person's age and work. An adult doing light work needs roughly 2,000 to 2,200 kilocalories a day; heavy manual work needs 3,000 or more. Fibre, though it gives no energy, prevents constipation and helps control blood sugar."
+      ],
+      [
+        "p",
+        "Body mass index is weight in kilograms divided by height in metres squared. Below 18.5 is underweight, 18.5 to 24.9 is normal, 25 to 29.9 is overweight and 30 and above is obese. A question that gives weight and height and asks for the category is pure arithmetic, and it appears because the post involves health screening."
+      ],
+      [
+        "h3",
+        "Water, fibre and the things nobody counts"
+      ],
+      [
+        "p",
+        "Water is not a nutrient with calories, but it is the one the body cannot do without for more than a few days. It carries nutrients, regulates temperature through sweat, and keeps the kidneys working. Two to three litres a day is the usual adult figure, more in heat and more with heavy work. A question about the largest component of the human body by weight wants water, about sixty per cent."
+      ],
+      [
+        "p",
+        "Fibre is the part of plant food the body cannot digest. It adds bulk, holds water in the gut, prevents constipation and slows the rise of blood sugar after a meal. Whole grain, dal, vegetables and fruit are the sources. A diet of polished rice and oil with no vegetables is the standard Assam diet mistake the health programmes try to correct."
+      ],
+      [
+        "h3",
+        "Five questions from this bank, answered the exam way"
+      ],
+      [
+        "p",
+        "Which vitamin is synthesised in the skin in sunlight? Vitamin D, from a cholesterol derivative, and that is why the deficiency is common in people who stay indoors and in winter. Which vitamin is destroyed by prolonged cooking? Vitamin C, because it is water soluble and heat sensitive, which is why vegetables should be cooked briefly and with little water."
+      ],
+      [
+        "p",
+        "Which deficiency causes bleeding gums and delayed wound healing? Vitamin C, that is scurvy. Which deficiency in a pregnant woman causes neural tube defects in the baby? Folic acid, vitamin B9, which is why it is given as a supplement in the first trimester. Which mineral deficiency is the commonest cause of anaemia in Indian women? Iron, and the answer is asked so often that it is worth memorising with the word 'commonest' attached."
+      ],
+      [
+        "h3",
+        "Assam-specific lines worth knowing"
+      ],
+      [
+        "p",
+        "Iodine deficiency disorders were a real problem in the hill districts and in the Brahmaputra valley before iodised salt became universal, and the goitre prevalence surveys are part of the state health record. Anaemia in adolescent girls and in pregnancy is the other standing problem, addressed through iron and folic acid tablets distributed at schools and at antenatal clinics."
+      ],
+      [
+        "p",
+        "Under-nutrition in children under five is measured through weight for age, and the programme that addresses it in Assam runs through the anganwadi centres, with supplementary nutrition and growth monitoring. A question that asks where a malnourished child is first identified usually wants the anganwadi or the sub-centre, not the district hospital."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Saying vitamin C is fat soluble. It is water soluble.",
+          "Mixing rickets and osteomalacia — same deficiency, different age group.",
+          "Saying pellagra is a vitamin B1 deficiency. B1 is beriberi; pellagra is B3.",
+          "Calling kwashiorkor the one without swelling. It is the one with swelling.",
+          "Forgetting that vitamin K is needed for clotting, not for bones."
+        ]
+      ],
+      [
+        "h3",
+        "Ten days on this topic"
+      ],
+      [
+        "p",
+        "Two days writing the vitamin table from memory, all eleven rows, until it takes under three minutes. Two days on the minerals and the two anaemias. Two days on protein energy malnutrition, with the oedema line said aloud. Two days on the balanced diet and the BMI arithmetic, doing five calculations. The last two days: questions from this bank, timed, and a rewrite of every deficiency name that slipped."
+      ],
+      [
+        "tip",
+        "Write the four fat-soluble vitamins as a word — A, D, E, K — and everything else is water soluble. That one line answers half the vitamin questions without touching the table."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "এই শিতান কিয় প্ৰায় বিনামূলীয়া নম্বৰ"
+      ],
+      [
+        "p",
+        "পুষ্টি বিজ্ঞানেই জীৱবিজ্ঞানৰ একমাত্ৰ শিতান য’ত প্ৰশ্নকাকত প্ৰায় গোটেই এখন তালিকা। ভিটামিন, ৰাসায়নিক নাম, অভাৱজনিত ৰোগ, উৎস — চাৰিটা স্তম্ভ, প্ৰায় তেৰটা শাৰী। যিয়ে এই তালিকাখন এবাৰ বনাই দুবাৰ পুনৰাবৃত্তি কৰে, তেওঁ এই শিতানৰ প্ৰতিটো প্ৰশ্নৰ উত্তৰ দিয়ে, আৰু সাধাৰণতে দুইৰ পৰা চাৰিটা প্ৰশ্ন আহে।"
+      ],
+      [
+        "p",
+        "কাৰিকৰী প্ৰশ্নকাকতে প্ৰয়োগমূলক দিশো সুধে, কাৰণ পদটো স্বাস্থ্য বিভাগৰ: সুষম আহাৰ কি, প্ৰ’টিন শক্তিৰ অপপুষ্টি কেনেকুৱা দেখা যায়, আয়’ডিনৰ অভাৱে জিলাখনত কি কৰে। এই প্ৰশ্নবোৰ একেই তালিকা আৰু পাঁচশাৰী সাধাৰণ বুদ্ধিৰে উত্তৰ দিব পাৰি।"
+      ],
+      [
+        "h3",
+        "তিনিটা মূল পোষক দ্ৰব্য"
+      ],
+      [
+        "p",
+        "শৰ্কৰাই প্ৰতি গ্ৰামত প্ৰায় ৪ কিল’কেলৰি দিয়ে আৰু শৰীৰৰ প্ৰথম ইন্ধন। ভাত, ঘেঁহু, আলু আৰু চেনি ইয়াৰ স্পষ্ট উৎস; উদ্ভিদত সাঁচনি ৰূপ শ্বেতসাৰ, প্ৰাণীত গ্লাইক’জেন। বেছি শৰ্কৰা চৰ্বিলৈ ৰূপান্তৰিত হয়, সেয়ে তেল নাখাইও ভাত বেছি খালে ওজন বাঢ়ে।"
+      ],
+      [
+        "p",
+        "প্ৰ’টিনেও প্ৰতি গ্ৰামত প্ৰায় ৪ কিল’কেলৰি দিয়ে, কিন্তু ইয়াৰ প্ৰকৃত কাম হ’ল কলা গঠন আৰু মেৰামতি। প্ৰ’টিন এমিন’ এচিডৰ শিকলি, আৰু তাৰ নটাই অত্যাৱশ্যক — শৰীৰে বনাব নোৱাৰে, আহাৰৰ পৰাহে ল’ব লাগে। কণী, গাখীৰ, মাছ আৰু মাংসৰ দৰে প্ৰাণীজ প্ৰ’টিন সম্পূৰ্ণ; বেছিভাগ একক উদ্ভিদজ প্ৰ’টিন সম্পূৰ্ণ নহয়, সেয়ে ডাইল আৰু ভাত একেলগে খোৱাটো যিকোনো এটা অকলে খোৱাতকৈ ভাল।"
+      ],
+      [
+        "p",
+        "চৰ্বিয়ে প্ৰতি গ্ৰামত প্ৰায় ৯ কিল’কেলৰি দিয়ে — আন দুটাৰ দুগুণতকৈ বেছি, সেয়ে চৰ্বি প্ৰথমে নজলা হৈ সাঁচি ৰখা হয়। ই চৰ্বি-দ্ৰৱণীয় ভিটামিন বহন কৰে, শৰীৰৰ উষ্ণতা ৰক্ষা কৰে আৰু প্ৰতিটো কোষৰ আৱৰণৰ অংশ হয়। ঘিঁউ আৰু মাংসৰ saturated চৰ্বিয়ে ক’লেষ্টেৰল বঢ়ায়; সৰিয়হ তেল, মাছ আৰু বাদামৰ unsaturated চৰ্বিয়ে নবঢ়ায়। বাৰে বাৰে গৰম কৰা তেলৰ trans fat এৰি চলা উচিত।"
+      ],
+      [
+        "h3",
+        "ভিটামিনৰ তালিকা — গোটেই শিতান"
+      ],
+      [
+        "ul",
+        [
+          "A (ৰেটিনল) — চৰ্বি-দ্ৰৱণীয় — ৰাতি কণা, জেৰ’ফথালমিয়া — গাজৰ, আম, শাক-পাচলি, যকৃত।",
+          "B1 (থায়ামিন) — পানী-দ্ৰৱণীয় — বেৰিবেৰি — গোটেই ধান, ডাইল।",
+          "B2 (ৰাইব’ফ্লেভিন) — পানী-দ্ৰৱণীয় — ওঁঠ ফাটা — গাখীৰ, কণী, শাক।",
+          "B3 (নায়াচিন) — পানী-দ্ৰৱণীয় — পেলাগ্ৰা — বাদাম, মাংস, গোটেই ধান।",
+          "B6 (পিৰিডক্সিন) — পানী-দ্ৰৱণীয় — ৰক্তহীনতা, স্নায়ুৰ ক্ষতি — ডাইল, কল।",
+          "B9 (ফ’লিক এচিড) — পানী-দ্ৰৱণীয় — ৰক্তহীনতা, নৱজাতকৰ জন্মগত ত্ৰুটি — শাক।",
+          "B12 (ক’বালামিন) — পানী-দ্ৰৱণীয় — ৰক্তহীনতা — কেৱল প্ৰাণীজ আহাৰ।",
+          "C (এছকৰবিক এচিড) — পানী-দ্ৰৱণীয় — স্কাৰ্ভি, গিঁহত ৰক্তক্ষৰণ — আমলখি, নেমু, মধুৰীআম।",
+          "D (কেলছিফেৰল) — চৰ্বি-দ্ৰৱণীয় — শিশুত ৰিকেটছ, ডাঙৰত অষ্টিঅ’মালেছিয়া — ৰ’দ, মাছৰ তেল, কণীৰ কুঙীয়া।",
+          "E (ট’ক’ফেৰল) — চৰ্বি-দ্ৰৱণীয় — প্ৰজনন সমস্যা, ৰক্তকণিকাৰ ক্ষতি — উদ্ভিদ তেল, বাদাম।",
+          "K (ফাইল’কুইন’ন) — চৰ্বি-দ্ৰৱণীয় — তেজ জমা দেৰি, ৰক্তক্ষৰণ — শাক-পাচলি।"
+        ]
+      ],
+      [
+        "p",
+        "দুটাই তালিকাখন সজাই ৰাখে। প্ৰথম: চৰ্বি-দ্ৰৱণীয় ভিটামিন A, D, E আৰু K — যি চাৰিটালৈ পিত্ত লাগে, আৰু যি চাৰিটা সাঁচি ৰখা যায়, সেয়ে বেছি হ’লে বিষোৱা সম্ভৱ। দ্বিতীয়: পানী-দ্ৰৱণীয় হ’ল B গোট আৰু C — সাঁচি নাথাকে, সেয়ে প্ৰতিদিনে লাগে আৰু বেছি হ’লে প্ৰস্ৰাৱেৰে ওলাই যায়।"
+      ],
+      [
+        "p",
+        "অভাৱজনিত ৰোগৰ নামবোৰ পৰীক্ষকে ভাল পায়, কাৰণ সিহঁত ভিটামিনৰ আখৰতকৈ ৰোগৰ নাম যেন শুনায়। স্কাৰ্ভি C, ৰিকেটছ D, বেৰিবেৰি B1, পেলাগ্ৰা B3, ৰাতি কণা A। এই পাঁচটা শিকিলে এই তালিকাৰ পৰা এতিয়ালৈকে সোধা বেছিভাগ প্ৰশ্ন সামৰি লোৱা হয়।"
+      ],
+      [
+        "h3",
+        "খনিজ — গুৰুত্বপূৰ্ণ পাঁচটা"
+      ],
+      [
+        "p",
+        "আয়ে হিম’গ্লবিন বনায়; অভাৱত আয়ৰ অভাৱজনিত ৰক্তহীনতা হয় — অসম আৰু গোটেই ভাৰতৰ আটাইতকৈ সাধাৰণ পুষ্টি সমস্যা, আৰু স্বাস্থ্য কাৰ্যসূচীয়ে যাৰ ওপৰত লক্ষ্য ৰাখে। আয়’ডিনে থাইৰক্সিন বনায়; অভাৱত গইটা, আৰু গৰ্ভাৱস্থাত ক্ৰেটিনিজম — সেয়ে আয়’ডিনযুক্ত লৱণ এখন জনস্বাস্থ্য কাৰ্যসূচি, এটা ব্যক্তিগত পছন্দ নহয়।"
+      ],
+      [
+        "p",
+        "কেলচিয়াম আৰু ফছফৰাছে হাড় আৰু দাঁত গঢ়ে; কেলচিয়ামে তেজ জমোৱাত আৰু পেশী সংকোচনতো কাম কৰে। শিশুত অভাৱত ভিটামিন D ৰ লগতে ৰিকেটছ হয়। ছডিয়াম আৰু পটাছিয়ামে পানী-ইলেক্ট্ৰ’লাইটৰ ভাৰসাম্য ৰাখে, আৰু ছডিয়াম বেছি হ’লে উচ্চ ৰক্তচাপৰ সম্পৰ্ক হয়। জিঙে ঘা শুকুৱা আৰু প্ৰতিৰোধ ক্ষমতাৰ বাবে লাগে, অভাৱত বৃদ্ধি লেহেমীয়া হয়।"
+      ],
+      [
+        "h3",
+        "প্ৰ’টিন শক্তি অপপুষ্টি — দুটা শব্দত"
+      ],
+      [
+        "p",
+        "কোৱাছিঅৰ্কৰ হ’ল প্ৰ’টিনৰ অভাৱ, কেলৰি প্ৰায় পৰ্যাপ্ত। শিশুৰ পেট ফুলি থাকে (ইডিমা), চুলি পাতল, ছালত ঘা আৰু মুখ চন্দ্ৰৰ দৰে; ফুলাটো দেখি পিতৃ-মাতৃয়ে শিশুটো ভালকৈ খাইছে বুলি ভাবে। মাৰাছমাছ হ’ল প্ৰ’টিন আৰু কেলৰি দুয়োৰে অভাৱ: শিশু শুকাই যায়, ৰিব দেখা যায়, ফুলা নাই। দুয়োটা পৃথক কৰা একেখন শাৰীয়েই ইডিমা — কোৱাছিঅৰ্কৰত আছে, মাৰাছমাছত নাই।"
+      ],
+      [
+        "p",
+        "দুয়োটা বয়সৰ তুলনাত ওজনৰ জৰিয়তে জুখা হয়, আৰু কাৰ্যসূচীত ওজন-বয়সৰ চাৰ্ট ব্যৱহাৰ হয়। অসমৰ প্ৰসংগত প্ৰশ্ন সাধাৰণতে — কোনটোত ইডিমা থাকে, বা কোনটোত কোন পোষক দ্ৰব্যৰ অভাৱ, আৰু কেতিয়াবা সৰ্বাধিক বিপদত থকা বয়স গোট, যি পাঁচ বছৰৰ তলৰ।"
+      ],
+      [
+        "h3",
+        "সুষম আহাৰ, BMI আৰু সংখ্যাকেইটা"
+      ],
+      [
+        "p",
+        "সুষম আহাৰত শৰ্কৰা, প্ৰ’টিন, চৰ্বি, ভিটামিন, খনিজ, আঁহ আৰু পানী সঠিক অনুপাতত থাকে, আৰু ব্যক্তিৰ বয়স আৰু কাম অনুসৰি পৰ্যাপ্ত কেলৰি থাকে। পাতল কাম কৰা প্ৰাপ্তবয়স্কৰ দিনে প্ৰায় ২,০০০ ৰ পৰা ২,২০০ কিল’কেলৰি লাগে; কঠোৰ শাৰীৰিক কামত ৩,০০০ বা তাতকৈ বেছি। আঁহে শক্তি নিদিলেও কোষ্ঠকাঠিন্য ৰোধ কৰে আৰু তেজৰ চেনি নিয়ন্ত্ৰণত সহায় কৰে।"
+      ],
+      [
+        "p",
+        "বডি মাছ ইণ্ডেক্স = ওজন (কিলোগ্ৰাম) ÷ উচ্চতা (মিটাৰ)²। ১৮.৫ তলত কম ওজন, ১৮.৫ ৰ পৰা ২৪.৯ স্বাভাৱিক, ২৫ ৰ পৰা ২৯.৯ বেছি ওজন, আৰু ৩০ ৰ ওপৰত স্থূলতা। ওজন আৰু উচ্চতা দি শ্ৰেণী সুধিলে সেয়া পোনপটীয়া হিচাপ, আৰু পদটোত স্বাস্থ্য পৰীক্ষা জড়িত হোৱা বাবে এনে প্ৰশ্ন আহে।"
+      ],
+      [
+        "h3",
+        "পানী, আঁহ আৰু কোনেও নগণা বস্তুবোৰ"
+      ],
+      [
+        "p",
+        "পানী কেলৰি নথকা পোষক নহয়, কিন্তু কেইদিনমানৰ বাবে শৰীৰে যাৰ অবিহনে চলিব নোৱাৰে সেয়া পানী। ই পোষক দ্ৰব্য বহন কৰে, ঘামৰ জৰিয়তে উষ্ণতা নিয়ন্ত্ৰণ কৰে, আৰু বৃক্কক কাম কৰাই ৰাখে। প্ৰাপ্তবয়স্কৰ বাবে দিনে দুইৰ পৰা তিনি লিটাৰ সাধাৰণ, গৰমত বেছি আৰু কঠোৰ কামত বেছি। 'ওজন অনুসৰি মানুহৰ শৰীৰৰ আটাইতকৈ বেছি অংশ কি' সুধিলে উত্তৰ পানী — প্ৰায় ষাঠি শতাংশ।"
+      ],
+      [
+        "p",
+        "আঁহ হ’ল উদ্ভিদজ খাদ্যৰ যি অংশ শৰীৰে পাচন কৰিব নোৱাৰে। ই পেট ভৰ্তি ৰাখে, অন্ত্ৰত পানী ধৰি ৰাখে, কোষ্ঠকাঠিন্য ৰোধ কৰে আৰু খোৱাৰ পিছত তেজৰ চেনি লাহে লাহে বঢ়ায়। গোটেই ধান, ডাইল, পাচলি আৰু ফল ইয়াৰ উৎস। চাফা কৰা চাউল, তেল আৰু পাচলি নথকা আহাৰ — স্বাস্থ্য কাৰ্যসূচীয়ে শুধৰাব খোজা অসমৰ সাধাৰণ আহাৰ-ভুল এয়েই।"
+      ],
+      [
+        "h3",
+        "এই বেংকৰ পাঁচটা প্ৰশ্ন, পৰীক্ষাৰ ধৰণে"
+      ],
+      [
+        "p",
+        "কোন ভিটামিন ৰ’দত ছালত সংশ্লেষিত হয়? ভিটামিন D, ক’লেষ্টেৰলৰ পৰা, সেয়ে ঘৰৰ ভিতৰত থকা লোক আৰু শীতকালত অভাৱ সাধাৰণ। কোন ভিটামিন বেছি সময় ৰান্ধিলে নষ্ট হয়? ভিটামিন C, কাৰণ ই পানী-দ্ৰৱণীয় আৰু তাপ-সংবেদনশীল — সেয়ে পাচলি কম সময়, কম পানীত ৰান্ধিব লাগে।"
+      ],
+      [
+        "p",
+        "কোন অভাৱত গিঁহত ৰক্তক্ষৰণ আৰু ঘা শুকুৱা দেৰি হয়? ভিটামিন C, অৰ্থাৎ স্কাৰ্ভি। গৰ্ভৱতী মহিলাৰ কোন অভাৱত শিশুৰ জন্মগত ত্ৰুটি হয়? ফ’লিক এচিড, ভিটামিন B9, সেয়ে প্ৰথম তিনি মাহত ইয়াক সম্পূৰক হিচাপে দিয়া হয়। ভাৰতীয় মহিলাৰ ৰক্তহীনতাৰ আটাইতকৈ সাধাৰণ কাৰণ কোন খনিজৰ অভাৱ? আয়, আৰু 'আটাইতকৈ সাধাৰণ' শব্দটোৰ লগত এই উত্তৰ বাৰে বাৰে সোধা হয়, সেয়ে লগতে মনত ৰখা ভাল।"
+      ],
+      [
+        "h3",
+        "অসমৰ বিশেষ শাৰীকেইটা"
+      ],
+      [
+        "p",
+        "আয়’ডিনযুক্ত লৱণ সৰ্বত্ৰ নোহোৱালৈকে পাহাৰীয়া জিলা আৰু ব্ৰহ্মপুত্ৰ উপত্যকাত আয়’ডিনৰ অভাৱজনিত ৰোগ এটা বাস্তৱ সমস্যা আছিল, আৰু গইটা প্ৰাদুৰ্ভাৱৰ সমীক্ষা ৰাজ্যৰ স্বাস্থ্য অভিলেখৰ অংশ। কিশোৰী আৰু গৰ্ভৱতী মহিলাৰ ৰক্তহীনতা আন এটা স্থায়ী সমস্যা, যাক স্কুল আৰু গৰ্ভকালীন ক্লিনিকত বিতৰণ কৰা আয় আৰু ফ’লিক এচিডৰ টেবুলেটেৰে সমাধান কৰা হয়।"
+      ],
+      [
+        "p",
+        "পাঁচ বছৰৰ তলৰ শিশুৰ অপপুষ্টি ওজন-বয়সৰ জৰিয়তে জুখা হয়, আৰু অসমত সেই কাৰ্যসূচি অংগনৱাড়ী কেন্দ্ৰৰ জৰিয়তে চলে — পৰিপূৰক পুষ্টি আৰু বৃদ্ধি নিৰীক্ষণৰ সৈতে। 'অপপুষ্ট শিশু প্ৰথমে ক’ত চিনাক্ত হয়' সুধিলে উত্তৰ সাধাৰণতে অংগনৱাড়ী বা উপ-কেন্দ্ৰ, জিলা চিকিৎসালয় নহয়।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "ভিটামিন C চৰ্বি-দ্ৰৱণীয় বুলি কোৱা — সেয়া পানী-দ্ৰৱণীয়।",
+          "ৰিকেটছ আৰু অষ্টিঅ’মালেছিয়া মিলাই দিয়া — একেই অভাৱ, বয়স গোট বেলেগ।",
+          "পেলাগ্ৰাক B1 ৰ অভাৱ বুলি কোৱা — B1 বেৰিবেৰি; পেলাগ্ৰা B3।",
+          "কোৱাছিঅৰ্কৰক ফুলা নথকাটো বুলি কোৱা — ফুলাটো থকাটো।",
+          "ভিটামিন K তেজ জমোৱাৰ বাবে লাগে, হাড়ৰ বাবে নহয় — পাহৰি যোৱা।"
+        ]
+      ],
+      [
+        "h3",
+        "খাদ্য সংৰক্ষণ আৰু স্বাস্থ্য"
+      ],
+      [
+        "p",
+        "খাদ্য নষ্ট হোৱাৰ কাৰণ মূলতেই তিনি — ৰোগজীৱাণু, এনজাইম আৰু বতাহৰ অক্সিজেন। সেয়ে সংৰক্ষণৰ উপায়ো তিনি: ৰান্ধি বা পেষ্টৰাইজ কৰি ৰোগজীৱাণু মৰা, শুকুৱাই বা নিমখ-চেনি মিহলাই পানী আঁতৰোৱা, আৰু বায়ু নথকাকৈ বন্ধ কৰি ৰখা। ডবলাত মাছ নিমখ দি শুকুৱাই ৰখা, আচাৰত তেল-মছলা দি ৰখা — এই দুয়োটা অসমৰ ঘৰুৱা উদাহৰণ, আৰু প্ৰশ্নকাকতত 'সংৰক্ষণৰ পদ্ধতি' হিচাপে আহে।"
+      ],
+      [
+        "p",
+        "খাদ্য বিষক্ৰিয়া সাধাৰণতে ৰান্ধি ৰখা খাদ্য বেছি সময় বাহিৰত থ’লে হয়; সেয়ে ৰন্ধা খাদ্য দুই ঘণ্টাৰ ভিতৰত খোৱা বা ফ্ৰিজত ৰখা উচিত। এই এটা ব্যৱহাৰিক নিয়ম নাৰ্ছিং আৰু পেৰামেডিকেল প্ৰশ্নত 'কোনটো অভ্যাস বিপদজনক' ধৰণে আহে।"
+      ],
+      [
+        "h3",
+        "এই শিতানত দহ দিন"
+      ],
+      [
+        "p",
+        "দুদিন ভিটামিনৰ তালিকা মনৰ পৰা লিখি — এঘাৰটা শাৰী, তিনি মিনিটতকৈ কম সময়ত ওলোৱালৈকে। দুদিন খনিজ আৰু দুটা ৰক্তহীনতাত। দুদিন প্ৰ’টিন শক্তি অপপুষ্টিত — ইডিমাৰ শাৰীটো মাতি মাতি। দুদিন সুষম আহাৰ আৰু BMI ৰ হিচাপত — পাঁচটা হিচাপ কৰি। শেষৰ দুদিন: এই বেংকৰ প্ৰশ্ন, সময় ধৰি, আৰু পিছলি যোৱা প্ৰতিটো ৰোগৰ নাম পুনৰ লিখি।"
+      ],
+      [
+        "tip",
+        "চৰ্বি-দ্ৰৱণীয় চাৰিটা ভিটামিন এটা শব্দ হিচাপে লিখি থওক — A, D, E, K — আৰু বাকী আটাই পানী-দ্ৰৱণীয়। এই এশাৰীয়ে তালিকাখন নোচোৱাকৈ আধা প্ৰশ্নৰ উত্তৰ দিয়ে।"
+      ]
+    ]
   }
 }
