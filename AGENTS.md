@@ -3263,3 +3263,16 @@ and each question carries three computed distractors. Assamese options use
 Assamese numerals via `as_num`.
 
 Book total after rebuild: 13,933; sitewide 56,256; hero 84,963.
+
+## Numerical Aptitude — next four arithmetic topics (hard level)
+
+Percentage, ratio-proportion, average and profit-loss-discount now hold
+90+ hard questions each, all computed and covering multiple types:
+
+- percentage 98, ratio-proportion 97, average 109, profit-loss-discount 113.
+
+Generators: `tools/gen-num-percentage.py`, `gen-num-ratio.py`,
+`gen-num-average.py`, `gen-num-profit.py`, sharing `tools/num_bank.py`.
+The shared `opts()` now also bumps ratio-style string options safely.
+
+Book total after rebuild: 14,350; sitewide 56,673; hero 85,380.

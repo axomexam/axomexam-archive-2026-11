@@ -26,7 +26,15 @@ def opts(correct, cands, n=3):
             break
     k = 1
     while len(out) < n:
-        v = correct + k if correct >= 0 else correct - k
+        if isinstance(correct, str):
+            if ":" in correct:
+                parts = correct.split(":")
+                parts[0] = str(int(parts[0]) + k)
+                v = ":".join(parts)
+            else:
+                v = correct + " " + str(k)
+        else:
+            v = correct + k if correct >= 0 else correct - k
         if v != correct and v not in out:
             out.append(v)
         k += 1
