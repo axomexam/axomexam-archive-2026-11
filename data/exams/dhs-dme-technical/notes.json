@@ -8094,5 +8094,513 @@
         "প্ৰতিধ্বনি বা ছ'নাৰৰ যিকোনো প্ৰশ্নত আগতে মুঠ দূৰত্ব লিখা, তাৰ পিছত আধা কৰা। তৰংগই মাধ্যম সলোৱা যিকোনো প্ৰশ্নত তৰংগদৈৰ্ঘ্যত হাত দিয়াৰ আগতে কম্পনাংক অপৰিৱৰ্তিত বুলি লিখি লোৱা।"
       ]
     ]
+  },
+  "heat-thermodynamics": {
+    "en": [
+      [
+        "h3",
+        "What the heat block asks"
+      ],
+      [
+        "p",
+        "Heat is the chapter where the paper mixes a formula with a household fact. One question will ask you to convert a temperature or to read a clinical thermometer, another will ask why water in a lake freezes from the top, and a third will ask you to compute the heat needed to raise a given mass of water through a given range. All three come from the same four ideas: temperature is not heat, bodies expand when heated, changing temperature needs sensible heat, and changing state needs latent heat."
+      ],
+      [
+        "p",
+        "In DHS and DME Technical papers this block is usually four to five questions. The arithmetic is one multiplication, and the conceptual questions repeat a small set of standard examples. That makes heat one of the better chapters to secure, because the same revision covers both the numerical and the descriptive question."
+      ],
+      [
+        "h3",
+        "Temperature and heat are not the same thing"
+      ],
+      [
+        "p",
+        "Temperature measures how hot a body is, or more precisely the average kinetic energy of its particles. Heat is energy in transit from a hotter body to a colder one. A bucket of warm water contains far more heat than a red-hot needle, even though the needle is at a higher temperature, because heat depends on mass as well as temperature. That single distinction answers the standard trick question about which of the two contains more heat."
+      ],
+      [
+        "p",
+        "The SI unit of heat is the joule; the older unit, the calorie, is still used in school problems, with 1 calorie equal to 4.2 joules. Temperature is measured in degrees Celsius, and absolute temperature in kelvin, with K = C + 273. A temperature difference is the same number in both scales, which is why you can put a difference in degrees Celsius straight into a formula that expects kelvin."
+      ],
+      [
+        "p",
+        "Thermometers work because a liquid expands with temperature. Mercury is used because it does not wet glass and its expansion is uniform. A clinical thermometer reads from 35 to 42 degrees Celsius, because that is the range of human body temperature, and it carries a constriction, or kink, near the bulb so that the mercury column does not fall back before the doctor reads it. That kink is the reason the thermometer must be shaken down before use."
+      ],
+      [
+        "h3",
+        "Expansion, and the odd behaviour of water"
+      ],
+      [
+        "p",
+        "Solids, liquids and gases all expand on heating, gases most and solids least. A bimetallic strip bends because the two metals expand by different amounts, and that bending is used in a thermostat, in an electric iron and in a fire alarm. Railway lines are laid with gaps, and concrete roads carry expansion joints, for the same reason: the material has to have somewhere to go on a hot day."
+      ],
+      [
+        "p",
+        "Water breaks the rule between 0 and 4 degrees Celsius. As it is heated from 0 it contracts until 4 degrees, and only after that does it expand. This anomalous expansion is why a lake freezes from the surface downwards: water at 4 degrees is the densest and sinks, the colder, lighter water stays on top and freezes first, and the ice sheet insulates the water below so that fish survive. It is also why a water pipe bursts in a cold snap: the ice expands as it forms and splits the metal."
+      ],
+      [
+        "h3",
+        "Specific heat: why the sea keeps a town cool"
+      ],
+      [
+        "p",
+        "The heat needed to raise the temperature of a mass m of a substance through a change of temperature is Q = m c delta T, where c is the specific heat capacity. Water has an unusually high specific heat, about 4,200 J per kg per degree Celsius, while iron is about 450 and copper about 390. That single number explains a surprising amount of the paper."
+      ],
+      [
+        "p",
+        "Because water takes so much heat to warm, the sea warms and cools slowly, and coastal towns have a smaller temperature range than inland towns. The same property makes water the coolant in a car radiator and in a power station. It also explains the sea breeze: the land heats faster in the morning, the air above it rises, and cooler air flows in from the sea."
+      ],
+      [
+        "p",
+        "A cooking pan uses the same idea in reverse. Its base is metal so that heat passes quickly, and its handle is plastic or wood because those have low conductivity, and sometimes low specific heat as well, so the handle stays cool enough to hold."
+      ],
+      [
+        "h3",
+        "Latent heat: the heat that changes state but not temperature"
+      ],
+      [
+        "p",
+        "While ice melts, its temperature stays at 0 degrees Celsius and the heat supplied goes into breaking the bonds of the solid. That hidden heat is the latent heat of fusion, about 334 J per gram for ice. The same thing happens at the boiling point: the latent heat of vaporisation of water is about 2,260 J per gram, far larger than the latent heat of fusion, which is why steam at 100 degrees carries so much more energy than water at 100 degrees."
+      ],
+      [
+        "p",
+        "Two everyday answers follow directly. Sweating cools you because the sweat takes latent heat from your skin as it evaporates. Steam scalds worse than boiling water because, on touching the skin, the steam first gives up its large latent heat and then gives up the heat of the water itself. A wet cloth wrapped around a water pot keeps the water cool in summer for the same reason."
+      ],
+      [
+        "h3",
+        "Conduction, convection and radiation"
+      ],
+      [
+        "p",
+        "Heat moves in three ways and the paper expects you to name the right one for a given situation. Conduction needs a medium and works by particles passing energy to their neighbours; it is how a metal spoon in hot tea becomes hot. Convection moves heat by the bulk movement of a fluid; it is how a room is warmed by a heater and how the monsoon is driven. Radiation needs no medium at all, which is how the sun's heat reaches the earth through space."
+      ],
+      [
+        "p",
+        "Black surfaces absorb and emit radiation better than white or shiny ones, which is why solar cookers and the base of a cooking pot are blackened, why white clothes are worn in summer, and why a vacuum flask has silvered walls. A vacuum flask blocks all three routes at once: the vacuum stops conduction and convection, and the silvering stops radiation."
+      ],
+      [
+        "h3",
+        "Two questions worked the short way"
+      ],
+      [
+        "p",
+        "How much heat raises 2 kg of water from 20 to 70 degrees Celsius? The change is 50 degrees, so Q = 2 x 4,200 x 50 = 420,000 J, or 420 kJ. If the same heat were given to 2 kg of iron with a specific heat of 450, the rise would be 420,000 divided by (2 x 450), which is about 467 degrees - more than enough to melt it, which is exactly why water is the safer coolant."
+      ],
+      [
+        "p",
+        "A 100 W heater is switched on for 10 minutes in 1 kg of water. The energy supplied is 100 x 600 = 60,000 J, so the rise is 60,000 divided by 4,200, about 14 degrees Celsius. The only trap is the unit of time: minutes must become seconds before multiplying by watts."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "p",
+        "Four habits cost marks here. Mixing up heat and temperature, so a hot small object is said to contain more heat. Forgetting to convert minutes to seconds in an electrical heating question. Using degrees Celsius where an absolute temperature is needed, which matters in gas law questions but not in a plain specific heat calculation. And answering a why question with the name of the process instead of the mechanism, which is what the examiner is actually looking for."
+      ],
+      [
+        "ul",
+        [
+          "K = C + 273; a temperature difference is the same in both scales.",
+          "Q = m c delta T; water c about 4,200 J/kg per degree, iron about 450, copper about 390.",
+          "Latent heat of fusion of ice about 334 J/g; of vaporisation of water about 2,260 J/g.",
+          "Water is densest at 4 degrees Celsius, so lakes freeze from the top.",
+          "Conduction needs a medium, convection moves the medium, radiation needs none."
+        ]
+      ],
+      [
+        "tip",
+        "In any heat calculation, write the units beside every number before you multiply. Most lost marks in this chapter are unit errors, not physics errors."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "তাপৰ এই অংশত কি সোধা হয়"
+      ],
+      [
+        "p",
+        "তাপ সেই অধ্যায় য'ত প্ৰশ্নকাকতে সূত্ৰৰ লগত ঘৰুৱা তথ্য মিলাই সোধে। এটা প্ৰশ্নত তাপমাত্ৰা ৰূপান্তৰ বা ক্লিনিকেল থাৰ্ম'মিটাৰ পঢ়িবলৈ দিয়া হয়, আন এটাত সোধা হয় পুখুৰীৰ পানী ওপৰৰ পৰা কিয় বৰফ হয়, আৰু তৃতীয়টোত এটা নিৰ্দিষ্ট ভৰৰ পানী এটা নিৰ্দিষ্ট পৰিসৰলৈ গৰম কৰিবলৈ কিমান তাপ লাগে গণনা কৰিবলৈ দিয়া হয়। তিনিওটা একে চাৰিটা ধাৰণাৰ পৰা আহে: তাপমাত্ৰা আৰু তাপ বেলেগ, গৰম হ'লে বস্তু প্ৰসাৰিত হয়, তাপমাত্ৰা সলনি কৰিবলৈ স্পষ্ট তাপ লাগে, আৰু অৱস্থা সলনি কৰিবলৈ লুকাই থকা তাপ লাগে।"
+      ],
+      [
+        "p",
+        "DHS আৰু DME Technical ৰ প্ৰশ্নকাকতত এই অংশত সাধাৰণতে চাৰিৰ পৰা পাঁচটা প্ৰশ্ন থাকে। গণনা এটা পূৰণহে, আৰু ধাৰণামূলক প্ৰশ্নবোৰ এটা সৰু চিনাকি উদাহৰণৰ গোটৰ পৰাই আহে। সেয়ে তাপ এটা সুৰক্ষিত কৰিব পৰা অধ্যায়, কাৰণ একে পুনৰাবৃত্তিয়েই সংখ্যাত্মক আৰু বৰ্ণনামূলক দুয়োটা প্ৰশ্ন সামৰি লয়।"
+      ],
+      [
+        "h3",
+        "তাপমাত্ৰা আৰু তাপ একে বস্তু নহয়"
+      ],
+      [
+        "p",
+        "তাপমাত্ৰাই বস্তু এটা কিমান গৰম সেইটো মাপে, অৰ্থাৎ তাৰ কণাবোৰৰ গড় গতিশক্তি মাপে। তাপ হ'ল গৰম বস্তুৰ পৰা ঠাণ্ডা বস্তুলৈ যোৱা শক্তি। এটা বাল্টি গৰম পানীত এটা ৰঙা-তপত বেজীতকৈ বহুত বেছি তাপ থাকে, যদিও বেজীৰ তাপমাত্ৰা বেছি, কাৰণ তাপ ভৰ আৰু তাপমাত্ৰা দুয়োটাৰ ওপৰত নিৰ্ভৰ কৰে। এই এটা পাৰ্থক্যই দুয়োটাৰ ভিতৰত কাৰ তাপ বেছি - এই চিনাকি ফান্দ প্ৰশ্নৰ উত্তৰ দিয়ে।"
+      ],
+      [
+        "p",
+        "তাপৰ SI একক জুল; পুৰণি একক কেলৰি বিদ্যালয়ৰ প্ৰশ্নত এতিয়াও ব্যৱহাৰ হয়, 1 কেলৰি = 4.2 জুল। তাপমাত্ৰা ডিগ্ৰী চেলছিয়াছত মাপা হয়, আৰু পৰম তাপমাত্ৰা কেলভিনত, K = C + 273। তাপমাত্ৰাৰ পাৰ্থক্য দুয়ো স্কেলত একেই সংখ্যা, সেয়ে চেলছিয়াছৰ পাৰ্থক্য পোনপটীয়াকৈ কেলভিন বিচৰা সূত্ৰত বহুৱাব পাৰি।"
+      ],
+      [
+        "p",
+        "থাৰ্ম'মিটাৰে কাম কৰে কাৰণ জুলীয়া পদাৰ্থ গৰম হ'লে প্ৰসাৰিত হয়। পাৰা ব্যৱহাৰ কৰা হয় কাৰণ ই কাচ তিয়াই নধৰে আৰু ইয়াৰ প্ৰসাৰণ সুষম। ক্লিনিকেল থাৰ্ম'মিটাৰে 35 ৰ পৰা 42 ডিগ্ৰী চেলছিয়াছলৈ পঢ়ে, কাৰণ সেয়া মানুহৰ শৰীৰৰ তাপমাত্ৰাৰ পৰিসৰ, আৰু ইয়াৰ বাল্বৰ ওচৰত এটা সংকোচন বা খোঁচ থাকে, যাতে চিকিৎসকে পঢ়াৰ আগতে পাৰাৰ স্তম্ভ ঘূৰি নপৰে। সেই খোঁচটোৰ বাবেই ব্যৱহাৰৰ আগতে থাৰ্ম'মিটাৰ জোকাৰি তললৈ আনিব লাগে।"
+      ],
+      [
+        "h3",
+        "প্ৰসাৰণ, আৰু পানীৰ আচৰিত আচৰণ"
+      ],
+      [
+        "p",
+        "কঠিন, জুলীয়া আৰু গেছ সকলোৱে গৰম হ'লে প্ৰসাৰিত হয়, গেছ সৰ্বাধিক আৰু কঠিন সৰ্বনিম্ন। বাইমেটালিক পট্টি বেঁকা হয় কাৰণ দুয়োটা ধাতু বেলেগ বেলেগ পৰিমাণে প্ৰসাৰিত হয়, আৰু সেই বেঁকা হোৱাটো থাৰ্ম'ষ্টেট, ইস্ত্ৰি আৰু অগ্নি সংকেত যন্ত্ৰত ব্যৱহাৰ হয়। ৰেলপথত ফাঁক ৰখা হয়, আৰু পকী পথত প্ৰসাৰণৰ জোৰ্ত থাকে, একে কাৰণতে: গৰম দিনত পদাৰ্থটোক যাবলৈ ঠাই লাগে।"
+      ],
+      [
+        "p",
+        "পানীয়ে 0 ৰ পৰা 4 ডিগ্ৰী চেলছিয়াছৰ ভিতৰত নিয়ম ভাঙে। 0 ৰ পৰা গৰম কৰিলে ই 4 ডিগ্ৰীলৈকে সংকুচিত হয়, তাৰ পিছতহে প্ৰসাৰিত হয়। এই অস্বাভাৱিক প্ৰসাৰণৰ বাবেই পুখুৰী ওপৰৰ পৰা বৰফ হয়: 4 ডিগ্ৰীৰ পানী আটাইতকৈ ঘন আৰু তললৈ যায়, ঠাণ্ডা আৰু পাতল পানী ওপৰত ৰৈ আগতে বৰফ হয়, আৰু বৰফৰ স্তৰে তলৰ পানী অন্তৰ্ধান কৰি ৰাখে যাতে মাছে জীয়াই থাকে। এই কাৰণতে ঠাণ্ডাত পানীৰ পাইপ ফাটি যায়: বৰফ হোৱাৰ সময়ত প্ৰসাৰিত হৈ ধাতুখন ফালি দিয়ে।"
+      ],
+      [
+        "h3",
+        "আপেক্ষিক তাপ: সাগৰে চহৰ কিয় ঠাণ্ডা ৰাখে"
+      ],
+      [
+        "p",
+        "m ভৰৰ বস্তুৰ তাপমাত্ৰা এটা পৰিমাণে সলনি কৰিবলৈ লগা তাপ Q = m c delta T, য'ত c হ'ল আপেক্ষিক তাপ ধাৰণক্ষমতা। পানীৰ আপেক্ষিক তাপ অস্বাভাৱিকভাৱে বেছি, প্ৰায় 4,200 জুল প্ৰতি কিলোগ্ৰাম প্ৰতি ডিগ্ৰী চেলছিয়াছ, আনহাতে লোৰ প্ৰায় 450 আৰু তামৰ প্ৰায় 390। এই এটা সংখ্যাই প্ৰশ্নকাকতৰ আচৰিত পৰিমাণৰ অংশৰ ব্যাখ্যা দিয়ে।"
+      ],
+      [
+        "p",
+        "পানীক গৰম কৰিবলৈ বহুত তাপ লাগে বাবে সাগৰ লাহে লাহে গৰম হয় আৰু লাহে লাহে ঠাণ্ডা হয়, সেয়ে উপকূলীয় চহৰৰ তাপমাত্ৰাৰ পাৰ্থক্য ভিতৰৰ চহৰতকৈ কম। একে ধৰ্মৰ বাবেই গাড়ীৰ ৰেডিয়েটৰ আৰু বিদ্যুৎ কেন্দ্ৰত পানী শীতলক হিচাপে ব্যৱহাৰ হয়। সাগৰীয় বতাহৰ ব্যাখ্যাও ইয়াৰ পৰাই: ৰাতিপুৱা মাটি সোনকালে গৰম হয়, তাৰ ওপৰৰ বায়ু ওপৰলৈ যায়, আৰু সাগৰৰ পৰা ঠাণ্ডা বায়ু আহি ভৰি দিয়ে।"
+      ],
+      [
+        "p",
+        "ৰন্ধা পাত্ৰই একেই ধাৰণা ওলোটা দিশত ব্যৱহাৰ কৰে। তাৰ তলিখন ধাতুৰ যাতে তাপ সোনকালে যায়, আৰু হেণ্ডেল প্লাষ্টিক বা কাঠৰ কাৰণে সেইবোৰৰ পৰিবাহিতা কম, কেতিয়াবা আপেক্ষিক তাপো কম, সেয়ে হেণ্ডেল ধৰিব পৰাকৈ ঠাণ্ডা থাকে।"
+      ],
+      [
+        "h3",
+        "লুকাই থকা তাপ: যি তাপে অৱস্থা সলায় কিন্তু তাপমাত্ৰা নসলায়"
+      ],
+      [
+        "p",
+        "বৰফ গলি থকা সময়ত তাৰ তাপমাত্ৰা 0 ডিগ্ৰী চেলছিয়াছতে থাকে আৰু দিয়া তাপ কঠিনৰ বান্ধন ভাঙোতে খৰচ হয়। এই লুকাই থকা তাপক গলনৰ লুকাই থকা তাপ বোলে, বৰফৰ বাবে প্ৰায় 334 জুল প্ৰতি গ্ৰাম। উতলাৰ বিন্দুতো একেই ঘটে: পানীৰ বাষ্পীভৱনৰ লুকাই থকা তাপ প্ৰায় 2,260 জুল প্ৰতি গ্ৰাম, গলনৰ তাপতকৈ বহুত বেছি, সেয়ে 100 ডিগ্ৰীৰ ভাপত 100 ডিগ্ৰীৰ পানীতকৈ বহুত বেছি শক্তি থাকে।"
+      ],
+      [
+        "p",
+        "ইয়াৰ পৰা দুটা দৈনন্দিন উত্তৰ পোনপটীয়াকৈ ওলায়। ঘামি থাকিলে শৰীৰ ঠাণ্ডা হয় কাৰণ ঘাম বাষ্প হোৱাৰ সময়ত ছালৰ পৰা লুকাই থকা তাপ লৈ যায়। ভাপে উতলা পানীতকৈ বেছি পোৰে কাৰণ ছালত পৰাৰ লগে লগে ভাপে আগতে তাৰ ডাঙৰ লুকাই থকা তাপ দিয়ে, তাৰ পিছত পানীৰ তাপ দিয়ে। গ্ৰীষ্মত পানীৰ কলহত তিতা কাপোৰ মেৰিয়াই ৰখিলে পানী ঠাণ্ডা থাকে, একে কাৰণতে।"
+      ],
+      [
+        "h3",
+        "পৰিবহণ, সংবহন আৰু বিকিৰণ"
+      ],
+      [
+        "p",
+        "তাপ তিনি ধৰণে যায় আৰু প্ৰশ্নকাকতে পৰিস্থিতি অনুসৰি শুদ্ধটোৰ নাম বিচাৰে। পৰিবহণত মাধ্যম লাগে আৰু কণাবোৰে কাষৰ কণালৈ শক্তি দিয়ে; গৰম চাহত চামুচ গৰম হোৱাটো এই প্ৰক্ৰিয়া। সংবহনে জুলীয়া বা গেছৰ গোটেইটো গতিৰে তাপ কঢ়িয়াই নিয়ে; হিটাৰে কোঠা গৰম কৰা আৰু বাৰিষা বতাহৰ সৃষ্টি ইয়াৰ উদাহৰণ। বিকিৰণত মাধ্যম নালাগে, সেয়ে সূৰ্যৰ তাপে মহাকাশেদি আহি পৃথিৱীত পৰে।"
+      ],
+      [
+        "p",
+        "ক'লা পৃষ্ঠই বগা বা চিকমিকিয়া পৃষ্ঠতকৈ বিকিৰণ বেছি শোষণ আৰু নিঃসৰণ কৰে, সেয়ে সৌৰ চুলাত আৰু ৰন্ধা পাত্ৰৰ তলিত ক'লা ৰং দিয়া হয়, গ্ৰীষ্মত বগা কাপোৰ পিন্ধা হয়, আৰু থাৰ্ম'ফ্লাস্কৰ বেৰ ৰূপালী কৰা হয়। থাৰ্ম'ফ্লাস্কে তিনিওটা পথ একেলগে বন্ধ কৰে: শূন্য স্থানে পৰিবহণ আৰু সংবহন ৰোধ কৰে, আৰু ৰূপালী স্তৰে বিকিৰণ ৰোধ কৰে।"
+      ],
+      [
+        "h3",
+        "চুটিকৈ কৰা দুটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "2 কিলোগ্ৰাম পানী 20 ৰ পৰা 70 ডিগ্ৰী চেলছিয়াছলৈ গৰম কৰিবলৈ কিমান তাপ লাগে? পাৰ্থক্য 50 ডিগ্ৰী, সেয়ে Q = 2 x 4,200 x 50 = 4,20,000 জুল বা 420 কিলোজুল। একেই তাপ 450 আপেক্ষিক তাপৰ 2 কিলোগ্ৰাম লোক দিলে বৃদ্ধি 4,20,000 ÷ (2 x 450), অৰ্থাৎ প্ৰায় 467 ডিগ্ৰী হ'ব - লো গলিবলৈ যথেষ্ট, সেয়ে পানীহে নিৰাপদ শীতলক।"
+      ],
+      [
+        "p",
+        "1 কিলোগ্ৰাম পানীত 100 ৱাটৰ হিটাৰ 10 মিনিট চলালে যোগান ধৰা শক্তি 100 x 600 = 60,000 জুল, সেয়ে বৃদ্ধি 60,000 ÷ 4,200, অৰ্থাৎ প্ৰায় 14 ডিগ্ৰী চেলছিয়াছ। একমাত্ৰ ফান্দ সময়ৰ একক: ৱাটৰে পূৰণ কৰাৰ আগতে মিনিটক ছেকেণ্ডলৈ ৰূপান্তৰ কৰিব লাগে।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "p",
+        "ইয়াত চাৰিটা অভ্যাসে নম্বৰ খায়। তাপ আৰু তাপমাত্ৰা মিলাই পেলোৱা, সেয়ে সৰু গৰম বস্তুত বেছি তাপ আছে বুলি কোৱা। বিদ্যুৎ তাপনৰ প্ৰশ্নত মিনিটক ছেকেণ্ডলৈ নুবদলোৱা। য'ত পৰম তাপমাত্ৰা লাগে তাত চেলছিয়াছ ব্যৱহাৰ কৰা, যিটো গেছৰ সূত্ৰৰ প্ৰশ্নত গুৰুত্বপূৰ্ণ কিন্তু সাধাৰণ আপেক্ষিক তাপৰ গণনাত নহয়। আৰু কিয় সোধা প্ৰশ্নৰ উত্তৰত প্ৰক্ৰিয়াৰ নাম দিয়েই এৰি দিয়া, অথচ পৰীক্ষকে যন্ত্ৰণাটো বিচাৰে।"
+      ],
+      [
+        "ul",
+        [
+          "K = C + 273; তাপমাত্ৰাৰ পাৰ্থক্য দুয়ো স্কেলত একেই।",
+          "Q = m c delta T; পানী c প্ৰায় 4,200, লো প্ৰায় 450, তাম প্ৰায় 390 জুল/কি.গ্ৰা./ডিগ্ৰী।",
+          "বৰফৰ গলনৰ লুকাই থকা তাপ প্ৰায় 334 জুল/গ্ৰা.; পানীৰ বাষ্পীভৱনৰ প্ৰায় 2,260 জুল/গ্ৰা.।",
+          "পানী 4 ডিগ্ৰী চেলছিয়াছত আটাইতকৈ ঘন, সেয়ে পুখুৰী ওপৰৰ পৰা বৰফ হয়।",
+          "পৰিবহণত মাধ্যম লাগে, সংবহনে মাধ্যম চলায়, বিকিৰণত একো নালাগে।"
+        ]
+      ],
+      [
+        "h3",
+        "তাপগতিবিজ্ঞানৰ প্ৰথম সূত্ৰ"
+      ],
+      [
+        "p",
+        "যোগান ধৰা তাপ = আভ্যন্তৰীণ শক্তিৰ পৰিৱৰ্তন + বাহিৰত কৰা কাম, অৰ্থাৎ delta Q = delta U + W। গেছক স্থিৰ চাপত গৰম কৰিলে ই প্ৰসাৰিত হৈ কাম কৰে, সেয়ে একেই তাপত তাপমাত্ৰা কম বাঢ়ে; স্থিৰ আয়তনত গৰম কৰিলে কাম নহয়, গোটেই তাপ আভ্যন্তৰীণ শক্তি বঢ়োৱাত লাগে। এই পাৰ্থক্যটোৱেই প্ৰশ্নকাকতত সোধা হয়।"
+      ],
+      [
+        "p",
+        "দৈনন্দিন উদাহৰণ: চাইকেলৰ পাম্পে বায়ু ঠেলি দিলে পাম্পৰ নলী গৰম হয়, কাৰণ কৰা কাম আভ্যন্তৰীণ শক্তি বঢ়ায়। একেই কাৰণতে বতাহত হাত ঘঁহিলে গৰম লাগে। ইয়াৰ ওলোটা দিশত গেছ প্ৰসাৰিত হ'বলৈ দিলে ই ঠাণ্ডা হয়, যিটো ৰেফ্ৰিজাৰেটৰ আৰু এয়াৰ কণ্ডিচনাৰৰ মূল নীতি।"
+      ],
+      [
+        "h3",
+        "তাপমাত্ৰাৰ স্কেল আৰু ৰূপান্তৰ"
+      ],
+      [
+        "p",
+        "চেলছিয়াছ, ফাৰেনহাইট আৰু কেলভিন - তিনি স্কেলৰ মাজৰ সম্পৰ্ক প্ৰশ্নকাকতত সোধা হয়। ফাৰেনহাইটৰ পৰা চেলছিয়াছলৈ ৰূপান্তৰ C = (F - 32) x 5/9। পানীৰ হিমাংক 0 ডিগ্ৰী চেলছিয়াছ, 32 ডিগ্ৰী ফাৰেনহাইট আৰু 273 কেলভিন; উতলাংক 100 ডিগ্ৰী চেলছিয়াছ, 212 ডিগ্ৰী ফাৰেনহাইট আৰু 373 কেলভিন। -40 ডিগ্ৰীত চেলছিয়াছ আৰু ফাৰেনহাইট দুয়োটা একেই সংখ্যা দেখুৱায়, এই কথাটো প্ৰায়ে এটা বিকল্প হিচাপে আহে।"
+      ],
+      [
+        "p",
+        "পৰম শূন্য হ'ল -273 ডিগ্ৰী চেলছিয়াছ বা 0 কেলভিন। সেই তাপমাত্ৰাত পদাৰ্থৰ কণাৰ গতি তাত্ত্বিকভাৱে আটাইতকৈ কম হয়, কিন্তু শক্তি সম্পূৰ্ণ শূন্য নহয়। প্ৰশ্নকাকতত পৰম শূন্যৰ মান আৰু তাত কণাৰ অৱস্থা - এই দুয়োটা সোধা হয়।"
+      ],
+      [
+        "p",
+        "শৰীৰৰ তাপমাত্ৰা 37 ডিগ্ৰী চেলছিয়াছ বা 98.6 ডিগ্ৰী ফাৰেনহাইট, আৰু ইয়াৰ পৰিৱৰ্তন 1 ডিগ্ৰীতকৈ বেছি হ'লে জ্বৰ বুলি ধৰা হয়। জ্বৰ মাপোতে থাৰ্ম'মিটাৰ জিভাৰ তলত বা বগলত ৰখা হয় আৰু অন্তত এটা মিনিট অপেক্ষা কৰিব লাগে, যাতে পাৰাৰ স্তম্ভ সঠিক তাপমাত্ৰাত স্থিৰ হয়।"
+      ],
+      [
+        "tip",
+        "তাপৰ যিকোনো গণনাত পূৰণ কৰাৰ আগতে প্ৰতিটো সংখ্যাৰ কাষত একক লিখি লোৱা। এই অধ্যায়ত হেৰুওৱা নম্বৰৰ বেছিভাগ এককৰ ভুল, পদাৰ্থ বিজ্ঞানৰ ভুল নহয়।"
+      ]
+    ]
+  },
+  "pressure-fluids": {
+    "en": [
+      [
+        "h3",
+        "What the pressure block asks"
+      ],
+      [
+        "p",
+        "This topic collects every question about pressure in solids, liquids and gases, and about why bodies float. The bank is broad but shallow: each question turns on one relation, and the same six or seven situations keep returning. A dam is thicker at the bottom. A diver feels more pressure at depth. A ship made of iron floats while a nail sinks. A straw works because of atmospheric pressure, not because of suction. A hydrometer reads relative density. A balloon rises until the displaced air weighs less than the balloon."
+      ],
+      [
+        "p",
+        "In the DHS and DME Technical paper the block is worth four to six marks and it is almost entirely conceptual. Two numerical questions may appear, one on pressure at a depth and one on upthrust, and both are single multiplications once the units are right. That makes this one of the cheapest chapters in the physics section to convert into marks."
+      ],
+      [
+        "h3",
+        "Pressure, and the one formula that answers half the paper"
+      ],
+      [
+        "p",
+        "Pressure is force divided by area, measured in pascals, where one pascal is one newton per square metre. The same force produces more pressure on a smaller area, which is why a knife has a sharp edge, a nail has a point, a camel's foot is broad, and a tractor has wide tyres. A woman in high heels damages a floor more than an elephant does, because her weight is carried on a much smaller area."
+      ],
+      [
+        "p",
+        "Inside a liquid at rest the pressure at depth h is p = h rho g, where rho is the density of the liquid and g is about 9.8 m/s squared. Three consequences follow. Pressure increases with depth, so the wall of a dam is built thicker at the bottom. Pressure at a given depth is the same in every direction, so a diver feels it equally on the ears and the chest. And pressure depends only on depth, not on the shape or the width of the container, so a narrow tube and a wide tank holding the same depth have the same pressure at the bottom."
+      ],
+      [
+        "p",
+        "The atmosphere presses on everything with about 1.013 x 10^5 pascals, which is the same as 76 cm of mercury, or one atmosphere. That pressure is large, and we do not notice it because it acts equally in every direction and is balanced inside the body. A drinking straw works because you lower the pressure in your mouth, and the atmosphere pushes the liquid up. A syringe works the same way. A rubber sucker sticks to a surface because the air is removed from behind it and the atmosphere presses it down."
+      ],
+      [
+        "h3",
+        "Pascal's law and the machines built on it"
+      ],
+      [
+        "p",
+        "Pressure applied to an enclosed liquid is transmitted equally in all directions and acts with the same force on equal areas. That is Pascal's law, and it is the reason a hydraulic press can lift a car with a small force on a small piston. If the small piston has area a and the large one area A, the force is multiplied by A/a. The catch is that the small piston must move a distance larger by the same factor, so the work done is unchanged."
+      ],
+      [
+        "p",
+        "Hydraulic brakes, hydraulic jacks, the hydraulic lift in a garage and the controls of earth-moving machines all use the same law. The paper usually asks which machine uses Pascal's law, or asks for the force on the larger piston given the two areas and the applied force."
+      ],
+      [
+        "h3",
+        "Archimedes: the rule that decides floating and sinking"
+      ],
+      [
+        "p",
+        "A body immersed in a fluid experiences an upward force equal to the weight of the fluid it displaces. That is Archimedes' principle, and it is the whole of the floating chapter. A body floats when the weight of the fluid displaced equals its own weight, and sinks when its weight exceeds the weight of the fluid it can displace. Iron is denser than water, so a solid iron nail sinks; a ship is a hollow shape whose average density, iron plus the air inside, is less than water, so it floats."
+      ],
+      [
+        "p",
+        "Relative density, or specific gravity, is the density of a substance divided by the density of water. It has no unit. A body with relative density less than one floats, and the fraction of its volume that stays under water equals its relative density. Ice has a relative density of about 0.92, so an iceberg floats with roughly nine tenths of its volume below the surface, which is why the visible part is a poor guide to its size."
+      ],
+      [
+        "p",
+        "The same principle explains a submarine, which floods and empties its ballast tanks to dive and rise; a hydrometer, which floats deeper in a lighter liquid and therefore reads low; a hot-air balloon, which rises because the hot air inside is less dense than the cold air outside; and a fish, which adjusts its swim bladder."
+      ],
+      [
+        "h3",
+        "Bernoulli, surface tension and viscosity"
+      ],
+      [
+        "p",
+        "Where a fluid moves faster, its pressure is lower. That is Bernoulli's principle, and it answers a set of standard questions: an aeroplane wing generates lift because air moves faster over the curved upper surface; a roof can be lifted off in a storm because the air above moves faster than the air inside; a perfume spray works because air blown across a tube lowers the pressure and draws the liquid up; two boats moving side by side are pushed together."
+      ],
+      [
+        "p",
+        "Surface tension makes a liquid surface behave like a stretched skin. It is the reason a small drop is spherical, water rises in a thin capillary tube, a needle can float on water if placed carefully, and an insect can walk on a pond. Detergent lowers surface tension, which is why soap water cleans better and why a needle treated with soap sinks."
+      ],
+      [
+        "p",
+        "Viscosity is a liquid's resistance to flow. Honey is more viscous than water, and viscosity falls when a liquid is heated, which is why engine oil is thinner when warm. A body falling through a viscous liquid reaches a steady terminal velocity when the viscous drag plus the upthrust equals its weight."
+      ],
+      [
+        "h3",
+        "Two questions worked the short way"
+      ],
+      [
+        "p",
+        "The pressure at 10 m depth in water, with density 1,000 kg per cubic metre and g equal to 9.8, is p = 10 x 1,000 x 9.8 = 98,000 pascals. Adding the atmosphere gives about 199,000 pascals, or roughly two atmospheres. That is why a diver at 10 m is under twice the pressure of the surface, and why the second 10 m is no harder than the first."
+      ],
+      [
+        "p",
+        "A block of volume 0.002 cubic metres is fully immersed in water. The upthrust is the weight of the displaced water, 0.002 x 1,000 x 9.8 = 19.6 N. If the block weighs 15 N, it floats with part of it above the surface; if it weighs 25 N, it sinks. The whole question is a comparison of two numbers, and the only trap is using the mass of the block where its weight belongs."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "p",
+        "Four errors dominate. Pressure is confused with force, so a broad foot is said to exert more pressure. The depth in p = h rho g is taken as the depth of the container rather than the depth of the point. Upthrust is calculated with the density of the body instead of the density of the fluid. And a floating question is answered with the volume of the body instead of the volume actually submerged."
+      ],
+      [
+        "ul",
+        [
+          "Pressure = force / area; unit pascal, one newton per square metre.",
+          "Liquid pressure p = h rho g; depends on depth and density only.",
+          "Atmospheric pressure about 1.013 x 10^5 Pa, 76 cm of mercury, one atmosphere.",
+          "Upthrust = weight of fluid displaced; float if upthrust equals weight.",
+          "Ice has relative density 0.92, so about 9/10 of an iceberg is submerged."
+        ]
+      ],
+      [
+        "tip",
+        "In every floating question, write the density you are using beside the formula. If it is the density of the fluid, the answer is upthrust; if it is the density of the body, you are answering a different question."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "চাপৰ এই অংশত কি সোধা হয়"
+      ],
+      [
+        "p",
+        "এই অধ্যায়ত কঠিন, জুলীয়া আৰু গেছৰ চাপৰ প্ৰশ্ন আৰু বস্তু কিয় ভাহি থাকে সেই সম্পৰ্কীয় প্ৰশ্নবোৰ সংগ্ৰহ কৰা হৈছে। বেংক বহল কিন্তু গভীৰ নহয়: প্ৰতিটো প্ৰশ্ন এটা সম্পৰ্কৰ ওপৰত ঘূৰে, আৰু একেই ছয়-সাতটা পৰিস্থিতি বাৰে বাৰে ঘূৰি আহে। বান্ধ তলিত ডাঠ। ডুবুৰুৱাই গভীৰত বেছি চাপ অনুভৱ কৰে। লোৰে বনোৱা জাহাজ ভাহি থাকে কিন্তু পেরেক ডুব যায়। ষ্ট্ৰ'ৱে কাম কৰে বায়ুমণ্ডলীয় চাপৰ বাবে, টানিব পৰা শক্তিৰ বাবে নহয়। হাইড্ৰ'মিটাৰে আপেক্ষিক ঘনত্ব পঢ়ে। বেলুন এটা ওপৰলৈ যায় যেতিয়ালৈকে ইয়াৰ দ্বাৰা আঁতৰোৱা বায়ুৰ ওজন বেলুনৰ ওজনতকৈ কম নহয়।"
+      ],
+      [
+        "p",
+        "DHS আৰু DME Technical ৰ প্ৰশ্নকাকতত এই অংশৰ মূল্য চাৰিৰ পৰা ছয় নম্বৰ আৰু ই প্ৰায় সম্পূৰ্ণ ধাৰণামূলক। দুটা সংখ্যাত্মক প্ৰশ্ন আহিব পাৰে, এটা গভীৰতাৰ চাপৰ আৰু এটা ঊৰ্ধ্বচাপৰ, আৰু একক ঠিক হ'লে দুয়োটাই এটা পূৰণহে। সেয়ে পদাৰ্থ বিজ্ঞানৰ ভিতৰত এই অধ্যায়টোৱে আটাইতকৈ কম খৰচত নম্বৰ দিয়ে।"
+      ],
+      [
+        "h3",
+        "চাপ, আৰু আধা প্ৰশ্নকাকতৰ উত্তৰ দিয়া এটা সূত্ৰ"
+      ],
+      [
+        "p",
+        "চাপ = বল ÷ কালি, একক পাস্কেল, আৰু এক পাস্কেল = এক নিউটন প্ৰতি বৰ্গমিটাৰ। একেই বলে সৰু কালিত বেছি চাপ দিয়ে, সেয়ে knife ৰ ধাৰ তীক্ষ্ণ, পেরেকৰ মূৰ জোঙা, উটৰ ভৰি বহল, আৰু ট্ৰেক্টৰৰ চকা বহল। ওখ এডি পিন্ধা মহিলাই হাতীৰতকৈ মজিয়াত বেছি ক্ষতি কৰে, কাৰণ তেওঁৰ ওজন বহুত সৰু কালিত পৰে।"
+      ],
+      [
+        "p",
+        "বিশ্ৰামত থকা জুলীয়া পদাৰ্থৰ ভিতৰত h গভীৰতাৰ চাপ p = h rho g, য'ত rho হ'ল জুলীয়া পদাৰ্থৰ ঘনত্ব আৰু g প্ৰায় 9.8 মি./ছে.²। ইয়াৰ পৰা তিনি ফল ওলায়। গভীৰতা বঢ়াৰ লগে লগে চাপ বাঢ়ে, সেয়ে বান্ধৰ বেৰ তলিত ডাঠ কৰি সাজে। নিৰ্দিষ্ট গভীৰতাত প্ৰতিটো দিশত চাপ একেই, সেয়ে ডুবুৰুৱাই কাণ আৰু বুকুত একেই চাপ অনুভৱ কৰে। আৰু চাপ কেৱল গভীৰতাৰ ওপৰত নিৰ্ভৰ কৰে, পাত্ৰৰ আকৃতি বা বহলৰ ওপৰত নহয়, সেয়ে একেই গভীৰতাৰ সৰু নলী আৰু ডাঙৰ টেংকীৰ তলিত চাপ একেই।"
+      ],
+      [
+        "p",
+        "বায়ুমণ্ডলে প্ৰায় 1.013 x 10^5 পাস্কেল চাপ দিয়ে, যিটো 76 চে.মি. পাৰাৰ সমান, বা এক বায়ুমণ্ডল। এই চাপ ডাঙৰ, কিন্তু আমি অনুভৱ নকৰোঁ কাৰণ ই প্ৰতিটো দিশত সমানভাৱে কাম কৰে আৰু শৰীৰৰ ভিতৰৰ চাপে ইয়াক ভাৰসাম্য ৰাখে। পানী খোৱা ষ্ট্ৰ'ৱে কাম কৰে কাৰণ মুখৰ ভিতৰত চাপ কমাই দিয়া হয় আৰু বায়ুমণ্ডলে জুলীয়া পদাৰ্থটো ওপৰলৈ ঠেলে। চিৰিঞ্জেও একেই ধৰণে কাম কৰে। ৰবৰৰ চকাই পৃষ্ঠত লাগি ধৰে কাৰণ তাৰ পিছফালৰ বায়ু আঁতৰাই দিয়া হয় আৰু বায়ুমণ্ডলে ইয়াক তললৈ ঠেলে।"
+      ],
+      [
+        "h3",
+        "পাস্কেলৰ নিয়ম আৰু তাৰ ওপৰত সজা যন্ত্ৰ"
+      ],
+      [
+        "p",
+        "বন্ধ জুলীয়া পদাৰ্থত প্ৰয়োগ কৰা চাপ প্ৰতিটো দিশত সমানভাৱে সঞ্চাৰিত হয় আৰু সমান কালিত সমান বল দিয়ে। ইয়াকেই পাস্কেলৰ নিয়ম বোলে, আৰু এই কাৰণেই হাইড্ৰলিক প্ৰেছে সৰু পিষ্টনত সৰু বল দি গাড়ী দাঙিব পাৰি। সৰু পিষ্টনৰ কালি a আৰু ডাঙৰৰ কালি A হ'লে বল A/a গুণ হয়। কিন্তু সৰু পিষ্টনে সেই একেই গুণ বেছি দূৰত্ব যাব লাগে, সেয়ে কৰা কাম সলনি নহয়।"
+      ],
+      [
+        "p",
+        "হাইড্ৰলিক ব্ৰেক, হাইড্ৰলিক জেক, গেৰেজৰ হাইড্ৰলিক লিফ্ট আৰু মাটি খন্দা যন্ত্ৰৰ নিয়ন্ত্ৰণ - সকলোৱে এই একেই নিয়ম ব্যৱহাৰ কৰে। প্ৰশ্নকাকতত সাধাৰণতে সোধা হয় কোন যন্ত্ৰই পাস্কেলৰ নিয়ম ব্যৱহাৰ কৰে, বা দুটা কালি আৰু প্ৰয়োগ কৰা বল দি ডাঙৰ পিষ্টনৰ বল উলিয়াবলৈ দিয়া হয়।"
+      ],
+      [
+        "h3",
+        "আৰ্কিমিডিছ: ভাহি থকা আৰু ডুব যোৱাৰ নিয়ম"
+      ],
+      [
+        "p",
+        "জুলীয়া পদাৰ্থত ডুবাই দিয়া বস্তুৱে ওপৰলৈ এটা বল অনুভৱ কৰে, যিটো তাৰ দ্বাৰা আঁতৰোৱা জুলীয়া পদাৰ্থৰ ওজনৰ সমান। ইয়াকেই আৰ্কিমিডিছৰ নীতি বোলে, আৰু ভাহি থকা অধ্যায়টো সেয়াই। বস্তু এটা ভাহি থাকে যেতিয়া আঁতৰোৱা জুলীয়া পদাৰ্থৰ ওজন তাৰ নিজৰ ওজনৰ সমান হয়, আৰু ডুব যায় যেতিয়া তাৰ ওজন আঁতৰাব পৰা জুলীয়া পদাৰ্থৰ ওজনতকৈ বেছি হয়। লো পানীতকৈ ঘন, সেয়ে ঘন লোৰ পেরেক ডুব যায়; জাহাজ এটা ফোপোলা আকৃতিৰ, যাৰ গড় ঘনত্ব (লো আৰু ভিতৰৰ বায়ু) পানীতকৈ কম, সেয়ে ই ভাহি থাকে।"
+      ],
+      [
+        "p",
+        "আপেক্ষিক ঘনত্ব হ'ল পদাৰ্থৰ ঘনত্ব ÷ পানীৰ ঘনত্ব। ইয়াৰ একক নাই। একৰ পৰা কম আপেক্ষিক ঘনত্বৰ বস্তু ভাহি থাকে, আৰু তাৰ যিমান অংশ পানীত থাকে সেয়া তাৰ আপেক্ষিক ঘনত্বৰ সমান। বৰফৰ আপেক্ষিক ঘনত্ব প্ৰায় 0.92, সেয়ে হিমশৈলৰ প্ৰায় দহ ভাগৰ নখন অংশ পানীত ডুব থাকে, সেয়ে দেখা অংশৰ পৰা তাৰ আকাৰ অনুমান কৰা নিৰ্ভৰযোগ্য নহয়।"
+      ],
+      [
+        "p",
+        "এই একেই নীতিয়ে বুজায় চাবমেৰিন, যিয়ে বেলাষ্ট টেংকী পানীৰে ভৰাই আৰু খালী কৰি ডুব যায় আৰু উঠে; হাইড্ৰ'মিটাৰ, যি পাতল জুলীয়া পদাৰ্থত বেছি ডুব যায় আৰু সেয়ে কম পঢ়ে; গৰম বায়ুৰ বেলুন, যি ওপৰলৈ যায় কাৰণ ভিতৰৰ গৰম বায়ু বাহিৰৰ ঠাণ্ডা বায়ুতকৈ পাতল; আৰু মাছ, যি তাৰ সাতুৰণ থলী সলনি কৰে।"
+      ],
+      [
+        "h3",
+        "বাৰ্নুলি, পৃষ্ঠ টান আৰু সান্দ্ৰতা"
+      ],
+      [
+        "p",
+        "জুলীয়া বা গেছ য'ত বেগেৰে যায় তাত চাপ কম। ইয়াকেই বাৰ্নুলিৰ নীতি বোলে, আৰু ইয়াৰ পৰাই কেইবাটাও চিনাকি প্ৰশ্নৰ উত্তৰ ওলায়: বিমানৰ ডেউকাই লিফ্ট পায় কাৰণ বেঁকা ওপৰৰ পৃষ্ঠেদি বায়ু বেগেৰে যায়; ধুমুহাত চালি উৰি যায় কাৰণ ওপৰৰ বায়ু ভিতৰৰ বায়ুতকৈ বেগেৰে যায়; এটা নলীৰ ওপৰেৰে বায়ু ফুঁ দিলে সুগন্ধি ওপৰলৈ উঠে কাৰণ চাপ কমি যায়; দুখন নাৱ কাষে কাষে গ'লে ইটোৱে সিটোৰ ফালে ঠেলা খায়।"
+      ],
+      [
+        "p",
+        "পৃষ্ঠ টানে জুলীয়া পদাৰ্থৰ পৃষ্ঠ এখন টনা ছালৰ দৰে ব্যৱহাৰ কৰে। এই কাৰণেই সৰু টোপাল গোলাকাৰ হয়, পানী সৰু কেশিকা নলীত ওপৰলৈ উঠে, সাৱধানেে ৰাখিলে বেজী পানীত ভাহি থাকে, আৰু পোক এটাই পুখুৰীৰ পানীত খোজ কাঢ়িব পাৰে। চাবোনে পৃষ্ঠ টান কমায়, সেয়ে চাবোনৰ পানীয়ে ভালকৈ পৰিষ্কাৰ কৰে আৰু চাবোন লগা বেজী ডুব যায়।"
+      ],
+      [
+        "p",
+        "সান্দ্ৰতা হ'ল জুলীয়া পদাৰ্থৰ বৈ যোৱাৰ প্ৰতিৰোধ। মৌ পানীতকৈ বেছি সান্দ্ৰ। জুলীয়া পদাৰ্থ গৰম কৰিলে সান্দ্ৰতা কমে, সেয়ে ইঞ্জিনৰ তেল গৰম হ'লে পাতল হয়। সান্দ্ৰ জুলীয়া পদাৰ্থেদি পৰা বস্তু এটা এটা নিৰ্দিষ্ট প্ৰান্তিক বেগত উপনীত হয় যেতিয়া সান্দ্ৰ টান আৰু ঊৰ্ধ্বচাপ মিলি তাৰ ওজনৰ সমান হয়।"
+      ],
+      [
+        "h3",
+        "চুটিকৈ কৰা দুটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "পানীৰ 10 মিটাৰ গভীৰতাত চাপ, ঘনত্ব 1,000 কি.গ্ৰা./ঘনমিটাৰ আৰু g = 9.8 লৈ, p = 10 x 1,000 x 9.8 = 98,000 পাস্কেল। বায়ুমণ্ডলীয় চাপ যোগ দিলে প্ৰায় 1,99,000 পাস্কেল, অৰ্থাৎ প্ৰায় দুটা বায়ুমণ্ডল। সেয়ে 10 মিটাৰত ডুবুৰুৱা পৃষ্ঠৰ দুগুণ চাপত থাকে, আৰু দ্বিতীয় 10 মিটাৰ প্ৰথমটোতকৈ কঠিন নহয়।"
+      ],
+      [
+        "p",
+        "0.002 ঘনমিটাৰ আয়তনৰ এটা টুকুৰা সম্পূৰ্ণৰূপে পানীত ডুবাই দিয়া হ'ল। ঊৰ্ধ্বচাপ = আঁতৰোৱা পানীৰ ওজন = 0.002 x 1,000 x 9.8 = 19.6 নিউটন। টুকুৰাটোৰ ওজন 15 নিউটন হ'লে ই আংশিক ওপৰত ৰৈ ভাহি থাকিব; 25 নিউটন হ'লে ডুব যাব। গোটেই প্ৰশ্ন দুটা সংখ্যাৰ তুলনা, আৰু একমাত্ৰ ফান্দ হ'ল টুকুৰাৰ ওজনৰ ঠাইত ভৰ বহুওৱা।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "p",
+        "চাৰিটা ভুলেই প্ৰধান। চাপ আৰু বল মিলাই পেলোৱা, সেয়ে বহল ভৰিয়ে বেছি চাপ দিয়ে বুলি কোৱা। p = h rho g ত h ৰ ঠাইত পাত্ৰৰ গভীৰতা বহুওৱা, অথচ বিন্দুটোৰ গভীৰতা লাগে। ঊৰ্ধ্বচাপ গণনাত জুলীয়া পদাৰ্থৰ ঘনত্বৰ ঠাইত বস্তুৰ ঘনত্ব ব্যৱহাৰ কৰা। আৰু ভাহি থকা প্ৰশ্নত বস্তুৰ গোটেই আয়তন ব্যৱহাৰ কৰা, অথচ ডুব থকা অংশৰ আয়তনহে লাগে।"
+      ],
+      [
+        "ul",
+        [
+          "চাপ = বল ÷ কালি; একক পাস্কেল, এক নিউটন প্ৰতি বৰ্গমিটাৰ।",
+          "জুলীয়া পদাৰ্থৰ চাপ p = h rho g; কেৱল গভীৰতা আৰু ঘনত্বৰ ওপৰত নিৰ্ভৰ কৰে।",
+          "বায়ুমণ্ডলীয় চাপ প্ৰায় 1.013 x 10^5 পাস্কেল, 76 চে.মি. পাৰা, এক বায়ুমণ্ডল।",
+          "ঊৰ্ধ্বচাপ = আঁতৰোৱা জুলীয়া পদাৰ্থৰ ওজন; ঊৰ্ধ্বচাপ ওজনৰ সমান হ'লে ভাহি থাকে।",
+          "বৰফৰ আপেক্ষিক ঘনত্ব 0.92, সেয়ে হিমশৈলৰ প্ৰায় 9/10 অংশ ডুব থাকে।"
+        ]
+      ],
+      [
+        "h3",
+        "বায়ুমণ্ডলীয় চাপ জোখাৰ উপায়"
+      ],
+      [
+        "p",
+        "বাৰ'মিটাৰে বায়ুমণ্ডলীয় চাপ জোখে। পাৰাৰ বাৰ'মিটাৰত এটা ওলোটা নলীত পাৰাৰ স্তম্ভ সাগৰ পৃষ্ঠত 76 চে.মি. ওখ থাকে; ওপৰৰ ফালে শূন্য স্থান থাকে, সেয়ে বায়ুমণ্ডলৰ চাপেই স্তম্ভটো ধৰি ৰাখে। পাহাৰত উঠিলে বায়ুৰ স্তৰ পাতল হোৱাৰ বাবে স্তম্ভ কমি যায়, সেয়ে বাৰ'মিটাৰক উচ্চতা জোখাৰ কামতো ব্যৱহাৰ কৰিব পাৰি।"
+      ],
+      [
+        "p",
+        "চাপৰ আন এটা একক হ'ল বেৰ, য'ত 1 বেৰ = 10^5 পাস্কেল। বতৰৰ পূৰ্বানুমানত হেক্ট'পাস্কেল ব্যৱহাৰ হয়, 1 হেক্ট'পাস্কেল = 100 পাস্কেল। প্ৰশ্নকাকতত একক ৰূপান্তৰৰ সৰু প্ৰশ্নই প্ৰায়ে এটা নম্বৰ লৈ যায়, সেয়ে এই তিনি একক মনত ৰখা ভাল।"
+      ],
+      [
+        "h3",
+        "ঘনত্ব আৰু প্লৱনৰ দৈনন্দিন প্ৰয়োগ"
+      ],
+      [
+        "p",
+        "ঘনত্ব = ভৰ ÷ আয়তন, একক কি.গ্ৰা./ঘনমিটাৰ। পানীৰ ঘনত্ব 1,000, সেয়ে এক লিটাৰ পানীৰ ভৰ প্ৰায় এক কিলোগ্ৰাম। তেল পানীতকৈ পাতল, সেয়ে পানীত তেলৰ স্তৰ ওপৰত ৰয়; বৰফ পানীতকৈ পাতল, সেয়ে বৰফৰ টুকুৰা পানীত ভাহি থাকে। এই সৰু তথ্যবোৰৰ পৰাই দৈনন্দিন জীৱনৰ বহু প্ৰশ্নৰ উত্তৰ ওলায়, যেনে পানীৰ ওপৰত তেল কিয় ৰয়, বা বৰফ কিয় ডুব নাযায়।"
+      ],
+      [
+        "p",
+        "জাহাজৰ তলিত এটা বিশেষ ৰং আৰু বিশেষ আকৃতি থাকে যাতে পানীৰ প্ৰতিৰোধ কম হয় আৰু ইয়াৰ গড় ঘনত্ব পানীতকৈ কম থাকে। জাহাজত মাল বোজাই থাকোতে ওজন বাঢ়ে, কিন্তু ই যেতিয়ালৈকে আঁতৰোৱা পানীৰ ওজনতকৈ কম থাকে তেতিয়ালৈকে নিৰাপদ। সেয়ে জাহাজত বোজাৰ এক নিৰ্দিষ্ট সীমা থাকে, যাক প্লিমছ'ল লাইন বোলে।"
+      ],
+      [
+        "p",
+        "গৰম বায়ুৰ বেলুনত ভিতৰৰ বায়ু পাতল হোৱাৰ বাবে বেলুনৰ গড় ঘনত্ব বাহিৰৰ বায়ুতকৈ কম হয়, সেয়ে ই ওপৰলৈ যায়। বেলুনত ওজন বঢ়াই দিলে ইয়াৰ গড় ঘনত্ব বাঢ়ে আৰু ই নামি আহে। এই দুটা উদাহৰণেই দেখুৱায় যে প্লৱন ঘনত্বৰ তুলনাৰ প্ৰশ্ন, আকৃতিৰ নহয়।"
+      ],
+      [
+        "tip",
+        "ভাহি থকা প্ৰতিটো প্ৰশ্নত কোনটো ঘনত্ব ব্যৱহাৰ কৰিছা সেয়া সূত্ৰৰ কাষত লিখা। জুলীয়া পদাৰ্থৰ ঘনত্ব হ'লে উত্তৰ ঊৰ্ধ্বচাপ; বস্তুৰ ঘনত্ব হ'লে তুমি আন প্ৰশ্নৰ উত্তৰ দি আছা।"
+      ]
+    ]
   }
 }
