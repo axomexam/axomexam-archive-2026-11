@@ -725,8 +725,20 @@ hand-editing the JSON here.
         ...leavesByExam[EXAM.id].map((l) => `${examPath}/${[l.sec.id, ...(l.group ? [l.group.id] : []), l.leaf.id].join("/")}/`),
       ];
       for (const u of urls) {
-        if (xml.indexOf(`<loc>${BASE}${u}</loc>`) !== -1) continue;
-        add.push(`  <url>\n    <loc>${BASE}${u}</loc>\n    <lastmod>${DATE}</lastmod>\n  </url>`);
+        const enUrl = `${BASE}${u}`;
+        const asUrl = `${BASE}/as${u}`;
+        const hasAs = fs.existsSync(path.join(ROOT, `as${u}`, "index.html"));
+        const alts = hasAs
+          ? `\n    <xhtml:link rel="alternate" hreflang="en" href="${enUrl}"/>`
+            + `\n    <xhtml:link rel="alternate" hreflang="as" href="${asUrl}"/>`
+            + `\n    <xhtml:link rel="alternate" hreflang="x-default" href="${enUrl}"/>`
+          : "";
+        if (xml.indexOf(`<loc>${enUrl}</loc>`) === -1) {
+          add.push(`  <url>\n    <loc>${enUrl}</loc>\n    <lastmod>${DATE}</lastmod>${alts}\n  </url>`);
+        }
+        if (hasAs && xml.indexOf(`<loc>${asUrl}</loc>`) === -1) {
+          add.push(`  <url>\n    <loc>${asUrl}</loc>\n    <lastmod>${DATE}</lastmod>${alts}\n  </url>`);
+        }
       }
     }
     if (add.length) {
