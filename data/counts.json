@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:01:09.627Z",
+  "generatedAt": "2026-11-21T12:08:40.754Z",
   "topicCounts": {
     "gk/assam-literature/ancient-pre-vaishnavite-sec/charyapada-folk-songs": 37,
     "gk/assam-literature/ancient-pre-vaishnavite-sec/early-poets-translations": 37,
@@ -816,10 +816,10 @@
     "dhs-dme-technical/logical-reasoning/verbal-reasoning/input-output": 84,
     "dhs-dme-technical/logical-reasoning/verbal-reasoning/general-verbal-reasoning": 93,
     "dhs-dme-technical/logical-reasoning/verbal-reasoning": 1313,
-    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/syllogism": 4,
-    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/venn-diagrams": 0,
-    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/statement-conclusions": 0,
-    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/statement-assumptions": 0,
+    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/syllogism": 94,
+    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/venn-diagrams": 96,
+    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/statement-conclusions": 88,
+    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/statement-assumptions": 88,
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/statement-arguments": 0,
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/statement-course-of-action": 0,
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/cause-effect": 0,
@@ -828,7 +828,7 @@
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/sitting-arrangement": 0,
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/puzzles": 0,
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/inequality": 0,
-    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning": 4,
+    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning": 366,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/figure-series": 5,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/figure-analogy-classification": 8,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/mirror-water-image": 8,
@@ -840,7 +840,7 @@
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/visual-memory": 6,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/general-non-verbal-reasoning": 23,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning": 80,
-    "dhs-dme-technical/logical-reasoning": 1397,
+    "dhs-dme-technical/logical-reasoning": 1759,
     "dhs-dme/general-knowledge/assam-history": 80,
     "dhs-dme/general-knowledge/geography": 80,
     "dhs-dme/general-knowledge/art-culture": 80,
@@ -964,7 +964,7 @@
     "rrb-ntpc/reasoning/non-verbal-reasoning": 490,
     "rrb-ntpc/reasoning": 2351
   },
-  "examsTotal": 60019,
+  "examsTotal": 60381,
   "mockTotal": 4926,
   "topicsTotal": 883
 }

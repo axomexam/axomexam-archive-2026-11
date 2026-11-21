@@ -3404,3 +3404,19 @@ General verbal uses `append_bi()` for translated options.
 
 All fourteen verbal-reasoning leaves now have 80+. Book total 17,696;
 sitewide 60,019; hero 88,726.
+
+## Analytical & Critical Reasoning — first four topics (very hard)
+
+Syllogism, Venn diagrams, statement & conclusions and statement &
+assumptions now hold 80+ very hard questions each:
+
+- syllogism 90, venn-diagrams 96, statement-conclusions 88,
+  statement-assumptions 88.
+
+Generators: `tools/gen-ar-syllogism.py` (model-checked over 7 Venn
+regions, with existential import so exam convention applies),
+`gen-ar-venn.py` (set arithmetic), `gen-ar-conclusions.py`
+(numeric statements, validity computed), `gen-ar-assumptions.py`
+(curated implicit vs non-implicit pairs, four option combinations).
+
+Book total 18,058; sitewide 60,381; hero 89,088.
