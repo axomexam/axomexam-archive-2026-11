@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:26:32.573Z",
+  "generatedAt": "2026-11-21T10:36:36.074Z",
   "topicCounts": {
     "gk/assam-literature/ancient-pre-vaishnavite-sec/charyapada-folk-songs": 37,
     "gk/assam-literature/ancient-pre-vaishnavite-sec/early-poets-translations": 37,
@@ -760,13 +760,13 @@
     "dhs-dme-technical/general-english/vocabulary/homonyms-confusables": 218,
     "dhs-dme-technical/general-english/vocabulary/general-vocabulary": 201,
     "dhs-dme-technical/general-english/vocabulary": 2069,
-    "dhs-dme-technical/general-english/comprehension-usage/reading-comprehension": 0,
-    "dhs-dme-technical/general-english/comprehension-usage/cloze-test": 0,
-    "dhs-dme-technical/general-english/comprehension-usage/sentence-completion": 0,
-    "dhs-dme-technical/general-english/comprehension-usage/paragraph-ordering": 0,
-    "dhs-dme-technical/general-english/comprehension-usage/precis-summary": 0,
-    "dhs-dme-technical/general-english/comprehension-usage": 0,
-    "dhs-dme-technical/general-english": 4509,
+    "dhs-dme-technical/general-english/comprehension-usage/reading-comprehension": 175,
+    "dhs-dme-technical/general-english/comprehension-usage/cloze-test": 170,
+    "dhs-dme-technical/general-english/comprehension-usage/sentence-completion": 177,
+    "dhs-dme-technical/general-english/comprehension-usage/paragraph-ordering": 175,
+    "dhs-dme-technical/general-english/comprehension-usage/precis-summary": 171,
+    "dhs-dme-technical/general-english/comprehension-usage": 868,
+    "dhs-dme-technical/general-english": 5377,
     "dhs-dme-technical/numerical-aptitude/arithmetic/number-system": 2,
     "dhs-dme-technical/numerical-aptitude/arithmetic/simplification-bodmas": 2,
     "dhs-dme-technical/numerical-aptitude/arithmetic/decimals-fractions": 2,
@@ -964,7 +964,7 @@
     "rrb-ntpc/reasoning/non-verbal-reasoning": 490,
     "rrb-ntpc/reasoning": 2351
   },
-  "examsTotal": 54988,
+  "examsTotal": 55856,
   "mockTotal": 4926,
   "topicsTotal": 883
 }

@@ -101,6 +101,10 @@ const LEGACY_BANKS = [
     "phrasal-verbs", "spelling", "word-formation-roots", "homonyms-confusables",
     "general-vocabulary",
   ]],
+  ["general-english", "comprehension-usage", ["general-english", "comprehension-usage"], [
+    "reading-comprehension", "cloze-test", "sentence-completion",
+    "paragraph-ordering", "precis-summary",
+  ]],
   ["logical-reasoning", "verbal-reasoning", ["logical-reasoning", "verbal-reasoning"], [
     "analogy", "classification-odd-one-out", "number-series", "alphabet-series",
     "coding-decoding", "blood-relations", "direction-distance", "order-ranking",

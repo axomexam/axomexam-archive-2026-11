@@ -3230,3 +3230,20 @@ letter-pattern rules; general vocabulary uses category-based odd-one-out sets.
 Audits: 0 duplicate stems, 0 items without four options, key split 489-505 per slot.
 
 Book total after rebuild: 12,665 questions; sitewide 54,988; hero 83,695.
+
+## General English Comprehension & Usage — 170+ questions per leaf
+
+The five leaves that were marked "content-preparing" now hold 868 bilingual
+questions:
+
+- reading-comprehension 175, cloze-test 170, sentence-completion 177,
+  paragraph-ordering 175, precis-summary 171.
+
+A new legacy bank lives at
+`tools/legacy-banks/dhs-dme-technical/general-english/comprehension-usage/`
+and is wired into `LEGACY_BANKS`. Generators: `tools/gen-comp-*.py` with the
+shared writer `tools/comp_bank.py`. Reading-comprehension and precis share a
+25-passage pool but ask different question types; paragraph-ordering derives
+its sequences from the same passages plus ten new four-sentence texts.
+
+Book total after rebuild: 13,533 questions; sitewide 55,856; hero 84,563.
