@@ -3337,3 +3337,20 @@ Height & distance answers are kept in surd form (e.g. 10√3 m).
 All eight algebra-geometry leaves now have 90+.
 
 Book total after rebuild: 16,086; sitewide 58,409; hero 87,116.
+
+## Data & Combinatorics — all four topics (very hard)
+
+Statistics, data interpretation, permutation & combination and probability
+now hold 90+ very hard questions each:
+
+- statistics 93, data-interpretation 92,
+  permutation-combination 93, probability 95.
+
+Generators: `tools/gen-data-stats.py`, `gen-data-di.py`, `gen-data-pc.py`,
+`gen-data-prob.py`, sharing `tools/data_bank.py` (bank:
+`tools/legacy-banks/dhs-dme-technical/numerical-aptitude/data-combinatorics/question-001.json`).
+DI questions embed the table inline in the stem (no images). Probability
+answers are reduced fractions.
+
+All twelve numerical-aptitude leaves now have 90+. Book total 16,459;
+sitewide 58,782; hero 87,489.
