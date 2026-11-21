@@ -3450,3 +3450,36 @@ edges to test each conclusion).
 
 Book total 18,717; sitewide 61,040; hero 89,747. Analytical section
 now complete (12/12 topics at 80+).
+
+## Non-Verbal Reasoning — first four topics (very hard, figure questions)
+
+Figure Series (96), Figure Analogy & Classification (85), Mirror & Water
+Image (80) and Paper Cutting & Folding (95) now carry inline-SVG figures.
+The legacy non-verbal bank had text-only items, so this batch is the first
+that renders shapes.
+
+How the figure path works:
+
+- `tools/nv_shapes.py` builds every drawing as raw SVG (`poly`, `rotate`,
+  `mirror`, `water`, `grid`, `row`, `boxed`). Shape helpers return the
+  inner `<g>` only; **wrap with `S.svg(...)` before storing**. A bare `<g>`
+  in `q.fig`/`o.fig` renders as nothing — this cost a debugging round.
+- `tools/nv_bank.py` appends to the legacy non-verbal bank with an explicit
+  `leaf`, and dedupes on `stem + hash(fig + option figs)` so the same stem
+  can repeat with different figures (figure questions share phrasings).
+- Option figures live in `options[].fig`; the renderer turns any question
+  with a figure option into the labelled `nv-fig-grid` (A)–(D) boxes, and
+  `q.fig` prints above the options. Answer text collapses to the letter.
+- Every question keeps four distinct option figures; generators pad from a
+  fallback pool when a transformation produces duplicates (mirror of a
+  symmetric shape equals the original, etc.).
+
+Generators: `tools/gen-nv-series.py` (90°/45° rotation, dot moves,
+shading alternation, side count, alternating shapes), `gen-nv-analogy.py`
+(six transformations over eight shape pairs + classification by shape,
+shading, dots, orientation, sides), `gen-nv-mirror.py` (mirror and water
+image, seven base shapes × four dot corners, plus tilted bases),
+`gen-nv-paper.py` (fold-twice and fold-once grids at 4×4/6×6, two-punch
+quarters, and counting items).
+
+Book total 19,073; sitewide 61,396; hero 90,103.
