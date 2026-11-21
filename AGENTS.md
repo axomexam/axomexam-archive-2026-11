@@ -3131,3 +3131,28 @@ book outside the requested scope was touched.
 `exams/dhs-dme-technical/**` and `as/exams/dhs-dme-technical/**`, so the
 generator is already scoped; it is the shared post-processing steps above
 that reach wider.
+
+## Session 2026-11-21 — static-gk filled (1,382 questions)
+
+`general-knowledge/static-gk` now has all eight leaves above the 165 floor:
+awards-honours 181, books-authors 174, important-days 169, sports-games 170,
+inventions-discoveries 169, organizations-institutions 171, space-defence 180,
+miscellaneous-static-gk 168.
+
+Source rows live in `tools/static-gk-src/<prefix>-partN.json` as compact
+arrays (`[stemEn, stemAs, [optEn,optAs] x4, correct, expEn, expAs]`).
+`node tools/gen-dhs-static-gk.js` writes `tools/dhs-dme-technical.static-gk-extra.js`
+with an explicit `leaf` on every item, so the builder never guesses. Convert it
+to the legacy bank before building:
+
+```bash
+node -e "const q=require('./tools/dhs-dme-technical.static-gk-extra.js').questions; require('fs').writeFileSync('tools/legacy-banks/dhs-dme-technical/general-knowledge/static-gk/question-001.json', JSON.stringify(q,null,1)+'\n')"
+```
+
+The dedupe pass rewords a colliding stem into a question form
+(`... is observed on` → `On which date is ... observed`, `The headquarters of X is in`
+→ `Where is the headquarters of X`) rather than deleting rows, so every leaf keeps
+its count. Generic explanations end with the stem so no two explanation strings
+are identical. After the build, stems and explanations both audit at 0 collisions.
+
+Final totals: 7,951 questions in the book, 50,274 sitewide, hero 78,981.
