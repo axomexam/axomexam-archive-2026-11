@@ -11612,5 +11612,263 @@
         "ভাবুকিৰ যিকোনো প্ৰশ্নত দুটা কথা সোধা: ব্যৱহাৰকাৰীৰ কাৰ্য লাগে নে, আৰু পোষক ফাইল লাগে নে। চাৰিটা উত্তৰে ভাইৰাছ, ৱৰ্ম, ট্ৰ'জান আৰু স্পাইৱেৰলৈ সোজা লৈ যায়।"
       ]
     ]
+  },
+  "dbms-number-system": {
+    "en": [
+      [
+        "h3",
+        "What this topic actually contains"
+      ],
+      [
+        "p",
+        "The topic name joins two different things, and the paper keeps them separate. The first half is database management: what a database is, what the words table, row, column, key and query mean, and what SQL is used for. The second half is number systems: binary, octal, decimal and hexadecimal, and the conversions between them. The database half is definition and matching; the number half is two or three small calculations. Both are quick to secure."
+      ],
+      [
+        "p",
+        "The conversion questions are the only place in this paper where arithmetic can go wrong for a reason other than a formula, so the method matters more than the answer. Learn the four place values in binary, and every conversion in the block can be done on the rough sheet in under a minute."
+      ],
+      [
+        "h3",
+        "Database, in the words the paper uses"
+      ],
+      [
+        "p",
+        "Data is a raw fact; information is data organised so that it means something. A database is an organised collection of related data, stored so that it can be searched and updated without duplication and inconsistency. A database management system, or DBMS, is the software that creates and manages the database, controls access, and lets several users work at once. When the database is organised as tables related to each other, it is called a relational database, and the software is an RDBMS; MySQL, Oracle, PostgreSQL and SQL Server are the standard examples."
+      ],
+      [
+        "p",
+        "A table is a collection of related records, and it is also called a relation. A row is one complete record and is also called a tuple. A column is one field, describing one attribute of every record. A primary key uniquely identifies each row and cannot be null or repeated, which is why a roll number works and a name does not. A foreign key is a column that refers to the primary key of another table, and it is what links two tables together. A candidate key is any column that could serve as the primary key, and a composite key is a primary key made of two or more columns."
+      ],
+      [
+        "h3",
+        "The commands, and the four letters that matter"
+      ],
+      [
+        "p",
+        "SQL, structured query language, is the standard language for working with a relational database. Its commands are grouped in four families. DDL, data definition language, defines the structure: CREATE, ALTER, DROP. DML, data manipulation language, changes the contents: INSERT, UPDATE, DELETE. DQL, data query language, reads data: SELECT. DCL, data control language, manages permissions: GRANT, REVOKE. A question that names a command and asks which family it belongs to is answered from this list alone."
+      ],
+      [
+        "p",
+        "Four properties of a good database are asked as the acronym ACID: atomicity, meaning a transaction happens completely or not at all; consistency, meaning the database moves from one valid state to another; isolation, meaning simultaneous transactions do not interfere; and durability, meaning a completed transaction survives a crash. Normalisation is the process of organising tables to remove repeated data, and it is the standard answer to why a database is split into several tables."
+      ],
+      [
+        "h3",
+        "Number systems, and the four place values"
+      ],
+      [
+        "p",
+        "Binary uses two digits, 0 and 1, and the place values from the right are 1, 2, 4, 8, 16, 32, 64 and so on, doubling each time. Octal uses eight digits, 0 to 7, with place values 1, 8, 64 and so on. Decimal uses ten digits and the familiar place values. Hexadecimal uses sixteen symbols, 0 to 9 and then A to F for ten to fifteen, with place values 1, 16, 256 and so on. A subscript is often written after the number to show the base, as in 1010 with a subscript 2."
+      ],
+      [
+        "p",
+        "To convert binary to decimal, multiply each bit by its place value and add. Binary 1101 is 8 + 4 + 0 + 1, which is 13. To convert decimal to binary, divide by two repeatedly and read the remainders upwards: 13 gives remainders 1, 0, 1, 1 from the first division onwards, which read upwards is 1101. To convert binary to octal, group the bits in threes from the right and read each group; to convert binary to hexadecimal, group them in fours from the right. That grouping trick is the fastest route between the three machine bases, and it is what the paper expects."
+      ],
+      [
+        "h3",
+        "Two questions worked the short way"
+      ],
+      [
+        "p",
+        "A question asks for the decimal value of binary 1011. The place values are 8, 4, 2, 1, so 1011 is 8 + 0 + 2 + 1, which is 11. Writing the four place values above the bits before adding prevents the common slip of reading the string in the wrong direction."
+      ],
+      [
+        "p",
+        "A question asks which key uniquely identifies a record. The answer is the primary key. The distractor is usually the foreign key, which links tables but does not identify a row uniquely, or the candidate key, which could be a primary key but has not been chosen as one. Read whether the question says identifies or links."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "h3",
+        "Why a database is used at all"
+      ],
+      [
+        "p",
+        "The advantages are asked as a list. A database reduces duplication, because each fact is stored once. It keeps the data consistent, because there is only one copy to update. It shares data among several users and applications. It enforces security through permissions, so each user sees only what is allowed. It supports backup and recovery. And it allows queries that would be impossible in a pile of separate files. The single word that covers most of this is controlled redundancy."
+      ],
+      [
+        "p",
+        "The people who work with a database are also named. A database administrator creates the structure, manages users and permissions, takes backups and tunes performance. An application programmer writes the programs that use the data. An end user simply uses those programs. A question that asks who grants permission is asking for the administrator."
+      ],
+      [
+        "h3",
+        "Three conversions, worked in full"
+      ],
+      [
+        "p",
+        "Binary 10110 to decimal: the place values from the right are 16, 8, 4, 2, 1, so 10110 is 16 + 0 + 4 + 2 + 0, which is 22. Decimal 25 to binary: divide by two and read the remainders upwards, giving 11001. Binary 110101 to octal: group from the right as 110 and 101, which are 6 and 5, so the answer is 65 in octal. Binary 1101 to hexadecimal: group from the right as 1101, which is 13, written as D."
+      ],
+      [
+        "h3",
+        "How the machine stores a number"
+      ],
+      [
+        "p",
+        "A fixed number of bits is used for each value, and that limit is what a data type declares. Eight bits hold values from 0 to 255 in unsigned form, or -128 to 127 if one bit is reserved for the sign. Sixteen bits hold up to 65,535 unsigned. That is why an older system could not count past a certain figure, and why the year 2000 problem existed: two digits were stored for the year and 99 rolled over to 00."
+      ],
+      [
+        "p",
+        "Three errors recur. DML and DDL are swapped, so CREATE is placed among the data commands. The primary key is described as repeatable, when uniqueness is its whole purpose. And in conversion, the bits are read from the left as place value 1 instead of from the right, which reverses the number. Check the direction and the family before choosing."
+      ],
+      [
+        "ul",
+        [
+          "DBMS manages the database; RDBMS stores it as related tables.",
+          "Row is a record, column is a field, primary key is unique, foreign key links tables.",
+          "DDL creates structure, DML changes data, DQL reads data, DCL grants permission.",
+          "Binary place values 1, 2, 4, 8, 16; octal 1, 8, 64; hexadecimal 1, 16, 256.",
+          "Binary to octal group by three, binary to hexadecimal group by four, from the right."
+        ]
+      ],
+      [
+        "tip",
+        "For any conversion, write the place values over the digits first and only then add. Almost every wrong answer in this block comes from adding in the wrong direction."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "এই অধ্যায়ত আচলতে কি আছে"
+      ],
+      [
+        "p",
+        "অধ্যায়ৰ নামে দুটা বেলেগ বস্তু জোৰা লগাইছে, আৰু প্ৰশ্নকাকতে সেইবোৰ পৃথকে ৰাখে। প্ৰথম ভাগ ডেটাবেছ পৰিচালনা: ডেটাবেছ কি, টেবুল, শাৰী, স্তম্ভ, কি আৰু কুৱেৰি শব্দৰ অৰ্থ কি, আৰু SQL কি বাবে ব্যৱহাৰ হয়। দ্বিতীয় ভাগ সংখ্যা পদ্ধতি: বাইনেৰি, অক্টেল, দশমিক আৰু হেক্সাডেচিমেল, আৰু তাৰ মাজৰ ৰূপান্তৰ। ডেটাবেছৰ ভাগ সংজ্ঞা আৰু মিলোৱা; সংখ্যাৰ ভাগ দুই-তিনিটা সৰু গণনা। দুয়োটা সোনকালে আয়ত্ত কৰিব পৰা যায়।"
+      ],
+      [
+        "p",
+        "ৰূপান্তৰৰ প্ৰশ্নই এই প্ৰশ্নকাকতৰ একমাত্ৰ ঠাই য'ত সূত্ৰৰ বাহিৰে আন কাৰণত গণনা ভুল হ'ব পাৰে, সেয়ে উত্তৰতকৈ পদ্ধতিটো বেছি গুৰুত্বপূৰ্ণ। বাইনেৰিৰ চাৰিটা স্থান মান শিকি লোৱা, তেতিয়া এই অংশৰ প্ৰতিটো ৰূপান্তৰ ৰাফ শ্বীটত এক মিনিটৰ ভিতৰত কৰিব পাৰি।"
+      ],
+      [
+        "h3",
+        "ডেটাবেছ, প্ৰশ্নকাকতে ব্যৱহাৰ কৰা শব্দৰে"
+      ],
+      [
+        "p",
+        "ডেটা হ'ল কেঁচা তথ্য; তথ্য হ'ল এনে ডেটা যাক সজাই অৰ্থবহ কৰা হৈছে। ডেটাবেছ হ'ল সম্পৰ্কিত ডেটাৰ সজাই ৰখা সংগ্ৰহ, যাক পুনৰাবৃত্তি আৰু অসঙ্গতি নোহোৱাকৈ সন্ধান আৰু আপডেট কৰিব পৰা যায়। ডেটাবেছ মেনেজমেণ্ট চিষ্টেম, বা DBMS, হ'ল সেই চফ্টৱেৰ যি ডেটাবেছ সৃষ্টি আৰু পৰিচালনা কৰে, প্ৰৱেশ নিয়ন্ত্ৰণ কৰে, আৰু কেইবাজনক একেলগে কাম কৰিব দিয়ে। ডেটাবেছ যেতিয়া ইটোৱে সিটোৰ লগত সম্পৰ্কিত টেবুল হিচাপে সজা হয়, তাক সম্পৰ্কীয় ডেটাবেছ বোলে, আৰু চফ্টৱেৰক RDBMS; MySQL, Oracle, PostgreSQL আৰু SQL Server চিনাকি উদাহৰণ।"
+      ],
+      [
+        "p",
+        "টেবুল হ'ল সম্পৰ্কিত অভিলেখৰ সংগ্ৰহ, যাক relationও বোলে। শাৰী এটা সম্পূৰ্ণ অভিলেখ আৰু তাক tupleও বোলে। স্তম্ভ এটা ফিল্ড, যি প্ৰতিটো অভিলেখৰ এটা বৈশিষ্ট্য বৰ্ণনা কৰে। প্ৰাথমিক কি প্ৰতিটো শাৰীক অদ্বিতীয়ভাৱে চিনাক্ত কৰে আৰু ই শূন্য বা পুনৰাবৃত্ত হ'ব নোৱাৰে, সেয়ে ৰোল নম্বৰে কাম কৰে কিন্তু নামে নকৰে। বিদেশী কি আন এখন টেবুলৰ প্ৰাথমিক কিৰ সৈতে সম্পৰ্ক ৰাখে, আৰু সেয়াই দুখন টেবুল জোৰা লগায়। প্ৰাৰ্থী কি সেই স্তম্ভ যি প্ৰাথমিক কি হ'ব পাৰে, আৰু যৌগিক কি দুটা বা ততোধিক স্তম্ভৰে গঠিত প্ৰাথমিক কি।"
+      ],
+      [
+        "h3",
+        "আদেশবোৰ, আৰু গুৰুত্বপূৰ্ণ চাৰিটা আখৰ"
+      ],
+      [
+        "p",
+        "SQL, ষ্ট্ৰাকচাৰ্ড কুৱেৰি লেংগুৱেজ, সম্পৰ্কীয় ডেটাবেছৰ লগত কাম কৰাৰ মানক ভাষা। তাৰ আদেশবোৰ চাৰিটা পৰিয়ালত ভাগ কৰা হয়। DDL, ডেটা ডেফিনিচন লেংগুৱেজে গঠন নিৰ্ধাৰণ কৰে: CREATE, ALTER, DROP। DML, ডেটা মেনিপুলেচন লেংগুৱেজে বিষয়বস্তু সলায়: INSERT, UPDATE, DELETE। DQL, ডেটা কুৱেৰি লেংগুৱেজে ডেটা পঢ়ে: SELECT। DCL, ডেটা কণ্ট্ৰ'ল লেংগুৱেজে অনুমতি চম্ভালে: GRANT, REVOKE। এটা আদেশৰ নাম দি কোন পৰিয়ালৰ সোধা প্ৰশ্ন এই তালিকাৰ পৰাই উত্তৰ পায়।"
+      ],
+      [
+        "p",
+        "ভাল ডেটাবেছৰ চাৰিটা ধৰ্ম ACID হিচাপে সোধা হয়: এটমিচিটি, অৰ্থাৎ লেনদেন সম্পূৰ্ণৰূপে হয় বা নহয়; কনচিচটেন্সি, অৰ্থাৎ ডেটাবেছ এটা বৈধ অৱস্থাৰ পৰা আন এটালৈ যায়; আইছ'লেচন, অৰ্থাৎ একেলগে হোৱা লেনদেনে ইটোৱে সিটোত হস্তক্ষেপ নকৰে; আৰু ডিউৰেবিলিটি, অৰ্থাৎ সম্পূৰ্ণ লেনদেন ক্ৰেশৰ পিছতো থাকে। নৰ্মেলাইজেচন হ'ল পুনৰাবৃত্ত ডেটা আঁতৰাবলৈ টেবুল সজোৱা প্ৰক্ৰিয়া, আৰু ডেটাবেছ কিয় কেইবাখন টেবুলত ভগোৱা হয় তাৰ চিনাকি উত্তৰ এইটোৱেই।"
+      ],
+      [
+        "h3",
+        "সংখ্যা পদ্ধতি, আৰু চাৰিটা স্থান মান"
+      ],
+      [
+        "p",
+        "বাইনেৰিত দুটা অঙ্ক, 0 আৰু 1, আৰু সোঁফালৰ পৰা স্থান মান 1, 2, 4, 8, 16, 32, 64 আৰু এনেকৈ দুগুণ হৈ যায়। অক্টেলত আঠটা অঙ্ক, 0 ৰ পৰা 7, স্থান মান 1, 8, 64 আৰু এনেকৈ। দশমিকত দহটা অঙ্ক আৰু চিনাকি স্থান মান। হেক্সাডেচিমেলত ষোল্লটা চিহ্ন, 0 ৰ পৰা 9 আৰু তাৰ পিছত A ৰ পৰা F লৈকে দহৰ পৰা পোন্ধৰলৈ, স্থান মান 1, 16, 256 আৰু এনেকৈ। ভিত্তি দেখুৱাবলৈ সংখ্যাৰ পিছত সৰু অঙ্কত 2, 8 বা 16 লিখা হয়।"
+      ],
+      [
+        "p",
+        "বাইনেৰিক দশমিকলৈ ৰূপান্তৰ কৰিবলৈ প্ৰতিটো বিটক তাৰ স্থান মানেৰে পূৰণ কৰি যোগ কৰা। বাইনেৰি 1101 = 8 + 4 + 0 + 1 = 13। দশমিকক বাইনেৰিলৈ কৰিবলৈ বাৰে বাৰে দুইৰে হৰণ কৰি ভাগশেষবোৰ তলৰ পৰা ওপৰলৈ পঢ়া: 13 ৰ ভাগশেষ 1, 0, 1, 1, যি ওপৰলৈ পঢ়িলে 1101। বাইনেৰিক অক্টেললৈ কৰিবলৈ সোঁফালৰ পৰা তিনি বিটৰ গোট কৰি প্ৰতিটো গোট পঢ়া; হেক্সাডেচিমেললৈ কৰিবলৈ সোঁফালৰ পৰা চাৰি বিটৰ গোট কৰা। এই গোট কৰাৰ কৌশলেই তিনি যন্ত্ৰ-ভিত্তিৰ মাজৰ আটাইতকৈ দ্ৰুত পথ, আৰু প্ৰশ্নকাকতে সেয়াই বিচাৰে।"
+      ],
+      [
+        "h3",
+        "চুটিকৈ কৰা দুটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "বাইনেৰি 1011 ৰ দশমিক মান সোধা হ'ল। স্থান মান 8, 4, 2, 1, সেয়ে 1011 = 8 + 0 + 2 + 1 = 11। যোগ কৰাৰ আগতে বিটবোৰৰ ওপৰত চাৰিটা স্থান মান লিখি থ'লে উলটি দিশত পঢ়াৰ সাধাৰণ ভুল নহয়।"
+      ],
+      [
+        "p",
+        "কোন কিয়ে অভিলেখক অদ্বিতীয়ভাৱে চিনাক্ত কৰে সোধা হ'ল। উত্তৰ প্ৰাথমিক কি। ফান্দ সাধাৰণতে বিদেশী কি, যি টেবুল জোৰা লগায় কিন্তু শাৰী অদ্বিতীয়ভাৱে চিনাক্ত নকৰে, বা প্ৰাৰ্থী কি, যি প্ৰাথমিক কি হ'ব পাৰে কিন্তু হিচাপে বাছনি কৰা হোৱা নাই। প্ৰশ্নত চিনাক্ত নে জোৰা লগোৱা সেয়া পঢ়া।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "h3",
+        "ডেটাবেছ কিয় ব্যৱহাৰ কৰা হয়"
+      ],
+      [
+        "p",
+        "সুবিধাবোৰ তালিকা হিচাপে সোধা হয়। ডেটাবেছে পুনৰাবৃত্তি কমায়, কাৰণ প্ৰতিটো তথ্য এটাবাৰহে সাঁচি ৰখা হয়। ই ডেটা সংগতিশীল ৰাখে, কাৰণ আপডেট কৰিবলৈ এটাহে কপি থাকে। ই কেইবাজন ব্যৱহাৰকাৰী আৰু কাৰ্যসূচীৰ মাজত ডেটা ভাগ কৰে। ই অনুমতিৰ জৰিয়তে নিৰাপত্তা বলবৎ কৰে, যাতে প্ৰত্যেকে কেৱল অনুমোদিত অংশ দেখে। ই বেকআপ আৰু পুনৰুদ্ধাৰ সমৰ্থন কৰে। আৰু ই এনে কুৱেৰি কৰিব দিয়ে যি পৃথক ফাইলৰ দমত অসম্ভৱ। এইখিনিৰ বেছিভাগ সামৰি লোৱা এটা শব্দ হ'ল নিয়ন্ত্ৰিত পুনৰাবৃত্তি।"
+      ],
+      [
+        "p",
+        "ডেটাবেছৰ লগত কাম কৰা মানুহবোৰৰ নামো সোধা হয়। ডেটাবেছ প্ৰশাসকে গঠন সৃষ্টি কৰে, ব্যৱহাৰকাৰী আৰু অনুমতি পৰিচালনা কৰে, বেকআপ লয় আৰু কাৰ্যক্ষমতা উন্নত কৰে। এপ্লিকেচন প্ৰগ্ৰামাৰে ডেটা ব্যৱহাৰ কৰা কাৰ্যসূচী লিখে। শেষ ব্যৱহাৰকাৰীয়ে কেৱল সেই কাৰ্যসূচী ব্যৱহাৰ কৰে। অনুমতি কোনে দিয়ে সোধা প্ৰশ্নৰ উত্তৰ প্ৰশাসক।"
+      ],
+      [
+        "h3",
+        "তিনিটা ৰূপান্তৰ, সম্পূৰ্ণকৈ কৰা"
+      ],
+      [
+        "p",
+        "বাইনেৰি 10110 দশমিকলৈ: সোঁফালৰ পৰা স্থান মান 16, 8, 4, 2, 1, সেয়ে 10110 = 16 + 0 + 4 + 2 + 0 = 22। দশমিক 25 বাইনেৰিলৈ: দুইৰে হৰণ কৰি ভাগশেষ ওপৰলৈ পঢ়িলে 11001 পোৱা যায়। বাইনেৰি 110101 অক্টেললৈ: সোঁফালৰ পৰা 110 আৰু 101 গোট কৰা, যি 6 আৰু 5, সেয়ে অক্টেলত উত্তৰ 65। বাইনেৰি 1101 হেক্সাডেচিমেললৈ: সোঁফালৰ পৰা 1101 গোট, যি 13, তাক D লিখা হয়।"
+      ],
+      [
+        "h3",
+        "যন্ত্ৰই সংখ্যা কেনেকৈ সাঁচি ৰাখে"
+      ],
+      [
+        "p",
+        "প্ৰতিটো মানৰ বাবে নিৰ্দিষ্ট সংখ্যক বিট ব্যৱহাৰ হয়, আৰু সেই সীমাই ডেটা প্ৰকাৰে ঘোষণা কৰে। আঠ বিটত চিহ্ন নোহোৱাকৈ 0 ৰ পৰা 255 লৈকে, বা এটা বিট চিহ্নৰ বাবে ৰাখিলে -128 ৰ পৰা 127 লৈকে ধৰে। ষোল্ল বিটত চিহ্ন নোহোৱাকৈ 65,535 লৈকে ধৰে। সেয়ে পুৰণি চিষ্টেমে এটা নিৰ্দিষ্ট সংখ্যাৰ ওপৰলৈ গণিব পৰা নাছিল, আৰু সেয়ে 2000 চনৰ সমস্যা আছিল: বছৰৰ বাবে দুটা অঙ্কহে সাঁচি ৰখা হৈছিল আৰু 99 এ 00 লৈ ঘূৰি গৈছিল।"
+      ],
+      [
+        "h3",
+        "কুৱেৰি আৰু প্ৰতিবেদন"
+      ],
+      [
+        "p",
+        "কুৱেৰি হ'ল ডেটাবেছত কৰা প্ৰশ্ন। SQL ত কুৱেৰিৰ সাধাৰণ ৰূপটো হ'ল: SELECT স্তম্ভ FROM টেবুল WHERE চৰ্ত। WHERE অংশই শাৰীবোৰ ছাঁনি কৰে, ORDER BY য়ে সজায়, আৰু GROUP BY য়ে একে মানবোৰ গোট কৰে। প্ৰতিবেদন হ'ল কুৱেৰিৰ ফলাফল সজাই দিয়া ৰূপ। এই চাৰিটা শব্দৰ কাম জানিলে SQL ৰ প্ৰায় প্ৰতিটো প্ৰশ্নৰ উত্তৰ দিব পৰা যায়।"
+      ],
+      [
+        "p",
+        "ডেটাৰ অখণ্ডতাৰ দুটা নিয়মো সোধা হয়: প্ৰাথমিক কি কেতিয়াও শূন্য বা পুনৰাবৃত্ত হ'ব নোৱাৰে, আৰু বিদেশী কিৰ মান মূল টেবুলত থকা মানৰ লগত মিলিব লাগে। এই নিয়ম নাথাকিলে ডেটাবেছত এনে অভিলেখ থাকিব যি কোনো টেবুলৰ লগত নিমিলে, আৰু তাক এনাথ অভিলেখ বোলে।"
+      ],
+      [
+        "p",
+        "তিনিটা ভুল বাৰে বাৰে আহে। DML আৰু DDL ওলোটাকৈ লোৱা হয়, সেয়ে CREATE ক ডেটা আদেশৰ মাজত ৰখা হয়। প্ৰাথমিক কিক পুনৰাবৃত্ত হ'ব পৰা বুলি কোৱা হয়, অথচ অদ্বিতীয়তাই তাৰ গোটেই উদ্দেশ্য। আৰু ৰূপান্তৰত বিটবোৰ সোঁফালৰ পৰা নহয় বাঁওফালৰ পৰা স্থান মান 1 ধৰি পঢ়া হয়, যাৰ ফলত সংখ্যা উলটি যায়। বাছনিৰ আগতে দিশ আৰু পৰিয়াল চোৱা।"
+      ],
+      [
+        "ul",
+        [
+          "DBMS এ ডেটাবেছ পৰিচালনা কৰে; RDBMS এ সম্পৰ্কিত টেবুল হিচাপে ৰাখে।",
+          "শাৰী অভিলেখ, স্তম্ভ ফিল্ড, প্ৰাথমিক কি অদ্বিতীয়, বিদেশী কিয়ে টেবুল জোৰে।",
+          "DDL এ গঠন, DML এ ডেটা সলায়, DQL এ ডেটা পঢ়ে, DCL এ অনুমতি দিয়ে।",
+          "বাইনেৰিৰ স্থান মান 1, 2, 4, 8, 16; অক্টেল 1, 8, 64; হেক্সাডেচিমেল 1, 16, 256।",
+          "বাইনেৰিৰ পৰা অক্টেললৈ তিনিটাকৈ, হেক্সাডেচিমেললৈ চাৰিটাকৈ, সোঁফালৰ পৰা গোট কৰা।"
+        ]
+      ],
+      [
+        "h3",
+        "ফাইল সংৰক্ষণ আৰু ডেটাৰ প্ৰকাৰ"
+      ],
+      [
+        "p",
+        "ডেটা ফাইলত সংৰক্ষণ কৰাৰ দুটা পদ্ধতি সোধা হয়: ক্ৰমিক ফাইল, য'ত অভিলেখ এটা নিৰ্দিষ্ট ক্ৰমত থাকে আৰু বিচাৰিবলৈ আৰম্ভণিৰ পৰা পঢ়িব লাগে, আৰু ৰেণ্ডম বা প্ৰত্যক্ষ প্ৰৱেশ ফাইল, য'ত অভিলেখক তাৰ ঠিকনাৰে পোনপটীয়াকৈ পোৱা যায়। ডেটাবেছত সাধাৰণতে দ্বিতীয়টো ব্যৱহাৰ হয় কাৰণ সন্ধান দ্ৰুত।"
+      ],
+      [
+        "p",
+        "ডেটাৰ প্ৰকাৰো এশাৰীত সোধা হয়: পূৰ্ণসংখ্যা (integer), দশমিক সংখ্যা (float), আখৰ শৃংখল (varchar), তাৰিখ (date), আৰু বুলিয়ান (true/false)। এটা স্তম্ভৰ বাবে সঠিক প্ৰকাৰ বাছনি কৰাটো ডেটাবেছৰ প্ৰথম ভাল অভ্যাস, কাৰণ ভুল প্ৰকাৰে স্থান নষ্ট কৰে আৰু গণনা ভুল কৰায়।"
+      ],
+      [
+        "h3",
+        "অক্টেল আৰু হেক্সাডেচিমেল কিয় লাগে"
+      ],
+      [
+        "p",
+        "মানুহৰ বাবে বাইনেৰি দীঘল আৰু পঢ়িবলৈ কঠিন। সেয়ে কম্পিউটাৰৰ লগত কাম কৰোঁতে অক্টেল আৰু হেক্সাডেচিমেল ব্যৱহাৰ কৰা হয়, কাৰণ প্ৰতিটো অক্টেল অঙ্কই তিনি বিট আৰু প্ৰতিটো হেক্সাডেচিমেল অঙ্কই চাৰি বিট সূচায়। মেম'ৰি ঠিকনা প্ৰায়ে হেক্সাডেচিমেলত লিখা হয়, আৰু পুৰণি চিষ্টেমত ফাইল অনুমতি অক্টেলত লিখা হৈছিল।"
+      ],
+      [
+        "tip",
+        "ৰূপান্তৰৰ যিকোনো প্ৰশ্নত আগতে অঙ্কবোৰৰ ওপৰত স্থান মান লিখা, তাৰ পিছতহে যোগ কৰা। এই অংশত প্ৰায় প্ৰতিটো ভুল উত্তৰ উলটি দিশত যোগ কৰাৰ পৰা আহে।"
+      ]
+    ]
   }
 }
