@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:58:40.370Z",
+  "generatedAt": "2026-11-21T11:05:26.585Z",
   "topicCounts": {
     "gk/assam-literature/ancient-pre-vaishnavite-sec/charyapada-folk-songs": 37,
     "gk/assam-literature/ancient-pre-vaishnavite-sec/early-poets-translations": 37,
@@ -775,17 +775,17 @@
     "dhs-dme-technical/numerical-aptitude/arithmetic/ratio-proportion": 99,
     "dhs-dme-technical/numerical-aptitude/arithmetic/average": 111,
     "dhs-dme-technical/numerical-aptitude/arithmetic/profit-loss-discount": 115,
-    "dhs-dme-technical/numerical-aptitude/arithmetic/simple-interest": 2,
-    "dhs-dme-technical/numerical-aptitude/arithmetic/compound-interest": 2,
-    "dhs-dme-technical/numerical-aptitude/arithmetic/partnership": 2,
-    "dhs-dme-technical/numerical-aptitude/arithmetic/mixture-alligation": 2,
+    "dhs-dme-technical/numerical-aptitude/arithmetic/simple-interest": 100,
+    "dhs-dme-technical/numerical-aptitude/arithmetic/compound-interest": 102,
+    "dhs-dme-technical/numerical-aptitude/arithmetic/partnership": 100,
+    "dhs-dme-technical/numerical-aptitude/arithmetic/mixture-alligation": 109,
     "dhs-dme-technical/numerical-aptitude/arithmetic/time-work": 2,
     "dhs-dme-technical/numerical-aptitude/arithmetic/pipes-cisterns": 2,
     "dhs-dme-technical/numerical-aptitude/arithmetic/time-speed-distance": 2,
     "dhs-dme-technical/numerical-aptitude/arithmetic/problems-on-trains": 2,
     "dhs-dme-technical/numerical-aptitude/arithmetic/boats-streams": 2,
     "dhs-dme-technical/numerical-aptitude/arithmetic/problems-on-ages": 2,
-    "dhs-dme-technical/numerical-aptitude/arithmetic": 853,
+    "dhs-dme-technical/numerical-aptitude/arithmetic": 1256,
     "dhs-dme-technical/numerical-aptitude/algebra-geometry/elementary-algebra": 2,
     "dhs-dme-technical/numerical-aptitude/algebra-geometry/quadratic-linear-equations": 2,
     "dhs-dme-technical/numerical-aptitude/algebra-geometry/geometry": 2,
@@ -800,7 +800,7 @@
     "dhs-dme-technical/numerical-aptitude/data-combinatorics/permutation-combination": 2,
     "dhs-dme-technical/numerical-aptitude/data-combinatorics/probability": 2,
     "dhs-dme-technical/numerical-aptitude/data-combinatorics": 8,
-    "dhs-dme-technical/numerical-aptitude": 877,
+    "dhs-dme-technical/numerical-aptitude": 1280,
     "dhs-dme-technical/logical-reasoning/verbal-reasoning/analogy": 15,
     "dhs-dme-technical/logical-reasoning/verbal-reasoning/classification-odd-one-out": 16,
     "dhs-dme-technical/logical-reasoning/verbal-reasoning/number-series": 12,
@@ -964,7 +964,7 @@
     "rrb-ntpc/reasoning/non-verbal-reasoning": 490,
     "rrb-ntpc/reasoning": 2351
   },
-  "examsTotal": 56673,
+  "examsTotal": 57076,
   "mockTotal": 4926,
   "topicsTotal": 883
 }

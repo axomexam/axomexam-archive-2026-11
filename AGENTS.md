@@ -3276,3 +3276,18 @@ Generators: `tools/gen-num-percentage.py`, `gen-num-ratio.py`,
 The shared `opts()` now also bumps ratio-style string options safely.
 
 Book total after rebuild: 14,350; sitewide 56,673; hero 85,380.
+
+## Numerical Aptitude — third four arithmetic topics (hard level)
+
+Simple interest, compound interest, partnership and mixture/alligation now
+hold 90+ hard questions each:
+
+- simple-interest 98, compound-interest 100, partnership 98,
+  mixture-alligation 107.
+
+Generators: `tools/gen-num-si.py`, `gen-num-ci.py`, `gen-num-partnership.py`,
+`gen-num-mixture.py`, sharing `tools/num_bank.py`. Half-yearly effective rate
+uses (1 + r/200)^2 - 1; partnership profit values are chosen as multiples of
+the capital-time totals so every share is exact.
+
+Book total after rebuild: 14,753; sitewide 57,076; hero 85,783.
