@@ -3517,3 +3517,47 @@ Authoring notes:
   balanced answer slots, a short explanation naming the reason.
 
 Book total 19,575; sitewide 61,898; hero 90,605.
+
+## Non-Verbal Reasoning — next four topics (2026-11-21)
+
+Embedded Figures, Pattern Completion, Counting of Figures and Cube & Dice now
+carry 80+ generated questions each (EN + AS, inline SVG):
+
+| leaf | questions |
+| --- | --- |
+| counting-figures | 92 |
+| cube-dice | 133 |
+| embedded-figures | 110 |
+| pattern-completion | 90 |
+
+Generators: `tools/gen-nv-counting.py`, `tools/gen-nv-cube.py`,
+`tools/gen-nv-embedded.py`, `tools/gen-nv-pattern.py`. All four go through
+`nv_bank.append_nv`, which strips the `nv-<leaf>-` ids and re-adds them, so
+re-running is idempotent.
+
+`tools/nv_geom.py` counts lines, triangles, rectangles and squares exactly
+from a list of drawn segments. It computes every intersection, treats a side
+as drawn when the whole span is covered by collinear segments (grid lines are
+drawn cell by cell), and then counts 3-cliques for triangles and 4-point
+rectangles/squares. Every published counting answer is that exact number, so
+never hand-write a count in this topic.
+
+Authoring rules learned here:
+
+- Use integer coordinates only. Regular polygons (pentagon, hexagon) and
+  thirds of 80 give rounding drift and the counter then misses real shapes.
+- In a pattern matrix, a square must be drawn axis-aligned: `S.regular(4)`
+  starts at -90 degrees and renders a diamond, which reads as a different
+  shape in a side-counting rule.
+- For "two views of the same die", exactly five numbers may be visible; if a
+  neighbour repeats across views the opposite face is not determined.
+- Distractor shapes must be verified absent with the same counter, otherwise
+  a sharp student can defend two options.
+
+Two legacy counting answers in the bank were wrong under the standard
+"count every triangle whose sides are drawn" convention and were corrected:
+`non-verbal-reasoning-023` (one cevian, 2 -> 3) and
+`non-verbal-reasoning-033` (square with both diagonals, 4 -> 8). The same
+sweep converted stray ASCII digits in Assamese fields to Assamese numerals.
+
+Book total 19,974; sitewide 62,297; hero 91,004.
