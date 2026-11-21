@@ -10802,5 +10802,283 @@
         "অণুজীৱৰ যিকোনো প্ৰশ্নত আগতে পদাৰ্থটো লিখা - গাখীৰ, চেনি, এলকহল, নাইট্ৰজেন, মৃত পদাৰ্থ - আৰু অণুজীৱ নিজেই অনুসৰণ কৰিব। প্ৰশ্নকাকতে নাম নহয়, জোৰা পৰীক্ষা কৰে।"
       ]
     ]
+  },
+  "computer-fundamentals": {
+    "en": [
+      [
+        "h3",
+        "What the computer fundamentals block asks"
+      ],
+      [
+        "p",
+        "This topic covers the machine itself: what a computer is, what its parts are called, what the units of memory mean, how data is represented, and who invented what. The questions are almost all one-line facts, and they are asked in the same form every year - which unit is largest, which device is input, which generation used which technology, which abbreviation stands for what."
+      ],
+      [
+        "p",
+        "The block is easy to secure because the facts do not change. An hour with the four lists in this article - units, input and output devices, generations, and abbreviations - covers most of the questions the paper can set from this topic."
+      ],
+      [
+        "h3",
+        "What a computer is, and the four functions"
+      ],
+      [
+        "p",
+        "A computer is an electronic device that accepts data, processes it according to a set of instructions, stores the result and outputs it. Those four functions - input, processing, storage and output - are the skeleton of every question about hardware. A keyboard, mouse, scanner, microphone, joystick, light pen, touch screen and barcode reader are input devices. A monitor, printer, speaker, plotter and projector are output devices. A modem, a touch screen and a pen drive that both reads and writes can act in both directions."
+      ],
+      [
+        "p",
+        "The processing unit is the CPU, and it has three parts: the arithmetic logic unit that does the calculations, the control unit that directs the flow of instructions, and registers that hold the current data. Memory is either primary or secondary. Primary memory is directly accessible to the CPU and is of two kinds: RAM, which is volatile and loses its contents when power goes, and ROM, which is non-volatile and holds the start-up instructions. Secondary memory - hard disk, SSD, pen drive, CD, DVD - is permanent but slower."
+      ],
+      [
+        "h3",
+        "The units of memory, in order"
+      ],
+      [
+        "p",
+        "The order is bit, byte, kilobyte, megabyte, gigabyte, terabyte, petabyte. One byte is eight bits and normally holds one character. One kilobyte is 1,024 bytes, one megabyte is 1,024 kilobytes, one gigabyte is 1,024 megabytes, and one terabyte is 1,024 gigabytes. The 1,024 rather than 1,000 is because memory is organised in powers of two, and a question that uses 1,000 is testing whether you know that."
+      ],
+      [
+        "p",
+        "Speed is measured separately. The clock speed of a processor is in gigahertz, and one gigahertz is a thousand million cycles per second. A hard disk is measured in revolutions per minute and in access time, and a printer in pages per minute and in dots per inch, which is resolution. These units are asked as matches and they are free marks."
+      ],
+      [
+        "h3",
+        "The generations, and what each one introduced"
+      ],
+      [
+        "p",
+        "The first generation used vacuum tubes, was enormous, and was programmed in machine language. The second used transistors and introduced assembly language. The third used integrated circuits and introduced operating systems and keyboards with monitors. The fourth used microprocessors and brought the personal computer, the graphical user interface and networks. The fifth, still current, is associated with artificial intelligence, parallel processing and natural language."
+      ],
+      [
+        "p",
+        "A few firsts are worth knowing by name. Charles Babbage designed the analytical engine and is called the father of the computer. Ada Lovelace wrote what is regarded as the first program. John von Neumann described the stored-program architecture that every modern computer still follows. ENIAC was the first general-purpose electronic computer. The transistor was invented at Bell Laboratories, and the integrated circuit followed a decade later."
+      ],
+      [
+        "h3",
+        "Software, and the words that go with it"
+      ],
+      [
+        "p",
+        "Software is of two kinds. System software runs the machine - the operating system, device drivers and utility programs. Application software does the user's work - a word processor, a spreadsheet, a browser, a media player. An operating system manages the hardware, the files and the running programs, and the common examples are Windows, Linux, macOS, Android and iOS. A compiler translates a whole program into machine code before running it; an interpreter translates and runs line by line; an assembler translates assembly language."
+      ],
+      [
+        "p",
+        "The abbreviations are asked as one-liners and they are the easiest marks in the block. CPU is central processing unit, ALU arithmetic logic unit, RAM random access memory, ROM read only memory, BIOS basic input output system, OS operating system, GUI graphical user interface, LAN local area network, WAN wide area network, and USB universal serial bus. Learn them as expansions, because the question usually gives the expansion and asks for the short form, or the reverse."
+      ],
+      [
+        "h3",
+        "Two questions worked the short way"
+      ],
+      [
+        "p",
+        "A question asks how many bytes are in two kilobytes. One kilobyte is 1,024 bytes, so two kilobytes are 2,048 bytes. If the option list offers 2,000, that option is the trap for candidates who use the decimal meaning instead of the binary one."
+      ],
+      [
+        "p",
+        "A question asks which of four devices is both input and output. A monitor is output only, a keyboard input only, a scanner input only, and a touch screen is both, because it displays and also senses touch. That single example covers the standard version of the question."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "h3",
+        "Storage, and how the devices are sorted"
+      ],
+      [
+        "p",
+        "Storage devices are asked by name. A hard disk uses magnetic platters and is the traditional fixed storage. An SSD uses flash memory, has no moving parts and is faster. A pen drive and a memory card are flash devices that connect through USB or a card slot. A CD holds about 700 megabytes, a DVD about 4.7 gigabytes, and a Blu-ray about 25 gigabytes on a single layer. A floppy disk, now obsolete, held 1.44 megabytes and is still offered as a wrong option in older question sets."
+      ],
+      [
+        "p",
+        "A few accessories are worth knowing. A UPS provides battery backup for a short time so that a computer can be shut down safely. A printer is impact (dot matrix) or non-impact (inkjet, laser, thermal). A scanner converts a paper image into a digital file. A projector throws the screen onto a wall. These are asked as matches, so attach one line to each device and the question answers itself."
+      ],
+      [
+        "h3",
+        "Number systems and the conversion that is asked"
+      ],
+      [
+        "p",
+        "The paper asks simple binary conversions. Binary 1010 is 1x8 + 0x4 + 1x2 + 0x1, which is 10 in decimal. Binary 1111 is 15. Decimal 9 is 1001 in binary. To go the other way, divide by two repeatedly and read the remainders upwards. Octal uses eight digits and hexadecimal uses sixteen, with A to F standing for ten to fifteen, and a hexadecimal digit represents exactly four binary bits, which is why hexadecimal is used to write memory addresses compactly."
+      ],
+      [
+        "h3",
+        "Computer languages, in order of closeness to the machine"
+      ],
+      [
+        "p",
+        "Machine language is the binary code the processor executes directly, and it is the only language the hardware understands. Assembly language replaces those binary codes with short mnemonics and needs an assembler. High-level languages such as C, C++, Java, Python and JavaScript use English-like statements and need a compiler or an interpreter. The higher the language, the easier it is for a person and the more translation it needs before the machine can run it."
+      ],
+      [
+        "p",
+        "File extensions are a separate one-line set. .txt is plain text, .docx a word document, .xlsx a spreadsheet, .pptx a presentation, .pdf a portable document, .jpg and .png images, .mp3 audio, .mp4 video, .exe a runnable program and .html a web page. A question that gives a name and asks what kind of file it is is answered straight from this list."
+      ],
+      [
+        "p",
+        "Three errors recur. RAM is described as permanent memory, when it is the volatile one. ROM is described as the working memory, when it is the one that holds the start-up instructions. And the 1,024 factor is replaced by 1,000, which turns a correct method into a wrong answer. Check the volatility and the factor before choosing."
+      ],
+      [
+        "ul",
+        [
+          "Four functions: input, processing, storage, output.",
+          "1 byte = 8 bits; 1 KB = 1,024 B; 1 MB = 1,024 KB; 1 GB = 1,024 MB; 1 TB = 1,024 GB.",
+          "RAM is volatile, ROM is not; both are primary memory.",
+          "Generations: valves, transistors, integrated circuits, microprocessors, artificial intelligence.",
+          "Babbage is the father of the computer; von Neumann gave the stored-program design."
+        ]
+      ],
+      [
+        "tip",
+        "For any unit question, write the 1,024 chain on the rough sheet before you start. Nearly every wrong option in this block is the same number computed with 1,000."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "কম্পিউটাৰৰ এই অংশত কি সোধা হয়"
+      ],
+      [
+        "p",
+        "এই অধ্যায়ত যন্ত্ৰটো নিজেই সামৰি লোৱা হৈছে: কম্পিউটাৰ কি, তাৰ অংশবোৰৰ নাম কি, মেম'ৰিৰ এককৰ অৰ্থ কি, তথ্য কেনেকৈ প্ৰকাশ কৰা হয়, আৰু কোনে কি আৱিষ্কাৰ কৰিছিল। প্ৰশ্নবোৰ প্ৰায় সদায় এশাৰী তথ্য, আৰু প্ৰতি বছৰে একেই ৰূপত সোধা হয় - কোনটো একক আটাইতকৈ ডাঙৰ, কোনটো সঁজুলি ইনপুট, কোন শাখাই কোন প্ৰযুক্তি ব্যৱহাৰ কৰিছিল, কোন সংক্ষিপ্ত ৰূপে কি বুজায়।"
+      ],
+      [
+        "p",
+        "তথ্যবোৰ নসলনি হোৱা বাবে এই অংশ সুৰক্ষিত কৰা সহজ। এই লেখাৰ চাৰিটা তালিকা - একক, ইনপুট আৰু আউটপুট সঁজুলি, শাখা, আৰু সংক্ষিপ্ত ৰূপ - এক ঘণ্টা চালে এই বিষয়ৰ পৰা অহা বেছিভাগ প্ৰশ্ন সামৰি লোৱা যায়।"
+      ],
+      [
+        "h3",
+        "কম্পিউটাৰ কি, আৰু চাৰিটা কাম"
+      ],
+      [
+        "p",
+        "কম্পিউটাৰ হ'ল এনে এটা ইলেক্ট্ৰনিক সঁজুলি যি তথ্য লয়, নিৰ্দেশনা অনুসৰি তাক প্ৰক্ৰিয়া কৰে, ফল সাঁচি ৰাখে আৰু আউটপুট দিয়ে। এই চাৰিটা কাম - ইনপুট, প্ৰক্ৰিয়াকৰণ, সংৰক্ষণ আৰু আউটপুট - হাৰ্ডৱেৰৰ প্ৰতিটো প্ৰশ্নৰ skeleton। কীব'ৰ্ড, মাউছ, স্কেনাৰ, মাইক্ৰ'ফ'ন, জয়ষ্টিক, লাইট পেন, টাচ স্ক্ৰিন আৰু বাৰক'ড ৰিডাৰ ইনপুট সঁজুলি। মনিটৰ, প্ৰিণ্টাৰ, স্পীকাৰ, প্লটাৰ আৰু প্ৰজেক্টৰ আউটপুট সঁজুলি। মডেম, টাচ স্ক্ৰিন আৰু পেন ড্ৰাইভ দুয়ো দিশত কাম কৰিব পাৰে।"
+      ],
+      [
+        "p",
+        "প্ৰক্ৰিয়াকৰণৰ একক CPU, আৰু তাৰ তিনি অংশ: গণনা কৰা এৰিথমেটিক লজিক ইউনিট, নিৰ্দেশনাৰ প্ৰবাহ পৰিচালনা কৰা কণ্ট্ৰ'ল ইউনিট, আৰু বৰ্তমান তথ্য ধৰি ৰখা ৰেজিষ্টাৰ। মেম'ৰি প্ৰাথমিক বা দ্বিতীয় স্তৰৰ। প্ৰাথমিক মেম'ৰি CPU ৰ পোনপটীয়া প্ৰৱেশত থাকে আৰু দুধৰণৰ: RAM, যি অস্থিৰ আৰু বিদ্যুৎ গ'লে তথ্য হেৰায়, আৰু ROM, যি স্থিৰ আৰু আৰম্ভণিৰ নিৰ্দেশনা ধৰি ৰাখে। দ্বিতীয় স্তৰৰ মেম'ৰি - হাৰ্ড ডিস্ক, SSD, পেন ড্ৰাইভ, CD, DVD - স্থায়ী কিন্তু লাহী।"
+      ],
+      [
+        "h3",
+        "মেম'ৰিৰ একক, ক্ৰমে"
+      ],
+      [
+        "p",
+        "ক্ৰমটো হ'ল বিট, বাইট, কিল'বাইট, মেগাবাইট, গিগাবাইট, টেৰাবাইট, পেটাবাইট। এক বাইট = আঠ বিট, আৰু সাধাৰণতে এটা আখৰ ধৰি ৰাখে। এক কিল'বাইট = 1,024 বাইট, এক মেগাবাইট = 1,024 কিল'বাইট, এক গিগাবাইট = 1,024 মেগাবাইট, আৰু এক টেৰাবাইট = 1,024 গিগাবাইট। 1,000 ৰ সলনি 1,024 কাৰণ মেম'ৰি দুৰ্গুণ শক্তিত সজা হয়, আৰু 1,000 ব্যৱহাৰ কৰা প্ৰশ্নই এই কথাটো পৰীক্ষা কৰে।"
+      ],
+      [
+        "p",
+        "গতি বেলেগকৈ মাপা হয়। প্ৰচেছৰৰ ঘড়ীৰ গতি গিগাহাৰ্টজত, আৰু এক গিগাহাৰ্টজ = এশ কোটি চক্ৰ প্ৰতি ছেকেণ্ড। হাৰ্ড ডিস্ক ঘূৰ্ণনৰ হাৰ আৰু প্ৰৱেশ সময়ত, আৰু প্ৰিণ্টাৰ প্ৰতি মিনিটত পৃষ্ঠা আৰু প্ৰতি ইঞ্চিত বিন্দুত, যি ৰিজ'লিউচন। এই এককবোৰ মিলোৱা প্ৰশ্ন হিচাপে আহে আৰু সহজ নম্বৰ।"
+      ],
+      [
+        "h3",
+        "শাখাবোৰ, আৰু প্ৰতিটোৱে কি আনি দিলে"
+      ],
+      [
+        "p",
+        "প্ৰথম শাখাত ভেকুৱাম টিউব ব্যৱহাৰ হৈছিল, আকাৰ বিশাল আছিল, আৰু মেচিন ভাষাত কাৰ্যসূচী লিখা হৈছিল। দ্বিতীয় শাখাত ট্ৰেনজিষ্টৰ আছিল আৰু এচেম্বলি ভাষা আহিছিল। তৃতীয় শাখাত ইন্টিগ্ৰেটেড চাৰ্কিট আছিল আৰু অপাৰেটিং চিষ্টেম, কীব'ৰ্ড আৰু মনিটৰ আহিছিল। চতুৰ্থ শাখাত মাইক্ৰ'প্ৰচেছৰ আছিল আৰু ব্যক্তিগত কম্পিউটাৰ, গ্ৰাফিকেল ইউজাৰ ইণ্টাৰফেচ আৰু নেটৱৰ্ক আহিছিল। পঞ্চম শাখা, যি এতিয়াও চলি আছে, কৃত্ৰিম বুদ্ধিমত্তা, সমান্তৰাল প্ৰক্ৰিয়াকৰণ আৰু প্ৰাকৃতিক ভাষাৰ লগত জড়িত।"
+      ],
+      [
+        "p",
+        "কেইটামান প্ৰথম নামেৰে জনা ভাল। চাৰ্লছ বেবেজে এনালিটিকেল ইঞ্জিন সাজিছিল আৰু তেওঁক কম্পিউটাৰৰ পিতা বুলি কোৱা হয়। এডা লাভলেছে প্ৰথম কাৰ্যসূচী বুলি ধৰা লিখনী লিখিছিল। জন ভন নিউমেনে সাঁচি ৰখা কাৰ্যসূচীৰ স্থাপত্যৰ বৰ্ণনা দিছিল, যি আজিও প্ৰতিটো আধুনিক কম্পিউটাৰে অনুসৰণ কৰে। ENIAC প্ৰথম সাধাৰণ উদ্দেশ্যৰ ইলেক্ট্ৰনিক কম্পিউটাৰ আছিল। ট্ৰেনজিষ্টৰ বেল পৰীক্ষাগাৰত আৱিষ্কৃত হৈছিল, আৰু এক দশকৰ পিছত ইন্টিগ্ৰেটেড চাৰ্কিট আহিছিল।"
+      ],
+      [
+        "h3",
+        "চফ্টৱেৰ, আৰু তাৰ লগত অহা শব্দ"
+      ],
+      [
+        "p",
+        "চফ্টৱেৰ দুধৰণৰ। চিষ্টেম চফ্টৱেৰে যন্ত্ৰ চলায় - অপাৰেটিং চিষ্টেম, ডিভাইচ ড্ৰাইভাৰ আৰু ইউটিলিটি কাৰ্যসূচী। এপ্লিকেচন চফ্টৱেৰে ব্যৱহাৰকাৰীৰ কাম কৰে - ৱৰ্ড প্ৰচেছৰ, স্প্ৰেডশ্বীট, ব্ৰাউজাৰ, মিডিয়া প্লেয়াৰ। অপাৰেটিং চিষ্টেমে হাৰ্ডৱেৰ, ফাইল আৰু চলি থকা কাৰ্যসূচী পৰিচালনা কৰে, আৰু চিনাকি উদাহৰণ Windows, Linux, macOS, Android আৰু iOS। কম্পাইলাৰে গোটেই কাৰ্যসূচী আগতে মেচিন ক'ডলৈ ৰূপান্তৰ কৰে; ইণ্টাৰপ্ৰিটাৰে শাৰী শাৰী ৰূপান্তৰ কৰি চলায়; এচেম্বলাৰে এচেম্বলি ভাষা ৰূপান্তৰ কৰে।"
+      ],
+      [
+        "p",
+        "সংক্ষিপ্ত ৰূপবোৰ এশাৰী প্ৰশ্ন হিচাপে আহে আৰু এই অংশৰ আটাইতকৈ সহজ নম্বৰ। CPU = চেণ্ট্ৰেল প্ৰচেছিং ইউনিট, ALU = এৰিথমেটিক লজিক ইউনিট, RAM = ৰেণ্ডম এক্সেছ মেম'ৰি, ROM = ৰিড অনলি মেম'ৰি, BIOS = বেছিক ইনপুট আউটপুট চিষ্টেম, OS = অপাৰেটিং চিষ্টেম, GUI = গ্ৰাফিকেল ইউজাৰ ইণ্টাৰফেচ, LAN = লোকেল এৰিয়া নেটৱৰ্ক, WAN = ৱাইড এৰিয়া নেটৱৰ্ক, আৰু USB = ইউনিভাৰ্চেল চিৰিয়েল বাছ। বিস্তাৰিত ৰূপ হিচাপে শিকা, কাৰণ প্ৰশ্নই সাধাৰণতে বিস্তাৰিত ৰূপ দি চুটি ৰূপ সোধে, বা ওলোটাকৈ।"
+      ],
+      [
+        "h3",
+        "চুটিকৈ কৰা দুটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "দুই কিল'বাইটত কিমান বাইট সোধা হ'ল। এক কিল'বাইট = 1,024 বাইট, সেয়ে দুই কিল'বাইট = 2,048 বাইট। যদি বিকল্পত 2,000 দিয়া থাকে, সেয়া দশমিক অৰ্থ ব্যৱহাৰ কৰা পৰীক্ষাৰ্থীৰ বাবে ফান্দ।"
+      ],
+      [
+        "p",
+        "চাৰিটা সঁজুলিৰ ভিতৰত কোনটো ইনপুট আৰু আউটপুট দুয়োটা সোধা হ'ল। মনিটৰ কেৱল আউটপুট, কীব'ৰ্ড কেৱল ইনপুট, স্কেনাৰ কেৱল ইনপুট, আৰু টাচ স্ক্ৰিন দুয়োটা, কাৰণ ই দেখুৱায় আৰু স্পৰ্শও ধৰে। এই এটা উদাহৰণেই প্ৰশ্নৰ চিনাকি ৰূপ সামৰি লয়।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "h3",
+        "সংৰক্ষণ, আৰু সঁজুলিবোৰ কেনেকৈ ভাগ কৰা হয়"
+      ],
+      [
+        "p",
+        "সংৰক্ষণ সঁজুলি নামেৰে সোধা হয়। হাৰ্ড ডিস্কত চুম্বকীয় প্লেটাৰ থাকে আৰু ই পৰম্পৰাগত স্থিৰ সংৰক্ষণ। SSD ত ফ্লেছ মেম'ৰি থাকে, চলন্ত অংশ নাই আৰু ই দ্ৰুত। পেন ড্ৰাইভ আৰু মেম'ৰি কাৰ্ড ফ্লেছ সঁজুলি যি USB বা কাৰ্ড স্লটেদি সংযুক্ত হয়। CD ত প্ৰায় 700 মেগাবাইট, DVD ত প্ৰায় 4.7 গিগাবাইট, আৰু ব্লু-ৰে এক স্তৰত প্ৰায় 25 গিগাবাইট ধৰে। ফ্লপি ডিস্ক, যি এতিয়া অচল, 1.44 মেগাবাইট ধৰিছিল আৰু পুৰণি প্ৰশ্নত ভুল বিকল্প হিচাপে এতিয়াও দিয়া হয়।"
+      ],
+      [
+        "p",
+        "কেইটামান উপকৰণ জনা ভাল। UPS য়ে কম সময়ৰ বাবে বেটেৰীৰ সহায় দিয়ে, যাতে কম্পিউটাৰ নিৰাপদে বন্ধ কৰিব পাৰি। প্ৰিণ্টাৰ ইম্পেক্ট (ডট মেট্ৰিক্স) বা নন-ইম্পেক্ট (ইংকজেট, লেজাৰ, থাৰ্মেল)। স্কেনাৰে কাগজৰ ছবিক ডিজিটেল ফাইললৈ ৰূপান্তৰ কৰে। প্ৰজেক্টৰে পৰ্দা এখনত স্ক্ৰিন পেলায়। এইবোৰ মিলোৱা প্ৰশ্ন, সেয়ে প্ৰতিটো সঁজুলিৰ লগত এশাৰী লগাই লোৱা, প্ৰশ্ন নিজেই উত্তৰ দিব।"
+      ],
+      [
+        "h3",
+        "সংখ্যা পদ্ধতি আৰু সোধা ৰূপান্তৰ"
+      ],
+      [
+        "p",
+        "প্ৰশ্নকাকতে সৰল বাইনেৰি ৰূপান্তৰ সোধে। বাইনেৰি 1010 = 1x8 + 0x4 + 1x2 + 0x1, অৰ্থাৎ দশমিকত 10। বাইনেৰি 1111 = 15। দশমিক 9 বাইনেৰিত 1001। ওলোটা দিশলৈ যাবলৈ বাৰে বাৰে দুইৰে হৰণ কৰি ভাগশেষবোৰ তলৰ পৰা ওপৰলৈ পঢ়া। অক্টেলে আঠটা অঙ্ক ব্যৱহাৰ কৰে আৰু হেক্সাডেচিমেলে ষোল্লটা, য'ত A ৰ পৰা F লৈকে দহৰ পৰা পোন্ধৰলৈ বুজায়, আৰু এটা হেক্সাডেচিমেল অঙ্কই ঠিক চাৰিটা বাইনেৰি বিট সূচায়, সেয়ে মেম'ৰি ঠিকনা চমুকৈ লিখিবলৈ হেক্সাডেচিমেল ব্যৱহাৰ হয়।"
+      ],
+      [
+        "h3",
+        "কম্পিউটাৰ ভাষা, যন্ত্ৰৰ ওচৰত থকাৰ ক্ৰমত"
+      ],
+      [
+        "p",
+        "মেচিন ভাষা হ'ল বাইনেৰি ক'ড যি প্ৰচেছৰে পোনপটীয়াকৈ চলায়, আৰু ইয়েই একমাত্ৰ ভাষা যি হাৰ্ডৱেৰে বুজে। এচেম্বলি ভাষাই সেই বাইনেৰি ক'ডৰ ঠাইত চুটি নাম ব্যৱহাৰ কৰে আৰু এচেম্বলাৰ লাগে। C, C++, Java, Python আৰু JavaScript ৰ দৰে উচ্চ স্তৰৰ ভাষাই ইংৰাজীৰ দৰে বাক্য ব্যৱহাৰ কৰে আৰু কম্পাইলাৰ বা ইণ্টাৰপ্ৰিটাৰ লাগে। ভাষা যিমান ওখ, মানুহৰ বাবে সিমান সহজ আৰু যন্ত্ৰই চলোৱাৰ আগতে সিমান ৰূপান্তৰ লাগে।"
+      ],
+      [
+        "p",
+        "ফাইলৰ নামৰ শেষাংশৰ তালিকাও এশাৰীত সোধা হয়: .txt সাধাৰণ লেখা, .docx ৱৰ্ড ডকুমেণ্ট, .xlsx স্প্ৰেডশ্বীট, .pptx প্ৰজেণ্টেচন, .pdf প'ৰ্টেবল ডকুমেণ্ট, .jpg আৰু .png ছবি, .mp3 শব্দ, .mp4 ভিডিঅ', .exe চলিব পৰা কাৰ্যসূচী আৰু .html ৱেব পৃষ্ঠা। এটা নাম দি কি ধৰণৰ ফাইল সোধা প্ৰশ্ন এই তালিকাৰ পৰাই উত্তৰ পায়।"
+      ],
+      [
+        "p",
+        "তিনিটা ভুল বাৰে বাৰে আহে। RAM ক স্থায়ী মেম'ৰি বুলি কোৱা হয়, অথচ সেয়াই অস্থিৰ। ROM ক কাৰ্যকৰী মেম'ৰি বুলি কোৱা হয়, অথচ সেয়াই আৰম্ভণিৰ নিৰ্দেশনা ধৰি ৰাখে। আৰু 1,024 ৰ ঠাইত 1,000 বহুওৱা হয়, যাৰ ফলত শুদ্ধ পদ্ধতিও ভুল উত্তৰ হয়। বাছনিৰ আগতে অস্থিৰতা আৰু গুণকটো চোৱা।"
+      ],
+      [
+        "ul",
+        [
+          "চাৰিটা কাম: ইনপুট, প্ৰক্ৰিয়াকৰণ, সংৰক্ষণ, আউটপুট।",
+          "1 বাইট = 8 বিট; 1 KB = 1,024 B; 1 MB = 1,024 KB; 1 GB = 1,024 MB; 1 TB = 1,024 GB।",
+          "RAM অস্থিৰ, ROM স্থিৰ; দুয়োটা প্ৰাথমিক মেম'ৰি।",
+          "শাখা: ভেকুৱাম টিউব, ট্ৰেনজিষ্টৰ, ইন্টিগ্ৰেটেড চাৰ্কিট, মাইক্ৰ'প্ৰচেছৰ, কৃত্ৰিম বুদ্ধিমত্তা।",
+          "বেবেজ কম্পিউটাৰৰ পিতা; ভন নিউমেনে সাঁচি ৰখা কাৰ্যসূচীৰ স্থাপত্য দিছিল।"
+        ]
+      ],
+      [
+        "h3",
+        "দৈনন্দিন ব্যৱহাৰৰ কেইটামান কথা"
+      ],
+      [
+        "p",
+        "ফাইলৰ নামৰ শেষত থকা অংশই ফাইলৰ প্ৰকাৰ কয়: .txt হ'ল সাধাৰণ লেখা, .docx হ'ল ৱৰ্ড ডকুমেণ্ট, .xlsx স্প্ৰেডশ্বীট, .pptx প্ৰজেণ্টেচন, .pdf প'ৰ্টেবল ডকুমেণ্ট, .jpg আৰু .png ছবি, .mp3 শব্দ, .mp4 ভিডিঅ', আৰু .exe চলিব পৰা কাৰ্যসূচী। প্ৰশ্নকাকতত এটা নাম দি সোধা হয় ই কি ধৰণৰ ফাইল, আৰু এই তালিকাখনেই উত্তৰ দিয়ে।"
+      ],
+      [
+        "p",
+        "কীব'ৰ্ডৰ চাৰিটা বিশেষ কি-ও সোধা হয়: Enter এ নতুন শাৰী বা আদেশ সম্পন্ন কৰে, Shift এ ডাঙৰ আখৰ দিয়ে, Ctrl এ চুটিকৈ কাম কৰিবলৈ আন কিৰ লগত মিলি কাম কৰে, আৰু Alt এ মেনু ব্যৱহাৰ কৰিবলৈ দিয়ে। Ctrl + C কপি, Ctrl + V পে'ষ্ট, Ctrl + X কাট, আৰু Ctrl + S সাঁচি ৰখা - এইবোৰ প্ৰায় প্ৰতিবছৰে এটা প্ৰশ্ন।"
+      ],
+      [
+        "h3",
+        "তথ্যৰ প্ৰকাশ"
+      ],
+      [
+        "p",
+        "কম্পিউটাৰে সকলো তথ্য শূন্য আৰু এক ৰে ৰাখে, যাক বাইনেৰি পদ্ধতি বোলে। এটা বিটেই এটা শূন্য বা এক, আৰু আঠটা বিটে এটা বাইট। মানুহে দহ অঙ্কৰ দশমিক পদ্ধতি ব্যৱহাৰ কৰে, আৰু কম্পিউটাৰৰ লগত কাম কৰিবলৈ অক্টেল (আঠ) আৰু হেক্সাডেচিমেল (ষোল্ল) পদ্ধতিও ব্যৱহাৰ হয়। প্ৰশ্নকাকতত সোধা হয় বাইনেৰি 1010 ৰ দশমিক মান কিমান - উত্তৰ 10।"
+      ],
+      [
+        "tip",
+        "এককৰ যিকোনো প্ৰশ্নত আৰম্ভ কৰাৰ আগতে 1,024 ৰ শৃংখল ৰাফ শ্বীটত লিখা। এই অংশত প্ৰায় প্ৰতিটো ভুল বিকল্প একেই সংখ্যা 1,000 ৰে হিচাপ কৰা থাকে।"
+      ]
+    ]
   }
 }
