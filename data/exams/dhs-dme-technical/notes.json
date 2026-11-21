@@ -15370,5 +15370,299 @@
         "পৰীক্ষাগাৰৰ যিকোনো প্ৰশ্নত আগতে পৰীক্ষাৰ নাম, তাৰ পিছত নমুনা, তাৰ পিছত নলী কোৱা। প্ৰশ্নকাকতে প্ৰায় সদায় কাষৰীয়া নলীৰ ৰঙৰ পৰাই বিকল্প সজায়।"
       ]
     ]
+  },
+  "radiography-imaging": {
+    "en": [
+      [
+        "h3",
+        "What the imaging block asks"
+      ],
+      [
+        "p",
+        "This topic covers how a picture of the inside of the body is produced and how it is made safe. The paper asks four kinds of question: which modality is used for a given body part, what a shadow on the film means, which contrast medium is used, and which radiation protection rule applies. There is no physics calculation beyond one or two simple facts, so the block is scored by matching."
+      ],
+      [
+        "p",
+        "The single most examined idea is the difference between the modalities, because the options are always drawn from the same family. X-ray uses radiation, CT uses radiation and gives cross sections, MRI uses magnetism and no radiation, and ultrasound uses sound and no radiation. Fix those four lines and half the block is answered."
+      ],
+      [
+        "h3",
+        "How an X-ray is produced"
+      ],
+      [
+        "p",
+        "An X-ray tube has a cathode, which is a heated filament that releases electrons, and an anode, which is the target the electrons strike. The sudden deceleration at the target converts their energy into X-rays and heat, and most of the energy becomes heat, which is why the tube has to be cooled. The beam passes through the patient and the part that is not absorbed reaches the detector, so the image is a shadow."
+      ],
+      [
+        "p",
+        "The two words that describe the shadow are radiolucent and radiopaque. Air is radiolucent, meaning the rays pass through easily, so it appears black. Bone and metal are radiopaque, meaning they absorb the rays, so they appear white. Fat and soft tissue sit in between and appear grey. A question that asks why the lungs look black on a chest film is answered by the word air."
+      ],
+      [
+        "h3",
+        "The modalities, one line each"
+      ],
+      [
+        "p",
+        "Radiography uses X-rays to give a two-dimensional projection, and it is the first line for chest, bone and abdomen. Fluoroscopy uses X-rays continuously to show movement, as in a barium swallow. Computed tomography rotates an X-ray tube around the patient and reconstructs cross sectional slices, and its density is measured in Hounsfield units, where water is zero and bone is about one thousand. Magnetic resonance imaging uses a strong magnetic field and radio waves, gives excellent soft tissue detail, and uses no ionising radiation, which is why it is preferred for the brain and spinal cord."
+      ],
+      [
+        "p",
+        "Ultrasound uses high frequency sound waves and their echoes, involves no radiation, and is the safe choice in pregnancy and for the abdomen, heart and thyroid. Nuclear medicine uses a radioactive tracer inside the body and a gamma camera outside, and positron emission tomography shows metabolic activity, which is why it is used in cancer staging. Mammography is a low dose X-ray of the breast used for screening. Those six lines answer almost every modality question."
+      ],
+      [
+        "h3",
+        "Views and contrast media"
+      ],
+      [
+        "p",
+        "The standard chest film is taken in the postero-anterior view, with the patient facing the cassette and the rays entering from behind, because that gives the least magnification of the heart. The antero-posterior view is used for a bedridden patient and magnifies the heart. A lateral view is taken from the side, and an oblique view is taken at an angle to bring a structure clear of others. Erect, supine and decubitus describe the patient's position, and decubitus means lying on one side, which is used to show free air or fluid."
+      ],
+      [
+        "p",
+        "Contrast media are chosen by the examination. Barium sulphate is used for the gastrointestinal tract and is not absorbed, so it is safe there but must never be given if a perforation is suspected, because it would leak into the abdomen; a water-soluble iodinated medium is used instead. Iodinated contrast is used for the urinary tract, blood vessels and CT, and it is given by mouth, by rectum or intravenously. Air or carbon dioxide is used as a negative contrast, for example in a double contrast barium meal. Before iodinated contrast the patient is asked about allergy, kidney disease and metformin, and hydration is encouraged afterwards."
+      ],
+      [
+        "h3",
+        "Radiation protection, in rules and numbers"
+      ],
+      [
+        "p",
+        "The guiding principle is ALARA, as low as reasonably achievable. The three ways to reduce dose are time, distance and shielding: keep the exposure short, stand as far as possible from the source because dose falls with the square of distance, and use a lead apron of at least 0.25 to 0.5 millimetres lead equivalent. The beam is collimated to the area of interest so that the rest of the body is not irradiated, and gonadal and thyroid shields are used where relevant."
+      ],
+      [
+        "p",
+        "The occupational dose limit for radiation workers is an effective dose of 20 millisieverts a year averaged over five years, with no single year above 50. Every worker carries a personal dosimeter, usually a thermoluminescent badge, and the reading is recorded. A pregnant worker declares her pregnancy and the dose to the fetus is kept as low as possible. The three cardinal rules - time, distance and shielding - and the two numbers, 20 and 50, are the most examined items in this section."
+      ],
+      [
+        "h3",
+        "Preparing the patient"
+      ],
+      [
+        "p",
+        "Preparation is short and specific. Metal objects, jewellery, hairpins and zips are removed because they cast shadows. The patient is asked to hold still and to hold the breath for a chest film so that movement does not blur the image. For a contrast study the patient may be asked to fast for a few hours, to take a bowel preparation, and to report allergy, asthma, kidney disease or pregnancy. For an abdominal film the patient may be asked to empty the bladder, and for a pelvic film to empty the bowel if ordered."
+      ],
+      [
+        "p",
+        "The nurse's part is to explain the procedure, to confirm identity and the request form, to check for pregnancy in a woman of childbearing age, and to record any reaction after contrast. A question that asks what the nurse must check before a pelvic X-ray in a young woman is asking about pregnancy."
+      ],
+      [
+        "h3",
+        "Two questions worked the short way"
+      ],
+      [
+        "p",
+        "A question asks which investigation is preferred for a suspected brain tumour. The answer is MRI, because it gives the best soft tissue detail and uses no radiation. A CT scan is the answer when speed matters, as in a head injury or a suspected bleed. Reading the words soft tissue or emergency decides between them."
+      ],
+      [
+        "p",
+        "A question asks why the lungs appear black on a chest X-ray. The answer is that air is radiolucent, so the rays pass through and the film is not exposed. If the option says radiopaque, it is describing bone. Attaching black to air and white to bone answers the whole family."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "h3",
+        "Who does what in the department"
+      ],
+      [
+        "p",
+        "The roles are asked as matches. A radiographer operates the equipment, positions the patient and produces the image. A radiologist is the doctor who reports the image. A radiotherapist works in treatment rather than diagnosis, and a medical physicist is responsible for dose measurement and equipment calibration. The darkroom technician, where film is still used, processes and files it. Those five lines settle the staffing questions."
+      ],
+      [
+        "p",
+        "The request form is part of the same list. It carries the patient's identity, the clinical question, the part to be examined and the signature of the requesting doctor. An image taken without a valid request is not reported, and a form with no clinical question is sent back, because the radiographer cannot choose the right view without knowing what is being looked for."
+      ],
+      [
+        "h3",
+        "The examination, in the order it happens"
+      ],
+      [
+        "p",
+        "The sequence is asked as a list. The patient is identified and the form checked, the procedure is explained and consent taken where needed, metal is removed and the area exposed, the patient is positioned and centred, the exposure is made with the correct factors, the image is checked for quality before the patient leaves, and the report follows. Sending the patient away before checking the film is the error the question usually describes."
+      ],
+      [
+        "p",
+        "The exposure factors are three: kilovoltage controls penetration and contrast, milliampere-seconds controls the quantity of radiation and so the density, and the focus to film distance controls magnification. Increasing the distance reduces magnification, which is why the chest film is taken at a long distance. Those three factors and their effects are one line each."
+      ],
+      [
+        "p",
+        "Three errors recur. MRI is described as using radiation, when it uses magnetism. Barium is chosen when a perforation is suspected, when a water-soluble medium is required. And the chest film is called antero-posterior when the standard view is postero-anterior. Check the modality, the safety and the view before choosing."
+      ],
+      [
+        "ul",
+        [
+          "X-ray tube: cathode filament emits electrons, anode is the target; most energy becomes heat.",
+          "Air is radiolucent and black; bone and metal are radiopaque and white.",
+          "CT uses X-rays and Hounsfield units; MRI uses magnetism; ultrasound uses sound.",
+          "Standard chest view is postero-anterior; decubitus means lying on one side.",
+          "ALARA with time, distance, shielding; occupational limit 20 mSv a year, never above 50."
+        ]
+      ],
+      [
+        "tip",
+        "For any imaging question, ask two things first - does this modality use radiation, and is the question about bone or soft tissue. Those two answers choose the modality before the options are read."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "চিত্ৰণৰ এই অংশত কি সোধা হয়"
+      ],
+      [
+        "p",
+        "এই অধ্যায়ত শৰীৰৰ ভিতৰৰ ছবি কেনেকৈ হয় আৰু তাক কেনেকৈ সুৰক্ষিত কৰা হয় সেয়া সামৰি লোৱা হৈছে। প্ৰশ্নকাকতে চাৰি ধৰণৰ কথা সোধে: এটা নিৰ্দিষ্ট অংগৰ বাবে কোন পদ্ধতি ব্যৱহৃত হয়, ফিল্মত এটা ছাঁই কি বুজায়, কোনটো কণ্ট্ৰাষ্ট মাধ্যম ব্যৱহৃত হয়, আৰু কোনটো বিকিৰণ সুৰক্ষা নিয়ম প্ৰযোজ্য। এটা-দুটা সৰল তথ্যৰ বাহিৰে পদাৰ্থ বিজ্ঞানৰ গণনা নাই, সেয়ে এই অংশ মিলোৱাৰ জৰিয়তে জিকা যায়।"
+      ],
+      [
+        "p",
+        "আটাইতকৈ বেছি সোধা ধাৰণা হ'ল পদ্ধতিবোৰৰ মাজৰ পাৰ্থক্য, কাৰণ বিকল্পবোৰ সদায় একেই পৰিয়ালৰ পৰা লোৱা হয়। এক্স-ৰে'ই বিকিৰণ ব্যৱহাৰ কৰে, চিটি য়ে বিকিৰণ ব্যৱহাৰ কৰি কাটা অংশ দিয়ে, এমআৰআই য়ে চুম্বকত্ব ব্যৱহাৰ কৰে আৰু বিকিৰণ নহয়, আৰু আল্ট্ৰাছাউণ্ডে শব্দ ব্যৱহাৰ কৰি বিকিৰণ নহয়। এই চাৰি শাৰী ঠিক কৰিলে আধা অংশ উত্তৰ পোৱা যায়।"
+      ],
+      [
+        "h3",
+        "এক্স-ৰে' কেনেকৈ সৃষ্টি হয়"
+      ],
+      [
+        "p",
+        "এক্স-ৰে' টিউবত এটা কেথ'ড থাকে, যি গৰম ফিলামেণ্ট আৰু ইলেক্ট্ৰন এৰি দিয়ে, আৰু এটা এন'ড, যি লক্ষ্য য'ত ইলেক্ট্ৰনে খুন্দা মাৰে। লক্ষ্যত হোৱা হঠাতে গতিৰোধে সিহঁতৰ শক্তি এক্স-ৰে' আৰু তাপলৈ ৰূপান্তৰ কৰে, আৰু বেছিভাগ শক্তি তাপ হয়, সেয়ে টিউব ঠাণ্ডা কৰিব লাগে। ৰশ্মিয়ে ৰোগীৰ মাজেদি যায় আৰু যি অংশ শোষিত নহয় সেয়া ডিটেক্টৰত পৰে, সেয়ে ছবিখন এটা ছাঁ।"
+      ],
+      [
+        "p",
+        "ছাঁটো বৰ্ণনা কৰা দুটা শব্দ হ'ল ৰেডিঅ'লুচেণ্ট আৰু ৰেডিঅ'পেক। বায়ু ৰেডিঅ'লুচেণ্ট, অৰ্থাৎ ৰশ্মি সহজে পাৰ হয়, সেয়ে ক'লা দেখা যায়। হাড় আৰু ধাতু ৰেডিঅ'পেক, অৰ্থাৎ ৰশ্মি শোষণ কৰে, সেয়ে বগা দেখা যায়। চৰ্বি আৰু কোমল কলা মাজত থাকে আৰু ধোঁৱা-বুলীয়া দেখায়। বুকুৰ ফিল্মত ফুলফুল কিয় ক'লা দেখা যায় সোধা প্ৰশ্নৰ উত্তৰ বায়ু শব্দটো।"
+      ],
+      [
+        "h3",
+        "পদ্ধতিবোৰ, প্ৰতিটোৰে এশাৰী"
+      ],
+      [
+        "p",
+        "ৰেডিঅ'গ্ৰাফিয়ে এক্স-ৰে'ৰে দুই-মাত্ৰিক প্ৰক্ষেপণ দিয়ে, আৰু বুকু, হাড় আৰু পেটৰ বাবে প্ৰথম পছন্দ। ফ্ল'ৰ'স্কপিয়ে এক্স-ৰে' অবিৰতভাৱে ব্যৱহাৰ কৰি গতি দেখুৱায়, যেনে বেৰিয়াম গিলা। কম্পিউটেড টম'গ্ৰাফিয়ে ৰোগীৰ চাৰিওফালে এক্স-ৰে' টিউব ঘূৰাই কাটা অংশ পুনৰ্গঠন কৰে, আৰু তাৰ ঘনত্ব হাউনছফিল্ড এককত জোখা হয়, য'ত পানী শূন্য আৰু হাড় প্ৰায় এহেজাৰ। মেগনেটিক ৰিজ'নেন্স ইমেজিঙে শক্তিশালী চুম্বকীয় ক্ষেত্ৰ আৰু ৰেডিঅ' ঢৌ ব্যৱহাৰ কৰে, কোমল কলাৰ ভাল বিৱৰণ দিয়ে, আৰু আয়নীকৰণ বিকিৰণ নাথাকে, সেয়ে মগজু আৰু মেৰুদণ্ডৰ বাবে পছন্দ।"
+      ],
+      [
+        "p",
+        "আল্ট্ৰাছাউণ্ডে উচ্চ কম্পনাংকৰ শব্দ ঢৌ আৰু তাৰ প্ৰতিধ্বনি ব্যৱহাৰ কৰে, কোনো বিকিৰণ নাই, আৰু গৰ্ভাৱস্থা আৰু পেট, হৃদয় আৰু থাইৰয়ডৰ বাবে সুৰক্ষিত পছন্দ। নিউক্লিয়াৰ মেডিচিনে শৰীৰৰ ভিতৰত ৰেডিঅ'সক্ৰিয় ট্ৰেচাৰ আৰু বাহিৰত গামা কেমেৰা ব্যৱহাৰ কৰে, আৰু পজিট্ৰন এমিচন টম'গ্ৰাফিয়ে বিপাকীয় সক্ৰিয়তা দেখুৱায়, সেয়ে কৰ্কট ৰোগৰ স্তৰ নিৰ্ণয়ত ব্যৱহৃত। মেম'গ্ৰাফি স্তনৰ কম মাত্ৰাৰ এক্স-ৰে' আৰু স্ক্ৰিনিঙত ব্যৱহৃত। এই ছয় শাৰীয়ে প্ৰায় প্ৰতিটো পদ্ধতিৰ প্ৰশ্নৰ উত্তৰ দিয়ে।"
+      ],
+      [
+        "h3",
+        "দৃশ্য আৰু কণ্ট্ৰাষ্ট মাধ্যম"
+      ],
+      [
+        "p",
+        "মানক বুকুৰ ফিল্ম পষ্টিৰিঅ'ৰ-এণ্টিৰিয়ৰ দৃশ্যত লোৱা হয়, ৰোগীয়ে কেছেটলৈ মুখ কৰি থাকে আৰু ৰশ্মি পিছফালৰ পৰা সোমায়, কাৰণ তেতিয়া হৃদয়ৰ বৃদ্ধি আটাইতকৈ কম হয়। এণ্টিৰিঅ'-পষ্টিৰিয়ৰ দৃশ্য শয্যাশায়ী ৰোগীৰ বাবে ব্যৱহৃত আৰু হৃদয় ডাঙৰ দেখুৱায়। লেটেৰেল দৃশ্য কাষৰ পৰা, আৰু অব্লিক দৃশ্য এটা কোণত লোৱা হয় যাতে গঠন এটা আনৰ পৰা আঁতৰি পৰিষ্কাৰ দেখা যায়। ইৰেক্ট, চুপাইন আৰু ডেকুবিটাছে ৰোগীৰ অৱস্থান বৰ্ণনা কৰে, আৰু ডেকুবিটাছ মানে এটা কাষেৰে শুই থকা, যি মুক্ত বায়ু বা তৰল দেখুৱাবলৈ ব্যৱহৃত।"
+      ],
+      [
+        "p",
+        "কণ্ট্ৰাষ্ট মাধ্যম পৰীক্ষা অনুসৰি বাছনি কৰা হয়। বেৰিয়াম ছালফেট পাচন তন্ত্ৰৰ বাবে আৰু শোষিত নহয়, সেয়ে তাত সুৰক্ষিত কিন্তু ফুটাৰ সন্দেহ থাকিলে কেতিয়াও নিদিব, কাৰণ সেয়া পেটত ওলাই যাব; তাৰ সলনি পানীত দ্ৰৱণীয় আয়'ডিনযুক্ত মাধ্যম ব্যৱহাৰ কৰা হয়। আয়'ডিনযুক্ত কণ্ট্ৰাষ্ট মূত্ৰপথ, ৰক্তনলী আৰু চিটিৰ বাবে, আৰু মুখেৰে, মলদ্বাৰেৰে বা শিৰাত দিয়া হয়। বায়ু বা কাৰ্বন ডাইঅক্সাইড ঋণাত্মক কণ্ট্ৰাষ্ট হিচাপে, যেনে দ্বৈত কণ্ট্ৰাষ্ট বেৰিয়াম ভোজনত। আয়'ডিনযুক্ত কণ্ট্ৰাষ্টৰ আগতে এলাৰ্জী, বৃক্কৰ ৰোগ আৰু মেটফৰ্মিনৰ কথা সোধা হয়, আৰু পিছত তৰল খাবলৈ কোৱা হয়।"
+      ],
+      [
+        "h3",
+        "বিকিৰণ সুৰক্ষা, নিয়ম আৰু সংখ্যাত"
+      ],
+      [
+        "p",
+        "পথপ্ৰদৰ্শক নীতিটো হ'ল ALARA, অৰ্থাৎ যিমান সম্ভৱ কম মাত্ৰা। মাত্ৰা কমোৱাৰ তিনি উপায় সময়, দূৰত্ব আৰু সুৰক্ষা: এক্সপ'জাৰ চুটি ৰখা, উৎসৰ পৰা যিমান পাৰি দূৰত থকা কাৰণ দূৰত্বৰ বৰ্গ অনুসৰি মাত্ৰা কমে, আৰু অন্ততঃ 0.25 ৰ পৰা 0.5 মিলিমিটাৰ সীহৰ সমতুল্য এপ্ৰ'ন ব্যৱহাৰ কৰা। ৰশ্মি আগ্ৰহৰ অঞ্চললৈ সীমিত কৰা হয় যাতে শৰীৰৰ বাকী অংশ বিকিৰিত নহয়, আৰু প্ৰয়োজনত গনা'ড আৰু থাইৰয়ড ঢাল ব্যৱহৃত।"
+      ],
+      [
+        "p",
+        "বিকিৰণ কৰ্মীৰ বাবে বৃত্তিগত মাত্ৰাৰ সীমা পাঁচ বছৰৰ গড়ত বছৰি 20 মিলিচিভাৰ্ট, আৰু কোনো এটা বছৰ 50 ৰ ওপৰত নহ'ব। প্ৰতিজন কৰ্মীয়ে ব্যক্তিগত ড'চিমিটাৰ, সাধাৰণতে থাৰ্ম'লুমিনেচেণ্ট বেজ, লৈ ফুৰে আৰু পাঠ লিখি ৰখা হয়। গৰ্ভৱতী কৰ্মীয়ে গৰ্ভধাৰণ ঘোষণা কৰে আৰু ভ্ৰূণৰ মাত্ৰা যিমান পাৰি কম ৰখা হয়। তিনি মূল নিয়ম - সময়, দূৰত্ব, সুৰক্ষা - আৰু দুটা সংখ্যা, 20 আৰু 50, এই অংশৰ আটাইতকৈ বেছি সোধা বস্তু।"
+      ],
+      [
+        "h3",
+        "ৰোগীৰ প্ৰস্তুতি"
+      ],
+      [
+        "p",
+        "প্ৰস্তুতি চুটি আৰু নিৰ্দিষ্ট। ধাতুৰ বস্তু, অলংকাৰ, চুলিৰ পিন আৰু জিপ খোলা হয় কাৰণ সেইবোৰে ছাঁ পেলায়। ৰোগীক লৰচৰ নকৰিবলৈ আৰু বুকুৰ ফিল্মত উশাহ ৰাখিবলৈ কোৱা হয় যাতে লৰচৰে ছবি অস্পষ্ট নকৰে। কণ্ট্ৰাষ্ট পৰীক্ষাৰ বাবে ৰোগীক কেইঘণ্টামান উপবাস, অন্ত্ৰ পৰিষ্কাৰ, আৰু এলাৰ্জী, এজমা, বৃক্কৰ ৰোগ বা গৰ্ভধাৰণৰ কথা জনাবলৈ কোৱা হয়। পেটৰ ফিল্মত মূত্ৰাশয় খালী কৰিবলৈ, আৰু শ্ৰোণীৰ ফিল্মত আদেশ থাকিলে অন্ত্ৰ খালী কৰিবলৈ কোৱা হয়।"
+      ],
+      [
+        "p",
+        "নাৰ্চৰ কাম হ'ল পদ্ধতি বুজোৱা, পৰিচয় আৰু অনুৰোধ পত্ৰ নিশ্চিত কৰা, সন্তান জন্ম দিব পৰা বয়সৰ মহিলাৰ গৰ্ভধাৰণ পৰীক্ষা কৰা, আৰু কণ্ট্ৰাষ্টৰ পিছত প্ৰতিক্ৰিয়া লিখি ৰখা। যুৱতী এগৰাকীৰ শ্ৰোণী এক্স-ৰে'ৰ আগতে নাৰ্চে কি পৰীক্ষা কৰিব লাগে সোধা প্ৰশ্নই গৰ্ভধাৰণৰ কথাই সোধে।"
+      ],
+      [
+        "h3",
+        "চুটিকৈ কৰা দুটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "মগজুৰ টিউমাৰ সন্দেহত কোন পৰীক্ষা পছন্দ সোধা হ'ল। উত্তৰ এমআৰআই, কাৰণ ই কোমল কলাৰ আটাইতকৈ ভাল বিৱৰণ দিয়ে আৰু বিকিৰণ নাথাকে। চিটি তেতিয়া উত্তৰ যেতিয়া গতি গুৰুত্বপূৰ্ণ, যেনে মূৰৰ আঘাত বা তেজ ওলোৱাৰ সন্দেহত। কোমল কলা বা জৰুৰী শব্দ দুটা পঢ়িলেই বাছনি ঠিক হয়।"
+      ],
+      [
+        "p",
+        "বুকুৰ এক্স-ৰে'ত ফুলফুল কিয় ক'লা দেখা যায় সোধা হ'ল। উত্তৰ বায়ু ৰেডিঅ'লুচেণ্ট, সেয়ে ৰশ্মি পাৰ হয় আৰু ফিল্ম উন্মোচিত নহয়। বিকল্পত ৰেডিঅ'পেক থাকিলে সেয়া হাড়ৰ কথা। ক'লাক বায়ুৰ লগত আৰু বগাক হাড়ৰ লগত জোৰা লগালে এই গোটেই পৰিয়ালৰ উত্তৰ পোৱা যায়।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "h3",
+        "বিভাগত কোনে কি কৰে"
+      ],
+      [
+        "p",
+        "ভূমিকাবোৰ মিলোৱা প্ৰশ্ন হিচাপে সোধা হয়। ৰেডিঅ'গ্ৰাফাৰে যন্ত্ৰ চলায়, ৰোগীক অৱস্থান দিয়ে আৰু ছবি সৃষ্টি কৰে। ৰেডিঅ'লজিষ্ট সেই চিকিৎসক যি ছবিৰ ৰিপৰ্ট দিয়ে। ৰেডিঅ'থেৰাপিষ্টে নিৰ্ণয়ৰ সলনি চিকিৎসাত কাম কৰে, আৰু মেডিকেল ফিজিচিষ্ট মাত্ৰাৰ জোখ আৰু যন্ত্ৰৰ standardizationৰ বাবে দায়ী। ডাৰ্কৰুম টেকনিচিয়ানে, য'ত এতিয়াও ফিল্ম ব্যৱহৃত হয়, প্ৰক্ৰিয়াকৰণ আৰু ফাইলিং কৰে। এই পাঁচ শাৰীয়ে কৰ্মচাৰী সম্পৰ্কীয় প্ৰশ্নৰ উত্তৰ দিয়ে।"
+      ],
+      [
+        "p",
+        "অনুৰোধ পত্ৰও একেই তালিকাৰ অংশ। তাত ৰোগীৰ পৰিচয়, ক্লিনিকেল প্ৰশ্ন, পৰীক্ষা কৰিবলগীয়া অংশ আৰু অনুৰোধ কৰা চিকিৎসকৰ চহী থাকে। বৈধ অনুৰোধ নোহোৱাকৈ লোৱা ছবিৰ ৰিপৰ্ট দিয়া নহয়, আৰু ক্লিনিকেল প্ৰশ্ন নথকা ফৰ্ম ঘূৰাই পঠিওৱা হয়, কাৰণ কি বিচৰা হৈছে নজনাকৈ ৰেডিঅ'গ্ৰাফাৰে সঠিক দৃশ্য বাছনি কৰিব নোৱাৰে।"
+      ],
+      [
+        "h3",
+        "পৰীক্ষা, যি ক্ৰমত হয়"
+      ],
+      [
+        "p",
+        "ক্ৰমটো তালিকা হিচাপে সোধা হয়। ৰোগীৰ পৰিচয় আৰু ফৰ্ম পৰীক্ষা, পদ্ধতি বুজাই প্ৰয়োজনত সম্মতি লোৱা, ধাতু খোলা আৰু অংশ মুকলা কৰা, ৰোগীক অৱস্থান দি কেন্দ্ৰত ৰখা, সঠিক কাৰকৰে এক্সপ'জাৰ দিয়া, ৰোগী যোৱাৰ আগতে ছবিৰ গুণ চোৱা, আৰু তাৰ পিছত ৰিপৰ্ট। ফিল্ম নাচাই ৰোগীক পঠিয়াই দিয়াটোৱেই সেই ভুল যি প্ৰশ্নত সাধাৰণতে বৰ্ণনা কৰা হয়।"
+      ],
+      [
+        "p",
+        "এক্সপ'জাৰৰ কাৰক তিনি: কিল'ভল্টেজে ভেদন আৰু কণ্ট্ৰাষ্ট নিয়ন্ত্ৰণ কৰে, মিলিএম্পিয়াৰ-ছেকেণ্ডে বিকিৰণৰ পৰিমাণ আৰু সেয়ে ঘনত্ব নিয়ন্ত্ৰণ কৰে, আৰু ফ'কাছৰ পৰা ফিল্মৰ দূৰত্বই বৃদ্ধি নিয়ন্ত্ৰণ কৰে। দূৰত্ব বঢ়ালে বৃদ্ধি কমে, সেয়ে বুকুৰ ফিল্ম দীঘল দূৰত্বত লোৱা হয়। এই তিনি কাৰক আৰু সিহঁতৰ প্ৰভাৱ এশাৰী এশাৰী।"
+      ],
+      [
+        "h3",
+        "ৰোগীৰ সৈতে যোগাযোগ"
+      ],
+      [
+        "p",
+        "ৰোগীক কোৱা কথাবোৰো সোধা হয়: পদ্ধতিত কি হ'ব, কিমান সময় লাগিব, কোনটো অৱস্থানত থাকিব, কেতিয়া উশাহ ৰাখিব, আৰু কেতিয়া ৰিপৰ্ট পাব। শান্ত আৰু স্পষ্ট ব্যাখ্যাই ৰোগীক স্থিৰ ৰাখে, আৰু স্থিৰ ৰোগীয়ে ভাল ছবি দিয়ে। এই কথাটোৱে লৰচৰৰ পৰা হোৱা অস্পষ্ট ছবিৰ সমস্যা আটাইতকৈ সোনকালে সমাধান কৰে।"
+      ],
+      [
+        "p",
+        "তিনিটা ভুল বাৰে বাৰে আহে। এমআৰআইক বিকিৰণ ব্যৱহাৰ কৰে বুলি কোৱা হয়, অথচ ই চুম্বকত্ব ব্যৱহাৰ কৰে। ফুটাৰ সন্দেহত বেৰিয়াম বাছনি কৰা হয়, অথচ পানীত দ্ৰৱণীয় মাধ্যম লাগে। আৰু বুকুৰ ফিল্মক এণ্টিৰিঅ'-পষ্টিৰিয়ৰ বুলি কোৱা হয়, অথচ মানক দৃশ্য পষ্টিৰিঅ'ৰ-এণ্টিৰিয়ৰ। বাছনিৰ আগতে পদ্ধতি, সুৰক্ষা আৰু দৃশ্য চোৱা।"
+      ],
+      [
+        "ul",
+        [
+          "এক্স-ৰে' টিউব: কেথ'ড ফিলামেণ্টে ইলেক্ট্ৰন দিয়ে, এন'ড লক্ষ্য; বেছিভাগ শক্তি তাপ হয়।",
+          "বায়ু ৰেডিঅ'লুচেণ্ট আৰু ক'লা; হাড় আৰু ধাতু ৰেডিঅ'পেক আৰু বগা।",
+          "চিটিয়ে এক্স-ৰে' আৰু হাউনছফিল্ড একক; এমআৰআইয়ে চুম্বকত্ব; আল্ট্ৰাছাউণ্ডে শব্দ।",
+          "মানক বুকুৰ দৃশ্য পষ্টিৰিঅ'ৰ-এণ্টিৰিয়ৰ; ডেকুবিটাছ মানে এটা কাষেৰে শুই থকা।",
+          "ALARA সময়, দূৰত্ব, সুৰক্ষা; বৃত্তিগত সীমা বছৰি 20 mSv, কেতিয়াও 50 ৰ ওপৰত নহয়।"
+        ]
+      ],
+      [
+        "h3",
+        "ফিল্ম প্ৰক্ৰিয়াকৰণ আৰু ডিজিটাল চিত্ৰণ"
+      ],
+      [
+        "p",
+        "পুৰণি ব্যৱস্থাত ফিল্ম ডাৰ্কৰুমত ডেভেলপাৰত ডুবাই, তাৰ পিছত ফিক্সাৰত ডুবাই, তাৰ পিছত ধুই শুকুওৱা হয়। ডেভেলপাৰে লুকাই থকা ছবি ওলিয়াই আনে, আৰু ফিক্সাৰে ছবি স্থায়ী কৰি পোহৰত নষ্ট হোৱাৰ পৰা ৰক্ষা কৰে। আজিৰ চিকিৎসালয়ত কম্পিউটেড ৰেডিঅ'গ্ৰাফি বা ডাইৰেক্ট ৰেডিঅ'গ্ৰাফি ব্যৱহাৰ হয়, য'ত ছবি প্লেট বা ডিটেক্টৰত ধৰা পৰি পৰ্দাত দেখা যায়।"
+      ],
+      [
+        "p",
+        "ডিজিটেল ছবি PACS ত সংৰক্ষিত হয় আৰু DICOM ৰূপত পঠিওৱা হয়। এই দুটা সংক্ষিপ্ত ৰূপ প্ৰায় প্ৰতিবছৰে এটা প্ৰশ্নত আহে: PACS ছবি সংৰক্ষণ আৰু চোৱাৰ ব্যৱস্থা, আৰু DICOM ছবিৰ মানক ৰূপ।"
+      ],
+      [
+        "h3",
+        "সাধাৰণ ত্ৰুটি আৰু গুণ"
+      ],
+      [
+        "p",
+        "ফিল্মত অহা সাধাৰণ ত্ৰুটি সোধা হয়: লৰচৰৰ পৰা অস্পষ্ট ছবি, ভুল এক্সপ'জাৰৰ পৰা বৰ মিলা বা বৰ পাতল ছবি, আৰু ধাতুৰ বস্তুৰ পৰা অতিৰিক্ত ছাঁ। গুণৰ বাবে ছবিখনত প্ৰয়োজনীয় গঠন সম্পূৰ্ণ দেখা যোৱা, ৰোগীৰ পৰিচয়ৰ চিহ্ন থকা, আৰু প্ৰয়োজনত বাওঁ বা সোঁ দিশৰ চিহ্ন থকা চৰ্ত। এই তিনি চৰ্ত এশাৰীত সোধা হয়।"
+      ],
+      [
+        "tip",
+        "চিত্ৰণৰ যিকোনো প্ৰশ্নত আগতে দুটা কথা সোধা - এই পদ্ধতিয়ে বিকিৰণ ব্যৱহাৰ কৰে নে নাই, আৰু প্ৰশ্নটো হাড়ৰ নে কোমল কলাৰ। এই দুটা উত্তৰেই বিকল্প পঢ়াৰ আগতে পদ্ধতি বাছি লয়।"
+      ]
+    ]
   }
 }
