@@ -9130,5 +9130,275 @@
         "লিভাৰৰ যিকোনো প্ৰশ্নত সূত্ৰত হাত দিয়াৰ আগতে এডাল ৰেখাত তিনি বিন্দু আঁকি লেবেল লগাই লোৱা। পুলিৰ প্ৰশ্নত চলন্ত ব্লকৰ পৰা ওপৰলৈ যোৱা অংশবোৰহে গণনা কৰা।"
       ]
     ]
+  },
+  "modern-nuclear-physics": {
+    "en": [
+      [
+        "h3",
+        "What the nuclear block asks"
+      ],
+      [
+        "p",
+        "This topic collects the atom, radioactivity and nuclear energy. The paper asks three kinds of question. First, structure: what an atomic number or a mass number counts, what an isotope is, who proposed which model of the atom. Second, radioactivity: which radiation penetrates what, which is deflected by a magnetic field, what a half-life means. Third, energy: the difference between fission and fusion, and why the sun shines."
+      ],
+      [
+        "p",
+        "Nothing here needs a calculator except the half-life question, and that is one division. The rest is vocabulary that has to be exact, because the options are usually one word apart. Alpha and beta and gamma are the three words most often confused, and they carry most of the marks in this block."
+      ],
+      [
+        "h3",
+        "The atom, counted properly"
+      ],
+      [
+        "p",
+        "An atom has a nucleus of protons and neutrons, with electrons around it. The atomic number is the number of protons, and it decides the element. The mass number is the number of protons plus neutrons. Isotopes of an element have the same atomic number but different mass numbers, which means the same element with a different number of neutrons; hydrogen, deuterium and tritium are the standard example, and carbon-12 and carbon-14 the standard application. Isobars are atoms of different elements with the same mass number."
+      ],
+      [
+        "p",
+        "The models come in a fixed order and the paper likes to ask who proposed which. Thomson proposed the plum pudding model, with electrons embedded in a positive sphere. Rutherford fired alpha particles at a thin gold foil, saw that a few were deflected through large angles, and concluded that the positive charge and almost all the mass are concentrated in a tiny nucleus. Bohr added quantised orbits, so that electrons occupy fixed energy levels and emit or absorb energy only when they jump between them."
+      ],
+      [
+        "h3",
+        "Radioactivity, and the three radiations"
+      ],
+      [
+        "p",
+        "Radioactivity is the spontaneous emission of radiation from an unstable nucleus. It is not affected by temperature, pressure or chemical combination, which is one of the standard trick questions. Three radiations are emitted. Alpha particles are helium nuclei: heavy, doubly positive, stopped by a sheet of paper or a few centimetres of air. Beta particles are fast electrons: light, singly negative, stopped by a few millimetres of aluminium. Gamma rays are electromagnetic waves: no charge, no mass, stopped only by thick lead or concrete."
+      ],
+      [
+        "p",
+        "Their behaviour in an electric or magnetic field follows from their charge. Alpha bends towards the negative plate, beta bends much more towards the positive plate because it is light, and gamma goes straight through because it carries no charge. That single comparison answers a large share of the options in this bank."
+      ],
+      [
+        "p",
+        "The half-life is the time in which half the nuclei in a sample decay. After one half-life, half remains; after two, a quarter; after three, an eighth. The decay is random for a single nucleus but statistically exact for a large sample, and the half-life does not depend on how much material there is. Carbon-14 has a half-life of about 5,730 years and is used for dating once-living material; uranium-238, with a half-life of 4.5 billion years, is used for dating rocks."
+      ],
+      [
+        "h3",
+        "Fission, fusion and the energy they release"
+      ],
+      [
+        "p",
+        "Fission splits a heavy nucleus into two lighter ones, releasing neutrons and a large amount of energy. A nuclear reactor uses fission of uranium-235, with a moderator such as heavy water or graphite to slow the neutrons, control rods of boron or cadmium to absorb them, and a coolant to carry heat to the turbines. Fusion joins light nuclei into a heavier one, and it is what powers the sun, where hydrogen nuclei fuse into helium under enormous temperature and pressure."
+      ],
+      [
+        "p",
+        "The energy released comes from the small difference in mass between the products and the reactants, converted according to E = mc squared. Because the speed of light is so large, a tiny mass difference gives an enormous energy, which is why a kilogram of uranium releases more energy than a thousand tonnes of coal. Fusion releases more energy per kilogram than fission, but it needs temperatures of millions of degrees and no working power reactor has yet sustained it."
+      ],
+      [
+        "h3",
+        "Uses, hazards and safety"
+      ],
+      [
+        "p",
+        "Radioisotopes are used in medicine for imaging and for cancer treatment, in agriculture for improving crops and preserving food, in industry for detecting leaks and measuring thickness, and in archaeology for dating. The hazards come from ionising radiation damaging living cells, so handling is done with lead shielding, remote tongs, film badges and strict limits on exposure time and distance."
+      ],
+      [
+        "h3",
+        "Two questions worked the short way"
+      ],
+      [
+        "p",
+        "A sample has a half-life of 10 days and starts with 80 g. After 10 days 40 g remains, after 20 days 20 g, after 30 days 10 g. Asking how much is left after 30 days is the same as asking how many half-lives fit into 30 days, and then halving that many times. Three half-lives mean one eighth of the original mass."
+      ],
+      [
+        "p",
+        "The question that asks which radiation is stopped by aluminium is answered by beta. Alpha is already stopped by paper, so it cannot be the one stopped by aluminium; gamma passes through aluminium, so it cannot be that one either. The only remaining option is beta, and this elimination works even when the candidate cannot recall the penetration depths exactly."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "h3",
+        "Dating, medicine and industry"
+      ],
+      [
+        "p",
+        "Carbon dating works because living things take in carbon throughout their lives, so the proportion of carbon-14 stays constant while they are alive. When they die the intake stops and the carbon-14 decays with a half-life of about 5,730 years, so measuring what is left gives the age. The method is reliable to roughly fifty thousand years, after which too little remains to measure. Uranium-lead dating does the same job for rocks over billions of years."
+      ],
+      [
+        "p",
+        "In medicine, cobalt-60 is used for radiotherapy because its gamma rays penetrate tissue and kill dividing cells, iodine-131 is used for the thyroid because that gland absorbs iodine, and technetium-99m is used for imaging because its short half-life of six hours limits the dose to the patient. In industry, gamma sources check welds by radiography, and tracers detect leaks in buried pipelines."
+      ],
+      [
+        "h3",
+        "Dose, and what counts as safe"
+      ],
+      [
+        "p",
+        "The absorbed dose is measured in gray, and the equivalent dose, which accounts for the damage different radiations do, is measured in sievert. Natural background radiation gives about two to three millisieverts a year. A chest X-ray gives about a tenth of a millisievert, a CT scan a few millisieverts, and the annual limit for a radiation worker is twenty millisieverts averaged over five years. Those numbers are the ones a question asks when it wants an order of magnitude rather than a definition."
+      ],
+      [
+        "p",
+        "One more distinction is worth carrying into the hall. Radioactivity is a property of the nucleus and is unaffected by any chemical change, while a chemical reaction only involves the outer electrons. That is why a radioactive sample cannot be made safe by burning it, dissolving it or combining it with something else, and why the only practical controls are time, distance and shielding."
+      ],
+      [
+        "p",
+        "Three confusions dominate. Atomic number is mixed up with mass number, so an isotope is described as a different element. Alpha and beta are swapped in the deflection question, usually because the candidate forgets that alpha is positive. And fission is confused with fusion, which reverses every answer about the sun and about reactors."
+      ],
+      [
+        "ul",
+        [
+          "Atomic number = protons; mass number = protons + neutrons.",
+          "Alpha: helium nucleus, positive, stopped by paper. Beta: electron, negative, stopped by aluminium. Gamma: no charge, stopped by lead.",
+          "Half-life: after n half-lives the remaining fraction is 1/2 to the power n.",
+          "Fission splits heavy nuclei in reactors; fusion joins light nuclei in the sun.",
+          "E = mc squared converts the mass defect into the energy released."
+        ]
+      ],
+      [
+        "tip",
+        "For any half-life question, first work out how many half-lives fit into the given time, then halve that many times. Never try to halve inside the division; the count comes first."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "পাৰমাণৱিক অংশত কি সোধা হয়"
+      ],
+      [
+        "p",
+        "এই অধ্যায়ত পৰমাণু, তেজস্ক্রিয়তা আৰু পাৰমাণৱিক শক্তি সংগ্ৰহ কৰা হৈছে। প্ৰশ্নকাকতে তিনি ধৰণৰ প্ৰশ্ন সোধে। প্ৰথম, গঠন: পাৰমাণৱিক সংখ্যা বা ভৰ সংখ্যাই কি গণে, আইছ'টোপ কি, পৰমাণুৰ কোন আৰ্হি কোনে দিছিল। দ্বিতীয়, তেজস্ক্রিয়তা: কোন বিকিৰণে কি ভেদ কৰে, কোনটো চুম্বক ক্ষেত্ৰত বেঁকা হয়, অৰ্ধায়ুৰ অৰ্থ কি। তৃতীয়, শক্তি: বিভাজন আৰু সংযোজনৰ পাৰ্থক্য, আৰু সূৰ্যই কিয় জ্বলে।"
+      ],
+      [
+        "p",
+        "অৰ্ধায়ুৰ প্ৰশ্নৰ বাহিৰে ইয়াত কেলকুলেটৰ নালাগে, আৰু সেইটো এটা হৰণহে। বাকীখিনি শব্দাৱলী যি সঠিক হ'ব লাগে, কাৰণ বিকল্পবোৰ সাধাৰণতে এটা শব্দৰ ব্যৱধানত থাকে। আলফা, বিটা আৰু গামা - এই তিনি শব্দই আটাইতকৈ বেছি মিলাই পেলোৱা হয়, আৰু এই অংশৰ বেছিভাগ নম্বৰ সিহঁতৰ ওপৰতেই নিৰ্ভৰ কৰে।"
+      ],
+      [
+        "h3",
+        "পৰমাণু, সঠিকভাৱে গণনা"
+      ],
+      [
+        "p",
+        "পৰমাণুৰ কেন্দ্ৰত প্ৰ'টন আৰু নিউট্ৰন থাকে, আৰু চাৰিওফালে ইলেকট্ৰন। পাৰমাণৱিক সংখ্যা হ'ল প্ৰ'টনৰ সংখ্যা, আৰু ই মৌলটো নিৰ্ধাৰণ কৰে। ভৰ সংখ্যা হ'ল প্ৰ'টন আৰু নিউট্ৰনৰ যোগফল। এটা মৌলৰ আইছ'টোপবোৰৰ পাৰমাণৱিক সংখ্যা একেই কিন্তু ভৰ সংখ্যা বেলেগ, অৰ্থাৎ একেই মৌলৰ নিউট্ৰনৰ সংখ্যা বেলেগ; হাইড্ৰজেন, ডিউটেৰিয়াম আৰু ট্ৰাইটিয়াম ইয়াৰ চিনাকি উদাহৰণ, আৰু কাৰ্বন-12 আৰু কাৰ্বন-14 চিনাকি প্ৰয়োগ। আইছ'বাৰ হ'ল বেলেগ মৌলৰ একেই ভৰ সংখ্যাৰ পৰমাণু।"
+      ],
+      [
+        "p",
+        "আৰ্হিবোৰ এটা নিৰ্দিষ্ট ক্ৰমত আহে আৰু প্ৰশ্নকাকতে কোনে কোনটো দিছিল সেয়া সোধে। থমছনে প্লাম পুডিং আৰ্হি দিছিল, য'ত ইলেকট্ৰনবোৰ ধনাত্মক গোলকত সোমাই থাকে। ৰাডাৰফৰ্ডে সৰু সোণৰ পাতে লৈ আলফা কণা মাৰিছিল, দেখিছিল যে কিছুমান ডাঙৰ কোণত বেঁকা হৈছে, আৰু সিদ্ধান্ত কৰিছিল যে ধনাত্মক আধান আৰু প্ৰায় গোটেই ভৰ এটা অতি সৰু কেন্দ্ৰত ঘন হৈ আছে। ব'হৰে কোৱাণ্টাইজড কক্ষ যোগ দিছিল, যাতে ইলেকট্ৰনবোৰ নিৰ্দিষ্ট শক্তি স্তৰত থাকে আৰু স্তৰ সলোৱাৰ সময়তহে শক্তি দিয়ে বা লয়।"
+      ],
+      [
+        "h3",
+        "তেজস্ক্রিয়তা, আৰু তিনি বিকিৰণ"
+      ],
+      [
+        "p",
+        "তেজস্ক্রিয়তা হ'ল অস্থিৰ কেন্দ্ৰৰ পৰা স্বতঃস্ফূৰ্তভাৱে বিকিৰণ ওলোৱা। ই উষ্ণতা, চাপ বা ৰাসায়নিক সংযোগৰ দ্বাৰা প্ৰভাৱিত নহয়, আৰু এই কথাটোৱেই এটা চিনাকি ফান্দ প্ৰশ্ন। তিনি বিকিৰণ ওলায়। আলফা কণা হ'ল হিলিয়ামৰ কেন্দ্ৰ: গধুৰ, দুগুণ ধনাত্মক, কাগজ এখন বা কেই চে.মি. বায়ুৱে ৰোধ কৰে। বিটা কণা হ'ল দ্ৰুত ইলেকট্ৰন: পাতল, এগুণ ঋণাত্মক, কেই মি.মি. এলুমিনিয়ামে ৰোধ কৰে। গামা ৰশ্মি হ'ল বিদ্যুৎচুম্বকীয় তৰংগ: আধান নাই, ভৰ নাই, ডাঠ সীহ বা কংক্ৰিটেহে ৰোধ কৰে।"
+      ],
+      [
+        "p",
+        "বিদ্যুৎ বা চুম্বক ক্ষেত্ৰত সিহঁতৰ আচৰণ আধানৰ পৰাই ওলায়। আলফা ঋণাত্মক পাতলৈ বেঁকা হয়, বিটা পাতল হোৱা বাবে ধনাত্মক পাতলৈ বহুত বেছি বেঁকা হয়, আৰু গামা আধান নথকা বাবে পোনে পোনে যায়। এই এটা তুলনাই এই বেংকৰ ডাঙৰ অংশৰ উত্তৰ দিয়ে।"
+      ],
+      [
+        "p",
+        "অৰ্ধায়ু হ'ল সেই সময় য'ত নমুনাৰ আধা কেন্দ্ৰ ক্ষয় হয়। এটা অৰ্ধায়ুৰ পিছত আধা থাকে, দুটাৰ পিছত এক চতুৰ্থাংশ, তিনিৰ পিছত এক অষ্টমাংশ। এটা কেন্দ্ৰৰ ক্ষয় অনিয়মিত কিন্তু ডাঙৰ নমুনাৰ বাবে পৰিসংখ্যাগতভাৱে সঠিক, আৰু অৰ্ধায়ু পদাৰ্থ কিমান আছে তাৰ ওপৰত নিৰ্ভৰ নকৰে। কাৰ্বন-14 ৰ অৰ্ধায়ু প্ৰায় 5,730 বছৰ আৰু জীৱিত আছিল এনে পদাৰ্থৰ বয়স নিৰ্ণয়ত ব্যৱহাৰ হয়; ইউৰেনিয়াম-238 ৰ অৰ্ধায়ু 4.5 কোটি বছৰ আৰু শিলৰ বয়স নিৰ্ণয়ত ব্যৱহাৰ হয়।"
+      ],
+      [
+        "h3",
+        "বিভাজন, সংযোজন আৰু ওলোৱা শক্তি"
+      ],
+      [
+        "p",
+        "বিভাজনত এটা গধুৰ কেন্দ্ৰ দুটা পাতল কেন্দ্ৰত ভাগ হয়, নিউট্ৰন আৰু বহুত শক্তি ওলায়। পাৰমাণৱিক ৰিয়েক্টৰত ইউৰেনিয়াম-235 ৰ বিভাজন ব্যৱহাৰ হয়, গধুৰ পানী বা গ্ৰেফাইটৰ দৰে মডাৰেটৰে নিউট্ৰন মন্থৰ কৰা হয়, বৰন বা কেডমিয়ামৰ নিয়ন্ত্ৰণ দণ্ডই নিউট্ৰন শোষণ কৰে, আৰু শীতলকে তাপ টাৰ্বাইনলৈ লৈ যায়। সংযোজনত পাতল কেন্দ্ৰ মিলি গধুৰ কেন্দ্ৰ হয়, আৰু সূৰ্যৰ শক্তিৰ উৎস এইটোৱেই, য'ত অতি উচ্চ উষ্ণতা আৰু চাপত হাইড্ৰজেনৰ কেন্দ্ৰ মিলি হিলিয়াম হয়।"
+      ],
+      [
+        "p",
+        "ওলোৱা শক্তি আহে উৎপাদ আৰু প্ৰতিক্ৰিয়কৰ ভৰৰ সৰু পাৰ্থক্যৰ পৰা, যি E = mc বৰ্গ অনুসৰি শক্তিলৈ ৰূপান্তৰিত হয়। পোহৰৰ বেগ ইমান বেছি যে সৰু ভৰ পাৰ্থক্যই বিশাল শক্তি দিয়ে, সেয়ে এক কিলোগ্ৰাম ইউৰেনিয়ামে হাজাৰ টন কয়লাতকৈ বেছি শক্তি দিয়ে। প্ৰতি কিলোগ্ৰামত সংযোজনে বিভাজনতকৈ বেছি শক্তি দিয়ে, কিন্তু ইয়াৰ বাবে লাখ লাখ ডিগ্ৰী উষ্ণতা লাগে আৰু এতিয়ালৈকে কোনো কাম কৰা ৰিয়েক্টৰে ইয়াক ধৰি ৰাখিব পৰা নাই।"
+      ],
+      [
+        "h3",
+        "প্ৰয়োগ, বিপদ আৰু নিৰাপত্তা"
+      ],
+      [
+        "p",
+        "ৰেডিঅ'আইছ'টোপ চিকিৎসাত চিত্ৰণ আৰু কৰ্কট ৰোগৰ চিকিৎসাত, কৃষিত শস্য উন্নত কৰা আৰু খাদ্য সংৰক্ষণত, উদ্যোগত লিক ধৰা আৰু বেধ জোখাত, আৰু পুৰাতত্ত্বত বয়স নিৰ্ণয়ত ব্যৱহাৰ হয়। বিপদ আহে আয়নীকৰণ বিকিৰণে জীৱন্ত কোষৰ ক্ষতি কৰাৰ পৰা, সেয়ে সীহৰ ঢাল, দীঘল চিমটা, ফিল্ম বেজ আৰু সময় আৰু দূৰত্বৰ কঠোৰ সীমাৰে কাম কৰা হয়।"
+      ],
+      [
+        "h3",
+        "চুটিকৈ কৰা দুটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "এটা নমুনাৰ অৰ্ধায়ু 10 দিন আৰু আৰম্ভণিত 80 গ্ৰাম। 10 দিনৰ পিছত 40 গ্ৰাম, 20 দিনৰ পিছত 20 গ্ৰাম, 30 দিনৰ পিছত 10 গ্ৰাম থাকে। 30 দিনত কিমান বাকী আছে সোধাটো 30 দিনত কিমান অৰ্ধায়ু সোমায় সোধাৰ দৰেই, আৰু তাৰ পিছত সিমানবাৰ আধা কৰিব লাগে। তিনি অৰ্ধায়ু মানে মূল ভৰৰ এক অষ্টমাংশ।"
+      ],
+      [
+        "p",
+        "এলুমিনিয়ামে কোন বিকিৰণ ৰোধ কৰে সোধা প্ৰশ্নৰ উত্তৰ বিটা। আলফাক কাগজেই ৰোধ কৰে, সেয়ে এলুমিনিয়ামে ৰোধ কৰাটো সেয়া হ'ব নোৱাৰে; গামা এলুমিনিয়ামেদি যায়, সেয়ে সেয়াও হ'ব নোৱাৰে। বাকী থকা একমাত্ৰ বিকল্প বিটা, আৰু এই বাদ দিয়া পদ্ধতিয়ে ভেদন গভীৰতা সঠিকভাৱে মনত নাথাকিলেও কাম কৰে।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "h3",
+        "বয়স নিৰ্ণয়, চিকিৎসা আৰু উদ্যোগ"
+      ],
+      [
+        "p",
+        "কাৰ্বন ডেটিঙে কাম কৰে কাৰণ জীৱিত বস্তুৱে জীৱনকালত কাৰ্বন গ্ৰহণ কৰে, সেয়ে জীৱিত থকালৈ কাৰ্বন-14 ৰ অনুপাত স্থিৰ থাকে। মৃত্যুৰ পিছত গ্ৰহণ বন্ধ হয় আৰু কাৰ্বন-14 ৰ অৰ্ধায়ু 5,730 বছৰ হিচাপে ক্ষয় হয়, সেয়ে বাকী থকা পৰিমাণ জুখি বয়স পোৱা যায়। এই পদ্ধতি প্ৰায় 50 হাজাৰ বছৰলৈ নিৰ্ভৰযোগ্য, তাৰ পিছত জুখিবলৈ ইমান কম বাকী থাকে যে কাম নহয়। ইউৰেনিয়াম-লেড পদ্ধতিয়ে শিলৰ ক্ষেত্ৰত কোটি কোটি বছৰৰ বয়স নিৰ্ণয় কৰে।"
+      ],
+      [
+        "p",
+        "চিকিৎসাত ক'বাল্ট-60 ৰশ্মি চিকিৎসাত ব্যৱহাৰ হয় কাৰণ তাৰ গামা ৰশ্মিয়ে কলা ভেদ কৰি বিভাজনশীল কোষ মাৰে, আয়'ডিন-131 থাইৰয়ডৰ বাবে ব্যৱহাৰ হয় কাৰণ সেই গ্ৰন্থিয়ে আয়'ডিন শোষণ কৰে, আৰু টেকনেছিয়াম-99m চিত্ৰণৰ বাবে ব্যৱহাৰ হয় কাৰণ তাৰ ছয় ঘণ্টাৰ চুটি অৰ্ধায়ুৱে ৰোগীৰ ড'জ সীমিত ৰাখে। উদ্যোগত গামা উৎসই ৰেডিঅ'গ্ৰাফীৰে ৱেল্ড পৰীক্ষা কৰে, আৰু ট্ৰেছাৰে মাটিৰ তলৰ পাইপলাইনত লিক বিচাৰে।"
+      ],
+      [
+        "h3",
+        "ড'জ, আৰু কিমান নিৰাপদ"
+      ],
+      [
+        "p",
+        "শোষিত ড'জ গ্ৰে এককত আৰু সমতুল্য ড'জ চিভাৰ্ট এককত মাপা হয়, যিয়ে বিভিন্ন বিকিৰণৰ ক্ষতিকাৰকতা হিচাপত লয়। প্ৰাকৃতিক পটভূমি বিকিৰণে বছৰত প্ৰায় দুইৰ পৰা তিনি মিলিচিভাৰ্ট দিয়ে। বুকুৰ এক্স-ৰে প্ৰায় এক দশমাংশ মিলিচিভাৰ্ট, চিটি স্কেন কেই মিলিচিভাৰ্ট, আৰু বিকিৰণ কৰ্মীৰ বছৰেকীয়া সীমা পাঁচ বছৰৰ গড়ত বিশ মিলিচিভাৰ্ট। এই সংখ্যাবোৰেই সংজ্ঞাতকৈ মাত্ৰাৰ ক্ৰম সোধা প্ৰশ্নত কামত আহে।"
+      ],
+      [
+        "h3",
+        "ভাৰতত পাৰমাণৱিক শক্তি"
+      ],
+      [
+        "p",
+        "ভাৰতত তাপৰাপুৰ (মহাৰাষ্ট্ৰ), ৰাৱাটভাটা (ৰাজস্থান), কল্পকাম (তামিলনাডু), নাৰোৰা (উত্তৰ প্ৰদেশ), কাক্ৰাপাৰ (গুজৰাট), কাইগা (কৰ্ণাটক) আৰু কুডানকুলাম (তামিলনাডু) আদিত পাৰমাণৱিক শক্তি কেন্দ্ৰ আছে। ভাৰতৰ তিনিস্তৰীয় কাৰ্যসূচীত প্ৰাকৃতিক ইউৰেনিয়াম, প্লুট'নিয়াম আৰু থ'ৰিয়াম ব্যৱহাৰৰ পৰিকল্পনা আছে, কাৰণ দেশত থ'ৰিয়ামৰ ভাণ্ডাৰ বেছি।"
+      ],
+      [
+        "p",
+        "প্ৰশ্নকাকতত সাধাৰণতে সোধা হয় পাৰমাণৱিক শক্তি কেন্দ্ৰই কি উৎপন্ন কৰে, কোনটো ইন্ধন ব্যৱহৃত হয়, আৰু মডাৰেটৰৰ কাম কি। উত্তৰ: বিদ্যুৎ, ইউৰেনিয়াম-235, আৰু নিউট্ৰন মন্থৰ কৰি শৃংখল প্ৰতিক্ৰিয়া নিয়ন্ত্ৰণ কৰা। এই তিনি উত্তৰেই এই অংশৰ বেছিভাগ প্ৰশ্ন সামৰি লয়।"
+      ],
+      [
+        "p",
+        "আন এটা পাৰ্থক্য পৰীক্ষা হললৈ লৈ যোৱা ভাল। তেজস্ক্রিয়তা কেন্দ্ৰৰ ধৰ্ম আৰু যিকোনো ৰাসায়নিক পৰিৱৰ্তনে ইয়াক প্ৰভাৱিত নকৰে, কাৰণ ৰাসায়নিক প্ৰতিক্ৰিয়াত কেৱল বাহিৰৰ ইলেকট্ৰন জড়িত হয়। সেয়ে তেজস্ক্রিয় নমুনা পুৰি, গলাই বা আন পদাৰ্থৰ লগত মিলাই নিৰাপদ কৰিব নোৱাৰি, আৰু একমাত্ৰ ব্যৱহাৰিক নিয়ন্ত্ৰণ হ'ল সময়, দূৰত্ব আৰু ঢাল।"
+      ],
+      [
+        "p",
+        "ক্ষয়ৰ হাৰ কেন্দ্ৰ কিমান আছে তাৰ ওপৰত নিৰ্ভৰ নকৰে, কেৱল কেন্দ্ৰৰ প্ৰকাৰৰ ওপৰত নিৰ্ভৰ কৰে। সেয়ে অৰ্ধায়ু এটা নিৰ্দিষ্ট ধ্ৰুৱক, আৰু ইয়াক উষ্ণতা বা চাপে সলনি কৰিব নোৱাৰে। এই কথাটোৱেই তেজস্ক্রিয়তাৰ প্ৰশ্নত আটাইতকৈ বেছি সোধা ধাৰণা।"
+      ],
+      [
+        "p",
+        "তিনিটা বিভ্ৰমেই প্ৰধান। পাৰমাণৱিক সংখ্যা আৰু ভৰ সংখ্যা মিলাই পেলোৱা, সেয়ে আইছ'টোপক বেলেগ মৌল বুলি কোৱা। বেঁকা হোৱাৰ প্ৰশ্নত আলফা আৰু বিটা ওলোটাকৈ লোৱা, সাধাৰণতে আলফা ধনাত্মক সেয়া পাহৰি যোৱাৰ বাবে। আৰু বিভাজন আৰু সংযোজন মিলাই পেলোৱা, যাৰ ফলত সূৰ্য আৰু ৰিয়েক্টৰৰ প্ৰতিটো উত্তৰ ওলোটা হয়।"
+      ],
+      [
+        "ul",
+        [
+          "পাৰমাণৱিক সংখ্যা = প্ৰ'টন; ভৰ সংখ্যা = প্ৰ'টন + নিউট্ৰন।",
+          "আলফা: হিলিয়াম কেন্দ্ৰ, ধনাত্মক, কাগজে ৰোধে। বিটা: ইলেকট্ৰন, ঋণাত্মক, এলুমিনিয়ামে ৰোধে। গামা: আধান নাই, সীহে ৰোধে।",
+          "অৰ্ধায়ু: n অৰ্ধায়ুৰ পিছত বাকী অংশ 1/2 ৰ n ঘাত।",
+          "ৰিয়েক্টৰত বিভাজনে গধুৰ কেন্দ্ৰ ভাগে; সূৰ্যত সংযোজনে পাতল কেন্দ্ৰ মিলায়।",
+          "E = mc বৰ্গই ভৰ ঘাটিক ওলোৱা শক্তিলৈ ৰূপান্তৰ কৰে।"
+        ]
+      ],
+      [
+        "h3",
+        "পাৰমাণৱিক শক্তিৰ প্ৰতি থকা ভয় আৰু সুবিধা"
+      ],
+      [
+        "p",
+        "পাৰমাণৱিক শক্তিৰ সুবিধা হ'ল ইয়াৰ পৰা প্ৰদূষণকাৰী গেছ ওলোৱা নাই আৰু অতি কম ইন্ধনত অতি বেছি শক্তি পোৱা যায়। অসুবিধা হ'ল বৰ্জিত পদাৰ্থৰ ব্যৱস্থাপনা, দুৰ্ঘটনাৰ সম্ভাৱনা আৰু উচ্চ খৰচ। প্ৰশ্নকাকতত সাধাৰণতে সোধা হয় কোনটো শক্তিৰ উৎস নৱীকৰণযোগ্য নহয়, বা কোনটোৱে গ্ৰীণহাউচ গেছ নিদিয়ে - দুয়োটাৰে উত্তৰ পাৰমাণৱিক শক্তি।"
+      ],
+      [
+        "p",
+        "তেজস্ক্রিয় পদাৰ্থৰ পৰা সুৰক্ষাৰ মূল তিনি নীতি: ঢাল ব্যৱহাৰ কৰা, দূৰত্ব বঢ়োৱা, আৰু সংস্পৰ্শৰ সময় কমোৱা। সীহৰ ঢালে গামা ৰশ্মি ৰোধ কৰে, কাগজে আলফা, আৰু এলুমিনিয়ামে বিটা। এই ক্ৰমটো মনত ৰখা সহজ: যিমান শক্তিশালী বিকিৰণ, সিমান গধুৰ ঢাল লাগে।"
+      ],
+      [
+        "tip",
+        "অৰ্ধায়ুৰ যিকোনো প্ৰশ্নত আগতে দিয়া সময়ত কিমান অৰ্ধায়ু সোমায় গণনা কৰা, তাৰ পিছত সিমানবাৰ আধা কৰা। হৰণৰ ভিতৰতে আধা কৰিবলৈ নাযাবা; গণনাটো আগতে।"
+      ]
+    ]
   }
 }
