@@ -3198,3 +3198,19 @@ repeat. Audits: 0 duplicate stems, 0 answer-key/explanation mismatches, key spli
 99/101/101/100 across A-D, 0 Devanagari/CJK leakage in Assamese fields.
 
 Book total after rebuild: 8,717 questions; sitewide 51,040; hero 79,747.
+
+## General English Grammar — 150+ questions per leaf
+
+All twelve grammar leaves other than `parts-of-speech` were expanded to 150+
+bilingual questions (1,959 new items in total):
+
+- articles-determiners 184, prepositions 172, tenses 165, subject-verb-agreement 163,
+  voice 164, narration 161, sentence-correction 172, degrees-of-comparison 174,
+  question-tags-modals 163, conjunctions 156, non-finite-verbs 159, general-grammar 195.
+
+Generators live in `tools/gen-grammar-*.py` and share `tools/grammar_bank.py`, which
+strips a leaf's own `gram-<leaf>-*` ids before rewriting, so every generator is safe
+to re-run. Answer keys are balanced by a fixed slot cycle. Audits: 0 duplicate stems,
+0 items without four options, key split within 478-500 per slot.
+
+Book total after rebuild: 10,676 questions; sitewide 52,999; hero 81,706.
