@@ -3561,3 +3561,37 @@ Two legacy counting answers in the bank were wrong under the standard
 sweep converted stray ASCII digits in Assamese fields to Assamese numerals.
 
 Book total 19,974; sitewide 62,297; hero 91,004.
+
+## Non-Verbal Reasoning — final two topics (2026-11-21)
+
+Visual Memory and General Non-Verbal Reasoning now carry 80+ generated
+questions each:
+
+| leaf | questions |
+| --- | --- |
+| visual-memory | 87 |
+| general-non-verbal-reasoning | 105 |
+
+Generators: `tools/gen-nv-visual.py`, `tools/gen-nv-general.py`.
+
+Every answer in these two leaves is derived:
+
+- Lines of symmetry and rotational order come from the polygon's side count.
+- Cube-net validity comes from `folds()`, a fold simulation that assigns a
+  3D normal to each square and rejects nets where two squares share a face.
+  Reuse it instead of trusting a hand list: a 4-in-a-row with two flaps on
+  the same side is NOT a cube net, and eyeballing gets this wrong.
+- "Draw in one stroke" comes from `odd_vertices()`, which splits each drawn
+  segment at every intersection point, builds the graph and counts odd
+  degrees. Two or fewer odd vertices means one stroke is enough.
+  Note `G.connected(a, a, ...)` returns False, so use `G._on(p, a, b)` when
+  testing whether a point lies on a segment.
+- Mirror, water and rotation options are generated from the same transform
+  functions as the answer, so a distractor is never accidentally correct.
+
+Gotchas hit here: a numeric option list built from `range(1, 7)` minus two
+values gives five options, not four — slice it. And three shaded options
+must use three different base shapes, otherwise the four options are not
+distinct.
+
+Book total 20,137; sitewide 62,460; hero 91,167.
