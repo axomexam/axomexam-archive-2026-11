@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:15:48.040Z",
+  "generatedAt": "2026-11-21T12:20:20.431Z",
   "topicCounts": {
     "gk/assam-literature/ancient-pre-vaishnavite-sec/charyapada-folk-songs": 37,
     "gk/assam-literature/ancient-pre-vaishnavite-sec/early-poets-translations": 37,
@@ -824,11 +824,11 @@
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/statement-course-of-action": 80,
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/cause-effect": 80,
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/assertion-reason": 80,
-    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/decision-making-data-sufficiency": 0,
-    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/sitting-arrangement": 0,
-    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/puzzles": 0,
-    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/inequality": 0,
-    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning": 686,
+    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/decision-making-data-sufficiency": 80,
+    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/sitting-arrangement": 88,
+    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/puzzles": 88,
+    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/inequality": 83,
+    "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning": 1025,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/figure-series": 5,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/figure-analogy-classification": 8,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/mirror-water-image": 8,
@@ -840,7 +840,7 @@
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/visual-memory": 6,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/general-non-verbal-reasoning": 23,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning": 80,
-    "dhs-dme-technical/logical-reasoning": 2079,
+    "dhs-dme-technical/logical-reasoning": 2418,
     "dhs-dme/general-knowledge/assam-history": 80,
     "dhs-dme/general-knowledge/geography": 80,
     "dhs-dme/general-knowledge/art-culture": 80,
@@ -964,7 +964,7 @@
     "rrb-ntpc/reasoning/non-verbal-reasoning": 490,
     "rrb-ntpc/reasoning": 2351
   },
-  "examsTotal": 60701,
+  "examsTotal": 61040,
   "mockTotal": 4926,
   "topicsTotal": 883
 }

@@ -3433,3 +3433,20 @@ bank. Cause-effect has 30 cause→effect pairs (both orders) plus 10
 common-cause and 10 independent pairs.
 
 Book total 18,378; sitewide 60,701; hero 89,408.
+
+## Analytical & Critical Reasoning — final four topics (very hard)
+
+Decision making & data sufficiency, seating arrangement, puzzles and
+inequality now hold 80+ very hard questions each:
+
+- decision-making-data-sufficiency 80, sitting-arrangement 88,
+  puzzles 88, inequality 83.
+
+Generators: `tools/gen-ar-ds.py` (four sufficiency patterns),
+`gen-ar-seating.py` and `gen-ar-puzzles.py` (brute-force uniqueness
+check over all permutations before accepting a clue set),
+`gen-ar-inequality.py` (Floyd–Warshall closure with strict/non-strict
+edges to test each conclusion).
+
+Book total 18,717; sitewide 61,040; hero 89,747. Analytical section
+now complete (12/12 topics at 80+).
