@@ -8602,5 +8602,267 @@
         "ভাহি থকা প্ৰতিটো প্ৰশ্নত কোনটো ঘনত্ব ব্যৱহাৰ কৰিছা সেয়া সূত্ৰৰ কাষত লিখা। জুলীয়া পদাৰ্থৰ ঘনত্ব হ'লে উত্তৰ ঊৰ্ধ্বচাপ; বস্তুৰ ঘনত্ব হ'লে তুমি আন প্ৰশ্নৰ উত্তৰ দি আছা।"
       ]
     ]
+  },
+  "electricity-magnetism": {
+    "en": [
+      [
+        "h3",
+        "What the electricity block asks"
+      ],
+      [
+        "p",
+        "This is the largest physics topic in the book, and it splits cleanly into two halves that the paper treats separately. The first half is current electricity: Ohm's law, series and parallel combinations, power, the heating effect and the domestic circuit. The second half is magnetism: the field around a wire, the electromagnet, the motor, electromagnetic induction and the generator. Most questions come from the first half, but the second half supplies the one or two questions that separate a prepared candidate from a lucky one."
+      ],
+      [
+        "p",
+        "The arithmetic in the first half is short and repetitive: three formulas cover almost every numerical question. The second half is almost entirely descriptive, and the answers turn on knowing which rule applies to which device. Learn the four rules by name and the descriptive questions stop being guesswork."
+      ],
+      [
+        "h3",
+        "Charge, current, potential difference and resistance"
+      ],
+      [
+        "p",
+        "Current is the rate of flow of charge, I = Q/t, measured in amperes, where one ampere is one coulomb per second. Potential difference is the work done per unit charge, V = W/Q, measured in volts. Resistance is the opposition to current, R = V/I, measured in ohms. Ohm's law states that the current through a conductor is directly proportional to the potential difference across it, provided the temperature stays constant. That condition is part of the law, and a question that heats a filament is testing whether you remember it."
+      ],
+      [
+        "p",
+        "The resistance of a wire depends on its length, its area of cross-section, its material and its temperature. It rises with length, falls with thickness, and rises with temperature for a metal. Nichrome is used in heaters because it has high resistance and does not oxidise at high temperature; copper is used in wiring because it has low resistance. A wire of double length has double resistance; a wire of double diameter has a quarter of the resistance, because area depends on the square of the diameter."
+      ],
+      [
+        "h3",
+        "Series and parallel, and why houses are wired in parallel"
+      ],
+      [
+        "p",
+        "In series the same current passes through every component, the potential differences add, and the equivalent resistance is the sum: R = R1 + R2 + R3. In parallel the potential difference is the same across every branch, the currents add, and the reciprocals add: 1/R = 1/R1 + 1/R2 + 1/R3. Two resistors in parallel always give a value smaller than the smaller of the two, which is the fastest check on an answer."
+      ],
+      [
+        "p",
+        "Domestic wiring is parallel for three reasons. Every appliance gets the full supply voltage, so a lamp and a heater can work together. Each appliance can be switched on or off independently, and one failure does not break the circuit. And each appliance draws only the current it needs, so the total current is the sum of the individual currents."
+      ],
+      [
+        "h3",
+        "Power, the heating effect and the electricity bill"
+      ],
+      [
+        "p",
+        "Electrical power is P = V I, which combines with Ohm's law to give P = I squared R and P = V squared / R. Energy is power multiplied by time, and the unit used on a bill is the kilowatt hour: one unit is one kilowatt used for one hour, which is 3.6 million joules. A 1,000 W heater running for one hour consumes one unit."
+      ],
+      [
+        "p",
+        "The heating effect of current is the basis of the electric iron, the heater, the kettle, the incandescent bulb and the fuse. A fuse is a short length of wire with a low melting point placed in series with the circuit; when the current exceeds the rating, the fuse melts and breaks the circuit. An MCB does the same job with a switch that trips instead of melting, which is why it can be reset."
+      ],
+      [
+        "p",
+        "Two faults are asked by name. A short circuit happens when the live and neutral wires touch directly, so the resistance falls to nearly zero and the current rises sharply. Overloading happens when too many appliances draw current through a circuit rated for less. Both overheat the wiring, and both are the reason a fuse or an MCB is fitted."
+      ],
+      [
+        "h3",
+        "The magnetic effect, and the four rules"
+      ],
+      [
+        "p",
+        "A current-carrying conductor produces a magnetic field around it; Oersted discovered this when a compass needle moved near a wire. The field lines are concentric circles around a straight wire, and their direction is given by the right-hand thumb rule: point the thumb along the current and the curled fingers show the field. Winding a wire into a solenoid concentrates the field along the axis, and inserting a soft iron core turns it into an electromagnet, whose strength rises with current, with the number of turns and with the closeness of the winding."
+      ],
+      [
+        "p",
+        "A current-carrying conductor placed in a magnetic field experiences a force. Fleming's left-hand rule gives its direction: the forefinger points along the field, the middle finger along the current, and the thumb along the force. That force is what turns the coil of an electric motor, and it is also the principle of the loudspeaker and the moving-coil galvanometer."
+      ],
+      [
+        "p",
+        "Electromagnetic induction is the reverse: moving a conductor in a magnetic field, or changing the field through a coil, produces a potential difference. Faraday discovered it, and Fleming's right-hand rule gives the direction of the induced current. A generator uses this to convert mechanical energy into electrical energy, and a transformer uses the same changing flux to step voltage up or down."
+      ],
+      [
+        "h3",
+        "AC and DC, and the domestic circuit"
+      ],
+      [
+        "p",
+        "Direct current flows in one direction; a cell gives direct current. Alternating current reverses direction periodically, and in India it reverses 50 times a second, so the supply is described as 220 V, 50 Hz. A DC generator uses a split ring commutator, while an AC generator uses slip rings. The mains supply in a house is alternating because it can be transformed to high voltage for transmission with low losses and transformed back down for use."
+      ],
+      [
+        "p",
+        "The domestic circuit has three wires. Live is red or brown, neutral is black or blue, and earth is green or yellow-green. The earth wire is connected to a metal plate buried in the ground and provides a low-resistance path, so that a fault current flows to earth and trips the fuse instead of passing through a person. Switches and fuses are always placed in the live wire, never in the neutral, so that an appliance is genuinely dead when switched off."
+      ],
+      [
+        "h3",
+        "Two questions worked the short way"
+      ],
+      [
+        "p",
+        "A 6 ohm and a 3 ohm resistor in series across a 9 V supply. The total resistance is 9 ohm, the current is 1 A, and the potential differences are 6 V and 3 V. In parallel, the same pair has 1/R = 1/6 + 1/3 = 1/2, so R is 2 ohm, the current from the supply is 4.5 A, and the current splits as 1.5 A through the 6 ohm and 3 A through the 3 ohm."
+      ],
+      [
+        "p",
+        "A 2,000 W geyser runs for 30 minutes a day for 30 days. The energy is 2 x 0.5 x 30 = 30 kilowatt hours, or 30 units. At five rupees a unit the bill is 150 rupees. The whole question is the conversion of minutes to hours, and that is exactly where the marks are usually lost."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "p",
+        "Four mistakes are common. Ohm's law is applied to a filament lamp without noticing that its temperature changes, so the resistance is not constant. The parallel formula is added directly instead of as reciprocals. The unit of the electricity bill is taken as the joule instead of the kilowatt hour. And the left-hand rule is used for induction or the right-hand rule for a motor, which reverses the answer."
+      ],
+      [
+        "ul",
+        [
+          "V = I R; P = V I = I squared R = V squared / R; energy in kWh = kW x hours.",
+          "Series: same current, R = R1 + R2. Parallel: same voltage, 1/R = 1/R1 + 1/R2.",
+          "Fuse and switch go in the live wire; earth wire is a safety path to the ground.",
+          "Motor: Fleming's left-hand rule. Generator and induction: Fleming's right-hand rule.",
+          "Mains in India: 220 V, 50 Hz alternating current."
+        ]
+      ],
+      [
+        "tip",
+        "For every circuit question, mark the known quantities on a small sketch before choosing a formula. For every rule question, write the device first and the rule second; that order prevents the left and right rules from swapping."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "বিদ্যুৎৰ এই অংশত কি সোধা হয়"
+      ],
+      [
+        "p",
+        "এইটো কিতাপখনৰ পদাৰ্থ বিজ্ঞানৰ আটাইতকৈ ডাঙৰ অধ্যায়, আৰু ই দুটা অংশত স্পষ্টভাৱে বিভক্ত যাক প্ৰশ্নকাকতে পৃথকে সোধে। প্ৰথম অংশ বিদ্যুৎ প্ৰবাহ: ওমৰ সূত্ৰ, শ্ৰেণী আৰু সমান্তৰাল সংযোগ, ক্ষমতা, তাপীয় ফল আৰু ঘৰুৱা বৰ্তনী। দ্বিতীয় অংশ চুম্বকত্ব: তাৰৰ চাৰিওফালৰ ক্ষেত্ৰ, বিদ্যুৎচুম্বক, মটৰ, বিদ্যুৎচুম্বকীয় আৱেশ আৰু জেনেৰেটৰ। বেছিভাগ প্ৰশ্ন প্ৰথম অংশৰ পৰা আহে, কিন্তু দ্বিতীয় অংশই সেই এটা-দুটা প্ৰশ্ন দিয়ে যিয়ে প্ৰস্তুত পৰীক্ষাৰ্থীক ভাগ্যৱান পৰীক্ষাৰ্থীৰ পৰা পৃথক কৰে।"
+      ],
+      [
+        "p",
+        "প্ৰথম অংশৰ গণনা চুটি আৰু পুনৰাবৃত্তিমূলক: তিনি সূত্ৰই প্ৰায় প্ৰতিটো সংখ্যাত্মক প্ৰশ্ন সামৰি লয়। দ্বিতীয় অংশ প্ৰায় সম্পূৰ্ণ বৰ্ণনামূলক, আৰু উত্তৰ নিৰ্ভৰ কৰে কোন যন্ত্ৰত কোন নিয়ম লাগে সেইটো জনাৰ ওপৰত। চাৰিটা নিয়ম নামেৰে শিকি ল'লে বৰ্ণনামূলক প্ৰশ্ন আৰু অনুমান কৰিব নালাগে।"
+      ],
+      [
+        "h3",
+        "আধান, প্ৰবাহ, বিভৱ পাৰ্থক্য আৰু ৰোধ"
+      ],
+      [
+        "p",
+        "প্ৰবাহ হ'ল আধানৰ বৈ যোৱাৰ হাৰ, I = Q/t, একক এম্পিয়াৰ, আৰু এক এম্পিয়াৰ = এক কুলম্ব প্ৰতি ছেকেণ্ড। বিভৱ পাৰ্থক্য হ'ল প্ৰতি একক আধানত কৰা কাম, V = W/Q, একক ভ'ল্ট। ৰোধ হ'ল প্ৰবাহৰ প্ৰতিৰোধ, R = V/I, একক ওম। ওমৰ সূত্ৰ অনুসৰি পৰিবাহী এডালৰ মাজেৰে যোৱা প্ৰবাহ তাৰ দুই মূৰৰ বিভৱ পাৰ্থক্যৰ সমানুপাতিক, যদি উষ্ণতা স্থিৰ থাকে। এই চৰ্তটো সূত্ৰৰ অংশ, আৰু ফিলামেণ্ট গৰম কৰা প্ৰশ্নই এই কথাটো মনত আছে নে নাই পৰীক্ষা কৰে।"
+      ],
+      [
+        "p",
+        "তাৰ এডালৰ ৰোধ নিৰ্ভৰ কৰে দৈৰ্ঘ্য, প্ৰস্থচ্ছেদৰ কালি, পদাৰ্থ আৰু উষ্ণতাৰ ওপৰত। দৈৰ্ঘ্য বঢ়ালে ৰোধ বাঢ়ে, ডাঠ বঢ়ালে ৰোধ কমে, আৰু ধাতুৰ ক্ষেত্ৰত উষ্ণতা বঢ়ালে ৰোধ বাঢ়ে। নাইক্ৰ'ম হিটাৰত ব্যৱহাৰ কৰা হয় কাৰণ ইয়াৰ ৰোধ বেছি আৰু উচ্চ উষ্ণতাত ই জাৰিত নহয়; তাৰত তাম ব্যৱহাৰ কৰা হয় কাৰণ ইয়াৰ ৰোধ কম। দুগুণ দৈৰ্ঘ্যৰ তাৰৰ ৰোধ দুগুণ; দুগুণ ব্যাসৰ তাৰৰ ৰোধ এক চতুৰ্থাংশ, কাৰণ কালি ব্যাসৰ বৰ্গৰ ওপৰত নিৰ্ভৰ কৰে।"
+      ],
+      [
+        "h3",
+        "শ্ৰেণী আৰু সমান্তৰাল, আৰু ঘৰ কিয় সমান্তৰালত তাঁৰ দিয়া হয়"
+      ],
+      [
+        "p",
+        "শ্ৰেণীত প্ৰতিটো উপাংশেদি একেই প্ৰবাহ যায়, বিভৱ পাৰ্থক্যবোৰ যোগ হয়, আৰু সমতুল্য ৰোধ যোগফল: R = R1 + R2 + R3। সমান্তৰালত প্ৰতিটো শাখাত বিভৱ পাৰ্থক্য একেই, প্ৰবাহবোৰ যোগ হয়, আৰু প্ৰতিলোমবোৰ যোগ হয়: 1/R = 1/R1 + 1/R2 + 1/R3। সমান্তৰালত দুটা ৰোধৰ ফল সদায় সৰুটোতকৈও সৰু হয়, আৰু এইটোৱেই উত্তৰৰ আটাইতকৈ দ্ৰুত পৰীক্ষা।"
+      ],
+      [
+        "p",
+        "ঘৰুৱা তাঁৰ সমান্তৰালত দিয়া হয় তিনি কাৰণত। প্ৰতিটো সঁজুলিয়ে সম্পূৰ্ণ যোগান বিভৱ পায়, সেয়ে বালাম আৰু হিটাৰ একেলগে চলিব পাৰে। প্ৰতিটো সঁজুলি পৃথকে অন-অফ কৰিব পাৰি, আৰু এটা নষ্ট হ'লেও বৰ্তনী নাভাঙে। আৰু প্ৰতিটো সঁজুলিয়ে যিমান প্ৰবাহ লাগে সিমানহে টানে, সেয়ে মুঠ প্ৰবাহ হ'ল পৃথক প্ৰবাহবোৰৰ যোগফল।"
+      ],
+      [
+        "h3",
+        "ক্ষমতা, তাপীয় ফল আৰু বিদ্যুৎ বিল"
+      ],
+      [
+        "p",
+        "বিদ্যুৎ ক্ষমতা P = V I, যি ওমৰ সূত্ৰৰ সৈতে মিলি P = I বৰ্গ R আৰু P = V বৰ্গ / R দিয়ে। শক্তি = ক্ষমতা x সময়, আৰু বিলত ব্যৱহৃত একক হ'ল কিল'ৱাট ঘণ্টা: এক ইউনিট = এক কিল'ৱাট এক ঘণ্টালৈ, অৰ্থাৎ 36 লাখ জুল। 1,000 ৱাটৰ হিটাৰ এক ঘণ্টা চলিলে এক ইউনিট খৰচ হয়।"
+      ],
+      [
+        "p",
+        "প্ৰবাহৰ তাপীয় ফলেই ইস্ত্ৰি, হিটাৰ, কেটলি, বালাম আৰু ফিউজৰ ভিত্তি। ফিউজ হ'ল কম গলনাংকৰ চুটি তাৰ, যি বৰ্তনীৰ সৈতে শ্ৰেণীত থাকে; প্ৰবাহ নিৰ্ধাৰিত সীমা পাৰ হ'লে ফিউজ গলি বৰ্তনী ভাঙে। MCB য়ে একেই কাম এটা সুইচেৰে কৰে যি গলি নাযায়, বৰং ট্ৰিপ হয়, সেয়ে ইয়াক পুনৰ চালু কৰিব পাৰি।"
+      ],
+      [
+        "p",
+        "দুটা দুৰ্গতি নামেৰে সোধা হয়। চৰ্ট চাৰ্কিট হয় যেতিয়া লাইভ আৰু নিউট্ৰেল তাৰ পোনপটীয়াকৈ লাগি যায়, তেতিয়া ৰোধ প্ৰায় শূন্যলৈ নামে আৰু প্ৰবাহ তীব্ৰভাৱে বাঢ়ে। অ'ভাৰল'ডিং হয় যেতিয়া কম ৰেটিঙৰ বৰ্তনীত বেছি সঁজুলি লগাই দিয়া হয়। দুয়োটাই তাঁৰ গৰম কৰে, আৰু দুয়োটাৰ বাবেই ফিউজ বা MCB লগোৱা হয়।"
+      ],
+      [
+        "h3",
+        "চুম্বকীয় ফল আৰু চাৰিটা নিয়ম"
+      ],
+      [
+        "p",
+        "প্ৰবাহ চলোৱা পৰিবাহী এডালৰ চাৰিওফালে চুম্বক ক্ষেত্ৰৰ সৃষ্টি হয়; অৰ্ষ্টেডে এইটো আৱিষ্কাৰ কৰিছিল যেতিয়া তাৰৰ কাষত কম্পাছৰ কাঁ‌ড়ি লৰিছিল। সৰল তাৰৰ চাৰিওফালে ক্ষেত্ৰৰেখা এককেন্দ্ৰীয় বৃত্ত, আৰু দিশ সোঁহতীয়া বুঢ়া আঙুলিৰ নিয়মে দিয়ে: বুঢ়া আঙুলি প্ৰবাহৰ দিশে ৰাখিলে বেঁকা আঙুলিবোৰে ক্ষেত্ৰৰ দিশ দেখুৱায়। তাৰক ছ'লিনয়ডত মেৰিয়ালে ক্ষেত্ৰ অক্ষৰ দিশে ঘন হয়, আৰু নৰম লোৰ ক'ৰ সুমুৱালে ই বিদ্যুৎচুম্বক হয়, যাৰ শক্তি প্ৰবাহ, পাকৰ সংখ্যা আৰু মেৰৰ ঘনিষ্ঠতাৰ লগে বাঢ়ে।"
+      ],
+      [
+        "p",
+        "চুম্বক ক্ষেত্ৰত ৰখা প্ৰবাহ চলোৱা পৰিবাহীয়ে বল অনুভৱ কৰে। ফ্লেমিঙৰ বাওঁহতীয়া নিয়মে ইয়াৰ দিশ দিয়ে: তৰ্জনীয়ে ক্ষেত্ৰৰ দিশে, মধ্য অঙুলিয়ে প্ৰবাহৰ দিশে, আৰু বুঢ়া আঙুলিয়ে বলৰ দিশে। এই বলেই বিদ্যুৎ মটৰৰ ক'ইল ঘূৰায়, আৰু এই নীতিয়েই লাউডস্পিকাৰ আৰু চলন্ত ক'ইল গেলভেন'মিটাৰৰ ভিত্তি।"
+      ],
+      [
+        "p",
+        "বিদ্যুৎচুম্বকীয় আৱেশ ইয়াৰ ওলোটা: চুম্বক ক্ষেত্ৰত পৰিবাহী লৰালে বা ক'ইলৰ মাজেৰে ক্ষেত্ৰ সলনি হ'লে বিভৱ পাৰ্থক্যৰ সৃষ্টি হয়। ফাৰাডে এইটো আৱিষ্কাৰ কৰিছিল, আৰু ফ্লেমিঙৰ সোঁহতীয়া নিয়মে আৱিষ্ট প্ৰবাহৰ দিশ দিয়ে। জেনেৰেটৰে এই নীতিত যান্ত্ৰিক শক্তিক বিদ্যুৎ শক্তিলৈ ৰূপান্তৰ কৰে, আৰু ট্ৰান্সফৰ্মাৰে একেই পৰিৱৰ্তনশীল ফ্লাক্সেৰে বিভৱ ওপৰলৈ বা তললৈ কৰে।"
+      ],
+      [
+        "h3",
+        "AC আৰু DC, আৰু ঘৰুৱা বৰ্তনী"
+      ],
+      [
+        "p",
+        "একমুখী প্ৰবাহ (DC) এটা দিশলৈ যায়; কোষে একমুখী প্ৰবাহ দিয়ে। পৰিৱৰ্তী প্ৰবাহ (AC) য়ে নিয়মীয়াকৈ দিশ সলায়, আৰু ভাৰতত ই ছেকেণ্ডত 50 বাৰ দিশ সলায়, সেয়ে যোগানক 220 ভ'ল্ট, 50 হাৰ্টজ বুলি কোৱা হয়। DC জেনেৰেটৰত স্প্লিট ৰিং কমিউটেটৰ থাকে, AC জেনেৰেটৰত স্লিপ ৰিং থাকে। ঘৰৰ মেইন পৰিৱৰ্তী প্ৰবাহ, কাৰণ ইয়াক উচ্চ বিভৱলৈ ৰূপান্তৰ কৰি কম ক্ষতিত সঞ্চাৰণ কৰিব পাৰি আৰু ব্যৱহাৰৰ সময়ত তললৈ অনা যায়।"
+      ],
+      [
+        "p",
+        "ঘৰুৱা বৰ্তনীত তিনি তাৰ থাকে। লাইভ ৰঙা বা বাদামী, নিউট্ৰেল ক'লা বা নীলা, আৰু আৰ্থ সেউজীয়া বা হালধীয়া-সেউজীয়া। আৰ্থ তাৰ মাটিত পোতা ধাতুৰ পাতলৈ সংযুক্ত থাকে আৰু কম ৰোধৰ পথ দিয়ে, যাতে দুৰ্গতিৰ সময়ত প্ৰবাহ মাটিলৈ যায় আৰু ফিউজ ট্ৰিপ কৰে, মানুহৰ মাজেদি নাযায়। সুইচ আৰু ফিউজ সদায় লাইভ তাৰত ৰখা হয়, নিউট্ৰেলত কেতিয়াও নহয়, যাতে বন্ধ কৰাৰ পিছত সঁজুলি সঁচাকৈয়ে মৃত হয়।"
+      ],
+      [
+        "h3",
+        "চুটিকৈ কৰা দুটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "9 ভ'ল্ট যোগানত 6 ওম আৰু 3 ওম ৰোধ শ্ৰেণীত। মুঠ ৰোধ 9 ওম, প্ৰবাহ 1 এম্পিয়াৰ, আৰু বিভৱ পাৰ্থক্য 6 ভ'ল্ট আৰু 3 ভ'ল্ট। সমান্তৰালত 1/R = 1/6 + 1/3 = 1/2, সেয়ে R = 2 ওম, যোগানৰ পৰা প্ৰবাহ 4.5 এম্পিয়াৰ, আৰু প্ৰবাহ 6 ওমেদি 1.5 এম্পিয়াৰ আৰু 3 ওমেদি 3 এম্পিয়াৰ হৈ ভাগ হয়।"
+      ],
+      [
+        "p",
+        "2,000 ৱাটৰ গিজাৰ দিনত 30 মিনিট, 30 দিন চলিলে শক্তি 2 x 0.5 x 30 = 30 কিল'ৱাট ঘণ্টা, অৰ্থাৎ 30 ইউনিট। ইউনিট পাঁচ টকা হ'লে বিল 150 টকা। গোটেই প্ৰশ্ন মিনিটক ঘণ্টালৈ ৰূপান্তৰ কৰাত, আৰু তাতেই নম্বৰ সাধাৰণতে যায়।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "p",
+        "চাৰিটা ভুল সাধাৰণ। ফিলামেণ্ট বালামত ওমৰ সূত্ৰ প্ৰয়োগ কৰা অথচ উষ্ণতা সলনি হোৱা দেখা নাই, সেয়ে ৰোধ স্থিৰ নহয়। সমান্তৰালৰ সূত্ৰত প্ৰতিলোম নলৈ পোনপটীয়াকৈ যোগ কৰা। বিদ্যুৎ বিলৰ একক জুল বুলি ধৰা, অথচ কিল'ৱাট ঘণ্টা। আৰু আৱেশত বাওঁহতীয়া নিয়ম বা মটৰত সোঁহতীয়া নিয়ম ব্যৱহাৰ কৰা, যাৰ ফলত উত্তৰ ওলোটা হয়।"
+      ],
+      [
+        "ul",
+        [
+          "V = I R; P = V I = I বৰ্গ R = V বৰ্গ / R; শক্তি kWh = kW x ঘণ্টা।",
+          "শ্ৰেণী: প্ৰবাহ একেই, R = R1 + R2। সমান্তৰাল: বিভৱ একেই, 1/R = 1/R1 + 1/R2।",
+          "ফিউজ আৰু সুইচ লাইভ তাৰত; আৰ্থ তাৰ মাটিলৈ নিৰাপত্তাৰ পথ।",
+          "মটৰ: ফ্লেমিঙৰ বাওঁহতীয়া নিয়ম। আৱেশ আৰু জেনেৰেটৰ: সোঁহতীয়া নিয়ম।",
+          "ভাৰতত মেইন: 220 ভ'ল্ট, 50 হাৰ্টজ পৰিৱৰ্তী প্ৰবাহ।"
+        ]
+      ],
+      [
+        "h3",
+        "চুম্বকত্বৰ কিছুমান অতিৰিক্ত তথ্য"
+      ],
+      [
+        "p",
+        "চুম্বকৰ দুই মেৰৰ মাজত চুম্বক বল আটাইতকৈ বেছি, আৰু সেই মেৰবোৰক উত্তৰ আৰু দক্ষিণ মেৰ বোলে। একেই মেৰ বিকৰ্ষণ কৰে, বিপৰীত মেৰ আকৰ্ষণ কৰে। চুম্বক ক্ষেত্ৰৰেখা উত্তৰ মেৰৰ পৰা ওলাই দক্ষিণ মেৰত সোমায়, আৰু কেতিয়াও কটাকটি নকৰে। চুম্বক ভাঙিলে প্ৰতিটো টুকুৰাৰ নিজাকৈ উত্তৰ আৰু দক্ষিণ মেৰ হয়, অৰ্থাৎ একক মেৰ কেতিয়াও নাপায়।"
+      ],
+      [
+        "p",
+        "পৃথিৱীয়ে এটা বিশাল চুম্বকৰ দৰে কাম কৰে, সেয়ে কম্পাছৰ কাঁ‌ড়ি সদায় উত্তৰ-দক্ষিণলৈ ৰয়। পৃথিৱীৰ চুম্বকীয় উত্তৰ মেৰ ভৌগোলিক উত্তৰ মেৰৰ ওচৰত কিন্তু একে ঠাইত নহয়, সেয়ে কম্পাছৰ কাঁ‌ড়ি আৰু প্ৰকৃত উত্তৰৰ মাজত সৰু কোণ থাকে, যাক চুম্বকীয় পতন বোলে।"
+      ],
+      [
+        "h3",
+        "ঘৰুৱা বিদ্যুৎ সুৰক্ষা আৰু সাৱধানতা"
+      ],
+      [
+        "p",
+        "ঘৰুৱা বৰ্তনীত ফিউজ বা MCB ৰ লগতে আৰ্থ লিকেজ চাৰ্কিট ব্ৰেকাৰ থাকে, যিয়ে লিকেজ প্ৰবাহ প্ৰায় 30 মিলিএম্পিয়াৰ পাৰ হ'লে বৰ্তনী ভাঙে। এই সীমাটো মানুহৰ শৰীৰৰ বাবে বিপদজনক প্ৰবাহতকৈ বহুত কম, সেয়ে ই দুৰ্ঘটনা ৰোধ কৰে। সঁজুলি ভিজা হাতেৰে ধৰা, খোলা তাৰত স্পৰ্শ কৰা বা এটা চকীত বেছি সঁজুলি লগোৱা - এইবোৰেই ঘৰুৱা দুৰ্ঘটনাৰ প্ৰধান কাৰণ।"
+      ],
+      [
+        "p",
+        "বিদ্যুৎ স্পৰ্শ কৰা মানুহক সহায় কৰাৰ আগতে মূল সুইচ বন্ধ কৰিব লাগে। কেৱল হাতেৰে টানি আঁতৰাবলৈ চেষ্টা কৰা বিপদজনক, কাৰণ প্ৰবাহ তেওঁৰ পৰা তোমালৈকেও যাব পাৰে। শুকান কাঠ বা ৰবৰৰ বস্তুৰে তেওঁক আঁতৰ কৰিব পাৰি, কিন্তু আগতে বিদ্যুৎ বন্ধ কৰাই শুদ্ধ উপায়।"
+      ],
+      [
+        "p",
+        "বিদ্যুৎ সঞ্চাৰণত উচ্চ বিভৱ ব্যৱহাৰ কৰা হয় কাৰণ একেই ক্ষমতাৰ বাবে বিভৱ দহগুণ কৰিলে প্ৰবাহ দহ ভাগৰ এভাগ হয়, আৰু তাৰৰ তাপীয় ক্ষতি প্ৰবাহৰ বৰ্গৰ সমানুপাতিক হোৱা বাবে এশ গুণ কমি যায়। এই কাৰণতে দূৰলৈ বিদ্যুৎ পঠিয়োৱাৰ আগতে ট্ৰান্সফৰ্মাৰে বিভৱ বঢ়াই দিয়া হয় আৰু ওচৰত নামাই দিয়া হয়।"
+      ],
+      [
+        "tip",
+        "বৰ্তনীৰ প্ৰতিটো প্ৰশ্নত সূত্ৰ বাছনিৰ আগতে সৰু আঁকত জনা ৰাশিবোৰ লিখি লোৱা। নিয়মৰ প্ৰশ্নত আগতে যন্ত্ৰৰ নাম, পিছত নিয়ম লিখা; এই ক্ৰমে বাওঁ আৰু সোঁহতীয়া নিয়ম ওলোটা হোৱাৰ পৰা ৰক্ষা কৰে।"
+      ]
+    ]
   }
 }
