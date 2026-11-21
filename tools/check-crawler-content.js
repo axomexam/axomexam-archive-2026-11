@@ -94,19 +94,23 @@ const shingles = (words, n = 8) => {
   return set;
 };
 
+/* Every /as/ page, not just this book: the twin must be a translation. The
+   metric is symmetric (Jaccard over 8-word shingles) because containment
+   scores a genuine translation as a near-copy — an Assamese page is always
+   "contained" in the bilingual English page. */
 const overlaps = [];
-for (const { file, html } of pages) {
-  const rel = path.relative(path.join(ROOT, "exams"), path.dirname(file));
-  const asFile = path.join(ROOT, "as", "exams", rel, "index.html");
-  if (!fs.existsSync(asFile)) continue;
-  const en = shingles(wordsOf(html));
+for (const asFile of walk(path.join(ROOT, "as"))) {
+  const rel = path.relative(path.join(ROOT, "as"), path.dirname(asFile));
+  const enFile = path.join(ROOT, rel, "index.html");
+  if (!fs.existsSync(enFile)) continue;
+  const en = shingles(wordsOf(fs.readFileSync(enFile, "utf8")));
   const as = shingles(wordsOf(fs.readFileSync(asFile, "utf8")));
-  if (!as.size) continue;
+  if (!as.size || !en.size) continue;
   let shared = 0;
   for (const s of as) if (en.has(s)) shared += 1;
-  const pct = (shared / as.size) * 100;
+  const pct = (shared / (en.size + as.size - shared)) * 100;
   overlaps.push({ pct, rel });
-  if (pct > 85) problems.push(`${rel}: Assamese twin is ${pct.toFixed(0)}% a copy of the English page`);
+  if (pct > 70) problems.push(`${rel}: Assamese twin is ${pct.toFixed(0)}% identical to the English page`);
 }
 overlaps.sort((a, b) => b.pct - a.pct);
 
@@ -121,7 +125,7 @@ console.log(`  static questions    : EN ${stats.enQuestions}, AS ${stats.asQuest
 console.log(`  AdSense loader      : EN ${stats.enLoader}/${stats.topics}, AS ${stats.asLoader}/${stats.topics}`);
 if (overlaps.length) {
   const mid = overlaps[Math.floor(overlaps.length / 2)].pct;
-  console.log(`  EN/AS overlap       : median ${mid.toFixed(0)}% | max ${overlaps[0].pct.toFixed(0)}% (${overlaps[0].rel})`);
+  console.log(`  EN/AS overlap       : median ${mid.toFixed(0)}% | max ${overlaps[0].pct.toFixed(0)}% (${overlaps[0].rel}) | pages ${overlaps.length}`);
 }
 console.log(`  problems            : ${problems.length}`);
 for (const p of problems.slice(0, 20)) console.log(`    - ${p}`);

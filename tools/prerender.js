@@ -1219,19 +1219,30 @@ function buildArticleReader(cat, sub) {
   const title = (data && loc(data.title)) || loc(sub.name);
   const desc = (data && loc(data.description)) || loc(sub.description);
   const items = data.questions || [];
+  /* Every article item carries the Assamese text too, so the English element
+     names it in data-axo-as: the /as/ twin swaps that in and drops the
+     separate Assamese copy. Without it the Assamese article page was the
+     English article page with an Assamese <head>. */
+  const attrAs = (v) =>
+    String(v == null ? "" : v)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
   const parts = items
     .map((it, i) => {
       const qEn = (it.q && it.q.en) || it.q;
       const qAs = it.q && it.q.as;
       const aEn = (it.a && it.a.en) || it.a;
       const aAs = it.a && it.a.as;
-      const exp = it.explanation;
+      const exp = it.explanation || {};
       return `<div class="article-part-block" style="margin-bottom:26px;">
-        <h2 style="font-size:1.2rem; font-weight:800; margin:0 0 10px 0;">${i + 1}. ${escapeHtml(String(qEn))}</h2>
-        ${qAs ? `<p style="color:#64748b;">${escapeHtml(String(qAs))}</p>` : ""}
-        <p style="line-height:1.8;">${escapeHtml(String(aEn))}</p>
-        ${aAs ? `<p style="color:#334155; line-height:1.8;">${escapeHtml(String(aAs))}</p>` : ""}
-        ${exp && exp.en ? `<div style="border-left:4px solid #2563eb; padding:10px 14px; margin-top:10px; background:#f8fafc;">${escapeHtml(exp.en)}</div>` : ""}
+        <h2${qAs ? ` data-axo-as="${attrAs(`${i + 1}. ${qAs}`)}"` : ""} style="font-size:1.2rem; font-weight:800; margin:0 0 10px 0;">${i + 1}. ${escapeHtml(String(qEn))}</h2>
+        ${qAs ? `<p class="article-q-as" lang="as" style="color:#64748b;">${escapeHtml(String(qAs))}</p>` : ""}
+        <p${aAs ? ` data-axo-as="${attrAs(aAs)}"` : ""} style="line-height:1.8;">${escapeHtml(String(aEn))}</p>
+        ${aAs ? `<p class="article-a-as" lang="as" style="color:#334155; line-height:1.8;">${escapeHtml(String(aAs))}</p>` : ""}
+        ${exp.en ? `<div${exp.as ? ` data-axo-as="${attrAs(exp.as)}"` : ""} style="border-left:4px solid #2563eb; padding:10px 14px; margin-top:10px; background:#f8fafc;">${escapeHtml(exp.en)}</div>` : ""}
+        ${exp.as ? `<div class="article-exp-as" lang="as" style="border-left:4px solid #2563eb; padding:10px 14px; margin-top:10px; background:#f8fafc;">${escapeHtml(exp.as)}</div>` : ""}
       </div>`;
     })
     .join("");

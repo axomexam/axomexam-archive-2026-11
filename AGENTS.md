@@ -3744,3 +3744,41 @@ languages, written for the paper (not a textbook summary).
 - 118 Assamese pages outside the book (ebooks at 100%, topic/gk, exam hubs,
   syllabus, legal pages) are still near-copies. They need Assamese body text;
   markup cannot fix them.
+- Duplicate twins are now gone site-wide. The last bullet above (118 near-copy
+  pages) is resolved; `check-crawler-content.js` reports `median 23% | max 69%`
+  over all 1487 Assamese pages, 0 above the 70% limit. What fixed each area:
+  - Metric: the old number was *containment* (Assamese shingles found in the
+    English page). A bilingual English page contains its own translation, so a
+    genuine translation scored 85%+. The audit now uses symmetric Jaccard over
+    8-word shingles and fails above 70%.
+  - Long-form prose (`/topic/…`, article pages): the page shipped the article
+    twice, `<article lang="en" data-axo-lang="en" class="info-panel">` next to
+    the Assamese one. `dropPairedEnglish()` in `build-as-twins.js` keeps the
+    Assamese article and drops the English copy (balanced per tag).
+  - E-books: `inject-ebook-bilingual.js` writes the whole book twice, in
+    `<div lang="en">` and `<div lang="as">`, because the reader is JS-driven.
+    `dropEbookEnglish()` keeps the Assamese `<div>` only — each book page went
+    from 100% identical to ~20%.
+  - Syllabus pages: `data/exams/<exam>/syllabus.json` already holds the whole
+    syllabus in Assamese (title, description, every chapter), but the pages were
+    generated from the English fields. `assameseOnly()` rebuilds the
+    `<article class="info-panel">` from the `as` fields, so no hand translation
+    is needed and new exams are covered automatically.
+  - Article reader pages (`/category/articles/<sub>/read/`): the English
+    elements now name their Assamese text in `data-axo-as` (emitted by
+    `prerender.js` and by `tools/mark-article-assamese.js`, which back-fills the
+    committed pages that carry AdSense/gtag and cannot be regenerated). The twin
+    swaps the attribute in and drops the `article-q-as` / `article-a-as` /
+    `article-exp-as` copies.
+  - Topic lists: `<li lang="en">Name — 25 questions. <span lang="as">নাম</span>`
+    is rebuilt as `<li lang="as">নাম — ২৫ টা প্ৰশ্ন</li>`; a `<p lang="en">` that
+    sits directly in front of its `<p lang="as">` twin is dropped.
+  - Utility pages (`/privacy/`, `/terms/`, `/disclaimer/`, `/submit/`,
+    `/download-app/`) had no Assamese body at all. `data/i18n/utility-as.js`
+    now carries it: `html` replaces the `<section class="section">` blocks,
+    `map` swaps exact text runs where the markup is too structural to rewrite.
+    Keep that file in step with the English pages when their text changes.
+- Never solve a duplicate by noindex or by hiding a language in CSS: the whole
+  point is that both URLs serve their own language. If an Assamese page has no
+  Assamese source text, translate it (add it to `data/i18n/`) rather than
+  dropping the page or blocking it.

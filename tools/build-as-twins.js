@@ -46,6 +46,7 @@ const { EXAM_BOOK_NAMES } = require("./lib/exam-book-names");
 const { stripAdsense } = require("./lib/strip-adsense");
 
 const ROOT = process.cwd();
+const UTILITY_BODY_AS = require(path.join(ROOT, "data", "i18n", "utility-as.js"));
 const BASE = "https://axomexam.in";
 
 const { translateFragment } = createTranslator(ROOT);
@@ -730,7 +731,7 @@ function assamesePanelFirst(html) {
    page stays bilingual, the Assamese page reads as an Assamese page.
    A block whose Assamese half is missing is kept in English rather than
    dropped — losing a question would be far worse than repeating one. */
-function assameseOnly(html, head) {
+function assameseOnly(html, head, rel) {
   const bn = (v) => String(v).replace(/\d/g, (d) => "০১২৩৪৫৬৭৮৯"[+d]);
 
   /* Direct children of an element, found by balanced scan. A lazy regex stops
@@ -855,6 +856,164 @@ function assameseOnly(html, head) {
   );
   html = html.replace(/<h2 style="font-size:1\.2rem; margin:34px 0 6px;">/, '<h2 style="font-size:1.25rem; margin:0 0 6px;">');
 
+  /* Long-form prose: topic, category and article pages ship the same article
+     twice, once per language, as sibling blocks that differ only in the lang
+     attributes. The Assamese copy is complete, so the English one goes. The
+     scan is balanced per tag; a regex would stop at the first nested closing
+     tag and leave half an article behind. */
+  const dropPairedEnglish = (source) => {
+    let out = source;
+    for (const tag of ["article", "section"]) {
+      const re = new RegExp(`<${tag}\\b[^>]*>|</${tag}>`, "g");
+      const blocks = [];
+      let depth = 0, startAt = -1, m;
+      while ((m = re.exec(out))) {
+        if (m[0][1] !== "/") {
+          if (depth === 0) startAt = m.index;
+          depth += 1;
+        } else {
+          depth -= 1;
+          if (depth === 0) blocks.push([startAt, m.index + m[0].length]);
+        }
+      }
+      const hasAs = blocks.some(([a, b]) => /<[a-z]+\b[^>]*\blang="as"/.test(out.slice(a, a + 400)));
+      if (!hasAs) continue;
+      for (let i = blocks.length - 1; i >= 0; i--) {
+        const [a, b] = blocks[i];
+        const openTag = out.slice(a, out.indexOf(">", a) + 1);
+        if (!/\blang="en"/.test(openTag)) continue;
+        if (/\bdata-axo-lang="en"/.test(openTag) || /\bclass="[^"]*info-panel/.test(openTag)) {
+          out = out.slice(0, a) + out.slice(b);
+        }
+      }
+    }
+    return out;
+  };
+  html = dropPairedEnglish(html);
+
+  /* E-book reader pages ship the whole book twice, once inside a
+     <div lang="en"> and once inside a <div lang="as">, because the reader is
+     JS-driven and the crawler copy has to carry both languages. The Assamese
+     copy is complete, so the English one goes; without this the Assamese book
+     page is byte-for-byte the English book page. */
+  const dropEbookEnglish = (source) => {
+    const start = source.indexOf('<div lang="en">');
+    if (start < 0) return source;
+    const openEnd = source.indexOf(">", start) + 1;
+    const re = /<div\b|<\/div>/g;
+    re.lastIndex = openEnd;
+    let depth = 1, end = -1, m;
+    while ((m = re.exec(source))) {
+      depth += m[0] === "<div" ? 1 : -1;
+      if (depth === 0) { end = m.index + 6; break; }
+    }
+    if (end < 0) return source;
+    const block = source.slice(start, end);
+    if (!/class="ebk-chapters"/.test(block)) return source;
+    if (!/<div lang="as">/.test(source)) return source;
+    return source.slice(0, start) + source.slice(end);
+  };
+  html = dropEbookEnglish(html);
+
+  /* Syllabus pages: data/exams/<exam>/syllabus.json already carries the whole
+     syllabus in Assamese (title, description, every chapter), but the page was
+     generated from the English fields and the twin copied it. Rebuild the
+     article from the Assamese fields so the Assamese URL serves Assamese. */
+  const syllabusArticle = (() => {
+    const m = /^exams\/([^/]+)\/syllabus$/.exec(rel || "");
+    if (!m) return "";
+    const file = path.join(ROOT, "data", "exams", m[1], "syllabus.json");
+    if (!fs.existsSync(file)) return "";
+    let data;
+    try { data = JSON.parse(fs.readFileSync(file, "utf8")); } catch { return ""; }
+    const e = (v) => String(v == null ? "" : v).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    const pick = (v) => (v && typeof v === "object" ? v.as || v.en || "" : v || "");
+    const blocks = [];
+    const title = pick(data.title);
+    const desc = pick(data.description);
+    if (title) blocks.push(`<h2>${e(title)}</h2>`);
+    if (desc) blocks.push(`<p>${e(desc)}</p>`);
+    for (const ch of data.chapters || []) {
+      const chTitle = pick(ch.title);
+      if (chTitle) blocks.push(`<h3>${e(chTitle)}</h3>`);
+      const body = String(pick(ch.content) || "");
+      let list = false;
+      for (const raw of body.split("\n")) {
+        const line = raw.trim();
+        if (!line) { if (list) { blocks.push("</ul>"); list = false; } continue; }
+        const bullet = /^[-•*]\s+(.*)$/.exec(line);
+        if (bullet) {
+          if (!list) { blocks.push("<ul>"); list = true; }
+          blocks.push(`<li>${e(bullet[1])}</li>`);
+        } else {
+          if (list) { blocks.push("</ul>"); list = false; }
+          blocks.push(/[:：]$/.test(line) ? `<p><strong>${e(line)}</strong></p>` : `<p>${e(line)}</p>`);
+        }
+      }
+      if (list) blocks.push("</ul>");
+    }
+    return blocks.join("\n");
+  })();
+  if (syllabusArticle) {
+    html = html.replace(/(<article class="info-panel"[^>]*>)([\s\S]*?)(<\/article>)/, (m, open, inner, close) => `${open}\n${syllabusArticle}\n      ${close}`);
+  }
+
+  /* Article reader pages name the Assamese text of each English element in
+     data-axo-as. Swap it in, then drop the separate Assamese copy that the
+     English page shows underneath. */
+  const unAttr = (v) => String(v)
+    .replace(/&quot;/g, '"').replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&amp;/g, "&");
+  html = html.replace(
+    /<(h2|h3|p|div)([^>]*?)\sdata-axo-as="([^"]*)"([^>]*)>([\s\S]*?)<\/\1>/g,
+    (m, tag, pre, val, post) => `<${tag}${pre}${post}>${unAttr(val)}</${tag}>`
+  );
+  for (const cls of ["article-q-as", "article-a-as", "article-exp-as"]) {
+    html = html.replace(new RegExp(`<(p|div)[^>]*class="${cls}"[^>]*>[\\s\\S]*?<\\/\\1>`, "g"), "");
+  }
+
+  /* Topic lists on category and hub pages read
+     "<li lang="en">Name — 25 questions. <span lang="as">অসমীয়া নাম</span></li>".
+     The Assamese name is already in the line, so rebuild the item in Assamese
+     instead of shipping the English run on the Assamese page. */
+  html = html.replace(
+    /<li lang="en">([^<]*?)<span lang="as">([^<]*)<\/span><\/li>/g,
+    (m, en, as) => {
+      const n = /(\d+)\s+questions?/i.exec(en);
+      return `<li lang="as">${as}${n ? ` — ${bn(n[1])} টা প্ৰশ্ন` : ""}</li>`;
+    }
+  );
+
+  /* A paragraph that sits directly in front of its Assamese twin is the same
+     sentence twice; keep the Assamese one. */
+  html = html.replace(/<p lang="en">([^<]*)<\/p>\s*(?=<p lang="as">)/g, "");
+
+  /* Utility pages (privacy, terms, disclaimer, submit, download-app) have no
+     Assamese body in the served HTML, so the twin would copy the English page
+     and serve it at an Assamese URL. data/i18n/utility-as.js carries the
+     Assamese copy for those five routes. */
+  const utility = UTILITY_BODY_AS[rel || ""];
+  if (utility) {
+    const mainStart = html.indexOf('<main id="app"');
+    const mainEnd = html.indexOf("</main>", mainStart);
+    if (mainStart > -1 && mainEnd > mainStart) {
+      let seg = html.slice(mainStart, mainEnd);
+      if (utility.html) {
+        const from = seg.indexOf('<section class="section');
+        const to = seg.lastIndexOf("</section>");
+        if (from > -1 && to > from) {
+          seg = seg.slice(0, from) +
+            '<section class="section axo-main-content" data-axo-main-content="1" style="padding-bottom:40px;">\n' +
+            utility.html + "\n    </section>" +
+            seg.slice(to + "</section>".length);
+        }
+      }
+      if (utility.map) {
+        for (const [en, as] of Object.entries(utility.map)) seg = seg.split(en).join(as);
+      }
+      html = html.slice(0, mainStart) + seg + html.slice(mainEnd);
+    }
+  }
+
   /* editorial credit: keep the Assamese panel */
   html = html.replace(
     /<div lang="en" data-axo-lang="en" class="info-panel"[\s\S]*?(?=<div lang="as" data-axo-lang="as" class="info-panel")/g,
@@ -947,7 +1106,7 @@ function buildTwin(enHTML, rel, head) {
      translation rather than a copy of its English twin. This runs before the
      reorder below: the generator emits English then Assamese, and the
      transform matches on that order. */
-  out = assameseOnly(out, head);
+  out = assameseOnly(out, head, rel);
 
   /* Lead with Assamese: put the Assamese half of every remaining bilingual
      pair first in the served HTML so a crawler reads Assamese first. */
