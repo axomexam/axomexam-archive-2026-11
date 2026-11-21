@@ -3420,3 +3420,16 @@ regions, with existential import so exam convention applies),
 (curated implicit vs non-implicit pairs, four option combinations).
 
 Book total 18,058; sitewide 60,381; hero 89,088.
+
+## Analytical & Critical Reasoning — next four topics (very hard)
+
+Statement & arguments, statement & courses of action, cause & effect
+and assertion & reason now hold 80 very hard questions each.
+
+Generators: `tools/gen-ar-arguments.py`, `gen-ar-coa.py`,
+`gen-ar-cause.py`, `gen-ar-assertion.py`. Each uses curated bilingual
+content with four answer combinations, so every option appears in the
+bank. Cause-effect has 30 cause→effect pairs (both orders) plus 10
+common-cause and 10 independent pairs.
+
+Book total 18,378; sitewide 60,701; hero 89,408.
