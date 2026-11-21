@@ -3650,7 +3650,7 @@ languages, written for the paper (not a textbook summary).
   every build.
 - Assamese needs roughly 1.25x the English word count for the same content,
   so write the Assamese draft long and trim.
-- Written so far (42): cube-dice, cell-biology, genetics-evolution,
+- Written so far (43): cube-dice, cell-biology, genetics-evolution,
   human-anatomy, human-physiology, nutrition-vitamins, diseases-health,
   plant-botany, general-chemistry, atomic-structure, periodic-table,
   chemical-bonding, acids-bases-salts, water-solutions, chemical-reactions,
@@ -3661,11 +3661,11 @@ languages, written for the paper (not a textbook summary).
   modern-nuclear-physics, general-physics, animal-zoology,
   general-biology, ecology-environment, microbiology-biotechnology,
   computer-fundamentals, hardware-software, cyber-security,
-  dbms-number-system, ms-office, networking-internet.
+  dbms-number-system, ms-office, networking-internet, fundamentals-nursing.
 - Chemistry leaf set is complete (12/12). Physics is complete (12/12).
   Biology is complete (11/11).
 - Computer-awareness is complete (6/6).
-- Remaining technical-science (12): nursing-paramedical 12.
+- Remaining technical-science (11): nursing-paramedical 11.
 - Remaining beyond technical-science: reasoning 35, GK 30, numerical 30,
   English 27.
 - Reliable throughput is two pages per assistant turn (~2,600 words each
