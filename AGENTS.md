@@ -3291,3 +3291,18 @@ uses (1 + r/200)^2 - 1; partnership profit values are chosen as multiples of
 the capital-time totals so every share is exact.
 
 Book total after rebuild: 14,753; sitewide 57,076; hero 85,783.
+
+## Numerical Aptitude — remaining six arithmetic topics (hard level)
+
+Time-work, pipes-cisterns, time-speed-distance, problems-on-trains,
+boats-streams and problems-on-ages now hold 90+ hard questions each:
+
+- time-work 95, pipes-cisterns 95, time-speed-distance 96,
+  problems-on-trains 92, boats-streams 99, problems-on-ages 100.
+
+Generators: `tools/gen-num-timework.py`, `gen-num-pipes.py`, `gen-num-tsd.py`,
+`gen-num-trains.py`, `gen-num-boats.py`, `gen-num-ages.py`, sharing
+`tools/num_bank.py`. Explanations are two-sentence step-by-step derivations
+(formula + substitution + result). All 18 arithmetic leaves now have 90+.
+
+Book total after rebuild: 15,330; sitewide 57,653; hero 86,360.
