@@ -3721,3 +3721,9 @@ languages, written for the paper (not a textbook summary).
 - Still open: 26 hub pages (`/exams/dhs-dme-technical/<section>/` and group
   pages) are under 300 words and indexable, which is the thinnest content on
   the site and the main remaining AdSense "low value content" risk.
+- Crawler visibility check: `node tools/check-crawler-content.js` exits 0 when
+  every topic page (English and Assamese) carries its questions as static
+  HTML, shows both `lang="en"` and `lang="as"` blocks, is indexable, keeps
+  the hreflang trio, and has the AdSense loader on English only. Run it after
+  each content batch; it caught nothing so far because the builder writes the
+  Q&A into the served HTML rather than hydrating it in the browser.
