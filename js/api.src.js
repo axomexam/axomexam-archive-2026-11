@@ -337,6 +337,20 @@ const API = (() => {
     return fetchJSON(url);
   }
 
+  /* ---- Long-form study notes for an exam book ----
+     data/exams/<exam-id>/notes.json holds one article per leaf topic, in both
+     languages, and is fetched once per exam. A book without the file simply
+     renders no notes. */
+  async function getExamNotes(examId) {
+    const cfg = CONFIG.EXAMS || {};
+    const dir = cfg.DIR || "data/exams";
+    const safe = String(examId || "").replace(/[^A-Za-z0-9_-]/g, "");
+    if (!safe) return {};
+    const rel = `${dir}/${safe}/notes.json`;
+    const url = CONFIG.USE_REMOTE ? rawUrl(rel) : `/${rel}`;
+    try { return await fetchJSON(url); } catch (e) { return {}; }
+  }
+
   /* ---- One sub-category question bank ----
      Every *.json file inside the sub-category folder is either ONE question
      object with bilingual text + 4 options, or an ARRAY of such question
@@ -582,7 +596,7 @@ const API = (() => {
     getCategories, getTopic, getTopicMarkdown, listPdfDir, pdfUrl,
     listDownloads, getTrendingTopics, listPreviousYearYears, listPreviousYearPdfs,
     getArticles, getMockSet, getExamMockSet, getExamMockIndex, getBook, listBooks, listExams, getExamSection,
-    listExamQuestions, isExamTopicPreparing, getCounts, listCurrentAffairs, getCurrentAffairsCategory,
+    listExamQuestions, getExamNotes, isExamTopicPreparing, getCounts, listCurrentAffairs, getCurrentAffairsCategory,
     listCurrentAffairsQuestions, getCurrentAffairsCounts,
   };
 })();

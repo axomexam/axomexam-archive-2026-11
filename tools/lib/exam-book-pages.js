@@ -32,6 +32,10 @@ function makeExamBookTools(opts) {
      question per file), buildBook must build only the HTML pages and leave
      every data/ file alone. */
   const noDataWrites = !!opts.noDataWrites;
+  /* Long-form study notes per leaf id: { leafId: { en: [blocks], as: [blocks] } }.
+     Rendered under the question list so the page carries real reading material,
+     not just a wall of MCQs. */
+  const NOTES = opts.notes || {};
   const affiliationNote = opts.affiliationNote ||
     "axomexam.in is an independent study platform and is not affiliated with the recruiting authority or the Government of Assam. Verify all details from the official notification.";
 
@@ -248,6 +252,32 @@ function makeExamBookTools(opts) {
       )
       .join("");
     return `<div style="margin-top:8px; color:#334155;">${opts}</div>`;
+  }
+
+  /* ---- long-form study notes printed under the question list ---- */
+  function notesSectionHTML(note, titleEn, titleAs) {
+    const block = (b, l) => {
+      const kind = b[0];
+      const val = b[1];
+      if (kind === "h3") return `<h3 lang="${l}" style="font-size:1.02rem; font-weight:700; margin:22px 0 8px; color:#0f172a;">${esc(val)}</h3>`;
+      if (kind === "p") return `<p lang="${l}" style="margin:0 0 12px; line-height:1.85; color:#334155;">${esc(val)}</p>`;
+      if (kind === "tip") return `<div lang="${l}" style="margin:14px 0 4px; padding:12px 14px; border-left:3px solid #059669; background:#ecfdf5; border-radius:8px; line-height:1.8; color:#1f3b34;"><strong>${l === "as" ? "পৰীক্ষাৰ টিপ" : "Exam tip"}:</strong> ${esc(val)}</div>`;
+      if (kind === "ul") return `<ul lang="${l}" style="margin:0 0 14px 20px; line-height:1.85; color:#334155;">${val.map((v) => `<li style="margin-bottom:6px;">${esc(v)}</li>`).join("")}</ul>`;
+      return "";
+    };
+    const en = (note.en || []).map((b) => block(b, "en")).join("\n");
+    const as = (note.as || []).map((b) => block(b, "as")).join("\n");
+    return `
+    <section class="section" id="study-notes" style="padding-bottom:48px;">
+      <article style="max-width:860px; margin:0 auto;">
+        <h2 style="font-size:1.25rem; margin:0 0 6px;">${esc(titleEn)}: study notes</h2>
+        <p style="margin:0 0 18px; color:#64748b; font-size:.92rem;">Read this before you attempt the questions. It is written for the DHS &amp; DME Technical Grade III paper.</p>
+        <div lang="en">${en}</div>
+        <h2 style="font-size:1.2rem; margin:34px 0 6px;">${esc(titleAs)}: অধ্যয়ন টোকা</h2>
+        <p style="margin:0 0 18px; color:#64748b; font-size:.92rem;">প্ৰশ্নবোৰত হাত দিয়াৰ আগতে এইখিনি পঢ়ি লওক। তলৰ প্ৰতিটো কথা DHS আৰু DME কাৰিকৰী গ্ৰেড III পৰীক্ষাৰ বাবে লিখা।</p>
+        <div lang="as">${as}</div>
+      </article>
+    </section>`;
   }
 
   function qaItemHTML(q, n) {
@@ -493,6 +523,7 @@ ${cards}
         imageAlt: `axomexam - ${lang(item.leaf.title, "en")}`, cover: EXAM.cover,
         jsonld: jsonld({ canonical, title, desc, crumbs, cover: EXAM.cover, teaches: lang(item.sec.title, "en") }),
       });
+      const notes = NOTES[item.leaf.id];
       const mainHTML = `    <div class="page-head">
       ${breadcrumbHTML(crumbs)}
       <h1>${esc(lang(item.leaf.title, "en"))}</h1>
@@ -502,7 +533,7 @@ ${cards}
     <section class="section" style="padding-bottom:46px;">
       <div style="margin-top:18px;"><a class="btn btn-outline btn-sm" href="${examPath}/${item.sec.id}/">Back to ${esc(lang(item.sec.title, "en"))}</a></div>
     </section>
-    <section class="section" style="padding-bottom:40px;"><!-- axo-static-qa --><div class="qa-list" style="max-width:860px; margin:0 auto;"><h2 style="font-size:1.15rem; margin-bottom:18px;">${bank.length} Questions with Answers</h2>${bank.map((q, i) => qaItemHTML(q, i + 1)).join("")}</div></section>`;
+    <section class="section" style="padding-bottom:40px;"><!-- axo-static-qa --><div class="qa-list" style="max-width:860px; margin:0 auto;"><h2 style="font-size:1.15rem; margin-bottom:18px;">${bank.length} Questions with Answers</h2>${bank.map((q, i) => qaItemHTML(q, i + 1)).join("")}</div></section>${notes ? notesSectionHTML(notes, lang(item.leaf.title, "en"), lang(item.leaf.title, "as")) : ""}`;
       write(`exams/${EXAM.id}/${parts.join("/")}/index.html`, pageShell({ head, mainHTML, extraHTML: editorialBlock(EXAM, item.sec.title, item.sec.id) + "\n" }));
     }
 
@@ -740,7 +771,7 @@ hand-editing the JSON here.
   }
 
   return {
-    esc, lang, write, writeJSON,
+    esc, lang, write, writeJSON, NOTES,
     pageHead, jsonld, breadcrumbHTML, normalize, optionsHTML, qaItemHTML,
     pageShell, editorialBlock, compactJSON,
     buildBook, examEntry, spliceIndex, updateSitemap, updateExamsIndex,

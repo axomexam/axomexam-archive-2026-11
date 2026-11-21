@@ -1,0 +1,274 @@
+{
+  "cube-dice": {
+    "en": [
+      [
+        "h3",
+        "What the examiner is actually testing"
+      ],
+      [
+        "p",
+        "Cube and dice questions have a reputation for needing good three-dimensional imagination. In a hundred-question paper that reputation costs candidates more marks than the topic itself. Every question in this block is a bookkeeping problem: six faces, one fixed arrangement, and a handful of facts you carry from step to step. Hold the bookkeeping steady and the answer falls out. Try to spin the die in your head and you will lose the thread somewhere in the middle."
+      ],
+      [
+        "p",
+        "In DHS and DME Technical papers the block is small but dependable. Two to four questions, and the same two shapes keep returning: one painted-cube count, and one question where the same die is shown from two sides. The painted cube is a formula. The two-views question is elimination. Neither of them asks you to imagine anything."
+      ],
+      [
+        "h3",
+        "The rule that solves half the bank"
+      ],
+      [
+        "p",
+        "On a standard die, opposite faces add to seven. One sits opposite six, two opposite five, three opposite four. That is all. If four is on top, three is at the bottom. If six faces you, one is at the back. Two is on the right, five is on the left. No diagram, no rotation, no thinking about which way the pips lean."
+      ],
+      [
+        "p",
+        "The trap here is the word standard. When a question hands you its own arrangement, the arrangement wins. A line like \"in the die shown, 2 is opposite 5 and 3 is opposite 6\" is not a mistake in the paper; it is a non-standard die, and you must use the numbers given rather than the rule you memorised. Read the first line of the question before you reach for seven minus something."
+      ],
+      [
+        "h3",
+        "Adjacent faces, and why two views settle everything"
+      ],
+      [
+        "p",
+        "A face can never be opposite two different numbers, and a face that appears in both views of the same die is the anchor. Suppose the first view shows 1, 2 and 3, and the second shows 1, 4 and 5. The number 1 is common, so the four numbers 2, 3, 4 and 5 all sit around it. Four numbers around one face means those four pair up into two opposite pairs, which leaves the sixth face, number 6, opposite 1. You never had to move the die."
+      ],
+      [
+        "p",
+        "The same elimination answers the near-miss version: if a question asks which number cannot be opposite 3, cross out every number that appears beside 3 in any view. Whatever survives is the answer. This is faster than reasoning forward, and it does not break down when the views are drawn at awkward angles."
+      ],
+      [
+        "h3",
+        "The painted cube, counted once and remembered"
+      ],
+      [
+        "p",
+        "A cube is painted on all six faces and cut into n x n x n small cubes. Four counts matter, and each has one line of algebra behind it."
+      ],
+      [
+        "ul",
+        [
+          "Three faces painted: the eight corners. Always 8, whatever n is.",
+          "Two faces painted: the middle cubes along each of the twelve edges, which gives 12(n - 2).",
+          "One face painted: the centre of each of the six faces, which gives 6(n - 2)^2.",
+          "No face painted: the hollow inside, which gives (n - 2)^3."
+        ]
+      ],
+      [
+        "p",
+        "Check it on n = 4. Corners 8, edges 12 x 2 = 24, faces 6 x 4 = 24, inside 2^3 = 8. Total 64, which is exactly 4 cubed. If your four numbers do not add up to n^3, one of them is wrong, and that check takes five seconds."
+      ],
+      [
+        "p",
+        "For n = 3 the same lines give 8, 12, 6 and 1. For n = 2 every small cube is a corner, so all 8 have three painted faces and the other three counts are zero. Papers love n = 3 and n = 4, and occasionally ask for the total number of cubes with at least one painted face, which is simply n^3 minus (n - 2)^3."
+      ],
+      [
+        "h3",
+        "Nets: the two arrangements that fool people"
+      ],
+      [
+        "p",
+        "A cube has eleven valid nets. You do not need to memorise eleven pictures. Two negative rules catch almost every wrong option. First, six squares cannot fold into a cube if four of them sit in one straight line and the remaining two are attached on the same side of that line, because both flaps land on the same face. Second, a solid 2 x 3 block of six squares folds onto itself: four of its squares overlap and two faces are left uncovered."
+      ],
+      [
+        "p",
+        "The safe positives are the cross, the T with a single square hanging off each side of the stem, and the staircase shapes where every square touches the next along an edge and no square closes a loop."
+      ],
+      [
+        "h3",
+        "Two worked questions, done the exam way"
+      ],
+      [
+        "p",
+        "A die shows 2 on top and 5 in front, and the question states that 2 is opposite 4. Where is 6? Since 2 is on top, 4 is at the bottom. The four numbers 1, 3, 5 and 6 sit around the belt. Five is at the front, so one is at the back. Three and six occupy the left and right, and without a second view you cannot fix which is which; if the question asks for a number that cannot be on the left, the answer is 4, because 4 is at the bottom."
+      ],
+      [
+        "p",
+        "A 5 x 5 x 5 cube is painted and cut. How many small cubes have exactly one painted face? Six faces, each with a 3 x 3 unpainted border, so 6 x 9 = 54. The same paper may then ask how many have none: 3^3 = 27. Both numbers come from (n - 2), and writing n - 2 once at the top of your rough sheet removes the arithmetic slip that costs the mark."
+      ],
+      [
+        "h3",
+        "One more shape the paper likes"
+      ],
+      [
+        "p",
+        "Some questions draw the same die twice with no number in common. First view: 1, 2, 3. Second view: 4, 5, 6. Nothing repeats, so you cannot anchor on a face. The shortcut is that the three numbers in each view are mutually adjacent, which means the three numbers missing from a view are the three that meet at the corner hidden from you. In the first view the hidden corner is 4, 5, 6, so four, five and six are all adjacent to each other, and the same holds for 1, 2, 3. If the question then asks which number is opposite 1, the candidates are 4, 5 and 6, and only a third view or an extra line in the stem can separate them."
+      ],
+      [
+        "p",
+        "That is the honest limit of the information: two views of three faces fix a lot, but not always everything. When the paper asks a definite question from insufficient views, the missing line is somewhere in the stem, usually a sentence like \"1 is opposite 4\". Read the whole question before deciding that the figure is impossible."
+      ],
+      [
+        "p",
+        "A second variant shows the die rolled, not turned. A die rolled forward once takes the front face to the bottom, the top to the front, the back to the top and the bottom to the back, while left and right stay put. Rolled twice, everything returns except that the top and bottom swap. Knowing the four-step cycle saves you from drawing four separate positions."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Treating a non-standard die as a standard one, so every later step inherits the first mistake.",
+          "Calling two faces opposite when they only share an edge in the drawing.",
+          "Counting the twelve edge cubes as 12n instead of 12(n - 2), which double-counts the corners.",
+          "Assuming a net is valid because it looks like a cross, when one flap is attached to the wrong square.",
+          "Answering the complement question. \"How many cubes have no paint\" and \"how many have at least one painted face\" are different numbers, and the second is not 27 when n = 5."
+        ]
+      ],
+      [
+        "h3",
+        "How to spend the last ten days on this topic"
+      ],
+      [
+        "p",
+        "Day one and two: the opposite-face rule and ten questions of the plain kind, until seven minus the number is automatic. Day three and four: two-views questions, using the common-number elimination every time, even when you can see the answer. Day five and six: painted cubes at n = 3, 4, 5 and 6, writing all four counts plus the total each time. Day seven: nets, sorting a dozen pictures into valid and invalid. Day eight and nine: mixed sets from this bank under a clock, forty seconds a question. Day ten: only the questions you got wrong, no new ones."
+      ],
+      [
+        "tip",
+        "In the hall, draw the die as a small cross on your rough sheet and write the six numbers into it. Four seconds of drawing beats forty seconds of imagining, and the cross keeps your bookkeeping honest when the second view arrives."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "পৰীক্ষকে আসলতে কি পৰীক্ষা কৰে"
+      ],
+      [
+        "p",
+        "ঘনক আৰু পাশাৰ প্ৰশ্নত ত্ৰিমাত্ৰিক কল্পনা শক্তি লাগে বুলি এটা ধাৰণা আছে। এশ প্ৰশ্নৰ প্ৰশ্নকাকতত এই ধাৰণাটোৱে প্ৰশ্নবোৰতকৈ বেছি নম্বৰ কাটে। এই শিতানৰ প্ৰতিটো প্ৰশ্ন হৈছে হিচাপ ৰখাৰ কাম — ছখন পিঠি, এটা নিৰ্দিষ্ট বিন্যাস, আৰু প্ৰতিটো খোজত লগত লৈ ফুৰিবলগীয়া কেইটামান তথ্য। হিচাপটো স্থিৰ ৰাখিলে উত্তৰ নিজেই ওলাই আহে। মনতে পাশা ঘূৰাবলৈ চেষ্টা কৰিলে মাজতে সূত্ৰ হেৰুৱাব।"
+      ],
+      [
+        "p",
+        "DHS আৰু DME কাৰিকৰী প্ৰশ্নকাকতত এই শিতান সৰু কিন্তু নিৰ্ভৰযোগ্য। দুইৰ পৰা চাৰিটা প্ৰশ্ন, আৰু একেই দুই ধৰণ ঘূৰি ঘূৰি আহে — এটা ৰঙা ঘনকৰ গণনা, আৰু এটা প্ৰশ্ন য'ত একেই পাশা দুফালৰ পৰা দেখুওৱা হয়। ৰঙা ঘনকটো সূত্ৰ। দুটা দৃশ্যৰ প্ৰশ্নটো বাদ দিয়াৰ কাম। দুয়োটাতে কল্পনা কৰিবলগীয়া একো নাই।"
+      ],
+      [
+        "h3",
+        "আধা বেংক সমাধান কৰা নিয়ম"
+      ],
+      [
+        "p",
+        "প্ৰামাণ্য পাশাত বিপৰীত পিঠিৰ সংখ্যাৰ যোগফল সাত। একৰ বিপৰীতে ছয়, দুইৰ বিপৰীতে পাঁচ, তিনিৰ বিপৰীতে চাৰি। ইমানেই। ওপৰত চাৰি থাকিলে তলত তিনি। সন্মুখত ছয় থাকিলে পিছফালে এক। সোঁফালে দুই থাকিলে বাওঁফালে পাঁচ। কোনো চিত্ৰ নালাগে, ঘূৰাবও নালাগে, বিন্দুবোৰ কোনফালে হালি আছে তাকো ভাবিব নালাগে।"
+      ],
+      [
+        "p",
+        "ইয়াত ফান্দটো হৈছে প্ৰামাণ্য শব্দটো। প্ৰশ্নই নিজৰ বিন্যাস দিলে সেই বিন্যাসেই প্ৰধান। \"দেখুওৱা পাশাত ২ ৰ বিপৰীতে ৫ আৰু ৩ ৰ বিপৰীতে ৬\" বুলি লিখা থাকিলে সেয়া ভুল নহয় — সেয়া এটা অপ্ৰামাণ্য পাশা, আৰু মনত ৰখা নিয়ম নহৈ দিয়া সংখ্যাবোৰহে ব্যৱহাৰ কৰিব লাগিব। সাতৰ পৰা বিয়োগ কৰিবলৈ যোৱাৰ আগতে প্ৰশ্নৰ প্ৰথম শাৰী পঢ়ি ল'ব।"
+      ],
+      [
+        "h3",
+        "কাষৰ পিঠি, আৰু দুটা দৃশ্যই কিয় সকলো নিৰ্ণয় কৰে"
+      ],
+      [
+        "p",
+        "এখন পিঠি দুটা বেলেগ সংখ্যাৰ বিপৰীত হ'ব নোৱাৰে, আৰু একেই পাশাৰ দুয়োটা দৃশ্যত ওলোৱা সংখ্যাটোৱেই ভেটি। ধৰা, প্ৰথম দৃশ্যত ১, ২, ৩ আৰু দ্বিতীয়ত ১, ৪, ৫ দেখা গৈছে। ১ দুয়োতে আছে, সেয়ে ২, ৩, ৪, ৫ — এই চাৰিওটা ১ ৰ চাৰিওফালে থাকে। চাৰিটা সংখ্যা এটা পিঠিৰ চাৰিওফালে থাকিলে সিহঁতে দুযোৰ বিপৰীত পিঠি গঠন কৰে, আৰু বাকী থকা ষষ্ঠ পিঠি ৬ ৰ বিপৰীত হয়। পাশা ঘূৰাবই নালাগিল।"
+      ],
+      [
+        "p",
+        "এই বাদ দিয়া পদ্ধতিয়েই ওচৰা-উচৰি ধৰণৰ প্ৰশ্নও সমাধান কৰে — যদি সোধা হয় ৩ ৰ বিপৰীতে কোন সংখ্যা হ'ব নোৱাৰে, তেন্তে যিকোনো দৃশ্যত ৩ ৰ কাষত ওলোৱা সকলো সংখ্যা কাটি দিয়ক। যি ৰৈ যায় সেয়াই উত্তৰ। আগলৈ যুক্তি কৰাতকৈ এইটো দ্ৰুত, আৰু দৃশ্যবোৰ বেকা কোণত আঁকিলেও ইয়াৰ পৰা পিছলি নাযায়।"
+      ],
+      [
+        "h3",
+        "ৰঙা ঘনক — এবাৰ গণি চিৰকাল মনত ৰাখক"
+      ],
+      [
+        "p",
+        "এটা ঘনকৰ ছখন পিঠিতে ৰং কৰি n x n x n সৰু ঘনকত কটা হৈছে। চাৰিটা গণনা লাগে, আৰু প্ৰতিটোৰ পিছত এশাৰী সূত্ৰ আছে।"
+      ],
+      [
+        "ul",
+        [
+          "তিনি পিঠি ৰঙা — আঠটা কোণ। n যিয়েই নহওক, সদায় ৮।",
+          "দুই পিঠি ৰঙা — বাৰডাল ধাৰৰ মাজৰ ঘনক, অৰ্থাৎ 12(n - 2)।",
+          "এপিঠি ৰঙা — ছখন পিঠিৰ কেন্দ্ৰ, অৰ্থাৎ 6(n - 2)^2।",
+          "কোনো পিঠি ৰঙা নহয় — ভিতৰৰ ফোঁপোলা অংশ, অৰ্থাৎ (n - 2)^3।"
+        ]
+      ],
+      [
+        "p",
+        "n = 4 ৰে পৰীক্ষা কৰি চাওক। কোণ ৮, ধাৰ 12 x 2 = 24, পিঠি 6 x 4 = 24, ভিতৰ 2^3 = 8। মুঠ ৬৪, অৰ্থাৎ ৪ ৰ ঘন। চাৰিটা সংখ্যাৰ যোগফল n^3 নহ'লে এটাত ভুল আছে, আৰু এই পৰীক্ষাত পাঁচ ছেকেণ্ডহে লাগে।"
+      ],
+      [
+        "p",
+        "n = 3 ৰ বাবে একেই শাৰীৰ পৰা ৮, ১২, ৬ আৰু ১ পোৱা যায়। n = 2 ৰ ক্ষেত্ৰত প্ৰতিটো সৰু ঘনকেই কোণ, সেয়ে আটাইৰে তিনি পিঠি ৰঙা আৰু বাকী তিনিটা গণনা শূন্য। প্ৰশ্নকাকতত n = 3 আৰু n = 4 বেছি আহে, মাজে মাজে কমেও এপিঠি ৰঙা ঘনক কিমান সোধে — সেয়া n^3 ৰ পৰা (n - 2)^3 বিয়োগ কৰিলেই হয়।"
+      ],
+      [
+        "h3",
+        "জাল — মানুহ ভুল কৰা দুটা বিন্যাস"
+      ],
+      [
+        "p",
+        "ঘনকৰ বৈধ জাল এঘাৰটা। এঘাৰখন ছবি মনত ৰখাৰ প্ৰয়োজন নাই। দুটা ঋণাত্মক নিয়মেই প্ৰায় সকলো ভুল বিকল্প ধৰি পেলায়। প্ৰথমটো — ছটা বৰ্গৰ চাৰিটা যদি একে শাৰীত থাকে আৰু বাকী দুটা সেই শাৰীৰ একেই ফালে লাগি থাকে, তেন্তে সেয়া ঘনক নহয়, কাৰণ দুয়োটা ফ্লেপ একেই পিঠিত পৰে। দ্বিতীয়টো — ছটা বৰ্গৰ টান ২ x ৩ আয়তটো নিজৰ ওপৰতে ভাঁজ খায়; চাৰিটা বৰ্গ ওপৰত পৰে আৰু দুখন পিঠি ঢাক খাই নাথাকে।"
+      ],
+      [
+        "p",
+        "নিৰাপদ বৈধবোৰ হৈছে ক্ৰছ, ডাঁড়িৰ দুয়োকাষে এটাকৈ বৰ্গ লগা টি আকৃতি, আৰু জখলা ধৰণৰ বিন্যাস য'ত প্ৰতিটো বৰ্গ কাষেৰে পৰৱৰ্তীটোৰ লগত লাগে আৰু কোনো বৰ্গে বৃত্ত বন্ধ নকৰে।"
+      ],
+      [
+        "h3",
+        "পৰীক্ষাৰ ধৰণেৰে দুটা উদাহৰণ"
+      ],
+      [
+        "p",
+        "পাশাৰ ওপৰত ২, সন্মুখত ৫, আৰু প্ৰশ্নত কোৱা হৈছে ২ ৰ বিপৰীতে ৪। তেন্তে ৬ ক'ত? ২ ওপৰত, সেয়ে ৪ তলত। ১, ৩, ৫, ৬ — এই চাৰিটা বেল্টত থাকে। ৫ সন্মুখত, সেয়ে ১ পিছফালে। ৩ আৰু ৬ বাওঁ আৰু সোঁফালে থাকে, আৰু দ্বিতীয় দৃশ্য নোহোৱাকৈ কোনটো ক'ত তাক নিৰ্ণয় কৰিব নোৱাৰি। প্ৰশ্নই যদি সোধে বাওঁফালে কি নহ'ব, উত্তৰ ৪ — কাৰণ ৪ তলত আছে।"
+      ],
+      [
+        "p",
+        "৫ x ৫ x ৫ ঘনক ৰং কৰি কটা হ'ল। ঠিক এপিঠি ৰঙা সৰু ঘনক কিমান? ছখন পিঠি, প্ৰতিখনত ৩ x ৩ ৰঙ নোহোৱা সীমা, সেয়ে 6 x 9 = 54। একেই প্ৰশ্নকাকতত তাৰ পিছতে সোধে কিমানৰ কোনো পিঠি ৰঙা নাই — 3^3 = 27। দুয়োটাই (n - 2) ৰ পৰা আহে, আৰু ৰাফত ওপৰত এবাৰ n - 2 লিখি থ'লে হিচাপৰ ভুলে নম্বৰ নাকাটে।"
+      ],
+      [
+        "h3",
+        "প্ৰশ্নকাকতে ভালপোৱা আৰু এটা ধৰণ"
+      ],
+      [
+        "p",
+        "কিছুমান প্ৰশ্নত একেই পাশা দুবাৰ আঁকা হয়, কিন্তু কোনো সংখ্যা দুয়োতে নাথাকে। প্ৰথম দৃশ্যত ১, ২, ৩; দ্বিতীয়ত ৪, ৫, ৬। একো নোহোৱা বাবে ভেটি ল'বলৈ সংখ্যা নাই। চুটি উপায়টো হ'ল — এটা দৃশ্যৰ তিনি সংখ্যাই পৰস্পৰে কাষৰ, অৰ্থাৎ দৃশ্যত নথকা তিনি সংখ্যাই আপোনাৰ পৰা লুকাই থকা কোণত লগ লাগে। প্ৰথম দৃশ্যত লুকাই থকা কোণত ৪, ৫, ৬, সেয়ে চাৰি, পাঁচ আৰু ছয় পৰস্পৰে কাষৰ; ১, ২, ৩ ৰ ক্ষেত্ৰতো একেই। তেন্তে ১ ৰ বিপৰীতে কোন — সম্ভাৱ্য ৪, ৫ বা ৬, আৰু তৃতীয় দৃশ্য বা প্ৰশ্নৰ এটা বাক্যহে ইয়াক নিৰ্ণয় কৰিব পাৰে।"
+      ],
+      [
+        "p",
+        "সেয়াই তথ্যৰ সীমা। তিনি পিঠিৰ দুটা দৃশ্যই বহুতো নিৰ্ণয় কৰে, কিন্তু সদায় সকলো নহয়। প্ৰশ্নই অপৰ্যাপ্ত দৃশ্যৰ পৰাও নিশ্চিত উত্তৰ বিচাৰিলে লুকাই থকা তথ্যটো প্ৰশ্নৰ মাজতে থাকে — সাধাৰণতে \"১ ৰ বিপৰীতে ৪\" ধৰণৰ এটা বাক্য। চিত্ৰটো অসম্ভৱ বুলি ভাবিবলৈ যোৱাৰ আগতে গোটেই প্ৰশ্ন পঢ়ি ল'ব।"
+      ],
+      [
+        "p",
+        "আন এটা ৰূপত পাশা ঘূৰোৱা নহয়, গুটিয়াই দিয়া হয়। এবাৰ আগলৈ গুটিয়ালে সন্মুখৰ পিঠি তললৈ যায়, ওপৰৰ পিঠি সন্মুখলৈ, পিছৰ পিঠি ওপৰলৈ আৰু তলৰ পিঠি পিছলৈ; বাওঁ আৰু সোঁফাল ঠাইতে থাকে। দুবাৰ গুটিয়ালে ওপৰ আৰু তলৰ বাহিৰে বাকী আটাই নিজৰ ঠাইত ঘূৰি আহে। এই চাৰি খোজৰ চক্ৰটো মনত থাকিলে চাৰিটা বেলেগ অৱস্থান আঁকিব নালাগে।"
+      ],
+      [
+        "h3",
+        "নেটত সংখ্যা বহুওৱাৰ সহজ অভ্যাস"
+      ],
+      [
+        "p",
+        "নেটৰ প্ৰশ্নত সংখ্যা নহৈ কেৱল বৰ্গ আঁকি দিয়া হয়, আৰু সোধে কোনটো বৰ্গ কোনটোৰ বিপৰীত পৰিব। এনে ক্ষেত্ৰত শাৰীটোৰ ওপৰত ১, ২, ৩, ৪ বুলি ক্ৰমিক নম্বৰ লিখি লওক, তাৰ পিছত ফ্লেপ দুটাক ৫ আৰু ৬ দিয়ক। এতিয়া নিয়মটো কেৱল পঢ়িব লাগে — শাৰীৰ ১ আৰু ৩ বিপৰীত, ২ আৰু ৪ বিপৰীত, আৰু ফ্লেপ দুটা নিজে নিজৰ বিপৰীত। সংখ্যাবোৰ আঁচনিত লিখি পেলালে মনত ধৰি ৰখাৰ প্ৰয়োজন নাথাকে, আৰু ভুল কৰাৰ সম্ভাৱনাও কমি যায়।"
+      ],
+      [
+        "p",
+        "পৰীক্ষাৰ হলে সময়ৰ হিচাপো ইয়াত জড়িত। ৰঙা ঘনকৰ প্ৰশ্ন এটা চল্লিশ ছেকেণ্ডত শেষ কৰিব পৰা যায়, কিন্তু নেটৰ প্ৰশ্নত যদি ছবিখন স্পষ্ট নহয় তেন্তে বেছি সময় নষ্ট নকৰি পাছলৈ যোৱাটো ভাল। এটা প্ৰশ্নত দুবাৰ ভুল হোৱাতকৈ চাৰিটা প্ৰশ্নত সঠিক উত্তৰ দিয়াটো বেছি লাভজনক।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "অপ্ৰামাণ্য পাশাক প্ৰামাণ্য ধৰি লোৱা — প্ৰথম ভুলটোৱে বাকী আটাই খোজত বিয়পি পৰে।",
+          "আঁচনিত মাথোঁ কাষ ভগাই থকা দুখন পিঠিক বিপৰীত বুলি কোৱা।",
+          "বাৰডাল ধাৰৰ ঘনক 12(n - 2) নহৈ 12n বুলি গণা, য'ত কোণবোৰ দুবাৰ গণি হয়।",
+          "ক্ৰছৰ দৰে দেখাতেই জাল বৈধ বুলি ধৰি লোৱা, অথচ এটা ফ্লেপ ভুল বৰ্গত লাগি আছে।",
+          "প্ৰশ্নটো ওলোটা কৰি পঢ়া — \"কিমানৰ ৰং নাই\" আৰু \"কমেও এপিঠি ৰঙা\" বেলেগ বেলেগ সংখ্যা, আৰু n = 5 ত দ্বিতীয়টো 27 নহয়।"
+        ]
+      ],
+      [
+        "h3",
+        "শেষ দহ দিনত এই শিতান কেনেকৈ ল'ব"
+      ],
+      [
+        "p",
+        "প্ৰথম আৰু দ্বিতীয় দিন: বিপৰীত পিঠিৰ নিয়ম আৰু দহটা সৰল প্ৰশ্ন, সাতৰ পৰা বিয়োগ কৰাটো অভ্যাস হোৱালৈকে। তৃতীয় আৰু চতুৰ্থ দিন: দুটা দৃশ্যৰ প্ৰশ্ন, উত্তৰ দেখি গ'লেও প্ৰতিবাৰেই সাধাৰণ সংখ্যা বাদ দিয়া পদ্ধতিৰে। পঞ্চম আৰু ষষ্ঠ দিন: n = 3, 4, 5, 6 ৰ ৰঙা ঘনক, প্ৰতিবাৰে চাৰিওটা গণনা আৰু মুঠটো লিখি। সপ্তম দিন: জাল — ডজন ছবি বৈধ আৰু অবৈধ বুলি ভাগ কৰা। অষ্টম আৰু নৱম দিন: এই বেংকৰ পৰা মিশ্ৰ ছেট, ঘড়ী লগাই, প্ৰতি প্ৰশ্নত চল্লিশ ছেকেণ্ড। দশম দিন: কেৱল ভুল হোৱা প্ৰশ্ন, নতুন একো নহয়।"
+      ],
+      [
+        "tip",
+        "পৰীক্ষাৰ কোঠাত ৰাফত এটা সৰু ক্ৰছ আঁকি তাত ছটা সংখ্যা লিখি লওক। চাৰি ছেকেণ্ডৰ আঁচনিয়ে চল্লিশ ছেকেণ্ডৰ কল্পনাতকৈ ভাল কাম কৰে, আৰু দ্বিতীয় দৃশ্য অহাৰ সময়তো হিচাপটো শুদ্ধ ৰাখে। যিসকলে এই শিতানত অতিশয় দুৰ্বল বোধ কৰে, তেওঁলোকে প্ৰথমে মাথোঁ বিপৰীত পিঠিৰ নিয়ম আৰু ৰঙা ঘনকৰ চাৰিটা সূত্ৰ মুখস্থ কৰক — এই দুয়োটাই এই বেংকৰ আধাতকৈ বেছি প্ৰশ্ন সামৰি লয়, আৰু ইয়াৰ পৰাই আত্মবিশ্বাস গঢ় লৈ উঠে।"
+      ]
+    ]
+  }
+}

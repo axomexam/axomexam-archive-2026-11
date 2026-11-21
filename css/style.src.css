@@ -2439,6 +2439,39 @@ body[data-lang="as"] .qa-a .a-label { text-transform: none; letter-spacing: 0; f
 }
 .ebk-no-pdf { font-size: .8rem; color: var(--ink-soft, #64748b); font-weight: 600; }
 
+/* Long-form study notes under a book topic's question list. */
+.ebk-notes {
+  margin: 30px 0 6px; padding: 24px 22px 18px;
+  background: var(--card, #fff);
+  border: 1px solid var(--line, #e2e8f0);
+  border-radius: 16px;
+  box-shadow: var(--card-shadow);
+}
+.ebk-notes-title { font-size: 1.22rem; margin: 0 0 6px; letter-spacing: -.3px; }
+.ebk-notes-lead { margin: 0 0 18px; font-size: .9rem; color: var(--ink-muted, #64748b); line-height: 1.6; }
+.ebk-note-h { font-size: 1.02rem; font-weight: 700; margin: 24px 0 8px; color: var(--ink, #0f172a); }
+.ebk-note-p { margin: 0 0 12px; line-height: 1.85; color: var(--ink-soft, #334155); }
+.ebk-note-ul { margin: 0 0 14px; padding-left: 22px; list-style: disc; line-height: 1.85; color: var(--ink-soft, #334155); }
+.ebk-note-ul li { margin-bottom: 6px; }
+.ebk-note-tip {
+  margin: 16px 0 4px; padding: 12px 14px; line-height: 1.8;
+  border-left: 3px solid #059669; border-radius: 8px;
+  background: #ecfdf5; color: #1f3b34;
+}
+[data-lang="as"] .ebk-notes, [data-lang="as"] .ebk-note-p,
+[data-lang="as"] .ebk-note-h, [data-lang="as"] .ebk-note-ul,
+[data-lang="as"] .ebk-note-tip, [data-lang="as"] .ebk-notes-title,
+[data-lang="as"] .ebk-notes-lead { font-family: var(--font-as); }
+[data-lang="as"] .ebk-note-p, [data-lang="as"] .ebk-note-ul { line-height: 1.95; }
+[data-theme="dark"] .ebk-notes { background: var(--bg-soft); border-color: var(--border, #2b3a55); }
+[data-theme="dark"] .ebk-note-h { color: var(--ink, #e5e7eb); }
+[data-theme="dark"] .ebk-note-p, [data-theme="dark"] .ebk-note-ul { color: var(--ink-soft, #cbd5e1); }
+[data-theme="dark"] .ebk-note-tip { background: #0f2a22; color: #c9f5e3; border-left-color: #10b981; }
+@media (max-width: 620px) {
+  .ebk-notes { padding: 20px 16px 14px; border-radius: 14px; }
+  .ebk-note-p, .ebk-note-ul { line-height: 1.8; }
+}
+
 /* Dark theme */
 [data-theme="dark"] .ebook-card,
 [data-theme="dark"] .ebk-head-card,

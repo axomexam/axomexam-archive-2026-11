@@ -5844,6 +5844,38 @@
     ).join("")}</div>`;
   }
 
+  /* ---- Long-form study notes for a book topic ----
+     data/exams/<exam>/notes.json carries one article per leaf, written for the
+     paper. Rendered under the question list in the reader's own language. */
+  const examNotesCache = {};
+  async function examNotesSectionHTML(examId, leafId, lang) {
+    if (!leafId) return "";
+    if (!examNotesCache[examId]) examNotesCache[examId] = await API.getExamNotes(examId);
+    const book = examNotesCache[examId] || {};
+    const note = book[leafId];
+    if (!note) return "";
+    const blocks = (note[lang] && note[lang].length ? note[lang] : note.en) || [];
+    if (!blocks.length) return "";
+    const esc = (s) => escapeHtml(String(s == null ? "" : s));
+    const body = blocks.map((b) => {
+      const kind = b[0];
+      const val = b[1];
+      if (kind === "h3") return `<h3 class="ebk-note-h">${esc(val)}</h3>`;
+      if (kind === "p") return `<p class="ebk-note-p">${esc(val)}</p>`;
+      if (kind === "tip") return `<div class="ebk-note-tip"><strong>${lang === "as" ? "পৰীক্ষাৰ টিপ" : "Exam tip"}:</strong> ${esc(val)}</div>`;
+      if (kind === "ul") return `<ul class="ebk-note-ul">${(val || []).map((v) => `<li>${esc(v)}</li>`).join("")}</ul>`;
+      return "";
+    }).join("");
+    return `
+      <section class="ebk-notes" id="study-notes">
+        <h2 class="ebk-notes-title">${lang === "as" ? "অধ্যয়ন টোকা" : "Study notes"}</h2>
+        <p class="ebk-notes-lead">${lang === "as"
+          ? "প্ৰশ্নবোৰত হাত দিয়াৰ আগতে এইখিনি পঢ়ি লওক। তলৰ প্ৰতিটো কথা DHS আৰু DME কাৰিকৰী গ্ৰেড III পৰীক্ষাৰ বাবে লিখা।"
+          : "Read this before you attempt the questions. It is written for the DHS &amp; DME Technical Grade III paper."}</p>
+        ${body}
+      </section>`;
+  }
+
   /* Render the whole question set on one page. Kept as a factory so callers
      keep using `const paint = makePaginatedQA(...); paint();`. */
   function makePaginatedQA(body, questions, emptyHTML) {
@@ -6091,6 +6123,7 @@
 
     const readLang = state.lang === "as" ? "as" : "en";
     const count = questions.length;
+    const notesHTML = await examNotesSectionHTML(examId, subId, readLang);
 
     main.innerHTML = `
       <div class="page-head ebk-page-head">
@@ -6122,6 +6155,7 @@
         </div>
 
         <div id="exam-body"></div>
+        ${notesHTML}
 
         <div class="ebk-reader-foot">
           <a class="btn btn-outline btn-sm" href="${secHref}">
@@ -6188,6 +6222,7 @@
 
     const readLang = state.lang === "as" ? "as" : "en";
     const count = questions.length;
+    const notesHTML = await examNotesSectionHTML(examId, childId, readLang);
 
     main.innerHTML = `
       <div class="page-head ebk-page-head">
@@ -6220,6 +6255,7 @@
         </div>
 
         <div id="exam-body"></div>
+        ${notesHTML}
 
         <div class="ebk-reader-foot">
           <a class="btn btn-outline btn-sm" href="${subHref}">

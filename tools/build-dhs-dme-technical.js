@@ -440,6 +440,7 @@ const BOOK = makeExamBookTools({
   DATE,
   chromeLeaf: "exams/dhs-dme/general-knowledge/assam-history/index.html",
   generatorLabel: "tools/build-dhs-dme-technical.js",
+  notes: require("./dhs-dme-technical.notes.js"),
   structureLabel: "tools/dhs-dme-technical.structure.js",
   noDataWrites: false,
   affiliationNote: "axomexam.in is an independent study platform and is not affiliated with the Directorate of Health Services or the Directorate of Medical Education, Assam. Verify all details from the official notification.",
@@ -454,6 +455,10 @@ const BOOK_EXAM = Object.assign({}, EXAM, { syllabus: SYLLABUS });
 const PREPARING = "content-preparing";
 
 const leaves = BOOK.buildBook(BOOK_EXAM, BANKS, BANK_COUNT);
+
+/* Study notes travel with the data, not just the static HTML: the reader is a
+   client-side app and repaints the topic page from JSON. */
+BOOK.writeJSON(`data/exams/${EXAM_ID}/notes.json`, BOOK.NOTES || {});
 BOOK.spliceIndex([BOOK_EXAM], "dhs-dme");
 BOOK.updateSitemap([BOOK_EXAM], { [BOOK_EXAM.id]: leaves });
 BOOK.updateExamsIndex([BOOK_EXAM], { [BOOK_EXAM.id]: leaves }, BANK_COUNT, "Assam Police");
