@@ -3649,12 +3649,24 @@ languages, written for the paper (not a textbook summary).
   every build.
 - Assamese needs roughly 1.25x the English word count for the same content,
   so write the Assamese draft long and trim.
-- Written so far (14): cube-dice, cell-biology, genetics-evolution,
+- Written so far (22): cube-dice, cell-biology, genetics-evolution,
   human-anatomy, human-physiology, nutrition-vitamins, diseases-health,
   plant-botany, general-chemistry, atomic-structure, periodic-table,
-  chemical-bonding, acids-bases-salts, water-solutions.
-- Remaining: 39 technical-science topics (chemistry 6, physics 12,
-  nursing 12, computer 6, biology 3) plus 45 reasoning/general topics.
+  chemical-bonding, acids-bases-salts, water-solutions, chemical-reactions,
+  everyday-chemistry, fuels-combustion, metals-nonmetals, organic-chemistry,
+  polymers-materials, units-measurement, motion-force.
+- Chemistry leaf set is complete (12/12). Physics 2/12. Biology 7/11.
+- Remaining technical-science (32): physics 10 (work-energy-power,
+  gravitation, pressure-fluids, heat-thermodynamics, sound-waves,
+  light-optics, electricity-magnetism, modern-nuclear-physics,
+  simple-machines, general-physics), biology 4 (animal-zoology,
+  general-biology, ecology-environment, microbiology-biotechnology),
+  computer-awareness 6, nursing-paramedical 12.
+- Remaining beyond technical-science: reasoning 35, GK 30, numerical 30,
+  English 27.
+- Reliable throughput is two pages per assistant turn (~2,600 words each
+  language). Three pages is possible only if the Assamese draft is written
+  at 1.6x the English length in the first pass.
 - Practical note: an Assamese draft of the same content needs about 1.35x
   the English word count. Write it long first; topping up a short block
   costs three or four extra passes.
@@ -3662,3 +3674,14 @@ languages, written for the paper (not a textbook summary).
   that is already single-quoted, and never insert an Assamese block using
   the English anchor (the two anchors differ per topic — check which
   section the anchor text belongs to before inserting).
+- Practical note: `ins(topic, anchor, block)` expects a list of lines. Pass
+  `block.split("\n")`; passing the raw string splices it character by
+  character and corrupts the file. Recover by truncating to the last good
+  `};` and re-adding the topic with the file editor.
+- Practical note: very large shell heredocs get truncated silently. For a
+  whole new topic, use the file editor to replace `module.exports = NOTES;`
+  with the block plus that line; use python only for small top-ups.
+- Practical note: gate the build on the validator with
+  `node tools/check-topic-notes.js | tee /tmp/v.txt; grep -q "0 problem"
+  /tmp/v.txt && node tools/build-dhs-dme-technical.js && ...` so a short
+  page can never reach the live site.
