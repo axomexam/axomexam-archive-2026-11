@@ -63,6 +63,9 @@ const LEGACY_BANKS = [
   ["general-knowledge", "india-gk", ["general-knowledge", "india-gk"], [
     "indian-history", "indian-economy", "indian-art-culture", "indian-governance",
   ]],
+  ["general-knowledge", "world-gk", ["general-knowledge", "world-gk"], [
+    "world-geography", "world-history", "international-organizations",
+  ]],
   ["technical-science", "biology", ["technical-science", "biology"], [
     "cell-biology", "genetics-evolution", "human-anatomy", "human-physiology",
     "nutrition-vitamins", "diseases-health", "plant-botany", "animal-zoology",
@@ -279,6 +282,14 @@ const RULES = {
     ["indian-art-culture", /dance|music|raga|tala|instrument|painting|mural|sculpture|temple|stupa|architecture|festival|classical|folk|theatre|natya|bharatanatyam|kathak|odissi|kuchipudi|manipuri|mohiniyattam|hindustani|carnatic|sangeet|akademi|unesco|heritage|museum|craft|handicraft|textile|art\b|culture/i],
     /* Constitutional bodies, civil services, defence and administration. */
     ["indian-governance", /constitution|parliament|lok sabha|rajya sabha|president|prime minister|cabinet|supreme court|high court|governor|election commission|comptroller|cag\b|upsc|civil service|ias\b|ips\b|panchayat|municipal|federal|amendment|fundamental right|directive principle|attorney general|niti|civil|governance|institution|administrat/i],
+  ],
+  "world-gk": [
+    /* Physical, political and economic geography of the world. */
+    ["world-geography", /ocean|sea\b|continent|country|capital|currency|desert|mountain|river|lake|island|peninsula|gulf|bay\b|strait|canal|latitude|longitude|equator|tropic|climate|monsoon|wind|current|tide|volcano|earthquake|plate\b|atmosphere|ozone|geography|globe|map\b|scale\b|isobar|isotherm|contour/i],
+    /* Civilizations, dynasties, revolutions and world wars. */
+    ["world-history", /civilization|civilisation|empire|dynasty|pharaoh|roman|greek|persian|ottoman|mughal|renaissance|revolution|war\b|treaty|emperor|king\b|queen\b|explorer|voyage|colony|independence|history|ancient|medieval|modern/i],
+    /* Global and regional bodies, their seats, heads and founding years. */
+    ["international-organizations", /nations|organization|organisation|un\b|unesco|unicef|who\b|ilo\b|fao\b|wto\b|imf\b|world bank|nato|saarc|asean|brics|g20|g7\b|opec|commonwealth|non-aligned|interpol|amnesty|red cross|headquarters|secretariat|secretary-general|director-general|member state|charter|summit|treaty|agency|council/i],
   ],
   "assam-gk": [
     /* Festivals, performing arts, crafts, food and religious sites. */

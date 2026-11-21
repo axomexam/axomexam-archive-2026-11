@@ -299,6 +299,48 @@ Mediapartners-Google and `*` before pushing.
 `/data/mock-test/*.json` at runtime and the previous-year pages link
 `/data/**/*.pdf`.
 
+
+## Session record — Nov 2026 DHS & DME Technical Grade III world-gk leaves
+
+The `general-knowledge/world-gk` group ("World & International") had three
+leaves stuck at `content-preparing` with `files: []`. All three now carry a
+bank, authored as row arrays and generated the same way as `india-gk` and
+`assam-gk`:
+
+| leaf | items |
+|---|---|
+| `world-geography` | 156 |
+| `world-history` | 153 |
+| `international-organizations` | 158 |
+
+Total 467. Rows live in `tools/world-gk-src/{geography,history,organizations}-part*.json`
+and are compiled by `tools/gen-dhs-world-gk.js` into
+`tools/dhs-dme-technical.world-gk-extra.js`. The generator adds an explicit
+`leaf` to every item, so `classify()` never has to guess from the stem.
+`world-gk` is also listed in `LEGACY_BANKS` and `RULES` in
+`tools/build-dhs-dme-technical.js`, because the merged legacy file at
+`tools/legacy-banks/dhs-dme-technical/general-knowledge/world-gk/question-001.json`
+is the build input.
+
+Two details are worth keeping:
+
+- Row files keep the options in natural reading order and `correct` points into
+  that order. The generator moves the correct option to a slot from a
+  deterministic balanced list (seeded shuffle, repaired so no slot runs more
+  than three times), so the published key spread is 39/39/39/39,
+  39/38/38/38 and 40/40/39/39 instead of drifting to A.
+- Assamese fields are folded to Assamese numerals in the generator. A checker
+  confirmed no ASCII digit and no Latin letter appears in any `as` stem,
+  option or explanation.
+
+Before writing the bank, 38 stems that collided with the existing 58k-stem
+corpus were reworded; the final audit reports zero stem and zero explanation
+collisions against `data/**/*.json`. The build reports 176 topics (142 with
+questions, 34 preparing) and 6,569 questions. `data/counts.json` and the home
+hero were rebuilt (77,599 questions), the `/as/` twins and `sitemap.xml` picked
+up the three URLs, and `seo-audit` shows no new thin page, missing H1,
+description or canonical.
+
 ## Session record — Nov 2026 DHS & DME Technical Grade III content (Biology + Assam History)
 
 The DHS & DME Technical Grade III book is the only area in scope for content
