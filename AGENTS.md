@@ -3649,6 +3649,16 @@ languages, written for the paper (not a textbook summary).
   every build.
 - Assamese needs roughly 1.25x the English word count for the same content,
   so write the Assamese draft long and trim.
-- Written so far: cube-dice, cell-biology, genetics-evolution,
-  human-anatomy, human-physiology. Remaining technical-science topics are
-  written in batches of 3-5.
+- Written so far (14): cube-dice, cell-biology, genetics-evolution,
+  human-anatomy, human-physiology, nutrition-vitamins, diseases-health,
+  plant-botany, general-chemistry, atomic-structure, periodic-table,
+  chemical-bonding, acids-bases-salts, water-solutions.
+- Remaining: 39 technical-science topics (chemistry 6, physics 12,
+  nursing 12, computer 6, biology 3) plus 45 reasoning/general topics.
+- Practical note: an Assamese draft of the same content needs about 1.35x
+  the English word count. Write it long first; topping up a short block
+  costs three or four extra passes.
+- Practical note: never put an ASCII apostrophe inside an Assamese string
+  that is already single-quoted, and never insert an Assamese block using
+  the English anchor (the two anchors differ per topic — check which
+  section the anchor text belongs to before inserting).
