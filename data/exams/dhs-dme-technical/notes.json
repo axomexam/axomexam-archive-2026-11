@@ -13626,5 +13626,275 @@
         "ঔষধৰ যিকোনো প্ৰশ্নত বিকল্প পঢ়াৰ আগতে ঔষধে কোন তন্ত্ৰত কাম কৰে সেয়া লিখা। বিকল্পবোৰ নামৰ পৰা নহয়, কাষৰীয়া তন্ত্ৰৰ পৰাই বনোৱা হয়।"
       ]
     ]
+  },
+  "hospital-infection-control": {
+    "en": [
+      [
+        "h3",
+        "What the infection control block asks"
+      ],
+      [
+        "p",
+        "This topic is how infection is stopped inside a hospital: the chain that has to be broken, the precautions that break it, the methods that sterilise equipment, and the rules that decide which waste goes into which bag. The paper is heavy on numbers and colours, so precision matters more than explanation. Fifteen to twenty minutes on the tables in this article covers most of what can be asked."
+      ],
+      [
+        "p",
+        "The most examined single item is hand hygiene, and the most examined single table is the colour coding of biomedical waste. If time is short, those two alone will secure a large share of this block."
+      ],
+      [
+        "h3",
+        "The chain of infection, in six links"
+      ],
+      [
+        "p",
+        "Infection needs six things in sequence: an infectious agent, a reservoir where it lives, a portal of exit, a mode of transmission, a portal of entry, and a susceptible host. Breaking any one link prevents infection. That is why hand washing works, why isolation works, why sterilisation works and why immunisation works - each breaks a different link. A question that asks what a given measure breaks is answered by naming the link."
+      ],
+      [
+        "p",
+        "A hospital-acquired infection, also called nosocomial or a healthcare-associated infection, is one that was not present or incubating when the patient was admitted. The four commonest are catheter-associated urinary tract infection, surgical site infection, ventilator-associated pneumonia and bloodstream infection from a central line. Those four names are asked as a list, and each is attached to a device."
+      ],
+      [
+        "h3",
+        "Standard precautions, and hand hygiene"
+      ],
+      [
+        "p",
+        "Standard precautions apply to every patient, every time, and assume that all blood and body fluid is potentially infectious. They are hand hygiene, gloves, a gown when splashing is likely, a mask and eye protection when droplets may fly, safe handling of sharps, clean linen and correct waste disposal. Transmission-based precautions are added on top for a known infection: contact for a wound or a bowel organism, droplet for influenza, and airborne for tuberculosis and measles."
+      ],
+      [
+        "p",
+        "Hand hygiene has five moments, and they are asked as a list: before touching a patient, before a clean procedure, after body fluid exposure risk, after touching a patient, and after touching the patient's surroundings. There are six steps in the technique, covering palms, backs, between the fingers, the thumbs, the fingertips and the wrists. An alcohol-based rub takes about twenty to thirty seconds and is used when the hands are not visibly soiled; soap and water take about forty to sixty seconds and are required when the hands are visibly dirty or after contact with a spore-forming organism such as Clostridium difficile."
+      ],
+      [
+        "h3",
+        "Personal protective equipment, in order"
+      ],
+      [
+        "p",
+        "When a full set is needed, the order of putting it on is gown first, then mask, then goggles or face shield, then gloves last, with the gloves covering the cuffs of the gown. The order of removal is the reverse and is designed to keep the contaminated outside from touching the wearer: gloves first, then goggles, then gown, then mask last, with hand hygiene after each step. A question that asks which item goes on last, or comes off first, is answered by those two sentences."
+      ],
+      [
+        "p",
+        "Gloves are not a substitute for hand hygiene. They are changed between patients and between dirty and clean tasks on the same patient, and hands are washed after they are removed. That single rule is the most commonly examined mistake in this block."
+      ],
+      [
+        "h3",
+        "Cleaning, disinfection and sterilisation"
+      ],
+      [
+        "p",
+        "Cleaning removes visible dirt with soap or detergent and water. Disinfection reduces or destroys most organisms on a surface but may not kill spores. Sterilisation destroys all organisms, including spores. Spaulding classifies items by the risk: critical items enter sterile tissue or the bloodstream and must be sterile, such as surgical instruments and catheters; semi-critical items touch mucous membrane and need high-level disinfection, such as endoscopes; non-critical items touch intact skin and need low-level disinfection, such as a blood pressure cuff."
+      ],
+      [
+        "p",
+        "The sterilisation methods are asked with their numbers. An autoclave uses steam under pressure at 121 degrees Celsius, 15 pounds per square inch, for fifteen to twenty minutes. A hot air oven uses dry heat at 160 degrees Celsius for two hours. Ethylene oxide is used for heat-sensitive items. Glutaraldehyde 2 per cent gives high-level disinfection over about twenty minutes and sterilisation over about ten hours. Boiling kills most organisms but does not kill spores, so it is disinfection, not sterilisation. That last point is asked almost every year."
+      ],
+      [
+        "h3",
+        "Biomedical waste, by colour"
+      ],
+      [
+        "p",
+        "The colour coding is fixed and is asked as a matching question. Yellow takes human anatomical waste, soiled waste, expired medicines and discarded blood bags. Red takes contaminated recyclable plastic such as IV tubing, catheters, gloves and syringes without the needle. White takes sharps - needles, blades and broken glass ampoules - in a puncture-proof container. Blue takes glass and metallic implants. Green takes general waste such as paper, packaging and leftover food. The Biomedical Waste Management Rules, 2016 govern this, and waste is treated at a common facility."
+      ],
+      [
+        "p",
+        "A needle is never recapped by hand, never bent and never broken. After use it is dropped straight into the white puncture-proof container at the point of use. That one rule prevents most needle-stick injuries, and the question that describes a nurse recapping a needle is asking you to reject it."
+      ],
+      [
+        "h3",
+        "Isolation, and what happens after an injury"
+      ],
+      [
+        "p",
+        "Contact isolation is for organisms spread by touch, such as MRSA, and requires gloves and a gown. Droplet isolation is for organisms spread by large droplets, such as influenza, and requires a mask within about one metre. Airborne isolation is for tuberculosis, measles and chickenpox, and requires a fitted respirator and a negative-pressure room. Protective or reverse isolation is used for a patient with no immunity, such as a transplant or chemotherapy patient, and protects the patient from the staff rather than the staff from the patient."
+      ],
+      [
+        "p",
+        "After a needle-stick injury the sequence is: let the wound bleed freely, wash with soap and running water, do not squeeze or suck, apply an antiseptic, report immediately, and take post-exposure prophylaxis according to the source. HIV prophylaxis is started as soon as possible, ideally within two hours and no later than seventy-two; hepatitis B is managed according to vaccination status. A blood or body fluid spill is covered with absorbent material, flooded with a disinfectant such as sodium hypochlorite, left for the contact time, and then cleared with gloves."
+      ],
+      [
+        "h3",
+        "Two questions worked the short way"
+      ],
+      [
+        "p",
+        "A question asks which bag takes a used needle. The answer is the white puncture-proof container. Red takes contaminated plastic, yellow takes anatomical and soiled waste, and green takes general waste. Attaching one item to each colour prevents the whole matching error."
+      ],
+      [
+        "p",
+        "A question asks whether boiling is sterilisation. It is not, because spores survive boiling; it is high-level disinfection. Sterilisation needs an autoclave, a hot air oven, ethylene oxide or a chemical sterilant. Reading the word spore in the question is usually enough to reject boiling."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "p",
+        "Three errors recur. The autoclave temperature is given as 100 degrees Celsius instead of 121. Gloves are said to replace hand washing, when hands are washed after the gloves come off. And airborne and droplet isolation are swapped, so tuberculosis is placed in droplet precautions. Check the number and the route before choosing."
+      ],
+      [
+        "ul",
+        [
+          "Chain: agent, reservoir, exit, transmission, entry, host; break one link.",
+          "Five moments of hand hygiene; rub 20 to 30 seconds, soap and water 40 to 60 seconds.",
+          "PPE on: gown, mask, goggles, gloves. Off: gloves, goggles, gown, mask.",
+          "Autoclave 121 C, 15 psi, 15 to 20 minutes; hot air oven 160 C for 2 hours.",
+          "Waste: yellow anatomical, red plastic, white sharps, blue glass, green general."
+        ]
+      ],
+      [
+        "tip",
+        "For any infection control question, ask which link of the chain the measure breaks. Hand hygiene breaks transmission, sterilisation breaks the agent, isolation breaks transmission again, and immunisation makes the host resistant."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "সংক্ৰমণ নিয়ন্ত্ৰণৰ এই অংশত কি সোধা হয়"
+      ],
+      [
+        "p",
+        "এই অধ্যায়ত চিকিৎসালয়ৰ ভিতৰত সংক্ৰমণ কেনেকৈ ৰোধ কৰা হয়: কোন শৃংখল ভাঙিব লাগে, কোন সাৱধানতাই তাক ভাঙে, কোন পদ্ধতিয়ে সঁজুলি জীৱাণুমুক্ত কৰে, আৰু কোন বৰ্জন কোন থলীত যাব সেই নিয়ম। প্ৰশ্নকাকত সংখ্যা আৰু ৰঙত বেছি গুৰুত্ব দিয়ে, সেয়ে ব্যাখ্যাতকৈ সঠিকতাই গুৰুত্বপূৰ্ণ। এই লেখাৰ তালিকাবোৰত পোন্ধৰ-বিশ মিনিট দিলে সোধা হ'ব পৰা বেছিভাগ কথা সামৰি লোৱা যায়।"
+      ],
+      [
+        "p",
+        "আটাইতকৈ বেছি সোধা এটা বস্তু হাত পৰিষ্কাৰ কৰা, আৰু আটাইতকৈ বেছি সোধা এখন তালিকা জৈৱ-চিকিৎসা বৰ্জনৰ ৰঙৰ সংকেত। সময় কম হ'লে এই দুটাই এই অংশৰ ডাঙৰ ভাগ সুৰক্ষিত কৰিব।"
+      ],
+      [
+        "h3",
+        "সংক্ৰমণৰ শৃংখল, ছটা লিংকত"
+      ],
+      [
+        "p",
+        "সংক্ৰমণৰ বাবে ক্ৰমে ছটা বস্তু লাগে: সংক্ৰামক জীৱাণু, জীৱাণু থকা আশ্ৰয়, ওলোৱাৰ পথ, সংক্ৰমণৰ মাধ্যম, সোমোৱাৰ পথ, আৰু সংক্ৰমণৰ সম্ভাৱনা থকা পোষক। যিকোনো এটা লিংক ভাঙিলে সংক্ৰমণ ৰোধ হয়। সেয়ে হাত ধোৱা কাম কৰে, আইছ'লেচন কাম কৰে, জীৱাণুমুক্তকৰণ কাম কৰে, আৰু টিকাকৰণ কাম কৰে - প্ৰতিটোৱে বেলেগ লিংক ভাঙে। এটা ব্যৱস্থাই কোন লিংক ভাঙে সোধা প্ৰশ্নৰ উত্তৰ লিংকৰ নাম কোৱাতেই পোৱা যায়।"
+      ],
+      [
+        "p",
+        "চিকিৎসালয়ত হোৱা সংক্ৰমণ, যাক ন'ছ'ক'মিয়েল বা স্বাস্থ্যসেৱা সম্পৰ্কীয় সংক্ৰমণ বোলে, সেয়া ভৰ্তিৰ সময়ত নাছিল বা উমি থকা নাছিল। আটাইতকৈ সাধাৰণ চাৰিটা হ'ল কেথেটাৰৰ লগত জড়িত মূত্ৰপথৰ সংক্ৰমণ, শল্যচিকিৎসাৰ স্থানৰ সংক্ৰমণ, ভেণ্টিলেটৰৰ লগত জড়িত নিউম'নিয়া আৰু কেন্দ্ৰীয় লাইনৰ পৰা তেজৰ সংক্ৰমণ। এই চাৰিটা নাম তালিকা হিচাপে সোধা হয়, আৰু প্ৰতিটো এটা সঁজুলিৰ লগত জড়িত।"
+      ],
+      [
+        "h3",
+        "মানক সাৱধানতা, আৰু হাত পৰিষ্কাৰ"
+      ],
+      [
+        "p",
+        "মানক সাৱধানতা প্ৰতিজন ৰোগীৰ বাবে, প্ৰতিবাৰে, আৰু ধৰি লয় যে সকলো তেজ আৰু শৰীৰৰ তৰল সংক্ৰামক হ'ব পাৰে। সেইবোৰ হ'ল হাত পৰিষ্কাৰ, গ্লাভছ, ছটিয়াৰ সম্ভাৱনাত গাউন, টোপালি উৰাৰ সম্ভাৱনাত মাস্ক আৰু চকু সুৰক্ষা, চোকা সঁজুলি সুৰক্ষিতভাৱে চলোৱা, পৰিষ্কাৰ চাদৰ আৰু শুদ্ধ বৰ্জন ব্যৱস্থাপনা। জনা সংক্ৰমণৰ বাবে ইয়াৰ ওপৰত সংক্ৰমণ-ভিত্তিক সাৱধানতা যোগ হয়: ঘা বা অন্ত্ৰৰ জীৱাণুৰ বাবে সংস্পৰ্শ, ইনফ্লুৱেঞ্জাৰ বাবে টোপালি, আৰু যক্ষ্মা আৰু হামৰ বাবে বায়ুজনিত।"
+      ],
+      [
+        "p",
+        "হাত পৰিষ্কাৰৰ পাঁচটা সময়, আৰু তালিকা হিচাপে সোধা হয়: ৰোগীক চুবৰ আগতে, পৰিষ্কাৰ পদ্ধতিৰ আগতে, শৰীৰৰ তৰলৰ সংস্পৰ্শৰ আশংকাৰ পিছত, ৰোগীক চুই উঠাৰ পিছত, আৰু ৰোগীৰ চাৰিওফালৰ বস্তু চুই উঠাৰ পিছত। কৌশলত ছটা স্তৰ, হাতৰ তলুৱা, পিঠি, আঙুলিৰ মাজ, বুঢ়া আঙুলি, আঙুলিৰ আগ আৰু কৰমণি সামৰি। এলকহলযুক্ত ৰবে প্ৰায় বিশৰ পৰা ত্ৰিশ ছেকেণ্ড লয় আৰু হাত দৃশ্যমানভাৱে মলিন নহ'লে ব্যৱহাৰ কৰা হয়; ছাবোন আৰু পানীয়ে প্ৰায় চল্লিশৰ পৰা ষাঠি ছেকেণ্ড লয় আৰু হাত দৃশ্যমানভাৱে মলিন হ'লে বা ক্ল'ষ্ট্ৰিডিয়াম ডিফিচিলেৰ দৰে বীজাণু সৃষ্টিকাৰী জীৱাণুৰ সংস্পৰ্শৰ পিছত বাধ্যতামূলক।"
+      ],
+      [
+        "h3",
+        "ব্যক্তিগত সুৰক্ষা সঁজুলি, ক্ৰমত"
+      ],
+      [
+        "p",
+        "সম্পূৰ্ণ গোট লাগিলে পিন্ধাৰ ক্ৰম হ'ল আগতে গাউন, তাৰ পিছত মাস্ক, তাৰ পিছত চশমা বা মুখ ঢকা, আৰু শেষত গ্লাভছ, গ্লাভছে গাউনৰ মণি ঢাকি ৰাখিব। খোলাৰ ক্ৰম ওলোটা আৰু ই সংক্ৰমিত বাহিৰৰ অংশ পিন্ধোতাক নুচুবলৈ সজা: আগতে গ্লাভছ, তাৰ পিছত চশমা, তাৰ পিছত গাউন, আৰু শেষত মাস্ক, প্ৰতিটো স্তৰৰ পিছত হাত পৰিষ্কাৰ। কোনটো বস্তু শেষত পিন্ধে বা আগতে খোলে সোধা প্ৰশ্ন এই দুটা বাক্যৰ পৰাই উত্তৰ পায়।"
+      ],
+      [
+        "p",
+        "গ্লাভছ হাত পৰিষ্কাৰৰ বিকল্প নহয়। ৰোগীৰ মাজত আৰু একেই ৰোগীৰ মলিন আৰু পৰিষ্কাৰ কামৰ মাজত সলনি কৰা হয়, আৰু খোলাৰ পিছত হাত ধোৱা হয়। এই এটা নিয়মেই এই অংশত আটাইতকৈ বেছি সোধা ভুল।"
+      ],
+      [
+        "h3",
+        "পৰিষ্কাৰ কৰা, কীটাণুনাশন আৰু জীৱাণুমুক্তকৰণ"
+      ],
+      [
+        "p",
+        "পৰিষ্কাৰ কৰণে ছাবোন বা ডিটাৰজেণ্টৰে দৃশ্যমান মলিনতা আঁতৰায়। কীটাণুনাশনে পৃষ্ঠত বেছিভাগ জীৱাণু কমায় বা মাৰে কিন্তু বীজাণু নামাৰিবও পাৰে। জীৱাণুমুক্তকৰণে বীজাণুকে ধৰি সকলো জীৱাণু মাৰে। স্পাউল্ডিঙে সঁজুলিক আশংকা অনুসৰি ভাগ কৰে: সংকটপূৰ্ণ সঁজুলি জীৱাণুমুক্ত কলা বা তেজলৈ যায় আৰু জীৱাণুমুক্ত হ'ব লাগে, যেনে শল্যচিকিৎসাৰ সঁজুলি আৰু কেথেটাৰ; অৰ্ধ-সংকটপূৰ্ণ সঁজুলিয়ে শ্লেষ্মা পৰ্দা চুয়েই আৰু উচ্চ-স্তৰৰ কীটাণুনাশন লাগে, যেনে এণ্ড'স্কোপ; অ-সংকটপূৰ্ণ সঁজুলিয়ে অক্ষত ছাল চুয়েই আৰু নিম্ন-স্তৰৰ কীটাণুনাশন লাগে, যেনে ৰক্তচাপৰ কাফ।"
+      ],
+      [
+        "p",
+        "জীৱাণুমুক্তকৰণৰ পদ্ধতি সংখ্যাৰ সৈতে সোধা হয়। অট'ক্লেভে 121 ডিগ্ৰী চেলছিয়াছত, প্ৰতি বৰ্গ ইঞ্চিত 15 পাউণ্ড চাপত, পোন্ধৰৰ পৰা বিশ মিনিট ভাপ ব্যৱহাৰ কৰে। গৰম বতাহৰ ভাটীত 160 ডিগ্ৰী চেলছিয়াছত দুই ঘণ্টা শুকান তাপ। ইথাইলিন অক্সাইড তাপ-সংবেদী সঁজুলিৰ বাবে। 2 শতাংশ গ্লুটাৰালডিহাইডে প্ৰায় বিশ মিনিটত উচ্চ-স্তৰৰ কীটাণুনাশন আৰু প্ৰায় দহ ঘণ্টাত জীৱাণুমুক্তকৰণ দিয়ে। উতলোৱাই বেছিভাগ জীৱাণু মাৰে কিন্তু বীজাণু নামাৰে, সেয়ে সেয়া জীৱাণুমুক্তকৰণ নহয়, কীটাণুনাশন। এই শেষ কথাটো প্ৰায় প্ৰতি বছৰে সোধা হয়।"
+      ],
+      [
+        "h3",
+        "জৈৱ-চিকিৎসা বৰ্জন, ৰঙ অনুসৰি"
+      ],
+      [
+        "p",
+        "ৰঙৰ সংকেত স্থিৰ আৰু মিলোৱা প্ৰশ্ন হিচাপে সোধা হয়। হালধীয়াত মানৱ শৰীৰৰ অংশ, মলিন বৰ্জন, ম্যাদ উকলা ঔষধ আৰু পেলোৱা তেজৰ থলী যায়। ৰঙাত সংক্ৰমিত পুনৰ্ব্যৱহাৰযোগ্য প্লাষ্টিক, যেনে IV নলী, কেথেটাৰ, গ্লাভছ আৰু ছুচ নোহোৱা ছিৰিঞ্জ। বগাত চোকা বস্তু - ছুচ, ব্লেড আৰু ভঙা কাচৰ এম্পুল - ফুটা সহ্য কৰিব পৰা পাত্ৰত। নীলাত কাচ আৰু ধাতুৰ ইমপ্লাণ্ট। সেউজীয়াত কাগজ, পেকেজিং আৰু বাকী খাদ্যৰ দৰে সাধাৰণ বৰ্জন। জৈৱ-চিকিৎসা বৰ্জন ব্যৱস্থাপনা নিয়মাৱলী, 2016 এ ইয়াক নিয়ন্ত্ৰণ কৰে, আৰু বৰ্জন সাধাৰণ সুবিধাত প্ৰক্ৰিয়া কৰা হয়।"
+      ],
+      [
+        "p",
+        "ছুচ হাতেৰে কেতিয়াও ঢাকি নিদিব, নভাঁ‌জিব, নাভাঙিব। ব্যৱহাৰৰ পিছত ব্যৱহাৰৰ ঠাইতেই বগা ফুটা সহ্য কৰিব পৰা পাত্ৰত পেলাব। এই এটা নিয়মেই বেছিভাগ ছুচ-আঘাত ৰোধ কৰে, আৰু নাৰ্চে ছুচ ঢাকি থকাৰ বৰ্ণনা দিয়া প্ৰশ্নই সেইটো বাদ দিবলৈ কয়।"
+      ],
+      [
+        "h3",
+        "আইছ'লেচন, আৰু আঘাতৰ পিছত কি হয়"
+      ],
+      [
+        "p",
+        "সংস্পৰ্শ আইছ'লেচন স্পৰ্শৰে বিয়পা জীৱাণুৰ বাবে, যেনে MRSA, আৰু গ্লাভছ-গাউন লাগে। টোপালি আইছ'লেচন ডাঙৰ টোপালিৰে বিয়পা জীৱাণুৰ বাবে, যেনে ইনফ্লুৱেঞ্জা, আৰু প্ৰায় এক মিটাৰৰ ভিতৰত মাস্ক লাগে। বায়ুজনিত আইছ'লেচন যক্ষ্মা, হাম আৰু জলবসন্তৰ বাবে, আৰু ফিট হোৱা ৰেস্পিৰেটৰ আৰু ঋণাত্মক চাপৰ কোঠা লাগে। সুৰক্ষামূলক বা ওলোটা আইছ'লেচন প্ৰতিৰোধ ক্ষমতা নথকা ৰোগীৰ বাবে, যেনে প্ৰতিস্থাপন বা কিম'থেৰাপিৰ ৰোগী, আৰু ই কৰ্মচাৰীক ৰোগীৰ পৰা নহয়, ৰোগীক কৰ্মচাৰীৰ পৰা ৰক্ষা কৰে।"
+      ],
+      [
+        "p",
+        "ছুচ-আঘাতৰ পিছত ক্ৰম: ঘা ৰক্তক্ষৰণ হ'বলৈ দিয়া, ছাবোন আৰু বব থকা পানীৰে ধোৱা, চেপা বা চুহি নোলোৱা, এণ্টিচেপ্টিক লগোৱা, লগে লগে জনোৱা, আৰু উৎস অনুসৰি সংস্পৰ্শ-পৰৱৰ্তী প্ৰতিৰোধ আৰম্ভ কৰা। HIV ৰ প্ৰতিৰোধ যিমান সোনকালে পাৰি, আদৰ্শতে দুই ঘণ্টাৰ ভিতৰত আৰু বাহাত্তৰ ঘণ্টাতকৈ পলম নকৰাকৈ আৰম্ভ কৰা হয়; হেপাটাইটিছ বি টিকাকৰণৰ অৱস্থা অনুসৰি। তেজ বা শৰীৰৰ তৰল ছটিয়াৰ ওপৰত শোষক পদাৰ্থ দি, ছ'ডিয়াম হাইপ'ক্ল'ৰাইটৰ দৰে কীটাণুনাশকেৰে ঢালি, সংস্পৰ্শ সময় ৰাখি, তাৰ পিছত গ্লাভছ পিন্ধি আঁতৰোৱা হয়।"
+      ],
+      [
+        "h3",
+        "চুটিকৈ কৰা দুটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "ব্যৱহৃত ছুচ কোন থলীত যায় সোধা হ'ল। উত্তৰ বগা ফুটা সহ্য কৰিব পৰা পাত্ৰ। ৰঙাত সংক্ৰমিত প্লাষ্টিক, হালধীয়াত শৰীৰৰ অংশ আৰু মলিন বৰ্জন, আৰু সেউজীয়াত সাধাৰণ বৰ্জন। প্ৰতিটো ৰঙৰ লগত এটা বস্তু জোৰা লগালে গোটেই মিলোৱা ভুল ৰোধ হয়।"
+      ],
+      [
+        "p",
+        "উতলোৱা জীৱাণুমুক্তকৰণ নে সোধা হ'ল। নহয়, কাৰণ উতলাত বীজাণু জীয়াই থাকে; সেয়া উচ্চ-স্তৰৰ কীটাণুনাশন। জীৱাণুমুক্তকৰণৰ বাবে অট'ক্লেভ, গৰম বতাহৰ ভাটী, ইথাইলিন অক্সাইড বা ৰাসায়নিক জীৱাণুনাশক লাগে। প্ৰশ্নত বীজাণু শব্দটো পঢ়িলেই উতলোৱা বাদ দিব পৰা যায়।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "p",
+        "তিনিটা ভুল বাৰে বাৰে আহে। অট'ক্লেভৰ উষ্ণতা 121 ৰ সলনি 100 ডিগ্ৰী চেলছিয়াছ দিয়া হয়। গ্লাভছে হাত ধোৱাৰ বিকল্প বুলি কোৱা হয়, অথচ গ্লাভছ খোলাৰ পিছত হাত ধোৱা হয়। আৰু বায়ুজনিত আৰু টোপালি আইছ'লেচন ওলোটাকৈ লোৱা হয়, সেয়ে যক্ষ্মাক টোপালি সাৱধানতাত ৰখা হয়। বাছনিৰ আগতে সংখ্যা আৰু পথ চোৱা।"
+      ],
+      [
+        "ul",
+        [
+          "শৃংখল: জীৱাণু, আশ্ৰয়, ওলোৱাৰ পথ, মাধ্যম, সোমোৱাৰ পথ, পোষক; এটা লিংক ভাঙা।",
+          "হাত পৰিষ্কাৰৰ পাঁচটা সময়; ৰব 20 ৰ পৰা 30 ছেকেণ্ড, ছাবোন-পানী 40 ৰ পৰা 60 ছেকেণ্ড।",
+          "PPE পিন্ধা: গাউন, মাস্ক, চশমা, গ্লাভছ। খোলা: গ্লাভছ, চশমা, গাউন, মাস্ক।",
+          "অট'ক্লেভ 121 ডিগ্ৰী, 15 psi, 15 ৰ পৰা 20 মিনিট; গৰম বতাহৰ ভাটী 160 ডিগ্ৰীত 2 ঘণ্টা।",
+          "বৰ্জন: হালধীয়া শৰীৰৰ অংশ, ৰঙা প্লাষ্টিক, বগা চোকা বস্তু, নীলা কাচ, সেউজীয়া সাধাৰণ।"
+        ]
+      ],
+      [
+        "h3",
+        "চেণ্ট্ৰেল ষ্টেৰাইল ছাপ্লাই বিভাগ আৰু ঘৰচীয়া পৰিচ্ছন্নতা"
+      ],
+      [
+        "p",
+        "CSSD, চেণ্ট্ৰেল ষ্টেৰাইল ছাপ্লাই বিভাগ, চিকিৎসালয়ৰ সেই বিভাগ যি সঁজুলি সংগ্ৰহ, পৰিষ্কাৰ, পেকিং, জীৱাণুমুক্তকৰণ আৰু বিতৰণ কৰে। ইয়াৰ চাৰিটা অঞ্চল থাকে: মলিন, পৰিষ্কাৰ, পেকিং আৰু জীৱাণুমুক্ত। সঁজুলি সদায় মলিনৰ পৰা পৰিষ্কাৰলৈ এটা দিশতহে যায়, ঘূৰি নাহে। এই চাৰিটা অঞ্চলৰ নাম আৰু দিশৰ নিয়ম এশাৰীত সোধা হয়।"
+      ],
+      [
+        "p",
+        "ৱাৰ্ড পৰিচ্ছন্নতাৰ ক্ৰমো সোধা হয়: ওপৰৰ পৰা তললৈ, পৰিষ্কাৰৰ পৰা মলিনলৈ, আৰু ভিতৰৰ পৰা বাহিৰলৈ। বিছনাৰ চাদৰ প্ৰতিদিনে বা মলিন হ'লে সলনি কৰা হয়, আৰু মাটি দিনে দুবাৰতকৈ কম নহয় মচি লোৱা হয়। এই নিয়মবোৰ সহজ কিন্তু প্ৰায় প্ৰতিবছৰে এটা প্ৰশ্ন ইয়াৰ পৰা আহে।"
+      ],
+      [
+        "h3",
+        "সংক্ৰমণ নজৰদাৰী আৰু সমিতি"
+      ],
+      [
+        "p",
+        "প্ৰতিখন চিকিৎসালয়ত সংক্ৰমণ নিয়ন্ত্ৰণ সমিতি থাকে, যি নীতি প্ৰস্তুত কৰে, প্ৰশিক্ষণ দিয়ে, আৰু সংক্ৰমণৰ হাৰ পৰীক্ষা কৰে। নজৰদাৰীত সংক্ৰমণৰ সংখ্যা লিখি ৰখা হয়, আৰু হঠাতে বৃদ্ধি হ'লে কাৰণ বিচাৰি পদক্ষেপ লোৱা হয়। সংক্ৰমণৰ হাৰ কম কৰাটো গুণমানৰ এটা সূচক, আৰু প্ৰশ্নকাকতত সোধা হয় কোনে নজৰদাৰী কৰে - উত্তৰ সংক্ৰমণ নিয়ন্ত্ৰণ দল।"
+      ],
+      [
+        "h3",
+        "ৰোগী আৰু পৰিয়ালক শিক্ষা দিয়া"
+      ],
+      [
+        "p",
+        "সংক্ৰমণ ৰোধত ৰোগী আৰু পৰিয়ালৰ ভূমিকাও সোধা হয়: হাত ধোৱা, কাঁহি উঠোতে মুখ ঢকা, শ্বাস-প্ৰশ্বাসৰ নিয়ম মানা, চিকিৎসালয়ৰ পৰিদৰ্শনৰ সময় সীমিত ৰখা, আৰু শিশু আৰু অসুস্থ মানুহক লগত নিনিয়া। এই পাঁচটা পৰামৰ্শ প্ৰায় প্ৰতিবছৰে এটা প্ৰশ্নত আহে।"
+      ],
+      [
+        "tip",
+        "সংক্ৰমণ নিয়ন্ত্ৰণৰ যিকোনো প্ৰশ্নত সোধা, এই ব্যৱস্থাটোৱে শৃংখলৰ কোন লিংক ভাঙে। হাত ধোৱাই মাধ্যম ভাঙে, জীৱাণুমুক্তকৰণে জীৱাণু ভাঙে, আইছ'লেচনে মাধ্যম ভাঙে, আৰু টিকাকৰণে পোষকক প্ৰতিৰোধী কৰে।"
+      ]
+    ]
   }
 }
