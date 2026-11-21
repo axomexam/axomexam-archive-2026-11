@@ -3354,3 +3354,19 @@ answers are reduced fractions.
 
 All twelve numerical-aptitude leaves now have 90+. Book total 16,459;
 sitewide 58,782; hero 87,489.
+
+## Verbal Reasoning — first four topics (very hard)
+
+Analogy, classification/odd-one-out, number series and alphabet series
+now hold 80+ very hard questions each:
+
+- analogy 97, classification-odd-one-out 92,
+  number-series 92, alphabet-series 87.
+
+Generators: `tools/gen-vr-analogy.py`, `gen-vr-odd.py`, `gen-vr-series.py`,
+`gen-vr-alpha.py`, sharing `tools/verbal_bank.py` (bank:
+`tools/legacy-banks/dhs-dme-technical/logical-reasoning/verbal-reasoning/question-001.json`).
+Word-based options use `append_bi()` so English and Assamese option text
+both stay correct; numeric/letter options go through the standard `append()`.
+
+Book total after rebuild: 16,827; sitewide 59,150; hero 87,857.
