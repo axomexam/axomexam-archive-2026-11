@@ -6970,5 +6970,601 @@
         "যিকোনো অংকত প্ৰথমে পাঁচটা জনা ৰাশি লিখক: u, v, a, t আৰু s। দুটামান শূন্য বা দিয়া থাকিব, আৰু তাৰ পিছত কোন সমীকৰণ ব্যৱহাৰ কৰিব লাগে নিজেই ওলাই যায়।"
       ]
     ]
+  },
+  "work-energy-power": {
+    "en": [
+      [
+        "h3",
+        "Work, and the three cases where it is zero"
+      ],
+      [
+        "p",
+        "Work is done when a force moves a body through a distance in the direction of the force, and it is measured in joule. One joule is the work done when a force of one newton moves a body one metre. The formula is work equals force times distance times the cosine of the angle between them, and that cosine is where most of the marks sit."
+      ],
+      [
+        "p",
+        "Work is zero in three situations, and each is asked. When there is no displacement, as when you push a wall. When the force is perpendicular to the displacement, as when a coolie carries a load on his head and walks — the force is upward and the motion is forward, so the angle is 90 degrees and the cosine is zero. When the displacement is zero over a closed path, as in a satellite in a circular orbit."
+      ],
+      [
+        "p",
+        "Work is positive when the force has a component along the motion, as in a falling stone, and negative when it opposes the motion, as in friction on a sliding block. A negative answer is not an error; it means energy is being taken out of the body."
+      ],
+      [
+        "h3",
+        "Kinetic and potential energy"
+      ],
+      [
+        "p",
+        "Kinetic energy is the energy of motion and equals half the mass times the square of the speed. Because the speed is squared, doubling the speed quadruples the kinetic energy, which is why speed limits matter far more than they look. A truck at 60 and a car at 60 have very different kinetic energies, and that difference is the whole reason for separate lanes."
+      ],
+      [
+        "p",
+        "Potential energy is stored energy due to position or configuration. Gravitational potential energy near the earth is mass times g times height. Elastic potential energy is stored in a stretched spring, and chemical potential energy in fuel and food. A raised hammer, a stretched bow and a charged battery are all the same idea in different dress."
+      ],
+      [
+        "p",
+        "The law of conservation of mechanical energy says that in the absence of friction the sum of kinetic and potential energy stays constant. A stone dropped from a height converts potential to kinetic as it falls, and the total stays the same. With friction the sum decreases, and the difference appears as heat, which is still energy and still conserved — the wider law never fails."
+      ],
+      [
+        "h3",
+        "Power and the commercial unit"
+      ],
+      [
+        "p",
+        "Power is the rate of doing work, work divided by time, measured in watt. One watt is one joule per second. A stronger engine does the same work in less time, and that is exactly what power measures. The horse power is 746 watt, and that figure is asked as a one-line conversion."
+      ],
+      [
+        "p",
+        "The commercial unit of electrical energy is the kilowatt hour, which is the energy used by a one kilowatt appliance in one hour. One kilowatt hour equals 3.6 million joule, and it is what the electricity bill counts. A question that asks why the kilowatt hour is used rather than the joule wants the answer that joule is too small a unit for household consumption."
+      ],
+      [
+        "p",
+        "Efficiency is useful output energy divided by total input energy, expressed as a percentage, and it can never exceed 100. An incandescent bulb is about 5 per cent efficient because most of its energy leaves as heat, which is why it is being replaced. That example appears in both physics and general-science papers."
+      ],
+      [
+        "h3",
+        "The worked patterns"
+      ],
+      [
+        "p",
+        "First: a force of 10 newton moves a body 5 metre along the force, so work is 50 joule. Second: the same force at 60 degrees gives 25 joule, because the cosine of 60 is one half. Third: a 2 kilogram body at 3 metre per second has kinetic energy 9 joule. Fourth: a 60 kilogram person climbing 5 metre gains 2,940 joule of potential energy, taking g as 9.8."
+      ],
+      [
+        "p",
+        "Fifth: a pump lifting 200 kilogram of water 10 metre in 20 seconds does 19,600 joule of work, so its power is 980 watt. Those five patterns cover the numerical questions in this topic, and each takes under a minute once the formula is chosen correctly."
+      ],
+      [
+        "h3",
+        "Sources of energy, in one line each"
+      ],
+      [
+        "p",
+        "Renewable sources are solar, wind, hydro, biomass and tidal; non-renewable are coal, petroleum, natural gas and nuclear fuel. Solar cells convert light directly to electricity, a windmill converts wind to mechanical then electrical energy, and a hydro plant converts the potential energy of stored water. A question that asks which source is indirect solar wants wind, because wind is caused by unequal heating of the air."
+      ],
+      [
+        "h3",
+        "The work-energy theorem, and why it is useful"
+      ],
+      [
+        "p",
+        "The work-energy theorem says the net work done on a body equals the change in its kinetic energy. That single sentence removes the need to track forces and times separately: find the net work, and the change in speed follows. Braking distance is the classic use — the work done by friction equals the kinetic energy lost, so doubling the speed quadruples the distance."
+      ],
+      [
+        "p",
+        "That is why a loaded vehicle needs a longer braking distance for the same pedal force, and why wet roads are dangerous: friction is smaller, so the same kinetic energy needs a longer distance to be removed. A question phrased as why braking distance grows with the square of speed wants this theorem, not the equations of motion."
+      ],
+      [
+        "h3",
+        "Machines, mechanical advantage and efficiency"
+      ],
+      [
+        "p",
+        "A simple machine multiplies force or changes its direction, and the ratio of load to effort is the mechanical advantage. A lever, a pulley, an inclined plane, a wedge and a screw are the five named in the syllabus. In an ideal machine work in equals work out, so a machine that multiplies force by five must move its effort through five times the distance."
+      ],
+      [
+        "p",
+        "Real machines lose some work to friction, so efficiency is less than 100 per cent. A pulley system with a mechanical advantage of 4 and an efficiency of 80 per cent needs an effort of one quarter of the load divided by 0.8. That is the standard two-step numerical, and the two steps are the advantage and then the efficiency correction."
+      ],
+      [
+        "h3",
+        "Five definitions in one card"
+      ],
+      [
+        "p",
+        "Work: force times displacement along the force, in joule. Energy: the capacity to do work, in joule. Kinetic energy: half mass times speed squared. Potential energy: mass times g times height. Power: work per unit time, in watt. Those five definitions, written once, answer every definition question in this topic, and the examiner wants a phrase rather than a paragraph."
+      ],
+      [
+        "p",
+        "One more pair worth separating: energy and power. Energy is the total amount, power is the rate. A 1000 watt heater running for two hours uses two kilowatt hours, while a 2000 watt heater running for one hour uses the same. That comparison is asked as a numerical and as a concept, and the answer is always the product of power and time, which is why the electricity bill is written in kilowatt hours rather than in watts."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Giving work a value when the force is perpendicular to the motion. It is zero.",
+          "Forgetting to square the speed in kinetic energy.",
+          "Saying power is measured in joule. It is measured in watt.",
+          "Writing efficiency above 100 per cent.",
+          "Using metre per second in place of metre per second squared in energy formulas."
+        ]
+      ],
+      [
+        "h3",
+        "Ten days on this topic"
+      ],
+      [
+        "p",
+        "Two days on work with the zero-work cases. Two days on kinetic and potential energy with the conservation law. Two days on power, the kilowatt hour and efficiency. Two days on the five numerical patterns. The last two days: energy sources and questions from this bank."
+      ],
+      [
+        "tip",
+        "For any work question, find the angle between force and displacement first. That angle alone decides whether the answer is positive, zero or negative, before any number is touched."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "কাৰ্য, আৰু কাৰ্য শূন্য হোৱা তিনি অৱস্থা"
+      ],
+      [
+        "p",
+        "বল এটাই বস্তু এটাক বলৰ দিশত গতিশীল কৰিলে কাৰ্য হয়, আৰু ইয়াক জুলত জুখা হয়। এটা জুল হ’ল এটা নিউটন বলেই বস্তু এটাক এটা মিটাৰ লৰালে হোৱা কাৰ্য। সূত্ৰ — কাৰ্য = বল × দূৰত্ব × কোণৰ ক’ছাইন, আৰু সেই ক’ছাইনতে বেছিভাগ নম্বৰ থাকে।"
+      ],
+      [
+        "p",
+        "কাৰ্য তিনি অৱস্থাত শূন্য হয়, আৰু তিনিওটা সোধা হয়। যেতিয়া সৰণ নাই, যেনে বেৰ এটা ঠেলা। যেতিয়া বল সৰণৰ লম্ব, যেনে কুলীয়ে মূৰত ভাৰ লৈ খোজ কাঢ়ে — বল ওপৰলৈ, গতি আগলৈ, সেয়ে কোণ ৯০ ডিগ্ৰী আৰু ক’ছাইন শূন্য। যেতিয়া বন্ধ পথত মুঠ সৰণ শূন্য, যেনে বৃত্তীয় কক্ষপথত উপগ্ৰহ।"
+      ],
+      [
+        "p",
+        "কাৰ্য ধনাত্মক হয় যেতিয়া বলৰ এটা উপাংশ গতিৰ দিশত থাকে, যেনে পৰি থকা শিল, আৰু ঋণাত্মক হয় যেতিয়া বল গতিৰ বিপৰীতে, যেনে ঘৰ্ষণ। ঋণাত্মক উত্তৰ ভুল নহয়; ইয়ে বুজায় বস্তুটোৰ পৰা শক্তি ওলাই গৈছে।"
+      ],
+      [
+        "h3",
+        "গতিশক্তি আৰু স্থিতিশক্তি"
+      ],
+      [
+        "p",
+        "গতিশক্তি হ’ল গতিৰ শক্তি, আৰু ই আধা × ভৰ × বেগৰ বৰ্গ। বেগৰ বৰ্গ হোৱাৰ বাবে বেগ দুগুণ কৰিলে গতিশক্তি চাৰিগুণ হয়, সেয়েই গতিৰ সীমাই দেখাতকৈ বহু বেছি গুৰুত্বপূৰ্ণ। ৬০ ত চলি থকা ট্ৰাক আৰু ৬০ ত চলি থকা গাড়ীৰ গতিশক্তি বহুত বেলেগ, আৰু সেই পাৰ্থক্যই পৃথক লেনৰ গোটেই কাৰণ।"
+      ],
+      [
+        "p",
+        "স্থিতিশক্তি হ’ল অৱস্থান বা গঠনৰ বাবে জমা শক্তি। পৃথিৱীৰ ওচৰত মাধ্যাকৰ্ষণীয় স্থিতিশক্তি = ভৰ × g × উচ্চতা। স্থিতিস্থাপক স্থিতিশক্তি টনা বসন্তত জমা থাকে, আৰু ৰাসায়নিক স্থিতিশক্তি ইন্ধন আৰু খাদ্যত। ওপৰত তোলা হাতুৰী, টনা ধনু আৰু চাৰ্জ থকা বেটাৰী — একেই ধাৰণা, বেলেগ ৰূপত।"
+      ],
+      [
+        "p",
+        "যান্ত্ৰিক শক্তি সংৰক্ষণৰ সূত্ৰই কয় — ঘৰ্ষণ নাথাকিলে গতিশক্তি আৰু স্থিতিশক্তিৰ যোগফল স্থিৰ থাকে। ওপৰৰ পৰা পেলোৱা শিল পৰি থকাৰ লগে লগে স্থিতিশক্তি গতিশক্তিলৈ ৰূপান্তৰ হয়, মুঠ একেই থাকে। ঘৰ্ষণ থাকিলে যোগফল কমে, আৰু পাৰ্থক্যটো তাপ হিচাপে ওলায়, যি শক্তিয়েই আৰু শক্তি সংৰক্ষিতেই থাকে — বহল সূত্ৰটো কেতিয়াও ভাঙে না।"
+      ],
+      [
+        "h3",
+        "ক্ষমতা আৰু বাণিজ্যিক একক"
+      ],
+      [
+        "p",
+        "ক্ষমতা হ’ল কাৰ্য কৰাৰ হাৰ, কাৰ্য ভাগ সময়, একক ৱাট। এটা ৱাট মানে প্ৰতি ছেকেণ্ডত এটা জুল। সবল ইঞ্জিনে একেই কাৰ্য কম সময়ত কৰে, আৰু ক্ষমতাই ঠিক সেয়াই জুখে। অশ্বশক্তি ৭৪৬ ৱাট, আৰু এই সংখ্যাটো এক-শাৰীৰ ৰূপান্তৰ হিচাপে সোধা হয়।"
+      ],
+      [
+        "p",
+        "বিদ্যুৎ শক্তিৰ বাণিজ্যিক একক কিল’ৱাট ঘণ্টা, যি এক কিল’ৱাট সঁজুলিয়ে এক ঘণ্টাত ব্যৱহাৰ কৰা শক্তি। এক কিল’ৱাট ঘণ্টা = ৩৬ লাখ জুল, আৰু বিদ্যুৎ বিলত এইটোৱেই গণা হয়। জুলৰ সলনি কিল’ৱাট ঘণ্টা কিয় ব্যৱহাৰ কৰা হয় সুধিলে উত্তৰ — ঘৰুৱা খৰচৰ বাবে জুল অতি সৰু একক।"
+      ],
+      [
+        "p",
+        "দক্ষতা হ’ল উপযোগী আউটপুট শক্তি ভাগ মুঠ ইনপুট শক্তি, শতাংশত, আৰু ই কেতিয়াও ১০০ৰ ওপৰ হ’ব নোৱাৰে। টাংষ্টেন বাল্বৰ দক্ষতা প্ৰায় ৫ শতাংশ কাৰণ বেছিভাগ শক্তি তাপ হিচাপে ওলায়, সেয়েই ইয়াক সলনি কৰা হৈছে। এই উদাহৰণটো পদাৰ্থবিজ্ঞান আৰু সাধাৰণ বিজ্ঞান — দুয়ো প্ৰশ্নকাকততে আহে।"
+      ],
+      [
+        "h3",
+        "সমাধান কৰা আৰ্হিবোৰ"
+      ],
+      [
+        "p",
+        "প্ৰথম: ১০ নিউটন বলে বস্তু এটাক বলৰ দিশত ৫ মিটাৰ লৰালে কাৰ্য ৫০ জুল। দ্বিতীয়: একেই বল ৬০ ডিগ্ৰী কোণত হ’লে ২৫ জুল, কাৰণ ৬০ৰ ক’ছাইন আধা। তৃতীয়: ২ কিলোগ্ৰামৰ বস্তু ৩ মিটাৰ প্ৰতি ছেকেণ্ডত চলিলে গতিশক্তি ৯ জুল। চতুৰ্থ: ৬০ কিলোগ্ৰামৰ মানুহে ৫ মিটাৰ উঠিলে ২,৯৪০ জুল স্থিতিশক্তি লাভ কৰে, g = ৯.৮ ধৰি।"
+      ],
+      [
+        "p",
+        "পঞ্চম: পাম্প এটাই ২০ ছেকেণ্ডত ২০০ কিলোগ্ৰাম পানী ১০ মিটাৰ ওপৰলৈ তোলে, কাৰ্য ১৯,৬০০ জুল, সেয়ে ক্ষমতা ৯৮০ ৱাট। এই পাঁচটা আৰ্হিয়েই এই শিতানৰ সংখ্যামূলক প্ৰশ্ন সামৰি লয়, আৰু সূত্ৰ শুদ্ধকৈ বাছি ল’লে প্ৰতিটো এবাৰ মিনিটৰ ভিতৰত হয়।"
+      ],
+      [
+        "h3",
+        "শক্তিৰ উৎস, এশাৰীকৈ"
+      ],
+      [
+        "p",
+        "নবীকৰণযোগ্য উৎস — সৌৰ, বায়ু, জল, জৈৱভৰ আৰু জোৱাৰ; অনবীকৰণযোগ্য — কয়লা, পেট্ৰ’লিয়াম, প্ৰাকৃতিক গেছ আৰু নিউক্লিয় ইন্ধন। সৌৰ কোষে পোহৰক পোনে পোনে বিদ্যুৎ কৰে, বতাহৰ চকীয়ে বায়ুক যান্ত্ৰিক তাৰ পিছত বিদ্যুৎ শক্তিলৈ ৰূপান্তৰ কৰে, আৰু জলবিদ্যুৎ কেন্দ্ৰই জমা পানীৰ স্থিতিশক্তি ব্যৱহাৰ কৰে। পৰোক্ষভাৱে সৌৰ উৎস কোনটো সুধিলে উত্তৰ বায়ু, কাৰণ বায়ু বতাহৰ অসম তাপনৰ পৰা হয়।"
+      ],
+      [
+        "h3",
+        "কাৰ্য-শক্তি উপপাদ্য, আৰু ই কিয় কামত আহে"
+      ],
+      [
+        "p",
+        "কাৰ্য-শক্তি উপপাদ্যই কয় — বস্তু এটাৰ ওপৰত হোৱা মুঠ কাৰ্য তাৰ গতিশক্তিৰ পৰিৱৰ্তনৰ সমান। এই এটা বাক্যয়ে বল আৰু সময় পৃথকে পৃথকে লগত ৰাখিব নালাগে: মুঠ কাৰ্য উলিয়াওক, বেগৰ পৰিৱৰ্তন নিজেই ওলাই আহে। ব্ৰেকৰ দূৰত্ব ইয়াৰ ধ্ৰুপদী ব্যৱহাৰ — ঘৰ্ষণে কৰা কাৰ্য = হেৰুওৱা গতিশক্তি, সেয়ে বেগ দুগুণ কৰিলে দূৰত্ব চাৰিগুণ হয়।"
+      ],
+      [
+        "p",
+        "সেয়েই একেই পেডেল বলে ল’ডেড যানৰ ব্ৰেকৰ দূৰত্ব বেছি লাগে, আৰু সেয়েই তিতি থকা ৰাস্তা বিপদজনক: ঘৰ্ষণ কম, সেয়ে একেই গতিশক্তি আঁতৰাবলৈ বেছি দূৰত্ব লাগে। ব্ৰেকৰ দূৰত্ব বেগৰ বৰ্গৰ লগত কিয় বাঢ়ে সুধিলে উত্তৰ এই উপপাদ্যয়েই, গতিৰ সমীকৰণ নহয়।"
+      ],
+      [
+        "h3",
+        "যন্ত্ৰ, যান্ত্ৰিক লাভ আৰু দক্ষতা"
+      ],
+      [
+        "p",
+        "সৰল যন্ত্ৰই বল বঢ়ায় বা তাৰ দিশ সলায়, আৰু ভাৰ ভাগ প্ৰয়াসক যান্ত্ৰিক লাভ বোলে। লিভাৰ, কপি, নতুবা সমতল, গাঁথি আৰু স্ক্ৰু — পাঠ্যক্ৰমত নাম দিয়া পাঁচটা। আদৰ্শ যন্ত্ৰত ইনপুট কাৰ্য = আউটপুট কাৰ্য, সেয়ে যি যন্ত্ৰই বল পাঁচ গুণ কৰে, তাৰ প্ৰয়াসক পাঁচ গুণ দূৰত্ব চলাব লাগে।"
+      ],
+      [
+        "p",
+        "প্ৰকৃত যন্ত্ৰত ঘৰ্ষণত কিছু কাৰ্য হেৰায়, সেয়ে দক্ষতা ১০০ শতাংশতকৈ কম। যি কপি ব্যৱস্থাৰ যান্ত্ৰিক লাভ ৪ আৰু দক্ষতা ৮০ শতাংশ, তাত প্ৰয়াস = ভাৰৰ চাৰি ভাগৰ এভাগ ভাগ ০.৮। এইটোৱেই মানক দুই-খোজৰ অংক, আৰু দুই খোজ হ’ল লাভ, তাৰ পিছত দক্ষতাৰ শুধৰণি।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "বল গতিৰ লম্ব হ’লেও কাৰ্যৰ মান দিয়া — সেয়া শূন্য।",
+          "গতিশক্তিত বেগৰ বৰ্গ ল’বলৈ পাহৰি যোৱা।",
+          "ক্ষমতা জুলত জুখা বুলি কোৱা — ৱাটত জুখা হয়।",
+          "দক্ষতা ১০০ শতাংশৰ ওপৰত লিখা।",
+          "শক্তিৰ সূত্ৰত মিটাৰ প্ৰতি ছেকেণ্ড বৰ্গৰ ঠাইত মিটাৰ প্ৰতি ছেকেণ্ড দিয়া।"
+        ]
+      ],
+      [
+        "h3",
+        "পাঁচটা সংজ্ঞা, এখন কাৰ্ডত"
+      ],
+      [
+        "p",
+        "কাৰ্য: বল × বলৰ দিশত সৰণ, জুলত। শক্তি: কাৰ্য কৰাৰ ক্ষমতা, জুলত। গতিশক্তি: আধা × ভৰ × বেগৰ বৰ্গ। স্থিতিশক্তি: ভৰ × g × উচ্চতা। ক্ষমতা: প্ৰতি একক সময়ত কাৰ্য, ৱাটত। এই পাঁচটা সংজ্ঞা এবাৰ লিখি থ’লে এই শিতানৰ প্ৰতিটো সংজ্ঞামূলক প্ৰশ্নৰ উত্তৰ ওলায়, আৰু পৰীক্ষকে অনুচ্ছেদ নহয়, এটা পদগুচ্ছ বিচাৰে।"
+      ],
+      [
+        "h3",
+        "দৈনন্দিন জীৱনৰ পাঁচটা উদাহৰণ"
+      ],
+      [
+        "p",
+        "এটা: পাহাৰত উঠোঁতে মানুহে স্থিতিশক্তি লাভ কৰে, আৰু নামি অহাৰ সময়ত সেই শক্তি গতিশক্তি আৰু তাপলৈ ৰূপান্তৰ হয়। দুই: ফেন এখন জোৰাত হাতেৰে ঘঁহিলে যান্ত্ৰিক শক্তি তাপলৈ যায় — সেয়েই শক্তিৰ ৰূপান্তৰ। তিনি: চিয়াঁহীৰ পাম্পত হেঁচা দিলে স্থিতিস্থাপক স্থিতিশক্তি জমা হয় আৰু এৰি দিলে চিয়াঁহী ওলায়। চাৰি: ধনু টানিলে স্থিতিস্থাপক শক্তি জমা হয়, এৰি দিলে তীৰলৈ গতিশক্তি যায়। পাঁচ: বতাহৰ চকী, জলবিদ্যুৎ আৰু সৌৰ কোষ — তিনিওটাই একেই শক্তি ৰূপান্তৰৰ উদাহৰণ, মাত্ৰ উৎস বেলেগ।"
+      ],
+      [
+        "p",
+        "এই পাঁচটা উদাহৰণে 'শক্তিৰ ৰূপান্তৰ' ধৰণৰ প্ৰশ্নত কাম কৰে, আৰু লগতে সংৰক্ষণ সূত্ৰও বুজায় — শক্তি সৃষ্টি বা ধ্বংস নহয়, কেৱল ৰূপ সলনি হয়। সেয়ে যেতিয়া প্ৰশ্নত 'ক’লৈ গ’ল শক্তি' বুলি সোধে, উত্তৰ সদায় তাপ, শব্দ বা গতি হিচাপে ওলোৱা শক্তি।"
+      ],
+      [
+        "h3",
+        "শক্তি আৰু ক্ষমতাৰ পাৰ্থক্য"
+      ],
+      [
+        "p",
+        "আৰু এটা যোৰ পৃথক কৰি লোৱা ভাল: শক্তি আৰু ক্ষমতা। শক্তি হ’ল মুঠ পৰিমাণ, ক্ষমতা হ’ল হাৰ। ১০০০ ৱাটৰ হিটাৰে দুই ঘণ্টা চলিলে দুই কিল’ৱাট ঘণ্টা ব্যৱহাৰ কৰে, আনহাতে ২০০০ ৱাটৰ হিটাৰে এক ঘণ্টা চলিলে একেই পৰিমাণ। এই তুলনাটো অংক হিচাপেও আৰু ধাৰণা হিচাপেও সোধা হয়, আৰু উত্তৰ সদায় ক্ষমতা × সময়।"
+      ],
+      [
+        "p",
+        "এই পাৰ্থক্যটো বিদ্যুৎ বিলৰ প্ৰশ্নত বিশেষভাৱে কামত আহে। ঘৰত ৬০ ৱাটৰ চাৰিটা বাল্ব দিনে ৫ ঘণ্টা চলিলে দিনে ১.২ কিল’ৱাট ঘণ্টা খৰচ হয়, আৰু মাহত প্ৰায় ৩৬ কিল’ৱাট ঘণ্টা। এনে অংকত একক মনত ৰখাটোৱেই আধা কাম — ৱাটক কিল’ৱাটলৈ ১০০০ ৰে হৰণ কৰি, তাৰ পিছত ঘণ্টাৰে পূৰণ কৰক।"
+      ],
+      [
+        "h3",
+        "শব্দ, তাপ আৰু শক্তিৰ পাঁচটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "এটা: কাৰ্য শূন্য হ’ব পাৰে নে? পাৰে, তিনি অৱস্থাত — সৰণ নাই, বল লম্ব, বা বন্ধ পথ। দুই: গতিশক্তি ঋণাত্মক হ’ব পাৰে নে? নোৱাৰে, কাৰণ ভৰ আৰু বেগৰ বৰ্গ দুয়ো ধনাত্মক। তিনি: স্থিতিশক্তি ঋণাত্মক হ’ব পাৰে নে? হ’ব পাৰে, যদি উচ্চতাৰ শূন্য তলখন বাছনি কৰা ঠাইৰ ওপৰত থাকে। চাৰি: ক্ষমতা শূন্য হ’ব পাৰে নে? পাৰে, যদি কাৰ্য শূন্য হয় — যেনে সৰণ নোহোৱাকৈ ঠেলা। পাঁচ: দক্ষতা ১০০ শতাংশ হ’ব পাৰে নে? আদৰ্শ যন্ত্ৰত হয়, প্ৰকৃত যন্ত্ৰত নহয়।"
+      ],
+      [
+        "p",
+        "এই পাঁচটা প্ৰশ্নৰ উত্তৰ মনত থাকিলে এই শিতানৰ 'পাৰে নে নোৱাৰে' ধৰণৰ প্ৰশ্নবোৰত কেতিয়াও দ্বিধা নহয়। লগতে এটা অভ্যাস: যিকোনো অংকত উত্তৰ লিখাৰ আগত একক আৰু চিন পৰীক্ষা কৰক — ঋণাত্মক কাৰ্য মানে শক্তি ওলাই গৈছে, আৰু সেই কথাটো এশাৰীত লিখিলে পূৰ্ণ নম্বৰ পোৱা যায়, কাৰণ ব্যাখ্যাও বিচৰা হয়; আৰু এনেকৈ লিখা উত্তৰত পৰীক্ষকে আধা নম্বৰ নহয়, পূৰ্ণ নম্বৰ দিবলৈ বাধ্য হয়, কাৰণ তাত ধাৰণা আৰু সংখ্যা দুয়োটা একেলগে থাকে; সেয়ে এই অভ্যাসটো আজিৰ পৰাই আৰম্ভ কৰিলে পৰীক্ষাৰ দিনা সুকীয়াকৈ চিন্তা কৰিব নালাগে।"
+      ],
+      [
+        "h3",
+        "এই শিতানত দহ দিন"
+      ],
+      [
+        "p",
+        "দুদিন কাৰ্যত, শূন্য-কাৰ্যৰ অৱস্থাসহ। দুদিন গতিশক্তি আৰু স্থিতিশক্তিত, সংৰক্ষণ সূত্ৰসহ। দুদিন ক্ষমতা, কিল’ৱাট ঘণ্টা আৰু দক্ষতাত। দুদিন পাঁচটা অংকৰ আৰ্হিত। শেষৰ দুদিন: শক্তিৰ উৎস আৰু এই বেংকৰ প্ৰশ্ন।"
+      ],
+      [
+        "tip",
+        "যিকোনো কাৰ্যৰ প্ৰশ্নত প্ৰথমে বল আৰু সৰণৰ মাজৰ কোণ বিচাৰক। সেই কোণেই উত্তৰ ধনাত্মক, শূন্য নে ঋণাত্মক সেয়া নিৰ্ণয় কৰে, এটা সংখ্যাও নোচোৱাকৈ।"
+      ]
+    ]
+  },
+  "gravitation": {
+    "en": [
+      [
+        "h3",
+        "The universal law, and the constant in it"
+      ],
+      [
+        "p",
+        "Newton's law of gravitation says every particle attracts every other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between their centres. The constant of proportionality is G, the universal gravitational constant, equal to 6.67 times 10 to the minus 11 in SI units. It is called universal because the same value applies to a falling apple and to a galaxy."
+      ],
+      [
+        "p",
+        "The inverse square part carries the marks. Doubling the distance reduces the force to one quarter; tripling it reduces it to one ninth. A question that asks what happens to the force when the distance is halved wants four times, and the arithmetic is one line. The mass part is equally direct: doubling either mass doubles the force."
+      ],
+      [
+        "h3",
+        "g, and how it differs from G"
+      ],
+      [
+        "p",
+        "The acceleration due to gravity, g, is the force per unit mass at a place, about 9.8 metre per second squared at the earth's surface. G is a universal constant; g depends on the planet, on altitude, on depth and even on latitude. That contrast is the most repeated question in this topic, and the answer is one sentence: G is constant everywhere, g is local."
+      ],
+      [
+        "p",
+        "g decreases with altitude because the distance from the centre increases. It decreases with depth too, and becomes zero at the centre of the earth. It is greatest at the poles and least at the equator, because the earth is flattened and because of its rotation. A question that asks where a body weighs most wants the poles."
+      ],
+      [
+        "p",
+        "Mass is the quantity of matter, measured in kilogram, and it does not change with place. Weight is the gravitational force on that mass, measured in newton, and it does change. On the moon g is about one sixth of the earth's value, so a 60 kilogram person weighs 588 newton on earth and about 98 newton on the moon, while the mass stays 60 kilogram in both places."
+      ],
+      [
+        "h3",
+        "Free fall, and the classic misconceptions"
+      ],
+      [
+        "p",
+        "In free fall the only force is gravity, so every body falls with the same acceleration regardless of mass, provided air resistance is ignored. That is why a coin and a feather fall together in a vacuum. In air the feather is slowed by resistance, which is why the school experiment needs an evacuated tube to work."
+      ],
+      [
+        "p",
+        "The equations of motion apply with a equal to g: speed after time t is gt, and distance fallen is half g t squared. A body dropped for 2 seconds reaches 19.6 metre per second and falls 19.6 metres. A body thrown up decelerates at g, reaches zero speed at the top, and then falls back with the same g, so the time up equals the time down."
+      ],
+      [
+        "h3",
+        "Kepler's three laws"
+      ],
+      [
+        "ul",
+        [
+          "Law of orbits — every planet moves in an ellipse with the sun at one focus.",
+          "Law of areas — the line joining a planet to the sun sweeps equal areas in equal times, so a planet moves faster when nearer the sun.",
+          "Law of periods — the square of the orbital period is proportional to the cube of the semi-major axis."
+        ]
+      ],
+      [
+        "p",
+        "The second law is the one that is asked as an explanation: why a comet speeds up near the sun. The answer is that the area swept must stay the same, so a shorter radius needs a larger speed. The third law is asked as a ratio question, and one line of the formula is enough."
+      ],
+      [
+        "h3",
+        "Escape velocity, orbital velocity and satellites"
+      ],
+      [
+        "p",
+        "Escape velocity is the minimum speed needed to leave a planet's gravity for ever, and for the earth it is about 11.2 kilometre per second. Orbital velocity for a low orbit is about 7.9 kilometre per second. A question that asks which is greater wants escape velocity, and the ratio is the square root of two."
+      ],
+      [
+        "p",
+        "A geostationary satellite orbits above the equator at about 36,000 kilometre with a period of 24 hours, so it appears fixed in the sky. That is why it is used for television and weather. A polar satellite is lower, about 800 kilometre, and circles the earth in about 100 minutes, which is why it can photograph the whole surface."
+      ],
+      [
+        "p",
+        "Weightlessness in an orbiting spacecraft is not the absence of gravity; gravity provides the centripetal force. The crew and the craft fall together, so there is no normal reaction, and a spring balance reads zero. That explanation is worth learning word for word, because the wrong answer — no gravity in space — is the commonest mistake in the topic."
+      ],
+      [
+        "h3",
+        "Centre of gravity, stability and tides"
+      ],
+      [
+        "p",
+        "The centre of gravity is the point through which the total weight of a body acts. A body is stable when its centre of gravity is low and its base is wide, which is why a bus is loaded at the bottom and a stool has splayed legs. Stability is asked as an applied question about ladders, loads and vehicles."
+      ],
+      [
+        "p",
+        "Tides are caused by the difference in the moon's gravitational pull across the earth, with the sun adding a smaller effect. Spring tides occur at new and full moon when the sun and moon pull along the same line; neap tides at the quarters when they are at right angles. That pair is asked as a definition and as a date question."
+      ],
+      [
+        "h3",
+        "Three numericals worth practising"
+      ],
+      [
+        "p",
+        "First: if the distance between two bodies is doubled, the force becomes one quarter, so a force of 100 newton becomes 25 newton. Second: a body of 10 kilogram on the earth weighs 98 newton, and on a planet where g is 4 it weighs 40 newton, while its mass stays 10 kilogram in both places. Third: a stone dropped from rest takes 3 seconds to reach the ground, so the height is 44.1 metres."
+      ],
+      [
+        "p",
+        "Fourth: a body thrown up at 9.8 metre per second rises for one second, reaches 4.9 metres, and returns after two seconds in total. That pattern is the single most common numerical in the paper, and the two numbers 4.9 and 9.8 do all the work, which is why they are worth memorising before any formula, because they remove most of the arithmetic from the question, and leave the candidate time for the explanation part, which carries the other marks, so the two parts of the answer both get full weight, and nothing is left half answered, and the examiner has no reason to deduct."
+      ],
+      [
+        "h3",
+        "Five definitions to write once"
+      ],
+      [
+        "p",
+        "Gravitation: the force of attraction between any two masses. G: the universal constant, 6.67 times 10 to the minus 11. g: the acceleration due to gravity at a place. Weight: mass times g, in newton. Escape velocity: the minimum speed to leave a planet for ever. Those five, written on one card, answer every definition question in the topic."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Writing g as 6.67 times 10 to the minus 11. That is G.",
+          "Saying mass changes on the moon. Mass does not; weight does.",
+          "Saying there is no gravity in a spacecraft. Gravity provides the orbit.",
+          "Giving escape velocity as 7.9 kilometre per second. That is orbital velocity.",
+          "Forgetting that g is zero at the centre of the earth, not maximum."
+        ]
+      ],
+      [
+        "h3",
+        "Ten days on this topic"
+      ],
+      [
+        "p",
+        "Two days on Newton's law, G and the inverse square relation. Two days on g, its variation and the mass-weight distinction. Two days on free fall with numericals. Two days on Kepler's laws, escape and orbital velocity, and satellites. The last two days: centre of gravity, stability, tides and questions from this bank."
+      ],
+      [
+        "tip",
+        "For any gravitation numerical, write the formula and then ask whether the distance is from the centre. Half the errors in this topic come from using the height above the surface as the distance."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "সাৰ্বজনীন সূত্ৰ, আৰু তাৰ ভিতৰৰ ধ্ৰুৱক"
+      ],
+      [
+        "p",
+        "নিউটনৰ মাধ্যাকৰ্ষণ সূত্ৰই কয় — প্ৰতিটো কণাই আন প্ৰতিটো কণাক এনে বলে আকৰ্ষণ কৰে যি তেওঁলোকৰ ভৰৰ গুণফলৰ সমানুপাতিক আৰু কেন্দ্ৰৰ মাজৰ দূৰত্বৰ বৰ্গৰ ব্যস্তানুপাতিক। সমানুপাতিক ধ্ৰুৱকটোৱেই G, সাৰ্বজনীন মাধ্যাকৰ্ষণ ধ্ৰুৱক, যাৰ মান ৬.৬৭ × ১০ৰ ঘাত ঋণাত্মক ১১ (SI এককত)। ইয়াক সাৰ্বজনীন বোলা হয় কাৰণ পৰি থকা আপেল আৰু এটা তাৰকাৰাজ্য — দুয়োতে একেই মান খাটে।"
+      ],
+      [
+        "p",
+        "বৰ্গৰ ব্যস্তানুপাতিক অংশটোৱেই নম্বৰ কঢ়িয়ায়। দূৰত্ব দুগুণ কৰিলে বল চাৰি ভাগৰ এভাগ হয়; তিনি গুণ কৰিলে ন ভাগৰ এভাগ। দূৰত্ব আধা কৰিলে বলৰ কি হয় সুধিলে উত্তৰ চাৰিগুণ, আৰু অংকটো এশাৰীৰ। ভৰৰ অংশও সমানে পোনপটীয়া: যিকোনো এটা ভৰ দুগুণ কৰিলে বলো দুগুণ।"
+      ],
+      [
+        "h3",
+        "g, আৰু ই G ৰ পৰা কেনেকৈ বেলেগ"
+      ],
+      [
+        "p",
+        "মাধ্যাকৰ্ষণজনিত ত্বৰণ g হ’ল কোনো ঠাইত প্ৰতি একক ভৰত হোৱা বল, পৃথিৱীপৃষ্ঠত প্ৰায় ৯.৮ মিটাৰ প্ৰতি ছেকেণ্ড বৰ্গ। G এটা সাৰ্বজনীন ধ্ৰুৱক; g নিৰ্ভৰ কৰে গ্ৰহটো, উচ্চতা, গভীৰতা আৰু অক্ষাংশৰ ওপৰত। এই তুলনাটোৱেই এই শিতানৰ আটাইতকৈ বেছি সোধা প্ৰশ্ন, আৰু উত্তৰ এটা বাক্য: G সকলোতে স্থিৰ, g স্থানীয়।"
+      ],
+      [
+        "p",
+        "উচ্চতা বাঢ়িলে g কমে কাৰণ কেন্দ্ৰৰ পৰা দূৰত্ব বাঢ়ে। গভীৰতাও বাঢ়িলে কমে, আৰু পৃথিৱীৰ কেন্দ্ৰত g শূন্য হয়। মেৰুত আটাইতকৈ বেছি আৰু বিষুৱৰেখাত আটাইতকৈ কম, কাৰণ পৃথিৱী চেপেটা আৰু ইয়াৰ ঘূৰ্ণনৰ বাবেও। বস্তু এটা ক’ত আটাইতকৈ বেছি ওজনৰ সুধিলে উত্তৰ মেৰু।"
+      ],
+      [
+        "p",
+        "ভৰ হ’ল পদাৰ্থৰ পৰিমাণ, কিলোগ্ৰামত জুখা, আৰু ই ঠাই সলনি হ’লে নসলনি হয়। ওজন হ’ল সেই ভৰৰ ওপৰত প্ৰযোজ্য মাধ্যাকৰ্ষণ বল, নিউটনত জুখা, আৰু ই সলনি হয়। চন্দ্ৰত g পৃথিৱীৰ প্ৰায় ছয় ভাগৰ এভাগ, সেয়ে ৬০ কিলোগ্ৰামৰ মানুহৰ ওজন পৃথিৱীত ৫৮৮ নিউটন আৰু চন্দ্ৰত প্ৰায় ৯৮ নিউটন, কিন্তু ভৰ দুয়োতে ৬০ কিলোগ্ৰামেই থাকে।"
+      ],
+      [
+        "h3",
+        "মুক্ত পতন, আৰু প্ৰচলিত ভুল ধাৰণা"
+      ],
+      [
+        "p",
+        "মুক্ত পতনত মাত্ৰ মাধ্যাকৰ্ষণেই বল, সেয়ে বায়ুৰ ৰোধ আওকাণ কৰিলে প্ৰতিটো বস্তু একেই ত্বৰণে পৰে, ভৰ যিয়েই নহওক। সেয়েই শূন্য স্থানত মুদ্ৰা আৰু পাখি একেলগে পৰে। বায়ুত পাখিৰ গতি ৰোধে কমায়, সেয়েই বিদ্যালয়ৰ পৰীক্ষাত শূন্য কৰা নল লাগে।"
+      ],
+      [
+        "p",
+        "গতিৰ সমীকৰণ a = g দি খাটে: t সময়ৰ পিছত বেগ gt, আৰু পৰা দূৰত্ব আধা g t বৰ্গ। ২ ছেকেণ্ড পৰা বস্তুৰ বেগ ১৯.৬ মিটাৰ প্ৰতি ছেকেণ্ড আৰু দূৰত্ব ১৯.৬ মিটাৰ। ওপৰলৈ দলিওৱা বস্তুৱে g ৰ হাৰত মন্থৰ হয়, ওপৰত বেগ শূন্য হয়, তাৰ পিছত একেই g ৰে পৰে, সেয়ে উঠাৰ সময় = নামাৰ সময়।"
+      ],
+      [
+        "h3",
+        "কেপলাৰৰ তিনি সূত্ৰ"
+      ],
+      [
+        "ul",
+        [
+          "কক্ষপথৰ সূত্ৰ — প্ৰতিটো গ্ৰহই এটা উপবৃত্তত ঘূৰে, সূৰ্য এটা নাভিত থাকে।",
+          "কালিৰ সূত্ৰ — গ্ৰহ আৰু সূৰ্যক জোৰা ৰেখাই সমান সময়ত সমান কালি চাফা কৰে, সেয়ে সূৰ্যৰ ওচৰত গ্ৰহ দ্ৰুত চলে।",
+          "পৰ্যায়ৰ সূত্ৰ — কক্ষপথৰ পৰ্যায়ৰ বৰ্গ অৰ্ধ-প্ৰধান অক্ষৰ ঘনৰ সমানুপাতিক।"
+        ]
+      ],
+      [
+        "p",
+        "দ্বিতীয় সূত্ৰটো ব্যাখ্যা হিচাপে সোধা হয়: ধূমকেতুৱে সূৰ্যৰ ওচৰত কিয় গতি বঢ়ায়। উত্তৰ — চাফা কৰা কালি একেই থাকিব লাগে, সেয়ে কম ব্যাসাৰ্ধত বেছি বেগ লাগে। তৃতীয় সূত্ৰ অনুপাতৰ প্ৰশ্ন হিচাপে সোধা হয়, আৰু সূত্ৰৰ এশাৰীয়েই যথেষ্ট।"
+      ],
+      [
+        "h3",
+        "মুক্তি বেগ, কক্ষপথৰ বেগ আৰু উপগ্ৰহ"
+      ],
+      [
+        "p",
+        "মুক্তি বেগ হ’ল গ্ৰহ এটাৰ মাধ্যাকৰ্ষণৰ পৰা চিৰদিনলৈ ওলাই যাবলৈ প্ৰয়োজনীয় ন্যূনতম বেগ, আৰু পৃথিৱীৰ বাবে ই প্ৰায় ১১.২ কিলোমিটাৰ প্ৰতি ছেকেণ্ড। নিম্ন কক্ষপথৰ বেগ প্ৰায় ৭.৯ কিলোমিটাৰ প্ৰতি ছেকেণ্ড। কোনটো বেছি সুধিলে উত্তৰ মুক্তি বেগ, আৰু অনুপাতটো দুইৰ বৰ্গমূল।"
+      ],
+      [
+        "p",
+        "ভূ-স্থিৰ উপগ্ৰহই বিষুৱৰেখাৰ ওপৰত প্ৰায় ৩৬,০০০ কিলোমিটাৰত ২৪ ঘণ্টাৰ পৰ্যায়ত ঘূৰে, সেয়ে আকাশত স্থিৰ যেন লাগে। সেয়েই ইয়াক দূৰদৰ্শন আৰু বতৰৰ বাবে ব্যৱহাৰ কৰা হয়। ধ্ৰুৱ উপগ্ৰহ নিম্ন, প্ৰায় ৮০০ কিলোমিটাৰত, আৰু প্ৰায় ১০০ মিনিটত পৃথিৱী এপাক ঘূৰে, সেয়েই ই গোটেই পৃষ্ঠৰ ফটো ল’ব পাৰে।"
+      ],
+      [
+        "p",
+        "কক্ষপথত থকা মহাকাশযানত ওজনহীনতা মাধ্যাকৰ্ষণৰ অনুপস্থিতি নহয়; মাধ্যাকৰ্ষণেই কেন্দ্ৰমুখী বল যোগায়। যাত্ৰী আৰু যান একেলগে পৰে, সেয়ে কোনো সাধাৰণ প্ৰতিক্ৰিয়া নাই, আৰু বসন্ত তুলাই শূন্য দেখুৱায়। এই ব্যাখ্যাটো শব্দে শব্দে শিকা ভাল, কাৰণ ভুল উত্তৰ — মহাকাশত মাধ্যাকৰ্ষণ নাই — এই শিতানৰ আটাইতকৈ সাধাৰণ ভুল।"
+      ],
+      [
+        "h3",
+        "মাধ্যাকৰ্ষণ কেন্দ্ৰ, স্থিৰতা আৰু জোৱাৰ"
+      ],
+      [
+        "p",
+        "মাধ্যাকৰ্ষণ কেন্দ্ৰ হ’ল সেই বিন্দু য’ৰ মাজেৰে বস্তু এটাৰ মুঠ ওজন ক্ৰিয়া কৰে। বস্তু এটা স্থিৰ হয় যেতিয়া তাৰ মাধ্যাকৰ্ষণ কেন্দ্ৰ কম আৰু ভেটি বহল, সেয়েই বাছৰ তলত ভাৰ ৰখা হয় আৰু মচুত ভৰি মেলি দিয়া হয়। স্থিৰতা জখলা, ভাৰ আৰু যানৰ প্ৰয়োগমূলক প্ৰশ্ন হিচাপে সোধা হয়।"
+      ],
+      [
+        "p",
+        "জোৱাৰৰ কাৰণ পৃথিৱীৰ দুই মূৰত চন্দ্ৰৰ আকৰ্ষণৰ পাৰ্থক্য, আৰু সূৰ্যই ইয়াত সৰু অৰিহণা যোগায়। অমাৱস্যা আৰু পূৰ্ণিমাত সূৰ্য আৰু চন্দ্ৰ একেই ৰেখাত টানে, তেতিয়া বেছি জোৱাৰ (spring tide) হয়; চতুৰ্থী আৰু অষ্টমীত তেওঁলোক সমকোণত থাকে, তেতিয়া কম জোৱাৰ (neap tide) হয়। এই যোৰটো সংজ্ঞা আৰু তাৰিখ — দুয়ো ধৰণে সোধা হয়।"
+      ],
+      [
+        "h3",
+        "অভ্যাস কৰিবলগীয়া তিনি অংক"
+      ],
+      [
+        "p",
+        "প্ৰথম: যদি দুই বস্তুৰ মাজৰ দূৰত্ব দুগুণ কৰা হয়, বল চাৰি ভাগৰ এভাগ হয়, সেয়ে ১০০ নিউটন বল ২৫ নিউটন হয়। দ্বিতীয়: পৃথিৱীত ১০ কিলোগ্ৰামৰ বস্তুৰ ওজন ৯৮ নিউটন, আৰু যি গ্ৰহত g = ৪ তাত ওজন ৪০ নিউটন, কিন্তু ভৰ দুয়োতে ১০ কিলোগ্ৰামেই। তৃতীয়: স্থিতিৰ পৰা পেলোৱা শিলে মাটিত পৰিবলৈ ৩ ছেকেণ্ড ল’লে উচ্চতা ৪৪.১ মিটাৰ।"
+      ],
+      [
+        "p",
+        "চতুৰ্থ: ৯.৮ মিটাৰ প্ৰতি ছেকেণ্ডত ওপৰলৈ দলিওৱা বস্তু এটা ছেকেণ্ড এটা উঠি ৪.৯ মিটাৰ ওপৰত যায়, আৰু মুঠ দুই ছেকেণ্ডত ঘূৰি আহে। এই আৰ্হিটোৱেই প্ৰশ্নকাকতৰ আটাইতকৈ বেছি অহা অংক, আৰু ৪.৯ আৰু ৯.৮ — এই দুটা সংখ্যাই গোটেই কাম কৰি দিয়ে।"
+      ],
+      [
+        "h3",
+        "মাধ্যাকৰ্ষণ আৰু আমাৰ চাৰিওফালে"
+      ],
+      [
+        "p",
+        "মাধ্যাকৰ্ষণ নাথাকিলে বৰষুণ নপৰিলেহেঁতেন, নদীয়ে তললৈ নবহিলেহেঁতেন, আৰু বায়ুমণ্ডলো মহাকাশলৈ পলাই গ’লহেঁতেন। চন্দ্ৰত বায়ুমণ্ডল নাই কাৰণ তাৰ মাধ্যাকৰ্ষণ কম, সেয়ে গেছবোৰ ধৰি ৰাখিব নোৱাৰিলে — এই এশাৰীয়ে 'চন্দ্ৰত বায়ুমণ্ডল কিয় নাই' প্ৰশ্নৰ উত্তৰ দিয়ে, আৰু ইয়াক বহু প্ৰাৰ্থীয়ে ভুল কৰে।"
+      ],
+      [
+        "p",
+        "আন এটা প্ৰায়োগিক কথা: বান্ধনিৰ পানীৰ টেংক ওখ ঠাইত ৰখা হয় যাতে মাধ্যাকৰ্ষণে পানীক নলীৰে ঘৰলৈ লৈ যায়, পাম্প নালাগে। আৰু লিফ্টত ওপৰলৈ যাওঁতে গাটো গধুৰ যেন লাগে কাৰণ ত্বৰণৰ দিশ তললৈ, সেয়ে প্ৰভাৱী ওজন বাঢ়ে — এই উদাহৰণটোৱে ওজন আৰু ত্বৰণৰ সম্পৰ্ক বুজায়।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "g ক ৬.৬৭ × ১০ৰ ঘাত ঋণাত্মক ১১ বুলি লিখা — সেয়া G।",
+          "চন্দ্ৰত ভৰ সলনি হয় বুলি কোৱা — ভৰ নহয়, ওজন হয়।",
+          "মহাকাশযানত মাধ্যাকৰ্ষণ নাই বুলি কোৱা — মাধ্যাকৰ্ষণেই কক্ষপথ যোগায়।",
+          "মুক্তি বেগ ৭.৯ কিলোমিটাৰ প্ৰতি ছেকেণ্ড বুলি দিয়া — সেয়া কক্ষপথৰ বেগ।",
+          "পৃথিৱীৰ কেন্দ্ৰত g সৰ্বাধিক বুলি ভবা — তাত g শূন্য।"
+        ]
+      ],
+      [
+        "h3",
+        "পাঁচটা সংজ্ঞা, এবাৰ লিখি লওক"
+      ],
+      [
+        "p",
+        "মাধ্যাকৰ্ষণ: যিকোনো দুই ভৰৰ মাজৰ আকৰ্ষণ বল। G: সাৰ্বজনীন ধ্ৰুৱক, ৬.৬৭ × ১০ৰ ঘাত ঋণাত্মক ১১। g: কোনো ঠাইত মাধ্যাকৰ্ষণজনিত ত্বৰণ। ওজন: ভৰ × g, নিউটনত। মুক্তি বেগ: গ্ৰহ এটাৰ পৰা চিৰদিনলৈ ওলাই যাবলৈ ন্যূনতম বেগ। এই পাঁচটা এখন কাৰ্ডত লিখি থ’লে এই শিতানৰ প্ৰতিটো সংজ্ঞামূলক প্ৰশ্নৰ উত্তৰ ওলায়।"
+      ],
+      [
+        "p",
+        "শেষত এটা সাৱধানতা: এই শিতানৰ প্ৰায় প্ৰতিটো প্ৰশ্নতে এটা সংখ্যা লাগে — ৯.৮, ৬.৬৭, ১১.২, ৭.৯, ৩৬,০০০ বা ২৪। সেয়ে এই ছয়টা সংখ্যা এটা তালিকাত লিখি প্ৰতিদিনে এবাৰ চোৱা অভ্যাস কৰক; সংখ্যাবোৰ মনত থাকিলে অংকবোৰ আধা স্বয়ংক্ৰিয় হৈ যায়, আৰু সময় বচে।"
+      ],
+      [
+        "p",
+        "আৰু এটা কথা মনত ৰাখক: প্ৰশ্নত যদি 'পৃথিৱীৰ পৃষ্ঠৰ পৰা উচ্চতা' বুলি দিয়া থাকে, তেন্তে দূৰত্ব হ’ব পৃষ্ঠৰ ব্যাসাৰ্ধ যোগ উচ্চতা। বহু প্ৰাৰ্থীয়ে উচ্চতাকেই দূৰত্ব ধৰি লয় আৰু উত্তৰ ভুল হয় — এই এটা ভুলেই এই শিতানত আটাইতকৈ বেছি নম্বৰ খায়।"
+      ],
+      [
+        "h3",
+        "প্ৰশ্নকাকতত সোধা পাঁচটা ব্যাখ্যা"
+      ],
+      [
+        "p",
+        "এটা: এখন কাগজ আৰু এটা শিল একেলগে পেলালে শিল আগতে পৰে কিয়? কাৰণ বায়ুৰ ৰোধে কাগজক বেছি প্ৰভাৱিত কৰে, শূন্য স্থানত দুয়ো একেলগে পৰিলেহেঁতেন। দুই: উপগ্ৰহ কিয় পৰি নাযায়? কাৰণ তাৰ কক্ষপথৰ বেগে তাক প্ৰতি মুহূৰ্ততে বক্ৰ পথত ৰাখে, পতন আৰু আগুৱান গতি একেলগে হয়। তিনি: চন্দ্ৰত লাফ দিলে বেছি ওপৰলৈ যায় কিয়? কাৰণ g কম, সেয়ে একেই প্ৰাৰম্ভিক বেগত বেছি উচ্চতা।"
+      ],
+      [
+        "p",
+        "চাৰি: পাহাৰৰ ওপৰত g কম কিয়? কাৰণ কেন্দ্ৰৰ পৰা দূৰত্ব বেছি, আৰু বল দূৰত্বৰ বৰ্গৰ ব্যস্তানুপাতিক। পাঁচ: গভীৰ খাদত g কেনে হয়? গভীৰতা বাঢ়িলে g কমে, আৰু কেন্দ্ৰত শূন্য হয়। এই পাঁচটা ব্যাখ্যা এশাৰীকৈ মুখস্থ থাকিলে প্ৰশ্নকাকতৰ ব্যাখ্যামূলক অংশত পূৰ্ণ নম্বৰ পোৱা যায়, কাৰণ প্ৰতিটোতেই কাৰণ স্পষ্ট; আৰু প্ৰতিটো উত্তৰ দুশাৰীত শেষ কৰিলে পৰীক্ষকে সম্পূৰ্ণ বুলি ধৰি লয়, দীঘল অনুচ্ছেদ নালাগে; এই অভ্যাসে সময় বচে আৰু বাকী প্ৰশ্নবোৰলৈ মন যাবলৈ সুযোগ দিয়ে, যি পৰীক্ষাৰ কোঠাত আচলতে আটাইতকৈ দৰকাৰী; আৰু যিয়ে এই অভ্যাস ৰাখে, তেওঁ এই শিতানৰ প্ৰশ্নবোৰত সময়ৰ অভাৱত নম্বৰ হেৰুৱাব নালাগে, কাৰণ তাত প্ৰতিটো উত্তৰেই দুশাৰীত সম্পূৰ্ণ হৈ যায়, আৰু পৰীক্ষকে সেই ধৰণৰ উত্তৰত সাধাৰণতে সম্পূৰ্ণ নম্বৰ দিয়ে।"
+      ],
+      [
+        "h3",
+        "এই শিতানত দহ দিন"
+      ],
+      [
+        "p",
+        "দুদিন নিউটনৰ সূত্ৰ, G আৰু বৰ্গৰ ব্যস্তানুপাতিক সম্পৰ্কত। দুদিন g, তাৰ পৰিৱৰ্তন আৰু ভৰ-ওজনৰ পাৰ্থক্যত। দুদিন মুক্ত পতনত, অংক দি। দুদিন কেপলাৰৰ সূত্ৰ, মুক্তি-কক্ষপথৰ বেগ আৰু উপগ্ৰহত। শেষৰ দুদিন: মাধ্যাকৰ্ষণ কেন্দ্ৰ, স্থিৰতা, জোৱাৰ আৰু এই বেংকৰ প্ৰশ্ন।"
+      ],
+      [
+        "tip",
+        "যিকোনো মাধ্যাকৰ্ষণৰ অংকত সূত্ৰ লিখি তাৰ পিছত সোধক — দূৰত্বটো কেন্দ্ৰৰ পৰা নে? এই শিতানৰ আধা ভুল হয় পৃষ্ঠৰ পৰা উচ্চতাক দূৰত্ব ধৰি লোৱাৰ পৰা।"
+      ]
+    ]
   }
 }
