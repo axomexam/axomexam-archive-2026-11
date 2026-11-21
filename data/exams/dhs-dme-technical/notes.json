@@ -11080,5 +11080,271 @@
         "এককৰ যিকোনো প্ৰশ্নত আৰম্ভ কৰাৰ আগতে 1,024 ৰ শৃংখল ৰাফ শ্বীটত লিখা। এই অংশত প্ৰায় প্ৰতিটো ভুল বিকল্প একেই সংখ্যা 1,000 ৰে হিচাপ কৰা থাকে।"
       ]
     ]
+  },
+  "hardware-software": {
+    "en": [
+      [
+        "h3",
+        "What the hardware and software block asks"
+      ],
+      [
+        "p",
+        "This topic is the machine and the instructions that run it, split into two halves that the paper keeps separate. The hardware half asks you to name a component and say what it does, or to say which device is input and which is output. The software half asks you to sort a program into system or application, to name the function of an operating system, and to say which translator does what. Almost every question is a matching question in disguise."
+      ],
+      [
+        "p",
+        "The most efficient preparation is two short lists with a one-line job against each name. Once the jobs are attached, the paper cannot ask a version of the question that you have not already answered, because the wording changes but the pairing does not."
+      ],
+      [
+        "h3",
+        "Hardware, inside the case"
+      ],
+      [
+        "p",
+        "The motherboard is the main circuit board that carries the processor, the memory slots and the expansion slots, and connects everything. The processor, or CPU, executes instructions and is described as the brain of the computer. RAM is the working memory that holds the program currently running; ROM holds the firmware that starts the machine. The hard disk or SSD is the permanent store. The SMPS is the power supply unit that converts mains current into the low voltages the components need. The graphics processing unit handles images, and the heat sink and fan keep the processor within its temperature limit."
+      ],
+      [
+        "p",
+        "The ports are asked by shape and by use. USB is the general-purpose port for keyboards, pen drives and printers. HDMI carries digital video and audio to a monitor or a projector. VGA carries analogue video only. An RJ45 port takes the Ethernet cable for a wired network. A 3.5 mm jack carries audio. A card reader takes memory cards. Knowing which port carries which signal answers the whole family of connector questions."
+      ],
+      [
+        "h3",
+        "Hardware, outside the case"
+      ],
+      [
+        "p",
+        "Peripherals are devices attached to the machine, and the split between input and output is the one thing to keep straight. Input: keyboard, mouse, trackball, joystick, scanner, microphone, webcam, light pen, barcode reader, biometric reader, touch pad. Output: monitor, printer, plotter, speaker, headphone, projector. Both: touch screen, modem, and a network card, which sends and receives. A pen drive is storage, not input or output, and that is a favourite distractor."
+      ],
+      [
+        "p",
+        "Printers deserve one line each because they are asked as matches. A dot matrix printer is impact, uses a ribbon and is noisy but cheap for multi-part forms. An inkjet printer sprays ink and is good for photographs. A laser printer uses toner and a drum and is the fastest for text. A thermal printer uses heat-sensitive paper and is used for bills and labels. Resolution is measured in dots per inch, and speed in pages per minute."
+      ],
+      [
+        "h3",
+        "Software, in two halves"
+      ],
+      [
+        "p",
+        "System software runs the machine. It includes the operating system, the device drivers that let the system talk to each piece of hardware, the firmware that sits in ROM, and utility programs such as antivirus, backup, disk cleanup and file compression. Application software does the user's work: word processors, spreadsheets, presentation tools, browsers, media players, photo editors and games. The dividing line is simple - if it manages the machine, it is system software; if it does a task for the person, it is application software."
+      ],
+      [
+        "p",
+        "The operating system has five jobs, and they are asked as a list. It manages the processor by deciding which program runs next, manages memory by allocating it to programs, manages files and folders, manages input and output devices through drivers, and provides the user interface. It also handles security and accounts. The user interface is either a graphical one, with windows, icons and a pointer, or a command line, where instructions are typed."
+      ],
+      [
+        "p",
+        "Operating systems are classified by how many users and tasks they handle. A single-user single-task system runs one program for one person, as early personal computers did. A multi-user system serves several people at once, as a server does. A multitasking system runs several programs apparently at once by switching quickly. A real-time system must respond within a fixed deadline and is used in machinery, aircraft and medical devices. A distributed system spreads the work across several connected machines."
+      ],
+      [
+        "h3",
+        "Languages and translators"
+      ],
+      [
+        "p",
+        "A program is written in a language and must be translated before the processor can run it. A compiler translates the whole program at once and produces an executable file, so the program then runs fast but must be rebuilt after every change. An interpreter translates and runs one statement at a time, so it is easier to debug but slower in execution. An assembler translates assembly language, which uses short mnemonics in place of binary codes. C and C++ are usually compiled, Python and JavaScript are usually interpreted, and Java is compiled to bytecode that a virtual machine then runs."
+      ],
+      [
+        "p",
+        "Software is also sorted by licence. Proprietary software is sold under restrictions and its source code is not available, as with Microsoft Windows and Adobe Photoshop. Open-source software publishes its source code and may be modified and redistributed under the licence, as with Linux, LibreOffice, Firefox and Python. Freeware is free of charge but not necessarily open, and shareware is a trial that must be paid for to continue."
+      ],
+      [
+        "h3",
+        "Two questions worked the short way"
+      ],
+      [
+        "p",
+        "A question asks which of four items is system software: MS Word, Windows, Excel, Photoshop. Windows is the answer, because it manages the machine; the other three do a task for the user. The same logic answers the reverse question, where the odd one out is the operating system among three applications."
+      ],
+      [
+        "p",
+        "A question asks which translator produces an executable file. A compiler does, because it translates the whole program in advance. An interpreter does not produce one, and an assembler produces machine code only from assembly language. Read whether the question says whole program or line by line before choosing."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "h3",
+        "Assembling a machine, and keeping it healthy"
+      ],
+      [
+        "p",
+        "A working desktop needs six parts: a processor on a motherboard, RAM, a storage drive, a power supply, a monitor and an input device. Everything else is optional. Two upgrade facts are asked. Adding RAM makes a slow machine responsive when many programs are open, because the system stops swapping data to disk. Replacing a hard disk with an SSD makes start-up and file opening faster, because there are no moving parts to wait for."
+      ],
+      [
+        "p",
+        "Maintenance is also a question set. A surge protector or a UPS protects against voltage spikes and outages. Dust cleaning keeps the fan and heat sink effective, which prevents overheating and sudden shutdowns. Regular backup, an updated antivirus and a current operating system patch level are the three standard answers to how a computer is kept safe. And defragmentation matters for a mechanical hard disk, not for an SSD."
+      ],
+      [
+        "h3",
+        "Where the two halves meet"
+      ],
+      [
+        "p",
+        "The connection between hardware and software is the driver, a small program that translates the operating system's instructions into commands a particular device understands. That is why a printer needs its own driver, and why a new device may not work until its driver is installed. The same idea explains the BIOS: it is firmware, so it is software permanently stored in hardware, and it runs before any operating system exists."
+      ],
+      [
+        "p",
+        "Three errors recur. A pen drive is called an input device, when it is storage. Firmware is confused with software in general, when firmware is the small program fixed in ROM that starts the hardware. And a compiler is confused with an interpreter, so the answer says line by line for a compiler. Attach the correct one-line job to each term and all three disappear."
+      ],
+      [
+        "ul",
+        [
+          "Motherboard carries everything; CPU executes; RAM is working memory; ROM holds firmware.",
+          "Input: keyboard, mouse, scanner, mic. Output: monitor, printer, speaker. Both: touch screen, modem.",
+          "System software manages the machine; application software does the user's task.",
+          "Compiler translates the whole program; interpreter translates line by line; assembler handles assembly.",
+          "OS jobs: processor, memory, files, devices, user interface."
+        ]
+      ],
+      [
+        "tip",
+        "For any software question, ask who the work is for. If the answer is the machine itself, it is system software; if it is the person, it is application software."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "হাৰ্ডৱেৰ আৰু চফ্টৱেৰৰ এই অংশত কি সোধা হয়"
+      ],
+      [
+        "p",
+        "এই অধ্যায়ত যন্ত্ৰ আৰু তাক চলোৱা নিৰ্দেশনা, দুটা ভাগত বিভক্ত যাক প্ৰশ্নকাকতে পৃথকে ৰাখে। হাৰ্ডৱেৰৰ ভাগত এটা উপাংশৰ নাম দি তাৰ কাম সোধা হয়, বা কোনটো সঁজুলি ইনপুট আৰু কোনটো আউটপুট সোধা হয়। চফ্টৱেৰৰ ভাগত কাৰ্যসূচীক চিষ্টেম নে এপ্লিকেচন হিচাপে ভাগ কৰিবলৈ দিয়া হয়, অপাৰেটিং চিষ্টেমৰ কাম সোধা হয়, আৰু কোন ৰূপান্তৰকে কি কৰে সোধা হয়। প্ৰায় প্ৰতিটো প্ৰশ্ন আচলতে এটা মিলোৱা প্ৰশ্ন।"
+      ],
+      [
+        "p",
+        "আটাইতকৈ কাৰ্যকৰী প্ৰস্তুতি হ'ল দুখন চুটি তালিকা, প্ৰতিটো নামৰ কাষত এশাৰী কাম। কামবোৰ জোৰা লগাই ল'লে প্ৰশ্নকাকতে এনে ৰূপ সোধ কৰিব নোৱাৰে যাক তুমি আগতে উত্তৰ দিয়া নাই, কাৰণ শব্দ সলনি হয় কিন্তু জোৰা নসলনি।"
+      ],
+      [
+        "h3",
+        "হাৰ্ডৱেৰ, কেছৰ ভিতৰত"
+      ],
+      [
+        "p",
+        "মাডাৰব'ৰ্ড হ'ল মূল চাৰ্কিট বৰ্ড যি প্ৰচেছৰ, মেম'ৰি স্লট আৰু এক্সপেনশন স্লট ধৰি ৰাখি সকলো সংযুক্ত কৰে। প্ৰচেছৰ বা CPU এ নিৰ্দেশনা চলায় আৰু তাক কম্পিউটাৰৰ মগজু বুলি কোৱা হয়। RAM হ'ল কাৰ্যকৰী মেম'ৰি যি বৰ্তমান চলি থকা কাৰ্যসূচী ধৰি ৰাখে; ROM এ যন্ত্ৰ আৰম্ভ কৰা ফাৰ্মৱেৰ ধৰি ৰাখে। হাৰ্ড ডিস্ক বা SSD স্থায়ী ভাণ্ডাৰ। SMPS হ'ল বিদ্যুৎ যোগান একক যি মেইন প্ৰবাহক উপাংশৰ বাবে প্ৰয়োজনীয় কম ভ'ল্টলৈ ৰূপান্তৰ কৰে। গ্ৰাফিক্স প্ৰচেছিং ইউনিটে ছবি চম্ভালে, আৰু হিট চিংক আৰু ফেনে প্ৰচেছৰক তাৰ উষ্ণতাৰ সীমাৰ ভিতৰত ৰাখে।"
+      ],
+      [
+        "p",
+        "প'ৰ্টবোৰ আকৃতি আৰু ব্যৱহাৰৰ পৰা সোধা হয়। USB হ'ল কীব'ৰ্ড, পেন ড্ৰাইভ আৰু প্ৰিণ্টাৰৰ সাধাৰণ প'ৰ্ট। HDMI য়ে মনিটৰ বা প্ৰজেক্টৰলৈ ডিজিটেল ভিডিঅ' আৰু শব্দ লৈ যায়। VGA য়ে কেৱল এনালগ ভিডিঅ' লৈ যায়। RJ45 প'ৰ্টে তারযুক্ত নেটৱৰ্কৰ ইথাৰনেট কেবল লয়। 3.5 মি.মি. জেকে শব্দ লয়। কাৰ্ড ৰিডাৰে মেম'ৰি কাৰ্ড লয়। কোন প'ৰ্টে কোন সংকেত লৈ যায় জানিলে সংযোগৰ গোটেই প্ৰশ্নৰ উত্তৰ পোৱা যায়।"
+      ],
+      [
+        "h3",
+        "হাৰ্ডৱেৰ, কেছৰ বাহিৰত"
+      ],
+      [
+        "p",
+        "পেৰিফেৰেল হ'ল যন্ত্ৰৰ লগত সংযুক্ত সঁজুলি, আৰু ইনপুট-আউটপুটৰ ভাগটোৱেই একমাত্ৰ মনত ৰখাৰ কথা। ইনপুট: কীব'ৰ্ড, মাউছ, ট্ৰেকবল, জয়ষ্টিক, স্কেনাৰ, মাইক্ৰ'ফ'ন, ৱেবকেম, লাইট পেন, বাৰক'ড ৰিডাৰ, বায়'মেট্ৰিক ৰিডাৰ, টাচ পেড। আউটপুট: মনিটৰ, প্ৰিণ্টাৰ, প্লটাৰ, স্পীকাৰ, হেডফোন, প্ৰজেক্টৰ। দুয়োটা: টাচ স্ক্ৰিন, মডেম, আৰু নেটৱৰ্ক কাৰ্ড, যি পঠিয়ায় আৰু লয়। পেন ড্ৰাইভ হ'ল সংৰক্ষণ, ইনপুট বা আউটপুট নহয়, আৰু সেয়াই এটা চিনাকি ফান্দ।"
+      ],
+      [
+        "p",
+        "প্ৰিণ্টাৰবোৰ প্ৰতিটোৰে এশাৰী লগা উচিত কাৰণ মিলোৱা প্ৰশ্ন হিচাপে আহে। ডট মেট্ৰিক্স প্ৰিণ্টাৰ ইম্পেক্ট, ৰিবন ব্যৱহাৰ কৰে, শব্দ কৰে কিন্তু একাধিক কপিৰ ফৰ্মৰ বাবে সস্তা। ইংকজেট প্ৰিণ্টাৰে চিয়াঁহী ছটিয়ায় আৰু ফটোগ্ৰাফৰ বাবে ভাল। লেজাৰ প্ৰিণ্টাৰে ট'নাৰ আৰু ড্ৰাম ব্যৱহাৰ কৰে আৰু লিখনীৰ বাবে আটাইতকৈ দ্ৰুত। থাৰ্মেল প্ৰিণ্টাৰে তাপ-সংবেদী কাগজ ব্যৱহাৰ কৰে আৰু বিল আৰু লেবেলত লাগে। ৰিজ'লিউচন প্ৰতি ইঞ্চিত বিন্দুত আৰু গতি প্ৰতি মিনিটত পৃষ্ঠাত মাপা হয়।"
+      ],
+      [
+        "h3",
+        "চফ্টৱেৰ, দুটা ভাগত"
+      ],
+      [
+        "p",
+        "চিষ্টেম চফ্টৱেৰে যন্ত্ৰ চলায়। ইয়াত অপাৰেটিং চিষ্টেম, প্ৰতিটো হাৰ্ডৱেৰৰ লগত কথা পাতিবলৈ দিয়া ডিভাইচ ড্ৰাইভাৰ, ROM ত থকা ফাৰ্মৱেৰ, আৰু এণ্টিভাইৰাছ, বেকআপ, ডিস্ক ক্লিনআপ আৰু ফাইল কম্প্ৰেছনৰ দৰে ইউটিলিটি কাৰ্যসূচী পৰে। এপ্লিকেচন চফ্টৱেৰে ব্যৱহাৰকাৰীৰ কাম কৰে: ৱৰ্ড প্ৰচেছৰ, স্প্ৰেডশ্বীট, প্ৰজেণ্টেচন সঁজুলি, ব্ৰাউজাৰ, মিডিয়া প্লেয়াৰ, ফটো এডিটৰ আৰু গেম। ভাগৰ ৰেখা সৰল - যি যন্ত্ৰ পৰিচালনা কৰে সেয়া চিষ্টেম চফ্টৱেৰ; যি ব্যক্তিৰ কাম কৰে সেয়া এপ্লিকেচন চফ্টৱেৰ।"
+      ],
+      [
+        "p",
+        "অপাৰেটিং চিষ্টেমৰ পাঁচটা কাম, আৰু তালিকা হিচাপে সোধা হয়। ই প্ৰচেছৰ পৰিচালনা কৰে কাৰ্যসূচী কোনটো পিছত চলিব ঠিক কৰি, মেম'ৰি পৰিচালনা কৰে কাৰ্যসূচীলৈ বিতৰণ কৰি, ফাইল আৰু ফ'ল্ডাৰ পৰিচালনা কৰে, ড্ৰাইভাৰৰ জৰিয়তে ইনপুট আউটপুট সঁজুলি পৰিচালনা কৰে, আৰু ব্যৱহাৰকাৰী ইণ্টাৰফেচ দিয়ে। ই নিৰাপত্তা আৰু একাউণ্টো চম্ভালে। ইণ্টাৰফেচ গ্ৰাফিকেল - ৱিণ্ড', আইকন আৰু পইণ্টাৰেৰে - বা কমাণ্ড লাইন, য'ত নিৰ্দেশনা টাইপ কৰা হয়।"
+      ],
+      [
+        "p",
+        "অপাৰেটিং চিষ্টেম কিমান ব্যৱহাৰকাৰী আৰু কিমান কাম চম্ভালে তাৰ ওপৰত ভাগ কৰা হয়। একক-ব্যৱহাৰকাৰী একক-কামৰ চিষ্টেমে এজনৰ বাবে এটা কাৰ্যসূচী চলায়, যেনেকৈ আৰম্ভণিৰ ব্যক্তিগত কম্পিউটাৰে কৰিছিল। বহু-ব্যৱহাৰকাৰী চিষ্টেমে একেলগে কেইবাজনক সেৱা দিয়ে, যেনেকৈ চাৰ্ভাৰে কৰে। মাল্টিটাস্কিং চিষ্টেমে দ্ৰুতভাৱে সলনি কৰি কেইবাটাও কাৰ্যসূচী একেলগে চলোৱা যেন দেখুৱায়। ৰিয়েল-টাইম চিষ্টেমে নিৰ্দিষ্ট সময়ৰ ভিতৰত সঁহাৰি দিব লাগে আৰু যন্ত্ৰ, বিমান আৰু চিকিৎসা সঁজুলিত ব্যৱহৃত হয়। বিতৰণ চিষ্টেমে কামক কেইবাখন সংযুক্ত যন্ত্ৰত ভাগ কৰে।"
+      ],
+      [
+        "h3",
+        "ভাষা আৰু ৰূপান্তৰক"
+      ],
+      [
+        "p",
+        "কাৰ্যসূচী এটা ভাষাত লিখা হয় আৰু প্ৰচেছৰে চলোৱাৰ আগতে ৰূপান্তৰ কৰিব লাগে। কম্পাইলাৰে গোটেই কাৰ্যসূচী একেলগে ৰূপান্তৰ কৰি চলিব পৰা ফাইল বনায়, সেয়ে কাৰ্যসূচী দ্ৰুত চলে কিন্তু প্ৰতিবাৰ সলনি কৰিলে পুনৰ বনাব লাগে। ইণ্টাৰপ্ৰিটাৰে এটাৰ পিছত এটা নিৰ্দেশনা ৰূপান্তৰ কৰি চলায়, সেয়ে ডিবাগ কৰিবলৈ সহজ কিন্তু চলোৱাত লাহী। এচেম্বলাৰে এচেম্বলি ভাষা ৰূপান্তৰ কৰে, যি বাইনেৰি ক'ডৰ ঠাইত চুটি নাম ব্যৱহাৰ কৰে। C আৰু C++ সাধাৰণতে কম্পাইল হয়, Python আৰু JavaScript সাধাৰণতে ইণ্টাৰপ্ৰিট হয়, আৰু Java বাইটক'ডলৈ কম্পাইল হৈ ভাৰ্চুৱেল মেচিনে চালায়।"
+      ],
+      [
+        "p",
+        "চফ্টৱেৰ অনুজ্ঞাপতিত্বৰ পৰাও ভাগ কৰা হয়। মালিকানাধীন চফ্টৱেৰ নিষেধাজ্ঞাৰে বিক্ৰী হয় আৰু তাৰ উৎস ক'ড উপলব্ধ নহয়, যেনে Microsoft Windows আৰু Adobe Photoshop। মুক্ত-উৎস চফ্টৱেৰে উৎস ক'ড প্ৰকাশ কৰে আৰু অনুজ্ঞাপতিত্ব অনুসৰি সলনি আৰু পুনৰ বিতৰণ কৰিব পাৰি, যেনে Linux, LibreOffice, Firefox আৰু Python। ফ্ৰীৱেৰ বিনামূলীয়া কিন্তু মুক্ত নহ'বও পাৰে, আৰু শ্বেয়াৰৱেৰ এটা পৰীক্ষা যাক চলাই ৰাখিবলৈ টকা দিব লাগে।"
+      ],
+      [
+        "h3",
+        "চুটিকৈ কৰা দুটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "চাৰিটা বস্তুৰ ভিতৰত কোনটো চিষ্টেম চফ্টৱেৰ সোধা হ'ল: MS Word, Windows, Excel, Photoshop। উত্তৰ Windows, কাৰণ ই যন্ত্ৰ পৰিচালনা কৰে; বাকী তিনিওটা ব্যৱহাৰকাৰীৰ কাম কৰে। একেই যুক্তিয়ে ওলোটা প্ৰশ্নৰ উত্তৰ দিয়ে, য'ত তিনিটা এপ্লিকেচনৰ মাজত অপাৰেটিং চিষ্টেমটো পৃথক।"
+      ],
+      [
+        "p",
+        "কোন ৰূপান্তৰকে চলিব পৰা ফাইল বনায় সোধা হ'ল। কম্পাইলাৰে বনায়, কাৰণ ই গোটেই কাৰ্যসূচী আগতে ৰূপান্তৰ কৰে। ইণ্টাৰপ্ৰিটাৰে নবনায়, আৰু এচেম্বলাৰে কেৱল এচেম্বলি ভাষাৰ পৰা মেচিন ক'ড বনায়। বাছনিৰ আগতে প্ৰশ্নত গোটেই কাৰ্যসূচী নে শাৰী শাৰী সেয়া পঢ়া।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "h3",
+        "যন্ত্ৰ জোৰা আৰু তাৰ যতন লোৱা"
+      ],
+      [
+        "p",
+        "কাম কৰা ডেস্কটপত ছটা অংশ লাগে: মাডাৰব'ৰ্ডত এটা প্ৰচেছৰ, RAM, এটা সংৰক্ষণ ড্ৰাইভ, বিদ্যুৎ যোগান, এটা মনিটৰ আৰু এটা ইনপুট সঁজুলি। বাকী সকলো ঐচ্ছিক। দুটা আপগ্ৰেডৰ তথ্য সোধা হয়। RAM যোগ কৰিলে বহু কাৰ্যসূচী খোলা থাকিলেও লাহী যন্ত্ৰ সক্ৰিয় হয়, কাৰণ চিষ্টেমে ডিস্কলৈ তথ্য সলোৱা বন্ধ কৰে। হাৰ্ড ডিস্কৰ ঠাইত SSD দিলে আৰম্ভণি আৰু ফাইল খোলা দ্ৰুত হয়, কাৰণ অপেক্ষা কৰিবলগীয়া চলন্ত অংশ নাথাকে।"
+      ],
+      [
+        "p",
+        "যতন লোৱাও প্ৰশ্নৰ অংশ। চাৰ্জ প্ৰটেক্টৰ বা UPS এ ভ'ল্টেজৰ ঢৌ আৰু বিদ্যুৎ বন্ধৰ পৰা ৰক্ষা কৰে। ধূলি পৰিষ্কাৰ কৰিলে ফেন আৰু হিট চিংক কাৰ্যকৰী থাকে, যাৰ ফলত অতিতাপ আৰু হঠাতে বন্ধ হোৱা ৰোধ হয়। নিয়মীয়া বেকআপ, আপডেট কৰা এণ্টিভাইৰাছ আৰু শেহতীয়া অপাৰেটিং চিষ্টেম পেটচ - কম্পিউটাৰ সুৰক্ষিত ৰখাৰ তিনি চিনাকি উত্তৰ। আৰু ডিফ্ৰেগমেণ্টেচন যান্ত্ৰিক হাৰ্ড ডিস্কৰ বাবে প্ৰয়োজন, SSD ৰ বাবে নহয়।"
+      ],
+      [
+        "h3",
+        "দুই ভাগৰ সংযোগস্থল"
+      ],
+      [
+        "p",
+        "হাৰ্ডৱেৰ আৰু চফ্টৱেৰৰ সংযোগ হ'ল ড্ৰাইভাৰ, এটা সৰু কাৰ্যসূচী যি অপাৰেটিং চিষ্টেমৰ নিৰ্দেশনা এটা নিৰ্দিষ্ট সঁজুলিয়ে বুজা আদেশলৈ ৰূপান্তৰ কৰে। সেয়ে প্ৰিণ্টাৰৰ নিজা ড্ৰাইভাৰ লাগে, আৰু সেয়ে নতুন সঁজুলি তাৰ ড্ৰাইভাৰ নলগালৈকে নচলিবও পাৰে। একেই ধাৰণাই BIOS বুজায়: সেয়া ফাৰ্মৱেৰ, অৰ্থাৎ হাৰ্ডৱেৰত স্থায়ীভাৱে সাঁচি ৰখা চফ্টৱেৰ, আৰু যিকোনো অপাৰেটিং চিষ্টেম থকাৰ আগতেই চলে।"
+      ],
+      [
+        "p",
+        "শেষত এটা সহজ নিয়ম: যি বস্তু হাতৰে ধৰিব পাৰি সেয়া হাৰ্ডৱেৰ, যি পৰ্দাত দেখা যায় বা চলিবলৈ ইনষ্টল কৰিব লাগে সেয়া চফ্টৱেৰ। এই নিয়মেই মিলোৱা প্ৰশ্নৰ বেছিভাগ উত্তৰ দিয়ে।"
+      ],
+      [
+        "p",
+        "তিনিটা ভুল বাৰে বাৰে আহে। পেন ড্ৰাইভক ইনপুট সঁজুলি বুলি কোৱা হয়, অথচ সেয়া সংৰক্ষণ। ফাৰ্মৱেৰক সাধাৰণ চফ্টৱেৰৰ লগত মিলাই পেলোৱা হয়, অথচ ফাৰ্মৱেৰ হ'ল ROM ত স্থিৰ থকা সৰু কাৰ্যসূচী যি হাৰ্ডৱেৰ আৰম্ভ কৰে। আৰু কম্পাইলাৰক ইণ্টাৰপ্ৰিটাৰৰ লগত মিলাই পেলোৱা হয়, সেয়ে কম্পাইলাৰৰ বাবে শাৰী শাৰী বুলি উত্তৰ দিয়া হয়। প্ৰতিটো শব্দৰ লগত শুদ্ধ এশাৰী কাম জোৰা লগালে তিনিওটা নোহোৱা হয়।"
+      ],
+      [
+        "ul",
+        [
+          "মাডাৰব'ৰ্ডে সকলো ধৰে; CPU চালায়; RAM কাৰ্যকৰী মেম'ৰি; ROM ত ফাৰ্মৱেৰ।",
+          "ইনপুট: কীব'ৰ্ড, মাউছ, স্কেনাৰ, মাইক। আউটপুট: মনিটৰ, প্ৰিণ্টাৰ, স্পীকাৰ। দুয়োটা: টাচ স্ক্ৰিন, মডেম।",
+          "চিষ্টেম চফ্টৱেৰে যন্ত্ৰ চলায়; এপ্লিকেচন চফ্টৱেৰে ব্যৱহাৰকাৰীৰ কাম কৰে।",
+          "কম্পাইলাৰে গোটেই কাৰ্যসূচী; ইণ্টাৰপ্ৰিটাৰে শাৰী শাৰী; এচেম্বলাৰে এচেম্বলি।",
+          "অপাৰেটিং চিষ্টেমৰ কাম: প্ৰচেছৰ, মেম'ৰি, ফাইল, সঁজুলি, ইণ্টাৰফেচ।"
+        ]
+      ],
+      [
+        "h3",
+        "ফাৰ্মৱেৰ, BIOS আৰু বুটিং"
+      ],
+      [
+        "p",
+        "ফাৰ্মৱেৰ হ'ল ROM ত থকা সৰু কাৰ্যসূচী যি যন্ত্ৰ অন কৰাৰ লগে লগে চলে। BIOS (বেছিক ইনপুট আউটপুট চিষ্টেম) য়ে হাৰ্ডৱেৰ পৰীক্ষা কৰি অপাৰেটিং চিষ্টেম বিচাৰি লোড কৰে। এই প্ৰক্ৰিয়াক বুটিং বোলে। যদি অপাৰেটিং চিষ্টেম নাথাকে, কম্পিউটাৰে বুট নহয় আৰু পৰ্দাত কেৱল এটা বাৰ্তা দেখুৱায়। প্ৰশ্নকাকতত সোধা হয় কোনে যন্ত্ৰ আৰম্ভ কৰে - উত্তৰ BIOS।"
+      ],
+      [
+        "p",
+        "মেম'ৰিৰ স্তৰবিন্যাসো এশাৰীত সোধা হয়: ৰেজিষ্টাৰ আটাইতকৈ দ্ৰুত আৰু আটাইতকৈ সৰু, তাৰ পিছত কেশ্ব মেম'ৰি, তাৰ পিছত RAM, আৰু শেষত হাৰ্ড ডিস্ক আটাইতকৈ লাহী কিন্তু আটাইতকৈ ডাঙৰ। কেশ্ব মেম'ৰিৰ কাম হ'ল CPU এ সঘনাই ব্যৱহাৰ কৰা তথ্য ওচৰত ৰখা, যাতে অপেক্ষা কম হয়।"
+      ],
+      [
+        "h3",
+        "গ্ৰাফিকেল আৰু কমাণ্ড ইণ্টাৰফেচ"
+      ],
+      [
+        "p",
+        "গ্ৰাফিকেল ইউজাৰ ইণ্টাৰফেচত ৱিণ্ড', আইকন, মেনু আৰু মাউছ থাকে, সেয়ে শিকিবলৈ সহজ। কমাণ্ড লাইন ইণ্টাৰফেচত নিৰ্দেশনা টাইপ কৰিব লাগে, সেয়ে শিকিবলৈ কঠিন কিন্তু দ্ৰুত আৰু স্বয়ংক্ৰিয় কৰিব পৰা যায়। Windows, macOS আৰু Android গ্ৰাফিকেল, আনহাতে Linux ৰ টাৰ্মিনেল কমাণ্ড লাইন। প্ৰশ্নকাকতত সোধা হয় কোনটো চিষ্টেমত মাউছ লাগে - উত্তৰ গ্ৰাফিকেল।"
+      ],
+      [
+        "tip",
+        "চফ্টৱেৰৰ যিকোনো প্ৰশ্নত সোধা, কামটো কাৰ বাবে? উত্তৰ যদি যন্ত্ৰ নিজে, তেন্তে চিষ্টেম চফ্টৱেৰ; যদি ব্যক্তি, তেন্তে এপ্লিকেচন চফ্টৱেৰ।"
+      ]
+    ]
   }
 }
