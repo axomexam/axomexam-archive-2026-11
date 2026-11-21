@@ -3370,3 +3370,18 @@ Word-based options use `append_bi()` so English and Assamese option text
 both stay correct; numeric/letter options go through the standard `append()`.
 
 Book total after rebuild: 16,827; sitewide 59,150; hero 87,857.
+
+## Verbal Reasoning — next four topics (very hard)
+
+Coding-decoding, blood relations, direction & distance and order &
+ranking now hold 80+ very hard questions each:
+
+- coding-decoding 80, blood-relations 80,
+  direction-distance 86, order-ranking 89.
+
+Generators: `tools/gen-vr-coding.py`, `gen-vr-blood.py`, `gen-vr-dir.py`,
+`gen-vr-rank.py`. Blood-relations uses `append_bi()` because option words
+are translated (Father → পিতৃ etc.). Direction items use Pythagorean
+triples so distances stay whole numbers.
+
+Book total after rebuild: 17,162; sitewide 59,485; hero 88,192.
