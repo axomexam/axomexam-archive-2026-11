@@ -95,6 +95,9 @@ function makeExamBookTools(opts) {
   const CHROME = chrome();
 
   function pageHead(opts) {
+    /* One guard for every template: Google cuts descriptions near 158
+       characters, so nothing ships longer than that. */
+    opts = { ...opts, desc: clampText(opts.desc, 158) };
     let head = CHROME.head;
     const set = (re, val) => { head = head.replace(re, val); };
     /* The chrome leaf is borrowed from another book, so drop its hreflang trio:
@@ -392,8 +395,11 @@ ${CHROME.footer}${guard}`;
     /* hub page */
     {
       const title = `${lang(EXAM.title, "en")} Exam Book | axomexam`;
-      const desc = `${lang(EXAM.title, "en")} exam book - complete syllabus and topic-wise practice for ${EXAM.sections
-        .filter((s) => s.type !== "syllabus").map((s) => lang(s.title, "en")).join(", ")}.`;
+      const secCount = EXAM.sections.filter((s) => s.type !== "syllabus").length;
+      const desc = fitTitle([
+        `${lang(EXAM.title, "en")} exam book - syllabus, exam pattern and topic-wise practice for all ${secCount} sections, in English and Assamese.`,
+        `${lang(EXAM.title, "en")} exam book - syllabus and topic-wise practice for all ${secCount} sections, in English and Assamese.`,
+      ]).slice(0, 158);
       const crumbs = [...crumbsRoot, { name: lang(EXAM.title, "en") }];
       const head = pageHead({
         title, desc, canonical: examCanonical, themeColor: EXAM.color,
@@ -429,7 +435,14 @@ ${cards}
           : [{ parent: null, leaf: sub }]
       );
       const canonical = `${BASE}${examPath}/${sec.id}/`;
-      const title = `${lang(sec.title, "en")} - ${lang(EXAM.title, "en")} Exam Book | axomexam`;
+      const title = fitTitle([
+        `${lang(sec.title, "en")} - ${lang(EXAM.title, "en")} Exam Book | axomexam`,
+        `${lang(sec.title, "en")} - ${lang(EXAM.title, "en")} Exam Book`,
+        `${lang(sec.title, "en")} - ${lang(EXAM.title, "en").replace(/\s+Grade\s+III\b/i, "")}`,
+        `${lang(sec.title, "en")} - ${lang(EXAM.title, "en").replace(/\s+Grade\s+III\b/i, "")} Book`,
+        `${lang(sec.title, "en")} Exam Book`,
+        lang(sec.title, "en"),
+      ]);
       const desc = `${lang(EXAM.title, "en")} ${lang(sec.title, "en")} - read the complete book online in English and Assamese.`;
       const crumbs = [...crumbsRoot, { name: lang(EXAM.title, "en"), url: examCanonical }, { name: lang(sec.title, "en") }];
       const head = pageHead({
@@ -470,7 +483,7 @@ ${cards}
         const route = `${examPath}/${sec.id}/${group.id}`;
         const canonical = `${BASE}${route}/`;
         const total = children.reduce((a, c) => a + (BANK_COUNT[`${EXAM.id}:${c.id}`] || 0), 0);
-        const title = `${lang(group.title, "en")} - ${lang(sec.title, "en")} - ${lang(EXAM.title, "en")} | axomexam`;
+        const title = pageTitle(lang(group.title, "en"), lang(sec.title, "en"), lang(EXAM.title, "en"));
         const desc = `${lang(group.title, "en")} - ${lang(sec.title, "en")} practice for ${lang(EXAM.title, "en")}: ${children.length} topics, ${total} bilingual questions with answers and explanations.`;
         const crumbs = [
           ...crumbsRoot,
@@ -509,7 +522,7 @@ ${cards}
       const route = `${examPath}/${parts.join("/")}`;
       const canonical = `${BASE}${route}/`;
       const bank = (BANKS[`${EXAM.id}:${item.leaf.id}`] || []).map(normalize);
-      const title = `${lang(item.leaf.title, "en")} - ${lang(item.sec.title, "en")} - ${lang(EXAM.title, "en")} | axomexam`;
+      const title = pageTitle(lang(item.leaf.title, "en"), lang(item.sec.title, "en"), lang(EXAM.title, "en"));
       const desc = `Practise ${lang(item.leaf.title, "en")} MCQs with answers and explanations for ${lang(EXAM.title, "en")} - ${lang(item.sec.title, "en")}.`;
       const crumbs = [
         ...crumbsRoot,
@@ -542,8 +555,12 @@ ${cards}
       const sec = EXAM.sections.find((s) => s.type === "syllabus");
       const route = `${examPath}/${sec.id}`;
       const canonical = `${BASE}${route}/`;
-      const title = `${lang(EXAM.syllabus.title, "en")} and Exam Pattern | axomexam`;
-      const desc = lang(EXAM.syllabus.description, "en");
+      const title = fitTitle([
+        `${lang(EXAM.syllabus.title, "en")} and Exam Pattern | axomexam`,
+        `${lang(EXAM.syllabus.title, "en")} and Exam Pattern`,
+        `${lang(EXAM.syllabus.title, "en")} & Pattern`,
+      ]);
+      const desc = clampText(lang(EXAM.syllabus.description, "en"), 158);
       const crumbs = [...crumbsRoot, { name: lang(EXAM.title, "en"), url: examCanonical }, { name: lang(sec.title, "en") }];
       const head = pageHead({
         title, desc, canonical, themeColor: sec.color,
@@ -706,6 +723,40 @@ hand-editing the JSON here.
     write(idxRel, raw);
   }
 
+  /* Google shows roughly 60 characters before it truncates, and a truncated
+     title loses both the exam name and the brand, so the ladder drops the
+     least useful part first: brand, then the "Grade III" qualifier, then the
+     section name. The leaf name is never dropped — it is the query. */
+  function pageTitle(leaf, sec, exam) {
+    const shortExam = exam.replace(/\s+Grade\s+III\b/i, "");
+    return fitTitle([
+      `${leaf} - ${sec} - ${exam} | axomexam`,
+      `${leaf} - ${sec} - ${exam}`,
+      `${leaf} - ${sec} - ${shortExam}`,
+      `${leaf} - ${shortExam}`,
+      `${leaf} - ${sec}`,
+      leaf,
+    ]);
+  }
+
+  /* Meta descriptions get cut by Google at roughly 158 characters, so trim
+     the generated ones at a word boundary instead of letting the snippet end
+     mid-sentence. */
+  function clampText(text, max) {
+    const t = String(text || "").replace(/\s+/g, " ").trim();
+    if (t.length <= max) return t;
+    const cut = t.slice(0, max);
+    const at = cut.lastIndexOf(" ");
+    return (at > max * 0.6 ? cut.slice(0, at) : cut).replace(/[\s,;:—–-]+$/, "") + ".";
+  }
+
+  /* First candidate that fits Google's snippet, else the shortest one. */
+  function fitTitle(ladder) {
+    const fits = ladder.find((c) => c.length <= 60);
+    if (fits) return fits;
+    return ladder.slice().sort((a, b) => a.length - b.length)[0];
+  }
+
   /* ---------------- sitemap ---------------- */
   function updateSitemap(EXAMS, leavesByExam) {
     const smAbs = path.join(ROOT, "sitemap.xml");
@@ -783,7 +834,7 @@ hand-editing the JSON here.
   }
 
   return {
-    esc, lang, write, writeJSON, NOTES,
+    esc, lang, write, writeJSON, NOTES, pageTitle, fitTitle, clampText,
     pageHead, jsonld, breadcrumbHTML, normalize, optionsHTML, qaItemHTML,
     pageShell, editorialBlock, compactJSON,
     buildBook, examEntry, spliceIndex, updateSitemap, updateExamsIndex,

@@ -371,8 +371,14 @@ function labelFor(map, segs) {
 /* A title that always keeps the distinguishing suffix (the exam name) even
    after trimming, so two pages that share a topic name stay distinct. */
 function titled(name, suffix) {
-  /* Keep at least 24 chars of the name: a smaller budget makes two long
+  /* An ellipsis in the middle of a title wastes the snippet and reads as
+     unfinished, so the suffix is what gives way: a name that fits on its own
+     is kept whole, and only a name longer than the whole budget is trimmed.
+     Keep at least 24 chars of the name: a smaller budget makes two long
      sibling names truncate to the same string and collide. */
+  const full = `${name} — ${suffix}`;
+  if (full.length <= 60) return full;
+  if (name.length <= 60) return name;
   const budget = Math.max(24, 57 - suffix.length - 3);
   return clamp(name, budget) + " — " + suffix;
 }
