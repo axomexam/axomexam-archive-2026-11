@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:53:58.062Z",
+  "generatedAt": "2026-11-21T12:01:09.627Z",
   "topicCounts": {
     "gk/assam-literature/ancient-pre-vaishnavite-sec/charyapada-folk-songs": 37,
     "gk/assam-literature/ancient-pre-vaishnavite-sec/early-poets-translations": 37,
@@ -809,13 +809,13 @@
     "dhs-dme-technical/logical-reasoning/verbal-reasoning/blood-relations": 86,
     "dhs-dme-technical/logical-reasoning/verbal-reasoning/direction-distance": 90,
     "dhs-dme-technical/logical-reasoning/verbal-reasoning/order-ranking": 91,
-    "dhs-dme-technical/logical-reasoning/verbal-reasoning/alphabet-test-word-formation": 2,
-    "dhs-dme-technical/logical-reasoning/verbal-reasoning/logical-sequence-words": 0,
-    "dhs-dme-technical/logical-reasoning/verbal-reasoning/clock-calendar": 3,
-    "dhs-dme-technical/logical-reasoning/verbal-reasoning/mathematical-operations": 2,
-    "dhs-dme-technical/logical-reasoning/verbal-reasoning/input-output": 0,
-    "dhs-dme-technical/logical-reasoning/verbal-reasoning/general-verbal-reasoning": 7,
-    "dhs-dme-technical/logical-reasoning/verbal-reasoning": 779,
+    "dhs-dme-technical/logical-reasoning/verbal-reasoning/alphabet-test-word-formation": 101,
+    "dhs-dme-technical/logical-reasoning/verbal-reasoning/logical-sequence-words": 83,
+    "dhs-dme-technical/logical-reasoning/verbal-reasoning/clock-calendar": 94,
+    "dhs-dme-technical/logical-reasoning/verbal-reasoning/mathematical-operations": 93,
+    "dhs-dme-technical/logical-reasoning/verbal-reasoning/input-output": 84,
+    "dhs-dme-technical/logical-reasoning/verbal-reasoning/general-verbal-reasoning": 93,
+    "dhs-dme-technical/logical-reasoning/verbal-reasoning": 1313,
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/syllogism": 4,
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/venn-diagrams": 0,
     "dhs-dme-technical/logical-reasoning/analytical-critical-reasoning/statement-conclusions": 0,
@@ -840,7 +840,7 @@
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/visual-memory": 6,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning/general-non-verbal-reasoning": 23,
     "dhs-dme-technical/logical-reasoning/non-verbal-reasoning": 80,
-    "dhs-dme-technical/logical-reasoning": 863,
+    "dhs-dme-technical/logical-reasoning": 1397,
     "dhs-dme/general-knowledge/assam-history": 80,
     "dhs-dme/general-knowledge/geography": 80,
     "dhs-dme/general-knowledge/art-culture": 80,
@@ -964,7 +964,7 @@
     "rrb-ntpc/reasoning/non-verbal-reasoning": 490,
     "rrb-ntpc/reasoning": 2351
   },
-  "examsTotal": 59485,
+  "examsTotal": 60019,
   "mockTotal": 4926,
   "topicsTotal": 883
 }

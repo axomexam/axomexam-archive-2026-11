@@ -83,7 +83,7 @@ for a, b, c in [(7, 5, 4), (10, 8, 6), (14, 13, 9), (12, 15, 4), (18, 17, 6), (9
     en_t, as_t = move_text(mv)
     add(f"A man walks {en_t}. How far is he from the starting point?",
         f"এজন মানুহে {as_t} খোজ কাঢ়ে। তেওঁ আৰম্ভণি বিন্দুৰ পৰা কিমান দূৰত?",
-        f"{int(d)} km", [f"{int(d)+a} km", f"{int(d)+b} km", f"{a+b+c} km"],
+        f"{int(d)} km", [f"{int(d)+a} km", f"{int(d)+b} km", f"{int(d)+a+b} km"],
         f"Net displacement is {dy} km north and {dx} km east, so distance = √({dy}² + {dx}²) = {int(d)} km.",
         f"মুঠ স্থানান্তৰ {as_num(dy)} কিঃমিঃ উত্তৰ আৰু {as_num(dx)} কিঃমিঃ পূব, সেয়ে দূৰত্ব = {as_num(int(d))} কিঃমিঃ।")
 
@@ -97,7 +97,7 @@ for a, b, c in [(9, 8, 6), (12, 15, 7), (16, 13, 11), (20, 21, 12), (15, 10, 9)]
     en_t, as_t = move_text(mv)
     add(f"A man walks {en_t}. How far is he from the starting point?",
         f"এজন মানুহে {as_t} খোজ কাঢ়ে। তেওঁ আৰম্ভণি বিন্দুৰ পৰা কিমান দূৰত?",
-        f"{int(d)} km", [f"{a+b+c} km", f"{int(d)+3} km", f"{int(d)-3} km"],
+        f"{int(d)} km", [f"{int(d)+a+b} km", f"{int(d)+3} km", f"{int(d)-3} km"],
         f"Net displacement is {dx} km east and {dy} km north, so distance = √({dx}² + {dy}²) = {int(d)} km.",
         f"মুঠ স্থানান্তৰ {as_num(dx)} কিঃমিঃ পূব আৰু {as_num(dy)} কিঃমিঃ উত্তৰ, সেয়ে দূৰত্ব = {as_num(int(d))} কিঃমিঃ।")
 
@@ -108,7 +108,7 @@ for a, b, c in TRIPLES:
         en_t, as_t = move_text(mv)
         add(f"A man walks {en_t}. How far is he from the starting point?",
             f"এজন মানুহে {as_t} খোজ কাঢ়ে। তেওঁ আৰম্ভণি বিন্দুৰ পৰা কিমান দূৰত?",
-            f"{c} km", [f"{c+a} km", f"{c+b} km", f"{a+b+k} km"],
+            f"{c} km", [f"{c+a} km", f"{c+b} km", f"{int(d)+a+b+k} km"],
             f"The southward {k} km cancels part of the northward walk, leaving {a} km north and {b} km east: √({a}²+{b}²) = {c} km.",
             f"দক্ষিণৰ {as_num(k)} কিঃমিঃে উত্তৰৰ অংশ বাতিল কৰে; অৱশিষ্ট {as_num(a)} কিঃমিঃ উত্তৰ আৰু {as_num(b)} কিঃমিঃ পূব: {as_num(c)} কিঃমিঃ।")
 
@@ -119,7 +119,7 @@ for a, b, c in TRIPLES:
         en_t, as_t = move_text(mv)
         add(f"A man walks {en_t}. How far is he from the starting point?",
             f"এজন মানুহে {as_t} খোজ কাঢ়ে। তেওঁ আৰম্ভণি বিন্দুৰ পৰা কিমান দূৰত?",
-            f"{c} km", [f"{c+a} km", f"{c+b} km", f"{a+b+k} km"],
+            f"{c} km", [f"{c+a} km", f"{c+b} km", f"{int(d)+a+b+k} km"],
             f"Net displacement is {b} km east and {a} km north: √({b}²+{a}²) = {c} km.",
             f"মুঠ স্থানান্তৰ {as_num(b)} কিঃমিঃ পূব আৰু {as_num(a)} কিঃমিঃ উত্তৰ: {as_num(c)} কিঃমিঃ।")
 
@@ -130,7 +130,7 @@ for a, b, c in TRIPLES:
         en_t, as_t = move_text(mv)
         add(f"A man walks {en_t}. How far is he from the starting point?",
             f"এজন মানুহে {as_t} খোজ কাঢ়ে। তেওঁ আৰম্ভণি বিন্দুৰ পৰা কিমান দূৰত?",
-            f"{c} km", [f"{c+a} km", f"{c+b} km", f"{a+b+k+j} km"],
+            f"{c} km", [f"{c+a} km", f"{c+b} km", f"{int(d)+a+b+k+j} km"],
             f"After cancelling, the net displacement is {b} km east and {a} km north: √({b}²+{a}²) = {c} km.",
             f"বাতিলৰ পিছত মুঠ স্থানান্তৰ {as_num(b)} কিঃমিঃ পূব আৰু {as_num(a)} কিঃমিঃ উত্তৰ: {as_num(c)} কিঃমিঃ।")
 

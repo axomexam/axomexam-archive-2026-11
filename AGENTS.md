@@ -3385,3 +3385,22 @@ are translated (Father → পিতৃ etc.). Direction items use Pythagorean
 triples so distances stay whole numbers.
 
 Book total after rebuild: 17,162; sitewide 59,485; hero 88,192.
+
+## Verbal Reasoning — final six topics (very hard)
+
+Alphabet test & word formation, logical sequence of words, clock &
+calendar, mathematical operations, input-output and general verbal
+reasoning now hold 80+ very hard questions each:
+
+- alphabet-test-word-formation 99, logical-sequence-words 83,
+  clock-calendar 91, mathematical-operations 91,
+  input-output 84, general-verbal-reasoning 86.
+
+Generators: `tools/gen-vr-alpha-test.py`, `gen-vr-logseq.py`,
+`gen-vr-clock.py`, `gen-vr-mathops.py`, `gen-vr-io.py`, `gen-vr-general.py`.
+Clock angles use |30h − 5.5m| and dates come from Python datetime.
+Math operations substitute symbols then evaluate with BODMAS.
+General verbal uses `append_bi()` for translated options.
+
+All fourteen verbal-reasoning leaves now have 80+. Book total 17,696;
+sitewide 60,019; hero 88,726.
