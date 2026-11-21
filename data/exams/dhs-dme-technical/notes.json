@@ -6660,5 +6660,315 @@
         "প্ৰতিটো এককৰ প্ৰশ্নত দুটা কথা সোধক: এককটো সাতটা মূল এককৰ ভিতৰত নে তাৰ পৰা বনোৱা, আৰু তাৰ মাত্ৰিক সূত্ৰ কি। এই দুটা পৰীক্ষাই তালিকা মুখস্থ নকৰাকৈ এই শিতানৰ বেছিভাগ প্ৰশ্নৰ উত্তৰ দি দিয়ে।"
       ]
     ]
+  },
+  "motion-force": {
+    "en": [
+      [
+        "h3",
+        "Rest, motion, and the frame you measure from"
+      ],
+      [
+        "p",
+        "An object is at rest if its position does not change with time relative to an observer, and in motion if it does. The words relative to an observer carry all the weight: a passenger sitting in a moving bus is at rest with respect to the bus and in motion with respect to the road. That single sentence answers the standard first question in this topic."
+      ],
+      [
+        "p",
+        "Motion is described as translatory when the body moves along a line, rotatory when it spins about an axis, and vibratory when it moves to and fro about a mean position. A wheel on a road shows both translatory and rotatory motion at once, and that example is asked to test whether you know the two can occur together."
+      ],
+      [
+        "h3",
+        "Distance and displacement, speed and velocity"
+      ],
+      [
+        "p",
+        "Distance is the total path length, a scalar, and displacement is the straight line from start to finish with direction, a vector. If you walk 3 metres east and then 4 metres north, the distance is 7 metres and the displacement is 5 metres, because those two legs form a right triangle. A question that asks for the displacement of a body returning to its starting point wants zero, while the distance is twice the one-way path."
+      ],
+      [
+        "p",
+        "Speed is distance per unit time, a scalar. Velocity is displacement per unit time, a vector. Average speed is total distance over total time, and average velocity is total displacement over total time. That is why the average velocity of a round trip is zero while the average speed is not, and that pair is the most repeated question in the topic."
+      ],
+      [
+        "p",
+        "Acceleration is the rate of change of velocity, measured in metre per second squared. Uniform acceleration means equal changes in equal times. Retardation, or deceleration, is acceleration opposite to the direction of motion, and a negative sign in an answer usually means retardation rather than a mistake."
+      ],
+      [
+        "h3",
+        "The three equations of motion"
+      ],
+      [
+        "ul",
+        [
+          "v = u + at — velocity after time t.",
+          "s = ut + half a t squared — distance in time t.",
+          "v squared = u squared + 2 a s — velocity after distance s."
+        ]
+      ],
+      [
+        "p",
+        "These three hold only for uniform acceleration, which is the condition candidates forget. For a body starting from rest u is zero, and for a body coming to rest v is zero; those two simplifications cover most numerical questions. A body thrown up has a equal to minus g, so the same three equations apply with a negative sign."
+      ],
+      [
+        "p",
+        "Free fall is the case where the only force is gravity, so a equals g, about 9.8 metre per second squared. A stone dropped from rest covers 4.9 metres in the first second, and its velocity then is 9.8 metre per second. Those two numbers are worth memorising because they appear as one-mark numericals again and again."
+      ],
+      [
+        "h3",
+        "Graphs, and what their slopes mean"
+      ],
+      [
+        "p",
+        "On a distance-time graph the slope is speed, and a horizontal line means the body is at rest. On a velocity-time graph the slope is acceleration and the area under the line is the distance travelled. That pair of statements answers almost every graph question in the paper, so learn them as two lines rather than as four separate facts."
+      ],
+      [
+        "p",
+        "A curved distance-time graph means changing speed; a straight line means uniform speed. A velocity-time graph parallel to the time axis means uniform velocity, which is zero acceleration, and that is the state Newton's first law describes."
+      ],
+      [
+        "h3",
+        "Newton's three laws"
+      ],
+      [
+        "p",
+        "The first law says a body continues at rest or in uniform motion unless a net external force acts on it; this is the law of inertia, and it is why a passenger lurches forward when a bus brakes. The second law says force equals mass times acceleration, so for the same force a heavier body accelerates less. The third law says every action has an equal and opposite reaction, acting on a different body, which is why a rocket moves forward by pushing gas backward."
+      ],
+      [
+        "p",
+        "Inertia is the tendency of a body to resist change in its state of motion, and mass is its measure. That is why a loaded truck takes longer to stop than a bicycle at the same speed. A question that asks why a passenger falls forward when a bus stops wants inertia of motion, and one that asks why they fall backward when it starts wants inertia of rest."
+      ],
+      [
+        "h3",
+        "Momentum, impulse and friction"
+      ],
+      [
+        "p",
+        "Momentum is mass times velocity, measured in kilogram metre per second, and it is a vector. Impulse is force times time and equals the change in momentum, which is why a fielder pulls his hands back while catching: the same change in momentum over a longer time means a smaller force. That explanation is a favourite applied question."
+      ],
+      [
+        "p",
+        "Friction is the force that opposes relative motion between surfaces in contact. Static friction acts before motion starts, sliding friction during motion, and rolling friction is the smallest of the three, which is why wheels replaced sledges. Friction is reduced by polishing, oiling and using ball bearings, and increased by treads and rough surfaces."
+      ],
+      [
+        "h3",
+        "Circular motion and gravitation"
+      ],
+      [
+        "p",
+        "In uniform circular motion the speed is constant but the velocity changes because the direction changes, so there is an acceleration directed towards the centre, called centripetal acceleration. The force that provides it is the centripetal force: tension for a stone on a string, gravity for a satellite, friction for a car on a bend."
+      ],
+      [
+        "p",
+        "Newton's law of gravitation says the force between two masses is proportional to the product of the masses and inversely proportional to the square of the distance between them. Weight is the gravitational force on a mass, so weight changes with location while mass does not; on the moon a body weighs about one sixth of its earth weight. That distinction between mass and weight is asked every year."
+      ],
+      [
+        "h3",
+        "Worked numericals, the four patterns"
+      ],
+      [
+        "p",
+        "First pattern: a car starts from rest and reaches 20 metre per second in 5 seconds. Using v = u + at with u zero gives a equal to 4 metre per second squared, and s equal to 50 metres. Second pattern: a body falls freely for 3 seconds. Speed is 29.4 metre per second and distance is 44.1 metres, both from the same three equations with u zero and a equal to g."
+      ],
+      [
+        "p",
+        "Third pattern: a bus at 15 metre per second stops in 3 seconds. Retardation is 5 metre per second squared and distance is 22.5 metres. Fourth pattern: a ball thrown up at 19.6 metre per second reaches 19.6 metres and returns in 4 seconds. These four cover almost every numerical set on this topic, so practise them until each takes under a minute."
+      ],
+      [
+        "h3",
+        "Where the physics meets the job"
+      ],
+      [
+        "p",
+        "A technician meets friction in every machine and bearing, momentum in every vehicle, and inertia in every load lifted without a brace. A nurse meets the same laws when moving a patient: the correct technique is to keep the load close, bend the knees and move smoothly, because the body is a lever and a sudden start means a large acceleration and therefore a large force."
+      ],
+      [
+        "h3",
+        "Where marks quietly disappear"
+      ],
+      [
+        "ul",
+        [
+          "Giving displacement for a round trip as the path length. It is zero.",
+          "Using the three equations when acceleration is not uniform.",
+          "Saying weight is measured in kilogram. Weight is in newton.",
+          "Reading the area under a distance-time graph as distance.",
+          "Forgetting that action and reaction act on two different bodies."
+        ]
+      ],
+      [
+        "h3",
+        "Ten days on this topic"
+      ],
+      [
+        "p",
+        "Two days on rest, motion and the types of motion. Two days on distance, displacement, speed, velocity and acceleration. Two days on the three equations with numericals including free fall. Two days on graphs and Newton's laws with inertia examples. The last two days: momentum, impulse, friction, circular motion and gravitation."
+      ],
+      [
+        "tip",
+        "For any numerical, write the five knowns first: u, v, a, t and s. Two of them will be zero or given, and the equation to use then chooses itself."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "স্থিতি, গতি, আৰু কোনে জুখিছে"
+      ],
+      [
+        "p",
+        "বস্তু এটা স্থিতিত থাকে যদি পৰ্যবেক্ষক এজনৰ সাপেক্ষে তাৰ অৱস্থান সময়ৰ লগত নসলনি হয়, আৰু গতিত থাকে যদি সলনি হয়। পৰ্যবেক্ষকৰ সাপেক্ষে — এই কথাষাৰেই গোটেই গুৰুত্ব বহন কৰে: চলি থকা বাছত বহি থকা যাত্ৰী বাছৰ সাপেক্ষে স্থিতিত, কিন্তু ৰাস্তাৰ সাপেক্ষে গতিত। এই এটা বাক্যয়েই এই শিতানৰ প্ৰথম মানক প্ৰশ্নৰ উত্তৰ দিয়ে।"
+      ],
+      [
+        "p",
+        "গতি তিনিধৰণে বৰ্ণনা কৰা হয়: ৰৈখিক (শাৰীৰে গতি), ঘূৰ্ণনীয় (অক্ষৰ চাৰিওফালে ঘূৰা), আৰু কম্পনশীল (মধ্য অৱস্থানৰ চাৰিওফালে ইফালে-সিফালে)। ৰাস্তাত চলি থকা চকাই একে সময়তে ৰৈখিক আৰু ঘূৰ্ণনীয় — দুয়োটা গতি দেখুৱায়, আৰু এই উদাহৰণটো সোধা হয় দুয়োটা একেলগে হ’ব পাৰে নে নাই পৰীক্ষা কৰিবলৈ।"
+      ],
+      [
+        "h3",
+        "দূৰত্ব আৰু সৰণ, দ্ৰুতি আৰু বেগ"
+      ],
+      [
+        "p",
+        "দূৰত্ব হ’ল মুঠ পথৰ দীঘ, এটা স্কেলাৰ, আৰু সৰণ হ’ল আৰম্ভণিৰ পৰা শেষলৈ পোন শাৰীৰ দূৰত্ব দিশসহ, এটা ভেক্টৰ। যদি ৩ মিটাৰ পূবলৈ আৰু তাৰ পিছত ৪ মিটাৰ উত্তৰলৈ খোজ কাঢ়ে, দূৰত্ব ৭ মিটাৰ আৰু সৰণ ৫ মিটাৰ, কাৰণ দুয়ো ভৰি এটা সমকোণ ত্ৰিভুজ বনায়। আৰম্ভণিৰ ঠাইলৈ উলটি অহা বস্তুৰ সৰণ সুধিলে উত্তৰ শূন্য, কিন্তু দূৰত্ব একমুখী পথৰ দুগুণ।"
+      ],
+      [
+        "p",
+        "দ্ৰুতি হ’ল প্ৰতি একক সময়ত দূৰত্ব, এটা স্কেলাৰ। বেগ হ’ল প্ৰতি একক সময়ত সৰণ, এটা ভেক্টৰ। গড় দ্ৰুতি = মুঠ দূৰত্ব ভাগ মুঠ সময়, আৰু গড় বেগ = মুঠ সৰণ ভাগ মুঠ সময়। সেয়েই যোৱা-অহা যাত্ৰাৰ গড় বেগ শূন্য কিন্তু গড় দ্ৰুতি শূন্য নহয়, আৰু এই যোৰটোৱেই এই শিতানৰ আটাইতকৈ বেছি সোধা প্ৰশ্ন।"
+      ],
+      [
+        "p",
+        "ত্বৰণ হ’ল বেগ সলনি হোৱাৰ হাৰ, একক মিটাৰ প্ৰতি ছেকেণ্ড বৰ্গ। সুষম ত্বৰণ মানে সমান সময়ত সমান পৰিৱৰ্তন। মন্দন হ’ল গতিৰ বিপৰীত দিশত ত্বৰণ, আৰু উত্তৰত ঋণাত্মক চিন দেখিলে সেয়া প্ৰায়ে মন্দন, ভুল নহয়।"
+      ],
+      [
+        "h3",
+        "গতিৰ তিনি সমীকৰণ"
+      ],
+      [
+        "ul",
+        [
+          "v = u + at — t সময়ৰ পিছত বেগ।",
+          "s = ut + আধা a t বৰ্গ — t সময়ত দূৰত্ব।",
+          "v বৰ্গ = u বৰ্গ + ২ a s — s দূৰত্বৰ পিছত বেগ।"
+        ]
+      ],
+      [
+        "p",
+        "এই তিনি সমীকৰণ কেৱল সুষম ত্বৰণত প্ৰযোজ্য, আৰু এই চৰ্তটোৱেই প্ৰাৰ্থীয়ে পাহৰে। স্থিতিৰ পৰা আৰম্ভ কৰা বস্তুৰ বাবে u শূন্য, আৰু ৰৈ যোৱা বস্তুৰ বাবে v শূন্য; এই দুটা সৰলীকৰণেই বেছিভাগ সংখ্যামূলক প্ৰশ্ন সামৰি লয়। ওপৰলৈ দলিওৱা বস্তুৰ a = ঋণাত্মক g, সেয়ে একেই তিনি সমীকৰণ ঋণাত্মক চিনেৰে প্ৰয়োগ হয়।"
+      ],
+      [
+        "p",
+        "মুক্ত পতন হ’ল য’ত মাত্ৰ মাধ্যাকৰ্ষণেই বল, সেয়ে a = g, প্ৰায় ৯.৮ মিটাৰ প্ৰতি ছেকেণ্ড বৰ্গ। স্থিতিৰ পৰা পেলোৱা শিলে প্ৰথম ছেকেণ্ডত ৪.৯ মিটাৰ যায়, আৰু তেতিয়া তাৰ বেগ ৯.৮ মিটাৰ প্ৰতি ছেকেণ্ড। এই দুটা সংখ্যা মনত ৰখা ভাল কাৰণ এক-নম্বৰৰ অংক হিচাপে ইহঁত বাৰে বাৰে আহে।"
+      ],
+      [
+        "h3",
+        "লেখ, আৰু ঢালৰ অৰ্থ"
+      ],
+      [
+        "p",
+        "দূৰত্ব-সময় লেখত ঢাল হ’ল দ্ৰুতি, আৰু অনুভূমিক ৰেখা মানে বস্তু স্থিতিত। বেগ-সময় লেখত ঢাল হ’ল ত্বৰণ আৰু ৰেখাৰ তলৰ কালি হ’ল যোৱা দূৰত্ব। এই দুটা কথাৰে প্ৰশ্নকাকতৰ প্ৰায় প্ৰতিটো লেখৰ প্ৰশ্নৰ উত্তৰ ওলায়, সেয়ে চাৰিটা পৃথক তথ্য নহয়, দুশাৰী হিচাপেই শিকক।"
+      ],
+      [
+        "p",
+        "বক্ৰ দূৰত্ব-সময় লেখ মানে দ্ৰুতি সলনি হৈছে; পোন ৰেখা মানে সুষম দ্ৰুতি। সময় অক্ষৰ সমান্তৰাল বেগ-সময় ৰেখা মানে সুষম বেগ, অৰ্থাৎ ত্বৰণ শূন্য, আৰু সেয়াই নিউটনৰ প্ৰথম সূত্ৰই বৰ্ণনা কৰা অৱস্থা।"
+      ],
+      [
+        "h3",
+        "নিউটনৰ তিনি সূত্ৰ"
+      ],
+      [
+        "p",
+        "প্ৰথম সূত্ৰই কয় — বাহ্যিক মুঠ বল নালাগিলে বস্তু এটা স্থিতিত বা সুষম গতিতেই থাকিব; এইটোৱেই জড়তাৰ সূত্ৰ, আৰু সেয়েই বাছ ব্ৰেক মাৰিলে যাত্ৰী আগলৈ হাউলি পৰে। দ্বিতীয় সূত্ৰই কয় — বল = ভৰ গুণ ত্বৰণ, সেয়ে একেই বলত গধুৰ বস্তু কম ত্বৰণ পায়। তৃতীয় সূত্ৰই কয় — প্ৰতিটো ক্ৰিয়াৰ সমান আৰু বিপৰীত প্ৰতিক্ৰিয়া থাকে, যি আন এটা বস্তুত ক্ৰিয়া কৰে, সেয়েই ৰকেটে গেছ পিছলৈ ঠেলি আগলৈ গতি কৰে।"
+      ],
+      [
+        "p",
+        "জড়তা হ’ল গতিৰ অৱস্থাৰ পৰিৱৰ্তনৰোধ কৰা প্ৰৱণতা, আৰু ভৰেই তাৰ জোখ। সেয়েই একেই দ্ৰুতিত ল’ডেড ট্ৰাক ৰখাত চাইকেলতকৈ বেছি সময় লাগে। বাছ ৰৈ গ’লে যাত্ৰী আগলৈ পৰে কিয় সুধিলে উত্তৰ গতিৰ জড়তা, আৰু বাছ চলি ধৰিলে পিছলৈ পৰে কিয় সুধিলে উত্তৰ স্থিতিৰ জড়তা।"
+      ],
+      [
+        "h3",
+        "ভৰবেগ, আঘাত আৰু ঘৰ্ষণ"
+      ],
+      [
+        "p",
+        "ভৰবেগ = ভৰ গুণ বেগ, একক কিলোগ্ৰাম মিটাৰ প্ৰতি ছেকেণ্ড, আৰু ই এটা ভেক্টৰ। আঘাত (impulse) = বল গুণ সময়, যি ভৰবেগৰ পৰিৱৰ্তনৰ সমান, সেয়েই ফিল্ডাৰে কেচ ধৰোঁতে হাত পিছলৈ টানে: একেই ভৰবেগৰ পৰিৱৰ্তন বেছি সময়ত হ’লে বল কম লাগে। এই ব্যাখ্যা এটা প্ৰিয় প্ৰয়োগমূলক প্ৰশ্ন।"
+      ],
+      [
+        "p",
+        "ঘৰ্ষণ হ’ল সংস্পৰ্শত থকা পৃষ্ঠৰ মাজত আপেক্ষিক গতিৰোধী বল। স্থিতি ঘৰ্ষণ গতি আৰম্ভ হোৱাৰ আগতে, চলন ঘৰ্ষণ গতিৰ সময়ত, আৰু ঘূৰ্ণন ঘৰ্ষণ তিনিৰ ভিতৰত আটাইতকৈ কম, সেয়েই চকাই শ্লেজৰ ঠাই ল’লে। ঘৰ্ষণ মিহি কৰা, তেল লগোৱা আৰু বল বেয়াৰিঙেৰে কমায়, আৰু ট্ৰেড আৰু খহটা পৃষ্ঠই বঢ়ায়।"
+      ],
+      [
+        "h3",
+        "বৃত্তীয় গতি আৰু মাধ্যাকৰ্ষণ"
+      ],
+      [
+        "p",
+        "সুষম বৃত্তীয় গতিত দ্ৰুতি স্থিৰ কিন্তু বেগ সলনি হয় কাৰণ দিশ সলনি হয়, সেয়ে কেন্দ্ৰৰ দিশত এটা ত্বৰণ থাকে, যাক কেন্দ্ৰমুখী ত্বৰণ বোলে। যি বলে ইয়াক যোগায় সেয়া কেন্দ্ৰমুখী বল: চুটিৰ মূৰৰ শিলৰ বাবে টান, উপগ্ৰহৰ বাবে মাধ্যাকৰ্ষণ, বেঁকা পথত গাড়ীৰ বাবে ঘৰ্ষণ।"
+      ],
+      [
+        "p",
+        "নিউটনৰ মাধ্যাকৰ্ষণ সূত্ৰই কয় — দুই ভৰৰ মাজৰ বল ভৰ দুটাৰ গুণফলৰ সমানুপাতিক আৰু তেওঁলোকৰ মাজৰ দূৰত্বৰ বৰ্গৰ ব্যস্তানুপাতিক। ওজন হ’ল ভৰ এটাৰ ওপৰত প্ৰযোজ্য মাধ্যাকৰ্ষণ বল, সেয়ে ঠাই সলনি হ’লে ওজন সলনি হয় কিন্তু ভৰ নহয়; চন্দ্ৰত বস্তু এটাৰ ওজন পৃথিৱীৰ ওজনৰ প্ৰায় ছয় ভাগৰ এভাগ। ভৰ আৰু ওজনৰ এই পাৰ্থক্যটো প্ৰতি বছৰে সোধা হয়।"
+      ],
+      [
+        "h3",
+        "সমাধান কৰা অংক, চাৰিটা আৰ্হি"
+      ],
+      [
+        "p",
+        "প্ৰথম আৰ্হি: গাড়ী এটা স্থিতিৰ পৰা আৰম্ভ কৰি ৫ ছেকেণ্ডত ২০ মিটাৰ প্ৰতি ছেকেণ্ডত উপনীত হয়। v = u + at ত u শূন্য দিলে a = ৪ মিটাৰ প্ৰতি ছেকেণ্ড বৰ্গ, আৰু s = ৫০ মিটাৰ। দ্বিতীয় আৰ্হি: বস্তু এটা ৩ ছেকেণ্ড মুক্তভাৱে পৰে। বেগ ২৯.৪ মিটাৰ প্ৰতি ছেকেণ্ড আৰু দূৰত্ব ৪৪.১ মিটাৰ, দুয়োটা একেই তিনি সমীকৰণৰ পৰা, u শূন্য আৰু a = g দি।"
+      ],
+      [
+        "p",
+        "তৃতীয় আৰ্হি: ১৫ মিটাৰ প্ৰতি ছেকেণ্ডত চলি থকা বাছে ৩ ছেকেণ্ডত ৰয়। মন্দন ৫ মিটাৰ প্ৰতি ছেকেণ্ড বৰ্গ আৰু দূৰত্ব ২২.৫ মিটাৰ। চতুৰ্থ আৰ্হি: ১৯.৬ মিটাৰ প্ৰতি ছেকেণ্ডত ওপৰলৈ দলিওৱা বল ১৯.৬ মিটাৰ ওপৰত যায় আৰু ৪ ছেকেণ্ডত ঘূৰি আহে। এই চাৰিটাই এই শিতানৰ প্ৰায় প্ৰতিটো অংকৰ সংহতি সামৰি লয়, সেয়ে প্ৰতিটো এবাৰ মিনিটৰ ভিতৰত কৰিব পৰাকৈ অভ্যাস কৰক।"
+      ],
+      [
+        "h3",
+        "য’ত পদাৰ্থবিজ্ঞান চাকৰিত লাগে"
+      ],
+      [
+        "p",
+        "টেকনিচিয়ানে প্ৰতিটো যন্ত্ৰ আৰু বেয়াৰিঙত ঘৰ্ষণ, প্ৰতিটো যানত ভৰবেগ, আৰু ঠেকা নিদিয়াকৈ দঙা প্ৰতিটো ভাৰত জড়তা লগ পায়। নাৰ্ছেও একেই সূত্ৰ লগ পায় ৰোগীক লৰোৱাৰ সময়ত: শুদ্ধ কৌশল — ভাৰ শৰীৰৰ ওচৰত ৰখা, আঁঠু ভাঁজ কৰা আৰু লাহে লাহে চলা, কাৰণ শৰীৰ এটা লিভাৰ, আৰু হঠাতে আৰম্ভ কৰিলে ত্বৰণ বেছি হয় সেয়ে বলো বেছি লাগে।"
+      ],
+      [
+        "h3",
+        "নম্বৰ ক'ত নীৰৱে হেৰায়"
+      ],
+      [
+        "ul",
+        [
+          "যোৱা-অহা যাত্ৰাৰ সৰণক পথৰ দীঘ বুলি দিয়া — সেয়া শূন্য।",
+          "ত্বৰণ সুষম নহ’লেও তিনি সমীকৰণ ব্যৱহাৰ কৰা।",
+          "ওজন কিলোগ্ৰামত জুখা বুলি কোৱা — ওজন নিউটনত।",
+          "দূৰত্ব-সময় লেখৰ তলৰ কালিক দূৰত্ব বুলি পঢ়া।",
+          "ক্ৰিয়া আৰু প্ৰতিক্ৰিয়া দুটা পৃথক বস্তুত ক্ৰিয়া কৰে বুলি পাহৰি যোৱা।"
+        ]
+      ],
+      [
+        "h3",
+        "মাত্ৰা, একক আৰু চিনি পোৱাৰ উপায়"
+      ],
+      [
+        "p",
+        "এই শিতানত প্ৰতিটো ৰাশিৰ একক মনত থাকিলে অংক আধা সহজ হয়: দ্ৰুতি আৰু বেগ মিটাৰ প্ৰতি ছেকেণ্ড, ত্বৰণ মিটাৰ প্ৰতি ছেকেণ্ড বৰ্গ, বল নিউটন, ভৰবেগ কিলোগ্ৰাম মিটাৰ প্ৰতি ছেকেণ্ড, আৰু ঘৰ্ষণো নিউটনত। যদি উত্তৰত একক নিমিলে, তেতিয়া বুজিব লাগে ক’ৰবাত ৰূপান্তৰ বাকী আছে — যেনে কিলোমিটাৰ প্ৰতি ঘণ্টাক মিটাৰ প্ৰতি ছেকেণ্ডলৈ নিয়া।"
+      ],
+      [
+        "p",
+        "কিলোমিটাৰ প্ৰতি ঘণ্টাৰ পৰা মিটাৰ প্ৰতি ছেকেণ্ডলৈ যোৱাৰ নিয়মটো এটা: ৫/১৮ ৰে পূৰণ কৰক। যেনে ৩৬ কি.মি./ঘণ্টা = ১০ মি./ছে., আৰু ৭২ কি.মি./ঘণ্টা = ২০ মি./ছে.। এই ৰূপান্তৰটো নজনাকৈ বহু প্ৰাৰ্থীয়ে অংকটো শুদ্ধকৈ কৰিও উত্তৰ ভুল কৰে, কাৰণ একক মিহলি হৈ যায়। সেয়ে প্ৰথম খোজতে এই ৰূপান্তৰটো কৰি লোৱা অভ্যাস কৰক।"
+      ],
+      [
+        "h3",
+        "প্ৰশ্নকাকতত সোধা পাঁচটা এক-শাৰীৰ উত্তৰ"
+      ],
+      [
+        "p",
+        "এটা: স্থিৰ দ্ৰুতিত গতি কৰা বস্তুৰ ত্বৰণ শূন্য। দুই: বৃত্তীয় গতিত দ্ৰুতি স্থিৰ কিন্তু বেগ নহয়। তিনি: ক্ৰিয়া আৰু প্ৰতিক্ৰিয়া কেতিয়াও এটা বস্তুত নহয়। চাৰি: মুক্ত পতনত ত্বৰণ ভৰৰ ওপৰত নিৰ্ভৰ নকৰে। পাঁচ: ঘূৰ্ণন ঘৰ্ষণ আটাইতকৈ কম। এই পাঁচটা এশাৰীত মুখস্থ থাকিলে প্ৰশ্নকাকতৰ চিনি পোৱা ধৰণৰ প্ৰশ্নবোৰ তৎক্ষণাৎ সমাধান হয়, আৰু লগতে এই পাঁচটাই এই শিতানৰ বেছিভাগ 'কিয়' ধৰণৰ প্ৰশ্নৰো আধাৰ হিচাপে কাম কৰে, সেয়ে ইহঁতক মাত্ৰ পাঁচটা শাৰী হিচাপে মনত ৰখা উচিত; আৰু যেতিয়া প্ৰশ্নত এটা উদাহৰণ বিচৰা হয়, তেতিয়া এই পাঁচটাই লগে লগে এটা উদাহৰণো দি দিয়ে; সেয়ে ইহঁতক 'পাঁচটা সিদ্ধান্ত' বুলি নাম দি শিকিলে মনত ৰখাত সুবিধা হয়, কাৰণ নামটোৱেই তালিকাখনৰ কামটো কৈ দিয়ে।"
+      ],
+      [
+        "h3",
+        "এই শিতানত দহ দিন"
+      ],
+      [
+        "p",
+        "দুদিন স্থিতি, গতি আৰু গতিৰ প্ৰকাৰত। দুদিন দূৰত্ব, সৰণ, দ্ৰুতি, বেগ আৰু ত্বৰণত। দুদিন তিনি সমীকৰণত, মুক্ত পতনসহ অংক দি। দুদিন লেখ আৰু নিউটনৰ সূত্ৰত, জড়তাৰ উদাহৰণ দি। শেষৰ দুদিন: ভৰবেগ, আঘাত, ঘৰ্ষণ, বৃত্তীয় গতি আৰু মাধ্যাকৰ্ষণ।"
+      ],
+      [
+        "tip",
+        "যিকোনো অংকত প্ৰথমে পাঁচটা জনা ৰাশি লিখক: u, v, a, t আৰু s। দুটামান শূন্য বা দিয়া থাকিব, আৰু তাৰ পিছত কোন সমীকৰণ ব্যৱহাৰ কৰিব লাগে নিজেই ওলাই যায়।"
+      ]
+    ]
   }
 }
