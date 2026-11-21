@@ -351,6 +351,34 @@ sequence number. A global counter produced an almost constant shift within a
 leaf and pushed 98 of 114 ancient keys onto option B; the per-leaf index gives
 an even spread.
 
+**Geography** (`general-knowledge/geography`) was one flat leaf of 80 items
+and is now two leaves:
+
+| leaf | items |
+|---|---|
+| `assam-geography` | 304 |
+| `india-geography` | 392 |
+
+Same two mechanisms as Assam History, with one twist that matters: the India
+rule is `/.*/` and `india-geography` is the fallback leaf, so the India regex
+matches everything and only the Assam rule actually decides. That is
+deliberate — a stem that misses every Assam keyword lands in India rather than
+being dropped, and a new Assam keyword must be added to the Assam rule, not to
+the India one.
+
+**The 80 legacy items had every answer key on option A** (41 of 80). Merging
+them as-is skewed both new leaves badly. They were rotated by position before
+the merge, which is now the pattern: check the legacy bank's key spread
+whenever an old flat bank is split.
+
+**Geography source files and generator:**
+
+```
+tools/geography-src/{assam,india}-part*.json   authored rows, nine fields
+tools/gen-dhs-geography.js                     assam-history generator, leaf list swapped
+tools/dhs-dme-technical.geography-extra.js     generated, do not edit
+```
+
 **Rebuild order after touching either section:**
 
 ```bash
