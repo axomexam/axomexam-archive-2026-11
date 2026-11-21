@@ -448,5 +448,6205 @@
       "en": "'Outdated' is a synonym of 'obsolete'.",
       "as": "'outdated' হৈছে 'obsolete' ৰ সমাৰ্থক শব্দ।"
     }
+  },
+  {
+    "id": "voc-synonyms-001",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'abandon'.",
+      "as": "'abandon' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "capable",
+        "as": "capable"
+      },
+      {
+        "en": "forsake",
+        "as": "forsake"
+      },
+      {
+        "en": "plentiful",
+        "as": "plentiful"
+      },
+      {
+        "en": "precise",
+        "as": "precise"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'abandon' means 'forsake'.",
+      "as": "'abandon' ৰ অৰ্থ 'forsake'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-002",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'able'.",
+      "as": "'able' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "energetic",
+        "as": "energetic"
+      },
+      {
+        "en": "respect",
+        "as": "respect"
+      },
+      {
+        "en": "capable",
+        "as": "capable"
+      },
+      {
+        "en": "embrace",
+        "as": "embrace"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'able' means 'capable'.",
+      "as": "'able' ৰ অৰ্থ 'capable'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-003",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'abundant'.",
+      "as": "'abundant' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "progress",
+        "as": "progress"
+      },
+      {
+        "en": "consent",
+        "as": "consent"
+      },
+      {
+        "en": "watchful",
+        "as": "watchful"
+      },
+      {
+        "en": "plentiful",
+        "as": "plentiful"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'abundant' means 'plentiful'.",
+      "as": "'abundant' ৰ অৰ্থ 'plentiful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-004",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'accurate'.",
+      "as": "'accurate' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "antique",
+        "as": "antique"
+      },
+      {
+        "en": "courageous",
+        "as": "courageous"
+      },
+      {
+        "en": "precise",
+        "as": "precise"
+      },
+      {
+        "en": "short",
+        "as": "short"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'accurate' means 'precise'.",
+      "as": "'accurate' ৰ অৰ্থ 'precise'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-005",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'active'.",
+      "as": "'active' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "brilliant",
+        "as": "brilliant"
+      },
+      {
+        "en": "energetic",
+        "as": "energetic"
+      },
+      {
+        "en": "peaceful",
+        "as": "peaceful"
+      },
+      {
+        "en": "cautious",
+        "as": "cautious"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'active' means 'energetic'.",
+      "as": "'active' ৰ অৰ্থ 'energetic'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-006",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'admire'.",
+      "as": "'admire' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "respect",
+        "as": "respect"
+      },
+      {
+        "en": "inexpensive",
+        "as": "inexpensive"
+      },
+      {
+        "en": "obvious",
+        "as": "obvious"
+      },
+      {
+        "en": "intelligent",
+        "as": "intelligent"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'admire' means 'respect'.",
+      "as": "'admire' ৰ অৰ্থ 'respect'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-007",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'adopt'.",
+      "as": "'adopt' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "complicated",
+        "as": "complicated"
+      },
+      {
+        "en": "hide",
+        "as": "hide"
+      },
+      {
+        "en": "assured",
+        "as": "assured"
+      },
+      {
+        "en": "embrace",
+        "as": "embrace"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'adopt' means 'embrace'.",
+      "as": "'adopt' ৰ অৰ্থ 'embrace'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-008",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'advance'.",
+      "as": "'advance' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "brutal",
+        "as": "brutal"
+      },
+      {
+        "en": "progress",
+        "as": "progress"
+      },
+      {
+        "en": "risky",
+        "as": "risky"
+      },
+      {
+        "en": "profound",
+        "as": "profound"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'advance' means 'progress'.",
+      "as": "'advance' ৰ অৰ্থ 'progress'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-009",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'agree'.",
+      "as": "'agree' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "protect",
+        "as": "protect"
+      },
+      {
+        "en": "postpone",
+        "as": "postpone"
+      },
+      {
+        "en": "consent",
+        "as": "consent"
+      },
+      {
+        "en": "intentional",
+        "as": "intentional"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'agree' means 'consent'.",
+      "as": "'agree' ৰ অৰ্থ 'consent'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-010",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'alert'.",
+      "as": "'alert' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "hard",
+        "as": "hard"
+      },
+      {
+        "en": "far",
+        "as": "far"
+      },
+      {
+        "en": "separate",
+        "as": "separate"
+      },
+      {
+        "en": "watchful",
+        "as": "watchful"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'alert' means 'watchful'.",
+      "as": "'alert' ৰ অৰ্থ 'watchful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-011",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'ancient'.",
+      "as": "'ancient' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "antique",
+        "as": "antique"
+      },
+      {
+        "en": "uncertainty",
+        "as": "uncertainty"
+      },
+      {
+        "en": "keen",
+        "as": "keen"
+      },
+      {
+        "en": "premature",
+        "as": "premature"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'ancient' means 'antique'.",
+      "as": "'ancient' ৰ অৰ্থ 'antique'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-012",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'brave'.",
+      "as": "'brave' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "courageous",
+        "as": "courageous"
+      },
+      {
+        "en": "vacant",
+        "as": "vacant"
+      },
+      {
+        "en": "inspire",
+        "as": "inspire"
+      },
+      {
+        "en": "foe",
+        "as": "foe"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'brave' means 'courageous'.",
+      "as": "'brave' ৰ অৰ্থ 'courageous'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-013",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'brief'.",
+      "as": "'brief' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "relish",
+        "as": "relish"
+      },
+      {
+        "en": "short",
+        "as": "short"
+      },
+      {
+        "en": "huge",
+        "as": "huge"
+      },
+      {
+        "en": "necessary",
+        "as": "necessary"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'brief' means 'short'.",
+      "as": "'brief' ৰ অৰ্থ 'short'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-014",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'bright'.",
+      "as": "'bright' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "wicked",
+        "as": "wicked"
+      },
+      {
+        "en": "enlarge",
+        "as": "enlarge"
+      },
+      {
+        "en": "brilliant",
+        "as": "brilliant"
+      },
+      {
+        "en": "costly",
+        "as": "costly"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'bright' means 'brilliant'.",
+      "as": "'bright' ৰ অৰ্থ 'brilliant'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-015",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'calm'.",
+      "as": "'calm' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "flop",
+        "as": "flop"
+      },
+      {
+        "en": "just",
+        "as": "just"
+      },
+      {
+        "en": "renowned",
+        "as": "renowned"
+      },
+      {
+        "en": "peaceful",
+        "as": "peaceful"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'calm' means 'peaceful'.",
+      "as": "'calm' ৰ অৰ্থ 'peaceful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-016",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'careful'.",
+      "as": "'careful' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "quick",
+        "as": "quick"
+      },
+      {
+        "en": "productive",
+        "as": "productive"
+      },
+      {
+        "en": "cautious",
+        "as": "cautious"
+      },
+      {
+        "en": "ferocious",
+        "as": "ferocious"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'careful' means 'cautious'.",
+      "as": "'careful' ৰ অৰ্থ 'cautious'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-017",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'cheap'.",
+      "as": "'cheap' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "silly",
+        "as": "silly"
+      },
+      {
+        "en": "inexpensive",
+        "as": "inexpensive"
+      },
+      {
+        "en": "prohibit",
+        "as": "prohibit"
+      },
+      {
+        "en": "overlook",
+        "as": "overlook"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'cheap' means 'inexpensive'.",
+      "as": "'cheap' ৰ অৰ্থ 'inexpensive'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-018",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'clear'.",
+      "as": "'clear' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "obvious",
+        "as": "obvious"
+      },
+      {
+        "en": "luck",
+        "as": "luck"
+      },
+      {
+        "en": "new",
+        "as": "new"
+      },
+      {
+        "en": "amiable",
+        "as": "amiable"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'clear' means 'obvious'.",
+      "as": "'clear' ৰ অৰ্থ 'obvious'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-019",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'clever'.",
+      "as": "'clever' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "liberal",
+        "as": "liberal"
+      },
+      {
+        "en": "mild",
+        "as": "mild"
+      },
+      {
+        "en": "authentic",
+        "as": "authentic"
+      },
+      {
+        "en": "intelligent",
+        "as": "intelligent"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'clever' means 'intelligent'.",
+      "as": "'clever' ৰ অৰ্থ 'intelligent'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-020",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'complex'.",
+      "as": "'complex' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "colossal",
+        "as": "colossal"
+      },
+      {
+        "en": "complicated",
+        "as": "complicated"
+      },
+      {
+        "en": "happy",
+        "as": "happy"
+      },
+      {
+        "en": "dark",
+        "as": "dark"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'complex' means 'complicated'.",
+      "as": "'complex' ৰ অৰ্থ 'complicated'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-021",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'conceal'.",
+      "as": "'conceal' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "virtuous",
+        "as": "virtuous"
+      },
+      {
+        "en": "slow",
+        "as": "slow"
+      },
+      {
+        "en": "hide",
+        "as": "hide"
+      },
+      {
+        "en": "thankful",
+        "as": "thankful"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'conceal' means 'hide'.",
+      "as": "'conceal' ৰ অৰ্থ 'hide'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-022",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'confident'.",
+      "as": "'confident' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "grand",
+        "as": "grand"
+      },
+      {
+        "en": "culpable",
+        "as": "culpable"
+      },
+      {
+        "en": "tough",
+        "as": "tough"
+      },
+      {
+        "en": "assured",
+        "as": "assured"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'confident' means 'assured'.",
+      "as": "'confident' ৰ অৰ্থ 'assured'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-023",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'cruel'.",
+      "as": "'cruel' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "brutal",
+        "as": "brutal"
+      },
+      {
+        "en": "injurious",
+        "as": "injurious"
+      },
+      {
+        "en": "severe",
+        "as": "severe"
+      },
+      {
+        "en": "fit",
+        "as": "fit"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'cruel' means 'brutal'.",
+      "as": "'cruel' ৰ অৰ্থ 'brutal'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-024",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'dangerous'.",
+      "as": "'dangerous' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "risky",
+        "as": "risky"
+      },
+      {
+        "en": "weighty",
+        "as": "weighty"
+      },
+      {
+        "en": "useful",
+        "as": "useful"
+      },
+      {
+        "en": "truthful",
+        "as": "truthful"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'dangerous' means 'risky'.",
+      "as": "'dangerous' ৰ অৰ্থ 'risky'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-025",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'deep'.",
+      "as": "'deep' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unfriendly",
+        "as": "unfriendly"
+      },
+      {
+        "en": "profound",
+        "as": "profound"
+      },
+      {
+        "en": "modest",
+        "as": "modest"
+      },
+      {
+        "en": "lazy",
+        "as": "lazy"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'deep' means 'profound'.",
+      "as": "'deep' ৰ অৰ্থ 'profound'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-026",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'defend'.",
+      "as": "'defend' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unaware",
+        "as": "unaware"
+      },
+      {
+        "en": "unlawful",
+        "as": "unlawful"
+      },
+      {
+        "en": "protect",
+        "as": "protect"
+      },
+      {
+        "en": "fictitious",
+        "as": "fictitious"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'defend' means 'protect'.",
+      "as": "'defend' ৰ অৰ্থ 'protect'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-027",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'delay'.",
+      "as": "'delay' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "instant",
+        "as": "instant"
+      },
+      {
+        "en": "significant",
+        "as": "significant"
+      },
+      {
+        "en": "augment",
+        "as": "augment"
+      },
+      {
+        "en": "postpone",
+        "as": "postpone"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'delay' means 'postpone'.",
+      "as": "'delay' ৰ অৰ্থ 'postpone'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-028",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'deliberate'.",
+      "as": "'deliberate' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "lower",
+        "as": "lower"
+      },
+      {
+        "en": "blameless",
+        "as": "blameless"
+      },
+      {
+        "en": "intentional",
+        "as": "intentional"
+      },
+      {
+        "en": "clever",
+        "as": "clever"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'deliberate' means 'intentional'.",
+      "as": "'deliberate' ৰ অৰ্থ 'intentional'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-029",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'difficult'.",
+      "as": "'difficult' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "engaging",
+        "as": "engaging"
+      },
+      {
+        "en": "hard",
+        "as": "hard"
+      },
+      {
+        "en": "unite",
+        "as": "unite"
+      },
+      {
+        "en": "cheerful",
+        "as": "cheerful"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'difficult' means 'hard'.",
+      "as": "'difficult' ৰ অৰ্থ 'hard'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-030",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'distant'.",
+      "as": "'distant' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "far",
+        "as": "far"
+      },
+      {
+        "en": "benevolent",
+        "as": "benevolent"
+      },
+      {
+        "en": "big",
+        "as": "big"
+      },
+      {
+        "en": "delayed",
+        "as": "delayed"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'distant' means 'far'.",
+      "as": "'distant' ৰ অৰ্থ 'far'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-031",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'divide'.",
+      "as": "'divide' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "indolent",
+        "as": "indolent"
+      },
+      {
+        "en": "lawful",
+        "as": "lawful"
+      },
+      {
+        "en": "generous",
+        "as": "generous"
+      },
+      {
+        "en": "separate",
+        "as": "separate"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'divide' means 'separate'.",
+      "as": "'divide' ৰ অৰ্থ 'separate'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-032",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'doubt'.",
+      "as": "'doubt' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "bright",
+        "as": "bright"
+      },
+      {
+        "en": "uncertainty",
+        "as": "uncertainty"
+      },
+      {
+        "en": "small",
+        "as": "small"
+      },
+      {
+        "en": "active",
+        "as": "active"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'doubt' means 'uncertainty'.",
+      "as": "'doubt' ৰ অৰ্থ 'uncertainty'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-033",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'eager'.",
+      "as": "'eager' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "lengthy",
+        "as": "lengthy"
+      },
+      {
+        "en": "noisy",
+        "as": "noisy"
+      },
+      {
+        "en": "keen",
+        "as": "keen"
+      },
+      {
+        "en": "affection",
+        "as": "affection"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'eager' means 'keen'.",
+      "as": "'eager' ৰ অৰ্থ 'keen'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-034",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'early'.",
+      "as": "'early' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "faithful",
+        "as": "faithful"
+      },
+      {
+        "en": "insane",
+        "as": "insane"
+      },
+      {
+        "en": "enlarge",
+        "as": "enlarge"
+      },
+      {
+        "en": "premature",
+        "as": "premature"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'early' means 'premature'.",
+      "as": "'early' ৰ অৰ্থ 'premature'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-035",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'empty'.",
+      "as": "'empty' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "vacant",
+        "as": "vacant"
+      },
+      {
+        "en": "highest",
+        "as": "highest"
+      },
+      {
+        "en": "unkind",
+        "as": "unkind"
+      },
+      {
+        "en": "contemporary",
+        "as": "contemporary"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'empty' means 'vacant'.",
+      "as": "'empty' ৰ অৰ্থ 'vacant'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-036",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'encourage'.",
+      "as": "'encourage' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "inspire",
+        "as": "inspire"
+      },
+      {
+        "en": "humble",
+        "as": "humble"
+      },
+      {
+        "en": "tight",
+        "as": "tight"
+      },
+      {
+        "en": "tidy",
+        "as": "tidy"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'encourage' means 'inspire'.",
+      "as": "'encourage' ৰ অৰ্থ 'inspire'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-037",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'enemy'.",
+      "as": "'enemy' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "essential",
+        "as": "essential"
+      },
+      {
+        "en": "foe",
+        "as": "foe"
+      },
+      {
+        "en": "fresh",
+        "as": "fresh"
+      },
+      {
+        "en": "dignified",
+        "as": "dignified"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'enemy' means 'foe'.",
+      "as": "'enemy' ৰ অৰ্থ 'foe'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-038",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'enjoy'.",
+      "as": "'enjoy' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "loud",
+        "as": "loud"
+      },
+      {
+        "en": "dutiful",
+        "as": "dutiful"
+      },
+      {
+        "en": "relish",
+        "as": "relish"
+      },
+      {
+        "en": "clear",
+        "as": "clear"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'enjoy' means 'relish'.",
+      "as": "'enjoy' ৰ অৰ্থ 'relish'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-039",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'enormous'.",
+      "as": "'enormous' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "strange",
+        "as": "strange"
+      },
+      {
+        "en": "ancient",
+        "as": "ancient"
+      },
+      {
+        "en": "unlocked",
+        "as": "unlocked"
+      },
+      {
+        "en": "huge",
+        "as": "huge"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'enormous' means 'huge'.",
+      "as": "'enormous' ৰ অৰ্থ 'huge'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-040",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'essential'.",
+      "as": "'essential' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "hopeful",
+        "as": "hopeful"
+      },
+      {
+        "en": "common",
+        "as": "common"
+      },
+      {
+        "en": "necessary",
+        "as": "necessary"
+      },
+      {
+        "en": "sore",
+        "as": "sore"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'essential' means 'necessary'.",
+      "as": "'essential' ৰ অৰ্থ 'necessary'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-041",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'evil'.",
+      "as": "'evil' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "tolerant",
+        "as": "tolerant"
+      },
+      {
+        "en": "wicked",
+        "as": "wicked"
+      },
+      {
+        "en": "calm",
+        "as": "calm"
+      },
+      {
+        "en": "flawless",
+        "as": "flawless"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'evil' means 'wicked'.",
+      "as": "'evil' ৰ অৰ্থ 'wicked'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-042",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'expand'.",
+      "as": "'expand' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "enlarge",
+        "as": "enlarge"
+      },
+      {
+        "en": "lasting",
+        "as": "lasting"
+      },
+      {
+        "en": "courteous",
+        "as": "courteous"
+      },
+      {
+        "en": "needy",
+        "as": "needy"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'expand' means 'enlarge'.",
+      "as": "'expand' ৰ অৰ্থ 'enlarge'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-043",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'expensive'.",
+      "as": "'expensive' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "famous",
+        "as": "famous"
+      },
+      {
+        "en": "feasible",
+        "as": "feasible"
+      },
+      {
+        "en": "strong",
+        "as": "strong"
+      },
+      {
+        "en": "costly",
+        "as": "costly"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'expensive' means 'costly'.",
+      "as": "'expensive' ৰ অৰ্থ 'costly'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-044",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'fail'.",
+      "as": "'fail' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "applaud",
+        "as": "applaud"
+      },
+      {
+        "en": "flop",
+        "as": "flop"
+      },
+      {
+        "en": "current",
+        "as": "current"
+      },
+      {
+        "en": "beautiful",
+        "as": "beautiful"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'fail' means 'flop'.",
+      "as": "'fail' ৰ অৰ্থ 'flop'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-045",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'fair'.",
+      "as": "'fair' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "personal",
+        "as": "personal"
+      },
+      {
+        "en": "likely",
+        "as": "likely"
+      },
+      {
+        "en": "just",
+        "as": "just"
+      },
+      {
+        "en": "gain",
+        "as": "gain"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'fair' means 'just'.",
+      "as": "'fair' ৰ অৰ্থ 'just'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-046",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'famous'.",
+      "as": "'famous' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "quick",
+        "as": "quick"
+      },
+      {
+        "en": "suitable",
+        "as": "suitable"
+      },
+      {
+        "en": "arrogant",
+        "as": "arrogant"
+      },
+      {
+        "en": "renowned",
+        "as": "renowned"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'famous' means 'renowned'.",
+      "as": "'famous' ৰ অৰ্থ 'renowned'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-047",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'fast'.",
+      "as": "'fast' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "quick",
+        "as": "quick"
+      },
+      {
+        "en": "clean",
+        "as": "clean"
+      },
+      {
+        "en": "silent",
+        "as": "silent"
+      },
+      {
+        "en": "scarce",
+        "as": "scarce"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'fast' means 'quick'.",
+      "as": "'fast' ৰ অৰ্থ 'quick'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-048",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'fertile'.",
+      "as": "'fertile' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "productive",
+        "as": "productive"
+      },
+      {
+        "en": "scarce",
+        "as": "scarce"
+      },
+      {
+        "en": "prepared",
+        "as": "prepared"
+      },
+      {
+        "en": "genuine",
+        "as": "genuine"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'fertile' means 'productive'.",
+      "as": "'fertile' ৰ অৰ্থ 'productive'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-049",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'fierce'.",
+      "as": "'fierce' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "routine",
+        "as": "routine"
+      },
+      {
+        "en": "ferocious",
+        "as": "ferocious"
+      },
+      {
+        "en": "refuse",
+        "as": "refuse"
+      },
+      {
+        "en": "dependable",
+        "as": "dependable"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'fierce' means 'ferocious'.",
+      "as": "'fierce' ৰ অৰ্থ 'ferocious'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-050",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'foolish'.",
+      "as": "'foolish' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "distant",
+        "as": "distant"
+      },
+      {
+        "en": "wealthy",
+        "as": "wealthy"
+      },
+      {
+        "en": "silly",
+        "as": "silly"
+      },
+      {
+        "en": "correct",
+        "as": "correct"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'foolish' means 'silly'.",
+      "as": "'foolish' ৰ অৰ্থ 'silly'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-051",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'forbid'.",
+      "as": "'forbid' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "stiff",
+        "as": "stiff"
+      },
+      {
+        "en": "coarse",
+        "as": "coarse"
+      },
+      {
+        "en": "impolite",
+        "as": "impolite"
+      },
+      {
+        "en": "prohibit",
+        "as": "prohibit"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'forbid' means 'prohibit'.",
+      "as": "'forbid' ৰ অৰ্থ 'prohibit'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-052",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'forget'.",
+      "as": "'forget' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unhappy",
+        "as": "unhappy"
+      },
+      {
+        "en": "secure",
+        "as": "secure"
+      },
+      {
+        "en": "overlook",
+        "as": "overlook"
+      },
+      {
+        "en": "identical",
+        "as": "identical"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'forget' means 'overlook'.",
+      "as": "'forget' ৰ অৰ্থ 'overlook'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-053",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'fortune'.",
+      "as": "'fortune' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "rare",
+        "as": "rare"
+      },
+      {
+        "en": "luck",
+        "as": "luck"
+      },
+      {
+        "en": "safe",
+        "as": "safe"
+      },
+      {
+        "en": "egoistic",
+        "as": "egoistic"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'fortune' means 'luck'.",
+      "as": "'fortune' ৰ অৰ্থ 'luck'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-054",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'fresh'.",
+      "as": "'fresh' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "new",
+        "as": "new"
+      },
+      {
+        "en": "grave",
+        "as": "grave"
+      },
+      {
+        "en": "keen",
+        "as": "keen"
+      },
+      {
+        "en": "brief",
+        "as": "brief"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'fresh' means 'new'.",
+      "as": "'fresh' ৰ অৰ্থ 'new'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-055",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'friendly'.",
+      "as": "'friendly' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "timid",
+        "as": "timid"
+      },
+      {
+        "en": "easy",
+        "as": "easy"
+      },
+      {
+        "en": "genuine",
+        "as": "genuine"
+      },
+      {
+        "en": "amiable",
+        "as": "amiable"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'friendly' means 'amiable'.",
+      "as": "'friendly' ৰ অৰ্থ 'amiable'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-056",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'generous'.",
+      "as": "'generous' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "expert",
+        "as": "expert"
+      },
+      {
+        "en": "liberal",
+        "as": "liberal"
+      },
+      {
+        "en": "sluggish",
+        "as": "sluggish"
+      },
+      {
+        "en": "little",
+        "as": "little"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'generous' means 'liberal'.",
+      "as": "'generous' ৰ অৰ্থ 'liberal'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-057",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'gentle'.",
+      "as": "'gentle' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "even",
+        "as": "even"
+      },
+      {
+        "en": "firm",
+        "as": "firm"
+      },
+      {
+        "en": "mild",
+        "as": "mild"
+      },
+      {
+        "en": "grief",
+        "as": "grief"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'gentle' means 'mild'.",
+      "as": "'gentle' ৰ অৰ্থ 'mild'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-058",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'genuine'.",
+      "as": "'genuine' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "grief",
+        "as": "grief"
+      },
+      {
+        "en": "unique",
+        "as": "unique"
+      },
+      {
+        "en": "begin",
+        "as": "begin"
+      },
+      {
+        "en": "authentic",
+        "as": "authentic"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'genuine' means 'authentic'.",
+      "as": "'genuine' ৰ অৰ্থ 'authentic'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-059",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'giant'.",
+      "as": "'giant' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "colossal",
+        "as": "colossal"
+      },
+      {
+        "en": "odd",
+        "as": "odd"
+      },
+      {
+        "en": "stern",
+        "as": "stern"
+      },
+      {
+        "en": "powerful",
+        "as": "powerful"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'giant' means 'colossal'.",
+      "as": "'giant' ৰ অৰ্থ 'colossal'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-060",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'glad'.",
+      "as": "'glad' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "happy",
+        "as": "happy"
+      },
+      {
+        "en": "foolish",
+        "as": "foolish"
+      },
+      {
+        "en": "achievement",
+        "as": "achievement"
+      },
+      {
+        "en": "abrupt",
+        "as": "abrupt"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'glad' means 'happy'.",
+      "as": "'glad' ৰ অৰ্থ 'happy'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-061",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'gloomy'.",
+      "as": "'gloomy' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "higher",
+        "as": "higher"
+      },
+      {
+        "en": "dark",
+        "as": "dark"
+      },
+      {
+        "en": "certain",
+        "as": "certain"
+      },
+      {
+        "en": "sugary",
+        "as": "sugary"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'gloomy' means 'dark'.",
+      "as": "'gloomy' ৰ অৰ্থ 'dark'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-062",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'good'.",
+      "as": "'good' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "rapid",
+        "as": "rapid"
+      },
+      {
+        "en": "high",
+        "as": "high"
+      },
+      {
+        "en": "virtuous",
+        "as": "virtuous"
+      },
+      {
+        "en": "domestic",
+        "as": "domestic"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'good' means 'virtuous'.",
+      "as": "'good' ৰ অৰ্থ 'virtuous'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-063",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'gradual'.",
+      "as": "'gradual' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "transient",
+        "as": "transient"
+      },
+      {
+        "en": "soft",
+        "as": "soft"
+      },
+      {
+        "en": "awful",
+        "as": "awful"
+      },
+      {
+        "en": "slow",
+        "as": "slow"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'gradual' means 'slow'.",
+      "as": "'gradual' ৰ অৰ্থ 'slow'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-064",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'grateful'.",
+      "as": "'grateful' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "dense",
+        "as": "dense"
+      },
+      {
+        "en": "slim",
+        "as": "slim"
+      },
+      {
+        "en": "thankful",
+        "as": "thankful"
+      },
+      {
+        "en": "minute",
+        "as": "minute"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'grateful' means 'thankful'.",
+      "as": "'grateful' ৰ অৰ্থ 'thankful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-065",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'great'.",
+      "as": "'great' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "weary",
+        "as": "weary"
+      },
+      {
+        "en": "grand",
+        "as": "grand"
+      },
+      {
+        "en": "patient",
+        "as": "patient"
+      },
+      {
+        "en": "hard",
+        "as": "hard"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'great' means 'grand'.",
+      "as": "'great' ৰ অৰ্থ 'grand'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-066",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'guilty'.",
+      "as": "'guilty' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "culpable",
+        "as": "culpable"
+      },
+      {
+        "en": "correct",
+        "as": "correct"
+      },
+      {
+        "en": "hideous",
+        "as": "hideous"
+      },
+      {
+        "en": "singular",
+        "as": "singular"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'guilty' means 'culpable'.",
+      "as": "'guilty' ৰ অৰ্থ 'culpable'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-067",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'hard'.",
+      "as": "'hard' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "prudent",
+        "as": "prudent"
+      },
+      {
+        "en": "forsake",
+        "as": "forsake"
+      },
+      {
+        "en": "capable",
+        "as": "capable"
+      },
+      {
+        "en": "tough",
+        "as": "tough"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'hard' means 'tough'.",
+      "as": "'hard' ৰ অৰ্থ 'tough'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-068",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'harmful'.",
+      "as": "'harmful' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "plentiful",
+        "as": "plentiful"
+      },
+      {
+        "en": "injurious",
+        "as": "injurious"
+      },
+      {
+        "en": "precise",
+        "as": "precise"
+      },
+      {
+        "en": "energetic",
+        "as": "energetic"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'harmful' means 'injurious'.",
+      "as": "'harmful' ৰ অৰ্থ 'injurious'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-069",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'harsh'.",
+      "as": "'harsh' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "respect",
+        "as": "respect"
+      },
+      {
+        "en": "embrace",
+        "as": "embrace"
+      },
+      {
+        "en": "severe",
+        "as": "severe"
+      },
+      {
+        "en": "progress",
+        "as": "progress"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'harsh' means 'severe'.",
+      "as": "'harsh' ৰ অৰ্থ 'severe'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-070",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'healthy'.",
+      "as": "'healthy' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "consent",
+        "as": "consent"
+      },
+      {
+        "en": "watchful",
+        "as": "watchful"
+      },
+      {
+        "en": "antique",
+        "as": "antique"
+      },
+      {
+        "en": "fit",
+        "as": "fit"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'healthy' means 'fit'.",
+      "as": "'healthy' ৰ অৰ্থ 'fit'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-071",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'heavy'.",
+      "as": "'heavy' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "weighty",
+        "as": "weighty"
+      },
+      {
+        "en": "courageous",
+        "as": "courageous"
+      },
+      {
+        "en": "short",
+        "as": "short"
+      },
+      {
+        "en": "brilliant",
+        "as": "brilliant"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'heavy' means 'weighty'.",
+      "as": "'heavy' ৰ অৰ্থ 'weighty'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-072",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'helpful'.",
+      "as": "'helpful' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "useful",
+        "as": "useful"
+      },
+      {
+        "en": "peaceful",
+        "as": "peaceful"
+      },
+      {
+        "en": "cautious",
+        "as": "cautious"
+      },
+      {
+        "en": "inexpensive",
+        "as": "inexpensive"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'helpful' means 'useful'.",
+      "as": "'helpful' ৰ অৰ্থ 'useful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-073",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'honest'.",
+      "as": "'honest' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "obvious",
+        "as": "obvious"
+      },
+      {
+        "en": "truthful",
+        "as": "truthful"
+      },
+      {
+        "en": "intelligent",
+        "as": "intelligent"
+      },
+      {
+        "en": "complicated",
+        "as": "complicated"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'honest' means 'truthful'.",
+      "as": "'honest' ৰ অৰ্থ 'truthful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-074",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'hostile'.",
+      "as": "'hostile' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "hide",
+        "as": "hide"
+      },
+      {
+        "en": "assured",
+        "as": "assured"
+      },
+      {
+        "en": "unfriendly",
+        "as": "unfriendly"
+      },
+      {
+        "en": "brutal",
+        "as": "brutal"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'hostile' means 'unfriendly'.",
+      "as": "'hostile' ৰ অৰ্থ 'unfriendly'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-075",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'humble'.",
+      "as": "'humble' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "risky",
+        "as": "risky"
+      },
+      {
+        "en": "profound",
+        "as": "profound"
+      },
+      {
+        "en": "protect",
+        "as": "protect"
+      },
+      {
+        "en": "modest",
+        "as": "modest"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'humble' means 'modest'.",
+      "as": "'humble' ৰ অৰ্থ 'modest'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-076",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'idle'.",
+      "as": "'idle' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "postpone",
+        "as": "postpone"
+      },
+      {
+        "en": "intentional",
+        "as": "intentional"
+      },
+      {
+        "en": "lazy",
+        "as": "lazy"
+      },
+      {
+        "en": "hard",
+        "as": "hard"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'idle' means 'lazy'.",
+      "as": "'idle' ৰ অৰ্থ 'lazy'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-077",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'ignorant'.",
+      "as": "'ignorant' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "far",
+        "as": "far"
+      },
+      {
+        "en": "unaware",
+        "as": "unaware"
+      },
+      {
+        "en": "separate",
+        "as": "separate"
+      },
+      {
+        "en": "uncertainty",
+        "as": "uncertainty"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'ignorant' means 'unaware'.",
+      "as": "'ignorant' ৰ অৰ্থ 'unaware'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-078",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'illegal'.",
+      "as": "'illegal' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unlawful",
+        "as": "unlawful"
+      },
+      {
+        "en": "keen",
+        "as": "keen"
+      },
+      {
+        "en": "premature",
+        "as": "premature"
+      },
+      {
+        "en": "vacant",
+        "as": "vacant"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'illegal' means 'unlawful'.",
+      "as": "'illegal' ৰ অৰ্থ 'unlawful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-079",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'imaginary'.",
+      "as": "'imaginary' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "inspire",
+        "as": "inspire"
+      },
+      {
+        "en": "foe",
+        "as": "foe"
+      },
+      {
+        "en": "relish",
+        "as": "relish"
+      },
+      {
+        "en": "fictitious",
+        "as": "fictitious"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'imaginary' means 'fictitious'.",
+      "as": "'imaginary' ৰ অৰ্থ 'fictitious'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-080",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'immediate'.",
+      "as": "'immediate' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "huge",
+        "as": "huge"
+      },
+      {
+        "en": "instant",
+        "as": "instant"
+      },
+      {
+        "en": "necessary",
+        "as": "necessary"
+      },
+      {
+        "en": "wicked",
+        "as": "wicked"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'immediate' means 'instant'.",
+      "as": "'immediate' ৰ অৰ্থ 'instant'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-081",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'important'.",
+      "as": "'important' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "enlarge",
+        "as": "enlarge"
+      },
+      {
+        "en": "costly",
+        "as": "costly"
+      },
+      {
+        "en": "significant",
+        "as": "significant"
+      },
+      {
+        "en": "flop",
+        "as": "flop"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'important' means 'significant'.",
+      "as": "'important' ৰ অৰ্থ 'significant'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-082",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'increase'.",
+      "as": "'increase' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "just",
+        "as": "just"
+      },
+      {
+        "en": "renowned",
+        "as": "renowned"
+      },
+      {
+        "en": "quick",
+        "as": "quick"
+      },
+      {
+        "en": "augment",
+        "as": "augment"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'increase' means 'augment'.",
+      "as": "'increase' ৰ অৰ্থ 'augment'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-083",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'inferior'.",
+      "as": "'inferior' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "lower",
+        "as": "lower"
+      },
+      {
+        "en": "productive",
+        "as": "productive"
+      },
+      {
+        "en": "ferocious",
+        "as": "ferocious"
+      },
+      {
+        "en": "silly",
+        "as": "silly"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'inferior' means 'lower'.",
+      "as": "'inferior' ৰ অৰ্থ 'lower'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-084",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'innocent'.",
+      "as": "'innocent' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "blameless",
+        "as": "blameless"
+      },
+      {
+        "en": "prohibit",
+        "as": "prohibit"
+      },
+      {
+        "en": "overlook",
+        "as": "overlook"
+      },
+      {
+        "en": "luck",
+        "as": "luck"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'innocent' means 'blameless'.",
+      "as": "'innocent' ৰ অৰ্থ 'blameless'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-085",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'intelligent'.",
+      "as": "'intelligent' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "new",
+        "as": "new"
+      },
+      {
+        "en": "clever",
+        "as": "clever"
+      },
+      {
+        "en": "amiable",
+        "as": "amiable"
+      },
+      {
+        "en": "liberal",
+        "as": "liberal"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'intelligent' means 'clever'.",
+      "as": "'intelligent' ৰ অৰ্থ 'clever'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-086",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'interesting'.",
+      "as": "'interesting' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "mild",
+        "as": "mild"
+      },
+      {
+        "en": "authentic",
+        "as": "authentic"
+      },
+      {
+        "en": "engaging",
+        "as": "engaging"
+      },
+      {
+        "en": "colossal",
+        "as": "colossal"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'interesting' means 'engaging'.",
+      "as": "'interesting' ৰ অৰ্থ 'engaging'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-087",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'join'.",
+      "as": "'join' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "happy",
+        "as": "happy"
+      },
+      {
+        "en": "dark",
+        "as": "dark"
+      },
+      {
+        "en": "virtuous",
+        "as": "virtuous"
+      },
+      {
+        "en": "unite",
+        "as": "unite"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'join' means 'unite'.",
+      "as": "'join' ৰ অৰ্থ 'unite'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-088",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'joyful'.",
+      "as": "'joyful' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "slow",
+        "as": "slow"
+      },
+      {
+        "en": "thankful",
+        "as": "thankful"
+      },
+      {
+        "en": "cheerful",
+        "as": "cheerful"
+      },
+      {
+        "en": "grand",
+        "as": "grand"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'joyful' means 'cheerful'.",
+      "as": "'joyful' ৰ অৰ্থ 'cheerful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-089",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'kind'.",
+      "as": "'kind' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "culpable",
+        "as": "culpable"
+      },
+      {
+        "en": "benevolent",
+        "as": "benevolent"
+      },
+      {
+        "en": "tough",
+        "as": "tough"
+      },
+      {
+        "en": "injurious",
+        "as": "injurious"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'kind' means 'benevolent'.",
+      "as": "'kind' ৰ অৰ্থ 'benevolent'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-090",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'large'.",
+      "as": "'large' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "big",
+        "as": "big"
+      },
+      {
+        "en": "severe",
+        "as": "severe"
+      },
+      {
+        "en": "fit",
+        "as": "fit"
+      },
+      {
+        "en": "weighty",
+        "as": "weighty"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'large' means 'big'.",
+      "as": "'large' ৰ অৰ্থ 'big'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-091",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'late'.",
+      "as": "'late' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "useful",
+        "as": "useful"
+      },
+      {
+        "en": "truthful",
+        "as": "truthful"
+      },
+      {
+        "en": "unfriendly",
+        "as": "unfriendly"
+      },
+      {
+        "en": "delayed",
+        "as": "delayed"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'late' means 'delayed'.",
+      "as": "'late' ৰ অৰ্থ 'delayed'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-092",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'lazy'.",
+      "as": "'lazy' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "modest",
+        "as": "modest"
+      },
+      {
+        "en": "indolent",
+        "as": "indolent"
+      },
+      {
+        "en": "unaware",
+        "as": "unaware"
+      },
+      {
+        "en": "unlawful",
+        "as": "unlawful"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'lazy' means 'indolent'.",
+      "as": "'lazy' ৰ অৰ্থ 'indolent'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-093",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'legal'.",
+      "as": "'legal' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unlawful",
+        "as": "unlawful"
+      },
+      {
+        "en": "fictitious",
+        "as": "fictitious"
+      },
+      {
+        "en": "lawful",
+        "as": "lawful"
+      },
+      {
+        "en": "instant",
+        "as": "instant"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'legal' means 'lawful'.",
+      "as": "'legal' ৰ অৰ্থ 'lawful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-094",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'liberal'.",
+      "as": "'liberal' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "significant",
+        "as": "significant"
+      },
+      {
+        "en": "augment",
+        "as": "augment"
+      },
+      {
+        "en": "lower",
+        "as": "lower"
+      },
+      {
+        "en": "generous",
+        "as": "generous"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'liberal' means 'generous'.",
+      "as": "'liberal' ৰ অৰ্থ 'generous'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-095",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'light'.",
+      "as": "'light' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "bright",
+        "as": "bright"
+      },
+      {
+        "en": "blameless",
+        "as": "blameless"
+      },
+      {
+        "en": "clever",
+        "as": "clever"
+      },
+      {
+        "en": "engaging",
+        "as": "engaging"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'light' means 'bright'.",
+      "as": "'light' ৰ অৰ্থ 'bright'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-096",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'little'.",
+      "as": "'little' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "small",
+        "as": "small"
+      },
+      {
+        "en": "unite",
+        "as": "unite"
+      },
+      {
+        "en": "cheerful",
+        "as": "cheerful"
+      },
+      {
+        "en": "benevolent",
+        "as": "benevolent"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'little' means 'small'.",
+      "as": "'little' ৰ অৰ্থ 'small'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-097",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'lively'.",
+      "as": "'lively' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "big",
+        "as": "big"
+      },
+      {
+        "en": "active",
+        "as": "active"
+      },
+      {
+        "en": "delayed",
+        "as": "delayed"
+      },
+      {
+        "en": "indolent",
+        "as": "indolent"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'lively' means 'active'.",
+      "as": "'lively' ৰ অৰ্থ 'active'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-098",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'long'.",
+      "as": "'long' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "lawful",
+        "as": "lawful"
+      },
+      {
+        "en": "generous",
+        "as": "generous"
+      },
+      {
+        "en": "lengthy",
+        "as": "lengthy"
+      },
+      {
+        "en": "bright",
+        "as": "bright"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'long' means 'lengthy'.",
+      "as": "'long' ৰ অৰ্থ 'lengthy'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-099",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'loud'.",
+      "as": "'loud' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "small",
+        "as": "small"
+      },
+      {
+        "en": "active",
+        "as": "active"
+      },
+      {
+        "en": "lengthy",
+        "as": "lengthy"
+      },
+      {
+        "en": "noisy",
+        "as": "noisy"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'loud' means 'noisy'.",
+      "as": "'loud' ৰ অৰ্থ 'noisy'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-100",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'love'.",
+      "as": "'love' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "noisy",
+        "as": "noisy"
+      },
+      {
+        "en": "faithful",
+        "as": "faithful"
+      },
+      {
+        "en": "affection",
+        "as": "affection"
+      },
+      {
+        "en": "insane",
+        "as": "insane"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'love' means 'affection'.",
+      "as": "'love' ৰ অৰ্থ 'affection'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-101",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'loyal'.",
+      "as": "'loyal' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "enlarge",
+        "as": "enlarge"
+      },
+      {
+        "en": "faithful",
+        "as": "faithful"
+      },
+      {
+        "en": "highest",
+        "as": "highest"
+      },
+      {
+        "en": "unkind",
+        "as": "unkind"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'loyal' means 'faithful'.",
+      "as": "'loyal' ৰ অৰ্থ 'faithful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-102",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'mad'.",
+      "as": "'mad' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "insane",
+        "as": "insane"
+      },
+      {
+        "en": "contemporary",
+        "as": "contemporary"
+      },
+      {
+        "en": "humble",
+        "as": "humble"
+      },
+      {
+        "en": "tight",
+        "as": "tight"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'mad' means 'insane'.",
+      "as": "'mad' ৰ অৰ্থ 'insane'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-103",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'magnify'.",
+      "as": "'magnify' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "tidy",
+        "as": "tidy"
+      },
+      {
+        "en": "essential",
+        "as": "essential"
+      },
+      {
+        "en": "fresh",
+        "as": "fresh"
+      },
+      {
+        "en": "enlarge",
+        "as": "enlarge"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'magnify' means 'enlarge'.",
+      "as": "'magnify' ৰ অৰ্থ 'enlarge'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-104",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'maximum'.",
+      "as": "'maximum' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "dignified",
+        "as": "dignified"
+      },
+      {
+        "en": "highest",
+        "as": "highest"
+      },
+      {
+        "en": "loud",
+        "as": "loud"
+      },
+      {
+        "en": "dutiful",
+        "as": "dutiful"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'maximum' means 'highest'.",
+      "as": "'maximum' ৰ অৰ্থ 'highest'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-105",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'mean'.",
+      "as": "'mean' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "clear",
+        "as": "clear"
+      },
+      {
+        "en": "strange",
+        "as": "strange"
+      },
+      {
+        "en": "unkind",
+        "as": "unkind"
+      },
+      {
+        "en": "ancient",
+        "as": "ancient"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'mean' means 'unkind'.",
+      "as": "'mean' ৰ অৰ্থ 'unkind'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-106",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'modern'.",
+      "as": "'modern' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unlocked",
+        "as": "unlocked"
+      },
+      {
+        "en": "hopeful",
+        "as": "hopeful"
+      },
+      {
+        "en": "common",
+        "as": "common"
+      },
+      {
+        "en": "contemporary",
+        "as": "contemporary"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'modern' means 'contemporary'.",
+      "as": "'modern' ৰ অৰ্থ 'contemporary'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-107",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'modest'.",
+      "as": "'modest' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "humble",
+        "as": "humble"
+      },
+      {
+        "en": "sore",
+        "as": "sore"
+      },
+      {
+        "en": "tolerant",
+        "as": "tolerant"
+      },
+      {
+        "en": "calm",
+        "as": "calm"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'modest' means 'humble'.",
+      "as": "'modest' ৰ অৰ্থ 'humble'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-108",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'narrow'.",
+      "as": "'narrow' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "tight",
+        "as": "tight"
+      },
+      {
+        "en": "flawless",
+        "as": "flawless"
+      },
+      {
+        "en": "lasting",
+        "as": "lasting"
+      },
+      {
+        "en": "courteous",
+        "as": "courteous"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'narrow' means 'tight'.",
+      "as": "'narrow' ৰ অৰ্থ 'tight'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-109",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'neat'.",
+      "as": "'neat' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "needy",
+        "as": "needy"
+      },
+      {
+        "en": "tidy",
+        "as": "tidy"
+      },
+      {
+        "en": "famous",
+        "as": "famous"
+      },
+      {
+        "en": "feasible",
+        "as": "feasible"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'neat' means 'tidy'.",
+      "as": "'neat' ৰ অৰ্থ 'tidy'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-110",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'necessary'.",
+      "as": "'necessary' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "strong",
+        "as": "strong"
+      },
+      {
+        "en": "applaud",
+        "as": "applaud"
+      },
+      {
+        "en": "essential",
+        "as": "essential"
+      },
+      {
+        "en": "current",
+        "as": "current"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'necessary' means 'essential'.",
+      "as": "'necessary' ৰ অৰ্থ 'essential'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-111",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'new'.",
+      "as": "'new' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "beautiful",
+        "as": "beautiful"
+      },
+      {
+        "en": "personal",
+        "as": "personal"
+      },
+      {
+        "en": "likely",
+        "as": "likely"
+      },
+      {
+        "en": "fresh",
+        "as": "fresh"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'new' means 'fresh'.",
+      "as": "'new' ৰ অৰ্থ 'fresh'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-112",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'noble'.",
+      "as": "'noble' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "gain",
+        "as": "gain"
+      },
+      {
+        "en": "quick",
+        "as": "quick"
+      },
+      {
+        "en": "dignified",
+        "as": "dignified"
+      },
+      {
+        "en": "suitable",
+        "as": "suitable"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'noble' means 'dignified'.",
+      "as": "'noble' ৰ অৰ্থ 'dignified'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-113",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'noisy'.",
+      "as": "'noisy' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "arrogant",
+        "as": "arrogant"
+      },
+      {
+        "en": "loud",
+        "as": "loud"
+      },
+      {
+        "en": "clean",
+        "as": "clean"
+      },
+      {
+        "en": "fast",
+        "as": "fast"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'noisy' means 'loud'.",
+      "as": "'noisy' ৰ অৰ্থ 'loud'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-114",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'obedient'.",
+      "as": "'obedient' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "dutiful",
+        "as": "dutiful"
+      },
+      {
+        "en": "silent",
+        "as": "silent"
+      },
+      {
+        "en": "scarce",
+        "as": "scarce"
+      },
+      {
+        "en": "prepared",
+        "as": "prepared"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'obedient' means 'dutiful'.",
+      "as": "'obedient' ৰ অৰ্থ 'dutiful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-115",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'obvious'.",
+      "as": "'obvious' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "genuine",
+        "as": "genuine"
+      },
+      {
+        "en": "routine",
+        "as": "routine"
+      },
+      {
+        "en": "refuse",
+        "as": "refuse"
+      },
+      {
+        "en": "clear",
+        "as": "clear"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'obvious' means 'clear'.",
+      "as": "'obvious' ৰ অৰ্থ 'clear'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-116",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'odd'.",
+      "as": "'odd' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "dependable",
+        "as": "dependable"
+      },
+      {
+        "en": "strange",
+        "as": "strange"
+      },
+      {
+        "en": "distant",
+        "as": "distant"
+      },
+      {
+        "en": "wealthy",
+        "as": "wealthy"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'odd' means 'strange'.",
+      "as": "'odd' ৰ অৰ্থ 'strange'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-117",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'old'.",
+      "as": "'old' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "correct",
+        "as": "correct"
+      },
+      {
+        "en": "stiff",
+        "as": "stiff"
+      },
+      {
+        "en": "ancient",
+        "as": "ancient"
+      },
+      {
+        "en": "coarse",
+        "as": "coarse"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'old' means 'ancient'.",
+      "as": "'old' ৰ অৰ্থ 'ancient'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-118",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'open'.",
+      "as": "'open' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "impolite",
+        "as": "impolite"
+      },
+      {
+        "en": "unhappy",
+        "as": "unhappy"
+      },
+      {
+        "en": "secure",
+        "as": "secure"
+      },
+      {
+        "en": "unlocked",
+        "as": "unlocked"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'open' means 'unlocked'.",
+      "as": "'open' ৰ অৰ্থ 'unlocked'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-119",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'optimistic'.",
+      "as": "'optimistic' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "hopeful",
+        "as": "hopeful"
+      },
+      {
+        "en": "identical",
+        "as": "identical"
+      },
+      {
+        "en": "rare",
+        "as": "rare"
+      },
+      {
+        "en": "safe",
+        "as": "safe"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'optimistic' means 'hopeful'.",
+      "as": "'optimistic' ৰ অৰ্থ 'hopeful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-120",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'ordinary'.",
+      "as": "'ordinary' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "common",
+        "as": "common"
+      },
+      {
+        "en": "egoistic",
+        "as": "egoistic"
+      },
+      {
+        "en": "grave",
+        "as": "grave"
+      },
+      {
+        "en": "keen",
+        "as": "keen"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'ordinary' means 'common'.",
+      "as": "'ordinary' ৰ অৰ্থ 'common'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-121",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'painful'.",
+      "as": "'painful' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "brief",
+        "as": "brief"
+      },
+      {
+        "en": "sore",
+        "as": "sore"
+      },
+      {
+        "en": "timid",
+        "as": "timid"
+      },
+      {
+        "en": "easy",
+        "as": "easy"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'painful' means 'sore'.",
+      "as": "'painful' ৰ অৰ্থ 'sore'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-122",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'patient'.",
+      "as": "'patient' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "genuine",
+        "as": "genuine"
+      },
+      {
+        "en": "expert",
+        "as": "expert"
+      },
+      {
+        "en": "tolerant",
+        "as": "tolerant"
+      },
+      {
+        "en": "sluggish",
+        "as": "sluggish"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'patient' means 'tolerant'.",
+      "as": "'patient' ৰ অৰ্থ 'tolerant'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-123",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'peace'.",
+      "as": "'peace' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "little",
+        "as": "little"
+      },
+      {
+        "en": "even",
+        "as": "even"
+      },
+      {
+        "en": "gentle",
+        "as": "gentle"
+      },
+      {
+        "en": "calm",
+        "as": "calm"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'peace' means 'calm'.",
+      "as": "'peace' ৰ অৰ্থ 'calm'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-124",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'perfect'.",
+      "as": "'perfect' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "firm",
+        "as": "firm"
+      },
+      {
+        "en": "grief",
+        "as": "grief"
+      },
+      {
+        "en": "flawless",
+        "as": "flawless"
+      },
+      {
+        "en": "unique",
+        "as": "unique"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'perfect' means 'flawless'.",
+      "as": "'perfect' ৰ অৰ্থ 'flawless'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-125",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'permanent'.",
+      "as": "'permanent' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "begin",
+        "as": "begin"
+      },
+      {
+        "en": "lasting",
+        "as": "lasting"
+      },
+      {
+        "en": "odd",
+        "as": "odd"
+      },
+      {
+        "en": "stern",
+        "as": "stern"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'permanent' means 'lasting'.",
+      "as": "'permanent' ৰ অৰ্থ 'lasting'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-126",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'polite'.",
+      "as": "'polite' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "courteous",
+        "as": "courteous"
+      },
+      {
+        "en": "powerful",
+        "as": "powerful"
+      },
+      {
+        "en": "foolish",
+        "as": "foolish"
+      },
+      {
+        "en": "achievement",
+        "as": "achievement"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'polite' means 'courteous'.",
+      "as": "'polite' ৰ অৰ্থ 'courteous'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-127",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'poor'.",
+      "as": "'poor' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "abrupt",
+        "as": "abrupt"
+      },
+      {
+        "en": "higher",
+        "as": "higher"
+      },
+      {
+        "en": "certain",
+        "as": "certain"
+      },
+      {
+        "en": "needy",
+        "as": "needy"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'poor' means 'needy'.",
+      "as": "'poor' ৰ অৰ্থ 'needy'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-128",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'popular'.",
+      "as": "'popular' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "sugary",
+        "as": "sugary"
+      },
+      {
+        "en": "famous",
+        "as": "famous"
+      },
+      {
+        "en": "rapid",
+        "as": "rapid"
+      },
+      {
+        "en": "high",
+        "as": "high"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'popular' means 'famous'.",
+      "as": "'popular' ৰ অৰ্থ 'famous'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-129",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'possible'.",
+      "as": "'possible' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "domestic",
+        "as": "domestic"
+      },
+      {
+        "en": "transient",
+        "as": "transient"
+      },
+      {
+        "en": "feasible",
+        "as": "feasible"
+      },
+      {
+        "en": "soft",
+        "as": "soft"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'possible' means 'feasible'.",
+      "as": "'possible' ৰ অৰ্থ 'feasible'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-130",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'powerful'.",
+      "as": "'powerful' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "awful",
+        "as": "awful"
+      },
+      {
+        "en": "dense",
+        "as": "dense"
+      },
+      {
+        "en": "slim",
+        "as": "slim"
+      },
+      {
+        "en": "strong",
+        "as": "strong"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'powerful' means 'strong'.",
+      "as": "'powerful' ৰ অৰ্থ 'strong'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-131",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'praise'.",
+      "as": "'praise' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "applaud",
+        "as": "applaud"
+      },
+      {
+        "en": "minute",
+        "as": "minute"
+      },
+      {
+        "en": "weary",
+        "as": "weary"
+      },
+      {
+        "en": "patient",
+        "as": "patient"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'praise' means 'applaud'.",
+      "as": "'praise' ৰ অৰ্থ 'applaud'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-132",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'present'.",
+      "as": "'present' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "current",
+        "as": "current"
+      },
+      {
+        "en": "hard",
+        "as": "hard"
+      },
+      {
+        "en": "correct",
+        "as": "correct"
+      },
+      {
+        "en": "hideous",
+        "as": "hideous"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'present' means 'current'.",
+      "as": "'present' ৰ অৰ্থ 'current'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-133",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'pretty'.",
+      "as": "'pretty' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "singular",
+        "as": "singular"
+      },
+      {
+        "en": "beautiful",
+        "as": "beautiful"
+      },
+      {
+        "en": "prudent",
+        "as": "prudent"
+      },
+      {
+        "en": "forsake",
+        "as": "forsake"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'pretty' means 'beautiful'.",
+      "as": "'pretty' ৰ অৰ্থ 'beautiful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-134",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'private'.",
+      "as": "'private' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "capable",
+        "as": "capable"
+      },
+      {
+        "en": "plentiful",
+        "as": "plentiful"
+      },
+      {
+        "en": "personal",
+        "as": "personal"
+      },
+      {
+        "en": "precise",
+        "as": "precise"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'private' means 'personal'.",
+      "as": "'private' ৰ অৰ্থ 'personal'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-135",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'probable'.",
+      "as": "'probable' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "energetic",
+        "as": "energetic"
+      },
+      {
+        "en": "respect",
+        "as": "respect"
+      },
+      {
+        "en": "embrace",
+        "as": "embrace"
+      },
+      {
+        "en": "likely",
+        "as": "likely"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'probable' means 'likely'.",
+      "as": "'probable' ৰ অৰ্থ 'likely'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-136",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'profit'.",
+      "as": "'profit' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "progress",
+        "as": "progress"
+      },
+      {
+        "en": "consent",
+        "as": "consent"
+      },
+      {
+        "en": "gain",
+        "as": "gain"
+      },
+      {
+        "en": "watchful",
+        "as": "watchful"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'profit' means 'gain'.",
+      "as": "'profit' ৰ অৰ্থ 'gain'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-137",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'prompt'.",
+      "as": "'prompt' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "antique",
+        "as": "antique"
+      },
+      {
+        "en": "quick",
+        "as": "quick"
+      },
+      {
+        "en": "courageous",
+        "as": "courageous"
+      },
+      {
+        "en": "short",
+        "as": "short"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'prompt' means 'quick'.",
+      "as": "'prompt' ৰ অৰ্থ 'quick'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-138",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'proper'.",
+      "as": "'proper' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "suitable",
+        "as": "suitable"
+      },
+      {
+        "en": "brilliant",
+        "as": "brilliant"
+      },
+      {
+        "en": "peaceful",
+        "as": "peaceful"
+      },
+      {
+        "en": "cautious",
+        "as": "cautious"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'proper' means 'suitable'.",
+      "as": "'proper' ৰ অৰ্থ 'suitable'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-139",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'proud'.",
+      "as": "'proud' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "inexpensive",
+        "as": "inexpensive"
+      },
+      {
+        "en": "obvious",
+        "as": "obvious"
+      },
+      {
+        "en": "intelligent",
+        "as": "intelligent"
+      },
+      {
+        "en": "arrogant",
+        "as": "arrogant"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'proud' means 'arrogant'.",
+      "as": "'proud' ৰ অৰ্থ 'arrogant'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-140",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'pure'.",
+      "as": "'pure' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "complicated",
+        "as": "complicated"
+      },
+      {
+        "en": "clean",
+        "as": "clean"
+      },
+      {
+        "en": "hide",
+        "as": "hide"
+      },
+      {
+        "en": "assured",
+        "as": "assured"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'pure' means 'clean'.",
+      "as": "'pure' ৰ অৰ্থ 'clean'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-141",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'quick'.",
+      "as": "'quick' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "brutal",
+        "as": "brutal"
+      },
+      {
+        "en": "risky",
+        "as": "risky"
+      },
+      {
+        "en": "fast",
+        "as": "fast"
+      },
+      {
+        "en": "profound",
+        "as": "profound"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'quick' means 'fast'.",
+      "as": "'quick' ৰ অৰ্থ 'fast'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-142",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'quiet'.",
+      "as": "'quiet' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "protect",
+        "as": "protect"
+      },
+      {
+        "en": "postpone",
+        "as": "postpone"
+      },
+      {
+        "en": "intentional",
+        "as": "intentional"
+      },
+      {
+        "en": "silent",
+        "as": "silent"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'quiet' means 'silent'.",
+      "as": "'quiet' ৰ অৰ্থ 'silent'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-143",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'rare'.",
+      "as": "'rare' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "scarce",
+        "as": "scarce"
+      },
+      {
+        "en": "hard",
+        "as": "hard"
+      },
+      {
+        "en": "far",
+        "as": "far"
+      },
+      {
+        "en": "separate",
+        "as": "separate"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'rare' means 'scarce'.",
+      "as": "'rare' ৰ অৰ্থ 'scarce'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-144",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'ready'.",
+      "as": "'ready' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "prepared",
+        "as": "prepared"
+      },
+      {
+        "en": "uncertainty",
+        "as": "uncertainty"
+      },
+      {
+        "en": "keen",
+        "as": "keen"
+      },
+      {
+        "en": "premature",
+        "as": "premature"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'ready' means 'prepared'.",
+      "as": "'ready' ৰ অৰ্থ 'prepared'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-145",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'real'.",
+      "as": "'real' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "vacant",
+        "as": "vacant"
+      },
+      {
+        "en": "genuine",
+        "as": "genuine"
+      },
+      {
+        "en": "inspire",
+        "as": "inspire"
+      },
+      {
+        "en": "foe",
+        "as": "foe"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'real' means 'genuine'.",
+      "as": "'real' ৰ অৰ্থ 'genuine'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-146",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'regular'.",
+      "as": "'regular' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "relish",
+        "as": "relish"
+      },
+      {
+        "en": "huge",
+        "as": "huge"
+      },
+      {
+        "en": "routine",
+        "as": "routine"
+      },
+      {
+        "en": "necessary",
+        "as": "necessary"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'regular' means 'routine'.",
+      "as": "'regular' ৰ অৰ্থ 'routine'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-147",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'reject'.",
+      "as": "'reject' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "wicked",
+        "as": "wicked"
+      },
+      {
+        "en": "enlarge",
+        "as": "enlarge"
+      },
+      {
+        "en": "costly",
+        "as": "costly"
+      },
+      {
+        "en": "refuse",
+        "as": "refuse"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'reject' means 'refuse'.",
+      "as": "'reject' ৰ অৰ্থ 'refuse'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-148",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'reliable'.",
+      "as": "'reliable' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "flop",
+        "as": "flop"
+      },
+      {
+        "en": "just",
+        "as": "just"
+      },
+      {
+        "en": "dependable",
+        "as": "dependable"
+      },
+      {
+        "en": "renowned",
+        "as": "renowned"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'reliable' means 'dependable'.",
+      "as": "'reliable' ৰ অৰ্থ 'dependable'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-149",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'remote'.",
+      "as": "'remote' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "quick",
+        "as": "quick"
+      },
+      {
+        "en": "distant",
+        "as": "distant"
+      },
+      {
+        "en": "productive",
+        "as": "productive"
+      },
+      {
+        "en": "ferocious",
+        "as": "ferocious"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'remote' means 'distant'.",
+      "as": "'remote' ৰ অৰ্থ 'distant'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-150",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'rich'.",
+      "as": "'rich' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "wealthy",
+        "as": "wealthy"
+      },
+      {
+        "en": "silly",
+        "as": "silly"
+      },
+      {
+        "en": "prohibit",
+        "as": "prohibit"
+      },
+      {
+        "en": "overlook",
+        "as": "overlook"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'rich' means 'wealthy'.",
+      "as": "'rich' ৰ অৰ্থ 'wealthy'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-151",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'right'.",
+      "as": "'right' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "luck",
+        "as": "luck"
+      },
+      {
+        "en": "new",
+        "as": "new"
+      },
+      {
+        "en": "amiable",
+        "as": "amiable"
+      },
+      {
+        "en": "correct",
+        "as": "correct"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'right' means 'correct'.",
+      "as": "'right' ৰ অৰ্থ 'correct'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-152",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'rigid'.",
+      "as": "'rigid' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "liberal",
+        "as": "liberal"
+      },
+      {
+        "en": "stiff",
+        "as": "stiff"
+      },
+      {
+        "en": "mild",
+        "as": "mild"
+      },
+      {
+        "en": "authentic",
+        "as": "authentic"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'rigid' means 'stiff'.",
+      "as": "'rigid' ৰ অৰ্থ 'stiff'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-153",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'rough'.",
+      "as": "'rough' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "colossal",
+        "as": "colossal"
+      },
+      {
+        "en": "happy",
+        "as": "happy"
+      },
+      {
+        "en": "coarse",
+        "as": "coarse"
+      },
+      {
+        "en": "dark",
+        "as": "dark"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'rough' means 'coarse'.",
+      "as": "'rough' ৰ অৰ্থ 'coarse'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-154",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'rude'.",
+      "as": "'rude' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "virtuous",
+        "as": "virtuous"
+      },
+      {
+        "en": "slow",
+        "as": "slow"
+      },
+      {
+        "en": "thankful",
+        "as": "thankful"
+      },
+      {
+        "en": "impolite",
+        "as": "impolite"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'rude' means 'impolite'.",
+      "as": "'rude' ৰ অৰ্থ 'impolite'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-155",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'sad'.",
+      "as": "'sad' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unhappy",
+        "as": "unhappy"
+      },
+      {
+        "en": "grand",
+        "as": "grand"
+      },
+      {
+        "en": "culpable",
+        "as": "culpable"
+      },
+      {
+        "en": "tough",
+        "as": "tough"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'sad' means 'unhappy'.",
+      "as": "'sad' ৰ অৰ্থ 'unhappy'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-156",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'safe'.",
+      "as": "'safe' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "secure",
+        "as": "secure"
+      },
+      {
+        "en": "injurious",
+        "as": "injurious"
+      },
+      {
+        "en": "severe",
+        "as": "severe"
+      },
+      {
+        "en": "fit",
+        "as": "fit"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'safe' means 'secure'.",
+      "as": "'safe' ৰ অৰ্থ 'secure'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-157",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'same'.",
+      "as": "'same' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "weighty",
+        "as": "weighty"
+      },
+      {
+        "en": "identical",
+        "as": "identical"
+      },
+      {
+        "en": "useful",
+        "as": "useful"
+      },
+      {
+        "en": "truthful",
+        "as": "truthful"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'same' means 'identical'.",
+      "as": "'same' ৰ অৰ্থ 'identical'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-158",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'scarce'.",
+      "as": "'scarce' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unfriendly",
+        "as": "unfriendly"
+      },
+      {
+        "en": "modest",
+        "as": "modest"
+      },
+      {
+        "en": "rare",
+        "as": "rare"
+      },
+      {
+        "en": "lazy",
+        "as": "lazy"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'scarce' means 'rare'.",
+      "as": "'scarce' ৰ অৰ্থ 'rare'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-159",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'secure'.",
+      "as": "'secure' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unaware",
+        "as": "unaware"
+      },
+      {
+        "en": "unlawful",
+        "as": "unlawful"
+      },
+      {
+        "en": "fictitious",
+        "as": "fictitious"
+      },
+      {
+        "en": "safe",
+        "as": "safe"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'secure' means 'safe'.",
+      "as": "'secure' ৰ অৰ্থ 'safe'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-160",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'selfish'.",
+      "as": "'selfish' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "instant",
+        "as": "instant"
+      },
+      {
+        "en": "significant",
+        "as": "significant"
+      },
+      {
+        "en": "egoistic",
+        "as": "egoistic"
+      },
+      {
+        "en": "augment",
+        "as": "augment"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'selfish' means 'egoistic'.",
+      "as": "'selfish' ৰ অৰ্থ 'egoistic'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-161",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'serious'.",
+      "as": "'serious' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "lower",
+        "as": "lower"
+      },
+      {
+        "en": "grave",
+        "as": "grave"
+      },
+      {
+        "en": "blameless",
+        "as": "blameless"
+      },
+      {
+        "en": "clever",
+        "as": "clever"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'serious' means 'grave'.",
+      "as": "'serious' ৰ অৰ্থ 'grave'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-162",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'sharp'.",
+      "as": "'sharp' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "keen",
+        "as": "keen"
+      },
+      {
+        "en": "engaging",
+        "as": "engaging"
+      },
+      {
+        "en": "unite",
+        "as": "unite"
+      },
+      {
+        "en": "cheerful",
+        "as": "cheerful"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'sharp' means 'keen'.",
+      "as": "'sharp' ৰ অৰ্থ 'keen'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-163",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'short'.",
+      "as": "'short' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "benevolent",
+        "as": "benevolent"
+      },
+      {
+        "en": "big",
+        "as": "big"
+      },
+      {
+        "en": "delayed",
+        "as": "delayed"
+      },
+      {
+        "en": "brief",
+        "as": "brief"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'short' means 'brief'.",
+      "as": "'short' ৰ অৰ্থ 'brief'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-164",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'shy'.",
+      "as": "'shy' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "indolent",
+        "as": "indolent"
+      },
+      {
+        "en": "timid",
+        "as": "timid"
+      },
+      {
+        "en": "lawful",
+        "as": "lawful"
+      },
+      {
+        "en": "generous",
+        "as": "generous"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'shy' means 'timid'.",
+      "as": "'shy' ৰ অৰ্থ 'timid'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-165",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'simple'.",
+      "as": "'simple' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "bright",
+        "as": "bright"
+      },
+      {
+        "en": "small",
+        "as": "small"
+      },
+      {
+        "en": "easy",
+        "as": "easy"
+      },
+      {
+        "en": "active",
+        "as": "active"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'simple' means 'easy'.",
+      "as": "'simple' ৰ অৰ্থ 'easy'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-166",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'sincere'.",
+      "as": "'sincere' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "lengthy",
+        "as": "lengthy"
+      },
+      {
+        "en": "noisy",
+        "as": "noisy"
+      },
+      {
+        "en": "affection",
+        "as": "affection"
+      },
+      {
+        "en": "genuine",
+        "as": "genuine"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'sincere' means 'genuine'.",
+      "as": "'sincere' ৰ অৰ্থ 'genuine'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-167",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'skillful'.",
+      "as": "'skillful' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "expert",
+        "as": "expert"
+      },
+      {
+        "en": "faithful",
+        "as": "faithful"
+      },
+      {
+        "en": "insane",
+        "as": "insane"
+      },
+      {
+        "en": "enlarge",
+        "as": "enlarge"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'skillful' means 'expert'.",
+      "as": "'skillful' ৰ অৰ্থ 'expert'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-168",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'slow'.",
+      "as": "'slow' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "sluggish",
+        "as": "sluggish"
+      },
+      {
+        "en": "highest",
+        "as": "highest"
+      },
+      {
+        "en": "unkind",
+        "as": "unkind"
+      },
+      {
+        "en": "contemporary",
+        "as": "contemporary"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'slow' means 'sluggish'.",
+      "as": "'slow' ৰ অৰ্থ 'sluggish'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-169",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'small'.",
+      "as": "'small' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "humble",
+        "as": "humble"
+      },
+      {
+        "en": "little",
+        "as": "little"
+      },
+      {
+        "en": "tight",
+        "as": "tight"
+      },
+      {
+        "en": "tidy",
+        "as": "tidy"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'small' means 'little'.",
+      "as": "'small' ৰ অৰ্থ 'little'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-170",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'smooth'.",
+      "as": "'smooth' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "essential",
+        "as": "essential"
+      },
+      {
+        "en": "fresh",
+        "as": "fresh"
+      },
+      {
+        "en": "even",
+        "as": "even"
+      },
+      {
+        "en": "dignified",
+        "as": "dignified"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'smooth' means 'even'.",
+      "as": "'smooth' ৰ অৰ্থ 'even'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-171",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'soft'.",
+      "as": "'soft' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "loud",
+        "as": "loud"
+      },
+      {
+        "en": "dutiful",
+        "as": "dutiful"
+      },
+      {
+        "en": "clear",
+        "as": "clear"
+      },
+      {
+        "en": "gentle",
+        "as": "gentle"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'soft' means 'gentle'.",
+      "as": "'soft' ৰ অৰ্থ 'gentle'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-172",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'solid'.",
+      "as": "'solid' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "strange",
+        "as": "strange"
+      },
+      {
+        "en": "ancient",
+        "as": "ancient"
+      },
+      {
+        "en": "firm",
+        "as": "firm"
+      },
+      {
+        "en": "unlocked",
+        "as": "unlocked"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'solid' means 'firm'.",
+      "as": "'solid' ৰ অৰ্থ 'firm'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-173",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'sorrow'.",
+      "as": "'sorrow' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "hopeful",
+        "as": "hopeful"
+      },
+      {
+        "en": "grief",
+        "as": "grief"
+      },
+      {
+        "en": "common",
+        "as": "common"
+      },
+      {
+        "en": "sore",
+        "as": "sore"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'sorrow' means 'grief'.",
+      "as": "'sorrow' ৰ অৰ্থ 'grief'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-174",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'special'.",
+      "as": "'special' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unique",
+        "as": "unique"
+      },
+      {
+        "en": "tolerant",
+        "as": "tolerant"
+      },
+      {
+        "en": "calm",
+        "as": "calm"
+      },
+      {
+        "en": "flawless",
+        "as": "flawless"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'special' means 'unique'.",
+      "as": "'special' ৰ অৰ্থ 'unique'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-175",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'start'.",
+      "as": "'start' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "lasting",
+        "as": "lasting"
+      },
+      {
+        "en": "courteous",
+        "as": "courteous"
+      },
+      {
+        "en": "needy",
+        "as": "needy"
+      },
+      {
+        "en": "begin",
+        "as": "begin"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'start' means 'begin'.",
+      "as": "'start' ৰ অৰ্থ 'begin'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-176",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'strange'.",
+      "as": "'strange' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "famous",
+        "as": "famous"
+      },
+      {
+        "en": "odd",
+        "as": "odd"
+      },
+      {
+        "en": "feasible",
+        "as": "feasible"
+      },
+      {
+        "en": "strong",
+        "as": "strong"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'strange' means 'odd'.",
+      "as": "'strange' ৰ অৰ্থ 'odd'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-177",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'strict'.",
+      "as": "'strict' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "applaud",
+        "as": "applaud"
+      },
+      {
+        "en": "current",
+        "as": "current"
+      },
+      {
+        "en": "stern",
+        "as": "stern"
+      },
+      {
+        "en": "beautiful",
+        "as": "beautiful"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'strict' means 'stern'.",
+      "as": "'strict' ৰ অৰ্থ 'stern'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-178",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'strong'.",
+      "as": "'strong' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "personal",
+        "as": "personal"
+      },
+      {
+        "en": "likely",
+        "as": "likely"
+      },
+      {
+        "en": "gain",
+        "as": "gain"
+      },
+      {
+        "en": "powerful",
+        "as": "powerful"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'strong' means 'powerful'.",
+      "as": "'strong' ৰ অৰ্থ 'powerful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-179",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'stupid'.",
+      "as": "'stupid' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "foolish",
+        "as": "foolish"
+      },
+      {
+        "en": "quick",
+        "as": "quick"
+      },
+      {
+        "en": "suitable",
+        "as": "suitable"
+      },
+      {
+        "en": "arrogant",
+        "as": "arrogant"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'stupid' means 'foolish'.",
+      "as": "'stupid' ৰ অৰ্থ 'foolish'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-180",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'success'.",
+      "as": "'success' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "achievement",
+        "as": "achievement"
+      },
+      {
+        "en": "clean",
+        "as": "clean"
+      },
+      {
+        "en": "fast",
+        "as": "fast"
+      },
+      {
+        "en": "silent",
+        "as": "silent"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'success' means 'achievement'.",
+      "as": "'success' ৰ অৰ্থ 'achievement'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-181",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'sudden'.",
+      "as": "'sudden' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "scarce",
+        "as": "scarce"
+      },
+      {
+        "en": "abrupt",
+        "as": "abrupt"
+      },
+      {
+        "en": "prepared",
+        "as": "prepared"
+      },
+      {
+        "en": "genuine",
+        "as": "genuine"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'sudden' means 'abrupt'.",
+      "as": "'sudden' ৰ অৰ্থ 'abrupt'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-182",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'superior'.",
+      "as": "'superior' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "routine",
+        "as": "routine"
+      },
+      {
+        "en": "refuse",
+        "as": "refuse"
+      },
+      {
+        "en": "higher",
+        "as": "higher"
+      },
+      {
+        "en": "dependable",
+        "as": "dependable"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'superior' means 'higher'.",
+      "as": "'superior' ৰ অৰ্থ 'higher'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-183",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'sure'.",
+      "as": "'sure' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "distant",
+        "as": "distant"
+      },
+      {
+        "en": "wealthy",
+        "as": "wealthy"
+      },
+      {
+        "en": "correct",
+        "as": "correct"
+      },
+      {
+        "en": "certain",
+        "as": "certain"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'sure' means 'certain'.",
+      "as": "'sure' ৰ অৰ্থ 'certain'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-184",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'sweet'.",
+      "as": "'sweet' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "stiff",
+        "as": "stiff"
+      },
+      {
+        "en": "coarse",
+        "as": "coarse"
+      },
+      {
+        "en": "sugary",
+        "as": "sugary"
+      },
+      {
+        "en": "impolite",
+        "as": "impolite"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'sweet' means 'sugary'.",
+      "as": "'sweet' ৰ অৰ্থ 'sugary'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-185",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'swift'.",
+      "as": "'swift' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "unhappy",
+        "as": "unhappy"
+      },
+      {
+        "en": "rapid",
+        "as": "rapid"
+      },
+      {
+        "en": "secure",
+        "as": "secure"
+      },
+      {
+        "en": "identical",
+        "as": "identical"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'swift' means 'rapid'.",
+      "as": "'swift' ৰ অৰ্থ 'rapid'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-186",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'tall'.",
+      "as": "'tall' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "high",
+        "as": "high"
+      },
+      {
+        "en": "rare",
+        "as": "rare"
+      },
+      {
+        "en": "safe",
+        "as": "safe"
+      },
+      {
+        "en": "egoistic",
+        "as": "egoistic"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'tall' means 'high'.",
+      "as": "'tall' ৰ অৰ্থ 'high'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-187",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'tame'.",
+      "as": "'tame' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "grave",
+        "as": "grave"
+      },
+      {
+        "en": "keen",
+        "as": "keen"
+      },
+      {
+        "en": "brief",
+        "as": "brief"
+      },
+      {
+        "en": "domestic",
+        "as": "domestic"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'tame' means 'domestic'.",
+      "as": "'tame' ৰ অৰ্থ 'domestic'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-188",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'temporary'.",
+      "as": "'temporary' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "timid",
+        "as": "timid"
+      },
+      {
+        "en": "transient",
+        "as": "transient"
+      },
+      {
+        "en": "easy",
+        "as": "easy"
+      },
+      {
+        "en": "genuine",
+        "as": "genuine"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'temporary' means 'transient'.",
+      "as": "'temporary' ৰ অৰ্থ 'transient'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-189",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'tender'.",
+      "as": "'tender' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "expert",
+        "as": "expert"
+      },
+      {
+        "en": "sluggish",
+        "as": "sluggish"
+      },
+      {
+        "en": "soft",
+        "as": "soft"
+      },
+      {
+        "en": "little",
+        "as": "little"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'tender' means 'soft'.",
+      "as": "'tender' ৰ অৰ্থ 'soft'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-190",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'terrible'.",
+      "as": "'terrible' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "even",
+        "as": "even"
+      },
+      {
+        "en": "gentle",
+        "as": "gentle"
+      },
+      {
+        "en": "firm",
+        "as": "firm"
+      },
+      {
+        "en": "awful",
+        "as": "awful"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'terrible' means 'awful'.",
+      "as": "'terrible' ৰ অৰ্থ 'awful'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-191",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'thick'.",
+      "as": "'thick' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "dense",
+        "as": "dense"
+      },
+      {
+        "en": "grief",
+        "as": "grief"
+      },
+      {
+        "en": "unique",
+        "as": "unique"
+      },
+      {
+        "en": "begin",
+        "as": "begin"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'thick' means 'dense'.",
+      "as": "'thick' ৰ অৰ্থ 'dense'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-192",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'thin'.",
+      "as": "'thin' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "slim",
+        "as": "slim"
+      },
+      {
+        "en": "odd",
+        "as": "odd"
+      },
+      {
+        "en": "stern",
+        "as": "stern"
+      },
+      {
+        "en": "powerful",
+        "as": "powerful"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'thin' means 'slim'.",
+      "as": "'thin' ৰ অৰ্থ 'slim'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-193",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'tiny'.",
+      "as": "'tiny' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "foolish",
+        "as": "foolish"
+      },
+      {
+        "en": "minute",
+        "as": "minute"
+      },
+      {
+        "en": "achievement",
+        "as": "achievement"
+      },
+      {
+        "en": "abrupt",
+        "as": "abrupt"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'tiny' means 'minute'.",
+      "as": "'tiny' ৰ অৰ্থ 'minute'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-194",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'tired'.",
+      "as": "'tired' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "higher",
+        "as": "higher"
+      },
+      {
+        "en": "certain",
+        "as": "certain"
+      },
+      {
+        "en": "weary",
+        "as": "weary"
+      },
+      {
+        "en": "sugary",
+        "as": "sugary"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'tired' means 'weary'.",
+      "as": "'tired' ৰ অৰ্থ 'weary'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-195",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'tolerant'.",
+      "as": "'tolerant' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "rapid",
+        "as": "rapid"
+      },
+      {
+        "en": "high",
+        "as": "high"
+      },
+      {
+        "en": "domestic",
+        "as": "domestic"
+      },
+      {
+        "en": "patient",
+        "as": "patient"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'tolerant' means 'patient'.",
+      "as": "'tolerant' ৰ অৰ্থ 'patient'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-196",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'tough'.",
+      "as": "'tough' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "transient",
+        "as": "transient"
+      },
+      {
+        "en": "soft",
+        "as": "soft"
+      },
+      {
+        "en": "hard",
+        "as": "hard"
+      },
+      {
+        "en": "awful",
+        "as": "awful"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'tough' means 'hard'.",
+      "as": "'tough' ৰ অৰ্থ 'hard'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-197",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'true'.",
+      "as": "'true' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "dense",
+        "as": "dense"
+      },
+      {
+        "en": "correct",
+        "as": "correct"
+      },
+      {
+        "en": "slim",
+        "as": "slim"
+      },
+      {
+        "en": "minute",
+        "as": "minute"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'true' means 'correct'.",
+      "as": "'true' ৰ অৰ্থ 'correct'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-198",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'ugly'.",
+      "as": "'ugly' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "hideous",
+        "as": "hideous"
+      },
+      {
+        "en": "weary",
+        "as": "weary"
+      },
+      {
+        "en": "patient",
+        "as": "patient"
+      },
+      {
+        "en": "hard",
+        "as": "hard"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'ugly' means 'hideous'.",
+      "as": "'ugly' ৰ অৰ্থ 'hideous'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-199",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'unique'.",
+      "as": "'unique' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "correct",
+        "as": "correct"
+      },
+      {
+        "en": "hideous",
+        "as": "hideous"
+      },
+      {
+        "en": "prudent",
+        "as": "prudent"
+      },
+      {
+        "en": "singular",
+        "as": "singular"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'unique' means 'singular'.",
+      "as": "'unique' ৰ অৰ্থ 'singular'।"
+    }
+  },
+  {
+    "id": "voc-synonyms-200",
+    "leaf": "synonyms",
+    "q": {
+      "en": "Choose the word closest in meaning to 'wise'.",
+      "as": "'wise' শব্দৰ সমাৰ্থক শব্দ বাছনি কৰা।"
+    },
+    "options": [
+      {
+        "en": "forsake",
+        "as": "forsake"
+      },
+      {
+        "en": "prudent",
+        "as": "prudent"
+      },
+      {
+        "en": "capable",
+        "as": "capable"
+      },
+      {
+        "en": "plentiful",
+        "as": "plentiful"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'wise' means 'prudent'.",
+      "as": "'wise' ৰ অৰ্থ 'prudent'।"
+    }
   }
 ]

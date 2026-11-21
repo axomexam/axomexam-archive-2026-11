@@ -88,5 +88,6670 @@
       "en": "'Its' is the possessive form of 'it' and fits before a noun.",
       "as": "'its' হৈছে 'it' ৰ অধিকাৰসূচক ৰূপ আৰু বিশেষ্যৰ আগত খাপ খায়।"
     }
+  },
+  {
+    "id": "voc-homonyms-confusables-001",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'take willingly'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'take willingly'?"
+    },
+    "options": [
+      {
+        "en": "except",
+        "as": "except"
+      },
+      {
+        "en": "accept",
+        "as": "accept"
+      },
+      {
+        "en": "beside",
+        "as": "beside"
+      },
+      {
+        "en": "canvass",
+        "as": "canvass"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'accept' means 'take willingly'.",
+      "as": "'accept' ৰ অৰ্থ 'take willingly'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-002",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'exclude'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'exclude'?"
+    },
+    "options": [
+      {
+        "en": "altar",
+        "as": "altar"
+      },
+      {
+        "en": "breathe",
+        "as": "breathe"
+      },
+      {
+        "en": "except",
+        "as": "except"
+      },
+      {
+        "en": "cloth",
+        "as": "cloth"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'except' means 'exclude'.",
+      "as": "'except' ৰ অৰ্থ 'exclude'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-003",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'recommendation'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'recommendation'?"
+    },
+    "options": [
+      {
+        "en": "allowed",
+        "as": "allowed"
+      },
+      {
+        "en": "break",
+        "as": "break"
+      },
+      {
+        "en": "cite",
+        "as": "cite"
+      },
+      {
+        "en": "advice",
+        "as": "advice"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'advice' means 'recommendation'.",
+      "as": "'advice' ৰ অৰ্থ 'recommendation'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-004",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'give advice'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'give advice'?"
+    },
+    "options": [
+      {
+        "en": "besides",
+        "as": "besides"
+      },
+      {
+        "en": "cereal",
+        "as": "cereal"
+      },
+      {
+        "en": "advise",
+        "as": "advise"
+      },
+      {
+        "en": "compliment",
+        "as": "compliment"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'advise' means 'give advice'.",
+      "as": "'advise' ৰ অৰ্থ 'give advice'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-005",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'influence'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'influence'?"
+    },
+    "options": [
+      {
+        "en": "bear",
+        "as": "bear"
+      },
+      {
+        "en": "affect",
+        "as": "affect"
+      },
+      {
+        "en": "canvas",
+        "as": "canvas"
+      },
+      {
+        "en": "course",
+        "as": "course"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'affect' means 'influence'.",
+      "as": "'affect' ৰ অৰ্থ 'influence'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-006",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'result'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'result'?"
+    },
+    "options": [
+      {
+        "en": "effect",
+        "as": "effect"
+      },
+      {
+        "en": "breath",
+        "as": "breath"
+      },
+      {
+        "en": "site",
+        "as": "site"
+      },
+      {
+        "en": "dairy",
+        "as": "dairy"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'effect' means 'result'.",
+      "as": "'effect' ৰ অৰ্থ 'result'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-007",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'permitted'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'permitted'?"
+    },
+    "options": [
+      {
+        "en": "brake",
+        "as": "brake"
+      },
+      {
+        "en": "cord",
+        "as": "cord"
+      },
+      {
+        "en": "council",
+        "as": "council"
+      },
+      {
+        "en": "allowed",
+        "as": "allowed"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'allowed' means 'permitted'.",
+      "as": "'allowed' ৰ অৰ্থ 'permitted'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-008",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'audibly'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'audibly'?"
+    },
+    "options": [
+      {
+        "en": "canvass",
+        "as": "canvass"
+      },
+      {
+        "en": "aloud",
+        "as": "aloud"
+      },
+      {
+        "en": "complement",
+        "as": "complement"
+      },
+      {
+        "en": "dessert",
+        "as": "dessert"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'aloud' means 'audibly'.",
+      "as": "'aloud' ৰ অৰ্থ 'audibly'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-009",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'place of worship'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'place of worship'?"
+    },
+    "options": [
+      {
+        "en": "bridle",
+        "as": "bridle"
+      },
+      {
+        "en": "coarse",
+        "as": "coarse"
+      },
+      {
+        "en": "altar",
+        "as": "altar"
+      },
+      {
+        "en": "descent",
+        "as": "descent"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'altar' means 'place of worship'.",
+      "as": "'altar' ৰ অৰ্থ 'place of worship'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-010",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'change'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'change'?"
+    },
+    "options": [
+      {
+        "en": "cite",
+        "as": "cite"
+      },
+      {
+        "en": "counsel",
+        "as": "counsel"
+      },
+      {
+        "en": "dual",
+        "as": "dual"
+      },
+      {
+        "en": "alter",
+        "as": "alter"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'alter' means 'change'.",
+      "as": "'alter' ৰ অৰ্থ 'change'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-011",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'uncovered'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'uncovered'?"
+    },
+    "options": [
+      {
+        "en": "bare",
+        "as": "bare"
+      },
+      {
+        "en": "chord",
+        "as": "chord"
+      },
+      {
+        "en": "conscious",
+        "as": "conscious"
+      },
+      {
+        "en": "die",
+        "as": "die"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'bare' means 'uncovered'.",
+      "as": "'bare' ৰ অৰ্থ 'uncovered'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-012",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'endure'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'endure'?"
+    },
+    "options": [
+      {
+        "en": "bear",
+        "as": "bear"
+      },
+      {
+        "en": "course",
+        "as": "course"
+      },
+      {
+        "en": "desert",
+        "as": "desert"
+      },
+      {
+        "en": "illegible",
+        "as": "illegible"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'bear' means 'endure'.",
+      "as": "'bear' ৰ অৰ্থ 'endure'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-013",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'next to'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'next to'?"
+    },
+    "options": [
+      {
+        "en": "clothe",
+        "as": "clothe"
+      },
+      {
+        "en": "beside",
+        "as": "beside"
+      },
+      {
+        "en": "decent",
+        "as": "decent"
+      },
+      {
+        "en": "illicit",
+        "as": "illicit"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'beside' means 'next to'.",
+      "as": "'beside' ৰ অৰ্থ 'next to'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-014",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'in addition'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'in addition'?"
+    },
+    "options": [
+      {
+        "en": "council",
+        "as": "council"
+      },
+      {
+        "en": "dye",
+        "as": "dye"
+      },
+      {
+        "en": "besides",
+        "as": "besides"
+      },
+      {
+        "en": "envelop",
+        "as": "envelop"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'besides' means 'in addition'.",
+      "as": "'besides' ৰ অৰ্থ 'in addition'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-015",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'brought into life'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'brought into life'?"
+    },
+    "options": [
+      {
+        "en": "conscience",
+        "as": "conscience"
+      },
+      {
+        "en": "devise",
+        "as": "devise"
+      },
+      {
+        "en": "eminent",
+        "as": "eminent"
+      },
+      {
+        "en": "born",
+        "as": "born"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'born' means 'brought into life'.",
+      "as": "'born' ৰ অৰ্থ 'brought into life'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-016",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'carried'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'carried'?"
+    },
+    "options": [
+      {
+        "en": "descent",
+        "as": "descent"
+      },
+      {
+        "en": "eligible",
+        "as": "eligible"
+      },
+      {
+        "en": "borne",
+        "as": "borne"
+      },
+      {
+        "en": "further",
+        "as": "further"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'borne' means 'carried'.",
+      "as": "'borne' ৰ অৰ্থ 'carried'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-017",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'device to stop'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'device to stop'?"
+    },
+    "options": [
+      {
+        "en": "diary",
+        "as": "diary"
+      },
+      {
+        "en": "brake",
+        "as": "brake"
+      },
+      {
+        "en": "elicit",
+        "as": "elicit"
+      },
+      {
+        "en": "fare",
+        "as": "fare"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'brake' means 'device to stop'.",
+      "as": "'brake' ৰ অৰ্থ 'device to stop'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-018",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'shatter'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'shatter'?"
+    },
+    "options": [
+      {
+        "en": "break",
+        "as": "break"
+      },
+      {
+        "en": "die",
+        "as": "die"
+      },
+      {
+        "en": "imminent",
+        "as": "imminent"
+      },
+      {
+        "en": "hanged",
+        "as": "hanged"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'break' means 'shatter'.",
+      "as": "'break' ৰ অৰ্থ 'shatter'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-019",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'air taken in'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'air taken in'?"
+    },
+    "options": [
+      {
+        "en": "device",
+        "as": "device"
+      },
+      {
+        "en": "immigrate",
+        "as": "immigrate"
+      },
+      {
+        "en": "gorilla",
+        "as": "gorilla"
+      },
+      {
+        "en": "breath",
+        "as": "breath"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'breath' means 'air taken in'.",
+      "as": "'breath' ৰ অৰ্থ 'air taken in'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-020",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'inhale'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'inhale'?"
+    },
+    "options": [
+      {
+        "en": "illicit",
+        "as": "illicit"
+      },
+      {
+        "en": "breathe",
+        "as": "breathe"
+      },
+      {
+        "en": "farther",
+        "as": "farther"
+      },
+      {
+        "en": "herd",
+        "as": "herd"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'breathe' means 'inhale'.",
+      "as": "'breathe' ৰ অৰ্থ 'inhale'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-021",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'of a bride'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'of a bride'?"
+    },
+    "options": [
+      {
+        "en": "duel",
+        "as": "duel"
+      },
+      {
+        "en": "fair",
+        "as": "fair"
+      },
+      {
+        "en": "bridal",
+        "as": "bridal"
+      },
+      {
+        "en": "here",
+        "as": "here"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'bridal' means 'of a bride'.",
+      "as": "'bridal' ৰ অৰ্থ 'of a bride'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-022",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'headgear for a horse'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'headgear for a horse'?"
+    },
+    "options": [
+      {
+        "en": "eminent",
+        "as": "eminent"
+      },
+      {
+        "en": "guerrilla",
+        "as": "guerrilla"
+      },
+      {
+        "en": "human",
+        "as": "human"
+      },
+      {
+        "en": "bridle",
+        "as": "bridle"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'bridle' means 'headgear for a horse'.",
+      "as": "'bridle' ৰ অৰ্থ 'headgear for a horse'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-023",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'strong cloth'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'strong cloth'?"
+    },
+    "options": [
+      {
+        "en": "canvas",
+        "as": "canvas"
+      },
+      {
+        "en": "emigrate",
+        "as": "emigrate"
+      },
+      {
+        "en": "fourth",
+        "as": "fourth"
+      },
+      {
+        "en": "hole",
+        "as": "hole"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'canvas' means 'strong cloth'.",
+      "as": "'canvas' ৰ অৰ্থ 'strong cloth'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-024",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'seek votes'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'seek votes'?"
+    },
+    "options": [
+      {
+        "en": "canvass",
+        "as": "canvass"
+      },
+      {
+        "en": "fare",
+        "as": "fare"
+      },
+      {
+        "en": "heard",
+        "as": "heard"
+      },
+      {
+        "en": "colonel",
+        "as": "colonel"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'canvass' means 'seek votes'.",
+      "as": "'canvass' ৰ অৰ্থ 'seek votes'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-025",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'grain food'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'grain food'?"
+    },
+    "options": [
+      {
+        "en": "envelope",
+        "as": "envelope"
+      },
+      {
+        "en": "cereal",
+        "as": "cereal"
+      },
+      {
+        "en": "hear",
+        "as": "hear"
+      },
+      {
+        "en": "it's",
+        "as": "it's"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'cereal' means 'grain food'.",
+      "as": "'cereal' ৰ অৰ্থ 'grain food'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-026",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'in a series'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'in a series'?"
+    },
+    "options": [
+      {
+        "en": "gorilla",
+        "as": "gorilla"
+      },
+      {
+        "en": "whole",
+        "as": "whole"
+      },
+      {
+        "en": "serial",
+        "as": "serial"
+      },
+      {
+        "en": "later",
+        "as": "later"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'serial' means 'in a series'.",
+      "as": "'serial' ৰ অৰ্থ 'in a series'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-027",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'group of musical notes'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'group of musical notes'?"
+    },
+    "options": [
+      {
+        "en": "forth",
+        "as": "forth"
+      },
+      {
+        "en": "heroine",
+        "as": "heroine"
+      },
+      {
+        "en": "know",
+        "as": "know"
+      },
+      {
+        "en": "chord",
+        "as": "chord"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'chord' means 'group of musical notes'.",
+      "as": "'chord' ৰ অৰ্থ 'group of musical notes'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-028",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'thin rope'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'thin rope'?"
+    },
+    "options": [
+      {
+        "en": "here",
+        "as": "here"
+      },
+      {
+        "en": "kernel",
+        "as": "kernel"
+      },
+      {
+        "en": "cord",
+        "as": "cord"
+      },
+      {
+        "en": "lesson",
+        "as": "lesson"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'cord' means 'thin rope'.",
+      "as": "'cord' ৰ অৰ্থ 'thin rope'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-029",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'quote'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'quote'?"
+    },
+    "options": [
+      {
+        "en": "hung",
+        "as": "hung"
+      },
+      {
+        "en": "cite",
+        "as": "cite"
+      },
+      {
+        "en": "its",
+        "as": "its"
+      },
+      {
+        "en": "led",
+        "as": "led"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'cite' means 'quote'.",
+      "as": "'cite' ৰ অৰ্থ 'quote'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-030",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'location'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'location'?"
+    },
+    "options": [
+      {
+        "en": "site",
+        "as": "site"
+      },
+      {
+        "en": "hole",
+        "as": "hole"
+      },
+      {
+        "en": "no",
+        "as": "no"
+      },
+      {
+        "en": "made",
+        "as": "made"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'site' means 'location'.",
+      "as": "'site' ৰ অৰ্থ 'location'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-031",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'fabric'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'fabric'?"
+    },
+    "options": [
+      {
+        "en": "heroin",
+        "as": "heroin"
+      },
+      {
+        "en": "not",
+        "as": "not"
+      },
+      {
+        "en": "loose",
+        "as": "loose"
+      },
+      {
+        "en": "cloth",
+        "as": "cloth"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'cloth' means 'fabric'.",
+      "as": "'cloth' ৰ অৰ্থ 'fabric'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-032",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'dress'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'dress'?"
+    },
+    "options": [
+      {
+        "en": "it's",
+        "as": "it's"
+      },
+      {
+        "en": "clothe",
+        "as": "clothe"
+      },
+      {
+        "en": "lessen",
+        "as": "lessen"
+      },
+      {
+        "en": "merry",
+        "as": "merry"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'clothe' means 'dress'.",
+      "as": "'clothe' ৰ অৰ্থ 'dress'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-033",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'rough'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'rough'?"
+    },
+    "options": [
+      {
+        "en": "humane",
+        "as": "humane"
+      },
+      {
+        "en": "lead",
+        "as": "lead"
+      },
+      {
+        "en": "coarse",
+        "as": "coarse"
+      },
+      {
+        "en": "male",
+        "as": "male"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'coarse' means 'rough'.",
+      "as": "'coarse' ৰ অৰ্থ 'rough'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-034",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'path of study'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'path of study'?"
+    },
+    "options": [
+      {
+        "en": "know",
+        "as": "know"
+      },
+      {
+        "en": "lose",
+        "as": "lose"
+      },
+      {
+        "en": "miner",
+        "as": "miner"
+      },
+      {
+        "en": "course",
+        "as": "course"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'course' means 'path of study'.",
+      "as": "'course' ৰ অৰ্থ 'path of study'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-035",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'complete something'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'complete something'?"
+    },
+    "options": [
+      {
+        "en": "complement",
+        "as": "complement"
+      },
+      {
+        "en": "knot",
+        "as": "knot"
+      },
+      {
+        "en": "lawyer",
+        "as": "lawyer"
+      },
+      {
+        "en": "medal",
+        "as": "medal"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'complement' means 'complete something'.",
+      "as": "'complement' ৰ অৰ্থ 'complete something'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-036",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'praise'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'praise'?"
+    },
+    "options": [
+      {
+        "en": "compliment",
+        "as": "compliment"
+      },
+      {
+        "en": "led",
+        "as": "led"
+      },
+      {
+        "en": "marry",
+        "as": "marry"
+      },
+      {
+        "en": "navel",
+        "as": "navel"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'compliment' means 'praise'.",
+      "as": "'compliment' ৰ অৰ্থ 'praise'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-037",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'moral sense'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'moral sense'?"
+    },
+    "options": [
+      {
+        "en": "latter",
+        "as": "latter"
+      },
+      {
+        "en": "conscience",
+        "as": "conscience"
+      },
+      {
+        "en": "mail",
+        "as": "mail"
+      },
+      {
+        "en": "mourning",
+        "as": "mourning"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'conscience' means 'moral sense'.",
+      "as": "'conscience' ৰ অৰ্থ 'moral sense'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-038",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'aware'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'aware'?"
+    },
+    "options": [
+      {
+        "en": "loose",
+        "as": "loose"
+      },
+      {
+        "en": "meddle",
+        "as": "meddle"
+      },
+      {
+        "en": "conscious",
+        "as": "conscious"
+      },
+      {
+        "en": "patience",
+        "as": "patience"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'conscious' means 'aware'.",
+      "as": "'conscious' ৰ অৰ্থ 'aware'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-039",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'administrative body'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'administrative body'?"
+    },
+    "options": [
+      {
+        "en": "liar",
+        "as": "liar"
+      },
+      {
+        "en": "meet",
+        "as": "meet"
+      },
+      {
+        "en": "passed",
+        "as": "passed"
+      },
+      {
+        "en": "council",
+        "as": "council"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'council' means 'administrative body'.",
+      "as": "'council' ৰ অৰ্থ 'administrative body'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-040",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'advice'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'advice'?"
+    },
+    "options": [
+      {
+        "en": "male",
+        "as": "male"
+      },
+      {
+        "en": "naval",
+        "as": "naval"
+      },
+      {
+        "en": "counsel",
+        "as": "counsel"
+      },
+      {
+        "en": "plane",
+        "as": "plane"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'counsel' means 'advice'.",
+      "as": "'counsel' ৰ অৰ্থ 'advice'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-041",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'milk products'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'milk products'?"
+    },
+    "options": [
+      {
+        "en": "maid",
+        "as": "maid"
+      },
+      {
+        "en": "dairy",
+        "as": "dairy"
+      },
+      {
+        "en": "morning",
+        "as": "morning"
+      },
+      {
+        "en": "piece",
+        "as": "piece"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'dairy' means 'milk products'.",
+      "as": "'dairy' ৰ অৰ্থ 'milk products'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-042",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'daily record'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'daily record'?"
+    },
+    "options": [
+      {
+        "en": "diary",
+        "as": "diary"
+      },
+      {
+        "en": "medal",
+        "as": "medal"
+      },
+      {
+        "en": "past",
+        "as": "past"
+      },
+      {
+        "en": "pray",
+        "as": "pray"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'diary' means 'daily record'.",
+      "as": "'diary' ৰ অৰ্থ 'daily record'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-043",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'respectable'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'respectable'?"
+    },
+    "options": [
+      {
+        "en": "meat",
+        "as": "meat"
+      },
+      {
+        "en": "pear",
+        "as": "pear"
+      },
+      {
+        "en": "practice",
+        "as": "practice"
+      },
+      {
+        "en": "decent",
+        "as": "decent"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'decent' means 'respectable'.",
+      "as": "'decent' ৰ অৰ্থ 'respectable'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-044",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'downward movement'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'downward movement'?"
+    },
+    "options": [
+      {
+        "en": "mourning",
+        "as": "mourning"
+      },
+      {
+        "en": "descent",
+        "as": "descent"
+      },
+      {
+        "en": "plain",
+        "as": "plain"
+      },
+      {
+        "en": "prophet",
+        "as": "prophet"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'descent' means 'downward movement'.",
+      "as": "'descent' ৰ অৰ্থ 'downward movement'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-045",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'dry land'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'dry land'?"
+    },
+    "options": [
+      {
+        "en": "minor",
+        "as": "minor"
+      },
+      {
+        "en": "peace",
+        "as": "peace"
+      },
+      {
+        "en": "desert",
+        "as": "desert"
+      },
+      {
+        "en": "principle",
+        "as": "principle"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'desert' means 'dry land'.",
+      "as": "'desert' ৰ অৰ্থ 'dry land'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-046",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'sweet dish'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'sweet dish'?"
+    },
+    "options": [
+      {
+        "en": "passed",
+        "as": "passed"
+      },
+      {
+        "en": "practise",
+        "as": "practise"
+      },
+      {
+        "en": "read",
+        "as": "read"
+      },
+      {
+        "en": "dessert",
+        "as": "dessert"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'dessert' means 'sweet dish'.",
+      "as": "'dessert' ৰ অৰ্থ 'sweet dish'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-047",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'instrument'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'instrument'?"
+    },
+    "options": [
+      {
+        "en": "device",
+        "as": "device"
+      },
+      {
+        "en": "pair",
+        "as": "pair"
+      },
+      {
+        "en": "pore",
+        "as": "pore"
+      },
+      {
+        "en": "rain",
+        "as": "rain"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'device' means 'instrument'.",
+      "as": "'device' ৰ অৰ্থ 'instrument'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-048",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'plan'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'plan'?"
+    },
+    "options": [
+      {
+        "en": "devise",
+        "as": "devise"
+      },
+      {
+        "en": "piece",
+        "as": "piece"
+      },
+      {
+        "en": "profit",
+        "as": "profit"
+      },
+      {
+        "en": "rode",
+        "as": "rode"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'devise' means 'plan'.",
+      "as": "'devise' ৰ অৰ্থ 'plan'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-049",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'cease living'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'cease living'?"
+    },
+    "options": [
+      {
+        "en": "patients",
+        "as": "patients"
+      },
+      {
+        "en": "die",
+        "as": "die"
+      },
+      {
+        "en": "principal",
+        "as": "principal"
+      },
+      {
+        "en": "write",
+        "as": "write"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'die' means 'cease living'.",
+      "as": "'die' ৰ অৰ্থ 'cease living'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-050",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'colour'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'colour'?"
+    },
+    "options": [
+      {
+        "en": "practice",
+        "as": "practice"
+      },
+      {
+        "en": "reign",
+        "as": "reign"
+      },
+      {
+        "en": "dye",
+        "as": "dye"
+      },
+      {
+        "en": "sail",
+        "as": "sail"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'dye' means 'colour'.",
+      "as": "'dye' ৰ অৰ্থ 'colour'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-051",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'double'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'double'?"
+    },
+    "options": [
+      {
+        "en": "pour",
+        "as": "pour"
+      },
+      {
+        "en": "quite",
+        "as": "quite"
+      },
+      {
+        "en": "root",
+        "as": "root"
+      },
+      {
+        "en": "dual",
+        "as": "dual"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'dual' means 'double'.",
+      "as": "'dual' ৰ অৰ্থ 'double'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-052",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'fight'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'fight'?"
+    },
+    "options": [
+      {
+        "en": "principle",
+        "as": "principle"
+      },
+      {
+        "en": "road",
+        "as": "road"
+      },
+      {
+        "en": "duel",
+        "as": "duel"
+      },
+      {
+        "en": "see",
+        "as": "see"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'duel' means 'fight'.",
+      "as": "'duel' ৰ অৰ্থ 'fight'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-053",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'draw out'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'draw out'?"
+    },
+    "options": [
+      {
+        "en": "prey",
+        "as": "prey"
+      },
+      {
+        "en": "elicit",
+        "as": "elicit"
+      },
+      {
+        "en": "right",
+        "as": "right"
+      },
+      {
+        "en": "seen",
+        "as": "seen"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'elicit' means 'draw out'.",
+      "as": "'elicit' ৰ অৰ্থ 'draw out'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-054",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'illegal'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'illegal'?"
+    },
+    "options": [
+      {
+        "en": "illicit",
+        "as": "illicit"
+      },
+      {
+        "en": "rain",
+        "as": "rain"
+      },
+      {
+        "en": "route",
+        "as": "route"
+      },
+      {
+        "en": "sole",
+        "as": "sole"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'illicit' means 'illegal'.",
+      "as": "'illicit' ৰ অৰ্থ 'illegal'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-055",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'qualified'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'qualified'?"
+    },
+    "options": [
+      {
+        "en": "quiet",
+        "as": "quiet"
+      },
+      {
+        "en": "roll",
+        "as": "roll"
+      },
+      {
+        "en": "sight",
+        "as": "sight"
+      },
+      {
+        "en": "eligible",
+        "as": "eligible"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'eligible' means 'qualified'.",
+      "as": "'eligible' ৰ অৰ্থ 'qualified'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-056",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'unreadable'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'unreadable'?"
+    },
+    "options": [
+      {
+        "en": "write",
+        "as": "write"
+      },
+      {
+        "en": "illegible",
+        "as": "illegible"
+      },
+      {
+        "en": "sea",
+        "as": "sea"
+      },
+      {
+        "en": "sun",
+        "as": "sun"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'illegible' means 'unreadable'.",
+      "as": "'illegible' ৰ অৰ্থ 'unreadable'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-057",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'leave a country'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'leave a country'?"
+    },
+    "options": [
+      {
+        "en": "reed",
+        "as": "reed"
+      },
+      {
+        "en": "scene",
+        "as": "scene"
+      },
+      {
+        "en": "emigrate",
+        "as": "emigrate"
+      },
+      {
+        "en": "sum",
+        "as": "sum"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'emigrate' means 'leave a country'.",
+      "as": "'emigrate' ৰ অৰ্থ 'leave a country'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-058",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'enter a country'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'enter a country'?"
+    },
+    "options": [
+      {
+        "en": "root",
+        "as": "root"
+      },
+      {
+        "en": "site",
+        "as": "site"
+      },
+      {
+        "en": "steal",
+        "as": "steal"
+      },
+      {
+        "en": "immigrate",
+        "as": "immigrate"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'immigrate' means 'enter a country'.",
+      "as": "'immigrate' ৰ অৰ্থ 'enter a country'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-059",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'famous'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'famous'?"
+    },
+    "options": [
+      {
+        "en": "eminent",
+        "as": "eminent"
+      },
+      {
+        "en": "role",
+        "as": "role"
+      },
+      {
+        "en": "sow",
+        "as": "sow"
+      },
+      {
+        "en": "stationary",
+        "as": "stationary"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'eminent' means 'famous'.",
+      "as": "'eminent' ৰ অৰ্থ 'famous'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-060",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'about to happen'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'about to happen'?"
+    },
+    "options": [
+      {
+        "en": "imminent",
+        "as": "imminent"
+      },
+      {
+        "en": "seen",
+        "as": "seen"
+      },
+      {
+        "en": "son",
+        "as": "son"
+      },
+      {
+        "en": "strait",
+        "as": "strait"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'imminent' means 'about to happen'.",
+      "as": "'imminent' ৰ অৰ্থ 'about to happen'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-061",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'surround'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'surround'?"
+    },
+    "options": [
+      {
+        "en": "sale",
+        "as": "sale"
+      },
+      {
+        "en": "envelop",
+        "as": "envelop"
+      },
+      {
+        "en": "some",
+        "as": "some"
+      },
+      {
+        "en": "story",
+        "as": "story"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'envelop' means 'surround'.",
+      "as": "'envelop' ৰ অৰ্থ 'surround'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-062",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'paper cover'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'paper cover'?"
+    },
+    "options": [
+      {
+        "en": "sight",
+        "as": "sight"
+      },
+      {
+        "en": "stationery",
+        "as": "stationery"
+      },
+      {
+        "en": "envelope",
+        "as": "envelope"
+      },
+      {
+        "en": "their",
+        "as": "their"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'envelope' means 'paper cover'.",
+      "as": "'envelope' ৰ অৰ্থ 'paper cover'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-063",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'just'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'just'?"
+    },
+    "options": [
+      {
+        "en": "sew",
+        "as": "sew"
+      },
+      {
+        "en": "stare",
+        "as": "stare"
+      },
+      {
+        "en": "tail",
+        "as": "tail"
+      },
+      {
+        "en": "fair",
+        "as": "fair"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'fair' means 'just'.",
+      "as": "'fair' ৰ অৰ্থ 'just'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-064",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'travel cost'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'travel cost'?"
+    },
+    "options": [
+      {
+        "en": "sum",
+        "as": "sum"
+      },
+      {
+        "en": "straight",
+        "as": "straight"
+      },
+      {
+        "en": "fare",
+        "as": "fare"
+      },
+      {
+        "en": "thrown",
+        "as": "thrown"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'fare' means 'travel cost'.",
+      "as": "'fare' ৰ অৰ্থ 'travel cost'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-065",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'more distant'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'more distant'?"
+    },
+    "options": [
+      {
+        "en": "soul",
+        "as": "soul"
+      },
+      {
+        "en": "farther",
+        "as": "farther"
+      },
+      {
+        "en": "storey",
+        "as": "storey"
+      },
+      {
+        "en": "through",
+        "as": "through"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'farther' means 'more distant'.",
+      "as": "'farther' ৰ অৰ্থ 'more distant'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-066",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'additional'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'additional'?"
+    },
+    "options": [
+      {
+        "en": "further",
+        "as": "further"
+      },
+      {
+        "en": "stationary",
+        "as": "stationary"
+      },
+      {
+        "en": "tale",
+        "as": "tale"
+      },
+      {
+        "en": "waist",
+        "as": "waist"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'further' means 'additional'.",
+      "as": "'further' ৰ অৰ্থ 'additional'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-067",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'forward'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'forward'?"
+    },
+    "options": [
+      {
+        "en": "stair",
+        "as": "stair"
+      },
+      {
+        "en": "suite",
+        "as": "suite"
+      },
+      {
+        "en": "vain",
+        "as": "vain"
+      },
+      {
+        "en": "forth",
+        "as": "forth"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'forth' means 'forward'.",
+      "as": "'forth' ৰ অৰ্থ 'forward'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-068",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'number four'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'number four'?"
+    },
+    "options": [
+      {
+        "en": "story",
+        "as": "story"
+      },
+      {
+        "en": "fourth",
+        "as": "fourth"
+      },
+      {
+        "en": "throne",
+        "as": "throne"
+      },
+      {
+        "en": "week",
+        "as": "week"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'fourth' means 'number four'.",
+      "as": "'fourth' ৰ অৰ্থ 'number four'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-069",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'large ape'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'large ape'?"
+    },
+    "options": [
+      {
+        "en": "steel",
+        "as": "steel"
+      },
+      {
+        "en": "threw",
+        "as": "threw"
+      },
+      {
+        "en": "gorilla",
+        "as": "gorilla"
+      },
+      {
+        "en": "weight",
+        "as": "weight"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'gorilla' means 'large ape'.",
+      "as": "'gorilla' ৰ অৰ্থ 'large ape'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-070",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'irregular soldier'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'irregular soldier'?"
+    },
+    "options": [
+      {
+        "en": "tail",
+        "as": "tail"
+      },
+      {
+        "en": "vein",
+        "as": "vein"
+      },
+      {
+        "en": "access",
+        "as": "access"
+      },
+      {
+        "en": "guerrilla",
+        "as": "guerrilla"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'guerrilla' means 'irregular soldier'.",
+      "as": "'guerrilla' ৰ অৰ্থ 'irregular soldier'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-071",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'executed'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'executed'?"
+    },
+    "options": [
+      {
+        "en": "hanged",
+        "as": "hanged"
+      },
+      {
+        "en": "suit",
+        "as": "suit"
+      },
+      {
+        "en": "tied",
+        "as": "tied"
+      },
+      {
+        "en": "which",
+        "as": "which"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'hanged' means 'executed'.",
+      "as": "'hanged' ৰ অৰ্থ 'executed'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-072",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'suspended'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'suspended'?"
+    },
+    "options": [
+      {
+        "en": "hung",
+        "as": "hung"
+      },
+      {
+        "en": "through",
+        "as": "through"
+      },
+      {
+        "en": "weak",
+        "as": "weak"
+      },
+      {
+        "en": "edition",
+        "as": "edition"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'hung' means 'suspended'.",
+      "as": "'hung' ৰ অৰ্থ 'suspended'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-073",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'perceive sound'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'perceive sound'?"
+    },
+    "options": [
+      {
+        "en": "there",
+        "as": "there"
+      },
+      {
+        "en": "hear",
+        "as": "hear"
+      },
+      {
+        "en": "wait",
+        "as": "wait"
+      },
+      {
+        "en": "adopt",
+        "as": "adopt"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'hear' means 'perceive sound'.",
+      "as": "'hear' ৰ অৰ্থ 'perceive sound'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-074",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'in this place'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'in this place'?"
+    },
+    "options": [
+      {
+        "en": "vain",
+        "as": "vain"
+      },
+      {
+        "en": "witch",
+        "as": "witch"
+      },
+      {
+        "en": "here",
+        "as": "here"
+      },
+      {
+        "en": "allude",
+        "as": "allude"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'here' means 'in this place'.",
+      "as": "'here' ৰ অৰ্থ 'in this place'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-075",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'past of hear'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'past of hear'?"
+    },
+    "options": [
+      {
+        "en": "tide",
+        "as": "tide"
+      },
+      {
+        "en": "whether",
+        "as": "whether"
+      },
+      {
+        "en": "alley",
+        "as": "alley"
+      },
+      {
+        "en": "heard",
+        "as": "heard"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'heard' means 'past of hear'.",
+      "as": "'heard' ৰ অৰ্থ 'past of hear'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-076",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'group of animals'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'group of animals'?"
+    },
+    "options": [
+      {
+        "en": "weight",
+        "as": "weight"
+      },
+      {
+        "en": "addition",
+        "as": "addition"
+      },
+      {
+        "en": "herd",
+        "as": "herd"
+      },
+      {
+        "en": "apprise",
+        "as": "apprise"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'herd' means 'group of animals'.",
+      "as": "'herd' ৰ অৰ্থ 'group of animals'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-077",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'narcotic drug'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'narcotic drug'?"
+    },
+    "options": [
+      {
+        "en": "waste",
+        "as": "waste"
+      },
+      {
+        "en": "heroin",
+        "as": "heroin"
+      },
+      {
+        "en": "adapt",
+        "as": "adapt"
+      },
+      {
+        "en": "annul",
+        "as": "annul"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'heroin' means 'narcotic drug'.",
+      "as": "'heroin' ৰ অৰ্থ 'narcotic drug'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-078",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'female hero'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'female hero'?"
+    },
+    "options": [
+      {
+        "en": "heroine",
+        "as": "heroine"
+      },
+      {
+        "en": "which",
+        "as": "which"
+      },
+      {
+        "en": "ally",
+        "as": "ally"
+      },
+      {
+        "en": "accept",
+        "as": "accept"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'heroine' means 'female hero'.",
+      "as": "'heroine' ৰ অৰ্থ 'female hero'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-079",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'opening'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'opening'?"
+    },
+    "options": [
+      {
+        "en": "weather",
+        "as": "weather"
+      },
+      {
+        "en": "averse",
+        "as": "averse"
+      },
+      {
+        "en": "bazaar",
+        "as": "bazaar"
+      },
+      {
+        "en": "hole",
+        "as": "hole"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'hole' means 'opening'.",
+      "as": "'hole' ৰ অৰ্থ 'opening'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-080",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'entire'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'entire'?"
+    },
+    "options": [
+      {
+        "en": "adopt",
+        "as": "adopt"
+      },
+      {
+        "en": "whole",
+        "as": "whole"
+      },
+      {
+        "en": "appraise",
+        "as": "appraise"
+      },
+      {
+        "en": "effect",
+        "as": "effect"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'whole' means 'entire'.",
+      "as": "'whole' ৰ অৰ্থ 'entire'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-081",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'person'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'person'?"
+    },
+    "options": [
+      {
+        "en": "excess",
+        "as": "excess"
+      },
+      {
+        "en": "annual",
+        "as": "annual"
+      },
+      {
+        "en": "human",
+        "as": "human"
+      },
+      {
+        "en": "advise",
+        "as": "advise"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'human' means 'person'.",
+      "as": "'human' ৰ অৰ্থ 'person'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-082",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'compassionate'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'compassionate'?"
+    },
+    "options": [
+      {
+        "en": "alley",
+        "as": "alley"
+      },
+      {
+        "en": "bizarre",
+        "as": "bizarre"
+      },
+      {
+        "en": "bare",
+        "as": "bare"
+      },
+      {
+        "en": "humane",
+        "as": "humane"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'humane' means 'compassionate'.",
+      "as": "'humane' ৰ অৰ্থ 'compassionate'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-083",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'possessive form'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'possessive form'?"
+    },
+    "options": [
+      {
+        "en": "its",
+        "as": "its"
+      },
+      {
+        "en": "adverse",
+        "as": "adverse"
+      },
+      {
+        "en": "oral",
+        "as": "oral"
+      },
+      {
+        "en": "altar",
+        "as": "altar"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'its' means 'possessive form'.",
+      "as": "'its' ৰ অৰ্থ 'possessive form'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-084",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'it is'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'it is'?"
+    },
+    "options": [
+      {
+        "en": "it's",
+        "as": "it's"
+      },
+      {
+        "en": "annul",
+        "as": "annul"
+      },
+      {
+        "en": "affect",
+        "as": "affect"
+      },
+      {
+        "en": "borne",
+        "as": "borne"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'it's' means 'it is'.",
+      "as": "'it's' ৰ অৰ্থ 'it is'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-085",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'seed core'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'seed core'?"
+    },
+    "options": [
+      {
+        "en": "elude",
+        "as": "elude"
+      },
+      {
+        "en": "kernel",
+        "as": "kernel"
+      },
+      {
+        "en": "advice",
+        "as": "advice"
+      },
+      {
+        "en": "besides",
+        "as": "besides"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'kernel' means 'seed core'.",
+      "as": "'kernel' ৰ অৰ্থ 'seed core'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-086",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'army rank'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'army rank'?"
+    },
+    "options": [
+      {
+        "en": "bazaar",
+        "as": "bazaar"
+      },
+      {
+        "en": "alter",
+        "as": "alter"
+      },
+      {
+        "en": "colonel",
+        "as": "colonel"
+      },
+      {
+        "en": "bridal",
+        "as": "bridal"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'colonel' means 'army rank'.",
+      "as": "'colonel' ৰ অৰ্থ 'army rank'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-087",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'tie'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'tie'?"
+    },
+    "options": [
+      {
+        "en": "aural",
+        "as": "aural"
+      },
+      {
+        "en": "aloud",
+        "as": "aloud"
+      },
+      {
+        "en": "breath",
+        "as": "breath"
+      },
+      {
+        "en": "knot",
+        "as": "knot"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'knot' means 'tie'.",
+      "as": "'knot' ৰ অৰ্থ 'tie'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-088",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'negation'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'negation'?"
+    },
+    "options": [
+      {
+        "en": "advise",
+        "as": "advise"
+      },
+      {
+        "en": "born",
+        "as": "born"
+      },
+      {
+        "en": "not",
+        "as": "not"
+      },
+      {
+        "en": "serial",
+        "as": "serial"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'not' means 'negation'.",
+      "as": "'not' ৰ অৰ্থ 'negation'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-089",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'have knowledge'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'have knowledge'?"
+    },
+    "options": [
+      {
+        "en": "except",
+        "as": "except"
+      },
+      {
+        "en": "know",
+        "as": "know"
+      },
+      {
+        "en": "beside",
+        "as": "beside"
+      },
+      {
+        "en": "canvass",
+        "as": "canvass"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'know' means 'have knowledge'.",
+      "as": "'know' ৰ অৰ্থ 'have knowledge'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-090",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'afterwards'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'afterwards'?"
+    },
+    "options": [
+      {
+        "en": "later",
+        "as": "later"
+      },
+      {
+        "en": "allowed",
+        "as": "allowed"
+      },
+      {
+        "en": "break",
+        "as": "break"
+      },
+      {
+        "en": "cite",
+        "as": "cite"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'later' means 'afterwards'.",
+      "as": "'later' ৰ অৰ্থ 'afterwards'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-091",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'second of two'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'second of two'?"
+    },
+    "options": [
+      {
+        "en": "besides",
+        "as": "besides"
+      },
+      {
+        "en": "cereal",
+        "as": "cereal"
+      },
+      {
+        "en": "compliment",
+        "as": "compliment"
+      },
+      {
+        "en": "latter",
+        "as": "latter"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'latter' means 'second of two'.",
+      "as": "'latter' ৰ অৰ্থ 'second of two'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-092",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'guide'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'guide'?"
+    },
+    "options": [
+      {
+        "en": "bear",
+        "as": "bear"
+      },
+      {
+        "en": "lead",
+        "as": "lead"
+      },
+      {
+        "en": "canvas",
+        "as": "canvas"
+      },
+      {
+        "en": "course",
+        "as": "course"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'lead' means 'guide'.",
+      "as": "'lead' ৰ অৰ্থ 'guide'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-093",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'past of lead'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'past of lead'?"
+    },
+    "options": [
+      {
+        "en": "breath",
+        "as": "breath"
+      },
+      {
+        "en": "site",
+        "as": "site"
+      },
+      {
+        "en": "led",
+        "as": "led"
+      },
+      {
+        "en": "dairy",
+        "as": "dairy"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'led' means 'past of lead'.",
+      "as": "'led' ৰ অৰ্থ 'past of lead'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-094",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'reduce'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'reduce'?"
+    },
+    "options": [
+      {
+        "en": "brake",
+        "as": "brake"
+      },
+      {
+        "en": "cord",
+        "as": "cord"
+      },
+      {
+        "en": "council",
+        "as": "council"
+      },
+      {
+        "en": "lessen",
+        "as": "lessen"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'lessen' means 'reduce'.",
+      "as": "'lessen' ৰ অৰ্থ 'reduce'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-095",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'class'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'class'?"
+    },
+    "options": [
+      {
+        "en": "lesson",
+        "as": "lesson"
+      },
+      {
+        "en": "canvass",
+        "as": "canvass"
+      },
+      {
+        "en": "complement",
+        "as": "complement"
+      },
+      {
+        "en": "dessert",
+        "as": "dessert"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'lesson' means 'class'.",
+      "as": "'lesson' ৰ অৰ্থ 'class'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-096",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'person who lies'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'person who lies'?"
+    },
+    "options": [
+      {
+        "en": "liar",
+        "as": "liar"
+      },
+      {
+        "en": "bridle",
+        "as": "bridle"
+      },
+      {
+        "en": "coarse",
+        "as": "coarse"
+      },
+      {
+        "en": "descent",
+        "as": "descent"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'liar' means 'person who lies'.",
+      "as": "'liar' ৰ অৰ্থ 'person who lies'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-097",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'legal professional'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'legal professional'?"
+    },
+    "options": [
+      {
+        "en": "cite",
+        "as": "cite"
+      },
+      {
+        "en": "lawyer",
+        "as": "lawyer"
+      },
+      {
+        "en": "counsel",
+        "as": "counsel"
+      },
+      {
+        "en": "dual",
+        "as": "dual"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'lawyer' means 'legal professional'.",
+      "as": "'lawyer' ৰ অৰ্থ 'legal professional'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-098",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'not tight'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'not tight'?"
+    },
+    "options": [
+      {
+        "en": "chord",
+        "as": "chord"
+      },
+      {
+        "en": "conscious",
+        "as": "conscious"
+      },
+      {
+        "en": "loose",
+        "as": "loose"
+      },
+      {
+        "en": "die",
+        "as": "die"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'loose' means 'not tight'.",
+      "as": "'loose' ৰ অৰ্থ 'not tight'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-099",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'misplace'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'misplace'?"
+    },
+    "options": [
+      {
+        "en": "course",
+        "as": "course"
+      },
+      {
+        "en": "desert",
+        "as": "desert"
+      },
+      {
+        "en": "illegible",
+        "as": "illegible"
+      },
+      {
+        "en": "lose",
+        "as": "lose"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'lose' means 'misplace'.",
+      "as": "'lose' ৰ অৰ্থ 'misplace'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-100",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'past of make'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'past of make'?"
+    },
+    "options": [
+      {
+        "en": "clothe",
+        "as": "clothe"
+      },
+      {
+        "en": "decent",
+        "as": "decent"
+      },
+      {
+        "en": "made",
+        "as": "made"
+      },
+      {
+        "en": "illicit",
+        "as": "illicit"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'made' means 'past of make'.",
+      "as": "'made' ৰ অৰ্থ 'past of make'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-101",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'servant'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'servant'?"
+    },
+    "options": [
+      {
+        "en": "council",
+        "as": "council"
+      },
+      {
+        "en": "maid",
+        "as": "maid"
+      },
+      {
+        "en": "dye",
+        "as": "dye"
+      },
+      {
+        "en": "envelop",
+        "as": "envelop"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'maid' means 'servant'.",
+      "as": "'maid' ৰ অৰ্থ 'servant'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-102",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'post'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'post'?"
+    },
+    "options": [
+      {
+        "en": "mail",
+        "as": "mail"
+      },
+      {
+        "en": "conscience",
+        "as": "conscience"
+      },
+      {
+        "en": "devise",
+        "as": "devise"
+      },
+      {
+        "en": "eminent",
+        "as": "eminent"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'mail' means 'post'.",
+      "as": "'mail' ৰ অৰ্থ 'post'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-103",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'masculine'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'masculine'?"
+    },
+    "options": [
+      {
+        "en": "descent",
+        "as": "descent"
+      },
+      {
+        "en": "eligible",
+        "as": "eligible"
+      },
+      {
+        "en": "further",
+        "as": "further"
+      },
+      {
+        "en": "male",
+        "as": "male"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'male' means 'masculine'.",
+      "as": "'male' ৰ অৰ্থ 'masculine'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-104",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'wed'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'wed'?"
+    },
+    "options": [
+      {
+        "en": "diary",
+        "as": "diary"
+      },
+      {
+        "en": "marry",
+        "as": "marry"
+      },
+      {
+        "en": "elicit",
+        "as": "elicit"
+      },
+      {
+        "en": "fare",
+        "as": "fare"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'marry' means 'wed'.",
+      "as": "'marry' ৰ অৰ্থ 'wed'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-105",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'joyful'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'joyful'?"
+    },
+    "options": [
+      {
+        "en": "die",
+        "as": "die"
+      },
+      {
+        "en": "imminent",
+        "as": "imminent"
+      },
+      {
+        "en": "merry",
+        "as": "merry"
+      },
+      {
+        "en": "hanged",
+        "as": "hanged"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'merry' means 'joyful'.",
+      "as": "'merry' ৰ অৰ্থ 'joyful'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-106",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'food'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'food'?"
+    },
+    "options": [
+      {
+        "en": "device",
+        "as": "device"
+      },
+      {
+        "en": "immigrate",
+        "as": "immigrate"
+      },
+      {
+        "en": "gorilla",
+        "as": "gorilla"
+      },
+      {
+        "en": "meat",
+        "as": "meat"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'meat' means 'food'.",
+      "as": "'meat' ৰ অৰ্থ 'food'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-107",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'encounter'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'encounter'?"
+    },
+    "options": [
+      {
+        "en": "meet",
+        "as": "meet"
+      },
+      {
+        "en": "illicit",
+        "as": "illicit"
+      },
+      {
+        "en": "farther",
+        "as": "farther"
+      },
+      {
+        "en": "herd",
+        "as": "herd"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'meet' means 'encounter'.",
+      "as": "'meet' ৰ অৰ্থ 'encounter'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-108",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'award'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'award'?"
+    },
+    "options": [
+      {
+        "en": "medal",
+        "as": "medal"
+      },
+      {
+        "en": "duel",
+        "as": "duel"
+      },
+      {
+        "en": "fair",
+        "as": "fair"
+      },
+      {
+        "en": "here",
+        "as": "here"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'medal' means 'award'.",
+      "as": "'medal' ৰ অৰ্থ 'award'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-109",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'interfere'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'interfere'?"
+    },
+    "options": [
+      {
+        "en": "eminent",
+        "as": "eminent"
+      },
+      {
+        "en": "meddle",
+        "as": "meddle"
+      },
+      {
+        "en": "guerrilla",
+        "as": "guerrilla"
+      },
+      {
+        "en": "human",
+        "as": "human"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'meddle' means 'interfere'.",
+      "as": "'meddle' ৰ অৰ্থ 'interfere'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-110",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'mine worker'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'mine worker'?"
+    },
+    "options": [
+      {
+        "en": "emigrate",
+        "as": "emigrate"
+      },
+      {
+        "en": "fourth",
+        "as": "fourth"
+      },
+      {
+        "en": "miner",
+        "as": "miner"
+      },
+      {
+        "en": "hole",
+        "as": "hole"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'miner' means 'mine worker'.",
+      "as": "'miner' ৰ অৰ্থ 'mine worker'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-111",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'lesser'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'lesser'?"
+    },
+    "options": [
+      {
+        "en": "fare",
+        "as": "fare"
+      },
+      {
+        "en": "heard",
+        "as": "heard"
+      },
+      {
+        "en": "colonel",
+        "as": "colonel"
+      },
+      {
+        "en": "minor",
+        "as": "minor"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'minor' means 'lesser'.",
+      "as": "'minor' ৰ অৰ্থ 'lesser'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-112",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'early day'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'early day'?"
+    },
+    "options": [
+      {
+        "en": "envelope",
+        "as": "envelope"
+      },
+      {
+        "en": "hear",
+        "as": "hear"
+      },
+      {
+        "en": "morning",
+        "as": "morning"
+      },
+      {
+        "en": "it's",
+        "as": "it's"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'morning' means 'early day'.",
+      "as": "'morning' ৰ অৰ্থ 'early day'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-113",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'grief'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'grief'?"
+    },
+    "options": [
+      {
+        "en": "gorilla",
+        "as": "gorilla"
+      },
+      {
+        "en": "mourning",
+        "as": "mourning"
+      },
+      {
+        "en": "whole",
+        "as": "whole"
+      },
+      {
+        "en": "later",
+        "as": "later"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'mourning' means 'grief'.",
+      "as": "'mourning' ৰ অৰ্থ 'grief'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-114",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'of the navy'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'of the navy'?"
+    },
+    "options": [
+      {
+        "en": "naval",
+        "as": "naval"
+      },
+      {
+        "en": "forth",
+        "as": "forth"
+      },
+      {
+        "en": "heroine",
+        "as": "heroine"
+      },
+      {
+        "en": "know",
+        "as": "know"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'naval' means 'of the navy'.",
+      "as": "'naval' ৰ অৰ্থ 'of the navy'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-115",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'belly button'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'belly button'?"
+    },
+    "options": [
+      {
+        "en": "here",
+        "as": "here"
+      },
+      {
+        "en": "kernel",
+        "as": "kernel"
+      },
+      {
+        "en": "lesson",
+        "as": "lesson"
+      },
+      {
+        "en": "navel",
+        "as": "navel"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'navel' means 'belly button'.",
+      "as": "'navel' ৰ অৰ্থ 'belly button'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-116",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'two'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'two'?"
+    },
+    "options": [
+      {
+        "en": "hung",
+        "as": "hung"
+      },
+      {
+        "en": "pair",
+        "as": "pair"
+      },
+      {
+        "en": "its",
+        "as": "its"
+      },
+      {
+        "en": "led",
+        "as": "led"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'pair' means 'two'.",
+      "as": "'pair' ৰ অৰ্থ 'two'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-117",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'fruit'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'fruit'?"
+    },
+    "options": [
+      {
+        "en": "hole",
+        "as": "hole"
+      },
+      {
+        "en": "no",
+        "as": "no"
+      },
+      {
+        "en": "pear",
+        "as": "pear"
+      },
+      {
+        "en": "made",
+        "as": "made"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'pear' means 'fruit'.",
+      "as": "'pear' ৰ অৰ্থ 'fruit'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-118",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'went by'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'went by'?"
+    },
+    "options": [
+      {
+        "en": "heroin",
+        "as": "heroin"
+      },
+      {
+        "en": "not",
+        "as": "not"
+      },
+      {
+        "en": "loose",
+        "as": "loose"
+      },
+      {
+        "en": "passed",
+        "as": "passed"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'passed' means 'went by'.",
+      "as": "'passed' ৰ অৰ্থ 'went by'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-119",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'former'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'former'?"
+    },
+    "options": [
+      {
+        "en": "past",
+        "as": "past"
+      },
+      {
+        "en": "it's",
+        "as": "it's"
+      },
+      {
+        "en": "lessen",
+        "as": "lessen"
+      },
+      {
+        "en": "merry",
+        "as": "merry"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'past' means 'former'.",
+      "as": "'past' ৰ অৰ্থ 'former'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-120",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'tolerance'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'tolerance'?"
+    },
+    "options": [
+      {
+        "en": "patience",
+        "as": "patience"
+      },
+      {
+        "en": "humane",
+        "as": "humane"
+      },
+      {
+        "en": "lead",
+        "as": "lead"
+      },
+      {
+        "en": "male",
+        "as": "male"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'patience' means 'tolerance'.",
+      "as": "'patience' ৰ অৰ্থ 'tolerance'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-121",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'sick people'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'sick people'?"
+    },
+    "options": [
+      {
+        "en": "know",
+        "as": "know"
+      },
+      {
+        "en": "patients",
+        "as": "patients"
+      },
+      {
+        "en": "lose",
+        "as": "lose"
+      },
+      {
+        "en": "miner",
+        "as": "miner"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'patients' means 'sick people'.",
+      "as": "'patients' ৰ অৰ্থ 'sick people'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-122",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'calm'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'calm'?"
+    },
+    "options": [
+      {
+        "en": "knot",
+        "as": "knot"
+      },
+      {
+        "en": "lawyer",
+        "as": "lawyer"
+      },
+      {
+        "en": "peace",
+        "as": "peace"
+      },
+      {
+        "en": "medal",
+        "as": "medal"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'peace' means 'calm'.",
+      "as": "'peace' ৰ অৰ্থ 'calm'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-123",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'portion'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'portion'?"
+    },
+    "options": [
+      {
+        "en": "led",
+        "as": "led"
+      },
+      {
+        "en": "marry",
+        "as": "marry"
+      },
+      {
+        "en": "navel",
+        "as": "navel"
+      },
+      {
+        "en": "piece",
+        "as": "piece"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'piece' means 'portion'.",
+      "as": "'piece' ৰ অৰ্থ 'portion'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-124",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'simple'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'simple'?"
+    },
+    "options": [
+      {
+        "en": "latter",
+        "as": "latter"
+      },
+      {
+        "en": "mail",
+        "as": "mail"
+      },
+      {
+        "en": "plain",
+        "as": "plain"
+      },
+      {
+        "en": "mourning",
+        "as": "mourning"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'plain' means 'simple'.",
+      "as": "'plain' ৰ অৰ্থ 'simple'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-125",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'aircraft'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'aircraft'?"
+    },
+    "options": [
+      {
+        "en": "loose",
+        "as": "loose"
+      },
+      {
+        "en": "plane",
+        "as": "plane"
+      },
+      {
+        "en": "meddle",
+        "as": "meddle"
+      },
+      {
+        "en": "patience",
+        "as": "patience"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'plane' means 'aircraft'.",
+      "as": "'plane' ৰ অৰ্থ 'aircraft'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-126",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'make liquid flow'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'make liquid flow'?"
+    },
+    "options": [
+      {
+        "en": "pour",
+        "as": "pour"
+      },
+      {
+        "en": "liar",
+        "as": "liar"
+      },
+      {
+        "en": "meet",
+        "as": "meet"
+      },
+      {
+        "en": "passed",
+        "as": "passed"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'pour' means 'make liquid flow'.",
+      "as": "'pour' ৰ অৰ্থ 'make liquid flow'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-127",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'tiny opening'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'tiny opening'?"
+    },
+    "options": [
+      {
+        "en": "male",
+        "as": "male"
+      },
+      {
+        "en": "naval",
+        "as": "naval"
+      },
+      {
+        "en": "plane",
+        "as": "plane"
+      },
+      {
+        "en": "pore",
+        "as": "pore"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'pore' means 'tiny opening'.",
+      "as": "'pore' ৰ অৰ্থ 'tiny opening'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-128",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'habit'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'habit'?"
+    },
+    "options": [
+      {
+        "en": "maid",
+        "as": "maid"
+      },
+      {
+        "en": "practice",
+        "as": "practice"
+      },
+      {
+        "en": "morning",
+        "as": "morning"
+      },
+      {
+        "en": "piece",
+        "as": "piece"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'practice' means 'habit'.",
+      "as": "'practice' ৰ অৰ্থ 'habit'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-129",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'do repeatedly'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'do repeatedly'?"
+    },
+    "options": [
+      {
+        "en": "medal",
+        "as": "medal"
+      },
+      {
+        "en": "past",
+        "as": "past"
+      },
+      {
+        "en": "practise",
+        "as": "practise"
+      },
+      {
+        "en": "prey",
+        "as": "prey"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'practise' means 'do repeatedly'.",
+      "as": "'practise' ৰ অৰ্থ 'do repeatedly'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-130",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'worship'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'worship'?"
+    },
+    "options": [
+      {
+        "en": "meat",
+        "as": "meat"
+      },
+      {
+        "en": "pear",
+        "as": "pear"
+      },
+      {
+        "en": "practice",
+        "as": "practice"
+      },
+      {
+        "en": "pray",
+        "as": "pray"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'pray' means 'worship'.",
+      "as": "'pray' ৰ অৰ্থ 'worship'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-131",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'victim'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'victim'?"
+    },
+    "options": [
+      {
+        "en": "prey",
+        "as": "prey"
+      },
+      {
+        "en": "mourning",
+        "as": "mourning"
+      },
+      {
+        "en": "plain",
+        "as": "plain"
+      },
+      {
+        "en": "quiet",
+        "as": "quiet"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'prey' means 'victim'.",
+      "as": "'prey' ৰ অৰ্থ 'victim'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-132",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'head of school'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'head of school'?"
+    },
+    "options": [
+      {
+        "en": "principal",
+        "as": "principal"
+      },
+      {
+        "en": "minor",
+        "as": "minor"
+      },
+      {
+        "en": "peace",
+        "as": "peace"
+      },
+      {
+        "en": "profit",
+        "as": "profit"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'principal' means 'head of school'.",
+      "as": "'principal' ৰ অৰ্থ 'head of school'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-133",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'rule'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'rule'?"
+    },
+    "options": [
+      {
+        "en": "passed",
+        "as": "passed"
+      },
+      {
+        "en": "principle",
+        "as": "principle"
+      },
+      {
+        "en": "practise",
+        "as": "practise"
+      },
+      {
+        "en": "reed",
+        "as": "reed"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'principle' means 'rule'.",
+      "as": "'principle' ৰ অৰ্থ 'rule'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-134",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'gain'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'gain'?"
+    },
+    "options": [
+      {
+        "en": "pair",
+        "as": "pair"
+      },
+      {
+        "en": "pore",
+        "as": "pore"
+      },
+      {
+        "en": "profit",
+        "as": "profit"
+      },
+      {
+        "en": "reign",
+        "as": "reign"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'profit' means 'gain'.",
+      "as": "'profit' ৰ অৰ্থ 'gain'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-135",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'seer'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'seer'?"
+    },
+    "options": [
+      {
+        "en": "piece",
+        "as": "piece"
+      },
+      {
+        "en": "profit",
+        "as": "profit"
+      },
+      {
+        "en": "role",
+        "as": "role"
+      },
+      {
+        "en": "prophet",
+        "as": "prophet"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'prophet' means 'seer'.",
+      "as": "'prophet' ৰ অৰ্থ 'seer'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-136",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'silent'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'silent'?"
+    },
+    "options": [
+      {
+        "en": "patients",
+        "as": "patients"
+      },
+      {
+        "en": "principal",
+        "as": "principal"
+      },
+      {
+        "en": "quiet",
+        "as": "quiet"
+      },
+      {
+        "en": "road",
+        "as": "road"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'quiet' means 'silent'.",
+      "as": "'quiet' ৰ অৰ্থ 'silent'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-137",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'fairly'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'fairly'?"
+    },
+    "options": [
+      {
+        "en": "practice",
+        "as": "practice"
+      },
+      {
+        "en": "quite",
+        "as": "quite"
+      },
+      {
+        "en": "read",
+        "as": "read"
+      },
+      {
+        "en": "sale",
+        "as": "sale"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'quite' means 'fairly'.",
+      "as": "'quite' ৰ অৰ্থ 'fairly'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-138",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'water from clouds'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'water from clouds'?"
+    },
+    "options": [
+      {
+        "en": "rain",
+        "as": "rain"
+      },
+      {
+        "en": "pour",
+        "as": "pour"
+      },
+      {
+        "en": "quite",
+        "as": "quite"
+      },
+      {
+        "en": "route",
+        "as": "route"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'rain' means 'water from clouds'.",
+      "as": "'rain' ৰ অৰ্থ 'water from clouds'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-139",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'past of read'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'past of read'?"
+    },
+    "options": [
+      {
+        "en": "prey",
+        "as": "prey"
+      },
+      {
+        "en": "write",
+        "as": "write"
+      },
+      {
+        "en": "sea",
+        "as": "sea"
+      },
+      {
+        "en": "read",
+        "as": "read"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'read' means 'past of read'.",
+      "as": "'read' ৰ অৰ্থ 'past of read'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-140",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'tall grass'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'tall grass'?"
+    },
+    "options": [
+      {
+        "en": "rain",
+        "as": "rain"
+      },
+      {
+        "en": "reed",
+        "as": "reed"
+      },
+      {
+        "en": "sail",
+        "as": "sail"
+      },
+      {
+        "en": "soul",
+        "as": "soul"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'reed' means 'tall grass'.",
+      "as": "'reed' ৰ অৰ্থ 'tall grass'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-141",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'correct'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'correct'?"
+    },
+    "options": [
+      {
+        "en": "quiet",
+        "as": "quiet"
+      },
+      {
+        "en": "root",
+        "as": "root"
+      },
+      {
+        "en": "right",
+        "as": "right"
+      },
+      {
+        "en": "site",
+        "as": "site"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'right' means 'correct'.",
+      "as": "'right' ৰ অৰ্থ 'correct'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-142",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'put on paper'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'put on paper'?"
+    },
+    "options": [
+      {
+        "en": "road",
+        "as": "road"
+      },
+      {
+        "en": "see",
+        "as": "see"
+      },
+      {
+        "en": "stair",
+        "as": "stair"
+      },
+      {
+        "en": "write",
+        "as": "write"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'write' means 'put on paper'.",
+      "as": "'write' ৰ অৰ্থ 'put on paper'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-143",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'way'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'way'?"
+    },
+    "options": [
+      {
+        "en": "road",
+        "as": "road"
+      },
+      {
+        "en": "reed",
+        "as": "reed"
+      },
+      {
+        "en": "seen",
+        "as": "seen"
+      },
+      {
+        "en": "son",
+        "as": "son"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'road' means 'way'.",
+      "as": "'road' ৰ অৰ্থ 'way'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-144",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'past of ride'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'past of ride'?"
+    },
+    "options": [
+      {
+        "en": "rode",
+        "as": "rode"
+      },
+      {
+        "en": "route",
+        "as": "route"
+      },
+      {
+        "en": "sole",
+        "as": "sole"
+      },
+      {
+        "en": "steel",
+        "as": "steel"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'rode' means 'past of ride'.",
+      "as": "'rode' ৰ অৰ্থ 'past of ride'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-145",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'part played'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'part played'?"
+    },
+    "options": [
+      {
+        "en": "roll",
+        "as": "roll"
+      },
+      {
+        "en": "role",
+        "as": "role"
+      },
+      {
+        "en": "sight",
+        "as": "sight"
+      },
+      {
+        "en": "stationery",
+        "as": "stationery"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'role' means 'part played'.",
+      "as": "'role' ৰ অৰ্থ 'part played'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-146",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'bread roll'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'bread roll'?"
+    },
+    "options": [
+      {
+        "en": "sea",
+        "as": "sea"
+      },
+      {
+        "en": "sun",
+        "as": "sun"
+      },
+      {
+        "en": "roll",
+        "as": "roll"
+      },
+      {
+        "en": "suit",
+        "as": "suit"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'roll' means 'bread roll'.",
+      "as": "'roll' ৰ অৰ্থ 'bread roll'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-147",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'part of plant'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'part of plant'?"
+    },
+    "options": [
+      {
+        "en": "scene",
+        "as": "scene"
+      },
+      {
+        "en": "sum",
+        "as": "sum"
+      },
+      {
+        "en": "straight",
+        "as": "straight"
+      },
+      {
+        "en": "root",
+        "as": "root"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'root' means 'part of plant'.",
+      "as": "'root' ৰ অৰ্থ 'part of plant'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-148",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'path'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'path'?"
+    },
+    "options": [
+      {
+        "en": "site",
+        "as": "site"
+      },
+      {
+        "en": "steal",
+        "as": "steal"
+      },
+      {
+        "en": "route",
+        "as": "route"
+      },
+      {
+        "en": "there",
+        "as": "there"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'route' means 'path'.",
+      "as": "'route' ৰ অৰ্থ 'path'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-149",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'travel by water'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'travel by water'?"
+    },
+    "options": [
+      {
+        "en": "sow",
+        "as": "sow"
+      },
+      {
+        "en": "sail",
+        "as": "sail"
+      },
+      {
+        "en": "stationary",
+        "as": "stationary"
+      },
+      {
+        "en": "tale",
+        "as": "tale"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'sail' means 'travel by water'.",
+      "as": "'sail' ৰ অৰ্থ 'travel by water'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-150",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'selling'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'selling'?"
+    },
+    "options": [
+      {
+        "en": "sale",
+        "as": "sale"
+      },
+      {
+        "en": "son",
+        "as": "son"
+      },
+      {
+        "en": "strait",
+        "as": "strait"
+      },
+      {
+        "en": "tide",
+        "as": "tide"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'sale' means 'selling'.",
+      "as": "'sale' ৰ অৰ্থ 'selling'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-151",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'view'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'view'?"
+    },
+    "options": [
+      {
+        "en": "some",
+        "as": "some"
+      },
+      {
+        "en": "story",
+        "as": "story"
+      },
+      {
+        "en": "throne",
+        "as": "throne"
+      },
+      {
+        "en": "scene",
+        "as": "scene"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'scene' means 'view'.",
+      "as": "'scene' ৰ অৰ্থ 'view'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-152",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'past of see'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'past of see'?"
+    },
+    "options": [
+      {
+        "en": "stationery",
+        "as": "stationery"
+      },
+      {
+        "en": "seen",
+        "as": "seen"
+      },
+      {
+        "en": "their",
+        "as": "their"
+      },
+      {
+        "en": "waste",
+        "as": "waste"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'seen' means 'past of see'.",
+      "as": "'seen' ৰ অৰ্থ 'past of see'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-153",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'ocean'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'ocean'?"
+    },
+    "options": [
+      {
+        "en": "stare",
+        "as": "stare"
+      },
+      {
+        "en": "tail",
+        "as": "tail"
+      },
+      {
+        "en": "sea",
+        "as": "sea"
+      },
+      {
+        "en": "vein",
+        "as": "vein"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'sea' means 'ocean'.",
+      "as": "'sea' ৰ অৰ্থ 'ocean'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-154",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'perceive'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'perceive'?"
+    },
+    "options": [
+      {
+        "en": "straight",
+        "as": "straight"
+      },
+      {
+        "en": "thrown",
+        "as": "thrown"
+      },
+      {
+        "en": "weather",
+        "as": "weather"
+      },
+      {
+        "en": "see",
+        "as": "see"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'see' means 'perceive'.",
+      "as": "'see' ৰ অৰ্থ 'perceive'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-155",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'stitch'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'stitch'?"
+    },
+    "options": [
+      {
+        "en": "sew",
+        "as": "sew"
+      },
+      {
+        "en": "storey",
+        "as": "storey"
+      },
+      {
+        "en": "through",
+        "as": "through"
+      },
+      {
+        "en": "weak",
+        "as": "weak"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'sew' means 'stitch'.",
+      "as": "'sew' ৰ অৰ্থ 'stitch'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-156",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'plant seeds'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'plant seeds'?"
+    },
+    "options": [
+      {
+        "en": "sow",
+        "as": "sow"
+      },
+      {
+        "en": "tale",
+        "as": "tale"
+      },
+      {
+        "en": "waist",
+        "as": "waist"
+      },
+      {
+        "en": "excess",
+        "as": "excess"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'sow' means 'plant seeds'.",
+      "as": "'sow' ৰ অৰ্থ 'plant seeds'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-157",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'vision'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'vision'?"
+    },
+    "options": [
+      {
+        "en": "suite",
+        "as": "suite"
+      },
+      {
+        "en": "sight",
+        "as": "sight"
+      },
+      {
+        "en": "vain",
+        "as": "vain"
+      },
+      {
+        "en": "witch",
+        "as": "witch"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'sight' means 'vision'.",
+      "as": "'sight' ৰ অৰ্থ 'vision'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-158",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'only'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'only'?"
+    },
+    "options": [
+      {
+        "en": "threw",
+        "as": "threw"
+      },
+      {
+        "en": "weight",
+        "as": "weight"
+      },
+      {
+        "en": "sole",
+        "as": "sole"
+      },
+      {
+        "en": "addition",
+        "as": "addition"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'sole' means 'only'.",
+      "as": "'sole' ৰ অৰ্থ 'only'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-159",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'spirit'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'spirit'?"
+    },
+    "options": [
+      {
+        "en": "vein",
+        "as": "vein"
+      },
+      {
+        "en": "access",
+        "as": "access"
+      },
+      {
+        "en": "elude",
+        "as": "elude"
+      },
+      {
+        "en": "soul",
+        "as": "soul"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'soul' means 'spirit'.",
+      "as": "'soul' ৰ অৰ্থ 'spirit'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-160",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'a few'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'a few'?"
+    },
+    "options": [
+      {
+        "en": "tied",
+        "as": "tied"
+      },
+      {
+        "en": "which",
+        "as": "which"
+      },
+      {
+        "en": "some",
+        "as": "some"
+      },
+      {
+        "en": "ally",
+        "as": "ally"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'some' means 'a few'.",
+      "as": "'some' ৰ অৰ্থ 'a few'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-161",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'total'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'total'?"
+    },
+    "options": [
+      {
+        "en": "weak",
+        "as": "weak"
+      },
+      {
+        "en": "sum",
+        "as": "sum"
+      },
+      {
+        "en": "edition",
+        "as": "edition"
+      },
+      {
+        "en": "aural",
+        "as": "aural"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'sum' means 'total'.",
+      "as": "'sum' ৰ অৰ্থ 'total'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-162",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'male child'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'male child'?"
+    },
+    "options": [
+      {
+        "en": "son",
+        "as": "son"
+      },
+      {
+        "en": "wait",
+        "as": "wait"
+      },
+      {
+        "en": "adopt",
+        "as": "adopt"
+      },
+      {
+        "en": "appraise",
+        "as": "appraise"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'son' means 'male child'.",
+      "as": "'son' ৰ অৰ্থ 'male child'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-163",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'star'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'star'?"
+    },
+    "options": [
+      {
+        "en": "witch",
+        "as": "witch"
+      },
+      {
+        "en": "allude",
+        "as": "allude"
+      },
+      {
+        "en": "except",
+        "as": "except"
+      },
+      {
+        "en": "sun",
+        "as": "sun"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'sun' means 'star'.",
+      "as": "'sun' ৰ অৰ্থ 'star'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-164",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'step'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'step'?"
+    },
+    "options": [
+      {
+        "en": "whether",
+        "as": "whether"
+      },
+      {
+        "en": "stair",
+        "as": "stair"
+      },
+      {
+        "en": "alley",
+        "as": "alley"
+      },
+      {
+        "en": "bizarre",
+        "as": "bizarre"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'stair' means 'step'.",
+      "as": "'stair' ৰ অৰ্থ 'step'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-165",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'look fixedly'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'look fixedly'?"
+    },
+    "options": [
+      {
+        "en": "addition",
+        "as": "addition"
+      },
+      {
+        "en": "apprise",
+        "as": "apprise"
+      },
+      {
+        "en": "stare",
+        "as": "stare"
+      },
+      {
+        "en": "allowed",
+        "as": "allowed"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'stare' means 'look fixedly'.",
+      "as": "'stare' ৰ অৰ্থ 'look fixedly'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-166",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'not moving'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'not moving'?"
+    },
+    "options": [
+      {
+        "en": "adapt",
+        "as": "adapt"
+      },
+      {
+        "en": "annul",
+        "as": "annul"
+      },
+      {
+        "en": "affect",
+        "as": "affect"
+      },
+      {
+        "en": "stationary",
+        "as": "stationary"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'stationary' means 'not moving'.",
+      "as": "'stationary' ৰ অৰ্থ 'not moving'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-167",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'writing materials'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'writing materials'?"
+    },
+    "options": [
+      {
+        "en": "stationery",
+        "as": "stationery"
+      },
+      {
+        "en": "ally",
+        "as": "ally"
+      },
+      {
+        "en": "accept",
+        "as": "accept"
+      },
+      {
+        "en": "bear",
+        "as": "bear"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'stationery' means 'writing materials'.",
+      "as": "'stationery' ৰ অৰ্থ 'writing materials'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-168",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'take unlawfully'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'take unlawfully'?"
+    },
+    "options": [
+      {
+        "en": "steal",
+        "as": "steal"
+      },
+      {
+        "en": "averse",
+        "as": "averse"
+      },
+      {
+        "en": "bazaar",
+        "as": "bazaar"
+      },
+      {
+        "en": "alter",
+        "as": "alter"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'steal' means 'take unlawfully'.",
+      "as": "'steal' ৰ অৰ্থ 'take unlawfully'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-169",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'metal'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'metal'?"
+    },
+    "options": [
+      {
+        "en": "appraise",
+        "as": "appraise"
+      },
+      {
+        "en": "steel",
+        "as": "steel"
+      },
+      {
+        "en": "effect",
+        "as": "effect"
+      },
+      {
+        "en": "brake",
+        "as": "brake"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'steel' means 'metal'.",
+      "as": "'steel' ৰ অৰ্থ 'metal'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-170",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'floor of a building'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'floor of a building'?"
+    },
+    "options": [
+      {
+        "en": "annual",
+        "as": "annual"
+      },
+      {
+        "en": "advise",
+        "as": "advise"
+      },
+      {
+        "en": "storey",
+        "as": "storey"
+      },
+      {
+        "en": "born",
+        "as": "born"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'storey' means 'floor of a building'.",
+      "as": "'storey' ৰ অৰ্থ 'floor of a building'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-171",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'narrative'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'narrative'?"
+    },
+    "options": [
+      {
+        "en": "bizarre",
+        "as": "bizarre"
+      },
+      {
+        "en": "bare",
+        "as": "bare"
+      },
+      {
+        "en": "bridle",
+        "as": "bridle"
+      },
+      {
+        "en": "story",
+        "as": "story"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'story' means 'narrative'.",
+      "as": "'story' ৰ অৰ্থ 'narrative'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-172",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'direct'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'direct'?"
+    },
+    "options": [
+      {
+        "en": "oral",
+        "as": "oral"
+      },
+      {
+        "en": "altar",
+        "as": "altar"
+      },
+      {
+        "en": "straight",
+        "as": "straight"
+      },
+      {
+        "en": "breathe",
+        "as": "breathe"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'straight' means 'direct'.",
+      "as": "'straight' ৰ অৰ্থ 'direct'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-173",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'narrow sea passage'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'narrow sea passage'?"
+    },
+    "options": [
+      {
+        "en": "affect",
+        "as": "affect"
+      },
+      {
+        "en": "strait",
+        "as": "strait"
+      },
+      {
+        "en": "borne",
+        "as": "borne"
+      },
+      {
+        "en": "chord",
+        "as": "chord"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'strait' means 'narrow sea passage'.",
+      "as": "'strait' ৰ অৰ্থ 'narrow sea passage'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-174",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'clothing set'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'clothing set'?"
+    },
+    "options": [
+      {
+        "en": "suit",
+        "as": "suit"
+      },
+      {
+        "en": "advice",
+        "as": "advice"
+      },
+      {
+        "en": "besides",
+        "as": "besides"
+      },
+      {
+        "en": "cereal",
+        "as": "cereal"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'suit' means 'clothing set'.",
+      "as": "'suit' ৰ অৰ্থ 'clothing set'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-175",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'set of rooms'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'set of rooms'?"
+    },
+    "options": [
+      {
+        "en": "alter",
+        "as": "alter"
+      },
+      {
+        "en": "bridal",
+        "as": "bridal"
+      },
+      {
+        "en": "clothe",
+        "as": "clothe"
+      },
+      {
+        "en": "suite",
+        "as": "suite"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'suite' means 'set of rooms'.",
+      "as": "'suite' ৰ অৰ্থ 'set of rooms'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-176",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'animal appendage'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'animal appendage'?"
+    },
+    "options": [
+      {
+        "en": "aloud",
+        "as": "aloud"
+      },
+      {
+        "en": "tail",
+        "as": "tail"
+      },
+      {
+        "en": "breath",
+        "as": "breath"
+      },
+      {
+        "en": "site",
+        "as": "site"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'tail' means 'animal appendage'.",
+      "as": "'tail' ৰ অৰ্থ 'animal appendage'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-177",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'story'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'story'?"
+    },
+    "options": [
+      {
+        "en": "born",
+        "as": "born"
+      },
+      {
+        "en": "serial",
+        "as": "serial"
+      },
+      {
+        "en": "tale",
+        "as": "tale"
+      },
+      {
+        "en": "conscience",
+        "as": "conscience"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'tale' means 'story'.",
+      "as": "'tale' ৰ অৰ্থ 'story'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-178",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'in that place'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'in that place'?"
+    },
+    "options": [
+      {
+        "en": "breathe",
+        "as": "breathe"
+      },
+      {
+        "en": "cloth",
+        "as": "cloth"
+      },
+      {
+        "en": "diary",
+        "as": "diary"
+      },
+      {
+        "en": "there",
+        "as": "there"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'there' means 'in that place'.",
+      "as": "'there' ৰ অৰ্থ 'in that place'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-179",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'past of throw'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'past of throw'?"
+    },
+    "options": [
+      {
+        "en": "threw",
+        "as": "threw"
+      },
+      {
+        "en": "break",
+        "as": "break"
+      },
+      {
+        "en": "cite",
+        "as": "cite"
+      },
+      {
+        "en": "counsel",
+        "as": "counsel"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'threw' means 'past of throw'.",
+      "as": "'threw' ৰ অৰ্থ 'past of throw'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-180",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'from one side to the other'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'from one side to the other'?"
+    },
+    "options": [
+      {
+        "en": "through",
+        "as": "through"
+      },
+      {
+        "en": "cereal",
+        "as": "cereal"
+      },
+      {
+        "en": "compliment",
+        "as": "compliment"
+      },
+      {
+        "en": "device",
+        "as": "device"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'through' means 'from one side to the other'.",
+      "as": "'through' ৰ অৰ্থ 'from one side to the other'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-181",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'royal seat'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'royal seat'?"
+    },
+    "options": [
+      {
+        "en": "canvas",
+        "as": "canvas"
+      },
+      {
+        "en": "throne",
+        "as": "throne"
+      },
+      {
+        "en": "course",
+        "as": "course"
+      },
+      {
+        "en": "desert",
+        "as": "desert"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'throne' means 'royal seat'.",
+      "as": "'throne' ৰ অৰ্থ 'royal seat'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-182",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'sea level'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'sea level'?"
+    },
+    "options": [
+      {
+        "en": "cord",
+        "as": "cord"
+      },
+      {
+        "en": "council",
+        "as": "council"
+      },
+      {
+        "en": "tide",
+        "as": "tide"
+      },
+      {
+        "en": "dye",
+        "as": "dye"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'tide' means 'sea level'.",
+      "as": "'tide' ৰ অৰ্থ 'sea level'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-183",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'fastened'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'fastened'?"
+    },
+    "options": [
+      {
+        "en": "complement",
+        "as": "complement"
+      },
+      {
+        "en": "dessert",
+        "as": "dessert"
+      },
+      {
+        "en": "emigrate",
+        "as": "emigrate"
+      },
+      {
+        "en": "tied",
+        "as": "tied"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'tied' means 'fastened'.",
+      "as": "'tied' ৰ অৰ্থ 'fastened'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-184",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'proud'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'proud'?"
+    },
+    "options": [
+      {
+        "en": "coarse",
+        "as": "coarse"
+      },
+      {
+        "en": "descent",
+        "as": "descent"
+      },
+      {
+        "en": "vain",
+        "as": "vain"
+      },
+      {
+        "en": "eligible",
+        "as": "eligible"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'vain' means 'proud'.",
+      "as": "'vain' ৰ অৰ্থ 'proud'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-185",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'blood vessel'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'blood vessel'?"
+    },
+    "options": [
+      {
+        "en": "counsel",
+        "as": "counsel"
+      },
+      {
+        "en": "vein",
+        "as": "vein"
+      },
+      {
+        "en": "dual",
+        "as": "dual"
+      },
+      {
+        "en": "envelope",
+        "as": "envelope"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'vein' means 'blood vessel'.",
+      "as": "'vein' ৰ অৰ্থ 'blood vessel'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-186",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'middle of body'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'middle of body'?"
+    },
+    "options": [
+      {
+        "en": "waist",
+        "as": "waist"
+      },
+      {
+        "en": "conscious",
+        "as": "conscious"
+      },
+      {
+        "en": "die",
+        "as": "die"
+      },
+      {
+        "en": "imminent",
+        "as": "imminent"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'waist' means 'middle of body'.",
+      "as": "'waist' ৰ অৰ্থ 'middle of body'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-187",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'misuse'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'misuse'?"
+    },
+    "options": [
+      {
+        "en": "desert",
+        "as": "desert"
+      },
+      {
+        "en": "illegible",
+        "as": "illegible"
+      },
+      {
+        "en": "forth",
+        "as": "forth"
+      },
+      {
+        "en": "waste",
+        "as": "waste"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'waste' means 'misuse'.",
+      "as": "'waste' ৰ অৰ্থ 'misuse'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-188",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'stay'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'stay'?"
+    },
+    "options": [
+      {
+        "en": "decent",
+        "as": "decent"
+      },
+      {
+        "en": "wait",
+        "as": "wait"
+      },
+      {
+        "en": "illicit",
+        "as": "illicit"
+      },
+      {
+        "en": "farther",
+        "as": "farther"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'wait' means 'stay'.",
+      "as": "'wait' ৰ অৰ্থ 'stay'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-189",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'heaviness'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'heaviness'?"
+    },
+    "options": [
+      {
+        "en": "dye",
+        "as": "dye"
+      },
+      {
+        "en": "envelop",
+        "as": "envelop"
+      },
+      {
+        "en": "weight",
+        "as": "weight"
+      },
+      {
+        "en": "hung",
+        "as": "hung"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'weight' means 'heaviness'.",
+      "as": "'weight' ৰ অৰ্থ 'heaviness'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-190",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'not strong'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'not strong'?"
+    },
+    "options": [
+      {
+        "en": "devise",
+        "as": "devise"
+      },
+      {
+        "en": "eminent",
+        "as": "eminent"
+      },
+      {
+        "en": "guerrilla",
+        "as": "guerrilla"
+      },
+      {
+        "en": "weak",
+        "as": "weak"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'weak' means 'not strong'.",
+      "as": "'weak' ৰ অৰ্থ 'not strong'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-191",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'seven days'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'seven days'?"
+    },
+    "options": [
+      {
+        "en": "week",
+        "as": "week"
+      },
+      {
+        "en": "eligible",
+        "as": "eligible"
+      },
+      {
+        "en": "further",
+        "as": "further"
+      },
+      {
+        "en": "heroin",
+        "as": "heroin"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'week' means 'seven days'.",
+      "as": "'week' ৰ অৰ্থ 'seven days'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-192",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'atmospheric condition'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'atmospheric condition'?"
+    },
+    "options": [
+      {
+        "en": "weather",
+        "as": "weather"
+      },
+      {
+        "en": "elicit",
+        "as": "elicit"
+      },
+      {
+        "en": "fare",
+        "as": "fare"
+      },
+      {
+        "en": "heard",
+        "as": "heard"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'weather' means 'atmospheric condition'.",
+      "as": "'weather' ৰ অৰ্থ 'atmospheric condition'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-193",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'if'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'if'?"
+    },
+    "options": [
+      {
+        "en": "imminent",
+        "as": "imminent"
+      },
+      {
+        "en": "whether",
+        "as": "whether"
+      },
+      {
+        "en": "hanged",
+        "as": "hanged"
+      },
+      {
+        "en": "humane",
+        "as": "humane"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'whether' means 'if'.",
+      "as": "'whether' ৰ অৰ্থ 'if'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-194",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'what one'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'what one'?"
+    },
+    "options": [
+      {
+        "en": "immigrate",
+        "as": "immigrate"
+      },
+      {
+        "en": "gorilla",
+        "as": "gorilla"
+      },
+      {
+        "en": "which",
+        "as": "which"
+      },
+      {
+        "en": "whole",
+        "as": "whole"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'which' means 'what one'.",
+      "as": "'which' ৰ অৰ্থ 'what one'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-195",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'sorceress'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'sorceress'?"
+    },
+    "options": [
+      {
+        "en": "farther",
+        "as": "farther"
+      },
+      {
+        "en": "herd",
+        "as": "herd"
+      },
+      {
+        "en": "knot",
+        "as": "knot"
+      },
+      {
+        "en": "witch",
+        "as": "witch"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'witch' means 'sorceress'.",
+      "as": "'witch' ৰ অৰ্থ 'sorceress'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-196",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'entry'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'entry'?"
+    },
+    "options": [
+      {
+        "en": "fair",
+        "as": "fair"
+      },
+      {
+        "en": "here",
+        "as": "here"
+      },
+      {
+        "en": "access",
+        "as": "access"
+      },
+      {
+        "en": "kernel",
+        "as": "kernel"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'access' means 'entry'.",
+      "as": "'access' ৰ অৰ্থ 'entry'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-197",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'too much'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'too much'?"
+    },
+    "options": [
+      {
+        "en": "guerrilla",
+        "as": "guerrilla"
+      },
+      {
+        "en": "excess",
+        "as": "excess"
+      },
+      {
+        "en": "human",
+        "as": "human"
+      },
+      {
+        "en": "latter",
+        "as": "latter"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'excess' means 'too much'.",
+      "as": "'excess' ৰ অৰ্থ 'too much'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-198",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'adjust'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'adjust'?"
+    },
+    "options": [
+      {
+        "en": "adapt",
+        "as": "adapt"
+      },
+      {
+        "en": "fourth",
+        "as": "fourth"
+      },
+      {
+        "en": "hole",
+        "as": "hole"
+      },
+      {
+        "en": "no",
+        "as": "no"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'adapt' means 'adjust'.",
+      "as": "'adapt' ৰ অৰ্থ 'adjust'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-199",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'take as one's own'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'take as one's own'?"
+    },
+    "options": [
+      {
+        "en": "heard",
+        "as": "heard"
+      },
+      {
+        "en": "colonel",
+        "as": "colonel"
+      },
+      {
+        "en": "liar",
+        "as": "liar"
+      },
+      {
+        "en": "adopt",
+        "as": "adopt"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'adopt' means 'take as one's own'.",
+      "as": "'adopt' ৰ অৰ্থ 'take as one's own'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-200",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'adding'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'adding'?"
+    },
+    "options": [
+      {
+        "en": "hear",
+        "as": "hear"
+      },
+      {
+        "en": "addition",
+        "as": "addition"
+      },
+      {
+        "en": "it's",
+        "as": "it's"
+      },
+      {
+        "en": "lessen",
+        "as": "lessen"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'addition' means 'adding'.",
+      "as": "'addition' ৰ অৰ্থ 'adding'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-201",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'version of a book'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'version of a book'?"
+    },
+    "options": [
+      {
+        "en": "whole",
+        "as": "whole"
+      },
+      {
+        "en": "later",
+        "as": "later"
+      },
+      {
+        "en": "edition",
+        "as": "edition"
+      },
+      {
+        "en": "maid",
+        "as": "maid"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'edition' means 'version of a book'.",
+      "as": "'edition' ৰ অৰ্থ 'version of a book'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-202",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'unfavourable'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'unfavourable'?"
+    },
+    "options": [
+      {
+        "en": "heroine",
+        "as": "heroine"
+      },
+      {
+        "en": "know",
+        "as": "know"
+      },
+      {
+        "en": "lose",
+        "as": "lose"
+      },
+      {
+        "en": "adverse",
+        "as": "adverse"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'adverse' means 'unfavourable'.",
+      "as": "'adverse' ৰ অৰ্থ 'unfavourable'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-203",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'opposed'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'opposed'?"
+    },
+    "options": [
+      {
+        "en": "averse",
+        "as": "averse"
+      },
+      {
+        "en": "kernel",
+        "as": "kernel"
+      },
+      {
+        "en": "lesson",
+        "as": "lesson"
+      },
+      {
+        "en": "meat",
+        "as": "meat"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'averse' means 'opposed'.",
+      "as": "'averse' ৰ অৰ্থ 'opposed'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-204",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'narrow street'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'narrow street'?"
+    },
+    "options": [
+      {
+        "en": "alley",
+        "as": "alley"
+      },
+      {
+        "en": "its",
+        "as": "its"
+      },
+      {
+        "en": "led",
+        "as": "led"
+      },
+      {
+        "en": "marry",
+        "as": "marry"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'alley' means 'narrow street'.",
+      "as": "'alley' ৰ অৰ্থ 'narrow street'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-205",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'supporter'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'supporter'?"
+    },
+    "options": [
+      {
+        "en": "no",
+        "as": "no"
+      },
+      {
+        "en": "ally",
+        "as": "ally"
+      },
+      {
+        "en": "made",
+        "as": "made"
+      },
+      {
+        "en": "minor",
+        "as": "minor"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'ally' means 'supporter'.",
+      "as": "'ally' ৰ অৰ্থ 'supporter'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-206",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'refer indirectly'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'refer indirectly'?"
+    },
+    "options": [
+      {
+        "en": "not",
+        "as": "not"
+      },
+      {
+        "en": "loose",
+        "as": "loose"
+      },
+      {
+        "en": "allude",
+        "as": "allude"
+      },
+      {
+        "en": "meddle",
+        "as": "meddle"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'allude' means 'refer indirectly'.",
+      "as": "'allude' ৰ অৰ্থ 'refer indirectly'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-207",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'escape'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'escape'?"
+    },
+    "options": [
+      {
+        "en": "lessen",
+        "as": "lessen"
+      },
+      {
+        "en": "merry",
+        "as": "merry"
+      },
+      {
+        "en": "pair",
+        "as": "pair"
+      },
+      {
+        "en": "elude",
+        "as": "elude"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'elude' means 'escape'.",
+      "as": "'elude' ৰ অৰ্থ 'escape'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-208",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'yearly'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'yearly'?"
+    },
+    "options": [
+      {
+        "en": "lead",
+        "as": "lead"
+      },
+      {
+        "en": "male",
+        "as": "male"
+      },
+      {
+        "en": "annual",
+        "as": "annual"
+      },
+      {
+        "en": "naval",
+        "as": "naval"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'annual' means 'yearly'.",
+      "as": "'annual' ৰ অৰ্থ 'yearly'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-209",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'cancel'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'cancel'?"
+    },
+    "options": [
+      {
+        "en": "lose",
+        "as": "lose"
+      },
+      {
+        "en": "annul",
+        "as": "annul"
+      },
+      {
+        "en": "miner",
+        "as": "miner"
+      },
+      {
+        "en": "patients",
+        "as": "patients"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'annul' means 'cancel'.",
+      "as": "'annul' ৰ অৰ্থ 'cancel'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-210",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'evaluate'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'evaluate'?"
+    },
+    "options": [
+      {
+        "en": "appraise",
+        "as": "appraise"
+      },
+      {
+        "en": "lawyer",
+        "as": "lawyer"
+      },
+      {
+        "en": "medal",
+        "as": "medal"
+      },
+      {
+        "en": "past",
+        "as": "past"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'appraise' means 'evaluate'.",
+      "as": "'appraise' ৰ অৰ্থ 'evaluate'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-211",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'inform'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'inform'?"
+    },
+    "options": [
+      {
+        "en": "marry",
+        "as": "marry"
+      },
+      {
+        "en": "navel",
+        "as": "navel"
+      },
+      {
+        "en": "pour",
+        "as": "pour"
+      },
+      {
+        "en": "apprise",
+        "as": "apprise"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'apprise' means 'inform'.",
+      "as": "'apprise' ৰ অৰ্থ 'inform'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-212",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'of the ear'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'of the ear'?"
+    },
+    "options": [
+      {
+        "en": "mail",
+        "as": "mail"
+      },
+      {
+        "en": "aural",
+        "as": "aural"
+      },
+      {
+        "en": "mourning",
+        "as": "mourning"
+      },
+      {
+        "en": "plain",
+        "as": "plain"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "'aural' means 'of the ear'.",
+      "as": "'aural' ৰ অৰ্থ 'of the ear'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-213",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'of the mouth'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'of the mouth'?"
+    },
+    "options": [
+      {
+        "en": "meddle",
+        "as": "meddle"
+      },
+      {
+        "en": "patience",
+        "as": "patience"
+      },
+      {
+        "en": "oral",
+        "as": "oral"
+      },
+      {
+        "en": "prey",
+        "as": "prey"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "'oral' means 'of the mouth'.",
+      "as": "'oral' ৰ অৰ্থ 'of the mouth'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-214",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'market'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'market'?"
+    },
+    "options": [
+      {
+        "en": "meet",
+        "as": "meet"
+      },
+      {
+        "en": "passed",
+        "as": "passed"
+      },
+      {
+        "en": "practise",
+        "as": "practise"
+      },
+      {
+        "en": "bazaar",
+        "as": "bazaar"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "'bazaar' means 'market'.",
+      "as": "'bazaar' ৰ অৰ্থ 'market'।"
+    }
+  },
+  {
+    "id": "voc-homonyms-confusables-215",
+    "leaf": "homonyms-confusables",
+    "q": {
+      "en": "Which word means 'strange'?",
+      "as": "কোন শব্দটোৰ অৰ্থ 'strange'?"
+    },
+    "options": [
+      {
+        "en": "bizarre",
+        "as": "bizarre"
+      },
+      {
+        "en": "naval",
+        "as": "naval"
+      },
+      {
+        "en": "plane",
+        "as": "plane"
+      },
+      {
+        "en": "quiet",
+        "as": "quiet"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "'bizarre' means 'strange'.",
+      "as": "'bizarre' ৰ অৰ্থ 'strange'।"
+    }
   }
 ]
