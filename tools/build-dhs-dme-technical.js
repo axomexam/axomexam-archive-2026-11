@@ -71,6 +71,10 @@ const LEGACY_BANKS = [
     "inventions-discoveries", "organizations-institutions", "space-defence",
     "miscellaneous-static-gk",
   ]],
+  ["general-knowledge", "current-affairs", ["general-knowledge", "current-affairs"], [
+    "national-international-news", "appointments-obituaries",
+    "government-schemes", "science-tech-environment",
+  ]],
   ["technical-science", "biology", ["technical-science", "biology"], [
     "cell-biology", "genetics-evolution", "human-anatomy", "human-physiology",
     "nutrition-vitamins", "diseases-health", "plant-botany", "animal-zoology",

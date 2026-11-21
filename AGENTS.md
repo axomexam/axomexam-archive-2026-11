@@ -3156,3 +3156,27 @@ its count. Generic explanations end with the stem so no two explanation strings
 are identical. After the build, stems and explanations both audit at 0 collisions.
 
 Final totals: 7,951 questions in the book, 50,274 sitewide, hero 78,981.
+
+## Current Affairs (DHS & DME Technical) — Nov 2025 to Nov 2026 refresh
+
+The four `general-knowledge/current-affairs` leaves were empty (`content-preparing`).
+They now carry 365 verified questions, all tied to events between November 2025 and
+November 2026:
+
+- `national-international-news` 92
+- `appointments-obituaries` 107
+- `government-schemes` 93
+- `science-tech-environment` 73
+
+Source rows live in `tools/current-affairs-src/*.json` in the flat format
+`[leaf, qEn, qAs, o1En, o1As, o2En, o2As, o3En, o3As, o4En, o4As, correct, expEn, expAs]`.
+`node tools/gen-dhs-current-affairs.js` folds Assamese digits, balances the answer key
+(90/92/92/91 across A-D) and writes both
+`tools/dhs-dme-technical.current-affairs-extra.js` and the legacy bank at
+`tools/legacy-banks/dhs-dme-technical/general-knowledge/current-affairs/question-001.json`.
+`current-affairs` is registered in `LEGACY_BANKS` inside `tools/build-dhs-dme-technical.js`.
+
+Audits: 0 duplicate stems inside the new bank, 0 cross-leaf stem clashes, 0 duplicate
+explanations, 0 Latin/Devanagari/CJK/digit leakage in Assamese fields.
+
+Final totals after rebuild: 8,316 questions in the book, 50,639 sitewide, hero 79,346.
