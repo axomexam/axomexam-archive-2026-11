@@ -3686,3 +3686,38 @@ languages, written for the paper (not a textbook summary).
   `node tools/check-topic-notes.js | tee /tmp/v.txt; grep -q "0 problem"
   /tmp/v.txt && node tools/build-dhs-dme-technical.js && ...` so a short
   page can never reach the live site.
+
+### Site-wide SEO / sitemap / AdSense invariants (audited 2026-11-21)
+
+- Audit command: `node tools/seo-audit.js` (add `--list` for offending URLs,
+  `--as` to include the Assamese mirror). Clean run means: 0 missing
+  title/description/canonical/JSON-LD, 0 duplicate titles, 0 titles over 60
+  chars, 0 descriptions over 160 chars, `sitemap alt miss 0`.
+- `sitemap.xml` must hold every indexable page in both languages with the
+  `en` / `as` / `x-default` trio. `node tools/sync-sitemap-alts.js --check`
+  verifies it and exits 1 on drift; run it after any book build. The tool is
+  idempotent, so it is safe to run twice.
+- `build-dhs-dme-technical.js` now runs `build-as-twins.js` and
+  `sync-sitemap-alts.js` itself. This matters: `pageHead()` deletes the
+  hreflang trio from every page it renders (the Assamese twin builder writes
+  the correct pair afterwards), so running the build alone strips hreflang
+  from every rebuilt page and leaves the sitemap without its twins.
+- Titles go through `pageTitle()` / `fitTitle()` in
+  `tools/lib/exam-book-pages.js`: first template variant that fits 60
+  characters wins, dropping the brand first, then "Grade III", then the
+  section name — never the leaf name. Descriptions are clamped at 158
+  characters inside `pageHead()`, so a new template cannot ship a long one.
+- AdSense: `ads.txt` is correct (`pub-4574824794620382`, DIRECT,
+  f08c47fec0942fa0). The loader is on English pages only and
+  `build-as-twins.js` deliberately strips every AdSense trace from `/as/`
+  pages: AdSense does not list Assamese as a supported language and its
+  publisher policies forbid ad code on pages primarily in an unsupported
+  language. Do not "fix" that absence.
+- There are no `<ins class="adsbygoogle">` units anywhere; monetisation is
+  Google Auto ads, so ads only appear while Auto ads is enabled in the
+  AdSense dashboard. A `grep` for `adsbygoogle` on the 29 noindex pages hits
+  CSS selectors (`ins.adsbygoogle`), not the loader — those pages carry no
+  ad code.
+- Still open: 26 hub pages (`/exams/dhs-dme-technical/<section>/` and group
+  pages) are under 300 words and indexable, which is the thinnest content on
+  the site and the main remaining AdSense "low value content" risk.
