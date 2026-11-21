@@ -53,6 +53,9 @@ const LEGACY_BANKS = [
   ["general-knowledge", "assam-history", ["general-knowledge", "assam-history"], [
     "assam-history-ancient", "assam-history-medieval", "assam-history-modern",
   ]],
+  ["general-knowledge", "geography", ["general-knowledge", "geography"], [
+    "assam-geography", "india-geography",
+  ]],
   ["technical-science", "biology", ["technical-science", "biology"], [
     "cell-biology", "genetics-evolution", "human-anatomy", "human-physiology",
     "nutrition-vitamins", "diseases-health", "plant-botany", "animal-zoology",
@@ -254,6 +257,12 @@ const RULES = {
     ["probability", /probability|dice|card is drawn/i],
     ["data-interpretation", /pie chart|sales rose|percentage increase/i],
     ["statistics", /median|mode|mean of the data/i],
+  ],
+  "geography": [
+    /* Assam specific physical, political and wildlife geography. */
+    ["assam-geography", /assam|brahmaputra|barak|kaziranga|manas|pobitora|dibru|saikhowa|raimona|dehing|patkai|majuli|guwahati|dibrugarh|jorhat|sivasagar|tezpur|silchar|dhubri|goalpara|nagaon|kamrup|sonitpur|lakhimpur|dhemaji|tinsukia|karbi|dima hasao|haflong|umiam|cherrapunji|mawsynram|shillong|dhansiri|subansiri|manas river|kopili|burhi dihing|disang|mikir/i],
+    /* Everything else is Indian and world physical, economic and political geography. */
+    ["india-geography", /.*/],
   ],
   "assam-history": [
     /* Kamarupa and the dynasties before the Ahoms. */

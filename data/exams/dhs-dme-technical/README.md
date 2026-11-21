@@ -22,7 +22,7 @@ The list of sections and topics is controlled by `data/exams/index.json` (repo r
 | Technical / Science | Nursing & Paramedical | `technical-science/nursing-paramedical` |
 | Technical / Science | Computer Awareness | `technical-science/computer-awareness` |
 | General Knowledge & Current Affairs | Assam History | `general-knowledge/assam-history` |
-| General Knowledge & Current Affairs | Geography (Assam & India) | `general-knowledge/geography` |
+| General Knowledge & Current Affairs | Geography | `general-knowledge/geography` |
 | General Knowledge & Current Affairs | Indian Polity & Constitution | `general-knowledge/polity` |
 | General Knowledge & Current Affairs | Assam Specific | `general-knowledge/assam-gk` |
 | General Knowledge & Current Affairs | India & National | `general-knowledge/india-gk` |

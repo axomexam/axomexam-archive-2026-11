@@ -138,7 +138,10 @@ const EXAM = {
           t("assam-history-medieval", "Medieval Assam History", "মধ্যযুগীয় অসমৰ ইতিহাস"),
           t("assam-history-modern", "Modern Assam History", "আধুনিক অসমৰ ইতিহাস"),
         ]),
-        t("geography", "Geography (Assam & India)", "ভূগোল (অসম আৰু ভাৰত)"),
+        group("geography", "Geography", "ভূগোল", [
+          t("assam-geography", "Assam Geography", "অসমৰ ভূগোল"),
+          t("india-geography", "India Geography", "ভাৰতৰ ভূগোল"),
+        ]),
         t("polity", "Indian Polity & Constitution", "ভাৰতৰ ৰাজনীতি আৰু সংবিধান"),
         group("assam-gk", "Assam Specific", "অসম বিষয়ক", [
           t("assam-culture-festivals", "Assam Culture & Festivals", "অসমৰ সংস্কৃতি আৰু উৎসৱ"),

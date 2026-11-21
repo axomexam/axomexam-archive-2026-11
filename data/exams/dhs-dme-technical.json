@@ -504,9 +504,25 @@
         {
           "id": "geography",
           "title": {
-            "en": "Geography (Assam & India)",
-            "as": "ভূগোল (অসম আৰু ভাৰত)"
-          }
+            "en": "Geography",
+            "as": "ভূগোল"
+          },
+          "subcategories": [
+            {
+              "id": "assam-geography",
+              "title": {
+                "en": "Assam Geography",
+                "as": "অসমৰ ভূগোল"
+              }
+            },
+            {
+              "id": "india-geography",
+              "title": {
+                "en": "India Geography",
+                "as": "ভাৰতৰ ভূগোল"
+              }
+            }
+          ]
         },
         {
           "id": "polity",
