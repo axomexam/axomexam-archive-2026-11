@@ -3483,3 +3483,37 @@ image, seven base shapes × four dot corners, plus tilted bases),
 quarters, and counting items).
 
 Book total 19,073; sitewide 61,396; hero 90,103.
+
+## World & International GK — 150+ added to each of three topics (2026-11-21)
+
+World Geography 331, World History 311 and International Organizations 327
+(each +150 or more). Rows live in `tools/world-gk-src/*-part4.json` and go
+through the existing pipeline:
+
+```bash
+python3 tools/gen-world-gk-geography.py
+python3 tools/gen-world-gk-history.py
+python3 tools/gen-world-gk-orgs.py
+node tools/gen-dhs-world-gk.js        # rows -> dhs-dme-technical.world-gk-extra.js
+node tools/merge-world-gk.js          # extra js -> legacy world-gk bank
+node tools/build-dhs-dme-technical.js
+```
+
+`tools/merge-world-gk.js` is the missing link that had been done by hand
+before: the build only reads `tools/legacy-banks/.../world-gk/question-001.json`,
+and nothing required the generated `world-gk-extra.js`. The merge drops every
+id starting `world-gk-extra-` and appends the fresh set, so it is idempotent.
+
+Authoring notes:
+
+- `tools/world_gk_bank.py` holds `Rows.attr(table, stem_en, stem_as, exp_en,
+  exp_as, tails)`. It skips any stem already present in any source part, so
+  re-running a generator never duplicates a question.
+- Each generator deletes its own part file before reading the pool, otherwise
+  the second run sees its own output and emits zero rows.
+- Assamese digits are folded by the node generator, so rows may carry ASCII
+  digits; the check that matters is on the built JSON.
+- Years and counts keep the same style as the rest of the book: four options,
+  balanced answer slots, a short explanation naming the reason.
+
+Book total 19,575; sitewide 61,898; hero 90,605.
