@@ -3322,3 +3322,18 @@ Mensuration uses π = 22/7 and states it in the stem. Explanations are
 two-sentence derivations.
 
 Book total after rebuild: 15,716; sitewide 58,039; hero 86,746.
+
+## Algebra, Geometry & Mensuration — remaining four topics (very hard)
+
+Mensuration 3D, trigonometry, height & distance and coordinate geometry
+now hold 90+ very hard questions each:
+
+- mensuration-3d 91, trigonometry 94, height-distance 92,
+  coordinate-geometry 93.
+
+Generators: `tools/gen-alg-mens3d.py`, `gen-alg-trig.py`,
+`gen-alg-height.py`, `gen-alg-coord.py`. Mensuration 3D uses π = 22/7.
+Height & distance answers are kept in surd form (e.g. 10√3 m).
+All eight algebra-geometry leaves now have 90+.
+
+Book total after rebuild: 16,086; sitewide 58,409; hero 87,116.
