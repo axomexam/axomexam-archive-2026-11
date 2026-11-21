@@ -12156,5 +12156,295 @@
         "চৰ্টকাটৰ যিকোনো প্ৰশ্নত আগতে কামটো মুখেৰে কোৱা - কপি, পে'ষ্ট, আনডু, ছপা - তেতিয়া কি-যোৰ নিজেই ওলায়। বেছিভাগ ক্ষেত্ৰত আখৰটো ইংৰাজী ক্ৰিয়াৰ প্ৰথম আখৰ।"
       ]
     ]
+  },
+  "networking-internet": {
+    "en": [
+      [
+        "h3",
+        "What the networking block asks"
+      ],
+      [
+        "p",
+        "This topic covers how computers are joined together and how the internet works on top of that. The questions are of four kinds: the name of a network by its size, the name of a topology, the name of a device and what it does, and the name of a protocol or an address. There is no calculation, so the whole block turns on precise definitions and on not mixing up the devices, which look similar but do different jobs."
+      ],
+      [
+        "p",
+        "Two lists carry most of the marks. The first is hub, switch, router, modem, repeater, bridge and gateway, each with one line. The second is HTTP, HTTPS, FTP, SMTP, POP3, IMAP, TCP and IP, each with one line. Write both lists once and the block is largely done."
+      ],
+      [
+        "h3",
+        "Networks by size"
+      ],
+      [
+        "p",
+        "A LAN, local area network, covers a room, a building or a campus and is owned by one organisation. A MAN, metropolitan area network, covers a city. A WAN, wide area network, covers a country or the world and is usually built from leased lines; the internet itself is the largest WAN. A PAN, personal area network, is the few metres around one person, as with a phone and a Bluetooth headset. The order from smallest to largest is PAN, LAN, MAN, WAN, and that order is asked directly."
+      ],
+      [
+        "p",
+        "The internet is a network of networks that all speak the same protocol, TCP/IP. The world wide web is a service that runs on the internet - a collection of pages linked by hyperlinks and fetched with HTTP. So the web is not the internet; it is one thing the internet carries, along with email, file transfer and video calls. A question that offers internet and world wide web as options is testing exactly this."
+      ],
+      [
+        "h3",
+        "Topology, and what each shape costs"
+      ],
+      [
+        "p",
+        "In a bus topology every device taps into one backbone cable. It is cheap and simple, but one break stops the whole network and collisions are common. In a star topology every device connects to a central hub or switch. It is easy to add devices and one cable failure affects only one device, but the centre is a single point of failure, and this is the shape used in almost every office today. In a ring topology each device connects to two neighbours, so data travels in a loop; a break can stop the ring unless it is a dual ring."
+      ],
+      [
+        "p",
+        "In a mesh topology every device connects to several others, which gives the best fault tolerance at the highest cabling cost; it is used where failure is not acceptable. A tree topology is a star of stars, used for large buildings, and a hybrid is a mix. The two facts asked most often are that star is the common office layout and that mesh is the most reliable."
+      ],
+      [
+        "h3",
+        "The devices, one line each"
+      ],
+      [
+        "p",
+        "A hub repeats every incoming signal to all other ports, so all devices share one collision domain and it is now obsolete. A switch learns which device is on which port and forwards a frame only to the intended port, which is why it is faster and is what a modern office uses. A router joins different networks and chooses the path for a packet, and it is what connects a home network to the internet. A modem converts the signal between the provider's line and the local network. A repeater regenerates a weakening signal to extend a cable. A bridge joins two segments of the same network. A gateway connects two networks that use different protocols, and it is the standard answer when the two systems are unlike each other."
+      ],
+      [
+        "p",
+        "A NIC, network interface card, is the hardware in each machine that connects it to the network and carries its MAC address. An access point provides the wireless link for Wi-Fi. A firewall sits at the boundary and filters traffic. Those three are asked as matches and each answer is one line."
+      ],
+      [
+        "h3",
+        "Addresses, and the words around them"
+      ],
+      [
+        "p",
+        "An IP address identifies a device on a network. IPv4 is four numbers from 0 to 255 separated by dots, as in 192.168.1.1; IPv6 uses eight groups of hexadecimal digits because IPv4 addresses ran out. A MAC address is the permanent hardware address burned into the network card. A domain name is the readable form, such as example.com, and DNS, the domain name system, translates it into an IP address. That translation is the answer to most DNS questions, and the analogy is a telephone directory."
+      ],
+      [
+        "p",
+        "A URL is the full address of a resource, and its parts are the protocol, the domain name, sometimes a path and sometimes a query. A web page is one document; a website is a collection of pages under one domain; a home page is the first page of a site. A browser is the program that requests and displays pages, and a search engine is a service that indexes pages and returns links. A web server stores the pages and answers requests, and a proxy server sits between the user and the internet."
+      ],
+      [
+        "h3",
+        "Protocols, one line each"
+      ],
+      [
+        "p",
+        "TCP breaks data into packets, numbers them, and reassembles them in order, resending what is lost. IP handles addressing and routing. Together, TCP/IP is the protocol suite of the internet. HTTP transfers web pages, and HTTPS is the same over an encrypted connection. FTP transfers files between machines. SMTP sends email, while POP3 downloads it to one device and IMAP keeps it on the server so several devices see the same mailbox. Those last three are the most examined trio in the block, and the difference between POP3 and IMAP is asked as a definition."
+      ],
+      [
+        "h3",
+        "Two questions worked the short way"
+      ],
+      [
+        "p",
+        "A question asks which device connects two different networks. The answer is a router. A switch connects devices within one network, a hub repeats signals blindly, and a repeater only extends a cable. Read whether the question says same network or different networks before choosing."
+      ],
+      [
+        "p",
+        "A question asks which protocol is used to send email. The answer is SMTP. POP3 and IMAP are for receiving, and HTTP is for web pages. Attach one verb to each - send to SMTP, download to POP3, synchronise to IMAP - and the trio never confuses again."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "h3",
+        "Email, in the parts that are asked"
+      ],
+      [
+        "p",
+        "An email address has two parts separated by the at sign: the user name and the domain. Every message carries a To, an optional Cc for a copy that everyone can see, a Bcc for a blind copy that the other recipients cannot see, a Subject line, a body and sometimes an attachment. A signature is a block appended automatically. Those seven words answer almost every email question, and the Cc against Bcc difference is the most examined."
+      ],
+      [
+        "p",
+        "An email client is the program on the device; a mail server stores and forwards the messages. Spam filters and antivirus scan attachments before they are opened. A reply goes to the sender only, while reply all goes to every recipient, and forwarding passes the message to a new person."
+      ],
+      [
+        "h3",
+        "Wireless, and the small print"
+      ],
+      [
+        "p",
+        "Wi-Fi is the wireless LAN standard, and it uses radio waves in bands that are free to use, which is why it is everywhere. Bluetooth is a short-range personal link for a headset, a keyboard or a file transfer. A hotspot is a place that offers Wi-Fi access. Mobile data uses the cellular network, and the generations are named 3G, 4G and 5G. A question that asks which is used for a headset and which for a building answers Bluetooth and Wi-Fi."
+      ],
+      [
+        "h3",
+        "Keeping a network safe and usable"
+      ],
+      [
+        "p",
+        "Four measures cover the safety questions: a strong password on the router and on the Wi-Fi, WPA2 encryption rather than the older WEP, a firewall at the boundary, and regular firmware updates. On the usability side, a wired connection is more stable than wireless, a switch adds ports where more devices are needed, and a range extender pushes a weak Wi-Fi signal further."
+      ],
+      [
+        "p",
+        "Three errors recur. Hub and switch are treated as the same device, when the switch forwards to one port and the hub to all. The internet is called the world wide web, when the web is only one service on it. And POP3 is described as keeping mail on the server, when that is IMAP. Check the direction of each definition before choosing."
+      ],
+      [
+        "ul",
+        [
+          "Size order: PAN, LAN, MAN, WAN; the internet is the largest WAN.",
+          "Star is the common office topology; mesh is the most fault tolerant.",
+          "Hub repeats to all ports, switch forwards to one, router joins networks, gateway joins different protocols.",
+          "DNS turns a domain name into an IP address; IPv4 is four dotted numbers.",
+          "SMTP sends mail, POP3 downloads it, IMAP synchronises it; HTTPS is HTTP encrypted."
+        ]
+      ],
+      [
+        "tip",
+        "For any device question, ask how many networks are involved. One network means a switch or hub, more than one means a router, and two unlike systems mean a gateway."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "নেটৱৰ্কিঙৰ এই অংশত কি সোধা হয়"
+      ],
+      [
+        "p",
+        "এই অধ্যায়ত কম্পিউটাৰবোৰ কেনেকৈ জোৰা লগে আৰু তাৰ ওপৰত ইণ্টাৰনেট কেনেকৈ চলে সেয়া সামৰি লোৱা হৈছে। প্ৰশ্ন চাৰি ধৰণৰ: আকাৰ অনুসৰি নেটৱৰ্কৰ নাম, ট'প'লজিৰ নাম, এটা সঁজুলিৰ নাম আৰু তাৰ কাম, আৰু প্ৰ'ট'কল বা ঠিকনাৰ নাম। ইয়াত গণনা নাই, সেয়ে গোটেই অংশ সঠিক সংজ্ঞা আৰু একে দেখা কিন্তু বেলেগ কাম কৰা সঁজুলিবোৰ মিলাই নিদিয়াত ঘূৰে।"
+      ],
+      [
+        "p",
+        "দুখন তালিকাই বেছিভাগ নম্বৰ কঢ়িয়ায়। প্ৰথমখন হ'ল হাব, চুইচ, ৰাউটাৰ, মডেম, ৰিপিটাৰ, ব্ৰিজ আৰু গেটৱে, প্ৰতিটোৰে এশাৰী। দ্বিতীয়খন HTTP, HTTPS, FTP, SMTP, POP3, IMAP, TCP আৰু IP, প্ৰতিটোৰে এশাৰী। দুয়োখন এবাৰ লিখিলে এই অংশ প্ৰায় শেষ।"
+      ],
+      [
+        "h3",
+        "আকাৰ অনুসৰি নেটৱৰ্ক"
+      ],
+      [
+        "p",
+        "LAN, লোকেল এৰিয়া নেটৱৰ্কে এটা কোঠা, এটা ভৱন বা এটা চৌহদ সামৰে আৰু ই এটা সংস্থাৰ মালিকানাধীন। MAN, মেট্ৰ'পলিটান এৰিয়া নেটৱৰ্কে এখন চহৰ সামৰে। WAN, ৱাইড এৰিয়া নেটৱৰ্কে এখন দেশ বা গোটেই পৃথিৱী সামৰে আৰু সাধাৰণতে লীজড লাইনৰ পৰা সজা হয়; ইণ্টাৰনেট নিজেই আটাইতকৈ ডাঙৰ WAN। PAN, পাৰ্ছনেল এৰিয়া নেটৱৰ্ক এজন মানুহৰ চাৰিওফালৰ কেইবা মিটাৰ, যেনে ফোন আৰু ব্লুটুথ হেডফোন। সৰুৰ পৰা ডাঙৰলৈ ক্ৰম PAN, LAN, MAN, WAN, আৰু এই ক্ৰম পোনপটীয়াকৈ সোধা হয়।"
+      ],
+      [
+        "p",
+        "ইণ্টাৰনেট হ'ল নেটৱৰ্কৰ নেটৱৰ্ক যি সকলোৱে একেই প্ৰ'ট'কল, TCP/IP, কয়। ৱৰ্ল্ড ৱাইড ৱেব হ'ল ইণ্টাৰনেটত চলা এটা সেৱা - হাইপাৰলিংকেৰে জোৰা লগা আৰু HTTP ৰে অনা পৃষ্ঠাৰ সংগ্ৰহ। সেয়ে ৱেব ইণ্টাৰনেট নহয়; ই ইণ্টাৰনেটে কঢ়িয়া লৈ যোৱা এটা বস্তু, ইমেইল, ফাইল ট্ৰেন্সফাৰ আৰু ভিডিঅ' কলৰ লগত। ইণ্টাৰনেট আৰু ৱৰ্ল্ড ৱাইড ৱেব বিকল্প হিচাপে দিয়া প্ৰশ্নই ঠিক এই কথাটোৱেই পৰীক্ষা কৰে।"
+      ],
+      [
+        "h3",
+        "ট'প'লজি, আৰু প্ৰতিটো আকৃতিৰ খৰচ"
+      ],
+      [
+        "p",
+        "বাছ ট'প'লজিত প্ৰতিটো সঁজুলি এডাল মূল কেবলত জোৰা লগে। ই সস্তা আৰু সৰল, কিন্তু এডাল কেবল ছিগিলে গোটেই নেটৱৰ্ক বন্ধ হয় আৰু সংঘৰ্ষ সঘন হয়। ষ্টাৰ ট'প'লজিত প্ৰতিটো সঁজুলি কেন্দ্ৰীয় হাব বা চুইচত জোৰা লগে। সঁজুলি যোগ কৰা সহজ আৰু এডাল কেবল নষ্ট হ'লে কেৱল এটা সঁজুলিত ধৰে, কিন্তু কেন্দ্ৰটোৱেই একমাত্ৰ দুৰ্বল স্থান, আৰু আজি প্ৰায় প্ৰতিটো কাৰ্যালয়ত এই আকৃতিয়েই ব্যৱহৃত। ৰিং ট'প'লজিত প্ৰতিটো সঁজুলি দুটা চুবুৰীয়াৰ লগত জোৰা লগে, সেয়ে তথ্য এটা বৃত্তত ঘূৰে; দুটা ৰিং নহ'লে এটা ছিগনে ৰিং বন্ধ কৰিব পাৰে।"
+      ],
+      [
+        "p",
+        "মেছ ট'প'লজিত প্ৰতিটো সঁজুলি কেইবাটাও সঁজুলিৰ লগত জোৰা লগে, যাৰ ফলত আটাইতকৈ ভাল দুৰ্যোগ সহনশীলতা পোৱা যায় কিন্তু কেবলিঙৰ খৰচ আটাইতকৈ বেছি; য'ত বিফলতা গ্ৰহণযোগ্য নহয় তাত ব্যৱহাৰ হয়। ট্ৰি ট'প'লজি হ'ল তাৰাৰ তাৰা, ডাঙৰ ভৱনত ব্যৱহৃত, আৰু হাইব্ৰিড মিশ্ৰণ। আটাইতকৈ বেছি সোধা দুটা কথা: ষ্টাৰ কাৰ্যালয়ৰ সাধাৰণ আকৃতি আৰু মেছ আটাইতকৈ নিৰ্ভৰযোগ্য।"
+      ],
+      [
+        "h3",
+        "সঁজুলিবোৰ, প্ৰতিটোৰে এশাৰী"
+      ],
+      [
+        "p",
+        "হাবে অহা প্ৰতিটো সংকেত আন সকলো প'ৰ্টলৈ পুনৰাবৃত্তি কৰে, সেয়ে সকলো সঁজুলিয়ে এটা সংঘৰ্ষ ক্ষেত্ৰ ভাগ কৰে আৰু ই এতিয়া অচল। চুইচে কোন সঁজুলি কোন প'ৰ্টত আছে শিকি ফ্ৰেম কেৱল নিৰ্দিষ্ট প'ৰ্টলৈ পঠিয়ায়, সেয়ে ই দ্ৰুত আৰু আধুনিক কাৰ্যালয়ত ইয়েই ব্যৱহৃত। ৰাউটাৰে বেলেগ নেটৱৰ্ক জোৰে আৰু পেকেটৰ বাট বাছে, আৰু ঘৰুৱা নেটৱৰ্ক ইণ্টাৰনেটত জোৰা লগোৱাটো এইয়েই। মডেমে যোগানকাৰীৰ লাইন আৰু স্থানীয় নেটৱৰ্কৰ মাজত সংকেত ৰূপান্তৰ কৰে। ৰিপিটাৰে দুৰ্বল হোৱা সংকেত পুনৰ সজীৱ কৰি কেবল দীঘল কৰে। ব্ৰিজে একেই নেটৱৰ্কৰ দুটা অংশ জোৰে। গেটৱে বেলেগ প্ৰ'ট'কল ব্যৱহাৰ কৰা দুটা নেটৱৰ্ক জোৰে, আৰু দুয়ো ব্যৱস্থা বেলেগ হ'লে সেয়াই চিনাকি উত্তৰ।"
+      ],
+      [
+        "p",
+        "NIC, নেটৱৰ্ক ইণ্টাৰফেচ কাৰ্ড, প্ৰতিটো যন্ত্ৰত থকা হাৰ্ডৱেৰ যি তাক নেটৱৰ্কত জোৰে আৰু তাৰ MAC ঠিকনা কঢ়িয়ায়। এক্সেছ পইণ্টে ৱাই-ফাইৰ বাবে বেতাঁৰ সংযোগ দিয়ে। ফায়াৰৱালে সীমান্তত বহি ট্ৰেফিক ছাঁনি কৰে। এই তিনিওটা মিলোৱা প্ৰশ্ন আৰু প্ৰতিটো উত্তৰ এশাৰী।"
+      ],
+      [
+        "h3",
+        "ঠিকনা, আৰু তাৰ চাৰিওফালৰ শব্দ"
+      ],
+      [
+        "p",
+        "IP ঠিকনাই নেটৱৰ্কত এটা যন্ত্ৰ চিনাক্ত কৰে। IPv4 হ'ল 0 ৰ পৰা 255 লৈকে চাৰিটা সংখ্যা বিন্দুৰে পৃথক, যেনে 192.168.1.1; IPv6 য়ে আঠটা গোট হেক্সাডেচিমেল অঙ্ক ব্যৱহাৰ কৰে কাৰণ IPv4 ঠিকনা শেষ হৈ গৈছিল। MAC ঠিকনা নেটৱৰ্ক কাৰ্ডত পোৰা স্থায়ী হাৰ্ডৱেৰ ঠিকনা। ড'মেইন নাম পঢ়িব পৰা ৰূপ, যেনে example.com, আৰু DNS, ড'মেইন নেম চিষ্টেমে তাক IP ঠিকনালৈ ৰূপান্তৰ কৰে। এই ৰূপান্তৰেই DNS ৰ বেছিভাগ প্ৰশ্নৰ উত্তৰ, আৰু উপমা হ'ল টেলিফোন ডাইৰেক্টৰি।"
+      ],
+      [
+        "p",
+        "URL হ'ল সম্পদ এটাৰ সম্পূৰ্ণ ঠিকনা, আৰু তাৰ অংশ প্ৰ'ট'কল, ড'মেইন নাম, কেতিয়াবা পথ আৰু কেতিয়াবা কুৱেৰি। ৱেব পৃষ্ঠা এখন নথি; ৱেবছাইট এটা ড'মেইনৰ তলত থকা পৃষ্ঠাৰ সংগ্ৰহ; হ'ম পৃষ্ঠা চাইটৰ প্ৰথম পৃষ্ঠা। ব্ৰাউজাৰ সেই কাৰ্যসূচী যি পৃষ্ঠা বিচাৰি দেখুৱায়, আৰু চাৰ্চ ইঞ্জিন সেই সেৱা যি পৃষ্ঠা সূচীবদ্ধ কৰি লিংক ঘূৰাই দিয়ে। ৱেব চাৰ্ভাৰে পৃষ্ঠা সাঁচি ৰাখি অনুৰোধৰ উত্তৰ দিয়ে, আৰু প্ৰক্সি চাৰ্ভাৰ ব্যৱহাৰকাৰী আৰু ইণ্টাৰনেটৰ মাজত বহে।"
+      ],
+      [
+        "h3",
+        "প্ৰ'ট'কল, প্ৰতিটোৰে এশাৰী"
+      ],
+      [
+        "p",
+        "TCP য়ে তথ্য পেকেটত ভাঙে, নম্বৰ দিয়ে, আৰু ক্ৰমে পুনৰ জোৰা লগায়, হেৰোৱাবোৰ পুনৰ পঠিয়ায়। IP য়ে ঠিকনা আৰু বাট চম্ভালে। দুয়োটা মিলি TCP/IP ইণ্টাৰনেটৰ প্ৰ'ট'কল সংগ্ৰহ। HTTP এ ৱেব পৃষ্ঠা কঢ়িয়ায়, আৰু HTTPS একেই কাম এনক্ৰিপ্ট সংযোগেদি কৰে। FTP য়ে যন্ত্ৰৰ মাজত ফাইল কঢ়িয়ায়। SMTP এ ইমেইল পঠিয়ায়, আনহাতে POP3 এ এটা যন্ত্ৰলৈ নামাই আনে আৰু IMAP এ চাৰ্ভাৰত ৰাখি কেইবাটাও যন্ত্ৰক একেই মেইলবাক্স দেখুৱায়। এই শেষৰ তিনিওটা এই অংশৰ আটাইতকৈ বেছি সোধা যোৰ, আৰু POP3 আৰু IMAP ৰ পাৰ্থক্য সংজ্ঞা হিচাপে সোধা হয়।"
+      ],
+      [
+        "h3",
+        "চুটিকৈ কৰা দুটা প্ৰশ্ন"
+      ],
+      [
+        "p",
+        "কোন সঁজুলিয়ে দুটা বেলেগ নেটৱৰ্ক জোৰে সোধা হ'ল। উত্তৰ ৰাউটাৰ। চুইচে এটা নেটৱৰ্কৰ ভিতৰত সঁজুলি জোৰে, হাবে অন্ধভাৱে সংকেত পুনৰাবৃত্তি কৰে, আৰু ৰিপিটাৰে কেৱল কেবল দীঘল কৰে। বাছনিৰ আগতে প্ৰশ্নত একেই নেটৱৰ্ক নে বেলেগ নেটৱৰ্ক সেয়া পঢ়া।"
+      ],
+      [
+        "p",
+        "ইমেইল পঠিয়াবলৈ কোন প্ৰ'ট'কল সোধা হ'ল। উত্তৰ SMTP। POP3 আৰু IMAP লোৱাৰ বাবে, আৰু HTTP ৱেব পৃষ্ঠাৰ বাবে। প্ৰতিটোৰ লগত এটা ক্ৰিয়া জোৰা লগোৱা - পঠিওৱা SMTP, নামোৱা POP3, মিলোৱা IMAP - তেতিয়া তিনিওটাই কেতিয়াও বিভ্ৰান্ত নকৰে।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "h3",
+        "ইমেইল, সোধা অংশবোৰ"
+      ],
+      [
+        "p",
+        "ইমেইল ঠিকনাত at চিহ্নৰে পৃথক দুটা অংশ থাকে: ব্যৱহাৰকাৰীৰ নাম আৰু ড'মেইন। প্ৰতিটো বাৰ্তাত To, ঐচ্ছিক Cc যি সকলোৱে দেখা কপি, Bcc যি আন গ্ৰাহকে নেদেখা গোপন কপি, Subject শাৰী, মূল লেখা আৰু কেতিয়াবা সংলগ্ন ফাইল থাকে। চিগনেচাৰ স্বয়ংক্ৰিয়ভাৱে যোগ হোৱা অংশ। এই সাতটা শব্দই ইমেইলৰ প্ৰায় প্ৰতিটো প্ৰশ্নৰ উত্তৰ দিয়ে, আৰু Cc আৰু Bcc ৰ পাৰ্থক্যই আটাইতকৈ বেছি সোধা।"
+      ],
+      [
+        "p",
+        "ইমেইল ক্লায়েণ্ট যন্ত্ৰত থকা কাৰ্যসূচী; মেইল চাৰ্ভাৰে বাৰ্তা সাঁচি পঠিয়ায়। স্পাম ফিল্টাৰ আৰু এণ্টিভাইৰাছে সংলগ্ন ফাইল খোলাৰ আগতে স্কেন কৰে। ৰিপ্লাই কেৱল প্ৰেৰকলৈ যায়, ৰিপ্লাই অল প্ৰতিটো গ্ৰাহকলৈ যায়, আৰু ফৰৱাৰ্ডে বাৰ্তা নতুন মানুহলৈ পঠিয়ায়।"
+      ],
+      [
+        "h3",
+        "বেতাঁৰ, আৰু সৰু কথাবোৰ"
+      ],
+      [
+        "p",
+        "ৱাই-ফাই বেতাঁৰ LAN ৰ মানক, আৰু ই বিনামূলীয়াকৈ ব্যৱহাৰ কৰিব পৰা বেণ্ডৰ ৰেডিঅ' ঢৌ ব্যৱহাৰ কৰে, সেয়ে ই সকলো ঠাইত আছে। ব্লুটুথ হেডফোন, কীব'ৰ্ড বা ফাইল ট্ৰেন্সফাৰৰ বাবে চুটি দূৰত্বৰ ব্যক্তিগত সংযোগ। হটস্পট ৱাই-ফাই সেৱা দিয়া ঠাই। ম'বাইল ডেটা চেলুলাৰ নেটৱৰ্ক ব্যৱহাৰ কৰে, আৰু শাখাবোৰ 3G, 4G আৰু 5G। হেডফোনৰ বাবে কোনটো আৰু ভৱনৰ বাবে কোনটো সোধা প্ৰশ্নৰ উত্তৰ ব্লুটুথ আৰু ৱাই-ফাই।"
+      ],
+      [
+        "h3",
+        "নেটৱৰ্ক সুৰক্ষিত আৰু ব্যৱহাৰযোগ্য ৰখা"
+      ],
+      [
+        "p",
+        "চাৰিটা ব্যৱস্থাই সুৰক্ষাৰ প্ৰশ্ন সামৰে: ৰাউটাৰ আৰু ৱাই-ফাইত সবল পাছৱৰ্ড, পুৰণি WEP নহয় WPA2 এনক্ৰিপচন, সীমান্তত ফায়াৰৱাল, আৰু নিয়মীয়া ফাৰ্মৱেৰ আপডেট। ব্যৱহাৰযোগ্যতাৰ দিশত তাৰযুক্ত সংযোগ বেতাঁৰতকৈ স্থিৰ, বেছি সঁজুলি লাগিলে চুইচে প'ৰ্ট বঢ়ায়, আৰু ৰেঞ্জ এক্সটেণ্ডাৰে দুৰ্বল ৱাই-ফাই সংকেত দূৰলৈ পঠিয়ায়।"
+      ],
+      [
+        "h3",
+        "ৱেব পৃষ্ঠা আৰু হাইপাৰলিংক"
+      ],
+      [
+        "p",
+        "ৱেব পৃষ্ঠা সাধাৰণতে HTML ত লিখা হয়, আৰু হাইপাৰলিংক হ'ল এনে লিংক যি এটা পৃষ্ঠাৰ পৰা আন এটালৈ লৈ যায়। ছাৰ্চ ইঞ্জিনে পৃষ্ঠা ক্ৰল কৰি সূচী বনায়, আৰু তাৰ পৰা ফলাফল ঘূৰাই দিয়ে। বুকমাৰ্ক বা ফেভাৰিটছে পৃষ্ঠাৰ ঠিকনা সাঁচি ৰাখে যাতে পিছত পুনৰ পোৱা যায়। কেশ্বে পৃষ্ঠাৰ কপি ওচৰত ৰাখি পুনৰ লোড দ্ৰুত কৰে।"
+      ],
+      [
+        "p",
+        "তিনিটা ভুল বাৰে বাৰে আহে। হাব আৰু চুইচক একেই সঁজুলি বুলি ধৰা হয়, অথচ চুইচে এটা প'ৰ্টলৈ আৰু হাবে সকলোলৈ পঠিয়ায়। ইণ্টাৰনেটক ৱৰ্ল্ড ৱাইড ৱেব বুলি কোৱা হয়, অথচ ৱেব তাৰ এটা সেৱাহে। আৰু POP3 ক চাৰ্ভাৰত মেইল ৰখা বুলি কোৱা হয়, অথচ সেয়া IMAP। বাছনিৰ আগতে প্ৰতিটো সংজ্ঞাৰ দিশ চোৱা।"
+      ],
+      [
+        "ul",
+        [
+          "আকাৰৰ ক্ৰম: PAN, LAN, MAN, WAN; ইণ্টাৰনেট আটাইতকৈ ডাঙৰ WAN।",
+          "ষ্টাৰ কাৰ্যালয়ৰ সাধাৰণ ট'প'লজি; মেছ আটাইতকৈ দুৰ্যোগ সহনশীল।",
+          "হাবে সকলো প'ৰ্টলৈ, চুইচে এটালৈ, ৰাউটাৰে নেটৱৰ্ক জোৰে, গেটৱে বেলেগ প্ৰ'ট'কল জোৰে।",
+          "DNS এ ড'মেইন নামক IP ঠিকনালৈ ৰূপান্তৰ কৰে; IPv4 চাৰিটা বিন্দুযুক্ত সংখ্যা।",
+          "SMTP এ পঠিয়ায়, POP3 এ নামায়, IMAP এ মিলায়; HTTPS হ'ল এনক্ৰিপ্ট HTTP।"
+        ]
+      ],
+      [
+        "h3",
+        "গতি, বেগ আৰু যোগানকাৰী"
+      ],
+      [
+        "p",
+        "নেটৱৰ্কৰ গতি বেণ্ডউইথত মাপা হয়, আৰু ইয়াক প্ৰায়ে মেগাবিট প্ৰতি ছেকেণ্ড বা Mbps ত কোৱা হয়। লেটেন্সি হ'ল এটা পেকেটে যোৱা-অহা কৰিবলৈ লগা সময়, সেয়ে উচ্চ বেণ্ডউইথ থকা সংযোগেও লেটেন্সি বেছি হ'লে ভিডিঅ' কলত পলম হয়। ISP, ইণ্টাৰনেট সেৱা যোগানকাৰী, সেই কোম্পানী যি ঘৰ বা কাৰ্যালয়ক ইণ্টাৰনেট সংযোগ দিয়ে। এই তিনি শব্দ প্ৰায় প্ৰতিবছৰে এটা প্ৰশ্নত আহে।"
+      ],
+      [
+        "h3",
+        "ইণ্ট্ৰানেট, এক্সট্ৰানেট আৰু ক্লাউড"
+      ],
+      [
+        "p",
+        "ইণ্ট্ৰানেট হ'ল সংস্থাৰ ভিতৰৰ ব্যক্তিগত নেটৱৰ্ক যি কেৱল কৰ্মচাৰীয়ে ব্যৱহাৰ কৰে। এক্সট্ৰানেট সেই একেই নেটৱৰ্কৰ অংশ যি অনুমোদিত বাহিৰৰ ব্যক্তি, যেনে যোগানকাৰী বা গ্ৰাহক, লগত ভাগ কৰা হয়। ক্লাউড কম্পিউটিঙত তথ্য আৰু কাৰ্যসূচী স্থানীয় যন্ত্ৰত নাথাকি যোগানকাৰীৰ চাৰ্ভাৰত থাকে আৰু ইণ্টাৰনেটেদি ব্যৱহাৰ কৰা হয়; ইয়াৰ সুবিধা যিকোনো ঠাইৰ পৰা প্ৰৱেশ আৰু খৰচ কম, আৰু অসুবিধা ইণ্টাৰনেটৰ ওপৰত নিৰ্ভৰশীলতা।"
+      ],
+      [
+        "tip",
+        "সঁজুলিৰ যিকোনো প্ৰশ্নত সোধা, কিমানটা নেটৱৰ্ক জড়িত। এটা নেটৱৰ্ক মানে চুইচ বা হাব, এটাতকৈ বেছি মানে ৰাউটাৰ, আৰু দুটা বেলেগ ব্যৱস্থা মানে গেটৱে।"
+      ]
+    ]
   }
 }
