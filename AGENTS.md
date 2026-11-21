@@ -3632,3 +3632,23 @@ Note: `js/app.src.js` still lists `dhs-dme-technical` in `EXAM_BOOKS_PREPARING`,
 so the book page opens with the "not ready yet" popup even though all 176 topics
 have questions. Remove that entry (and rebuild `js/app.js`) when the owner wants
 the book treated as finished.
+
+## DHS & DME Technical — topic study notes
+
+Topic pages carry a long-form article under the question list, in both
+languages, written for the paper (not a textbook summary).
+
+- Content lives in `tools/dhs-dme-technical.notes.js`, keyed by leaf id:
+  `{ en: [blocks], as: [blocks] }`, block = `[kind, text]` with
+  `h3 | p | tip | ul`.
+- Build writes `data/exams/dhs-dme-technical/notes.json` so the client-side
+  reader can paint the same article; the static page gets it from
+  `notesSectionHTML()` in `tools/lib/exam-book-pages.js`.
+- `node tools/check-topic-notes.js` fails the build if any topic is under
+  1,300 words in either language or has a malformed block. Run it before
+  every build.
+- Assamese needs roughly 1.25x the English word count for the same content,
+  so write the Assamese draft long and trim.
+- Written so far: cube-dice, cell-biology, genetics-evolution,
+  human-anatomy, human-physiology. Remaining technical-science topics are
+  written in batches of 3-5.
