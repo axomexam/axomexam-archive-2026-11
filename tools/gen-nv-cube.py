@@ -34,10 +34,10 @@ LEFT = [(22, 26), (50, 44), (50, 78), (22, 60)]
 RIGHT = [(50, 44), (78, 26), (78, 60), (50, 78)]
 
 
-def face(quad, n, r=2.6):
+def face(quad, n, r=2.3):
     parts = [S.poly(quad)]
     for (u, v) in PIPS[n]:
-        x, y = bilin(quad[0], quad[1], quad[2], quad[3], u / 2, v / 2)
+        x, y = bilin(quad[0], quad[1], quad[2], quad[3], 0.24 + 0.26 * u, 0.24 + 0.26 * v)
         parts.append(f'<circle cx="{x}" cy="{y}" r="{r}" fill="{INK}"/>')
     return "".join(parts)
 

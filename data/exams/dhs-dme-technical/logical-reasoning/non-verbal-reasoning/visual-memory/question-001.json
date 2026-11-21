@@ -1,185 +1,5 @@
 [
   {
-    "id": "non-verbal-reasoning-003",
-    "q": {
-      "en": "Which figure cannot be drawn without lifting pencil or retracing (among simple closed shapes listed)?",
-      "as": "তলৰ কোনটো এবাৰত পেঞ্চিল নুঠাই আঁকিব নোৱাৰি?"
-    },
-    "options": [
-      {
-        "en": "Circle",
-        "as": "বৃত্ত"
-      },
-      {
-        "en": "Two crossed lines like X then a separate circle not joined",
-        "as": "X আৰু পৃথক বৃত্ত"
-      },
-      {
-        "en": "Triangle",
-        "as": "ত্ৰিভুজ"
-      },
-      {
-        "en": "Square",
-        "as": "বৰ্গ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The figure consists of two separate parts (an X and a detached circle) with no connection, so the pencil must be lifted to move from one part to the other.",
-      "as": "এই চিত্ৰ দুটা পৃথক অংশৰে গঠিত (এটা X আৰু এটা বেলেগ বৃত্ত) আৰু দুয়োৰে মাজত সংযোগ নাই, সেয়ে এটাৰপৰা আনটোলৈ যাবলৈ পেঞ্চিল উঠাব লাগে।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-024",
-    "q": {
-      "en": "Which letter looks the same after 180° rotation?",
-      "as": "১৮০° ঘূৰালে কোন আখৰ একে দেখা যায়?"
-    },
-    "options": [
-      {
-        "en": "F",
-        "as": "F"
-      },
-      {
-        "en": "H",
-        "as": "H"
-      },
-      {
-        "en": "L",
-        "as": "L"
-      },
-      {
-        "en": "P",
-        "as": "P"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "H has point (rotational) symmetry, so it looks unchanged after a 180° rotation; F, L and P point in different directions after rotation.",
-      "as": "H ৰ ঘূৰ্ণন সমমিতি আছে, সেয়ে ১৮০° ঘূৰালে ই একে দেখা যায়; F, L আৰু P ঘূৰালে বেলেগ দিশলৈ যায়।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-040",
-    "q": {
-      "en": "Which figure is symmetric about both axes among: F, L, P, O?",
-      "as": "তলৰ কোনটো দুয়ো অক্ষত সমমিত: F, L, P, O?"
-    },
-    "options": [
-      {
-        "en": "F",
-        "as": "F"
-      },
-      {
-        "en": "L",
-        "as": "L"
-      },
-      {
-        "en": "P",
-        "as": "P"
-      },
-      {
-        "en": "O",
-        "as": "O"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "O is a circle, symmetric about every axis through its centre, so it is symmetric about both axes; F, L and P are not.",
-      "as": "O এটা বৃত্ত, ইয়াৰ কেন্দ্ৰৰ মাজেৰে যোৱা প্ৰতিটো অক্ষত সমমিত, সেয়ে দুয়ো অক্ষতো সমমিত; F, L আৰু P নহয়।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-049",
-    "q": {
-      "en": "Which letter has no line of symmetry?",
-      "as": "কোন আখৰৰ সমমিতি ৰেখা নাই?"
-    },
-    "options": [
-      {
-        "en": "A",
-        "as": "A"
-      },
-      {
-        "en": "F",
-        "as": "F"
-      },
-      {
-        "en": "H",
-        "as": "H"
-      },
-      {
-        "en": "O",
-        "as": "O"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The letter F has neither a vertical nor a horizontal line of symmetry, while A, H and O each have at least one, so F is the answer.",
-      "as": "F আখৰৰ ওলমা বা অনুভূমিক কোনো সমমিতি ৰেখাই নাই, কিন্তু A, H আৰু O ৰ অন্ততঃ এটা আছে, সেয়ে F উত্তৰ।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-057",
-    "q": {
-      "en": "Which of the following is a closed curve?",
-      "as": "তলৰ কোনটো বন্ধ বক্ৰ?"
-    },
-    "options": [
-      {
-        "en": "Ray",
-        "as": "ৰশ্মি"
-      },
-      {
-        "en": "Line segment",
-        "as": "ৰেখাখণ্ড"
-      },
-      {
-        "en": "Circle",
-        "as": "বৃত্ত"
-      },
-      {
-        "en": "Straight line",
-        "as": "সৰলৰেখা"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "A circle is a simple closed curve because it starts and ends at the same point, whereas a ray, line segment and straight line are open figures.",
-      "as": "বৃত্ত এটা বন্ধ বক্ৰ, কাৰণ ই একেটা বিন্দুতে আৰম্ভ আৰু শেষ হয়; ৰশ্মি, ৰেখাখণ্ড আৰু সৰলৰেখা মুক্ত চিত্ৰ।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-066",
-    "q": {
-      "en": "If a figure has rotational symmetry of order 4, a square is an example because 90° rotation maps it onto itself. Order 4 means rotation by?",
-      "as": "ক্ৰম ৪-ৰ ঘূৰ্ণন সমমিতি মানে কিমান ডিগ্ৰীত ঘূৰালে একে হয়?"
-    },
-    "options": [
-      {
-        "en": "180° only",
-        "as": "কেৱল ১৮০°"
-      },
-      {
-        "en": "45°",
-        "as": "৪৫°"
-      },
-      {
-        "en": "360° only",
-        "as": "কেৱল ৩৬০°"
-      },
-      {
-        "en": "90°",
-        "as": "৯০°"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "Rotational symmetry of order 4 means the figure maps onto itself 4 times in a full turn, which happens every 360°/4 = 90°.",
-      "as": "ক্ৰম ৪ ৰ ঘূৰ্ণন সমমিতিৰ অৰ্থ এটা সম্পূৰ্ণ ঘূৰ্ণনত চিত্ৰ ৪ বাৰ একে হয়, যি প্ৰতি ৩৬০°/৪ = ৯০° ত ঘটে।"
-    }
-  },
-  {
     "id": "nv-visual-memory-001",
     "leaf": "visual-memory",
     "q": {
@@ -3093,6 +2913,186 @@
     "explanation": {
       "en": "The square with both diagonals and both midlines has 8 odd vertices.",
       "as": "square with both diagonals and both midlines ত ৮ টা অযুগ্ম শীৰ্ষবিন্দু আছে।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-003",
+    "q": {
+      "en": "Which figure cannot be drawn without lifting pencil or retracing (among simple closed shapes listed)?",
+      "as": "তলৰ কোনটো এবাৰত পেঞ্চিল নুঠাই আঁকিব নোৱাৰি?"
+    },
+    "options": [
+      {
+        "en": "Circle",
+        "as": "বৃত্ত"
+      },
+      {
+        "en": "Two crossed lines like X then a separate circle not joined",
+        "as": "X আৰু পৃথক বৃত্ত"
+      },
+      {
+        "en": "Triangle",
+        "as": "ত্ৰিভুজ"
+      },
+      {
+        "en": "Square",
+        "as": "বৰ্গ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The figure consists of two separate parts (an X and a detached circle) with no connection, so the pencil must be lifted to move from one part to the other.",
+      "as": "এই চিত্ৰ দুটা পৃথক অংশৰে গঠিত (এটা X আৰু এটা বেলেগ বৃত্ত) আৰু দুয়োৰে মাজত সংযোগ নাই, সেয়ে এটাৰপৰা আনটোলৈ যাবলৈ পেঞ্চিল উঠাব লাগে।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-024",
+    "q": {
+      "en": "Which letter looks the same after 180° rotation?",
+      "as": "১৮০° ঘূৰালে কোন আখৰ একে দেখা যায়?"
+    },
+    "options": [
+      {
+        "en": "F",
+        "as": "F"
+      },
+      {
+        "en": "H",
+        "as": "H"
+      },
+      {
+        "en": "L",
+        "as": "L"
+      },
+      {
+        "en": "P",
+        "as": "P"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "H has point (rotational) symmetry, so it looks unchanged after a 180° rotation; F, L and P point in different directions after rotation.",
+      "as": "H ৰ ঘূৰ্ণন সমমিতি আছে, সেয়ে ১৮০° ঘূৰালে ই একে দেখা যায়; F, L আৰু P ঘূৰালে বেলেগ দিশলৈ যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-040",
+    "q": {
+      "en": "Which figure is symmetric about both axes among: F, L, P, O?",
+      "as": "তলৰ কোনটো দুয়ো অক্ষত সমমিত: F, L, P, O?"
+    },
+    "options": [
+      {
+        "en": "F",
+        "as": "F"
+      },
+      {
+        "en": "L",
+        "as": "L"
+      },
+      {
+        "en": "P",
+        "as": "P"
+      },
+      {
+        "en": "O",
+        "as": "O"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "O is a circle, symmetric about every axis through its centre, so it is symmetric about both axes; F, L and P are not.",
+      "as": "O এটা বৃত্ত, ইয়াৰ কেন্দ্ৰৰ মাজেৰে যোৱা প্ৰতিটো অক্ষত সমমিত, সেয়ে দুয়ো অক্ষতো সমমিত; F, L আৰু P নহয়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-049",
+    "q": {
+      "en": "Which letter has no line of symmetry?",
+      "as": "কোন আখৰৰ সমমিতি ৰেখা নাই?"
+    },
+    "options": [
+      {
+        "en": "A",
+        "as": "A"
+      },
+      {
+        "en": "F",
+        "as": "F"
+      },
+      {
+        "en": "H",
+        "as": "H"
+      },
+      {
+        "en": "O",
+        "as": "O"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The letter F has neither a vertical nor a horizontal line of symmetry, while A, H and O each have at least one, so F is the answer.",
+      "as": "F আখৰৰ ওলমা বা অনুভূমিক কোনো সমমিতি ৰেখাই নাই, কিন্তু A, H আৰু O ৰ অন্ততঃ এটা আছে, সেয়ে F উত্তৰ।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-057",
+    "q": {
+      "en": "Which of the following is a closed curve?",
+      "as": "তলৰ কোনটো বন্ধ বক্ৰ?"
+    },
+    "options": [
+      {
+        "en": "Ray",
+        "as": "ৰশ্মি"
+      },
+      {
+        "en": "Line segment",
+        "as": "ৰেখাখণ্ড"
+      },
+      {
+        "en": "Circle",
+        "as": "বৃত্ত"
+      },
+      {
+        "en": "Straight line",
+        "as": "সৰলৰেখা"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A circle is a simple closed curve because it starts and ends at the same point, whereas a ray, line segment and straight line are open figures.",
+      "as": "বৃত্ত এটা বন্ধ বক্ৰ, কাৰণ ই একেটা বিন্দুতে আৰম্ভ আৰু শেষ হয়; ৰশ্মি, ৰেখাখণ্ড আৰু সৰলৰেখা মুক্ত চিত্ৰ।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-066",
+    "q": {
+      "en": "If a figure has rotational symmetry of order 4, a square is an example because 90° rotation maps it onto itself. Order 4 means rotation by?",
+      "as": "ক্ৰম ৪-ৰ ঘূৰ্ণন সমমিতি মানে কিমান ডিগ্ৰীত ঘূৰালে একে হয়?"
+    },
+    "options": [
+      {
+        "en": "180° only",
+        "as": "কেৱল ১৮০°"
+      },
+      {
+        "en": "45°",
+        "as": "৪৫°"
+      },
+      {
+        "en": "360° only",
+        "as": "কেৱল ৩৬০°"
+      },
+      {
+        "en": "90°",
+        "as": "৯০°"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Rotational symmetry of order 4 means the figure maps onto itself 4 times in a full turn, which happens every 360°/4 = 90°.",
+      "as": "ক্ৰম ৪ ৰ ঘূৰ্ণন সমমিতিৰ অৰ্থ এটা সম্পূৰ্ণ ঘূৰ্ণনত চিত্ৰ ৪ বাৰ একে হয়, যি প্ৰতি ৩৬০°/৪ = ৯০° ত ঘটে।"
     }
   }
 ]

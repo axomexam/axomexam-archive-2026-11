@@ -1,65 +1,5 @@
 [
   {
-    "id": "non-verbal-reasoning-015",
-    "q": {
-      "en": "Embedded figure: a plus sign (+) is made of how many line segments if drawn as two crossing diameters of equal length?",
-      "as": "প্লাছ চিহ্ন (+) দুডাল সমান ছেদক ৰেখাৰে আঁকিলে খণ্ড কিমান?"
-    },
-    "options": [
-      {
-        "en": "1",
-        "as": "১"
-      },
-      {
-        "en": "3",
-        "as": "৩"
-      },
-      {
-        "en": "8",
-        "as": "৮"
-      },
-      {
-        "en": "2",
-        "as": "২"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "Two crossing diameters of equal length are drawn as two separate straight line segments, so the plus sign is made of 2 line segments.",
-      "as": "দুডাল সমান দীঘৰ ছেদক ৰেখাক দুডাল পৃথক সৰল ৰেখাখণ্ড হিচাপে আঁকা হয়, সেয়ে প্লাছ চিহ্নটো ২ ডাল ৰেখাখণ্ডৰে গঠিত।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-053",
-    "q": {
-      "en": "Embedded: how many squares in a window of 4 small equal squares (2×2)?",
-      "as": "২×২ চাৰি সৰু সমান বৰ্গৰ খিৰিকীত বৰ্গ কিমান?"
-    },
-    "options": [
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "5",
-        "as": "৫"
-      },
-      {
-        "en": "8",
-        "as": "৮"
-      },
-      {
-        "en": "9",
-        "as": "৯"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "A 2×2 window contains 4 small squares plus 1 larger square formed by all four together, giving 4 + 1 = 5 squares.",
-      "as": "২×২ খিৰিকীত ৪ টা সৰু বৰ্গ আৰু চাৰিওটা লগ হৈ গঠন কৰা ১ টা ডাঙৰ বৰ্গ থাকে, সেয়ে ৪ + ১ = ৫ টা বৰ্গ।"
-    }
-  },
-  {
     "id": "nv-embedded-figures-001",
     "leaf": "embedded-figures",
     "q": {
@@ -3945,6 +3885,66 @@
     "explanation": {
       "en": "The triangle is already drawn inside the figure; its sides lie on lines that the figure shows. The other three shapes would need lines that are not there.",
       "as": "ত্ৰিভুজ চিত্ৰৰ ভিতৰত ইতিমধ্যে অঁকা আছে; ইয়াৰ বাহুবোৰ চিত্ৰত থকা ৰেখাৰ ওপৰতে পৰে। বাকী তিনিটা আকৃতিৰ বাবে চিত্ৰত নথকা ৰেখাৰ প্ৰয়োজন।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-015",
+    "q": {
+      "en": "Embedded figure: a plus sign (+) is made of how many line segments if drawn as two crossing diameters of equal length?",
+      "as": "প্লাছ চিহ্ন (+) দুডাল সমান ছেদক ৰেখাৰে আঁকিলে খণ্ড কিমান?"
+    },
+    "options": [
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "Two crossing diameters of equal length are drawn as two separate straight line segments, so the plus sign is made of 2 line segments.",
+      "as": "দুডাল সমান দীঘৰ ছেদক ৰেখাক দুডাল পৃথক সৰল ৰেখাখণ্ড হিচাপে আঁকা হয়, সেয়ে প্লাছ চিহ্নটো ২ ডাল ৰেখাখণ্ডৰে গঠিত।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-053",
+    "q": {
+      "en": "Embedded: how many squares in a window of 4 small equal squares (2×2)?",
+      "as": "২×২ চাৰি সৰু সমান বৰ্গৰ খিৰিকীত বৰ্গ কিমান?"
+    },
+    "options": [
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "9",
+        "as": "৯"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A 2×2 window contains 4 small squares plus 1 larger square formed by all four together, giving 4 + 1 = 5 squares.",
+      "as": "২×২ খিৰিকীত ৪ টা সৰু বৰ্গ আৰু চাৰিওটা লগ হৈ গঠন কৰা ১ টা ডাঙৰ বৰ্গ থাকে, সেয়ে ৪ + ১ = ৫ টা বৰ্গ।"
     }
   }
 ]

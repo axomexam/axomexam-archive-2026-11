@@ -1,155 +1,5 @@
 [
   {
-    "id": "non-verbal-reasoning-012",
-    "q": {
-      "en": "If a figure is rotated 90° clockwise, a vertical line becomes?",
-      "as": "৯০° সোঁফালে ঘূৰালে উলম্ব ৰেখা কি হয়?"
-    },
-    "options": [
-      {
-        "en": "Remains vertical",
-        "as": "উলম্বেই থাকে"
-      },
-      {
-        "en": "Diagonal only",
-        "as": "কেৱল কৰ্ণ"
-      },
-      {
-        "en": "Point",
-        "as": "বিন্দু"
-      },
-      {
-        "en": "Horizontal line",
-        "as": "অনুভূমিক ৰেখা"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "When a figure is rotated 90° clockwise, a vertical line turns through a right angle and becomes a horizontal line.",
-      "as": "কোনো চিত্ৰ ৯০° সোঁফালে ঘূৰালে উলম্ব ৰেখাই সমকোণ ঘূৰি অনুভূমিক ৰেখা হয়।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-027",
-    "q": {
-      "en": "Series of shaded squares in a 2×2: 1 shaded, 2 shaded, 3 shaded, next is?",
-      "as": "২×২ বৰ্গত ছাঁ: ১, ২, ৩, পৰৱৰ্তী?"
-    },
-    "options": [
-      {
-        "en": "0 shaded",
-        "as": "০ ছাঁ"
-      },
-      {
-        "en": "4 shaded",
-        "as": "৪ ছাঁ"
-      },
-      {
-        "en": "2 shaded",
-        "as": "২ ছাঁ"
-      },
-      {
-        "en": "5 shaded",
-        "as": "৫ ছাঁ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The number of shaded squares increases by one in each step (1, 2, 3), so the next figure has 4 shaded squares.",
-      "as": "ছাঁ দিয়া বৰ্গৰ সংখ্যা প্ৰতিটো ধাপত এটা বাঢ়ে (১, ২, ৩), সেয়ে পৰৱৰ্তী চিত্ৰত ৪ টা ছাঁ দিয়া বৰ্গ থাকিব।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-052",
-    "q": {
-      "en": "Figure series of arrows pointing N, E, S, next points?",
-      "as": "কাঁড় শ্ৰেণী: উত্তৰ, পূব, দক্ষিণ, পৰৱৰ্তী?"
-    },
-    "options": [
-      {
-        "en": "North",
-        "as": "উত্তৰ"
-      },
-      {
-        "en": "West",
-        "as": "পশ্চিম"
-      },
-      {
-        "en": "South",
-        "as": "দক্ষিণ"
-      },
-      {
-        "en": "East",
-        "as": "পূব"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The arrow rotates 90° clockwise at each step (North→East→South), so the next direction in the series is West.",
-      "as": "কাঁড়ডাল প্ৰতিটো স্তৰত ৯০° ঘড়ীৰ দিশে ঘূৰে (উত্তৰ→পূব→দক্ষিণ), সেয়ে শ্ৰেণীটোৰ পৰৱৰ্তী দিশ পশ্চিম।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-054",
-    "q": {
-      "en": "Rotation of 360° of any figure gives?",
-      "as": "যিকোনো চিত্ৰ ৩৬০° ঘূৰালে কি পোৱা যায়?"
-    },
-    "options": [
-      {
-        "en": "Mirror image",
-        "as": "দাপোন প্ৰতিবিম্ব"
-      },
-      {
-        "en": "The original figure",
-        "as": "মূল চিত্ৰ"
-      },
-      {
-        "en": "Water image",
-        "as": "জল প্ৰতিবিম্ব"
-      },
-      {
-        "en": "A different size",
-        "as": "বেলেগ আকাৰ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "A rotation of 360° is a complete turn that brings every point of the figure back to its starting position, so the original figure is obtained.",
-      "as": "৩৬০° ঘূৰ্ণন এটা সম্পূৰ্ণ ঘূৰণ, যিয়ে চিত্ৰৰ প্ৰতিটো বিন্দু নিজৰ স্থানলৈ ঘূৰাই আনে, সেয়ে মূল চিত্ৰ পোৱা যায়।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-059",
-    "q": {
-      "en": "A rectangle rotated 90° in plane remains a?",
-      "as": "আয়তক সমতলত ৯০° ঘূৰালে কি থাকে?"
-    },
-    "options": [
-      {
-        "en": "Square always",
-        "as": "সদায় বৰ্গ"
-      },
-      {
-        "en": "Circle",
-        "as": "বৃত্ত"
-      },
-      {
-        "en": "Rectangle",
-        "as": "আয়ত"
-      },
-      {
-        "en": "Triangle",
-        "as": "ত্ৰিভুজ"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "Rotating a rectangle by 90° in its own plane changes its orientation but not its side lengths or angles, so it remains a rectangle.",
-      "as": "আয়তক তাৰ সমতলত ৯০° ঘূৰালে অৱস্থান সলনি হয় কিন্তু বাহুৰ দীঘ বা কোণ নহয়, সেয়ে ই আয়তেই থাকে।"
-    }
-  },
-  {
     "id": "nv-figure-series-001",
     "leaf": "figure-series",
     "q": {
@@ -3603,6 +3453,156 @@
     "explanation": {
       "en": "The shading alternates at every step, so the fourth figure must be unshaded.",
       "as": "প্ৰতিটো পদত ছাঁয়া সলনি হয়, সেয়ে চতুৰ্থ চিত্ৰটো ছাঁয়াবিহীন হ'ব।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-012",
+    "q": {
+      "en": "If a figure is rotated 90° clockwise, a vertical line becomes?",
+      "as": "৯০° সোঁফালে ঘূৰালে উলম্ব ৰেখা কি হয়?"
+    },
+    "options": [
+      {
+        "en": "Remains vertical",
+        "as": "উলম্বেই থাকে"
+      },
+      {
+        "en": "Diagonal only",
+        "as": "কেৱল কৰ্ণ"
+      },
+      {
+        "en": "Point",
+        "as": "বিন্দু"
+      },
+      {
+        "en": "Horizontal line",
+        "as": "অনুভূমিক ৰেখা"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "When a figure is rotated 90° clockwise, a vertical line turns through a right angle and becomes a horizontal line.",
+      "as": "কোনো চিত্ৰ ৯০° সোঁফালে ঘূৰালে উলম্ব ৰেখাই সমকোণ ঘূৰি অনুভূমিক ৰেখা হয়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-027",
+    "q": {
+      "en": "Series of shaded squares in a 2×2: 1 shaded, 2 shaded, 3 shaded, next is?",
+      "as": "২×২ বৰ্গত ছাঁ: ১, ২, ৩, পৰৱৰ্তী?"
+    },
+    "options": [
+      {
+        "en": "0 shaded",
+        "as": "০ ছাঁ"
+      },
+      {
+        "en": "4 shaded",
+        "as": "৪ ছাঁ"
+      },
+      {
+        "en": "2 shaded",
+        "as": "২ ছাঁ"
+      },
+      {
+        "en": "5 shaded",
+        "as": "৫ ছাঁ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The number of shaded squares increases by one in each step (1, 2, 3), so the next figure has 4 shaded squares.",
+      "as": "ছাঁ দিয়া বৰ্গৰ সংখ্যা প্ৰতিটো ধাপত এটা বাঢ়ে (১, ২, ৩), সেয়ে পৰৱৰ্তী চিত্ৰত ৪ টা ছাঁ দিয়া বৰ্গ থাকিব।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-052",
+    "q": {
+      "en": "Figure series of arrows pointing N, E, S, next points?",
+      "as": "কাঁড় শ্ৰেণী: উত্তৰ, পূব, দক্ষিণ, পৰৱৰ্তী?"
+    },
+    "options": [
+      {
+        "en": "North",
+        "as": "উত্তৰ"
+      },
+      {
+        "en": "West",
+        "as": "পশ্চিম"
+      },
+      {
+        "en": "South",
+        "as": "দক্ষিণ"
+      },
+      {
+        "en": "East",
+        "as": "পূব"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The arrow rotates 90° clockwise at each step (North→East→South), so the next direction in the series is West.",
+      "as": "কাঁড়ডাল প্ৰতিটো স্তৰত ৯০° ঘড়ীৰ দিশে ঘূৰে (উত্তৰ→পূব→দক্ষিণ), সেয়ে শ্ৰেণীটোৰ পৰৱৰ্তী দিশ পশ্চিম।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-054",
+    "q": {
+      "en": "Rotation of 360° of any figure gives?",
+      "as": "যিকোনো চিত্ৰ ৩৬০° ঘূৰালে কি পোৱা যায়?"
+    },
+    "options": [
+      {
+        "en": "Mirror image",
+        "as": "দাপোন প্ৰতিবিম্ব"
+      },
+      {
+        "en": "The original figure",
+        "as": "মূল চিত্ৰ"
+      },
+      {
+        "en": "Water image",
+        "as": "জল প্ৰতিবিম্ব"
+      },
+      {
+        "en": "A different size",
+        "as": "বেলেগ আকাৰ"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A rotation of 360° is a complete turn that brings every point of the figure back to its starting position, so the original figure is obtained.",
+      "as": "৩৬০° ঘূৰ্ণন এটা সম্পূৰ্ণ ঘূৰণ, যিয়ে চিত্ৰৰ প্ৰতিটো বিন্দু নিজৰ স্থানলৈ ঘূৰাই আনে, সেয়ে মূল চিত্ৰ পোৱা যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-059",
+    "q": {
+      "en": "A rectangle rotated 90° in plane remains a?",
+      "as": "আয়তক সমতলত ৯০° ঘূৰালে কি থাকে?"
+    },
+    "options": [
+      {
+        "en": "Square always",
+        "as": "সদায় বৰ্গ"
+      },
+      {
+        "en": "Circle",
+        "as": "বৃত্ত"
+      },
+      {
+        "en": "Rectangle",
+        "as": "আয়ত"
+      },
+      {
+        "en": "Triangle",
+        "as": "ত্ৰিভুজ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Rotating a rectangle by 90° in its own plane changes its orientation but not its side lengths or angles, so it remains a rectangle.",
+      "as": "আয়তক তাৰ সমতলত ৯০° ঘূৰালে অৱস্থান সলনি হয় কিন্তু বাহুৰ দীঘ বা কোণ নহয়, সেয়ে ই আয়তেই থাকে।"
     }
   }
 ]

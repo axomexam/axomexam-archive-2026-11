@@ -13,6 +13,25 @@ def norm(s):
     return re.sub(r"[^a-z0-9]+", " ", str(s).lower()).strip()
 
 
+def has_fig(q):
+    if str(q.get("fig") or "").strip():
+        return True
+    return any(str(o.get("fig") or "").strip()
+               for o in (q.get("options") or []) if isinstance(o, dict))
+
+
+def order_leaf(bank, leaf):
+    """Figure questions first, text-only (definition) questions last."""
+    idx = [i for i, q in enumerate(bank) if q.get("leaf") == leaf]
+    if not idx:
+        return bank
+    items = [bank[i] for i in idx]
+    ordered = [q for q in items if has_fig(q)] + [q for q in items if not has_fig(q)]
+    for i, q in zip(idx, ordered):
+        bank[i] = q
+    return bank
+
+
 def append_nv(leaf, rows):
     """Rows: stem, stem_as, fig, options[(en, as, fig)], correct, exp_en, exp_as."""
     bank = json.load(open(BANK))
@@ -48,6 +67,7 @@ def append_nv(leaf, rows):
             "explanation": {"en": r["exp_en"], "as": r["exp_as"]},
         })
     bank.extend(out)
+    bank = order_leaf(bank, leaf)
     json.dump(bank, open(BANK, "w"), ensure_ascii=False, indent=2)
     print(f"{leaf}: added {len(out)} (bank {len(bank)})")
     return len(out)

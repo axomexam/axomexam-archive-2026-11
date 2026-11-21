@@ -416,6 +416,21 @@ for (const sec of EXAM.sections) {
   }
 }
 
+/* Non-verbal pages open with figure questions: the definition-style items that
+   carry no drawing read badly as an opener, so they move to the end of the
+   topic while keeping their relative order. */
+const NV_LEAVES = (LEGACY_BANKS.find((b) => b[1] === "non-verbal-reasoning") || [null, null, null, []])[3];
+const hasFigure = (q) =>
+  Boolean(q && String(q.fig || "").trim()) ||
+  (Array.isArray(q && q.options) &&
+    q.options.some((o) => o && String(o.fig || "").trim()));
+for (const id of NV_LEAVES) {
+  const key = `${EXAM_ID}:${id}`;
+  const list = BANKS[key];
+  if (!list) continue;
+  BANKS[key] = [...list.filter(hasFigure), ...list.filter((q) => !hasFigure(q))];
+}
+
 for (const [key, list] of Object.entries(BANKS)) BANK_COUNT[key] = list.length;
 
 /* ---- shared page builder ---- */

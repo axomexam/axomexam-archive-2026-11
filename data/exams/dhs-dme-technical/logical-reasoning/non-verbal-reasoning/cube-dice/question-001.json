@@ -1,432 +1,12 @@
 [
   {
-    "id": "non-verbal-reasoning-006",
-    "q": {
-      "en": "A cube painted on all sides then cut into 8 small cubes (2×2×2). Small cubes with 3 faces painted = ?",
-      "as": "সকলো পিঠি ৰং কৰি ৮ টালে কাটিলে ৩ পিঠি ৰঙা সৰু ঘনক?"
-    },
-    "options": [
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "6",
-        "as": "৬"
-      },
-      {
-        "en": "8",
-        "as": "৮"
-      },
-      {
-        "en": "2",
-        "as": "২"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "In a 2×2×2 cut every small cube lies at a corner of the big cube, and every corner cube has exactly 3 painted faces; hence all 8 small cubes qualify.",
-      "as": "২×২×২ কাটত প্ৰতিটো সৰু ঘনক ডাঙৰ ঘনকৰ কোণত থাকে আৰু প্ৰতিটো কোণৰ ঘনকৰ ঠিক ৩ টা পিঠি ৰঙা হয়; সেয়ে মুঠ ৮ টা।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-018",
-    "q": {
-      "en": "Odd one: Cube, Sphere, Cylinder, Triangle",
-      "as": "বেলেগটো: ঘনক, গোলক, চিলিণ্ডাৰ, ত্ৰিভুজ"
-    },
-    "options": [
-      {
-        "en": "Triangle",
-        "as": "ত্ৰিভুজ"
-      },
-      {
-        "en": "Cube",
-        "as": "ঘনক"
-      },
-      {
-        "en": "Sphere",
-        "as": "গোলক"
-      },
-      {
-        "en": "Cylinder",
-        "as": "চিলিণ্ডাৰ"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "Triangle is a two-dimensional plane figure, whereas cube, sphere and cylinder are three-dimensional solids.",
-      "as": "ত্ৰিভুজ এটা দ্বিমাত্ৰিক সমতল আকৃতি, কিন্তু ঘনক, গোলক আৰু চিলিণ্ডাৰ ত্ৰিমাত্ৰিক কঠিন বস্তু।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-022",
-    "q": {
-      "en": "If 1, 2, 3 faces of a dice meet at a corner, the opposite of 1 cannot be?",
-      "as": "পাশাৰ ১, ২, ৩ একে কোণত মিলিলে ১-ৰ বিপৰীতে কি নহ’ব?"
-    },
-    "options": [
-      {
-        "en": "2 or 3",
-        "as": "২ বা ৩"
-      },
-      {
-        "en": "6 only always unknown",
-        "as": "কেৱল ৬"
-      },
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "5",
-        "as": "৫"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "Faces meeting at one corner are mutually adjacent, and adjacent faces can never be opposite. Since 1, 2 and 3 meet together, both 2 and 3 are adjacent to 1, so the opposite of 1 cannot be 2 or 3.",
-      "as": "একে কোণত মিলা পিঠিবোৰ পৰস্পৰ সংলগ্ন, আৰু সংলগ্ন পিঠি কেতিয়াও বিপৰীত নহয়। ১, ২, ৩ একে কোণত থকা বাবে ২ আৰু ৩ দুয়ো ১-ৰ সংলগ্ন, সেয়ে ১-ৰ বিপৰীত ২ বা ৩ হ'ব নোৱাৰে।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-025",
-    "q": {
-      "en": "In a 3×3×3 painted cube, number of small cubes with only 1 face painted is?",
-      "as": "৩×৩×৩ ৰঙা ঘনকত কেৱল ১ পিঠি ৰঙা সৰু ঘনক কিমান?"
-    },
-    "options": [
-      {
-        "en": "8",
-        "as": "৮"
-      },
-      {
-        "en": "6",
-        "as": "৬"
-      },
-      {
-        "en": "12",
-        "as": "১২"
-      },
-      {
-        "en": "1",
-        "as": "১"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "In a 3×3×3 painted cube, small cubes with exactly one face painted lie at the centre of each of the 6 faces, giving 6.",
-      "as": "৩×৩×৩ ৰঙা ঘনকত কেৱল এটা পিঠি ৰঙা সৰু ঘনকবোৰ ৬ টা পিঠিৰ প্ৰতিখনৰ কেন্দ্ৰত থাকে, সেয়ে মুঠ ৬ টা।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-026",
-    "q": {
-      "en": "In a 3×3×3 painted cube, number of small cubes with 2 faces painted is?",
-      "as": "৩×৩×৩ ৰঙা ঘনকত ২ পিঠি ৰঙা সৰু ঘনক কিমান?"
-    },
-    "options": [
-      {
-        "en": "6",
-        "as": "৬"
-      },
-      {
-        "en": "12",
-        "as": "১২"
-      },
-      {
-        "en": "8",
-        "as": "৮"
-      },
-      {
-        "en": "24",
-        "as": "২৪"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Cubes with exactly two faces painted lie on the edges excluding the corners; a cube has 12 edges, each giving one such cube, so 12.",
-      "as": "২ পিঠি ৰঙা সৰু ঘনকবোৰ কাষত (কোণ বাদ দি) থাকে; ঘনকৰ ১২ ডাল কাষ থাকে, প্ৰতিডালৰ পৰা এটাকৈ, মুঠ ১২।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-035",
-    "q": {
-      "en": "A cube net cannot have which arrangement?",
-      "as": "ঘনকৰ নেট কোনটো নহ’ব?"
-    },
-    "options": [
-      {
-        "en": "A straight row of 4 squares plus 2 attached on sides of second square",
-        "as": "৪ বৰ্গৰ শাৰী আৰু দ্বিতীয়ৰ কাষত ২"
-      },
-      {
-        "en": "A T of 4 in a row plus 1 on each side of second",
-        "as": "টি আকৃতি"
-      },
-      {
-        "en": "A 2×3 rectangle of 6 squares",
-        "as": "২×৩ আয়তত ৬ বৰ্গ"
-      },
-      {
-        "en": "A zigzag of 6 valid tree",
-        "as": "বৈধ জিগজেগ"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "A 2×3 block of six squares folds onto itself with overlapping faces and cannot close into a cube; valid cube nets are cross or T-type arrangements instead.",
-      "as": "৬ টা বৰ্গৰ ২×৩ আয়তটো ভাঁজ কৰিলে বৰ্গবোৰ ওপৰত পৰি যায় আৰু বন্ধ ঘনক নহয়; ক্ৰছ বা টি আকৃতিৰ নেটেহে ঘনক গঠন কৰে।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-041",
-    "q": {
-      "en": "If each side of a cube is doubled, its number of faces?",
-      "as": "ঘনকৰ প্ৰতি বাহু দুগুণ কৰিলে পিঠিৰ সংখ্যা?"
-    },
-    "options": [
-      {
-        "en": "Becomes 12",
-        "as": "১২ হয়"
-      },
-      {
-        "en": "Becomes 8",
-        "as": "৮ হয়"
-      },
-      {
-        "en": "Becomes 24",
-        "as": "২৪ হয়"
-      },
-      {
-        "en": "Remains 6",
-        "as": "৬-এই থাকে"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The number of faces is a shape property; doubling each side of a cube changes its size and volume but it still has 6 faces.",
-      "as": "পিঠিৰ সংখ্যা এটা আকৃতিৰ ধৰ্ম; ঘনকৰ প্ৰতি বাহু দুগুণ কৰিলে আকাৰ আৰু আয়তন সলনি হয়, কিন্তু পিঠি ৬-এই থাকে।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-044",
-    "q": {
-      "en": "Cube : 6 faces :: Cuboid : ?",
-      "as": "ঘনক : ৬ পিঠি :: ঘনাকৃতি : ?"
-    },
-    "options": [
-      {
-        "en": "6",
-        "as": "৬"
-      },
-      {
-        "en": "8",
-        "as": "৮"
-      },
-      {
-        "en": "12",
-        "as": "১২"
-      },
-      {
-        "en": "4",
-        "as": "৪"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "A cube has 6 faces, and a cuboid is also a solid with 6 rectangular faces, so the analogy Cube : 6 :: Cuboid : 6 gives 6.",
-      "as": "ঘনকৰ ৬ টা পিঠি থাকে; ঘনাকৃতিও এটা ঘনবস্তু যাৰ ৬ টা আয়তাকাৰ পিঠি থাকে, সেয়ে ঘনক : ৬ :: ঘনাকৃতি : ৬, অৰ্থাৎ উত্তৰ ৬।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-050",
-    "q": {
-      "en": "If a dice shows 4 on top and 2 in front, which cannot be on the bottom if 4 opposite 3?",
-      "as": "পাশাত ওপৰত ৪, সন্মুখত ২। যদি ৪-ৰ বিপৰীতে ৩, তলত কি নহ’ব?"
-    },
-    "options": [
-      {
-        "en": "3",
-        "as": "৩"
-      },
-      {
-        "en": "3 is on bottom so 2 cannot be bottom",
-        "as": "তলত ৩ সেয়ে ২ তলত নহয়"
-      },
-      {
-        "en": "5",
-        "as": "৫"
-      },
-      {
-        "en": "6",
-        "as": "৬"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Faces 4 and 3 are opposite, so if 4 is on top then 3 must be on the bottom; since 2 is already at the front, 2 cannot also be on the bottom.",
-      "as": "৪ আৰু ৩ পৰস্পৰ বিপৰীত, সেয়ে ওপৰত ৪ হ'লে তলত ৩ থাকিবই; ২ সন্মুখত থকা বাবে তলতো থাকিব নোৱাৰে।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-056",
-    "q": {
-      "en": "A 4×4×4 cube painted outside then cut into 1×1 cubes. Unpainted inner cubes = ?",
-      "as": "৪×৪×৪ বাহিৰে ৰং কৰি কাটিলে ভিতৰৰ ৰং নোহোৱা ঘনক?"
-    },
-    "options": [
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "16",
-        "as": "১৬"
-      },
-      {
-        "en": "8",
-        "as": "৮"
-      },
-      {
-        "en": "27",
-        "as": "২৭"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "Only the inner cubes with no face on the surface remain unpainted; for a 4×4×4 cube this is (4−2)³ = 2³ = 8.",
-      "as": "কেৱল ভিতৰৰ যিবোৰ ঘনকৰ কোনো পিঠি বাহিৰৰ পৃষ্ঠত নাই সেইবোৰ ৰং নোহোৱা থাকে; ৪×৪×৪ ঘনকৰ বাবে ই (৪−২)³ = ৮।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-064",
-    "q": {
-      "en": "A cube viewed from front shows a square. From a vertex view it can look like a?",
-      "as": "সন্মুখৰ পৰা ঘনক বৰ্গ দেখা যায়। শীৰ্ষৰ পৰা কেনে দেখা যাব পাৰে?"
-    },
-    "options": [
-      {
-        "en": "Circle",
-        "as": "বৃত্ত"
-      },
-      {
-        "en": "Single line",
-        "as": "এডাল ৰেখা"
-      },
-      {
-        "en": "Triangle only always",
-        "as": "সদায় কেৱল ত্ৰিভুজ"
-      },
-      {
-        "en": "Hexagon",
-        "as": "ষড়ভুজ"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "A cube viewed along a body diagonal, i.e. from a vertex, projects as a regular hexagon, so hexagon is correct.",
-      "as": "ঘনক এটা শীৰ্ষবিন্দুৰ পৰা কৰ্ণৰ দিশে চালে নিয়মিত ষড়ভুজ হিচাপে দেখা যায়, সেয়ে ষড়ভুজ শুদ্ধ।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-071",
-    "q": {
-      "en": "A 3x3x3 cube is painted on all faces and cut into small cubes. How many small cubes have exactly two painted faces?",
-      "as": "৩×৩×৩ ঘনকৰ সকলো পিঠিত ৰং কৰি সৰু ঘনকত কাটিলে ঠিক দুটা পিঠি ৰঙা সৰু ঘনক কিমান?"
-    },
-    "options": [
-      {
-        "en": "6",
-        "as": "৬"
-      },
-      {
-        "en": "12",
-        "as": "১২"
-      },
-      {
-        "en": "8",
-        "as": "৮"
-      },
-      {
-        "en": "1",
-        "as": "১"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The small cubes at the middle of each edge have exactly two painted faces; a cube has 12 edges, so there are 12 such cubes.",
-      "as": "প্ৰতিটো ধাৰৰ মাজত থকা সৰু ঘনকত ঠিক দুটা ৰঙা পিঠি থাকে; ঘনকৰ ১২টা ধাৰ, সেয়ে এনে ১২টা ঘনক আছে।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-072",
-    "q": {
-      "en": "On a dice, opposite faces add up to 7. If 3 is on top, which number is at the bottom?",
-      "as": "পাশাত বিপৰীত পিঠিৰ যোগফল ৭। যদি ৩ ওপৰত থাকে, তলৰ সংখ্যা কি?"
-    },
-    "options": [
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "3",
-        "as": "৩"
-      },
-      {
-        "en": "2",
-        "as": "২"
-      },
-      {
-        "en": "5",
-        "as": "৫"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The bottom face is opposite the top face, so it is 7 - 3 = 4.",
-      "as": "তলৰ পিঠি ওপৰৰ পিঠিৰ বিপৰীত, সেয়ে ই ৭ − ৩ = ৪।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-080",
-    "q": {
-      "en": "How many squares are needed to make the net of a cube?",
-      "as": "ঘনকৰ জাল বনাবলৈ কিমানটা বৰ্গ লাগে?"
-    },
-    "options": [
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "6",
-        "as": "৬"
-      },
-      {
-        "en": "8",
-        "as": "৮"
-      },
-      {
-        "en": "12",
-        "as": "১২"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "A cube has 6 faces, so its net is made of 6 squares.",
-      "as": "ঘনকৰ ৬টা পিঠি, সেয়ে ইয়াৰ জাল ৬টা বৰ্গৰে গঠিত।"
-    }
-  },
-  {
     "id": "nv-cube-dice-001",
     "leaf": "cube-dice",
     "q": {
       "en": "A standard die shows 1 on its top face. The number on the face opposite it is",
       "as": "এটা প্ৰামাণ্য লুডুত ওপৰৰ পিঠিত ১ আছে। ইয়াৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></svg>",
     "options": [
       {
         "en": "2",
@@ -462,7 +42,7 @@
       "en": "A standard die shows 2 on its top face. The number on the face opposite it is",
       "as": "এটা প্ৰামাণ্য লুডুত ওপৰৰ পিঠিত ২ আছে। ইয়াৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></svg>",
     "options": [
       {
         "en": "1",
@@ -498,7 +78,7 @@
       "en": "A standard die shows 3 on its top face. The number on the face opposite it is",
       "as": "এটা প্ৰামাণ্য লুডুত ওপৰৰ পিঠিত ৩ আছে। ইয়াৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></svg>",
     "options": [
       {
         "en": "1",
@@ -534,7 +114,7 @@
       "en": "A standard die shows 4 on its top face. The number on the face opposite it is",
       "as": "এটা প্ৰামাণ্য লুডুত ওপৰৰ পিঠিত ৪ আছে। ইয়াৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></svg>",
     "options": [
       {
         "en": "1",
@@ -570,7 +150,7 @@
       "en": "A standard die shows 5 on its top face. The number on the face opposite it is",
       "as": "এটা প্ৰামাণ্য লুডুত ওপৰৰ পিঠিত ৫ আছে। ইয়াৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></svg>",
     "options": [
       {
         "en": "1",
@@ -606,7 +186,7 @@
       "en": "A standard die shows 6 on its top face. The number on the face opposite it is",
       "as": "এটা প্ৰামাণ্য লুডুত ওপৰৰ পিঠিত ৬ আছে। ইয়াৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"17.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"35.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"80\" height=\"80\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"42.7\" cy=\"21.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"57.3\" cy=\"30.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></svg>",
     "options": [
       {
         "en": "1",
@@ -642,7 +222,7 @@
       "en": "Two views of the same die show 1, 2 and 3 in the first view and 1, 4 and 5 in the second. The number on the face opposite 1 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ১, ২, ৩ আৰু দ্বিতীয়ত ১, ৪, ৫ দেখা গৈছে। ১ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"28.7\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -678,7 +258,7 @@
       "en": "Two views of the same die show 1, 2 and 4 in the first view and 1, 3 and 6 in the second. The number on the face opposite 1 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ১, ২, ৪ আৰু দ্বিতীয়ত ১, ৩, ৬ দেখা গৈছে। ১ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -714,7 +294,7 @@
       "en": "Two views of the same die show 2, 1 and 3 in the first view and 2, 5 and 6 in the second. The number on the face opposite 2 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ২, ১, ৩ আৰু দ্বিতীয়ত ২, ৫, ৬ দেখা গৈছে। ২ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"28.7\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -750,7 +330,7 @@
       "en": "Two views of the same die show 2, 4 and 6 in the first view and 2, 1 and 5 in the second. The number on the face opposite 2 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ২, ৪, ৬ আৰু দ্বিতীয়ত ২, ১, ৫ দেখা গৈছে। ২ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"28.7\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -786,7 +366,7 @@
       "en": "Two views of the same die show 3, 1 and 4 in the first view and 3, 2 and 6 in the second. The number on the face opposite 3 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ৩, ১, ৪ আৰু দ্বিতীয়ত ৩, ২, ৬ দেখা গৈছে। ৩ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "5",
@@ -822,7 +402,7 @@
       "en": "Two views of the same die show 3, 5 and 6 in the first view and 3, 2 and 4 in the second. The number on the face opposite 3 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ৩, ৫, ৬ আৰু দ্বিতীয়ত ৩, ২, ৪ দেখা গৈছে। ৩ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"28.7\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -858,7 +438,7 @@
       "en": "Two views of the same die show 4, 1 and 2 in the first view and 4, 3 and 5 in the second. The number on the face opposite 4 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ৪, ১, ২ আৰু দ্বিতীয়ত ৪, ৩, ৫ দেখা গৈছে। ৪ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -894,7 +474,7 @@
       "en": "Two views of the same die show 4, 5 and 6 in the first view and 4, 1 and 3 in the second. The number on the face opposite 4 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ৪, ৫, ৬ আৰু দ্বিতীয়ত ৪, ১, ৩ দেখা গৈছে। ৪ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"28.7\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -930,7 +510,7 @@
       "en": "Two views of the same die show 5, 1 and 6 in the first view and 5, 2 and 3 in the second. The number on the face opposite 5 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ৫, ১, ৬ আৰু দ্বিতীয়ত ৫, ২, ৩ দেখা গৈছে। ৫ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -966,7 +546,7 @@
       "en": "Two views of the same die show 5, 2 and 4 in the first view and 5, 1 and 6 in the second. The number on the face opposite 5 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ৫, ২, ৪ আৰু দ্বিতীয়ত ৫, ১, ৬ দেখা গৈছে। ৫ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -1002,7 +582,7 @@
       "en": "Two views of the same die show 6, 1 and 2 in the first view and 6, 3 and 4 in the second. The number on the face opposite 6 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ৬, ১, ২ আৰু দ্বিতীয়ত ৬, ৩, ৪ দেখা গৈছে। ৬ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"17.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"35.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"17.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"35.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"42.7\" cy=\"21.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"57.3\" cy=\"30.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"42.7\" cy=\"21.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"57.3\" cy=\"30.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -1038,7 +618,7 @@
       "en": "Two views of the same die show 6, 3 and 5 in the first view and 6, 1 and 4 in the second. The number on the face opposite 6 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ৬, ৩, ৫ আৰু দ্বিতীয়ত ৬, ১, ৪ দেখা গৈছে। ৬ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"17.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"35.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"17.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"35.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"42.7\" cy=\"21.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"57.3\" cy=\"30.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"42.7\" cy=\"21.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"57.3\" cy=\"30.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "2",
@@ -1074,7 +654,7 @@
       "en": "Two views of the same die show 1, 5 and 6 in the first view and 1, 2 and 4 in the second. The number on the face opposite 1 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ১, ৫, ৬ আৰু দ্বিতীয়ত ১, ২, ৪ দেখা গৈছে। ১ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"28.7\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "1",
@@ -1110,7 +690,7 @@
       "en": "Two views of the same die show 2, 3 and 5 in the first view and 2, 4 and 6 in the second. The number on the face opposite 2 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ২, ৩, ৫ আৰু দ্বিতীয়ত ২, ৪, ৬ দেখা গৈছে। ২ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"28.7\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "2",
@@ -1146,7 +726,7 @@
       "en": "Two views of the same die show 3, 2 and 6 in the first view and 3, 4 and 5 in the second. The number on the face opposite 3 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ৩, ২, ৬ আৰু দ্বিতীয়ত ৩, ৪, ৫ দেখা গৈছে। ৩ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"28.7\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "2",
@@ -1182,7 +762,7 @@
       "en": "Two views of the same die show 4, 2 and 3 in the first view and 4, 5 and 6 in the second. The number on the face opposite 4 is",
       "as": "একে লুডুৰ দুটা দৃশ্যত প্ৰথমত ৪, ২, ৩ আৰু দ্বিতীয়ত ৪, ৫, ৬ দেখা গৈছে। ৪ ৰ বিপৰীত পিঠিৰ সংখ্যা"
     },
-    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"8.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"22.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"22.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"50.0\" cy=\"44.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"61.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"78.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"26.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"43.0\" r=\"2.6\" fill=\"#0f172a\"/><circle cx=\"78.0\" cy=\"60.0\" r=\"2.6\" fill=\"#0f172a\"/></g></g></svg>",
+    "fig": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\" width=\"120\" height=\"120\" role=\"img\" aria-label=\"figure\"><g stroke=\"#0f172a\" stroke-width=\"3\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"><g transform=\"translate(0 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g><g transform=\"translate(48 0) scale(0.52)\"><polygon points=\"50,8 78,26 50,44 22,26\" fill=\"none\"/><circle cx=\"50.0\" cy=\"16.6\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"64.6\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"35.4\" cy=\"26.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"50.0\" cy=\"35.4\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"22,26 50,44 50,78 22,60\" fill=\"none\"/><circle cx=\"28.7\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"36.0\" cy=\"52.0\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"28.7\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"43.3\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><polygon points=\"50,44 78,26 78,60 50,78\" fill=\"none\"/><circle cx=\"56.7\" cy=\"47.8\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"56.7\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"56.7\" cy=\"65.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"38.5\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"47.3\" r=\"2.3\" fill=\"#0f172a\"/><circle cx=\"71.3\" cy=\"56.2\" r=\"2.3\" fill=\"#0f172a\"/></g></g></svg>",
     "options": [
       {
         "en": "2",
@@ -4701,6 +4281,426 @@
     "explanation": {
       "en": "All 343 cubes minus the 125 inner ones gives 218.",
       "as": "মুঠ ৩৪৩ ৰপৰা ভিতৰৰ ১২৫ টা বাদ দিলে ২১৮ টা পোৱা যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-006",
+    "q": {
+      "en": "A cube painted on all sides then cut into 8 small cubes (2×2×2). Small cubes with 3 faces painted = ?",
+      "as": "সকলো পিঠি ৰং কৰি ৮ টালে কাটিলে ৩ পিঠি ৰঙা সৰু ঘনক?"
+    },
+    "options": [
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "In a 2×2×2 cut every small cube lies at a corner of the big cube, and every corner cube has exactly 3 painted faces; hence all 8 small cubes qualify.",
+      "as": "২×২×২ কাটত প্ৰতিটো সৰু ঘনক ডাঙৰ ঘনকৰ কোণত থাকে আৰু প্ৰতিটো কোণৰ ঘনকৰ ঠিক ৩ টা পিঠি ৰঙা হয়; সেয়ে মুঠ ৮ টা।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-018",
+    "q": {
+      "en": "Odd one: Cube, Sphere, Cylinder, Triangle",
+      "as": "বেলেগটো: ঘনক, গোলক, চিলিণ্ডাৰ, ত্ৰিভুজ"
+    },
+    "options": [
+      {
+        "en": "Triangle",
+        "as": "ত্ৰিভুজ"
+      },
+      {
+        "en": "Cube",
+        "as": "ঘনক"
+      },
+      {
+        "en": "Sphere",
+        "as": "গোলক"
+      },
+      {
+        "en": "Cylinder",
+        "as": "চিলিণ্ডাৰ"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Triangle is a two-dimensional plane figure, whereas cube, sphere and cylinder are three-dimensional solids.",
+      "as": "ত্ৰিভুজ এটা দ্বিমাত্ৰিক সমতল আকৃতি, কিন্তু ঘনক, গোলক আৰু চিলিণ্ডাৰ ত্ৰিমাত্ৰিক কঠিন বস্তু।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-022",
+    "q": {
+      "en": "If 1, 2, 3 faces of a dice meet at a corner, the opposite of 1 cannot be?",
+      "as": "পাশাৰ ১, ২, ৩ একে কোণত মিলিলে ১-ৰ বিপৰীতে কি নহ’ব?"
+    },
+    "options": [
+      {
+        "en": "2 or 3",
+        "as": "২ বা ৩"
+      },
+      {
+        "en": "6 only always unknown",
+        "as": "কেৱল ৬"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "Faces meeting at one corner are mutually adjacent, and adjacent faces can never be opposite. Since 1, 2 and 3 meet together, both 2 and 3 are adjacent to 1, so the opposite of 1 cannot be 2 or 3.",
+      "as": "একে কোণত মিলা পিঠিবোৰ পৰস্পৰ সংলগ্ন, আৰু সংলগ্ন পিঠি কেতিয়াও বিপৰীত নহয়। ১, ২, ৩ একে কোণত থকা বাবে ২ আৰু ৩ দুয়ো ১-ৰ সংলগ্ন, সেয়ে ১-ৰ বিপৰীত ২ বা ৩ হ'ব নোৱাৰে।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-025",
+    "q": {
+      "en": "In a 3×3×3 painted cube, number of small cubes with only 1 face painted is?",
+      "as": "৩×৩×৩ ৰঙা ঘনকত কেৱল ১ পিঠি ৰঙা সৰু ঘনক কিমান?"
+    },
+    "options": [
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "In a 3×3×3 painted cube, small cubes with exactly one face painted lie at the centre of each of the 6 faces, giving 6.",
+      "as": "৩×৩×৩ ৰঙা ঘনকত কেৱল এটা পিঠি ৰঙা সৰু ঘনকবোৰ ৬ টা পিঠিৰ প্ৰতিখনৰ কেন্দ্ৰত থাকে, সেয়ে মুঠ ৬ টা।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-026",
+    "q": {
+      "en": "In a 3×3×3 painted cube, number of small cubes with 2 faces painted is?",
+      "as": "৩×৩×৩ ৰঙা ঘনকত ২ পিঠি ৰঙা সৰু ঘনক কিমান?"
+    },
+    "options": [
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "24",
+        "as": "২৪"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Cubes with exactly two faces painted lie on the edges excluding the corners; a cube has 12 edges, each giving one such cube, so 12.",
+      "as": "২ পিঠি ৰঙা সৰু ঘনকবোৰ কাষত (কোণ বাদ দি) থাকে; ঘনকৰ ১২ ডাল কাষ থাকে, প্ৰতিডালৰ পৰা এটাকৈ, মুঠ ১২।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-035",
+    "q": {
+      "en": "A cube net cannot have which arrangement?",
+      "as": "ঘনকৰ নেট কোনটো নহ’ব?"
+    },
+    "options": [
+      {
+        "en": "A straight row of 4 squares plus 2 attached on sides of second square",
+        "as": "৪ বৰ্গৰ শাৰী আৰু দ্বিতীয়ৰ কাষত ২"
+      },
+      {
+        "en": "A T of 4 in a row plus 1 on each side of second",
+        "as": "টি আকৃতি"
+      },
+      {
+        "en": "A 2×3 rectangle of 6 squares",
+        "as": "২×৩ আয়তত ৬ বৰ্গ"
+      },
+      {
+        "en": "A zigzag of 6 valid tree",
+        "as": "বৈধ জিগজেগ"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A 2×3 block of six squares folds onto itself with overlapping faces and cannot close into a cube; valid cube nets are cross or T-type arrangements instead.",
+      "as": "৬ টা বৰ্গৰ ২×৩ আয়তটো ভাঁজ কৰিলে বৰ্গবোৰ ওপৰত পৰি যায় আৰু বন্ধ ঘনক নহয়; ক্ৰছ বা টি আকৃতিৰ নেটেহে ঘনক গঠন কৰে।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-041",
+    "q": {
+      "en": "If each side of a cube is doubled, its number of faces?",
+      "as": "ঘনকৰ প্ৰতি বাহু দুগুণ কৰিলে পিঠিৰ সংখ্যা?"
+    },
+    "options": [
+      {
+        "en": "Becomes 12",
+        "as": "১২ হয়"
+      },
+      {
+        "en": "Becomes 8",
+        "as": "৮ হয়"
+      },
+      {
+        "en": "Becomes 24",
+        "as": "২৪ হয়"
+      },
+      {
+        "en": "Remains 6",
+        "as": "৬-এই থাকে"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The number of faces is a shape property; doubling each side of a cube changes its size and volume but it still has 6 faces.",
+      "as": "পিঠিৰ সংখ্যা এটা আকৃতিৰ ধৰ্ম; ঘনকৰ প্ৰতি বাহু দুগুণ কৰিলে আকাৰ আৰু আয়তন সলনি হয়, কিন্তু পিঠি ৬-এই থাকে।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-044",
+    "q": {
+      "en": "Cube : 6 faces :: Cuboid : ?",
+      "as": "ঘনক : ৬ পিঠি :: ঘনাকৃতি : ?"
+    },
+    "options": [
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "A cube has 6 faces, and a cuboid is also a solid with 6 rectangular faces, so the analogy Cube : 6 :: Cuboid : 6 gives 6.",
+      "as": "ঘনকৰ ৬ টা পিঠি থাকে; ঘনাকৃতিও এটা ঘনবস্তু যাৰ ৬ টা আয়তাকাৰ পিঠি থাকে, সেয়ে ঘনক : ৬ :: ঘনাকৃতি : ৬, অৰ্থাৎ উত্তৰ ৬।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-050",
+    "q": {
+      "en": "If a dice shows 4 on top and 2 in front, which cannot be on the bottom if 4 opposite 3?",
+      "as": "পাশাত ওপৰত ৪, সন্মুখত ২। যদি ৪-ৰ বিপৰীতে ৩, তলত কি নহ’ব?"
+    },
+    "options": [
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "3 is on bottom so 2 cannot be bottom",
+        "as": "তলত ৩ সেয়ে ২ তলত নহয়"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Faces 4 and 3 are opposite, so if 4 is on top then 3 must be on the bottom; since 2 is already at the front, 2 cannot also be on the bottom.",
+      "as": "৪ আৰু ৩ পৰস্পৰ বিপৰীত, সেয়ে ওপৰত ৪ হ'লে তলত ৩ থাকিবই; ২ সন্মুখত থকা বাবে তলতো থাকিব নোৱাৰে।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-056",
+    "q": {
+      "en": "A 4×4×4 cube painted outside then cut into 1×1 cubes. Unpainted inner cubes = ?",
+      "as": "৪×৪×৪ বাহিৰে ৰং কৰি কাটিলে ভিতৰৰ ৰং নোহোৱা ঘনক?"
+    },
+    "options": [
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "16",
+        "as": "১৬"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "27",
+        "as": "২৭"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "Only the inner cubes with no face on the surface remain unpainted; for a 4×4×4 cube this is (4−2)³ = 2³ = 8.",
+      "as": "কেৱল ভিতৰৰ যিবোৰ ঘনকৰ কোনো পিঠি বাহিৰৰ পৃষ্ঠত নাই সেইবোৰ ৰং নোহোৱা থাকে; ৪×৪×৪ ঘনকৰ বাবে ই (৪−২)³ = ৮।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-064",
+    "q": {
+      "en": "A cube viewed from front shows a square. From a vertex view it can look like a?",
+      "as": "সন্মুখৰ পৰা ঘনক বৰ্গ দেখা যায়। শীৰ্ষৰ পৰা কেনে দেখা যাব পাৰে?"
+    },
+    "options": [
+      {
+        "en": "Circle",
+        "as": "বৃত্ত"
+      },
+      {
+        "en": "Single line",
+        "as": "এডাল ৰেখা"
+      },
+      {
+        "en": "Triangle only always",
+        "as": "সদায় কেৱল ত্ৰিভুজ"
+      },
+      {
+        "en": "Hexagon",
+        "as": "ষড়ভুজ"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "A cube viewed along a body diagonal, i.e. from a vertex, projects as a regular hexagon, so hexagon is correct.",
+      "as": "ঘনক এটা শীৰ্ষবিন্দুৰ পৰা কৰ্ণৰ দিশে চালে নিয়মিত ষড়ভুজ হিচাপে দেখা যায়, সেয়ে ষড়ভুজ শুদ্ধ।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-071",
+    "q": {
+      "en": "A 3x3x3 cube is painted on all faces and cut into small cubes. How many small cubes have exactly two painted faces?",
+      "as": "৩×৩×৩ ঘনকৰ সকলো পিঠিত ৰং কৰি সৰু ঘনকত কাটিলে ঠিক দুটা পিঠি ৰঙা সৰু ঘনক কিমান?"
+    },
+    "options": [
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "The small cubes at the middle of each edge have exactly two painted faces; a cube has 12 edges, so there are 12 such cubes.",
+      "as": "প্ৰতিটো ধাৰৰ মাজত থকা সৰু ঘনকত ঠিক দুটা ৰঙা পিঠি থাকে; ঘনকৰ ১২টা ধাৰ, সেয়ে এনে ১২টা ঘনক আছে।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-072",
+    "q": {
+      "en": "On a dice, opposite faces add up to 7. If 3 is on top, which number is at the bottom?",
+      "as": "পাশাত বিপৰীত পিঠিৰ যোগফল ৭। যদি ৩ ওপৰত থাকে, তলৰ সংখ্যা কি?"
+    },
+    "options": [
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "The bottom face is opposite the top face, so it is 7 - 3 = 4.",
+      "as": "তলৰ পিঠি ওপৰৰ পিঠিৰ বিপৰীত, সেয়ে ই ৭ − ৩ = ৪।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-080",
+    "q": {
+      "en": "How many squares are needed to make the net of a cube?",
+      "as": "ঘনকৰ জাল বনাবলৈ কিমানটা বৰ্গ লাগে?"
+    },
+    "options": [
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "12",
+        "as": "১২"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "A cube has 6 faces, so its net is made of 6 squares.",
+      "as": "ঘনকৰ ৬টা পিঠি, সেয়ে ইয়াৰ জাল ৬টা বৰ্গৰে গঠিত।"
     }
   }
 ]

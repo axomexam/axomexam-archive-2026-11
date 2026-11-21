@@ -301,8 +301,8 @@ def bil(a, b, c, d, u, v):
 def face(quad, n):
     parts = [S.poly(quad)]
     for (u, v) in PIPS[n]:
-        x, y = bil(quad[0], quad[1], quad[2], quad[3], u / 2, v / 2)
-        parts.append(f'<circle cx="{x}" cy="{y}" r="2.6" fill="{S.INK}"/>')
+        x, y = bil(quad[0], quad[1], quad[2], quad[3], 0.24 + 0.26 * u, 0.24 + 0.26 * v)
+        parts.append(f'<circle cx="{x}" cy="{y}" r="2.3" fill="{S.INK}"/>')
     return "".join(parts)
 
 

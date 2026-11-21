@@ -1,305 +1,5 @@
 [
   {
-    "id": "non-verbal-reasoning-009",
-    "q": {
-      "en": "A rectangle has how many lines of symmetry?",
-      "as": "আয়তৰ কিমান সমমিতি ৰেখা?"
-    },
-    "options": [
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "1",
-        "as": "১"
-      },
-      {
-        "en": "2",
-        "as": "২"
-      },
-      {
-        "en": "0",
-        "as": "০"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "A rectangle that is not a square has exactly 2 lines of symmetry - the horizontal and vertical lines through the midpoints of opposite sides.",
-      "as": "বৰ্গ নোহোৱা আয়তৰ ঠিক ২ টা সমমিতি ৰেখা থাকে - বিপৰীত বাহুৰ মধ্যবিন্দুৰ মাজেৰে যোৱা অনুভূমিক আৰু উলম্ব ৰেখা।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-010",
-    "q": {
-      "en": "A square has how many lines of symmetry?",
-      "as": "বৰ্গৰ কিমান সমমিতি ৰেখা?"
-    },
-    "options": [
-      {
-        "en": "2",
-        "as": "২"
-      },
-      {
-        "en": "3",
-        "as": "৩"
-      },
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "1",
-        "as": "১"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "A square has 4 lines of symmetry: 2 through the midpoints of opposite sides and 2 along its diagonals.",
-      "as": "বৰ্গৰ ৪ টা সমমিতি ৰেখা থাকে: বিপৰীত বাহুৰ মধ্যবিন্দুৰ মাজেৰে ২ টা আৰু কৰ্ণৰ লগত ২ টা।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-023",
-    "q": {
-      "en": "Number of triangles in a figure of a triangle divided by one line from a vertex to opposite side?",
-      "as": "এটা ত্ৰিভুজ এডাল ৰেখাৰে ভাগ কৰিলে ত্ৰিভুজৰ সংখ্যা?"
-    },
-    "options": [
-      {
-        "en": "2",
-        "as": "২"
-      },
-      {
-        "en": "1",
-        "as": "১"
-      },
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "3",
-        "as": "৩"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "One line from a vertex to the opposite side gives 2 small triangles, and the original triangle makes a third, so the count is 3.",
-      "as": "এটা শীৰ্ষবিন্দুৰ পৰা বিপৰীত বাহুলৈ এডাল ৰেখা টানিলে ২ টা সৰু ত্ৰিভুজ হয়, আৰু মূল ত্ৰিভুজটো লগ হৈ মুঠ ৩ টা ত্ৰিভুজ পোৱা যায়।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-028",
-    "q": {
-      "en": "A circle has how many lines of symmetry?",
-      "as": "বৃত্তৰ কিমান সমমিতি ৰেখা?"
-    },
-    "options": [
-      {
-        "en": "1",
-        "as": "১"
-      },
-      {
-        "en": "Infinite",
-        "as": "অসীম"
-      },
-      {
-        "en": "2",
-        "as": "২"
-      },
-      {
-        "en": "4",
-        "as": "৪"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Every diameter of a circle is a line of symmetry, and a circle has infinitely many diameters, so it has infinite lines of symmetry.",
-      "as": "বৃত্তৰ প্ৰতিটো ব্যাস এডাল সমমিতি ৰেখা, আৰু বৃত্তত অসীম সংখ্যক ব্যাস থাকে, সেয়ে বৃত্তৰ সমমিতি ৰেখা অসীম।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-033",
-    "q": {
-      "en": "If a square is divided by both diagonals, number of triangles formed is?",
-      "as": "বৰ্গক দুয়ো কৰ্ণেৰে ভাগ কৰিলে ত্ৰিভুজ কিমান?"
-    },
-    "options": [
-      {
-        "en": "2",
-        "as": "২"
-      },
-      {
-        "en": "6",
-        "as": "৬"
-      },
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "8",
-        "as": "৮"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The two diagonals cut the square into 4 small triangles, and each pair of them forms a half-square triangle, so the total is 4 + 4 = 8.",
-      "as": "দুয়োখন কৰ্ণই বৰ্গটো ৪ টা সৰু ত্ৰিভুজত ভাগ কৰে, আৰু প্ৰতিযোৰে এটা আধা-বৰ্গ ত্ৰিভুজ গঠন কৰে, সেয়ে মুঠ ৪ + ৪ = ৮।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-037",
-    "q": {
-      "en": "Count of rectangles in a figure of 2×3 grid of small squares?",
-      "as": "২×৩ সৰু বৰ্গ গ্ৰিডত আয়তৰ সংখ্যা কিমান?"
-    },
-    "options": [
-      {
-        "en": "12",
-        "as": "১২"
-      },
-      {
-        "en": "6",
-        "as": "৬"
-      },
-      {
-        "en": "9",
-        "as": "৯"
-      },
-      {
-        "en": "18",
-        "as": "১৮"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "For an m×n grid, the number of rectangles is [m(m+1)/2] × [n(n+1)/2]; for a 2×3 grid this is 3 × 6 = 18.",
-      "as": "m×n গ্ৰিডত আয়তৰ সংখ্যা = [m(m+১)/২] × [n(n+১)/২]; ২×৩ গ্ৰিডৰ বাবে ৩ × ৬ = ১৮।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-048",
-    "q": {
-      "en": "In a 4×4 grid, total number of squares (all sizes) is?",
-      "as": "৪×৪ গ্ৰিডত সকলো আকাৰৰ বৰ্গৰ মুঠ সংখ্যা?"
-    },
-    "options": [
-      {
-        "en": "30",
-        "as": "৩০"
-      },
-      {
-        "en": "16",
-        "as": "১৬"
-      },
-      {
-        "en": "25",
-        "as": "২৫"
-      },
-      {
-        "en": "36",
-        "as": "৩৬"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "In an n×n grid the number of squares of all sizes is 1²+2²+...+n²; for a 4×4 grid this is 16+9+4+1 = 30.",
-      "as": "n×n গ্ৰিডত সকলো আকাৰৰ বৰ্গৰ সংখ্যা ১²+২²+...+n²; ৪×৪ গ্ৰিডৰ বাবে ই ১৬+৯+৪+১ = ৩০।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-058",
-    "q": {
-      "en": "Count of triangles in a star of David (two overlapping equilateral triangles) including small ones is commonly taught as?",
-      "as": "ডেভিদৰ তৰা (দুটা ওপৰাওপৰি সমবাহু ত্ৰিভুজ)ত ত্ৰিভুজৰ সাধাৰণ গণনা?"
-    },
-    "options": [
-      {
-        "en": "6",
-        "as": "৬"
-      },
-      {
-        "en": "5",
-        "as": "৫"
-      },
-      {
-        "en": "8",
-        "as": "৮"
-      },
-      {
-        "en": "4",
-        "as": "৪"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "In the Star of David the two large overlapping triangles together with the 6 small triangles formed by their intersections give 2 + 6 = 8 triangles.",
-      "as": "ডেভিদৰ তৰাত দুটা ডাঙৰ ওপৰাওপৰি ত্ৰিভুজ আৰু তেওঁলোকৰ ছেদৰ পৰা সৃষ্টি হোৱা ৬ টা সৰু ত্ৰিভুজ মিলি ২ + ৬ = ৮ টা ত্ৰিভুজ পোৱা যায়।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-074",
-    "q": {
-      "en": "How many squares are there in a 3x3 grid of unit squares?",
-      "as": "৩×৩ একক বৰ্গৰ গ্ৰিডত মুঠ কিমান বৰ্গ আছে?"
-    },
-    "options": [
-      {
-        "en": "9",
-        "as": "৯"
-      },
-      {
-        "en": "13",
-        "as": "১৩"
-      },
-      {
-        "en": "14",
-        "as": "১৪"
-      },
-      {
-        "en": "16",
-        "as": "১৬"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "There are 9 one-by-one squares, 4 two-by-two squares and 1 three-by-three square, giving 9 + 4 + 1 = 14.",
-      "as": "৯টা ১×১, ৪টা ২×২ আৰু ১টা ৩×৩ বৰ্গ আছে, মুঠ ৯ + ৪ + ১ = ১৪।"
-    }
-  },
-  {
-    "id": "non-verbal-reasoning-078",
-    "q": {
-      "en": "How many lines of symmetry does a square have?",
-      "as": "এটা বৰ্গৰ কিমান সমমিতি ৰেখা থাকে?"
-    },
-    "options": [
-      {
-        "en": "2",
-        "as": "২"
-      },
-      {
-        "en": "3",
-        "as": "৩"
-      },
-      {
-        "en": "4",
-        "as": "৪"
-      },
-      {
-        "en": "6",
-        "as": "৬"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "A square has 4 lines of symmetry: its two diagonals and the two lines through the midpoints of opposite sides.",
-      "as": "বৰ্গৰ ৪টা সমমিতি ৰেখা থাকে: দুটা কৰ্ণ আৰু বিপৰীত বাহুৰ মধ্যবিন্দুৰ মাজেৰে যোৱা দুটা ৰেখা।"
-    }
-  },
-  {
     "id": "nv-counting-figures-001",
     "leaf": "counting-figures",
     "q": {
@@ -3249,6 +2949,306 @@
     "explanation": {
       "en": "Each cell of the 2 by 5 grid carries one diagonal; counted once per size the figure holds 20 triangles.",
       "as": "২ বাই ৫ গ্ৰিডৰ প্ৰতিটো কোঠাত এখন কৰ্ণ আছে; প্ৰতিটো আকাৰ এবাৰ গণি ২০ টা ত্ৰিভুজ পোৱা যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-009",
+    "q": {
+      "en": "A rectangle has how many lines of symmetry?",
+      "as": "আয়তৰ কিমান সমমিতি ৰেখা?"
+    },
+    "options": [
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "0",
+        "as": "০"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A rectangle that is not a square has exactly 2 lines of symmetry - the horizontal and vertical lines through the midpoints of opposite sides.",
+      "as": "বৰ্গ নোহোৱা আয়তৰ ঠিক ২ টা সমমিতি ৰেখা থাকে - বিপৰীত বাহুৰ মধ্যবিন্দুৰ মাজেৰে যোৱা অনুভূমিক আৰু উলম্ব ৰেখা।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-010",
+    "q": {
+      "en": "A square has how many lines of symmetry?",
+      "as": "বৰ্গৰ কিমান সমমিতি ৰেখা?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A square has 4 lines of symmetry: 2 through the midpoints of opposite sides and 2 along its diagonals.",
+      "as": "বৰ্গৰ ৪ টা সমমিতি ৰেখা থাকে: বিপৰীত বাহুৰ মধ্যবিন্দুৰ মাজেৰে ২ টা আৰু কৰ্ণৰ লগত ২ টা।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-023",
+    "q": {
+      "en": "Number of triangles in a figure of a triangle divided by one line from a vertex to opposite side?",
+      "as": "এটা ত্ৰিভুজ এডাল ৰেখাৰে ভাগ কৰিলে ত্ৰিভুজৰ সংখ্যা?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "One line from a vertex to the opposite side gives 2 small triangles, and the original triangle makes a third, so the count is 3.",
+      "as": "এটা শীৰ্ষবিন্দুৰ পৰা বিপৰীত বাহুলৈ এডাল ৰেখা টানিলে ২ টা সৰু ত্ৰিভুজ হয়, আৰু মূল ত্ৰিভুজটো লগ হৈ মুঠ ৩ টা ত্ৰিভুজ পোৱা যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-028",
+    "q": {
+      "en": "A circle has how many lines of symmetry?",
+      "as": "বৃত্তৰ কিমান সমমিতি ৰেখা?"
+    },
+    "options": [
+      {
+        "en": "1",
+        "as": "১"
+      },
+      {
+        "en": "Infinite",
+        "as": "অসীম"
+      },
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      }
+    ],
+    "correct": 1,
+    "explanation": {
+      "en": "Every diameter of a circle is a line of symmetry, and a circle has infinitely many diameters, so it has infinite lines of symmetry.",
+      "as": "বৃত্তৰ প্ৰতিটো ব্যাস এডাল সমমিতি ৰেখা, আৰু বৃত্তত অসীম সংখ্যক ব্যাস থাকে, সেয়ে বৃত্তৰ সমমিতি ৰেখা অসীম।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-033",
+    "q": {
+      "en": "If a square is divided by both diagonals, number of triangles formed is?",
+      "as": "বৰ্গক দুয়ো কৰ্ণেৰে ভাগ কৰিলে ত্ৰিভুজ কিমান?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "The two diagonals cut the square into 4 small triangles, and each pair of them forms a half-square triangle, so the total is 4 + 4 = 8.",
+      "as": "দুয়োখন কৰ্ণই বৰ্গটো ৪ টা সৰু ত্ৰিভুজত ভাগ কৰে, আৰু প্ৰতিযোৰে এটা আধা-বৰ্গ ত্ৰিভুজ গঠন কৰে, সেয়ে মুঠ ৪ + ৪ = ৮।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-037",
+    "q": {
+      "en": "Count of rectangles in a figure of 2×3 grid of small squares?",
+      "as": "২×৩ সৰু বৰ্গ গ্ৰিডত আয়তৰ সংখ্যা কিমান?"
+    },
+    "options": [
+      {
+        "en": "12",
+        "as": "১২"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "9",
+        "as": "৯"
+      },
+      {
+        "en": "18",
+        "as": "১৮"
+      }
+    ],
+    "correct": 3,
+    "explanation": {
+      "en": "For an m×n grid, the number of rectangles is [m(m+1)/2] × [n(n+1)/2]; for a 2×3 grid this is 3 × 6 = 18.",
+      "as": "m×n গ্ৰিডত আয়তৰ সংখ্যা = [m(m+১)/২] × [n(n+১)/২]; ২×৩ গ্ৰিডৰ বাবে ৩ × ৬ = ১৮।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-048",
+    "q": {
+      "en": "In a 4×4 grid, total number of squares (all sizes) is?",
+      "as": "৪×৪ গ্ৰিডত সকলো আকাৰৰ বৰ্গৰ মুঠ সংখ্যা?"
+    },
+    "options": [
+      {
+        "en": "30",
+        "as": "৩০"
+      },
+      {
+        "en": "16",
+        "as": "১৬"
+      },
+      {
+        "en": "25",
+        "as": "২৫"
+      },
+      {
+        "en": "36",
+        "as": "৩৬"
+      }
+    ],
+    "correct": 0,
+    "explanation": {
+      "en": "In an n×n grid the number of squares of all sizes is 1²+2²+...+n²; for a 4×4 grid this is 16+9+4+1 = 30.",
+      "as": "n×n গ্ৰিডত সকলো আকাৰৰ বৰ্গৰ সংখ্যা ১²+২²+...+n²; ৪×৪ গ্ৰিডৰ বাবে ই ১৬+৯+৪+১ = ৩০।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-058",
+    "q": {
+      "en": "Count of triangles in a star of David (two overlapping equilateral triangles) including small ones is commonly taught as?",
+      "as": "ডেভিদৰ তৰা (দুটা ওপৰাওপৰি সমবাহু ত্ৰিভুজ)ত ত্ৰিভুজৰ সাধাৰণ গণনা?"
+    },
+    "options": [
+      {
+        "en": "6",
+        "as": "৬"
+      },
+      {
+        "en": "5",
+        "as": "৫"
+      },
+      {
+        "en": "8",
+        "as": "৮"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "In the Star of David the two large overlapping triangles together with the 6 small triangles formed by their intersections give 2 + 6 = 8 triangles.",
+      "as": "ডেভিদৰ তৰাত দুটা ডাঙৰ ওপৰাওপৰি ত্ৰিভুজ আৰু তেওঁলোকৰ ছেদৰ পৰা সৃষ্টি হোৱা ৬ টা সৰু ত্ৰিভুজ মিলি ২ + ৬ = ৮ টা ত্ৰিভুজ পোৱা যায়।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-074",
+    "q": {
+      "en": "How many squares are there in a 3x3 grid of unit squares?",
+      "as": "৩×৩ একক বৰ্গৰ গ্ৰিডত মুঠ কিমান বৰ্গ আছে?"
+    },
+    "options": [
+      {
+        "en": "9",
+        "as": "৯"
+      },
+      {
+        "en": "13",
+        "as": "১৩"
+      },
+      {
+        "en": "14",
+        "as": "১৪"
+      },
+      {
+        "en": "16",
+        "as": "১৬"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "There are 9 one-by-one squares, 4 two-by-two squares and 1 three-by-three square, giving 9 + 4 + 1 = 14.",
+      "as": "৯টা ১×১, ৪টা ২×২ আৰু ১টা ৩×৩ বৰ্গ আছে, মুঠ ৯ + ৪ + ১ = ১৪।"
+    }
+  },
+  {
+    "id": "non-verbal-reasoning-078",
+    "q": {
+      "en": "How many lines of symmetry does a square have?",
+      "as": "এটা বৰ্গৰ কিমান সমমিতি ৰেখা থাকে?"
+    },
+    "options": [
+      {
+        "en": "2",
+        "as": "২"
+      },
+      {
+        "en": "3",
+        "as": "৩"
+      },
+      {
+        "en": "4",
+        "as": "৪"
+      },
+      {
+        "en": "6",
+        "as": "৬"
+      }
+    ],
+    "correct": 2,
+    "explanation": {
+      "en": "A square has 4 lines of symmetry: its two diagonals and the two lines through the midpoints of opposite sides.",
+      "as": "বৰ্গৰ ৪টা সমমিতি ৰেখা থাকে: দুটা কৰ্ণ আৰু বিপৰীত বাহুৰ মধ্যবিন্দুৰ মাজেৰে যোৱা দুটা ৰেখা।"
     }
   }
 ]

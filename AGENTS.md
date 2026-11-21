@@ -3595,3 +3595,21 @@ must use three different base shapes, otherwise the four options are not
 distinct.
 
 Book total 20,137; sitewide 62,460; hero 91,167.
+
+## Non-verbal page order and die pips (2026-11-21)
+
+Two fixes on top of the batch above:
+
+1. Every non-verbal leaf now opens with figure questions. The definition-style
+   items (no drawing) are pushed to the end of the topic. The ordering lives in
+   `tools/build-dhs-dme-technical.js`, right before `BANK_COUNT` is filled:
+   `BANKS[key]` is rebuilt as `[...list.filter(hasFigure), ...list.filter(q => !hasFigure(q))]`
+   for the leaves of the `non-verbal-reasoning` group. It runs on every build,
+   so a new generator does not have to care about order. The bank file itself
+   is left in source order.
+2. Dice pips no longer collide. `face()` used `u / 2` and `v / 2`, which put the
+   pips exactly on the face corners; on the narrow side faces they spilled over
+   the edges and into each other. Pips are now placed at `0.24 + 0.26 * u`
+   (so 0.24, 0.5, 0.76) with radius 2.3. Minimum pip spacing is 8.4 against a
+   diameter of 4.6, so nothing overlaps. Fixed in `tools/gen-nv-cube.py` and in
+   the die helper inside `tools/gen-nv-general.py`.
