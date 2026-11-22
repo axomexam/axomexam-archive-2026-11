@@ -444,6 +444,7 @@ function headFor(rel) {
     const examOverride = EXAM_BOOK_NAMES[trail[0]];
     if (examOverride && trail.length === 1) name = examOverride.as;
     const examLabel = (examOverride && examOverride.as) || exam;
+    const examShort = examLabel.replace(/\s*কাৰিকৰী.*$/, "").replace(/\s*গ্ৰেড.*$/, "").trim();
     if (!name) {
       const ct = contentTitle.get(trail[trail.length - 1]) || {};
       name = ct.as || "";
@@ -469,7 +470,7 @@ function headFor(rel) {
         };
       }
       return {
-        title: titled(shortName, `${examLabel} | প্ৰশ্ন আৰু উত্তৰ`, `${examLabel} | প্ৰশ্নোত্তৰ`, examLabel, "প্ৰশ্ন আৰু উত্তৰ"),
+        title: titled(shortName, `${examLabel} | প্ৰশ্ন আৰু উত্তৰ`, `${examLabel} | প্ৰশ্নোত্তৰ`, examLabel, `${examShort} | প্ৰশ্নোত্তৰ`, "প্ৰশ্ন আৰু উত্তৰ"),
         meta: `${examLabel} পৰীক্ষাৰ বাবে ${shortName}ৰ প্ৰশ্ন আৰু ব্যাখ্যা — বিনামূলীয়া, দ্বিভাষিক।`,
         h1: `${shortName} — ${examLabel}`,
       };
