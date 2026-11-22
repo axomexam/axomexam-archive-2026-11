@@ -114,6 +114,7 @@ function makeExamBookTools(opts) {
     set(/<meta name="twitter:title"[^>]*>/, `<meta name="twitter:title" content="${esc(opts.title)}" />`);
     set(/<meta name="twitter:description"[^>]*>/, `<meta name="twitter:description" content="${esc(opts.desc)}" />`);
     set(/<meta property="og:image" content="[^"]*" \/>/, `<meta property="og:image" content="${BASE}${opts.cover}" />`);
+    set(/<meta property="og:image:type"[^>]*>/, `<meta property="og:image:type" content="${/\.webp$/i.test(opts.cover) ? "image/webp" : /\.png$/i.test(opts.cover) ? "image/png" : "image/jpeg"}" />`);
     set(/<meta name="twitter:image" content="[^"]*" \/>/, `<meta name="twitter:image" content="${BASE}${opts.cover}" />`);
     const ldStart = head.indexOf('<script type="application/ld+json">');
     if (ldStart >= 0) {
@@ -729,11 +730,13 @@ hand-editing the JSON here.
      section name. The leaf name is never dropped — it is the query. */
   function pageTitle(leaf, sec, exam) {
     const shortExam = exam.replace(/\s+Grade\s+III\b/i, "");
+    const shortTag = exam.replace(/\s+Grade\s+III\b/i, "").replace(/\s+Technical\b/i, "").trim();
     return fitTitle([
       `${leaf} - ${sec} - ${exam} | axomexam`,
       `${leaf} - ${sec} - ${exam}`,
       `${leaf} - ${sec} - ${shortExam}`,
       `${leaf} - ${shortExam}`,
+      `${leaf} | ${shortTag}`,
       `${leaf} - ${sec}`,
       leaf,
     ]);
