@@ -16204,5 +16204,291 @@
         "আখৰৰ যিকোনো শৃংখলাত আন একো নকৰি আগতে আখৰবোৰৰ তলত 1 ৰ পৰা 26 লৈকে সংখ্যা লিখা। আৰ্হি সদায় পাৰ্থক্যত দেখা যায়, আখৰত কেতিয়াও নেদেখা।"
       ]
     ]
+  },
+  "coding-decoding": {
+    "en": [
+      [
+        "h3",
+        "What the coding decoding block asks"
+      ],
+      [
+        "p",
+        "This topic gives a word and its code, then asks for the code of another word. The whole question is one sentence long, and the answer is found by comparing the given word with its code letter by letter. There is no vocabulary to learn, so the block is won by a fixed method rather than by knowledge."
+      ],
+      [
+        "p",
+        "The single rule that matters is this: never look at the word as a whole. Write the word on one line and the code directly below it, letter under letter, and then read the changes. Almost every wrong answer comes from someone who read the code as a word and guessed at the pattern."
+      ],
+      [
+        "h3",
+        "The five step method"
+      ],
+      [
+        "p",
+        "First, write the given word and its code one below the other, so that each letter sits under its own code letter. Second, convert both to numbers using A as 1 and Z as 26. Third, subtract the word number from the code number at each position, and note whether the difference is the same everywhere. Fourth, if the difference is not constant, check whether the letters are opposites, whether the positions are reversed, or whether the first and last letters have been swapped. Fifth, apply the pattern you found to the new word and write the answer."
+      ],
+      [
+        "p",
+        "That five step method solves nearly every question in this topic. When it does not, the code is usually not letter based at all but position based, and then the numbers matter more than the letters, which is why the second step is worth doing every time."
+      ],
+      [
+        "h3",
+        "The types, with a worked example each"
+      ],
+      [
+        "p",
+        "Type one is a fixed shift. If CAT is written as DBU, each letter has moved one step forward, so DOG becomes EPH. If PEN is written as QFO, the shift is again one forward, so BOOK becomes CPPL. The shift can be backward or larger; the method is unchanged, and only the number differs."
+      ],
+      [
+        "p",
+        "Type two is opposite letters, where each letter is replaced by the one that adds with it to 27. If SUN is written as HFM, check the first pair: S is 19 and H is 8, and 19 plus 8 is 27, so the rule is confirmed. Then MOON becomes NLLM, because M becomes N, O becomes L, O becomes L and N becomes M."
+      ],
+      [
+        "p",
+        "Type three is position based, where the code is a number made from the letter positions. If GO is written as 22, that is 7 plus 15, the positions of G and O. Then DO is written as 19, which is 4 plus 15. The same idea with multiplication or with the difference appears in some papers, so check which operation fits the given example before applying it."
+      ],
+      [
+        "p",
+        "Type four is substitution, where whole words are replaced by other words in a sentence, as in water is called milk and milk is called tea. These questions are solved by careful substitution, not by arithmetic, and the answer is read back through the substitution table. Type five is conditional coding, where the rule differs by letter type: for example, consonants move one step back and vowels move one step forward, so BANK becomes AEMJ."
+      ],
+      [
+        "p",
+        "Type six is mixed, where letters and numbers appear together, as in A1C3E5. Here the letters and the numbers are two separate series, and each is continued independently. Type seven is word level coding, where a whole word is replaced by a symbol or a number that must be identified from a table. The table is given in the question, so the work is careful reading rather than pattern finding."
+      ],
+      [
+        "h3",
+        "Worked examples in full"
+      ],
+      [
+        "p",
+        "Example one. If MOBILE is written as NPCJMF, how is PHONE written? Compare M with N, O with P, B with C, I with J, L with M and E with F. Every letter has moved one step forward. Apply that to PHONE: P becomes Q, H becomes I, O becomes P, N becomes O and E becomes F, giving QIPOF."
+      ],
+      [
+        "p",
+        "Example two. If in a code GO is 22, what is DO? G is 7 and O is 15, and their sum is 22, so the code is the sum of the positions. D is 4 and O is 15, so the sum is 19. Writing the positions above the letters before adding prevents the slip of using the wrong letter value."
+      ],
+      [
+        "p",
+        "Example three. If BANK is written as AEMJ, what rule was used? B becomes A, so a consonant moved one step back; A becomes E, so a vowel moved four steps forward; N becomes M, so a consonant moved one step back; K becomes J, so a consonant moved one step back. The rule is consonants back one and vowels forward four, and it must be checked against every letter before it is trusted."
+      ],
+      [
+        "h3",
+        "Where marks are lost"
+      ],
+      [
+        "h3",
+        "Sentence coding, and the shared letter rule"
+      ],
+      [
+        "p",
+        "Sentence coding gives two or three sentences with some words replaced by symbols, and the same symbol appears for the same word in every sentence. The method is to find a word that appears in two sentences and match the symbol that appears in both; that gives one confirmed pair, and the rest follow by elimination. If a word appears in only one sentence, it cannot be confirmed until the others are settled, so start with the repeated words."
+      ],
+      [
+        "p",
+        "The shared letter rule is a favourite variation. If a letter is common to two words and a symbol is common to their codes, that symbol stands for that letter. For example, if ROSE is coded as 6821 and SOAP as 5342, the letter S is common and the digit 2 is common, so 2 stands for S. From there, the other letters can be matched by elimination. That single example pattern appears in many papers."
+      ],
+      [
+        "h3",
+        "Reversal, and the alphabet written backwards"
+      ],
+      [
+        "p",
+        "Two more variations are worth one line each. In reversal coding the word is written backwards first and then shifted, so CAT written backwards is TAC, and a shift of one gives UBD. In backwards alphabet coding the alphabet is numbered from the other end, so A is treated as 26 and Z as 1; this is the same as opposite letters and is answered by subtracting from 27."
+      ],
+      [
+        "p",
+        "A mixed question sometimes gives two examples with different rules, one forward and one backward. Read both before deciding, because the second example usually corrects an assumption made from the first."
+      ],
+      [
+        "h3",
+        "Timing in the examination"
+      ],
+      [
+        "p",
+        "This block is fast once the method is automatic, so give it no more than forty seconds a question. Write the word, write the code below, write the numbers, and answer. If the pattern is not visible after the numbers are written, mark the question and come back, because a coding question that resists two minutes will not yield to five."
+      ],
+      [
+        "p",
+        "Three errors recur. The shift is applied in the wrong direction, which turns every letter into its neighbour on the wrong side. A pattern found from one letter is applied without checking it against the rest, when the second letter would have shown it was wrong. And in substitution questions the answer is given as the word itself rather than as its substitute. Check the direction and confirm the pattern on every letter before writing the answer."
+      ],
+      [
+        "ul",
+        [
+          "Write the word and the code one under the other, letter under letter.",
+          "Convert to numbers, subtract, and look for a constant difference.",
+          "If the difference is not constant, test opposites, reversal and letter swaps.",
+          "Position codes use sum, difference or product of the letter numbers.",
+          "Conditional codes differ by letter type; substitution codes are read from a table."
+        ]
+      ],
+      [
+        "tip",
+        "For any coding question, confirm the rule on the second and third letter before applying it to the new word. One letter can mislead, three letters cannot."
+      ]
+    ],
+    "as": [
+      [
+        "h3",
+        "সংকেত আৰু বোধোদয়ৰ এই অংশত কি সোধা হয়"
+      ],
+      [
+        "p",
+        "এই অধ্যায়ত এটা শব্দ আৰু তাৰ সংকেত দি আন এটা শব্দৰ সংকেত সোধা হয়। গোটেই প্ৰশ্ন এটা বাক্যৰ, আৰু উত্তৰ দিয়া শব্দটোৰ লগত সংকেতটো আখৰে আখৰে মিলাই বিচাৰি পোৱা যায়। শব্দভাণ্ডাৰ শিকিবলগীয়া নাই, সেয়ে এই অংশ জ্ঞানৰ পৰা নহয়, এটা নিৰ্দিষ্ট পদ্ধতিৰ পৰা জিকা যায়।"
+      ],
+      [
+        "p",
+        "মাত্ৰ এটা নিয়ম গুৰুত্বপূৰ্ণ: শব্দটো গোটেইটো হিচাপে কেতিয়াও নাচিবা। শব্দটো এটা শাৰীত আৰু সংকেতটো তাৰ তলতে, আখৰৰ তলত আখৰ ৰাখি লিখা, তাৰ পিছত সলনিবোৰ পঢ়া। প্ৰায় প্ৰতিটো ভুল উত্তৰ তেওঁৰ পৰা আহে যি সংকেতটো শব্দ হিচাপে পঢ়ি আৰ্হি আন্দাজ কৰে।"
+      ],
+      [
+        "h3",
+        "পাঁচ স্তৰৰ পদ্ধতি"
+      ],
+      [
+        "p",
+        "প্ৰথমে দিয়া শব্দটো আৰু তাৰ সংকেত এটাৰ তলত এটা লিখা, যাতে প্ৰতিটো আখৰ নিজৰ সংকেত আখৰৰ তলত পৰে। দ্বিতীয়তে, A ক 1 আৰু Z ক 26 ধৰি দুয়োটাকে সংখ্যালৈ ৰূপান্তৰ কৰা। তৃতীয়তে, প্ৰতিটো স্থানত সংকেতৰ সংখ্যাৰ পৰা শব্দৰ সংখ্যা বিয়োগ কৰি চোৱা পাৰ্থক্যটো সকলো ঠাইতে একেই নে নাই। চতুৰ্থতে, পাৰ্থক্য একে নহ'লে চোৱা আখৰবোৰ বিপৰীত নে, স্থানবোৰ ওলোটা নে, নে প্ৰথম আৰু শেষ আখৰ সলনি হৈছে। পঞ্চমতে, পোৱা আৰ্হিটো নতুন শব্দত প্ৰয়োগ কৰি উত্তৰ লিখা।"
+      ],
+      [
+        "p",
+        "এই পাঁচ স্তৰে এই অধ্যায়ৰ প্ৰায় প্ৰতিটো প্ৰশ্ন সমাধান কৰে। নকৰিলে সংকেতটো আখৰৰ ওপৰত নহয়, স্থানৰ ওপৰত ভিত্তি কৰি, আৰু তেতিয়া আখৰতকৈ সংখ্যাই বেছি গুৰুত্বপূৰ্ণ, সেয়ে দ্বিতীয় স্তৰটো প্ৰতিবাৰ কৰা ভাল।"
+      ],
+      [
+        "h3",
+        "ধৰণবোৰ, প্ৰতিটোৰে এটা সমাধান"
+      ],
+      [
+        "p",
+        "প্ৰথম ধৰণ স্থিৰ স্থানান্তৰ। CAT ক DBU লিখিলে প্ৰতিটো আখৰ এখোজ আগলৈ গৈছে, সেয়ে DOG হয় EPH। PEN ক QFO লিখিলে স্থানান্তৰ আকৌ এখোজ আগলৈ, সেয়ে BOOK হয় CPPL। স্থানান্তৰ পিছলৈও হ'ব পাৰে বা বেছিও হ'ব পাৰে; পদ্ধতি একেই, মাত্ৰ সংখ্যাটো বেলেগ।"
+      ],
+      [
+        "p",
+        "দ্বিতীয় ধৰণ বিপৰীত আখৰ, য'ত প্ৰতিটো আখৰৰ সলনি 27 লৈ যোগ কৰা আখৰটো দিয়া হয়। SUN ক HFM লিখিলে প্ৰথম যোৰ চোৱা: S হ'ল 19 আৰু H হ'ল 8, আৰু 19 যোগ 8 হ'ল 27, সেয়ে নিয়ম নিশ্চিত। তেতিয়া MOON হয় NLLM, কাৰণ M ৰ সলনি N, O ৰ সলনি L, O ৰ সলনি L আৰু N ৰ সলনি M।"
+      ],
+      [
+        "p",
+        "তৃতীয় ধৰণ স্থানভিত্তিক, য'ত সংকেত আখৰৰ স্থানৰ পৰা বনোৱা সংখ্যা। GO ক 22 লিখিলে সেয়া G আৰু O ৰ স্থান 7 যোগ 15। তেতিয়া DO ক 19 লিখা হয়, যি 4 যোগ 15। একেই ধাৰণা গুণ বা পাৰ্থক্যৰ সৈতেও কিছুমান প্ৰশ্নকাকতত আহে, সেয়ে প্ৰয়োগ কৰাৰ আগতে দিয়া উদাহৰণৰ লগত কোন ক্ৰিয়া মিলে চোৱা।"
+      ],
+      [
+        "p",
+        "চতুৰ্থ ধৰণ প্ৰতিস্থাপন, য'ত বাক্যত গোটেই শব্দৰ সলনি আন শব্দ দিয়া হয়, যেনে পানীক গাখীৰ আৰু গাখীৰক চাহ বোলা হয়। এই প্ৰশ্নবোৰ গণনাৰে নহয়, সাৱধানে প্ৰতিস্থাপনেৰে সমাধান হয়, আৰু উত্তৰ প্ৰতিস্থাপন তালিকাৰ মাজেদি উলটি পঢ়া হয়। পঞ্চম ধৰণ চৰ্তভিত্তিক সংকেত, য'ত আখৰৰ প্ৰকাৰ অনুসৰি নিয়ম বেলেগ: যেনে ব্যঞ্জনে এখোজ পিছলৈ আৰু স্বৰে এখোজ আগলৈ যায়, সেয়ে BANK হয় AEMJ।"
+      ],
+      [
+        "p",
+        "ষষ্ঠ ধৰণ মিশ্ৰ, য'ত আখৰ আৰু সংখ্যা একেলগে আহে, যেনে A1C3E5। ইয়াত আখৰ আৰু সংখ্যা দুটা পৃথক শৃংখলা, আৰু প্ৰতিটো স্বতন্ত্ৰভাৱে আগবঢ়াই নিয়া হয়। সপ্তম ধৰণ শব্দ-স্তৰৰ সংকেত, য'ত গোটেই শব্দৰ সলনি চিহ্ন বা সংখ্যা দিয়া হয় যি তালিকাৰ পৰা চিনিব লাগে। তালিকাখন প্ৰশ্নতেই দিয়া থাকে, সেয়ে কামটো আৰ্হি বিচৰা নহয়, সাৱধানে পঢ়া।"
+      ],
+      [
+        "h3",
+        "সম্পূৰ্ণ সমাধান"
+      ],
+      [
+        "p",
+        "উদাহৰণ এক। MOBILE ক NPCJMF লিখিলে PHONE কেনেকৈ লিখা হয়? M ৰ লগত N, O ৰ লগত P, B ৰ লগত C, I ৰ লগত J, L ৰ লগত M আৰু E ৰ লগত F মিলোৱা। প্ৰতিটো আখৰ এখোজ আগলৈ গৈছে। PHONE ত প্ৰয়োগ কৰা: P হয় Q, H হয় I, O হয় P, N হয় O আৰু E হয় F, সেয়ে QIPOF।"
+      ],
+      [
+        "p",
+        "উদাহৰণ দুই। সংকেতত GO হ'লে 22, তেন্তে DO কি? G হ'ল 7 আৰু O হ'ল 15, যোগফল 22, সেয়ে সংকেত স্থানৰ যোগফল। D হ'ল 4 আৰু O হ'ল 15, সেয়ে যোগফল 19। যোগ কৰাৰ আগতে আখৰৰ ওপৰত স্থান লিখিলে ভুল আখৰৰ মান ব্যৱহাৰ কৰাৰ ভুল নহয়।"
+      ],
+      [
+        "p",
+        "উদাহৰণ তিনি। BANK ক AEMJ লিখিলে কি নিয়ম ব্যৱহৃত? B হয় A, সেয়ে ব্যঞ্জন এখোজ পিছলৈ; A হয় E, সেয়ে স্বৰ চাৰি খোজ আগলৈ; N হয় M, সেয়ে ব্যঞ্জন এখোজ পিছলৈ; K হয় J, সেয়ে ব্যঞ্জন এখোজ পিছলৈ। নিয়ম ব্যঞ্জন পিছলৈ এক আৰু স্বৰ আগলৈ চাৰি, আৰু বিশ্বাস কৰাৰ আগতে প্ৰতিটো আখৰত পৰীক্ষা কৰিব লাগে।"
+      ],
+      [
+        "h3",
+        "ক'ত নম্বৰ যায়"
+      ],
+      [
+        "h3",
+        "বাক্যৰ সংকেত, আৰু সাধাৰণ আখৰৰ নিয়ম"
+      ],
+      [
+        "p",
+        "বাক্যৰ সংকেতত দুটা বা তিনি বাক্য দিয়া হয় আৰু কিছুমান শব্দৰ সলনি চিহ্ন দিয়া হয়, আৰু প্ৰতিটো বাক্যত একেই শব্দৰ বাবে একেই চিহ্ন আহে। পদ্ধতি হ'ল: দুটা বাক্যত অহা এটা শব্দ বিচৰা আৰু দুয়োতে অহা চিহ্ন মিলোৱা; তাত এটা যোৰ নিশ্চিত হয়, আৰু বাকীবোৰ আঁতৰাই দি ওলায়। মাত্ৰ এটা বাক্যত অহা শব্দ আনবোৰ ঠিক নোহোৱালৈকে নিশ্চিত কৰিব নোৱাৰি, সেয়ে পুনৰাবৃত্ত শব্দৰ পৰা আৰম্ভ কৰা।"
+      ],
+      [
+        "p",
+        "সাধাৰণ আখৰৰ নিয়ম এটা প্ৰিয় পৰিৱৰ্তন। দুটা শব্দত এটা আখৰ সাধাৰণ আৰু তাৰ সংকেতত এটা চিহ্ন সাধাৰণ হ'লে সেই চিহ্নই সেই আখৰ বুজায়। উদাহৰণস্বৰূপে ROSE ক 6821 আৰু SOAP ক 5342 লিখিলে S আখৰ সাধাৰণ আৰু 2 অঙ্ক সাধাৰণ, সেয়ে 2 য়ে S বুজায়। তাৰ পৰা বাকী আখৰবোৰ আঁতৰাই দি মিলোৱা যায়। এই এটা আৰ্হি বহু প্ৰশ্নকাকতত আহে।"
+      ],
+      [
+        "h3",
+        "ওলোটা ক্ৰম, আৰু ওলোটাকৈ লিখা বৰ্ণমালা"
+      ],
+      [
+        "p",
+        "আৰু দুটা পৰিৱৰ্তনৰ এশাৰী মূল্য আছে। ওলোটা সংকেতত শব্দটো আগতে ওলোটাকৈ লিখি তাৰ পিছত স্থানান্তৰ কৰা হয়, সেয়ে CAT ওলোটাকৈ TAC, আৰু এখোজ স্থানান্তৰে UBD দিয়ে। ওলোটা বৰ্ণমালাৰ সংকেতত বৰ্ণমালা আন ফালৰ পৰা গণনা কৰা হয়, সেয়ে A ক 26 আৰু Z ক 1 ধৰা হয়; এইটো বিপৰীত আখৰৰ সমান, আৰু 27 ৰ পৰা বিয়োগ কৰি উত্তৰ পোৱা যায়।"
+      ],
+      [
+        "p",
+        "মিশ্ৰ প্ৰশ্নত কেতিয়াবা বেলেগ নিয়মৰ দুটা উদাহৰণ দিয়া হয়, এটা আগলৈ আৰু এটা পিছলৈ। সিদ্ধান্ত লোৱাৰ আগতে দুয়োটা পঢ়া, কাৰণ দ্বিতীয় উদাহৰণে সাধাৰণতে প্ৰথমৰ পৰা কৰা ধাৰণা শুধৰাই দিয়ে।"
+      ],
+      [
+        "h3",
+        "পৰীক্ষাত সময়"
+      ],
+      [
+        "p",
+        "পদ্ধতি অভ্যাস হৈ গ'লে এই অংশ দ্ৰুত, সেয়ে এটা প্ৰশ্নত চল্লিশ ছেকেণ্ডৰ বেছি নিদিবা। শব্দ লিখা, তলত সংকেত লিখা, সংখ্যা লিখা, আৰু উত্তৰ দিয়া। সংখ্যা লিখাৰ পিছতো আৰ্হি নোলালে প্ৰশ্নটো চিহ্নিত কৰি পিছত ঘূৰি আহা, কাৰণ দুই মিনিটত নমনা সংকেত প্ৰশ্ন পাঁচ মিনিটতো নমৰে।"
+      ],
+      [
+        "h3",
+        "সাধাৰণ ভুলৰ পৰা বাচিবলৈ এটা তালিকা"
+      ],
+      [
+        "p",
+        "আৰু এটা কথা মনত ৰাখিবা: সংকেতৰ উত্তৰত সন্দেহ থাকিলে দুটা সম্ভাৱ্য আৰ্হি দুয়োটাকে দিয়া শব্দত প্ৰয়োগ কৰি চোৱা, আৰু যিটোৱে দুয়োটা উদাহৰণৰ লগত মিলে সেয়াই লোৱা।"
+      ],
+      [
+        "p",
+        "এই অভ্যাসৰ লাভ পৰীক্ষাৰ হলত দেখা যাব, য'ত প্ৰতিটো ছেকেণ্ডে নম্বৰ ৰাখে।"
+      ],
+      [
+        "p",
+        "প্ৰতিটো প্ৰশ্নতে পাঁচ স্তৰ লিখি কৰিলে আৰম্ভণিত সময় বেছি লাগিব, কিন্তু তিনি সপ্তাহৰ পিছত সেই স্তৰবোৰ মনতে হ'ব আৰু গতি দুগুণ হ'ব। ধৈৰ্য ধৰি পদ্ধতিটোকে মানি চলা।"
+      ],
+      [
+        "p",
+        "শেষত এটা কথা: এই অংশত জ্ঞানতকৈ অভ্যাসে বেছি কাম কৰে। সেয়ে পঢ়াৰ পৰা আৰম্ভ নকৰি পোনপটীয়াকৈ প্ৰশ্ন সমাধান কৰি আৰম্ভ কৰা, আৰু য'ত আটকা পৰা তাতহে ওপৰৰ পদ্ধতি চোৱা।"
+      ],
+      [
+        "p",
+        "প্ৰতিদিনে সমাধান কৰা প্ৰশ্নবোৰৰ পৰা ভুলবোৰ এখন তালিকাত লিখা। সাধাৰণতে তালিকাখন চাৰি-পাঁচটা ভুলতে ৰয়: দিশ ওলোটা, আখৰৰ স্থান ভুল, সংখ্যাৰ যোগ ভুল, আৰু প্ৰতিস্থাপনত শব্দ ওলোটা পঢ়া। এই তালিকাখন প্ৰতি সপ্তাহে এবাৰ চালে সেই ভুলবোৰ পুনৰ নহয়।"
+      ],
+      [
+        "p",
+        "তিনিটা ভুল বাৰে বাৰে আহে। স্থানান্তৰ ওলোটা দিশত প্ৰয়োগ কৰা হয়, যাৰ ফলত প্ৰতিটো আখৰ ভুল ফালৰ চুবুৰীয়া হয়। এটা আখৰৰ পৰা পোৱা আৰ্হি বাকীবোৰত নাচাই প্ৰয়োগ কৰা হয়, অথচ দ্বিতীয় আখৰেই দেখুৱালেহেঁতেন সেয়া ভুল। আৰু প্ৰতিস্থাপনৰ প্ৰশ্নত উত্তৰ শব্দটো নিজেই দিয়া হয়, তাৰ প্ৰতিস্থাপন নহয়। উত্তৰ লিখাৰ আগতে দিশ আৰু প্ৰতিটো আখৰত আৰ্হি নিশ্চিত কৰা।"
+      ],
+      [
+        "ul",
+        [
+          "শব্দ আৰু সংকেত এটাৰ তলত এটা, আখৰৰ তলত আখৰ লিখা।",
+          "সংখ্যালৈ ৰূপান্তৰ কৰি বিয়োগ কৰা, আৰু স্থিৰ পাৰ্থক্য বিচৰা।",
+          "পাৰ্থক্য স্থিৰ নহ'লে বিপৰীত, ওলোটা ক্ৰম আৰু আখৰ সলনি পৰীক্ষা কৰা।",
+          "স্থানভিত্তিক সংকেতত আখৰৰ সংখ্যাৰ যোগ, পাৰ্থক্য বা গুণ ব্যৱহৃত হয়।",
+          "চৰ্তভিত্তিক সংকেত আখৰৰ প্ৰকাৰ অনুসৰি; প্ৰতিস্থাপন সংকেত তালিকাৰ পৰা পঢ়া।"
+        ]
+      ],
+      [
+        "h3",
+        "সংকেতৰ সাধাৰণ কৌশল"
+      ],
+      [
+        "p",
+        "সংকেতৰ প্ৰশ্নত সময় বচোৱাৰ দুটা কৌশল আছে। প্ৰথমতে, দিয়া উদাহৰণত দুটা আখৰৰ পাৰ্থক্য একেই নে নাই চোৱা - একেই হ'লে কাম সহজ, আৰু সেই সংখ্যাটো লৈ আগবাঢ়া। দ্বিতীয়তে, নতুন শব্দটোত প্ৰয়োগ কৰাৰ আগতে আৰ্হিটো তৃতীয় আখৰলৈকে পৰীক্ষা কৰা। এই দুটা অভ্যাসে প্ৰায় সকলো ভুল ৰোধ কৰে।"
+      ],
+      [
+        "p",
+        "সংখ্যাৰ সংকেতত এটা সাৱধানতা: যোগফল 26 ৰ ওপৰত হ'লে প্ৰশ্নকাকতত সাধাৰণতে সংখ্যাটো তেনেকৈয়ে ৰখা হয়, বৰ্ণমালালৈ ঘূৰাই নিয়া নহয়। সেয়ে উত্তৰত 26 ৰ ওপৰৰ সংখ্যা দেখিলে আতৰিব নালাগে, কাৰণ সেয়া শুদ্ধ হ'ব পাৰে।"
+      ],
+      [
+        "h3",
+        "অনুশীলনৰ বাবে এটা তালিকা"
+      ],
+      [
+        "p",
+        "প্ৰতিদিনে দহটা সংকেতৰ প্ৰশ্ন সমাধান কৰা, আৰু প্ৰতিটোতে পাঁচ স্তৰ লিখি কৰা। দুই সপ্তাহত এশ প্ৰশ্ন হ'ব, আৰু তেতিয়া আখৰৰ পৰা সংখ্যালৈ ৰূপান্তৰ মনতেই হ'ব। প্ৰশ্নকাকতত এই অংশত সময় কম লাগিলে ৰিজনিঙৰ আন অংশত সেই সময় খৰচ কৰিব পাৰি।"
+      ],
+      [
+        "tip",
+        "সংকেতৰ যিকোনো প্ৰশ্নত নতুন শব্দত প্ৰয়োগ কৰাৰ আগতে দ্বিতীয় আৰু তৃতীয় আখৰত নিয়ম নিশ্চিত কৰা। এটা আখৰে বিভ্ৰান্ত কৰিব পাৰে, তিনিটা আখৰে কেতিয়াও নকৰে।"
+      ]
+    ]
   }
 }
