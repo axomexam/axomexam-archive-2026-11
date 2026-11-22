@@ -9683,8 +9683,8 @@
      language toggle through applyStaticI18n(). */
   const NOTIFICATIONS = [
     {
-      title: { en: "DHS & DME: study notes for 62 topics are live", as: "DHS আৰু DME: ৬২ টা বিষয়ৰ অধ্যয়ন টোকা উপলব্ধ" },
-      desc: { en: "Every technical science topic now has a full bilingual study note, and reasoning notes are being added one by one — series, coding, blood relations, direction, clock, syllogism, seating and puzzles.", as: "প্ৰতিটো কাৰিকৰী বিজ্ঞানৰ বিষয়ত এতিয়া সম্পূৰ্ণ দ্বিভাষিক অধ্যয়ন টোকা আছে, আৰু যুক্তিৰ টোকা এটা এটা কৰি যোগ হৈ আছে — শৃংখলা, সংকেত, ৰক্ত সম্পৰ্ক, দিশ, ঘড়ী, ন্যায়সংগত অনুমান, বহা-পতা আৰু ধাঁ‌ধা।" },
+      title: { en: "Free DHS & DME Technical Grade III book is live", as: "বিনামূলীয়া DHS আৰু DME কাৰিকৰী তৃতীয় শ্ৰেণীৰ পৰীক্ষা-বহী উপলব্ধ" },
+      desc: { en: "Complete technical science and reasoning notes, topic-wise questions with bilingual answers, and free mock tests — in English and Assamese.", as: "সম্পূৰ্ণ কাৰিকৰী বিজ্ঞান আৰু যুক্তিৰ টোকা, দ্বিভাষিক উত্তৰৰ সৈতে বিষয়ভিত্তিক প্ৰশ্ন, আৰু বিনামূলীয়া মক টেষ্ট — ইংৰাজী আৰু অসমীয়া দুয়োতেই।" },
       href: "/exams/dhs-dme-technical/",
     },
     {
