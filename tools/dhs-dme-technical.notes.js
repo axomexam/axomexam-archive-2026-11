@@ -5789,4 +5789,9 @@ NOTES["puzzles"] = {
   ],
 };
 
+/* Generated notes for leaves that have no hand-written entry. Hand-written
+   notes always win, so adding a bespoke note later simply overrides this. */
+const AUTO = require("./dhs-dme-technical.notes.auto.js");
+for (const id of Object.keys(AUTO)) if (!NOTES[id]) NOTES[id] = AUTO[id];
+
 module.exports = NOTES;
