@@ -44,6 +44,7 @@ const ASSETS = [
   "js/leaderboard-ui.js",
   "js/push.js",
   "js/push-config.js",
+  "js/copy-guard.js",
 ];
 
 const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");

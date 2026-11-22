@@ -3526,3 +3526,41 @@ a.axo-email:hover { color: #1e3a8a; background: #dbeafe; text-decoration: none; 
 @media (max-width: 360px) {
   .lb-tab { font-size: .64rem; padding: 7px 4px; }
 }
+
+/* ============================================================
+   Copy guard — question and answer text is not selectable.
+   The page stays fully readable and indexable; only the selection
+   and the long-press copy sheet are switched off. Form fields and
+   anything marked data-axo-copy-allow stay selectable, so search,
+   the mock-test inputs and the share buttons keep working.
+   js/copy-guard.js cancels the gestures CSS cannot.
+   ============================================================ */
+#app,
+#app *,
+#read-modal,
+#read-modal * {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+#app input,
+#app textarea,
+#app select,
+#app option,
+#app [contenteditable]:not([contenteditable="false"]),
+#app [data-axo-copy-allow],
+#read-modal input,
+#read-modal textarea,
+#read-modal select,
+#read-modal option,
+#read-modal [contenteditable]:not([contenteditable="false"]),
+#read-modal [data-axo-copy-allow] {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+  -webkit-touch-callout: default;
+}
