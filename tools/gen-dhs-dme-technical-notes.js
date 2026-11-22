@@ -178,12 +178,14 @@ const EXAM_NOTE = {
   },
 };
 
-function worked(blocks, bank, lang, count) {
+function worked(blocks, bank, lang, count, used) {
   const order = diverseOrder(bank, lang);
   let added = 0;
   for (const j of order) {
     if (added >= count) break;
     const q = bank[j];
+    const sig = clean((q.q && (q.q.en || "")) || "") + "|" + clean(q.ans || "");
+    if (used.has(sig)) continue;
     const opts = (q.options || []).map((o, k) => `(${"ABCD"[k] || k + 1}) ${(o && (o[lang] || o.en)) || ""}`).join(" ");
     if (!opts) continue;
     const exp = (q.explanation && (q.explanation[lang] || q.explanation.en)) || "";
@@ -191,6 +193,7 @@ function worked(blocks, bank, lang, count) {
     blocks.push(["p", lang === "as"
       ? `প্ৰ. ${clean((q.q && (q.q[lang] || q.q.en)) || "")} ${clean(opts)} শুদ্ধ উত্তৰ ${clean(ans)}। ${clean(exp)}`
       : `Q. ${clean((q.q && (q.q[lang] || q.q.en)) || "")} ${clean(opts)} The correct choice is ${clean(ans)}. ${clean(exp)}`]);
+    used.add(sig);
     added++;
   }
   return added;
@@ -209,12 +212,13 @@ function compose(item, spec, bank) {
     if (!blocks.length) return null;
 
     blocks.push(["h3", lang === "as" ? "এই প্ৰশ্নগোটৰ পৰা সমাধান কৰা প্ৰশ্ন" : "Worked questions from this bank"]);
-    worked(blocks, bank, lang, 4);
+    const used = new Set();
+    worked(blocks, bank, lang, 4, used);
 
     let extra = 0;
-    while (words(blocks) < TARGET && extra < 14) {
+    while (words(blocks) < TARGET && extra < 40) {
       const before = words(blocks);
-      worked(blocks, bank, lang, 2);
+      worked(blocks, bank, lang, 2, used);
       if (words(blocks) === before) break;
       extra += 2;
     }
