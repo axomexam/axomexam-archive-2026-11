@@ -2,6 +2,18 @@
   "_readme": "Yeh hi jagah hai jahan aap notification likhte hain. Neeche 'items' mein ek entry jodiye, phir GitHub par 'Send notification' workflow chalaiye. Site par bell list aur users ke phone/desktop par browser notification — dono isi file se aate hain. 'id' unique rakhiye (dobara wahi id na dein). 'title' aur 'body' dono language mein likhiye.",
   "items": [
     {
+      "id": "dhs-dme-study-notes-62",
+      "title": {
+        "en": "DHS & DME: study notes for 62 topics are live",
+        "as": "DHS আৰু DME: ৬২ টা বিষয়ৰ অধ্যয়ন টোকা উপলব্ধ"
+      },
+      "body": {
+        "en": "Every technical science topic now has a full bilingual study note, and reasoning notes are being added one by one — series, coding, blood relations, direction, clock, syllogism, seating and puzzles.",
+        "as": "প্ৰতিটো কাৰিকৰী বিজ্ঞানৰ বিষয়ত এতিয়া সম্পূৰ্ণ দ্বিভাষিক অধ্যয়ন টোকা আছে, আৰু যুক্তিৰ টোকা এটা এটা কৰি যোগ হৈ আছে — শৃংখলা, সংকেত, ৰক্ত সম্পৰ্ক, দিশ, ঘড়ী, ন্যায়সংগত অনুমান, বহা-পতা আৰু ধাঁ‌ধা।"
+      },
+      "url": "/exams/dhs-dme-technical/"
+    },
+    {
       "id": "mock-test-12-exams",
       "title": {
         "en": "Free mock tests for 12 exams — start now",

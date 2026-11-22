@@ -9683,6 +9683,11 @@
      language toggle through applyStaticI18n(). */
   const NOTIFICATIONS = [
     {
+      title: { en: "DHS & DME: study notes for 62 topics are live", as: "DHS আৰু DME: ৬২ টা বিষয়ৰ অধ্যয়ন টোকা উপলব্ধ" },
+      desc: { en: "Every technical science topic now has a full bilingual study note, and reasoning notes are being added one by one — series, coding, blood relations, direction, clock, syllogism, seating and puzzles.", as: "প্ৰতিটো কাৰিকৰী বিজ্ঞানৰ বিষয়ত এতিয়া সম্পূৰ্ণ দ্বিভাষিক অধ্যয়ন টোকা আছে, আৰু যুক্তিৰ টোকা এটা এটা কৰি যোগ হৈ আছে — শৃংখলা, সংকেত, ৰক্ত সম্পৰ্ক, দিশ, ঘড়ী, ন্যায়সংগত অনুমান, বহা-পতা আৰু ধাঁ‌ধা।" },
+      href: "/exams/dhs-dme-technical/",
+    },
+    {
       title: { en: "RRB NTPC full guide free book is live", as: "RRB NTPC সম্পূৰ্ণ গাইডৰ বিনামূলীয়া কিতাপ উপলব্ধ" },
       desc: { en: "Mathematics, Reasoning and General Awareness — complete topic-wise questions with bilingual answers and explanations.", as: "গণিত, যুক্তি আৰু সাধাৰণ জ্ঞান — দ্বিভাষিক উত্তৰ আৰু ব্যাখ্যাৰ সৈতে সম্পূৰ্ণ বিষয়ভিত্তিক প্ৰশ্ন।" },
       href: "/exams/rrb-ntpc/",
