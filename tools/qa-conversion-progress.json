@@ -475,14 +475,24 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/sattras-charaideo-maidams-assam.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/transport-highways-railways-ports-india.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 7299,
-  "remaining_questions": 2601,
-  "remaining_files": 84,
+  "total_converted": 7369,
+  "remaining_questions": 2531,
+  "remaining_files": 82,
   "next_files": [
-    "data/content/gk/sattras-charaideo-maidams-assam.json",
-    "data/content/gk/transport-highways-railways-ports-india.json",
     "data/content/gk/demography-census-sexratio-literacy-india.json",
     "data/content/gk/tiger-reserves-ramsar-conservation-india.json",
     "data/content/gk/physical-himalayas-plains-plateau-islands.json",
@@ -490,7 +500,9 @@
     "data/content/gk/planning-history-niti-aayog.json",
     "data/content/gk/capital-money-markets-sebi.json",
     "data/content/gk/green-revolution-msp-pds-subsidies.json",
-    "data/content/gk/energy-renewable-nonrenewable-india.json"
+    "data/content/gk/energy-renewable-nonrenewable-india.json",
+    "data/content/gk/rbi-monetary-policy.json",
+    "data/content/gk/dams-river-projects-india.json"
   ],
   "total_questions": 9900
 }
