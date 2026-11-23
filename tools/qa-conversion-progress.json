@@ -1,0 +1,40 @@
+{
+  "task": "Add 4 options (A-D, random correct) + bilingual explanation to GK Q&A-only questions",
+  "rules": {
+    "options": 4,
+    "correct": "random A/B/C/D, balanced, no wrong answers",
+    "explanation": "bilingual en+as, states why the correct option is right",
+    "schemas": {
+      "q/a": "q + options[{en,as}] + correct + explanation{en,as}",
+      "question_en": "question_en/as + options_en/as + correct + explanation_en/as"
+    }
+  },
+  "batch_size": 25,
+  "files_done": [
+    {
+      "path": "data/content/gk/fundamental-rights.json",
+      "converted": 25,
+      "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/emergency-provisions.json",
+      "converted": 25,
+      "schema": "q"
+    }
+  ],
+  "total_converted": 50,
+  "remaining_questions": 6188,
+  "remaining_files": 157,
+  "next_files": [
+    "data/content/gk/medieval-assam.json",
+    "data/content/gk/neo-vaishnavite-movement.json",
+    "data/content/gk/socio-religious-reforms.json",
+    "data/content/gk/nationalism-inc-formation.json",
+    "data/content/gk/mountbatten-partition-independence.json",
+    "data/content/gk/gandhian-era-movements.json",
+    "data/content/gk/subhas-bose-ina.json",
+    "data/content/gk/revolutionary-movements.json",
+    "data/content/gk/revolt-of-1857.json",
+    "data/content/gk/partition-bengal-swadeshi.json"
+  ]
+}
