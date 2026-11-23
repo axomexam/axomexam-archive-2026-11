@@ -181,14 +181,19 @@
       "converted": 70,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/major-ahom-rulers.json",
+      "converted": 70,
+      "schema": "question_en",
+      "status": "complete"
     }
   ],
-  "total_converted": 1081,
-  "remaining_questions": 5157,
-  "remaining_files": 133,
+  "total_converted": 1151,
+  "remaining_questions": 5087,
+  "remaining_files": 132,
   "next_files": [
     "data/content/gk/medieval-assam.json",
-    "data/content/gk/major-ahom-rulers.json",
     "data/content/gk/industrial-belts-borders-frontiers-india.json",
     "data/content/gk/constitutional-developments-acts.json",
     "data/content/gk/tripartite-struggle-dynasties.json",
@@ -196,6 +201,7 @@
     "data/content/gk/quit-india-martyrs.json",
     "data/content/gk/national-parks.json",
     "data/content/gk/chola-south-kingdoms.json",
-    "data/content/gk/turkish-invasions.json"
+    "data/content/gk/turkish-invasions.json",
+    "data/content/gk/socio-cultural-awakening.json"
   ]
 }
