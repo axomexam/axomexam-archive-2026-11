@@ -379,14 +379,24 @@
       "converted": 45,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/political-associations.json",
+      "converted": 45,
+      "schema": "question_en",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/buranjis-historical-chronicles.json",
+      "converted": 41,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 6683,
-  "remaining_questions": 3217,
-  "remaining_files": 100,
+  "total_converted": 6769,
+  "remaining_questions": 3131,
+  "remaining_files": 98,
   "next_files": [
-    "data/content/gk/political-associations.json",
-    "data/content/gk/buranjis-historical-chronicles.json",
     "data/content/gk/chutiya-kingdom.json",
     "data/content/gk/kachari-kingdom.json",
     "data/content/gk/kamata-khen-kingdom.json",
@@ -394,7 +404,9 @@
     "data/content/gk/court-scientific-literature.json",
     "data/content/gk/jonaki-era-romantic-movement.json",
     "data/content/gk/early-modern-novels-poems-drama.json",
-    "data/content/gk/sankardev-madhavdev-works.json"
+    "data/content/gk/sankardev-madhavdev-works.json",
+    "data/content/gk/charyapada-folk-songs.json",
+    "data/content/gk/early-poets-translations.json"
   ],
   "total_questions": 9900
 }
