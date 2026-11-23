@@ -739,22 +739,46 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/classical-folk-dances-india.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/classical-languages-literature-india.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/handlooms-textiles-crafts-india.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/grasslands-agricultural-belts-world.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 8839,
-  "remaining_questions": 1061,
-  "remaining_files": 40,
+  "total_converted": 8959,
+  "remaining_questions": 941,
+  "remaining_files": 36,
   "next_files": [
-    "data/content/gk/classical-folk-dances-india.json",
-    "data/content/gk/classical-languages-literature-india.json",
-    "data/content/gk/handlooms-textiles-crafts-india.json",
-    "data/content/gk/grasslands-agricultural-belts-world.json",
     "data/content/gk/modern-architecture-unesco-sites-india.json",
     "data/content/gk/straits-canals-seas-gulfs.json",
     "data/content/gk/fairs-festivals-intangible-heritage-india.json",
     "data/content/gk/music-traditions-classical-folk-india.json",
     "data/content/gk/minerals-oil-belts-sea-routes-world.json",
-    "data/content/gk/international-border-lines-world.json"
+    "data/content/gk/international-border-lines-world.json",
+    "data/content/gk/major-religions-philosophies-india.json",
+    "data/content/gk/medieval-indo-islamic-structures.json",
+    "data/content/gk/mountains-deserts-islands-earthquakes.json",
+    "data/content/gk/earth-layers-plates-volcanoes.json"
   ],
   "total_questions": 9900
 }
