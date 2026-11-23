@@ -163,14 +163,19 @@
       "converted": 70,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/revolutionary-movements.json",
+      "converted": 70,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 871,
-  "remaining_questions": 5367,
-  "remaining_files": 136,
+  "total_converted": 941,
+  "remaining_questions": 5297,
+  "remaining_files": 135,
   "next_files": [
     "data/content/gk/medieval-assam.json",
-    "data/content/gk/revolutionary-movements.json",
     "data/content/gk/revolt-of-1857.json",
     "data/content/gk/partition-bengal-swadeshi.json",
     "data/content/gk/major-ahom-rulers.json",
@@ -178,6 +183,7 @@
     "data/content/gk/constitutional-developments-acts.json",
     "data/content/gk/tripartite-struggle-dynasties.json",
     "data/content/gk/saraighat-itakhuli.json",
-    "data/content/gk/quit-india-martyrs.json"
+    "data/content/gk/quit-india-martyrs.json",
+    "data/content/gk/national-parks.json"
   ]
 }
