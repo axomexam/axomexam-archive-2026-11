@@ -241,13 +241,18 @@
       "converted": 56,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/socio-cultural-awakening.json",
+      "converted": 55,
+      "schema": "question_en",
+      "status": "complete"
     }
   ],
-  "total_converted": 5510,
-  "remaining_questions": 4390,
-  "remaining_files": 123,
+  "total_converted": 5565,
+  "remaining_questions": 4335,
+  "remaining_files": 122,
   "next_files": [
-    "data/content/gk/socio-cultural-awakening.json",
     "data/content/gk/revolt-1857-assam.json",
     "data/content/gk/moamoria-rebellion.json",
     "data/content/gk/jainism-buddhism.json",
@@ -256,7 +261,8 @@
     "data/content/gk/indus-valley-civilization.json",
     "data/content/gk/delhi-sultanate.json",
     "data/content/gk/later-mughals-regional-states.json",
-    "data/content/gk/maratha-empire-peshwas.json"
+    "data/content/gk/maratha-empire-peshwas.json",
+    "data/content/gk/mauryan-empire.json"
   ],
   "total_questions": 9900
 }
