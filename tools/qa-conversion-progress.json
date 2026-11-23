@@ -35,11 +35,26 @@
       "path": "data/content/gk/historical-background-making-sources.json",
       "converted": 25,
       "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/judiciary-supreme-court-high-courts-subordinate.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/latitudes-longitudes-equator-idl.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/legal-officers-attorney-general-advocate-general.json",
+      "converted": 25,
+      "schema": "q"
     }
   ],
-  "total_converted": 125,
-  "remaining_questions": 6113,
-  "remaining_files": 154,
+  "total_converted": 200,
+  "remaining_questions": 6038,
+  "remaining_files": 151,
   "next_files": [
     "data/content/gk/medieval-assam.json",
     "data/content/gk/neo-vaishnavite-movement.json",
