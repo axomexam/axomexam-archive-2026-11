@@ -619,22 +619,46 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/salastambha-dynasty.json",
+      "converted": 35,
+      "schema": "mixed",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/music-folk-instruments-assam.json",
+      "converted": 35,
+      "schema": "mixed",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/historical-temple-architecture-assam.json",
+      "converted": 35,
+      "schema": "mixed",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/manuscript-paintings-mask-making-assam.json",
+      "converted": 35,
+      "schema": "mixed",
+      "status": "complete"
     }
   ],
-  "total_converted": 8139,
-  "remaining_questions": 1761,
-  "remaining_files": 60,
+  "total_converted": 8279,
+  "remaining_questions": 1621,
+  "remaining_files": 56,
   "next_files": [
-    "data/content/gk/salastambha-dynasty.json",
-    "data/content/gk/music-folk-instruments-assam.json",
-    "data/content/gk/historical-temple-architecture-assam.json",
-    "data/content/gk/manuscript-paintings-mask-making-assam.json",
     "data/content/gk/industrial-policies-1991-reforms.json",
     "data/content/gk/classical-folk-dances-assam.json",
     "data/content/gk/handlooms-silk-textiles-assam.json",
     "data/content/gk/pala-dynasty.json",
     "data/content/gk/digital-infrastructure-fintech-india.json",
-    "data/content/gk/central-flagship-welfare-schemes.json"
+    "data/content/gk/central-flagship-welfare-schemes.json",
+    "data/content/gk/demographics-hdi-census-india.json",
+    "data/content/gk/minerals-iron-coal-petroleum-bauxite-india.json",
+    "data/content/gk/national-parks-wls-biosphere-india.json",
+    "data/content/gk/union-budget-gst-fiscal-policy.json"
   ],
   "total_questions": 9900
 }
