@@ -643,22 +643,46 @@
       "converted": 35,
       "schema": "mixed",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/industrial-policies-1991-reforms.json",
+      "converted": 35,
+      "schema": "mixed",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/classical-folk-dances-assam.json",
+      "converted": 35,
+      "schema": "mixed",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/handlooms-silk-textiles-assam.json",
+      "converted": 35,
+      "schema": "mixed",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/pala-dynasty.json",
+      "converted": 35,
+      "schema": "mixed",
+      "status": "complete"
     }
   ],
-  "total_converted": 8279,
-  "remaining_questions": 1621,
-  "remaining_files": 56,
+  "total_converted": 8419,
+  "remaining_questions": 1481,
+  "remaining_files": 52,
   "next_files": [
-    "data/content/gk/industrial-policies-1991-reforms.json",
-    "data/content/gk/classical-folk-dances-assam.json",
-    "data/content/gk/handlooms-silk-textiles-assam.json",
-    "data/content/gk/pala-dynasty.json",
     "data/content/gk/digital-infrastructure-fintech-india.json",
     "data/content/gk/central-flagship-welfare-schemes.json",
     "data/content/gk/demographics-hdi-census-india.json",
     "data/content/gk/minerals-iron-coal-petroleum-bauxite-india.json",
     "data/content/gk/national-parks-wls-biosphere-india.json",
-    "data/content/gk/union-budget-gst-fiscal-policy.json"
+    "data/content/gk/union-budget-gst-fiscal-policy.json",
+    "data/content/gk/indigenous-tribal-traditions-customs-assam.json",
+    "data/content/gk/commercial-banking-npa-inclusion.json",
+    "data/content/gk/services-sector-it-telecom-tourism.json",
+    "data/content/gk/major-festivals-fairs-assam.json"
   ],
   "total_questions": 9900
 }
