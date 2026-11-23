@@ -3014,350 +3014,1500 @@
       "question_en": "Mir Jumla was the governor (subahdar) of which province?",
       "question_as": "মিৰ জুমলা কোন প্ৰদেশৰ গৱৰ্ণৰ (চুবেদাৰ) আছিল?",
       "answer_en": "Bengal",
-      "answer_as": "বংগ"
+      "answer_as": "বংগ",
+      "options": [
+        {
+          "en": "Bihar",
+          "as": "বিহাৰ"
+        },
+        {
+          "en": "Awadh",
+          "as": "অৱধ"
+        },
+        {
+          "en": "Bengal",
+          "as": "বংগ"
+        },
+        {
+          "en": "Gujarat",
+          "as": "গুজৰাট"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Mir Jumla was the governor (subahdar) of Bengal.",
+        "as": "মিৰ জুমলা বংগৰ গৱৰ্ণৰ (চুবেদাৰ) আছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Which Ahom capital did Mir Jumla capture in 1662?",
       "question_as": "মিৰ জুমলাই ১৬৬২ চনত কোন আহোম ৰাজধানী দখল কৰিছিল?",
       "answer_en": "Garhgaon (Gargaon)",
-      "answer_as": "গড়গাঁও"
+      "answer_as": "গড়গাঁও",
+      "options": [
+        {
+          "en": "Charaideo",
+          "as": "চৰাইদেউ"
+        },
+        {
+          "en": "Rangpur",
+          "as": "ৰংপুৰ"
+        },
+        {
+          "en": "Jorhat",
+          "as": "যোৰহাট"
+        },
+        {
+          "en": "Garhgaon (Gargaon)",
+          "as": "গড়গাঁও (গৰ্গাঁও)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Mir Jumla captured the Ahom capital Garhgaon in 1662.",
+        "as": "মিৰ জুমলাই ১৬৬২ চনত আহোম ৰাজধানী গড়গাঁও দখল কৰিছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "In which year was the Treaty of Ghilajharighat signed?",
       "question_as": "ঘিলাঝাৰীঘাট সন্ধি কোন বছৰত স্বাক্ষৰিত হৈছিল?",
       "answer_en": "1663",
-      "answer_as": "১৬৬৩"
+      "answer_as": "১৬৬৩",
+      "options": [
+        {
+          "en": "1662",
+          "as": "১৬৬২"
+        },
+        {
+          "en": "1667",
+          "as": "১৬৬৭"
+        },
+        {
+          "en": "1663",
+          "as": "১৬৬৩"
+        },
+        {
+          "en": "1671",
+          "as": "১৬৭১"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Treaty of Ghilajharighat was signed in 1663.",
+        "as": "ঘিলাঝাৰিঘাটৰ সন্ধি ১৬৬৩ চনত স্বাক্ষৰিত হৈছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The Treaty of Ghilajharighat was signed between Mir Jumla and which Ahom king?",
       "question_as": "ঘিলাঝাৰীঘাট সন্ধি মিৰ জুমলা আৰু কোন আহোম ৰজাৰ মাজত স্বাক্ষৰিত হৈছিল?",
       "answer_en": "Jayadhwaj Singha",
-      "answer_as": "জয়ধ্বজ সিংহ"
+      "answer_as": "জয়ধ্বজ সিংহ",
+      "options": [
+        {
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
+        },
+        {
+          "en": "Jayadhwaj Singha",
+          "as": "জয়ধ্বজ সিংহ"
+        },
+        {
+          "en": "Pratap Singha",
+          "as": "প্ৰতাপ সিংহ"
+        },
+        {
+          "en": "Gadadhar Singha",
+          "as": "গদাধৰ সিংহ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Treaty of Ghilajharighat was signed between Mir Jumla and Jayadhwaj Singha.",
+        "as": "ঘিলাঝাৰিঘাটৰ সন্ধি মিৰ জুমলা আৰু জয়ধ্বজ সিংহৰ মাজত স্বাক্ষৰিত হৈছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Under the Treaty of Ghilajharighat, the Ahoms agreed to?",
       "question_as": "ঘিলাঝাৰীঘাট সন্ধি অনুসৰি আহোমসকলে কি মানি লৈছিল?",
       "answer_en": "Pay a war indemnity and cede some territory to the Mughals",
-      "answer_as": "যুদ্ধৰ ক্ষতিপূৰণ দিয়া আৰু মোগলসকললৈ কিছু অঞ্চল সমৰ্পণ কৰা"
+      "answer_as": "যুদ্ধৰ ক্ষতিপূৰণ দিয়া আৰু মোগলসকললৈ কিছু অঞ্চল সমৰ্পণ কৰা",
+      "options": [
+        {
+          "en": "Pay a war indemnity and cede some territory to the Mughals",
+          "as": "যুদ্ধৰ ক্ষতিপূৰণ দিয়া আৰু মোগলক কিছু অঞ্চল এৰি দিয়া"
+        },
+        {
+          "en": "Accept Mughal suzerainty over the whole Brahmaputra valley",
+          "as": "সমগ্ৰ ব্ৰহ্মপুত্ৰ উপত্যকাত মোগল আধিপত্য স্বীকাৰ কৰা"
+        },
+        {
+          "en": "Give up the Ahom capital permanently",
+          "as": "আহোম ৰাজধানী স্থায়ীভাৱে এৰি দিয়া"
+        },
+        {
+          "en": "Convert to Islam",
+          "as": "ইছলাম ধৰ্ম গ্ৰহণ কৰা"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Under the Treaty of Ghilajharighat the Ahoms agreed to pay a war indemnity and cede some territory to the Mughals.",
+        "as": "ঘিলাঝাৰিঘাটৰ সন্ধিৰ অধীনত আহোমসকলে যুদ্ধৰ ক্ষতিপূৰণ দিবলৈ আৰু মোগলক কিছু অঞ্চল এৰি দিবলৈ মান্তি হৈছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Who died soon after the Treaty of Ghilajharighat?",
       "question_as": "ঘিলাঝাৰীঘাট সন্ধিৰ পিছতে কোনৰ মৃত্যু হৈছিল?",
       "answer_en": "Mir Jumla",
-      "answer_as": "মিৰ জুমলা"
+      "answer_as": "মিৰ জুমলা",
+      "options": [
+        {
+          "en": "Jayadhwaj Singha",
+          "as": "জয়ধ্বজ সিংহ"
+        },
+        {
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
+        },
+        {
+          "en": "Mir Jumla",
+          "as": "মিৰ জুমলা"
+        },
+        {
+          "en": "Ram Singh",
+          "as": "ৰাম সিং"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Mir Jumla died soon after the Treaty of Ghilajharighat.",
+        "as": "ঘিলাঝাৰিঘাটৰ সন্ধিৰ কিছু সময়ৰ পিছতে মিৰ জুমলাৰ মৃত্যু হৈছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Which Ahom king refused to honour the tribute terms and prepared for war?",
       "question_as": "কোন আহোম ৰজাই টেৰকাৰ চৰ্ত মানিবলৈ অস্বীকাৰ কৰি যুদ্ধৰ সাজু হৈছিল?",
       "answer_en": "Chakradhwaj Singha",
-      "answer_as": "চক্ৰধ্বজ সিংহ"
+      "answer_as": "চক্ৰধ্বজ সিংহ",
+      "options": [
+        {
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
+        },
+        {
+          "en": "Jayadhwaj Singha",
+          "as": "জয়ধ্বজ সিংহ"
+        },
+        {
+          "en": "Udayaditya Singha",
+          "as": "উদয়াদিত্য সিংহ"
+        },
+        {
+          "en": "Gadadhar Singha",
+          "as": "গদাধৰ সিংহ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Chakradhwaj Singha refused to honour the tribute terms and prepared for war.",
+        "as": "চক্ৰধ্বজ সিংহই কৰ ভৰিবলৈ অস্বীকাৰ কৰি যুদ্ধৰ প্ৰস্তুতি চলাইছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Which Ahom king recaptured Guwahati from the Mughals?",
       "question_as": "কোন আহোম ৰজাই মোগলসকলৰ পৰা গুৱাহাটী উদ্ধাৰ কৰিছিল?",
       "answer_en": "Chakradhwaj Singha",
-      "answer_as": "চক্ৰধ্বজ সিংহ"
+      "answer_as": "চক্ৰধ্বজ সিংহ",
+      "options": [
+        {
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
+        },
+        {
+          "en": "Gadadhar Singha",
+          "as": "গদাধৰ সিংহ"
+        },
+        {
+          "en": "Pratap Singha",
+          "as": "প্ৰতাপ সিংহ"
+        },
+        {
+          "en": "Rudra Singha",
+          "as": "ৰুদ্ৰ সিংহ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Chakradhwaj Singha recaptured Guwahati from the Mughals.",
+        "as": "চক্ৰধ্বজ সিংহই মোগলৰ পৰা গুৱাহাটী পুনৰ দখল কৰিছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The Battle of Alaboi was fought in which year?",
       "question_as": "আলাবৈ যুদ্ধ কোন বছৰত হৈছিল?",
       "answer_en": "1669",
-      "answer_as": "১৬৬৯"
+      "answer_as": "১৬৬৯",
+      "options": [
+        {
+          "en": "1667",
+          "as": "১৬৬৭"
+        },
+        {
+          "en": "1671",
+          "as": "১৬৭১"
+        },
+        {
+          "en": "1663",
+          "as": "১৬৬৩"
+        },
+        {
+          "en": "1669",
+          "as": "১৬৬৯"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Battle of Alaboi was fought in 1669.",
+        "as": "আলাবইৰ যুদ্ধ ১৬৬৯ চনত হৈছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Who won the Battle of Alaboi?",
       "question_as": "আলাবৈ যুদ্ধ কোনে জিকিছিল?",
       "answer_en": "The Mughals under Ram Singh",
-      "answer_as": "ৰাম সিংহৰ নেতৃত্বত মোগলসকল"
+      "answer_as": "ৰাম সিংহৰ নেতৃত্বত মোগলসকল",
+      "options": [
+        {
+          "en": "The Ahoms under Lachit Borphukan",
+          "as": "লাচিত বৰফুকনৰ অধীনত আহোমসকল"
+        },
+        {
+          "en": "The Mughals under Ram Singh",
+          "as": "ৰাম সিঙৰ অধীনত মোগলসকল"
+        },
+        {
+          "en": "The Ahoms under Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহৰ অধীনত আহোমসকল"
+        },
+        {
+          "en": "The Koch under Chilarai",
+          "as": "চিলাৰায়ৰ অধীনত কোচসকল"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Battle of Alaboi was won by the Mughals under Ram Singh.",
+        "as": "আলাবইৰ যুদ্ধ ৰাম সিঙৰ অধীনত মোগলসকলে জিকিছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Who was the Mughal emperor at the time of the Battle of Saraighat?",
       "question_as": "শৰাইঘাট যুদ্ধৰ সময়ত মোগল সম্ৰাট কোন আছিল?",
       "answer_en": "Aurangzeb",
-      "answer_as": "ঔৰংজেৱ"
+      "answer_as": "ঔৰংজেৱ",
+      "options": [
+        {
+          "en": "Shah Jahan",
+          "as": "শ্বাহজাহান"
+        },
+        {
+          "en": "Aurangzeb",
+          "as": "ঔৰংজেৱ"
+        },
+        {
+          "en": "Jahangir",
+          "as": "জাহাংগীৰ"
+        },
+        {
+          "en": "Bahadur Shah",
+          "as": "বাহাদুৰ শ্বাহ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Aurangzeb was the Mughal emperor at the time of the Battle of Saraighat.",
+        "as": "শৰাইঘাটৰ যুদ্ধৰ সময়ত মোগল সম্ৰাট আছিল ঔৰংজেৱ।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The Ahom-Mughal conflict was mainly over the control of which region?",
       "question_as": "আহোম-মোগল সংঘাত মূলতঃ কোন অঞ্চলৰ নিয়ন্ত্ৰণক লৈ হৈছিল?",
       "answer_en": "Kamrup (Lower Assam) and Guwahati",
-      "answer_as": "কামৰূপ (ভাটি অসম) আৰু গুৱাহাটী"
+      "answer_as": "কামৰূপ (ভাটি অসম) আৰু গুৱাহাটী",
+      "options": [
+        {
+          "en": "Upper Assam and Sadiya",
+          "as": "উজনি অসম আৰু শদিয়া"
+        },
+        {
+          "en": "Cachar and Manipur",
+          "as": "কাছাৰ আৰু মণিপুৰ"
+        },
+        {
+          "en": "Kamrup (Lower Assam) and Guwahati",
+          "as": "কমৰূপ (নিম্ন অসম) আৰু গুৱাহাটী"
+        },
+        {
+          "en": "Bengal and Bihar",
+          "as": "বংগ আৰু বিহাৰ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Ahom-Mughal conflict was mainly over the control of Kamrup (Lower Assam) and Guwahati.",
+        "as": "আহোম-মোগল সংঘাত মূলতঃ কমৰূপ (নিম্ন অসম) আৰু গুৱাহাটীৰ নিয়ন্ত্ৰণৰ বাবে আছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "How did the Ahoms defeat the Mughal navy at Saraighat?",
       "question_as": "শৰাইঘাটত আহোমসকলে মোগল নৌ-বাহিনীক কেনেকৈ পৰাস্ত কৰিছিল?",
       "answer_en": "Through clever riverine warfare and guerrilla tactics",
-      "answer_as": "চতুৰ নদী যুদ্ধ কৌশল আৰু গৰিলা পদ্ধতিৰে"
+      "answer_as": "চতুৰ নদী যুদ্ধ কৌশল আৰু গৰিলা পদ্ধতিৰে",
+      "options": [
+        {
+          "en": "Through clever riverine warfare and guerrilla tactics",
+          "as": "চতুৰ নদী-যুদ্ধ আৰু গেৰিলা কৌশলৰ জৰিয়তে"
+        },
+        {
+          "en": "Through a larger navy and superior artillery",
+          "as": "বৃহত্তৰ নৌবাহিনী আৰু শ্ৰেষ্ঠ কামানৰ জৰিয়তে"
+        },
+        {
+          "en": "Through an alliance with the Mughal navy",
+          "as": "মোগল নৌবাহিনীৰ সৈতে মিত্ৰতাৰ জৰিয়তে"
+        },
+        {
+          "en": "Through a land blockade of Bengal",
+          "as": "বংগৰ স্থল অৱৰোধৰ জৰিয়তে"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Ahoms defeated the Mughal navy at Saraighat through clever riverine warfare and guerrilla tactics.",
+        "as": "আহোমসকলে শৰাইঘাটত চতুৰ নদী-যুদ্ধ আৰু গেৰিলা কৌশলৰ জৰিয়তে মোগল নৌবাহিনীক পৰাস্ত কৰিছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Lachit Borphukan died in which year?",
       "question_as": "লাচিত বৰফুকন কোন বছৰত মৃত্যু হৈছিল?",
       "answer_en": "1672",
-      "answer_as": "১৬৭২"
+      "answer_as": "১৬৭২",
+      "options": [
+        {
+          "en": "1671",
+          "as": "১৬৭১"
+        },
+        {
+          "en": "1669",
+          "as": "১৬৬৯"
+        },
+        {
+          "en": "1682",
+          "as": "১৬৮২"
+        },
+        {
+          "en": "1672",
+          "as": "১৬৭২"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Lachit Borphukan died in 1672.",
+        "as": "লাচিত বৰফুকনৰ ১৬৭২ চনত মৃত্যু হৈছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Who was the Ahom king when Lachit Borphukan was appointed Barphukan?",
       "question_as": "লাচিত বৰফুকনক বৰফুকন নিযুক্ত কৰোঁতে আহোম ৰজা কোন আছিল?",
       "answer_en": "Chakradhwaj Singha",
-      "answer_as": "চক্ৰধ্বজ সিংহ"
+      "answer_as": "চক্ৰধ্বজ সিংহ",
+      "options": [
+        {
+          "en": "Udayaditya Singha",
+          "as": "উদয়াদিত্য সিংহ"
+        },
+        {
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
+        },
+        {
+          "en": "Gadadhar Singha",
+          "as": "গদাধৰ সিংহ"
+        },
+        {
+          "en": "Jayadhwaj Singha",
+          "as": "জয়ধ্বজ সিংহ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Lachit Borphukan was appointed Barphukan during the reign of Chakradhwaj Singha.",
+        "as": "চক্ৰধ্বজ সিংহৰ ৰাজত্বকালত লাচিতক বৰফুকন নিযুক্ত কৰা হৈছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Which Mughal general was the son of Mirza Raja Jai Singh?",
       "question_as": "কোন মোগল সেনাপতি মিৰ্জা ৰজা জয় সিংহৰ পুতেক আছিল?",
       "answer_en": "Raja Ram Singh",
-      "answer_as": "ৰজা ৰাম সিংহ"
+      "answer_as": "ৰজা ৰাম সিংহ",
+      "options": [
+        {
+          "en": "Mir Jumla",
+          "as": "মিৰ জুমলা"
+        },
+        {
+          "en": "Shayista Khan",
+          "as": "শায়েস্তা খান"
+        },
+        {
+          "en": "Raja Jai Singh himself",
+          "as": "ৰজা জয় সিং নিজে"
+        },
+        {
+          "en": "Raja Ram Singh",
+          "as": "ৰজা ৰাম সিং"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Raja Ram Singh was the Mughal general who was the son of Mirza Raja Jai Singh.",
+        "as": "ৰজা ৰাম সিং আছিল মিৰ্জা ৰজা জয় সিঙৰ পুত্ৰ মোগল সেনাপতি।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The first Mughal expedition against Assam was repulsed in which year?",
       "question_as": "অসমৰ বিৰুদ্ধে প্ৰথম মোগল অভিযান কোন বছৰত প্ৰতিৰোধ হৈছিল?",
       "answer_en": "1615",
-      "answer_as": "১৬১৫"
+      "answer_as": "১৬১৫",
+      "options": [
+        {
+          "en": "1603",
+          "as": "১৬০৩"
+        },
+        {
+          "en": "1615",
+          "as": "১৬১৫"
+        },
+        {
+          "en": "1636",
+          "as": "১৬৩৬"
+        },
+        {
+          "en": "1662",
+          "as": "১৬৬২"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The first Mughal expedition against Assam was repulsed in 1615.",
+        "as": "অসমৰ বিৰুদ্ধে প্ৰথম মোগল অভিযান ১৬১৫ চনত বাধা পাইছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Which Ahom king repulsed the first Mughal expedition?",
       "question_as": "কোন আহোম ৰজাই প্ৰথম মোগল অভিযান প্ৰতিৰোধ কৰিছিল?",
       "answer_en": "Pratap Singha",
-      "answer_as": "প্ৰতাপ সিংহ"
+      "answer_as": "প্ৰতাপ সিংহ",
+      "options": [
+        {
+          "en": "Pratap Singha",
+          "as": "প্ৰতাপ সিংহ"
+        },
+        {
+          "en": "Suhungmung",
+          "as": "চুহুংমুং"
+        },
+        {
+          "en": "Jayadhwaj Singha",
+          "as": "জয়ধ্বজ সিংহ"
+        },
+        {
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Pratap Singha repulsed the first Mughal expedition against Assam.",
+        "as": "প্ৰতাপ সিংহই অসমৰ বিৰুদ্ধে প্ৰথম মোগল অভিযানক বাধা দিছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "After Saraighat, the Ahoms regained control of which territory?",
       "question_as": "শৰাইঘাটৰ পিছত আহোমসকলে কোন অঞ্চলৰ নিয়ন্ত্ৰণ ঘূৰাই পাইছিল?",
       "answer_en": "Guwahati and the surrounding region",
-      "answer_as": "গুৱাহাটী আৰু ইয়াৰ আশপাশৰ অঞ্চল"
+      "answer_as": "গুৱাহাটী আৰু ইয়াৰ আশপাশৰ অঞ্চল",
+      "options": [
+        {
+          "en": "Guwahati and the surrounding region",
+          "as": "গুৱাহাটী আৰু ইয়াৰ আশে-পাশেৰ অঞ্চল"
+        },
+        {
+          "en": "Garhgaon and Upper Assam",
+          "as": "গড়গাঁও আৰু উজনি অসম"
+        },
+        {
+          "en": "Bengal and Kamrup permanently",
+          "as": "বংগ আৰু কমৰূপ স্থায়ীভাৱে"
+        },
+        {
+          "en": "The whole of the Brahmaputra valley",
+          "as": "সমগ্ৰ ব্ৰহ্মপুত্ৰ উপত্যকা"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "After Saraighat, the Ahoms regained control of Guwahati and the surrounding region.",
+        "as": "শৰাইঘাটৰ পিছত আহোমসকলে গুৱাহাটী আৰু ইয়াৰ আশে-পাশেৰ অঞ্চলৰ নিয়ন্ত্ৰণ পুনৰ লাভ কৰিছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The war indemnity paid by the Ahoms under the Treaty of Ghilajharighat included?",
       "question_as": "ঘিলাঝাৰীঘাট সন্ধি অনুসৰি আহোমসকলে দিয়া ক্ষতিপূৰণত কি আছিল?",
       "answer_en": "Elephants, gold and other valuables",
-      "answer_as": "হাতী, সোণ আদি মূল্যবান সামগ্ৰী"
+      "answer_as": "হাতী, সোণ আদি মূল্যবান সামগ্ৰী",
+      "options": [
+        {
+          "en": "Only cash money",
+          "as": "কেৱল নগদ ধন"
+        },
+        {
+          "en": "Elephants, gold and other valuables",
+          "as": "হাতী, সোণ আৰু অন্যান্য মূল্যৱান সামগ্ৰী"
+        },
+        {
+          "en": "Only horses and weapons",
+          "as": "কেৱল ঘোঁৰা আৰু অস্ত্ৰ"
+        },
+        {
+          "en": "Only rice and grain",
+          "as": "কেৱল চাউল আৰু শস্য"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The war indemnity under the Treaty of Ghilajharighat included elephants, gold and other valuables.",
+        "as": "ঘিলাঝাৰিঘাটৰ সন্ধিৰ অধীনত যুদ্ধৰ ক্ষতিপূৰণত হাতী, সোণ আৰু অন্যান্য মূল্যৱান সামগ্ৰী আছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Mir Jumla died in which year?",
       "question_as": "মিৰ জুমলা কোন বছৰত মৃত্যু হৈছিল?",
       "answer_en": "1663",
-      "answer_as": "১৬৬৩"
+      "answer_as": "১৬৬৩",
+      "options": [
+        {
+          "en": "1662",
+          "as": "১৬৬২"
+        },
+        {
+          "en": "1667",
+          "as": "১৬৬৭"
+        },
+        {
+          "en": "1663",
+          "as": "১৬৬৩"
+        },
+        {
+          "en": "1671",
+          "as": "১৬৭১"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Mir Jumla died in 1663.",
+        "as": "মিৰ জুমলাৰ ১৬৬৩ চনত মৃত্যু হৈছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The Ahom army at Saraighat was much smaller than the Mughal force. This shows?",
       "question_as": "শৰাইঘাটত আহোম সৈন্য মোগল সৈন্যতকৈ বহু সৰু আছিল। ই কি দেখুৱায়?",
       "answer_en": "The superiority of Ahom naval strategy and defence",
-      "answer_as": "আহোম নৌ-কৌশল আৰু প্ৰতিৰক্ষাৰ শ্ৰেষ্ঠতা"
+      "answer_as": "আহোম নৌ-কৌশল আৰু প্ৰতিৰক্ষাৰ শ্ৰেষ্ঠতা",
+      "options": [
+        {
+          "en": "The superiority of Ahom naval strategy and defence",
+          "as": "আহোম নৌ-কৌশল আৰু প্ৰতিৰক্ষাৰ শ্ৰেষ্ঠত্ব"
+        },
+        {
+          "en": "The weakness of the Mughal army",
+          "as": "মোগল সেনাৰ দুৰ্বলতা"
+        },
+        {
+          "en": "The small size of the Mughal fleet",
+          "as": "মোগল নৌবহৰৰ সৰু আকাৰ"
+        },
+        {
+          "en": "The support of the Mughal emperor",
+          "as": "মোগল সম্ৰাটৰ সমৰ্থন"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "That a smaller Ahom army defeated a much larger Mughal force shows the superiority of Ahom naval strategy and defence.",
+        "as": "সৰু আহোম বাহিনীয়ে বহুত ডাঙৰ মোগল বাহিনীক পৰাস্ত কৰাটোৱে আহোম নৌ-কৌশল আৰু প্ৰতিৰক্ষাৰ শ্ৰেষ্ঠত্ব দেখুৱায়।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Which Mughal province was Assam a disputed frontier of?",
       "question_as": "অসম কোন মোগল প্ৰদেশৰ বিতৰ্কিত সীমান্ত আছিল?",
       "answer_en": "Bengal",
-      "answer_as": "বংগ"
+      "answer_as": "বংগ",
+      "options": [
+        {
+          "en": "Bihar",
+          "as": "বিহাৰ"
+        },
+        {
+          "en": "Orissa",
+          "as": "উৰিষ্যা"
+        },
+        {
+          "en": "Gujarat",
+          "as": "গুজৰাট"
+        },
+        {
+          "en": "Bengal",
+          "as": "বংগ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Assam was a disputed frontier of the Mughal province of Bengal.",
+        "as": "অসম মোগল প্ৰদেশ বংগৰ এটা বিবাদপূৰ্ণ সীমান্ত আছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The Ahoms used which river for their naval warfare at Saraighat?",
       "question_as": "শৰাইঘাটত আহোমসকলে নৌ-যুদ্ধৰ বাবে কোন নদী ব্যৱহাৰ কৰিছিল?",
       "answer_en": "The Brahmaputra",
-      "answer_as": "ব্ৰহ্মপুত্ৰ নদী"
+      "answer_as": "ব্ৰহ্মপুত্ৰ নদী",
+      "options": [
+        {
+          "en": "The Manas",
+          "as": "মনাহ"
+        },
+        {
+          "en": "The Dhansiri",
+          "as": "ধানশিৰি"
+        },
+        {
+          "en": "The Subansiri",
+          "as": "সোৱণশিৰি"
+        },
+        {
+          "en": "The Brahmaputra",
+          "as": "ব্ৰহ্মপুত্ৰ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Ahoms used the Brahmaputra for their naval warfare at Saraighat.",
+        "as": "আহোমসকলে শৰাইঘাটত নৌ-যুদ্ধৰ বাবে ব্ৰহ্মপুত্ৰ নদী ব্যৱহাৰ কৰিছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The Mughal forces at Saraighat were led from which direction?",
       "question_as": "শৰাইঘাটত মোগল সৈন্য কোন দিশৰ পৰা আহিছিল?",
       "answer_en": "From the west (Bengal side)",
-      "answer_as": "পশ্চিম (বংগ) দিশৰ পৰা"
+      "answer_as": "পশ্চিম (বংগ) দিশৰ পৰা",
+      "options": [
+        {
+          "en": "From the east (Sadiya side)",
+          "as": "পূবৰ পৰা (শদিয়াৰ ফালৰ পৰা)"
+        },
+        {
+          "en": "From the north (Bhutan side)",
+          "as": "উত্তৰৰ পৰা (ভুটানৰ ফালৰ পৰা)"
+        },
+        {
+          "en": "From the west (Bengal side)",
+          "as": "পশ্চিমৰ পৰা (বংগৰ ফালৰ পৰা)"
+        },
+        {
+          "en": "From the south (Naga hills side)",
+          "as": "দক্ষিণৰ পৰা (নগা পাহাৰৰ ফালৰ পৰা)"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Mughal forces at Saraighat were led from the west, that is from the Bengal side.",
+        "as": "শৰাইঘাটত মোগল বাহিনীক পশ্চিমৰ পৰা, অৰ্থাৎ বংগৰ ফালৰ পৰা পৰিচালনা কৰা হৈছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Who is remembered as the greatest Ahom naval warrior?",
       "question_as": "সবাতকৈ মহান আহোম নৌ-যোদ্ধা কোন বুলি স্মৰণ কৰা হয়?",
       "answer_en": "Lachit Borphukan",
-      "answer_as": "লাচিত বৰফুকন"
+      "answer_as": "লাচিত বৰফুকন",
+      "options": [
+        {
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
+        },
+        {
+          "en": "Lachit Borphukan",
+          "as": "লাচিত বৰফুকন"
+        },
+        {
+          "en": "Pratap Singha",
+          "as": "প্ৰতাপ সিংহ"
+        },
+        {
+          "en": "Momai Tamuli Barbarua",
+          "as": "মোমাই তামুলী বৰবৰুৱা"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Lachit Borphukan is remembered as the greatest Ahom naval warrior.",
+        "as": "লাচিত বৰফুকনক মহানতম আহোম নৌ-যোদ্ধা হিচাপে স্মৰণ কৰা হয়।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The Mughals wanted to conquer Assam mainly for?",
       "question_as": "মোগলসকলে অসম জয় কৰিব বিচাৰিছিল মূলতঃ কিয়?",
       "answer_en": "Strategic control over Kamrup and its wealth",
-      "answer_as": "কামৰূপৰ কৌশলগত নিয়ন্ত্ৰণ আৰু সম্পদৰ বাবে"
+      "answer_as": "কামৰূপৰ কৌশলগত নিয়ন্ত্ৰণ আৰু সম্পদৰ বাবে",
+      "options": [
+        {
+          "en": "To spread Islam in Assam",
+          "as": "অসমত ইছলাম প্ৰচাৰ কৰা"
+        },
+        {
+          "en": "To capture the Ahom capital for trade",
+          "as": "বাণিজ্যৰ বাবে আহোম ৰাজধানী দখল কৰা"
+        },
+        {
+          "en": "Strategic control over Kamrup and its wealth",
+          "as": "কমৰূপৰ কৌশলগত নিয়ন্ত্ৰণ আৰু ইয়াৰ সম্পদ"
+        },
+        {
+          "en": "To punish the Ahoms for the 1615 defeat only",
+          "as": "কেৱল ১৬১৫ চনৰ পৰাজয়ৰ বাবে আহোমক শাস্তি দিয়া"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Mughals wanted to conquer Assam mainly for strategic control over Kamrup and its wealth.",
+        "as": "মোগলসকলে মূলতঃ কমৰূপৰ কৌশলগত নিয়ন্ত্ৰণ আৰু ইয়াৰ সম্পদৰ বাবে অসম জয় কৰিব বিচাৰিছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "After the Treaty of Ghilajharighat, Guwahati was held by whom?",
       "question_as": "ঘিলাঝাৰীঘাট সন্ধিৰ পিছত গুৱাহাটী কাৰ অধীনত আছিল?",
       "answer_en": "The Mughals",
-      "answer_as": "মোগলসকল"
+      "answer_as": "মোগলসকল",
+      "options": [
+        {
+          "en": "The Ahoms",
+          "as": "আহোমসকল"
+        },
+        {
+          "en": "The Mughals",
+          "as": "মোগলসকল"
+        },
+        {
+          "en": "The Koch",
+          "as": "কোচসকল"
+        },
+        {
+          "en": "The British",
+          "as": "ব্ৰিটিছ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "After the Treaty of Ghilajharighat, Guwahati was held by the Mughals.",
+        "as": "ঘিলাঝাৰিঘাটৰ সন্ধিৰ পিছত গুৱাহাটী মোগলসকলৰ দখলত আছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The Ahom victory at Saraighat was a victory of which king's policy?",
       "question_as": "শৰাইঘাটৰ আহোম বিজয় কোন ৰজাৰ নীতিৰ বিজয় আছিল?",
       "answer_en": "Chakradhwaj Singha's anti-Mughal policy",
-      "answer_as": "চক্ৰধ্বজ সিংহৰ মোগল-বিৰোধী নীতি"
+      "answer_as": "চক্ৰধ্বজ সিংহৰ মোগল-বিৰোধী নীতি",
+      "options": [
+        {
+          "en": "Pratap Singha's policy of neutrality",
+          "as": "প্ৰতাপ সিংহৰ নিৰপেক্ষ নীতি"
+        },
+        {
+          "en": "Gadadhar Singha's policy of alliance",
+          "as": "গদাধৰ সিংহৰ মিত্ৰতা নীতি"
+        },
+        {
+          "en": "Rudra Singha's policy of peace",
+          "as": "ৰুদ্ৰ সিংহৰ শান্তি নীতি"
+        },
+        {
+          "en": "Chakradhwaj Singha's anti-Mughal policy",
+          "as": "চক্ৰধ্বজ সিংহৰ মোগল-বিৰোধী নীতি"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Ahom victory at Saraighat was a victory of Chakradhwaj Singha's anti-Mughal policy.",
+        "as": "শৰাইঘাটত আহোমৰ বিজয় চক্ৰধ্বজ সিংহৰ মোগল-বিৰোধী নীতিৰ বিজয় আছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Which Ahom king did not accept the Ghilajharighat treaty and renewed the war?",
       "question_as": "কোন আহোম ৰজাই ঘিলাঝাৰীঘাট সন্ধি গ্ৰহণ নকৰি যুদ্ধ পুনৰাৰম্ভ কৰিছিল?",
       "answer_en": "Chakradhwaj Singha",
-      "answer_as": "চক্ৰধ্বজ সিংহ"
+      "answer_as": "চক্ৰধ্বজ সিংহ",
+      "options": [
+        {
+          "en": "Jayadhwaj Singha",
+          "as": "জয়ধ্বজ সিংহ"
+        },
+        {
+          "en": "Udayaditya Singha",
+          "as": "উদয়াদিত্য সিংহ"
+        },
+        {
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
+        },
+        {
+          "en": "Gadadhar Singha",
+          "as": "গদাধৰ সিংহ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Chakradhwaj Singha did not accept the Ghilajharighat treaty and renewed the war.",
+        "as": "চক্ৰধ্বজ সিংহই ঘিলাঝাৰিঘাটৰ সন্ধি গ্ৰহণ নকৰি যুদ্ধ পুনৰ আৰম্ভ কৰিছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The Ahom strategy of harassing the Mughal army through food supply cuts is called?",
       "question_as": "খাদ্য যোগান বন্ধ কৰি মোগল সৈন্যক উৎপীড়ন কৰা আহোম কৌশলক কি বুলি কোৱা হয়?",
       "answer_en": "Guerrilla warfare",
-      "answer_as": "গৰিলা যুদ্ধ"
+      "answer_as": "গৰিলা যুদ্ধ",
+      "options": [
+        {
+          "en": "Guerrilla warfare",
+          "as": "গেৰিলা যুদ্ধ"
+        },
+        {
+          "en": "Siege warfare",
+          "as": "অৱৰোধ যুদ্ধ"
+        },
+        {
+          "en": "Naval blockade",
+          "as": "নৌ অৱৰোধ"
+        },
+        {
+          "en": "Trench warfare",
+          "as": "পৰিখা যুদ্ধ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Ahom strategy of harassing the Mughal army by cutting off its food supply is called guerrilla warfare.",
+        "as": "খাদ্য যোগান কাটি মোগল সেনাক অস্থিৰ কৰাৰ আহোম কৌশলক গেৰিলা যুদ্ধ বোলা হয়।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "In which year did the Ahoms under Chakradhwaj Singha recapture Guwahati?",
       "question_as": "কোন বছৰত চক্ৰধ্বজ সিংহৰ নেতৃত্বত আহোমসকলে গুৱাহাটী উদ্ধাৰ কৰিছিল?",
       "answer_en": "1667",
-      "answer_as": "১৬৬৭"
+      "answer_as": "১৬৬৭",
+      "options": [
+        {
+          "en": "1662",
+          "as": "১৬৬২"
+        },
+        {
+          "en": "1669",
+          "as": "১৬৬৯"
+        },
+        {
+          "en": "1671",
+          "as": "১৬৭১"
+        },
+        {
+          "en": "1667",
+          "as": "১৬৬৭"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Ahoms under Chakradhwaj Singha recaptured Guwahati in 1667.",
+        "as": "চক্ৰধ্বজ সিংহৰ অধীনত আহোমসকলে ১৬৬৭ চনত গুৱাহাটী পুনৰ দখল কৰিছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "The Battle of Saraighat was fought mainly on which element?",
       "question_as": "শৰাইঘাট যুদ্ধ মূলতঃ ক'ত হৈছিল?",
       "answer_en": "On the water (river)",
-      "answer_as": "নদী (পানীত)"
+      "answer_as": "নদী (পানীত)",
+      "options": [
+        {
+          "en": "On the water (river)",
+          "as": "পানীত (নদীত)"
+        },
+        {
+          "en": "On the plains of Kamrup",
+          "as": "কমৰূপৰ সমতলত"
+        },
+        {
+          "en": "In the hills of Bhutan",
+          "as": "ভূটানৰ পাহাৰত"
+        },
+        {
+          "en": "Inside the Garhgaon fort",
+          "as": "গড়গাঁও কিল্লাৰ ভিতৰত"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Battle of Saraighat was fought mainly on the water, on the Brahmaputra river.",
+        "as": "শৰাইঘাটৰ যুদ্ধ মূলতঃ পানীত, ব্ৰহ্মপুত্ৰ নদীত হৈছিল।"
+      }
     },
     {
       "category": "Ahom-Mughal Relations and Battles",
       "question_en": "Who finally drove the Mughals out of Assam?",
       "question_as": "শেষত মোগলসকলক অসমৰ পৰা খেদি পঠিওৱা কোনে?",
       "answer_en": "The Ahoms under Lachit Borphukan and Chakradhwaj Singha",
-      "answer_as": "লাচিত বৰফুকন আৰু চক্ৰধ্বজ সিংহৰ নেতৃত্বত আহোমসকলে"
+      "answer_as": "লাচিত বৰফুকন আৰু চক্ৰধ্বজ সিংহৰ নেতৃত্বত আহোমসকলে",
+      "options": [
+        {
+          "en": "The Mughals under Ram Singh",
+          "as": "ৰাম সিঙৰ অধীনত মোগলসকল"
+        },
+        {
+          "en": "The British under Lord Curzon",
+          "as": "লৰ্ড কাৰ্জনৰ অধীনত ব্ৰিটিছ"
+        },
+        {
+          "en": "The Koch under Chilarai",
+          "as": "চিলাৰায়ৰ অধীনত কোচসকল"
+        },
+        {
+          "en": "The Ahoms under Lachit Borphukan and Chakradhwaj Singha",
+          "as": "লাচিত বৰফুকন আৰু চক্ৰধ্বজ সিংহৰ অধীনত আহোমসকল"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Mughals were finally driven out of Assam by the Ahoms under Lachit Borphukan and Chakradhwaj Singha.",
+        "as": "অৱশেষত লাচিত বৰফুকন আৰু চক্ৰধ্বজ সিংহৰ অধীনত আহোমসকলে মোগলসকলক অসমৰ পৰা খেদি পঠিয়াইছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Who were the Moamorias?",
       "question_as": "মোৱামৰীয়াসকল কোন আছিল?",
       "answer_en": "Followers of the Mayamara Sattra, mainly peasants",
-      "answer_as": "মায়ামৰা সত্ৰৰ অনুগামী, মূলতঃ কৃষক"
+      "answer_as": "মায়ামৰা সত্ৰৰ অনুগামী, মূলতঃ কৃষক",
+      "options": [
+        {
+          "en": "Followers of the Mayamara Sattra, mainly peasants",
+          "as": "মায়ামৰা সত্ৰৰ অনুগামী, মূলতঃ কৃষক"
+        },
+        {
+          "en": "Followers of the Kamalabari Sattra, mainly priests",
+          "as": "কমলাবৰী সত্ৰৰ অনুগামী, মূলতঃ পুৰোহিত"
+        },
+        {
+          "en": "Mughal soldiers stationed in Kamrup",
+          "as": "কমৰূপত নিয়োজিত মোগল সৈনিক"
+        },
+        {
+          "en": "A group of Ahom nobles",
+          "as": "আহোম অভিজাতসকলৰ এটা দল"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Moamorias were the followers of the Mayamara Sattra, mainly peasants.",
+        "as": "মোৱামৰীয়াসকল মায়ামৰা সত্ৰৰ অনুগামী আছিল, মূলতঃ কৃষক।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Who founded the Mayamara (Moamara) Sattra?",
       "question_as": "মায়ামৰা (মোৱামৰা) সত্ৰ কোনে প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "Aniruddhadeva",
-      "answer_as": "অনিৰুদ্ধদেৱ"
+      "answer_as": "অনিৰুদ্ধদেৱ",
+      "options": [
+        {
+          "en": "Srimanta Sankardeva",
+          "as": "শ্ৰীমন্ত শংকৰদেৱ"
+        },
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Damodardeva",
+          "as": "দামোদৰদেৱ"
+        },
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Mayamara (Moamara) Sattra was founded by Aniruddhadeva.",
+        "as": "মায়ামৰা (মোৱামৰা) সত্ৰ অনিৰুদ্ধদেৱে প্ৰতিষ্ঠা কৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The first Moamoria rebellion broke out in which year?",
       "question_as": "প্ৰথম মোৱামৰীয়া বিদ্ৰোহ কোন বছৰত আৰম্ভ হৈছিল?",
       "answer_en": "1769",
-      "answer_as": "১৭৬৯"
+      "answer_as": "১৭৬৯",
+      "options": [
+        {
+          "en": "1769",
+          "as": "১৭৬৯"
+        },
+        {
+          "en": "1669",
+          "as": "১৬৬৯"
+        },
+        {
+          "en": "1780",
+          "as": "১৭৮০"
+        },
+        {
+          "en": "1795",
+          "as": "১৭৯৫"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The first Moamoria rebellion broke out in 1769.",
+        "as": "প্ৰথম মোৱামৰীয়া বিদ্ৰোহ ১৭৬৯ চনত আৰম্ভ হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The first Moamoria uprising took place during whose reign?",
       "question_as": "প্ৰথম মোৱামৰীয়া বিদ্ৰোহ কাৰ ৰাজত্বকালত হৈছিল?",
       "answer_en": "Swargadeo Lakshmi Singha",
-      "answer_as": "স্বৰ্গদেউ লক্ষ্মী সিংহ"
+      "answer_as": "স্বৰ্গদেউ লক্ষ্মী সিংহ",
+      "options": [
+        {
+          "en": "Gaurinath Singha",
+          "as": "গৌৰীনাথ সিংহ"
+        },
+        {
+          "en": "Chandrakanta Singha",
+          "as": "চন্দ্ৰকান্ত সিংহ"
+        },
+        {
+          "en": "Swargadeo Lakshmi Singha",
+          "as": "স্বৰ্গদেউ লক্ষ্মী সিংহ"
+        },
+        {
+          "en": "Siva Singha",
+          "as": "শিৱ সিংহ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The first Moamoria uprising took place during the reign of Swargadeo Lakshmi Singha.",
+        "as": "প্ৰথম মোৱামৰীয়া বিদ্ৰোহ স্বৰ্গদেউ লক্ষ্মী সিংহৰ ৰাজত্বকালত হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Moamoria rebellion weakened which kingdom?",
       "question_as": "মোৱামৰীয়া বিদ্ৰোহে কোন ৰাজ্যক দুৰ্বল কৰিছিল?",
       "answer_en": "The Ahom kingdom",
-      "answer_as": "আহোম ৰাজ্য"
+      "answer_as": "আহোম ৰাজ্য",
+      "options": [
+        {
+          "en": "The Mughal empire",
+          "as": "মোগল সাম্ৰাজ্য"
+        },
+        {
+          "en": "The Ahom kingdom",
+          "as": "আহোম ৰাজ্য"
+        },
+        {
+          "en": "The Koch kingdom",
+          "as": "কোচ ৰাজ্য"
+        },
+        {
+          "en": "The British empire",
+          "as": "ব্ৰিটিছ সাম্ৰাজ্য"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Moamoria rebellion weakened the Ahom kingdom.",
+        "as": "মোৱামৰীয়া বিদ্ৰোহে আহোম ৰাজ্য দুৰ্বল কৰি পেলাইছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Moamorias briefly captured which Ahom capital?",
       "question_as": "মোৱামৰীয়াসকলে সাঙুৰণে কোন আহোম ৰাজধানী দখল কৰিছিল?",
       "answer_en": "Rangpur",
-      "answer_as": "ৰংপুৰ"
+      "answer_as": "ৰংপুৰ",
+      "options": [
+        {
+          "en": "Rangpur",
+          "as": "ৰংপুৰ"
+        },
+        {
+          "en": "Garhgaon",
+          "as": "গড়গাঁও"
+        },
+        {
+          "en": "Charaideo",
+          "as": "চৰাইদেউ"
+        },
+        {
+          "en": "Jorhat",
+          "as": "যোৰহাট"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Moamorias briefly captured the Ahom capital Rangpur.",
+        "as": "মোৱামৰীয়াসকলে কিছু সময়ৰ বাবে আহোম ৰাজধানী ৰংপুৰ দখল কৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Rudra Singha belonged to which dynasty?",
       "question_as": "ৰুদ্ৰ সিংহ কোন বংশৰ আছিল?",
       "answer_en": "The Tungkhungia dynasty",
-      "answer_as": "টুংখুঙীয়া বংশ"
+      "answer_as": "টুংখুঙীয়া বংশ",
+      "options": [
+        {
+          "en": "The Chutiya dynasty",
+          "as": "চুতীয়া বংশ"
+        },
+        {
+          "en": "The Koch dynasty",
+          "as": "কোচ বংশ"
+        },
+        {
+          "en": "The Kachari dynasty",
+          "as": "কছাৰী বংশ"
+        },
+        {
+          "en": "The Tungkhungia dynasty",
+          "as": "তুংখুঙীয়া বংশ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Rudra Singha belonged to the Tungkhungia dynasty.",
+        "as": "ৰুদ্ৰ সিংহ তুংখুঙীয়া বংশৰ আছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Which Ahom king built the Talatal Ghar?",
       "question_as": "কোন আহোম ৰজাই তালাতল ঘৰ নিৰ্মাণ কৰিছিল?",
       "answer_en": "Rudra Singha",
-      "answer_as": "ৰুদ্ৰ সিংহ"
+      "answer_as": "ৰুদ্ৰ সিংহ",
+      "options": [
+        {
+          "en": "Gadadhar Singha",
+          "as": "গদাধৰ সিংহ"
+        },
+        {
+          "en": "Rudra Singha",
+          "as": "ৰুদ্ৰ সিংহ"
+        },
+        {
+          "en": "Siva Singha",
+          "as": "শিৱ সিংহ"
+        },
+        {
+          "en": "Pramatta Singha",
+          "as": "প্ৰমত্ত সিংহ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Talatal Ghar was built by Rudra Singha.",
+        "as": "তলাতল ঘৰ ৰুদ্ৰ সিংহই নিৰ্মাণ কৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Moamoria uprising mainly involved which region?",
       "question_as": "মোৱামৰীয়া বিদ্ৰোহ মূলতঃ কোন অঞ্চল জড়িত আছিল?",
       "answer_en": "Upper Assam (around Rangpur and Nagaon)",
-      "answer_as": "উজনি অসম (ৰংপুৰ আৰু নগাঁও অঞ্চল)"
+      "answer_as": "উজনি অসম (ৰংপুৰ আৰু নগাঁও অঞ্চল)",
+      "options": [
+        {
+          "en": "Lower Assam (Kamrup)",
+          "as": "নিম্ন অসম (কমৰূপ)"
+        },
+        {
+          "en": "Cachar and Sylhet",
+          "as": "কাছাৰ আৰু শিলচৰ"
+        },
+        {
+          "en": "Bengal and Bihar",
+          "as": "বংগ আৰু বিহাৰ"
+        },
+        {
+          "en": "Upper Assam (around Rangpur and Nagaon)",
+          "as": "উজনি অসম (ৰংপুৰ আৰু নগাঁওৰ আশে-পাশে)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Moamoria uprising mainly involved Upper Assam, around Rangpur and Nagaon.",
+        "as": "মোৱামৰীয়া বিদ্ৰোহ মূলতঃ উজনি অসমত, ৰংপুৰ আৰু নগাঁৱৰ আশে-পাশে হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Moamoria rebellion is said to have started over which issue?",
       "question_as": "মোৱামৰীয়া বিদ্ৰোহ কি বিষয়ক লৈ আৰম্ভ হৈছিল বুলি কোৱা হয়?",
       "answer_en": "Religious and social discrimination against the Moamoria community",
-      "answer_as": "মোৱামৰীয়া সম্প্ৰদায়ৰ বিৰুদ্ধে ধৰ্মীয় আৰু সামাজিক বৈষম্য"
+      "answer_as": "মোৱামৰীয়া সম্প্ৰদায়ৰ বিৰুদ্ধে ধৰ্মীয় আৰু সামাজিক বৈষম্য",
+      "options": [
+        {
+          "en": "Heavy taxation of British goods",
+          "as": "ব্ৰিটিছ সামগ্ৰীৰ ওপৰত গধুৰ কৰ"
+        },
+        {
+          "en": "The annexation of Awadh",
+          "as": "অৱধ অধিগ্ৰহণ"
+        },
+        {
+          "en": "Religious and social discrimination against the Moamoria community",
+          "as": "মোৱামৰীয়া সমাজৰ প্ৰতি ধৰ্মীয় আৰু সামাজিক বৈষম্য"
+        },
+        {
+          "en": "The partition of Bengal",
+          "as": "বংগ বিভাজন"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Moamoria rebellion is said to have started over religious and social discrimination against the Moamoria community.",
+        "as": "মোৱামৰীয়া বিদ্ৰোহ মোৱামৰীয়া সমাজৰ প্ৰতি ধৰ্মীয় আৰু সামাজিক বৈষম্যৰ বাবে আৰম্ভ হৈছিল বুলি কোৱা হয়।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Which Ahom king was briefly expelled by the Moamorias from Rangpur?",
       "question_as": "মোৱামৰীয়াসকলে ৰংপুৰৰ পৰা সংক্ষিপ্তভাৱে কোন আহোম ৰজাক খেদি পঠিয়াইছিল?",
       "answer_en": "Lakshmi Singha",
-      "answer_as": "লক্ষ্মী সিংহ"
+      "answer_as": "লক্ষ্মী সিংহ",
+      "options": [
+        {
+          "en": "Gaurinath Singha",
+          "as": "গৌৰীনাথ সিংহ"
+        },
+        {
+          "en": "Chandrakanta Singha",
+          "as": "চন্দ্ৰকান্ত সিংহ"
+        },
+        {
+          "en": "Lakshmi Singha",
+          "as": "লক্ষ্মী সিংহ"
+        },
+        {
+          "en": "Purandar Singha",
+          "as": "পুৰন্দৰ সিংহ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Lakshmi Singha was briefly expelled from Rangpur by the Moamorias.",
+        "as": "মোৱামৰীয়াসকলে লক্ষ্মী সিংহক কিছু সময়ৰ বাবে ৰংপুৰৰ পৰা খেদি পঠিয়াইছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Who suppressed the Moamoria rebellion with the help of the Kachari forces?",
       "question_as": "কছাৰী সৈন্যৰ সহায়ত কোনে মোৱামৰীয়া বিদ্ৰোহ দমন কৰিছিল?",
       "answer_en": "The Ahom administration under later Tungkhungia kings",
-      "answer_as": "পিছৰ টুংখুঙীয়া ৰজাসকলৰ অধীন আহোম প্ৰশাসনে"
+      "answer_as": "পিছৰ টুংখুঙীয়া ৰজাসকলৰ অধীন আহোম প্ৰশাসনে",
+      "options": [
+        {
+          "en": "The Ahom administration under later Tungkhungia kings",
+          "as": "পিছৰ তুংখুঙীয়া ৰজাসকলৰ অধীনত আহোম প্ৰশাসন"
+        },
+        {
+          "en": "The Mughals under Mir Jumla",
+          "as": "মিৰ জুমলাৰ অধীনত মোগলসকল"
+        },
+        {
+          "en": "The British under Lord Cornwallis",
+          "as": "লৰ্ড কৰ্নৱালিছৰ অধীনত ব্ৰিটিছ"
+        },
+        {
+          "en": "The Koch under Chilarai",
+          "as": "চিলাৰায়ৰ অধীনত কোচসকল"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Moamoria rebellion was suppressed with Kachari help by the Ahom administration under later Tungkhungia kings.",
+        "as": "পিছৰ তুংখুঙীয়া ৰজাসকলৰ অধীনত আহোম প্ৰশাসনে কছাৰী সহায়ত মোৱামৰীয়া বিদ্ৰোহ দমন কৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Matak rajya existed in which region of Assam?",
       "question_as": "মটক ৰাজ্য অসমৰ কোন অঞ্চলত আছিল?",
       "answer_en": "Upper Assam (east of the Dikhou river)",
-      "answer_as": "উজনি অসম (দিখৌ নদীৰ পূবত)"
+      "answer_as": "উজনি অসম (দিখৌ নদীৰ পূবত)",
+      "options": [
+        {
+          "en": "Upper Assam (east of the Dikhou river)",
+          "as": "উজনি অসম (দিখৌ নদীৰ পূবে)"
+        },
+        {
+          "en": "Lower Assam (west of the Manas)",
+          "as": "নিম্ন অসম (মনাহ নদীৰ পশ্চিমে)"
+        },
+        {
+          "en": "Cachar and Manipur",
+          "as": "কাছাৰ আৰু মণিপুৰ"
+        },
+        {
+          "en": "Bengal and Bihar",
+          "as": "বংগ আৰু বিহাৰ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Matak rajya existed in Upper Assam, east of the Dikhou river.",
+        "as": "মটক ৰাজ্য উজনি অসমত, দিখৌ নদীৰ পূবে আছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Which Burmese general led the later Burmese invasions of Assam?",
       "question_as": "অসমৰ পিছৰ বাৰ্মীজ আক্ৰমণ কোন বাৰ্মীজ সেনাপতিয়ে নেতৃত্ব দিছিল?",
       "answer_en": "Maha Bandula",
-      "answer_as": "মহা বন্দূলা"
+      "answer_as": "মহা বন্দূলা",
+      "options": [
+        {
+          "en": "Mir Jumla",
+          "as": "মিৰ জুমলা"
+        },
+        {
+          "en": "Maha Bandula",
+          "as": "মহা বন্দুলা"
+        },
+        {
+          "en": "Ram Singh",
+          "as": "ৰাম সিং"
+        },
+        {
+          "en": "Shayista Khan",
+          "as": "শায়েস্তা খান"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Maha Bandula was the Burmese general who led the later Burmese invasions of Assam.",
+        "as": "মহা বন্দুলা আছিল পিছৰ বাৰ্মিজ আক্ৰমণৰ নেতৃত্ব দিয়া বাৰ্মিজ সেনাপতি।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Burmese invasions of Assam happened during the reign of which Ahom king?",
       "question_as": "অসমৰ বাৰ্মীজ আক্ৰমণ কোন আহোম ৰজাৰ ৰাজত্বকালত হৈছিল?",
       "answer_en": "Chandrakanta Singha",
-      "answer_as": "চন্দ্ৰকান্ত সিংহ"
+      "answer_as": "চন্দ্ৰকান্ত সিংহ",
+      "options": [
+        {
+          "en": "Gaurinath Singha",
+          "as": "গৌৰীনাথ সিংহ"
+        },
+        {
+          "en": "Purandar Singha",
+          "as": "পুৰন্দৰ সিংহ"
+        },
+        {
+          "en": "Chandrakanta Singha",
+          "as": "চন্দ্ৰকান্ত সিংহ"
+        },
+        {
+          "en": "Lakshmi Singha",
+          "as": "লক্ষ্মী সিংহ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Burmese invasions of Assam happened during the reign of Chandrakanta Singha.",
+        "as": "অসমত বাৰ্মিজ আক্ৰমণ চন্দ্ৰকান্ত সিংহৰ ৰাজত্বকালত হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Which Ahom king ruled for a short period as a British puppet?",
       "question_as": "কোন আহোম ৰজাই ব্ৰিটিছৰ পুতলা হিচাপে কিছুকাল শাসন কৰিছিল?",
       "answer_en": "Purandar Singha (1833-1838)",
-      "answer_as": "পুৰন্দৰ সিংহ (১৮৩৩-১৮৩৮)"
+      "answer_as": "পুৰন্দৰ সিংহ (১৮৩৩-১৮৩৮)",
+      "options": [
+        {
+          "en": "Chandrakanta Singha (1811-1818)",
+          "as": "চন্দ্ৰকান্ত সিংহ (১৮১১-১৮১৮)"
+        },
+        {
+          "en": "Purandar Singha (1833-1838)",
+          "as": "পুৰন্দৰ সিংহ (১৮৩৩-১৮৩৮)"
+        },
+        {
+          "en": "Jogeswar Singha (1821-1824)",
+          "as": "জগেশ্বৰ সিংহ (১৮২১-১৮২৪)"
+        },
+        {
+          "en": "Gaurinath Singha (1780-1795)",
+          "as": "গৌৰীনাথ সিংহ (১৭৮০-১৭৯৫)"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Purandar Singha ruled for a short period (1833-1838) as a British puppet.",
+        "as": "পুৰন্দৰ সিংহই ব্ৰিটিছৰ পুতলাৰজা হিচাপে কিছু সময়ৰ বাবে (১৮৩৩-১৮৩৮) ৰাজত্ব কৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
