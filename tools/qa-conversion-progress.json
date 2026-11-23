@@ -229,13 +229,18 @@
       "converted": 60,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/chola-south-kingdoms.json",
+      "converted": 59,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 5395,
-  "remaining_questions": 4505,
-  "remaining_files": 125,
+  "total_converted": 5454,
+  "remaining_questions": 4446,
+  "remaining_files": 124,
   "next_files": [
-    "data/content/gk/chola-south-kingdoms.json",
     "data/content/gk/turkish-invasions.json",
     "data/content/gk/socio-cultural-awakening.json",
     "data/content/gk/revolt-1857-assam.json",
@@ -244,7 +249,8 @@
     "data/content/gk/post-mauryan-period.json",
     "data/content/gk/mughal-empire-admin.json",
     "data/content/gk/indus-valley-civilization.json",
-    "data/content/gk/delhi-sultanate.json"
+    "data/content/gk/delhi-sultanate.json",
+    "data/content/gk/later-mughals-regional-states.json"
   ],
   "total_questions": 9900
 }
