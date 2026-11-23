@@ -355,14 +355,24 @@
       "converted": 50,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/partition-sylhet-referendum.json",
+      "converted": 50,
+      "schema": "question_en",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/non-cooperation-assam.json",
+      "converted": 45,
+      "schema": "question_en",
+      "status": "complete"
     }
   ],
-  "total_converted": 6498,
-  "remaining_questions": 3402,
-  "remaining_files": 104,
+  "total_converted": 6593,
+  "remaining_questions": 3307,
+  "remaining_files": 102,
   "next_files": [
-    "data/content/gk/partition-sylhet-referendum.json",
-    "data/content/gk/non-cooperation-assam.json",
     "data/content/gk/peasant-uprisings.json",
     "data/content/gk/early-anti-british-revolts.json",
     "data/content/gk/political-associations.json",
@@ -370,7 +380,9 @@
     "data/content/gk/chutiya-kingdom.json",
     "data/content/gk/kachari-kingdom.json",
     "data/content/gk/kamata-khen-kingdom.json",
-    "data/content/gk/early-invasions.json"
+    "data/content/gk/early-invasions.json",
+    "data/content/gk/court-scientific-literature.json",
+    "data/content/gk/jonaki-era-romantic-movement.json"
   ],
   "total_questions": 9900
 }
