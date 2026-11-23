@@ -202,3 +202,29 @@ node tools/seo-audit.js           # live re-check of the numbers above
 Dono tools idempotent hain — dobara chalane par same output. Content ya
 `categories.json` badalne par dobara chalao, phir `keyword-map.csv` ke naye
 `primary_kw` par target karo.
+
+---
+
+## Pass 2 — topic-wise cluster pass (Nov 2026)
+
+Yeh pass "topic-wise perfect SEO" ke liye chala. Sab kuch `node tools/seo-audit.js`
+se verify hota hai; numbers neeche wahi hain.
+
+| Kaam | Tool | Kya badla |
+|---|---|---|
+| **Meta tighten** | `tools/seo-tighten-meta.js` | 47 titles (43 long + 2 short + 2 Assamese dup) aur 251 descriptions 60/160 char limit me; same strings `<title>`, meta, OG, Twitter aur page-level JSON-LD me |
+| **Topic cluster links** | `tools/seo-topical-links.js` | 661/661 indexable `/topic/` page (+ `/as/` twin) ko 6 sibling topics + category hub ke links; pehle 331 pages par ek bhi sibling link nahi tha |
+| **Hub → topic links** | `tools/seo-hub-topic-links.js` | 28 category hubs (gk, assam-history, math, science …) se apne topic pages tak links |
+| **Mock hub → topic links** | `tools/seo-mock-topic-links.js` | 100 mock-test hub se matching `/topic/` study page tak "revise the topic" links (cluster ab dono taraf) |
+| **Thin page fix** | `tools/seo-port-twin-prose.js` | 3 English mock hubs (`english/grammar`, `english/vocabulary`, `computer/ms-office`) ka prose unke `/as/` twin se port kiya — 96-110 words se 300+ |
+
+Sab blocks `section.axo-extra-content` me hain (crawler copy, `</main>` ke baad,
+`data-axo-path` guard ke saath), isliye SPA navigation par galat page par nahi dikhte
+aur UI/CSS me koi badlav nahi hua.
+
+Verify (dono clean):
+
+```
+node tools/seo-audit.js        # title>60 0, desc>160 0, thin 0, dup 0
+node tools/seo-audit.js --as   # as bad canonical 0, as no/bad hreflang 0
+```

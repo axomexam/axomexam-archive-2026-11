@@ -3896,3 +3896,49 @@ the two files, split each into 18 + rest, write one throwaway
 run it, validate with the inline checker (4 options, unique `en`/`as`, valid
 `correct`, both explanation fields non-empty, balanced distribution), delete
 the script, then update the progress JSON and commit.
+
+## Session record — Nov 2026 topic-wise SEO pass (meta, clusters, thin hubs)
+
+What was done, so the next agent does not redo or undo it:
+
+- **Meta limits cleared.** `tools/seo-tighten-meta.js` rewrote 47 titles (43 over
+  60 chars, 2 under 30, 2 Assamese duplicates) and 251 descriptions over 160
+  chars, applying the same string to `<title>`, `meta[name=description]`,
+  `og:title/description`, `twitter:title/description` and the page-level
+  JSON-LD `headline`/`name`/`description`. The rewrite keeps the page's own
+  keyword first and only compacts the template tail; no title or description
+  is duplicated afterwards. Audit now reports `title >60: 0`, `title <30: 0`,
+  `desc >160: 0`, `dup titles/H1/descriptions: 0`.
+- **Topic clusters wired both ways.** `tools/seo-topical-links.js` gives every
+  indexable `/topic/` page (661 of them, EN + `/as/` twin) a related block with
+  six sibling topics plus the category hub — before this, 331 of 332 topic
+  pages linked to no other topic. `tools/seo-hub-topic-links.js` adds a
+  topic list to the 28 category hubs that linked to no `/topic/` page.
+  `tools/seo-mock-topic-links.js` links 100 mock-test hubs back to their study
+  topic ("revise the topic before the test"), so the quiz ↔ study cluster is no
+  longer one-way.
+- **Placement rule (important).** All new blocks live in the existing
+  `section.axo-extra-content` after `</main>`, never inside `<main id="app">`:
+  the SPA rewrites that whole subtree, and only the extra-content section
+  carries the `data-axo-path` guard and the client-side swap. A page must keep
+  exactly **one** `section.axo-extra-content`; the hub tool appends its article
+  to the existing section when one is present (six computer hubs already had
+  one, which is why the first run produced two — fixed).
+- **Three thin hubs fixed without new copy.** `tools/seo-port-twin-prose.js`
+  copies the `axo-main-content` prose block from the `/as/` twin into
+  `mock-test/english/grammar`, `mock-test/english/vocabulary` and
+  `mock-test/computer/ms-office` (96-110 words → 300+). Only the FAQ heading is
+  translated to English. Audit `thin (<300w)` is 0; site minimum is 304 words.
+- **Broken internal links repaired.** Six Assamese nav links pointed at
+  `/as/category/articles/<subject>/`, a directory with no `index.html`; they now
+  point at the real `/as/category/articles/<subject>/read/` page. Site-wide
+  internal-link check: 0 broken targets.
+- **Verification:** `node tools/seo-audit.js` clean (1487 indexable, thin 0,
+  title>60 0, desc>160 0, dup titles/H1/descriptions 0, sitemap alt drift/miss 0);
+  `node tools/seo-audit.js --as` clean (1487 twins, 0 bad canonical, 0
+  missing/bad hreflang); all 3069 JSON-LD blocks parse; `<section>` tags
+  balanced on every page.
+- **Idempotency.** Re-running the five tools changes nothing (each page is
+  skipped once its marker `data-axo-related`, `data-axo-hub-topics`,
+  `data-axo-mock-topics` or `data-axo-main-content` is present, and the meta
+  tool leaves in-range pages byte-identical).
