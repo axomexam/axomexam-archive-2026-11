@@ -415,14 +415,24 @@
       "converted": 40,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/court-scientific-literature.json",
+      "converted": 40,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/jonaki-era-romantic-movement.json",
+      "converted": 38,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 6929,
-  "remaining_questions": 2971,
-  "remaining_files": 94,
+  "total_converted": 7007,
+  "remaining_questions": 2893,
+  "remaining_files": 92,
   "next_files": [
-    "data/content/gk/court-scientific-literature.json",
-    "data/content/gk/jonaki-era-romantic-movement.json",
     "data/content/gk/early-modern-novels-poems-drama.json",
     "data/content/gk/sankardev-madhavdev-works.json",
     "data/content/gk/charyapada-folk-songs.json",
@@ -430,7 +440,9 @@
     "data/content/gk/charit-puthis-early-prose.json",
     "data/content/gk/literary-awards-jnanpith-sahitya-akademi.json",
     "data/content/gk/modern-literature-major-writers.json",
-    "data/content/gk/foreign-trade-fdi-wto-imf-wb.json"
+    "data/content/gk/foreign-trade-fdi-wto-imf-wb.json",
+    "data/content/gk/sattras-charaideo-maidams-assam.json",
+    "data/content/gk/transport-highways-railways-ports-india.json"
   ],
   "total_questions": 9900
 }
