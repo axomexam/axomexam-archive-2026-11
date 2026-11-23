@@ -217,13 +217,18 @@
       "converted": 60,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/quit-india-martyrs.json",
+      "converted": 60,
+      "schema": "question_en",
+      "status": "complete"
     }
   ],
-  "total_converted": 5275,
-  "remaining_questions": 4625,
-  "remaining_files": 127,
+  "total_converted": 5335,
+  "remaining_questions": 4565,
+  "remaining_files": 126,
   "next_files": [
-    "data/content/gk/quit-india-martyrs.json",
     "data/content/gk/saraighat-itakhuli.json",
     "data/content/gk/chola-south-kingdoms.json",
     "data/content/gk/turkish-invasions.json",
@@ -232,7 +237,8 @@
     "data/content/gk/moamoria-rebellion.json",
     "data/content/gk/jainism-buddhism.json",
     "data/content/gk/post-mauryan-period.json",
-    "data/content/gk/mughal-empire-admin.json"
+    "data/content/gk/mughal-empire-admin.json",
+    "data/content/gk/indus-valley-civilization.json"
   ],
   "total_questions": 9900
 }
