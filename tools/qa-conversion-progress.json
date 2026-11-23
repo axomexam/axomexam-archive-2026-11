@@ -343,14 +343,24 @@
       "converted": 50,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/mahajanapadas-magadha.json",
+      "converted": 50,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/yandabo-ahom-fall.json",
+      "converted": 50,
+      "schema": "question_en",
+      "status": "complete"
     }
   ],
-  "total_converted": 6398,
-  "remaining_questions": 3502,
-  "remaining_files": 106,
+  "total_converted": 6498,
+  "remaining_questions": 3402,
+  "remaining_files": 104,
   "next_files": [
-    "data/content/gk/mahajanapadas-magadha.json",
-    "data/content/gk/yandabo-ahom-fall.json",
     "data/content/gk/partition-sylhet-referendum.json",
     "data/content/gk/non-cooperation-assam.json",
     "data/content/gk/peasant-uprisings.json",
@@ -358,7 +368,9 @@
     "data/content/gk/political-associations.json",
     "data/content/gk/buranjis-historical-chronicles.json",
     "data/content/gk/chutiya-kingdom.json",
-    "data/content/gk/kachari-kingdom.json"
+    "data/content/gk/kachari-kingdom.json",
+    "data/content/gk/kamata-khen-kingdom.json",
+    "data/content/gk/early-invasions.json"
   ],
   "total_questions": 9900
 }
