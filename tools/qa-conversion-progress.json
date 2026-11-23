@@ -95,14 +95,31 @@
       "path": "data/content/gk/stars-lifecycle-constellations-lightyear.json",
       "converted": 25,
       "schema": "q"
+    },
+    {
+      "path": "data/content/gk/neo-vaishnavite-movement.json",
+      "converted": 25,
+      "schema": "question_en",
+      "chunk": "Q1-25"
+    },
+    {
+      "path": "data/content/gk/neo-vaishnavite-movement.json",
+      "converted": 25,
+      "schema": "question_en",
+      "chunk": "Q26-50"
+    },
+    {
+      "path": "data/content/gk/neo-vaishnavite-movement.json",
+      "converted": 25,
+      "schema": "question_en",
+      "chunk": "Q51-75"
     }
   ],
-  "total_converted": 425,
-  "remaining_questions": 5813,
+  "total_converted": 500,
+  "remaining_questions": 5738,
   "remaining_files": 142,
   "next_files": [
     "data/content/gk/medieval-assam.json",
-    "data/content/gk/neo-vaishnavite-movement.json",
     "data/content/gk/socio-religious-reforms.json",
     "data/content/gk/nationalism-inc-formation.json",
     "data/content/gk/mountbatten-partition-independence.json",
@@ -110,6 +127,7 @@
     "data/content/gk/subhas-bose-ina.json",
     "data/content/gk/revolutionary-movements.json",
     "data/content/gk/revolt-of-1857.json",
-    "data/content/gk/partition-bengal-swadeshi.json"
+    "data/content/gk/partition-bengal-swadeshi.json",
+    "data/content/gk/major-ahom-rulers.json"
   ]
 }
