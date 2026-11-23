@@ -403,14 +403,24 @@
       "converted": 40,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/kamata-khen-kingdom.json",
+      "converted": 40,
+      "schema": "question_en",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/early-invasions.json",
+      "converted": 40,
+      "schema": "question_en",
+      "status": "complete"
     }
   ],
-  "total_converted": 6849,
-  "remaining_questions": 3051,
-  "remaining_files": 96,
+  "total_converted": 6929,
+  "remaining_questions": 2971,
+  "remaining_files": 94,
   "next_files": [
-    "data/content/gk/kamata-khen-kingdom.json",
-    "data/content/gk/early-invasions.json",
     "data/content/gk/court-scientific-literature.json",
     "data/content/gk/jonaki-era-romantic-movement.json",
     "data/content/gk/early-modern-novels-poems-drama.json",
@@ -418,7 +428,9 @@
     "data/content/gk/charyapada-folk-songs.json",
     "data/content/gk/early-poets-translations.json",
     "data/content/gk/charit-puthis-early-prose.json",
-    "data/content/gk/literary-awards-jnanpith-sahitya-akademi.json"
+    "data/content/gk/literary-awards-jnanpith-sahitya-akademi.json",
+    "data/content/gk/modern-literature-major-writers.json",
+    "data/content/gk/foreign-trade-fdi-wto-imf-wb.json"
   ],
   "total_questions": 9900
 }
