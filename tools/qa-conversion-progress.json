@@ -535,14 +535,24 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/rbi-monetary-policy.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/dams-river-projects-india.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 7649,
-  "remaining_questions": 2251,
-  "remaining_files": 74,
+  "total_converted": 7719,
+  "remaining_questions": 2181,
+  "remaining_files": 72,
   "next_files": [
-    "data/content/gk/rbi-monetary-policy.json",
-    "data/content/gk/dams-river-projects-india.json",
     "data/content/gk/vegetation-forest-types-india.json",
     "data/content/gk/core-industries-make-in-india.json",
     "data/content/gk/india-allied-sectors-dairy-fisheries.json",
@@ -550,7 +560,9 @@
     "data/content/gk/crafts-bell-metal-brass-cane-bamboo-assam.json",
     "data/content/gk/inflation-price-indices-cpi-wpi.json",
     "data/content/gk/physical-infrastructure-nh-rail-ports-aviation.json",
-    "data/content/gk/national-income-gdp-gnp-nnp.json"
+    "data/content/gk/national-income-gdp-gnp-nnp.json",
+    "data/content/gk/india-agriculture-cropping-patterns.json",
+    "data/content/gk/crops-kharif-rabi-cash-india.json"
   ],
   "total_questions": 9900
 }
