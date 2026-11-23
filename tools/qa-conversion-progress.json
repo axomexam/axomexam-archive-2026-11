@@ -65,11 +65,26 @@
       "path": "data/content/gk/panchayati-raj-municipalities.json",
       "converted": 25,
       "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/planetary-moons-titan-ganymede-europa.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/pre-proto-history.json",
+      "converted": 25,
+      "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/preamble-key-amendments.json",
+      "converted": 25,
+      "schema": "question_en"
     }
   ],
-  "total_converted": 275,
-  "remaining_questions": 5963,
-  "remaining_files": 148,
+  "total_converted": 350,
+  "remaining_questions": 5888,
+  "remaining_files": 145,
   "next_files": [
     "data/content/gk/medieval-assam.json",
     "data/content/gk/neo-vaishnavite-movement.json",
