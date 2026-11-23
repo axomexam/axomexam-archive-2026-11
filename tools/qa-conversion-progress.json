@@ -811,22 +811,46 @@
       "converted": 30,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/mountains-deserts-islands-earthquakes.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/earth-layers-plates-volcanoes.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/sculptures-pottery-india.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/paintings-murals-miniatures-india.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 9199,
-  "remaining_questions": 701,
-  "remaining_files": 28,
+  "total_converted": 9319,
+  "remaining_questions": 581,
+  "remaining_files": 24,
   "next_files": [
-    "data/content/gk/mountains-deserts-islands-earthquakes.json",
-    "data/content/gk/earth-layers-plates-volcanoes.json",
-    "data/content/gk/sculptures-pottery-india.json",
-    "data/content/gk/paintings-murals-miniatures-india.json",
     "data/content/gk/oceans-currents-trenches-rivers-lakes.json",
     "data/content/gk/theatre-puppetry-martial-arts-india.json",
     "data/content/gk/ramsar-endemic-flora-fauna-assam.json",
     "data/content/gk/industries-refineries-tea-gardens.json",
     "data/content/gk/demography-population-density-literacy-assam.json",
-    "data/content/gk/power-hydro-thermal-assam.json"
+    "data/content/gk/power-hydro-thermal-assam.json",
+    "data/content/gk/national-parks-wls-assam.json",
+    "data/content/gk/minerals-oil-gas-coal-limestone.json",
+    "data/content/gk/climate-monsoon-floods-assam.json",
+    "data/content/gk/tributaries-majuli-wetlands.json"
   ],
   "total_questions": 9900
 }
