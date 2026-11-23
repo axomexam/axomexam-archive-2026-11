@@ -595,14 +595,24 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/india-agriculture-cropping-patterns.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/crops-kharif-rabi-cash-india.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 7999,
-  "remaining_questions": 1901,
-  "remaining_files": 64,
+  "total_converted": 8069,
+  "remaining_questions": 1831,
+  "remaining_files": 62,
   "next_files": [
-    "data/content/gk/india-agriculture-cropping-patterns.json",
-    "data/content/gk/crops-kharif-rabi-cash-india.json",
     "data/content/gk/poverty-inequality-unemployment-india.json",
     "data/content/gk/climate-monsoon-soils-india.json",
     "data/content/gk/salastambha-dynasty.json",
@@ -610,7 +620,9 @@
     "data/content/gk/historical-temple-architecture-assam.json",
     "data/content/gk/manuscript-paintings-mask-making-assam.json",
     "data/content/gk/industrial-policies-1991-reforms.json",
-    "data/content/gk/classical-folk-dances-assam.json"
+    "data/content/gk/classical-folk-dances-assam.json",
+    "data/content/gk/handlooms-silk-textiles-assam.json",
+    "data/content/gk/pala-dynasty.json"
   ],
   "total_questions": 9900
 }
