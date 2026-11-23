@@ -193,21 +193,28 @@
       "converted": 300,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/industrial-belts-borders-frontiers-india.json",
+      "converted": 70,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 3695,
-  "remaining_questions": 6205,
-  "remaining_files": 154,
+  "total_converted": 5083,
+  "remaining_questions": 4817,
+  "remaining_files": 130,
   "next_files": [
-    "data/content/gk/medieval-assam.json",
-    "data/content/gk/industrial-belts-borders-frontiers-india.json",
     "data/content/gk/constitutional-developments-acts.json",
     "data/content/gk/tripartite-struggle-dynasties.json",
-    "data/content/gk/saraighat-itakhuli.json",
-    "data/content/gk/quit-india-martyrs.json",
     "data/content/gk/national-parks.json",
+    "data/content/gk/quit-india-martyrs.json",
+    "data/content/gk/saraighat-itakhuli.json",
     "data/content/gk/chola-south-kingdoms.json",
     "data/content/gk/turkish-invasions.json",
-    "data/content/gk/socio-cultural-awakening.json"
-  ]
+    "data/content/gk/socio-cultural-awakening.json",
+    "data/content/gk/revolt-1857-assam.json",
+    "data/content/gk/moamoria-rebellion.json"
+  ],
+  "total_questions": 9900
 }
