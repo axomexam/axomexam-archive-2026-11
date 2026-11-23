@@ -20,11 +20,26 @@
       "path": "data/content/gk/emergency-provisions.json",
       "converted": 25,
       "schema": "q"
+    },
+    {
+      "path": "data/content/gk/executive-president-governor-pm-cm.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/finance-commission-state-fc.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/historical-background-making-sources.json",
+      "converted": 25,
+      "schema": "question_en"
     }
   ],
-  "total_converted": 50,
-  "remaining_questions": 6188,
-  "remaining_files": 157,
+  "total_converted": 125,
+  "remaining_questions": 6113,
+  "remaining_files": 154,
   "next_files": [
     "data/content/gk/medieval-assam.json",
     "data/content/gk/neo-vaishnavite-movement.json",
