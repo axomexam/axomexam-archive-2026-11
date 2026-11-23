@@ -265,13 +265,18 @@
       "converted": 55,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/post-mauryan-period.json",
+      "converted": 55,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 5730,
-  "remaining_questions": 4170,
-  "remaining_files": 119,
+  "total_converted": 5785,
+  "remaining_questions": 4115,
+  "remaining_files": 118,
   "next_files": [
-    "data/content/gk/post-mauryan-period.json",
     "data/content/gk/mughal-empire-admin.json",
     "data/content/gk/indus-valley-civilization.json",
     "data/content/gk/delhi-sultanate.json",
@@ -280,7 +285,8 @@
     "data/content/gk/mauryan-empire.json",
     "data/content/gk/prehistoric-stone-age.json",
     "data/content/gk/line-system-immigration.json",
-    "data/content/gk/reorganization-assam-accord.json"
+    "data/content/gk/reorganization-assam-accord.json",
+    "data/content/gk/grouping-scheme-bordoloi.json"
   ],
   "total_questions": 9900
 }
