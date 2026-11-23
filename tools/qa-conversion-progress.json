@@ -145,14 +145,19 @@
       "converted": 71,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/mountbatten-partition-independence.json",
+      "converted": 71,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 659,
-  "remaining_questions": 5579,
-  "remaining_files": 139,
+  "total_converted": 730,
+  "remaining_questions": 5508,
+  "remaining_files": 138,
   "next_files": [
     "data/content/gk/medieval-assam.json",
-    "data/content/gk/mountbatten-partition-independence.json",
     "data/content/gk/gandhian-era-movements.json",
     "data/content/gk/subhas-bose-ina.json",
     "data/content/gk/revolutionary-movements.json",
@@ -160,6 +165,7 @@
     "data/content/gk/partition-bengal-swadeshi.json",
     "data/content/gk/major-ahom-rulers.json",
     "data/content/gk/industrial-belts-borders-frontiers-india.json",
-    "data/content/gk/constitutional-developments-acts.json"
+    "data/content/gk/constitutional-developments-acts.json",
+    "data/content/gk/tripartite-struggle-dynasties.json"
   ]
 }
