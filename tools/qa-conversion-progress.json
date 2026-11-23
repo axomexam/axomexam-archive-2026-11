@@ -787,22 +787,46 @@
       "converted": 30,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/minerals-oil-belts-sea-routes-world.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/international-border-lines-world.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/major-religions-philosophies-india.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/medieval-indo-islamic-structures.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 9079,
-  "remaining_questions": 821,
-  "remaining_files": 32,
+  "total_converted": 9199,
+  "remaining_questions": 701,
+  "remaining_files": 28,
   "next_files": [
-    "data/content/gk/minerals-oil-belts-sea-routes-world.json",
-    "data/content/gk/international-border-lines-world.json",
-    "data/content/gk/major-religions-philosophies-india.json",
-    "data/content/gk/medieval-indo-islamic-structures.json",
     "data/content/gk/mountains-deserts-islands-earthquakes.json",
     "data/content/gk/earth-layers-plates-volcanoes.json",
     "data/content/gk/sculptures-pottery-india.json",
     "data/content/gk/paintings-murals-miniatures-india.json",
     "data/content/gk/oceans-currents-trenches-rivers-lakes.json",
-    "data/content/gk/theatre-puppetry-martial-arts-india.json"
+    "data/content/gk/theatre-puppetry-martial-arts-india.json",
+    "data/content/gk/ramsar-endemic-flora-fauna-assam.json",
+    "data/content/gk/industries-refineries-tea-gardens.json",
+    "data/content/gk/demography-population-density-literacy-assam.json",
+    "data/content/gk/power-hydro-thermal-assam.json"
   ],
   "total_questions": 9900
 }
