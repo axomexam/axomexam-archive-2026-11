@@ -277,13 +277,18 @@
       "converted": 54,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/indus-valley-civilization.json",
+      "converted": 53,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 5839,
-  "remaining_questions": 4061,
-  "remaining_files": 117,
+  "total_converted": 5892,
+  "remaining_questions": 4008,
+  "remaining_files": 116,
   "next_files": [
-    "data/content/gk/indus-valley-civilization.json",
     "data/content/gk/delhi-sultanate.json",
     "data/content/gk/later-mughals-regional-states.json",
     "data/content/gk/maratha-empire-peshwas.json",
@@ -292,7 +297,8 @@
     "data/content/gk/line-system-immigration.json",
     "data/content/gk/reorganization-assam-accord.json",
     "data/content/gk/grouping-scheme-bordoloi.json",
-    "data/content/gk/gupta-empire.json"
+    "data/content/gk/gupta-empire.json",
+    "data/content/gk/varman-dynasty.json"
   ],
   "total_questions": 9900
 }
