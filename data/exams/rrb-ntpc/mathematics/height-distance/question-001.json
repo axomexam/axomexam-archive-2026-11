@@ -932,8 +932,8 @@
   {
     "id": "height-distance-032",
     "q": {
-      "en": "Two poles of heights 10 m and 15 m stand 24 m apart. The distance between their tops is:",
-      "as": "১০ মি. আৰু ১৫ মি. উচ্চতাৰ দুটা খুঁটা ২৪ মি. আঁতৰত থিয় হৈ আছে। সিহঁতৰ শীৰ্ষৰ মাজৰ দূৰত্ব:"
+      "en": "Two poles of heights 10 m and 17 m stand 24 m apart. The distance between their tops is:",
+      "as": "১০ মি. আৰু ১৭ মি. উচ্চতাৰ দুটা খুঁটা ২৪ মি. আঁতৰত থিয় হৈ আছে। সিহঁতৰ শীৰ্ষৰ মাজৰ দূৰত্ব:"
     },
     "options": [
       {
@@ -953,10 +953,10 @@
         "as": "২৮ m"
       }
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "en": "√(24² + 5²) = √625 = 25 m.",
-      "as": "√(২৪² + ৫²) = √৬২৫ = ২৫ মি.।"
+      "en": "√(24² + 7²) = √625 = 25 m.",
+      "as": "√(২৪² + ৭²) = √৬২৫ = ২৫ মি.।"
     }
   },
   {
