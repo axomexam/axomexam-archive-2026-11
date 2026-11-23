@@ -80,11 +80,26 @@
       "path": "data/content/gk/preamble-key-amendments.json",
       "converted": 25,
       "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/sixth-schedule-autonomous-councils.json",
+      "converted": 25,
+      "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/space-agencies-missions-isro-nasa.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/stars-lifecycle-constellations-lightyear.json",
+      "converted": 25,
+      "schema": "q"
     }
   ],
-  "total_converted": 350,
-  "remaining_questions": 5888,
-  "remaining_files": 145,
+  "total_converted": 425,
+  "remaining_questions": 5813,
+  "remaining_files": 142,
   "next_files": [
     "data/content/gk/medieval-assam.json",
     "data/content/gk/neo-vaishnavite-movement.json",
