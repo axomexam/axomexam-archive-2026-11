@@ -169,14 +169,19 @@
       "converted": 70,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/revolt-of-1857.json",
+      "converted": 70,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 941,
-  "remaining_questions": 5297,
-  "remaining_files": 135,
+  "total_converted": 1011,
+  "remaining_questions": 5227,
+  "remaining_files": 134,
   "next_files": [
     "data/content/gk/medieval-assam.json",
-    "data/content/gk/revolt-of-1857.json",
     "data/content/gk/partition-bengal-swadeshi.json",
     "data/content/gk/major-ahom-rulers.json",
     "data/content/gk/industrial-belts-borders-frontiers-india.json",
@@ -184,6 +189,7 @@
     "data/content/gk/tripartite-struggle-dynasties.json",
     "data/content/gk/saraighat-itakhuli.json",
     "data/content/gk/quit-india-martyrs.json",
-    "data/content/gk/national-parks.json"
+    "data/content/gk/national-parks.json",
+    "data/content/gk/chola-south-kingdoms.json"
   ]
 }
