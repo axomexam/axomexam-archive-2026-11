@@ -126,11 +126,24 @@
       "converted": 25,
       "schema": "q",
       "chunk": "Q1-25"
+    },
+    {
+      "path": "data/content/gk/socio-religious-reforms.json",
+      "converted": 25,
+      "schema": "q",
+      "chunk": "Q26-50"
+    },
+    {
+      "path": "data/content/gk/socio-religious-reforms.json",
+      "converted": 23,
+      "schema": "q",
+      "chunk": "Q51-73",
+      "status": "complete"
     }
   ],
-  "total_converted": 540,
-  "remaining_questions": 5698,
-  "remaining_files": 141,
+  "total_converted": 588,
+  "remaining_questions": 5650,
+  "remaining_files": 140,
   "next_files": [
     "data/content/gk/medieval-assam.json",
     "data/content/gk/nationalism-inc-formation.json",
