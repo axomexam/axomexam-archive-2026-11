@@ -451,14 +451,24 @@
       "converted": 37,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/charit-puthis-early-prose.json",
+      "converted": 37,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/literary-awards-jnanpith-sahitya-akademi.json",
+      "converted": 36,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 7155,
-  "remaining_questions": 2745,
-  "remaining_files": 88,
+  "total_converted": 7228,
+  "remaining_questions": 2672,
+  "remaining_files": 86,
   "next_files": [
-    "data/content/gk/charit-puthis-early-prose.json",
-    "data/content/gk/literary-awards-jnanpith-sahitya-akademi.json",
     "data/content/gk/modern-literature-major-writers.json",
     "data/content/gk/foreign-trade-fdi-wto-imf-wb.json",
     "data/content/gk/sattras-charaideo-maidams-assam.json",
@@ -466,7 +476,9 @@
     "data/content/gk/demography-census-sexratio-literacy-india.json",
     "data/content/gk/tiger-reserves-ramsar-conservation-india.json",
     "data/content/gk/physical-himalayas-plains-plateau-islands.json",
-    "data/content/gk/mountain-peaks-passes-india.json"
+    "data/content/gk/mountain-peaks-passes-india.json",
+    "data/content/gk/planning-history-niti-aayog.json",
+    "data/content/gk/capital-money-markets-sebi.json"
   ],
   "total_questions": 9900
 }
