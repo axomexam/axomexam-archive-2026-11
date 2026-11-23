@@ -559,14 +559,24 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/india-allied-sectors-dairy-fisheries.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/theatre-ankiya-naat-bhaona-assam.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 7789,
-  "remaining_questions": 2111,
-  "remaining_files": 70,
+  "total_converted": 7859,
+  "remaining_questions": 2041,
+  "remaining_files": 68,
   "next_files": [
-    "data/content/gk/india-allied-sectors-dairy-fisheries.json",
-    "data/content/gk/theatre-ankiya-naat-bhaona-assam.json",
     "data/content/gk/crafts-bell-metal-brass-cane-bamboo-assam.json",
     "data/content/gk/inflation-price-indices-cpi-wpi.json",
     "data/content/gk/physical-infrastructure-nh-rail-ports-aviation.json",
@@ -574,7 +584,9 @@
     "data/content/gk/india-agriculture-cropping-patterns.json",
     "data/content/gk/crops-kharif-rabi-cash-india.json",
     "data/content/gk/poverty-inequality-unemployment-india.json",
-    "data/content/gk/climate-monsoon-soils-india.json"
+    "data/content/gk/climate-monsoon-soils-india.json",
+    "data/content/gk/salastambha-dynasty.json",
+    "data/content/gk/music-folk-instruments-assam.json"
   ],
   "total_questions": 9900
 }
