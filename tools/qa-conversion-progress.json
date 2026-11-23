@@ -883,22 +883,46 @@
       "converted": 26,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/climate-monsoon-floods-assam.json",
+      "converted": 26,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/tributaries-majuli-wetlands.json",
+      "converted": 26,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/transport-nh-railways-waterways-assam.json",
+      "converted": 26,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/tribes-distribution-assam.json",
+      "converted": 26,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 9535,
-  "remaining_questions": 365,
-  "remaining_files": 16,
+  "total_converted": 9639,
+  "remaining_questions": 261,
+  "remaining_files": 12,
   "next_files": [
-    "data/content/gk/climate-monsoon-floods-assam.json",
-    "data/content/gk/tributaries-majuli-wetlands.json",
-    "data/content/gk/transport-nh-railways-waterways-assam.json",
-    "data/content/gk/tribes-distribution-assam.json",
     "data/content/gk/tiger-biosphere-reserves-assam.json",
     "data/content/gk/hills-karbi-dima-hasao.json",
     "data/content/gk/forest-types-area-assam.json",
     "data/content/gk/upcoming-missions-space-telescopes.json",
     "data/content/gk/sun-structure-core-flares.json",
-    "data/content/gk/upsc-apsc.json"
+    "data/content/gk/upsc-apsc.json",
+    "data/content/gk/timezones-standard-time-calculation.json",
+    "data/content/gk/xuanzang-visit.json",
+    "data/content/gk/state-administrative-border-setup.json",
+    "data/content/gk/universe-bigbang-galaxies.json"
   ],
   "total_questions": 9900
 }
