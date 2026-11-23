@@ -283,13 +283,18 @@
       "converted": 53,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/delhi-sultanate.json",
+      "converted": 52,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 5892,
-  "remaining_questions": 4008,
-  "remaining_files": 116,
+  "total_converted": 5944,
+  "remaining_questions": 3956,
+  "remaining_files": 115,
   "next_files": [
-    "data/content/gk/delhi-sultanate.json",
     "data/content/gk/later-mughals-regional-states.json",
     "data/content/gk/maratha-empire-peshwas.json",
     "data/content/gk/mauryan-empire.json",
@@ -298,7 +303,8 @@
     "data/content/gk/reorganization-assam-accord.json",
     "data/content/gk/grouping-scheme-bordoloi.json",
     "data/content/gk/gupta-empire.json",
-    "data/content/gk/varman-dynasty.json"
+    "data/content/gk/varman-dynasty.json",
+    "data/content/gk/mahajanapadas-magadha.json"
   ],
   "total_questions": 9900
 }
