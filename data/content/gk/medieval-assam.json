@@ -4514,525 +4514,2250 @@
       "question_en": "The last phase of the Ahom kingdom was marked by?",
       "question_as": "আহোম ৰাজ্যৰ শেষ পৰ্যায় কি বাবে চিহ্নিত আছিল?",
       "answer_en": "Weak kings, rebellions and foreign invasions",
-      "answer_as": "দুৰ্বল ৰজা, বিদ্ৰোহ আৰু বিদেশী আক্ৰমণ"
+      "answer_as": "দুৰ্বল ৰজা, বিদ্ৰোহ আৰু বিদেশী আক্ৰমণ",
+      "options": [
+        {
+          "en": "Strong central administration and peace",
+          "as": "শক্তিশালী কেন্দ্ৰীয় প্ৰশাসন আৰু শান্তি"
+        },
+        {
+          "en": "Rapid industrial development",
+          "as": "দ্ৰুত ঔদ্যোগিক বিকাশ"
+        },
+        {
+          "en": "Weak kings, rebellions and foreign invasions",
+          "as": "দুৰ্বল ৰজা, বিদ্ৰোহ আৰু বৈদেশিক আক্ৰমণ"
+        },
+        {
+          "en": "British rule from the beginning",
+          "as": "আৰম্ভণিৰে পৰা ব্ৰিটিছ শাসন"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The last phase of the Ahom kingdom was marked by weak kings, rebellions and foreign invasions.",
+        "as": "আহোম ৰাজ্যৰ শেষ পৰ্যায় দুৰ্বল ৰজা, বিদ্ৰোহ আৰু বৈদেশিক আক্ৰমণৰ দ্বাৰা চিহ্নিত আছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Moamoria rebellion occurred in which century?",
       "question_as": "মোৱামৰীয়া বিদ্ৰোহ কোন শতিকাত হৈছিল?",
       "answer_en": "The 18th century",
-      "answer_as": "১৮শ শতিকা"
+      "answer_as": "১৮শ শতিকা",
+      "options": [
+        {
+          "en": "The 16th century",
+          "as": "ষোড়শ শতিকাত"
+        },
+        {
+          "en": "The 17th century",
+          "as": "সপ্তদশ শতিকাত"
+        },
+        {
+          "en": "The 19th century",
+          "as": "ঊনবিংশ শতিকাত"
+        },
+        {
+          "en": "The 18th century",
+          "as": "অষ্টাদশ শতিকাত"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Moamoria rebellion occurred in the 18th century.",
+        "as": "মোৱামৰীয়া বিদ্ৰোহ অষ্টাদশ শতিকাত সংঘটিত হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Sarbananda Singha established the Matak rajya in which year?",
       "question_as": "শৰ্বানন্দ সিংহই মটক ৰাজ্য কোন বছৰত প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "c. 1805",
-      "answer_as": "আনুমানিক ১৮০৫"
+      "answer_as": "আনুমানিক ১৮০৫",
+      "options": [
+        {
+          "en": "c. 1805",
+          "as": "আনুমানিক ১৮০৫"
+        },
+        {
+          "en": "c. 1769",
+          "as": "আনুমানিক ১৭৬৯"
+        },
+        {
+          "en": "c. 1780",
+          "as": "আনুমানিক ১৭৮০"
+        },
+        {
+          "en": "c. 1826",
+          "as": "আনুমানিক ১৮২৬"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Sarbananda Singha established the Matak rajya around 1805.",
+        "as": "সৰ্বানন্দ সিংহই আনুমানিক ১৮০৫ চনত মটক ৰাজ্য প্ৰতিষ্ঠা কৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Treaty of Yandabo was signed in which month of 1826?",
       "question_as": "য়াণ্ডাবু সন্ধি ১৮২৬ চনৰ কোন মাহত স্বাক্ষৰিত হৈছিল?",
       "answer_en": "February",
-      "answer_as": "ফেব্ৰুৱাৰী মাহত"
+      "answer_as": "ফেব্ৰুৱাৰী মাহত",
+      "options": [
+        {
+          "en": "January",
+          "as": "জানুৱাৰী"
+        },
+        {
+          "en": "June",
+          "as": "জুন"
+        },
+        {
+          "en": "February",
+          "as": "ফেব্ৰুৱাৰী"
+        },
+        {
+          "en": "December",
+          "as": "ডিচেম্বৰ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Treaty of Yandabo was signed in February 1826.",
+        "as": "য়াণ্ডাবুৰ সন্ধি ১৮২৬ চনৰ ফেব্ৰুৱাৰীত স্বাক্ষৰিত হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Which region was ceded to the British under the Treaty of Yandabo?",
       "question_as": "য়াণ্ডাবু সন্ধি অনুসৰি কোন অঞ্চল ব্ৰিটিছলৈ সমৰ্পণ হৈছিল?",
       "answer_en": "Assam (including the Ahom territories)",
-      "answer_as": "অসম (আহোম অঞ্চলসমূহসহ)"
+      "answer_as": "অসম (আহোম অঞ্চলসমূহসহ)",
+      "options": [
+        {
+          "en": "Bengal and Bihar",
+          "as": "বংগ আৰু বিহাৰ"
+        },
+        {
+          "en": "Manipur and Cachar only",
+          "as": "কেৱল মণিপুৰ আৰু কাছাৰ"
+        },
+        {
+          "en": "Assam (including the Ahom territories)",
+          "as": "অসম (আহোম অঞ্চলসমূহকে ধৰি)"
+        },
+        {
+          "en": "Burma's Arakan coast",
+          "as": "বাৰ্মাৰ আৰাকান উপকূল"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Under the Treaty of Yandabo, Assam including the Ahom territories was ceded to the British.",
+        "as": "য়াণ্ডাবুৰ সন্ধিৰ অধীনত আহোম অঞ্চলসমূহকে ধৰি অসম ব্ৰিটিছক এৰি দিয়া হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Who established the Matak rajya?",
       "question_as": "মটক ৰাজ্য কোনে প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "Sarbananda Singha",
-      "answer_as": "শৰ্বানন্দ সিংহ"
+      "answer_as": "শৰ্বানন্দ সিংহ",
+      "options": [
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        },
+        {
+          "en": "Sarbananda Singha",
+          "as": "সৰ্বানন্দ সিংহ"
+        },
+        {
+          "en": "Chandrakanta Singha",
+          "as": "চন্দ্ৰকান্ত সিংহ"
+        },
+        {
+          "en": "Purandar Singha",
+          "as": "পুৰন্দৰ সিংহ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Sarbananda Singha established the Matak rajya.",
+        "as": "সৰ্বানন্দ সিংহই মটক ৰাজ্য প্ৰতিষ্ঠা কৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Matak rajya was established by which community?",
       "question_as": "মটক ৰাজ্য কোন সম্প্ৰদায়ে প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "The Moamorias",
-      "answer_as": "মোৱামৰীয়াসকল"
+      "answer_as": "মোৱামৰীয়াসকল",
+      "options": [
+        {
+          "en": "The Kacharis",
+          "as": "কছাৰীসকল"
+        },
+        {
+          "en": "The Moamorias",
+          "as": "মোৱামৰীয়াসকল"
+        },
+        {
+          "en": "The Koch",
+          "as": "কোচসকল"
+        },
+        {
+          "en": "The Burmese",
+          "as": "বাৰ্মিজসকল"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Matak rajya was established by the Moamorias.",
+        "as": "মটক ৰাজ্য মোৱামৰীয়াসকলে প্ৰতিষ্ঠা কৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The first Burmese invasion of Assam took place in which year?",
       "question_as": "অসমত প্ৰথম বাৰ্মীজ আক্ৰমণ কোন বছৰত হৈছিল?",
       "answer_en": "1817",
-      "answer_as": "১৮১৭"
+      "answer_as": "১৮১৭",
+      "options": [
+        {
+          "en": "1819",
+          "as": "১৮১৯"
+        },
+        {
+          "en": "1821",
+          "as": "১৮২১"
+        },
+        {
+          "en": "1826",
+          "as": "১৮২৬"
+        },
+        {
+          "en": "1817",
+          "as": "১৮১৭"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The first Burmese invasion of Assam took place in 1817.",
+        "as": "অসমত প্ৰথম বাৰ্মিজ আক্ৰমণ ১৮১৭ চনত হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The second Burmese invasion of Assam took place in which year?",
       "question_as": "অসমত দ্বিতীয় বাৰ্মীজ আক্ৰমণ কোন বছৰত হৈছিল?",
       "answer_en": "1819",
-      "answer_as": "১৮১৯"
+      "answer_as": "১৮১৯",
+      "options": [
+        {
+          "en": "1819",
+          "as": "১৮১৯"
+        },
+        {
+          "en": "1817",
+          "as": "১৮১৭"
+        },
+        {
+          "en": "1821",
+          "as": "১৮২১"
+        },
+        {
+          "en": "1824",
+          "as": "১৮২৪"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The second Burmese invasion of Assam took place in 1819.",
+        "as": "অসমত দ্বিতীয় বাৰ্মিজ আক্ৰমণ ১৮১৯ চনত হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The third Burmese invasion of Assam took place in which year?",
       "question_as": "অসমত তৃতীয় বাৰ্মীজ আক্ৰমণ কোন বছৰত হৈছিল?",
       "answer_en": "1821",
-      "answer_as": "১৮২১"
+      "answer_as": "১৮২১",
+      "options": [
+        {
+          "en": "1817",
+          "as": "১৮১৭"
+        },
+        {
+          "en": "1821",
+          "as": "১৮২১"
+        },
+        {
+          "en": "1819",
+          "as": "১৮১৯"
+        },
+        {
+          "en": "1826",
+          "as": "১৮২৬"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The third Burmese invasion of Assam took place in 1821.",
+        "as": "অসমত তৃতীয় বাৰ্মিজ আক্ৰমণ ১৮২১ চনত হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Who invited the Burmese to invade Assam?",
       "question_as": "কোনে বাৰ্মীজসকলক অসম আক্ৰমণ কৰিবলৈ আমন্ত্ৰণ জনাইছিল?",
       "answer_en": "Badan Chandra Singha",
-      "answer_as": "বদন চন্দ্ৰ সিংহ"
+      "answer_as": "বদন চন্দ্ৰ সিংহ",
+      "options": [
+        {
+          "en": "Badan Chandra Singha",
+          "as": "বদন চন্দ্ৰ সিংহ"
+        },
+        {
+          "en": "Chandrakanta Singha",
+          "as": "চন্দ্ৰকান্ত সিংহ"
+        },
+        {
+          "en": "Purandar Singha",
+          "as": "পুৰন্দৰ সিংহ"
+        },
+        {
+          "en": "Sarbananda Singha",
+          "as": "সৰ্বানন্দ সিংহ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Badan Chandra Singha invited the Burmese to invade Assam.",
+        "as": "বদন চন্দ্ৰ সিংহই বাৰ্মিজসকলক অসম আক্ৰমণ কৰিবলৈ আমন্ত্ৰণ জনাইছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Burmese occupation of Assam lasted until which year?",
       "question_as": "বাৰ্মীজ অধিকাৰ অসমত কোন বছৰলৈ বৰ্তি আছিল?",
       "answer_en": "c. 1826",
-      "answer_as": "আনুমানিক ১৮২৬"
+      "answer_as": "আনুমানিক ১৮২৬",
+      "options": [
+        {
+          "en": "c. 1817",
+          "as": "আনুমানিক ১৮১৭"
+        },
+        {
+          "en": "c. 1821",
+          "as": "আনুমানিক ১৮২১"
+        },
+        {
+          "en": "c. 1826",
+          "as": "আনুমানিক ১৮২৬"
+        },
+        {
+          "en": "c. 1838",
+          "as": "আনুমানিক ১৮৩৮"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Burmese occupation of Assam lasted until about 1826.",
+        "as": "অসমত বাৰ্মিজ দখল প্ৰায় ১৮২৬ চনলৈকে চলিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "In which year was the Treaty of Yandabo signed?",
       "question_as": "য়াণ্ডাবু সন্ধি কোন বছৰত স্বাক্ষৰিত হৈছিল?",
       "answer_en": "1826",
-      "answer_as": "১৮২৬"
+      "answer_as": "১৮২৬",
+      "options": [
+        {
+          "en": "1826",
+          "as": "১৮২৬"
+        },
+        {
+          "en": "1817",
+          "as": "১৮১৭"
+        },
+        {
+          "en": "1821",
+          "as": "১৮২১"
+        },
+        {
+          "en": "1824",
+          "as": "১৮২৪"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Treaty of Yandabo was signed in 1826.",
+        "as": "য়াণ্ডাবুৰ সন্ধি ১৮২৬ চনত স্বাক্ষৰিত হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Treaty of Yandabo was signed between which two powers?",
       "question_as": "য়াণ্ডাবু সন্ধি কোন দুটা শক্তিৰ মাজত স্বাক্ষৰিত হৈছিল?",
       "answer_en": "The British East India Company and the Burmese (Konbaung dynasty)",
-      "answer_as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী আৰু বাৰ্মীজ (কোনবাউং বংশ)"
+      "answer_as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী আৰু বাৰ্মীজ (কোনবাউং বংশ)",
+      "options": [
+        {
+          "en": "The Ahoms and the Mughals",
+          "as": "আহোম আৰু মোগল"
+        },
+        {
+          "en": "The British East India Company and the Burmese (Konbaung dynasty)",
+          "as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী আৰু বাৰ্মিজসকল (কোংবাউং বংশ)"
+        },
+        {
+          "en": "The British and the Ahoms",
+          "as": "ব্ৰিটিছ আৰু আহোম"
+        },
+        {
+          "en": "The Burmese and the Mughals",
+          "as": "বাৰ্মিজ আৰু মোগল"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Treaty of Yandabo was signed between the British East India Company and the Burmese Konbaung dynasty.",
+        "as": "য়াণ্ডাবুৰ সন্ধি ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী আৰু বাৰ্মিজ কোংবাউং বংশৰ মাজত স্বাক্ষৰিত হৈছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Treaty of Yandabo brought an end to which war?",
       "question_as": "য়াণ্ডাবু সন্ধিয়ে কোন যুদ্ধৰ অন্ত পেলাইছিল?",
       "answer_en": "The First Anglo-Burmese War",
-      "answer_as": "প্ৰথম ইং-বাৰ্মা যুদ্ধ"
+      "answer_as": "প্ৰথম ইং-বাৰ্মা যুদ্ধ",
+      "options": [
+        {
+          "en": "The Second Anglo-Burmese War",
+          "as": "দ্বিতীয় ইংৰাজ-বাৰ্মিজ যুদ্ধ"
+        },
+        {
+          "en": "The First Anglo-Burmese War",
+          "as": "প্ৰথম ইংৰাজ-বাৰ্মিজ যুদ্ধ"
+        },
+        {
+          "en": "The Third Anglo-Maratha War",
+          "as": "তৃতীয় ইংৰাজ-মাৰাঠা যুদ্ধ"
+        },
+        {
+          "en": "The First Anglo-Sikh War",
+          "as": "প্ৰথম ইংৰাজ-শিখ যুদ্ধ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Treaty of Yandabo brought an end to the First Anglo-Burmese War.",
+        "as": "য়াণ্ডাবুৰ সন্ধিয়ে প্ৰথম ইংৰাজ-বাৰ্মিজ যুদ্ধৰ অন্ত পেলাইছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "After the Treaty of Yandabo, Assam came under whose rule?",
       "question_as": "য়াণ্ডাবু সন্ধিৰ পিছত অসম কাৰ শাসনলৈ আহিছিল?",
       "answer_en": "The British East India Company",
-      "answer_as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী"
+      "answer_as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী",
+      "options": [
+        {
+          "en": "The Burmese Konbaung dynasty",
+          "as": "বাৰ্মিজ কোংবাউং বংশ"
+        },
+        {
+          "en": "The Mughal empire",
+          "as": "মোগল সাম্ৰাজ্য"
+        },
+        {
+          "en": "The British East India Company",
+          "as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী"
+        },
+        {
+          "en": "The Koch dynasty",
+          "as": "কোচ বংশ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "After the Treaty of Yandabo, Assam came under the rule of the British East India Company.",
+        "as": "য়াণ্ডাবুৰ সন্ধিৰ পিছত অসম ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানীৰ শাসনলৈ আহিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "The Ahom kingdom formally came to an end in which year?",
       "question_as": "আহোম ৰাজ্য আনুষ্ঠানিকভাৱে কোন বছৰত শেষ হৈছিল?",
       "answer_en": "1826",
-      "answer_as": "১৮২৬"
+      "answer_as": "১৮২৬",
+      "options": [
+        {
+          "en": "1817",
+          "as": "১৮১৭"
+        },
+        {
+          "en": "1821",
+          "as": "১৮২১"
+        },
+        {
+          "en": "1838",
+          "as": "১৮৩৮"
+        },
+        {
+          "en": "1826",
+          "as": "১৮২৬"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Ahom kingdom formally came to an end in 1826.",
+        "as": "আহোম ৰাজ্য আনুষ্ঠানিকভাৱে ১৮২৬ চনত অন্ত পৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "What happened to the last Ahom king Purandar Singha after 1838?",
       "question_as": "শেষ আহোম ৰজা পুৰন্দৰ সিংহক ১৮৩৮ চনৰ পিছত কি হৈছিল?",
       "answer_en": "He was deposed by the British",
-      "answer_as": "ব্ৰিটিছসকলে তেওঁক অপসাৰিত কৰিছিল"
+      "answer_as": "ব্ৰিটিছসকলে তেওঁক অপসাৰিত কৰিছিল",
+      "options": [
+        {
+          "en": "He was deposed by the British",
+          "as": "ব্ৰিটিছে তেওঁক সিংহাসনচ্যুত কৰিছিল"
+        },
+        {
+          "en": "He was restored to the throne permanently",
+          "as": "তেওঁক স্থায়ীভাৱে সিংহাসনত পুনৰ প্ৰতিষ্ঠা কৰা হৈছিল"
+        },
+        {
+          "en": "He fled to Burma",
+          "as": "তেওঁ ব্ৰহ্মদেশলৈ পলাই গৈছিল"
+        },
+        {
+          "en": "He became the Governor of Assam",
+          "as": "তেওঁ অসমৰ গৱৰ্ণৰ হৈছিল"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "After 1838, the last Ahom king Purandar Singha was deposed by the British.",
+        "as": "১৮৩৮ চনৰ পিছত শেষ আহোম ৰজা পুৰন্দৰ সিংহক ব্ৰিটিছে সিংহাসনচ্যুত কৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Which dynasty ruled the Ahom kingdom in its last phase?",
       "question_as": "আহোম ৰাজ্যৰ শেষ পৰ্যায়ত কোন বংশে শাসন কৰিছিল?",
       "answer_en": "The Tungkhungia dynasty",
-      "answer_as": "টুংখুঙীয়া বংশ"
+      "answer_as": "টুংখুঙীয়া বংশ",
+      "options": [
+        {
+          "en": "The Tungkhungia dynasty",
+          "as": "তুংখুঙীয়া বংশ"
+        },
+        {
+          "en": "The Chutiya dynasty",
+          "as": "চুতীয়া বংশ"
+        },
+        {
+          "en": "The Koch dynasty",
+          "as": "কোচ বংশ"
+        },
+        {
+          "en": "The Kachari dynasty",
+          "as": "কছাৰী বংশ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Tungkhungia dynasty ruled the Ahom kingdom in its last phase.",
+        "as": "আহোম ৰাজ্যৰ শেষ পৰ্যায়ত তুংখুঙীয়া বংশই শাসন কৰিছিল।"
+      }
     },
     {
       "category": "Late Ahom Period, Moamoria and Burmese",
       "question_en": "Where was the headquarters of the Matak rajya?",
       "question_as": "মটক ৰাজ্যৰ প্ৰধান কেন্দ্ৰ কোন ঠাইত আছিল?",
       "answer_en": "Bengmara (near Tinsukia)",
-      "answer_as": "বেংমৰা (তিনিচুকীয়াৰ ওচৰত)"
+      "answer_as": "বেংমৰা (তিনিচুকীয়াৰ ওচৰত)",
+      "options": [
+        {
+          "en": "Rangpur",
+          "as": "ৰংপুৰ"
+        },
+        {
+          "en": "Jorhat",
+          "as": "যোৰহাট"
+        },
+        {
+          "en": "Sadiya",
+          "as": "শদিয়া"
+        },
+        {
+          "en": "Bengmara (near Tinsukia)",
+          "as": "বেংমৰা (তিনিচুকীয়াৰ ওচৰত)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The headquarters of the Matak rajya was at Bengmara, near Tinsukia.",
+        "as": "মটক ৰাজ্যৰ ৰাজধানী বেংমৰা, তিনিচুকীয়াৰ ওচৰত আছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Who founded the Koch dynasty?",
       "question_as": "কোচ বংশ কোনে প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "Biswa Singha",
-      "answer_as": "বিশ্ব সিংহ"
+      "answer_as": "বিশ্ব সিংহ",
+      "options": [
+        {
+          "en": "Biswa Singha",
+          "as": "বিশ্ব সিংহ"
+        },
+        {
+          "en": "Naranarayan",
+          "as": "নৰনাৰায়ণ"
+        },
+        {
+          "en": "Chilarai",
+          "as": "চিলাৰায়"
+        },
+        {
+          "en": "Sukaphaa",
+          "as": "চুকাফা"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Biswa Singha founded the Koch dynasty.",
+        "as": "বিশ্ব সিংহই কোচ বংশ প্ৰতিষ্ঠা কৰিছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "In which year did Biswa Singha establish the Koch kingdom?",
       "question_as": "বিশ্ব সিংহই কোন বছৰত কোচ ৰাজ্য প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "c. 1515",
-      "answer_as": "আনুমানিক ১৫১৫"
+      "answer_as": "আনুমানিক ১৫১৫",
+      "options": [
+        {
+          "en": "c. 1228",
+          "as": "আনুমানিক ১২২৮"
+        },
+        {
+          "en": "c. 1515",
+          "as": "আনুমানিক ১৫১৫"
+        },
+        {
+          "en": "c. 1497",
+          "as": "আনুমানিক ১৪৯৭"
+        },
+        {
+          "en": "c. 1562",
+          "as": "আনুমানিক ১৫৬২"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Biswa Singha established the Koch kingdom around 1515.",
+        "as": "বিশ্ব সিংহই আনুমানিক ১৫১৫ চনত কোচ ৰাজ্য প্ৰতিষ্ঠা কৰিছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Which kingdom did the Koch dynasty rule?",
       "question_as": "কোচ বংশই কোন ৰাজ্য শাসন কৰিছিল?",
       "answer_en": "The Kamata (Koch) kingdom",
-      "answer_as": "কামতা (কোচ) ৰাজ্য"
+      "answer_as": "কামতা (কোচ) ৰাজ্য",
+      "options": [
+        {
+          "en": "The Ahom kingdom",
+          "as": "আহোম ৰাজ্য"
+        },
+        {
+          "en": "The Kachari kingdom",
+          "as": "কছাৰী ৰাজ্য"
+        },
+        {
+          "en": "The Kamata (Koch) kingdom",
+          "as": "কামতা (কোচ) ৰাজ্য"
+        },
+        {
+          "en": "The Chutiya kingdom",
+          "as": "চুতীয়া ৰাজ্য"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Koch dynasty ruled the Kamata (Koch) kingdom.",
+        "as": "কোচ বংশই কামতা (কোচ) ৰাজ্য শাসন কৰিছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Who was the greatest Koch king?",
       "question_as": "কোচ বংশৰ সবাতকৈ মহান ৰজা কোন আছিল?",
       "answer_en": "Naranarayan (Malladeva)",
-      "answer_as": "নৰনাৰায়ণ (মল্লদেৱ)"
+      "answer_as": "নৰনাৰায়ণ (মল্লদেৱ)",
+      "options": [
+        {
+          "en": "Biswa Singha",
+          "as": "বিশ্ব সিংহ"
+        },
+        {
+          "en": "Chilarai",
+          "as": "চিলাৰায়"
+        },
+        {
+          "en": "Raghu Dev",
+          "as": "ৰঘু দেৱ"
+        },
+        {
+          "en": "Naranarayan (Malladeva)",
+          "as": "নৰনাৰায়ণ (মল্লদেৱ)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Naranarayan (Malladeva) was the greatest Koch king.",
+        "as": "নৰনাৰায়ণ (মল্লদেৱ) আটাইতকৈ মহান কোচ ৰজা আছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Who was Chilarai, the famous Koch general?",
       "question_as": "বিখ্যাত কোচ সেনাপতি চিলাৰায় কোন আছিল?",
       "answer_en": "The younger brother of Naranarayan",
-      "answer_as": "নৰনাৰায়ণৰ সৰু ভাতৃ"
+      "answer_as": "নৰনাৰায়ণৰ সৰু ভাতৃ",
+      "options": [
+        {
+          "en": "The son of Naranarayan",
+          "as": "নৰনাৰায়ণৰ পুত্ৰ"
+        },
+        {
+          "en": "The commander of the Ahom army",
+          "as": "আহোম সেনাৰ সেনাপতি"
+        },
+        {
+          "en": "The last Koch king",
+          "as": "শেষ কোচ ৰজা"
+        },
+        {
+          "en": "The younger brother of Naranarayan",
+          "as": "নৰনাৰায়ণৰ সৰু ভ্ৰাতা"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Chilarai, the famous Koch general, was the younger brother of Naranarayan.",
+        "as": "বিখ্যাত কোচ সেনাপতি চিলাৰায় নৰনাৰায়ণৰ সৰু ভ্ৰাতা আছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "What was the original name of Chilarai?",
       "question_as": "চিলাৰায়ৰ মূল নাম কি আছিল?",
       "answer_en": "Sukladhwaj",
-      "answer_as": "শুক্লধ্বজ"
+      "answer_as": "শুক্লধ্বজ",
+      "options": [
+        {
+          "en": "Malladeva",
+          "as": "মল্লদেৱ"
+        },
+        {
+          "en": "Bisu",
+          "as": "বিসু"
+        },
+        {
+          "en": "Sukladhwaj",
+          "as": "চুক্লধ্বজ"
+        },
+        {
+          "en": "Raghudeva",
+          "as": "ৰঘুদেৱ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The original name of Chilarai was Sukladhwaj.",
+        "as": "চিলাৰায়ৰ প্ৰকৃত নাম আছিল চুক্লধ্বজ।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Who was the eldest son of Biswa Singha?",
       "question_as": "বিশ্ব সিংহৰ জ্যেষ্ঠ পুতেক কোন আছিল?",
       "answer_en": "Naranarayan (Malladeva)",
-      "answer_as": "নৰনাৰায়ণ (মল্লদেৱ)"
+      "answer_as": "নৰনাৰায়ণ (মল্লদেৱ)",
+      "options": [
+        {
+          "en": "Naranarayan (Malladeva)",
+          "as": "নৰনাৰায়ণ (মল্লদেৱ)"
+        },
+        {
+          "en": "Chilarai (Sukladhwaj)",
+          "as": "চিলাৰায় (চুক্লধ্বজ)"
+        },
+        {
+          "en": "Raghudeva",
+          "as": "ৰঘুদেৱ"
+        },
+        {
+          "en": "Nilambar",
+          "as": "নীলাম্বৰ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Naranarayan (Malladeva) was the eldest son of Biswa Singha.",
+        "as": "নৰনাৰায়ণ (মল্লদেৱ) বিশ্ব সিংহৰ জ্যেষ্ঠ পুত্ৰ আছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "The Koch kingdom was divided into which two parts after Naranarayan's death?",
       "question_as": "নৰনাৰায়ণৰ মৃত্যুৰ পিছত কোচ ৰাজ্য কোন দুটা অংশত বিভক্ত হৈছিল?",
       "answer_en": "Koch Bihar and Koch Hajo",
-      "answer_as": "কোচ বিহাৰ আৰু কোচ হাজো"
+      "answer_as": "কোচ বিহাৰ আৰু কোচ হাজো",
+      "options": [
+        {
+          "en": "Koch Bihar and Koch Hajo",
+          "as": "কোচ বিহাৰ আৰু কোচ হাজো"
+        },
+        {
+          "en": "Koch Bihar and Kamatapur",
+          "as": "কোচ বিহাৰ আৰু কামতাপুৰ"
+        },
+        {
+          "en": "Koch Hajo and Sadiya",
+          "as": "কোচ হাজো আৰু শদিয়া"
+        },
+        {
+          "en": "Kamata and Kamrup",
+          "as": "কামতা আৰু কমৰূপ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "After Naranarayan's death the Koch kingdom was divided into Koch Bihar and Koch Hajo.",
+        "as": "নৰনাৰায়ণৰ মৃত্যুৰ পিছত কোচ ৰাজ্য কোচ বিহাৰ আৰু কোচ হাজোত বিভক্ত হৈছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Which part of the divided Koch kingdom was in conflict with the Ahoms?",
       "question_as": "বিভক্ত কোচ ৰাজ্যৰ কোন অংশ আহোমসকলৰ লগত সংঘাতত আছিল?",
       "answer_en": "Koch Hajo (the eastern part)",
-      "answer_as": "কোচ হাজো (পূব অংশ)"
+      "answer_as": "কোচ হাজো (পূব অংশ)",
+      "options": [
+        {
+          "en": "Koch Bihar (the western part)",
+          "as": "কোচ বিহাৰ (পশ্চিম অংশ)"
+        },
+        {
+          "en": "Kamata proper",
+          "as": "কামতা প্ৰকৃত"
+        },
+        {
+          "en": "Koch Hajo (the eastern part)",
+          "as": "কোচ হাজো (পূব অংশ)"
+        },
+        {
+          "en": "Sadiya",
+          "as": "শদিয়া"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Koch Hajo, the eastern part of the divided Koch kingdom, was in conflict with the Ahoms.",
+        "as": "বিভক্ত কোচ ৰাজ্যৰ পূব অংশ কোচ হাজো আহোমসকলৰ সৈতে সংঘাতত আছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Who ruled Koch Hajo after the division?",
       "question_as": "বিভাজনৰ পিছত কোচ হাজো কোনে শাসন কৰিছিল?",
       "answer_en": "Raghudeva (son of Chilarai)",
-      "answer_as": "ৰঘুদেৱ (চিলাৰায়ৰ পুতেক)"
+      "answer_as": "ৰঘুদেৱ (চিলাৰায়ৰ পুতেক)",
+      "options": [
+        {
+          "en": "Naranarayan",
+          "as": "নৰনাৰায়ণ"
+        },
+        {
+          "en": "Biswa Singha",
+          "as": "বিশ্ব সিংহ"
+        },
+        {
+          "en": "Raghudeva (son of Chilarai)",
+          "as": "ৰঘুদেৱ (চিলাৰায়ৰ পুত্ৰ)"
+        },
+        {
+          "en": "Nilambar",
+          "as": "নীলাম্বৰ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "After the division, Koch Hajo was ruled by Raghudeva, son of Chilarai.",
+        "as": "বিভাজনৰ পিছত কোচ হাজোত চিলাৰায়ৰ পুত্ৰ ৰঘুদেৱে শাসন কৰিছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Which Koch ruler sought Mughal help against the Ahoms?",
       "question_as": "কোন কোচ শাসকে আহোমসকলৰ বিৰুদ্ধে মোগল সহায় বিচাৰিছিল?",
       "answer_en": "Raghudeva of Koch Hajo",
-      "answer_as": "কোচ হাজোৰ ৰঘুদেৱ"
+      "answer_as": "কোচ হাজোৰ ৰঘুদেৱ",
+      "options": [
+        {
+          "en": "Raghudeva of Koch Hajo",
+          "as": "কোচ হাজোৰ ৰঘুদেৱ"
+        },
+        {
+          "en": "Naranarayan of Koch Bihar",
+          "as": "কোচ বিহাৰৰ নৰনাৰায়ণ"
+        },
+        {
+          "en": "Biswa Singha of Kamata",
+          "as": "কামতাৰ বিশ্ব সিংহ"
+        },
+        {
+          "en": "Nilambar of Kamatapur",
+          "as": "কামতাপুৰৰ নীলাম্বৰ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Raghudeva of Koch Hajo sought Mughal help against the Ahoms.",
+        "as": "কোচ হাজোৰ ৰঘুদেৱে আহোমসকলৰ বিৰুদ্ধে মোগল সহায় বিচাৰিছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "The Kamakhya temple was rebuilt by which Koch king?",
       "question_as": "কামাখ্যা মন্দিৰ কোন কোচ ৰজাই পুনৰ নিৰ্মাণ কৰিছিল?",
       "answer_en": "Naranarayan (with Chilarai)",
-      "answer_as": "নৰনাৰায়ণ (চিলাৰায়ৰ সহায়ত)"
+      "answer_as": "নৰনাৰায়ণ (চিলাৰায়ৰ সহায়ত)",
+      "options": [
+        {
+          "en": "Biswa Singha",
+          "as": "বিশ্ব সিংহ"
+        },
+        {
+          "en": "Naranarayan (with Chilarai)",
+          "as": "নৰনাৰায়ণ (চিলাৰায়ৰ সৈতে)"
+        },
+        {
+          "en": "Raghudeva",
+          "as": "ৰঘুদেৱ"
+        },
+        {
+          "en": "Sukaphaa",
+          "as": "চুকাফা"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Kamakhya temple was rebuilt by Naranarayan with Chilarai.",
+        "as": "কামাখ্যা মন্দিৰ নৰনাৰায়ণে চিলাৰায়ৰ সৈতে পুনৰ নিৰ্মাণ কৰিছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "What was the capital of Naranarayan?",
       "question_as": "নৰনাৰায়ণৰ ৰাজধানী কি আছিল?",
       "answer_en": "Koch Bihar (Cooch Behar)",
-      "answer_as": "কোচ বিহাৰ"
+      "answer_as": "কোচ বিহাৰ",
+      "options": [
+        {
+          "en": "Kamatapur",
+          "as": "কামতাপুৰ"
+        },
+        {
+          "en": "Rangpur",
+          "as": "ৰংপুৰ"
+        },
+        {
+          "en": "Jorhat",
+          "as": "যোৰহাট"
+        },
+        {
+          "en": "Koch Bihar (Cooch Behar)",
+          "as": "কোচ বিহাৰ (কুচবিহাৰ)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The capital of Naranarayan was Koch Bihar (Cooch Behar).",
+        "as": "নৰনাৰায়ণৰ ৰাজধানী আছিল কোচ বিহাৰ (কুচবিহাৰ)।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Chilarai is famous for which military achievement?",
       "question_as": "চিলাৰায় কোন সামৰিক সাফল্যৰ বাবে বিখ্যাত?",
       "answer_en": "Conquering parts of Bhutan, Kamrup and the eastern regions for the Koch kingdom",
-      "answer_as": "কোচ ৰাজ্যৰ বাবে ভূটান, কামৰূপ আৰু পূব অঞ্চলসমূহ জয়"
+      "answer_as": "কোচ ৰাজ্যৰ বাবে ভূটান, কামৰূপ আৰু পূব অঞ্চলসমূহ জয়",
+      "options": [
+        {
+          "en": "Building the Rang Ghar at Rangpur",
+          "as": "ৰংপুৰত ৰংঘৰ নিৰ্মাণ কৰা"
+        },
+        {
+          "en": "Conquering parts of Bhutan, Kamrup and the eastern regions for the Koch kingdom",
+          "as": "কোচ ৰাজ্যৰ বাবে ভূটান, কমৰূপ আৰু পূব অঞ্চলৰ কিছু অংশ জয় কৰা"
+        },
+        {
+          "en": "Founding the Ahom kingdom in 1228",
+          "as": "১২২৮ চনত আহোম ৰাজ্য প্ৰতিষ্ঠা কৰা"
+        },
+        {
+          "en": "Leading the Mughal navy at Saraighat",
+          "as": "শৰাইঘাটত মোগল নৌবাহিনীৰ নেতৃত্ব দিয়া"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Chilarai is famous for conquering parts of Bhutan, Kamrup and the eastern regions for the Koch kingdom.",
+        "as": "চিলাৰায় ভূটান, কমৰূপ আৰু পূব অঞ্চলৰ কিছু অংশ কোচ ৰাজ্যৰ বাবে জয় কৰাৰ বাবে বিখ্যাত।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "The Koch kingdom gradually declined due to?",
       "question_as": "কোচ ৰাজ্য কিয় ধীৰে ধীৰে ক্ষয় হৈছিল?",
       "answer_en": "Mughal expansion and internal division",
-      "answer_as": "মোগল বিস্তাৰ আৰু আভ্যন্তৰীণ বিভাজন"
+      "answer_as": "মোগল বিস্তাৰ আৰু আভ্যন্তৰীণ বিভাজন",
+      "options": [
+        {
+          "en": "The invasion of the British in 1757",
+          "as": "১৭৫৭ চনত ব্ৰিটিছৰ আক্ৰমণ"
+        },
+        {
+          "en": "The Burmese invasions of the 19th century",
+          "as": "ঊনবিংশ শতিকাৰ বাৰ্মিজ আক্ৰমণ"
+        },
+        {
+          "en": "The partition of Bengal in 1905",
+          "as": "১৯০৫ চনত বংগ বিভাজন"
+        },
+        {
+          "en": "Mughal expansion and internal division",
+          "as": "মোগল বিস্তাৰ আৰু আভ্যন্তৰীণ বিভাজন"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Koch kingdom gradually declined due to Mughal expansion and internal division.",
+        "as": "মোগল বিস্তাৰ আৰু আভ্যন্তৰীণ বিভাজনৰ বাবে কোচ ৰাজ্য ক্ৰমে ক্ষয়িষ্ণু হৈছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Which Koch ruler patronized the Vaishnava saint Sankardeva?",
       "question_as": "বৈষ্ণৱ সন্ত শঙ্কৰদেৱক কোন কোচ শাসকে পৃষ্ঠপোষকতা কৰিছিল?",
       "answer_en": "Naranarayan",
-      "answer_as": "নৰনাৰায়ণ"
+      "answer_as": "নৰনাৰায়ণ",
+      "options": [
+        {
+          "en": "Biswa Singha",
+          "as": "বিশ্ব সিংহ"
+        },
+        {
+          "en": "Raghudeva",
+          "as": "ৰঘুদেৱ"
+        },
+        {
+          "en": "Nilambar",
+          "as": "নীলাম্বৰ"
+        },
+        {
+          "en": "Naranarayan",
+          "as": "নৰনাৰায়ণ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Naranarayan patronised the Vaishnava saint Sankardeva.",
+        "as": "নৰনাৰায়ণে বৈষ্ণৱ সন্ত শংকৰদেৱক পৃষ্ঠপোষকতা কৰিছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "The Koch kingdom was located in which region?",
       "question_as": "কোচ ৰাজ্য কোন অঞ্চলত অৱস্থিত আছিল?",
       "answer_en": "Western Assam and North Bengal (Kamata region)",
-      "answer_as": "পশ্চিম অসম আৰু উত্তৰ বংগ (কামতা অঞ্চল)"
+      "answer_as": "পশ্চিম অসম আৰু উত্তৰ বংগ (কামতা অঞ্চল)",
+      "options": [
+        {
+          "en": "Western Assam and North Bengal (Kamata region)",
+          "as": "পশ্চিম অসম আৰু উত্তৰ বংগ (কামতা অঞ্চল)"
+        },
+        {
+          "en": "Upper Assam around Sadiya",
+          "as": "শদিয়াৰ আশে-পাশে উজনি অসম"
+        },
+        {
+          "en": "The Barak valley and Cachar",
+          "as": "বৰাক উপত্যকা আৰু কাছাৰ"
+        },
+        {
+          "en": "The Naga hills and Manipur",
+          "as": "নগা পাহাৰ আৰু মণিপুৰ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Koch kingdom was located in Western Assam and North Bengal, the Kamata region.",
+        "as": "কোচ ৰাজ্য পশ্চিম অসম আৰু উত্তৰ বংগত, কামতা অঞ্চলত অৱস্থিত আছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Who was the father of Biswa Singha?",
       "question_as": "বিশ্ব সিংহৰ পিতৃ কোন আছিল?",
       "answer_en": "Hariya Mandal",
-      "answer_as": "হৰিয়া মণ্ডল"
+      "answer_as": "হৰিয়া মণ্ডল",
+      "options": [
+        {
+          "en": "Nilambar",
+          "as": "নীলাম্বৰ"
+        },
+        {
+          "en": "Chilarai",
+          "as": "চিলাৰায়"
+        },
+        {
+          "en": "Hariya Mandal",
+          "as": "হৰিয়া মণ্ডল"
+        },
+        {
+          "en": "Raghudeva",
+          "as": "ৰঘুদেৱ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Hariya Mandal was the father of Biswa Singha.",
+        "as": "হৰিয়া মণ্ডল বিশ্ব সিংহৰ পিতৃ আছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Biswa Singha's original name was?",
       "question_as": "বিশ্ব সিংহৰ মূল নাম কি আছিল?",
       "answer_en": "Bisu (Biswa)",
-      "answer_as": "বিচু (বিশ্ব)"
+      "answer_as": "বিচু (বিশ্ব)",
+      "options": [
+        {
+          "en": "Sukladhwaj",
+          "as": "চুক্লধ্বজ"
+        },
+        {
+          "en": "Malladeva",
+          "as": "মল্লদেৱ"
+        },
+        {
+          "en": "Bisu (Biswa)",
+          "as": "বিসু (বিশ্ব)"
+        },
+        {
+          "en": "Hariya",
+          "as": "হৰিয়া"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Biswa Singha's original name was Bisu.",
+        "as": "বিশ্ব সিংহৰ প্ৰকৃত নাম আছিল বিসু।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Which Koch king fought against the Mughals and defended Kamrup?",
       "question_as": "কোন কোচ ৰজাই মোগলসকলৰ বিৰুদ্ধে যুঁজি কামৰূপ ৰক্ষা কৰিছিল?",
       "answer_en": "Chilarai (and Naranarayan)",
-      "answer_as": "চিলাৰায় (আৰু নৰনাৰায়ণ)"
+      "answer_as": "চিলাৰায় (আৰু নৰনাৰায়ণ)",
+      "options": [
+        {
+          "en": "Biswa Singha",
+          "as": "বিশ্ব সিংহ"
+        },
+        {
+          "en": "Chilarai (and Naranarayan)",
+          "as": "চিলাৰায় (আৰু নৰনাৰায়ণ)"
+        },
+        {
+          "en": "Raghudeva",
+          "as": "ৰঘুদেৱ"
+        },
+        {
+          "en": "Nilambar",
+          "as": "নীলাম্বৰ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Chilarai, with Naranarayan, fought against the Mughals and defended Kamrup.",
+        "as": "চিলাৰায়ে নৰনাৰায়ণৰ সৈতে মোগলসকলৰ বিৰুদ্ধে যুঁজি কমৰূপ ৰক্ষা কৰিছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "The Koch kingdom's contribution to Assamese culture includes?",
       "question_as": "অসমীয়া সংস্কৃতিলৈ কোচ ৰাজ্যৰ অৱদান কি কি?",
       "answer_en": "Patronage of Vaishnavism, literature and temple architecture",
-      "answer_as": "বৈষ্ণৱ ধৰ্ম, সাহিত্য আৰু মন্দিৰ স্থাপত্যৰ পৃষ্ঠপোষকতা"
+      "answer_as": "বৈষ্ণৱ ধৰ্ম, সাহিত্য আৰু মন্দিৰ স্থাপত্যৰ পৃষ্ঠপোষকতা",
+      "options": [
+        {
+          "en": "Patronage of Vaishnavism, literature and temple architecture",
+          "as": "বৈষ্ণৱ ধৰ্ম, সাহিত্য আৰু মন্দিৰ স্থাপত্যৰ পৃষ্ঠপোষকতা"
+        },
+        {
+          "en": "Introduction of wet-rice cultivation",
+          "as": "জলকীয়া ধান খেতিৰ প্ৰৱৰ্তন"
+        },
+        {
+          "en": "Building of the Rang Ghar and Talatal Ghar",
+          "as": "ৰংঘৰ আৰু তলাতল ঘৰ নিৰ্মাণ"
+        },
+        {
+          "en": "Founding of the Buranji chronicles",
+          "as": "বুৰঞ্জী ইতিহাস ৰচনাৰ আৰম্ভণি"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Koch kingdom's contribution to Assamese culture includes patronage of Vaishnavism, literature and temple architecture.",
+        "as": "অসমীয়া সংস্কৃতিত কোচ ৰাজ্যৰ অৱদান হ'ল বৈষ্ণৱ ধৰ্ম, সাহিত্য আৰু মন্দিৰ স্থাপত্যৰ পৃষ্ঠপোষকতা।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "The capital of the Kamata kingdom before the Kochs was?",
       "question_as": "কোচসকলৰ আগত কামতা ৰাজ্যৰ ৰাজধানী কি আছিল?",
       "answer_en": "Kamatapur",
-      "answer_as": "কামতাপুৰ"
+      "answer_as": "কামতাপুৰ",
+      "options": [
+        {
+          "en": "Sadiya",
+          "as": "শদিয়া"
+        },
+        {
+          "en": "Kamatapur",
+          "as": "কামতাপুৰ"
+        },
+        {
+          "en": "Rangpur",
+          "as": "ৰংপুৰ"
+        },
+        {
+          "en": "Charaideo",
+          "as": "চৰাইদেউ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The capital of the Kamata kingdom before the Kochs was Kamatapur.",
+        "as": "কোচসকলৰ আগতে কামতা ৰাজ্যৰ ৰাজধানী আছিল কামতাপুৰ।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Who was the last ruler of the earlier Khen dynasty of Kamata?",
       "question_as": "কামতাৰ পূৰ্বৱৰ্তী খেন বংশৰ শেষ শাসক কোন আছিল?",
       "answer_en": "Nilambar",
-      "answer_as": "নীলাম্বৰ"
+      "answer_as": "নীলাম্বৰ",
+      "options": [
+        {
+          "en": "Biswa Singha",
+          "as": "বিশ্ব সিংহ"
+        },
+        {
+          "en": "Nilambar",
+          "as": "নীলাম্বৰ"
+        },
+        {
+          "en": "Naranarayan",
+          "as": "নৰনাৰায়ণ"
+        },
+        {
+          "en": "Raghudeva",
+          "as": "ৰঘুদেৱ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Nilambar was the last ruler of the earlier Khen dynasty of Kamata.",
+        "as": "নীলাম্বৰ কামতাৰ পূৰ্বৱৰ্তী খেন বংশৰ শেষ শাসক আছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "The Koch kingdom ultimately came under which empire?",
       "question_as": "কোচ ৰাজ্য শেষত কোন সাম্ৰাজ্যৰ অধীনলৈ আহিছিল?",
       "answer_en": "The Mughal empire and later the British",
-      "answer_as": "মোগল সাম্ৰাজ্য আৰু পিছত ব্ৰিটিছ"
+      "answer_as": "মোগল সাম্ৰাজ্য আৰু পিছত ব্ৰিটিছ",
+      "options": [
+        {
+          "en": "The Mughal empire and later the British",
+          "as": "মোগল সাম্ৰাজ্য আৰু পিছত ব্ৰিটিছ"
+        },
+        {
+          "en": "The Ahom kingdom and later the Burmese",
+          "as": "আহোম ৰাজ্য আৰু পিছত বাৰ্মিজ"
+        },
+        {
+          "en": "The Chutiya kingdom and later the Kacharis",
+          "as": "চুতীয়া ৰাজ্য আৰু পিছত কছাৰী"
+        },
+        {
+          "en": "The Burmese empire and later the French",
+          "as": "বাৰ্মিজ সাম্ৰাজ্য আৰু পিছত ফৰাচী"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Koch kingdom ultimately came under the Mughal empire and later the British.",
+        "as": "কোচ ৰাজ্য অৱশেষত মোগল সাম্ৰাজ্য আৰু পিছত ব্ৰিটিছৰ অধীনলৈ আহিছিল।"
+      }
     },
     {
       "category": "Koch Dynasty and Kamata",
       "question_en": "Which Koch king is known for the conquest of the Kachari kingdom?",
       "question_as": "কাছাৰী ৰাজ্য জয়ৰ বাবে কোন কোচ ৰজা জনাজাত?",
       "answer_en": "Naranarayan",
-      "answer_as": "নৰনাৰায়ণ"
+      "answer_as": "নৰনাৰায়ণ",
+      "options": [
+        {
+          "en": "Biswa Singha",
+          "as": "বিশ্ব সিংহ"
+        },
+        {
+          "en": "Chilarai",
+          "as": "চিলাৰায়"
+        },
+        {
+          "en": "Raghudeva",
+          "as": "ৰঘুদেৱ"
+        },
+        {
+          "en": "Naranarayan",
+          "as": "নৰনাৰায়ণ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Naranarayan is known for the conquest of the Kachari kingdom.",
+        "as": "নৰনাৰায়ণ কছাৰী ৰাজ্য জয়ৰ বাবে জনাজাত।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "Where was the Chutia kingdom located?",
       "question_as": "চুতীয়া ৰাজ্য ক'ত অৱস্থিত আছিল?",
       "answer_en": "The Sadiya region of Upper Assam",
-      "answer_as": "উজনি অসমৰ শদিয়া অঞ্চলত"
+      "answer_as": "উজনি অসমৰ শদিয়া অঞ্চলত",
+      "options": [
+        {
+          "en": "The Kamrup region of Lower Assam",
+          "as": "নিম্ন অসমৰ কমৰূপ অঞ্চল"
+        },
+        {
+          "en": "The Barak valley of southern Assam",
+          "as": "দক্ষিণ অসমৰ বৰাক উপত্যকা"
+        },
+        {
+          "en": "The Nagaon region of central Assam",
+          "as": "মধ্য অসমৰ নগাঁও অঞ্চল"
+        },
+        {
+          "en": "The Sadiya region of Upper Assam",
+          "as": "উজনি অসমৰ শদিয়া অঞ্চল"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Chutia kingdom was located in the Sadiya region of Upper Assam.",
+        "as": "চুতীয়া ৰাজ্য উজনি অসমৰ শদিয়া অঞ্চলত অৱস্থিত আছিল।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "What was the capital of the Chutia kingdom?",
       "question_as": "চুতীয়া ৰাজ্যৰ ৰাজধানী কি আছিল?",
       "answer_en": "Sadiya",
-      "answer_as": "শদিয়া"
+      "answer_as": "শদিয়া",
+      "options": [
+        {
+          "en": "Kamatapur",
+          "as": "কামতাপুৰ"
+        },
+        {
+          "en": "Sadiya",
+          "as": "শদিয়া"
+        },
+        {
+          "en": "Rangpur",
+          "as": "ৰংপুৰ"
+        },
+        {
+          "en": "Charaideo",
+          "as": "চৰাইদেউ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The capital of the Chutia kingdom was Sadiya.",
+        "as": "চুতীয়া ৰাজ্যৰ ৰাজধানী আছিল শদিয়া।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "Who annexed the Chutia kingdom?",
       "question_as": "চুতীয়া ৰাজ্য কোনে সংযুক্ত কৰিছিল?",
       "answer_en": "The Ahoms under Suhungmung",
-      "answer_as": "চুহুংমুংৰ নেতৃত্বত আহোমসকলে"
+      "answer_as": "চুহুংমুংৰ নেতৃত্বত আহোমসকলে",
+      "options": [
+        {
+          "en": "The Koch under Naranarayan",
+          "as": "নৰনাৰায়ণৰ অধীনত কোচসকল"
+        },
+        {
+          "en": "The Mughals under Mir Jumla",
+          "as": "মিৰ জুমলাৰ অধীনত মোগলসকল"
+        },
+        {
+          "en": "The Ahoms under Suhungmung",
+          "as": "চুহুংমুঙৰ অধীনত আহোমসকল"
+        },
+        {
+          "en": "The Burmese under Maha Bandula",
+          "as": "মহা বন্দুলাৰ অধীনত বাৰ্মিজসকল"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Chutia kingdom was annexed by the Ahoms under Suhungmung.",
+        "as": "চুতীয়া ৰাজ্য চুহুংমুঙৰ অধীনত আহোমসকলে অধিগ্ৰহণ কৰিছিল।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "In which year was the Chutia kingdom annexed by the Ahoms?",
       "question_as": "কোন বছৰত আহোমসকলে চুতীয়া ৰাজ্য সংযুক্ত কৰিছিল?",
       "answer_en": "1523",
-      "answer_as": "১৫২৩"
+      "answer_as": "১৫২৩",
+      "options": [
+        {
+          "en": "1497",
+          "as": "১৪৯৭"
+        },
+        {
+          "en": "1536",
+          "as": "১৫৩৬"
+        },
+        {
+          "en": "1540",
+          "as": "১৫৪০"
+        },
+        {
+          "en": "1523",
+          "as": "১৫২৩"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Chutia kingdom was annexed by the Ahoms in 1523.",
+        "as": "১৫২৩ চনত আহোমসকলে চুতীয়া ৰাজ্য অধিগ্ৰহণ কৰিছিল।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "Which river region formed the core of the Chutia kingdom?",
       "question_as": "চুতীয়া ৰাজ্যৰ প্ৰাণকেন্দ্ৰ কোন নদী অঞ্চল আছিল?",
       "answer_en": "The upper Brahmaputra and the Dihing region",
-      "answer_as": "ব্ৰহ্মপুত্ৰৰ ওপৰভাগ আৰু দিহিং অঞ্চল"
+      "answer_as": "ব্ৰহ্মপুত্ৰৰ ওপৰভাগ আৰু দিহিং অঞ্চল",
+      "options": [
+        {
+          "en": "The upper Brahmaputra and the Dihing region",
+          "as": "ওপৰ ব্ৰহ্মপুত্ৰ আৰু দিহিং অঞ্চল"
+        },
+        {
+          "en": "The Manas and the Beki",
+          "as": "মনাহ আৰু বেকী"
+        },
+        {
+          "en": "The Barak and the Surma",
+          "as": "বৰাক আৰু সূৰ্মা"
+        },
+        {
+          "en": "The Dhansiri and the Kopili",
+          "as": "ধানশিৰি আৰু কপিলী"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The upper Brahmaputra and the Dihing region formed the core of the Chutia kingdom.",
+        "as": "ওপৰ ব্ৰহ্মপুত্ৰ আৰু দিহিং অঞ্চল চুতীয়া ৰাজ্যৰ মূল অংশ আছিল।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "Where was the Kachari kingdom located?",
       "question_as": "কছাৰী ৰাজ্য ক'ত অৱস্থিত আছিল?",
       "answer_en": "The Dimapur and later Maibang region (Cachar)",
-      "answer_as": "ডিমাপুৰ আৰু পিছত মৈবং অঞ্চল (কাছাৰ)"
+      "answer_as": "ডিমাপুৰ আৰু পিছত মৈবং অঞ্চল (কাছাৰ)",
+      "options": [
+        {
+          "en": "The Sadiya region of Upper Assam",
+          "as": "উজনি অসমৰ শদিয়া অঞ্চল"
+        },
+        {
+          "en": "The Kamrup region of Lower Assam",
+          "as": "নিম্ন অসমৰ কমৰূপ অঞ্চল"
+        },
+        {
+          "en": "The Nagaon region of central Assam",
+          "as": "মধ্য অসমৰ নগাঁও অঞ্চল"
+        },
+        {
+          "en": "The Dimapur and later Maibang region (Cachar)",
+          "as": "দিমাপুৰ আৰু পিছত মাইবঙ অঞ্চল (কাছাৰ)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Kachari kingdom was located in the Dimapur and later Maibang region (Cachar).",
+        "as": "কছাৰী ৰাজ্য দিমাপুৰ আৰু পিছত মাইবঙ অঞ্চলত (কাছাৰ) অৱস্থিত আছিল।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "What was the early capital of the Kachari kingdom?",
       "question_as": "কছাৰী ৰাজ্যৰ আদি ৰাজধানী কি আছিল?",
       "answer_en": "Dimapur",
-      "answer_as": "ডিমাপুৰ"
+      "answer_as": "ডিমাপুৰ",
+      "options": [
+        {
+          "en": "Maibang",
+          "as": "মাইবং"
+        },
+        {
+          "en": "Sadiya",
+          "as": "শদিয়া"
+        },
+        {
+          "en": "Kamatapur",
+          "as": "কামতাপুৰ"
+        },
+        {
+          "en": "Dimapur",
+          "as": "দিমাপুৰ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The early capital of the Kachari kingdom was Dimapur.",
+        "as": "কছাৰী ৰাজ্যৰ প্ৰাৰম্ভিক ৰাজধানী আছিল দিমাপুৰ।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "The Kachari capital was later shifted from Dimapur to where?",
       "question_as": "কছাৰী ৰাজধানী পিছত ডিমাপুৰৰ পৰা ক'লৈ স্থানান্তৰিত হৈছিল?",
       "answer_en": "Maibang",
-      "answer_as": "মৈবং"
+      "answer_as": "মৈবং",
+      "options": [
+        {
+          "en": "Dimapur",
+          "as": "দিমাপুৰ"
+        },
+        {
+          "en": "Maibang",
+          "as": "মাইবং"
+        },
+        {
+          "en": "Khaspur",
+          "as": "খাসপুৰ"
+        },
+        {
+          "en": "Kamatapur",
+          "as": "কামতাপুৰ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Kachari capital was later shifted from Dimapur to Maibang.",
+        "as": "কছাৰী ৰাজধানী পিছত দিমাপুৰৰ পৰা মাইবঙলৈ স্থানান্তৰিত কৰা হৈছিল।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "Who defeated the Kachari kingdom in the 16th century?",
       "question_as": "১৬শ শতিকাত কছাৰী ৰাজ্যক কোনে পৰাস্ত কৰিছিল?",
       "answer_en": "The Ahoms under Suhungmung",
-      "answer_as": "চুহুংমুংৰ নেতৃত্বত আহোমসকলে"
+      "answer_as": "চুহুংমুংৰ নেতৃত্বত আহোমসকলে",
+      "options": [
+        {
+          "en": "The Koch under Naranarayan",
+          "as": "নৰনাৰায়ণৰ অধীনত কোচসকল"
+        },
+        {
+          "en": "The Mughals under Mir Jumla",
+          "as": "মিৰ জুমলাৰ অধীনত মোগলসকল"
+        },
+        {
+          "en": "The Ahoms under Suhungmung",
+          "as": "চুহুংমুঙৰ অধীনত আহোমসকল"
+        },
+        {
+          "en": "The Burmese under Maha Bandula",
+          "as": "মহা বন্দুলাৰ অধীনত বাৰ্মিজসকল"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Kachari kingdom was defeated in the 16th century by the Ahoms under Suhungmung.",
+        "as": "১৬ শতিকাত চুহুংমুঙৰ অধীনত আহোমসকলে কছাৰী ৰাজ্য পৰাস্ত কৰিছিল।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "The Dimapur ruins belong to which kingdom?",
       "question_as": "ডিমাপুৰৰ ধ্বংসাৱশেষ কোন ৰাজ্যৰ?",
       "answer_en": "The Kachari kingdom",
-      "answer_as": "কছাৰী ৰাজ্য"
+      "answer_as": "কছাৰী ৰাজ্য",
+      "options": [
+        {
+          "en": "The Chutia kingdom",
+          "as": "চুতীয়া ৰাজ্য"
+        },
+        {
+          "en": "The Kachari kingdom",
+          "as": "কছাৰী ৰাজ্য"
+        },
+        {
+          "en": "The Koch kingdom",
+          "as": "কোচ ৰাজ্য"
+        },
+        {
+          "en": "The Ahom kingdom",
+          "as": "আহোম ৰাজ্য"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Dimapur ruins belong to the Kachari kingdom.",
+        "as": "দিমাপুৰৰ ভগ্নাৱশেষ কছাৰী ৰাজ্যৰ।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "The Dimasa Kachari kingdom is the medieval kingdom of which region?",
       "question_as": "দিমাছা কছাৰী ৰাজ্য কোন অঞ্চলৰ মধ্যযুগীয় ৰাজ্য আছিল?",
       "answer_en": "Cachar (southern Assam)",
-      "answer_as": "কাছাৰ (দক্ষিণ অসম)"
+      "answer_as": "কাছাৰ (দক্ষিণ অসম)",
+      "options": [
+        {
+          "en": "Upper Assam around Sadiya",
+          "as": "শদিয়াৰ আশে-পাশে উজনি অসম"
+        },
+        {
+          "en": "Western Assam and North Bengal",
+          "as": "পশ্চিম অসম আৰু উত্তৰ বংগ"
+        },
+        {
+          "en": "Cachar (southern Assam)",
+          "as": "কাছাৰ (দক্ষিণ অসম)"
+        },
+        {
+          "en": "The Naga hills and Manipur",
+          "as": "নগা পাহাৰ আৰু মণিপুৰ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Dimasa Kachari kingdom is the medieval kingdom of Cachar in southern Assam.",
+        "as": "ডিমাছা কছাৰী ৰাজ্য দক্ষিণ অসমৰ কাছাৰৰ মধ্যযুগীয় ৰাজ্য।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "Which Ahom king fought against the Chutias and Kacharis?",
       "question_as": "চুতীয়া আৰু কছাৰীসকলৰ বিৰুদ্ধে কোন আহোম ৰজাই যুঁজিছিল?",
       "answer_en": "Suhungmung",
-      "answer_as": "চুহুংমুং"
+      "answer_as": "চুহুংমুং",
+      "options": [
+        {
+          "en": "Sukaphaa",
+          "as": "চুকাফা"
+        },
+        {
+          "en": "Pratap Singha",
+          "as": "প্ৰতাপ সিংহ"
+        },
+        {
+          "en": "Gadadhar Singha",
+          "as": "গদাধৰ সিংহ"
+        },
+        {
+          "en": "Suhungmung",
+          "as": "চুহুংমুং"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Suhungmung fought against both the Chutias and the Kacharis.",
+        "as": "চুহুংমুঙে চুতীয়া আৰু কছাৰী উভয়ৰে বিৰুদ্ধে যুঁজিছিল।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "The Chutia community is now chiefly found in which part of Assam?",
       "question_as": "চুতীয়া জনগোষ্ঠী বৰ্তমান অসমৰ কোন অংশত পোৱা যায়?",
       "answer_en": "Upper Assam (Lakhimpur, Dhemaji, Tinsukia)",
-      "answer_as": "উজনি অসম (লখিমপুৰ, ঢেমাজি, তিনিচুকীয়া)"
+      "answer_as": "উজনি অসম (লখিমপুৰ, ঢেমাজি, তিনিচুকীয়া)",
+      "options": [
+        {
+          "en": "Lower Assam (Kamrup, Goalpara)",
+          "as": "নিম্ন অসম (কামৰূপ, গোৱালপাৰা)"
+        },
+        {
+          "en": "Upper Assam (Lakhimpur, Dhemaji, Tinsukia)",
+          "as": "উজনি অসম (লখিমপুৰ, ধেমাজি, তিনিচুকীয়া)"
+        },
+        {
+          "en": "The Barak valley (Cachar)",
+          "as": "বৰাক উপত্যকা (কাছাৰ)"
+        },
+        {
+          "en": "The Nagaon and Morigaon districts",
+          "as": "নগাঁও আৰু মৰিগাঁও জিলা"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Chutia community is now chiefly found in Upper Assam, in Lakhimpur, Dhemaji and Tinsukia.",
+        "as": "চুতীয়া সমাজ মূলতঃ উজনি অসমত, লখিমপুৰ, ধেমাজি আৰু তিনিচুকীয়াত পোৱা যায়।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "After the decline of the Kachari kingdom, Cachar came under which power?",
       "question_as": "কছাৰী ৰাজ্যৰ অৱনতিৰ পিছত কাছাৰ কোন শক্তিৰ অধীনলৈ আহিছিল?",
       "answer_en": "The British",
-      "answer_as": "ব্ৰিটিছ"
+      "answer_as": "ব্ৰিটিছ",
+      "options": [
+        {
+          "en": "The Mughals",
+          "as": "মোগলসকল"
+        },
+        {
+          "en": "The British",
+          "as": "ব্ৰিটিছ"
+        },
+        {
+          "en": "The Burmese",
+          "as": "বাৰ্মিজসকল"
+        },
+        {
+          "en": "The Ahoms",
+          "as": "আহোমসকল"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "After the decline of the Kachari kingdom, Cachar came under the British.",
+        "as": "কছাৰী ৰাজ্যৰ পতনৰ পিছত কাছাৰ ব্ৰিটিছৰ অধীনলৈ আহিছিল।"
+      }
     },
     {
       "category": "Chutia and Kachari Kingdoms",
       "question_en": "Which Kachari king is said to have patronized the poet Madhav Kandali?",
       "question_as": "কবি মাধৱ কন্দলিক পৃষ্ঠপোষকতা কৰা কছাৰী ৰজা কোন বুলি কোৱা হয়?",
       "answer_en": "Mahamanikya",
-      "answer_as": "মহামাণিক্য"
+      "answer_as": "মহামাণিক্য",
+      "options": [
+        {
+          "en": "Mahamanikya",
+          "as": "মহামাণিক্য"
+        },
+        {
+          "en": "Nilambar",
+          "as": "নীলাম্বৰ"
+        },
+        {
+          "en": "Naranarayan",
+          "as": "নৰনাৰায়ণ"
+        },
+        {
+          "en": "Raghudeva",
+          "as": "ৰঘুদেৱ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Mahamanikya, a Kachari king, is said to have patronised the poet Madhav Kandali.",
+        "as": "কছাৰী ৰজা মহামাণিক্যই কবি মাধৱ কন্দলীক পৃষ্ঠপোষকতা কৰিছিল বুলি কোৱা হয়।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Who founded the Vaishnava Bhakti movement in Assam?",
       "question_as": "অসমত বৈষ্ণৱ ভক্তি আন্দোলন কোনে প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "Srimanta Sankardeva",
-      "answer_as": "শ্ৰীমন্ত শংকৰদেৱ"
+      "answer_as": "শ্ৰীমন্ত শংকৰদেৱ",
+      "options": [
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Srimanta Sankardeva",
+          "as": "শ্ৰীমন্ত শংকৰদেৱ"
+        },
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        },
+        {
+          "en": "Damodardeva",
+          "as": "দামোদৰদেৱ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Srimanta Sankardeva founded the Vaishnava Bhakti movement in Assam.",
+        "as": "শ্ৰীমন্ত শংকৰদেৱে অসমত বৈষ্ণৱ ভক্তি আন্দোলন প্ৰতিষ্ঠা কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "In which year was Sankardeva born?",
       "question_as": "শংকৰদেৱ কোন বছৰত জন্ম গ্ৰহণ কৰিছিল?",
       "answer_en": "1449",
-      "answer_as": "১৪৪৯"
+      "answer_as": "১৪৪৯",
+      "options": [
+        {
+          "en": "1449",
+          "as": "১৪৪৯"
+        },
+        {
+          "en": "1468",
+          "as": "১৪৬৮"
+        },
+        {
+          "en": "1497",
+          "as": "১৪৯৭"
+        },
+        {
+          "en": "1568",
+          "as": "১৫৬৮"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Sankardeva was born in 1449.",
+        "as": "শংকৰদেৱ ১৪৪৯ চনত জন্মগ্ৰহণ কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Where was Sankardeva born?",
       "question_as": "শংকৰদেৱ ক'ত জন্ম গ্ৰহণ কৰিছিল?",
       "answer_en": "Alipukhuri (Bordowa, Nagaon district)",
-      "answer_as": "আলিপুখুৰী (বৰদোৱা, নগাঁও জিলা)"
+      "answer_as": "আলিপুখুৰী (বৰদোৱা, নগাঁও জিলা)",
+      "options": [
+        {
+          "en": "Alipukhuri (Bordowa, Nagaon district)",
+          "as": "আলিপুখুৰী (বৰদোৱা, নগাঁও জিলা)"
+        },
+        {
+          "en": "Sadiya in Upper Assam",
+          "as": "উজনি অসমৰ শদিয়া"
+        },
+        {
+          "en": "Koch Bihar in North Bengal",
+          "as": "উত্তৰ বংগৰ কোচ বিহাৰ"
+        },
+        {
+          "en": "Dimapur in the Kachari kingdom",
+          "as": "কছাৰী ৰাজ্যৰ দিমাপুৰ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Sankardeva was born at Alipukhuri in Bordowa, Nagaon district.",
+        "as": "শংকৰদেৱ নগাঁও জিলাৰ বৰদোৱাৰ আলিপুখুৰীত জন্মগ্ৰহণ কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "In which year did Sankardeva die?",
       "question_as": "শংকৰদেৱ কোন বছৰত মৃত্যু হৈছিল?",
       "answer_en": "1568",
-      "answer_as": "১৫৬৮"
+      "answer_as": "১৫৬৮",
+      "options": [
+        {
+          "en": "1449",
+          "as": "১৪৪৯"
+        },
+        {
+          "en": "1497",
+          "as": "১৪৯৭"
+        },
+        {
+          "en": "1568",
+          "as": "১৫৬৮"
+        },
+        {
+          "en": "1539",
+          "as": "১৫৩৯"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Sankardeva died in 1568.",
+        "as": "শংকৰদেৱ ১৫৬৮ চনত মৃত্যুবৰণ কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Where did Sankardeva die?",
       "question_as": "শংকৰদেৱ ক'ত মৃত্যু হৈছিল?",
       "answer_en": "At Bhelengi in Cooch Behar",
-      "answer_as": "কোচ বিহাৰৰ ভেলেংগীত"
+      "answer_as": "কোচ বিহাৰৰ ভেলেংগীত",
+      "options": [
+        {
+          "en": "At Bhelengi in Cooch Behar",
+          "as": "কুচবিহাৰৰ ভেলেংগিত"
+        },
+        {
+          "en": "At Bordowa in Nagaon",
+          "as": "নগাঁৱৰ বৰদোৱাত"
+        },
+        {
+          "en": "At Sadiya in Upper Assam",
+          "as": "উজনি অসমৰ শদিয়াত"
+        },
+        {
+          "en": "At Kamakhya in Guwahati",
+          "as": "গুৱাহাটীৰ কামাখ্যাত"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Sankardeva died at Bhelengi in Cooch Behar.",
+        "as": "শংকৰদেৱ কুচবিহাৰৰ ভেলেংগিত মৃত্যুবৰণ কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Who was the chief disciple of Sankardeva?",
       "question_as": "শংকৰদেৱৰ প্ৰধান শিষ্য কোন আছিল?",
       "answer_en": "Madhavdeva",
-      "answer_as": "মাধৱদেৱ"
+      "answer_as": "মাধৱদেৱ",
+      "options": [
+        {
+          "en": "Damodardeva",
+          "as": "দামোদৰদেৱ"
+        },
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        },
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Harideva",
+          "as": "হৰিদেৱ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Madhavdeva was the chief disciple of Sankardeva.",
+        "as": "মাধৱদেৱ শংকৰদেৱৰ প্ৰধান শিষ্য আছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "What is the prayer hall of the Vaishnavites called?",
       "question_as": "বৈষ্ণৱসকলৰ প্ৰাৰ্থনা গৃহক কি বোলে?",
       "answer_en": "Namghar",
-      "answer_as": "নামঘৰ"
+      "answer_as": "নামঘৰ",
+      "options": [
+        {
+          "en": "Namghar",
+          "as": "নামঘৰ"
+        },
+        {
+          "en": "Sattra",
+          "as": "সত্ৰ"
+        },
+        {
+          "en": "Ankia Nat",
+          "as": "অংকীয়া নাট"
+        },
+        {
+          "en": "Bhaona",
+          "as": "ভাওনা"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The prayer hall of the Vaishnavites is called the Namghar.",
+        "as": "বৈষ্ণৱসকলৰ প্ৰাৰ্থনা গৃহক নামঘৰ বোলা হয়।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "What is a Sattra?",
       "question_as": "সত্ৰ কি?",
       "answer_en": "A Vaishnava monastery (monastic institution)",
-      "answer_as": "বৈষ্ণৱ মঠ (মঠীয়া প্ৰতিষ্ঠান)"
+      "answer_as": "বৈষ্ণৱ মঠ (মঠীয়া প্ৰতিষ্ঠান)",
+      "options": [
+        {
+          "en": "A royal palace of the Ahom kings",
+          "as": "আহোম ৰজাৰ ৰাজপ্ৰাসাদ"
+        },
+        {
+          "en": "A village court of the Ahoms",
+          "as": "আহোমসকলৰ গাঁও আদালত"
+        },
+        {
+          "en": "A type of devotional song",
+          "as": "এক প্ৰকাৰৰ ভক্তি গীত"
+        },
+        {
+          "en": "A Vaishnava monastery (monastic institution)",
+          "as": "বৈষ্ণৱ মঠ (মঠ-সংস্থান)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "A Sattra is a Vaishnava monastery, a monastic institution.",
+        "as": "সত্ৰ হ'ল বৈষ্ণৱ মঠ, এটা মঠ-সংস্থান।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Which Sattra was established by Sankardeva?",
       "question_as": "শংকৰদেৱে কোন সত্ৰ প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "The Bordowa (Borgowa) Sattra",
-      "answer_as": "বৰদোৱা সত্ৰ"
+      "answer_as": "বৰদোৱা সত্ৰ",
+      "options": [
+        {
+          "en": "The Kamalabari Sattra",
+          "as": "কমলাবৰী সত্ৰ"
+        },
+        {
+          "en": "The Mayamara Sattra",
+          "as": "মায়ামৰা সত্ৰ"
+        },
+        {
+          "en": "The Auniati Sattra",
+          "as": "আউনীআটী সত্ৰ"
+        },
+        {
+          "en": "The Bordowa (Borgowa) Sattra",
+          "as": "বৰদোৱা (বৰগোৱা) সত্ৰ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Sankardeva established the Bordowa (Borgowa) Sattra.",
+        "as": "শংকৰদেৱে বৰদোৱা (বৰগোৱা) সত্ৰ প্ৰতিষ্ঠা কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "What is the famous literary work of Sankardeva?",
       "question_as": "শংকৰদেৱৰ বিখ্যাত সাহিত্যকৃতি কি?",
       "answer_en": "Kirtan Ghosha",
-      "answer_as": "কীৰ্তন ঘোষা"
+      "answer_as": "কীৰ্তন ঘোষা",
+      "options": [
+        {
+          "en": "Namghosa",
+          "as": "নামঘোষা"
+        },
+        {
+          "en": "Gunamala",
+          "as": "গুণমালা"
+        },
+        {
+          "en": "Kirtan Ghosha",
+          "as": "কীৰ্তন ঘোষা"
+        },
+        {
+          "en": "Bargeet",
+          "as": "বৰগীত"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Kirtan Ghosha is the famous literary work of Sankardeva.",
+        "as": "কীৰ্তন ঘোষা শংকৰদেৱৰ বিখ্যাত সাহিত্যকৰ্ম।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Which devotional work was composed by Madhavdeva?",
       "question_as": "মাধৱদেৱে ৰচনা কৰা ভক্তিমূলক গ্ৰন্থখন কোনখন?",
       "answer_en": "Namghosa",
-      "answer_as": "নামঘোষা"
+      "answer_as": "নামঘোষা",
+      "options": [
+        {
+          "en": "Namghosa",
+          "as": "নামঘোষা"
+        },
+        {
+          "en": "Kirtan Ghosha",
+          "as": "কীৰ্তন ঘোষা"
+        },
+        {
+          "en": "Gunamala",
+          "as": "গুণমালা"
+        },
+        {
+          "en": "Ankia Nat",
+          "as": "অংকীয়া নাট"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Namghosa was composed by Madhavdeva.",
+        "as": "নামঘোষা মাধৱদেৱে ৰচনা কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "What are the devotional songs composed by Sankardeva and Madhavdeva called?",
       "question_as": "শংকৰদেৱ আৰু মাধৱদেৱে ৰচনা কৰা ভক্তিমূলক গীতবোৰক কি বোলে?",
       "answer_en": "Bargeet",
-      "answer_as": "বৰগীত"
+      "answer_as": "বৰগীত",
+      "options": [
+        {
+          "en": "Bihu geet",
+          "as": "বিহু গীত"
+        },
+        {
+          "en": "Bhaona",
+          "as": "ভাওনা"
+        },
+        {
+          "en": "Ankia Nat",
+          "as": "অংকীয়া নাট"
+        },
+        {
+          "en": "Bargeet",
+          "as": "বৰগীত"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The devotional songs composed by Sankardeva and Madhavdeva are called Bargeet.",
+        "as": "শংকৰদেৱ আৰু মাধৱদেৱে ৰচনা কৰা ভক্তি গীতক বৰগীত বোলা হয়।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "What is an Ankia Nat?",
       "question_as": "অংকীয়া নাট কি?",
       "answer_en": "A one-act play written for religious performance",
-      "answer_as": "ধৰ্মীয় অভিনয়ৰ বাবে লিখা একাঙ্কিকা নাট"
+      "answer_as": "ধৰ্মীয় অভিনয়ৰ বাবে লিখা একাঙ্কিকা নাট",
+      "options": [
+        {
+          "en": "A folk dance of the Bodos",
+          "as": "বড়োসকলৰ লোকনৃত্য"
+        },
+        {
+          "en": "A royal chronicle of the Ahoms",
+          "as": "আহোমসকলৰ ৰাজকীয় বুৰঞ্জী"
+        },
+        {
+          "en": "A one-act play written for religious performance",
+          "as": "ধৰ্মীয় পৰিৱেশনৰ বাবে লিখা একাংক নাট"
+        },
+        {
+          "en": "A type of Sattra building",
+          "as": "এক প্ৰকাৰৰ সত্ৰ ভৱন"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "An Ankia Nat is a one-act play written for religious performance.",
+        "as": "অংকীয়া নাট হ'ল ধৰ্মীয় পৰিৱেশনৰ বাবে লিখা একাংক নাট।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Who introduced the Bhaona (traditional drama) tradition?",
       "question_as": "ভাওনা পৰম্পৰা কোনে আৰম্ভ কৰিছিল?",
       "answer_en": "Sankardeva",
-      "answer_as": "শংকৰদেৱ"
+      "answer_as": "শংকৰদেৱ",
+      "options": [
+        {
+          "en": "Sankardeva",
+          "as": "শংকৰদেৱ"
+        },
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Naranarayan",
+          "as": "নৰনাৰায়ণ"
+        },
+        {
+          "en": "Suhungmung",
+          "as": "চুহুংমুং"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Sankardeva introduced the Bhaona, the traditional drama tradition.",
+        "as": "শংকৰদেৱে ভাওনা, পৰম্পৰাগত নাট্যধাৰা আৰম্ভ কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Which classical dance form of Assam is associated with the Sattras?",
       "question_as": "সত্ৰৰ লগত জড়িত অসমৰ শাস্ত্ৰীয় নৃত্য-ধাৰা কোনটো?",
       "answer_en": "Sattriya dance",
-      "answer_as": "সত্ৰীয়া নৃত্য"
+      "answer_as": "সত্ৰীয়া নৃত্য",
+      "options": [
+        {
+          "en": "Bihu dance",
+          "as": "বিহু নৃত্য"
+        },
+        {
+          "en": "Sattriya dance",
+          "as": "সত্ৰীয়া নৃত্য"
+        },
+        {
+          "en": "Bagurumba dance",
+          "as": "বাগৰুম্বা নৃত্য"
+        },
+        {
+          "en": "Jhumur dance",
+          "as": "ঝুমুৰ নৃত্য"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Sattriya dance is the classical dance form of Assam associated with the Sattras.",
+        "as": "সত্ৰীয়া নৃত্য অসমৰ শাস্ত্ৰীয় নৃত্য, যি সত্ৰসমূহৰ সৈতে জড়িত।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
