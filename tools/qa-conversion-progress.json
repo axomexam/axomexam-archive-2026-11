@@ -763,22 +763,46 @@
       "converted": 30,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/modern-architecture-unesco-sites-india.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/straits-canals-seas-gulfs.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/fairs-festivals-intangible-heritage-india.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/music-traditions-classical-folk-india.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 8959,
-  "remaining_questions": 941,
-  "remaining_files": 36,
+  "total_converted": 9079,
+  "remaining_questions": 821,
+  "remaining_files": 32,
   "next_files": [
-    "data/content/gk/modern-architecture-unesco-sites-india.json",
-    "data/content/gk/straits-canals-seas-gulfs.json",
-    "data/content/gk/fairs-festivals-intangible-heritage-india.json",
-    "data/content/gk/music-traditions-classical-folk-india.json",
     "data/content/gk/minerals-oil-belts-sea-routes-world.json",
     "data/content/gk/international-border-lines-world.json",
     "data/content/gk/major-religions-philosophies-india.json",
     "data/content/gk/medieval-indo-islamic-structures.json",
     "data/content/gk/mountains-deserts-islands-earthquakes.json",
-    "data/content/gk/earth-layers-plates-volcanoes.json"
+    "data/content/gk/earth-layers-plates-volcanoes.json",
+    "data/content/gk/sculptures-pottery-india.json",
+    "data/content/gk/paintings-murals-miniatures-india.json",
+    "data/content/gk/oceans-currents-trenches-rivers-lakes.json",
+    "data/content/gk/theatre-puppetry-martial-arts-india.json"
   ],
   "total_questions": 9900
 }
