@@ -367,14 +367,24 @@
       "converted": 45,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/peasant-uprisings.json",
+      "converted": 45,
+      "schema": "question_en",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/early-anti-british-revolts.json",
+      "converted": 45,
+      "schema": "question_en",
+      "status": "complete"
     }
   ],
-  "total_converted": 6593,
-  "remaining_questions": 3307,
-  "remaining_files": 102,
+  "total_converted": 6683,
+  "remaining_questions": 3217,
+  "remaining_files": 100,
   "next_files": [
-    "data/content/gk/peasant-uprisings.json",
-    "data/content/gk/early-anti-british-revolts.json",
     "data/content/gk/political-associations.json",
     "data/content/gk/buranjis-historical-chronicles.json",
     "data/content/gk/chutiya-kingdom.json",
@@ -382,7 +392,9 @@
     "data/content/gk/kamata-khen-kingdom.json",
     "data/content/gk/early-invasions.json",
     "data/content/gk/court-scientific-literature.json",
-    "data/content/gk/jonaki-era-romantic-movement.json"
+    "data/content/gk/jonaki-era-romantic-movement.json",
+    "data/content/gk/early-modern-novels-poems-drama.json",
+    "data/content/gk/sankardev-madhavdev-works.json"
   ],
   "total_questions": 9900
 }
