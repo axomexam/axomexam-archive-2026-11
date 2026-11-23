@@ -3863,3 +3863,36 @@ languages, written for the paper (not a textbook summary).
   point is that both URLs serve their own language. If an Assamese page has no
   Assamese source text, translate it (add it to `data/i18n/`) rather than
   dropping the page or blocking it.
+
+## Session record — Nov 2026 GK Q&A → MCQ batch conversion (ongoing)
+
+`data/content/gk/*.json` holds plain two-field Q&A banks (`{ "q": {en,as},
+"a": {en,as} }`). They are being converted, two files per batch, into the MCQ
+shape used elsewhere in the repo: `options: [{en,as}] x4`, `correct` index,
+`explanation: {en,as}`. Progress is tracked in
+`tools/qa-conversion-progress.json` (`files_done`, `total_converted`,
+`next_files`).
+
+Rules that held across all batches:
+
+- Every answer must match the source `a` field. Where the source hedges ("not a
+  known work; may be a confusion"), that hedge *is* the correct option, and the
+  distractors name plausible authors/works instead.
+- Answer keys stay balanced (9/9/9/8 or 10/10/10/10) and never repeat three
+  times in a row; `random.Random(seed).shuffle` with a no-triple check.
+- Explanations restate the fact in both languages; they are not translations of
+  the option text.
+
+State at the end of this session: 7579 / 9900 questions converted across 76
+files remaining → `next_files` in the progress JSON lists the queue
+(`green-revolution-msp-pds-subsidies`, `energy-renewable-nonrenewable-india`,
+`rbi-monetary-policy`, `dams-river-projects-india`,
+`vegetation-forest-types-india`, …). Everything converted so far is committed
+and pushed to `origin/main`.
+
+Resume recipe: read `tools/qa-conversion-progress.json` for `next_files`, load
+the two files, split each into 18 + rest, write one throwaway
+`tmp_conv_*.py` per chunk (tuple list → balanced key → merge → `json.dump`),
+run it, validate with the inline checker (4 options, unique `en`/`as`, valid
+`correct`, both explanation fields non-empty, balanced distribution), delete
+the script, then update the progress JSON and commit.
