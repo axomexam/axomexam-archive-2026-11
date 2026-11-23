@@ -247,13 +247,18 @@
       "converted": 55,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/revolt-1857-assam.json",
+      "converted": 55,
+      "schema": "question_en",
+      "status": "complete"
     }
   ],
-  "total_converted": 5565,
-  "remaining_questions": 4335,
-  "remaining_files": 122,
+  "total_converted": 5620,
+  "remaining_questions": 4280,
+  "remaining_files": 121,
   "next_files": [
-    "data/content/gk/revolt-1857-assam.json",
     "data/content/gk/moamoria-rebellion.json",
     "data/content/gk/jainism-buddhism.json",
     "data/content/gk/post-mauryan-period.json",
@@ -262,7 +267,8 @@
     "data/content/gk/delhi-sultanate.json",
     "data/content/gk/later-mughals-regional-states.json",
     "data/content/gk/maratha-empire-peshwas.json",
-    "data/content/gk/mauryan-empire.json"
+    "data/content/gk/mauryan-empire.json",
+    "data/content/gk/prehistoric-stone-age.json"
   ],
   "total_questions": 9900
 }
