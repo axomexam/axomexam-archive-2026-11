@@ -235,13 +235,18 @@
       "converted": 59,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/turkish-invasions.json",
+      "converted": 56,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 5454,
-  "remaining_questions": 4446,
-  "remaining_files": 124,
+  "total_converted": 5510,
+  "remaining_questions": 4390,
+  "remaining_files": 123,
   "next_files": [
-    "data/content/gk/turkish-invasions.json",
     "data/content/gk/socio-cultural-awakening.json",
     "data/content/gk/revolt-1857-assam.json",
     "data/content/gk/moamoria-rebellion.json",
@@ -250,7 +255,8 @@
     "data/content/gk/mughal-empire-admin.json",
     "data/content/gk/indus-valley-civilization.json",
     "data/content/gk/delhi-sultanate.json",
-    "data/content/gk/later-mughals-regional-states.json"
+    "data/content/gk/later-mughals-regional-states.json",
+    "data/content/gk/maratha-empire-peshwas.json"
   ],
   "total_questions": 9900
 }
