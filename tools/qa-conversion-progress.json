@@ -715,22 +715,46 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/services-sector-it-telecom-tourism.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/major-festivals-fairs-assam.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/rivers-indus-ganga-brahmaputra-peninsular.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/msme-handloom-psus-india.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 8699,
-  "remaining_questions": 1201,
-  "remaining_files": 44,
+  "total_converted": 8839,
+  "remaining_questions": 1061,
+  "remaining_files": 40,
   "next_files": [
-    "data/content/gk/services-sector-it-telecom-tourism.json",
-    "data/content/gk/major-festivals-fairs-assam.json",
-    "data/content/gk/rivers-indus-ganga-brahmaputra-peninsular.json",
-    "data/content/gk/msme-handloom-psus-india.json",
     "data/content/gk/classical-folk-dances-india.json",
     "data/content/gk/classical-languages-literature-india.json",
     "data/content/gk/handlooms-textiles-crafts-india.json",
     "data/content/gk/grasslands-agricultural-belts-world.json",
     "data/content/gk/modern-architecture-unesco-sites-india.json",
-    "data/content/gk/straits-canals-seas-gulfs.json"
+    "data/content/gk/straits-canals-seas-gulfs.json",
+    "data/content/gk/fairs-festivals-intangible-heritage-india.json",
+    "data/content/gk/music-traditions-classical-folk-india.json",
+    "data/content/gk/minerals-oil-belts-sea-routes-world.json",
+    "data/content/gk/international-border-lines-world.json"
   ],
   "total_questions": 9900
 }
