@@ -5,7 +5,7 @@
    page content unselectable. This file adds what CSS cannot cancel:
    the gestures that still reach the content (Ctrl+C on a selection
    made before the stylesheet applied, the context menu, dragging an
-   image out of a question) and a short toast explaining why.
+   image out of a question) and the centred popup that explains why.
 
    Only #app and the reading modal are guarded. The header search,
    form fields, code inputs and the Share buttons keep working, and
@@ -23,9 +23,22 @@
     "[contenteditable]:not([contenteditable='false']), [data-axo-copy-allow]";
 
   var MESSAGES = {
-    en: "Copying is turned off on this site. Please read the question here.",
-    as: "এই ছাইটত কপি কৰাটো বন্ধ আছে। অনুগ্ৰহ কৰি ইয়াতে প্ৰশ্নটো পঢ়ক।",
+    en: {
+      title: "Copying is off",
+      body: "Please read the question and answer here on axomexam.",
+    },
+    as: {
+      title: "কপি কৰাটো বন্ধ",
+      body: "অনুগ্ৰহ কৰি প্ৰশ্ন আৰু উত্তৰ ইয়াতে পঢ়ক।",
+    },
   };
+
+  var ICON =
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" ' +
+    'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+    '<rect x="4.5" y="10.5" width="15" height="10" rx="2.5"/>' +
+    '<path d="M8 10.5V8a4 4 0 0 1 8 0v2.5"/>' +
+    '<circle cx="12" cy="15.6" r="1.1" fill="currentColor" stroke="none"/></svg>';
 
   function lang() {
     var value =
@@ -55,31 +68,44 @@
     return !(allowed && root.contains(allowed));
   }
 
-  var toastTimer = 0;
-  var lastToastAt = 0;
+  var hideTimer = 0;
+  var lastShownAt = 0;
 
-  function toast() {
+  function popup() {
     var now = Date.now();
-    if (now - lastToastAt < 1200) return;
-    lastToastAt = now;
+    if (now - lastShownAt < 900) return;
+    lastShownAt = now;
 
-    var el = document.getElementById("axo-copy-toast");
+    var el = document.getElementById("axo-copy-pop");
     if (!el) {
       el = document.createElement("div");
-      el.id = "axo-copy-toast";
-      el.className = "toast";
+      el.id = "axo-copy-pop";
+      el.className = "axo-copy-pop";
       el.setAttribute("role", "status");
       el.setAttribute("aria-live", "polite");
-      el.style.zIndex = "1200";
+      el.innerHTML =
+        '<div class="axo-copy-pop-card">' +
+        '<span class="axo-copy-pop-icon">' + ICON + "</span>" +
+        '<b class="axo-copy-pop-title"></b>' +
+        '<span class="axo-copy-pop-msg"></span>' +
+        '<span class="axo-copy-pop-brand">axomexam.in</span>' +
+        "</div>";
       document.body.appendChild(el);
     }
-    el.textContent = MESSAGES[lang()];
+
+    var text = MESSAGES[lang()];
+    el.querySelector(".axo-copy-pop-title").textContent = text.title;
+    el.querySelector(".axo-copy-pop-msg").textContent = text.body;
+
+    /* Restart the pop-in when a visitor tries again before it faded. */
+    el.classList.remove("show");
+    void el.offsetWidth;
     el.classList.add("show");
 
-    clearTimeout(toastTimer);
-    toastTimer = setTimeout(function () {
+    clearTimeout(hideTimer);
+    hideTimer = setTimeout(function () {
       el.classList.remove("show");
-    }, 2600);
+    }, 2400);
   }
 
   function onCopy(event) {
@@ -89,7 +115,7 @@
     }
     if (!isGuarded(target) && !isGuarded(selectionNode())) return;
     event.preventDefault();
-    toast();
+    popup();
   }
 
   document.addEventListener("copy", onCopy, true);
@@ -103,7 +129,7 @@
       /* Links keep the native menu so "open in new tab" still works. */
       if (el && el.closest("a[href]")) return;
       event.preventDefault();
-      toast();
+      popup();
     },
     true
   );

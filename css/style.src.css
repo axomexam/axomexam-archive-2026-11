@@ -3564,3 +3564,95 @@ a.axo-email:hover { color: #1e3a8a; background: #dbeafe; text-decoration: none; 
   user-select: text;
   -webkit-touch-callout: default;
 }
+
+/* Centred popup the copy guard shows when a visitor tries to copy.
+   Kept separate from .toast (app.js owns that one) and click-through,
+   so a page stays usable while it fades out. */
+.axo-copy-pop {
+  position: fixed;
+  inset: 0;
+  z-index: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  background: rgba(15, 23, 42, 0);
+  transition: opacity .2s ease, background .2s ease, visibility .2s ease;
+}
+
+.axo-copy-pop.show {
+  opacity: 1;
+  visibility: visible;
+  background: rgba(15, 23, 42, .38);
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+}
+
+.axo-copy-pop-card {
+  width: min(340px, 100%);
+  padding: 24px 22px 18px;
+  text-align: center;
+  background: var(--card-bg, #ffffff);
+  color: var(--ink, #0f172a);
+  border: 1px solid var(--border, #e2e8f0);
+  border-radius: 20px;
+  box-shadow: 0 24px 60px -14px rgba(15, 23, 42, .45);
+  transform: scale(.92) translateY(10px);
+  transition: transform .26s cubic-bezier(.2, .9, .3, 1.15);
+}
+
+.axo-copy-pop.show .axo-copy-pop-card { transform: scale(1) translateY(0); }
+
+.axo-copy-pop-icon {
+  width: 52px;
+  height: 52px;
+  margin: 0 auto 12px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  background: linear-gradient(135deg, var(--primary, #4f46e5), var(--accent, #22d3ee));
+  box-shadow: 0 12px 24px -10px rgba(79, 70, 229, .7);
+}
+
+.axo-copy-pop-icon svg { width: 24px; height: 24px; }
+
+.axo-copy-pop-title {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: -.2px;
+}
+
+.axo-copy-pop-msg {
+  display: block;
+  font-size: .86rem;
+  line-height: 1.55;
+  color: var(--ink-soft, #475569);
+}
+
+.axo-copy-pop-brand {
+  display: block;
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border, #e2e8f0);
+  font-size: .66rem;
+  font-weight: 800;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--ink-faint, #94a3b8);
+}
+
+[data-theme="dark"] .axo-copy-pop-card { background: #111827; border-color: #2b3a55; color: #e5e7eb; }
+[data-theme="dark"] .axo-copy-pop-msg { color: #94a3b8; }
+[data-theme="dark"] .axo-copy-pop-brand { border-color: #2b3a55; }
+
+@media (prefers-reduced-motion: reduce) {
+  .axo-copy-pop, .axo-copy-pop-card { transition: none; }
+  .axo-copy-pop-card { transform: none; }
+}

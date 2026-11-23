@@ -49,8 +49,9 @@ Two pieces do that, and they are deliberately separate:
   inputs and the Share buttons keep working.
 - **`js/copy-guard.src.js`** (minified to `js/copy-guard.js`) cancels the
   gestures CSS cannot: `copy`/`cut`, the context menu outside links,
-  `selectstart` and `dragstart`, and shows the existing `.toast` pill with the
-  reason in the page's language.
+  `selectstart` and `dragstart`, and shows `.axo-copy-pop` — a centred card
+  with a lock badge, a title and one line of text in the page's language.
+  It is not the `.toast` pill, which app.js owns.
 
 Only `#app` and the reading modal are guarded; header and footer text is not.
 The tag reaches every page through `scripts/inject-copy-guard.js`, which is
