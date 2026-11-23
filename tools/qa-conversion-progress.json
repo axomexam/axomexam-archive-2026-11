@@ -50,11 +50,26 @@
       "path": "data/content/gk/legal-officers-attorney-general-advocate-general.json",
       "converted": 25,
       "schema": "q"
+    },
+    {
+      "path": "data/content/gk/legislature-parliament-state-legislature.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/nebulae-blackholes-supernovae.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/panchayati-raj-municipalities.json",
+      "converted": 25,
+      "schema": "question_en"
     }
   ],
-  "total_converted": 200,
-  "remaining_questions": 6038,
-  "remaining_files": 151,
+  "total_converted": 275,
+  "remaining_questions": 5963,
+  "remaining_files": 148,
   "next_files": [
     "data/content/gk/medieval-assam.json",
     "data/content/gk/neo-vaishnavite-movement.json",
