@@ -211,13 +211,18 @@
       "converted": 62,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/national-parks.json",
+      "converted": 60,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 5215,
-  "remaining_questions": 4685,
-  "remaining_files": 128,
+  "total_converted": 5275,
+  "remaining_questions": 4625,
+  "remaining_files": 127,
   "next_files": [
-    "data/content/gk/national-parks.json",
     "data/content/gk/quit-india-martyrs.json",
     "data/content/gk/saraighat-itakhuli.json",
     "data/content/gk/chola-south-kingdoms.json",
@@ -226,7 +231,8 @@
     "data/content/gk/revolt-1857-assam.json",
     "data/content/gk/moamoria-rebellion.json",
     "data/content/gk/jainism-buddhism.json",
-    "data/content/gk/post-mauryan-period.json"
+    "data/content/gk/post-mauryan-period.json",
+    "data/content/gk/mughal-empire-admin.json"
   ],
   "total_questions": 9900
 }
