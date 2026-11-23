@@ -499,14 +499,24 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/physical-himalayas-plains-plateau-islands.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/mountain-peaks-passes-india.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 7439,
-  "remaining_questions": 2461,
-  "remaining_files": 80,
+  "total_converted": 7509,
+  "remaining_questions": 2391,
+  "remaining_files": 78,
   "next_files": [
-    "data/content/gk/physical-himalayas-plains-plateau-islands.json",
-    "data/content/gk/mountain-peaks-passes-india.json",
     "data/content/gk/planning-history-niti-aayog.json",
     "data/content/gk/capital-money-markets-sebi.json",
     "data/content/gk/green-revolution-msp-pds-subsidies.json",
@@ -514,7 +524,9 @@
     "data/content/gk/rbi-monetary-policy.json",
     "data/content/gk/dams-river-projects-india.json",
     "data/content/gk/vegetation-forest-types-india.json",
-    "data/content/gk/core-industries-make-in-india.json"
+    "data/content/gk/core-industries-make-in-india.json",
+    "data/content/gk/india-allied-sectors-dairy-fisheries.json",
+    "data/content/gk/theatre-ankiya-naat-bhaona-assam.json"
   ],
   "total_questions": 9900
 }
