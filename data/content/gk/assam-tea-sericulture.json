@@ -66,23 +66,23 @@
       },
       "options": [
         {
-          "en": "The Brahmaputra Valley (especially upper Assam)",
-          "as": "ব্ৰহ্মপুত্ৰ উপত্যকা (বিশেষকৈ ঊজনী অসম)"
+          "en": "The Surma Valley",
+          "as": "সুৰমা উপত্যকা"
         },
         {
           "en": "The Barak Valley",
           "as": "বৰাক উপত্যকা"
         },
         {
-          "en": "The Surma Valley",
-          "as": "সুৰমা উপত্যকা"
+          "en": "The Brahmaputra Valley (especially upper Assam)",
+          "as": "ব্ৰহ্মপুত্ৰ উপত্যকা (বিশেষকৈ ঊজনী অসম)"
         },
         {
           "en": "The Dhansiri Valley",
           "as": "ধনশিৰি উপত্যকা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Brahmaputra Valley, especially upper Assam, has the most tea gardens because of its favourable climate and soil.",
         "as": "অনুকূল জলবায়ু আৰু মাটিৰ বাবে ব্ৰহ্মপুত্ৰ উপত্যকা, বিশেষকৈ ঊজনী অসমত আটাইতকৈ বেছি চাহ বাগিছা আছে।"
@@ -132,8 +132,8 @@
       },
       "options": [
         {
-          "en": "C.A. Bruce",
-          "as": "চি. এ. ব্ৰুছ"
+          "en": "Lord Curzon",
+          "as": "লৰ্ড কাৰ্জন"
         },
         {
           "en": "Robert Bruce",
@@ -144,11 +144,11 @@
           "as": "ডেভিদ স্কট"
         },
         {
-          "en": "Lord Curzon",
-          "as": "লৰ্ড কাৰ্জন"
+          "en": "C.A. Bruce",
+          "as": "চি. এ. ব্ৰুছ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "C.A. Bruce established the first tea garden near Chabua in 1836 by clearing forest.",
         "as": "চি. এ. ব্ৰুছে ১৮৩৬ চনত হাবি পৰিষ্কাৰ কৰি ছাবুৱাৰ ওচৰত প্ৰথম চাহ বাগিছা স্থাপন কৰিছিল।"
@@ -165,23 +165,23 @@
       },
       "options": [
         {
-          "en": "1837",
-          "as": "১৮৩৭"
+          "en": "1840",
+          "as": "১৮৪০"
         },
         {
           "en": "1836",
           "as": "১৮৩৬"
         },
         {
-          "en": "1840",
-          "as": "১৮৪০"
+          "en": "1837",
+          "as": "১৮৩৭"
         },
         {
           "en": "1826",
           "as": "১৮২৬"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "In 1837 the East India Company set up the first commercial tea garden near Chabua, with exports to London soon after.",
         "as": "১৮৩৭ চনত ইষ্ট ইণ্ডিয়া কোম্পানীয়ে ছাবুৱাৰ ওচৰত প্ৰথম বাণিজ্যিক চাহ বাগিছা স্থাপন কৰিছিল আৰু কিছুদিন পিছতে লণ্ডনলৈ ৰপ্তানি আৰম্ভ হৈছিল।"
@@ -198,12 +198,12 @@
       },
       "options": [
         {
-          "en": "Jorhat",
-          "as": "যোৰহাট"
-        },
-        {
           "en": "Dibrugarh",
           "as": "ডিব্ৰুগড়"
+        },
+        {
+          "en": "Jorhat",
+          "as": "যোৰহাট"
         },
         {
           "en": "Guwahati",
@@ -214,7 +214,7 @@
           "as": "শিৱসাগৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Jorhat houses the Tocklai Tea Research Institute and the Tea Research Association headquarters.",
         "as": "যোৰহাটত টকলাই চাহ গৱেষণা প্ৰতিষ্ঠান আৰু চাহ গৱেষণা সংস্থাৰ মুখ্য কাৰ্যালয় আছে।"
@@ -231,12 +231,12 @@
       },
       "options": [
         {
-          "en": "CTC is machine-processed into granules for strong milk tea, while orthodox is rolled leaf tea with a delicate flavour",
-          "as": "CTC যন্ত্ৰে প্ৰক্ৰিয়াকৰণ কৰি গুড়ি কৰা হয় আৰু গাখীৰযুক্ত চাহৰ বাবে উপযুক্ত, আনহাতে অৰ্থডক্স পত্ৰ ৰোল কৰা চাহ, যাৰ সুগন্ধি কোমল"
-        },
-        {
           "en": "CTC is green tea while orthodox is white tea",
           "as": "CTC সেউজীয়া চাহ আনহাতে অৰ্থডক্স বগা চাহ"
+        },
+        {
+          "en": "CTC is machine-processed into granules for strong milk tea, while orthodox is rolled leaf tea with a delicate flavour",
+          "as": "CTC যন্ত্ৰে প্ৰক্ৰিয়াকৰণ কৰি গুড়ি কৰা হয় আৰু গাখীৰযুক্ত চাহৰ বাবে উপযুক্ত, আনহাতে অৰ্থডক্স পত্ৰ ৰোল কৰা চাহ, যাৰ সুগন্ধি কোমল"
         },
         {
           "en": "CTC comes from China while orthodox comes from Kenya",
@@ -247,7 +247,7 @@
           "as": "দুয়োটাৰ মাজত কোনো পাৰ্থক্য নাই"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "CTC (Crush, Tear, Curl) is machine-processed into small pellets suited to strong milk tea, while orthodox is rolled leaf tea with a delicate flavour.",
         "as": "CTC (ক্ৰাশ, টিয়াৰ, কাৰ্ল) যন্ত্ৰে সৰু গুড়িলৈ প্ৰক্ৰিয়াকৰণ কৰা হয় আৰু গাখীৰযুক্ত কঠীয়া চাহৰ বাবে উপযুক্ত, আনহাতে অৰ্থডক্স পত্ৰ ৰোল কৰা চাহ, যাৰ স্বাদ কোমল।"
@@ -264,23 +264,23 @@
       },
       "options": [
         {
-          "en": "Assam black tea (Assamica)",
-          "as": "অসম ক'লা চাহ (এছামিকা)"
+          "en": "Nilgiri tea",
+          "as": "নীলগিৰি চাহ"
         },
         {
           "en": "Darjeeling tea",
           "as": "দাৰ্জিলিং চাহ"
         },
         {
-          "en": "Nilgiri tea",
-          "as": "নীলগিৰি চাহ"
+          "en": "Assam black tea (Assamica)",
+          "as": "অসম ক'লা চাহ (এছামিকা)"
         },
         {
           "en": "Ceylon tea",
           "as": "চিলন চাহ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Assamica black tea is known for its brisk, malty and strong-bodied liquor.",
         "as": "এছামিকা ক'লা চাহ ইয়াৰ সতেজ, মল্টি আৰু কঠীয়া স্বভাৱৰ বাবে পৰিচিত।"
@@ -297,8 +297,8 @@
       },
       "options": [
         {
-          "en": "The Tocklai Tea Research Institute at Jorhat",
-          "as": "যোৰহাটৰ টকলাই চাহ গৱেষণা প্ৰতিষ্ঠান"
+          "en": "CSIR-NEIST",
+          "as": "CSIR-NEIST"
         },
         {
           "en": "IIT Guwahati",
@@ -309,11 +309,11 @@
           "as": "অসম কৃষি বিশ্ববিদ্যালয়"
         },
         {
-          "en": "CSIR-NEIST",
-          "as": "CSIR-NEIST"
+          "en": "The Tocklai Tea Research Institute at Jorhat",
+          "as": "যোৰহাটৰ টকলাই চাহ গৱেষণা প্ৰতিষ্ঠান"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Tocklai at Jorhat, established in 1911, is Asia's first and the world's oldest tea research institute.",
         "as": "১৯১১ চনত প্ৰতিষ্ঠিত যোৰহাটৰ টকলাই এচিয়াৰ প্ৰথম আৰু বিশ্বৰ আটাইতকৈ পুৰণি চাহ গৱেষণা প্ৰতিষ্ঠান।"
@@ -396,12 +396,12 @@
       },
       "options": [
         {
-          "en": "The Brahmaputra river",
-          "as": "ব্ৰহ্মপুত্ৰ নদী"
-        },
-        {
           "en": "The Barak river",
           "as": "বৰাক নদী"
+        },
+        {
+          "en": "The Brahmaputra river",
+          "as": "ব্ৰহ্মপুত্ৰ নদী"
         },
         {
           "en": "The Dhansiri river",
@@ -412,7 +412,7 @@
           "as": "চুবনশিৰি নদী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Tea chests were historically ferried down the Brahmaputra to the port of Kolkata.",
         "as": "ঐতিহাসিকভাৱে চাহৰ বাকচ ব্ৰহ্মপুত্ৰৰ সোঁতত ভটিয়াই কলকাতা বন্দৰলৈ লৈ যোৱা হৈছিল।"
@@ -429,8 +429,8 @@
       },
       "options": [
         {
-          "en": "The Guwahati Tea Auction Centre (GTAC)",
-          "as": "গুৱাহাটী চাহ নিলাম কেন্দ্ৰ (GTAC)"
+          "en": "The Coimbatore Tea Auction Centre",
+          "as": "কোয়েম্বাটুৰ চাহ নিলাম কেন্দ্ৰ"
         },
         {
           "en": "The Kolkata Tea Auction Centre",
@@ -441,11 +441,11 @@
           "as": "শিলিগুড়ি চাহ নিলাম কেন্দ্ৰ"
         },
         {
-          "en": "The Coimbatore Tea Auction Centre",
-          "as": "কোয়েম্বাটুৰ চাহ নিলাম কেন্দ্ৰ"
+          "en": "The Guwahati Tea Auction Centre (GTAC)",
+          "as": "গুৱাহাটী চাহ নিলাম কেন্দ্ৰ (GTAC)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Guwahati Tea Auction Centre is one of the largest tea auction centres in the world.",
         "as": "গুৱাহাটী চাহ নিলাম কেন্দ্ৰ বিশ্বৰ আটাইতকৈ ডাঙৰ চাহ নিলাম কেন্দ্ৰসমূহৰ এটা।"
@@ -462,12 +462,12 @@
       },
       "options": [
         {
-          "en": "1970",
-          "as": "১৯৭০"
-        },
-        {
           "en": "1962",
           "as": "১৯৬২"
+        },
+        {
+          "en": "1970",
+          "as": "১৯৭০"
         },
         {
           "en": "1975",
@@ -478,7 +478,7 @@
           "as": "১৯৮০"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Guwahati Tea Auction Centre was established in 1970.",
         "as": "গুৱাহাটী চাহ নিলাম কেন্দ্ৰ ১৯৭০ চনত প্ৰতিষ্ঠা কৰা হৈছিল।"
@@ -495,12 +495,12 @@
       },
       "options": [
         {
-          "en": "Muga silk",
-          "as": "মুগা ৰেশম"
-        },
-        {
           "en": "Eri silk",
           "as": "এৰী ৰেশম"
+        },
+        {
+          "en": "Muga silk",
+          "as": "মুগা ৰেশম"
         },
         {
           "en": "Pat (mulberry) silk",
@@ -511,7 +511,7 @@
           "as": "তচৰ ৰেশম"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Golden-yellow Muga silk is produced only in Assam and holds a Geographical Indication tag.",
         "as": "সোণালী-হালধীয়া মুগা ৰেশম কেৱল অসমত উৎপাদিত হয় আৰু ইয়াৰ ভৌগোলিক স্বীকৃতি (GI) টেগ আছে।"
@@ -561,23 +561,23 @@
       },
       "options": [
         {
-          "en": "Eri silk",
-          "as": "এৰী ৰেশম"
+          "en": "Pat (mulberry) silk",
+          "as": "পাট (মালবেৰী) ৰেশম"
         },
         {
           "en": "Muga silk",
           "as": "মুগা ৰেশম"
         },
         {
-          "en": "Pat (mulberry) silk",
-          "as": "পাট (মালবেৰী) ৰেশম"
+          "en": "Eri silk",
+          "as": "এৰী ৰেশম"
         },
         {
           "en": "Tussar silk",
           "as": "তচৰ ৰেশম"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Eri silk is called peace silk because the pupae are not killed during extraction.",
         "as": "এৰী ৰেশমক শান্তিৰ ৰেশম বোলা হয় কাৰণ ৰেচম উলিয়াওঁতে পলু মৰা নহয়।"
@@ -594,12 +594,12 @@
       },
       "options": [
         {
-          "en": "Mulberry silk (from Bombyx mori)",
-          "as": "মালবেৰী ৰেশম (বম্বিক্স মৰিৰ পৰা)"
-        },
-        {
           "en": "Muga silk",
           "as": "মুগা ৰেশম"
+        },
+        {
+          "en": "Mulberry silk (from Bombyx mori)",
+          "as": "মালবেৰী ৰেশম (বম্বিক্স মৰিৰ পৰা)"
         },
         {
           "en": "Eri silk",
@@ -610,7 +610,7 @@
           "as": "তচৰ ৰেশম"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Mulberry silk from the Bombyx mori silkworm is produced on a smaller scale in Goalpara and Barpeta.",
         "as": "বম্বিক্স মৰি পোকৰ পৰা পোৱা মালবেৰী ৰেশম গোৱালপাৰা আৰু বৰপেটাত সৰু পৰিসৰত উৎপাদিত হয়।"
@@ -627,12 +627,12 @@
       },
       "options": [
         {
-          "en": "Muga silk",
-          "as": "মুগা ৰেশম"
-        },
-        {
           "en": "Eri silk",
           "as": "এৰী ৰেশম"
+        },
+        {
+          "en": "Muga silk",
+          "as": "মুগা ৰেশম"
         },
         {
           "en": "Pat (mulberry) silk",
@@ -643,7 +643,7 @@
           "as": "তচৰ ৰেশম"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Muga production is restricted to Assam and adjoining North-Eastern areas, earning it the 'endangered silk' tag.",
         "as": "মুগা উৎপাদন অসম আৰু ইয়াৰ ওচৰৰ উত্তৰ-পূব অঞ্চলত সীমাবদ্ধ, সেয়ে ইয়াক 'বিপন্ন ৰেশম' বোলা হয়।"
@@ -660,23 +660,23 @@
       },
       "options": [
         {
-          "en": "Sualkuchi",
-          "as": "সুৱালকুছি"
+          "en": "Nalbari",
+          "as": "নলবাৰী"
         },
         {
           "en": "Jorhat",
           "as": "যোৰহাট"
         },
         {
-          "en": "Nalbari",
-          "as": "নলবাৰী"
+          "en": "Sualkuchi",
+          "as": "সুৱালকুছি"
         },
         {
           "en": "Barpeta",
           "as": "বৰপেটা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Sualkuchi, on the north bank of the Brahmaputra in Kamrup, is famous for handloom silk weaving.",
         "as": "কামৰূপৰ ব্ৰহ্মপুত্ৰৰ উত্তৰ পাৰত থকা সুৱালকুছি হস্ততাঁত ৰেশম বোৱাৰ বাবে প্ৰসিদ্ধ।"
@@ -693,23 +693,23 @@
       },
       "options": [
         {
-          "en": "The Directorate of Sericulture under the Department of Handloom, Textiles and Sericulture",
-          "as": "হস্ততাঁত, বস্ত্ৰ আৰু ৰেশম বিভাগৰ অধীনৰ ৰেশম প্ৰতিপালন নিৰ্দেশালয়"
+          "en": "ASIDC",
+          "as": "ASIDC"
         },
         {
           "en": "AIDC",
           "as": "AIDC"
         },
         {
-          "en": "ASIDC",
-          "as": "ASIDC"
+          "en": "The Directorate of Sericulture under the Department of Handloom, Textiles and Sericulture",
+          "as": "হস্ততাঁত, বস্ত্ৰ আৰু ৰেশম বিভাগৰ অধীনৰ ৰেশম প্ৰতিপালন নিৰ্দেশালয়"
         },
         {
           "en": "KVIC",
           "as": "KVIC"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Directorate of Sericulture under the Department of Handloom, Textiles and Sericulture drives sericulture development.",
         "as": "হস্ততাঁত, বস্ত্ৰ আৰু ৰেশম বিভাগৰ অধীনৰ ৰেশম প্ৰতিপালন নিৰ্দেশালয়ে ৰেশম উন্নয়ন চলায়।"
@@ -759,23 +759,23 @@
       },
       "options": [
         {
-          "en": "Muga silk",
-          "as": "মুগা ৰেশম"
+          "en": "Pat (mulberry) silk",
+          "as": "পাট (মালবেৰী) ৰেশম"
         },
         {
           "en": "Eri silk",
           "as": "এৰী ৰেশম"
         },
         {
-          "en": "Pat (mulberry) silk",
-          "as": "পাট (মালবেৰী) ৰেশম"
+          "en": "Muga silk",
+          "as": "মুগা ৰেশম"
         },
         {
           "en": "Tussar silk",
           "as": "তচৰ ৰেশম"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Muga silk received the GI tag in 2008, the same year as Bhut Jolokia; Eri and Mulberry silk followed later.",
         "as": "মুগা ৰেশমে ২০০৮ চনত, ভূত জলকীয়াৰ লগতে একে বছৰতে GI টেগ লাভ কৰিছিল; এৰী আৰু মালবেৰীয়ে পিছত লাভ কৰিছিল।"
@@ -792,8 +792,8 @@
       },
       "options": [
         {
-          "en": "Muga silk (most prized), followed by Eri and Mulberry",
-          "as": "মুগা ৰেশম (সৰ্বাধিক মূল্যৱান), তাৰ পিছত এৰী আৰু মালবেৰী"
+          "en": "Polyester",
+          "as": "পলিয়েষ্টাৰ"
         },
         {
           "en": "Tussar silk",
@@ -804,11 +804,11 @@
           "as": "আমদানি কৰা ৰেশম"
         },
         {
-          "en": "Polyester",
-          "as": "পলিয়েষ্টাৰ"
+          "en": "Muga silk (most prized), followed by Eri and Mulberry",
+          "as": "মুগা ৰেশম (সৰ্বাধিক মূল্যৱান), তাৰ পিছত এৰী আৰু মালবেৰী"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Muga silk is most prized for the traditional mekhela chador, followed by Eri and Mulberry silks.",
         "as": "পৰম্পৰাগত মেখেলা চাদৰৰ বাবে মুগা ৰেশম সৰ্বাধিক মূল্যৱান, তাৰ পিছত এৰী আৰু মালবেৰী ৰেশম।"
@@ -825,12 +825,12 @@
       },
       "options": [
         {
-          "en": "Upper Assam districts like Sivasagar, Jorhat, Golaghat and Lakhimpur",
-          "as": "শিৱসাগৰ, যোৰহাট, গোলাঘাট আৰু লখিমপুৰৰ দৰে ঊজনী অসমৰ জিলা"
-        },
-        {
           "en": "The Barak valley",
           "as": "বৰাক উপত্যকা"
+        },
+        {
+          "en": "Upper Assam districts like Sivasagar, Jorhat, Golaghat and Lakhimpur",
+          "as": "শিৱসাগৰ, যোৰহাট, গোলাঘাট আৰু লখিমপুৰৰ দৰে ঊজনী অসমৰ জিলা"
         },
         {
           "en": "The Karbi Anglong hills",
@@ -841,7 +841,7 @@
           "as": "গোৱালপাৰা জিলা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Muga rearing is concentrated in upper Assam districts such as Sivasagar, Jorhat, Golaghat and Lakhimpur.",
         "as": "মুগা প্ৰতিপালন শিৱসাগৰ, যোৰহাট, গোলাঘাট আৰু লখিমপুৰৰ দৰে ঊজনী অসমৰ জিলাত কেন্দ্ৰীভূত।"
@@ -891,23 +891,23 @@
       },
       "options": [
         {
-          "en": "Silk Samagra (Central Silk Board)",
-          "as": "চিল্ক সমগ্ৰ (কেন্দ্ৰীয় ৰেশম নিগম)"
+          "en": "MGNREGA",
+          "as": "MGNREGA"
         },
         {
           "en": "PMEGP",
           "as": "PMEGP"
         },
         {
-          "en": "MGNREGA",
-          "as": "MGNREGA"
+          "en": "Silk Samagra (Central Silk Board)",
+          "as": "চিল্ক সমগ্ৰ (কেন্দ্ৰীয় ৰেশম নিগম)"
         },
         {
           "en": "NHDP",
           "as": "NHDP"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Central Silk Board's Silk Samagra programme promotes integrated development of the silk sector.",
         "as": "কেন্দ্ৰীয় ৰেশম নিগমৰ চিল্ক সমগ্ৰ কাৰ্যসূচীয়ে ৰেশম খণ্ডৰ সমন্বিত উন্নয়ন প্ৰচাৰ কৰে।"
@@ -924,8 +924,8 @@
       },
       "options": [
         {
-          "en": "Golden silk / Muga silk",
-          "as": "সোণালী ৰেশম / মুগা ৰেশম"
+          "en": "Pat silk",
+          "as": "পাট ৰেশম"
         },
         {
           "en": "White silk",
@@ -936,11 +936,11 @@
           "as": "এণ্ডী ৰেশম"
         },
         {
-          "en": "Pat silk",
-          "as": "পাট ৰেশম"
+          "en": "Golden silk / Muga silk",
+          "as": "সোণালী ৰেশম / মুগা ৰেশম"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Muga is renowned for its natural golden-yellow lustre that improves with age.",
         "as": "মুগা ইয়াৰ প্ৰাকৃতিক সোণালী-হালধীয়া উজ্জ্বলতাৰ বাবে বিখ্যাত, যি সময়ৰ লগে লগে আৰু উজ্জ্বল হয়।"
@@ -957,23 +957,23 @@
       },
       "options": [
         {
-          "en": "The Regional Sericulture Research Station at Kokrajhar",
-          "as": "কোকৰাঝাৰৰ আঞ্চলিক ৰেশম গৱেষণা কেন্দ্ৰ"
+          "en": "IIT Guwahati",
+          "as": "IIT গুৱাহাটী"
         },
         {
           "en": "Tocklai",
           "as": "টকলাই"
         },
         {
-          "en": "IIT Guwahati",
-          "as": "IIT গুৱাহাটী"
+          "en": "The Regional Sericulture Research Station at Kokrajhar",
+          "as": "কোকৰাঝাৰৰ আঞ্চলিক ৰেশম গৱেষণা কেন্দ্ৰ"
         },
         {
           "en": "Assam Agricultural University",
           "as": "অসম কৃষি বিশ্ববিদ্যালয়"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Regional Sericulture Research Station and related training institutes at Kokrajhar support sericulture research and training for the Bodo region.",
         "as": "কোকৰাঝাৰৰ আঞ্চলিক ৰেশম গৱেষণা কেন্দ্ৰ আৰু প্ৰশিক্ষণ প্ৰতিষ্ঠানে অঞ্চলটোৰ ৰেশম উন্নয়নত সহায় কৰে।"
@@ -990,8 +990,8 @@
       },
       "options": [
         {
-          "en": "Dibrugarh district",
-          "as": "ডিব্ৰুগড় জিলা"
+          "en": "Golaghat district",
+          "as": "গোলাঘাট জিলা"
         },
         {
           "en": "Jorhat district",
@@ -1002,11 +1002,11 @@
           "as": "শিৱসাগৰ জিলা"
         },
         {
-          "en": "Golaghat district",
-          "as": "গোলাঘাট জিলা"
+          "en": "Dibrugarh district",
+          "as": "ডিব্ৰুগড় জিলা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Dibrugarh has the largest area under tea gardens in Assam.",
         "as": "অসমত ডিব্ৰুগড়ত আটাইতকৈ বেছি চাহ বাগানৰ মাটিকালি আছে।"
@@ -1023,12 +1023,12 @@
       },
       "options": [
         {
-          "en": "Rongali Bihu",
-          "as": "ৰঙালী বিহু"
-        },
-        {
           "en": "Magh Bihu",
           "as": "মাঘ বিহু"
+        },
+        {
+          "en": "Rongali Bihu",
+          "as": "ৰঙালী বিহু"
         },
         {
           "en": "Kati Bihu",
@@ -1039,7 +1039,7 @@
           "as": "অম্বুবাচী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Rongali Bihu is celebrated in mid-April, and tea garden communities add their own dance and music.",
         "as": "ৰঙালী বিহু এপ্ৰিলৰ মাজভাগত পালন কৰা হয়, আৰু চাহ বাগানৰ সমাজে নিজস্ব নৃত্য-সংগীত যোগ কৰে।"
@@ -1089,8 +1089,8 @@
       },
       "options": [
         {
-          "en": "Around 700-750 million kg",
-          "as": "প্ৰায় ৭০০-৭৫০ নিযুত কিলোগ্ৰাম"
+          "en": "About 300 million kg",
+          "as": "প্ৰায় ৩০০ নিযুত কিলোগ্ৰাম"
         },
         {
           "en": "About 100 million kg",
@@ -1101,11 +1101,11 @@
           "as": "প্ৰায় ১৫০০ নিযুত কিলোগ্ৰাম"
         },
         {
-          "en": "About 300 million kg",
-          "as": "প্ৰায় ৩০০ নিযুত কিলোগ্ৰাম"
+          "en": "Around 700-750 million kg",
+          "as": "প্ৰায় ৭০০-৭৫০ নিযুত কিলোগ্ৰাম"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Assam is the largest tea-producing state in India, producing around 700-750 million kg of tea every year.",
         "as": "অসমে বছৰি প্ৰায় ৭০০-৭৫০ নিযুত কিলোগ্ৰাম চাহ উৎপাদন কৰে, যি ভাৰতীয় ৰাজ্যসমূহৰ ভিতৰত সৰ্বাধিক।"
@@ -1155,8 +1155,8 @@
       },
       "options": [
         {
-          "en": "True",
-          "as": "সত্য"
+          "en": "The Barak valley produces more",
+          "as": "বৰাক উপত্যকাই বেছি উৎপাদন কৰে"
         },
         {
           "en": "False",
@@ -1167,11 +1167,11 @@
           "as": "দুয়োটাই সমান উৎপাদন কৰে"
         },
         {
-          "en": "The Barak valley produces more",
-          "as": "বৰাক উপত্যকাই বেছি উৎপাদন কৰে"
+          "en": "True",
+          "as": "সত্য"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Brahmaputra valley accounts for the overwhelming majority of Assam's tea output.",
         "as": "অসমৰ চাহ উৎপাদনৰ সৰ্বাধিক অংশ ব্ৰহ্মপুত্ৰ উপত্যকাৰ পৰা আহে।"

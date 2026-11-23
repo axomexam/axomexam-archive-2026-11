@@ -17,8 +17,8 @@
       "answer_as": "তামৰ ফলি আৰু শিলালিপিসমূহ",
       "options": [
         {
-          "en": "Copper plate inscriptions and stone inscriptions",
-          "as": "তামৰ ফলি আৰু শিলালিপিসমূহ"
+          "en": "Temple murals and painted scrolls",
+          "as": "মন্দিৰৰ ভিতৰচিত্ৰ আৰু চিত্ৰিত পট"
         },
         {
           "en": "Palm-leaf manuscripts and royal diaries",
@@ -29,11 +29,11 @@
           "as": "পাৰ্ছী ইতিহাস আৰু ৰাজকীয় ফৰমান"
         },
         {
-          "en": "Temple murals and painted scrolls",
-          "as": "মন্দিৰৰ ভিতৰচিত্ৰ আৰু চিত্ৰিত পট"
+          "en": "Copper plate inscriptions and stone inscriptions",
+          "as": "তামৰ ফলি আৰু শিলালিপিসমূহ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Ancient Assam's history is rebuilt mainly from land-grant records engraved on copper plates and from rock or stone inscriptions left by rulers such as the Varmans and Salastambhas.",
         "as": "প্ৰাচীন অসমৰ ইতিহাস মূলতঃ তামৰ ফলিত খোদিত ভূমি-দানৰ ৰেকৰ্ড আৰু বৰ্মন-শালস্তম্ভ আদি ৰজাসকলৰ শিলালিপিৰ পৰা পুনৰ্গঠিত কৰা হয়।"
@@ -47,8 +47,8 @@
       "answer_as": "নিধনপুৰ তামৰ ফলি (ভাস্কৰবৰ্মনৰ)",
       "options": [
         {
-          "en": "The Nidhanpur copper plate of Bhaskaravarman",
-          "as": "ভাস্কৰবৰ্মনৰ নিধনপুৰ তামৰ ফলি"
+          "en": "The Bargaon copper plate of Ratnapala",
+          "as": "ৰত্নপালৰ বৰগাঁও তামৰ ফলি"
         },
         {
           "en": "The Umachal rock inscription",
@@ -59,11 +59,11 @@
           "as": "বনমালদেৱৰ তেজপুৰ তামৰ ফলি"
         },
         {
-          "en": "The Bargaon copper plate of Ratnapala",
-          "as": "ৰত্নপালৰ বৰগাঁও তামৰ ফলি"
+          "en": "The Nidhanpur copper plate of Bhaskaravarman",
+          "as": "ভাস্কৰবৰ্মনৰ নিধনপুৰ তামৰ ফলি"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Bhaskaravarman's Nidhanpur grant recounts his victories, including over the Gauda ruler, and confirms his authority over the Sylhet region.",
         "as": "ভাস্কৰবৰ্মনৰ নিধনপুৰ দানপত্ৰত তেওঁৰ বিজয়সমূহ, বিশেষকৈ গৌড় ৰজাৰ ওপৰত লাভ কৰা জয়ৰ বৰ্ণনা আছে আৰু ছিলেট অঞ্চলত তেওঁৰ কৰ্তৃত্ব প্ৰতিপন্ন হয়।"
@@ -77,12 +77,12 @@
       "answer_as": "মহেন্দ্ৰবৰ্মন (বৰ্মন বংশৰ)",
       "options": [
         {
-          "en": "Mahendravarman",
-          "as": "মহেন্দ্ৰবৰ্মন"
-        },
-        {
           "en": "Bhaskaravarman",
           "as": "ভাস্কৰবৰ্মন"
+        },
+        {
+          "en": "Mahendravarman",
+          "as": "মহেন্দ্ৰবৰ্মন"
         },
         {
           "en": "Bhutivarman",
@@ -93,7 +93,7 @@
           "as": "বনমালদেৱ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Umachal inscription at Nilachal hill is dated to the reign of Mahendravarman, an early Varman ruler, and is the oldest known epigraph of Assam.",
         "as": "নীলাচল পাহাৰৰ উমাচল শিলালিপি প্ৰাৰম্ভিক বৰ্মন শাসক মহেন্দ্ৰবৰ্মনৰ ৰাজত্বকালৰ, আৰু ই অসমৰ আটাইতকৈ পুৰণি জ্ঞাত শিলালিপি।"
@@ -107,23 +107,23 @@
       "answer_as": "৫ম শতাব্দী (বৰ্মন যুগ)",
       "options": [
         {
-          "en": "The 5th century AD (Varman period)",
-          "as": "খ্ৰীষ্টাব্দ ৫ম শতিকা (বৰ্মন যুগ)"
+          "en": "The 16th century AD (Ahom period)",
+          "as": "খ্ৰীষ্টাব্দ ১৬শ শতিকা (আহোম যুগ)"
         },
         {
           "en": "The 12th century AD (Pala period)",
           "as": "খ্ৰীষ্টাব্দ ১২শ শতিকা (পাল যুগ)"
         },
         {
-          "en": "The 16th century AD (Ahom period)",
-          "as": "খ্ৰীষ্টাব্দ ১৬শ শতিকা (আহোম যুগ)"
+          "en": "The 5th century AD (Varman period)",
+          "as": "খ্ৰীষ্টাব্দ ৫ম শতিকা (বৰ্মন যুগ)"
         },
         {
           "en": "The 9th century AD (Salastambha period)",
           "as": "খ্ৰীষ্টাব্দ ৯ম শতিকা (শালস্তম্ভ যুগ)"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "This rock inscription from Golaghat district is assigned to the fifth century, placing it in the early Varman age of Kamarupa.",
         "as": "গোলাঘাট জিলাৰ এই শিলালিপিটো পঞ্চম শতিকাৰ বুলি নিৰ্ধাৰণ কৰা হৈছে, যিয়ে ইয়াক কামৰূপৰ প্ৰাৰম্ভিক বৰ্মন যুগত স্থাপন কৰে।"
@@ -137,8 +137,8 @@
       "answer_as": "ভাস্কৰবৰ্মন",
       "options": [
         {
-          "en": "Bhaskaravarman",
-          "as": "ভাস্কৰবৰ্মন"
+          "en": "Indrapala",
+          "as": "ইন্দ্ৰপাল"
         },
         {
           "en": "Ratnapala",
@@ -149,11 +149,11 @@
           "as": "হৰ্জৰবৰ্মন"
         },
         {
-          "en": "Indrapala",
-          "as": "ইন্দ্ৰপাল"
+          "en": "Bhaskaravarman",
+          "as": "ভাস্কৰবৰ্মন"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Dubi plates are land grants issued during Bhaskaravarman's reign, though their exact find spot remains uncertain.",
         "as": "দুবি তামৰ ফলিসমূহ ভাস্কৰবৰ্মনৰ ৰাজত্বকালত জাৰি কৰা ভূমি-দান, যদিও ইয়াৰ সঠিক প্ৰাপ্তিস্থান অনিশ্চিত হৈ আছে।"
@@ -167,12 +167,12 @@
       "answer_as": "পঞ্চখণ্ড পৰগণা (শিলেট অঞ্চল)",
       "options": [
         {
-          "en": "Panchakhanda pargana in the Sylhet region",
-          "as": "ছিলেট অঞ্চলৰ পঞ্চখণ্ড পৰগনা"
-        },
-        {
           "en": "Tezpur in Sonitpur district",
           "as": "শোণিতপুৰ জিলাৰ তেজপুৰ"
+        },
+        {
+          "en": "Panchakhanda pargana in the Sylhet region",
+          "as": "ছিলেট অঞ্চলৰ পঞ্চখণ্ড পৰগনা"
         },
         {
           "en": "Goalpara in western Assam",
@@ -183,7 +183,7 @@
           "as": "মধ্য অসমৰ নগাঁও"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The plates were recovered from Panchakhanda in Sylhet, an area that formed part of ancient Kamarupa and where Bhaskaravarman's grant was renewed.",
         "as": "এই ফলিসমূহ ছিলেটৰ পঞ্চখণ্ডৰ পৰা উদ্ধাৰ কৰা হৈছিল, যি অঞ্চল প্ৰাচীন কামৰূপৰ অংশ আছিল আৰু য'ত ভাস্কৰবৰ্মনে দান নবীকৰণ কৰিছিল।"
@@ -197,12 +197,12 @@
       "answer_as": "ভূতিবৰ্মন",
       "options": [
         {
-          "en": "Bhutivarman",
-          "as": "ভূতিবৰ্মন"
-        },
-        {
           "en": "Bhaskaravarman",
           "as": "ভাস্কৰবৰ্মন"
+        },
+        {
+          "en": "Bhutivarman",
+          "as": "ভূতিবৰ্মন"
         },
         {
           "en": "Mahendravarman",
@@ -213,7 +213,7 @@
           "as": "সুষ্ঠিতবৰ্মন"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The original grant was made by Bhutivarman; it was later re-issued on fresh plates by his descendant Bhaskaravarman after the old records were lost.",
         "as": "প্ৰথম দান ভূতিবৰ্মনে কৰিছিল; পুৰণি ৰেকৰ্ড হেৰাই যোৱাৰ পিছত তেওঁৰ বংশধৰ ভাস্কৰবৰ্মনে নতুন ফলিত ইয়াক পুনৰ জাৰি কৰিছিল।"
@@ -257,23 +257,23 @@
       "answer_as": "ৱনমালাদেৱ",
       "options": [
         {
-          "en": "Vanamaladeva",
-          "as": "বনমালদেৱ"
+          "en": "Ratnapala",
+          "as": "ৰত্নপাল"
         },
         {
           "en": "Indrapala",
           "as": "ইন্দ্ৰপাল"
         },
         {
-          "en": "Ratnapala",
-          "as": "ৰত্নপাল"
+          "en": "Vanamaladeva",
+          "as": "বনমালদেৱ"
         },
         {
           "en": "Bhutivarman",
           "as": "ভূতিবৰ্মন"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Parbatiya grant was issued by Vanamaladeva and, along with the Tezpur plates, helps trace his donations to Brahmanical scholars.",
         "as": "পাৰ্বতীয়া দানপত্ৰ বনমালদেৱে জাৰি কৰিছিল, আৰু তেজপুৰ ফলিৰ সৈতে ই তেওঁৰ ব্ৰাহ্মণ পণ্ডিতসকললৈ কৰা দানৰ সন্ধান দিয়ে।"
@@ -287,23 +287,23 @@
       "answer_as": "তেজপুৰ (পাৰ্বতীয়া অঞ্চল)",
       "options": [
         {
-          "en": "Tezpur (Parbatiya area)",
-          "as": "তেজপুৰ (পাৰ্বতীয়া অঞ্চল)"
+          "en": "Guakuchi in Nagaon",
+          "as": "নগাঁৱৰ গুৱাকুছি"
         },
         {
           "en": "Nidhanpur in Sylhet",
           "as": "ছিলেটৰ নিধনপুৰ"
         },
         {
-          "en": "Guakuchi in Nagaon",
-          "as": "নগাঁৱৰ গুৱাকুছি"
+          "en": "Tezpur (Parbatiya area)",
+          "as": "তেজপুৰ (পাৰ্বতীয়া অঞ্চল)"
         },
         {
           "en": "Kamauli in Kamrup",
           "as": "কামৰূপৰ কমৌলি"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "These plates were found in the Parbatiya locality of Tezpur, which is why they are named after that place.",
         "as": "এই ফলিসমূহ তেজপুৰৰ পাৰ্বতীয়া অঞ্চলত পোৱা গৈছিল, সেয়ে সেই ঠাইৰ নামেৰে ইহতৰ নামকৰণ কৰা হৈছে।"
@@ -377,23 +377,23 @@
       "answer_as": "ইন্দ্ৰপাল",
       "options": [
         {
-          "en": "Indrapala",
-          "as": "ইন্দ্ৰপাল"
+          "en": "Gopala",
+          "as": "গোপাল"
         },
         {
           "en": "Ratnapala",
           "as": "ৰত্নপাল"
         },
         {
-          "en": "Gopala",
-          "as": "গোপাল"
+          "en": "Indrapala",
+          "as": "ইন্দ্ৰপাল"
         },
         {
           "en": "Harjaravarman",
           "as": "হৰ্জৰবৰ্মন"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Guakuchi plates were issued by Indrapala and record land granted to a Brahman, reflecting Pala administrative practice.",
         "as": "গুৱাকুছি ফলি ইন্দ্ৰপালে জাৰি কৰিছিল আৰু ইয়াত এজন ব্ৰাহ্মণক দিয়া ভূমি লিপিবদ্ধ আছে, যিয়ে পাল প্ৰশাসনিক ৰীতি প্ৰতিফলিত কৰে।"
@@ -407,12 +407,12 @@
       "answer_as": "বৈদ্যদেৱ",
       "options": [
         {
-          "en": "Vaidyadeva",
-          "as": "বৈদ্য্যদেৱ"
-        },
-        {
           "en": "Bhaskaravarman",
           "as": "ভাস্কৰবৰ্মন"
+        },
+        {
+          "en": "Vaidyadeva",
+          "as": "বৈদ্য্যদেৱ"
         },
         {
           "en": "Vanamaladeva",
@@ -423,7 +423,7 @@
           "as": "ৰত্নপাল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Vaidyadeva, a minister who rose to power in the twelfth century, issued the Kamauli grant, an important late source on Kamarupa.",
         "as": "দ্বাদশ শতিকাত ক্ষমতালৈ অহা মন্ত্ৰী বৈদ্য্যদেৱে কমৌলি দানপত্ৰ জাৰি কৰিছিল, যি কামৰূপৰ এটা গুৰুত্বপূৰ্ণ শেষৰ উৎস।"
@@ -437,23 +437,23 @@
       "answer_as": "ভূতিবৰ্মন (নিধনপুৰ দান)",
       "options": [
         {
-          "en": "Bhutivarman's Nidhanpur grant",
-          "as": "ভূতিবৰ্মনৰ নিধনপুৰ দানপত্ৰ"
+          "en": "Vanamaladeva's Tezpur grant",
+          "as": "বনমালদেৱৰ তেজপুৰ দানপত্ৰ"
         },
         {
           "en": "Bhaskaravarman's Dubi grant",
           "as": "ভাস্কৰবৰ্মনৰ দুবি দানপত্ৰ"
         },
         {
-          "en": "Vanamaladeva's Tezpur grant",
-          "as": "বনমালদেৱৰ তেজপুৰ দানপত্ৰ"
+          "en": "Bhutivarman's Nidhanpur grant",
+          "as": "ভূতিবৰ্মনৰ নিধনপুৰ দানপত্ৰ"
         },
         {
           "en": "Vaidyadeva's Kamauli grant",
           "as": "বৈদ্য্যদেৱৰ কমৌলি দানপত্ৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Bhutivarman's Nidhanpur record is regarded as the earliest known copper-plate grant connected with Assam.",
         "as": "ভূতিবৰ্মনৰ নিধনপুৰ ৰেকৰ্ড অসমৰ সৈতে জড়িত আটাইতকৈ পুৰণি জ্ঞাত তামৰ-ফলি দানপত্ৰ হিচাপে গণ্য কৰা হয়।"
@@ -497,12 +497,12 @@
       "answer_as": "ভাস্কৰবৰ্মন",
       "options": [
         {
-          "en": "Bhaskaravarman",
-          "as": "ভাস্কৰবৰ্মন"
-        },
-        {
           "en": "Bhutivarman",
           "as": "ভূতিবৰ্মন"
+        },
+        {
+          "en": "Bhaskaravarman",
+          "as": "ভাস্কৰবৰ্মন"
         },
         {
           "en": "Vanamaladeva",
@@ -513,7 +513,7 @@
           "as": "ইন্দ্ৰপাল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Nowgong plate is assigned to Bhaskaravarman, adding to the group of Varman-era grants found in central Assam.",
         "as": "নগাঁও তামৰ ফলি ভাস্কৰবৰ্মনৰ বুলি নিৰ্ধাৰণ কৰা হয়, যিয়ে মধ্য অসমত পোৱা বৰ্মন যুগৰ দানপত্ৰৰ শ্ৰেণীত যোগ হয়।"
@@ -557,12 +557,12 @@
       "answer_as": "সংস্কৃত",
       "options": [
         {
-          "en": "Sanskrit",
-          "as": "সংস্কৃত"
-        },
-        {
           "en": "Pali",
           "as": "পালি"
+        },
+        {
+          "en": "Sanskrit",
+          "as": "সংস্কৃত"
         },
         {
           "en": "Prakrit only",
@@ -573,7 +573,7 @@
           "as": "পাৰ্ছী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Most Kamarupa inscriptions were composed in Sanskrit, the standard epigraphic language for royal grants and eulogies.",
         "as": "বেছিভাগ কামৰূপ শিলালিপি সংস্কৃতত ৰচিত হৈছিল, যি ৰাজকীয় দান আৰু প্ৰশংসা-কাব্যৰ বাবে মান্য শিলালিপি-ভাষা আছিল।"
@@ -587,23 +587,23 @@
       "answer_as": "এটা গুহা (মহেন্দ্ৰ দেৱতাৰ?)",
       "options": [
         {
-          "en": "A cave dedicated to a deity",
-          "as": "এজন দেৱতাৰ বাবে উৎসৰ্গিত গুহা"
+          "en": "A stone bridge",
+          "as": "এটা শিলৰ দলং"
         },
         {
           "en": "A fortified palace",
           "as": "এটা দুৰ্গযুক্ত ৰাজপ্ৰাসাদ"
         },
         {
-          "en": "A stone bridge",
-          "as": "এটা শিলৰ দলং"
+          "en": "A cave dedicated to a deity",
+          "as": "এজন দেৱতাৰ বাবে উৎসৰ্গিত গুহা"
         },
         {
           "en": "A Buddhist stupa",
           "as": "এটা বৌদ্ধ স্তূপ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Umachal inscription records the excavation of a cave, probably a shrine, during Mahendravarman's reign.",
         "as": "উমাচল শিলালিপিত মহেন্দ্ৰবৰ্মনৰ ৰাজত্বকালত এটা গুহা, সম্ভৱতঃ এটা দেৱালয়, খনন কৰাৰ কথা লিপিবদ্ধ আছে।"
@@ -647,8 +647,8 @@
       "answer_as": "বৰ্তমান গোৱালপাৰা অঞ্চল",
       "options": [
         {
-          "en": "The present-day Goalpara region",
-          "as": "বৰ্তমানৰ গোৱালপাৰা অঞ্চল"
+          "en": "The Nagaon region",
+          "as": "নগাঁও অঞ্চল"
         },
         {
           "en": "The Sylhet region",
@@ -659,11 +659,11 @@
           "as": "তেজপুৰ অঞ্চল"
         },
         {
-          "en": "The Nagaon region",
-          "as": "নগাঁও অঞ্চল"
+          "en": "The present-day Goalpara region",
+          "as": "বৰ্তমানৰ গোৱালপাৰা অঞ্চল"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The land described in the Dubi plate is located in what is now the Goalpara area of western Assam.",
         "as": "দুবি ফলিত বৰ্ণিত ভূমি বৰ্তমান পশ্চিম অসমৰ গোৱালপাৰা অঞ্চলত অৱস্থিত।"
@@ -737,12 +737,12 @@
       "answer_as": "সংস্কৃত (পদ্য আৰু গদ্য)",
       "options": [
         {
-          "en": "Sanskrit, in both verse and prose",
-          "as": "সংস্কৃত, পদ্য আৰু গদ্য দুয়োটাৰে"
-        },
-        {
           "en": "Only Assamese prose",
           "as": "কেৱল অসমীয়া গদ্য"
+        },
+        {
+          "en": "Sanskrit, in both verse and prose",
+          "as": "সংস্কৃত, পদ্য আৰু গদ্য দুয়োটাৰে"
         },
         {
           "en": "Only Pali verse",
@@ -753,7 +753,7 @@
           "as": "আৰবী আৰু পাৰ্ছী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Salastambha records use Sanskrit, often mixing ornate verse with plain prose for the operative part of the grant.",
         "as": "শালস্তম্ভ ৰেকৰ্ডত সংস্কৃত ব্যৱহৃত, য'ত প্ৰায়ে অলংকৃত পদ্যৰ লগতে দানৰ কাৰ্যকৰী অংশৰ বাবে সৰল গদ্য মিহলি থাকে।"
@@ -767,8 +767,8 @@
       "answer_as": "ব্ৰাহ্মণ, মন্দিৰ আৰু ধৰ্মীয় প্ৰতিষ্ঠান",
       "options": [
         {
-          "en": "Brahmans, temples and religious establishments",
-          "as": "ব্ৰাহ্মণ, মন্দিৰ আৰু ধৰ্মীয় প্ৰতিষ্ঠান"
+          "en": "Peasant collectives",
+          "as": "কৃষক সমবায়"
         },
         {
           "en": "Foreign merchants",
@@ -779,11 +779,11 @@
           "as": "কেৱল সামৰিক বিষয়া"
         },
         {
-          "en": "Peasant collectives",
-          "as": "কৃষক সমবায়"
+          "en": "Brahmans, temples and religious establishments",
+          "as": "ব্ৰাহ্মণ, মন্দিৰ আৰু ধৰ্মীয় প্ৰতিষ্ঠান"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Land grants in these plates were typically made to Brahmans and religious institutions, which helped spread settled agriculture and Brahmanical culture.",
         "as": "এই ফলিসমূহত ভূমি-দান সাধাৰণতে ব্ৰাহ্মণ আৰু ধৰ্মীয় প্ৰতিষ্ঠানলৈ কৰা হৈছিল, যিয়ে স্থায়ী কৃষি আৰু ব্ৰাহ্মণ্য সংস্কৃতি বিস্তাৰত সহায় কৰিছিল।"
@@ -797,8 +797,8 @@
       "answer_as": "বৈদ্যদেৱ",
       "options": [
         {
-          "en": "Vaidyadeva",
-          "as": "বৈদ্য্যদেৱ"
+          "en": "Harjaravarman",
+          "as": "হৰ্জৰবৰ্মন"
         },
         {
           "en": "Bhaskaravarman",
@@ -809,11 +809,11 @@
           "as": "ৰত্নপাল"
         },
         {
-          "en": "Harjaravarman",
-          "as": "হৰ্জৰবৰ্মন"
+          "en": "Vaidyadeva",
+          "as": "বৈদ্য্যদেৱ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Kamauli grant presents Vaidyadeva as the effective ruler of Kamarupa, illustrating the political changes of the twelfth century.",
         "as": "কমৌলি দানপত্ৰই বৈদ্য্যদেৱক কামৰূপৰ প্ৰকৃত শাসক হিচাপে উপস্থাপন কৰে, যিয়ে দ্বাদশ শতিকাৰ ৰাজনৈতিক পৰিৱৰ্তন দেখুৱায়।"
@@ -827,12 +827,12 @@
       "answer_as": "সংস্কৃত (আদি বাংলা-অসমীয়া উপভাষা ৰূপ সহ)",
       "options": [
         {
-          "en": "Sanskrit, with early Bengali-Assamese forms",
-          "as": "সংস্কৃত, প্ৰাৰম্ভিক বঙালী-অসমীয়া ৰূপৰ সৈতে"
-        },
-        {
           "en": "Purely Arabic",
           "as": "সম্পূৰ্ণৰূপে আৰবী"
+        },
+        {
+          "en": "Sanskrit, with early Bengali-Assamese forms",
+          "as": "সংস্কৃত, প্ৰাৰম্ভিক বঙালী-অসমীয়া ৰূপৰ সৈতে"
         },
         {
           "en": "Only Assamese",
@@ -843,7 +843,7 @@
           "as": "কেৱল পালি"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Pala-period epigraphs use Sanskrit while also showing dialect features that foreshadow later Bengali and Assamese.",
         "as": "পাল যুগৰ শিলালিপিত সংস্কৃত ব্যৱহৃত হৈছিল, লগতে পৰৱৰ্তী বঙালী আৰু অসমীয়াৰ পূৰ্বাভাস দিয়া উপভাষিক বৈশিষ্ট্যও দেখা যায়।"
@@ -857,23 +857,23 @@
       "answer_as": "উমাচল শিলালিপি",
       "options": [
         {
-          "en": "The Umachal rock inscription",
-          "as": "উমাচল শিলালিপি"
+          "en": "The Bargaon copper plate",
+          "as": "বৰগাঁও তামৰ ফলি"
         },
         {
           "en": "The Nidhanpur copper plate",
           "as": "নিধনপুৰ তামৰ ফলি"
         },
         {
-          "en": "The Bargaon copper plate",
-          "as": "বৰগাঁও তামৰ ফলি"
+          "en": "The Umachal rock inscription",
+          "as": "উমাচল শিলালিপি"
         },
         {
           "en": "The Kamauli copper plate",
           "as": "কমৌলি তামৰ ফলি"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Umachal record is engraved on a rock at the foot of Nilachal hill in Guwahati.",
         "as": "উমাচল ৰেকৰ্ড গুৱাহাটীৰ নীলাচল পাহাৰৰ পাদদেশত এটা শিলত খোদিত।"
@@ -887,8 +887,8 @@
       "answer_as": "বংশানুক্রমিক ৰাজতন্ত্ৰ বিষয়া আৰু স্থানীয় মুৰব্বীসকলৰ সহায়ত",
       "options": [
         {
-          "en": "A hereditary monarchy supported by officials and local chiefs",
-          "as": "বিষয়া আৰু স্থানীয় মুৰব্বীৰ দ্বাৰা সমৰ্থিত বংশানুচৰ ৰাজতন্ত্ৰ"
+          "en": "A theocratic council of monks",
+          "as": "ভিক্ষুৰ ধৰ্মীয় পৰিষদ"
         },
         {
           "en": "A fully elected republic",
@@ -899,11 +899,11 @@
           "as": "শ্ৰেণীসমূহৰ প্ৰত্যক্ষ শাসন"
         },
         {
-          "en": "A theocratic council of monks",
-          "as": "ভিক্ষুৰ ধৰ্মীয় পৰিষদ"
+          "en": "A hereditary monarchy supported by officials and local chiefs",
+          "as": "বিষয়া আৰু স্থানীয় মুৰব্বীৰ দ্বাৰা সমৰ্থিত বংশানুচৰ ৰাজতন্ত্ৰ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The grants mention kings, ministers and local headmen, indicating a hereditary monarchy assisted by officials and feudatory chiefs.",
         "as": "দানপত্ৰসমূহত ৰজা, মন্ত্ৰী আৰু স্থানীয় মুৰব্বীৰ উল্লেখ আছে, যিয়ে বিষয়া আৰু সামন্তীয় ৰজাৰ দ্বাৰা সমৰ্থিত বংশানুচৰ ৰাজতন্ত্ৰ সূচায়।"

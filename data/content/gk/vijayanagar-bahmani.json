@@ -8,7 +8,17 @@
     "en": "The Vijayanagar empire and the Bahmani kingdom of the Deccan, their rulers, administration and culture.",
     "as": "বিজয়নগৰ সাম্ৰাজ্য আৰু দাক্ষিণাত্যৰ বাহমানী ৰাজ্য, তেওঁলোকৰ শাসক, প্ৰশাসন আৰু সংস্কৃতি।"
   },
-  "tags": ["vijayanagar", "bahmani", "krishnadevaraya", "hampi", "deccan", "medieval-india", "assam-exam", "বিজয়নগৰ", "বাহমানী"],
+  "tags": [
+    "vijayanagar",
+    "bahmani",
+    "krishnadevaraya",
+    "hampi",
+    "deccan",
+    "medieval-india",
+    "assam-exam",
+    "বিজয়নগৰ",
+    "বাহমানী"
+  ],
   "pdf": null,
   "questions": [
     {
@@ -51,12 +61,12 @@
       },
       "options": [
         {
-          "en": "Vidyaranya",
-          "as": "বিদ্যাৰণ্য"
-        },
-        {
           "en": "Vyasatirtha",
           "as": "ব্যাসতীৰ্থ"
+        },
+        {
+          "en": "Vidyaranya",
+          "as": "বিদ্যাৰণ্য"
         },
         {
           "en": "Tenali Rama",
@@ -67,7 +77,7 @@
           "as": "অপ্পয়া দীক্ষিত"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "The famous saint Vidyaranya (Madhava) of the Sringeri math.",
         "as": "শৃংগেৰী মঠৰ বিখ্যাত সন্ত বিদ্যাৰণ্য (মাধৱ)।"
@@ -117,12 +127,12 @@
       },
       "options": [
         {
-          "en": "Saluva",
-          "as": "চালুভা"
-        },
-        {
           "en": "Sangama",
           "as": "সংগম"
+        },
+        {
+          "en": "Saluva",
+          "as": "চালুভা"
         },
         {
           "en": "Tuluva",
@@ -133,7 +143,7 @@
           "as": "অৰাবিদু"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "The Saluva dynasty, the second dynasty of Vijayanagar.",
         "as": "সলুভা বংশ, বিজয়নগৰৰ দ্বিতীয় বংশ।"
@@ -150,8 +160,8 @@
       },
       "options": [
         {
-          "en": "Tuluva",
-          "as": "তুলুভা"
+          "en": "Aravidu",
+          "as": "অৰাবিদু"
         },
         {
           "en": "Sangama",
@@ -162,11 +172,11 @@
           "as": "চালুভা"
         },
         {
-          "en": "Aravidu",
-          "as": "অৰাবিদু"
+          "en": "Tuluva",
+          "as": "তুলুভা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "The Tuluva dynasty, the third dynasty of Vijayanagar.",
         "as": "তুলুভা বংশ, বিজয়নগৰৰ তৃতীয় বংশ।"
@@ -183,23 +193,23 @@
       },
       "options": [
         {
-          "en": "Krishnadevaraya",
-          "as": "কৃষ্ণদেৱ ৰায়"
+          "en": "Bukka I",
+          "as": "বুক্কা প্ৰথম"
         },
         {
           "en": "Harihara I",
           "as": "হৰিহৰ প্ৰথম"
         },
         {
-          "en": "Bukka I",
-          "as": "বুক্কা প্ৰথম"
+          "en": "Krishnadevaraya",
+          "as": "কৃষ্ণদেৱ ৰায়"
         },
         {
           "en": "Rama Raya",
           "as": "ৰাম ৰায়"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Krishnadevaraya of the Tuluva dynasty (1509–1529 AD).",
         "as": "তুলুভা বংশৰ কৃষ্ণদেৱ ৰায় (খ্ৰীষ্টাব্দ ১৫০৯–১৫২৯)।"
@@ -216,23 +226,23 @@
       },
       "options": [
         {
-          "en": "Tenali Ramakrishna and the sage Vyasatirtha",
-          "as": "তেনালি ৰামকৃষ্ণ আৰু ঋষি ব্যাসতীৰ্থ"
+          "en": "Fernao Nuniz",
+          "as": "ফাৰ্নাও নুনিজ"
         },
         {
           "en": "Vidyaranya",
           "as": "বিদ্যাৰণ্য"
         },
         {
-          "en": "Fernao Nuniz",
-          "as": "ফাৰ্নাও নুনিজ"
+          "en": "Tenali Ramakrishna and the sage Vyasatirtha",
+          "as": "তেনালি ৰামকৃষ্ণ আৰু ঋষি ব্যাসতীৰ্থ"
         },
         {
           "en": "Saluva Timma",
           "as": "চালুভা তিম্মা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Tenali Ramakrishna, the witty court poet, and the sage Vyasatirtha.",
         "as": "বুদ্ধিমান সভাকবি তেনালি ৰামকৃষ্ণ আৰু ঋষি ব্যাসতীৰ্থ।"
@@ -282,23 +292,23 @@
       },
       "options": [
         {
-          "en": "Ashtadiggajas",
-          "as": "অষ্টদিগ্গজ"
+          "en": "Navaratnas",
+          "as": "নৱৰত্ন"
         },
         {
           "en": "Ashtapradhan",
           "as": "অষ্টপ্ৰধান"
         },
         {
-          "en": "Navaratnas",
-          "as": "নৱৰত্ন"
+          "en": "Ashtadiggajas",
+          "as": "অষ্টদিগ্গজ"
         },
         {
           "en": "Ashtadikpalas",
           "as": "অষ্টদিকপাল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Ashtadiggajas.",
         "as": "অষ্টদিগ্গজ।"
@@ -315,23 +325,23 @@
       },
       "options": [
         {
-          "en": "Nicolo Conti, Abdur Razzak, Paes and Nuniz",
-          "as": "নিকোলো কণ্টি, আব্দুৰ ৰজ্জাক, পেজ আৰু নুনিজ"
+          "en": "Fa Hien and Xuanzang",
+          "as": "ফা-হিয়ান আৰু হিউয়েন-চাং"
         },
         {
           "en": "Ibn Battuta and Marco Polo",
           "as": "ইবনে বতুতা আৰু মাৰ্কো পলো"
         },
         {
-          "en": "Fa Hien and Xuanzang",
-          "as": "ফা-হিয়ান আৰু হিউয়েন-চাং"
+          "en": "Nicolo Conti, Abdur Razzak, Paes and Nuniz",
+          "as": "নিকোলো কণ্টি, আব্দুৰ ৰজ্জাক, পেজ আৰু নুনিজ"
         },
         {
           "en": "Bernier and Tavernier",
           "as": "বেৰ্নিয়াৰ আৰু টেভাৰ্নিয়াৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Nicolo Conti, Abdur Razzak, Paes and Nuniz.",
         "as": "নিকোলো কণ্টি, আব্দুৰ ৰজ্জাক, পেজ আৰু নুনিজ।"
@@ -348,12 +358,12 @@
       },
       "options": [
         {
-          "en": "Domingo Paes",
-          "as": "ডমিঙ্গো পেজ"
-        },
-        {
           "en": "Fernao Nuniz",
           "as": "ফাৰ্নাও নুনিজ"
+        },
+        {
+          "en": "Domingo Paes",
+          "as": "ডমিঙ্গো পেজ"
         },
         {
           "en": "Nicolo Conti",
@@ -364,7 +374,7 @@
           "as": "আব্দুৰ ৰজ্জাক"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Domingo Paes, the Portuguese traveller.",
         "as": "পৰ্তুগীজ পৰ্যটক ডমিঙ্গো পেজে।"
@@ -381,8 +391,8 @@
       },
       "options": [
         {
-          "en": "Fernao Nuniz",
-          "as": "ফাৰ্নাও নুনিজ"
+          "en": "Abdur Razzak",
+          "as": "আব্দুৰ ৰজ্জাক"
         },
         {
           "en": "Domingo Paes",
@@ -393,11 +403,11 @@
           "as": "নিকোলো কণ্টি"
         },
         {
-          "en": "Abdur Razzak",
-          "as": "আব্দুৰ ৰজ্জাক"
+          "en": "Fernao Nuniz",
+          "as": "ফাৰ্নাও নুনিজ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Fernao Nuniz, the Portuguese traveller.",
         "as": "পৰ্তুগীজ পৰ্যটক ফাৰ্নাও নুনিজে।"
@@ -414,8 +424,8 @@
       },
       "options": [
         {
-          "en": "The Nayankara system",
-          "as": "নায়ংকৰ ব্যৱস্থা"
+          "en": "The Zamindari system",
+          "as": "জমিদাৰি ব্যৱস্থা"
         },
         {
           "en": "The Mansabdari system",
@@ -426,11 +436,11 @@
           "as": "ইক্তাদাৰি ব্যৱস্থা"
         },
         {
-          "en": "The Zamindari system",
-          "as": "জমিদাৰি ব্যৱস্থা"
+          "en": "The Nayankara system",
+          "as": "নায়ংকৰ ব্যৱস্থা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "The Nayankara system, where the emperor appointed Nayakas as provincial governors.",
         "as": "নায়ংকৰ ব্যৱস্থা, যত সম্ৰাটে নায়কসকলক প্ৰাদেশিক গৱৰ্ণৰ হিচাপে নিযুক্তি দিছিল।"
@@ -447,12 +457,12 @@
       },
       "options": [
         {
-          "en": "The village assembly",
-          "as": "গাঁও সভা"
-        },
-        {
           "en": "The district court",
           "as": "জিলা আদালত"
+        },
+        {
+          "en": "The village assembly",
+          "as": "গাঁও সভা"
         },
         {
           "en": "The provincial council",
@@ -463,7 +473,7 @@
           "as": "ৰাজকীয় দৰবাৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "The village assembly, which managed local affairs through elders and temples.",
         "as": "গাঁও সভা, যি গুৰুসকল আৰু মন্দিৰৰ জৰিয়তে স্থানীয় বিষয় পৰিচালনা কৰিছিল।"
@@ -480,8 +490,8 @@
       },
       "options": [
         {
-          "en": "Ala-ud-din Hasan Bahman Shah",
-          "as": "আলা-উদ-দিন হাছান বাহমান শ্বাহ"
+          "en": "Sultan Quli",
+          "as": "চুলতান কুলি"
         },
         {
           "en": "Mahmud Gawan",
@@ -492,11 +502,11 @@
           "as": "ইউছুফ আদিল খান"
         },
         {
-          "en": "Sultan Quli",
-          "as": "চুলতান কুলি"
+          "en": "Ala-ud-din Hasan Bahman Shah",
+          "as": "আলা-উদ-দিন হাছান বাহমান শ্বাহ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Ala-ud-din Hasan Bahman Shah (Zafar Khan), in 1347 AD.",
         "as": "আলা-উদ-দিন হাছান বাহমান শ্বাহ (জাফৰ খান), খ্ৰীষ্টাব্দ ১৩৪৭ চনত।"
@@ -546,23 +556,23 @@
       },
       "options": [
         {
-          "en": "Muhammad Shah III",
-          "as": "মহম্মদ শ্বাহ তৃতীয়"
+          "en": "Yusuf Adil Khan",
+          "as": "ইউছুফ আদিল খান"
         },
         {
           "en": "Ala-ud-din Hasan Bahman Shah",
           "as": "আলা-উদ-দিন হাছান বাহমান শ্বাহ"
         },
         {
-          "en": "Yusuf Adil Khan",
-          "as": "ইউছুফ আদিল খান"
+          "en": "Muhammad Shah III",
+          "as": "মহম্মদ শ্বাহ তৃতীয়"
         },
         {
           "en": "Quli Qutb Shah",
           "as": "কুলি কুতুব শ্বাহ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Mahmud Gawan, the prime minister, though the title is usually given to rulers; the greatest ruler was Muhammad Shah III under Gawan's guidance.",
         "as": "প্ৰধানমন্ত্ৰী মাহমুদ গৱান, যদিও উপাধি সাধাৰণতে শাসকসকলক দিয়া হয়; গৱানৰ পথনিৰ্দেশনাত শ্ৰেষ্ঠ শাসক আছিল মহম্মদ শ্বাহ তৃতীয়।"
@@ -579,23 +589,23 @@
       },
       "options": [
         {
-          "en": "Four",
-          "as": "চাৰিটা"
+          "en": "Six",
+          "as": "ছটা"
         },
         {
           "en": "Five",
           "as": "পাঁচটা"
         },
         {
-          "en": "Six",
-          "as": "ছটা"
+          "en": "Four",
+          "as": "চাৰিটা"
         },
         {
           "en": "Three",
           "as": "তিনিটা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Four provinces, each under a governor called Tarafdar.",
         "as": "চাৰিটা প্ৰদেশ, প্ৰতিটোৰ অধীনত এজন গৱৰ্ণৰ, যাক তাৰাফদাৰ বোলা হৈছিল।"
@@ -645,8 +655,8 @@
       },
       "options": [
         {
-          "en": "The combined forces of the Deccan Sultanates",
-          "as": "দাক্ষিণাত্য চুলতানীসমূহৰ সংযুক্ত বাহিনী"
+          "en": "The Portuguese",
+          "as": "পৰ্তুগীজসকল"
         },
         {
           "en": "The Mughals",
@@ -657,11 +667,11 @@
           "as": "মাৰাঠাসকল"
         },
         {
-          "en": "The Portuguese",
-          "as": "পৰ্তুগীজসকল"
+          "en": "The combined forces of the Deccan Sultanates",
+          "as": "দাক্ষিণাত্য চুলতানীসমূহৰ সংযুক্ত বাহিনী"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "The combined forces of the Deccan Sultanates (Ahmadnagar, Bijapur, Golconda, Bidar and Berar).",
         "as": "দাক্ষিণাত্য চুলতানীসমূহৰ (আহমেদনগৰ, বিজাপুৰ, গোলকোণ্ডা, বিদাৰ আৰু বেৰাৰ) সংযুক্ত বাহিনী।"
@@ -711,12 +721,12 @@
       },
       "options": [
         {
-          "en": "Krishnadevaraya",
-          "as": "কৃষ্ণদেৱ ৰায়"
-        },
-        {
           "en": "Harihara I",
           "as": "হৰিহৰ প্ৰথম"
+        },
+        {
+          "en": "Krishnadevaraya",
+          "as": "কৃষ্ণদেৱ ৰায়"
         },
         {
           "en": "Rama Raya",
@@ -727,7 +737,7 @@
           "as": "বুক্কা প্ৰথম"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Krishnadevaraya.",
         "as": "কৃষ্ণদেৱ ৰায়ে।"
@@ -744,12 +754,12 @@
       },
       "options": [
         {
-          "en": "Abdur Razzak",
-          "as": "আব্দুৰ ৰজ্জাক"
-        },
-        {
           "en": "Nicolo Conti",
           "as": "নিকোলো কণ্টি"
+        },
+        {
+          "en": "Abdur Razzak",
+          "as": "আব্দুৰ ৰজ্জাক"
         },
         {
           "en": "Domingo Paes",
@@ -760,7 +770,7 @@
           "as": "ফাৰ্নাও নুনিজ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Abdur Razzak, the Persian ambassador.",
         "as": "ফাৰ্চী ৰাজদূত আব্দুৰ ৰজ্জাক।"
@@ -777,8 +787,8 @@
       },
       "options": [
         {
-          "en": "The fertile Raichur doab and control of coastal trade",
-          "as": "উৰ্বৰ ৰায়চুৰ দোয়াব আৰু উপকূলীয় বাণিজ্যৰ নিয়ন্ত্ৰণ"
+          "en": "The Kohinoor diamond",
+          "as": "কোহিনুৰ হীৰা"
         },
         {
           "en": "Religious differences alone",
@@ -789,11 +799,11 @@
           "as": "এটা বিবাহৰ বিবাদ"
         },
         {
-          "en": "The Kohinoor diamond",
-          "as": "কোহিনুৰ হীৰা"
+          "en": "The fertile Raichur doab and control of coastal trade",
+          "as": "উৰ্বৰ ৰায়চুৰ দোয়াব আৰু উপকূলীয় বাণিজ্যৰ নিয়ন্ত্ৰণ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "The struggle for the fertile Raichur doab between the Krishna and Tungabhadra rivers, and control over the coastal trade.",
         "as": "কৃষ্ণা আৰু তুংগভদ্ৰা নদীৰ মাজৰ উৰ্বৰ ৰায়চুৰ দোয়াবৰ বাবে সংগ্ৰাম আৰু উপকূলীয় বাণিজ্যৰ নিয়ন্ত্ৰণ।"
@@ -810,8 +820,8 @@
       },
       "options": [
         {
-          "en": "Maharajadhiraja",
-          "as": "মহাৰাজাধিৰাজ"
+          "en": "Padshah",
+          "as": "পাদশ্বাহ"
         },
         {
           "en": "Sultan",
@@ -822,11 +832,11 @@
           "as": "ছত্ৰপতি"
         },
         {
-          "en": "Padshah",
-          "as": "পাদশ্বাহ"
+          "en": "Maharajadhiraja",
+          "as": "মহাৰাজাধিৰাজ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Maharajadhiraja (Great King of Kings).",
         "as": "মহাৰাজাধিৰাজ।"
@@ -843,23 +853,23 @@
       },
       "options": [
         {
-          "en": "Tirumala",
-          "as": "তিৰুমালা"
+          "en": "Sadashiva",
+          "as": "সদাশিৱ"
         },
         {
           "en": "Rama Raya",
           "as": "ৰাম ৰায়"
         },
         {
-          "en": "Sadashiva",
-          "as": "সদাশিৱ"
+          "en": "Tirumala",
+          "as": "তিৰুমালা"
         },
         {
           "en": "Krishnadevaraya",
           "as": "কৃষ্ণদেৱ ৰায়"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Tirumala, brother of Rama Raya.",
         "as": "ৰাম ৰায়ৰ ভাতৃ তিৰুমালাই।"
@@ -909,23 +919,23 @@
       },
       "options": [
         {
-          "en": "Aurangzeb",
-          "as": "ঔৰংজেৱে"
+          "en": "Shah Jahan",
+          "as": "শাহজাহান"
         },
         {
           "en": "Akbar",
           "as": "আকবৰ"
         },
         {
-          "en": "Shah Jahan",
-          "as": "শাহজাহান"
+          "en": "Aurangzeb",
+          "as": "ঔৰংজেৱে"
         },
         {
           "en": "Babur",
           "as": "বাবুৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Aurangzeb, who annexed the southern states in the late 17th century.",
         "as": "ঔৰংজেৱে, যিয়ে ১৭ শতিকাৰ শেষভাগত দক্ষিণী ৰাজ্যসমূহ দখল কৰিছিল।"
@@ -942,23 +952,23 @@
       },
       "options": [
         {
-          "en": "Ahmad Shah Wali I",
-          "as": "আহমদ শ্বাহ ৱালি প্ৰথম"
+          "en": "Muhammad Shah III",
+          "as": "মহম্মদ শ্বাহ তৃতীয়"
         },
         {
           "en": "Ala-ud-din Hasan",
           "as": "আলা-উদ-দিন হাছান"
         },
         {
-          "en": "Muhammad Shah III",
-          "as": "মহম্মদ শ্বাহ তৃতীয়"
+          "en": "Ahmad Shah Wali I",
+          "as": "আহমদ শ্বাহ ৱালি প্ৰথম"
         },
         {
           "en": "Firoz Shah",
           "as": "ফিৰোজ শ্বাহ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Ahmad Shah Wali I.",
         "as": "আহমদ শ্বাহ ৱালি প্ৰথমে।"
@@ -975,8 +985,8 @@
       },
       "options": [
         {
-          "en": "Muhammad Adil Shah",
-          "as": "মহম্মদ আদিল শ্বাহ"
+          "en": "Ibrahim Adil Shah",
+          "as": "ইব্ৰাহিম আদিল শ্বাহ"
         },
         {
           "en": "Yusuf Adil Khan",
@@ -987,11 +997,11 @@
           "as": "কুলি কুতুব শ্বাহ"
         },
         {
-          "en": "Ibrahim Adil Shah",
-          "as": "ইব্ৰাহিম আদিল শ্বাহ"
+          "en": "Muhammad Adil Shah",
+          "as": "মহম্মদ আদিল শ্বাহ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Muhammad Adil Shah of Bijapur.",
         "as": "বিজাপুৰৰ মহম্মদ আদিল শ্বাহে।"
@@ -1041,8 +1051,8 @@
       },
       "options": [
         {
-          "en": "The Arab and Portuguese horse trade through the western ports",
-          "as": "পশ্চিম বন্দৰসমূহৰ জৰিয়তে আৰব আৰু পৰ্তুগীজ ঘোঁড়া বাণিজ্য"
+          "en": "The Spice Route",
+          "as": "মচলা পথ"
         },
         {
           "en": "The Silk Road",
@@ -1053,11 +1063,11 @@
           "as": "গ্ৰেণ্ড ট্ৰাংক ৰোড"
         },
         {
-          "en": "The Spice Route",
-          "as": "মচলা পথ"
+          "en": "The Arab and Portuguese horse trade through the western ports",
+          "as": "পশ্চিম বন্দৰসমূহৰ জৰিয়তে আৰব আৰু পৰ্তুগীজ ঘোঁড়া বাণিজ্য"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "The Arab and Portuguese horse trade through the western ports.",
         "as": "পশ্চিম বন্দৰসমূহৰ জৰিয়তে আৰব আৰু পৰ্তুগীজ ঘোঁড়া বাণিজ্য।"
@@ -1074,12 +1084,12 @@
       },
       "options": [
         {
-          "en": "Land revenue",
-          "as": "ভূমি ৰাজস্ব"
-        },
-        {
           "en": "Taxes on trade only",
           "as": "কেৱল বাণিজ্যৰ কৰ"
+        },
+        {
+          "en": "Land revenue",
+          "as": "ভূমি ৰাজস্ব"
         },
         {
           "en": "Tribute from temples",
@@ -1090,7 +1100,7 @@
           "as": "খনিৰ পৰা পোৱা আয়"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Land revenue, which was generally one-sixth of the produce.",
         "as": "ভূমি ৰাজস্ব, যি সাধাৰণতে উৎপাদনৰ এক-ষষ্ঠাংশ আছিল।"
@@ -1107,8 +1117,8 @@
       },
       "options": [
         {
-          "en": "The Kamalapuram tank",
-          "as": "কমলাপুৰম জলাশয়"
+          "en": "Sudarshan tank",
+          "as": "সুদৰ্শন জলাশয়"
         },
         {
           "en": "Hussain Sagar",
@@ -1119,11 +1129,11 @@
           "as": "অনন্তপুৰ জলাশয়"
         },
         {
-          "en": "Sudarshan tank",
-          "as": "সুদৰ্শন জলাশয়"
+          "en": "The Kamalapuram tank",
+          "as": "কমলাপুৰম জলাশয়"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "The Kamalapuram tank, part of the irrigation system.",
         "as": "কমলাপুৰম জলাশয়, জলসিঞ্চন ব্যৱস্থাৰ অংশ।"
@@ -1140,23 +1150,23 @@
       },
       "options": [
         {
-          "en": "Tuluva",
-          "as": "তুলুভা"
+          "en": "Saluva",
+          "as": "চালুভা"
         },
         {
           "en": "Sangama",
           "as": "সংগম"
         },
         {
-          "en": "Saluva",
-          "as": "চালুভা"
+          "en": "Tuluva",
+          "as": "তুলুভা"
         },
         {
           "en": "Aravidu",
           "as": "অৰাবিদু"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "The Tuluva dynasty.",
         "as": "তুলুভা বংশ।"
@@ -1173,12 +1183,12 @@
       },
       "options": [
         {
-          "en": "The boar (Varaha)",
-          "as": "বৰাহ"
-        },
-        {
           "en": "The lion",
           "as": "সিংহ"
+        },
+        {
+          "en": "The boar (Varaha)",
+          "as": "বৰাহ"
         },
         {
           "en": "The peacock",
@@ -1189,7 +1199,7 @@
           "as": "সূৰ্য"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "The boar (Varaha).",
         "as": "বৰাহ (বাৰাহ)।"
@@ -1206,8 +1216,8 @@
       },
       "options": [
         {
-          "en": "Yusuf Adil Khan",
-          "as": "ইউছুফ আদিল খান"
+          "en": "Ahmad Shah Wali",
+          "as": "আহমদ শ্বাহ ৱালি"
         },
         {
           "en": "Muhammad Adil Shah",
@@ -1218,11 +1228,11 @@
           "as": "কুলি কুতুব শ্বাহ"
         },
         {
-          "en": "Ahmad Shah Wali",
-          "as": "আহমদ শ্বাহ ৱালি"
+          "en": "Yusuf Adil Khan",
+          "as": "ইউছুফ আদিল খান"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Yusuf Adil Khan.",
         "as": "ইউছুফ আদিল খানে।"
@@ -1239,23 +1249,23 @@
       },
       "options": [
         {
-          "en": "Quli Qutb-ul-Mulk (Sultan Quli)",
-          "as": "কুলি কুতুব-উল-মুল্ক (চুলতান কুলি)"
+          "en": "Yusuf Adil Khan",
+          "as": "ইউছুফ আদিল খান"
         },
         {
           "en": "Muhammad Quli Qutb Shah",
           "as": "মহম্মদ কুলি কুতুব শ্বাহ"
         },
         {
-          "en": "Yusuf Adil Khan",
-          "as": "ইউছুফ আদিল খান"
+          "en": "Quli Qutb-ul-Mulk (Sultan Quli)",
+          "as": "কুলি কুতুব-উল-মুল্ক (চুলতান কুলি)"
         },
         {
           "en": "Malik Ambar",
           "as": "মালিক অম্বৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Quli Qutb-ul-Mulk (Sultan Quli).",
         "as": "কুলি কুতুব-উল-মুল্ক (চুলতান কুলি)।"
@@ -1305,12 +1315,12 @@
       },
       "options": [
         {
-          "en": "Mahmud Gawan",
-          "as": "মাহমুদ গৱান"
-        },
-        {
           "en": "Yusuf Adil Khan",
           "as": "ইউছুফ আদিল খান"
+        },
+        {
+          "en": "Mahmud Gawan",
+          "as": "মাহমুদ গৱান"
         },
         {
           "en": "Quli Qutb Shah",
@@ -1321,7 +1331,7 @@
           "as": "মালিক অম্বৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Mahmud Gawan, whose execution weakened the kingdom leading to its breakup.",
         "as": "মাহমুদ গৱান, যাৰ মৃত্যুদণ্ডই ৰাজ্য দুৰ্বল কৰি ভাঙি যোৱাত অৰিহণা যোগাইছিল।"
@@ -1338,12 +1348,12 @@
       },
       "options": [
         {
-          "en": "Around 1490 AD",
-          "as": "খ্ৰীষ্টাব্দ ১৪৯০ চনৰ আশেপাশে"
-        },
-        {
           "en": "1347 AD",
           "as": "খ্ৰীষ্টাব্দ ১৩৪৭ চনত"
+        },
+        {
+          "en": "Around 1490 AD",
+          "as": "খ্ৰীষ্টাব্দ ১৪৯০ চনৰ আশেপাশে"
         },
         {
           "en": "1565 AD",
@@ -1354,7 +1364,7 @@
           "as": "খ্ৰীষ্টাব্দ ১৬০০ চনত"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Around 1490 AD, after the death of Mahmud Gawan.",
         "as": "মাহমুদ গৱানৰ মৃত্যুৰ পিছত, খ্ৰীষ্টাব্দ ১৪৯০ চনৰ আশেপাশে।"
@@ -1437,8 +1447,8 @@
       },
       "options": [
         {
-          "en": "He praised it as one of the most splendid courts in the world",
-          "as": "তেওঁ ইয়াক বিশ্বৰ আটাইতকৈ জাকজমকপূৰ্ণ দৰবাৰসমূহৰ এটা বুলি প্ৰশংসা কৰিছিল"
+          "en": "He wrote nothing about it",
+          "as": "তেওঁ ইয়াৰ বিষয়ে একো লিখা নাছিল"
         },
         {
           "en": "He called it poor and disorderly",
@@ -1449,11 +1459,11 @@
           "as": "তেওঁ ইয়াৰ সেনাৰ সমালোচনা কৰিছিল"
         },
         {
-          "en": "He wrote nothing about it",
-          "as": "তেওঁ ইয়াৰ বিষয়ে একো লিখা নাছিল"
+          "en": "He praised it as one of the most splendid courts in the world",
+          "as": "তেওঁ ইয়াক বিশ্বৰ আটাইতকৈ জাকজমকপূৰ্ণ দৰবাৰসমূহৰ এটা বুলি প্ৰশংসা কৰিছিল"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "He praised it as one of the most splendid courts in the world.",
         "as": "তেওঁ ইয়াক বিশ্বৰ আটাইতকৈ জাকজমকপূৰ্ণ দৰবাৰৰ ভিতৰত এটা বুলি প্ৰশংসা কৰিছিল।"
@@ -1470,12 +1480,12 @@
       },
       "options": [
         {
-          "en": "Krishnadevaraya",
-          "as": "কৃষ্ণদেৱ ৰায়"
-        },
-        {
           "en": "Harihara I",
           "as": "হৰিহৰ প্ৰথম"
+        },
+        {
+          "en": "Krishnadevaraya",
+          "as": "কৃষ্ণদেৱ ৰায়"
         },
         {
           "en": "Rama Raya",
@@ -1486,7 +1496,7 @@
           "as": "বুক্কা প্ৰথম"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Krishnadevaraya, who was also called 'Andhra Bhoja'.",
         "as": "কৃষ্ণদেৱ ৰায়, যাক 'আন্ধ্ৰ ভোজ' বুলিও কোৱা হৈছিল।"
@@ -1536,23 +1546,23 @@
       },
       "options": [
         {
-          "en": "The Qutb Shahi dynasty",
-          "as": "কুতুব শ্বাহী বংশ"
+          "en": "The Nizam Shahi dynasty",
+          "as": "নিজাম শ্বাহী বংশ"
         },
         {
           "en": "The Adil Shahi dynasty",
           "as": "আদিল শ্বাহী বংশ"
         },
         {
-          "en": "The Nizam Shahi dynasty",
-          "as": "নিজাম শ্বাহী বংশ"
+          "en": "The Qutb Shahi dynasty",
+          "as": "কুতুব শ্বাহী বংশ"
         },
         {
           "en": "The Bahmani dynasty",
           "as": "বাহমানী বংশ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "The Qutb Shahi dynasty, with the fort built by Sultan Quli.",
         "as": "কুতুব শ্বাহী বংশই, যাৰ দুৰ্গ চুলতান কুলিয়ে নিৰ্মাণ কৰিছিল।"
@@ -1569,12 +1579,12 @@
       },
       "options": [
         {
-          "en": "The Kohinoor diamond",
-          "as": "কোহিনুৰ হীৰা"
-        },
-        {
           "en": "The Hope diamond",
           "as": "হোপ হীৰা"
+        },
+        {
+          "en": "The Kohinoor diamond",
+          "as": "কোহিনুৰ হীৰা"
         },
         {
           "en": "The Orlov diamond",
@@ -1585,7 +1595,7 @@
           "as": "ৰিজেণ্ট হীৰা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "The Kohinoor diamond, which was mined in the Golconda region.",
         "as": "কোহিনুৰ হীৰা, যি গোলকোণ্ডা অঞ্চলত খনন কৰা হৈছিল।"
@@ -1602,12 +1612,12 @@
       },
       "options": [
         {
-          "en": "Harihara I and Bukka I",
-          "as": "হৰিহৰ প্ৰথম আৰু বুক্কা প্ৰথম"
-        },
-        {
           "en": "Krishnadevaraya",
           "as": "কৃষ্ণদেৱ ৰায়"
+        },
+        {
+          "en": "Harihara I and Bukka I",
+          "as": "হৰিহৰ প্ৰথম আৰু বুক্কা প্ৰথম"
         },
         {
           "en": "Rama Raya",
@@ -1618,7 +1628,7 @@
           "as": "তিৰুমালা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Harihara I and Bukka I founded the city.",
         "as": "হৰিহৰ প্ৰথম আৰু বুক্কা প্ৰথমে নগৰী প্ৰতিষ্ঠা কৰিছিল।"

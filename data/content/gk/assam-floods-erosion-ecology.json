@@ -929,6 +929,25 @@
       "a": {
         "en": "The Brahmaputra Board.",
         "as": "ব্ৰহ্মপুত্ৰ ব'ৰ্ড।"
+      },
+      "options": {
+        "en": [
+          "The Brahmaputra Board",
+          "The Central Water Commission",
+          "The NDRF",
+          "The Brahmaputra Flood Authority"
+        ],
+        "as": [
+          "ব্ৰহ্মপুত্ৰ ব'ৰ্ড",
+          "কেন্দ্ৰীয় জল আয়োগ",
+          "এনডিআৰএফ",
+          "ব্ৰহ্মপুত্ৰ বান প্ৰাধিকৰণ"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "en": "The Brahmaputra Board prepares the master plan for the Brahmaputra basin.",
+        "as": "ব্ৰহ্মপুত্ৰ ব'ৰ্ডে ব্ৰহ্মপুত্ৰ অৱবাহিকাৰ বাবে মুখ্য পৰিকল্পনা প্ৰস্তুত কৰে।"
       }
     },
     {
@@ -939,6 +958,25 @@
       "a": {
         "en": "True. In extreme flood years, over one crore people have been affected in Assam.",
         "as": "সত্য। চৰম বানপানীৰ বছৰবোৰত অসমত এক কোটিৰো অধিক লোক প্ৰভাৱিত হৈছে।"
+      },
+      "options": {
+        "en": [
+          "False",
+          "True",
+          "True only for the Barak valley",
+          "True only for the hills districts"
+        ],
+        "as": [
+          "মিছা",
+          "সঁচা",
+          "কেৱল বৰাক উপত্যকাৰ বাবে সঁচা",
+          "কেৱল পাহাৰীয়া জিলাসমূহৰ বাবে সঁচা"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "en": "True. In extreme flood years, over one crore people have been affected in Assam.",
+        "as": "সঁচা। চৰম বানৰ বছৰবোৰত অসমত এক কোটিৰো অধিক লোকে ক্ষতিগ্ৰস্ত হৈছে।"
       }
     },
     {
@@ -949,6 +987,25 @@
       "a": {
         "en": "The Brahmaputra, one of the highest sediment-carrying rivers in the world.",
         "as": "ব্ৰহ্মপুত্ৰ, যি বিশ্বৰ ভিতৰতে সৰ্বাধিক পলস বহনকাৰী নদীসমূহৰ অন্যতম।"
+      },
+      "options": {
+        "en": [
+          "The Brahmaputra, one of the highest sediment-carrying rivers in the world",
+          "The Barak",
+          "The Subansiri",
+          "The Dhansiri"
+        ],
+        "as": [
+          "ব্ৰহ্মপুত্ৰ, বিশ্বৰ আটাইতকৈ বেছি পলস কঢ়িয়াই নিয়া নদীসমূহৰ এটা",
+          "বৰাক",
+          "সোৱণশিৰি",
+          "ধানশিৰি"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "en": "The Brahmaputra carries a very high sediment load, a key factor in Assam's erosion problems.",
+        "as": "ব্ৰহ্মপুত্ৰই অতি উচ্চ পলস কঢ়িয়াই নিয়ে, যি অসমৰ ভাঙন সমস্যাৰ এটা মূল কাৰণ।"
       }
     },
     {
@@ -959,6 +1016,25 @@
       "a": {
         "en": "The NDRF, along with the SDRF, the Army and central paramilitary forces.",
         "as": "NDRF, লগতে SDRF, সেনাবাহিনী আৰু কেন্দ্ৰীয় আধাসামৰিক বাহিনী।"
+      },
+      "options": {
+        "en": [
+          "Only the NDRF",
+          "Only the SDRF",
+          "Only the Assam Police",
+          "The NDRF, along with the SDRF, the Army and central paramilitary forces"
+        ],
+        "as": [
+          "কেৱল এনডিআৰএফ",
+          "কেৱল এছডিআৰএফ",
+          "কেৱল অসম আৰক্ষী",
+          "এনডিআৰএফ, এছডিআৰএফ, সেনা আৰু কেন্দ্ৰীয় আধা-সামৰিক বাহিনীৰ সৈতে"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "en": "The NDRF, along with the SDRF, the Army and central paramilitary forces, are deployed for rescue and relief during major floods in Assam.",
+        "as": "এনডিআৰএফ, এছডিআৰএফ, সেনা আৰু কেন্দ্ৰীয় আধা-সামৰিক বাহিনী অসমত প্ৰধান বানৰ সময়ত উদ্ধাৰ আৰু সাহায্যৰ বাবে নিয়োজিত হয়।"
       }
     }
   ]

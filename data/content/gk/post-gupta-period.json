@@ -8,7 +8,21 @@
     "en": "Harshavardhana and the regional kingdoms - Pallavas, Chalukyas and Rashtrakutas.",
     "as": "হৰ্ষবৰ্ধন আৰু আঞ্চলিক ৰাজ্য — পল্লৱ, চালুক্য আৰু ৰাষ্ট্ৰকূট।"
   },
-  "tags": ["harsha", "pallava", "chalukya", "rashtrakuta", "post-gupta", "mamallapuram", "badami", "ancient-india", "assam-exam", "হৰ্ষ", "পল্লৱ", "চালুক্য", "ৰাষ্ট্ৰকূট"],
+  "tags": [
+    "harsha",
+    "pallava",
+    "chalukya",
+    "rashtrakuta",
+    "post-gupta",
+    "mamallapuram",
+    "badami",
+    "ancient-india",
+    "assam-exam",
+    "হৰ্ষ",
+    "পল্লৱ",
+    "চালুক্য",
+    "ৰাষ্ট্ৰকূট"
+  ],
   "pdf": null,
   "questions": [
     {
@@ -51,8 +65,8 @@
       },
       "options": [
         {
-          "en": "606 AD",
-          "as": "৬০৬ খ্ৰীষ্টাব্দ"
+          "en": "630 AD",
+          "as": "৬৩০ খ্ৰীষ্টাব্দ"
         },
         {
           "en": "543 AD",
@@ -63,11 +77,11 @@
           "as": "৬৪৭ খ্ৰীষ্টাব্দ"
         },
         {
-          "en": "630 AD",
-          "as": "৬৩০ খ্ৰীষ্টাব্দ"
+          "en": "606 AD",
+          "as": "৬০৬ খ্ৰীষ্টাব্দ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "In 606 AD.",
         "as": "খ্ৰীষ্টাব্দ ৬০৬ চনত।"
@@ -84,12 +98,12 @@
       },
       "options": [
         {
-          "en": "Thaneswar (Sthanvishvara)",
-          "as": "থানেশ্বৰ (স্থানেশ্বৰ)"
-        },
-        {
           "en": "Kannauj (Kanyakubja)",
           "as": "কান্যকুব্জ (কানৌজ)"
+        },
+        {
+          "en": "Thaneswar (Sthanvishvara)",
+          "as": "থানেশ্বৰ (স্থানেশ্বৰ)"
         },
         {
           "en": "Pataliputra",
@@ -100,7 +114,7 @@
           "as": "উজ্জয়িনী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Thaneswar (Sthanvishvara), in Haryana.",
         "as": "থানেশ্বৰ (স্থানেশ্বৰ), হাৰিয়ানাত।"
@@ -117,12 +131,12 @@
       },
       "options": [
         {
-          "en": "Rajyashri",
-          "as": "ৰাজ্যশ্ৰী"
-        },
-        {
           "en": "Prabhavati",
           "as": "প্ৰভাৱতী"
+        },
+        {
+          "en": "Rajyashri",
+          "as": "ৰাজ্যশ্ৰী"
         },
         {
           "en": "Yasodhara",
@@ -133,7 +147,7 @@
           "as": "হৰ্ষগুণা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Rajyashri, who was married to the Maukhari king Grahavarman.",
         "as": "ৰাজ্যশ্ৰী, যাক মৌখৰি ৰজা গ্ৰহবৰ্মনে বিয়া কৰাইছিল।"
@@ -150,8 +164,8 @@
       },
       "options": [
         {
-          "en": "Rajyavardhana, killed by Sasanka of Gauda",
-          "as": "ৰাজ্যৱৰ্ধন, গৌড়ৰ শশাঙ্কই হত্যা কৰা"
+          "en": "Madhavagupta, killed by Pulakesin II",
+          "as": "মাধৱগুপ্ত, পুলকেশি দ্বিতীয়ই হত্যা কৰা"
         },
         {
           "en": "Grahavarman, killed by the Malavas",
@@ -162,11 +176,11 @@
           "as": "প্ৰভাকৰবৰ্ধন, যুদ্ধত নিহত"
         },
         {
-          "en": "Madhavagupta, killed by Pulakesin II",
-          "as": "মাধৱগুপ্ত, পুলকেশি দ্বিতীয়ই হত্যা কৰা"
+          "en": "Rajyavardhana, killed by Sasanka of Gauda",
+          "as": "ৰাজ্যৱৰ্ধন, গৌড়ৰ শশাঙ্কই হত্যা কৰা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Rajyavardhana, who was killed by Sasanka, the king of Gauda.",
         "as": "ৰাজ্য঵ৰ্ধন, যাক গৌড় ৰজা শশাঙ্কই হত্যা কৰিছিল।"
@@ -183,23 +197,23 @@
       },
       "options": [
         {
-          "en": "Kannauj (Kanyakubja)",
-          "as": "কান্যকুব্জ (কানৌজ)"
+          "en": "Mathura",
+          "as": "মথুৰা"
         },
         {
           "en": "Thaneswar",
           "as": "থানেশ্বৰ"
         },
         {
-          "en": "Mathura",
-          "as": "মথুৰা"
+          "en": "Kannauj (Kanyakubja)",
+          "as": "কান্যকুব্জ (কানৌজ)"
         },
         {
           "en": "Kashi",
           "as": "কাশী"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Kannauj (Kanyakubja).",
         "as": "কান্যকুব্জ (কানৌজ)।"
@@ -216,23 +230,23 @@
       },
       "options": [
         {
-          "en": "Punjab in the north to the Narmada in the south",
-          "as": "উত্তৰে পঞ্জাবৰ পৰা দক্ষিণে নৰ্মদালৈ"
+          "en": "Bengal in the east to Gujarat in the west",
+          "as": "পূবে বংগৰ পৰা পশ্চিমে গুজৰাটলৈ"
         },
         {
           "en": "Kashmir in the north to the Godavari in the south",
           "as": "উত্তৰে কাশ্মীৰৰ পৰা দক্ষিণে গোদাবৰীলৈ"
         },
         {
-          "en": "Bengal in the east to Gujarat in the west",
-          "as": "পূবে বংগৰ পৰা পশ্চিমে গুজৰাটলৈ"
+          "en": "Punjab in the north to the Narmada in the south",
+          "as": "উত্তৰে পঞ্জাবৰ পৰা দক্ষিণে নৰ্মদালৈ"
         },
         {
           "en": "Nepal in the north to Ceylon in the south",
           "as": "উত্তৰে নেপালৰ পৰা দক্ষিণে চিলনলৈ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "From the Punjab in the north to the Narmada river in the south.",
         "as": "উত্তৰে পঞ্জাবৰ পৰা দক্ষিণে নৰ্মদা নদীলৈ।"
@@ -282,8 +296,8 @@
       },
       "options": [
         {
-          "en": "Hiuen Tsang (Xuanzang)",
-          "as": "হিউৱেন চাং (জুয়াঞ্জাং)"
+          "en": "Al-Biruni",
+          "as": "আল-বিৰুনী"
         },
         {
           "en": "Fa-Hien",
@@ -294,11 +308,11 @@
           "as": "ই-ৎসিং"
         },
         {
-          "en": "Al-Biruni",
-          "as": "আল-বিৰুনী"
+          "en": "Hiuen Tsang (Xuanzang)",
+          "as": "হিউৱেন চাং (জুয়াঞ্জাং)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Hiuen Tsang (Xuanzang), who stayed for about 13 years (630-645 AD).",
         "as": "হিউৱেন চাং, যিয়ে প্ৰায় ১৩ বছৰ (৬৩০-৬৪৫ খ্ৰীষ্টাব্দ) আছিল।"
@@ -315,12 +329,12 @@
       },
       "options": [
         {
-          "en": "Si-Yu-Ki (Records of the Western World)",
-          "as": "চি-য়ু-কি (পশ্চিম জগতৰ বিৱৰণ)"
-        },
-        {
           "en": "Harshacharita",
           "as": "হৰ্ষচৰিত"
+        },
+        {
+          "en": "Si-Yu-Ki (Records of the Western World)",
+          "as": "চি-য়ু-কি (পশ্চিম জগতৰ বিৱৰণ)"
         },
         {
           "en": "Rajatarangini",
@@ -331,7 +345,7 @@
           "as": "ইণ্ডিকা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Si-Yu-Ki (Records of the Western World).",
         "as": "চি-য়ু-কি (পশ্চিম জগতৰ বিৱৰণ)।"
@@ -414,12 +428,12 @@
       },
       "options": [
         {
-          "en": "Mahayana Buddhism",
-          "as": "মহাযান বৌদ্ধ ধৰ্ম"
-        },
-        {
           "en": "Shaivism",
           "as": "শৈৱ ধৰ্ম"
+        },
+        {
+          "en": "Mahayana Buddhism",
+          "as": "মহাযান বৌদ্ধ ধৰ্ম"
         },
         {
           "en": "Jainism",
@@ -430,7 +444,7 @@
           "as": "বৈষ্ণৱ ধৰ্ম"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "He was a follower of Mahayana Buddhism, though tolerant of all faiths.",
         "as": "তেওঁ মহাযান বৌদ্ধ ধৰ্মৰ অনুগামী আছিল, সকলো ধৰ্মৰ প্ৰতি সহিষ্ণু যদিও।"
@@ -447,8 +461,8 @@
       },
       "options": [
         {
-          "en": "Nagananda, Ratnavali and Priyadarshika",
-          "as": "নাগানন্দ, ৰত্নাৱলী আৰু প্ৰিয়দৰ্শিকা"
+          "en": "Kiratarjuniya and Shishupalavadha",
+          "as": "কিৰাতাৰ্জুনীয় আৰু শিশুপালৱধ"
         },
         {
           "en": "Abhijnanashakuntala, Malavikagnimitra and Vikramorvasiya",
@@ -459,11 +473,11 @@
           "as": "মুদ্ৰাৰাক্ষস আৰু দেৱীচন্দ্ৰগুপ্তম"
         },
         {
-          "en": "Kiratarjuniya and Shishupalavadha",
-          "as": "কিৰাতাৰ্জুনীয় আৰু শিশুপালৱধ"
+          "en": "Nagananda, Ratnavali and Priyadarshika",
+          "as": "নাগানন্দ, ৰত্নাৱলী আৰু প্ৰিয়দৰ্শিকা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Nagananda, Ratnavali and Priyadarshika.",
         "as": "নাগানন্দ, ৰত্নাৱলী আৰু প্ৰিয়দৰ্শিকা।"
@@ -480,8 +494,8 @@
       },
       "options": [
         {
-          "en": "Banabhatta",
-          "as": "বাণভট্ট"
+          "en": "Bharavi",
+          "as": "ভাৰৱী"
         },
         {
           "en": "Ravikirti",
@@ -492,11 +506,11 @@
           "as": "দণ্ডিন"
         },
         {
-          "en": "Bharavi",
-          "as": "ভাৰৱী"
+          "en": "Banabhatta",
+          "as": "বাণভট্ট"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Banabhatta (Bana), the court poet of Harsha.",
         "as": "হৰ্ষৰ ৰাজকবি বানভট্টে।"
@@ -513,12 +527,12 @@
       },
       "options": [
         {
-          "en": "It disintegrated, leading to the tripartite struggle for Kannauj",
-          "as": "ই ভাগি পৰিছিল, কান্যকুব্জৰ বাবে ত্ৰিপক্ষীয় সংঘাতৰ সূচনা কৰি"
-        },
-        {
           "en": "It was annexed by the Chalukyas of Badami",
           "as": "বদামীৰ চালুক্যসকলে ইয়াক দখল কৰিছিল"
+        },
+        {
+          "en": "It disintegrated, leading to the tripartite struggle for Kannauj",
+          "as": "ই ভাগি পৰিছিল, কান্যকুব্জৰ বাবে ত্ৰিপক্ষীয় সংঘাতৰ সূচনা কৰি"
         },
         {
           "en": "It passed intact to the Pallavas",
@@ -529,7 +543,7 @@
           "as": "চীনত হিউৱেন চাঙৰ পৃষ্ঠপোষকসকলে ইয়াক জয় কৰিছিল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "It disintegrated, and regional kingdoms rose, leading to the tripartite struggle for Kannauj.",
         "as": "ই ভাগি পৰিছিল, আঞ্চলিক ৰাজ্যসমূহ উত্থান হৈছিল, আৰু কান্যকুব্জৰ বাবে ত্ৰিপক্ষীয় সংঘাত আৰম্ভ হৈছিল।"
@@ -579,23 +593,23 @@
       },
       "options": [
         {
-          "en": "Kanchipuram",
-          "as": "কাঞ্চীপুৰম"
+          "en": "Manyakheta",
+          "as": "মান্যখেত"
         },
         {
           "en": "Vatapi",
           "as": "বাতাপি"
         },
         {
-          "en": "Manyakheta",
-          "as": "মান্যখেত"
+          "en": "Kanchipuram",
+          "as": "কাঞ্চীপুৰম"
         },
         {
           "en": "Tanjore",
           "as": "তাঞ্জোৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Kanchipuram.",
         "as": "কাঞ্চীপুৰম।"
@@ -612,8 +626,8 @@
       },
       "options": [
         {
-          "en": "Simhavishnu",
-          "as": "সিংহবিষ্ণু"
+          "en": "Nandivarman",
+          "as": "নন্দীবৰ্মন"
         },
         {
           "en": "Mahendravarman I",
@@ -624,11 +638,11 @@
           "as": "সিংহবৰ্মন"
         },
         {
-          "en": "Nandivarman",
-          "as": "নন্দীবৰ্মন"
+          "en": "Simhavishnu",
+          "as": "সিংহবিষ্ণু"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Simhavishnu (late 6th century AD).",
         "as": "সিংহবিষ্ণু (খ্ৰীষ্টাব্দ ষষ্ঠ শতিকাৰ শেষৰ ফালে)।"
@@ -645,8 +659,8 @@
       },
       "options": [
         {
-          "en": "Mahendravarman I",
-          "as": "মহেন্দ্ৰবৰ্মন প্ৰথম"
+          "en": "Narasimhavarman II",
+          "as": "নৰসিংহবৰ্মন দ্বিতীয়"
         },
         {
           "en": "Narasimhavarman I",
@@ -657,11 +671,11 @@
           "as": "সিংহবিষ্ণু"
         },
         {
-          "en": "Narasimhavarman II",
-          "as": "নৰসিংহবৰ্মন দ্বিতীয়"
+          "en": "Mahendravarman I",
+          "as": "মহেন্দ্ৰবৰ্মন প্ৰথম"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Mahendravarman I.",
         "as": "মহেন্দ্ৰবৰ্মন প্ৰথম।"
@@ -678,12 +692,12 @@
       },
       "options": [
         {
-          "en": "Narasimhavarman I",
-          "as": "নৰসিংহবৰ্মন প্ৰথম"
-        },
-        {
           "en": "Mahendravarman I",
           "as": "মহেন্দ্ৰবৰ্মন প্ৰথম"
+        },
+        {
+          "en": "Narasimhavarman I",
+          "as": "নৰসিংহবৰ্মন প্ৰথম"
         },
         {
           "en": "Rajasimha",
@@ -694,7 +708,7 @@
           "as": "নন্দীবৰ্মন দ্বিতীয়"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Narasimhavarman I (Mamalla).",
         "as": "নৰসিংহবৰ্মন প্ৰথম (মামল্ল)।"
@@ -777,12 +791,12 @@
       },
       "options": [
         {
-          "en": "Narasimhavarman II (Rajasimha)",
-          "as": "নৰসিংহবৰ্মন দ্বিতীয় (ৰাজসিংহ)"
-        },
-        {
           "en": "Narasimhavarman I (Mamalla)",
           "as": "নৰসিংহবৰ্মন প্ৰথম (মামল্ল)"
+        },
+        {
+          "en": "Narasimhavarman II (Rajasimha)",
+          "as": "নৰসিংহবৰ্মন দ্বিতীয় (ৰাজসিংহ)"
         },
         {
           "en": "Mahendravarman I",
@@ -793,7 +807,7 @@
           "as": "সিংহবিষ্ণু"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Narasimhavarman II (Rajasimha).",
         "as": "নৰসিংহবৰ্মন দ্বিতীয় (ৰাজসিংহ)।"
@@ -810,23 +824,23 @@
       },
       "options": [
         {
-          "en": "The Kailasanatha temple",
-          "as": "কৈলাশনাথ মন্দিৰ"
+          "en": "The Virupaksha temple",
+          "as": "বিৰূপাক্ষ মন্দিৰ"
         },
         {
           "en": "The Shore Temple",
           "as": "শোৰ মন্দিৰ"
         },
         {
-          "en": "The Virupaksha temple",
-          "as": "বিৰূপাক্ষ মন্দিৰ"
+          "en": "The Kailasanatha temple",
+          "as": "কৈলাশনাথ মন্দিৰ"
         },
         {
           "en": "The Kailasa temple at Ellora",
           "as": "এলোৰাৰ কৈলাস মন্দিৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "The Kailasanatha temple.",
         "as": "কৈলাশনাথ মন্দিৰ।"
@@ -843,23 +857,23 @@
       },
       "options": [
         {
-          "en": "A huge open-air rock-cut bas-relief sculpture",
-          "as": "এটা বিশাল খোলা আকাশৰ তলৰ শিলা-খোদিত ভাস্কৰ্য"
+          "en": "A rock-cut cave monastery with painted ceilings",
+          "as": "চিত্ৰিত চিলিংযুক্ত এটা শিলা-খোদিত গুহা বিহাৰ"
         },
         {
           "en": "A structural stone temple with a towering gopuram",
           "as": "বিশাল গোপুৰমযুক্ত এটা গাঁথনিগত শিলৰ মন্দিৰ"
         },
         {
-          "en": "A rock-cut cave monastery with painted ceilings",
-          "as": "চিত্ৰিত চিলিংযুক্ত এটা শিলা-খোদিত গুহা বিহাৰ"
+          "en": "A huge open-air rock-cut bas-relief sculpture",
+          "as": "এটা বিশাল খোলা আকাশৰ তলৰ শিলা-খোদিত ভাস্কৰ্য"
         },
         {
           "en": "A monolithic elephant statue",
           "as": "এটা মনোলিথিক হাতীৰ মূৰ্তি"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "A huge open-air rock-cut bas-relief sculpture (also called Arjuna's Penance).",
         "as": "এটা বিশাল খোলা আকাশৰ তলৰ শিলা-খোদিত ভাস্কৰ্য (যাক অৰ্জুনৰ তপস্যা বুলিও কোৱা হয়)।"
@@ -909,23 +923,23 @@
       },
       "options": [
         {
-          "en": "Shaivism, under the influence of Appar",
-          "as": "শৈৱ ধৰ্ম, অপ্পৰৰ প্ৰভাৱত"
+          "en": "Buddhism, under the influence of Hiuen Tsang",
+          "as": "বৌদ্ধ ধৰ্ম, হিউৱেন চাঙৰ প্ৰভাৱত"
         },
         {
           "en": "Vaishnavism, under the influence of the Alvars",
           "as": "বৈষ্ণৱ ধৰ্ম, আলৱাৰসকলৰ প্ৰভাৱত"
         },
         {
-          "en": "Buddhism, under the influence of Hiuen Tsang",
-          "as": "বৌদ্ধ ধৰ্ম, হিউৱেন চাঙৰ প্ৰভাৱত"
+          "en": "Shaivism, under the influence of Appar",
+          "as": "শৈৱ ধৰ্ম, অপ্পৰৰ প্ৰভাৱত"
         },
         {
           "en": "Jainism, under the influence of Bhadrabahu",
           "as": "জৈন ধৰ্ম, ভদ্ৰবাহুৰ প্ৰভাৱত"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Shaivism, under the influence of the saint Appar (Tirunavukkarasar).",
         "as": "শৈৱ ধৰ্ম, সাধু অপ্পৰ (তিৰুনাবুক্কৰাছৰ) প্ৰভাৱত।"
@@ -942,12 +956,12 @@
       },
       "options": [
         {
-          "en": "Bharavi and Dandin",
-          "as": "ভাৰৱী আৰু দণ্ডিন"
-        },
-        {
           "en": "Banabhatta and Ravikirti",
           "as": "বাণভট্ট আৰু ৰবিকীৰ্তি"
+        },
+        {
+          "en": "Bharavi and Dandin",
+          "as": "ভাৰৱী আৰু দণ্ডিন"
         },
         {
           "en": "Kalidasa and Bhasa",
@@ -958,7 +972,7 @@
           "as": "বিশাখদত্ত আৰু শূদ্ৰক"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Bharavi (Kiratarjuniya) and Dandin (Dashakumaracharita).",
         "as": "ভাৰৱী (কিৰাতাৰ্জুনীয়) আৰু দণ্ডিন (দশকুমাৰচৰিত)।"
@@ -975,8 +989,8 @@
       },
       "options": [
         {
-          "en": "A great centre of learning",
-          "as": "বিদ্যাৰ এটা মহান কেন্দ্ৰ"
+          "en": "A deserted ruin since Ashoka's time",
+          "as": "অশোকৰ সময়ৰ পৰা এটা পৰিত্যক্ত ভগ্নাৱশেষ"
         },
         {
           "en": "A sparsely populated frontier town",
@@ -987,11 +1001,11 @@
           "as": "কেৱল এটা সামৰিক ছাউনি"
         },
         {
-          "en": "A deserted ruin since Ashoka's time",
-          "as": "অশোকৰ সময়ৰ পৰা এটা পৰিত্যক্ত ভগ্নাৱশেষ"
+          "en": "A great centre of learning",
+          "as": "বিদ্যাৰ এটা মহান কেন্দ্ৰ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "He described Kanchipuram as a great centre of learning which he visited.",
         "as": "তেওঁ কাঞ্চীপুৰমক বিদ্যাৰ মহান কেন্দ্ৰ বুলি বৰ্ণনা কৰিছিল, যি তেওঁ ভ্ৰমণ কৰিছিল।"
@@ -1041,23 +1055,23 @@
       },
       "options": [
         {
-          "en": "Vatapi (modern Badami)",
-          "as": "বাতাপি (বৰ্তমান বদামী)"
+          "en": "Kanchipuram",
+          "as": "কাঞ্চীপুৰম"
         },
         {
           "en": "Manyakheta (modern Malkhed)",
           "as": "মান্যখেত (বৰ্তমান মালখেড)"
         },
         {
-          "en": "Kanchipuram",
-          "as": "কাঞ্চীপুৰম"
+          "en": "Vatapi (modern Badami)",
+          "as": "বাতাপি (বৰ্তমান বদামী)"
         },
         {
           "en": "Pattadakal",
           "as": "পট্টডকল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Vatapi (modern Badami), in Karnataka.",
         "as": "বাতাপি (বৰ্তমান বদামী), কৰ্ণাটকত।"
@@ -1074,23 +1088,23 @@
       },
       "options": [
         {
-          "en": "Pulakesin II",
-          "as": "পুলকেশি দ্বিতীয়"
+          "en": "Vikramaditya II",
+          "as": "বিক্ৰমাদিত্য দ্বিতীয়"
         },
         {
           "en": "Pulakesin I",
           "as": "পুলকেশি প্ৰথম"
         },
         {
-          "en": "Vikramaditya II",
-          "as": "বিক্ৰমাদিত্য দ্বিতীয়"
+          "en": "Pulakesin II",
+          "as": "পুলকেশি দ্বিতীয়"
         },
         {
           "en": "Kirtivarman II",
           "as": "কীৰ্তিবৰ্মন দ্বিতীয়"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Pulakesin II (610-642 AD).",
         "as": "পুলকেশি দ্বিতীয় (৬১০-৬৪২ খ্ৰীষ্টাব্দ)।"
@@ -1107,12 +1121,12 @@
       },
       "options": [
         {
-          "en": "Khusrau II",
-          "as": "খুছৰু দ্বিতীয়"
-        },
-        {
           "en": "Shapur II",
           "as": "শাপুৰ দ্বিতীয়"
+        },
+        {
+          "en": "Khusrau II",
+          "as": "খুছৰু দ্বিতীয়"
         },
         {
           "en": "Ardashir I",
@@ -1123,7 +1137,7 @@
           "as": "ইয়াজদেগিৰ্দ তৃতীয়"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Khusrau II, as depicted in an Ajanta cave painting.",
         "as": "খুছৰু দ্বিতীয়ই, যিটো অজন্তা গুহা চিত্ৰত চিত্ৰিত হৈছে।"
@@ -1173,12 +1187,12 @@
       },
       "options": [
         {
-          "en": "The cradle of Indian architecture",
-          "as": "ভাৰতীয় স্থাপত্যৰ কেঁচুৱা ঘৰ"
-        },
-        {
           "en": "The gateway to the Deccan",
           "as": "দাক্ষিণাত্যৰ দুৱাৰমুখ"
+        },
+        {
+          "en": "The cradle of Indian architecture",
+          "as": "ভাৰতীয় স্থাপত্যৰ কেঁচুৱা ঘৰ"
         },
         {
           "en": "The city of victory",
@@ -1189,7 +1203,7 @@
           "as": "ৰাষ্ট্ৰকূটসকলৰ বাসস্থান"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "The 'cradle of Indian architecture'.",
         "as": "ভাৰতীয় স্থাপত্যৰ 'কেঁচুৱা ঘৰ' (উদ্ভৱ স্থল)।"
@@ -1239,12 +1253,12 @@
       },
       "options": [
         {
-          "en": "Vikramaditya II",
-          "as": "বিক্ৰমাদিত্য দ্বিতীয়"
-        },
-        {
           "en": "Pulakesin II",
           "as": "পুলকেশি দ্বিতীয়"
+        },
+        {
+          "en": "Vikramaditya II",
+          "as": "বিক্ৰমাদিত্য দ্বিতীয়"
         },
         {
           "en": "Kirtivarman II",
@@ -1255,7 +1269,7 @@
           "as": "বিক্ৰমাদিত্য প্ৰথম"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Vikramaditya II, who also gifted wealth to the temples of Kanchi.",
         "as": "বিক্ৰমাদিত্য দ্বিতীয়, যি কাঞ্চী মন্দিৰসমূহলৈ ধন-সম্পদো দান কৰিছিল।"
@@ -1272,23 +1286,23 @@
       },
       "options": [
         {
-          "en": "Dantidurga",
-          "as": "দন্তিদুৰ্গ"
+          "en": "Amoghavarsha I",
+          "as": "অমোঘৱৰ্ষ প্ৰথম"
         },
         {
           "en": "Krishna I",
           "as": "কৃষ্ণ প্ৰথম"
         },
         {
-          "en": "Amoghavarsha I",
-          "as": "অমোঘৱৰ্ষ প্ৰথম"
+          "en": "Dantidurga",
+          "as": "দন্তিদুৰ্গ"
         },
         {
           "en": "Govinda III",
           "as": "গোবিন্দ তৃতীয়"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Dantidurga, the founder of the Rashtrakuta power.",
         "as": "ৰাষ্ট্ৰকূট শক্তিৰ প্ৰতিষ্ঠাতা দন্তিদুৰ্গই।"
@@ -1305,8 +1319,8 @@
       },
       "options": [
         {
-          "en": "One of the earliest Chalukyan temples, built in the early 5th century AD",
-          "as": "আটাইতকৈ পুৰণি চালুক্য মন্দিৰসমূহৰ এটা, ৫ম শতিকাৰ আৰম্ভণিতে নিৰ্মিত"
+          "en": "A Hoysala temple at Belur",
+          "as": "বেলুৰত এটা হোয়সল মন্দিৰ"
         },
         {
           "en": "A Rashtrakuta rock-cut temple at Ellora",
@@ -1317,11 +1331,11 @@
           "as": "মামল্লপুৰমত এটা পল্লৱ মনোলিথিক ৰথ"
         },
         {
-          "en": "A Hoysala temple at Belur",
-          "as": "বেলুৰত এটা হোয়সল মন্দিৰ"
+          "en": "One of the earliest Chalukyan temples, built in the early 5th century AD",
+          "as": "আটাইতকৈ পুৰণি চালুক্য মন্দিৰসমূহৰ এটা, ৫ম শতিকাৰ আৰম্ভণিতে নিৰ্মিত"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "One of the earliest Chalukyan temples, built in the early 5th century AD.",
         "as": "আটাইতকৈ পুৰণি চালুক্য মন্দিৰসমূহৰ এটা, খ্ৰীষ্টাব্দ পঞ্চম শতিকাৰ আৰম্ভণিতে নিৰ্মিত।"
@@ -1338,23 +1352,23 @@
       },
       "options": [
         {
-          "en": "Dantidurga",
-          "as": "দন্তিদুৰ্গ"
+          "en": "Amoghavarsha I",
+          "as": "অমোঘৱৰ্ষ প্ৰথম"
         },
         {
           "en": "Krishna I",
           "as": "কৃষ্ণ প্ৰথম"
         },
         {
-          "en": "Amoghavarsha I",
-          "as": "অমোঘৱৰ্ষ প্ৰথম"
+          "en": "Dantidurga",
+          "as": "দন্তিদুৰ্গ"
         },
         {
           "en": "Indra III",
           "as": "ইন্দ্ৰ তৃতীয়"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Dantidurga.",
         "as": "দন্তিদুৰ্গই।"
@@ -1404,8 +1418,8 @@
       },
       "options": [
         {
-          "en": "Krishna I",
-          "as": "কৃষ্ণ প্ৰথম"
+          "en": "Govinda III",
+          "as": "গোবিন্দ তৃতীয়"
         },
         {
           "en": "Dantidurga",
@@ -1416,11 +1430,11 @@
           "as": "অমোঘৱৰ্ষ প্ৰথম"
         },
         {
-          "en": "Govinda III",
-          "as": "গোবিন্দ তৃতীয়"
+          "en": "Krishna I",
+          "as": "কৃষ্ণ প্ৰথম"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Krishna I, as a monolithic rock-cut temple.",
         "as": "কৃষ্ণ প্ৰথমে, এটা মনোলিথিক শিলা-খোদিত মন্দিৰ হিচাপে।"
@@ -1437,12 +1451,12 @@
       },
       "options": [
         {
-          "en": "Amoghavarsha I",
-          "as": "অমোঘৱৰ্ষ প্ৰথম"
-        },
-        {
           "en": "Dantidurga",
           "as": "দন্তিদুৰ্গ"
+        },
+        {
+          "en": "Amoghavarsha I",
+          "as": "অমোঘৱৰ্ষ প্ৰথম"
         },
         {
           "en": "Krishna I",
@@ -1453,7 +1467,7 @@
           "as": "গোবিন্দ তৃতীয়"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "Amoghavarsha I (815-877 AD).",
         "as": "অমোঘৱৰ্ষ প্ৰথম (৮১৫-৮৭৭ খ্ৰীষ্টাব্দ)।"
@@ -1503,23 +1517,23 @@
       },
       "options": [
         {
-          "en": "Jainism",
-          "as": "জৈন ধৰ্ম"
+          "en": "Shaivism",
+          "as": "শৈৱ ধৰ্ম"
         },
         {
           "en": "Buddhism",
           "as": "বৌদ্ধ ধৰ্ম"
         },
         {
-          "en": "Shaivism",
-          "as": "শৈৱ ধৰ্ম"
+          "en": "Jainism",
+          "as": "জৈন ধৰ্ম"
         },
         {
           "en": "Vaishnavism",
           "as": "বৈষ্ণৱ ধৰ্ম"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Jainism.",
         "as": "জৈন ধৰ্ম।"
@@ -1536,23 +1550,23 @@
       },
       "options": [
         {
-          "en": "Sulaiman",
-          "as": "ছুলাইমান"
+          "en": "Ibn Battuta",
+          "as": "ইবনে বটুতা"
         },
         {
           "en": "Al-Masudi",
           "as": "আল-মাছুদী"
         },
         {
-          "en": "Ibn Battuta",
-          "as": "ইবনে বটুতা"
+          "en": "Sulaiman",
+          "as": "ছুলাইমান"
         },
         {
           "en": "Al-Biruni",
           "as": "আল-বিৰুনী"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "a": {
         "en": "Sulaiman (in the 9th century AD).",
         "as": "ছুলাইমান (খ্ৰীষ্টাব্দ নৱম শতাব্দীত)।"
@@ -1569,12 +1583,12 @@
       },
       "options": [
         {
-          "en": "The struggle of the Palas, Gurjara-Pratiharas and Rashtrakutas for Kannauj",
-          "as": "কান্যকুব্জৰ বাবে পাল, গুৰ্জৰ-প্ৰতীহাৰ আৰু ৰাষ্ট্ৰকূটসকলৰ সংঘাত"
-        },
-        {
           "en": "The struggle of the Cholas, Pandyas and Cheras for the Kaveri delta",
           "as": "কাবেৰী ডেল্টাৰ বাবে চোল, পাণ্ড্য আৰু চেৰসকলৰ সংঘাত"
+        },
+        {
+          "en": "The struggle of the Palas, Gurjara-Pratiharas and Rashtrakutas for Kannauj",
+          "as": "কান্যকুব্জৰ বাবে পাল, গুৰ্জৰ-প্ৰতীহাৰ আৰু ৰাষ্ট্ৰকূটসকলৰ সংঘাত"
         },
         {
           "en": "The struggle of the Mughals, Rajputs and Marathas for Delhi",
@@ -1585,7 +1599,7 @@
           "as": "দাক্ষিণাত্যৰ বাবে চালুক্য, পল্লৱ আৰু কদম্বসকলৰ সংঘাত"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "a": {
         "en": "The struggle among the Palas, Gurjara-Pratiharas and Rashtrakutas for the control of Kannauj.",
         "as": "কান্যকুব্জ (কানৌজ) নিয়ন্ত্ৰণৰ বাবে পাল, গুৰ্জৰ-প্ৰতীহাৰ আৰু ৰাষ্ট্ৰকূটসকলৰ মাজত হোৱা সংঘাত।"
@@ -1602,8 +1616,8 @@
       },
       "options": [
         {
-          "en": "The Gurjara-Pratiharas, the Palas and the Rashtrakutas",
-          "as": "গুৰ্জৰ-প্ৰতীহাৰ, পাল আৰু ৰাষ্ট্ৰকূট"
+          "en": "The Mauryas, the Shungas and the Kushanas",
+          "as": "মৌৰ্য, শুঙ্গ আৰু কুষাণ"
         },
         {
           "en": "The Cholas, the Cheras and the Pandyas",
@@ -1614,11 +1628,11 @@
           "as": "চালুক্য, পল্লৱ আৰু হোয়সল"
         },
         {
-          "en": "The Mauryas, the Shungas and the Kushanas",
-          "as": "মৌৰ্য, শুঙ্গ আৰু কুষাণ"
+          "en": "The Gurjara-Pratiharas, the Palas and the Rashtrakutas",
+          "as": "গুৰ্জৰ-প্ৰতীহাৰ, পাল আৰু ৰাষ্ট্ৰকূট"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "The Gurjara-Pratiharas (in the west), the Palas (in Bengal) and the Rashtrakutas (in the Deccan).",
         "as": "গুৰ্জৰ-প্ৰতীহাৰ (পশ্চিম), পাল (বংগ) আৰু ৰাষ্ট্ৰকূট (দাক্ষিণাত্য)।"
@@ -1635,8 +1649,8 @@
       },
       "options": [
         {
-          "en": "Banabhatta",
-          "as": "বাণভট্ট"
+          "en": "Bharavi",
+          "as": "ভাৰৱী"
         },
         {
           "en": "Ravikirti",
@@ -1647,11 +1661,11 @@
           "as": "দণ্ডিন"
         },
         {
-          "en": "Bharavi",
-          "as": "ভাৰৱী"
+          "en": "Banabhatta",
+          "as": "বাণভট্ট"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "a": {
         "en": "Banabhatta, the court poet of Harsha.",
         "as": "হৰ্ষৰ সভাকবি বাণভট্টে।"

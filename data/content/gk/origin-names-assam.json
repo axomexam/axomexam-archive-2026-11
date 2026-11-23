@@ -16,8 +16,8 @@
       "answer_as": "প্ৰাগ (পূব) আৰু জ্যোতিষ (জ্যোতিষশাস্ত্ৰ/তৰা)",
       "options": [
         {
-          "en": "Prag (east) and Jyotisha (astrology/stars)",
-          "as": "প্ৰাগ (পূব) আৰু জ্যোতিষ (জ্যোতিষশাস্ত্ৰ/তৰা)"
+          "en": "Parga (hill) and Jyoti (light)",
+          "as": "পৰ্গ (পাহাৰ) আৰু জ্যোতি (পোহৰ)"
         },
         {
           "en": "Pra (before) and Jya (land)",
@@ -28,11 +28,11 @@
           "as": "প্ৰজা (মানুহ) আৰু তিষ (স্থান)"
         },
         {
-          "en": "Parga (hill) and Jyoti (light)",
-          "as": "পৰ্গ (পাহাৰ) আৰু জ্যোতি (পোহৰ)"
+          "en": "Prag (east) and Jyotisha (astrology/stars)",
+          "as": "প্ৰাগ (পূব) আৰু জ্যোতিষ (জ্যোতিষশাস্ত্ৰ/তৰা)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Pragjyotisha is formed from 'prag' (east) and 'jyotisha' (astrology/stars), the city of eastern astrology.",
         "as": "'প্ৰাগ' (পূব) আৰু 'জ্যোতিষ' (জ্যোতিষশাস্ত্ৰ/তৰা)ৰ পৰা প্ৰাগজ্যোতিষ শব্দটো গঠিত, অৰ্থাৎ পূবৰ জ্যোতিষশাস্ত্ৰৰ নগৰ।"
@@ -50,19 +50,19 @@
           "as": "উদয় সূৰ্যৰ দেশ"
         },
         {
-          "en": "The city of eastern astrology",
-          "as": "পূব জ্যোতিষশাস্ত্ৰৰ নগৰ"
+          "en": "The garden of the gods",
+          "as": "দেৱতাসকলৰ উদ্যান"
         },
         {
           "en": "The fort of the east",
           "as": "পূবৰ দুৰ্গ"
         },
         {
-          "en": "The garden of the gods",
-          "as": "দেৱতাসকলৰ উদ্যান"
+          "en": "The city of eastern astrology",
+          "as": "পূব জ্যোতিষশাস্ত্ৰৰ নগৰ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Literally Pragjyotisha means the city/land of eastern astrology (eastern lights).",
         "as": "আক্ষৰিক অৰ্থত প্ৰাগজ্যোতিষ মানে পূবৰ জ্যোতিষশাস্ত্ৰৰ নগৰ বা দেশ।"
@@ -76,23 +76,23 @@
       "answer_as": "কামদেৱ (প্ৰেমৰ দেৱতা)",
       "options": [
         {
-          "en": "Kamadeva (the god of love)",
-          "as": "কামদেৱ (প্ৰেমৰ দেৱতা)"
+          "en": "Kama (work)",
+          "as": "কাম (কৰ্ম)"
         },
         {
           "en": "Kamakhya (the goddess)",
           "as": "কামাখ্যা (দেৱী)"
         },
         {
-          "en": "Kama (work)",
-          "as": "কাম (কৰ্ম)"
+          "en": "Kamadeva (the god of love)",
+          "as": "কামদেৱ (প্ৰেমৰ দেৱতা)"
         },
         {
           "en": "Kamal (lotus)",
           "as": "কমল (পদুম)"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Tradition connects the name Kamarupa with the legend of Kamadeva, the god of love.",
         "as": "পৰম্পৰাই কামৰূপ নামটো প্ৰেমৰ দেৱতা কামদেৱৰ কিংবদন্তিৰ সৈতে জড়িত কৰে।"
@@ -110,19 +110,19 @@
           "as": "কামৰ বলিদানৰ স্থান"
         },
         {
-          "en": "The place where Kama got his form (Kama + Rupa)",
-          "as": "কামে ৰূপ লাভ কৰা স্থান (কাম + ৰূপ)"
-        },
-        {
           "en": "The abode of Kama",
           "as": "কামৰ বাসস্থান"
+        },
+        {
+          "en": "The place where Kama got his form (Kama + Rupa)",
+          "as": "কামে ৰূপ লাভ কৰা স্থান (কাম + ৰূপ)"
         },
         {
           "en": "The city of Kama",
           "as": "কামৰ নগৰ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Kamarupa means the place where Kama (Kamadeva) regained his form (rupa) after being burnt by Shiva.",
         "as": "কামৰূপ মানে সেই স্থান য'ত শিৱৰ দ্বাৰা দগ্ধ হোৱাৰ পিছত কামদেৱে পুনৰ ৰূপ লাভ কৰিছিল।"
@@ -136,12 +136,12 @@
       "answer_as": "এলাহাবাদ স্তম্ভ শিলালিপি",
       "options": [
         {
-          "en": "The Nidhanpur copper plate",
-          "as": "নিধানপুৰ তাম্ৰপত্ৰ"
-        },
-        {
           "en": "The Allahabad pillar inscription",
           "as": "এলাহাবাদ স্তম্ভ শিলালিপি"
+        },
+        {
+          "en": "The Nidhanpur copper plate",
+          "as": "নিধানপুৰ তাম্ৰপত্ৰ"
         },
         {
           "en": "The Harshacharita",
@@ -152,7 +152,7 @@
           "as": "কালিকা পুৰাণ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The name Kamarupa appears first in the 4th-century Allahabad pillar inscription of Samudragupta.",
         "as": "কামৰূপ নাম প্ৰথমে ৪ৰ্থ শতাব্দীৰ সমুদ্ৰগুপ্তৰ এলাহাবাদ স্তম্ভ শিলালিপিত পোৱা যায়।"
@@ -170,19 +170,19 @@
           "as": "কেৱল ব্ৰহ্মপুত্ৰ উপত্যকা"
         },
         {
-          "en": "The Brahmaputra valley and parts of north Bengal",
-          "as": "ব্ৰহ্মপুত্ৰ উপত্যকা আৰু উত্তৰ বংগৰ কিছু অংশ"
-        },
-        {
           "en": "The whole of Bengal",
           "as": "সমগ্ৰ বংগ"
+        },
+        {
+          "en": "The Brahmaputra valley and parts of north Bengal",
+          "as": "ব্ৰহ্মপুত্ৰ উপত্যকা আৰু উত্তৰ বংগৰ কিছু অংশ"
         },
         {
           "en": "Only north Bengal",
           "as": "কেৱল উত্তৰ বংগ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Ancient Kamarupa roughly covered the Brahmaputra valley along with parts of north Bengal.",
         "as": "প্ৰাচীন কামৰূপে মোটামুটিভাৱে ব্ৰহ্মপুত্ৰ উপত্যকা আৰু উত্তৰ বংগৰ কিছু অংশ সামৰি লৈছিল।"
@@ -196,23 +196,23 @@
       "answer_as": "অসমা, অৰ্থাৎ অতুলনীয় বা অপৰাজেয়",
       "options": [
         {
-          "en": "Asama (unequalled or peerless)",
-          "as": "অসমা (অতুলনীয় বা অপৰাজেয়)"
+          "en": "Asam (uneven land)",
+          "as": "অসম (অসমতল ভূমি)"
         },
         {
           "en": "Ahom (the Shan people)",
           "as": "আহোম (শান জাতি)"
         },
         {
-          "en": "Asam (uneven land)",
-          "as": "অসম (অসমতল ভূমি)"
+          "en": "Asama (unequalled or peerless)",
+          "as": "অসমা (অতুলনীয় বা অপৰাজেয়)"
         },
         {
           "en": "Asha (hope)",
           "as": "আশা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The name Assam is generally derived from 'Asama', meaning unequalled or peerless.",
         "as": "অসম নাম সাধাৰণতে 'অসমা' শব্দৰ পৰা আহিছে, যাৰ অৰ্থ অতুলনীয় বা অপৰাজেয়।"
@@ -286,12 +286,12 @@
       "answer_as": "কালিকা পুৰাণ",
       "options": [
         {
-          "en": "The Vishnu Purana",
-          "as": "বিষ্ণু পুৰাণ"
-        },
-        {
           "en": "The Kalika Purana",
           "as": "কালিকা পুৰাণ"
+        },
+        {
+          "en": "The Vishnu Purana",
+          "as": "বিষ্ণু পুৰাণ"
         },
         {
           "en": "The Shiva Purana",
@@ -302,7 +302,7 @@
           "as": "গৰুড় পুৰাণ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Kalika Purana links the name Kamarupa with the demon Naraka and the Kamakhya tradition.",
         "as": "কালিকা পুৰাণে কামৰূপ নামটো নৰক অসুৰ আৰু কামাখ্যা পৰম্পৰাৰ সৈতে জড়িত কৰে।"
@@ -320,19 +320,19 @@
           "as": "কৰতোয়া নদী"
         },
         {
-          "en": "The Dikkaravasini (Dikshu) river",
-          "as": "দিক্কৰৱাসিনী (দিক্ষু) নদী"
+          "en": "The Manas river",
+          "as": "মানস নদী"
         },
         {
           "en": "The Brahmaputra river",
           "as": "ব্ৰহ্মপুত্ৰ নদী"
         },
         {
-          "en": "The Manas river",
-          "as": "মানস নদী"
+          "en": "The Dikkaravasini (Dikshu) river",
+          "as": "দিক্কৰৱাসিনী (দিক্ষু) নদী"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "According to the Kalika Purana the eastern boundary of Kamarupa was the Dikkaravasini (Dikshu) river.",
         "as": "কালিকা পুৰাণ অনুসৰি কামৰূপৰ পূব সীমা আছিল দিক্কৰৱাসিনী (দিক্ষু) নদী।"
@@ -346,8 +346,8 @@
       "answer_as": "কৰতোয়া নদী",
       "options": [
         {
-          "en": "The Karatoya river",
-          "as": "কৰতোয়া নদী"
+          "en": "The Subansiri river",
+          "as": "সুৱানশিৰি নদী"
         },
         {
           "en": "The Dikkaravasini river",
@@ -358,11 +358,11 @@
           "as": "ব্ৰহ্মপুত্ৰ নদী"
         },
         {
-          "en": "The Subansiri river",
-          "as": "সুৱানশিৰি নদী"
+          "en": "The Karatoya river",
+          "as": "কৰতোয়া নদী"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Yogini Tantra gives the western boundary of ancient Kamarupa as the Karatoya river.",
         "as": "যোগিনী তন্ত্ৰই প্ৰাচীন কামৰূপৰ পশ্চিম সীমা কৰতোয়া নদী বুলি উল্লেখ কৰিছে।"
@@ -376,12 +376,12 @@
       "answer_as": "কামতা ৰাজ্য (কামদেৱ পৰম্পৰাৰ লগত জড়িত)",
       "options": [
         {
-          "en": "The Kamata kingdom",
-          "as": "কামতা ৰাজ্য"
-        },
-        {
           "en": "The Kamakhya temple",
           "as": "কামাখ্যা মন্দিৰ"
+        },
+        {
+          "en": "The Kamata kingdom",
+          "as": "কামতা ৰাজ্য"
         },
         {
           "en": "The Kamrup district",
@@ -392,7 +392,7 @@
           "as": "কছাৰী ৰজাসকল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The term Kamata used for later Assam derives from the Kamata kingdom, linked to the Kamadeva tradition.",
         "as": "পিছৰ অসমৰ বাবে ব্যৱহৃত 'কামতা' শব্দ কামদেৱ পৰম্পৰাৰ সৈতে জড়িত কামতা ৰাজ্যৰ পৰা আহিছে।"
@@ -406,8 +406,8 @@
       "answer_as": "প্ৰাগজ্যোতিষপুৰ",
       "options": [
         {
-          "en": "Pragjyotishpur",
-          "as": "প্ৰাগজ্যোতিষপুৰ"
+          "en": "Kamata",
+          "as": "কামতা"
         },
         {
           "en": "Sonitpur",
@@ -418,11 +418,11 @@
           "as": "কুণ্ডিল"
         },
         {
-          "en": "Kamata",
-          "as": "কামতা"
+          "en": "Pragjyotishpur",
+          "as": "প্ৰাগজ্যোতিষপুৰ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "In ancient texts Pragjyotisha was also known as Pragjyotishpur.",
         "as": "প্ৰাচীন গ্ৰন্থত প্ৰাগজ্যোতিষক প্ৰাগজ্যোতিষপুৰ বুলিও জনা গৈছিল।"
@@ -556,12 +556,12 @@
       "answer_as": "লৌহিত অৰ্থাৎ ৰঙা (নদীৰ ৰঙা পানী) বাবে",
       "options": [
         {
-          "en": "It flows towards the west",
-          "as": "ই পশ্চিমলৈ বৈ যায়"
-        },
-        {
           "en": "Lauhit means red (reddish waters)",
           "as": "লৌহিত অৰ্থাৎ ৰঙা পানী"
+        },
+        {
+          "en": "It flows towards the west",
+          "as": "ই পশ্চিমলৈ বৈ যায়"
         },
         {
           "en": "It is rich in fish",
@@ -572,7 +572,7 @@
           "as": "ই অতি গভীৰ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Brahmaputra is called Lohitya or Luit because 'lauhit' means red, referring to its reddish waters.",
         "as": "ব্ৰহ্মপুত্ৰক লৌহিত্য বা লুইত বোলা হয় কাৰণ 'লৌহিত' অৰ্থ ৰঙা, নদীৰ ৰঙা পানীৰ কথা বুজায়।"

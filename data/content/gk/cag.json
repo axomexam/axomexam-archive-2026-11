@@ -27,23 +27,23 @@
       "answer_as": "অনুচ্ছেদ ১৪৮",
       "options": [
         {
-          "en": "Article 148",
-          "as": "অনুচ্ছেদ ১৪৮"
+          "en": "Article 150",
+          "as": "অনুচ্ছেদ ১৫০"
         },
         {
           "en": "Article 149",
           "as": "অনুচ্ছেদ ১৪৯"
         },
         {
-          "en": "Article 150",
-          "as": "অনুচ্ছেদ ১৫০"
+          "en": "Article 148",
+          "as": "অনুচ্ছেদ ১৪৮"
         },
         {
           "en": "Article 151",
           "as": "অনুচ্ছেদ ১৫১"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Comptroller and Auditor General of India is established under Article 148.",
         "as": "ভাৰতৰ নিয়ন্ত্ৰক-মহানিৰীক্ষক অনুচ্ছেদ ১৪৮ অধীনত স্থাপিত।"
@@ -60,19 +60,19 @@
           "as": "প্ৰধানমন্ত্ৰী"
         },
         {
-          "en": "The President of India",
-          "as": "ভাৰতৰ ৰাষ্ট্ৰপতি"
-        },
-        {
           "en": "The Parliament",
           "as": "সংসদ"
+        },
+        {
+          "en": "The President of India",
+          "as": "ভাৰতৰ ৰাষ্ট্ৰপতি"
         },
         {
           "en": "The Chief Justice of India",
           "as": "ভাৰতৰ প্ৰধান ন্যায়াধীশ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Comptroller and Auditor General of India is appointed by the President of India.",
         "as": "ভাৰতৰ নিয়ন্ত্ৰক-মহানিৰীক্ষক ভাৰতৰ ৰাষ্ট্ৰপতিয়ে নিযুক্তি দিয়ে।"
@@ -85,12 +85,12 @@
       "answer_as": "কেন্দ্ৰ, ৰাজ্য চৰকাৰ আৰু ৰাজহুৱা নিগমসমূহৰ হিচাপ-নিকাচ পৰীক্ষা",
       "options": [
         {
-          "en": "Making laws",
-          "as": "আইন প্ৰণয়ন"
-        },
-        {
           "en": "Auditing the accounts of the Union, State Governments and public corporations",
           "as": "কেন্দ্ৰ, ৰাজ্য চৰকাৰ আৰু ৰাজহুৱা নিগমসমূহৰ হিচাপ-নিকাচ পৰীক্ষা"
+        },
+        {
+          "en": "Making laws",
+          "as": "আইন প্ৰণয়ন"
         },
         {
           "en": "Conducting elections",
@@ -101,7 +101,7 @@
           "as": "কৰ সংগ্ৰহ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The main function of the CAG is to audit the accounts of the Union Government, State Governments and public corporations.",
         "as": "চিএজিৰ মূল কাৰ্য হৈছে কেন্দ্ৰীয় চৰকাৰ, ৰাজ্য চৰকাৰ আৰু ৰাজহুৱা নিগমসমূহৰ হিচাপ-নিকাচ পৰীক্ষা কৰা।"
@@ -118,19 +118,19 @@
           "as": "পাঁচ বছৰ বা ৬০ বছৰ বয়সলৈ"
         },
         {
-          "en": "Six years or till the age of 65",
-          "as": "ছয় বছৰ বা ৬৫ বছৰ বয়সলৈ"
+          "en": "Till the age of 62",
+          "as": "৬২ বছৰ বয়সলৈ"
         },
         {
           "en": "Seven years or till the age of 70",
           "as": "সাত বছৰ বা ৭০ বছৰ বয়সলৈ"
         },
         {
-          "en": "Till the age of 62",
-          "as": "৬২ বছৰ বয়সলৈ"
+          "en": "Six years or till the age of 65",
+          "as": "ছয় বছৰ বা ৬৫ বছৰ বয়সলৈ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The CAG holds office for six years or till the age of 65 years, whichever is earlier.",
         "as": "চিএজিয়ে ছয় বছৰ বা ৬৫ বছৰ বয়সলৈ, যিটো আগে হয়, কাৰ্যভাৰ গ্ৰহণ কৰে।"
@@ -143,12 +143,12 @@
       "answer_as": "উচ্চতম ন্যায়ালয়ৰ ন্যায়াধীশৰ দৰে",
       "options": [
         {
-          "en": "By the President at will",
-          "as": "ৰাষ্ট্ৰপতিয়ে ইচ্ছামতে"
-        },
-        {
           "en": "In the same manner as a judge of the Supreme Court",
           "as": "উচ্চতম ন্যায়ালয়ৰ ন্যায়াধীশৰ দৰে"
+        },
+        {
+          "en": "By the President at will",
+          "as": "ৰাষ্ট্ৰপতিয়ে ইচ্ছামতে"
         },
         {
           "en": "By the Prime Minister",
@@ -159,7 +159,7 @@
           "as": "সংসদৰ সৰল সংখ্যাগৰিষ্ঠতাৰে"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The CAG can be removed in the same manner as a judge of the Supreme Court, i.e., by impeachment.",
         "as": "চিএজিক উচ্চতম ন্যায়ালয়ৰ ন্যায়াধীশৰ দৰে, অৰ্থাৎ মহা-অভিযোগ পদ্ধতিৰ দ্বাৰা আঁতৰাব পাৰি।"
@@ -172,23 +172,23 @@
       "answer_as": "ভাৰতৰ ৰাষ্ট্ৰপতি",
       "options": [
         {
-          "en": "The President of India",
-          "as": "ভাৰতৰ ৰাষ্ট্ৰপতি"
+          "en": "The Vice-President",
+          "as": "উপ-ৰাষ্ট্ৰপতি"
         },
         {
           "en": "The Chief Justice of India",
           "as": "ভাৰতৰ প্ৰধান ন্যায়াধীশ"
         },
         {
-          "en": "The Vice-President",
-          "as": "উপ-ৰাষ্ট্ৰপতি"
+          "en": "The President of India",
+          "as": "ভাৰতৰ ৰাষ্ট্ৰপতি"
         },
         {
           "en": "The Speaker",
           "as": "অধ্যক্ষ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The President of India administers the oath of office to the CAG.",
         "as": "ভাৰতৰ ৰাষ্ট্ৰপতিয়ে চিএজিক কাৰ্যভাৰৰ শপত বাক্য পাঠ কৰায়।"
@@ -201,12 +201,12 @@
       "answer_as": "কেন্দ্ৰৰ বাবে ৰাষ্ট্ৰপতি আৰু ৰাজ্যসমূহৰ বাবে ৰাজ্যপাল",
       "options": [
         {
-          "en": "The President for the Union and the Governors for the states",
-          "as": "কেন্দ্ৰৰ বাবে ৰাষ্ট্ৰপতি আৰু ৰাজ্যসমূহৰ বাবে ৰাজ্যপাল"
-        },
-        {
           "en": "Only the Parliament",
           "as": "কেৱল সংসদ"
+        },
+        {
+          "en": "The President for the Union and the Governors for the states",
+          "as": "কেন্দ্ৰৰ বাবে ৰাষ্ট্ৰপতি আৰু ৰাজ্যসমূহৰ বাবে ৰাজ্যপাল"
         },
         {
           "en": "The Prime Minister",
@@ -217,7 +217,7 @@
           "as": "বিত্তমন্ত্ৰী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The CAG submits his report to the President for the Union and to the Governors for the states.",
         "as": "চিএজিয়ে কেন্দ্ৰৰ বাবে ৰাষ্ট্ৰপতিক আৰু ৰাজ্যসমূহৰ বাবে ৰাজ্যপালসকলক নিজৰ প্ৰতিবেদন দাখিল কৰে।"
@@ -230,12 +230,12 @@
       "answer_as": "ৰাজহুৱা হিচাপ-নিকাচ সমিতি (পিএচি)",
       "options": [
         {
-          "en": "The Public Accounts Committee (PAC)",
-          "as": "ৰাজহুৱা হিচাপ-নিকাচ সমিতি (পিএচি)"
-        },
-        {
           "en": "The Estimates Committee",
           "as": "প্ৰাক্কলন সমিতি"
+        },
+        {
+          "en": "The Public Accounts Committee (PAC)",
+          "as": "ৰাজহুৱা হিচাপ-নিকাচ সমিতি (পিএচি)"
         },
         {
           "en": "The Committee on Public Undertakings",
@@ -246,7 +246,7 @@
           "as": "ব্যৱসায়িক পৰামৰ্শদাতা সমিতি"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Public Accounts Committee (PAC) of Parliament examines the CAG report on the Union accounts.",
         "as": "সংসদৰ ৰাজহুৱা হিচাপ-নিকাচ সমিতি (পিএচি)য়ে কেন্দ্ৰীয় হিচাপৰ চিএজি প্ৰতিবেদন পৰীক্ষা কৰে।"
@@ -263,19 +263,19 @@
           "as": "আৰবিআই গৱৰ্ণৰ"
         },
         {
-          "en": "The Comptroller and Auditor General",
-          "as": "নিয়ন্ত্ৰক-মহানিৰীক্ষক"
+          "en": "The President",
+          "as": "ৰাষ্ট্ৰপতি"
         },
         {
           "en": "The Finance Minister",
           "as": "বিত্তমন্ত্ৰী"
         },
         {
-          "en": "The President",
-          "as": "ৰাষ্ট্ৰপতি"
+          "en": "The Comptroller and Auditor General",
+          "as": "নিয়ন্ত্ৰক-মহানিৰীক্ষক"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The CAG is known as the guardian of the public purse in India.",
         "as": "চিএজিক ভাৰতত ৰাজহুৱা ধনৰক্ষক বুলি জনা যায়।"
@@ -292,19 +292,19 @@
           "as": "ভাৰতৰ প্ৰধান ন্যায়াধীশৰ সমান"
         },
         {
-          "en": "Equal to a judge of the Supreme Court",
-          "as": "উচ্চতম ন্যায়ালয়ৰ ন্যায়াধীশৰ সমান"
+          "en": "Equal to a Cabinet Secretary",
+          "as": "কেবিনেট সচিবৰ সমান"
         },
         {
           "en": "Equal to a High Court judge",
           "as": "উচ্চ ন্যায়ালয়ৰ ন্যায়াধীশৰ সমান"
         },
         {
-          "en": "Equal to a Cabinet Secretary",
-          "as": "কেবিনেট সচিবৰ সমান"
+          "en": "Equal to a judge of the Supreme Court",
+          "as": "উচ্চতম ন্যায়ালয়ৰ ন্যায়াধীশৰ সমান"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The salary of the CAG is equal to the salary of a judge of the Supreme Court.",
         "as": "চিএজিৰ দৰমহা উচ্চতম ন্যায়ালয়ৰ ন্যায়াধীশৰ দৰমহাৰ সমান।"
@@ -317,23 +317,23 @@
       "answer_as": "ভি. নাৰহৰি ৰাও",
       "options": [
         {
-          "en": "V. Narahari Rao",
-          "as": "ভি. নাৰহৰি ৰাও"
+          "en": "A.K. Roy",
+          "as": "এ.কে. ৰয়"
         },
         {
           "en": "T.N. Chaturvedi",
           "as": "টি.এন. চতুৰ্বেদী"
         },
         {
-          "en": "A.K. Roy",
-          "as": "এ.কে. ৰয়"
+          "en": "V. Narahari Rao",
+          "as": "ভি. নাৰহৰি ৰাও"
         },
         {
           "en": "C. Subramaniam",
           "as": "চি. সুব্ৰমণ্যম"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "V. Narahari Rao was the first Comptroller and Auditor General of India.",
         "as": "ভি. নাৰহৰি ৰাও ভাৰতৰ প্ৰথম নিয়ন্ত্ৰক-মহানিৰীক্ষক আছিল।"
@@ -350,19 +350,19 @@
           "as": "হয়, যিকোনো পদ"
         },
         {
-          "en": "No, he is not eligible for any further office under the Government of India or a state",
-          "as": "নাই, ভাৰত চৰকাৰ বা ৰাজ্যৰ অধীনত অধিক কোনো পদৰ যোগ্য নহয়"
+          "en": "Only as Ambassador",
+          "as": "কেৱল ৰাষ্ট্ৰদূত হিচাপে"
         },
         {
           "en": "Only as Governor",
           "as": "কেৱল ৰাজ্যপাল হিচাপে"
         },
         {
-          "en": "Only as Ambassador",
-          "as": "কেৱল ৰাষ্ট্ৰদূত হিচাপে"
+          "en": "No, he is not eligible for any further office under the Government of India or a state",
+          "as": "নাই, ভাৰত চৰকাৰ বা ৰাজ্যৰ অধীনত অধিক কোনো পদৰ যোগ্য নহয়"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "After his term the CAG is not eligible for any further office under the Government of India or a state.",
         "as": "কাৰ্যকাল শেষ হোৱাৰ পিছত চিএজি ভাৰত চৰকাৰ বা ৰাজ্যৰ অধীনত অধিক কোনো পদৰ যোগ্য নহয়।"
@@ -437,19 +437,19 @@
           "as": "পাঁচ বছৰ"
         },
         {
-          "en": "Six years or till the age of 65, whichever is earlier",
-          "as": "ছয় বছৰ বা ৬৫ বছৰ বয়সলৈ, যিটো আগে হয়"
+          "en": "Seven years",
+          "as": "সাত বছৰ"
         },
         {
           "en": "Till the age of 60",
           "as": "৬০ বছৰ বয়সলৈ"
         },
         {
-          "en": "Seven years",
-          "as": "সাত বছৰ"
+          "en": "Six years or till the age of 65, whichever is earlier",
+          "as": "ছয় বছৰ বা ৬৫ বছৰ বয়সলৈ, যিটো আগে হয়"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The term of office of the CAG is six years from the date of assuming office, or till the age of 65, whichever is earlier.",
         "as": "চিএজিৰ কাৰ্যকাল কাৰ্যভাৰ গ্ৰহণৰ তাৰিখৰ পৰা ছয় বছৰ, বা ৬৫ বছৰ বয়সলৈ, যিটো আগে হয়।"
@@ -462,23 +462,23 @@
       "answer_as": "হয়, তেওঁ স্থানীয় সংস্থাসমূহৰ হিচাপ-নিকাচও পৰীক্ষা কৰিব পাৰে",
       "options": [
         {
-          "en": "Yes",
-          "as": "হয়"
+          "en": "Only with state consent",
+          "as": "কেৱল ৰাজ্যৰ সন্মতি সাপেক্ষে"
         },
         {
           "en": "No",
           "as": "নহয়"
         },
         {
-          "en": "Only with state consent",
-          "as": "কেৱল ৰাজ্যৰ সন্মতি সাপেক্ষে"
+          "en": "Yes",
+          "as": "হয়"
         },
         {
           "en": "Only municipal corporations",
           "as": "কেৱল নগৰ নিগমসমূহ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The CAG can audit the accounts of local bodies as well.",
         "as": "চিএজিয়ে স্থানীয় সংস্থাসমূহৰ হিচাপ-নিকাচও পৰীক্ষা কৰিব পাৰে।"
@@ -491,12 +491,12 @@
       "answer_as": "ৰাজ্যপালে",
       "options": [
         {
-          "en": "The Governor of the state",
-          "as": "ৰাজ্যৰ ৰাজ্যপাল"
-        },
-        {
           "en": "The Chief Minister",
           "as": "মুখ্যমন্ত্ৰী"
+        },
+        {
+          "en": "The Governor of the state",
+          "as": "ৰাজ্যৰ ৰাজ্যপাল"
         },
         {
           "en": "The Speaker",
@@ -507,7 +507,7 @@
           "as": "প্ৰধান ন্যায়াধীশ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Governor presents the CAG report on state accounts in the State Legislature.",
         "as": "ৰাজ্যপালে ৰাজ্যৰ হিচাপৰ চিএজি প্ৰতিবেদন ৰাজ্য বিধানমণ্ডলত দাখিল কৰে।"
@@ -549,12 +549,12 @@
       "answer_as": "আৰ্থিক অডিট, অনুপালন অডিট আৰু কাৰ্য্যদক্ষতা অডিট",
       "options": [
         {
-          "en": "Internal, external and secret audit",
-          "as": "আভ্যন্তৰীণ, বাহ্যিক আৰু গোপন অডিট"
-        },
-        {
           "en": "Financial, compliance and performance audit",
           "as": "আৰ্থিক, অনুপালন আৰু কাৰ্য্যদক্ষতা অডিট"
+        },
+        {
+          "en": "Internal, external and secret audit",
+          "as": "আভ্যন্তৰীণ, বাহ্যিক আৰু গোপন অডিট"
         },
         {
           "en": "Cash, accrual and hybrid audit",
@@ -565,7 +565,7 @@
           "as": "বাৰ্ষিক, ষান্মাসিক আৰু ত্ৰৈমাসিক অডিট"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The CAG conducts financial audit, compliance audit and performance audit.",
         "as": "চিএজিয়ে আৰ্থিক অডিট, অনুপালন অডিট আৰু কাৰ্য্যদক্ষতা অডিট চলায়।"
@@ -640,19 +640,19 @@
           "as": "ৰাষ্ট্ৰপতি"
         },
         {
-          "en": "The Comptroller and Auditor General",
-          "as": "নিয়ন্ত্ৰক-মহানিৰীক্ষক"
+          "en": "The RBI",
+          "as": "আৰবিআই"
         },
         {
           "en": "The Prime Minister",
           "as": "প্ৰধানমন্ত্ৰী"
         },
         {
-          "en": "The RBI",
-          "as": "আৰবিআই"
+          "en": "The Comptroller and Auditor General",
+          "as": "নিয়ন্ত্ৰক-মহানিৰীক্ষক"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The CAG is known as the 'Watchdog of the Public Purse'.",
         "as": "চিএজিক 'ৰাজহুৱা ধনৰ প্ৰহৰী' বুলি জনা যায়।"
@@ -665,12 +665,12 @@
       "answer_as": "ই পৰীক্ষাৰ বাবে সংসদত দাখিল কৰা হয়",
       "options": [
         {
-          "en": "It is laid before the Parliament for examination",
-          "as": "ই পৰীক্ষাৰ বাবে সংসদত দাখিল কৰা হয়"
-        },
-        {
           "en": "It is kept secret",
           "as": "ই গোপন ৰখা হয়"
+        },
+        {
+          "en": "It is laid before the Parliament for examination",
+          "as": "ই পৰীক্ষাৰ বাবে সংসদত দাখিল কৰা হয়"
         },
         {
           "en": "It is sent to the PM only",
@@ -681,7 +681,7 @@
           "as": "ই কেৱল ৰাজপত্ৰত প্ৰকাশ কৰা হয়"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "After submission to the President the CAG report is laid before the Parliament for examination.",
         "as": "ৰাষ্ট্ৰপতিক দাখিল কৰাৰ পিছত চিএজি প্ৰতিবেদন পৰীক্ষাৰ বাবে সংসদত দাখিল কৰা হয়।"
@@ -694,23 +694,23 @@
       "answer_as": "নাই, চিএজিয়ে নিজ ক্ষমতাত অডিট কৰিব পাৰে",
       "options": [
         {
-          "en": "Yes, of the President",
-          "as": "হয়, ৰাষ্ট্ৰপতিৰ"
+          "en": "No, on his own authority",
+          "as": "নাই, তেওঁৰ নিজ ক্ষমতাত"
         },
         {
           "en": "Yes, of Parliament",
           "as": "হয়, সংসদৰ"
         },
         {
-          "en": "No, on his own authority",
-          "as": "নাই, তেওঁৰ নিজ ক্ষমতাত"
+          "en": "Yes, of the President",
+          "as": "হয়, ৰাষ্ট্ৰপতিৰ"
         },
         {
           "en": "Yes, of the Finance Ministry",
           "as": "হয়, বিত্ত মন্ত্ৰালয়ৰ"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The CAG does not require the consent of any authority to audit government accounts.",
         "as": "চৰকাৰী হিচাপ অডিট কৰিবলৈ চিএজিয়ে কোনো কৰ্তৃপক্ষৰ সন্মতিৰ প্ৰয়োজন নাই।"
@@ -723,12 +723,12 @@
       "answer_as": "অনুচ্ছেদ ১৪৯",
       "options": [
         {
-          "en": "Article 148",
-          "as": "অনুচ্ছেদ ১৪৮"
-        },
-        {
           "en": "Article 149",
           "as": "অনুচ্ছেদ ১৪৯"
+        },
+        {
+          "en": "Article 148",
+          "as": "অনুচ্ছেদ ১৪৮"
         },
         {
           "en": "Article 150",
@@ -739,7 +739,7 @@
           "as": "অনুচ্ছেদ ১৫১"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Article 149 empowers the CAG to audit the accounts of the states.",
         "as": "অনুচ্ছেদ ১৪৯-য়ে চিএজিক ৰাজ্যসমূহৰ হিচাপ অডিট কৰাৰ ক্ষমতা দিয়ে।"

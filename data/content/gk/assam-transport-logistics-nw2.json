@@ -33,8 +33,8 @@
       },
       "options": [
         {
-          "en": "NH-27 (earlier NH-31)",
-          "as": "NH-27 (পূৰ্বে NH-31)"
+          "en": "NH-6",
+          "as": "NH-6"
         },
         {
           "en": "NH-37",
@@ -45,11 +45,11 @@
           "as": "NH-15"
         },
         {
-          "en": "NH-6",
-          "as": "NH-6"
+          "en": "NH-27 (earlier NH-31)",
+          "as": "NH-27 (পূৰ্বে NH-31)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "NH-27 (formerly NH-31) forms the East-West Corridor passing through Assam.",
         "as": "NH-27 (পূৰ্বে NH-31) অসমৰ মাজেৰে পাৰ হৈ যোৱা পূব-পশ্চিম কৰিডৰ গঠন কৰে।"
@@ -66,23 +66,23 @@
       },
       "options": [
         {
-          "en": "About 891 km from Dhubri to Sadiya",
-          "as": "ধুবুৰীৰ পৰা শদিয়াৰ মাজত প্ৰায় ৮৯১ কিঃমিঃ"
+          "en": "About 1200 km",
+          "as": "প্ৰায় ১২০০ কিঃমিঃ"
         },
         {
           "en": "About 500 km",
           "as": "প্ৰায় ৫০০ কিঃমিঃ"
         },
         {
-          "en": "About 1200 km",
-          "as": "প্ৰায় ১২০০ কিঃমিঃ"
+          "en": "About 891 km from Dhubri to Sadiya",
+          "as": "ধুবুৰীৰ পৰা শদিয়াৰ মাজত প্ৰায় ৮৯১ কিঃমিঃ"
         },
         {
           "en": "About 300 km",
           "as": "প্ৰায় ৩০০ কিঃমিঃ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "National Waterway-2 covers about 891 km on the Brahmaputra from Dhubri to Sadiya.",
         "as": "ৰাষ্ট্ৰীয় জলপথ-২ য়ে ব্ৰহ্মপুত্ৰত ধুবুৰীৰ পৰা শদিয়ালৈ প্ৰায় ৮৯১ কিঃমিঃ সামৰি লয়।"
@@ -132,23 +132,23 @@
       },
       "options": [
         {
-          "en": "The Bogibeel Bridge",
-          "as": "বগীবীল দলং"
+          "en": "The Kolia Bhomora Setu",
+          "as": "কলীয়া ভোমোৰা সেতু"
         },
         {
           "en": "The Saraighat Bridge",
           "as": "শৰাইঘাট দলং"
         },
         {
-          "en": "The Kolia Bhomora Setu",
-          "as": "কলীয়া ভোমোৰা সেতু"
+          "en": "The Bogibeel Bridge",
+          "as": "বগীবীল দলং"
         },
         {
           "en": "The Naranarayan Setu",
           "as": "নৰনাৰায়ণ সেতু"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Bogibeel Bridge (about 4.94 km) is India's longest rail-cum-road bridge.",
         "as": "বগীবীল দলং (প্ৰায় ৪.৯৪ কিঃমিঃ) ভাৰতৰ আটাইতকৈ দীঘল ৰে'ল-সহ-পথ দলং।"
@@ -165,8 +165,8 @@
       },
       "options": [
         {
-          "en": "The Saraighat Bridge",
-          "as": "শৰাইঘাট দলং"
+          "en": "The Kolia Bhomora Setu",
+          "as": "কলীয়া ভোমোৰা সেতু"
         },
         {
           "en": "The Bogibeel Bridge",
@@ -177,11 +177,11 @@
           "as": "নৰনাৰায়ণ সেতু"
         },
         {
-          "en": "The Kolia Bhomora Setu",
-          "as": "কলীয়া ভোমোৰা সেতু"
+          "en": "The Saraighat Bridge",
+          "as": "শৰাইঘাট দলং"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Saraighat Bridge over the Brahmaputra is the first road-rail bridge connecting Guwahati with North Guwahati.",
         "as": "ব্ৰহ্মপুত্ৰৰ ওপৰত শৰাইঘাট দলঙে গুৱাহাটী আৰু উত্তৰ গুৱাহাটীক সংযুক্ত কৰে।"
@@ -231,23 +231,23 @@
       },
       "options": [
         {
-          "en": "Lokpriya Gopinath Bordoloi International Airport, Borjhar",
-          "as": "লোকপ্ৰিয় গোপীনাথ বৰদলৈ আন্তঃৰাষ্ট্ৰীয় বিমানবন্দৰ, বৰঝাৰ"
+          "en": "Silchar Airport",
+          "as": "শিলচৰ বিমানবন্দৰ"
         },
         {
           "en": "Dibrugarh Airport",
           "as": "ডিব্ৰুগড় বিমানবন্দৰ"
         },
         {
-          "en": "Silchar Airport",
-          "as": "শিলচৰ বিমানবন্দৰ"
+          "en": "Lokpriya Gopinath Bordoloi International Airport, Borjhar",
+          "as": "লোকপ্ৰিয় গোপীনাথ বৰদলৈ আন্তঃৰাষ্ট্ৰীয় বিমানবন্দৰ, বৰঝাৰ"
         },
         {
           "en": "Jorhat Airport",
           "as": "যোৰহাট বিমানবন্দৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Lokpriya Gopinath Bordoloi International Airport at Borjhar, Guwahati, is the airport in Assam that serves international flights.",
         "as": "গুৱাহাটীৰ বৰঝাৰত থকা লোকপ্ৰিয় গোপীনাথ বৰদলৈ আন্তঃৰাষ্ট্ৰীয় বিমানবন্দৰে আন্তঃৰাষ্ট্ৰীয় বিমান সেৱা আগবঢ়ায়।"
@@ -264,8 +264,8 @@
       },
       "options": [
         {
-          "en": "Kumbhirgram Air Force Station near Silchar",
-          "as": "শিলচৰৰ ওচৰৰ কুম্ভীৰগ্ৰাম বায়ু সেনা ঘাঁটি"
+          "en": "Salonibari Airport",
+          "as": "শালনীবাৰী বিমানবন্দৰ"
         },
         {
           "en": "Mohanbari Airport",
@@ -276,11 +276,11 @@
           "as": "ৰৌৰিয়াহ বিমানবন্দৰ"
         },
         {
-          "en": "Salonibari Airport",
-          "as": "শালনীবাৰী বিমানবন্দৰ"
+          "en": "Kumbhirgram Air Force Station near Silchar",
+          "as": "শিলচৰৰ ওচৰৰ কুম্ভীৰগ্ৰাম বায়ু সেনা ঘাঁটি"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Kumbhirgram near Silchar serves as the second international airport for Assam.",
         "as": "শিলচৰৰ ওচৰৰ কুম্ভীৰগ্ৰামে অসমৰ দ্বিতীয় আন্তঃৰাষ্ট্ৰীয় বিমানবন্দৰ হিচাপে সেৱা আগবঢ়ায়।"
@@ -297,23 +297,23 @@
       },
       "options": [
         {
-          "en": "The Northeast Frontier Railway (NFR)",
-          "as": "উত্তৰ-পূব সীমান্ত ৰে'লৱে (NFR)"
+          "en": "Northeast Railway",
+          "as": "উত্তৰ-পূব ৰে'লৱে"
         },
         {
           "en": "Eastern Railway",
           "as": "পূব ৰে'লৱে"
         },
         {
-          "en": "Northeast Railway",
-          "as": "উত্তৰ-পূব ৰে'লৱে"
+          "en": "The Northeast Frontier Railway (NFR)",
+          "as": "উত্তৰ-পূব সীমান্ত ৰে'লৱে (NFR)"
         },
         {
           "en": "Northern Frontier Railway",
           "as": "উত্তৰ সীমান্ত ৰে'লৱে"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Northeast Frontier Railway, headquartered at Maligaon, Guwahati, covers Assam's rail network.",
         "as": "মালিগাঁও, গুৱাহাটীত মুখ্য কাৰ্যালয় থকা উত্তৰ-পূব সীমান্ত ৰে'লৱে অসমৰ ৰে'ল নেটৱৰ্ক সামৰি লয়।"
@@ -330,12 +330,12 @@
       },
       "options": [
         {
-          "en": "Broad gauge (1676 mm)",
-          "as": "ব্ৰড গেজ (১৬৭৬ মিমি)"
-        },
-        {
           "en": "Metre gauge",
           "as": "মিটাৰ গেজ"
+        },
+        {
+          "en": "Broad gauge (1676 mm)",
+          "as": "ব্ৰড গেজ (১৬৭৬ মিমি)"
         },
         {
           "en": "Narrow gauge",
@@ -346,7 +346,7 @@
           "as": "ষ্টেণ্ডাৰ্ড গেজ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Most railway lines in Assam are broad gauge (1676 mm), having been converted under Project Unigauge.",
         "as": "অসমৰ বেছিভাগ ৰে'লপথ ব্ৰড গেজ (১৬৭৬ মিমি), যি প্ৰজেক্ট ইউনিগেজৰ অধীনত ৰূপান্তৰিত কৰা হৈছে।"
@@ -363,23 +363,23 @@
       },
       "options": [
         {
-          "en": "Guwahati Railway Station",
-          "as": "গুৱাহাটী ৰে'ল ষ্টেচন"
+          "en": "Silchar Railway Station",
+          "as": "শিলচৰ ৰে'ল ষ্টেচন"
         },
         {
           "en": "Dibrugarh Railway Station",
           "as": "ডিব্ৰুগড় ৰে'ল ষ্টেচন"
         },
         {
-          "en": "Silchar Railway Station",
-          "as": "শিলচৰ ৰে'ল ষ্টেচন"
+          "en": "Guwahati Railway Station",
+          "as": "গুৱাহাটী ৰে'ল ষ্টেচন"
         },
         {
           "en": "New Tinsukia Railway Station",
           "as": "নিউ তিনিচুকীয়া ৰে'ল ষ্টেচন"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Guwahati Railway Station is the largest and busiest railway station in Assam.",
         "as": "গুৱাহাটী ৰে'ল ষ্টেচন অসমৰ আটাইতকৈ ডাঙৰ ৰে'ল ষ্টেচন।"
@@ -429,12 +429,12 @@
       },
       "options": [
         {
-          "en": "The Jogighopa Multimodal Logistics Park",
-          "as": "জগীঘোপা মাল্টিম'ডেল লজিষ্টিকছ পাৰ্ক"
-        },
-        {
           "en": "The Amingaon Logistics Park",
           "as": "আমিনগাঁও লজিষ্টিকছ পাৰ্ক"
+        },
+        {
+          "en": "The Jogighopa Multimodal Logistics Park",
+          "as": "জগীঘোপা মাল্টিম'ডেল লজিষ্টিকছ পাৰ্ক"
         },
         {
           "en": "The Pandu Logistics Hub",
@@ -445,7 +445,7 @@
           "as": "ধুবুৰী লজিষ্টিকছ পাৰ্ক"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Jogighopa Multimodal Logistics Park is being developed on the Brahmaputra near the Bangladesh border under NW-2.",
         "as": "জগীঘোপা মাল্টিম'ডেল লজিষ্টিকছ পাৰ্ক ব্ৰহ্মপুত্ৰ আৰু ৰাষ্ট্ৰীয় জলপথ-২ ৰ ওপৰত বিকশিত কৰা হৈছে।"
@@ -462,23 +462,23 @@
       },
       "options": [
         {
-          "en": "The Brahmaputra",
-          "as": "ব্ৰহ্মপুত্ৰ"
+          "en": "The Ganga",
+          "as": "গংগা"
         },
         {
           "en": "The Barak",
           "as": "বৰাক"
         },
         {
-          "en": "The Ganga",
-          "as": "গংগা"
+          "en": "The Brahmaputra",
+          "as": "ব্ৰহ্মপুত্ৰ"
         },
         {
           "en": "The Subansiri",
           "as": "চুবনশিৰি"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Brahmaputra river is designated as National Waterway-2 (NW-2) because of its importance for inland navigation.",
         "as": "ব্ৰহ্মপুত্ৰ নদী ৰাষ্ট্ৰীয় জলপথ-২ হিচাপে নিৰ্ধাৰিত।"
@@ -495,12 +495,12 @@
       },
       "options": [
         {
-          "en": "Pandu port",
-          "as": "পাণ্ডু বন্দৰ"
-        },
-        {
           "en": "Dhubri port",
           "as": "ধুবুৰী বন্দৰ"
+        },
+        {
+          "en": "Pandu port",
+          "as": "পাণ্ডু বন্দৰ"
         },
         {
           "en": "Sadiya port",
@@ -511,7 +511,7 @@
           "as": "তেজপুৰ বন্দৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Pandu port near Guwahati is a major river port of Assam on the Brahmaputra (National Waterway-2).",
         "as": "গুৱাহাটীৰ ওচৰৰ পাণ্ডু বন্দৰ ব্ৰহ্মপুত্ৰৰ এটা প্ৰধান নদী বন্দৰ।"
@@ -528,8 +528,8 @@
       },
       "options": [
         {
-          "en": "MV Mahabaahu (along with MV Ganga Vilas routes)",
-          "as": "এম ভি মহাবাহু (এম ভি গংগা বিলাস ৰুটৰ সৈতে)"
+          "en": "MV Assam Express",
+          "as": "এম ভি অসম এক্সপ্ৰেছ"
         },
         {
           "en": "MV Ganga Queen",
@@ -540,11 +540,11 @@
           "as": "এম ভি ব্ৰহ্মপুত্ৰ কুইন"
         },
         {
-          "en": "MV Assam Express",
-          "as": "এম ভি অসম এক্সপ্ৰেছ"
+          "en": "MV Mahabaahu (along with MV Ganga Vilas routes)",
+          "as": "এম ভি মহাবাহু (এম ভি গংগা বিলাস ৰুটৰ সৈতে)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Luxury river cruises such as MV Mahabaahu and the MV Ganga Vilas route are among the first cruise services operating on the Brahmaputra.",
         "as": "বিলাসী ক্ৰুজ এম ভি মহাবাহু আৰু এম ভি গংগা বিলাসৰ ৰুট ব্ৰহ্মপুত্ৰত চলাচল কৰে।"
@@ -561,23 +561,23 @@
       },
       "options": [
         {
-          "en": "The Jal Marg Vikas Project",
-          "as": "জল মাৰ্গ বিকাশ প্ৰকল্প"
+          "en": "Bharatmala only",
+          "as": "কেৱল ভাৰতমালা"
         },
         {
           "en": "Sagarmala only",
           "as": "কেৱল সাগৰমালা"
         },
         {
-          "en": "Bharatmala only",
-          "as": "কেৱল ভাৰতমালা"
+          "en": "The Jal Marg Vikas Project",
+          "as": "জল মাৰ্গ বিকাশ প্ৰকল্প"
         },
         {
           "en": "UDAN",
           "as": "উড়ান"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Jal Marg Vikas Project promotes inland waterway transport including NW-2.",
         "as": "জল মাৰ্গ বিকাশ প্ৰকল্পই NW-2 কে ধৰি অন্তৰ্দেশীয় জলপথ পৰিবহন প্ৰচাৰ কৰে।"
@@ -594,8 +594,8 @@
       },
       "options": [
         {
-          "en": "NH-27",
-          "as": "NH-27"
+          "en": "NH-6",
+          "as": "NH-6"
         },
         {
           "en": "NH-37",
@@ -606,11 +606,11 @@
           "as": "NH-15"
         },
         {
-          "en": "NH-6",
-          "as": "NH-6"
+          "en": "NH-27",
+          "as": "NH-27"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "NH-27, part of the East-West Corridor, is the longest national highway passing through Assam.",
         "as": "পূব-পশ্চিম কৰিডৰৰ অংশ হিচাপে NH-27 অসমৰ মাজেৰে পাৰ হোৱা আটাইতকৈ দীঘল ৰাষ্ট্ৰীয় ঘাইপথ।"
@@ -660,12 +660,12 @@
       },
       "options": [
         {
-          "en": "NHAI and the PWD (NH wing)",
-          "as": "NHAI আৰু PWD (NH শাখা)"
-        },
-        {
           "en": "Only NHAI",
           "as": "কেৱল NHAI"
+        },
+        {
+          "en": "NHAI and the PWD (NH wing)",
+          "as": "NHAI আৰু PWD (NH শাখা)"
         },
         {
           "en": "Only PWD",
@@ -676,7 +676,7 @@
           "as": "কেৱল BRO"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The National Highways Authority of India and the PWD (NH wing) construct and maintain national highways.",
         "as": "ভাৰতীয় ৰাষ্ট্ৰীয় ঘাইপথ প্ৰাধিকৰণ আৰু PWD (NH শাখা) য়ে ৰাষ্ট্ৰীয় ঘাইপথ নিৰ্মাণ আৰু ৰক্ষণাবেক্ষণ কৰে।"
@@ -693,8 +693,8 @@
       },
       "options": [
         {
-          "en": "NHAI (upgraded to NH-6)",
-          "as": "NHAI (NH-6 লৈ উন্নীত)"
+          "en": "IWAI",
+          "as": "IWAI"
         },
         {
           "en": "BRO",
@@ -705,11 +705,11 @@
           "as": "NFR"
         },
         {
-          "en": "IWAI",
-          "as": "IWAI"
+          "en": "NHAI (upgraded to NH-6)",
+          "as": "NHAI (NH-6 লৈ উন্নীত)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Guwahati-Shillong road was upgraded to a four-lane highway under an NHAI project, improving it to NH-6.",
         "as": "NHAI ৰ অধীনত গুৱাহাটী-শ্বিলং চাৰি-লেন প্ৰকল্পে পথটো NH-6 লৈ উন্নীত কৰিছিল।"
@@ -726,23 +726,23 @@
       },
       "options": [
         {
-          "en": "Mohanbari Airport (Dibrugarh Airport)",
-          "as": "মোহনবাৰী বিমানবন্দৰ (ডিব্ৰুগড় বিমানবন্দৰ)"
+          "en": "Salonibari Airport",
+          "as": "শালনীবাৰী বিমানবন্দৰ"
         },
         {
           "en": "Rowriah Airport",
           "as": "ৰৌৰিয়াহ বিমানবন্দৰ"
         },
         {
-          "en": "Salonibari Airport",
-          "as": "শালনীবাৰী বিমানবন্দৰ"
+          "en": "Mohanbari Airport (Dibrugarh Airport)",
+          "as": "মোহনবাৰী বিমানবন্দৰ (ডিব্ৰুগড় বিমানবন্দৰ)"
         },
         {
           "en": "Borjhar Airport",
           "as": "বৰঝাৰ বিমানবন্দৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Mohanbari Airport (Dibrugarh Airport) serves the Dibrugarh region.",
         "as": "মোহনবাৰী বিমানবন্দৰ (ডিব্ৰুগড় বিমানবন্দৰ)য়ে উজনি অসমৰ ডিব্ৰুগড় অঞ্চলক বিমান সেৱা আগবঢ়ায়।"
@@ -792,8 +792,8 @@
       },
       "options": [
         {
-          "en": "The Bogibeel rail-cum-road bridge",
-          "as": "বগীবীল ৰে'ল-সহ-পথ দলং"
+          "en": "The Naranarayan Setu",
+          "as": "নৰনাৰায়ণ সেতু"
         },
         {
           "en": "The Saraighat Bridge",
@@ -804,11 +804,11 @@
           "as": "কলীয়া ভোমোৰা সেতু"
         },
         {
-          "en": "The Naranarayan Setu",
-          "as": "নৰনাৰায়ণ সেতু"
+          "en": "The Bogibeel rail-cum-road bridge",
+          "as": "বগীবীল ৰে'ল-সহ-পথ দলং"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Bogibeel rail-cum-road bridge links the Dhemaji (Numaligarh) side with the Jorhat side.",
         "as": "বগীবীল ৰে'ল-সহ-পথ দলঙে ধেমাজি (নুমলীগড়) পাৰক যোৰহাট পাৰৰ সৈতে সংযুক্ত কৰে।"
@@ -825,12 +825,12 @@
       },
       "options": [
         {
-          "en": "The Assam State Transport Corporation (ASTC) and the Guwahati Smart City initiative",
-          "as": "অসম ৰাজ্যিক পৰিবহন নিগম (ASTC) আৰু গুৱাহাটী স্মাৰ্ট চিটি প্ৰকল্প"
-        },
-        {
           "en": "Only private operators",
           "as": "কেৱল ব্যক্তিগত পৰিচালক"
+        },
+        {
+          "en": "The Assam State Transport Corporation (ASTC) and the Guwahati Smart City initiative",
+          "as": "অসম ৰাজ্যিক পৰিবহন নিগম (ASTC) আৰু গুৱাহাটী স্মাৰ্ট চিটি প্ৰকল্প"
         },
         {
           "en": "NFR",
@@ -841,7 +841,7 @@
           "as": "IWAI"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "ASTC and the Guwahati Smart City initiative run city bus services in Guwahati.",
         "as": "ASTC আৰু গুৱাহাটী স্মাৰ্ট চিটি প্ৰকল্পই গুৱাহাটীত চিটি বাছ সেৱা চলায়।"
@@ -924,12 +924,12 @@
       },
       "options": [
         {
-          "en": "Dhubri",
-          "as": "ধুবুৰী"
-        },
-        {
           "en": "Sadiya",
           "as": "শদিয়া"
+        },
+        {
+          "en": "Dhubri",
+          "as": "ধুবুৰী"
         },
         {
           "en": "Guwahati",
@@ -940,7 +940,7 @@
           "as": "তেজপুৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Dhubri is the western terminus of NW-2 on the Brahmaputra.",
         "as": "ধুবুৰী ব্ৰহ্মপুত্ৰত NW-2 ৰ পশ্চিম টাৰ্মিনাছ।"
@@ -957,8 +957,8 @@
       },
       "options": [
         {
-          "en": "Dhubri and Karimganj",
-          "as": "ধুবুৰী আৰু কৰিমগঞ্জ"
+          "en": "Jorhat and Golaghat",
+          "as": "যোৰহাট আৰু গোলাঘাট"
         },
         {
           "en": "Pandu and Tezpur",
@@ -969,11 +969,11 @@
           "as": "শদিয়া আৰু ডিব্ৰুগড়"
         },
         {
-          "en": "Jorhat and Golaghat",
-          "as": "যোৰহাট আৰু গোলাঘাট"
+          "en": "Dhubri and Karimganj",
+          "as": "ধুবুৰী আৰু কৰিমগঞ্জ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Dhubri and Karimganj are river ports on NW-2 that are connected to Bangladesh ports through inland waterways.",
         "as": "ধুবুৰী আৰু কৰিমগঞ্জ অন্তৰ্দেশীয় জলপথৰ জৰিয়তে বাংলাদেশৰ বন্দৰসমূহৰ সৈতে সংযুক্ত।"
@@ -1023,12 +1023,12 @@
       },
       "options": [
         {
-          "en": "UDAN (Ude Desh ka Aam Naagrik)",
-          "as": "উড়ান (উড়ে দেশ কা আম নাগৰিক)"
-        },
-        {
           "en": "Sagarmala",
           "as": "সাগৰমালা"
+        },
+        {
+          "en": "UDAN (Ude Desh ka Aam Naagrik)",
+          "as": "উড়ান (উড়ে দেশ কা আম নাগৰিক)"
         },
         {
           "en": "Bharatmala",
@@ -1039,7 +1039,7 @@
           "as": "জল মাৰ্গ বিকাশ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "UDAN connects remote areas of Assam by air under the Regional Connectivity Scheme.",
         "as": "উড়ান আঁচনিয়ে আঞ্চলিক সংযোগ আঁচনিৰ অধীনত অসমৰ দুৰ্গম অঞ্চলসমূহক বিমানযোগে সংযুক্ত কৰে।"
@@ -1056,12 +1056,12 @@
       },
       "options": [
         {
-          "en": "The Jogighopa multimodal hub",
-          "as": "জগীঘোপা মাল্টিম'ডেল হাব"
-        },
-        {
           "en": "Pandu port",
           "as": "পাণ্ডু বন্দৰ"
+        },
+        {
+          "en": "The Jogighopa multimodal hub",
+          "as": "জগীঘোপা মাল্টিম'ডেল হাব"
         },
         {
           "en": "Amingaon ICD",
@@ -1072,7 +1072,7 @@
           "as": "ধুবুৰী ঘাট"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Jogighopa multimodal hub is being developed as a dry port for transit trade with Bangladesh via NW-2.",
         "as": "জগীঘোপা মাল্টিম'ডেল হাব বাংলাদেশ আৰু NW-2 ৰ জৰিয়তে ট্ৰানজিট বাণিজ্যৰ বাবে ড্ৰাই প'ৰ্ট হিচাপে কাম কৰে।"
@@ -1122,23 +1122,23 @@
       },
       "options": [
         {
-          "en": "Maligaon, Guwahati",
-          "as": "মালিগাঁও, গুৱাহাটী"
+          "en": "Silchar",
+          "as": "শিলচৰ"
         },
         {
           "en": "Dibrugarh",
           "as": "ডিব্ৰুগড়"
         },
         {
-          "en": "Silchar",
-          "as": "শিলচৰ"
+          "en": "Maligaon, Guwahati",
+          "as": "মালিগাঁও, গুৱাহাটী"
         },
         {
           "en": "Malda",
           "as": "মালদা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The headquarters of the Northeast Frontier Railway is at Maligaon, Guwahati.",
         "as": "উত্তৰ-পূব সীমান্ত ৰে'লৱেৰ মুখ্য কাৰ্যালয় মালিগাঁও, গুৱাহাটীত অৱস্থিত।"
@@ -1155,12 +1155,12 @@
       },
       "options": [
         {
-          "en": "It connects North Assam to the rest of the state and provides rail-road connectivity",
-          "as": "ই উত্তৰ অসমক ৰাজ্যৰ বাকী অংশৰ সৈতে সংযুক্ত কৰে আৰু ৰে'ল-পথ সংযোগ প্ৰদান কৰে"
-        },
-        {
           "en": "It is only a road bridge",
           "as": "ই কেৱল এটা পথ দলং"
+        },
+        {
+          "en": "It connects North Assam to the rest of the state and provides rail-road connectivity",
+          "as": "ই উত্তৰ অসমক ৰাজ্যৰ বাকী অংশৰ সৈতে সংযুক্ত কৰে আৰু ৰে'ল-পথ সংযোগ প্ৰদান কৰে"
         },
         {
           "en": "It is only a dam",
@@ -1171,7 +1171,7 @@
           "as": "ই কেৱল এটা বিদ্যুৎ প্ৰকল্প"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Bogibeel Bridge over the Brahmaputra connects North Assam with the rest of the state and carries both road and rail traffic.",
         "as": "বগীবীল দলঙে উত্তৰ অসমক ৰাজ্যৰ বাকী অংশৰ সৈতে সংযুক্ত কৰে আৰু ৰে'ল-পথ সংযোগ প্ৰদান কৰে।"

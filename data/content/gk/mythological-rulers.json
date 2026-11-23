@@ -80,19 +80,19 @@
           "as": "ৰুক্মিণী"
         },
         {
-          "en": "Usha",
-          "as": "উষা"
+          "en": "Sita",
+          "as": "সীতা"
         },
         {
           "en": "Kamakhya",
           "as": "কামাখ্যা"
         },
         {
-          "en": "Sita",
-          "as": "সীতা"
+          "en": "Usha",
+          "as": "উষা"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Usha was the daughter of Banasura.",
         "as": "উষা বাণাসুৰৰ কন্যা আছিল।"
@@ -106,12 +106,12 @@
       "answer_as": "অনিৰুদ্ধ",
       "options": [
         {
-          "en": "Pradyumna",
-          "as": "প্ৰদ্যুম্ন"
-        },
-        {
           "en": "Aniruddha",
           "as": "অনিৰুদ্ধ"
+        },
+        {
+          "en": "Pradyumna",
+          "as": "প্ৰদ্যুম্ন"
         },
         {
           "en": "Abhimanyu",
@@ -122,7 +122,7 @@
           "as": "শম্ব"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Usha married Aniruddha, the grandson of Krishna.",
         "as": "উষাই কৃষ্ণৰ নাতি অনিৰুদ্ধক বিয়া কৰিছিল।"
@@ -136,23 +136,23 @@
       "answer_as": "তেজপুৰ (শোণিতপুৰ)",
       "options": [
         {
-          "en": "Tezpur (Sonitpur)",
-          "as": "তেজপুৰ (শোণিতপুৰ)"
+          "en": "Sadiya",
+          "as": "চাদিয়া"
         },
         {
           "en": "Guwahati",
           "as": "গুৱাহাটী"
         },
         {
-          "en": "Sadiya",
-          "as": "চাদিয়া"
+          "en": "Tezpur (Sonitpur)",
+          "as": "তেজপুৰ (শোণিতপুৰ)"
         },
         {
           "en": "Hajo",
           "as": "হাজো"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Usha-Aniruddha story is connected with Tezpur (Sonitpur).",
         "as": "উষা-অনিৰুদ্ধৰ কাহিনী তেজপুৰ (শোণিতপুৰ)ৰ সৈতে জড়িত।"
@@ -170,19 +170,19 @@
           "as": "কৃষ্ণ"
         },
         {
-          "en": "Banasura",
-          "as": "বাণাসুৰ"
+          "en": "Shiva",
+          "as": "শিৱ"
         },
         {
           "en": "Aniruddha",
           "as": "অনিৰুদ্ধ"
         },
         {
-          "en": "Shiva",
-          "as": "শিৱ"
+          "en": "Banasura",
+          "as": "বাণাসুৰ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "In the battle between Krishna and Banasura, Banasura was defeated.",
         "as": "কৃষ্ণ আৰু বাণাসুৰৰ যুদ্ধত বাণাসুৰ পৰাজিত হৈছিল।"
@@ -200,19 +200,19 @@
           "as": "কৃষ্ণৰ ফালে"
         },
         {
-          "en": "Banasura's side",
-          "as": "বাণাসুৰৰ ফালে"
+          "en": "Both sides",
+          "as": "দুয়ো ফালে"
         },
         {
           "en": "Neither side",
           "as": "কোনো ফালে নহয়"
         },
         {
-          "en": "Both sides",
-          "as": "দুয়ো ফালে"
+          "en": "Banasura's side",
+          "as": "বাণাসুৰৰ ফালে"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Shiva is said to have fought on Banasura's side against Krishna in the Sonitpur battle.",
         "as": "শোণিতপুৰৰ যুদ্ধত শিৱই বাণাসুৰৰ ফালে থাকি কৃষ্ণৰ বিৰুদ্ধে যুঁজিছিল বুলি কোৱা হয়।"
@@ -230,19 +230,19 @@
           "as": "নৰকৰ কিংবদন্তি"
         },
         {
-          "en": "The legend of Usha and Aniruddha",
-          "as": "উষা-অনিৰুদ্ধৰ কিংবদন্তি"
-        },
-        {
           "en": "The legend of Bhagadatta",
           "as": "ভগদত্তৰ কিংবদন্তি"
+        },
+        {
+          "en": "The legend of Usha and Aniruddha",
+          "as": "উষা-অনিৰুদ্ধৰ কিংবদন্তি"
         },
         {
           "en": "The legend of Sankardeva",
           "as": "শংকৰদেৱৰ কিংবদন্তি"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Agnigarh hill near Tezpur is associated with the Usha-Aniruddha legend, where Aniruddha was kept captive.",
         "as": "তেজপুৰৰ ওচৰৰ অগ্নিগড় পাহাৰ উষা-অনিৰুদ্ধ কিংবদন্তিৰ সৈতে জড়িত, য'ত অনিৰুদ্ধক বন্দী কৰি ৰখা হৈছিল।"
@@ -260,19 +260,19 @@
           "as": "শোণিতপুৰৰ ৰজা"
         },
         {
-          "en": "A mythological king of Kundil",
-          "as": "কুণ্ডিলৰ এজন পৌৰাণিক ৰজা"
-        },
-        {
           "en": "A Varman king",
           "as": "বৰ্মন ৰজা"
+        },
+        {
+          "en": "A mythological king of Kundil",
+          "as": "কুণ্ডিলৰ এজন পৌৰাণিক ৰজা"
         },
         {
           "en": "An Ahom general",
           "as": "আহোম সেনাপতি"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Bhismaka was a mythological king of the Kundil region.",
         "as": "ভীষ্মক কুণ্ডিল অঞ্চলৰ এজন পৌৰাণিক ৰজা আছিল।"
@@ -316,12 +316,12 @@
       "answer_as": "ৰুক্মিণী",
       "options": [
         {
-          "en": "Usha",
-          "as": "উষা"
-        },
-        {
           "en": "Rukmini",
           "as": "ৰুক্মিণী"
+        },
+        {
+          "en": "Usha",
+          "as": "উষা"
         },
         {
           "en": "Subhadra",
@@ -332,7 +332,7 @@
           "as": "দ্ৰৌপদী"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Rukmini was the daughter of Bhismaka.",
         "as": "ৰুক্মিণী ভীষ্মকৰ কন্যা আছিল।"
@@ -376,23 +376,23 @@
       "answer_as": "চাদিয়া (উজনি অসম) অঞ্চল",
       "options": [
         {
-          "en": "The Sadiya (upper Assam) region",
-          "as": "চাদিয়া (উজনি অসম) অঞ্চল"
+          "en": "Guwahati",
+          "as": "গুৱাহাটী"
         },
         {
           "en": "Tezpur",
           "as": "তেজপুৰ"
         },
         {
-          "en": "Guwahati",
-          "as": "গুৱাহাটী"
+          "en": "The Sadiya (upper Assam) region",
+          "as": "চাদিয়া (উজনি অসম) অঞ্চল"
         },
         {
           "en": "Barpeta",
           "as": "বৰপেটা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "In Assamese tradition Kundil is identified with the Sadiya region of upper Assam.",
         "as": "অসমীয়া পৰম্পৰাত কুণ্ডিলক উজনি অসমৰ চাদিয়া অঞ্চলৰ সৈতে চিনাক্ত কৰা হয়।"
@@ -406,12 +406,12 @@
       "answer_as": "ৰুক্মী",
       "options": [
         {
-          "en": "Rukmi",
-          "as": "ৰুক্মী"
-        },
-        {
           "en": "Bhismaka",
           "as": "ভীষ্মক"
+        },
+        {
+          "en": "Rukmi",
+          "as": "ৰুক্মী"
         },
         {
           "en": "Banasura",
@@ -422,7 +422,7 @@
           "as": "অনিৰুদ্ধ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Rukmi, the brother of Rukmini, opposed her marriage to Krishna.",
         "as": "ৰুক্মিণীৰ ভাতৃ ৰুক্মীয়ে তাইৰ কৃষ্ণৰ সৈতে বিবাহৰ বিৰোধিতা কৰিছিল।"
@@ -436,12 +436,12 @@
       "answer_as": "পৌৰাণিক শাসক",
       "options": [
         {
-          "en": "Historical Varman kings",
-          "as": "ঐতিহাসিক বৰ্মন ৰজা"
-        },
-        {
           "en": "Mythological (Puranic) rulers",
           "as": "পৌৰাণিক শাসক"
+        },
+        {
+          "en": "Historical Varman kings",
+          "as": "ঐতিহাসিক বৰ্মন ৰজা"
         },
         {
           "en": "Ahom kings",
@@ -452,7 +452,7 @@
           "as": "মোগল সুবেদাৰ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Bana and Bhismaka belong to the mythological (Puranic) rulers of Assamese history.",
         "as": "বাণ আৰু ভীষ্মক অসমীয়া ইতিহাসৰ পৌৰাণিক শাসকসকলৰ অন্তৰ্ভুক্ত।"
@@ -466,12 +466,12 @@
       "answer_as": "মহাভাৰত আৰু পুৰাণসমূহ",
       "options": [
         {
-          "en": "The Buranjis",
-          "as": "বুৰঞ্জীসমূহ"
-        },
-        {
           "en": "The Mahabharata and the Puranas",
           "as": "মহাভাৰত আৰু পুৰাণসমূহ"
+        },
+        {
+          "en": "The Buranjis",
+          "as": "বুৰঞ্জীসমূহ"
         },
         {
           "en": "British records",
@@ -482,7 +482,7 @@
           "as": "চীনা বিৱৰণ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The mythological rulers of Kamarupa are known mainly from the Mahabharata and the Puranas.",
         "as": "কামৰূপৰ পৌৰাণিক শাসকসকলৰ বিষয়ে মূলতঃ মহাভাৰত আৰু পুৰাণসমূহৰ পৰা জনা যায়।"
@@ -526,12 +526,12 @@
       "answer_as": "কোনো নিৰ্দিষ্ট উৎসৱ নহয়; এয়া পৌৰাণিক প্ৰেম কাহিনী",
       "options": [
         {
-          "en": "Bihu",
-          "as": "বিহু"
-        },
-        {
           "en": "No specific festival; it is a Puranic love story",
           "as": "কোনো নিৰ্দিষ্ট উৎসৱ নহয়; এয়া পৌৰাণিক প্ৰেম কাহিনী"
+        },
+        {
+          "en": "Bihu",
+          "as": "বিহু"
         },
         {
           "en": "Durga Puja",
@@ -542,7 +542,7 @@
           "as": "ৰাস"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Usha-Aniruddha legend is a Puranic love story associated with local lore, not tied to a particular festival.",
         "as": "উষা-অনিৰুদ্ধ কিংবদন্তি স্থানীয় পৰম্পৰাৰ লগত জড়িত এটা পৌৰাণিক প্ৰেম কাহিনী, কোনো নিৰ্দিষ্ট উৎসৱৰ সৈতে জড়িত নহয়।"
@@ -556,12 +556,12 @@
       "answer_as": "তেজপুৰ",
       "options": [
         {
-          "en": "Tezpur",
-          "as": "তেজপুৰ"
-        },
-        {
           "en": "Guwahati",
           "as": "গুৱাহাটী"
+        },
+        {
+          "en": "Tezpur",
+          "as": "তেজপুৰ"
         },
         {
           "en": "Jorhat",
@@ -572,7 +572,7 @@
           "as": "শিলচৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Agnigarh today is a tourist spot in Tezpur.",
         "as": "অগ্নিগড় আজি তেজপুৰৰ এটা পৰ্যটনস্থলী।"
@@ -590,19 +590,19 @@
           "as": "ভীষ্মক"
         },
         {
-          "en": "Banasura",
-          "as": "বাণাসুৰ"
+          "en": "Bhagadatta",
+          "as": "ভগদত্ত"
         },
         {
           "en": "Naraka",
           "as": "নৰক"
         },
         {
-          "en": "Bhagadatta",
-          "as": "ভগদত্ত"
+          "en": "Banasura",
+          "as": "বাণাসুৰ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "According to the Kalika Purana, Banasura was a mythological king contemporary of Krishna.",
         "as": "কালিকা পুৰাণ অনুসৰি বাণাসুৰ কৃষ্ণৰ সমকালীন এজন পৌৰাণিক ৰজা আছিল।"
@@ -620,19 +620,19 @@
           "as": "বাণাসুৰ"
         },
         {
-          "en": "Bhismaka",
-          "as": "ভীষ্মক"
-        },
-        {
           "en": "Naraka",
           "as": "নৰক"
+        },
+        {
+          "en": "Bhismaka",
+          "as": "ভীষ্মক"
         },
         {
           "en": "Vajradatta",
           "as": "বজ্ৰদত্ত"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Bhismaka is the mythological ruler associated with the story of Rukmini's svayamvara.",
         "as": "ৰুক্মিণীৰ স্বয়ংবৰৰ কাহিনীৰ সৈতে জড়িত পৌৰাণিক শাসক হৈছে ভীষ্মক।"
@@ -650,19 +650,19 @@
           "as": "নৰক"
         },
         {
-          "en": "Banasura",
-          "as": "বাণাসুৰ"
+          "en": "Bhismaka",
+          "as": "ভীষ্মক"
         },
         {
           "en": "Bhagadatta",
           "as": "ভগদত্ত"
         },
         {
-          "en": "Bhismaka",
-          "as": "ভীষ্মক"
+          "en": "Banasura",
+          "as": "বাণাসুৰ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Tradition identifies the Baleswar cave and the nearby temple with the legend of Banasura.",
         "as": "পৰম্পৰাই বালেশ্বৰ গুহা আৰু ওচৰৰ মন্দিৰ বাণাসুৰৰ কিংবদন্তিৰ সৈতে চিনাক্ত কৰে।"

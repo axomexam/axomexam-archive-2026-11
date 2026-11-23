@@ -103,19 +103,19 @@
           "as": "নিমখ কৰৰ বিৰুদ্ধে"
         },
         {
-          "en": "Against the oppression of the indigo planters on the peasants under the tinkathia system",
-          "as": "তিনকাঠিয়া ব্যৱস্থাৰ অধীনত নীল চাষীসকলে কৃষকসকলৰ ওপৰত কৰা অত্যাচাৰৰ বিৰুদ্ধে"
-        },
-        {
           "en": "Against the Rowlatt Act",
           "as": "ৰাওলাট আইনৰ বিৰুদ্ধে"
+        },
+        {
+          "en": "Against the oppression of the indigo planters on the peasants under the tinkathia system",
+          "as": "তিনকাঠিয়া ব্যৱস্থাৰ অধীনত নীল চাষীসকলে কৃষকসকলৰ ওপৰত কৰা অত্যাচাৰৰ বিৰুদ্ধে"
         },
         {
           "en": "For women's education",
           "as": "মহিলা শিক্ষাৰ বাবে"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Champaran Satyagraha was against the oppression of indigo planters on the peasants under the tinkathia system.",
         "as": "চম্পাৰণ সত্যাগ্ৰহ তinkathia ব্যৱস্থাৰ অধীনত নীল চাষীসকলে কৃষকসকলৰ ওপৰত কৰা অত্যাচাৰৰ বিৰুদ্ধে আছিল।"
@@ -132,8 +132,8 @@
       },
       "options": [
         {
-          "en": "In 1917, in Bihar",
-          "as": "১৯১৭ চনত, বিহাৰত"
+          "en": "In 1918, in Gujarat, to support the peasants affected by famine and crop failure",
+          "as": "১৯১৮ চনত, গুজৰাটত, দুৰ্ভিক্ষ আৰু শস্য বিফলতাত ক্ষতিগ্ৰস্ত কৃষকসকলক সমৰ্থন কৰিবলৈ"
         },
         {
           "en": "In 1920, in Bengal",
@@ -144,11 +144,11 @@
           "as": "১৯২৮ চনত, বৰদলীত"
         },
         {
-          "en": "In 1918, in Gujarat, to support the peasants affected by famine and crop failure",
-          "as": "১৯১৮ চনত, গুজৰাটত, দুৰ্ভিক্ষ আৰু শস্য বিফলতাত ক্ষতিগ্ৰস্ত কৃষকসকলক সমৰ্থন কৰিবলৈ"
+          "en": "In 1917, in Bihar",
+          "as": "১৯১৭ চনত, বিহাৰত"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Gandhiji launched the Kheda Satyagraha in 1918 in Gujarat to support peasants affected by famine and crop failure.",
         "as": "গান্ধীজীয়ে ১৯১৮ চনত গুজৰাটত দুৰ্ভিক্ষ আৰু শস্য বিফলতাত ক্ষতিগ্ৰস্ত কৃষকসকলক সমৰ্থন কৰিবলৈ খেদা সত্যাগ্ৰহ আৰম্ভ কৰিছিল।"
@@ -165,23 +165,23 @@
       },
       "options": [
         {
-          "en": "Demand for an increase in the wages of mill workers; Gandhiji observed his first hunger strike",
-          "as": "মিল শ্ৰমিকসকলৰ মজুৰি বৃদ্ধিৰ দাবী; গান্ধীজীয়ে প্ৰথম অনশন কৰিছিল"
+          "en": "Demand for the repeal of the Rowlatt Act",
+          "as": "ৰাওলাট আইন প্ৰত্যাহাৰৰ দাবী"
         },
         {
           "en": "Demand for the abolition of the salt tax",
           "as": "নিমখ কৰ বিলোপৰ দাবী"
         },
         {
-          "en": "Demand for the repeal of the Rowlatt Act",
-          "as": "ৰাওলাট আইন প্ৰত্যাহাৰৰ দাবী"
+          "en": "Demand for an increase in the wages of mill workers; Gandhiji observed his first hunger strike",
+          "as": "মিল শ্ৰমিকসকলৰ মজুৰি বৃদ্ধিৰ দাবী; গান্ধীজীয়ে প্ৰথম অনশন কৰিছিল"
         },
         {
           "en": "Demand for the release of political prisoners",
           "as": "ৰাজনৈতিক বন্দী মুকলিৰ দাবী"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Ahmedabad Mill Strike of 1918 was for an increase in the wages of mill workers, during which Gandhiji observed his first hunger strike.",
         "as": "১৯১৮ চনৰ আহমদাবাদ মিল ধৰ্মঘট মিল শ্ৰমিকসকলৰ মজুৰি বৃদ্ধিৰ বাবে আছিল, সেই সময়ত গান্ধীজীয়ে প্ৰথম অনশন কৰিছিল।"
@@ -202,19 +202,19 @@
           "as": "মুছলমানসকলক পৃথক নিৰ্বাচকমণ্ডলী দিয়া আইন"
         },
         {
-          "en": "An act which allowed the government to arrest and detain any person without trial, known as the Black Act",
-          "as": "চৰকাৰক বিচাৰ নোহোৱাকৈ যিকোনো ব্যক্তিক গ্ৰেপ্তাৰ আৰু আটক কৰাৰ ক্ষমতা দিয়া আইন, কৃষ্ণ আইন নামেৰে জনাজাত"
+          "en": "An act that introduced dyarchy in the provinces",
+          "as": "প্ৰদেশত দ্বৈত শাসন প্ৰৱৰ্তন কৰা আইন"
         },
         {
           "en": "An act that abolished the salt tax",
           "as": "নিমখ কৰ বিলোপ কৰা আইন"
         },
         {
-          "en": "An act that introduced dyarchy in the provinces",
-          "as": "প্ৰদেশত দ্বৈত শাসন প্ৰৱৰ্তন কৰা আইন"
+          "en": "An act which allowed the government to arrest and detain any person without trial, known as the Black Act",
+          "as": "চৰকাৰক বিচাৰ নোহোৱাকৈ যিকোনো ব্যক্তিক গ্ৰেপ্তাৰ আৰু আটক কৰাৰ ক্ষমতা দিয়া আইন, কৃষ্ণ আইন নামেৰে জনাজাত"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Rowlatt Act of 1919 allowed the government to arrest and detain any person without trial; it was called the Black Act.",
         "as": "১৯১৯ চনৰ ৰাওলাট আইনে চৰকাৰক বিচাৰ নোহোৱাকৈ যিকোনো ব্যক্তিক গ্ৰেপ্তাৰ আৰু আটক কৰাৰ ক্ষমতা দিছিল; ইয়াক কৃষ্ণ আইন বোলা হৈছিল।"
@@ -231,8 +231,8 @@
       },
       "options": [
         {
-          "en": "On 13 April 1919",
-          "as": "১৯১৯ চনৰ ১৩ এপ্ৰিলত"
+          "en": "On 6 April 1919",
+          "as": "১৯১৯ চনৰ ৬ এপ্ৰিলত"
         },
         {
           "en": "On 8 August 1942",
@@ -243,11 +243,11 @@
           "as": "১৯৩০ চনৰ ১২ মাৰ্চত"
         },
         {
-          "en": "On 6 April 1919",
-          "as": "১৯১৯ চনৰ ৬ এপ্ৰিলত"
+          "en": "On 13 April 1919",
+          "as": "১৯১৯ চনৰ ১৩ এপ্ৰিলত"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Gandhiji observed a nationwide hartal against the Rowlatt Act on 6 April 1919.",
         "as": "গান্ধীজীয়ে ১৯১৯ চনৰ ৬ এপ্ৰিলত ৰাওলাট আইনৰ বিৰুদ্ধে দেশজুৰি হৰতাল পালন কৰিছিল।"
@@ -297,12 +297,12 @@
       },
       "options": [
         {
-          "en": "General Reginald Dyer",
-          "as": "জেনেৰেল ৰেজিনাল্ড ডায়াৰ"
-        },
-        {
           "en": "Lord Irwin",
           "as": "লৰ্ড আৰউইন"
+        },
+        {
+          "en": "General Reginald Dyer",
+          "as": "জেনেৰেল ৰেজিনাল্ড ডায়াৰ"
         },
         {
           "en": "Lord Chelmsford",
@@ -313,7 +313,7 @@
           "as": "লৰ্ড লিনলিথগো"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "General Reginald Dyer was responsible for the Jallianwala Bagh massacre.",
         "as": "জেনেৰেল ৰেজিনাল্ড ডায়াৰ জালিয়ানৱালাবাগ হত্যাকাণ্ডৰ বাবে দায়বদ্ধ আছিল।"
@@ -334,19 +334,19 @@
           "as": "মহাত্মা গান্ধী, যিয়ে কাইজাৰ-ই-হিন্দ পদক ঘূৰাই দিছিল"
         },
         {
-          "en": "Jawaharlal Nehru, who resigned from the Congress",
-          "as": "জৱাহৰলাল নেহৰু, যিয়ে কংগ্ৰেছৰ পৰা পদত্যাগ কৰিছিল"
-        },
-        {
           "en": "Rabindranath Tagore, who returned his knighthood, and C.F. Andrews, who protested",
           "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ, যিয়ে নাইট উপাধি ঘূৰাই দিছিল, আৰু চি. এফ. এণ্ড্ৰুজ, যিয়ে প্ৰতিবাদ কৰিছিল"
+        },
+        {
+          "en": "Jawaharlal Nehru, who resigned from the Congress",
+          "as": "জৱাহৰলাল নেহৰু, যিয়ে কংগ্ৰেছৰ পৰা পদত্যাগ কৰিছিল"
         },
         {
           "en": "Sardar Patel, who resigned from the Viceroy's Council",
           "as": "সৰ্দাৰ পেটেল, যিয়ে ভাইচৰয় পৰিষদৰ পৰা পদত্যাগ কৰিছিল"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Rabindranath Tagore returned his knighthood and C.F. Andrews protested against the Jallianwala Bagh massacre.",
         "as": "ৰবীন্দ্ৰনাথ ঠাকুৰে নাইট উপাধি ঘূৰাই দিছিল আৰু চি. এফ. এণ্ড্ৰুজে জালিয়ানৱালাবাগ হত্যাকাণ্ডৰ প্ৰতিবাদ কৰিছিল।"
@@ -363,12 +363,12 @@
       },
       "options": [
         {
-          "en": "A movement to boycott foreign cloth",
-          "as": "বিদেশী কাপোৰ বৰ্জনৰ আন্দোলন"
-        },
-        {
           "en": "A movement led by Indian Muslims to protest the treatment of the Ottoman Caliph by the British after World War I",
           "as": "প্ৰথম বিশ্বযুদ্ধৰ পিছত ব্ৰিটিছে অটোমান খলিফাৰ সৈতে কৰা ব্যৱহাৰৰ প্ৰতিবাদ কৰিবলৈ ভাৰতীয় মুছলমানসকলে চলোৱা আন্দোলন"
+        },
+        {
+          "en": "A movement to boycott foreign cloth",
+          "as": "বিদেশী কাপোৰ বৰ্জনৰ আন্দোলন"
         },
         {
           "en": "A movement against the Rowlatt Act",
@@ -379,7 +379,7 @@
           "as": "পৃথক নিৰ্বাচকমণ্ডলীৰ আন্দোলন"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Khilafat Movement was led by Indian Muslims to protest the treatment of the Ottoman Caliph by the British after World War I.",
         "as": "খিলাফত আন্দোলন ভাৰতীয় মুছলমানসকলে প্ৰথম বিশ্বযুদ্ধৰ পিছত ব্ৰিটিছে অটোমান খলিফাৰ সৈতে কৰা ব্যৱহাৰৰ প্ৰতিবাদ কৰিবলৈ চলাইছিল।"
@@ -396,12 +396,12 @@
       },
       "options": [
         {
-          "en": "The Ali brothers (Mohammad Ali and Shaukat Ali), Maulana Azad and Maulana Abul Kalam",
-          "as": "আলী ভ্ৰাতৃদ্বয় (মহম্মদ আলী আৰু শওকত আলী), মৌলানা আজাদ আৰু মৌলানা আবুল কালাম"
-        },
-        {
           "en": "Jinnah and Liaquat Ali Khan",
           "as": "জিন্না আৰু লিয়াকত আলী খান"
+        },
+        {
+          "en": "The Ali brothers (Mohammad Ali and Shaukat Ali), Maulana Azad and Maulana Abul Kalam",
+          "as": "আলী ভ্ৰাতৃদ্বয় (মহম্মদ আলী আৰু শওকত আলী), মৌলানা আজাদ আৰু মৌলানা আবুল কালাম"
         },
         {
           "en": "Gandhi and Nehru",
@@ -412,7 +412,7 @@
           "as": "তিলক আৰু গোখলে"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The leaders of the Khilafat Movement included the Ali brothers, Maulana Azad and Maulana Abul Kalam.",
         "as": "খিলাফত আন্দোলনৰ নেতাসকলৰ ভিতৰত আলী ভ্ৰাতৃদ্বয়, মৌলানা আজাদ আৰু মৌলানা আবুল কালাম আছিল।"
@@ -470,15 +470,15 @@
           "as": "বিধান পৰিষদত অংশগ্ৰহণ"
         },
         {
-          "en": "Boycott of government schools, law courts, titles, foreign goods and the legislature",
-          "as": "চৰকাৰী বিদ্যালয়, আদালত, উপাধি, বিদেশী সামগ্ৰী আৰু বিধানমণ্ডল বৰ্জন"
-        },
-        {
           "en": "Payment of taxes only",
           "as": "কেৱল কৰ প্ৰদান"
+        },
+        {
+          "en": "Boycott of government schools, law courts, titles, foreign goods and the legislature",
+          "as": "চৰকাৰী বিদ্যালয়, আদালত, উপাধি, বিদেশী সামগ্ৰী আৰু বিধানমণ্ডল বৰ্জন"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The main programme of the Non-Cooperation Movement was boycott of government schools, law courts, titles, foreign goods and the legislature.",
         "as": "অসহযোগ আন্দোলনৰ মূল কাৰ্যসূচী আছিল চৰকাৰী বিদ্যালয়, আদালত, উপাধি, বিদেশী সামগ্ৰী আৰু বিধানমণ্ডল বৰ্জন।"
@@ -499,19 +499,19 @@
           "as": "কাৰণ ব্ৰিটিছে স্বাধীনতা দিছিল"
         },
         {
-          "en": "Because the Gandhi-Irwin Pact was signed",
-          "as": "কাৰণ গান্ধী-আৰউইন চুক্তি স্বাক্ষৰিত হৈছিল"
-        },
-        {
           "en": "Because of the violent incident at Chauri Chaura on 5 February 1922",
           "as": "১৯২২ চনৰ ৫ ফেব্ৰুৱাৰীত চৌৰী চোৰাৰ হিংসাত্মক ঘটনাৰ বাবে"
+        },
+        {
+          "en": "Because the Gandhi-Irwin Pact was signed",
+          "as": "কাৰণ গান্ধী-আৰউইন চুক্তি স্বাক্ষৰিত হৈছিল"
         },
         {
           "en": "Because the Simon Commission arrived",
           "as": "কাৰণ চাইমন আয়োগ আহিছিল"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Non-Cooperation Movement was withdrawn because of the violent incident at Chauri Chaura on 5 February 1922.",
         "as": "১৯২২ চনৰ ৫ ফেব্ৰুৱাৰীত চৌৰী চোৰাৰ হিংসাত্মক ঘটনাৰ বাবে অসহযোগ আন্দোলন প্ৰত্যাহাৰ কৰা হৈছিল।"
@@ -528,8 +528,8 @@
       },
       "options": [
         {
-          "en": "22 policemen were burnt alive by an angry mob",
-          "as": "ক্ৰোধিত জনতাই ২২ জন আৰক্ষীক জীৱিত অৱস্থাত পুৰি মাৰিছিল"
+          "en": "22 students were arrested in Lahore",
+          "as": "লাহোৰত ২২ জন ছাত্ৰক গ্ৰেপ্তাৰ কৰা হৈছিল"
         },
         {
           "en": "22 British officers were killed in a bomb attack",
@@ -540,11 +540,11 @@
           "as": "আৰক্ষীয়ে ২২ জন কৃষকক হত্যা কৰিছিল"
         },
         {
-          "en": "22 students were arrested in Lahore",
-          "as": "লাহোৰত ২২ জন ছাত্ৰক গ্ৰেপ্তাৰ কৰা হৈছিল"
+          "en": "22 policemen were burnt alive by an angry mob",
+          "as": "ক্ৰোধিত জনতাই ২২ জন আৰক্ষীক জীৱিত অৱস্থাত পুৰি মাৰিছিল"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "In the Chauri Chaura incident, 22 policemen were burnt alive by an angry mob.",
         "as": "চৌৰী চোৰাৰ ঘটনাত ক্ৰোধিত জনতাই ২২ জন আৰক্ষীক জীৱিত অৱস্থাত পুৰি মাৰিছিল।"
@@ -627,8 +627,8 @@
       },
       "options": [
         {
-          "en": "Chittaranjan Das and Motilal Nehru",
-          "as": "চিত্তৰঞ্জন দাস আৰু মতিলাল নেহৰু"
+          "en": "Nehru and Azad",
+          "as": "নেহৰু আৰু আজাদ"
         },
         {
           "en": "Gandhi and Patel",
@@ -639,11 +639,11 @@
           "as": "তিলক আৰু লাজপত ৰায়"
         },
         {
-          "en": "Nehru and Azad",
-          "as": "নেহৰু আৰু আজাদ"
+          "en": "Chittaranjan Das and Motilal Nehru",
+          "as": "চিত্তৰঞ্জন দাস আৰু মতিলাল নেহৰু"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Swaraj Party was founded by Chittaranjan Das and Motilal Nehru.",
         "as": "স্বৰাজ পাৰ্টি চিত্তৰঞ্জন দাস আৰু মতিলাল নেহৰুৱে প্ৰতিষ্ঠা কৰিছিল।"
@@ -660,8 +660,8 @@
       },
       "options": [
         {
-          "en": "A revolutionary organisation founded in 1924 by Ram Prasad Bismil and others",
-          "as": "১৯২৪ চনত ৰাম প্ৰসাদ বিসমিল আৰু আনসকলে প্ৰতিষ্ঠা কৰা বিপ্লৱী সংগঠন"
+          "en": "A women's organisation in Bombay",
+          "as": "বম্বেৰ মহিলা সংগঠন"
         },
         {
           "en": "A party founded by C.R. Das",
@@ -672,11 +672,11 @@
           "as": "গুজৰাটৰ কৃষক সংঘ"
         },
         {
-          "en": "A women's organisation in Bombay",
-          "as": "বম্বেৰ মহিলা সংগঠন"
+          "en": "A revolutionary organisation founded in 1924 by Ram Prasad Bismil and others",
+          "as": "১৯২৪ চনত ৰাম প্ৰসাদ বিসমিল আৰু আনসকলে প্ৰতিষ্ঠা কৰা বিপ্লৱী সংগঠন"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Hindustan Republican Association was a revolutionary organisation founded in 1924 by Ram Prasad Bismil and others.",
         "as": "হিন্দুস্তান ৰিপাব্লিকান এছ'চিয়েশ্যন ১৯২৪ চনত ৰাম প্ৰসাদ বিসমিল আৰু আনসকলে প্ৰতিষ্ঠা কৰা বিপ্লৱী সংগঠন আছিল।"
@@ -693,12 +693,12 @@
       },
       "options": [
         {
-          "en": "In 1919, to enquire into the Rowlatt Act",
-          "as": "১৯১৯ চনত, ৰাওলাট আইন তদন্ত কৰিবলৈ"
-        },
-        {
           "en": "In 1928, to enquire into the working of the 1919 Act",
           "as": "১৯১৯ চনৰ আইনৰ কাৰ্যকৰীতা তদন্ত কৰিবলৈ, ১৯২৮ চনত"
+        },
+        {
+          "en": "In 1919, to enquire into the Rowlatt Act",
+          "as": "১৯১৯ চনত, ৰাওলাট আইন তদন্ত কৰিবলৈ"
         },
         {
           "en": "In 1942, to discuss the transfer of power",
@@ -709,7 +709,7 @@
           "as": "১৯৪৬ চনত, সংবিধান প্ৰণয়নৰ বাবে"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Simon Commission was sent to India in 1928 to enquire into the working of the 1919 Act.",
         "as": "চাইমন আয়োগ ১৯২৮ চনত ১৯১৯ চনৰ আইনৰ কাৰ্যকৰীতা তদন্ত কৰিবলৈ ভাৰতলৈ পঠোৱা হৈছিল।"
@@ -759,23 +759,23 @@
       },
       "options": [
         {
-          "en": "Bal Gangadhar Tilak",
-          "as": "বাল গংগাধৰ তিলক"
+          "en": "Lala Lajpat Rai, who later died of his injuries",
+          "as": "লালা লাজপত ৰায়, যি পিছত আঘাতৰ ফলত মৃত্যুবৰণ কৰিছিল"
         },
         {
           "en": "Jawaharlal Nehru",
           "as": "জৱাহৰলাল নেহৰু"
         },
         {
-          "en": "Lala Lajpat Rai, who later died of his injuries",
-          "as": "লালা লাজপত ৰায়, যি পিছত আঘাতৰ ফলত মৃত্যুবৰণ কৰিছিল"
+          "en": "Bal Gangadhar Tilak",
+          "as": "বাল গংগাধৰ তিলক"
         },
         {
           "en": "Sardar Patel",
           "as": "সৰ্দাৰ পেটেল"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Lala Lajpat Rai was lathi-charged during the Simon Commission protest in Lahore and later died of his injuries.",
         "as": "লাহোৰত চাইমন আয়োগৰ প্ৰতিবাদত লালা লাজপত ৰায়ৰ ওপৰত লাঠিচালনা কৰা হৈছিল আৰু পিছত তেওঁ আঘাতৰ ফলত মৃত্যুবৰণ কৰিছিল।"
@@ -792,8 +792,8 @@
       },
       "options": [
         {
-          "en": "A report recommending immediate independence",
-          "as": "তৎক্ষণাত স্বাধীনতাৰ সুপাৰিশ দিয়া প্ৰতিবেদন"
+          "en": "A report by Motilal Nehru recommending dominion status for India, prepared by an All-Party Conference committee",
+          "as": "ভাৰতৰ বাবে ডমিনিয়ন মৰ্যাদাৰ সুপাৰিশ দিয়া মতিলাল নেহৰুৰ প্ৰতিবেদন, সৰ্বদলীয় সন্মিলন সমিতিয়ে প্ৰস্তুত কৰা"
         },
         {
           "en": "A report on the partition of Bengal",
@@ -804,11 +804,11 @@
           "as": "চাইমন আয়োগৰ সংস্কাৰৰ প্ৰতিবেদন"
         },
         {
-          "en": "A report by Motilal Nehru recommending dominion status for India, prepared by an All-Party Conference committee",
-          "as": "ভাৰতৰ বাবে ডমিনিয়ন মৰ্যাদাৰ সুপাৰিশ দিয়া মতিলাল নেহৰুৰ প্ৰতিবেদন, সৰ্বদলীয় সন্মিলন সমিতিয়ে প্ৰস্তুত কৰা"
+          "en": "A report recommending immediate independence",
+          "as": "তৎক্ষণাত স্বাধীনতাৰ সুপাৰিশ দিয়া প্ৰতিবেদন"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The Nehru Report of 1928, prepared by an All-Party Conference committee, recommended dominion status for India.",
         "as": "১৯২৮ চনৰ নেহৰু প্ৰতিবেদন, সৰ্বদলীয় সন্মিলন সমিতিয়ে প্ৰস্তুত কৰা, ভাৰতৰ বাবে ডমিনিয়ন মৰ্যাদাৰ সুপাৰিশ দিছিল।"
@@ -829,19 +829,19 @@
           "as": "জৱাহৰলাল নেহৰু"
         },
         {
-          "en": "Motilal Nehru",
-          "as": "মতিলাল নেহৰু"
-        },
-        {
           "en": "Mahatma Gandhi",
           "as": "মহাত্মা গান্ধী"
+        },
+        {
+          "en": "Motilal Nehru",
+          "as": "মতিলাল নেহৰু"
         },
         {
           "en": "C.R. Das",
           "as": "চি. আৰ. দাস"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Motilal Nehru was the chairman of the Nehru Report Committee.",
         "as": "মতিলাল নেহৰু নেহৰু প্ৰতিবেদন সমিতিৰ অধ্যক্ষ আছিল।"
@@ -858,8 +858,8 @@
       },
       "options": [
         {
-          "en": "The declaration of complete independence made at the Lahore Session of Congress in December 1929",
-          "as": "১৯২৯ চনৰ ডিচেম্বৰত কংগ্ৰেছৰ লাহোৰ অধিৱেশনত সম্পূৰ্ণ স্বাধীনতাৰ ঘোষণা"
+          "en": "The declaration of the Poona Pact in 1932",
+          "as": "১৯৩২ চনত পুনা চুক্তিৰ ঘোষণা"
         },
         {
           "en": "The declaration of dominion status in 1928",
@@ -870,11 +870,11 @@
           "as": "১৯৪২ চনত ভাৰত এৰা আন্দোলনৰ ঘোষণা"
         },
         {
-          "en": "The declaration of the Poona Pact in 1932",
-          "as": "১৯৩২ চনত পুনা চুক্তিৰ ঘোষণা"
+          "en": "The declaration of complete independence made at the Lahore Session of Congress in December 1929",
+          "as": "১৯২৯ চনৰ ডিচেম্বৰত কংগ্ৰেছৰ লাহোৰ অধিৱেশনত সম্পূৰ্ণ স্বাধীনতাৰ ঘোষণা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Purna Swaraj was the declaration of complete independence made at the Lahore Session of the Congress in December 1929.",
         "as": "পূৰ্ণ স্বৰাজ আছিল ১৯২৯ চনৰ ডিচেম্বৰত কংগ্ৰেছৰ লাহোৰ অধিৱেশনত কৰা সম্পূৰ্ণ স্বাধীনতাৰ ঘোষণা।"
@@ -928,19 +928,19 @@
           "as": "১৯৪৭ চনৰ ১৫ আগষ্টত"
         },
         {
-          "en": "On 26 January 1950",
-          "as": "১৯৫০ চনৰ ২৬ জানুৱাৰীত"
+          "en": "On 26 January 1930",
+          "as": "১৯৩০ চনৰ ২৬ জানুৱাৰীত"
         },
         {
           "en": "On 6 April 1930",
           "as": "১৯৩০ চনৰ ৬ এপ্ৰিলত"
         },
         {
-          "en": "On 26 January 1930",
-          "as": "১৯৩০ চনৰ ২৬ জানুৱাৰীত"
+          "en": "On 26 January 1950",
+          "as": "১৯৫০ চনৰ ২৬ জানুৱাৰীত"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The Independence Day was observed on 26 January 1930.",
         "as": "স্বাধীনতা দিৱস ১৯৩০ চনৰ ২৬ জানুৱাৰীত পালন কৰা হৈছিল।"
@@ -965,15 +965,15 @@
           "as": "খিলাফত আন্দোলনৰ যাত্ৰা"
         },
         {
-          "en": "Gandhiji's 240-mile march from Sabarmati Ashram to Dandi from 12 March to 6 April 1930 to break the salt law",
-          "as": "নিমখ আইন ভংগ কৰিবলৈ ১৯৩০ চনৰ ১২ মাৰ্চৰ পৰা ৬ এপ্ৰিললৈ সাবৰমতী আশ্ৰমৰ পৰা দণ্ডীলৈ গান্ধীজীৰ ২৪০ মাইল খোজ যাত্ৰা"
-        },
-        {
           "en": "A march to the Red Fort for independence",
           "as": "স্বাধীনতাৰ বাবে লালকিল্লালৈ যাত্ৰা"
+        },
+        {
+          "en": "Gandhiji's 240-mile march from Sabarmati Ashram to Dandi from 12 March to 6 April 1930 to break the salt law",
+          "as": "নিমখ আইন ভংগ কৰিবলৈ ১৯৩০ চনৰ ১২ মাৰ্চৰ পৰা ৬ এপ্ৰিললৈ সাবৰমতী আশ্ৰমৰ পৰা দণ্ডীলৈ গান্ধীজীৰ ২৪০ মাইল খোজ যাত্ৰা"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Dandi March was Gandhiji's 240-mile march from Sabarmati Ashram to Dandi from 12 March to 6 April 1930 to break the salt law.",
         "as": "দণ্ডী যাত্ৰা আছিল নিমখ আইন ভংগ কৰিবলৈ ১৯৩০ চনৰ ১২ মাৰ্চৰ পৰা ৬ এপ্ৰিললৈ সাবৰমতী আশ্ৰমৰ পৰা দণ্ডীলৈ গান্ধীজীৰ ২৪০ মাইল খোজ যাত্ৰা।"
@@ -998,15 +998,15 @@
           "as": "১৯৩১ চনৰ ৫ মাৰ্চত"
         },
         {
-          "en": "On 26 January 1930",
-          "as": "১৯৩০ চনৰ ২৬ জানুৱাৰীত"
-        },
-        {
           "en": "On 6 April 1930, with the breaking of the salt law at Dandi",
           "as": "১৯৩০ চনৰ ৬ এপ্ৰিলত, দণ্ডীত নিমখ আইন ভংগ কৰি"
+        },
+        {
+          "en": "On 26 January 1930",
+          "as": "১৯৩০ চনৰ ২৬ জানুৱাৰীত"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Civil Disobedience Movement was launched on 6 April 1930 with the breaking of the salt law at Dandi.",
         "as": "আইন অমান্য আন্দোলন ১৯৩০ চনৰ ৬ এপ্ৰিলত দণ্ডীত নিমখ আইন ভংগ কৰি আৰম্ভ কৰা হৈছিল।"
@@ -1023,23 +1023,23 @@
       },
       "options": [
         {
-          "en": "A heavy tax on salt which hit the common people, and the government's monopoly on salt production",
-          "as": "সাধাৰণ লোকক প্ৰভাৱিত কৰা নিমখৰ ওপৰত গধুৰ কৰ আৰু নিমখ উৎপাদনত চৰকাৰৰ একচেটিয়া অধিকাৰ"
+          "en": "A tax on agricultural land",
+          "as": "কৃষিভূমিৰ ওপৰত কৰ"
         },
         {
           "en": "A tax on imported cloth",
           "as": "আমদানি কৰা কাপোৰৰ ওপৰত কৰ"
         },
         {
-          "en": "A tax on agricultural land",
-          "as": "কৃষিভূমিৰ ওপৰত কৰ"
+          "en": "A heavy tax on salt which hit the common people, and the government's monopoly on salt production",
+          "as": "সাধাৰণ লোকক প্ৰভাৱিত কৰা নিমখৰ ওপৰত গধুৰ কৰ আৰু নিমখ উৎপাদনত চৰকাৰৰ একচেটিয়া অধিকাৰ"
         },
         {
           "en": "A tax on salt exports only",
           "as": "কেৱল নিমখ ৰপ্তানিৰ ওপৰত কৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The salt tax was a heavy tax on salt which hit the common people, along with the government's monopoly on salt production.",
         "as": "নিমখ কৰ আছিল নিমখৰ ওপৰত গধুৰ কৰ, যি সাধাৰণ লোকক প্ৰভাৱিত কৰিছিল, লগতে নিমখ উৎপাদনত চৰকাৰৰ একচেটিয়া অধিকাৰ আছিল।"
@@ -1056,12 +1056,12 @@
       },
       "options": [
         {
-          "en": "Maulana Azad",
-          "as": "মৌলানা আজাদ"
-        },
-        {
           "en": "Khan Abdul Ghaffar Khan (Frontier Gandhi)",
           "as": "খান আব্দুল গফ্ফৰ খান (সীমান্ত গান্ধী)"
+        },
+        {
+          "en": "Maulana Azad",
+          "as": "মৌলানা আজাদ"
         },
         {
           "en": "Sardar Patel",
@@ -1072,7 +1072,7 @@
           "as": "জৱাহৰলাল নেহৰু"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Khan Abdul Ghaffar Khan, known as Frontier Gandhi, led the Civil Disobedience Movement in the North-West Frontier Province.",
         "as": "সীমান্ত গান্ধী নামেৰে জনাজাত খান আব্দুল গফ্ফৰ খানে উত্তৰ-পশ্চিম সীমান্ত প্ৰদেশত আইন অমান্য আন্দোলনৰ নেতৃত্ব দিছিল।"
@@ -1122,12 +1122,12 @@
       },
       "options": [
         {
-          "en": "An agreement on reserved seats for the depressed classes",
-          "as": "অনুসূচিত শ্ৰেণীৰ সংৰক্ষিত আসনৰ চুক্তি"
-        },
-        {
           "en": "An agreement in March 1931 by which the government released political prisoners and Gandhi agreed to suspend the Civil Disobedience Movement",
           "as": "১৯৩১ চনৰ মাৰ্চত চৰকাৰে ৰাজনৈতিক বন্দীসকলক মুকলি কৰি গান্ধীয়ে আইন অমান্য আন্দোলন স্থগিত ৰাখিবলৈ সন্মত হোৱা চুক্তি"
+        },
+        {
+          "en": "An agreement on reserved seats for the depressed classes",
+          "as": "অনুসূচিত শ্ৰেণীৰ সংৰক্ষিত আসনৰ চুক্তি"
         },
         {
           "en": "An agreement to end the Khilafat Movement",
@@ -1138,7 +1138,7 @@
           "as": "ভাৰত বিভাজনৰ চুক্তি"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Gandhi-Irwin Pact was an agreement in March 1931 by which the government released political prisoners and Gandhi agreed to suspend the Civil Disobedience Movement.",
         "as": "গান্ধী-আৰউইন চুক্তি ১৯৩১ চনৰ মাৰ্চত হোৱা চুক্তি আছিল, যাৰ দ্বাৰা চৰকাৰে ৰাজনৈতিক বন্দীসকলক মুকলি কৰিছিল আৰু গান্ধীয়ে আইন অমান্য আন্দোলন স্থগিত ৰাখিবলৈ সন্মত হৈছিল।"
@@ -1159,19 +1159,19 @@
           "as": "১৯৩০ চনৰ ৬ এপ্ৰিলত"
         },
         {
-          "en": "On 24 September 1932",
-          "as": "১৯৩২ চনৰ ২৪ ছেপ্টেম্বৰত"
-        },
-        {
           "en": "On 5 March 1931",
           "as": "১৯৩১ চনৰ ৫ মাৰ্চত"
+        },
+        {
+          "en": "On 24 September 1932",
+          "as": "১৯৩২ চনৰ ২৪ ছেপ্টেম্বৰত"
         },
         {
           "en": "On 8 August 1942",
           "as": "১৯৪২ চনৰ ৮ আগষ্টত"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Gandhi-Irwin Pact was signed on 5 March 1931.",
         "as": "গান্ধী-আৰউইন চুক্তি ১৯৩১ চনৰ ৫ মাৰ্চত স্বাক্ষৰিত হৈছিল।"
@@ -1188,23 +1188,23 @@
       },
       "options": [
         {
-          "en": "Lord Linlithgow",
-          "as": "লৰ্ড লিনলিথগো"
+          "en": "Lord Irwin",
+          "as": "লৰ্ড আৰউইন"
         },
         {
           "en": "Lord Mountbatten",
           "as": "লৰ্ড মাউণ্টবেটেন"
         },
         {
-          "en": "Lord Irwin",
-          "as": "লৰ্ড আৰউইন"
+          "en": "Lord Linlithgow",
+          "as": "লৰ্ড লিনলিথগো"
         },
         {
           "en": "Lord Wavell",
           "as": "লৰ্ড ৱেভেল"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Lord Irwin was the Viceroy at the time of the Gandhi-Irwin Pact.",
         "as": "গান্ধী-আৰউইন চুক্তিৰ সময়ত লৰ্ড আৰউইন ভাইচৰয় আছিল।"
@@ -1225,19 +1225,19 @@
           "as": "১৯৩১ চনত গান্ধী আৰু আৰউইনৰ মাজত চুক্তি"
         },
         {
-          "en": "An agreement between the Congress and the Muslim League in 1916",
-          "as": "১৯১৬ চনত কংগ্ৰেছ আৰু মুছলিম লীগৰ মাজত চুক্তি"
-        },
-        {
           "en": "An agreement between Gandhi and Dr. B.R. Ambedkar in September 1932 on reserved seats for the depressed classes",
           "as": "১৯৩২ চনৰ ছেপ্টেম্বৰত অনুসূচিত শ্ৰেণীৰ সংৰক্ষিত আসনৰ বিষয়ে গান্ধী আৰু ড° আম্বেদকাৰৰ মাজত চুক্তি"
+        },
+        {
+          "en": "An agreement between the Congress and the Muslim League in 1916",
+          "as": "১৯১৬ চনত কংগ্ৰেছ আৰু মুছলিম লীগৰ মাজত চুক্তি"
         },
         {
           "en": "An agreement between the Congress and the British in 1942",
           "as": "১৯৪২ চনত কংগ্ৰেছ আৰু ব্ৰিটিছৰ মাজত চুক্তি"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Poona Pact was an agreement between Gandhi and Dr. B.R. Ambedkar in September 1932 on reserved seats for the depressed classes.",
         "as": "পুনা চুক্তি ১৯৩২ চনৰ ছেপ্টেম্বৰত অনুসূচিত শ্ৰেণীৰ সংৰক্ষিত আসনৰ বিষয়ে গান্ধী আৰু ড° আম্বেদকাৰৰ মাজত হোৱা চুক্তি আছিল।"
@@ -1258,19 +1258,19 @@
           "as": "কাৰণ পুৰস্কাৰে নিমখ কৰ বিলোপ কৰিছিল"
         },
         {
-          "en": "Because the Award granted independence",
-          "as": "কাৰণ পুৰস্কাৰে স্বাধীনতা দিছিল"
-        },
-        {
           "en": "Because the Award proposed separate electorates for the depressed classes",
           "as": "কাৰণ পুৰস্কাৰে অনুসূচিত শ্ৰেণীৰ বাবে পৃথক নিৰ্বাচকমণ্ডলীৰ প্ৰস্তাৱ দিছিল"
+        },
+        {
+          "en": "Because the Award granted independence",
+          "as": "কাৰণ পুৰস্কাৰে স্বাধীনতা দিছিল"
         },
         {
           "en": "Because the Award banned the Congress",
           "as": "কাৰণ পুৰস্কাৰে কংগ্ৰেছ নিষিদ্ধ কৰিছিল"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Gandhiji fasted against the Communal Award because it proposed separate electorates for the depressed classes.",
         "as": "গান্ধীজীয়ে সাম্প্ৰদায়িক পুৰস্কাৰৰ বিৰুদ্ধে অনশন কৰিছিল কাৰণ ই অনুসূচিত শ্ৰেণীৰ বাবে পৃথক নিৰ্বাচকমণ্ডলীৰ প্ৰস্তাৱ দিছিল।"
@@ -1287,8 +1287,8 @@
       },
       "options": [
         {
-          "en": "An announcement by the British Prime Minister granting separate electorates to various communities",
-          "as": "বিভিন্ন সম্প্ৰদায়ক পৃথক নিৰ্বাচকমণ্ডলী প্ৰদান কৰা ব্ৰিটিছ প্ৰধানমন্ত্ৰীৰ ঘোষণা"
+          "en": "A scheme for basic education",
+          "as": "মৌলিক শিক্ষাৰ আঁচনি"
         },
         {
           "en": "A law abolishing the salt tax",
@@ -1299,11 +1299,11 @@
           "as": "ভাৰত বিভাজনৰ আঁচনি"
         },
         {
-          "en": "A scheme for basic education",
-          "as": "মৌলিক শিক্ষাৰ আঁচনি"
+          "en": "An announcement by the British Prime Minister granting separate electorates to various communities",
+          "as": "বিভিন্ন সম্প্ৰদায়ক পৃথক নিৰ্বাচকমণ্ডলী প্ৰদান কৰা ব্ৰিটিছ প্ৰধানমন্ত্ৰীৰ ঘোষণা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Communal Award of 1932 was an announcement by the British Prime Minister granting separate electorates to various communities.",
         "as": "১৯৩২ চনৰ সাম্প্ৰদায়িক পুৰস্কাৰ আছিল বিভিন্ন সম্প্ৰদায়ক পৃথক নিৰ্বাচকমণ্ডলী প্ৰদান কৰা ব্ৰিটিছ প্ৰধানমন্ত্ৰীৰ ঘোষণা।"
@@ -1324,19 +1324,19 @@
           "as": "১৯৩০ চনৰ ৬ এপ্ৰিলত, দণ্ডীত"
         },
         {
-          "en": "On 8 August 1942, at the Bombay session of the Congress",
-          "as": "১৯৪২ চনৰ ৮ আগষ্টত, কংগ্ৰেছৰ বম্বে অধিৱেশনত"
-        },
-        {
           "en": "On 26 January 1930",
           "as": "১৯৩০ চনৰ ২৬ জানুৱাৰীত"
+        },
+        {
+          "en": "On 8 August 1942, at the Bombay session of the Congress",
+          "as": "১৯৪২ চনৰ ৮ আগষ্টত, কংগ্ৰেছৰ বম্বে অধিৱেশনত"
         },
         {
           "en": "On 5 March 1931",
           "as": "১৯৩১ চনৰ ৫ মাৰ্চত"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Quit India Movement was launched on 8 August 1942 at the Bombay session of the Congress.",
         "as": "ভাৰত এৰা আন্দোলন ১৯৪২ চনৰ ৮ আগষ্টত কংগ্ৰেছৰ বম্বে অধিৱেশনত আৰম্ভ কৰা হৈছিল।"
@@ -1353,12 +1353,12 @@
       },
       "options": [
         {
-          "en": "Mahatma Gandhi, at the Quit India Movement",
-          "as": "মহাত্মা গান্ধী, ভাৰত এৰা আন্দোলনত"
-        },
-        {
           "en": "Subhas Chandra Bose",
           "as": "সুভাষ চন্দ্ৰ বসু"
+        },
+        {
+          "en": "Mahatma Gandhi, at the Quit India Movement",
+          "as": "মহাত্মা গান্ধী, ভাৰত এৰা আন্দোলনত"
         },
         {
           "en": "Jawaharlal Nehru",
@@ -1369,7 +1369,7 @@
           "as": "বাল গংগাধৰ তিলক"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Mahatma Gandhi gave the slogan 'Do or Die' at the Quit India Movement.",
         "as": "মহাত্মা গান্ধীয়ে ভাৰত এৰা আন্দোলনত 'কৰ বা মৰ' স্ল'গান দিছিল।"
@@ -1427,15 +1427,15 @@
           "as": "সুভাষ চন্দ্ৰ বসু"
         },
         {
-          "en": "Maulana Abul Kalam Azad",
-          "as": "মৌলানা আবুল কালাম আজাদ"
-        },
-        {
           "en": "Sardar Patel",
           "as": "সৰ্দাৰ পেটেল"
+        },
+        {
+          "en": "Maulana Abul Kalam Azad",
+          "as": "মৌলানা আবুল কালাম আজাদ"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Maulana Abul Kalam Azad was the Congress President during the Quit India Movement.",
         "as": "ভাৰত এৰা আন্দোলনৰ সময়ত মৌলানা আবুল কালাম আজাদ কংগ্ৰেছ সভাপতি আছিল।"
@@ -1456,19 +1456,19 @@
           "as": "কেৱল মুছলিম লীগ নেতাসকল"
         },
         {
-          "en": "Gandhiji and all the top Congress leaders",
-          "as": "গান্ধীজী আৰু সকলো শীৰ্ষ কংগ্ৰেছ নেতা"
-        },
-        {
           "en": "Only the revolutionary leaders",
           "as": "কেৱল বিপ্লৱী নেতাসকল"
+        },
+        {
+          "en": "Gandhiji and all the top Congress leaders",
+          "as": "গান্ধীজী আৰু সকলো শীৰ্ষ কংগ্ৰেছ নেতা"
         },
         {
           "en": "No one was arrested",
           "as": "কাকো গ্ৰেপ্তাৰ কৰা হোৱা নাই"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "After the Quit India Resolution, Gandhiji and all the top Congress leaders were arrested.",
         "as": "ভাৰত এৰা প্ৰস্তাৱৰ পিছত গান্ধীজী আৰু সকলো শীৰ্ষ কংগ্ৰেছ নেতাক গ্ৰেপ্তাৰ কৰা হৈছিল।"
@@ -1489,19 +1489,19 @@
           "as": "তেওঁলোকে ব্ৰিটিছৰ সৈতে স্বাধীনতাৰ আলোচনা কৰিছিল"
         },
         {
-          "en": "Parallel governments were set up in places like Ballia and Satara to administer the areas",
-          "as": "বালিয়া আৰু সাতাৰাৰ দৰে স্থানত অঞ্চল প্ৰশাসনৰ বাবে সমান্তৰাল চৰকাৰ গঠন কৰা হৈছিল"
-        },
-        {
           "en": "They organised the Constituent Assembly",
           "as": "তেওঁলোকে সংবিধান সভা সংগঠিত কৰিছিল"
+        },
+        {
+          "en": "Parallel governments were set up in places like Ballia and Satara to administer the areas",
+          "as": "বালিয়া আৰু সাতাৰাৰ দৰে স্থানত অঞ্চল প্ৰশাসনৰ বাবে সমান্তৰাল চৰকাৰ গঠন কৰা হৈছিল"
         },
         {
           "en": "They ran the Congress party's election campaign",
           "as": "তেওঁলোকে কংগ্ৰেছৰ নিৰ্বাচনী প্ৰচাৰ চলাইছিল"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "During the Quit India Movement, parallel governments were set up in places like Ballia and Satara to administer the areas.",
         "as": "ভাৰত এৰা আন্দোলনৰ সময়ত বালিয়া আৰু সাতাৰাৰ দৰে স্থানত অঞ্চল প্ৰশাসনৰ বাবে সমান্তৰাল চৰকাৰ গঠন কৰা হৈছিল।"
@@ -1551,8 +1551,8 @@
       },
       "options": [
         {
-          "en": "A mission to enquire into the 1919 Act",
-          "as": "১৯১৯ চনৰ আইন তদন্ত কৰা অভিযান"
+          "en": "A mission sent by the British government in 1942 to gain Indian cooperation during World War II",
+          "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত ভাৰতীয় সহযোগিতা লাভৰ বাবে ১৯৪২ চনত ব্ৰিটিছ চৰকাৰে পঠিওৱা অভিযান"
         },
         {
           "en": "A mission to transfer power in 1946",
@@ -1563,11 +1563,11 @@
           "as": "সংবিধান প্ৰণয়নৰ অভিযান"
         },
         {
-          "en": "A mission sent by the British government in 1942 to gain Indian cooperation during World War II",
-          "as": "দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত ভাৰতীয় সহযোগিতা লাভৰ বাবে ১৯৪২ চনত ব্ৰিটিছ চৰকাৰে পঠিওৱা অভিযান"
+          "en": "A mission to enquire into the 1919 Act",
+          "as": "১৯১৯ চনৰ আইন তদন্ত কৰা অভিযান"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The Cripps Mission was sent by the British government in 1942 to gain Indian cooperation during World War II.",
         "as": "ক্ৰিপছ মিছন দ্বিতীয় বিশ্বযুদ্ধৰ সময়ত ভাৰতীয় সহযোগিতা লাভৰ বাবে ১৯৪২ চনত ব্ৰিটিছ চৰকাৰে পঠিয়াইছিল।"
@@ -1588,19 +1588,19 @@
           "as": "লৰ্ড পেথিক-লৰেন্স"
         },
         {
-          "en": "A.V. Alexander",
-          "as": "এ. ভি. আলেকজেণ্ডাৰ"
-        },
-        {
           "en": "Stafford Cripps",
           "as": "ষ্টাফৰ্ড ক্ৰিপছ"
+        },
+        {
+          "en": "A.V. Alexander",
+          "as": "এ. ভি. আলেকজেণ্ডাৰ"
         },
         {
           "en": "Lord Mountbatten",
           "as": "লৰ্ড মাউণ্টবেটেন"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Cripps Mission was headed by Stafford Cripps.",
         "as": "ক্ৰিপছ মিছনৰ নেতৃত্ব ষ্টাফৰ্ড ক্ৰিপছে দিছিল।"
@@ -1625,15 +1625,15 @@
           "as": "কাৰণ ই পৃথক নিৰ্বাচকমণ্ডলী দিছিল"
         },
         {
-          "en": "Because it abolished the Congress",
-          "as": "কাৰণ ই কংগ্ৰেছ বিলুপ্ত কৰিছিল"
-        },
-        {
           "en": "Because it did not provide for immediate full independence and the formation of a national government",
           "as": "কাৰণ ই তৎক্ষণাত সম্পূৰ্ণ স্বাধীনতা আৰু ৰাষ্ট্ৰীয় চৰকাৰ গঠনৰ ব্যৱস্থা নাছিল"
+        },
+        {
+          "en": "Because it abolished the Congress",
+          "as": "কাৰণ ই কংগ্ৰেছ বিলুপ্ত কৰিছিল"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Congress rejected the Cripps proposals because they did not provide for immediate full independence and a national government.",
         "as": "কংগ্ৰেছে ক্ৰিপছ প্ৰস্তাৱ নাকচ কৰিছিল কাৰণ ই তৎক্ষণাৎ সম্পূৰ্ণ স্বাধীনতা আৰু ৰাষ্ট্ৰীয় চৰকাৰ গঠনৰ ব্যৱস্থা নাছিল।"
@@ -1654,19 +1654,19 @@
           "as": "জালিয়ানৱালাবাগ হত্যাকাণ্ড তদন্তৰ অভিযান"
         },
         {
-          "en": "A mission of three British ministers sent to India to discuss the transfer of power",
-          "as": "ক্ষমতা হস্তান্তৰৰ আলোচনাৰ বাবে ভাৰতলৈ পঠিওৱা তিনিজন ব্ৰিটিছ মন্ত্ৰীৰ অভিযান"
+          "en": "A mission to reorganise the Indian Army",
+          "as": "ভাৰতীয় সেনা পুনৰ্গঠনৰ অভিযান"
         },
         {
           "en": "A mission to draft the Constitution",
           "as": "সংবিধান প্ৰণয়নৰ অভিযান"
         },
         {
-          "en": "A mission to reorganise the Indian Army",
-          "as": "ভাৰতীয় সেনা পুনৰ্গঠনৰ অভিযান"
+          "en": "A mission of three British ministers sent to India to discuss the transfer of power",
+          "as": "ক্ষমতা হস্তান্তৰৰ আলোচনাৰ বাবে ভাৰতলৈ পঠিওৱা তিনিজন ব্ৰিটিছ মন্ত্ৰীৰ অভিযান"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Cabinet Mission of 1946 was a mission of three British ministers sent to India to discuss the transfer of power.",
         "as": "১৯৪৬ চনৰ কেবিনেট মিছন আছিল ক্ষমতা হস্তান্তৰৰ আলোচনাৰ বাবে ভাৰতলৈ পঠিওৱা তিনিজন ব্ৰিটিছ মন্ত্ৰীৰ অভিযান।"
@@ -1683,8 +1683,8 @@
       },
       "options": [
         {
-          "en": "Mountbatten, Wavell and Irwin",
-          "as": "মাউণ্টবেটেন, ৱেভেল আৰু আৰউইন"
+          "en": "Lord Pethick-Lawrence, Sir Stafford Cripps and A.V. Alexander",
+          "as": "লৰ্ড পেথিক-লৰেন্স, ছাৰ ষ্টাফৰ্ড ক্ৰিপছ আৰু এ. ভি. আলেকজেণ্ডাৰ"
         },
         {
           "en": "Cripps, Gandhi and Nehru",
@@ -1695,11 +1695,11 @@
           "as": "এটলি, চাৰ্চিল আৰু ক্ৰিপছ"
         },
         {
-          "en": "Lord Pethick-Lawrence, Sir Stafford Cripps and A.V. Alexander",
-          "as": "লৰ্ড পেথিক-লৰেন্স, ছাৰ ষ্টাফৰ্ড ক্ৰিপছ আৰু এ. ভি. আলেকজেণ্ডাৰ"
+          "en": "Mountbatten, Wavell and Irwin",
+          "as": "মাউণ্টবেটেন, ৱেভেল আৰু আৰউইন"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The Cabinet Mission members were Lord Pethick-Lawrence, Sir Stafford Cripps and A.V. Alexander.",
         "as": "কেবিনেট মিছনৰ সদস্য আছিল লৰ্ড পেথিক-লৰেন্স, ছাৰ ষ্টাফৰ্ড ক্ৰিপছ আৰু এ. ভি. আলেকজেণ্ডাৰ।"
@@ -1757,15 +1757,15 @@
           "as": "কৃষিভূমিৰ কৰ"
         },
         {
-          "en": "A tax imposed on salt by the British, which was a burden on the common people",
-          "as": "ব্ৰিটিছে নিমখৰ ওপৰত লগোৱা কৰ, যি সাধাৰণ লোকৰ বাবে বোজা আছিল"
-        },
-        {
           "en": "A tax on railway travel",
           "as": "ৰে’ল যাত্ৰাৰ কৰ"
+        },
+        {
+          "en": "A tax imposed on salt by the British, which was a burden on the common people",
+          "as": "ব্ৰিটিছে নিমখৰ ওপৰত লগোৱা কৰ, যি সাধাৰণ লোকৰ বাবে বোজা আছিল"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The salt tax was a tax imposed on salt by the British, which was a burden on the common people.",
         "as": "নিমখ কৰ আছিল ব্ৰিটিছে নিমখৰ ওপৰত লগোৱা কৰ, যি সাধাৰণ লোকৰ বাবে বোজা আছিল।"
@@ -1790,15 +1790,15 @@
           "as": "তিলক, পাল আৰু লাজপত ৰায়"
         },
         {
-          "en": "Bismil, Ashfaqulla and Bhagat Singh",
-          "as": "বিসমিল, অশফাকুল্লা আৰু ভগত সিং"
-        },
-        {
           "en": "Gandhi, Nehru, Patel, Maulana Azad and other Congress leaders",
           "as": "গান্ধী, নেহৰু, পেটেল, মৌলানা আজাদ আৰু অন্যান্য কংগ্ৰেছ নেতা"
+        },
+        {
+          "en": "Bismil, Ashfaqulla and Bhagat Singh",
+          "as": "বিসমিল, অশফাকুল্লা আৰু ভগত সিং"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The leaders of the Quit India Movement were Gandhi, Nehru, Patel, Maulana Azad and other Congress leaders.",
         "as": "ভাৰত এৰা আন্দোলনৰ নেতা আছিল গান্ধী, নেহৰু, পেটেল, মৌলানা আজাদ আৰু অন্যান্য কংগ্ৰেছ নেতা।"
@@ -1848,12 +1848,12 @@
       },
       "options": [
         {
-          "en": "A mass movement for complete independence",
-          "as": "সম্পূৰ্ণ স্বাধীনতাৰ বাবে গণ আন্দোলন"
-        },
-        {
           "en": "A limited satyagraha launched by Gandhi in which selected individuals offered civil disobedience",
           "as": "গান্ধীয়ে আৰম্ভ কৰা সীমিত সত্যাগ্ৰহ, য'ত নিৰ্বাচিত ব্যক্তিসকলে আইন অমান্য কৰিছিল"
+        },
+        {
+          "en": "A mass movement for complete independence",
+          "as": "সম্পূৰ্ণ স্বাধীনতাৰ বাবে গণ আন্দোলন"
         },
         {
           "en": "A movement to support the British war effort",
@@ -1864,7 +1864,7 @@
           "as": "পৃথক নিৰ্বাচকমণ্ডলীৰ আন্দোলন"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Individual Satyagraha of 1940 was a limited satyagraha launched by Gandhi in which selected individuals offered civil disobedience.",
         "as": "১৯৪০ চনৰ ব্যক্তিগত সত্যাগ্ৰহ গান্ধীয়ে আৰম্ভ কৰা সীমিত সত্যাগ্ৰহ আছিল, য'ত নিৰ্বাচিত ব্যক্তিসকলে আইন অমান্য কৰিছিল।"
@@ -1885,19 +1885,19 @@
           "as": "জৱাহৰলাল নেহৰু"
         },
         {
-          "en": "Sardar Patel",
-          "as": "সৰ্দাৰ পেটেল"
-        },
-        {
           "en": "Vinoba Bhave",
           "as": "বিনোবা ভাৱে"
+        },
+        {
+          "en": "Sardar Patel",
+          "as": "সৰ্দাৰ পেটেল"
         },
         {
           "en": "Jai Prakash Narayan",
           "as": "জয় প্ৰকাশ নাৰায়ণ"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Vinoba Bhave was the first individual satyagrahi.",
         "as": "বিনোবা ভাৱে প্ৰথম ব্যক্তিগত সত্যাগ্ৰহী আছিল।"
@@ -1955,15 +1955,15 @@
           "as": "চৰকাৰী বিদ্যালয়লৈ যাবলৈ অস্বীকাৰ"
         },
         {
-          "en": "The refusal to join the army",
-          "as": "সেনাত যোগ দিবলৈ অস্বীকাৰ"
-        },
-        {
           "en": "The refusal to pay taxes as part of the Civil Disobedience Movement",
           "as": "আইন অমান্য আন্দোলনৰ অংশ হিচাপে কৰ দিবলৈ অস্বীকাৰ"
+        },
+        {
+          "en": "The refusal to join the army",
+          "as": "সেনাত যোগ দিবলৈ অস্বীকাৰ"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The 'No Tax' campaign was the refusal to pay taxes as part of the Civil Disobedience Movement.",
         "as": "'কৰ নিদিয়া' অভিযান আছিল আইন অমান্য আন্দোলনৰ অংশ হিচাপে কৰ দিবলৈ অস্বীকাৰ।"
@@ -2017,19 +2017,19 @@
           "as": "আহমদাবাদত মিল শ্ৰমিক ধৰ্মঘট"
         },
         {
-          "en": "A peasants' movement against the increased land revenue in Bardoli, Gujarat, in 1928",
-          "as": "১৯২৮ চনত গুজৰাটৰ বৰদলীত বৃদ্ধি কৰা ভূমি ৰাজহৰ বিৰুদ্ধে কৃষক আন্দোলন"
-        },
-        {
           "en": "An indigo planters' protest in Champaran",
           "as": "চম্পাৰণত নীল চাষীৰ প্ৰতিবাদ"
+        },
+        {
+          "en": "A peasants' movement against the increased land revenue in Bardoli, Gujarat, in 1928",
+          "as": "১৯২৮ চনত গুজৰাটৰ বৰদলীত বৃদ্ধি কৰা ভূমি ৰাজহৰ বিৰুদ্ধে কৃষক আন্দোলন"
         },
         {
           "en": "A salt satyagraha in Dandi",
           "as": "দণ্ডীত নিমখ সত্যাগ্ৰহ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Bardoli Satyagraha was a peasants' movement against the increased land revenue in Bardoli, Gujarat, in 1928.",
         "as": "বৰদলী সত্যাগ্ৰহ ১৯২৮ চনত গুজৰাটৰ বৰদলীত বৃদ্ধি কৰা ভূমি ৰাজহৰ বিৰুদ্ধে কৃষক আন্দোলন আছিল।"
@@ -2079,23 +2079,23 @@
       },
       "options": [
         {
-          "en": "Lord Linlithgow",
-          "as": "লৰ্ড লিনলিথগো"
+          "en": "Lord Mountbatten",
+          "as": "লৰ্ড মাউণ্টবেটেন"
         },
         {
           "en": "Lord Irwin",
           "as": "লৰ্ড আৰউইন"
         },
         {
-          "en": "Lord Mountbatten",
-          "as": "লৰ্ড মাউণ্টবেটেন"
+          "en": "Lord Linlithgow",
+          "as": "লৰ্ড লিনলিথগো"
         },
         {
           "en": "Lord Wavell",
           "as": "লৰ্ড ৱেভেল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Lord Linlithgow was the Viceroy of India during the Quit India Movement.",
         "as": "ভাৰত এৰা আন্দোলনৰ সময়ত লৰ্ড লিনলিথগো ভাৰতৰ ভাইচৰয় আছিল।"
@@ -2112,23 +2112,23 @@
       },
       "options": [
         {
-          "en": "The leaders were arrested and the movement was brutally suppressed",
-          "as": "নেতাসকলক গ্ৰেপ্তাৰ কৰা হৈছিল আৰু আন্দোলনক নিষ্ঠুৰভাৱে দমন কৰা হৈছিল"
+          "en": "The British accepted all demands",
+          "as": "ব্ৰিটিছে সকলো দাবী মানি লৈছিল"
         },
         {
           "en": "The British immediately granted independence",
           "as": "ব্ৰিটিছে তৎক্ষণাত স্বাধীনতা দিছিল"
         },
         {
-          "en": "The British accepted all demands",
-          "as": "ব্ৰিটিছে সকলো দাবী মানি লৈছিল"
+          "en": "The leaders were arrested and the movement was brutally suppressed",
+          "as": "নেতাসকলক গ্ৰেপ্তাৰ কৰা হৈছিল আৰু আন্দোলনক নিষ্ঠুৰভাৱে দমন কৰা হৈছিল"
         },
         {
           "en": "The British called a Round Table Conference",
           "as": "ব্ৰিটিছে ৰাউণ্ড টেবিল সন্মিলন আহ্বান কৰিছিল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The British response to the Quit India Movement was to arrest the leaders and brutally suppress the movement.",
         "as": "ভাৰত এৰা আন্দোলনৰ প্ৰতি ব্ৰিটিছৰ প্ৰতিক্ৰিয়া আছিল নেতাসকলক গ্ৰেপ্তাৰ কৰি আন্দোলনক নিষ্ঠুৰভাৱে দমন কৰা।"
@@ -2145,8 +2145,8 @@
       },
       "options": [
         {
-          "en": "The British officers organised the movement",
-          "as": "ব্ৰিটিছ বিষয়াসকলে আন্দোলন সংগঠিত কৰিছিল"
+          "en": "Young leaders like J.P. Narayan and Aruna Asaf Ali carried on secret revolutionary activities",
+          "as": "জে. পি. নাৰায়ণ আৰু অৰুণা আসাফ আলীৰ দৰে যুৱ নেতাসকলে গোপন বিপ্লৱী কাৰ্যকলাপ চলাইছিল"
         },
         {
           "en": "The Muslim League led the movement",
@@ -2157,11 +2157,11 @@
           "as": "আন্দোলনৰ নেতৃত্ব ৰাজপুত্ৰসকলে দিছিল"
         },
         {
-          "en": "Young leaders like J.P. Narayan and Aruna Asaf Ali carried on secret revolutionary activities",
-          "as": "জে. পি. নাৰায়ণ আৰু অৰুণা আসাফ আলীৰ দৰে যুৱ নেতাসকলে গোপন বিপ্লৱী কাৰ্যকলাপ চলাইছিল"
+          "en": "The British officers organised the movement",
+          "as": "ব্ৰিটিছ বিষয়াসকলে আন্দোলন সংগঠিত কৰিছিল"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "During Quit India, young leaders like J.P. Narayan and Aruna Asaf Ali carried on secret revolutionary activities.",
         "as": "ভাৰত এৰা আন্দোলনত জে. পি. নাৰায়ণ আৰু অৰুণা আসাফ আলীৰ দৰে যুৱ নেতাসকলে গোপন বিপ্লৱী কাৰ্যকলাপ চলাইছিল।"
@@ -2178,12 +2178,12 @@
       },
       "options": [
         {
-          "en": "Khan Abdul Ghaffar Khan",
-          "as": "খান আব্দুল গফ্ফৰ খান"
-        },
-        {
           "en": "Maulana Azad",
           "as": "মৌলানা আজাদ"
+        },
+        {
+          "en": "Khan Abdul Ghaffar Khan",
+          "as": "খান আব্দুল গফ্ফৰ খান"
         },
         {
           "en": "Sardar Patel",
@@ -2194,7 +2194,7 @@
           "as": "সুভাষ চন্দ্ৰ বসু"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Khan Abdul Ghaffar Khan was known as the 'Frontier Gandhi'.",
         "as": "খান আব্দুল গফ্ফৰ খান 'সীমান্ত গান্ধী' নামেৰে জনাজাত আছিল।"
@@ -2215,19 +2215,19 @@
           "as": "ভগত সিঙৰ নেতৃত্বত বিপ্লৱী গোট"
         },
         {
-          "en": "The servant of God movement (Red Shirts) led by Khan Abdul Ghaffar Khan",
-          "as": "খান আব্দুল গফ্ফৰ খানে নেতৃত্ব দিয়া খোদাই খিদমতগাৰ (ৰঙা চোলা) আন্দোলন"
+          "en": "A women's organisation in Bombay",
+          "as": "বম্বেৰ মহিলা সংগঠন"
         },
         {
           "en": "A peasants' movement in Bardoli",
           "as": "বৰদলীৰ কৃষক আন্দোলন"
         },
         {
-          "en": "A women's organisation in Bombay",
-          "as": "বম্বেৰ মহিলা সংগঠন"
+          "en": "The servant of God movement (Red Shirts) led by Khan Abdul Ghaffar Khan",
+          "as": "খান আব্দুল গফ্ফৰ খানে নেতৃত্ব দিয়া খোদাই খিদমতগাৰ (ৰঙা চোলা) আন্দোলন"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Khudai Khidmatgar was the servant of God movement, also called Red Shirts, led by Khan Abdul Ghaffar Khan.",
         "as": "খুদাই খিদমতগাৰ আছিল ঈশ্বৰৰ সেৱক আন্দোলন, যাক ৰঙা চোলা বুলিও কোৱা হয়, খান আব্দুল গফ্ফৰ খানে নেতৃত্ব দিছিল।"
@@ -2248,19 +2248,19 @@
           "as": "গান্ধী আৰু আৰউইনৰ মাজত চুক্তি"
         },
         {
-          "en": "An agreement between the Congress and the Muslim League",
-          "as": "কংগ্ৰেছ আৰু মুছলিম লীগৰ মাজত চুক্তি"
-        },
-        {
           "en": "An agreement between Gandhi and Ambedkar about reserved seats for the depressed classes",
           "as": "অনুসূচিত শ্ৰেণীৰ সংৰক্ষিত আসনৰ বিষয়ে গান্ধী আৰু আম্বেদকাৰৰ মাজত চুক্তি"
+        },
+        {
+          "en": "An agreement between the Congress and the Muslim League",
+          "as": "কংগ্ৰেছ আৰু মুছলিম লীগৰ মাজত চুক্তি"
         },
         {
           "en": "An agreement between the Congress and the British government",
           "as": "কংগ্ৰেছ আৰু ব্ৰিটিছ চৰকাৰৰ মাজত চুক্তি"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Poona Pact of 1932 was an agreement between Gandhi and Ambedkar about reserved seats for the depressed classes.",
         "as": "১৯৩২ চনৰ পুনা চুক্তি অনুসূচিত শ্ৰেণীৰ সংৰক্ষিত আসনৰ বিষয়ে গান্ধী আৰু আম্বেদকাৰৰ মাজত হোৱা চুক্তি আছিল।"
@@ -2347,19 +2347,19 @@
           "as": "এই আন্দোলনসমূহত কৃষকসকলৰ কোনো ভূমিকা নাছিল"
         },
         {
-          "en": "Only the zamindars supported these movements",
-          "as": "কেৱল জমিদাৰসকলে এই আন্দোলনসমূহক সমৰ্থন কৰিছিল"
+          "en": "The peasants were the backbone of movements like Champaran, Kheda and Bardoli",
+          "as": "চম্পাৰণ, খেদা আৰু বৰদলীৰ দৰে আন্দোলনৰ মেৰুদণ্ড আছিল কৃষকসকল"
         },
         {
           "en": "Only the mill workers participated in these movements",
           "as": "কেৱল মিল শ্ৰমিকসকলে এই আন্দোলনসমূহত অংশগ্ৰহণ কৰিছিল"
         },
         {
-          "en": "The peasants were the backbone of movements like Champaran, Kheda and Bardoli",
-          "as": "চম্পাৰণ, খেদা আৰু বৰদলীৰ দৰে আন্দোলনৰ মেৰুদণ্ড আছিল কৃষকসকল"
+          "en": "Only the zamindars supported these movements",
+          "as": "কেৱল জমিদাৰসকলে এই আন্দোলনসমূহক সমৰ্থন কৰিছিল"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The peasants were the backbone of Gandhian movements like Champaran, Kheda and Bardoli.",
         "as": "চম্পাৰণ, খেদা আৰু বৰদলীৰ দৰে গান্ধীবাদী আন্দোলনৰ মেৰুদণ্ড আছিল কৃষকসকল।"

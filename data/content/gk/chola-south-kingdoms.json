@@ -33,23 +33,23 @@
       },
       "options": [
         {
-          "en": "According to tradition, the Chola dynasty was founded by Vijayalaya, who captured Tanjore from the Pallavas",
-          "as": "পৰম্পৰা অনুসৰি চোল বংশৰ প্ৰতিষ্ঠাতা বিজয়ালয়, যি পল্লৱৰ পৰা তাঞ্জোৰ দখল কৰিছিল"
+          "en": "Rajaraja I, who built the Brihadeswara temple",
+          "as": "প্ৰথম ৰাজৰাজ, যি বৃহদেশ্বৰ মন্দিৰ নিৰ্মাণ কৰিছিল"
         },
         {
           "en": "Karikala Chola, who built the Grand Anicut",
           "as": "কৰিকাল চোল, যি গ্ৰেণ্ড এনিকাট নিৰ্মাণ কৰিছিল"
         },
         {
-          "en": "Rajaraja I, who built the Brihadeswara temple",
-          "as": "প্ৰথম ৰাজৰাজ, যি বৃহদেশ্বৰ মন্দিৰ নিৰ্মাণ কৰিছিল"
+          "en": "According to tradition, the Chola dynasty was founded by Vijayalaya, who captured Tanjore from the Pallavas",
+          "as": "পৰম্পৰা অনুসৰি চোল বংশৰ প্ৰতিষ্ঠাতা বিজয়ালয়, যি পল্লৱৰ পৰা তাঞ্জোৰ দখল কৰিছিল"
         },
         {
           "en": "Rajendra I, who conquered Sri Vijaya",
           "as": "প্ৰথম ৰাজেন্দ্ৰ, যি শ্ৰীবিজয় জয় কৰিছিল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "According to tradition, the Chola dynasty was founded by Vijayalaya, who captured Tanjore from the Pallavas.",
         "as": "পৰম্পৰা অনুসৰি চোল বংশৰ প্ৰতিষ্ঠাতা বিজয়ালয়, যি পল্লৱৰ পৰা তাঞ্জোৰ দখল কৰিছিল।"
@@ -66,8 +66,8 @@
       },
       "options": [
         {
-          "en": "Madurai",
-          "as": "মাদুৰাই"
+          "en": "Tanjore (Thanjavur)",
+          "as": "তাঞ্জোৰ (থাঞ্জাৱুৰ)"
         },
         {
           "en": "Kanchi",
@@ -78,11 +78,11 @@
           "as": "গংগাইকোণ্ড চোলপুৰম"
         },
         {
-          "en": "Tanjore (Thanjavur)",
-          "as": "তাঞ্জোৰ (থাঞ্জাৱুৰ)"
+          "en": "Madurai",
+          "as": "মাদুৰাই"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Tanjore (Thanjavur) became the capital of the Cholas.",
         "as": "তাঞ্জোৰ (থাঞ্জাৱুৰ) চোলসকলৰ ৰাজধানী হৈছিল।"
@@ -107,15 +107,15 @@
           "as": "বিজয়ালয়"
         },
         {
-          "en": "Aditya I",
-          "as": "প্ৰথম আদিত্য"
-        },
-        {
           "en": "Rajaraja I, the greatest Chola ruler",
           "as": "প্ৰথম ৰাজৰাজ, আটাইতকৈ মহান চোল শাসক"
+        },
+        {
+          "en": "Aditya I",
+          "as": "প্ৰথম আদিত্য"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Rajaraja I was the greatest of the early Chola rulers.",
         "as": "প্ৰথম ৰাজৰাজ আছিল আটাইতকৈ মহান প্ৰাৰম্ভিক চোল শাসক।"
@@ -140,15 +140,15 @@
           "as": "কাঞ্চিৰ কৈলাসনাথ মন্দিৰ"
         },
         {
-          "en": "The Brihadeswara (Rajarajeswara) temple at Tanjore",
-          "as": "তাঞ্জোৰৰ বৃহদেশ্বৰ (ৰাজৰাজেশ্বৰ) মন্দিৰ"
-        },
-        {
           "en": "The Shore temple at Mahabalipuram",
           "as": "মহাবলীপুৰমৰ শ্বোৰ মন্দিৰ"
+        },
+        {
+          "en": "The Brihadeswara (Rajarajeswara) temple at Tanjore",
+          "as": "তাঞ্জোৰৰ বৃহদেশ্বৰ (ৰাজৰাজেশ্বৰ) মন্দিৰ"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Rajaraja I built the Brihadeswara (Rajarajeswara) temple at Tanjore.",
         "as": "প্ৰথম ৰাজৰাজে তাঞ্জোৰত বৃহদেশ্বৰ (ৰাজৰাজেশ্বৰ) মন্দিৰ নিৰ্মাণ কৰিছিল।"
@@ -202,19 +202,19 @@
           "as": "প্ৰথম ৰাজৰাজ"
         },
         {
-          "en": "Kulottunga I",
-          "as": "প্ৰথম কুলোত্তুংগ"
-        },
-        {
           "en": "Rajendra I, who conquered Sri Vijaya (Sumatra) and took the title 'Gangaikonda Chola'",
           "as": "প্ৰথম ৰাজেন্দ্ৰ, যি শ্ৰীবিজয় (সুমাত্ৰা) জয় কৰি 'গংগাইকোণ্ড চোল' উপাধি লৈছিল"
+        },
+        {
+          "en": "Kulottunga I",
+          "as": "প্ৰথম কুলোত্তুংগ"
         },
         {
           "en": "Vijayalaya",
           "as": "বিজয়ালয়"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Rajendra I is famous for his naval expedition against Sri Vijaya (Sumatra).",
         "as": "প্ৰথম ৰাজেন্দ্ৰ শ্ৰীবিজয়া (সুমাত্ৰা) ৰ বিৰুদ্ধে নৌ অভিযানৰ বাবে বিখ্যাত।"
@@ -231,12 +231,12 @@
       },
       "options": [
         {
-          "en": "Rajendra I, to commemorate his victory over the kings of the Ganges",
-          "as": "প্ৰথম ৰাজেন্দ্ৰ, গংগা নদীৰ ৰজাসকলৰ ওপৰত বিজয় স্মৰণ কৰিবলৈ"
-        },
-        {
           "en": "Rajaraja I",
           "as": "প্ৰথম ৰাজৰাজ"
+        },
+        {
+          "en": "Rajendra I, to commemorate his victory over the kings of the Ganges",
+          "as": "প্ৰথম ৰাজেন্দ্ৰ, গংগা নদীৰ ৰজাসকলৰ ওপৰত বিজয় স্মৰণ কৰিবলৈ"
         },
         {
           "en": "Vijayalaya",
@@ -247,7 +247,7 @@
           "as": "প্ৰথম কুলোত্তুংগ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Rajendra I founded Gangaikonda Cholapuram to commemorate his victory over the kings of the Ganges.",
         "as": "প্ৰথম ৰাজেন্দ্ৰই গংগাৰ ৰজাসকলৰ ওপৰত বিজয় স্মৰণ কৰিবলৈ গংগাইকোণ্ড চোলপুৰম প্ৰতিষ্ঠা কৰিছিল।"
@@ -264,23 +264,23 @@
       },
       "options": [
         {
-          "en": "Vijayalaya",
-          "as": "বিজয়ালয়"
+          "en": "Rajaraja I laid the foundations of the Chola naval power, developed by Rajendra I",
+          "as": "প্ৰথম ৰাজৰাজে চোল নৌশক্তিৰ ভিত্তি স্থাপন কৰিছিল, যি প্ৰথম ৰাজেন্দ্ৰই বিকশিত কৰিছিল"
         },
         {
           "en": "Kulottunga I",
           "as": "প্ৰথম কুলোত্তুংগ"
         },
         {
-          "en": "Rajaraja I laid the foundations of the Chola naval power, developed by Rajendra I",
-          "as": "প্ৰথম ৰাজৰাজে চোল নৌশক্তিৰ ভিত্তি স্থাপন কৰিছিল, যি প্ৰথম ৰাজেন্দ্ৰই বিকশিত কৰিছিল"
+          "en": "Vijayalaya",
+          "as": "বিজয়ালয়"
         },
         {
           "en": "Aditya I",
           "as": "প্ৰথম আদিত্য"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Rajaraja I laid the foundations of the Chola navy, which was developed by Rajendra I.",
         "as": "প্ৰথম ৰাজৰাজে চোল নৌবাহিনীৰ ভিত্তি স্থাপন কৰিছিল, যি প্ৰথম ৰাজেন্দ্ৰই বিকশিত কৰিছিল।"
@@ -301,19 +301,19 @@
           "as": "প্ৰথম ৰাজৰাজ"
         },
         {
-          "en": "Rajendra I",
-          "as": "প্ৰথম ৰাজেন্দ্ৰ"
+          "en": "Aditya I",
+          "as": "প্ৰথম আদিত্য"
         },
         {
           "en": "Vijayalaya",
           "as": "বিজয়ালয়"
         },
         {
-          "en": "Aditya I",
-          "as": "প্ৰথম আদিত্য"
+          "en": "Rajendra I",
+          "as": "প্ৰথম ৰাজেন্দ্ৰ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Rajendra I built the temple at Gangaikonda Cholapuram.",
         "as": "প্ৰথম ৰাজেন্দ্ৰই গংগাইকোণ্ড চোলপুৰমৰ মন্দিৰ নিৰ্মাণ কৰিছিল।"
@@ -334,19 +334,19 @@
           "as": "প্ৰথম ৰাজৰাজ"
         },
         {
-          "en": "Rajendra I, who sent an embassy to the Chinese court",
-          "as": "প্ৰথম ৰাজেন্দ্ৰ, যি চীনা দৰবাৰলৈ দূত পঠিয়াইছিল"
-        },
-        {
           "en": "Kulottunga I",
           "as": "প্ৰথম কুলোত্তুংগ"
+        },
+        {
+          "en": "Rajendra I, who sent an embassy to the Chinese court",
+          "as": "প্ৰথম ৰাজেন্দ্ৰ, যি চীনা দৰবাৰলৈ দূত পঠিয়াইছিল"
         },
         {
           "en": "Vijayalaya",
           "as": "বিজয়ালয়"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Rajendra I sent an embassy to the Chinese court.",
         "as": "প্ৰথম ৰাজেন্দ্ৰই চীনা দৰবাৰলৈ দূত পঠিয়াইছিল।"
@@ -363,23 +363,23 @@
       },
       "options": [
         {
-          "en": "The Ur",
-          "as": "উৰ"
+          "en": "The Sabha, an assembly of brahmanas and elders of the village",
+          "as": "সভা, গাঁৱৰ ব্ৰাহ্মণ আৰু প্ৰবীণসকলৰ সভা"
         },
         {
           "en": "The Nagaram",
           "as": "নগৰম"
         },
         {
-          "en": "The Sabha, an assembly of brahmanas and elders of the village",
-          "as": "সভা, গাঁৱৰ ব্ৰাহ্মণ আৰু প্ৰবীণসকলৰ সভা"
+          "en": "The Ur",
+          "as": "উৰ"
         },
         {
           "en": "The Variyam",
           "as": "বৰিয়ম"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Sabha was the assembly of brahmanas and elders at the village level.",
         "as": "সভা আছিল গাঁও পৰ্যায়ত ব্ৰাহ্মণ আৰু প্ৰবীণসকলৰ সভা।"
@@ -396,8 +396,8 @@
       },
       "options": [
         {
-          "en": "The Ur",
-          "as": "উৰ"
+          "en": "The Nadu",
+          "as": "নাডু"
         },
         {
           "en": "The Sabha",
@@ -408,11 +408,11 @@
           "as": "নগৰম"
         },
         {
-          "en": "The Nadu",
-          "as": "নাডু"
+          "en": "The Ur",
+          "as": "উৰ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The assembly of the non-brahmana common people in Chola villages was called the Ur.",
         "as": "চোল গাঁৱত ব্ৰাহ্মণেতৰ সাধাৰণ লোকৰ সভাক উৰ বোলা হৈছিল।"
@@ -429,23 +429,23 @@
       },
       "options": [
         {
-          "en": "The Nagaram",
-          "as": "নগৰম"
+          "en": "The Sabha",
+          "as": "সভা"
         },
         {
           "en": "The Ur",
           "as": "উৰ"
         },
         {
-          "en": "The Sabha",
-          "as": "সভা"
+          "en": "The Nagaram",
+          "as": "নগৰম"
         },
         {
           "en": "The Variyam",
           "as": "বৰিয়ম"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The assembly of the merchant community in Chola towns was called the Nagaram.",
         "as": "চোল নগৰত বণিক সম্প্ৰদায়ৰ সভাক নগৰম বোলা হৈছিল।"
@@ -462,12 +462,12 @@
       },
       "options": [
         {
-          "en": "The Sabha, with members called Sabhapatis",
-          "as": "সভা, যাৰ সদস্যসকলক সভাপতি বোলা হৈছিল"
-        },
-        {
           "en": "The Variyam (committee), with members called Variyars",
           "as": "বৰিয়ম (সমিতি), যাৰ সদস্যসকলক বৰিয়ৰ বোলা হৈছিল"
+        },
+        {
+          "en": "The Sabha, with members called Sabhapatis",
+          "as": "সভা, যাৰ সদস্যসকলক সভাপতি বোলা হৈছিল"
         },
         {
           "en": "The Ur, with members called Urs",
@@ -478,7 +478,7 @@
           "as": "নগৰম, যাৰ সদস্যসকলক নগৰত্তাৰ বোলা হৈছিল"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The executive committee of the Chola village assembly was the Variyam, with members called Variyars.",
         "as": "চোল গাঁও সভাৰ কাৰ্যবাহী সমিতি আছিল বৰিয়ম, যাৰ সদস্যসকলক বৰিয়ৰ বোলা হৈছিল।"
@@ -528,12 +528,12 @@
       },
       "options": [
         {
-          "en": "A system of election of village assembly members by lottery from among the qualified candidates",
-          "as": "যোগ্য প্ৰাৰ্থীসকলৰ মাজৰ পৰা লটাৰিৰ জৰিয়তে গাঁও সভাৰ সদস্য নিৰ্বাচনৰ ব্যৱস্থা"
-        },
-        {
           "en": "A system of hereditary succession to village offices",
           "as": "গাঁৱৰ পদসমূহত বংশানুক্ৰমিক উত্তৰাধিকাৰৰ ব্যৱস্থা"
+        },
+        {
+          "en": "A system of election of village assembly members by lottery from among the qualified candidates",
+          "as": "যোগ্য প্ৰাৰ্থীসকলৰ মাজৰ পৰা লটাৰিৰ জৰিয়তে গাঁও সভাৰ সদস্য নিৰ্বাচনৰ ব্যৱস্থা"
         },
         {
           "en": "A system of taxation on village assemblies",
@@ -544,7 +544,7 @@
           "as": "গাঁৱত সামৰিক বাধ্যতামূলক সেৱাৰ ব্যৱস্থা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Kudavolai system elected village assembly members by lottery from among qualified candidates.",
         "as": "কুডৱোলাই ব্যৱস্থাই যোগ্য প্ৰাৰ্থীৰ মাজৰ পৰা লটাৰিৰ জৰিয়তে গাঁও সভাৰ সদস্য নিৰ্বাচন কৰিছিল।"
@@ -561,8 +561,8 @@
       },
       "options": [
         {
-          "en": "The Variyars and the Nagarattars",
-          "as": "বৰিয়ৰ আৰু নগৰত্তাৰ"
+          "en": "They included the Puravuvari (revenue collection) and the Karanmai (land revenue) officials",
+          "as": "ইয়াৰ ভিতৰত পুৰৱুৱাৰী (ৰাজহ সংগ্ৰহ) আৰু কৰণমাই (ভূমি ৰাজহ) বিষয়াসকল আছিল"
         },
         {
           "en": "The Mahasabhas and the Urs",
@@ -573,11 +573,11 @@
           "as": "সেনাপতি আৰু দণ্ডনায়ক"
         },
         {
-          "en": "They included the Puravuvari (revenue collection) and the Karanmai (land revenue) officials",
-          "as": "ইয়াৰ ভিতৰত পুৰৱুৱাৰী (ৰাজহ সংগ্ৰহ) আৰু কৰণমাই (ভূমি ৰাজহ) বিষয়াসকল আছিল"
+          "en": "The Variyars and the Nagarattars",
+          "as": "বৰিয়ৰ আৰু নগৰত্তাৰ"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The revenue officials of the Chola state included the Puravuvari and the Karanmai officials.",
         "as": "চোল ৰাজ্যৰ ৰাজহ বিষয়াসকলৰ ভিতৰত পুৰৱুৱাৰী আৰু কৰণমাই বিষয়াসকল আছিল।"
@@ -598,19 +598,19 @@
           "as": "উৎপাদনৰ এক-দশমাংশ নগদ ধনত"
         },
         {
-          "en": "One-third to one-sixth of the produce, usually collected in kind",
-          "as": "উৎপাদনৰ এক-তৃতীয়াংশৰ পৰা এক-ষষ্ঠাংশ, সাধাৰণতে সামগ্ৰী ৰূপে সংগ্ৰহ"
-        },
-        {
           "en": "Half of the produce in cash",
           "as": "উৎপাদনৰ আধা নগদ ধনত"
+        },
+        {
+          "en": "One-third to one-sixth of the produce, usually collected in kind",
+          "as": "উৎপাদনৰ এক-তৃতীয়াংশৰ পৰা এক-ষষ্ঠাংশ, সাধাৰণতে সামগ্ৰী ৰূপে সংগ্ৰহ"
         },
         {
           "en": "A fixed amount per household in gold",
           "as": "প্ৰতি পৰিয়ালৰ পৰা সোণত নিৰ্দিষ্ট পৰিমাণ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Cholas generally charged one-third to one-sixth of the produce as land revenue, collected in kind.",
         "as": "চোলসকলে সাধাৰণতে উৎপাদনৰ এক-তৃতীয়াংশৰ পৰা এক-ষষ্ঠাংশ ভূমি ৰাজহ হিচাপে লৈছিল, সামগ্ৰী ৰূপে সংগ্ৰহ কৰি।"
@@ -627,8 +627,8 @@
       },
       "options": [
         {
-          "en": "The Palk Strait dam",
-          "as": "পাক জলসন্ধিৰ বান্ধ"
+          "en": "The Grand Anicut (Kallanai) on the Kaveri, attributed to the Cholas, and many tanks and canals",
+          "as": "কাবেৰী নদীত গ্ৰেণ্ড এনিকাট (কল্লানাই), চোলসকলক আৰোপিত, আৰু বহু পুখুৰী আৰু খাল"
         },
         {
           "en": "The Sudarshana lake in Gujarat",
@@ -639,11 +639,11 @@
           "as": "বেটৱা নদীৰ ভোজপুৰ বান্ধ"
         },
         {
-          "en": "The Grand Anicut (Kallanai) on the Kaveri, attributed to the Cholas, and many tanks and canals",
-          "as": "কাবেৰী নদীত গ্ৰেণ্ড এনিকাট (কল্লানাই), চোলসকলক আৰোপিত, আৰু বহু পুখুৰী আৰু খাল"
+          "en": "The Palk Strait dam",
+          "as": "পাক জলসন্ধিৰ বান্ধ"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The famous Chola irrigation work is the Grand Anicut (Kallanai) on the Kaveri, along with many tanks and canals.",
         "as": "চোলসকলৰ বিখ্যাত জলসিঞ্চন কাৰ্য হ'ল কাবেৰী নদীত গ্ৰেণ্ড এনিকাট (কল্লানাই), লগতে বহু পুখুৰী আৰু খাল।"
@@ -664,19 +664,19 @@
           "as": "চতুৰ্দশ শতিকাত ইবন বটুতা"
         },
         {
-          "en": "Marco Polo in the 13th century",
-          "as": "ত্ৰয়োদশ শতিকাত মাৰ্কো পোলো"
-        },
-        {
           "en": "The Arab traveller Al-Masudi visited the Chola country in the 10th century",
           "as": "আৰৱ ভ্ৰমণকাৰী আল-মাছুদীয়ে দশম শতিকাত চোল দেশ ভ্ৰমণ কৰিছিল"
+        },
+        {
+          "en": "Marco Polo in the 13th century",
+          "as": "ত্ৰয়োদশ শতিকাত মাৰ্কো পোলো"
         },
         {
           "en": "Al-Biruni in the 11th century",
           "as": "একাদশ শতিকাত আল-বীৰুনী"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Arab traveller Al-Masudi visited South India during the Chola period.",
         "as": "আৰৱ ভ্ৰমণকাৰী আল-মাছুদীয়ে চোল যুগত দক্ষিণ ভাৰত ভ্ৰমণ কৰিছিল।"
@@ -697,19 +697,19 @@
           "as": "মহিলাসকলক ৰাজহুৱা জীৱনৰ পৰা সম্পূৰ্ণৰূপে বাদ দিয়া হৈছিল"
         },
         {
-          "en": "Women enjoyed a comparatively high status; some held land and participated in temple activities, though purdah was not prevalent",
-          "as": "মহিলাসকলে তুলনামূলকভাৱে উচ্চ মৰ্যাদা ভোগ কৰিছিল; কিছুমানে ভূমি ৰাখিছিল আৰু মন্দিৰ কাৰ্যত অংশ লৈছিল, পৰ্দা প্ৰচলিত নাছিল"
-        },
-        {
           "en": "Women had no right to hold property",
           "as": "মহিলাৰ সম্পত্তি ৰখাৰ অধিকাৰ নাছিল"
+        },
+        {
+          "en": "Women enjoyed a comparatively high status; some held land and participated in temple activities, though purdah was not prevalent",
+          "as": "মহিলাসকলে তুলনামূলকভাৱে উচ্চ মৰ্যাদা ভোগ কৰিছিল; কিছুমানে ভূমি ৰাখিছিল আৰু মন্দিৰ কাৰ্যত অংশ লৈছিল, পৰ্দা প্ৰচলিত নাছিল"
         },
         {
           "en": "Women were confined to purdah",
           "as": "মহিলাসকল পৰ্দাত আৱদ্ধ আছিল"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "In Chola society women enjoyed a comparatively high status; some held land and took part in temple activities, and purdah was not prevalent.",
         "as": "চোল সমাজত মহিলাসকলে তুলনামূলকভাৱে উচ্চ মৰ্যাদা ভোগ কৰিছিল; কিছুমানে ভূমি ৰাখিছিল আৰু মন্দিৰ কাৰ্যত অংশ লৈছিল, পৰ্দা প্ৰচলিত নাছিল।"
@@ -726,23 +726,23 @@
       },
       "options": [
         {
-          "en": "Saivism, though Jainism and Buddhism were also tolerated",
-          "as": "শৈৱ ধৰ্ম, যদিও জৈন আৰু বৌদ্ধ ধৰ্মও সহ্য কৰা হৈছিল"
+          "en": "Buddhism alone",
+          "as": "কেৱল বৌদ্ধ ধৰ্ম"
         },
         {
           "en": "Vaishnavism alone",
           "as": "কেৱল বৈষ্ণৱ ধৰ্ম"
         },
         {
-          "en": "Buddhism alone",
-          "as": "কেৱল বৌদ্ধ ধৰ্ম"
+          "en": "Saivism, though Jainism and Buddhism were also tolerated",
+          "as": "শৈৱ ধৰ্ম, যদিও জৈন আৰু বৌদ্ধ ধৰ্মও সহ্য কৰা হৈছিল"
         },
         {
           "en": "Jainism alone",
           "as": "কেৱল জৈন ধৰ্ম"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The later Cholas patronised Saivism, though Jainism and Buddhism were also tolerated.",
         "as": "পিছৰ চোলসকলে শৈৱ ধৰ্মক পৃষ্ঠপোষকতা কৰিছিল, যদিও জৈন আৰু বৌদ্ধ ধৰ্মও সহ্য কৰা হৈছিল।"
@@ -763,19 +763,19 @@
           "as": "সংগম কবি আৰু সিদ্ধসকল"
         },
         {
-          "en": "The Nayanars (Saiva saints) and the Alvars (Vaishnava saints)",
-          "as": "নয়নমাৰ (শৈৱ সন্ত) আৰু আলৱাৰ (বৈষ্ণৱ সন্ত)"
+          "en": "The Naths and the Tantrics",
+          "as": "নাথ আৰু তান্ত্ৰিক"
         },
         {
           "en": "The Lingayats and the Sufis",
           "as": "লিংগায়ত আৰু চুফী"
         },
         {
-          "en": "The Naths and the Tantrics",
-          "as": "নাথ আৰু তান্ত্ৰিক"
+          "en": "The Nayanars (Saiva saints) and the Alvars (Vaishnava saints)",
+          "as": "নয়নমাৰ (শৈৱ সন্ত) আৰু আলৱাৰ (বৈষ্ণৱ সন্ত)"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Nayanars (Saiva saints) and the Alvars (Vaishnava saints) were associated with the Chola period.",
         "as": "নয়নমাৰ (শৈৱ সন্ত) আৰু আলৱাৰ (বৈষ্ণৱ সন্ত) চোল যুগৰ সৈতে জড়িত আছিল।"
@@ -792,12 +792,12 @@
       },
       "options": [
         {
-          "en": "Tiruvalluvar, a Tamil poet of the early medieval period",
-          "as": "তিৰুবল্লুৱৰ, মধ্যযুগৰ আৰম্ভণিৰ এজন তামিল কবি"
-        },
-        {
           "en": "Kambar",
           "as": "কম্বৰ"
+        },
+        {
+          "en": "Tiruvalluvar, a Tamil poet of the early medieval period",
+          "as": "তিৰুবল্লুৱৰ, মধ্যযুগৰ আৰম্ভণিৰ এজন তামিল কবি"
         },
         {
           "en": "Ilango Adigal",
@@ -808,7 +808,7 @@
           "as": "শেক্কিলাৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Tamil work 'Tirukkural' was written by Tiruvalluvar.",
         "as": "তামিল গ্ৰন্থ 'তিৰুক্কুৰল' তিৰুবল্লুৱৰে ৰচনা কৰিছিল।"
@@ -825,12 +825,12 @@
       },
       "options": [
         {
-          "en": "Rajaraja (King of Kings)",
-          "as": "ৰাজৰাজ (ৰজাসকলৰ ৰজা)"
-        },
-        {
           "en": "Gangaikonda Chola",
           "as": "গংগাইকোণ্ড চোল"
+        },
+        {
+          "en": "Rajaraja (King of Kings)",
+          "as": "ৰাজৰাজ (ৰজাসকলৰ ৰজা)"
         },
         {
           "en": "Vatapikonda",
@@ -841,7 +841,7 @@
           "as": "ত্ৰিভুবনমল্ল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The title Rajaraja means 'king of kings'.",
         "as": "ৰাজৰাজ উপাধিৰ অৰ্থ 'ৰজাসকলৰ ৰজা'।"
@@ -862,19 +862,19 @@
           "as": "প্ৰথম মহেন্দ্ৰৱৰ্মন"
         },
         {
-          "en": "The origin is uncertain; Simhavishnu was the founder of the great Pallava line of Kanchi",
-          "as": "উৎপত্তি অনিশ্চিত; সিংহবিষ্ণু কাঞ্চিৰ মহান পল্লৱ বংশৰ প্ৰতিষ্ঠাতা আছিল"
-        },
-        {
           "en": "Narasimhavarman I",
           "as": "প্ৰথম নৰসিংহৱৰ্মন"
+        },
+        {
+          "en": "The origin is uncertain; Simhavishnu was the founder of the great Pallava line of Kanchi",
+          "as": "উৎপত্তি অনিশ্চিত; সিংহবিষ্ণু কাঞ্চিৰ মহান পল্লৱ বংশৰ প্ৰতিষ্ঠাতা আছিল"
         },
         {
           "en": "Aparajita",
           "as": "অপৰাজিত"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The origin of the Pallava dynasty is uncertain; Simhavishnu founded the great Pallava line of Kanchi.",
         "as": "পল্লৱ বংশৰ উৎপত্তি অনিশ্চিত; সিংহবিষ্ণুৱে কাঞ্চিৰ মহান পল্লৱ বংশ প্ৰতিষ্ঠা কৰিছিল।"
@@ -895,19 +895,19 @@
           "as": "মহাবলীপুৰম"
         },
         {
-          "en": "Kanchi (Kanchipuram)",
-          "as": "কাঞ্চি (কাঞ্চীপুৰম)"
+          "en": "Madurai",
+          "as": "মাদুৰাই"
         },
         {
           "en": "Tanjore",
           "as": "তাঞ্জোৰ"
         },
         {
-          "en": "Madurai",
-          "as": "মাদুৰাই"
+          "en": "Kanchi (Kanchipuram)",
+          "as": "কাঞ্চি (কাঞ্চীপুৰম)"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Kanchi (Kanchipuram) was the capital of the Pallavas.",
         "as": "কাঞ্চি (কাঞ্চীপুৰম) পল্লৱসকলৰ ৰাজধানী আছিল।"
@@ -924,8 +924,8 @@
       },
       "options": [
         {
-          "en": "Mahendravarman I",
-          "as": "প্ৰথম মহেন্দ্ৰৱৰ্মন"
+          "en": "Narasimhavarman I, also known as Mamalla",
+          "as": "প্ৰথম নৰসিংহৱৰ্মন, মামল্ল নামেৰেও জনাজাত"
         },
         {
           "en": "Aparajita",
@@ -936,11 +936,11 @@
           "as": "সিংহবিষ্ণু"
         },
         {
-          "en": "Narasimhavarman I, also known as Mamalla",
-          "as": "প্ৰথম নৰসিংহৱৰ্মন, মামল্ল নামেৰেও জনাজাত"
+          "en": "Mahendravarman I",
+          "as": "প্ৰথম মহেন্দ্ৰৱৰ্মন"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Narasimhavarman I, also known as Mamalla, is famous for the cave temples at Mahabalipuram.",
         "as": "মামল্ল নামেৰেও জনাজাত প্ৰথম নৰসিংহৱৰ্মন মহাবলীপুৰমৰ গুহা মন্দিৰৰ বাবে বিখ্যাত।"
@@ -957,8 +957,8 @@
       },
       "options": [
         {
-          "en": "Mahendravarman I alone",
-          "as": "কেৱল প্ৰথম মহেন্দ্ৰৱৰ্মন"
+          "en": "Narasimhavarman I and his successors",
+          "as": "প্ৰথম নৰসিংহৱৰ্মন আৰু তেওঁৰ উত্তৰাধিকাৰীসকল"
         },
         {
           "en": "Aparajita",
@@ -969,11 +969,11 @@
           "as": "প্ৰথম ৰাজৰাজ"
         },
         {
-          "en": "Narasimhavarman I and his successors",
-          "as": "প্ৰথম নৰসিংহৱৰ্মন আৰু তেওঁৰ উত্তৰাধিকাৰীসকল"
+          "en": "Mahendravarman I alone",
+          "as": "কেৱল প্ৰথম মহেন্দ্ৰৱৰ্মন"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Narasimhavarman I and his successors built the rock-cut 'Ratha' temples at Mahabalipuram.",
         "as": "প্ৰথম নৰসিংহৱৰ্মন আৰু তেওঁৰ উত্তৰাধিকাৰীসকলে মহাবলীপুৰমত শিলা কাটি 'ৰথ' মন্দিৰ নিৰ্মাণ কৰিছিল।"
@@ -994,19 +994,19 @@
           "as": "প্ৰথম মহেন্দ্ৰৱৰ্মন"
         },
         {
-          "en": "Aparajita",
-          "as": "অপৰাজিত"
-        },
-        {
           "en": "Narasimhavarman I, who captured the Chalukya capital Vatapi and took the title 'Vatapikonda'",
           "as": "প্ৰথম নৰসিংহৱৰ্মন, যি চালুক্য ৰাজধানী ৱাতাপী দখল কৰি 'ৱাতাপীকোণ্ড' উপাধি লৈছিল"
+        },
+        {
+          "en": "Aparajita",
+          "as": "অপৰাজিত"
         },
         {
           "en": "Simhavishnu",
           "as": "সিংহবিষ্ণু"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Narasimhavarman I defeated the Chalukya king Pulakesin II and took the title 'Vatapikonda'.",
         "as": "প্ৰথম নৰসিংহৱৰ্মনে চালুক্য ৰজা দ্বিতীয় পুলকেশীক পৰাস্ত কৰি 'ৱাতাপীকোণ্ড' উপাধি লৈছিল।"
@@ -1023,23 +1023,23 @@
       },
       "options": [
         {
-          "en": "Narasimhavarman I",
-          "as": "প্ৰথম নৰসিংহৱৰ্মন"
+          "en": "Aparajita, who was defeated by the Chola king Aditya I",
+          "as": "অপৰাজিত, যাক চোল ৰজা প্ৰথম আদিত্যই পৰাস্ত কৰিছিল"
         },
         {
           "en": "Mahendravarman I",
           "as": "প্ৰথম মহেন্দ্ৰৱৰ্মন"
         },
         {
-          "en": "Aparajita, who was defeated by the Chola king Aditya I",
-          "as": "অপৰাজিত, যাক চোল ৰজা প্ৰথম আদিত্যই পৰাস্ত কৰিছিল"
+          "en": "Narasimhavarman I",
+          "as": "প্ৰথম নৰসিংহৱৰ্মন"
         },
         {
           "en": "Simhavishnu",
           "as": "সিংহবিষ্ণু"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Aparajita, the last great Pallava ruler, was defeated by the Chola king Aditya I.",
         "as": "শেষ মহান পল্লৱ শাসক অপৰাজিতক চোল ৰজা প্ৰথম আদিত্যই পৰাস্ত কৰিছিল।"
@@ -1093,19 +1093,19 @@
           "as": "ৰামানুজ"
         },
         {
-          "en": "Sankara (Adi Sankaracharya), who is traditionally said to have visited Kanchi",
-          "as": "শংকৰ (আদি শংকৰাচাৰ্য), যাক পৰম্পৰাগতভাৱে কাঞ্চি ভ্ৰমণ কৰা বুলি কোৱা হয়"
+          "en": "Basava",
+          "as": "বসৱ"
         },
         {
           "en": "Madhvacharya",
           "as": "মধ্বাচাৰ্য"
         },
         {
-          "en": "Basava",
-          "as": "বসৱ"
+          "en": "Sankara (Adi Sankaracharya), who is traditionally said to have visited Kanchi",
+          "as": "শংকৰ (আদি শংকৰাচাৰ্য), যাক পৰম্পৰাগতভাৱে কাঞ্চি ভ্ৰমণ কৰা বুলি কোৱা হয়"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Sankara (Adi Sankaracharya), the famous philosopher of Advaita Vedanta, is traditionally said to have visited Kanchi.",
         "as": "অদ্বৈত বেদান্তৰ বিখ্যাত দাৰ্শনিক শংকৰ (আদি শংকৰাচাৰ্য) পৰম্পৰাগতভাৱে কাঞ্চি ভ্ৰমণ কৰিছিল বুলি কোৱা হয়।"
@@ -1155,12 +1155,12 @@
       },
       "options": [
         {
-          "en": "Pulakesin II, who successfully resisted Harsha's advance in the south",
-          "as": "দ্বিতীয় পুলকেশী, যি দক্ষিণত হৰ্ষৰ অগ্ৰগতি সফলভাৱে ৰোধ কৰিছিল"
-        },
-        {
           "en": "Pulakesin I",
           "as": "প্ৰথম পুলকেশী"
+        },
+        {
+          "en": "Pulakesin II, who successfully resisted Harsha's advance in the south",
+          "as": "দ্বিতীয় পুলকেশী, যি দক্ষিণত হৰ্ষৰ অগ্ৰগতি সফলভাৱে ৰোধ কৰিছিল"
         },
         {
           "en": "Vikramaditya VI",
@@ -1171,7 +1171,7 @@
           "as": "প্ৰথম কীৰ্তিৱৰ্মন"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Pulakesin II was the greatest ruler of the Chalukya dynasty of Vatapi and resisted Harsha's advance.",
         "as": "দ্বিতীয় পুলকেশী ৱাতাপীৰ চালুক্য বংশৰ আটাইতকৈ মহান শাসক আছিল আৰু হৰ্ষৰ অগ্ৰগতি ৰোধ কৰিছিল।"
@@ -1196,15 +1196,15 @@
           "as": "ষষ্ঠ বিক্ৰমাদিত্য"
         },
         {
-          "en": "Pulakesin II, who received Hiuen Tsang in his court",
-          "as": "দ্বিতীয় পুলকেশী, যি তেওঁৰ দৰবাৰত হিউয়েন চাঙক গ্ৰহণ কৰিছিল"
-        },
-        {
           "en": "Tailapa II",
           "as": "দ্বিতীয় তৈলপ"
+        },
+        {
+          "en": "Pulakesin II, who received Hiuen Tsang in his court",
+          "as": "দ্বিতীয় পুলকেশী, যি তেওঁৰ দৰবাৰত হিউয়েন চাঙক গ্ৰহণ কৰিছিল"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Pulakesin II received Hiuen Tsang in his court.",
         "as": "দ্বিতীয় পুলকেশীয়ে তেওঁৰ দৰবাৰত হিউয়েন চাঙক গ্ৰহণ কৰিছিল।"
@@ -1229,15 +1229,15 @@
           "as": "ষষ্ঠ বিক্ৰমাদিত্য"
         },
         {
-          "en": "Someswara I",
-          "as": "প্ৰথম সোমেশ্বৰ"
-        },
-        {
           "en": "Pulakesin II, whose court poet Ravikirti composed the Aihole prasasti",
           "as": "দ্বিতীয় পুলকেশী, যাৰ দৰবাৰ কবি ৰৱিকীৰ্তিয়ে আইহোল প্ৰশস্তি ৰচনা কৰিছিল"
+        },
+        {
+          "en": "Someswara I",
+          "as": "প্ৰথম সোমেশ্বৰ"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Pulakesin II is mentioned in the Aihole inscription composed by his court poet Ravikirti.",
         "as": "দ্বিতীয় পুলকেশীৰ উল্লেখ তেওঁৰ দৰবাৰ কবি ৰৱিকীৰ্তিৰ দ্বাৰা ৰচিত আইহোল শিলালিপিত আছে।"
@@ -1287,12 +1287,12 @@
       },
       "options": [
         {
-          "en": "Someswara I",
-          "as": "প্ৰথম সোমেশ্বৰ"
-        },
-        {
           "en": "Vikramaditya VI, who defeated the Cholas and took the title 'Tribhuvanamalla'",
           "as": "ষষ্ঠ বিক্ৰমাদিত্য, যি চোলসকলক পৰাস্ত কৰি 'ত্ৰিভুবনমল্ল' উপাধি লৈছিল"
+        },
+        {
+          "en": "Someswara I",
+          "as": "প্ৰথম সোমেশ্বৰ"
         },
         {
           "en": "Tailapa II",
@@ -1303,7 +1303,7 @@
           "as": "দ্বিতীয় পুলকেশী"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Vikramaditya VI of the Later Chalukyas of Kalyani fought against the Cholas and took the title 'Tribhuvanamalla'.",
         "as": "কল্যাণীৰ পিছৰ চালুক্য বংশৰ ষষ্ঠ বিক্ৰমাদিত্যই চোলসকলৰ বিৰুদ্ধে যুঁজি 'ত্ৰিভুবনমল্ল' উপাধি লৈছিল।"
@@ -1320,12 +1320,12 @@
       },
       "options": [
         {
-          "en": "The Pandyas were an ancient dynasty; the early rulers are not clearly known, but they were powerful in Madurai",
-          "as": "পাণ্ড্যসকল প্ৰাচীন বংশ; প্ৰাৰম্ভিক শাসকসকল স্পষ্টভাৱে জনা নাযায়, কিন্তু তেওঁলোক মাদুৰাইত শক্তিশালী আছিল"
-        },
-        {
           "en": "Vijayalaya, who captured Tanjore",
           "as": "বিজয়ালয়, যি তাঞ্জোৰ দখল কৰিছিল"
+        },
+        {
+          "en": "The Pandyas were an ancient dynasty; the early rulers are not clearly known, but they were powerful in Madurai",
+          "as": "পাণ্ড্যসকল প্ৰাচীন বংশ; প্ৰাৰম্ভিক শাসকসকল স্পষ্টভাৱে জনা নাযায়, কিন্তু তেওঁলোক মাদুৰাইত শক্তিশালী আছিল"
         },
         {
           "en": "Simhavishnu of Kanchi",
@@ -1336,7 +1336,7 @@
           "as": "কেৰালাৰ উদিয়ান চেৰাল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Pandyas were an ancient dynasty; their early rulers are not clearly known, but they were powerful in Madurai.",
         "as": "পাণ্ড্যসকল প্ৰাচীন বংশ; তেওঁলোকৰ প্ৰাৰম্ভিক শাসকসকল স্পষ্টভাৱে জনা নাযায়, কিন্তু তেওঁলোক মাদুৰাইত শক্তিশালী আছিল।"
@@ -1353,8 +1353,8 @@
       },
       "options": [
         {
-          "en": "Madurai",
-          "as": "মাদুৰাই"
+          "en": "Karur",
+          "as": "কৰুৰ"
         },
         {
           "en": "Tanjore",
@@ -1365,11 +1365,11 @@
           "as": "কাঞ্চি"
         },
         {
-          "en": "Karur",
-          "as": "কৰুৰ"
+          "en": "Madurai",
+          "as": "মাদুৰাই"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Madurai was the capital of the Pandyas.",
         "as": "মাদুৰাই পাণ্ড্যসকলৰ ৰাজধানী আছিল।"
@@ -1386,23 +1386,23 @@
       },
       "options": [
         {
-          "en": "Nedunjeliyan",
-          "as": "নেডুঞ্জেলিয়ান"
+          "en": "Jatavarman Sundara Pandya, who extended the kingdom in the 13th century",
+          "as": "জাতৱৰ্মন সুন্দৰ পাণ্ড্য, যি ত্ৰয়োদশ শতিকাত ৰাজ্য বিস্তাৰ কৰিছিল"
         },
         {
           "en": "Vijayalaya",
           "as": "বিজয়ালয়"
         },
         {
-          "en": "Jatavarman Sundara Pandya, who extended the kingdom in the 13th century",
-          "as": "জাতৱৰ্মন সুন্দৰ পাণ্ড্য, যি ত্ৰয়োদশ শতিকাত ৰাজ্য বিস্তাৰ কৰিছিল"
+          "en": "Nedunjeliyan",
+          "as": "নেডুঞ্জেলিয়ান"
         },
         {
           "en": "Kulottunga I",
           "as": "প্ৰথম কুলোত্তুংগ"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Jatavarman Sundara Pandya was the greatest Pandya ruler of the medieval period.",
         "as": "জাতৱৰ্মন সুন্দৰ পাণ্ড্য মধ্যযুগৰ আটাইতকৈ মহান পাণ্ড্য শাসক আছিল।"
@@ -1456,19 +1456,19 @@
           "as": "সভা"
         },
         {
-          "en": "The Ur",
-          "as": "উৰ"
+          "en": "The Avai (academy), which was associated with the Sangam tradition",
+          "as": "অৱাই (একাডেমী), যি সংগম পৰম্পৰাৰ সৈতে জড়িত আছিল"
         },
         {
           "en": "The Nagaram",
           "as": "নগৰম"
         },
         {
-          "en": "The Avai (academy), which was associated with the Sangam tradition",
-          "as": "অৱাই (একাডেমী), যি সংগম পৰম্পৰাৰ সৈতে জড়িত আছিল"
+          "en": "The Ur",
+          "as": "উৰ"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The assembly of the Pandya kingdom was called the Avai, associated with the Sangam tradition.",
         "as": "পাণ্ড্য ৰাজ্যৰ সভাক অৱাই বোলা হৈছিল, যি সংগম পৰম্পৰাৰ সৈতে জড়িত আছিল।"
@@ -1489,19 +1489,19 @@
           "as": "প্ৰথম ৰাজৰাজ আৰু প্ৰথম ৰাজেন্দ্ৰ"
         },
         {
-          "en": "The early Pandya kings, especially Nedunjeliyan, were patrons of the Sangam poets",
-          "as": "প্ৰাৰম্ভিক পাণ্ড্য ৰজাসকল, বিশেষকৈ নেডুঞ্জেলিয়ান, সংগম কবিসকলৰ পৃষ্ঠপোষক আছিল"
-        },
-        {
           "en": "Simhavishnu and Mahendravarman",
           "as": "সিংহবিষ্ণু আৰু প্ৰথম মহেন্দ্ৰৱৰ্মন"
+        },
+        {
+          "en": "The early Pandya kings, especially Nedunjeliyan, were patrons of the Sangam poets",
+          "as": "প্ৰাৰম্ভিক পাণ্ড্য ৰজাসকল, বিশেষকৈ নেডুঞ্জেলিয়ান, সংগম কবিসকলৰ পৃষ্ঠপোষক আছিল"
         },
         {
           "en": "Pulakesin I and Pulakesin II",
           "as": "প্ৰথম পুলকেশী আৰু দ্বিতীয় পুলকেশী"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The early Pandya kings, especially Nedunjeliyan, patronised the Tamil Sangam poets.",
         "as": "প্ৰাৰম্ভিক পাণ্ড্য ৰজাসকলে, বিশেষকৈ নেডুঞ্জেলিয়ানে, তামিল সংগম কবিসকলক পৃষ্ঠপোষকতা কৰিছিল।"
@@ -1522,19 +1522,19 @@
           "as": "সেংগুট্টুৱন, যি উত্তৰলৈ আক্ৰমণ কৰিছিল"
         },
         {
-          "en": "The Cheras were an ancient dynasty of Kerala; the earliest famous ruler was Udiyan Cheral",
-          "as": "চেৰসকল কেৰালাৰ প্ৰাচীন বংশ; আটাইতকৈ পুৰণি বিখ্যাত শাসক আছিল উদিয়ান চেৰাল"
-        },
-        {
           "en": "Vijayalaya, who captured Tanjore",
           "as": "বিজয়ালয়, যি তাঞ্জোৰ দখল কৰিছিল"
+        },
+        {
+          "en": "The Cheras were an ancient dynasty of Kerala; the earliest famous ruler was Udiyan Cheral",
+          "as": "চেৰসকল কেৰালাৰ প্ৰাচীন বংশ; আটাইতকৈ পুৰণি বিখ্যাত শাসক আছিল উদিয়ান চেৰাল"
         },
         {
           "en": "Simhavishnu of Kanchi",
           "as": "কাঞ্চিৰ সিংহবিষ্ণু"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Cheras were an ancient dynasty of Kerala; the earliest famous ruler was Udiyan Cheral.",
         "as": "চেৰসকল কেৰালাৰ প্ৰাচীন বংশ আছিল; আটাইতকৈ পুৰণি বিখ্যাত শাসক আছিল উদিয়ান চেৰাল।"
@@ -1559,15 +1559,15 @@
           "as": "তাঞ্জোৰ"
         },
         {
-          "en": "Karur (Vanchi) on the Periyar river",
-          "as": "পেৰিয়াৰ নদীৰ কাষত কৰুৰ (ৱাঞ্চি)"
-        },
-        {
           "en": "Kanchi",
           "as": "কাঞ্চি"
+        },
+        {
+          "en": "Karur (Vanchi) on the Periyar river",
+          "as": "পেৰিয়াৰ নদীৰ কাষত কৰুৰ (ৱাঞ্চি)"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The capital of the Cheras was Karur (Vanchi) on the Periyar river.",
         "as": "চেৰসকলৰ ৰাজধানী আছিল পেৰিয়াৰ নদীৰ কাষত কৰুৰ (ৱাঞ্চি)।"
@@ -1621,19 +1621,19 @@
           "as": "তেওঁলোকে চীনলৈ কপাহী বস্ত্ৰ আৰু ইস্পাত ৰপ্তানি কৰিছিল"
         },
         {
-          "en": "They exported tea and jute to Britain",
-          "as": "তেওঁলোকে ব্ৰিটেইনলৈ চাহ আৰু পাট ৰপ্তানি কৰিছিল"
+          "en": "The Chera ports like Muziris exported spices, pearls and ivory to Rome",
+          "as": "মুজিৰিছৰ দৰে চেৰ বন্দৰে ৰোমলৈ মছলা, মুকুতা আৰু হাতীদাঁত ৰপ্তানি কৰিছিল"
         },
         {
           "en": "They exported horses and silk to Persia",
           "as": "তেওঁলোকে পাৰস্যলৈ ঘোঁৰা আৰু ৰেচম ৰপ্তানি কৰিছিল"
         },
         {
-          "en": "The Chera ports like Muziris exported spices, pearls and ivory to Rome",
-          "as": "মুজিৰিছৰ দৰে চেৰ বন্দৰে ৰোমলৈ মছলা, মুকুতা আৰু হাতীদাঁত ৰপ্তানি কৰিছিল"
+          "en": "They exported tea and jute to Britain",
+          "as": "তেওঁলোকে ব্ৰিটেইনলৈ চাহ আৰু পাট ৰপ্তানি কৰিছিল"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The Chera trade with the Romans was famous for the export of spices, pearls and ivory from ports like Muziris.",
         "as": "মুজিৰিছৰ দৰে বন্দৰৰ পৰা মছলা, মুকুতা আৰু হাতীদাঁত ৰপ্তানিৰ বাবে চেৰসকলৰ ৰোমান বাণিজ্য বিখ্যাত আছিল।"
@@ -1687,19 +1687,19 @@
           "as": "ৰাজৰাজ"
         },
         {
-          "en": "Vatapikonda",
-          "as": "ৱাতাপীকোণ্ড"
+          "en": "Gangaikonda Chola",
+          "as": "গংগাইকোণ্ড চোল"
         },
         {
           "en": "Tribhuvanamalla",
           "as": "ত্ৰিভুবনমল্ল"
         },
         {
-          "en": "Gangaikonda Chola",
-          "as": "গংগাইকোণ্ড চোল"
+          "en": "Vatapikonda",
+          "as": "ৱাতাপীকোণ্ড"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The title Gangaikonda Chola means 'one who conquered the Ganges'.",
         "as": "গংগাইকোণ্ড চোল উপাধিৰ অৰ্থ 'যি গংগা জয় কৰিছিল'।"
@@ -1749,8 +1749,8 @@
       },
       "options": [
         {
-          "en": "Muziris",
-          "as": "মুজিৰিছ"
+          "en": "Kaveripattinam (Puhar)",
+          "as": "কাবেৰীপট্টিনম (পুহাৰ)"
         },
         {
           "en": "Karur",
@@ -1761,11 +1761,11 @@
           "as": "কাঞ্চি"
         },
         {
-          "en": "Kaveripattinam (Puhar)",
-          "as": "কাবেৰীপট্টিনম (পুহাৰ)"
+          "en": "Muziris",
+          "as": "মুজিৰিছ"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Kaveripattinam (Puhar) was a famous port of the Chola kingdom.",
         "as": "কাবেৰীপট্টিনম (পুহাৰ) চোল ৰাজ্যৰ এটা বিখ্যাত বন্দৰ আছিল।"
@@ -1782,23 +1782,23 @@
       },
       "options": [
         {
-          "en": "The Kudavolai system of village self-government",
-          "as": "গাঁও স্বশাসনৰ কুডৱোলাই ব্যৱস্থা"
+          "en": "The Nagaram system",
+          "as": "নগৰম ব্যৱস্থা"
         },
         {
           "en": "The Variyam system",
           "as": "বৰিয়ম ব্যৱস্থা"
         },
         {
-          "en": "The Nagaram system",
-          "as": "নগৰম ব্যৱস্থা"
+          "en": "The Kudavolai system of village self-government",
+          "as": "গাঁও স্বশাসনৰ কুডৱোলাই ব্যৱস্থা"
         },
         {
           "en": "The Ur system",
           "as": "উৰ ব্যৱস্থা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "In the Kudavolai system of village self-government, villagers elected representatives by lottery.",
         "as": "গাঁও স্বশাসনৰ কুডৱোলাই ব্যৱস্থাত গাঁৱলীয়াসকলে লটাৰিৰ জৰিয়তে প্ৰতিনিধি নিৰ্বাচন কৰিছিল।"
@@ -1815,23 +1815,23 @@
       },
       "options": [
         {
-          "en": "Rajendra I",
-          "as": "প্ৰথম ৰাজেন্দ্ৰ"
+          "en": "Rajaraja I",
+          "as": "প্ৰথম ৰাজৰাজ"
         },
         {
           "en": "Vijayalaya",
           "as": "বিজয়ালয়"
         },
         {
-          "en": "Rajaraja I",
-          "as": "প্ৰথম ৰাজৰাজ"
+          "en": "Rajendra I",
+          "as": "প্ৰথম ৰাজেন্দ্ৰ"
         },
         {
           "en": "Aditya I",
           "as": "প্ৰথম আদিত্য"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Rajaraja I built the 'Vimana' and 'Nandi' mandapa of the Brihadeswara temple.",
         "as": "প্ৰথম ৰাজৰাজে বৃহদেশ্বৰ মন্দিৰৰ 'ৱিমান' আৰু 'নন্দী' মণ্ডপ নিৰ্মাণ কৰিছিল।"
@@ -1852,19 +1852,19 @@
           "as": "মণ্ডলম, পুনৰ নগৰত বিভক্ত"
         },
         {
-          "en": "The Nadu, further divided into villages",
-          "as": "নাডু, পুনৰ গাঁৱত বিভক্ত"
+          "en": "The Sabha, further divided into committees",
+          "as": "সভা, পুনৰ সমিতিত বিভক্ত"
         },
         {
           "en": "The Nagaram, further divided into wards",
           "as": "নগৰম, পুনৰ ৱাৰ্ডত বিভক্ত"
         },
         {
-          "en": "The Sabha, further divided into committees",
-          "as": "সভা, পুনৰ সমিতিত বিভক্ত"
+          "en": "The Nadu, further divided into villages",
+          "as": "নাডু, পুনৰ গাঁৱত বিভক্ত"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The district administration unit in the Chola empire was the Nadu, further divided into villages.",
         "as": "চোল সাম্ৰাজ্যত জিলা প্ৰশাসনিক একক আছিল নাডু, যি পুনৰ গাঁৱত বিভক্ত আছিল।"
@@ -1881,8 +1881,8 @@
       },
       "options": [
         {
-          "en": "Rajendra I, who conquered the Maldive islands",
-          "as": "প্ৰথম ৰাজেন্দ্ৰ, যি মালদ্বীপ দ্বীপপুঞ্জ জয় কৰিছিল"
+          "en": "Vijayalaya",
+          "as": "বিজয়ালয়"
         },
         {
           "en": "Rajaraja I",
@@ -1893,11 +1893,11 @@
           "as": "প্ৰথম কুলোত্তুংগ"
         },
         {
-          "en": "Vijayalaya",
-          "as": "বিজয়ালয়"
+          "en": "Rajendra I, who conquered the Maldive islands",
+          "as": "প্ৰথম ৰাজেন্দ্ৰ, যি মালদ্বীপ দ্বীপপুঞ্জ জয় কৰিছিল"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Rajendra I is credited with conquering the Maldive islands.",
         "as": "মালদ্বীপ দ্বীপপুঞ্জ জয়ৰ কৃতিত্ব প্ৰথম ৰাজেন্দ্ৰক দিয়া হয়।"

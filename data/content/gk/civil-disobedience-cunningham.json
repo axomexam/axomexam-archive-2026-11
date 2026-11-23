@@ -47,12 +47,12 @@
       "answer_as": "দাণ্ডী যাত্ৰা (নিমখ সত্যাগ্ৰহ)।",
       "options": [
         {
-          "en": "The Non-Cooperation March",
-          "as": "অসহযোগ যাত্ৰা"
-        },
-        {
           "en": "The Dandi March",
           "as": "দাণ্ডী যাত্ৰা"
+        },
+        {
+          "en": "The Non-Cooperation March",
+          "as": "অসহযোগ যাত্ৰা"
         },
         {
           "en": "The Quit India March",
@@ -63,7 +63,7 @@
           "as": "চম্পাৰণ যাত্ৰা"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Dandi March (Salt Satyagraha) of 1930 started the Civil Disobedience Movement.",
         "as": "১৯৩০ চনৰ দাণ্ডী যাত্ৰা (নিমখ সত্যাগ্ৰহ)য়ে আইন অমান্য আন্দোলন আৰম্ভ কৰিছিল।"
@@ -77,12 +77,12 @@
       "answer_as": "সমুদ্ৰৰ পানীৰ পৰা নিমখ উৎপাদন কৰি নিমখ আইন ভংগ কৰা আছিল মূল উদ্দেশ্য।",
       "options": [
         {
-          "en": "To break the salt law by making salt from seawater",
-          "as": "সমুদ্ৰৰ পানীৰ পৰা নিমখ উৎপাদন কৰি নিমখ আইন ভংগ কৰা"
-        },
-        {
           "en": "To demand immediate complete independence",
           "as": "তৎক্ষণাত সম্পূৰ্ণ স্বাধীনতা দাবী কৰা"
+        },
+        {
+          "en": "To break the salt law by making salt from seawater",
+          "as": "সমুদ্ৰৰ পানীৰ পৰা নিমখ উৎপাদন কৰি নিমখ আইন ভংগ কৰা"
         },
         {
           "en": "To protest against the Rowlatt Act",
@@ -93,7 +93,7 @@
           "as": "খিলাফত আন্দোলনক সমৰ্থন কৰা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The main objective of the Dandi March was to break the British salt law by making salt from seawater.",
         "as": "দাণ্ডী যাত্ৰাৰ মূল উদ্দেশ্য আছিল সমুদ্ৰৰ পানীৰ পৰা নিমখ উৎপাদন কৰি ব্ৰিটিছ নিমখ আইন ভংগ কৰা।"
@@ -107,12 +107,12 @@
       "answer_as": "ভাৰতীয় জাতীয় কংগ্ৰেছ।",
       "options": [
         {
-          "en": "The Indian National Congress",
-          "as": "ভাৰতীয় জাতীয় কংগ্ৰেছ"
-        },
-        {
           "en": "The Muslim League",
           "as": "মুছলিম লীগ"
+        },
+        {
+          "en": "The Indian National Congress",
+          "as": "ভাৰতীয় জাতীয় কংগ্ৰেছ"
         },
         {
           "en": "The Communist Party of India",
@@ -123,7 +123,7 @@
           "as": "অসম এছোচিয়েশ্যন"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Indian National Congress led the Civil Disobedience Movement in Assam.",
         "as": "ভাৰতীয় জাতীয় কংগ্ৰেছে অসমত আইন অমান্য আন্দোলনৰ নেতৃত্ব দিছিল।"
@@ -145,15 +145,15 @@
           "as": "সৰৎ চন্দ্ৰ বসু"
         },
         {
-          "en": "Gopinath Bordoloi",
-          "as": "গোপীনাথ বৰদলৈ"
-        },
-        {
           "en": "Madan Mohan Malaviya",
           "as": "মদন মোহন মালৱীয়"
+        },
+        {
+          "en": "Gopinath Bordoloi",
+          "as": "গোপীনাথ বৰদলৈ"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Gopinath Bordoloi was a prominent Congress leader who led the Civil Disobedience Movement in Assam.",
         "as": "গোপীনাথ বৰদলৈ আছিল অসমত আইন অমান্য আন্দোলনৰ নেতৃত্ব দিয়া এজন বিশিষ্ট কংগ্ৰেছ নেতা।"
@@ -171,19 +171,19 @@
           "as": "১৯২০"
         },
         {
-          "en": "1921",
-          "as": "১৯২১"
+          "en": "1930",
+          "as": "১৯৩০"
         },
         {
           "en": "1942",
           "as": "১৯৪২"
         },
         {
-          "en": "1930",
-          "as": "১৯৩০"
+          "en": "1921",
+          "as": "১৯২১"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The Civil Disobedience Movement took place in Assam in 1930.",
         "as": "অসমত আইন অমান্য আন্দোলন ১৯৩০ চনত সংঘটিত হৈছিল।"
@@ -197,8 +197,8 @@
       "answer_as": "নিমখ সত্যাগ্ৰহ (বিদেশী বস্ত্ৰ বৰ্জন আৰু পিকেটিঙৰ লগতে)।",
       "options": [
         {
-          "en": "Salt satyagraha (along with boycott of foreign cloth and picketing)",
-          "as": "নিমখ সত্যাগ্ৰহ (বিদেশী বস্ত্ৰ বৰ্জন আৰু পিকেটিঙৰ লগতে)"
+          "en": "Participation in council elections",
+          "as": "পৰিষদীয় নিৰ্বাচনত অংশগ্ৰহণ"
         },
         {
           "en": "Armed rebellion against the British",
@@ -209,11 +209,11 @@
           "as": "খিলাফত আন্দোলন"
         },
         {
-          "en": "Participation in council elections",
-          "as": "পৰিষদীয় নিৰ্বাচনত অংশগ্ৰহণ"
+          "en": "Salt satyagraha (along with boycott of foreign cloth and picketing)",
+          "as": "নিমখ সত্যাগ্ৰহ (বিদেশী বস্ত্ৰ বৰ্জন আৰু পিকেটিঙৰ লগতে)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Salt satyagraha, along with boycott of foreign cloth and picketing, was a form of protest in the movement in Assam.",
         "as": "নিমখ সত্যাগ্ৰহ, বিদেশী বস্ত্ৰ বৰ্জন আৰু পিকেটিঙৰ লগতে অসমত আন্দোলনৰ এটা প্ৰতিবাদী কাৰ্যসূচী আছিল।"
@@ -227,8 +227,8 @@
       "answer_as": "বিদেশী বস্ত্ৰ আৰু ব্ৰিটিছ সামগ্ৰী বৰ্জন আৰু পিকেটিং।",
       "options": [
         {
-          "en": "Boycott of foreign cloth and British goods, and picketing",
-          "as": "বিদেশী বস্ত্ৰ আৰু ব্ৰিটিছ সামগ্ৰী বৰ্জন আৰু পিকেটিং"
+          "en": "Recruitment into the British army",
+          "as": "ব্ৰিটিছ সেনাত যোগদান"
         },
         {
           "en": "Withdrawal of land revenue payments",
@@ -239,11 +239,11 @@
           "as": "প্ৰাদেশিক পৰিষদত অংশগ্ৰহণ"
         },
         {
-          "en": "Recruitment into the British army",
-          "as": "ব্ৰিটিছ সেনাত যোগদান"
+          "en": "Boycott of foreign cloth and British goods, and picketing",
+          "as": "বিদেশী বস্ত্ৰ আৰু ব্ৰিটিছ সামগ্ৰী বৰ্জন আৰু পিকেটিং"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Besides salt satyagraha, the movement in Assam included boycott of foreign cloth and British goods, and picketing.",
         "as": "নিমখ সত্যাগ্ৰহৰ উপৰিও অসমৰ আন্দোলনত বিদেশী বস্ত্ৰ আৰু ব্ৰিটিছ সামগ্ৰী বৰ্জন আৰু পিকেটিং অন্তৰ্ভুক্ত আছিল।"
@@ -287,23 +287,23 @@
       "answer_as": "১৯৩০ চনত।",
       "options": [
         {
-          "en": "1930",
-          "as": "১৯৩০"
+          "en": "1928",
+          "as": "১৯২৮"
         },
         {
           "en": "1920",
           "as": "১৯২০"
         },
         {
-          "en": "1928",
-          "as": "১৯২৮"
+          "en": "1930",
+          "as": "১৯৩০"
         },
         {
           "en": "1932",
           "as": "১৯৩২"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Cunningham Circular was issued in 1930.",
         "as": "কানিংহাম চাৰ্কুলাৰ ১৯৩০ চনত জাৰি কৰা হৈছিল।"
@@ -377,23 +377,23 @@
       "answer_as": "আইন অমান্য আন্দোলন (১৯৩০)ৰ সময়ত।",
       "options": [
         {
-          "en": "The Non-Cooperation Movement (1920)",
-          "as": "অসহযোগ আন্দোলন (১৯২০)"
+          "en": "The Civil Disobedience Movement (1930)",
+          "as": "আইন অমান্য আন্দোলন (১৯৩০)"
         },
         {
           "en": "The Quit India Movement (1942)",
           "as": "ভাৰত ত্যাগ আন্দোলন (১৯৪২)"
         },
         {
-          "en": "The Civil Disobedience Movement (1930)",
-          "as": "আইন অমান্য আন্দোলন (১৯৩০)"
+          "en": "The Non-Cooperation Movement (1920)",
+          "as": "অসহযোগ আন্দোলন (১৯২০)"
         },
         {
           "en": "The Khilafat Movement (1919)",
           "as": "খিলাফত আন্দোলন (১৯১৯)"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Cunningham Circular was issued during the Civil Disobedience Movement of 1930.",
         "as": "কানিংহাম চাৰ্কুলাৰ ১৯৩০ চনৰ আইন অমান্য আন্দোলনৰ সময়ত জাৰি হৈছিল।"
@@ -407,23 +407,23 @@
       "answer_as": "হয়, ইয়াত ছাত্ৰ আৰু শিক্ষকসকলক ৰাজনৈতিক কাৰ্য্যকলাপত অংশ লোৱাত নিষেধাজ্ঞা জাৰি কৰা হৈছিল।",
       "options": [
         {
-          "en": "Yes, it forbade students and teachers from taking part in political activities",
-          "as": "হয়, ইয়াত ছাত্ৰ আৰু শিক্ষকসকলক ৰাজনৈতিক কাৰ্য্যকলাপত অংশ লোৱাত নিষেধাজ্ঞা জাৰি কৰা হৈছিল"
+          "en": "No, it remained silent on political activities",
+          "as": "নহয়, ই ৰাজনৈতিক কাৰ্য্যকলাপৰ বিষয়ে নীৰৱ আছিল"
         },
         {
           "en": "No, it encouraged them to join political activities",
           "as": "নহয়, ই তেওঁলোকক ৰাজনৈতিক কাৰ্য্যকলাপত যোগ দিবলৈ উৎসাহিত কৰিছিল"
         },
         {
-          "en": "No, it remained silent on political activities",
-          "as": "নহয়, ই ৰাজনৈতিক কাৰ্য্যকলাপৰ বিষয়ে নীৰৱ আছিল"
+          "en": "Yes, it forbade students and teachers from taking part in political activities",
+          "as": "হয়, ইয়াত ছাত্ৰ আৰু শিক্ষকসকলক ৰাজনৈতিক কাৰ্য্যকলাপত অংশ লোৱাত নিষেধাজ্ঞা জাৰি কৰা হৈছিল"
         },
         {
           "en": "Yes, but only for teachers and not for students",
           "as": "হয়, কিন্তু কেৱল শিক্ষকৰ বাবে, ছাত্ৰৰ বাবে নহয়"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Yes, the Cunningham Circular forbade students and teachers from taking part in political activities.",
         "as": "হয়, কানিংহাম চাৰ্কুলাৰে ছাত্ৰ আৰু শিক্ষকসকলক ৰাজনৈতিক কাৰ্য্যকলাপত অংশ লোৱাৰ পৰা নিষেধ কৰিছিল।"
@@ -501,19 +501,19 @@
           "as": "মৃত্যুদণ্ড"
         },
         {
-          "en": "Withdrawal of scholarships",
-          "as": "বৃত্তি বাতিল"
-        },
-        {
           "en": "Life imprisonment",
           "as": "আজীৱন কাৰাবাস"
+        },
+        {
+          "en": "Withdrawal of scholarships",
+          "as": "বৃত্তি বাতিল"
         },
         {
           "en": "Confiscation of property",
           "as": "সম্পত্তি বাজেয়াপ্ত"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Withdrawal of scholarships was one of the penalties threatened under the Cunningham Circular.",
         "as": "বৃত্তি বাতিল কানিংহাম চাৰ্কুলাৰৰ অধীনত ভাবুকি দিয়া এটা দণ্ড আছিল।"
@@ -535,15 +535,15 @@
           "as": "এবছৰ কাৰাবাস"
         },
         {
-          "en": "Expulsion of students from institutions",
-          "as": "ছাত্ৰসকলক শিক্ষানুষ্ঠানৰ পৰা বহিষ্কাৰ"
-        },
-        {
           "en": "Cancellation of land grants",
           "as": "ভূমি অনুদান বাতিল"
+        },
+        {
+          "en": "Expulsion of students from institutions",
+          "as": "ছাত্ৰসকলক শিক্ষানুষ্ঠানৰ পৰা বহিষ্কাৰ"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Expulsion of students from institutions was another penalty threatened under the Cunningham Circular.",
         "as": "ছাত্ৰসকলক শিক্ষানুষ্ঠানৰ পৰা বহিষ্কাৰ কানিংহাম চাৰ্কুলাৰৰ অধীনত ভাবুকি দিয়া আন এটা দণ্ড আছিল।"
@@ -565,15 +565,15 @@
           "as": "অসমৰ কৃষকসকল"
         },
         {
-          "en": "The women's associations",
-          "as": "মহিলা সংগঠনসমূহ"
-        },
-        {
           "en": "The students of Assam",
           "as": "অসমৰ ছাত্ৰ-ছাত্ৰীসকল"
+        },
+        {
+          "en": "The women's associations",
+          "as": "মহিলা সংগঠনসমূহ"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The students of Assam mainly protested against the Cunningham Circular.",
         "as": "কানিংহাম চাৰ্কুলাৰৰ বিৰুদ্ধে প্ৰধানকৈ অসমৰ ছাত্ৰ-ছাত্ৰীসকলে প্ৰতিবাদ কৰিছিল।"
@@ -595,15 +595,15 @@
           "as": "প্ৰেছিডেন্সী মহাবিদ্যালয়"
         },
         {
-          "en": "Murari Chand College",
-          "as": "মুৰাৰীচাঁদ মহাবিদ্যালয়"
-        },
-        {
           "en": "Cotton College",
           "as": "কটন মহাবিদ্যালয়"
+        },
+        {
+          "en": "Murari Chand College",
+          "as": "মুৰাৰীচাঁদ মহাবিদ্যালয়"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Cotton College in Guwahati saw students boycott classes against the Cunningham Circular.",
         "as": "গুৱাহাটীৰ কটন মহাবিদ্যালয়ৰ ছাত্ৰসকলে কানিংহাম চাৰ্কুলাৰৰ বিৰুদ্ধে শ্ৰেণী বৰ্জন কৰিছিল।"
@@ -655,15 +655,15 @@
           "as": "ইয়াক এটা নতুন শিক্ষা আইনেৰে সলনি কৰা হৈছিল"
         },
         {
-          "en": "It was withdrawn by the government due to strong student and public agitation",
-          "as": "ছাত্ৰ আৰু জনসাধাৰণৰ তীব্ৰ আন্দোলনৰ বাবে চৰকাৰে ইয়াক বাতিল/প্ৰত্যাহাৰ কৰিছিল"
-        },
-        {
           "en": "It was strictly implemented by the government",
           "as": "চৰকাৰে ইয়াক কঠোৰভাৱে ৰূপায়ণ কৰিছিল"
+        },
+        {
+          "en": "It was withdrawn by the government due to strong student and public agitation",
+          "as": "ছাত্ৰ আৰু জনসাধাৰণৰ তীব্ৰ আন্দোলনৰ বাবে চৰকাৰে ইয়াক বাতিল/প্ৰত্যাহাৰ কৰিছিল"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Cunningham Circular was withdrawn by the government due to strong student and public agitation.",
         "as": "ছাত্ৰ আৰু জনসাধাৰণৰ তীব্ৰ আন্দোলনৰ বাবে চৰকাৰে কানিংহাম চাৰ্কুলাৰ প্ৰত্যাহাৰ কৰিছিল।"
@@ -681,19 +681,19 @@
           "as": "নহয়, ই বলৱৎ হৈ আছিল"
         },
         {
-          "en": "No, it was strengthened instead",
-          "as": "নহয়, ইয়াৰ পৰিৱৰ্তে ইয়াক সবল কৰা হৈছিল"
-        },
-        {
           "en": "Yes, it was withdrawn by the government",
           "as": "হয়, চৰকাৰে ইয়াক প্ৰত্যাহাৰ কৰিছিল"
+        },
+        {
+          "en": "No, it was strengthened instead",
+          "as": "নহয়, ইয়াৰ পৰিৱৰ্তে ইয়াক সবল কৰা হৈছিল"
         },
         {
           "en": "Yes, but only after 1947",
           "as": "হয়, কিন্তু কেৱল ১৯৪৭ চনৰ পিছত"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Yes, the Cunningham Circular was withdrawn by the government.",
         "as": "হয়, চৰকাৰে কানিংহাম চাৰ্কুলাৰ প্ৰত্যাহাৰ কৰিছিল।"
@@ -707,23 +707,23 @@
       "answer_as": "ইয়াৰ বিৰুদ্ধে ছাত্ৰ আৰু জনসাধাৰণৰ তীব্ৰ আন্দোলনৰ বাবে।",
       "options": [
         {
-          "en": "Due to an order of the Governor",
-          "as": "গৱৰ্ণৰৰ নিৰ্দেশৰ বাবে"
+          "en": "Due to strong student and public agitation against it",
+          "as": "ইয়াৰ বিৰুদ্ধে ছাত্ৰ আৰু জনসাধাৰণৰ তীব্ৰ আন্দোলনৰ বাবে"
         },
         {
           "en": "Due to a change in British policy after the war",
           "as": "যুদ্ধৰ পিছত ব্ৰিটিছ নীতিত পৰিৱৰ্তনৰ বাবে"
         },
         {
-          "en": "Due to strong student and public agitation against it",
-          "as": "ইয়াৰ বিৰুদ্ধে ছাত্ৰ আৰু জনসাধাৰণৰ তীব্ৰ আন্দোলনৰ বাবে"
+          "en": "Due to an order of the Governor",
+          "as": "গৱৰ্ণৰৰ নিৰ্দেশৰ বাবে"
         },
         {
           "en": "Due to pressure from the Congress in the council",
           "as": "পৰিষদত কংগ্ৰেছৰ হেঁচাৰ বাবে"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Cunningham Circular was withdrawn due to strong student and public agitation against it.",
         "as": "ইয়াৰ বিৰুদ্ধে ছাত্ৰ আৰু জনসাধাৰণৰ তীব্ৰ আন্দোলনৰ বাবে কানিংহাম চাৰ্কুলাৰ প্ৰত্যাহাৰ কৰা হৈছিল।"
@@ -737,23 +737,23 @@
       "answer_as": "নহয়, গৱৰ্ণৰে নহয়, পাব্লিক ইনষ্ট্ৰাকচন সঞ্চালক (ডি.পি.আই.)এ ইয়াক জাৰি কৰিছিল।",
       "options": [
         {
-          "en": "Yes, it was issued by the Governor of Assam",
-          "as": "হয়, অসমৰ গৱৰ্ণৰে ইয়াক জাৰি কৰিছিল"
+          "en": "No, it was issued by the Director of Public Instruction (DPI), not the Governor",
+          "as": "নহয়, গৱৰ্ণৰে নহয়, পাব্লিক ইনষ্ট্ৰাকচন সঞ্চালক (ডি.পি.আই.)এ ইয়াক জাৰি কৰিছিল"
         },
         {
           "en": "Yes, it was issued by the Viceroy",
           "as": "হয়, ভাইচৰয়ে ইয়াক জাৰি কৰিছিল"
         },
         {
-          "en": "No, it was issued by the Director of Public Instruction (DPI), not the Governor",
-          "as": "নহয়, গৱৰ্ণৰে নহয়, পাব্লিক ইনষ্ট্ৰাকচন সঞ্চালক (ডি.পি.আই.)এ ইয়াক জাৰি কৰিছিল"
+          "en": "Yes, it was issued by the Governor of Assam",
+          "as": "হয়, অসমৰ গৱৰ্ণৰে ইয়াক জাৰি কৰিছিল"
         },
         {
           "en": "No, it was issued by the Chief Secretary",
           "as": "নহয়, মুখ্য সচিবে ইয়াক জাৰি কৰিছিল"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "No, the Cunningham Circular was issued by the Director of Public Instruction (DPI), not the Governor.",
         "as": "নহয়, কানিংহাম চাৰ্কুলাৰ গৱৰ্ণৰে নহয়, পাব্লিক ইনষ্ট্ৰাকচন সঞ্চালক (ডি.পি.আই.)এ জাৰি কৰিছিল।"
@@ -767,12 +767,12 @@
       "answer_as": "নহয়, ই আইন অমান্য আন্দোলন (১৯৩০)ৰ সময়ত জাৰি হৈছিল।",
       "options": [
         {
-          "en": "No, it was issued during the Civil Disobedience Movement (1930)",
-          "as": "নহয়, ই আইন অমান্য আন্দোলন (১৯৩০)ৰ সময়ত জাৰি হৈছিল"
-        },
-        {
           "en": "Yes, it was issued during the Non-Cooperation Movement",
           "as": "হয়, ই অসহযোগ আন্দোলনৰ সময়ত জাৰি হৈছিল"
+        },
+        {
+          "en": "No, it was issued during the Civil Disobedience Movement (1930)",
+          "as": "নহয়, ই আইন অমান্য আন্দোলন (১৯৩০)ৰ সময়ত জাৰি হৈছিল"
         },
         {
           "en": "Yes, it was issued during the Quit India Movement",
@@ -783,7 +783,7 @@
           "as": "হয়, ই খিলাফত আন্দোলনৰ সময়ত জাৰি হৈছিল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "No, the Cunningham Circular was issued during the Civil Disobedience Movement of 1930.",
         "as": "নহয়, কানিংহাম চাৰ্কুলাৰ ১৯৩০ চনৰ আইন অমান্য আন্দোলনৰ সময়ত জাৰি হৈছিল।"
@@ -805,15 +805,15 @@
           "as": "জমিদাৰ আৰু ভূ-স্বামীসকল"
         },
         {
-          "en": "Women and children",
-          "as": "মহিলা আৰু শিশুসকল"
-        },
-        {
           "en": "Students and teachers",
           "as": "ছাত্ৰ আৰু শিক্ষকসকল"
+        },
+        {
+          "en": "Women and children",
+          "as": "মহিলা আৰু শিশুসকল"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Cunningham Circular dealt mainly with students and teachers.",
         "as": "কানিংহাম চাৰ্কুলাৰ মূলতঃ ছাত্ৰ আৰু শিক্ষকসকলৰ লগত জড়িত আছিল।"
@@ -827,23 +827,23 @@
       "answer_as": "আইন অমান্য আন্দোলন (নিমখ সত্যাগ্রহ)।",
       "options": [
         {
-          "en": "The Civil Disobedience Movement (Salt Satyagraha)",
-          "as": "আইন অমান্য আন্দোলন (নিমখ সত্যাগ্ৰহ)"
+          "en": "The Quit India Movement",
+          "as": "ভাৰত ত্যাগ আন্দোলন"
         },
         {
           "en": "The Non-Cooperation Movement",
           "as": "অসহযোগ আন্দোলন"
         },
         {
-          "en": "The Quit India Movement",
-          "as": "ভাৰত ত্যাগ আন্দোলন"
+          "en": "The Civil Disobedience Movement (Salt Satyagraha)",
+          "as": "আইন অমান্য আন্দোলন (নিমখ সত্যাগ্ৰহ)"
         },
         {
           "en": "The Swadeshi Movement",
           "as": "স্বদেশী আন্দোলন"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Civil Disobedience Movement (Salt Satyagraha) was started by breaking the salt law.",
         "as": "নিমখ আইন ভংগ কৰি আইন অমান্য আন্দোলন (নিমখ সত্যাগ্ৰহ) আৰম্ভ হৈছিল।"
@@ -861,19 +861,19 @@
           "as": "অসহযোগ যাত্ৰা"
         },
         {
-          "en": "The Quit India March",
-          "as": "ভাৰত ত্যাগ যাত্ৰা"
+          "en": "The Salt Satyagraha",
+          "as": "নিমখ সত্যাগ্রহ"
         },
         {
           "en": "The Swadeshi March",
           "as": "স্বদেশী যাত্ৰা"
         },
         {
-          "en": "The Salt Satyagraha",
-          "as": "নিমখ সত্যাগ্রহ"
+          "en": "The Quit India March",
+          "as": "ভাৰত ত্যাগ যাত্ৰা"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The Dandi March is also known as the Salt Satyagraha.",
         "as": "দাণ্ডী যাত্ৰা নিমখ সত্যাগ্ৰহ নামেৰেও জনা যায়।"
@@ -887,23 +887,23 @@
       "answer_as": "গোপীনাথ বৰদলৈ।",
       "options": [
         {
-          "en": "Gopinath Bordoloi",
-          "as": "গোপীনাথ বৰদলৈ"
+          "en": "Jawaharlal Nehru",
+          "as": "জৱাহৰলাল নেহৰু"
         },
         {
           "en": "Subhas Chandra Bose",
           "as": "সুভাষ চন্দ্ৰ বসু"
         },
         {
-          "en": "Jawaharlal Nehru",
-          "as": "জৱাহৰলাল নেহৰু"
+          "en": "Gopinath Bordoloi",
+          "as": "গোপীনাথ বৰদলৈ"
         },
         {
           "en": "Sardar Vallabhbhai Patel",
           "as": "সৰ্দাৰ বল্লভভাই পেটেল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Gopinath Bordoloi is the leader closely associated with the Congress leadership in the Civil Disobedience Movement in Assam.",
         "as": "অসমৰ আইন অমান্য আন্দোলনত কংগ্ৰেছ নেতৃত্বৰ লগত ঘনিষ্ঠভাৱে জড়িত নেতা আছিল গোপীনাথ বৰদলৈ।"
@@ -921,19 +921,19 @@
           "as": "অশুদ্ধ।"
         },
         {
-          "en": "Partly true",
-          "as": "আংশিকভাৱে শুদ্ধ।"
+          "en": "True",
+          "as": "শুদ্ধ।"
         },
         {
           "en": "Cannot be determined",
           "as": "নিৰ্ণয় কৰিব নোৱাৰি।"
         },
         {
-          "en": "True",
-          "as": "শুদ্ধ।"
+          "en": "Partly true",
+          "as": "আংশিকভাৱে শুদ্ধ।"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "True; picketing was indeed one of the forms of protest in the Civil Disobedience Movement in Assam.",
         "as": "শুদ্ধ; পিকেটিং সঁচাকৈয়ে অসমৰ আইন অমান্য আন্দোলনৰ প্ৰতিবাদৰ এটা ৰূপ আছিল।"
@@ -951,19 +951,19 @@
           "as": "অশুদ্ধ।"
         },
         {
-          "en": "True",
-          "as": "শুদ্ধ।"
-        },
-        {
           "en": "Partly true",
           "as": "আংশিকভাৱে শুদ্ধ।"
+        },
+        {
+          "en": "True",
+          "as": "শুদ্ধ।"
         },
         {
           "en": "Cannot be determined",
           "as": "নিৰ্ণয় কৰিব নোৱাৰি।"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "True; boycott of foreign cloth was indeed a part of the Civil Disobedience Movement in Assam.",
         "as": "শুদ্ধ; বিদেশী বস্ত্ৰ বৰ্জন সঁচাকৈয়ে অসমৰ আইন অমান্য আন্দোলনৰ অংশ আছিল।"
@@ -977,12 +977,12 @@
       "answer_as": "অশুদ্ধ; ই ছাত্ৰ আৰু শিক্ষকসকলৰ আন্দোলনত অংশগ্ৰহণ বন্ধ কৰিবলৈ জাৰি হৈছিল।",
       "options": [
         {
-          "en": "True; it was issued to support the movement",
-          "as": "শুদ্ধ; ই আন্দোলনক সমৰ্থন কৰিবলৈ জাৰি হৈছিল"
-        },
-        {
           "en": "False; it was issued to check student and teacher participation in the movement",
           "as": "অশুদ্ধ; ই ছাত্ৰ আৰু শিক্ষকসকলৰ আন্দোলনত অংশগ্ৰহণ বন্ধ কৰিবলৈ জাৰি হৈছিল"
+        },
+        {
+          "en": "True; it was issued to support the movement",
+          "as": "শুদ্ধ; ই আন্দোলনক সমৰ্থন কৰিবলৈ জাৰি হৈছিল"
         },
         {
           "en": "False; it was issued to promote khadi",
@@ -993,7 +993,7 @@
           "as": "শুদ্ধ; ই ছাত্ৰসকলক ৰাজনীতিত যোগ দিবলৈ উৎসাহিত কৰিছিল"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "False; the Cunningham Circular was issued to check student and teacher participation in the movement.",
         "as": "অশুদ্ধ; কানিংহাম চাৰ্কুলাৰ ছাত্ৰ আৰু শিক্ষকসকলৰ আন্দোলনত অংশগ্ৰহণ বন্ধ কৰিবলৈ জাৰি হৈছিল।"
@@ -1011,19 +1011,19 @@
           "as": "যোৰহাট"
         },
         {
-          "en": "Dibrugarh",
-          "as": "ডিব্ৰুগড়"
+          "en": "Guwahati",
+          "as": "গুৱাহাটী"
         },
         {
           "en": "Silchar",
           "as": "শিলচৰ"
         },
         {
-          "en": "Guwahati",
-          "as": "গুৱাহাটী"
+          "en": "Dibrugarh",
+          "as": "ডিব্ৰুগড়"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Guwahati witnessed the Cotton College student boycott.",
         "as": "গুৱাহাটীত কটন মহাবিদ্যালয়ৰ ছাত্ৰসকলৰ শ্ৰেণী বৰ্জন সংঘটিত হৈছিল।"
@@ -1041,19 +1041,19 @@
           "as": "নহয়, ই অসমত বিস্তাৰ লাভ কৰা নাছিল"
         },
         {
-          "en": "Yes, the movement was active in Assam under the Congress",
-          "as": "হয়, কংগ্ৰেছৰ নেতৃত্বত আন্দোলনটো অসমত সক্ৰিয় আছিল"
-        },
-        {
           "en": "No, it was confined to Bengal",
           "as": "নহয়, ই বংগত সীমাবদ্ধ আছিল"
+        },
+        {
+          "en": "Yes, the movement was active in Assam under the Congress",
+          "as": "হয়, কংগ্ৰেছৰ নেতৃত্বত আন্দোলনটো অসমত সক্ৰিয় আছিল"
         },
         {
           "en": "Yes, but it was led by the British",
           "as": "হয়, কিন্তু ই ব্ৰিটিছৰ নেতৃত্বত আছিল"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Yes, the Civil Disobedience Movement of 1930 was active in Assam under the Congress.",
         "as": "হয়, ১৯৩০ চনৰ আইন অমান্য আন্দোলন কংগ্ৰেছৰ নেতৃত্বত অসমত সক্ৰিয় আছিল।"
@@ -1071,19 +1071,19 @@
           "as": "তেওঁলোকে কংগ্ৰেছৰ প্ৰতি আনুগত্যৰ শপত ল'ব লাগিব"
         },
         {
-          "en": "They were required to join the police force",
-          "as": "তেওঁলোকে আৰক্ষী বাহিনীত যোগ দিব লাগিব"
-        },
-        {
           "en": "Students and teachers were required to remain loyal to the government",
           "as": "ছাত্ৰ আৰু শিক্ষকসকলে চৰকাৰৰ প্ৰতি অনুগত হৈ থাকিব লাগিব"
+        },
+        {
+          "en": "They were required to join the police force",
+          "as": "তেওঁলোকে আৰক্ষী বাহিনীত যোগ দিব লাগিব"
         },
         {
           "en": "They were required to leave Assam",
           "as": "তেওঁলোকে অসম এৰি যাব লাগিব"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Cunningham Circular ordered that students and teachers remain loyal to the government.",
         "as": "কানিংহাম চাৰ্কুলাৰত নিৰ্দেশ আছিল যে ছাত্ৰ আৰু শিক্ষকসকলে চৰকাৰৰ প্ৰতি অনুগত হৈ থাকিব লাগিব।"
@@ -1097,12 +1097,12 @@
       "answer_as": "ছাত্ৰ আৰু জনসাধাৰণৰ তীব্ৰ আন্দোলন (কটন মহাবিদ্যালয়ৰ বৰ্জনকে ধৰি)ৰ পিছত।",
       "options": [
         {
-          "en": "After the Governor's visit to Assam",
-          "as": "অসমলৈ গৱৰ্ণৰৰ ভ্ৰমণৰ পিছত"
-        },
-        {
           "en": "After strong student and public agitation (including the Cotton College boycott)",
           "as": "ছাত্ৰ আৰু জনসাধাৰণৰ তীব্ৰ আন্দোলন (কটন মহাবিদ্যালয়ৰ বৰ্জনকে ধৰি)ৰ পিছত"
+        },
+        {
+          "en": "After the Governor's visit to Assam",
+          "as": "অসমলৈ গৱৰ্ণৰৰ ভ্ৰমণৰ পিছত"
         },
         {
           "en": "After the outbreak of the Second World War",
@@ -1113,7 +1113,7 @@
           "as": "ভাৰত শাসন আইন গৃহীত হোৱাৰ পিছত"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Cunningham Circular was withdrawn after strong student and public agitation, including the Cotton College boycott.",
         "as": "কটন মহাবিদ্যালয়ৰ বৰ্জনকে ধৰি ছাত্ৰ আৰু জনসাধাৰণৰ তীব্ৰ আন্দোলনৰ পিছত কানিংহাম চাৰ্কুলাৰ প্ৰত্যাহাৰ কৰা হৈছিল।"
@@ -1135,15 +1135,15 @@
           "as": "থম্পছন"
         },
         {
-          "en": "Cunningham",
-          "as": "কানিংহাম"
-        },
-        {
           "en": "Anderson",
           "as": "এণ্ডাৰছন"
+        },
+        {
+          "en": "Cunningham",
+          "as": "কানিংহাম"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Cunningham was the Director of Public Instruction of Assam who issued the Cunningham Circular.",
         "as": "কানিংহাম আছিল অসমৰ পাব্লিক ইনষ্ট্ৰাকচন সঞ্চালক, যিয়ে কানিংহাম চাৰ্কুলাৰ জাৰি কৰিছিল।"
@@ -1157,8 +1157,8 @@
       "answer_as": "অসমৰ পাব্লিক ইনষ্ট্ৰাকচন সঞ্চালক (ডি.পি.আই.)।",
       "options": [
         {
-          "en": "The Governor of Assam",
-          "as": "অসমৰ গৱৰ্ণৰ"
+          "en": "The Director of Public Instruction (DPI) of Assam",
+          "as": "অসমৰ পাব্লিক ইনষ্ট্ৰাকচন সঞ্চালক (ডি.পি.আই.)"
         },
         {
           "en": "The Chief Secretary of Assam",
@@ -1169,11 +1169,11 @@
           "as": "পুলিচৰ মহাপৰিদৰ্শক"
         },
         {
-          "en": "The Director of Public Instruction (DPI) of Assam",
-          "as": "অসমৰ পাব্লিক ইনষ্ট্ৰাকচন সঞ্চালক (ডি.পি.আই.)"
+          "en": "The Governor of Assam",
+          "as": "অসমৰ গৱৰ্ণৰ"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The name 'Cunningham' in the Cunningham Circular refers to the post of Director of Public Instruction (DPI) of Assam.",
         "as": "কানিংহাম চাৰ্কুলাৰত 'কানিংহাম' নামটোৱে অসমৰ পাব্লিক ইনষ্ট্ৰাকচন সঞ্চালক (ডি.পি.আই.) পদক বুজায়।"
@@ -1187,12 +1187,12 @@
       "answer_as": "অসমৰ বিদ্যালয় আৰু মহাবিদ্যালয় (ছাত্ৰ আৰু শিক্ষক) সম্পৰ্কীয় পৰিপ্ৰেক্ষিতত।",
       "options": [
         {
-          "en": "In the context of the tea gardens",
-          "as": "চাহ বাগিচাসমূহৰ পৰিপ্ৰেক্ষিতত"
-        },
-        {
           "en": "In the context of schools and colleges (students and teachers) in Assam",
           "as": "অসমৰ বিদ্যালয় আৰু মহাবিদ্যালয় (ছাত্ৰ আৰু শিক্ষক) সম্পৰ্কীয় পৰিপ্ৰেক্ষিতত"
+        },
+        {
+          "en": "In the context of the tea gardens",
+          "as": "চাহ বাগিচাসমূহৰ পৰিপ্ৰেক্ষিতত"
         },
         {
           "en": "In the context of the courts and the police",
@@ -1203,7 +1203,7 @@
           "as": "সেনা আৰু প্ৰতিৰক্ষাৰ পৰিপ্ৰেক্ষিতত"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Cunningham Circular created a stir in the context of schools and colleges (students and teachers) in Assam.",
         "as": "কানিংহাম চাৰ্কুলাৰে অসমৰ বিদ্যালয় আৰু মহাবিদ্যালয় (ছাত্ৰ আৰু শিক্ষক) সম্পৰ্কীয় পৰিপ্ৰেক্ষিতত তুমুল আলোড়নৰ সৃষ্টি কৰিছিল।"
@@ -1221,19 +1221,19 @@
           "as": "বন আইন"
         },
         {
-          "en": "The salt law",
-          "as": "নিমখ আইন"
+          "en": "The Arms Act",
+          "as": "অস্ত্ৰ আইন"
         },
         {
           "en": "The land revenue law",
           "as": "ভূমি ৰাজহ আইন"
         },
         {
-          "en": "The Arms Act",
-          "as": "অস্ত্ৰ আইন"
+          "en": "The salt law",
+          "as": "নিমখ আইন"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Mahatma Gandhi led the Dandi March to break the salt law.",
         "as": "মহাত্মা গান্ধীয়ে নিমখ আইন ভংগ কৰিবলৈ দাণ্ডী যাত্ৰাৰ নেতৃত্ব দিছিল।"
@@ -1247,23 +1247,23 @@
       "answer_as": "নহয়; ই প্ৰাদেশিক পৰিসৰৰ আন্দোলন আছিল, যদিও ছাত্ৰ প্ৰতিবাদ বিশেষকৈ গুৱাহাটীত প্ৰকট হৈছিল।",
       "options": [
         {
-          "en": "Yes; it was limited only to Guwahati",
-          "as": "হয়; ই কেৱল গুৱাহাটীলৈ সীমাবদ্ধ আছিল"
+          "en": "No; it was a province-wide movement, with student protest especially visible in Guwahati",
+          "as": "নহয়; ই প্ৰাদেশিক পৰিসৰৰ আন্দোলন আছিল, যদিও ছাত্ৰ প্ৰতিবাদ বিশেষকৈ গুৱাহাটীত প্ৰকট হৈছিল"
         },
         {
           "en": "No; it was limited to Bengal",
           "as": "নহয়; ই বংগত সীমাবদ্ধ আছিল"
         },
         {
-          "en": "No; it was a province-wide movement, with student protest especially visible in Guwahati",
-          "as": "নহয়; ই প্ৰাদেশিক পৰিসৰৰ আন্দোলন আছিল, যদিও ছাত্ৰ প্ৰতিবাদ বিশেষকৈ গুৱাহাটীত প্ৰকট হৈছিল"
+          "en": "Yes; it was limited only to Guwahati",
+          "as": "হয়; ই কেৱল গুৱাহাটীলৈ সীমাবদ্ধ আছিল"
         },
         {
           "en": "Yes; it did not spread beyond one college",
           "as": "হয়; ই এটা মহাবিদ্যালয়ৰ বাহিৰলৈ বিস্তাৰ লাভ কৰা নাছিল"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "No; the Civil Disobedience Movement in Assam was a province-wide movement, though student protest was especially visible in Guwahati.",
         "as": "নহয়; অসমৰ আইন অমান্য আন্দোলন প্ৰাদেশিক পৰিসৰৰ আছিল, যদিও ছাত্ৰ প্ৰতিবাদ বিশেষকৈ গুৱাহাটীত প্ৰকট হৈছিল।"
@@ -1307,8 +1307,8 @@
       "answer_as": "অশুদ্ধ; দণ্ডৰ ভাবুকিৰ তলত ই ৰাজনৈতিক অংশগ্ৰহণ নিষেধ কৰিছিল।",
       "options": [
         {
-          "en": "False; it forbade political participation under threat of penalties",
-          "as": "অশুদ্ধ; দণ্ডৰ ভাবুকিৰ তলত ই ৰাজনৈতিক অংশগ্ৰহণ নিষেধ কৰিছিল"
+          "en": "True; it encouraged political meetings in colleges",
+          "as": "শুদ্ধ; ই মহাবিদ্যালয়ত ৰাজনৈতিক সভা উৎসাহিত কৰিছিল"
         },
         {
           "en": "True; it allowed students to join demonstrations freely",
@@ -1319,11 +1319,11 @@
           "as": "অশুদ্ধ; ই কেৱল শিক্ষকসকলক ৰাজনীতিত যোগ দিয়াত অনুমতি দিছিল"
         },
         {
-          "en": "True; it encouraged political meetings in colleges",
-          "as": "শুদ্ধ; ই মহাবিদ্যালয়ত ৰাজনৈতিক সভা উৎসাহিত কৰিছিল"
+          "en": "False; it forbade political participation under threat of penalties",
+          "as": "অশুদ্ধ; দণ্ডৰ ভাবুকিৰ তলত ই ৰাজনৈতিক অংশগ্ৰহণ নিষেধ কৰিছিল"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "False; the Cunningham Circular forbade political participation by students under threat of penalties.",
         "as": "অশুদ্ধ; কানিংহাম চাৰ্কুলাৰে দণ্ডৰ ভাবুকিৰ তলত ছাত্ৰসকলৰ ৰাজনৈতিক অংশগ্ৰহণ নিষেধ কৰিছিল।"
@@ -1337,12 +1337,12 @@
       "answer_as": "১৯৩০ চনত, ১২ মাৰ্চত দাণ্ডী যাত্ৰা (নিমখ সত্যাগ্রহ)ৰে আৰম্ভ হৈছিল।",
       "options": [
         {
-          "en": "In 1920, with the Non-Cooperation Movement",
-          "as": "১৯২০ চনত, অসহযোগ আন্দোলনৰে"
-        },
-        {
           "en": "In 1930, with the Dandi March (Salt Satyagraha) on 12 March",
           "as": "১৯৩০ চনত, ১২ মাৰ্চত দাণ্ডী যাত্ৰা (নিমখ সত্যাগ্রহ)ৰে"
+        },
+        {
+          "en": "In 1920, with the Non-Cooperation Movement",
+          "as": "১৯২০ চনত, অসহযোগ আন্দোলনৰে"
         },
         {
           "en": "In 1942, with the Quit India Movement",
@@ -1353,7 +1353,7 @@
           "as": "১৯২১ চনত, খিলাফত আন্দোলনৰে"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Civil Disobedience Movement began in 1930 with the Dandi March (Salt Satyagraha) on 12 March.",
         "as": "আইন অমান্য আন্দোলন ১৯৩০ চনত, ১২ মাৰ্চত দাণ্ডী যাত্ৰা (নিমখ সত্যাগ্রহ)ৰে আৰম্ভ হৈছিল।"

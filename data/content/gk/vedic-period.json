@@ -64,17 +64,17 @@
         "en": [
           "Sama Veda",
           "Atharva Veda",
-          "Yajur Veda",
-          "Rig Veda"
+          "Rig Veda",
+          "Yajur Veda"
         ],
         "as": [
           "সামবেদ",
           "অথৰ্ববেদ",
-          "যজুৰ্বেদ",
-          "ঋগ্বেদ"
+          "ঋগ্বেদ",
+          "যজুৰ্বেদ"
         ]
       },
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Rig Veda is the oldest of the four Vedas.",
         "as": "ঋগ্বেদ চাৰিটা বেদৰ আটাইতকৈ প্ৰাচীন।"
@@ -120,19 +120,19 @@
       },
       "options": {
         "en": [
-          "Ten",
           "Eight",
+          "Ten",
           "Nine",
           "Twelve"
         ],
         "as": [
-          "দহ",
           "আঠ",
+          "দহ",
           "ন",
           "বাৰ"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Rig Veda contains ten mandalas (books).",
         "as": "ঋগ্বেদত দহটা মণ্ডল (গ্ৰন্থ) আছে।"
@@ -151,17 +151,17 @@
         "en": [
           "500 hymns",
           "1500 hymns",
-          "1000 hymns",
-          "1028 hymns"
+          "1028 hymns",
+          "1000 hymns"
         ],
         "as": [
           "৫০০ টা স্তৱ",
           "১৫০০ টা স্তৱ",
-          "১০০০ টা স্তৱ",
-          "১০২৮ টা স্তৱ"
+          "১০২৮ টা স্তৱ",
+          "১০০০ টা স্তৱ"
         ]
       },
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Rig Veda contains 1028 hymns or suktas.",
         "as": "ঋগ্বেদত ১০২৮ টা স্তৱ বা সুক্ত আছে।"
@@ -207,19 +207,19 @@
       },
       "options": {
         "en": [
-          "Rig Veda",
+          "Yajur Veda",
           "Atharva Veda",
           "Sama Veda",
-          "Yajur Veda"
+          "Rig Veda"
         ],
         "as": [
-          "ঋগ্বেদ",
+          "যজুৰ্বেদ",
           "অথৰ্ববেদ",
           "সামবেদ",
-          "যজুৰ্বেদ"
+          "ঋগ্বেদ"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The Yajur Veda deals mainly with rituals and sacrificial formulas.",
         "as": "যজুৰ্বেদ মূলত অনুষ্ঠান আৰু যজ্ঞৰ সূত্ৰৰ সৈতে জড়িত।"
@@ -236,19 +236,19 @@
       },
       "options": {
         "en": [
-          "Atharva Veda",
+          "Yajur Veda",
           "Rig Veda",
           "Sama Veda",
-          "Yajur Veda"
+          "Atharva Veda"
         ],
         "as": [
-          "অথৰ্ববেদ",
+          "যজুৰ্বেদ",
           "ঋগ্বেদ",
           "সামবেদ",
-          "যজুৰ্বেদ"
+          "অথৰ্ববেদ"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Atharva Veda contains magical charms and spells.",
         "as": "অথৰ্ববেদত যাদুকৰী মন্ত্ৰ আৰু কৰ্ম থাকে।"
@@ -265,19 +265,19 @@
       },
       "options": {
         "en": [
-          "Rig Veda",
           "Yajur Veda",
+          "Rig Veda",
           "Atharva Veda",
           "Brahmanas"
         ],
         "as": [
-          "ঋগ্বেদ",
           "যজুৰ্বেদ",
+          "ঋগ্বেদ",
           "অথৰ্ববেদ",
           "ব্ৰাহ্মণ"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The hymns of the Sama Veda are mostly drawn from the Rig Veda, except 75 verses.",
         "as": "সামবেদৰ স্তৱবোৰ মূলত ঋগ্বেদৰ পৰা লোৱা, কেৱল ৭৫ টা শ্লোক বাদে।"
@@ -294,19 +294,19 @@
       },
       "options": {
         "en": [
-          "Sapta Sindhu region in Punjab",
-          "Ganga-Yamuna doab",
           "Bengal delta",
+          "Ganga-Yamuna doab",
+          "Sapta Sindhu region in Punjab",
           "Deccan plateau"
         ],
         "as": [
-          "পঞ্জাবৰ সপ্ত সিন্ধু অঞ্চল",
-          "গংগা-যমুনা দোআব",
           "বংগ বদ্বীপ",
+          "গংগা-যমুনা দোআব",
+          "পঞ্জাবৰ সপ্ত সিন্ধু অঞ্চল",
           "দাক্ষিণাত্য মালভূমি"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Early Vedic Aryans were associated with the Sapta Sindhu region, the land of seven rivers in Punjab.",
         "as": "প্ৰাৰম্ভিক বৈদিক আৰ্যসকলে পঞ্জাবৰ সপ্ত সিন্ধু অঞ্চল, অৰ্থাৎ সাতখন নদীৰ দেশৰ সৈতে জড়িত আছিল।"
@@ -323,19 +323,19 @@
       },
       "options": {
         "en": [
-          "Indus",
-          "Ganga",
           "Saraswati",
+          "Ganga",
+          "Indus",
           "Yamuna"
         ],
         "as": [
-          "সিন্ধু",
-          "গংগা",
           "সৰস্বতী",
+          "গংগা",
+          "সিন্ধু",
           "যমুনা"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Saraswati river is most frequently mentioned and most sacred in the Rig Veda.",
         "as": "ঋগ্বেদত সৰস্বতী নদী আটাইতকৈ বেছি উল্লেখিত আৰু আটাইতকৈ পৱিত্ৰ।"
@@ -382,18 +382,18 @@
       "options": {
         "en": [
           "Grama",
-          "Kula",
+          "Vis",
           "Jana",
-          "Vis"
+          "Kula"
         ],
         "as": [
           "গ্ৰাম",
-          "কুল",
+          "বিশ্ব",
           "জন",
-          "বিশ্ব"
+          "কুল"
         ]
       },
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The family was called Kula in the Rigvedic period.",
         "as": "ঋগ্বেদীয় যুগত পৰিয়ালক কুল বোলা হৈছিল।"
@@ -410,19 +410,19 @@
       },
       "options": {
         "en": [
-          "Grama",
-          "Sabha",
           "Jana",
+          "Sabha",
+          "Grama",
           "Kula"
         ],
         "as": [
-          "গ্ৰাম",
-          "সভা",
           "জন",
+          "সভা",
+          "গ্ৰাম",
           "কুল"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The village was called Grama in the Rigvedic period.",
         "as": "ঋগ্বেদীয় যুগত গাঁওক গ্ৰাম বোলা হৈছিল।"
@@ -468,19 +468,19 @@
       },
       "options": {
         "en": [
-          "Kula",
           "Sabha",
+          "Kula",
           "Samiti",
           "Vidatha"
         ],
         "as": [
-          "কুল",
           "সভা",
+          "কুল",
           "সমিতি",
           "বিদথ"
         ]
       },
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Sabha consisted of the elders and elites.",
         "as": "সভাত বয়োজ্যেষ্ঠ আৰু অভিজাতসকল আছিল।"
@@ -528,17 +528,17 @@
         "en": [
           "Sardar",
           "Raja",
-          "Rajan",
-          "Purohita"
+          "Purohita",
+          "Rajan"
         ],
         "as": [
           "সৰদাৰ",
           "ৰজা",
-          "ৰাজন",
-          "পুৰোহিত"
+          "পুৰোহিত",
+          "ৰাজন"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The head of the tribe was called Rajan or king.",
         "as": "জনজাতিৰ মুৰব্বীক ৰাজন বা ৰজা বোলা হৈছিল।"
@@ -556,18 +556,18 @@
       "options": {
         "en": [
           "Mining",
-          "Pastoralism and cattle-rearing",
+          "Sea trade",
           "Large-scale agriculture",
-          "Sea trade"
+          "Pastoralism and cattle-rearing"
         ],
         "as": [
           "খনন",
-          "পশুপালন আৰু গৰুপালন",
+          "সাগৰীয় বাণিজ্য",
           "বৃহৎ পৰিসৰৰ কৃষি",
-          "সাগৰীয় বাণিজ্য"
+          "পশুপালন আৰু গৰুপালন"
         ]
       },
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The main occupation of the early Vedic people was pastoralism; cattle was the measure of wealth.",
         "as": "প্ৰাৰম্ভিক বৈদিক লোকৰ মূল জীৱিকা আছিল পশুপালন; গৰু ধনৰ মাপ আছিল।"
@@ -613,19 +613,19 @@
       },
       "options": {
         "en": [
-          "Agni",
+          "Indra",
           "Varuna",
           "Vishnu",
-          "Indra"
+          "Agni"
         ],
         "as": [
-          "অগ্নি",
+          "ইন্দ্ৰ",
           "বৰুণ",
           "বিষ্ণু",
-          "ইন্দ্ৰ"
+          "অগ্নি"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Indra is called Purandara, the breaker of forts.",
         "as": "ইন্দ্ৰক পুৰন্দৰ, অৰ্থাৎ দুৰ্গ ভাঙোতা বোলা হয়।"
@@ -642,19 +642,19 @@
       },
       "options": {
         "en": [
-          "Agni",
-          "Soma",
           "Varuna",
+          "Soma",
+          "Agni",
           "Usha"
         ],
         "as": [
-          "অগ্নি",
-          "সোম",
           "বৰুণ",
+          "সোম",
+          "অগ্নি",
           "ঊষা"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Agni, the fire god, was second only to Indra in importance in the Rig Veda.",
         "as": "অগ্নি দেৱতা ঋগ্বেদত গুৰুত্বত ইন্দ্ৰৰ পিছত দ্বিতীয় আছিল।"
@@ -672,18 +672,18 @@
       "options": {
         "en": [
           "Indra",
-          "Agni",
           "Varuna",
+          "Agni",
           "Soma"
         ],
         "as": [
           "ইন্দ্ৰ",
-          "অগ্নি",
           "বৰুণ",
+          "অগ্নি",
           "সোম"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Varuna was associated with the moral order called Rita.",
         "as": "বৰুণ ঋত নামৰ নৈতিক ব্যৱস্থাৰ সৈতে জড়িত আছিল।"
@@ -700,19 +700,19 @@
       },
       "options": {
         "en": [
-          "Amrita",
           "Soma",
+          "Amrita",
           "Madhu",
           "Sura"
         ],
         "as": [
-          "অমৃত",
           "সোম",
+          "অমৃত",
           "মধু",
           "সূৰা"
         ]
       },
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Soma was the deity personifying the ritual drink made from the Soma plant.",
         "as": "সোম উপাস্য দেৱতা যি সোম গছৰ পৰা প্ৰস্তুত অনুষ্ঠানিক পানীয়ৰ ৰূপক।"
@@ -729,19 +729,19 @@
       },
       "options": {
         "en": [
-          "Ratri",
+          "Usha",
           "Aditi",
           "Prithvi",
-          "Usha"
+          "Ratri"
         ],
         "as": [
-          "ৰাত্ৰি",
+          "ঊষা",
           "অদিতি",
           "পৃথিৱী",
-          "ঊষা"
+          "ৰাত্ৰি"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Usha was the Rigvedic goddess representing the dawn.",
         "as": "ঊষা ঋগ্বেদীয় দেৱী যি পুৱাৰ ৰূপ।"
@@ -758,19 +758,19 @@
       },
       "options": {
         "en": [
-          "The Boghaz-koi inscription",
           "The Mehrauli inscription",
+          "The Boghaz-koi inscription",
           "The Aihole inscription",
           "The Junagadh inscription"
         ],
         "as": [
-          "ব’গাজ-কই শিলালিপি",
           "মেহৰাউলি শিলালিপি",
+          "ব’গাজ-কই শিলালিপি",
           "আইহোলে শিলালিপি",
           "জুনাগadh শিলালিপি"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Boghaz-koi inscription (14th century BC) found in Turkey mentions Vedic gods Mitra, Varuna, Indra and Nasatya.",
         "as": "তুৰস্কত পোৱা ব’গাজ-কই শিলালিপি (খ্ৰীষ্টপূৰ্ব ১৪শ শতিকা) ত মিত্ৰ, বৰুণ, ইন্দ্ৰ আৰু নাসত্য বৈদিক দেৱতাৰ উল্লেখ আছে।"
@@ -787,19 +787,19 @@
       },
       "options": {
         "en": [
-          "The Battle of Ten Kings (Dasarajna)",
-          "The Battle of Panipat",
           "The Kalinga War",
+          "The Battle of Panipat",
+          "The Battle of Ten Kings (Dasarajna)",
           "The Battle of Hydaspes"
         ],
         "as": [
-          "দশৰাজ্ঞ যুদ্ধ",
-          "পানীপত যুদ্ধ",
           "কলিঙ্গ যুদ্ধ",
+          "পানীপত যুদ্ধ",
+          "দশৰাজ্ঞ যুদ্ধ",
           "হাইদাস্পেছ যুদ্ধ"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Battle of Ten Kings, or Dasarajna, is mentioned in the Rig Veda, fought on the river Parushni (Ravi).",
         "as": "দশৰাজ্ঞ যুদ্ধ ঋগ্বেদত উল্লেখ আছে, যি পাৰুষ্ণী (ৰাৱী) নদীত হৈছিল।"
@@ -816,19 +816,19 @@
       },
       "options": {
         "en": [
-          "King Puru",
-          "King Bharata",
           "King Sudas",
+          "King Bharata",
+          "King Puru",
           "King Divodasa"
         ],
         "as": [
-          "ৰজা পুৰু",
-          "ৰজা ভৰত",
           "ৰজা সুদাস",
+          "ৰজা ভৰত",
+          "ৰজা পুৰু",
           "ৰজা দিবোদাস"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "King Sudas, a Bharata king, defeated the confederacy of ten tribes in the Battle of Ten Kings.",
         "as": "ভৰত ৰজা সুদাসে দশৰাজ্ঞ যুদ্ধত দহ জনজাতিৰ সংগঠনক পৰাস্ত কৰিছিল।"
@@ -875,18 +875,18 @@
       "options": {
         "en": [
           "Yadavas and Vrishnis",
-          "Dasas and Dasyus",
           "Cheras and Pandyas",
+          "Dasas and Dasyus",
           "Kurus and Panchalas"
         ],
         "as": [
           "যাদৱ আৰু বৃষ্ণি",
-          "দাস আৰু দস্যু",
           "চেৰ আৰু পাণ্ড্য",
+          "দাস আৰু দস্যু",
           "কুৰু আৰু পাঞ্চাল"
         ]
       },
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The enemies of the Aryans were called Dasas and Dasyus in the Rig Veda.",
         "as": "ঋগ্বেদত আৰ্যসকলৰ শত্ৰুক দাস আৰু দস্যু বোলা হৈছিল।"
@@ -903,19 +903,19 @@
       },
       "options": {
         "en": [
-          "On wealth",
           "On occupation, not on birth",
+          "On wealth",
           "On birth only",
           "On religion"
         ],
         "as": [
-          "ধনৰ ওপৰত",
           "পেছাৰ ওপৰত, জন্মৰ ওপৰত নহয়",
+          "ধনৰ ওপৰত",
           "কেৱল জন্মৰ ওপৰত",
           "ধৰ্মৰ ওপৰত"
         ]
       },
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "In the early Vedic period the varna system was based on occupation, not birth.",
         "as": "প্ৰাৰম্ভিক বৈদিক যুগত বৰ্ণ ব্যৱস্থা পেছাৰ ওপৰত আধাৰিত আছিল, জন্মৰ ওপৰত নহয়।"
@@ -932,19 +932,19 @@
       },
       "options": {
         "en": [
-          "The king's court",
-          "A sacrificial ritual",
           "A clan larger than family but smaller than the tribe",
+          "A sacrificial ritual",
+          "The king's court",
           "A village council"
         ],
         "as": [
-          "ৰজাৰ দৰবাৰ",
-          "এটা যজ্ঞ",
           "পৰিয়ালতকৈ ডাঙৰ কিন্তু জনজাতিতকৈ সৰু গোষ্ঠী",
+          "এটা যজ্ঞ",
+          "ৰজাৰ দৰবাৰ",
           "গাঁও পৰিষদ"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Vis was a clan, larger than the family but smaller than the tribe (jana).",
         "as": "বিশ্ব এটা গোষ্ঠী আছিল, পৰিয়ালতকৈ ডাঙৰ কিন্তু জনজাতি (জন) তকৈ সৰু।"
@@ -962,18 +962,18 @@
       "options": {
         "en": [
           "Sama Veda",
-          "Rig Veda",
           "Ramayana",
+          "Rig Veda",
           "Mahabharata"
         ],
         "as": [
           "সামবেদ",
-          "ঋগ্বেদ",
           "ৰামায়ণ",
+          "ঋগ্বেদ",
           "মহাভাৰত"
         ]
       },
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Rig Veda is the oldest literary work of the Aryans.",
         "as": "ঋগ্বেদ আৰ্যসকলৰ আটাইতকৈ প্ৰাচীন সাহিত্যিক কৰ্ম।"
@@ -991,18 +991,18 @@
       "options": {
         "en": [
           "The Atharva Veda",
-          "The Rig Veda (10.75)",
+          "The Yajur Veda",
           "The Sama Veda",
-          "The Yajur Veda"
+          "The Rig Veda (10.75)"
         ],
         "as": [
           "অথৰ্ববেদ",
-          "ঋগ্বেদ (১০.৭৫)",
+          "যজুৰ্বেদ",
           "সামবেদ",
-          "যজুৰ্বেদ"
+          "ঋগ্বেদ (১০.৭৫)"
         ]
       },
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Nadistuti, a hymn of rivers, is found in the Rig Veda (10.75).",
         "as": "নদীস্তুতি, নদীৰ এটা স্তৱ, ঋগ্বেদত (১০.৭৫) পোৱা যায়।"
@@ -1019,19 +1019,19 @@
       },
       "options": {
         "en": [
-          "The Bengal delta",
           "The Ganga-Yamuna doab (Madhyadesha)",
+          "The Bengal delta",
           "The Sapta Sindhu region",
           "The Deccan plateau"
         ],
         "as": [
-          "বংগ বদ্বীপ",
           "গংগা-যমুনা দোআব (মধ্যদেশ)",
+          "বংগ বদ্বীপ",
           "সপ্ত সিন্ধু অঞ্চল",
           "দাক্ষিণাত্য মালভূমি"
         ]
       },
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "In the later Vedic period the Aryans moved to the Ganga-Yamuna doab, the Kuru-Panchala region.",
         "as": "উত্তৰ বৈদিক যুগত আৰ্যসকলে গংগা-যমুনা দোআব, কুৰু-পাঞ্চাল অঞ্চললৈ গতি কৰিছিল।"
@@ -1049,18 +1049,18 @@
       "options": {
         "en": [
           "Northern Black Polished Ware",
-          "Ochre Coloured Pottery",
           "Painted Grey Ware (PGW)",
+          "Ochre Coloured Pottery",
           "Red Polished Ware"
         ],
         "as": [
           "উত্তৰ ক’লা চিকচিকিয়া সামগ্ৰী",
-          "গেৰুৱা ৰঙৰ সামগ্ৰী",
           "পেইণ্টেড গ্ৰে ৱেৰ (PGW)",
+          "গেৰুৱা ৰঙৰ সামগ্ৰী",
           "ৰঙা চিকচিকিয়া সামগ্ৰী"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The later Vedic (Iron Age) period is associated with Painted Grey Ware pottery.",
         "as": "উত্তৰ বৈদিক (লৌহ যুগ) কাল পেইণ্টেড গ্ৰে ৱেৰ সামগ্ৰীৰ সৈতে জড়িত।"
@@ -1079,17 +1079,17 @@
         "en": [
           "Lohita Ayas",
           "Krishna Ayas",
-          "Shyama Ayas",
-          "Tamra"
+          "Tamra",
+          "Shyama Ayas"
         ],
         "as": [
           "লোহিত অয়স",
           "কৃষ্ণ অয়স",
-          "শ্যাম অয়স",
-          "তাম্ৰ"
+          "তাম্ৰ",
+          "শ্যাম অয়স"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Iron was called Shyama Ayas, while copper or bronze was called Lohita Ayas.",
         "as": "লোহাক শ্যাম অয়স বোলা হৈছিল, আনহাতে তাম বা ব্ৰঞ্জক লোহিত অয়স।"
@@ -1107,18 +1107,18 @@
       "options": {
         "en": [
           "Gold",
-          "Bronze",
           "Iron",
+          "Bronze",
           "Copper"
         ],
         "as": [
           "সোণ",
-          "ব্ৰঞ্জ",
           "লোহা",
+          "ব্ৰঞ্জ",
           "তাম"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Iron came into wide use in the later Vedic period.",
         "as": "উত্তৰ বৈদিক যুগত লোহা বহুলভাৱে ব্যৱহৃত হৈছিল।"
@@ -1166,17 +1166,17 @@
         "en": [
           "The Agnistoma",
           "The Vajapeya",
-          "The Rajasuya",
-          "The Ashvamedha"
+          "The Ashvamedha",
+          "The Rajasuya"
         ],
         "as": [
           "অগ্নিষ্টোম",
           "বাজপেয়",
-          "ৰাজসূয়",
-          "অশ্বমেধ"
+          "অশ্বমেধ",
+          "ৰাজসূয়"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Rajasuya was performed at the consecration of a king.",
         "as": "ৰাজসূয় ৰজাৰ অভিষেকত অনুষ্ঠিত হৈছিল।"
@@ -1193,19 +1193,19 @@
       },
       "options": {
         "en": [
-          "The Ashvamedha",
+          "The Vajapeya",
           "The Rajasuya",
           "The Putrakameshti",
-          "The Vajapeya"
+          "The Ashvamedha"
         ],
         "as": [
-          "অশ্বমেধ",
+          "বাজপেয়",
           "ৰাজসূয়",
           "পুত্ৰকামেষ্টি",
-          "বাজপেয়"
+          "অশ্বমেধ"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The Vajapeya involved a chariot race and was meant to boost the king's strength.",
         "as": "বাজপেয়ত ৰথ দৌৰ আছিল আৰু ই ৰজাৰ শক্তি বৃদ্ধিৰ বাবে অনুষ্ঠিত হৈছিল।"
@@ -1224,17 +1224,17 @@
         "en": [
           "Varuna",
           "Indra",
-          "Prajapati",
-          "Agni"
+          "Agni",
+          "Prajapati"
         ],
         "as": [
           "বৰুণ",
           "ইন্দ্ৰ",
-          "প্ৰজাপতি",
-          "অগ্নি"
+          "অগ্নি",
+          "প্ৰজাপতি"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "In the later Vedic period Prajapati was elevated to the position of the supreme deity, later identified with Brahma.",
         "as": "উত্তৰ বৈদিক যুগত প্ৰজাপতিক সৰ্বোচ্চ দেৱতাৰ স্থান দিয়া হৈছিল, যাক পিছত ব্ৰহ্মাৰ সৈতে চিনাক্ত কৰা হয়।"
@@ -1252,18 +1252,18 @@
       "options": {
         "en": [
           "Varuna",
-          "Rudra",
+          "Soma",
           "Vishnu",
-          "Soma"
+          "Rudra"
         ],
         "as": [
           "বৰুণ",
-          "ৰুদ্ৰ",
+          "সোম",
           "বিষ্ণু",
-          "সোম"
+          "ৰুদ্ৰ"
         ]
       },
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The later Vedic god Rudra was identified with Shiva.",
         "as": "উত্তৰ বৈদিক দেৱতা ৰুদ্ৰক শিৱৰ সৈতে চিনাক্ত কৰা হয়।"
@@ -1338,19 +1338,19 @@
       },
       "options": {
         "en": [
-          "The Chandogya Brahmana",
+          "The Aitareya Brahmana",
           "The Gopatha Brahmana",
           "The Satapatha Brahmana",
-          "The Aitareya Brahmana"
+          "The Chandogya Brahmana"
         ],
         "as": [
-          "ছান্দোগ্য ব্ৰাহ্মণ",
+          "ঐতৰেয় ব্ৰাহ্মণ",
           "গোপথ ব্ৰাহ্মণ",
           "শতপথ ব্ৰাহ্মণ",
-          "ঐতৰেয় ব্ৰাহ্মণ"
+          "ছান্দোগ্য ব্ৰাহ্মণ"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The Aitareya Brahmana is attached to the Rig Veda.",
         "as": "ঐতৰেয় ব্ৰাহ্মণ ঋগ্বেদৰ সৈতে সংযুক্ত।"
@@ -1367,19 +1367,19 @@
       },
       "options": {
         "en": [
-          "The Upanishads",
-          "The Brahmanas",
           "The Samhitas",
+          "The Brahmanas",
+          "The Upanishads",
           "The Aranyakas"
         ],
         "as": [
-          "উপনিষদ",
-          "ব্ৰাহ্মণ",
           "সংহিতা",
+          "ব্ৰাহ্মণ",
+          "উপনিষদ",
           "আৰণ্যক"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Upanishads are called Vedanta and deal with philosophy and ultimate reality.",
         "as": "উপনিষদক বেদান্ত বোলা হয় আৰু ই দৰ্শন আৰু পৰম সত্যৰ সৈতে জড়িত।"
@@ -1425,19 +1425,19 @@
       },
       "options": {
         "en": [
-          "King Janaka",
+          "King Pravahana",
           "King Ashvapati",
           "King Ajatashatru",
-          "King Pravahana"
+          "King Janaka"
         ],
         "as": [
-          "ৰজা জনক",
+          "ৰজা প্ৰবাহণ",
           "ৰজা অশ্বপতি",
           "ৰজা অজাতশত্ৰু",
-          "ৰজা প্ৰবাহণ"
+          "ৰজা জনক"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "King Janaka of Videha patronised the philosopher Yajnavalkya.",
         "as": "বিদেহৰ ৰজা জনকে দাৰ্শনিক যাজ্ঞবল্ক্যক পৃষ্ঠপোষকতা কৰিছিল।"
@@ -1454,19 +1454,19 @@
       },
       "options": {
         "en": [
-          "The Brihadaranyaka Upanishad",
-          "The Chandogya Upanishad",
           "The Isa Upanishad",
+          "The Chandogya Upanishad",
+          "The Brihadaranyaka Upanishad",
           "The Katha Upanishad"
         ],
         "as": [
-          "বৃহদাৰণ্যক উপনিষদ",
-          "ছান্দোগ্য উপনিষদ",
           "ঈশ উপনিষদ",
+          "ছান্দোগ্য উপনিষদ",
+          "বৃহদাৰণ্যক উপনিষদ",
           "কথ উপনিষদ"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Brihadaranyaka Upanishad is generally considered the oldest Upanishad.",
         "as": "বৃহদাৰণ্যক উপনিষদক সাধাৰণতে আটাইতকৈ প্ৰাচীন উপনিষদ বুলি গণ্য কৰা হয়।"

@@ -16,18 +16,18 @@
       "answer_en": "Sukapha",
       "answer_as": "চুকাফা",
       "options_en": [
-        "Sukapha",
         "Suteupha",
+        "Sukapha",
         "Suhungmung",
         "Suklenmung"
       ],
       "options_as": [
-        "চুকাফা",
         "চুতেউফা",
+        "চুকাফা",
         "চুহুংমুং",
         "চুখ্লেনমুং"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_en": "Sukapha was the founder of the Ahom kingdom.",
       "explanation_as": "চুকাফা আহোম ৰাজ্যৰ প্ৰতিষ্ঠাপক আছিল।"
     },
@@ -40,16 +40,16 @@
       "options_en": [
         "Garhgaon",
         "Rangpur",
-        "Sivasagar",
-        "Charaideo"
+        "Charaideo",
+        "Sivasagar"
       ],
       "options_as": [
         "গড়গাঁও",
         "ৰংপুৰ",
-        "শিৱসাগৰ",
-        "চৰাইদেউ"
+        "চৰাইদেউ",
+        "শিৱসাগৰ"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_en": "Charaideo was the first capital of the Ahom kingdom.",
       "explanation_as": "চৰাইদেউ আহোম ৰাজ্যৰ প্ৰথম ৰাজধানী আছিল।"
     },
@@ -61,17 +61,17 @@
       "answer_as": "১২২৮-১২৬৮",
       "options_en": [
         "1228-1278",
-        "1228-1268",
         "1208-1248",
+        "1228-1268",
         "1228-1293"
       ],
       "options_as": [
         "১২২৮-১২৭৮",
-        "১২২৮-১২৬৮",
         "১২০৮-১২৪৮",
+        "১২২৮-১২৬৮",
         "১২২৮-১২৯৩"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation_en": "The reign period of Sukapha was 1228-1268.",
       "explanation_as": "চুকাফাৰ ৰাজত্বকাল আছিল ১২২৮-১২৬৮।"
     },
@@ -126,18 +126,18 @@
       "answer_en": "Burhagohain, Borgohain, Borpatrogohain",
       "answer_as": "বুঢ়াগোহাঁই, বৰগোহাঁই, বৰপাত্ৰগোহাঁই",
       "options_en": [
-        "Burhagohain, Borgohain and Borpatrogohain",
-        "Burhagohain, Borgohain and Barbarua",
         "Borphukan, Borgohain and Borpatrogohain",
+        "Burhagohain, Borgohain and Barbarua",
+        "Burhagohain, Borgohain and Borpatrogohain",
         "Barbarua, Borphukan and Borpatrogohain"
       ],
       "options_as": [
-        "বুঢ়াগোহাঁই, বৰগোহাঁই আৰু বৰপাত্ৰগোহাঁই",
-        "বুঢ়াগোহাঁই, বৰগোহাঁই আৰু বৰবৰুৱা",
         "বৰফুকন, বৰগোহাঁই আৰু বৰপাত্ৰগোহাঁই",
+        "বুঢ়াগোহাঁই, বৰগোহাঁই আৰু বৰবৰুৱা",
+        "বুঢ়াগোহাঁই, বৰগোহাঁই আৰু বৰপাত্ৰগোহাঁই",
         "বৰবৰুৱা, বৰফুকন আৰু বৰপাত্ৰগোহাঁই"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_en": "Subinpha established the three great Gohain offices: Burhagohain, Borgohain and Borpatrogohain.",
       "explanation_as": "চুবিনফাই তিনিটা মহান গোহাঁই পদ স্থাপন কৰিছিল: বুঢ়াগোহাঁই, বৰগোহাঁই আৰু বৰপাত্ৰগোহাঁই।"
     },
@@ -148,18 +148,18 @@
       "answer_en": "Suhungmung",
       "answer_as": "চুহুংমুং",
       "options_en": [
-        "Suklenmung",
         "Suhungmung",
+        "Suklenmung",
         "Sukhampha",
         "Pratap Singha"
       ],
       "options_as": [
-        "চুখ্লেনমুং",
         "চুহুংমুং",
+        "চুখ্লেনমুং",
         "চুখামফা",
         "প্ৰতাপ সিংহ"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_en": "Suhungmung conquered the Chutiya kingdom in 1523.",
       "explanation_as": "চুহুংমুঙে ১৫২৩ চনত চুতীয়া ৰাজ্য জয় কৰিছিল।"
     },
@@ -171,17 +171,17 @@
       "answer_as": "১৫২৩",
       "options_en": [
         "1536",
-        "1523",
         "1497",
+        "1523",
         "1540"
       ],
       "options_as": [
         "১৫৩৬",
-        "১৫২৩",
         "১৪৯৭",
+        "১৫২৩",
         "১৫৪০"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation_en": "Suhungmung conquered the Chutiya kingdom in 1523.",
       "explanation_as": "চুহুংমুঙে ১৫২৩ চনত চুতীয়া ৰাজ্য জয় কৰিছিল।"
     },
@@ -193,17 +193,17 @@
       "answer_as": "চুহুংমুং",
       "options_en": [
         "Suklenmung",
-        "Sukhampha",
         "Suhungmung",
+        "Sukhampha",
         "Suramphaa"
       ],
       "options_as": [
         "চুখ্লেনমুং",
-        "চুখামফা",
         "চুহুংমুং",
+        "চুখামফা",
         "চুৰামফা"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation_en": "Suhungmung defeated the Kachari kingdom in 1536.",
       "explanation_as": "চুহুংমুঙে ১৫৩৬ চনত কছাৰী ৰাজ্য পৰাস্ত কৰিছিল।"
     },
@@ -215,17 +215,17 @@
       "answer_as": "১৫৩৬",
       "options_en": [
         "1523",
-        "1540",
         "1536",
+        "1540",
         "1562"
       ],
       "options_as": [
         "১৫২৩",
-        "১৫৪০",
         "১৫৩৬",
+        "১৫৪০",
         "১৫৬২"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation_en": "Suhungmung defeated the Kachari kingdom in 1536.",
       "explanation_as": "চুহুংমুঙে ১৫৩৬ চনত কছাৰী ৰাজ্য পৰাস্ত কৰিছিল।"
     },
@@ -236,18 +236,18 @@
       "answer_en": "Suhungmung",
       "answer_as": "চুহুংমুং",
       "options_en": [
-        "Suklenmung",
+        "Suhungmung",
         "Sukhampha",
         "Suramphaa",
-        "Suhungmung"
+        "Suklenmung"
       ],
       "options_as": [
-        "চুখ্লেনমুং",
+        "চুহুংমুং",
         "চুখামফা",
         "চুৰামফা",
-        "চুহুংমুং"
+        "চুখ্লেনমুং"
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation_en": "The title 'Dihingia Raja' was given to Suhungmung.",
       "explanation_as": "'দিহিঙীয়া ৰজা' উপাধি চুহুংমুঙক দিয়া হৈছিল।"
     },
@@ -258,18 +258,18 @@
       "answer_en": "Suklenmung",
       "answer_as": "চুক্লেনমুং",
       "options_en": [
-        "Suhungmung",
         "Suklenmung",
+        "Suhungmung",
         "Sukhampha",
         "Pratap Singha"
       ],
       "options_as": [
-        "চুহুংমুং",
         "চুখ্লেনমুং",
+        "চুহুংমুং",
         "চুখামফা",
         "প্ৰতাপ সিংহ"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_en": "Suklenmung built the new Ahom capital of Garhgaon in 1540.",
       "explanation_as": "চুখ্লেনমুঙে ১৫৪০ চনত নতুন আহোম ৰাজধানী গড়গাঁও নিৰ্মাণ কৰিছিল।"
     },
@@ -281,17 +281,17 @@
       "answer_as": "চুক্লেনমুং",
       "options_en": [
         "Sukhampha",
-        "Suhungmung",
         "Suklenmung",
+        "Suhungmung",
         "Suramphaa"
       ],
       "options_as": [
         "চুখামফা",
-        "চুহুংমুং",
         "চুখ্লেনমুং",
+        "চুহুংমুং",
         "চুৰামফা"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation_en": "The title 'Garhgaya Raja' was given to Suklenmung.",
       "explanation_as": "'গড়গঞা ৰজা' উপাধি চুখ্লেনমুঙক দিয়া হৈছিল।"
     },
@@ -324,18 +324,18 @@
       "answer_en": "Pratap Singha",
       "answer_as": "প্ৰতাপ সিংহ",
       "options_en": [
-        "Suramphaa",
         "Pratap Singha",
+        "Suramphaa",
         "Sukhampha",
         "Suklenmung"
       ],
       "options_as": [
-        "চুৰামফা",
         "প্ৰতাপ সিংহ",
+        "চুৰামফা",
         "চুখামফা",
         "চুখ্লেনমুং"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_en": "The title 'Burha Raja' was given to Pratap Singha.",
       "explanation_as": "'বুঢ়া ৰজা' উপাধি প্ৰতাপ সিংহক দিয়া হৈছিল।"
     },
@@ -346,18 +346,18 @@
       "answer_en": "The Ahoms under Pratap Singha",
       "answer_as": "প্ৰতাপ সিংহৰ অধীনত আহোমসকলে",
       "options_en": [
-        "The Ahoms under Pratap Singha",
         "The Ahoms under Suhungmung",
+        "The Ahoms under Pratap Singha",
         "The Koch under Chilarai",
         "The Kacharis under their king"
       ],
       "options_as": [
-        "প্ৰতাপ সিংহৰ অধীনত আহোমসকল",
         "চুহুংমুঙৰ অধীনত আহোমসকল",
+        "প্ৰতাপ সিংহৰ অধীনত আহোমসকল",
         "চিলাৰায়ৰ অধীনত কোচসকল",
         "তেওঁলোকৰ ৰজাৰ অধীনত কছাৰীসকল"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_en": "The Ahoms under Pratap Singha defeated the Mughals at the Battle of Samdhara in 1615.",
       "explanation_as": "প্ৰতাপ সিংহৰ অধীনত আহোমসকলে ১৬১৫ চনত সামধৰাৰ যুদ্ধত মোগলসকলক পৰাস্ত কৰিছিল।"
     },
@@ -391,17 +391,17 @@
       "answer_as": "চুৰামফা",
       "options_en": [
         "Sukhampha",
-        "Pratap Singha",
         "Suramphaa",
+        "Pratap Singha",
         "Jayadhwaj Singha"
       ],
       "options_as": [
         "চুখামফা",
-        "প্ৰতাপ সিংহ",
         "চুৰামফা",
+        "প্ৰতাপ সিংহ",
         "জয়ধ্বজ সিংহ"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation_en": "The title 'Bhaga Raja' was given to Suramphaa.",
       "explanation_as": "'ভগা ৰজা' উপাধি চুৰামফাক দিয়া হৈছিল।"
     },
@@ -414,16 +414,16 @@
       "options_en": [
         "Chakradhwaj Singha",
         "Udayaditya Singha",
-        "Gadadhar Singha",
-        "Jayadhwaj Singha"
+        "Jayadhwaj Singha",
+        "Gadadhar Singha"
       ],
       "options_as": [
         "চক্ৰধ্বজ সিংহ",
         "উদয়াদিত্য সিংহ",
-        "গদাধৰ সিংহ",
-        "জয়ধ্বজ সিংহ"
+        "জয়ধ্বজ সিংহ",
+        "গদাধৰ সিংহ"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_en": "Mir Jumla invaded Assam in 1662 during the reign of Jayadhwaj Singha.",
       "explanation_as": "১৬৬২ চনত জয়ধ্বজ সিংহৰ ৰাজত্বকালত মিৰ জুমলাই অসম আক্ৰমণ কৰিছিল।"
     },
@@ -434,18 +434,18 @@
       "answer_en": "1663",
       "answer_as": "১৬৬৩",
       "options_en": [
-        "1662",
         "1663",
+        "1662",
         "1667",
         "1671"
       ],
       "options_as": [
-        "১৬৬২",
         "১৬৬৩",
+        "১৬৬২",
         "১৬৬৭",
         "১৬৭১"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_en": "The Treaty of Ghilajharighat was signed in 1663.",
       "explanation_as": "ঘিলাঝাৰিঘাটৰ সন্ধি ১৬৬৩ চনত স্বাক্ষৰিত হৈছিল।"
     },
@@ -479,17 +479,17 @@
       "answer_as": "১৬৭১",
       "options_en": [
         "1667",
-        "1682",
+        "1671",
         "1663",
-        "1671"
+        "1682"
       ],
       "options_as": [
         "১৬৬৭",
-        "১৬৮২",
+        "১৬৭১",
         "১৬৬৩",
-        "১৬৭১"
+        "১৬৮২"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_en": "The Battle of Saraighat was fought in 1671.",
       "explanation_as": "শৰাইঘাটৰ যুদ্ধ ১৬৭১ চনত হৈছিল।"
     },
@@ -524,16 +524,16 @@
       "options_en": [
         "Rudra Singha",
         "Chakradhwaj Singha",
-        "Gadadhar Singha",
-        "Udayaditya Singha"
+        "Udayaditya Singha",
+        "Gadadhar Singha"
       ],
       "options_as": [
         "ৰুদ্ৰ সিংহ",
         "চক্ৰধ্বজ সিংহ",
-        "গদাধৰ সিংহ",
-        "উদয়াদিত্য সিংহ"
+        "উদয়াদিত্য সিংহ",
+        "গদাধৰ সিংহ"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation_en": "Gadadhar Singha expelled the Mughals from Lower Assam forever at the Battle of Itakhuli.",
       "explanation_as": "গদাধৰ সিংহই ইটাখুলিৰ যুদ্ধত মোগলসকলক নিম্ন অসমৰ পৰা চিৰদিনৰ বাবে খেদি পঠিয়াইছিল।"
     },
@@ -546,16 +546,16 @@
       "options_en": [
         "1671",
         "1667",
-        "1681",
-        "1682"
+        "1682",
+        "1681"
       ],
       "options_as": [
         "১৬৭১",
         "১৬৬৭",
-        "১৬৮১",
-        "১৬৮২"
+        "১৬৮২",
+        "১৬৮১"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_en": "The Battle of Itakhuli was fought in 1682.",
       "explanation_as": "ইটাখুলিৰ যুদ্ধ ১৬৮২ চনত হৈছিল।"
     },
@@ -654,18 +654,18 @@
       "answer_en": "1281-1293",
       "answer_as": "১২৮১-১২৯৩",
       "options_en": [
-        "1281-1293",
+        "1293-1305",
         "1268-1281",
         "1281-1301",
-        "1293-1305"
+        "1281-1293"
       ],
       "options_as": [
-        "১২৮১-১২৯৩",
+        "১২৯৩-১৩০৫",
         "১২৬৮-১২৮১",
         "১২৮১-১৩০১",
-        "১২৯৩-১৩০৫"
+        "১২৮১-১২৯৩"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation_en": "The reign period of Subinpha was 1281-1293.",
       "explanation_as": "চুবিনফাৰ ৰাজত্বকাল আছিল ১২৮১-১২৯৩।"
     },
@@ -677,17 +677,17 @@
       "answer_as": "১৪৯৭-১৫৩৯",
       "options_en": [
         "1497-1523",
-        "1497-1539",
+        "1539-1552",
         "1483-1523",
-        "1539-1552"
+        "1497-1539"
       ],
       "options_as": [
         "১৪৯৭-১৫২৩",
-        "১৪৯৭-১৫৩৯",
+        "১৫৩৯-১৫৫২",
         "১৪৮৩-১৫২৩",
-        "১৫৩৯-১৫৫২"
+        "১৪৯৭-১৫৩৯"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_en": "The reign period of Suhungmung was 1497-1539.",
       "explanation_as": "চুহুংমুঙৰ ৰাজত্বকাল আছিল ১৪৯৭-১৫৩৯।"
     },
@@ -698,18 +698,18 @@
       "answer_en": "Nitipal",
       "answer_as": "নিতিপাল",
       "options_en": [
-        "Chilarai",
+        "Nitipal",
         "the Kachari king",
         "the Koch king",
-        "Nitipal"
+        "Chilarai"
       ],
       "options_as": [
-        "চিলাৰায়",
+        "নিতিপাল",
         "কছাৰী ৰজা",
         "কোচ ৰজা",
-        "নিতিপাল"
+        "চিলাৰায়"
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation_en": "Nitipal was the Chutiya king killed when Suhungmung conquered the Chutiya kingdom in 1523.",
       "explanation_as": "১৫২৩ চনত চুহুংমুঙে চুতীয়া ৰাজ্য জয় কৰাৰ সময়ত নিহত চুতীয়া ৰজা আছিল নিতিপাল।"
     },
@@ -764,18 +764,18 @@
       "answer_en": "1540",
       "answer_as": "১৫৪০",
       "options_en": [
-        "1523",
-        "1539",
         "1540",
+        "1539",
+        "1523",
         "1552"
       ],
       "options_as": [
-        "১৫২৩",
-        "১৫৩৯",
         "১৫৪০",
+        "১৫৩৯",
+        "১৫২৩",
         "১৫৫২"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_en": "The new Ahom capital Garhgaon was built in 1540.",
       "explanation_as": "নতুন আহোম ৰাজধানী গড়গাঁও ১৫৪০ চনত নিৰ্মাণ কৰা হৈছিল।"
     },
@@ -788,16 +788,16 @@
       "options_en": [
         "1523",
         "1536",
-        "1562",
-        "1603"
+        "1603",
+        "1562"
       ],
       "options_as": [
         "১৫২৩",
         "১৫৩৬",
-        "১৫৬২",
-        "১৬০৩"
+        "১৬০৩",
+        "১৫৬২"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation_en": "The Koch army under Chilarai invaded the Ahom kingdom in 1562.",
       "explanation_as": "চিলাৰায়ৰ অধীনত কোচ সেনাই ১৫৬২ চনত আহোম ৰাজ্য আক্ৰমণ কৰিছিল।"
     },
@@ -830,18 +830,18 @@
       "answer_en": "1552-1603",
       "answer_as": "১৫৫২-১৬০৩",
       "options_en": [
-        "1540-1552",
-        "1562-1603",
         "1552-1603",
+        "1562-1603",
+        "1540-1552",
         "1603-1641"
       ],
       "options_as": [
-        "১৫৪০-১৫৫২",
-        "১৫৬২-১৬০৩",
         "১৫৫২-১৬০৩",
+        "১৫৬২-১৬০৩",
+        "১৫৪০-১৫৫২",
         "১৬০৩-১৬৪১"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_en": "The reign period of Sukhampha (Khora Raja) was 1552-1603.",
       "explanation_as": "চুখামফা (খোৰা ৰজা) ৰ ৰাজত্বকাল আছিল ১৫৫২-১৬০৩।"
     },
@@ -896,18 +896,18 @@
       "answer_en": "Because he was crowned at an old age",
       "answer_as": "কাৰণ বৃদ্ধ বয়সত তেওঁৰ ৰাজ্যাভিষেক হৈছিল",
       "options_en": [
-        "Because he was crowned at an old age",
-        "Because he was the eldest prince",
         "Because he defeated the Mughals",
+        "Because he was the eldest prince",
+        "Because he was crowned at an old age",
         "Because he built Garhgaon"
       ],
       "options_as": [
-        "কাৰণ তেওঁ বৃদ্ধ বয়সত ৰাজপাটত বহিছিল",
-        "কাৰণ তেওঁ জ্যেষ্ঠ ৰাজপুত্ৰ আছিল",
         "কাৰণ তেওঁ মোগলসকলক পৰাস্ত কৰিছিল",
+        "কাৰণ তেওঁ জ্যেষ্ঠ ৰাজপুত্ৰ আছিল",
+        "কাৰণ তেওঁ বৃদ্ধ বয়সত ৰাজপাটত বহিছিল",
         "কাৰণ তেওঁ গড়গাঁও নিৰ্মাণ কৰিছিল"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation_en": "Pratap Singha was called 'Burha Raja' because he was crowned at an old age.",
       "explanation_as": "প্ৰতাপ সিংহক 'বুঢ়া ৰজা' বোলা হৈছিল কাৰণ তেওঁ বৃদ্ধ বয়সত ৰাজপাটত বহিছিল।"
     },
@@ -941,17 +941,17 @@
       "answer_as": "১৬৪৮-১৬৬৩",
       "options_en": [
         "1641-1644",
-        "1648-1663",
+        "1644-1648",
         "1663-1670",
-        "1644-1648"
+        "1648-1663"
       ],
       "options_as": [
         "১৬৪১-১৬৪৪",
-        "১৬৪৮-১৬৬৩",
+        "১৬৪৪-১৬৪৮",
         "১৬৬৩-১৬৭০",
-        "১৬৪৪-১৬৪৮"
+        "১৬৪৮-১৬৬৩"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_en": "The reign period of Jayadhwaj Singha was 1648-1663.",
       "explanation_as": "জয়ধ্বজ সিংহৰ ৰাজত্বকাল আছিল ১৬৪৮-১৬৬৩।"
     },
@@ -962,18 +962,18 @@
       "answer_en": "The Mughals",
       "answer_as": "মোগলসকল",
       "options_en": [
-        "The Koch",
         "The Mughals",
+        "The Koch",
         "The Burmese",
         "The British"
       ],
       "options_as": [
-        "কোচসকল",
         "মোগলসকল",
+        "কোচসকল",
         "বাৰ্মিজসকল",
         "ব্ৰিটিছ"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation_en": "The Treaty of Ghilajharighat (1663) was signed between the Ahoms and the Mughals.",
       "explanation_as": "ঘিলাঝাৰিঘাটৰ সন্ধি (১৬৬৩) আহোম আৰু মোগলসকলৰ মাজত স্বাক্ষৰিত হৈছিল।"
     },
@@ -984,18 +984,18 @@
       "answer_en": "Jayadhwaj Singha",
       "answer_as": "জয়ধ্বজ সিংহ",
       "options_en": [
-        "Chakradhwaj Singha",
-        "Udayaditya Singha",
         "Jayadhwaj Singha",
+        "Udayaditya Singha",
+        "Chakradhwaj Singha",
         "Gadadhar Singha"
       ],
       "options_as": [
-        "চক্ৰধ্বজ সিংহ",
-        "উদয়াদিত্য সিংহ",
         "জয়ধ্বজ সিংহ",
+        "উদয়াদিত্য সিংহ",
+        "চক্ৰধ্বজ সিংহ",
         "গদাধৰ সিংহ"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation_en": "Jayadhwaj Singha fled Garhgaon when Mir Jumla invaded in 1662.",
       "explanation_as": "১৬৬২ চনত মিৰ জুমলাই আক্ৰমণ কৰাৰ সময়ত জয়ধ্বজ সিংহই গড়গাঁও এৰি পলাইছিল।"
     },
@@ -1007,17 +1007,17 @@
       "answer_as": "১৬৬৩-১৬৭০",
       "options_en": [
         "1667-1671",
-        "1670-1672",
+        "1663-1670",
         "1648-1663",
-        "1663-1670"
+        "1670-1672"
       ],
       "options_as": [
         "১৬৬৭-১৬৭১",
-        "১৬৭০-১৬৭২",
+        "১৬৬৩-১৬৭০",
         "১৬৪৮-১৬৬৩",
-        "১৬৬৩-১৬৭০"
+        "১৬৭০-১৬৭২"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation_en": "The reign period of Chakradhwaj Singha (Supangmung) was 1663-1670.",
       "explanation_as": "চক্ৰধ্বজ সিংহ (চুপাংমুং) ৰ ৰাজত্বকাল আছিল ১৬৬৩-১৬৭০।"
     },
@@ -1073,17 +1073,17 @@
       "answer_as": "উদয়াদিত্য সিংহ",
       "options_en": [
         "Chakradhwaj Singha",
-        "Gadadhar Singha",
         "Udayaditya Singha",
+        "Gadadhar Singha",
         "Jayadhwaj Singha"
       ],
       "options_as": [
         "চক্ৰধ্বজ সিংহ",
-        "গদাধৰ সিংহ",
         "উদয়াদিত্য সিংহ",
+        "গদাধৰ সিংহ",
         "জয়ধ্বজ সিংহ"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation_en": "The Battle of Saraighat (1671) was fought during the reign of Udayaditya Singha.",
       "explanation_as": "শৰাইঘাটৰ যুদ্ধ (১৬৭১) উদয়াদিত্য সিংহৰ ৰাজত্বকালত হৈছিল।"
     },
@@ -1096,16 +1096,16 @@
       "options_en": [
         "1682-1696",
         "1696-1714",
-        "1670-1681",
-        "1681-1696"
+        "1681-1696",
+        "1670-1681"
       ],
       "options_as": [
         "১৬৮২-১৬৯৬",
         "১৬৯৬-১৭১৪",
-        "১৬৭০-১৬৮১",
-        "১৬৮১-১৬৯৬"
+        "১৬৮১-১৬৯৬",
+        "১৬৭০-১৬৮১"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_en": "The reign period of Gadadhar Singha (Supatphaa) was 1681-1696.",
       "explanation_as": "গদাধৰ সিংহ (চুপৎফা) ৰ ৰাজত্বকাল আছিল ১৬৮১-১৬৯৬।"
     },
@@ -1117,17 +1117,17 @@
       "answer_as": "১৬৯৬-১৭১৪",
       "options_en": [
         "1714-1744",
-        "1696-1714",
+        "1696-1716",
         "1681-1696",
-        "1696-1716"
+        "1696-1714"
       ],
       "options_as": [
         "১৭১৪-১৭৪৪",
-        "১৬৯৬-১৭১৪",
+        "১৬৯৬-১৭১৬",
         "১৬৮১-১৬৯৬",
-        "১৬৯৬-১৭১৬"
+        "১৬৯৬-১৭১৪"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_en": "The reign period of Rudra Singha (Sukhrungpha) was 1696-1714.",
       "explanation_as": "ৰুদ্ৰ সিংহ (চুখ্ৰুংফা) ৰ ৰাজত্বকাল আছিল ১৬৯৬-১৭১৪।"
     },
@@ -1138,18 +1138,18 @@
       "answer_en": "At Guwahati",
       "answer_as": "গুৱাহাটীত",
       "options_en": [
-        "At Guwahati",
+        "At Charaideo",
         "At Rangpur",
         "At Garhgaon",
-        "At Charaideo"
+        "At Guwahati"
       ],
       "options_as": [
-        "গুৱাহাটীত",
+        "চৰাইদেউত",
         "ৰংপুৰত",
         "গড়গাঁৱত",
-        "চৰাইদেউত"
+        "গুৱাহাটীত"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation_en": "Rudra Singha died at Guwahati in 1714 while marching to invade Bengal.",
       "explanation_as": "ৰুদ্ৰ সিংহ ১৭১৪ চনত বংগ আক্ৰমণৰ বাবে যাত্ৰা কৰি থাকোঁতে গুৱাহাটীত মৃত্যুবৰণ কৰিছিল।"
     },
@@ -1160,18 +1160,18 @@
       "answer_en": "1714-1744",
       "answer_as": "১৭১৪-১৭৪৪",
       "options_en": [
-        "1714-1744",
         "1696-1714",
+        "1714-1744",
         "1744-1769",
         "1714-1754"
       ],
       "options_as": [
-        "১৭১৪-১৭৪৪",
         "১৬৯৬-১৭১৪",
+        "১৭১৪-১৭৪৪",
         "১৭৪৪-১৭৬৯",
         "১৭১৪-১৭৫৪"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_en": "The reign period of Siva Singha (Sutanpha) was 1714-1744.",
       "explanation_as": "শিৱ সিংহ (চুতনফা) ৰ ৰাজত্বকাল আছিল ১৭১৪-১৭৪৪।"
     },
@@ -1226,18 +1226,18 @@
       "answer_en": "The Burmese",
       "answer_as": "বাৰ্মীজসকল",
       "options_en": [
-        "The Burmese",
+        "The Koch",
         "The British",
         "The Mughals",
-        "The Koch"
+        "The Burmese"
       ],
       "options_as": [
-        "বাৰ্মিজসকল",
+        "কোচসকল",
         "ব্ৰিটিছ",
         "মোগলসকল",
-        "কোচসকল"
+        "বাৰ্মিজসকল"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation_en": "The Burmese installed Jogeswar Singha as a puppet king from 1821 to 1824.",
       "explanation_as": "বাৰ্মিজসকলে ১৮২১ ৰ পৰা ১৮২৪ লৈ জগেশ্বৰ সিংহক পুতলাৰজা হিচাপে বহুৱাইছিল।"
     },
@@ -1315,17 +1315,17 @@
       "answer_as": "শিৱ সিংহৰ মুখ্য ৰাণী ফুলেশ্বৰীয়ে",
       "options_en": [
         "Mula Gabharu, wife of the Ahom general",
-        "Sati Joymoti, wife of Gadadhar Singha",
         "Phuleswari, chief queen of Siva Singha",
+        "Sati Joymoti, wife of Gadadhar Singha",
         "Rani Lakshmibai of Jhansi"
       ],
       "options_as": [
         "মূলা গাভৰু, আহোম সেনাপতিৰ পত্নী",
-        "সতী জয়মতী, গদাধৰ সিংহৰ পত্নী",
         "ফুলেশ্বৰী, শিৱ সিংহৰ প্ৰধান ৰাণী",
+        "সতী জয়মতী, গদাধৰ সিংহৰ পত্নী",
         "ঝান্সীৰ ৰাণী লক্ষ্মীবাই"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation_en": "Phuleswari, chief queen of Siva Singha, assumed the title 'Bar Raja'.",
       "explanation_as": "শিৱ সিংহৰ প্ৰধান ৰাণী ফুলেশ্বৰীয়ে 'বৰ ৰজা' উপাধি গ্ৰহণ কৰিছিল।"
     },
@@ -1336,18 +1336,18 @@
       "answer_en": "1811-1818 and 1819-1821",
       "answer_as": "১৮১১-১৮১৮ আৰু ১৮১৯-১৮২১",
       "options_en": [
-        "1811-1818 and 1819-1821",
+        "1780-1795 and 1795-1811",
         "1811-1819 and 1821-1824",
         "1818-1819 and 1833-1838",
-        "1780-1795 and 1795-1811"
+        "1811-1818 and 1819-1821"
       ],
       "options_as": [
-        "১৮১১-১৮১৮ আৰু ১৮১৯-১৮২১",
+        "১৭৮০-১৭৯৫ আৰু ১৭৯৫-১৮১১",
         "১৮১১-১৮১৯ আৰু ১৮২১-১৮২৪",
         "১৮১৮-১৮১৯ আৰু ১৮৩৩-১৮৩৮",
-        "১৭৮০-১৭৯৫ আৰু ১৭৯৫-১৮১১"
+        "১৮১১-১৮১৮ আৰু ১৮১৯-১৮২১"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation_en": "Chandrakanta Singha (Sudingpha), the last independent Ahom king, held power in 1811-1818 and again in 1819-1821.",
       "explanation_as": "চন্দ্ৰকান্ত সিংহ (চুদিংফা), শেষ স্বাধীন আহোম ৰজা, ১৮১১-১৮১৮ আৰু পুনৰ ১৮১৯-১৮২১ চনত ক্ষমতাত আছিল।"
     },
@@ -1359,17 +1359,17 @@
       "answer_as": "পুৰন্দৰ সিংহ",
       "options_en": [
         "Chandrakanta Singha",
-        "Purandar Singha",
         "Jogeswar Singha",
+        "Purandar Singha",
         "Gaurinath Singha"
       ],
       "options_as": [
         "চন্দ্ৰকান্ত সিংহ",
-        "পুৰন্দৰ সিংহ",
         "জগেশ্বৰ সিংহ",
+        "পুৰন্দৰ সিংহ",
         "গৌৰীনাথ সিংহ"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation_en": "Purandar Singha was the last Ahom king of the dynasty, reigning briefly in 1818-19 and again under the British in 1833-1838.",
       "explanation_as": "পুৰন্দৰ সিংহ বংশৰ শেষ আহোম ৰজা আছিল, যি ১৮১৮-১৯ চনত কিছু সময়ৰ বাবে আৰু পুনৰ ব্ৰিটিছৰ অধীনত ১৮৩৩-১৮৩৮ চনত ৰাজত্ব কৰিছিল।"
     },
@@ -1381,17 +1381,17 @@
       "answer_as": "মানস",
       "options_en": [
         "Subansiri",
-        "Manas",
+        "Brahmaputra",
         "Dhansiri",
-        "Brahmaputra"
+        "Manas"
       ],
       "options_as": [
         "সোৱণশিৰি",
-        "মনাহ",
+        "ব্ৰহ্মপুত্ৰ",
         "ধানশিৰি",
-        "ব্ৰহ্মপুত্ৰ"
+        "মনাহ"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation_en": "After the Battle of Itakhuli (1682), the Ahom-Mughal boundary was fixed at the Manas river.",
       "explanation_as": "ইটাখুলিৰ যুদ্ধ (১৬৮২) ৰ পিছত আহোম-মোগল সীমা মনাহ নদীত নিৰ্ধাৰিত হৈছিল।"
     },
@@ -1424,18 +1424,18 @@
       "answer_en": "1662",
       "answer_as": "১৬৬২",
       "options_en": [
-        "1662",
         "1663",
+        "1662",
         "1667",
         "1671"
       ],
       "options_as": [
-        "১৬৬২",
         "১৬৬৩",
+        "১৬৬২",
         "১৬৬৭",
         "১৬৭১"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation_en": "Mir Jumla invaded the Ahom kingdom in 1662.",
       "explanation_as": "মিৰ জুমলাই ১৬৬২ চনত আহোম ৰাজ্য আক্ৰমণ কৰিছিল।"
     },
@@ -1447,17 +1447,17 @@
       "answer_as": "ৰুদ্ৰ সিংহ",
       "options_en": [
         "Pratap Singha",
-        "Rudra Singha",
         "Suhungmung",
+        "Rudra Singha",
         "Gadadhar Singha"
       ],
       "options_as": [
         "প্ৰতাপ সিংহ",
-        "ৰুদ্ৰ সিংহ",
         "চুহুংমুং",
+        "ৰুদ্ৰ সিংহ",
         "গদাধৰ সিংহ"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation_en": "By the time of Rudra Singha, the Ahoms had come to control almost the whole Brahmaputra valley.",
       "explanation_as": "ৰুদ্ৰ সিংহৰ সময়লৈ আহোমসকলে প্ৰায় গোটেই ব্ৰহ্মপুত্ৰ উপত্যকা নিয়ন্ত্ৰণলৈ আনিছিল।"
     },
@@ -1470,16 +1470,16 @@
       "options_en": [
         "1769",
         "1780",
-        "1795",
-        "1786"
+        "1786",
+        "1795"
       ],
       "options_as": [
         "১৭৬৯",
         "১৭৮০",
-        "১৭৯৫",
-        "১৭৮৬"
+        "১৭৮৬",
+        "১৭৯৫"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation_en": "Gaurinath Singha fled the capital to Guwahati in 1786 due to the Moamorias.",
       "explanation_as": "মোৱামৰীয়াসকলৰ বাবে গৌৰীনাথ সিংহ ১৭৮৬ চনত ৰাজধানী এৰি গুৱাহাটীলৈ পলাই গৈছিল।"
     },
@@ -1491,17 +1491,17 @@
       "answer_as": "ৰুদ্ৰ সিংহ",
       "options_en": [
         "Pratap Singha",
-        "Suhungmung",
         "Rudra Singha",
+        "Suhungmung",
         "Siva Singha"
       ],
       "options_as": [
         "প্ৰতাপ সিংহ",
-        "চুহুংমুং",
         "ৰুদ্ৰ সিংহ",
+        "চুহুংমুং",
         "শিৱ সিংহ"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation_en": "The peak of Ahom power was reached during the reign of Rudra Singha.",
       "explanation_as": "আহোম শক্তিৰ শিখৰ ৰুদ্ৰ সিংহৰ ৰাজত্বকালত প্ৰাপ্ত হৈছিল।"
     },

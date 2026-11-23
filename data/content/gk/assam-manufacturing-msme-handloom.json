@@ -66,12 +66,12 @@
       },
       "options": [
         {
-          "en": "1962",
-          "as": "১৯৬২"
-        },
-        {
           "en": "1957",
           "as": "১৯৫৭"
+        },
+        {
+          "en": "1962",
+          "as": "১৯৬২"
         },
         {
           "en": "1970",
@@ -82,7 +82,7 @@
           "as": "১৯৭২"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "AIDC was created in 1962 to accelerate industrial growth in Assam.",
         "as": "অসমত ঔদ্যোগিক বৃদ্ধি ত্বৰান্বিত কৰিবলৈ ১৯৬২ চনত AIDC প্ৰতিষ্ঠা কৰা হৈছিল।"
@@ -99,23 +99,23 @@
       },
       "options": [
         {
-          "en": "Providing term loans, equity participation and financial assistance to medium and large industries",
-          "as": "মজলীয়া আৰু বৃহৎ উদ্যোগক দীৰ্ঘম্যাদী ঋণ, অংশীদাৰিত্ব আৰু বিত্তীয় সহায় প্ৰদান"
+          "en": "Marketing agricultural produce only",
+          "as": "কেৱল কৃষি সামগ্ৰী বিপণন"
         },
         {
           "en": "Weaving handloom cloth only",
           "as": "কেৱল হস্ততাঁত বস্ত্ৰ বোৱা"
         },
         {
-          "en": "Marketing agricultural produce only",
-          "as": "কেৱল কৃষি সামগ্ৰী বিপণন"
+          "en": "Providing term loans, equity participation and financial assistance to medium and large industries",
+          "as": "মজলীয়া আৰু বৃহৎ উদ্যোগক দীৰ্ঘম্যাদী ঋণ, অংশীদাৰিত্ব আৰু বিত্তীয় সহায় প্ৰদান"
         },
         {
           "en": "Collecting state taxes",
           "as": "ৰাজ্যিক কৰ সংগ্ৰহ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "AIDC provides long-term finance and equity support to medium and large industrial projects.",
         "as": "AIDC এ মজলীয়া আৰু বৃহৎ উদ্যোগ প্ৰকল্পক দীৰ্ঘম্যাদী বিত্ত আৰু অংশীদাৰিত্ব সহায় দিয়ে।"
@@ -132,8 +132,8 @@
       },
       "options": [
         {
-          "en": "Prime Minister's Employment Generation Programme (PMEGP)",
-          "as": "প্ৰধানমন্ত্ৰীৰ নিয়োজন সৃষ্টি কাৰ্যসূচী (PMEGP)"
+          "en": "Swami Vivekananda Assam Youth Empowerment Scheme (SVAYEM)",
+          "as": "স্বামী বিবেকানন্দ অসম যুৱ সৱলীকৰণ আঁচনি (SVAYEM)"
         },
         {
           "en": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
@@ -144,11 +144,11 @@
           "as": "প্ৰধানমন্ত্ৰী গ্ৰাম সড়ক যোজনা (PMGSY)"
         },
         {
-          "en": "Swami Vivekananda Assam Youth Empowerment Scheme (SVAYEM)",
-          "as": "স্বামী বিবেকানন্দ অসম যুৱ সৱলীকৰণ আঁচনি (SVAYEM)"
+          "en": "Prime Minister's Employment Generation Programme (PMEGP)",
+          "as": "প্ৰধানমন্ত্ৰীৰ নিয়োজন সৃষ্টি কাৰ্যসূচী (PMEGP)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "PMEGP supports micro and small enterprises with bank credit and government subsidy.",
         "as": "PMEGP এ ক্ষুদ্ৰ আৰু অণু উদ্যোগক বেংক ঋণ আৰু চৰকাৰী ৰাজসাহায্যৰ জৰিয়তে সহায় কৰে।"
@@ -165,8 +165,8 @@
       },
       "options": [
         {
-          "en": "Sualkuchi in Kamrup district",
-          "as": "কামৰূপ জিলাৰ সুৱালকুছি"
+          "en": "Barpeta",
+          "as": "বৰপেটা"
         },
         {
           "en": "Sivasagar",
@@ -177,11 +177,11 @@
           "as": "নলবাৰী"
         },
         {
-          "en": "Barpeta",
-          "as": "বৰপেটা"
+          "en": "Sualkuchi in Kamrup district",
+          "as": "কামৰূপ জিলাৰ সুৱালকুছি"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Sualkuchi in Kamrup, famed for silk weaving, is called the Manchester of Assam.",
         "as": "ৰেশম বোৱাৰ বাবে প্ৰসিদ্ধ কামৰূপৰ সুৱালকুছিক অসমৰ মাঞ্চেষ্টাৰ বোলা হয়।"
@@ -198,23 +198,23 @@
       },
       "options": [
         {
-          "en": "Muga silk",
-          "as": "মুগা ৰেশম"
+          "en": "Pat (mulberry) silk",
+          "as": "পাট (মালবেৰী) ৰেশম"
         },
         {
           "en": "Eri silk",
           "as": "এৰী ৰেশম"
         },
         {
-          "en": "Pat (mulberry) silk",
-          "as": "পাট (মালবেৰী) ৰেশম"
+          "en": "Muga silk",
+          "as": "মুগা ৰেশম"
         },
         {
           "en": "Tussar silk",
           "as": "তচৰ ৰেশম"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Golden Muga silk is produced only in Assam and is the world's rarest natural silk.",
         "as": "সোণালী মুগা ৰেশম কেৱল অসমত উৎপাদিত হয় আৰু ই পৃথিৱীৰ আটাইতকৈ বিৰল প্ৰাকৃতিক ৰেশম।"
@@ -297,23 +297,23 @@
       },
       "options": [
         {
-          "en": "Pat (mulberry) silk",
-          "as": "পাট (মালবেৰী) ৰেশম"
+          "en": "Eri silk",
+          "as": "এৰী ৰেশম"
         },
         {
           "en": "Muga silk",
           "as": "মুগা ৰেশম"
         },
         {
-          "en": "Eri silk",
-          "as": "এৰী ৰেশম"
+          "en": "Pat (mulberry) silk",
+          "as": "পাট (মালবেৰী) ৰেশম"
         },
         {
           "en": "Tussar silk",
           "as": "তচৰ ৰেশম"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Pat is Assam's mulberry silk, mainly produced in Kamrup and nearby areas.",
         "as": "পাট হৈছে অসমৰ মালবেৰী ৰেশম, যি মূলতঃ কামৰূপ আৰু ওচৰৰ অঞ্চলত উৎপাদিত হয়।"
@@ -330,12 +330,12 @@
       },
       "options": [
         {
-          "en": "The Directorate of Sericulture and the Directorate of Handloom and Textiles",
-          "as": "ৰেশম প্ৰতিপালন নিৰ্দেশালয় আৰু হস্ততাঁত আৰু বস্ত্ৰ নিৰ্দেশালয়"
-        },
-        {
           "en": "AIDC",
           "as": "AIDC"
+        },
+        {
+          "en": "The Directorate of Sericulture and the Directorate of Handloom and Textiles",
+          "as": "ৰেশম প্ৰতিপালন নিৰ্দেশালয় আৰু হস্ততাঁত আৰু বস্ত্ৰ নিৰ্দেশালয়"
         },
         {
           "en": "ASIDC",
@@ -346,7 +346,7 @@
           "as": "KVIC"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "These two directorates run sericulture and handloom development programmes in Assam.",
         "as": "এই দুখন নিৰ্দেশালয়ে অসমত ৰেশম প্ৰতিপালন আৰু হস্ততাঁত উন্নয়ন কাৰ্যসূচী পৰিচালনা কৰে।"
@@ -363,8 +363,8 @@
       },
       "options": [
         {
-          "en": "Central Silk Board (CSB)",
-          "as": "কেন্দ্ৰীয় ৰেশম নিগম (CSB)"
+          "en": "SIDBI",
+          "as": "SIDBI"
         },
         {
           "en": "NABARD",
@@ -375,11 +375,11 @@
           "as": "KVIC"
         },
         {
-          "en": "SIDBI",
-          "as": "SIDBI"
+          "en": "Central Silk Board (CSB)",
+          "as": "কেন্দ্ৰীয় ৰেশম নিগম (CSB)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Central Silk Board is the national apex body for silk and sericulture development.",
         "as": "কেন্দ্ৰীয় ৰেশম নিগম ভাৰতত ৰেশম আৰু ৰেশম প্ৰতিপালন উন্নয়নৰ ৰাষ্ট্ৰীয় শীৰ্ষ প্ৰতিষ্ঠান।"
@@ -396,23 +396,23 @@
       },
       "options": [
         {
-          "en": "The Gamosa",
-          "as": "গামোচা"
+          "en": "The Japi",
+          "as": "জাপি"
         },
         {
           "en": "The Mekhela Chador",
           "as": "মেখেলা চাদৰ"
         },
         {
-          "en": "The Japi",
-          "as": "জাপি"
+          "en": "The Gamosa",
+          "as": "গামোচা"
         },
         {
           "en": "The Xorai",
           "as": "শৰাই"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The red-bordered white Gamosa is a cultural symbol used to offer respect.",
         "as": "ৰঙা পাৰিৰ বগা গামোচা সন্মান আগবঢ়াবলৈ ব্যৱহৃত এক সাংস্কৃতিক প্ৰতীক।"
@@ -429,23 +429,23 @@
       },
       "options": [
         {
-          "en": "Mulberry (pat) or muga silk",
-          "as": "মালবেৰী (পাট) বা মুগা ৰেশম"
+          "en": "Wool",
+          "as": "ঊণ"
         },
         {
           "en": "Cotton only",
           "as": "কেৱল কপাহ"
         },
         {
-          "en": "Wool",
-          "as": "ঊণ"
+          "en": "Mulberry (pat) or muga silk",
+          "as": "মালবেৰী (পাট) বা মুগা ৰেশম"
         },
         {
           "en": "Jute",
           "as": "পাট"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Mekhela Chador is woven from Pat or Muga silk, though cotton versions also exist.",
         "as": "মেখেলা চাদৰ পাট বা মুগা ৰেশমেৰে বোৱা হয়, যদিও কপাহী সংস্কৰণো আছে।"
@@ -462,12 +462,12 @@
       },
       "options": [
         {
-          "en": "National Handloom Development Programme and the Yarn Supply Scheme",
-          "as": "ৰাষ্ট্ৰীয় হস্ততাঁত উন্নয়ন কাৰ্যসূচী আৰু সূতা যোগান আঁচনি"
-        },
-        {
           "en": "Pradhan Mantri Gram Sadak Yojana",
           "as": "প্ৰধানমন্ত্ৰী গ্ৰাম সড়ক যোজনা"
+        },
+        {
+          "en": "National Handloom Development Programme and the Yarn Supply Scheme",
+          "as": "ৰাষ্ট্ৰীয় হস্ততাঁত উন্নয়ন কাৰ্যসূচী আৰু সূতা যোগান আঁচনি"
         },
         {
           "en": "MGNREGA",
@@ -478,7 +478,7 @@
           "as": "প্ৰধানমন্ত্ৰী আবাস যোজনা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The National Handloom Development Programme and Yarn Supply Scheme provide weavers with credit and subsidised yarn.",
         "as": "ৰাষ্ট্ৰীয় হস্ততাঁত উন্নয়ন কাৰ্যসূচী আৰু সূতা যোগান আঁচনিয়ে তাঁতীক ঋণ আৰু ৰাজসাহায্যপ্ৰাপ্ত সূতা যোগায়।"
@@ -495,8 +495,8 @@
       },
       "options": [
         {
-          "en": "Over 12 lakh",
-          "as": "১২ লাখৰো অধিক"
+          "en": "About 25 lakh",
+          "as": "প্ৰায় ২৫ লাখ"
         },
         {
           "en": "About 2 lakh",
@@ -507,11 +507,11 @@
           "as": "প্ৰায় ৫ লাখ"
         },
         {
-          "en": "About 25 lakh",
-          "as": "প্ৰায় ২৫ লাখ"
+          "en": "Over 12 lakh",
+          "as": "১২ লাখৰো অধিক"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Assam has more than 12 lakh handloom weavers, among the highest in India.",
         "as": "অসমত ১২ লাখৰো অধিক হস্ততাঁত তাঁতী আছে, যি ভাৰতৰ ভিতৰত সৰ্বাধিকসমূহৰ এটা।"
@@ -528,23 +528,23 @@
       },
       "options": [
         {
-          "en": "Amingaon Industrial Estate",
-          "as": "আমিনগাঁও ঔদ্যোগিক অঞ্চল"
+          "en": "Namrup Industrial Estate",
+          "as": "নামৰূপ ঔদ্যোগিক অঞ্চল"
         },
         {
           "en": "Bokajan Industrial Estate",
           "as": "বোকাজান ঔদ্যোগিক অঞ্চল"
         },
         {
-          "en": "Namrup Industrial Estate",
-          "as": "নামৰূপ ঔদ্যোগিক অঞ্চল"
+          "en": "Amingaon Industrial Estate",
+          "as": "আমিনগাঁও ঔদ্যোগিক অঞ্চল"
         },
         {
           "en": "Dergaon Industrial Estate",
           "as": "দেৰগাঁও ঔদ্যোগিক অঞ্চল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Amingaon Industrial Estate near Guwahati is one of the state's key industrial areas.",
         "as": "গুৱাহাটীৰ ওচৰৰ আমিনগাঁও ঔদ্যোগিক অঞ্চল ৰাজ্যৰ অন্যতম মূল ঔদ্যোগিক এলেকা।"
@@ -561,23 +561,23 @@
       },
       "options": [
         {
-          "en": "Assam Small Industries Development Corporation (ASIDC)",
-          "as": "অসম ক্ষুদ্ৰ উদ্যোগ উন্নয়ন নিগম (ASIDC)"
+          "en": "NEDFi",
+          "as": "NEDFi"
         },
         {
           "en": "AIDC",
           "as": "AIDC"
         },
         {
-          "en": "NEDFi",
-          "as": "NEDFi"
+          "en": "Assam Small Industries Development Corporation (ASIDC)",
+          "as": "অসম ক্ষুদ্ৰ উদ্যোগ উন্নয়ন নিগম (ASIDC)"
         },
         {
           "en": "SIDBI",
           "as": "SIDBI"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Assam Small Industries Development Corporation develops industrial estates and areas.",
         "as": "অসম ক্ষুদ্ৰ উদ্যোগ উন্নয়ন নিগমে ঔদ্যোগিক অঞ্চল আৰু এলেকা বিকশিত কৰে।"
@@ -660,8 +660,8 @@
       },
       "options": [
         {
-          "en": "KVIC and the state KVIB",
-          "as": "KVIC আৰু ৰাজ্যিক KVIB"
+          "en": "AIDC and ASIDC",
+          "as": "AIDC আৰু ASIDC"
         },
         {
           "en": "NABARD and SIDBI",
@@ -672,11 +672,11 @@
           "as": "RBI আৰু SEBI"
         },
         {
-          "en": "AIDC and ASIDC",
-          "as": "AIDC আৰু ASIDC"
+          "en": "KVIC and the state KVIB",
+          "as": "KVIC আৰু ৰাজ্যিক KVIB"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "KVIC at the national level and the state KVIB implement PMEGP.",
         "as": "ৰাষ্ট্ৰীয় পৰ্যায়ত KVIC আৰু ৰাজ্যিক KVIB এ PMEGP ৰূপায়ণ কৰে।"
@@ -693,12 +693,12 @@
       },
       "options": [
         {
-          "en": "Numaligarh Refinery Limited (NRL)",
-          "as": "নুমলীগড় ৰিফাইনেৰী লিমিটেড (NRL)"
-        },
-        {
           "en": "Bongaigaon Refinery",
           "as": "বঙাইগাঁও ৰিফাইনেৰী"
+        },
+        {
+          "en": "Numaligarh Refinery Limited (NRL)",
+          "as": "নুমলীগড় ৰিফাইনেৰী লিমিটেড (NRL)"
         },
         {
           "en": "Digboi Refinery",
@@ -709,7 +709,7 @@
           "as": "গুৱাহাটী ৰিফাইনেৰী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "NRL was set up as a subsidiary of Oil India Limited at Numaligarh.",
         "as": "নুমলীগড়ত অইল ইণ্ডিয়া লিমিটেডৰ উপ-প্ৰতিষ্ঠান হিচাপে NRL প্ৰতিষ্ঠা কৰা হৈছিল।"
@@ -792,12 +792,12 @@
       },
       "options": [
         {
-          "en": "The Barak valley, around Silchar and Karimganj",
-          "as": "বৰাক উপত্যকা, শিলচৰ আৰু কৰিমগঞ্জৰ আশে-পাশে"
-        },
-        {
           "en": "The Brahmaputra valley around Tezpur",
           "as": "তেজপুৰৰ আশে-পাশে ব্ৰহ্মপুত্ৰ উপত্যকা"
+        },
+        {
+          "en": "The Barak valley, around Silchar and Karimganj",
+          "as": "বৰাক উপত্যকা, শিলচৰ আৰু কৰিমগঞ্জৰ আশে-পাশে"
         },
         {
           "en": "Goalpara",
@@ -808,7 +808,7 @@
           "as": "যোৰহাট"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Jute mills are concentrated in the Barak valley, especially Silchar and Karimganj.",
         "as": "পাটৰ কলসমূহ বৰাক উপত্যকাত, বিশেষকৈ শিলচৰ আৰু কৰিমগঞ্জত কেন্দ্ৰীভূত।"
@@ -825,8 +825,8 @@
       },
       "options": [
         {
-          "en": "Assam Industrial Policy 2019",
-          "as": "অসম ঔদ্যোগিক নীতি ২০১৯"
+          "en": "Make in India 2014",
+          "as": "মেক ইন ইণ্ডিয়া ২০১৪"
         },
         {
           "en": "Assam Industrial Policy 2008",
@@ -837,11 +837,11 @@
           "as": "উত্তৰ-পূব ঔদ্যোগিক নীতি ১৯৯৭"
         },
         {
-          "en": "Make in India 2014",
-          "as": "মেক ইন ইণ্ডিয়া ২০১৪"
+          "en": "Assam Industrial Policy 2019",
+          "as": "অসম ঔদ্যোগিক নীতি ২০১৯"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Assam Industrial Policy 2019 was introduced to attract investment and industry.",
         "as": "বিনিয়োগ আৰু উদ্যোগ আকৰ্ষণ কৰিবলৈ অসম ঔদ্যোগিক নীতি ২০১৯ আৰম্ভ কৰা হৈছিল।"
@@ -858,12 +858,12 @@
       },
       "options": [
         {
-          "en": "Assam Industrial Policy 2019",
-          "as": "অসম ঔদ্যোগিক নীতি ২০১৯"
-        },
-        {
           "en": "PMEGP",
           "as": "PMEGP"
+        },
+        {
+          "en": "Assam Industrial Policy 2019",
+          "as": "অসম ঔদ্যোগিক নীতি ২০১৯"
         },
         {
           "en": "NHDP",
@@ -874,7 +874,7 @@
           "as": "MGNREGA"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Assam Industrial Policy 2019 gives capital, interest and power subsidies to new industrial units.",
         "as": "অসম ঔদ্যোগিক নীতি ২০১৯ এ নতুন ঔদ্যোগিক ইউনিটক মূলধন, সুদ আৰু বিদ্যুৎ ৰাজসাহায্য দিয়ে।"
@@ -891,8 +891,8 @@
       },
       "options": [
         {
-          "en": "The tea industry",
-          "as": "চাহ উদ্যোগ"
+          "en": "The rubber industry",
+          "as": "ৰবৰ উদ্যোগ"
         },
         {
           "en": "The sugar industry",
@@ -903,11 +903,11 @@
           "as": "পাট উদ্যোগ"
         },
         {
-          "en": "The rubber industry",
-          "as": "ৰবৰ উদ্যোগ"
+          "en": "The tea industry",
+          "as": "চাহ উদ্যোগ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Tea is Assam's largest agro-based industry and a major foreign-exchange earner.",
         "as": "চাহ অসমৰ আটাইতকৈ ডাঙৰ কৃষিভিত্তিক উদ্যোগ আৰু বিদেশী মুদ্ৰা উপাৰ্জনৰ প্ৰধান উৎস।"
@@ -924,12 +924,12 @@
       },
       "options": [
         {
-          "en": "It markets agricultural and co-operative products for farmers",
-          "as": "ই কৃষকৰ বাবে কৃষি আৰু সমবায় সামগ্ৰী বিপণন কৰে"
-        },
-        {
           "en": "It regulates commercial banks",
           "as": "ই বাণিজ্যিক বেংক নিয়ন্ত্ৰণ কৰে"
+        },
+        {
+          "en": "It markets agricultural and co-operative products for farmers",
+          "as": "ই কৃষকৰ বাবে কৃষি আৰু সমবায় সামগ্ৰী বিপণন কৰে"
         },
         {
           "en": "It builds national highways",
@@ -940,7 +940,7 @@
           "as": "ই চিমেণ্ট উৎপাদন কৰে"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Assam State Co-operative Marketing Society helps farmers market their produce through cooperatives.",
         "as": "অসম ৰাজ্যিক সমবায় বিপণন সমিতিয়ে সমবায়ৰ জৰিয়তে কৃষকসকলক তেওঁলোকৰ উৎপাদন বিপণনত সহায় কৰে।"
@@ -990,23 +990,23 @@
       },
       "options": [
         {
-          "en": "SIDBI and state financial corporations",
-          "as": "SIDBI আৰু ৰাজ্যিক বিত্ত নিগম"
+          "en": "RBI",
+          "as": "RBI"
         },
         {
           "en": "SEBI",
           "as": "SEBI"
         },
         {
-          "en": "RBI",
-          "as": "RBI"
+          "en": "SIDBI and state financial corporations",
+          "as": "SIDBI আৰু ৰাজ্যিক বিত্ত নিগম"
         },
         {
           "en": "IRDAI",
           "as": "IRDAI"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "SIDBI and state finance corporations supply credit and support to MSMEs.",
         "as": "SIDBI আৰু ৰাজ্যিক বিত্ত নিগমে MSME সমূহক ঋণ আৰু সহায় যোগায়।"
@@ -1056,8 +1056,8 @@
       },
       "options": [
         {
-          "en": "The proposed Assam Silk Textile Park",
-          "as": "প্ৰস্তাবিত অসম ৰেশম বস্ত্ৰ উদ্যান"
+          "en": "Namrup Textile Park",
+          "as": "নামৰূপ বস্ত্ৰ উদ্যান"
         },
         {
           "en": "Amingaon Textile Park",
@@ -1068,11 +1068,11 @@
           "as": "সুৱালকুছি ঔদ্যোগিক উদ্যান"
         },
         {
-          "en": "Namrup Textile Park",
-          "as": "নামৰূপ বস্ত্ৰ উদ্যান"
+          "en": "The proposed Assam Silk Textile Park",
+          "as": "প্ৰস্তাবিত অসম ৰেশম বস্ত্ৰ উদ্যান"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The proposed Assam Silk Textile Park is intended to develop the muga and eri silk value chain.",
         "as": "প্ৰস্তাবিত অসম ৰেশম বস্ত্ৰ উদ্যানৰ উদ্দেশ্য মুগা আৰু এৰী ৰেশমৰ মূল্য-শৃংখল বিকাশ কৰা।"
@@ -1089,12 +1089,12 @@
       },
       "options": [
         {
-          "en": "Assam Skill Development Mission (ASDM)",
-          "as": "অসম দক্ষতা উন্নয়ন মিছন (ASDM)"
-        },
-        {
           "en": "AIDC",
           "as": "AIDC"
+        },
+        {
+          "en": "Assam Skill Development Mission (ASDM)",
+          "as": "অসম দক্ষতা উন্নয়ন মিছন (ASDM)"
         },
         {
           "en": "ASIDC",
@@ -1105,7 +1105,7 @@
           "as": "KVIC"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Assam Skill Development Mission provides industry-aligned skill training.",
         "as": "অসম দক্ষতা উন্নয়ন মিছনে উদ্যোগ-সামঞ্জস্যপূৰ্ণ দক্ষতা প্ৰশিক্ষণ প্ৰদান কৰে।"
@@ -1122,23 +1122,23 @@
       },
       "options": [
         {
-          "en": "It protects the unique identity and quality of Assam's muga, eri and pat silk",
-          "as": "ই অসমৰ মুগা, এৰী আৰু পাট ৰেশমৰ নিজস্ব পৰিচয় আৰু গুণাগুণ সুৰক্ষা কৰে"
+          "en": "It bans silk exports",
+          "as": "ই ৰেশম ৰপ্তানি নিষিদ্ধ কৰে"
         },
         {
           "en": "It fixes a maximum price for silk",
           "as": "ই ৰেশমৰ সৰ্বোচ্চ মূল্য নিৰ্ধাৰণ কৰে"
         },
         {
-          "en": "It bans silk exports",
-          "as": "ই ৰেশম ৰপ্তানি নিষিদ্ধ কৰে"
+          "en": "It protects the unique identity and quality of Assam's muga, eri and pat silk",
+          "as": "ই অসমৰ মুগা, এৰী আৰু পাট ৰেশমৰ নিজস্ব পৰিচয় আৰু গুণাগুণ সুৰক্ষা কৰে"
         },
         {
           "en": "It gives income-tax exemption to weavers",
           "as": "ই তাঁতীক আয়কৰ ৰেহাই দিয়ে"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The GI tag legally protects the distinct origin and quality of Assam's muga, eri and pat silk.",
         "as": "GI টেগে আইনগতভাৱে অসমৰ মুগা, এৰী আৰু পাট ৰেশমৰ স্বকীয় উৎস আৰু গুণাগুণ সুৰক্ষা কৰে।"
@@ -1155,12 +1155,12 @@
       },
       "options": [
         {
-          "en": "Assam Silk Mills at Gohpur",
-          "as": "গহপুৰৰ অসম চিল্ক মিলছ"
-        },
-        {
           "en": "Sualkuchi Silk Mill",
           "as": "সুৱালকুছি চিল্ক মিল"
+        },
+        {
+          "en": "Assam Silk Mills at Gohpur",
+          "as": "গহপুৰৰ অসম চিল্ক মিলছ"
         },
         {
           "en": "Nagaon Textile Mill",
@@ -1171,7 +1171,7 @@
           "as": "ডিব্ৰুগড় কটন মিল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Assam Silk Mills at Gohpur is counted among the oldest textile units of the state.",
         "as": "গহপুৰৰ অসম চিল্ক মিলছ ৰাজ্যৰ আটাইতকৈ পুৰণি বস্ত্ৰ ইউনিটসমূহৰ এটা হিচাপে গণ্য কৰা হয়।"

@@ -21,19 +21,19 @@
           "as": "বড়ো জাতি"
         },
         {
-          "en": "Singpho community",
-          "as": "সিংফু জাতি"
-        },
-        {
           "en": "Mishing community",
           "as": "মিচিং জাতি"
+        },
+        {
+          "en": "Singpho community",
+          "as": "সিংফু জাতি"
         },
         {
           "en": "Karbi community",
           "as": "কাৰ্বি জাতি"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Singpho community of Upper Assam already knew about and used the tea plant before the British arrived.",
         "as": "ব্ৰিটিছসকল অহাৰ আগতেই উজনি অসমৰ সিংফু জাতিয়ে চাহ গছৰ বিষয়ে জানিছিল আৰু ব্যৱহাৰ কৰিছিল।"
@@ -47,12 +47,12 @@
       "answer_as": "ৰবাৰ্ট ব্ৰুচ।",
       "options": [
         {
-          "en": "Robert Bruce",
-          "as": "ৰবাৰ্ট ব্ৰুচ"
-        },
-        {
           "en": "Charles Alexander Bruce",
           "as": "চাৰ্লছ আলেকজেণ্ডাৰ ব্ৰুচ"
+        },
+        {
+          "en": "Robert Bruce",
+          "as": "ৰবাৰ্ট ব্ৰুচ"
         },
         {
           "en": "Maniram Dewan",
@@ -63,7 +63,7 @@
           "as": "ডেভিড স্কট"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Robert Bruce is credited with discovering the tea plant in Assam around 1823.",
         "as": "প্ৰায় ১৮২৩ চনত অসমত চাহ গছ আৱিষ্কাৰৰ কৃতিত্ব ৰবাৰ্ট ব্ৰুচক দিয়া হয়।"
@@ -137,8 +137,8 @@
       "answer_as": "ডিব্ৰুগড় অঞ্চলৰ চাবুৱাত।",
       "options": [
         {
-          "en": "At Chabua, in the Dibrugarh area",
-          "as": "ডিব্ৰুগড় অঞ্চলৰ চাবুৱাত"
+          "en": "At Margherita",
+          "as": "মাৰ্ঘেৰিটাত"
         },
         {
           "en": "At Jorhat",
@@ -149,11 +149,11 @@
           "as": "ডিগবৈত"
         },
         {
-          "en": "At Margherita",
-          "as": "মাৰ্ঘেৰিটাত"
+          "en": "At Chabua, in the Dibrugarh area",
+          "as": "ডিব্ৰুগড় অঞ্চলৰ চাবুৱাত"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The first tea garden of Assam was established at Chabua in the Dibrugarh area.",
         "as": "অসমৰ প্ৰথম চাহ বাগিচা ডিব্ৰুগড় অঞ্চলৰ চাবুৱাত স্থাপিত হৈছিল।"
@@ -175,15 +175,15 @@
           "as": "১৮৩৯ চনত"
         },
         {
-          "en": "In 1840",
-          "as": "১৮৪০ চনত"
-        },
-        {
           "en": "In 1838",
           "as": "১৮৩৮ চনত"
+        },
+        {
+          "en": "In 1840",
+          "as": "১৮৪০ চনত"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The first consignment of Assam tea was sent to England in 1838.",
         "as": "অসমৰ প্ৰথম চাহ খেলাপ ১৮৩৮ চনত ইংলণ্ডলৈ পঠিওৱা হৈছিল।"
@@ -197,12 +197,12 @@
       "answer_as": "১৮৩৯ চনত।",
       "options": [
         {
-          "en": "In 1836",
-          "as": "১৮৩৬ চনত"
-        },
-        {
           "en": "In 1839",
           "as": "১৮৩৯ চনত"
+        },
+        {
+          "en": "In 1836",
+          "as": "১৮৩৬ চনত"
         },
         {
           "en": "In 1838",
@@ -213,7 +213,7 @@
           "as": "১৮৪১ চনত"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Assam Tea Company was formed in 1839.",
         "as": "অসম টি কোম্পানী ১৮৩৯ চনত গঠন হৈছিল।"
@@ -227,23 +227,23 @@
       "answer_as": "লণ্ডনত।",
       "options": [
         {
-          "en": "In Calcutta",
-          "as": "কলিকতাত"
+          "en": "In London",
+          "as": "লণ্ডনত"
         },
         {
           "en": "In New York",
           "as": "নিউ ইয়ৰ্কত"
         },
         {
-          "en": "In London",
-          "as": "লণ্ডনত"
+          "en": "In Calcutta",
+          "as": "কলিকতাত"
         },
         {
           "en": "In Paris",
           "as": "পেৰিছত"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Assam Tea Company was formed in London.",
         "as": "অসম টি কোম্পানী লণ্ডনত গঠন হৈছিল।"
@@ -257,8 +257,8 @@
       "answer_as": "মাণিৰাম দেৱান।",
       "options": [
         {
-          "en": "Maniram Dewan",
-          "as": "মাণিৰাম দেৱান"
+          "en": "Gunabhiram Barua",
+          "as": "গুণাভিৰাম বৰুৱা"
         },
         {
           "en": "Anandaram Dhekial Phukan",
@@ -269,11 +269,11 @@
           "as": "হেমচন্দ্ৰ বৰুৱা"
         },
         {
-          "en": "Gunabhiram Barua",
-          "as": "গুণাভিৰাম বৰুৱা"
+          "en": "Maniram Dewan",
+          "as": "মাণিৰাম দেৱান"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Maniram Dewan was among the first Assamese to establish tea gardens on his own.",
         "as": "মাণিৰাম দেৱান নিজৰ চেষ্টাত চাহ বাগিচা স্থাপন কৰা প্ৰথমজন অসমীয়াৰ ভিতৰত আছিল।"
@@ -295,15 +295,15 @@
           "as": "১৮৫৯ চনত"
         },
         {
-          "en": "In 1856",
-          "as": "১৮৫৬ চনত"
-        },
-        {
           "en": "In 1858",
           "as": "১৮৫৮ চনত"
+        },
+        {
+          "en": "In 1856",
+          "as": "১৮৫৬ চনত"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Maniram Dewan was executed by the British in 1858.",
         "as": "মাণিৰাম দেৱানক ১৮৫৮ চনত ব্ৰিটিছসকলে ফাঁচী দিছিল।"
@@ -321,19 +321,19 @@
           "as": "সেইবোৰ ব্ৰিটিছ খেতিয়কৰ হাতত বিক্ৰী কৰা হৈছিল"
         },
         {
-          "en": "They were returned to his family",
-          "as": "সেইবোৰ তেওঁৰ পৰিয়ালক ঘূৰাই দিয়া হৈছিল"
-        },
-        {
           "en": "They were confiscated by the Company",
           "as": "কোম্পানীয়ে সেইবোৰ বাজেয়াপ্ত কৰিছিল"
+        },
+        {
+          "en": "They were returned to his family",
+          "as": "সেইবোৰ তেওঁৰ পৰিয়ালক ঘূৰাই দিয়া হৈছিল"
         },
         {
           "en": "They were converted into coal mines",
           "as": "সেইবোৰ ক'লা খনিলৈ ৰূপান্তৰিত কৰা হৈছিল"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "After Maniram Dewan's execution, his tea estates were confiscated by the Company.",
         "as": "মাণিৰাম দেৱানক ফাঁচী দিয়াৰ পিছত কোম্পানীয়ে তেওঁৰ চাহ বাগিচাবোৰ বাজেয়াপ্ত কৰিছিল।"
@@ -351,19 +351,19 @@
           "as": "পঞ্জাব, হাৰিয়ানা আৰু গুজৰাটৰ পৰা"
         },
         {
-          "en": "From Tamil Nadu, Kerala and Karnataka",
-          "as": "তামিলনাডু, কেৰালা আৰু কৰ্ণাটকৰ পৰা"
-        },
-        {
           "en": "From Bihar, Jharkhand, Odisha and other regions",
           "as": "বিহাৰ, ঝাৰখণ্ড, ওড়িশা আদি অঞ্চলৰ পৰা"
+        },
+        {
+          "en": "From Tamil Nadu, Kerala and Karnataka",
+          "as": "তামিলনাডু, কেৰালা আৰু কৰ্ণাটকৰ পৰা"
         },
         {
           "en": "From Bengal, Sikkim and Nepal",
           "as": "বংগ, ছিকিম আৰু নেপালৰ পৰা"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Labourers were brought to the tea gardens from Bihar, Jharkhand, Odisha and other regions.",
         "as": "চাহ বাগিচাত কাম কৰিবলৈ বিহাৰ, ঝাৰখণ্ড, ওড়িশা আদি অঞ্চলৰ পৰা শ্ৰমিক অনা হৈছিল।"
@@ -377,8 +377,8 @@
       "answer_as": "চুক্তিবদ্ধ শ্ৰমিক।",
       "options": [
         {
-          "en": "Indentured labourers",
-          "as": "চুক্তিবদ্ধ শ্ৰমিক"
+          "en": "Free settlers",
+          "as": "স্বাধীন বসতিস্থাপক"
         },
         {
           "en": "Bonded slaves",
@@ -389,11 +389,11 @@
           "as": "দৈনিক মজুৰি শ্ৰমিক"
         },
         {
-          "en": "Free settlers",
-          "as": "স্বাধীন বসতিস্থাপক"
+          "en": "Indentured labourers",
+          "as": "চুক্তিবদ্ধ শ্ৰমিক"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Workers who came to the tea gardens under contract were called indentured labourers.",
         "as": "চুক্তি মতে চাহ বাগিচাত কাম কৰিবলৈ অহা শ্ৰমিকসকলক চুক্তিবদ্ধ শ্ৰমিক বুলি কোৱা হয়।"
@@ -415,15 +415,15 @@
           "as": "মাৰ্ঘেৰিটাত"
         },
         {
-          "en": "At Naharkatiya",
-          "as": "নাহৰকটিয়াত"
-        },
-        {
           "en": "At Digboi",
           "as": "ডিগবৈত"
+        },
+        {
+          "en": "At Naharkatiya",
+          "as": "নাহৰকটিয়াত"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Petroleum was first discovered in India at Digboi in Assam.",
         "as": "ভাৰতত পেট্ৰলিয়াম প্ৰথম অসমৰ ডিগবৈত আৱিষ্কৃত হৈছিল।"
@@ -441,19 +441,19 @@
           "as": "১৮৬১ চনত"
         },
         {
-          "en": "In 1882",
-          "as": "১৮৮২ চনত"
-        },
-        {
           "en": "In 1867",
           "as": "১৮৬৭ চনত"
+        },
+        {
+          "en": "In 1882",
+          "as": "১৮৮২ চনত"
         },
         {
           "en": "In 1901",
           "as": "১৯০১ চনত"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Oil was first struck at Digboi in 1867.",
         "as": "ডিগবৈত প্ৰথম তেল ১৮৬৭ চনত আৱিষ্কৃত হৈছিল।"
@@ -467,8 +467,8 @@
       "answer_as": "তিনিচুকীয়া জিলাত।",
       "options": [
         {
-          "en": "In Dibrugarh district",
-          "as": "ডিব্ৰুগড় জিলাত"
+          "en": "In Tinsukia district",
+          "as": "তিনিচুকীয়া জিলাত"
         },
         {
           "en": "In Jorhat district",
@@ -479,11 +479,11 @@
           "as": "শিৱসাগৰ জিলাত"
         },
         {
-          "en": "In Tinsukia district",
-          "as": "তিনিচুকীয়া জিলাত"
+          "en": "In Dibrugarh district",
+          "as": "ডিব্ৰুগড় জিলাত"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Digboi is located in Tinsukia district of Assam.",
         "as": "ডিগবৈ অসমৰ তিনিচুকীয়া জিলাত অৱস্থিত।"
@@ -501,19 +501,19 @@
           "as": "১৮৮২ চনত"
         },
         {
-          "en": "In 1901",
-          "as": "১৯০১ চনত"
+          "en": "In 1911",
+          "as": "১৯১১ চনত"
         },
         {
           "en": "In 1867",
           "as": "১৮৬৭ চনত"
         },
         {
-          "en": "In 1911",
-          "as": "১৯১১ চনত"
+          "en": "In 1901",
+          "as": "১৯০১ চনত"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Digboi refinery was established in 1901.",
         "as": "ডিগবৈ শোধনাগাৰ ১৯০১ চনত স্থাপিত হৈছিল।"
@@ -527,12 +527,12 @@
       "answer_as": "ভাৰত আৰু এছিয়া দুয়োখনতে ই প্ৰথম তেল শোধনাগাৰ আছিল।",
       "options": [
         {
-          "en": "It was the largest oil refinery in India",
-          "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ তেল শোধনাগাৰ আছিল"
-        },
-        {
           "en": "It was the first oil refinery in India as well as in Asia",
           "as": "ভাৰত আৰু এছিয়া দুয়োখনতে ই প্ৰথম তেল শোধনাগাৰ আছিল"
+        },
+        {
+          "en": "It was the largest oil refinery in India",
+          "as": "ভাৰতৰ আটাইতকৈ ডাঙৰ তেল শোধনাগাৰ আছিল"
         },
         {
           "en": "It was the first oil refinery in the world",
@@ -543,7 +543,7 @@
           "as": "এছিয়াৰ দ্বিতীয় তেল শোধনাগাৰ আছিল"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Digboi refinery was the first oil refinery in India as well as in Asia.",
         "as": "ডিগবৈ শোধনাগাৰ ভাৰত আৰু এছিয়া দুয়োখনতে প্ৰথম তেল শোধনাগাৰ আছিল।"
@@ -557,23 +557,23 @@
       "answer_as": "অসমৰ 'অইল চিটি' (তেল চহৰ) বুলি।",
       "options": [
         {
-          "en": "The 'Oil City' of Assam",
-          "as": "অসমৰ 'অইল চিটি' (তেল চহৰ)"
+          "en": "The 'Coal City' of Assam",
+          "as": "অসমৰ 'ক'ল চিটি' (ক'লা চহৰ)"
         },
         {
           "en": "The 'Tea City' of Assam",
           "as": "অসমৰ 'টি চিটি' (চাহ চহৰ)"
         },
         {
-          "en": "The 'Coal City' of Assam",
-          "as": "অসমৰ 'ক'ল চিটি' (ক'লা চহৰ)"
+          "en": "The 'Oil City' of Assam",
+          "as": "অসমৰ 'অইল চিটি' (তেল চহৰ)"
         },
         {
           "en": "The 'Golden City' of Assam",
           "as": "অসমৰ 'গোল্ডেন চিটি' (সোণালী চহৰ)"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Digboi is popularly known as the 'Oil City' of Assam.",
         "as": "ডিগবৈক জনপ্ৰিয়ভাৱে অসমৰ 'অইল চিটি' (তেল চহৰ) বুলি জনা যায়।"
@@ -655,15 +655,15 @@
           "as": "চাবুৱা ক'লা খনি"
         },
         {
-          "en": "The Nazira coalfield",
-          "as": "নাজিৰা ক'লা খনি"
-        },
-        {
           "en": "The Margherita coalfield",
           "as": "মাৰ্ঘেৰিটা ক'লা খনি"
+        },
+        {
+          "en": "The Nazira coalfield",
+          "as": "নাজিৰা ক'লা খনি"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Margherita coalfield is the famous coalfield of Assam.",
         "as": "মাৰ্ঘেৰিটা ক'লা খনি অসমৰ বিখ্যাত ক'লা খনি।"
@@ -711,19 +711,19 @@
           "as": "হয়, ১৮৬৭ চনত মাকুমত আৱিষ্কৃত হৈছিল"
         },
         {
-          "en": "No, it was discovered at Margherita in 1882",
-          "as": "নহয়, ১৮৮২ চনত মাৰ্ঘেৰিটাত আৱিষ্কৃত হৈছিল"
-        },
-        {
           "en": "No, it was discovered at Digboi in 1867",
           "as": "নহয়, ১৮৬৭ চনত ডিগবৈত আৱিষ্কৃত হৈছিল"
+        },
+        {
+          "en": "No, it was discovered at Margherita in 1882",
+          "as": "নহয়, ১৮৮২ চনত মাৰ্ঘেৰিটাত আৱিষ্কৃত হৈছিল"
         },
         {
           "en": "Yes, it was discovered at Makum in 1882",
           "as": "হয়, ১৮৮২ চনত মাকুমত আৱিষ্কৃত হৈছিল"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Oil was not first discovered at Makum; it was discovered at Digboi in 1867.",
         "as": "ভাৰতত তেল প্ৰথম মাকুমত আৱিষ্কৃত হোৱা নাছিল; ১৮৬৭ চনত ডিগবৈত আৱিষ্কৃত হৈছিল।"
@@ -745,15 +745,15 @@
           "as": "নহয়, শোধনাগাৰ ১৮৮২ চনত স্থাপিত হৈছিল"
         },
         {
-          "en": "No, oil was struck in 1867; the refinery was established in 1901",
-          "as": "নহয়, ১৮৬৭ চনত তেল আৱিষ্কৃত হৈছিল; শোধনাগাৰ ১৯০১ চনত স্থাপিত হৈছিল"
-        },
-        {
           "en": "Yes, the refinery was established in 1882",
           "as": "হয়, শোধনাগাৰ ১৮৮২ চনত স্থাপিত হৈছিল"
+        },
+        {
+          "en": "No, oil was struck in 1867; the refinery was established in 1901",
+          "as": "নহয়, ১৮৬৭ চনত তেল আৱিষ্কৃত হৈছিল; শোধনাগাৰ ১৯০১ চনত স্থাপিত হৈছিল"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Oil was struck at Digboi in 1867, but the refinery was established later, in 1901.",
         "as": "ডিগবৈত ১৮৬৭ চনত তেল আৱিষ্কৃত হৈছিল, কিন্তু শোধনাগাৰ পিছত ১৯০১ চনত স্থাপিত হৈছিল।"
@@ -771,19 +771,19 @@
           "as": "হয়, যোৰহাটত আছিল"
         },
         {
-          "en": "No, it was at Chabua",
-          "as": "নহয়, চাবুৱাত আছিল"
+          "en": "No, it was at Margherita",
+          "as": "নহয়, মাৰ্ঘেৰিটাত আছিল"
         },
         {
           "en": "No, it was at Digboi",
           "as": "নহয়, ডিগবৈত আছিল"
         },
         {
-          "en": "No, it was at Margherita",
-          "as": "নহয়, মাৰ্ঘেৰিটাত আছিল"
+          "en": "No, it was at Chabua",
+          "as": "নহয়, চাবুৱাত আছিল"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The first tea garden of Assam was not at Jorhat; it was at Chabua.",
         "as": "অসমৰ প্ৰথম চাহ বাগিচা যোৰহাটত নাছিল; চাবুৱাত আছিল।"
@@ -797,12 +797,12 @@
       "answer_as": "নহয়, ১৮৩৯ চনত গঠন হৈছিল।",
       "options": [
         {
-          "en": "Yes, it was formed in 1838",
-          "as": "হয়, ১৮৩৮ চনত গঠন হৈছিল"
-        },
-        {
           "en": "No, it was formed in 1839",
           "as": "নহয়, ১৮৩৯ চনত গঠন হৈছিল"
+        },
+        {
+          "en": "Yes, it was formed in 1838",
+          "as": "হয়, ১৮৩৮ চনত গঠন হৈছিল"
         },
         {
           "en": "No, it was formed in 1840",
@@ -813,7 +813,7 @@
           "as": "নহয়, ১৮৩৬ চনত গঠন হৈছিল"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Assam Tea Company was not formed in 1838; it was formed in 1839.",
         "as": "অসম টি কোম্পানী ১৮৩৮ চনত গঠন হোৱা নাছিল; ১৮৩৯ চনত গঠন হৈছিল।"
@@ -831,19 +831,19 @@
           "as": "চি.এ. ব্ৰুচে আৱিষ্কাৰ কৰিছিল; ৰবাৰ্ট ব্ৰুচে খেতিৰ বিকাশ সাধন কৰিছিল"
         },
         {
-          "en": "Robert Bruce discovered it; C.A. Bruce developed the cultivation",
-          "as": "ৰবাৰ্ট ব্ৰুচে আৱিষ্কাৰ কৰিছিল; চি.এ. ব্ৰুচে খেতিৰ বিকাশ সাধন কৰিছিল"
+          "en": "David Scott discovered it; C.A. Bruce developed the cultivation",
+          "as": "ডেভিড স্কটে আৱিষ্কাৰ কৰিছিল; চি.এ. ব্ৰুচে খেতিৰ বিকাশ সাধন কৰিছিল"
         },
         {
           "en": "Maniram Dewan discovered it; Robert Bruce developed the cultivation",
           "as": "মাণিৰাম দেৱানে আৱিষ্কাৰ কৰিছিল; ৰবাৰ্ট ব্ৰুচে খেতিৰ বিকাশ সাধন কৰিছিল"
         },
         {
-          "en": "David Scott discovered it; C.A. Bruce developed the cultivation",
-          "as": "ডেভিড স্কটে আৱিষ্কাৰ কৰিছিল; চি.এ. ব্ৰুচে খেতিৰ বিকাশ সাধন কৰিছিল"
+          "en": "Robert Bruce discovered it; C.A. Bruce developed the cultivation",
+          "as": "ৰবাৰ্ট ব্ৰুচে আৱিষ্কাৰ কৰিছিল; চি.এ. ব্ৰুচে খেতিৰ বিকাশ সাধন কৰিছিল"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Robert Bruce discovered the tea plant around 1823, while his brother C.A. Bruce developed its cultivation.",
         "as": "ৰবাৰ্ট ব্ৰুচে প্ৰায় ১৮২৩ চনত চাহ গছ আৱিষ্কাৰ কৰিছিল, আনহাতে তেওঁৰ ভাতৃ চি.এ. ব্ৰুচে খেতিৰ বিকাশ সাধন কৰিছিল।"
@@ -857,12 +857,12 @@
       "answer_as": "হয়।",
       "options": [
         {
-          "en": "No, it was established at Margherita",
-          "as": "নহয়, মাৰ্ঘেৰিটাত স্থাপিত হৈছিল"
-        },
-        {
           "en": "Yes",
           "as": "হয়"
+        },
+        {
+          "en": "No, it was established at Margherita",
+          "as": "নহয়, মাৰ্ঘেৰিটাত স্থাপিত হৈছিল"
         },
         {
           "en": "No, it was established at Makum",
@@ -873,7 +873,7 @@
           "as": "হয়, কিন্তু ই এছিয়াৰ দ্বিতীয় আছিল"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The first oil refinery in Asia was established at Digboi.",
         "as": "এছিয়াৰ প্ৰথম তেল শোধনাগাৰ ডিগবৈত স্থাপিত হৈছিল।"
@@ -887,8 +887,8 @@
       "answer_as": "নহয়, তিনিচুকীয়া জিলাত অৱস্থিত।",
       "options": [
         {
-          "en": "Yes, it is in Dibrugarh district",
-          "as": "হয়, ডিব্ৰুগড় জিলাত অৱস্থিত"
+          "en": "No, it is in Tinsukia district",
+          "as": "নহয়, তিনিচুকীয়া জিলাত অৱস্থিত"
         },
         {
           "en": "No, it is in Jorhat district",
@@ -899,11 +899,11 @@
           "as": "নহয়, শিৱসাগৰ জিলাত অৱস্থিত"
         },
         {
-          "en": "No, it is in Tinsukia district",
-          "as": "নহয়, তিনিচুকীয়া জিলাত অৱস্থিত"
+          "en": "Yes, it is in Dibrugarh district",
+          "as": "হয়, ডিব্ৰুগড় জিলাত অৱস্থিত"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Digboi is not in Dibrugarh district; it is in Tinsukia district.",
         "as": "ডিগবৈ ডিব্ৰুগড় জিলাত নাই; তিনিচুকীয়া জিলাত অৱস্থিত।"
@@ -925,15 +925,15 @@
           "as": "নহয়, কেৱল ব্ৰিটিছসকলে ইয়াৰ বিষয়ে জানিছিল"
         },
         {
-          "en": "Yes",
-          "as": "হয়"
-        },
-        {
           "en": "Yes, but they learned about it from the Chinese",
           "as": "হয়, কিন্তু তেওঁলোকে চীনাসকলৰ পৰা শিকিছিল"
+        },
+        {
+          "en": "Yes",
+          "as": "হয়"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Singpho people knew about the tea plant before the British came to Assam.",
         "as": "ব্ৰিটিছসকল অসমলৈ অহাৰ আগতেই সিংফুসকলে চাহ গছৰ বিষয়ে জানিছিল।"
@@ -947,12 +947,12 @@
       "answer_as": "নহয়, ১৮৫৮ চনত ফাঁচী দিয়া হৈছিল।",
       "options": [
         {
-          "en": "No, he was executed in 1858",
-          "as": "নহয়, ১৮৫৮ চনত ফাঁচী দিয়া হৈছিল"
-        },
-        {
           "en": "Yes, he was executed in 1857",
           "as": "হয়, ১৮৫৭ চনত ফাঁচী দিয়া হৈছিল"
+        },
+        {
+          "en": "No, he was executed in 1858",
+          "as": "নহয়, ১৮৫৮ চনত ফাঁচী দিয়া হৈছিল"
         },
         {
           "en": "No, he was executed in 1859",
@@ -963,7 +963,7 @@
           "as": "নহয়, ১৮৫৬ চনত ফাঁচী দিয়া হৈছিল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Maniram Dewan was not executed in 1857; he was executed in 1858.",
         "as": "মাণিৰাম দেৱানক ১৮৫৭ চনত ফাঁচী দিয়া হোৱা নাছিল; ১৮৫৮ চনত ফাঁচী দিয়া হৈছিল।"
@@ -977,8 +977,8 @@
       "answer_as": "নহয়, ১৮৩৮ চনত পঠিওৱা হৈছিল।",
       "options": [
         {
-          "en": "No, it was sent in 1838",
-          "as": "নহয়, ১৮৩৮ চনত পঠিওৱা হৈছিল"
+          "en": "No, it was sent in 1836",
+          "as": "নহয়, ১৮৩৬ চনত পঠিওৱা হৈছিল"
         },
         {
           "en": "Yes, it was sent in 1839",
@@ -989,11 +989,11 @@
           "as": "নহয়, ১৮৪০ চনত পঠিওৱা হৈছিল"
         },
         {
-          "en": "No, it was sent in 1836",
-          "as": "নহয়, ১৮৩৬ চনত পঠিওৱা হৈছিল"
+          "en": "No, it was sent in 1838",
+          "as": "নহয়, ১৮৩৮ চনত পঠিওৱা হৈছিল"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The first consignment of Assam tea was not sent in 1839; it was sent in 1838.",
         "as": "অসমৰ প্ৰথম চাহ খেলাপ ১৮৩৯ চনত পঠিওৱা হোৱা নাছিল; ১৮৩৮ চনত পঠিওৱা হৈছিল।"
@@ -1007,23 +1007,23 @@
       "answer_as": "অসমৰ তিনিচুকীয়া জিলাত।",
       "options": [
         {
-          "en": "In Tinsukia district of Assam",
-          "as": "অসমৰ তিনিচুকীয়া জিলাত"
+          "en": "In Jorhat district of Assam",
+          "as": "অসমৰ যোৰহাট জিলাত"
         },
         {
           "en": "In Dibrugarh district of Assam",
           "as": "অসমৰ ডিব্ৰুগড় জিলাত"
         },
         {
-          "en": "In Jorhat district of Assam",
-          "as": "অসমৰ যোৰহাট জিলাত"
+          "en": "In Tinsukia district of Assam",
+          "as": "অসমৰ তিনিচুকীয়া জিলাত"
         },
         {
           "en": "In Sivasagar district of Assam",
           "as": "অসমৰ শিৱসাগৰ জিলাত"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Margherita coalfield is located in Tinsukia district of Assam.",
         "as": "মাৰ্ঘেৰিটা ক'লা খনি অসমৰ তিনিচুকীয়া জিলাত অৱস্থিত।"
@@ -1045,15 +1045,15 @@
           "as": "ফৰাচী"
         },
         {
-          "en": "Italian",
-          "as": "ইটালীয়ান"
-        },
-        {
           "en": "Portuguese",
           "as": "পৰ্তুগীজ"
+        },
+        {
+          "en": "Italian",
+          "as": "ইটালীয়ান"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The manager whose wife's name is linked to 'Margherita' was Italian.",
         "as": "যি পৰিচালকৰ পত্নীৰ নামেৰে মাৰ্ঘেৰিটা নামকৰণ হৈছে বুলি কোৱা হয়, তেওঁ ইটালীয়ান আছিল।"
@@ -1071,19 +1071,19 @@
           "as": "নামনি অসমত"
         },
         {
-          "en": "In Central Assam",
-          "as": "মধ্য অসমত"
+          "en": "In Upper Assam",
+          "as": "উজনি অসমত"
         },
         {
           "en": "In the Barak Valley",
           "as": "বৰাক উপত্যকাত"
         },
         {
-          "en": "In Upper Assam",
-          "as": "উজনি অসমত"
+          "en": "In Central Assam",
+          "as": "মধ্য অসমত"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Tea was found growing wild in Upper Assam.",
         "as": "উজনি অসমত চাহ গছ বনৰীয়াভাৱে বাঢ়ি থকা পোৱা গৈছিল।"
@@ -1101,19 +1101,19 @@
           "as": "ডেভিড ব্ৰুচ"
         },
         {
-          "en": "Charles Alexander Bruce (C.A. Bruce)",
-          "as": "চাৰ্লছ আলেকজেণ্ডাৰ ব্ৰুচ (চি.এ. ব্ৰুচ)"
-        },
-        {
           "en": "Alexander Bruce",
           "as": "আলেকজেণ্ডাৰ ব্ৰুচ"
+        },
+        {
+          "en": "Charles Alexander Bruce (C.A. Bruce)",
+          "as": "চাৰ্লছ আলেকজেণ্ডাৰ ব্ৰুচ (চি.এ. ব্ৰুচ)"
         },
         {
           "en": "John Bruce",
           "as": "জন ব্ৰুচ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Robert Bruce's brother, Charles Alexander Bruce, developed tea cultivation in Assam.",
         "as": "ৰবাৰ্ট ব্ৰুচৰ ভাতৃ চাৰ্লছ আলেকজেণ্ডাৰ ব্ৰুচে অসমত চাহ খেতিৰ বিকাশ সাধন কৰিছিল।"
@@ -1131,19 +1131,19 @@
           "as": "প্ৰায় ১৮১৫ চনত"
         },
         {
-          "en": "Around 1830",
-          "as": "প্ৰায় ১৮৩০ চনত"
+          "en": "Around 1823",
+          "as": "প্ৰায় ১৮২৩ চনত"
         },
         {
           "en": "Around 1838",
           "as": "প্ৰায় ১৮৩৮ চনত"
         },
         {
-          "en": "Around 1823",
-          "as": "প্ৰায় ১৮২৩ চনত"
+          "en": "Around 1830",
+          "as": "প্ৰায় ১৮৩০ চনত"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Robert Bruce discovered the tea plant in Assam around 1823.",
         "as": "ৰবাৰ্ট ব্ৰুচে প্ৰায় ১৮২৩ চনত অসমত চাহ গছ আৱিষ্কাৰ কৰিছিল।"
@@ -1161,19 +1161,19 @@
           "as": "টি চিটি (চাহ চহৰ)"
         },
         {
-          "en": "The Coal City",
-          "as": "ক'ল চিটি (ক'লা চহৰ)"
+          "en": "The Oil City",
+          "as": "অইল চিটি (তেল চহৰ)"
         },
         {
           "en": "The Golden City",
           "as": "গোল্ডেন চিটি (সোণালী চহৰ)"
         },
         {
-          "en": "The Oil City",
-          "as": "অইল চিটি (তেল চহৰ)"
+          "en": "The Coal City",
+          "as": "ক'ল চিটি (ক'লা চহৰ)"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Digboi is popularly called the Oil City in Assam.",
         "as": "ডিগবৈক অসমত জনপ্ৰিয়ভাৱে অইল চিটি (তেল চহৰ) বুলি কোৱা হয়।"
@@ -1221,19 +1221,19 @@
           "as": "নামনি অসমত"
         },
         {
-          "en": "In the Barak Valley",
-          "as": "বৰাক উপত্যকাত"
+          "en": "In Upper Assam",
+          "as": "উজনি অসমত"
         },
         {
           "en": "In Central Assam",
           "as": "মধ্য অসমত"
         },
         {
-          "en": "In Upper Assam",
-          "as": "উজনি অসমত"
+          "en": "In the Barak Valley",
+          "as": "বৰাক উপত্যকাত"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The Singpho people, who knew about tea, lived in Upper Assam.",
         "as": "চাহৰ বিষয়ে জনা সিংফুসকলে উজনি অসমত বাস কৰিছিল।"
@@ -1251,19 +1251,19 @@
           "as": "সেইবোৰ ব্ৰিটিছ খেতিয়কৰ হাতত বিক্ৰী কৰা হৈছিল"
         },
         {
-          "en": "They were confiscated by the Company after his execution",
-          "as": "তেওঁক ফাঁচী দিয়াৰ পিছত কোম্পানীয়ে সেইবোৰ বাজেয়াপ্ত কৰিছিল"
-        },
-        {
           "en": "They were returned to his family",
           "as": "সেইবোৰ তেওঁৰ পৰিয়ালক ঘূৰাই দিয়া হৈছিল"
+        },
+        {
+          "en": "They were confiscated by the Company after his execution",
+          "as": "তেওঁক ফাঁচী দিয়াৰ পিছত কোম্পানীয়ে সেইবোৰ বাজেয়াপ্ত কৰিছিল"
         },
         {
           "en": "They were taken over by his relatives",
           "as": "সেইবোৰ তেওঁৰ আত্মীয়সকলে অধিগ্ৰহণ কৰিছিল"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Maniram Dewan's tea estates were confiscated by the Company after his execution in 1858.",
         "as": "১৮৫৮ চনত মাণিৰাম দেৱানক ফাঁচী দিয়াৰ পিছত কোম্পানীয়ে তেওঁৰ চাহ বাগিচাবোৰ বাজেয়াপ্ত কৰিছিল।"
@@ -1285,15 +1285,15 @@
           "as": "মাৰ্ঘেৰিটাৰ ক'লা খনিত কাম কৰিবলৈ"
         },
         {
-          "en": "To clear forests for new settlements",
-          "as": "নতুন বসতিৰ বাবে অৰণ্য পৰিষ্কাৰ কৰিবলৈ"
-        },
-        {
           "en": "To work in the tea gardens as indentured labourers",
           "as": "চাহ বাগিচাত চুক্তিবদ্ধ শ্ৰমিক হিচাপে কাম কৰিবলৈ"
+        },
+        {
+          "en": "To clear forests for new settlements",
+          "as": "নতুন বসতিৰ বাবে অৰণ্য পৰিষ্কাৰ কৰিবলৈ"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Workers from Bihar, Jharkhand, Odisha etc. were brought to Assam to work in the tea gardens as indentured labourers.",
         "as": "বিহাৰ, ঝাৰখণ্ড, ওড়িশা আদিৰ পৰা শ্ৰমিকসকলক চাহ বাগিচাত চুক্তিবদ্ধ শ্ৰমিক হিচাপে কাম কৰিবলৈ অসমলৈ অনা হৈছিল।"
@@ -1315,15 +1315,15 @@
           "as": "মাৰ্ঘেৰিটা শোধনাগাৰ"
         },
         {
-          "en": "The Digboi refinery (established 1901)",
-          "as": "ডিগবৈ শোধনাগাৰ (১৯০১ চনত স্থাপিত)"
-        },
-        {
           "en": "The Naharkatiya refinery",
           "as": "নাহৰকটিয়া শোধনাগাৰ"
+        },
+        {
+          "en": "The Digboi refinery (established 1901)",
+          "as": "ডিগবৈ শোধনাগাৰ (১৯০১ চনত স্থাপিত)"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Digboi refinery, established in 1901, was the first oil refinery in India.",
         "as": "১৯০১ চনত স্থাপিত ডিগবৈ শোধনাগাৰ ভাৰতৰ প্ৰথম তেল শোধনাগাৰ আছিল।"
@@ -1337,23 +1337,23 @@
       "answer_as": "১৮৬৭ চন, ডিগবৈত।",
       "options": [
         {
-          "en": "1867, at Digboi",
-          "as": "১৮৬৭ চন, ডিগবৈত"
+          "en": "1901, at Digboi",
+          "as": "১৯০১ চন, ডিগবৈত"
         },
         {
           "en": "1882, at Makum",
           "as": "১৮৮২ চন, মাকুমত"
         },
         {
-          "en": "1901, at Digboi",
-          "as": "১৯০১ চন, ডিগবৈত"
+          "en": "1867, at Digboi",
+          "as": "১৮৬৭ চন, ডিগবৈত"
         },
         {
           "en": "1882, at Digboi",
           "as": "১৮৮২ চন, ডিগবৈত"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The first oil strike in India took place in 1867 at Digboi.",
         "as": "ভাৰতত প্ৰথম তেল আৱিষ্কাৰ ১৮৬৭ চনত ডিগবৈত হৈছিল।"
@@ -1371,19 +1371,19 @@
           "as": "তিনিচুকীয়া জিলাত"
         },
         {
-          "en": "Jorhat district",
-          "as": "যোৰহাট জিলাত"
-        },
-        {
           "en": "Dibrugarh district",
           "as": "ডিব্ৰুগড় জিলাত"
+        },
+        {
+          "en": "Jorhat district",
+          "as": "যোৰহাট জিলাত"
         },
         {
           "en": "Sivasagar district",
           "as": "শিৱসাগৰ জিলাত"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The first tea garden at Chabua falls in Dibrugarh district.",
         "as": "চাবুৱাত থকা অসমৰ প্ৰথম চাহ বাগিচা ডিব্ৰুগড় জিলাত পৰে।"
@@ -1397,12 +1397,12 @@
       "answer_as": "মাণিৰাম দেৱান।",
       "options": [
         {
-          "en": "C.A. Bruce",
-          "as": "চি.এ. ব্ৰুচ"
-        },
-        {
           "en": "Maniram Dewan",
           "as": "মাণিৰাম দেৱান"
+        },
+        {
+          "en": "C.A. Bruce",
+          "as": "চি.এ. ব্ৰুচ"
         },
         {
           "en": "Robert Bruce",
@@ -1413,7 +1413,7 @@
           "as": "আনন্দৰাম ঢেকিয়াল ফুকন"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Maniram Dewan was executed in 1858.",
         "as": "মাণিৰাম দেৱানক ১৮৫৮ চনত ফাঁচী দিয়া হৈছিল।"
@@ -1427,23 +1427,23 @@
       "answer_as": "নহয়, ক'লা খনন ১৮৮২ চনত আৰম্ভ হৈছিল; ১৯০১ চন ডিগবৈ শোধনাগাৰ স্থাপনৰ বছৰ।",
       "options": [
         {
-          "en": "Yes, coal mining began in 1901",
-          "as": "হয়, ক'লা খনন ১৯০১ চনত আৰম্ভ হৈছিল"
+          "en": "No, coal mining began in 1882; 1901 is the year the Digboi refinery was established",
+          "as": "নহয়, ক'লা খনন ১৮৮২ চনত আৰম্ভ হৈছিল; ১৯০১ চন ডিগবৈ শোধনাগাৰ স্থাপনৰ বছৰ"
         },
         {
           "en": "No, coal mining began in 1867",
           "as": "নহয়, ক'লা খনন ১৮৬৭ চনত আৰম্ভ হৈছিল"
         },
         {
-          "en": "No, coal mining began in 1882; 1901 is the year the Digboi refinery was established",
-          "as": "নহয়, ক'লা খনন ১৮৮২ চনত আৰম্ভ হৈছিল; ১৯০১ চন ডিগবৈ শোধনাগাৰ স্থাপনৰ বছৰ"
+          "en": "Yes, coal mining began in 1901",
+          "as": "হয়, ক'লা খনন ১৯০১ চনত আৰম্ভ হৈছিল"
         },
         {
           "en": "No, coal mining began in 1872",
           "as": "নহয়, ক'লা খনন ১৮৭২ চনত আৰম্ভ হৈছিল"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Coal mining in the Margherita region began in 1882, not 1901; 1901 is when the Digboi refinery was established.",
         "as": "মাৰ্ঘেৰিটা অঞ্চলত ক'লা খনন ১৮৮২ চনত আৰম্ভ হৈছিল, ১৯০১ চনত নহয়; ১৯০১ চন ডিগবৈ শোধনাগাৰ স্থাপনৰ বছৰ।"
@@ -1457,12 +1457,12 @@
       "answer_as": "ক'লা (ক'লা খনন)।",
       "options": [
         {
-          "en": "Coal (coal mining)",
-          "as": "ক'লা (ক'লা খনন)"
-        },
-        {
           "en": "Tea",
           "as": "চাহ"
+        },
+        {
+          "en": "Coal (coal mining)",
+          "as": "ক'লা (ক'লা খনন)"
         },
         {
           "en": "Petroleum",
@@ -1473,7 +1473,7 @@
           "as": "ৰবৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Coal mining made Margherita a famous place in Assam.",
         "as": "ক'লা খননে মাৰ্ঘেৰিটাক অসমত বিখ্যাত কৰিছিল।"
@@ -1487,8 +1487,8 @@
       "answer_as": "হয়, সিংফুসকলে চাহ গছৰ বিষয়ে জনা আৰু ব্যৱহাৰ কৰা হৈছিল।",
       "options": [
         {
-          "en": "No, they learned about it only from Robert Bruce",
-          "as": "নহয়, তেওঁলোকে কেৱল ৰবাৰ্ট ব্ৰুচৰ পৰাহে শিকিছিল"
+          "en": "Yes, the Singphos already knew about and used the tea plant",
+          "as": "হয়, সিংফুসকলে চাহ গছৰ বিষয়ে জনা আৰু ব্যৱহাৰ কৰা হৈছিল"
         },
         {
           "en": "No, they did not know about it at all",
@@ -1499,11 +1499,11 @@
           "as": "হয়, কিন্তু ব্ৰিটিছ অহাৰ পিছতহে"
         },
         {
-          "en": "Yes, the Singphos already knew about and used the tea plant",
-          "as": "হয়, সিংফুসকলে চাহ গছৰ বিষয়ে জনা আৰু ব্যৱহাৰ কৰা হৈছিল"
+          "en": "No, they learned about it only from Robert Bruce",
+          "as": "নহয়, তেওঁলোকে কেৱল ৰবাৰ্ট ব্ৰুচৰ পৰাহে শিকিছিল"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The Singpho community already knew about and used the tea plant before Robert Bruce's discovery.",
         "as": "ৰবাৰ্ট ব্ৰুচৰ আৱিষ্কাৰৰ পূৰ্বেই সিংফু জাতিয়ে চাহ গছৰ বিষয়ে জানিছিল আৰু ব্যৱহাৰ কৰিছিল।"

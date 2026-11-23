@@ -32,23 +32,23 @@
       },
       "options": [
         {
-          "en": "The Charyapada",
-          "as": "চৰ্যাপদ"
+          "en": "The Namghosa",
+          "as": "নামঘোষা"
         },
         {
           "en": "The Kirtan Ghosa",
           "as": "কীৰ্তন ঘোষা"
         },
         {
-          "en": "The Namghosa",
-          "as": "নামঘোষা"
+          "en": "The Charyapada",
+          "as": "চৰ্যাপদ"
         },
         {
           "en": "The Saptakanda Ramayana",
           "as": "সপ্তকাণ্ড ৰামায়ণ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Composed of Buddhist mystical songs, the Charyapada is the oldest surviving specimen of Assamese literature.",
         "as": "অসমীয়া সাহিত্যৰ আটাইতকৈ পুৰণি নিদৰ্শন হৈছে বৌদ্ধ ৰহস্যমূলক গীতৰ সংকলন চৰ্যাপদ।"
@@ -65,23 +65,23 @@
       },
       "options": [
         {
-          "en": "Srimanta Sankardeva",
-          "as": "শ্ৰীমন্ত শংকৰদেৱ"
+          "en": "Madhava Kandali",
+          "as": "মাধৱ কন্দলী"
         },
         {
           "en": "Madhavdeva",
           "as": "মাধৱদেৱ"
         },
         {
-          "en": "Madhava Kandali",
-          "as": "মাধৱ কন্দলী"
+          "en": "Srimanta Sankardeva",
+          "as": "শ্ৰীমন্ত শংকৰদেৱ"
         },
         {
           "en": "Lakshminath Bezbaroa",
           "as": "লক্ষ্মীনাথ বেজবৰুৱা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Srimanta Sankardeva, the Vaishnava saint-reformer, is known as the father of Assamese literature.",
         "as": "বৈষ্ণৱ সন্ত-সংস্কাৰক শ্ৰীমন্ত শংকৰদেৱক অসমীয়া সাহিত্যৰ জনক বুলি কোৱা হয়।"
@@ -131,8 +131,8 @@
       },
       "options": [
         {
-          "en": "Mahapurusha Madhavdeva",
-          "as": "মহাপুৰুষ মাধৱদেৱ"
+          "en": "Bhattadeva",
+          "as": "ভট্টদেৱ"
         },
         {
           "en": "Srimanta Sankardeva",
@@ -143,11 +143,11 @@
           "as": "মাধৱ কন্দলী"
         },
         {
-          "en": "Bhattadeva",
-          "as": "ভট্টদেৱ"
+          "en": "Mahapurusha Madhavdeva",
+          "as": "মহাপুৰুষ মাধৱদেৱ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The 'Namghosa' was composed by Mahapurusha Madhavdeva.",
         "as": "'নামঘোষা'ৰ ৰচয়িতা হৈছে মহাপুৰুষ মাধৱদেৱ।"
@@ -164,23 +164,23 @@
       },
       "options": [
         {
-          "en": "The Saptakanda Ramayana by Madhava Kandali",
-          "as": "মাধৱ কন্দলীৰ সপ্তকাণ্ড ৰামায়ণ"
+          "en": "The Namghosa",
+          "as": "নামঘোষা"
         },
         {
           "en": "The Kirtan Ghosa",
           "as": "কীৰ্তন ঘোষা"
         },
         {
-          "en": "The Namghosa",
-          "as": "নামঘোষা"
+          "en": "The Saptakanda Ramayana by Madhava Kandali",
+          "as": "মাধৱ কন্দলীৰ সপ্তকাণ্ড ৰামায়ণ"
         },
         {
           "en": "The Assam Buranji",
           "as": "অসম বুৰঞ্জী"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The first Assamese rendering of the Ramayana is the Saptakanda Ramayana, composed by Madhava Kandali.",
         "as": "ৰামায়ণৰ প্ৰথম অসমীয়া অনুবাদ হৈছে মাধৱ কন্দলীৰ সপ্তকাণ্ড ৰামায়ণ।"
@@ -197,12 +197,12 @@
       },
       "options": [
         {
-          "en": "Madhava Kandali",
-          "as": "মাধৱ কন্দলী"
-        },
-        {
           "en": "Sankardeva",
           "as": "শংকৰদেৱ"
+        },
+        {
+          "en": "Madhava Kandali",
+          "as": "মাধৱ কন্দলী"
         },
         {
           "en": "Madhavdeva",
@@ -213,7 +213,7 @@
           "as": "ভট্টদেৱ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The 'Saptakanda Ramayana' was composed by Madhava Kandali in the 14th century.",
         "as": "মাধৱ কন্দলীয়ে চতুৰ্দশ শতিকাত সপ্তকাণ্ড ৰামায়ণ ৰচনা কৰিছিল।"
@@ -296,8 +296,8 @@
       },
       "options": [
         {
-          "en": "The 'Assam Buranji' and the 'Chutiya Buranji'",
-          "as": "'অসম বুৰঞ্জী' আৰু 'চুতীয়া বুৰঞ্জী'"
+          "en": "The 'Katha Gita'",
+          "as": "'কথা গীতা'"
         },
         {
           "en": "The 'Kirtan Ghosa'",
@@ -308,11 +308,11 @@
           "as": "'নামঘোষা'"
         },
         {
-          "en": "The 'Katha Gita'",
-          "as": "'কথা গীতা'"
+          "en": "The 'Assam Buranji' and the 'Chutiya Buranji'",
+          "as": "'অসম বুৰঞ্জী' আৰু 'চুতীয়া বুৰঞ্জী'"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The 'Assam Buranji' and the 'Chutiya Buranji' are important, with the Ahom Buranji covering early reigns including Sukapha's.",
         "as": "'অসম বুৰঞ্জী' আৰু 'চুতীয়া বুৰঞ্জী' গুৰুত্বপূৰ্ণ, আৰু 'আহোম বুৰঞ্জী'য়ে চুকাফাৰ দৰে আদি শাসনকাল সামৰি লৈছে।"
@@ -329,8 +329,8 @@
       },
       "options": [
         {
-          "en": "Edward Gait",
-          "as": "এডৱাৰ্ড গেইট"
+          "en": "Alexander Mackenzie",
+          "as": "এলেকজেণ্ডাৰ মেকেঞ্জি"
         },
         {
           "en": "John Butler",
@@ -341,11 +341,11 @@
           "as": "ৱিলিয়ম ৰবিনছন"
         },
         {
-          "en": "Alexander Mackenzie",
-          "as": "এলেকজেণ্ডাৰ মেকেঞ্জি"
+          "en": "Edward Gait",
+          "as": "এডৱাৰ্ড গেইট"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Edward Gait wrote 'A History of Assam' (1905), the first systematic history of Assam in English.",
         "as": "এডৱাৰ্ড গেইটে ১৯০৫ চনত 'এ হিষ্ট'ৰী অৱ অসম' ৰচনা কৰিছিল, যিটো ইংৰাজীত অসমৰ প্ৰথম সুসংগঠিত ইতিহাস।"
@@ -395,12 +395,12 @@
       },
       "options": [
         {
-          "en": "The Orunodoi",
-          "as": "অৰুণোদই"
-        },
-        {
           "en": "The Assam Tribune",
           "as": "দি অসম ট্ৰিবিউন"
+        },
+        {
+          "en": "The Orunodoi",
+          "as": "অৰুণোদই"
         },
         {
           "en": "The Dainik Batori",
@@ -411,7 +411,7 @@
           "as": "জনমভূমি"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The 'Orunodoi', published in 1846 by the American Baptist Mission, is the first Assamese periodical/newspaper.",
         "as": "১৮৪৬ চনত আমেৰিকান বেপ্টিষ্ট মিছনে প্ৰকাশ কৰা 'অৰুণোদই' প্ৰথম অসমীয়া আলোচনী/বাতৰি কাকত।"
@@ -428,23 +428,23 @@
       },
       "options": [
         {
-          "en": "Anandaram Dhekial Phukan",
-          "as": "আনন্দৰাম ঢেকিয়াল ফুকন"
+          "en": "Gunabhiram Barua",
+          "as": "গুণাভিৰাম বৰুৱা"
         },
         {
           "en": "Hemchandra Barua",
           "as": "হেমচন্দ্ৰ বৰুৱা"
         },
         {
-          "en": "Gunabhiram Barua",
-          "as": "গুণাভিৰাম বৰুৱা"
+          "en": "Anandaram Dhekial Phukan",
+          "as": "আনন্দৰাম ঢেকিয়াল ফুকন"
         },
         {
           "en": "Bhattadeva",
           "as": "ভট্টদেৱ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Anandaram Dhekial Phukan is known as the pioneer of modern Assamese prose.",
         "as": "আনন্দৰাম ঢেকিয়াল ফুকনক আধুনিক অসমীয়া গদ্যৰ পথিকৃৎ বুলি কোৱা হয়।"
@@ -461,12 +461,12 @@
       },
       "options": [
         {
-          "en": "Kashinath Tamuli Phukan",
-          "as": "কাশীনাথ তামুলী ফুকন"
-        },
-        {
           "en": "Edward Gait",
           "as": "এডৱাৰ্ড গেইট"
+        },
+        {
+          "en": "Kashinath Tamuli Phukan",
+          "as": "কাশীনাথ তামুলী ফুকন"
         },
         {
           "en": "Sankardeva",
@@ -477,7 +477,7 @@
           "as": "মাধৱদেৱ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The 'Assam Buranji' of the early 19th century was written by Kashinath Tamuli Phukan.",
         "as": "ঊনবিংশ শতিকাৰ আৰম্ভণিৰ 'অসম বুৰঞ্জী' কাশীনাথ তামুলী ফুকনে লিখিছিল।"
@@ -494,8 +494,8 @@
       },
       "options": [
         {
-          "en": "Kasinath Tamuli Phukan",
-          "as": "কাশীনাথ তামুলী ফুকন"
+          "en": "Lakshminath Bezbaroa",
+          "as": "লক্ষ্মীনাথ বেজবৰুৱা"
         },
         {
           "en": "Edward Gait",
@@ -506,11 +506,11 @@
           "as": "আনন্দৰাম ঢেকিয়াল ফুকন"
         },
         {
-          "en": "Lakshminath Bezbaroa",
-          "as": "লক্ষ্মীনাথ বেজবৰুৱা"
+          "en": "Kasinath Tamuli Phukan",
+          "as": "কাশীনাথ তামুলী ফুকন"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The 'Buranji Vivak Ratna' was authored by the Ahom scholar Kasinath Tamuli Phukan.",
         "as": "আহোম পণ্ডিত কাশীনাথ তামুলী ফুকনে 'বুৰঞ্জী বিবেক ৰত্ন' ৰচনা কৰিছিল।"
@@ -527,23 +527,23 @@
       },
       "options": [
         {
-          "en": "Lakshminath Bezbaroa",
-          "as": "লক্ষ্মীনাথ বেজবৰুৱা"
+          "en": "Rajanikanta Bordoloi",
+          "as": "ৰজনীকান্ত বৰদলৈ"
         },
         {
           "en": "Bishnu Prasad Rabha",
           "as": "বিষ্ণু প্ৰসাদ ৰাভা"
         },
         {
-          "en": "Rajanikanta Bordoloi",
-          "as": "ৰজনীকান্ত বৰদলৈ"
+          "en": "Lakshminath Bezbaroa",
+          "as": "লক্ষ্মীনাথ বেজবৰুৱা"
         },
         {
           "en": "Indira Goswami",
           "as": "ইন্দিৰা গোস্বামী"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Lakshminath Bezbaroa is honoured with the title 'Sahityarathi', meaning the charioteer of literature.",
         "as": "লক্ষ্মীনাথ বেজবৰুৱাক 'সাহিত্যৰথী' উপাধিৰে সন্মানিত কৰা হয়।"
@@ -560,8 +560,8 @@
       },
       "options": [
         {
-          "en": "Lakshminath Bezbaroa",
-          "as": "লক্ষ্মীনাথ বেজবৰুৱা"
+          "en": "Bishnu Prasad Rabha",
+          "as": "বিষ্ণু প্ৰসাদ ৰাভা"
         },
         {
           "en": "Rajanikanta Bordoloi",
@@ -572,11 +572,11 @@
           "as": "পদ্মনাথ গোহাঞি বৰুৱা"
         },
         {
-          "en": "Bishnu Prasad Rabha",
-          "as": "বিষ্ণু প্ৰসাদ ৰাভা"
+          "en": "Lakshminath Bezbaroa",
+          "as": "লক্ষ্মীনাথ বেজবৰুৱা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The beginnings of the Assamese novel are traced to Lakshminath Bezbaroa, who is honoured as its founder.",
         "as": "অসমীয়া উপন্যাসৰ আৰম্ভণি লক্ষ্মীনাথ বেজবৰুৱাৰ সৈতে জড়িত; তেওঁক ইয়াৰ প্ৰৱৰ্তক হিচাপে সন্মান কৰা হয়।"
@@ -593,12 +593,12 @@
       },
       "options": [
         {
-          "en": "'Miri Jiyori' by Rajanikanta Bordoloi",
-          "as": "ৰজনীকান্ত বৰদলৈৰ 'মিৰি জীয়ৰী'"
-        },
-        {
           "en": "'Buranji Vivek Ratna'",
           "as": "'বুৰঞ্জী বিবেক ৰত্ন'"
+        },
+        {
+          "en": "'Miri Jiyori' by Rajanikanta Bordoloi",
+          "as": "ৰজনীকান্ত বৰদলৈৰ 'মিৰি জীয়ৰী'"
         },
         {
           "en": "'Kirtan Ghosa'",
@@ -609,7 +609,7 @@
           "as": "'বুঢ়ী আইৰ সাধু'"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "'Mirijiyori' (1894) by Rajanikanta Bordoloi is generally considered the first Assamese novel.",
         "as": "ৰজনীকান্ত বৰদলৈৰ 'মিৰি জীয়ৰী' প্ৰথম অসমীয়া উপন্যাস বুলি গণ্য কৰা হয় (১৮৯৪)।"
@@ -659,12 +659,12 @@
       },
       "options": [
         {
-          "en": "Indira Goswami (Mamoni Raisom Goswami)",
-          "as": "ইন্দিৰা গোস্বামী (মামনি ৰৈছম গোস্বামী)"
-        },
-        {
           "en": "Padmawati Barua",
           "as": "পদ্মাৱতী বৰুৱা"
+        },
+        {
+          "en": "Indira Goswami (Mamoni Raisom Goswami)",
+          "as": "ইন্দিৰা গোস্বামী (মামনি ৰৈছম গোস্বামী)"
         },
         {
           "en": "Nalini Bala Devi",
@@ -675,7 +675,7 @@
           "as": "চন্দ্ৰপ্ৰভা চাইকিয়ানী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Indira Goswami (Mamoni Raisom Goswami) is one of the most celebrated Assamese novelists and a leading woman novelist.",
         "as": "ইন্দিৰা গোস্বামী (মামনি ৰৈছম গোস্বামী) অসমীয়া ঔপন্যাসিকসকলৰ অন্যতম শ্ৰেষ্ঠ আৰু প্ৰধান মহিলা ঔপন্যাসিক।"
@@ -725,12 +725,12 @@
       },
       "options": [
         {
-          "en": "The early Vaishnavite poets such as Sankardeva and Madhavdeva",
-          "as": "শংকৰদেৱ আৰু মাধৱদেৱৰ দৰে আদি বৈষ্ণৱ কবিসকল"
-        },
-        {
           "en": "Modern romantic poets",
           "as": "আধুনিক ৰোমাণ্টিক কবিসকল"
+        },
+        {
+          "en": "The early Vaishnavite poets such as Sankardeva and Madhavdeva",
+          "as": "শংকৰদেৱ আৰু মাধৱদেৱৰ দৰে আদি বৈষ্ণৱ কবিসকল"
         },
         {
           "en": "The Buranji writers",
@@ -741,7 +741,7 @@
           "as": "বাংলা কবিসকল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The early Vaishnavite poets like Sankardeva and Madhavdeva are known for devotional (Xatraiya) poetry.",
         "as": "শংকৰদেৱ আৰু মাধৱদেৱৰ দৰে আদি বৈষ্ণৱ কবিসকল ভক্তিমূলক (সত্ৰীয়া) কাব্যৰ বাবে জনাজাত।"
@@ -758,8 +758,8 @@
       },
       "options": [
         {
-          "en": "Bhattadeva, and later the missionaries",
-          "as": "ভট্টদেৱ, আৰু পিছত মিছনেৰীসকল"
+          "en": "Hemchandra Barua alone",
+          "as": "কেৱল হেমচন্দ্ৰ বৰুৱা"
         },
         {
           "en": "Sankardeva",
@@ -770,11 +770,11 @@
           "as": "মাধৱ কন্দলী"
         },
         {
-          "en": "Hemchandra Barua alone",
-          "as": "কেৱল হেমচন্দ্ৰ বৰুৱা"
+          "en": "Bhattadeva, and later the missionaries",
+          "as": "ভট্টদেৱ, আৰু পিছত মিছনেৰীসকল"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The first Assamese prose/grammar-like work was by Bhattadeva ('Katha Gosha'), and later grammars were written by missionaries.",
         "as": "ভট্টদেৱে ('কথা গুৰু') প্ৰথম অসমীয়া গদ্য ৰচনা কৰিছিল, আৰু মিছনেৰীসকলে পিছত ব্যাকৰণ লিখিছিল।"
@@ -824,23 +824,23 @@
       },
       "options": [
         {
-          "en": "The 'Katha Bhagavat' and 'Katha Gita'",
-          "as": "'কথা ভাগৱত' আৰু 'কথা গীতা'"
+          "en": "The 'Namghosa'",
+          "as": "'নামঘোষা'"
         },
         {
           "en": "The 'Kirtan Ghosa'",
           "as": "'কীৰ্তন ঘোষা'"
         },
         {
-          "en": "The 'Namghosa'",
-          "as": "'নামঘোষা'"
+          "en": "The 'Katha Bhagavat' and 'Katha Gita'",
+          "as": "'কথা ভাগৱত' আৰু 'কথা গীতা'"
         },
         {
           "en": "The 'Saptakanda Ramayana'",
           "as": "'সপ্তকাণ্ড ৰামায়ণ'"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Bhattadeva is famous for the 'Katha Bhagavat' and 'Katha Gita', pioneering works of Assamese prose.",
         "as": "'কথা ভাগৱত' আৰু 'কথা গীতা' অসমীয়া গদ্যৰ আদি কৃতি; এইবোৰৰ বাবে ভট্টদেৱ বিখ্যাত।"
@@ -857,12 +857,12 @@
       },
       "options": [
         {
-          "en": "The official chroniclers called 'Phukans' and royal scribes",
-          "as": "'ফুকন' নামে জনাজাত চৰকাৰী লিপিকাৰ আৰু ৰাজকীয় লেখক"
-        },
-        {
           "en": "Only the kings themselves",
           "as": "কেৱল ৰজাসকলে নিজে"
+        },
+        {
+          "en": "The official chroniclers called 'Phukans' and royal scribes",
+          "as": "'ফুকন' নামে জনাজাত চৰকাৰী লিপিকাৰ আৰু ৰাজকীয় লেখক"
         },
         {
           "en": "Only the British officers",
@@ -873,7 +873,7 @@
           "as": "কেৱল সত্ৰৰ মুনিসকলে"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The official chroniclers called 'Phukans' and the royal scribes wrote the Buranjis in the Ahom era.",
         "as": "'ফুকন' নামে জনাজাত চৰকাৰী লিপিকাৰ আৰু ৰাজকীয় লেখকসকলে আহোম যুগত বুৰঞ্জী লিখিছিল।"
@@ -890,23 +890,23 @@
       },
       "options": [
         {
-          "en": "The 'Kirtan Ghosa'",
-          "as": "'কীৰ্তন ঘোষা'"
+          "en": "The 'Miri Jiyori'",
+          "as": "'মিৰি জীয়ৰী'"
         },
         {
           "en": "The 'Burhi Aair Xadhu'",
           "as": "'বুঢ়ী আইৰ সাধু'"
         },
         {
-          "en": "The 'Miri Jiyori'",
-          "as": "'মিৰি জীয়ৰী'"
+          "en": "The 'Kirtan Ghosa'",
+          "as": "'কীৰ্তন ঘোষা'"
         },
         {
           "en": "The 'Orunodoi'",
           "as": "'অৰুণোদই'"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The 'Kirtan Ghosa' is considered one of the longest and most important devotional works of Assamese literature.",
         "as": "'কীৰ্তন ঘোষা' অসমীয়া সাহিত্যৰ অন্যতম দীর্ঘতম আৰু আটাইতকৈ গুৰুত্বপূৰ্ণ ভক্তিমূলক কৃতি।"
@@ -923,12 +923,12 @@
       },
       "options": [
         {
-          "en": "Lakshminath Bezbaroa",
-          "as": "লক্ষ্মীনাথ বেজবৰুৱা"
-        },
-        {
           "en": "Rajanikanta Bordoloi",
           "as": "ৰজনীকান্ত বৰদলৈ"
+        },
+        {
+          "en": "Lakshminath Bezbaroa",
+          "as": "লক্ষ্মীনাথ বেজবৰুৱা"
         },
         {
           "en": "Padmanath Gohain Baruah",
@@ -939,7 +939,7 @@
           "as": "হেমচন্দ্ৰ গোস্বামী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Lakshminath Bezbaroa is famous for his satirical essays, including those in the 'Burhi Aair Xadhu' and other works.",
         "as": "লক্ষ্মীনাথ বেজবৰুৱা 'বুঢ়ী আইৰ সাধু' তথা 'খৰ্গোষ' আদি ব্যংগ ৰচনাৰ বাবে বিখ্যাত।"
@@ -956,8 +956,8 @@
       },
       "options": [
         {
-          "en": "The 'Burhi Aair Xadhu'",
-          "as": "'বুঢ়ী আইৰ সাধু'"
+          "en": "The 'Namghosa'",
+          "as": "'নামঘোষা'"
         },
         {
           "en": "The 'Kirtan Ghosa'",
@@ -968,11 +968,11 @@
           "as": "'মিৰি জীয়ৰী'"
         },
         {
-          "en": "The 'Namghosa'",
-          "as": "'নামঘোষা'"
+          "en": "The 'Burhi Aair Xadhu'",
+          "as": "'বুঢ়ী আইৰ সাধু'"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "'Burhi Aair Xadhu' is the famous collection of Assamese folk tales retold by Lakshminath Bezbaroa.",
         "as": "'বুঢ়ী আইৰ সাধু' লক্ষ্মীনাথ বেজবৰুৱাই সংকলন কৰা অসমীয়া লোক-কথাৰ বিখ্যাত সংকলন।"
@@ -989,12 +989,12 @@
       },
       "options": [
         {
-          "en": "Amulya Barua",
-          "as": "অমূল্য বৰুৱা"
-        },
-        {
           "en": "Lakshminath Bezbaroa",
           "as": "লক্ষ্মীনাথ বেজবৰুৱা"
+        },
+        {
+          "en": "Amulya Barua",
+          "as": "অমূল্য বৰুৱা"
         },
         {
           "en": "Bishnu Prasad Rabha",
@@ -1005,7 +1005,7 @@
           "as": "জ্যোতি প্ৰসাদ আগৰৱালা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "In Assamese poetry, the credit for first using free verse is generally given to Amulya Barua.",
         "as": "অমূল্য বৰুৱাক মুক্ত ছন্দত লিখা প্ৰথম অসমীয়া কবি বুলি গণ্য কৰা হয়।"
@@ -1055,23 +1055,23 @@
       },
       "options": [
         {
-          "en": "The royal astrologers and priests of the Ahom court",
-          "as": "আহোম ৰাজসভাৰ ৰাজকীয় জ্যোতিষী আৰু পুৰোহিতসকল"
+          "en": "The Sattra monks",
+          "as": "সত্ৰৰ মুনিসকল"
         },
         {
           "en": "The British officers",
           "as": "ব্ৰিটিছ বিষয়াসকল"
         },
         {
-          "en": "The Sattra monks",
-          "as": "সত্ৰৰ মুনিসকল"
+          "en": "The royal astrologers and priests of the Ahom court",
+          "as": "আহোম ৰাজসভাৰ ৰাজকীয় জ্যোতিষী আৰু পুৰোহিতসকল"
         },
         {
           "en": "The Mughal historians",
           "as": "মোগল ইতিহাসবিদসকল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The 'Deodhai Buranji' was compiled by the royal astrologers and priests of the Ahom court.",
         "as": "আহোম ৰাজসভাৰ ৰাজকীয় জ্যোতিষী আৰু পুৰোহিতসকলে 'দেধাই বুৰঞ্জী' সংকলন কৰিছিল।"
@@ -1088,23 +1088,23 @@
       },
       "options": [
         {
-          "en": "The 'Chihna Yatra' of Sankardeva",
-          "as": "শংকৰদেৱৰ 'চিহ্নযাত্ৰা'"
+          "en": "The 'Miri Jiyori'",
+          "as": "'মিৰি জীয়ৰী'"
         },
         {
           "en": "The 'Kirtan Ghosa'",
           "as": "'কীৰ্তন ঘোষা'"
         },
         {
-          "en": "The 'Miri Jiyori'",
-          "as": "'মিৰি জীয়ৰী'"
+          "en": "The 'Chihna Yatra' of Sankardeva",
+          "as": "শংকৰদেৱৰ 'চিহ্নযাত্ৰা'"
         },
         {
           "en": "The 'Namghosa'",
           "as": "'নামঘোষা'"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The 'Chihna Yatra' (Ankiya Nat) of Srimanta Sankardeva is regarded as the first drama of Assamese literature.",
         "as": "শ্ৰীমন্ত শংকৰদেৱৰ 'চিহ্নযাত্ৰা' (অংকীয়া নাট) অসমীয়া সাহিত্যৰ প্ৰথম নাট হিচাপে গণ্য কৰা হয়।"
@@ -1154,8 +1154,8 @@
       },
       "options": [
         {
-          "en": "The devotional poets of the Vaishnavite Sattras beginning with Sankardeva",
-          "as": "শংকৰদেৱৰ পৰা আৰম্ভ হোৱা বৈষ্ণৱ সত্ৰৰ ভক্তিমূলক কবিসকল"
+          "en": "The Bengali bards",
+          "as": "বাংলা গীতিকাৰসকল"
         },
         {
           "en": "The modern English poets",
@@ -1166,11 +1166,11 @@
           "as": "বুৰঞ্জী লেখকসকল"
         },
         {
-          "en": "The Bengali bards",
-          "as": "বাংলা গীতিকাৰসকল"
+          "en": "The devotional poets of the Vaishnavite Sattras beginning with Sankardeva",
+          "as": "শংকৰদেৱৰ পৰা আৰম্ভ হোৱা বৈষ্ণৱ সত্ৰৰ ভক্তিমূলক কবিসকল"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The devotional poets of the Vaishnavite Sattras, beginning with Sankardeva, are known as the bardic (Shankari) poets.",
         "as": "শংকৰদেৱৰ পৰা আৰম্ভ হোৱা বৈষ্ণৱ সত্ৰৰ ভক্তিমূলক কবিসকল শংকৰী/গীতিকাৰ কবি বুলি জনাজাত।"

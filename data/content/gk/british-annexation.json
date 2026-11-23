@@ -21,19 +21,19 @@
           "as": "১৮২৬-১৮২৮"
         },
         {
-          "en": "1824-1826",
-          "as": "১৮২৪-১৮২৬"
-        },
-        {
           "en": "1822-1824",
           "as": "১৮২২-১৮২৪"
+        },
+        {
+          "en": "1824-1826",
+          "as": "১৮২৪-১৮২৬"
         },
         {
           "en": "1820-1822",
           "as": "১৮২০-১৮২২"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The First Anglo-Burmese War was fought between 1824 and 1826 and ended with the Treaty of Yandabo.",
         "as": "প্ৰথম ইংৰাজ-বাৰ্মা যুদ্ধ ১৮২৪ চনৰ পৰা ১৮২৬ চনলৈ হৈছিল আৰু য়াণ্ডাবু সন্ধিৰে ইয়াৰ সমাপ্তি ঘটিছিল।"
@@ -47,23 +47,23 @@
       "answer_as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী আৰু বাৰ্মা।",
       "options": [
         {
-          "en": "The British East India Company and Burma",
-          "as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী আৰু বাৰ্মা"
+          "en": "The Mughals and Burma",
+          "as": "মোগল আৰু বাৰ্মা"
         },
         {
           "en": "The Ahom kingdom and Burma",
           "as": "আহোম ৰাজ্য আৰু বাৰ্মা"
         },
         {
-          "en": "The Mughals and Burma",
-          "as": "মোগল আৰু বাৰ্মা"
+          "en": "The British East India Company and Burma",
+          "as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী আৰু বাৰ্মা"
         },
         {
           "en": "The British East India Company and China",
           "as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী আৰু চীন"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The First Anglo-Burmese War was fought between the British East India Company and Burma.",
         "as": "প্ৰথম ইংৰাজ-বাৰ্মা যুদ্ধ ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী আৰু বাৰ্মাৰ মাজত হৈছিল।"
@@ -137,12 +137,12 @@
       "answer_as": "ইৰাৱদী নদী।",
       "options": [
         {
-          "en": "The Irrawaddy river",
-          "as": "ইৰাৱদী নদী"
-        },
-        {
           "en": "The Salween river",
           "as": "ছালৱিন নদী"
+        },
+        {
+          "en": "The Irrawaddy river",
+          "as": "ইৰাৱদী নদী"
         },
         {
           "en": "The Chindwin river",
@@ -153,7 +153,7 @@
           "as": "ব্ৰহ্মপুত্ৰ নদী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Yandabo is located on the bank of the Irrawaddy river.",
         "as": "য়াণ্ডাবু ইৰাৱদী নদীৰ পাৰত অৱস্থিত।"
@@ -175,15 +175,15 @@
           "as": "ছাৰ এডৱাৰ্ড পেজেট"
         },
         {
-          "en": "Colonel R.H. Keatinge",
-          "as": "কৰ্ণেল আৰ. এইচ. কিটিং"
-        },
-        {
           "en": "Sir Archibald Campbell",
           "as": "ছাৰ আৰ্চিবল্ড কেম্পবেল"
+        },
+        {
+          "en": "Colonel R.H. Keatinge",
+          "as": "কৰ্ণেল আৰ. এইচ. কিটিং"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Sir Archibald Campbell signed the treaty on behalf of the British East India Company.",
         "as": "ছাৰ আৰ্চিবল্ড কেম্পবেলে ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানীৰ ফালৰ পৰা সন্ধিত স্বাক্ষৰ কৰিছিল।"
@@ -197,12 +197,12 @@
       "answer_as": "এক কোটি (১ কোটি) টকা ক্ষতিপূৰণ।",
       "options": [
         {
-          "en": "One lakh rupees",
-          "as": "এক লাখ টকা"
-        },
-        {
           "en": "One crore rupees",
           "as": "এক কোটি টকা"
+        },
+        {
+          "en": "One lakh rupees",
+          "as": "এক লাখ টকা"
         },
         {
           "en": "Fifty lakh rupees",
@@ -213,7 +213,7 @@
           "as": "দহ লাখ টকা"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Burma had to pay an indemnity of one crore rupees under the treaty.",
         "as": "সন্ধি অনুসৰি বাৰ্মাই এক কোটি টকা ক্ষতিপূৰণ দিব লগা হৈছিল।"
@@ -231,19 +231,19 @@
           "as": "এক বিলিয়ন (১০০ কোটি) টকা"
         },
         {
-          "en": "One hundred thousand rupees",
-          "as": "এক লাখ টকা"
-        },
-        {
           "en": "Ten million rupees",
           "as": "এক কোটি (১০ নিযুত) টকা"
+        },
+        {
+          "en": "One hundred thousand rupees",
+          "as": "এক লাখ টকা"
         },
         {
           "en": "One million rupees",
           "as": "এক মিলিয়ন (১০ লাখ) টকা"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "One crore is equal to ten million rupees.",
         "as": "এক কোটি টকা সমান দহ মিলিয়ন (১০ নিযুত) টকা।"
@@ -257,23 +257,23 @@
       "answer_as": "অসম, মণিপুৰ, আৰাকান আৰু টেনাছেৰিম।",
       "options": [
         {
-          "en": "Assam, Manipur, Arakan and Tenasserim",
-          "as": "অসম, মণিপুৰ, আৰাকান আৰু টেনাছেৰিম"
+          "en": "Assam, Bengal, Arakan and Tenasserim",
+          "as": "অসম, বেংগল, আৰাকান আৰু টেনাছেৰিম"
         },
         {
           "en": "Assam, Cachar, Jaintia and Manipur",
           "as": "অসম, কাছাৰ, জয়ন্তীয়া আৰু মণিপুৰ"
         },
         {
-          "en": "Assam, Bengal, Arakan and Tenasserim",
-          "as": "অসম, বেংগল, আৰাকান আৰু টেনাছেৰিম"
+          "en": "Assam, Manipur, Arakan and Tenasserim",
+          "as": "অসম, মণিপুৰ, আৰাকান আৰু টেনাছেৰিম"
         },
         {
           "en": "Manipur, Arakan, Tenasserim and Cachar",
           "as": "মণিপুৰ, আৰাকান, টেনাছেৰিম আৰু কাছাৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Burma ceded Assam, Manipur, Arakan and Tenasserim to the British.",
         "as": "বাৰ্মাই অসম, মণিপুৰ, আৰাকান আৰু টেনাছেৰিম ব্ৰিটিছক সমৰ্পণ কৰিছিল।"
@@ -291,19 +291,19 @@
           "as": "অসম আৰু মণিপুৰ"
         },
         {
-          "en": "Cachar and Jaintia",
-          "as": "কাছাৰ আৰু জয়ন্তীয়া"
-        },
-        {
           "en": "Khasi hills and Jaintia",
           "as": "খাছি পাহাৰ আৰু জয়ন্তীয়া"
+        },
+        {
+          "en": "Cachar and Jaintia",
+          "as": "কাছাৰ আৰু জয়ন্তীয়া"
         },
         {
           "en": "Arakan and Tenasserim",
           "as": "আৰাকান আৰু টেনাছেৰিম"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Burma gave up all claims on Cachar and Jaintia under the treaty.",
         "as": "সন্ধি অনুসৰি বাৰ্মাই কাছাৰ আৰু জয়ন্তীয়াৰ ওপৰত সকলো দাবী পৰিত্যাগ কৰিছিল।"
@@ -317,23 +317,23 @@
       "answer_as": "আভাত এজন ব্ৰিটিছ ৰাজদূত গ্ৰহণ কৰিবলৈ বাৰ্মাই সন্মত হৈছিল।",
       "options": [
         {
-          "en": "To allow British troops to occupy Ava",
-          "as": "আভাত ব্ৰিটিছ সেনা ৰখাৰ অনুমতি দিয়া"
+          "en": "To receive a British envoy at Ava",
+          "as": "আভাত এজন ব্ৰিটিছ ৰাজদূত গ্ৰহণ কৰা"
         },
         {
           "en": "To send a Burmese envoy to Calcutta",
           "as": "কলিকতালৈ এজন বাৰ্মী ৰাজদূত পঠোৱা"
         },
         {
-          "en": "To receive a British envoy at Ava",
-          "as": "আভাত এজন ব্ৰিটিছ ৰাজদূত গ্ৰহণ কৰা"
+          "en": "To allow British troops to occupy Ava",
+          "as": "আভাত ব্ৰিটিছ সেনা ৰখাৰ অনুমতি দিয়া"
         },
         {
           "en": "To pay an annual tribute to the British",
           "as": "ব্ৰিটিছক বছৰি কৰ দিয়া"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Burma agreed to receive a British envoy at Ava.",
         "as": "বাৰ্মাই আভাত এজন ব্ৰিটিছ ৰাজদূত গ্ৰহণ কৰিবলৈ সন্মত হৈছিল।"
@@ -351,19 +351,19 @@
           "as": "১৮৩২"
         },
         {
-          "en": "1824",
-          "as": "১৮২৪"
-        },
-        {
           "en": "1826",
           "as": "১৮২৬"
+        },
+        {
+          "en": "1824",
+          "as": "১৮২৪"
         },
         {
           "en": "1828",
           "as": "১৮২৮"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Assam came under the rule of the British East India Company in 1826.",
         "as": "১৮২৬ চনত অসম ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানীৰ শাসনলৈ আহিছিল।"
@@ -377,23 +377,23 @@
       "answer_as": "ডেভিড স্কট।",
       "options": [
         {
-          "en": "David Scott",
-          "as": "ডেভিড স্কট"
+          "en": "Purandar Singha",
+          "as": "পুৰন্দৰ সিংহ"
         },
         {
           "en": "Colonel R.H. Keatinge",
           "as": "কৰ্ণেল আৰ. এইচ. কিটিং"
         },
         {
-          "en": "Purandar Singha",
-          "as": "পুৰন্দৰ সিংহ"
+          "en": "David Scott",
+          "as": "ডেভিড স্কট"
         },
         {
           "en": "Sir Archibald Campbell",
           "as": "ছাৰ আৰ্চিবল্ড কেম্পবেল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "David Scott was appointed the first British Agent of Assam.",
         "as": "ডেভিড স্কটক অসমৰ প্ৰথম ব্ৰিটিছ এজেণ্ট হিচাপে নিযুক্ত কৰা হৈছিল।"
@@ -407,8 +407,8 @@
       "answer_as": "কমিছনাৰ (আয়ুক্ত)।",
       "options": [
         {
-          "en": "Chief Commissioner",
-          "as": "মুখ্য আয়ুক্ত"
+          "en": "Commissioner",
+          "as": "কমিছনাৰ (আয়ুক্ত)"
         },
         {
           "en": "Governor",
@@ -419,11 +419,11 @@
           "as": "ৰেচিডেণ্ট"
         },
         {
-          "en": "Commissioner",
-          "as": "কমিছনাৰ (আয়ুক্ত)"
+          "en": "Chief Commissioner",
+          "as": "মুখ্য আয়ুক্ত"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "David Scott's later official title in Assam was Commissioner.",
         "as": "অসমত ডেভিড স্কটৰ পৰৱৰ্তী চৰকাৰী পদবি আছিল কমিছনাৰ (আয়ুক্ত)।"
@@ -501,19 +501,19 @@
           "as": "গৌৰীনাথ সিংহ"
         },
         {
-          "en": "Kamaleswar Singha",
-          "as": "কমলেশ্বৰ সিংহ"
-        },
-        {
           "en": "Purandar Singha",
           "as": "পুৰন্দৰ সিংহ"
+        },
+        {
+          "en": "Kamaleswar Singha",
+          "as": "কমলেশ্বৰ সিংহ"
         },
         {
           "en": "Chandrakanta Singha",
           "as": "চন্দ্ৰকান্ত সিংহ"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Purandar Singha was restored as the tributary king of Upper Assam in 1833.",
         "as": "১৮৩৩ চনত পুৰন্দৰ সিংহক উজনি অসমৰ সামন্ত ৰজা হিচাপে পুনৰ স্থাপিত কৰা হৈছিল।"
@@ -535,15 +535,15 @@
           "as": "১৮৩৫"
         },
         {
-          "en": "1838",
-          "as": "১৮৩৮"
-        },
-        {
           "en": "1842",
           "as": "১৮৪২"
+        },
+        {
+          "en": "1838",
+          "as": "১৮৩৮"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Purandar Singha was deposed by the British in 1838.",
         "as": "ব্ৰিটিছসকলে ১৮৩৮ চনত পুৰন্দৰ সিংহক পদচ্যুত কৰিছিল।"
@@ -557,8 +557,8 @@
       "answer_as": "ৰাজসোণ (কৰ) পৰিশোধ কৰাত ব্যৰ্থ হোৱা বাবে।",
       "options": [
         {
-          "en": "For failing to pay the tribute",
-          "as": "ৰাজসোণ (কৰ) পৰিশোধ কৰাত ব্যৰ্থ হোৱা বাবে"
+          "en": "For rebelling against the British",
+          "as": "ব্ৰিটিছৰ বিৰুদ্ধে বিদ্ৰোহ কৰা বাবে"
         },
         {
           "en": "For refusing to accept a British resident",
@@ -569,11 +569,11 @@
           "as": "বাৰ্মাৰ সৈতে মিত্ৰতা কৰা বাবে"
         },
         {
-          "en": "For rebelling against the British",
-          "as": "ব্ৰিটিছৰ বিৰুদ্ধে বিদ্ৰোহ কৰা বাবে"
+          "en": "For failing to pay the tribute",
+          "as": "ৰাজসোণ (কৰ) পৰিশোধ কৰাত ব্যৰ্থ হোৱা বাবে"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Purandar Singha was deposed in 1838 for failing to pay the tribute.",
         "as": "১৮৩৮ চনত ৰাজসোণ (কৰ) পৰিশোধ কৰাত ব্যৰ্থ হোৱা বাবে পুৰন্দৰ সিংহক পদচ্যুত কৰা হৈছিল।"
@@ -591,19 +591,19 @@
           "as": "কছাৰী ৰাজবংশ"
         },
         {
-          "en": "The Chutia dynasty",
-          "as": "চুতীয়া ৰাজবংশ"
+          "en": "The Ahom dynasty",
+          "as": "আহোম ৰাজবংশ"
         },
         {
           "en": "The Koch dynasty",
           "as": "কোচ ৰাজবংশ"
         },
         {
-          "en": "The Ahom dynasty",
-          "as": "আহোম ৰাজবংশ"
+          "en": "The Chutia dynasty",
+          "as": "চুতীয়া ৰাজবংশ"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The deposition of Purandar Singha in 1838 ended the Ahom dynasty.",
         "as": "১৮৩৮ চনত পুৰন্দৰ সিংহৰ পদচ্যুতিয়ে আহোম ৰাজবংশৰ সমাপ্তি ঘটাইছিল।"
@@ -625,15 +625,15 @@
           "as": "মাদ্ৰাজ প্ৰেছিডেন্সি"
         },
         {
-          "en": "The Bengal Presidency",
-          "as": "বেংগল প্ৰেছিডেন্সি"
-        },
-        {
           "en": "The Punjab Presidency",
           "as": "পাঞ্জাব প্ৰেছিডেন্সি"
+        },
+        {
+          "en": "The Bengal Presidency",
+          "as": "বেংগল প্ৰেছিডেন্সি"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Assam was initially a part of the Bengal Presidency.",
         "as": "অসম প্ৰথমে বেংগল প্ৰেছিডেন্সিৰ অন্তৰ্ভুক্ত আছিল।"
@@ -647,12 +647,12 @@
       "answer_as": "১৮৭৪ চনত।",
       "options": [
         {
-          "en": "1861",
-          "as": "১৮৬১"
-        },
-        {
           "en": "1874",
           "as": "১৮৭৪"
+        },
+        {
+          "en": "1861",
+          "as": "১৮৬১"
         },
         {
           "en": "1881",
@@ -663,7 +663,7 @@
           "as": "১৮৭২"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Assam was made a separate Chief Commissioner's Province in 1874.",
         "as": "১৮৭৪ চনত অসমক সুকীয়া মুখ্য আয়ুক্ত-শাসিত প্ৰদেশ ঘোষণা কৰা হৈছিল।"
@@ -677,23 +677,23 @@
       "answer_as": "শ্বিলং।",
       "options": [
         {
-          "en": "Dispur",
-          "as": "দিছপুৰ"
+          "en": "Shillong",
+          "as": "শ্বিলং"
         },
         {
           "en": "Jorhat",
           "as": "যোৰহাট"
         },
         {
-          "en": "Shillong",
-          "as": "শ্বিলং"
+          "en": "Dispur",
+          "as": "দিছপুৰ"
         },
         {
           "en": "Guwahati",
           "as": "গুৱাহাটী"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Shillong was the capital of Assam when it became a separate province in 1874.",
         "as": "১৮৭৪ চনত অসম সুকীয়া প্ৰদেশ হোৱাত শ্বিলং তাৰ ৰাজধানী আছিল।"
@@ -711,19 +711,19 @@
           "as": "ডেভিড স্কট"
         },
         {
-          "en": "Colonel R.H. Keatinge",
-          "as": "কৰ্ণেল আৰ. এইচ. কিটিং"
+          "en": "Sir Archibald Campbell",
+          "as": "ছাৰ আৰ্চিবল্ড কেম্পবেল"
         },
         {
           "en": "Sir Edward Paget",
           "as": "ছাৰ এডৱাৰ্ড পেজেট"
         },
         {
-          "en": "Sir Archibald Campbell",
-          "as": "ছাৰ আৰ্চিবল্ড কেম্পবেল"
+          "en": "Colonel R.H. Keatinge",
+          "as": "কৰ্ণেল আৰ. এইচ. কিটিং"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Colonel R.H. Keatinge was the first Chief Commissioner of Assam.",
         "as": "কৰ্ণেল আৰ. এইচ. কিটিং অসমৰ প্ৰথম মুখ্য আয়ুক্ত আছিল।"
@@ -771,19 +771,19 @@
           "as": "১৮৩৩"
         },
         {
-          "en": "1835",
-          "as": "১৮৩৫"
-        },
-        {
           "en": "1832",
           "as": "১৮৩২"
+        },
+        {
+          "en": "1835",
+          "as": "১৮৩৫"
         },
         {
           "en": "1838",
           "as": "১৮৩৮"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Jaintia was annexed by the British in 1835.",
         "as": "ব্ৰিটিছসকলে ১৮৩৫ চনত জয়ন্তীয়া অধিগ্ৰহণ কৰিছিল।"
@@ -801,19 +801,19 @@
           "as": "১৮৩৫"
         },
         {
-          "en": "1833",
-          "as": "১৮৩৩"
+          "en": "1832",
+          "as": "১৮৩২"
         },
         {
           "en": "1828",
           "as": "১৮২৮"
         },
         {
-          "en": "1832",
-          "as": "১৮৩২"
+          "en": "1833",
+          "as": "১৮৩৩"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Khasi hills were annexed by the British in 1833.",
         "as": "ব্ৰিটিছসকলে ১৮৩৩ চনত খাছি পাহাৰ অধিগ্ৰহণ কৰিছিল।"
@@ -831,19 +831,19 @@
           "as": "কৰ্ণেল আৰ. এইচ. কিটিঙৰ শাসনকালত"
         },
         {
-          "en": "David Scott's administration",
-          "as": "ডেভিড স্কটৰ শাসনকালত"
-        },
-        {
           "en": "Sir Archibald Campbell's administration",
           "as": "ছাৰ আৰ্চিবল্ড কেম্পবেলৰ শাসনকালত"
+        },
+        {
+          "en": "David Scott's administration",
+          "as": "ডেভিড স্কটৰ শাসনকালত"
         },
         {
           "en": "Purandar Singha's administration",
           "as": "পুৰন্দৰ সিংহৰ শাসনকালত"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Khasi hills were annexed during David Scott's administration.",
         "as": "ডেভিড স্কটৰ শাসনকালত খাছি পাহাৰ অধিগৃহীত হৈছিল।"
@@ -857,8 +857,8 @@
       "answer_as": "প্ৰথম ইংৰাজ-বাৰ্মা যুদ্ধ।",
       "options": [
         {
-          "en": "The Third Anglo-Burmese War",
-          "as": "তৃতীয় ইংৰাজ-বাৰ্মা যুদ্ধ"
+          "en": "The First Anglo-Burmese War",
+          "as": "প্ৰথম ইংৰাজ-বাৰ্মা যুদ্ধ"
         },
         {
           "en": "The Second Anglo-Burmese War",
@@ -869,11 +869,11 @@
           "as": "ইংৰাজ-আহোম যুদ্ধ"
         },
         {
-          "en": "The First Anglo-Burmese War",
-          "as": "প্ৰথম ইংৰাজ-বাৰ্মা যুদ্ধ"
+          "en": "The Third Anglo-Burmese War",
+          "as": "তৃতীয় ইংৰাজ-বাৰ্মা যুদ্ধ"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The First Anglo-Burmese War ended with the Treaty of Yandabo.",
         "as": "প্ৰথম ইংৰাজ-বাৰ্মা যুদ্ধ য়াণ্ডাবু সন্ধিৰ দ্বাৰা সমাপ্ত হৈছিল।"
@@ -921,19 +921,19 @@
           "as": "নহয়, ই ছালৱিন নদীৰ পাৰত অৱস্থিত"
         },
         {
-          "en": "No, it is on the Irrawaddy river",
-          "as": "নহয়, ই ইৰাৱদী নদীৰ পাৰত অৱস্থিত"
+          "en": "Yes, it is on the Brahmaputra river",
+          "as": "হয়, ই ব্ৰহ্মপুত্ৰ নদীৰ পাৰত অৱস্থিত"
         },
         {
           "en": "No, it is on the Chindwin river",
           "as": "নহয়, ই চিন্দৱিন নদীৰ পাৰত অৱস্থিত"
         },
         {
-          "en": "Yes, it is on the Brahmaputra river",
-          "as": "হয়, ই ব্ৰহ্মপুত্ৰ নদীৰ পাৰত অৱস্থিত"
+          "en": "No, it is on the Irrawaddy river",
+          "as": "নহয়, ই ইৰাৱদী নদীৰ পাৰত অৱস্থিত"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Yandabo is not on the Brahmaputra; it is on the Irrawaddy river.",
         "as": "য়াণ্ডাবু ব্ৰহ্মপুত্ৰ নদীৰ পাৰত নহয়, ই ইৰাৱদী নদীৰ পাৰত অৱস্থিত।"
@@ -977,23 +977,23 @@
       "answer_as": "নহয়, ১৮৩৩ চনত তেওঁ পুনৰ স্থাপিত হৈছিল; ১৮৩৮ চনত পদচ্যুত হৈছিল।",
       "options": [
         {
-          "en": "No, in 1833 he was restored; he was deposed in 1838",
-          "as": "নহয়, ১৮৩৩ চনত তেওঁ পুনৰ স্থাপিত হৈছিল; ১৮৩৮ চনত পদচ্যুত হৈছিল"
+          "en": "No, he was deposed in 1842",
+          "as": "নহয়, তেওঁ ১৮৪২ চনত পদচ্যুত হৈছিল"
         },
         {
           "en": "No, he was deposed in 1835",
           "as": "নহয়, তেওঁ ১৮৩৫ চনত পদচ্যুত হৈছিল"
         },
         {
-          "en": "No, he was deposed in 1842",
-          "as": "নহয়, তেওঁ ১৮৪২ চনত পদচ্যুত হৈছিল"
+          "en": "No, in 1833 he was restored; he was deposed in 1838",
+          "as": "নহয়, ১৮৩৩ চনত তেওঁ পুনৰ স্থাপিত হৈছিল; ১৮৩৮ চনত পদচ্যুত হৈছিল"
         },
         {
           "en": "Yes, he was deposed in 1833",
           "as": "হয়, তেওঁ ১৮৩৩ চনত পদচ্যুত হৈছিল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "In 1833 Purandar Singha was restored, not deposed; he was deposed in 1838.",
         "as": "১৮৩৩ চনত পুৰন্দৰ সিংহ পুনৰ স্থাপিত হৈছিল, পদচ্যুত হোৱা নাছিল; তেওঁ ১৮৩৮ চনত পদচ্যুত হৈছিল।"
@@ -1045,15 +1045,15 @@
           "as": "নহয়, ই বম্বে প্ৰেছিডেন্সিৰ অন্তৰ্ভুক্ত আছিল"
         },
         {
-          "en": "No, it was part of the Punjab Presidency",
-          "as": "নহয়, ই পাঞ্জাব প্ৰেছিডেন্সিৰ অন্তৰ্ভুক্ত আছিল"
-        },
-        {
           "en": "No, it was part of the Bengal Presidency",
           "as": "নহয়, ই বেংগল প্ৰেছিডেন্সিৰ অন্তৰ্ভুক্ত আছিল"
+        },
+        {
+          "en": "No, it was part of the Punjab Presidency",
+          "as": "নহয়, ই পাঞ্জাব প্ৰেছিডেন্সিৰ অন্তৰ্ভুক্ত আছিল"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Assam was not part of the Madras Presidency; it was part of the Bengal Presidency.",
         "as": "অসম মাদ্ৰাজ প্ৰেছিডেন্সিৰ অন্তৰ্ভুক্ত নাছিল; ই বেংগল প্ৰেছিডেন্সিৰ অন্তৰ্ভুক্ত আছিল।"
@@ -1101,19 +1101,19 @@
           "as": "নহয়, কাছাৰ ১৮৩৩ চনত অধিগৃহীত হৈছিল"
         },
         {
-          "en": "No, Cachar was annexed in 1828",
-          "as": "নহয়, কাছাৰ ১৮২৮ চনত অধিগৃহীত হৈছিল"
+          "en": "No, Cachar was annexed in 1832",
+          "as": "নহয়, কাছাৰ ১৮৩২ চনত অধিগৃহীত হৈছিল"
         },
         {
           "en": "Yes, Cachar was annexed in 1835",
           "as": "হয়, কাছাৰ ১৮৩৫ চনত অধিগৃহীত হৈছিল"
         },
         {
-          "en": "No, Cachar was annexed in 1832",
-          "as": "নহয়, কাছাৰ ১৮৩২ চনত অধিগৃহীত হৈছিল"
+          "en": "No, Cachar was annexed in 1828",
+          "as": "নহয়, কাছাৰ ১৮২৮ চনত অধিগৃহীত হৈছিল"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Cachar was not annexed in 1835; it was annexed in 1832.",
         "as": "কাছাৰ ১৮৩৫ চনত অধিগৃহীত হোৱা নাছিল; ই ১৮৩২ চনত অধিগৃহীত হৈছিল।"
@@ -1131,19 +1131,19 @@
           "as": "নহয়, জয়ন্তীয়া ১৮৩৩ চনত অধিগৃহীত হৈছিল"
         },
         {
-          "en": "No, Jaintia was annexed in 1835",
-          "as": "নহয়, জয়ন্তীয়া ১৮৩৫ চনত অধিগৃহীত হৈছিল"
+          "en": "Yes, Jaintia was annexed in 1832",
+          "as": "হয়, জয়ন্তীয়া ১৮৩২ চনত অধিগৃহীত হৈছিল"
         },
         {
           "en": "No, Jaintia was annexed in 1838",
           "as": "নহয়, জয়ন্তীয়া ১৮৩৮ চনত অধিগৃহীত হৈছিল"
         },
         {
-          "en": "Yes, Jaintia was annexed in 1832",
-          "as": "হয়, জয়ন্তীয়া ১৮৩২ চনত অধিগৃহীত হৈছিল"
+          "en": "No, Jaintia was annexed in 1835",
+          "as": "নহয়, জয়ন্তীয়া ১৮৩৫ চনত অধিগৃহীত হৈছিল"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Jaintia was not annexed in 1832; it was annexed in 1835.",
         "as": "জয়ন্তীয়া ১৮৩২ চনত অধিগৃহীত হোৱা নাছিল; ই ১৮৩৫ চনত অধিগৃহীত হৈছিল।"
@@ -1161,19 +1161,19 @@
           "as": "নহয়, খাছি পাহাৰ ১৮২৮ চনত অধিগৃহীত হৈছিল"
         },
         {
-          "en": "Yes, the Khasi hills were annexed in 1835",
-          "as": "হয়, খাছি পাহাৰ ১৮৩৫ চনত অধিগৃহীত হৈছিল"
-        },
-        {
           "en": "No, the Khasi hills were annexed in 1833",
           "as": "নহয়, খাছি পাহাৰ ১৮৩৩ চনত অধিগৃহীত হৈছিল"
+        },
+        {
+          "en": "Yes, the Khasi hills were annexed in 1835",
+          "as": "হয়, খাছি পাহাৰ ১৮৩৫ চনত অধিগৃহীত হৈছিল"
         },
         {
           "en": "No, the Khasi hills were annexed in 1832",
           "as": "নহয়, খাছি পাহাৰ ১৮৩২ চনত অধিগৃহীত হৈছিল"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Khasi hills were not annexed in 1835; they were annexed in 1833.",
         "as": "খাছি পাহাৰ ১৮৩৫ চনত অধিগৃহীত হোৱা নাছিল; ই ১৮৩৩ চনত অধিগৃহীত হৈছিল।"
@@ -1221,19 +1221,19 @@
           "as": "হয়, ই ১৮২৫ চনৰ ২৪ ফেব্ৰুৱাৰীত স্বাক্ষৰিত হৈছিল"
         },
         {
-          "en": "No, it was signed on 24 February 1827",
-          "as": "নহয়, ই ১৮২৭ চনৰ ২৪ ফেব্ৰুৱাৰীত স্বাক্ষৰিত হৈছিল"
+          "en": "No, it was signed on 24 February 1826",
+          "as": "নহয়, ই ১৮২৬ চনৰ ২৪ ফেব্ৰুৱাৰীত স্বাক্ষৰিত হৈছিল"
         },
         {
           "en": "No, it was signed on 24 February 1824",
           "as": "নহয়, ই ১৮২৪ চনৰ ২৪ ফেব্ৰুৱাৰীত স্বাক্ষৰিত হৈছিল"
         },
         {
-          "en": "No, it was signed on 24 February 1826",
-          "as": "নহয়, ই ১৮২৬ চনৰ ২৪ ফেব্ৰুৱাৰীত স্বাক্ষৰিত হৈছিল"
+          "en": "No, it was signed on 24 February 1827",
+          "as": "নহয়, ই ১৮২৭ চনৰ ২৪ ফেব্ৰুৱাৰীত স্বাক্ষৰিত হৈছিল"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The treaty was not signed on 24 February 1825; it was signed on 24 February 1826.",
         "as": "সন্ধি ১৮২৫ চনৰ ২৪ ফেব্ৰুৱাৰীত স্বাক্ষৰিত হোৱা নাছিল; ই ১৮২৬ চনৰ ২৪ ফেব্ৰুৱাৰীত স্বাক্ষৰিত হৈছিল।"
@@ -1251,19 +1251,19 @@
           "as": "হয়, চন্দ্ৰকান্ত সিংহ আছিল"
         },
         {
-          "en": "No, it was Gaurinath Singha",
-          "as": "নহয়, গৌৰীনাথ সিংহ আছিল"
+          "en": "No, it was Purandar Singha",
+          "as": "নহয়, পুৰন্দৰ সিংহ আছিল"
         },
         {
           "en": "No, it was Kamaleswar Singha",
           "as": "নহয়, কমলেশ্বৰ সিংহ আছিল"
         },
         {
-          "en": "No, it was Purandar Singha",
-          "as": "নহয়, পুৰন্দৰ সিংহ আছিল"
+          "en": "No, it was Gaurinath Singha",
+          "as": "নহয়, গৌৰীনাথ সিংহ আছিল"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Chandrakanta Singha was not the king restored in 1833; it was Purandar Singha.",
         "as": "১৮৩৩ চনত পুনৰ স্থাপিত ৰজা চন্দ্ৰকান্ত সিংহ নাছিল; তেওঁ আছিল পুৰন্দৰ সিংহ।"
@@ -1311,19 +1311,19 @@
           "as": "নহয়, তেওঁ কৰ্ণেল আৰ. এইচ. কিটিং আছিল"
         },
         {
-          "en": "No, he was General Arthur Wellesley",
-          "as": "নহয়, তেওঁ জেনেৰেল আৰ্থাৰ ৱেলেছলি আছিল"
-        },
-        {
           "en": "No, he was Sir Archibald Campbell",
           "as": "নহয়, তেওঁ আছিল ছাৰ আৰ্চিবল্ড কেম্পবেল"
+        },
+        {
+          "en": "No, he was General Arthur Wellesley",
+          "as": "নহয়, তেওঁ জেনেৰেল আৰ্থাৰ ৱেলেছলি আছিল"
         },
         {
           "en": "Yes, he was Sir Edward Paget",
           "as": "হয়, তেওঁ ছাৰ এডৱাৰ্ড পেজেট আছিল"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The general who signed the treaty was Sir Archibald Campbell, not Sir Edward Paget.",
         "as": "সন্ধিত স্বাক্ষৰ কৰা জেনেৰেল আছিল ছাৰ আৰ্চিবল্ড কেম্পবেল, ছাৰ এডৱাৰ্ড পেজেট নহয়।"
@@ -1341,19 +1341,19 @@
           "as": "নহয়, ক্ষতিপূৰণ দহ লাখ টকা আছিল"
         },
         {
-          "en": "No, the indemnity was one crore rupees",
-          "as": "নহয়, ক্ষতিপূৰণ আছিল এক কোটি টকা"
+          "en": "No, the indemnity was fifty lakh rupees",
+          "as": "নহয়, ক্ষতিপূৰণ পঞ্চাশ লাখ টকা আছিল"
         },
         {
           "en": "Yes, the indemnity was one lakh rupees",
           "as": "হয়, ক্ষতিপূৰণ এক লাখ টকা আছিল"
         },
         {
-          "en": "No, the indemnity was fifty lakh rupees",
-          "as": "নহয়, ক্ষতিপূৰণ পঞ্চাশ লাখ টকা আছিল"
+          "en": "No, the indemnity was one crore rupees",
+          "as": "নহয়, ক্ষতিপূৰণ আছিল এক কোটি টকা"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The indemnity was not one lakh rupees; it was one crore rupees.",
         "as": "ক্ষতিপূৰণ এক লাখ টকা নাছিল; ই আছিল এক কোটি টকা।"
@@ -1375,15 +1375,15 @@
           "as": "বাৰ্মী ৰাজপৰিয়ালক সমৰ্পণ কৰা"
         },
         {
-          "en": "To receive a British envoy at Ava",
-          "as": "আভাত এজন ব্ৰিটিছ ৰাজদূত গ্ৰহণ কৰা"
-        },
-        {
           "en": "To accept British suzerainty over all Burma",
           "as": "সমগ্ৰ বাৰ্মাৰ ওপৰত ব্ৰিটিছৰ অধিপত্য স্বীকাৰ কৰা"
+        },
+        {
+          "en": "To receive a British envoy at Ava",
+          "as": "আভাত এজন ব্ৰিটিছ ৰাজদূত গ্ৰহণ কৰা"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Besides the indemnity, Burma had to receive a British envoy at Ava.",
         "as": "ক্ষতিপূৰণৰ উপৰিও বাৰ্মাই আভাত এজন ব্ৰিটিছ ৰাজদূত গ্ৰহণ কৰিব লগা হৈছিল।"
@@ -1397,12 +1397,12 @@
       "answer_as": "ডেভিড স্কট, অসমৰ প্ৰথম ব্ৰিটিছ এজেণ্ট।",
       "options": [
         {
-          "en": "David Scott, the first British Agent of Assam",
-          "as": "ডেভিড স্কট, অসমৰ প্ৰথম ব্ৰিটিছ এজেণ্ট"
-        },
-        {
           "en": "Colonel R.H. Keatinge, the first Chief Commissioner",
           "as": "কৰ্ণেল আৰ. এইচ. কিটিং, প্ৰথম মুখ্য আয়ুক্ত"
+        },
+        {
+          "en": "David Scott, the first British Agent of Assam",
+          "as": "ডেভিড স্কট, অসমৰ প্ৰথম ব্ৰিটিছ এজেণ্ট"
         },
         {
           "en": "Purandar Singha, the restored tributary king",
@@ -1413,7 +1413,7 @@
           "as": "ছাৰ আৰ্চিবল্ড কেম্পবেল, সন্ধিত স্বাক্ষৰ কৰা জেনেৰেল"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "David Scott, the first British Agent of Assam, administered the newly acquired territories after 1826.",
         "as": "অসমৰ প্ৰথম ব্ৰিটিছ এজেণ্ট ডেভিড স্কটে ১৮২৬ চনৰ পিছত নতুন অধিগৃহীত অঞ্চলসমূহ পৰিচালনা কৰিছিল।"
@@ -1427,8 +1427,8 @@
       "answer_as": "তলৰ অসম ১৮২৮ চনত, আৰু উজনি অসম পিছত।",
       "options": [
         {
-          "en": "Lower Assam in 1832, and Upper Assam in 1838",
-          "as": "তলৰ অসম ১৮৩২ চনত, আৰু উজনি অসম ১৮৩৮ চনত"
+          "en": "Lower Assam in 1828, and Upper Assam later",
+          "as": "তলৰ অসম ১৮২৮ চনত, আৰু উজনি অসম পিছত"
         },
         {
           "en": "Upper Assam in 1828, and Lower Assam later",
@@ -1439,11 +1439,11 @@
           "as": "১৮২৬ চনত তলৰ আৰু উজনি অসম একেলগে"
         },
         {
-          "en": "Lower Assam in 1828, and Upper Assam later",
-          "as": "তলৰ অসম ১৮২৮ চনত, আৰু উজনি অসম পিছত"
+          "en": "Lower Assam in 1832, and Upper Assam in 1838",
+          "as": "তলৰ অসম ১৮৩২ চনত, আৰু উজনি অসম ১৮৩৮ চনত"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Lower Assam came under British administration in 1828 and Upper Assam later.",
         "as": "তলৰ অসম ১৮২৮ চনত আৰু উজনি অসম তাৰ পিছত ব্ৰিটিছ শাসনলৈ আহিছিল।"

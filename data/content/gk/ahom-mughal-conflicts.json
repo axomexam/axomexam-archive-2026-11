@@ -55,15 +55,15 @@
           "as": "ইটাখুলি"
         },
         {
-          "en": "Samdhara",
-          "as": "সামধৰা"
-        },
-        {
           "en": "Ghilajharighat",
           "as": "ঘিলাঝাৰিঘাট"
+        },
+        {
+          "en": "Samdhara",
+          "as": "সামধৰা"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The first major armed conflict between the Ahoms and the Mughals was fought at Samdhara in 1615.",
         "as": "আহোম আৰু মোগলৰ মাজত প্ৰথম মুখ্য সশস্ত্ৰ সংঘৰ্ষ ১৬১৫ চনত সামধৰাত হৈছিল।"
@@ -77,12 +77,12 @@
       "answer_as": "১৬১৫",
       "options": [
         {
-          "en": "1615",
-          "as": "১৬১৫"
-        },
-        {
           "en": "1639",
           "as": "১৬৩৯"
+        },
+        {
+          "en": "1615",
+          "as": "১৬১৫"
         },
         {
           "en": "1662",
@@ -93,7 +93,7 @@
           "as": "১৬৭১"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Battle of Samdhara was fought in 1615, marking the beginning of the Ahom-Mughal conflicts.",
         "as": "সামধৰাৰ যুদ্ধ ১৬১৫ চনত হৈছিল, যিয়ে আহোম-মোগল সংঘৰ্ষৰ আৰম্ভণি চিহ্নিত কৰে।"
@@ -205,15 +205,15 @@
           "as": "কোচসকল"
         },
         {
-          "en": "The Mughals",
-          "as": "মোগলসকল"
-        },
-        {
           "en": "The Kacharis",
           "as": "কছাৰীসকল"
+        },
+        {
+          "en": "The Mughals",
+          "as": "মোগলসকল"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Treaty of Asurar Ali was signed between the Ahoms and the Mughals in 1639.",
         "as": "আসুৰাৰ আলিৰ সন্ধি ১৬৩৯ চনত আহোম আৰু মোগলসকলৰ মাজত স্বাক্ষৰিত হৈছিল।"
@@ -227,8 +227,8 @@
       "answer_as": "বংগ",
       "options": [
         {
-          "en": "Bengal",
-          "as": "বংগ"
+          "en": "Assam",
+          "as": "অসম"
         },
         {
           "en": "Bihar",
@@ -239,11 +239,11 @@
           "as": "উৰিষ্যা"
         },
         {
-          "en": "Assam",
-          "as": "অসম"
+          "en": "Bengal",
+          "as": "বংগ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Mir Jumla was the Subedar (governor) of Bengal before he invaded Assam.",
         "as": "মিৰ জুমলা অসম আক্ৰমণ কৰাৰ আগতে বংগৰ চুবেদাৰ (গৱৰ্ণৰ) আছিল।"
@@ -261,19 +261,19 @@
           "as": "১৬১৫"
         },
         {
-          "en": "1639",
-          "as": "১৬৩৯"
+          "en": "1662",
+          "as": "১৬৬২"
         },
         {
           "en": "1663",
           "as": "১৬৬৩"
         },
         {
-          "en": "1662",
-          "as": "১৬৬২"
+          "en": "1639",
+          "as": "১৬৩৯"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Mir Jumla invaded Assam in 1662 during the reign of the Ahom king Jayadhwaj Singha.",
         "as": "মিৰ জুমলাই ১৬৬২ চনত আহোম ৰজা জয়ধ্বজ সিংহৰ ৰাজত্বকালত অসম আক্ৰমণ কৰিছিল।"
@@ -291,19 +291,19 @@
           "as": "প্ৰতাপ সিংহ"
         },
         {
-          "en": "Jayadhwaj Singha",
-          "as": "জয়ধ্বজ সিংহ"
-        },
-        {
           "en": "Chakradhwaj Singha",
           "as": "চক্ৰধ্বজ সিংহ"
+        },
+        {
+          "en": "Jayadhwaj Singha",
+          "as": "জয়ধ্বজ সিংহ"
         },
         {
           "en": "Gadadhar Singha",
           "as": "গদাধৰ সিংহ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Jayadhwaj Singha was the Ahom king when Mir Jumla invaded Assam in 1662.",
         "as": "১৬৬২ চনত মিৰ জুমলাই অসম আক্ৰমণ কৰোঁতে জয়ধ্বজ সিংহ আহোম ৰজা আছিল।"
@@ -325,15 +325,15 @@
           "as": "যোৰহাট"
         },
         {
-          "en": "Guwahati",
-          "as": "গুৱাহাটী"
-        },
-        {
           "en": "Garhgaon",
           "as": "গড়গাঁও"
+        },
+        {
+          "en": "Guwahati",
+          "as": "গুৱাহাটী"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "During Mir Jumla's invasion, Jayadhwaj Singha fled from his capital Garhgaon.",
         "as": "মিৰ জুমলাৰ আক্ৰমণৰ সময়ত জয়ধ্বজ সিংহ নিজৰ ৰাজধানী গড়গাঁৱৰ পৰা পলাই গৈছিল।"
@@ -347,12 +347,12 @@
       "answer_as": "১৬৬৩",
       "options": [
         {
-          "en": "1662",
-          "as": "১৬৬২"
-        },
-        {
           "en": "1663",
           "as": "১৬৬৩"
+        },
+        {
+          "en": "1662",
+          "as": "১৬৬২"
         },
         {
           "en": "1671",
@@ -363,7 +363,7 @@
           "as": "১৬৮২"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Mir Jumla died in 1663 at Khizrpur while returning from Assam.",
         "as": "মিৰ জুমলা ১৬৬৩ চনত অসমৰ পৰা উভতি যাওঁতে খিজিৰপুৰত মৃত্যুবৰণ কৰিছিল।"
@@ -407,8 +407,8 @@
       "answer_as": "হাতী",
       "options": [
         {
-          "en": "Elephants",
-          "as": "হাতী"
+          "en": "Rice",
+          "as": "চাউল"
         },
         {
           "en": "Horses",
@@ -419,11 +419,11 @@
           "as": "সোণ"
         },
         {
-          "en": "Rice",
-          "as": "চাউল"
+          "en": "Elephants",
+          "as": "হাতী"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Under the Treaty of Ghilajharighat, the Ahoms agreed to pay an annual tribute that included elephants.",
         "as": "ঘিলাঝাৰিঘাটৰ সন্ধি অনুসৰি আহোমসকলে বাৰ্ষিক ৰাজহ হিচাপে হাতী দিবলৈ সন্মত হৈছিল।"
@@ -437,8 +437,8 @@
       "answer_as": "ৰমণী গাভৰু",
       "options": [
         {
-          "en": "Mula Gabharu",
-          "as": "মুলা গাভৰু"
+          "en": "Ramani Gabharu",
+          "as": "ৰমণী গাভৰু"
         },
         {
           "en": "Pijou Gabharu",
@@ -449,11 +449,11 @@
           "as": "বৰদ্বী গাভৰু"
         },
         {
-          "en": "Ramani Gabharu",
-          "as": "ৰমণী গাভৰু"
+          "en": "Mula Gabharu",
+          "as": "মুলা গাভৰু"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Ramani Gabharu was the Ahom princess sent to the Mughal harem after the Treaty of Ghilajharighat.",
         "as": "ৰমণী গাভৰু ঘিলাঝাৰিঘাটৰ সন্ধিৰ পিছত মোগল হাৰেমলৈ পঠিওৱা আহোম ৰাজকুমাৰী আছিল।"
@@ -505,15 +505,15 @@
           "as": "১৬৩৯"
         },
         {
-          "en": "1682",
-          "as": "১৬৮২"
-        },
-        {
           "en": "1671",
           "as": "১৬৭১"
+        },
+        {
+          "en": "1682",
+          "as": "১৬৮২"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Battle of Saraighat was fought in 1671 between the Ahoms and the Mughals.",
         "as": "সৰাইঘাটৰ যুদ্ধ ১৬৭১ চনত আহোম আৰু মোগলসকলৰ মাজত হৈছিল।"
@@ -527,8 +527,8 @@
       "answer_as": "ৰজা ৰাম সিংহ",
       "options": [
         {
-          "en": "Mansur Khan",
-          "as": "মনচুৰ খান"
+          "en": "Raja Ram Singh",
+          "as": "ৰজা ৰাম সিংহ"
         },
         {
           "en": "Mir Jumla",
@@ -539,11 +539,11 @@
           "as": "মুহাম্মদ আজম"
         },
         {
-          "en": "Raja Ram Singh",
-          "as": "ৰজা ৰাম সিংহ"
+          "en": "Mansur Khan",
+          "as": "মনচুৰ খান"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "At the Battle of Saraighat, the Mughal army was led by Raja Ram Singh.",
         "as": "সৰাইঘাটৰ যুদ্ধত মোগল সেনাবাহিনীৰ নেতৃত্ব ৰজা ৰাম সিংহই দিছিল।"
@@ -561,19 +561,19 @@
           "as": "১৬১৫"
         },
         {
-          "en": "1682",
-          "as": "১৬৮২"
+          "en": "1671",
+          "as": "১৬৭১"
         },
         {
           "en": "1662",
           "as": "১৬৬২"
         },
         {
-          "en": "1671",
-          "as": "১৬৭১"
+          "en": "1682",
+          "as": "১৬৮২"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Battle of Itakhuli was fought in 1682, ending Mughal presence in Lower Assam.",
         "as": "ইটাখুলিৰ যুদ্ধ ১৬৮২ চনত হৈছিল, যিয়ে তলৰ অসমত মোগলৰ উপস্থিতিৰ অন্ত পেলাইছিল।"
@@ -587,23 +587,23 @@
       "answer_as": "গদাধৰ সিংহ",
       "options": [
         {
-          "en": "Gadadhar Singha",
-          "as": "গদাধৰ সিংহ"
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
         },
         {
           "en": "Jayadhwaj Singha",
           "as": "জয়ধ্বজ সিংহ"
         },
         {
-          "en": "Chakradhwaj Singha",
-          "as": "চক্ৰধ্বজ সিংহ"
+          "en": "Gadadhar Singha",
+          "as": "গদাধৰ সিংহ"
         },
         {
           "en": "Pratap Singha",
           "as": "প্ৰতাপ সিংহ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Gadadhar Singha was the Ahom king at the time of the Battle of Itakhuli in 1682.",
         "as": "১৬৮২ চনত ইটাখুলিৰ যুদ্ধৰ সময়ত গদাধৰ সিংহ আহোম ৰজা আছিল।"
@@ -651,19 +651,19 @@
           "as": "প্ৰতাপ সিংহ"
         },
         {
-          "en": "Jayadhwaj Singha",
-          "as": "জয়ধ্বজ সিংহ"
+          "en": "Gadadhar Singha",
+          "as": "গদাধৰ সিংহ"
         },
         {
           "en": "Chakradhwaj Singha",
           "as": "চক্ৰধ্বজ সিংহ"
         },
         {
-          "en": "Gadadhar Singha",
-          "as": "গদাধৰ সিংহ"
+          "en": "Jayadhwaj Singha",
+          "as": "জয়ধ্বজ সিংহ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Ramani Gabharu was the daughter of the Ahom king Jayadhwaj Singha.",
         "as": "ৰমণী গাভৰু আহোম ৰজা জয়ধ্বজ সিংহৰ জীয়ৰী আছিল।"
@@ -677,12 +677,12 @@
       "answer_as": "ঔৰংজেৱ",
       "options": [
         {
-          "en": "Aurangzeb",
-          "as": "ঔৰংজেৱ"
-        },
-        {
           "en": "Shah Jahan",
           "as": "শাহজাহান"
+        },
+        {
+          "en": "Aurangzeb",
+          "as": "ঔৰংজেৱ"
         },
         {
           "en": "Jahangir",
@@ -693,7 +693,7 @@
           "as": "আকবৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Mir Jumla served as Subedar of Bengal under the Mughal emperor Aurangzeb.",
         "as": "মিৰ জুমলা মোগল সম্ৰাট ঔৰংজেৱৰ অধীনত বংগৰ চুবেদাৰ আছিল।"
@@ -711,19 +711,19 @@
           "as": "আতন বুঢ়াগোহাঁই"
         },
         {
-          "en": "Lachit Borphukan",
-          "as": "লাচিত বৰফুকন"
-        },
-        {
           "en": "Dihingia Borbarua",
           "as": "ডিহিঙীয়া বৰবৰুৱা"
+        },
+        {
+          "en": "Lachit Borphukan",
+          "as": "লাচিত বৰফুকন"
         },
         {
           "en": "Bagh Hazarika",
           "as": "বাঘ হাজৰিকা"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Lachit Borphukan was the Ahom general who defeated the Mughals at the Battle of Saraighat.",
         "as": "লাচিত বৰফুকন সৰাইঘাটৰ যুদ্ধত মোগলসকলক পৰাস্ত কৰা আহোম সেনাপতি আছিল।"
@@ -771,19 +771,19 @@
           "as": "গুৱাহাটী"
         },
         {
-          "en": "Jorhat",
-          "as": "যোৰহাট"
-        },
-        {
           "en": "Garhgaon",
           "as": "গড়গাঁও"
+        },
+        {
+          "en": "Jorhat",
+          "as": "যোৰহাট"
         },
         {
           "en": "Rangpur",
           "as": "ৰংপুৰ"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "In 1662 Mir Jumla occupied Garhgaon, the Ahom capital.",
         "as": "১৬৬২ চনত মিৰ জুমলাই আহোম ৰাজধানী গড়গাঁও দখল কৰিছিল।"
@@ -835,15 +835,15 @@
           "as": "মিৰ্জা ৰজা জয় সিংহ"
         },
         {
-          "en": "Sayyid Firoz Khan",
-          "as": "ছৈয়দ ফিৰোজ খান"
-        },
-        {
           "en": "Mir Muhammad Sayyid Ardistani",
           "as": "মিৰ মুহাম্মদ ছৈয়দ আৰ্দিস্তানী"
+        },
+        {
+          "en": "Sayyid Firoz Khan",
+          "as": "ছৈয়দ ফিৰোজ খান"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The real name of Mir Jumla was Mir Muhammad Sayyid Ardistani.",
         "as": "মিৰ জুমলাৰ প্ৰকৃত নাম আছিল মিৰ মুহাম্মদ ছৈয়দ আৰ্দিস্তানী।"
@@ -895,15 +895,15 @@
           "as": "চক্ৰধ্বজ সিংহ"
         },
         {
-          "en": "Pratap Singha",
-          "as": "প্ৰতাপ সিংহ"
-        },
-        {
           "en": "Gadadhar Singha",
           "as": "গদাধৰ সিংহ"
+        },
+        {
+          "en": "Pratap Singha",
+          "as": "প্ৰতাপ সিংহ"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Ahom king Pratap Singha was also known by the title 'Burha Raja'.",
         "as": "আহোম ৰজা প্ৰতাপ সিংহক 'বুঢ়া ৰজা' বুলিও জনা যায়।"
@@ -921,19 +921,19 @@
           "as": "ঘিলাঝাৰিঘাটৰ সন্ধি"
         },
         {
-          "en": "Treaty of Asurar Ali (1639)",
-          "as": "আসুৰাৰ আলিৰ সন্ধি (১৬৩৯)"
+          "en": "Treaty of Majuli",
+          "as": "মাজুলীৰ সন্ধি"
         },
         {
           "en": "Treaty of Yandabo",
           "as": "য়াণ্ডাবোৰ সন্ধি"
         },
         {
-          "en": "Treaty of Majuli",
-          "as": "মাজুলীৰ সন্ধি"
+          "en": "Treaty of Asurar Ali (1639)",
+          "as": "আসুৰাৰ আলিৰ সন্ধি (১৬৩৯)"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The boundary at Asurar Ali was fixed by the Treaty of Asurar Ali in 1639.",
         "as": "আসুৰাৰ আলিত সীমা ১৬৩৯ চনৰ আসুৰাৰ আলিৰ সন্ধিৰ দ্বাৰা নিৰ্ধাৰণ কৰা হৈছিল।"
@@ -947,23 +947,23 @@
       "answer_as": "জোৰাবাট (গুৱাহাটীৰ ওচৰত)",
       "options": [
         {
-          "en": "Jorabat (near Guwahati)",
-          "as": "জোৰাবাট (গুৱাহাটীৰ ওচৰত)"
+          "en": "Saraighat",
+          "as": "সৰাইঘাট"
         },
         {
           "en": "Jorhat",
           "as": "যোৰহাট"
         },
         {
-          "en": "Saraighat",
-          "as": "সৰাইঘাট"
+          "en": "Jorabat (near Guwahati)",
+          "as": "জোৰাবাট (গুৱাহাটীৰ ওচৰত)"
         },
         {
           "en": "Samdhara",
           "as": "সামধৰা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Asurar Ali, fixed as the boundary in 1639, is located near Jorabat near Guwahati.",
         "as": "১৬৩৯ চনত সীমা হিচাপে নিৰ্ধাৰিত আসুৰাৰ আলি গুৱাহাটীৰ ওচৰৰ জোৰাবাটত অৱস্থিত।"
@@ -977,12 +977,12 @@
       "answer_as": "প্ৰতাপ সিংহ",
       "options": [
         {
-          "en": "Pratap Singha",
-          "as": "প্ৰতাপ সিংহ"
-        },
-        {
           "en": "Jayadhwaj Singha",
           "as": "জয়ধ্বজ সিংহ"
+        },
+        {
+          "en": "Pratap Singha",
+          "as": "প্ৰতাপ সিংহ"
         },
         {
           "en": "Chakradhwaj Singha",
@@ -993,7 +993,7 @@
           "as": "গদাধৰ সিংহ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Treaty of Asurar Ali was signed in 1639 during the reign of Pratap Singha.",
         "as": "আসুৰাৰ আলিৰ সন্ধি ১৬৩৯ চনত প্ৰতাপ সিংহৰ ৰাজত্বকালত স্বাক্ষৰিত হৈছিল।"
@@ -1007,23 +1007,23 @@
       "answer_as": "মিৰ মুহাম্মদ ছৈয়দ আৰ্দিস্তানী",
       "options": [
         {
-          "en": "Muhammad Azam",
-          "as": "মুহাম্মদ আজম"
+          "en": "Mir Muhammad Sayyid Ardistani",
+          "as": "মিৰ মুহাম্মদ ছৈয়দ আৰ্দিস্তানী"
         },
         {
           "en": "Mirza Raja Jai Singh",
           "as": "মিৰ্জা ৰজা জয় সিংহ"
         },
         {
-          "en": "Mir Muhammad Sayyid Ardistani",
-          "as": "মিৰ মুহাম্মদ ছৈয়দ আৰ্দিস্তানী"
+          "en": "Muhammad Azam",
+          "as": "মুহাম্মদ আজম"
         },
         {
           "en": "Sayyid Firoz Khan",
           "as": "ছৈয়দ ফিৰোজ খান"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Mir Jumla was also known by his original name Mir Muhammad Sayyid Ardistani.",
         "as": "মিৰ জুমলা তেওঁৰ মূল নাম মিৰ মুহাম্মদ ছৈয়দ আৰ্দিস্তানীৰ দ্বাৰাও পৰিচিত আছিল।"
@@ -1037,23 +1037,23 @@
       "answer_as": "নামৰূপ",
       "options": [
         {
-          "en": "Nagaon",
-          "as": "নগাঁও"
+          "en": "Namrup",
+          "as": "নামৰূপ"
         },
         {
           "en": "Jorhat",
           "as": "যোৰহাট"
         },
         {
-          "en": "Namrup",
-          "as": "নামৰূপ"
+          "en": "Nagaon",
+          "as": "নগাঁও"
         },
         {
           "en": "Sivasagar",
           "as": "শিৱসাগৰ"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "During Mir Jumla's invasion, Jayadhwaj Singha fled from Garhgaon to Namrup.",
         "as": "মিৰ জুমলাৰ আক্ৰমণৰ সময়ত জয়ধ্বজ সিংহ গড়গাঁৱৰ পৰা নামৰূপলৈ পলাই গৈছিল।"
@@ -1101,19 +1101,19 @@
           "as": "পূব অঞ্চল"
         },
         {
-          "en": "Southern territories",
-          "as": "দক্ষিণ অঞ্চল"
-        },
-        {
           "en": "Western territories",
           "as": "পশ্চিম অঞ্চল"
+        },
+        {
+          "en": "Southern territories",
+          "as": "দক্ষিণ অঞ্চল"
         },
         {
           "en": "Northern territories",
           "as": "উত্তৰ অঞ্চল"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Under the Treaty of Ghilajharighat, the Ahoms agreed to cede their western territories to the Mughals.",
         "as": "ঘিলাঝাৰিঘাটৰ সন্ধি অনুসৰি আহোমসকলে তেওঁলোকৰ পশ্চিম অঞ্চল মোগলসকলক সমৰ্পণ কৰিব লগা হৈছিল।"
@@ -1127,23 +1127,23 @@
       "answer_as": "মুহাম্মদ আজম",
       "options": [
         {
-          "en": "Dara Shikoh",
-          "as": "দাৰা শিকোহ"
+          "en": "Muhammad Azam",
+          "as": "মুহাম্মদ আজম"
         },
         {
           "en": "Shah Shuja",
           "as": "শাহ চুজা"
         },
         {
-          "en": "Muhammad Azam",
-          "as": "মুহাম্মদ আজম"
+          "en": "Dara Shikoh",
+          "as": "দাৰা শিকোহ"
         },
         {
           "en": "Muazzam",
           "as": "মুআজ্জম"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Ramani Gabharu was married to the Mughal prince Muhammad Azam.",
         "as": "ৰমণী গাভৰু মোগল ৰাজকুমাৰ মুহাম্মদ আজমৰ সৈতে বিবাহপাশত আৱদ্ধ হৈছিল।"
@@ -1157,12 +1157,12 @@
       "answer_as": "ঔৰংজেৱ",
       "options": [
         {
-          "en": "Aurangzeb",
-          "as": "ঔৰংজেৱ"
-        },
-        {
           "en": "Shah Jahan",
           "as": "শাহজাহান"
+        },
+        {
+          "en": "Aurangzeb",
+          "as": "ঔৰংজেৱ"
         },
         {
           "en": "Jahangir",
@@ -1173,7 +1173,7 @@
           "as": "আকবৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Muhammad Azam, who married Ramani Gabharu, was the son of the Mughal emperor Aurangzeb.",
         "as": "ৰমণী গাভৰুৰ সৈতে বিবাহ হোৱা মুহাম্মদ আজম মোগল সম্ৰাট ঔৰংজেৱৰ পুত্ৰ আছিল।"
@@ -1191,19 +1191,19 @@
           "as": "জয়ধ্বজ সিংহ"
         },
         {
-          "en": "Chakradhwaj Singha",
-          "as": "চক্ৰধ্বজ সিংহ"
-        },
-        {
           "en": "Pratap Singha",
           "as": "প্ৰতাপ সিংহ"
+        },
+        {
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
         },
         {
           "en": "Gadadhar Singha",
           "as": "গদাধৰ সিংহ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Chakradhwaj Singha resolved to avenge the humiliation caused by the Treaty of Ghilajharighat.",
         "as": "চক্ৰধ্বজ সিংহই ঘিলাঝাৰিঘাটৰ সন্ধিয়ে দিয়া অপমানৰ প্ৰতিশোধ লোৱাৰ সংকল্প লৈছিল।"
@@ -1221,19 +1221,19 @@
           "as": "তুষাৰপাত, দুৰ্ভিক্ষ আৰু নৌ-অৱৰোধ"
         },
         {
-          "en": "Drought, desertion and a cavalry charge",
-          "as": "খৰাং, সৈন্য-ত্যাগ আৰু অশ্বাৰোহী আক্ৰমণ"
-        },
-        {
           "en": "Monsoon rains, disease and guerrilla resistance",
           "as": "বৰষুণ, ৰোগ আৰু গেৰিলা প্ৰতিৰোধ"
+        },
+        {
+          "en": "Drought, desertion and a cavalry charge",
+          "as": "খৰাং, সৈন্য-ত্যাগ আৰু অশ্বাৰোহী আক্ৰমণ"
         },
         {
           "en": "Floods, treachery and heavy artillery",
           "as": "বানপানী, বিশ্বাসঘাতকতা আৰু গধূৰ কামান"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "During Mir Jumla's invasion the Mughal army suffered terribly from monsoon rains, disease and guerrilla resistance.",
         "as": "মিৰ জুমলাৰ আক্ৰমণৰ সময়ত মোগল সেনাবাহিনীয়ে বৰষুণ, ৰোগ আৰু গেৰিলা প্ৰতিৰোধৰ বাবে যথেষ্ট কষ্ট ভোগ কৰিছিল।"
@@ -1307,23 +1307,23 @@
       "answer_as": "মনচুৰ খান",
       "options": [
         {
-          "en": "Mansur Khan",
-          "as": "মনচুৰ খান"
+          "en": "Mir Jumla",
+          "as": "মিৰ জুমলা"
         },
         {
           "en": "Raja Ram Singh",
           "as": "ৰজা ৰাম সিংহ"
         },
         {
-          "en": "Mir Jumla",
-          "as": "মিৰ জুমলা"
+          "en": "Mansur Khan",
+          "as": "মনচুৰ খান"
         },
         {
           "en": "Muhammad Azam",
           "as": "মুহাম্মদ আজম"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Mughal general Mansur Khan was defeated by the Ahoms at the Battle of Itakhuli in 1682.",
         "as": "১৬৮২ চনত ইটাখুলিৰ যুদ্ধত আহোমসকলে মোগল সেনাপতি মনচুৰ খানক পৰাস্ত কৰিছিল।"
@@ -1337,23 +1337,23 @@
       "answer_as": "সুপাংমুং",
       "options": [
         {
-          "en": "Supangmung",
-          "as": "সুপাংমুং"
+          "en": "Sutamla",
+          "as": "সুতামলা"
         },
         {
           "en": "Supatphaa",
           "as": "সুপাতফা"
         },
         {
-          "en": "Sutamla",
-          "as": "সুতামলা"
+          "en": "Supangmung",
+          "as": "সুপাংমুং"
         },
         {
           "en": "Suhungmung",
           "as": "সুহুংমুং"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The regnal (Ahom) name of Chakradhwaj Singha was Supangmung.",
         "as": "চক্ৰধ্বজ সিংহৰ আহোম ৰাজকীয় নাম আছিল সুপাংমুং।"
@@ -1367,12 +1367,12 @@
       "answer_as": "সুপাতফা",
       "options": [
         {
-          "en": "Supatphaa",
-          "as": "সুপাতফা"
-        },
-        {
           "en": "Supangmung",
           "as": "সুপাংমুং"
+        },
+        {
+          "en": "Supatphaa",
+          "as": "সুপাতফা"
         },
         {
           "en": "Sutamla",
@@ -1383,7 +1383,7 @@
           "as": "সুহুংমুং"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The regnal (Ahom) name of Gadadhar Singha was Supatphaa.",
         "as": "গদাধৰ সিংহৰ আহোম ৰাজকীয় নাম আছিল সুপাতফা।"
@@ -1487,8 +1487,8 @@
       "answer_as": "ঔৰংজেৱ",
       "options": [
         {
-          "en": "Shah Jahan",
-          "as": "শাহজাহান"
+          "en": "Aurangzeb",
+          "as": "ঔৰংজেৱ"
         },
         {
           "en": "Jahangir",
@@ -1499,11 +1499,11 @@
           "as": "আকবৰ"
         },
         {
-          "en": "Aurangzeb",
-          "as": "ঔৰংজেৱ"
+          "en": "Shah Jahan",
+          "as": "শাহজাহান"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Aurangzeb was the Mughal emperor during Mir Jumla's invasion and the Treaty of Ghilajharighat.",
         "as": "মিৰ জুমলাৰ আক্ৰমণ আৰু ঘিলাঝাৰিঘাটৰ সন্ধিৰ সময়ত ঔৰংজেৱ মোগল সম্ৰাট আছিল।"
@@ -1521,19 +1521,19 @@
           "as": "প্ৰতাপ সিংহ"
         },
         {
-          "en": "Jayadhwaj Singha",
-          "as": "জয়ধ্বজ সিংহ"
-        },
-        {
           "en": "Chakradhwaj Singha",
           "as": "চক্ৰধ্বজ সিংহ"
+        },
+        {
+          "en": "Jayadhwaj Singha",
+          "as": "জয়ধ্বজ সিংহ"
         },
         {
           "en": "Gadadhar Singha",
           "as": "গদাধৰ সিংহ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Jayadhwaj Singha ruled the Ahom kingdom from 1648 to 1663.",
         "as": "জয়ধ্বজ সিংহই ১৬৪৮ চনৰ পৰা ১৬৬৩ চনলৈ আহোম ৰাজ্য শাসন কৰিছিল।"
@@ -1555,15 +1555,15 @@
           "as": "পিজৌ গাভৰু"
         },
         {
-          "en": "Bardwi Gabharu",
-          "as": "বৰদ্বী গাভৰু"
-        },
-        {
           "en": "Ramani Gabharu",
           "as": "ৰমণী গাভৰু"
+        },
+        {
+          "en": "Bardwi Gabharu",
+          "as": "বৰদ্বী গাভৰু"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Under the Treaty of Ghilajharighat in 1663, the Ahom princess Ramani Gabharu was sent to the Mughal harem.",
         "as": "১৬৬৩ চনৰ ঘিলাঝাৰিঘাটৰ সন্ধি অনুসৰি আহোম ৰাজকুমাৰী ৰমণী গাভৰুক মোগল হাৰেমলৈ পঠিওৱা হৈছিল।"
@@ -1577,23 +1577,23 @@
       "answer_as": "মুহাম্মদ আজম",
       "options": [
         {
-          "en": "Dara Shikoh",
-          "as": "দাৰা শিকোহ"
+          "en": "Muhammad Azam",
+          "as": "মুহাম্মদ আজম"
         },
         {
           "en": "Shah Shuja",
           "as": "শাহ চুজা"
         },
         {
-          "en": "Muhammad Azam",
-          "as": "মুহাম্মদ আজম"
+          "en": "Dara Shikoh",
+          "as": "দাৰা শিকোহ"
         },
         {
           "en": "Muazzam",
           "as": "মুআজ্জম"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Mughal prince Muhammad Azam took the Ahom princess Ramani Gabharu as his wife.",
         "as": "মোগল ৰাজকুমাৰ মুহাম্মদ আজমে আহোম ৰাজকুমাৰী ৰমণী গাভৰুক পত্নীৰূপে গ্ৰহণ কৰিছিল।"
@@ -1607,23 +1607,23 @@
       "answer_as": "নামৰূপ",
       "options": [
         {
-          "en": "Namrup",
-          "as": "নামৰূপ"
+          "en": "Jorhat",
+          "as": "যোৰহাট"
         },
         {
           "en": "Nagaon",
           "as": "নগাঁও"
         },
         {
-          "en": "Jorhat",
-          "as": "যোৰহাট"
+          "en": "Namrup",
+          "as": "নামৰূপ"
         },
         {
           "en": "Sivasagar",
           "as": "শিৱসাগৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "When Mir Jumla occupied Garhgaon, Jayadhwaj Singha fled to Namrup.",
         "as": "মিৰ জুমলাই গড়গাঁও দখল কৰাৰ সময়ত জয়ধ্বজ সিংহ নামৰূপলৈ পলাই গৈছিল।"
@@ -1641,19 +1641,19 @@
           "as": "১৬৩৯"
         },
         {
-          "en": "1615",
-          "as": "১৬১৫"
+          "en": "1671",
+          "as": "১৬৭১"
         },
         {
           "en": "1662",
           "as": "১৬৬২"
         },
         {
-          "en": "1671",
-          "as": "১৬৭১"
+          "en": "1615",
+          "as": "১৬১৫"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The first major Ahom-Mughal conflict took place in 1615 at Samdhara.",
         "as": "প্ৰথম মুখ্য আহোম-মোগল সংঘৰ্ষ ১৬১৫ চনত সামধৰাত সংঘটিত হৈছিল।"
@@ -1671,19 +1671,19 @@
           "as": "ইটাখুলি"
         },
         {
-          "en": "Samdhara",
-          "as": "সামধৰা"
-        },
-        {
           "en": "Saraighat",
           "as": "সৰাইঘাট"
+        },
+        {
+          "en": "Samdhara",
+          "as": "সামধৰা"
         },
         {
           "en": "Alaboi",
           "as": "আলাবৈ"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Battle of Saraighat in 1671 is considered a landmark naval victory of the Ahoms over the Mughals.",
         "as": "১৬৭১ চনৰ সৰাইঘাটৰ যুদ্ধক মোগলৰ ওপৰত আহোমৰ ঐতিহাসিক নৌ-বিজয় বুলি গণ্য কৰা হয়।"
@@ -1697,12 +1697,12 @@
       "answer_as": "(iv), (ii), (i), (iii)",
       "options": [
         {
-          "en": "(i), (ii), (iii), (iv)",
-          "as": "(i), (ii), (iii), (iv)"
-        },
-        {
           "en": "(iv), (ii), (i), (iii)",
           "as": "(iv), (ii), (i), (iii)"
+        },
+        {
+          "en": "(i), (ii), (iii), (iv)",
+          "as": "(i), (ii), (iii), (iv)"
         },
         {
           "en": "(ii), (i), (iv), (iii)",
@@ -1713,7 +1713,7 @@
           "as": "(iv), (iii), (i), (ii)"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The correct chronological order is Samdhara (1615), Treaty of Asurar Ali (1639), Saraighat (1671) and Itakhuli (1682), that is (iv), (ii), (i), (iii).",
         "as": "সঠিক কালানুক্রম হ'ল সামধৰা (১৬১৫), আসুৰাৰ আলিৰ সন্ধি (১৬৩৯), সৰাইঘাট (১৬৭১) আৰু ইটাখুলি (১৬৮২), অৰ্থাৎ (iv), (ii), (i), (iii)।"
@@ -1731,19 +1731,19 @@
           "as": "ই মিৰ জুমলাৰ অসম আক্ৰমণৰ পিছত স্বাক্ষৰিত হৈছিল"
         },
         {
-          "en": "It was a boundary treaty fixing the frontier at Asurar Ali",
-          "as": "ই এটা সীমা সন্ধি আছিল, য'ত আসুৰাৰ আলিত সীমান্ত নিৰ্ধাৰণ কৰা হৈছিল"
+          "en": "It required the Ahoms to pay an annual tribute of elephants",
+          "as": "ই আহোমসকলক বাৰ্ষিক হাতী ৰাজহ দিবলৈ বাধ্য কৰাইছিল"
         },
         {
           "en": "It ceded Lower Assam to the Mughals",
           "as": "ই তলৰ অসম মোগলসকলক সমৰ্পণ কৰিছিল"
         },
         {
-          "en": "It required the Ahoms to pay an annual tribute of elephants",
-          "as": "ই আহোমসকলক বাৰ্ষিক হাতী ৰাজহ দিবলৈ বাধ্য কৰাইছিল"
+          "en": "It was a boundary treaty fixing the frontier at Asurar Ali",
+          "as": "ই এটা সীমা সন্ধি আছিল, য'ত আসুৰাৰ আলিত সীমান্ত নিৰ্ধাৰণ কৰা হৈছিল"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Treaty of Asurar Ali (1639) was a boundary treaty that fixed the Ahom-Mughal frontier at Asurar Ali.",
         "as": "আসুৰাৰ আলিৰ সন্ধি (১৬৩৯) এটা সীমা সন্ধি আছিল, যিয়ে আসুৰাৰ আলিত আহোম-মোগল সীমান্ত নিৰ্ধাৰণ কৰিছিল।"
@@ -1765,15 +1765,15 @@
           "as": "ই আহোমসকলক ৰমণী গাভৰু মোগল হাৰেমলৈ পঠিয়াবলৈ বাধ্য কৰাইছিল"
         },
         {
-          "en": "It fixed the Ahom-Mughal boundary at Asurar Ali",
-          "as": "ই আহোম-মোগল সীমা আসুৰাৰ আলিত নিৰ্ধাৰণ কৰিছিল"
-        },
-        {
           "en": "It ceded the western territories to the Mughals",
           "as": "ই পশ্চিম অঞ্চল মোগলসকলক সমৰ্পণ কৰিছিল"
+        },
+        {
+          "en": "It fixed the Ahom-Mughal boundary at Asurar Ali",
+          "as": "ই আহোম-মোগল সীমা আসুৰাৰ আলিত নিৰ্ধাৰণ কৰিছিল"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Fixing the Ahom-Mughal boundary at Asurar Ali was done by the 1639 treaty, not by the Treaty of Ghilajharighat, so that statement is incorrect.",
         "as": "আহোম-মোগল সীমা আসুৰাৰ আলিত নিৰ্ধাৰণ ১৬৩৯ চনৰ সন্ধিৰ দ্বাৰা হৈছিল, ঘিলাঝাৰিঘাটৰ সন্ধিৰ দ্বাৰা নহয়, সেয়ে সেই বক্তব্যটো অশুদ্ধ।"
@@ -1791,19 +1791,19 @@
           "as": "১৬১৫ - সৰাইঘাটৰ যুদ্ধ"
         },
         {
-          "en": "1639 - Treaty of Ghilajharighat",
-          "as": "১৬৩৯ - ঘিলাঝাৰিঘাটৰ সন্ধি"
+          "en": "1662 - Mir Jumla's invasion",
+          "as": "১৬৬২ - মিৰ জুমলাৰ আক্ৰমণ"
         },
         {
           "en": "1682 - Battle of Samdhara",
           "as": "১৬৮২ - সামধৰাৰ যুদ্ধ"
         },
         {
-          "en": "1662 - Mir Jumla's invasion",
-          "as": "১৬৬২ - মিৰ জুমলাৰ আক্ৰমণ"
+          "en": "1639 - Treaty of Ghilajharighat",
+          "as": "১৬৩৯ - ঘিলাঝাৰিঘাটৰ সন্ধি"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The event '1662 - Mir Jumla's invasion' is correctly matched; the other pairs do not match.",
         "as": "ঘটনা '১৬৬২ - মিৰ জুমলাৰ আক্ৰমণ' সঠিকভাৱে মিলিছে; আনবোৰ জোৰা মিলা নাই।"
@@ -1821,19 +1821,19 @@
           "as": "সৰাইঘাট (১৬৭১)"
         },
         {
-          "en": "Samdhara (1615)",
-          "as": "সামধৰা (১৬১৫)"
-        },
-        {
           "en": "Itakhuli (1682)",
           "as": "ইটাখুলি (১৬৮২)"
+        },
+        {
+          "en": "Samdhara (1615)",
+          "as": "সামধৰা (১৬১৫)"
         },
         {
           "en": "Alaboi (1669)",
           "as": "আলাবৈ (১৬৬৯)"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The permanent expulsion of the Mughals from Lower Assam was achieved at the Battle of Itakhuli in 1682.",
         "as": "তলৰ অসমৰ পৰা মোগলসকলক স্থায়ীভাৱে খেদি পঠিওৱা হৈছিল ১৬৮২ চনৰ ইটাখুলিৰ যুদ্ধত।"
@@ -1847,8 +1847,8 @@
       "answer_as": "ইটাখুলি",
       "options": [
         {
-          "en": "Saraighat",
-          "as": "সৰাইঘাট"
+          "en": "Itakhuli",
+          "as": "ইটাখুলি"
         },
         {
           "en": "Samdhara",
@@ -1859,11 +1859,11 @@
           "as": "আলাবৈ"
         },
         {
-          "en": "Itakhuli",
-          "as": "ইটাখুলি"
+          "en": "Saraighat",
+          "as": "সৰাইঘাট"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The Battle of Itakhuli was fought during the reign of Gadadhar Singha (Supatphaa).",
         "as": "ইটাখুলিৰ যুদ্ধ গদাধৰ সিংহ (সুপাতফা)ৰ ৰাজত্বকালত সংঘটিত হৈছিল।"
@@ -1881,19 +1881,19 @@
           "as": "জয়ধ্বজ সিংহ"
         },
         {
-          "en": "Chakradhwaj Singha",
-          "as": "চক্ৰধ্বজ সিংহ"
-        },
-        {
           "en": "Pratap Singha",
           "as": "প্ৰতাপ সিংহ"
+        },
+        {
+          "en": "Chakradhwaj Singha",
+          "as": "চক্ৰধ্বজ সিংহ"
         },
         {
           "en": "Gadadhar Singha",
           "as": "গদাধৰ সিংহ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Chakradhwaj Singha planned the reconquest that led to the recovery of Guwahati in 1667.",
         "as": "চক্ৰধ্বজ সিংহই ১৬৬৭ চনত গুৱাহাটী পুনৰুদ্ধাৰলৈ লৈ যোৱা পুনৰ্জয়ৰ পৰিকল্পনা গ্ৰহণ কৰিছিল।"
@@ -1971,19 +1971,19 @@
           "as": "১৬৪৮-১৬৬৩"
         },
         {
-          "en": "1681-1696",
-          "as": "১৬৮১-১৬৯৬"
+          "en": "1663-1670",
+          "as": "১৬৬৩-১৬৭০"
         },
         {
           "en": "1615-1648",
           "as": "১৬১৫-১৬৪৮"
         },
         {
-          "en": "1663-1670",
-          "as": "১৬৬৩-১৬৭০"
+          "en": "1681-1696",
+          "as": "১৬৮১-১৬৯৬"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Chakradhwaj Singha (Supangmung) ruled from 1663 to 1670.",
         "as": "চক্ৰধ্বজ সিংহ (সুপাংমুং) ১৬৬৩ চনৰ পৰা ১৬৭০ চনলৈ শাসন কৰিছিল।"
@@ -1997,12 +1997,12 @@
       "answer_as": "১৬৮১-১৬৯৬",
       "options": [
         {
-          "en": "1648-1663",
-          "as": "১৬৪৮-১৬৬৩"
-        },
-        {
           "en": "1681-1696",
           "as": "১৬৮১-১৬৯৬"
+        },
+        {
+          "en": "1648-1663",
+          "as": "১৬৪৮-১৬৬৩"
         },
         {
           "en": "1663-1670",
@@ -2013,7 +2013,7 @@
           "as": "১৬১৫-১৬৪৮"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Gadadhar Singha (Supatphaa) ruled from 1681 to 1696.",
         "as": "গদাধৰ সিংহ (সুপাতফা) ১৬৮১ চনৰ পৰা ১৬৯৬ চনলৈ শাসন কৰিছিল।"
@@ -2087,23 +2087,23 @@
       "answer_as": "১৬৪৮-১৬৬৩",
       "options": [
         {
-          "en": "1663-1670",
-          "as": "১৬৬৩-১৬৭০"
+          "en": "1648-1663",
+          "as": "১৬৪৮-১৬৬৩"
         },
         {
           "en": "1681-1696",
           "as": "১৬৮১-১৬৯৬"
         },
         {
-          "en": "1648-1663",
-          "as": "১৬৪৮-১৬৬৩"
+          "en": "1663-1670",
+          "as": "১৬৬৩-১৬৭০"
         },
         {
           "en": "1615-1639",
           "as": "১৬১৫-১৬৩৯"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Jayadhwaj Singha reigned from 1648 to 1663.",
         "as": "জয়ধ্বজ সিংহৰ ৰাজত্বকাল ১৬৪৮ চনৰ পৰা ১৬৬৩ চনলৈ আছিল।"

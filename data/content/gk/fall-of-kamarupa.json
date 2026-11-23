@@ -16,23 +16,23 @@
       "answer_as": "১২শ শতাব্দী",
       "options": [
         {
-          "en": "8th century AD",
-          "as": "৮শ শতাব্দী"
+          "en": "12th century AD",
+          "as": "১২শ শতাব্দী"
         },
         {
           "en": "10th century AD",
           "as": "১০শ শতাব্দী"
         },
         {
-          "en": "12th century AD",
-          "as": "১২শ শতাব্দী"
+          "en": "8th century AD",
+          "as": "৮শ শতাব্দী"
         },
         {
           "en": "14th century AD",
           "as": "১৪শ শতাব্দী"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The unified Kamarupa kingdom declined during the 12th century AD and broke up into smaller states.",
         "as": "একত্ৰিত কামৰূপ ৰাজ্য ১২শ শতাব্দীত দুৰ্বল হৈ সৰু সৰু ৰাজ্যলৈ বিভক্ত হয়।"
@@ -50,19 +50,19 @@
           "as": "এটা বৃহৎ ভূমিকম্প"
         },
         {
-          "en": "External invasions and internal fragmentation",
-          "as": "বাহ্যিক আক্ৰমণ আৰু আভ্যন্তৰীণ বিভাজন"
-        },
-        {
           "en": "Famine and floods",
           "as": "দুৰ্ভিক্ষ আৰু বানপানী"
+        },
+        {
+          "en": "External invasions and internal fragmentation",
+          "as": "বাহ্যিক আক্ৰমণ আৰু আভ্যন্তৰীণ বিভাজন"
         },
         {
           "en": "The Ahom invasion",
           "as": "আহোম আক্ৰমণ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Continuous external invasions combined with internal fragmentation weakened and finally ended the Kamarupa kingdom.",
         "as": "অবিৰত বাহ্যিক আক্ৰমণ আৰু আভ্যন্তৰীণ বিভাজনে কামৰূপ ৰাজ্য দুৰ্বল কৰি শেষ কৰি দিলে।"
@@ -76,12 +76,12 @@
       "answer_as": "কামতা আৰু পূবৰ সৰু ৰাজ্যসমূহ",
       "options": [
         {
-          "en": "A single Mughal province",
-          "as": "এটা একক মোগল প্ৰদেশ"
-        },
-        {
           "en": "Smaller kingdoms like Kamata and the eastern principalities",
           "as": "কামতা আৰু পূবৰ সৰু ৰাজ্যসমূহ"
+        },
+        {
+          "en": "A single Mughal province",
+          "as": "এটা একক মোগল প্ৰদেশ"
         },
         {
           "en": "The Ahom kingdom only",
@@ -92,7 +92,7 @@
           "as": "কেৱল কোচ ৰাজ্য"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "After the fall of Kamarupa the region split into smaller kingdoms such as Kamata in the west and the eastern principalities.",
         "as": "কামৰূপৰ পতনৰ পিছত অঞ্চলটো পশ্চিমৰ কামতা আৰু পূবৰ সৰু ৰাজ্যাংশত বিভক্ত হয়।"
@@ -110,19 +110,19 @@
           "as": "পূব অংশ"
         },
         {
-          "en": "The western part",
-          "as": "পশ্চিম অংশ"
+          "en": "The northern part",
+          "as": "উত্তৰ অংশ"
         },
         {
           "en": "The southern part",
           "as": "দক্ষিণ অংশ"
         },
         {
-          "en": "The northern part",
-          "as": "উত্তৰ অংশ"
+          "en": "The western part",
+          "as": "পশ্চিম অংশ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Kamata kingdom arose in the western part of the old Kamarupa territory.",
         "as": "কামতা ৰাজ্য পুৰণি কামৰূপৰ পশ্চিম অংশত গঢ় লৈ উঠিছিল।"
@@ -230,19 +230,19 @@
           "as": "বৰ্মন বংশ"
         },
         {
-          "en": "The Khen dynasty",
-          "as": "খেন বংশ"
+          "en": "The Danava dynasty",
+          "as": "দানৱ বংশ"
         },
         {
           "en": "The Ahom dynasty",
           "as": "আহোম বংশ"
         },
         {
-          "en": "The Danava dynasty",
-          "as": "দানৱ বংশ"
+          "en": "The Khen dynasty",
+          "as": "খেন বংশ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Kamata kingdom was later ruled by the Khen dynasty and afterwards by the Koch dynasty.",
         "as": "কামতা ৰাজ্য পিছত খেন বংশই আৰু তাৰ পিছত কোচ বংশই শাসন কৰিছিল।"
@@ -256,12 +256,12 @@
       "answer_as": "কামতা, কছাৰী, চুতীয়া আৰু বৰাহীৰ দৰে স্বাধীন ৰাজ্য",
       "options": [
         {
-          "en": "A powerful centralised empire",
-          "as": "এটা শক্তিশালী কেন্দ্ৰীয় সাম্ৰাজ্য"
-        },
-        {
           "en": "Independent kingdoms like Kamata, Kachari, Chutiya and Barahi",
           "as": "কামতা, কছাৰী, চুতীয়া আৰু বৰাহীৰ দৰে স্বাধীন ৰাজ্য"
+        },
+        {
+          "en": "A powerful centralised empire",
+          "as": "এটা শক্তিশালী কেন্দ্ৰীয় সাম্ৰাজ্য"
         },
         {
           "en": "British rule",
@@ -272,7 +272,7 @@
           "as": "মোগল সাম্ৰাজ্য"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Political fragmentation produced several independent kingdoms such as Kamata, Kachari, Chutiya and Barahi.",
         "as": "ৰাজনৈতিক বিভাজনে কামতা, কছাৰী, চুতীয়া আৰু বৰাহীৰ দৰে কেইবাটাও স্বাধীন ৰাজ্য সৃষ্টি কৰিলে।"
@@ -290,19 +290,19 @@
           "as": "চোলসকল"
         },
         {
-          "en": "The Sena and other western kings",
-          "as": "সেন আৰু আন পশ্চিমী ৰজাসকল"
+          "en": "The Burmese",
+          "as": "বৰ্মীসকল"
         },
         {
           "en": "The Ahoms",
           "as": "আহোমসকল"
         },
         {
-          "en": "The Burmese",
-          "as": "বৰ্মীসকল"
+          "en": "The Sena and other western kings",
+          "as": "সেন আৰু আন পশ্চিমী ৰজাসকল"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "In the 11th-12th centuries invasions by the Senas and other western kings weakened Kamarupa.",
         "as": "১১শ-১২শ শতাব্দীত সেন আৰু আন পশ্চিমী ৰজাসকলৰ আক্ৰমণে কামৰূপ দুৰ্বল কৰিছিল।"
@@ -320,19 +320,19 @@
           "as": "প্ৰাগজ্যোতিষপুৰ"
         },
         {
-          "en": "Kamata (near Gosanimari/Cooch Behar)",
-          "as": "কামতা (গোচানীমাৰী/কোচবিহাৰৰ ওচৰত)"
-        },
-        {
           "en": "Charaideo",
           "as": "চৰাইদেউ"
+        },
+        {
+          "en": "Kamata (near Gosanimari/Cooch Behar)",
+          "as": "কামতা (গোচানীমাৰী/কোচবিহাৰৰ ওচৰত)"
         },
         {
           "en": "Guwahati",
           "as": "গুৱাহাটী"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The capital of the Kamata kingdom was Kamata, identified near present-day Gosanimari in the Cooch Behar region.",
         "as": "কামতা ৰাজ্যৰ ৰাজধানী আছিল কামতা, যাক বৰ্তমান কোচবিহাৰ অঞ্চলৰ গোচানীমাৰীৰ ওচৰত চিনাক্ত কৰা হয়।"
@@ -346,12 +346,12 @@
       "answer_as": "পৃথু",
       "options": [
         {
-          "en": "Prithu",
-          "as": "পৃথু"
-        },
-        {
           "en": "Niladhwaj",
           "as": "নীলধ্বজ"
+        },
+        {
+          "en": "Prithu",
+          "as": "পৃথু"
         },
         {
           "en": "Sukapha",
@@ -362,7 +362,7 @@
           "as": "বিশ্ব সিংহ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The early Khen ruler Prithu is associated with reviving the name Kamata.",
         "as": "আদি খেন শাসক পৃথুৰ সৈতে কামতা নাম পুনৰুজ্জীৱিত কৰাৰ কথা জড়িত।"
@@ -410,19 +410,19 @@
           "as": "প্ৰাচীন যুগ"
         },
         {
-          "en": "The medieval period of Assam's history",
-          "as": "অসমৰ ইতিহাসৰ মধ্যযুগ"
-        },
-        {
           "en": "The colonial period",
           "as": "উপনিবেশিক যুগ"
+        },
+        {
+          "en": "The medieval period of Assam's history",
+          "as": "অসমৰ ইতিহাসৰ মধ্যযুগ"
         },
         {
           "en": "The modern period",
           "as": "আধুনিক যুগ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Historically the fall of Kamarupa marks the beginning of the medieval period in Assam's history.",
         "as": "ঐতিহাসিকভাৱে কামৰূপৰ পতনে অসমৰ ইতিহাসৰ মধ্যযুগৰ আৰম্ভণি সূচায়।"
@@ -436,23 +436,23 @@
       "answer_as": "কামৰূপ",
       "options": [
         {
-          "en": "Kamrup",
-          "as": "কামৰূপ"
+          "en": "Nagaon",
+          "as": "নগাঁও"
         },
         {
           "en": "Goalpara",
           "as": "গোৱালপাৰা"
         },
         {
-          "en": "Nagaon",
-          "as": "নগাঁও"
+          "en": "Kamrup",
+          "as": "কামৰূপ"
         },
         {
           "en": "Cachar",
           "as": "কাছাৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The name Kamata is linked to the later Kamrup region and district of Assam.",
         "as": "কামতা নামটো অসমৰ পিছৰ কামৰূপ অঞ্চল আৰু জিলাৰ সৈতে জড়িত।"

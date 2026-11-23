@@ -35,17 +35,17 @@
         "en": [
           "Astrology",
           "Geology",
-          "Cosmology",
-          "Astronomy"
+          "Astronomy",
+          "Cosmology"
         ],
         "as": [
           "জ্যোতিষ",
           "ভূতত্ত্ব",
-          "কস্ম’লজী",
-          "জ্যোতিৰ্বিজ্ঞান"
+          "জ্যোতিৰ্বিজ্ঞান",
+          "কস্ম’লজী"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The study of the origin and structure of the Universe is called Cosmology.",
         "as": "মহাবিশ্বৰ উৎপত্তি আৰু গঠনৰ অধ্যয়নক কস্ম’লজী বোলা হয়।"
@@ -63,18 +63,18 @@
       "options": {
         "en": [
           "Pulsating Theory",
-          "Nebular Hypothesis",
           "Big Bang Theory",
+          "Nebular Hypothesis",
           "Steady State Theory"
         ],
         "as": [
           "স্পন্দন তত্ত্ব",
-          "নীহাৰিকাকল্প",
           "মহা বিস্ফোৰণ তত্ত্ব",
+          "নীহাৰিকাকল্প",
           "স্থিৰ অৱস্থা তত্ত্ব"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Big Bang Theory is the most widely accepted explanation for the origin of the Universe.",
         "as": "মহাবিশ্বৰ উৎপত্তিৰ বাবে মহা বিস্ফোৰণ তত্ত্ব আটাইতকৈ গ্ৰহণযোগ্য ব্যাখ্যা।"
@@ -91,19 +91,19 @@
       },
       "options": {
         "en": [
-          "Georges Lemaître",
-          "Albert Einstein",
           "Fred Hoyle",
+          "Albert Einstein",
+          "Georges Lemaître",
           "Edwin Hubble"
         ],
         "as": [
-          "জৰ্জ লেমাইত্ৰ",
-          "আলবাৰ্ট আইনষ্টাইন",
           "ফ্ৰেড হয়ল",
+          "আলবাৰ্ট আইনষ্টাইন",
+          "জৰ্জ লেমাইত্ৰ",
           "এডউইন হাবল"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Georges Lemaître, a Belgian priest and astronomer, proposed the Big Bang Theory.",
         "as": "বেলজিয়ান পুৰোহিত আৰু জ্যোতিৰ্বিজ্ঞানী জৰ্জ লেমাইত্ৰই মহা বিস্ফোৰণ তত্ত্ব প্ৰস্তাৱ কৰিছিল।"
@@ -122,17 +122,17 @@
         "en": [
           "Whirlpool",
           "Sombrero",
-          "Milky Way",
-          "Andromeda"
+          "Andromeda",
+          "Milky Way"
         ],
         "as": [
           "হুইলপুল",
           "ছোম্ব্ৰেৰো",
-          "মিল্কি ৱে",
-          "এণ্ড্ৰমিডা"
+          "এণ্ড্ৰমিডা",
+          "মিল্কি ৱে"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Our Solar System is located in the Milky Way Galaxy.",
         "as": "আমাৰ সৌৰজগত মিল্কি ৱে (আকাশগঙ্গা) তাৰকাগোটত অৱস্থিত।"
@@ -149,19 +149,19 @@
       },
       "options": {
         "en": [
-          "Whirlpool",
-          "Triangulum",
           "Andromeda",
+          "Triangulum",
+          "Whirlpool",
           "Large Magellanic Cloud"
         ],
         "as": [
-          "হুইলপুল",
-          "ট্ৰাইএংগুলাম",
           "এণ্ড্ৰমিডা",
+          "ট্ৰাইএংগুলাম",
+          "হুইলপুল",
           "বৃহৎ মেগেলেনিক মেঘ"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Andromeda Galaxy is the closest large galaxy to the Milky Way.",
         "as": "এণ্ড্ৰমিডা তাৰকাগোট মিল্কি ৱেৰ আটাইতকৈ ওচৰৰ বৃহৎ তাৰকাগোট।"
@@ -208,18 +208,18 @@
       "options": {
         "en": [
           "Nanometre",
-          "Light Year",
           "Astronomical Unit",
+          "Light Year",
           "Parsec"
         ],
         "as": [
           "নেন’মিটাৰ",
-          "পোহৰ বছৰ",
           "জ্যোতিৰ্বিজ্ঞানীয় একক",
+          "পোহৰ বছৰ",
           "পাৰ্চেক"
         ]
       },
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The light year is the most common unit for measuring astronomical distances.",
         "as": "জ্যোতিৰ্বিজ্ঞানীয় দূৰত্ব জুখিবলৈ পোহৰ বছৰ আটাইতকৈ সচৰাচৰ ব্যৱহৃত একক।"
@@ -236,19 +236,19 @@
       },
       "options": {
         "en": [
-          "The distance light travels in one year",
+          "The distance light travels in one month",
           "The distance covered by sound in one year",
           "The distance from Earth to the Sun",
-          "The distance light travels in one month"
+          "The distance light travels in one year"
         ],
         "as": [
-          "এটা বছৰত পোহৰে অতিক্ৰম কৰা দূৰত্ব",
+          "এটা মাহত পোহৰে অতিক্ৰম কৰা দূৰত্ব",
           "এটা বছৰত শব্দই অতিক্ৰম কৰা দূৰত্ব",
           "পৃথিৱীৰ পৰা সূৰ্যলৈ দূৰত্ব",
-          "এটা মাহত পোহৰে অতিক্ৰম কৰা দূৰত্ব"
+          "এটা বছৰত পোহৰে অতিক্ৰম কৰা দূৰত্ব"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "One light year is the distance light travels in one year, about 9.46 x 10^12 km.",
         "as": "এটা পোহৰ বছৰ হ'ল এটা বছৰত পোহৰে অতিক্ৰম কৰা দূৰত্ব, প্ৰায় ৯.৪৬ x ১০^১২ কিমি।"
@@ -323,19 +323,19 @@
       },
       "options": {
         "en": [
-          "Proxima Centauri",
-          "Sirius",
           "Barnard's Star",
+          "Sirius",
+          "Proxima Centauri",
           "Alpha Centauri A"
         ],
         "as": [
-          "প্ৰক্সিমা চেণ্টাউৰি",
-          "চিৰিয়াচ",
           "বাৰ্নাৰ্ড তৰা",
+          "চিৰিয়াচ",
+          "প্ৰক্সিমা চেণ্টাউৰি",
           "আলফা চেণ্টাউৰি এ"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Proxima Centauri is the closest star to the Sun.",
         "as": "প্ৰক্সিমা চেণ্টাউৰি সূৰ্যৰ আটাইতকৈ ওচৰৰ তৰা।"
@@ -352,19 +352,19 @@
       },
       "options": {
         "en": [
-          "Canopus",
-          "Vega",
           "Pole Star (Polaris)",
+          "Vega",
+          "Canopus",
           "Sirius"
         ],
         "as": [
-          "কেন’পাচ",
-          "ভেগা",
           "ধ্ৰুৱতৰা",
+          "ভেগা",
+          "কেন’পাচ",
           "চিৰিয়াচ"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Pole Star (Polaris or Dhruva Tara) always points towards the North.",
         "as": "ধ্ৰুৱতৰা সদায় উত্তৰ দিশলৈ আঙুলিয়াই দিয়ে।"
@@ -412,17 +412,17 @@
         "en": [
           "Earth",
           "Jupiter",
-          "Moon",
-          "The Sun"
+          "The Sun",
+          "Moon"
         ],
         "as": [
           "পৃথিৱী",
           "বৃহস্পতি",
-          "চন্দ্ৰ",
-          "সূৰ্য"
+          "সূৰ্য",
+          "চন্দ্ৰ"
         ]
       },
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Sun is at the center of the Solar System and holds about 99.8% of its mass.",
         "as": "সূৰ্য সৌৰজগতৰ কেন্দ্ৰত আছে আৰু ইয়াৰ প্ৰায় ৯৯.৮% ভৰ ধাৰণ কৰে।"
@@ -468,19 +468,19 @@
       },
       "options": {
         "en": [
-          "Hydrogen and Helium",
-          "Oxygen and Nitrogen",
           "Carbon and Oxygen",
+          "Oxygen and Nitrogen",
+          "Hydrogen and Helium",
           "Methane and Ammonia"
         ],
         "as": [
-          "হাইড্ৰজেন আৰু হিলিয়াম",
-          "অক্সিজেন আৰু নাইট্ৰজেন",
           "কাৰ্বন আৰু অক্সিজেন",
+          "অক্সিজেন আৰু নাইট্ৰজেন",
+          "হাইড্ৰজেন আৰু হিলিয়াম",
           "মিথেন আৰু এম’নিয়া"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Sun is composed mainly of Hydrogen (about 73%) and Helium (about 25%).",
         "as": "সূৰ্য মূলত হাইড্ৰজেন (প্ৰায় ৭৩%) আৰু হিলিয়াম (প্ৰায় ২৫%) ৰে গঠিত।"
@@ -497,19 +497,19 @@
       },
       "options": {
         "en": [
-          "About 8 minutes 20 seconds",
+          "About 1 minute",
           "About 30 minutes",
           "About 1 hour",
-          "About 1 minute"
+          "About 8 minutes 20 seconds"
         ],
         "as": [
-          "প্ৰায় ৮ মিনিট ২০ ছেকেণ্ড",
+          "প্ৰায় ১ মিনিট",
           "প্ৰায় ৩০ মিনিট",
           "প্ৰায় ১ ঘণ্টা",
-          "প্ৰায় ১ মিনিট"
+          "প্ৰায় ৮ মিনিট ২০ ছেকেণ্ড"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Sunlight takes about 8 minutes 20 seconds to reach the Earth.",
         "as": "সূৰ্যৰ পোহৰ পৃথিৱীত উপনীত হ'বলৈ প্ৰায় ৮ মিনিট ২০ ছেকেণ্ড লাগে।"
@@ -526,19 +526,19 @@
       },
       "options": {
         "en": [
-          "Photosphere",
+          "Chromosphere",
           "Convection zone",
           "Corona",
-          "Chromosphere"
+          "Photosphere"
         ],
         "as": [
-          "ফট’স্ফিয়াৰ",
+          "ক্ৰ’ম’স্ফিয়াৰ",
           "সংবহন অঞ্চল",
           "কৰ’না",
-          "ক্ৰ’ম’স্ফিয়াৰ"
+          "ফট’স্ফিয়াৰ"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The photosphere is the visible outer surface layer of the Sun.",
         "as": "ফট’স্ফিয়াৰ সূৰ্যৰ দৃশ্যমান বাহ্যিক পৃষ্ঠ স্তৰ।"
@@ -557,17 +557,17 @@
         "en": [
           "Chromosphere",
           "Core",
-          "Photosphere",
-          "Corona"
+          "Corona",
+          "Photosphere"
         ],
         "as": [
           "ক্ৰ’ম’স্ফিয়াৰ",
           "কেন্দ্ৰ",
-          "ফট’স্ফিয়াৰ",
-          "কৰ’না"
+          "কৰ’না",
+          "ফট’স্ফিয়াৰ"
         ]
       },
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The corona is the Sun's outermost atmospheric layer, visible during a total solar eclipse.",
         "as": "কৰ’না সূৰ্যৰ আটাইতকৈ বাহিৰৰ বায়ুমণ্ডলীয় স্তৰ, যি পূৰ্ণ সূৰ্যগ্ৰহণত দেখা যায়।"
@@ -584,19 +584,19 @@
       },
       "options": {
         "en": [
-          "Approx. 6,000 degrees Celsius",
-          "Approx. 1,000 degrees Celsius",
           "Approx. 60,000 degrees Celsius",
+          "Approx. 1,000 degrees Celsius",
+          "Approx. 6,000 degrees Celsius",
           "Approx. 600 degrees Celsius"
         ],
         "as": [
-          "প্ৰায় ৬,০০০ ডিগ্ৰী ছেলছিয়াছ",
-          "প্ৰায় ১,০০০ ডিগ্ৰী ছেলছিয়াছ",
           "প্ৰায় ৬০,০০০ ডিগ্ৰী ছেলছিয়াছ",
+          "প্ৰায় ১,০০০ ডিগ্ৰী ছেলছিয়াছ",
+          "প্ৰায় ৬,০০০ ডিগ্ৰী ছেলছিয়াছ",
           "প্ৰায় ৬০০ ডিগ্ৰী ছেলছিয়াছ"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Sun's surface temperature is about 6,000 degrees Celsius, while its core reaches about 15 million degrees Celsius.",
         "as": "সূৰ্যৰ পৃষ্ঠৰ উষ্ণতা প্ৰায় ৬,০০০ ডিগ্ৰী ছেলছিয়াছ, আনহাতে কেন্দ্ৰৰ উষ্ণতা প্ৰায় ১.৫ কোটি ডিগ্ৰী ছেলছিয়াছ।"
@@ -613,19 +613,19 @@
       },
       "options": {
         "en": [
-          "Asteroid Belt and Kuiper Belt",
           "Kuiper Belt and Oort Cloud",
+          "Asteroid Belt and Kuiper Belt",
           "Oort Cloud and Van Allen Belt",
           "Milky Way and Andromeda"
         ],
         "as": [
-          "গ্ৰহাণু পটী আৰু কাইপাৰ পটী",
           "কাইপাৰ পটী আৰু অ’ৰ্ট মেঘ",
+          "গ্ৰহাণু পটী আৰু কাইপাৰ পটী",
           "অ’ৰ্ট মেঘ আৰু ভেন এলেন পটী",
           "মিল্কি ৱে আৰু এণ্ড্ৰমিডা"
         ]
       },
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Kuiper Belt and the Oort Cloud are the outermost cold regions orbiting the Sun.",
         "as": "কাইপাৰ পটী আৰু অ’ৰ্ট মেঘ সূৰ্যৰ চাৰিওফালে ঘূৰি থকা আটাইতকৈ বাহিৰৰ শীতল অঞ্চল।"
@@ -643,18 +643,18 @@
       "options": {
         "en": [
           "7",
-          "10",
           "8",
+          "10",
           "9"
         ],
         "as": [
           "৭",
-          "১০",
           "৮",
+          "১০",
           "৯"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "There are 8 planets in the Solar System since Pluto was reclassified in 2006.",
         "as": "২০০৬ চনত প্লুটোক পুনৰ্শ্ৰেণীবদ্ধ কৰাৰ পৰা সৌৰজগতত ৮টা গ্ৰহ আছে।"
@@ -671,19 +671,19 @@
       },
       "options": {
         "en": [
-          "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
           "Venus, Mercury, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
+          "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
           "Mercury, Venus, Mars, Earth, Jupiter, Saturn, Neptune, Uranus",
           "Earth, Mercury, Venus, Mars, Saturn, Jupiter, Uranus, Neptune"
         ],
         "as": [
-          "বুধ, শুক্ৰ, পৃথিৱী, মঙ্গল, বৃহস্পতি, শনি, ইউৰেনাচ, নেপচুন",
           "শুক্ৰ, বুধ, পৃথিৱী, মঙ্গল, বৃহস্পতি, শনি, ইউৰেনাচ, নেপচুন",
+          "বুধ, শুক্ৰ, পৃথিৱী, মঙ্গল, বৃহস্পতি, শনি, ইউৰেনাচ, নেপচুন",
           "বুধ, শুক্ৰ, মঙ্গল, পৃথিৱী, বৃহস্পতি, শনি, নেপচুন, ইউৰেনাচ",
           "পৃথিৱী, বুধ, শুক্ৰ, মঙ্গল, শনি, বৃহস্পতি, ইউৰেনাচ, নেপচুন"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The correct order from the Sun is Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.",
         "as": "সূৰ্যৰ পৰা শুদ্ধ ক্ৰম হ'ল বুধ, শুক্ৰ, পৃথিৱী, মঙ্গল, বৃহস্পতি, শনি, ইউৰেনাচ, নেপচুন।"
@@ -700,19 +700,19 @@
       },
       "options": {
         "en": [
-          "Largest: Jupiter; Smallest: Venus",
-          "Largest: Saturn; Smallest: Mars",
           "Largest: Jupiter; Smallest: Mercury",
+          "Largest: Saturn; Smallest: Mars",
+          "Largest: Jupiter; Smallest: Venus",
           "Largest: Neptune; Smallest: Mercury"
         ],
         "as": [
-          "বৃহত্তম: বৃহস্পতি; ক্ষুদ্ৰতম: শুক্ৰ",
-          "বৃহত্তম: শনি; ক্ষুদ্ৰতম: মঙ্গল",
           "বৃহত্তম: বৃহস্পতি; ক্ষুদ্ৰতম: বুধ",
+          "বৃহত্তম: শনি; ক্ষুদ্ৰতম: মঙ্গল",
+          "বৃহত্তম: বৃহস্পতি; ক্ষুদ্ৰতম: শুক্ৰ",
           "বৃহত্তম: নেপচুন; ক্ষুদ্ৰতম: বুধ"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Jupiter is the largest planet and Mercury is the smallest planet in the Solar System.",
         "as": "বৃহস্পতি সৌৰজগতৰ আটাইতকৈ ডাঙৰ আৰু বুধ আটাইতকৈ সৰু গ্ৰহ।"
@@ -731,17 +731,17 @@
         "en": [
           "Venus, Earth, Mars and Jupiter",
           "Jupiter, Saturn, Uranus and Neptune",
-          "Earth, Mars, Jupiter and Saturn",
-          "Mercury, Venus, Earth and Mars"
+          "Mercury, Venus, Earth and Mars",
+          "Earth, Mars, Jupiter and Saturn"
         ],
         "as": [
           "শুক্ৰ, পৃথিৱী, মঙ্গল আৰু বৃহস্পতি",
           "বৃহস্পতি, শনি, ইউৰেনাচ আৰু নেপচুন",
-          "পৃথিৱী, মঙ্গল, বৃহস্পতি আৰু শনি",
-          "বুধ, শুক্ৰ, পৃথিৱী আৰু মঙ্গল"
+          "বুধ, শুক্ৰ, পৃথিৱী আৰু মঙ্গল",
+          "পৃথিৱী, মঙ্গল, বৃহস্পতি আৰু শনি"
         ]
       },
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Mercury, Venus, Earth and Mars are the inner or terrestrial planets.",
         "as": "বুধ, শুক্ৰ, পৃথিৱী আৰু মঙ্গল হ'ল অন্তৰ্ভাগৰ বা স্থলজ গ্ৰহ।"
@@ -760,17 +760,17 @@
         "en": [
           "Earth, Mars, Jupiter and Saturn",
           "Saturn, Uranus, Neptune and Pluto",
-          "Jupiter, Saturn, Uranus and Neptune",
-          "Mercury, Venus, Earth and Mars"
+          "Mercury, Venus, Earth and Mars",
+          "Jupiter, Saturn, Uranus and Neptune"
         ],
         "as": [
           "পৃথিৱী, মঙ্গল, বৃহস্পতি আৰু শনি",
           "শনি, ইউৰেনাচ, নেপচুন আৰু প্লুটো",
-          "বৃহস্পতি, শনি, ইউৰেনাচ আৰু নেপচুন",
-          "বুধ, শুক্ৰ, পৃথিৱী আৰু মঙ্গল"
+          "বুধ, শুক্ৰ, পৃথিৱী আৰু মঙ্গল",
+          "বৃহস্পতি, শনি, ইউৰেনাচ আৰু নেপচুন"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Jupiter, Saturn, Uranus and Neptune are the outer or Jovian gas giant planets.",
         "as": "বৃহস্পতি, শনি, ইউৰেনাচ আৰু নেপচুন হ'ল বাহিৰৰ বা জোভিয়ান গেছ দানৱ গ্ৰহ।"
@@ -787,19 +787,19 @@
       },
       "options": {
         "en": [
-          "Jupiter and Saturn",
+          "Mercury and Venus",
           "Uranus and Neptune",
           "Earth and Mars",
-          "Mercury and Venus"
+          "Jupiter and Saturn"
         ],
         "as": [
-          "বৃহস্পতি আৰু শনি",
+          "বুধ আৰু শুক্ৰ",
           "ইউৰেনাচ আৰু নেপচুন",
           "পৃথিৱী আৰু মঙ্গল",
-          "বুধ আৰু শুক্ৰ"
+          "বৃহস্পতি আৰু শনি"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Mercury and Venus are the only two planets with no natural satellites.",
         "as": "বুধ আৰু শুক্ৰয়ে একমাত্ৰ দুটা গ্ৰহ যাৰ কোনো প্ৰাকৃতিক উপগ্ৰহ নাই।"
@@ -818,17 +818,17 @@
         "en": [
           "Earth and Mars",
           "Neptune and Pluto",
-          "Mercury and Venus",
-          "Venus and Uranus"
+          "Venus and Uranus",
+          "Mercury and Venus"
         ],
         "as": [
           "পৃথিৱী আৰু মঙ্গল",
           "নেপচুন আৰু প্লুটো",
-          "বুধ আৰু শুক্ৰ",
-          "শুক্ৰ আৰু ইউৰেনাচ"
+          "শুক্ৰ আৰু ইউৰেনাচ",
+          "বুধ আৰু শুক্ৰ"
         ]
       },
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Venus and Uranus rotate from east to west, i.e., clockwise.",
         "as": "শুক্ৰ আৰু ইউৰেনাচ পূৱৰ পৰা পশ্চিমলৈ, অৰ্থাৎ ঘড়ীৰ দিশত ঘূৰে।"
@@ -846,18 +846,18 @@
       "options": {
         "en": [
           "Uranus",
-          "Jupiter",
           "Saturn",
+          "Jupiter",
           "Neptune"
         ],
         "as": [
           "ইউৰেনাচ",
-          "বৃহস্পতি",
           "শনি",
+          "বৃহস্পতি",
           "নেপচুন"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Saturn is the least dense planet; its density is less than that of water.",
         "as": "শনি আটাইতকৈ কম ঘনত্বৰ গ্ৰহ; ইয়াৰ ঘনত্ব পানীতকৈও কম।"
@@ -903,19 +903,19 @@
       },
       "options": {
         "en": [
-          "Mercury",
-          "Earth",
           "Mars",
+          "Earth",
+          "Mercury",
           "Venus"
         ],
         "as": [
-          "বুধ",
-          "পৃথিৱী",
           "মঙ্গল",
+          "পৃথিৱী",
+          "বুধ",
           "শুক্ৰ"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Mercury is the closest planet to the Sun.",
         "as": "বুধ সূৰ্যৰ আটাইতকৈ ওচৰৰ গ্ৰহ।"
@@ -932,19 +932,19 @@
       },
       "options": {
         "en": [
-          "Mars (687 days)",
+          "Mercury (takes only 88 Earth days)",
           "Venus (225 days)",
           "Earth (365 days)",
-          "Mercury (takes only 88 Earth days)"
+          "Mars (687 days)"
         ],
         "as": [
-          "মঙ্গল (৬৮৭ দিন)",
+          "বুধ (মাত্ৰ ৮৮ পৃথিৱী দিন লাগে)",
           "শুক্ৰ (২২৫ দিন)",
           "পৃথিৱী (৩৬৫ দিন)",
-          "বুধ (মাত্ৰ ৮৮ পৃথিৱী দিন লাগে)"
+          "মঙ্গল (৬৮৭ দিন)"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Mercury has the shortest orbital period, completing one revolution in only 88 Earth days.",
         "as": "বুধৰ কক্ষীয় কাল আটাইতকৈ চুটি, মাত্ৰ ৮৮ পৃথিৱী দিনত এপাক সম্পূৰ্ণ কৰে।"
@@ -961,19 +961,19 @@
       },
       "options": {
         "en": [
-          "Mercury",
-          "Mars",
           "Venus",
+          "Mars",
+          "Mercury",
           "Jupiter"
         ],
         "as": [
-          "বুধ",
-          "মঙ্গল",
           "শুক্ৰ",
+          "মঙ্গল",
+          "বুধ",
           "বৃহস্পতি"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Venus is the hottest planet, with a surface temperature of about 465 degrees Celsius.",
         "as": "শুক্ৰ আটাইতকৈ উষ্ণ গ্ৰহ, পৃষ্ঠৰ উষ্ণতা প্ৰায় ৪৬৫ ডিগ্ৰী ছেলছিয়াছ।"
@@ -991,18 +991,18 @@
       "options": {
         "en": [
           "Lack of any atmosphere",
-          "Volcanic activity on its surface",
+          "Dense atmosphere containing 96-97% carbon dioxide causing an extreme greenhouse effect",
           "Its closeness to the Sun only",
-          "Dense atmosphere containing 96-97% carbon dioxide causing an extreme greenhouse effect"
+          "Volcanic activity on its surface"
         ],
         "as": [
           "বায়ুমণ্ডলৰ অভাৱ",
-          "ইয়াৰ পৃষ্ঠত আগ্নেয় কাৰ্যকলাপ",
+          "৯৬-৯৭% কাৰ্বন ডাই অক্সাইডযুক্ত ঘন বায়ুমণ্ডলে তীব্ৰ গ্ৰীণহাউছ প্ৰভাৱ সৃষ্টি কৰে",
           "কেৱল সূৰ্যৰ নৈকট্যই",
-          "৯৬-৯৭% কাৰ্বন ডাই অক্সাইডযুক্ত ঘন বায়ুমণ্ডলে তীব্ৰ গ্ৰীণহাউছ প্ৰভাৱ সৃষ্টি কৰে"
+          "ইয়াৰ পৃষ্ঠত আগ্নেয় কাৰ্যকলাপ"
         ]
       },
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Venus is hottest because its dense carbon dioxide atmosphere causes an extreme greenhouse effect.",
         "as": "শুক্ৰ আটাইতকৈ উষ্ণ কাৰণ ইয়াৰ ঘন কাৰ্বন ডাই অক্সাইড বায়ুমণ্ডলে তীব্ৰ গ্ৰীণহাউছ প্ৰভাৱ সৃষ্টি কৰে।"
@@ -1021,17 +1021,17 @@
         "en": [
           "Mercury",
           "Jupiter",
-          "Venus",
-          "Mars"
+          "Mars",
+          "Venus"
         ],
         "as": [
           "বুধ",
           "বৃহস্পতি",
-          "শুক্ৰ",
-          "মঙ্গল"
+          "মঙ্গল",
+          "শুক্ৰ"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Venus is known as the Morning Star and Evening Star.",
         "as": "শুক্ৰক ৰাতিপুৱাৰ তৰা আৰু গধূলিৰ তৰা বোলা হয়।"
@@ -1050,17 +1050,17 @@
         "en": [
           "Earth's Moon",
           "Mars (due to similar atmosphere)",
-          "Mercury (due to similar temperature)",
-          "Venus (due to similar size, mass and structure)"
+          "Venus (due to similar size, mass and structure)",
+          "Mercury (due to similar temperature)"
         ],
         "as": [
           "পৃথিৱীৰ চন্দ্ৰ",
           "মঙ্গল (একে ধৰণৰ বায়ুমণ্ডলৰ বাবে)",
-          "বুধ (একে ধৰণৰ উষ্ণতাৰ বাবে)",
-          "শুক্ৰ (একে ধৰণৰ আকাৰ, ভৰ আৰু গঠনৰ বাবে)"
+          "শুক্ৰ (একে ধৰণৰ আকাৰ, ভৰ আৰু গঠনৰ বাবে)",
+          "বুধ (একে ধৰণৰ উষ্ণতাৰ বাবে)"
         ]
       },
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Venus is called Earth's Twin due to its similar size, mass and structure.",
         "as": "শুক্ৰক ইয়াৰ একে ধৰণৰ আকাৰ, ভৰ আৰু গঠনৰ বাবে পৃথিৱীৰ যমজ বোলা হয়।"
@@ -1078,18 +1078,18 @@
       "options": {
         "en": [
           "Jupiter",
-          "Venus",
+          "Mars",
           "Sirius",
-          "Mars"
+          "Venus"
         ],
         "as": [
           "বৃহস্পতি",
-          "শুক্ৰ",
+          "মঙ্গল",
           "চিৰিয়াচ",
-          "মঙ্গল"
+          "শুক্ৰ"
         ]
       },
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Venus is the brightest planet in the night sky.",
         "as": "শুক্ৰ ৰাতিৰ আকাশৰ আটাইতকৈ উজ্জ্বল গ্ৰহ।"
@@ -1107,18 +1107,18 @@
       "options": {
         "en": [
           "Mars",
-          "Jupiter",
+          "Venus",
           "Mercury",
-          "Venus"
+          "Jupiter"
         ],
         "as": [
           "মঙ্গল",
-          "বৃহস্পতি",
+          "শুক্ৰ",
           "বুধ",
-          "শুক্ৰ"
+          "বৃহস্পতি"
         ]
       },
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "On Venus a day is longer than its year: it takes 243 days to rotate and 225 days to orbit the Sun.",
         "as": "শুক্ৰত এটা দিন এটা বছৰতকৈ দীঘল: ঘূৰিবলৈ ২৪৩ দিন আৰু সূৰ্যৰ চাৰিওফালে ঘূৰিবলৈ ২২৫ দিন লাগে।"
@@ -1136,18 +1136,18 @@
       "options": {
         "en": [
           "Neptune (due to methane)",
-          "Earth (as approx. 71% of its surface is covered with water)",
           "Uranus (due to methane)",
+          "Earth (as approx. 71% of its surface is covered with water)",
           "Venus (due to clouds)"
         ],
         "as": [
           "নেপচুন (মিথেনৰ বাবে)",
-          "পৃথিৱী (পৃষ্ঠৰ প্ৰায় ৭১% পানীৰে আবৃত)",
           "ইউৰেনাচ (মিথেনৰ বাবে)",
+          "পৃথিৱী (পৃষ্ঠৰ প্ৰায় ৭১% পানীৰে আবৃত)",
           "শুক্ৰ (মেঘৰ বাবে)"
         ]
       },
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Earth is called the Blue Planet because about 71% of its surface is covered with water.",
         "as": "পৃথিৱীৰ পৃষ্ঠৰ প্ৰায় ৭১% পানীৰে আবৃত হোৱাৰ বাবে ইয়াক নীলা গ্ৰহ বোলা হয়।"
@@ -1164,19 +1164,19 @@
       },
       "options": {
         "en": [
-          "23 hours, 56 minutes and 4 seconds",
-          "24 hours exactly",
           "23 hours, 30 minutes",
+          "24 hours exactly",
+          "23 hours, 56 minutes and 4 seconds",
           "25 hours"
         ],
         "as": [
-          "২৩ ঘণ্টা, ৫৬ মিনিট আৰু ৪ ছেকেণ্ড",
-          "ঠিক ২৪ ঘণ্টা",
           "২৩ ঘণ্টা, ৩০ মিনিট",
+          "ঠিক ২৪ ঘণ্টা",
+          "২৩ ঘণ্টা, ৫৬ মিনিট আৰু ৪ ছেকেণ্ড",
           "২৫ ঘণ্টা"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Earth takes 23 hours, 56 minutes and 4 seconds to complete one rotation on its axis.",
         "as": "পৃথিৱীয়ে নিজ অক্ষত এপাক ঘূৰিবলৈ ২৩ ঘণ্টা, ৫৬ মিনিট আৰু ৪ ছেকেণ্ড লাগে।"
@@ -1251,19 +1251,19 @@
       },
       "options": {
         "en": [
-          "Earth's rotation on its axis",
           "Earth's revolution around the Sun combined with its tilted axis",
+          "Earth's rotation on its axis",
           "The Moon's revolution around Earth",
           "The Sun's rotation"
         ],
         "as": [
-          "পৃথিৱীৰ নিজ অক্ষত ঘূৰ্ণন",
           "পৃথিৱীৰ হেলা অক্ষৰ সৈতে সূৰ্যৰ চাৰিওফালে পৰিভ্ৰমণ",
+          "পৃথিৱীৰ নিজ অক্ষত ঘূৰ্ণন",
           "চন্দ্ৰৰ পৃথিৱীৰ চাৰিওফালে পৰিভ্ৰমণ",
           "সূৰ্যৰ ঘূৰ্ণন"
         ]
       },
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The change of seasons is caused by Earth's revolution around the Sun combined with its tilted axis.",
         "as": "ঋতু পৰিৱৰ্তন পৃথিৱীৰ হেলা অক্ষৰ সৈতে সূৰ্যৰ চাৰিওফালে পৰিভ্ৰমণৰ দ্বাৰা হয়।"
@@ -1280,19 +1280,19 @@
       },
       "options": {
         "en": [
-          "The tilt of the Sun",
+          "Earth's rotation on its axis",
           "Earth's revolution around the Sun",
           "The Moon's revolution",
-          "Earth's rotation on its axis"
+          "The tilt of the Sun"
         ],
         "as": [
-          "সূৰ্যৰ হেলা",
+          "পৃথিৱীৰ নিজ অক্ষত ঘূৰ্ণন",
           "সূৰ্যৰ চাৰিওফালে পৰিভ্ৰমণ",
           "চন্দ্ৰৰ পৰিভ্ৰমণ",
-          "পৃথিৱীৰ নিজ অক্ষত ঘূৰ্ণন"
+          "সূৰ্যৰ হেলা"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Day and night are caused by Earth's rotation on its axis.",
         "as": "দিন আৰু ৰাতি পৃথিৱীৰ নিজ অক্ষত ঘূৰ্ণনৰ দ্বাৰা হয়।"
@@ -1310,18 +1310,18 @@
       "options": {
         "en": [
           "Astronomy",
-          "Selenology",
+          "Cosmology",
           "Planetology",
-          "Cosmology"
+          "Selenology"
         ],
         "as": [
           "জ্যোতিৰ্বিজ্ঞান",
-          "চেলেন’লজী",
+          "কস্ম’লজী",
           "গ্ৰহবিজ্ঞান",
-          "কস্ম’লজী"
+          "চেলেন’লজী"
         ]
       },
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The scientific study of the Moon is called Selenology.",
         "as": "চন্দ্ৰৰ বৈজ্ঞানিক অধ্যয়নক চেলেন’লজী বোলা হয়।"
@@ -1338,19 +1338,19 @@
       },
       "options": {
         "en": [
-          "Approx. 1.3 seconds",
-          "Approx. 8 minutes",
           "Approx. 1 second",
+          "Approx. 8 minutes",
+          "Approx. 1.3 seconds",
           "Approx. 10 seconds"
         ],
         "as": [
-          "প্ৰায় ১.৩ ছেকেণ্ড",
-          "প্ৰায় ৮ মিনিট",
           "প্ৰায় ১ ছেকেণ্ড",
+          "প্ৰায় ৮ মিনিট",
+          "প্ৰায় ১.৩ ছেকেণ্ড",
           "প্ৰায় ১০ ছেকেণ্ড"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Moonlight takes about 1.3 seconds to reach Earth.",
         "as": "চন্দ্ৰৰ পোহৰ পৃথিৱীত উপনীত হ'বলৈ প্ৰায় ১.৩ ছেকেণ্ড লাগে।"
@@ -1396,19 +1396,19 @@
       },
       "options": {
         "en": [
-          "1/6th of Earth's gravity",
+          "Equal to Earth's gravity",
           "1/100th of Earth's gravity",
           "1/2 of Earth's gravity",
-          "Equal to Earth's gravity"
+          "1/6th of Earth's gravity"
         ],
         "as": [
-          "পৃথিৱীৰ মাধ্যাকৰ্ষণৰ ১/৬",
+          "পৃথিৱীৰ মাধ্যাকৰ্ষণৰ সমান",
           "পৃথিৱীৰ মাধ্যাকৰ্ষণৰ ১/১০০",
           "পৃথিৱীৰ মাধ্যাকৰ্ষণৰ ১/২",
-          "পৃথিৱীৰ মাধ্যাকৰ্ষণৰ সমান"
+          "পৃথিৱীৰ মাধ্যাকৰ্ষণৰ ১/৬"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Moon's gravity is about one-sixth of Earth's gravity.",
         "as": "চন্দ্ৰৰ মাধ্যাকৰ্ষণ পৃথিৱীৰ মাধ্যাকৰ্ষণৰ প্ৰায় ছয় ভাগৰ এক ভাগ।"
@@ -1426,18 +1426,18 @@
       "options": {
         "en": [
           "19 April 1975",
-          "20 July 1965 (Yuri Gagarin)",
           "20 July 1969 (Neil Armstrong, Apollo 11)",
+          "20 July 1965 (Yuri Gagarin)",
           "14 December 1972"
         ],
         "as": [
           "১৯ এপ্ৰিল ১৯৭৫",
-          "২০ জুলাই ১৯৬৫ (য়ুৰি গাগাৰিন)",
           "২০ জুলাই ১৯৬৯ (নীল আৰ্মষ্ট্ৰং, এপ’ল’ ১১)",
+          "২০ জুলাই ১৯৬৫ (য়ুৰি গাগাৰিন)",
           "১৪ ডিচেম্বৰ ১৯৭২"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Humans first landed on the Moon on 20 July 1969 during the Apollo 11 mission led by Neil Armstrong.",
         "as": "মানুহে প্ৰথমবাৰৰ বাবে ১৯৬৯ চনৰ ২০ জুলাইত নীল আৰ্মষ্ট্ৰঙৰ নেতৃত্বত এপ’ল’ ১১ অভিযানত চন্দ্ৰত অৱতৰণ কৰিছিল।"
@@ -1456,17 +1456,17 @@
         "en": [
           "Sea of Clouds",
           "Sea of Serenity",
-          "Sea of Tranquility",
-          "Ocean of Storms"
+          "Ocean of Storms",
+          "Sea of Tranquility"
         ],
         "as": [
           "মেঘৰ সাগৰ",
           "প্ৰশান্তি সাগৰ",
-          "শান্তি সাগৰ (ছি অফ ট্ৰাংকুইলিটি)",
-          "ধুমুহাৰ মহাসাগৰ"
+          "ধুমুহাৰ মহাসাগৰ",
+          "শান্তি সাগৰ (ছি অফ ট্ৰাংকুইলিটি)"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Neil Armstrong landed at the Sea of Tranquility on the Moon.",
         "as": "নীল আৰ্মষ্ট্ৰঙে চন্দ্ৰৰ শান্তি সাগৰত অৱতৰণ কৰিছিল।"
@@ -1483,19 +1483,19 @@
       },
       "options": {
         "en": [
-          "Mars",
-          "Mercury",
           "Venus",
+          "Mercury",
+          "Mars",
           "Jupiter"
         ],
         "as": [
-          "মঙ্গল",
-          "বুধ",
           "শুক্ৰ",
+          "বুধ",
+          "মঙ্গল",
           "বৃহস্পতি"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Mars is called the Red Planet.",
         "as": "মঙ্গলক ৰঙা গ্ৰহ বোলা হয়।"
@@ -1512,19 +1512,19 @@
       },
       "options": {
         "en": [
-          "Due to the abundance of iron oxide (rust) in its soil and atmosphere",
-          "Due to red clouds",
           "Due to red vegetation",
+          "Due to red clouds",
+          "Due to the abundance of iron oxide (rust) in its soil and atmosphere",
           "Due to volcanic lava"
         ],
         "as": [
-          "ইয়াৰ মাটি আৰু বায়ুমণ্ডলত লো-অক্সাইড (মামৰ) ৰ বাহুল্যৰ বাবে",
-          "ৰঙা মেঘৰ বাবে",
           "ৰঙা উদ্ভিদৰ বাবে",
+          "ৰঙা মেঘৰ বাবে",
+          "ইয়াৰ মাটি আৰু বায়ুমণ্ডলত লো-অক্সাইড (মামৰ) ৰ বাহুল্যৰ বাবে",
           "আগ্নেয় লাভাৰ বাবে"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Mars appears red because of iron oxide (rust) in its soil and atmosphere.",
         "as": "মঙ্গল ৰঙা দেখা যায় কাৰণ ইয়াৰ মাটি আৰু বায়ুমণ্ডলত লো-অক্সাইড (মামৰ) আছে।"
@@ -1600,18 +1600,18 @@
       "options": {
         "en": [
           "Mount Everest, on Earth",
-          "Olympus Mons, located on Mars",
+          "Mauna Loa, located on Earth",
           "Maxwell Montes, on Venus",
-          "Mauna Loa, located on Earth"
+          "Olympus Mons, located on Mars"
         ],
         "as": [
           "মাউণ্ট এভাৰেষ্ট, পৃথিৱীত",
-          "অলিম্পাছ মন্স, মঙ্গলত অৱস্থিত",
+          "মাউনা লোৱা, পৃথিৱীত",
           "মেক্সৱেল মন্টেছ, শুক্ৰত",
-          "মাউনা লোৱা, পৃথিৱীত"
+          "অলিম্পাছ মন্স, মঙ্গলত অৱস্থিত"
         ]
       },
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Olympus Mons on Mars is the largest volcano in the Solar System.",
         "as": "মঙ্গলৰ অলিম্পাছ মন্স সৌৰজগতৰ আটাইতকৈ বৃহৎ আগ্নেয়গিৰি।"
@@ -1628,19 +1628,19 @@
       },
       "options": {
         "en": [
-          "Mangalyaan (Mars Orbiter Mission, launched in 2013)",
           "Chandrayaan-1",
+          "Mangalyaan (Mars Orbiter Mission, launched in 2013)",
           "Gaganyaan",
           "Aditya-L1"
         ],
         "as": [
-          "মঙ্গলযান (মঙ্গল অৰবিটাৰ মিছন, ২০১৩ত উৎক্ষেপণ)",
           "চন্দ্ৰযান-১",
+          "মঙ্গলযান (মঙ্গল অৰবিটাৰ মিছন, ২০১৩ত উৎক্ষেপণ)",
           "গগনযান",
           "আদিত্য-এল১"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Mangalyaan was India's first interplanetary mission, launched in 2013.",
         "as": "মঙ্গলযান ২০১৩ চনত উৎক্ষেপিত ভাৰতৰ প্ৰথম আন্তঃগ্ৰহ মিছন আছিল।"
@@ -1659,17 +1659,17 @@
         "en": [
           "Neptune",
           "Saturn",
-          "Jupiter",
-          "Uranus"
+          "Uranus",
+          "Jupiter"
         ],
         "as": [
           "নেপচুন",
           "শনি",
-          "বৃহস্পতি",
-          "ইউৰেনাচ"
+          "ইউৰেনাচ",
+          "বৃহস্পতি"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Jupiter is the largest planet in the Solar System.",
         "as": "বৃহস্পতি সৌৰজগতৰ আটাইতকৈ বৃহৎ গ্ৰহ।"
@@ -1716,18 +1716,18 @@
       "options": {
         "en": [
           "A ring of Saturn",
-          "A crater on Mars",
           "A massive anticyclonic storm on Jupiter",
+          "A crater on Mars",
           "A moon of Neptune"
         ],
         "as": [
           "শনিৰ এটা বলয়",
-          "মঙ্গলৰ এটা গহ্বৰ",
           "বৃহস্পতিৰ এটা বিশাল প্ৰতি-চাইক্ল’নিক ধুমুহা",
+          "মঙ্গলৰ এটা গহ্বৰ",
           "নেপচুনৰ এটা উপগ্ৰহ"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Great Red Spot is a massive anticyclonic storm on Jupiter.",
         "as": "গ্ৰেট ৰেড স্পট বৃহস্পতিৰ এটা বিশাল প্ৰতি-চাইক্ল’নিক ধুমুহা।"
@@ -1744,19 +1744,19 @@
       },
       "options": {
         "en": [
-          "Callisto",
-          "Titan",
           "Ganymede",
+          "Titan",
+          "Callisto",
           "Moon"
         ],
         "as": [
-          "কেলিষ্ট’",
-          "টাইটান",
           "গেনিমিড",
+          "টাইটান",
+          "কেলিষ্ট’",
           "চন্দ্ৰ"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Ganymede, a moon of Jupiter, is the largest satellite in the Solar System.",
         "as": "গেনিমিড, বৃহস্পতিৰ উপগ্ৰহ, সৌৰজগতৰ আটাইতকৈ বৃহৎ উপগ্ৰহ।"
@@ -1773,19 +1773,19 @@
       },
       "options": {
         "en": [
-          "Saturn",
-          "Jupiter",
           "Neptune",
+          "Jupiter",
+          "Saturn",
           "Uranus"
         ],
         "as": [
-          "শনি",
-          "বৃহস্পতি",
           "নেপচুন",
+          "বৃহস্পতি",
+          "শনি",
           "ইউৰেনাচ"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Saturn is famous for its most prominent and beautiful ring system.",
         "as": "শনি তাৰ আটাইতকৈ বিশিষ্ট আৰু ধুনীয়া বলয় প্ৰণালীৰ বাবে বিখ্যাত।"
@@ -1802,19 +1802,19 @@
       },
       "options": {
         "en": [
-          "Ice particles, rocky debris and dust",
+          "Liquid water",
           "Only gas",
           "Iron and nickel",
-          "Liquid water"
+          "Ice particles, rocky debris and dust"
         ],
         "as": [
-          "বৰফৰ কণিকা, শিলগুটি আৰু ধূলি",
+          "জুলীয়া পানী",
           "কেৱল গেছ",
           "লো আৰু নিকেল",
-          "জুলীয়া পানী"
+          "বৰফৰ কণিকা, শিলগুটি আৰু ধূলি"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Saturn's rings are mainly composed of ice particles, rocky debris and dust.",
         "as": "শনিৰ বলয় মূলত বৰফৰ কণিকা, শিলগুটি আৰু ধূলিৰে গঠিত।"
@@ -1831,19 +1831,19 @@
       },
       "options": {
         "en": [
-          "Mimas",
-          "Rhea",
           "Titan",
+          "Rhea",
+          "Mimas",
           "Enceladus"
         ],
         "as": [
-          "মিমাছ",
-          "ৰিয়া",
           "টাইটান",
+          "ৰিয়া",
+          "মিমাছ",
           "এনচেলাডাছ"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Titan is the largest moon of Saturn and the second-largest in the Solar System.",
         "as": "টাইটান শনিৰ আটাইতকৈ বৃহৎ উপগ্ৰহ আৰু সৌৰজগতৰ দ্বিতীয় বৃহত্তম।"
@@ -1861,18 +1861,18 @@
       "options": {
         "en": [
           "Earth's Moon",
-          "Titan",
+          "Ganymede",
           "Phobos",
-          "Ganymede"
+          "Titan"
         ],
         "as": [
           "পৃথিৱীৰ চন্দ্ৰ",
-          "টাইটান",
+          "গেনিমিড",
           "ফ’বছ",
-          "গেনিমিড"
+          "টাইটান"
         ]
       },
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Titan is the only moon known to have its own dense atmosphere.",
         "as": "টাইটানেই একমাত্ৰ উপগ্ৰহ যাৰ নিজৰ ঘন বায়ুমণ্ডল আছে বুলি জনা যায়।"
@@ -1890,18 +1890,18 @@
       "options": {
         "en": [
           "Neptune",
-          "Jupiter",
           "Uranus",
+          "Jupiter",
           "Saturn"
         ],
         "as": [
           "নেপচুন",
-          "বৃহস্পতি",
           "ইউৰেনাচ",
+          "বৃহস্পতি",
           "শনি"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Uranus appears green due to high levels of methane gas in its atmosphere.",
         "as": "ইউৰেনাচৰ বায়ুমণ্ডলত বেছি মাত্ৰাৰ মিথেন গেছৰ বাবে ই সেউজীয়া দেখা যায়।"
@@ -1918,19 +1918,19 @@
       },
       "options": {
         "en": [
-          "Saturn",
+          "Uranus",
           "Pluto",
           "Neptune",
-          "Uranus"
+          "Saturn"
         ],
         "as": [
-          "শনি",
+          "ইউৰেনাচ",
           "প্লুটো",
           "নেপচুন",
-          "ইউৰেনাচ"
+          "শনি"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Uranus is the coldest planet, with temperatures dropping to about minus 224 degrees Celsius.",
         "as": "ইউৰেনাচ আটাইতকৈ শীতল গ্ৰহ, উষ্ণতা প্ৰায় বিয়োগ ২২৪ ডিগ্ৰী ছেলছিয়াছলৈ নামে।"
@@ -1948,18 +1948,18 @@
       "options": {
         "en": [
           "Neptune",
-          "Saturn",
+          "Uranus",
           "Venus",
-          "Uranus"
+          "Saturn"
         ],
         "as": [
           "নেপচুন",
-          "শনি",
+          "ইউৰেনাচ",
           "শুক্ৰ",
-          "ইউৰেনাচ"
+          "শনি"
         ]
       },
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Uranus is called the Sideways or Lying Planet because of its extreme axial tilt of about 98 degrees.",
         "as": "ইউৰেনাচক পাৰ্শ্বৱৰ্তী বা শয়ান গ্ৰহ বোলা হয় কাৰণ ইয়াৰ অক্ষীয় হেলা প্ৰায় ৯৮ ডিগ্ৰী।"
@@ -2005,19 +2005,19 @@
       },
       "options": {
         "en": [
-          "Neptune",
+          "Pluto",
           "Uranus",
           "Saturn",
-          "Pluto"
+          "Neptune"
         ],
         "as": [
-          "নেপচুন",
+          "প্লুটো",
           "ইউৰেনাচ",
           "শনি",
-          "প্লুটো"
+          "নেপচুন"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Neptune is the farthest planet from the Sun.",
         "as": "নেপচুন সূৰ্যৰ পৰা আটাইতকৈ দূৰৰ গ্ৰহ।"
@@ -2035,18 +2035,18 @@
       "options": {
         "en": [
           "Nereid",
-          "Charon",
           "Triton",
+          "Charon",
           "Titan"
         ],
         "as": [
           "নেৰেইড",
-          "চেৰন",
           "ট্ৰাইটন",
+          "চেৰন",
           "টাইটান"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Triton is the largest moon of Neptune.",
         "as": "ট্ৰাইটন নেপচুনৰ আটাইতকৈ বৃহৎ উপগ্ৰহ।"
@@ -2092,19 +2092,19 @@
       },
       "options": {
         "en": [
-          "In 1985 by the United Nations",
-          "In 1996 by NASA",
           "In 2006 by the International Astronomical Union (IAU)",
+          "In 1996 by NASA",
+          "In 1985 by the United Nations",
           "In 2010 by ISRO"
         ],
         "as": [
-          "১৯৮৫ চনত ৰাষ্ট্ৰসংঘই",
-          "১৯৯৬ চনত নাছাই",
           "২০০৬ চনত আন্তঃৰাষ্ট্ৰীয় জ্যোতিৰ্বিজ্ঞান সংঘই (IAU)",
+          "১৯৯৬ চনত নাছাই",
+          "১৯৮৫ চনত ৰাষ্ট্ৰসংঘই",
           "২০১০ চনত ইছৰ’ই"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "In 2006 the International Astronomical Union reclassified Pluto as a dwarf planet.",
         "as": "২০০৬ চনত আন্তঃৰাষ্ট্ৰীয় জ্যোতিৰ্বিজ্ঞান সংঘই প্লুটোক বাওনা গ্ৰহ হিচাপে পুনৰ্শ্ৰেণীবদ্ধ কৰে।"
@@ -2122,18 +2122,18 @@
       "options": {
         "en": [
           "Ceres, Vesta, Pallas, Juno and Eris",
-          "Pluto, Ceres, Eris, Haumea and Makemake",
           "Pluto, Titan, Triton, Luna and Europa",
+          "Pluto, Ceres, Eris, Haumea and Makemake",
           "Mercury, Venus, Earth, Mars and Jupiter"
         ],
         "as": [
           "চেৰেছ, ভেষ্টা, পালাছ, জুন’ আৰু এৰিছ",
-          "প্লুটো, চেৰেছ, এৰিছ, হাউমিয়া আৰু মাকেমাকে",
           "প্লুটো, টাইটান, ট্ৰাইটন, লুনা আৰু ইউৰোপা",
+          "প্লুটো, চেৰেছ, এৰিছ, হাউমিয়া আৰু মাকেমাকে",
           "বুধ, শুক্ৰ, পৃথিৱী, মঙ্গল আৰু বৃহস্পতি"
         ]
       },
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The five recognised dwarf planets are Pluto, Ceres, Eris, Haumea and Makemake.",
         "as": "স্বীকৃত পাঁচটা বাওনা গ্ৰহ হ'ল প্লুটো, চেৰেছ, এৰিছ, হাউমিয়া আৰু মাকেমাকে।"
@@ -2150,19 +2150,19 @@
       },
       "options": {
         "en": [
-          "Earth and Mars",
-          "Venus and Earth",
           "Mars and Jupiter",
+          "Venus and Earth",
+          "Earth and Mars",
           "Jupiter and Saturn"
         ],
         "as": [
-          "পৃথিৱী আৰু মঙ্গল",
-          "শুক্ৰ আৰু পৃথিৱী",
           "মঙ্গল আৰু বৃহস্পতি",
+          "শুক্ৰ আৰু পৃথিৱী",
+          "পৃথিৱী আৰু মঙ্গল",
           "বৃহস্পতি আৰু শনি"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Asteroid Belt lies between the orbits of Mars and Jupiter.",
         "as": "গ্ৰহাণু পটী মঙ্গল আৰু বৃহস্পতিৰ কক্ষপথৰ মাজত অৱস্থিত।"
@@ -2209,18 +2209,18 @@
       "options": {
         "en": [
           "Liquid water only",
-          "Ice, dust, frozen gases and rocky particles",
           "Pure hydrogen gas",
+          "Ice, dust, frozen gases and rocky particles",
           "Only molten lava"
         ],
         "as": [
           "কেৱল জুলীয়া পানী",
-          "বৰফ, ধূলি, জমা গেছ আৰু শিলগুটি",
           "বিশুদ্ধ হাইড্ৰজেন গেছ",
+          "বৰফ, ধূলি, জমা গেছ আৰু শিলগুটি",
           "কেৱল গলিত লাভা"
         ]
       },
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Comets are made of ice, dust, frozen gases and rocky particles, called dirty snowballs.",
         "as": "ধূমকেতুবোৰ বৰফ, ধূলি, জমা গেছ আৰু শিলগুটিৰে গঠিত, যাক লেতেৰা বৰফগোলক বোলা হয়।"
@@ -2238,18 +2238,18 @@
       "options": {
         "en": [
           "In the direction of its motion",
-          "Away from the Sun",
+          "Towards Earth",
           "Towards the Sun",
-          "Towards Earth"
+          "Away from the Sun"
         ],
         "as": [
           "ইয়াৰ গতিপথৰ দিশত",
-          "সূৰ্যৰ পৰা আঁতৰলৈ",
+          "পৃথিৱীৰ ফালে",
           "সূৰ্যৰ ফালে",
-          "পৃথিৱীৰ ফালে"
+          "সূৰ্যৰ পৰা আঁতৰলৈ"
         ]
       },
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "A comet's tail always points away from the Sun, pushed by solar radiation and solar wind.",
         "as": "ধূমকেতুৰ নেজ সদায় সূৰ্যৰ পৰা আঁতৰলৈ মেলে, সৌৰ বিকিৰণ আৰু সৌৰ বতাহে ঠেলি দিয়ে।"
@@ -2266,19 +2266,19 @@
       },
       "options": {
         "en": [
-          "Every 10 years",
+          "Approximately every 75-76 years",
           "Every 200 years",
           "Every 500 years",
-          "Approximately every 75-76 years"
+          "Every 10 years"
         ],
         "as": [
-          "প্ৰতি ১০ বছৰত",
+          "প্ৰায় প্ৰতি ৭৫-৭৬ বছৰত",
           "প্ৰতি ২০০ বছৰত",
           "প্ৰতি ৫০০ বছৰত",
-          "প্ৰায় প্ৰতি ৭৫-৭৬ বছৰত"
+          "প্ৰতি ১০ বছৰত"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Halley's Comet appears approximately every 75-76 years.",
         "as": "হেলীৰ ধূমকেতু প্ৰায় প্ৰতি ৭৫-৭৬ বছৰৰ মূৰে মূৰে দেখা যায়।"
@@ -2296,18 +2296,18 @@
       "options": {
         "en": [
           "Last seen in 1976; next in 2051",
-          "Last seen in 1996; next in 2071",
           "Last seen in 1986; next in 2061",
+          "Last seen in 1996; next in 2071",
           "Last seen in 2000; next in 2080"
         ],
         "as": [
           "১৯৭৬ চনত শেষ; ২০৫১ চনত",
-          "১৯৯৬ চনত শেষ; ২০৭১ চনত",
           "১৯৮৬ চনত শেষ দেখা; ২০৬১ চনত পুনৰ",
+          "১৯৯৬ চনত শেষ; ২০৭১ চনত",
           "২০০০ চনত শেষ; ২০৮০ চনত"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Halley's Comet was last seen in 1986 and is expected to return in 2061.",
         "as": "হেলীৰ ধূমকেতু ১৯৮৬ চনত শেষবাৰ দেখা গৈছিল আৰু ২০৬১ চনত ঘূৰি আহিব বুলি আশা কৰা হৈছে।"
@@ -2353,19 +2353,19 @@
       },
       "options": {
         "en": [
-          "Meteor",
-          "Meteoroid",
           "Meteorite",
+          "Meteoroid",
+          "Meteor",
           "Asteroid"
         ],
         "as": [
-          "উল্কা",
-          "উল্কাকায়",
           "উল্কাপিণ্ড",
+          "উল্কাকায়",
+          "উল্কা",
           "গ্ৰহাণু"
         ]
       },
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "A meteorite is the remnant of a meteor that reaches the ground.",
         "as": "উল্কাপিণ্ড হ'ল মাটিত উপনীত হোৱা উল্কাৰ অৱশিষ্ট।"
@@ -2382,19 +2382,19 @@
       },
       "options": {
         "en": [
-          "Sambhar Lake",
+          "Lonar Lake",
           "Chilika Lake",
           "Wular Lake",
-          "Lonar Lake"
+          "Sambhar Lake"
         ],
         "as": [
-          "সাঁভৰ হ্ৰদ",
+          "ল’নাৰ হ্ৰদ",
           "চিলিকা হ্ৰদ",
           "ৱুলাৰ হ্ৰদ",
-          "ল’নাৰ হ্ৰদ"
+          "সাঁভৰ হ্ৰদ"
         ]
       },
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Lonar Lake in Maharashtra was formed by a meteorite impact.",
         "as": "মহাৰাষ্ট্ৰৰ ল’নাৰ হ্ৰদ উল্কাপাতৰ ফলত সৃষ্টি হৈছিল।"
@@ -2412,18 +2412,18 @@
       "options": {
         "en": [
           "When the Earth passes between the Sun and Moon",
-          "When two planets align together",
+          "When the Moon passes directly between the Sun and Earth",
           "When the Sun passes between the Earth and Moon",
-          "When the Moon passes directly between the Sun and Earth"
+          "When two planets align together"
         ],
         "as": [
           "যেতিয়া পৃথিৱীয়ে সূৰ্য আৰু চন্দ্ৰৰ মাজেৰে যায়",
-          "যেতিয়া দুটা গ্ৰহ একৰেখাত আহে",
+          "যেতিয়া চন্দ্ৰই সূৰ্য আৰু পৃথিৱীৰ মাজেৰে সোজাসুজি যায়",
           "যেতিয়া সূৰ্যই পৃথিৱী আৰু চন্দ্ৰৰ মাজেৰে যায়",
-          "যেতিয়া চন্দ্ৰই সূৰ্য আৰু পৃথিৱীৰ মাজেৰে সোজাসুজি যায়"
+          "যেতিয়া দুটা গ্ৰহ একৰেখাত আহে"
         ]
       },
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "A solar eclipse occurs on a new moon day when the Moon comes between the Sun and Earth.",
         "as": "সূৰ্যগ্ৰহণ অমাৱস্যাৰ দিনা হয় যেতিয়া চন্দ্ৰ সূৰ্য আৰু পৃথিৱীৰ মাজত আহে।"
@@ -2471,17 +2471,17 @@
         "en": [
           "Eclipse",
           "Equinox",
-          "Solstice",
-          "Syzygy"
+          "Syzygy",
+          "Solstice"
         ],
         "as": [
           "গ্ৰহণ",
           "বিষুৱ",
-          "অয়ন",
-          "ছিজিগি"
+          "ছিজিগি",
+          "অয়ন"
         ]
       },
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The straight-line alignment of three celestial bodies is called syzygy.",
         "as": "তিনিটা খগোলীয় বস্তুৰ একৰেখীয় সংৰেখনক ছিজিগি বোলা হয়।"
@@ -2499,18 +2499,18 @@
       "options": {
         "en": [
           "Aphelion",
-          "Perihelion",
+          "Perigee",
           "Apogee",
-          "Perigee"
+          "Perihelion"
         ],
         "as": [
           "সূৰ্যাপগম",
-          "সূৰ্যনিকট",
+          "ভূ-নিকট",
           "ভূ-অপগম",
-          "ভূ-নিকট"
+          "সূৰ্যনিকট"
         ]
       },
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Perihelion is the point in Earth's orbit closest to the Sun, around 3 January.",
         "as": "সূৰ্যনিকট হ'ল পৃথিৱীৰ কক্ষপথত সূৰ্যৰ আটাইতকৈ ওচৰৰ বিন্দু, প্ৰায় ৩ জানুৱাৰী।"
@@ -2529,17 +2529,17 @@
         "en": [
           "Apogee",
           "Perigee",
-          "Aphelion",
-          "Perihelion"
+          "Perihelion",
+          "Aphelion"
         ],
         "as": [
           "ভূ-অপগম",
           "ভূ-নিকট",
-          "সূৰ্যাপগম",
-          "সূৰ্যনিকট"
+          "সূৰ্যনিকট",
+          "সূৰ্যাপগম"
         ]
       },
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Aphelion is the point in Earth's orbit farthest from the Sun, around 4 July.",
         "as": "সূৰ্যাপগম হ'ল পৃথিৱীৰ কক্ষপথত সূৰ্যৰ আটাইতকৈ দূৰৰ বিন্দু, প্ৰায় ৪ জুলাই।"
@@ -2557,18 +2557,18 @@
       "options": {
         "en": [
           "When the day is longest",
-          "When day and night are of equal length",
           "When the night is longest",
+          "When day and night are of equal length",
           "When the Sun is farthest"
         ],
         "as": [
           "যেতিয়া দিন আটাইতকৈ দীঘল",
-          "যেতিয়া দিন আৰু ৰাতিৰ দৈৰ্ঘ্য সমান হয়",
           "যেতিয়া ৰাতি আটাইতকৈ দীঘল",
+          "যেতিয়া দিন আৰু ৰাতিৰ দৈৰ্ঘ্য সমান হয়",
           "যেতিয়া সূৰ্য আটাইতকৈ দূৰত"
         ]
       },
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "An equinox is when day and night are of equal length, occurring on 21 March and 23 September.",
         "as": "বিষুৱ হ'ল যেতিয়া দিন আৰু ৰাতিৰ দৈৰ্ঘ্য সমান হয়, ২১ মাৰ্চ আৰু ২৩ ছেপ্তেম্বৰত।"
@@ -2586,18 +2586,18 @@
       "options": {
         "en": [
           "December 22",
-          "March 21",
           "June 21 (Summer Solstice)",
+          "March 21",
           "September 23"
         ],
         "as": [
           "২২ ডিচেম্বৰ",
-          "২১ মাৰ্চ",
           "২১ জুন (গ্ৰীষ্ম অয়ন)",
+          "২১ মাৰ্চ",
           "২৩ ছেপ্তেম্বৰ"
         ]
       },
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "June 21, the summer solstice, is the longest day in the Northern Hemisphere.",
         "as": "২১ জুন, গ্ৰীষ্ম অয়ন, উত্তৰ গোলাৰ্ধৰ আটাইতকৈ দীঘল দিন।"
@@ -2614,19 +2614,19 @@
       },
       "options": {
         "en": [
-          "December 22 (Winter Solstice)",
-          "September 23",
           "March 21",
+          "September 23",
+          "December 22 (Winter Solstice)",
           "June 21"
         ],
         "as": [
-          "২২ ডিচেম্বৰ (শীত অয়ন)",
-          "২৩ ছেপ্তেম্বৰ",
           "২১ মাৰ্চ",
+          "২৩ ছেপ্তেম্বৰ",
+          "২২ ডিচেম্বৰ (শীত অয়ন)",
           "২১ জুন"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "December 22, the winter solstice, is the shortest day in the Northern Hemisphere.",
         "as": "২২ ডিচেম্বৰ, শীত অয়ন, উত্তৰ গোলাৰ্ধৰ আটাইতকৈ চুটি দিন।"
@@ -2672,19 +2672,19 @@
       },
       "options": {
         "en": [
-          "Hyderabad, Telangana",
           "Bengaluru, Karnataka",
+          "Hyderabad, Telangana",
           "New Delhi",
           "Thiruvananthapuram, Kerala"
         ],
         "as": [
-          "হায়দৰাবাদ, তেলেংগানা",
           "বেংগালুৰু, কৰ্ণাটক",
+          "হায়দৰাবাদ, তেলেংগানা",
           "নতুন দিল্লী",
           "তিৰুবনন্তপুৰম, কেৰালা"
         ]
       },
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The headquarters of ISRO is located in Bengaluru, Karnataka.",
         "as": "ইছৰ’ৰ মুখ্য কাৰ্যালয় কৰ্ণাটকৰ বেংগালুৰুত অৱস্থিত।"
@@ -2789,18 +2789,18 @@
       "options": {
         "en": [
           "Chandrayaan-3",
-          "NASA's Apollo 11",
+          "India's Chandrayaan-1 (in 2008)",
           "Mangalyaan",
-          "India's Chandrayaan-1 (in 2008)"
+          "NASA's Apollo 11"
         ],
         "as": [
           "চন্দ্ৰযান-৩",
-          "নাছাৰ এপ’ল’ ১১",
+          "ভাৰতৰ চন্দ্ৰযান-১ (২০০৮ চনত)",
           "মঙ্গলযান",
-          "ভাৰতৰ চন্দ্ৰযান-১ (২০০৮ চনত)"
+          "নাছাৰ এপ’ল’ ১১"
         ]
       },
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "India's Chandrayaan-1 mission in 2008 first confirmed water molecules on the Moon.",
         "as": "২০০৮ চনত ভাৰতৰ চন্দ্ৰযান-১ মিছনে প্ৰথমে চন্দ্ৰত পানীৰ অণু নিশ্চিত কৰিছিল।"
@@ -2819,17 +2819,17 @@
         "en": [
           "Russia",
           "USA",
-          "China",
-          "India (Chandrayaan-3 on 23 August 2023)"
+          "India (Chandrayaan-3 on 23 August 2023)",
+          "China"
         ],
         "as": [
           "ৰাছিয়া",
           "আমেৰিকা",
-          "চীন",
-          "ভাৰত (২৩ আগষ্ট ২০২৩ত চন্দ্ৰযান-৩)"
+          "ভাৰত (২৩ আগষ্ট ২০২৩ত চন্দ্ৰযান-৩)",
+          "চীন"
         ]
       },
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "India became the first country to land a spacecraft near the lunar south pole with Chandrayaan-3 in 2023.",
         "as": "২০২৩ চনত চন্দ্ৰযান-৩-ৰ জৰিয়তে ভাৰত চন্দ্ৰৰ দক্ষিণ মেৰুৰ ওচৰত যান অৱতৰণ কৰা প্ৰথম দেশ হৈ পৰিছিল।"
@@ -2876,18 +2876,18 @@
       "options": {
         "en": [
           "Lander: 'Pragyan'; Rover: 'Vikram'",
-          "Lander: 'Vikram'; Rover: 'Pragyan'",
           "Lander: 'Aryabhata'; Rover: 'Bhaskara'",
+          "Lander: 'Vikram'; Rover: 'Pragyan'",
           "Lander: 'Aditya'; Rover: 'Surya'"
         ],
         "as": [
           "লেণ্ডাৰ: 'প্ৰজ্ঞান'; ৰ’ভাৰ: 'বিক্ৰম'",
-          "লেণ্ডাৰ: 'বিক্ৰম'; ৰ’ভাৰ: 'প্ৰজ্ঞান'",
           "লেণ্ডাৰ: 'আৰ্যভট্ট'; ৰ’ভাৰ: 'ভাস্কৰ'",
+          "লেণ্ডাৰ: 'বিক্ৰম'; ৰ’ভাৰ: 'প্ৰজ্ঞান'",
           "লেণ্ডাৰ: 'আদিত্য'; ৰ’ভাৰ: 'সূৰ্য'"
         ]
       },
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Chandrayaan-3 lander was named Vikram and the rover Pragyan.",
         "as": "চন্দ্ৰযান-৩ ৰ লেণ্ডাৰৰ নাম বিক্ৰম আৰু ৰ’ভাৰৰ নাম প্ৰজ্ঞান।"
@@ -2905,18 +2905,18 @@
       "options": {
         "en": [
           "Gaganyaan",
-          "Aditya-L1",
           "Surya-1",
+          "Aditya-L1",
           "Chandrayaan-1"
         ],
         "as": [
           "গগনযান",
-          "আদিত্য-এল১",
           "সূৰ্য-১",
+          "আদিত্য-এল১",
           "চন্দ্ৰযান-১"
         ]
       },
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Aditya-L1 is India's first dedicated solar observatory mission.",
         "as": "আদিত্য-এল১ ভাৰতৰ প্ৰথম সমৰ্পিত সৌৰ পৰ্যবেক্ষণ মিছন।"

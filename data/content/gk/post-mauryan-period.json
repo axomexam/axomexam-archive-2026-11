@@ -134,8 +134,8 @@
       },
       "options": [
         {
-          "en": "Patanjali",
-          "as": "পতঞ্জলি"
+          "en": "Ashvaghosha",
+          "as": "অশ্বঘোষ"
         },
         {
           "en": "Panini",
@@ -146,11 +146,11 @@
           "as": "কালিদাস"
         },
         {
-          "en": "Ashvaghosha",
-          "as": "অশ্বঘোষ"
+          "en": "Patanjali",
+          "as": "পতঞ্জলি"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Patanjali, the famous Sanskrit grammarian, was a contemporary of Pushyamitra.",
         "as": "বিখ্যাত সংস্কৃত ব্যাকৰণবিদ পতঞ্জলি পুষ্যমিত্ৰৰ সমকালীন আছিল।"
@@ -167,8 +167,8 @@
       },
       "options": [
         {
-          "en": "The Arthashastra",
-          "as": "অৰ্থশাস্ত্ৰ"
+          "en": "The Mahabhashya, a commentary on Panini's grammar (and the Yoga Sutras)",
+          "as": "মহাভাষ্য, পাণিনিৰ ব্যাকৰণৰ টীকা (আৰু যোগসূত্ৰ)"
         },
         {
           "en": "The Buddhacharita",
@@ -179,11 +179,11 @@
           "as": "মুদ্ৰাৰাক্ষস"
         },
         {
-          "en": "The Mahabhashya, a commentary on Panini's grammar (and the Yoga Sutras)",
-          "as": "মহাভাষ্য, পাণিনিৰ ব্যাকৰণৰ টীকা (আৰু যোগসূত্ৰ)"
+          "en": "The Arthashastra",
+          "as": "অৰ্থশাস্ত্ৰ"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Patanjali wrote the Mahabhashya, a commentary on Panini's grammar, and the Yoga Sutras.",
         "as": "পতঞ্জলিয়ে পাণিনিৰ ব্যাকৰণৰ টীকা মহাভাষ্য আৰু যোগসূত্ৰ ৰচনা কৰিছিল।"
@@ -208,15 +208,15 @@
           "as": "জৈন ধৰ্ম"
         },
         {
-          "en": "Brahmanism, especially the Bhagavata (Vaishnava) cult",
-          "as": "ব্ৰাহ্মণ্য ধৰ্ম, বিশেষকৈ ভাগৱত (বৈষ্ণৱ) ধৰ্ম"
-        },
-        {
           "en": "Mahayana Buddhism",
           "as": "মহাযান বৌদ্ধ ধৰ্ম"
+        },
+        {
+          "en": "Brahmanism, especially the Bhagavata (Vaishnava) cult",
+          "as": "ব্ৰাহ্মণ্য ধৰ্ম, বিশেষকৈ ভাগৱত (বৈষ্ণৱ) ধৰ্ম"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Sunga rulers patronised Brahmanism, especially the Bhagavata (Vaishnava) cult.",
         "as": "শুংগ শাসকসকলে ব্ৰাহ্মণ্য ধৰ্ম, বিশেষকৈ ভাগৱত (বৈষ্ণৱ) ধৰ্মক পৃষ্ঠপোষকতা কৰিছিল।"
@@ -233,23 +233,23 @@
       },
       "options": [
         {
-          "en": "The Rajasuya",
-          "as": "ৰাজসূয়"
+          "en": "The Ashvamedha (horse sacrifice)",
+          "as": "অশ্বমেধ (ঘোঁৰা বলি)"
         },
         {
           "en": "The Vajapeya",
           "as": "বাজপেয়"
         },
         {
-          "en": "The Ashvamedha (horse sacrifice)",
-          "as": "অশ্বমেধ (ঘোঁৰা বলি)"
+          "en": "The Rajasuya",
+          "as": "ৰাজসূয়"
         },
         {
           "en": "The Sautramani",
           "as": "সৌত্ৰামণি"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Pushyamitra Sunga performed the Ashvamedha (horse sacrifice).",
         "as": "পুষ্যমিত্ৰ শুংগই অশ্বমেধ যজ্ঞ কৰিছিল।"
@@ -270,19 +270,19 @@
           "as": "অমৰাৱতী আৰু নাগাৰ্জুনকোণ্ডা স্তূপ"
         },
         {
-          "en": "The Bharhut and Sanchi stupas",
-          "as": "ভৰহুত আৰু সাঁচী স্তূপ"
-        },
-        {
           "en": "The Dhamek stupa at Sarnath",
           "as": "সাৰনাথৰ ধমেক স্তূপ"
+        },
+        {
+          "en": "The Bharhut and Sanchi stupas",
+          "as": "ভৰহুত আৰু সাঁচী স্তূপ"
         },
         {
           "en": "The Borobudur stupa",
           "as": "বৰোবুদুৰ স্তূপ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Bharhut and Sanchi stupas were embellished during the Sunga period.",
         "as": "শুংগ যুগত ভৰহুত আৰু সাঁচী স্তূপৰ সৌন্দৰ্য বৰ্ধন কৰা হৈছিল।"
@@ -340,15 +340,15 @@
           "as": "সাতবাহন ৰজা সিমুক"
         },
         {
-          "en": "The last Mauryan prince Brihadratha",
-          "as": "শেষ মৌৰ্য ৰাজপুত্ৰ বৃহদ্ৰথ"
-        },
-        {
           "en": "His minister Vasudeva, who then founded the Kanva dynasty",
           "as": "তেওঁৰ মন্ত্ৰী বাসুদেৱ, যি পিছত কাণ্ব বংশ প্ৰতিষ্ঠা কৰিছিল"
+        },
+        {
+          "en": "The last Mauryan prince Brihadratha",
+          "as": "শেষ মৌৰ্য ৰাজপুত্ৰ বৃহদ্ৰথ"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Vasudeva, the minister of Devabhuti, killed him and founded the Kanva dynasty.",
         "as": "দেৱভূতিৰ মন্ত্ৰী বাসুদেৱে তেওঁক হত্যা কৰি কাণ্ব বংশ প্ৰতিষ্ঠা কৰিছিল।"
@@ -365,12 +365,12 @@
       },
       "options": [
         {
-          "en": "The Sunga art, seen in the railings and gateways of Bharhut and Sanchi",
-          "as": "শুংগ শিল্প, ভৰহুত আৰু সাঁচীৰ ৰেলিং আৰু তোৰণত দেখা যায়"
-        },
-        {
           "en": "The Gandhara art",
           "as": "গান্ধাৰ শিল্প"
+        },
+        {
+          "en": "The Sunga art, seen in the railings and gateways of Bharhut and Sanchi",
+          "as": "শুংগ শিল্প, ভৰহুত আৰু সাঁচীৰ ৰেলিং আৰু তোৰণত দেখা যায়"
         },
         {
           "en": "The Mathura art",
@@ -381,7 +381,7 @@
           "as": "অমৰাৱতী শিল্প"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Sunga period is associated with Sunga art, seen in the railings and gateways of Bharhut and Sanchi.",
         "as": "শুংগ যুগ শুংগ শিল্পৰ সৈতে জড়িত, যি ভৰহুত আৰু সাঁচীৰ ৰেলিং আৰু তোৰণত দেখা যায়।"
@@ -431,23 +431,23 @@
       },
       "options": [
         {
-          "en": "About 100 years, ruling from Vidisha",
-          "as": "প্ৰায় ১০০ বছৰ, ৱিদিশাৰ পৰা শাসন কৰি"
+          "en": "About 45 years, ruling from Pataliputra",
+          "as": "প্ৰায় ৪৫ বছৰ, পাটলিপুত্ৰৰ পৰা শাসন কৰি"
         },
         {
           "en": "About 10 years, ruling from Ujjain",
           "as": "প্ৰায় ১০ বছৰ, উজ্জয়িনীৰ পৰা শাসন কৰি"
         },
         {
-          "en": "About 45 years, ruling from Pataliputra",
-          "as": "প্ৰায় ৪৫ বছৰ, পাটলিপুত্ৰৰ পৰা শাসন কৰি"
+          "en": "About 100 years, ruling from Vidisha",
+          "as": "প্ৰায় ১০০ বছৰ, ৱিদিশাৰ পৰা শাসন কৰি"
         },
         {
           "en": "About 150 years, ruling from Peshawar",
           "as": "প্ৰায় ১৫০ বছৰ, পেশাৱাৰৰ পৰা শাসন কৰি"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Kanva dynasty ruled for about 45 years from Pataliputra.",
         "as": "কাণ্ব বংশই পাটলিপুত্ৰৰ পৰা প্ৰায় ৪৫ বছৰ শাসন কৰিছিল।"
@@ -464,12 +464,12 @@
       },
       "options": [
         {
-          "en": "Susarman",
-          "as": "সুশৰ্মন"
-        },
-        {
           "en": "Devabhuti",
           "as": "দেৱভূতি"
+        },
+        {
+          "en": "Susarman",
+          "as": "সুশৰ্মন"
         },
         {
           "en": "Vasudeva",
@@ -480,7 +480,7 @@
           "as": "বৃহদ্ৰথ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Susarman was the last ruler of the Kanva dynasty.",
         "as": "সুশৰ্মন কাণ্ব বংশৰ শেষ শাসক আছিল।"
@@ -501,19 +501,19 @@
           "as": "দ্বিতীয় চন্দ্ৰগুপ্ত"
         },
         {
-          "en": "Simuka, the founder of the Satavahana dynasty",
-          "as": "সিমুক, সাতবাহন বংশৰ প্ৰতিষ্ঠাপক"
+          "en": "Menander",
+          "as": "মিনাণ্ডাৰ"
         },
         {
           "en": "Kanishka",
           "as": "কনিষ্ক"
         },
         {
-          "en": "Menander",
-          "as": "মিনাণ্ডাৰ"
+          "en": "Simuka, the founder of the Satavahana dynasty",
+          "as": "সিমুক, সাতবাহন বংশৰ প্ৰতিষ্ঠাপক"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Simuka, the founder of the Satavahana dynasty, overthrew the Kanva dynasty.",
         "as": "সাতবাহন বংশৰ প্ৰতিষ্ঠাপক সিমুকে কাণ্ব বংশ উৎখাত কৰিছিল।"
@@ -534,19 +534,19 @@
           "as": "মিনাণ্ডাৰ, খ্ৰীষ্টপূৰ্ব প্ৰথম শতিকাত"
         },
         {
-          "en": "Gondophares, in the 1st century AD",
-          "as": "গণ্ডোফাৰ্ণেছ, খ্ৰীষ্টাব্দ প্ৰথম শতিকাত"
+          "en": "Demetrius, in the early 2nd century BC",
+          "as": "ডিমেট্ৰিয়াছ, খ্ৰীষ্টপূৰ্ব দ্বিতীয় শতিকাৰ আৰম্ভণিত"
         },
         {
           "en": "Kujula Kadphises, in the 1st century AD",
           "as": "কুজুল কাডফিচেছ, খ্ৰীষ্টাব্দ প্ৰথম শতিকাত"
         },
         {
-          "en": "Demetrius, in the early 2nd century BC",
-          "as": "ডিমেট্ৰিয়াছ, খ্ৰীষ্টপূৰ্ব দ্বিতীয় শতিকাৰ আৰম্ভণিত"
+          "en": "Gondophares, in the 1st century AD",
+          "as": "গণ্ডোফাৰ্ণেছ, খ্ৰীষ্টাব্দ প্ৰথম শতিকাত"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Demetrius was the first Indo-Greek ruler to invade India, in the early 2nd century BC.",
         "as": "ডিমেট্ৰিয়াছ খ্ৰীষ্টপূৰ্ব দ্বিতীয় শতিকাৰ আৰম্ভণিত ভাৰত আক্ৰমণ কৰা প্ৰথম ইণ্ডো-গ্ৰীক শাসক আছিল।"
@@ -563,23 +563,23 @@
       },
       "options": [
         {
-          "en": "Menander (Milinda)",
-          "as": "মিনাণ্ডাৰ (মিলিন্দ)"
+          "en": "Gondophares",
+          "as": "গণ্ডোফাৰ্ণেছ"
         },
         {
           "en": "Demetrius",
           "as": "ডিমেট্ৰিয়াছ"
         },
         {
-          "en": "Gondophares",
-          "as": "গণ্ডোফাৰ্ণেছ"
+          "en": "Menander (Milinda)",
+          "as": "মিনাণ্ডাৰ (মিলিন্দ)"
         },
         {
           "en": "Rudradaman",
           "as": "ৰুদ্ৰদামন"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Menander (Milinda) was the greatest of the Indo-Greek rulers.",
         "as": "মিনাণ্ডাৰ (মিলিন্দ) ইণ্ডো-গ্ৰীক শাসকসকলৰ আটাইতকৈ মহান আছিল।"
@@ -600,19 +600,19 @@
           "as": "পুৰুষপুৰ (পেশাৱাৰ)"
         },
         {
-          "en": "Sakala (modern Sialkot)",
-          "as": "শাকল (বৰ্তমান শিয়ালকোট)"
+          "en": "Vidisha",
+          "as": "ৱিদিশা"
         },
         {
           "en": "Pratishthana (Paithan)",
           "as": "প্ৰতিষ্ঠান (পৈঠান)"
         },
         {
-          "en": "Vidisha",
-          "as": "ৱিদিশা"
+          "en": "Sakala (modern Sialkot)",
+          "as": "শাকল (বৰ্তমান শিয়ালকোট)"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Sakala, modern Sialkot, was the capital of Menander.",
         "as": "শাকল, বৰ্তমান শিয়ালকোট, মিনাণ্ডাৰৰ ৰাজধানী আছিল।"
@@ -633,19 +633,19 @@
           "as": "জৈন ধৰ্ম, ভদ্ৰবাহুৰ প্ৰভাৱত"
         },
         {
-          "en": "Brahmanism, under the influence of Patanjali",
-          "as": "ব্ৰাহ্মণ্য ধৰ্ম, পতঞ্জলিৰ প্ৰভাৱত"
-        },
-        {
           "en": "Buddhism, under the influence of the Buddhist monk Nagasena",
           "as": "বৌদ্ধ ধৰ্ম, বৌদ্ধ ভিক্ষু নাগসেনৰ প্ৰভাৱত"
+        },
+        {
+          "en": "Brahmanism, under the influence of Patanjali",
+          "as": "ব্ৰাহ্মণ্য ধৰ্ম, পতঞ্জলিৰ প্ৰভাৱত"
         },
         {
           "en": "Zoroastrianism, under the influence of Gondophares",
           "as": "জৰথুষ্ট্ৰ ধৰ্ম, গণ্ডোফাৰ্ণেছৰ প্ৰভাৱত"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Menander embraced Buddhism under the influence of the Buddhist monk Nagasena.",
         "as": "মিনাণ্ডাৰে বৌদ্ধ ভিক্ষু নাগসেনৰ প্ৰভাৱত বৌদ্ধ ধৰ্ম গ্ৰহণ কৰিছিল।"
@@ -666,19 +666,19 @@
           "as": "বুদ্ধচৰিত"
         },
         {
-          "en": "The Mahavamsa",
-          "as": "মহাবংশ"
-        },
-        {
           "en": "The Milindapanha (Questions of Milinda)",
           "as": "মিলিন্দপঞ্হ (মিলিন্দৰ প্ৰশ্ন)"
+        },
+        {
+          "en": "The Mahavamsa",
+          "as": "মহাবংশ"
         },
         {
           "en": "The Mahabhashya",
           "as": "মহাভাষ্য"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Milindapanha (Questions of Milinda) is associated with Menander.",
         "as": "মিলিন্দপঞ্হ (মিলিন্দৰ প্ৰশ্ন) মিনাণ্ডাৰৰ সৈতে জড়িত।"
@@ -794,8 +794,8 @@
       },
       "options": [
         {
-          "en": "Nahapana",
-          "as": "নহপান"
+          "en": "Rudradaman (ruled about AD 150)",
+          "as": "ৰুদ্ৰদামন (প্ৰায় খ্ৰীষ্টাব্দ ১৫০ ত শাসন)"
         },
         {
           "en": "Rudrasimha III",
@@ -806,11 +806,11 @@
           "as": "মিনাণ্ডাৰ"
         },
         {
-          "en": "Rudradaman (ruled about AD 150)",
-          "as": "ৰুদ্ৰদামন (প্ৰায় খ্ৰীষ্টাব্দ ১৫০ ত শাসন)"
+          "en": "Nahapana",
+          "as": "নহপান"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Rudradaman was the most famous Saka ruler of the Western Kshatrapas.",
         "as": "ৰুদ্ৰদামন পশ্চিমীয়া ক্ষত্ৰপসকলৰ আটাইতকৈ বিখ্যাত শক শাসক আছিল।"
@@ -831,19 +831,19 @@
           "as": "কাবেৰী নদীত গ্ৰেণ্ড এনিকাট"
         },
         {
-          "en": "The Sudarshana lake (irrigation dam) of Junagadh, Gujarat",
-          "as": "গুজৰাটৰ জুনাগড়ৰ সুদৰ্শন হ্ৰদ (জলসিঞ্চন বান্ধ)"
-        },
-        {
           "en": "The Bhojpur dam on the Betwa",
           "as": "বেটৱা নদীত ভোজপুৰ বান্ধ"
+        },
+        {
+          "en": "The Sudarshana lake (irrigation dam) of Junagadh, Gujarat",
+          "as": "গুজৰাটৰ জুনাগড়ৰ সুদৰ্শন হ্ৰদ (জলসিঞ্চন বান্ধ)"
         },
         {
           "en": "The tanks at Sanchi",
           "as": "সাঁচীৰ পুখুৰীসমূহ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "According to the Junagadh inscription, Rudradaman repaired the Sudarshana lake, an irrigation dam in Junagadh, Gujarat.",
         "as": "জুনাগড় শিলালিপি অনুসৰি ৰুদ্ৰদামনে গুজৰাটৰ জুনাগড়ৰ জলসিঞ্চন বান্ধ সুদৰ্শন হ্ৰদ মেৰামতি কৰিছিল।"
@@ -868,15 +868,15 @@
           "as": "প্ৰথম চন্দ্ৰগুপ্ত"
         },
         {
-          "en": "Chandragupta II (Vikramaditya), who defeated Rudrasimha III",
-          "as": "দ্বিতীয় চন্দ্ৰগুপ্ত (বিক্ৰমাদিত্য), যি তৃতীয় ৰুদ্ৰসিংহক পৰাস্ত কৰিছিল"
-        },
-        {
           "en": "Skandagupta",
           "as": "স্কন্দগুপ্ত"
+        },
+        {
+          "en": "Chandragupta II (Vikramaditya), who defeated Rudrasimha III",
+          "as": "দ্বিতীয় চন্দ্ৰগুপ্ত (বিক্ৰমাদিত্য), যি তৃতীয় ৰুদ্ৰসিংহক পৰাস্ত কৰিছিল"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Chandragupta II (Vikramaditya) finally ended Saka rule in western India by defeating Rudrasimha III.",
         "as": "দ্বিতীয় চন্দ্ৰগুপ্ত (বিক্ৰমাদিত্য)ই তৃতীয় ৰুদ্ৰসিংহক পৰাস্ত কৰি পশ্চিম ভাৰতত শক শাসন অন্ত কৰিছিল।"
@@ -897,19 +897,19 @@
           "as": "মিনাণ্ডাৰ"
         },
         {
-          "en": "Gondophares",
-          "as": "গণ্ডোফাৰ্ণেছ"
+          "en": "Rudradaman",
+          "as": "ৰুদ্ৰদামন"
         },
         {
           "en": "Kanishka",
           "as": "কনিষ্ক"
         },
         {
-          "en": "Rudradaman",
-          "as": "ৰুদ্ৰদামন"
+          "en": "Gondophares",
+          "as": "গণ্ডোফাৰ্ণেছ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Gondophares was the Indo-Parthian ruler associated with St. Thomas.",
         "as": "গণ্ডোফাৰ্ণেছ ছেইণ্ট থমাছৰ সৈতে জড়িত ইণ্ডো-পাৰ্থিয়ান শাসক আছিল।"
@@ -930,19 +930,19 @@
           "as": "মধ্য এছিয়াৰ শকসকল"
         },
         {
-          "en": "The Yuezhi tribe of Central Asia",
-          "as": "মধ্য এছিয়াৰ য়ুএঝি জনজাতি"
-        },
-        {
           "en": "The Huns of Central Asia",
           "as": "মধ্য এছিয়াৰ হুণসকল"
+        },
+        {
+          "en": "The Yuezhi tribe of Central Asia",
+          "as": "মধ্য এছিয়াৰ য়ুএঝি জনজাতি"
         },
         {
           "en": "The Parthians of Iran",
           "as": "ইৰাণৰ পাৰ্থিয়ানসকল"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Yuezhi tribe of Central Asia founded the Kushan empire.",
         "as": "মধ্য এছিয়াৰ য়ুএঝি জনজাতিয়ে কুষাণ সাম্ৰাজ্য প্ৰতিষ্ঠা কৰিছিল।"
@@ -992,23 +992,23 @@
       },
       "options": [
         {
-          "en": "Vima Kadphises (Kadphises II)",
-          "as": "ৱিম কাডফিচেছ (কাডফিচেছ দ্বিতীয়)"
+          "en": "Kanishka",
+          "as": "কনিষ্ক"
         },
         {
           "en": "Kujula Kadphises (Kadphises I)",
           "as": "কুজুল কাডফিচেছ (কাডফিচেছ প্ৰথম)"
         },
         {
-          "en": "Kanishka",
-          "as": "কনিষ্ক"
+          "en": "Vima Kadphises (Kadphises II)",
+          "as": "ৱিম কাডফিচেছ (কাডফিচেছ দ্বিতীয়)"
         },
         {
           "en": "Huvishka",
           "as": "হুৱিষ্ক"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Vima Kadphises (Kadphises II) issued gold coins.",
         "as": "ৱিম কাডফিচেছ (কাডফিচেছ দ্বিতীয়)ই সোণৰ মুদ্ৰা প্ৰচলন কৰিছিল।"
@@ -1025,12 +1025,12 @@
       },
       "options": [
         {
-          "en": "Kanishka (78-144 AD approx)",
-          "as": "কনিষ্ক (প্ৰায় খ্ৰীষ্টাব্দ ৭৮-১৪৪)"
-        },
-        {
           "en": "Kujula Kadphises",
           "as": "কুজুল কাডফিচেছ"
+        },
+        {
+          "en": "Kanishka (78-144 AD approx)",
+          "as": "কনিষ্ক (প্ৰায় খ্ৰীষ্টাব্দ ৭৮-১৪৪)"
         },
         {
           "en": "Vima Kadphises",
@@ -1041,7 +1041,7 @@
           "as": "হুৱিষ্ক"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Kanishka was the greatest ruler of the Kushan dynasty.",
         "as": "কনিষ্ক কুষাণ বংশৰ আটাইতকৈ মহান শাসক আছিল।"
@@ -1058,23 +1058,23 @@
       },
       "options": [
         {
-          "en": "Sakala (Sialkot)",
-          "as": "শাকল (শিয়ালকোট)"
+          "en": "Purushapura (modern Peshawar)",
+          "as": "পুৰুষপুৰ (বৰ্তমান পেশাৱাৰ)"
         },
         {
           "en": "Pratishthana (Paithan)",
           "as": "প্ৰতিষ্ঠান (পৈঠান)"
         },
         {
-          "en": "Purushapura (modern Peshawar)",
-          "as": "পুৰুষপুৰ (বৰ্তমান পেশাৱাৰ)"
+          "en": "Sakala (Sialkot)",
+          "as": "শাকল (শিয়ালকোট)"
         },
         {
           "en": "Mathura",
           "as": "মথুৰা"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Purushapura, modern Peshawar, was the capital of Kanishka.",
         "as": "পুৰুষপুৰ, বৰ্তমান পেশাৱাৰ, কনিষ্কৰ ৰাজধানী আছিল।"
@@ -1095,19 +1095,19 @@
           "as": "গুপ্তাব্দ"
         },
         {
-          "en": "The Vikrama era",
-          "as": "বিক্ৰমাব্দ"
-        },
-        {
           "en": "The Saka era (the Kanishka era)",
           "as": "শকাব্দ (কনিষ্কাব্দ)"
+        },
+        {
+          "en": "The Vikrama era",
+          "as": "বিক্ৰমাব্দ"
         },
         {
           "en": "The Kalachuri era",
           "as": "কলচুৰিাব্দ"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The era starting in 78 AD, associated with Kanishka, is the Saka era.",
         "as": "খ্ৰীষ্টাব্দ ৭৮ চনত আৰম্ভ হোৱা কনিষ্কৰ সৈতে জড়িত যুগ হ'ল শকাব্দ।"
@@ -1128,19 +1128,19 @@
           "as": "অশোকৰ অধীনত, পাটলিপুত্ৰত"
         },
         {
-          "en": "Under Kanishka, at Kundalvana near Srinagar (Kashmir), with Vasumitra as president",
-          "as": "কনিষ্কৰ অধীনত, শ্ৰীনগৰৰ ওচৰত কুণ্ডলৱনত (কাশ্মীৰ), বসুমিত্ৰক সভাপতি কৰি"
+          "en": "Under Harsha, at Kanauj",
+          "as": "হৰ্ষৰ অধীনত, কনৌজত"
         },
         {
           "en": "Under Kanishka, at Rajgriha with Mahakassapa",
           "as": "কনিষ্কৰ অধীনত, ৰাজগৃহত মহাকাশ্যপৰ সৈতে"
         },
         {
-          "en": "Under Harsha, at Kanauj",
-          "as": "হৰ্ষৰ অধীনত, কনৌজত"
+          "en": "Under Kanishka, at Kundalvana near Srinagar (Kashmir), with Vasumitra as president",
+          "as": "কনিষ্কৰ অধীনত, শ্ৰীনগৰৰ ওচৰত কুণ্ডলৱনত (কাশ্মীৰ), বসুমিত্ৰক সভাপতি কৰি"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The fourth Buddhist council was held under Kanishka at Kundalvana near Srinagar in Kashmir, with Vasumitra as president.",
         "as": "চতুৰ্থ বৌদ্ধ সভা কনিষ্কৰ অধীনত কাশ্মীৰৰ শ্ৰীনগৰৰ ওচৰত কুণ্ডলৱনত বসুমিত্ৰক সভাপতি কৰি অনুষ্ঠিত হৈছিল।"
@@ -1190,23 +1190,23 @@
       },
       "options": [
         {
-          "en": "Kalidasa, Aryabhata, Varahamihira and Bhaskara",
-          "as": "কালিদাস, আৰ্যভট্ট, বৰাহমিহিৰ আৰু ভাস্কৰ"
+          "en": "Ashvaghosha, Nagarjuna, Vasumitra and Charaka",
+          "as": "অশ্বঘোষ, নাগাৰ্জুন, বসুমিত্ৰ আৰু চৰক"
         },
         {
           "en": "Patanjali, Panini, Charaka and Susruta",
           "as": "পতঞ্জলি, পাণিনি, চৰক আৰু সুশ্ৰুত"
         },
         {
-          "en": "Ashvaghosha, Nagarjuna, Vasumitra and Charaka",
-          "as": "অশ্বঘোষ, নাগাৰ্জুন, বসুমিত্ৰ আৰু চৰক"
+          "en": "Kalidasa, Aryabhata, Varahamihira and Bhaskara",
+          "as": "কালিদাস, আৰ্যভট্ট, বৰাহমিহিৰ আৰু ভাস্কৰ"
         },
         {
           "en": "Banabhatta, Subandhu, Dandin and Bhavabhuti",
           "as": "বাণভট্ট, সুবন্ধু, দণ্ডী আৰু ভৱভূতি"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Ashvaghosha, Nagarjuna, Vasumitra and Charaka were the famous scholars of Kanishka's court.",
         "as": "অশ্বঘোষ, নাগাৰ্জুন, বসুমিত্ৰ আৰু চৰক কনিষ্কৰ দৰবাৰৰ বিখ্যাত পণ্ডিত আছিল।"
@@ -1227,19 +1227,19 @@
           "as": "নাগাৰ্জুন"
         },
         {
-          "en": "Vasumitra",
-          "as": "বসুমিত্ৰ"
+          "en": "Ashvaghosha",
+          "as": "অশ্বঘোষ"
         },
         {
           "en": "Charaka",
           "as": "চৰক"
         },
         {
-          "en": "Ashvaghosha",
-          "as": "অশ্বঘোষ"
+          "en": "Vasumitra",
+          "as": "বসুমিত্ৰ"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Ashvaghosha wrote the Buddhacharita.",
         "as": "অশ্বঘোষে বুদ্ধচৰিত ৰচনা কৰিছিল।"
@@ -1293,19 +1293,19 @@
           "as": "সুশ্ৰুত, সুশ্ৰুত সংহিতাৰ ৰচয়িতা"
         },
         {
-          "en": "Charaka, the author of the Charaka Samhita",
-          "as": "চৰক, চৰক সংহিতাৰ ৰচয়িতা"
-        },
-        {
           "en": "Vasumitra",
           "as": "বসুমিত্ৰ"
+        },
+        {
+          "en": "Charaka, the author of the Charaka Samhita",
+          "as": "চৰক, চৰক সংহিতাৰ ৰচয়িতা"
         },
         {
           "en": "Ashvaghosha",
           "as": "অশ্বঘোষ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Charaka, the author of the Charaka Samhita, was the famous physician of Kanishka's court.",
         "as": "চৰক সংহিতাৰ ৰচয়িতা চৰক কনিষ্কৰ দৰবাৰৰ বিখ্যাত চিকিৎসক আছিল।"
@@ -1322,23 +1322,23 @@
       },
       "options": [
         {
-          "en": "The Amaravati and Nagarjunakonda schools",
-          "as": "অমৰাৱতী আৰু নাগাৰ্জুনকোণ্ডা শিল্প"
+          "en": "The Gandhara school and the Mathura school",
+          "as": "গান্ধাৰ শিল্প আৰু মথুৰা শিল্প"
         },
         {
           "en": "The Pala and Sena schools",
           "as": "পাল আৰু সেন শিল্প"
         },
         {
-          "en": "The Gandhara school and the Mathura school",
-          "as": "গান্ধাৰ শিল্প আৰু মথুৰা শিল্প"
+          "en": "The Amaravati and Nagarjunakonda schools",
+          "as": "অমৰাৱতী আৰু নাগাৰ্জুনকোণ্ডা শিল্প"
         },
         {
           "en": "The Chola and Pandya schools",
           "as": "চোল আৰু পাণ্ড্য শিল্প"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Gandhara school and the Mathura school of art flourished during the Kushan period.",
         "as": "কুষাণ যুগত গান্ধাৰ শিল্প আৰু মথুৰা শিল্প বিকশিত হৈছিল।"
@@ -1388,8 +1388,8 @@
       },
       "options": [
         {
-          "en": "The Silk Route connecting China with the Roman empire via Central Asia",
-          "as": "মধ্য এছিয়াৰ মাজেৰে চীনক ৰোমান সাম্ৰাজ্যৰ সৈতে সংযোগ কৰা ৰেচম পথ"
+          "en": "The Dakshinapatha route to the Deccan",
+          "as": "দক্ষিণাপথ (দাক্ষিণাত্যলৈ)"
         },
         {
           "en": "The Grand Trunk Road",
@@ -1400,11 +1400,11 @@
           "as": "বংগলৈ উত্তৰাপথ"
         },
         {
-          "en": "The Dakshinapatha route to the Deccan",
-          "as": "দক্ষিণাপথ (দাক্ষিণাত্যলৈ)"
+          "en": "The Silk Route connecting China with the Roman empire via Central Asia",
+          "as": "মধ্য এছিয়াৰ মাজেৰে চীনক ৰোমান সাম্ৰাজ্যৰ সৈতে সংযোগ কৰা ৰেচম পথ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Kushans controlled the Silk Route connecting China with the Roman empire via Central Asia.",
         "as": "কুষাণসকলে মধ্য এছিয়াৰ মাজেৰে চীনক ৰোমান সাম্ৰাজ্যৰ সৈতে সংযোগ কৰা ৰেচম পথ নিয়ন্ত্ৰণ কৰিছিল।"
@@ -1454,12 +1454,12 @@
       },
       "options": [
         {
-          "en": "Pratishthana (modern Paithan) on the river Godavari",
-          "as": "গোদাবৰী নদীৰ পাৰত প্ৰতিষ্ঠান (বৰ্তমান পৈঠান)"
-        },
-        {
           "en": "Pataliputra on the Ganges",
           "as": "গংগাৰ পাৰত পাটলিপুত্ৰ"
+        },
+        {
+          "en": "Pratishthana (modern Paithan) on the river Godavari",
+          "as": "গোদাবৰী নদীৰ পাৰত প্ৰতিষ্ঠান (বৰ্তমান পৈঠান)"
         },
         {
           "en": "Vidisha on the Betwa",
@@ -1470,7 +1470,7 @@
           "as": "কৃষ্ণা নদীৰ পাৰত অমৰাৱতী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The capital of the Satavahanas was Pratishthana (modern Paithan) on the river Godavari.",
         "as": "সাতবাহনসকলৰ ৰাজধানী আছিল গোদাবৰী নদীৰ পাৰত প্ৰতিষ্ঠান (বৰ্তমান পৈঠান)।"
@@ -1487,8 +1487,8 @@
       },
       "options": [
         {
-          "en": "The Pallava dynasty",
-          "as": "পল্লৱ বংশ"
+          "en": "The Andhra dynasty",
+          "as": "অন্ধ্ৰ বংশ"
         },
         {
           "en": "The Vakataka dynasty",
@@ -1499,11 +1499,11 @@
           "as": "ইক্ষ্বাকু বংশ"
         },
         {
-          "en": "The Andhra dynasty",
-          "as": "অন্ধ্ৰ বংশ"
+          "en": "The Pallava dynasty",
+          "as": "পল্লৱ বংশ"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "In the Puranas the Satavahana dynasty is also known as the Andhra dynasty.",
         "as": "পুৰাণত সাতবাহন বংশ অন্ধ্ৰ বংশ নামেৰেও জনাজাত।"
@@ -1561,15 +1561,15 @@
           "as": "যজ্ঞ শ্ৰী সাতকৰ্ণী"
         },
         {
-          "en": "Simuka",
-          "as": "সিমুক"
-        },
-        {
           "en": "Gautamiputra Satakarni (1st-2nd century AD)",
           "as": "গৌতমীপুত্ৰ সাতকৰ্ণী (খ্ৰীষ্টাব্দ ১ম-২য় শতিকাত)"
+        },
+        {
+          "en": "Simuka",
+          "as": "সিমুক"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Gautamiputra Satakarni was the greatest ruler of the Satavahana dynasty.",
         "as": "গৌতমীপুত্ৰ সাতকৰ্ণী সাতবাহন বংশৰ আটাইতকৈ মহান শাসক আছিল।"
@@ -1586,12 +1586,12 @@
       },
       "options": [
         {
-          "en": "Rudradaman of the Western Kshatrapas",
-          "as": "পশ্চিমীয়া ক্ষত্ৰপ ৰুদ্ৰদামন"
-        },
-        {
           "en": "The Saka ruler Nahapana of the Kshaharata family",
           "as": "ক্ষহৰাত বংশৰ শক শাসক নহপান"
+        },
+        {
+          "en": "Rudradaman of the Western Kshatrapas",
+          "as": "পশ্চিমীয়া ক্ষত্ৰপ ৰুদ্ৰদামন"
         },
         {
           "en": "Rudrasimha III",
@@ -1602,7 +1602,7 @@
           "as": "ইণ্ডো-গ্ৰীক ৰজা মিনাণ্ডাৰ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Gautamiputra Satakarni defeated the Saka ruler Nahapana of the Kshaharata family.",
         "as": "গৌতমীপুত্ৰ সাতকৰ্ণীয়ে ক্ষহৰাত বংশৰ শক শাসক নহপানক পৰাস্ত কৰিছিল।"
@@ -1619,8 +1619,8 @@
       },
       "options": [
         {
-          "en": "In the Nashik inscription of his mother Gautami Balashri",
-          "as": "তেওঁৰ মাতৃ গৌতমী বলশ্ৰীৰ নাচিক শিলালিপিত"
+          "en": "In the Hathigumpha inscription of Kharavela",
+          "as": "খাৰবেলৰ হাথিগুম্ফা শিলালিপিত"
         },
         {
           "en": "In the Junagadh inscription of Rudradaman",
@@ -1631,11 +1631,11 @@
           "as": "ৰৱিকীৰ্তিৰ আইহোল শিলালিপিত"
         },
         {
-          "en": "In the Hathigumpha inscription of Kharavela",
-          "as": "খাৰবেলৰ হাথিগুম্ফা শিলালিপিত"
+          "en": "In the Nashik inscription of his mother Gautami Balashri",
+          "as": "তেওঁৰ মাতৃ গৌতমী বলশ্ৰীৰ নাচিক শিলালিপিত"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The conquests of Gautamiputra Satakarni are recorded in the Nashik inscription of his mother Gautami Balashri.",
         "as": "গৌতমীপুত্ৰ সাতকৰ্ণীৰ বিজয়সমূহ তেওঁৰ মাতৃ গৌতমী বলশ্ৰীৰ নাচিক শিলালিপিত লিপিবদ্ধ আছে।"
@@ -1685,8 +1685,8 @@
       },
       "options": [
         {
-          "en": "Because their fathers' names were never recorded",
-          "as": "কাৰণ তেওঁলোকৰ পিতৃৰ নাম কেতিয়াও লিপিবদ্ধ হোৱা নাছিল"
+          "en": "Because they followed the matronymic tradition, e.g., Gautamiputra (son of Gautami)",
+          "as": "কাৰণ তেওঁলোকে মাতৃনাম পৰম্পৰা অনুসৰণ কৰিছিল, যেনে গৌতমীপুত্ৰ (গৌতমীৰ পুত্ৰ)"
         },
         {
           "en": "Because they were elected by their mothers' clans",
@@ -1697,11 +1697,11 @@
           "as": "কাৰণ তেওঁলোক সকলো ৰাজপত্নীৰ পুত্ৰ আছিল"
         },
         {
-          "en": "Because they followed the matronymic tradition, e.g., Gautamiputra (son of Gautami)",
-          "as": "কাৰণ তেওঁলোকে মাতৃনাম পৰম্পৰা অনুসৰণ কৰিছিল, যেনে গৌতমীপুত্ৰ (গৌতমীৰ পুত্ৰ)"
+          "en": "Because their fathers' names were never recorded",
+          "as": "কাৰণ তেওঁলোকৰ পিতৃৰ নাম কেতিয়াও লিপিবদ্ধ হোৱা নাছিল"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The Satavahana rulers are named after their mothers because they followed the matronymic tradition, as in Gautamiputra, son of Gautami.",
         "as": "সাতবাহন শাসকসকল মাতৃনাম পৰম্পৰা অনুসৰণ কৰাৰ বাবে মাতৃৰ নামেৰে জনাজাত, যেনে গৌতমীপুত্ৰ।"
@@ -1759,15 +1759,15 @@
           "as": "ভৰহুত স্তূপ"
         },
         {
-          "en": "The Dhamek stupa at Sarnath",
-          "as": "সাৰনাথৰ ধমেক স্তূপ"
-        },
-        {
           "en": "The Amaravati stupa (and the stupas at Nagarjunakonda)",
           "as": "অমৰাৱতী স্তূপ (আৰু নাগাৰ্জুনকোণ্ডাৰ স্তূপসমূহ)"
+        },
+        {
+          "en": "The Dhamek stupa at Sarnath",
+          "as": "সাৰনাথৰ ধমেক স্তূপ"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Amaravati stupa, along with the stupas at Nagarjunakonda, was built in the Satavahana period.",
         "as": "সাতবাহন যুগত অমৰাৱতী স্তূপ আৰু নাগাৰ্জুনকোণ্ডাৰ স্তূপসমূহ নিৰ্মাণ কৰা হৈছিল।"
@@ -1817,23 +1817,23 @@
       },
       "options": [
         {
-          "en": "Simuka; the kingdom was consolidated by his brother Krishna and Satakarni I",
-          "as": "সিমুক; ৰাজ্য তেওঁৰ ভ্ৰাতা কৃষ্ণ আৰু প্ৰথম সাতকৰ্ণীয়ে সংহত কৰিছিল"
+          "en": "Satakarni I; consolidated by Simuka",
+          "as": "প্ৰথম সাতকৰ্ণী; সিমুকে সংহত কৰিছিল"
         },
         {
           "en": "Gautamiputra Satakarni; consolidated by his son",
           "as": "গৌতমীপুত্ৰ সাতকৰ্ণী; তেওঁৰ পুত্ৰই সংহত কৰিছিল"
         },
         {
-          "en": "Satakarni I; consolidated by Simuka",
-          "as": "প্ৰথম সাতকৰ্ণী; সিমুকে সংহত কৰিছিল"
+          "en": "Simuka; the kingdom was consolidated by his brother Krishna and Satakarni I",
+          "as": "সিমুক; ৰাজ্য তেওঁৰ ভ্ৰাতা কৃষ্ণ আৰু প্ৰথম সাতকৰ্ণীয়ে সংহত কৰিছিল"
         },
         {
           "en": "Yajna Sri Satakarni; consolidated by Nahapana",
           "as": "যজ্ঞ শ্ৰী সাতকৰ্ণী; নহপানে সংহত কৰিছিল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Simuka founded the city of Pratishthana and the early power of the Satavahana empire in the Deccan; the kingdom was consolidated by his brother Krishna and Satakarni I.",
         "as": "সিমুকে প্ৰতিষ্ঠান নগৰ আৰু দাক্ষিণাত্যত সাতবাহন সাম্ৰাজ্যৰ প্ৰাৰম্ভিক শক্তি প্ৰতিষ্ঠা কৰিছিল; ৰাজ্য তেওঁৰ ভ্ৰাতা কৃষ্ণ আৰু প্ৰথম সাতকৰ্ণীয়ে সংহত কৰিছিল।"

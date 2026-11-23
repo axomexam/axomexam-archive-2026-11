@@ -961,14 +961,12 @@
       "status": "complete"
     }
   ],
-  "total_converted": 9842,
-  "remaining_questions": 58,
-  "remaining_files": 4,
-  "next_files": [
-    "data/content/gk/state-administrative-border-setup.json",
-    "data/content/gk/universe-bigbang-galaxies.json",
-    "data/content/gk/assam-floods-erosion-ecology.json",
-    "data/content/gk/freedom-struggle.json"
-  ],
-  "total_questions": 9900
+  "total_converted": 9900,
+  "remaining_questions": 0,
+  "remaining_files": 0,
+  "next_files": [],
+  "total_questions": 9900,
+  "status": "complete",
+  "completed_at": "2026-11-23",
+  "notes": "All GK questions have 4 bilingual options, aligned correct answer, bilingual explanation, balanced answer distribution and no 3-in-a-row runs."
 }

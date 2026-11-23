@@ -46,12 +46,12 @@
       "answer_as": "কামৰূপ (প্ৰাচীন অসম)",
       "options": [
         {
-          "en": "Magadha",
-          "as": "মগধ"
-        },
-        {
           "en": "Kamarupa (ancient Assam)",
           "as": "কামৰূপ (প্ৰাচীন অসম)"
+        },
+        {
+          "en": "Magadha",
+          "as": "মগধ"
         },
         {
           "en": "Bengal",
@@ -62,7 +62,7 @@
           "as": "মিথিলা"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Kalika Purana is closely associated with Kamarupa (ancient Assam) and the Kamakhya tradition.",
         "as": "কালিকা পুৰাণ কামৰূপ (প্ৰাচীন অসম) আৰু কামাখ্যা পৰম্পৰাৰ সৈতে ঘনিষ্ঠভাৱে জড়িত।"
@@ -76,12 +76,12 @@
       "answer_as": "মহাভাৰত আৰু পুৰাণসমূহ",
       "options": [
         {
-          "en": "Buddhist texts",
-          "as": "বৌদ্ধ গ্ৰন্থ"
-        },
-        {
           "en": "The Mahabharata and the Puranas",
           "as": "মহাভাৰত আৰু পুৰাণসমূহ"
+        },
+        {
+          "en": "Buddhist texts",
+          "as": "বৌদ্ধ গ্ৰন্থ"
         },
         {
           "en": "Mughal chronicles",
@@ -92,7 +92,7 @@
           "as": "ব্ৰিটিছ নথি"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The term Pragjyotisha is first mentioned in the Mahabharata and the Puranas.",
         "as": "প্ৰাগজ্যোতিষ শব্দটো প্ৰথমে মহাভাৰত আৰু পুৰাণসমূহত উল্লেখ কৰা হৈছে।"
@@ -110,19 +110,19 @@
           "as": "ফাচিয়ান"
         },
         {
-          "en": "Xuanzang (Hiuen Tsang)",
-          "as": "হিউয়েন চাঙ"
-        },
-        {
           "en": "Yijing",
           "as": "য়িজিং"
+        },
+        {
+          "en": "Xuanzang (Hiuen Tsang)",
+          "as": "হিউয়েন চাঙ"
         },
         {
           "en": "Marco Polo",
           "as": "মাৰ্কো প'ল'"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Chinese traveller Xuanzang (Hiuen Tsang) visited ancient Kamarupa.",
         "as": "চীনা পৰিব্ৰাজক হিউয়েন চাঙে প্ৰাচীন কামৰূপ ভ্ৰমণ কৰিছিল।"
@@ -144,15 +144,15 @@
           "as": "৬২৯ খ্ৰীষ্টাব্দ"
         },
         {
-          "en": "643 AD",
-          "as": "৬৪৩ খ্ৰীষ্টাব্দ"
-        },
-        {
           "en": "671 AD",
           "as": "৬৭১ খ্ৰীষ্টাব্দ"
+        },
+        {
+          "en": "643 AD",
+          "as": "৬৪৩ খ্ৰীষ্টাব্দ"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Xuanzang visited Kamarupa in 643 AD during the reign of Bhaskaravarman.",
         "as": "হিউয়েন চাঙে ৬৪৩ খ্ৰীষ্টাব্দত ভাস্কৰবৰ্মনৰ ৰাজত্বকালত কামৰূপ ভ্ৰমণ কৰিছিল।"
@@ -226,23 +226,23 @@
       "answer_as": "ৰামচৰিত",
       "options": [
         {
-          "en": "Ramacharita",
-          "as": "ৰামচৰিত"
+          "en": "Rajatarangini",
+          "as": "ৰাজতৰংগিনী"
         },
         {
           "en": "Harshacharita",
           "as": "হৰ্ষচৰিত"
         },
         {
-          "en": "Rajatarangini",
-          "as": "ৰাজতৰংগিনী"
+          "en": "Ramacharita",
+          "as": "ৰামচৰিত"
         },
         {
           "en": "Arthashastra",
           "as": "অৰ্থশাস্ত্ৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Sandhyakar Nandi's Ramacharita is a source for the later history of ancient Kamarupa.",
         "as": "সন্ধ্যাকৰ নন্দীৰ ৰামচৰিত প্ৰাচীন কামৰূপৰ পিছৰ ইতিহাসৰ এটা উৎস।"
@@ -256,12 +256,12 @@
       "answer_as": "সমুদ্ৰগুপ্তৰ এলাহাবাদ স্তম্ভ শিলালিপি",
       "options": [
         {
-          "en": "The Nidhanpur copper plate",
-          "as": "নিধানপুৰ তাম্ৰপত্ৰ"
-        },
-        {
           "en": "The Allahabad pillar inscription of Samudragupta",
           "as": "সমুদ্ৰগুপ্তৰ এলাহাবাদ স্তম্ভ শিলালিপি"
+        },
+        {
+          "en": "The Nidhanpur copper plate",
+          "as": "নিধানপুৰ তাম্ৰপত্ৰ"
         },
         {
           "en": "The Harshacharita",
@@ -272,7 +272,7 @@
           "as": "যোগিনী তন্ত্ৰ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Allahabad pillar inscription of Samudragupta mentions Kamarupa as a frontier state.",
         "as": "সমুদ্ৰগুপ্তৰ এলাহাবাদ স্তম্ভ শিলালিপিত কামৰূপক সীমান্ত ৰাজ্য হিচাপে উল্লেখ কৰা হৈছে।"
@@ -290,19 +290,19 @@
           "as": "চন্দ্ৰগুপ্ত প্ৰথম"
         },
         {
-          "en": "Samudragupta",
-          "as": "সমুদ্ৰগুপ্ত"
-        },
-        {
           "en": "Chandragupta II",
           "as": "চন্দ্ৰগুপ্ত দ্বিতীয়"
+        },
+        {
+          "en": "Samudragupta",
+          "as": "সমুদ্ৰগুপ্ত"
         },
         {
           "en": "Skandagupta",
           "as": "স্কন্দগুপ্ত"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Allahabad pillar inscription belongs to the Gupta ruler Samudragupta.",
         "as": "এলাহাবাদ স্তম্ভ শিলালিপি গুপ্ত শাসক সমুদ্ৰগুপ্তৰ।"
@@ -316,12 +316,12 @@
       "answer_as": "যোগিনী তন্ত্ৰ",
       "options": [
         {
-          "en": "The Kalika Purana",
-          "as": "কালিকা পুৰাণ"
-        },
-        {
           "en": "The Yogini Tantra",
           "as": "যোগিনী তন্ত্ৰ"
+        },
+        {
+          "en": "The Kalika Purana",
+          "as": "কালিকা পুৰাণ"
         },
         {
           "en": "The Kularnava Tantra",
@@ -332,7 +332,7 @@
           "as": "মহানিৰ্বাণ তন্ত্ৰ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Yogini Tantra is an important source for ancient Assamese religion and geography.",
         "as": "যোগিনী তন্ত্ৰ প্ৰাচীন অসমৰ ধৰ্ম আৰু ভূগোলৰ এটা গুৰুত্বপূৰ্ণ উৎস।"
@@ -350,19 +350,19 @@
           "as": "বৰ্মন বংশ"
         },
         {
-          "en": "The Bhauma (Naraka) dynasty",
-          "as": "ভৌম (নৰক) বংশ"
+          "en": "The Mlechha dynasty",
+          "as": "ম্লেচ্ছ বংশ"
         },
         {
           "en": "The Danava dynasty",
           "as": "দানৱ বংশ"
         },
         {
-          "en": "The Mlechha dynasty",
-          "as": "ম্লেচ্ছ বংশ"
+          "en": "The Bhauma (Naraka) dynasty",
+          "as": "ভৌম (নৰক) বংশ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Vishnu Purana mentions the Bhauma (Naraka) dynasty of Kamarupa.",
         "as": "বিষ্ণু পুৰাণে কামৰূপৰ ভৌম (নৰক) বংশৰ উল্লেখ কৰিছে।"
@@ -376,8 +376,8 @@
       "answer_as": "প্ৰাগজ্যোতিষ",
       "options": [
         {
-          "en": "Pragjyotisha",
-          "as": "প্ৰাগজ্যোতিষ"
+          "en": "Charaideo",
+          "as": "চৰাইদেউ"
         },
         {
           "en": "Kamata",
@@ -388,11 +388,11 @@
           "as": "শোণিতপুৰ"
         },
         {
-          "en": "Charaideo",
-          "as": "চৰাইদেউ"
+          "en": "Pragjyotisha",
+          "as": "প্ৰাগজ্যোতিষ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Mahabharata mentions Pragjyotisha, an ancient capital/region of Assam.",
         "as": "মহাভাৰতত প্ৰাগজ্যোতিষৰ উল্লেখ আছে, যি অসমৰ প্ৰাচীন ৰাজধানী/অঞ্চল।"
@@ -406,12 +406,12 @@
       "answer_as": "ভগদত্ত",
       "options": [
         {
-          "en": "Naraka",
-          "as": "নৰক"
-        },
-        {
           "en": "Bhagadatta",
           "as": "ভগদত্ত"
+        },
+        {
+          "en": "Naraka",
+          "as": "নৰক"
         },
         {
           "en": "Vajradatta",
@@ -422,7 +422,7 @@
           "as": "বাণাসুৰ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Bhagadatta, king of Pragjyotisha, is mentioned as fighting for the Kauravas in the Mahabharata war.",
         "as": "প্ৰাগজ্যোতিষৰ ৰজা ভগদত্তে মহাভাৰত যুদ্ধত কৌৰৱসকলৰ হৈ যুঁজিছিল বুলি উল্লেখ আছে।"
@@ -440,19 +440,19 @@
           "as": "দানৱ যুগ"
         },
         {
-          "en": "The Bhauma period",
-          "as": "ভৌম যুগ"
-        },
-        {
           "en": "The Varman dynasty period",
           "as": "বৰ্মন বংশৰ যুগ"
+        },
+        {
+          "en": "The Bhauma period",
+          "as": "ভৌম যুগ"
         },
         {
           "en": "The Pala period",
           "as": "পাল যুগ"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The Nidhanpur copper plate is an important epigraphic source for the Varman dynasty period.",
         "as": "নিধানপুৰ তাম্ৰপত্ৰ বৰ্মন বংশৰ যুগৰ এটা গুৰুত্বপূৰ্ণ শিলালিপি উৎস।"
@@ -470,19 +470,19 @@
           "as": "পুষ্যবৰ্মন"
         },
         {
-          "en": "Bhaskaravarman",
-          "as": "ভাস্কৰবৰ্মন"
+          "en": "Bhutivarman",
+          "as": "ভূতিবৰ্মন"
         },
         {
           "en": "Susthitavarman",
           "as": "সুস্থিতবৰ্মন"
         },
         {
-          "en": "Bhutivarman",
-          "as": "ভূতিবৰ্মন"
+          "en": "Bhaskaravarman",
+          "as": "ভাস্কৰবৰ্মন"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Harshacharita describes the embassy of the Kamarupa king Bhaskaravarman to Harshavardhana.",
         "as": "হৰ্ষচৰিতত কামৰূপৰ ৰজা ভাস্কৰবৰ্মনৰ হৰ্ষবৰ্ধনৰ ওচৰত দূত প্ৰেৰণৰ বৰ্ণনা আছে।"
@@ -500,19 +500,19 @@
           "as": "পুৰাণসমূহ"
         },
         {
-          "en": "The Buranjis",
-          "as": "বুৰঞ্জীবোৰ"
-        },
-        {
           "en": "The Tantras",
           "as": "তন্ত্ৰসমূহ"
+        },
+        {
+          "en": "The Buranjis",
+          "as": "বুৰঞ্জীবোৰ"
         },
         {
           "en": "The inscriptions",
           "as": "শিলালিপিসমূহ"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The Buranjis are later Assamese chronicles that provide material for the medieval period, not the ancient.",
         "as": "বুৰঞ্জীবোৰ পিছৰ অসমীয়া ইতিহাসগ্ৰন্থ, যিয়ে মধ্যযুগৰ সমল যোগায়, প্ৰাচীন যুগৰ নহয়।"
@@ -526,12 +526,12 @@
       "answer_as": "গুৱাহাটী",
       "options": [
         {
-          "en": "Tezpur",
-          "as": "তেজপুৰ"
-        },
-        {
           "en": "Guwahati",
           "as": "গুৱাহাটী"
+        },
+        {
+          "en": "Tezpur",
+          "as": "তেজপুৰ"
         },
         {
           "en": "Sadiya",
@@ -542,7 +542,7 @@
           "as": "যোৰহাট"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The location of ancient Pragjyotisha is identified with modern Guwahati.",
         "as": "প্ৰাচীন প্ৰাগজ্যোতিষৰ অৱস্থান বৰ্তমান গুৱাহাটীৰ সৈতে চিনাক্ত কৰা হয়।"
@@ -560,19 +560,19 @@
           "as": "ফা-হিয়েন"
         },
         {
-          "en": "Wang-Hiuen-tse",
-          "as": "ৱাং হিউয়েন-ছে"
+          "en": "Marco Polo",
+          "as": "মাৰ্কো প'ল'"
         },
         {
           "en": "I-tsing",
           "as": "আই-চিং"
         },
         {
-          "en": "Marco Polo",
-          "as": "মাৰ্কো প'ল'"
+          "en": "Wang-Hiuen-tse",
+          "as": "ৱাং হিউয়েন-ছে"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Besides Xuanzang, the writings of Wang-Hiuen-tse also mention the state of Kamarupa.",
         "as": "হিউয়েন চাঙৰ উপৰিও ৱাং হিউয়েন-ছেৰ লেখনিতো কামৰূপ ৰাজ্যৰ উল্লেখ আছে।"
@@ -590,19 +590,19 @@
           "as": "ব্ৰহ্মপুত্ৰ নদী"
         },
         {
-          "en": "The Dikkaravasini (Dikshu) river in the east",
-          "as": "পূবত দিক্কৰৱাসিনী (দিক্ষু) নদী"
+          "en": "The Subansiri river",
+          "as": "সুৱানশিৰি নদী"
         },
         {
           "en": "The Manas river",
           "as": "মানস নদী"
         },
         {
-          "en": "The Subansiri river",
-          "as": "সুৱানশিৰি নদী"
+          "en": "The Dikkaravasini (Dikshu) river in the east",
+          "as": "পূবত দিক্কৰৱাসিনী (দিক্ষু) নদী"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Yogini Tantra describes Kamarupa as extending from the Karatoya river to the Dikkaravasini river in the east.",
         "as": "যোগিনী তন্ত্ৰত কামৰূপ পশ্চিমত কৰতোয়াৰ পৰা পূবত দিক্কৰৱাসিনী নদীলৈ বিস্তৃত বুলি বৰ্ণনা কৰা হৈছে।"
@@ -646,12 +646,12 @@
       "answer_as": "চি-য়ু-কি (পশ্চিম বিশ্বৰ বিৱৰণ)",
       "options": [
         {
-          "en": "Si-yu-ki",
-          "as": "চি-য়ু-কি"
-        },
-        {
           "en": "Harshacharita",
           "as": "হৰ্ষচৰিত"
+        },
+        {
+          "en": "Si-yu-ki",
+          "as": "চি-য়ু-কি"
         },
         {
           "en": "Ramacharita",
@@ -662,7 +662,7 @@
           "as": "ৰাজতৰংগিনী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Xuanzang's account of Kamarupa is found in his work Si-yu-ki (Records of the Western World).",
         "as": "কামৰূপৰ বিষয়ে হিউয়েন চাঙৰ বিৱৰণ তেওঁৰ গ্ৰন্থ চি-য়ু-কিত পোৱা যায়।"
@@ -680,19 +680,19 @@
           "as": "ভাস্কৰবৰ্মন"
         },
         {
-          "en": "Pushyavarman",
-          "as": "পুষ্যবৰ্মন"
-        },
-        {
           "en": "Naraka",
           "as": "নৰক"
+        },
+        {
+          "en": "Pushyavarman",
+          "as": "পুষ্যবৰ্মন"
         },
         {
           "en": "Bhagadatta",
           "as": "ভগদত্ত"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Pushyavarman, the founder of the Varman dynasty, is described as a contemporary of Samudragupta.",
         "as": "বৰ্মন বংশৰ প্ৰৱৰ্তক পুষ্যবৰ্মনক সমুদ্ৰগুপ্তৰ সমকালীন বুলি বৰ্ণনা কৰা হয়।"
@@ -706,12 +706,12 @@
       "answer_as": "কামদেৱৰ কিংবদন্তি",
       "options": [
         {
-          "en": "The Kamakhya temple",
-          "as": "কামাখ্যা মন্দিৰ"
-        },
-        {
           "en": "The legend of Kamadeva",
           "as": "কামদেৱৰ কিংবদন্তি"
+        },
+        {
+          "en": "The Kamakhya temple",
+          "as": "কামাখ্যা মন্দিৰ"
         },
         {
           "en": "The Kamata kingdom",
@@ -722,7 +722,7 @@
           "as": "কছাৰী জনগোষ্ঠী"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The name Kamarupa derives from the legend of Kamadeva whose form was restored here by Shiva.",
         "as": "কামৰূপ নাম কামদেৱৰ কিংবদন্তিৰ পৰা আহিছে, য'ত শিৱই তেওঁৰ ৰূপ পুনৰুদ্ধাৰ কৰিছিল।"
@@ -736,23 +736,23 @@
       "answer_as": "আমবাৰী",
       "options": [
         {
-          "en": "Ambari",
-          "as": "আমবাৰী"
+          "en": "Nidhanpur",
+          "as": "নিধানপুৰ"
         },
         {
           "en": "Da-Parbatia",
           "as": "দ-পৰ্বতীয়া"
         },
         {
-          "en": "Nidhanpur",
-          "as": "নিধানপুৰ"
+          "en": "Ambari",
+          "as": "আমবাৰী"
         },
         {
           "en": "Hajo",
           "as": "হাজো"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Ambari archaeological site in Guwahati has yielded early medieval sculptures and remains.",
         "as": "গুৱাহাটীৰ আমবাৰী প্ৰত্নতাত্ত্বিক স্থানৰ পৰা প্ৰাৰম্ভিক মধ্যযুগীয় ভাস্কৰ্য আৰু অৱশেষ পোৱা গৈছে।"

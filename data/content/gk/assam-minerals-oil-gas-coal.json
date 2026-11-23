@@ -33,23 +33,23 @@
       },
       "options": [
         {
-          "en": "Digboi",
-          "as": "ডিগবৈ"
+          "en": "Duliajan",
+          "as": "ডুলিয়াজান"
         },
         {
           "en": "Naharkatia",
           "as": "নাহৰকটীয়া"
         },
         {
-          "en": "Duliajan",
-          "as": "ডুলিয়াজান"
+          "en": "Digboi",
+          "as": "ডিগবৈ"
         },
         {
           "en": "Moran",
           "as": "মৰাণ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Asia's first oil well was drilled at Digboi in 1889, with commercial production beginning in 1901.",
         "as": "এচিয়াৰ প্ৰথম তেলৰ কুঁৱা ১৮৮৯ চনত ডিগবৈত খন্দা হৈছিল, আৰু ১৯০১ চনত বাণিজ্যিক উৎপাদন আৰম্ভ হৈছিল।"
@@ -66,8 +66,8 @@
       },
       "options": [
         {
-          "en": "1889",
-          "as": "১৮৮৯"
+          "en": "1895",
+          "as": "১৮৯৫"
         },
         {
           "en": "1901",
@@ -78,11 +78,11 @@
           "as": "১৮৭৩"
         },
         {
-          "en": "1895",
-          "as": "১৮৯৫"
+          "en": "1889",
+          "as": "১৮৮৯"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The first well was drilled in 1889, and commercial production started only in 1901.",
         "as": "প্ৰথম কুঁৱা ১৮৮৯ চনত খন্দা হৈছিল, আৰু বাণিজ্যিক উৎপাদন ১৯০১ চনতহে আৰম্ভ হৈছিল।"
@@ -99,12 +99,12 @@
       },
       "options": [
         {
-          "en": "The Digboi Refinery",
-          "as": "ডিগবৈ ৰিফাইনেৰী"
-        },
-        {
           "en": "The Guwahati Refinery",
           "as": "গুৱাহাটী ৰিফাইনেৰী"
+        },
+        {
+          "en": "The Digboi Refinery",
+          "as": "ডিগবৈ ৰিফাইনেৰী"
         },
         {
           "en": "The Bongaigaon Refinery",
@@ -115,7 +115,7 @@
           "as": "নুমলীগড় ৰিফাইনেৰী"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Digboi Refinery, established in 1901, is the oldest operating refinery in Asia.",
         "as": "১৯০১ চনত প্ৰতিষ্ঠিত ডিগবৈ ৰিফাইনেৰী এচিয়াৰ আটাইতকৈ পুৰণি চলি থকা ৰিফাইনেৰী।"
@@ -132,23 +132,23 @@
       },
       "options": [
         {
-          "en": "Oil India Limited (OIL)",
-          "as": "অইল ইণ্ডিয়া লিমিটেড (OIL)"
+          "en": "Indian Oil Corporation (IOC)",
+          "as": "ইণ্ডিয়ান অইল কৰ্পোৰেচন (IOC)"
         },
         {
           "en": "ONGC",
           "as": "ONGC"
         },
         {
-          "en": "Indian Oil Corporation (IOC)",
-          "as": "ইণ্ডিয়ান অইল কৰ্পোৰেচন (IOC)"
+          "en": "Oil India Limited (OIL)",
+          "as": "অইল ইণ্ডিয়া লিমিটেড (OIL)"
         },
         {
           "en": "Assam Gas Company Limited",
           "as": "অসম গেছ কোম্পানী লিমিটেড"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Oil India Limited, headquartered at Duliajan, is a major producer; it succeeded the Assam Oil Company and was nationalised in 1961.",
         "as": "ডুলিয়াজানত মুখ্য কাৰ্যালয় থকা অইল ইণ্ডিয়াই এটা প্ৰধান উৎপাদক; ই অসম অইল কোম্পানীৰ উত্তৰাধিকাৰী আৰু ১৯৬১ চনত ৰাষ্ট্ৰীয়কৃত হৈছিল।"
@@ -198,12 +198,12 @@
       },
       "options": [
         {
-          "en": "The Digboi oilfield",
-          "as": "ডিগবৈ তেল ক্ষেত্ৰ"
-        },
-        {
           "en": "The Naharkatia oilfield",
           "as": "নাহৰকটীয়া তেল ক্ষেত্ৰ"
+        },
+        {
+          "en": "The Digboi oilfield",
+          "as": "ডিগবৈ তেল ক্ষেত্ৰ"
         },
         {
           "en": "The Moran oilfield",
@@ -214,7 +214,7 @@
           "as": "লাকৱা তেল ক্ষেত্ৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Digboi oilfield began production in 1901 and is Assam's oldest producing field.",
         "as": "ডিগবৈ তেল ক্ষেত্ৰই ১৯০১ চনত উৎপাদন আৰম্ভ কৰিছিল আৰু ই অসমৰ আটাইতকৈ পুৰণি উৎপাদনশীল ক্ষেত্ৰ।"
@@ -231,23 +231,23 @@
       },
       "options": [
         {
-          "en": "Sivasagar (Nazira area)",
-          "as": "শিৱসাগৰ (নাজিৰা অঞ্চল)"
+          "en": "Digboi",
+          "as": "ডিগবৈ"
         },
         {
           "en": "Duliajan",
           "as": "ডুলিয়াজান"
         },
         {
-          "en": "Digboi",
-          "as": "ডিগবৈ"
+          "en": "Sivasagar (Nazira area)",
+          "as": "শিৱসাগৰ (নাজিৰা অঞ্চল)"
         },
         {
           "en": "Guwahati",
           "as": "গুৱাহাটী"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "ONGC's eastern region operational headquarters is at Nazira near Sivasagar.",
         "as": "ONGC ৰ পূবাঞ্চল কাৰ্যক্ষেত্ৰৰ মুখ্য কাৰ্যালয় শিৱসাগৰৰ ওচৰৰ নাজিৰাত।"
@@ -297,8 +297,8 @@
       },
       "options": [
         {
-          "en": "Dibrugarh district",
-          "as": "ডিব্ৰুগড় জিলা"
+          "en": "Golaghat district",
+          "as": "গোলাঘাট জিলা"
         },
         {
           "en": "Sivasagar district",
@@ -309,11 +309,11 @@
           "as": "তিনিচুকীয়া জিলা"
         },
         {
-          "en": "Golaghat district",
-          "as": "গোলাঘাট জিলা"
+          "en": "Dibrugarh district",
+          "as": "ডিব্ৰুগড় জিলা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Moran oilfield lies in Dibrugarh district near Moranhat.",
         "as": "মৰাণ তেল ক্ষেত্ৰ ডিব্ৰুগড় জিলাত মৰাণহাটৰ ওচৰত অৱস্থিত।"
@@ -330,12 +330,12 @@
       },
       "options": [
         {
-          "en": "The Digboi oilfield",
-          "as": "ডিগবৈ তেল ক্ষেত্ৰ"
-        },
-        {
           "en": "The Naharkatia oilfield",
           "as": "নাহৰকটীয়া তেল ক্ষেত্ৰ"
+        },
+        {
+          "en": "The Digboi oilfield",
+          "as": "ডিগবৈ তেল ক্ষেত্ৰ"
         },
         {
           "en": "The Moran oilfield",
@@ -346,7 +346,7 @@
           "as": "ৰুদ্ৰসাগৰ তেল ক্ষেত্ৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Digboi was discovered in 1889 by the Assam Railway and Trading Company and came into production in 1901.",
         "as": "ডিগবৈ ১৮৮৯ চনত অসম ৰে'লৱে এণ্ড ট্ৰেডিং কোম্পানীয়ে আৱিষ্কাৰ কৰিছিল আৰু ১৯০১ চনত উৎপাদন আৰম্ভ হৈছিল।"
@@ -363,23 +363,23 @@
       },
       "options": [
         {
-          "en": "Nazira near Sivasagar",
-          "as": "শিৱসাগৰৰ ওচৰৰ নাজিৰা"
+          "en": "Digboi",
+          "as": "ডিগবৈ"
         },
         {
           "en": "Duliajan",
           "as": "ডুলিয়াজান"
         },
         {
-          "en": "Digboi",
-          "as": "ডিগবৈ"
+          "en": "Nazira near Sivasagar",
+          "as": "শিৱসাগৰৰ ওচৰৰ নাজিৰা"
         },
         {
           "en": "Jorhat",
           "as": "যোৰহাট"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "ONGC's eastern region headquarters is at Nazira, with a corporate presence in Guwahati.",
         "as": "ONGC ৰ পূবাঞ্চল মুখ্য কাৰ্যালয় নাজিৰাত, লগতে গুৱাহাটীত ক'ৰ্পৰেট উপস্থিতি আছে।"
@@ -396,8 +396,8 @@
       },
       "options": [
         {
-          "en": "The Numaligarh Refinery (NRL)",
-          "as": "নুমলীগড় ৰিফাইনেৰী (NRL)"
+          "en": "The Bongaigaon Refinery",
+          "as": "বঙাইগাঁও ৰিফাইনেৰী"
         },
         {
           "en": "The Guwahati Refinery",
@@ -408,11 +408,11 @@
           "as": "ডিগবৈ ৰিফাইনেৰী"
         },
         {
-          "en": "The Bongaigaon Refinery",
-          "as": "বঙাইগাঁও ৰিফাইনেৰী"
+          "en": "The Numaligarh Refinery (NRL)",
+          "as": "নুমলীগড় ৰিফাইনেৰী (NRL)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "NRL has an installed capacity of 3 MMTPA, the largest among Assam's refineries.",
         "as": "NRL ৰ স্থাপিত ক্ষমতা ৩ MMTPA, যি অসমৰ ৰিফাইনেৰীসমূহৰ ভিতৰত সৰ্বাধিক।"
@@ -429,8 +429,8 @@
       },
       "options": [
         {
-          "en": "Golaghat district",
-          "as": "গোলাঘাট জিলা"
+          "en": "Jorhat district",
+          "as": "যোৰহাট জিলা"
         },
         {
           "en": "Sivasagar district",
@@ -441,11 +441,11 @@
           "as": "ডিব্ৰুগড় জিলা"
         },
         {
-          "en": "Jorhat district",
-          "as": "যোৰহাট জিলা"
+          "en": "Golaghat district",
+          "as": "গোলাঘাট জিলা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "NRL is in Golaghat district near Numaligarh town on the banks of the Dhansiri river.",
         "as": "NRL গোলাঘাট জিলাত ধনশিৰি নদীৰ পাৰত নুমলীগড় চহৰৰ ওচৰত অৱস্থিত।"
@@ -528,23 +528,23 @@
       },
       "options": [
         {
-          "en": "The Silchar (Cachar) refinery under NRL",
-          "as": "NRL ৰ অধীনৰ শিলচৰ (কাছাৰ) ৰিফাইনেৰী"
+          "en": "The Guwahati Refinery",
+          "as": "গুৱাহাটী ৰিফাইনেৰী"
         },
         {
           "en": "The Bongaigaon Refinery",
           "as": "বঙাইগাঁও ৰিফাইনেৰী"
         },
         {
-          "en": "The Guwahati Refinery",
-          "as": "গুৱাহাটী ৰিফাইনেৰী"
+          "en": "The Silchar (Cachar) refinery under NRL",
+          "as": "NRL ৰ অধীনৰ শিলচৰ (কাছাৰ) ৰিফাইনেৰী"
         },
         {
           "en": "The Digboi Refinery",
           "as": "ডিগবৈ ৰিফাইনেৰী"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "A refinery at Silchar (Cachar refinery under NRL) serves the Barak valley.",
         "as": "শিলচৰত থকা এটা ৰিফাইনেৰী (NRL ৰ অধীনৰ কাছাৰ ৰিফাইনেৰী) বৰাক উপত্যকাক সেৱা আগবঢ়ায়।"
@@ -561,23 +561,23 @@
       },
       "options": [
         {
-          "en": "Bongaigaon Refinery and Petrochemicals (BRPL)",
-          "as": "বঙাইগাঁও ৰিফাইনেৰী এণ্ড পেট্ৰোকেমিকেলছ (BRPL)"
+          "en": "Guwahati Refinery",
+          "as": "গুৱাহাটী ৰিফাইনেৰী"
         },
         {
           "en": "Digboi Refinery",
           "as": "ডিগবৈ ৰিফাইনেৰী"
         },
         {
-          "en": "Guwahati Refinery",
-          "as": "গুৱাহাটী ৰিফাইনেৰী"
+          "en": "Bongaigaon Refinery and Petrochemicals (BRPL)",
+          "as": "বঙাইগাঁও ৰিফাইনেৰী এণ্ড পেট্ৰোকেমিকেলছ (BRPL)"
         },
         {
           "en": "Numaligarh Refinery",
           "as": "নুমলীগড় ৰিফাইনেৰী"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "BRPL, now owned by Indian Oil Corporation, is known for petrochemical production.",
         "as": "বৰ্তমান ইণ্ডিয়ান অইল কৰ্পোৰেচনৰ অধীনত থকা BRPL পেট্ৰোকেমিকেল উৎপাদনৰ বাবে পৰিচিত।"
@@ -594,12 +594,12 @@
       },
       "options": [
         {
-          "en": "1979",
-          "as": "১৯৭৯"
-        },
-        {
           "en": "1962",
           "as": "১৯৬২"
+        },
+        {
+          "en": "1979",
+          "as": "১৯৭৯"
         },
         {
           "en": "1972",
@@ -610,7 +610,7 @@
           "as": "১৯৮৫"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Bongaigaon Refinery (BRPL) was commissioned in 1979 and is located in Bongaigaon district of Assam.",
         "as": "বঙাইগাঁও ৰিফাইনেৰী ১৯৭৯ চনত কাৰ্যক্ষম কৰা হৈছিল।"
@@ -693,23 +693,23 @@
       },
       "options": [
         {
-          "en": "ONGC",
-          "as": "ONGC"
+          "en": "Indian Oil Corporation",
+          "as": "ইণ্ডিয়ান অইল কৰ্পোৰেচন"
         },
         {
           "en": "Oil India Limited only",
           "as": "কেৱল অইল ইণ্ডিয়া লিমিটেড"
         },
         {
-          "en": "Indian Oil Corporation",
-          "as": "ইণ্ডিয়ান অইল কৰ্পোৰেচন"
+          "en": "ONGC",
+          "as": "ONGC"
         },
         {
           "en": "GAIL",
           "as": "গেইল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "ONGC is the largest crude oil producer in Assam, followed by Oil India Limited.",
         "as": "ONGC অসমৰ আটাইতকৈ ডাঙৰ অশোধিত তেল উৎপাদক, তাৰ পিছত অইল ইণ্ডিয়া লিমিটেড।"
@@ -726,12 +726,12 @@
       },
       "options": [
         {
-          "en": "Indian Oil Corporation (IOC) and NRL",
-          "as": "ইণ্ডিয়ান অইল কৰ্পোৰেচন (IOC) আৰু NRL"
-        },
-        {
           "en": "ONGC and GAIL",
           "as": "ONGC আৰু গেইল"
+        },
+        {
+          "en": "Indian Oil Corporation (IOC) and NRL",
+          "as": "ইণ্ডিয়ান অইল কৰ্পোৰেচন (IOC) আৰু NRL"
         },
         {
           "en": "BPCL and HPCL",
@@ -742,7 +742,7 @@
           "as": "ৰিলায়েন্স আৰু এছাৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "IOC runs the Guwahati and Bongaigaon refineries, while NRL runs the Numaligarh refinery.",
         "as": "IOC য়ে গুৱাহাটী আৰু বঙাইগাঁও ৰিফাইনেৰী চলায়, আনহাতে NRL য়ে নুমলীগড় ৰিফাইনেৰী চলায়।"
@@ -792,8 +792,8 @@
       },
       "options": [
         {
-          "en": "Lakwa and Amguri in Sivasagar district",
-          "as": "শিৱসাগৰ জিলাৰ লাকৱা আৰু আমগুৰি"
+          "en": "Jorhat",
+          "as": "যোৰহাট"
         },
         {
           "en": "Digboi",
@@ -804,11 +804,11 @@
           "as": "ডুলিয়াজান"
         },
         {
-          "en": "Jorhat",
-          "as": "যোৰহাট"
+          "en": "Lakwa and Amguri in Sivasagar district",
+          "as": "শিৱসাগৰ জিলাৰ লাকৱা আৰু আমগুৰি"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Lakwa and Amguri gas-based power plants in Sivasagar district are the state's major gas power stations.",
         "as": "শিৱসাগৰ জিলাৰ লাকৱা আৰু আমগুৰি গেছ-ভিত্তিক বিদ্যুৎ কেন্দ্ৰ ৰাজ্যৰ প্ৰধান গেছ বিদ্যুৎ কেন্দ্ৰ।"
@@ -858,12 +858,12 @@
       },
       "options": [
         {
-          "en": "Karbi Anglong district",
-          "as": "কাৰ্বি আংলং জিলা"
-        },
-        {
           "en": "Dima Hasao district",
           "as": "ডিমা হাচাও জিলা"
+        },
+        {
+          "en": "Karbi Anglong district",
+          "as": "কাৰ্বি আংলং জিলা"
         },
         {
           "en": "Tinsukia district",
@@ -874,7 +874,7 @@
           "as": "কাছাৰ জিলা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Karbi Anglong has large limestone deposits that supply raw material for cement manufacturing.",
         "as": "কাৰ্বি আংলঙত চিমেণ্ট উৎপাদনৰ কেঁচামাল যোগান ধৰা প্ৰচুৰ চূণশিলৰ ভাণ্ডাৰ আছে।"
@@ -891,23 +891,23 @@
       },
       "options": [
         {
-          "en": "The Cement Corporation of India (CCI)",
-          "as": "চিমেণ্ট কৰ্পোৰেচন অৱ ইণ্ডিয়া (CCI)"
+          "en": "Ambuja Cement",
+          "as": "আম্বুজা চিমেণ্ট"
         },
         {
           "en": "ACC",
           "as": "ACC"
         },
         {
-          "en": "Ambuja Cement",
-          "as": "আম্বুজা চিমেণ্ট"
+          "en": "The Cement Corporation of India (CCI)",
+          "as": "চিমেণ্ট কৰ্পোৰেচন অৱ ইণ্ডিয়া (CCI)"
         },
         {
           "en": "UltraTech Cement",
           "as": "আল্ট্ৰাটেক চিমেণ্ট"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "CCI operates the Bokajan cement plant using local limestone.",
         "as": "CCI য়ে স্থানীয় চূণশিল ব্যৱহাৰ কৰি বোকাজান চিমেণ্ট কাৰখানা চলায়।"
@@ -924,12 +924,12 @@
       },
       "options": [
         {
-          "en": "Karbi Anglong and Dima Hasao regions",
-          "as": "কাৰ্বি আংলং আৰু ডিমা হাচাও অঞ্চল"
-        },
-        {
           "en": "Tinsukia and Dibrugarh",
           "as": "তিনিচুকীয়া আৰু ডিব্ৰুগড়"
+        },
+        {
+          "en": "Karbi Anglong and Dima Hasao regions",
+          "as": "কাৰ্বি আংলং আৰু ডিমা হাচাও অঞ্চল"
         },
         {
           "en": "Goalpara and Dhubri",
@@ -940,7 +940,7 @@
           "as": "শিলচৰ আৰু কৰিমগঞ্জ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Iron ore deposits occur in Karbi Anglong and Dima Hasao but are not commercially exploited at scale.",
         "as": "কাৰ্বি আংলং আৰু ডিমা হাচাওত লো-আকৰিকৰ ভাণ্ডাৰ আছে, কিন্তু বাণিজ্যিকভাৱে ডাঙৰ পৰিসৰত খনন কৰা নহয়।"
@@ -957,8 +957,8 @@
       },
       "options": [
         {
-          "en": "About 3-4%",
-          "as": "প্ৰায় ৩-৪%"
+          "en": "Less than 1%",
+          "as": "১% তকৈ কম"
         },
         {
           "en": "About 15%",
@@ -969,11 +969,11 @@
           "as": "প্ৰায় ২৫%"
         },
         {
-          "en": "Less than 1%",
-          "as": "১% তকৈ কম"
+          "en": "About 3-4%",
+          "as": "প্ৰায় ৩-৪%"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Assam contributes roughly 3-4% of India's total crude oil production.",
         "as": "অসমে ভাৰতৰ মুঠ অশোধিত তেল উৎপাদনৰ প্ৰায় ৩-৪% যোগান ধৰে।"
@@ -990,8 +990,8 @@
       },
       "options": [
         {
-          "en": "The Naharkatia-Nunmati-Barauni (NNB) pipeline",
-          "as": "নাহৰকটীয়া-নূনমাটি-বৰৌনী (NNB) পাইপলাইন"
+          "en": "The Assam-Bengal pipeline",
+          "as": "অসম-বংগ পাইপলাইন"
         },
         {
           "en": "The Jagiroad-Kanpur pipeline",
@@ -1002,11 +1002,11 @@
           "as": "বৰৌনী-হলদিয়া পাইপলাইন"
         },
         {
-          "en": "The Assam-Bengal pipeline",
-          "as": "অসম-বংগ পাইপলাইন"
+          "en": "The Naharkatia-Nunmati-Barauni (NNB) pipeline",
+          "as": "নাহৰকটীয়া-নূনমাটি-বৰৌনী (NNB) পাইপলাইন"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The NNB pipeline was India's first major cross-country crude oil pipeline.",
         "as": "NNB পাইপলাইন ভাৰতৰ প্ৰথম প্ৰধান আন্তঃদেশীয় অশোধিত তেল পাইপলাইন আছিল।"
@@ -1023,23 +1023,23 @@
       },
       "options": [
         {
-          "en": "1963-64",
-          "as": "১৯৬৩-৬৪"
+          "en": "1972",
+          "as": "১৯৭২"
         },
         {
           "en": "1959",
           "as": "১৯৫৯"
         },
         {
-          "en": "1972",
-          "as": "১৯৭২"
+          "en": "1963-64",
+          "as": "১৯৬৩-৬৪"
         },
         {
           "en": "1985",
           "as": "১৯৮৫"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Naharkatia-Nunmati-Barauni pipeline was commissioned in 1963-64.",
         "as": "নাহৰকটীয়া-নূনমাটি-বৰৌনী পাইপলাইন ১৯৬৩-৬৪ চনত কাৰ্যক্ষম কৰা হৈছিল।"
@@ -1056,12 +1056,12 @@
       },
       "options": [
         {
-          "en": "The Geleky field",
-          "as": "গেলেকী ক্ষেত্ৰ"
-        },
-        {
           "en": "The Naharkatia field",
           "as": "নাহৰকটীয়া ক্ষেত্ৰ"
+        },
+        {
+          "en": "The Geleky field",
+          "as": "গেলেকী ক্ষেত্ৰ"
         },
         {
           "en": "The Moran field",
@@ -1072,7 +1072,7 @@
           "as": "লাকৱা ক্ষেত্ৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Geleky field in Sivasagar district was historically among India's largest onshore gas fields.",
         "as": "শিৱসাগৰ জিলাৰ গেলেকী ক্ষেত্ৰ ঐতিহাসিকভাৱে ভাৰতৰ আটাইতকৈ ডাঙৰ স্থলভাগৰ গেছ ক্ষেত্ৰসমূহৰ এটা আছিল।"
@@ -1122,12 +1122,12 @@
       },
       "options": [
         {
-          "en": "True",
-          "as": "সত্য"
-        },
-        {
           "en": "False",
           "as": "অসত্য"
+        },
+        {
+          "en": "True",
+          "as": "সত্য"
         },
         {
           "en": "It is the first only in Asia",
@@ -1138,7 +1138,7 @@
           "as": "ই কেৱল বংগত প্ৰথম"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Established in 1901, Digboi is the first and oldest refinery in both India and Asia.",
         "as": "১৯০১ চনত প্ৰতিষ্ঠিত ডিগবৈ ভাৰত আৰু এচিয়া দুয়োটাৰে প্ৰথম আৰু আটাইতকৈ পুৰণি ৰিফাইনেৰী।"
@@ -1155,8 +1155,8 @@
       },
       "options": [
         {
-          "en": "The North-East Gas Grid project",
-          "as": "উত্তৰ-পূব গেছ গ্ৰিড প্ৰকল্প"
+          "en": "The Urja Ganga pipeline",
+          "as": "ঊৰ্জা গংগা পাইপলাইন"
         },
         {
           "en": "The Hazira-Vijaipur-Jagdishpur pipeline",
@@ -1167,11 +1167,11 @@
           "as": "জাগীৰোড-কানপুৰ পাইপলাইন"
         },
         {
-          "en": "The Urja Ganga pipeline",
-          "as": "ঊৰ্জা গংগা পাইপলাইন"
+          "en": "The North-East Gas Grid project",
+          "as": "উত্তৰ-পূব গেছ গ্ৰিড প্ৰকল্প"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The North-East Gas Grid project links Assam's gas fields to consumers and the national grid.",
         "as": "উত্তৰ-পূব গেছ গ্ৰিড প্ৰকল্পই অসমৰ গেছ ক্ষেত্ৰসমূহক গ্ৰাহক আৰু ৰাষ্ট্ৰীয় গ্ৰিডৰ সৈতে সংযুক্ত কৰে।"

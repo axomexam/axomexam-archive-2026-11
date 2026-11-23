@@ -32,12 +32,12 @@
       },
       "options": [
         {
-          "en": "Generally higher than the national average, especially among educated youth",
-          "as": "সাধাৰণতে ৰাষ্ট্ৰীয় গড়তকৈ বেছি, বিশেষকৈ শিক্ষিত যুৱক-যুৱতীৰ মাজত"
-        },
-        {
           "en": "Generally lower than the national average",
           "as": "সাধাৰণতে ৰাষ্ট্ৰীয় গড়তকৈ কম"
+        },
+        {
+          "en": "Generally higher than the national average, especially among educated youth",
+          "as": "সাধাৰণতে ৰাষ্ট্ৰীয় গড়তকৈ বেছি, বিশেষকৈ শিক্ষিত যুৱক-যুৱতীৰ মাজত"
         },
         {
           "en": "Exactly equal to the national average",
@@ -48,7 +48,7 @@
           "as": "ভাৰতত আটাইতকৈ কম"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Assam's unemployment rate is generally higher than the national average, and the gap is especially wide among educated youth.",
         "as": "অসমৰ বেকাৰত্বৰ হাৰ সাধাৰণতে ৰাষ্ট্ৰীয় গড়তকৈ বেছি, আৰু শিক্ষিত যুৱক-যুৱতীৰ মাজত এই ব্যৱধান বিশেষভাৱে ডাঙৰ।"
@@ -98,8 +98,8 @@
       },
       "options": [
         {
-          "en": "The Assam Skill Development Mission (ASDM)",
-          "as": "অসম দক্ষতা উন্নয়ন মিছন (এএছডিএম)"
+          "en": "Sagarmala",
+          "as": "সাগৰমালা"
         },
         {
           "en": "MGNREGA",
@@ -110,11 +110,11 @@
           "as": "মুদ্ৰা আঁচনি"
         },
         {
-          "en": "Sagarmala",
-          "as": "সাগৰমালা"
+          "en": "The Assam Skill Development Mission (ASDM)",
+          "as": "অসম দক্ষতা উন্নয়ন মিছন (এএছডিএম)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Assam Skill Development Mission (ASDM), under the State Skill Development policy, provides employment-oriented skill training to youth.",
         "as": "ৰাজ্যিক দক্ষতা উন্নয়ন নীতিৰ অধীনত অসম দক্ষতা উন্নয়ন মিছনে (এএছডিএম) যুৱক-যুৱতীলৈ নিয়োগ-ভিত্তিক দক্ষতা প্ৰশিক্ষণ প্ৰদান কৰে।"
@@ -131,23 +131,23 @@
       },
       "options": [
         {
-          "en": "MGNREGA",
-          "as": "এমজিএনআৰইজিএ"
+          "en": "PM Kaushal Vikas Yojana",
+          "as": "পিএম কৌশল বিকাশ যোজনা"
         },
         {
           "en": "UDAN",
           "as": "উড়ান"
         },
         {
-          "en": "PM Kaushal Vikas Yojana",
-          "as": "পিএম কৌশল বিকাশ যোজনা"
+          "en": "MGNREGA",
+          "as": "এমজিএনআৰইজিএ"
         },
         {
           "en": "Sagarmala",
           "as": "সাগৰমালা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "MGNREGA provides 100 days of guaranteed wage employment in rural areas.",
         "as": "এমজিএনআৰইজিএয়ে গ্ৰাম্য অঞ্চলত ১০০ দিনৰ নিশ্চিত মজুৰি নিয়োগ প্ৰদান কৰে।"
@@ -164,8 +164,8 @@
       },
       "options": [
         {
-          "en": "Assam's slow industrialisation with low manufacturing share in GSDP",
-          "as": "জিএছডিপিত কম উৎপাদন অংশসহ অসমৰ ধীৰ শিল্পায়ন"
+          "en": "Complete absence of agriculture",
+          "as": "কৃষিৰ সম্পূৰ্ণ অনুপস্থিতি"
         },
         {
           "en": "Rapid growth of heavy industry",
@@ -176,11 +176,11 @@
           "as": "জিএছডিপিত উৎপাদনৰ উচ্চ অংশ"
         },
         {
-          "en": "Complete absence of agriculture",
-          "as": "কৃষিৰ সম্পূৰ্ণ অনুপস্থিতি"
+          "en": "Assam's slow industrialisation with low manufacturing share in GSDP",
+          "as": "জিএছডিপিত কম উৎপাদন অংশসহ অসমৰ ধীৰ শিল্পায়ন"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Industrial lag refers to the slow pace of industrialisation in Assam compared with other states, reflected in a low manufacturing share of GSDP.",
         "as": "শিল্পগত পিছপৰাৱস্থাই আন ৰাজ্যৰ তুলনাত অসমৰ ধীৰ শিল্পায়নক বুজায়, যি জিএছডিপিত উৎপাদন খণ্ডৰ কম অংশত প্ৰতিফলিত হয়।"
@@ -197,23 +197,23 @@
       },
       "options": [
         {
-          "en": "The partition of 1947 cut off natural markets and river routes to Bangladesh",
-          "as": "১৯৪৭ চনৰ দেশ বিভাজনে প্ৰাকৃতিক বজাৰ আৰু বাংলাদেশলৈ নদী পথ বিচ্ছিন্ন কৰিছিল"
+          "en": "The 1991 economic liberalisation",
+          "as": "১৯৯১ চনৰ অৰ্থনৈতিক উদাৰীকৰণ"
         },
         {
           "en": "The Green Revolution",
           "as": "সেউজ বিপ্লৱ"
         },
         {
-          "en": "The 1991 economic liberalisation",
-          "as": "১৯৯১ চনৰ অৰ্থনৈতিক উদাৰীকৰণ"
+          "en": "The partition of 1947 cut off natural markets and river routes to Bangladesh",
+          "as": "১৯৪৭ চনৰ দেশ বিভাজনে প্ৰাকৃতিক বজাৰ আৰু বাংলাদেশলৈ নদী পথ বিচ্ছিন্ন কৰিছিল"
         },
         {
           "en": "The discovery of tea",
           "as": "চাহৰ আৱিষ্কাৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Partition of 1947 cut off Assam's natural markets and its river communication routes to Bangladesh, contributing to its industrial lag.",
         "as": "১৯৪৭ চনৰ দেশ বিভাজনে অসমৰ প্ৰাকৃতিক বজাৰ আৰু বাংলাদেশলৈ যোৱা নদী যোগাযোগ পথ বিচ্ছিন্ন কৰিছিল, যি শিল্পগত পিছপৰাৱস্থাত অৱদান দিছিল।"
@@ -230,8 +230,8 @@
       },
       "options": [
         {
-          "en": "Being landlocked with limited port access and connectivity gaps",
-          "as": "বন্দৰলৈ সীমিত প্ৰৱেশ আৰু সংযোগ ঘাটিসহ অন্তৰ্দেশীয় হোৱা"
+          "en": "Excessive foreign investment",
+          "as": "অত্যধিক বিদেশী বিনিয়োগ"
         },
         {
           "en": "Having a long coastline",
@@ -242,11 +242,11 @@
           "as": "প্রধান বন্দৰসমূহৰ নৈকট্য"
         },
         {
-          "en": "Excessive foreign investment",
-          "as": "অত্যধিক বিদেশী বিনিয়োগ"
+          "en": "Being landlocked with limited port access and connectivity gaps",
+          "as": "বন্দৰলৈ সীমিত প্ৰৱেশ আৰু সংযোগ ঘাটিসহ অন্তৰ্দেশীয় হোৱা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "As a landlocked state with limited access to sea ports and connectivity gaps, Assam finds it difficult to attract industrial investment.",
         "as": "বন্দৰলৈ সীমিত প্ৰৱেশ আৰু সংযোগগত সমস্যাসহ অন্তৰ্দেশীয় ৰাজ্য হোৱা বাবে অসমৰ বাবে শিল্প বিনিয়োগ আকৰ্ষণ কঠিন।"
@@ -263,12 +263,12 @@
       },
       "options": [
         {
-          "en": "Agriculture and allied sectors",
-          "as": "কৃষি আৰু সহযোগী খণ্ড"
-        },
-        {
           "en": "The IT sector",
           "as": "আইটি খণ্ড"
+        },
+        {
+          "en": "Agriculture and allied sectors",
+          "as": "কৃষি আৰু সহযোগী খণ্ড"
         },
         {
           "en": "Heavy manufacturing",
@@ -279,7 +279,7 @@
           "as": "কেৱল খনন"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Agriculture and allied sectors have historically been the largest employers in Assam.",
         "as": "কৃষি আৰু সহযোগী খণ্ড ঐতিহাসিকভাৱে অসমৰ বৃহত্তম নিয়োগকৰ্তা খণ্ড।"
@@ -329,23 +329,23 @@
       },
       "options": [
         {
-          "en": "PM Kaushal Vikas Yojana and ASDM schemes",
-          "as": "পিএম কৌশল বিকাশ যোজনা আৰু এএছডিএম আঁচনি"
+          "en": "Only UDAN",
+          "as": "কেৱল উড়ান"
         },
         {
           "en": "Only MGNREGA",
           "as": "কেৱল এমজিএনআৰইজিএ"
         },
         {
-          "en": "Only UDAN",
-          "as": "কেৱল উড়ান"
+          "en": "PM Kaushal Vikas Yojana and ASDM schemes",
+          "as": "পিএম কৌশল বিকাশ যোজনা আৰু এএছডিএম আঁচনি"
         },
         {
           "en": "Only Sagarmala",
           "as": "কেৱল সাগৰমালা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "PM Kaushal Vikas Yojana and the ASDM schemes provide free skill training with certification.",
         "as": "পিএম কৌশল বিকাশ যোজনা আৰু অসম দক্ষতা উন্নয়ন মিছন (এএছডিএম) আঁচনিয়ে প্ৰমাণপত্ৰসহ বিনামূলীয়া দক্ষতা প্ৰশিক্ষণ আগবঢ়ায়।"
@@ -362,8 +362,8 @@
       },
       "options": [
         {
-          "en": "Many educated and skilled youth migrate to metro cities and abroad for jobs",
-          "as": "অনেক শিক্ষিত আৰু দক্ষ যুৱক-যুৱতীয়ে চাকৰিৰ বাবে মহানগৰী আৰু বিদেশলৈ পৰিভ্ৰমণ কৰে"
+          "en": "Only elderly people migrate",
+          "as": "কেৱল বয়সীয়া লোকে পৰিভ্ৰমণ কৰে"
         },
         {
           "en": "There is heavy in-migration from other states",
@@ -374,11 +374,11 @@
           "as": "যুৱক-যুৱতীয়ে একেবাৰেই পৰিভ্ৰমণ নকৰে"
         },
         {
-          "en": "Only elderly people migrate",
-          "as": "কেৱল বয়সীয়া লোকে পৰিভ্ৰমণ কৰে"
+          "en": "Many educated and skilled youth migrate to metro cities and abroad for jobs",
+          "as": "অনেক শিক্ষিত আৰু দক্ষ যুৱক-যুৱতীয়ে চাকৰিৰ বাবে মহানগৰী আৰু বিদেশলৈ পৰিভ্ৰমণ কৰে"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Many educated and skilled youths of Assam migrate to metro cities and abroad in search of employment.",
         "as": "অসমৰ অনেক শিক্ষিত আৰু দক্ষ যুৱকে নিয়োগৰ সন্ধানত মহানগৰী আৰু বিদেশলৈ পৰিভ্ৰমণ কৰে।"
@@ -395,23 +395,23 @@
       },
       "options": [
         {
-          "en": "Tea processing, oil and gas, food processing, tourism, bamboo and handloom",
-          "as": "চাহ প্ৰক্ৰিয়াকৰণ, তেল আৰু গেছ, খাদ্য প্ৰক্ৰিয়াকৰণ, পৰ্যটন, বাঁহ আৰু হস্ততাঁত"
+          "en": "Only coal mining",
+          "as": "কেৱল কয়লা খনন"
         },
         {
           "en": "Only heavy machinery",
           "as": "কেৱল গধুৰ যন্ত্ৰপাতি"
         },
         {
-          "en": "Only coal mining",
-          "as": "কেৱল কয়লা খনন"
+          "en": "Tea processing, oil and gas, food processing, tourism, bamboo and handloom",
+          "as": "চাহ প্ৰক্ৰিয়াকৰণ, তেল আৰু গেছ, খাদ্য প্ৰক্ৰিয়াকৰণ, পৰ্যটন, বাঁহ আৰু হস্ততাঁত"
         },
         {
           "en": "Only shipbuilding",
           "as": "কেৱল জাহাজ নিৰ্মাণ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Tea processing, oil and gas, food processing, tourism, bamboo and handloom are the sectors with high growth potential in Assam.",
         "as": "চাহ প্ৰক্ৰিয়াকৰণ, তেল আৰু গেছ, খাদ্য প্ৰক্ৰিয়াকৰণ, পৰ্যটন, বাঁহ আৰু হস্ততাঁত অসমত উচ্চ বৃদ্ধি সম্ভাৱনা থকা খণ্ড।"
@@ -428,8 +428,8 @@
       },
       "options": [
         {
-          "en": "Poor infrastructure, high logistics cost, insurgency legacy and limited power supply",
-          "as": "দুৰ্বল অৱকাঠামো, উচ্চ পৰিবহণ ব্যয়, বিদ্ৰোহৰ ঐতিহ্য আৰু সীমিত বিদ্যুৎ যোগান"
+          "en": "Overdeveloped infrastructure",
+          "as": "অতিবিকশিত অৱকাঠামো"
         },
         {
           "en": "Excessive government subsidies",
@@ -440,11 +440,11 @@
           "as": "অত্যধিক দক্ষ শ্ৰমিক"
         },
         {
-          "en": "Overdeveloped infrastructure",
-          "as": "অতিবিকশিত অৱকাঠামো"
+          "en": "Poor infrastructure, high logistics cost, insurgency legacy and limited power supply",
+          "as": "দুৰ্বল অৱকাঠামো, উচ্চ পৰিবহণ ব্যয়, বিদ্ৰোহৰ ঐতিহ্য আৰু সীমিত বিদ্যুৎ যোগান"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Poor infrastructure, high logistics cost, the legacy of insurgency and limited power supply are major hurdles in attracting large-scale industry to Assam.",
         "as": "দুৰ্বল অৱকাঠামো, উচ্চ পৰিবহণ ব্যয়, বিদ্ৰোহৰ ঐতিহ্য আৰু সীমিত বিদ্যুৎ যোগান অসমলৈ বৃহৎ পৰিসৰৰ শিল্প আকৰ্ষণৰ প্ৰধান বাধা।"
@@ -494,12 +494,12 @@
       },
       "options": [
         {
-          "en": "The MUDRA scheme",
-          "as": "মুদ্ৰা আঁচনি"
-        },
-        {
           "en": "MGNREGA",
           "as": "এমজিএনআৰইজিএ"
+        },
+        {
+          "en": "The MUDRA scheme",
+          "as": "মুদ্ৰা আঁচনি"
         },
         {
           "en": "UDAN",
@@ -510,7 +510,7 @@
           "as": "সাগৰমালা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The MUDRA scheme provides collateral-free micro loans to small entrepreneurs, including those in Assam.",
         "as": "মুদ্ৰা আঁচনিৰ জৰিয়তে অসমৰ সৰু উদ্যোক্তাসকলেও জামিন নোহোৱাকৈ ক্ষুদ্ৰ ঋণ লাভ কৰে।"
@@ -527,23 +527,23 @@
       },
       "options": [
         {
-          "en": "It is a major employer providing direct employment to over 7-8 lakh workers",
-          "as": "ই ৭-৮ লাখৰো অধিক শ্ৰমিকলৈ প্ৰত্যক্ষ নিয়োগ দিয়া প্ৰধান নিয়োগকৰ্তা"
+          "en": "It has no role in employment",
+          "as": "নিয়োগত ইয়াৰ কোনো ভূমিকা নাই"
         },
         {
           "en": "It employs fewer than 1,000 workers",
           "as": "ই ১,০০০ ৰো কম শ্ৰমিক নিয়োগ কৰে"
         },
         {
-          "en": "It has no role in employment",
-          "as": "নিয়োগত ইয়াৰ কোনো ভূমিকা নাই"
+          "en": "It is a major employer providing direct employment to over 7-8 lakh workers",
+          "as": "ই ৭-৮ লাখৰো অধিক শ্ৰমিকলৈ প্ৰত্যক্ষ নিয়োগ দিয়া প্ৰধান নিয়োগকৰ্তা"
         },
         {
           "en": "It employs only foreign workers",
           "as": "ই কেৱল বিদেশী শ্ৰমিক নিয়োগ কৰে"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The tea industry is a major employer in Assam, providing direct employment to over 7-8 lakh workers.",
         "as": "চাহ উদ্যোগ অসমৰ এটা প্ৰধান নিয়োগকৰ্তা, যিয়ে ৭-৮ লাখতকৈ অধিক শ্ৰমিকলৈ প্ৰত্যক্ষ নিয়োগ দিয়ে।"
@@ -560,8 +560,8 @@
       },
       "options": [
         {
-          "en": "The Assam Agro-Industrial Policy and PM Kisan SAMPADA Yojana",
-          "as": "অসম কৃষি-শিল্প নীতি আৰু পিএম কিষাণ সম্পদা যোজনা"
+          "en": "Sagarmala",
+          "as": "সাগৰমালা"
         },
         {
           "en": "The MUDRA scheme",
@@ -572,11 +572,11 @@
           "as": "উড়ান"
         },
         {
-          "en": "Sagarmala",
-          "as": "সাগৰমালা"
+          "en": "The Assam Agro-Industrial Policy and PM Kisan SAMPADA Yojana",
+          "as": "অসম কৃষি-শিল্প নীতি আৰু পিএম কিষাণ সম্পদা যোজনা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Assam Agro-Industrial Policy and the PM Kisan SAMPADA Yojana are initiatives aimed at making Assam a hub of food processing industries.",
         "as": "অসম কৃষি-শিল্প নীতি আৰু পিএম কিষাণ সম্পদা যোজনাই অসমক খাদ্য প্ৰক্ৰিয়াকৰণ উদ্যোগৰ কেন্দ্ৰ বনোৱাৰ লক্ষ্যৰে গ্ৰহণ কৰা প্ৰচেষ্টা।"
@@ -593,12 +593,12 @@
       },
       "options": [
         {
-          "en": "Mismatch between training content and actual industry demand",
-          "as": "প্ৰশিক্ষণৰ বিষয়বস্তু আৰু বাস্তৱ শিল্প চাহিদাৰ মাজৰ অমিল"
-        },
-        {
           "en": "Lack of trainees",
           "as": "প্ৰশিক্ষণাৰ্থীৰ অভাৱ"
+        },
+        {
+          "en": "Mismatch between training content and actual industry demand",
+          "as": "প্ৰশিক্ষণৰ বিষয়বস্তু আৰু বাস্তৱ শিল্প চাহিদাৰ মাজৰ অমিল"
         },
         {
           "en": "Excessive funding",
@@ -609,7 +609,7 @@
           "as": "অত্যধিক শিল্প চাহিদা"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "A mismatch between the training content of skill-development schemes and actual industry demand limits their success in Assam.",
         "as": "দক্ষতা উন্নয়ন আঁচনিৰ প্ৰশিক্ষণৰ বিষয়বস্তু আৰু বাস্তৱ শিল্পৰ চাহিদাৰ মাজৰ অমিলে অসমত ইয়াৰ সফলতা সীমিত কৰে।"
@@ -659,23 +659,23 @@
       },
       "options": [
         {
-          "en": "More people work on land than required (disguised unemployment)",
-          "as": "প্ৰয়োজনতকৈ বেছি লোকে ভূমিত কাম কৰে (ছদ্ম বেকাৰত্ব)"
+          "en": "Everyone has industrial jobs",
+          "as": "সকলোৰে শিল্প চাকৰি আছে"
         },
         {
           "en": "No one is employed in rural areas",
           "as": "গ্ৰাম্য অঞ্চলত কোনেও নিয়োজিত নহয়"
         },
         {
-          "en": "Everyone has industrial jobs",
-          "as": "সকলোৰে শিল্প চাকৰি আছে"
+          "en": "More people work on land than required (disguised unemployment)",
+          "as": "প্ৰয়োজনতকৈ বেছি লোকে ভূমিত কাম কৰে (ছদ্ম বেকাৰত্ব)"
         },
         {
           "en": "Only women are unemployed",
           "as": "কেৱল মহিলা বেকাৰ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Hidden (disguised) unemployment occurs when more people work on the land than are actually required, a common feature of rural Assam.",
         "as": "গোপন (ছদ্ম) বেকাৰত্ব তেতিয়া হয় যেতিয়া প্ৰয়োজনতকৈ বেছি লোকে ভূমিত কাম কৰে; গ্ৰাম্য অসমত এইটো সাধাৰণ।"
@@ -692,23 +692,23 @@
       },
       "options": [
         {
-          "en": "The Assam Job Portal and employment assistance schemes",
-          "as": "অসম চাকৰি প'ৰ্টেল আৰু নিয়োগ সহায় আঁচনি"
+          "en": "UDAN",
+          "as": "উড়ান"
         },
         {
           "en": "The MUDRA scheme",
           "as": "মুদ্ৰা আঁচনি"
         },
         {
-          "en": "UDAN",
-          "as": "উড়ান"
+          "en": "The Assam Job Portal and employment assistance schemes",
+          "as": "অসম চাকৰি প'ৰ্টেল আৰু নিয়োগ সহায় আঁচনি"
         },
         {
           "en": "MGNREGA",
           "as": "এমজিএনআৰইজিএ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The Assam Job Portal and related employment assistance schemes provide allowances and support to job-seekers.",
         "as": "অসম চাকৰি প'ৰ্টেল আৰু সম্পৰ্কীয় নিয়োগ সহায় আঁচনিয়ে চাকৰি-সন্ধানীসকললৈ ভাতা আৰু সহায় প্ৰদান কৰে।"
@@ -725,12 +725,12 @@
       },
       "options": [
         {
-          "en": "Around 50-55%, being the largest sector",
-          "as": "প্ৰায় ৫০-৫৫%, যিটো বৃহত্তম খণ্ড"
-        },
-        {
           "en": "Around 5-10%",
           "as": "প্ৰায় ৫-১০%"
+        },
+        {
+          "en": "Around 50-55%, being the largest sector",
+          "as": "প্ৰায় ৫০-৫৫%, যিটো বৃহত্তম খণ্ড"
         },
         {
           "en": "Around 90%",
@@ -741,7 +741,7 @@
           "as": "শূন্য"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The tertiary (services) sector is the largest sector of Assam's economy, contributing around 50-55% of its GSDP.",
         "as": "তৃতীয় (সেৱা) খণ্ড অসমৰ অৰ্থনীতিৰ বৃহত্তম খণ্ড, যিয়ে ৰাজ্যিক জিএছডিপিত প্ৰায় ৫০-৫৫% অৱদান দিয়ে।"
@@ -758,12 +758,12 @@
       },
       "options": [
         {
-          "en": "Geographical isolation, historical neglect and poor infrastructure",
-          "as": "ভৌগোলিক বিচ্ছিন্নতা, ঐতিহাসিক অৱহেলা আৰু দুৰ্বল অৱকাঠামো"
-        },
-        {
           "en": "Excessive foreign investment",
           "as": "অত্যধিক বিদেশী বিনিয়োগ"
+        },
+        {
+          "en": "Geographical isolation, historical neglect and poor infrastructure",
+          "as": "ভৌগোলিক বিচ্ছিন্নতা, ঐতিহাসিক অৱহেলা আৰু দুৰ্বল অৱকাঠামো"
         },
         {
           "en": "Overpopulation of industries",
@@ -774,7 +774,7 @@
           "as": "প্ৰাকৃতিক সম্পদৰ অভাৱ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Geographical isolation, historical neglect and poor infrastructure have made industrialisation in Assam slower than in many southern states.",
         "as": "ভৌগোলিক বিচ্ছিন্নতা, ঐতিহাসিক অৱহেলা আৰু দুৰ্বল অৱকাঠামোৱে বহু দক্ষিণ ৰাজ্যতকৈ অসমৰ শিল্পায়ন লেহেমীয়া কৰি তুলিছে।"
@@ -857,12 +857,12 @@
       },
       "options": [
         {
-          "en": "Limited industrial development and poor connectivity with the rest of the state",
-          "as": "সীমিত শিল্প উন্নয়ন আৰু ৰাজ্যৰ বাকী অংশৰ সৈতে দুৰ্বল সংযোগ"
-        },
-        {
           "en": "Excessive industrial development",
           "as": "অত্যধিক শিল্প উন্নয়ন"
+        },
+        {
+          "en": "Limited industrial development and poor connectivity with the rest of the state",
+          "as": "সীমিত শিল্প উন্নয়ন আৰু ৰাজ্যৰ বাকী অংশৰ সৈতে দুৰ্বল সংযোগ"
         },
         {
           "en": "Too many ports",
@@ -873,7 +873,7 @@
           "as": "জনসংখ্যাৰ অভাৱ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Limited industrial development and connectivity with the rest of the state create employment challenges in the Barak valley.",
         "as": "সীমিত শিল্প উন্নয়ন আৰু ৰাজ্যৰ বাকী অংশৰ সৈতে সংযোগৰ অভাৱে বৰাক উপত্যকাত নিয়োগ প্ৰত্যাহ্বান সৃষ্টি কৰে।"
@@ -923,23 +923,23 @@
       },
       "options": [
         {
-          "en": "NSSO, PLFS and DES Assam",
-          "as": "এনএছএছঅ', পিএলএফএছ আৰু অসম ডিইএছ"
+          "en": "Only NITI Aayog",
+          "as": "কেৱল নীতি আয়োগ"
         },
         {
           "en": "Only the RBI",
           "as": "কেৱল আৰবিআই"
         },
         {
-          "en": "Only NITI Aayog",
-          "as": "কেৱল নীতি আয়োগ"
+          "en": "NSSO, PLFS and DES Assam",
+          "as": "এনএছএছঅ', পিএলএফএছ আৰু অসম ডিইএছ"
         },
         {
           "en": "Only the Census of India",
           "as": "কেৱল ভাৰতৰ জনগণনা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The National Sample Survey Office, the Periodic Labour Force Survey and DES Assam provide employment data.",
         "as": "ৰাষ্ট্ৰীয় নমুনা জৰীপ কাৰ্যালয়, আৱৰ্তক শ্ৰম শক্তি জৰীপ আৰু অসম ডিইএছে নিয়োগ তথ্য প্ৰদান কৰে।"
@@ -956,23 +956,23 @@
       },
       "options": [
         {
-          "en": "The services sector, including IT, tourism, healthcare and education",
-          "as": "আইটি, পৰ্যটন, স্বাস্থ্যসেৱা আৰু শিক্ষাকে ধৰি সেৱা খণ্ড"
+          "en": "Only mining",
+          "as": "কেৱল খনন"
         },
         {
           "en": "Only agriculture",
           "as": "কেৱল কৃষি"
         },
         {
-          "en": "Only mining",
-          "as": "কেৱল খনন"
+          "en": "The services sector, including IT, tourism, healthcare and education",
+          "as": "আইটি, পৰ্যটন, স্বাস্থ্যসেৱা আৰু শিক্ষাকে ধৰি সেৱা খণ্ড"
         },
         {
           "en": "Only tea processing",
           "as": "কেৱল চাহ প্ৰক্ৰিয়াকৰণ"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "The services sector, including IT, tourism, healthcare and education, is the fastest-growing employment sector in Assam in recent years.",
         "as": "আইটি, পৰ্যটন, স্বাস্থ্যসেৱা আৰু শিক্ষাকে ধৰি সেৱা খণ্ড দ্ৰুতগতিত বৃদ্ধি পাইছে।"
@@ -989,8 +989,8 @@
       },
       "options": [
         {
-          "en": "To skill and upskill the workforce to meet industry demand and reduce unemployment",
-          "as": "শিল্প চাহিদা পূৰণ আৰু বেকাৰত্ব হ্ৰাস কৰিবলৈ শ্ৰমশক্তিক দক্ষ কৰা"
+          "en": "To promote only government jobs",
+          "as": "কেৱল চৰকাৰী চাকৰি প্ৰচাৰ কৰা"
         },
         {
           "en": "To increase agricultural output only",
@@ -1001,11 +1001,11 @@
           "as": "মহাবিদ্যালয়ৰ সংখ্যা হ্ৰাস কৰা"
         },
         {
-          "en": "To promote only government jobs",
-          "as": "কেৱল চৰকাৰী চাকৰি প্ৰচাৰ কৰা"
+          "en": "To skill and upskill the workforce to meet industry demand and reduce unemployment",
+          "as": "শিল্প চাহিদা পূৰণ আৰু বেকাৰত্ব হ্ৰাস কৰিবলৈ শ্ৰমশক্তিক দক্ষ কৰা"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The objective is to skill and upskill the workforce to meet industry demand and reduce unemployment.",
         "as": "উদ্দেশ্য হৈছে শিল্প চাহিদা পূৰণ আৰু বেকাৰত্ব হ্ৰাস কৰিবলৈ শ্ৰমশক্তিক দক্ষ আৰু অধিক দক্ষ কৰা।"
@@ -1022,12 +1022,12 @@
       },
       "options": [
         {
-          "en": "Infrastructure bottlenecks and connectivity deficits",
-          "as": "অৱকাঠামো সংকট আৰু সংযোগ ঘাটি"
-        },
-        {
           "en": "Excessive tax rates only",
           "as": "কেৱল অত্যধিক কৰ হাৰ"
+        },
+        {
+          "en": "Infrastructure bottlenecks and connectivity deficits",
+          "as": "অৱকাঠামো সংকট আৰু সংযোগ ঘাটি"
         },
         {
           "en": "Lack of natural resources",
@@ -1038,7 +1038,7 @@
           "as": "অত্যধিক দক্ষ শ্ৰমিক"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Infrastructure bottlenecks and connectivity deficits have been identified as the biggest deterrents to foreign direct investment (FDI) in Assam.",
         "as": "অৱকাঠামো সংকট আৰু সংযোগ ঘাটিয়ে অসমত বিদেশী প্ৰত্যক্ষ বিনিয়োগ (এফডিআই)ৰ বৃহত্তম বাধা হিচাপে চিনাক্ত হৈছে।"
@@ -1055,8 +1055,8 @@
       },
       "options": [
         {
-          "en": "The SVAYEM scheme",
-          "as": "এছভিএৱাইইএম আঁচনি"
+          "en": "Sagarmala",
+          "as": "সাগৰমালা"
         },
         {
           "en": "MGNREGA",
@@ -1067,11 +1067,11 @@
           "as": "উড়ান"
         },
         {
-          "en": "Sagarmala",
-          "as": "সাগৰমালা"
+          "en": "The SVAYEM scheme",
+          "as": "এছভিএৱাইইএম আঁচনি"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The SVAYEM scheme (Swami Vivekananda Assam Youth Empowerment) provides seed capital grants to youth for self-employment ventures.",
         "as": "এছভিএৱাইইএম আঁচনি (স্বামী বিবেকানন্দ অসম যুৱ সশক্তিকৰণ)য়ে স্ব-নিয়োগ প্ৰচেষ্টাৰ বাবে যুৱক-যুৱতীলৈ বীজ মূলধন অনুদান দিয়ে।"
@@ -1154,12 +1154,12 @@
       },
       "options": [
         {
-          "en": "They register job-seekers and facilitate placement in government and private jobs",
-          "as": "ই চাকৰি-সন্ধানীসকলক পঞ্জীয়ন কৰি চৰকাৰী আৰু ব্যক্তিগত চাকৰিত স্থাপনত সহায় কৰে"
-        },
-        {
           "en": "They only collect taxes",
           "as": "ই কেৱল কৰ সংগ্ৰহ কৰে"
+        },
+        {
+          "en": "They register job-seekers and facilitate placement in government and private jobs",
+          "as": "ই চাকৰি-সন্ধানীসকলক পঞ্জীয়ন কৰি চৰকাৰী আৰু ব্যক্তিগত চাকৰিত স্থাপনত সহায় কৰে"
         },
         {
           "en": "They issue driving licences",
@@ -1170,7 +1170,7 @@
           "as": "ই কেৱল নিৰ্বাচন পৰিচালনা কৰে"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Employment Exchanges, now called Career Centres, register job-seekers and help place them in government and private jobs.",
         "as": "নিয়োগ বিনিময়, যাক এতিয়া কেৰিয়াৰ কেন্দ্ৰ বোলা হয়, চাকৰি-সন্ধানীসকলক পঞ্জীয়ন কৰি চৰকাৰী আৰু ব্যক্তিগত চাকৰিত স্থাপন কৰাত সহায় কৰে।"

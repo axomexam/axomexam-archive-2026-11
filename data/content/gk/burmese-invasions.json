@@ -21,19 +21,19 @@
           "as": "সুকাফাৰ অভিযান"
         },
         {
-          "en": "Maanor Akroman",
-          "as": "মানৰ আক্ৰমণ"
+          "en": "Mughal Akroman",
+          "as": "মোগল আক্ৰমণ"
         },
         {
           "en": "Ahomor Akroman",
           "as": "আহোমৰ আক্ৰমণ"
         },
         {
-          "en": "Mughal Akroman",
-          "as": "মোগল আক্ৰমণ"
+          "en": "Maanor Akroman",
+          "as": "মানৰ আক্ৰমণ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Burmese invasions of Assam are known in Assamese as Maanor Akroman, meaning the Burmese invasion.",
         "as": "অসমলৈ মানসকলৰ আক্ৰমণ অসমীয়াত 'মানৰ আক্ৰমণ' নামেৰে জনা যায়।"
@@ -47,12 +47,12 @@
       "answer_as": "১৮১৭-১৮২৬",
       "options": [
         {
-          "en": "1780-1795",
-          "as": "১৭৮০-১৭৯৫"
-        },
-        {
           "en": "1817-1826",
           "as": "১৮১৭-১৮২৬"
+        },
+        {
+          "en": "1780-1795",
+          "as": "১৭৮০-১৭৯৫"
         },
         {
           "en": "1819-1821",
@@ -63,7 +63,7 @@
           "as": "১৮২৪-১৮২৬"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "The Burmese invasions of Assam took place between 1817 and 1826.",
         "as": "অসমলৈ মান আক্ৰমণ ১৮১৭ চনৰপৰা ১৮২৬ চনলৈ চলিছিল।"
@@ -77,8 +77,8 @@
       "answer_as": "ক'নবাং (Konbaung) বংশ",
       "options": [
         {
-          "en": "Konbaung dynasty",
-          "as": "ক'নবাং (Konbaung) বংশ"
+          "en": "Pagan dynasty",
+          "as": "পাগান (Pagan) বংশ"
         },
         {
           "en": "Toungoo dynasty",
@@ -89,11 +89,11 @@
           "as": "আভা (Ava) বংশ"
         },
         {
-          "en": "Pagan dynasty",
-          "as": "পাগান (Pagan) বংশ"
+          "en": "Konbaung dynasty",
+          "as": "ক'নবাং (Konbaung) বংশ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The invasions were ordered during the rule of the Konbaung dynasty of Burma.",
         "as": "আক্ৰমণসমূহ বৰ্মাৰ ক'নবাং বংশৰ শাসনকালত সংঘটিত হৈছিল।"
@@ -201,19 +201,19 @@
           "as": "বদৌপায়া"
         },
         {
-          "en": "Maha Bandula",
-          "as": "মহা বান্দুলা"
-        },
-        {
           "en": "Bagyidaw",
           "as": "বগ্যিদা"
+        },
+        {
+          "en": "Maha Bandula",
+          "as": "মহা বান্দুলা"
         },
         {
           "en": "Badan Chandra Borphukan",
           "as": "বদন চন্দ্ৰ বৰফুকন"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "The famous Burmese general Maha Bandula led the third Burmese invasion of Assam.",
         "as": "বিখ্যাত মান সেনাপতি মহা বান্দুলাই তৃতীয় মান আক্ৰমণৰ নেতৃত্ব দিছিল।"
@@ -231,19 +231,19 @@
           "as": "চন্দ্ৰকান্ত সিংহ"
         },
         {
-          "en": "Gaurinath Singha",
-          "as": "গৌৰীনাথ সিংহ"
+          "en": "Jogeswar Singha",
+          "as": "যোগেশ্বৰ সিংহ"
         },
         {
           "en": "Badan Chandra Borphukan",
           "as": "বদন চন্দ্ৰ বৰফুকন"
         },
         {
-          "en": "Jogeswar Singha",
-          "as": "যোগেশ্বৰ সিংহ"
+          "en": "Gaurinath Singha",
+          "as": "গৌৰীনাথ সিংহ"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "In 1821 the Burmese installed Jogeswar Singha as a puppet king.",
         "as": "১৮২১ চনত মানসকলে যোগেশ্বৰ সিংহক পুতলা ৰজা হিচাপে স্থাপন কৰিছিল।"
@@ -257,8 +257,8 @@
       "answer_as": "প্ৰথম ইংৰাজ-মান যুদ্ধ",
       "options": [
         {
-          "en": "First Anglo-Burmese War",
-          "as": "প্ৰথম ইংৰাজ-মান যুদ্ধ"
+          "en": "Anglo-Sikh War",
+          "as": "ইংৰাজ-শিখ যুদ্ধ"
         },
         {
           "en": "Second Anglo-Burmese War",
@@ -269,11 +269,11 @@
           "as": "তৃতীয় ইংৰাজ-মান যুদ্ধ"
         },
         {
-          "en": "Anglo-Sikh War",
-          "as": "ইংৰাজ-শিখ যুদ্ধ"
+          "en": "First Anglo-Burmese War",
+          "as": "প্ৰথম ইংৰাজ-মান যুদ্ধ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "The Burmese invasions of Assam ultimately led to the First Anglo-Burmese War.",
         "as": "অসমলৈ মান আক্ৰমণে শেষত প্ৰথম ইংৰাজ-মান যুদ্ধৰ সূচনা কৰিছিল।"
@@ -287,8 +287,8 @@
       "answer_as": "য়াণ্ডাবু সন্ধি",
       "options": [
         {
-          "en": "Treaty of Sugauli",
-          "as": "চুগৌলি সন্ধি"
+          "en": "Treaty of Yandabo",
+          "as": "য়াণ্ডাবু সন্ধি"
         },
         {
           "en": "Treaty of Allahabad",
@@ -299,11 +299,11 @@
           "as": "পুনা সন্ধি"
         },
         {
-          "en": "Treaty of Yandabo",
-          "as": "য়াণ্ডাবু সন্ধি"
+          "en": "Treaty of Sugauli",
+          "as": "চুগৌলি সন্ধি"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The First Anglo-Burmese War ended with the Treaty of Yandabo.",
         "as": "প্ৰথম ইংৰাজ-মান যুদ্ধ য়াণ্ডাবু সন্ধিৰ দ্বাৰা সামৰণি পৰিছিল।"
@@ -325,15 +325,15 @@
           "as": "১৮২৫ চনৰ ২৪ ফেব্ৰুৱাৰী"
         },
         {
-          "en": "24 February 1826",
-          "as": "১৮২৬ চনৰ ২৪ ফেব্ৰুৱাৰী"
-        },
-        {
           "en": "24 December 1826",
           "as": "১৮২৬ চনৰ ২৪ ডিচেম্বৰ"
+        },
+        {
+          "en": "24 February 1826",
+          "as": "১৮২৬ চনৰ ২৪ ফেব্ৰুৱাৰী"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Treaty of Yandabo was signed on 24 February 1826.",
         "as": "য়াণ্ডাবু সন্ধি ১৮২৬ চনৰ ২৪ ফেব্ৰুৱাৰীত স্বাক্ষৰিত হৈছিল।"
@@ -347,23 +347,23 @@
       "answer_as": "ইংৰাজৰ অধীনলৈ গৈছিল",
       "options": [
         {
-          "en": "It became part of Burma",
-          "as": "ই বৰ্মাৰ অংশ হৈ পৰিছিল"
+          "en": "It passed to the British",
+          "as": "ইংৰাজৰ অধীনলৈ গৈছিল"
         },
         {
           "en": "It remained an independent Ahom kingdom",
           "as": "ই স্বাধীন আহোম ৰাজ্য হৈয়েই থাকিল"
         },
         {
-          "en": "It passed to the British",
-          "as": "ইংৰাজৰ অধীনলৈ গৈছিল"
+          "en": "It became part of Burma",
+          "as": "ই বৰ্মাৰ অংশ হৈ পৰিছিল"
         },
         {
           "en": "It was annexed by China",
           "as": "ইয়াক চীনে অধিগ্ৰহণ কৰিছিল"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "After the Treaty of Yandabo (1826), Assam passed to the British.",
         "as": "য়াণ্ডাবু সন্ধিৰ (১৮২৬) পিছত অসম ইংৰাজৰ অধীনলৈ গৈছিল।"
@@ -377,12 +377,12 @@
       "answer_as": "পূৰ্ণানন্দ বুঢ়াগোহাঁই",
       "options": [
         {
-          "en": "Purnananda Burhagohain",
-          "as": "পূৰ্ণানন্দ বুঢ়াগোহাঁই"
-        },
-        {
           "en": "Badan Chandra Borphukan",
           "as": "বদন চন্দ্ৰ বৰফুকন"
+        },
+        {
+          "en": "Purnananda Burhagohain",
+          "as": "পূৰ্ণানন্দ বুঢ়াগোহাঁই"
         },
         {
           "en": "Gaurinath Singha",
@@ -393,7 +393,7 @@
           "as": "যোগেশ্বৰ সিংহ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Ahom chief minister Purnananda Burhagohain died during the first Burmese invasion.",
         "as": "প্ৰথম মান আক্ৰমণৰ সময়ত আহোম মুখ্য মন্ত্ৰী পূৰ্ণানন্দ বুঢ়াগোহাঁইৰ মৃত্যু হৈছিল।"
@@ -411,19 +411,19 @@
           "as": "চন্দ্ৰকান্ত সিংহ"
         },
         {
-          "en": "Gaurinath Singha",
-          "as": "গৌৰীনাথ সিংহ"
+          "en": "Purnananda Burhagohain",
+          "as": "পূৰ্ণানন্দ বুঢ়াগোহাঁই"
         },
         {
           "en": "Jogeswar Singha",
           "as": "যোগেশ্বৰ সিংহ"
         },
         {
-          "en": "Purnananda Burhagohain",
-          "as": "পূৰ্ণানন্দ বুঢ়াগোহাঁই"
+          "en": "Gaurinath Singha",
+          "as": "গৌৰীনাথ সিংহ"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Gaurinath Singha (1780-1795) had earlier sought help from the Burmese.",
         "as": "গৌৰীনাথ সিংহই (১৭৮০-১৭৯৫) আগতে মানসকলৰ পৰা সহায় বিচৰা আছিল।"
@@ -467,12 +467,12 @@
       "answer_as": "মোৱামৰীয়া বিদ্ৰোহ",
       "options": [
         {
-          "en": "Moamoria rebellion",
-          "as": "মোৱামৰীয়া বিদ্ৰোহ"
-        },
-        {
           "en": "Sepoy Mutiny",
           "as": "চিপাহী বিদ্ৰোহ"
+        },
+        {
+          "en": "Moamoria rebellion",
+          "as": "মোৱামৰীয়া বিদ্ৰোহ"
         },
         {
           "en": "Chuar rebellion",
@@ -483,7 +483,7 @@
           "as": "পাইক বিদ্ৰোহ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Moamoria rebellion had weakened the Ahom kingdom before the Burmese invasions.",
         "as": "মান আক্ৰমণৰ আগত মোৱামৰীয়া বিদ্ৰোহে আহোম ৰাজ্যক দুৰ্বল কৰিছিল।"
@@ -565,15 +565,15 @@
           "as": "১৮২১"
         },
         {
-          "en": "1817",
-          "as": "১৮১৭"
-        },
-        {
           "en": "1824",
           "as": "১৮২৪"
+        },
+        {
+          "en": "1817",
+          "as": "১৮১৭"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The first Burmese invasion of Assam took place in 1817.",
         "as": "অসমলৈ প্ৰথম মান আক্ৰমণ ১৮১৭ চনত হৈছিল।"
@@ -595,15 +595,15 @@
           "as": "১৮২১"
         },
         {
-          "en": "1824",
-          "as": "১৮২৪"
-        },
-        {
           "en": "1819",
           "as": "১৮১৯"
+        },
+        {
+          "en": "1824",
+          "as": "১৮২৪"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The second Burmese invasion of Assam took place in 1819.",
         "as": "অসমলৈ দ্বিতীয় মান আক্ৰমণ ১৮১৯ চনত হৈছিল।"
@@ -647,12 +647,12 @@
       "answer_as": "মানৰ আক্ৰমণ",
       "options": [
         {
-          "en": "Maanor Akroman",
-          "as": "মানৰ আক্ৰমণ"
-        },
-        {
           "en": "Sukapha's reign",
           "as": "সুকাফাৰ ৰাজত্ব"
+        },
+        {
+          "en": "Maanor Akroman",
+          "as": "মানৰ আক্ৰমণ"
         },
         {
           "en": "Mughal invasion",
@@ -663,7 +663,7 @@
           "as": "ব্ৰিটিছ শাসন"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The period of Burmese rule in Assam is remembered as Maanor Akroman.",
         "as": "অসমত মান শাসনৰ যুগটো মানৰ আক্ৰমণ নামেৰে স্মৰণ কৰা হয়।"
@@ -677,12 +677,12 @@
       "answer_as": "১৭৮০-১৭৯৫",
       "options": [
         {
-          "en": "1817-1826",
-          "as": "১৮১৭-১৮২৬"
-        },
-        {
           "en": "1780-1795",
           "as": "১৭৮০-১৭৯৫"
+        },
+        {
+          "en": "1817-1826",
+          "as": "১৮১৭-১৮২৬"
         },
         {
           "en": "1811-1818",
@@ -693,7 +693,7 @@
           "as": "১৮২৪-১৮২৬"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Gaurinath Singha reigned from 1780 to 1795.",
         "as": "গৌৰীনাথ সিংহৰ ৰাজত্বকাল ১৭৮০-১৭৯৫ আছিল।"
@@ -767,12 +767,12 @@
       "answer_as": "১৮২১-২২",
       "options": [
         {
-          "en": "1821-22",
-          "as": "১৮২১-২২"
-        },
-        {
           "en": "1817-1818",
           "as": "১৮১৭-১৮১৮"
+        },
+        {
+          "en": "1821-22",
+          "as": "১৮২১-২২"
         },
         {
           "en": "1819-1820",
@@ -783,7 +783,7 @@
           "as": "১৮২৪-১৮২৬"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The third Burmese invasion of Assam took place in 1821-22.",
         "as": "অসমলৈ তৃতীয় মান আক্ৰমণ ১৮২১-২২ চনত হৈছিল।"
@@ -831,19 +831,19 @@
           "as": "মোগল সাম্ৰাজ্য"
         },
         {
-          "en": "British East India Company",
-          "as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী"
+          "en": "French East India Company",
+          "as": "ফৰাচী ইষ্ট ইণ্ডিয়া কোম্পানী"
         },
         {
           "en": "Ahom Court",
           "as": "আহোম দৰবাৰ"
         },
         {
-          "en": "French East India Company",
-          "as": "ফৰাচী ইষ্ট ইণ্ডিয়া কোম্পানী"
+          "en": "British East India Company",
+          "as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "The Burmese advance alarmed the British East India Company, leading to the First Anglo-Burmese War.",
         "as": "মানসকলৰ অগ্ৰসৰণে ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানীক সতৰ্ক কৰি প্ৰথম ইংৰাজ-মান যুদ্ধৰ সূচনা কৰিছিল।"
@@ -895,15 +895,15 @@
           "as": "এলাহাবাদ সন্ধি"
         },
         {
-          "en": "Treaty of Poona",
-          "as": "পুনা সন্ধি"
-        },
-        {
           "en": "Treaty of Yandabo",
           "as": "য়াণ্ডাবু সন্ধি"
+        },
+        {
+          "en": "Treaty of Poona",
+          "as": "পুনা সন্ধি"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Treaty of Yandabo ended both the Burmese occupation of Assam and Ahom rule.",
         "as": "য়াণ্ডাবু সন্ধিয়ে অসমৰ মান দখল আৰু আহোম শাসন দুয়োটাকে সামৰণি পেলাইছিল।"
@@ -917,12 +917,12 @@
       "answer_as": "প্ৰথম আক্ৰমণত (১৮১৭)",
       "options": [
         {
-          "en": "The second invasion (1819)",
-          "as": "দ্বিতীয় আক্ৰমণত (১৮১৯)"
-        },
-        {
           "en": "The first invasion (1817)",
           "as": "প্ৰথম আক্ৰমণত (১৮১৭)"
+        },
+        {
+          "en": "The second invasion (1819)",
+          "as": "দ্বিতীয় আক্ৰমণত (১৮১৯)"
         },
         {
           "en": "The third invasion (1821)",
@@ -933,7 +933,7 @@
           "as": "প্ৰথম ইংৰাজ-মান যুদ্ধত (১৮২৪)"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Purnananda Burhagohain died during the first invasion (1817).",
         "as": "পূৰ্ণানন্দ বুঢ়াগোহাঁই প্ৰথম আক্ৰমণত (১৮১৭) মৃত্যু হৈছিল।"
@@ -951,19 +951,19 @@
           "as": "গৌৰীনাথ সিংহ"
         },
         {
-          "en": "Jogeswar Singha",
-          "as": "যোগেশ্বৰ সিংহ"
+          "en": "Chandrakanta Singha",
+          "as": "চন্দ্ৰকান্ত সিংহ"
         },
         {
           "en": "Badan Chandra Borphukan",
           "as": "বদন চন্দ্ৰ বৰফুকন"
         },
         {
-          "en": "Chandrakanta Singha",
-          "as": "চন্দ্ৰকান্ত সিংহ"
+          "en": "Jogeswar Singha",
+          "as": "যোগেশ্বৰ সিংহ"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Chandrakanta Singha ruled with interruptions during 1811-1818 and 1819-1821.",
         "as": "চন্দ্ৰকান্ত সিংহই ১৮১১-১৮১৮ আৰু ১৮১৯-১৮২১ চনত ব্যৱধানসহ ৰাজত্ব কৰিছিল।"
@@ -977,8 +977,8 @@
       "answer_as": "কঠোৰ — লুটপাট, মঠ-ঘৰ ধ্বংস আৰু হত্যা",
       "options": [
         {
-          "en": "Peaceful and prosperous",
-          "as": "শান্তিপূৰ্ণ আৰু সমৃদ্ধিশালী"
+          "en": "Harsh — with looting, destruction of temples/houses and killings",
+          "as": "কঠোৰ — লুটপাট, মঠ-ঘৰ ধ্বংস আৰু হত্যা"
         },
         {
           "en": "Limited to collecting taxes",
@@ -989,11 +989,11 @@
           "as": "আহোম পৰম্পৰাৰ প্ৰতি সহানুভূতিশীল"
         },
         {
-          "en": "Harsh — with looting, destruction of temples/houses and killings",
-          "as": "কঠোৰ — লুটপাট, মঠ-ঘৰ ধ্বংস আৰু হত্যা"
+          "en": "Peaceful and prosperous",
+          "as": "শান্তিপূৰ্ণ আৰু সমৃদ্ধিশালী"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Burmese rule in Assam was harsh, marked by looting, destruction and killings.",
         "as": "অসমত মান শাসন কঠোৰ আছিল — লুটপাট, ধ্বংস আৰু হত্যাৰে ভৰা।"
@@ -1037,8 +1037,8 @@
       "answer_as": "মহা বান্দুলা আৰু মান সৈন্যবাহিনীয়ে",
       "options": [
         {
-          "en": "Maha Bandula and the Burmese forces",
-          "as": "মহা বান্দুলা আৰু মান সৈন্যবাহিনীয়ে"
+          "en": "The Moamoria rebels",
+          "as": "মোৱামৰীয়া বিদ্ৰোহীসকলে"
         },
         {
           "en": "Bodawpaya and the Burmese forces",
@@ -1049,11 +1049,11 @@
           "as": "ব্ৰিটিছ ইষ্ট ইণ্ডিয়া কোম্পানী"
         },
         {
-          "en": "The Moamoria rebels",
-          "as": "মোৱামৰীয়া বিদ্ৰোহীসকলে"
+          "en": "Maha Bandula and the Burmese forces",
+          "as": "মহা বান্দুলা আৰু মান সৈন্যবাহিনীয়ে"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Maha Bandula and the Burmese forces decisively defeated the Ahoms during the third invasion.",
         "as": "তৃতীয় আক্ৰমণত মহা বান্দুলা আৰু মান সৈন্যবাহিনীয়ে আহোমসকলক চূড়ান্তভাৱে পৰাজিত কৰিছিল।"
@@ -1071,19 +1071,19 @@
           "as": "গৌৰীনাথ সিংহ"
         },
         {
-          "en": "Chandrakanta Singha",
-          "as": "চন্দ্ৰকান্ত সিংহ"
-        },
-        {
           "en": "Jogeswar Singha",
           "as": "যোগেশ্বৰ সিংহ"
+        },
+        {
+          "en": "Chandrakanta Singha",
+          "as": "চন্দ্ৰকান্ত সিংহ"
         },
         {
           "en": "Purnananda Burhagohain",
           "as": "পূৰ্ণানন্দ বুঢ়াগোহাঁই"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "'Sudingpha' was the original name of Chandrakanta Singha.",
         "as": "'সুদিংফা' আছিল চন্দ্ৰকান্ত সিংহৰ মূল নাম।"
@@ -1097,8 +1097,8 @@
       "answer_as": "বৰফুকন",
       "options": [
         {
-          "en": "Burhagohain",
-          "as": "বুঢ়াগোহাঁই"
+          "en": "Borphukan",
+          "as": "বৰফুকন"
         },
         {
           "en": "Borbora",
@@ -1109,11 +1109,11 @@
           "as": "বৰপাত্ৰগোহাঁই"
         },
         {
-          "en": "Borphukan",
-          "as": "বৰফুকন"
+          "en": "Burhagohain",
+          "as": "বুঢ়াগোহাঁই"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Badan Chandra held the office of Borphukan in the Ahom administration.",
         "as": "আহোম প্ৰশাসনত বদন চন্দ্ৰই বৰফুকন পদত আছিল।"
@@ -1127,12 +1127,12 @@
       "answer_as": "মানসকলে লুটপাট কৰিছিল",
       "options": [
         {
-          "en": "They were rebuilt by the British",
-          "as": "ব্ৰিটিছসকলে পুনৰ্নিৰ্মাণ কৰিছিল"
-        },
-        {
           "en": "They were sacked by the Burmese",
           "as": "মানসকলে লুটপাট কৰিছিল"
+        },
+        {
+          "en": "They were rebuilt by the British",
+          "as": "ব্ৰিটিছসকলে পুনৰ্নিৰ্মাণ কৰিছিল"
         },
         {
           "en": "They were handed over to the Mughals",
@@ -1143,7 +1143,7 @@
           "as": "সিহঁত অক্ষত থাকিল"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Jorhat and the royal capital were sacked by the Burmese during the third invasion.",
         "as": "তৃতীয় আক্ৰমণত যোৰহাট আৰু ৰাজধানী মানসকলে লুটপাট কৰিছিল।"
@@ -1195,15 +1195,15 @@
           "as": "পাইক বিদ্ৰোহ"
         },
         {
-          "en": "Moamoria rebellion",
-          "as": "মোৱামৰীয়া বিদ্ৰোহ"
-        },
-        {
           "en": "Chuar rebellion",
           "as": "চুৱাৰ বিদ্ৰোহ"
+        },
+        {
+          "en": "Moamoria rebellion",
+          "as": "মোৱামৰীয়া বিদ্ৰোহ"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Moamoria rebellion weakened the Ahom kingdom, making it vulnerable to the Burmese.",
         "as": "মোৱামৰীয়া বিদ্ৰোহে আহোম ৰাজ্যক দুৰ্বল কৰি মান আক্ৰমণৰ চিকাৰ হ'বলৈ সুবিধা দিছিল।"
@@ -1225,15 +1225,15 @@
           "as": "প্ৰায় পোন্ধৰ বছৰ (১৮১১-১৮২৬)"
         },
         {
-          "en": "About two years (1824-1826)",
-          "as": "প্ৰায় দুবছৰ (১৮২৪-১৮২৬)"
-        },
-        {
           "en": "About nine years (1817-1826)",
           "as": "প্ৰায় ন বছৰ (১৮১৭-১৮২৬)"
+        },
+        {
+          "en": "About two years (1824-1826)",
+          "as": "প্ৰায় দুবছৰ (১৮২৪-১৮২৬)"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "The Burmese invasions and occupation of Assam lasted about nine years (1817-1826).",
         "as": "অসমত মান আক্ৰমণ আৰু দখল প্ৰায় ন বছৰ (১৮১৭-১৮২৬) চলিছিল।"
@@ -1307,23 +1307,23 @@
       "answer_as": "বৰ্মা (ম্যানমাৰ)",
       "options": [
         {
-          "en": "Burma (Myanmar)",
-          "as": "বৰ্মা (ম্যানমাৰ)"
+          "en": "China",
+          "as": "চীন"
         },
         {
           "en": "Siam (Thailand)",
           "as": "চিয়াম (থাইলেণ্ড)"
         },
         {
-          "en": "China",
-          "as": "চীন"
+          "en": "Burma (Myanmar)",
+          "as": "বৰ্মা (ম্যানমাৰ)"
         },
         {
           "en": "Nepal",
           "as": "নেপাল"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Bodawpaya was the king of Burma (Myanmar).",
         "as": "বদৌপায়া বৰ্মা (ম্যানমাৰ)ৰ ৰজা আছিল।"
@@ -1341,19 +1341,19 @@
           "as": "→ (খ) → (গ) → (ঘ)"
         },
         {
-          "en": "(iv) → (i) → (iii) → (ii)",
-          "as": "→ (ক) → (গ) → (খ)"
-        },
-        {
           "en": "(i) → (iv) → (iii) → (ii)",
           "as": "→ (ঘ) → (গ) → (খ)"
+        },
+        {
+          "en": "(iv) → (i) → (iii) → (ii)",
+          "as": "→ (ক) → (গ) → (খ)"
         },
         {
           "en": "(i) → (iii) → (iv) → (ii)",
           "as": "→ (গ) → (ঘ) → (খ)"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "The correct order is first invasion (1817), second invasion (1819), third invasion (1821), then the Treaty of Yandabo (1826).",
         "as": "শুদ্ধ ক্ৰম হ'ল প্ৰথম আক্ৰমণ (১৮১৭), দ্বিতীয় আক্ৰমণ (১৮১৯), তৃতীয় আক্ৰমণ (১৮২১), তাৰপিছত য়াণ্ডাবু সন্ধি (১৮২৬)।"
@@ -1371,19 +1371,19 @@
           "as": "মোৱামৰীয়া বিদ্ৰোহৰ যুগ (১৭৬৯-১৮০৫)"
         },
         {
-          "en": "The reign of Sukapha (1228-1268)",
-          "as": "সুকাফাৰ ৰাজত্ব (১২২৮-১২৬৮)"
+          "en": "The period of the Burmese invasions (1817-1826)",
+          "as": "মান আক্ৰমণৰ যুগ (১৮১৭-১৮২৬)"
         },
         {
           "en": "The period of the British occupation (1826-1947)",
           "as": "ব্ৰিটিছ দখলৰ যুগ (১৮২৬-১৯৪৭)"
         },
         {
-          "en": "The period of the Burmese invasions (1817-1826)",
-          "as": "মান আক্ৰমণৰ যুগ (১৮১৭-১৮২৬)"
+          "en": "The reign of Sukapha (1228-1268)",
+          "as": "সুকাফাৰ ৰাজত্ব (১২২৮-১২৬৮)"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "'Maanor Akroman' is associated with the period of the Burmese invasions (1817-1826).",
         "as": "'মানৰ আক্ৰমণ' শব্দটো মান আক্ৰমণৰ যুগ (১৮১৭-১৮২৬)ৰ লগত জড়িত।"
@@ -1397,23 +1397,23 @@
       "answer_as": "ওপৰৰ সকলোবোৰ",
       "options": [
         {
-          "en": "Only (i) and (ii)",
-          "as": "কেৱল (ক) আৰু (খ)"
+          "en": "All of the above",
+          "as": "ওপৰৰ সকলোবোৰ"
         },
         {
           "en": "Only (ii) and (iii)",
           "as": "কেৱল (খ) আৰু (গ)"
         },
         {
-          "en": "All of the above",
-          "as": "ওপৰৰ সকলোবোৰ"
+          "en": "Only (i) and (ii)",
+          "as": "কেৱল (ক) আৰু (খ)"
         },
         {
           "en": "Only (i)",
           "as": "কেৱল (ক)"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "All three statements about Chandrakanta Singha are correct.",
         "as": "চন্দ্ৰকান্ত সিংহৰ বিষয়ে তিনিওটা বক্তব্যই শুদ্ধ।"
@@ -1427,8 +1427,8 @@
       "answer_as": "মহা বান্দুলা – তৃতীয় আক্ৰমণৰ নেতৃত্ব দিয়া মান সেনাপতি",
       "options": [
         {
-          "en": "Maha Bandula – Burmese general who led the third invasion",
-          "as": "মহা বান্দুলা – তৃতীয় আক্ৰমণৰ নেতৃত্ব দিয়া মান সেনাপতি"
+          "en": "Jogeswar Singha – British general in the First Anglo-Burmese War",
+          "as": "যোগেশ্বৰ সিংহ – প্ৰথম ইংৰাজ-মান যুদ্ধৰ ব্ৰিটিছ সেনাপতি"
         },
         {
           "en": "Bodawpaya – Burmese general who led the third invasion",
@@ -1439,11 +1439,11 @@
           "as": "পূৰ্ণানন্দ বুঢ়াগোহাঁই – মানসকলৰ সহায় বিচৰা আহোম ৰজা"
         },
         {
-          "en": "Jogeswar Singha – British general in the First Anglo-Burmese War",
-          "as": "যোগেশ্বৰ সিংহ – প্ৰথম ইংৰাজ-মান যুদ্ধৰ ব্ৰিটিছ সেনাপতি"
+          "en": "Maha Bandula – Burmese general who led the third invasion",
+          "as": "মহা বান্দুলা – তৃতীয় আক্ৰমণৰ নেতৃত্ব দিয়া মান সেনাপতি"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Maha Bandula was the Burmese general who led the third invasion.",
         "as": "মহা বান্দুলা তৃতীয় আক্ৰমণৰ নেতৃত্ব দিয়া মান সেনাপতি আছিল।"
@@ -1457,23 +1457,23 @@
       "answer_as": "বংগ, কাছাৰ আৰু মণিপুৰ",
       "options": [
         {
-          "en": "Bengal, Bhutan and Tibet",
-          "as": "বংগ, ভূটান আৰু তিব্বত"
+          "en": "Bengal, Cachar and Manipur",
+          "as": "বংগ, কাছাৰ আৰু মণিপুৰ"
         },
         {
           "en": "Cachar, Manipur and Siam",
           "as": "কাছাৰ, মণিপুৰ আৰু চিয়াম"
         },
         {
-          "en": "Bengal, Cachar and Manipur",
-          "as": "বংগ, কাছাৰ আৰু মণিপুৰ"
+          "en": "Bengal, Bhutan and Tibet",
+          "as": "বংগ, ভূটান আৰু তিব্বত"
         },
         {
           "en": "Assam, Nepal and China",
           "as": "অসম, নেপাল আৰু চীন"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Burmese advanced toward Bengal, Cachar and Manipur, alarming the British.",
         "as": "মানসকলে বংগ, কাছাৰ আৰু মণিপুৰলৈ অগ্ৰসৰ হৈ ব্ৰিটিছসকলক সতৰ্ক কৰিছিল।"
@@ -1547,23 +1547,23 @@
       "answer_as": "বদৌপায়া",
       "options": [
         {
-          "en": "Bodawpaya",
-          "as": "বদৌপায়া"
+          "en": "Bagyidaw",
+          "as": "বগ্যিদা"
         },
         {
           "en": "Maha Bandula",
           "as": "মহা বান্দুলা"
         },
         {
-          "en": "Bagyidaw",
-          "as": "বগ্যিদা"
+          "en": "Bodawpaya",
+          "as": "বদৌপায়া"
         },
         {
           "en": "Alaungpaya",
           "as": "আলোংপায়া"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Bodawpaya was on the Burmese throne when the first invasion of Assam was ordered.",
         "as": "অসমৰ প্ৰথম আক্ৰমণৰ নিৰ্দেশৰ সময়ত বদৌপায়া মান সিংহাসনত আছিল।"
@@ -1581,19 +1581,19 @@
           "as": "বৰ্মাই অসম স্থায়ীভাৱে অধিগ্ৰহণ কৰিছিল"
         },
         {
-          "en": "The British immediately occupied Assam",
-          "as": "ব্ৰিটিছসকলে তৎক্ষণাত অসম দখল কৰিছিল"
+          "en": "The Burmese presence later became a burden and paved the way for the later invasions",
+          "as": "পিছলৈ মানসকলৰ উপস্থিতি বোজা হৈ পৰি পৰৱৰ্তী আক্ৰমণৰ বাট মুকলি কৰিছিল"
         },
         {
           "en": "Assam became a strong ally of Burma",
           "as": "অসম বৰ্মাৰ শক্তিশালী মিত্ৰ ৰাজ্য হৈ পৰিছিল"
         },
         {
-          "en": "The Burmese presence later became a burden and paved the way for the later invasions",
-          "as": "পিছলৈ মানসকলৰ উপস্থিতি বোজা হৈ পৰি পৰৱৰ্তী আক্ৰমণৰ বাট মুকলি কৰিছিল"
+          "en": "The British immediately occupied Assam",
+          "as": "ব্ৰিটিছসকলে তৎক্ষণাত অসম দখল কৰিছিল"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The Burmese presence later became a burden and paved the way for the later invasions.",
         "as": "পিছলৈ মানসকলৰ উপস্থিতি বোজা হৈ পৰি পৰৱৰ্তী আক্ৰমণৰ বাট মুকলি কৰিছিল।"

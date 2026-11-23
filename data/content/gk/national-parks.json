@@ -37,19 +37,19 @@
           "as": "৫খন ৰাষ্ট্ৰীয় উদ্যান"
         },
         {
-          "en": "6 National Parks",
-          "as": "৬খন ৰাষ্ট্ৰীয় উদ্যান"
-        },
-        {
           "en": "7 National Parks",
           "as": "৭খন ৰাষ্ট্ৰীয় উদ্যান"
+        },
+        {
+          "en": "6 National Parks",
+          "as": "৬খন ৰাষ্ট্ৰীয় উদ্যান"
         },
         {
           "en": "9 National Parks",
           "as": "৯খন ৰাষ্ট্ৰীয় উদ্যান"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "Assam has 7 National Parks at present.",
         "as": "অসমত বৰ্তমান ৭খন ৰাষ্ট্ৰীয় উদ্যান আছে।"
@@ -107,15 +107,15 @@
           "as": "মানস আৰু ডিব্ৰু-চৈখোৱা, দুয়ো ১৯৯০ চনত ঘোষিত"
         },
         {
-          "en": "Raimona National Park (6th) and Dihing Patkai National Park (7th), both declared in 2021",
-          "as": "ৰাইমনা ৰাষ্ট্ৰীয় উদ্যান (৬ষ্ঠ) আৰু দিহিং পাটকাই ৰাষ্ট্ৰীয় উদ্যান (৭ম), দুয়ো ২০২১ চনত ঘোষিত"
-        },
-        {
           "en": "Kaziranga and Manas, both declared in 1985",
           "as": "কাজিৰঙা আৰু মানস, দুয়ো ১৯৮৫ চনত ঘোষিত"
+        },
+        {
+          "en": "Raimona National Park (6th) and Dihing Patkai National Park (7th), both declared in 2021",
+          "as": "ৰাইমনা ৰাষ্ট্ৰীয় উদ্যান (৬ষ্ঠ) আৰু দিহিং পাটকাই ৰাষ্ট্ৰীয় উদ্যান (৭ম), দুয়ো ২০২১ চনত ঘোষিত"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The two most recently declared National Parks of Assam are Raimona (6th) and Dihing Patkai (7th), both declared in 2021.",
         "as": "অসমৰ আটাইতকৈ শেহতীয়াকৈ ঘোষিত ৰাষ্ট্ৰীয় উদ্যান দুখন হ'ল ৰাইমনা (৬ষ্ঠ) আৰু দিহিং পাটকাই (৭ম), দুয়ো ২০২১ চনত ঘোষিত।"
@@ -173,15 +173,15 @@
           "as": "৩খন ব্যাঘ্ৰ প্ৰকল্প"
         },
         {
-          "en": "5 Tiger Reserves",
-          "as": "৫খন ব্যাঘ্ৰ প্ৰকল্প"
-        },
-        {
           "en": "4 Tiger Reserves (Kaziranga, Manas, Nameri and Orang)",
           "as": "৪খন ব্যাঘ্ৰ প্ৰকল্প (কাজিৰঙা, মানস, নামেৰী আৰু ওৰাং)"
+        },
+        {
+          "en": "5 Tiger Reserves",
+          "as": "৫খন ব্যাঘ্ৰ প্ৰকল্প"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Assam has 4 Tiger Reserves: Kaziranga, Manas, Nameri and Orang.",
         "as": "অসমত ৪খন ব্যাঘ্ৰ প্ৰকল্প আছে: কাজিৰঙা, মানস, নামেৰী আৰু ওৰাং।"
@@ -202,19 +202,19 @@
           "as": "সোণ বিল"
         },
         {
-          "en": "Deepor Beel (declared in 2002)",
-          "as": "দীপৰ বিল (২০০২ চনত ঘোষিত)"
-        },
-        {
           "en": "Chandubi Lake",
           "as": "চান্দুবী হ্ৰদ"
+        },
+        {
+          "en": "Deepor Beel (declared in 2002)",
+          "as": "দীপৰ বিল (২০০২ চনত ঘোষিত)"
         },
         {
           "en": "Bhoj Wetland",
           "as": "ভোজ জলাশয়"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Deepor Beel, declared in 2002, is the only Ramsar Site in Assam.",
         "as": "২০০২ চনত ঘোষিত দীপৰ বিল অসমৰ একমাত্ৰ ৰামছাৰ ক্ষেত্ৰ।"
@@ -235,19 +235,19 @@
           "as": "কাজিৰঙা আৰু মানস"
         },
         {
-          "en": "Nameri and Orang",
-          "as": "নামেৰী আৰু ওৰাং"
+          "en": "Manas (1989) and Dibru-Saikhowa (1997)",
+          "as": "মানস (১৯৮৯) আৰু ডিব্ৰু-চৈখোৱা (১৯৯৭)"
         },
         {
           "en": "Deepor Beel and Son Beel",
           "as": "দীপৰ বিল আৰু সোণ বিল"
         },
         {
-          "en": "Manas (1989) and Dibru-Saikhowa (1997)",
-          "as": "মানস (১৯৮৯) আৰু ডিব্ৰু-চৈখোৱা (১৯৯৭)"
+          "en": "Nameri and Orang",
+          "as": "নামেৰী আৰু ওৰাং"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The two Biosphere Reserves of Assam are Manas (1989) and Dibru-Saikhowa (1997).",
         "as": "অসমৰ দুখন জীৱমণ্ডল সংৰক্ষিত অঞ্চল হ'ল মানস (১৯৮৯) আৰু ডিব্ৰু-চৈখোৱা (১৯৯৭)।"
@@ -264,12 +264,12 @@
       },
       "options": [
         {
-          "en": "One-horned Rhinoceros (Rhinoceros unicornis)",
-          "as": "এশিঙীয়া গঁড় (Rhinoceros unicornis)"
-        },
-        {
           "en": "Asian Elephant",
           "as": "এছীয় হাতী"
+        },
+        {
+          "en": "One-horned Rhinoceros (Rhinoceros unicornis)",
+          "as": "এশিঙীয়া গঁড় (Rhinoceros unicornis)"
         },
         {
           "en": "Golden Langur",
@@ -280,7 +280,7 @@
           "as": "বামুন গাহৰি"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The State Animal of Assam is the one-horned rhinoceros.",
         "as": "অসমৰ ৰাজ্যিক পশু এশিঙীয়া গঁড়।"
@@ -338,15 +338,15 @@
           "as": "নামেৰী ৰাষ্ট্ৰীয় উদ্যান"
         },
         {
-          "en": "Dibru-Saikhowa National Park",
-          "as": "ডিব্ৰু-চৈখোৱা ৰাষ্ট্ৰীয় উদ্যান"
-        },
-        {
           "en": "Kaziranga National Park",
           "as": "কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান"
+        },
+        {
+          "en": "Dibru-Saikhowa National Park",
+          "as": "ডিব্ৰু-চৈখোৱা ৰাষ্ট্ৰীয় উদ্যান"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Kaziranga National Park is the largest National Park of Assam by area.",
         "as": "আয়তনৰ দিশৰ পৰা কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান অসমৰ আটাইতকৈ ডাঙৰ ৰাষ্ট্ৰীয় উদ্যান।"
@@ -363,12 +363,12 @@
       },
       "options": [
         {
-          "en": "Orang National Park (approx. 78.81 sq km)",
-          "as": "ওৰাং ৰাষ্ট্ৰীয় উদ্যান (প্ৰায় ৭৮.৮১ বৰ্গ কিমি)"
-        },
-        {
           "en": "Nameri National Park",
           "as": "নামেৰী ৰাষ্ট্ৰীয় উদ্যান"
+        },
+        {
+          "en": "Orang National Park (approx. 78.81 sq km)",
+          "as": "ওৰাং ৰাষ্ট্ৰীয় উদ্যান (প্ৰায় ৭৮.৮১ বৰ্গ কিমি)"
         },
         {
           "en": "Raimona National Park",
@@ -379,7 +379,7 @@
           "as": "দিহিং পাটকাই ৰাষ্ট্ৰীয় উদ্যান"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Orang National Park, about 78.81 sq km, is the smallest National Park of Assam.",
         "as": "প্ৰায় ৭৮.৮১ বৰ্গ কিমি আয়তনৰ ওৰাং ৰাষ্ট্ৰীয় উদ্যান অসমৰ আটাইতকৈ সৰু ৰাষ্ট্ৰীয় উদ্যান।"
@@ -396,8 +396,8 @@
       },
       "options": [
         {
-          "en": "1 January 1905",
-          "as": "১৯০৫ চনৰ ১ জানুৱাৰী"
+          "en": "11 February 1974",
+          "as": "১৯৭৪ চনৰ ১১ ফেব্ৰুৱাৰী"
         },
         {
           "en": "11 February 1985",
@@ -408,11 +408,11 @@
           "as": "১৯৯০ চনৰ ৭ ছেপ্টেম্বৰ"
         },
         {
-          "en": "11 February 1974",
-          "as": "১৯৭৪ চনৰ ১১ ফেব্ৰুৱাৰী"
+          "en": "1 January 1905",
+          "as": "১৯০৫ চনৰ ১ জানুৱাৰী"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Kaziranga was declared a National Park on 11 February 1974.",
         "as": "কাজিৰঙাক ১৯৭৪ চনৰ ১১ ফেব্ৰুৱাৰীত ৰাষ্ট্ৰীয় উদ্যান ঘোষণা কৰা হৈছিল।"
@@ -433,19 +433,19 @@
           "as": "১৯৭৩ চনত"
         },
         {
-          "en": "In 2006 (effective from 2007)",
-          "as": "২০০৬ চনত (২০০৭ চনৰ পৰা কাৰ্যকৰী)"
+          "en": "In 2016",
+          "as": "২০১৬ চনত"
         },
         {
           "en": "In 1985",
           "as": "১৯৮৫ চনত"
         },
         {
-          "en": "In 2016",
-          "as": "২০১৬ চনত"
+          "en": "In 2006 (effective from 2007)",
+          "as": "২০০৬ চনত (২০০৭ চনৰ পৰা কাৰ্যকৰী)"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Kaziranga was declared a Tiger Reserve in 2006, effective from 2007.",
         "as": "কাজিৰঙাক ২০০৬ চনত ব্যাঘ্ৰ প্ৰকল্প ঘোষণা কৰা হৈছিল, ২০০৭ চনৰ পৰা কাৰ্যকৰী।"
@@ -495,23 +495,23 @@
       },
       "options": [
         {
-          "en": "Golaghat, Nagaon, Biswanath and Sonitpur districts",
-          "as": "গোলাঘাট, নগাঁও, বিশ্বনাথ আৰু শোণিতপুৰ জিলা"
+          "en": "Baksa, Chirang, Kokrajhar and Dhubri",
+          "as": "বাক্সা, চিৰাং, কোকৰাঝাৰ আৰু ধুবুৰী"
         },
         {
           "en": "Dibrugarh, Tinsukia, Sivasagar and Jorhat",
           "as": "ডিব্ৰুগড়, তিনিচুকীয়া, শিৱসাগৰ আৰু যোৰহাট"
         },
         {
-          "en": "Baksa, Chirang, Kokrajhar and Dhubri",
-          "as": "বাক্সা, চিৰাং, কোকৰাঝাৰ আৰু ধুবুৰী"
+          "en": "Golaghat, Nagaon, Biswanath and Sonitpur districts",
+          "as": "গোলাঘাট, নগাঁও, বিশ্বনাথ আৰু শোণিতপুৰ জিলা"
         },
         {
           "en": "Kamrup, Nalbari, Barpeta and Goalpara",
           "as": "কামৰূপ, নলবাৰী, বৰপেটা আৰু গোৱালপাৰা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Kaziranga National Park is spread across Golaghat, Nagaon, Biswanath and Sonitpur districts.",
         "as": "কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান গোলাঘাট, নগাঁও, বিশ্বনাথ আৰু শোণিতপুৰ জিলাত বিস্তৃত।"
@@ -528,23 +528,23 @@
       },
       "options": [
         {
-          "en": "One-horned Rhino, Golden Langur, Hoolock Gibbon, Pygmy Hog and Swamp Deer",
-          "as": "এশিঙীয়া গঁড়, সোণালী লাঙুৰ, হলৌ বান্দৰ, বামুন গাহৰি আৰু দল-হৰিণা"
+          "en": "One-horned Rhino, Royal Bengal Tiger, Asian Elephant, Wild Water Buffalo and Swamp Deer",
+          "as": "এশিঙীয়া গঁড়, ৰয়েল বেংগল বাঘ, এছীয় হাতী, বনৰীয়া ম'হ আৰু দল-হৰিণা"
         },
         {
           "en": "Tiger, Leopard, Elephant, Gaur and Sambar",
           "as": "বাঘ, নাহৰফুটুকী, হাতী, গৱল আৰু সম্বৰ"
         },
         {
-          "en": "One-horned Rhino, Royal Bengal Tiger, Asian Elephant, Wild Water Buffalo and Swamp Deer",
-          "as": "এশিঙীয়া গঁড়, ৰয়েল বেংগল বাঘ, এছীয় হাতী, বনৰীয়া ম'হ আৰু দল-হৰিণা"
+          "en": "One-horned Rhino, Golden Langur, Hoolock Gibbon, Pygmy Hog and Swamp Deer",
+          "as": "এশিঙীয়া গঁড়, সোণালী লাঙুৰ, হলৌ বান্দৰ, বামুন গাহৰি আৰু দল-হৰিণা"
         },
         {
           "en": "Rhino, Elephant, Gaur, Wild Boar and Barking Deer",
           "as": "গঁড়, হাতী, গৱল, বনৰীয়া গাহৰি আৰু কাকতী হৰিণা"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The 'Big Five' of Kaziranga are the one-horned rhino, Royal Bengal tiger, Asian elephant, wild water buffalo and swamp deer.",
         "as": "কাজিৰঙাৰ 'বিগ ফাইভ' হ'ল এশিঙীয়া গঁড়, ৰয়েল বেংগল বাঘ, এছীয় হাতী, বনৰীয়া ম'হ আৰু দল-হৰিণা।"
@@ -565,19 +565,19 @@
           "as": "প্ৰায় এক-তৃতীয়াংশ"
         },
         {
-          "en": "About half",
-          "as": "প্ৰায় আধা"
-        },
-        {
           "en": "Approximately two-thirds (around 66%)",
           "as": "প্ৰায় দুই-তৃতীয়াংশ (প্ৰায় ৬৬%)"
+        },
+        {
+          "en": "About half",
+          "as": "প্ৰায় আধা"
         },
         {
           "en": "About 90%",
           "as": "প্ৰায় ৯০%"
         }
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": {
         "en": "About two-thirds of the world's one-horned rhinoceros population is found in Kaziranga.",
         "as": "বিশ্বৰ এশিঙীয়া গঁড়ৰ প্ৰায় দুই-তৃতীয়াংশ কাজিৰঙাত পোৱা যায়।"
@@ -594,23 +594,23 @@
       },
       "options": [
         {
-          "en": "National Highway 37 (renamed as NH-715)",
-          "as": "ৰাষ্ট্ৰীয় ঘাইপথ ৩৭ (পুনৰ নাম NH-715)"
+          "en": "National Highway 15",
+          "as": "ৰাষ্ট্ৰীয় ঘাইপথ ১৫"
         },
         {
           "en": "National Highway 27",
           "as": "ৰাষ্ট্ৰীয় ঘাইপথ ২৭"
         },
         {
-          "en": "National Highway 15",
-          "as": "ৰাষ্ট্ৰীয় ঘাইপথ ১৫"
+          "en": "National Highway 37 (renamed as NH-715)",
+          "as": "ৰাষ্ট্ৰীয় ঘাইপথ ৩৭ (পুনৰ নাম NH-715)"
         },
         {
           "en": "National Highway 2",
           "as": "ৰাষ্ট্ৰীয় ঘাইপথ ২"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "National Highway 37, renamed NH-715, passes along Kaziranga National Park.",
         "as": "ৰাষ্ট্ৰীয় ঘাইপথ ৩৭, যি এতিয়া NH-715, কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যানৰ কাষেৰে পাৰ হয়।"
@@ -627,23 +627,23 @@
       },
       "options": [
         {
-          "en": "The Garo Hills",
-          "as": "গাৰো পাহাৰ"
+          "en": "Karbi Anglong Hills",
+          "as": "কাৰ্বি আংলং পাহাৰ"
         },
         {
           "en": "The Naga Hills",
           "as": "নগা পাহাৰ"
         },
         {
-          "en": "Karbi Anglong Hills",
-          "as": "কাৰ্বি আংলং পাহাৰ"
+          "en": "The Garo Hills",
+          "as": "গাৰো পাহাৰ"
         },
         {
           "en": "The Patkai Range",
           "as": "পাটকাই পৰ্বতমালা"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "The Karbi Anglong Hills lie to the south of Kaziranga National Park.",
         "as": "কাৰ্বি আংলং পাহাৰ কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যানৰ দক্ষিণে অৱস্থিত।"
@@ -664,19 +664,19 @@
           "as": "জিয়া ভৰলী নদী"
         },
         {
-          "en": "Diphlu River",
-          "as": "দিফলু নদী"
+          "en": "Dihing River",
+          "as": "দিহিং নদী"
         },
         {
           "en": "Manas River",
           "as": "মানস নদী"
         },
         {
-          "en": "Dihing River",
-          "as": "দিহিং নদী"
+          "en": "Diphlu River",
+          "as": "দিফলু নদী"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Besides the Brahmaputra, the Diphlu river flows through Kaziranga.",
         "as": "ব্ৰহ্মপুত্ৰৰ উপৰিও দিফলু নদী কাজিৰঙাৰ মাজেৰে বৈ গৈছে।"
@@ -693,23 +693,23 @@
       },
       "options": [
         {
-          "en": "7 September 1990",
-          "as": "১৯৯০ চনৰ ৭ ছেপ্টেম্বৰ"
+          "en": "1 October 1985",
+          "as": "১৯৮৫ চনৰ ১ অক্টোবৰ"
         },
         {
           "en": "11 February 1974",
           "as": "১৯৭৪ চনৰ ১১ ফেব্ৰুৱাৰী"
         },
         {
-          "en": "1 October 1985",
-          "as": "১৯৮৫ চনৰ ১ অক্টোবৰ"
+          "en": "7 September 1990",
+          "as": "১৯৯০ চনৰ ৭ ছেপ্টেম্বৰ"
         },
         {
           "en": "9 June 2021",
           "as": "২০২১ চনৰ ৯ জুন"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Manas was officially declared a National Park on 7 September 1990.",
         "as": "মানসক ১৯৯০ চনৰ ৭ ছেপ্টেম্বৰত আনুষ্ঠানিকভাৱে ৰাষ্ট্ৰীয় উদ্যান ঘোষণা কৰা হৈছিল।"
@@ -726,12 +726,12 @@
       },
       "options": [
         {
-          "en": "Kaziranga Tiger Reserve",
-          "as": "কাজিৰঙা ব্যাঘ্ৰ প্ৰকল্প"
-        },
-        {
           "en": "Manas Tiger Reserve",
           "as": "মানস ব্যাঘ্ৰ প্ৰকল্প"
+        },
+        {
+          "en": "Kaziranga Tiger Reserve",
+          "as": "কাজিৰঙা ব্যাঘ্ৰ প্ৰকল্প"
         },
         {
           "en": "Nameri Tiger Reserve",
@@ -742,7 +742,7 @@
           "as": "ওৰাং ব্যাঘ্ৰ প্ৰকল্প"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Manas Tiger Reserve was the only forest reserve from Assam included when Project Tiger was launched in 1973.",
         "as": "১৯৭৩ চনত প্ৰজেক্ট টাইগাৰ আৰম্ভ হোৱাৰ সময়ত মানস ব্যাঘ্ৰ প্ৰকল্পই অসমৰ পৰা অন্তৰ্ভুক্ত একমাত্ৰ বন সংৰক্ষিত অঞ্চল আছিল।"
@@ -825,12 +825,12 @@
       },
       "options": [
         {
-          "en": "Nepal",
-          "as": "নেপাল"
-        },
-        {
           "en": "Bhutan (known as Royal Manas National Park in Bhutan)",
           "as": "ভূটান (ভূটানত ৰয়েল মানস ৰাষ্ট্ৰীয় উদ্যান)"
+        },
+        {
+          "en": "Nepal",
+          "as": "নেপাল"
         },
         {
           "en": "Bangladesh",
@@ -841,7 +841,7 @@
           "as": "ম্যানমাৰ"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Manas National Park shares an international boundary with Bhutan, where it is the Royal Manas National Park.",
         "as": "মানস ৰাষ্ট্ৰীয় উদ্যানে ভূটানৰ সৈতে আন্তৰ্জাতিক সীমান্ত ভাগ কৰে, য'ত ই ৰয়েল মানস ৰাষ্ট্ৰীয় উদ্যান।"
@@ -858,23 +858,23 @@
       },
       "options": [
         {
-          "en": "Brahmaputra River",
-          "as": "ব্ৰহ্মপুত্ৰ নদী"
+          "en": "Manas River (associated with Goddess Manasa)",
+          "as": "মানস নদী (দেৱী মনসাৰ সৈতে সম্পৰ্কিত)"
         },
         {
           "en": "Jia Bhoroli River",
           "as": "জিয়া ভৰলী নদী"
         },
         {
-          "en": "Manas River (associated with Goddess Manasa)",
-          "as": "মানস নদী (দেৱী মনসাৰ সৈতে সম্পৰ্কিত)"
+          "en": "Brahmaputra River",
+          "as": "ব্ৰহ্মপুত্ৰ নদী"
         },
         {
           "en": "Diphlu River",
           "as": "দিফলু নদী"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Manas National Park derives its name from the Manas River, associated with Goddess Manasa.",
         "as": "মানস ৰাষ্ট্ৰীয় উদ্যানৰ নাম দেৱী মনসাৰ সৈতে সম্পৰ্কিত মানস নদীৰ পৰা আহিছে।"
@@ -891,12 +891,12 @@
       },
       "options": [
         {
-          "en": "Bengal Florican (Ulu-mora)",
-          "as": "উলুমৰা (বেংগল ফ্ল'ৰিকান)"
-        },
-        {
           "en": "White-winged Wood Duck",
           "as": "বগলী হাঁহ"
+        },
+        {
+          "en": "Bengal Florican (Ulu-mora)",
+          "as": "উলুমৰা (বেংগল ফ্ল'ৰিকান)"
         },
         {
           "en": "Great Hornbill",
@@ -907,7 +907,7 @@
           "as": "গোল্ডেন মহাছিৰ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "Manas National Park is particularly famous for the rare Bengal Florican (Ulu-mora).",
         "as": "মানস ৰাষ্ট্ৰীয় উদ্যান বিৰল উলুমৰা (বেংগল ফ্ল'ৰিকান) ৰ বাবে বিশেষভাৱে বিখ্যাত।"
@@ -924,8 +924,8 @@
       },
       "options": [
         {
-          "en": "In 1990",
-          "as": "১৯৯০ চনত"
+          "en": "In 1999",
+          "as": "১৯৯৯ চনত"
         },
         {
           "en": "In 1998",
@@ -936,11 +936,11 @@
           "as": "২০২১ চনত"
         },
         {
-          "en": "In 1999",
-          "as": "১৯৯৯ চনত"
+          "en": "In 1990",
+          "as": "১৯৯০ চনত"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "Dibru-Saikhowa was declared a National Park in 1999.",
         "as": "ডিব্ৰু-চৈখোৱাক ১৯৯৯ চনত ৰাষ্ট্ৰীয় উদ্যান ঘোষণা কৰা হৈছিল।"
@@ -1027,19 +1027,19 @@
           "as": "নগাঁও জিলা"
         },
         {
-          "en": "Sonitpur district (in the foothills of the Himalayas)",
-          "as": "শোণিতপুৰ জিলা (হিমালয়ৰ পাদদেশত)"
-        },
-        {
           "en": "Jorhat district",
           "as": "যোৰহাট জিলা"
+        },
+        {
+          "en": "Sonitpur district (in the foothills of the Himalayas)",
+          "as": "শোণিতপুৰ জিলা (হিমালয়ৰ পাদদেশত)"
         },
         {
           "en": "Kokrajhar district",
           "as": "কোকৰাঝাৰ জিলা"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Nameri National Park is located in Sonitpur district, in the foothills of the Himalayas.",
         "as": "নামেৰী ৰাষ্ট্ৰীয় উদ্যান শোণিতপুৰ জিলাত, হিমালয়ৰ পাদদেশত অৱস্থিত।"
@@ -1060,19 +1060,19 @@
           "as": "মানস নদী"
         },
         {
-          "en": "Diphlu River",
-          "as": "দিফলু নদী"
+          "en": "Jia Bhoroli River",
+          "as": "জিয়া ভৰলী নদী"
         },
         {
           "en": "Dihing River",
           "as": "দিহিং নদী"
         },
         {
-          "en": "Jia Bhoroli River",
-          "as": "জিয়া ভৰলী নদী"
+          "en": "Diphlu River",
+          "as": "দিফলু নদী"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "The Jia Bhoroli river flows through Nameri National Park.",
         "as": "জিয়া ভৰলী নদী নামেৰী ৰাষ্ট্ৰীয় উদ্যানৰ মাজেৰে বৈ গৈছে।"
@@ -1089,12 +1089,12 @@
       },
       "options": [
         {
-          "en": "Golden Mahseer",
-          "as": "গোল্ডেন মহাছিৰ"
-        },
-        {
           "en": "Hilsa",
           "as": "ইলিশ"
+        },
+        {
+          "en": "Golden Mahseer",
+          "as": "গোল্ডেন মহাছিৰ"
         },
         {
           "en": "Catla",
@@ -1105,7 +1105,7 @@
           "as": "ৰৌ"
         }
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "en": "The Golden Mahseer, a famous angling fish, is found in the Jia Bhoroli river at Nameri.",
         "as": "বিখ্যাত এংলিং মাছ গোল্ডেন মহাছিৰ নামেৰীৰ জিয়া ভৰলী নদীত পোৱা যায়।"
@@ -1130,15 +1130,15 @@
           "as": "১৯৯৯ চনত"
         },
         {
-          "en": "In 1998",
-          "as": "১৯৯৮ চনত"
-        },
-        {
           "en": "In 2021",
           "as": "২০২১ চনত"
+        },
+        {
+          "en": "In 1998",
+          "as": "১৯৯৮ চনত"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Nameri was declared a National Park in 1998.",
         "as": "নামেৰীক ১৯৯৮ চনত ৰাষ্ট্ৰীয় উদ্যান ঘোষণা কৰা হৈছিল।"
@@ -1155,12 +1155,12 @@
       },
       "options": [
         {
-          "en": "'Amazon of the East'",
-          "as": "'পূবৰ আমাজন'"
-        },
-        {
           "en": "'Mini Kaziranga' or Rajiv Gandhi Orang National Park",
           "as": "'ক্ষুদ্ৰ কাজিৰঙা' বা ৰাজীৱ গান্ধী ওৰাং ৰাষ্ট্ৰীয় উদ্যান"
+        },
+        {
+          "en": "'Amazon of the East'",
+          "as": "'পূবৰ আমাজন'"
         },
         {
           "en": "'Manchester of Assam'",
@@ -1171,7 +1171,7 @@
           "as": "'পূবৰ স্কটলেণ্ড'"
         }
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": {
         "en": "Orang National Park is also known as 'Mini Kaziranga' or Rajiv Gandhi Orang National Park.",
         "as": "ওৰাং ৰাষ্ট্ৰীয় উদ্যান 'ক্ষুদ্ৰ কাজিৰঙা' বা ৰাজীৱ গান্ধী ওৰাং ৰাষ্ট্ৰীয় উদ্যান নামেৰেও জনাজাত।"
@@ -1254,8 +1254,8 @@
       },
       "options": [
         {
-          "en": "Kokrajhar district (BTR)",
-          "as": "কোকৰাঝাৰ জিলা (বিটিআৰ)"
+          "en": "Dhubri district",
+          "as": "ধুবুৰী জিলা"
         },
         {
           "en": "Sonitpur district",
@@ -1266,11 +1266,11 @@
           "as": "কাৰ্বি আংলং জিলা"
         },
         {
-          "en": "Dhubri district",
-          "as": "ধুবুৰী জিলা"
+          "en": "Kokrajhar district (BTR)",
+          "as": "কোকৰাঝাৰ জিলা (বিটিআৰ)"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Raimona National Park is located in Kokrajhar district of the BTR region.",
         "as": "ৰাইমনা ৰাষ্ট্ৰীয় উদ্যান বিটিআৰ অঞ্চলৰ কোকৰাঝাৰ জিলাত অৱস্থিত।"
@@ -1287,23 +1287,23 @@
       },
       "options": [
         {
-          "en": "9 June 2021",
-          "as": "২০২১ চনৰ ৯ জুন"
+          "en": "5 June 2021 (World Environment Day)",
+          "as": "২০২১ চনৰ ৫ জুন (বিশ্ব পৰিৱেশ দিৱস)"
         },
         {
           "en": "1 January 2021",
           "as": "২০২১ চনৰ ১ জানুৱাৰী"
         },
         {
-          "en": "5 June 2021 (World Environment Day)",
-          "as": "২০২১ চনৰ ৫ জুন (বিশ্ব পৰিৱেশ দিৱস)"
+          "en": "9 June 2021",
+          "as": "২০২১ চনৰ ৯ জুন"
         },
         {
           "en": "5 June 1999",
           "as": "১৯৯৯ চনৰ ৫ জুন"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Raimona was declared a National Park on 5 June 2021, World Environment Day.",
         "as": "ৰাইমনাক ২০২১ চনৰ ৫ জুন, বিশ্ব পৰিৱেশ দিৱসত ৰাষ্ট্ৰীয় উদ্যান ঘোষণা কৰা হৈছিল।"
@@ -1328,15 +1328,15 @@
           "as": "বামুন গাহৰি"
         },
         {
-          "en": "Golden Langur",
-          "as": "সোণালী লাঙুৰ"
-        },
-        {
           "en": "Bengal Florican",
           "as": "উলুমৰা"
+        },
+        {
+          "en": "Golden Langur",
+          "as": "সোণালী লাঙুৰ"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "The Golden Langur is the flagship attraction of Raimona National Park.",
         "as": "সোণালী লাঙুৰ ৰাইমনা ৰাষ্ট্ৰীয় উদ্যানৰ প্ৰধান আকৰ্ষণ।"
@@ -1419,23 +1419,23 @@
       },
       "options": [
         {
-          "en": "Dibrugarh and Tinsukia districts",
-          "as": "ডিব্ৰুগড় আৰু তিনিচুকীয়া জিলা"
+          "en": "Kokrajhar and Chirang districts",
+          "as": "কোকৰাঝাৰ আৰু চিৰাং জিলা"
         },
         {
           "en": "Sonitpur and Biswanath districts",
           "as": "শোণিতপুৰ আৰু বিশ্বনাথ জিলা"
         },
         {
-          "en": "Kokrajhar and Chirang districts",
-          "as": "কোকৰাঝাৰ আৰু চিৰাং জিলা"
+          "en": "Dibrugarh and Tinsukia districts",
+          "as": "ডিব্ৰুগড় আৰু তিনিচুকীয়া জিলা"
         },
         {
           "en": "Golaghat and Nagaon districts",
           "as": "গোলাঘাট আৰু নগাঁও জিলা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Dihing Patkai National Park is situated in Dibrugarh and Tinsukia districts.",
         "as": "দিহিং পাটকাই ৰাষ্ট্ৰীয় উদ্যান ডিব্ৰুগড় আৰু তিনিচুকীয়া জিলাত অৱস্থিত।"
@@ -1452,8 +1452,8 @@
       },
       "options": [
         {
-          "en": "Kaziranga National Park",
-          "as": "কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান"
+          "en": "Pobitora Wildlife Sanctuary",
+          "as": "পবিতৰা অভয়াৰণ্য"
         },
         {
           "en": "Orang National Park",
@@ -1464,11 +1464,11 @@
           "as": "মানস ৰাষ্ট্ৰীয় উদ্যান"
         },
         {
-          "en": "Pobitora Wildlife Sanctuary",
-          "as": "পবিতৰা অভয়াৰণ্য"
+          "en": "Kaziranga National Park",
+          "as": "কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান"
         }
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": {
         "en": "The highest density of one-horned rhinos in the world is found in Pobitora Wildlife Sanctuary.",
         "as": "বিশ্বত এশিঙীয়া গঁড়ৰ আটাইতকৈ উচ্চ ঘনত্ব পবিতৰা অভয়াৰণ্যত পোৱা যায়।"
@@ -1489,19 +1489,19 @@
           "as": "নগাঁও জিলা"
         },
         {
-          "en": "Morigaon district",
-          "as": "মৰিগাঁও জিলা"
+          "en": "Jorhat district",
+          "as": "যোৰহাট জিলা"
         },
         {
           "en": "Kamrup district",
           "as": "কামৰূপ জিলা"
         },
         {
-          "en": "Jorhat district",
-          "as": "যোৰহাট জিলা"
+          "en": "Morigaon district",
+          "as": "মৰিগাঁও জিলা"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Pobitora Wildlife Sanctuary is located in Morigaon district.",
         "as": "পবিতৰা অভয়াৰণ্য মৰিগাঁও জিলাত অৱস্থিত।"
@@ -1555,19 +1555,19 @@
           "as": "হলৌগাপাৰ গিবন অভয়াৰণ্য"
         },
         {
-          "en": "Bornadi Wildlife Sanctuary",
-          "as": "বৰনদী অভয়াৰণ্য"
+          "en": "Chakrashila Wildlife Sanctuary (Dhubri and Kokrajhar districts)",
+          "as": "চক্ৰশিলা অভয়াৰণ্য (ধুবুৰী আৰু কোকৰাঝাৰ জিলা)"
         },
         {
           "en": "Nambor Wildlife Sanctuary",
           "as": "নামবৰ অভয়াৰণ্য"
         },
         {
-          "en": "Chakrashila Wildlife Sanctuary (Dhubri and Kokrajhar districts)",
-          "as": "চক্ৰশিলা অভয়াৰণ্য (ধুবুৰী আৰু কোকৰাঝাৰ জিলা)"
+          "en": "Bornadi Wildlife Sanctuary",
+          "as": "বৰনদী অভয়াৰণ্য"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Chakrashila Wildlife Sanctuary in Dhubri and Kokrajhar districts is known for the conservation of Golden Langurs.",
         "as": "ধুবুৰী আৰু কোকৰাঝাৰ জিলাৰ চক্ৰশিলা অভয়াৰণ্য সোণালী লাঙুৰ সংৰক্ষণৰ বাবে জনাজাত।"
@@ -1584,23 +1584,23 @@
       },
       "options": [
         {
-          "en": "Nambor Wildlife Sanctuary",
-          "as": "নামবৰ অভয়াৰণ্য"
+          "en": "Garampani Wildlife Sanctuary (Karbi Anglong district)",
+          "as": "গৰমপানী অভয়াৰণ্য (কাৰ্বি আংলং জিলা)"
         },
         {
           "en": "Sonai-Rupai Wildlife Sanctuary",
           "as": "চোণাই-ৰূপাই অভয়াৰণ্য"
         },
         {
-          "en": "Garampani Wildlife Sanctuary (Karbi Anglong district)",
-          "as": "গৰমপানী অভয়াৰণ্য (কাৰ্বি আংলং জিলা)"
+          "en": "Nambor Wildlife Sanctuary",
+          "as": "নামবৰ অভয়াৰণ্য"
         },
         {
           "en": "Amchang Wildlife Sanctuary",
           "as": "আমচাং অভয়াৰণ্য"
         }
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": {
         "en": "Garampani Wildlife Sanctuary in Karbi Anglong district is known for its natural hot water springs.",
         "as": "কাৰ্বি আংলং জিলাৰ গৰমপানী অভয়াৰণ্য প্ৰাকৃতিক গৰম পানীৰ উঁহৰ বাবে জনাজাত।"
@@ -1621,19 +1621,19 @@
           "as": "নগাঁও আৰু মৰিগাঁও জিলা"
         },
         {
-          "en": "Golaghat and Karbi Anglong districts",
-          "as": "গোলাঘাট আৰু কাৰ্বি আংলং জিলা"
+          "en": "Dibrugarh and Tinsukia districts",
+          "as": "ডিব্ৰুগড় আৰু তিনিচুকীয়া জিলা"
         },
         {
           "en": "Sonitpur and Biswanath districts",
           "as": "শোণিতপুৰ আৰু বিশ্বনাথ জিলা"
         },
         {
-          "en": "Dibrugarh and Tinsukia districts",
-          "as": "ডিব্ৰুগড় আৰু তিনিচুকীয়া জিলা"
+          "en": "Golaghat and Karbi Anglong districts",
+          "as": "গোলাঘাট আৰু কাৰ্বি আংলং জিলা"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Nambor Wildlife Sanctuary is situated in Golaghat and Karbi Anglong districts.",
         "as": "নামবৰ অভয়াৰণ্য গোলাঘাট আৰু কাৰ্বি আংলং জিলাত অৱস্থিত।"
@@ -1683,23 +1683,23 @@
       },
       "options": [
         {
-          "en": "Nagaon district",
-          "as": "নগাঁও জিলা"
+          "en": "Golaghat district",
+          "as": "গোলাঘাট জিলা"
         },
         {
           "en": "Sonitpur district",
           "as": "শোণিতপুৰ জিলা"
         },
         {
-          "en": "Golaghat district",
-          "as": "গোলাঘাট জিলা"
+          "en": "Nagaon district",
+          "as": "নগাঁও জিলা"
         },
         {
           "en": "Dhubri district",
           "as": "ধুবুৰী জিলা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Laokhowa Wildlife Sanctuary is located in Nagaon district.",
         "as": "লাওখোৱা অভয়াৰণ্য নগাঁও জিলাত অৱস্থিত।"
@@ -1720,19 +1720,19 @@
           "as": "নগাঁও জিলা, দক্ষিণ পাৰে"
         },
         {
-          "en": "Sonitpur district, on the north bank of the Brahmaputra",
-          "as": "শোণিতপুৰ জিলা, ব্ৰহ্মপুত্ৰৰ উত্তৰ পাৰে"
+          "en": "Jorhat district, on the south bank",
+          "as": "যোৰহাট জিলা, দক্ষিণ পাৰে"
         },
         {
           "en": "Dhubri district, on the north bank",
           "as": "ধুবুৰী জিলা, উত্তৰ পাৰে"
         },
         {
-          "en": "Jorhat district, on the south bank",
-          "as": "যোৰহাট জিলা, দক্ষিণ পাৰে"
+          "en": "Sonitpur district, on the north bank of the Brahmaputra",
+          "as": "শোণিতপুৰ জিলা, ব্ৰহ্মপুত্ৰৰ উত্তৰ পাৰে"
         }
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": {
         "en": "Burhachapori Wildlife Sanctuary is in Sonitpur district, on the north bank of the Brahmaputra.",
         "as": "বুঢ়াচাপৰি অভয়াৰণ্য শোণিতপুৰ জিলাত, ব্ৰহ্মপুত্ৰৰ উত্তৰ পাৰে অৱস্থিত।"
@@ -1753,19 +1753,19 @@
           "as": "যোৰহাট জিলা"
         },
         {
-          "en": "Sivasagar district",
-          "as": "শিৱসাগৰ জিলা"
-        },
-        {
           "en": "Dibrugarh district",
           "as": "ডিব্ৰুগড় জিলা"
+        },
+        {
+          "en": "Sivasagar district",
+          "as": "শিৱসাগৰ জিলা"
         },
         {
           "en": "Tinsukia district",
           "as": "তিনিচুকীয়া জিলা"
         }
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": {
         "en": "Pani-Dihing Bird Sanctuary is located in Sivasagar district.",
         "as": "পানী-দিহিং পক্ষী অভয়াৰণ্য শিৱসাগৰ জিলাত অৱস্থিত।"
@@ -1790,15 +1790,15 @@
           "as": "লখিমপুৰ জিলা"
         },
         {
-          "en": "Dhemaji district",
-          "as": "ধেমাজি জিলা"
-        },
-        {
           "en": "Sonitpur district",
           "as": "শোণিতপুৰ জিলা"
+        },
+        {
+          "en": "Dhemaji district",
+          "as": "ধেমাজি জিলা"
         }
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": {
         "en": "Sonai-Rupai Wildlife Sanctuary is located in Sonitpur district.",
         "as": "চোণাই-ৰূপাই অভয়াৰণ্য শোণিতপুৰ জিলাত অৱস্থিত।"
@@ -1819,19 +1819,19 @@
           "as": "ডিব্ৰুগড় জিলা"
         },
         {
-          "en": "Sivasagar district",
-          "as": "শিৱসাগৰ জিলা"
+          "en": "Tinsukia district",
+          "as": "তিনিচুকীয়া জিলা"
         },
         {
           "en": "Jorhat district",
           "as": "যোৰহাট জিলা"
         },
         {
-          "en": "Tinsukia district",
-          "as": "তিনিচুকীয়া জিলা"
+          "en": "Sivasagar district",
+          "as": "শিৱসাগৰ জিলা"
         }
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": {
         "en": "Bherjan-Borjan-Padumoni Wildlife Sanctuary is situated in Tinsukia district.",
         "as": "ভেৰজান-বৰজান-পদুমণি অভয়াৰণ্য তিনিচুকীয়া জিলাত অৱস্থিত।"
@@ -1881,23 +1881,23 @@
       },
       "options": [
         {
-          "en": "Kamrup Metropolitan district (near Guwahati)",
-          "as": "কামৰূপ মহানগৰ জিলা (গুৱাহাটীৰ ওচৰত)"
+          "en": "Sonitpur district",
+          "as": "শোণিতপুৰ জিলা"
         },
         {
           "en": "Nagaon district",
           "as": "নগাঁও জিলা"
         },
         {
-          "en": "Sonitpur district",
-          "as": "শোণিতপুৰ জিলা"
+          "en": "Kamrup Metropolitan district (near Guwahati)",
+          "as": "কামৰূপ মহানগৰ জিলা (গুৱাহাটীৰ ওচৰত)"
         },
         {
           "en": "Darrang district",
           "as": "দৰং জিলা"
         }
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "en": "Amchang Wildlife Sanctuary is located in Kamrup Metropolitan district, near Guwahati.",
         "as": "আমচাং অভয়াৰণ্য কামৰূপ মহানগৰ জিলাত, গুৱাহাটীৰ ওচৰত অৱস্থিত।"
@@ -1922,15 +1922,15 @@
           "as": "২০২০ চনলৈ ২০খন নতুন ৰাষ্ট্ৰীয় উদ্যান সৃষ্টি কৰা"
         },
         {
-          "en": "To increase the wild rhino population in Assam to 3,000 by 2020 and translocate rhinos to various protected areas",
-          "as": "২০২০ চনলৈ অসমত বনৰীয়া গঁড়ৰ সংখ্যা ৩,০০০ লৈ বৃদ্ধি কৰা আৰু বিভিন্ন সংৰক্ষিত অঞ্চললৈ গঁড় স্থানান্তৰ কৰা"
-        },
-        {
           "en": "To ban all tourism in protected areas by 2020",
           "as": "২০২০ চনলৈ সংৰক্ষিত অঞ্চলত সকলো পৰ্যটন নিষিদ্ধ কৰা"
+        },
+        {
+          "en": "To increase the wild rhino population in Assam to 3,000 by 2020 and translocate rhinos to various protected areas",
+          "as": "২০২০ চনলৈ অসমত বনৰীয়া গঁড়ৰ সংখ্যা ৩,০০০ লৈ বৃদ্ধি কৰা আৰু বিভিন্ন সংৰক্ষিত অঞ্চললৈ গঁড় স্থানান্তৰ কৰা"
         }
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": {
         "en": "Indian Rhino Vision 2020 aimed to raise Assam's wild rhino population to 3,000 by 2020 and translocate rhinos to various protected areas.",
         "as": "ইণ্ডিয়ান ৰাইন' ভিজন ২০২০ ৰ উদ্দেশ্য আছিল ২০২০ চনলৈ অসমত বনৰীয়া গঁড়ৰ সংখ্যা ৩,০০০ লৈ বৃদ্ধি কৰা আৰু বিভিন্ন সংৰক্ষিত অঞ্চললৈ গঁড় স্থানান্তৰ কৰা।"
@@ -1980,8 +1980,8 @@
       },
       "options": [
         {
-          "en": "Every year from 2nd October to 8th October",
-          "as": "প্ৰতি বছৰে ২ অক্টোবৰৰ পৰা ৮ অক্টোবৰলৈ"
+          "en": "From 1st to 7th November",
+          "as": "১ নৱেম্বৰৰ পৰা ৭ নৱেম্বৰলৈ"
         },
         {
           "en": "From 1st to 7th April",
@@ -1992,11 +1992,11 @@
           "as": "৫ জুনৰ পৰা ১১ জুনলৈ"
         },
         {
-          "en": "From 1st to 7th November",
-          "as": "১ নৱেম্বৰৰ পৰা ৭ নৱেম্বৰলৈ"
+          "en": "Every year from 2nd October to 8th October",
+          "as": "প্ৰতি বছৰে ২ অক্টোবৰৰ পৰা ৮ অক্টোবৰলৈ"
         }
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "en": "Wildlife Week is celebrated by the Assam Forest Department every year from 2nd to 8th October.",
         "as": "অসম বন বিভাগে প্ৰতি বছৰে ২ অক্টোবৰৰ পৰা ৮ অক্টোবৰলৈ বন্যপ্ৰাণী সপ্তাহ পালন কৰে।"
