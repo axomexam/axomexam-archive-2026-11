@@ -607,14 +607,24 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/poverty-inequality-unemployment-india.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/climate-monsoon-soils-india.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 8069,
-  "remaining_questions": 1831,
-  "remaining_files": 62,
+  "total_converted": 8139,
+  "remaining_questions": 1761,
+  "remaining_files": 60,
   "next_files": [
-    "data/content/gk/poverty-inequality-unemployment-india.json",
-    "data/content/gk/climate-monsoon-soils-india.json",
     "data/content/gk/salastambha-dynasty.json",
     "data/content/gk/music-folk-instruments-assam.json",
     "data/content/gk/historical-temple-architecture-assam.json",
@@ -622,7 +632,9 @@
     "data/content/gk/industrial-policies-1991-reforms.json",
     "data/content/gk/classical-folk-dances-assam.json",
     "data/content/gk/handlooms-silk-textiles-assam.json",
-    "data/content/gk/pala-dynasty.json"
+    "data/content/gk/pala-dynasty.json",
+    "data/content/gk/digital-infrastructure-fintech-india.json",
+    "data/content/gk/central-flagship-welfare-schemes.json"
   ],
   "total_questions": 9900
 }
