@@ -6764,525 +6764,2250 @@
       "question_en": "The Sattriya dance was recognized as a classical dance of India in which year?",
       "question_as": "সত্ৰীয়া নৃত্য কোন বছৰত ভাৰতৰ শাস্ত্ৰীয় নৃত্য হিচাপে স্বীকৃতি পাইছিল?",
       "answer_en": "2000",
-      "answer_as": "২০০০"
+      "answer_as": "২০০০",
+      "options": [
+        {
+          "en": "2000",
+          "as": "২০০০"
+        },
+        {
+          "en": "1980",
+          "as": "১৯৮০"
+        },
+        {
+          "en": "1990",
+          "as": "১৯৯০"
+        },
+        {
+          "en": "2010",
+          "as": "২০১০"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Sattriya dance was recognised as a classical dance of India in 2000.",
+        "as": "সত্ৰীয়া নৃত্যক ২০০০ চনত ভাৰতৰ শাস্ত্ৰীয় নৃত্য হিচাপে স্বীকৃতি দিয়া হৈছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "What is the sect of Sankardeva known as?",
       "question_as": "শংকৰদেৱৰ সম্প্ৰদায়টো কি নামে জনাজাত?",
       "answer_en": "Eka Sarana Naam Dharma",
-      "answer_as": "এক শৰণ নাম ধৰ্ম"
+      "answer_as": "এক শৰণ নাম ধৰ্ম",
+      "options": [
+        {
+          "en": "Mahapurushia Dharma",
+          "as": "মহাপুৰুষীয়া ধৰ্ম"
+        },
+        {
+          "en": "Sattriya Dharma",
+          "as": "সত্ৰীয়া ধৰ্ম"
+        },
+        {
+          "en": "Eka Sarana Naam Dharma",
+          "as": "এক শৰণ নাম ধৰ্ম"
+        },
+        {
+          "en": "Bhakti Marga",
+          "as": "ভক্তি মাৰ্গ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The sect of Sankardeva is known as Eka Sarana Naam Dharma.",
+        "as": "শংকৰদেৱৰ সম্প্ৰদায়ক এক শৰণ নাম ধৰ্ম বোলা হয়।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "What does 'Eka Sarana Naam Dharma' mean?",
       "question_as": "'এক শৰণ নাম ধৰ্ম' ৰ অৰ্থ কি?",
       "answer_en": "Devotion to one God through the chanting of His name",
-      "answer_as": "এজন ঈশ্বৰৰ নাম গাই তেওঁলৈ একান্ত ভক্তি"
+      "answer_as": "এজন ঈশ্বৰৰ নাম গাই তেওঁলৈ একান্ত ভক্তি",
+      "options": [
+        {
+          "en": "Devotion to one God through the chanting of His name",
+          "as": "এক ঈশ্বৰৰ নাম জপৰ জৰিয়তে তেওঁৰ প্ৰতি ভক্তি"
+        },
+        {
+          "en": "Worship of many deities through idols",
+          "as": "মূৰ্তিৰ জৰিয়তে বহু দেৱতাৰ উপাসনা"
+        },
+        {
+          "en": "Performance of elaborate animal sacrifices",
+          "as": "বিস্তৃত পশুবলিৰ পৰিৱেশন"
+        },
+        {
+          "en": "Pilgrimage to holy rivers only",
+          "as": "কেৱল পবিত্ৰ নদীলৈ তীৰ্থযাত্ৰা"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "'Eka Sarana Naam Dharma' means devotion to one God through the chanting of His name.",
+        "as": "'এক শৰণ নাম ধৰ্ম' মানে এক ঈশ্বৰৰ নাম জপৰ জৰিয়তে তেওঁৰ প্ৰতি ভক্তি।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Who translated the Bhagavata Purana into Assamese?",
       "question_as": "ভাগৱত পুৰাণ অসমীয়ালৈ কোনে অনুবাদ কৰিছিল?",
       "answer_en": "Sankardeva",
-      "answer_as": "শংকৰদেৱ"
+      "answer_as": "শংকৰদেৱ",
+      "options": [
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Madhav Kandali",
+          "as": "মাধৱ কন্দলী"
+        },
+        {
+          "en": "Sankardeva",
+          "as": "শংকৰদেৱ"
+        },
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Sankardeva translated the Bhagavata Purana into Assamese.",
+        "as": "শংকৰদেৱে ভাগৱত পুৰাণ অসমীয়ালৈ অনুবাদ কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Who wrote the Saptakanda Ramayana in Assamese?",
       "question_as": "অসমীয়াত সপ্তকাণ্ড ৰামায়ণ কোনে ৰচনা কৰিছিল?",
       "answer_en": "Madhav Kandali",
-      "answer_as": "মাধৱ কন্দলি"
+      "answer_as": "মাধৱ কন্দলি",
+      "options": [
+        {
+          "en": "Sankardeva",
+          "as": "শংকৰদেৱ"
+        },
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        },
+        {
+          "en": "Madhav Kandali",
+          "as": "মাধৱ কন্দলী"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Madhav Kandali wrote the Saptakanda Ramayana in Assamese.",
+        "as": "মাধৱ কন্দলীয়ে অসমীয়াত সপ্তকাণ্ড ৰামায়ণ ৰচনা কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "The Saptakanda Ramayana was composed in which century?",
       "question_as": "সপ্তকাণ্ড ৰামায়ণ কোন শতিকাত ৰচনা হৈছিল?",
       "answer_en": "The 14th century",
-      "answer_as": "১৪শ শতিকা"
+      "answer_as": "১৪শ শতিকা",
+      "options": [
+        {
+          "en": "The 14th century",
+          "as": "চতুৰ্দশ শতিকাত"
+        },
+        {
+          "en": "The 12th century",
+          "as": "দ্বাদশ শতিকাত"
+        },
+        {
+          "en": "The 16th century",
+          "as": "ষোড়শ শিকিতাত"
+        },
+        {
+          "en": "The 18th century",
+          "as": "অষ্টাদশ শিকিতাত"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Saptakanda Ramayana was composed in the 14th century.",
+        "as": "সপ্তকাণ্ড ৰামায়ণ চতুৰ্দশ শিকিতাত ৰচিত হৈছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Who composed the Borgeets?",
       "question_as": "বৰগীত কোনে ৰচনা কৰিছিল?",
       "answer_en": "Sankardeva and Madhavdeva",
-      "answer_as": "শংকৰদেৱ আৰু মাধৱদেৱ"
+      "answer_as": "শংকৰদেৱ আৰু মাধৱদেৱ",
+      "options": [
+        {
+          "en": "Sankardeva alone",
+          "as": "কেৱল শংকৰদেৱ"
+        },
+        {
+          "en": "Madhav Kandali and Aniruddhadeva",
+          "as": "মাধৱ কন্দলী আৰু অনিৰুদ্ধদেৱ"
+        },
+        {
+          "en": "Madhavdeva alone",
+          "as": "কেৱল মাধৱদেৱ"
+        },
+        {
+          "en": "Sankardeva and Madhavdeva",
+          "as": "শংকৰদেৱ আৰু মাধৱদেৱ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Borgeets were composed by Sankardeva and Madhavdeva.",
+        "as": "বৰগীতসমূহ শংকৰদেৱ আৰু মাধৱদেৱে ৰচনা কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "The first Sattra was established by whom?",
       "question_as": "প্ৰথম সত্ৰ কোনে প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "Sankardeva",
-      "answer_as": "শংকৰদেৱ"
+      "answer_as": "শংকৰদেৱ",
+      "options": [
+        {
+          "en": "Sankardeva",
+          "as": "শংকৰদেৱ"
+        },
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        },
+        {
+          "en": "Damodardeva",
+          "as": "দামোদৰদেৱ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The first Sattra was established by Sankardeva.",
+        "as": "প্ৰথম সত্ৰ শংকৰদেৱে প্ৰতিষ্ঠা কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "The Namghar serves as the centre of which activities?",
       "question_as": "নামঘৰ কোনবোৰ কাৰ্য্যৰ কেন্দ্ৰ হিচাপে কাম কৰে?",
       "answer_en": "Religious worship, prayer and community meetings",
-      "answer_as": "ধৰ্মীয় পূজা, প্ৰাৰ্থনা আৰু সামাজিক সভা"
+      "answer_as": "ধৰ্মীয় পূজা, প্ৰাৰ্থনা আৰু সামাজিক সভা",
+      "options": [
+        {
+          "en": "Royal court proceedings",
+          "as": "ৰাজদৰবাৰৰ কাৰ্যবাহী"
+        },
+        {
+          "en": "Trade and market transactions",
+          "as": "বাণিজ্য আৰু বজাৰৰ লেনদেন"
+        },
+        {
+          "en": "Military training of soldiers",
+          "as": "সৈনিকসকলৰ সামৰিক প্ৰশিক্ষণ"
+        },
+        {
+          "en": "Religious worship, prayer and community meetings",
+          "as": "ধৰ্মীয় উপাসনা, প্ৰাৰ্থনা আৰু সমাজৰ সভা"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Namghar serves as the centre of religious worship, prayer and community meetings.",
+        "as": "নামঘৰ ধৰ্মীয় উপাসনা, প্ৰাৰ্থনা আৰু সমাজৰ সভাৰ কেন্দ্ৰ।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Where was Madhavdeva born?",
       "question_as": "মাধৱদেৱ ক'ত জন্ম গ্ৰহণ কৰিছিল?",
       "answer_en": "At Letekupukhuri (in present-day Nagaon district)",
-      "answer_as": "লেটেকুপুখুৰীত (বৰ্তমান নগাঁও জিলা)"
+      "answer_as": "লেটেকুপুখুৰীত (বৰ্তমান নগাঁও জিলা)",
+      "options": [
+        {
+          "en": "At Bordowa in Nagaon district",
+          "as": "নগাঁও জিলাৰ বৰদোৱাত"
+        },
+        {
+          "en": "At Bhelengi in Cooch Behar",
+          "as": "কুচবিহাৰৰ ভেলেংগিত"
+        },
+        {
+          "en": "At Kamalabari in Majuli",
+          "as": "মাজুলীৰ কমলাবৰীত"
+        },
+        {
+          "en": "At Letekupukhuri (in present-day Nagaon district)",
+          "as": "লেটেকুপুখুৰীত (বৰ্তমান নগাঁও জিলাত)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Madhavdeva was born at Letekupukhuri in present-day Nagaon district.",
+        "as": "মাধৱদেৱ বৰ্তমান নগাঁও জিলাৰ লেটেকুপুখুৰীত জন্মগ্ৰহণ কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Which scripture did Sankardeva choose as the basis of his teachings?",
       "question_as": "শংকৰদেৱে নিজৰ শিক্ষাৰ ভিত্তি হিচাপে কোন শাস্ত্ৰ বাছি লৈছিল?",
       "answer_en": "The Bhagavata Purana",
-      "answer_as": "ভাগৱত পুৰাণ"
+      "answer_as": "ভাগৱত পুৰাণ",
+      "options": [
+        {
+          "en": "The Rig Veda",
+          "as": "ঋগ্বেদ"
+        },
+        {
+          "en": "The Mahabharata",
+          "as": "মহাভাৰত"
+        },
+        {
+          "en": "The Bhagavata Purana",
+          "as": "ভাগৱত পুৰাণ"
+        },
+        {
+          "en": "The Ramayana",
+          "as": "ৰামায়ণ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Sankardeva chose the Bhagavata Purana as the basis of his teachings.",
+        "as": "শংকৰদেৱে তেওঁৰ ধৰ্মোপদেশৰ ভিত্তি হিচাপে ভাগৱত পুৰাণ বাছনি কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "What is the Gurukula of the Sattra tradition called?",
       "question_as": "সত্ৰ পৰম্পৰাৰ গুৰু-গৃহক কি বোলে?",
       "answer_en": "The Sattradhikar (head of the Sattra)",
-      "answer_as": "সত্ৰাধিকাৰ (সত্ৰৰ মুৰব্বী)"
+      "answer_as": "সত্ৰাধিকাৰ (সত্ৰৰ মুৰব্বী)",
+      "options": [
+        {
+          "en": "The Borphukan",
+          "as": "বৰফুকন"
+        },
+        {
+          "en": "The Barbarua",
+          "as": "বৰবৰুৱা"
+        },
+        {
+          "en": "The Gohain",
+          "as": "গোহাঁই"
+        },
+        {
+          "en": "The Sattradhikar (head of the Sattra)",
+          "as": "সত্ৰাধিকাৰ (সত্ৰৰ মুৰব্বী)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The head of the Sattra tradition is called the Sattradhikar.",
+        "as": "সত্ৰ পৰম্পৰাৰ মুৰব্বীক সত্ৰাধিকাৰ বোলা হয়।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Who established the Moamara Sattra?",
       "question_as": "মোৱামৰা সত্ৰ কোনে প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "Aniruddhadeva",
-      "answer_as": "অনিৰুদ্ধদেৱ"
+      "answer_as": "অনিৰুদ্ধদেৱ",
+      "options": [
+        {
+          "en": "Sankardeva",
+          "as": "শংকৰদেৱ"
+        },
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        },
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Damodardeva",
+          "as": "দামোদৰদেৱ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Moamara Sattra was established by Aniruddhadeva.",
+        "as": "মোৱামৰা সত্ৰ অনিৰুদ্ধদেৱে প্ৰতিষ্ঠা কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "The Kirtan Ghosha is a collection of?",
       "question_as": "কীৰ্তন ঘোষা কিৰ এক সংকলন?",
       "answer_en": "Devotional songs and verses about Krishna",
-      "answer_as": "কৃষ্ণ বিষয়ক ভক্তিমূলক গীত আৰু শ্লোক"
+      "answer_as": "কৃষ্ণ বিষয়ক ভক্তিমূলক গীত আৰু শ্লোক",
+      "options": [
+        {
+          "en": "Historical chronicles of the Ahom kings",
+          "as": "আহোম ৰজাসকলৰ ঐতিহাসিক বুৰঞ্জী"
+        },
+        {
+          "en": "A treatise on astrology",
+          "as": "জ্যোতিষশাস্ত্ৰৰ গ্ৰন্থ"
+        },
+        {
+          "en": "Devotional songs and verses about Krishna",
+          "as": "কৃষ্ণ সম্পৰ্কীয় ভক্তি গীত আৰু পদ"
+        },
+        {
+          "en": "A grammar of the Assamese language",
+          "as": "অসমীয়া ভাষাৰ ব্যাকৰণ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Kirtan Ghosha is a collection of devotional songs and verses about Krishna.",
+        "as": "কীৰ্তন ঘোষা কৃষ্ণ সম্পৰ্কীয় ভক্তি গীত আৰু পদৰ সংকলন।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "The literary form 'Bhatima' is associated with which saint?",
       "question_as": "'ভটিমা' সাহিত্য-ৰূপ কোন সন্তৰ লগত জড়িত?",
       "answer_en": "Madhavdeva",
-      "answer_as": "মাধৱদেৱ"
+      "answer_as": "মাধৱদেৱ",
+      "options": [
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Sankardeva",
+          "as": "শংকৰদেৱ"
+        },
+        {
+          "en": "Madhav Kandali",
+          "as": "মাধৱ কন্দলী"
+        },
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The literary form 'Bhatima' is associated with Madhavdeva.",
+        "as": "'ভটিমা' সাহিত্য ৰূপ মাধৱদেৱৰ সৈতে জড়িত।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Which Ahom king patronized the Vaishnava Sattras?",
       "question_as": "বৈষ্ণৱ সত্ৰসমূহক কোন আহোম ৰজাই পৃষ্ঠপোষকতা কৰিছিল?",
       "answer_en": "Many later Ahom kings, notably Rudra Singha and Siva Singha",
-      "answer_as": "পিছৰ বহু আহোম ৰজাই, বিশেষকৈ ৰুদ্ৰ সিংহ আৰু শিৱ সিংহ"
+      "answer_as": "পিছৰ বহু আহোম ৰজাই, বিশেষকৈ ৰুদ্ৰ সিংহ আৰু শিৱ সিংহ",
+      "options": [
+        {
+          "en": "Only Suhungmung",
+          "as": "কেৱল চুহুংমুং"
+        },
+        {
+          "en": "Many later Ahom kings, notably Rudra Singha and Siva Singha",
+          "as": "বহু পিছৰ আহোম ৰজা, বিশেষকৈ ৰুদ্ৰ সিংহ আৰু শিৱ সিংহ"
+        },
+        {
+          "en": "Only Pratap Singha",
+          "as": "কেৱল প্ৰতাপ সিংহ"
+        },
+        {
+          "en": "No Ahom king patronised them",
+          "as": "কোনো আহোম ৰজাই পৃষ্ঠপোষকতা কৰা নাছিল"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Many later Ahom kings, notably Rudra Singha and Siva Singha, patronised the Vaishnava Sattras.",
+        "as": "বহু পিছৰ আহোম ৰজা, বিশেষকৈ ৰুদ্ৰ সিংহ আৰু শিৱ সিংহই বৈষ্ণৱ সত্ৰসমূহক পৃষ্ঠপোষকতা কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "The Bargeets are sung on which occasions?",
       "question_as": "বৰগীতবোৰ কোন উপলক্ষত গোৱা হয়?",
       "answer_en": "During religious festivals and in Namghars",
-      "answer_as": "ধৰ্মীয় উৎসৱত আৰু নামঘৰত"
+      "answer_as": "ধৰ্মীয় উৎসৱত আৰু নামঘৰত",
+      "options": [
+        {
+          "en": "During religious festivals and in Namghars",
+          "as": "ধৰ্মীয় উৎসৱত আৰু নামঘৰত"
+        },
+        {
+          "en": "Only at royal coronations",
+          "as": "কেৱল ৰাজ্যাভিষেকত"
+        },
+        {
+          "en": "Only during Bihu",
+          "as": "কেৱল বিহুত"
+        },
+        {
+          "en": "Only in Buddhist monasteries",
+          "as": "কেৱল বৌদ্ধ বিহাৰত"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Bargeets are sung during religious festivals and in Namghars.",
+        "as": "বৰগীতসমূহ ধৰ্মীয় উৎসৱত আৰু নামঘৰত গোৱা হয়।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Who is the author of 'Raja Harishchandra' in Assamese literature?",
       "question_as": "অসমীয়া সাহিত্যত 'ৰজা হৰিশ্চন্দ্ৰ' ৰ ৰচক কোন?",
       "answer_en": "Madhavdeva",
-      "answer_as": "মাধৱদেৱ"
+      "answer_as": "মাধৱদেৱ",
+      "options": [
+        {
+          "en": "Sankardeva",
+          "as": "শংকৰদেৱ"
+        },
+        {
+          "en": "Madhav Kandali",
+          "as": "মাধৱ কন্দলী"
+        },
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Madhavdeva is the author of 'Raja Harishchandra' in Assamese literature.",
+        "as": "অসমীয়া সাহিত্যত 'ৰাজা হৰিশ্চন্দ্ৰ'ৰ ৰচয়িতা মাধৱদেৱ।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "What is the traditional musical instrument used in Borgeet and Sattriya performances?",
       "question_as": "বৰগীত আৰু সত্ৰীয়া নৃত্যত ব্যৱহাৰ হোৱা পৰম্পৰাগত বাদ্যযন্ত্ৰ কি?",
       "answer_en": "Khol (drum) and taal (cymbals)",
-      "answer_as": "খোল আৰু তাল"
+      "answer_as": "খোল আৰু তাল",
+      "options": [
+        {
+          "en": "Sitar and tabla",
+          "as": "চিতাৰ আৰু তবলা"
+        },
+        {
+          "en": "Khol (drum) and taal (cymbals)",
+          "as": "খোল (ঢোল) আৰু তাল"
+        },
+        {
+          "en": "Veena and mridangam",
+          "as": "বীণা আৰু মৃদংগম"
+        },
+        {
+          "en": "Flute and sarod",
+          "as": "বাঁহী আৰু সৰোদ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Khol and taal are the traditional instruments used in Borgeet and Sattriya performances.",
+        "as": "বৰগীত আৰু সত্ৰীয়া পৰিৱেশনত খোল আৰু তাল পৰম্পৰাগত বাদ্য।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Sankardeva introduced which art form to spread his message?",
       "question_as": "শংকৰদেৱে নিজৰ বাণী বিস্তাৰ কৰিবলৈ কোন কলা-ধাৰা আৰম্ভ কৰিছিল?",
       "answer_en": "Ankia Nat (Bhaona), a dramatic performance",
-      "answer_as": "অংকীয়া নাট (ভাওনা), এটা নাট্য-অভিনয়"
+      "answer_as": "অংকীয়া নাট (ভাওনা), এটা নাট্য-অভিনয়",
+      "options": [
+        {
+          "en": "Oil painting on temple walls",
+          "as": "মন্দিৰৰ দেৱালত তেলৰ চিত্ৰ"
+        },
+        {
+          "en": "Wood carving of royal palaces",
+          "as": "ৰাজপ্ৰাসাদৰ কাঠৰ খোদাই"
+        },
+        {
+          "en": "Ankia Nat (Bhaona), a dramatic performance",
+          "as": "অংকীয়া নাট (ভাওনা), এক নাট্যপৰিৱেশ"
+        },
+        {
+          "en": "Weaving of silk garments",
+          "as": "পাট বস্ত্ৰ বোৱা"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Sankardeva introduced the Ankia Nat (Bhaona), a dramatic performance, to spread his message.",
+        "as": "শংকৰদেৱে তেওঁৰ বাণী প্ৰচাৰৰ বাবে অংকীয়া নাট (ভাওনা), এক নাট্যপৰিৱেশ আৰম্ভ কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "The word 'Sattra' literally means?",
       "question_as": "'সত্ৰ' শব্দৰ আক্ষৰিক অৰ্থ কি?",
       "answer_en": "A place of truth/association",
-      "answer_as": "সত্যৰ স্থান/সহবাসৰ স্থান"
+      "answer_as": "সত্যৰ স্থান/সহবাসৰ স্থান",
+      "options": [
+        {
+          "en": "A royal treasury",
+          "as": "ৰাজকীয় ভঁৰাল"
+        },
+        {
+          "en": "A military camp",
+          "as": "সামৰিক শিবিৰ"
+        },
+        {
+          "en": "A market place",
+          "as": "বজাৰ স্থান"
+        },
+        {
+          "en": "A place of truth/association",
+          "as": "সত্য/সংগমৰ স্থান"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The word 'Sattra' literally means a place of truth or association.",
+        "as": "'সত্ৰ' শব্দৰ আক্ষৰিক অৰ্থ সত্য বা সংগমৰ স্থান।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Which work of Sankardeva is considered the 'Bible' of the Eka Sarana Nam Dharma?",
       "question_as": "এক শৰণ নাম ধৰ্মৰ 'বাইবেল' বুলি গণ্য কৰা শংকৰদেৱৰ গ্ৰন্থখন কোনখন?",
       "answer_en": "The Kirtan Ghosha",
-      "answer_as": "কীৰ্তন ঘোষা"
+      "answer_as": "কীৰ্তন ঘোষা",
+      "options": [
+        {
+          "en": "The Namghosa",
+          "as": "নামঘোষা"
+        },
+        {
+          "en": "The Kirtan Ghosha",
+          "as": "কীৰ্তন ঘোষা"
+        },
+        {
+          "en": "The Saptakanda Ramayana",
+          "as": "সপ্তকাণ্ড ৰামায়ণ"
+        },
+        {
+          "en": "The Bhagavata Purana",
+          "as": "ভাগৱত পুৰাণ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Kirtan Ghosha is considered the 'Bible' of the Eka Sarana Naam Dharma.",
+        "as": "কীৰ্তন ঘোষাক এক শৰণ নাম ধৰ্মৰ 'বাইবেল' বুলি গণ্য কৰা হয়।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Who translated the Ramayana into Assamese before Sankardeva?",
       "question_as": "শংকৰদেৱৰ আগত ৰামায়ণ অসমীয়ালৈ কোনে অনুবাদ কৰিছিল?",
       "answer_en": "Madhav Kandali",
-      "answer_as": "মাধৱ কন্দলি"
+      "answer_as": "মাধৱ কন্দলি",
+      "options": [
+        {
+          "en": "Madhav Kandali",
+          "as": "মাধৱ কন্দলী"
+        },
+        {
+          "en": "Sankardeva",
+          "as": "শংকৰদেৱ"
+        },
+        {
+          "en": "Madhavdeva",
+          "as": "মাধৱদেৱ"
+        },
+        {
+          "en": "Aniruddhadeva",
+          "as": "অনিৰুদ্ধদেৱ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Madhav Kandali translated the Ramayana into Assamese before Sankardeva.",
+        "as": "শংকৰদেৱৰ আগতে মাধৱ কন্দলীয়ে ৰামায়ণ অসমীয়ালৈ অনুবাদ কৰিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "The Vaishnava movement of Sankardeva emphasized worship through?",
       "question_as": "শংকৰদেৱৰ বৈষ্ণৱ আন্দোলনে কিৰ জৰিয়তে পূজা-ভক্তিৰ গুৰুত্ব দিছিল?",
       "answer_en": "Chanting of the name of God (Nama)",
-      "answer_as": "ঈশ্বৰৰ নাম-কীৰ্তন (নাম)"
+      "answer_as": "ঈশ্বৰৰ নাম-কীৰ্তন (নাম)",
+      "options": [
+        {
+          "en": "Idol worship in temples",
+          "as": "মন্দিৰত মূৰ্তি পূজা"
+        },
+        {
+          "en": "Chanting of the name of God (Nama)",
+          "as": "ঈশ্বৰৰ নাম জপ (নাম)"
+        },
+        {
+          "en": "Animal sacrifice at festivals",
+          "as": "উৎসৱত পশুবলি"
+        },
+        {
+          "en": "Austerities in the forest",
+          "as": "অৰণ্যত কঠোৰ তপস্যা"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Vaishnava movement of Sankardeva emphasised worship through the chanting of the name of God (Nama).",
+        "as": "শংকৰদেৱৰ বৈষ্ণৱ আন্দোলনে ঈশ্বৰৰ নাম জপৰ (নাম) জৰিয়তে উপাসনাত গুৰুত্ব দিছিল।"
+      }
     },
     {
       "category": "Vaishnava Movement, Literature and Culture",
       "question_en": "Sankardeva's sect is opposed to which practices?",
       "question_as": "শংকৰদেৱৰ সম্প্ৰদায় কোনবোৰ পদ্ধতি বিৰোধী আছিল?",
       "answer_en": "Elaborate sacrifices and ritualism",
-      "answer_as": "পশুবলি আৰু জটিল আনুষ্ঠানিকতা"
+      "answer_as": "পশুবলি আৰু জটিল আনুষ্ঠানিকতা",
+      "options": [
+        {
+          "en": "The singing of devotional songs",
+          "as": "ভক্তি গীত গোৱা"
+        },
+        {
+          "en": "Elaborate sacrifices and ritualism",
+          "as": "বিস্তৃত বলি আৰু কৰ্মকাণ্ড"
+        },
+        {
+          "en": "The building of Namghars",
+          "as": "নামঘৰ নিৰ্মাণ"
+        },
+        {
+          "en": "The study of the Bhagavata",
+          "as": "ভাগৱত অধ্যয়ন"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Sankardeva's sect is opposed to elaborate sacrifices and ritualism.",
+        "as": "শংকৰদেৱৰ সম্প্ৰদায়ে বিস্তৃত বলি আৰু কৰ্মকাণ্ডৰ বিৰোধিতা কৰিছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Where is the Rang Ghar located?",
       "question_as": "ৰংঘৰ ক'ত অৱস্থিত?",
       "answer_en": "Near Sivasagar (Rangpur)",
-      "answer_as": "শিৱসাগৰৰ ওচৰত (ৰংপুৰ)"
+      "answer_as": "শিৱসাগৰৰ ওচৰত (ৰংপুৰ)",
+      "options": [
+        {
+          "en": "Near Guwahati",
+          "as": "গুৱাহাটীৰ ওচৰত"
+        },
+        {
+          "en": "Near Jorhat",
+          "as": "যোৰহাটৰ ওচৰত"
+        },
+        {
+          "en": "Near Tezpur",
+          "as": "তেজপুৰৰ ওচৰত"
+        },
+        {
+          "en": "Near Sivasagar (Rangpur)",
+          "as": "শিৱসাগৰৰ ওচৰত (ৰংপুৰ)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Rang Ghar is located near Sivasagar, at Rangpur.",
+        "as": "ৰংঘৰ শিৱসাগৰৰ ওচৰত, ৰংপুৰত অৱস্থিত।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Who built the Rang Ghar?",
       "question_as": "ৰংঘৰ কোনে নিৰ্মাণ কৰিছিল?",
       "answer_en": "Swargadeo Pramatta Singha",
-      "answer_as": "স্বৰ্গদেউ প্ৰমত্ত সিংহ"
+      "answer_as": "স্বৰ্গদেউ প্ৰমত্ত সিংহ",
+      "options": [
+        {
+          "en": "Swargadeo Rudra Singha",
+          "as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহ"
+        },
+        {
+          "en": "Swargadeo Siva Singha",
+          "as": "স্বৰ্গদেউ শিৱ সিংহ"
+        },
+        {
+          "en": "Swargadeo Rajeswar Singha",
+          "as": "স্বৰ্গদেউ ৰাজেশ্বৰ সিংহ"
+        },
+        {
+          "en": "Swargadeo Pramatta Singha",
+          "as": "স্বৰ্গদেউ প্ৰমত্ত সিংহ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Rang Ghar was built by Swargadeo Pramatta Singha.",
+        "as": "ৰংঘৰ স্বৰ্গদেউ প্ৰমত্ত সিংহই নিৰ্মাণ কৰিছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "What is the Rang Ghar?",
       "question_as": "ৰংঘৰ কি?",
       "answer_en": "A royal sports pavilion",
-      "answer_as": "ৰাজকীয় ক্ৰীড়া-মঞ্চ (দৰ্শকমঞ্চ)"
+      "answer_as": "ৰাজকীয় ক্ৰীড়া-মঞ্চ (দৰ্শকমঞ্চ)",
+      "options": [
+        {
+          "en": "A royal burial mound",
+          "as": "ৰাজকীয় সমাধি স্তূপ"
+        },
+        {
+          "en": "A royal sports pavilion",
+          "as": "ৰাজকীয় ক্ৰীড়া মণ্ডপ"
+        },
+        {
+          "en": "A temple of Shiva",
+          "as": "শিৱ মন্দিৰ"
+        },
+        {
+          "en": "A royal palace",
+          "as": "ৰাজপ্ৰাসাদ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Rang Ghar is a royal sports pavilion.",
+        "as": "ৰংঘৰ এটা ৰাজকীয় ক্ৰীড়া মণ্ডপ।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "The Rang Ghar is often called the?",
       "question_as": "ৰংঘৰক প্ৰায়ে কি বুলি কোৱা হয়?",
       "answer_en": "The Colosseum of the East",
-      "answer_as": "পূবৰ কল'চিয়াম"
+      "answer_as": "পূবৰ কল'চিয়াম",
+      "options": [
+        {
+          "en": "The Taj of Assam",
+          "as": "অসমৰ তাজমহল"
+        },
+        {
+          "en": "The Gateway of Assam",
+          "as": "অসমৰ প্ৰৱেশদ্বাৰ"
+        },
+        {
+          "en": "The Louvre of the East",
+          "as": "পূবৰ লুভৰ"
+        },
+        {
+          "en": "The Colosseum of the East",
+          "as": "পূবৰ কলিজিয়াম"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Rang Ghar is often called the Colosseum of the East.",
+        "as": "ৰংঘৰক প্ৰায়ে পূবৰ কলিজিয়াম বুলি কোৱা হয়।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Where is the Talatal Ghar located?",
       "question_as": "তালাতল ঘৰ ক'ত অৱস্থিত?",
       "answer_en": "At Rangpur near Sivasagar",
-      "answer_as": "শিৱসাগৰৰ ওচৰৰ ৰংপুৰত"
+      "answer_as": "শিৱসাগৰৰ ওচৰৰ ৰংপুৰত",
+      "options": [
+        {
+          "en": "At Gargaon",
+          "as": "গড়গাঁৱত"
+        },
+        {
+          "en": "At Charaideo",
+          "as": "চৰাইদেউত"
+        },
+        {
+          "en": "At Rangpur near Sivasagar",
+          "as": "শিৱসাগৰৰ ওচৰৰ ৰংপুৰত"
+        },
+        {
+          "en": "At Jorhat",
+          "as": "যোৰহাটত"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Talatal Ghar is located at Rangpur near Sivasagar.",
+        "as": "তলাতল ঘৰ শিৱসাগৰৰ ওচৰৰ ৰংপুৰত অৱস্থিত।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Who built the Talatal Ghar?",
       "question_as": "তালাতল ঘৰ কোনে নিৰ্মাণ কৰিছিল?",
       "answer_en": "Swargadeo Rudra Singha",
-      "answer_as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহ"
+      "answer_as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহ",
+      "options": [
+        {
+          "en": "Swargadeo Rudra Singha",
+          "as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহ"
+        },
+        {
+          "en": "Swargadeo Pramatta Singha",
+          "as": "স্বৰ্গদেউ প্ৰমত্ত সিংহ"
+        },
+        {
+          "en": "Swargadeo Siva Singha",
+          "as": "স্বৰ্গদেউ শিৱ সিংহ"
+        },
+        {
+          "en": "Swargadeo Rajeswar Singha",
+          "as": "স্বৰ্গদেউ ৰাজেশ্বৰ সিংহ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Talatal Ghar was built by Swargadeo Rudra Singha.",
+        "as": "তলাতল ঘৰ স্বৰ্গদেউ ৰুদ্ৰ সিংহই নিৰ্মাণ কৰিছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "What is the Kareng Ghar?",
       "question_as": "কাৰেং ঘৰ কি?",
       "answer_en": "The royal palace of the Ahom kings at Gargaon",
-      "answer_as": "গড়গাঁৱত আহোম ৰজাসকলৰ ৰাজকীয় প্ৰাসাদ"
+      "answer_as": "গড়গাঁৱত আহোম ৰজাসকলৰ ৰাজকীয় প্ৰাসাদ",
+      "options": [
+        {
+          "en": "A royal burial ground at Charaideo",
+          "as": "চৰাইদেউত ৰাজকীয় সমাধিক্ষেত্ৰ"
+        },
+        {
+          "en": "A temple at Sivasagar",
+          "as": "শিৱসাগৰত এখন মন্দিৰ"
+        },
+        {
+          "en": "The royal palace of the Ahom kings at Gargaon",
+          "as": "গড়গাঁৱত আহোম ৰজাসকলৰ ৰাজপ্ৰাসাদ"
+        },
+        {
+          "en": "A sports pavilion at Rangpur",
+          "as": "ৰংপুৰত এটা ক্ৰীড়া মণ্ডপ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Kareng Ghar was the royal palace of the Ahom kings at Gargaon.",
+        "as": "কাৰেং ঘৰ গড়গাঁৱত আহোম ৰজাসকলৰ ৰাজপ্ৰাসাদ আছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Who rebuilt the Kareng Ghar at Gargaon?",
       "question_as": "গড়গাঁৱৰ কাৰেং ঘৰ কোনে পুনৰ নিৰ্মাণ কৰিছিল?",
       "answer_en": "Swargadeo Rajeswar Singha",
-      "answer_as": "স্বৰ্গদেউ ৰাজেশ্বৰ সিংহ"
+      "answer_as": "স্বৰ্গদেউ ৰাজেশ্বৰ সিংহ",
+      "options": [
+        {
+          "en": "Swargadeo Rajeswar Singha",
+          "as": "স্বৰ্গদেউ ৰাজেশ্বৰ সিংহ"
+        },
+        {
+          "en": "Swargadeo Rudra Singha",
+          "as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহ"
+        },
+        {
+          "en": "Swargadeo Pramatta Singha",
+          "as": "স্বৰ্গদেউ প্ৰমত্ত সিংহ"
+        },
+        {
+          "en": "Swargadeo Siva Singha",
+          "as": "স্বৰ্গদেউ শিৱ সিংহ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Kareng Ghar at Gargaon was rebuilt by Swargadeo Rajeswar Singha.",
+        "as": "গড়গাঁৱৰ কাৰেং ঘৰ স্বৰ্গদেউ ৰাজেশ্বৰ সিংহই পুনৰ নিৰ্মাণ কৰিছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Where are the royal maidams located?",
       "question_as": "ৰাজকীয় মৈদামসমূহ ক'ত অৱস্থিত?",
       "answer_en": "At Charaideo",
-      "answer_as": "চাৰাইদেউত"
+      "answer_as": "চাৰাইদেউত",
+      "options": [
+        {
+          "en": "At Sivasagar",
+          "as": "শিৱসাগৰত"
+        },
+        {
+          "en": "At Rangpur",
+          "as": "ৰংপুৰত"
+        },
+        {
+          "en": "At Charaideo",
+          "as": "চৰাইদেউত"
+        },
+        {
+          "en": "At Jorhat",
+          "as": "যোৰহাটত"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The royal maidams are located at Charaideo.",
+        "as": "ৰাজকীয় মৈদামসমূহ চৰাইদেউত অৱস্থিত।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "What are the maidams?",
       "question_as": "মৈদাম কি?",
       "answer_en": "The royal burial mounds of the Ahom kings",
-      "answer_as": "আহোম ৰজাসকলৰ ৰাজকীয় সমাধি-টিলা"
+      "answer_as": "আহোম ৰজাসকলৰ ৰাজকীয় সমাধি-টিলা",
+      "options": [
+        {
+          "en": "The royal palaces of the Ahom kings",
+          "as": "আহোম ৰজাসকলৰ ৰাজপ্ৰাসাদ"
+        },
+        {
+          "en": "The temples built by the Koch kings",
+          "as": "কোচ ৰজাসকলে নিৰ্মাণ কৰা মন্দিৰ"
+        },
+        {
+          "en": "The market places of the Ahom period",
+          "as": "আহোম যুগৰ বজাৰ স্থান"
+        },
+        {
+          "en": "The royal burial mounds of the Ahom kings",
+          "as": "আহোম ৰজাসকলৰ ৰাজকীয় সমাধি স্তূপ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The maidams are the royal burial mounds of the Ahom kings.",
+        "as": "মৈদামসমূহ আহোম ৰজাসকলৰ ৰাজকীয় সমাধি স্তূপ।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Where is the famous Shiva Dol located?",
       "question_as": "বিখ্যাত শিৱদৌল ক'ত অৱস্থিত?",
       "answer_en": "At Sivasagar",
-      "answer_as": "শিৱসাগৰত"
+      "answer_as": "শিৱসাগৰত",
+      "options": [
+        {
+          "en": "At Guwahati",
+          "as": "গুৱাহাটীত"
+        },
+        {
+          "en": "At Tezpur",
+          "as": "তেজপুৰত"
+        },
+        {
+          "en": "At Sivasagar",
+          "as": "শিৱসাগৰত"
+        },
+        {
+          "en": "At Jorhat",
+          "as": "যোৰহাটত"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The famous Shiva Dol is located at Sivasagar.",
+        "as": "বিখ্যাত শিৱদ'ল শিৱসাগৰত অৱস্থিত।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Who built the Shiva Dol at Sivasagar?",
       "question_as": "শিৱসাগৰৰ শিৱদৌল কোনে নিৰ্মাণ কৰিছিল?",
       "answer_en": "Swargadeo Siva Singha",
-      "answer_as": "স্বৰ্গদেউ শিৱ সিংহ"
+      "answer_as": "স্বৰ্গদেউ শিৱ সিংহ",
+      "options": [
+        {
+          "en": "Swargadeo Rudra Singha",
+          "as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহ"
+        },
+        {
+          "en": "Swargadeo Pramatta Singha",
+          "as": "স্বৰ্গদেউ প্ৰমত্ত সিংহ"
+        },
+        {
+          "en": "Swargadeo Siva Singha",
+          "as": "স্বৰ্গদেউ শিৱ সিংহ"
+        },
+        {
+          "en": "Swargadeo Gadadhar Singha",
+          "as": "স্বৰ্গদেউ গদাধৰ সিংহ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Shiva Dol at Sivasagar was built by Swargadeo Siva Singha.",
+        "as": "শিৱসাগৰৰ শিৱদ'ল স্বৰ্গদেউ শিৱ সিংহই নিৰ্মাণ কৰিছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "The Sivasagar (Shivsagar) tank was excavated during whose reign?",
       "question_as": "শিৱসাগৰ পুখুৰী কোন ৰজাৰ ৰাজত্বকালত খন্দা হৈছিল?",
       "answer_en": "Siva Singha's reign",
-      "answer_as": "শিৱ সিংহৰ ৰাজত্বকালত"
+      "answer_as": "শিৱ সিংহৰ ৰাজত্বকালত",
+      "options": [
+        {
+          "en": "Siva Singha's reign",
+          "as": "শিৱ সিংহৰ ৰাজত্বকালত"
+        },
+        {
+          "en": "Rudra Singha's reign",
+          "as": "ৰুদ্ৰ সিংহৰ ৰাজত্বকালত"
+        },
+        {
+          "en": "Pramatta Singha's reign",
+          "as": "প্ৰমত্ত সিংহৰ ৰাজত্বকালত"
+        },
+        {
+          "en": "Sukaphaa's reign",
+          "as": "চুকাফাৰ ৰাজত্বকালত"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Sivasagar tank was excavated during the reign of Siva Singha.",
+        "as": "শিৱসাগৰ পুখুৰী শিৱ সিংহৰ ৰাজত্বকালত খন্দোৱা হৈছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Which Ahom capital had the Talatal Ghar and Rang Ghar?",
       "question_as": "তালাতল ঘৰ আৰু ৰংঘৰ থকা আহোম ৰাজধানী কোনখন আছিল?",
       "answer_en": "Rangpur",
-      "answer_as": "ৰংপুৰ"
+      "answer_as": "ৰংপুৰ",
+      "options": [
+        {
+          "en": "Garhgaon",
+          "as": "গড়গাঁও"
+        },
+        {
+          "en": "Rangpur",
+          "as": "ৰংপুৰ"
+        },
+        {
+          "en": "Charaideo",
+          "as": "চৰাইদেউ"
+        },
+        {
+          "en": "Jorhat",
+          "as": "যোৰহাট"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Talatal Ghar and Rang Ghar were in the Ahom capital Rangpur.",
+        "as": "তলাতল ঘৰ আৰু ৰংঘৰ আহোম ৰাজধানী ৰংপুৰত আছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "The Namdang stone bridge was built by which king?",
       "question_as": "নামদাং শিলৰ সেতু কোন ৰজাই নিৰ্মাণ কৰিছিল?",
       "answer_en": "Swargadeo Rudra Singha",
-      "answer_as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহ"
+      "answer_as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহ",
+      "options": [
+        {
+          "en": "Swargadeo Siva Singha",
+          "as": "স্বৰ্গদেউ শিৱ সিংহ"
+        },
+        {
+          "en": "Swargadeo Pramatta Singha",
+          "as": "স্বৰ্গদেউ প্ৰমত্ত সিংহ"
+        },
+        {
+          "en": "Swargadeo Rajeswar Singha",
+          "as": "স্বৰ্গদেউ ৰাজেশ্বৰ সিংহ"
+        },
+        {
+          "en": "Swargadeo Rudra Singha",
+          "as": "স্বৰ্গদেউ ৰুদ্ৰ সিংহ"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Namdang stone bridge was built by Swargadeo Rudra Singha.",
+        "as": "নামদাং শিলৰ সাঁকো স্বৰ্গদেউ ৰুদ্ৰ সিংহই নিৰ্মাণ কৰিছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "The Namdang stone bridge is over which river?",
       "question_as": "নামদাং শিলৰ সেতুখন কোন নদীৰ ওপৰত আছে?",
       "answer_en": "The Namdang river",
-      "answer_as": "নামদাং নদী"
+      "answer_as": "নামদাং নদী",
+      "options": [
+        {
+          "en": "The Brahmaputra",
+          "as": "ব্ৰহ্মপুত্ৰ"
+        },
+        {
+          "en": "The Namdang river",
+          "as": "নামদাং নদী"
+        },
+        {
+          "en": "The Dikhou",
+          "as": "দিখৌ"
+        },
+        {
+          "en": "The Dhansiri",
+          "as": "ধানশিৰি"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Namdang stone bridge is over the Namdang river.",
+        "as": "নামদাং শিলৰ সাঁকো নামদাং নদীৰ ওপৰত।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "The Kamakhya temple was rebuilt in the 16th century by whom?",
       "question_as": "১৬শ শতিকাত কামাখ্যা মন্দিৰ কোনে পুনৰ নিৰ্মাণ কৰিছিল?",
       "answer_en": "The Koch king Naranarayan (with Chilarai)",
-      "answer_as": "কোচ ৰজা নৰনাৰায়ণ (চিলাৰায়ৰ সহায়ত)"
+      "answer_as": "কোচ ৰজা নৰনাৰায়ণ (চিলাৰায়ৰ সহায়ত)",
+      "options": [
+        {
+          "en": "The Ahom king Suhungmung",
+          "as": "আহোম ৰজা চুহুংমুং"
+        },
+        {
+          "en": "The Mughal emperor Aurangzeb",
+          "as": "মোগল সম্ৰাট ঔৰংজেৱ"
+        },
+        {
+          "en": "The Koch king Naranarayan (with Chilarai)",
+          "as": "কোচ ৰজা নৰনাৰায়ণ (চিলাৰায়ৰ সৈতে)"
+        },
+        {
+          "en": "The Burmese king Maha Bandula",
+          "as": "বাৰ্মিজ ৰজা মহা বন্দুলা"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Kamakhya temple was rebuilt in the 16th century by the Koch king Naranarayan with Chilarai.",
+        "as": "১৬ শতিকাত কামাখ্যা মন্দিৰ কোচ ৰজা নৰনাৰায়ণে চিলাৰায়ৰ সৈতে পুনৰ নিৰ্মাণ কৰিছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "The Ahom architectural style is a blend of?",
       "question_as": "আহোম স্থাপত্য শৈলী কাৰ মিশ্ৰণ?",
       "answer_en": "Ahom, Mughal and Hindu temple styles",
-      "answer_as": "আহোম, মোগল আৰু হিন্দু মন্দিৰ শৈলী"
+      "answer_as": "আহোম, মোগল আৰু হিন্দু মন্দিৰ শৈলী",
+      "options": [
+        {
+          "en": "Chinese, Japanese and Thai styles",
+          "as": "চীনা, জাপানী আৰু থাই শৈলী"
+        },
+        {
+          "en": "Ahom, Mughal and Hindu temple styles",
+          "as": "আহোম, মোগল আৰু হিন্দু মন্দিৰ শৈলী"
+        },
+        {
+          "en": "British, French and Portuguese styles",
+          "as": "ব্ৰিটিছ, ফৰাচী আৰু পৰ্তুগীজ শৈলী"
+        },
+        {
+          "en": "Persian, Turkish and Arabic styles",
+          "as": "পাৰ্ছিয়ান, তুৰ্কী আৰু আৰৱী শৈলী"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Ahom architectural style is a blend of Ahom, Mughal and Hindu temple styles.",
+        "as": "আহোম স্থাপত্য শৈলী আহোম, মোগল আৰু হিন্দু মন্দিৰ শৈলীৰ মিশ্ৰণ।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "The Talatal Ghar is famous for its?",
       "question_as": "তালাতল ঘৰ কিৰ বাবে বিখ্যাত?",
       "answer_en": "Underground tunnels and multi-storeyed structure",
-      "answer_as": "ভূগৰ্ভস্থ সুৰংগ আৰু বহুতলীয়া নিৰ্মাণ"
+      "answer_as": "ভূগৰ্ভস্থ সুৰংগ আৰু বহুতলীয়া নিৰ্মাণ",
+      "options": [
+        {
+          "en": "Underground tunnels and multi-storeyed structure",
+          "as": "ভূগৰ্ভস্থ সুৰংগ আৰু বহুতলীয়া গঠন"
+        },
+        {
+          "en": "Its marble domes",
+          "as": "ইয়াৰ মাৰ্বল গম্বুজ"
+        },
+        {
+          "en": "Its wooden carvings only",
+          "as": "কেৱল কাঠৰ খোদাই"
+        },
+        {
+          "en": "Its painted glass windows",
+          "as": "ইয়াৰ ৰঙীন কাচৰ খিৰিকী"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Talatal Ghar is famous for its underground tunnels and multi-storeyed structure.",
+        "as": "তলাতল ঘৰ ইয়াৰ ভূগৰ্ভস্থ সুৰংগ আৰু বহুতলীয়া গঠনৰ বাবে বিখ্যাত।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Which monument at Gargaon served as the Ahom royal palace?",
       "question_as": "গড়গাঁৱৰ কোন স্থাপত্যটোৱে আহোম ৰাজকীয় প্ৰাসাদ হিচাপে সেৱা আগবঢ়াইছিল?",
       "answer_en": "The Kareng Ghar",
-      "answer_as": "কাৰেং ঘৰ"
+      "answer_as": "কাৰেং ঘৰ",
+      "options": [
+        {
+          "en": "The Kareng Ghar",
+          "as": "কাৰেং ঘৰ"
+        },
+        {
+          "en": "The Rang Ghar",
+          "as": "ৰংঘৰ"
+        },
+        {
+          "en": "The Talatal Ghar",
+          "as": "তলাতল ঘৰ"
+        },
+        {
+          "en": "The Shiva Dol",
+          "as": "শিৱদ'ল"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Kareng Ghar at Gargaon served as the Ahom royal palace.",
+        "as": "গড়গাঁৱৰ কাৰেং ঘৰ আহোম ৰাজপ্ৰাসাদ হিচাপে ব্যৱহাৰ হৈছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "The 'Jorhat' region of Assam was the centre of which Ahom institution?",
       "question_as": "অসমৰ যোৰহাট অঞ্চল কোন আহোম প্ৰতিষ্ঠানৰ কেন্দ্ৰ আছিল?",
       "answer_en": "The last capital region of the Ahom kings and Sattras",
-      "answer_as": "আহোম ৰজাসকলৰ শেষ ৰাজধানী অঞ্চল আৰু সত্ৰসমূহ"
+      "answer_as": "আহোম ৰজাসকলৰ শেষ ৰাজধানী অঞ্চল আৰু সত্ৰসমূহ",
+      "options": [
+        {
+          "en": "The first capital of the Ahom kings",
+          "as": "আহোম ৰজাসকলৰ প্ৰথম ৰাজধানী"
+        },
+        {
+          "en": "The last capital region of the Ahom kings and Sattras",
+          "as": "আহোম ৰজাসকলৰ শেষ ৰাজধানী অঞ্চল আৰু সত্ৰসমূহ"
+        },
+        {
+          "en": "The main Mughal garrison in Assam",
+          "as": "অসমত প্ৰধান মোগল সেনানিবাস"
+        },
+        {
+          "en": "The chief centre of the Burmese army",
+          "as": "বাৰ্মিজ সেনাৰ প্ৰধান কেন্দ্ৰ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Jorhat region was the centre of the last capital region of the Ahom kings and of the Sattras.",
+        "as": "যোৰহাট অঞ্চল আহোম ৰজাসকলৰ শেষ ৰাজধানী অঞ্চল আৰু সত্ৰসমূহৰ কেন্দ্ৰ আছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Which hill fort was built by the Ahoms near the Brahmaputra?",
       "question_as": "ব্ৰহ্মপুত্ৰৰ কাষত আহোমসকলে নিৰ্মাণ কৰা পাহাৰীয়া দুৰ্গ কোনটো?",
       "answer_en": "The Chandragiri fort area (near Guwahati)",
-      "answer_as": "চন্দ্ৰগিৰি দুৰ্গ অঞ্চল (গুৱাহাটীৰ ওচৰত)"
+      "answer_as": "চন্দ্ৰগিৰি দুৰ্গ অঞ্চল (গুৱাহাটীৰ ওচৰত)",
+      "options": [
+        {
+          "en": "The Charaideo fort",
+          "as": "চৰাইদেউ দুৰ্গ"
+        },
+        {
+          "en": "The Chandragiri fort area (near Guwahati)",
+          "as": "চন্দ্ৰগিৰি দুৰ্গ অঞ্চল (গুৱাহাটীৰ ওচৰত)"
+        },
+        {
+          "en": "The Sadiya fort",
+          "as": "শদিয়া দুৰ্গ"
+        },
+        {
+          "en": "The Maibang fort",
+          "as": "মাইবং দুৰ্গ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Ahoms built a hill fort in the Chandragiri area near Guwahati.",
+        "as": "আহোমসকলে গুৱাহাটীৰ ওচৰত চন্দ্ৰগিৰি অঞ্চলত পাহাৰীয়া দুৰ্গ নিৰ্মাণ কৰিছিল।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "The Ahom temples and palaces were mainly built of?",
       "question_as": "আহোম মন্দিৰ আৰু প্ৰাসাদ মূলতঃ কিৰে নিৰ্মিত হৈছিল?",
       "answer_en": "Brick and stone",
-      "answer_as": "ইটা আৰু শিলেৰে"
+      "answer_as": "ইটা আৰু শিলেৰে",
+      "options": [
+        {
+          "en": "Bamboo and thatch only",
+          "as": "কেৱল বাঁহ আৰু খেৰ"
+        },
+        {
+          "en": "Marble and granite only",
+          "as": "কেৱল মাৰ্বল আৰু গ্ৰেনাইট"
+        },
+        {
+          "en": "Brick and stone",
+          "as": "ইটা আৰু শিল"
+        },
+        {
+          "en": "Wood and mud only",
+          "as": "কেৱল কাঠ আৰু বোকা"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Ahom temples and palaces were mainly built of brick and stone.",
+        "as": "আহোম মন্দিৰ আৰু ৰাজপ্ৰাসাদ মূলতঃ ইটা আৰু শিলেৰে নিৰ্মিত।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "Which Ahom structure is a rare example of an oval-shaped building?",
       "question_as": "কোন আহোম স্থাপত্য ডিম্বাকৃতিৰ (অণ্ডাকাৰ) অট্টালিকাৰ দুষ্প্রাপ্য উদাহৰণ?",
       "answer_en": "The Rang Ghar",
-      "answer_as": "ৰংঘৰ"
+      "answer_as": "ৰংঘৰ",
+      "options": [
+        {
+          "en": "The Talatal Ghar",
+          "as": "তলাতল ঘৰ"
+        },
+        {
+          "en": "The Rang Ghar",
+          "as": "ৰংঘৰ"
+        },
+        {
+          "en": "The Kareng Ghar",
+          "as": "কাৰেং ঘৰ"
+        },
+        {
+          "en": "The Shiva Dol",
+          "as": "শিৱদ'ল"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Rang Ghar is a rare example of an oval-shaped Ahom building.",
+        "as": "ৰংঘৰ ডিম্বাকৃতিৰ আহোম ভৱনৰ এক বিৰল উদাহৰণ।"
+      }
     },
     {
       "category": "Art, Architecture and Monuments",
       "question_en": "The ruins of the Ahom capital at Charaideo are famous for?",
       "question_as": "চাৰাইদেউৰ আহোম ৰাজধানীৰ ধ্বংসাৱশেষ কিৰ বাবে বিখ্যাত?",
       "answer_en": "The royal maidams (burial mounds)",
-      "answer_as": "ৰাজকীয় মৈদামসমূহ"
+      "answer_as": "ৰাজকীয় মৈদামসমূহ",
+      "options": [
+        {
+          "en": "The royal palaces",
+          "as": "ৰাজপ্ৰাসাদসমূহ"
+        },
+        {
+          "en": "The stone bridges",
+          "as": "শিলৰ সাঁকোসমূহ"
+        },
+        {
+          "en": "The royal maidams (burial mounds)",
+          "as": "ৰাজকীয় মৈদাম (সমাধি স্তূপ)"
+        },
+        {
+          "en": "The Sattra buildings",
+          "as": "সত্ৰ ভৱনসমূহ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The ruins of the Ahom capital at Charaideo are famous for the royal maidams.",
+        "as": "চৰাইদেউৰ আহোম ৰাজধানীৰ ভগ্নাৱশেষ ৰাজকীয় মৈদামৰ বাবে বিখ্যাত।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The paik system of the Ahoms was abolished by whom?",
       "question_as": "আহোমসকলৰ পাইক পদ্ধতি কোনে বাতিল কৰিছিল?",
       "answer_en": "The British (in 1833)",
-      "answer_as": "ব্ৰিটিছসকলে (১৮৩৩ চনত)"
+      "answer_as": "ব্ৰিটিছসকলে (১৮৩৩ চনত)",
+      "options": [
+        {
+          "en": "The Mughals (in 1663)",
+          "as": "মোগল (১৬৬৩ চনত)"
+        },
+        {
+          "en": "The British (in 1833)",
+          "as": "ব্ৰিটিছ (১৮৩৩ চনত)"
+        },
+        {
+          "en": "The Burmese (in 1826)",
+          "as": "বাৰ্মিজ (১৮২৬ চনত)"
+        },
+        {
+          "en": "The Ahom king Rudra Singha (in 1714)",
+          "as": "আহোম ৰজা ৰুদ্ৰ সিংহ (১৭১৪ চনত)"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The paik system of the Ahoms was abolished by the British in 1833.",
+        "as": "আহোমসকলৰ পাইক প্ৰথা ব্ৰিটিছে ১৮৩৩ চনত বিলুপ্ত কৰিছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "What was the main economic activity of the Ahom kingdom?",
       "question_as": "আহোম ৰাজ্যৰ মূল অৰ্থনৈতিক কাৰ্যকলাপ কি আছিল?",
       "answer_en": "Agriculture",
-      "answer_as": "কৃষি"
+      "answer_as": "কৃষি",
+      "options": [
+        {
+          "en": "Agriculture",
+          "as": "কৃষি"
+        },
+        {
+          "en": "Sea trade",
+          "as": "সমুদ্ৰ বাণিজ্য"
+        },
+        {
+          "en": "Mining of coal",
+          "as": "কয়লা খনন"
+        },
+        {
+          "en": "Weaving only",
+          "as": "কেৱল বোৱা-কটা"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The main economic activity of the Ahom kingdom was agriculture.",
+        "as": "আহোম ৰাজ্যৰ মূল অৰ্থনৈতিক কাৰ্য আছিল কৃষি।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "What was the principal crop of the Ahom kingdom?",
       "question_as": "আহোম ৰাজ্যৰ প্ৰধান শস্য কি আছিল?",
       "answer_en": "Rice (paddy)",
-      "answer_as": "ধান (পোহা)"
+      "answer_as": "ধান (পোহা)",
+      "options": [
+        {
+          "en": "Rice (paddy)",
+          "as": "ধান"
+        },
+        {
+          "en": "Wheat",
+          "as": "ঘেঁহু"
+        },
+        {
+          "en": "Cotton",
+          "as": "কপাহ"
+        },
+        {
+          "en": "Tea",
+          "as": "চাহ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Rice (paddy) was the principal crop of the Ahom kingdom.",
+        "as": "ধান আহোম ৰাজ্যৰ প্ৰধান শস্য আছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The compulsory labour system of the Ahoms was called?",
       "question_as": "আহোমসকলৰ বাধ্যতামূলক শ্ৰম পদ্ধতিক কি বুলি কোৱা হৈছিল?",
       "answer_en": "The Paik system",
-      "answer_as": "পাইক পদ্ধতি"
+      "answer_as": "পাইক পদ্ধতি",
+      "options": [
+        {
+          "en": "The Posa system",
+          "as": "পছা প্ৰথা"
+        },
+        {
+          "en": "The Lagao system",
+          "as": "লাগাও প্ৰথা"
+        },
+        {
+          "en": "The Khel system",
+          "as": "খেল প্ৰথা"
+        },
+        {
+          "en": "The Paik system",
+          "as": "পাইক প্ৰথা"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The compulsory labour system of the Ahoms was called the Paik system.",
+        "as": "আহোমসকলৰ বাধ্যতামূলক শ্ৰম প্ৰথাক পাইক প্ৰথা বোলা হৈছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The taxes paid by the paiks were known as?",
       "question_as": "পাইকসকলে দিয়া কৰবোৰক কি বুলি কোৱা হৈছিল?",
       "answer_en": "Lagao",
-      "answer_as": "লগাও"
+      "answer_as": "লগাও",
+      "options": [
+        {
+          "en": "Posa",
+          "as": "পছা"
+        },
+        {
+          "en": "Khel",
+          "as": "খেল"
+        },
+        {
+          "en": "Lagao",
+          "as": "লাগাও"
+        },
+        {
+          "en": "Buranji",
+          "as": "বুৰঞ্জী"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The taxes paid by the paiks were known as Lagao.",
+        "as": "পাইকসকলে দিয়া কৰক লাগাও বোলা হৈছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The annual allowances given by the Ahom kings to the hill tribes were called?",
       "question_as": "আহোম ৰজাসকলে পাহাৰীয়া জনজাতিসকললৈ দিয়া বাৰ্ষিক অনুদানবোৰক কি বুলি কোৱা হৈছিল?",
       "answer_en": "Posa",
-      "answer_as": "পোচা"
+      "answer_as": "পোচা",
+      "options": [
+        {
+          "en": "Lagao",
+          "as": "লাগাও"
+        },
+        {
+          "en": "Paik",
+          "as": "পাইক"
+        },
+        {
+          "en": "Posa",
+          "as": "পছা"
+        },
+        {
+          "en": "Maidam",
+          "as": "মৈদাম"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The annual allowances given by the Ahom kings to the hill tribes were called Posa.",
+        "as": "আহোম ৰজাসকলে পাহাৰীয়া জনজাতিক দিয়া বছৰেকীয়া ভাট্টাক পছা বোলা হৈছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The Ahom society was broadly divided into?",
       "question_as": "আহোম সমাজ বিস্তৃতভাৱে কোনবোৰ ভাগত বিভক্ত আছিল?",
       "answer_en": "The ruling nobles and the paiks (commoners)",
-      "answer_as": "শাসক অভিজাত আৰু পাইক (সাধাৰণ প্ৰজা)"
+      "answer_as": "শাসক অভিজাত আৰু পাইক (সাধাৰণ প্ৰজা)",
+      "options": [
+        {
+          "en": "Priests and merchants",
+          "as": "পুৰোহিত আৰু বণিক"
+        },
+        {
+          "en": "The ruling nobles and the paiks (commoners)",
+          "as": "শাসক অভিজাত আৰু পাইক (সাধাৰণ লোক)"
+        },
+        {
+          "en": "Soldiers and slaves only",
+          "as": "কেৱল সৈনিক আৰু দাস"
+        },
+        {
+          "en": "Brahmins and Kayasthas",
+          "as": "ব্ৰাহ্মণ আৰু কায়স্থ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Ahom society was broadly divided into the ruling nobles and the paiks (commoners).",
+        "as": "আহোম সমাজ মূলতঃ শাসক অভিজাত আৰু পাইক (সাধাৰণ লোক) ত বিভক্ত আছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The Ahom kings maintained peace with the hill tribes through which system?",
       "question_as": "আহোম ৰজাসকলে পাহাৰীয়া জনজাতিসকলৰ লগত শান্তি ৰক্ষা কৰিছিল কোন পদ্ধতিৰে?",
       "answer_en": "The Posa system",
-      "answer_as": "পোচা পদ্ধতি"
+      "answer_as": "পোচা পদ্ধতি",
+      "options": [
+        {
+          "en": "The Paik system",
+          "as": "পাইক প্ৰথা"
+        },
+        {
+          "en": "The Lagao system",
+          "as": "লাগাও প্ৰথা"
+        },
+        {
+          "en": "The Khel system",
+          "as": "খেল প্ৰথা"
+        },
+        {
+          "en": "The Posa system",
+          "as": "পছা প্ৰথা"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Ahom kings maintained peace with the hill tribes through the Posa system.",
+        "as": "আহোম ৰজাসকলে পছা প্ৰথাৰ জৰিয়তে পাহাৰীয়া জনজাতিৰ সৈতে শান্তি ৰক্ষা কৰিছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The economy of the Ahom kingdom also depended on?",
       "question_as": "আহোম ৰাজ্যৰ অৰ্থনীতি কাৰ ওপৰতো নিৰ্ভৰশীল আছিল?",
       "answer_en": "River-borne trade along the Brahmaputra",
-      "answer_as": "ব্ৰহ্মপুত্ৰত নদী-বাণিজ্য"
+      "answer_as": "ব্ৰহ্মপুত্ৰত নদী-বাণিজ্য",
+      "options": [
+        {
+          "en": "River-borne trade along the Brahmaputra",
+          "as": "ব্ৰহ্মপুত্ৰৰ কাষেৰে নদীপথেৰে বাণিজ্য"
+        },
+        {
+          "en": "Sea trade through Bengal ports",
+          "as": "বংগৰ বন্দৰৰ জৰিয়তে সমুদ্ৰ বাণিজ্য"
+        },
+        {
+          "en": "Overland trade with China only",
+          "as": "কেৱল চীনৰ সৈতে স্থলপথে বাণিজ্য"
+        },
+        {
+          "en": "Trade with Europe by sea",
+          "as": "সমুদ্ৰপথে ইউৰোপৰ সৈতে বাণিজ্য"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The economy of the Ahom kingdom also depended on river-borne trade along the Brahmaputra.",
+        "as": "আহোম ৰাজ্যৰ অৰ্থনীতি ব্ৰহ্মপুত্ৰৰ কাষেৰে নদীপথেৰে হোৱা বাণিজ্যৰ ওপৰতো নিৰ্ভৰ কৰিছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "What was the main occupation of the paiks?",
       "question_as": "পাইকসকলৰ মূল জীৱিকা কি আছিল?",
       "answer_en": "Agriculture and state service",
-      "answer_as": "কৃষি আৰু ৰাষ্ট্ৰীয় সেৱা"
+      "answer_as": "কৃষি আৰু ৰাষ্ট্ৰীয় সেৱা",
+      "options": [
+        {
+          "en": "Only weaving",
+          "as": "কেৱল বোৱা-কটা"
+        },
+        {
+          "en": "Only trade",
+          "as": "কেৱল বাণিজ্য"
+        },
+        {
+          "en": "Agriculture and state service",
+          "as": "কৃষি আৰু ৰাজ্যিক সেৱা"
+        },
+        {
+          "en": "Only military service",
+          "as": "কেৱল সামৰিক সেৱা"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The main occupation of the paiks was agriculture and state service.",
+        "as": "পাইকসকলৰ মূল বৃত্তি আছিল কৃষি আৰু ৰাজ্যিক সেৱা।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The revenue of the Ahom state was mainly collected in?",
       "question_as": "আহোম ৰাজ্যৰ ৰাজহ মূলতঃ কি ৰূপত সংগৃহীত হৈছিল?",
       "answer_en": "Rice (paddy)",
-      "answer_as": "ধান (পোহা)"
+      "answer_as": "ধান (পোহা)",
+      "options": [
+        {
+          "en": "Silver coins",
+          "as": "ৰূপৰ মুদ্ৰা"
+        },
+        {
+          "en": "Cotton cloth",
+          "as": "কপাহী বস্ত্ৰ"
+        },
+        {
+          "en": "Gold",
+          "as": "সোণ"
+        },
+        {
+          "en": "Rice (paddy)",
+          "as": "ধান"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The revenue of the Ahom state was mainly collected in rice (paddy).",
+        "as": "আহোম ৰাজ্যৰ ৰাজহ মূলতঃ ধানত সংগ্ৰহ কৰা হৈছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The Ahom king was regarded as?",
       "question_as": "আহোম ৰজাক কি বুলি গণ্য কৰা হৈছিল?",
       "answer_en": "The supreme ruler (Swargadeo), head of state and religion",
-      "answer_as": "সৰ্বোচ্চ শাসক (স্বৰ্গদেউ), ৰাজ্য আৰু ধৰ্মৰ মুৰব্বী"
+      "answer_as": "সৰ্বোচ্চ শাসক (স্বৰ্গদেউ), ৰাজ্য আৰু ধৰ্মৰ মুৰব্বী",
+      "options": [
+        {
+          "en": "The supreme ruler (Swargadeo), head of state and religion",
+          "as": "সৰ্বোচ্চ শাসক (স্বৰ্গদেউ), ৰাজ্য আৰু ধৰ্মৰ মুৰব্বী"
+        },
+        {
+          "en": "Only a military commander",
+          "as": "কেৱল এজন সামৰিক সেনাপতি"
+        },
+        {
+          "en": "A puppet of the Sattras",
+          "as": "সত্ৰসমূহৰ পুতলাৰজা"
+        },
+        {
+          "en": "An elected representative",
+          "as": "এজন নিৰ্বাচিত প্ৰতিনিধি"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Ahom king was regarded as the supreme ruler (Swargadeo), head of state and religion.",
+        "as": "আহোম ৰজাক সৰ্বোচ্চ শাসক (স্বৰ্গদেউ), ৰাজ্য আৰু ধৰ্মৰ মুৰব্বী হিচাপে গণ্য কৰা হৈছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The Ahom social structure was based mainly on?",
       "question_as": "আহোম সামাজিক গঠন মূলতঃ কাৰ ওপৰত নিৰ্ভৰ কৰিছিল?",
       "answer_en": "Service to the state (the paik system)",
-      "answer_as": "ৰাষ্ট্ৰীয় সেৱা (পাইক পদ্ধতি)"
+      "answer_as": "ৰাষ্ট্ৰীয় সেৱা (পাইক পদ্ধতি)",
+      "options": [
+        {
+          "en": "Service to the state (the paik system)",
+          "as": "ৰাজ্যলৈ সেৱা (পাইক প্ৰথা)"
+        },
+        {
+          "en": "Birth-based caste hierarchy",
+          "as": "জন্মভিত্তিক জাতিভেদ"
+        },
+        {
+          "en": "Wealth and land ownership",
+          "as": "ধন আৰু ভূমিৰ মালিকীস্বত্ব"
+        },
+        {
+          "en": "Religious learning",
+          "as": "ধৰ্মীয় শিক্ষা"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Ahom social structure was based mainly on service to the state through the paik system.",
+        "as": "আহোম সমাজ ব্যৱস্থা মূলতঃ পাইক প্ৰথাৰ জৰিয়তে ৰাজ্যলৈ সেৱাৰ ওপৰত আধাৰিত আছিল।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The Ahom tradition of burying the kings in maidams is an example of?",
       "question_as": "ৰজাসকলক মৈদামত সমাধিস্থ কৰা আহোম পৰম্পৰা কিৰ উদাহৰণ?",
       "answer_en": "Their Tai religious custom of ancestor worship",
-      "answer_as": "তেওঁলোকৰ পূৰ্বপুৰুষ পূজাৰ তাই ধৰ্মীয় প্ৰথা"
+      "answer_as": "তেওঁলোকৰ পূৰ্বপুৰুষ পূজাৰ তাই ধৰ্মীয় প্ৰথা",
+      "options": [
+        {
+          "en": "Buddhist monastic tradition",
+          "as": "বৌদ্ধ মঠ পৰম্পৰা"
+        },
+        {
+          "en": "Their Tai religious custom of ancestor worship",
+          "as": "পূৰ্বপুৰুষ পূজাৰ তেওঁলোকৰ তাই ধৰ্মীয় ৰীতি"
+        },
+        {
+          "en": "Islamic burial practice",
+          "as": "ইছলামীয় সমাধি ৰীতি"
+        },
+        {
+          "en": "Christian funeral rite",
+          "as": "খ্ৰীষ্টান অন্ত্যেষ্টিক্ৰিয়া"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Ahom tradition of burying the kings in maidams reflects their Tai religious custom of ancestor worship.",
+        "as": "মৈদামত ৰজাসকলক সমাধিস্থ কৰাৰ আহোম পৰম্পৰাই তেওঁলোকৰ পূৰ্বপুৰুষ পূজাৰ তাই ধৰ্মীয় ৰীতি প্ৰতিফলিত কৰে।"
+      }
     },
     {
       "category": "Economy, Society and Miscellaneous",
       "question_en": "The Ahom kingdom's contact with the outside world was mainly through?",
       "question_as": "আহোম ৰাজ্যৰ বাহিৰৰ জগতৰ লগত সংযোগ মূলতঃ কিৰ জৰিয়তে আছিল?",
       "answer_en": "River routes and mountain passes",
-      "answer_as": "নদী-পথ আৰু পাহাৰীয়া গিৰিপথ"
+      "answer_as": "নদী-পথ আৰু পাহাৰীয়া গিৰিপথ",
+      "options": [
+        {
+          "en": "Sea ports on the Bay of Bengal",
+          "as": "বংগোপসাগৰৰ বন্দৰ"
+        },
+        {
+          "en": "Railways built by the British",
+          "as": "ব্ৰিটিছে নিৰ্মাণ কৰা ৰে’লপথ"
+        },
+        {
+          "en": "River routes and mountain passes",
+          "as": "নদীপথ আৰু পৰ্বতীয়া গিৰিপথ"
+        },
+        {
+          "en": "Air routes over the Himalayas",
+          "as": "হিমালয়ৰ ওপৰেৰে বিমানপথ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Ahom kingdom's contact with the outside world was mainly through river routes and mountain passes.",
+        "as": "বাহিৰৰ জগতৰ সৈতে আহোম ৰাজ্যৰ সংযোগ মূলতঃ নদীপথ আৰু পৰ্বতীয়া গিৰিপথেৰে আছিল।"
+      }
     },
     {
       "category": "Ahom Language, Script and Traditions",
       "question_en": "The Ahom script is derived from which script?",
       "question_as": "আহোম লিপি কোন লিপিৰ পৰা আহি়ছে?",
       "answer_en": "The Tai (Shan) script",
-      "answer_as": "তাই (শান) লিপি"
+      "answer_as": "তাই (শান) লিপি",
+      "options": [
+        {
+          "en": "The Tai (Shan) script",
+          "as": "তাই (শান) লিপি"
+        },
+        {
+          "en": "The Devanagari script",
+          "as": "দেৱনাগৰী লিপি"
+        },
+        {
+          "en": "The Bengali script",
+          "as": "বাংলা লিপি"
+        },
+        {
+          "en": "The Latin script",
+          "as": "লেটিন লিপি"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Ahom script is derived from the Tai (Shan) script.",
+        "as": "আহোম লিপি তাই (শান) লিপিৰ পৰা উৎপন্ন।"
+      }
     },
     {
       "category": "Ahom Language, Script and Traditions",
       "question_en": "The early Buranjis were written in which language?",
       "question_as": "আদি বুৰঞ্জীবোৰ কোন ভাষাত লিখা হৈছিল?",
       "answer_en": "The Ahom (Tai) language",
-      "answer_as": "আহোম (তাই) ভাষাত"
+      "answer_as": "আহোম (তাই) ভাষাত",
+      "options": [
+        {
+          "en": "The Assamese language",
+          "as": "অসমীয়া ভাষা"
+        },
+        {
+          "en": "The Ahom (Tai) language",
+          "as": "আহোম (তাই) ভাষা"
+        },
+        {
+          "en": "The Bengali language",
+          "as": "বাংলা ভাষা"
+        },
+        {
+          "en": "The Sanskrit language",
+          "as": "সংস্কৃত ভাষা"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The early Buranjis were written in the Ahom (Tai) language.",
+        "as": "প্ৰাৰম্ভিক বুৰঞ্জীসমূহ আহোম (তাই) ভাষাত লিখা হৈছিল।"
+      }
     },
     {
       "category": "Ahom Language, Script and Traditions",
       "question_en": "The Ahom language belongs to which language family?",
       "question_as": "আহোম ভাষা কোন ভাষা পৰিয়ালৰ?",
       "answer_en": "The Tai-Kadai family",
-      "answer_as": "তাই-কাডাই পৰিয়াল"
+      "answer_as": "তাই-কাডাই পৰিয়াল",
+      "options": [
+        {
+          "en": "The Indo-Aryan family",
+          "as": "ইন্দো-আৰ্য পৰিয়াল"
+        },
+        {
+          "en": "The Tai-Kadai family",
+          "as": "তাই-কাদাই পৰিয়াল"
+        },
+        {
+          "en": "The Sino-Tibetan family",
+          "as": "চীন-তিব্বতীয় পৰিয়াল"
+        },
+        {
+          "en": "The Dravidian family",
+          "as": "দ্ৰাবিড় পৰিয়াল"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Ahom language belongs to the Tai-Kadai language family.",
+        "as": "আহোম ভাষা তাই-কাদাই ভাষা পৰিয়ালৰ অন্তৰ্গত।"
+      }
     },
     {
       "category": "Ahom Language, Script and Traditions",
       "question_en": "In the later Ahom period, which language replaced Ahom in administration?",
       "question_as": "পিছৰ আহোম যুগত শাসন-কাৰ্যত আহোম ভাষাৰ ঠাইত কোন ভাষা ব্যৱহাৰ হৈছিল?",
       "answer_en": "Assamese",
-      "answer_as": "অসমীয়া"
+      "answer_as": "অসমীয়া",
+      "options": [
+        {
+          "en": "Bengali",
+          "as": "বাংলা"
+        },
+        {
+          "en": "Hindi",
+          "as": "হিন্দী"
+        },
+        {
+          "en": "English",
+          "as": "ইংৰাজী"
+        },
+        {
+          "en": "Assamese",
+          "as": "অসমীয়া"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "In the later Ahom period, Assamese replaced Ahom in administration.",
+        "as": "পিছৰ আহোম যুগত প্ৰশাসনত আহোম ভাষাৰ সলনি অসমীয়া ভাষা ব্যৱহৃত হৈছিল।"
+      }
     },
     {
       "category": "Ahom Language, Script and Traditions",
       "question_en": "What does 'Buranji' literally mean?",
       "question_as": "'বুৰঞ্জী' শব্দৰ আক্ষৰিক অৰ্থ কি?",
       "answer_en": "A storehouse of knowledge (chronicle)",
-      "answer_as": "জ্ঞানৰ ভঁৰাল (বৃত্তান্ত)"
+      "answer_as": "জ্ঞানৰ ভঁৰাল (বৃত্তান্ত)",
+      "options": [
+        {
+          "en": "A storehouse of knowledge (chronicle)",
+          "as": "জ্ঞানৰ ভঁৰাল (বুৰঞ্জী)"
+        },
+        {
+          "en": "A royal decree",
+          "as": "ৰাজকীয় আজ্ঞাপত্ৰ"
+        },
+        {
+          "en": "A tax register",
+          "as": "কৰ পঞ্জী"
+        },
+        {
+          "en": "A temple inscription",
+          "as": "মন্দিৰৰ শিলালিপি"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "'Buranji' literally means a storehouse of knowledge, that is a chronicle.",
+        "as": "'বুৰঞ্জী' শব্দৰ আক্ষৰিক অৰ্থ জ্ঞানৰ ভঁৰাল, অৰ্থাৎ ইতিহাস।"
+      }
     },
     {
       "category": "Ahom Language, Script and Traditions",
       "question_en": "Manuscripts in the Ahom period were written on which material?",
       "question_as": "আহোম যুগত পাণ্ডুলিপিবোৰ কি উপাদানত লিখা হৈছিল?",
       "answer_en": "Sanchipat (bark of the sanchi tree)",
-      "answer_as": "সাঁচিপাত (সাঁচি গছৰ বাকলি)"
+      "answer_as": "সাঁচিপাত (সাঁচি গছৰ বাকলি)",
+      "options": [
+        {
+          "en": "Palm leaves only",
+          "as": "কেৱল তালপাত"
+        },
+        {
+          "en": "Paper made in Europe",
+          "as": "ইউৰোপত নিৰ্মিত কাগজ"
+        },
+        {
+          "en": "Copper plates",
+          "as": "তামৰ ফলি"
+        },
+        {
+          "en": "Sanchipat (bark of the sanchi tree)",
+          "as": "সাঁচিপাত (সাঁচি গছৰ বাকলি)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Manuscripts in the Ahom period were written on sanchipat, the bark of the sanchi tree.",
+        "as": "আহোম যুগৰ পুথিসমূহ সাঁচিপাত, অৰ্থাৎ সাঁচি গছৰ বাকলিত লিখা হৈছিল।"
+      }
     },
     {
       "category": "Ahom Language, Script and Traditions",
       "question_en": "The Ahom coins issued by Suklenmung were inscribed in which script?",
       "question_as": "চুক্লেনমুঙে জাৰি কৰা আহোম মুদ্ৰাবোৰ কোন লিপিত খোদিত আছিল?",
       "answer_en": "The Ahom (Tai) script",
-      "answer_as": "আহোম (তাই) লিপিত"
+      "answer_as": "আহোম (তাই) লিপিত",
+      "options": [
+        {
+          "en": "The Ahom (Tai) script",
+          "as": "আহোম (তাই) লিপি"
+        },
+        {
+          "en": "The Devanagari script",
+          "as": "দেৱনাগৰী লিপি"
+        },
+        {
+          "en": "The Bengali script",
+          "as": "বাংলা লিপি"
+        },
+        {
+          "en": "The Arabic script",
+          "as": "আৰৱী লিপি"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Ahom coins issued by Suklenmung were inscribed in the Ahom (Tai) script.",
+        "as": "চুখ্লেনমুঙে জাৰি কৰা আহোম মুদ্ৰাত আহোম (তাই) লিপি খোদিত আছিল।"
+      }
     },
     {
       "category": "Ahom Language, Script and Traditions",
       "question_en": "What is the Ahom word for 'king'?",
       "question_as": "আহোম ভাষাত 'ৰজা' শব্দটো কি?",
       "answer_en": "Chao Pha (Swargadeo)",
-      "answer_as": "চাও ফা (স্বৰ্গদেউ)"
+      "answer_as": "চাও ফা (স্বৰ্গদেউ)",
+      "options": [
+        {
+          "en": "Borphukan",
+          "as": "বৰফুকন"
+        },
+        {
+          "en": "Barbarua",
+          "as": "বৰবৰুৱা"
+        },
+        {
+          "en": "Sattradhikar",
+          "as": "সত্ৰাধিকাৰ"
+        },
+        {
+          "en": "Chao Pha (Swargadeo)",
+          "as": "চাওফা (স্বৰ্গদেউ)"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Ahom word for 'king' is Chao Pha, that is Swargadeo.",
+        "as": "আহোম ভাষাত 'ৰজা'ৰ বাবে ব্যৱহৃত শব্দ চাওফা, অৰ্থাৎ স্বৰ্গদেউ।"
+      }
     },
     {
       "category": "Ahom Language, Script and Traditions",
       "question_en": "The Tai-Ahom people today live mainly in?",
       "question_as": "তাই-আহোম লোকসকল আজি মূলতঃ ক'ত বাস কৰে?",
       "answer_en": "Assam",
-      "answer_as": "অসমত"
+      "answer_as": "অসমত",
+      "options": [
+        {
+          "en": "Myanmar (Burma) only",
+          "as": "কেৱল ম্যানমাৰ (বাৰ্মা)"
+        },
+        {
+          "en": "Assam",
+          "as": "অসম"
+        },
+        {
+          "en": "Thailand only",
+          "as": "কেৱল থাইলেণ্ড"
+        },
+        {
+          "en": "China (Yunnan) only",
+          "as": "কেৱল চীন (য়ুনান)"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The Tai-Ahom people today live mainly in Assam.",
+        "as": "তাই-আহোম লোকসকল আজি মূলতঃ অসমত বাস কৰে।"
+      }
     },
     {
       "category": "Ahom Language, Script and Traditions",
       "question_en": "The Ahom practice of ancestor worship is known as?",
       "question_as": "আহোমসকলৰ পূৰ্বপুৰুষ পূজা পদ্ধতিক কি বুলি জনা যায়?",
       "answer_en": "Me-dam-me-phi",
-      "answer_as": "মে-দাম-মে-ফি"
+      "answer_as": "মে-দাম-মে-ফি",
+      "options": [
+        {
+          "en": "Bihu",
+          "as": "বিহু"
+        },
+        {
+          "en": "Bhaona",
+          "as": "ভাওনা"
+        },
+        {
+          "en": "Nam-prasanga",
+          "as": "নাম-প্ৰসংগ"
+        },
+        {
+          "en": "Me-dam-me-phi",
+          "as": "মে-দাম-মে-ফি"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Ahom practice of ancestor worship is known as Me-dam-me-phi.",
+        "as": "আহোমসকলৰ পূৰ্বপুৰুষ পূজা পদ্ধতিক মে-দাম-মে-ফি বোলা হয়।"
+      }
     }
   ]
 }

@@ -190,14 +190,14 @@
     },
     {
       "path": "data/content/gk/medieval-assam.json",
-      "converted": 225,
+      "converted": 300,
       "schema": "question_en",
-      "status": "partial"
+      "status": "complete"
     }
   ],
-  "total_converted": 3620,
-  "remaining_questions": 6280,
-  "remaining_files": 155,
+  "total_converted": 3695,
+  "remaining_questions": 6205,
+  "remaining_files": 154,
   "next_files": [
     "data/content/gk/medieval-assam.json",
     "data/content/gk/industrial-belts-borders-frontiers-india.json",
