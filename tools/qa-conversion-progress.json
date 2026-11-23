@@ -319,14 +319,24 @@
       "converted": 50,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/reorganization-assam-accord.json",
+      "converted": 50,
+      "schema": "question_en",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/grouping-scheme-bordoloi.json",
+      "converted": 50,
+      "schema": "question_en",
+      "status": "complete"
     }
   ],
-  "total_converted": 6198,
-  "remaining_questions": 3702,
-  "remaining_files": 110,
+  "total_converted": 6298,
+  "remaining_questions": 3602,
+  "remaining_files": 108,
   "next_files": [
-    "data/content/gk/reorganization-assam-accord.json",
-    "data/content/gk/grouping-scheme-bordoloi.json",
     "data/content/gk/gupta-empire.json",
     "data/content/gk/varman-dynasty.json",
     "data/content/gk/mahajanapadas-magadha.json",
@@ -334,7 +344,9 @@
     "data/content/gk/partition-sylhet-referendum.json",
     "data/content/gk/non-cooperation-assam.json",
     "data/content/gk/peasant-uprisings.json",
-    "data/content/gk/early-anti-british-revolts.json"
+    "data/content/gk/early-anti-british-revolts.json",
+    "data/content/gk/political-associations.json",
+    "data/content/gk/buranjis-historical-chronicles.json"
   ],
   "total_questions": 9900
 }
