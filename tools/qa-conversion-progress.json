@@ -295,13 +295,18 @@
       "converted": 51,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/maratha-empire-peshwas.json",
+      "converted": 51,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 5995,
-  "remaining_questions": 3905,
-  "remaining_files": 114,
+  "total_converted": 6046,
+  "remaining_questions": 3854,
+  "remaining_files": 113,
   "next_files": [
-    "data/content/gk/maratha-empire-peshwas.json",
     "data/content/gk/mauryan-empire.json",
     "data/content/gk/prehistoric-stone-age.json",
     "data/content/gk/line-system-immigration.json",
@@ -310,7 +315,8 @@
     "data/content/gk/gupta-empire.json",
     "data/content/gk/varman-dynasty.json",
     "data/content/gk/mahajanapadas-magadha.json",
-    "data/content/gk/yandabo-ahom-fall.json"
+    "data/content/gk/yandabo-ahom-fall.json",
+    "data/content/gk/partition-sylhet-referendum.json"
   ],
   "total_questions": 9900
 }
