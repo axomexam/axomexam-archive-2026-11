@@ -1,0 +1,207 @@
+{
+  "task": "Add 4 options (A-D, random correct) + bilingual explanation to GK Q&A-only questions",
+  "rules": {
+    "options": 4,
+    "correct": "random A/B/C/D, balanced, no wrong answers",
+    "explanation": "bilingual en+as, states why the correct option is right",
+    "schemas": {
+      "q/a": "q + options[{en,as}] + correct + explanation{en,as}",
+      "question_en": "question_en/as + options_en/as + correct + explanation_en/as"
+    }
+  },
+  "batch_size": 25,
+  "files_done": [
+    {
+      "path": "data/content/gk/fundamental-rights.json",
+      "converted": 25,
+      "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/emergency-provisions.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/executive-president-governor-pm-cm.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/finance-commission-state-fc.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/historical-background-making-sources.json",
+      "converted": 25,
+      "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/judiciary-supreme-court-high-courts-subordinate.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/latitudes-longitudes-equator-idl.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/legal-officers-attorney-general-advocate-general.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/legislature-parliament-state-legislature.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/nebulae-blackholes-supernovae.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/panchayati-raj-municipalities.json",
+      "converted": 25,
+      "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/planetary-moons-titan-ganymede-europa.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/pre-proto-history.json",
+      "converted": 25,
+      "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/preamble-key-amendments.json",
+      "converted": 25,
+      "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/sixth-schedule-autonomous-councils.json",
+      "converted": 25,
+      "schema": "question_en"
+    },
+    {
+      "path": "data/content/gk/space-agencies-missions-isro-nasa.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/stars-lifecycle-constellations-lightyear.json",
+      "converted": 25,
+      "schema": "q"
+    },
+    {
+      "path": "data/content/gk/neo-vaishnavite-movement.json",
+      "converted": 25,
+      "schema": "question_en",
+      "chunk": "Q1-25"
+    },
+    {
+      "path": "data/content/gk/neo-vaishnavite-movement.json",
+      "converted": 25,
+      "schema": "question_en",
+      "chunk": "Q26-50"
+    },
+    {
+      "path": "data/content/gk/neo-vaishnavite-movement.json",
+      "converted": 25,
+      "schema": "question_en",
+      "chunk": "Q51-75"
+    },
+    {
+      "path": "data/content/gk/neo-vaishnavite-movement.json",
+      "converted": 15,
+      "schema": "question_en",
+      "chunk": "Q76-90",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/socio-religious-reforms.json",
+      "converted": 25,
+      "schema": "q",
+      "chunk": "Q1-25"
+    },
+    {
+      "path": "data/content/gk/socio-religious-reforms.json",
+      "converted": 25,
+      "schema": "q",
+      "chunk": "Q26-50"
+    },
+    {
+      "path": "data/content/gk/socio-religious-reforms.json",
+      "converted": 23,
+      "schema": "q",
+      "chunk": "Q51-73",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/nationalism-inc-formation.json",
+      "converted": 71,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/mountbatten-partition-independence.json",
+      "converted": 71,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/gandhian-era-movements.json",
+      "converted": 71,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/subhas-bose-ina.json",
+      "converted": 70,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/revolutionary-movements.json",
+      "converted": 70,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/revolt-of-1857.json",
+      "converted": 70,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/partition-bengal-swadeshi.json",
+      "converted": 70,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/major-ahom-rulers.json",
+      "converted": 70,
+      "schema": "question_en",
+      "status": "complete"
+    }
+  ],
+  "total_converted": 1151,
+  "remaining_questions": 5087,
+  "remaining_files": 132,
+  "next_files": [
+    "data/content/gk/medieval-assam.json",
+    "data/content/gk/industrial-belts-borders-frontiers-india.json",
+    "data/content/gk/constitutional-developments-acts.json",
+    "data/content/gk/tripartite-struggle-dynasties.json",
+    "data/content/gk/saraighat-itakhuli.json",
+    "data/content/gk/quit-india-martyrs.json",
+    "data/content/gk/national-parks.json",
+    "data/content/gk/chola-south-kingdoms.json",
+    "data/content/gk/turkish-invasions.json",
+    "data/content/gk/socio-cultural-awakening.json"
+  ]
+}
