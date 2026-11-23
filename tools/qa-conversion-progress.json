@@ -301,13 +301,18 @@
       "converted": 51,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/mauryan-empire.json",
+      "converted": 51,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 6046,
-  "remaining_questions": 3854,
-  "remaining_files": 113,
+  "total_converted": 6097,
+  "remaining_questions": 3803,
+  "remaining_files": 112,
   "next_files": [
-    "data/content/gk/mauryan-empire.json",
     "data/content/gk/prehistoric-stone-age.json",
     "data/content/gk/line-system-immigration.json",
     "data/content/gk/reorganization-assam-accord.json",
@@ -316,7 +321,8 @@
     "data/content/gk/varman-dynasty.json",
     "data/content/gk/mahajanapadas-magadha.json",
     "data/content/gk/yandabo-ahom-fall.json",
-    "data/content/gk/partition-sylhet-referendum.json"
+    "data/content/gk/partition-sylhet-referendum.json",
+    "data/content/gk/non-cooperation-assam.json"
   ],
   "total_questions": 9900
 }
