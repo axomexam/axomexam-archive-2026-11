@@ -113,14 +113,26 @@
       "converted": 25,
       "schema": "question_en",
       "chunk": "Q51-75"
+    },
+    {
+      "path": "data/content/gk/neo-vaishnavite-movement.json",
+      "converted": 15,
+      "schema": "question_en",
+      "chunk": "Q76-90",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/socio-religious-reforms.json",
+      "converted": 25,
+      "schema": "q",
+      "chunk": "Q1-25"
     }
   ],
-  "total_converted": 500,
-  "remaining_questions": 5738,
-  "remaining_files": 142,
+  "total_converted": 540,
+  "remaining_questions": 5698,
+  "remaining_files": 141,
   "next_files": [
     "data/content/gk/medieval-assam.json",
-    "data/content/gk/socio-religious-reforms.json",
     "data/content/gk/nationalism-inc-formation.json",
     "data/content/gk/mountbatten-partition-independence.json",
     "data/content/gk/gandhian-era-movements.json",
@@ -128,6 +140,7 @@
     "data/content/gk/revolutionary-movements.json",
     "data/content/gk/revolt-of-1857.json",
     "data/content/gk/partition-bengal-swadeshi.json",
-    "data/content/gk/major-ahom-rulers.json"
+    "data/content/gk/major-ahom-rulers.json",
+    "data/content/gk/industrial-belts-borders-frontiers-india.json"
   ]
 }

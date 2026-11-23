@@ -1664,105 +1664,330 @@
       "question_en": "Which of the following pairs (death year - saint) is correctly matched?",
       "question_as": "তলৰ কোনটো যোৰ (মৃত্যু চন — গুৰু) শুদ্ধভাৱে মিলা হৈছে?",
       "answer_en": "1568 - Sankardeva; 1596 - Madhavdeva",
-      "answer_as": "১৫৬৮ — শংকৰদেৱ; ১৫৯৬ — মাধৱদেৱ"
+      "answer_as": "১৫৬৮ — শংকৰদেৱ; ১৫৯৬ — মাধৱদেৱ",
+      "options_en": [
+        "1568 - Sankardeva; 1596 - Madhavdeva",
+        "1568 - Madhavdeva; 1596 - Sankardeva",
+        "1449 - Sankardeva; 1568 - Madhavdeva",
+        "1596 - Sankardeva; 1568 - Madhavdeva"
+      ],
+      "options_as": [
+        "১৫৬৮ – শংকৰদেৱ; ১৫৯৬ – মাধৱদেৱ",
+        "১৫৬৮ – মাধৱদেৱ; ১৫৯৬ – শংকৰদেৱ",
+        "১৪৪৯ – শংকৰদেৱ; ১৫৬৮ – মাধৱদেৱ",
+        "১৫৯৬ – শংকৰদেৱ; ১৫৬৮ – মাধৱদেৱ"
+      ],
+      "correct": 0,
+      "explanation_en": "Sankardeva died in 1568 and Madhavdeva in 1596, so this pair is correctly matched.",
+      "explanation_as": "শংকৰদেৱ ১৫৬৮ চনত আৰু মাধৱদেৱ ১৫৯৬ চনত পৰলোকপ্ৰাপ্ত হৈছিল, সেয়ে এই যুগল সঠিক।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Consider the following statements:\n(1) Both Sankardeva and Madhavdeva died at Bheladanga.\n(2) Sankardeva composed the Naam Ghosha.\nWhich is/are correct?",
       "question_as": "তলৰ বিবৃতিসমূহ বিবেচনা কৰা:\n(১) শংকৰদেৱ আৰু মাধৱদেৱ দুয়ো ভেলাদাংগাত মৃত্যুবৰণ কৰিছিল।\n(২) শংকৰদেৱে নামঘোষা ৰচনা কৰিছিল।\nকোনটো/কোনবোৰ শুদ্ধ?",
       "answer_en": "Only 1",
-      "answer_as": "কেৱল ১"
+      "answer_as": "কেৱল ১",
+      "options_en": [
+        "Only 2",
+        "Only 1",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "options_as": [
+        "কেৱল ২",
+        "কেৱল ১",
+        "১ আৰু ২ দুয়োটাই",
+        "১ বা ২ এটাও নহয়"
+      ],
+      "correct": 1,
+      "explanation_en": "Both saints died at Bheladanga, but the Naam Ghosha was composed by Madhavdeva, not Sankardeva.",
+      "explanation_as": "দুয়োজন সাধুৱে ভেলাডাঙাত পৰলোকপ্ৰাপ্ত হৈছিল, কিন্তু নামঘোষা মাধৱদেৱে ৰচনা কৰিছিল, শংকৰদেৱে নহয়।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Sankardeva died at which place, situated in the Koch kingdom near the river close to Cooch Behar?",
       "question_as": "কুচবিহাৰৰ ওচৰত, নদীৰ পাৰত অৱস্থিত কছ ৰাজ্যৰ কোন ঠাইত শংকৰদেৱ মৃত্যুবৰণ কৰিছিল?",
       "answer_en": "Bheladanga",
-      "answer_as": "ভেলাদাংগা"
+      "answer_as": "ভেলাদাংগা",
+      "options_en": [
+        "Bordowa",
+        "Majuli",
+        "Bheladanga",
+        "Barpeta"
+      ],
+      "options_as": [
+        "বৰদোৱা",
+        "মাজুলী",
+        "ভেলাডাঙা",
+        "বৰপেটা"
+      ],
+      "correct": 2,
+      "explanation_en": "Sankardeva died at Bheladanga in the Koch kingdom, near Cooch Behar.",
+      "explanation_as": "শংকৰদেৱ কোচবিহাৰৰ ওচৰত কোচ ৰাজ্যৰ ভেলাডাঙাত পৰলোকপ্ৰাপ্ত হৈছিল।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Khersuti, who brought up the infant Sankardeva, was his -?",
       "question_as": "শিশু শংকৰদেৱক ডাঙৰ-দীঘল কৰা খেৰচুঁতি তেওঁৰ —?",
       "answer_en": "Grandmother",
-      "answer_as": "আইতা"
+      "answer_as": "আইতা",
+      "options_en": [
+        "Mother",
+        "Aunt",
+        "Grandmother",
+        "Sister"
+      ],
+      "options_as": [
+        "মাতৃ",
+        "পেহী",
+        "আইতাক",
+        "ভগ্নী"
+      ],
+      "correct": 2,
+      "explanation_en": "Khersuti, who brought up the infant Sankardeva, was his grandmother.",
+      "explanation_as": "শিশু শংকৰদেৱক ডাঙৰ-দীঘল কৰা খেৰসুতি তেওঁৰ আইতাক আছিল।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "The religion founded by Sankardeva is best described as -?",
       "question_as": "শংকৰদেৱে প্ৰতিষ্ঠা কৰা ধৰ্মক কোনটোৱে উত্তমভাৱে বৰ্ণনা কৰে?",
       "answer_en": "Eka Sharana Naam Dharma (single refuge in the Name of God)",
-      "answer_as": "এক শৰণ নাম ধৰ্ম (ঈশ্বৰৰ নামত একক আশ্ৰয়)"
+      "answer_as": "এক শৰণ নাম ধৰ্ম (ঈশ্বৰৰ নামত একক আশ্ৰয়)",
+      "options_en": [
+        "Eka Sharana Naam Dharma (single refuge in the Name of God)",
+        "Shakti worship",
+        "Vaishnav Dharma with idol worship",
+        "Buddhism"
+      ],
+      "options_as": [
+        "এক শৰণ নাম ধৰ্ম (ঈশ্বৰৰ নামত একক শৰণ)",
+        "শক্তি উপাসনা",
+        "মূৰ্তি উপাসনাসহ বৈষ্ণৱ ধৰ্ম",
+        "বৌদ্ধ ধৰ্ম"
+      ],
+      "correct": 0,
+      "explanation_en": "The religion founded by Sankardeva is best described as Eka Sharana Naam Dharma, single refuge in the Name of God.",
+      "explanation_as": "শংকৰদেৱে প্ৰৱৰ্তিত ধৰ্মক এক শৰণ নাম ধৰ্ম বুলি কোৱা হয়, অৰ্থাৎ ঈশ্বৰৰ নামত একক শৰণ।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Which of the following is NOT one of the four Samhatis of the Vaishnavite Satras?",
       "question_as": "বৈষ্ণৱ সত্ৰৰ চাৰিটা সংহতিৰ ভিতৰত তলৰ কোনটো নহয়?",
       "answer_en": "Khem",
-      "answer_as": "খেম"
+      "answer_as": "খেম",
+      "options_en": [
+        "Brahma",
+        "Khem",
+        "Purusha",
+        "Kala"
+      ],
+      "options_as": [
+        "ব্ৰহ্ম",
+        "খেম",
+        "পুৰুষ",
+        "কাল"
+      ],
+      "correct": 1,
+      "explanation_en": "The four Samhatis are Brahma, Purusha, Nika and Kala; Khem is not one of them.",
+      "explanation_as": "চাৰিটা সংহতি হৈছে ব্ৰহ্ম, পুৰুষ, নিকা আৰু কাল; খেম ইয়াৰ এটা নহয়।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Which of the following works was NOT composed by Sankardeva?",
       "question_as": "তলৰ কোনখন ৰচনা শংকৰদেৱে ৰচনা কৰা নাছিল?",
       "answer_en": "Bhakti-ratnavali",
-      "answer_as": "ভক্তি-ৰত্নাৱলী"
+      "answer_as": "ভক্তি-ৰত্নাৱলী",
+      "options_en": [
+        "Kirtan-ghosha",
+        "Gunamala",
+        "Rukmini-harana",
+        "Bhakti-ratnavali"
+      ],
+      "options_as": [
+        "কীৰ্তন ঘোষা",
+        "গুণমালা",
+        "ৰুক্মিণী-হৰণ",
+        "ভক্তি-ৰত্নাৱলী"
+      ],
+      "correct": 3,
+      "explanation_en": "Bhakti-ratnavali was composed by Madhavdeva, not by Sankardeva.",
+      "explanation_as": "ভক্তি-ৰত্নাৱলী মাধৱদেৱে ৰচনা কৰিছিল, শংকৰদেৱে নহয়।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Which of the following works was NOT composed by Madhavdeva?",
       "question_as": "তলৰ কোনখন ৰচনা মাধৱদেৱে ৰচনা কৰা নাছিল?",
       "answer_en": "Gunamala",
-      "answer_as": "গুণমালা"
+      "answer_as": "গুণমালা",
+      "options_en": [
+        "Gunamala",
+        "Naam Ghosha",
+        "Bhakti-ratnavali",
+        "Borgeet"
+      ],
+      "options_as": [
+        "গুণমালা",
+        "নামঘোষা",
+        "ভক্তি-ৰত্নাৱলী",
+        "বৰগীত"
+      ],
+      "correct": 0,
+      "explanation_en": "Gunamala was composed by Sankardeva, not by Madhavdeva.",
+      "explanation_as": "গুণমালা শংকৰদেৱে ৰচনা কৰিছিল, মাধৱদেৱে নহয়।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Which of the following saints died in the year 1596 AD?",
       "question_as": "তলৰ কোন গুৰু ১৫৯৬ খ্ৰীষ্টাব্দত মৃত্যুবৰণ কৰিছিল?",
       "answer_en": "Madhavdeva",
-      "answer_as": "মাধৱদেৱ"
+      "answer_as": "মাধৱদেৱ",
+      "options_en": [
+        "Sankardeva",
+        "Madhavdeva",
+        "Aniruddhadeva",
+        "Damodardeva"
+      ],
+      "options_as": [
+        "শংকৰদেৱ",
+        "মাধৱদেৱ",
+        "অনিৰুদ্ধদেৱ",
+        "দামোদৰদেৱ"
+      ],
+      "correct": 1,
+      "explanation_en": "Madhavdeva died in 1596 AD.",
+      "explanation_as": "মাধৱদেৱ ১৫৯৬ খ্ৰীষ্টাব্দত পৰলোকপ্ৰাপ্ত হৈছিল।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Both Sankardeva and Madhavdeva breathed their last at -?",
       "question_as": "শংকৰদেৱ আৰু মাধৱদেৱ দুয়ো ক'ত মৃত্যুবৰণ কৰিছিল?",
       "answer_en": "Bheladanga",
-      "answer_as": "ভেলাদাংগা"
+      "answer_as": "ভেলাদাংগা",
+      "options_en": [
+        "Bordowa",
+        "Majuli",
+        "Letekupukhuri",
+        "Bheladanga"
+      ],
+      "options_as": [
+        "বৰদোৱা",
+        "মাজুলী",
+        "লেটেকুপুখুৰী",
+        "ভেলাডাঙা"
+      ],
+      "correct": 3,
+      "explanation_en": "Both Sankardeva and Madhavdeva breathed their last at Bheladanga.",
+      "explanation_as": "শংকৰদেৱ আৰু মাধৱদেৱ দুয়োজনে ভেলাডাঙাত শেষ নিশ্বাস ত্যাগ কৰিছিল।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "The Moamara Satra, later linked to the Moamoria rebellion, was founded by -?",
       "question_as": "পিছত মোৱামৰীয়া বিদ্ৰোহৰ সৈতে জড়িত হোৱা মোৱামৰা সত্ৰ কোনে প্ৰতিষ্ঠা কৰিছিল?",
       "answer_en": "Aniruddhadeva",
-      "answer_as": "অনিৰুদ্ধদেৱ"
+      "answer_as": "অনিৰুদ্ধদেৱ",
+      "options_en": [
+        "Sankardeva",
+        "Madhavdeva",
+        "Aniruddhadeva",
+        "Gopal Ata"
+      ],
+      "options_as": [
+        "শংকৰদেৱ",
+        "মাধৱদেৱ",
+        "অনিৰুদ্ধদেৱ",
+        "গোপাল আতা"
+      ],
+      "correct": 2,
+      "explanation_en": "The Moamara Satra, later linked to the Moamoria rebellion, was founded by Aniruddhadeva.",
+      "explanation_as": "পিছত মোৱামৰীয়া বিদ্ৰোহৰ সৈতে জড়িত মোৱামৰীয়া সত্ৰ অনিৰুদ্ধদেৱে প্ৰতিষ্ঠা কৰিছিল।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Match the following Samhatis with their associated preceptors:\n(1) Purusha Samhati - Gopal Ata\n(2) Nika Samhati - Mathuradasa\n(3) Brahma Samhati - Damodardeva\nWhich of the above is/are correctly matched?",
       "question_as": "তলত দিয়া সংহতি আৰু তেওঁলোকৰ লগত জড়িত গুৰু/আতাসকলক মিলাও:\n(১) পুৰুষ সংহতি — গোপাল আতা\n(২) নিকা সংহতি — মথুৰাদাস\n(৩) ব্ৰহ্ম সংহতি — দামোদৰদেৱ\nওপৰৰ কোনটো/কোনবোৰ শুদ্ধভাৱে মিলা হৈছে?",
       "answer_en": "All three (1, 2 and 3)",
-      "answer_as": "তিনিওটা (১, ২ আৰু ৩)"
+      "answer_as": "তিনিওটা (১, ২ আৰু ৩)",
+      "options_en": [
+        "All three (1, 2 and 3)",
+        "Only 1",
+        "Only 2 and 3",
+        "None of these"
+      ],
+      "options_as": [
+        "তিনিওটা (১, ২ আৰু ৩)",
+        "কেৱল ১",
+        "কেৱল ২ আৰু ৩",
+        "ইয়াৰ এটাও নহয়"
+      ],
+      "correct": 0,
+      "explanation_en": "Purusha-Gopal Ata, Nika-Mathuradasa and Brahma-Damodardeva are all correctly matched.",
+      "explanation_as": "পুৰুষ-গোপাল আতা, নিকা-মথুৰাদাস আৰু ব্ৰহ্ম-দামোদৰদেৱ — তিনিওটা সঠিকভাৱে মিলোৱা হৈছে।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Which of the following is a genuine literary work of Sankardeva (not of Madhavdeva)?",
       "question_as": "তলৰ কোনখন শংকৰদেৱৰ (মাধৱদেৱৰ নহয়) প্ৰকৃত সাহিত্যিক ৰচনা?",
       "answer_en": "Harishchandra-upakhyana",
-      "answer_as": "হৰিশ্চন্দ্ৰ-উপাখ্যান"
+      "answer_as": "হৰিশ্চন্দ্ৰ-উপাখ্যান",
+      "options_en": [
+        "Naam Ghosha",
+        "Harishchandra-upakhyana",
+        "Bhakti-ratnavali",
+        "Naam-malika"
+      ],
+      "options_as": [
+        "নামঘোষা",
+        "হৰিশ্চন্দ্ৰ উপাখ্যান",
+        "ভক্তি-ৰত্নাৱলী",
+        "নাম-মালিকা"
+      ],
+      "correct": 1,
+      "explanation_en": "Harishchandra-upakhyana is a genuine work of Sankardeva; the others were not composed by him.",
+      "explanation_as": "হৰিশ্চন্দ্ৰ উপাখ্যান শংকৰদেৱৰ প্ৰকৃত কৰ্ম; বাকীবোৰ তেওঁ ৰচনা কৰা নাই।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Which of the following art forms of Assam developed directly from the Neo-Vaishnavite movement?",
       "question_as": "নৱ-বৈষ্ণৱ আন্দোলনৰ পৰা পোনপটীয়াকৈ বিকশিত হোৱা অসমৰ শিল্পকলা কোনবোৰ?",
       "answer_en": "Borgeet, Ankiya Naat and Sattriya dance",
-      "answer_as": "বৰগীত, অংকীয়া নাট আৰু সত্ৰীয়া নৃত্য"
+      "answer_as": "বৰগীত, অংকীয়া নাট আৰু সত্ৰীয়া নৃত্য",
+      "options_en": [
+        "Bihu dance, Ojapali and Tokari geet",
+        "Sattriya dance, Bihu and Borgeet",
+        "Ankiya Naat, Bihu and Ojapali",
+        "Borgeet, Ankiya Naat and Sattriya dance"
+      ],
+      "options_as": [
+        "বিহু নৃত্য, ওজাপালি আৰু টোকাৰী গীত",
+        "সত্ৰীয়া নৃত্য, বিহু আৰু বৰগীত",
+        "অংকীয়া নাট, বিহু আৰু ওজাপালি",
+        "বৰগীত, অংকীয়া নাট আৰু সত্ৰীয়া নৃত্য"
+      ],
+      "correct": 3,
+      "explanation_en": "Borgeet, Ankiya Naat and Sattriya dance developed directly from the Neo-Vaishnavite movement.",
+      "explanation_as": "বৰগীত, অংকীয়া নাট আৰু সত্ৰীয়া নৃত্য নৱ-বৈষ্ণৱ আন্দোলনৰ পৰা প্ৰত্যক্ষভাৱে বিকশিত হৈছিল।"
     },
     {
       "category": "Neo-Vaishnavite Movement (Sankardeva & Madhavdeva)",
       "question_en": "Consider the following statements:\n(1) Madhavdeva was a Shakta before his conversion and embraced Vaishnavism at the age of 32.\n(2) Sankardeva visited Puri twice.\nWhich is/are correct?",
       "question_as": "তলৰ বিবৃতিসমূহ বিবেচনা কৰা:\n(১) ধৰ্ম পৰিৱৰ্তনৰ আগত মাধৱদেৱ শাক্ত আছিল আৰু ৩২ বছৰ বয়সত বৈষ্ণৱ ধৰ্ম গ্ৰহণ কৰিছিল।\n(২) শংকৰদেৱে পুৰী দুবাৰ ভ্ৰমণ কৰিছিল।\nকোনটো/কোনবোৰ শুদ্ধ?",
       "answer_en": "Both 1 and 2",
-      "answer_as": "১ আৰু ২ দুয়ো"
+      "answer_as": "১ আৰু ২ দুয়ো",
+      "options_en": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "options_as": [
+        "কেৱল ১",
+        "কেৱল ২",
+        "১ আৰু ২ দুয়োটাই",
+        "১ বা ২ এটাও নহয়"
+      ],
+      "correct": 2,
+      "explanation_en": "Madhavdeva was a Shakta before conversion and embraced Vaishnavism at 32, and Sankardeva visited Puri twice.",
+      "explanation_as": "মাধৱদেৱ ধৰ্মান্তৰৰ আগতে শাক্ত আছিল আৰু ৩২ বছৰত বৈষ্ণৱ ধৰ্ম গ্ৰহণ কৰিছিল, আৰু শংকৰদেৱে দুবাৰ পুৰী ভ্ৰমণ কৰিছিল।"
     }
   ]
 }

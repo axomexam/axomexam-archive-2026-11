@@ -30,6 +30,29 @@
       "a": {
         "en": "Raja Rammohan Roy.",
         "as": "ৰাজা ৰামমোহন ৰায়।"
+      },
+      "options": [
+        {
+          "en": "Raja Rammohan Roy",
+          "as": "ৰাজা ৰামমোহন ৰায়"
+        },
+        {
+          "en": "Swami Vivekananda",
+          "as": "স্বামী বিবেকানন্দ"
+        },
+        {
+          "en": "Swami Dayananda Saraswati",
+          "as": "স্বামী দয়ানন্দ সৰস্বতী"
+        },
+        {
+          "en": "Ishwar Chandra Vidyasagar",
+          "as": "ঈশ্বৰ চন্দ্ৰ বিদ্যাসাগৰ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Raja Rammohan Roy is regarded as the Father of Indian Renaissance.",
+        "as": "ৰাজা ৰামমোহন ৰায়ক ভাৰতীয় নৱজাগৰণৰ পিতৃ বুলি গণ্য কৰা হয়।"
       }
     },
     {
@@ -40,6 +63,29 @@
       "a": {
         "en": "Raja Rammohan Roy, in 1828 AD.",
         "as": "ৰাজা ৰামমোহন ৰায়ে, ১৮২৮ চনত।"
+      },
+      "options": [
+        {
+          "en": "Debendranath Tagore, in 1839 AD",
+          "as": "দেৱেন্দ্ৰনাথ ঠাকুৰ, ১৮৩৯ চনত"
+        },
+        {
+          "en": "Keshab Chandra Sen, in 1866 AD",
+          "as": "কেশৱ চন্দ্ৰ সেন, ১৮৬৬ চনত"
+        },
+        {
+          "en": "Swami Dayananda, in 1875 AD",
+          "as": "স্বামী দয়ানন্দ, ১৮৭৫ চনত"
+        },
+        {
+          "en": "Raja Rammohan Roy, in 1828 AD",
+          "as": "ৰাজা ৰামমোহন ৰায়, ১৮২৮ চনত"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Raja Rammohan Roy founded the Brahmo Samaj in 1828 AD.",
+        "as": "ৰাজা ৰামমোহন ৰায়ে ১৮২৮ চনত ব্ৰাহ্ম সমাজ প্ৰতিষ্ঠা কৰিছিল।"
       }
     },
     {
@@ -50,6 +96,29 @@
       "a": {
         "en": "Belief in one formless God and the rejection of idol worship, superstition and caste discrimination.",
         "as": "এক নিৰাকাৰ ঈশ্বৰত বিশ্বাস আৰু মূৰ্তি পূজা, কুসংস্কাৰ আৰু জাতিভেদ অস্বীকাৰ।"
+      },
+      "options": [
+        {
+          "en": "Belief in many gods and idol worship",
+          "as": "অনেক দেৱতাত বিশ্বাস আৰু মূৰ্তি উপাসনা"
+        },
+        {
+          "en": "Belief in the infallibility of the Vedas only",
+          "as": "কেৱল বেদৰ অপৌৰুষেয়তাত বিশ্বাস"
+        },
+        {
+          "en": "Belief in caste-based rituals",
+          "as": "জাতিভিত্তিক আচাৰত বিশ্বাস"
+        },
+        {
+          "en": "Belief in one formless God and rejection of idol worship, superstition and caste discrimination",
+          "as": "নিৰাকাৰ এক ঈশ্বৰত বিশ্বাস আৰু মূৰ্তি উপাসনা, কুসংস্কাৰ তথা জাতিভেদ নাকচ কৰা"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "The Brahmo Samaj believed in one formless God and rejected idol worship, superstition and caste discrimination.",
+        "as": "ব্ৰাহ্ম সমাজে নিৰাকাৰ এক ঈশ্বৰত বিশ্বাস কৰিছিল আৰু মূৰ্তি উপাসনা, কুসংস্কাৰ তথা জাতিভেদ নাকচ কৰিছিল।"
       }
     },
     {
@@ -60,6 +129,29 @@
       "a": {
         "en": "The abolition of Sati, which was legalised by Lord William Bentinck in 1829.",
         "as": "সতীদাহ প্ৰথা বাতিল, যিটো লৰ্ড উইলিয়াম বেণ্টিংকে ১৮২৯ চনত আইনগতভাৱে নিষিদ্ধ কৰিছিল।"
+      },
+      "options": [
+        {
+          "en": "The abolition of Sati, legalised by Lord William Bentinck in 1829",
+          "as": "সতীদাহ প্ৰথাৰ বিলোপ, ১৮২৯ চনত লৰ্ড উইলিয়াম বেণ্টিঙ্কে আইনী ৰূপ দিয়া"
+        },
+        {
+          "en": "The abolition of child marriage in 1829",
+          "as": "১৮২৯ চনত শিশু বিবাহ বিলোপ"
+        },
+        {
+          "en": "The introduction of widow remarriage in 1856",
+          "as": "১৮৫৬ চনত বিধৱা বিবাহ প্ৰৱৰ্তন"
+        },
+        {
+          "en": "The abolition of the caste system",
+          "as": "জাতিভেদ প্ৰথা বিলোপ"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Raja Rammohan Roy championed the abolition of Sati, which was legalised by Lord William Bentinck in 1829.",
+        "as": "ৰাজা ৰামমোহন ৰায়ে সতীদাহ বিলোপৰ বাবে যুঁজ দিছিল, যাক ১৮২৯ চনত লৰ্ড উইলিয়াম বেণ্টিঙ্কে আইনী ৰূপ দিছিল।"
       }
     },
     {
@@ -70,6 +162,29 @@
       "a": {
         "en": "Lord William Bentinck, in 1829 AD.",
         "as": "লৰ্ড উইলিয়াম বেণ্টিংকে, ১৮২৯ চনত।"
+      },
+      "options": [
+        {
+          "en": "Lord Dalhousie, in 1856 AD",
+          "as": "লৰ্ড ডালহাউজি, ১৮৫৬ চনত"
+        },
+        {
+          "en": "Lord William Bentinck, in 1829 AD",
+          "as": "লৰ্ড উইলিয়াম বেণ্টিঙ্ক, ১৮২৯ চনত"
+        },
+        {
+          "en": "Lord Curzon, in 1899 AD",
+          "as": "লৰ্ড কাৰ্জন, ১৮৯৯ চনত"
+        },
+        {
+          "en": "Warren Hastings, in 1772 AD",
+          "as": "ৱাৰেন হেষ্টিংছ, ১৭৭২ চনত"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Lord William Bentinck abolished Sati in 1829 AD.",
+        "as": "লৰ্ড উইলিয়াম বেণ্টিঙ্কে ১৮২৯ চনত সতীদাহ প্ৰথা বিলোপ কৰিছিল।"
       }
     },
     {
@@ -80,6 +195,29 @@
       "a": {
         "en": "His disciple William Carey and the support of Governor Bentinck.",
         "as": "তেওঁৰ শিষ্য উইলিয়াম কেৰী আৰু গৱৰ্ণৰ বেণ্টিংকৰ সমৰ্থন।"
+      },
+      "options": [
+        {
+          "en": "Swami Dayananda Saraswati",
+          "as": "স্বামী দয়ানন্দ সৰস্বতী"
+        },
+        {
+          "en": "Debendranath Tagore",
+          "as": "দেৱেন্দ্ৰনাথ ঠাকুৰ"
+        },
+        {
+          "en": "Jyotirao Phule",
+          "as": "জ্যোতিবা ফুলে"
+        },
+        {
+          "en": "His disciple William Carey and the support of Governor Bentinck",
+          "as": "তেওঁৰ শিষ্য ৱিলিয়াম কেৰী আৰু গৱৰ্নৰ বেণ্টিঙ্কৰ সমৰ্থন"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Rammohan Roy was supported by his disciple William Carey and by Governor Bentinck in the abolition of Sati.",
+        "as": "সতীদাহ বিলোপত ৰামমোহন ৰায়ক তেওঁৰ শিষ্য ৱিলিয়াম কেৰী আৰু গৱৰ্নৰ বেণ্টিঙ্কে সমৰ্থন কৰিছিল।"
       }
     },
     {
@@ -90,6 +228,29 @@
       "a": {
         "en": "Debendranath Tagore, in 1839 AD.",
         "as": "দেবেন্দ্ৰনাথ ঠাকুৰে, ১৮৩৯ চনত।"
+      },
+      "options": [
+        {
+          "en": "Raja Rammohan Roy, in 1828 AD",
+          "as": "ৰাজা ৰামমোহন ৰায়, ১৮২৮ চনত"
+        },
+        {
+          "en": "Keshab Chandra Sen, in 1866 AD",
+          "as": "কেশৱ চন্দ্ৰ সেন, ১৮৬৬ চনত"
+        },
+        {
+          "en": "Debendranath Tagore, in 1839 AD",
+          "as": "দেৱেন্দ্ৰনাথ ঠাকুৰ, ১৮৩৯ চনত"
+        },
+        {
+          "en": "Annie Besant, in 1893 AD",
+          "as": "এনি বেছাণ্ট, ১৮৯৩ চনত"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Debendranath Tagore founded the Tattwabodhini Sabha in 1839 AD.",
+        "as": "দেৱেন্দ্ৰনাথ ঠাকুৰে ১৮৩৯ চনত তত্ত্ববোধিনী সভা প্ৰতিষ্ঠা কৰিছিল।"
       }
     },
     {
@@ -100,6 +261,29 @@
       "a": {
         "en": "Debendranath Tagore and later Keshab Chandra Sen.",
         "as": "দেবেন্দ্ৰনাথ ঠাকুৰ আৰু পিছত কেশৱ চন্দ্ৰ সেন।"
+      },
+      "options": [
+        {
+          "en": "Swami Dayananda Saraswati and later Annie Besant",
+          "as": "স্বামী দয়ানন্দ সৰস্বতী আৰু পিছত এনি বেছাণ্ট"
+        },
+        {
+          "en": "Jyotirao Phule and later B.R. Ambedkar",
+          "as": "জ্যোতিবা ফুলে আৰু পিছত বি. আৰ. আম্বেদকাৰ"
+        },
+        {
+          "en": "Debendranath Tagore and later Keshab Chandra Sen",
+          "as": "দেৱেন্দ্ৰনাথ ঠাকুৰ আৰু পিছত কেশৱ চন্দ্ৰ সেন"
+        },
+        {
+          "en": "Ishwar Chandra Vidyasagar and later Vivekananda",
+          "as": "ঈশ্বৰ চন্দ্ৰ বিদ্যাসাগৰ আৰু পিছত বিবেকানন্দ"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "After Rammohan Roy, the Brahmo Samaj was led by Debendranath Tagore and later by Keshab Chandra Sen.",
+        "as": "ৰামমোহন ৰায়ৰ পিছত ব্ৰাহ্ম সমাজৰ নেতৃত্ব দেৱেন্দ্ৰনাথ ঠাকুৰে আৰু পিছত কেশৱ চন্দ্ৰ সেনে লৈছিল।"
       }
     },
     {
@@ -110,6 +294,29 @@
       "a": {
         "en": "Keshab Chandra Sen, in 1866 AD.",
         "as": "কেশৱ চন্দ্ৰ সেনে, ১৮৬৬ চনত।"
+      },
+      "options": [
+        {
+          "en": "Debendranath Tagore, in 1839 AD",
+          "as": "দেৱেন্দ্ৰনাথ ঠাকুৰ, ১৮৩৯ চনত"
+        },
+        {
+          "en": "Raja Rammohan Roy, in 1828 AD",
+          "as": "ৰাজা ৰামমোহন ৰায়, ১৮২৮ চনত"
+        },
+        {
+          "en": "Dayananda Saraswati, in 1875 AD",
+          "as": "দয়ানন্দ সৰস্বতী, ১৮৭৫ চনত"
+        },
+        {
+          "en": "Keshab Chandra Sen, in 1866 AD",
+          "as": "কেশৱ চন্দ্ৰ সেন, ১৮৬৬ চনত"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Keshab Chandra Sen founded the breakaway Brahmo Samaj of India in 1866 AD.",
+        "as": "কেশৱ চন্দ্ৰ সেনে ১৮৬৬ চনত পৃথক ব্ৰাহ্ম সমাজ অৱ ইণ্ডিয়া প্ৰতিষ্ঠা কৰিছিল।"
       }
     },
     {
@@ -120,6 +327,29 @@
       "a": {
         "en": "Swami Dayananda Saraswati, in 1875 AD.",
         "as": "স্বামী দয়ানন্দ সৰস্বতীয়ে, ১৮৭৫ চনত।"
+      },
+      "options": [
+        {
+          "en": "Raja Rammohan Roy, in 1828 AD",
+          "as": "ৰাজা ৰামমোহন ৰায়, ১৮২৮ চনত"
+        },
+        {
+          "en": "Swami Vivekananda, in 1897 AD",
+          "as": "স্বামী বিবেকানন্দ, ১৮৯৭ চনত"
+        },
+        {
+          "en": "Swami Dayananda Saraswati, in 1875 AD",
+          "as": "স্বামী দয়ানন্দ সৰস্বতী, ১৮৭৫ চনত"
+        },
+        {
+          "en": "Jyotirao Phule, in 1873 AD",
+          "as": "জ্যোতিবা ফুলে, ১৮৭৩ চনত"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "Swami Dayananda Saraswati founded the Arya Samaj in 1875 AD.",
+        "as": "স্বামী দয়ানন্দ সৰস্বতীয়ে ১৮৭৫ চনত আৰ্যসমাজ প্ৰতিষ্ঠা কৰিছিল।"
       }
     },
     {
@@ -130,6 +360,29 @@
       "a": {
         "en": "'Back to the Vedas' and 'India for Indians'.",
         "as": "'বেদলৈ ঘূৰি যোৱা' আৰু 'ভাৰতীয়সকলৰ বাবে ভাৰত'।"
+      },
+      "options": [
+        {
+          "en": "'One God, one religion'",
+          "as": "'এক ঈশ্বৰ, এক ধৰ্ম'"
+        },
+        {
+          "en": "'Back to the Vedas' and 'India for Indians'",
+          "as": "'বেদলৈ উভতি যাওক' আৰু 'ভাৰতীয়সকলৰ বাবে ভাৰত'"
+        },
+        {
+          "en": "'Educate, agitate, organise'",
+          "as": "'শিক্ষিত হোৱা, আন্দোলন কৰা, সংগঠিত হোৱা'"
+        },
+        {
+          "en": "'Satyameva Jayate'",
+          "as": "'সত্যমেৱ জয়তে'"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The motto of the Arya Samaj was 'Back to the Vedas' and 'India for Indians'.",
+        "as": "আৰ্যসমাজৰ মূলমন্ত্ৰ আছিল 'বেদলৈ উভতি যাওক' আৰু 'ভাৰতীয়সকলৰ বাবে ভাৰত'।"
       }
     },
     {
@@ -140,6 +393,29 @@
       "a": {
         "en": "The Arya Samaj after the death of Dayananda, following his vision of education.",
         "as": "দয়ানন্দৰ মৃত্যুৰ পিছত আৰ্য সমাজে, তেওঁৰ শিক্ষা দৰ্শন অনুসৰণ কৰি।"
+      },
+      "options": [
+        {
+          "en": "The Brahmo Samaj under Keshab Chandra Sen",
+          "as": "কেশৱ চন্দ্ৰ সেনৰ অধীনত ব্ৰাহ্ম সমাজ"
+        },
+        {
+          "en": "The Ramakrishna Mission under Vivekananda",
+          "as": "বিবেকানন্দৰ অধীনত ৰামকৃষ্ণ মিছন"
+        },
+        {
+          "en": "The Arya Samaj after the death of Dayananda, following his vision of education",
+          "as": "দয়ানন্দৰ মৃত্যুৰ পিছত তেওঁৰ শিক্ষা-দৰ্শন অনুসৰি আৰ্যসমাজ"
+        },
+        {
+          "en": "The Theosophical Society under Annie Besant",
+          "as": "এনি বেছাণ্টৰ অধীনত থিঅ’চফিকেল ছ’চাইটি"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Dayanand Anglo-Vedic schools were founded by the Arya Samaj after Dayananda's death, following his educational vision.",
+        "as": "দয়ানন্দ এংলো-বৈদিক বিদ্যালয়সমূহ দয়ানন্দৰ মৃত্যুৰ পিছত তেওঁৰ শিক্ষা-দৰ্শন অনুসৰি আৰ্যসমাজে প্ৰতিষ্ঠা কৰিছিল।"
       }
     },
     {
@@ -150,6 +426,29 @@
       "a": {
         "en": "A movement to reconvert Hindus who had converted to other religions.",
         "as": "অন্য ধৰ্মলৈ ধৰ্মান্তৰিত হোৱা হিন্দুসকলক পুনৰায় ধৰ্মান্তৰিত কৰাৰ আন্দোলন।"
+      },
+      "options": [
+        {
+          "en": "A movement to reconvert Hindus who had converted to other religions",
+          "as": "অন্য ধৰ্মত ধৰ্মান্তৰিত হোৱা হিন্দুসকলক পুনৰ হিন্দু ধৰ্মত অন্তৰ্ভুক্ত কৰাৰ আন্দোলন"
+        },
+        {
+          "en": "A movement to abolish Sati",
+          "as": "সতীদাহ বিলোপৰ আন্দোলন"
+        },
+        {
+          "en": "A movement for widow remarriage",
+          "as": "বিধৱা বিবাহৰ আন্দোলন"
+        },
+        {
+          "en": "A movement to promote English education",
+          "as": "ইংৰাজী শিক্ষা প্ৰসাৰৰ আন্দোলন"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Shuddhi movement of the Arya Samaj aimed to reconvert Hindus who had converted to other religions.",
+        "as": "আৰ্যসমাজৰ শুদ্ধি আন্দোলনৰ উদ্দেশ্য আছিল অন্য ধৰ্মত ধৰ্মান্তৰিত হোৱা হিন্দুসকলক পুনৰ হিন্দু ধৰ্মত অন্তৰ্ভুক্ত কৰা।"
       }
     },
     {
@@ -160,6 +459,29 @@
       "a": {
         "en": "Swami Dayananda Saraswati.",
         "as": "স্বামী দয়ানন্দ সৰস্বতীয়ে।"
+      },
+      "options": [
+        {
+          "en": "Raja Rammohan Roy",
+          "as": "ৰাজা ৰামমোহন ৰায়"
+        },
+        {
+          "en": "Swami Dayananda Saraswati",
+          "as": "স্বামী দয়ানন্দ সৰস্বতী"
+        },
+        {
+          "en": "Debendranath Tagore",
+          "as": "দেৱেন্দ্ৰনাথ ঠাকুৰ"
+        },
+        {
+          "en": "Swami Vivekananda",
+          "as": "স্বামী বিবেকানন্দ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Swami Dayananda Saraswati wrote the book 'Satyarth Prakash'.",
+        "as": "স্বামী দয়ানন্দ সৰস্বতীয়ে 'সত্যাৰ্থ প্ৰকাশ' গ্ৰন্থ ৰচনা কৰিছিল।"
       }
     },
     {
@@ -170,6 +492,29 @@
       "a": {
         "en": "Swami Vivekananda, in 1897 AD.",
         "as": "স্বামী বিবেকানন্দই, ১৮৯৭ চনত।"
+      },
+      "options": [
+        {
+          "en": "Sri Ramakrishna, in 1886 AD",
+          "as": "শ্ৰী ৰামকৃষ্ণ, ১৮৮৬ চনত"
+        },
+        {
+          "en": "Raja Rammohan Roy, in 1828 AD",
+          "as": "ৰাজা ৰামমোহন ৰায়, ১৮২৮ চনত"
+        },
+        {
+          "en": "Annie Besant, in 1898 AD",
+          "as": "এনি বেছাণ্ট, ১৮৯৮ চনত"
+        },
+        {
+          "en": "Swami Vivekananda, in 1897 AD",
+          "as": "স্বামী বিবেকানন্দ, ১৮৯৭ চনত"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Swami Vivekananda founded the Ramakrishna Mission in 1897 AD.",
+        "as": "স্বামী বিবেকানন্দে ১৮৯৭ চনত ৰামকৃষ্ণ মিছন প্ৰতিষ্ঠা কৰিছিল।"
       }
     },
     {
@@ -180,6 +525,29 @@
       "a": {
         "en": "Sri Ramakrishna Paramahamsa.",
         "as": "শ্ৰী ৰামকৃষ্ণ পৰমহংস।"
+      },
+      "options": [
+        {
+          "en": "Sri Ramakrishna Paramahamsa",
+          "as": "শ্ৰী ৰামকৃষ্ণ পৰমহংস"
+        },
+        {
+          "en": "Swami Dayananda Saraswati",
+          "as": "স্বামী দয়ানন্দ সৰস্বতী"
+        },
+        {
+          "en": "Debendranath Tagore",
+          "as": "দেৱেন্দ্ৰনাথ ঠাকুৰ"
+        },
+        {
+          "en": "Keshab Chandra Sen",
+          "as": "কেশৱ চন্দ্ৰ সেন"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Sri Ramakrishna Paramahamsa was the spiritual guru of Swami Vivekananda.",
+        "as": "শ্ৰী ৰামকৃষ্ণ পৰমহংস স্বামী বিবেকানন্দৰ আধ্যাত্মিক গুৰু আছিল।"
       }
     },
     {
@@ -190,6 +558,29 @@
       "a": {
         "en": "At the Parliament of World Religions in Chicago in 1893 AD.",
         "as": "১৮৯৩ চনত শিকাগোত অনুষ্ঠিত ধৰ্ম মহাসভাত (পাৰ্লিয়ামেণ্ট অফ ৱৰ্ল্ড ৰিলিজিয়নছ)।"
+      },
+      "options": [
+        {
+          "en": "At the Indian National Congress session in 1893 AD",
+          "as": "১৮৯৩ চনত ভাৰতীয় জাতীয় কংগ্ৰেছৰ অধিৱেশনত"
+        },
+        {
+          "en": "At the Parliament of World Religions in Chicago in 1893 AD",
+          "as": "১৮৯৩ চনত চিকাগোত অনুষ্ঠিত বিশ্ব ধৰ্ম মহাসভাত"
+        },
+        {
+          "en": "At the Theosophical Society in Adyar",
+          "as": "আড্যাৰৰ থিঅ’চফিকেল ছ’চাইটিৰ সভাত"
+        },
+        {
+          "en": "At the Arya Samaj meeting in Lahore",
+          "as": "লাহোৰত আৰ্যসমাজৰ সভাত"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Vivekananda delivered his famous speech on Hinduism at the Parliament of World Religions in Chicago in 1893 AD.",
+        "as": "বিবেকানন্দই ১৮৯৩ চনত চিকাগোত বিশ্ব ধৰ্ম মহাসভাত হিন্দু ধৰ্মৰ ওপৰত বিখ্যাত ভাষণ দিছিল।"
       }
     },
     {
@@ -200,6 +591,29 @@
       "a": {
         "en": "Madam H.P. Blavatsky and Colonel H.S. Olcott, with headquarters at Adyar (Madras).",
         "as": "মেডাম এইচ.পি. ব্লাভাটস্কি আৰু কৰ্ণেল এইচ.এছ. অলকটে, যিসকলৰ মুখ্য কেন্দ্ৰ আছিল অদ্যৰ (মাদ্ৰাজ)।"
+      },
+      "options": [
+        {
+          "en": "Madam H.P. Blavatsky and Colonel H.S. Olcott, with headquarters at Adyar",
+          "as": "মেডাম এইচ. পি. ব্লাৱাটস্কি আৰু কৰ্ণেল এইচ. এছ. অলকট, মুখ্য কাৰ্যালয় আড্যাৰত"
+        },
+        {
+          "en": "Annie Besant and Mahatma Gandhi, with headquarters at Bombay",
+          "as": "এনি বেছাণ্ট আৰু মহাত্মা গান্ধী, মুখ্য কাৰ্যালয় বম্বেত"
+        },
+        {
+          "en": "Raja Rammohan Roy and Debendranath Tagore, with headquarters at Calcutta",
+          "as": "ৰাজা ৰামমোহন ৰায় আৰু দেৱেন্দ্ৰনাথ ঠাকুৰ, মুখ্য কাৰ্যালয় কলিকতাত"
+        },
+        {
+          "en": "Swami Vivekananda and Sister Nivedita, with headquarters at Madras",
+          "as": "স্বামী বিবেকানন্দ আৰু ছিষ্টাৰ নিবেদিতা, মুখ্য কাৰ্যালয় মাদ্ৰাজত"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Theosophical Society in India was founded by Madam H.P. Blavatsky and Colonel H.S. Olcott, with headquarters at Adyar.",
+        "as": "ভাৰতত থিঅ’চফিকেল ছ’চাইটি মেডাম এইচ. পি. ব্লাৱাটস্কি আৰু কৰ্ণেল এইচ. এছ. অলকটে প্ৰতিষ্ঠা কৰিছিল, মুখ্য কাৰ্যালয় আড্যাৰত।"
       }
     },
     {
@@ -210,6 +624,29 @@
       "a": {
         "en": "Annie Besant.",
         "as": "এনি বেচাণ্ট।"
+      },
+      "options": [
+        {
+          "en": "Annie Besant",
+          "as": "এনি বেছাণ্ট"
+        },
+        {
+          "en": "Madam Blavatsky",
+          "as": "মেডাম ব্লাৱাটস্কি"
+        },
+        {
+          "en": "Sarojini Naidu",
+          "as": "সৰোজিনী নাইডু"
+        },
+        {
+          "en": "Keshab Chandra Sen",
+          "as": "কেশৱ চন্দ্ৰ সেন"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "Annie Besant was the president of the Theosophical Society who became a leading Indian nationalist.",
+        "as": "এনি বেছাণ্ট থিঅ’চফিকেল ছ’চাইটিটিৰ সভানেত্ৰী আছিল আৰু পিছত এগৰাকী প্ৰধান ভাৰতীয় জাতীয়তাবাদী নেত্ৰী হৈছিল।"
       }
     },
     {
@@ -220,6 +657,29 @@
       "a": {
         "en": "Mahadev Govind Ranade and R.G. Bhandarkar.",
         "as": "মহাদেৱ গোবিন্দ ৰানাডে আৰু আৰ.জি. ভাণ্ডাৰকাৰ।"
+      },
+      "options": [
+        {
+          "en": "Jyotirao Phule and Savitribai Phule",
+          "as": "জ্যোতিবা ফুলে আৰু সবিত্ৰীবাই ফুলে"
+        },
+        {
+          "en": "Raja Rammohan Roy and William Carey",
+          "as": "ৰাজা ৰামমোহন ৰায় আৰু ৱিলিয়াম কেৰী"
+        },
+        {
+          "en": "Mahadev Govind Ranade and R.G. Bhandarkar",
+          "as": "মহাদেৱ গোবিন্দ ৰানাডে আৰু আৰ. জি. ভাণ্ডাৰকৰ"
+        },
+        {
+          "en": "Dayananda Saraswati and Lala Lajpat Rai",
+          "as": "দয়ানন্দ সৰস্বতী আৰু লালা লাজপত ৰায়"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The Prarthana Samaj in Bombay was founded by Mahadev Govind Ranade and R.G. Bhandarkar.",
+        "as": "বম্বেত প্ৰাৰ্থনা সমাজ মহাদেৱ গোবিন্দ ৰানাডে আৰু আৰ. জি. ভাণ্ডাৰকৰে প্ৰতিষ্ঠা কৰিছিল।"
       }
     },
     {
@@ -230,6 +690,29 @@
       "a": {
         "en": "Jyotirao Phule, in 1873 AD.",
         "as": "জ্যোতিবা ফুলে, ১৮৭৩ চনত।"
+      },
+      "options": [
+        {
+          "en": "Raja Rammohan Roy, in 1828 AD",
+          "as": "ৰাজা ৰামমোহন ৰায়, ১৮২৮ চনত"
+        },
+        {
+          "en": "Swami Dayananda, in 1875 AD",
+          "as": "স্বামী দয়ানন্দ, ১৮৭৫ চনত"
+        },
+        {
+          "en": "B.R. Ambedkar, in 1927 AD",
+          "as": "বি. আৰ. আম্বেদকাৰ, ১৯২৭ চনত"
+        },
+        {
+          "en": "Jyotirao Phule, in 1873 AD",
+          "as": "জ্যোতিবা ফুলে, ১৮৭৩ চনত"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Jyotirao Phule founded the Satya Shodhak Samaj in 1873 AD.",
+        "as": "জ্যোতিবা ফুলে ১৮৭৩ চনত সত্য শোধক সমাজ প্ৰতিষ্ঠা কৰিছিল।"
       }
     },
     {
@@ -240,6 +723,29 @@
       "a": {
         "en": "To fight against caste oppression and the domination of the Brahmins.",
         "as": "জাতিগত অত্যাচাৰ আৰু ব্ৰাহ্মণ প্ৰভুত্বৰ বিৰুদ্ধে যুঁজ।"
+      },
+      "options": [
+        {
+          "en": "To promote widow remarriage",
+          "as": "বিধৱা বিবাহ প্ৰসাৰ কৰা"
+        },
+        {
+          "en": "To spread English education",
+          "as": "ইংৰাজী শিক্ষা বিস্তাৰ কৰা"
+        },
+        {
+          "en": "To fight against caste oppression and the domination of the Brahmins",
+          "as": "জাতিভেদ অত্যাচাৰ আৰু ব্ৰাহ্মণসকলৰ আধিপত্যৰ বিৰুদ্ধে যুঁজ দিয়া"
+        },
+        {
+          "en": "To abolish Sati",
+          "as": "সতীদাহ বিলোপ কৰা"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "The main aim of the Satya Shodhak Samaj was to fight caste oppression and the domination of the Brahmins.",
+        "as": "সত্য শোধক সমাজৰ মূল উদ্দেশ্য আছিল জাতিভেদ অত্যাচাৰ আৰু ব্ৰাহ্মণসকলৰ আধিপত্যৰ বিৰুদ্ধে যুঁজ দিয়া।"
       }
     },
     {
@@ -250,6 +756,29 @@
       "a": {
         "en": "Jyotirao Phule.",
         "as": "জ্যোতিবা ফুলে।"
+      },
+      "options": [
+        {
+          "en": "Raja Rammohan Roy",
+          "as": "ৰাজা ৰামমোহন ৰায়"
+        },
+        {
+          "en": "Jyotirao Phule",
+          "as": "জ্যোতিবা ফুলে"
+        },
+        {
+          "en": "B.R. Ambedkar",
+          "as": "বি. আৰ. আম্বেদকাৰ"
+        },
+        {
+          "en": "Swami Dayananda",
+          "as": "স্বামী দয়ানন্দ"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Jyotirao Phule wrote 'Gulamgiri' (Slavery).",
+        "as": "জ্যোতিবা ফুলে 'গুলামগিৰি' (দাসত্ব) গ্ৰন্থ ৰচনা কৰিছিল।"
       }
     },
     {
@@ -260,6 +789,29 @@
       "a": {
         "en": "Savitribai Phule.",
         "as": "সাবিত্ৰীবাই ফুলে।"
+      },
+      "options": [
+        {
+          "en": "Annie Besant",
+          "as": "এনি বেছাণ্ট"
+        },
+        {
+          "en": "Savitribai Phule",
+          "as": "সবিত্ৰীবাই ফুলে"
+        },
+        {
+          "en": "Pandita Ramabai",
+          "as": "পণ্ডিতা ৰমাবাই"
+        },
+        {
+          "en": "Sarojini Naidu",
+          "as": "সৰোজিনী নাইডু"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "Savitribai Phule, the wife of Jyotirao Phule, worked for women's education.",
+        "as": "জ্যোতিবা ফুলেৰ পত্নী সবিত্ৰীবাই ফুলে মহিলাৰ শিক্ষাৰ বাবে কাম কৰিছিল।"
       }
     },
     {
@@ -270,6 +822,29 @@
       "a": {
         "en": "Vishnushastri Pandit, a reformer from Bombay.",
         "as": "বম্বেৰ সংস্কাৰক বিষ্ণুশাস্ত্ৰী পণ্ডিতে।"
+      },
+      "options": [
+        {
+          "en": "Vishnushastri Pandit, a reformer from Bombay",
+          "as": "মুম্বাইৰ সংস্কাৰক বিষ্ণুশাস্ত্ৰী পণ্ডিত"
+        },
+        {
+          "en": "Raja Rammohan Roy",
+          "as": "ৰাজা ৰামমোহন ৰায়"
+        },
+        {
+          "en": "Ishwar Chandra Vidyasagar",
+          "as": "ঈশ্বৰ চন্দ্ৰ বিদ্যাসাগৰ"
+        },
+        {
+          "en": "Jyotirao Phule",
+          "as": "জ্যোতিবা ফুলে"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "en": "The Widow Remarriage Association was founded by Vishnushastri Pandit, a reformer from Bombay.",
+        "as": "বিধৱা বিবাহ সংঘ মুম্বাইৰ সংস্কাৰক বিষ্ণুশাস্ত্ৰী পণ্ডিতে প্ৰতিষ্ঠা কৰিছিল।"
       }
     },
     {
