@@ -463,14 +463,24 @@
       "converted": 36,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/modern-literature-major-writers.json",
+      "converted": 36,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/foreign-trade-fdi-wto-imf-wb.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 7228,
-  "remaining_questions": 2672,
-  "remaining_files": 86,
+  "total_converted": 7299,
+  "remaining_questions": 2601,
+  "remaining_files": 84,
   "next_files": [
-    "data/content/gk/modern-literature-major-writers.json",
-    "data/content/gk/foreign-trade-fdi-wto-imf-wb.json",
     "data/content/gk/sattras-charaideo-maidams-assam.json",
     "data/content/gk/transport-highways-railways-ports-india.json",
     "data/content/gk/demography-census-sexratio-literacy-india.json",
@@ -478,7 +488,9 @@
     "data/content/gk/physical-himalayas-plains-plateau-islands.json",
     "data/content/gk/mountain-peaks-passes-india.json",
     "data/content/gk/planning-history-niti-aayog.json",
-    "data/content/gk/capital-money-markets-sebi.json"
+    "data/content/gk/capital-money-markets-sebi.json",
+    "data/content/gk/green-revolution-msp-pds-subsidies.json",
+    "data/content/gk/energy-renewable-nonrenewable-india.json"
   ],
   "total_questions": 9900
 }
