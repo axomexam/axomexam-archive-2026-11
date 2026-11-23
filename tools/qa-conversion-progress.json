@@ -175,14 +175,19 @@
       "converted": 70,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/partition-bengal-swadeshi.json",
+      "converted": 70,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 1011,
-  "remaining_questions": 5227,
-  "remaining_files": 134,
+  "total_converted": 1081,
+  "remaining_questions": 5157,
+  "remaining_files": 133,
   "next_files": [
     "data/content/gk/medieval-assam.json",
-    "data/content/gk/partition-bengal-swadeshi.json",
     "data/content/gk/major-ahom-rulers.json",
     "data/content/gk/industrial-belts-borders-frontiers-india.json",
     "data/content/gk/constitutional-developments-acts.json",
@@ -190,6 +195,7 @@
     "data/content/gk/saraighat-itakhuli.json",
     "data/content/gk/quit-india-martyrs.json",
     "data/content/gk/national-parks.json",
-    "data/content/gk/chola-south-kingdoms.json"
+    "data/content/gk/chola-south-kingdoms.json",
+    "data/content/gk/turkish-invasions.json"
   ]
 }
