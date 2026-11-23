@@ -571,14 +571,24 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/crafts-bell-metal-brass-cane-bamboo-assam.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/inflation-price-indices-cpi-wpi.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 7859,
-  "remaining_questions": 2041,
-  "remaining_files": 68,
+  "total_converted": 7929,
+  "remaining_questions": 1971,
+  "remaining_files": 66,
   "next_files": [
-    "data/content/gk/crafts-bell-metal-brass-cane-bamboo-assam.json",
-    "data/content/gk/inflation-price-indices-cpi-wpi.json",
     "data/content/gk/physical-infrastructure-nh-rail-ports-aviation.json",
     "data/content/gk/national-income-gdp-gnp-nnp.json",
     "data/content/gk/india-agriculture-cropping-patterns.json",
@@ -586,7 +596,9 @@
     "data/content/gk/poverty-inequality-unemployment-india.json",
     "data/content/gk/climate-monsoon-soils-india.json",
     "data/content/gk/salastambha-dynasty.json",
-    "data/content/gk/music-folk-instruments-assam.json"
+    "data/content/gk/music-folk-instruments-assam.json",
+    "data/content/gk/historical-temple-architecture-assam.json",
+    "data/content/gk/manuscript-paintings-mask-making-assam.json"
   ],
   "total_questions": 9900
 }
