@@ -835,22 +835,46 @@
       "converted": 30,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/oceans-currents-trenches-rivers-lakes.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/theatre-puppetry-martial-arts-india.json",
+      "converted": 30,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/ramsar-endemic-flora-fauna-assam.json",
+      "converted": 26,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/industries-refineries-tea-gardens.json",
+      "converted": 26,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 9319,
-  "remaining_questions": 581,
-  "remaining_files": 24,
+  "total_converted": 9431,
+  "remaining_questions": 469,
+  "remaining_files": 20,
   "next_files": [
-    "data/content/gk/oceans-currents-trenches-rivers-lakes.json",
-    "data/content/gk/theatre-puppetry-martial-arts-india.json",
-    "data/content/gk/ramsar-endemic-flora-fauna-assam.json",
-    "data/content/gk/industries-refineries-tea-gardens.json",
     "data/content/gk/demography-population-density-literacy-assam.json",
     "data/content/gk/power-hydro-thermal-assam.json",
     "data/content/gk/national-parks-wls-assam.json",
     "data/content/gk/minerals-oil-gas-coal-limestone.json",
     "data/content/gk/climate-monsoon-floods-assam.json",
-    "data/content/gk/tributaries-majuli-wetlands.json"
+    "data/content/gk/tributaries-majuli-wetlands.json",
+    "data/content/gk/transport-nh-railways-waterways-assam.json",
+    "data/content/gk/tribes-distribution-assam.json",
+    "data/content/gk/tiger-biosphere-reserves-assam.json",
+    "data/content/gk/hills-karbi-dima-hasao.json"
   ],
   "total_questions": 9900
 }
