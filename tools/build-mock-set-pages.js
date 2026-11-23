@@ -468,6 +468,19 @@ function setHead(preLD, seo) {
     /<meta name="twitter:description" content="[^"]*" \/>/,
     `<meta name="twitter:description" content="${escapeHtml(seo.ogDesc)}" />`
   );
+  const asUrl = seo.url.replace("https://axomexam.in/", "https://axomexam.in/as/");
+  out = out.replace(
+    /<link rel="alternate" hreflang="en" href="[^"]*" \/>/,
+    `<link rel="alternate" hreflang="en" href="${seo.url}" />`
+  );
+  out = out.replace(
+    /<link rel="alternate" hreflang="as" href="[^"]*" \/>/,
+    `<link rel="alternate" hreflang="as" href="${asUrl}" />`
+  );
+  out = out.replace(
+    /<link rel="alternate" hreflang="x-default" href="[^"]*" \/>/,
+    `<link rel="alternate" hreflang="x-default" href="${seo.url}" />`
+  );
   return out;
 }
 
