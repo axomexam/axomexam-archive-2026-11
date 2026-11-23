@@ -187,21 +187,82 @@
       "converted": 70,
       "schema": "question_en",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/medieval-assam.json",
+      "converted": 300,
+      "schema": "question_en",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/industrial-belts-borders-frontiers-india.json",
+      "converted": 70,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/constitutional-developments-acts.json",
+      "converted": 70,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/tripartite-struggle-dynasties.json",
+      "converted": 62,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/national-parks.json",
+      "converted": 60,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/quit-india-martyrs.json",
+      "converted": 60,
+      "schema": "question_en",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/saraighat-itakhuli.json",
+      "converted": 60,
+      "schema": "question_en",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/chola-south-kingdoms.json",
+      "converted": 59,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/turkish-invasions.json",
+      "converted": 56,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/socio-cultural-awakening.json",
+      "converted": 55,
+      "schema": "question_en",
+      "status": "complete"
     }
   ],
-  "total_converted": 1151,
-  "remaining_questions": 5087,
-  "remaining_files": 132,
+  "total_converted": 5565,
+  "remaining_questions": 4335,
+  "remaining_files": 122,
   "next_files": [
-    "data/content/gk/medieval-assam.json",
-    "data/content/gk/industrial-belts-borders-frontiers-india.json",
-    "data/content/gk/constitutional-developments-acts.json",
-    "data/content/gk/tripartite-struggle-dynasties.json",
-    "data/content/gk/saraighat-itakhuli.json",
-    "data/content/gk/quit-india-martyrs.json",
-    "data/content/gk/national-parks.json",
-    "data/content/gk/chola-south-kingdoms.json",
-    "data/content/gk/turkish-invasions.json",
-    "data/content/gk/socio-cultural-awakening.json"
-  ]
+    "data/content/gk/revolt-1857-assam.json",
+    "data/content/gk/moamoria-rebellion.json",
+    "data/content/gk/jainism-buddhism.json",
+    "data/content/gk/post-mauryan-period.json",
+    "data/content/gk/mughal-empire-admin.json",
+    "data/content/gk/indus-valley-civilization.json",
+    "data/content/gk/delhi-sultanate.json",
+    "data/content/gk/later-mughals-regional-states.json",
+    "data/content/gk/maratha-empire-peshwas.json",
+    "data/content/gk/mauryan-empire.json"
+  ],
+  "total_questions": 9900
 }
