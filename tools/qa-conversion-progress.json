@@ -271,13 +271,18 @@
       "converted": 55,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/mughal-empire-admin.json",
+      "converted": 54,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 5785,
-  "remaining_questions": 4115,
-  "remaining_files": 118,
+  "total_converted": 5839,
+  "remaining_questions": 4061,
+  "remaining_files": 117,
   "next_files": [
-    "data/content/gk/mughal-empire-admin.json",
     "data/content/gk/indus-valley-civilization.json",
     "data/content/gk/delhi-sultanate.json",
     "data/content/gk/later-mughals-regional-states.json",
@@ -286,7 +291,8 @@
     "data/content/gk/prehistoric-stone-age.json",
     "data/content/gk/line-system-immigration.json",
     "data/content/gk/reorganization-assam-accord.json",
-    "data/content/gk/grouping-scheme-bordoloi.json"
+    "data/content/gk/grouping-scheme-bordoloi.json",
+    "data/content/gk/gupta-empire.json"
   ],
   "total_questions": 9900
 }
