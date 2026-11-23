@@ -511,14 +511,24 @@
       "converted": 35,
       "schema": "q",
       "status": "complete"
+    },
+    {
+      "path": "data/content/gk/planning-history-niti-aayog.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
+    },
+    {
+      "path": "data/content/gk/capital-money-markets-sebi.json",
+      "converted": 35,
+      "schema": "q",
+      "status": "complete"
     }
   ],
-  "total_converted": 7509,
-  "remaining_questions": 2391,
-  "remaining_files": 78,
+  "total_converted": 7579,
+  "remaining_questions": 2321,
+  "remaining_files": 76,
   "next_files": [
-    "data/content/gk/planning-history-niti-aayog.json",
-    "data/content/gk/capital-money-markets-sebi.json",
     "data/content/gk/green-revolution-msp-pds-subsidies.json",
     "data/content/gk/energy-renewable-nonrenewable-india.json",
     "data/content/gk/rbi-monetary-policy.json",
@@ -526,7 +536,9 @@
     "data/content/gk/vegetation-forest-types-india.json",
     "data/content/gk/core-industries-make-in-india.json",
     "data/content/gk/india-allied-sectors-dairy-fisheries.json",
-    "data/content/gk/theatre-ankiya-naat-bhaona-assam.json"
+    "data/content/gk/theatre-ankiya-naat-bhaona-assam.json",
+    "data/content/gk/crafts-bell-metal-brass-cane-bamboo-assam.json",
+    "data/content/gk/inflation-price-indices-cpi-wpi.json"
   ],
   "total_questions": 9900
 }
