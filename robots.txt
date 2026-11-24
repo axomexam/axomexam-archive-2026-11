@@ -21,6 +21,9 @@ Disallow: /tools/
 Disallow: /scripts/
 Disallow: /android/
 Disallow: /AGENTS
+Disallow: /GROWTH-ROADMAP
+Disallow: /llms-full.txt
+Disallow: /internal/
 Disallow: /SEO-AUDIT
 Disallow: /SEO-ACTION-PLAN
 Disallow: /keyword-map.csv
@@ -73,6 +76,9 @@ Disallow: /tools/
 Disallow: /scripts/
 Disallow: /android/
 Disallow: /AGENTS
+Disallow: /GROWTH-ROADMAP
+Disallow: /llms-full.txt
+Disallow: /internal/
 Disallow: /SEO-AUDIT
 Disallow: /SEO-ACTION-PLAN
 Disallow: /keyword-map.csv
