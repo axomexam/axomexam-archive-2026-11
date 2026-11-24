@@ -1295,8 +1295,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "CP = 36.0; profit% = 11.11%.",
-      "as": "ক্ৰয়মূল্য = ৩৬.০; লাভ% = ১১.১১%।"
+      "en": "Total cost = 20 × 30 + 30 × 40 = 600 + 1,200 = 1,800 for 50 kg, so the cost price is 1,800 ÷ 50 = 36 per kg.",
+      "as": "মুঠ ক্ৰয় মূল্য = ১,৮০০ টকা (৫০ কেজি), সেয়ে প্ৰতি কেজিৰ ক্ৰয় মূল্য ৩৬ টকা।"
     }
   },
   {
@@ -1326,8 +1326,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "CP = 31.5; profit% = 14.29%.",
-      "as": "ক্ৰয়মূল্য = ৩১.৫; লাভ% = ১৪.২৯%।"
+      "en": "Total cost = 15 × 24 + 25 × 36 = 360 + 900 = 1,260 for 40 kg, so the cost price is 1,260 ÷ 40 = 31.5 per kg.",
+      "as": "মুঠ ক্ৰয় মূল্য = ১,২৬০ টকা (৪০ কেজি), সেয়ে প্ৰতি কেজিৰ ক্ৰয় মূল্য ৩১.৫ টকা।"
     }
   },
   {
@@ -1357,8 +1357,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "CP = 15.6; profit% = 15.38%.",
-      "as": "ক্ৰয়মূল্য = ১৫.৬; লাভ% = ১৫.৩৮%।"
+      "en": "Total cost = 40 × 12 + 60 × 18 = 480 + 1,080 = 1,560 for 100 kg, so the cost price is 1,560 ÷ 100 = 15.6 per kg.",
+      "as": "মুঠ ক্ৰয় মূল্য = ১,৫৬০ টকা (১০০ কেজি), সেয়ে প্ৰতি কেজিৰ ক্ৰয় মূল্য ১৫.৬ টকা।"
     }
   },
   {
@@ -2690,8 +2690,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Milk:water = 29:13.",
-      "as": "গাখীৰ:পানী = ২৯:১৩।"
+      "en": "Take equal quantities, so the two ratios can simply be added: milk = 2/3 + 5/7 and water = 1/3 + 2/7. Over 21 parts that is 29 milk to 13 water, which reduces to 29 : 13.",
+      "as": "সমান পৰিমাণ লোৱা, সেয়ে দুয়োটা অনুপাত যোগ কৰিব পাৰি: গাখীৰ : পানী = ২৯ : ১৩।"
     }
   },
   {
@@ -2721,8 +2721,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Milk:water = 57:31.",
-      "as": "গাখীৰ:পানী = ৫৭:৩১।"
+      "en": "Take equal quantities, so the two ratios can simply be added: milk = 6/11 + 3/4 and water = 5/11 + 1/4. Over 44 parts that is 57 milk to 31 water, which reduces to 57 : 31.",
+      "as": "সমান পৰিমাণ লোৱা, সেয়ে দুয়োটা অনুপাত যোগ কৰিব পাৰি: গাখীৰ : পানী = ৫৭ : ৩১।"
     }
   },
   {
@@ -2752,8 +2752,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Milk:water = 58:41.",
-      "as": "গাখীৰ:পানী = ৫৮:৪১।"
+      "en": "Take equal quantities, so the two ratios can simply be added: milk = 8/11 + 4/9 and water = 3/11 + 5/9. Over 99 parts that is 116 milk to 82 water, which reduces to 58 : 41.",
+      "as": "সমান পৰিমাণ লোৱা, সেয়ে দুয়োটা অনুপাত যোগ কৰিব পাৰি: গাখীৰ : পানী = ৫৮ : ৪১।"
     }
   },
   {
@@ -2783,8 +2783,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Milk:water = 82:61.",
-      "as": "গাখীৰ:পানী = ৮২:৬১।"
+      "en": "Take equal quantities, so the two ratios can simply be added: milk = 9/13 + 5/11 and water = 4/13 + 6/11. Over 143 parts that is 164 milk to 122 water, which reduces to 82 : 61.",
+      "as": "সমান পৰিমাণ লোৱা, সেয়ে দুয়োটা অনুপাত যোগ কৰিব পাৰি: গাখীৰ : পানী = ৮২ : ৬১।"
     }
   },
   {
@@ -2814,8 +2814,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Milk:water = 23:7.",
-      "as": "গাখীৰ:পানী = ২৩:৭।"
+      "en": "Take equal quantities, so the two ratios can simply be added: milk = 7/10 + 5/6 and water = 3/10 + 1/6. Over 15 parts that is 23 milk to 7 water, which reduces to 23 : 7.",
+      "as": "সমান পৰিমাণ লোৱা, সেয়ে দুয়োটা অনুপাত যোগ কৰিব পাৰি: গাখীৰ : পানী = ২৩ : ৭।"
     }
   },
   {
@@ -2845,8 +2845,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Milk:water = 81:62.",
-      "as": "গাখীৰ:পানী = ৮১:৬২।"
+      "en": "Take equal quantities, so the two ratios can simply be added: milk = 10/13 + 4/11 and water = 3/13 + 7/11. Over 143 parts that is 162 milk to 124 water, which reduces to 81 : 62.",
+      "as": "সমান পৰিমাণ লোৱা, সেয়ে দুয়োটা অনুপাত যোগ কৰিব পাৰি: গাখীৰ : পানী = ৮১ : ৬২।"
     }
   },
   {

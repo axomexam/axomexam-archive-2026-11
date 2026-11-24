@@ -2318,8 +2318,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "k = 8.",
-      "as": "k = ৮।"
+      "en": "Substitute x = 2 into the equation: 1×(2)² − 6×2 + k = 0, so 4 − 12 + k = 0 and k = 8.",
+      "as": "সমীকৰণত x = ২ বহুওৱা: k = ৮।"
     }
   },
   {
@@ -2349,8 +2349,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "k = 15.",
-      "as": "k = ১৫।"
+      "en": "Substitute x = 3 into the equation: 1×(3)² − 8×3 + k = 0, so 9 − 24 + k = 0 and k = 15.",
+      "as": "সমীকৰণত x = ৩ বহুওৱা: k = ১৫।"
     }
   },
   {
@@ -2380,8 +2380,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "k = -24.",
-      "as": "k = -২৪।"
+      "en": "Substitute x = 4 into the equation: 1×(4)² + 2×4 + k = 0, so 16 + 8 + k = 0 and k = -24.",
+      "as": "সমীকৰণত x = ৪ বহুওৱা: k = -২৪।"
     }
   },
   {
@@ -2969,8 +2969,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "k = 9.",
-      "as": "k = ৯।"
+      "en": "Substitute x = 3 into the equation: 1×(3)² − 6×3 + k = 0, so 9 − 18 + k = 0 and k = 9.",
+      "as": "সমীকৰণত x = ৩ বহুওৱা: k = ৯।"
     }
   },
   {
@@ -3000,8 +3000,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "k = 3.",
-      "as": "k = ৩।"
+      "en": "Substitute x = 1 into the equation: 1×(1)² − 4×1 + k = 0, so 1 − 4 + k = 0 and k = 3.",
+      "as": "সমীকৰণত x = ১ বহুওৱা: k = ৩।"
     }
   }
 ]

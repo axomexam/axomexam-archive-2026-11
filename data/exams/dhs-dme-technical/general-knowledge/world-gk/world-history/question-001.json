@@ -8339,37 +8339,6 @@
     }
   },
   {
-    "id": "world-gk-extra-601",
-    "leaf": "world-history",
-    "q": {
-      "en": "The Maratha empire was founded by",
-      "as": "মাৰাঠা সাম্ৰাজ্য প্ৰতিষ্ঠা কৰিছিল"
-    },
-    "options": [
-      {
-        "en": "Cyrus the Great",
-        "as": "মহান চাইৰাছ"
-      },
-      {
-        "en": "Shivaji",
-        "as": "শিৱাজী"
-      },
-      {
-        "en": "Babur",
-        "as": "বাবৰ"
-      },
-      {
-        "en": "Vijayalaya",
-        "as": "বিজয়ালয়"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The Maratha empire was founded by Shivaji. The founder is a standard exam fact.",
-      "as": "মাৰাঠা সাম্ৰাজ্য শিৱাজী এ প্ৰতিষ্ঠা কৰিছিল।"
-    }
-  },
-  {
     "id": "world-gk-extra-602",
     "leaf": "world-history",
     "q": {
@@ -8742,37 +8711,6 @@
     }
   },
   {
-    "id": "world-gk-extra-614",
-    "leaf": "world-history",
-    "q": {
-      "en": "the telephone was invented by",
-      "as": "টেলিফোন আৱিষ্কাৰ কৰিছিল"
-    },
-    "options": [
-      {
-        "en": "Alfred Nobel",
-        "as": "আলফ্ৰেড নোবেল"
-      },
-      {
-        "en": "George Stephenson",
-        "as": "জৰ্জ ষ্টিফেনছন"
-      },
-      {
-        "en": "Alexander Graham Bell",
-        "as": "আলেকজেণ্ডাৰ গ্ৰাহাম বেল"
-      },
-      {
-        "en": "Guglielmo Marconi",
-        "as": "গুলিয়েলমো মাৰ্কনি"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "the telephone is credited to Alexander Graham Bell. The patent is recorded in this name.",
-      "as": "টেলিফোন আলেকজেণ্ডাৰ গ্ৰাহাম বেল ৰ নামত গণ্য কৰা হয়।"
-    }
-  },
-  {
     "id": "world-gk-extra-615",
     "leaf": "world-history",
     "q": {
@@ -8897,99 +8835,6 @@
     }
   },
   {
-    "id": "world-gk-extra-619",
-    "leaf": "world-history",
-    "q": {
-      "en": "the World Wide Web was invented by",
-      "as": "ৱৰ্ল্ড ৱাইড ৱেব আৱিষ্কাৰ কৰিছিল"
-    },
-    "options": [
-      {
-        "en": "Alexander Graham Bell",
-        "as": "আলেকজেণ্ডাৰ গ্ৰাহাম বেল"
-      },
-      {
-        "en": "Alfred Nobel",
-        "as": "আলফ্ৰেড নোবেল"
-      },
-      {
-        "en": "George Stephenson",
-        "as": "জৰ্জ ষ্টিফেনছন"
-      },
-      {
-        "en": "Tim Berners-Lee",
-        "as": "টিম বাৰ্ণাৰ্ছ-লী"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "the World Wide Web is credited to Tim Berners-Lee. The invention is linked to this person.",
-      "as": "ৱৰ্ল্ড ৱাইড ৱেব টিম বাৰ্ণাৰ্ছ-লী ৰ নামত গণ্য কৰা হয়।"
-    }
-  },
-  {
-    "id": "world-gk-extra-620",
-    "leaf": "world-history",
-    "q": {
-      "en": "the electric battery was invented by",
-      "as": "বিদ্যুৎ বেটাৰি আৱিষ্কাৰ কৰিছিল"
-    },
-    "options": [
-      {
-        "en": "Samuel Morse",
-        "as": "ছেমুৱেল মৰ্ছ"
-      },
-      {
-        "en": "Wilhelm Roentgen",
-        "as": "ভিলহেল্ম ৰণ্টজেন"
-      },
-      {
-        "en": "Johannes Gutenberg",
-        "as": "জোহানেছ গুটেনবাৰ্গ"
-      },
-      {
-        "en": "Alessandro Volta",
-        "as": "আলেছাণ্ড্ৰো ভল্টা"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "the electric battery is credited to Alessandro Volta. The patent is recorded in this name.",
-      "as": "বিদ্যুৎ বেটাৰি আলেছাণ্ড্ৰো ভল্টা ৰ নামত গণ্য কৰা হয়।"
-    }
-  },
-  {
-    "id": "world-gk-extra-621",
-    "leaf": "world-history",
-    "q": {
-      "en": "dynamite was invented by",
-      "as": "ডাইনামাইট আৱিষ্কাৰ কৰিছিল"
-    },
-    "options": [
-      {
-        "en": "Alfred Nobel",
-        "as": "আলফ্ৰেড নোবেল"
-      },
-      {
-        "en": "George Stephenson",
-        "as": "জৰ্জ ষ্টিফেনছন"
-      },
-      {
-        "en": "Guglielmo Marconi",
-        "as": "গুলিয়েলমো মাৰ্কনি"
-      },
-      {
-        "en": "Jonas Salk",
-        "as": "জোনাছ ছাল্ক"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "dynamite is credited to Alfred Nobel. This name is standard in science quizzes.",
-      "as": "ডাইনামাইট আলফ্ৰেড নোবেল ৰ নামত গণ্য কৰা হয়।"
-    }
-  },
-  {
     "id": "world-gk-extra-622",
     "leaf": "world-history",
     "q": {
@@ -9049,68 +8894,6 @@
     "explanation": {
       "en": "radio transmission is credited to Guglielmo Marconi. The patent is recorded in this name.",
       "as": "ৰেডিঅ' সংকেত প্ৰেৰণ গুলিয়েলমো মাৰ্কনি ৰ নামত গণ্য কৰা হয়।"
-    }
-  },
-  {
-    "id": "world-gk-extra-624",
-    "leaf": "world-history",
-    "q": {
-      "en": "the television was invented by",
-      "as": "দূৰদৰ্শন আৱিষ্কাৰ কৰিছিল"
-    },
-    "options": [
-      {
-        "en": "John Logie Baird",
-        "as": "জন লজি বাৰ্ড"
-      },
-      {
-        "en": "Tim Berners-Lee",
-        "as": "টিম বাৰ্ণাৰ্ছ-লী"
-      },
-      {
-        "en": "Alexander Graham Bell",
-        "as": "আলেকজেণ্ডাৰ গ্ৰাহাম বেল"
-      },
-      {
-        "en": "Alfred Nobel",
-        "as": "আলফ্ৰেড নোবেল"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "the television is credited to John Logie Baird. This name is standard in science quizzes.",
-      "as": "দূৰদৰ্শন জন লজি বাৰ্ড ৰ নামত গণ্য কৰা হয়।"
-    }
-  },
-  {
-    "id": "world-gk-extra-625",
-    "leaf": "world-history",
-    "q": {
-      "en": "the ballpoint pen was invented by",
-      "as": "বলপইণ্ট কলম আৱিষ্কাৰ কৰিছিল"
-    },
-    "options": [
-      {
-        "en": "Laszlo Biro",
-        "as": "লাছল' বিৰো"
-      },
-      {
-        "en": "Alessandro Volta",
-        "as": "আলেছাণ্ড্ৰো ভল্টা"
-      },
-      {
-        "en": "Samuel Morse",
-        "as": "ছেমুৱেল মৰ্ছ"
-      },
-      {
-        "en": "Wilhelm Roentgen",
-        "as": "ভিলহেল্ম ৰণ্টজেন"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "the ballpoint pen is credited to Laszlo Biro. The invention is linked to this person.",
-      "as": "বলপইণ্ট কলম লাছল' বিৰো ৰ নামত গণ্য কৰা হয়।"
     }
   },
   {

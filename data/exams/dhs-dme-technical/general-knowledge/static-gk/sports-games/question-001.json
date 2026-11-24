@@ -1767,37 +1767,6 @@
     }
   },
   {
-    "id": "static-gk-extra-582",
-    "leaf": "sports-games",
-    "q": {
-      "en": "The headquarters of the International Olympic Committee is in",
-      "as": "আন্তৰ্জাতিক অলিম্পিক কমিটিৰ মুখ্য কাৰ্যালয় অৱস্থিত"
-    },
-    "options": [
-      {
-        "en": "Paris",
-        "as": "পেৰিছ"
-      },
-      {
-        "en": "Lausanne",
-        "as": "লুছান"
-      },
-      {
-        "en": "Athens",
-        "as": "এথেন্স"
-      },
-      {
-        "en": "Rome",
-        "as": "ৰোম"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "This is the correct fact; the other options are different. The headquarters of the International Olympic Committee is in",
-      "as": "এইটো শুদ্ধ তথ্য; বাকী বিকল্প বেলেগ। আন্তৰ্জাতিক অলিম্পিক কমিটিৰ মুখ্য কাৰ্যালয় অৱস্থিত"
-    }
-  },
-  {
     "id": "static-gk-extra-583",
     "leaf": "sports-games",
     "q": {
@@ -3531,37 +3500,6 @@
     "explanation": {
       "en": "This is the correct fact; the other options are different. Brazil has won the FIFA World Cup how many times",
       "as": "এইটো শুদ্ধ তথ্য; বাকী বিকল্প বেলেগ। ব্ৰাজিলে কিমানবাৰ ফিফা বিশ্বকাপ জিকিছে"
-    }
-  },
-  {
-    "id": "static-gk-extra-639",
-    "leaf": "sports-games",
-    "q": {
-      "en": "The headquarters of FIFA is in",
-      "as": "ফিফাৰ মুখ্য কাৰ্যালয় অৱস্থিত"
-    },
-    "options": [
-      {
-        "en": "Paris",
-        "as": "পেৰিছ"
-      },
-      {
-        "en": "London",
-        "as": "লণ্ডন"
-      },
-      {
-        "en": "Zurich",
-        "as": "জুৰিখ"
-      },
-      {
-        "en": "Madrid",
-        "as": "মাদ্ৰিদ"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "This is the correct fact; the other options are different. The headquarters of FIFA is in",
-      "as": "এইটো শুদ্ধ তথ্য; বাকী বিকল্প বেলেগ। ফিফাৰ মুখ্য কাৰ্যালয় অৱস্থিত"
     }
   },
   {

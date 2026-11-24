@@ -6541,37 +6541,6 @@
     }
   },
   {
-    "id": "world-gk-extra-212",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of South Korea is the",
-      "as": "দক্ষিণ কোৰিয়াৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "Indian rupee",
-        "as": "ভাৰতীয় ৰুপি"
-      },
-      {
-        "en": "Turkish lira",
-        "as": "তুৰ্কী লিৰা"
-      },
-      {
-        "en": "won",
-        "as": "ৱন"
-      },
-      {
-        "en": "real",
-        "as": "ৰিয়েল"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The official currency of South Korea is the won. Prices there are quoted in this unit.",
-      "as": "দক্ষিণ কোৰিয়াৰ চৰকাৰী মুদ্ৰা ৱন।"
-    }
-  },
-  {
     "id": "world-gk-extra-213",
     "leaf": "world-geography",
     "q": {
@@ -6634,37 +6603,6 @@
     }
   },
   {
-    "id": "world-gk-extra-215",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Pakistan is the",
-      "as": "পাকিস্তানৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "Pakistani rupee",
-        "as": "পাকিস্তানী ৰুপি"
-      },
-      {
-        "en": "zloty",
-        "as": "জ্লটি"
-      },
-      {
-        "en": "Iranian rial",
-        "as": "ইৰানী ৰিয়াল"
-      },
-      {
-        "en": "Egyptian pound",
-        "as": "ইজিপ্তীয় পাউণ্ড"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The official currency of Pakistan is the Pakistani rupee. Prices there are quoted in this unit.",
-      "as": "পাকিস্তানৰ চৰকাৰী মুদ্ৰা পাকিস্তানী ৰুপি।"
-    }
-  },
-  {
     "id": "world-gk-extra-216",
     "leaf": "world-geography",
     "q": {
@@ -6693,37 +6631,6 @@
     "explanation": {
       "en": "The official currency of India is the Indian rupee. It is issued by the country's central bank.",
       "as": "ভাৰতৰ চৰকাৰী মুদ্ৰা ভাৰতীয় ৰুপি।"
-    }
-  },
-  {
-    "id": "world-gk-extra-217",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Switzerland is the",
-      "as": "ছুইজাৰলেণ্ডৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "riyal",
-        "as": "ৰিয়াল"
-      },
-      {
-        "en": "Swiss franc",
-        "as": "ছুইছ ফ্ৰাংক"
-      },
-      {
-        "en": "Argentine peso",
-        "as": "আৰ্জেণ্টাইন পেছো"
-      },
-      {
-        "en": "Singapore dollar",
-        "as": "ছিংগাপুৰ ডলাৰ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The official currency of Switzerland is the Swiss franc. Prices there are quoted in this unit.",
-      "as": "ছুইজাৰলেণ্ডৰ চৰকাৰী মুদ্ৰা ছুইছ ফ্ৰাংক।"
     }
   },
   {
@@ -6882,37 +6789,6 @@
     }
   },
   {
-    "id": "world-gk-extra-223",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Israel is the",
-      "as": "ইজৰাইলৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "Mexican peso",
-        "as": "মেক্সিকান পেছো"
-      },
-      {
-        "en": "shekel",
-        "as": "শ্বেকেল"
-      },
-      {
-        "en": "Canadian dollar",
-        "as": "কানাডিয়ান ডলাৰ"
-      },
-      {
-        "en": "pound sterling",
-        "as": "পাউণ্ড ষ্টাৰ্লিং"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "The official currency of Israel is the shekel. Prices there are quoted in this unit.",
-      "as": "ইজৰাইলৰ চৰকাৰী মুদ্ৰা শ্বেকেল।"
-    }
-  },
-  {
     "id": "world-gk-extra-224",
     "leaf": "world-geography",
     "q": {
@@ -6975,37 +6851,6 @@
     }
   },
   {
-    "id": "world-gk-extra-226",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Kuwait is the",
-      "as": "কুৱেইটৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "Kuwaiti dinar",
-        "as": "কুৱেইটী দিনাৰ"
-      },
-      {
-        "en": "naira",
-        "as": "নাইৰা"
-      },
-      {
-        "en": "Philippine peso",
-        "as": "ফিলিপাইন পেছো"
-      },
-      {
-        "en": "yuan",
-        "as": "য়ুৱান"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The official currency of Kuwait is the Kuwaiti dinar. Prices there are quoted in this unit.",
-      "as": "কুৱেইটৰ চৰকাৰী মুদ্ৰা কুৱেইটী দিনাৰ।"
-    }
-  },
-  {
     "id": "world-gk-extra-227",
     "leaf": "world-geography",
     "q": {
@@ -7037,68 +6882,6 @@
     }
   },
   {
-    "id": "world-gk-extra-228",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Iran is the",
-      "as": "ইৰানৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "Egyptian pound",
-        "as": "ইজিপ্তীয় পাউণ্ড"
-      },
-      {
-        "en": "New Zealand dollar",
-        "as": "নিউজিলেণ্ড ডলাৰ"
-      },
-      {
-        "en": "Iranian rial",
-        "as": "ইৰানী ৰিয়াল"
-      },
-      {
-        "en": "baht",
-        "as": "বাট"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The official currency of Iran is the Iranian rial. Notes and coins of this unit circulate there.",
-      "as": "ইৰানৰ চৰকাৰী মুদ্ৰা ইৰানী ৰিয়াল।"
-    }
-  },
-  {
-    "id": "world-gk-extra-229",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Brazil is the",
-      "as": "ব্ৰাজিলৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "Australian dollar",
-        "as": "অষ্ট্ৰেলিয়ান ডলাৰ"
-      },
-      {
-        "en": "yen",
-        "as": "য়েন"
-      },
-      {
-        "en": "real",
-        "as": "ৰিয়েল"
-      },
-      {
-        "en": "kyat",
-        "as": "কিয়াট"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The official currency of Brazil is the real. Prices there are quoted in this unit.",
-      "as": "ব্ৰাজিলৰ চৰকাৰী মুদ্ৰা ৰিয়েল।"
-    }
-  },
-  {
     "id": "world-gk-extra-230",
     "leaf": "world-geography",
     "q": {
@@ -7127,161 +6910,6 @@
     "explanation": {
       "en": "The official currency of Mexico is the Mexican peso. It is issued by the country's central bank.",
       "as": "মেক্সিকোৰ চৰকাৰী মুদ্ৰা মেক্সিকান পেছো।"
-    }
-  },
-  {
-    "id": "world-gk-extra-231",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Argentina is the",
-      "as": "আৰ্জেণ্টিনাৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "Singapore dollar",
-        "as": "ছিংগাপুৰ ডলাৰ"
-      },
-      {
-        "en": "US dollar",
-        "as": "আমেৰিকান ডলাৰ"
-      },
-      {
-        "en": "Nepalese rupee",
-        "as": "নেপালী ৰুপি"
-      },
-      {
-        "en": "Argentine peso",
-        "as": "আৰ্জেণ্টাইন পেছো"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The official currency of Argentina is the Argentine peso. Notes and coins of this unit circulate there.",
-      "as": "আৰ্জেণ্টিনাৰ চৰকাৰী মুদ্ৰা আৰ্জেণ্টাইন পেছো।"
-    }
-  },
-  {
-    "id": "world-gk-extra-232",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of South Africa is the",
-      "as": "দক্ষিণ আফ্ৰিকাৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "ringgit",
-        "as": "ৰিংগিট"
-      },
-      {
-        "en": "rouble",
-        "as": "ৰুবল"
-      },
-      {
-        "en": "Sri Lankan rupee",
-        "as": "শ্ৰীলংকান ৰুপি"
-      },
-      {
-        "en": "rand",
-        "as": "ৰেণ্ড"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The official currency of South Africa is the rand. Prices there are quoted in this unit.",
-      "as": "দক্ষিণ আফ্ৰিকাৰ চৰকাৰী মুদ্ৰা ৰেণ্ড।"
-    }
-  },
-  {
-    "id": "world-gk-extra-233",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Nigeria is the",
-      "as": "নাইজেৰিয়াৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "Philippine peso",
-        "as": "ফিলিপাইন পেছো"
-      },
-      {
-        "en": "yuan",
-        "as": "য়ুৱান"
-      },
-      {
-        "en": "naira",
-        "as": "নাইৰা"
-      },
-      {
-        "en": "Pakistani rupee",
-        "as": "পাকিস্তানী ৰুপি"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The official currency of Nigeria is the naira. It is issued by the country's central bank.",
-      "as": "নাইজেৰিয়াৰ চৰকাৰী মুদ্ৰা নাইৰা।"
-    }
-  },
-  {
-    "id": "world-gk-extra-234",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Kenya is the",
-      "as": "কেনিয়াৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "Kenyan shilling",
-        "as": "কেনিয়ান শিলিং"
-      },
-      {
-        "en": "dong",
-        "as": "ডং"
-      },
-      {
-        "en": "won",
-        "as": "ৱন"
-      },
-      {
-        "en": "Indian rupee",
-        "as": "ভাৰতীয় ৰুপি"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "The official currency of Kenya is the Kenyan shilling. Notes and coins of this unit circulate there.",
-      "as": "কেনিয়াৰ চৰকাৰী মুদ্ৰা কেনিয়ান শিলিং।"
-    }
-  },
-  {
-    "id": "world-gk-extra-235",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Egypt is the",
-      "as": "ইজিপ্তৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "New Zealand dollar",
-        "as": "নিউজিলেণ্ড ডলাৰ"
-      },
-      {
-        "en": "baht",
-        "as": "বাট"
-      },
-      {
-        "en": "Egyptian pound",
-        "as": "ইজিপ্তীয় পাউণ্ড"
-      },
-      {
-        "en": "ngultrum",
-        "as": "গুলট্ৰাম"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The official currency of Egypt is the Egyptian pound. Prices there are quoted in this unit.",
-      "as": "ইজিপ্তৰ চৰকাৰী মুদ্ৰা ইজিপ্তীয় পাউণ্ড।"
     }
   },
   {
@@ -7344,68 +6972,6 @@
     "explanation": {
       "en": "The official currency of Canada is the Canadian dollar. Notes and coins of this unit circulate there.",
       "as": "কানাডাৰ চৰকাৰী মুদ্ৰা কানাডিয়ান ডলাৰ।"
-    }
-  },
-  {
-    "id": "world-gk-extra-238",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Singapore is the",
-      "as": "ছিংগাপুৰৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "US dollar",
-        "as": "আমেৰিকান ডলাৰ"
-      },
-      {
-        "en": "Nepalese rupee",
-        "as": "নেপালী ৰুপি"
-      },
-      {
-        "en": "Danish krone",
-        "as": "ডেনিছ ক্ৰ'ন"
-      },
-      {
-        "en": "Singapore dollar",
-        "as": "ছিংগাপুৰ ডলাৰ"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "The official currency of Singapore is the Singapore dollar. Prices there are quoted in this unit.",
-      "as": "ছিংগাপুৰৰ চৰকাৰী মুদ্ৰা ছিংগাপুৰ ডলাৰ।"
-    }
-  },
-  {
-    "id": "world-gk-extra-239",
-    "leaf": "world-geography",
-    "q": {
-      "en": "The currency of Malaysia is the",
-      "as": "মালেছিয়াৰ মুদ্ৰা"
-    },
-    "options": [
-      {
-        "en": "rouble",
-        "as": "ৰুবল"
-      },
-      {
-        "en": "Sri Lankan rupee",
-        "as": "শ্ৰীলংকান ৰুপি"
-      },
-      {
-        "en": "ringgit",
-        "as": "ৰিংগিট"
-      },
-      {
-        "en": "Norwegian krone",
-        "as": "নৰৱেজিয়ান ক্ৰ'ন"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "The official currency of Malaysia is the ringgit. It is issued by the country's central bank.",
-      "as": "মালেছিয়াৰ চৰকাৰী মুদ্ৰা ৰিংগিট।"
     }
   },
   {

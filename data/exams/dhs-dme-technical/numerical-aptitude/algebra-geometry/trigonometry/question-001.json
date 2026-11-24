@@ -2070,8 +2070,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "sin θ = 9/41.",
-      "as": "sin θ = ৯/৪১।"
+      "en": "tan θ = 9/40 gives the opposite side 9 and the adjacent side 40. Hypotenuse = √(9² + 40²) = √1681 = 41, so sin θ = 9/41.",
+      "as": "tan θ = ৯/৪০ ৰপৰা বিপৰীত বাহু ৯ আৰু সংলগ্ন বাহু ৪০। কৰ্ণ = √(৯² + ৪০²) = ৪১, সেয়ে sin θ = ৯/৪১।"
     }
   },
   {
@@ -2101,8 +2101,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "cos θ = 40/41.",
-      "as": "cos θ = ৪০/৪১।"
+      "en": "tan θ = 9/40 gives the opposite side 9 and the adjacent side 40. Hypotenuse = √(9² + 40²) = √1681 = 41, so cos θ = 40/41.",
+      "as": "tan θ = ৯/৪০ ৰপৰা বিপৰীত বাহু ৯ আৰু সংলগ্ন বাহু ৪০। কৰ্ণ = √(৯² + ৪০²) = ৪১, সেয়ে cos θ = ৯/৪১।"
     }
   },
   {
@@ -2132,8 +2132,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "sin θ = 11/61.",
-      "as": "sin θ = ১১/৬১।"
+      "en": "tan θ = 11/60 gives the opposite side 11 and the adjacent side 60. Hypotenuse = √(11² + 60²) = √3721 = 61, so sin θ = 11/61.",
+      "as": "tan θ = ১১/৬০ ৰপৰা বিপৰীত বাহু ১১ আৰু সংলগ্ন বাহু ৬০। কৰ্ণ = √(১১² + ৬০²) = ৬১, সেয়ে sin θ = ১১/৬১।"
     }
   },
   {
@@ -2163,8 +2163,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "cos θ = 60/61.",
-      "as": "cos θ = ৬০/৬১।"
+      "en": "tan θ = 11/60 gives the opposite side 11 and the adjacent side 60. Hypotenuse = √(11² + 60²) = √3721 = 61, so cos θ = 60/61.",
+      "as": "tan θ = ১১/৬০ ৰপৰা বিপৰীত বাহু ১১ আৰু সংলগ্ন বাহু ৬০। কৰ্ণ = √(১১² + ৬০²) = ৬১, সেয়ে cos θ = ১১/৬১।"
     }
   },
   {
@@ -2194,8 +2194,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "sin θ = 12/37.",
-      "as": "sin θ = ১২/৩৭।"
+      "en": "tan θ = 12/35 gives the opposite side 12 and the adjacent side 35. Hypotenuse = √(12² + 35²) = √1369 = 37, so sin θ = 12/37.",
+      "as": "tan θ = ১২/৩৫ ৰপৰা বিপৰীত বাহু ১২ আৰু সংলগ্ন বাহু ৩৫। কৰ্ণ = √(১২² + ৩৫²) = ৩৭, সেয়ে sin θ = ১২/৩৭।"
     }
   },
   {
@@ -2225,8 +2225,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "cos θ = 35/37.",
-      "as": "cos θ = ৩৫/৩৭।"
+      "en": "tan θ = 12/35 gives the opposite side 12 and the adjacent side 35. Hypotenuse = √(12² + 35²) = √1369 = 37, so cos θ = 35/37.",
+      "as": "tan θ = ১২/৩৫ ৰপৰা বিপৰীত বাহু ১২ আৰু সংলগ্ন বাহু ৩৫। কৰ্ণ = √(১২² + ৩৫²) = ৩৭, সেয়ে cos θ = ১২/৩৭।"
     }
   },
   {
@@ -2287,8 +2287,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Reciprocal gives 13/5.",
-      "as": "পাৰস্পৰিক অভেদমতে 13/5।"
+      "en": "cosec θ is the reciprocal of sin θ, so cosec θ = 13/5 — the fraction is simply turned over.",
+      "as": "cosec θ হৈছে sin θ ৰ প্ৰতিক্ৰম, সেয়ে cosec θ = ১৩/৫ — ভগ্নাংশটো ওলোটাই দিয়া হয়।"
     }
   },
   {
@@ -2783,8 +2783,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "sin θ = 20/29.",
-      "as": "sin θ = ২০/২৯।"
+      "en": "tan θ = 20/21 gives the opposite side 20 and the adjacent side 21. Hypotenuse = √(20² + 21²) = √841 = 29, so sin θ = 20/29.",
+      "as": "tan θ = ২০/২১ ৰপৰা বিপৰীত বাহু ২০ আৰু সংলগ্ন বাহু ২১। কৰ্ণ = √(২০² + ২১²) = ২৯, সেয়ে sin θ = ২০/২৯।"
     }
   },
   {
@@ -2814,8 +2814,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "cos θ = 21/29.",
-      "as": "cos θ = ২১/২৯।"
+      "en": "tan θ = 20/21 gives the opposite side 20 and the adjacent side 21. Hypotenuse = √(20² + 21²) = √841 = 29, so cos θ = 21/29.",
+      "as": "tan θ = ২০/২১ ৰপৰা বিপৰীত বাহু ২০ আৰু সংলগ্ন বাহু ২১। কৰ্ণ = √(২০² + ২১²) = ২৯, সেয়ে cos θ = ২০/২৯।"
     }
   },
   {
@@ -2845,8 +2845,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "sin θ = 28/53.",
-      "as": "sin θ = ২৮/৫৩।"
+      "en": "tan θ = 28/45 gives the opposite side 28 and the adjacent side 45. Hypotenuse = √(28² + 45²) = √2809 = 53, so sin θ = 28/53.",
+      "as": "tan θ = ২৮/৪৫ ৰপৰা বিপৰীত বাহু ২৮ আৰু সংলগ্ন বাহু ৪৫। কৰ্ণ = √(২৮² + ৪৫²) = ৫৩, সেয়ে sin θ = ২৮/৫৩।"
     }
   },
   {
@@ -2876,8 +2876,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "cos θ = 45/53.",
-      "as": "cos θ = ৪৫/৫৩।"
+      "en": "tan θ = 28/45 gives the opposite side 28 and the adjacent side 45. Hypotenuse = √(28² + 45²) = √2809 = 53, so cos θ = 45/53.",
+      "as": "tan θ = ২৮/৪৫ ৰপৰা বিপৰীত বাহু ২৮ আৰু সংলগ্ন বাহু ৪৫। কৰ্ণ = √(২৮² + ৪৫²) = ৫৩, সেয়ে cos θ = ২৮/৫৩।"
     }
   },
   {
@@ -2938,8 +2938,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Reciprocal gives 25/7.",
-      "as": "পাৰস্পৰিক অভেদমতে 25/7।"
+      "en": "cosec θ is the reciprocal of sin θ, so cosec θ = 25/7 — the fraction is simply turned over.",
+      "as": "cosec θ হৈছে sin θ ৰ প্ৰতিক্ৰম, সেয়ে cosec θ = ২৫/৭ — ভগ্নাংশটো ওলোটাই দিয়া হয়।"
     }
   },
   {

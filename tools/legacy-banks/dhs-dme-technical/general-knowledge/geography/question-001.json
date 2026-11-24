@@ -13684,37 +13684,6 @@
     }
   },
   {
-    "id": "geography-extra-365",
-    "leaf": "india-geography",
-    "q": {
-      "en": "The Chipko movement was associated with",
-      "as": "চিপকো আন্দোলন কাৰ লগত জড়িত আছিল"
-    },
-    "options": [
-      {
-        "en": "river pollution in Bihar",
-        "as": "বিহাৰত নদী প্ৰদূষণৰ লগত"
-      },
-      {
-        "en": "mining in Jharkhand",
-        "as": "ঝাৰখণ্ডত খননৰ লগত"
-      },
-      {
-        "en": "fishing in Kerala",
-        "as": "কেৰালাত মাছ ধৰাৰ লগত"
-      },
-      {
-        "en": "forest conservation in Uttarakhand",
-        "as": "উত্তৰাখণ্ডত বন সংৰক্ষণৰ লগত"
-      }
-    ],
-    "correct": 3,
-    "explanation": {
-      "en": "Villagers hugged trees to stop felling, which is why the movement is named. Pollution, mining and fishing are other issues.",
-      "as": "গাঁৱলীয়ে গছ কটা বন্ধ কৰিবলৈ গছ ধৰি ধৰিছিল, সেয়ে আন্দোলনৰ নাম। প্ৰদূষণ, খনন আৰু মাছ ধৰা আন বিষয়।"
-    }
-  },
-  {
     "id": "geography-extra-366",
     "leaf": "india-geography",
     "q": {

@@ -4030,37 +4030,6 @@
     }
   },
   {
-    "id": "static-gk-extra-994",
-    "leaf": "organizations-institutions",
-    "q": {
-      "en": "The headquarters of Transparency International is in",
-      "as": "ট্ৰেন্সপেৰেন্সি ইণ্টাৰনেশ্যনেলৰ মুখ্য কাৰ্যালয় অৱস্থিত"
-    },
-    "options": [
-      {
-        "en": "London",
-        "as": "লণ্ডন"
-      },
-      {
-        "en": "Geneva",
-        "as": "জেনেভা"
-      },
-      {
-        "en": "Berlin",
-        "as": "বাৰ্লিন"
-      },
-      {
-        "en": "Paris",
-        "as": "পেৰিছ"
-      }
-    ],
-    "correct": 2,
-    "explanation": {
-      "en": "Berlin is the correct answer. The headquarters of Transparency International is in",
-      "as": "বাৰ্লিন শুদ্ধ উত্তৰ। ট্ৰেন্সপেৰেন্সি ইণ্টাৰনেশ্যনেলৰ মুখ্য কাৰ্যালয় অৱস্থিত"
-    }
-  },
-  {
     "id": "static-gk-extra-995",
     "leaf": "organizations-institutions",
     "q": {
@@ -4089,37 +4058,6 @@
     "explanation": {
       "en": "Gland is the correct answer. The headquarters of WWF is in",
       "as": "গ্লেণ্ড শুদ্ধ উত্তৰ। ডব্লিউডব্লিউএফৰ মুখ্য কাৰ্যালয় অৱস্থিত"
-    }
-  },
-  {
-    "id": "static-gk-extra-996",
-    "leaf": "organizations-institutions",
-    "q": {
-      "en": "The headquarters of Greenpeace is in",
-      "as": "গ্ৰীণপিছৰ মুখ্য কাৰ্যালয় অৱস্থিত"
-    },
-    "options": [
-      {
-        "en": "London",
-        "as": "লণ্ডন"
-      },
-      {
-        "en": "Amsterdam",
-        "as": "আমষ্টাৰডাম"
-      },
-      {
-        "en": "Berlin",
-        "as": "বাৰ্লিন"
-      },
-      {
-        "en": "Brussels",
-        "as": "ব্ৰাছেলছ"
-      }
-    ],
-    "correct": 1,
-    "explanation": {
-      "en": "Amsterdam is the correct answer. The headquarters of Greenpeace is in",
-      "as": "আমষ্টাৰডাম শুদ্ধ উত্তৰ। গ্ৰীণপিছৰ মুখ্য কাৰ্যালয় অৱস্থিত"
     }
   },
   {
@@ -4554,37 +4492,6 @@
     "explanation": {
       "en": "Geneva is the correct answer. Where is the headquarters of the World Intellectual Property Organization",
       "as": "জেনেভা শুদ্ধ উত্তৰ। বিশ্ব বৌদ্ধিক সম্পত্তি সংস্থাৰ মুখ্য কাৰ্যালয় অৱস্থিত"
-    }
-  },
-  {
-    "id": "static-gk-extra-1011",
-    "leaf": "organizations-institutions",
-    "q": {
-      "en": "The headquarters of the World Meteorological Organization is in",
-      "as": "বিশ্ব বতৰ বিজ্ঞান সংস্থাৰ মুখ্য কাৰ্যালয় অৱস্থিত"
-    },
-    "options": [
-      {
-        "en": "Geneva",
-        "as": "জেনেভা"
-      },
-      {
-        "en": "Paris",
-        "as": "পেৰিছ"
-      },
-      {
-        "en": "New York",
-        "as": "নিউয়ৰ্ক"
-      },
-      {
-        "en": "Rome",
-        "as": "ৰোম"
-      }
-    ],
-    "correct": 0,
-    "explanation": {
-      "en": "Geneva is the correct answer. The headquarters of the World Meteorological Organization is in",
-      "as": "জেনেভা শুদ্ধ উত্তৰ। বিশ্ব বতৰ বিজ্ঞান সংস্থাৰ মুখ্য কাৰ্যালয় অৱস্থিত"
     }
   },
   {
