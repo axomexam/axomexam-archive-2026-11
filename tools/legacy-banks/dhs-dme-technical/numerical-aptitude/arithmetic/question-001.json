@@ -9755,8 +9755,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Converting to fractions gives 1.",
-      "as": "ভগ্নাংশলৈ ৰূপান্তৰ কৰিলে 1 পোৱা যায়।"
+      "en": "0.\\overline{3} = 3/9 and 0.\\overline{6} = 6/9, so the sum is 3/9 + 6/9 = 9/9 = 1.",
+      "as": "০.\\overline{৩} = ৩/৯ আৰু ০.\\overline{৬} = ৬/৯, গতিকে যোগফল ৩/৯ + ৬/৯ = ৯/৯ = ১।"
     }
   },
   {
@@ -9786,8 +9786,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Converting to fractions gives 1.",
-      "as": "ভগ্নাংশলৈ ৰূপান্তৰ কৰিলে 1 পোৱা যায়।"
+      "en": "0.\\overline{3} = 3/9 and 0.\\overline{6} = 6/9, so the sum is 3/9 + 6/9 = 9/9 = 1.",
+      "as": "০.\\overline{৩} = ৩/৯ আৰু ০.\\overline{৬} = ৬/৯, গতিকে যোগফল ৩/৯ + ৬/৯ = ৯/৯ = ১।"
     }
   },
   {
@@ -9817,8 +9817,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Converting to fractions gives 1/3.",
-      "as": "ভগ্নাংশলৈ ৰূপান্তৰ কৰিলে 1/3 পোৱা যায়।"
+      "en": "0.\\overline{1} = 1/9 and 0.\\overline{2} = 2/9, so the sum is 1/9 + 2/9 = 3/9 = 1/3.",
+      "as": "০.\\overline{১} = ১/৯ আৰু ০.\\overline{২} = ২/৯, গতিকে যোগফল ৩/৯ = ১/৩।"
     }
   },
   {
@@ -9848,8 +9848,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Converting to fractions gives 1.",
-      "as": "ভগ্নাংশলৈ ৰূপান্তৰ কৰিলে 1 পোৱা যায়।"
+      "en": "0.\\overline{3} = 3/9 and 0.\\overline{6} = 6/9, so the sum is 3/9 + 6/9 = 9/9 = 1.",
+      "as": "০.\\overline{৩} = ৩/৯ আৰু ০.\\overline{৬} = ৬/৯, গতিকে যোগফল ৩/৯ + ৬/৯ = ৯/৯ = ১।"
     }
   },
   {
@@ -9879,8 +9879,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Converting to fractions gives 2/11.",
-      "as": "ভগ্নাংশলৈ ৰূপান্তৰ কৰিলে 2/11 পোৱা যায়।"
+      "en": "0.\\overline{45} = 45/99 and 0.\\overline{27} = 27/99, so the difference is 18/99 = 2/11.",
+      "as": "০.\\overline{৪৫} = ৪৫/৯৯ আৰু ০.\\overline{২৭} = ২৭/৯৯, গতিকে পাৰ্থক্য ১৮/৯৯ = ২/১১।"
     }
   },
   {
@@ -22620,8 +22620,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "The average becomes 27.",
-      "as": "গড় ২৭ হয়।"
+      "en": "Each child grows 5 years, so the average rises by 5: 22 + 5 = 27 years.",
+      "as": "প্ৰতিটো শিশুৰ বয়স ৫ বছৰে বাঢ়ে, গতিকে গড়ো ৫ বছৰে বাঢ়ে: ২২ + ৫ = ২৭ বছৰ।"
     }
   },
   {
@@ -22651,8 +22651,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The average becomes 26.",
-      "as": "গড় ২৬ হয়।"
+      "en": "Each child grows 7 years, so the average rises by 7: 19 + 7 = 26 years.",
+      "as": "প্ৰতিটো শিশুৰ বয়স ৭ বছৰে বাঢ়ে, গতিকে গড়ো ৭ বছৰে বাঢ়ে: ১৯ + ৭ = ২৬ বছৰ।"
     }
   },
   {

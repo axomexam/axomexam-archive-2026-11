@@ -1615,8 +1615,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "0.099 rounds to 0.1.",
-      "as": "০.০৯৯ ঘূৰি ০.১ হয়।"
+      "en": "The second decimal digit is 9, so 0.099 rounds up to 0.1.",
+      "as": "দ্বিতীয় দশমিক অংকটো ৯, গতিকে ০.০৯৯ ওপৰলৈ ঘূৰাই ০.১ হয়।"
     }
   },
   {
@@ -2005,8 +2005,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Division by zero is undefined.",
-      "as": "শূন্যৰে হৰণ অসংজ্ঞায়িত।"
+      "en": "No number multiplied by 0 gives 1, so 1 ÷ 0 is undefined.",
+      "as": "শূন্যৰে পূৰণ কৰি ১ পোৱা কোনো সংখ্যা নাই, গতিকে ১ ÷ ০ অপৰিভাষিত।"
     }
   },
   {
@@ -2035,8 +2035,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Adding gives 0.111.",
-      "as": "যোগ কৰিলে ০.১১১ হয়।"
+      "en": "0.100 + 0.010 + 0.001 = 0.111.",
+      "as": "০.১০০ + ০.০১০ + ০.০০১ = ০.১১১।"
     }
   },
   {

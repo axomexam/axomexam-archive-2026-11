@@ -85,8 +85,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Natural numbers begin at 1.",
-      "as": "স্বাভাৱিক সংখ্যা 1 ৰ পৰা আৰম্ভ হয়।"
+      "en": "Counting numbers 1, 2, 3, … are the natural numbers, so the series starts at 1.",
+      "as": "১, ২, ৩, … গণনা সংখ্যাবোৰেই স্বাভাৱিক সংখ্যা, গতিকে শৃংখলা ১ ৰ পৰা আৰম্ভ হয়।"
     }
   },
   {
@@ -115,8 +115,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Whole numbers begin at 0.",
-      "as": "পূৰ্ণ সংখ্যা 0 ৰ পৰা আৰম্ভ হয়।"
+      "en": "Whole numbers are 0, 1, 2, 3, …, so the series starts at 0.",
+      "as": "পূৰ্ণ সংখ্যা ০, ১, ২, ৩, …, গতিকে শৃংখলা ০ ৰ পৰা আৰম্ভ হয়।"
     }
   },
   {
@@ -1735,8 +1735,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Aligning the decimals gives 0.111.",
-      "as": "দশমিকবোৰ শাৰী পাতিলে 0.111 পোৱা যায়।"
+      "en": "0.100 + 0.010 + 0.001 = 0.111.",
+      "as": "০.১০০ + ০.০১০ + ০.০০১ = ০.১১১।"
     }
   },
   {

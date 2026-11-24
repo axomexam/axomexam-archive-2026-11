@@ -5342,8 +5342,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Roots are -5 and 3.",
-      "as": "মূল -৫ আৰু ৩।"
+      "en": "Factorising: x² + 2x - 15 = (x + 5)(x - 3) = 0, so x = -5 or x = 3.",
+      "as": "উৎপাদক বিশ্লেষণ: x² + ২x − ১৫ = (x + ৫)(x − ৩) = ০, গতিকে x = −৫ বা x = ৩।"
     }
   },
   {
@@ -6148,8 +6148,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Roots are 1 and 4.",
-      "as": "মূল ১ আৰু ৪।"
+      "en": "Factorising: x² - 5x + 4 = (x - 1)(x - 4) = 0, so x = 1 or x = 4.",
+      "as": "উৎপাদক বিশ্লেষণ: x² − ৫x + ৪ = (x − ১)(x − ৪) = ০, গতিকে x = ১ বা x = ৪।"
     }
   },
   {

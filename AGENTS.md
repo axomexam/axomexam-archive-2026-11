@@ -1597,6 +1597,13 @@ If a topic ever has more than one `question-*.json`, run
 `node tools/consolidate-exam-question-files.js --book <id>` (add `--check` to
 report without writing).
 
+**Generated maths needs an answer-key audit.** `tools/gen-alg-quadratic.py` builds
+quadratic items from `(a, b, c, r1, r2)` tuples; two tuples shipped roots that do
+not solve their own equation (`2x²-7x+3` marked 1 and 3; `2x²-9x+4` marked 1 and 4).
+The generator now asserts `a(x-r1)(x-r2) = ax²+bx+c` via `_check()`. When touching a
+generated bank, recompute the answer from the stem and compare it with the marked
+option before trusting the key.
+
 **A `question-*.json` file must be a JSON array.** One bare object (no
 enclosing `[ ]`) is skipped in silence by `inject-static-questions.js`, so the
 question never reaches the page and the topic quietly renders one item short.
