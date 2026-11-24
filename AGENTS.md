@@ -3997,3 +3997,25 @@ own articles were nearly empty (215-646 words), so they remain in the AS batch.
 Note: sections are written by hand per topic, so word counts per section vary
 by about 25 per cent from the estimate. Budget a top-up pass whenever a page
 lands within 150 words of the floor.
+
+### DHS & DME Technical book audit (commit 1b619469)
+
+`exams/dhs-dme-technical/` is a 204-page generated book (176 topic pages with
+questions, 28 hub pages), 20,137 questions, full Assamese twins, all questions
+with four options + answer + explanation. It has no extra-content block and no
+`Question` JSON-LD, so the site-wide Q&A audits skip it.
+
+Audit findings worth keeping:
+- The "duplicate question" alarm on the non-verbal pages was wrong: those pages
+  use one fixed instruction with a different SVG figure per item, and the answer
+  distribution is healthy (embedded-figures: triangle 39, square 30, rhombus 15,
+  rectangle 14). The bank also mixes a few text questions into the same leaf.
+- Titles and descriptions are inside the SERP limits once entities are decoded;
+  measuring raw HTML counts `&amp;` as five characters and produces false alarms.
+- Genuine gaps: 2,043 explanations under six words (spelling 349/349, homonyms
+  209/218, synonyms 200/215, cloze 167/170, phrasal verbs 136/229), 28 hub pages
+  at 323-1,512 words, and 38 question texts repeated on two pages.
+- `tools/add-book-quiz-schema.js` adds Quiz.hasPart (25 items per page) to the
+  352 pages that have questions; run it again after any book rebuild.
+- Never leave the generator output uncommitted: `python3 tools/gen-nv-*.py`
+  rewrites `tools/legacy-banks/.../question-001.json` and reorders blocks.
