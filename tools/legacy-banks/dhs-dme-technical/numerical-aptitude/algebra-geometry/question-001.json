@@ -3172,8 +3172,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Coefficient of x = 19.",
-      "as": "x ৰ সহগ = ১৯।"
+      "en": "Multiply out: (x + 13)(x + 6) = x² + (13 + 6)x + 78. The coefficient of x is the sum of the two constants, 13 + 6 = 19.",
+      "as": "পূৰণ কৰা: (x + ১৩)(x + ৬) = x² + ১৯x + ৭৮; সেয়ে x ৰ সহগ = ১৯।"
     }
   },
   {
@@ -3203,8 +3203,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Coefficient of x = 16.",
-      "as": "x ৰ সহগ = ১৬।"
+      "en": "Multiply out: (x + 9)(x + 7) = x² + (9 + 7)x + 63. The coefficient of x is the sum of the two constants, 9 + 7 = 16.",
+      "as": "পূৰণ কৰা: (x + ৯)(x + ৭) = x² + ১৬x + ৬৩; সেয়ে x ৰ সহগ = ১৬।"
     }
   },
   {
@@ -3234,8 +3234,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Coefficient of x = 21.",
-      "as": "x ৰ সহগ = ২১।"
+      "en": "Multiply out: (x + 16)(x + 5) = x² + (16 + 5)x + 80. The coefficient of x is the sum of the two constants, 16 + 5 = 21.",
+      "as": "পূৰণ কৰা: (x + ১৬)(x + ৫) = x² + ২১x + ৮০; সেয়ে x ৰ সহগ = ২১।"
     }
   },
   {
@@ -5311,8 +5311,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Roots are 4 and 5.",
-      "as": "মূল ৪ আৰু ৫।"
+      "en": "The roots add up to −b/a = 9 and multiply to c/a = 20; 4 + 5 = 9 and 4 × 5 = 20, so the roots are 4 and 5. The equation factors as (x − 4)(x − 5) = 0.",
+      "as": "মূলৰ যোগফল −b/a = ৯ আৰু গুণফল c/a = ২০; সেয়ে মূল ৪ আৰু ৫।"
     }
   },
   {
@@ -5373,8 +5373,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Roots are 1 and 3.",
-      "as": "মূল ১ আৰু ৩।"
+      "en": "The roots add up to −b/a = 4 and multiply to c/a = 3; 1 + 3 = 4 and 1 × 3 = 3, so the roots are 1 and 3. The equation factors as (x − 1)(x − 3) = 0.",
+      "as": "মূলৰ যোগফল −b/a = ৪ আৰু গুণফল c/a = ৩; সেয়ে মূল ১ আৰু ৩।"
     }
   },
   {
@@ -6117,8 +6117,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Roots are 2 and 6.",
-      "as": "মূল ২ আৰু ৬।"
+      "en": "The roots add up to −b/a = 8 and multiply to c/a = 12; 2 + 6 = 8 and 2 × 6 = 12, so the roots are 2 and 6. The equation factors as (x − 2)(x − 6) = 0.",
+      "as": "মূলৰ যোগফল −b/a = ৮ আৰু গুণফল c/a = ১২; সেয়ে মূল ২ আৰু ৬।"
     }
   },
   {
@@ -12379,8 +12379,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Area = 196√3/4 cm².",
-      "as": "কালি = ১৯৬√3/4 বৰ্গ ছেমি।"
+      "en": "The area of an equilateral triangle is (√3/4)a², so with a = 14: (√3/4) × 14² = (√3/4) × 196 = 49√3 ≈ 84.87 cm².",
+      "as": "সমবাহু ত্ৰিভুজৰ কালি = (√3/4)a² = (√3/4) × ১৯৬ ≈ ৮৪.৮৭ বৰ্গ ছেমি।"
     }
   },
   {
@@ -12410,8 +12410,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Area = 256√3/4 cm².",
-      "as": "কালি = ২৫৬√3/4 বৰ্গ ছেমি।"
+      "en": "The area of an equilateral triangle is (√3/4)a², so with a = 16: (√3/4) × 16² = (√3/4) × 256 = 64√3 ≈ 110.85 cm².",
+      "as": "সমবাহু ত্ৰিভুজৰ কালি = (√3/4)a² = (√3/4) × ২৫৬ ≈ ১১০.৮৫ বৰ্গ ছেমি।"
     }
   },
   {
@@ -12441,8 +12441,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Area = 324√3/4 cm².",
-      "as": "কালি = ৩২৪√3/4 বৰ্গ ছেমি।"
+      "en": "The area of an equilateral triangle is (√3/4)a², so with a = 18: (√3/4) × 18² = (√3/4) × 324 = 81√3 ≈ 140.3 cm².",
+      "as": "সমবাহু ত্ৰিভুজৰ কালি = (√3/4)a² = (√3/4) × ৩২৪ ≈ ১৪০.৩ বৰ্গ ছেমি।"
     }
   },
   {
@@ -17525,8 +17525,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Reciprocal gives 17/8.",
-      "as": "পাৰস্পৰিক অভেদমতে 17/8।"
+      "en": "sec θ is the reciprocal of cos θ, so sec θ = 17/8 — the fraction is simply turned over.",
+      "as": "sec θ হৈছে cos θ ৰ প্ৰতিক্ৰম, সেয়ে sec θ = ১৭/৮ — ভগ্নাংশটো ওলোটাই দিয়া হয়।"
     }
   },
   {
@@ -17556,8 +17556,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Reciprocal gives 12/5.",
-      "as": "পাৰস্পৰিক অভেদমতে 12/5।"
+      "en": "cot θ is the reciprocal of tan θ, so cot θ = 12/5 — the fraction is simply turned over.",
+      "as": "cot θ হৈছে tan θ ৰ প্ৰতিক্ৰম, সেয়ে cot θ = ১২/৫ — ভগ্নাংশটো ওলোটাই দিয়া হয়।"
     }
   },
   {
@@ -18176,8 +18176,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Reciprocal gives 17/15.",
-      "as": "পাৰস্পৰিক অভেদমতে 17/15।"
+      "en": "sec θ is the reciprocal of cos θ, so sec θ = 17/15 — the fraction is simply turned over.",
+      "as": "sec θ হৈছে cos θ ৰ প্ৰতিক্ৰম, সেয়ে sec θ = ১৭/১৫ — ভগ্নাংশটো ওলোটাই দিয়া হয়।"
     }
   },
   {
@@ -23105,8 +23105,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "x = 2.",
-      "as": "x = ২।"
+      "en": "The x-intercept is where the line meets the x-axis, so put y = 0: 5x + 2×0 = 10, which gives x = 10/5 = 2.",
+      "as": "x-অক্ষত লগ পোৱা বিন্দুত y = ০: ৫x = ১০, সেয়ে x = ২।"
     }
   },
   {
@@ -23136,8 +23136,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "x = 6.",
-      "as": "x = ৬।"
+      "en": "The x-intercept is where the line meets the x-axis, so put y = 0: 3x + 6×0 = 18, which gives x = 18/3 = 6.",
+      "as": "x-অক্ষত লগ পোৱা বিন্দুত y = ০: ৩x = ১৮, সেয়ে x = ৬।"
     }
   },
   {
@@ -23880,8 +23880,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "x = 4.",
-      "as": "x = ৪।"
+      "en": "The x-intercept is where the line meets the x-axis, so put y = 0: 3x + 4×0 = 12, which gives x = 12/3 = 4.",
+      "as": "x-অক্ষত লগ পোৱা বিন্দুত y = ০: ৩x = ১২, সেয়ে x = ৪।"
     }
   },
   {
@@ -23911,8 +23911,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "x = 5.",
-      "as": "x = ৫।"
+      "en": "The x-intercept is where the line meets the x-axis, so put y = 0: 6x + 5×0 = 30, which gives x = 30/6 = 5.",
+      "as": "x-অক্ষত লগ পোৱা বিন্দুত y = ০: ৬x = ৩০, সেয়ে x = ৫।"
     }
   }
 ]

@@ -1062,15 +1062,19 @@ def h_trig_ratio(m, q):
 def h_reciprocal(m, q):
     stated = m.group(1).replace(" ", "")
     stem = q["q"]["en"]
-    s = re.search(r"sin θ = (\d+)/(\d+)", stem)
-    if not s:
-        return None
-    a, b = int(s.group(1)), int(s.group(2))
-    if stated != f"{b}/{a}":
-        return None
-    en = (f"cosec θ is the reciprocal of sin θ, so cosec θ = {b}/{a} — the fraction is simply turned over.")
-    as_ = (f"cosec θ হৈছে sin θ ৰ প্ৰতিক্ৰম, সেয়ে cosec θ = {as_num(b)}/{as_num(a)} — ভগ্নাংশটো ওলোটাই দিয়া হয়।")
-    return en, as_
+    for ratio, partner in (("sin", "cosec"), ("cos", "sec"), ("tan", "cot")):
+        s = re.search(rf"{ratio} θ = (\d+)/(\d+)", stem)
+        if not s:
+            continue
+        a, b = int(s.group(1)), int(s.group(2))
+        if stated != f"{b}/{a}":
+            return None
+        en = (f"{partner} θ is the reciprocal of {ratio} θ, so {partner} θ = {b}/{a} — the fraction is "
+              f"simply turned over.")
+        as_ = (f"{partner} θ হৈছে {ratio} θ ৰ প্ৰতিক্ৰম, সেয়ে {partner} θ = {as_num(b)}/{as_num(a)} — "
+               f"ভগ্নাংশটো ওলোটাই দিয়া হয়।")
+        return en, as_
+    return None
 
 
 def h_cp_mixed(m, q):
@@ -1161,6 +1165,287 @@ def h_partner_investment(m, q):
     return en, as_
 
 
+def h_partner_join(m, q):
+    share = num(m.group(1))
+    stem = q["q"]["en"]
+    j = re.search(
+        r"starts a business with ([\d,]+)\. After (\d+) months, B joins with ([\d,]+).*?profit is ([\d,]+)",
+        stem)
+    if not j:
+        return None
+    a, gap, b, profit = num(j.group(1)), num(j.group(2)), num(j.group(3)), num(j.group(4))
+    ra, rb = a * 12, b * (12 - gap)
+    if ra + rb == 0:
+        return None
+    if abs(profit * ra / (ra + rb) - share) > max(1.0, share * 0.01):
+        return None
+    g = math.gcd(int(ra), int(rb)) or 1
+    en = (f"A works the whole year: {fmt(a)} × 12 = {fmt(ra)}. B works only {int(12 - gap)} months: "
+          f"{fmt(b)} × {int(12 - gap)} = {fmt(rb)}. Ratio {int(ra) // g} : {int(rb) // g}, so "
+          f"A's share = {fmt(profit)} × {int(ra) // g}/{int(ra) // g + int(rb) // g} = {fmt(share)}.")
+    as_ = (f"A ৰ বছৰজোৰা: {as_num(fmt(a))} × ১২ = {as_num(fmt(ra))}; B ৰ {as_num(int(12 - gap))} মাহ: "
+           f"{as_num(fmt(b))} × {as_num(int(12 - gap))} = {as_num(fmt(rb))}। "
+           f"A ৰ অংশ = {as_num(fmt(share))}।")
+    return en, as_
+
+
+def h_cp_from_sp(m, q):
+    cp = num(m.group(1))
+    stem = q["q"]["en"]
+    sp = re.search(r"sold for ([\d,]+)", stem)
+    pct = re.search(r"profit of ([\d.]+)%", stem)
+    if not (sp and pct):
+        return None
+    SP, P = num(sp.group(1)), num(pct.group(1))
+    calc = SP * 100 / (100 + P)
+    if abs(calc - cp) > max(0.5, cp * 0.01):
+        return None
+    en = (f"Cost price = SP × 100/(100 + profit%) = {fmt(SP)} × 100/{fmt(100 + P)} = {fmt(round(calc, 2))}. "
+          f"Check: profit = {fmt(SP)} − {fmt(round(calc, 2))} = {fmt(round(SP - calc, 2))} on a cost of "
+          f"{fmt(round(calc, 2))}.")
+    as_ = (f"ক্ৰয় মূল্য = SP × ১০০/(১০০ + লাভ%) = {as_num(fmt(SP))} × ১০০/{as_num(fmt(100 + P))} = "
+           f"{as_num(fmt(round(calc, 2)))}।")
+    return en, as_
+
+
+def h_si_diff(m, q):
+    a, r, t1, t2, stated = (num(m.group(i)) for i in range(1, 6))
+    if abs(a * r * (t1 - t2) / 100 - stated) > max(0.5, stated * 0.01):
+        return None
+    en = (f"Simple interest grows by PRT/100 for each extra year, so the difference covers the extra "
+          f"{fmt(t1 - t2)} years: {fmt(a)} × {fmt(r)} × {fmt(t1 - t2)}/100 = {fmt(stated)}.")
+    as_ = (f"প্ৰতি অতিৰিক্ত বছৰত SI = PRT/১০০ ৰে বাঢ়ে, সেয়ে পাৰ্থক্যই অতিৰিক্ত {as_num(fmt(t1 - t2))} বছৰৰ: "
+           f"{as_num(fmt(a))} × {as_num(fmt(r))} × {as_num(fmt(t1 - t2))}/১০০ = {as_num(fmt(stated))}।")
+    return en, as_
+
+
+def h_roots(m, q):
+    a, b = num(m.group(1)), num(m.group(2))
+    stem = q["q"]["en"]
+    qc = re.search(r"([+-]?\s*\d*)x²", stem)
+    bc = re.search(r"([+-]\s*\d*)x\b", stem)
+    if not (qc and bc):
+        return None
+    A = 1.0 if qc.group(1) in ("", "+") else float(qc.group(1).replace(" ", ""))
+    B = float(bc.group(1).replace(" ", ""))
+    if A == 0:
+        return None
+    S, P = -B / A, 0.0
+    const = re.search(r"\+\s*([\d.]+)\s*=\s*0", stem)
+    if const:
+        P = float(const.group(1)) / A
+    if abs((a + b) - S) > 0.01 or abs(a * b - P) > 0.01:
+        return None
+    en = (f"The roots add up to −b/a = {fmt(round(S, 2))} and multiply to c/a = {fmt(round(P, 2))}; "
+          f"{fmt(a)} + {fmt(b)} = {fmt(a + b)} and {fmt(a)} × {fmt(b)} = {fmt(a * b)}, so the roots are "
+          f"{fmt(a)} and {fmt(b)}. The equation factors as (x − {fmt(a)})(x − {fmt(b)}) = 0.")
+    as_ = (f"মূলৰ যোগফল −b/a = {as_num(fmt(round(S, 2)))} আৰু গুণফল c/a = {as_num(fmt(round(P, 2)))}; "
+           f"সেয়ে মূল {as_num(fmt(a))} আৰু {as_num(fmt(b))}।")
+    return en, as_
+
+
+def h_x_intercept(m, q):
+    x = num(m.group(1))
+    stem = q["q"]["en"]
+    line = re.search(r"line ([\d.]*)x \+ ([\d.]*)y = ([\d.]+)", stem)
+    if not line:
+        return None
+    a = float(line.group(1) or 1)
+    c = float(line.group(3))
+    if a == 0 or abs(c / a - x) > 0.01:
+        return None
+    en = (f"The x-intercept is where the line meets the x-axis, so put y = 0: "
+          f"{fmt(a)}x + {line.group(2)}×0 = {fmt(c)}, which gives x = {fmt(c)}/{fmt(a)} = {fmt(x)}.")
+    as_ = (f"x-অক্ষত লগ পোৱা বিন্দুত y = ০: {as_num(fmt(a))}x = {as_num(fmt(c))}, সেয়ে x = {as_num(fmt(x))}।")
+    return en, as_
+
+
+def h_working_partner(m, q):
+    total = num(m.group(1))
+    stem = q["q"]["en"]
+    cap = re.search(r"A invests ([\d,]+), B invests ([\d,]+)", stem)
+    sal = re.search(r"salary of ([\d,]+) per month", stem)
+    prof = re.search(r"profit (?:is|of) ([\d,]+)", stem)
+    if not (cap and sal and prof):
+        return None
+    a, b = num(cap.group(1)), num(cap.group(2))
+    salary, profit = num(sal.group(1)) * 12, num(prof.group(1))
+    rest = profit - salary
+    if rest < 0 or a + b == 0:
+        return None
+    share = salary + rest * a / (a + b)
+    if abs(share - total) > max(1.0, total * 0.01):
+        return None
+    en = (f"The working partner draws a salary first: {fmt(salary / 12)} × 12 = {fmt(salary)}. "
+          f"The rest {fmt(profit)} − {fmt(salary)} = {fmt(rest)} is split in the capital ratio "
+          f"{fmt(a)} : {fmt(b)}, so A gets {fmt(rest)} × {fmt(a)}/{fmt(a + b)} = "
+          f"{fmt(round(rest * a / (a + b), 2))}. Total income = {fmt(salary)} + "
+          f"{fmt(round(rest * a / (a + b), 2))} = {fmt(round(share, 2))}.")
+    as_ = (f"কৰ্মী অংশীদাৰে প্ৰথমে দৰমহা লয়: {as_num(fmt(salary))}। বাকী {as_num(fmt(rest))} মূলধনৰ অনুপাতত "
+           f"ভগোৱা হয়; A ৰ মুঠ আয় = {as_num(fmt(round(share, 2)))}।")
+    return en, as_
+
+
+def h_new_percent(m, q):
+    stated = num(m.group(1))
+    stem = q["q"]["en"]
+    s = re.search(r"([\d.]+) litres? of a solution contains ([\d.]+)%", stem)
+    add = re.search(r"([\d.]+) litres? of water is added", stem)
+    if not (s and add):
+        return None
+    vol, pct, extra = num(s.group(1)), num(s.group(2)), num(add.group(1))
+    if vol + extra == 0 or abs(vol * pct / (vol + extra) - stated) > 0.05:
+        return None
+    en = (f"The acid itself does not change: {fmt(vol)} × {fmt(pct)}/100 = {fmt(round(vol * pct / 100, 2))} litres. "
+          f"Only water is added, so the new volume is {fmt(vol)} + {fmt(extra)} = {fmt(vol + extra)} litres and the "
+          f"new strength is {fmt(round(vol * pct / 100, 2))}/{fmt(vol + extra)} × 100 = {fmt(round(stated, 2))}%.")
+    as_ = (f"এচিডৰ পৰিমাণ সলনি নহয়: {as_num(fmt(round(vol * pct / 100, 2)))} লিটাৰ। পানী যোগ দিয়াত নতুন "
+           f"আয়তন {as_num(fmt(vol + extra))} লিটাৰ, সেয়ে নতুন শক্তি {as_num(fmt(round(stated, 2)))}%।")
+    return en, as_
+
+
+def h_time_ratio(m, q):
+    stated = m.group(1).replace(" ", "")
+    stem = q["q"]["en"]
+    b = re.search(r"still water is ([\d.]+) km/h", stem)
+    s = re.search(r"stream speed is ([\d.]+) km/h", stem)
+    if not (b and s):
+        return None
+    boat, stream = num(b.group(1)), num(s.group(1))
+    down, up = boat + stream, boat - stream
+    if up <= 0:
+        return None
+    g = math.gcd(int(down), int(up)) or 1
+    if f"{int(up) // g}:{int(down) // g}" != stated:
+        return None
+    en = (f"Downstream speed = {fmt(boat)} + {fmt(stream)} = {fmt(down)} km/h and upstream = "
+          f"{fmt(boat)} − {fmt(stream)} = {fmt(up)} km/h. For the same distance, time is inversely "
+          f"proportional to speed, so the ratio of times is {int(up) // g} : {int(down) // g}.")
+    as_ = (f"সোঁতৰ লগত গতি = {as_num(fmt(down))} কিমি/ঘণ্টা, সোঁতৰ বিৰুদ্ধে = {as_num(fmt(up))}। একে দূৰত্বত "
+           f"সময়ৰ অনুপাত = {as_num(int(up) // g)} : {as_num(int(down) // g)}।")
+    return en, as_
+
+
+def h_percent_of_number(m, q):
+    pct, whole, stated = num(m.group(1)), num(m.group(2)), num(m.group(3))
+    if abs(pct / 100 * whole - stated) > 0.05:
+        return None
+    en = (f"Take the percentage as a fraction of the whole: {fmt(pct)}% of {fmt(whole)} = "
+          f"{fmt(pct)}/100 × {fmt(whole)} = {fmt(round(stated, 2))}.")
+    as_ = (f"শতাংশক ভগ্নাংশলৈ লৈ গুণ কৰা: {as_num(fmt(pct))}% × {as_num(fmt(whole))} = "
+           f"{as_num(fmt(round(stated, 2)))}।")
+    return en, as_
+
+
+def h_avg_squares(m, q):
+    stated = num(m.group(m.lastindex))
+    n = re.search(r"squares of the first (\d+) natural", q["q"]["en"])
+    if not n:
+        return None
+    n = int(n.group(1))
+    calc = (n + 1) * (2 * n + 1) / 6
+    if abs(calc - stated) > 0.05:
+        return None
+    en = (f"The squares add up to n(n+1)(2n+1)/6 = {n}×{n + 1}×{2 * n + 1}/6 = "
+          f"{fmt(n * (n + 1) * (2 * n + 1) // 6)}, and there are {n} of them, so the average is "
+          f"{fmt(n * (n + 1) * (2 * n + 1) // 6)} ÷ {n} = (n+1)(2n+1)/6 = {fmt(round(calc, 2))}.")
+    as_ = (f"বৰ্গৰ যোগফল n(n+১)(২n+১)/৬, আৰু সংখ্যা {as_num(n)} টা, সেয়ে গড় = "
+           f"(n+১)(২n+১)/৬ = {as_num(fmt(round(calc, 2)))}।")
+    return en, as_
+
+
+def h_compound_ratio(m, q):
+    stated = m.group(1).replace(" ", "")
+    stem = q["q"]["en"]
+    r = re.search(r"ratio of (\d+) : (\d+) and (\d+) : (\d+)", stem)
+    if not r:
+        return None
+    a, b, c, d = (int(x) for x in r.groups())
+    numv, denv = a * c, b * d
+    g = math.gcd(numv, denv) or 1
+    if f"{numv // g}:{denv // g}" != stated:
+        return None
+    en = (f"A compound ratio multiplies the first terms together and the second terms together: "
+          f"({a} × {c}) : ({b} × {d}) = {numv} : {denv} = {numv // g} : {denv // g}.")
+    as_ = (f"সংযুক্ত অনুপাতত প্ৰথম পদবোৰ আৰু দ্বিতীয় পদবোৰ বেলেগে গুণ কৰা: "
+           f"({as_num(a)} × {as_num(c)}) : ({as_num(b)} × {as_num(d)}) = {as_num(numv // g)} : {as_num(denv // g)}।")
+    return en, as_
+
+
+def h_coin_count(m, q):
+    stated = num(m.group(1))
+    stem = q["q"]["en"]
+    r = re.search(r"in the ratio (\d+) : (\d+) : (\d+)", stem)
+    tot = re.search(r"total (?:amount|value)[^0-9]*([\d,]+)", stem)
+    if not (r and tot):
+        return None
+    x, y, z = (int(v) for v in r.groups())
+    total = num(tot.group(1))
+    per_part = x * 1 + y * 0.5 + z * 0.25
+    if per_part == 0 or abs(total / per_part * x - stated) > max(1.0, stated * 0.01):
+        return None
+    en = (f"One part of the ratio is worth {x}×₹1 + {y}×₹0.50 + {z}×₹0.25 = ₹{fmt(round(per_part, 2))}. "
+          f"Total ₹{fmt(total)} ÷ ₹{fmt(round(per_part, 2))} = {fmt(round(total / per_part, 2))} parts, so "
+          f"the number of 1-rupee coins is {x} × {fmt(round(total / per_part, 2))} = {fmt(stated)}.")
+    as_ = (f"অনুপাতৰ এভাগৰ মূল্য = ₹{as_num(fmt(round(per_part, 2)))}; ₹{as_num(fmt(total))} ÷ "
+           f"₹{as_num(fmt(round(per_part, 2)))} = {as_num(fmt(round(total / per_part, 2)))} ভাগ, সেয়ে "
+           f"১ টকাৰ মুদ্ৰা {as_num(fmt(stated))} টা।")
+    return en, as_
+
+
+def h_prob_at_least_once(m, q):
+    stated = m.group(1).replace(" ", "")
+    stem = q["q"]["en"]
+    p = re.search(r"happens in one trial is (\d+)/(\d+)", stem)
+    trials = re.search(r"in (\d+) trials", stem)
+    if not (p and trials):
+        return None
+    a, b, n = int(p.group(1)), int(p.group(2)), int(trials.group(1))
+    never = Fraction(b - a, b) ** n
+    if 1 - never != Fraction(stated):
+        return None
+    en = (f"Work with the opposite: never happening. P(no) = ({b - a}/{b})^{n} = {never.numerator}/"
+          f"{never.denominator}, so P(at least once) = 1 − {never.numerator}/{never.denominator} = "
+          f"{stated}.")
+    as_ = (f"বিপৰীত ঘটনা লোৱা: কেতিয়াও নঘটাৰ সম্ভাৱনা = {as_num(never.numerator)}/{as_num(never.denominator)}; "
+           f"সেয়ে অন্ততঃ এবাৰ = ১ − {as_num(never.numerator)}/{as_num(never.denominator)} = {stated.translate(AS_DIGITS)}।")
+    return en, as_
+
+
+def h_equilateral_area(m, q):
+    stated = m.group(1)
+    stem = q["q"]["en"]
+    side = re.search(r"equilateral triangle of side ([\d.]+)", stem)
+    if not side:
+        return None
+    a = num(side.group(1))
+    sq = a * a
+    if f"{fmt(sq)}√3/4" != stated.replace(" ", "").replace(",", ""):
+        return None
+    simple = f"{int(sq) // 4}√3" if sq % 4 == 0 else f"{fmt(sq)}√3/4"
+    en = (f"The area of an equilateral triangle is (√3/4)a², so with a = {fmt(a)}: "
+          f"(√3/4) × {fmt(a)}² = (√3/4) × {fmt(sq)} = {simple} ≈ {fmt(round(sq * 3 ** 0.5 / 4, 2))} cm².")
+    as_ = (f"সমবাহু ত্ৰিভুজৰ কালি = (√3/4)a² = (√3/4) × {as_num(fmt(sq))} ≈ "
+           f"{as_num(fmt(round(sq * 3 ** 0.5 / 4, 2)))} বৰ্গ ছেমি।")
+    return en, as_
+
+
+def h_coefficient(m, q):
+    stated = num(m.group(1))
+    stem = q["q"]["en"]
+    r = re.search(r"\(x \+ ([\d.]+)\)\(x \+ ([\d.]+)\)", stem)
+    if not r:
+        return None
+    a, b = num(r.group(1)), num(r.group(2))
+    if a + b != stated:
+        return None
+    en = (f"Multiply out: (x + {fmt(a)})(x + {fmt(b)}) = x² + ({fmt(a)} + {fmt(b)})x + {fmt(a * b)}. "
+          f"The coefficient of x is the sum of the two constants, {fmt(a)} + {fmt(b)} = {fmt(stated)}.")
+    as_ = (f"পূৰণ কৰা: (x + {as_num(fmt(a))})(x + {as_num(fmt(b))}) = x² + {as_num(fmt(stated))}x + "
+           f"{as_num(fmt(a * b))}; সেয়ে x ৰ সহগ = {as_num(fmt(stated))}।")
+    return en, as_
+
+
 PATTERNS = [
     (r"^A's share = ([\d,]+)\.?$", h_partnership),
     (r"^LCM\(([\d,\s]+)\) = ([\d,]+)\.?$", h_lcm),
@@ -1223,6 +1508,23 @@ PATTERNS = [
     (r"^Combined mean = ([\d.]+)\.?$", h_combined_mean),
     (r"^(Milk|Water|Solution|Mixture) = ([\d./]+) lit", h_quantity),
     (r"^A's share = ([\d,]+)\.?$", h_three_share),
+    (r"^A's share = ([\d,]+)\.?$", h_partner_join),
+    (r"^A's total income = ([\d.,]+)\.?$", h_working_partner),
+    (r"^CI = ([\d.,]+)\.?$", h_ci_expanded),
+    (r"^CP = ([\d.,]+)\.?$", h_cp_from_sp),
+    (r"^Difference = ([\d.,]+)×([\d.]+)×\(([\d.]+)-([\d.]+)\)/100 = ([\d.,]+)\.?$", h_si_diff),
+    (r"^Roots are ([\d.]+) and ([\d.]+)\.?$", h_roots),
+    (r"^x = ([\d.]+)\.?$", h_x_intercept),
+    (r"^New % = ([\d.]+)%?\.?$", h_new_percent),
+    (r"^Time ratio = ([\d:]+)\.?$", h_time_ratio),
+    (r"^([\d.]+)% of ([\d.]+) = ([\d.]+)\.?$", h_percent_of_number),
+    (r"^Average = \(n\+1\)\(2n\+1\)/6 = ([\d.]+)\.?$", h_avg_squares),
+    (r"^Average = ([\d.]+)\.?$", h_avg_squares),
+    (r"^Compound ratio = ([\d:]+)\.?$", h_compound_ratio),
+    (r"^1-rupee coins = ([\d.,]+)\.?$", h_coin_count),
+    (r"^P\(at least once\) = ([\d/]+)\.?$", h_prob_at_least_once),
+    (r"^Area = ([\d.,]+√3/4) cm²\.?$", h_equilateral_area),
+    (r"^Coefficient of x = ([\d.,]+)\.?$", h_coefficient),
     (r"^CI = .*?= ([\d.,]+)\.?$", h_ci_expanded),
     (r"^Difference = ([\d.,]+)\.?$", h_ci_si_diff),
     (r"^k = (-?[\d.]+)\.?$", h_root_k),
@@ -1240,7 +1542,15 @@ PATTERNS = [
 ]
 
 
+def has_figure(q):
+    if str(q.get("fig") or "").strip():
+        return True
+    return any(str((o or {}).get("fig") or "").strip() for o in (q.get("options") or []))
+
+
 def rewrite(q):
+    if has_figure(q):
+        return None
     exp = q.get("explanation") or {}
     text = str(exp.get("en", "")).strip()
     if text.endswith(".."):

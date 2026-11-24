@@ -1729,8 +1729,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Difference = 30000×10×(4-2)/100 = 6000.0.",
-      "as": "পাৰ্থক্য = ৬০০০.০।"
+      "en": "Simple interest grows by PRT/100 for each extra year, so the difference covers the extra 2 years: 30,000 × 10 × 2/100 = 6,000.",
+      "as": "প্ৰতি অতিৰিক্ত বছৰত SI = PRT/১০০ ৰে বাঢ়ে, সেয়ে পাৰ্থক্যই অতিৰিক্ত ২ বছৰৰ: ৩০,০০০ × ১০ × ২/১০০ = ৬,০০০।"
     }
   },
   {
@@ -1760,8 +1760,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Difference = 45000×8×(5-3)/100 = 7200.0.",
-      "as": "পাৰ্থক্য = ৭২০০.০।"
+      "en": "Simple interest grows by PRT/100 for each extra year, so the difference covers the extra 2 years: 45,000 × 8 × 2/100 = 7,200.",
+      "as": "প্ৰতি অতিৰিক্ত বছৰত SI = PRT/১০০ ৰে বাঢ়ে, সেয়ে পাৰ্থক্যই অতিৰিক্ত ২ বছৰৰ: ৪৫,০০০ × ৮ × ২/১০০ = ৭,২০০।"
     }
   },
   {
@@ -1791,8 +1791,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Difference = 60000×12×(3-1)/100 = 14400.0.",
-      "as": "পাৰ্থক্য = ১৪৪০০.০।"
+      "en": "Simple interest grows by PRT/100 for each extra year, so the difference covers the extra 2 years: 60,000 × 12 × 2/100 = 14,400.",
+      "as": "প্ৰতি অতিৰিক্ত বছৰত SI = PRT/১০০ ৰে বাঢ়ে, সেয়ে পাৰ্থক্যই অতিৰিক্ত ২ বছৰৰ: ৬০,০০০ × ১২ × ২/১০০ = ১৪,৪০০।"
     }
   },
   {
@@ -1822,8 +1822,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Difference = 75000×9×(5-2)/100 = 20250.0.",
-      "as": "পাৰ্থক্য = ২০২৫০.০।"
+      "en": "Simple interest grows by PRT/100 for each extra year, so the difference covers the extra 3 years: 75,000 × 9 × 3/100 = 20,250.",
+      "as": "প্ৰতি অতিৰিক্ত বছৰত SI = PRT/১০০ ৰে বাঢ়ে, সেয়ে পাৰ্থক্যই অতিৰিক্ত ৩ বছৰৰ: ৭৫,০০০ × ৯ × ৩/১০০ = ২০,২৫০।"
     }
   },
   {
@@ -1853,8 +1853,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Difference = 90000×7×(6-3)/100 = 18900.0.",
-      "as": "পাৰ্থক্য = ১৮৯০০.০।"
+      "en": "Simple interest grows by PRT/100 for each extra year, so the difference covers the extra 3 years: 90,000 × 7 × 3/100 = 18,900.",
+      "as": "প্ৰতি অতিৰিক্ত বছৰত SI = PRT/১০০ ৰে বাঢ়ে, সেয়ে পাৰ্থক্যই অতিৰিক্ত ৩ বছৰৰ: ৯০,০০০ × ৭ × ৩/১০০ = ১৮,৯০০।"
     }
   },
   {

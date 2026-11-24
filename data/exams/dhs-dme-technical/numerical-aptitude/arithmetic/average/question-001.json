@@ -2194,8 +2194,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Average = (n+1)(2n+1)/6 = 38.5.",
-      "as": "গড় = ৩৮.৫।"
+      "en": "The squares add up to n(n+1)(2n+1)/6 = 10×11×21/6 = 385, and there are 10 of them, so the average is 385 ÷ 10 = (n+1)(2n+1)/6 = 38.5.",
+      "as": "বৰ্গৰ যোগফল n(n+১)(২n+১)/৬, আৰু সংখ্যা ১০ টা, সেয়ে গড় = (n+১)(২n+১)/৬ = ৩৮.৫।"
     }
   },
   {
@@ -2225,8 +2225,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Average = (n+1)(2n+1)/6 = 54.17.",
-      "as": "গড় = ৫৪.১৭।"
+      "en": "The squares add up to n(n+1)(2n+1)/6 = 12×13×25/6 = 650, and there are 12 of them, so the average is 650 ÷ 12 = (n+1)(2n+1)/6 = 54.17.",
+      "as": "বৰ্গৰ যোগফল n(n+১)(২n+১)/৬, আৰু সংখ্যা ১২ টা, সেয়ে গড় = (n+১)(২n+১)/৬ = ৫৪.১৭।"
     }
   },
   {
@@ -2256,8 +2256,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Average = (n+1)(2n+1)/6 = 82.67.",
-      "as": "গড় = ৮২.৬৭।"
+      "en": "The squares add up to n(n+1)(2n+1)/6 = 15×16×31/6 = 1,240, and there are 15 of them, so the average is 1,240 ÷ 15 = (n+1)(2n+1)/6 = 82.67.",
+      "as": "বৰ্গৰ যোগফল n(n+১)(২n+১)/৬, আৰু সংখ্যা ১৫ টা, সেয়ে গড় = (n+১)(২n+১)/৬ = ৮২.৬৭।"
     }
   },
   {
@@ -2287,8 +2287,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Average = (n+1)(2n+1)/6 = 143.5.",
-      "as": "গড় = ১৪৩.৫।"
+      "en": "The squares add up to n(n+1)(2n+1)/6 = 20×21×41/6 = 2,870, and there are 20 of them, so the average is 2,870 ÷ 20 = (n+1)(2n+1)/6 = 143.5.",
+      "as": "বৰ্গৰ যোগফল n(n+১)(২n+১)/৬, আৰু সংখ্যা ২০ টা, সেয়ে গড় = (n+১)(২n+১)/৬ = ১৪৩.৫।"
     }
   },
   {
@@ -3341,8 +3341,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Average = 221.0.",
-      "as": "গড় = ২২১.০।"
+      "en": "The squares add up to n(n+1)(2n+1)/6 = 25×26×51/6 = 5,525, and there are 25 of them, so the average is 5,525 ÷ 25 = (n+1)(2n+1)/6 = 221.",
+      "as": "বৰ্গৰ যোগফল n(n+১)(২n+১)/৬, আৰু সংখ্যা ২৫ টা, সেয়ে গড় = (n+১)(২n+১)/৬ = ২২১।"
     }
   },
   {
@@ -3372,8 +3372,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Average = 315.17.",
-      "as": "গড় = ৩১৫.১৭।"
+      "en": "The squares add up to n(n+1)(2n+1)/6 = 30×31×61/6 = 9,455, and there are 30 of them, so the average is 9,455 ÷ 30 = (n+1)(2n+1)/6 = 315.17.",
+      "as": "বৰ্গৰ যোগফল n(n+১)(২n+১)/৬, আৰু সংখ্যা ৩০ টা, সেয়ে গড় = (n+১)(২n+১)/৬ = ৩১৫.১৭।"
     }
   },
   {

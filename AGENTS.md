@@ -4122,7 +4122,12 @@ Add it to the rebuild order before the build:
     node tools/seo-tighten-meta.js
     # then restore the 720 unrelated AS pages (see above)
 
-Numerical explanations under six words: 705 -> 258. The remainder are
+Figure guard: `rewrite()` in the numerical tool returns None for any question
+that carries a drawing (`q.fig` or a `fig` on an option), so the 918 figure
+questions in the book are never touched. Keep that guard in any new tool that
+edits explanations.
+
+Numerical explanations under six words: 705 -> 126. The remainder are
 fragments with no number to verify against ("k = 8", "Difference = 120") or
 question shapes not yet handled (partnerships where a partner joins after N
 months); add a handler rather than a filler sentence.

@@ -2752,8 +2752,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Coefficient of x = 19.",
-      "as": "x ৰ সহগ = ১৯।"
+      "en": "Multiply out: (x + 13)(x + 6) = x² + (13 + 6)x + 78. The coefficient of x is the sum of the two constants, 13 + 6 = 19.",
+      "as": "পূৰণ কৰা: (x + ১৩)(x + ৬) = x² + ১৯x + ৭৮; সেয়ে x ৰ সহগ = ১৯।"
     }
   },
   {
@@ -2783,8 +2783,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Coefficient of x = 16.",
-      "as": "x ৰ সহগ = ১৬।"
+      "en": "Multiply out: (x + 9)(x + 7) = x² + (9 + 7)x + 63. The coefficient of x is the sum of the two constants, 9 + 7 = 16.",
+      "as": "পূৰণ কৰা: (x + ৯)(x + ৭) = x² + ১৬x + ৬৩; সেয়ে x ৰ সহগ = ১৬।"
     }
   },
   {
@@ -2814,8 +2814,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Coefficient of x = 21.",
-      "as": "x ৰ সহগ = ২১।"
+      "en": "Multiply out: (x + 16)(x + 5) = x² + (16 + 5)x + 80. The coefficient of x is the sum of the two constants, 16 + 5 = 21.",
+      "as": "পূৰণ কৰা: (x + ১৬)(x + ৫) = x² + ২১x + ৮০; সেয়ে x ৰ সহগ = ২১।"
     }
   },
   {

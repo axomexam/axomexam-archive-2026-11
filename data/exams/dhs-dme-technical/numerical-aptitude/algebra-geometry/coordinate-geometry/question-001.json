@@ -2132,8 +2132,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "x = 2.",
-      "as": "x = ২।"
+      "en": "The x-intercept is where the line meets the x-axis, so put y = 0: 5x + 2×0 = 10, which gives x = 10/5 = 2.",
+      "as": "x-অক্ষত লগ পোৱা বিন্দুত y = ০: ৫x = ১০, সেয়ে x = ২।"
     }
   },
   {
@@ -2163,8 +2163,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "x = 6.",
-      "as": "x = ৬।"
+      "en": "The x-intercept is where the line meets the x-axis, so put y = 0: 3x + 6×0 = 18, which gives x = 18/3 = 6.",
+      "as": "x-অক্ষত লগ পোৱা বিন্দুত y = ০: ৩x = ১৮, সেয়ে x = ৬।"
     }
   },
   {
@@ -2907,8 +2907,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "x = 4.",
-      "as": "x = ৪।"
+      "en": "The x-intercept is where the line meets the x-axis, so put y = 0: 3x + 4×0 = 12, which gives x = 12/3 = 4.",
+      "as": "x-অক্ষত লগ পোৱা বিন্দুত y = ০: ৩x = ১২, সেয়ে x = ৪।"
     }
   },
   {
@@ -2938,8 +2938,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "x = 5.",
-      "as": "x = ৫।"
+      "en": "The x-intercept is where the line meets the x-axis, so put y = 0: 6x + 5×0 = 30, which gives x = 30/6 = 5.",
+      "as": "x-অক্ষত লগ পোৱা বিন্দুত y = ০: ৬x = ৩০, সেয়ে x = ৫।"
     }
   }
 ]
