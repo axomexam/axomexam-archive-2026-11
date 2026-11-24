@@ -124,8 +124,6 @@ function block({ id, lang, exam, stats, questions }) {
   const L = LABELS[lang];
   const num = (n) => n.toLocaleString("en-IN");
   const book = exam.book;
-  const cover = exam.cover || `/images/exams/${id}-cover.webp`;
-  const coverAlt = langOf(exam.coverAlt, lang) || `${langOf(exam.title, lang)} book cover`;
   const title = langOf(exam.title, lang);
   const subtitle = langOf(exam.subtitle, lang);
   const authorityName = langOf(book.authority, lang);
@@ -164,16 +162,13 @@ function block({ id, lang, exam, stats, questions }) {
 
   return `    <!-- axo-book-details:start -->
     <section class="section" data-axo-book-details="1" style="padding-top:0; padding-bottom:8px;">
-      <div class="info-panel" style="max-width:900px; margin:0 auto; padding:24px;${panelFont}">
-        <h2 style="margin:0 0 2px; color:var(--ink,#0f172a);">${L.heading}</h2>
-        <p style="margin:0 0 18px; font-size:.84rem; color:var(--ink-muted,#64748b);${kickerFont}">${L.kicker}</p>
-        <div style="display:flex; flex-wrap:wrap; gap:22px; align-items:flex-start;">
-          <img src="${esc(cover)}" alt="${esc(coverAlt)}" width="160" height="228" loading="lazy" decoding="async" style="flex:0 0 160px; width:160px; max-width:100%; height:auto; border-radius:14px; border:1px solid var(--border,#e2e8f0); box-shadow:0 16px 32px -18px rgba(15,23,42,.5);" />
-          <div style="flex:1 1 320px; min-width:220px; display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:14px 20px;">
+      <div class="info-panel" style="margin:0 0 8px; padding:20px 22px; border-radius:18px;${panelFont}">
+        <h2 style="margin:0 0 2px; font-size:1.15rem; color:var(--ink,#0f172a);">${L.heading}</h2>
+        <p style="margin:0 0 16px; font-size:.84rem; color:var(--ink-muted,#64748b);${kickerFont}">${L.kicker}</p>
+        <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:14px 20px;">
 ${rows.join("\n")}
-          </div>
         </div>
-        <p style="margin:18px 0 0; padding-top:14px; border-top:1px solid var(--border,#e2e8f0); font-size:.76rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
+        <p style="margin:16px 0 0; padding-top:14px; border-top:1px solid var(--border,#e2e8f0); font-size:.76rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
       </div>
     </section>
     <!-- axo-book-details:end -->`;
