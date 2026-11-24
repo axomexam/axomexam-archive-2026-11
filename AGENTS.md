@@ -153,6 +153,20 @@ they outrank any cleanup, refactor or "nice to have" an agent might want to do.
 - **Never change the UI.** Markup, CSS classes, layout, spacing and the
   client-side render path stay as they are. A content or SEO fix must be
   invisible to a reader looking at the page.
+- **Exception, owner-requested (Nov 2026): the "Book details" card on the exam
+  book pages.** `tools/add-book-details.js` writes one
+  `[data-axo-book-details]` card into every `exams/<id>/index.html` and its
+  `/as/` twin: publisher, per-book code, edition, language, exam, recruiting
+  body, subject / chapter / question counts, format, and the published and
+  last-updated dates. It is the one visible block added on the owner's
+  request, so do not strip it as UI churn. It sits **outside**
+  `<main id="app">` on purpose — the runtime rebuilds that element's innerHTML
+  on load, which would erase the card in the browser — so re-run
+  `node tools/add-book-details.js` after rebuilding a book page. The script is
+  idempotent (`Changed: 0` on a clean tree). Per-book facts that cannot be
+  derived from `data/` live in the `BOOKS` map at the top of that file, and
+  `authorityUrl` is only set for portals already listed in
+  `data/sources.json`.
 - **Every page opens with exactly one `<!DOCTYPE html>` / `<html lang="…">`.**
   The exam-book builders borrow another book's page as "chrome": they copy its
   head and re-emit the doctype themselves. `chrome()` in
