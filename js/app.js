@@ -2040,7 +2040,7 @@ Email: `+o+`
           <p style="margin:12px 0 0; font-size:.7rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${l(Me("book.note",{authority:s}))}</p>`}function Fa(e){const t=Oa(e);return t?`
         <div data-axo-book-details="1" style="width:100%; margin-top:14px; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${za()}">${t}
         </div>`:""}function Na(){return`
-            <p data-axo-book-total="1" style="display:none; align-items:center; gap:7px; margin:0 0 10px; padding:6px 13px; border-radius:999px; border:1px solid var(--primary,#4f46e5); background:var(--bg-tint,rgba(79,70,229,.08)); color:var(--primary,#4f46e5); font-size:.76rem; font-weight:800; letter-spacing:.01em;"></p>`}async function Qn(e,t){const a=e&&e.querySelector("[data-axo-book-total]");if(!a)return;const s=await Ba(t).catch(()=>0);s&&(a.textContent=Me("book.totalValue",{n:s.toLocaleString("en-IN")}),a.style.display="inline-flex")}function Ga(e){return!e||!e.book?"":`
+            <p data-axo-book-total="1" style="display:none; align-items:center; gap:7px; margin:12px 0 10px; padding:6px 13px; border-radius:999px; border:1px solid var(--primary,#4f46e5); background:var(--bg-tint,rgba(79,70,229,.08)); color:var(--primary,#4f46e5); font-size:.76rem; font-weight:800; letter-spacing:.01em;"></p>`}async function Qn(e,t){const a=e&&e.querySelector("[data-axo-book-total]");if(!a)return;const s=await Ba(t).catch(()=>0);s&&(a.textContent=Me("book.totalValue",{n:s.toLocaleString("en-IN")}),a.style.display="inline-flex")}function Ga(e){return!e||!e.book?"":`
             <button type="button" class="btn btn-outline btn-sm" data-axo-details-open="1" style="display:none; margin-top:14px;">${l(L("book.moreDetails"))}<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg></button>`}const Un="@media (max-width:640px){[data-axo-book-details]{display:none !important}[data-axo-details-open]{display:inline-flex !important}}";function Yn(){if(document.querySelector("style[data-axo-details-style]"))return;const e=document.createElement("style");e.setAttribute("data-axo-details-style","1"),e.textContent=Un,document.head.appendChild(e)}function Tt(){const e=document.querySelector("[data-axo-details-modal]");e&&(e.remove(),document.body.style.overflow="",document.removeEventListener("keydown",_a))}function _a(e){e.key==="Escape"&&Tt()}function Vn(e){const t=Oa(e);if(!t)return;Tt();const a=F(e,u.lang),s=document.createElement("div");s.setAttribute("data-axo-details-modal","1"),s.style.cssText="position:fixed; inset:0; z-index:2000; display:flex; align-items:flex-end; justify-content:center; background:rgba(2,6,23,.62);",s.innerHTML=`
         <div role="dialog" aria-modal="true" aria-label="${l(a)}" style="width:100%; max-width:600px; max-height:88vh; overflow:auto; background:var(--bg,#fff); border:1px solid var(--border,#e2e8f0); border-bottom:none; border-radius:18px 18px 0 0; padding:16px 18px 24px; box-shadow:0 -10px 40px rgba(2,6,23,.4); text-align:left;${za()}">
           <div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
@@ -2063,13 +2063,13 @@ Email: `+o+`
             <img src="${l(m)}" alt="${l(St(a,u.lang))}" width="912" height="1166" loading="eager" decoding="async" style="max-height:320px; width:auto; max-width:100%;">
           </div>
           <div class="exam-cover-hero-info">
-            <h1>${h}</h1>${Na()}
-            <p class="page-desc">${f}</p>${Ga(a)}${Fa(a)}
+            <h1>${h}</h1>
+            <p class="page-desc">${f}</p>${Na()}${Ga(a)}${Fa(a)}
           </div>
         </section>`:`<div class="page-head">
           <nav class="breadcrumb">${v}</nav>
-          <h1>${h}</h1>${Na()}
-          <p class="page-desc">${f}</p>${Ga(a)}${Fa(a)}
+          <h1>${h}</h1>
+          <p class="page-desc">${f}</p>${Na()}${Ga(a)}${Fa(a)}
         </div>`;e.innerHTML=`
       ${y}
       <section class="section" style="padding-bottom:46px;">

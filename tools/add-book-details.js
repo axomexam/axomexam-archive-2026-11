@@ -129,7 +129,7 @@ function row(label, value) {
 function totalBadge(lang, questions) {
   const n = questions.toLocaleString("en-IN");
   const text = lang === "as" ? `${n} টা প্ৰশ্ন আৰু উত্তৰ উপলব্ধ` : `${n} questions & answers available`;
-  return `\n        <p data-axo-book-total="1" style="display:inline-flex; align-items:center; gap:7px; margin:0 0 10px; padding:6px 13px; border-radius:999px; border:1px solid var(--primary,#4f46e5); background:var(--bg-tint,rgba(79,70,229,.08)); color:var(--primary,#4f46e5); font-size:.76rem; font-weight:800; letter-spacing:.01em;">${esc(text)}</p>`;
+  return `\n        <p data-axo-book-total="1" style="display:inline-flex; align-items:center; gap:7px; margin:12px 0 10px; padding:6px 13px; border-radius:999px; border:1px solid var(--primary,#4f46e5); background:var(--bg-tint,rgba(79,70,229,.08)); color:var(--primary,#4f46e5); font-size:.76rem; font-weight:800; letter-spacing:.01em;">${esc(text)}</p>`;
 }
 
 function block({ id, lang, exam, stats, questions }) {
@@ -210,15 +210,11 @@ function apply(file, html, lang, exam, stats, questions) {
   /* Drop the flex-wrap this script used to add to the hero. */
   stripped = stripped.replace(HERO_TAG_RE, (tag) => tag.replace(/;?\s*flex-wrap:wrap;?/g, ""));
 
-  const h1 = stripped.match(H1_RE);
   const desc = stripped.match(DESC_RE);
-  if (!h1 || !desc) return "no-anchor";
+  if (!desc) return "no-anchor";
+  const at = desc.index + desc[0].length;
 
-  const withBadge =
-    stripped.slice(0, h1.index + h1[0].length) + totalBadge(lang, questions) + stripped.slice(h1.index + h1[0].length);
-  const at = desc.index + desc[0].length + (withBadge.length - stripped.length);
-
-  const next = withBadge.slice(0, at) + card + withBadge.slice(at);
+  const next = stripped.slice(0, at) + totalBadge(lang, questions) + card + stripped.slice(at);
 
   if (next === html) return "unchanged";
   if (!CHECK) fs.writeFileSync(file, next, "utf8");
