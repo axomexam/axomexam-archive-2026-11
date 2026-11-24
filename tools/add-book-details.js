@@ -83,12 +83,12 @@ const LABELS = {
 
 const MARK_RE =
   /\n?[ \t]*<!-- axo-book-details:start -->[\s\S]*?<!-- axo-book-details:end -->\n?/;
-/* The card lives inside the book hero, so the anchor is that block's own
-   closing tag; pages built without a cover hero keep it inside .page-head,
-   right under the total-question line. */
-const HERO_RE = /<section class="exam-cover-hero"([^>]*)>/;
-const HERO_END_RE = /\n[ \t]*<\/section>/;
-const TOTAL_RE = /<p class="exam-book-total"[^>]*>[^<]*<\/p>/;
+/* The card is the tail of the book hero: it follows the description, inside
+   .exam-cover-hero-info (or .page-head on pages built without a cover). */
+const DESC_RE = /<p class="page-desc">[\s\S]*?<\/p>/;
+/* The hero's own total line is replaced by the card's question count. */
+const TOTAL_RE = /\n[ \t]*<p class="exam-book-total"[^>]*>[^<]*<\/p>/;
+const HERO_TAG_RE = /<section class="exam-cover-hero"[^>]*>/;
 /* The hero's "What you will prepare" label is replaced by the card itself. */
 const CHOOSE_RE = /\n[ \t]*<p class="exams-choose">[^<]*<\/p>/;
 
@@ -119,7 +119,7 @@ function questionCount(id, manifest) {
 }
 
 function row(label, value) {
-  return `          <div><span style="display:block; font-size:.7rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:2px;">${label}</span><span style="display:block; font-size:.92rem; font-weight:600; color:var(--ink,#0f172a);">${value}</span></div>`;
+  return `            <div><span style="display:block; font-size:.6rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:1px;">${label}</span><span style="display:block; font-size:.78rem; font-weight:600; line-height:1.35; color:var(--ink,#0f172a);">${value}</span></div>`;
 }
 
 function block({ id, lang, exam, stats, questions }) {
@@ -139,7 +139,6 @@ function block({ id, lang, exam, stats, questions }) {
     row(L.code, esc(book.code)),
     row(L.edition, L.editionValue),
     row(L.language, L.languageValue),
-    row(L.exam, esc(subtitle || title)),
     row(L.authority, authority),
     row(L.subjects, lang === "as" ? `${num(stats.subjects)} টা বিভাগ` : `${num(stats.subjects)} subject sections`),
     row(L.chapters, lang === "as" ? `${num(stats.chapters)} টা অধ্যায়` : `${num(stats.chapters)} chapters`),
@@ -162,41 +161,29 @@ function block({ id, lang, exam, stats, questions }) {
   const panelFont = lang === "as" ? AS_FONT : "";
   const kickerFont = lang === "as" ? "" : AS_FONT;
 
-  return `      <!-- axo-book-details:start -->
-      <div data-axo-book-details="1" style="flex:1 1 100%; width:100%; margin-top:6px; padding-top:16px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${panelFont}">
-        <h2 style="margin:0 0 2px; font-size:1.05rem; color:var(--ink,#0f172a);">${L.heading}</h2>
-        <p style="margin:0 0 14px; font-size:.8rem; color:var(--ink-muted,#64748b);${kickerFont}">${L.kicker}</p>
-        <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:12px 18px;">
+  return `        <!-- axo-book-details:start -->
+        <div data-axo-book-details="1" style="width:100%; margin-top:14px; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${panelFont}">
+          <p style="margin:0 0 9px; font-size:.62rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${L.heading} <span style="font-weight:700;${kickerFont}">${L.kicker}</span></p>
+          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(132px,1fr)); gap:10px 14px;">
 ${rows.join("\n")}
+          </div>
+          <p style="margin:12px 0 0; font-size:.68rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
         </div>
-        <p style="margin:14px 0 0; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); font-size:.74rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
-      </div>
-      <!-- axo-book-details:end -->`;
+        <!-- axo-book-details:end -->`;
 }
 
 function apply(file, html, lang, exam, stats, questions) {
   const card = `\n${block({ id: exam.id, lang, exam, stats, questions })}\n`;
-  let stripped = html.replace(MARK_RE, "").replace(CHOOSE_RE, "");
+  let stripped = html
+    .replace(MARK_RE, "")
+    .replace(CHOOSE_RE, "")
+    .replace(TOTAL_RE, "");
+  /* Drop the flex-wrap this script used to add to the hero. */
+  stripped = stripped.replace(HERO_TAG_RE, (tag) => tag.replace(/;?\s*flex-wrap:wrap;?/g, ""));
 
-  const hero = stripped.match(HERO_RE);
-  let at = -1;
-
-  if (hero) {
-    /* The hero is a flex row; the details row has to wrap under the cover. */
-    if (!/flex-wrap/.test(hero[1])) {
-      const tag = hero[1].includes("style=")
-        ? hero[0].replace(/style="([^"]*)"/, 'style="$1; flex-wrap:wrap;"')
-        : hero[0].replace(/>$/, ' style="flex-wrap:wrap;">');
-      stripped = stripped.slice(0, hero.index) + tag + stripped.slice(hero.index + hero[0].length);
-    }
-    const end = stripped.slice(hero.index).match(HERO_END_RE);
-    if (!end) return "no-anchor";
-    at = hero.index + end.index;
-  } else {
-    const total = stripped.match(TOTAL_RE);
-    if (!total) return "no-anchor";
-    at = total.index + total[0].length;
-  }
+  const desc = stripped.match(DESC_RE);
+  if (!desc) return "no-anchor";
+  const at = desc.index + desc[0].length;
 
   const next = stripped.slice(0, at) + card + stripped.slice(at);
 

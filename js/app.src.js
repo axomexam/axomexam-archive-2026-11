@@ -5514,16 +5514,6 @@
     return counts.reduce((a, b) => a + b, 0);
   }
 
-  async function hydrateExamBookTotal(scope, exam) {
-    const el = scope && scope.querySelector(".exam-book-total");
-    if (!el) return;
-    const n = await examBookQuestionCount(exam);
-    if (!n) return;
-    const num = n.toLocaleString("en-IN");
-    el.textContent = `${num} ${t("exams.totalQuestions")}`;
-    el.hidden = false;
-  }
-
   /* Chapter count = leaf nodes under the book's study sections, the same
      structure the subject cards are rendered from. */
   function examBookChapters(exam) {
@@ -5539,7 +5529,7 @@
   /* One labelled cell of the book-details card. */
   function bookFactHTML(label, valueHTML) {
     return `
-              <div><span style="display:block; font-size:.7rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:2px;">${escapeHtml(label)}</span><span style="display:block; font-size:.92rem; font-weight:600; color:var(--ink,#0f172a);">${valueHTML}</span></div>`;
+              <div><span style="display:block; font-size:.6rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:1px;">${escapeHtml(label)}</span><span style="display:block; font-size:.78rem; font-weight:600; line-height:1.35; color:var(--ink,#0f172a);">${valueHTML}</span></div>`;
   }
 
   /* Library record for one exam book, rendered above the subject cards.
@@ -5564,7 +5554,6 @@
       bookFactHTML(tc("book.code"), escapeHtml(book.code || "")),
       bookFactHTML(tc("book.edition"), escapeHtml(tc("book.editionValue"))),
       bookFactHTML(tc("book.language"), escapeHtml(tc("book.languageValue"))),
-      bookFactHTML(tc("book.exam"), escapeHtml(ebkLang(exam.subtitle, lang) || examBookName(exam, lang))),
       bookFactHTML(tc("book.conductedBy"), authorityHTML),
       bookFactHTML(tc("book.subjects"), escapeHtml(tcf("book.subjectsValue", { n: subjects }))),
       bookFactHTML(tc("book.chapters"), escapeHtml(tcf("book.chaptersValue", { n: chapters }))),
@@ -5574,12 +5563,11 @@
       bookFactHTML(tc("book.updated"), escapeHtml(ebkLang(book.updated, lang))),
     ].join("");
     return `
-        <div data-axo-book-details="1" style="flex:1 1 100%; width:100%; margin-top:6px; padding-top:16px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${panelFont}">
-          <h2 style="margin:0 0 2px; font-size:1.05rem; color:var(--ink,#0f172a);">${escapeHtml(tc("book.title"))}</h2>
-          <p style="margin:0 0 14px; font-size:.8rem; color:var(--ink-muted,#64748b);${kickerFont}">${escapeHtml(tc("book.kicker"))}</p>
-          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:12px 18px;">${facts}
+        <div data-axo-book-details="1" style="width:100%; margin-top:14px; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${panelFont}">
+          <p style="margin:0 0 9px; font-size:.62rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${escapeHtml(tc("book.title"))} <span style="font-weight:700;${kickerFont}">${escapeHtml(tc("book.kicker"))}</span></p>
+          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(132px,1fr)); gap:10px 14px;">${facts}
           </div>
-          <p style="margin:14px 0 0; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); font-size:.74rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${escapeHtml(tcf("book.note", { authority }))}</p>
+          <p style="margin:12px 0 0; font-size:.68rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${escapeHtml(tcf("book.note", { authority }))}</p>
         </div>`;
   }
 
@@ -5776,21 +5764,19 @@
       ? `<div class="page-head">
           <nav class="breadcrumb">${crumbHTML}</nav>
         </div>
-        <section class="exam-cover-hero" style="--ebk:${color}; flex-wrap:wrap;">
+        <section class="exam-cover-hero" style="--ebk:${color}">
           <div class="exam-cover-hero-media">
             <img src="${escapeHtml(cover)}" alt="${escapeHtml(examCoverAlt(exam, state.lang))}" width="912" height="1166" loading="eager" decoding="async">
           </div>
           <div class="exam-cover-hero-info">
             <h1>${titleHTML}</h1>
-            <p class="page-desc">${descHTML}</p>
-            <p class="exam-book-total" hidden></p>
-          </div>${examBookDetailsHTML(exam)}
+            <p class="page-desc">${descHTML}</p>${examBookDetailsHTML(exam)}
+          </div>
         </section>`
       : `<div class="page-head">
           <nav class="breadcrumb">${crumbHTML}</nav>
           <h1>${titleHTML}</h1>
-          <p class="page-desc">${descHTML}</p>
-          <p class="exam-book-total" hidden></p>${examBookDetailsHTML(exam)}
+          <p class="page-desc">${descHTML}</p>${examBookDetailsHTML(exam)}
         </div>`;
     main.innerHTML = `
       ${headHTML}
@@ -5801,7 +5787,6 @@
       </section>`;
     observeReveals();
     hydrateExamCardCounts(main, exam);
-    hydrateExamBookTotal(main, exam);
     hydrateExamBookDetails(main, exam);
     if (examBookIsPreparing(exam)) showExamPreparingPopup(exam);
   }
