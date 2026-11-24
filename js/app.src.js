@@ -1253,7 +1253,7 @@
 
     const row2 = [
       ...NAV_ROW2_CATS.map(catLink),
-      extraLink("/current-affairs", t("nav.currentAffairs"), activePath),
+      extraLink("/current-affairs", t("nav.currentAffairsShort"), activePath),
       extraLink("/exam-wise-mock-test", t("nav.examMock"), activePath),
       extraLink("/previous-year", t("nav.previousYear"), activePath),
       extraLink("/contact", t("nav.contact"), activePath),
