@@ -48,9 +48,11 @@
     otherStep2: { en: "Choose Install app or Add to Home Screen", as: "Install app বা Add to Home Screen বাছনি কৰক" },
     otherStep3: { en: "Confirm — the axomexam icon appears", as: "নিশ্চিত কৰক — axomexam আইকন ওলাব" },
     gotIt: { en: "Got it", as: "বুজিলো" },
+    installNow: { en: "Install now", as: "এতিয়াই ইনস্টল কৰক" },
   };
 
   let deferred = null;
+  const promptWaiters = [];
   let pill = null;
   let sheet = null;
 
@@ -161,29 +163,56 @@
     });
   }
 
-  function openInstall() {
-    if (deferred) {
-      const event = deferred;
-      deferred = null;
-      /* A captured event goes stale when the browser changes its mind about
-         installability; prompting then throws. Fall back to the steps. */
-      try {
-        event.prompt();
-      } catch (e) {
-        openInstallSheet();
-        return;
-      }
-      /* Keep the pill until the browser answers, so a dialog that never opens
-         (or a silent refusal) leaves the reader something to click again. */
-      if (!event.userChoice || typeof event.userChoice.then !== "function") return;
-      event.userChoice.then((choice) => {
-        hidePill();
-        if (choice && choice.outcome === "accepted") writeState({ installedAt: Date.now() });
-        else writeState({ dismissedAt: Date.now() });
-      });
+  /* Chrome sometimes fires beforeinstallprompt a beat after load, and prompt()
+     only works inside the reader's activation window, so wait a short while for
+     the event rather than dropping straight to the written steps. */
+  function waitForPrompt(ms) {
+    if (deferred) return Promise.resolve(deferred);
+    return new Promise((resolve) => {
+      const settle = (event) => {
+        window.clearTimeout(timer);
+        const at = promptWaiters.indexOf(settle);
+        if (at !== -1) promptWaiters.splice(at, 1);
+        resolve(event || null);
+      };
+      const timer = window.setTimeout(() => settle(null), ms);
+      promptWaiters.push(settle);
+    });
+  }
+
+  function promptInstall(event) {
+    deferred = null;
+    /* A captured event goes stale when the browser changes its mind about
+       installability; prompting then throws. Fall back to the steps. */
+    try {
+      event.prompt();
+    } catch (e) {
+      openInstallSheet();
       return;
     }
-    openInstallSheet();
+    /* Keep the pill until the browser answers, so a dialog that never opens
+       (or a silent refusal) leaves the reader something to click again. */
+    if (!event.userChoice || typeof event.userChoice.then !== "function") return;
+    event.userChoice.then((choice) => {
+      hidePill();
+      if (choice && choice.outcome === "accepted") writeState({ installedAt: Date.now() });
+      else writeState({ dismissedAt: Date.now() });
+    });
+  }
+
+  function openInstall() {
+    if (deferred) {
+      promptInstall(deferred);
+      return;
+    }
+    if (isIos()) {
+      openInstallSheet();
+      return;
+    }
+    waitForPrompt(1500).then((event) => {
+      if (event) promptInstall(event);
+      else openInstallSheet();
+    });
   }
 
   function openInstallSheet() {
@@ -201,9 +230,11 @@
       "<li>" + t(prefix + "Step2") + "</li>" +
       "<li>" + t(prefix + "Step3") + "</li>" +
       "</ol>" +
+      '<button class="axo-install-sheet-go" type="button" hidden>' + t("installNow") + "</button>" +
       '<button class="axo-install-sheet-close" type="button">' + t("gotIt") + "</button>" +
       "</div>";
     document.body.appendChild(sheet);
+    syncSheetInstallButton();
     window.requestAnimationFrame(() => sheet && sheet.classList.add("is-in"));
     const close = () => {
       writeState({ dismissedAt: Date.now() });
@@ -216,6 +247,11 @@
     sheet.addEventListener("click", (event) => {
       if (event.target === sheet) close();
       else if (event.target.closest && event.target.closest(".axo-install-sheet-close")) close();
+      else if (event.target.closest && event.target.closest(".axo-install-sheet-go")) {
+        const pending = deferred;
+        close();
+        if (pending) promptInstall(pending);
+      }
     });
     document.addEventListener("keydown", function onKey(event) {
       if (event.key === "Escape") {
@@ -223,6 +259,14 @@
         document.removeEventListener("keydown", onKey);
       }
     });
+  }
+
+  /* The written steps stay the fallback; the moment Chrome offers its own
+     dialog, the sheet grows a button that opens it. */
+  function syncSheetInstallButton() {
+    if (!sheet) return;
+    const go = sheet.querySelector(".axo-install-sheet-go");
+    if (go) go.hidden = !deferred;
   }
 
   function scheduleShow() {
@@ -235,6 +279,8 @@
   window.addEventListener("beforeinstallprompt", (event) => {
     event.preventDefault();
     deferred = event;
+    promptWaiters.splice(0).forEach((resolve) => resolve(event));
+    syncSheetInstallButton();
     scheduleShow();
   });
 
