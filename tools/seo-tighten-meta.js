@@ -104,7 +104,7 @@ function compactDesc(desc, primary) {
 }
 
 function finish(d, primary) {
-  d = d.replace(/\s+/g, " ").trim();
+  d = stripDanglers(d.replace(/\s+/g, " ").trim());
   if (!/[.!?]$/.test(d)) d += ".";
   if (d.length < DESC_MIN && primary && !d.toLowerCase().includes(primary.toLowerCase())) {
     d = (primary + ": " + d).replace(/\s+/g, " ");
@@ -112,6 +112,49 @@ function finish(d, primary) {
     if (d.length > DESC_MAX) d = trimWords(d, DESC_MAX);
   }
   return d;
+}
+
+/* A word-boundary cut can leave the sentence hanging on a fragment of the
+   phrase it started in: "…exam-pattern questions, no sign-up." becomes
+   "…exam-pattern questions, no." and reads like a broken template in the
+   SERP. Drop those fragments. "free" and "more" are left alone: "…and more."
+   or "…Police. Free." are clipped but grammatical, and cutting them would
+   remove real copy. */
+const DANGLING_WORD = /[\s,;:—–-](?:no|and|or|with|for|in|on|to|of|a|an|the|plus|from|at|by|how|what|who|where|when|why|that|which|than|its|their|this|these|those|not|will|can|may|is|are|was|were|be|been|being|has|have|had|do|does|did|into|about|over|under|between|as|if|then|so|but|also|very|just|only|per)\s*[.!?]?$/i;
+
+function stripDanglers(d) {
+  let out = d.replace(/[\s,;:—–-]+$/, "");
+  for (let i = 0; i < 4 && DANGLING_WORD.test(out); i++) {
+    const next = out.replace(DANGLING_WORD, "").replace(/[\s,;:—–-]+$/, "");
+    if (next.length < DESC_MIN) break;
+    out = next;
+  }
+  return out;
+}
+
+/* Titles like "LCM & HCF - DHS & DME Technical" name the page but promise
+   nothing, so a reader scrolling the SERP has no reason to prefer it. These
+   rules add the plain benefit the page actually delivers (questions with
+   answers) without touching the keyword, and never break the 60-character
+   limit. Only titles with no benefit word at all are candidates. */
+const BENEFIT_WORD = /free|question|answer|mcq|mock|test|pdf|notes?|paper|practice|syllabus|ebook|guide|tips/i;
+const EXAM_TAIL = "ADRE 3\\.0 Grade III|ADRE 3\\.0 Grade IV|DHS & DME Technical|DHS & DME Non-Technical Grade III|DHS & DME Grade IV|DHS & DME|RRB NTPC|Assam Police AB & UB|Assam Police SI|Assam Police|APSC";
+
+function sharpenTitle(title) {
+  if (BENEFIT_WORD.test(title) || title.length > 50) return title;
+  for (const [re, joiner] of [
+    [new RegExp(`^(.+?)\\s+-\\s+(${EXAM_TAIL})$`), " — "],
+    [new RegExp(`^(.+?)\\s+for\\s+(${EXAM_TAIL})$`), " for "],
+  ]) {
+    const m = re.exec(title);
+    if (!m) continue;
+    const [, base, exam] = m;
+    for (const mid of [" Questions with Answers", " Questions & Answers", " MCQs with Answers", " Questions", " MCQs"]) {
+      const candidate = `${base}${mid}${joiner}${exam}`;
+      if (candidate.length <= TITLE_MAX) return candidate;
+    }
+  }
+  return title;
 }
 
 function trimWords(s, max) {
@@ -179,12 +222,22 @@ for (const dir of dirs) {
   const plainDesc = unescape(oldDesc);
 
   let nextTitle = oldTitle;
-  if (plainTitle.length > TITLE_MAX || plainTitle.length < TITLE_MIN) nextTitle = newTitle(oldTitle, h1);
+  if (plainTitle.length > TITLE_MAX || plainTitle.length < TITLE_MIN) {
+    nextTitle = newTitle(oldTitle, h1);
+  } else {
+    const sharpened = sharpenTitle(plainTitle);
+    if (sharpened !== plainTitle) nextTitle = escape(sharpened);
+  }
 
   let nextDesc = oldDesc;
   if (plainDesc.length > DESC_MAX) {
     const primary = rel.startsWith("/as/") ? "" : plainTitle.split(/[—|:]/)[0].replace(/\s+Mock Test.*$/, "").trim();
     nextDesc = escape(compactDesc(plainDesc, primary));
+  } else {
+    /* Descriptions trimmed by an older run can still end on a fragment.
+       Repairing them here keeps the whole site clean on every run. */
+    const repaired = stripDanglers(plainDesc);
+    if (repaired !== plainDesc) nextDesc = escape(/[.!?]$/.test(repaired) ? repaired : repaired + ".");
   }
 
   /* Two pages must never share a title. If a rewrite (or a legacy page) lands
