@@ -5569,8 +5569,7 @@
     return `
           <p style="margin:0 0 10px; font-size:.64rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${escapeHtml(tc("book.title"))} <span style="font-weight:700;${kickerFont}">${escapeHtml(tc("book.kicker"))}</span></p>
           <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px 18px;">${facts}
-          </div>
-          <p style="margin:12px 0 0; font-size:.7rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${escapeHtml(tcf("book.note", { authority }))}</p>`;
+          </div>`;
   }
 
   /* Same record, dropped into the hero under the description on desktop. */

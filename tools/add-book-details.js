@@ -177,7 +177,6 @@ function block({ id, lang, exam, stats, questions }) {
           <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px 18px;">
 ${rows.join("\n")}
           </div>
-          <p style="margin:12px 0 0; font-size:.7rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
         </div>
         <!-- axo-book-details:end -->`;
 }
