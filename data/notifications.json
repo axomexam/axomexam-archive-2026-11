@@ -2,6 +2,18 @@
   "_readme": "Yeh hi jagah hai jahan aap notification likhte hain. Neeche 'items' mein ek entry jodiye, phir GitHub par 'Send notification' workflow chalaiye. Site par bell list aur users ke phone/desktop par browser notification — dono isi file se aate hain. 'id' unique rakhiye (dobara wahi id na dein). 'title' aur 'body' dono language mein likhiye.",
   "items": [
     {
+      "id": "rrb-ntpc-sets-6-10-live",
+      "title": {
+        "en": "RRB NTPC new mock test series is live — Sets 6–10",
+        "as": "RRB NTPC ৰ নতুন মক টেষ্ট শৃংখলা উপলব্ধ — Set 6–10"
+      },
+      "body": {
+        "en": "Five new full-paper sets (Sets 6–10) added: 100 questions each, 90 minutes, bilingual answers and instant scoring.",
+        "as": "পাঁচটা নতুন সম্পূৰ্ণ প্ৰশ্নকাকত (Set 6–10) যোগ কৰা হৈছে: প্ৰতিটোত ১০০ প্ৰশ্ন, ৯০ মিনিট, দ্বিভাষিক উত্তৰ আৰু তৎক্ষণাত স্ক'ৰিং।"
+      },
+      "url": "/exam-wise-mock-test/rrb-ntpc/"
+    },
+    {
       "id": "dhs-dme-book-live",
       "title": {
         "en": "Free DHS & DME Technical Grade III book is live",
