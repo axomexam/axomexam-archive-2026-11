@@ -90,6 +90,9 @@ const DESC_RE = /<p class="page-desc">[\s\S]*?<\/p>/;
 /* The hero's own total line is replaced by the card's question count. */
 const TOTAL_RE = /\n[ \t]*<p class="exam-book-total"[^>]*>[^<]*<\/p>/;
 const HERO_TAG_RE = /<section class="exam-cover-hero"[^>]*>/;
+const H1_RE = /<h1>[\s\S]*?<\/h1>/;
+/* The bold total that sits directly under the book name. */
+const TOTAL_BADGE_RE = /\n[ \t]*<p data-axo-book-total="1"[\s\S]*?<\/p>/;
 /* The hero's "What you will prepare" label is replaced by the card itself. */
 const CHOOSE_RE = /\n[ \t]*<p class="exams-choose">[^<]*<\/p>/;
 
@@ -121,6 +124,12 @@ function questionCount(id, manifest) {
 
 function row(label, value) {
   return `            <div><span style="display:block; font-size:.6rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:2px;">${label}</span><span style="display:block; font-size:.78rem; font-weight:600; line-height:1.35; color:var(--ink,#0f172a);">${value}</span></div>`;
+}
+
+function totalBadge(lang, questions) {
+  const n = questions.toLocaleString("en-IN");
+  const text = lang === "as" ? `${n} টা প্ৰশ্ন আৰু উত্তৰ উপলব্ধ` : `${n} questions & answers available`;
+  return `\n        <p data-axo-book-total="1" style="display:inline-flex; align-items:center; gap:7px; margin:0 0 10px; padding:6px 13px; border-radius:999px; border:1px solid var(--primary,#4f46e5); background:var(--bg-tint,rgba(79,70,229,.08)); color:var(--primary,#4f46e5); font-size:.76rem; font-weight:800; letter-spacing:.01em;">${esc(text)}</p>`;
 }
 
 function block({ id, lang, exam, stats, questions }) {
@@ -195,16 +204,21 @@ function apply(file, html, lang, exam, stats, questions) {
   const card = `\n${block({ id: exam.id, lang, exam, stats, questions })}\n`;
   let stripped = html
     .replace(MARK_RE, "")
+    .replace(TOTAL_BADGE_RE, "")
     .replace(CHOOSE_RE, "")
     .replace(TOTAL_RE, "");
   /* Drop the flex-wrap this script used to add to the hero. */
   stripped = stripped.replace(HERO_TAG_RE, (tag) => tag.replace(/;?\s*flex-wrap:wrap;?/g, ""));
 
+  const h1 = stripped.match(H1_RE);
   const desc = stripped.match(DESC_RE);
-  if (!desc) return "no-anchor";
-  const at = desc.index + desc[0].length;
+  if (!h1 || !desc) return "no-anchor";
 
-  const next = stripped.slice(0, at) + card + stripped.slice(at);
+  const withBadge =
+    stripped.slice(0, h1.index + h1[0].length) + totalBadge(lang, questions) + stripped.slice(h1.index + h1[0].length);
+  const at = desc.index + desc[0].length + (withBadge.length - stripped.length);
+
+  const next = withBadge.slice(0, at) + card + withBadge.slice(at);
 
   if (next === html) return "unchanged";
   if (!CHECK) fs.writeFileSync(file, next, "utf8");

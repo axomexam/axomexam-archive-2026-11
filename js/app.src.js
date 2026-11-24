@@ -5582,6 +5582,22 @@
         </div>`;
   }
 
+  /* Question total, shown right under the book name. It is the same manifest
+     number the record prints, so the two always agree. */
+  function examBookTotalHTML() {
+    return `
+            <p data-axo-book-total="1" style="display:none; align-items:center; gap:7px; margin:0 0 10px; padding:6px 13px; border-radius:999px; border:1px solid var(--primary,#4f46e5); background:var(--bg-tint,rgba(79,70,229,.08)); color:var(--primary,#4f46e5); font-size:.76rem; font-weight:800; letter-spacing:.01em;"></p>`;
+  }
+
+  async function hydrateExamBookTotal(scope, exam) {
+    const el = scope && scope.querySelector("[data-axo-book-total]");
+    if (!el) return;
+    const n = await examBookQuestionCount(exam).catch(() => 0);
+    if (!n) return;
+    el.textContent = tcf("book.totalValue", { n: n.toLocaleString("en-IN") });
+    el.style.display = "inline-flex";
+  }
+
   /* Phones get the record in a sheet instead, opened from this button. */
   function examBookDetailsButtonHTML(exam) {
     if (!exam || !exam.book) return "";
@@ -5835,13 +5851,13 @@
             <img src="${escapeHtml(cover)}" alt="${escapeHtml(examCoverAlt(exam, state.lang))}" width="912" height="1166" loading="eager" decoding="async" style="max-height:320px; width:auto; max-width:100%;">
           </div>
           <div class="exam-cover-hero-info">
-            <h1>${titleHTML}</h1>
+            <h1>${titleHTML}</h1>${examBookTotalHTML()}
             <p class="page-desc">${descHTML}</p>${examBookDetailsButtonHTML(exam)}${examBookDetailsHTML(exam)}
           </div>
         </section>`
       : `<div class="page-head">
           <nav class="breadcrumb">${crumbHTML}</nav>
-          <h1>${titleHTML}</h1>
+          <h1>${titleHTML}</h1>${examBookTotalHTML()}
           <p class="page-desc">${descHTML}</p>${examBookDetailsButtonHTML(exam)}${examBookDetailsHTML(exam)}
         </div>`;
     main.innerHTML = `
@@ -5854,6 +5870,7 @@
     observeReveals();
     hydrateExamCardCounts(main, exam);
     hydrateExamBookDetails(main, exam);
+    hydrateExamBookTotal(main, exam);
     ensureBookDetailsStyle();
     const detailsBtn = main.querySelector("[data-axo-details-open]");
     if (detailsBtn) detailsBtn.addEventListener("click", () => openBookDetailsModal(exam));
