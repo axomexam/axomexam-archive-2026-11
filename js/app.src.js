@@ -5529,7 +5529,7 @@
   /* One labelled cell of the book-details card. */
   function bookFactHTML(label, valueHTML) {
     return `
-              <div><span style="display:block; font-size:.6rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:1px;">${escapeHtml(label)}</span><span style="display:block; font-size:.78rem; font-weight:600; line-height:1.35; color:var(--ink,#0f172a);">${valueHTML}</span></div>`;
+              <div><span style="display:block; font-size:.68rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:3px;">${escapeHtml(label)}</span><span style="display:block; font-size:.9rem; font-weight:600; line-height:1.4; color:var(--ink,#0f172a);">${valueHTML}</span></div>`;
   }
 
   /* Library record for one exam book, rendered above the subject cards.
@@ -5564,10 +5564,10 @@
     ].join("");
     return `
         <div data-axo-book-details="1" style="width:100%; margin-top:14px; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${panelFont}">
-          <p style="margin:0 0 9px; font-size:.62rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${escapeHtml(tc("book.title"))} <span style="font-weight:700;${kickerFont}">${escapeHtml(tc("book.kicker"))}</span></p>
-          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(132px,1fr)); gap:10px 14px;">${facts}
+          <p style="margin:0 0 12px; font-size:.7rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${escapeHtml(tc("book.title"))} <span style="font-weight:700;${kickerFont}">${escapeHtml(tc("book.kicker"))}</span></p>
+          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:16px 24px;">${facts}
           </div>
-          <p style="margin:12px 0 0; font-size:.68rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${escapeHtml(tcf("book.note", { authority }))}</p>
+          <p style="margin:16px 0 0; font-size:.74rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${escapeHtml(tcf("book.note", { authority }))}</p>
         </div>`;
   }
 
@@ -5766,7 +5766,7 @@
         </div>
         <section class="exam-cover-hero" style="--ebk:${color}">
           <div class="exam-cover-hero-media">
-            <img src="${escapeHtml(cover)}" alt="${escapeHtml(examCoverAlt(exam, state.lang))}" width="912" height="1166" loading="eager" decoding="async">
+            <img src="${escapeHtml(cover)}" alt="${escapeHtml(examCoverAlt(exam, state.lang))}" width="912" height="1166" loading="eager" decoding="async" style="max-height:320px; width:auto; max-width:100%;">
           </div>
           <div class="exam-cover-hero-info">
             <h1>${titleHTML}</h1>

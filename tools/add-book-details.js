@@ -34,6 +34,7 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const CHECK = process.argv.includes("--check");
 const EXAMS_INDEX = path.join(ROOT, "data", "exams", "index.json");
+const APP_SRC = path.join(ROOT, "js", "app.src.js");
 const COUNTS = path.join(ROOT, "data", "counts.json");
 
 const LABELS = {
@@ -119,7 +120,7 @@ function questionCount(id, manifest) {
 }
 
 function row(label, value) {
-  return `            <div><span style="display:block; font-size:.6rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:1px;">${label}</span><span style="display:block; font-size:.78rem; font-weight:600; line-height:1.35; color:var(--ink,#0f172a);">${value}</span></div>`;
+  return `            <div><span style="display:block; font-size:.68rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:3px;">${label}</span><span style="display:block; font-size:.9rem; font-weight:600; line-height:1.4; color:var(--ink,#0f172a);">${value}</span></div>`;
 }
 
 function block({ id, lang, exam, stats, questions }) {
@@ -163,13 +164,31 @@ function block({ id, lang, exam, stats, questions }) {
 
   return `        <!-- axo-book-details:start -->
         <div data-axo-book-details="1" style="width:100%; margin-top:14px; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${panelFont}">
-          <p style="margin:0 0 9px; font-size:.62rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${L.heading} <span style="font-weight:700;${kickerFont}">${L.kicker}</span></p>
-          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(132px,1fr)); gap:10px 14px;">
+          <p style="margin:0 0 12px; font-size:.7rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${L.heading} <span style="font-weight:700;${kickerFont}">${L.kicker}</span></p>
+          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:16px 24px;">
 ${rows.join("\n")}
           </div>
-          <p style="margin:12px 0 0; font-size:.68rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
+          <p style="margin:16px 0 0; font-size:.74rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
         </div>
         <!-- axo-book-details:end -->`;
+}
+
+/* The runtime only renders a book page for the books in EXAM_BOOKS_READY
+   (js/app.src.js); the rest show "coming soon". Read the list from there so
+   the static copy never promises a book the reader cannot open. */
+function readyBooks() {
+  const src = fs.readFileSync(APP_SRC, "utf8");
+  const m = src.match(/const EXAM_BOOKS_READY = \[([^\]]*)\]/);
+  if (!m) return null;
+  return m[1].split(",").map((id) => id.trim().replace(/^["']|["']$/g, "")).filter(Boolean);
+}
+
+function strip(file) {
+  const html = fs.readFileSync(file, "utf8");
+  const next = html.replace(MARK_RE, "");
+  if (next === html) return false;
+  if (!CHECK) fs.writeFileSync(file, next, "utf8");
+  return true;
 }
 
 function apply(file, html, lang, exam, stats, questions) {
@@ -196,17 +215,24 @@ function main() {
   const index = JSON.parse(fs.readFileSync(EXAMS_INDEX, "utf8"));
   const manifest = JSON.parse(fs.readFileSync(COUNTS, "utf8")).examSectionCounts || {};
   const books = (index.exams || []).filter((e) => e.book && (e.sections || []).length);
+  const ready = readyBooks();
   let changed = 0;
   let missingBook = 0;
 
   for (const exam of books) {
     const stats = bookStructure(exam);
     const questions = questionCount(exam.id, manifest);
+    const live = !ready || ready.indexOf(exam.id) !== -1;
     for (const lang of ["en", "as"]) {
       const rel = lang === "as" ? `as/exams/${exam.id}/index.html` : `exams/${exam.id}/index.html`;
       const file = path.join(ROOT, rel);
       if (!fs.existsSync(file)) {
         console.log(`missing   ${rel}`);
+        continue;
+      }
+      if (!live) {
+        if (strip(file)) changed++;
+        console.log(`not-live  ${rel}  (card removed; book is not in EXAM_BOOKS_READY)`);
         continue;
       }
       const result = apply(file, fs.readFileSync(file, "utf8"), lang, exam, stats, questions);
