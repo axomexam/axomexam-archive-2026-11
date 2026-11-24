@@ -182,8 +182,80 @@ def fix_as(stem, answer):
     return f"{stem} {answer}।"
 
 
+FILLER_EN = [
+    "This is the correct fact; the other options are different.",
+    "This is the correct fact; the other options are different",
+    "The others are other days.",
+    "The others wrote other works.",
+    "The other options are different.",
+]
+FILLER_AS = [
+    "এইটো শুদ্ধ তথ্য; বাকী বিকল্প বেলেগ।",
+    "এইটো শুদ্ধ তথ্য; বাকী বিকল্প বেলেগ",
+]
+
+
+def strip_filler(text, fillers):
+    for f in fillers:
+        text = text.replace(f, " ")
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def fix_truncated(q):
+    """Explanations that end with the question stem, or with '..', and never
+    state the answer. e.g. 'This is the correct fact; the other options are
+    different. The modern Olympic Games were revived by'."""
+    exp = q.get("explanation") or {}
+    opts = q.get("options") or []
+    idx = q.get("correct")
+    if not isinstance(idx, int) or idx >= len(opts) or not isinstance(opts[idx], dict):
+        return 0
+    stem_en = (q["q"].get("en") or "").strip()
+    stem_as = (q["q"].get("as") or "").strip()
+    fixed = 0
+    for field, stem, answer, fillers, end in (
+        ("en", stem_en, opts[idx].get("en", ""), FILLER_EN, "."),
+        ("as", stem_as, opts[idx].get("as", ""), FILLER_AS, "।"),
+    ):
+        text = (exp.get(field) or "").strip()
+        if not text or not answer or not stem:
+            continue
+        run = re.search(r"[.।]{2,}$", text)
+        if run:
+            term = "।" if (field == "as" and not text.isascii()) else "."
+            exp[field] = text[:run.start()] + term
+            fixed += 1
+            continue
+        bare = NOISE.sub("", stem).rstrip("?.। ").strip()
+        ends_clean = text.endswith((".", "।", "!", "?", ")", "²", "°"))
+        doubled = text.endswith("..")
+        tail_stem = text.lower().endswith(stem.lower().rstrip("? ")) or \
+            text.lower().endswith(bare.lower())
+        if ends_clean and not doubled and not tail_stem:
+            continue
+        if doubled:
+            term = "।" if (field == "as" and not text.isascii()) else "."
+            exp[field] = text.rstrip(".।") + term
+            fixed += 1
+            continue
+        if not tail_stem:
+            continue
+        cut = len(stem) if text.lower().endswith(stem.lower().rstrip("? ")) else len(bare)
+        head = strip_filler(text[:-cut], fillers).strip()
+        if head and not head.endswith((".", "।")):
+            head += end
+        body = f"{bare} {answer}"
+        if not body.endswith((".", "।", "!", "?")):
+            body += end
+        exp[field] = (head + " " + body).strip() if head else body
+        fixed += 1
+    if fixed:
+        q["explanation"] = exp
+    return fixed
+
+
 def main():
-    echo = gloss = 0
+    echo = gloss = trunc = 0
     for base in BASES:
         if not os.path.exists(base):
             continue
@@ -230,6 +302,10 @@ def main():
                             exp["as"] = new
                             echo += 1
                             touched += 1
+                    n_trunc = fix_truncated(q)
+                    trunc += n_trunc
+                    touched += 1 if n_trunc else 0
+                    exp = q.get("explanation") or exp
                     if exp:
                         q["explanation"] = exp
                 if touched and not DRY:
@@ -237,7 +313,7 @@ def main():
                         json.dump(bank, fh, ensure_ascii=False, indent=2)
                         fh.write("\n")
     print(f"echo sentences rewritten: {echo} | Assamese glosses translated: {gloss}"
-          + (" (dry run)" if DRY else ""))
+          f" | truncated explanations finished: {trunc}" + (" (dry run)" if DRY else ""))
 
 
 if __name__ == "__main__":

@@ -4148,6 +4148,11 @@ templates cannot handle is left alone rather than mangled. The same script
 carries AS_GLOSS, the English sentences that were sitting in Assamese fields of
 the comprehension banks, with their Assamese translations.
 
+The same script also finishes explanations that stop mid-sentence and end with
+the question stem ("This is the correct fact; the other options are different.
+The modern Olympic Games were revived by"), and collapses doubled terminators
+("workers..", "workers.।"). Run it after any content pass; it is idempotent.
+
 An Assamese explanation under six words is normal, not a defect: the language
 is compact ("জাপানৰ ৰাজধানী টকিঅ'।" is the whole answer). Judge Assamese by
 whether it ends with "।" and names the fact, not by a word count.
