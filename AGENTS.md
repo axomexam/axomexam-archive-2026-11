@@ -4112,11 +4112,13 @@ Idempotent: anything already eight words or longer is skipped.
 
 Add it to the rebuild order before the build:
 
+    python3 tools/dedupe-book-questions.py      # once; keeps a rebuild clean
     python3 tools/enrich-numerical-explanations.py
     python3 tools/enrich-book-explanations.py
     node tools/build-dhs-dme-technical.js
     node tools/add-book-quiz-schema.js
     node tools/add-book-hub-guides.js
+    node tools/add-book-details.js              # design pass from origin/main
     node tools/seo-tighten-meta.js
     # then restore the 720 unrelated AS pages (see above)
 
