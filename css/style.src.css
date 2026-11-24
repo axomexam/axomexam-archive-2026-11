@@ -1899,6 +1899,7 @@ body[data-lang="as"] .qa-a .a-label { text-transform: none; letter-spacing: 0; f
 [data-theme="dark"] .mt-hero { background: linear-gradient(135deg, color-mix(in srgb, var(--cat, var(--primary)) 24%, #0f172a), #0f172a 62%); }
 [data-theme="dark"] .mt-chip { background: rgba(15,23,42,.55); }
 [data-theme="dark"] .mt-block { background: var(--bg-soft); }
+[data-theme="dark"] .mt-ready { background: linear-gradient(135deg, color-mix(in srgb, var(--primary) 16%, var(--bg-soft)), var(--bg-soft)); border-color: color-mix(in srgb, var(--primary) 38%, var(--line)); }
 [data-theme="dark"] .mt-segmented { background: var(--bg); }
 [data-theme="dark"] .mt-seg-ico { background: rgba(255,255,255,.1); }
 [data-theme="dark"] .mt-diff-card { background: var(--bg); border-color: var(--line); }

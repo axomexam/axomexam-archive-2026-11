@@ -3092,6 +3092,13 @@ Sent to: support@axomexam.in`};try{const A=await(await fetch("https://api.static
           </div>
         </div>
 
+        ${s?"":`<div class="mt-block">
+          <div class="mt-label">${r("mock.examwise.count")} <span>প্ৰশ্নৰ সংখ্যা</span></div>
+          <div class="count-picker" id="set-count-picker" style="margin:0;">
+            ${i.map(h=>`<button type="button" data-count="${h}" class="${h===o?"active":""}">${h}</button>`).join("")}
+          </div>
+        </div>`}
+
         <div class="mt-block">
           <div class="mt-label">${r("mock.examwise.lang")} <span>প্ৰশ্নৰ ভাষা</span></div>
           <div class="mt-segmented">
@@ -3104,13 +3111,10 @@ Sent to: support@axomexam.in`};try{const A=await(await fetch("https://api.static
           </div>
         </div>
 
-        ${s?"":`<div class="mt-block">
-          <div class="mt-label">${r("mock.examwise.count")} <span>প্ৰশ্নৰ সংখ্যা</span></div>
-          <div class="count-picker" id="set-count-picker" style="margin:0;">
-            ${i.map(h=>`<button type="button" data-count="${h}" class="${h===o?"active":""}">${h}</button>`).join("")}
-          </div>
-        </div>`}
-
+        <div class="mt-ready">
+          <span class="mt-ready-txt"><b>${r("mock.examwise.readyTitle")}</b><span>${r("mock.examwise.readySub")}</span></span>
+          <button class="btn mt-start" id="mock-begin-btn">${r("mock.begin")} →</button>
+        </div>
         <div class="mt-block">
           <div class="mt-label">${r("mock.examwise.instructions")} <span>নিৰ্দেশনা</span></div>
           <p class="mt-sub">${r("mock.examwise.instructionsSub")}</p>
@@ -3122,10 +3126,6 @@ Sent to: support@axomexam.in`};try{const A=await(await fetch("https://api.static
           </ul>
         </div>
 
-        <div class="mt-ready">
-          <span class="mt-ready-txt"><b>${r("mock.examwise.readyTitle")}</b><span>${r("mock.examwise.readySub")}</span></span>
-          <button class="btn mt-start" id="mock-begin-btn">${r("mock.begin")} →</button>
-        </div>
       </div>`,S("[data-mocklang]").forEach(h=>{h.addEventListener("click",()=>{S("[data-mocklang]").forEach(v=>v.classList.remove("active")),h.classList.add("active"),u.mock.testLang=h.dataset.mocklang;const f=g("#mt-lang-val");f&&(f.textContent=h.dataset.mocklang==="as"?"অসমীয়া":"English")})});let d=o;const p=g("#set-count-picker");p&&S("button",p).forEach(h=>{h.addEventListener("click",()=>{S("button",p).forEach(v=>v.classList.remove("active")),h.classList.add("active"),d=parseInt(h.dataset.count,10),u.mock.count=d;const f=g("#mt-count-val");f&&(f.textContent=String(d))})});const m=g("#mock-begin-btn");m&&m.addEventListener("click",()=>{He({title:r("mock.examwise.confirm.title"),message:r("mock.examwise.confirm.msg").replace("{n}",d).replace("{lang}",u.mock.testLang==="as"?"অসমীয়া":"English"),confirmText:r("mock.begin"),cancelText:r("mock.examwise.confirm.cancel"),onConfirm:()=>t.onStart(d)})})}function is(e){if(!u.mock)return;const t=u.mock.pool.filter(n=>n.options&&n.options.length>=2),a=t.length?t:u.mock.pool,s=Math.min(e||a.length,a.length);u.mock=Object.assign(u.mock,{pool:ts(a).slice(0,s),count:s,idx:0,answers:[],elapsedSec:0,started:!0,introPending:!0,timerId:null}),Gt()}async function pt(e,t,a,s,n){e.innerHTML=`<div class="loader"><div class="spinner"></div><p>${r("mock.loading")}</p></div>`;const i=await uo(t,a,s,n);if(!i.length){e.innerHTML=`
         <div class="qa-empty" style="padding:60px 20px;">
           <div class="big"><svg viewBox="0 0 24 24" width="44" height="44" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 8v4"/><path d="M12 16h.01"/></svg></div>

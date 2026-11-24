@@ -8591,6 +8591,13 @@
           </div>
         </div>
 
+        ${bp ? "" : `<div class="mt-block">
+          <div class="mt-label">${t("mock.examwise.count")} <span>প্ৰশ্নৰ সংখ্যা</span></div>
+          <div class="count-picker" id="set-count-picker" style="margin:0;">
+            ${countOptions.map((n) => `<button type="button" data-count="${n}" class="${n === defaultCount ? "active" : ""}">${n}</button>`).join("")}
+          </div>
+        </div>`}
+
         <div class="mt-block">
           <div class="mt-label">${t("mock.examwise.lang")} <span>প্ৰশ্নৰ ভাষা</span></div>
           <div class="mt-segmented">
@@ -8603,13 +8610,10 @@
           </div>
         </div>
 
-        ${bp ? "" : `<div class="mt-block">
-          <div class="mt-label">${t("mock.examwise.count")} <span>প্ৰশ্নৰ সংখ্যা</span></div>
-          <div class="count-picker" id="set-count-picker" style="margin:0;">
-            ${countOptions.map((n) => `<button type="button" data-count="${n}" class="${n === defaultCount ? "active" : ""}">${n}</button>`).join("")}
-          </div>
-        </div>`}
-
+        <div class="mt-ready">
+          <span class="mt-ready-txt"><b>${t("mock.examwise.readyTitle")}</b><span>${t("mock.examwise.readySub")}</span></span>
+          <button class="btn mt-start" id="mock-begin-btn">${t("mock.begin")} →</button>
+        </div>
         <div class="mt-block">
           <div class="mt-label">${t("mock.examwise.instructions")} <span>নিৰ্দেশনা</span></div>
           <p class="mt-sub">${t("mock.examwise.instructionsSub")}</p>
@@ -8621,10 +8625,6 @@
           </ul>
         </div>
 
-        <div class="mt-ready">
-          <span class="mt-ready-txt"><b>${t("mock.examwise.readyTitle")}</b><span>${t("mock.examwise.readySub")}</span></span>
-          <button class="btn mt-start" id="mock-begin-btn">${t("mock.begin")} →</button>
-        </div>
       </div>`;
 
     $$("[data-mocklang]").forEach((b) => {
