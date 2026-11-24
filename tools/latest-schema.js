@@ -70,11 +70,12 @@ const INSTITUTIONAL_ROUTE = /^\/(as\/)?(about|contact|editorial-team|editorial-p
    personally. /editorial-team/ says so: the team is "the byline that appears
    on topic pages". The founder stays on the Organization node as founder,
    which is the role he actually holds. */
-const TEAM_ID = BASE + "/#editorial-team";
+const TEAM_ID = BASE + "/editorial-team/#axomexam-team";
 const TEAM = {
   "@type": "Organization",
   "@id": TEAM_ID,
-  name: "axomexam Editorial Team",
+  name: "axomexam team",
+  alternateName: "Axomexam Editorial Team",
   url: BASE + "/editorial-team/",
   parentOrganization: { "@id": ORG_ID },
 };

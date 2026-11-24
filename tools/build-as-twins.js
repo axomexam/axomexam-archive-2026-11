@@ -1015,6 +1015,21 @@ function assameseOnly(html, head, rel) {
     }
   }
 
+  /* Byline: the English page carries the block, the twin shows it in the
+     Assamese wording the other Assamese pages already use. The editorial
+     policy link is dropped because the Assamese bylines do not carry it. */
+  html = html.replace(/<div class="editorial-meta">[\s\S]*?<\/div>/, (m) =>
+    m
+      .replace("<strong>Author:</strong>", "<strong>\u09b2\u09c7\u0996\u0995:</strong>")
+      .replace("<strong>Reviewed by:</strong>", "<strong>\u09aa\u09f0\u09cd\u09af\u09be\u09b2\u09cb\u099a\u09a8\u09be:</strong>")
+      .replace("<strong>Sources:</strong>", "<strong>\u09aa\u09cd\u09f0\u09b8\u0982\u0997 \u0989\u09ce\u09b8:</strong>")
+      .replace("<strong>Published:</strong>", "<strong>\u09aa\u09cd\u09f0\u0995\u09be\u09b6\u09bf\u09a4:</strong>")
+      .replace("<strong>Last updated:</strong>", "<strong>\u09b6\u09c7\u09b9\u09a4\u09c0\u09af\u09bc\u09be \u0986\u09aa\u09a1\u09c7\u099f:</strong>")
+      .replace(/<span class="editorial-meta-item"><a href="\/editorial-policy\/">How we review<\/a><\/span>/, "")
+      .replace('href="/editorial-team/', 'href="/as/editorial-team/')
+      .replace(">axomexam team<", ">axomexam \u099f\u09c0\u09ae<")
+  );
+
   /* editorial credit: keep the Assamese panel */
   html = html.replace(
     /<div lang="en" data-axo-lang="en" class="info-panel"[\s\S]*?(?=<div lang="as" data-axo-lang="as" class="info-panel")/g,
