@@ -4126,3 +4126,23 @@ Numerical explanations under six words: 705 -> 258. The remainder are
 fragments with no number to verify against ("k = 8", "Difference = 120") or
 question shapes not yet handled (partnerships where a partner joins after N
 months); add a handler rather than a filler sentence.
+
+### Echo explanations and Assamese coverage (commit follows d782021f)
+
+`tools/rewrite-echo-explanations.py` fixes the 516 explanations that read
+"Rajendra Prasad is the correct answer. The first President of India was" — a
+broken sentence that restates the question. It builds one declarative sentence
+from the stem and the correct option already in the record, in both languages:
+
+    The first President of India was Rajendra Prasad.
+    ভাৰতৰ প্ৰথম ৰাষ্ট্ৰপতি আছিল ৰাজেন্দ্ৰ প্ৰসাদ।
+
+Question-form stems are inverted by a small template table (capital, currency,
+national animal/bird, headquarters, located, who wrote/invented). Anything the
+templates cannot handle is left alone rather than mangled. The same script
+carries AS_GLOSS, the English sentences that were sitting in Assamese fields of
+the comprehension banks, with their Assamese translations.
+
+An Assamese explanation under six words is normal, not a defect: the language
+is compact ("জাপানৰ ৰাজধানী টকিঅ'।" is the whole answer). Judge Assamese by
+whether it ends with "।" and names the fact, not by a word count.
