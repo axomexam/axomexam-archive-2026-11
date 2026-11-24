@@ -90,12 +90,38 @@ function whereMarksAs(topics, counts, total) {
     `আটাইতকৈ ডাঙৰবোৰ — ${list} — ইয়াৰপৰা আৰম্ভ কৰা, কাৰণ ইয়াতেই সৰ্বাধিক পুনৰাবৃত্তি হোৱা প্ৰশ্ন আহে।${tail}`;
 }
 
+/* Published totals, counted from the rendered pages themselves so the guide
+   text can never drift from the number in the hero. */
+function publishedTotals() {
+  const base = path.join(ROOT_DIR, "exams/dhs-dme-technical");
+  let topics = 0;
+  let questions = 0;
+  const stack = [base];
+  while (stack.length) {
+    const dir = stack.pop();
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) { stack.push(full); continue; }
+      if (entry.name !== "index.html") continue;
+      const html = fs.readFileSync(full, "utf8");
+      const n = (html.match(/class="qa-item"/g) || []).length;
+      if (n) { topics += 1; questions += n; }
+    }
+  }
+  return { topics, questions };
+}
+
 function block({ title, titleAs, guide, topics, counts, route }) {
   const headEn = route === "" ? "How to use this book" : `How to prepare ${esc(title)}`;
   const headAs = route === "" ? "এই কিতাপ কেনেকৈ ব্যৱহাৰ কৰিব" : `${esc(titleAs)} কেনেকৈ প্ৰস্তুতি ল'ব`;
   const total = topics.reduce((a, [leaf]) => a + (counts[leaf] || 0), 0);
-  const introEn = guide.intro[0];
-  const introAs = guide.intro[1];
+  const asDigits = (v) => String(v).replace(/[0-9]/g, (d) => "০১২৩৪৫৬৭৮৯"[+d]);
+  const book = route === "" ? publishedTotals() : { topics: topics.length, questions: total };
+  const fill = (text, digits) => text
+    .replace("{topics}", digits ? asDigits(book.topics) : String(book.topics))
+    .replace("{questions}", digits ? asDigits(book.questions.toLocaleString("en-IN")) : book.questions.toLocaleString("en-IN"));
+  const introEn = fill(guide.intro[0], false);
+  const introAs = fill(guide.intro[1], true);
   const marksEn = whereMarksEn(topics, counts, total);
   const marksAs = whereMarksAs(topics, counts, total);
   const tips = guide.tips || [];
