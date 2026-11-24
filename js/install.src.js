@@ -12,8 +12,10 @@
        Share -> Add to Home Screen.
      - Anything else -> stay out of the way.
 
-   Shown at most once every three days, and never again for three
-   days after a dismissal. Hidden while a quiz or a dialog is on screen.
+   The pill is offered to every visitor who has not installed the app
+   yet, whether or not the browser fires `beforeinstallprompt`; a
+   dismissal silences it for three days. Hidden while a quiz or a
+   dialog is on screen.
    =========================================================== */
 (function () {
   "use strict";
@@ -109,7 +111,6 @@
     const state = readState();
     if (state.installedAt) return false;
     if (state.dismissedAt && Date.now() - state.dismissedAt < QUIET_MS) return false;
-    if (state.shownAt && Date.now() - state.shownAt < QUIET_MS) return false;
     return true;
   }
 
@@ -146,7 +147,6 @@
   function showPill() {
     if (pill || !canShow() || isBusy()) return;
     pill = buildPill();
-    writeState({ shownAt: Date.now() });
     window.requestAnimationFrame(() => pill && pill.classList.add("is-in"));
     pill.addEventListener("click", (event) => {
       const target = event.target;
@@ -163,9 +163,19 @@
     if (deferred) {
       const event = deferred;
       deferred = null;
-      hidePill();
-      event.prompt();
+      /* A captured event goes stale when the browser changes its mind about
+         installability; prompting then throws. Fall back to the steps. */
+      try {
+        event.prompt();
+      } catch (e) {
+        openInstallSheet();
+        return;
+      }
+      /* Keep the pill until the browser answers, so a dialog that never opens
+         (or a silent refusal) leaves the reader something to click again. */
+      if (!event.userChoice || typeof event.userChoice.then !== "function") return;
       event.userChoice.then((choice) => {
+        hidePill();
         if (choice && choice.outcome === "accepted") writeState({ installedAt: Date.now() });
         else writeState({ dismissedAt: Date.now() });
       });
@@ -239,9 +249,7 @@
     isIos: isIos,
   };
 
-  const boot = () => {
-    if (isIos() || deferred) scheduleShow();
-  };
+  const boot = () => scheduleShow();
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot);
   else boot();
 })();
