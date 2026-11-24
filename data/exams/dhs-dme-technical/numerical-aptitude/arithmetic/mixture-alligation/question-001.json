@@ -1202,8 +1202,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 33.33.",
-      "as": "গড় = ৩৩.৩৩।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 33.33.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ৩৩.৩৩।"
     }
   },
   {
@@ -1233,8 +1233,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mean = 20.0.",
-      "as": "গড় = ২০.০।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 20.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ২০।"
     }
   },
   {
@@ -1264,8 +1264,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mean = 38.0.",
-      "as": "গড় = ৩৮.০।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 38.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ৩৮।"
     }
   },
   {
@@ -1822,8 +1822,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Ratio = 9:5.",
-      "as": "অনুপাত = ৯:৫।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 1: 9 : 5 = 9 : 5.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১ কটা: ৯ : ৫ = ৯ : ৫।"
     }
   },
   {
@@ -1853,8 +1853,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Ratio = 5:3.",
-      "as": "অনুপাত = ৫:৩।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 1: 5 : 3 = 5 : 3.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১ কটা: ৫ : ৩ = ৫ : ৩।"
     }
   },
   {
@@ -1884,8 +1884,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Ratio = 2:1.",
-      "as": "অনুপাত = ২:১।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 1: 2 : 1 = 2 : 1.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১ কটা: ২ : ১ = ২ : ১।"
     }
   },
   {
@@ -1915,8 +1915,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Ratio = 1:1.",
-      "as": "অনুপাত = ১:১।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 1: 1 : 1 = 1 : 1.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১ কটা: ১ : ১ = ১ : ১।"
     }
   },
   {
@@ -1946,8 +1946,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Ratio = 1:1.",
-      "as": "অনুপাত = ১:১।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 1: 1 : 1 = 1 : 1.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১ কটা: ১ : ১ = ১ : ১।"
     }
   },
   {
@@ -1977,8 +1977,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Ratio = 1:1.",
-      "as": "অনুপাত = ১:১।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 1: 1 : 1 = 1 : 1.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১ কটা: ১ : ১ = ১ : ১।"
     }
   },
   {
@@ -2008,8 +2008,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Ratio = 3:2.",
-      "as": "অনুপাত = ৩:২।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 1: 3 : 2 = 3 : 2.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১ কটা: ৩ : ২ = ৩ : ২।"
     }
   },
   {
@@ -2039,8 +2039,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Ratio = 1:1.",
-      "as": "অনুপাত = ১:১।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 1: 1 : 1 = 1 : 1.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১ কটা: ১ : ১ = ১ : ১।"
     }
   },
   {
@@ -2070,8 +2070,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 31.0.",
-      "as": "গড় = ৩১.০।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 31.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ৩১।"
     }
   },
   {
@@ -2101,8 +2101,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mean = 23.5.",
-      "as": "গড় = ২৩.৫।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 23.5.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ২৩.৫।"
     }
   },
   {
@@ -2132,8 +2132,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mean = 59.0.",
-      "as": "গড় = ৫৯.০।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 59.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ৫৯।"
     }
   },
   {
@@ -2163,8 +2163,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 39.2.",
-      "as": "গড় = ৩৯.২।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 39.2.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ৩৯.২।"
     }
   },
   {
@@ -2194,8 +2194,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mean = 19.0.",
-      "as": "গড় = ১৯.০।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 19.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ১৯।"
     }
   },
   {
@@ -2225,8 +2225,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mean = 49.0.",
-      "as": "গড় = ৪৯.০।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 49.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ৪৯।"
     }
   },
   {
@@ -2256,8 +2256,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mean = 31.0.",
-      "as": "গড় = ৩১.০।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 31.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ৩১।"
     }
   },
   {
@@ -2287,8 +2287,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mean = 64.5.",
-      "as": "গড় = ৬৪.৫।"
+      "en": "Use alligation: the mean price lies between the two given prices, in the inverse ratio of the quantities, which gives 64.5.",
+      "as": "সংযোগ পদ্ধতি ব্যৱহাৰ কৰা: মিশ্ৰণৰ মূল্য দুটা দিয়া মূল্যৰ মাজত থাকে, পৰিমাণৰ ওলোটা অনুপাতত — ফল ৬৪.৫।"
     }
   },
   {
@@ -2318,8 +2318,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Milk = 60.0 litres.",
-      "as": "গাখীৰ = ৬০.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the milk needed is 60.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Milk ৬০.০।"
     }
   },
   {
@@ -2349,8 +2349,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Milk = 42.0 litres.",
-      "as": "গাখীৰ = ৪২.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the milk needed is 42.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Milk ৪২.০।"
     }
   },
   {
@@ -2380,8 +2380,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Milk = 48.0 litres.",
-      "as": "গাখীৰ = ৪৮.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the milk needed is 48.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Milk ৪৮.০।"
     }
   },
   {
@@ -2411,8 +2411,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Milk = 54.0 litres.",
-      "as": "গাখীৰ = ৫৪.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the milk needed is 54.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Milk ৫৪.০।"
     }
   },
   {
@@ -2442,8 +2442,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Milk = 108.0 litres.",
-      "as": "গাখীৰ = ১০৮.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the milk needed is 108.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Milk ১০৮.০।"
     }
   },
   {
@@ -2473,8 +2473,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Milk = 84.0 litres.",
-      "as": "গাখীৰ = ৮৪.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the milk needed is 84.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Milk ৮৪.০।"
     }
   },
   {
@@ -2504,8 +2504,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Milk left = 55.12 litres.",
-      "as": "অৱশিষ্ট গাখীৰ = ৫৫.১২ লিটাৰ।"
+      "en": "Each replacement leaves (1 − 9/72) of the milk behind, so after 2 rounds 72 × (1 − 9/72)^2 = 55.12 litres remain.",
+      "as": "প্ৰতিবাৰ সলনি কৰিলে (১ − ৯/৭২) অংশ থাকে, সেয়ে ২ বাৰৰ পিছত ৫৫.১২ লিটাৰ থাকে।"
     }
   },
   {
@@ -2535,8 +2535,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Milk left = 65.61 litres.",
-      "as": "অৱশিষ্ট গাখীৰ = ৬৫.৬১ লিটাৰ।"
+      "en": "Each replacement leaves (1 − 9/90) of the milk behind, so after 3 rounds 90 × (1 − 9/90)^3 = 65.61 litres remain.",
+      "as": "প্ৰতিবাৰ সলনি কৰিলে (১ − ৯/৯০) অংশ থাকে, সেয়ে ৩ বাৰৰ পিছত ৬৫.৬১ লিটাৰ থাকে।"
     }
   },
   {
@@ -2566,8 +2566,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Milk left = 97.2 litres.",
-      "as": "অৱশিষ্ট গাখীৰ = ৯৭.২ লিটাৰ।"
+      "en": "Each replacement leaves (1 − 12/120) of the milk behind, so after 2 rounds 120 × (1 − 12/120)^2 = 97.2 litres remain.",
+      "as": "প্ৰতিবাৰ সলনি কৰিলে (১ − ১২/১২০) অংশ থাকে, সেয়ে ২ বাৰৰ পিছত ৯৭.২ লিটাৰ থাকে।"
     }
   },
   {
@@ -2597,8 +2597,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Milk left = 121.5 litres.",
-      "as": "অৱশিষ্ট গাখীৰ = ১২১.৫ লিটাৰ।"
+      "en": "Each replacement leaves (1 − 15/150) of the milk behind, so after 2 rounds 150 × (1 − 15/150)^2 = 121.5 litres remain.",
+      "as": "প্ৰতিবাৰ সলনি কৰিলে (১ − ১৫/১৫০) অংশ থাকে, সেয়ে ২ বাৰৰ পিছত ১২১.৫ লিটাৰ থাকে।"
     }
   },
   {
@@ -2628,8 +2628,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Milk left = 35.56 litres.",
-      "as": "অৱশিষ্ট গাখীৰ = ৩৫.৫৬ লিটাৰ।"
+      "en": "Each replacement leaves (1 − 5/45) of the milk behind, so after 2 rounds 45 × (1 − 5/45)^2 = 35.56 litres remain.",
+      "as": "প্ৰতিবাৰ সলনি কৰিলে (১ − ৫/৪৫) অংশ থাকে, সেয়ে ২ বাৰৰ পিছত ৩৫.৫৬ লিটাৰ থাকে।"
     }
   },
   {
@@ -2659,8 +2659,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Milk left = 37.93 litres.",
-      "as": "অৱশিষ্ট গাখীৰ = ৩৭.৯৩ লিটাৰ।"
+      "en": "Each replacement leaves (1 − 6/54) of the milk behind, so after 3 rounds 54 × (1 − 6/54)^3 = 37.93 litres remain.",
+      "as": "প্ৰতিবাৰ সলনি কৰিলে (১ − ৬/৫৪) অংশ থাকে, সেয়ে ৩ বাৰৰ পিছত ৩৭.৯৩ লিটাৰ থাকে।"
     }
   },
   {
@@ -2876,8 +2876,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Water = 28.0 litres.",
-      "as": "পানী = ২৮.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the water needed is 28.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Water ২৮.০।"
     }
   },
   {
@@ -2907,8 +2907,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Water = 54.0 litres.",
-      "as": "পানী = ৫৪.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the water needed is 54.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Water ৫৪.০।"
     }
   },
   {
@@ -2938,8 +2938,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Water = 60.0 litres.",
-      "as": "পানী = ৬০.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the water needed is 60.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Water ৬০.০।"
     }
   },
   {
@@ -2969,8 +2969,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Water = 27.0 litres.",
-      "as": "পানী = ২৭.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the water needed is 27.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Water ২৭.০।"
     }
   },
   {
@@ -3000,8 +3000,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Water = 50.0 litres.",
-      "as": "পানী = ৫০.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the water needed is 50.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Water ৫০.০।"
     }
   },
   {
@@ -3031,8 +3031,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Water = 40.0 litres.",
-      "as": "পানী = ৪০.০ লিটাৰ।"
+      "en": "Apply the ratio of the mixture to the total quantity: the water needed is 40.0.",
+      "as": "মিশ্ৰণৰ অনুপাত মুঠ পৰিমাণত প্ৰয়োগ কৰা: প্ৰয়োজনীয় Water ৪০.০।"
     }
   },
   {
@@ -3062,8 +3062,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Profit% = 10.64%.",
-      "as": "লাভ% = ১০.৬৪%।"
+      "en": "Profit per cent = (profit ÷ cost price) × 100, which works out to 10.64%.",
+      "as": "লাভৰ শতাংশ = (লাভ ÷ ক্ৰয় মূল্য) × 100, যাৰ মান ১০.৬৪%।"
     }
   },
   {
@@ -3093,8 +3093,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Profit% = 23.08%.",
-      "as": "লাভ% = ২৩.০৮%।"
+      "en": "Profit per cent = (profit ÷ cost price) × 100, which works out to 23.08%.",
+      "as": "লাভৰ শতাংশ = (লাভ ÷ ক্ৰয় মূল্য) × 100, যাৰ মান ২৩.০৮%।"
     }
   },
   {
@@ -3124,8 +3124,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Profit% = 50.0%.",
-      "as": "লাভ% = ৫০.০%।"
+      "en": "Profit per cent = (profit ÷ cost price) × 100, which works out to 50%.",
+      "as": "লাভৰ শতাংশ = (লাভ ÷ ক্ৰয় মূল্য) × 100, যাৰ মান ৫০%।"
     }
   },
   {
@@ -3279,8 +3279,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Profit% = 12.5%.",
-      "as": "লাভ% = ১২.৫%।"
+      "en": "Profit per cent = (profit ÷ cost price) × 100, which works out to 12.5%.",
+      "as": "লাভৰ শতাংশ = (লাভ ÷ ক্ৰয় মূল্য) × 100, যাৰ মান ১২.৫%।"
     }
   },
   {
@@ -3310,8 +3310,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Profit% = 10.0%.",
-      "as": "লাভ% = ১০.০%।"
+      "en": "Profit per cent = (profit ÷ cost price) × 100, which works out to 10%.",
+      "as": "লাভৰ শতাংশ = (লাভ ÷ ক্ৰয় মূল্য) × 100, যাৰ মান ১০%।"
     }
   },
   {
@@ -3341,8 +3341,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Profit% = 8.33%.",
-      "as": "লাভ% = ৮.৩৩%।"
+      "en": "Profit per cent = (profit ÷ cost price) × 100, which works out to 8.33%.",
+      "as": "লাভৰ শতাংশ = (লাভ ÷ ক্ৰয় মূল্য) × 100, যাৰ মান ৮.৩৩%।"
     }
   },
   {
@@ -3372,8 +3372,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Profit% = 13.33%.",
-      "as": "লাভ% = ১৩.৩৩%।"
+      "en": "Profit per cent = (profit ÷ cost price) × 100, which works out to 13.33%.",
+      "as": "লাভৰ শতাংশ = (লাভ ÷ ক্ৰয় মূল্য) × 100, যাৰ মান ১৩.৩৩%।"
     }
   }
 ]

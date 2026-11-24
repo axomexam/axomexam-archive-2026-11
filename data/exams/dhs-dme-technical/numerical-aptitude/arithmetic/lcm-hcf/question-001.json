@@ -86,8 +86,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "LCM(24,36,54) = 216.",
-      "as": "ল.সা.গু.(২৪,৩৬,৫৪) = ২১৬।"
+      "en": "Factorise each number: 24 = 2^3 × 3, 36 = 2^2 × 3^2, 54 = 2 × 3^3. Take the highest power of every prime, which gives LCM = 2^3 × 3^3 = 216.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ২৪ = 2^3 × 3, ৩৬ = 2^2 × 3^2, ৫৪ = 2 × 3^3। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ২১৬।"
     }
   },
   {
@@ -117,8 +117,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "HCF(24,36,54) = 6.",
-      "as": "গ.সা.গু.(২৪,৩৬,৫৪) = ৬।"
+      "en": "Factorise each number: 24 = 2^3 × 3, 36 = 2^2 × 3^2, 54 = 2 × 3^3. The factors common to all of them are 2 × 3, so HCF = 6.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ২৪ = 2^3 × 3, ৩৬ = 2^2 × 3^2, ৫৪ = 2 × 3^3। সকলোতেই থকা সাধাৰণ উৎপাদক 2 × 3, সেয়ে গ.সা.গু. = ৬।"
     }
   },
   {
@@ -148,8 +148,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "LCM(18,30,42) = 630.",
-      "as": "ল.সা.গু.(১৮,৩০,৪২) = ৬৩০।"
+      "en": "Factorise each number: 18 = 2 × 3^2, 30 = 2 × 3 × 5, 42 = 2 × 3 × 7. Take the highest power of every prime, which gives LCM = 2 × 3^2 × 5 × 7 = 630.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ১৮ = 2 × 3^2, ৩০ = 2 × 3 × 5, ৪২ = 2 × 3 × 7। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ৬৩০।"
     }
   },
   {
@@ -179,8 +179,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "HCF(18,30,42) = 6.",
-      "as": "গ.সা.গু.(১৮,৩০,৪২) = ৬।"
+      "en": "Factorise each number: 18 = 2 × 3^2, 30 = 2 × 3 × 5, 42 = 2 × 3 × 7. The factors common to all of them are 2 × 3, so HCF = 6.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ১৮ = 2 × 3^2, ৩০ = 2 × 3 × 5, ৪২ = 2 × 3 × 7। সকলোতেই থকা সাধাৰণ উৎপাদক 2 × 3, সেয়ে গ.সা.গু. = ৬।"
     }
   },
   {
@@ -210,8 +210,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "LCM(16,24,40) = 240.",
-      "as": "ল.সা.গু.(১৬,২৪,৪০) = ২৪০।"
+      "en": "Factorise each number: 16 = 2^4, 24 = 2^3 × 3, 40 = 2^3 × 5. Take the highest power of every prime, which gives LCM = 2^4 × 3 × 5 = 240.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ১৬ = 2^4, ২৪ = 2^3 × 3, ৪০ = 2^3 × 5। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ২৪০।"
     }
   },
   {
@@ -241,8 +241,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "HCF(16,24,40) = 8.",
-      "as": "গ.সা.গু.(১৬,২৪,৪০) = ৮।"
+      "en": "Factorise each number: 16 = 2^4, 24 = 2^3 × 3, 40 = 2^3 × 5. The factors common to all of them are 2^3, so HCF = 8.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ১৬ = 2^4, ২৪ = 2^3 × 3, ৪০ = 2^3 × 5। সকলোতেই থকা সাধাৰণ উৎপাদক 2^3, সেয়ে গ.সা.গু. = ৮।"
     }
   },
   {
@@ -272,8 +272,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "LCM(27,45,72) = 1080.",
-      "as": "ল.সা.গু.(২৭,৪৫,৭২) = ১০৮০।"
+      "en": "Factorise each number: 27 = 3^3, 45 = 3^2 × 5, 72 = 2^3 × 3^2. Take the highest power of every prime, which gives LCM = 2^3 × 3^3 × 5 = 1,080.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ২৭ = 3^3, ৪৫ = 3^2 × 5, ৭২ = 2^3 × 3^2। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ১,০৮০।"
     }
   },
   {
@@ -303,8 +303,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "HCF(27,45,72) = 9.",
-      "as": "গ.সা.গু.(২৭,৪৫,৭২) = ৯।"
+      "en": "Factorise each number: 27 = 3^3, 45 = 3^2 × 5, 72 = 2^3 × 3^2. The factors common to all of them are 3^2, so HCF = 9.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ২৭ = 3^3, ৪৫ = 3^2 × 5, ৭২ = 2^3 × 3^2। সকলোতেই থকা সাধাৰণ উৎপাদক 3^2, সেয়ে গ.সা.গু. = ৯।"
     }
   },
   {
@@ -334,8 +334,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "LCM(14,21,35) = 210.",
-      "as": "ল.সা.গু.(১৪,২১,৩৫) = ২১০।"
+      "en": "Factorise each number: 14 = 2 × 7, 21 = 3 × 7, 35 = 5 × 7. Take the highest power of every prime, which gives LCM = 2 × 3 × 5 × 7 = 210.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ১৪ = 2 × 7, ২১ = 3 × 7, ৩৫ = 5 × 7। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ২১০।"
     }
   },
   {
@@ -365,8 +365,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "HCF(14,21,35) = 7.",
-      "as": "গ.সা.গু.(১৪,২১,৩৫) = ৭।"
+      "en": "Factorise each number: 14 = 2 × 7, 21 = 3 × 7, 35 = 5 × 7. The factors common to all of them are 7, so HCF = 7.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ১৪ = 2 × 7, ২১ = 3 × 7, ৩৫ = 5 × 7। সকলোতেই থকা সাধাৰণ উৎপাদক 7, সেয়ে গ.সা.গু. = ৭।"
     }
   },
   {
@@ -396,8 +396,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "LCM(32,48,80) = 480.",
-      "as": "ল.সা.গু.(৩২,৪৮,৮০) = ৪৮০।"
+      "en": "Factorise each number: 32 = 2^5, 48 = 2^4 × 3, 80 = 2^4 × 5. Take the highest power of every prime, which gives LCM = 2^5 × 3 × 5 = 480.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ৩২ = 2^5, ৪৮ = 2^4 × 3, ৮০ = 2^4 × 5। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ৪৮০।"
     }
   },
   {
@@ -427,8 +427,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "HCF(32,48,80) = 16.",
-      "as": "গ.সা.গু.(৩২,৪৮,৮০) = ১৬।"
+      "en": "Factorise each number: 32 = 2^5, 48 = 2^4 × 3, 80 = 2^4 × 5. The factors common to all of them are 2^4, so HCF = 16.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ৩২ = 2^5, ৪৮ = 2^4 × 3, ৮০ = 2^4 × 5। সকলোতেই থকা সাধাৰণ উৎপাদক 2^4, সেয়ে গ.সা.গু. = ১৬।"
     }
   },
   {
@@ -458,8 +458,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "LCM(25,40,60) = 600.",
-      "as": "ল.সা.গু.(২৫,৪০,৬০) = ৬০০।"
+      "en": "Factorise each number: 25 = 5^2, 40 = 2^3 × 5, 60 = 2^2 × 3 × 5. Take the highest power of every prime, which gives LCM = 2^3 × 3 × 5^2 = 600.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ২৫ = 5^2, ৪০ = 2^3 × 5, ৬০ = 2^2 × 3 × 5। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ৬০০।"
     }
   },
   {
@@ -489,8 +489,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "HCF(25,40,60) = 5.",
-      "as": "গ.সা.গু.(২৫,৪০,৬০) = ৫।"
+      "en": "Factorise each number: 25 = 5^2, 40 = 2^3 × 5, 60 = 2^2 × 3 × 5. The factors common to all of them are 5, so HCF = 5.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ২৫ = 5^2, ৪০ = 2^3 × 5, ৬০ = 2^2 × 3 × 5। সকলোতেই থকা সাধাৰণ উৎপাদক 5, সেয়ে গ.সা.গু. = ৫।"
     }
   },
   {
@@ -520,8 +520,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "LCM(36,54,90) = 540.",
-      "as": "ল.সা.গু.(৩৬,৫৪,৯০) = ৫৪০।"
+      "en": "Factorise each number: 36 = 2^2 × 3^2, 54 = 2 × 3^3, 90 = 2 × 3^2 × 5. Take the highest power of every prime, which gives LCM = 2^2 × 3^3 × 5 = 540.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ৩৬ = 2^2 × 3^2, ৫৪ = 2 × 3^3, ৯০ = 2 × 3^2 × 5। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ৫৪০।"
     }
   },
   {
@@ -551,8 +551,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "HCF(36,54,90) = 18.",
-      "as": "গ.সা.গু.(৩৬,৫৪,৯০) = ১৮।"
+      "en": "Factorise each number: 36 = 2^2 × 3^2, 54 = 2 × 3^3, 90 = 2 × 3^2 × 5. The factors common to all of them are 2 × 3^2, so HCF = 18.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ৩৬ = 2^2 × 3^2, ৫৪ = 2 × 3^3, ৯০ = 2 × 3^2 × 5। সকলোতেই থকা সাধাৰণ উৎপাদক 2 × 3^2, সেয়ে গ.সা.গু. = ১৮।"
     }
   },
   {
@@ -582,8 +582,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "LCM(22,33,55) = 330.",
-      "as": "ল.সা.গু.(২২,৩৩,৫৫) = ৩৩০।"
+      "en": "Factorise each number: 22 = 2 × 11, 33 = 3 × 11, 55 = 5 × 11. Take the highest power of every prime, which gives LCM = 2 × 3 × 5 × 11 = 330.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ২২ = 2 × 11, ৩৩ = 3 × 11, ৫৫ = 5 × 11। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ৩৩০।"
     }
   },
   {
@@ -613,8 +613,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "HCF(22,33,55) = 11.",
-      "as": "গ.সা.গু.(২২,৩৩,৫৫) = ১১।"
+      "en": "Factorise each number: 22 = 2 × 11, 33 = 3 × 11, 55 = 5 × 11. The factors common to all of them are 11, so HCF = 11.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ২২ = 2 × 11, ৩৩ = 3 × 11, ৫৫ = 5 × 11। সকলোতেই থকা সাধাৰণ উৎপাদক 11, সেয়ে গ.সা.গু. = ১১।"
     }
   },
   {
@@ -644,8 +644,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "LCM(28,42,70) = 420.",
-      "as": "ল.সা.গু.(২৮,৪২,৭০) = ৪২০।"
+      "en": "Factorise each number: 28 = 2^2 × 7, 42 = 2 × 3 × 7, 70 = 2 × 5 × 7. Take the highest power of every prime, which gives LCM = 2^2 × 3 × 5 × 7 = 420.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ২৮ = 2^2 × 7, ৪২ = 2 × 3 × 7, ৭০ = 2 × 5 × 7। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ৪২০।"
     }
   },
   {
@@ -675,8 +675,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "HCF(28,42,70) = 14.",
-      "as": "গ.সা.গু.(২৮,৪২,৭০) = ১৪।"
+      "en": "Factorise each number: 28 = 2^2 × 7, 42 = 2 × 3 × 7, 70 = 2 × 5 × 7. The factors common to all of them are 2 × 7, so HCF = 14.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ২৮ = 2^2 × 7, ৪২ = 2 × 3 × 7, ৭০ = 2 × 5 × 7। সকলোতেই থকা সাধাৰণ উৎপাদক 2 × 7, সেয়ে গ.সা.গু. = ১৪।"
     }
   },
   {
@@ -706,8 +706,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "LCM(45,60,75) = 900.",
-      "as": "ল.সা.গু.(৪৫,৬০,৭৫) = ৯০০।"
+      "en": "Factorise each number: 45 = 3^2 × 5, 60 = 2^2 × 3 × 5, 75 = 3 × 5^2. Take the highest power of every prime, which gives LCM = 2^2 × 3^2 × 5^2 = 900.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ৪৫ = 3^2 × 5, ৬০ = 2^2 × 3 × 5, ৭৫ = 3 × 5^2। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ৯০০।"
     }
   },
   {
@@ -737,8 +737,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "HCF(45,60,75) = 15.",
-      "as": "গ.সা.গু.(৪৫,৬০,৭৫) = ১৫।"
+      "en": "Factorise each number: 45 = 3^2 × 5, 60 = 2^2 × 3 × 5, 75 = 3 × 5^2. The factors common to all of them are 3 × 5, so HCF = 15.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ৪৫ = 3^2 × 5, ৬০ = 2^2 × 3 × 5, ৭৫ = 3 × 5^2। সকলোতেই থকা সাধাৰণ উৎপাদক 3 × 5, সেয়ে গ.সা.গু. = ১৫।"
     }
   },
   {
@@ -768,8 +768,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "LCM(48,64,96) = 192.",
-      "as": "ল.সা.গু.(৪৮,৬৪,৯৬) = ১৯২।"
+      "en": "Factorise each number: 48 = 2^4 × 3, 64 = 2^6, 96 = 2^5 × 3. Take the highest power of every prime, which gives LCM = 2^6 × 3 = 192.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ৪৮ = 2^4 × 3, ৬৪ = 2^6, ৯৬ = 2^5 × 3। প্ৰতিটো মৌলিকৰ সৰ্বোচ্চ ঘাত লোৱা — ল.সা.গু. = ১৯২।"
     }
   },
   {
@@ -799,8 +799,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "HCF(48,64,96) = 16.",
-      "as": "গ.সা.গু.(৪৮,৬৪,৯৬) = ১৬।"
+      "en": "Factorise each number: 48 = 2^4 × 3, 64 = 2^6, 96 = 2^5 × 3. The factors common to all of them are 2^4, so HCF = 16.",
+      "as": "প্ৰতিটো সংখ্যা উৎপাদকত ভাগ কৰা: ৪৮ = 2^4 × 3, ৬৪ = 2^6, ৯৬ = 2^5 × 3। সকলোতেই থকা সাধাৰণ উৎপাদক 2^4, সেয়ে গ.সা.গু. = ১৬।"
     }
   },
   {
@@ -1698,8 +1698,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Required number = HCF(19,31,43) = 1.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(১৯,৩১,৪৩) = ১।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 1.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ১।"
     }
   },
   {
@@ -1729,8 +1729,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Required number = HCF(23,38,53) = 1.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(২৩,৩৮,৫৩) = ১।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 1.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ১।"
     }
   },
   {
@@ -1760,8 +1760,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Required number = HCF(14,23,32) = 1.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(১৪,২৩,৩২) = ১।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 1.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ১।"
     }
   },
   {
@@ -1791,8 +1791,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Required number = HCF(29,39,49) = 1.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(২৯,৩৯,৪৯) = ১।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 1.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ১।"
     }
   },
   {
@@ -1822,8 +1822,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Required number = HCF(15,22,29) = 1.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(১৫,২২,২৯) = ১।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 1.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ১।"
     }
   },
   {
@@ -1853,8 +1853,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Required number = HCF(23,31,47) = 1.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(২৩,৩১,৪৭) = ১।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 1.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ১।"
     }
   },
   {
@@ -2132,8 +2132,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Required number = HCF(72,96,120) = 24.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(৭২,৯৬,১২০) = ২৪।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 24.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ২৪।"
     }
   },
   {
@@ -2163,8 +2163,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Required number = HCF(84,126,210) = 42.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(৮৪,১২৬,২১০) = ৪২।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 42.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ৪২।"
     }
   },
   {
@@ -2194,8 +2194,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Required number = HCF(105,140,175) = 35.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(১০৫,১৪০,১৭৫) = ৩৫।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 35.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ৩৫।"
     }
   },
   {
@@ -2225,8 +2225,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Required number = HCF(90,135,180) = 45.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(৯০,১৩৫,১৮০) = ৪৫।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 45.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ৪৫।"
     }
   },
   {
@@ -2256,8 +2256,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Required number = HCF(96,144,240) = 48.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(৯৬,১৪৪,২৪০) = ৪৮।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 48.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ৪৮।"
     }
   },
   {
@@ -2287,8 +2287,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Required number = HCF(108,162,270) = 54.",
-      "as": "প্ৰয়োজনীয় সংখ্যা = গ.সা.গু.(১০৮,১৬২,২৭০) = ৫৪।"
+      "en": "The greatest number that divides every given value exactly is their HCF, which works out to 54.",
+      "as": "দিয়া প্ৰতিটো মানক নিৰ্ভুলভাৱে হৰণ কৰা আটাইতকৈ ডাঙৰ সংখ্যাটোৱেই গ.সা.গু., যাৰ মান ৫৪।"
     }
   },
   {

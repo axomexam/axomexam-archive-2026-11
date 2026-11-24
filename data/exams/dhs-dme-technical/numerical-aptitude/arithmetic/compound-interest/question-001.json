@@ -86,8 +86,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A = P(1+r/100)^n = 10000(1+10/100)^2 = 12100.0.",
-      "as": "মুঠ ধন = ১২১০০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1+r/100)^n = 10000(1+10/100)^2 = 12100.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১+r/১০০)^n = ১০০০০(১+১০/১০০)^২ = ১২১০০.০।"
     }
   },
   {
@@ -117,8 +117,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A = P(1+r/100)^n = 15000(1+8/100)^2 = 17496.0.",
-      "as": "মুঠ ধন = ১৭৪৯৬.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1+r/100)^n = 15000(1+8/100)^2 = 17496.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১+r/১০০)^n = ১৫০০০(১+৮/১০০)^২ = ১৭৪৯৬.০।"
     }
   },
   {
@@ -148,8 +148,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A = P(1+r/100)^n = 20000(1+12/100)^2 = 25088.0.",
-      "as": "মুঠ ধন = ২৫০৮৮.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1+r/100)^n = 20000(1+12/100)^2 = 25088.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১+r/১০০)^n = ২০০০০(১+১২/১০০)^২ = ২৫০৮৮.০।"
     }
   },
   {
@@ -179,8 +179,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A = P(1+r/100)^n = 25000(1+6/100)^3 = 29775.4.",
-      "as": "মুঠ ধন = ২৯৭৭৫.৪।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1+r/100)^n = 25000(1+6/100)^3 = 29775.4.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১+r/১০০)^n = ২৫০০০(১+৬/১০০)^৩ = ২৯৭৭৫.৪।"
     }
   },
   {
@@ -210,8 +210,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A = P(1+r/100)^n = 40000(1+5/100)^2 = 44100.0.",
-      "as": "মুঠ ধন = ৪৪১০০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1+r/100)^n = 40000(1+5/100)^2 = 44100.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১+r/১০০)^n = ৪০০০০(১+৫/১০০)^২ = ৪৪১০০.০।"
     }
   },
   {
@@ -241,8 +241,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A = P(1+r/100)^n = 50000(1+10/100)^3 = 66550.0.",
-      "as": "মুঠ ধন = ৬৬৫৫০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1+r/100)^n = 50000(1+10/100)^3 = 66550.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১+r/১০০)^n = ৫০০০০(১+১০/১০০)^৩ = ৬৬৫৫০.০।"
     }
   },
   {
@@ -272,8 +272,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A = P(1+r/100)^n = 64000(1+15/100)^2 = 84640.0.",
-      "as": "মুঠ ধন = ৮৪৬৪০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1+r/100)^n = 64000(1+15/100)^2 = 84640.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১+r/১০০)^n = ৬৪০০০(১+১৫/১০০)^২ = ৮৪৬৪০.০।"
     }
   },
   {
@@ -303,8 +303,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A = P(1+r/100)^n = 80000(1+12/100)^2 = 100352.0.",
-      "as": "মুঠ ধন = ১০০৩৫২.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1+r/100)^n = 80000(1+12/100)^2 = 100352.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১+r/১০০)^n = ৮০০০০(১+১২/১০০)^২ = ১০০৩৫২.০।"
     }
   },
   {
@@ -334,8 +334,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A = P(1+r/100)^n = 12000(1+20/100)^2 = 17280.0.",
-      "as": "মুঠ ধন = ১৭২৮০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1+r/100)^n = 12000(1+20/100)^2 = 17280.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১+r/১০০)^n = ১২০০০(১+২০/১০০)^২ = ১৭২৮০.০।"
     }
   },
   {
@@ -365,8 +365,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A = P(1+r/100)^n = 18000(1+25/100)^2 = 28125.0.",
-      "as": "মুঠ ধন = ২৮১২৫.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1+r/100)^n = 18000(1+25/100)^2 = 28125.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১+r/১০০)^n = ১৮০০০(১+২৫/১০০)^২ = ২৮১২৫.০।"
     }
   },
   {
@@ -644,8 +644,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "P = A/(1+r/100)^n = 10000.0.",
-      "as": "মূলধন = ১০০০০.০।"
+      "en": "The principal, using A = P(1 + R/100)^n: A/(1+r/100)^n = 10000.0.",
+      "as": "The principal, using A = P(1 + R/100)^n: A/(১+r/১০০)^n = ১০০০০.০।"
     }
   },
   {
@@ -675,8 +675,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "P = A/(1+r/100)^n = 15000.0.",
-      "as": "মূলধন = ১৫০০০.০।"
+      "en": "The principal, using A = P(1 + R/100)^n: A/(1+r/100)^n = 15000.0.",
+      "as": "The principal, using A = P(1 + R/100)^n: A/(১+r/১০০)^n = ১৫০০০.০।"
     }
   },
   {
@@ -706,8 +706,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "P = A/(1+r/100)^n = 20000.0.",
-      "as": "মূলধন = ২০০০০.০।"
+      "en": "The principal, using A = P(1 + R/100)^n: A/(1+r/100)^n = 20000.0.",
+      "as": "The principal, using A = P(1 + R/100)^n: A/(১+r/১০০)^n = ২০০০০.০।"
     }
   },
   {
@@ -737,8 +737,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "P = A/(1+r/100)^n = 29154.52.",
-      "as": "মূলধন = ২৯১৫৪.৫২।"
+      "en": "The principal, using A = P(1 + R/100)^n: A/(1+r/100)^n = 29154.52.",
+      "as": "The principal, using A = P(1 + R/100)^n: A/(১+r/১০০)^n = ২৯১৫৪.৫২।"
     }
   },
   {
@@ -768,8 +768,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "P = A/(1+r/100)^n = 50000.0.",
-      "as": "মূলধন = ৫০০০০.০।"
+      "en": "The principal, using A = P(1 + R/100)^n: A/(1+r/100)^n = 50000.0.",
+      "as": "The principal, using A = P(1 + R/100)^n: A/(১+r/১০০)^n = ৫০০০০.০।"
     }
   },
   {
@@ -799,8 +799,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "P = A/(1+r/100)^n = 69444.44.",
-      "as": "মূলধন = ৬৯৪৪৪.৪৪।"
+      "en": "The principal, using A = P(1 + R/100)^n: A/(1+r/100)^n = 69444.44.",
+      "as": "The principal, using A = P(1 + R/100)^n: A/(১+r/১০০)^n = ৬৯৪৪৪.৪৪।"
     }
   },
   {
@@ -1295,8 +1295,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A = P(1 + r/200)^(2n) = 22050.0.",
-      "as": "মুঠ ধন = ২২০৫০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1 + r/200)^(2n) = 22050.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১ + r/২০০)^(২n) = ২২০৫০.০।"
     }
   },
   {
@@ -1326,8 +1326,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A = P(1 + r/200)^(2n) = 43264.0.",
-      "as": "মুঠ ধন = ৪৩২৬৪.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1 + r/200)^(2n) = 43264.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১ + r/২০০)^(২n) = ৪৩২৬৪.০।"
     }
   },
   {
@@ -1357,8 +1357,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A = P(1 + r/200)^(2n) = 56180.0.",
-      "as": "মুঠ ধন = ৫৬১৮০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1 + r/200)^(2n) = 56180.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১ + r/২০০)^(২n) = ৫৬১৮০.০।"
     }
   },
   {
@@ -1388,8 +1388,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A = P(1 + r/200)^(2n) = 19448.1.",
-      "as": "মুঠ ধন = ১৯৪৪৮.১।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1 + r/200)^(2n) = 19448.1.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১ + r/২০০)^(২n) = ১৯৪৪৮.১।"
     }
   },
   {
@@ -1419,8 +1419,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A = P(1 + r/200)^(2n) = 29246.46.",
-      "as": "মুঠ ধন = ২৯২৪৬.৪৬।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1 + r/200)^(2n) = 29246.46.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১ + r/২০০)^(২n) = ২৯২৪৬.৪৬।"
     }
   },
   {
@@ -1450,8 +1450,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A = P(1 + r/200)^(2n) = 67240.0.",
-      "as": "মুঠ ধন = ৬৭২৪০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1 + r/200)^(2n) = 67240.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১ + r/২০০)^(২n) = ৬৭২৪০.০।"
     }
   },
   {
@@ -1481,8 +1481,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A = P(1 + r/400)^(4n) = 18008.14.",
-      "as": "মুঠ ধন = ১৮০০৮.১৪।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1 + r/400)^(4n) = 18008.14.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১ + r/৪০০)^(৪n) = ১৮০০৮.১৪।"
     }
   },
   {
@@ -1512,8 +1512,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A = P(1 + r/400)^(4n) = 27060.8.",
-      "as": "মুঠ ধন = ২৭০৬০.৮।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1 + r/400)^(4n) = 27060.8.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১ + r/৪০০)^(৪n) = ২৭০৬০.৮।"
     }
   },
   {
@@ -1543,8 +1543,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A = P(1 + r/400)^(4n) = 44152.52.",
-      "as": "মুঠ ধন = ৪৪১৫২.৫২।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1 + r/400)^(4n) = 44152.52.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১ + r/৪০০)^(৪n) = ৪৪১৫২.৫২।"
     }
   },
   {
@@ -1574,8 +1574,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A = P(1 + r/400)^(4n) = 53068.18.",
-      "as": "মুঠ ধন = ৫৩০৬৮.১৮।"
+      "en": "The amount, using A = P(1 + R/100)^n: P(1 + r/400)^(4n) = 53068.18.",
+      "as": "The amount, using A = P(1 + R/100)^n: P(১ + r/৪০০)^(৪n) = ৫৩০৬৮.১৮।"
     }
   },
   {
@@ -1605,8 +1605,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A = 10000(1+10/100)(1+20/100) = 13200.0.",
-      "as": "মুঠ ধন = ১৩২০০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: 10000(1+10/100)(1+20/100) = 13200.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: ১০০০০(১+১০/১০০)(১+২০/১০০) = ১৩২০০.০।"
     }
   },
   {
@@ -1636,8 +1636,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A = 20000(1+5/100)(1+10/100) = 23100.0.",
-      "as": "মুঠ ধন = ২৩১০০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: 20000(1+5/100)(1+10/100) = 23100.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: ২০০০০(১+৫/১০০)(১+১০/১০০) = ২৩১০০.০।"
     }
   },
   {
@@ -1667,8 +1667,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A = 15000(1+8/100)(1+12/100) = 18144.0.",
-      "as": "মুঠ ধন = ১৮১৪৪.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: 15000(1+8/100)(1+12/100) = 18144.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: ১৫০০০(১+৮/১০০)(১+১২/১০০) = ১৮১৪৪.০।"
     }
   },
   {
@@ -1698,8 +1698,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A = 25000(1+6/100)(1+8/100) = 28620.0.",
-      "as": "মুঠ ধন = ২৮৬২০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: 25000(1+6/100)(1+8/100) = 28620.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: ২৫০০০(১+৬/১০০)(১+৮/১০০) = ২৮৬২০.০।"
     }
   },
   {
@@ -1729,8 +1729,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A = 40000(1+12/100)(1+5/100) = 47040.0.",
-      "as": "মুঠ ধন = ৪৭০৪০.০।"
+      "en": "The amount, using A = P(1 + R/100)^n: 40000(1+12/100)(1+5/100) = 47040.0.",
+      "as": "The amount, using A = P(1 + R/100)^n: ৪০০০০(১+১২/১০০)(১+৫/১০০) = ৪৭০৪০.০।"
     }
   },
   {
@@ -2225,8 +2225,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A = 36300.0.",
-      "as": "মুঠ ধন = ৩৬৩০০.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the amount: it works out to 36,300.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মুঠ ধন উলিয়ালে ৩৬,৩০০ পোৱা যায়।"
     }
   },
   {
@@ -2256,8 +2256,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A = 52488.0.",
-      "as": "মুঠ ধন = ৫২৪৮৮.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the amount: it works out to 52,488.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মুঠ ধন উলিয়ালে ৫২,৪৮৮ পোৱা যায়।"
     }
   },
   {
@@ -2287,8 +2287,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A = 75264.0.",
-      "as": "মুঠ ধন = ৭৫২৬৪.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the amount: it works out to 75,264.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মুঠ ধন উলিয়ালে ৭৫,২৬৪ পোৱা যায়।"
     }
   },
   {
@@ -2318,8 +2318,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A = 84270.0.",
-      "as": "মুঠ ধন = ৮৪২৭০.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the amount: it works out to 84,270.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মুঠ ধন উলিয়ালে ৮৪,২৭০ পোৱা যায়।"
     }
   },
   {
@@ -2473,8 +2473,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "P = 12100.0.",
-      "as": "মূলধন = ১২১০০.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the principal: it works out to 12,100.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মূলধন উলিয়ালে ১২,১০০ পোৱা যায়।"
     }
   },
   {
@@ -2504,8 +2504,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "P = 17777.78.",
-      "as": "মূলধন = ১৭৭৭৭.৭৮।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the principal: it works out to 17,777.78.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মূলধন উলিয়ালে ১৭,৭৭৭.৭৮ পোৱা যায়।"
     }
   },
   {
@@ -2535,8 +2535,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "P = 28000.0.",
-      "as": "মূলধন = ২৮০০০.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the principal: it works out to 28,000.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মূলধন উলিয়ালে ২৮,০০০ পোৱা যায়।"
     }
   },
   {
@@ -2814,8 +2814,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A = 12155.06.",
-      "as": "মুঠ ধন = ১২১৫৫.০৬।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the amount: it works out to 12,155.06.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মুঠ ধন উলিয়ালে ১২,১৫৫.০৬ পোৱা যায়।"
     }
   },
   {
@@ -2845,8 +2845,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "A = 34611.2.",
-      "as": "মুঠ ধন = ৩৪৬১১.২।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the amount: it works out to 34,611.2.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মুঠ ধন উলিয়ালে ৩৪,৬১১.২ পোৱা যায়।"
     }
   },
   {
@@ -2876,8 +2876,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A = 70644.02.",
-      "as": "মুঠ ধন = ৭০৬৪৪.০২।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the amount: it works out to 70,644.02.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মুঠ ধন উলিয়ালে ৭০,৬৪৪.০২ পোৱা যায়।"
     }
   },
   {
@@ -2907,8 +2907,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "A = 87677.0.",
-      "as": "মুঠ ধন = ৮৭৬৭৭.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the amount: it works out to 87,677.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মুঠ ধন উলিয়ালে ৮৭,৬৭৭ পোৱা যায়।"
     }
   },
   {
@@ -2938,8 +2938,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "A = 15180.0.",
-      "as": "মুঠ ধন = ১৫১৮০.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the amount: it works out to 15,180.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মুঠ ধন উলিয়ালে ১৫,১৮০ পোৱা যায়।"
     }
   },
   {
@@ -2969,8 +2969,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "A = 23760.0.",
-      "as": "মুঠ ধন = ২৩৭৬০.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the amount: it works out to 23,760.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মুঠ ধন উলিয়ালে ২৩,৭৬০ পোৱা যায়।"
     }
   },
   {

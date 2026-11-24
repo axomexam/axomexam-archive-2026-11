@@ -86,8 +86,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "SI = PRT/100 = 8000×8×3/100 = 1920.0.",
-      "as": "সৰল সুত = PRT/১০০ = ১৯২০.০।"
+      "en": "Simple interest, using SI = PRT/100: PRT/100 = 8000×8×3/100 = 1920.0.",
+      "as": "Simple interest, using SI = PRT/100: PRT/১০০ = ৮০০০×৮×৩/১০০ = ১৯২০.০।"
     }
   },
   {
@@ -117,8 +117,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "SI = PRT/100 = 12500×12×4/100 = 6000.0.",
-      "as": "সৰল সুত = PRT/১০০ = ৬০০০.০।"
+      "en": "Simple interest, using SI = PRT/100: PRT/100 = 12500×12×4/100 = 6000.0.",
+      "as": "Simple interest, using SI = PRT/100: PRT/১০০ = ১২৫০০×১২×৪/১০০ = ৬০০০.০।"
     }
   },
   {
@@ -148,8 +148,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "SI = PRT/100 = 24000×10×5/100 = 12000.0.",
-      "as": "সৰল সুত = PRT/১০০ = ১২০০০.০।"
+      "en": "Simple interest, using SI = PRT/100: PRT/100 = 24000×10×5/100 = 12000.0.",
+      "as": "Simple interest, using SI = PRT/100: PRT/১০০ = ২৪০০০×১০×৫/১০০ = ১২০০০.০।"
     }
   },
   {
@@ -179,8 +179,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "SI = PRT/100 = 36000×15×2/100 = 10800.0.",
-      "as": "সৰল সুত = PRT/১০০ = ১০৮০০.০।"
+      "en": "Simple interest, using SI = PRT/100: PRT/100 = 36000×15×2/100 = 10800.0.",
+      "as": "Simple interest, using SI = PRT/100: PRT/১০০ = ৩৬০০০×১৫×২/১০০ = ১০৮০০.০।"
     }
   },
   {
@@ -210,8 +210,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "SI = PRT/100 = 48000×7.5×3/100 = 10800.0.",
-      "as": "সৰল সুত = PRT/১০০ = ১০৮০০.০।"
+      "en": "Simple interest, using SI = PRT/100: PRT/100 = 48000×7.5×3/100 = 10800.0.",
+      "as": "Simple interest, using SI = PRT/100: PRT/১০০ = ৪৮০০০×৭.৫×৩/১০০ = ১০৮০০.০।"
     }
   },
   {
@@ -241,8 +241,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "SI = PRT/100 = 64000×12.5×2/100 = 16000.0.",
-      "as": "সৰল সুত = PRT/১০০ = ১৬০০০.০।"
+      "en": "Simple interest, using SI = PRT/100: PRT/100 = 64000×12.5×2/100 = 16000.0.",
+      "as": "Simple interest, using SI = PRT/100: PRT/১০০ = ৬৪০০০×১২.৫×২/১০০ = ১৬০০০.০।"
     }
   },
   {
@@ -272,8 +272,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "SI = PRT/100 = 75000×8×4/100 = 24000.0.",
-      "as": "সৰল সুত = PRT/১০০ = ২৪০০০.০।"
+      "en": "Simple interest, using SI = PRT/100: PRT/100 = 75000×8×4/100 = 24000.0.",
+      "as": "Simple interest, using SI = PRT/100: PRT/১০০ = ৭৫০০০×৮×৪/১০০ = ২৪০০০.০।"
     }
   },
   {
@@ -303,8 +303,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "SI = PRT/100 = 90000×11×3/100 = 29700.0.",
-      "as": "সৰল সুত = PRT/১০০ = ২৯৭০০.০।"
+      "en": "Simple interest, using SI = PRT/100: PRT/100 = 90000×11×3/100 = 29700.0.",
+      "as": "Simple interest, using SI = PRT/100: PRT/১০০ = ৯০০০০×১১×৩/১০০ = ২৯৭০০.০।"
     }
   },
   {
@@ -334,8 +334,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "P = SI×100/(R×T) = 2400×100/(8×3) = 10000.0.",
-      "as": "মূলধন = ১০০০০.০।"
+      "en": "The principal, using A = P(1 + R/100)^n: SI×100/(R×T) = 2400×100/(8×3) = 10000.0.",
+      "as": "The principal, using A = P(1 + R/100)^n: SI×১০০/(R×T) = ২৪০০×১০০/(৮×৩) = ১০০০০.০।"
     }
   },
   {
@@ -365,8 +365,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "P = SI×100/(R×T) = 5400×100/(12×3) = 15000.0.",
-      "as": "মূলধন = ১৫০০০.০।"
+      "en": "The principal, using A = P(1 + R/100)^n: SI×100/(R×T) = 5400×100/(12×3) = 15000.0.",
+      "as": "The principal, using A = P(1 + R/100)^n: SI×১০০/(R×T) = ৫৪০০×১০০/(১২×৩) = ১৫০০০.০।"
     }
   },
   {
@@ -396,8 +396,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "P = SI×100/(R×T) = 9600×100/(10×4) = 24000.0.",
-      "as": "মূলধন = ২৪০০০.০।"
+      "en": "The principal, using A = P(1 + R/100)^n: SI×100/(R×T) = 9600×100/(10×4) = 24000.0.",
+      "as": "The principal, using A = P(1 + R/100)^n: SI×১০০/(R×T) = ৯৬০০×১০০/(১০×৪) = ২৪০০০.০।"
     }
   },
   {
@@ -427,8 +427,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "P = SI×100/(R×T) = 15750×100/(15×5) = 21000.0.",
-      "as": "মূলধন = ২১০০০.০।"
+      "en": "The principal, using A = P(1 + R/100)^n: SI×100/(R×T) = 15750×100/(15×5) = 21000.0.",
+      "as": "The principal, using A = P(1 + R/100)^n: SI×১০০/(R×T) = ১৫৭৫০×১০০/(১৫×৫) = ২১০০০.০।"
     }
   },
   {
@@ -458,8 +458,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "P = SI×100/(R×T) = 8400×100/(7×4) = 30000.0.",
-      "as": "মূলধন = ৩০০০০.০।"
+      "en": "The principal, using A = P(1 + R/100)^n: SI×100/(R×T) = 8400×100/(7×4) = 30000.0.",
+      "as": "The principal, using A = P(1 + R/100)^n: SI×১০০/(R×T) = ৮৪০০×১০০/(৭×৪) = ৩০০০০.০।"
     }
   },
   {
@@ -489,8 +489,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "P = SI×100/(R×T) = 11200×100/(14×2) = 40000.0.",
-      "as": "মূলধন = ৪০০০০.০।"
+      "en": "The principal, using A = P(1 + R/100)^n: SI×100/(R×T) = 11200×100/(14×2) = 40000.0.",
+      "as": "The principal, using A = P(1 + R/100)^n: SI×১০০/(R×T) = ১১২০০×১০০/(১৪×২) = ৪০০০০.০।"
     }
   },
   {
@@ -520,8 +520,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "R = SI×100/(P×T) = 3600×100/(15000×3) = 8.0%.",
-      "as": "সুতৰ হাৰ = ৮.০%।"
+      "en": "The rate, rearranged from the interest formula: SI×100/(P×T) = 3600×100/(15000×3) = 8.0%.",
+      "as": "The rate, rearranged from the interest formula: SI×১০০/(P×T) = ৩৬০০×১০০/(১৫০০০×৩) = ৮.০%।"
     }
   },
   {
@@ -551,8 +551,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "R = SI×100/(P×T) = 8640×100/(24000×4) = 9.0%.",
-      "as": "সুতৰ হাৰ = ৯.০%।"
+      "en": "The rate, rearranged from the interest formula: SI×100/(P×T) = 8640×100/(24000×4) = 9.0%.",
+      "as": "The rate, rearranged from the interest formula: SI×১০০/(P×T) = ৮৬৪০×১০০/(২৪০০০×৪) = ৯.০%।"
     }
   },
   {
@@ -582,8 +582,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "R = SI×100/(P×T) = 12960×100/(36000×3) = 12.0%.",
-      "as": "সুতৰ হাৰ = ১২.০%।"
+      "en": "The rate, rearranged from the interest formula: SI×100/(P×T) = 12960×100/(36000×3) = 12.0%.",
+      "as": "The rate, rearranged from the interest formula: SI×১০০/(P×T) = ১২৯৬০×১০০/(৩৬০০০×৩) = ১২.০%।"
     }
   },
   {
@@ -613,8 +613,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "R = SI×100/(P×T) = 11520×100/(48000×2) = 12.0%.",
-      "as": "সুতৰ হাৰ = ১২.০%।"
+      "en": "The rate, rearranged from the interest formula: SI×100/(P×T) = 11520×100/(48000×2) = 12.0%.",
+      "as": "The rate, rearranged from the interest formula: SI×১০০/(P×T) = ১১৫২০×১০০/(৪৮০০০×২) = ১২.০%।"
     }
   },
   {
@@ -644,8 +644,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "R = SI×100/(P×T) = 18900×100/(60000×5) = 6.3%.",
-      "as": "সুতৰ হাৰ = ৬.৩%।"
+      "en": "The rate, rearranged from the interest formula: SI×100/(P×T) = 18900×100/(60000×5) = 6.3%.",
+      "as": "The rate, rearranged from the interest formula: SI×১০০/(P×T) = ১৮৯০০×১০০/(৬০০০০×৫) = ৬.৩%।"
     }
   },
   {
@@ -675,8 +675,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "R = SI×100/(P×T) = 17280×100/(72000×4) = 6.0%.",
-      "as": "সুতৰ হাৰ = ৬.০%।"
+      "en": "The rate, rearranged from the interest formula: SI×100/(P×T) = 17280×100/(72000×4) = 6.0%.",
+      "as": "The rate, rearranged from the interest formula: SI×১০০/(P×T) = ১৭২৮০×১০০/(৭২০০০×৪) = ৬.০%।"
     }
   },
   {
@@ -706,8 +706,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "T = SI×100/(P×R) = 3.33 years.",
-      "as": "সময় = ৩.৩৩ বছৰ।"
+      "en": "The time, rearranged from the interest formula: SI×100/(P×R) = 3.33 years.",
+      "as": "The time, rearranged from the interest formula: SI×১০০/(P×R) = ৩.৩৩ years।"
     }
   },
   {
@@ -737,8 +737,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "T = SI×100/(P×R) = 3.0 years.",
-      "as": "সময় = ৩.০ বছৰ।"
+      "en": "The time, rearranged from the interest formula: SI×100/(P×R) = 3.0 years.",
+      "as": "The time, rearranged from the interest formula: SI×১০০/(P×R) = ৩.০ years।"
     }
   },
   {
@@ -768,8 +768,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "T = SI×100/(P×R) = 2.0 years.",
-      "as": "সময় = ২.০ বছৰ।"
+      "en": "The time, rearranged from the interest formula: SI×100/(P×R) = 2.0 years.",
+      "as": "The time, rearranged from the interest formula: SI×১০০/(P×R) = ২.০ years।"
     }
   },
   {
@@ -799,8 +799,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "T = SI×100/(P×R) = 3.0 years.",
-      "as": "সময় = ৩.০ বছৰ।"
+      "en": "The time, rearranged from the interest formula: SI×100/(P×R) = 3.0 years.",
+      "as": "The time, rearranged from the interest formula: SI×১০০/(P×R) = ৩.০ years।"
     }
   },
   {
@@ -830,8 +830,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "T = SI×100/(P×R) = 2.25 years.",
-      "as": "সময় = ২.২৫ বছৰ।"
+      "en": "The time, rearranged from the interest formula: SI×100/(P×R) = 2.25 years.",
+      "as": "The time, rearranged from the interest formula: SI×১০০/(P×R) = ২.২৫ years।"
     }
   },
   {
@@ -861,8 +861,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "T = SI×100/(P×R) = 2.0 years.",
-      "as": "সময় = ২.০ বছৰ।"
+      "en": "The time, rearranged from the interest formula: SI×100/(P×R) = 2.0 years.",
+      "as": "The time, rearranged from the interest formula: SI×১০০/(P×R) = ২.০ years।"
     }
   },
   {
@@ -1078,8 +1078,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "R = 100/T = 100/5 = 20.0%.",
-      "as": "হাৰ = ১০০/T = ২০.০%।"
+      "en": "The rate, rearranged from the interest formula: 100/T = 100/5 = 20.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০/T = ১০০/৫ = ২০.০%।"
     }
   },
   {
@@ -1109,8 +1109,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "R = 100/T = 100/8 = 12.5%.",
-      "as": "হাৰ = ১০০/T = ১২.৫%।"
+      "en": "The rate, rearranged from the interest formula: 100/T = 100/8 = 12.5%.",
+      "as": "The rate, rearranged from the interest formula: ১০০/T = ১০০/৮ = ১২.৫%।"
     }
   },
   {
@@ -1140,8 +1140,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "R = 100/T = 100/10 = 10.0%.",
-      "as": "হাৰ = ১০০/T = ১০.০%।"
+      "en": "The rate, rearranged from the interest formula: 100/T = 100/10 = 10.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০/T = ১০০/১০ = ১০.০%।"
     }
   },
   {
@@ -1171,8 +1171,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "R = 100/T = 100/12.5 = 8.0%.",
-      "as": "হাৰ = ১০০/T = ৮.০%।"
+      "en": "The rate, rearranged from the interest formula: 100/T = 100/12.5 = 8.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০/T = ১০০/১২.৫ = ৮.০%।"
     }
   },
   {
@@ -1202,8 +1202,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "R = 100/T = 100/16 = 6.25%.",
-      "as": "হাৰ = ১০০/T = ৬.২৫%।"
+      "en": "The rate, rearranged from the interest formula: 100/T = 100/16 = 6.25%.",
+      "as": "The rate, rearranged from the interest formula: ১০০/T = ১০০/১৬ = ৬.২৫%।"
     }
   },
   {
@@ -1233,8 +1233,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "R = 100/T = 100/20 = 5.0%.",
-      "as": "হাৰ = ১০০/T = ৫.০%।"
+      "en": "The rate, rearranged from the interest formula: 100/T = 100/20 = 5.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০/T = ১০০/২০ = ৫.০%।"
     }
   },
   {
@@ -1264,8 +1264,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "R = 100/T = 100/25 = 4.0%.",
-      "as": "হাৰ = ১০০/T = ৪.০%।"
+      "en": "The rate, rearranged from the interest formula: 100/T = 100/25 = 4.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০/T = ১০০/২৫ = ৪.০%।"
     }
   },
   {
@@ -1295,8 +1295,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "R = 100(n-1)/T = 100×2/10 = 20.0%.",
-      "as": "হাৰ = ২০.০%।"
+      "en": "The rate, rearranged from the interest formula: 100(n-1)/T = 100×2/10 = 20.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০(n-১)/T = ১০০×২/১০ = ২০.০%।"
     }
   },
   {
@@ -1326,8 +1326,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "R = 100(n-1)/T = 100×3/15 = 20.0%.",
-      "as": "হাৰ = ২০.০%।"
+      "en": "The rate, rearranged from the interest formula: 100(n-1)/T = 100×3/15 = 20.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০(n-১)/T = ১০০×৩/১৫ = ২০.০%।"
     }
   },
   {
@@ -1357,8 +1357,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "R = 100(n-1)/T = 100×4/20 = 20.0%.",
-      "as": "হাৰ = ২০.০%।"
+      "en": "The rate, rearranged from the interest formula: 100(n-1)/T = 100×4/20 = 20.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০(n-১)/T = ১০০×৪/২০ = ২০.০%।"
     }
   },
   {
@@ -1388,8 +1388,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "R = 100(n-1)/T = 100×5/25 = 20.0%.",
-      "as": "হাৰ = ২০.০%।"
+      "en": "The rate, rearranged from the interest formula: 100(n-1)/T = 100×5/25 = 20.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০(n-১)/T = ১০০×৫/২৫ = ২০.০%।"
     }
   },
   {
@@ -1419,8 +1419,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "R = 100(n-1)/T = 100×1/12.5 = 8.0%.",
-      "as": "হাৰ = ৮.০%।"
+      "en": "The rate, rearranged from the interest formula: 100(n-1)/T = 100×1/12.5 = 8.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০(n-১)/T = ১০০×১/১২.৫ = ৮.০%।"
     }
   },
   {
@@ -1450,8 +1450,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "R = 100(n-1)/T = 100×2/8 = 25.0%.",
-      "as": "হাৰ = ২৫.০%।"
+      "en": "The rate, rearranged from the interest formula: 100(n-1)/T = 100×2/8 = 25.0%.",
+      "as": "The rate, rearranged from the interest formula: ১০০(n-১)/T = ১০০×২/৮ = ২৫.০%।"
     }
   },
   {
@@ -1605,8 +1605,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "SI = 25000(8×2 + 10×3)/100 = 11500.0.",
-      "as": "সৰল সুত = ১১৫০০.০।"
+      "en": "Simple interest, using SI = PRT/100: 25000(8×2 + 10×3)/100 = 11500.0.",
+      "as": "Simple interest, using SI = PRT/100: ২৫০০০(৮×২ + ১০×৩)/১০০ = ১১৫০০.০।"
     }
   },
   {
@@ -1636,8 +1636,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "SI = 40000(6×3 + 9×2)/100 = 14400.0.",
-      "as": "সৰল সুত = ১৪৪০০.০।"
+      "en": "Simple interest, using SI = PRT/100: 40000(6×3 + 9×2)/100 = 14400.0.",
+      "as": "Simple interest, using SI = PRT/100: ৪০০০০(৬×৩ + ৯×২)/১০০ = ১৪৪০০.০।"
     }
   },
   {
@@ -1667,8 +1667,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "SI = 60000(10×1 + 12×4)/100 = 34800.0.",
-      "as": "সৰল সুত = ৩৪৮০০.০।"
+      "en": "Simple interest, using SI = PRT/100: 60000(10×1 + 12×4)/100 = 34800.0.",
+      "as": "Simple interest, using SI = PRT/100: ৬০০০০(১০×১ + ১২×৪)/১০০ = ৩৪৮০০.০।"
     }
   },
   {
@@ -1698,8 +1698,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "SI = 80000(7×2 + 9×3)/100 = 32800.0.",
-      "as": "সৰল সুত = ৩২৮০০.০।"
+      "en": "Simple interest, using SI = PRT/100: 80000(7×2 + 9×3)/100 = 32800.0.",
+      "as": "Simple interest, using SI = PRT/100: ৮০০০০(৭×২ + ৯×৩)/১০০ = ৩২৮০০.০।"
     }
   },
   {
@@ -2070,8 +2070,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "SI = 2880.0.",
-      "as": "সৰল সুত = ২৮৮০.০।"
+      "en": "Simple interest uses SI = (P × R × T)/100. Putting the principal, rate and time from the question into that formula gives SI = 2,880.",
+      "as": "সৰল সুতৰ সূত্ৰ SI = (P × R × T)/100। প্ৰশ্নৰ মূলধন, হাৰ আৰু সময় সূত্ৰত বহুৱালে SI = ২,৮৮০ পোৱা যায়।"
     }
   },
   {
@@ -2101,8 +2101,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "SI = 9240.0.",
-      "as": "সৰল সুত = ৯২৪০.০।"
+      "en": "Simple interest uses SI = (P × R × T)/100. Putting the principal, rate and time from the question into that formula gives SI = 9,240.",
+      "as": "সৰল সুতৰ সূত্ৰ SI = (P × R × T)/100। প্ৰশ্নৰ মূলধন, হাৰ আৰু সময় সূত্ৰত বহুৱালে SI = ৯,২৪০ পোৱা যায়।"
     }
   },
   {
@@ -2132,8 +2132,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "SI = 13520.0.",
-      "as": "সৰল সুত = ১৩৫২০.০।"
+      "en": "Simple interest uses SI = (P × R × T)/100. Putting the principal, rate and time from the question into that formula gives SI = 13,520.",
+      "as": "সৰল সুতৰ সূত্ৰ SI = (P × R × T)/100। প্ৰশ্নৰ মূলধন, হাৰ আৰু সময় সূত্ৰত বহুৱালে SI = ১৩,৫২০ পোৱা যায়।"
     }
   },
   {
@@ -2163,8 +2163,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "SI = 24960.0.",
-      "as": "সৰল সুত = ২৪৯৬০.০।"
+      "en": "Simple interest uses SI = (P × R × T)/100. Putting the principal, rate and time from the question into that formula gives SI = 24,960.",
+      "as": "সৰল সুতৰ সূত্ৰ SI = (P × R × T)/100। প্ৰশ্নৰ মূলধন, হাৰ আৰু সময় সূত্ৰত বহুৱালে SI = ২৪,৯৬০ পোৱা যায়।"
     }
   },
   {
@@ -2194,8 +2194,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "P = 10000.0.",
-      "as": "মূলধন = ১০০০০.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the principal: it works out to 10,000.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মূলধন উলিয়ালে ১০,০০০ পোৱা যায়।"
     }
   },
   {
@@ -2225,8 +2225,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "P = 16000.0.",
-      "as": "মূলধন = ১৬০০০.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the principal: it works out to 16,000.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মূলধন উলিয়ালে ১৬,০০০ পোৱা যায়।"
     }
   },
   {
@@ -2256,8 +2256,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "P = 15000.0.",
-      "as": "মূলধন = ১৫০০০.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the principal: it works out to 15,000.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মূলধন উলিয়ালে ১৫,০০০ পোৱা যায়।"
     }
   },
   {
@@ -2287,8 +2287,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "R = 6.0%.",
-      "as": "সুতৰ হাৰ = ৬.০%।"
+      "en": "Rate per cent per annum = (interest × 100) ÷ (principal × time), which works out to 6%.",
+      "as": "বছৰেকীয়া হাৰ = (সুত × ১০০) ÷ (মূলধন × সময়), যাৰ মান ৬%।"
     }
   },
   {
@@ -2318,8 +2318,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "R = 8.0%.",
-      "as": "সুতৰ হাৰ = ৮.০%।"
+      "en": "Rate per cent per annum = (interest × 100) ÷ (principal × time), which works out to 8%.",
+      "as": "বছৰেকীয়া হাৰ = (সুত × ১০০) ÷ (মূলধন × সময়), যাৰ মান ৮%।"
     }
   },
   {
@@ -2349,8 +2349,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "R = 6.0%.",
-      "as": "সুতৰ হাৰ = ৬.০%।"
+      "en": "Rate per cent per annum = (interest × 100) ÷ (principal × time), which works out to 6%.",
+      "as": "বছৰেকীয়া হাৰ = (সুত × ১০০) ÷ (মূলধন × সময়), যাৰ মান ৬%।"
     }
   },
   {
@@ -2566,8 +2566,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "R = 25.0%.",
-      "as": "হাৰ = ২৫.০%।"
+      "en": "Rate per cent per annum = (interest × 100) ÷ (principal × time), which works out to 25%.",
+      "as": "বছৰেকীয়া হাৰ = (সুত × ১০০) ÷ (মূলধন × সময়), যাৰ মান ২৫%।"
     }
   },
   {
@@ -2597,8 +2597,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "R = 16.0%.",
-      "as": "হাৰ = ১৬.০%।"
+      "en": "Rate per cent per annum = (interest × 100) ÷ (principal × time), which works out to 16%.",
+      "as": "বছৰেকীয়া হাৰ = (সুত × ১০০) ÷ (মূলধন × সময়), যাৰ মান ১৬%।"
     }
   },
   {
@@ -2628,8 +2628,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "R = 6.67%.",
-      "as": "হাৰ = ৬.৬৭%।"
+      "en": "Rate per cent per annum = (interest × 100) ÷ (principal × time), which works out to 6.67%.",
+      "as": "বছৰেকীয়া হাৰ = (সুত × ১০০) ÷ (মূলধন × সময়), যাৰ মান ৬.৬৭%।"
     }
   },
   {
@@ -2659,8 +2659,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "R = 25.0%.",
-      "as": "হাৰ = ২৫.০%।"
+      "en": "Rate per cent per annum = (interest × 100) ÷ (principal × time), which works out to 25%.",
+      "as": "বছৰেকীয়া হাৰ = (সুত × ১০০) ÷ (মূলধন × সময়), যাৰ মান ২৫%।"
     }
   },
   {
@@ -2690,8 +2690,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "R = 25.0%.",
-      "as": "হাৰ = ২৫.০%।"
+      "en": "Rate per cent per annum = (interest × 100) ÷ (principal × time), which works out to 25%.",
+      "as": "বছৰেকীয়া হাৰ = (সুত × ১০০) ÷ (মূলধন × সময়), যাৰ মান ২৫%।"
     }
   },
   {
@@ -2721,8 +2721,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "R = 25.0%.",
-      "as": "হাৰ = ২৫.০%।"
+      "en": "Rate per cent per annum = (interest × 100) ÷ (principal × time), which works out to 25%.",
+      "as": "বছৰেকীয়া হাৰ = (সুত × ১০০) ÷ (মূলধন × সময়), যাৰ মান ২৫%।"
     }
   },
   {
@@ -2845,8 +2845,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "SI = 18360.0.",
-      "as": "সৰল সুত = ১৮৩৬০.০।"
+      "en": "Simple interest uses SI = (P × R × T)/100. Putting the principal, rate and time from the question into that formula gives SI = 18,360.",
+      "as": "সৰল সুতৰ সূত্ৰ SI = (P × R × T)/100। প্ৰশ্নৰ মূলধন, হাৰ আৰু সময় সূত্ৰত বহুৱালে SI = ১৮,৩৬০ পোৱা যায়।"
     }
   },
   {
@@ -2876,8 +2876,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "SI = 15120.0.",
-      "as": "সৰল সুত = ১৫১২০.০।"
+      "en": "Simple interest uses SI = (P × R × T)/100. Putting the principal, rate and time from the question into that formula gives SI = 15,120.",
+      "as": "সৰল সুতৰ সূত্ৰ SI = (P × R × T)/100। প্ৰশ্নৰ মূলধন, হাৰ আৰু সময় সূত্ৰত বহুৱালে SI = ১৫,১২০ পোৱা যায়।"
     }
   },
   {
@@ -2907,8 +2907,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "SI = 24480.0.",
-      "as": "সৰল সুত = ২৪৪৮০.০।"
+      "en": "Simple interest uses SI = (P × R × T)/100. Putting the principal, rate and time from the question into that formula gives SI = 24,480.",
+      "as": "সৰল সুতৰ সূত্ৰ SI = (P × R × T)/100। প্ৰশ্নৰ মূলধন, হাৰ আৰু সময় সূত্ৰত বহুৱালে SI = ২৪,৪৮০ পোৱা যায়।"
     }
   },
   {
@@ -3031,8 +3031,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "P = 14745.76.",
-      "as": "মূলধন = ১৪৭৪৫.৭৬।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the principal: it works out to 14,745.76.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মূলধন উলিয়ালে ১৪,৭৪৫.৭৬ পোৱা যায়।"
     }
   },
   {
@@ -3062,8 +3062,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "P = 20000.0.",
-      "as": "মূলধন = ২০০০০.০।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the principal: it works out to 20,000.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মূলধন উলিয়ালে ২০,০০০ পোৱা যায়।"
     }
   },
   {
@@ -3093,8 +3093,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "P = 30461.54.",
-      "as": "মূলধন = ৩০৪৬১.৫৪।"
+      "en": "Use the compound interest relation A = P(1 + R/100)^n and solve for the principal: it works out to 30,461.54.",
+      "as": "চক্ৰবৃদ্ধি সুতৰ সম্পৰ্ক A = P(1 + R/100)^n ব্যৱহাৰ কৰি মূলধন উলিয়ালে ৩০,৪৬১.৫৪ পোৱা যায়।"
     }
   }
 ]

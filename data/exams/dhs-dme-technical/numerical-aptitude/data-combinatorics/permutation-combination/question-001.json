@@ -86,8 +86,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "7P3 = 7!/(7-3)! = 210.",
-      "as": "৭P৩ = ২১০।"
+      "en": "7P3 counts arrangements where order matters: 7!/(7−3)! = 7 × 6 × 5 = 210.",
+      "as": "৭P৩ ত ক্ৰম গুৰুত্বপূৰ্ণ: ৭!/(৭−৩)! = ৭ × ৬ × ৫ = ২১০।"
     }
   },
   {
@@ -117,8 +117,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "8P2 = 8!/(8-2)! = 56.",
-      "as": "৮P২ = ৫৬।"
+      "en": "8P2 counts arrangements where order matters: 8!/(8−2)! = 8 × 7 = 56.",
+      "as": "৮P২ ত ক্ৰম গুৰুত্বপূৰ্ণ: ৮!/(৮−২)! = ৮ × ৭ = ৫৬।"
     }
   },
   {
@@ -148,8 +148,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "9P4 = 9!/(9-4)! = 3024.",
-      "as": "৯P৪ = ৩০২৪।"
+      "en": "9P4 counts arrangements where order matters: 9!/(9−4)! = 9 × 8 × 7 × 6 = 3,024.",
+      "as": "৯P৪ ত ক্ৰম গুৰুত্বপূৰ্ণ: ৯!/(৯−৪)! = ৯ × ৮ × ৭ × ৬ = ৩,০২৪।"
     }
   },
   {
@@ -179,8 +179,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "6P3 = 6!/(6-3)! = 120.",
-      "as": "৬P৩ = ১২০।"
+      "en": "6P3 counts arrangements where order matters: 6!/(6−3)! = 6 × 5 × 4 = 120.",
+      "as": "৬P৩ ত ক্ৰম গুৰুত্বপূৰ্ণ: ৬!/(৬−৩)! = ৬ × ৫ × ৪ = ১২০।"
     }
   },
   {
@@ -210,8 +210,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "10P2 = 10!/(10-2)! = 90.",
-      "as": "১০P২ = ৯০।"
+      "en": "10P2 counts arrangements where order matters: 10!/(10−2)! = 10 × 9 = 90.",
+      "as": "১০P২ ত ক্ৰম গুৰুত্বপূৰ্ণ: ১০!/(১০−২)! = ১০ × ৯ = ৯০।"
     }
   },
   {
@@ -241,8 +241,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "10C3 = 10!/(3!(10-3)!) = 120.",
-      "as": "১০C৩ = ১২০।"
+      "en": "10C3 counts selections where order does not matter: 10!/(3!×7!) = 120.",
+      "as": "১০C৩ ত ক্ৰম গুৰুত্বপূৰ্ণ নহয়: ১০!/(৩!×৭!) = ১২০।"
     }
   },
   {
@@ -272,8 +272,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "12C4 = 12!/(4!(12-4)!) = 495.",
-      "as": "১২C৪ = ৪৯৫।"
+      "en": "12C4 counts selections where order does not matter: 12!/(4!×8!) = 495.",
+      "as": "১২C৪ ত ক্ৰম গুৰুত্বপূৰ্ণ নহয়: ১২!/(৪!×৮!) = ৪৯৫।"
     }
   },
   {
@@ -303,8 +303,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "9C2 = 9!/(2!(9-2)!) = 36.",
-      "as": "৯C২ = ৩৬।"
+      "en": "9C2 counts selections where order does not matter: 9!/(2!×7!) = 36.",
+      "as": "৯C২ ত ক্ৰম গুৰুত্বপূৰ্ণ নহয়: ৯!/(২!×৭!) = ৩৬।"
     }
   },
   {
@@ -334,8 +334,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "15C3 = 15!/(3!(15-3)!) = 455.",
-      "as": "১৫C৩ = ৪৫৫।"
+      "en": "15C3 counts selections where order does not matter: 15!/(3!×12!) = 455.",
+      "as": "১৫C৩ ত ক্ৰম গুৰুত্বপূৰ্ণ নহয়: ১৫!/(৩!×১২!) = ৪৫৫।"
     }
   },
   {
@@ -365,8 +365,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "8C5 = 8!/(5!(8-5)!) = 56.",
-      "as": "৮C৫ = ৫৬।"
+      "en": "8C5 counts selections where order does not matter: 8!/(5!×3!) = 56.",
+      "as": "৮C৫ ত ক্ৰম গুৰুত্বপূৰ্ণ নহয়: ৮!/(৫!×৩!) = ৫৬।"
     }
   },
   {
@@ -830,8 +830,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Handshakes = 10C2 = 10(10-1)/2 = 45.",
-      "as": "হাত মিলোৱা = ১০C২ = ৪৫।"
+      "en": "Each pair of the 10 people shakes hands once, so count the pairs: 10C2 = 10×9/2 = 45.",
+      "as": "১০ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ১০C2 = ১০×৯/2 = ৪৫।"
     }
   },
   {
@@ -861,8 +861,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Handshakes = 12C2 = 12(12-1)/2 = 66.",
-      "as": "হাত মিলোৱা = ১২C২ = ৬৬।"
+      "en": "Each pair of the 12 people shakes hands once, so count the pairs: 12C2 = 12×11/2 = 66.",
+      "as": "১২ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ১২C2 = ১২×১১/2 = ৬৬।"
     }
   },
   {
@@ -892,8 +892,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Handshakes = 15C2 = 15(15-1)/2 = 105.",
-      "as": "হাত মিলোৱা = ১৫C২ = ১০৫।"
+      "en": "Each pair of the 15 people shakes hands once, so count the pairs: 15C2 = 15×14/2 = 105.",
+      "as": "১৫ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ১৫C2 = ১৫×১৪/2 = ১০৫।"
     }
   },
   {
@@ -923,8 +923,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Handshakes = 20C2 = 20(20-1)/2 = 190.",
-      "as": "হাত মিলোৱা = ২০C২ = ১৯০।"
+      "en": "Each pair of the 20 people shakes hands once, so count the pairs: 20C2 = 20×19/2 = 190.",
+      "as": "২০ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ২০C2 = ২০×১৯/2 = ১৯০।"
     }
   },
   {
@@ -954,8 +954,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Handshakes = 8C2 = 8(8-1)/2 = 28.",
-      "as": "হাত মিলোৱা = ৮C২ = ২৮।"
+      "en": "Each pair of the 8 people shakes hands once, so count the pairs: 8C2 = 8×7/2 = 28.",
+      "as": "৮ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ৮C2 = ৮×৭/2 = ২৮।"
     }
   },
   {
@@ -1636,8 +1636,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "6P2 = 30.",
-      "as": "৬P২ = ৩০।"
+      "en": "Arranging 2 out of 6 respects order, so use 6P2 = 6!/(6−2)! = 6 × 5 = 30.",
+      "as": "৬ ৰপৰা ২ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৬P২ = ৬!/(৬−২)! = ৬ × ৫ = ৩০।"
     }
   },
   {
@@ -1667,8 +1667,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "7P4 = 840.",
-      "as": "৭P৪ = ৮৪০।"
+      "en": "Arranging 4 out of 7 respects order, so use 7P4 = 7!/(7−4)! = 7 × 6 × 5 × 4 = 840.",
+      "as": "৭ ৰপৰা ৪ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৭P৪ = ৭!/(৭−৪)! = ৭ × ৬ × ৫ × ৪ = ৮৪০।"
     }
   },
   {
@@ -1698,8 +1698,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "8P3 = 336.",
-      "as": "৮P৩ = ৩৩৬।"
+      "en": "Arranging 3 out of 8 respects order, so use 8P3 = 8!/(8−3)! = 8 × 7 × 6 = 336.",
+      "as": "৮ ৰপৰা ৩ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৮P৩ = ৮!/(৮−৩)! = ৮ × ৭ × ৬ = ৩৩৬।"
     }
   },
   {
@@ -1729,8 +1729,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "9P3 = 504.",
-      "as": "৯P৩ = ৫০৪।"
+      "en": "Arranging 3 out of 9 respects order, so use 9P3 = 9!/(9−3)! = 9 × 8 × 7 = 504.",
+      "as": "৯ ৰপৰা ৩ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৯P৩ = ৯!/(৯−৩)! = ৯ × ৮ × ৭ = ৫০৪।"
     }
   },
   {
@@ -1760,8 +1760,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "11C2 = 55.",
-      "as": "১১C২ = ৫৫।"
+      "en": "Choosing 2 from 11 ignores order, so use 11C2 = 11!/(2!×9!) = (11 × 10)/(2 × 1) = 55.",
+      "as": "১১ ৰপৰা ২ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১১C২ = ১১!/(২!×৯!) = ৫৫।"
     }
   },
   {
@@ -1791,8 +1791,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "13C3 = 286.",
-      "as": "১৩C৩ = ২৮৬।"
+      "en": "Choosing 3 from 13 ignores order, so use 13C3 = 13!/(3!×10!) = (13 × 12 × 11)/(3 × 2 × 1) = 286.",
+      "as": "১৩ ৰপৰা ৩ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১৩C৩ = ১৩!/(৩!×১০!) = ২৮৬।"
     }
   },
   {
@@ -1822,8 +1822,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "7C3 = 35.",
-      "as": "৭C৩ = ৩৫।"
+      "en": "Choosing 3 from 7 ignores order, so use 7C3 = 7!/(3!×4!) = (7 × 6 × 5)/(3 × 2 × 1) = 35.",
+      "as": "৭ ৰপৰা ৩ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ৭C৩ = ৭!/(৩!×৪!) = ৩৫।"
     }
   },
   {
@@ -1853,8 +1853,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "10C4 = 210.",
-      "as": "১০C৪ = ২১০।"
+      "en": "Choosing 4 from 10 ignores order, so use 10C4 = 10!/(4!×6!) = (10 × 9 × 8 × 7)/(4 × 3 × 2 × 1) = 210.",
+      "as": "১০ ৰপৰা ৪ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১০C৪ = ১০!/(৪!×৬!) = ২১০।"
     }
   },
   {
@@ -1884,8 +1884,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "6C2 = 15.",
-      "as": "৬C২ = ১৫।"
+      "en": "Choosing 2 from 6 ignores order, so use 6C2 = 6!/(2!×4!) = (6 × 5)/(2 × 1) = 15.",
+      "as": "৬ ৰপৰা ২ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ৬C২ = ৬!/(২!×৪!) = ১৫।"
     }
   },
   {
@@ -2039,8 +2039,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "14C2 = 91.",
-      "as": "১৪C২ = ৯১।"
+      "en": "Choosing 2 from 14 ignores order, so use 14C2 = 14!/(2!×12!) = (14 × 13)/(2 × 1) = 91.",
+      "as": "১৪ ৰপৰা ২ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১৪C২ = ১৪!/(২!×১২!) = ৯১।"
     }
   },
   {
@@ -2070,8 +2070,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "20C3 = 1140.",
-      "as": "২০C৩ = ১১৪০।"
+      "en": "Choosing 3 from 20 ignores order, so use 20C3 = 20!/(3!×17!) = (20 × 19 × 18)/(3 × 2 × 1) = 1,140.",
+      "as": "২০ ৰপৰা ৩ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ২০C৩ = ২০!/(৩!×১৭!) = ১,১৪০।"
     }
   },
   {
@@ -2101,8 +2101,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "11C4 = 330.",
-      "as": "১১C৪ = ৩৩০।"
+      "en": "Choosing 4 from 11 ignores order, so use 11C4 = 11!/(4!×7!) = (11 × 10 × 9 × 8)/(4 × 3 × 2 × 1) = 330.",
+      "as": "১১ ৰপৰা ৪ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১১C৪ = ১১!/(৪!×৭!) = ৩৩০।"
     }
   },
   {
@@ -2225,8 +2225,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Handshakes = 6C2 = 15.",
-      "as": "হাত মিলোৱা = ১৫।"
+      "en": "Each pair of the 6 people shakes hands once, so count the pairs: 6C2 = 6×5/2 = 15.",
+      "as": "৬ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ৬C2 = ৬×৫/2 = ১৫।"
     }
   },
   {
@@ -2256,8 +2256,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Handshakes = 9C2 = 36.",
-      "as": "হাত মিলোৱা = ৩৬।"
+      "en": "Each pair of the 9 people shakes hands once, so count the pairs: 9C2 = 9×8/2 = 36.",
+      "as": "৯ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ৯C2 = ৯×৮/2 = ৩৬।"
     }
   },
   {
@@ -2287,8 +2287,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Handshakes = 11C2 = 55.",
-      "as": "হাত মিলোৱা = ৫৫।"
+      "en": "Each pair of the 11 people shakes hands once, so count the pairs: 11C2 = 11×10/2 = 55.",
+      "as": "১১ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ১১C2 = ১১×১০/2 = ৫৫।"
     }
   },
   {
@@ -2318,8 +2318,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Handshakes = 25C2 = 300.",
-      "as": "হাত মিলোৱা = ৩০০।"
+      "en": "Each pair of the 25 people shakes hands once, so count the pairs: 25C2 = 25×24/2 = 300.",
+      "as": "২৫ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ২৫C2 = ২৫×২৪/2 = ৩০০।"
     }
   },
   {
@@ -2349,8 +2349,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "8P2 = 56.",
-      "as": "৫৬ টা।"
+      "en": "Arranging 2 out of 8 respects order, so use 8P2 = 8!/(8−2)! = 8 × 7 = 56.",
+      "as": "৮ ৰপৰা ২ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৮P২ = ৮!/(৮−২)! = ৮ × ৭ = ৫৬।"
     }
   },
   {
@@ -2380,8 +2380,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Diagonals = 14.",
-      "as": "কৰ্ণ = ১৪।"
+      "en": "A polygon with 7 sides has n(n−3)/2 diagonals = 7(7−3)/2 = 7×4/2 = 14.",
+      "as": "৭ বাহুযুক্ত বহুভুজৰ কৰ্ণৰ সংখ্যা n(n−3)/2 = ৭(৭−3)/2 = ১৪।"
     }
   },
   {
@@ -2411,8 +2411,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Diagonals = 27.",
-      "as": "কৰ্ণ = ২৭।"
+      "en": "A polygon with 9 sides has n(n−3)/2 diagonals = 9(9−3)/2 = 9×6/2 = 27.",
+      "as": "৯ বাহুযুক্ত বহুভুজৰ কৰ্ণৰ সংখ্যা n(n−3)/2 = ৯(৯−3)/2 = ২৭।"
     }
   },
   {
@@ -2442,8 +2442,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Diagonals = 44.",
-      "as": "কৰ্ণ = ৪৪।"
+      "en": "A polygon with 11 sides has n(n−3)/2 diagonals = 11(11−3)/2 = 11×8/2 = 44.",
+      "as": "১১ বাহুযুক্ত বহুভুজৰ কৰ্ণৰ সংখ্যা n(n−3)/2 = ১১(১১−3)/2 = ৪৪।"
     }
   },
   {
@@ -2473,8 +2473,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "3^2 = 9.",
-      "as": "৯ ধৰণ।"
+      "en": "Each of the 2 distinct balls has 3 boxes to choose from, so the choices multiply: 3^2 = 9.",
+      "as": "২ টা সুকীয়া বলৰ প্ৰতিটোৰে ৩ টা বাকচ বাছনি কৰিব পাৰি, সেয়ে গুণ কৰা: ৩^২ = ৯।"
     }
   },
   {
@@ -2504,8 +2504,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "3^3 = 27.",
-      "as": "২৭ ধৰণ।"
+      "en": "Each of the 3 distinct balls has 3 boxes to choose from, so the choices multiply: 3^3 = 27.",
+      "as": "৩ টা সুকীয়া বলৰ প্ৰতিটোৰে ৩ টা বাকচ বাছনি কৰিব পাৰি, সেয়ে গুণ কৰা: ৩^৩ = ২৭।"
     }
   },
   {
@@ -2535,8 +2535,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "4C1 × 5C2 = 40.",
-      "as": "৪০ ধৰণ।"
+      "en": "Choose the required number from each group and multiply: 4C1 × 5C2 = 4 × 10 = 40.",
+      "as": "প্ৰতিটো গোটৰপৰা প্ৰয়োজনীয় সংখ্যা বাছি গুণ কৰা: ৪C১ × ৫C২ = ৪ × ১০ = ৪০।"
     }
   },
   {
@@ -2566,8 +2566,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "5C1 × 5C1 = 25.",
-      "as": "২৫ ধৰণ।"
+      "en": "Choose the required number from each group and multiply: 5C1 × 5C1 = 5 × 5 = 25.",
+      "as": "প্ৰতিটো গোটৰপৰা প্ৰয়োজনীয় সংখ্যা বাছি গুণ কৰা: ৫C১ × ৫C১ = ৫ × ৫ = ২৫।"
     }
   },
   {
@@ -2597,8 +2597,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "10P3 = 720.",
-      "as": "১০P৩ = ৭২০।"
+      "en": "Arranging 3 out of 10 respects order, so use 10P3 = 10!/(10−3)! = 10 × 9 × 8 = 720.",
+      "as": "১০ ৰপৰা ৩ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ১০P৩ = ১০!/(১০−৩)! = ১০ × ৯ × ৮ = ৭২০।"
     }
   },
   {
@@ -2628,8 +2628,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "9P2 = 72.",
-      "as": "৯P২ = ৭২।"
+      "en": "Arranging 2 out of 9 respects order, so use 9P2 = 9!/(9−2)! = 9 × 8 = 72.",
+      "as": "৯ ৰপৰা ২ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৯P২ = ৯!/(৯−২)! = ৯ × ৮ = ৭২।"
     }
   },
   {
@@ -2659,8 +2659,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "11P3 = 990.",
-      "as": "১১P৩ = ৯৯০।"
+      "en": "Arranging 3 out of 11 respects order, so use 11P3 = 11!/(11−3)! = 11 × 10 × 9 = 990.",
+      "as": "১১ ৰপৰা ৩ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ১১P৩ = ১১!/(১১−৩)! = ১১ × ১০ × ৯ = ৯৯০।"
     }
   },
   {
@@ -2690,8 +2690,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "12C2 = 66.",
-      "as": "১২C২ = ৬৬।"
+      "en": "Choosing 2 from 12 ignores order, so use 12C2 = 12!/(2!×10!) = (12 × 11)/(2 × 1) = 66.",
+      "as": "১২ ৰপৰা ২ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১২C২ = ১২!/(২!×১০!) = ৬৬।"
     }
   },
   {
@@ -2721,8 +2721,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "14C3 = 364.",
-      "as": "১৪C৩ = ৩৬৪।"
+      "en": "Choosing 3 from 14 ignores order, so use 14C3 = 14!/(3!×11!) = (14 × 13 × 12)/(3 × 2 × 1) = 364.",
+      "as": "১৪ ৰপৰা ৩ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১৪C৩ = ১৪!/(৩!×১১!) = ৩৬৪।"
     }
   },
   {
@@ -2752,8 +2752,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "9C4 = 126.",
-      "as": "৯C৪ = ১২৬।"
+      "en": "Choosing 4 from 9 ignores order, so use 9C4 = 9!/(4!×5!) = (9 × 8 × 7 × 6)/(4 × 3 × 2 × 1) = 126.",
+      "as": "৯ ৰপৰা ৪ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ৯C৪ = ৯!/(৪!×৫!) = ১২৬।"
     }
   },
   {
@@ -2783,8 +2783,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Arrangements = 50400.",
-      "as": "বিন্যাস = ৫০৪০০।"
+      "en": "The word STATISTICS has 10 letters with repeats S × 3, T × 3, I × 2, so the number of distinct arrangements is 10!/(3! × 3! × 2!) = 50,400.",
+      "as": "STATISTICS শব্দটোত ১০ টা আখৰ, পুনৰাবৃত্তি S × ৩, T × ৩, I × ২; সেয়ে সুকীয়া বিন্যাস ৫০,৪০০ টা।"
     }
   },
   {
@@ -2814,8 +2814,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Arrangements = 420.",
-      "as": "বিন্যাস = ৪২০।"
+      "en": "The word SUCCESS has 7 letters with repeats S × 3, C × 2, so the number of distinct arrangements is 7!/(3! × 2!) = 420.",
+      "as": "SUCCESS শব্দটোত ৭ টা আখৰ, পুনৰাবৃত্তি S × ৩, C × ২; সেয়ে সুকীয়া বিন্যাস ৪২০ টা।"
     }
   },
   {
@@ -2845,8 +2845,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "16C3 = 560.",
-      "as": "১৬C৩ = ৫৬০।"
+      "en": "Choosing 3 from 16 ignores order, so use 16C3 = 16!/(3!×13!) = (16 × 15 × 14)/(3 × 2 × 1) = 560.",
+      "as": "১৬ ৰপৰা ৩ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১৬C৩ = ১৬!/(৩!×১৩!) = ৫৬০।"
     }
   },
   {
@@ -2876,8 +2876,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "13C4 = 715.",
-      "as": "১৩C৪ = ৭১৫।"
+      "en": "Choosing 4 from 13 ignores order, so use 13C4 = 13!/(4!×9!) = (13 × 12 × 11 × 10)/(4 × 3 × 2 × 1) = 715.",
+      "as": "১৩ ৰপৰা ৪ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১৩C৪ = ১৩!/(৪!×৯!) = ৭১৫।"
     }
   },
   {
@@ -2907,8 +2907,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "(n-1)! = 3628800.",
-      "as": "(n-1)! = ৩৬২৮৮০০।"
+      "en": "Fix one person to break the circle, then arrange the remaining 10: (11−1)! = 3,628,800 ways.",
+      "as": "এজনক স্থিৰ কৰি বৃত্তটো ভাঙা, তাৰপিছত বাকী ১০ জন সজোৱা: (১১−১)! = ৩,৬২৮,৮০০ ধৰণ।"
     }
   },
   {
@@ -2938,8 +2938,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Diagonals = 170.",
-      "as": "কৰ্ণ = ১৭০।"
+      "en": "A polygon with 20 sides has n(n−3)/2 diagonals = 20(20−3)/2 = 20×17/2 = 170.",
+      "as": "২০ বাহুযুক্ত বহুভুজৰ কৰ্ণৰ সংখ্যা n(n−3)/2 = ২০(২০−3)/2 = ১৭০।"
     }
   }
 ]

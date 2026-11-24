@@ -179,8 +179,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Ratio = 200 : 300.",
-      "as": "অনুপাত = ২০০:৩০০।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 100: 200 : 300 = 2 : 3.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১০০ কটা: ২০০ : ৩০০ = ২ : ৩।"
     }
   },
   {
@@ -210,8 +210,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Difference = 400 - 200 = 200.",
-      "as": "পাৰ্থক্য = ২০০।"
+      "en": "Subtract the smaller from the larger: 400 − 200 = 200.",
+      "as": "ডাঙৰৰপৰা সৰুটো বাদ দিয়া: ৪০০ − ২০০ = ২০০।"
     }
   },
   {
@@ -365,8 +365,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Ratio = 400 : 500.",
-      "as": "অনুপাত = ৪০০:৫০০।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 100: 400 : 500 = 4 : 5.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১০০ কটা: ৪০০ : ৫০০ = ৪ : ৫।"
     }
   },
   {
@@ -396,8 +396,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Difference = 600 - 400 = 200.",
-      "as": "পাৰ্থক্য = ২০০।"
+      "en": "Subtract the smaller from the larger: 600 − 400 = 200.",
+      "as": "ডাঙৰৰপৰা সৰুটো বাদ দিয়া: ৬০০ − ৪০০ = ২০০।"
     }
   },
   {
@@ -551,8 +551,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Ratio = 120 : 180.",
-      "as": "অনুপাত = ১২০:১৮০।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 60: 120 : 180 = 2 : 3.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ৬০ কটা: ১২০ : ১৮০ = ২ : ৩।"
     }
   },
   {
@@ -582,8 +582,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Difference = 240 - 120 = 120.",
-      "as": "পাৰ্থক্য = ১২০।"
+      "en": "Subtract the smaller from the larger: 240 − 120 = 120.",
+      "as": "ডাঙৰৰপৰা সৰুটো বাদ দিয়া: ২৪০ − ১২০ = ১২০।"
     }
   },
   {
@@ -737,8 +737,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Ratio = 80 : 120.",
-      "as": "অনুপাত = ৮০:১২০।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 40: 80 : 120 = 2 : 3.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ৪০ কটা: ৮০ : ১২০ = ২ : ৩।"
     }
   },
   {
@@ -768,8 +768,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Difference = 120 - 80 = 40.",
-      "as": "পাৰ্থক্য = ৪০।"
+      "en": "Subtract the smaller from the larger: 120 − 80 = 40.",
+      "as": "ডাঙৰৰপৰা সৰুটো বাদ দিয়া: ১২০ − ৮০ = ৪০।"
     }
   },
   {
@@ -923,8 +923,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Ratio = 300 : 420.",
-      "as": "অনুপাত = ৩০০:৪২০।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 60: 300 : 420 = 5 : 7.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ৬০ কটা: ৩০০ : ৪২০ = ৫ : ৭।"
     }
   },
   {
@@ -954,8 +954,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Difference = 540 - 300 = 240.",
-      "as": "পাৰ্থক্য = ২৪০।"
+      "en": "Subtract the smaller from the larger: 540 − 300 = 240.",
+      "as": "ডাঙৰৰপৰা সৰুটো বাদ দিয়া: ৫৪০ − ৩০০ = ২৪০।"
     }
   },
   {
@@ -1636,8 +1636,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Average = 750/3 = 250.0.",
-      "as": "গড় = ২৫০.০।"
+      "en": "The values add up to 750 and there are 3 of them, so the average is 750 ÷ 3 = 250.",
+      "as": "মানবোৰৰ যোগফল ৭৫০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ৭৫০ ÷ ৩ = ২৫০।"
     }
   },
   {
@@ -1698,8 +1698,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Average = 1350/3 = 450.0.",
-      "as": "গড় = ৪৫০.০।"
+      "en": "The values add up to 1,350 and there are 3 of them, so the average is 1,350 ÷ 3 = 450.",
+      "as": "মানবোৰৰ যোগফল ১,৩৫০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ১,৩৫০ ÷ ৩ = ৪৫০।"
     }
   },
   {
@@ -1760,8 +1760,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Average = 450/3 = 150.0.",
-      "as": "গড় = ১৫০.০।"
+      "en": "The values add up to 450 and there are 3 of them, so the average is 450 ÷ 3 = 150.",
+      "as": "মানবোৰৰ যোগফল ৪৫০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ৪৫০ ÷ ৩ = ১৫০।"
     }
   },
   {
@@ -2070,8 +2070,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Total = 260.",
-      "as": "মুঠ = ২৬০।"
+      "en": "Add the given parts and the total comes to 260.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ২৬০ হয়।"
     }
   },
   {
@@ -2101,8 +2101,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Average = 260/4 = 65.0.",
-      "as": "গড় = ৬৫.০।"
+      "en": "The values add up to 260 and there are 4 of them, so the average is 260 ÷ 4 = 65.",
+      "as": "মানবোৰৰ যোগফল ২৬০ আৰু সংখ্যা ৪ টা, সেয়ে গড় = ২৬০ ÷ ৪ = ৬৫।"
     }
   },
   {
@@ -2132,8 +2132,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Total = 540.",
-      "as": "মুঠ = ৫৪০।"
+      "en": "Add the given parts and the total comes to 540.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ৫৪০ হয়।"
     }
   },
   {
@@ -2163,8 +2163,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Average = 540/4 = 135.0.",
-      "as": "গড় = ১৩৫.০।"
+      "en": "The values add up to 540 and there are 4 of them, so the average is 540 ÷ 4 = 135.",
+      "as": "মানবোৰৰ যোগফল ৫৪০ আৰু সংখ্যা ৪ টা, সেয়ে গড় = ৫৪০ ÷ ৪ = ১৩৫।"
     }
   },
   {
@@ -2287,8 +2287,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Total = 1250.",
-      "as": "মুঠ = ১২৫০।"
+      "en": "Add the given parts and the total comes to 1,250.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ১,২৫০ হয়।"
     }
   },
   {
@@ -2318,8 +2318,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Average = 1250/5 = 250.0.",
-      "as": "গড় = ২৫০.০।"
+      "en": "The values add up to 1,250 and there are 5 of them, so the average is 1,250 ÷ 5 = 250.",
+      "as": "মানবোৰৰ যোগফল ১,২৫০ আৰু সংখ্যা ৫ টা, সেয়ে গড় = ১,২৫০ ÷ ৫ = ২৫০।"
     }
   },
   {
@@ -2380,8 +2380,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Total = 450.",
-      "as": "মুঠ = ৪৫০।"
+      "en": "Add the given parts and the total comes to 450.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ৪৫০ হয়।"
     }
   },
   {
@@ -2411,8 +2411,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Average = 450/5 = 90.0.",
-      "as": "গড় = ৯০.০।"
+      "en": "The values add up to 450 and there are 5 of them, so the average is 450 ÷ 5 = 90.",
+      "as": "মানবোৰৰ যোগফল ৪৫০ আৰু সংখ্যা ৫ টা, সেয়ে গড় = ৪৫০ ÷ ৫ = ৯০।"
     }
   },
   {
@@ -2690,8 +2690,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Average = 360/3 = 120.0.",
-      "as": "গড় = ১২০.০।"
+      "en": "The values add up to 360 and there are 3 of them, so the average is 360 ÷ 3 = 120.",
+      "as": "মানবোৰৰ যোগফল ৩৬০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ৩৬০ ÷ ৩ = ১২০।"
     }
   },
   {
@@ -2814,8 +2814,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Total = 900.",
-      "as": "মুঠ = ৯০০।"
+      "en": "Add the given parts and the total comes to 900.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ৯০০ হয়।"
     }
   },
   {
@@ -2845,8 +2845,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Average = 900/3 = 300.0.",
-      "as": "গড় = ৩০০.০।"
+      "en": "The values add up to 900 and there are 3 of them, so the average is 900 ÷ 3 = 300.",
+      "as": "মানবোৰৰ যোগফল ৯০০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ৯০০ ÷ ৩ = ৩০০।"
     }
   },
   {
@@ -2876,8 +2876,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Total = 270.",
-      "as": "মুঠ = ২৭০।"
+      "en": "Add the given parts and the total comes to 270.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ২৭০ হয়।"
     }
   },
   {
@@ -2907,8 +2907,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Average = 270/3 = 90.0.",
-      "as": "গড় = ৯০.০।"
+      "en": "The values add up to 270 and there are 3 of them, so the average is 270 ÷ 3 = 90.",
+      "as": "মানবোৰৰ যোগফল ২৭০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ২৭০ ÷ ৩ = ৯০।"
     }
   }
 ]

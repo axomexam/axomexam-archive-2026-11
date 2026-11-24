@@ -1419,8 +1419,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 50/5 = 10.0.",
-      "as": "গড় = ১০.০।"
+      "en": "The values add up to 50 and there are 5 of them, so the mean is 50 ÷ 5 = 10.",
+      "as": "মানবোৰৰ যোগফল ৫০ আৰু সংখ্যা ৫ টা, সেয়ে মাধ্য = ৫০ ÷ ৫ = ১০।"
     }
   },
   {
@@ -1450,8 +1450,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mean = 54/4 = 13.5.",
-      "as": "গড় = ১৩.৫।"
+      "en": "The values add up to 54 and there are 4 of them, so the mean is 54 ÷ 4 = 13.5.",
+      "as": "মানবোৰৰ যোগফল ৫৪ আৰু সংখ্যা ৪ টা, সেয়ে মাধ্য = ৫৪ ÷ ৪ = ১৩.৫।"
     }
   },
   {
@@ -1481,8 +1481,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mean = 75/5 = 15.0.",
-      "as": "গড় = ১৫.০।"
+      "en": "The values add up to 75 and there are 5 of them, so the mean is 75 ÷ 5 = 15.",
+      "as": "মানবোৰৰ যোগফল ৭৫ আৰু সংখ্যা ৫ টা, সেয়ে মাধ্য = ৭৫ ÷ ৫ = ১৫।"
     }
   },
   {
@@ -1512,8 +1512,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Median = 12.",
-      "as": "মধ্যমা = ১২।"
+      "en": "Arrange the data in order and take the middle value: it is 12, so the median is 12.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ১২, সেয়ে মধ্যমা ১২।"
     }
   },
   {
@@ -1543,8 +1543,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Median = 25.0.",
-      "as": "মধ্যমা = ২৫.০।"
+      "en": "Arrange the data in order and take the middle value: it is 25, so the median is 25.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ২৫, সেয়ে মধ্যমা ২৫।"
     }
   },
   {
@@ -1574,8 +1574,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Median = 17.0.",
-      "as": "মধ্যমা = ১৭.০।"
+      "en": "Arrange the data in order and take the middle value: it is 17, so the median is 17.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ১৭, সেয়ে মধ্যমা ১৭।"
     }
   },
   {
@@ -1605,8 +1605,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mode = 5.",
-      "as": "বহুলক = ৫।"
+      "en": "5 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ৫ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -1636,8 +1636,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mode = 2.",
-      "as": "বহুলক = ২।"
+      "en": "2 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ২ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -1667,8 +1667,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mode = 10.",
-      "as": "বহুলক = ১০।"
+      "en": "10 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ১০ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -1698,8 +1698,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Range = 30 - 4 = 26.",
-      "as": "পৰিসৰ = ২৬।"
+      "en": "Range = highest − lowest = 30 − 4 = 26.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ৩০ − ৪ = ২৬।"
     }
   },
   {
@@ -1729,8 +1729,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Range = 70 - 12 = 58.",
-      "as": "পৰিসৰ = ৫৮।"
+      "en": "Range = highest − lowest = 70 − 12 = 58.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ৭০ − ১২ = ৫৮।"
     }
   },
   {
@@ -1760,8 +1760,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Range = 19 - 2 = 17.",
-      "as": "পৰিসৰ = ১৭।"
+      "en": "Range = highest − lowest = 19 − 2 = 17.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ১৯ − ২ = ১৭।"
     }
   },
   {
@@ -1791,8 +1791,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 300/10 = 30.0.",
-      "as": "গড় = ৩০.০।"
+      "en": "The values add up to 300 and there are 10 of them, so the mean is 300 ÷ 10 = 30.",
+      "as": "মানবোৰৰ যোগফল ৩০০ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ৩০০ ÷ ১০ = ৩০।"
     }
   },
   {
@@ -1822,8 +1822,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mean = 360/10 = 36.0.",
-      "as": "গড় = ৩৬.০।"
+      "en": "The values add up to 360 and there are 10 of them, so the mean is 360 ÷ 10 = 36.",
+      "as": "মানবোৰৰ যোগফল ৩৬০ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ৩৬০ ÷ ১০ = ৩৬।"
     }
   },
   {
@@ -1853,8 +1853,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mean = 24/10 = 2.4.",
-      "as": "গড় = ২.৪।"
+      "en": "The values add up to 24 and there are 10 of them, so the mean is 24 ÷ 10 = 2.4.",
+      "as": "মানবোৰৰ যোগফল ২৪ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ২৪ ÷ ১০ = ২.৪।"
     }
   },
   {
@@ -1884,8 +1884,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Combined mean = 51.0.",
-      "as": "যুটীয়া গড় = ৫১.০।"
+      "en": "Take the total of both groups and divide by the combined count: the combined mean is 51.",
+      "as": "দুয়োটা গোটৰ যোগফল লৈ মুঠ সংখ্যাৰে হৰণ কৰা: সংযুক্ত মাধ্য ৫১।"
     }
   },
   {
@@ -1915,8 +1915,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Combined mean = 58.33.",
-      "as": "যুটীয়া গড় = ৫৮.৩৩।"
+      "en": "Take the total of both groups and divide by the combined count: the combined mean is 58.33.",
+      "as": "দুয়োটা গোটৰ যোগফল লৈ মুঠ সংখ্যাৰে হৰণ কৰা: সংযুক্ত মাধ্য ৫৮.৩৩।"
     }
   },
   {
@@ -1946,8 +1946,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Combined mean = 69.0.",
-      "as": "যুটীয়া গড় = ৬৯.০।"
+      "en": "Take the total of both groups and divide by the combined count: the combined mean is 69.",
+      "as": "দুয়োটা গোটৰ যোগফল লৈ মুঠ সংখ্যাৰে হৰণ কৰা: সংযুক্ত মাধ্য ৬৯।"
     }
   },
   {
@@ -2070,8 +2070,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "SD = 2.24.",
-      "as": "মানক বিচ্যুতি = ২.২৪।"
+      "en": "Mean = 6. Squared deviations: (3−6)² = 9, (5−6)² = 1, (7−6)² = 1, (9−6)² = 9. Variance = 5, so SD = √5 = 2.24.",
+      "as": "মাধ্য = ৬। বৰ্গ বিচ্যুতিৰ যোগফলৰপৰা ভেদাঙ্ক = ৫, সেয়ে মানক বিচ্যুতি = ২.২৪।"
     }
   },
   {
@@ -2101,8 +2101,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "SD = 2.24.",
-      "as": "মানক বিচ্যুতি = ২.২৪।"
+      "en": "Mean = 13. Squared deviations: (10−13)² = 9, (12−13)² = 1, (14−13)² = 1, (16−13)² = 9. Variance = 5, so SD = √5 = 2.24.",
+      "as": "মাধ্য = ১৩। বৰ্গ বিচ্যুতিৰ যোগফলৰপৰা ভেদাঙ্ক = ৫, সেয়ে মানক বিচ্যুতি = ২.২৪।"
     }
   },
   {
@@ -2132,8 +2132,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The mean increases by 8.",
-      "as": "গড় ৮ বৃদ্ধি পায়।"
+      "en": "Adding the same number to every observation moves the mean by exactly that amount, so the mean increases by 8.",
+      "as": "প্ৰতিটো মানত একেই সংখ্যা যোগ কৰিলে মাধ্যও সেই পৰিমাণেই বাঢ়ে, সেয়ে মাধ্য ৮ ৰে বাঢ়ে।"
     }
   },
   {
@@ -2163,8 +2163,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The mean increases by 15.",
-      "as": "গড় ১৫ বৃদ্ধি পায়।"
+      "en": "Adding the same number to every observation moves the mean by exactly that amount, so the mean increases by 15.",
+      "as": "প্ৰতিটো মানত একেই সংখ্যা যোগ কৰিলে মাধ্যও সেই পৰিমাণেই বাঢ়ে, সেয়ে মাধ্য ১৫ ৰে বাঢ়ে।"
     }
   },
   {
@@ -2194,8 +2194,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mode = 16.25.",
-      "as": "বহুলক = ১৬.২৫।"
+      "en": "16.25 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ১৬.২৫ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -2225,8 +2225,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mode = 44.29.",
-      "as": "বহুলক = ৪৪.২৯।"
+      "en": "44.29 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ৪৪.২৯ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -2256,8 +2256,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mean = 68/4 = 17.0.",
-      "as": "গড় = ১৭.০।"
+      "en": "The values add up to 68 and there are 4 of them, so the mean is 68 ÷ 4 = 17.",
+      "as": "মানবোৰৰ যোগফল ৬৮ আৰু সংখ্যা ৪ টা, সেয়ে মাধ্য = ৬৮ ÷ ৪ = ১৭।"
     }
   },
   {
@@ -2287,8 +2287,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mean = 105/3 = 35.0.",
-      "as": "গড় = ৩৫.০।"
+      "en": "The values add up to 105 and there are 3 of them, so the mean is 105 ÷ 3 = 35.",
+      "as": "মানবোৰৰ যোগফল ১০৫ আৰু সংখ্যা ৩ টা, সেয়ে মাধ্য = ১০৫ ÷ ৩ = ৩৫।"
     }
   },
   {
@@ -2318,8 +2318,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 80/5 = 16.0.",
-      "as": "গড় = ১৬.০।"
+      "en": "The values add up to 80 and there are 5 of them, so the mean is 80 ÷ 5 = 16.",
+      "as": "মানবোৰৰ যোগফল ৮০ আৰু সংখ্যা ৫ টা, সেয়ে মাধ্য = ৮০ ÷ ৫ = ১৬।"
     }
   },
   {
@@ -2349,8 +2349,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mean = 260/4 = 65.0.",
-      "as": "গড় = ৬৫.০।"
+      "en": "The values add up to 260 and there are 4 of them, so the mean is 260 ÷ 4 = 65.",
+      "as": "মানবোৰৰ যোগফল ২৬০ আৰু সংখ্যা ৪ টা, সেয়ে মাধ্য = ২৬০ ÷ ৪ = ৬৫।"
     }
   },
   {
@@ -2380,8 +2380,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Median = 6.",
-      "as": "মধ্যমা = ৬।"
+      "en": "Arrange the data in order and take the middle value: it is 6, so the median is 6.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ৬, সেয়ে মধ্যমা ৬।"
     }
   },
   {
@@ -2411,8 +2411,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Median = 19.5.",
-      "as": "মধ্যমা = ১৯.৫।"
+      "en": "Arrange the data in order and take the middle value: it is 19.5, so the median is 19.5.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ১৯.৫, সেয়ে মধ্যমা ১৯.৫।"
     }
   },
   {
@@ -2442,8 +2442,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Median = 20.0.",
-      "as": "মধ্যমা = ২০.০।"
+      "en": "Arrange the data in order and take the middle value: it is 20, so the median is 20.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ২০, সেয়ে মধ্যমা ২০।"
     }
   },
   {
@@ -2473,8 +2473,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Median = 27.",
-      "as": "মধ্যমা = ২৭।"
+      "en": "Arrange the data in order and take the middle value: it is 27, so the median is 27.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ২৭, সেয়ে মধ্যমা ২৭।"
     }
   },
   {
@@ -2504,8 +2504,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mode = 4.",
-      "as": "বহুলক = ৪।"
+      "en": "4 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ৪ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -2535,8 +2535,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mode = 1.",
-      "as": "বহুলক = ১।"
+      "en": "1 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ১ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -2566,8 +2566,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mode = 7.",
-      "as": "বহুলক = ৭।"
+      "en": "7 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ৭ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -2597,8 +2597,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Range = 100 - 23 = 77.",
-      "as": "পৰিসৰ = ৭৭।"
+      "en": "Range = highest − lowest = 100 − 23 = 77.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ১০০ − ২৩ = ৭৭।"
     }
   },
   {
@@ -2628,8 +2628,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Range = 88 - 12 = 76.",
-      "as": "পৰিসৰ = ৭৬।"
+      "en": "Range = highest − lowest = 88 − 12 = 76.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ৮৮ − ১২ = ৭৬।"
     }
   },
   {
@@ -2659,8 +2659,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Range = 52 - 7 = 45.",
-      "as": "পৰিসৰ = ৪৫।"
+      "en": "Range = highest − lowest = 52 − 7 = 45.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ৫২ − ৭ = ৪৫।"
     }
   },
   {
@@ -2690,8 +2690,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 160/10 = 16.0.",
-      "as": "গড় = ১৬.০।"
+      "en": "The values add up to 160 and there are 10 of them, so the mean is 160 ÷ 10 = 16.",
+      "as": "মানবোৰৰ যোগফল ১৬০ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ১৬০ ÷ ১০ = ১৬।"
     }
   },
   {
@@ -2721,8 +2721,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mean = 300/10 = 30.0.",
-      "as": "গড় = ৩০.০।"
+      "en": "The values add up to 300 and there are 10 of them, so the mean is 300 ÷ 10 = 30.",
+      "as": "মানবোৰৰ যোগফল ৩০০ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ৩০০ ÷ ১০ = ৩০।"
     }
   },
   {
@@ -2752,8 +2752,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mean = 52/10 = 5.2.",
-      "as": "গড় = ৫.২।"
+      "en": "The values add up to 52 and there are 10 of them, so the mean is 52 ÷ 10 = 5.2.",
+      "as": "মানবোৰৰ যোগফল ৫২ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ৫২ ÷ ১০ = ৫.২।"
     }
   },
   {
@@ -2783,8 +2783,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Combined mean = 51.0.",
-      "as": "যুটীয়া গড় = ৫১.০।"
+      "en": "Take the total of both groups and divide by the combined count: the combined mean is 51.",
+      "as": "দুয়োটা গোটৰ যোগফল লৈ মুঠ সংখ্যাৰে হৰণ কৰা: সংযুক্ত মাধ্য ৫১।"
     }
   },
   {
@@ -2814,8 +2814,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Combined mean = 65.0.",
-      "as": "যুটীয়া গড় = ৬৫.০।"
+      "en": "Take the total of both groups and divide by the combined count: the combined mean is 65.",
+      "as": "দুয়োটা গোটৰ যোগফল লৈ মুঠ সংখ্যাৰে হৰণ কৰা: সংযুক্ত মাধ্য ৬৫।"
     }
   },
   {

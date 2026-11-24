@@ -1599,8 +1599,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 50/5 = 10.0.",
-      "as": "গড় = ১০.০।"
+      "en": "The values add up to 50 and there are 5 of them, so the mean is 50 ÷ 5 = 10.",
+      "as": "মানবোৰৰ যোগফল ৫০ আৰু সংখ্যা ৫ টা, সেয়ে মাধ্য = ৫০ ÷ ৫ = ১০।"
     }
   },
   {
@@ -1630,8 +1630,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mean = 54/4 = 13.5.",
-      "as": "গড় = ১৩.৫।"
+      "en": "The values add up to 54 and there are 4 of them, so the mean is 54 ÷ 4 = 13.5.",
+      "as": "মানবোৰৰ যোগফল ৫৪ আৰু সংখ্যা ৪ টা, সেয়ে মাধ্য = ৫৪ ÷ ৪ = ১৩.৫।"
     }
   },
   {
@@ -1661,8 +1661,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mean = 75/5 = 15.0.",
-      "as": "গড় = ১৫.০।"
+      "en": "The values add up to 75 and there are 5 of them, so the mean is 75 ÷ 5 = 15.",
+      "as": "মানবোৰৰ যোগফল ৭৫ আৰু সংখ্যা ৫ টা, সেয়ে মাধ্য = ৭৫ ÷ ৫ = ১৫।"
     }
   },
   {
@@ -1692,8 +1692,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Median = 12.",
-      "as": "মধ্যমা = ১২।"
+      "en": "Arrange the data in order and take the middle value: it is 12, so the median is 12.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ১২, সেয়ে মধ্যমা ১২।"
     }
   },
   {
@@ -1723,8 +1723,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Median = 25.0.",
-      "as": "মধ্যমা = ২৫.০।"
+      "en": "Arrange the data in order and take the middle value: it is 25, so the median is 25.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ২৫, সেয়ে মধ্যমা ২৫।"
     }
   },
   {
@@ -1754,8 +1754,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Median = 17.0.",
-      "as": "মধ্যমা = ১৭.০।"
+      "en": "Arrange the data in order and take the middle value: it is 17, so the median is 17.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ১৭, সেয়ে মধ্যমা ১৭।"
     }
   },
   {
@@ -1785,8 +1785,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mode = 5.",
-      "as": "বহুলক = ৫।"
+      "en": "5 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ৫ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -1816,8 +1816,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mode = 2.",
-      "as": "বহুলক = ২।"
+      "en": "2 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ২ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -1847,8 +1847,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mode = 10.",
-      "as": "বহুলক = ১০।"
+      "en": "10 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ১০ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -1878,8 +1878,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Range = 30 - 4 = 26.",
-      "as": "পৰিসৰ = ২৬।"
+      "en": "Range = highest − lowest = 30 − 4 = 26.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ৩০ − ৪ = ২৬।"
     }
   },
   {
@@ -1909,8 +1909,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Range = 70 - 12 = 58.",
-      "as": "পৰিসৰ = ৫৮।"
+      "en": "Range = highest − lowest = 70 − 12 = 58.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ৭০ − ১২ = ৫৮।"
     }
   },
   {
@@ -1940,8 +1940,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Range = 19 - 2 = 17.",
-      "as": "পৰিসৰ = ১৭।"
+      "en": "Range = highest − lowest = 19 − 2 = 17.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ১৯ − ২ = ১৭।"
     }
   },
   {
@@ -1971,8 +1971,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 300/10 = 30.0.",
-      "as": "গড় = ৩০.০।"
+      "en": "The values add up to 300 and there are 10 of them, so the mean is 300 ÷ 10 = 30.",
+      "as": "মানবোৰৰ যোগফল ৩০০ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ৩০০ ÷ ১০ = ৩০।"
     }
   },
   {
@@ -2002,8 +2002,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mean = 360/10 = 36.0.",
-      "as": "গড় = ৩৬.০।"
+      "en": "The values add up to 360 and there are 10 of them, so the mean is 360 ÷ 10 = 36.",
+      "as": "মানবোৰৰ যোগফল ৩৬০ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ৩৬০ ÷ ১০ = ৩৬।"
     }
   },
   {
@@ -2033,8 +2033,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mean = 24/10 = 2.4.",
-      "as": "গড় = ২.৪।"
+      "en": "The values add up to 24 and there are 10 of them, so the mean is 24 ÷ 10 = 2.4.",
+      "as": "মানবোৰৰ যোগফল ২৪ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ২৪ ÷ ১০ = ২.৪।"
     }
   },
   {
@@ -2064,8 +2064,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Combined mean = 51.0.",
-      "as": "যুটীয়া গড় = ৫১.০।"
+      "en": "Take the total of both groups and divide by the combined count: the combined mean is 51.",
+      "as": "দুয়োটা গোটৰ যোগফল লৈ মুঠ সংখ্যাৰে হৰণ কৰা: সংযুক্ত মাধ্য ৫১।"
     }
   },
   {
@@ -2095,8 +2095,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Combined mean = 58.33.",
-      "as": "যুটীয়া গড় = ৫৮.৩৩।"
+      "en": "Take the total of both groups and divide by the combined count: the combined mean is 58.33.",
+      "as": "দুয়োটা গোটৰ যোগফল লৈ মুঠ সংখ্যাৰে হৰণ কৰা: সংযুক্ত মাধ্য ৫৮.৩৩।"
     }
   },
   {
@@ -2126,8 +2126,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Combined mean = 69.0.",
-      "as": "যুটীয়া গড় = ৬৯.০।"
+      "en": "Take the total of both groups and divide by the combined count: the combined mean is 69.",
+      "as": "দুয়োটা গোটৰ যোগফল লৈ মুঠ সংখ্যাৰে হৰণ কৰা: সংযুক্ত মাধ্য ৬৯।"
     }
   },
   {
@@ -2250,8 +2250,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "SD = 2.24.",
-      "as": "মানক বিচ্যুতি = ২.২৪।"
+      "en": "Mean = 6. Squared deviations: (3−6)² = 9, (5−6)² = 1, (7−6)² = 1, (9−6)² = 9. Variance = 5, so SD = √5 = 2.24.",
+      "as": "মাধ্য = ৬। বৰ্গ বিচ্যুতিৰ যোগফলৰপৰা ভেদাঙ্ক = ৫, সেয়ে মানক বিচ্যুতি = ২.২৪।"
     }
   },
   {
@@ -2281,8 +2281,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "SD = 2.24.",
-      "as": "মানক বিচ্যুতি = ২.২৪।"
+      "en": "Mean = 13. Squared deviations: (10−13)² = 9, (12−13)² = 1, (14−13)² = 1, (16−13)² = 9. Variance = 5, so SD = √5 = 2.24.",
+      "as": "মাধ্য = ১৩। বৰ্গ বিচ্যুতিৰ যোগফলৰপৰা ভেদাঙ্ক = ৫, সেয়ে মানক বিচ্যুতি = ২.২৪।"
     }
   },
   {
@@ -2312,8 +2312,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The mean increases by 8.",
-      "as": "গড় ৮ বৃদ্ধি পায়।"
+      "en": "Adding the same number to every observation moves the mean by exactly that amount, so the mean increases by 8.",
+      "as": "প্ৰতিটো মানত একেই সংখ্যা যোগ কৰিলে মাধ্যও সেই পৰিমাণেই বাঢ়ে, সেয়ে মাধ্য ৮ ৰে বাঢ়ে।"
     }
   },
   {
@@ -2343,8 +2343,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "The mean increases by 15.",
-      "as": "গড় ১৫ বৃদ্ধি পায়।"
+      "en": "Adding the same number to every observation moves the mean by exactly that amount, so the mean increases by 15.",
+      "as": "প্ৰতিটো মানত একেই সংখ্যা যোগ কৰিলে মাধ্যও সেই পৰিমাণেই বাঢ়ে, সেয়ে মাধ্য ১৫ ৰে বাঢ়ে।"
     }
   },
   {
@@ -2374,8 +2374,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mode = 16.25.",
-      "as": "বহুলক = ১৬.২৫।"
+      "en": "16.25 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ১৬.২৫ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -2405,8 +2405,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mode = 44.29.",
-      "as": "বহুলক = ৪৪.২৯।"
+      "en": "44.29 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ৪৪.২৯ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -2436,8 +2436,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mean = 68/4 = 17.0.",
-      "as": "গড় = ১৭.০।"
+      "en": "The values add up to 68 and there are 4 of them, so the mean is 68 ÷ 4 = 17.",
+      "as": "মানবোৰৰ যোগফল ৬৮ আৰু সংখ্যা ৪ টা, সেয়ে মাধ্য = ৬৮ ÷ ৪ = ১৭।"
     }
   },
   {
@@ -2467,8 +2467,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Mean = 105/3 = 35.0.",
-      "as": "গড় = ৩৫.০।"
+      "en": "The values add up to 105 and there are 3 of them, so the mean is 105 ÷ 3 = 35.",
+      "as": "মানবোৰৰ যোগফল ১০৫ আৰু সংখ্যা ৩ টা, সেয়ে মাধ্য = ১০৫ ÷ ৩ = ৩৫।"
     }
   },
   {
@@ -2498,8 +2498,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 80/5 = 16.0.",
-      "as": "গড় = ১৬.০।"
+      "en": "The values add up to 80 and there are 5 of them, so the mean is 80 ÷ 5 = 16.",
+      "as": "মানবোৰৰ যোগফল ৮০ আৰু সংখ্যা ৫ টা, সেয়ে মাধ্য = ৮০ ÷ ৫ = ১৬।"
     }
   },
   {
@@ -2529,8 +2529,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mean = 260/4 = 65.0.",
-      "as": "গড় = ৬৫.০।"
+      "en": "The values add up to 260 and there are 4 of them, so the mean is 260 ÷ 4 = 65.",
+      "as": "মানবোৰৰ যোগফল ২৬০ আৰু সংখ্যা ৪ টা, সেয়ে মাধ্য = ২৬০ ÷ ৪ = ৬৫।"
     }
   },
   {
@@ -2560,8 +2560,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Median = 6.",
-      "as": "মধ্যমা = ৬।"
+      "en": "Arrange the data in order and take the middle value: it is 6, so the median is 6.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ৬, সেয়ে মধ্যমা ৬।"
     }
   },
   {
@@ -2591,8 +2591,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Median = 19.5.",
-      "as": "মধ্যমা = ১৯.৫।"
+      "en": "Arrange the data in order and take the middle value: it is 19.5, so the median is 19.5.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ১৯.৫, সেয়ে মধ্যমা ১৯.৫।"
     }
   },
   {
@@ -2622,8 +2622,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Median = 20.0.",
-      "as": "মধ্যমা = ২০.০।"
+      "en": "Arrange the data in order and take the middle value: it is 20, so the median is 20.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ২০, সেয়ে মধ্যমা ২০।"
     }
   },
   {
@@ -2653,8 +2653,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Median = 27.",
-      "as": "মধ্যমা = ২৭।"
+      "en": "Arrange the data in order and take the middle value: it is 27, so the median is 27.",
+      "as": "তথ্য ক্ৰমত সজাই মাজৰ মানটো লোৱা — সেয়া ২৭, সেয়ে মধ্যমা ২৭।"
     }
   },
   {
@@ -2684,8 +2684,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mode = 4.",
-      "as": "বহুলক = ৪।"
+      "en": "4 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ৪ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -2715,8 +2715,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mode = 1.",
-      "as": "বহুলক = ১।"
+      "en": "1 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ১ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -2746,8 +2746,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mode = 7.",
-      "as": "বহুলক = ৭।"
+      "en": "7 appears more often than any other value in the data, so it is the mode.",
+      "as": "তথ্যত ৭ আন যিকোনো মানতকৈ বেছি বাৰ আছে, সেয়ে ইয়েই ম'ড।"
     }
   },
   {
@@ -2777,8 +2777,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Range = 100 - 23 = 77.",
-      "as": "পৰিসৰ = ৭৭।"
+      "en": "Range = highest − lowest = 100 − 23 = 77.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ১০০ − ২৩ = ৭৭।"
     }
   },
   {
@@ -2808,8 +2808,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Range = 88 - 12 = 76.",
-      "as": "পৰিসৰ = ৭৬।"
+      "en": "Range = highest − lowest = 88 − 12 = 76.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ৮৮ − ১২ = ৭৬।"
     }
   },
   {
@@ -2839,8 +2839,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Range = 52 - 7 = 45.",
-      "as": "পৰিসৰ = ৪৫।"
+      "en": "Range = highest − lowest = 52 − 7 = 45.",
+      "as": "পৰিসৰ = সৰ্বোচ্চ − সৰ্বনিম্ন = ৫২ − ৭ = ৪৫।"
     }
   },
   {
@@ -2870,8 +2870,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Mean = 160/10 = 16.0.",
-      "as": "গড় = ১৬.০।"
+      "en": "The values add up to 160 and there are 10 of them, so the mean is 160 ÷ 10 = 16.",
+      "as": "মানবোৰৰ যোগফল ১৬০ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ১৬০ ÷ ১০ = ১৬।"
     }
   },
   {
@@ -2901,8 +2901,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Mean = 300/10 = 30.0.",
-      "as": "গড় = ৩০.০।"
+      "en": "The values add up to 300 and there are 10 of them, so the mean is 300 ÷ 10 = 30.",
+      "as": "মানবোৰৰ যোগফল ৩০০ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ৩০০ ÷ ১০ = ৩০।"
     }
   },
   {
@@ -2932,8 +2932,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Mean = 52/10 = 5.2.",
-      "as": "গড় = ৫.২।"
+      "en": "The values add up to 52 and there are 10 of them, so the mean is 52 ÷ 10 = 5.2.",
+      "as": "মানবোৰৰ যোগফল ৫২ আৰু সংখ্যা ১০ টা, সেয়ে মাধ্য = ৫২ ÷ ১০ = ৫.২।"
     }
   },
   {
@@ -2963,8 +2963,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Combined mean = 51.0.",
-      "as": "যুটীয়া গড় = ৫১.০।"
+      "en": "Take the total of both groups and divide by the combined count: the combined mean is 51.",
+      "as": "দুয়োটা গোটৰ যোগফল লৈ মুঠ সংখ্যাৰে হৰণ কৰা: সংযুক্ত মাধ্য ৫১।"
     }
   },
   {
@@ -2994,8 +2994,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Combined mean = 65.0.",
-      "as": "যুটীয়া গড় = ৬৫.০।"
+      "en": "Take the total of both groups and divide by the combined count: the combined mean is 65.",
+      "as": "দুয়োটা গোটৰ যোগফল লৈ মুঠ সংখ্যাৰে হৰণ কৰা: সংযুক্ত মাধ্য ৬৫।"
     }
   },
   {
@@ -3242,8 +3242,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Ratio = 200 : 300.",
-      "as": "অনুপাত = ২০০:৩০০।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 100: 200 : 300 = 2 : 3.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১০০ কটা: ২০০ : ৩০০ = ২ : ৩।"
     }
   },
   {
@@ -3273,8 +3273,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Difference = 400 - 200 = 200.",
-      "as": "পাৰ্থক্য = ২০০।"
+      "en": "Subtract the smaller from the larger: 400 − 200 = 200.",
+      "as": "ডাঙৰৰপৰা সৰুটো বাদ দিয়া: ৪০০ − ২০০ = ২০০।"
     }
   },
   {
@@ -3428,8 +3428,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Ratio = 400 : 500.",
-      "as": "অনুপাত = ৪০০:৫০০।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 100: 400 : 500 = 4 : 5.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ১০০ কটা: ৪০০ : ৫০০ = ৪ : ৫।"
     }
   },
   {
@@ -3459,8 +3459,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Difference = 600 - 400 = 200.",
-      "as": "পাৰ্থক্য = ২০০।"
+      "en": "Subtract the smaller from the larger: 600 − 400 = 200.",
+      "as": "ডাঙৰৰপৰা সৰুটো বাদ দিয়া: ৬০০ − ৪০০ = ২০০।"
     }
   },
   {
@@ -3614,8 +3614,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Ratio = 120 : 180.",
-      "as": "অনুপাত = ১২০:১৮০।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 60: 120 : 180 = 2 : 3.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ৬০ কটা: ১২০ : ১৮০ = ২ : ৩।"
     }
   },
   {
@@ -3645,8 +3645,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Difference = 240 - 120 = 120.",
-      "as": "পাৰ্থক্য = ১২০।"
+      "en": "Subtract the smaller from the larger: 240 − 120 = 120.",
+      "as": "ডাঙৰৰপৰা সৰুটো বাদ দিয়া: ২৪০ − ১২০ = ১২০।"
     }
   },
   {
@@ -3800,8 +3800,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Ratio = 80 : 120.",
-      "as": "অনুপাত = ৮০:১২০।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 40: 80 : 120 = 2 : 3.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ৪০ কটা: ৮০ : ১২০ = ২ : ৩।"
     }
   },
   {
@@ -3831,8 +3831,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Difference = 120 - 80 = 40.",
-      "as": "পাৰ্থক্য = ৪০।"
+      "en": "Subtract the smaller from the larger: 120 − 80 = 40.",
+      "as": "ডাঙৰৰপৰা সৰুটো বাদ দিয়া: ১২০ − ৮০ = ৪০।"
     }
   },
   {
@@ -3986,8 +3986,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Ratio = 300 : 420.",
-      "as": "অনুপাত = ৩০০:৪২০।"
+      "en": "Both quantities are already in the same unit, so cancel the common factor 60: 300 : 420 = 5 : 7.",
+      "as": "দুয়োটা ৰাশি একে এককতে আছে, সেয়ে সাধাৰণ উৎপাদক ৬০ কটা: ৩০০ : ৪২০ = ৫ : ৭।"
     }
   },
   {
@@ -4017,8 +4017,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Difference = 540 - 300 = 240.",
-      "as": "পাৰ্থক্য = ২৪০।"
+      "en": "Subtract the smaller from the larger: 540 − 300 = 240.",
+      "as": "ডাঙৰৰপৰা সৰুটো বাদ দিয়া: ৫৪০ − ৩০০ = ২৪০।"
     }
   },
   {
@@ -4699,8 +4699,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Average = 750/3 = 250.0.",
-      "as": "গড় = ২৫০.০।"
+      "en": "The values add up to 750 and there are 3 of them, so the average is 750 ÷ 3 = 250.",
+      "as": "মানবোৰৰ যোগফল ৭৫০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ৭৫০ ÷ ৩ = ২৫০।"
     }
   },
   {
@@ -4761,8 +4761,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Average = 1350/3 = 450.0.",
-      "as": "গড় = ৪৫০.০।"
+      "en": "The values add up to 1,350 and there are 3 of them, so the average is 1,350 ÷ 3 = 450.",
+      "as": "মানবোৰৰ যোগফল ১,৩৫০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ১,৩৫০ ÷ ৩ = ৪৫০।"
     }
   },
   {
@@ -4823,8 +4823,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Average = 450/3 = 150.0.",
-      "as": "গড় = ১৫০.০।"
+      "en": "The values add up to 450 and there are 3 of them, so the average is 450 ÷ 3 = 150.",
+      "as": "মানবোৰৰ যোগফল ৪৫০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ৪৫০ ÷ ৩ = ১৫০।"
     }
   },
   {
@@ -5133,8 +5133,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Total = 260.",
-      "as": "মুঠ = ২৬০।"
+      "en": "Add the given parts and the total comes to 260.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ২৬০ হয়।"
     }
   },
   {
@@ -5164,8 +5164,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Average = 260/4 = 65.0.",
-      "as": "গড় = ৬৫.০।"
+      "en": "The values add up to 260 and there are 4 of them, so the average is 260 ÷ 4 = 65.",
+      "as": "মানবোৰৰ যোগফল ২৬০ আৰু সংখ্যা ৪ টা, সেয়ে গড় = ২৬০ ÷ ৪ = ৬৫।"
     }
   },
   {
@@ -5195,8 +5195,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Total = 540.",
-      "as": "মুঠ = ৫৪০।"
+      "en": "Add the given parts and the total comes to 540.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ৫৪০ হয়।"
     }
   },
   {
@@ -5226,8 +5226,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Average = 540/4 = 135.0.",
-      "as": "গড় = ১৩৫.০।"
+      "en": "The values add up to 540 and there are 4 of them, so the average is 540 ÷ 4 = 135.",
+      "as": "মানবোৰৰ যোগফল ৫৪০ আৰু সংখ্যা ৪ টা, সেয়ে গড় = ৫৪০ ÷ ৪ = ১৩৫।"
     }
   },
   {
@@ -5350,8 +5350,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Total = 1250.",
-      "as": "মুঠ = ১২৫০।"
+      "en": "Add the given parts and the total comes to 1,250.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ১,২৫০ হয়।"
     }
   },
   {
@@ -5381,8 +5381,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Average = 1250/5 = 250.0.",
-      "as": "গড় = ২৫০.০।"
+      "en": "The values add up to 1,250 and there are 5 of them, so the average is 1,250 ÷ 5 = 250.",
+      "as": "মানবোৰৰ যোগফল ১,২৫০ আৰু সংখ্যা ৫ টা, সেয়ে গড় = ১,২৫০ ÷ ৫ = ২৫০।"
     }
   },
   {
@@ -5443,8 +5443,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Total = 450.",
-      "as": "মুঠ = ৪৫০।"
+      "en": "Add the given parts and the total comes to 450.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ৪৫০ হয়।"
     }
   },
   {
@@ -5474,8 +5474,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Average = 450/5 = 90.0.",
-      "as": "গড় = ৯০.০।"
+      "en": "The values add up to 450 and there are 5 of them, so the average is 450 ÷ 5 = 90.",
+      "as": "মানবোৰৰ যোগফল ৪৫০ আৰু সংখ্যা ৫ টা, সেয়ে গড় = ৪৫০ ÷ ৫ = ৯০।"
     }
   },
   {
@@ -5753,8 +5753,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Average = 360/3 = 120.0.",
-      "as": "গড় = ১২০.০।"
+      "en": "The values add up to 360 and there are 3 of them, so the average is 360 ÷ 3 = 120.",
+      "as": "মানবোৰৰ যোগফল ৩৬০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ৩৬০ ÷ ৩ = ১২০।"
     }
   },
   {
@@ -5877,8 +5877,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Total = 900.",
-      "as": "মুঠ = ৯০০।"
+      "en": "Add the given parts and the total comes to 900.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ৯০০ হয়।"
     }
   },
   {
@@ -5908,8 +5908,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Average = 900/3 = 300.0.",
-      "as": "গড় = ৩০০.০।"
+      "en": "The values add up to 900 and there are 3 of them, so the average is 900 ÷ 3 = 300.",
+      "as": "মানবোৰৰ যোগফল ৯০০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ৯০০ ÷ ৩ = ৩০০।"
     }
   },
   {
@@ -5939,8 +5939,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Total = 270.",
-      "as": "মুঠ = ২৭০।"
+      "en": "Add the given parts and the total comes to 270.",
+      "as": "দিয়া অংশবোৰ যোগ কৰিলে মুঠ ২৭০ হয়।"
     }
   },
   {
@@ -5970,8 +5970,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Average = 270/3 = 90.0.",
-      "as": "গড় = ৯০.০।"
+      "en": "The values add up to 270 and there are 3 of them, so the average is 270 ÷ 3 = 90.",
+      "as": "মানবোৰৰ যোগফল ২৭০ আৰু সংখ্যা ৩ টা, সেয়ে গড় = ২৭০ ÷ ৩ = ৯০।"
     }
   },
   {
@@ -6001,8 +6001,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "7P3 = 7!/(7-3)! = 210.",
-      "as": "৭P৩ = ২১০।"
+      "en": "7P3 counts arrangements where order matters: 7!/(7−3)! = 7 × 6 × 5 = 210.",
+      "as": "৭P৩ ত ক্ৰম গুৰুত্বপূৰ্ণ: ৭!/(৭−৩)! = ৭ × ৬ × ৫ = ২১০।"
     }
   },
   {
@@ -6032,8 +6032,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "8P2 = 8!/(8-2)! = 56.",
-      "as": "৮P২ = ৫৬।"
+      "en": "8P2 counts arrangements where order matters: 8!/(8−2)! = 8 × 7 = 56.",
+      "as": "৮P২ ত ক্ৰম গুৰুত্বপূৰ্ণ: ৮!/(৮−২)! = ৮ × ৭ = ৫৬।"
     }
   },
   {
@@ -6063,8 +6063,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "9P4 = 9!/(9-4)! = 3024.",
-      "as": "৯P৪ = ৩০২৪।"
+      "en": "9P4 counts arrangements where order matters: 9!/(9−4)! = 9 × 8 × 7 × 6 = 3,024.",
+      "as": "৯P৪ ত ক্ৰম গুৰুত্বপূৰ্ণ: ৯!/(৯−৪)! = ৯ × ৮ × ৭ × ৬ = ৩,০২৪।"
     }
   },
   {
@@ -6094,8 +6094,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "6P3 = 6!/(6-3)! = 120.",
-      "as": "৬P৩ = ১২০।"
+      "en": "6P3 counts arrangements where order matters: 6!/(6−3)! = 6 × 5 × 4 = 120.",
+      "as": "৬P৩ ত ক্ৰম গুৰুত্বপূৰ্ণ: ৬!/(৬−৩)! = ৬ × ৫ × ৪ = ১২০।"
     }
   },
   {
@@ -6125,8 +6125,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "10P2 = 10!/(10-2)! = 90.",
-      "as": "১০P২ = ৯০।"
+      "en": "10P2 counts arrangements where order matters: 10!/(10−2)! = 10 × 9 = 90.",
+      "as": "১০P২ ত ক্ৰম গুৰুত্বপূৰ্ণ: ১০!/(১০−২)! = ১০ × ৯ = ৯০।"
     }
   },
   {
@@ -6156,8 +6156,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "10C3 = 10!/(3!(10-3)!) = 120.",
-      "as": "১০C৩ = ১২০।"
+      "en": "10C3 counts selections where order does not matter: 10!/(3!×7!) = 120.",
+      "as": "১০C৩ ত ক্ৰম গুৰুত্বপূৰ্ণ নহয়: ১০!/(৩!×৭!) = ১২০।"
     }
   },
   {
@@ -6187,8 +6187,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "12C4 = 12!/(4!(12-4)!) = 495.",
-      "as": "১২C৪ = ৪৯৫।"
+      "en": "12C4 counts selections where order does not matter: 12!/(4!×8!) = 495.",
+      "as": "১২C৪ ত ক্ৰম গুৰুত্বপূৰ্ণ নহয়: ১২!/(৪!×৮!) = ৪৯৫।"
     }
   },
   {
@@ -6218,8 +6218,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "9C2 = 9!/(2!(9-2)!) = 36.",
-      "as": "৯C২ = ৩৬।"
+      "en": "9C2 counts selections where order does not matter: 9!/(2!×7!) = 36.",
+      "as": "৯C২ ত ক্ৰম গুৰুত্বপূৰ্ণ নহয়: ৯!/(২!×৭!) = ৩৬।"
     }
   },
   {
@@ -6249,8 +6249,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "15C3 = 15!/(3!(15-3)!) = 455.",
-      "as": "১৫C৩ = ৪৫৫।"
+      "en": "15C3 counts selections where order does not matter: 15!/(3!×12!) = 455.",
+      "as": "১৫C৩ ত ক্ৰম গুৰুত্বপূৰ্ণ নহয়: ১৫!/(৩!×১২!) = ৪৫৫।"
     }
   },
   {
@@ -6280,8 +6280,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "8C5 = 8!/(5!(8-5)!) = 56.",
-      "as": "৮C৫ = ৫৬।"
+      "en": "8C5 counts selections where order does not matter: 8!/(5!×3!) = 56.",
+      "as": "৮C৫ ত ক্ৰম গুৰুত্বপূৰ্ণ নহয়: ৮!/(৫!×৩!) = ৫৬।"
     }
   },
   {
@@ -6745,8 +6745,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Handshakes = 10C2 = 10(10-1)/2 = 45.",
-      "as": "হাত মিলোৱা = ১০C২ = ৪৫।"
+      "en": "Each pair of the 10 people shakes hands once, so count the pairs: 10C2 = 10×9/2 = 45.",
+      "as": "১০ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ১০C2 = ১০×৯/2 = ৪৫।"
     }
   },
   {
@@ -6776,8 +6776,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Handshakes = 12C2 = 12(12-1)/2 = 66.",
-      "as": "হাত মিলোৱা = ১২C২ = ৬৬।"
+      "en": "Each pair of the 12 people shakes hands once, so count the pairs: 12C2 = 12×11/2 = 66.",
+      "as": "১২ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ১২C2 = ১২×১১/2 = ৬৬।"
     }
   },
   {
@@ -6807,8 +6807,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Handshakes = 15C2 = 15(15-1)/2 = 105.",
-      "as": "হাত মিলোৱা = ১৫C২ = ১০৫।"
+      "en": "Each pair of the 15 people shakes hands once, so count the pairs: 15C2 = 15×14/2 = 105.",
+      "as": "১৫ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ১৫C2 = ১৫×১৪/2 = ১০৫।"
     }
   },
   {
@@ -6838,8 +6838,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Handshakes = 20C2 = 20(20-1)/2 = 190.",
-      "as": "হাত মিলোৱা = ২০C২ = ১৯০।"
+      "en": "Each pair of the 20 people shakes hands once, so count the pairs: 20C2 = 20×19/2 = 190.",
+      "as": "২০ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ২০C2 = ২০×১৯/2 = ১৯০।"
     }
   },
   {
@@ -6869,8 +6869,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Handshakes = 8C2 = 8(8-1)/2 = 28.",
-      "as": "হাত মিলোৱা = ৮C২ = ২৮।"
+      "en": "Each pair of the 8 people shakes hands once, so count the pairs: 8C2 = 8×7/2 = 28.",
+      "as": "৮ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ৮C2 = ৮×৭/2 = ২৮।"
     }
   },
   {
@@ -7551,8 +7551,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "6P2 = 30.",
-      "as": "৬P২ = ৩০।"
+      "en": "Arranging 2 out of 6 respects order, so use 6P2 = 6!/(6−2)! = 6 × 5 = 30.",
+      "as": "৬ ৰপৰা ২ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৬P২ = ৬!/(৬−২)! = ৬ × ৫ = ৩০।"
     }
   },
   {
@@ -7582,8 +7582,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "7P4 = 840.",
-      "as": "৭P৪ = ৮৪০।"
+      "en": "Arranging 4 out of 7 respects order, so use 7P4 = 7!/(7−4)! = 7 × 6 × 5 × 4 = 840.",
+      "as": "৭ ৰপৰা ৪ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৭P৪ = ৭!/(৭−৪)! = ৭ × ৬ × ৫ × ৪ = ৮৪০।"
     }
   },
   {
@@ -7613,8 +7613,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "8P3 = 336.",
-      "as": "৮P৩ = ৩৩৬।"
+      "en": "Arranging 3 out of 8 respects order, so use 8P3 = 8!/(8−3)! = 8 × 7 × 6 = 336.",
+      "as": "৮ ৰপৰা ৩ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৮P৩ = ৮!/(৮−৩)! = ৮ × ৭ × ৬ = ৩৩৬।"
     }
   },
   {
@@ -7644,8 +7644,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "9P3 = 504.",
-      "as": "৯P৩ = ৫০৪।"
+      "en": "Arranging 3 out of 9 respects order, so use 9P3 = 9!/(9−3)! = 9 × 8 × 7 = 504.",
+      "as": "৯ ৰপৰা ৩ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৯P৩ = ৯!/(৯−৩)! = ৯ × ৮ × ৭ = ৫০৪।"
     }
   },
   {
@@ -7675,8 +7675,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "11C2 = 55.",
-      "as": "১১C২ = ৫৫।"
+      "en": "Choosing 2 from 11 ignores order, so use 11C2 = 11!/(2!×9!) = (11 × 10)/(2 × 1) = 55.",
+      "as": "১১ ৰপৰা ২ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১১C২ = ১১!/(২!×৯!) = ৫৫।"
     }
   },
   {
@@ -7706,8 +7706,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "13C3 = 286.",
-      "as": "১৩C৩ = ২৮৬।"
+      "en": "Choosing 3 from 13 ignores order, so use 13C3 = 13!/(3!×10!) = (13 × 12 × 11)/(3 × 2 × 1) = 286.",
+      "as": "১৩ ৰপৰা ৩ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১৩C৩ = ১৩!/(৩!×১০!) = ২৮৬।"
     }
   },
   {
@@ -7737,8 +7737,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "7C3 = 35.",
-      "as": "৭C৩ = ৩৫।"
+      "en": "Choosing 3 from 7 ignores order, so use 7C3 = 7!/(3!×4!) = (7 × 6 × 5)/(3 × 2 × 1) = 35.",
+      "as": "৭ ৰপৰা ৩ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ৭C৩ = ৭!/(৩!×৪!) = ৩৫।"
     }
   },
   {
@@ -7768,8 +7768,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "10C4 = 210.",
-      "as": "১০C৪ = ২১০।"
+      "en": "Choosing 4 from 10 ignores order, so use 10C4 = 10!/(4!×6!) = (10 × 9 × 8 × 7)/(4 × 3 × 2 × 1) = 210.",
+      "as": "১০ ৰপৰা ৪ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১০C৪ = ১০!/(৪!×৬!) = ২১০।"
     }
   },
   {
@@ -7799,8 +7799,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "6C2 = 15.",
-      "as": "৬C২ = ১৫।"
+      "en": "Choosing 2 from 6 ignores order, so use 6C2 = 6!/(2!×4!) = (6 × 5)/(2 × 1) = 15.",
+      "as": "৬ ৰপৰা ২ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ৬C২ = ৬!/(২!×৪!) = ১৫।"
     }
   },
   {
@@ -7954,8 +7954,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "14C2 = 91.",
-      "as": "১৪C২ = ৯১।"
+      "en": "Choosing 2 from 14 ignores order, so use 14C2 = 14!/(2!×12!) = (14 × 13)/(2 × 1) = 91.",
+      "as": "১৪ ৰপৰা ২ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১৪C২ = ১৪!/(২!×১২!) = ৯১।"
     }
   },
   {
@@ -7985,8 +7985,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "20C3 = 1140.",
-      "as": "২০C৩ = ১১৪০।"
+      "en": "Choosing 3 from 20 ignores order, so use 20C3 = 20!/(3!×17!) = (20 × 19 × 18)/(3 × 2 × 1) = 1,140.",
+      "as": "২০ ৰপৰা ৩ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ২০C৩ = ২০!/(৩!×১৭!) = ১,১৪০।"
     }
   },
   {
@@ -8016,8 +8016,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "11C4 = 330.",
-      "as": "১১C৪ = ৩৩০।"
+      "en": "Choosing 4 from 11 ignores order, so use 11C4 = 11!/(4!×7!) = (11 × 10 × 9 × 8)/(4 × 3 × 2 × 1) = 330.",
+      "as": "১১ ৰপৰা ৪ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১১C৪ = ১১!/(৪!×৭!) = ৩৩০।"
     }
   },
   {
@@ -8140,8 +8140,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Handshakes = 6C2 = 15.",
-      "as": "হাত মিলোৱা = ১৫।"
+      "en": "Each pair of the 6 people shakes hands once, so count the pairs: 6C2 = 6×5/2 = 15.",
+      "as": "৬ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ৬C2 = ৬×৫/2 = ১৫।"
     }
   },
   {
@@ -8171,8 +8171,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Handshakes = 9C2 = 36.",
-      "as": "হাত মিলোৱা = ৩৬।"
+      "en": "Each pair of the 9 people shakes hands once, so count the pairs: 9C2 = 9×8/2 = 36.",
+      "as": "৯ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ৯C2 = ৯×৮/2 = ৩৬।"
     }
   },
   {
@@ -8202,8 +8202,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Handshakes = 11C2 = 55.",
-      "as": "হাত মিলোৱা = ৫৫।"
+      "en": "Each pair of the 11 people shakes hands once, so count the pairs: 11C2 = 11×10/2 = 55.",
+      "as": "১১ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ১১C2 = ১১×১০/2 = ৫৫।"
     }
   },
   {
@@ -8233,8 +8233,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Handshakes = 25C2 = 300.",
-      "as": "হাত মিলোৱা = ৩০০।"
+      "en": "Each pair of the 25 people shakes hands once, so count the pairs: 25C2 = 25×24/2 = 300.",
+      "as": "২৫ জনৰ প্ৰতিজোৰে এবাৰ হাত মিলায়, সেয়ে যোৰ গণনা কৰা: ২৫C2 = ২৫×২৪/2 = ৩০০।"
     }
   },
   {
@@ -8264,8 +8264,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "8P2 = 56.",
-      "as": "৫৬ টা।"
+      "en": "Arranging 2 out of 8 respects order, so use 8P2 = 8!/(8−2)! = 8 × 7 = 56.",
+      "as": "৮ ৰপৰা ২ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৮P২ = ৮!/(৮−২)! = ৮ × ৭ = ৫৬।"
     }
   },
   {
@@ -8295,8 +8295,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Diagonals = 14.",
-      "as": "কৰ্ণ = ১৪।"
+      "en": "A polygon with 7 sides has n(n−3)/2 diagonals = 7(7−3)/2 = 7×4/2 = 14.",
+      "as": "৭ বাহুযুক্ত বহুভুজৰ কৰ্ণৰ সংখ্যা n(n−3)/2 = ৭(৭−3)/2 = ১৪।"
     }
   },
   {
@@ -8326,8 +8326,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Diagonals = 27.",
-      "as": "কৰ্ণ = ২৭।"
+      "en": "A polygon with 9 sides has n(n−3)/2 diagonals = 9(9−3)/2 = 9×6/2 = 27.",
+      "as": "৯ বাহুযুক্ত বহুভুজৰ কৰ্ণৰ সংখ্যা n(n−3)/2 = ৯(৯−3)/2 = ২৭।"
     }
   },
   {
@@ -8357,8 +8357,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Diagonals = 44.",
-      "as": "কৰ্ণ = ৪৪।"
+      "en": "A polygon with 11 sides has n(n−3)/2 diagonals = 11(11−3)/2 = 11×8/2 = 44.",
+      "as": "১১ বাহুযুক্ত বহুভুজৰ কৰ্ণৰ সংখ্যা n(n−3)/2 = ১১(১১−3)/2 = ৪৪।"
     }
   },
   {
@@ -8388,8 +8388,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "3^2 = 9.",
-      "as": "৯ ধৰণ।"
+      "en": "Each of the 2 distinct balls has 3 boxes to choose from, so the choices multiply: 3^2 = 9.",
+      "as": "২ টা সুকীয়া বলৰ প্ৰতিটোৰে ৩ টা বাকচ বাছনি কৰিব পাৰি, সেয়ে গুণ কৰা: ৩^২ = ৯।"
     }
   },
   {
@@ -8419,8 +8419,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "3^3 = 27.",
-      "as": "২৭ ধৰণ।"
+      "en": "Each of the 3 distinct balls has 3 boxes to choose from, so the choices multiply: 3^3 = 27.",
+      "as": "৩ টা সুকীয়া বলৰ প্ৰতিটোৰে ৩ টা বাকচ বাছনি কৰিব পাৰি, সেয়ে গুণ কৰা: ৩^৩ = ২৭।"
     }
   },
   {
@@ -8450,8 +8450,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "4C1 × 5C2 = 40.",
-      "as": "৪০ ধৰণ।"
+      "en": "Choose the required number from each group and multiply: 4C1 × 5C2 = 4 × 10 = 40.",
+      "as": "প্ৰতিটো গোটৰপৰা প্ৰয়োজনীয় সংখ্যা বাছি গুণ কৰা: ৪C১ × ৫C২ = ৪ × ১০ = ৪০।"
     }
   },
   {
@@ -8481,8 +8481,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "5C1 × 5C1 = 25.",
-      "as": "২৫ ধৰণ।"
+      "en": "Choose the required number from each group and multiply: 5C1 × 5C1 = 5 × 5 = 25.",
+      "as": "প্ৰতিটো গোটৰপৰা প্ৰয়োজনীয় সংখ্যা বাছি গুণ কৰা: ৫C১ × ৫C১ = ৫ × ৫ = ২৫।"
     }
   },
   {
@@ -8512,8 +8512,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "10P3 = 720.",
-      "as": "১০P৩ = ৭২০।"
+      "en": "Arranging 3 out of 10 respects order, so use 10P3 = 10!/(10−3)! = 10 × 9 × 8 = 720.",
+      "as": "১০ ৰপৰা ৩ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ১০P৩ = ১০!/(১০−৩)! = ১০ × ৯ × ৮ = ৭২০।"
     }
   },
   {
@@ -8543,8 +8543,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "9P2 = 72.",
-      "as": "৯P২ = ৭২।"
+      "en": "Arranging 2 out of 9 respects order, so use 9P2 = 9!/(9−2)! = 9 × 8 = 72.",
+      "as": "৯ ৰপৰা ২ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ৯P২ = ৯!/(৯−২)! = ৯ × ৮ = ৭২।"
     }
   },
   {
@@ -8574,8 +8574,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "11P3 = 990.",
-      "as": "১১P৩ = ৯৯০।"
+      "en": "Arranging 3 out of 11 respects order, so use 11P3 = 11!/(11−3)! = 11 × 10 × 9 = 990.",
+      "as": "১১ ৰপৰা ৩ সজোৱাত ক্ৰম গুৰুত্বপূৰ্ণ, সেয়ে ১১P৩ = ১১!/(১১−৩)! = ১১ × ১০ × ৯ = ৯৯০।"
     }
   },
   {
@@ -8605,8 +8605,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "12C2 = 66.",
-      "as": "১২C২ = ৬৬।"
+      "en": "Choosing 2 from 12 ignores order, so use 12C2 = 12!/(2!×10!) = (12 × 11)/(2 × 1) = 66.",
+      "as": "১২ ৰপৰা ২ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১২C২ = ১২!/(২!×১০!) = ৬৬।"
     }
   },
   {
@@ -8636,8 +8636,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "14C3 = 364.",
-      "as": "১৪C৩ = ৩৬৪।"
+      "en": "Choosing 3 from 14 ignores order, so use 14C3 = 14!/(3!×11!) = (14 × 13 × 12)/(3 × 2 × 1) = 364.",
+      "as": "১৪ ৰপৰা ৩ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১৪C৩ = ১৪!/(৩!×১১!) = ৩৬৪।"
     }
   },
   {
@@ -8667,8 +8667,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "9C4 = 126.",
-      "as": "৯C৪ = ১২৬।"
+      "en": "Choosing 4 from 9 ignores order, so use 9C4 = 9!/(4!×5!) = (9 × 8 × 7 × 6)/(4 × 3 × 2 × 1) = 126.",
+      "as": "৯ ৰপৰা ৪ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ৯C৪ = ৯!/(৪!×৫!) = ১২৬।"
     }
   },
   {
@@ -8698,8 +8698,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Arrangements = 50400.",
-      "as": "বিন্যাস = ৫০৪০০।"
+      "en": "The word STATISTICS has 10 letters with repeats S × 3, T × 3, I × 2, so the number of distinct arrangements is 10!/(3! × 3! × 2!) = 50,400.",
+      "as": "STATISTICS শব্দটোত ১০ টা আখৰ, পুনৰাবৃত্তি S × ৩, T × ৩, I × ২; সেয়ে সুকীয়া বিন্যাস ৫০,৪০০ টা।"
     }
   },
   {
@@ -8729,8 +8729,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Arrangements = 420.",
-      "as": "বিন্যাস = ৪২০।"
+      "en": "The word SUCCESS has 7 letters with repeats S × 3, C × 2, so the number of distinct arrangements is 7!/(3! × 2!) = 420.",
+      "as": "SUCCESS শব্দটোত ৭ টা আখৰ, পুনৰাবৃত্তি S × ৩, C × ২; সেয়ে সুকীয়া বিন্যাস ৪২০ টা।"
     }
   },
   {
@@ -8760,8 +8760,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "16C3 = 560.",
-      "as": "১৬C৩ = ৫৬০।"
+      "en": "Choosing 3 from 16 ignores order, so use 16C3 = 16!/(3!×13!) = (16 × 15 × 14)/(3 × 2 × 1) = 560.",
+      "as": "১৬ ৰপৰা ৩ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১৬C৩ = ১৬!/(৩!×১৩!) = ৫৬০।"
     }
   },
   {
@@ -8791,8 +8791,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "13C4 = 715.",
-      "as": "১৩C৪ = ৭১৫।"
+      "en": "Choosing 4 from 13 ignores order, so use 13C4 = 13!/(4!×9!) = (13 × 12 × 11 × 10)/(4 × 3 × 2 × 1) = 715.",
+      "as": "১৩ ৰপৰা ৪ বাছনি কৰোঁতে ক্ৰম নধৰা হয়, সেয়ে ১৩C৪ = ১৩!/(৪!×৯!) = ৭১৫।"
     }
   },
   {
@@ -8822,8 +8822,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "(n-1)! = 3628800.",
-      "as": "(n-1)! = ৩৬২৮৮০০।"
+      "en": "Fix one person to break the circle, then arrange the remaining 10: (11−1)! = 3,628,800 ways.",
+      "as": "এজনক স্থিৰ কৰি বৃত্তটো ভাঙা, তাৰপিছত বাকী ১০ জন সজোৱা: (১১−১)! = ৩,৬২৮,৮০০ ধৰণ।"
     }
   },
   {
@@ -8853,8 +8853,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Diagonals = 170.",
-      "as": "কৰ্ণ = ১৭০।"
+      "en": "A polygon with 20 sides has n(n−3)/2 diagonals = 20(20−3)/2 = 20×17/2 = 170.",
+      "as": "২০ বাহুযুক্ত বহুভুজৰ কৰ্ণৰ সংখ্যা n(n−3)/2 = ২০(২০−3)/2 = ১৭০।"
     }
   },
   {
@@ -9566,8 +9566,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Probability = 2/5 = 2/5.",
-      "as": "সম্ভাৱনা = 2/5।"
+      "en": "There are 5 equally likely outcomes and 2 of them are favourable, so the probability is 2/5.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৫ টা আৰু তাৰে ২ টা অনুকূল, সেয়ে সম্ভাৱনা = ২/৫।"
     }
   },
   {
@@ -9628,8 +9628,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Probability = 6/10 = 3/5.",
-      "as": "সম্ভাৱনা = 3/5।"
+      "en": "There are 10 equally likely outcomes and 6 of them are favourable, so the probability is 6/10 = 3/5.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ১০ টা আৰু তাৰে ৬ টা অনুকূল, সেয়ে সম্ভাৱনা = ৬/১০ = ৩/৫।"
     }
   },
   {
@@ -9690,8 +9690,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Probability = 3/8 = 3/8.",
-      "as": "সম্ভাৱনা = 3/8।"
+      "en": "There are 8 equally likely outcomes and 3 of them are favourable, so the probability is 3/8.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৮ টা আৰু তাৰে ৩ টা অনুকূল, সেয়ে সম্ভাৱনা = ৩/৮।"
     }
   },
   {
@@ -9752,8 +9752,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Probability = 8/10 = 4/5.",
-      "as": "সম্ভাৱনা = 4/5।"
+      "en": "There are 10 equally likely outcomes and 8 of them are favourable, so the probability is 8/10 = 4/5.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ১০ টা আৰু তাৰে ৮ টা অনুকূল, সেয়ে সম্ভাৱনা = ৮/১০ = ৪/৫।"
     }
   },
   {
@@ -10403,8 +10403,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Probability = 2/6 = 1/3.",
-      "as": "সম্ভাৱনা = 1/3।"
+      "en": "There are 6 equally likely outcomes and 2 of them are favourable, so the probability is 2/6 = 1/3.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৬ টা আৰু তাৰে ২ টা অনুকূল, সেয়ে সম্ভাৱনা = ২/৬ = ১/৩।"
     }
   },
   {
@@ -10434,8 +10434,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Probability = 4/6 = 2/3.",
-      "as": "সম্ভাৱনা = 2/3।"
+      "en": "There are 6 equally likely outcomes and 4 of them are favourable, so the probability is 4/6 = 2/3.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৬ টা আৰু তাৰে ৪ টা অনুকূল, সেয়ে সম্ভাৱনা = ৪/৬ = ২/৩।"
     }
   },
   {
@@ -10465,8 +10465,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Probability = 2/6 = 1/3.",
-      "as": "সম্ভাৱনা = 1/3।"
+      "en": "There are 6 equally likely outcomes and 2 of them are favourable, so the probability is 2/6 = 1/3.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৬ টা আৰু তাৰে ২ টা অনুকূল, সেয়ে সম্ভাৱনা = ২/৬ = ১/৩।"
     }
   },
   {
@@ -10496,8 +10496,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Probability = 5/36 = 5/36.",
-      "as": "সম্ভাৱনা = 5/36।"
+      "en": "There are 36 equally likely outcomes and 5 of them are favourable, so the probability is 5/36.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৩৬ টা আৰু তাৰে ৫ টা অনুকূল, সেয়ে সম্ভাৱনা = ৫/৩৬।"
     }
   },
   {
@@ -10527,8 +10527,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Probability = 5/36 = 5/36.",
-      "as": "সম্ভাৱনা = 5/36।"
+      "en": "There are 36 equally likely outcomes and 5 of them are favourable, so the probability is 5/36.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৩৬ টা আৰু তাৰে ৫ টা অনুকূল, সেয়ে সম্ভাৱনা = ৫/৩৬।"
     }
   },
   {
@@ -10558,8 +10558,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Probability = 3/36 = 1/12.",
-      "as": "সম্ভাৱনা = 1/12।"
+      "en": "There are 36 equally likely outcomes and 3 of them are favourable, so the probability is 3/36 = 1/12.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৩৬ টা আৰু তাৰে ৩ টা অনুকূল, সেয়ে সম্ভাৱনা = ৩/৩৬ = ১/১২।"
     }
   },
   {
@@ -10589,8 +10589,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Probability = 2/36 = 1/18.",
-      "as": "সম্ভাৱনা = 1/18।"
+      "en": "There are 36 equally likely outcomes and 2 of them are favourable, so the probability is 2/36 = 1/18.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৩৬ টা আৰু তাৰে ২ টা অনুকূল, সেয়ে সম্ভাৱনা = ২/৩৬ = ১/১৮।"
     }
   },
   {
@@ -10620,8 +10620,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Probability = 13/52 = 1/4.",
-      "as": "সম্ভাৱনা = 1/4।"
+      "en": "There are 52 equally likely outcomes and 13 of them are favourable, so the probability is 13/52 = 1/4.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৫২ টা আৰু তাৰে ১৩ টা অনুকূল, সেয়ে সম্ভাৱনা = ১৩/৫২ = ১/৪।"
     }
   },
   {
@@ -10651,8 +10651,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Probability = 26/52 = 1/2.",
-      "as": "সম্ভাৱনা = 1/2।"
+      "en": "There are 52 equally likely outcomes and 26 of them are favourable, so the probability is 26/52 = 1/2.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৫২ টা আৰু তাৰে ২৬ টা অনুকূল, সেয়ে সম্ভাৱনা = ২৬/৫২ = ১/২।"
     }
   },
   {
@@ -10682,8 +10682,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Probability = 4/52 = 1/13.",
-      "as": "সম্ভাৱনা = 1/13।"
+      "en": "There are 52 equally likely outcomes and 4 of them are favourable, so the probability is 4/52 = 1/13.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৫২ টা আৰু তাৰে ৪ টা অনুকূল, সেয়ে সম্ভাৱনা = ৪/৫২ = ১/১৩।"
     }
   },
   {
@@ -10713,8 +10713,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Probability = 2/52 = 1/26.",
-      "as": "সম্ভাৱনা = 1/26।"
+      "en": "There are 52 equally likely outcomes and 2 of them are favourable, so the probability is 2/52 = 1/26.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৫২ টা আৰু তাৰে ২ টা অনুকূল, সেয়ে সম্ভাৱনা = ২/৫২ = ১/২৬।"
     }
   },
   {
@@ -10744,8 +10744,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Probability = 3/8 = 3/8.",
-      "as": "সম্ভাৱনা = 3/8।"
+      "en": "There are 8 equally likely outcomes and 3 of them are favourable, so the probability is 3/8.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৮ টা আৰু তাৰে ৩ টা অনুকূল, সেয়ে সম্ভাৱনা = ৩/৮।"
     }
   },
   {
@@ -10775,8 +10775,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Probability = 1/16 = 1/16.",
-      "as": "সম্ভাৱনা = 1/16।"
+      "en": "There are 16 equally likely outcomes and 1 of them are favourable, so the probability is 1/16.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ১৬ টা আৰু তাৰে ১ টা অনুকূল, সেয়ে সম্ভাৱনা = ১/১৬।"
     }
   },
   {
@@ -10806,8 +10806,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Probability = 4/8 = 1/2.",
-      "as": "সম্ভাৱনা = 1/2।"
+      "en": "There are 8 equally likely outcomes and 4 of them are favourable, so the probability is 4/8 = 1/2.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৮ টা আৰু তাৰে ৪ টা অনুকূল, সেয়ে সম্ভাৱনা = ৪/৮ = ১/২।"
     }
   },
   {
@@ -10837,8 +10837,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Probability = 6/10 = 3/5.",
-      "as": "সম্ভাৱনা = 3/5।"
+      "en": "There are 10 equally likely outcomes and 6 of them are favourable, so the probability is 6/10 = 3/5.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ১০ টা আৰু তাৰে ৬ টা অনুকূল, সেয়ে সম্ভাৱনা = ৬/১০ = ৩/৫।"
     }
   },
   {
@@ -10868,8 +10868,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Probability = 7/12 = 7/12.",
-      "as": "সম্ভাৱনা = 7/12।"
+      "en": "There are 12 equally likely outcomes and 7 of them are favourable, so the probability is 7/12.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ১২ টা আৰু তাৰে ৭ টা অনুকূল, সেয়ে সম্ভাৱনা = ৭/১২।"
     }
   },
   {
@@ -10899,8 +10899,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Probability = 3/12 = 1/4.",
-      "as": "সম্ভাৱনা = 1/4।"
+      "en": "There are 12 equally likely outcomes and 3 of them are favourable, so the probability is 3/12 = 1/4.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ১২ টা আৰু তাৰে ৩ টা অনুকূল, সেয়ে সম্ভাৱনা = ৩/১২ = ১/৪।"
     }
   },
   {
@@ -10930,8 +10930,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "P(not A) = 4/5.",
-      "as": "P(not A) = 4/5।"
+      "en": "P(A) = 1/5, so P(not A) = 1 − 1/5 = 4/5.",
+      "as": "P(A) = ১/৫, সেয়ে P(not A) = ১ − ১/৫ = ৪/৫।"
     }
   },
   {
@@ -10961,8 +10961,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "P(not A) = 1/4.",
-      "as": "P(not A) = 1/4।"
+      "en": "P(A) = 3/4, so P(not A) = 1 − 3/4 = 1/4.",
+      "as": "P(A) = ৩/৪, সেয়ে P(not A) = ১ − ৩/৪ = ১/৪।"
     }
   },
   {
@@ -10992,8 +10992,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "P(not A) = 1/6.",
-      "as": "P(not A) = 1/6।"
+      "en": "P(A) = 5/6, so P(not A) = 1 − 5/6 = 1/6.",
+      "as": "P(A) = ৫/৬, সেয়ে P(not A) = ১ − ৫/৬ = ১/৬।"
     }
   },
   {
@@ -11023,8 +11023,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "P(A and B) = 1/3.",
-      "as": "P(A and B) = 1/3।"
+      "en": "The events are independent, so multiply: P(A and B) = 1/2 × 2/3 = 1/3.",
+      "as": "ঘটনাবোৰ স্বতন্ত্ৰ, সেয়ে পূৰণ কৰা: P(A and B) = ১/২ × ২/৩ = ১/৩।"
     }
   },
   {
@@ -11054,8 +11054,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "P(A and B) = 1/5.",
-      "as": "P(A and B) = 1/5।"
+      "en": "The events are independent, so multiply: P(A and B) = 1/3 × 3/5 = 1/5.",
+      "as": "ঘটনাবোৰ স্বতন্ত্ৰ, সেয়ে পূৰণ কৰা: P(A and B) = ১/৩ × ৩/৫ = ১/৫।"
     }
   },
   {
@@ -11085,8 +11085,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "P(A or B) = 1/3.",
-      "as": "P(A or B) = 1/3।"
+      "en": "The events are mutually exclusive, so add: P(A or B) = 1/6 + 1/6 = 1/3.",
+      "as": "ঘটনাবোৰ পৰস্পৰ বৰ্জিত, সেয়ে যোগ কৰা: P(A or B) = ১/৬ + ১/৬ = ১/৩।"
     }
   },
   {
@@ -11116,8 +11116,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "P(A or B) = 3/5.",
-      "as": "P(A or B) = 3/5।"
+      "en": "The events are mutually exclusive, so add: P(A or B) = 2/5 + 1/5 = 3/5.",
+      "as": "ঘটনাবোৰ পৰস্পৰ বৰ্জিত, সেয়ে যোগ কৰা: P(A or B) = ২/৫ + ১/৫ = ৩/৫।"
     }
   },
   {
@@ -11271,8 +11271,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Probability = 1/6 = 1/6.",
-      "as": "সম্ভাৱনা = 1/6।"
+      "en": "There are 6 equally likely outcomes and 1 of them are favourable, so the probability is 1/6.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৬ টা আৰু তাৰে ১ টা অনুকূল, সেয়ে সম্ভাৱনা = ১/৬।"
     }
   },
   {
@@ -11302,8 +11302,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Probability = 2/6 = 1/3.",
-      "as": "সম্ভাৱনা = 1/3।"
+      "en": "There are 6 equally likely outcomes and 2 of them are favourable, so the probability is 2/6 = 1/3.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৬ টা আৰু তাৰে ২ টা অনুকূল, সেয়ে সম্ভাৱনা = ২/৬ = ১/৩।"
     }
   },
   {
@@ -11333,8 +11333,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Probability = 2/6 = 1/3.",
-      "as": "সম্ভাৱনা = 1/3।"
+      "en": "There are 6 equally likely outcomes and 2 of them are favourable, so the probability is 2/6 = 1/3.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৬ টা আৰু তাৰে ২ টা অনুকূল, সেয়ে সম্ভাৱনা = ২/৬ = ১/৩।"
     }
   },
   {
@@ -11457,8 +11457,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Probability = 4/52 = 1/13.",
-      "as": "সম্ভাৱনা = 1/13।"
+      "en": "There are 52 equally likely outcomes and 4 of them are favourable, so the probability is 4/52 = 1/13.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৫২ টা আৰু তাৰে ৪ টা অনুকূল, সেয়ে সম্ভাৱনা = ৪/৫২ = ১/১৩।"
     }
   },
   {
@@ -11488,8 +11488,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Probability = 2/52 = 1/26.",
-      "as": "সম্ভাৱনা = 1/26।"
+      "en": "There are 52 equally likely outcomes and 2 of them are favourable, so the probability is 2/52 = 1/26.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৫২ টা আৰু তাৰে ২ টা অনুকূল, সেয়ে সম্ভাৱনা = ২/৫২ = ১/২৬।"
     }
   },
   {
@@ -11519,8 +11519,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Probability = 13/52 = 1/4.",
-      "as": "সম্ভাৱনা = 1/4।"
+      "en": "There are 52 equally likely outcomes and 13 of them are favourable, so the probability is 13/52 = 1/4.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৫২ টা আৰু তাৰে ১৩ টা অনুকূল, সেয়ে সম্ভাৱনা = ১৩/৫২ = ১/৪।"
     }
   },
   {
@@ -11550,8 +11550,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Probability = 6/16 = 3/8.",
-      "as": "সম্ভাৱনা = 3/8।"
+      "en": "There are 16 equally likely outcomes and 6 of them are favourable, so the probability is 6/16 = 3/8.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ১৬ টা আৰু তাৰে ৬ টা অনুকূল, সেয়ে সম্ভাৱনা = ৬/১৬ = ৩/৮।"
     }
   },
   {
@@ -11581,8 +11581,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "Probability = 1/4 = 1/4.",
-      "as": "সম্ভাৱনা = 1/4।"
+      "en": "There are 4 equally likely outcomes and 1 of them are favourable, so the probability is 1/4.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ৪ টা আৰু তাৰে ১ টা অনুকূল, সেয়ে সম্ভাৱনা = ১/৪।"
     }
   },
   {
@@ -11612,8 +11612,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Probability = 5/10 = 1/2.",
-      "as": "সম্ভাৱনা = 1/2।"
+      "en": "There are 10 equally likely outcomes and 5 of them are favourable, so the probability is 5/10 = 1/2.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ১০ টা আৰু তাৰে ৫ টা অনুকূল, সেয়ে সম্ভাৱনা = ৫/১০ = ১/২।"
     }
   },
   {
@@ -11643,8 +11643,8 @@
     ],
     "correct": 0,
     "explanation": {
-      "en": "Probability = 8/10 = 4/5.",
-      "as": "সম্ভাৱনা = 4/5।"
+      "en": "There are 10 equally likely outcomes and 8 of them are favourable, so the probability is 8/10 = 4/5.",
+      "as": "সামঞ্জস্যপূৰ্ণ ফল ১০ টা আৰু তাৰে ৮ টা অনুকূল, সেয়ে সম্ভাৱনা = ৮/১০ = ৪/৫।"
     }
   },
   {
@@ -11674,8 +11674,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "P(not A) = 7/8.",
-      "as": "P(not A) = 7/8।"
+      "en": "P(A) = 1/8, so P(not A) = 1 − 1/8 = 7/8.",
+      "as": "P(A) = ১/৮, সেয়ে P(not A) = ১ − ১/৮ = ৭/৮।"
     }
   },
   {
@@ -11705,8 +11705,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "P(not A) = 3/10.",
-      "as": "P(not A) = 3/10।"
+      "en": "P(A) = 7/10, so P(not A) = 1 − 7/10 = 3/10.",
+      "as": "P(A) = ৭/১০, সেয়ে P(not A) = ১ − ৭/১০ = ৩/১০।"
     }
   },
   {
@@ -11736,8 +11736,8 @@
     ],
     "correct": 2,
     "explanation": {
-      "en": "P(A and B) = 1/4.",
-      "as": "P(A and B) = 1/4।"
+      "en": "The events are independent, so multiply: P(A and B) = 1/2 × 1/2 = 1/4.",
+      "as": "ঘটনাবোৰ স্বতন্ত্ৰ, সেয়ে পূৰণ কৰা: P(A and B) = ১/২ × ১/২ = ১/৪।"
     }
   },
   {
@@ -11767,8 +11767,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "P(A and B) = 1/2.",
-      "as": "P(A and B) = 1/2।"
+      "en": "The events are independent, so multiply: P(A and B) = 2/3 × 3/4 = 1/2.",
+      "as": "ঘটনাবোৰ স্বতন্ত্ৰ, সেয়ে পূৰণ কৰা: P(A and B) = ২/৩ × ৩/৪ = ১/২।"
     }
   },
   {
