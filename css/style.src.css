@@ -3681,3 +3681,11 @@ a.axo-email:hover { color: #1e3a8a; background: #dbeafe; text-decoration: none; 
   .qa-item > div[style*="overflow-x:auto"] > svg,
   .qa-item > div[style*="overflow-x:auto"] > img { max-height: 180px; }
 }
+
+/* Language switch links (static HTML, see tools/add-lang-switch-links.js).
+   The runtime only injects its button-only toggle when .desktop-lang-toggle
+   is absent, so this replaces it rather than sitting beside it. */
+.desktop-lang-toggle .lang-link{display:inline-flex;align-items:center;justify-content:center;min-width:44px;height:100%;padding:0 10px;border-radius:9px;background:transparent;color:var(--ink-soft);font-size:.8rem;font-weight:700;line-height:1;white-space:nowrap;text-decoration:none;cursor:pointer;transition:all var(--transition)}
+.desktop-lang-toggle .lang-link:hover{color:var(--primary)}
+.desktop-lang-toggle .lang-link.is-active{background:var(--grad);color:#fff}
+@media (max-width:560px){.desktop-lang-toggle .lang-link{min-width:36px;padding:0 7px;font-size:.72rem}}

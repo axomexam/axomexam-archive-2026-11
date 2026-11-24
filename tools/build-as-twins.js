@@ -1046,6 +1046,17 @@ function assameseOnly(html, head, rel) {
   return html;
 }
 
+/* The English page carries a static language switch (added by
+   tools/add-lang-switch-links.js and prerender.js) whose link points at the
+   /as/ twin. On the twin that href would resolve to the page itself, so swap
+   the block for the Assamese-perspective copy: the English link points back
+   at the page this twin was built from. Kept byte-identical to the markup the
+   stand-alone tool writes so --check reports no drift. */
+function langSwitchAs(rel) {
+  const enHref = rel ? `/${rel}/` : "/";
+  return `<div class="desktop-lang-toggle" data-lang-switch="1"><a class="lang-link" href="${enHref}" hreflang="en" lang="en" title="Read in English">EN</a><span class="lang-link is-active" lang="as">\u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be</span></div>`;
+}
+
 function buildTwin(enHTML, rel, head) {
   const asURL = `${BASE}/as/${rel ? rel + "/" : ""}`;
 
@@ -1122,6 +1133,20 @@ function buildTwin(enHTML, rel, head) {
      shared tables above do not cover it. Replace it with the Assamese copy
      from data/ when one exists. */
   out = translatePageDesc(out, rel);
+
+  /* Swap the inherited English switch for the Assamese-perspective one. */
+  out = out.replace(/<div class="desktop-lang-toggle"[\s\S]*?<\/div>/, langSwitchAs(rel));
+
+  /* Strings added after the twin tables were written, so they carry no
+     translation entry of their own. */
+  out = out.replace(
+    "2,640 questions &bull; Last updated 1 October 2026",
+    "2,640 \u099f\u09be \u09aa\u09cd\u09f0\u09b6\u09cd\u09a8 &bull; \u09b6\u09c7\u09b7 \u09b9\u09be\u09b2\u09a8\u09be\u0997\u09be\u09a6: \u09e7 \u0985\u0995\u09cd\u099f\u09cb\u09ac\u09f0 \u09e8\u09e6\u09e8\u09ec"
+  );
+  out = out.replace(
+    /<p class="page-note" lang="en"([^>]*)>Covers 2024\u20132025 events &middot; Last updated 1 October 2026<\/p>/,
+    `<p class="page-note" lang="as"$1>2024\u20132025 \u09ac\u09f0\u09cd\u09b7\u09f0 \u0998\u099f\u09a8\u09be\u09f1\u09b2\u09c0 &middot; \u09b6\u09c7\u09b7 \u09b9\u09be\u09b2\u09a8\u09be\u0997\u09be\u09a6: \u09e7 \u0985\u0995\u09cd\u099f\u09cb\u09ac\u09f0 \u09e8\u09e6\u09e8\u09ec<\/p>`
+  );
 
   return out;
 }
