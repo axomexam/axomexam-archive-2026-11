@@ -1952,6 +1952,16 @@
           </div>
         </div>
         <div class="feat-grid">
+          <a class="feat-card feat-new reveal" href="/exams" style="--fc:#8b5cf6">
+            <span class="feat-new-badge"><span class="fnb-dot"></span>${state.uiLang === "as" ? "নতুন" : "NEW"}</span>
+            <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg></span>
+            <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়া পৰীক্ষা-বহী" : "Free Exam Books"}</b><span>${state.uiLang === "as" ? "পৰীক্ষা-ভিত্তিক প্ৰস্তুতি" : "Exam-wise preparation"}</span></span>
+          </a>
+          <a class="feat-card feat-new reveal" href="/exam-wise-mock-test" style="--fc:#6366f1">
+            <span class="feat-new-badge"><span class="fnb-dot"></span>${state.uiLang === "as" ? "নতুন" : "NEW"}</span>
+            <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg></span>
+            <span class="feat-body"><b>${state.uiLang === "as" ? "পৰীক্ষা-ভিত্তিক মক টেষ্ট" : "Exam-wise Mock Test"}</b><span>${state.uiLang === "as" ? "অসম আৰক্ষী, ADRE, APSC আৰু TET" : "Assam Police, ADRE, APSC & TET"}</span></span>
+          </a>
           <a class="feat-card reveal" href="/categories/" style="--fc:#4f46e5">
             <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg></span>
             <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়াকৈ অনুশীলন আৰম্ভ কৰক" : "Free Practicing"}</b><span>${state.uiLang === "as" ? "বিষয়ভিত্তিক প্ৰশ্ন অনুশীলন" : "Practice Q&A by subject"}</span></span>
@@ -1963,16 +1973,6 @@
           <a class="feat-card reveal" href="/ebooks" style="--fc:#f59e0b">
             <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span>
             <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়া ই-বুক" : "Free eBooks"}</b><span>${state.uiLang === "as" ? "যিকোনো সময়ত অনলাইন পঢ়ক" : "Read online, anytime"}</span></span>
-          </a>
-          <a class="feat-card feat-new reveal" href="/exam-wise-mock-test" style="--fc:#6366f1">
-            <span class="feat-new-badge"><span class="fnb-dot"></span>${state.uiLang === "as" ? "নতুন" : "NEW"}</span>
-            <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg></span>
-            <span class="feat-body"><b>${state.uiLang === "as" ? "পৰীক্ষা-ভিত্তিক মক টেষ্ট" : "Exam-wise Mock Test"}</b><span>${state.uiLang === "as" ? "অসম আৰক্ষী, ADRE, APSC আৰু TET" : "Assam Police, ADRE, APSC & TET"}</span></span>
-          </a>
-          <a class="feat-card feat-new reveal" href="/exams" style="--fc:#8b5cf6">
-            <span class="feat-new-badge"><span class="fnb-dot"></span>${state.uiLang === "as" ? "নতুন" : "NEW"}</span>
-            <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg></span>
-            <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়া পৰীক্ষা-বহী" : "Free Exam Books"}</b><span>${state.uiLang === "as" ? "পৰীক্ষা-ভিত্তিক প্ৰস্তুতি" : "Exam-wise preparation"}</span></span>
           </a>
           <a class="feat-card reveal" href="/previous-year" style="--fc:#10b981">
             <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg></span>
@@ -1994,6 +1994,12 @@
             <span class="feat-ico feat-ico-app"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v7"/><path d="m9 7 3 3 3-3"/><path d="M4 15.5c2.5-1.3 5.5-1.3 8 0 2.5-1.3 5.5-1.3 8 0"/><path d="M4 19c2.5-1.3 5.5-1.3 8 0 2.5-1.3 5.5-1.3 8 0"/></svg></span>
             <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়া এপ ডাউনলোড কৰক" : "Download Free App"}</b><span>${state.uiLang === "as" ? "এণ্ড্ৰইড APK • v2.6" : "Android APK • v2.6"}</span></span>
           </a>
+          <a class="feat-card feat-new reveal" href="/leaderboard" style="--fc:#d97706">
+            <span class="feat-new-badge"><span class="fnb-dot"></span>${state.uiLang === "as" ? "নতুন" : "NEW"}</span>
+            <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8"/><path d="M12 17v4"/><path d="M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M7 5H4v2a3 3 0 0 0 3 3"/><path d="M17 5h3v2a3 3 0 0 1-3 3"/></svg></span>
+            <span class="feat-body"><b>${t("nav.leaderboard")}</b><span>${state.uiLang === "as" ? "সকলো বিষয়ৰ শীৰ্ষ স্ক'ৰ" : "Top scores across subjects"}</span></span>
+          </a>
+        
         </div>
         <style>
           .feat-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; }
