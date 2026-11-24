@@ -4049,3 +4049,24 @@ Numbers after the pass: explanations under six words in the English book
 2,043 -> 870; Assamese twins 2,411 -> 2,189. The remainder is numerical pages,
 which need worked solutions rather than templates, plus the Assamese-only
 general knowledge bank.
+
+### Book hub pages (commit 65e9886e)
+
+The book's 27 navigation pages carry a bilingual study guide written by
+`tools/add-book-hub-guides.js` from `tools/dhs-dme-technical.hub-guides.js`
+(section text) and `tools/dhs-dme-technical.hub-group-tips.js` (group tips).
+Question counts and topic names are read from `data/exams/dhs-dme-technical`,
+so re-running after a rebuild keeps them true.
+
+Full rebuild order for the book:
+
+    python3 tools/enrich-book-explanations.py
+    node tools/build-dhs-dme-technical.js
+    node tools/add-book-quiz-schema.js
+    node tools/add-book-hub-guides.js
+    node tools/seo-tighten-meta.js
+    # then restore the 720 unrelated AS pages the twin pass strips (see above)
+
+Hub word counts after the pass: thinnest 507 (was 306), arithmetic 690,
+technical-science 1,062. Still open: the numerical pages' explanations, which
+need worked solutions, and the 38 question texts repeated across two pages.
