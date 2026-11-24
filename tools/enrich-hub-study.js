@@ -803,6 +803,7 @@ function currentAffairsBlock() {
     const dir = path.join(DATA, "current-affairs", c.id);
     let qs = 0;
     let files = 0;
+    let lastUp = "";
     let es = [];
     try {
       es = fs.readdirSync(dir);
@@ -813,18 +814,33 @@ function currentAffairsBlock() {
       if (!/^question-\d+\.json$/.test(n)) continue;
       files++;
       const j = readJSON(path.join(dir, n));
-      if (Array.isArray(j)) qs += j.length;
+      if (Array.isArray(j)) {
+        qs += j.length;
+        for (const it of j) {
+          const u = it && it.uploadedAt;
+          if (typeof u === "string" && u > lastUp) lastUp = u;
+        }
+      }
     }
-    return { c, qs, files };
+    return { c, qs, files, lastUp };
   });
 
   const totalQ = rows.reduce((a, r) => a + r.qs, 0);
   const nameOf = (c) => lang(c.title, "en") || lang(c.name, "en") || c.id.replace(/-/g, " ");
 
+  const lastUpRaw = rows.reduce((a, r) => (r.lastUp > a ? r.lastUp : a), "");
+  const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  const fmtDate = (iso) => {
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(iso)) return "";
+    const [y, m, d] = iso.split("-").map(Number);
+    return `${d} ${MONTHS[m - 1]} ${y}`;
+  };
+  const lastUpd = fmtDate(lastUpRaw);
+
   let out = "";
   out += H2(`Current affairs for Assam competitive exams`);
   out += bi(
-    `axomexam keeps a rolling current affairs section for ADRE, Assam Police, APSC, SSC and Railway papers, covering ${cats.length} areas and ${num(totalQ)} questions in all. Each item is bilingual, dated, and written the way it is asked in the exam rather than as a news summary.`,
+    `axomexam keeps a question bank of current affairs for ADRE, Assam Police, APSC, SSC and Railway papers: ${cats.length} areas and ${num(totalQ)} questions in all. The bank is a study archive of exam-relevant events rather than a daily news feed. Each item is bilingual and written the way it is asked in the exam rather than as a news summary.${lastUpd ? ` Last updated ${lastUpd}.` : ""}`,
     ""
   );
   /* The first two intros give the page its own subject-specific prose. */

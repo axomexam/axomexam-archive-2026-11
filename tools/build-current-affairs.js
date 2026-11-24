@@ -317,6 +317,14 @@ function write(rel, content) {
   return rel;
 }
 
+/* The sample question and the category manifest are scaffolding. Real
+   question-001.json files hold hundreds of questions each, so overwriting
+   one silently destroys the whole category. Only create when absent. */
+function writeNew(rel, content) {
+  if (fs.existsSync(path.join(ROOT, rel))) return null;
+  return write(rel, content);
+}
+
 /* Inline SVG icons for the category cards (24x24, stroke-based). */
 const ICONS = {
   trophy: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8"/><path d="M12 17v4"/><path d="M7 4h10v6a5 5 0 0 1-10 0z"/><path d="M7 6H4v2a3 3 0 0 0 3 3"/><path d="M17 6h3v2a3 3 0 0 1-3 3"/></svg>',
@@ -345,7 +353,7 @@ function shellPage({ cat, catHref, cardsHtml }) {
   const titleEn = cat ? cat.title.en : "Free Current Affairs";
   const titleAs = cat ? cat.title.as : "বিনামূলীয়া চলিত ঘটনাৱলী";
   const heading = cat ? `${titleEn} — Free Current Affairs | axomexam` : "Free Current Affairs Questions & Answers | axomexam";
-  const descEn = cat ? cat.intro.en : "Free bilingual current affairs Q&A for Assam competitive exams — sports, awards, appointments, economy, environment and more. Updated by the axomexam team.";
+  const descEn = cat ? cat.intro.en : "Free bilingual current affairs Q&A for Assam competitive exams — sports, awards, appointments, economy, environment and more. A study archive of exam-relevant events rather than a daily news feed. Last updated 1 October 2026.";
   const descAs = cat ? cat.intro.as : "অসমৰ প্ৰতিযোগিতামূলক পৰীক্ষাৰ বাবে বিনামূলীয়া দ্বিভাষিক চলিত ঘটনাৱলীৰ প্ৰশ্ন-উত্তৰ — ক্ৰীড়া, বঁটা, নিযুক্তি, অৰ্থনীতি, পৰিৱেশ আৰু অধিক।";
   const canonical = BASE + catHref + "/";
   const crumb = cat
@@ -576,7 +584,7 @@ function main() {
       intro: c.intro,
     })),
   };
-  created.push(write(`${DIR}/index.json`, JSON.stringify(index, null, 2) + "\n"));
+  created.push(writeNew(`${DIR}/index.json`, JSON.stringify(index, null, 2) + "\n"));
 
   /* 2. Per-category data + sample question + static page */
   CATEGORIES.forEach((c) => {
@@ -590,7 +598,7 @@ function main() {
       uploadedBy: UPLOADED_BY,
       files: [SAMPLE_FILE],
     };
-    created.push(write(`${DIR}/${c.id}/index.json`, JSON.stringify(catMeta, null, 2) + "\n"));
+    created.push(writeNew(`${DIR}/${c.id}/index.json`, JSON.stringify(catMeta, null, 2) + "\n"));
 
     const question = {
       id: `${c.id}-001`,
@@ -604,7 +612,7 @@ function main() {
       uploadedAt: UPDATED,
       uploadedBy: UPLOADED_BY,
     };
-    created.push(write(`${DIR}/${c.id}/${SAMPLE_FILE}`, JSON.stringify(question, null, 2) + "\n"));
+    created.push(writeNew(`${DIR}/${c.id}/${SAMPLE_FILE}`, JSON.stringify(question, null, 2) + "\n"));
 
     created.push(write(`current-affairs/${c.id}/index.html`, shellPage({
       cat: c,
@@ -623,7 +631,7 @@ function main() {
   const urls = ["/current-affairs"].concat(CATEGORIES.map((c) => `/current-affairs/${c.id}`));
   updateSitemap(urls);
 
-  console.log(`Current affairs files written: ${created.length}`);
+  console.log(`Current affairs files written: ${created.filter(Boolean).length}`);
   console.log(`Categories: ${CATEGORIES.length}`);
   console.log(`Sitemap URLs added: ${urls.length}`);
 }
