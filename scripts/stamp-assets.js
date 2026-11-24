@@ -43,6 +43,7 @@ const ASSETS = [
   "js/leaderboard.js",
   "js/leaderboard-ui.js",
   "js/push.js",
+  "js/install.js",
   "js/push-config.js",
   "js/copy-guard.js",
 ];
