@@ -12,16 +12,18 @@
    tools/dhs-dme-technical.hub-guides.js.
 
    Idempotent: an existing guide block is replaced, not duplicated.
-   Usage: node tools/add-book-hub-guides.js [--check]
+   Usage: node tools/add-book-hub-guides.js [--book=<slug>] [--check]
+   (default slug: dhs-dme-technical; guides come from tools/<slug>.hub-guides.js)
    ============================================================ */
 
 const fs = require("fs");
 const path = require("path");
-const { SECTION, GROUP, ROOT } = require("./dhs-dme-technical.hub-guides");
+const BOOK = (process.argv.find((a) => a.startsWith("--book=")) || "--book=dhs-dme-technical").split("=")[1];
+const { SECTION, GROUP, ROOT } = require(`./${BOOK}.hub-guides`);
 
 const ROOT_DIR = path.resolve(__dirname, "..");
-const BOOK_DIRS = ["exams/dhs-dme-technical", "as/exams/dhs-dme-technical"];
-const DATA_DIR = path.join(ROOT_DIR, "data/exams/dhs-dme-technical");
+const BOOK_DIRS = [`exams/${BOOK}`, `as/exams/${BOOK}`];
+const DATA_DIR = path.join(ROOT_DIR, `data/exams/${BOOK}`);
 const CHECK = process.argv.includes("--check");
 const MARK = 'id="axo-hub-guide"';
 
@@ -62,38 +64,44 @@ function topicsOn(html) {
   return out;
 }
 
-function whereMarksEn(topics, counts, total) {
+function whereMarksEn(topics, counts, total, showCounts = true) {
   if (!topics.length) return "";
-  const withCounts = topics.map(([leaf, en]) => [en, counts[leaf] || 0]).sort((a, b) => b[1] - a[1]);
-  const heavy = withCounts.slice(0, 3).filter(([, n]) => n > 0);
-  const light = withCounts.slice(-2).filter(([, n]) => n > 0);
+  const ranked = topics.map(([leaf, en]) => [en, counts[leaf] || 0]).sort((a, b) => b[1] - a[1]);
+  const heavy = ranked.slice(0, 3).filter(([, n]) => n > 0);
+  const heavyNames = new Set(heavy.map(([name]) => name));
+  const light = ranked.filter(([name, n]) => n > 0 && !heavyNames.has(name)).slice(-2);
   if (!heavy.length) return "";
   const list = heavy.map(([name, n]) => `${name} (${n})`).join(", ");
-  const tail = light.length && light[0][0] !== heavy[0][0]
+  const tail = light.length
     ? ` The shortest topics — ${light.map(([name, n]) => `${name} (${n})`).join(" and ")} — finish quickly on revision days.`
     : "";
-  return `This page holds ${topics.length} topics and ${total.toLocaleString("en-IN")} questions. ` +
-    `The heaviest are ${list}; start with those, because they also carry the most repeated question types.${tail}`;
+  const lead = showCounts
+    ? `This page holds ${topics.length} topics and ${total.toLocaleString("en-IN")} questions. `
+    : "";
+  return `${lead}The heaviest are ${list}; start with those, because they also carry the most repeated question types.${tail}`;
 }
 
-function whereMarksAs(topics, counts, total) {
+function whereMarksAs(topics, counts, total, showCounts = true) {
   if (!topics.length) return "";
-  const withCounts = topics.map(([leaf, , as]) => [as, counts[leaf] || 0]).sort((a, b) => b[1] - a[1]);
-  const heavy = withCounts.slice(0, 3).filter(([, n]) => n > 0);
-  const light = withCounts.slice(-2).filter(([, n]) => n > 0);
+  const ranked = topics.map(([leaf, , as]) => [as, counts[leaf] || 0]).sort((a, b) => b[1] - a[1]);
+  const heavy = ranked.slice(0, 3).filter(([, n]) => n > 0);
+  const heavyNames = new Set(heavy.map(([name]) => name));
+  const light = ranked.filter(([name, n]) => n > 0 && !heavyNames.has(name)).slice(-2);
   if (!heavy.length) return "";
   const list = heavy.map(([name, n]) => `${name} (${n})`).join(", ");
-  const tail = light.length && light[0][0] !== heavy[0][0]
+  const tail = light.length
     ? ` আটাইতকৈ চুটি বিষয়বোৰ — ${light.map(([name, n]) => `${name} (${n})`).join(" আৰু ")} — পুনৰাবৃত্তিৰ দিনত সোনকালে শেষ হয়।`
     : "";
-  return `এই পৃষ্ঠাত ${topics.length} টা বিষয় আৰু ${total.toLocaleString("en-IN")} টা প্ৰশ্ন আছে। ` +
-    `আটাইতকৈ ডাঙৰবোৰ — ${list} — ইয়াৰপৰা আৰম্ভ কৰা, কাৰণ ইয়াতেই সৰ্বাধিক পুনৰাবৃত্তি হোৱা প্ৰশ্ন আহে।${tail}`;
+  const leadAs = showCounts
+    ? `এই পৃষ্ঠাত ${topics.length} টা বিষয় আৰু ${total.toLocaleString("en-IN")} টা প্ৰশ্ন আছে। `
+    : "";
+  return `${leadAs}আটাইতকৈ ডাঙৰবোৰ — ${list} — ইয়াৰপৰা আৰম্ভ কৰা, কাৰণ ইয়াতেই সৰ্বাধিক পুনৰাবৃত্তি হোৱা প্ৰশ্ন আহে।${tail}`;
 }
 
 /* Published totals, counted from the rendered pages themselves so the guide
    text can never drift from the number in the hero. */
 function publishedTotals() {
-  const base = path.join(ROOT_DIR, "exams/dhs-dme-technical");
+  const base = path.join(ROOT_DIR, `exams/${BOOK}`);
   let topics = 0;
   let questions = 0;
   const stack = [base];
@@ -122,8 +130,9 @@ function block({ title, titleAs, guide, topics, counts, route }) {
     .replace("{questions}", digits ? asDigits(book.questions.toLocaleString("en-IN")) : book.questions.toLocaleString("en-IN"));
   const introEn = fill(guide.intro[0], false);
   const introAs = fill(guide.intro[1], true);
-  const marksEn = whereMarksEn(topics, counts, total);
-  const marksAs = whereMarksAs(topics, counts, total);
+  const showCounts = guide.counts !== false;
+  const marksEn = whereMarksEn(topics, counts, total, showCounts);
+  const marksAs = whereMarksAs(topics, counts, total, showCounts);
   const tips = guide.tips || [];
   const mistakes = guide.mistakes || [];
   const panel = "background:var(--bg,#ffffff); border:1px solid var(--border,#e2e8f0); border-radius:18px; padding:28px 24px; line-height:1.8; color:var(--ink-soft,#475569); max-width:900px; margin:18px auto 0; text-align:left;";
