@@ -1025,7 +1025,7 @@ function assameseOnly(html, head, rel) {
   html = html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g, (m, json) => {
     try {
       const data = JSON.parse(json);
-      const keepEnglish = new Set(["BreadcrumbList", "Organization", "WebSite", "SearchAction", "ListItem"]);
+      const keepEnglish = new Set(["BreadcrumbList", "Organization", "WebSite", "SearchAction", "ListItem", "Person"]);
       const visit = (node) => {
         if (Array.isArray(node)) return node.forEach(visit);
         if (!node || typeof node !== "object") return;

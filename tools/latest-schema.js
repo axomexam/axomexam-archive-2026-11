@@ -61,6 +61,11 @@ const EMPLOYEES = [
   worksFor: { "@id": ORG_ID },
 }));
 
+/* Pages that speak for the organisation rather than a named author: home,
+   the company pages and the tool pages. Every other page carries the founder
+   as author, so a reviewer can see who is accountable for it. */
+const INSTITUTIONAL_ROUTE = /^\/(as\/)?(about|contact|editorial-team|editorial-policy|privacy|privacy-policy|disclaimer|submit|search)$/;
+
 const SKIP_DIRS = new Set([".git", "dist", "js", "css", "data", "tools", "node_modules", "images", "app"]);
 
 /* ---------------- helpers ---------------- */
@@ -301,13 +306,19 @@ function subjectFromBreadcrumb(bc) {
 
 /* ---------------- graph builders ---------------- */
 
+/* The /as/ twin is Assamese-primary: build-as-twins rewrites inLanguage to
+   ["as"], and this keeps that true when the graph is rebuilt here. */
+function langsFor(url) {
+  return /^\/as(\/|$)/.test(String(url).replace(BASE, "")) ? ["as"] : ["en", "as"];
+}
+
 function pageNode({ url, type, title, description, image, mainId, breadcrumbId, updated }) {
   const node = {
     "@type": type,
     "@id": url + "#webpage",
     url: url,
     name: title,
-    inLanguage: ["en", "as"],
+    inLanguage: langsFor(url),
     isPartOf: { "@id": SITE_ID },
     publisher: { "@id": ORG_ID },
   };
@@ -411,7 +422,8 @@ function quizNode(url, title, description, subject, cards) {
     description: description || undefined,
     about: subject ? { "@type": "Thing", name: subject } : undefined,
     educationalAlignment: alignment,
-    inLanguage: ["en", "as"],
+    inLanguage: langsFor(url),
+    author: { "@id": FOUNDER_ID },
     hasPart: cards.map((c) => ({
       "@type": "Question",
       eduQuestionType: "Flashcard",
@@ -431,8 +443,9 @@ function learningResourceNode(url, title, description, subject, lrType, updated)
     educationalLevel: "Competitive exams",
     teaches: subject || undefined,
     about: subject ? { "@type": "Thing", name: subject } : undefined,
-    inLanguage: ["en", "as"],
+    inLanguage: langsFor(url),
     isPartOf: { "@id": SITE_ID },
+    author: { "@id": FOUNDER_ID },
     publisher: { "@id": ORG_ID },
     dateModified: updated || undefined,
   };
@@ -444,9 +457,9 @@ function bookNode(url, title, description, image, updated) {
     "@id": url + "#book",
     name: title,
     description: description || undefined,
-    inLanguage: ["en", "as"],
+    inLanguage: langsFor(url),
     bookFormat: "https://schema.org/EBook",
-    author: { "@type": "Organization", name: "axomexam Study Team" },
+    author: { "@id": FOUNDER_ID },
     publisher: { "@id": ORG_ID },
     url: url,
     image: image || undefined,
@@ -462,11 +475,11 @@ function articleNode(url, title, description, image, updated) {
     headline: truncate(title, 110),
     name: title,
     description: description || undefined,
-    inLanguage: ["en", "as"],
+    inLanguage: langsFor(url),
     isPartOf: { "@id": SITE_ID },
     mainEntityOfPage: { "@id": url + "#webpage" },
     publisher: { "@id": ORG_ID },
-    author: { "@type": "Organization", name: "axomexam Study Team", url: BASE + "/about/" },
+    author: { "@id": FOUNDER_ID },
     image: image ? { "@type": "ImageObject", url: image } : undefined,
     datePublished: date || undefined,
     dateModified: date || undefined,
@@ -576,7 +589,15 @@ function buildGraph(html, rel) {
     if (existingTypes.includes("AboutPage")) pageType = "AboutPage";
     if (existingTypes.includes("ContactPage")) pageType = "ContactPage";
 
-    graph.unshift(pageNode({ url, type: pageType, title, description, image, mainId, breadcrumbId, updated }));
+    const wpNode = pageNode({ url, type: pageType, title, description, image, mainId, breadcrumbId, updated });
+    if (!INSTITUTIONAL_ROUTE.test(route) && kind !== "app") {
+      wpNode.author = { "@id": FOUNDER_ID };
+      /* Declare the author on the page that references it. A bare @id
+         reference that no node in the document defines leaves the entity
+         unresolved, which is worse than no author at all. */
+      graph.push(FOUNDER);
+    }
+    graph.unshift(wpNode);
     if (bc.length) graph.push(breadcrumbNode(url, bc));
     /* The editorial team page is the profile page the founder's @id points at,
        so the Person entity is declared here and not only on the home page.

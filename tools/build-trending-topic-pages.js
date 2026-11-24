@@ -298,7 +298,7 @@ function jsonld(topic, qs, url, title, desc, dates, lang) {
       datePublished: dates.pub,
       dateModified: dates.mod,
       isAccessibleForFree: true,
-      author: { "@id": `${BASE}/#organization` },
+      author: { "@id": `${BASE}/editorial-team/#bapon-barmon` },
       publisher: { "@id": `${BASE}/#organization` },
     },
     {
