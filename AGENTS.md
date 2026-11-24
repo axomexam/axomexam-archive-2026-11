@@ -4019,3 +4019,33 @@ Audit findings worth keeping:
   352 pages that have questions; run it again after any book rebuild.
 - Never leave the generator output uncommitted: `python3 tools/gen-nv-*.py`
   rewrites `tools/legacy-banks/.../question-001.json` and reorders blocks.
+
+### Book explanations and the build pipeline (commit d2494a6f)
+
+`tools/enrich-book-explanations.py` rewrites the book's one-line explanations
+from evidence already on the page (letter diff for spelling, distractor glosses
+for synonyms, a usage table for homophones, the blank's sentence for cloze and
+grammar, the passage sentence for comprehension). It writes to
+`tools/legacy-banks/dhs-dme-technical` **and** `data/exams/dhs-dme-technical`,
+because the build regenerates the data files from the banks.
+
+Rebuild order that works:
+
+    python3 tools/enrich-book-explanations.py
+    node tools/build-dhs-dme-technical.js
+    node tools/add-book-quiz-schema.js      # the build drops the Quiz node
+    node tools/seo-tighten-meta.js          # restores the short-title rules
+
+`build-dhs-dme-technical.js` also rebuilds the Assamese twins, and that twin
+pass strips the "related topics" panel from about 720 unrelated pages
+(`as/topic`, `as/mock-test`, `as/exams`, `as/category`). Restore them after a
+build:
+
+    git status --porcelain | awk '{print $2}' \
+      | grep -v -E '^(exams/dhs-dme-technical|as/exams/dhs-dme-technical|data/exams/dhs-dme-technical|tools/legacy-banks)' \
+      | xargs git checkout --
+
+Numbers after the pass: explanations under six words in the English book
+2,043 -> 870; Assamese twins 2,411 -> 2,189. The remainder is numerical pages,
+which need worked solutions rather than templates, plus the Assamese-only
+general knowledge bank.
