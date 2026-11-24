@@ -14,7 +14,7 @@
 
    The pill is offered to every visitor who has not installed the app
    yet, whether or not the browser fires `beforeinstallprompt`; a
-   dismissal silences it for three days. Hidden while a quiz or a
+   dismissal silences it for a day, so it returns the next day. Hidden while a quiz or a
    dialog is on screen.
    =========================================================== */
 (function () {
@@ -22,13 +22,13 @@
 
   const LANG_KEY = "axomexam-ui-lang";
   const STATE_KEY = "axomexam-install";
-  const QUIET_MS = 3 * 24 * 60 * 60 * 1000;
+  const QUIET_MS = 24 * 60 * 60 * 1000;
   const SHOW_DELAY_MS = 3500;
   const IOS_DELAY_MS = 6000;
 
   const TEXT = {
     title: { en: "Install the app", as: "এপ ইনস্টল কৰক" },
-    body: { en: "Free, one tap, no store needed.", as: "বিনামূলীয়া, এটা টেপ, ষ্টোৰ নালাগে।" },
+    body: { en: "Free, no store needed.", as: "বিনামূলীয়া, ষ্টোৰ নালাগে।" },
     action: { en: "Install", as: "ইনস্টল" },
     close: { en: "Close", as: "বন্ধ কৰক" },
     iosTitle: { en: "Add to Home Screen", as: "হোম স্ক্ৰীনত যোগ কৰক" },

@@ -9645,7 +9645,6 @@
     document.body.setAttribute("data-ui-lang", state.uiLang);
     applyStaticI18n();
     initNotifications();
-    initAppPrompt();
     initWhatsappChat();
 
     /* Fetch boot data in parallel (was sequential) to shorten time-to-render. */
@@ -10140,78 +10139,6 @@
     renderNotifications();
     loadNotifFeed();
 
-  }
-
-  /* ================= Mobile App Download Prompt ================= */
-  const APP_PROMPT_DONE_KEY = "axomexam-app-prompt-done";
-  let appPromptDismissed = false;
-
-  function appPromptDone() {
-    try { return localStorage.getItem(APP_PROMPT_DONE_KEY) === "1"; } catch (e) { return false; }
-  }
-
-  function dismissAppPrompt() {
-    appPromptDismissed = true;
-    const el = document.getElementById("app-prompt");
-    if (!el) return;
-    el.classList.remove("show");
-    window.setTimeout(() => { if (el) el.hidden = true; }, 300);
-  }
-
-  function markAppPromptDone() {
-    try { localStorage.setItem(APP_PROMPT_DONE_KEY, "1"); } catch (e) { }
-    dismissAppPrompt();
-  }
-
-  /* The axomexam Android app is a WebView wrapper, so the promo popup must
-     never appear inside it. Detect the app via a JS bridge (if the app exposes
-     one), a custom "axomexam" user-agent, or the standard Android WebView "wv" marker. */
-  function isInAxomexamApp() {
-    try {
-      if (window.axomexamApp || window.__AXOMEXAM_APP__ || window.AxomexamApp) return true;
-      const ua = (navigator.userAgent || "").toLowerCase();
-      if (ua.indexOf("axomexam") !== -1) return true;
-      if (/(^|[;( ])wv([; )]|$)/.test(ua)) return true;
-    } catch (e) { }
-    return false;
-  }
-
-  function initAppPrompt() {
-    if (isInAxomexamApp()) return;
-    if (window.matchMedia && !window.matchMedia("(max-width: 900px)").matches) return;
-    if (appPromptDone()) return;
-
-    const el = document.createElement("div");
-    el.id = "app-prompt";
-    el.className = "app-prompt";
-    el.hidden = true;
-    el.innerHTML = `
-      <a class="app-prompt-link" href="/download-app">
-        <img class="app-prompt-icon" src="/app/axomexam-icon.png" alt="" width="40" height="40" />
-        <span class="app-prompt-text">
-          <b>${escapeHtml(t("appPrompt.title"))}</b>
-          <span>${escapeHtml(t("appPrompt.msg"))}</span>
-        </span>
-      </a>
-      <button class="app-prompt-close" type="button" aria-label="${escapeHtml(t("appPrompt.close"))}" title="${escapeHtml(t("appPrompt.close"))}">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
-      </button>`;
-    document.body.appendChild(el);
-
-    el.querySelector(".app-prompt-close").addEventListener("click", (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      dismissAppPrompt();
-    });
-    el.querySelector(".app-prompt-link").addEventListener("click", () => {
-      dismissAppPrompt();
-    });
-
-    window.setTimeout(() => {
-      if (appPromptDismissed || appPromptDone()) return;
-      el.hidden = false;
-      el.classList.add("show");
-    }, 5000);
   }
 
   function initTheme() {
