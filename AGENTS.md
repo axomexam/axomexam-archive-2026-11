@@ -1597,6 +1597,12 @@ If a topic ever has more than one `question-*.json`, run
 `node tools/consolidate-exam-question-files.js --book <id>` (add `--check` to
 report without writing).
 
+**A `question-*.json` file must be a JSON array.** One bare object (no
+enclosing `[ ]`) is skipped in silence by `inject-static-questions.js`, so the
+question never reaches the page and the topic quietly renders one item short.
+`figure-series` shipped like that (44 of 45). Check with
+`node tools/inject-static-questions.js --check` after touching a bank.
+
 **The six `assam-police/logical-reasoning/<topic>/` pages are redirect stubs,
 not missing twins.** `analogy`, `blood-relations`, `direction-distance`,
 `number-alphabet-series`, `odd-one-out` and `venn-diagrams` exist twice: a
