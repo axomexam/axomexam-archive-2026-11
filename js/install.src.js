@@ -55,6 +55,8 @@
   let sheet = null;
 
   function lang() {
+    const page = (document.documentElement.lang || "").slice(0, 2).toLowerCase();
+    if (page === "as" || page === "en") return page;
     try {
       return localStorage.getItem(LANG_KEY) === "as" ? "as" : "en";
     } catch (e) {
