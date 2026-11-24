@@ -48,6 +48,15 @@ const ASSETS = [
   "js/copy-guard.js",
 ];
 
+/* Precached images: no ?v= stamping, but a new file still has to rebuild the
+   service worker cache or installed readers keep the old artwork. */
+const PRECACHED_IMAGES = [
+  "android-chrome-192x192.png",
+  "android-chrome-512x512.png",
+  "apple-touch-icon.png",
+  "notification-badge.png",
+];
+
 const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
 function shortHash(buf) {
@@ -74,8 +83,12 @@ function main() {
 
   /* One combined hash so the service worker rebuilds its cache only when at
      least one precached asset changed. */
+  const imageHashes = PRECACHED_IMAGES.map((rel) => {
+    const file = path.join(ROOT, rel);
+    return fs.existsSync(file) ? shortHash(fs.readFileSync(file)) : "";
+  });
   const cacheVersion = shortHash(
-    Buffer.from(ASSETS.map((rel) => versions[rel]).join(":"))
+    Buffer.from(ASSETS.map((rel) => versions[rel]).concat(imageHashes).join(":"))
   );
 
   const drift = [];
