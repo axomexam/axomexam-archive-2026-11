@@ -94,6 +94,15 @@
     );
   }
 
+  /* The Android APK is a WebView shell around this site and marks its own page:
+     an axo-app class on the root, an axo-banner block it injects, or a bridge
+     object. Anyone inside it already has the app, so the prompt is noise. */
+  function inShellApp() {
+    if (document.documentElement.classList.contains("axo-app")) return true;
+    if (window.AxomexamApp || typeof window.axoAppChrome === "function") return true;
+    return !!document.getElementById("axo-banner");
+  }
+
   function isIos() {
     const ua = navigator.userAgent || "";
     if (/iPad|iPhone|iPod/.test(ua)) return true;
@@ -111,7 +120,7 @@
   }
 
   function canShow() {
-    if (isStandalone()) return false;
+    if (isStandalone() || inShellApp()) return false;
     const state = readState();
     if (state.installedAt) return false;
     if (state.dismissedAt && Date.now() - state.dismissedAt < QUIET_MS) return false;
