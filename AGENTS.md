@@ -3977,3 +3977,23 @@ clean tree changes nothing.
 Note: `git checkout --` on a page drops its `<!-- axo-deep*:1 -->` markers, so
 a later tool run will re-insert its sections. Revert only when you intend to
 re-run that pass.
+
+### Last eleven short topic pages cleared (commit af1798b4)
+
+All eleven topic pages that were still under 1300 extra words now sit at
+1300-1402: ancient-assam, medieval-assam, modern-assam, bihu-festival,
+brahmaputra-river, national-parks, solar-system, human-body, ancient-india,
+medieval-india, freedom-struggle. Tools: seo-deepen-topics2.js, -2b, -2c,
+seo-deepen-topics3.js, -3b, -3c, -3d (all idempotent, markers axo-deep2*:1 /
+axo-deep3*:1).
+
+Remaining short pages (trending and mock-test excluded): 418.
+  EN 50  - previous-year 33, current-affairs 15, syllabus 2 (no topic pages left)
+  AS 368 - topic 208, exams 112, previous-year 33, current-affairs 15
+
+The /as/ twins of the eleven pages above got the Assamese sections but their
+own articles were nearly empty (215-646 words), so they remain in the AS batch.
+
+Note: sections are written by hand per topic, so word counts per section vary
+by about 25 per cent from the estimate. Budget a top-up pass whenever a page
+lands within 150 words of the floor.
