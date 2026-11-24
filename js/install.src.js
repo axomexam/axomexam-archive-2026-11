@@ -12,15 +12,15 @@
        Share -> Add to Home Screen.
      - Anything else -> stay out of the way.
 
-   Shown at most once a week, and never again for a week after a
-   dismissal. Hidden while a quiz or a dialog is on screen.
+   Shown at most once every three days, and never again for three
+   days after a dismissal. Hidden while a quiz or a dialog is on screen.
    =========================================================== */
 (function () {
   "use strict";
 
   const LANG_KEY = "axomexam-ui-lang";
   const STATE_KEY = "axomexam-install";
-  const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+  const QUIET_MS = 3 * 24 * 60 * 60 * 1000;
   const SHOW_DELAY_MS = 3500;
   const IOS_DELAY_MS = 6000;
 
@@ -108,8 +108,8 @@
     if (isStandalone()) return false;
     const state = readState();
     if (state.installedAt) return false;
-    if (state.dismissedAt && Date.now() - state.dismissedAt < WEEK_MS) return false;
-    if (state.shownAt && Date.now() - state.shownAt < WEEK_MS) return false;
+    if (state.dismissedAt && Date.now() - state.dismissedAt < QUIET_MS) return false;
+    if (state.shownAt && Date.now() - state.shownAt < QUIET_MS) return false;
     return true;
   }
 
