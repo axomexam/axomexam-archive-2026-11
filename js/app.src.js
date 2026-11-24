@@ -5574,15 +5574,13 @@
       bookFactHTML(tc("book.updated"), escapeHtml(ebkLang(book.updated, lang))),
     ].join("");
     return `
-      <section class="section" data-axo-book-details="1" style="padding-top:0; padding-bottom:8px;">
-        <div class="info-panel" style="margin:0 0 8px; padding:20px 22px; border-radius:18px;${panelFont}">
-          <h2 style="margin:0 0 2px; font-size:1.15rem; color:var(--ink,#0f172a);">${escapeHtml(tc("book.title"))}</h2>
-          <p style="margin:0 0 16px; font-size:.84rem; color:var(--ink-muted,#64748b);${kickerFont}">${escapeHtml(tc("book.kicker"))}</p>
-          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:14px 20px;">${facts}
+        <div data-axo-book-details="1" style="flex:1 1 100%; width:100%; margin-top:6px; padding-top:16px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${panelFont}">
+          <h2 style="margin:0 0 2px; font-size:1.05rem; color:var(--ink,#0f172a);">${escapeHtml(tc("book.title"))}</h2>
+          <p style="margin:0 0 14px; font-size:.8rem; color:var(--ink-muted,#64748b);${kickerFont}">${escapeHtml(tc("book.kicker"))}</p>
+          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:12px 18px;">${facts}
           </div>
-          <p style="margin:16px 0 0; padding-top:14px; border-top:1px solid var(--border,#e2e8f0); font-size:.76rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${escapeHtml(tcf("book.note", { authority }))}</p>
-        </div>
-      </section>`;
+          <p style="margin:14px 0 0; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); font-size:.74rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${escapeHtml(tcf("book.note", { authority }))}</p>
+        </div>`;
   }
 
   async function hydrateExamBookDetails(scope, exam) {
@@ -5778,7 +5776,7 @@
       ? `<div class="page-head">
           <nav class="breadcrumb">${crumbHTML}</nav>
         </div>
-        <section class="exam-cover-hero" style="--ebk:${color}">
+        <section class="exam-cover-hero" style="--ebk:${color}; flex-wrap:wrap;">
           <div class="exam-cover-hero-media">
             <img src="${escapeHtml(cover)}" alt="${escapeHtml(examCoverAlt(exam, state.lang))}" width="912" height="1166" loading="eager" decoding="async">
           </div>
@@ -5786,17 +5784,16 @@
             <h1>${titleHTML}</h1>
             <p class="page-desc">${descHTML}</p>
             <p class="exam-book-total" hidden></p>
-          </div>
+          </div>${examBookDetailsHTML(exam)}
         </section>`
       : `<div class="page-head">
           <nav class="breadcrumb">${crumbHTML}</nav>
           <h1>${titleHTML}</h1>
           <p class="page-desc">${descHTML}</p>
-          <p class="exam-book-total" hidden></p>
+          <p class="exam-book-total" hidden></p>${examBookDetailsHTML(exam)}
         </div>`;
     main.innerHTML = `
       ${headHTML}
-      ${examBookDetailsHTML(exam)}
       <section class="section" style="padding-bottom:46px;">
         <div class="sub-grid exam-sec-grid" style="--cat:${color}">
           ${sections.map((sec, i) => examSectionCardHTML(exam, sec, i)).join("")}

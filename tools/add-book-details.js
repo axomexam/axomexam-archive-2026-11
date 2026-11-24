@@ -83,12 +83,14 @@ const LABELS = {
 
 const MARK_RE =
   /\n?[ \t]*<!-- axo-book-details:start -->[\s\S]*?<!-- axo-book-details:end -->\n?/;
-/* The subject-cards section, in either of the two shapes the book builders
-   emit: with data-exam-subcats, or the plain 46px-padded grid. */
-const ANCHOR_RES = [
-  /(\n[ \t]*<section class="section" data-exam-subcats)/,
-  /(\n[ \t]*<section class="section" style="padding-bottom:46px;">)/,
-];
+/* The card lives inside the book hero, so the anchor is that block's own
+   closing tag; pages built without a cover hero keep it inside .page-head,
+   right under the total-question line. */
+const HERO_RE = /<section class="exam-cover-hero"([^>]*)>/;
+const HERO_END_RE = /\n[ \t]*<\/section>/;
+const TOTAL_RE = /<p class="exam-book-total"[^>]*>[^<]*<\/p>/;
+/* The hero's "What you will prepare" label is replaced by the card itself. */
+const CHOOSE_RE = /\n[ \t]*<p class="exams-choose">[^<]*<\/p>/;
 
 const ENT = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" };
 const esc = (s) => String(s == null ? "" : s).replace(/[&<>"]/g, (c) => ENT[c]);
@@ -160,31 +162,43 @@ function block({ id, lang, exam, stats, questions }) {
   const panelFont = lang === "as" ? AS_FONT : "";
   const kickerFont = lang === "as" ? "" : AS_FONT;
 
-  return `    <!-- axo-book-details:start -->
-    <section class="section" data-axo-book-details="1" style="padding-top:0; padding-bottom:8px;">
-      <div class="info-panel" style="margin:0 0 8px; padding:20px 22px; border-radius:18px;${panelFont}">
-        <h2 style="margin:0 0 2px; font-size:1.15rem; color:var(--ink,#0f172a);">${L.heading}</h2>
-        <p style="margin:0 0 16px; font-size:.84rem; color:var(--ink-muted,#64748b);${kickerFont}">${L.kicker}</p>
-        <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:14px 20px;">
+  return `      <!-- axo-book-details:start -->
+      <div data-axo-book-details="1" style="flex:1 1 100%; width:100%; margin-top:6px; padding-top:16px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${panelFont}">
+        <h2 style="margin:0 0 2px; font-size:1.05rem; color:var(--ink,#0f172a);">${L.heading}</h2>
+        <p style="margin:0 0 14px; font-size:.8rem; color:var(--ink-muted,#64748b);${kickerFont}">${L.kicker}</p>
+        <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:12px 18px;">
 ${rows.join("\n")}
         </div>
-        <p style="margin:16px 0 0; padding-top:14px; border-top:1px solid var(--border,#e2e8f0); font-size:.76rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
+        <p style="margin:14px 0 0; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); font-size:.74rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
       </div>
-    </section>
-    <!-- axo-book-details:end -->`;
+      <!-- axo-book-details:end -->`;
 }
 
 function apply(file, html, lang, exam, stats, questions) {
   const card = `\n${block({ id: exam.id, lang, exam, stats, questions })}\n`;
-  const stripped = html.replace(MARK_RE, "");
+  let stripped = html.replace(MARK_RE, "").replace(CHOOSE_RE, "");
 
-  let anchor = null;
-  for (const re of ANCHOR_RES) {
-    const m = stripped.match(re);
-    if (m && (!anchor || m.index < anchor.index)) anchor = m;
+  const hero = stripped.match(HERO_RE);
+  let at = -1;
+
+  if (hero) {
+    /* The hero is a flex row; the details row has to wrap under the cover. */
+    if (!/flex-wrap/.test(hero[1])) {
+      const tag = hero[1].includes("style=")
+        ? hero[0].replace(/style="([^"]*)"/, 'style="$1; flex-wrap:wrap;"')
+        : hero[0].replace(/>$/, ' style="flex-wrap:wrap;">');
+      stripped = stripped.slice(0, hero.index) + tag + stripped.slice(hero.index + hero[0].length);
+    }
+    const end = stripped.slice(hero.index).match(HERO_END_RE);
+    if (!end) return "no-anchor";
+    at = hero.index + end.index;
+  } else {
+    const total = stripped.match(TOTAL_RE);
+    if (!total) return "no-anchor";
+    at = total.index + total[0].length;
   }
-  if (!anchor) return "no-anchor";
-  const next = stripped.slice(0, anchor.index) + card + stripped.slice(anchor.index);
+
+  const next = stripped.slice(0, at) + card + stripped.slice(at);
 
   if (next === html) return "unchanged";
   if (!CHECK) fs.writeFileSync(file, next, "utf8");
