@@ -3964,3 +3964,16 @@ Insertion rule learned here: some twins repeat an "FAQ" heading inside
 `<main id="app">`, so a plain regex on the FAQ heading lands in the wrong
 place. `extraSpan()` in the tool finds the matching `</section>` of
 `section.axo-extra-content` first and searches inside that span only.
+
+### Assamese twins finished (commit b832956a)
+
+`tools/seo-deepen-topics-as.js` (chronology/comparison + common mistakes) and
+`tools/seo-deepen-topics-as2.js` (dates list, glossary, three analysis
+paragraphs, further reading, closing paragraph) brought the six Assamese twins
+from 765-930 to 1454-1665 words. English pages of the same topics are now
+2358-2823. All three deepening tools are idempotent; running them again on a
+clean tree changes nothing.
+
+Note: `git checkout --` on a page drops its `<!-- axo-deep*:1 -->` markers, so
+a later tool run will re-insert its sections. Revert only when you intend to
+re-run that pass.
