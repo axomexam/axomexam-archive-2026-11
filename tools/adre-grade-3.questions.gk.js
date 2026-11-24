@@ -68174,8 +68174,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Dronacharya Award is given to outstanding coaches in Indian sport.",
+    "as": "দ্ৰোণাচাৰ্য বঁটা ভাৰতীয় ক্ৰীড়াৰ উৎকৃষ্ট প্ৰশিক্ষকসকলক দিয়া হয়।"
    }
   },
   {
@@ -68204,8 +68204,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Dhyan Chand Award honours sportspersons for lifetime achievement in sport.",
+    "as": "ধ্যানচান্দ বঁটাই ক্ৰীড়াক্ষেত্ৰত জীৱনজোৰা অৱদানৰ বাবে ক্ৰীড়াবিদসকলক সন্মানিত কৰে।"
    }
   },
   {
@@ -68234,8 +68234,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The National Bravery Award is given to children for exceptional acts of bravery.",
+    "as": "ৰাষ্ট্ৰীয় বীৰতা বঁটা অসাধাৰণ সাহসিকতাৰ কাৰ্যৰ বাবে শিশুসকলক দিয়া হয়।"
    }
   },
   {
@@ -68264,8 +68264,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Padma Awards are announced every year on Republic Day.",
+    "as": "পদ্ম বঁটাসমূহ প্ৰতি বছৰে গণৰাজ্য দিৱসত ঘোষণা কৰা হয়।"
    }
   },
   {
@@ -68294,8 +68294,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Rabindranath Tagore was the first Indian to receive a Nobel Prize, in 1913.",
+    "as": "ৰবীন্দ্ৰনাথ ঠাকুৰ ১৯১৩ চনত নোবেল বঁটা লাভ কৰা প্ৰথম ভাৰতীয়।"
    }
   },
   {
@@ -68324,8 +68324,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Rabindranath Tagore received the Nobel Prize in Literature in 1913 for Gitanjali.",
+    "as": "ৰবীন্দ্ৰনাথ ঠাকুৰে ১৯১৩ চনত গীতাঞ্জলিৰ বাবে সাহিত্যৰ নোবেল বঁটা লাভ কৰিছিল।"
    }
   },
   {
@@ -68354,8 +68354,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "C. V. Raman was the first Indian to win the Nobel Prize in Physics, in 1930.",
+    "as": "চি. ভি. ৰমন ১৯৩০ চনত পদাৰ্থবিজ্ঞানৰ নোবেল বঁটা লাভ কৰা প্ৰথম ভাৰতীয়।"
    }
   },
   {
@@ -68384,8 +68384,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Bhupen Hazarika is the only Assamese to receive the Bharat Ratna.",
+    "as": "ভূপেন হাজৰিকাই ভাৰত ৰত্ন লাভ কৰা একমাত্ৰ অসমীয়া।"
    }
   },
   {
@@ -68414,8 +68414,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Bhupen Hazarika was awarded the Bharat Ratna in 2019.",
+    "as": "ভূপেন হাজৰিকাক ২০১৯ চনত ভাৰত ৰত্ন প্ৰদান কৰা হৈছিল।"
    }
   },
   {
@@ -68444,8 +68444,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Birendra Kumar Bhattacharya won the Jnanpith Award in 1979 for Mrityunjay.",
+    "as": "বীৰেন্দ্ৰ কুমাৰ ভট্টাচাৰ্যই ১৯৭৯ চনত মৃত্যুঞ্জয়ৰ বাবে জ্ঞানপীঠ বঁটা লাভ কৰিছিল।"
    }
   },
   {
@@ -68474,8 +68474,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Sachin Tendulkar was the first sportsperson to receive the Bharat Ratna, in 2014.",
+    "as": "সচিন তেণ্ডুলকাৰ ২০১৪ চনত ভাৰত ৰত্ন লাভ কৰা প্ৰথম ক্ৰীড়াবিদ।"
    }
   },
   {
@@ -68504,8 +68504,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Bhupen Hazarika received the Dadasaheb Phalke Award in 1992.",
+    "as": "ভূপেন হাজৰিকাই ১৯৯২ চনত দাদাচাহেব ফাল্কে বঁটা লাভ কৰিছিল।"
    }
   },
   {
@@ -68534,8 +68534,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Major Dhyan Chand Khel Ratna was earlier called the Rajiv Gandhi Khel Ratna.",
+    "as": "মেজৰ ধ্যানচান্দ খেল ৰত্নৰ পূৰ্বৰ নাম আছিল ৰাজীৱ গান্ধী খেল ৰত্ন।"
    }
   },
   {
@@ -68564,8 +68564,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "There are three Padma awards: Padma Vibhushan, Padma Bhushan and Padma Shri.",
+    "as": "পদ্ম বঁটা তিনি শ্ৰেণীৰ: পদ্মবিভূষণ, পদ্মভূষণ আৰু পদ্মশ্ৰী।"
    }
   },
   {
@@ -68594,8 +68594,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Jnanpith Award is given by the Bharatiya Jnanpith trust.",
+    "as": "জ্ঞানপীঠ বঁটা ভাৰতীয় জ্ঞানপীঠ ন্যাসে প্ৰদান কৰে।"
    }
   },
   {
@@ -71984,8 +71984,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Ramon Magsaysay Award is often called the Nobel Prize of Asia.",
+    "as": "ৰেমন মেগচেচে বঁটাক প্ৰায়ে এছিয়াৰ নোবেল বঁটা বুলি কোৱা হয়।"
    }
   },
   {
@@ -72014,8 +72014,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Ramon Magsaysay Award is given by the Philippines.",
+    "as": "ৰেমন মেগচেচে বঁটা ফিলিপাইনছে প্ৰদান কৰে।"
    }
   },
   {
@@ -72044,8 +72044,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Amartya Sen won the Nobel Prize in Economics in 1998.",
+    "as": "অমৰ্ত্য সেনে ১৯৯৮ চনত অৰ্থনীতিৰ নোবেল বঁটা লাভ কৰিছিল।"
    }
   },
   {
@@ -72074,8 +72074,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Kailash Satyarthi won the Nobel Peace Prize in 2014, shared with Malala Yousafzai.",
+    "as": "কৈলাশ সত্যাৰ্থীয়ে ২০১৪ চনত মালালা ইউছুফজাইৰ সৈতে শান্তিৰ নোবেল বঁটা লাভ কৰিছিল।"
    }
   },
   {
@@ -72104,8 +72104,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Mother Teresa was the first Indian woman to receive the Nobel Peace Prize.",
+    "as": "মাদাৰ টেৰেছা শান্তিৰ নোবেল বঁটা লাভ কৰা প্ৰথম ভাৰতীয় মহিলা।"
    }
   },
   {
@@ -72134,8 +72134,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Mother Teresa received the Nobel Peace Prize in 1979.",
+    "as": "মাদাৰ টেৰেছাই ১৯৭৯ চনত শান্তিৰ নোবেল বঁটা লাভ কৰিছিল।"
    }
   },
   {
@@ -72164,8 +72164,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "C. V. Raman won the Nobel Prize in Physics for his work on the scattering of light.",
+    "as": "চি. ভি. ৰমনে পোহৰৰ বিক্ষেপণৰ গৱেষণাৰ বাবে পদাৰ্থবিজ্ঞানৰ নোবেল বঁটা লাভ কৰিছিল।"
    }
   },
   {
@@ -72194,8 +72194,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "C. V. Raman received the Nobel Prize in Physics in 1930.",
+    "as": "চি. ভি. ৰমনে ১৯৩০ চনত পদাৰ্থবিজ্ঞানৰ নোবেল বঁটা লাভ কৰিছিল।"
    }
   },
   {
@@ -72224,8 +72224,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Nobel Prize is awarded in six fields, including Economics.",
+    "as": "নোবেল বঁটা অৰ্থনীতিৰ সৈতে ছয়টা ক্ষেত্ৰত প্ৰদান কৰা হয়।"
    }
   },
   {
@@ -72254,8 +72254,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Ashapurna Devi was the first woman to win the Jnanpith Award, in 1976.",
+    "as": "অশাপূৰ্ণা দেৱী ১৯৭৬ চনত জ্ঞানপীঠ বঁটা লাভ কৰা প্ৰথম মহিলা।"
    }
   },
   {
@@ -72284,8 +72284,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Sangeet Natak Akademi Fellowship is the highest honour in the performing arts.",
+    "as": "সংগীত নাটক একাডেমী ফেলশ্বিপ পৰিৱেশন কলাৰ সৰ্বোচ্চ সন্মান।"
    }
   },
   {
@@ -72314,8 +72314,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The National Sports Awards are presented on 29 August, Dhyan Chand's birthday.",
+    "as": "ৰাষ্ট্ৰীয় ক্ৰীড়া বঁটা ২৯ আগষ্টত, ধ্যানচান্দৰ জন্মদিনত প্ৰদান কৰা হয়।"
    }
   },
   {
@@ -72344,8 +72344,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Dronacharya, the teacher of the Pandavas, appears in the Mahabharata.",
+    "as": "পাণ্ডৱসকলৰ গুৰু দ্ৰোণাচাৰ্য মহাভাৰতত বৰ্ণিত।"
    }
   },
   {
@@ -72374,8 +72374,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Arjuna, the archer after whom the award is named, is a hero of the Mahabharata.",
+    "as": "বঁটাৰ নাম যি ধনুৰ্দ্ধৰ অৰ্জুনৰ পৰা হৈছে, তেওঁ মহাভাৰতৰ বীৰ।"
    }
   },
   {
@@ -72404,8 +72404,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Major Dhyan Chand was a hockey legend who won three Olympic gold medals.",
+    "as": "মেজৰ ধ্যানচান্দ হকীৰ কিংবদন্তি আছিল আৰু তিনিটা অলিম্পিক স্বৰ্ণ পদক জিকিছিল।"
    }
   },
   {
@@ -72434,8 +72434,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Dadasaheb Phalke is called the father of Indian cinema.",
+    "as": "দাদাচাহেব ফাল্কেক ভাৰতীয় চিনেমাৰ পিতৃ বুলি কোৱা হয়।"
    }
   },
   {
@@ -72464,8 +72464,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Lal Bahadur Shastri was the first to receive the Bharat Ratna posthumously, in 1966.",
+    "as": "লাল বাহাদুৰ শাস্ত্ৰীয়ে ১৯৬৬ চনত মৰণোত্তৰভাৱে ভাৰত ৰত্ন লাভ কৰা প্ৰথম ব্যক্তি।"
    }
   },
   {
@@ -72494,8 +72494,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Jawaharlal Nehru was the first Prime Minister to receive the Bharat Ratna, in 1955.",
+    "as": "জৱাহৰলাল নেহৰু ১৯৫৫ চনত ভাৰত ৰত্ন লাভ কৰা প্ৰথম প্ৰধানমন্ত্ৰী।"
    }
   },
   {
@@ -72524,8 +72524,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "C. V. Raman was the first scientist to receive the Bharat Ratna, in 1954.",
+    "as": "চি. ভি. ৰমন ১৯৫৪ চনত ভাৰত ৰত্ন লাভ কৰা প্ৰথম বিজ্ঞানী।"
    }
   },
   {
@@ -72554,8 +72554,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "Julius Nyerere of Tanzania received the first Gandhi Peace Prize, in 1995.",
+    "as": "তাঞ্জানিয়াৰ জুলিয়াছ নিয়েৰেৰে ১৯৯৫ চনত প্ৰথম গান্ধী শান্তি বঁটা লাভ কৰিছিল।"
    }
   },
   {
@@ -72584,8 +72584,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Tagore Award for Cultural Harmony is given for promoting cultural harmony.",
+    "as": "সংস্কৃতিক সম্প্ৰীতিৰ বাবে ৰবীন্দ্ৰনাথ ঠাকুৰ বঁটা প্ৰদান কৰা হয়।"
    }
   },
   {
@@ -72614,8 +72614,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Vyas Samman is given for outstanding works in Hindi literature.",
+    "as": "ব্যাস সম্মান হিন্দী সাহিত্যৰ উৎকৃষ্ট কৰ্মৰ বাবে প্ৰদান কৰা হয়।"
    }
   },
   {
@@ -72644,8 +72644,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Shanti Swarup Bhatnagar Prize is awarded by CSIR.",
+    "as": "শান্তি স্বৰূপ ভট্টনাগৰ বঁটা চি এছ আই আৰে প্ৰদান কৰে।"
    }
   },
   {
@@ -72674,8 +72674,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "A maximum of three Bharat Ratna awards can be given in a year.",
+    "as": "একেটা বছৰত সৰ্বাধিক তিনিটা ভাৰত ৰত্ন প্ৰদান কৰিব পাৰি।"
    }
   },
   {
@@ -72704,8 +72704,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Khel Ratna Award was renamed after Major Dhyan Chand in 2021.",
+    "as": "২০২১ চনত খেল ৰত্ন বঁটাৰ নাম মেজৰ ধ্যানচান্দৰ নামেৰে ৰখা হয়।"
    }
   },
   {
@@ -72734,8 +72734,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The National Bravery Award is given by the Indian Council for Child Welfare.",
+    "as": "ৰাষ্ট্ৰীয় বীৰতা বঁটা ভাৰতীয় শিশু কল্যাণ পৰিষদে প্ৰদান কৰে।"
    }
   },
   {
@@ -72764,8 +72764,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "The Param Vir Chakra is made of bronze.",
+    "as": "পৰম বীৰ চক্ৰ ব্ৰঞ্জেৰে নিৰ্মিত।"
    }
   },
   {
@@ -72794,8 +72794,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "See answer.",
-    "as": "উত্তৰ চাওক।"
+    "en": "G. S. Randhawa was among the first recipients of the Arjuna Award, in 1961.",
+    "as": "জি. এছ. ৰণধাৱা ১৯৬১ চনত অৰ্জুন বঁটা লাভ কৰা প্ৰথমসকলৰ এজন আছিল।"
    }
   }
  ],

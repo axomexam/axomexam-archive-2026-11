@@ -226,8 +226,8 @@ const GROUP = {
 
 const ROOT = {
   intro: [
-    "This book gathers every question published for the DHS & DME Technical Grade III examination on this site: 176 topic pages and 20,137 questions with answers and explanations, in English and Assamese. Five sections carry the paper, and each section page explains how to prepare it.",
-    "এই কিতাপে এই ছাইটত DHS আৰু DME কাৰিকৰী গ্ৰেড III পৰীক্ষাৰ বাবে প্ৰকাশিত প্ৰতিটো প্ৰশ্ন একত্ৰিত কৰিছে: ১৭৬ টা বিষয় পৃষ্ঠা আৰু ২০,১৩৭ টা প্ৰশ্ন — উত্তৰ আৰু ব্যাখ্যাৰ সৈতে, ইংৰাজী আৰু অসমীয়াত। পাঁচটা শিতানে প্ৰশ্নকাকত গঠন কৰে, আৰু প্ৰতিটো শিতান পৃষ্ঠাই কেনেকৈ প্ৰস্তুতি ল'ব লাগে বৰ্ণাইছে।",
+    "This book gathers every question published for the DHS & DME Technical Grade III examination on this site: {topics} topic pages and {questions} questions with answers and explanations, in English and Assamese. Five sections carry the paper, and each section page explains how to prepare it.",
+    "এই কিতাপে এই ছাইটত DHS আৰু DME কাৰিকৰী গ্ৰেড III পৰীক্ষাৰ বাবে প্ৰকাশিত প্ৰতিটো প্ৰশ্ন একত্ৰিত কৰিছে: {topics} টা বিষয় পৃষ্ঠা আৰু {questions} টা প্ৰশ্ন — উত্তৰ আৰু ব্যাখ্যাৰ সৈতে, ইংৰাজী আৰু অসমীয়াত। পাঁচটা শিতানে প্ৰশ্নকাকত গঠন কৰে, আৰু প্ৰতিটো শিতান পৃষ্ঠাই কেনেকৈ প্ৰস্তুতি ল'ব লাগে বৰ্ণাইছে।",
   ],
   tips: [
     ["Work section by section. Finish one section's topic pages before opening the next, and take the mixed-practice page last.", "শিতান অনুসৰি কাম কৰা। এটা শিতানৰ বিষয় পৃষ্ঠাবোৰ শেষ কৰি পিছৰটো খোলা, আৰু মিশ্ৰ অনুশীলনৰ পৃষ্ঠা শেষত লোৱা।"],

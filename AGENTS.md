@@ -1597,6 +1597,21 @@ If a topic ever has more than one `question-*.json`, run
 `node tools/consolidate-exam-question-files.js --book <id>` (add `--check` to
 report without writing).
 
+**A `question-*.json` file must be a JSON array.** One bare object (no
+enclosing `[ ]`) is skipped in silence by `inject-static-questions.js`, so the
+question never reaches the page and the topic quietly renders one item short.
+`figure-series` shipped like that (44 of 45). Check with
+`node tools/inject-static-questions.js --check` after touching a bank.
+
+**The six `assam-police/logical-reasoning/<topic>/` pages are redirect stubs,
+not missing twins.** `analogy`, `blood-relations`, `direction-distance`,
+`number-alphabet-series`, `odd-one-out` and `venn-diagrams` exist twice: a
+`noindex, follow` stub with a meta refresh under `logical-reasoning/<topic>/`,
+and the real page under `logical-reasoning/verbal-reasoning/<topic>/`. The twin
+builder skips the stubs on purpose, so an EN/AS page-set comparison always
+reports six "missing" twins. They are not missing; check the `verbal-reasoning`
+path before treating it as a defect.
+
 **Gotcha — `build-as-twins.js` is not idempotent against committed pages.**
 Pages that are `noindex` are deliberately left out of `twinSet`, so their
 `/as/` twin links are not rewritten. Re-running the twin builder over an
@@ -4147,6 +4162,11 @@ national animal/bird, headquarters, located, who wrote/invented). Anything the
 templates cannot handle is left alone rather than mangled. The same script
 carries AS_GLOSS, the English sentences that were sitting in Assamese fields of
 the comprehension banks, with their Assamese translations.
+
+The same script also finishes explanations that stop mid-sentence and end with
+the question stem ("This is the correct fact; the other options are different.
+The modern Olympic Games were revived by"), and collapses doubled terminators
+("workers..", "workers.।"). Run it after any content pass; it is idempotent.
 
 An Assamese explanation under six words is normal, not a defect: the language
 is compact ("জাপানৰ ৰাজধানী টকিঅ'।" is the whole answer). Judge Assamese by
