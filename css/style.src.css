@@ -3565,6 +3565,21 @@ a.axo-email:hover { color: #1e3a8a; background: #dbeafe; text-decoration: none; 
   -webkit-touch-callout: default;
 }
 
+/* Pages that need copying opt out with data-axo-copy-page="allow" on <body>
+   (the contact pages: visitors must be able to copy the email address and
+   paste their own message). js/copy-guard.src.js reads the same attribute and
+   registers no handlers there. */
+[data-axo-copy-page="allow"] #app,
+[data-axo-copy-page="allow"] #app *,
+[data-axo-copy-page="allow"] #read-modal,
+[data-axo-copy-page="allow"] #read-modal * {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+  -webkit-touch-callout: default;
+}
+
 /* Centred popup the copy guard shows when a visitor tries to copy.
    Kept separate from .toast (app.js owns that one) and click-through,
    so a page stays usable while it fades out. */

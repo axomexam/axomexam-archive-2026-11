@@ -55,6 +55,14 @@ Two pieces do that, and they are deliberately separate:
   It is not the `.toast` pill, which app.js owns.
 
 Only `#app` and the reading modal are guarded; header and footer text is not.
+
+**Contact pages are the one exception.** `/contact/` and `/as/contact/` put
+`data-axo-copy-page="allow"` on `<body>`. The CSS block restores
+`user-select: text` for that attribute, and `js/copy-guard.src.js` returns
+before it registers any handler, so the visitor can copy the support email
+address and paste their own message. The attribute is the only supported way
+to opt a page out; do not remove the guard tag or the global rules.
+
 The tag reaches every page through `scripts/inject-copy-guard.js`, which is
 idempotent and works the same way as `inject-push.js` (pages are produced by
 many builders, so the tag is added to the committed HTML). It skips the

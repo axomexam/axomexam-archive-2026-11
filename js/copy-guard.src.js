@@ -17,6 +17,11 @@
   if (window.__axoCopyGuard) return;
   window.__axoCopyGuard = true;
 
+  /* The contact pages opt out: a visitor has to be able to copy the email
+     address and paste their own message. The attribute sits on <body>, which
+     is parsed by the time this deferred script runs. */
+  if ((document.body || document.documentElement).hasAttribute("data-axo-copy-page")) return;
+
   var GUARDED = "#app, #read-modal";
   var ALLOW =
     "input, textarea, select, option, " +
