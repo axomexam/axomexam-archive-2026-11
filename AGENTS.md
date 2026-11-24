@@ -1597,6 +1597,14 @@ If a topic ever has more than one `question-*.json`, run
 `node tools/consolidate-exam-question-files.js --book <id>` (add `--check` to
 report without writing).
 
+**Hub guides are generated, not hand-edited.** `node tools/add-book-hub-guides.js
+--book=<slug>` renders the `axo-hub-guide` panel above the topic cards on every hub
+page of that book, using `tools/<slug>.hub-guides.js` (SECTION / GROUP / ROOT; set
+`counts: false` on an entry whose intro already states the topic and question counts).
+Rerun it after topic counts or card lists change; it replaces the block instead of
+duplicating it. Book root pages take the book-wide totals from the rendered pages, so
+the numbers in the guide cannot drift from the hero.
+
 **Generated maths needs an answer-key audit.** `tools/gen-alg-quadratic.py` builds
 quadratic items from `(a, b, c, r1, r2)` tuples; two tuples shipped roots that do
 not solve their own equation (`2x²-7x+3` marked 1 and 3; `2x²-9x+4` marked 1 and 4).
