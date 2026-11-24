@@ -1597,6 +1597,15 @@ If a topic ever has more than one `question-*.json`, run
 `node tools/consolidate-exam-question-files.js --book <id>` (add `--check` to
 report without writing).
 
+**The six `assam-police/logical-reasoning/<topic>/` pages are redirect stubs,
+not missing twins.** `analogy`, `blood-relations`, `direction-distance`,
+`number-alphabet-series`, `odd-one-out` and `venn-diagrams` exist twice: a
+`noindex, follow` stub with a meta refresh under `logical-reasoning/<topic>/`,
+and the real page under `logical-reasoning/verbal-reasoning/<topic>/`. The twin
+builder skips the stubs on purpose, so an EN/AS page-set comparison always
+reports six "missing" twins. They are not missing; check the `verbal-reasoning`
+path before treating it as a defect.
+
 **Gotcha — `build-as-twins.js` is not idempotent against committed pages.**
 Pages that are `noindex` are deliberately left out of `twinSet`, so their
 `/as/` twin links are not rewritten. Re-running the twin builder over an
