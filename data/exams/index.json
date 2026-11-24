@@ -9,6 +9,13 @@
   "exams": [
     {
       "id": "assam-police",
+      "book": {
+        "code": "AXO-AP-CONST",
+        "authority": { "en": "SLPRB Assam", "as": "SLPRB অসম" },
+        "authorityUrl": "https://slprbassam.in/",
+        "published": { "en": "15 September 2026", "as": "15 ছেপ্তেম্বৰ 2026" },
+        "updated": { "en": "15 September 2026", "as": "15 ছেপ্তেম্বৰ 2026" }
+      },
       "title": {
         "en": "Assam Police",
         "as": "অসম আৰক্ষী"
@@ -538,6 +545,13 @@
     },
     {
       "id": "assam-police-si",
+      "book": {
+        "code": "AXO-AP-SI",
+        "authority": { "en": "SLPRB Assam", "as": "SLPRB অসম" },
+        "authorityUrl": "https://slprbassam.in/",
+        "published": { "en": "8 November 2026", "as": "8 নৱেম্বৰ 2026" },
+        "updated": { "en": "8 November 2026", "as": "8 নৱেম্বৰ 2026" }
+      },
       "title": { "en": "Assam Police Sub-Inspector (SI)", "as": "অসম আৰক্ষী উপ-পৰিদৰ্শক (SI)" },
       "subtitle": { "en": "Sub-Inspector of Police (UB & AB) — SLPRB Assam", "as": "আৰক্ষী উপ-পৰিদৰ্শক (UB আৰু AB) — SLPRB অসম" },
       "note": {
@@ -681,6 +695,13 @@
     },
     {
       "id": "adre-grade-3",
+      "book": {
+        "code": "AXO-ADRE-G3",
+        "authority": { "en": "SLRC Assam", "as": "SLRC অসম" },
+        "authorityUrl": "https://slrcassam.in/",
+        "published": { "en": "29 October 2026", "as": "29 অক্টোবৰ 2026" },
+        "updated": { "en": "29 October 2026", "as": "29 অক্টোবৰ 2026" }
+      },
       "title": { "en": "ADRE 3.0 Grade III", "as": "ADRE 3.0 গ্ৰেড III" },
       "subtitle": { "en": "Assam Direct Recruitment Examination — Grade III (SLRC)", "as": "অসম প্ৰত্যক্ষ নিযুক্তি পৰীক্ষা — গ্ৰেড III (SLRC)" },
       "note": {
@@ -1244,6 +1265,13 @@
     },
     {
       "id": "adre-grade-4",
+      "book": {
+        "code": "AXO-ADRE-G4",
+        "authority": { "en": "SLRC Assam", "as": "SLRC অসম" },
+        "authorityUrl": "https://slrcassam.in/",
+        "published": { "en": "27 September 2026", "as": "27 ছেপ্তেম্বৰ 2026" },
+        "updated": { "en": "27 September 2026", "as": "27 ছেপ্তেম্বৰ 2026" }
+      },
       "title": {
         "en": "ADRE 3.0 Grade IV",
         "as": "ADRE 3.0 গ্ৰেড IV"
@@ -1883,6 +1911,12 @@
     },
     {
       "id": "dhs-dme-grade-4",
+      "book": {
+        "code": "AXO-DHSDME-G4",
+        "authority": { "en": "DHS & DME Assam", "as": "DHS আৰু DME অসম" },
+        "published": { "en": "8 November 2026", "as": "8 নৱেম্বৰ 2026" },
+        "updated": { "en": "8 November 2026", "as": "8 নৱেম্বৰ 2026" }
+      },
       "title": { "en": "DHS & DME Grade IV", "as": "DHS আৰু DME গ্ৰেড IV" },
       "subtitle": {
         "en": "Directorate of Health Services & Directorate of Medical Education — Grade IV (Peon, Ward Boy, Chowkidar & similar)",
@@ -1965,6 +1999,12 @@
     },
     {
       "id": "dhs-dme-technical",
+      "book": {
+        "code": "AXO-DHSDME-TECH",
+        "authority": { "en": "DHS & DME Assam", "as": "DHS আৰু DME অসম" },
+        "published": { "en": "8 November 2026", "as": "8 নৱেম্বৰ 2026" },
+        "updated": { "en": "8 November 2026", "as": "8 নৱেম্বৰ 2026" }
+      },
       "title": { "en": "DHS & DME Technical Grade III", "as": "DHS আৰু DME কাৰিকৰী গ্ৰেড III" },
       "subtitle": {
         "en": "Directorate of Health Services & Directorate of Medical Education — Grade III (Technical)",
@@ -2915,6 +2955,12 @@
     },
     {
       "id": "dhs-dme",
+      "book": {
+        "code": "AXO-DHSDME-G3",
+        "authority": { "en": "DHS & DME Assam", "as": "DHS আৰু DME অসম" },
+        "published": { "en": "8 November 2026", "as": "8 নৱেম্বৰ 2026" },
+        "updated": { "en": "8 November 2026", "as": "8 নৱেম্বৰ 2026" }
+      },
       "title": { "en": "DHS & DME Non-Technical Grade III", "as": "DHS আৰু DME অসামৰিক গ্ৰেড III" },
       "subtitle": {
         "en": "Directorate of Health Services & Directorate of Medical Education — Grade III (Non-Technical)",
@@ -3128,6 +3174,12 @@
     },
     {
       "id": "rrb-ntpc",
+      "book": {
+        "code": "AXO-RRB-NTPC",
+        "authority": { "en": "Railway Recruitment Board", "as": "ৰে'লৱে নিযুক্তি ব'ৰ্ড" },
+        "published": { "en": "8 November 2026", "as": "8 নৱেম্বৰ 2026" },
+        "updated": { "en": "8 November 2026", "as": "8 নৱেম্বৰ 2026" }
+      },
       "title": { "en": "RRB NTPC", "as": "RRB NTPC" },
       "subtitle": { "en": "Railway Non-Technical Popular Categories — CBT-1 & CBT-2", "as": "ৰে'লৱে অ-কাৰিকৰী জনপ্ৰিয় শ্ৰেণী — CBT-1 আৰু CBT-2" },
       "note": {

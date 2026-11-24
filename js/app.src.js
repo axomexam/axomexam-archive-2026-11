@@ -249,6 +249,14 @@
     );
   }
 
+  /* tf() in the content language — for page copy that follows the URL
+     (/as/ pages) rather than the interface toggle. */
+  function tcf(key, vars) {
+    return String(tc(key)).replace(/\{(\w+)\}/g, (m, name) =>
+      Object.prototype.hasOwnProperty.call(vars, name) ? String(vars[name]) : m
+    );
+  }
+
   /* Same as tf() but for a fixed language, used for the bilingual instruction
      rules whose Assamese twin must also follow the blueprint numbers. */
   function tfLang(key, lang, vars) {
@@ -5516,6 +5524,80 @@
     el.hidden = false;
   }
 
+  /* Chapter count = leaf nodes under the book's study sections, the same
+     structure the subject cards are rendered from. */
+  function examBookChapters(exam) {
+    const countLeaves = (nodes) => (nodes || []).reduce((n, node) => {
+      const kids = Array.isArray(node.subcategories) ? node.subcategories : [];
+      return n + (kids.length ? countLeaves(kids) : 1);
+    }, 0);
+    return (exam.sections || [])
+      .filter((s) => s.type !== "syllabus")
+      .reduce((n, s) => n + countLeaves(s.subcategories), 0);
+  }
+
+  /* One labelled cell of the book-details card. */
+  function bookFactHTML(label, valueHTML) {
+    return `
+              <div><span style="display:block; font-size:.7rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:2px;">${escapeHtml(label)}</span><span style="display:block; font-size:.92rem; font-weight:600; color:var(--ink,#0f172a);">${valueHTML}</span></div>`;
+  }
+
+  /* Library record for one exam book, rendered above the subject cards.
+     Per-book facts come from exam.book in data/exams/index.json; the counts
+     are derived from the same sections the cards below are built from, so the
+     two can never disagree. tools/add-book-details.js writes the same block
+     into the static HTML for crawlers (the runtime replaces it on load). */
+  function examBookDetailsHTML(exam) {
+    const book = exam && exam.book;
+    if (!book) return "";
+    const lang = state.lang === "as" ? "as" : "en";
+    const authority = ebkLang(book.authority, lang);
+    const authorityHTML = book.authorityUrl
+      ? `<a href="${escapeHtml(book.authorityUrl)}" target="_blank" rel="noopener" style="color:inherit; text-decoration:underline;">${escapeHtml(authority)}</a>`
+      : escapeHtml(authority);
+    const subjects = (exam.sections || []).filter((s) => s.type !== "syllabus").length;
+    const chapters = examBookChapters(exam);
+    const cover = exam.cover ? String(exam.cover) : `/images/exams/${exam.id}-cover.webp`;
+    const panelFont = lang === "as" ? "font-family:var(--font-as, 'Noto Sans Bengali', sans-serif);" : "";
+    const kickerFont = lang === "as" ? "" : "font-family:var(--font-as, 'Noto Sans Bengali', sans-serif);";
+    const facts = [
+      bookFactHTML(tc("book.publisher"), `<a href="${lang === "as" ? "/as/about/" : "/about/"}" style="color:inherit; text-decoration:underline;">axomexam.in</a>`),
+      bookFactHTML(tc("book.code"), escapeHtml(book.code || "")),
+      bookFactHTML(tc("book.edition"), escapeHtml(tc("book.editionValue"))),
+      bookFactHTML(tc("book.language"), escapeHtml(tc("book.languageValue"))),
+      bookFactHTML(tc("book.exam"), escapeHtml(ebkLang(exam.subtitle, lang) || examBookName(exam, lang))),
+      bookFactHTML(tc("book.conductedBy"), authorityHTML),
+      bookFactHTML(tc("book.subjects"), escapeHtml(tcf("book.subjectsValue", { n: subjects }))),
+      bookFactHTML(tc("book.chapters"), escapeHtml(tcf("book.chaptersValue", { n: chapters }))),
+      bookFactHTML(tc("book.questions"), `<span class="exam-book-qcount">…</span>`),
+      bookFactHTML(tc("book.format"), escapeHtml(tc("book.formatValue"))),
+      bookFactHTML(tc("book.published"), escapeHtml(ebkLang(book.published, lang))),
+      bookFactHTML(tc("book.updated"), escapeHtml(ebkLang(book.updated, lang))),
+    ].join("");
+    return `
+      <section class="section" data-axo-book-details="1" style="padding-top:0; padding-bottom:8px;">
+        <div class="info-panel" style="max-width:900px; margin:0 auto; padding:24px;${panelFont}">
+          <h2 style="margin:0 0 2px; color:var(--ink,#0f172a);">${escapeHtml(tc("book.title"))}</h2>
+          <p style="margin:0 0 18px; font-size:.84rem; color:var(--ink-muted,#64748b);${kickerFont}">${escapeHtml(tc("book.kicker"))}</p>
+          <div style="display:flex; flex-wrap:wrap; gap:22px; align-items:flex-start;">
+            <img src="${escapeHtml(cover)}" alt="${escapeHtml(examCoverAlt(exam, lang))}" width="160" height="228" loading="lazy" decoding="async" style="flex:0 0 160px; width:160px; max-width:100%; height:auto; border-radius:14px; border:1px solid var(--border,#e2e8f0); box-shadow:0 16px 32px -18px rgba(15,23,42,.5);">
+            <div style="flex:1 1 320px; min-width:220px; display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:14px 20px;">${facts}
+            </div>
+          </div>
+          <p style="margin:18px 0 0; padding-top:14px; border-top:1px solid var(--border,#e2e8f0); font-size:.76rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${escapeHtml(tcf("book.note", { authority }))}</p>
+        </div>
+      </section>`;
+  }
+
+  async function hydrateExamBookDetails(scope, exam) {
+    const el = scope && scope.querySelector(".exam-book-qcount");
+    if (!el) return;
+    const n = await examBookQuestionCount(exam).catch(() => 0);
+    el.textContent = n > 0
+      ? tcf("book.questionsValue", { n: n.toLocaleString("en-IN") })
+      : tc("book.formatValue");
+  }
+
   /* Recompute the homepage hero counters (used live while counts load). */
   function updateHeroTotals() {
     const totalEl = $("#stat-total-questions");
@@ -5720,6 +5802,7 @@
         </div>`;
     main.innerHTML = `
       ${headHTML}
+      ${examBookDetailsHTML(exam)}
       <section class="section" style="padding-bottom:46px;">
         <div class="sub-grid exam-sec-grid" style="--cat:${color}">
           ${sections.map((sec, i) => examSectionCardHTML(exam, sec, i)).join("")}
@@ -5728,6 +5811,7 @@
     observeReveals();
     hydrateExamCardCounts(main, exam);
     hydrateExamBookTotal(main, exam);
+    hydrateExamBookDetails(main, exam);
     if (examBookIsPreparing(exam)) showExamPreparingPopup(exam);
   }
 

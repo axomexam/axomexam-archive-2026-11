@@ -4,23 +4,24 @@
 /*
  * tools/add-book-details.js
  *
- * Adds a "Book details" card to every "Your Exams" book page
- * (exams/<id>/index.html and its /as/ twin), between the subject cards and
- * the editorial credit.
+ * Writes the "Book details" card into every "Your Exams" book page
+ * (exams/<id>/index.html and its /as/ twin), at the top of the page: right
+ * under the book hero and above the subject cards.
  *
- * The card is a library record for the book: publisher axomexam.in, a
- * per-book code, edition, language, the recruiting body, and the real counts
- * for that book (subject sections and chapter folders from data/exams/<id>/,
- * questions from data/counts.json - the same manifest the runtime prints
- * above it). Published / last updated are copied from the page's own
- * editorial block, so the two can never disagree.
+ * This is the crawler copy. js/app.src.js renders the same card from the same
+ * data (examBookDetailsHTML) and replaces <main id="app"> on load, so this
+ * block is what Googlebot sees with JavaScript off and the runtime card is
+ * what the reader sees — identical markup, identical numbers.
  *
- * The block sits outside <main id="app"> on purpose: js/app.src.js rebuilds
- * that element's innerHTML on load, so anything injected inside it would be
- * wiped in the browser and survive only for crawlers.
+ * Every fact comes from data/exams/index.json: exam.book carries the code,
+ * the recruiting body, its verified portal and the published / last-updated
+ * dates; the subject and chapter counts are the leaf nodes of that exam's
+ * section tree (the same tree the subject cards are built from), and the
+ * question count is data/counts.json -> examSectionCounts, the manifest the
+ * runtime prints in the hero. Nothing is typed in twice.
  *
  * Idempotent: the block is marker-guarded (data-axo-book-details) and is
- * replaced, not appended, on re-run.
+ * stripped and re-inserted on every run, so a re-run reports 0 changes.
  *
  * Usage:
  *   node tools/add-book-details.js           # apply
@@ -33,38 +34,7 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const CHECK = process.argv.includes("--check");
 const EXAMS_INDEX = path.join(ROOT, "data", "exams", "index.json");
-const EXAM_DATA = path.join(ROOT, "data", "exams");
 const COUNTS = path.join(ROOT, "data", "counts.json");
-
-/* Per-book facts that are not derivable from the data tree. `authorityUrl`
-   is only set for portals already verified on /sources/ (data/sources.json);
-   the rest stay plain text, because an unverified link is worse than none. */
-const BOOKS = {
-  "adre-grade-3": {
-    code: "AXO-ADRE-G3",
-    authority: "SLRC Assam",
-    authorityUrl: "https://slrcassam.in/",
-  },
-  "adre-grade-4": {
-    code: "AXO-ADRE-G4",
-    authority: "SLRC Assam",
-    authorityUrl: "https://slrcassam.in/",
-  },
-  "assam-police": {
-    code: "AXO-AP-CONST",
-    authority: "SLPRB Assam",
-    authorityUrl: "https://slprbassam.in/",
-  },
-  "assam-police-si": {
-    code: "AXO-AP-SI",
-    authority: "SLPRB Assam",
-    authorityUrl: "https://slprbassam.in/",
-  },
-  "dhs-dme": { code: "AXO-DHSDME-G3", authority: "DHS & DME Assam" },
-  "dhs-dme-grade-4": { code: "AXO-DHSDME-G4", authority: "DHS & DME Assam" },
-  "dhs-dme-technical": { code: "AXO-DHSDME-TECH", authority: "DHS & DME Assam" },
-  "rrb-ntpc": { code: "AXO-RRB-NTPC", authority: "Railway Recruitment Board" },
-};
 
 const LABELS = {
   en: {
@@ -86,6 +56,7 @@ const LABELS = {
     languageValue: "English &amp; Assamese",
     formatValue: "Free online book",
     publisherUrl: "/about/",
+    note: (authority) => `© axomexam.in &middot; Independent study platform &middot; not affiliated with ${authority}.`,
   },
   as: {
     heading: "পুথিৰ তথ্য",
@@ -106,87 +77,62 @@ const LABELS = {
     languageValue: "ইংৰাজী আৰু অসমীয়া",
     formatValue: "বিনামূলীয়া অনলাইন পুথি",
     publisherUrl: "/as/about/",
+    note: (authority) => `© axomexam.in &middot; স্বতন্ত্ৰ অধ্যয়ন মঞ্চ &middot; ${authority}ৰ সৈতে সম্পৰ্ক নাই।`,
   },
 };
 
 const MARK_RE =
-  /[ \t]*<!-- axo-book-details:start -->[\s\S]*?<!-- axo-book-details:end -->\n/;
+  /\n?[ \t]*<!-- axo-book-details:start -->[\s\S]*?<!-- axo-book-details:end -->\n?/;
+/* The subject-cards section, in either of the two shapes the book builders
+   emit: with data-exam-subcats, or the plain 46px-padded grid. */
+const ANCHOR_RES = [
+  /(\n[ \t]*<section class="section" data-exam-subcats)/,
+  /(\n[ \t]*<section class="section" style="padding-bottom:46px;">)/,
+];
 
 const ENT = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" };
 const esc = (s) => String(s == null ? "" : s).replace(/[&<>"]/g, (c) => ENT[c]);
 const langOf = (obj, key) => (!obj ? "" : typeof obj === "string" ? obj : obj[key] || obj.en || "");
 
-/* Real counts for one book, straight from its data/ tree. `questions` comes
-   from data/counts.json (the manifest the runtime prints in the hero), which
-   is deduplicated the same way; the raw file sum is only a fallback. */
-function bookStats(id, manifest) {
-  const dir = path.join(EXAM_DATA, id);
-  let subjects = 0;
-  let chapters = 0;
-  let raw = 0;
-
-  const countLeaves = (d, isSubjectRoot) => {
-    let entries;
-    try {
-      entries = fs.readdirSync(d, { withFileTypes: true });
-    } catch (e) {
-      return 0;
-    }
-    const questionFiles = entries.filter((e) => e.isFile() && /^question-.*\.json$/.test(e.name));
-    if (questionFiles.length) {
-      chapters += 1;
-      for (const f of questionFiles) {
-        try {
-          const arr = JSON.parse(fs.readFileSync(path.join(d, f.name), "utf8"));
-          raw += Array.isArray(arr) ? arr.length : 1;
-        } catch (e) {
-          raw += 1;
-        }
-      }
-    }
-    let found = 0;
-    for (const e of entries) {
-      if (!e.isDirectory()) continue;
-      const before = chapters;
-      countLeaves(path.join(d, e.name), false);
-      if (chapters > before) found += 1;
-    }
-    if (isSubjectRoot && found) subjects += 1;
-    return found;
+/* Subject sections and chapter leaves for one book, from the same section
+   tree the runtime renders its cards from. */
+function bookStructure(exam) {
+  const countLeaves = (nodes) => (nodes || []).reduce((n, node) => {
+    const kids = Array.isArray(node.subcategories) ? node.subcategories : [];
+    return n + (kids.length ? countLeaves(kids) : 1);
+  }, 0);
+  const sections = (exam.sections || []).filter((s) => s.type !== "syllabus");
+  return {
+    subjects: sections.length,
+    chapters: sections.reduce((n, s) => n + countLeaves(s.subcategories), 0),
   };
-
-  for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
-    if (e.isDirectory()) countLeaves(path.join(dir, e.name), true);
-  }
-
-  let questions = 0;
-  for (const [key, value] of Object.entries(manifest || {})) {
-    if (key.startsWith(`${id}/`) && key.split("/").length === 2) questions += Number(value) || 0;
-  }
-  return { subjects, chapters, questions: questions || raw };
 }
 
-function dateFrom(html, label) {
-  const m = html.match(new RegExp(`<strong>${label}:</strong>\\s*([^<]+)<`));
-  return m ? m[1].trim() : "";
+function questionCount(id, manifest) {
+  let n = 0;
+  for (const [key, value] of Object.entries(manifest || {})) {
+    if (key.startsWith(`${id}/`) && key.split("/").length === 2) n += Number(value) || 0;
+  }
+  return n;
 }
 
 function row(label, value) {
-  return `            <div><span style="display:block; font-size:.7rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:2px;">${label}</span><span style="display:block; font-size:.92rem; font-weight:600; color:var(--ink,#0f172a);">${value}</span></div>`;
+  return `          <div><span style="display:block; font-size:.7rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:2px;">${label}</span><span style="display:block; font-size:.92rem; font-weight:600; color:var(--ink,#0f172a);">${value}</span></div>`;
 }
 
-function block({ id, lang, exam, stats, dates }) {
+function block({ id, lang, exam, stats, questions }) {
   const L = LABELS[lang];
   const num = (n) => n.toLocaleString("en-IN");
-  const book = BOOKS[id];
+  const book = exam.book;
   const cover = exam.cover || `/images/exams/${id}-cover.webp`;
   const coverAlt = langOf(exam.coverAlt, lang) || `${langOf(exam.title, lang)} book cover`;
   const title = langOf(exam.title, lang);
   const subtitle = langOf(exam.subtitle, lang);
+  const authorityName = langOf(book.authority, lang);
 
   const authority = book.authorityUrl
-    ? `<a href="${book.authorityUrl}" rel="noopener nofollow" target="_blank" style="color:inherit; text-decoration:underline;">${esc(book.authority)}</a>`
-    : esc(book.authority);
+    ? `<a href="${book.authorityUrl}" rel="noopener nofollow" target="_blank" style="color:inherit; text-decoration:underline;">${esc(authorityName)}</a>`
+    : esc(authorityName);
 
   const rows = [
     row(L.publisher, `<a href="${L.publisherUrl}" style="color:inherit; text-decoration:underline;">axomexam.in</a>`),
@@ -200,18 +146,13 @@ function block({ id, lang, exam, stats, dates }) {
     row(
       L.questions,
       lang === "as"
-        ? `${num(stats.questions)} টা — উত্তৰ আৰু ব্যাখ্যাৰ সৈতে`
-        : `${num(stats.questions)} with answers and explanations`
+        ? `${num(questions)} টা — উত্তৰ আৰু ব্যাখ্যাৰ সৈতে`
+        : `${num(questions)} with answers and explanations`
     ),
     row(L.format, L.formatValue),
+    row(L.published, esc(langOf(book.published, lang))),
+    row(L.updated, esc(langOf(book.updated, lang))),
   ];
-  if (dates.published) rows.push(row(L.published, esc(dates.published)));
-  if (dates.updated) rows.push(row(L.updated, esc(dates.updated)));
-
-  const note =
-    lang === "as"
-      ? `© axomexam.in &middot; স্বতন্ত্ৰ অধ্যয়ন মঞ্চ &middot; ${esc(book.authority)}ৰ সৈতে সম্পৰ্ক নাই।`
-      : `© axomexam.in &middot; Independent study platform &middot; not affiliated with ${esc(book.authority)}.`;
 
   /* Inter has no Assamese glyphs, so every Assamese run needs the site's
      Bengali font or it renders as boxes. On the /as/ page the whole card is
@@ -232,59 +173,63 @@ function block({ id, lang, exam, stats, dates }) {
 ${rows.join("\n")}
           </div>
         </div>
-        <p style="margin:18px 0 0; padding-top:14px; border-top:1px solid var(--border,#e2e8f0); font-size:.76rem; color:var(--ink-faint,#94a3b8);">${note}</p>
+        <p style="margin:18px 0 0; padding-top:14px; border-top:1px solid var(--border,#e2e8f0); font-size:.76rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
       </div>
     </section>
-    <!-- axo-book-details:end -->
-`;
+    <!-- axo-book-details:end -->`;
 }
 
-function apply(file, html, lang, exam, stats) {
-  const dates = {
-    published: dateFrom(html, lang === "as" ? "প্ৰকাশিত" : "Published"),
-    updated: dateFrom(html, lang === "as" ? "শেহতীয়া আপডেট" : "Last updated"),
-  };
-  const card = block({ id: exam.id, lang, exam, stats, dates });
+function apply(file, html, lang, exam, stats, questions) {
+  const card = `\n${block({ id: exam.id, lang, exam, stats, questions })}\n`;
+  const stripped = html.replace(MARK_RE, "");
 
-  if (MARK_RE.test(html)) {
-    const next = html.replace(MARK_RE, card);
-    if (next === html) return "unchanged";
-    if (!CHECK) fs.writeFileSync(file, next, "utf8");
-    return "replaced";
+  let anchor = null;
+  for (const re of ANCHOR_RES) {
+    const m = stripped.match(re);
+    if (m && (!anchor || m.index < anchor.index)) anchor = m;
   }
+  if (!anchor) return "no-anchor";
+  const next = stripped.slice(0, anchor.index) + card + stripped.slice(anchor.index);
 
-  const anchor = /(\n[ \t]*<\/main>\n)/;
-  if (!anchor.test(html)) return "no-anchor";
-  const next = html.replace(anchor, `$1\n${card}`);
+  if (next === html) return "unchanged";
   if (!CHECK) fs.writeFileSync(file, next, "utf8");
-  return "added";
+  return "changed";
 }
 
 function main() {
   const index = JSON.parse(fs.readFileSync(EXAMS_INDEX, "utf8"));
   const manifest = JSON.parse(fs.readFileSync(COUNTS, "utf8")).examSectionCounts || {};
-  const books = (index.exams || []).filter((e) => BOOKS[e.id]);
+  const books = (index.exams || []).filter((e) => e.book && (e.sections || []).length);
   let changed = 0;
+  let missingBook = 0;
 
   for (const exam of books) {
-    const stats = bookStats(exam.id, manifest);
+    const stats = bookStructure(exam);
+    const questions = questionCount(exam.id, manifest);
     for (const lang of ["en", "as"]) {
       const rel = lang === "as" ? `as/exams/${exam.id}/index.html` : `exams/${exam.id}/index.html`;
       const file = path.join(ROOT, rel);
       if (!fs.existsSync(file)) {
-        console.log(`missing  ${rel}`);
+        console.log(`missing   ${rel}`);
         continue;
       }
-      const html = fs.readFileSync(file, "utf8");
-      const result = apply(file, html, lang, exam, stats);
-      if (result !== "unchanged") changed++;
+      const result = apply(file, fs.readFileSync(file, "utf8"), lang, exam, stats, questions);
+      if (result === "changed") changed++;
       console.log(
-        `${result.padEnd(9)} ${rel}  (${stats.subjects} subjects, ${stats.chapters} chapters, ${stats.questions} questions)`
+        `${result.padEnd(9)} ${rel}  (${stats.subjects} subjects, ${stats.chapters} chapters, ${questions} questions)`
       );
     }
   }
 
+  for (const exam of index.exams || []) {
+    if ((exam.sections || []).length && !exam.book) {
+      missingBook++;
+      console.log(`no book   data/exams/index.json -> ${exam.id} has no "book" record`);
+    }
+  }
+
   console.log(`\n${CHECK ? "Would change" : "Changed"}: ${changed} page(s)`);
+  if (missingBook) console.log(`Missing "book" records: ${missingBook}`);
   if (changed && CHECK) process.exitCode = 1;
 }
 
