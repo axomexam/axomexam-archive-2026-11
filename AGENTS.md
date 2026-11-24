@@ -4070,3 +4070,26 @@ Full rebuild order for the book:
 Hub word counts after the pass: thinnest 507 (was 306), arithmetic 690,
 technical-science 1,062. Still open: the numerical pages' explanations, which
 need worked solutions, and the 38 question texts repeated across two pages.
+
+### Numerical worked solutions (commit d782021f)
+
+`tools/enrich-numerical-explanations.py` rewrites the numerical pages'
+one-line explanations into working. Each handler recomputes the value from the
+numbers in the fragment (or from the stem) and only rewrites when its own
+result matches the stored answer, so a rewrite cannot contradict the key.
+Idempotent: anything already eight words or longer is skipped.
+
+Add it to the rebuild order before the build:
+
+    python3 tools/enrich-numerical-explanations.py
+    python3 tools/enrich-book-explanations.py
+    node tools/build-dhs-dme-technical.js
+    node tools/add-book-quiz-schema.js
+    node tools/add-book-hub-guides.js
+    node tools/seo-tighten-meta.js
+    # then restore the 720 unrelated AS pages (see above)
+
+Numerical explanations under six words: 705 -> 258. The remainder are
+fragments with no number to verify against ("k = 8", "Difference = 120") or
+question shapes not yet handled (partnerships where a partner joins after N
+months); add a handler rather than a filler sentence.
