@@ -37590,8 +37590,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "Natural numbers begin at 1.",
-    "as": "স্বাভাৱিক সংখ্যা 1 ৰ পৰা আৰম্ভ হয়।"
+    "en": "Counting numbers 1, 2, 3, … are the natural numbers, so the series starts at 1.",
+    "as": "১, ২, ৩, … গণনা সংখ্যাবোৰেই স্বাভাৱিক সংখ্যা, গতিকে শৃংখলা ১ ৰ পৰা আৰম্ভ হয়।"
    }
   },
   {
@@ -37620,8 +37620,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "Whole numbers begin at 0.",
-    "as": "পূৰ্ণ সংখ্যা 0 ৰ পৰা আৰম্ভ হয়।"
+    "en": "Whole numbers are 0, 1, 2, 3, …, so the series starts at 0.",
+    "as": "পূৰ্ণ সংখ্যা ০, ১, ২, ৩, …, গতিকে শৃংখলা ০ ৰ পৰা আৰম্ভ হয়।"
    }
   },
   {
@@ -39240,8 +39240,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "Aligning the decimals gives 0.111.",
-    "as": "দশমিকবোৰ শাৰী পাতিলে 0.111 পোৱা যায়।"
+    "en": "0.100 + 0.010 + 0.001 = 0.111.",
+    "as": "০.১০০ + ০.০১০ + ০.০০১ = ০.১১১।"
    }
   },
   {
@@ -58369,8 +58369,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "Aligning the decimals gives 0.666.",
-    "as": "দশমিকবোৰ শাৰী পাতিলে 0.666 পোৱা যায়।"
+    "en": "0.600 + 0.060 + 0.006 = 0.666.",
+    "as": "০.৬০০ + ০.০৬০ + ০.০০৬ = ০.৬৬৬।"
    }
   },
   {
@@ -85163,8 +85163,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "This is the Pythagoras theorem.",
-    "as": "এইটোৱেই পাইথাগোৰাছৰ উপপাদ্য।"
+    "en": "In a right triangle, hypotenuse² = base² + height², which is the Pythagoras theorem.",
+    "as": "সমকোণী ত্ৰিভুজত অতিভুজ² = ভূমি² + উচ্চতা², এইটোৱেই পাইথাগোৰাছৰ উপপাদ্য।"
    }
   },
   {

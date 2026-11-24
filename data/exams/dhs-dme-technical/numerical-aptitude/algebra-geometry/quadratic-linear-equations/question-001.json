@@ -63,8 +63,8 @@
     "id": "num-quadratic-linear-equations-001",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 1x² + -7x + 12 = 0, find α + β.",
-      "as": "যদি ১x² + -৭x + ১২ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of x² - 7x + 12 = 0, find α + β.",
+      "as": "যদি x² - ৭x + ১২ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -94,8 +94,8 @@
     "id": "num-quadratic-linear-equations-002",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 2x² + -9x + 4 = 0, find α + β.",
-      "as": "যদি ২x² + -৯x + ৪ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of 2x² - 9x + 4 = 0, find α + β.",
+      "as": "যদি ২x² - ৯x + ৪ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -125,8 +125,8 @@
     "id": "num-quadratic-linear-equations-003",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 3x² + 5x + -2 = 0, find α + β.",
-      "as": "যদি ৩x² + ৫x + -২ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of 3x² + 5x - 2 = 0, find α + β.",
+      "as": "যদি ৩x² + ৫x - ২ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -156,8 +156,8 @@
     "id": "num-quadratic-linear-equations-004",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 1x² + 3x + -10 = 0, find α + β.",
-      "as": "যদি ১x² + ৩x + -১০ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of x² + 3x - 10 = 0, find α + β.",
+      "as": "যদি x² + ৩x - ১০ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -218,8 +218,8 @@
     "id": "num-quadratic-linear-equations-006",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 5x² + -11x + 2 = 0, find α + β.",
-      "as": "যদি ৫x² + -১১x + ২ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of 5x² - 11x + 2 = 0, find α + β.",
+      "as": "যদি ৫x² - ১১x + ২ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -404,8 +404,8 @@
     "id": "num-quadratic-linear-equations-012",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the discriminant of 1x² + -5x + 6 = 0 and state the nature of its roots.",
-      "as": "১x² + -৫x + ৬ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
+      "en": "Find the discriminant of x² - 5x + 6 = 0 and state the nature of its roots.",
+      "as": "x² - ৫x + ৬ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
     },
     "options": [
       {
@@ -466,8 +466,8 @@
     "id": "num-quadratic-linear-equations-014",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the discriminant of 1x² + 2x + 5 = 0 and state the nature of its roots.",
-      "as": "১x² + ২x + ৫ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
+      "en": "Find the discriminant of x² + 2x + 5 = 0 and state the nature of its roots.",
+      "as": "x² + ২x + ৫ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
     },
     "options": [
       {
@@ -497,8 +497,8 @@
     "id": "num-quadratic-linear-equations-015",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the discriminant of 3x² + -4x + 2 = 0 and state the nature of its roots.",
-      "as": "৩x² + -৪x + ২ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
+      "en": "Find the discriminant of 3x² - 4x + 2 = 0 and state the nature of its roots.",
+      "as": "৩x² - ৪x + ২ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
     },
     "options": [
       {
@@ -528,8 +528,8 @@
     "id": "num-quadratic-linear-equations-016",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the discriminant of 1x² + -4x + 4 = 0 and state the nature of its roots.",
-      "as": "১x² + -৪x + ৪ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
+      "en": "Find the discriminant of x² - 4x + 4 = 0 and state the nature of its roots.",
+      "as": "x² - ৪x + ৪ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
     },
     "options": [
       {
@@ -559,8 +559,8 @@
     "id": "num-quadratic-linear-equations-017",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Solve the equation 1x² + -7x + 12 = 0.",
-      "as": "১x² + -৭x + ১২ = 0 সমাধান কৰা।"
+      "en": "Solve the equation x² - 7x + 12 = 0.",
+      "as": "x² - ৭x + ১২ = 0 সমাধান কৰা।"
     },
     "options": [
       {
@@ -590,8 +590,8 @@
     "id": "num-quadratic-linear-equations-018",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Solve the equation 1x² + 5x + 6 = 0.",
-      "as": "১x² + ৫x + ৬ = 0 সমাধান কৰা।"
+      "en": "Solve the equation x² + 5x + 6 = 0.",
+      "as": "x² + ৫x + ৬ = 0 সমাধান কৰা।"
     },
     "options": [
       {
@@ -621,8 +621,8 @@
     "id": "num-quadratic-linear-equations-019",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Solve the equation 1x² + -3x + -10 = 0.",
-      "as": "১x² + -৩x + -১০ = 0 সমাধান কৰা।"
+      "en": "Solve the equation x² - 3x - 10 = 0.",
+      "as": "x² - ৩x - ১০ = 0 সমাধান কৰা।"
     },
     "options": [
       {
@@ -652,8 +652,8 @@
     "id": "num-quadratic-linear-equations-020",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Solve the equation 2x² + -7x + 3 = 0.",
-      "as": "২x² + -৭x + ৩ = 0 সমাধান কৰা।"
+      "en": "Solve the equation 2x² - 7x + 3 = 0.",
+      "as": "২x² - ৭x + ৩ = 0 সমাধান কৰা।"
     },
     "options": [
       {
@@ -900,8 +900,8 @@
     "id": "num-quadratic-linear-equations-028",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the positive value of k for which 1x² + kx + 9 = 0 has equal roots.",
-      "as": "১x² + kx + ৯ = 0 ৰ মূল সমান হ'বলৈ k ৰ ধনাত্মক মান নিৰ্ণয় কৰা।"
+      "en": "Find the positive value of k for which x² + kx + 9 = 0 has equal roots.",
+      "as": "x² + kx + ৯ = 0 ৰ মূল সমান হ'বলৈ k ৰ ধনাত্মক মান নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -931,8 +931,8 @@
     "id": "num-quadratic-linear-equations-029",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the positive value of k for which 1x² + kx + 16 = 0 has equal roots.",
-      "as": "১x² + kx + ১৬ = 0 ৰ মূল সমান হ'বলৈ k ৰ ধনাত্মক মান নিৰ্ণয় কৰা।"
+      "en": "Find the positive value of k for which x² + kx + 16 = 0 has equal roots.",
+      "as": "x² + kx + ১৬ = 0 ৰ মূল সমান হ'বলৈ k ৰ ধনাত্মক মান নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -1024,8 +1024,8 @@
     "id": "num-quadratic-linear-equations-032",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the positive value of k for which 1x² + kx + 25 = 0 has equal roots.",
-      "as": "১x² + kx + ২৫ = 0 ৰ মূল সমান হ'বলৈ k ৰ ধনাত্মক মান নিৰ্ণয় কৰা।"
+      "en": "Find the positive value of k for which x² + kx + 25 = 0 has equal roots.",
+      "as": "x² + kx + ২৫ = 0 ৰ মূল সমান হ'বলৈ k ৰ ধনাত্মক মান নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -1148,8 +1148,8 @@
     "id": "num-quadratic-linear-equations-036",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "One root of x² + -5x + k = 0 is 2. Find k.",
-      "as": "x² + -৫x + k = 0 ৰ এটা মূল ২। k নিৰ্ণয় কৰা।"
+      "en": "One root of x² - 5x + k = 0 is 2. Find k.",
+      "as": "x² - ৫x + k = 0 ৰ এটা মূল ২। k নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -1179,8 +1179,8 @@
     "id": "num-quadratic-linear-equations-037",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "One root of x² + -7x + k = 0 is 3. Find k.",
-      "as": "x² + -৭x + k = 0 ৰ এটা মূল ৩। k নিৰ্ণয় কৰা।"
+      "en": "One root of x² - 7x + k = 0 is 3. Find k.",
+      "as": "x² - ৭x + k = 0 ৰ এটা মূল ৩। k নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -1241,8 +1241,8 @@
     "id": "num-quadratic-linear-equations-039",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "One root of x² + -9x + k = 0 is 4. Find k.",
-      "as": "x² + -৯x + k = 0 ৰ এটা মূল ৪। k নিৰ্ণয় কৰা।"
+      "en": "One root of x² - 9x + k = 0 is 4. Find k.",
+      "as": "x² - ৯x + k = 0 ৰ এটা মূল ৪। k নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -1489,8 +1489,8 @@
     "id": "num-quadratic-linear-equations-047",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 1x² + -8x + 15 = 0, find α + β.",
-      "as": "যদি ১x² + -৮x + ১৫ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of x² - 8x + 15 = 0, find α + β.",
+      "as": "যদি x² - ৮x + ১৫ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -1520,8 +1520,8 @@
     "id": "num-quadratic-linear-equations-048",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 2x² + -11x + 5 = 0, find α + β.",
-      "as": "যদি ২x² + -১১x + ৫ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of 2x² - 11x + 5 = 0, find α + β.",
+      "as": "যদি ২x² - ১১x + ৫ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -1551,8 +1551,8 @@
     "id": "num-quadratic-linear-equations-049",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 1x² + 4x + -12 = 0, find α + β.",
-      "as": "যদি ১x² + ৪x + -১২ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of x² + 4x - 12 = 0, find α + β.",
+      "as": "যদি x² + ৪x - ১২ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -1582,8 +1582,8 @@
     "id": "num-quadratic-linear-equations-050",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 3x² + -10x + 3 = 0, find α + β.",
-      "as": "যদি ৩x² + -১০x + ৩ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of 3x² - 10x + 3 = 0, find α + β.",
+      "as": "যদি ৩x² - ১০x + ৩ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -1613,8 +1613,8 @@
     "id": "num-quadratic-linear-equations-051",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 1x² + -6x + 8 = 0, find α + β.",
-      "as": "যদি ১x² + -৬x + ৮ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of x² - 6x + 8 = 0, find α + β.",
+      "as": "যদি x² - ৬x + ৮ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -1768,8 +1768,8 @@
     "id": "num-quadratic-linear-equations-056",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the discriminant of 1x² + 6x + 9 = 0 and state the nature of its roots.",
-      "as": "১x² + ৬x + ৯ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
+      "en": "Find the discriminant of x² + 6x + 9 = 0 and state the nature of its roots.",
+      "as": "x² + ৬x + ৯ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
     },
     "options": [
       {
@@ -1830,8 +1830,8 @@
     "id": "num-quadratic-linear-equations-058",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the discriminant of 1x² + -2x + -3 = 0 and state the nature of its roots.",
-      "as": "১x² + -২x + -৩ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
+      "en": "Find the discriminant of x² - 2x - 3 = 0 and state the nature of its roots.",
+      "as": "x² - ২x - ৩ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
     },
     "options": [
       {
@@ -1861,8 +1861,8 @@
     "id": "num-quadratic-linear-equations-059",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the discriminant of 4x² + -4x + 1 = 0 and state the nature of its roots.",
-      "as": "৪x² + -৪x + ১ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
+      "en": "Find the discriminant of 4x² - 4x + 1 = 0 and state the nature of its roots.",
+      "as": "৪x² - ৪x + ১ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
     },
     "options": [
       {
@@ -1892,8 +1892,8 @@
     "id": "num-quadratic-linear-equations-060",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Solve the equation 1x² + -9x + 20 = 0.",
-      "as": "১x² + -৯x + ২০ = 0 সমাধান কৰা।"
+      "en": "Solve the equation x² - 9x + 20 = 0.",
+      "as": "x² - ৯x + ২০ = 0 সমাধান কৰা।"
     },
     "options": [
       {
@@ -1923,8 +1923,8 @@
     "id": "num-quadratic-linear-equations-061",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Solve the equation 1x² + 2x + -15 = 0.",
-      "as": "১x² + ২x + -১৫ = 0 সমাধান কৰা।"
+      "en": "Solve the equation x² + 2x - 15 = 0.",
+      "as": "x² + ২x − ১৫ = ০ সমাধান কৰা।"
     },
     "options": [
       {
@@ -1946,16 +1946,16 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "Roots are -5 and 3.",
-      "as": "মূল -৫ আৰু ৩।"
+      "en": "Factorising: x² + 2x - 15 = (x + 5)(x - 3) = 0, so x = -5 or x = 3.",
+      "as": "উৎপাদক বিশ্লেষণ: x² + ২x − ১৫ = (x + ৫)(x − ৩) = ০, গতিকে x = −৫ বা x = ৩।"
     }
   },
   {
     "id": "num-quadratic-linear-equations-062",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Solve the equation 1x² + -4x + 3 = 0.",
-      "as": "১x² + -৪x + ৩ = 0 সমাধান কৰা।"
+      "en": "Solve the equation x² - 4x + 3 = 0.",
+      "as": "x² - ৪x + ৩ = 0 সমাধান কৰা।"
     },
     "options": [
       {
@@ -2140,8 +2140,8 @@
     "id": "num-quadratic-linear-equations-068",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 2x² + -7x + 6 = 0, find α² + β².",
-      "as": "যদি ২x² + -৭x + ৬ = 0 ৰ মূল α আৰু β, তেন্তে α² + β² নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of 2x² - 7x + 6 = 0, find α² + β².",
+      "as": "যদি ২x² - ৭x + ৬ = 0 ৰ মূল α আৰু β, তেন্তে α² + β² নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2171,8 +2171,8 @@
     "id": "num-quadratic-linear-equations-069",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 1x² + 5x + -14 = 0, find α² + β².",
-      "as": "যদি ১x² + ৫x + -১৪ = 0 ৰ মূল α আৰু β, তেন্তে α² + β² নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of x² + 5x - 14 = 0, find α² + β².",
+      "as": "যদি x² + ৫x - ১৪ = 0 ৰ মূল α আৰু β, তেন্তে α² + β² নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2202,8 +2202,8 @@
     "id": "num-quadratic-linear-equations-070",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the positive value of k for which 1x² + kx + 36 = 0 has equal roots.",
-      "as": "১x² + kx + ৩৬ = 0 ৰ মূল সমান হ'বলৈ k ৰ ধনাত্মক মান নিৰ্ণয় কৰা।"
+      "en": "Find the positive value of k for which x² + kx + 36 = 0 has equal roots.",
+      "as": "x² + kx + ৩৬ = 0 ৰ মূল সমান হ'বলৈ k ৰ ধনাত্মক মান নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2295,8 +2295,8 @@
     "id": "num-quadratic-linear-equations-073",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "One root of x² + -6x + k = 0 is 2. Find k.",
-      "as": "x² + -৬x + k = 0 ৰ এটা মূল ২। k নিৰ্ণয় কৰা।"
+      "en": "One root of x² - 6x + k = 0 is 2. Find k.",
+      "as": "x² - ৬x + k = 0 ৰ এটা মূল ২। k নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2326,8 +2326,8 @@
     "id": "num-quadratic-linear-equations-074",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "One root of x² + -8x + k = 0 is 3. Find k.",
-      "as": "x² + -৮x + k = 0 ৰ এটা মূল ৩। k নিৰ্ণয় কৰা।"
+      "en": "One root of x² - 8x + k = 0 is 3. Find k.",
+      "as": "x² - ৮x + k = 0 ৰ এটা মূল ৩। k নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2450,8 +2450,8 @@
     "id": "num-quadratic-linear-equations-078",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 1x² + -9x + 18 = 0, find α + β.",
-      "as": "যদি ১x² + -৯x + ১৮ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of x² - 9x + 18 = 0, find α + β.",
+      "as": "যদি x² - ৯x + ১৮ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2481,8 +2481,8 @@
     "id": "num-quadratic-linear-equations-079",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 1x² + 7x + 10 = 0, find α + β.",
-      "as": "যদি ১x² + ৭x + ১০ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of x² + 7x + 10 = 0, find α + β.",
+      "as": "যদি x² + ৭x + ১০ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2512,8 +2512,8 @@
     "id": "num-quadratic-linear-equations-080",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "If α and β are the roots of 3x² + -8x + 4 = 0, find α + β.",
-      "as": "যদি ৩x² + -৮x + ৪ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
+      "en": "If α and β are the roots of 3x² - 8x + 4 = 0, find α + β.",
+      "as": "যদি ৩x² - ৮x + ৪ = 0 ৰ মূল α আৰু β, তেন্তে α + β নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2636,8 +2636,8 @@
     "id": "num-quadratic-linear-equations-084",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the discriminant of 1x² + 3x + -4 = 0 and state the nature of its roots.",
-      "as": "১x² + ৩x + -৪ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
+      "en": "Find the discriminant of x² + 3x - 4 = 0 and state the nature of its roots.",
+      "as": "x² + ৩x - ৪ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
     },
     "options": [
       {
@@ -2667,8 +2667,8 @@
     "id": "num-quadratic-linear-equations-085",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the discriminant of 2x² + -4x + 3 = 0 and state the nature of its roots.",
-      "as": "২x² + -৪x + ৩ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
+      "en": "Find the discriminant of 2x² - 4x + 3 = 0 and state the nature of its roots.",
+      "as": "২x² - ৪x + ৩ = 0 ৰ নিৰ্ণায়ক নিৰ্ণয় কৰি মূলৰ প্ৰকৃতি কোৱা।"
     },
     "options": [
       {
@@ -2698,8 +2698,8 @@
     "id": "num-quadratic-linear-equations-086",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Solve the equation 1x² + -8x + 12 = 0.",
-      "as": "১x² + -৮x + ১২ = 0 সমাধান কৰা।"
+      "en": "Solve the equation x² - 8x + 12 = 0.",
+      "as": "x² - ৮x + ১২ = 0 সমাধান কৰা।"
     },
     "options": [
       {
@@ -2729,8 +2729,8 @@
     "id": "num-quadratic-linear-equations-087",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Solve the equation 2x² + -9x + 4 = 0.",
-      "as": "২x² + -৯x + ৪ = 0 সমাধান কৰা।"
+      "en": "Solve the equation x² - 5x + 4 = 0.",
+      "as": "x² − ৫x + ৪ = ০ সমাধান কৰা।"
     },
     "options": [
       {
@@ -2752,8 +2752,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "Roots are 1 and 4.",
-      "as": "মূল ১ আৰু ৪।"
+      "en": "Factorising: x² - 5x + 4 = (x - 1)(x - 4) = 0, so x = 1 or x = 4.",
+      "as": "উৎপাদক বিশ্লেষণ: x² − ৫x + ৪ = (x − ১)(x − ৪) = ০, গতিকে x = ১ বা x = ৪।"
     }
   },
   {
@@ -2884,8 +2884,8 @@
     "id": "num-quadratic-linear-equations-092",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "Find the positive value of k for which 1x² + kx + 49 = 0 has equal roots.",
-      "as": "১x² + kx + ৪৯ = 0 ৰ মূল সমান হ'বলৈ k ৰ ধনাত্মক মান নিৰ্ণয় কৰা।"
+      "en": "Find the positive value of k for which x² + kx + 49 = 0 has equal roots.",
+      "as": "x² + kx + ৪৯ = 0 ৰ মূল সমান হ'বলৈ k ৰ ধনাত্মক মান নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2946,8 +2946,8 @@
     "id": "num-quadratic-linear-equations-094",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "One root of x² + -6x + k = 0 is 3. Find k.",
-      "as": "x² + -৬x + k = 0 ৰ এটা মূল ৩। k নিৰ্ণয় কৰা।"
+      "en": "One root of x² - 6x + k = 0 is 3. Find k.",
+      "as": "x² - ৬x + k = 0 ৰ এটা মূল ৩। k নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2977,8 +2977,8 @@
     "id": "num-quadratic-linear-equations-095",
     "leaf": "quadratic-linear-equations",
     "q": {
-      "en": "One root of x² + -4x + k = 0 is 1. Find k.",
-      "as": "x² + -৪x + k = 0 ৰ এটা মূল ১। k নিৰ্ণয় কৰা।"
+      "en": "One root of x² - 4x + k = 0 is 1. Find k.",
+      "as": "x² - ৪x + k = 0 ৰ এটা মূল ১। k নিৰ্ণয় কৰা।"
     },
     "options": [
       {

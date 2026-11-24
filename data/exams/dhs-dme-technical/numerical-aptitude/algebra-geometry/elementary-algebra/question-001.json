@@ -838,8 +838,8 @@
     "id": "num-elementary-algebra-026",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + 1x² + -3x + 2 is divided by (x - 2).",
-      "as": "x³ + ১x² + -৩x + ২ ক (x - ২) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ + x² - 3x + 2 is divided by (x - 2).",
+      "as": "x³ + x² - ৩x + ২ ক (x - ২) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -869,8 +869,8 @@
     "id": "num-elementary-algebra-027",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + 2x² + 1x + -4 is divided by (x - 3).",
-      "as": "x³ + ২x² + ১x + -৪ ক (x - ৩) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ + 2x² + 1x - 4 is divided by (x - 3).",
+      "as": "x³ + ২x² + ১x - ৪ ক (x - ৩) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -900,8 +900,8 @@
     "id": "num-elementary-algebra-028",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + 1x² + 2x + -5 is divided by (x - 4).",
-      "as": "x³ + ১x² + ২x + -৫ ক (x - ৪) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ + x² + 2x - 5 is divided by (x - 4).",
+      "as": "x³ + x² + ২x - ৫ ক (x - ৪) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -931,8 +931,8 @@
     "id": "num-elementary-algebra-029",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + -2x² + 3x + 1 is divided by (x - 2).",
-      "as": "x³ + -২x² + ৩x + ১ ক (x - ২) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ - 2x² + 3x + 1 is divided by (x - 2).",
+      "as": "x³ - ২x² + ৩x + ১ ক (x - ২) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -962,8 +962,8 @@
     "id": "num-elementary-algebra-030",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + 3x² + -2x + 4 is divided by (x - 1).",
-      "as": "x³ + ৩x² + -২x + ৪ ক (x - ১) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ + 3x² - 2x + 4 is divided by (x - 1).",
+      "as": "x³ + ৩x² - ২x + ৪ ক (x - ১) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2233,8 +2233,8 @@
     "id": "num-elementary-algebra-071",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + 2x² + -5x + 6 is divided by (x - 3).",
-      "as": "x³ + ২x² + -৫x + ৬ ক (x - ৩) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ + 2x² - 5x + 6 is divided by (x - 3).",
+      "as": "x³ + ২x² - ৫x + ৬ ক (x - ৩) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2264,8 +2264,8 @@
     "id": "num-elementary-algebra-072",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + 1x² + -4x + 3 is divided by (x - 2).",
-      "as": "x³ + ১x² + -৪x + ৩ ক (x - ২) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ + x² - 4x + 3 is divided by (x - 2).",
+      "as": "x³ + x² - ৪x + ৩ ক (x - ২) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2295,8 +2295,8 @@
     "id": "num-elementary-algebra-073",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + 3x² + 2x + -6 is divided by (x - 1).",
-      "as": "x³ + ৩x² + ২x + -৬ ক (x - ১) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ + 3x² + 2x - 6 is divided by (x - 1).",
+      "as": "x³ + ৩x² + ২x - ৬ ক (x - ১) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2822,8 +2822,8 @@
     "id": "num-elementary-algebra-090",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + 2x² + 3x + -5 is divided by (x - 2).",
-      "as": "x³ + ২x² + ৩x + -৫ ক (x - ২) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ + 2x² + 3x - 5 is divided by (x - 2).",
+      "as": "x³ + ২x² + ৩x - ৫ ক (x - ২) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2853,8 +2853,8 @@
     "id": "num-elementary-algebra-091",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + 1x² + -2x + -8 is divided by (x - 4).",
-      "as": "x³ + ১x² + -২x + -৮ ক (x - ৪) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ + x² - 2x - 8 is divided by (x - 4).",
+      "as": "x³ + x² - ২x - ৮ ক (x - ৪) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
@@ -2884,8 +2884,8 @@
     "id": "num-elementary-algebra-092",
     "leaf": "elementary-algebra",
     "q": {
-      "en": "Find the remainder when x³ + 4x² + -3x + 2 is divided by (x - 3).",
-      "as": "x³ + ৪x² + -৩x + ২ ক (x - ৩) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
+      "en": "Find the remainder when x³ + 4x² - 3x + 2 is divided by (x - 3).",
+      "as": "x³ + ৪x² - ৩x + ২ ক (x - ৩) ৰে ভাগ কৰিলে ভাগশেষ নিৰ্ণয় কৰা।"
     },
     "options": [
       {
