@@ -220,7 +220,7 @@ function jsonld(opts) {
       datePublished: DATE,
       dateModified: DATE,
       isAccessibleForFree: true,
-      author: { "@id": BASE + "/editorial-team/#bapon-barmon" },
+      author: { "@id": BASE + "/#editorial-team" },
     });
   }
   graph.push({

@@ -66,6 +66,19 @@ const EMPLOYEES = [
    as author, so a reviewer can see who is accountable for it. */
 const INSTITUTIONAL_ROUTE = /^\/(as\/)?(about|contact|editorial-team|editorial-policy|privacy|privacy-policy|disclaimer|submit|search)$/;
 
+/* The byline on study pages is the editorial team, not the founder
+   personally. /editorial-team/ says so: the team is "the byline that appears
+   on topic pages". The founder stays on the Organization node as founder,
+   which is the role he actually holds. */
+const TEAM_ID = BASE + "/#editorial-team";
+const TEAM = {
+  "@type": "Organization",
+  "@id": TEAM_ID,
+  name: "axomexam Editorial Team",
+  url: BASE + "/editorial-team/",
+  parentOrganization: { "@id": ORG_ID },
+};
+
 const SKIP_DIRS = new Set([".git", "dist", "js", "css", "data", "tools", "node_modules", "images", "app"]);
 
 /* ---------------- helpers ---------------- */
@@ -423,7 +436,7 @@ function quizNode(url, title, description, subject, cards) {
     about: subject ? { "@type": "Thing", name: subject } : undefined,
     educationalAlignment: alignment,
     inLanguage: langsFor(url),
-    author: { "@id": FOUNDER_ID },
+    author: { "@id": TEAM_ID },
     hasPart: cards.map((c) => ({
       "@type": "Question",
       eduQuestionType: "Flashcard",
@@ -445,7 +458,7 @@ function learningResourceNode(url, title, description, subject, lrType, updated)
     about: subject ? { "@type": "Thing", name: subject } : undefined,
     inLanguage: langsFor(url),
     isPartOf: { "@id": SITE_ID },
-    author: { "@id": FOUNDER_ID },
+    author: { "@id": TEAM_ID },
     publisher: { "@id": ORG_ID },
     dateModified: updated || undefined,
   };
@@ -459,7 +472,7 @@ function bookNode(url, title, description, image, updated) {
     description: description || undefined,
     inLanguage: langsFor(url),
     bookFormat: "https://schema.org/EBook",
-    author: { "@id": FOUNDER_ID },
+    author: { "@id": TEAM_ID },
     publisher: { "@id": ORG_ID },
     url: url,
     image: image || undefined,
@@ -479,7 +492,7 @@ function articleNode(url, title, description, image, updated) {
     isPartOf: { "@id": SITE_ID },
     mainEntityOfPage: { "@id": url + "#webpage" },
     publisher: { "@id": ORG_ID },
-    author: { "@id": FOUNDER_ID },
+    author: { "@id": TEAM_ID },
     image: image ? { "@type": "ImageObject", url: image } : undefined,
     datePublished: date || undefined,
     dateModified: date || undefined,
@@ -591,11 +604,11 @@ function buildGraph(html, rel) {
 
     const wpNode = pageNode({ url, type: pageType, title, description, image, mainId, breadcrumbId, updated });
     if (!INSTITUTIONAL_ROUTE.test(route) && kind !== "app") {
-      wpNode.author = { "@id": FOUNDER_ID };
+      wpNode.author = { "@id": TEAM_ID };
       /* Declare the author on the page that references it. A bare @id
          reference that no node in the document defines leaves the entity
          unresolved, which is worse than no author at all. */
-      graph.push(FOUNDER);
+      graph.push(TEAM);
     }
     graph.unshift(wpNode);
     if (bc.length) graph.push(breadcrumbNode(url, bc));
@@ -603,7 +616,7 @@ function buildGraph(html, rel) {
        so the Person entity is declared here and not only on the home page.
        The Organization node is repeated so the page resolves #organization
        locally instead of only from the home page. */
-    if (/\/(as\/)?editorial-team\/$/.test(url)) graph.push(organizationNode(), founderNode(url), ...EMPLOYEES);
+    if (/\/(as\/)?editorial-team\/$/.test(url)) graph.push(organizationNode(), TEAM, founderNode(url), ...EMPLOYEES);
   }
 
   return { "@context": "https://schema.org", "@graph": graph.filter(Boolean) };

@@ -314,7 +314,7 @@ function jsonld(cat, sub, set) {
       isAccessibleForFree: true,
       datePublished: dates.created,
       dateModified: dates.modified,
-      author: { "@id": `${BASE}/editorial-team/#bapon-barmon` },
+      author: { "@id": `${BASE}/#editorial-team` },
     },
     {
       "@type": "BreadcrumbList",
@@ -352,7 +352,7 @@ function jsonld(cat, sub, set) {
         };
       }),
       isAccessibleForFree: true,
-      author: { "@id": `${BASE}/editorial-team/#bapon-barmon` },
+      author: { "@id": `${BASE}/#editorial-team` },
       publisher: { "@id": `${BASE}/#organization` },
     },
     {
