@@ -161,13 +161,21 @@ they outrank any cleanup, refactor or "nice to have" an agent might want to do.
   counts, format, and the published and last-updated dates. It is the one
   visible block added on the owner's request, so do not strip it as UI churn.
   Two halves must stay in step:
-  - `js/app.src.js` → `examBookDetailsHTML()` / `hydrateExamBookDetails()`
-    renders it inside `<main id="app">` for readers (the counts hydrate
-    asynchronously, like the hero total);
+  - `js/app.src.js` → `bookDetailsFactsHTML()` fills the facts,
+    `examBookDetailsHTML()` places them in the hero's right column (the
+    cover's neighbour, under the description) and `hydrateExamBookDetails()`
+    fills the counts asynchronously. Below 640px the column is hidden and
+    `examBookDetailsButtonHTML()` shows a "More details" button that opens the
+    same facts in a bottom sheet (`openBookDetailsModal()`, close button plus
+    backdrop and Escape). The two breakpoint rules are injected once by
+    `ensureBookDetailsStyle()`; do not move them into `css/style.css` — the
+    static pages must keep the facts visible without JS;
   - `tools/add-book-details.js` writes the same markup as the static crawler
-    copy at the top of `<main>`, which the runtime replaces on load. Re-run it
-    after rebuilding a book page; it is idempotent (`Changed: 0` on a clean
-    tree).
+    copy inside the hero (or `.page-head` on a page built without a cover),
+    which the runtime replaces on load. It only touches the books listed in
+    `EXAM_BOOKS_READY` and strips the block from the rest, so a "coming soon"
+    page never advertises a record. Re-run it after rebuilding a book page; it
+    is idempotent (`Changed: 0` on a clean tree).
   Every fact lives in `data/exams/index.json` → `exam.book` (code, authority,
   `authorityUrl` — only for portals already listed in `data/sources.json` —
   and the published / updated dates). Subject and chapter counts are the leaf

@@ -120,7 +120,7 @@ function questionCount(id, manifest) {
 }
 
 function row(label, value) {
-  return `            <div><span style="display:block; font-size:.68rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:3px;">${label}</span><span style="display:block; font-size:.9rem; font-weight:600; line-height:1.4; color:var(--ink,#0f172a);">${value}</span></div>`;
+  return `            <div><span style="display:block; font-size:.6rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:2px;">${label}</span><span style="display:block; font-size:.78rem; font-weight:600; line-height:1.35; color:var(--ink,#0f172a);">${value}</span></div>`;
 }
 
 function block({ id, lang, exam, stats, questions }) {
@@ -164,11 +164,11 @@ function block({ id, lang, exam, stats, questions }) {
 
   return `        <!-- axo-book-details:start -->
         <div data-axo-book-details="1" style="width:100%; margin-top:14px; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${panelFont}">
-          <p style="margin:0 0 12px; font-size:.7rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${L.heading} <span style="font-weight:700;${kickerFont}">${L.kicker}</span></p>
-          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:16px 24px;">
+          <p style="margin:0 0 10px; font-size:.64rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${L.heading} <span style="font-weight:700;${kickerFont}">${L.kicker}</span></p>
+          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px 18px;">
 ${rows.join("\n")}
           </div>
-          <p style="margin:16px 0 0; font-size:.74rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
+          <p style="margin:12px 0 0; font-size:.7rem; color:var(--ink-faint,#94a3b8);">${L.note(esc(authorityName))}</p>
         </div>
         <!-- axo-book-details:end -->`;
 }

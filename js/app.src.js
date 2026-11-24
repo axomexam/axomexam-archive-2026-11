@@ -5527,9 +5527,14 @@
   }
 
   /* One labelled cell of the book-details card. */
+  /* Assamese runs need the site's Bengali font: Inter has no glyphs for them. */
+  function bookFontCss() {
+    return state.lang === "as" ? "font-family:var(--font-as, 'Noto Sans Bengali', sans-serif);" : "";
+  }
+
   function bookFactHTML(label, valueHTML) {
     return `
-              <div><span style="display:block; font-size:.68rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:3px;">${escapeHtml(label)}</span><span style="display:block; font-size:.9rem; font-weight:600; line-height:1.4; color:var(--ink,#0f172a);">${valueHTML}</span></div>`;
+              <div><span style="display:block; font-size:.6rem; letter-spacing:.07em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8); margin-bottom:2px;">${escapeHtml(label)}</span><span style="display:block; font-size:.78rem; font-weight:600; line-height:1.35; color:var(--ink,#0f172a);">${valueHTML}</span></div>`;
   }
 
   /* Library record for one exam book, rendered above the subject cards.
@@ -5537,7 +5542,7 @@
      are derived from the same sections the cards below are built from, so the
      two can never disagree. tools/add-book-details.js writes the same block
      into the static HTML for crawlers (the runtime replaces it on load). */
-  function examBookDetailsHTML(exam) {
+  function bookDetailsFactsHTML(exam) {
     const book = exam && exam.book;
     if (!book) return "";
     const lang = state.lang === "as" ? "as" : "en";
@@ -5547,7 +5552,6 @@
       : escapeHtml(authority);
     const subjects = (exam.sections || []).filter((s) => s.type !== "syllabus").length;
     const chapters = examBookChapters(exam);
-    const panelFont = lang === "as" ? "font-family:var(--font-as, 'Noto Sans Bengali', sans-serif);" : "";
     const kickerFont = lang === "as" ? "" : "font-family:var(--font-as, 'Noto Sans Bengali', sans-serif);";
     const facts = [
       bookFactHTML(tc("book.publisher"), `<a href="${lang === "as" ? "/as/about/" : "/about/"}" style="color:inherit; text-decoration:underline;">axomexam.in</a>`),
@@ -5563,12 +5567,74 @@
       bookFactHTML(tc("book.updated"), escapeHtml(ebkLang(book.updated, lang))),
     ].join("");
     return `
-        <div data-axo-book-details="1" style="width:100%; margin-top:14px; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${panelFont}">
-          <p style="margin:0 0 12px; font-size:.7rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${escapeHtml(tc("book.title"))} <span style="font-weight:700;${kickerFont}">${escapeHtml(tc("book.kicker"))}</span></p>
-          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:16px 24px;">${facts}
+          <p style="margin:0 0 10px; font-size:.64rem; letter-spacing:.09em; text-transform:uppercase; font-weight:800; color:var(--ink-faint,#94a3b8);">${escapeHtml(tc("book.title"))} <span style="font-weight:700;${kickerFont}">${escapeHtml(tc("book.kicker"))}</span></p>
+          <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px 18px;">${facts}
           </div>
-          <p style="margin:16px 0 0; font-size:.74rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${escapeHtml(tcf("book.note", { authority }))}</p>
+          <p style="margin:12px 0 0; font-size:.7rem; color:var(--ink-faint,#94a3b8);">© axomexam.in &middot; ${escapeHtml(tcf("book.note", { authority }))}</p>`;
+  }
+
+  /* Same record, dropped into the hero under the description on desktop. */
+  function examBookDetailsHTML(exam) {
+    const body = bookDetailsFactsHTML(exam);
+    if (!body) return "";
+    return `
+        <div data-axo-book-details="1" style="width:100%; margin-top:14px; padding-top:12px; border-top:1px solid var(--border,#e2e8f0); text-align:left;${bookFontCss()}">${body}
         </div>`;
+  }
+
+  /* Phones get the record in a sheet instead, opened from this button. */
+  function examBookDetailsButtonHTML(exam) {
+    if (!exam || !exam.book) return "";
+    return `
+            <button type="button" class="btn btn-outline btn-sm" data-axo-details-open="1" style="display:none; margin-top:14px;">${escapeHtml(tc("book.moreDetails"))}<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg></button>`;
+  }
+
+  const BOOK_DETAILS_CSS = "@media (max-width:640px){[data-axo-book-details]{display:none !important}[data-axo-details-open]{display:inline-flex !important}}";
+
+  function ensureBookDetailsStyle() {
+    if (document.querySelector("style[data-axo-details-style]")) return;
+    const style = document.createElement("style");
+    style.setAttribute("data-axo-details-style", "1");
+    style.textContent = BOOK_DETAILS_CSS;
+    document.head.appendChild(style);
+  }
+
+  function closeBookDetailsModal() {
+    const modal = document.querySelector("[data-axo-details-modal]");
+    if (!modal) return;
+    modal.remove();
+    document.body.style.overflow = "";
+    document.removeEventListener("keydown", bookDetailsModalKeydown);
+  }
+
+  function bookDetailsModalKeydown(e) {
+    if (e.key === "Escape") closeBookDetailsModal();
+  }
+
+  function openBookDetailsModal(exam) {
+    const body = bookDetailsFactsHTML(exam);
+    if (!body) return;
+    closeBookDetailsModal();
+    const name = examBookName(exam, state.lang);
+    const sheet = document.createElement("div");
+    sheet.setAttribute("data-axo-details-modal", "1");
+    sheet.style.cssText = "position:fixed; inset:0; z-index:2000; display:flex; align-items:flex-end; justify-content:center; background:rgba(2,6,23,.62);";
+    sheet.innerHTML = `
+        <div role="dialog" aria-modal="true" aria-label="${escapeHtml(name)}" style="width:100%; max-width:600px; max-height:88vh; overflow:auto; background:var(--bg,#fff); border:1px solid var(--border,#e2e8f0); border-bottom:none; border-radius:18px 18px 0 0; padding:16px 18px 24px; box-shadow:0 -10px 40px rgba(2,6,23,.4); text-align:left;${bookFontCss()}">
+          <div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+            <p style="margin:0; flex:1; font-size:.92rem; font-weight:800; color:var(--ink,#0f172a);">${escapeHtml(name)}</p>
+            <button type="button" class="btn btn-outline btn-sm" data-axo-details-close="1" aria-label="${escapeHtml(tc("book.close"))}" style="flex:0 0 auto; padding:7px 13px;">&times;</button>
+          </div>${body}
+        </div>`;
+    document.body.appendChild(sheet);
+    document.body.style.overflow = "hidden";
+    document.addEventListener("keydown", bookDetailsModalKeydown);
+    sheet.addEventListener("click", (e) => {
+      if (e.target === sheet || e.target.closest("[data-axo-details-close]")) closeBookDetailsModal();
+    });
+    hydrateExamBookDetails(sheet, exam);
+    const closeBtn = sheet.querySelector("[data-axo-details-close]");
+    if (closeBtn) closeBtn.focus();
   }
 
   async function hydrateExamBookDetails(scope, exam) {
@@ -5770,13 +5836,13 @@
           </div>
           <div class="exam-cover-hero-info">
             <h1>${titleHTML}</h1>
-            <p class="page-desc">${descHTML}</p>${examBookDetailsHTML(exam)}
+            <p class="page-desc">${descHTML}</p>${examBookDetailsButtonHTML(exam)}${examBookDetailsHTML(exam)}
           </div>
         </section>`
       : `<div class="page-head">
           <nav class="breadcrumb">${crumbHTML}</nav>
           <h1>${titleHTML}</h1>
-          <p class="page-desc">${descHTML}</p>${examBookDetailsHTML(exam)}
+          <p class="page-desc">${descHTML}</p>${examBookDetailsButtonHTML(exam)}${examBookDetailsHTML(exam)}
         </div>`;
     main.innerHTML = `
       ${headHTML}
@@ -5788,6 +5854,9 @@
     observeReveals();
     hydrateExamCardCounts(main, exam);
     hydrateExamBookDetails(main, exam);
+    ensureBookDetailsStyle();
+    const detailsBtn = main.querySelector("[data-axo-details-open]");
+    if (detailsBtn) detailsBtn.addEventListener("click", () => openBookDetailsModal(exam));
     if (examBookIsPreparing(exam)) showExamPreparingPopup(exam);
   }
 
