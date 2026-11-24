@@ -3950,3 +3950,17 @@ What was done, so the next agent does not redo or undo it:
   skipped once its marker `data-axo-related`, `data-axo-hub-topics`,
   `data-axo-mock-topics` or `data-axo-main-content` is present, and the meta
   tool leaves in-range pages byte-identical).
+
+### Follow-up: six short topic pages deepened (commit cf160728)
+
+`tools/seo-deepen-topics.js` adds three topic-specific sections (English and
+Assamese) to the six ancient/medieval Assam pages that sat just under the
+1300-word extra-content floor: origin-names-assam, bhauma-asura-dynasty,
+mythological-rulers, chutiya-kingdom, kachari-kingdom, danava-dynasty. English
+pages now carry 1703-2088 extra words; the Assamese twins got the Assamese
+sections only and sit at 765-930 (still part of the 214-page `/as/` backlog).
+
+Insertion rule learned here: some twins repeat an "FAQ" heading inside
+`<main id="app">`, so a plain regex on the FAQ heading lands in the wrong
+place. `extraSpan()` in the tool finds the matching `</section>` of
+`section.axo-extra-content` first and searches inside that span only.
