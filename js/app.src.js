@@ -1253,6 +1253,7 @@
 
     const row2 = [
       ...NAV_ROW2_CATS.map(catLink),
+      extraLink("/current-affairs", t("nav.currentAffairs"), activePath),
       extraLink("/exam-wise-mock-test", t("nav.examMock"), activePath),
       extraLink("/previous-year", t("nav.previousYear"), activePath),
       extraLink("/contact", t("nav.contact"), activePath),
@@ -1320,14 +1321,11 @@
     if (!nav) return;
     const activePath = currentPath();
     const orderedCats = homeCategoriesOrder();
-    /* Mobile-only order: keep Articles directly ABOVE Computer Awareness */
-    const mobileCats = orderedCats.slice();
-    const mArtIdx = mobileCats.findIndex((c) => c.id === "articles");
+    /* Mobile-only order: Current Affairs sits directly ABOVE Computer
+       Awareness, in the slot Articles used to take. */
+    const mobileCats = orderedCats.filter((c) => c.id !== "articles");
     const mCompIdx = mobileCats.findIndex((c) => c.id === "computer");
-    if (mArtIdx !== -1 && mCompIdx !== -1 && mArtIdx !== mCompIdx - 1) {
-      const [art] = mobileCats.splice(mArtIdx, 1);
-      mobileCats.splice(mobileCats.findIndex((c) => c.id === "computer"), 0, art);
-    }
+    mobileCats.splice(mCompIdx === -1 ? mobileCats.length : mCompIdx, 0, { id: "current-affairs", isCurrentAffairs: true });
 
     const segs = parsePath();
     const svgWrap = (inner) =>
@@ -1347,6 +1345,18 @@
     };
 
     const catParts = mobileCats.map((cat) => {
+      if (cat.isCurrentAffairs) {
+        const on = activePath.split("/")[0] === "current-affairs";
+        return `
+        <li class="m-cat">
+          <div class="m-row">
+            <a class="m-item ${on ? "active" : ""}" href="/current-affairs">
+              ${iconTile(CA_ICONS.globe, "#ef4444")}
+              <span class="m-txt"><b>${escapeHtml(t("nav.currentAffairs"))}</b></span>
+            </a>
+          </div>
+        </li>`;
+      }
       const kids = cat.subcategories || cat.sections || [];
       return `
         <li class="m-cat">
@@ -1970,9 +1980,9 @@
             <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5"/><path d="M9 2h6"/></svg></span>
             <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়াকৈ মক টেষ্ট দিয়ক" : "Free Mock Test"}</b><span>${state.uiLang === "as" ? "সময়বদ্ধ পৰীক্ষা-ধৰণৰ টেষ্ট" : "Timed exam-pattern tests"}</span></span>
           </a>
-          <a class="feat-card reveal" href="/ebooks" style="--fc:#f59e0b">
-            <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span>
-            <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়া ই-বুক" : "Free eBooks"}</b><span>${state.uiLang === "as" ? "যিকোনো সময়ত অনলাইন পঢ়ক" : "Read online, anytime"}</span></span>
+          <a class="feat-card reveal" href="/current-affairs" style="--fc:#ef4444">
+            <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h13a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6z"/><path d="M4 6V5a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/><path d="M8 10h6"/><path d="M8 13h6"/><path d="M8 16h3"/></svg></span>
+            <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়া চলিত ঘটনাৱলী" : "Free Current Affairs"}</b><span>${state.uiLang === "as" ? "আপডেট: ১ অক্টোবৰ ২০২৬ • দৈনিক প্ৰশ্ন আৰু ব্যাখ্যা" : "Updated: 1 October 2026 • Q&A with answers"}</span></span>
           </a>
           <a class="feat-card reveal" href="/previous-year" style="--fc:#10b981">
             <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg></span>
@@ -1986,9 +1996,9 @@
             <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg></span>
             <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়া PDF টোকা" : "Free PDF Notes"}</b><span>${state.uiLang === "as" ? "প্ৰিন্ট কৰিব পৰা PDF নোট" : "Printable PDF notes"}</span></span>
           </a>
-          <a class="feat-card reveal" href="/current-affairs" style="--fc:#ef4444">
-            <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h13a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6z"/><path d="M4 6V5a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/><path d="M8 10h6"/><path d="M8 13h6"/><path d="M8 16h3"/></svg></span>
-            <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়া চলিত ঘটনাৱলী" : "Free Current Affairs"}</b><span>${state.uiLang === "as" ? "আপডেট: ১ অক্টোবৰ ২০২৬ • দৈনিক প্ৰশ্ন আৰু ব্যাখ্যা" : "Updated: 1 October 2026 • Q&A with answers"}</span></span>
+          <a class="feat-card reveal" href="/ebooks" style="--fc:#f59e0b">
+            <span class="feat-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></span>
+            <span class="feat-body"><b>${state.uiLang === "as" ? "বিনামূলীয়া ই-বুক" : "Free eBooks"}</b><span>${state.uiLang === "as" ? "যিকোনো সময়ত অনলাইন পঢ়ক" : "Read online, anytime"}</span></span>
           </a>
           <a class="feat-card feat-app reveal" href="/download-app/" style="--fc:#16a34a">
             <span class="feat-ico feat-ico-app"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v7"/><path d="m9 7 3 3 3-3"/><path d="M4 15.5c2.5-1.3 5.5-1.3 8 0 2.5-1.3 5.5-1.3 8 0"/><path d="M4 19c2.5-1.3 5.5-1.3 8 0 2.5-1.3 5.5-1.3 8 0"/></svg></span>
