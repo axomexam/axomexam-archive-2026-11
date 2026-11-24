@@ -534,6 +534,13 @@ node tools/build-question-counts.js
 node tools/sync-home-hero-count.js
 ```
 
+Byline and internal-link passes, both idempotent and safe to re-run:
+
+```bash
+node tools/add-editorial-meta.js      # byline on content pages that lack one
+node tools/link-section-hubs.js       # link exam sub-hubs from their parent page
+```
+
 Merging generated items into the legacy bank must be idempotent — filter out
 every id containing `-extra-` before appending, or a second run doubles the
 bank.
@@ -1654,6 +1661,29 @@ cp -a /tmp/gen/as/<path>/. as/<path>/
 `--prefix <dir>` has the same flaw when the prefix is narrower than the link
 targets on those pages. Verify with
 `grep -c 'href="/as/' as/<path>/index.html` — it must be non-zero.
+
+`rewriteInternalLinks` now also points a link at `/as/...` when that Assamese
+file already exists on disk, so a narrow `--only`/`--prefix` run no longer
+sends the nav back to English; the target page only has to exist.
+
+**Structured data runs in a fixed order.**
+
+```bash
+node tools/latest-schema.js      # English graph
+node tools/build-as-twins.js     # /as/ copy: URLs, inLanguage, text
+node tools/apply-real-dates.js   # dates last, from git history
+```
+
+The Assamese graph is a copy of the English one, so a schema pass that rebuilds
+`/as/` graphs from page metadata throws away every node it does not itself
+produce: Quiz and the questions under it vanished from all 330 Assamese topic
+pages that way. `latest-schema.js` now leaves `/as/` graphs alone, correcting
+only a stale author `@id`, and adds the editorial-team definition when a
+generator page points at it without defining it.
+
+The date pass is what makes `build-as-twins.js --check` report drift: it
+rewrites the twin's dates into Assamese month names, which the builder's raw
+output does not contain. Compare before the date pass, not after.
 
 ## Session record — Nov 2026 RRB NTPC GA article panels (23 topics) + Ancient History verification
 

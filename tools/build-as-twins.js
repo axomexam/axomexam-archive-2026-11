@@ -578,7 +578,26 @@ const ASSET_RE = /^\/(css|js|images|app|data|fonts|favicon|apple-touch|android-c
    when that twin actually exists, so a link never 404s. The runtime reads
    the language from the URL, so these links also keep the SPA in Assamese. */
 function rewriteInternalLinks(html, twinSet) {
-  const asFor = (rel) => (rel === "" ? "/as/" : twinSet.has(rel) ? `/as/${rel}/` : null);
+  /* A few Assamese pages exist but are not rebuilt in this run (their head
+     strings live outside headFor), /as/leaderboard/ for one. Those files are
+     still real, indexable Assamese pages, so the nav must point at them;
+     twinSet alone sent every Assamese page's nav to the English copy. */
+  const diskTwin = new Map();
+  const asOnDisk = (rel) => {
+    if (!diskTwin.has(rel)) {
+      const file = path.join(ROOT, "as", rel, "index.html");
+      let ok = false;
+      try {
+        ok = fs.existsSync(file) && !/content="noindex/i.test(fs.readFileSync(file, "utf8"));
+      } catch (e) {
+        ok = false;
+      }
+      diskTwin.set(rel, ok);
+    }
+    return diskTwin.get(rel);
+  };
+  const asFor = (rel) =>
+    rel === "" ? "/as/" : twinSet.has(rel) || asOnDisk(rel) ? `/as/${rel}/` : null;
 
   /* href="/..." */
   html = html.replace(/href="(\/[^"]*)"/g, (m, v) => {

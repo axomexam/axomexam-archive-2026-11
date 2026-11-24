@@ -298,7 +298,7 @@ function jsonld(topic, qs, url, title, desc, dates, lang) {
       datePublished: dates.pub,
       dateModified: dates.mod,
       isAccessibleForFree: true,
-      author: { "@id": `${BASE}/#editorial-team` },
+      author: { "@id": `${BASE}/editorial-team/#axomexam-team` },
       publisher: { "@id": `${BASE}/#organization` },
     },
     {
@@ -404,9 +404,25 @@ function toAssamesePage(html) {
     "/submit/": "/as/submit/",
     "/previous-year/": "/as/previous-year/",
   };
+  /* The header nav carries far more routes than the table above lists, and
+     an Assamese page whose nav jumps to the English copy looks unfinished.
+     So any link whose Assamese page exists on disk is pointed at it; the
+     table wins where it says a route has no twin (/trending/). */
+  const seen = new Map();
   html = html.replace(/href="(\/[^"]*)"/g, (m, v) => {
-    const target = AS_LINKS[v];
-    return target ? `href="${target}"` : m;
+    if (AS_LINKS[v]) return `href="${AS_LINKS[v]}"`;
+    const [p, suffix] = /^([^?#]*)([?#].*)?$/.exec(v).slice(1);
+    const rel = p.replace(/^\/+|\/+$/g, "");
+    if (!rel || /^\/(css|js|images|app|data|fonts)\//.test(p)) return m;
+    if (!seen.has(rel)) {
+      const file = path.join(ROOT, "as", rel, "index.html");
+      let ok = false;
+      try {
+        ok = fs.existsSync(file) && !/content="noindex"/i.test(fs.readFileSync(file, "utf8"));
+      } catch (e) { ok = false; }
+      seen.set(rel, ok);
+    }
+    return seen.get(rel) ? `href="/as/${rel}/${suffix || ""}"` : m;
   });
   return html;
 }

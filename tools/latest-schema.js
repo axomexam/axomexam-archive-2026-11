@@ -649,7 +649,45 @@ function existingFaqNode(html) {
   return null;
 }
 
+/* The Assamese graph is a copy of the English one with the /as/ URLs and
+   `inLanguage` rewritten by tools/build-as-twins.js, so it carries nodes this
+   builder does not produce (Quiz, and the questions under it). Rebuilding it
+   from page metadata here would drop them: 330 Assamese topic pages lost
+   their Quiz node that way. Only the stale author reference is corrected. */
+function fixAssameseGraph(html) {
+  let fixed = html.replace(
+    /"@id":"https:\/\/axomexam\.in\/#editorial-team"/g,
+    `"@id":${JSON.stringify(TEAM_ID)}`
+  );
+
+  /* Page generators in tools/ write their own small graph. When one of them
+     points at the organisation or the team without defining it (the trending
+     topic page does), the reference dangles, so the definitions live here and
+     are added to the Assamese copy. The English copy is rebuilt from scratch
+     by buildGraph and does not need this. */
+  fixed = fixed.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g, (m, json) => {
+    let data;
+    try {
+      data = JSON.parse(json);
+    } catch {
+      return m;
+    }
+    if (!data || !Array.isArray(data["@graph"])) return m;
+    const graph = data["@graph"];
+    const defined = new Set(graph.filter(Boolean).map((n) => n["@id"]));
+    const text = JSON.stringify(graph);
+    const missing = [];
+    if (text.includes(TEAM_ID) && !defined.has(TEAM_ID)) missing.push(TEAM);
+    if (!missing.length) return m;
+    data["@graph"] = [...missing, ...graph];
+    return `<script type="application/ld+json">${JSON.stringify(data).replace(/</g, "\\u003c")}</script>`;
+  });
+
+  return { html: fixed, changed: fixed !== html, kind: "as-keep" };
+}
+
 function transform(html, rel) {
+  if (rel.startsWith("as/")) return fixAssameseGraph(html);
   const graph = buildGraph(html, rel);
   if (!graph) return { html, changed: false, kind: "skip" };
   const faq = existingFaqNode(html);
