@@ -31,7 +31,9 @@ const FAQ_HEADING = /<h[1-6][^>]*>\s*(?:Frequently Asked Questions|সঘনা�
 const NAMED_ENTITIES = {
   amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " ",
   mdash: "-", ndash: "-", hellip: "...", middot: "-", times: "x",
-  rsquo: "'", lsquo: "'", ldquo: '"', rdquo: '"', deg: "deg",
+  /* Keep the typographic quotes: a Question name that differs from the visible
+     summary by an apostrophe is a needless mismatch. */
+  rsquo: "\u2019", lsquo: "\u2018", ldquo: "\u201c", rdquo: "\u201d", deg: "deg",
 };
 
 function decode(s) {
