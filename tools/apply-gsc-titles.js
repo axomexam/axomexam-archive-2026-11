@@ -11,6 +11,9 @@
  * Usage:
  *   node tools/apply-gsc-titles.js           # write
  *   node tools/apply-gsc-titles.js --check   # report only
+ *
+ * keyword-map.csv is synced separately with scripts/sync-map-titles.py, because
+ * the map has quoted fields that contain commas.
  */
 
 const fs = require("fs");
@@ -42,39 +45,10 @@ function replaceMeta(html, marker, value) {
   return html;
 }
 
-function syncMap(file, titles) {
-  if (!fs.existsSync(file)) return 0;
-  const lines = fs.readFileSync(file, "utf8").split("\n");
-  const header = lines[0].split(",");
-  const pIdx = header.indexOf("path");
-  const tIdx = header.indexOf("suggested_title");
-  const lIdx = header.indexOf("suggested_title_len");
-  if (pIdx < 0 || tIdx < 0) return 0;
-  let touched = 0;
-  for (let i = 1; i < lines.length; i++) {
-    if (!lines[i]) continue;
-    const cells = lines[i].match(/("([^"]|"")*"|[^,]*)(,|$)/g) || [];
-    if (cells.length <= tIdx) continue;
-    const raw = cells[pIdx].replace(/,$/, "").replace(/^"|"$/g, "");
-    const next = titles[raw];
-    if (!next) continue;
-    const set = (idx, value) => {
-      const old = cells[idx];
-      const quoted = `"${String(value).replace(/"/g, '""')}"`;
-      cells[idx] = (old.startsWith('"') ? quoted : String(value)) + (old.endsWith(",") ? "," : "");
-    };
-    set(tIdx, next);
-    if (lIdx >= 0) set(lIdx, next.length);
-    lines[i] = cells.join("");
-    touched++;
-  }
-  if (!CHECK) fs.writeFileSync(file, lines.join("\n"));
-  return touched;
-}
-
 const config = JSON.parse(fs.readFileSync(path.join(__dirname, "gsc-titles.json"), "utf8"));
 const entries = Object.entries(config.titles);
 const problems = [];
+let changed = 0;
 
 for (const [rel, { title, why }] of entries) {
   if (title.length > LIMIT) problems.push(`${rel}: ${title.length} chars`);
@@ -86,7 +60,9 @@ for (const [rel, { title, why }] of entries) {
   const html = fs.readFileSync(file, "utf8");
   const current = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1] || "";
   console.log(`${rel}\n  was: ${current.trim()}\n  now: ${title}  (${title.length})\n  why: ${why.split(". ")[0]}.`);
-  if (!CHECK && current.trim() !== escapeAttr(title)) {
+  if (current.trim() === title) continue;
+  changed++;
+  if (!CHECK) {
     let out = replaceTitle(html, title);
     out = replaceMeta(out, 'property="og:title"', title);
     out = replaceMeta(out, 'name="twitter:title"', title);
@@ -99,6 +75,4 @@ if (problems.length) {
   process.exit(1);
 }
 
-const map = Object.fromEntries(entries.map(([rel, v]) => [rel, v.title]));
-const synced = syncMap(path.join(ROOT, "keyword-map.csv"), map);
-console.log(`\napply-gsc-titles: ${entries.length} pages ${CHECK ? "would change" : "changed"}, ${synced} keyword-map rows ${CHECK ? "would sync" : "synced"}`);
+console.log(`\napply-gsc-titles: ${changed} of ${entries.length} pages ${CHECK ? "would change" : "changed"}`);

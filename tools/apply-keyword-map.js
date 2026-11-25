@@ -122,12 +122,23 @@ function insertAfterTitle(html, tag) {
   return html.slice(0, end) + "\n  " + tag + html.slice(end);
 }
 
+/* Titles hand-tuned from Search Console data outrank the generated map; the
+   map is rebuilt from page content and knows nothing about impressions. */
+const GSC_TITLES = (() => {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(__dirname, "gsc-titles.json"), "utf8")).titles || {};
+  } catch {
+    return {};
+  }
+})();
+
 const rows = readCsv(KMAP);
 let changed = 0, skipped = 0;
 const changedPaths = [];
 
 for (const r of rows) {
   if (ONLY_PREFIX && !r.path.startsWith(ONLY_PREFIX)) continue;
+  if (GSC_TITLES[r.path] && TITLES_ONLY) continue;
   if (!r.suggested_title && !r.suggested_meta) { skipped++; continue; }
   const abs = path.join(ROOT, r.path);
   if (!fs.existsSync(abs)) continue;
