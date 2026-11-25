@@ -4275,3 +4275,39 @@ Two rules follow from that, and both were broken until 2026-11-24:
 Current state (2026-11-24): 1,216 pages carry `FAQPage`, 7,788 questions, 6,732
 distinct, no page repeating one question as every entry, and every `name` appears
 verbatim as a `<summary>` on its own page.
+
+## Assamese twins: where English is allowed to survive
+
+`tools/build-as-twins.js` copies an English page into `/as/` and swaps only what
+it can pair with an Assamese sibling. Anything a generator wrote in English
+alone therefore lands on an Assamese URL in English. Three places did that, and
+all three are now closed:
+
+- `data/i18n/twin-phrases.js` — whole sentences repeated across many pages. Run
+  `node tools/translate-twin-phrases.js` after adding entries; `--check` reports
+  what would change. It is idempotent, and it drops an English paragraph rather
+  than translating it when an Assamese sibling already follows (123 such pairs
+  so far). Without that pass the page ends up with two Assamese paragraphs.
+- `data/i18n/page-fragments-as.js` — two things the generic map cannot do:
+  route-scoped sentences (the Current Affairs hub, keyed by route) and the
+  footer, which is matched with its surrounding markup and only inside
+  `<footer>`, because labels like "Home" or "Disclaimer" also occur inside
+  questions and breadcrumbs.
+- `js/i18n.src.js` — the SPA strings. `js/i18n.js` is minified from it by
+  `node scripts/minify-assets.js`, and the `?v=` hash in every page must then be
+  refreshed with `node scripts/stamp-assets.js`.
+
+What is left in English on `/as/` is deliberate: grammar questions that quote
+English, book and paper names, and study notes whose Assamese has to be written
+rather than templated.
+
+## scripts/build-current-affairs-content.js is stale — do not run it
+
+The committed Current Affairs pages have moved on from what this script emits:
+titles carry the brand suffix and the tuned descriptions, `<ul class="qs16">`
+replaced inline list styles, links keep their trailing slash, and the JSON-LD is
+one `@graph`. Re-running it rewrites all sixteen pages back to the older shape,
+and with `meta.updated` gone from the data it also writes "Last updated  by the
+axomexam team" with an empty date. `--check` reports 16 files of drift for that
+reason, not because of a recent edit. Fix the script before using it; edit the
+data file and the page together in the meantime.
