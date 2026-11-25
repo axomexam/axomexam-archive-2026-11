@@ -128,6 +128,49 @@ const EXACT = {
 
   "Under British rule Assam's economy was transformed completely. The most dramatic change came with tea. The British had long searched for a source of tea outside China. It was Robert Bruce who, in 1823, found wild tea plants growing in the Singpho country of Upper Assam. After experiments, the tea industry was launched commercially: the first tea company, the Assam Tea Company, was formed in 1839, the first consignment of Assam tea reached London in 1838, and soon tea gardens spread over the valley.":
     "ব্ৰিটিছ শাসনত অসমৰ অৰ্থনীতি সম্পূৰ্ণৰূপে সলনি হৈছিল। আটাইতকৈ ডাঙৰ পৰিৱৰ্তন আহিছিল চাহৰ সৈতে। ব্ৰিটিছসকলে চীনৰ বাহিৰত চাহৰ উৎস বিচাৰি বহুদিন ধৰি চেষ্টা কৰি আছিল। ১৮২৩ চনত ৰবাৰ্ট ব্ৰুছে উজনি অসমৰ সিংফো অঞ্চলত বনৰীয়া চাহ গছ গজি থকা দেখা পায়। পৰীক্ষা-নিৰীক্ষাৰ পিছত চাহ উদ্যোগ বাণিজ্যিকভাৱে আৰম্ভ হয়: প্ৰথম চাহ কোম্পানী 'অসম চাহ কোম্পানী' ১৮৩৯ চনত গঠন হয়, অসম চাহৰ প্ৰথম চালান ১৮৩৮ চনত লণ্ডনত উপনীত হয়, আৰু অলপতে চাহ বাগিচাই উপত্যকাটোত বিয়পি পৰে।",
+
+  "Attempt each topic fully before checking the answers.":
+    "উত্তৰ পৰীক্ষা কৰাৰ আগতে প্ৰতিটো বিষয় সম্পূৰ্ণভাৱে চেষ্টা কৰক।",
+
+  "Return to the same topic after a few days to confirm retention.":
+    "মনত ৰৈছে নে নাই নিশ্চিত কৰিবলৈ কেইদিনমানৰ পিছত একেই বিষয়লৈ ঘূৰি আহক।",
+
+  "Revise the same topic after a few days to check retention.":
+    "মনত ৰখা পৰীক্ষা কৰিবলৈ কেইদিনমানৰ পিছত একেই বিষয় পুনৰালোচনা কৰক।",
+
+  "Finish one sub-category at a time and read every explanation.":
+    "একেবাৰে এটা উপ-শ্ৰেণী শেষ কৰক আৰু প্ৰতিটো ব্যাখ্যা পঢ়ক।",
+
+  "Write down the facts you miss and revise the list weekly.":
+    "পাহৰা তথ্যবোৰ লিখি থওক আৰু সপ্তাহে সপ্তাহে সেই তালিকা পুনৰালোচনা কৰক।",
+
+  "Re-attempt the paper a fortnight later and compare the scores.":
+    "পোন্ধৰ দিনৰ পিছত প্ৰশ্নকাকতখন পুনৰ চেষ্টা কৰি স্ক'ৰ তুলনা কৰক।",
+
+  "Note the chapters that repeat, and revise those first.":
+    "বাৰে বাৰে অহা অধ্যায়বোৰ চিনাক্ত কৰি সেইবোৰ আগতে পুনৰালোচনা কৰক।",
+
+  "Yes. The PDF is free and needs no login or payment.":
+    "হয়। PDF বিনামূলীয়া, লগইন বা পেমেন্টৰ প্ৰয়োজন নাই।",
+
+  "Yes. Every question, option and explanation is in Assamese and English.":
+    "হয়। প্ৰতিটো প্ৰশ্ন, বিকল্প আৰু ব্যাখ্যা অসমীয়া আৰু ইংৰাজীত আছে।",
+
+  "Yes. Every set on axomexam.in is free, with no login or subscription.":
+    "হয়। axomexam.in ৰ প্ৰতিটো সংহতি বিনামূলীয়া, লগইন বা ছাবস্ক্ৰিপশ্বনৰ প্ৰয়োজন নাই।",
+
+  "Return to the same topic after a few days to confirm it has stuck.":
+    "মনত ৰৈ গৈছে নে নাই নিশ্চিত কৰিবলৈ কেইদিনমানৰ পিছত একেই বিষয়লৈ ঘূৰি আহক।",
+
+  "Yes. Every question carries the correct answer and a short explanation in both Assamese and English.":
+    "হয়। প্ৰতিটো প্ৰশ্নৰ সৈতে শুদ্ধ উত্তৰ আৰু চমু ব্যাখ্যা অসমীয়া আৰু ইংৰাজী দুয়ো ভাষাত দিয়া হৈছে।",
+
+  "The Fundamental Rights can be divided into six groups:":
+    "মৌলিক অধিকাৰসমূহক ছয়টা ভাগত ভগাব পাৰি:",
+
+  "Colonial Economy: Tea, Immigration &amp; the Line System":
+    "ঔপনিৱেশিক অৰ্থনীতি: চাহ, অনুপ্ৰৱেশ আৰু লাইন প্ৰথা",
+
 };
 
 const RULES = [
@@ -145,6 +188,19 @@ const RULES = [
     /The notes below are drawn from the axomexam study material that matches the (.+?) paper, so the revision follows the same subjects the examination tests\./g,
     (m, name) =>
       `তলৰ টোকাবোৰ ${name} প্ৰশ্নকাকতৰ সৈতে মিলা axomexam অধ্যয়ন সামগ্ৰীৰ পৰা লোৱা, গতিকে পুনৰালোচনাই পৰীক্ষাত সোধা একেই বিষয়সমূহ অনুসৰণ কৰে।`,
+  ],
+
+  /* "Take the matching DHS &amp; DME Technical Grade III mock test once the
+     group is finished." — one line per exam. */
+  [
+    /Take the matching (.+?) mock test once the group is finished\./g,
+    (m, exam) => `এই গোটটো শেষ হ'লে ইয়াৰ লগত মিলা ${exam} মক টেষ্ট দিয়ক।`,
+  ],
+  /* "There are 10 sets with 250 questions in total, all free to attempt." */
+  [
+    /There are (\d+) sets with (\d+) questions in total, all free to attempt\./g,
+    (m, sets, qs) =>
+      `মুঠ ${BN(sets)} টা সংহতি আছে, সৰ্বমুঠ ${BN(qs)} টা প্ৰশ্ন — সকলো বিনামূলীয়াকৈ চেষ্টা কৰিব পাৰি।`,
   ],
 ];
 
