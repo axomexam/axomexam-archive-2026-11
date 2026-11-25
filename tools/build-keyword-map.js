@@ -288,16 +288,30 @@ const tagsByPath = topicTagsByPath(categories, idTags);
 const examMap = examNames();
 const displayMap = displayNames();
 
+/* Compact exam labels for <title>, where the full name ("DHS & DME
+   Non-Technical Grade III", 33 chars) leaves no room for the topic and the
+   intent word. The H1 and the description keep the full name. */
+const SHORT_EXAM = {
+  "Assam Police Sub-Inspector (SI)": "Assam Police SI",
+  "DHS & DME Non-Technical Grade III": "DHS DME Grade III",
+  "DHS & DME Technical Grade III": "DHS DME Technical",
+};
+const shortExam = (name) => SHORT_EXAM[name] || name;
+
 const pages = walk(ROOT, []).sort();
 
 const pageTerms = {};
 const pageIndexable = {};
 const pageRedirect = {};
+const pageTitle = {};
 const df = new Map();
 for (const rel of pages) {
   const html = fs.readFileSync(path.join(ROOT, rel), "utf8");
   const counts = bigramsAndTrigrams(pageStems(html));
   pageTerms[rel] = counts;
+  pageTitle[rel] = ((html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1] || "")
+    .replace(/&amp;/g, "&").replace(/&#39;|&apos;/g, "'").replace(/&quot;/g, '"')
+    .replace(/\s+/g, " ").trim();
   const robots = (html.match(/<meta\s+name="robots"\s+content="([^"]*)"/i) || [])[1] || "";
   pageIndexable[rel] = !/noindex/i.test(robots);
   pageRedirect[rel] = /http-equiv="refresh"/i.test(html);
@@ -415,7 +429,15 @@ function buildRow(rel, mined, isRedirect) {
   const GENERIC = new Set(["read", "all", "list", "more", "view", "index"]);
   const isReadView = GENERIC.has(slug) && segs.length >= 2;
   if (isReadView) slug = segs[segs.length - 2];
-  const topic = displayMap[slug] || titleCase(slug);
+  let topic = displayMap[slug] || titleCase(slug);
+  /* Some exam-leaf slugs are not in categories.json, so the slug-derived name
+     drops the "&" and the hyphens ("Metals Nonmetals"). The page's own title
+     already carries the human name, so use its topic part. */
+  if (section === "exams" && segs.length > 3 && !displayMap[slug]) {
+    const head = (pageTitle[rel] || "").split(/\s+[-—|]\s+/)[0].trim();
+    const cleaned = head.replace(/\s+(MCQs?|Questions?)( with Answers)?$/i, "").trim();
+    if (cleaned.length >= 3 && cleaned.length <= 45) topic = cleaned;
+  }
   const tl = topic.toLowerCase();
   let primary, title, meta, h1, h2, secondary, longtail;
 
@@ -480,8 +502,20 @@ function buildRow(rel, mined, isRedirect) {
     } else {
       // leaf topic inside an exam
       primary = `${tl} questions for ${examLower}`;
-      const withAnswers = `${topic} MCQs with Answers — ${examName}`;
-      title = withAnswers.length <= 60 ? withAnswers : `${topic} MCQs — ${examName}`;
+      /* Keep the exam name in the title: "Percentage MCQs" alone does not say
+         which exam the questions are for, and the exam is what is searched.
+         Drop "with Answers" before dropping the exam, and shorten the exam
+         label only when the full one does not fit. */
+      const examShort = shortExam(examName);
+      const leafTitles = [
+        `${topic} MCQs with Answers — ${examName}`,
+        `${topic} MCQs — ${examName}`,
+        `${topic} MCQs with Answers — ${examShort}`,
+        `${topic} MCQs — ${examShort}`,
+        `${topic} Questions — ${examShort}`,
+        `${topic} — ${examShort}`,
+      ];
+      title = leafTitles.find((t) => t.length <= 60) || `${topic} MCQs`;
       meta = `Practise ${tl} MCQs with answers and explanations for ${examName}. Free bilingual practice, exam-pattern questions, no sign-up.`;
       h1 = `${topic} Questions for ${examName}`;
       h2 = ["Syllabus Coverage", "Practice Questions", "Important Formulas", ...secondary.map(titleCase), "FAQs"];
@@ -491,7 +525,10 @@ function buildRow(rel, mined, isRedirect) {
     const setIdx = parts.findIndex((p) => /^set-\d+$/.test(p));
     const setNum = setIdx >= 0 ? parts[setIdx].replace("set-", "") : "";
     const subjectSegs = setIdx >= 0 ? parts.slice(0, setIdx) : parts;
-    const subject = subjectSegs.length ? titleCase(subjectSegs[subjectSegs.length - 1]) : "Mock Test";
+    /* The category's own display name ("Political Science") is what a student
+       searches; the slug-derived label ("Polity") is site jargon. */
+    const subjectSeg = subjectSegs[subjectSegs.length - 1];
+    const subject = subjectSeg ? displayMap[subjectSeg] || titleCase(subjectSeg) : "Mock Test";
     secondary = mined.slice(0, 4);
     longtail = mined.slice(4, 7);
     primary = setNum ? `${subject.toLowerCase()} mock test set ${setNum}` : `${subject.toLowerCase()} mock test`;
@@ -656,7 +693,13 @@ for (const r of rows) {
 /* fit titles <=60 and metas <=160 without cutting mid-word */
 function fitTitle(s, limit = 60) {
   if (s.length <= limit) return s;
-  for (const cut of [" & Assam Police", ", APSC & Assam Police", " Questions with Answers", ", APSC"]) {
+  /* Keep the search intent ("Questions with Answers") and shorten the exam
+     list or the parenthetical instead. Dropping the intent word is the last
+     resort, because it is the part a searcher matches on. */
+  if (s.includes(" Questions with Answers") && s.replace(" Questions with Answers", " Questions").length <= limit) {
+    return s.replace(" Questions with Answers", " Questions");
+  }
+  for (const cut of [" & Assam Police", ", APSC & Assam Police", ", APSC"]) {
     if (s.includes(cut) && s.replace(cut, "").length <= limit) return s.replace(cut, "");
   }
   /* Keep exam context on a long topic name by shortening the exam list rather
@@ -665,11 +708,17 @@ function fitTitle(s, limit = 60) {
     return s.replace(" — ADRE, APSC", " — ADRE");
   }
   if (s.includes(" — ") && s.split(" — ")[0].length <= limit) return s.split(" — ")[0];
+  /* Drop a trailing parenthetical rather than leaving it unbalanced: a title
+     that ends in "(Bell Metal, Brass" reads as broken in the SERP. */
+  const noParen = s.replace(/\s*\([^)]*$/, "");
+  if (noParen !== s && noParen.length <= limit) return noParen.trim();
   const t = s.slice(0, limit);
   return t
     .slice(0, t.lastIndexOf(" "))
     .replace(/[ —,&|:;]+$/, "")
-    .replace(/\s+(with|and|for|of|the|in|to|on|by|vs|a|an|&)$/i, "");
+    .replace(/\s+(with|and|for|of|the|in|to|on|by|vs|a|an|&)$/i, "")
+    .replace(/\s*\([^)]*$/, "")
+    .trim();
 }
 function fitMeta(s, limit = 160) {
   if (s.length <= limit) return s;
@@ -750,7 +799,56 @@ function naturalCase(s) {
   const parts = s.split(" ");
   return parts.map((w, i) => (i > 0 && SMALL.has(w.toLowerCase()) ? w.toLowerCase() : w)).join(" ");
 }
-/* dedupe can lengthen a value, so re-fit before writing */
+/* Two qualified titles can be shortened back to the same base by fitTitle,
+   and dedupe's last-resort fallback (r.topic) can collapse two pages onto one
+   title. This pass guarantees that no two indexable pages share a title: it
+   re-qualifies with the page's own scope and, when the qualifier does not fit,
+   trims the base first. */
+function ensureUniqueTitles() {
+  for (let guard = 0; guard < 5; guard++) {
+    const groups = new Map();
+    for (const r of rows) {
+      if (!r.suggested_title || !r.indexable) continue;
+      if (!groups.has(r.suggested_title)) groups.set(r.suggested_title, []);
+      groups.get(r.suggested_title).push(r);
+    }
+    let fixed = 0;
+    for (const [title, grp] of groups) {
+      if (grp.length < 2) continue;
+      for (const r of grp) {
+        const q = parentQualifier(r) || titleCase(r.section);
+        const base = title.replace(/ \| axomexam$/, "");
+        const cands = [`${base} — ${q}`, `${base} (${q})`];
+        const shortBase = base.replace(/\s*\([^)]*\)/, "").trim();
+        if (shortBase !== base) cands.push(`${shortBase} — ${q}`, `${shortBase} (${q})`);
+        /* Last resort: trim the base to whatever room the qualifier leaves. */
+        const room = 60 - q.length - 3;
+        if (room >= 12) cands.push(`${base.slice(0, base.lastIndexOf(" ", room)).replace(/[ —,&|:;]+$/, "")} — ${q}`);
+        for (const cand of cands) {
+          if (cand.length <= 60) { r.suggested_title = cand; fixed++; break; }
+        }
+      }
+    }
+    if (!fixed) break;
+  }
+}
+/* A topic page whose title fell back to the bare topic ("Delhi Sultanate")
+   has no exam context and no intent word left. Add them back when there is
+   room, so the SERP line says what the page is and who it is for. */
+function topUpShortTitles() {
+  const TOPUP_SECTIONS = new Set(["topic", "category"]);
+  for (const r of rows) {
+    if (!r.suggested_title || !r.indexable) continue;
+    if (!TOPUP_SECTIONS.has(r.section)) continue;
+    if (r.suggested_title.length >= 40 || r.suggested_title.includes(" — ")) continue;
+    const t = r.suggested_title;
+    const cands = [`${t} Questions — ADRE, APSC`, `${t} — ADRE, APSC`];
+    const hit = cands.find((c) => c.length <= 60);
+    if (hit) r.suggested_title = hit;
+  }
+}
+topUpShortTitles();
+ensureUniqueTitles();
 for (const r of rows) {
   if (r.suggested_title) r.suggested_title = fitTitle(r.suggested_title);
   if (r.suggested_meta) r.suggested_meta = fitMeta(r.suggested_meta);
