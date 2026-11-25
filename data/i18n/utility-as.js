@@ -2,7 +2,7 @@
 
 /*
  * Assamese copy for the utility pages that are English-only in the served
- * HTML: privacy, terms, disclaimer, submit and download-app.
+ * HTML: privacy, terms, disclaimer, submit, downloads and download-app.
  *
  * tools/build-as-twins.js copies the English page into /as/ and only rewrites
  * <head> plus the <h1>, so those five pages were served at an Assamese URL
@@ -210,6 +210,65 @@ const SUBMIT = `
   <p>প্ৰকাশিত প্ৰশ্নত ভুল দেখিলে যোগাযোগ ফৰ্মৰ জৰিয়তে পৃষ্ঠাৰ লিংক আৰু শুधৰণী পঠিয়াওক। শুধৰণী নতুন প্ৰশ্নৰ দৰেই পৰীক্ষা কৰা হয় আৰু সাধাৰণতে কেইদিনমানৰ ভিতৰত প্ৰয়োগ কৰা হয়।</p>
 </div>`;
 
+const DOWNLOADS = `
+<div class="sub-grid"><div class="sub-card reveal" style="margin:10px 0; padding:14px 16px; border:1px solid var(--border,#e2e8f0); border-radius:14px;">
+      <div style="font-weight:700; color:var(--ink,#0f172a);">brahmaputra-river.pdf</div>
+      <a class="btn btn-sm btn-outline" href="/data/download/brahmaputra-river.pdf" download>PDF ডাউনলোড কৰক</a>
+    </div><div class="sub-card reveal" style="margin:10px 0; padding:14px 16px; border:1px solid var(--border,#e2e8f0); border-radius:14px;">
+      <div style="font-weight:700; color:var(--ink,#0f172a);">country-capital.pdf</div>
+      <a class="btn btn-sm btn-outline" href="/data/download/country-capital.pdf" download>PDF ডাউনলোড কৰক</a>
+    </div></div>
+
+<div class="info-panel" style="background:var(--bg,#ffffff); border:1px solid var(--border,#e2e8f0); border-radius:18px; padding:28px 24px; line-height:1.8; color:var(--ink-soft,#475569); max-width:900px; margin:0 auto; text-align:left;">
+  <p>ADRE 2.0 (শ্ৰেণী III আৰু IV), অসম আৰক্ষী, APSC, গুৱাহাটী উচ্চ ন্যায়ালয়, পঞ্চায়ত আৰু গ্ৰাম্য উন্নয়ন, DME, DHE, SSC, ৰে'লৱে আৰু অন্য সকলো বিভাগীয় পৰীক্ষাকে ধৰি অসম চৰকাৰৰ সকলো প্ৰধান নিয়োগ পৰীক্ষাৰ বাবে সম্পূৰ্ণ প্ৰস্তুতি লওক।</p>
+  <p>আমাৰ ডাউনলোড অংশত বিষয়ভিত্তিক প্ৰিন্ট কৰিব পৰা সম্পূৰ্ণ PDF অধ্যয়ন টোকা, সমাধানসহ বিগত বছৰৰ প্ৰশ্নকাকত আৰু বিশেষ ই-বুক প্ৰতিটো বিষয় অনুসৰি সজাই দিয়া হৈছে:</p>
+  <ul class="qs16">
+    <li>সাধাৰণ জ্ঞান</li>
+    <li>গণিত</li>
+    <li>সাধাৰণ বিজ্ঞান</li>
+    <li>যুক্তি আৰু বুদ্ধিমত্তা</li>
+    <li>সাধাৰণ ইংৰাজী</li>
+    <li>কম্পিউটাৰ জ্ঞান</li>
+  </ul>
+  <p>প্ৰতিটো PDF ত উত্তৰসহ সম্পূৰ্ণ দ্বিভাষিক (ইংৰাজী আৰু অসমীয়া) প্ৰশ্ন আৰু পৰীক্ষা-কেন্দ্ৰিক স্পষ্ট ব্যাখ্যা আছে — অফলাইন অধ্যয়ন, শেষ মুহূৰ্তৰ পুনৰালোচনা আৰু দৈনিক অনুশীলনৰ বাবে উপযুক্ত।</p>
+  <p>সকলো টোকা ১০০% বিনামূলীয়াকৈ ডাউনলোড কৰিব পৰা, নিয়মীয়াকৈ আপডেট কৰা আৰু সহজে প্ৰিন্ট কৰিব পৰা — গতিকে প্ৰতিজন প্ৰাৰ্থীয়ে কোনো খৰচ নোহোৱাকৈ প্ৰস্তুতি ল'ব পাৰে!</p>
+
+  <h2 style="margin-top:26px; color:var(--ink,#0f172a);">axomexam ৰ পৰা কি ডাউনলোড কৰিব পাৰি</h2>
+  <p>axomexam ৰ প্ৰতিটো অধ্যয়ন ফাইল বিনামূলীয়া আৰু ইয়াৰ বাবে কোনো একাউণ্টৰ প্ৰয়োজন নাই। ডাউনলোডবোৰ তিনি ভাগত বিভক্ত: PDF অধ্যয়ন টোকা, পৰীক্ষাৰ ই-বুক আৰু বিগত বছৰৰ সমাধানসহ প্ৰশ্নকাকত। প্ৰতিটো অসমীয়া আৰু ইংৰাজী দুয়ো ভাষাত লিখা হৈছে, যাতে আপুনি আৰামদায়ক ভাষাত পুনৰালোচনা কৰিব পাৰে।</p>
+
+  <h3 style="color:var(--ink,#0f172a); margin-top:22px;">PDF অধ্যয়ন টোকা</h3>
+  <ul class="qs16">
+    <li>অসমৰ নিয়োগ পৰীক্ষাৰ পাঠ্যক্ৰম অনুসৰণ কৰা বিষয়ভিত্তিক টোকা।</li>
+    <li>প্ৰতিটো বিষয়ৰ দ্ৰুত পুনৰালোচনাৰ বিন্দু, সূত্ৰ আৰু মূল তথ্য।</li>
+    <li>প্ৰিন্ট কৰিব পৰা, গতিকে অফলাইনতো লগত লৈ ফুৰিব পাৰি।</li>
+  </ul>
+
+  <h3 style="color:var(--ink,#0f172a); margin-top:22px;">পৰীক্ষাৰ ই-বুক</h3>
+  <ul class="qs16">
+    <li>ADRE, অসম আৰক্ষী, APSC আৰু অন্যান্য পৰীক্ষাৰ বাবে সম্পূৰ্ণ কিতাপ।</li>
+    <li>সমাধান আৰু ব্যাখ্যাসহ প্ৰশ্ন থকা বিষয়ভিত্তিক অংশ।</li>
+    <li>অনলাইনত পঢ়ক বা অফলাইন অনুশীলনৰ বাবে ডাউনলোড কৰক।</li>
+  </ul>
+
+  <h3 style="color:var(--ink,#0f172a); margin-top:22px;">বিগত বছৰৰ প্ৰশ্নকাকত</h3>
+  <ul class="qs16">
+    <li>পৰীক্ষা আৰু বছৰ অনুসৰি সজোৱা সমাধানসহ পূৰ্বৰ প্ৰশ্নকাকত।</li>
+    <li>প্ৰশ্নকাকতৰ আৰ্হি আৰু প্ৰতিটো অংশৰ গুৰুত্ব বুজিবলৈ সহায়ক।</li>
+  </ul>
+
+  <h2 style="margin-top:26px; color:var(--ink,#0f172a);">সঘনাই সোধা প্ৰশ্ন</h2>
+
+  <h3 style="color:var(--ink,#0f172a); margin-top:18px;">ডাউনলোডৰ বাবে কোনো মাচুল বা ছাইন-আপ লাগে নেকি?</h3>
+  <p>নালাগে। এই পৃষ্ঠাৰ প্ৰতিটো ফাইল বিনামূলীয়া আৰু একাউণ্ট নোহোৱাকৈ ডাউনলোড হয়।</p>
+
+  <h3 style="color:var(--ink,#0f172a); margin-top:18px;">টোকাবোৰ অসমীয়াত উপলব্ধ নেকি?</h3>
+  <p>হয়। টোকা, ই-বুক আৰু সমাধানসহ প্ৰশ্নকাকত অসমীয়া আৰু ইংৰাজী দুয়ো ভাষাত লিখা হৈছে, গতিকে আপুনি যিকোনো ভাষাত পুনৰালোচনা কৰিব পাৰে।</p>
+
+  <h3 style="color:var(--ink,#0f172a); margin-top:18px;">PDF বোৰ প্ৰিন্ট কৰিব পাৰিমনে?</h3>
+  <p>পাৰিব। অধ্যয়ন টোকা আৰু প্ৰশ্নকাকত পৰিষ্কাৰকৈ প্ৰিন্ট হোৱাকৈ সজোৱা হৈছে, যাতে আপুনি অফলাইনত লগত লৈ ফুৰিব পাৰে।</p>
+</div>
+`;
+
 const DOWNLOAD_APP = {
   "Download the axomexam App": "axomexam এপ্প ডাউনলোড কৰক",
   "Get the axomexam Android app — all mock tests, bilingual Q&A practice, e-books and previous year papers in one lightweight app. Free, no sign-up.":
@@ -279,5 +338,6 @@ module.exports = {
   terms: { html: TERMS },
   disclaimer: { html: DISCLAIMER },
   submit: { html: SUBMIT },
+  downloads: { html: DOWNLOADS },
   "download-app": { map: DOWNLOAD_APP },
 };
