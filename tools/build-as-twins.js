@@ -47,6 +47,7 @@ const { stripAdsense } = require("./lib/strip-adsense");
 
 const ROOT = process.cwd();
 const UTILITY_BODY_AS = require(path.join(ROOT, "data", "i18n", "utility-as.js"));
+const { translate: translateTwinPhrases } = require(path.join(ROOT, "data", "i18n", "twin-phrases.js"));
 const BASE = "https://axomexam.in";
 
 const { translateFragment } = createTranslator(ROOT);
@@ -1174,13 +1175,18 @@ function buildTwin(enHTML, rel, head) {
   /* Strings added after the twin tables were written, so they carry no
      translation entry of their own. */
   out = out.replace(
-    "2,640 questions &bull; Last updated 1 October 2026",
-    "2,640 \u099f\u09be \u09aa\u09cd\u09f0\u09b6\u09cd\u09a8 &bull; \u09b6\u09c7\u09b7 \u09b9\u09be\u09b2\u09a8\u09be\u0997\u09be\u09a6: \u09e7 \u0985\u0995\u09cd\u099f\u09cb\u09ac\u09f0 \u09e8\u09e6\u09e8\u09ec"
+    "2,640 questions &bull; Covers 2024\u20132025 events",
+    "2,640 \u099f\u09be \u09aa\u09cd\u09f0\u09b6\u09cd\u09a8 &bull; 2024\u20132025 \u09ac\u09f0\u09cd\u09b7\u09f0 \u0998\u099f\u09a8\u09be\u09f1\u09b2\u09c0"
   );
   out = out.replace(
-    /<p class="page-note" lang="en"([^>]*)>Covers 2024\u20132025 events &middot; Last updated 1 October 2026<\/p>/,
-    `<p class="page-note" lang="as"$1>2024\u20132025 \u09ac\u09f0\u09cd\u09b7\u09f0 \u0998\u099f\u09a8\u09be\u09f1\u09b2\u09c0 &middot; \u09b6\u09c7\u09b7 \u09b9\u09be\u09b2\u09a8\u09be\u0997\u09be\u09a6: \u09e7 \u0985\u0995\u09cd\u099f\u09cb\u09ac\u09f0 \u09e8\u09e6\u09e8\u09ec<\/p>`
+    /<p class="page-note" lang="en"([^>]*)>Covers 2024\u20132025 events<\/p>/,
+    `<p class="page-note" lang="as"$1>2024\u20132025 \u09ac\u09f0\u09cd\u09b7\u09f0 \u0998\u099f\u09a8\u09be\u09f1\u09b2\u09c0<\/p>`
   );
+
+  /* Explanatory sentences the page generators write in English only (notes,
+     worked-example intros, "set has N questions" lines). Whole sentences, kept
+     in data/i18n/twin-phrases.js so the twin does not serve them in English. */
+  out = translateTwinPhrases(out).html;
 
   return out;
 }
