@@ -1,5 +1,5 @@
 {
-  "note": "Titles the automatic fit shortened by dropping a parenthetical. Each entry restores the term inside the brackets and pays for it by cutting the exam list or the gloss word instead. Length limit is still 60.",
+  "note": "Hand-tuned titles the generator cannot derive on its own: either a bracketed term the automatic fit shortened away, or the exam's official name where the page only carried its abbreviation.",
   "titles": {
     "topic/gk/art-culture/assam-art-culture-sec/assamese-literature-buranjis-culture/index.html": {
       "title": "Assamese Literature (Buranjis) Questions — ADRE, APSC",
@@ -36,6 +36,18 @@
     "topic/gk/indian-history/modern-indian-history-sec/constitutional-developments-acts/index.html": {
       "title": "Constitutional Developments & Acts (1909, 1919, 1935) MCQs",
       "why": "Restores the three act years, the terms the fit cut."
+    },
+    "exams/assam-police/index.html": {
+      "title": "Assam Police Constable (AB & UB) Exam Guide",
+      "why": "The exam page body already says \"Constable AB & UB (SLPRB)\", but the title and H1 said only \"AB & UB\". The site is ranked for assam police constable queries and the word was missing from every heading."
+    },
+    "exams/assam-police/syllabus/index.html": {
+      "title": "Assam Police Constable (AB & UB) Syllabus",
+      "why": "\"assam police constable syllabus\" brings impressions at position 66.5; the title read \"Syllabus for Assam Police AB & UB\"."
+    },
+    "exam-wise-mock-test/assam-police/index.html": {
+      "title": "Assam Police Constable Mock Test — Paper Sets",
+      "why": "\"assam police constable mock test\" 23 impressions at position 64.8 and \"assam police constable test series\" 4; the title said \"Assam Police Mock Test\"."
     }
   }
 }
