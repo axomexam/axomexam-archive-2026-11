@@ -19,6 +19,7 @@
 const fs = require("fs");
 const path = require("path");
 const { translate } = require(path.join(__dirname, "..", "data", "i18n", "twin-phrases.js"));
+const { applyAll } = require(path.join(__dirname, "..", "data", "i18n", "page-fragments-as.js"));
 
 const ROOT = path.resolve(__dirname, "..");
 const CHECK = process.argv.includes("--check");
@@ -38,7 +39,12 @@ let total = 0;
 let removed = 0;
 for (const p of pages) {
   const html = fs.readFileSync(p, "utf8");
-  const { html: next, count, dropped } = translate(html);
+  const rel = path.relative(path.join(ROOT, "as"), path.dirname(p)).split(path.sep).join("/");
+  const base = translate(html);
+  const frag = applyAll(rel, base.html);
+  const next = frag.html;
+  const count = base.count + frag.count;
+  const dropped = base.dropped;
   if (!count && !dropped) continue;
   files++;
   total += count;

@@ -48,6 +48,7 @@ const { stripAdsense } = require("./lib/strip-adsense");
 const ROOT = process.cwd();
 const UTILITY_BODY_AS = require(path.join(ROOT, "data", "i18n", "utility-as.js"));
 const { translate: translateTwinPhrases } = require(path.join(ROOT, "data", "i18n", "twin-phrases.js"));
+const { applyAll: applyPageFragments } = require(path.join(ROOT, "data", "i18n", "page-fragments-as.js"));
 const BASE = "https://axomexam.in";
 
 const { translateFragment } = createTranslator(ROOT);
@@ -1187,6 +1188,7 @@ function buildTwin(enHTML, rel, head) {
      worked-example intros, "set has N questions" lines). Whole sentences, kept
      in data/i18n/twin-phrases.js so the twin does not serve them in English. */
   out = translateTwinPhrases(out).html;
+  out = applyPageFragments(rel, out).html;
 
   return out;
 }

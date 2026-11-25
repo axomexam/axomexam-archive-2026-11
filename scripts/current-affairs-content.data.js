@@ -17,7 +17,7 @@
 module.exports = {
   index: {
     title: "Free Current Affairs for ADRE, Assam Police and APSC | axomexam",
-    meta: "Free bilingual current affairs with answers and explanations for ADRE 2.0, Assam Police, APSC, SSC and Railway exams. Sports, awards, appointments, economy, environment and more, updated regularly.",
+    meta: "Free bilingual current affairs with answers and explanations for ADRE 2.0, Assam Police, APSC, SSC and Railway exams. Sports, awards, appointments, economy, environment and more.",
     h2: "Free Current Affairs for Assam and Central Government Exams",
     lead: [
       "Current affairs is the section that separates an average score from a competitive one in almost every Assam recruitment examination. ADRE Grade 3 and Grade 4, Assam Police Constable and Sub-Inspector, APSC CCE, Gauhati High Court, DHS, DME, SSC and Railway papers all include a current affairs or general awareness block, and the questions are drawn from the events of the last twelve to eighteen months.",
@@ -65,7 +65,7 @@ module.exports = {
       { q: "How old should current affairs be for the exam?", a: "Prepare the last twelve to eighteen months thoroughly, with extra focus on the six months immediately before the exam. Older events matter mainly if they are linked to a scheme, an award or a continuing policy." },
       { q: "Are the current affairs questions free on axomexam?", a: "Yes. Every question, answer and explanation in the current affairs library is free. There is no login, subscription or payment of any kind." },
       { q: "Can I read current affairs in Assamese?", a: "Yes. All questions and explanations are bilingual. You can switch between Assamese and English at any time so the same fact is reinforced in both languages." },
-      { q: "How often is the current affairs library updated?", a: "New questions are added as important events take place, and each section carries the date it was last updated so you always know how fresh the material is." },
+      { q: "How often is the current affairs library updated?", a: "New questions are added as important events take place. The library is a revision archive of events from 2024 and 2025 rather than a daily news feed, so the explanation of each question is the place to check when the event happened." },
       { q: "Is one month enough to prepare current affairs?", a: "One month is enough for a focused revision if you already follow the news, but for a first-time preparation three to four months of daily short revision works much better." }
     ]
   },
