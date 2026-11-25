@@ -27,7 +27,7 @@ const ROOT = path.resolve(__dirname, "..");
 const SITEMAP = path.join(ROOT, "sitemap.xml");
 const BASE = "https://axomexam.in";
 const DIR = "data/current-affairs";
-const UPDATED = "2026-10-01";
+const TODAY = new Date().toISOString().slice(0, 10);
 const UPLOADED_BY = "axomexam team";
 
 /* ---- The 15 current-affairs sub-categories ---- */
@@ -594,7 +594,6 @@ function main() {
       color: c.color,
       icon: c.icon,
       intro: c.intro,
-      updated: UPDATED,
       uploadedBy: UPLOADED_BY,
       files: [SAMPLE_FILE],
     };
@@ -609,7 +608,6 @@ function main() {
       answer_as: c.q.aas,
       explanation_en: c.q.een,
       explanation_as: c.q.eas,
-      uploadedAt: UPDATED,
       uploadedBy: UPLOADED_BY,
     };
     created.push(writeNew(`${DIR}/${c.id}/${SAMPLE_FILE}`, JSON.stringify(question, null, 2) + "\n"));
@@ -643,7 +641,7 @@ function updateSitemap(urls) {
   urls.forEach((u) => {
     const loc = BASE + u + "/";
     if (xml.includes(`<loc>${loc}</loc>`)) return;
-    additions.push(`  <url>\n    <loc>${loc}</loc>\n    <lastmod>${UPDATED}</lastmod>\n  </url>`);
+    additions.push(`  <url>\n    <loc>${loc}</loc>\n    <lastmod>${TODAY}</lastmod>\n  </url>`);
   });
   if (!additions.length) return;
   xml = xml.replace("</urlset>", additions.join("\n") + "\n</urlset>");
