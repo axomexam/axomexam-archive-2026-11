@@ -22,6 +22,8 @@
  *
  * Usage:
  *   node tools/apply-keyword-map.js --check   # report drift, write nothing
+ *   node tools/apply-keyword-map.js --titles-only
+ *                                             # rewrite titles only
  *   node tools/apply-keyword-map.js           # apply
  *   node tools/apply-keyword-map.js --only-prefix exams/rrb-ntpc/
  *                                             # apply to matching paths only
@@ -33,6 +35,10 @@ const path = require("path");
 const ROOT = path.resolve(__dirname, "..");
 const KMAP = path.join(ROOT, "keyword-map.csv");
 const CHECK = process.argv.includes("--check");
+/* Title-only mode: write <title>/og:title/twitter:title and leave the
+   description and H1 alone, so a title pass can be reviewed without dragging
+   unrelated meta churn into the same diff. */
+const TITLES_ONLY = process.argv.includes("--titles-only");
 const prefIdx = process.argv.indexOf("--only-prefix");
 const ONLY_PREFIX =
   prefIdx >= 0 && process.argv[prefIdx + 1]
@@ -134,7 +140,7 @@ for (const r of rows) {
     html = replaceMetaContent(html, ['property="og:title"'], r.suggested_title);
     html = replaceMetaContent(html, ['name="twitter:title"'], r.suggested_title);
   }
-  if (r.suggested_meta) {
+  if (r.suggested_meta && !TITLES_ONLY) {
     if (hasMeta(html, ['name="description"'])) {
       html = replaceMetaContent(html, ['name="description"'], r.suggested_meta);
     } else {
@@ -143,7 +149,7 @@ for (const r of rows) {
     html = replaceMetaContent(html, ['property="og:description"'], r.suggested_meta);
     html = replaceMetaContent(html, ['name="twitter:description"'], r.suggested_meta);
   }
-  if (r.suggested_h1) {
+  if (r.suggested_h1 && !TITLES_ONLY) {
     const h = replaceElementText(html, /<(h1)[\s>]/i, escapeAttr(r.suggested_h1));
     if (h) html = h;
   }
