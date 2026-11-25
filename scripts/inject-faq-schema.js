@@ -124,10 +124,11 @@ function escapeForScript(json) {
 function processFile(file, counts, stats) {
   const html = fs.readFileSync(file, "utf8");
   const faq = collectFaq(html);
-  if (!faq.length) {
-    stats.noFaq++;
-    return;
-  }
+  if (!faq.length) stats.noFaq++;
+  /* A page with no readable FAQ carries on with an empty keep list instead of
+     returning: that is what strips a stale FAQPage node whose questions the
+     page never shows. Advertising FAQ entries that a visitor cannot see is a
+     structured-data violation, not a missed opportunity. */
   const keep = faq.filter((it) => (counts.get((isAssamesePath(file) ? "as\u0000" : "en\u0000") + pairKey(it)) || 0) <= 1);
   stats.excluded += faq.length - keep.length;
 
