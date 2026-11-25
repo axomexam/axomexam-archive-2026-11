@@ -72,7 +72,7 @@ for (const [rel, { title, why }] of entries) {
   const html = fs.readFileSync(file, "utf8");
   const current = (html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1] || "";
   console.log(`${rel}\n  was: ${current.trim()}\n  now: ${title}  (${title.length})\n  why: ${why.split(". ")[0].replace(/\.$/, "")}.`);
-  if (current.trim() === title) continue;
+  if (current.trim() === escapeAttr(title)) continue;
   changed++;
   if (!CHECK) {
     let out = replaceTitle(html, title);
