@@ -214,6 +214,202 @@ const ROUTES = {
       "চলিত ঘটনাৱলীৰ সমল বিনামূলীয়া নেকি?"
     ]
   ],
+  "exams": [
+    [
+      "Exam books available on this portal:",
+      "এই প'ৰ্টেলত উপলব্ধ পৰীক্ষা-বহীসমূহ:"
+    ],
+    [
+      "axomexam organises its bilingual practice material by recruitment exam, then by subject and sub-category. Each exam below opens into its own book of sections, and every section holds question-wise MCQs with answers and worked explanations.",
+      "axomexam য়ে ইয়াৰ দ্বিভাষিক অনুশীলন সমল নিযুক্তি পৰীক্ষা অনুসৰি, তাৰ পিছত বিষয় আৰু উপ-শ্ৰেণী অনুসৰি সজাই ৰাখে। তলৰ প্ৰতিখন পৰীক্ষাই নিজা শাখা-সংবলিত বহীলৈ খোলে, আৰু প্ৰতিটো শাখাত উত্তৰ আৰু সমাধান-ব্যাখ্যাৰ সৈতে প্ৰশ্নভিত্তিক MCQ থাকে।"
+    ],
+    [
+      "Exams with a full question book",
+      "সম্পূৰ্ণ প্ৰশ্ন-বহী থকা পৰীক্ষাসমূহ"
+    ],
+    [
+      "The Assam Police book is divided into Elementary Mathematics, General English, Logical Reasoning &amp; Mental Ability, Assam's History, Geography &amp; Culture, General Knowledge &amp; Current Affairs, with 5,483 bilingual practice questions in all.",
+      "অসম আৰক্ষী বহীখন প্ৰাথমিক গণিত, সাধাৰণ ইংৰাজী, যৌক্তিক বিচাৰ আৰু মানসিক ক্ষমতা, অসমৰ ইতিহাস, ভূগোল আৰু সংস্কৃতি, সাধাৰণ জ্ঞান আৰু চলিত ঘটনাৱলীত বিভক্ত, মুঠ ৫,৪৮৩ টা দ্বিভাষিক অনুশীলন প্ৰশ্নৰ সৈতে।"
+    ],
+    [
+      "The Assam Police Sub-Inspector (SI) book is divided into Logical Reasoning &amp; Mental Ability, Aptitude &amp; Basic Mathematics, General Knowledge, Science &amp; Current Affairs, History, Geography &amp; Culture of Assam, with 1,785 bilingual practice questions in all.",
+      "অসম আৰক্ষী উপ-পৰিদৰ্শক (SI) বহীখন যৌক্তিক বিচাৰ আৰু মানসিক ক্ষমতা, যোগ্যতা আৰু প্ৰাথমিক গণিত, সাধাৰণ জ্ঞান, বিজ্ঞান আৰু চলিত ঘটনাৱলী, অসমৰ ইতিহাস, ভূগোল আৰু সংস্কৃতিত বিভক্ত, মুঠ ১,৭৮৫ টা দ্বিভাষিক অনুশীলন প্ৰশ্নৰ সৈতে।"
+    ],
+    [
+      "The ADRE 3.0 Grade III book is divided into General Mathematics, History, General English, General Knowledge &amp; Assam GK, Reasoning &amp; Mental Ability, Social Studies, with 14,932 bilingual practice questions in all.",
+      "ADRE 3.0 গ্ৰেড III বহীখন সাধাৰণ গণিত, ইতিহাস, সাধাৰণ ইংৰাজী, সাধাৰণ জ্ঞান আৰু অসম GK, যুক্তি আৰু মানসিক ক্ষমতা, সমাজ অধ্যয়নত বিভক্ত, মুঠ ১৪,৯৩২ টা দ্বিভাষিক অনুশীলন প্ৰশ্নৰ সৈতে।"
+    ],
+    [
+      "The ADRE 3.0 Grade IV book is divided into General Mathematics, General English, General Knowledge &amp; Assam GK, Reasoning &amp; Mental Ability, Social Studies, with 7,175 bilingual practice questions in all.",
+      "ADRE 3.0 গ্ৰেড IV বহীখন সাধাৰণ গণিত, সাধাৰণ ইংৰাজী, সাধাৰণ জ্ঞান আৰু অসম GK, যুক্তি আৰু মানসিক ক্ষমতা, সমাজ অধ্যয়নত বিভক্ত, মুঠ ৭,১৭৫ টা দ্বিভাষিক অনুশীলন প্ৰশ্নৰ সৈতে।"
+    ],
+    [
+      "The DHS &amp; DME Grade IV book is divided into General Knowledge, Basic Mathematics, Basic English, with 447 bilingual practice questions in all.",
+      "DHS আৰু DME গ্ৰেড IV বহীখন সাধাৰণ জ্ঞান, প্ৰাথমিক গণিত, প্ৰাথমিক ইংৰাজীত বিভক্ত, মুঠ ৪৪৭ টা দ্বিভাষিক অনুশীলন প্ৰশ্নৰ সৈতে।"
+    ],
+    [
+      "DHS &amp; DME Technical Grade III",
+      "DHS আৰু DME কাৰিকৰী গ্ৰেড III"
+    ],
+    [
+      "The DHS &amp; DME Technical Grade III book is divided into Technical / Science, General Knowledge &amp; Current Affairs, General English, Numerical Aptitude / General Mathematics, Reasoning &amp; Mental Ability, with 20,137 bilingual practice questions in all.",
+      "DHS আৰু DME কাৰিকৰী গ্ৰেড III বহীখন কাৰিকৰী/বিজ্ঞান, সাধাৰণ জ্ঞান আৰু চলিত ঘটনাৱলী, সাধাৰণ ইংৰাজী, সংখ্যাগত যোগ্যতা/সাধাৰণ গণিত, যুক্তি আৰু মানসিক ক্ষমতাত বিভক্ত, মুঠ ২০,১৩৭ টা দ্বিভাষিক অনুশীলন প্ৰশ্নৰ সৈতে।"
+    ],
+    [
+      "DHS &amp; DME Non-Technical Grade III",
+      "DHS আৰু DME অ-কাৰিকৰী গ্ৰেড III"
+    ],
+    [
+      "The DHS &amp; DME Non-Technical Grade III book is divided into General Knowledge (Assam &amp; India), Elementary Mathematics, Reasoning &amp; Mental Ability, General English, Computer Knowledge, with 1,360 bilingual practice questions in all.",
+      "DHS আৰু DME অ-কাৰিকৰী গ্ৰেড III বহীখন সাধাৰণ জ্ঞান (অসম আৰু ভাৰত), প্ৰাথমিক গণিত, যুক্তি আৰু মানসিক ক্ষমতা, সাধাৰণ ইংৰাজী, কম্পিউটাৰ জ্ঞানত বিভক্ত, মুঠ ১,৩৬০ টা দ্বিভাষিক অনুশীলন প্ৰশ্নৰ সৈতে।"
+    ],
+    [
+      "The RRB NTPC book is divided into General Awareness, Mathematics, General Intelligence &amp; Reasoning, with 11,141 bilingual practice questions in all.",
+      "RRB NTPC বহীখন সাধাৰণ সজাগতা, গণিত, সাধাৰণ বুদ্ধি আৰু যুক্তিত বিভক্ত, মুঠ ১১,১৪১ টা দ্বিভাষিক অনুশীলন প্ৰশ্নৰ সৈতে।"
+    ],
+    [
+      "Exams with previous year papers",
+      "পূৰ্ববৰ্তী বছৰৰ প্ৰশ্নপত্ৰ থকা পৰীক্ষাসমূহ"
+    ],
+    [
+      "For the examinations below the axomexam question book is still being built, but the previous year question papers and matching general-studies notes are already published, so you can start preparing from the real papers straight away.",
+      "তলৰ পৰীক্ষাসমূহৰ বাবে axomexam ৰ প্ৰশ্ন-বহী এতিয়াও সজা হৈ আছে, কিন্তু পূৰ্ববৰ্তী বছৰৰ প্ৰশ্নপত্ৰ আৰু ইয়াৰ লগত মিলা সাধাৰণ অধ্যয়নৰ টোকা ইতিমধ্যে প্ৰকাশিত, গতিকে আপুনি প্ৰকৃত প্ৰশ্নপত্ৰৰ পৰাই এতিয়াই প্ৰস্তুতি আৰম্ভ কৰিব পাৰে।"
+    ],
+    [
+      "APSC — previous year papers and study notes.",
+      "APSC — পূৰ্ববৰ্তী বছৰৰ প্ৰশ্নপত্ৰ আৰু অধ্যয়ন টোকা।"
+    ],
+    [
+      "SSC — previous year papers and study notes.",
+      "SSC — পূৰ্ববৰ্তী বছৰৰ প্ৰশ্নপত্ৰ আৰু অধ্যয়ন টোকা।"
+    ],
+    [
+      "How to use the exam books",
+      "পৰীক্ষা-বহীসমূহ কেনেকৈ ব্যৱহাৰ কৰিব"
+    ],
+    [
+      "Pick your exam, then the subject you want to revise first.",
+      "আপোনাৰ পৰীক্ষা বাছনি কৰক, তাৰ পিছত আগতে পুনৰালোচনা কৰিব বিচৰা বিষয়টো।"
+    ],
+    [
+      "Work through the sub-categories in order and read the explanation after each answer.",
+      "উপ-শ্ৰেণীবোৰ ক্ৰমে কৰি যাওক আৰু প্ৰতিটো উত্তৰৰ পিছত ব্যাখ্যা পঢ়ক।"
+    ],
+    [
+      "Take a full mock test once you have covered every subject.",
+      "সকলো বিষয় সামৰি লোৱাৰ পিছত এটা সম্পূৰ্ণ মক টেষ্ট দিয়ক।"
+    ],
+    [
+      "Attempt a previous year paper in the final weeks to check your speed.",
+      "শেষৰ সপ্তাহবোৰত পূৰ্ববৰ্তী বছৰৰ এখন প্ৰশ্নপত্ৰ চেষ্টা কৰি নিজৰ গতি পৰীক্ষা কৰক।"
+    ],
+    [
+      "Which exams can I prepare for on axomexam?",
+      "axomexam ত কোনবোৰ পৰীক্ষাৰ প্ৰস্তুতি ল'ব পাৰি?"
+    ],
+    [
+      "The exam books currently published are Assam Police, Assam Police Sub-Inspector (SI), ADRE 3.0 Grade III, ADRE 3.0 Grade IV, DHS &amp; DME Grade IV, DHS &amp; DME Technical Grade III, DHS &amp; DME Non-Technical Grade III, RRB NTPC. Each book carries the full syllabus broken into subjects and sub-categories.",
+      "এতিয়া প্ৰকাশিত পৰীক্ষা-বহীসমূহ হ'ল অসম আৰক্ষী, অসম আৰক্ষী উপ-পৰিদৰ্শক (SI), ADRE 3.0 গ্ৰেড III, ADRE 3.0 গ্ৰেড IV, DHS আৰু DME গ্ৰেড IV, DHS আৰু DME কাৰিকৰী গ্ৰেড III, DHS আৰু DME অ-কাৰিকৰী গ্ৰেড III, RRB NTPC। প্ৰতিখন বহীত সম্পূৰ্ণ পাঠ্যক্ৰম বিষয় আৰু উপ-শ্ৰেণীত ভাগ কৰি দিয়া হৈছে।"
+    ],
+    [
+      "Yes. Every question, explanation, mock test and PDF note on axomexam is free and needs no sign-up.",
+      "হয়। axomexam ৰ প্ৰতিটো প্ৰশ্ন, ব্যাখ্যা, মক টেষ্ট আৰু PDF টোকা বিনামূলীয়া আৰু কোনো ছাইন-আপৰ প্ৰয়োজন নাই।"
+    ],
+    [
+      "Every question is written in Assamese and English, and you can switch language on any practice page.",
+      "প্ৰতিটো প্ৰশ্ন অসমীয়া আৰু ইংৰাজীত লিখা, আৰু যিকোনো অনুশীলন পৃষ্ঠাত ভাষা সলনি কৰিব পাৰি।"
+    ]
+  ],
+  "exam-wise-mock-test": [
+    [
+      "Exam-wise mock tests for Assam recruitment exams",
+      "অসমৰ নিযুক্তি পৰীক্ষাৰ বাবে পৰীক্ষা-ভিত্তিক মক টেষ্ট"
+    ],
+    [
+      "On this page Assam Police Sub-Inspector (SI), Assam Police, ADRE 3.0 Grade III, ADRE 3.0 Grade IV, DHS &amp; DME Technical Grade III, DHS &amp; DME Non-Technical Grade III, DHS &amp; DME Grade IV, RRB NTPC each have their own separate mock tests. The papers are not shared between exams: an Assam Police set draws on the Assam Police syllabus, and an ADRE Grade III set draws on the Grade III syllabus, so you never practise a question that will not appear in your paper.",
+      "এই পৃষ্ঠাত অসম আৰক্ষী উপ-পৰিদৰ্শক (SI), অসম আৰক্ষী, ADRE 3.0 গ্ৰেড III, ADRE 3.0 গ্ৰেড IV, DHS আৰু DME কাৰিকৰী গ্ৰেড III, DHS আৰু DME অ-কাৰিকৰী গ্ৰেড III, DHS আৰু DME গ্ৰেড IV, RRB NTPC — প্ৰতিটোৰে সুকীয়া মক টেষ্ট আছে। পৰীক্ষাবোৰৰ মাজত প্ৰশ্নপত্ৰ ভাগ কৰা নহয়: অসম আৰক্ষীৰ সংহতিয়ে অসম আৰক্ষীৰ পাঠ্যক্ৰমৰ পৰা, আৰু ADRE গ্ৰেড III ৰ সংহতিয়ে গ্ৰেড III ৰ পাঠ্যক্ৰমৰ পৰা প্ৰশ্ন লয়, গতিকে আপোনাৰ প্ৰশ্নপত্ৰত নহা কোনো প্ৰশ্নৰ অনুশীলন আপুনি কেতিয়াও নকৰে।"
+    ],
+    [
+      "What each full paper contains",
+      "প্ৰতিখন সম্পূৰ্ণ পত্ৰত কি থাকে"
+    ],
+    [
+      "How to attempt an exam-wise mock test",
+      "পৰীক্ষা-ভিত্তিক মক টেষ্ট কেনেকৈ দিব"
+    ],
+    [
+      "Open the exam that matches your recruitment.",
+      "আপোনাৰ নিযুক্তিৰ সৈতে মিলা পৰীক্ষাটো খোলক।"
+    ],
+    [
+      "Pick a full paper set — start with Set 1 and move up.",
+      "এখন সম্পূৰ্ণ পত্ৰৰ ছেট বাছনি কৰক — ছেট ১ ৰ পৰা আৰম্ভ কৰি আগবাঢ়ক।"
+    ],
+    [
+      "Choose your question language and start the timed test.",
+      "প্ৰশ্নৰ ভাষা বাছনি কৰি সময়বদ্ধ টেষ্ট আৰম্ভ কৰক।"
+    ],
+    [
+      "Submit to get an instant score, then read the bilingual answer review for every question.",
+      "জমা দি তৎক্ষণাত স্ক'ৰ লওক, তাৰ পিছত প্ৰতিটো প্ৰশ্নৰ দ্বিভাষিক উত্তৰ-পৰ্যালোচনা পঢ়ক।"
+    ],
+    [
+      "What is an exam-wise mock test?",
+      "পৰীক্ষা-ভিত্তিক মক টেষ্ট কি?"
+    ],
+    [
+      "An exam-wise mock test is a single full-length paper that mixes every subject of one recruitment exam — for example Assam Police or ADRE Grade III — and runs under a live timer, so it works exactly like the real examination hall instead of a single-subject practice drill.",
+      "পৰীক্ষা-ভিত্তিক মক টেষ্ট হৈছে এখন সম্পূৰ্ণ দীঘল প্ৰশ্নপত্ৰ, য'ত এটা নিযুক্তি পৰীক্ষাৰ সকলো বিষয় মিলাই দিয়া হয় — যেনে অসম আৰক্ষী বা ADRE গ্ৰেড III — আৰু ই লাইভ টাইমাৰত চলে, গতিকে ই এটা বিষয়ৰ অনুশীলনৰ পৰিৱৰ্তে প্ৰকৃত পৰীক্ষা হলৰ দৰেই কাম কৰে।"
+    ],
+    [
+      "How many questions are in each set?",
+      "প্ৰতিটো ছেটত কিমানটা প্ৰশ্ন থাকে?"
+    ],
+    [
+      "Each full paper set carries the same number of bilingual questions as the real exam paper — 100 for Assam Police Sub-Inspector (SI), 100 for Assam Police, 150 for ADRE 3.0 Grade III, 135 for ADRE 3.0 Grade IV, 100 for DHS &amp; DME Technical Grade III, 100 for DHS &amp; DME Non-Technical Grade III, 50 for DHS &amp; DME Grade IV, 100 for RRB NTPC — with four options each, an answer key and a short explanation in both Assamese and English.",
+      "প্ৰতিখন সম্পূৰ্ণ পত্ৰৰ ছেটত প্ৰকৃত প্ৰশ্নপত্ৰৰ সমান সংখ্যক দ্বিভাষিক প্ৰশ্ন থাকে — অসম আৰক্ষী উপ-পৰিদৰ্শক (SI) ৰ বাবে ১০০, অসম আৰক্ষীৰ বাবে ১০০, ADRE 3.0 গ্ৰেড III ৰ বাবে ১৫০, ADRE 3.0 গ্ৰেড IV ৰ বাবে ১৩৫, DHS আৰু DME কাৰিকৰী গ্ৰেড III ৰ বাবে ১০০, DHS আৰু DME অ-কাৰিকৰী গ্ৰেড III ৰ বাবে ১০০, DHS আৰু DME গ্ৰেড IV ৰ বাবে ৫০, RRB NTPC ৰ বাবে ১০০ — প্ৰতিটোৰে চাৰিটা বিকল্প, উত্তৰ-কী আৰু অসমীয়া আৰু ইংৰাজীত চমু ব্যাখ্যাৰ সৈতে।"
+    ],
+    [
+      "Are the mock tests different for each exam?",
+      "প্ৰতিটো পৰীক্ষাৰ বাবে মক টেষ্ট বেলেগ নেকি?"
+    ],
+    [
+      "Yes. Each exam has its own separate sets built from its own syllabus and question bank — Assam Police Sub-Inspector (SI), Assam Police, ADRE 3.0 Grade III, ADRE 3.0 Grade IV, DHS &amp; DME Technical Grade III, DHS &amp; DME Non-Technical Grade III, DHS &amp; DME Grade IV, RRB NTPC are kept apart.",
+      "হয়। প্ৰতিটো পৰীক্ষাৰ নিজা পাঠ্যক্ৰম আৰু প্ৰশ্ন-ভঁৰালৰ পৰা সজা সুকীয়া ছেট আছে — অসম আৰক্ষী উপ-পৰিদৰ্শক (SI), অসম আৰক্ষী, ADRE 3.0 গ্ৰেড III, ADRE 3.0 গ্ৰেড IV, DHS আৰু DME কাৰিকৰী গ্ৰেড III, DHS আৰু DME অ-কাৰিকৰী গ্ৰেড III, DHS আৰু DME গ্ৰেড IV, RRB NTPC সুকীয়াকৈ ৰখা হৈছে।"
+    ],
+    [
+      "Are these mock tests free?",
+      "এই মক টেষ্টবোৰ বিনামূলীয়া নেকি?"
+    ],
+    [
+      "Yes. Every exam-wise mock test on axomexam is 100% free and can be reattempted as many times as you like.",
+      "হয়। axomexam ৰ প্ৰতিটো পৰীক্ষা-ভিত্তিক মক টেষ্ট ১০০% বিনামূলীয়া আৰু আপুনি যিমান ইচ্ছা পুনৰ চেষ্টা কৰিব পাৰে।"
+    ],
+    [
+      "Yes. Every question, option and explanation is available in both Assamese and English, and you can choose the question language before the test begins.",
+      "হয়। প্ৰতিটো প্ৰশ্ন, বিকল্প আৰু ব্যাখ্যা অসমীয়া আৰু ইংৰাজী দুয়ো ভাষাত উপলব্ধ, আৰু টেষ্ট আৰম্ভ হোৱাৰ আগতে আপুনি প্ৰশ্নৰ ভাষা বাছনি কৰিব পাৰে।"
+    ],
+    [
+      "How a set is built",
+      "এটা ছেট কেনেকৈ সজা হয়"
+    ],
+    [
+      "Can I practise in Assamese?",
+      "অসমীয়াত অনুশীলন কৰিব পাৰিম নেকি?"
+    ],
+    [
+      "DHS &amp; DME Technical Grade III",
+      "DHS আৰু DME কাৰিকৰী গ্ৰেড III"
+    ],
+    [
+      "DHS &amp; DME Non-Technical Grade III",
+      "DHS আৰু DME অ-কাৰিকৰী গ্ৰেড III"
+    ],
+    [
+      "DHS &amp; DME Grade IV",
+      "DHS আৰু DME গ্ৰেড IV"
+    ]
+  ]
 };
 
 
