@@ -1,0 +1,41 @@
+{
+  "note": "Titles the automatic fit shortened by dropping a parenthetical. Each entry restores the term inside the brackets and pays for it by cutting the exam list or the gloss word instead. Length limit is still 60.",
+  "titles": {
+    "topic/gk/art-culture/assam-art-culture-sec/assamese-literature-buranjis-culture/index.html": {
+      "title": "Assamese Literature (Buranjis) Questions — ADRE, APSC",
+      "why": "The fit dropped \"(Buranjis)\" to make room for \"Historical Chronicles\". Buranjis is the word people search; the chronicles gloss is not."
+    },
+    "topic/gk/economics/assam-economy-sec/assam-allied-primary-activities/index.html": {
+      "title": "Allied Activities (Fisheries, Forestry, Livestock) MCQs",
+      "why": "The fit dropped all three subject words to keep the exam list. The subjects are the searchable part."
+    },
+    "topic/gk/economics/indian-economy-sec/bop-forex-reserves-india/index.html": {
+      "title": "Balance of Payments (BoP) & Forex MCQs — ADRE, APSC",
+      "why": "Restores \"BoP\" and \"Forex\", the two abbreviations the fit cut. \"Foreign Exchange\" spells out Forex, so it is the part that goes."
+    },
+    "topic/gk/economics/indian-economy-sec/india-allied-sectors-dairy-fisheries/index.html": {
+      "title": "Allied Sectors (Dairy, Fisheries, Animal Husbandry) MCQs",
+      "why": "The fit dropped the whole subject list. Restored, with the exam list dropped instead."
+    },
+    "topic/gk/economics/indian-economy-sec/msme-handloom-psus-india/index.html": {
+      "title": "MSME, Handloom & Public Sector Undertakings (PSUs) MCQs",
+      "why": "Restores \"(PSUs)\", which is how the topic is searched, by cutting the exam list."
+    },
+    "topic/gk/indian-history/medieval-indian-history-sec/mughal-empire-admin/index.html": {
+      "title": "Mughal Empire (Babur to Aurangzeb) & Administration MCQs",
+      "why": "Restores the ruler range, the term the fit cut, by cutting the exam list."
+    },
+    "topic/gk/indian-history/medieval-indian-history-sec/turkish-invasions/index.html": {
+      "title": "Turkish Invasions (Mahmud of Ghazni & Muhammad Ghori) MCQs",
+      "why": "Restores both invader names, the most specific terms on the page."
+    },
+    "topic/gk/indian-history/modern-indian-history-sec/british-conquest-plassey-buxar/index.html": {
+      "title": "British Conquest & Consolidation (Plassey & Buxar) MCQs",
+      "why": "Restores the two battle names, which is what the page is searched by."
+    },
+    "topic/gk/indian-history/modern-indian-history-sec/constitutional-developments-acts/index.html": {
+      "title": "Constitutional Developments & Acts (1909, 1919, 1935) MCQs",
+      "why": "Restores the three act years, the terms the fit cut."
+    }
+  }
+}
