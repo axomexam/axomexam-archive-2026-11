@@ -1,5 +1,8 @@
 "use strict";
 
+const fs = require("fs");
+const path = require("path");
+
 /*
  * Assamese for the Current Affairs hub page.
  *
@@ -213,11 +216,33 @@ const ROUTES = {
   ],
 };
 
+
+/* The seven category hubs already carry a hand-written Assamese description in
+   data/categories.json, but the twin builder only ever read the English half, so
+   /as/category/math/ and its six siblings opened in English. Both halves have
+   the same number of paragraphs, so they pair one to one. */
+const CATEGORIES = JSON.parse(
+  fs.readFileSync(path.join(__dirname, "..", "..", "data", "categories.json"), "utf8")
+);
+
+const escapeHtml = (s) => s.replace(/&(?![a-zA-Z]+;|#\d+;)/g, "&amp;");
+
+const DESCRIPTIONS = {};
+for (const cat of CATEGORIES.categories || []) {
+  const desc = cat.description || {};
+  const split = (v) => String(v || "").split("\n\n").map((p) => p.trim()).filter(Boolean);
+  const en = split(desc.en);
+  const as = split(desc.as);
+  if (!en.length || en.length !== as.length) continue;
+  DESCRIPTIONS["category/" + cat.id] = en.map((p, i) => [escapeHtml(p), escapeHtml(as[i])]);
+}
+
 function applyRoute(rel, html) {
   const pairs = ROUTES[rel || ""];
-  if (!pairs) return { html, count: 0 };
+  const desc = DESCRIPTIONS[rel || ""] || [];
+  if (!pairs && !desc.length) return { html, count: 0 };
   let n = 0;
-  for (const [en, as] of pairs) {
+  for (const [en, as] of (pairs || []).concat(desc)) {
     const parts = html.split(en);
     if (parts.length > 1) {
       n += parts.length - 1;
@@ -334,4 +359,4 @@ function applyAll(rel, html) {
   return { html: route.html, count: footer.count + route.count };
 }
 
-module.exports = { applyRoute, applyAll, translateFooter, ROUTES, FOOTER };
+module.exports = { applyRoute, applyAll, translateFooter, ROUTES, FOOTER, DESCRIPTIONS };

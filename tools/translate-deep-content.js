@@ -73,17 +73,16 @@ function faqHTML(faqs) {
   );
 }
 
-function renderSection(entry) {
+function renderInner(entry) {
   const lead = (entry.lead || []).map((p) => "<p>" + esc(p) + "</p>").join("");
   const h2 = entry.h2 || String(entry.title || "").replace(/\s*\|\s*axomexam\s*$/i, "");
   return (
-    '<section class="section seo-deep" data-axo-deep="1" style="padding-bottom:48px;">' +
     '<div class="info-panel" style="background:var(--bg,#ffffff); border:1px solid var(--border,#e2e8f0); border-radius:18px; padding:28px 24px; line-height:1.8; color:var(--ink-soft,#475569); max-width:900px; margin:0 auto; text-align:left;">' +
     '<h2 style="margin-top:0; color:var(--ink,#0f172a);">' + esc(h2) + "</h2>" +
     lead +
     sectionsHTML(entry.sections) +
     faqHTML(entry.faqs) +
-    "</div></section>"
+    "</div>"
   );
 }
 
@@ -97,7 +96,12 @@ for (const key of Object.keys(PAGES)) {
   if (!entry) continue;
   const html = fs.readFileSync(file, "utf8");
   if (!/data-axo-deep="1"/.test(html)) continue;
-  const out = html.replace(/<section class="section seo-deep"[\s\S]*?<\/section>/, renderSection(entry));
+  /* Keep the page's own <section> tag: the class list has grown since this
+     tool was written (seo-deep qs17), and rewriting the tag would drop it. */
+  const out = html.replace(
+    /<section[^>]*data-axo-deep="1"[^>]*>[\s\S]*?<\/section>/,
+    (whole) => whole.slice(0, whole.indexOf(">") + 1) + renderInner(entry) + "</section>"
+  );
   if (out === html) continue;
   fs.writeFileSync(file, out);
   changed++;
