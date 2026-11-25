@@ -20,7 +20,7 @@
  *
  * block placed after </main>, holding an English panel and an Assamese panel
  * (overview paragraphs + key-facts list + a short FAQ). tools/build-as-twins.js
- * copies that block into the /as/ twin, and tools/fix-faq-schema-visibility.js
+ * copies that block into the /as/ twin, and scripts/inject-faq-schema.js
  * rebuilds the FAQPage node from its visible FAQ.
  *
  * The prose lives in tools/rrb-ntpc-ga-articles/<group>/<leaf>.js (one module

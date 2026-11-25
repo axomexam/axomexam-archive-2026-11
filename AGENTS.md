@@ -4251,7 +4251,11 @@ useful test pair.
 
 ## FAQ structured data must match the visible FAQ
 
-`scripts/inject-faq-schema.js` is the only writer of `FAQPage` nodes: it rebuilds
+`scripts/inject-faq-schema.js` is the only writer of `FAQPage` nodes.
+`tools/fix-faq-schema-visibility.js` did the same job but counted repeated Q&A
+across both languages, so it treated every translated twin as boilerplate: a
+`--check` run in Nov 2026 wanted to rewrite 1,012 pages and cut 7,788 questions
+to 4,626. It was removed; use the injector. it rebuilds
 each node from the `<details><summary>` blocks a visitor can actually read, drops
 Q&A pairs that repeat within a language, and strips the node outright when the
 page shows no FAQ. Run it after any change to visible FAQ text.
