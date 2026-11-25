@@ -4248,3 +4248,26 @@ That means a spacing regression here would be invisible in a browser, so verify
 it where it does show. Render both versions with scripts off and compare computed
 styles element by element; a 12,000-element page and its Assamese twin are the
 useful test pair.
+
+## FAQ structured data must match the visible FAQ
+
+`scripts/inject-faq-schema.js` is the only writer of `FAQPage` nodes: it rebuilds
+each node from the `<details><summary>` blocks a visitor can actually read, drops
+Q&A pairs that repeat within a language, and strips the node outright when the
+page shows no FAQ. Run it after any change to visible FAQ text.
+
+Two rules follow from that, and both were broken until 2026-11-24:
+
+- A page with no readable FAQ must not keep an old `FAQPage` node. The early
+  return that skipped such pages left 3,617 page titles sitting in `name` where a
+  question belongs — "Is Syllabus — ADRE 3.0 Grade IV Exam Book free to use on
+  axomexam?", and the Assamese home page repeating its own title ten times.
+- A question template may only interpolate the subject half of a title.
+  `scripts/normalise-faq-title-echo.js` repairs blocks where a generator baked the
+  whole title in: it deletes the "{subject} — {descriptor}" string and keeps the
+  subject, so no sentence is rewritten or invented. It is idempotent and reports
+  every before/after pair under `--dry`.
+
+Current state (2026-11-24): 1,216 pages carry `FAQPage`, 7,788 questions, 6,732
+distinct, no page repeating one question as every entry, and every `name` appears
+verbatim as a `<summary>` on its own page.
