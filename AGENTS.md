@@ -4216,3 +4216,35 @@ The modern Olympic Games were revived by"), and collapses doubled terminators
 An Assamese explanation under six words is normal, not a defect: the language
 is compact ("জাপানৰ ৰাজধানী টকিঅ'।" is the whole answer). Judge Assamese by
 whether it ends with "।" and names the fact, not by a word count.
+
+## Repeated inline styles become .qsN classes
+
+The generators emit spacing as inline style attributes, and the same twenty-odd
+strings repeat millions of times ("margin:2px 0;" alone appears 710,000 times).
+`tools/derive-style-classes.js` copies those declarations into `.qsN` classes at
+the end of `css/style.src.css`, and `tools/move-inline-styles.js` swaps the
+attribute for the class name. Declarations are copied unchanged, so nothing
+moves on the page.
+
+Two details matter if you touch either script:
+
+- The classes carry `!important`. An inline attribute outranked every rule in
+  the stylesheet; without the marker a selector one compound deeper
+  (`.info-panel ul`) starts winning and spacing shifts. The block also sits last
+  in the file, so ties break the way they did before.
+- Class names must never be reassigned. A page already points at `qs14`, so the
+  derive script keeps existing entries and only appends new patterns. If the
+  mapping is ever lost, rebuild it from the previous commit rather than rescanning
+  the working tree, which no longer holds the inline attributes:
+  `git worktree add /tmp/head-site HEAD && node tools/derive-style-classes.js --root=/tmp/head-site`
+
+Order after a content pass that writes new markup:
+`derive-style-classes.js` → `move-inline-styles.js` → `minify-assets.js` →
+`stamp-assets.js`.
+
+The static question blocks are not what visitors see: `js/app.js` renders its own
+cards into `#qa-list`, and the static copy exists for crawlers and no-JS readers.
+That means a spacing regression here would be invisible in a browser, so verify
+it where it does show. Render both versions with scripts off and compare computed
+styles element by element; a 12,000-element page and its Assamese twin are the
+useful test pair.

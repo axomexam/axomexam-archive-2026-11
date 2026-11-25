@@ -3689,3 +3689,38 @@ a.axo-email:hover { color: #1e3a8a; background: #dbeafe; text-decoration: none; 
 .desktop-lang-toggle .lang-link:hover{color:var(--primary)}
 .desktop-lang-toggle .lang-link.is-active{background:var(--grad);color:#fff}
 @media (max-width:560px){.desktop-lang-toggle .lang-link{min-width:36px;padding:0 7px;font-size:.72rem}}
+
+/* >>> repeated inline declarations (tools/derive-style-classes.js) */
+/* These declarations were inline on the page and are copied here unchanged, so
+   swapping the attribute for the class renders exactly the same. They are
+   marked !important because the inline attribute outranked every rule below,
+   and kept last so that order breaks any remaining tie the same way. */
+.qs1 { margin:2px 0 !important; }
+.qs2 { color:#64748b !important; }
+.qs3 { color:#94a3b8 !important; }
+.qs4 { margin-bottom:22px !important; }
+.qs5 { font-weight:800 !important; font-size:1.02rem !important; line-height:1.5 !important; margin-bottom:6px !important; }
+.qs6 { margin-top:8px !important; }
+.qs7 { margin-top:6px !important; font-size:0.9rem !important; color:#64748b !important; }
+.qs8 { margin-top:8px !important; color:#334155 !important; }
+.qs9 { font-size:0.9rem !important; color:#64748b !important; }
+.qs10 { color:#64748b !important; font-size:0.9rem !important; line-height:1.6 !important; margin-bottom:8px !important; }
+.qs11 { margin:0 0 12px !important; line-height:1.85 !important; color:#334155 !important; }
+.qs12 { margin:8px 0 0 !important; }
+.qs13 { margin-top:10px !important; }
+.qs14 { margin:0 0 12px !important; }
+.qs15 { font-size:1.02rem !important; font-weight:700 !important; margin:22px 0 8px !important; color:#0f172a !important; }
+.qs16 { margin:8px 0 0 20px !important; line-height:1.9 !important; }
+.qs17 { padding-bottom:48px !important; }
+.qs18 { padding-top:2px !important; padding-bottom:22px !important; }
+.qs19 { padding-bottom:40px !important; }
+.qs20 { margin-bottom:6px !important; }
+.qs21 { max-width:860px !important; margin:0 auto !important; }
+.qs22 { font-size:1.15rem !important; margin-bottom:18px !important; }
+.qs23 { padding-bottom:46px !important; }
+.qs24 { margin-top:18px !important; }
+.qs25 { margin-bottom:14px !important; }
+.qs26 { font-size:0.8rem !important; color:#64748b !important; }
+.qs27 { margin:0 4px !important; color:#475569 !important; font-weight:700 !important; }
+.qs28 { margin:0 0 18px !important; color:#64748b !important; font-size:.92rem !important; }
+/* <<< repeated inline declarations */
