@@ -4311,3 +4311,25 @@ and with `meta.updated` gone from the data it also writes "Last updated  by the
 axomexam team" with an empty date. `--check` reports 16 files of drift for that
 reason, not because of a recent edit. Fix the script before using it; edit the
 data file and the page together in the meantime.
+
+## Explanations are the product; measure them
+
+`node tools/check-explanations.js` audits every multiple-choice item in `data/`
+and reports three things a reader notices immediately:
+
+- **length** — 25+ words in English, 20+ in Assamese;
+- **elimination** — the explanation names at least one wrong option, or says why
+  the others fail. Without it the explanation only restates the key;
+- **restatement** — at least 6 content words that the question did not already
+  contain (judged only on explanations that pass the length floor, because a
+  12-word explanation always looks like a restatement).
+
+Baseline on 2026-11-25: 68,138 distinct MCQs, 4% pass all three, 93% are under
+25 words, median 12. The bank is an answer key with a teaching layer promised in
+the copy. Items in `data/content/*` shaped `{q, a}` are study notes, not MCQs,
+and the tool skips them.
+
+`--json <path>` exports one row per question for batch work, `--area <prefix>`
+narrows to a directory, `--strict` exits 1 while anything fails. Rewriting is
+subject work, not a script: the explanation has to say something true that the
+question did not.
