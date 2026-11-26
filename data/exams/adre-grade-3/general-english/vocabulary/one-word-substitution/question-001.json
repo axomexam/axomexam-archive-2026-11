@@ -11,22 +11,22 @@
         "as": "লেখক"
       },
       {
-        "en": "advocate",
-        "as": "উকীল"
+        "en": "poet",
+        "as": "কবি"
       },
       {
-        "en": "ambassador",
-        "as": "ৰাষ্ট্ৰদূত"
+        "en": "novelist",
+        "as": "ঔপন্যাসিক"
       },
       {
-        "en": "anatomist",
-        "as": "শৰীৰতত্ত্ববিদ"
+        "en": "editor",
+        "as": "সম্পাদক"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'author'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'author' (লেখক)।"
+      "en": "'Author' is the word for one who writes books. 'Poet' writes verse, 'novelist' writes long fiction and 'editor' prepares the work of others for print, so none of them is the general word for a writer of books.",
+      "as": "'Author' মানে কিতাপ লিখা ব্যক্তি। 'Poet' পদ্য লিখে, 'novelist' উপন্যাস লিখে, 'editor' আনৰ লেখা ছপা কৰিবলৈ সাজু কৰে।"
     }
   },
   {
@@ -187,16 +187,16 @@
     },
     "options": [
       {
-        "en": "butcher",
-        "as": "মাংস বিক্ৰেতা"
+        "en": "biographer",
+        "as": "জীৱনী লেখক"
       },
       {
-        "en": "cannibal",
-        "as": "নৰভক্ষী"
+        "en": "novelist",
+        "as": "ঔপন্যাসিক"
       },
       {
-        "en": "captain",
-        "as": "অধিনায়ক"
+        "en": "historian",
+        "as": "ইতিহাসবিদ"
       },
       {
         "en": "autobiographer",
@@ -205,8 +205,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The correct one-word substitution is 'autobiographer'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'autobiographer' (আত্মজীৱনীকাৰ)।"
+      "en": "'Autobiographer' is the word for one who writes the story of his own life. 'Biographer' writes the life of someone else, 'novelist' writes fiction and 'historian' records the events of the past.",
+      "as": "'Autobiographer' মানে নিজৰ জীৱনী লিখা ব্যক্তি। 'Biographer' আনৰ জীৱনী লিখে, 'novelist' কল্পকাহিনী লিখে, 'historian' অতীতৰ ঘটনা লিখে।"
     }
   },
   {
@@ -217,26 +217,26 @@
     },
     "options": [
       {
-        "en": "captain",
-        "as": "অধিনায়ক"
+        "en": "etymologist",
+        "as": "শব্দ-উৎপত্তি বিশেষজ্ঞ"
       },
       {
-        "en": "cardiologist",
-        "as": "হৃদৰোগ বিশেষজ্ঞ"
+        "en": "bibliographer",
+        "as": "গ্ৰন্থ-তালিকা প্ৰস্তুতকাৰী"
       },
       {
         "en": "lexicographer",
         "as": "অভিধানকাৰ"
       },
       {
-        "en": "carpenter",
-        "as": "কাঠমিস্ত্ৰী"
+        "en": "editor",
+        "as": "সম্পাদক"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "The correct one-word substitution is 'lexicographer'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'lexicographer' (অভিধানকাৰ)।"
+      "en": "'Lexicographer' is the word for one who compiles a dictionary. 'Etymologist' studies the origin of words, 'bibliographer' lists books and 'editor' prepares text for publication.",
+      "as": "'Lexicographer' মানে অভিধান সংকলন কৰা ব্যক্তি। 'Etymologist' শব্দৰ উৎপত্তি পঢ়ে, 'bibliographer' কিতাপৰ তালিকা কৰে, 'editor' লেখা ছপা কৰিবলৈ সাজু কৰে।"
     }
   },
   {
@@ -517,26 +517,26 @@
     },
     "options": [
       {
-        "en": "historian",
-        "as": "ইতিহাসবিদ"
+        "en": "mason",
+        "as": "ৰাজমিস্ত্ৰী"
       },
       {
         "en": "carpenter",
         "as": "কাঠমিস্ত্ৰী"
       },
       {
-        "en": "hunter",
-        "as": "চিকাৰী"
+        "en": "blacksmith",
+        "as": "কামাৰ"
       },
       {
-        "en": "illiterate",
-        "as": "নিৰক্ষৰ"
+        "en": "plumber",
+        "as": "প্লাম্বাৰ"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "The correct one-word substitution is 'carpenter'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'carpenter' (কাঠমিস্ত্ৰী)।"
+      "en": "'Carpenter' is the word for one who makes wooden furniture. 'Mason' works in stone, 'blacksmith' works in iron and 'plumber' fits water pipes, so only one of them works in wood.",
+      "as": "'Carpenter' মানে কাঠৰ আচবাব বনোৱা ব্যক্তি। 'Mason' শিলত কাম কৰে, 'blacksmith' লোত কাম কৰে, 'plumber' পানীৰ পাইপ লগায়।"
     }
   },
   {
@@ -547,26 +547,26 @@
     },
     "options": [
       {
-        "en": "insolvent",
-        "as": "দেৱালীয়া"
+        "en": "goldsmith",
+        "as": "স্বৰ্ণকাৰ"
       },
       {
-        "en": "journalist",
-        "as": "সাংবাদিক"
+        "en": "silversmith",
+        "as": "ৰূপকাৰ"
       },
       {
         "en": "blacksmith",
         "as": "লো-কাৰিকৰ"
       },
       {
-        "en": "judge",
-        "as": "ন্যায়াধীশ"
+        "en": "locksmith",
+        "as": "তলাবিশেষজ্ঞ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "The correct one-word substitution is 'blacksmith'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'blacksmith' (লো-কাৰিকৰ)।"
+      "en": "'Blacksmith' is the word for one who works with iron. 'Goldsmith' works with gold, 'silversmith' with silver and 'locksmith' makes locks, so none of them names the worker in iron.",
+      "as": "'Blacksmith' মানে লোৰ কাম কৰা ব্যক্তি। 'Goldsmith' সোণৰ, 'silversmith' ৰূপৰ, 'locksmith' তলা বনোৱা কাম কৰে।"
     }
   },
   {
@@ -581,22 +581,22 @@
         "as": "সোণাৰি"
       },
       {
-        "en": "king",
-        "as": "ৰজা"
+        "en": "silversmith",
+        "as": "ৰূপকাৰ"
       },
       {
-        "en": "labourer",
-        "as": "শ্ৰমিক"
+        "en": "blacksmith",
+        "as": "কামাৰ"
       },
       {
-        "en": "lawyer",
-        "as": "অধিবক্তা"
+        "en": "jeweller",
+        "as": "অলংকাৰ বিক্ৰেতা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'goldsmith'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'goldsmith' (সোণাৰি)।"
+      "en": "'Goldsmith' is the word for one who works with gold. 'Silversmith' works with silver, 'blacksmith' with iron and 'jeweller' sells ornaments rather than making them.",
+      "as": "'Goldsmith' মানে সোণৰ কাম কৰা ব্যক্তি। 'Silversmith' ৰূপৰ কাম কৰে, 'blacksmith' লোৰ কাম কৰে, 'jeweller' অলংকাৰ বিক্ৰী কৰে।"
     }
   },
   {
@@ -607,26 +607,26 @@
     },
     "options": [
       {
-        "en": "legislator",
-        "as": "আইন প্ৰণেতা"
+        "en": "tailor",
+        "as": "দৰ্জী"
       },
       {
-        "en": "lexicographer",
-        "as": "অভিধানকাৰ"
+        "en": "tanner",
+        "as": "চৰ্মকাৰ"
       },
       {
         "en": "cobbler",
         "as": "চৰ্মকাৰ"
       },
       {
-        "en": "linguist",
-        "as": "ভাষাবিদ"
+        "en": "weaver",
+        "as": "তাঁতী"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "The correct one-word substitution is 'cobbler'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'cobbler' (চৰ্মকাৰ)।"
+      "en": "'Cobbler' is the word for one who mends shoes. 'Tailor' stitches clothes, 'tanner' prepares leather and 'weaver' makes cloth, so none of them mends footwear.",
+      "as": "'Cobbler' মানে জোতা মেৰামতি কৰা ব্যক্তি। 'Tailor' কাপোৰ চিলাই কৰে, 'tanner' ছাল প্ৰস্তুত কৰে, 'weaver' কাপোৰ বৈ কৰে।"
     }
   },
   {
@@ -817,26 +817,26 @@
     },
     "options": [
       {
-        "en": "photographer",
-        "as": "ফটোগ্ৰাফাৰ"
+        "en": "miller",
+        "as": "গুটি-গুড়ি কৰা ব্যক্তি"
       },
       {
         "en": "baker",
         "as": "ৰুটি-নিৰ্মাতা"
       },
       {
-        "en": "pilot",
-        "as": "উৰাজাহাজ চালক"
+        "en": "confectioner",
+        "as": "মিঠাই বনোৱা ব্যক্তি"
       },
       {
-        "en": "poet",
-        "as": "কবি"
+        "en": "grocer",
+        "as": "মুদী দোকানী"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "The correct one-word substitution is 'baker'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'baker' (ৰুটি-নিৰ্মাতা)।"
+      "en": "'Baker' is the word for one who bakes bread. 'Miller' grinds grain into flour, 'confectioner' makes sweets and 'grocer' sells food, so none of them bakes the bread.",
+      "as": "'Baker' মানে পাউৰুটি সেকা ব্যক্তি। 'Miller' গুটি গুড়ি কৰে, 'confectioner' মিঠাই বনায়, 'grocer' খাদ্য বিক্ৰী কৰে।"
     }
   },
   {
@@ -847,26 +847,26 @@
     },
     "options": [
       {
-        "en": "poet",
-        "as": "কবি"
+        "en": "mason",
+        "as": "ৰাজমিস্ত্ৰী"
       },
       {
-        "en": "polyglot",
-        "as": "বহুভাষী"
+        "en": "sculptor",
+        "as": "ভাস্কৰ্য্যশিল্পী"
       },
       {
         "en": "potter",
         "as": "কুম্ভকাৰ"
       },
       {
-        "en": "president",
-        "as": "ৰাষ্ট্ৰপতি"
+        "en": "blacksmith",
+        "as": "কামাৰ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "The correct one-word substitution is 'potter'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'potter' (কুম্ভকাৰ)।"
+      "en": "'Potter' is the word for one who makes pots of clay. 'Mason' builds with stone, 'sculptor' carves figures and 'blacksmith' works in iron, so none of them shapes clay pots.",
+      "as": "'Potter' মানে মাটিৰ পাত্ৰ বনোৱা ব্যক্তি। 'Mason' শিলেৰে নিৰ্মাণ কৰে, 'sculptor' মূৰ্তি কাটে, 'blacksmith' লোৰ কাম কৰে।"
     }
   },
   {
@@ -877,16 +877,16 @@
     },
     "options": [
       {
-        "en": "president",
-        "as": "ৰাষ্ট্ৰপতি"
+        "en": "spinner",
+        "as": "সূতা কটা ব্যক্তি"
       },
       {
-        "en": "proofreader",
-        "as": "প্ৰুফ পাঠক"
+        "en": "tailor",
+        "as": "দৰ্জী"
       },
       {
-        "en": "psychiatrist",
-        "as": "মনোৰোগ বিশেষজ্ঞ"
+        "en": "dyer",
+        "as": "ৰং কৰা ব্যক্তি"
       },
       {
         "en": "weaver",
@@ -895,8 +895,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The correct one-word substitution is 'weaver'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'weaver' (তাঁতী)।"
+      "en": "'Weaver' is the word for one who weaves cloth. 'Spinner' makes the thread, 'tailor' stitches garments and 'dyer' colours the cloth, so each covers only an earlier or later step.",
+      "as": "'Weaver' মানে কাপোৰ বোৱা ব্যক্তি। 'Spinner' সূতা কাটে, 'tailor' কাপোৰ চিলাই কৰে, 'dyer' ৰং কৰে।"
     }
   },
   {
@@ -1121,22 +1121,22 @@
         "as": "ডাকটিকট সংগ্ৰাহক"
       },
       {
-        "en": "advocate",
-        "as": "উকীল"
+        "en": "numismatist",
+        "as": "মুদ্ৰা-সংগ্ৰাহক"
       },
       {
-        "en": "ambassador",
-        "as": "ৰাষ্ট্ৰদূত"
+        "en": "bibliophile",
+        "as": "গ্ৰন্থপ্ৰেমী"
       },
       {
-        "en": "anatomist",
-        "as": "শৰীৰতত্ত্ববিদ"
+        "en": "antiquarian",
+        "as": "পুৰাতত্ত্ব-সংগ্ৰাহক"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'philatelist'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'philatelist' (ডাকটিকট সংগ্ৰাহক)।"
+      "en": "'Philatelist' is the word for one who collects stamps. 'Numismatist' collects coins, 'bibliophile' collects books and 'antiquarian' collects old objects, so only the first collects postage stamps.",
+      "as": "'Philatelist' মানে ডাক-টিকট সংগ্ৰহ কৰা ব্যক্তি। 'Numismatist' মুদ্ৰা সংগ্ৰহ কৰে, 'bibliophile' কিতাপ সংগ্ৰহ কৰে, 'antiquarian' পুৰণি বস্তু সংগ্ৰহ কৰে।"
     }
   },
   {
@@ -1177,26 +1177,26 @@
     },
     "options": [
       {
-        "en": "astrophysicist",
-        "as": "জ্যোতিৰ্পদাৰ্থবিদ"
+        "en": "astrologer",
+        "as": "জ্যোতিষী"
       },
       {
         "en": "astronomer",
         "as": "জ্যোতিৰ্বিদ"
       },
       {
-        "en": "atheist",
-        "as": "নাস্তিক"
+        "en": "geologist",
+        "as": "ভূতত্ত্ববিদ"
       },
       {
-        "en": "author",
-        "as": "লেখক"
+        "en": "meteorologist",
+        "as": "বতৰবিজ্ঞানী"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "The correct one-word substitution is 'astronomer'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'astronomer' (জ্যোতিৰ্বিদ)।"
+      "en": "'Astronomer' is the word for one who studies the stars. 'Astrologer' reads fortunes from the stars, 'geologist' studies rocks and 'meteorologist' studies the weather, so only one of them is a scientist of the stars.",
+      "as": "'Astronomer' মানে তৰা অধ্যয়ন কৰা ব্যক্তি। 'Astrologer' ফলাদেশ কৰে, 'geologist' শিল পঢ়ে, 'meteorologist' বতৰ পঢ়ে।"
     }
   },
   {
@@ -1207,26 +1207,26 @@
     },
     "options": [
       {
-        "en": "author",
-        "as": "লেখক"
+        "en": "entomologist",
+        "as": "কীটবিজ্ঞানী"
       },
       {
-        "en": "autobiographer",
-        "as": "আত্মজীৱনীকাৰ"
+        "en": "botanist",
+        "as": "উদ্ভিদবিজ্ঞানী"
       },
       {
         "en": "ornithologist",
         "as": "পক্ষীবিদ"
       },
       {
-        "en": "autocrat",
-        "as": "স্বেচ্ছাচাৰী"
+        "en": "zoologist",
+        "as": "প্ৰাণীবিজ্ঞানী"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "The correct one-word substitution is 'ornithologist'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'ornithologist' (পক্ষীবিদ)।"
+      "en": "'Ornithologist' is the word for one who studies birds. 'Entomologist' studies insects, 'botanist' studies plants and 'zoologist' studies animals in general, so only the first is limited to birds.",
+      "as": "'Ornithologist' মানে চৰাই অধ্যয়ন কৰা ব্যক্তি। 'Entomologist' পোক পঢ়ে, 'botanist' উদ্ভিদ পঢ়ে, 'zoologist' জন্তু পঢ়ে।"
     }
   },
   {
@@ -1297,26 +1297,26 @@
     },
     "options": [
       {
-        "en": "butcher",
-        "as": "মাংস বিক্ৰেতা"
+        "en": "physiologist",
+        "as": "শৰীৰতত্ত্ববিদ"
       },
       {
         "en": "anatomist",
         "as": "শৰীৰতত্ত্ববিদ"
       },
       {
-        "en": "cannibal",
-        "as": "নৰভক্ষী"
+        "en": "biologist",
+        "as": "জীৱবিজ্ঞানী"
       },
       {
-        "en": "captain",
-        "as": "অধিনায়ক"
+        "en": "physician",
+        "as": "চিকিৎসক"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "The correct one-word substitution is 'anatomist'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'anatomist' (শৰীৰতত্ত্ববিদ)।"
+      "en": "'Anatomist' is the word for one who studies the human body. 'Physiologist' studies how its parts work, 'biologist' studies living things broadly and 'physician' treats patients.",
+      "as": "'Anatomist' মানে মানৱ শৰীৰ অধ্যয়ন কৰা ব্যক্তি। 'Physiologist' অংগসমূহে কেনেকৈ কাম কৰে পঢ়ে, 'biologist' জীৱজগত পঢ়ে, 'physician' চিকিৎসা কৰে।"
     }
   },
   {
@@ -1331,22 +1331,22 @@
         "as": "মনোবিজ্ঞানী"
       },
       {
-        "en": "captain",
-        "as": "অধিনায়ক"
+        "en": "psychiatrist",
+        "as": "মনোৰোগ চিকিৎসক"
       },
       {
-        "en": "cardiologist",
-        "as": "হৃদৰোগ বিশেষজ্ঞ"
+        "en": "neurologist",
+        "as": "স্নায়ুবিশেষজ্ঞ"
       },
       {
-        "en": "carpenter",
-        "as": "কাঠমিস্ত্ৰী"
+        "en": "philosopher",
+        "as": "দাৰ্শনিক"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'psychologist'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'psychologist' (মনোবিজ্ঞানী)।"
+      "en": "'Psychologist' is the word for one who studies the human mind. 'Psychiatrist' treats mental illness as a doctor, 'neurologist' treats the nerves and 'philosopher' reasons about ideas.",
+      "as": "'Psychologist' মানে মানুহৰ মন অধ্যয়ন কৰা ব্যক্তি। 'Psychiatrist' চিকিৎসক হিচাপে মানসিক ৰোগৰ চিকিৎসা কৰে, 'neurologist' স্নায়ুৰ চিকিৎসা কৰে, 'philosopher' দৰ্শন চিন্তা কৰে।"
     }
   },
   {
@@ -1627,26 +1627,26 @@
     },
     "options": [
       {
-        "en": "historian",
-        "as": "ইতিহাসবিদ"
+        "en": "physician",
+        "as": "চিকিৎসক"
       },
       {
         "en": "dentist",
         "as": "দন্তচিকিৎসক"
       },
       {
-        "en": "hunter",
-        "as": "চিকাৰী"
+        "en": "surgeon",
+        "as": "শল্য চিকিৎসক"
       },
       {
-        "en": "illiterate",
-        "as": "নিৰক্ষৰ"
+        "en": "optician",
+        "as": "চছমা নিৰ্মাতা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "The correct one-word substitution is 'dentist'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'dentist' (দন্তচিকিৎসক)।"
+      "en": "'Dentist' is the word for one who treats teeth. 'Physician' treats general illness, 'surgeon' operates and 'optician' makes and fits spectacles, so only one of them looks at teeth.",
+      "as": "'Dentist' মানে দাঁতৰ চিকিৎসা কৰা ব্যক্তি। 'Physician' সাধাৰণ ৰোগৰ চিকিৎসা কৰে, 'surgeon' অপাৰেচন কৰে, 'optician' চছমা বনায়।"
     }
   },
   {
@@ -1657,26 +1657,26 @@
     },
     "options": [
       {
-        "en": "illiterate",
-        "as": "নিৰক্ষৰ"
+        "en": "optician",
+        "as": "চছমা নিৰ্মাতা"
       },
       {
         "en": "ophthalmologist",
         "as": "চকু বিশেষজ্ঞ"
       },
       {
-        "en": "insolvent",
-        "as": "দেৱালীয়া"
+        "en": "dentist",
+        "as": "দন্ত চিকিৎসক"
       },
       {
-        "en": "journalist",
-        "as": "সাংবাদিক"
+        "en": "physician",
+        "as": "চিকিৎসক"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "The correct one-word substitution is 'ophthalmologist'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'ophthalmologist' (চকু বিশেষজ্ঞ)।"
+      "en": "'Ophthalmologist' is the word for one who treats the eyes. 'Optician' only makes and fits lenses, 'dentist' treats teeth and 'physician' treats general illness, so only one is a doctor for the eyes.",
+      "as": "'Ophthalmologist' মানে চকুৰ চিকিৎসা কৰা ব্যক্তি। 'Optician' মাত্ৰ লেন্স বনায়, 'dentist' দাঁতৰ চিকিৎসা কৰে, 'physician' সাধাৰণ ৰোগৰ চিকিৎসা কৰে।"
     }
   },
   {
@@ -1687,26 +1687,26 @@
     },
     "options": [
       {
-        "en": "king",
-        "as": "ৰজা"
+        "en": "physician",
+        "as": "চিকিৎসক"
       },
       {
-        "en": "labourer",
-        "as": "শ্ৰমিক"
+        "en": "surgeon",
+        "as": "শল্য চিকিৎসক"
       },
       {
         "en": "dermatologist",
         "as": "চৰ্মৰোগ বিশেষজ্ঞ"
       },
       {
-        "en": "lawyer",
-        "as": "অধিবক্তা"
+        "en": "paediatrician",
+        "as": "শিশু বিশেষজ্ঞ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "The correct one-word substitution is 'dermatologist'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'dermatologist' (চৰ্মৰোগ বিশেষজ্ঞ)।"
+      "en": "'Dermatologist' is the word for one who treats skin diseases. 'Physician' treats general illness, 'surgeon' operates and 'paediatrician' treats children, so only one works on the skin.",
+      "as": "'Dermatologist' মানে ছালৰ ৰোগৰ চিকিৎসা কৰা ব্যক্তি। 'Physician' সাধাৰণ ৰোগৰ চিকিৎসা কৰে, 'surgeon' অপাৰেচন কৰে, 'paediatrician' শিশুৰ চিকিৎসা কৰে।"
     }
   },
   {
@@ -1721,22 +1721,22 @@
         "as": "শিশু বিশেষজ্ঞ"
       },
       {
-        "en": "lawyer",
-        "as": "অধিবক্তা"
+        "en": "physician",
+        "as": "চিকিৎসক"
       },
       {
-        "en": "legislator",
-        "as": "আইন প্ৰণেতা"
+        "en": "gynaecologist",
+        "as": "স্ত্ৰীৰোগ বিশেষজ্ঞ"
       },
       {
-        "en": "lexicographer",
-        "as": "অভিধানকাৰ"
+        "en": "surgeon",
+        "as": "শল্য চিকিৎসক"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'pediatrician'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'pediatrician' (শিশু বিশেষজ্ঞ)।"
+      "en": "'Pediatrician' is the word for one who treats children. 'Physician' treats adults and children alike, 'gynaecologist' treats women's health and 'surgeon' operates on them, so only one specialises in children.",
+      "as": "'Pediatrician' মানে শিশুৰ চিকিৎসা কৰা ব্যক্তি। 'Physician' সাধাৰণ চিকিৎসা কৰে, 'gynaecologist' মহিলাৰ স্বাস্থ্যৰ চিকিৎসা কৰে, 'surgeon' অপাৰেচন কৰে।"
     }
   },
   {
@@ -2227,16 +2227,16 @@
     },
     "options": [
       {
-        "en": "advocate",
-        "as": "উকীল"
+        "en": "theist",
+        "as": "আস্তিক"
       },
       {
-        "en": "ambassador",
-        "as": "ৰাষ্ট্ৰদূত"
+        "en": "agnostic",
+        "as": "অজ্ঞেয়বাদী"
       },
       {
-        "en": "anatomist",
-        "as": "শৰীৰতত্ত্ববিদ"
+        "en": "pagan",
+        "as": "বহুদেৱবাদী"
       },
       {
         "en": "atheist",
@@ -2245,8 +2245,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The correct one-word substitution is 'atheist'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'atheist' (নাস্তিক)।"
+      "en": "'Atheist' is the word for one who does not believe in God. 'Theist' believes in God, 'agnostic' says the answer is unknown and 'pagan' follows a faith with many gods.",
+      "as": "'Atheist' মানে ঈশ্বৰত বিশ্বাস নকৰা ব্যক্তি। 'Theist' ঈশ্বৰত বিশ্বাস কৰে, 'agnostic' নাজানে বুলি কয়, 'pagan' বহুদেৱবাদী।"
     }
   },
   {
@@ -2317,26 +2317,26 @@
     },
     "options": [
       {
-        "en": "author",
-        "as": "লেখক"
+        "en": "hermit",
+        "as": "সংসাৰত্যাগী"
       },
       {
         "en": "recluse",
         "as": "নিৰ্জনবাসী"
       },
       {
-        "en": "autobiographer",
-        "as": "আত্মজীৱনীকাৰ"
+        "en": "loner",
+        "as": "অকলশৰীয়া"
       },
       {
-        "en": "autocrat",
-        "as": "স্বেচ্ছাচাৰী"
+        "en": "ascetic",
+        "as": "তপস্বী"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "The correct one-word substitution is 'recluse'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'recluse' (নিৰ্জনবাসী)।"
+      "en": "'Recluse' is the word for one who lives alone away from people. 'Hermit' lives alone for religious reasons, 'loner' simply prefers solitude and 'ascetic' gives up bodily pleasures.",
+      "as": "'Recluse' মানে মানুহৰ পৰা আঁতৰত অকলে থকা ব্যক্তি। 'Hermit' ধৰ্মীয় কাৰণত অকলে থাকে, 'loner' অকলশৰীয়া থাকিবলৈ ভাল পায়, 'ascetic' ভোগ ত্যাগ কৰে।"
     }
   },
   {
@@ -2407,16 +2407,16 @@
     },
     "options": [
       {
-        "en": "burglar",
-        "as": "গৃহচোৰ"
+        "en": "borrower",
+        "as": "ঋণগ্ৰহীতা"
       },
       {
-        "en": "butcher",
-        "as": "মাংস বিক্ৰেতা"
+        "en": "debtor",
+        "as": "ঋণী"
       },
       {
-        "en": "cannibal",
-        "as": "নৰভক্ষী"
+        "en": "miser",
+        "as": "কৃপণ"
       },
       {
         "en": "donor",
@@ -2425,8 +2425,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The correct one-word substitution is 'donor'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'donor' (দাতা)।"
+      "en": "'Donor' is the word for one who gives money to a good cause. 'Borrower' takes money, 'debtor' owes money and 'miser' hoards it, so none of the three gives anything away.",
+      "as": "'Donor' মানে ভাল কামলৈ ধন দিয়া ব্যক্তি। 'Borrower' ধন লয়, 'debtor' ঋণী, 'miser' ধন সাঁচি ৰাখে।"
     }
   },
   {
@@ -2441,22 +2441,22 @@
         "as": "মানৱপ্ৰেমী"
       },
       {
-        "en": "captain",
-        "as": "অধিনায়ক"
+        "en": "miser",
+        "as": "কৃপণ"
       },
       {
-        "en": "cardiologist",
-        "as": "হৃদৰোগ বিশেষজ্ঞ"
+        "en": "spendthrift",
+        "as": "অপচয়ী"
       },
       {
-        "en": "carpenter",
-        "as": "কাঠমিস্ত্ৰী"
+        "en": "egoist",
+        "as": "স্বাৰ্থপৰ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'philanthropist'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'philanthropist' (মানৱপ্ৰেমী)।"
+      "en": "'Philanthropist' is the word for one who gives generously to the poor. 'Miser' hoards money, 'spendthrift' wastes it on himself and 'egoist' thinks only of his own interest.",
+      "as": "'Philanthropist' মানে দুখীয়াক উদাৰভাৱে দান কৰা ব্যক্তি। 'Miser' ধন সাঁচে, 'spendthrift' অপচয় কৰে, 'egoist' মাত্ৰ নিজৰ কথা ভাবে।"
     }
   },
   {
@@ -2737,26 +2737,26 @@
     },
     "options": [
       {
-        "en": "historian",
-        "as": "ইতিহাসবিদ"
+        "en": "apprentice",
+        "as": "শিক্ষানবিশ"
       },
       {
-        "en": "hunter",
-        "as": "চিকাৰী"
+        "en": "labourer",
+        "as": "শ্ৰমিক"
       },
       {
         "en": "artisan",
         "as": "কাৰিকৰ"
       },
       {
-        "en": "illiterate",
-        "as": "নিৰক্ষৰ"
+        "en": "merchant",
+        "as": "ব্যৱসায়ী"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "The correct one-word substitution is 'artisan'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'artisan' (কাৰিকৰ)।"
+      "en": "'Artisan' is the word for one who is skilled in a craft. 'Apprentice' is still learning the trade, 'labourer' does unskilled work and 'merchant' sells goods rather than making them.",
+      "as": "'Artisan' মানে শিল্পত দক্ষ ব্যক্তি। 'Apprentice' এতিয়াও শিকি আছে, 'labourer' অদক্ষ শ্ৰম কৰে, 'merchant' সামগ্ৰী বিক্ৰী কৰে।"
     }
   },
   {
@@ -2767,26 +2767,26 @@
     },
     "options": [
       {
-        "en": "illiterate",
-        "as": "নিৰক্ষৰ"
+        "en": "artisan",
+        "as": "দক্ষ শিল্পী"
       },
       {
-        "en": "insolvent",
-        "as": "দেৱালীয়া"
+        "en": "clerk",
+        "as": "কাৰ্য্যালয় সহায়ক"
       },
       {
         "en": "labourer",
         "as": "শ্ৰমিক"
       },
       {
-        "en": "journalist",
-        "as": "সাংবাদিক"
+        "en": "foreman",
+        "as": "তদাৰকী"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "The correct one-word substitution is 'labourer'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'labourer' (শ্ৰমিক)।"
+      "en": "'Labourer' is the word for one who does hard manual work. 'Artisan' is a skilled craftsman, 'clerk' works with papers and 'foreman' supervises others, so none does the manual work itself.",
+      "as": "'Labourer' মানে কঠোৰ শাৰীৰিক শ্ৰম কৰা ব্যক্তি। 'Artisan' দক্ষ শিল্পী, 'clerk' কাগজৰ কাম কৰে, 'foreman' তদাৰকী।"
     }
   },
   {
@@ -2797,16 +2797,16 @@
     },
     "options": [
       {
-        "en": "king",
-        "as": "ৰজা"
+        "en": "miller",
+        "as": "গুটি-গুড়ি কৰা ব্যক্তি"
       },
       {
-        "en": "labourer",
-        "as": "শ্ৰমিক"
+        "en": "gardener",
+        "as": "মালী"
       },
       {
-        "en": "lawyer",
-        "as": "অধিবক্তা"
+        "en": "shepherd",
+        "as": "মেষপালক"
       },
       {
         "en": "farmer",
@@ -2815,8 +2815,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The correct one-word substitution is 'farmer'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'farmer' (কৃষক)।"
+      "en": "'Farmer' is the word for one who works on a farm. 'Miller' grinds grain, 'gardener' tends a garden and 'shepherd' tends sheep, each a narrower job than farming.",
+      "as": "'Farmer' মানে পথাৰত কাম কৰা ব্যক্তি। 'Miller' গুটি গুড়ি কৰে, 'gardener' বাগান কৰে, 'shepherd' ভেড়া চৰায়।"
     }
   },
   {
@@ -2831,22 +2831,22 @@
         "as": "গৰখীয়া"
       },
       {
-        "en": "lawyer",
-        "as": "অধিবক্তা"
+        "en": "goatherd",
+        "as": "ছাগলী ৰখীয়া"
       },
       {
-        "en": "legislator",
-        "as": "আইন প্ৰণেতা"
+        "en": "cowherd",
+        "as": "গৰু ৰখীয়া"
       },
       {
-        "en": "lexicographer",
-        "as": "অভিধানকাৰ"
+        "en": "farmer",
+        "as": "কৃষক"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'shepherd'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'shepherd' (গৰখীয়া)।"
+      "en": "'Shepherd' is the word for one who tends sheep. 'Goatherd' tends goats, 'cowherd' tends cows and 'farmer' grows crops or keeps stock in general, so each names a different animal or trade.",
+      "as": "'Shepherd' মানে ভেড়া চৰোৱা ব্যক্তি। 'Goatherd' ছাগলী চৰায়, 'cowherd' গৰু চৰায়, 'farmer' খেতি কৰে।"
     }
   },
   {
@@ -3337,26 +3337,26 @@
     },
     "options": [
       {
-        "en": "advocate",
-        "as": "উকীল"
+        "en": "astrologer",
+        "as": "জ্যোতিষী"
       },
       {
         "en": "astrophysicist",
         "as": "জ্যোতিৰ্পদাৰ্থবিদ"
       },
       {
-        "en": "ambassador",
-        "as": "ৰাষ্ট্ৰদূত"
+        "en": "geologist",
+        "as": "ভূতত্ত্ববিদ"
       },
       {
-        "en": "anatomist",
-        "as": "শৰীৰতত্ত্ববিদ"
+        "en": "meteorologist",
+        "as": "বতৰবিজ্ঞানী"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "The correct one-word substitution is 'astrophysicist'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'astrophysicist' (জ্যোতিৰ্পদাৰ্থবিদ)।"
+      "en": "'Astrophysicist' is the word for one who studies the physics of heavenly bodies. 'Astrologer' casts horoscopes, 'geologist' studies rocks and 'meteorologist' studies the weather, so only one works on the physics of stars.",
+      "as": "'Astrophysicist' মানে মহাকাশীয় বস্তুৰ ভৌতিক অধ্যয়ন কৰা ব্যক্তি। 'Astrologer' ফলাদেশ কৰে, 'geologist' শিল পঢ়ে, 'meteorologist' বতৰ পঢ়ে।"
     }
   },
   {
@@ -8767,26 +8767,26 @@
     },
     "options": [
       {
-        "en": "acronym",
-        "as": "চমু-শব্দ"
+        "en": "synonym",
+        "as": "সমাৰ্থক শব্দ"
       },
       {
-        "en": "almanac",
-        "as": "পঞ্জিকা"
+        "en": "homonym",
+        "as": "সমোচ্চাৰিত শব্দ"
       },
       {
         "en": "antonym",
         "as": "বিপৰীত শব্দ"
       },
       {
-        "en": "ambidextrous",
-        "as": "উভয়হস্তী"
+        "en": "acronym",
+        "as": "আদ্যক্ষৰী শব্দ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "The correct one-word substitution is 'antonym'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'antonym' (বিপৰীত শব্দ)।"
+      "en": "'Antonym' is the word for a word opposite in meaning to another. 'Synonym' means the same, 'homonym' sounds or is spelt alike and 'acronym' is formed from initials.",
+      "as": "'Antonym' মানে অৰ্থত ওলোটা শব্দ। 'Synonym' একেই অৰ্থৰ শব্দ, 'homonym' একেই উচ্চাৰণ বা বানানৰ, 'acronym' আদ্যক্ষৰেৰে গঠিত শব্দ।"
     }
   },
   {
@@ -9041,22 +9041,22 @@
         "as": "সূচী-পুথি"
       },
       {
-        "en": "millennium",
-        "as": "সহস্ৰাব্দ"
+        "en": "almanac",
+        "as": "পঞ্জিকা"
       },
       {
-        "en": "myth",
-        "as": "পুৰাণ-কথা"
+        "en": "catalogue",
+        "as": "সামগ্ৰী-তালিকা"
       },
       {
-        "en": "neologism",
-        "as": "নৱ-শব্দ"
+        "en": "index",
+        "as": "সূচী"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'directory'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'directory' (সূচী-পুথি)।"
+      "en": "'Directory' is the word for a book with a list of names and addresses. 'Almanac' lists dates and facts, 'catalogue' lists goods and 'index' lists page numbers.",
+      "as": "'Directory' মানে নাম-ঠিকনাৰ তালিকাৰ কিতাপ। 'Almanac' তাৰিখ-তথ্যৰ তালিকা, 'catalogue' সামগ্ৰীৰ তালিকা, 'index' পৃষ্ঠা নম্বৰৰ তালিকা।"
     }
   },
   {
@@ -9191,22 +9191,22 @@
         "as": "সমাধিলিপি"
       },
       {
-        "en": "almanac",
-        "as": "পঞ্জিকা"
+        "en": "obituary",
+        "as": "মৃত্যু সংবাদ"
       },
       {
-        "en": "ambidextrous",
-        "as": "উভয়হস্তী"
+        "en": "eulogy",
+        "as": "প্ৰশংসা-ভাষণ"
       },
       {
-        "en": "analgesic",
-        "as": "বেদনানাশক"
+        "en": "inscription",
+        "as": "খোদিত লেখা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'epitaph'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'epitaph' (সমাধিলিপি)।"
+      "en": "'Epitaph' is the word for words written on a tomb in memory of the dead. 'Obituary' is a death notice in a paper, 'eulogy' is a speech of praise and 'inscription' is any carved writing.",
+      "as": "'Epitaph' মানে সমাধিত লিখা স্মৰণ-বাক্য। 'Obituary' কাকতত মৃত্যু সংবাদ, 'eulogy' প্ৰশংসা-ভাষণ, 'inscription' যিকোনো খোদিত লেখা।"
     }
   },
   {
@@ -9577,16 +9577,16 @@
     },
     "options": [
       {
-        "en": "vaccine",
-        "as": "টিকা"
+        "en": "edible",
+        "as": "খাব পৰা"
       },
       {
-        "en": "acronym",
-        "as": "চমু-শব্দ"
+        "en": "potable",
+        "as": "পান কৰিব পৰা"
       },
       {
-        "en": "almanac",
-        "as": "পঞ্জিকা"
+        "en": "audible",
+        "as": "শুনিব পৰা"
       },
       {
         "en": "inedible",
@@ -9595,8 +9595,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The correct one-word substitution is 'inedible'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'inedible' (অখাদ্য)।"
+      "en": "'Inedible' is the word for a thing that cannot be eaten. 'Edible' means fit to eat, 'potable' means fit to drink and 'audible' means loud enough to be heard.",
+      "as": "'Inedible' মানে খাব নোৱৰা বস্তু। 'Edible' খাব পৰা, 'potable' পান কৰিব পৰা, 'audible' শুনিব পৰা।"
     }
   },
   {
@@ -9821,22 +9821,22 @@
         "as": "শতাব্দী"
       },
       {
-        "en": "incredible",
-        "as": "অবিশ্বাস্য"
+        "en": "decade",
+        "as": "দশক"
       },
       {
-        "en": "indisputable",
-        "as": "অবিসংবাদিত"
+        "en": "millennium",
+        "as": "সহস্ৰাব্দ"
       },
       {
-        "en": "inedible",
-        "as": "অখাদ্য"
+        "en": "era",
+        "as": "যুগ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'century'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'century' (শতাব্দী)।"
+      "en": "'Century' is the word for a period of a hundred years. 'Decade' is ten years, 'millennium' is a thousand years and 'era' is a long stretch marked by one great event.",
+      "as": "'Century' মানে এশ বছৰৰ কাল। 'Decade' দহ বছৰ, 'millennium' হেজাৰ বছৰ, 'era' এটা ডাঙৰ ঘটনাৰে চিহ্নিত দীঘল কাল।"
     }
   },
   {
@@ -9847,16 +9847,16 @@
     },
     "options": [
       {
-        "en": "inedible",
-        "as": "অখাদ্য"
+        "en": "century",
+        "as": "শতিক"
       },
       {
-        "en": "inevitable",
-        "as": "অনিবাৰ্য"
+        "en": "decade",
+        "as": "দশক"
       },
       {
-        "en": "myth",
-        "as": "পুৰাণ-কথা"
+        "en": "era",
+        "as": "যুগ"
       },
       {
         "en": "millennium",
@@ -9865,8 +9865,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "The correct one-word substitution is 'millennium'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'millennium' (সহস্ৰাব্দ)।"
+      "en": "'Millennium' is the word for a period of a thousand years. 'Century' is a hundred years, 'decade' is ten years and 'era' is an age marked by a great change.",
+      "as": "'Millennium' মানে হেজাৰ বছৰৰ কাল। 'Century' এশ বছৰ, 'decade' দহ বছৰ, 'era' ডাঙৰ পৰিৱৰ্তনেৰে চিহ্নিত যুগ।"
     }
   },
   {
@@ -10001,22 +10001,22 @@
         "as": "তাৰ-বাৰ্তা"
       },
       {
-        "en": "acronym",
-        "as": "চমু-শব্দ"
+        "en": "letter",
+        "as": "চিঠি"
       },
       {
-        "en": "almanac",
-        "as": "পঞ্জিকা"
+        "en": "postcard",
+        "as": "পোষ্টকাৰ্ড"
       },
       {
-        "en": "ambidextrous",
-        "as": "উভয়হস্তী"
+        "en": "invoice",
+        "as": "বিল"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "The correct one-word substitution is 'telegram'.",
-      "as": "সঠিক এটা-শব্দত-প্ৰকাশ হৈছে 'telegram' (তাৰ-বাৰ্তা)।"
+      "en": "'Telegram' is the word for a message sent by telegraph. 'Letter' travels by post, 'postcard' is an open card and 'invoice' is a bill for goods supplied.",
+      "as": "'Telegram' মানে টেলিগ্ৰাফেৰে পঠিওৱা বাৰ্তা। 'Letter' ডাকেৰে যায়, 'postcard' মুকলি কাৰ্ড, 'invoice' সামগ্ৰীৰ বিল।"
     }
   }
 ]
