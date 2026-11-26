@@ -1897,26 +1897,26 @@
     },
     "options": [
       {
-        "en": "culpable",
-        "as": "দোষী"
+        "en": "honest",
+        "as": "সৎ"
       },
       {
         "en": "dishonest",
         "as": "অসৎ"
       },
       {
-        "en": "blameless",
-        "as": "নিৰ্দোষী"
+        "en": "upright",
+        "as": "সচ্চৰিত্ৰ"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "innocent",
+        "as": "নিৰ্দোষী"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'dishonest' is a synonym of 'corrupt'; both words have nearly the same meaning.",
-      "as": "'dishonest' (অসৎ) হৈছে 'corrupt' (দুৰ্নীতিগ্ৰস্ত) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Corrupt' means willing to act dishonestly for money or power — a corrupt officer. 'Dishonest' is the closest synonym. 'Honest' and 'upright' are the opposite, and 'innocent' means free of blame.",
+      "as": "'Corrupt' মানে ঘূষ লৈ অসৎ — corrupt officer। 'Dishonest' ওচৰৰ সমাৰ্থক। 'Honest' আৰু 'upright' ওলোটা, 'innocent' নিৰ্দোষী।"
     }
   },
   {
@@ -3637,26 +3637,26 @@
     },
     "options": [
       {
-        "en": "finite",
-        "as": "সীমিত"
+        "en": "tiny",
+        "as": "অতি সৰু"
       },
       {
         "en": "huge",
         "as": "বিশাল"
       },
       {
-        "en": "giant",
-        "as": "দানৱ"
+        "en": "narrow",
+        "as": "ঠেক"
       },
       {
-        "en": "dwarf",
-        "as": "বামন"
+        "en": "average",
+        "as": "মধ্যম"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'huge' is a synonym of 'enormous'; both words have nearly the same meaning.",
-      "as": "'huge' (বিশাল) হৈছে 'enormous' (বিশাল) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Enormous' means extremely large — an enormous building. 'Huge' is the closest synonym. 'Tiny' is the opposite, 'narrow' describes width rather than size, and 'average' means neither large nor small.",
+      "as": "'Enormous' মানে অতি বিশাল — enormous building। 'Huge' ওচৰৰ সমাৰ্থক। 'Tiny' ওলোটা, 'narrow' ঠেক, 'average' মধ্যম।"
     }
   },
   {
@@ -5197,26 +5197,26 @@
     },
     "options": [
       {
-        "en": "dwarf",
-        "as": "বামন"
+        "en": "tiny",
+        "as": "অতি সৰু"
       },
       {
         "en": "huge",
         "as": "বিশাল"
       },
       {
-        "en": "finite",
-        "as": "সীমিত"
+        "en": "small",
+        "as": "সৰু"
       },
       {
-        "en": "giant",
-        "as": "দানৱ"
+        "en": "minute",
+        "as": "ক্ষুদ্ৰ"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'huge' is a synonym of 'gigantic'; both words have nearly the same meaning.",
-      "as": "'huge' (বিশাল) হৈছে 'gigantic' (বিশাল) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Gigantic' means of immense size — a gigantic wave. 'Huge' is the closest synonym. 'Tiny', 'small' and 'minute' all describe things far smaller in every direction.",
+      "as": "'Gigantic' মানে বিশাল আকাৰ — gigantic wave। 'Huge' ওচৰৰ সমাৰ্থক। 'Tiny', 'small' আৰু 'minute' বহু সৰু বুজায়।"
     }
   },
   {
@@ -5531,22 +5531,22 @@
         "as": "দোষী"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
-      },
-      {
-        "en": "corrupt",
-        "as": "দুৰ্নীতিগ্ৰস্ত"
+        "en": "innocent",
+        "as": "নিৰ্দোষী"
       },
       {
         "en": "blameless",
-        "as": "নিৰ্দোষী"
+        "as": "নিৰ্দোষ"
+      },
+      {
+        "en": "faultless",
+        "as": "ত্ৰুটিহীন"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'culpable' is a synonym of 'guilty'; both words have nearly the same meaning.",
-      "as": "'culpable' (দোষী) হৈছে 'guilty' (দোষী) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Guilty' means having done something wrong — guilty of theft. 'Culpable' means deserving blame, the closest sense. 'Innocent', 'blameless' and 'faultless' are the opposite in the eyes of the court.",
+      "as": "'Guilty' মানে দোষী — চুৰিৰ দোষী। 'Culpable' দোষাৰ্হ বুজায়। 'Innocent', 'blameless' আৰু 'faultless' ওলোটা।"
     }
   },
   {
@@ -6217,16 +6217,16 @@
     },
     "options": [
       {
-        "en": "finite",
-        "as": "সীমিত"
+        "en": "tiny",
+        "as": "অতি সৰু"
       },
       {
-        "en": "giant",
-        "as": "দানৱ"
+        "en": "slight",
+        "as": "সামান্য"
       },
       {
-        "en": "dwarf",
-        "as": "বামন"
+        "en": "modest",
+        "as": "সাধাৰণ"
       },
       {
         "en": "enormous",
@@ -6235,8 +6235,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'enormous' is a synonym of 'huge'; both words have nearly the same meaning.",
-      "as": "'enormous' (বিশাল) হৈছে 'huge' (বিশাল) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Huge' means very large — a huge crowd. 'Enormous' is the closest synonym. 'Tiny' is the opposite, 'slight' means small in degree, and 'modest' means not large or showy.",
+      "as": "'Huge' মানে অতি ডাঙৰ — huge crowd। 'Enormous' ওচৰৰ সমাৰ্থক। 'Tiny' ওলোটা, 'slight' সামান্য, 'modest' সাধাৰণ।"
     }
   },
   {
@@ -6967,16 +6967,16 @@
     },
     "options": [
       {
-        "en": "corrupt",
-        "as": "দুৰ্নীতিগ্ৰস্ত"
-      },
-      {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "guilty",
+        "as": "দোষী"
       },
       {
         "en": "culpable",
-        "as": "দোষী"
+        "as": "দোষাৰ্হ"
+      },
+      {
+        "en": "corrupt",
+        "as": "দুৰ্নীতিমান"
       },
       {
         "en": "blameless",
@@ -6985,8 +6985,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'blameless' is a synonym of 'innocent'; both words have nearly the same meaning.",
-      "as": "'blameless' (নিৰ্দোষী) হৈছে 'innocent' (নিৰ্দোষী) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Innocent' means free of guilt — an innocent man. 'Blameless' is the closest synonym. 'Guilty', 'culpable' and 'corrupt' all describe someone who has done wrong and deserves blame.",
+      "as": "'Innocent' মানে নিৰ্দোষী — innocent man। 'Blameless' ওচৰৰ সমাৰ্থক। 'Guilty', 'culpable' আৰু 'corrupt' দোষী বুজায়।"
     }
   },
   {
@@ -7361,22 +7361,22 @@
         "as": "ডাঙৰ"
       },
       {
-        "en": "dwarf",
-        "as": "বামন"
+        "en": "small",
+        "as": "সৰু"
       },
       {
-        "en": "finite",
-        "as": "সীমিত"
+        "en": "little",
+        "as": "অলপ"
       },
       {
-        "en": "giant",
-        "as": "দানৱ"
+        "en": "narrow",
+        "as": "ঠেক"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'big' is a synonym of 'large'; both words have nearly the same meaning.",
-      "as": "'big' (ডাঙৰ) হৈছে 'large' (ডাঙৰ) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Large' means greater than average in size — a large hall. 'Big' is the closest synonym. 'Small' and 'little' are the opposite, and 'narrow' describes width rather than overall size.",
+      "as": "'Large' মানে সাধাৰণতকৈ ডাঙৰ — large hall। 'Big' ওচৰৰ সমাৰ্থক। 'Small' আৰু 'little' ওলোটা, 'narrow' ঠেক।"
     }
   },
   {
@@ -8197,8 +8197,8 @@
     },
     "options": [
       {
-        "en": "blameless",
-        "as": "নিৰ্দোষী"
+        "en": "immoral",
+        "as": "অনৈতিক"
       },
       {
         "en": "ethical",
@@ -8209,14 +8209,14 @@
         "as": "দুৰ্নীতিগ্ৰস্ত"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "wicked",
+        "as": "দুৰ্নীতিমান"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'ethical' is a synonym of 'moral'; both words have nearly the same meaning.",
-      "as": "'ethical' (নৈতিক) হৈছে 'moral' (নৈতিক) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Moral' means concerned with right and wrong behaviour — a moral duty. 'Ethical' is the closest synonym. 'Immoral', 'corrupt' and 'wicked' are the opposite kind of conduct.",
+      "as": "'Moral' মানে নৈতিক — moral duty। 'Ethical' ওচৰৰ সমাৰ্থক। 'Immoral', 'corrupt' আৰু 'wicked' ওলোটা প্ৰকাৰৰ আচৰণ বুজায়।"
     }
   },
   {
@@ -12187,26 +12187,26 @@
     },
     "options": [
       {
-        "en": "finite",
-        "as": "সীমিত"
+        "en": "tiny",
+        "as": "অতি সৰু"
       },
       {
-        "en": "giant",
-        "as": "দানৱ"
+        "en": "limited",
+        "as": "সীমিত"
       },
       {
         "en": "huge",
         "as": "বিশাল"
       },
       {
-        "en": "dwarf",
-        "as": "বামন"
+        "en": "narrow",
+        "as": "ঠেক"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'huge' is a synonym of 'vast'; both words have nearly the same meaning.",
-      "as": "'huge' (বিশাল) হৈছে 'vast' (বিশাল) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Vast' means extremely wide or great in amount — a vast plain, a vast sum. 'Huge' is the closest synonym. 'Tiny' and 'limited' are the opposite, and 'narrow' describes width alone.",
+      "as": "'Vast' মানে অতি বিশাল — vast plain, vast sum। 'Huge' ওচৰৰ সমাৰ্থক। 'Tiny' আৰু 'limited' ওলোটা, 'narrow' ঠেক।"
     }
   },
   {
@@ -12731,22 +12731,22 @@
         "as": "দুৰ্জন"
       },
       {
-        "en": "corrupt",
-        "as": "দুৰ্নীতিগ্ৰস্ত"
+        "en": "good",
+        "as": "ভাল"
       },
       {
-        "en": "blameless",
-        "as": "নিৰ্দোষী"
+        "en": "virtuous",
+        "as": "সদাচাৰী"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "moral",
+        "as": "নৈতিক"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'evil' is a synonym of 'wicked'; both words have nearly the same meaning.",
-      "as": "'evil' (দুৰ্জন) হৈছে 'wicked' (দুৰ্জন) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Wicked' means morally very bad — a wicked plan. 'Evil' is the closest synonym. 'Good', 'virtuous' and 'moral' are the opposite, describing a person who acts well.",
+      "as": "'Wicked' মানে দুৰ্নীতিমান — wicked plan। 'Evil' ওচৰৰ সমাৰ্থক। 'Good', 'virtuous' আৰু 'moral' ওলোটা, ভাল ব্যক্তি বুজায়।"
     }
   },
   {
@@ -12907,26 +12907,26 @@
     },
     "options": [
       {
-        "en": "abrupt",
-        "as": "আকস্মিক"
+        "en": "foolish",
+        "as": "মূৰ্খ"
       },
       {
-        "en": "abundance",
-        "as": "প্ৰাচুৰ্য"
+        "en": "reckless",
+        "as": "বেপৰোৱা"
       },
       {
         "en": "sagacious",
         "as": "জ্ঞানী"
       },
       {
-        "en": "absurd",
-        "as": "অযৌক্তিক"
+        "en": "hasty",
+        "as": "খৰধৰ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'sagacious' is a synonym of 'wise'; both words have nearly the same meaning.",
-      "as": "'sagacious' (জ্ঞানী) হৈছে 'wise' (জ্ঞানী) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Wise' means showing good judgement from experience — a wise decision. 'Sagacious' means shrewd and far-sighted, the closest sense. 'Foolish' is the opposite, 'reckless' ignores danger, and 'hasty' means too quick.",
+      "as": "'Wise' মানে অভিজ্ঞতাৰে ভাল বিচাৰ — wise decision। 'Sagacious' দূৰদৰ্শী বুজায়। 'Foolish' ওলোটা, 'reckless' বেপৰোৱা, 'hasty' খৰধৰ।"
     }
   },
   {
@@ -12937,16 +12937,16 @@
     },
     "options": [
       {
-        "en": "abrupt",
-        "as": "আকস্মিক"
+        "en": "bloom",
+        "as": "প্ৰস্ফুটিত হোৱা"
       },
       {
-        "en": "abundance",
-        "as": "প্ৰাচুৰ্য"
+        "en": "flourish",
+        "as": "উন্নতি লাভ কৰা"
       },
       {
-        "en": "abundant",
-        "as": "প্ৰচুৰ"
+        "en": "sprout",
+        "as": "অংকুৰিত হোৱা"
       },
       {
         "en": "shrivel",
@@ -12955,8 +12955,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'shrivel' is a synonym of 'wither'; both words have nearly the same meaning.",
-      "as": "'shrivel' (শুকাই যোৱা) হৈছে 'wither' (শুকাই যোৱা) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Wither' means to dry up and droop — the flowers withered in the heat. 'Shrivel' means to shrink and wrinkle from drying, the closest sense. 'Bloom', 'flourish' and 'sprout' describe growth instead.",
+      "as": "'Wither' মানে শুকাই মৰহি যোৱা — ৰদত ফুলবোৰ মৰহি গ'ল। 'Shrivel' শুকাই কোঁচা খোৱা বুজায়। 'Bloom', 'flourish' আৰু 'sprout' বাঢ়ন বুজায়।"
     }
   },
   {
@@ -12997,26 +12997,26 @@
     },
     "options": [
       {
-        "en": "abundance",
-        "as": "প্ৰাচুৰ্য"
+        "en": "dull",
+        "as": "নিষ্প্ৰভ"
       },
       {
         "en": "humorous",
         "as": "ৰসিক"
       },
       {
-        "en": "abundant",
-        "as": "প্ৰচুৰ"
+        "en": "serious",
+        "as": "গম্ভীৰ"
       },
       {
-        "en": "abrupt",
-        "as": "আকস্মিক"
+        "en": "boring",
+        "as": "বিৰক্তিকৰ"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'humorous' is a synonym of 'witty'; both words have nearly the same meaning.",
-      "as": "'humorous' (ৰসিক) হৈছে 'witty' (ৰসিক) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Witty' means clever and amusing in speech — a witty remark. 'Humorous' means funny, the closest sense. 'Dull', 'serious' and 'boring' describe the opposite kind of remark.",
+      "as": "'Witty' মানে চতুৰ আৰু ৰসিক — witty remark। 'Humorous' ৰসিক বুজায়। 'Dull', 'serious' আৰু 'boring' ওলোটা প্ৰকাৰৰ কথা বুজায়।"
     }
   },
   {
@@ -13031,22 +13031,22 @@
         "as": "আচৰিত"
       },
       {
-        "en": "abundance",
-        "as": "প্ৰাচুৰ্য"
+        "en": "ordinary",
+        "as": "সাধাৰণ"
       },
       {
-        "en": "abrupt",
-        "as": "আকস্মিক"
+        "en": "dreadful",
+        "as": "ভয়ানক"
       },
       {
-        "en": "absurd",
-        "as": "অযৌক্তিক"
+        "en": "dull",
+        "as": "বিৰক্তিকৰ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'marvellous' is a synonym of 'wonderful'; both words have nearly the same meaning.",
-      "as": "'marvellous' (আচৰিত) হৈছে 'wonderful' (আচৰিত) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Wonderful' means extremely good — a wonderful sight, a wonderful evening. 'Marvellous' is the closest synonym. 'Ordinary' and 'dull' describe something unremarkable, and 'dreadful' means very bad.",
+      "as": "'Wonderful' মানে অতি উত্তম — wonderful sight। 'Marvellous' ওচৰৰ সমাৰ্থক। 'Ordinary' আৰু 'dull' সাধাৰণ বুজায়, 'dreadful' অতি বেয়া।"
     }
   },
   {
@@ -13057,26 +13057,26 @@
     },
     "options": [
       {
-        "en": "abundance",
-        "as": "প্ৰাচুৰ্য"
+        "en": "relax",
+        "as": "আৰাম কৰা"
       },
       {
-        "en": "absurd",
-        "as": "অযৌক্তিক"
+        "en": "ignore",
+        "as": "অৱহেলা কৰা"
       },
       {
         "en": "fret",
         "as": "চিন্তা কৰা"
       },
       {
-        "en": "abrupt",
-        "as": "আকস্মিক"
+        "en": "celebrate",
+        "as": "উদযাপন কৰা"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'fret' is a synonym of 'worry'; both words have nearly the same meaning.",
-      "as": "'fret' (চিন্তা কৰা) হৈছে 'worry' (চিন্তা কৰা) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Worry' means to keep thinking about a problem — she worried all night. 'Fret' means to be anxious about small things, the closest sense. 'Relax' and 'ignore' are the opposite, and 'celebrate' is unrelated.",
+      "as": "'Worry' মানে চিন্তা কৰি থকা — তাই ৰাতিটো চিন্তা কৰিলে। 'Fret' সৰু কথাত উদ্বিগ্ন হোৱা বুজায়। 'Relax' আৰু 'ignore' ওলোটা, 'celebrate' অসম্পৰ্কিত।"
     }
   },
   {
@@ -13091,22 +13091,22 @@
         "as": "যুৱক"
       },
       {
-        "en": "abundance",
-        "as": "প্ৰাচুৰ্য"
+        "en": "old",
+        "as": "পুৰণি"
       },
       {
-        "en": "absurd",
-        "as": "অযৌক্তিক"
+        "en": "aged",
+        "as": "বৃদ্ধ"
       },
       {
-        "en": "abrupt",
-        "as": "আকস্মিক"
+        "en": "elderly",
+        "as": "বয়সীয়াল"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'youthful' is a synonym of 'young'; both words have nearly the same meaning.",
-      "as": "'youthful' (যুৱক) হৈছে 'young' (ডেকা) ৰ সমাৰ্থক শব্দ।"
+      "en": "'Young' means having lived only a short time — a young tree. 'Youthful' means having the qualities of youth, the closest sense. 'Old', 'aged' and 'elderly' are the opposite.",
+      "as": "'Young' মানে কম বয়সৰ — young tree। 'Youthful' যুৱকৰ গুণ বুজায়। 'Old', 'aged' আৰু 'elderly' ওলোটা।"
     }
   },
   {
