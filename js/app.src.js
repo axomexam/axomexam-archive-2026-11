@@ -4971,7 +4971,7 @@
      total, so flipping it would take those down too. Only these books are
      shown as ready in the /exams/ listing; every other book shows
      "Coming Soon" while its content stays unpublished. */
-  const EXAM_BOOKS_READY = ["assam-police", "rrb-ntpc", "adre-grade-3", "adre-grade-4", "dhs-dme-technical"];
+  const EXAM_BOOKS_READY = ["assam-police", "assam-police-combo", "rrb-ntpc", "adre-grade-3", "adre-grade-4", "dhs-dme-technical"];
   function examBookIsReady(exam) {
     return !!(exam && EXAM_BOOKS_READY.indexOf(exam.id) !== -1 && (exam.sections || []).length);
   }
@@ -4979,7 +4979,7 @@
   /* Display order of the ready books on /exams/. Title sort cannot express
      this because "DHS & DME Technical Grade III" must sit after "RRB NTPC".
      Books missing from this list fall through to alphabetical order. */
-  const EXAM_BOOK_ORDER = ["adre-grade-3", "adre-grade-4", "assam-police", "rrb-ntpc", "dhs-dme-technical"];
+  const EXAM_BOOK_ORDER = ["adre-grade-3", "adre-grade-4", "assam-police", "assam-police-combo", "rrb-ntpc", "dhs-dme-technical"];
   function examBookOrderRank(exam) {
     const i = exam ? EXAM_BOOK_ORDER.indexOf(exam.id) : -1;
     return i === -1 ? EXAM_BOOK_ORDER.length : i;
@@ -4989,7 +4989,13 @@
      written. Opening one shows a work-in-progress popup over the book, so a
      reader knows the empty sections are pending rather than broken. Each entry
      carries its own message keys; the popup is dismissible. */
-  const EXAM_BOOKS_PREPARING = {};
+  const EXAM_BOOKS_PREPARING = {
+    "assam-police-combo": {
+      titleKey: "exams.wipTitle",
+      msgKey: "exams.comboPreparingMsg",
+      okKey: "book.close",
+    },
+  };
   function examBookIsPreparing(exam) {
     return !!(exam && Object.prototype.hasOwnProperty.call(EXAM_BOOKS_PREPARING, exam.id));
   }
@@ -5016,6 +5022,7 @@
     const cfg = EXAM_BOOKS_PREPARING[exam.id] || {};
     const titleKey = cfg.titleKey || "exams.preparingTitle";
     const msgKey = cfg.msgKey || "exams.preparingMsg";
+    const okKey = cfg.okKey || "exams.preparingOk";
 
     const existing = $("#exam-preparing-modal");
     if (existing) existing.remove();
@@ -5029,7 +5036,7 @@
         <h3 id="exam-preparing-title" style="font-size:1.12rem; margin-bottom:9px;">${escapeHtml(t(titleKey))}</h3>
         <p style="color:var(--ink-soft); font-size:.9rem; margin-bottom:18px; line-height:1.55;">${escapeHtml(t(msgKey))}</p>
         <div style="display:flex; gap:10px; justify-content:center;">
-          <button class="btn btn-primary" id="exam-preparing-ok" style="flex:1;">${escapeHtml(t("exams.preparingOk"))}</button>
+          <button class="btn btn-primary" id="exam-preparing-ok" style="flex:1;">${escapeHtml(t(okKey))}</button>
         </div>
       </div>`;
     document.body.appendChild(modal);
@@ -5094,6 +5101,7 @@
     const titleEn = examBookName(exam, "en");
     const titleAs = examBookName(exam, "as");
     const subEn = ebkLang(exam.subtitle, "en");
+    const tagline = ebkLang(exam.cardTagline, state.lang);
     const available = examBookIsReady(exam);
     const statusLabel = available ? t("exams.readNow") : t("exams.comingSoon");
     const name = normalizeText(titleEn + " " + titleAs + " " + subEn);
@@ -5118,6 +5126,7 @@
         <span class="ebook-meta">
           <b>${escapeHtml(titleEn)}</b>
           <span class="ebook-meta-sub">${titleAs && titleAs !== titleEn ? `<span class="ebk-tt-as">${escapeHtml(titleAs)}</span>` : `<span>${escapeHtml(subEn)}</span>`}</span>
+          ${tagline ? `<span class="ebook-meta-tags">${escapeHtml(tagline)}</span>` : ""}
           <span class="ebook-read-btn">${escapeHtml(statusLabel)}</span>
         </span>
       </a>`;
