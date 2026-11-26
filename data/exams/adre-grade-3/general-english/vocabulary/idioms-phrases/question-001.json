@@ -11,22 +11,22 @@
         "as": "প্ৰথমে বেয়া যেন লাগিলেও পিছত ভাল হোৱা কথা"
       },
       {
-        "en": "a sudden and unexpected shock",
-        "as": "আকস্মিক আৰু অপ্ৰত্যাশিত আঘাত"
+        "en": "a sudden piece of good luck",
+        "as": "আকস্মিক সৌভাগ্য"
       },
       {
-        "en": "a person used by another to do something risky",
-        "as": "আনৰ কামৰ বাবে ব্যৱহৃত ব্যক্তি"
+        "en": "a gift given unwillingly",
+        "as": "অনিচ্ছাৰে দিয়া উপহাৰ"
       },
       {
-        "en": "a very miserly person",
-        "as": "অতি কৃপণ ব্যক্তি"
+        "en": "a warning that arrives too late",
+        "as": "অতি পলমকৈ অহা সতৰ্কবাণী"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'a blessing in disguise' means something that seems bad but turns out to be good.",
-      "as": "'a blessing in disguise' ৰ অৰ্থ হৈছে প্ৰথমে বেয়া যেন লাগিলেও পিছত ভাল হোৱা কথা।"
+      "en": "'A blessing in disguise' means something that looks like a misfortune at first but brings a benefit — losing that job led to a better one. The wrong options describe plain good luck with no bad start, a gift given unwillingly, and a warning that arrives too late.",
+      "as": "'A blessing in disguise' মানে প্ৰথমে বেয়া যেন লাগিলেও শেষত ভাল হয় — চাকৰি হেৰুওৱাৰ পিছত ভাল চাকৰি পোৱা। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -187,16 +187,16 @@
     },
     "options": [
       {
-        "en": "something easily understood",
-        "as": "সহজতে বুজিব পৰা বস্তু"
+        "en": "a person who talks too much",
+        "as": "বৰ বেছি কথা কোৱা ব্যক্তি"
       },
       {
-        "en": "a very difficult task",
-        "as": "অতি কঠিন কাম"
+        "en": "a person who is very lucky",
+        "as": "অতি ভাগ্যৱান ব্যক্তি"
       },
       {
-        "en": "a person dearly loved",
-        "as": "অতি প্ৰিয় ব্যক্তি"
+        "en": "a person who hides the truth",
+        "as": "সঁচা কথা লুকুওৱা ব্যক্তি"
       },
       {
         "en": "a person in an uncomfortable situation",
@@ -205,8 +205,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'a fish out of water' means a person in an uncomfortable situation.",
-      "as": "'a fish out of water' ৰ অৰ্থ হৈছে অসুবিধাজনক পৰিস্থিতিত থকা ব্যক্তি।"
+      "en": "'A fish out of water' means someone who feels out of place — the new boy was a fish out of water. The wrong options describe a talkative person, a very lucky person and a secretive one, none of which is about discomfort.",
+      "as": "'A fish out of water' মানে অস্বস্তিত থকা ব্যক্তি — নতুন ল'ৰাটো অস্বস্তিত আছিল। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -2081,22 +2081,22 @@
         "as": "কলংক আনি দিয়া"
       },
       {
-        "en": "a person used by another to do something risky",
-        "as": "আনৰ কামৰ বাবে ব্যৱহৃত ব্যক্তি"
+        "en": "to praise someone publicly",
+        "as": "মুকলিকৈ প্ৰশংসা কৰা"
       },
       {
-        "en": "a very miserly person",
-        "as": "অতি কৃপণ ব্যক্তি"
+        "en": "to settle a quarrel",
+        "as": "কন্দল মিটোৱা"
       },
       {
-        "en": "an unexpected winner",
-        "as": "অপ্ৰত্যাশিত বিজয়ী"
+        "en": "to make a formal promise",
+        "as": "আনুষ্ঠানিক প্ৰতিশ্ৰুতি দিয়া"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'cast a slur' means to bring disgrace.",
-      "as": "'cast a slur' ৰ অৰ্থ হৈছে কলংক আনি দিয়া।"
+      "en": "'Cast a slur' means to damage someone's good name — the rumour cast a slur on his character. The wrong options mean to praise someone publicly, to settle a quarrel and to make a formal promise.",
+      "as": "'Cast a slur' মানে কলংক লগোৱা — গুজবে তেওঁৰ চৰিত্ৰত কলংক লগালে। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -2257,26 +2257,26 @@
     },
     "options": [
       {
-        "en": "a very difficult task",
-        "as": "অতি কঠিন কাম"
+        "en": "to make a room fresh",
+        "as": "কোঠা সতেজ কৰা"
       },
       {
         "en": "to remove misunderstanding",
         "as": "ভুল বুজাবুজি আঁতৰোৱা"
       },
       {
-        "en": "a person dearly loved",
-        "as": "অতি প্ৰিয় ব্যক্তি"
+        "en": "to end a friendship",
+        "as": "বন্ধুত্ব ভাঙা"
       },
       {
-        "en": "a critic who does nothing himself",
-        "as": "কাম নকৰি সমালোচনা কৰা ব্যক্তি"
+        "en": "to start an argument",
+        "as": "কন্দল আৰম্ভ কৰা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'clear the air' means to remove misunderstanding.",
-      "as": "'clear the air' ৰ অৰ্থ হৈছে ভুল বুজাবুজি আঁতৰোৱা।"
+      "en": "'Clear the air' means to remove tension by talking things over — a frank talk cleared the air. The wrong options describe airing a room, ending a friendship and starting a quarrel.",
+      "as": "'Clear the air' মানে কথা পাতি মনোমালিন্য দূৰ কৰা — মুকলি আলোচনাই মনোমালিন্য দূৰ কৰিলে। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -2917,16 +2917,16 @@
     },
     "options": [
       {
-        "en": "an ambiguous compliment",
-        "as": "দুই অৰ্থৰ প্ৰশংসা"
+        "en": "a loud shout",
+        "as": "উচ্চ স্বৰত চিৎকাৰ"
       },
       {
-        "en": "to reveal a secret",
-        "as": "গোপন কথা ফাদিল কৰা"
+        "en": "a short delay",
+        "as": "সৰু পলম"
       },
       {
-        "en": "to be defeated humbly",
-        "as": "লাজৰ সৈতে পৰাজিত হোৱা"
+        "en": "a small mistake",
+        "as": "সৰু ভুল"
       },
       {
         "en": "a great distance",
@@ -2935,8 +2935,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'far cry' means a great distance.",
-      "as": "'far cry' ৰ অৰ্থ হৈছে অতি বেছি ব্যৱধান।"
+      "en": "'Far cry' means a great distance or a big difference — his new work is a far cry from his old one. The wrong options mean a loud shout, a short delay and a small mistake.",
+      "as": "'Far cry' মানে বহু দূৰত্ব বা ডাঙৰ পাৰ্থক্য — তেওঁৰ নতুন কাম পুৰণিৰ পৰা বহু বেলেগ। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -3007,16 +3007,16 @@
     },
     "options": [
       {
-        "en": "small leftover items",
-        "as": "সৰু-সুৰা বাকী বস্তু"
+        "en": "to argue with someone",
+        "as": "কাৰোবাৰ সৈতে তৰ্ক কৰা"
       },
       {
-        "en": "occasionally",
-        "as": "মাজে মাজে"
+        "en": "to feel ashamed",
+        "as": "লাজ পোৱা"
       },
       {
-        "en": "extremely happy",
-        "as": "অতি আনন্দিত"
+        "en": "to work very hard",
+        "as": "বৰকৈ পৰিশ্ৰম কৰা"
       },
       {
         "en": "to avoid",
@@ -3025,8 +3025,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'fight shy of' means to avoid.",
-      "as": "'fight shy of' ৰ অৰ্থ হৈছে এৰি চলা।"
+      "en": "'Fight shy of' means to keep away from something — he fights shy of publicity. The wrong options mean to argue with someone, to feel ashamed and to work very hard.",
+      "as": "'Fight shy of' মানে এৰাই চলা — তেওঁ জনসংযোগ এৰাই চলে। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -3041,22 +3041,22 @@
         "as": "অশান্তিৰ সুযোগ লোৱা"
       },
       {
-        "en": "occasionally",
-        "as": "মাজে মাজে"
+        "en": "to work hard in difficult conditions",
+        "as": "কঠিন পৰিস্থিতিত পৰিশ্ৰম কৰা"
       },
       {
-        "en": "extremely happy",
-        "as": "অতি আনন্দিত"
+        "en": "to catch fish in a storm",
+        "as": "ধুমুহাত মাছ ধৰা"
       },
       {
-        "en": "faced with two difficult choices",
-        "as": "দুটা কঠিন বিকল্পৰ সন্মুখীন"
+        "en": "to help during a crisis",
+        "as": "সংকটত সহায় কৰা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'fish in troubled waters' means to take advantage of disturbance.",
-      "as": "'fish in troubled waters' ৰ অৰ্থ হৈছে অশান্তিৰ সুযোগ লোৱা।"
+      "en": "'Fish in troubled waters' means to gain from a confused situation — he fished in troubled waters during the strike. The wrong options describe working in hard conditions, catching fish and helping in a crisis.",
+      "as": "'Fish in troubled waters' মানে অশান্তিৰ পৰা লাভ লোৱা — ধৰ্মঘটৰ সময়ত তেওঁ লাভ তুলিলে। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -3517,16 +3517,16 @@
     },
     "options": [
       {
-        "en": "right in front of one",
-        "as": "চকুৰ সন্মুখত"
+        "en": "a simple question",
+        "as": "সৰল প্ৰশ্ন"
       },
       {
-        "en": "feeling unwell",
-        "as": "অসুস্থ অনুভৱ কৰা"
+        "en": "a broken promise",
+        "as": "ভঙা প্ৰতিশ্ৰুতি"
       },
       {
-        "en": "good and bad times",
-        "as": "ভাল-বেয়া সময়"
+        "en": "a heavy burden",
+        "as": "গধুৰ ভাৰ"
       },
       {
         "en": "a difficult problem",
@@ -3535,8 +3535,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'hard nut to crack' means a difficult problem.",
-      "as": "'hard nut to crack' ৰ অৰ্থ হৈছে কঠিন সমস্যা।"
+      "en": "'Hard nut to crack' means a problem that is hard to solve — the last sum was a hard nut to crack. The wrong options mean a simple question, a broken promise and a heavy burden.",
+      "as": "'Hard nut to crack' মানে সমাধান কৰিবলৈ টান সমস্যা — শেষৰ অংকটো টান আছিল। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -3851,22 +3851,22 @@
         "as": "ঠিক সময়ত"
       },
       {
-        "en": "in writing",
-        "as": "লিখিত ৰূপত"
+        "en": "very late",
+        "as": "বৰ পলমকৈ"
       },
       {
-        "en": "in the same difficult situation",
-        "as": "একে কঠিন অৱস্থাত"
+        "en": "after a long delay",
+        "as": "বহু পলমৰ পিছত"
       },
       {
-        "en": "to give up a bad habit",
-        "as": "বেয়া অভ্যাস এৰি দিয়া"
+        "en": "at the wrong moment",
+        "as": "ভুল সময়ত"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'in the nick of time' means just in time.",
-      "as": "'in the nick of time' ৰ অৰ্থ হৈছে ঠিক সময়ত।"
+      "en": "'In the nick of time' means at the last possible moment — the doctor arrived in the nick of time. The wrong options mean very late, after a long delay and at the wrong moment.",
+      "as": "'In the nick of time' মানে একেবাৰে শেষ মুহূৰ্তত — ডাক্তৰে শেষ মুহূৰ্তত পালেগৈ। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -5077,8 +5077,8 @@
     },
     "options": [
       {
-        "en": "small leftover items",
-        "as": "সৰু-সুৰা বাকী বস্তু"
+        "en": "partly",
+        "as": "আংশিকভাৱে"
       },
       {
         "en": "thoroughly",
@@ -5089,14 +5089,14 @@
         "as": "মাজে মাজে"
       },
       {
-        "en": "extremely happy",
-        "as": "অতি আনন্দিত"
+        "en": "unwillingly",
+        "as": "অনিচ্ছাৰে"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'out and out' means thoroughly.",
-      "as": "'out and out' ৰ অৰ্থ হৈছে সম্পূৰ্ণৰূপে।"
+      "en": "'Out and out' means completely, in every way — he is an out and out cheat. The wrong options mean partly, occasionally and unwillingly, each much weaker than completely.",
+      "as": "'Out and out' মানে সম্পূৰ্ণৰূপে — তেওঁ এজন সম্পূৰ্ণ মিছলীয়া। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -5587,16 +5587,16 @@
     },
     "options": [
       {
-        "en": "right in front of one",
-        "as": "চকুৰ সন্মুখত"
+        "en": "to borrow money from a bank",
+        "as": "বেংকৰ পৰা ঋণ লোৱা"
       },
       {
-        "en": "feeling unwell",
-        "as": "অসুস্থ অনুভৱ কৰা"
+        "en": "to repay a debt honestly",
+        "as": "সততাৰে ঋণ শুধা"
       },
       {
-        "en": "good and bad times",
-        "as": "ভাল-বেয়া সময়"
+        "en": "to share money fairly",
+        "as": "ন্যায়ভাৱে ধন ভগাই দিয়া"
       },
       {
         "en": "to take from one to give another",
@@ -5605,8 +5605,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'rob Peter to pay Paul' means to take from one to give another.",
-      "as": "'rob Peter to pay Paul' ৰ অৰ্থ হৈছে এজনৰ পৰা লৈ আনজনক দিয়া।"
+      "en": "'Rob Peter to pay Paul' means to clear one debt by creating another — he robbed Peter to pay Paul. The wrong options mean borrowing from a bank, repaying honestly and sharing fairly.",
+      "as": "'Rob Peter to pay Paul' মানে এটা ঋণ শুধিবলৈ আন এটা ঋণ লোৱা — তেওঁ এনেকুৱাই কৰিলে। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -5887,26 +5887,26 @@
     },
     "options": [
       {
-        "en": "in writing",
-        "as": "লিখিত ৰূপত"
+        "en": "to run away",
+        "as": "পলাই যোৱা"
       },
       {
-        "en": "in the same difficult situation",
-        "as": "একে কঠিন অৱস্থাত"
+        "en": "to change one's mind",
+        "as": "মন সলনি কৰা"
       },
       {
         "en": "to maintain one's position",
         "as": "নিজৰ অবস্থান অটল ৰখা"
       },
       {
-        "en": "to give up a bad habit",
-        "as": "বেয়া অভ্যাস এৰি দিয়া"
+        "en": "to sit down quietly",
+        "as": "নীৰৱে বহি পৰা"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'stand one's ground' means to maintain one's position.",
-      "as": "'stand one's ground' ৰ অৰ্থ হৈছে নিজৰ অবস্থান অটল ৰখা।"
+      "en": "'Stand one's ground' means to hold your position firmly — she stood her ground in the argument. The wrong options mean running away, changing your mind and sitting down quietly.",
+      "as": "'Stand one's ground' মানে নিজৰ মতত অটল থকা — তেওঁ তৰ্কত অটল থাকিল। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -6187,16 +6187,16 @@
     },
     "options": [
       {
-        "en": "a sudden and unexpected shock",
-        "as": "আকস্মিক আৰু অপ্ৰত্যাশিত আঘাত"
+        "en": "to refresh someone",
+        "as": "কাৰোবাক সতেজ কৰা"
       },
       {
-        "en": "a person used by another to do something risky",
-        "as": "আনৰ কামৰ বাবে ব্যৱহৃত ব্যক্তি"
+        "en": "to cool a room",
+        "as": "কোঠা ঠাণ্ডা কৰা"
       },
       {
-        "en": "a very miserly person",
-        "as": "অতি কৃপণ ব্যক্তি"
+        "en": "to praise an idea",
+        "as": "আঁচনিৰ প্ৰশংসা কৰা"
       },
       {
         "en": "to discourage",
@@ -6205,8 +6205,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'throw cold water' means to discourage.",
-      "as": "'throw cold water' ৰ অৰ্থ হৈছে হতাশ কৰা।"
+      "en": "'Throw cold water' means to discourage a plan — he threw cold water on the scheme. The wrong options mean refreshing someone, cooling a room and praising an idea.",
+      "as": "'Throw cold water' মানে উৎসাহ ভাঙি দিয়া — তেওঁ আঁচনিত উৎসাহ ভাঙি দিলে। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -6341,22 +6341,22 @@
         "as": "অজ্ঞ থকা"
       },
       {
-        "en": "a very difficult task",
-        "as": "অতি কঠিন কাম"
+        "en": "to be in a dark room",
+        "as": "আন্ধাৰ কোঠাত থকা"
       },
       {
-        "en": "a person dearly loved",
-        "as": "অতি প্ৰিয় ব্যক্তি"
+        "en": "to be afraid of the dark",
+        "as": "আন্ধাৰলৈ ভয় কৰা"
       },
       {
-        "en": "a critic who does nothing himself",
-        "as": "কাম নকৰি সমালোচনা কৰা ব্যক্তি"
+        "en": "to be asleep",
+        "as": "টোপনিত থকা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'to be in the dark' means to be ignorant.",
-      "as": "'to be in the dark' ৰ অৰ্থ হৈছে অজ্ঞ থকা।"
+      "en": "'To be in the dark' means to know nothing about something — we were in the dark about the change. The wrong options describe a dark room, a fear of darkness and being asleep.",
+      "as": "'To be in the dark' মানে একো নজনাকৈ থকা — পৰিৱৰ্তনৰ কথা আমি নাজানিছিলোঁ। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -6371,22 +6371,22 @@
         "as": "হতাশ অৱস্থাত থকা"
       },
       {
-        "en": "something easily understood",
-        "as": "সহজতে বুজিব পৰা বস্তু"
+        "en": "to be very busy",
+        "as": "বৰ ব্যস্ত থকা"
       },
       {
-        "en": "a very difficult task",
-        "as": "অতি কঠিন কাম"
+        "en": "to be at sea",
+        "as": "সাগৰত থকা"
       },
       {
-        "en": "a person dearly loved",
-        "as": "অতি প্ৰিয় ব্যক্তি"
+        "en": "to be in good health",
+        "as": "সুস্থ থকা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'to be in the doldrums' means to be in low spirits.",
-      "as": "'to be in the doldrums' ৰ অৰ্থ হৈছে হতাশ অৱস্থাত থকা।"
+      "en": "'To be in the doldrums' means to feel low and without energy — the team was in the doldrums after the loss. The wrong options describe being busy, being at sea and being healthy.",
+      "as": "'To be in the doldrums' মানে মনত উৎসাহ নোহোৱা — পৰাজয়ৰ পিছত দলটো নিৰুৎসাহ আছিল। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -7627,16 +7627,16 @@
     },
     "options": [
       {
-        "en": "under suspicion",
-        "as": "সন্দেহৰ আৱৰ্তত"
+        "en": "with careful planning",
+        "as": "সাৱধানে পৰিকল্পনা কৰি"
       },
       {
-        "en": "right in front of one",
-        "as": "চকুৰ সন্মুখত"
+        "en": "for a good purpose",
+        "as": "ভাল উদ্দেশ্যে"
       },
       {
-        "en": "feeling unwell",
-        "as": "অসুস্থ অনুভৱ কৰা"
+        "en": "in a set pattern",
+        "as": "নিৰ্দিষ্ট ধৰণে"
       },
       {
         "en": "without any sense",
@@ -7645,8 +7645,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'without rhyme or reason' means without any sense.",
-      "as": "'without rhyme or reason' ৰ অৰ্থ হৈছে কোনো অৰ্থ বা কাৰণ নোহোৱাকৈ।"
+      "en": "'Without rhyme or reason' means with no logic at all — the prices changed without rhyme or reason. The wrong options mean with careful planning, for a good purpose and in a set pattern.",
+      "as": "'Without rhyme or reason' মানে কোনো যুক্তি নোহোৱাকৈ — দামবোৰ কোনো কাৰণ নোহোৱাকৈ সলনি হ'ল। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -8377,26 +8377,26 @@
     },
     "options": [
       {
-        "en": "something easily understood",
-        "as": "সহজতে বুজিব পৰা বস্তু"
+        "en": "to begin a race",
+        "as": "দৌৰ আৰম্ভ কৰা"
       },
       {
         "en": "to come to the main point",
         "as": "মূল কথালৈ অহা"
       },
       {
-        "en": "a very difficult task",
-        "as": "অতি কঠিন কাম"
+        "en": "to change the subject",
+        "as": "বিষয় সলনি কৰা"
       },
       {
-        "en": "a person dearly loved",
-        "as": "অতি প্ৰিয় ব্যক্তি"
+        "en": "to tell a long story",
+        "as": "দীঘল কাহিনী কোৱা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'cut to the chase' means to come to the main point.",
-      "as": "'cut to the chase' ৰ অৰ্থ হৈছে মূল কথালৈ অহা।"
+      "en": "'Cut to the chase' means to come to the main point quickly — let us cut to the chase. The wrong options mean starting a race, changing the subject and telling a long story.",
+      "as": "'Cut to the chase' মানে পোনপটীয়াকৈ মূল কথালৈ অহা — আহা মূল কথালৈ যাওঁ। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -9097,26 +9097,26 @@
     },
     "options": [
       {
-        "en": "an ambiguous compliment",
-        "as": "দুই অৰ্থৰ প্ৰশংসা"
+        "en": "rather young",
+        "as": "তুলনামূলক কম বয়সৰ"
       },
       {
-        "en": "to reveal a secret",
-        "as": "গোপন কথা ফাদিল কৰা"
+        "en": "very hungry",
+        "as": "বৰ ভোকাতুৰ"
       },
       {
         "en": "rather old",
         "as": "বয়সীয়াল"
       },
       {
-        "en": "to be defeated humbly",
-        "as": "লাজৰ সৈতে পৰাজিত হোৱা"
+        "en": "badly dressed",
+        "as": "বেয়াকৈ সজ্জিত"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'long in the tooth' means rather old.",
-      "as": "'long in the tooth' ৰ অৰ্থ হৈছে বয়সীয়াল।"
+      "en": "'Long in the tooth' means rather old, said of people and horses — the old trainer is long in the tooth. The wrong options mean rather young, very hungry and badly dressed.",
+      "as": "'Long in the tooth' মানে বয়সীয়াল — পুৰণি প্ৰশিক্ষকজনা বয়সীয়াল। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -9217,26 +9217,26 @@
     },
     "options": [
       {
-        "en": "occasionally",
-        "as": "মাজে মাজে"
+        "en": "to win a great victory",
+        "as": "মহাবিজয় লাভ কৰা"
       },
       {
-        "en": "extremely happy",
-        "as": "অতি আনন্দিত"
+        "en": "to meet an old friend",
+        "as": "পুৰণি বন্ধু লগ পোৱা"
       },
       {
         "en": "to suffer a final defeat",
         "as": "অন্তিম পৰাজয় ভোগ কৰা"
       },
       {
-        "en": "faced with two difficult choices",
-        "as": "দুটা কঠিন বিকল্পৰ সন্মুখীন"
+        "en": "to reach a safe place",
+        "as": "নিৰাপদ স্থানত উপনীত হোৱা"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'meet one's Waterloo' means to suffer a final defeat.",
-      "as": "'meet one's Waterloo' ৰ অৰ্থ হৈছে অন্তিম পৰাজয় ভোগ কৰা।"
+      "en": "'Meet one's Waterloo' means to suffer a final defeat — the champion met his Waterloo. The wrong options mean winning a great victory, meeting an old friend and reaching safety.",
+      "as": "'Meet one's Waterloo' মানে চূড়ান্ত পৰাজয় বৰণ কৰা — চেম্পিয়নে চূড়ান্ত পৰাজয় বৰণ কৰিলে। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -9997,26 +9997,26 @@
     },
     "options": [
       {
-        "en": "in writing",
-        "as": "লিখিত ৰূপত"
+        "en": "to eat a large meal",
+        "as": "বেছি খোৱা"
       },
       {
         "en": "to spend less money",
         "as": "কম ধন খৰচ কৰা"
       },
       {
-        "en": "in the same difficult situation",
-        "as": "একে কঠিন অৱস্থাত"
+        "en": "to work harder",
+        "as": "অধিক পৰিশ্ৰম কৰা"
       },
       {
-        "en": "to give up a bad habit",
-        "as": "বেয়া অভ্যাস এৰি দিয়া"
+        "en": "to buy new clothes",
+        "as": "নতুন কাপোৰ কিনা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'tighten one's belt' means to spend less money.",
-      "as": "'tighten one's belt' ৰ অৰ্থ হৈছে কম ধন খৰচ কৰা।"
+      "en": "'Tighten one's belt' means to spend less because money is short — the family tightened its belt. The wrong options mean eating a large meal, working harder and buying new clothes.",
+      "as": "'Tighten one's belt' মানে খৰচ কমোৱা — পৰিয়ালে খৰচ কমালে। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
@@ -10027,26 +10027,26 @@
     },
     "options": [
       {
-        "en": "in writing",
-        "as": "লিখিত ৰূপত"
+        "en": "spoken with a lisp",
+        "as": "জিভাৰ লগত কথা কোৱা"
       },
       {
         "en": "not meant seriously",
         "as": "গম্ভীৰভাৱে নকোৱা"
       },
       {
-        "en": "in the same difficult situation",
-        "as": "একে কঠিন অৱস্থাত"
+        "en": "said in anger",
+        "as": "খঙত কোৱা"
       },
       {
-        "en": "to give up a bad habit",
-        "as": "বেয়া অভ্যাস এৰি দিয়া"
+        "en": "meant as a warning",
+        "as": "সতৰ্কবাণী হিচাপে কোৱা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'tongue in cheek' means not meant seriously.",
-      "as": "'tongue in cheek' ৰ অৰ্থ হৈছে গম্ভীৰভাৱে নকোৱা।"
+      "en": "'Tongue in cheek' means said as a joke, not seriously — his praise was tongue in cheek. The wrong options mean spoken with a lisp, said in anger and meant as a warning.",
+      "as": "'Tongue in cheek' মানে ধেমেলীয়াকৈ কোৱা — তেওঁৰ প্ৰশংসা ধেমেলীয়া আছিল। বাকী তিনিটাই বেলেগ অৰ্থ দিয়ে।"
     }
   },
   {
