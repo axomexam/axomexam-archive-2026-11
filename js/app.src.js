@@ -5101,6 +5101,7 @@
     const titleEn = examBookName(exam, "en");
     const titleAs = examBookName(exam, "as");
     const subEn = ebkLang(exam.subtitle, "en");
+    const tagline = ebkLang(exam.cardTagline, state.lang);
     const available = examBookIsReady(exam);
     const statusLabel = available ? t("exams.readNow") : t("exams.comingSoon");
     const name = normalizeText(titleEn + " " + titleAs + " " + subEn);
@@ -5125,6 +5126,7 @@
         <span class="ebook-meta">
           <b>${escapeHtml(titleEn)}</b>
           <span class="ebook-meta-sub">${titleAs && titleAs !== titleEn ? `<span class="ebk-tt-as">${escapeHtml(titleAs)}</span>` : `<span>${escapeHtml(subEn)}</span>`}</span>
+          ${tagline ? `<span class="ebook-meta-tags">${escapeHtml(tagline)}</span>` : ""}
           <span class="ebook-read-btn">${escapeHtml(statusLabel)}</span>
         </span>
       </a>`;
