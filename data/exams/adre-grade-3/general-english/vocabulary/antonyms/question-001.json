@@ -7,16 +7,16 @@
     },
     "options": [
       {
-        "en": "sterile",
-        "as": "উৰ্বৰাহীন"
-      },
-      {
         "en": "desert",
-        "as": "মৰুভূমি"
+        "as": "এৰি দিয়া"
       },
       {
-        "en": "steady",
-        "as": "স্থিৰ"
+        "en": "leave",
+        "as": "এৰি যোৱা"
+      },
+      {
+        "en": "forsake",
+        "as": "পৰিত্যাগ কৰা"
       },
       {
         "en": "retain",
@@ -25,8 +25,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'retain' is an antonym of 'abandon'; it has the opposite meaning.",
-      "as": "'retain' (ৰাখি থোৱা) হৈছে 'abandon' (পৰিত্যাগ কৰা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Abandon' means to leave something behind for good — to abandon a plan. Its opposite is 'retain'. 'Desert', 'leave' and 'forsake' all move in the same direction as abandon.",
+      "as": "'Abandon' মানে এৰি দিয়া — পৰিকল্পনা এৰি দিয়া। ওলোটা 'retain'। 'Desert', 'leave' আৰু 'forsake' একেই দিশে যায়।"
     }
   },
   {
@@ -45,18 +45,18 @@
         "as": "প্ৰতিষ্ঠা কৰা"
       },
       {
-        "en": "receive",
-        "as": "গ্ৰহণ কৰা"
+        "en": "repeal",
+        "as": "ৰদ কৰা"
       },
       {
-        "en": "recent",
-        "as": "শেহতীয়া"
+        "en": "scrap",
+        "as": "বাতিল কৰা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'establish' is an antonym of 'abolish'; it has the opposite meaning.",
-      "as": "'establish' (প্ৰতিষ্ঠা কৰা) হৈছে 'abolish' (বিলুপ্ত কৰা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Abolish' means to put an end to a law or system — to abolish a tax. Its opposite is 'establish'. 'Abrogate', 'repeal' and 'scrap' all move with abolish.",
+      "as": "'Abolish' মানে বিলোপ কৰা — কৰ বিলোপ। ওলোটা 'establish'। 'Abrogate', 'repeal' আৰু 'scrap' একেই দিশে যায়।"
     }
   },
   {
@@ -217,26 +217,26 @@
     },
     "options": [
       {
-        "en": "certain",
-        "as": "নিশ্চিত"
+        "en": "clear",
+        "as": "নিৰ্দোষ কৰা"
       },
       {
         "en": "convict",
         "as": "দোষী সাব্যস্ত কৰা"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "free",
+        "as": "মুক্ত কৰা"
       },
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "exonerate",
+        "as": "দোষমুক্ত কৰা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'convict' is an antonym of 'acquit'; it has the opposite meaning.",
-      "as": "'convict' (দোষী সাব্যস্ত কৰা) হৈছে 'acquit' (দোষমুক্ত কৰা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Acquit' means to declare someone not guilty — the court acquitted him. Its opposite is 'convict', meaning to find guilty. 'Clear', 'free' and 'exonerate' all move in the same direction as acquit.",
+      "as": "'Acquit' মানে নিৰ্দোষ ঘোষণা কৰা — আদালতে তেওঁক নিৰ্দোষ কৰিলে। ওলোটা 'convict'। 'Clear', 'free' আৰু 'exonerate' একেই দিশে যায়।"
     }
   },
   {
@@ -757,16 +757,16 @@
     },
     "options": [
       {
+        "en": "greed",
+        "as": "লোভ"
+      },
+      {
         "en": "gluttony",
-        "as": "অতিভোজন"
+        "as": "ভোজনলোভ"
       },
       {
-        "en": "elegant",
-        "as": "সুন্দৰ"
-      },
-      {
-        "en": "elephant",
-        "as": "হাতী"
+        "en": "selfishness",
+        "as": "স্বাৰ্থপৰতা"
       },
       {
         "en": "generosity",
@@ -775,8 +775,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'generosity' is an antonym of 'avarice'; it has the opposite meaning.",
-      "as": "'generosity' (উদাৰতা) হৈছে 'avarice' (লোভ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Avarice' means extreme greed for money — driven by avarice. Its opposite is 'generosity'. 'Greed', 'gluttony' and 'selfishness' all describe the same appetite for more.",
+      "as": "'Avarice' মানে ধনলোভ — avarice ৰ দ্বাৰা চালিত। ওলোটা 'generosity'। 'Greed', 'gluttony' আৰু 'selfishness' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -1477,26 +1477,26 @@
     },
     "options": [
       {
-        "en": "flower",
-        "as": "ফুল"
+        "en": "treasure",
+        "as": "মূল্য দিয়া"
       },
       {
         "en": "despise",
         "as": "ঘিণ কৰা"
       },
       {
-        "en": "fit",
-        "as": "সুস্থ"
+        "en": "value",
+        "as": "গুৰুত্ব দিয়া"
       },
       {
-        "en": "fluent",
-        "as": "সাৱলীল"
+        "en": "adore",
+        "as": "শ্ৰদ্ধা কৰা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'despise' is an antonym of 'cherish'; it has the opposite meaning.",
-      "as": "'despise' (ঘিণ কৰা) হৈছে 'cherish' (আদৰ কৰা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Cherish' means to care for something deeply — to cherish a memory. Its opposite is 'despise', meaning to feel contempt for it. 'Treasure', 'value' and 'adore' all mean much the same as cherish.",
+      "as": "'Cherish' মানে গভীৰভাৱে যত্ন লোৱা — cherish a memory। ওলোটা 'despise'। 'Treasure', 'value' আৰু 'adore' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -2681,22 +2681,22 @@
         "as": "প্ৰশংসা কৰা"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
-      },
-      {
-        "en": "captivate",
-        "as": "মোহিত কৰা"
-      },
-      {
         "en": "detest",
         "as": "ঘৃণা কৰা"
+      },
+      {
+        "en": "hate",
+        "as": "বিদ্বেষ কৰা"
+      },
+      {
+        "en": "scorn",
+        "as": "তুচ্ছ জ্ঞান কৰা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'admire' is an antonym of 'despise'; it has the opposite meaning.",
-      "as": "'admire' (প্ৰশংসা কৰা) হৈছে 'despise' (ঘিণ কৰা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Despise' means to feel strong contempt for someone — to despise cruelty. Its opposite is 'admire'. 'Detest', 'hate' and 'scorn' all describe the same contempt as despise.",
+      "as": "'Despise' মানে ঘৃণা কৰা — despise cruelty। ওলোটা 'admire'। 'Detest', 'hate' আৰু 'scorn' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -2951,22 +2951,22 @@
         "as": "ওচৰ"
       },
       {
-        "en": "buy",
-        "as": "কিনা"
+        "en": "far",
+        "as": "দূৰৈ"
       },
       {
-        "en": "build",
-        "as": "নিৰ্মাণ কৰা"
+        "en": "remote",
+        "as": "দূৰৱৰ্তী"
       },
       {
-        "en": "busy",
-        "as": "ব্যস্ত"
+        "en": "removed",
+        "as": "আঁতৰত"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'near' is an antonym of 'distant'; it has the opposite meaning.",
-      "as": "'near' (ওচৰ) হৈছে 'distant' (দূৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Distant' means far away — a distant village, a distant cousin. Its opposite is 'near'. 'Far', 'remote' and 'removed' all describe the same distance as distant.",
+      "as": "'Distant' মানে বহু দূৰৈ — a distant village, a distant cousin। ইয়াৰ ওলোটা 'near'। 'Far', 'remote' আৰু 'removed' একেই দূৰত্ব বুজায়।"
     }
   },
   {
@@ -3307,26 +3307,26 @@
     },
     "options": [
       {
-        "en": "foe",
-        "as": "শত্ৰু"
+        "en": "happy",
+        "as": "সুখী"
       },
       {
-        "en": "follow",
-        "as": "অনুসৰণ কৰা"
+        "en": "joyful",
+        "as": "আনন্দময়"
       },
       {
         "en": "dejected",
         "as": "হতাশ"
       },
       {
-        "en": "overjoyed",
-        "as": "অতি আনন্দিত"
+        "en": "thrilled",
+        "as": "উত্তেজিত"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'dejected' is an antonym of 'elated'; it has the opposite meaning.",
-      "as": "'dejected' (হতাশ) হৈছে 'elated' (আনন্দিত) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Elated' means extremely happy — elated at the news. Its opposite is 'dejected', meaning low in spirits. 'Happy', 'joyful' and 'thrilled' all describe the same high spirits.",
+      "as": "'Elated' মানে অতিশয় আনন্দিত — elated at the news। ইয়াৰ ওলোটা 'dejected', মন ভাঙি পৰা। 'Happy', 'joyful' আৰু 'thrilled' একেই মনোভাৱ বুজায়।"
     }
   },
   {
@@ -3397,8 +3397,8 @@
     },
     "options": [
       {
-        "en": "village",
-        "as": "গাঁও"
+        "en": "fluent",
+        "as": "সাবলীল"
       },
       {
         "en": "articulate",
@@ -3409,14 +3409,14 @@
         "as": "স্পষ্টভাৱে ক'ব নোৱৰা"
       },
       {
-        "en": "fluent",
-        "as": "সাৱলীল"
+        "en": "expressive",
+        "as": "ভাৱপ্ৰকাশক"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'inarticulate' is an antonym of 'eloquent'; it has the opposite meaning.",
-      "as": "'inarticulate' (স্পষ্টভাৱে ক'ব নোৱৰা) হৈছে 'eloquent' (বাগ্মী) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Eloquent' means speaking fluently and persuasively — an eloquent speech. Its opposite is 'inarticulate'. 'Fluent', 'articulate' and 'expressive' all mean much the same as eloquent.",
+      "as": "'Eloquent' মানে প্ৰবল ভাষণ দিয়া — eloquent speech। ওলোটা 'inarticulate'। 'Fluent', 'articulate' আৰু 'expressive' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -4447,16 +4447,16 @@
     },
     "options": [
       {
+        "en": "praise",
+        "as": "প্ৰশংসা কৰা"
+      },
+      {
         "en": "applaud",
         "as": "প্ৰশংসা কৰা"
       },
       {
-        "en": "build",
-        "as": "নিৰ্মাণ কৰা"
-      },
-      {
-        "en": "buy",
-        "as": "কিনা"
+        "en": "compliment",
+        "as": "শলাগ লোৱা"
       },
       {
         "en": "criticize",
@@ -4465,8 +4465,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'criticize' is an antonym of 'flatter'; it has the opposite meaning.",
-      "as": "'criticize' (সমালোচনা কৰা) হৈছে 'flatter' (চাটু কৰা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Flatter' means to praise more than is deserved — he flattered the judge. Its opposite is 'criticize'. 'Praise', 'applaud' and 'compliment' all move in the same direction as flatter.",
+      "as": "'Flatter' মানে অতিশয় প্ৰশংসা কৰা — তেওঁ বিচাৰকক তোষামোদ কৰিলে। ইয়াৰ ওলোটা 'criticize'। 'Praise', 'applaud' আৰু 'compliment' একেই দিশে যায়।"
     }
   },
   {
@@ -4627,26 +4627,26 @@
     },
     "options": [
       {
-        "en": "village",
-        "as": "গাঁও"
+        "en": "alien",
+        "as": "বিদেশী"
       },
       {
-        "en": "violent",
-        "as": "হিংস্ৰ"
+        "en": "external",
+        "as": "বাহিৰৰ"
       },
       {
         "en": "native",
         "as": "স্থানীয়"
       },
       {
-        "en": "vigorous",
-        "as": "সবল"
+        "en": "imported",
+        "as": "আমদানী"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'native' is an antonym of 'foreign'; it has the opposite meaning.",
-      "as": "'native' (স্থানীয়) হৈছে 'foreign' (বিদেশী) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Foreign' means belonging to another country — a foreign passport, a foreign language. Its opposite is 'native'. 'Alien', 'external' and 'imported' all describe the same outside origin.",
+      "as": "'Foreign' মানে বিদেশী — a foreign passport। ইয়াৰ ওলোটা 'native'। 'Alien', 'external' আৰু 'imported' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -4721,22 +4721,22 @@
         "as": "দুৰ্ভাগ্যৱান"
       },
       {
-        "en": "build",
-        "as": "নিৰ্মাণ কৰা"
+        "en": "lucky",
+        "as": "ভাগ্যৱান"
       },
       {
-        "en": "broad",
-        "as": "প্ৰশস্ত"
+        "en": "blessed",
+        "as": "সৌভাগ্যশালী"
       },
       {
-        "en": "brutal",
-        "as": "নিষ্ঠুৰ"
+        "en": "favoured",
+        "as": "অনুকূল"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'unfortunate' is an antonym of 'fortunate'; it has the opposite meaning.",
-      "as": "'unfortunate' (দুৰ্ভাগ্যৱান) হৈছে 'fortunate' (ভাগ্যৱান) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Fortunate' means having good luck — a fortunate escape. Its opposite is 'unfortunate'. 'Lucky', 'blessed' and 'favoured' all describe the same good luck as fortunate in life.",
+      "as": "'Fortunate' মানে ভাগ্যৱান — a fortunate escape। ইয়াৰ ওলোটা 'unfortunate'। 'Lucky', 'blessed' আৰু 'favoured' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -5017,16 +5017,16 @@
     },
     "options": [
       {
-        "en": "certain",
-        "as": "নিশ্চিত"
+        "en": "amusing",
+        "as": "আমোদজনক"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "comical",
+        "as": "হাস্যকৰ"
       },
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "humorous",
+        "as": "ৰসিক"
       },
       {
         "en": "serious",
@@ -5035,8 +5035,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'serious' is an antonym of 'funny'; it has the opposite meaning.",
-      "as": "'serious' (গম্ভীৰ) হৈছে 'funny' (হাস্যকৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Funny' means causing laughter — a funny story, a funny remark. Its opposite is 'serious'. 'Amusing', 'comical' and 'humorous' all mean much the same as funny.",
+      "as": "'Funny' মানে হাস্যকৰ — funny story, funny remark। ওলোটা 'serious'। 'Amusing', 'comical' আৰু 'humorous' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -5055,18 +5055,18 @@
         "as": "হাৰি যোৱা"
       },
       {
-        "en": "loyal",
-        "as": "বিশ্বাসী"
+        "en": "obtain",
+        "as": "পোৱা"
       },
       {
-        "en": "lovely",
-        "as": "ধুনীয়া"
+        "en": "win",
+        "as": "জিকা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'lose' is an antonym of 'gain'; it has the opposite meaning.",
-      "as": "'lose' (হাৰি যোৱা) হৈছে 'gain' (লাভ কৰা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Gain' means to obtain something useful — to gain experience. Its opposite is 'lose'. 'Acquire', 'obtain' and 'win' all move in the same direction as gain.",
+      "as": "'Gain' মানে লাভ কৰা — অভিজ্ঞতা লাভ। ওলোটা 'lose'। 'Acquire', 'obtain' আৰু 'win' একেই দিশে যায়।"
     }
   },
   {
@@ -5227,26 +5227,26 @@
     },
     "options": [
       {
-        "en": "overjoyed",
-        "as": "অতি আনন্দিত"
+        "en": "happy",
+        "as": "সুখী"
       },
       {
         "en": "sad",
         "as": "দুঃখী"
       },
       {
-        "en": "camera",
-        "as": "কেমেৰা"
+        "en": "pleased",
+        "as": "সন্তুষ্ট"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "delighted",
+        "as": "আনন্দিত"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'sad' is an antonym of 'glad'; it has the opposite meaning.",
-      "as": "'sad' (দুঃখী) হৈছে 'glad' (আনন্দিত) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Glad' means pleased about something — glad to hear the news. Its opposite is 'sad'. 'Happy', 'pleased' and 'delighted' all describe the same good feeling as glad.",
+      "as": "'Glad' মানে আনন্দিত — glad to hear the news। ওলোটা 'sad'। 'Happy', 'pleased' আৰু 'delighted' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -5531,22 +5531,22 @@
         "as": "নিৰ্দোষী"
       },
       {
-        "en": "state",
-        "as": "কোৱা"
+        "en": "culpable",
+        "as": "দোষাৰ্হ"
       },
       {
-        "en": "start",
-        "as": "আৰম্ভ কৰা"
+        "en": "blameworthy",
+        "as": "দোষণীয়"
       },
       {
-        "en": "steady",
-        "as": "স্থিৰ"
+        "en": "responsible",
+        "as": "দায়ী"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'innocent' is an antonym of 'guilty'; it has the opposite meaning.",
-      "as": "'innocent' (নিৰ্দোষী) হৈছে 'guilty' (দোষী) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Guilty' means having done something wrong — guilty of theft. Its opposite is 'innocent'. 'Culpable', 'blameworthy' and 'responsible' all describe the same blame as guilty.",
+      "as": "'Guilty' মানে দোষী — চুৰিৰ দোষী। ওলোটা 'innocent'। 'Culpable', 'blameworthy' আৰু 'responsible' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -5835,18 +5835,18 @@
         "as": "গতি"
       },
       {
-        "en": "abundant",
-        "as": "প্ৰচুৰ"
+        "en": "hurry",
+        "as": "খৰধৰ"
       },
       {
-        "en": "hurry",
-        "as": "খৰধৰ কৰা"
+        "en": "rush",
+        "as": "ধাৱমান"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'delay' is an antonym of 'haste'; it has the opposite meaning.",
-      "as": "'delay' (পলম) হৈছে 'haste' (খৰধৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Haste' means acting too quickly — in his haste he forgot the keys. Its opposite is 'delay', meaning a wait. 'Speed', 'hurry' and 'rush' all describe the same quickness.",
+      "as": "'Haste' মানে খৰধৰ — খৰধৰত তেওঁ চাবি পাহৰিলে। ওলোটা 'delay'। 'Speed', 'hurry' আৰু 'rush' একেই খৰধৰ বুজায়।"
     }
   },
   {
@@ -5917,26 +5917,26 @@
     },
     "options": [
       {
-        "en": "safe",
-        "as": "নিৰাপদ"
+        "en": "fit",
+        "as": "সুস্থ"
       },
       {
-        "en": "steady",
-        "as": "স্থিৰ"
+        "en": "well",
+        "as": "ভাল"
       },
       {
         "en": "sick",
         "as": "অসুস্থ"
       },
       {
-        "en": "secure",
-        "as": "নিৰাপদ"
+        "en": "sound",
+        "as": "নীৰোগ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'sick' is an antonym of 'healthy'; it has the opposite meaning.",
-      "as": "'sick' (অসুস্থ) হৈছে 'healthy' (সুস্থ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Healthy' means free from illness — a healthy child. Its opposite is 'sick'. 'Fit', 'well' and 'sound' all describe the same good health as healthy does.",
+      "as": "'Healthy' মানে সুস্থ — healthy child। ওলোটা 'sick'। 'Fit', 'well' আৰু 'sound' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -6337,16 +6337,16 @@
     },
     "options": [
       {
-        "en": "abundant",
-        "as": "প্ৰচুৰ"
+        "en": "neglect",
+        "as": "অৱহেলা কৰা"
       },
       {
-        "en": "forget",
-        "as": "পাহৰা"
+        "en": "disregard",
+        "as": "উপেক্ষা কৰা"
       },
       {
-        "en": "accept",
-        "as": "স্বীকাৰ কৰা"
+        "en": "overlook",
+        "as": "চকু এৰি যোৱা"
       },
       {
         "en": "notice",
@@ -6355,8 +6355,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'notice' is an antonym of 'ignore'; it has the opposite meaning.",
-      "as": "'notice' (লক্ষ্য কৰা) হৈছে 'ignore' (অৱহেলা কৰা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Ignore' means to pay no attention to something — to ignore a warning. Its opposite is 'notice'. 'Neglect', 'disregard' and 'overlook' all mean much the same as ignore.",
+      "as": "'Ignore' মানে অৱহেলা কৰা — সতৰ্কবাণী অৱহেলা। ওলোটা 'notice'। 'Neglect', 'disregard' আৰু 'overlook' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -6551,22 +6551,22 @@
         "as": "তুচ্ছ"
       },
       {
-        "en": "start",
-        "as": "আৰম্ভ কৰা"
-      },
-      {
-        "en": "steady",
-        "as": "স্থিৰ"
-      },
-      {
         "en": "weighty",
-        "as": "ভাৰী"
+        "as": "গুৰুত্বপূৰ্ণ"
+      },
+      {
+        "en": "significant",
+        "as": "উল্লেখনীয়"
+      },
+      {
+        "en": "major",
+        "as": "প্ৰধান"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'trivial' is an antonym of 'important'; it has the opposite meaning.",
-      "as": "'trivial' (তুচ্ছ) হৈছে 'important' (গুৰুত্বপূৰ্ণ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Important' means having great value or effect — an important decision. Its opposite is 'trivial'. 'Weighty', 'significant' and 'major' all describe the same importance as important.",
+      "as": "'Important' মানে গুৰুত্বপূৰ্ণ — important decision। ওলোটা 'trivial'। 'Weighty', 'significant' আৰু 'major' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -6851,22 +6851,22 @@
         "as": "চিন্তিত"
       },
       {
-        "en": "camera",
-        "as": "কেমেৰা"
+        "en": "unconcerned",
+        "as": "উদাসীন"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "aloof",
+        "as": "নিলগত"
       },
       {
-        "en": "captivate",
-        "as": "মোহিত কৰা"
+        "en": "uncaring",
+        "as": "যত্নহীন"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'concerned' is an antonym of 'indifferent'; it has the opposite meaning.",
-      "as": "'concerned' (চিন্তিত) হৈছে 'indifferent' (উদাসীন) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Indifferent' means not caring either way — indifferent to the result. Its opposite is 'concerned'. 'Unconcerned', 'aloof' and 'uncaring' all describe the same lack of interest.",
+      "as": "'Indifferent' মানে উদাসীন — ফলাফললৈ উদাসীন। ওলোটা 'concerned'। 'Unconcerned', 'aloof' আৰু 'uncaring' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -6881,22 +6881,22 @@
         "as": "অলস"
       },
       {
-        "en": "fluent",
-        "as": "সাৱলীল"
+        "en": "diligent",
+        "as": "পৰিশ্ৰমী"
       },
       {
-        "en": "flower",
-        "as": "ফুল"
+        "en": "hardworking",
+        "as": "শ্ৰমশীল"
       },
       {
-        "en": "foe",
-        "as": "শত্ৰু"
+        "en": "busy",
+        "as": "ব্যস্ত"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'lazy' is an antonym of 'industrious'; it has the opposite meaning.",
-      "as": "'lazy' (অলস) হৈছে 'industrious' (পৰিশ্ৰমী) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Industrious' means working hard and steadily — an industrious farmer. Its opposite is 'lazy'. 'Diligent', 'hardworking' and 'busy' all describe the same effort as industrious.",
+      "as": "'Industrious' মানে পৰিশ্ৰমী — industrious farmer। ওলোটা 'lazy'। 'Diligent', 'hardworking' আৰু 'busy' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -7087,26 +7087,26 @@
     },
     "options": [
       {
-        "en": "lacking",
-        "as": "অভাবযুক্ত"
+        "en": "engaging",
+        "as": "মনোৰম"
       },
       {
-        "en": "lovely",
-        "as": "ধুনীয়া"
+        "en": "absorbing",
+        "as": "মন মুহা"
       },
       {
         "en": "boring",
         "as": "বিৰক্তিকৰ"
       },
       {
-        "en": "elder",
-        "as": "জ্যেষ্ঠ"
+        "en": "fascinating",
+        "as": "আকৰ্ষণীয়"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'boring' is an antonym of 'interesting'; it has the opposite meaning.",
-      "as": "'boring' (বিৰক্তিকৰ) হৈছে 'interesting' (আকৰ্ষণীয়) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Interesting' means holding your attention — an interesting lecture, an interesting book. Its opposite is 'boring'. 'Engaging', 'absorbing' and 'fascinating' all mean much the same as interesting.",
+      "as": "'Interesting' মানে মন টানি ধৰা — interesting lecture। ওলোটা 'boring'। 'Engaging', 'absorbing' আৰু 'fascinating' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -7361,22 +7361,22 @@
         "as": "সৰু"
       },
       {
-        "en": "recent",
-        "as": "শেহতীয়া"
+        "en": "big",
+        "as": "ডাঙৰ"
       },
       {
-        "en": "receive",
-        "as": "গ্ৰহণ কৰা"
+        "en": "huge",
+        "as": "বিশাল"
       },
       {
-        "en": "reckless",
-        "as": "বেপৰোৱা"
+        "en": "vast",
+        "as": "বিশাল"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'small' is an antonym of 'large'; it has the opposite meaning.",
-      "as": "'small' (সৰু) হৈছে 'large' (ডাঙৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Large' means greater than average in size — a large hall. Its opposite is 'small'. 'Big', 'huge' and 'vast' all describe the same size as large.",
+      "as": "'Large' মানে ডাঙৰ — a large hall। ইয়াৰ ওলোটা 'small'। 'Big', 'huge' আৰু 'vast' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -7387,26 +7387,26 @@
     },
     "options": [
       {
-        "en": "recurrent",
-        "as": "সঘনাই হোৱা"
+        "en": "dormant",
+        "as": "সুপ্ত"
       },
       {
-        "en": "receive",
-        "as": "গ্ৰহণ কৰা"
+        "en": "hidden",
+        "as": "লুকুৱা"
       },
       {
         "en": "active",
         "as": "সক্ৰিয়"
       },
       {
-        "en": "recede",
-        "as": "পিছুৱাই যোৱা"
+        "en": "potential",
+        "as": "সম্ভাব্য"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'active' is an antonym of 'latent'; it has the opposite meaning.",
-      "as": "'active' (সক্ৰিয়) হৈছে 'latent' (সুপ্ত) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Latent' means present but not yet active — latent talent. Its opposite is 'active'. 'Dormant', 'hidden' and 'potential' all describe the same quiet, unshown state.",
+      "as": "'Latent' মানে সুপ্ত — latent talent। ইয়াৰ ওলোটা 'active'। 'Dormant', 'hidden' আৰু 'potential' একেই অৱস্থা বুজায়।"
     }
   },
   {
@@ -7511,22 +7511,22 @@
         "as": "কঠোৰ"
       },
       {
-        "en": "dutiful",
-        "as": "কৰ্তব্যনিষ্ঠ"
+        "en": "mild",
+        "as": "মৃদু"
       },
       {
-        "en": "vice",
-        "as": "দুৰ্গুণ"
-      },
-      {
-        "en": "delicate",
+        "en": "gentle",
         "as": "কোমল"
+      },
+      {
+        "en": "forgiving",
+        "as": "ক্ষমাশীল"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'strict' is an antonym of 'lenient'; it has the opposite meaning.",
-      "as": "'strict' (কঠোৰ) হৈছে 'lenient' (নৰম) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Lenient' means not strict in punishing — a lenient judge. Its opposite is 'strict'. 'Mild', 'gentle' and 'forgiving' all describe the same softness as lenient towards an offender.",
+      "as": "'Lenient' মানে কোমল — a lenient judge। ইয়াৰ ওলোটা 'strict'। 'Mild', 'gentle' আৰু 'forgiving' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -7717,26 +7717,26 @@
     },
     "options": [
       {
-        "en": "village",
-        "as": "গাঁও"
+        "en": "noisy",
+        "as": "শব্দময়"
       },
       {
-        "en": "vice",
-        "as": "দুৰ্গুণ"
+        "en": "boisterous",
+        "as": "হুলস্থূলীয়া"
       },
       {
         "en": "quiet",
         "as": "শান্ত"
       },
       {
-        "en": "vast",
-        "as": "বিশাল"
+        "en": "deafening",
+        "as": "কাণ ফাটা"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'quiet' is an antonym of 'loud'; it has the opposite meaning.",
-      "as": "'quiet' (শান্ত) হৈছে 'loud' (চিঞৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Loud' means producing much sound — a loud speaker, a loud voice. Its opposite is 'quiet'. 'Noisy', 'boisterous' and 'deafening' all describe the same volume as loud.",
+      "as": "'Loud' মানে বেছি শব্দ কৰা — a loud speaker। ইয়াৰ ওলোটা 'quiet'। 'Noisy', 'boisterous' আৰু 'deafening' একেই শব্দ বুজায়।"
     }
   },
   {
@@ -7927,26 +7927,26 @@
     },
     "options": [
       {
-        "en": "sterile",
-        "as": "উৰ্বৰাহীন"
+        "en": "cheerful",
+        "as": "প্ৰফুল্ল"
       },
       {
-        "en": "overjoyed",
-        "as": "অতি আনন্দিত"
+        "en": "joyful",
+        "as": "আনন্দময়"
       },
       {
         "en": "sad",
         "as": "দুঃখী"
       },
       {
-        "en": "steady",
-        "as": "স্থিৰ"
+        "en": "jolly",
+        "as": "হাসিখুশি"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'sad' is an antonym of 'merry'; it has the opposite meaning.",
-      "as": "'sad' (দুঃখী) হৈছে 'merry' (আনন্দিত) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Merry' means happy and full of fun — a merry crowd. Its opposite is 'sad'. 'Cheerful', 'joyful' and 'jolly' all describe the same high spirits as merry.",
+      "as": "'Merry' মানে আনন্দময় — merry crowd। ওলোটা 'sad'। 'Cheerful', 'joyful' আৰু 'jolly' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -8317,16 +8317,16 @@
     },
     "options": [
       {
-        "en": "abrogate",
-        "as": "ৰদ কৰা"
+        "en": "local",
+        "as": "স্থানীয়"
       },
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "indigenous",
+        "as": "দেশজ"
       },
       {
-        "en": "abrupt",
-        "as": "আকস্মিক"
+        "en": "domestic",
+        "as": "ঘৰুৱা"
       },
       {
         "en": "foreign",
@@ -8335,8 +8335,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'foreign' is an antonym of 'native'; it has the opposite meaning.",
-      "as": "'foreign' (বিদেশী) হৈছে 'native' (স্থানীয়) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Native' means belonging to a place by birth — a native speaker. Its opposite is 'foreign'. 'Local', 'indigenous' and 'domestic' all describe the same belonging as native.",
+      "as": "'Native' মানে স্থানীয় — native speaker। ওলোটা 'foreign'। 'Local', 'indigenous' আৰু 'domestic' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -8587,16 +8587,16 @@
     },
     "options": [
       {
-        "en": "enigmatic",
-        "as": "ৰহস্যময়"
-      },
-      {
-        "en": "engaging",
-        "as": "আকৰ্ষণীয়"
+        "en": "get",
+        "as": "পোৱা"
       },
       {
         "en": "acquire",
         "as": "অৰ্জন কৰা"
+      },
+      {
+        "en": "secure",
+        "as": "নিশ্চিত কৰা"
       },
       {
         "en": "lose",
@@ -8605,8 +8605,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'lose' is an antonym of 'obtain'; it has the opposite meaning.",
-      "as": "'lose' (হাৰি যোৱা) হৈছে 'obtain' (পোৱা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Obtain' means to get something you wanted — to obtain permission. Its opposite is 'lose'. 'Get', 'acquire' and 'secure' all move in the same direction as obtain.",
+      "as": "'Obtain' মানে পোৱা — অনুমতি পোৱা। ওলোটা 'lose'। 'Get', 'acquire' আৰু 'secure' একেই দিশে যায়।"
     }
   },
   {
@@ -9161,22 +9161,22 @@
         "as": "অলংকৃত"
       },
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "simple",
+        "as": "সৰল"
       },
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "unadorned",
+        "as": "অলংকাৰহীন"
       },
       {
-        "en": "certain",
-        "as": "নিশ্চিত"
+        "en": "bare",
+        "as": "নগ্ন-সাদা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'ornate' is an antonym of 'plain'; it has the opposite meaning.",
-      "as": "'ornate' (অলংকৃত) হৈছে 'plain' (সৰল) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Plain' means without decoration — plain cloth, a plain wall. Its opposite is 'ornate', meaning heavily decorated. 'Simple', 'unadorned' and 'bare' all mean much the same as plain.",
+      "as": "'Plain' মানে অলংকাৰহীন — plain cloth, plain wall। ওলোটা 'ornate', অলংকৃত। 'Simple', 'unadorned' আৰু 'bare' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -9221,22 +9221,22 @@
         "as": "দুৰ্লভ"
       },
       {
-        "en": "village",
-        "as": "গাঁও"
+        "en": "abundant",
+        "as": "প্ৰচুৰ"
       },
       {
-        "en": "vice",
-        "as": "দুৰ্গুণ"
+        "en": "ample",
+        "as": "যথেষ্ট"
       },
       {
-        "en": "vast",
-        "as": "বিশাল"
+        "en": "copious",
+        "as": "বহুল"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'scarce' is an antonym of 'plentiful'; it has the opposite meaning.",
-      "as": "'scarce' (দুৰ্লভ) হৈছে 'plentiful' (প্ৰচুৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Plentiful' means existing in large amounts — a plentiful harvest. Its opposite is 'scarce'. 'Abundant', 'ample' and 'copious' all describe the same plenty as plentiful.",
+      "as": "'Plentiful' মানে প্ৰচুৰ — a plentiful harvest। ইয়াৰ ওলোটা 'scarce'। 'Abundant', 'ample' আৰু 'copious' একেই প্ৰচুৰতা বুজায়।"
     }
   },
   {
@@ -9851,22 +9851,22 @@
         "as": "আগবাঢ়া"
       },
       {
-        "en": "elder",
-        "as": "জ্যেষ্ঠ"
+        "en": "retreat",
+        "as": "পিছুৱাই যোৱা"
       },
       {
-        "en": "elephant",
-        "as": "হাতী"
+        "en": "withdraw",
+        "as": "আঁতৰি যোৱা"
       },
       {
-        "en": "elegant",
-        "as": "সুন্দৰ"
+        "en": "ebb",
+        "as": "নামি যোৱা"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'advance' is an antonym of 'recede'; it has the opposite meaning.",
-      "as": "'advance' (আগবাঢ়া) হৈছে 'recede' (পিছুৱাই যোৱা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Recede' means to move back — the flood waters receded, the tide receded. Its opposite is 'advance'. 'Retreat', 'withdraw' and 'ebb' all describe the same backward movement.",
+      "as": "'Recede' মানে পিছুৱাই যোৱা — বানপানী নামি গ'ল। ওলোটা 'advance'। 'Retreat', 'withdraw' আৰু 'ebb' একেই পিছুৱাই যোৱা বুজায়।"
     }
   },
   {
@@ -10357,26 +10357,26 @@
     },
     "options": [
       {
-        "en": "engaging",
-        "as": "আকৰ্ষণীয়"
+        "en": "rare",
+        "as": "বিৰল"
       },
       {
-        "en": "elder",
-        "as": "জ্যেষ্ঠ"
+        "en": "scanty",
+        "as": "অপৰ্যাপ্ত"
       },
       {
         "en": "abundant",
         "as": "প্ৰচুৰ"
       },
       {
-        "en": "lacking",
-        "as": "অভাবযুক্ত"
+        "en": "insufficient",
+        "as": "অপৰ্যাপ্ত"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'abundant' is an antonym of 'scarce'; it has the opposite meaning.",
-      "as": "'abundant' (প্ৰচুৰ) হৈছে 'scarce' (দুৰ্লভ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Scarce' means there is not enough of something — water was scarce. Its opposite is 'abundant', meaning plenty. 'Rare', 'scanty' and 'insufficient' all describe the same shortage.",
+      "as": "'Scarce' মানে দুৰ্লভ — পানী দুৰ্লভ আছিল। ওলোটা 'abundant'। 'Rare', 'scanty' আৰু 'insufficient' একেই অভাৱ বুজায়।"
     }
   },
   {
@@ -10447,26 +10447,26 @@
     },
     "options": [
       {
-        "en": "lovely",
-        "as": "ধুনীয়া"
+        "en": "elder",
+        "as": "জ্যেষ্ঠ"
       },
       {
-        "en": "engaging",
-        "as": "আকৰ্ষণীয়"
+        "en": "older",
+        "as": "বয়সত ডাঙৰ"
       },
       {
         "en": "junior",
         "as": "কনিষ্ঠ"
       },
       {
-        "en": "lacking",
-        "as": "অভাবযুক্ত"
+        "en": "superior",
+        "as": "উচ্চপদস্থ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'junior' is an antonym of 'senior'; it has the opposite meaning.",
-      "as": "'junior' (কনিষ্ঠ) হৈছে 'senior' (জ্যেষ্ঠ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Senior' means older or higher in rank — a senior officer. Its opposite is 'junior'. 'Elder', 'older' and 'superior' all describe the same higher position as senior.",
+      "as": "'Senior' মানে জ্যেষ্ঠ — senior officer। ওলোটা 'junior'। 'Elder', 'older' আৰু 'superior' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -10507,16 +10507,16 @@
     },
     "options": [
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "grave",
+        "as": "গুৰুতৰ"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "solemn",
+        "as": "গম্ভীৰ"
       },
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "earnest",
+        "as": "আন্তৰিক"
       },
       {
         "en": "frivolous",
@@ -10525,8 +10525,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'frivolous' is an antonym of 'serious'; it has the opposite meaning.",
-      "as": "'frivolous' (অগুৰুত্বপূৰ্ণ) হৈছে 'serious' (গম্ভীৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Serious' means important and not to be joked about — a serious injury. Its opposite is 'frivolous', meaning not serious at all. 'Grave', 'solemn' and 'earnest' all mean much the same as serious.",
+      "as": "'Serious' মানে গুৰুতৰ — serious injury। ওলোটা 'frivolous', ধেমেলীয়া। 'Grave', 'solemn' আৰু 'earnest' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -10687,16 +10687,16 @@
     },
     "options": [
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "easy",
+        "as": "সহজ"
       },
       {
-        "en": "certain",
-        "as": "নিশ্চিত"
+        "en": "plain",
+        "as": "সৰল"
       },
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "straightforward",
+        "as": "পোনপটীয়া"
       },
       {
         "en": "complex",
@@ -10705,8 +10705,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'complex' is an antonym of 'simple'; it has the opposite meaning.",
-      "as": "'complex' (জটিল) হৈছে 'simple' (সৰল) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Simple' means easy to do or understand — a simple sum. Its opposite is 'complex'. 'Easy', 'plain' and 'straightforward' all mean much the same as simple.",
+      "as": "'Simple' মানে সৰল — simple sum। ওলোটা 'complex'। 'Easy', 'plain' আৰু 'straightforward' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -10717,26 +10717,26 @@
     },
     "options": [
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "genuine",
+        "as": "প্ৰকৃত"
       },
       {
         "en": "insincere",
         "as": "অসৎ"
       },
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "honest",
+        "as": "সৎ"
       },
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "heartfelt",
+        "as": "হৃদয়ৰ পৰা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'insincere' is an antonym of 'sincere'; it has the opposite meaning.",
-      "as": "'insincere' (অসৎ) হৈছে 'sincere' (আন্তৰিক) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Sincere' means meaning what you say — a sincere apology, a sincere offer. Its opposite is 'insincere'. 'Genuine', 'honest' and 'heartfelt' all mean the same as sincere.",
+      "as": "'Sincere' মানে আন্তৰিক — sincere apology, sincere offer। ওলোটা 'insincere'। 'Genuine', 'honest' আৰু 'heartfelt' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -10777,26 +10777,26 @@
     },
     "options": [
       {
-        "en": "lend",
-        "as": "ঋণ দিয়া"
+        "en": "even",
+        "as": "সমতল"
       },
       {
         "en": "rough",
         "as": "খহটা"
       },
       {
-        "en": "fluent",
-        "as": "সাৱলীল"
+        "en": "level",
+        "as": "সমান"
       },
       {
-        "en": "articulate",
-        "as": "স্পষ্টভাৱে ক'ব পৰা"
+        "en": "sleek",
+        "as": "মসৃণ"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'rough' is an antonym of 'smooth'; it has the opposite meaning.",
-      "as": "'rough' (খহটা) হৈছে 'smooth' (মসৃণ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Smooth' means having an even surface — smooth stone, smooth skin. Its opposite is 'rough'. 'Even', 'level' and 'sleek' all describe the same evenness as smooth.",
+      "as": "'Smooth' মানে মসৃণ — smooth stone, smooth skin। ওলোটা 'rough'। 'Even', 'level' আৰু 'sleek' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -10837,26 +10837,26 @@
     },
     "options": [
       {
-        "en": "secure",
-        "as": "নিৰাপদ"
+        "en": "hard",
+        "as": "কঠিন"
       },
       {
-        "en": "fit",
-        "as": "সুস্থ"
+        "en": "firm",
+        "as": "দৃঢ়"
       },
       {
         "en": "liquid",
         "as": "তৰল"
       },
       {
-        "en": "safe",
-        "as": "নিৰাপদ"
+        "en": "compact",
+        "as": "ঘনসন্নিবিষ্ট"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'liquid' is an antonym of 'solid'; it has the opposite meaning.",
-      "as": "'liquid' (তৰল) হৈছে 'solid' (ঘন) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Solid' means hard and not hollow — solid rock. Its opposite is 'liquid', a state that flows. 'Hard', 'firm' and 'compact' all describe the same firmness as solid.",
+      "as": "'Solid' মানে কঠিন — solid rock। ওলোটা 'liquid', তৰল। 'Hard', 'firm' আৰু 'compact' একেই দৃঢ়তা বুজায়।"
     }
   },
   {
@@ -10931,22 +10931,22 @@
         "as": "নিষ্প্ৰভ"
       },
       {
-        "en": "engaging",
-        "as": "আকৰ্ষণীয়"
+        "en": "magnificent",
+        "as": "ভৱ্য"
       },
       {
-        "en": "lacking",
-        "as": "অভাবযুক্ত"
+        "en": "grand",
+        "as": "মহিমান্বিত"
       },
       {
-        "en": "elder",
-        "as": "জ্যেষ্ঠ"
+        "en": "superb",
+        "as": "অতি উত্তম"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'dull' is an antonym of 'splendid'; it has the opposite meaning.",
-      "as": "'dull' (নিষ্প্ৰভ) হৈছে 'splendid' (ভৱ্য) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Splendid' means very impressive — a splendid palace, a splendid view. Its opposite is 'dull', meaning uninteresting. 'Magnificent', 'grand' and 'superb' all mean much the same as splendid.",
+      "as": "'Splendid' মানে ভৱ্য — splendid palace, splendid view। ওলোটা 'dull'। 'Magnificent', 'grand' আৰু 'superb' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -10957,12 +10957,12 @@
     },
     "options": [
       {
-        "en": "safe",
-        "as": "নিৰাপদ"
+        "en": "steady",
+        "as": "স্থিৰ"
       },
       {
-        "en": "fit",
-        "as": "সুস্থ"
+        "en": "firm",
+        "as": "দৃঢ়"
       },
       {
         "en": "secure",
@@ -10975,8 +10975,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'unstable' is an antonym of 'stable'; it has the opposite meaning.",
-      "as": "'unstable' (অস্থিৰ) হৈছে 'stable' (স্থিৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Stable' means not likely to change or fall — a stable structure. Its opposite is 'unstable'. 'Steady', 'firm' and 'secure' all describe the same reliability as stable.",
+      "as": "'Stable' মানে স্থিৰ — stable structure। ওলোটা 'unstable'। 'Steady', 'firm' আৰু 'secure' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -11017,26 +11017,26 @@
     },
     "options": [
       {
-        "en": "secure",
-        "as": "নিৰাপদ"
+        "en": "strict",
+        "as": "কঠোৰ"
       },
       {
         "en": "lenient",
         "as": "নৰম"
       },
       {
-        "en": "fit",
-        "as": "সুস্থ"
+        "en": "severe",
+        "as": "তীব্ৰ"
       },
       {
-        "en": "safe",
-        "as": "নিৰাপদ"
+        "en": "harsh",
+        "as": "কৰ্কশ"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'lenient' is an antonym of 'stern'; it has the opposite meaning.",
-      "as": "'lenient' (নৰম) হৈছে 'stern' (কঠোৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Stern' means firm and serious in manner — a stern warning. Its opposite is 'lenient', meaning not strict in punishing. 'Strict', 'severe' and 'harsh' all mean much the same as stern.",
+      "as": "'Stern' মানে কঠোৰ — stern warning। ওলোটা 'lenient', কোমল। 'Strict', 'severe' আৰু 'harsh' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -11077,16 +11077,16 @@
     },
     "options": [
       {
-        "en": "safe",
-        "as": "নিৰাপদ"
+        "en": "stern",
+        "as": "কঠোৰ"
       },
       {
-        "en": "secure",
-        "as": "নিৰাপদ"
+        "en": "rigid",
+        "as": "কঠোৰ"
       },
       {
-        "en": "fit",
-        "as": "সুস্থ"
+        "en": "severe",
+        "as": "তীব্ৰ"
       },
       {
         "en": "lenient",
@@ -11095,8 +11095,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'lenient' is an antonym of 'strict'; it has the opposite meaning.",
-      "as": "'lenient' (নৰম) হৈছে 'strict' (কঠোৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Strict' means insisting on rules being followed — a strict teacher. Its opposite is 'lenient'. 'Stern', 'rigid' and 'severe' all describe the same firmness as strict.",
+      "as": "'Strict' মানে কঠোৰ — strict teacher। ওলোটা 'lenient'। 'Stern', 'rigid' আৰু 'severe' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -11107,16 +11107,16 @@
     },
     "options": [
       {
-        "en": "fit",
-        "as": "সুস্থ"
+        "en": "powerful",
+        "as": "প্ৰবল"
       },
       {
-        "en": "secure",
-        "as": "নিৰাপদ"
+        "en": "sturdy",
+        "as": "দৃঢ়"
       },
       {
-        "en": "safe",
-        "as": "নিৰাপদ"
+        "en": "mighty",
+        "as": "বলৱান"
       },
       {
         "en": "weak",
@@ -11125,8 +11125,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'weak' is an antonym of 'strong'; it has the opposite meaning.",
-      "as": "'weak' (দুৰ্বল) হৈছে 'strong' (বলৱান) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Strong' means having great power or force — a strong man, a strong wind. Its opposite is 'weak'. 'Powerful', 'sturdy' and 'mighty' all mean the same as strong does.",
+      "as": "'Strong' মানে শক্তিশালী — strong man, strong wind। ওলোটা 'weak'। 'Powerful', 'sturdy' আৰু 'mighty' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -11137,26 +11137,26 @@
     },
     "options": [
       {
-        "en": "secure",
-        "as": "নিৰাপদ"
+        "en": "obstinate",
+        "as": "জেদী"
       },
       {
-        "en": "safe",
-        "as": "নিৰাপদ"
+        "en": "rigid",
+        "as": "কঠোৰ"
       },
       {
         "en": "flexible",
         "as": "নমনীয়"
       },
       {
-        "en": "fit",
-        "as": "সুস্থ"
+        "en": "headstrong",
+        "as": "একগুঁৱে"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'flexible' is an antonym of 'stubborn'; it has the opposite meaning.",
-      "as": "'flexible' (নমনীয়) হৈছে 'stubborn' (একগুঁয়ে) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Stubborn' means refusing to change your mind — a stubborn mule, a stubborn refusal. Its opposite is 'flexible'. 'Obstinate', 'rigid' and 'headstrong' all describe the same refusal.",
+      "as": "'Stubborn' মানে জেদী — stubborn mule। ওলোটা 'flexible'। 'Obstinate', 'rigid' আৰু 'headstrong' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -11167,26 +11167,26 @@
     },
     "options": [
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "foolish",
+        "as": "মূৰ্খ"
       },
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "dull",
+        "as": "মন্থৰ"
       },
       {
         "en": "intelligent",
         "as": "বুদ্ধিমান"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "silly",
+        "as": "মূৰ্খ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'intelligent' is an antonym of 'stupid'; it has the opposite meaning.",
-      "as": "'intelligent' (বুদ্ধিমান) হৈছে 'stupid' (মূৰ্খ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Stupid' means showing very little intelligence — a stupid mistake. Its opposite is 'intelligent'. 'Foolish', 'dull' and 'silly' all mean much the same as stupid does.",
+      "as": "'Stupid' মানে বুদ্ধিহীন — stupid mistake। ওলোটা 'intelligent'। 'Foolish', 'dull' আৰু 'silly' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -11321,22 +11321,22 @@
         "as": "নিকৃষ্ট"
       },
       {
-        "en": "engaging",
-        "as": "আকৰ্ষণীয়"
+        "en": "better",
+        "as": "উত্তম"
       },
       {
-        "en": "lacking",
-        "as": "অভাবযুক্ত"
+        "en": "higher",
+        "as": "উচ্চ"
       },
       {
-        "en": "elder",
-        "as": "জ্যেষ্ঠ"
+        "en": "greater",
+        "as": "শ্ৰেষ্ঠ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'inferior' is an antonym of 'superior'; it has the opposite meaning.",
-      "as": "'inferior' (নিকৃষ্ট) হৈছে 'superior' (উচ্চ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Superior' means better or higher in rank — superior quality. Its opposite is 'inferior'. 'Better', 'higher' and 'greater' all describe the same higher standing as superior.",
+      "as": "'Superior' মানে শ্ৰেষ্ঠ — superior quality। ওলোটা 'inferior'। 'Better', 'higher' আৰু 'greater' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -11561,22 +11561,22 @@
         "as": "জিৰণি লোৱা"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "taut",
+        "as": "টান"
       },
       {
-        "en": "camera",
-        "as": "কেমেৰা"
+        "en": "tight",
+        "as": "টান"
       },
       {
-        "en": "captivate",
-        "as": "মোহিত কৰা"
+        "en": "nervous",
+        "as": "উদ্বিগ্ন"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'relaxed' is an antonym of 'tense'; it has the opposite meaning.",
-      "as": "'relaxed' (জিৰণি লোৱা) হৈছে 'tense' (তনু) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Tense' means pulled tight or nervous — tense muscles before an exam. Its opposite is 'relaxed'. 'Taut', 'tight' and 'nervous' all describe the same tension as tense.",
+      "as": "'Tense' মানে টান বা উদ্বিগ্ন — পৰীক্ষাৰ আগতে tense muscles। ওলোটা 'relaxed'। 'Taut', 'tight' আৰু 'nervous' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -11587,26 +11587,26 @@
     },
     "options": [
       {
-        "en": "secure",
-        "as": "নিৰাপদ"
+        "en": "dense",
+        "as": "ঘন"
       },
       {
         "en": "thin",
         "as": "পাতল"
       },
       {
-        "en": "fit",
-        "as": "সুস্থ"
+        "en": "wide",
+        "as": "বহল"
       },
       {
-        "en": "safe",
-        "as": "নিৰাপদ"
+        "en": "broad",
+        "as": "প্ৰশস্ত"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'thin' is an antonym of 'thick'; it has the opposite meaning.",
-      "as": "'thin' (পাতল) হৈছে 'thick' (ডাঠ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Thick' means having a large distance between opposite sides — a thick wall. Its opposite is 'thin'. 'Dense', 'wide' and 'broad' all point the same way as thick.",
+      "as": "'Thick' মানে ডাঠ — thick wall। ওলোটা 'thin'। 'Dense', 'wide' আৰু 'broad' একেই দিশে যায়।"
     }
   },
   {
@@ -11797,16 +11797,16 @@
     },
     "options": [
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "clear",
+        "as": "স্বচ্ছ"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "see-through",
+        "as": "চুব পৰা"
       },
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "glassy",
+        "as": "কাচৰ দৰে"
       },
       {
         "en": "opaque",
@@ -11815,8 +11815,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'opaque' is an antonym of 'transparent'; it has the opposite meaning.",
-      "as": "'opaque' (অস্বচ্ছ) হৈছে 'transparent' (স্বচ্ছ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Transparent' means you can see through it — transparent glass. Its opposite is 'opaque', meaning no light passes through. 'Clear', 'see-through' and 'glassy' all mean the same as transparent.",
+      "as": "'Transparent' মানে চুব পৰা — transparent glass। ওলোটা 'opaque'। 'Clear', 'see-through' আৰু 'glassy' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -11857,16 +11857,16 @@
     },
     "options": [
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "correct",
+        "as": "শুদ্ধ"
       },
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "accurate",
+        "as": "সঠিক"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "factual",
+        "as": "তথ্যভিত্তিক"
       },
       {
         "en": "false",
@@ -11875,8 +11875,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'false' is an antonym of 'true'; it has the opposite meaning.",
-      "as": "'false' (মিছা) হৈছে 'true' (সত্য) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'True' means matching the facts — a true story, a true account. Its opposite is 'false'. 'Correct', 'accurate' and 'factual' all mean the same as true.",
+      "as": "'True' মানে সঁচা — true story, true account। ওলোটা 'false'। 'Correct', 'accurate' আৰু 'factual' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -11917,26 +11917,26 @@
     },
     "options": [
       {
-        "en": "lengthy",
-        "as": "দীঘলীয়া"
+        "en": "join",
+        "as": "যোগ কৰা"
       },
       {
         "en": "divide",
         "as": "বিভক্ত কৰা"
       },
       {
-        "en": "lend",
-        "as": "ঋণ দিয়া"
+        "en": "combine",
+        "as": "একত্ৰ কৰা"
       },
       {
-        "en": "lazy",
-        "as": "অলস"
+        "en": "merge",
+        "as": "একত্ৰিত কৰা"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'divide' is an antonym of 'unite'; it has the opposite meaning.",
-      "as": "'divide' (বিভক্ত কৰা) হৈছে 'unite' (একত্ৰিত কৰা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Unite' means to bring together — to unite the groups. Its opposite is 'divide'. 'Join', 'combine' and 'merge' all move in the same direction as unite.",
+      "as": "'Unite' মানে একত্ৰ কৰা — to unite the groups। ইয়াৰ ওলোটা 'divide'। 'Join', 'combine' আৰু 'merge' একেই দিশে যায়।"
     }
   },
   {
@@ -11947,26 +11947,26 @@
     },
     "options": [
       {
-        "en": "engaging",
-        "as": "আকৰ্ষণীয়"
+        "en": "rare",
+        "as": "বিৰল"
       },
       {
-        "en": "lacking",
-        "as": "অভাবযুক্ত"
+        "en": "strange",
+        "as": "অদ্ভুত"
       },
       {
         "en": "usual",
         "as": "সাধাৰণ"
       },
       {
-        "en": "elder",
-        "as": "জ্যেষ্ঠ"
+        "en": "odd",
+        "as": "অসাধাৰণ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'usual' is an antonym of 'unusual'; it has the opposite meaning.",
-      "as": "'usual' (সাধাৰণ) হৈছে 'unusual' (অসাধাৰণ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Unusual' means not happening often — an unusual colour, an unusual event. Its opposite is 'usual'. 'Rare', 'strange' and 'odd' all describe the same uncommon quality as unusual.",
+      "as": "'Unusual' মানে অসাধাৰণ — unusual colour, unusual event। ওলোটা 'usual'। 'Rare', 'strange' আৰু 'odd' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -12037,26 +12037,26 @@
     },
     "options": [
       {
-        "en": "buy",
-        "as": "কিনা"
+        "en": "empty",
+        "as": "খালী"
       },
       {
-        "en": "camera",
-        "as": "কেমেৰা"
+        "en": "free",
+        "as": "মুকলি"
       },
       {
         "en": "occupied",
         "as": "ব্যস্ত"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "available",
+        "as": "উপলব্ধ"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'occupied' is an antonym of 'vacant'; it has the opposite meaning.",
-      "as": "'occupied' (ব্যস্ত) হৈছে 'vacant' (খালী) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Vacant' means not occupied — a vacant seat, a vacant room. Its opposite is 'occupied'. 'Empty', 'free' and 'available' all describe the same state as vacant.",
+      "as": "'Vacant' মানে খালী — vacant seat, vacant room। ওলোটা 'occupied'। 'Empty', 'free' আৰু 'available' একেই অৱস্থা বুজায়।"
     }
   },
   {
@@ -12157,16 +12157,16 @@
     },
     "options": [
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "disappear",
+        "as": "অদৃশ্য হোৱা"
       },
       {
-        "en": "accurate",
-        "as": "সঠিক"
+        "en": "fade",
+        "as": "ম্লান হোৱা"
       },
       {
-        "en": "absurd",
-        "as": "অযৌক্তিক"
+        "en": "evaporate",
+        "as": "বাষ্পীভূত হোৱা"
       },
       {
         "en": "appear",
@@ -12175,8 +12175,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'appear' is an antonym of 'vanish'; it has the opposite meaning.",
-      "as": "'appear' (ওলোৱা) হৈছে 'vanish' (নাইকিয়া হোৱা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Vanish' means to go out of sight suddenly — the keys vanished. Its opposite is 'appear'. 'Disappear', 'fade' and 'evaporate' all move in the same direction as vanish.",
+      "as": "'Vanish' মানে হঠাৎ নোহোৱা হোৱা — চাবি নোহোৱা হ'ল। ওলোটা 'appear'। 'Disappear', 'fade' আৰু 'evaporate' একেই দিশে যায়।"
     }
   },
   {
@@ -12277,26 +12277,26 @@
     },
     "options": [
       {
-        "en": "fit",
-        "as": "সুস্থ"
+        "en": "strong",
+        "as": "শক্তিশালী"
       },
       {
         "en": "weak",
         "as": "দুৰ্বল"
       },
       {
-        "en": "safe",
-        "as": "নিৰাপদ"
+        "en": "energetic",
+        "as": "কৰ্মঠ"
       },
       {
-        "en": "secure",
-        "as": "নিৰাপদ"
+        "en": "lively",
+        "as": "জীৱন্ত"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'weak' is an antonym of 'vigorous'; it has the opposite meaning.",
-      "as": "'weak' (দুৰ্বল) হৈছে 'vigorous' (সবল) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Vigorous' means full of energy and force — a vigorous effort. Its opposite is 'weak'. 'Strong', 'energetic' and 'lively' all describe the same energy as vigorous.",
+      "as": "'Vigorous' মানে সক্ৰিয় আৰু শক্তিশালী — vigorous effort। ওলোটা 'weak'। 'Strong', 'energetic' আৰু 'lively' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -12307,16 +12307,16 @@
     },
     "options": [
       {
-        "en": "flower",
-        "as": "ফুল"
+        "en": "fierce",
+        "as": "হিংস্ৰ"
       },
       {
         "en": "savage",
         "as": "বৰ্বৰ"
       },
       {
-        "en": "fluent",
-        "as": "সাৱলীল"
+        "en": "brutal",
+        "as": "নিষ্ঠুৰ"
       },
       {
         "en": "gentle",
@@ -12325,8 +12325,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'gentle' is an antonym of 'violent'; it has the opposite meaning.",
-      "as": "'gentle' (কোমল) হৈছে 'violent' (হিংস্ৰ) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Violent' means using force to hurt — a violent attack. Its opposite is 'gentle'. 'Fierce', 'savage' and 'brutal' all describe the same force as violent.",
+      "as": "'Violent' মানে হিংস্ৰ — violent attack। ওলোটা 'gentle'। 'Fierce', 'savage' আৰু 'brutal' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -12367,26 +12367,26 @@
     },
     "options": [
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "bright",
+        "as": "উজ্জ্বল"
       },
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "intense",
+        "as": "তীব্ৰ"
       },
       {
         "en": "dull",
         "as": "নিষ্প্ৰভ"
       },
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "striking",
+        "as": "চকুত লগা"
       }
     ],
     "correct": 2,
     "explanation": {
-      "en": "'dull' is an antonym of 'vivid'; it has the opposite meaning.",
-      "as": "'dull' (নিষ্প্ৰভ) হৈছে 'vivid' (স্পষ্ট) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Vivid' means very bright or clear — vivid colours. Its opposite is 'dull'. 'Bright', 'intense' and 'striking' all describe the same strength of colour as vivid.",
+      "as": "'Vivid' মানে উজ্জ্বল — vivid colours। ওলোটা 'dull'। 'Bright', 'intense' আৰু 'striking' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -12581,22 +12581,22 @@
         "as": "বলৱান"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "feeble",
+        "as": "দুৰ্বল"
       },
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "frail",
+        "as": "কৃশ"
       },
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "faint",
+        "as": "ক্ষীণ"
       }
     ],
     "correct": 0,
     "explanation": {
-      "en": "'strong' is an antonym of 'weak'; it has the opposite meaning.",
-      "as": "'strong' (বলৱান) হৈছে 'weak' (দুৰ্বল) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Weak' means lacking strength — a weak argument, a weak heart. Its opposite is 'strong'. 'Feeble', 'frail' and 'faint' all mean much the same as weak.",
+      "as": "'Weak' মানে দুৰ্বল — weak argument, weak heart। ওলোটা 'strong'। 'Feeble', 'frail' আৰু 'faint' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -12787,15 +12787,15 @@
     },
     "options": [
       {
-        "en": "secure",
-        "as": "নিৰাপদ"
+        "en": "untamed",
+        "as": "অপোহনীয়া"
       },
       {
         "en": "tame",
         "as": "পোহনীয়া"
       },
       {
-        "en": "ferocious",
+        "en": "fierce",
         "as": "হিংস্ৰ"
       },
       {
@@ -12805,8 +12805,8 @@
     ],
     "correct": 1,
     "explanation": {
-      "en": "'tame' is an antonym of 'wild'; it has the opposite meaning.",
-      "as": "'tame' (পোহনীয়া) হৈছে 'wild' (বনৰীয়া) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Wild' means living without human control — a wild horse. Its opposite is 'tame'. 'Untamed', 'fierce' and 'savage' all describe the same lack of control as wild.",
+      "as": "'Wild' মানে বনৰীয়া — wild horse। ওলোটা 'tame'। 'Untamed', 'fierce' আৰু 'savage' একেই অৰ্থ দিয়ে।"
     }
   },
   {
@@ -12937,16 +12937,16 @@
     },
     "options": [
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "shrivel",
+        "as": "শুকাই কোঁচা খোৱা"
       },
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "dry",
+        "as": "শুকান হোৱা"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "droop",
+        "as": "মৰহি পৰা"
       },
       {
         "en": "flourish",
@@ -12955,8 +12955,8 @@
     ],
     "correct": 3,
     "explanation": {
-      "en": "'flourish' is an antonym of 'wither'; it has the opposite meaning.",
-      "as": "'flourish' (সমৃদ্ধ হোৱা) হৈছে 'wither' (শুকাই যোৱা) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Wither' means to dry up and droop — the flowers withered. Its opposite is 'flourish', meaning to grow well. 'Shrivel', 'dry' and 'droop' all describe the same decline.",
+      "as": "'Wither' মানে শুকাই মৰহি যোৱা — ফুলবোৰ মৰহি গ'ল। ওলোটা 'flourish'। 'Shrivel', 'dry' আৰু 'droop' একেই অৱনতি বুজায়।"
     }
   },
   {
@@ -12997,26 +12997,26 @@
     },
     "options": [
       {
-        "en": "amusing",
-        "as": "হাস্যকৰ"
+        "en": "humorous",
+        "as": "ৰসিক"
       },
       {
         "en": "dull",
         "as": "নিষ্প্ৰভ"
       },
       {
-        "en": "candid",
-        "as": "সৰল"
+        "en": "funny",
+        "as": "হাস্যকৰ"
       },
       {
-        "en": "absolve",
-        "as": "দোষমুক্ত কৰা"
+        "en": "clever",
+        "as": "চতুৰ"
       }
     ],
     "correct": 1,
     "explanation": {
-      "en": "'dull' is an antonym of 'witty'; it has the opposite meaning.",
-      "as": "'dull' (নিষ্প্ৰভ) হৈছে 'witty' (ৰসিক) ৰ বিপৰীত অৰ্থৰ শব্দ।"
+      "en": "'Witty' means clever and amusing in speech — a witty remark. Its opposite is 'dull'. 'Humorous', 'funny' and 'clever' all describe the same sharp humour as witty.",
+      "as": "'Witty' মানে ৰসিক — witty remark। ওলোটা 'dull'। 'Humorous', 'funny' আৰু 'clever' একেই অৰ্থ দিয়ে।"
     }
   },
   {
