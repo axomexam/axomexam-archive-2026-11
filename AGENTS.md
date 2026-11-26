@@ -4408,3 +4408,14 @@ subject does. The bank that is unambiguously broken is the vocabulary pair:
 
 So option repair is roughly 430 items, not 15,000. Everything else needs the
 explanation work, not new options.
+
+Mock-test sets are generated, not authored:
+`tools/build-exam-mock-sets.js` draws each `data/exam-mock-sets/<exam>/set-<n>.json`
+from the exam bank. A question repaired in `data/exams/...` therefore stays stale
+in the mock set until that builder is re-run, and the same question text then
+exists in two files with different options. Regenerate the sets after a bank
+repair pass, not per batch.
+
+`data/content/english/vocabulary/synonyms-antonyms.json` is a separate 212-item
+bank and is clean — its distractors are real synonyms of the target. Do not
+assume a problem found in `data/exams` repeats there.
