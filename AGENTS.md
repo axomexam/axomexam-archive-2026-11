@@ -4333,3 +4333,30 @@ and the tool skips them.
 narrows to a directory, `--strict` exits 1 while anything fails. Rewriting is
 subject work, not a script: the explanation has to say something true that the
 question did not.
+
+### Where an explanation is actually edited
+
+`data/exams/**/question-00N.json` is generated. Editing it is wasted work: the
+next `node tools/build-adre-grade-3.js` rewrites the file from
+`tools/english-src/*.js`, and the pages from that.
+
+The chain for the ADRE Grade III English bank:
+
+```
+tools/english-src/synonyms.js        authored rows, one per line
+tools/build-english-questions.js     -> tools/adre-grade-3.questions.english.js
+tools/build-adre-grade-3.js          -> data/exams/adre-grade-3/** + exams/adre-grade-3/**
+```
+
+A full rebuild also reverts the post-processing passes (bylines, FAQ schema,
+language-switch links, keyword-map titles) on the pages it touches, so for a
+handful of explanation rewrites it is cheaper to edit the source, apply the same
+text to the generated JSON and page, and leave the rest of the page alone:
+
+```bash
+node tools/set-source-explanations.js batch.json   # tools/english-src/*
+node tools/apply-explanations.js batch.json        # data JSON + matching page
+```
+
+Both match rows on the English question text, not on the generated id, because
+the builder shuffles option order and renumbers ids.

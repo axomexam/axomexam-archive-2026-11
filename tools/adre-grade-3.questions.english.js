@@ -76522,8 +76522,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "'abrogate' is a synonym of 'abolish'; both words have nearly the same meaning.",
-    "as": "'abrogate' (ৰদ কৰা) হৈছে 'abolish' (বিলুপ্ত কৰা) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Abolish' means to end a law, system or practice officially — a parliament abolishes a tax. 'Abrogate' is the formal word for repealing a law or an agreement, so it fits best. 'Establish' is the opposite, 'halt' means to stop for a while, and 'advance' means to move forward.",
+    "as": "'Abolish' মানে কোনো আইন, ব্যৱস্থা বা প্ৰথা চৰকাৰীভাৱে বন্ধ কৰা। 'Abrogate' আইন বা চুক্তি ৰদ কৰাৰ আনুষ্ঠানিক শব্দ, গতিকে ইয়েই শুদ্ধ। 'Establish' ওলোটা অৰ্থ, 'Halt' মানে অলপ সময়ৰ বাবে ৰখা, 'Advance' মানে আগবাঢ়ি যোৱা।"
    }
   },
   {
@@ -76552,8 +76552,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'sudden' is a synonym of 'abrupt'; both words have nearly the same meaning.",
-    "as": "'sudden' (আকস্মিক) হৈছে 'abrupt' (আকস্মিক) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Abrupt' means sudden and unexpected, as in an abrupt halt or an abrupt change of plan. 'Sudden' matches that sense exactly. 'Abundant' and 'abundance' mean plenty, and 'absurd' means ridiculous; they only look alike.",
+    "as": "'Abrupt' মানে হঠাৎ আৰু অপ্ৰত্যাশিত — যেনে হঠাৎ ৰৈ যোৱা বা পৰিকল্পনাৰ হঠাৎ সলনি। 'Sudden' য়ে ঠিক সেই অৰ্থ দিয়ে। 'Abundant' আৰু 'abundance' মানে প্ৰচুৰতা, 'absurd' মানে অযৌক্তিক — দেখিবলৈহে একে।"
    }
   },
   {
@@ -76582,8 +76582,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'ridiculous' is a synonym of 'absurd'; both words have nearly the same meaning.",
-    "as": "'ridiculous' (হাস্যকৰ) হৈছে 'absurd' (অযৌক্তিক) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Absurd' means so unreasonable that it is laughable — an absurd excuse is one nobody can believe. 'Ridiculous' carries the same idea. 'Abundant' and 'abundance' mean plenty, and 'abrupt' means sudden; none of them concerns reason.",
+    "as": "'Absurd' মানে ইমান অযৌক্তিক যে হাঁহি উঠে — absurd excuse অৰ্থাৎ অবিশ্বাস্য অজুহাত। 'Ridiculous' য়ে একেই ভাৱ দিয়ে। 'Abundant' আৰু 'abundance' মানে প্ৰচুৰতা, 'abrupt' মানে হঠাৎ।"
    }
   },
   {
@@ -76612,8 +76612,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "'plentiful' is a synonym of 'abundant'; both words have nearly the same meaning.",
-    "as": "'plentiful' (প্ৰচুৰ) হৈছে 'abundant' (প্ৰচুৰ) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Abundant' means existing in large quantity — abundant rainfall, abundant evidence. 'Plentiful' means exactly that. 'Abundance' is the noun form, not the adjective this sentence needs, while 'abrupt' means sudden and 'absurd' means ridiculous.",
+    "as": "'Abundant' মানে প্ৰচুৰ পৰিমাণত থকা — abundant rainfall, abundant evidence। 'Plentiful' মানে ঠিক তাকেই। 'Abundance' ইয়াৰ বিশেষ্য ৰূপ, বিশেষণ নহয়; 'abrupt' মানে হঠাৎ, 'absurd' মানে অযৌক্তিক।"
    }
   },
   {
@@ -76642,8 +76642,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "'receive' is a synonym of 'accept'; both words have nearly the same meaning.",
-    "as": "'receive' (গ্ৰহণ কৰা) হৈছে 'accept' (স্বীকাৰ কৰা) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Accept' means to agree to take what is offered — to accept a job, an apology or a gift. 'Receive' is the closest synonym, though it is more neutral: you can receive a parcel without agreeing to anything. The other three options are unrelated words.",
+    "as": "'Accept' মানে দিয়া বস্তু গ্ৰহণ কৰিবলৈ মান্তি হোৱা — চাকৰি, ক্ষমা বা উপহাৰ গ্ৰহণ কৰা। 'Receive' আটাইতকৈ ওচৰৰ সমাৰ্থক। বাকী তিনিটা শব্দৰ ইয়াৰ লগত সম্পৰ্ক নাই।"
    }
   },
   {
@@ -76672,8 +76672,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "'exact' is a synonym of 'accurate'; both words have nearly the same meaning.",
-    "as": "'exact' (সঠিক) হৈছে 'accurate' (সঠিক) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Accurate' means correct in every detail — an accurate measurement, an accurate answer. 'Exact' carries the same sense of precision. 'Abundant' means plenty, 'abundance' is its noun form, and 'abrupt' means sudden; none of them is about correctness.",
+    "as": "'Accurate' মানে প্ৰতিটো বিৱৰণত শুদ্ধ — accurate measurement, accurate answer। 'Exact' য়ে একেই নিখুঁততা বুজায়। 'Abundant' মানে প্ৰচুৰ, 'abrupt' মানে হঠাৎ — শুদ্ধতাৰ লগত সম্পৰ্ক নাই।"
    }
   },
   {
@@ -76702,8 +76702,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "'absolve' is a synonym of 'acquit'; both words have nearly the same meaning.",
-    "as": "'absolve' (দোষমুক্ত কৰা) হৈছে 'acquit' (দোষমুক্ত কৰা) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Acquit' means to declare someone not guilty in a court — the jury acquitted him of all charges. 'Absolve' means to free someone from blame or guilt, which is the closest sense. 'Abundance', 'abrupt' and 'abundant' are unrelated words with no legal meaning.",
+    "as": "'Acquit' মানে আদালতত কাকোবা নিৰ্দোষ বুলি ঘোষণা কৰা। 'Absolve' মানে দোষৰ পৰা মুকলি কৰা, গতিকে ইয়েই ওচৰৰ অৰ্থ। বাকী তিনিওটা শব্দৰ আইনী অৰ্থ নাই।"
    }
   },
   {
@@ -76732,8 +76732,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "'firm' is a synonym of 'adamant'; both words have nearly the same meaning.",
-    "as": "'firm' (দৃঢ়) হৈছে 'adamant' (অটল) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Adamant' means refusing to change your mind — she was adamant that she would not resign. 'Firm' shares that sense of being unshakeable. 'Abundance' means plenty, 'absurd' means ridiculous and 'abrupt' means sudden; none of them means resolute.",
+    "as": "'Adamant' মানে নিজৰ সিদ্ধান্ত সলনি কৰিবলৈ অস্বীকাৰ কৰা — তাই চাকৰি এৰিব নিদিয়াৰ বাবে অটল আছিল। 'Firm' য়ে সেই অটলতা বুজায়। বাকী তিনিওটাৰ অৰ্থ প্ৰচুৰ, অযৌক্তিক আৰু হঠাৎ।"
    }
   },
   {
@@ -76762,8 +76762,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "'misfortune' is a synonym of 'adversity'; both words have nearly the same meaning.",
-    "as": "'misfortune' (দুৰ্ভাগ্য) হৈছে 'adversity' (বিপদ) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Adversity' means serious difficulty or misfortune — a family that survives adversity together. 'Misfortune' is the closest synonym. 'Abundance' means plenty and is nearly the opposite, while 'abrupt' and 'absurd' are unrelated in meaning.",
+    "as": "'Adversity' মানে গুৰুতৰ কষ্ট বা দুৰ্ভাগ্য — adversity সহ্য কৰি জীয়াই থকা পৰিয়াল। 'Misfortune' আটাইতকৈ ওচৰৰ সমাৰ্থক। 'Abundance' মানে প্ৰচুৰতা, প্ৰায় ওলোটা অৰ্থ।"
    }
   },
   {
@@ -76792,8 +76792,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "'progress' is a synonym of 'advance'; both words have nearly the same meaning.",
-    "as": "'progress' (উন্নতি) হৈছে 'advance' (আগবাঢ়া) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Advance' means to move forward or make progress — the army advanced, the work advanced. 'Progress' carries the same idea. 'Halt' means to stop, so it is the opposite; 'abolish' means to end a law, and 'establish' means to set something up.",
+    "as": "'Advance' মানে আগবাঢ়ি যোৱা বা অগ্ৰগতি কৰা। 'Progress' য়ে একেই অৰ্থ দিয়ে। 'Halt' মানে ৰখা — ওলোটা; 'abolish' মানে আইন বিলুপ্ত কৰা, 'establish' মানে প্ৰতিষ্ঠা কৰা।"
    }
   },
   {
@@ -76822,8 +76822,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'friendly' is a synonym of 'affable'; both words have nearly the same meaning.",
-    "as": "'friendly' (বন্ধুত্বপূৰ্ণ) হৈছে 'affable' (বন্ধুত্বপূৰ্ণ) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Affable' describes someone warm and easy to talk to — an affable host puts every guest at ease. 'Friendly' is the closest synonym. 'Abundance' means plenty, 'absurd' means ridiculous and 'abrupt' means sudden or curt.",
+    "as": "'Affable' মানে মিলাপ্ৰিয় আৰু সহজে কথা পাতিব পৰা — affable host এ অতিথিক সহজ অনুভৱ কৰায়। 'Friendly' আটাইতকৈ ওচৰৰ সমাৰ্থক। বাকী তিনিওটাৰ অৰ্থ প্ৰচুৰ, অযৌক্তিক আৰু হঠাৎ।"
    }
   },
   {
@@ -76852,8 +76852,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "'nimble' is a synonym of 'agile'; both words have nearly the same meaning.",
-    "as": "'nimble' (চটফটীয়া) হৈছে 'agile' (চটফটীয়া) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Agile' means able to move quickly and easily — an agile gymnast, an agile mind. 'Nimble' means exactly that. 'Abundant' and 'abundance' mean plenty, and 'absurd' means ridiculous; none of them is about movement.",
+    "as": "'Agile' মানে দ্ৰুত আৰু সহজে লৰচৰ কৰিব পৰা — agile gymnast, agile mind। 'Nimble' মানে ঠিক তাকেই। 'Abundant' আৰু 'abundance' মানে প্ৰচুৰ, 'absurd' মানে অযৌক্তিক।"
    }
   },
   {
@@ -76882,8 +76882,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "'relieve' is a synonym of 'alleviate'; both words have nearly the same meaning.",
-    "as": "'relieve' (লাঘৱ কৰা) হৈছে 'alleviate' (লাঘৱ কৰা) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Alleviate' means to make pain or difficulty less severe — a medicine that alleviates a headache. 'Relieve' is the closest synonym. The other three options, 'abrupt', 'absurd' and 'abundance', carry no sense of reducing anything.",
+    "as": "'Alleviate' মানে বিষ বা কষ্ট কম কৰা — মূৰৰ বিষ কমোৱা ঔষধ। 'Relieve' আটাইতকৈ ওচৰৰ সমাৰ্থক। বাকী তিনিওটা শব্দই কোনো বস্তু কমোৱাৰ অৰ্থ নিদিয়ে।"
    }
   },
   {
@@ -76912,8 +76912,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "'unclear' is a synonym of 'ambiguous'; both words have nearly the same meaning.",
-    "as": "'unclear' (অস্পষ্ট) হৈছে 'ambiguous' (দ্ব্যৰ্থক) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Ambiguous' means open to more than one interpretation — an ambiguous answer leaves you unsure what was meant. 'Unclear' is the closest synonym. 'Abundance' means plenty, 'abrupt' means sudden and 'absurd' means ridiculous.",
+    "as": "'Ambiguous' মানে একাধিক অৰ্থত ল'ব পৰা — ambiguous answer এ আপোনাক অনিশ্চিত কৰি ৰাখে। 'Unclear' ওচৰৰ সমাৰ্থক। বাকী তিনিওটাৰ অৰ্থ প্ৰচুৰ, হঠাৎ আৰু অযৌক্তিক।"
    }
   },
   {
@@ -76942,8 +76942,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'plentiful' is a synonym of 'ample'; both words have nearly the same meaning.",
-    "as": "'plentiful' (প্ৰচুৰ) হৈছে 'ample' (পৰ্যাপ্ত) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Ample' means more than enough — ample time, ample space. 'Plentiful' means the same thing. 'Abundance' is the noun for a large quantity and does not fit an adjective slot, while 'absurd' and 'abrupt' are unrelated.",
+    "as": "'Ample' মানে প্ৰয়োজনতকৈ অধিক — ample time, ample space। 'Plentiful' য়ে একেই অৰ্থ দিয়ে। 'Abundance' বিশেষ্য, বিশেষণ নহয়; 'absurd' আৰু 'abrupt' সম্পৰ্কহীন।"
    }
   },
   {
@@ -76972,8 +76972,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "'old' is a synonym of 'ancient'; both words have nearly the same meaning.",
-    "as": "'old' (পুৰণি) হৈছে 'ancient' (প্ৰাচীন) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Ancient' means belonging to the very distant past — ancient India, an ancient temple. 'Old' is the closest everyday synonym, though 'ancient' is far stronger. The other options mean plenty, ridiculous and sudden.",
+    "as": "'Ancient' মানে বহু পুৰণি কালৰ — ancient India, ancient temple। 'Old' আটাইতকৈ ওচৰৰ সহজ সমাৰ্থক, যদিও 'ancient' বেছি গুৰুত্বপূৰ্ণ। বাকী তিনিওটাৰ অৰ্থ প্ৰচুৰ, অযৌক্তিক, হঠাৎ।"
    }
   },
   {
@@ -77002,8 +77002,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'ancient' is a synonym of 'antique'; both words have nearly the same meaning.",
-    "as": "'ancient' (প্ৰাচীন) হৈছে 'antique' (পুৰণি) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Antique' describes an old and valuable object — antique furniture, an antique coin. 'Ancient' refers to the distant past, so it is the closest option here. The rest mean plenty, ridiculous and sudden, and share nothing with age or value.",
+    "as": "'Antique' মানে পুৰণি আৰু মূল্যৱান বস্তু — antique furniture, antique coin। 'Ancient' বহু দূৰৰ অতীতক বুজায়, গতিকে ইয়েই আটাইতকৈ ওচৰ। বাকী তিনিওটা সম্পৰ্কহীন।"
    }
   },
   {
@@ -77032,8 +77032,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "'indifference' is a synonym of 'apathy'; both words have nearly the same meaning.",
-    "as": "'indifference' (উদাসীনতা) হৈছে 'apathy' (উদাসীনতা) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Apathy' means a lack of interest or concern — voter apathy keeps people away from the polls. 'Indifference' means exactly that. 'Compassion' is the opposite, 'cruelty' means deliberately causing harm, and 'celerity' means speed.",
+    "as": "'Apathy' মানে আগ্ৰহ বা চিন্তাৰ অভাৱ — voter apathy ৰ বাবে মানুহ ভোট দিব নাযায়। 'Indifference' মানে ঠিক তাকেই। 'Compassion' ওলোটা, 'cruelty' মানে ইচ্ছাকৃত হিংসা, 'celerity' মানে গতি।"
    }
   },
   {
@@ -77062,8 +77062,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'evident' is a synonym of 'apparent'; both words have nearly the same meaning.",
-    "as": "'evident' (স্পষ্ট) হৈছে 'apparent' (স্পষ্ট) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Apparent' means clearly visible or easily understood — it soon became apparent that he was right. 'Evident' means the same thing. 'Abundant' and 'abundance' mean plenty, and 'abrupt' means sudden; none of them means obvious.",
+    "as": "'Apparent' মানে স্পষ্ট দেখা বা সহজে বুজা — সোনকালেই apparent হ'ল যে তেওঁ শুদ্ধ আছিল। 'Evident' য়ে একেই অৰ্থ দিয়ে। বাকী তিনিওটাৰ অৰ্থ প্ৰচুৰ, প্ৰচুৰতা আৰু হঠাৎ।"
    }
   },
   {
@@ -77092,8 +77092,8 @@ module.exports = {
    ],
    "correct": 2,
    "explanation": {
-    "en": "'dry' is a synonym of 'arid'; both words have nearly the same meaning.",
-    "as": "'dry' (শুকান) হৈছে 'arid' (শুকান) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Arid' means extremely dry, describing land that gets almost no rain — an arid region needs irrigation to farm. 'Dry' is the direct synonym. 'Moist' and 'damp' are its opposites, and 'fertile' means able to grow crops well.",
+    "as": "'Arid' মানে অতি শুকান, বৰষুণ কম পোৱা মাটি — arid অঞ্চলত খেতিৰ বাবে জলসিঞ্চন লাগে। 'Dry' পোনপটীয়া সমাৰ্থক। 'Moist' আৰু 'damp' ওলোটা, 'fertile' মানে উৰ্বৰ।"
    }
   },
   {
@@ -77122,8 +77122,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "'haughty' is a synonym of 'arrogant'; both words have nearly the same meaning.",
-    "as": "'haughty' (অহংকাৰী) হৈছে 'arrogant' (অহংকাৰী) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Arrogant' describes someone who believes they are better than everyone else — an arrogant official refuses to listen. 'Haughty' means exactly that. 'Abundance' means plenty, 'absurd' means ridiculous and 'abrupt' means sudden.",
+    "as": "'Arrogant' মানে নিজকে আনতকৈ শ্ৰেষ্ঠ ভবা — arrogant official এ কাৰো কথা নুশুনে। 'Haughty' মানে ঠিক তাকেই। বাকী তিনিওটাৰ অৰ্থ প্ৰচুৰ, অযৌক্তিক আৰু হঠাৎ।"
    }
   },
   {
@@ -77152,8 +77152,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "'synthetic' is a synonym of 'artificial'; both words have nearly the same meaning.",
-    "as": "'synthetic' (কৃত্ৰিম) হৈছে 'artificial' (কৃত্ৰিম) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Artificial' means made by people rather than occurring naturally — artificial light, artificial flavours. 'Synthetic' is the closest synonym. The other three options mean sudden, plenty and ridiculous, and none of them means man-made.",
+    "as": "'Artificial' মানে প্ৰাকৃতিক নহয়, মানুহে বনোৱা — artificial light, artificial flavours। 'Synthetic' আটাইতকৈ ওচৰৰ সমাৰ্থক। বাকী তিনিওটাৰ অৰ্থ হঠাৎ, প্ৰচুৰ আৰু অযৌক্তিক।"
    }
   },
   {
@@ -77182,8 +77182,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'rise' is a synonym of 'ascend'; both words have nearly the same meaning.",
-    "as": "'rise' (উঠা) হৈছে 'ascend' (উঠা) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Ascend' means to go up — the climbers ascended the peak before dawn. 'Rise' is the direct synonym. 'Descend' means to go down and 'fall' means to drop, so both are opposites; 'cautious' means careful and does not describe movement.",
+    "as": "'Ascend' মানে ওপৰলৈ যোৱা — আৰোহণকাৰীয়ে ৰাতিপুৱাৰ আগতে শিখৰত আৰোহণ কৰিলে। 'Rise' পোনপটীয়া সমাৰ্থক। 'Descend' মানে তললৈ যোৱা, 'fall' মানে পৰা — দুয়োটা ওলোটা; 'cautious' মানে সাৱধান।"
    }
   },
   {
@@ -77212,8 +77212,8 @@ module.exports = {
    ],
    "correct": 0,
    "explanation": {
-    "en": "'genuine' is a synonym of 'authentic'; both words have nearly the same meaning.",
-    "as": "'genuine' (আচল) হৈছে 'authentic' (প্ৰকৃত) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Authentic' means genuine and not a copy — an authentic signature, an authentic account of events. 'Genuine' is the exact synonym. 'Abundant' and 'abundance' mean plenty, and 'abrupt' means sudden; none of them is about being real.",
+    "as": "'Authentic' মানে প্ৰকৃত, নকল নহয় — authentic signature, ঘটনাৰ authentic বিৱৰণ। 'Genuine' ঠিক সমাৰ্থক। 'Abundant' আৰু 'abundance' মানে প্ৰচুৰ, 'abrupt' মানে হঠাৎ।"
    }
   },
   {
@@ -77242,8 +77242,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'greed' is a synonym of 'avarice'; both words have nearly the same meaning.",
-    "as": "'greed' (লোভ) হৈছে 'avarice' (লোভ) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Avarice' means an extreme greed for wealth — avarice drove him to cheat his own partners. 'Greed' is the direct synonym. 'Generosity' is the opposite, 'bewilder' means to confuse, and 'better' is a comparison, not a noun of this kind.",
+    "as": "'Avarice' মানে ধনৰ অতি লোভ — avarice ৰ বাবে তেওঁ নিজৰ সংগীক ঠগিছিল। 'Greed' পোনপটীয়া সমাৰ্থক। 'Generosity' ওলোটা, 'bewilder' মানে বিভ্ৰান্ত কৰা।"
    }
   },
   {
@@ -77272,8 +77272,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'clumsy' is a synonym of 'awkward'; both words have nearly the same meaning.",
-    "as": "'clumsy' (অদক্ষ) হৈছে 'awkward' (অদক্ষ) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Awkward' means clumsy or lacking grace — an awkward movement, an awkward silence. 'Clumsy' is the closest synonym. The other options mean sudden, plenty and ridiculous; none of them describes a person's movement or manner.",
+    "as": "'Awkward' মানে অদক্ষ বা লাজুক লৰচৰ — awkward movement, awkward silence। 'Clumsy' আটাইতকৈ ওচৰৰ সমাৰ্থক। বাকী তিনিওটাৰ অৰ্থ হঠাৎ, প্ৰচুৰ আৰু অযৌক্তিক।"
    }
   },
   {
@@ -77302,8 +77302,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'cruel' is a synonym of 'barbarous'; both words have nearly the same meaning.",
-    "as": "'cruel' (নিষ্ঠুৰ) হৈছে 'barbarous' (বৰ্বৰ) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Barbarous' means extremely cruel or savage — a barbarous act of violence. 'Cruel' is the closest synonym. The remaining options mean plenty, sudden and ridiculous, so none of them carries the idea of brutality.",
+    "as": "'Barbarous' মানে অতি নিষ্ঠুৰ বা বৰ্বৰ — barbarous act of violence। 'Cruel' আটাইতকৈ ওচৰৰ সমাৰ্থক। বাকী তিনিওটাৰ অৰ্থ প্ৰচুৰ, হঠাৎ আৰু অযৌক্তিক।"
    }
   },
   {
@@ -77332,8 +77332,8 @@ module.exports = {
    ],
    "correct": 3,
    "explanation": {
-    "en": "'infertile' is a synonym of 'barren'; both words have nearly the same meaning.",
-    "as": "'infertile' (উৰ্বৰাহীন) হৈছে 'barren' (উৰ্বৰাহীন) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Barren' means unable to produce crops or young — barren land, a barren tree. 'Infertile' is the direct synonym. 'Fertile' is its opposite, while 'moist' and 'damp' describe slight wetness and say nothing about productivity.",
+    "as": "'Barren' মানে শস্য বা সন্তান উৎপাদন কৰিব নোৱাৰা — barren land, barren tree। 'Infertile' পোনপটীয়া সমাৰ্থক। 'Fertile' ওলোটা, 'moist' আৰু 'damp' মানে সামান্য তিতা।"
    }
   },
   {
@@ -77362,8 +77362,8 @@ module.exports = {
    ],
    "correct": 1,
    "explanation": {
-    "en": "'lovely' is a synonym of 'beautiful'; both words have nearly the same meaning.",
-    "as": "'lovely' (ধুনীয়া) হৈছে 'beautiful' (ধুনীয়া) ৰ সমাৰ্থক শব্দ।"
+    "en": "'Beautiful' means pleasing to look at or to hear — a beautiful voice, a beautiful valley. 'Lovely' is the closest synonym in everyday use. The other options mean ridiculous, sudden and plenty, none of which describes beauty.",
+    "as": "'Beautiful' মানে চাবলৈ বা শুনিবলৈ সুন্দৰ — beautiful voice, beautiful valley। 'Lovely' দৈনন্দিন ব্যৱহাৰত আটাইতকৈ ওচৰৰ সমাৰ্থক। বাকী তিনিওটাৰ অৰ্থ অযৌক্তিক, হঠাৎ আৰু প্ৰচুৰ।"
    }
   },
   {
