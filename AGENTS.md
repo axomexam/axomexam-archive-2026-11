@@ -4360,3 +4360,23 @@ node tools/apply-explanations.js batch.json        # data JSON + matching page
 
 Both match rows on the English question text, not on the generated id, because
 the builder shuffles option order and renumbers ids.
+
+### Repairing options, not just explanations
+
+An item whose three distractors are unrelated words tests nothing:
+`Choose the synonym of 'beautiful' → absurd, lovely, abrupt, abundance`. 298 of
+the 438 synonym items are in that state. `tools/set-source-options.js` replaces
+the whole option set and the explanation together, because they must agree.
+
+Two traps, both hit once:
+
+- **The answer is named, not indexed.** `"correct": "sudden"`, never `3`. The
+  source row, the generated JSON and the page hold the options in three
+  different orders, so a positional replacement silently moves the answer key.
+  After writing, the tool re-anchors `correct` to the index of the named word.
+- **Distractors pair by position within the distractor list**, excluding the
+  answer word, because that list order does survive the shuffle.
+
+Verify a batch, never trust it: for every row, the generated JSON's
+`options[correct]` must equal the named answer, and the page's
+`Answer:</strong> <span>X) word</span>` letter must point at that same word.
