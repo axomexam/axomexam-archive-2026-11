@@ -4380,3 +4380,31 @@ Two traps, both hit once:
 Verify a batch, never trust it: for every row, the generated JSON's
 `options[correct]` must equal the named answer, and the page's
 `Answer:</strong> <span>X) word</span>` letter must point at that same word.
+
+### Option audit: 86,622 items, and what the number means
+
+`tools/check-options.js` flags an item when its three wrong options come back
+together across five or more different questions — a pool was pasted in.
+
+Run on the whole bank: 15,685 items (18%) sit in a recycled option set. Most of
+that is legitimate, and reading the top pools shows why:
+
+| pool | questions | verdict |
+|---|---|---|
+| `abrupt \| absurd \| abundance` | 229 | filler: unrelated to the target word |
+| `a \| no article \| the` | 139 | legitimate: articles question |
+| `1-2-3-4 \| 2-3-4-1 \| 4-1-2-3` | 87 | legitimate: sentence ordering |
+| `dibrugarh \| jorhat \| silchar` | 44 | legitimate: districts |
+| `hive \| nest \| web` | 67 | legitimate: animal homes |
+
+Closed-set subjects (grammar, reasoning, GK) repeat their options because the
+subject does. The bank that is unambiguously broken is the vocabulary pair:
+
+| file | pooled items | total |
+|---|---|---|
+| `adre-grade-3/.../vocabulary/synonyms` | 291 | 438 |
+| `adre-grade-3/.../vocabulary/antonyms` | 111 | 438 |
+| `dhs-dme-technical/.../vocabulary/general-vocabulary` | 27 | 201 |
+
+So option repair is roughly 430 items, not 15,000. Everything else needs the
+explanation work, not new options.
